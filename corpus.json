@@ -1,0 +1,8 @@
+{
+  "corpus": "us",
+  "layout": "<inn>/<setid>/label.json and <loinc>-<slug>.md; one commit per DailyMed label version, dated at DailyMed's Published-Date; the Published-Date trailer is authoritative",
+  "scope": "Human prescription drug labels (SPL) of the selected molecules, one folder per setid and one file per LOINC section",
+  "sources": [
+    "DailyMed, U.S. National Library of Medicine (dailymed.nlm.nih.gov)"
+  ]
+}
