@@ -1,0 +1,67 @@
+# INDICATIONS AND USAGE
+
+## Treatment of Influenza
+
+TAMIFLU is indicated for the treatment of uncomplicated acute illness due to influenza infection in patients 1 year and older who have been symptomatic for no more than 2 days.
+
+## Prophylaxis of Influenza
+
+TAMIFLU is indicated for the prophylaxis of influenza in adult patients and adolescents 13 years and older.
+
+TAMIFLU is not a substitute for early vaccination on an annual basis as recommended by the Centers for Disease Controls Immunization Practices Advisory Committee.
+
+## Description of Clinical Studies: Studies in Naturally Occurring Influenza
+
+## Treatment of Influenza
+
+### Adult Patients
+
+Two phase III placebo-controlled and double-blind clinical trials were conducted: one in the USA and one outside the USA.
+Patients were eligible for these trials if they had fever >100°F, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache) and influenza virus was known to be circulating in the community.
+In addition, all patients enrolled in the trials were allowed to take fever-reducing medications.
+
+Of 1355 patients enrolled in these two trials, 849 (63%) patients were influenza-infected (age range 18 to 65 years; median age 34 years; 52% male; 90% Caucasian; 31% smokers).
+Of the 849 influenza-infected patients, 95% were infected with influenza A, 3% with influenza B, and 2% with influenza of unknown type.
+
+TAMIFLU was started within 40 hours of onset of symptoms.
+Subjects participating in the trials were required to self-assess the influenza-associated symptoms as "none", "mild", "moderate" or "severe".
+Time to improvement was calculated from the time of treatment initiation to the time when all symptoms (nasal congestion, sore throat, cough, aches, fatigue, headaches, and chills/sweats) were assessed as "none" or "mild".
+In both studies, at the recommended dose of TAMIFLU 75 mg twice daily for 5 days, there was a 1.3 day reduction in the median time to improvement in influenza-infected subjects receiving TAMIFLU compared to subjects receiving placebo.
+Subgroup analyses of these studies by gender showed no differences in the treatment effect of TAMIFLU in men and women.
+
+In the treatment of influenza, no increased efficacy was demonstrated in subjects receiving treatment of 150 mg TAMIFLU twice daily for 5 days.
+
+### Geriatric Patients
+
+Three double-blind placebo-controlled treatment trials were conducted in patients ≥65 years of age in three consecutive seasons.
+The enrollment criteria were similar to that of adult trials with the exception of fever being defined as >97.5°F.
+Of 741 patients enrolled, 476 (65%) patients were influenza-infected.
+Of the 476 influenza-infected patients, 95% were infected with influenza type A and 5% with influenza type B.
+
+In the pooled analysis, at the recommended dose of TAMIFLU 75 mg twice daily for 5 days, there was a 1 day reduction in the median time to improvement in influenza-infected subjects receiving TAMIFLU compared to those receiving placebo (p=NS).
+However, the magnitude of treatment effect varied between studies.
+
+### Pediatric Patients
+
+One double-blind placebo-controlled treatment trial was conducted in pediatric patients aged 1 to 12 years (median age 5 years), who had fever (>100°F) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
+Of 698 patients enrolled in this trial, 452 (65%) were influenza-infected (50% male; 68% Caucasian).
+Of the 452 influenza-infected patients, 67% were infected with influenza A and 33% with influenza B.
+
+The primary endpoint in this study was the time to freedom from illness, a composite endpoint which required 4 individual conditions to be met.
+These were: alleviation of cough, alleviation of coryza, resolution of fever, and parental opinion of a return to normal health and activity.
+TAMIFLU treatment of 2 mg/kg twice daily, started within 48 hours of onset of symptoms, significantly reduced the total composite time to freedom from illness by 1.5 days compared to placebo.
+Subgroup analyses of this study by gender showed no differences in the treatment effect of TAMIFLU in males and females.
+
+## Prophylaxis of Influenza
+
+The efficacy of TAMIFLU in preventing naturally occurring influenza illness has been demonstrated in three seasonal prophylaxis studies and a postexposure prophylaxis study in households.
+The primary efficacy parameter for all these studies was the incidence of laboratory confirmed clinical influenza.
+Laboratory confirmed clinical influenza was defined as oral temperature ≥99.0°F/37.2°C plus at least one respiratory symptom (cough, sore throat, nasal congestion) and at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), all recorded within 24 hours, plus either a positive virus isolation or a fourfold increase in virus antibody titers from baseline.
+
+In a pooled analysis of two seasonal prophylaxis studies in healthy unvaccinated adults (aged 13 to 65 years), TAMIFLU 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory confirmed clinical influenza from 4.8% (25/519) for the placebo group to 1.2% (6/520) for the TAMIFLU group.
+
+In a seasonal prophylaxis study in elderly residents of skilled nursing homes, TAMIFLU 75 mg once daily taken for 42 days reduced the incidence of laboratory confirmed clinical influenza from 4.4% (12/272) for the placebo group to 0.4% (1/276) for the TAMIFLU group.
+About 80% of this elderly population were vaccinated, 14% of subjects had chronic airway obstructive disorders, and 43% had cardiac disorders.
+
+In a study of postexposure prophylaxis in household contacts (aged ≥13 years) of an index case, TAMIFLU 75 mg once daily administered within 2 days of onset of symptoms in the index case and continued for 7 days reduced the incidence of laboratory confirmed clinical influenza from 12% (24/200) in the placebo group to 1% (2/205) for the TAMIFLU group.
+Index cases did not receive TAMIFLU in the study.
