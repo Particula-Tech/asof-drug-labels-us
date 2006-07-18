@@ -1,0 +1,5 @@
+# CONTRAINDICATIONS
+
+NOT FOR INJECTION BY USUAL PARENTERAL ROUTES.
+
+Do not use in patients with anuria.
