@@ -1,0 +1,46 @@
+# ADVERSE REACTIONS
+
+## Observed in Clinical Trials of Surgical Patients
+
+Adverse experiences were uncommon among the 945 surgical patients who received NIMBEX in conjunction with other drugs in US and European clinical studies in the course of a wide variety of procedures in patients receiving opioid, propofol, or inhalation anesthesia.
+The following adverse experiences were judged by investigators during the clinical trials to have a possible causal relationship to administration of NIMBEX:
+
+### Incidence Greater than 1%
+
+None.
+
+### Incidence Less than 1%
+
+#### Cardiovascular
+
+bradycardia (0.4%) hypotension (0.2%) flushing (0.2%).
+
+#### Respiratory
+
+bronchospasm (0.2%).
+
+#### Dermatological
+
+rash (0.1%).
+
+## Observed in Clinical Trials of Intensive Care Unit Patients
+
+Adverse experiences were uncommon among the 68 ICU patients who received NIMBEX in conjunction with other drugs in US and European clinical studies.
+One patient experienced bronchospasm.
+In one of the two ICU studies, a randomized and double-blind study of ICU patients using TOF neuromuscular monitoring, there were two reports of prolonged recovery (167 and 270 minutes) among 28 patients administered NIMBEX and 13 reports of prolonged recovery (range: 90 minutes to 33 hours) among 30 patients administered vecuronium.
+
+## Observed During Clinical Practice
+
+In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of cisatracurium besylate in conjunction with one or more anesthetic agents in clinical practice.
+Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to cisatracurium besylate.
+
+### General
+
+Histamine release, hypersensitivity reactions including anaphylactic or anaphylactoid responses which, in rare instances, were severe.
+There are rare reports of wheezing, laryngospasm, bronchospasm, rash and itching following administration of NIMBEX in children.
+These reported adverse events were not serious and their etiology could not be established with certainty.
+
+### Musculoskeletal
+
+Prolonged neuromuscular block, inadequate neuromuscular block, muscle weakness, and myopathy.
