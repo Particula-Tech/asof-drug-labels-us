@@ -1,0 +1,26 @@
+# OVERDOSAGE
+
+## Overdose Experience With Valcyte Tablets
+
+One adult developed fatal bone marrow depression (medullary aplasia) after several days of dosing that was at least 10-fold greater than recommended for the patient's estimated degree of renal impairment.
+
+It is expected that an overdose of Valcyte tablets could also possibly result in increased renal toxicity (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION: Renal Impairment).
+
+Since ganciclovir is dialyzable, dialysis may be useful in reducing serum concentrations in patients who have received an overdose of Valcyte tablets (see CLINICAL PHARMACOLOGY: Special Populations: Hemodialysis).
+Adequate hydration should be maintained.
+The use of hematopoietic growth factors should be considered (see CLINICAL PHARMACOLOGY: Special Populations: Hemodialysis).
+
+## Overdose Experience With Intravenous Ganciclovir
+
+Reports of overdoses with intravenous ganciclovir have been received from clinical trials and during postmarketing experience.
+The majority of patients experienced one or more of the following adverse events:
+
+Hematological toxicity: pancytopenia, bone marrow depression, medullary aplasia, leukopenia, neutropenia, granulocytopenia
+
+Hepatotoxicity: hepatitis, liver function disorder
+
+Renal toxicity: worsening of hematuria in a patient with pre-existing renal impairment, acute renal failure, elevated creatinine
+
+Gastrointestinal toxicity: abdominal pain, diarrhea, vomiting
+
+Neurotoxicity: generalized tremor, convulsion
