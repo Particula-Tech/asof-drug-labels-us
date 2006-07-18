@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090767"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "Methapharm, Inc.",
+  "package_ndcs": [
+    "67850-011-01",
+    "67850-012-01",
+    "67850-013-01",
+    "67850-014-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levetiracetam",
+      "name": "Levetiracetam"
+    }
+  ],
+  "setid": "db0a1e4b-90b1-4754-9a6d-17042e54ce05",
+  "source": "dailymed"
+}
