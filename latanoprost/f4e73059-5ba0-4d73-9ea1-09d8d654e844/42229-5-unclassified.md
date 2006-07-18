@@ -1,0 +1,5 @@
+Rx only
+
+Manufactured By: Cardinal Health Woodstock, IL 60098, USA
+
+LAB-0135-4.0
