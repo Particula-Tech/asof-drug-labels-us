@@ -1,0 +1,55 @@
+# DOSAGE AND ADMINISTRATION
+
+Dosage should be individualized for maximum beneficial effect.
+While the usual daily dosages given below will meet the needs of most patients, there will be some who require doses greater than 4 mg/day.
+In such cases, dosage should be increased cautiously to avoid adverse effects.
+
+## Anxiety disorders and transient symptoms of anxiety
+
+Treatment for patients with anxiety should be initiated with a dose of 0.25 to 0.5 mg given three times daily.
+The dose may be increased to achieve a maximum therapeutic effect, at intervals of 3 to 4 days, to a maximum daily dose of 4 mg, given in divided doses.
+The lowest possible effective dose should be employed and the need for continued treatment reassessed frequently.
+The risk of dependence may increase with dose and duration of treatment.
+
+In elderly patients, in patients with advanced liver disease or in patients with debilitating disease, the usual starting dose is 0.25 mg, given two or three times daily.
+This may be gradually increased if needed and tolerated.
+The elderly may be especially sensitive to the effects of benzodiazepines.
+
+If side effects occur at the recommended starting dose, the dose may be lowered.
+
+In all patients, dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
+Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every three days.
+Some patients may require an even slower dosage reduction.
+
+## Panic disorder
+
+The successful treatment of many panic disorder patients has required the use of alprazolam at doses greater than 4 mg daily.
+In controlled trials conducted to establish the efficacy of alprazolam in panic disorder, doses in the range of 1 to 10 mg daily were used.
+The mean dosage employed was approximately 5 to 6 mg daily.
+Among the approximately 1700 patients participating in the panic disorder development program, about 300 received alprazolam in dosages of greater than 7 mg/day, including approximately 100 patients who received maximum dosages of greater than 9 mg/day.
+Occasional patients required as much as 10 mg a day to achieve a successful response.
+
+Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
+Thereafter, the dose can be increased at intervals equal to at least 5 times the elimination half-life (about 11 hours in young patients, about 16 hours in elderly patients).
+Longer titration intervals should probably be used because the maximum therapeutic response may not occur until after the plasma levels achieve steady state.
+Dose should be advanced until an acceptable therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
+For patients receiving doses greater than 4 mg/day, periodic reassessment and consideration of dosage reduction is advised.
+In a controlled postmarketing dose-response study, pat ients treated with doses of alprazolam greater than 4 mg/day for three months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
+Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided.
+(See WARNINGS, PRECAUTIONS, DRUG ABUSE AND DEPENDENCE.)
+
+The following regimen is one that follows the principles outlined above:
+
+Treatment may be initiated with a dose of 0.5 mg three times daily.
+Depending on the response, the dose may be increased at intervals of 3 to 4 days in increments of no more than 1 mg per day.
+Slower titration to the dose levels greater than 4 mg/day may be advisable to allow full expression of the pharmacodynamic effect of alprazolam.
+To lessen the possibility of interdose symptoms, the times of administration should be distributed as evenly as possible throughout the waking hours, that is, on a three or four times per day schedule.
+
+The necessary duration of treatment for panic disorder patients responding to alprazolam is unknown.
+After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
+
+In any case, reduction of dose must be undertaken under close supervision and must be gradual.
+If significant withdrawal symptoms develop, the previous dosing schedule should be reinstituted and, only after stabilization, should a less rapid schedule of discontinuation be attempted.
+In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
+It is suggested that the dose be reduced by no more than 0.5 mg every three days, with the understanding that some patients may benefit from an even more gradual discontinuation.
+Some patients may prove resistant to all discontinuation regimens.
