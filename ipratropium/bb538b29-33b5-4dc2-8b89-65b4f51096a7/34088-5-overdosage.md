@@ -1,0 +1,4 @@
+# OVERDOSAGE
+
+Acute overdosage by inhalation is unlikely since ipratropium bromide is not well absorbed systemically after aerosol or oral administration.
+The oral median lethal dose of ipratropium bromide ranged between 1001 and 2010 mg/kg in mice (approximately 30,000 and 60,000 times the maximum recommended human daily inhalation dose on a mg/m2 basis, respectively); between 1667 and 4000 mg/kg in rats (approximately 100,000 and 240,000 times the maximum recommended human daily inhalation dose, respectively, on a mg/m2 basis); and between 400 and 1300 mg/kg in dogs (approximately 80,000 and 260,000 times the maximum recommended human daily inhalation dose, respectively, on a mg/m2 basis).
