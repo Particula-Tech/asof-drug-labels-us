@@ -2,7 +2,7 @@
 
 ## Mania
 
-DEPAKOTE (divalproex sodium) is indicated for the treatment of the manic episodes associated with bipolar disorder.
+DEPAKOTE (divalproex sodium) is indicated for thetreatment of the manic episodes associated with bipolar disorder.
 A manic episode is a distinct period of abnormally and persistently elevated, expansive, or irritable mood.
 Typical symptoms of mania include pressure of speech, motor hyperactivity, reduced need for sleep, flight of ideas, grandiosity, poor judgement, aggressiveness, and possible hostility.
 

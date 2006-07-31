@@ -40,7 +40,7 @@ Valproate concentrations in cerebrospinal fluid (CSF) approximate unbound concen
 
 Valproate is metabolized almost entirely by the liver.
 In adult patients on monotherapy, 30-50% of an administered dose appears in urine as a glucuronide conjugate.
-Mitochondrial β-oxidation is theother major metabolic pathway, typically accounting for over 40% of the dose.
+Mitochondrial β-oxidation is the other major metabolic pathway, typically accounting for over 40% of the dose.
 Usually, less than 15-20% of the dose is eliminated by other oxidative mechanisms.
 Less than 3% of an administered dose is excreted unchanged in urine.
 

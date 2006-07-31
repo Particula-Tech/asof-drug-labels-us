@@ -11,7 +11,7 @@ Table 1 summarizes those adverse events reported for patients in these trials wh
 Vomiting was the only event that was reported by significantly (p ≤ 0.05) more patients receiving DEPAKOTE compared to placebo.
 
 Table 1.
-Adverse Events Reported by> 5% of DEPAKOTE-Treated Patients During Placebo-Controlled Trials of Acute Mania1
+Adverse Events Reported by > 5% of DEPAKOTE-Treated Patients During Placebo-Controlled Trials of Acute Mania1
 
 | Adverse Event | DEPAKOTE (n = 89) | Placebo (n = 97) |
 | --- | --- | --- |
@@ -346,7 +346,7 @@ Acute pancreatitis including fatalities (see WARNINGS).
 
 ### Metabolic
 
-Hyperammonemia (seePRECAUTIONS), hyponatremia, and inappropriate ADH secretion.
+Hyperammonemia (see PRECAUTIONS), hyponatremia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 

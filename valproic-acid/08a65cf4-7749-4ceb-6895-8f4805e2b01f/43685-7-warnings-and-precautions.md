@@ -193,7 +193,7 @@ In contrast, drugs that are inhibitors of cytochrome P450 isozymes, e.g., antide
 Because of these changes in valproate clearance, monitoring of valproate and concomitant drug concentrations should be increased whenever enzyme inducing drugs are introduced or withdrawn.
 
 The following list provides information about the potential for an influence of several commonly prescribed medications on valproate pharmacokinetics.
-The list is not exhaustive nor could it be, since new interactions are continuouslybeing reported.
+The list is not exhaustive nor could it be, since new interactions are continuously being reported.
 
 ### Drugs for which a potentially important interaction has been observed
 
@@ -311,7 +311,7 @@ The clinical relevance of this displacement is unknown.
 
 #### Topiramate
 
-Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy (see CONTRAINDICATIONS and WARNINGS - Urea Cycle Disorders and PRECAUTIONS- Hyperammonemia and - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
+Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy (see CONTRAINDICATIONS and WARNINGS - Urea Cycle Disorders and PRECAUTIONS - Hyperammonemia and - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
 
 #### Warfarin
 
