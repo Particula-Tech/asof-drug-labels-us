@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "hydromorphone",
+  "labeler": "Purdue Pharma L.P.",
+  "package_ndcs": [
+    "59011-312-20",
+    "59011-312-60",
+    "59011-313-20",
+    "59011-313-60",
+    "59011-314-20",
+    "59011-314-60",
+    "59011-315-20",
+    "59011-315-60"
+  ],
+  "products": [],
+  "setid": "706e938f-a0a0-42f6-b99b-60c31cbfb441",
+  "source": "dailymed"
+}
