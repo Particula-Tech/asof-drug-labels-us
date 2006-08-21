@@ -1,0 +1,20 @@
+# OVERDOSAGE
+
+## COMBIVIR
+
+There is no known antidote for COMBIVIR.
+
+## Lamivudine
+
+One case of an adult ingesting 6 grams of lamivudine was reported; there were no clinical signs or symptoms noted and hematologic tests remained normal.
+Because a negligible amount of lamivudine was removed via (4-hour) hemodialysis, continuous ambulatory peritoneal dialysis, and automated peritoneal dialysis, it is not known if continuous hemodialysis would provide clinical benefit in a lamivudine overdose event.
+
+## Zidovudine
+
+Acute overdoses of zidovudine have been reported in pediatric patients and adults.
+These involved exposures up to 50 grams.
+The only consistent findings were nausea and vomiting.
+Other reported occurrences included headache, dizziness, drowsiness, lethargy, confusion, and 1 report of a grand mal seizure.
+Hematologic changes were transient.
+All patients recovered.
+Hemodialysis and peritoneal dialysis appear to have a negligible effect on the removal of zidovudine, while elimination of its primary metabolite, GZDV, is enhanced.
