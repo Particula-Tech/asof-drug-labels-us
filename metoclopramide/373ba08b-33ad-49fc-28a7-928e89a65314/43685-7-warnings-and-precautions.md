@@ -1,0 +1,83 @@
+# WARNINGS
+
+Mental depression has occurred in patients with and without prior history of depression.
+Symptoms have ranged from mild to severe and have included suicidal ideation and suicide.
+Metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks.
+
+Extrapyramidal symptoms, manifested primarily as acute dystonic reactions, occur in approximately 1 in 500 patients treated with the usual adult dosages of 30−40 mg/day of metoclopramide.
+These usually are seen during the first 24−48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at the higher doses used in prophylaxis of vomiting due to cancer chemotherapy.
+These symptoms may include involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus.
+Rarely, dystonic reactions may present as stridor and dyspnea, possibly due to laryngospasm.
+If these symptoms should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and they usually will subside.
+Cogentin® (benztropine mesylate), 1 to 2 mg intramuscularly, may also be used to reverse these reactions.
+
+Parkinsonian-like symptoms have occurred, more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
+These symptoms generally subside within 2−3 months following discontinuance of metoclopramide.
+Patients with pre-existing Parkinson's disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
+
+Tardive Dyskinesia: Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with metoclopramide.
+Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients are likely to develop the syndrome.
+Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase with the duration of treatment and the total cumulative dose.
+
+Less commonly, the syndrome can develop after relatively brief treatment periods at low doses; in these cases, symptoms appear more likely to be reversible.
+
+There is no known treatment for established cases of tardive dyskinesia although the syndrome may remit, partially or completely, within several weeks-to-months after metoclopramide is withdrawn.
+Metoclopramide itself, however, may suppress (or partially suppress) the signs of tardive dyskinesia, thereby masking the underlying disease process.
+The effect of this symptomatic suppression upon the long-term course of the syndrome is unknown.
+
+Therefore, the use of metoclopramide for the symptomatic control of tardive dyskinesia is not recommended.
+
+Neuroleptic Malignant Syndrome (NMS): There have been rare reports of an uncommon but potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) associated with metoclopramide.
+Clinical manifestations of NMS include hyperthermia, muscle rigidity, altered consciousness, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac arrhythmias).
+
+The management of NMS should include 1) immediate discontinuation of metoclopramide and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
+Bromocriptine and dantrolene sodium have been used in treatment of NMS, but their effectiveness have not been established (see ADVERSE REACTIONS).
+
+The diagnostic evaluation of patients with this syndrome is complicated.
+In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, malignant hyperthermia, drug fever and primary central nervous system (CNS) pathology.
+
+# PRECAUTIONS
+
+## General.
+
+In one study in hypertensive patients, intravenously administered metoclopramide was shown to release catecholamines, hence, caution should be exercised when metoclopramide is used in patients with hypertension.
+
+Intravenous injections of undiluted metoclopramide should be made slowly allowing 1 to 2 minutes for 10 mg since a transient but intense feeling of anxiety and restlessness, followed by drowsiness, may occur with rapid administration.
+
+Because metoclopramide produces a transient increase in plasma aldosterone, certain patients, especially those with cirrhosis or congestive heart failure, may be at risk of developing fluid retention and volume overload.
+If these side effects occur at any time during metoclopramide therapy, the drug should be discontinued.
+
+Intravenous administration of Metoclopramide Injection, USP, diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes.
+
+Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure.
+This possibility should be considered and weighed when deciding whether to use metoclopramide or nasogastric suction in the prevention of postoperative nausea and vomiting.
+
+## Information for Patients.
+
+Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
+The ambulatory patient should be cautioned accordingly.
+
+## Drug Interactions.
+
+The effects of metoclopramide on gastrointestinal motility are antagonized by anticholinergic drugs and narcotic analgesics.
+Additive sedative effects can occur when metoclopramide is given with alcohol, sedatives, hypnotics, narcotics or tranquilizers.
+
+The finding that metoclopramide releases catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all, in patients receiving monoamine oxidase inhibitors.
+
+Absorption of drugs from the stomach may be diminished (e.g., digoxin) by metoclopramide, whereas the rate and/or extent of absorption of drugs from the small bowel may be increased (e.g., acetaminophen, tetracycline, levodopa, ethanol, cyclosporine).
+
+Gastroparesis (gastric stasis) may be responsible for poor diabetic control in some patients.
+Exogenously administered insulin may begin to act before food has left the stomach and lead to hypoglycemia.
+Because the action of metoclopramide will influence the delivery of food to the intestines and thus the rate of absorption, insulin dosage or timing of dosage may require adjustment.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+
+A 77-week study was conducted in rats with oral doses up to about 40 times the maximum recommended human daily dose.
+Metoclopramide elevates prolactin levels and the elevation persists during chronic administration.
+Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of metoclopramide is contemplated in a patient with previously detected breast cancer.
+Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating drugs, the clinical significance of elevated serum prolactin levels is unknown for most patients.
+An increase in mammary neoplasms has been found in rodents after chronic administration of prolactin-stimulating neuroleptic drugs and metoclopramide.
+Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is too limited to be conclusive at this time.
+
+An Ames mutagenicity test performed on metoclopramide was negative.
