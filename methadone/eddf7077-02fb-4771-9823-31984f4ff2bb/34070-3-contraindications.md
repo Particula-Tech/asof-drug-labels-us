@@ -1,0 +1,3 @@
+# CONTRAINDICATIONS
+
+Hypersensitivity to methadone.
