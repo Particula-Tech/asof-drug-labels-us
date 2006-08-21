@@ -1,0 +1,20 @@
+{
+  "application_numbers": [],
+  "inn": "linezolid",
+  "labeler": "Pharmacia and Upjohn Co.",
+  "package_ndcs": [
+    "0009-5134-01",
+    "0009-5134-02",
+    "0009-5134-03",
+    "0009-5135-01",
+    "0009-5135-02",
+    "0009-5135-03",
+    "0009-5136-01",
+    "0009-5137-01",
+    "0009-5139-01",
+    "0009-5140-01"
+  ],
+  "products": [],
+  "setid": "6e70e63b-bfd5-478d-a8ee-8ba22c9efabd",
+  "source": "dailymed"
+}
