@@ -2,38 +2,32 @@
 
 ## Tablets
 
-150 mg Film-Coated Tablets: yellow, ovaloid, slightly biconvex, scored on both sides.
+150 mg Film-Coated Tablets: pale grey-green, ovaloid, slightly biconvex, scored on both sides.
 Imprinted with T/D on one side and C/G on the other side.
 
-Bottle of 100………………………………………………………………..NDC 0078-0336-05
-
-Bottle of 1000………………………………………………………………NDC 0078-0336-09
+Bottle of 100………………………………………………………………..NDC 0078-0456-05
 
 Unit Dose (blister pack)
 
-Box of 100 (strips of 10) …………………………………………..NDC 0078-0336-06
+Box of 100 (strips of 10)…………………………………………...NDC 0078-0456-35
 
 300 mg Film-Coated Tablets: yellow, ovaloid, slightly biconvex, scored on both sides.
 Imprinted with TE/TE on one side and CG/CG on the other side.
 
 Bottle of 100………………………………………………………………..NDC 0078-0337-05
 
-Bottle of 1000………………………………………………………………NDC 0078-0337-09
-
 Unit Dose (blister pack)
 
-Box of 100 (strips of 10) …………………………………………..NDC 0078-0337-06
+Box of 100 (strips of 10).………………………………...………...NDC 0078-0337-06
 
-600 mg Film-Coated Tablets: yellow, ovaloid, slightly biconvex, scored on both sides.
+600 mg Film-Coated Tablets: light pink, ovaloid, slightly biconvex, scored on both sides.
 Imprinted with TF/TF on one side and CG/CG on the other side.
 
-Bottle of 100………………………………………………………………..NDC 0078-0338-05
-
-Bottle of 1000………………………………………………………………NDC 0078-0338-09
+Bottle of 100………………………………………………………………..NDC 0078-0457-05
 
 Unit Dose (blister pack)
 
-Box of 100 (strips of 10) …………………………………………..NDC 0078-0338-06
+Box of 100 (strips of 10) …………………………………………..NDC 0078-0457-35
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Dispense in tight container (USP).
@@ -53,19 +47,9 @@ Use within 7 weeks of first opening the bottle.
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-T2005-10
+T2006-06
 
-Tablets Manufactured by:
-
-Novartis Pharmaceuticals Corporation
-
-Suffern, New York 10901
-
-Oral Suspension Manufactured by:
-
-Novartis Pharma S.A.S.
-
-F-68330 Huningue, France
+REV: January 2006 Printed in U.S.A.
 
 Distributed by:
 

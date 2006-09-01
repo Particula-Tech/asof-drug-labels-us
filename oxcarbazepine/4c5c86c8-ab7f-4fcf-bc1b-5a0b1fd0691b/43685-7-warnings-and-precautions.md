@@ -12,13 +12,13 @@ In clinical trials, patients whose treatment with Trileptal was discontinued due
 
 Measurement of serum sodium levels should be considered for patients during maintenance treatment with Trileptal, particularly if the patient is receiving other medications known to decrease serum sodium levels (for example, drugs associated with inappropriate ADH secretion) or if symptoms possibly indicating hyponatremia develop (e.g., nausea, malaise, headache, lethargy, confusion, obtundation, or increase in seizure frequency or severity).
 
-## Patients with a Past History of Hypersensitivity Reaction to Carbamazepine
+### Patients with a Past History of Hypersensitivity Reaction to Carbamazepine
 
 Patients who have had hypersensitivity reactions to carbamazepine should be informed that approximately 25%-30% of them will experience hypersensitivity reactions with Trileptal.
 For this reason patients should be specifically questioned about any prior experience with carbamazepine, and patients with a history of hypersensitivity reactions to carbamazepine should ordinarily be treated with Trileptal only if the potential benefit justifies the potential risk.
 If signs or symptoms of hypersensitivity develop, Trileptal should be discontinued immediately (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
 
-## Serious Dermatological Reactions
+### Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both children and adults in association with Trileptal use.
 The median time of onset for reported cases was 19 days.
@@ -29,7 +29,7 @@ The reporting rate of TEN and SJS associated with Trileptal use, which is genera
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking Trileptal, consideration should be given to discontinuing Trileptal use and prescribing another antiepileptic medication.
 
-## Withdrawal of AEDs
+### Withdrawal of AEDs
 
 As with all antiepileptic drugs, Trileptal should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
@@ -39,6 +39,8 @@ As with all antiepileptic drugs, Trileptal should be withdrawn gradually to mini
 
 Use of Trileptal® (oxcarbazepine) has been associated with central nervous system-related adverse events.
 The most significant of these can be classified into three general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) coordination abnormalities, including ataxia and gait disturbances.
+
+### Adult Patients
 
 In one large, fixed-dose study, Trileptal was added to existing AED therapy (up to three concomitant AEDs).
 By protocol, the dosage of the concomitant AEDs could not be reduced as Trileptal was added, reduction in Trileptal dosage was not allowed if intolerance developed, and patients were discontinued if unable to tolerate their highest target maintenance doses.
@@ -56,6 +58,18 @@ In a single placebo-controlled monotherapy trial evaluating 2400 mg/day of Trile
 
 In the two dose-controlled conversion to monotherapy trials comparing 2400 mg/day and 300 mg/day Trileptal, 1.1% of patients in the 2400 mg/day group discontinued double-blind treatment because of somnolence or cognitive adverse events compared to 0% in the 300 mg/day group.
 In these trials, no patients discontinued because of ataxia or gait disturbances in either treatment group.
+
+### Pediatric Patients
+
+A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial seizures in which Trileptal was added to existing AED therapy (up to two concomitant AEDs).
+By protocol, the dosage of concomitant AEDs could not be reduced as Trileptal was added.
+Trileptal was titrated to reach a target dose ranging from 30 mg/kg to 46 mg/kg (based on a patient’s body weight with fixed doses for predefined weight ranges).
+
+Cognitive adverse events occurred in 5.8% of oxcarbazepine-treated patients (the single most common event being concentration impairment, 4 of 138 patients) and in 3.1% of patients treated with placebo.
+In addition, 34.8% of oxcarbazepine-treated patients and 14.0% of placebo-treated patients experienced somnolence.
+(No patient discontinued due to a cognitive adverse event or somnolence.).
+Finally, 23.2% of oxcarbazepine-treated patients and 7.0% of placebo-treated patients experienced ataxia or gait disturbances.
+Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
 ## Multi-Organ Hypersensitivity
 
@@ -75,7 +89,7 @@ Patients should be advised that if they experience a hypersensitivity reaction w
 Patients should be advised that serious skin reactions have been reported in association with Trileptal.
 In the event a skin reaction should occur while taking Trileptal, patients should consult with their physician immediately (see WARNINGS, Serious Dermatological Reactions subsection).
 
-Patients should be instructed that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug related and should be reported to the physician immediately (see PRECAUTIONS, Multi-organ Hypersensitivity subsection).
+Patients should be instructed that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug related and should be reported to the physician immediately (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
 
 Female patients of childbearing age should be warned that the concurrent use of Trileptal with hormonal contraceptives may render this method of contraception less effective (see Drug Interactions subsection).
 Additional non-hormonal forms of contraception are recommended when using Trileptal.
@@ -210,8 +224,9 @@ Trileptal therapy should be initiated at one-half the usual starting dose and in
 
 ## Pediatric Use
 
-Trileptal is indicated for use as adjunctive therapy or monotherapy for partial seizures in patients aged 4-16 years old.
-Trileptal has been given to about 623 patients between the ages of 3-17 in controlled clinical trials (185 treated as monotherapy) and about 615 patients between the ages of 3-17 in other trials.
+Trileptal is indicated for use as adjunctive therapy for partial seizures in patients aged 2-16 years.
+Trileptal is also indicated as monotherapy for partial seizures in patients aged 4-16 years.
+Trileptal has been given to 898 patients between the ages of 1 month-17 years in controlled clinical trials (332 treated as monotherapy) and about 677 patients between the ages of 1 month-17 years in other trials.
 (See ADVERSE REACTIONS section for a description of the adverse events associated with Trileptal use in this population.)
 
 ## Geriatric Use

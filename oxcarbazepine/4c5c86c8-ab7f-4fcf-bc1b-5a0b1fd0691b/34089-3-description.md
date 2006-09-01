@@ -8,6 +8,6 @@ Oxcarbazepine is a white to faintly orange crystalline powder.
 It is slightly soluble in chloroform, dichloromethane, acetone, and methanol and practically insoluble in ethanol, ether and water.
 Its molecular weight is 252.27.
 
-Trileptal film-coated tablets contain the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, talc and titanium dioxide, yellow iron oxide.
+Trileptal film-coated tablets contain the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, iron oxide, magnesium stearate, microcrystalline cellulose, polyethylene glycol, talc and titanium dioxide.
 
 Trileptal oral suspension contains the following inactive ingredients: ascorbic acid; dispersible cellulose; ethanol; macrogol stearate; methyl parahydroxybenzoate; propylene glycol; propyl parahydroxybenzoate; purified water; sodium saccharin; sorbic acid; sorbitol; yellow-plum-lemon aroma.

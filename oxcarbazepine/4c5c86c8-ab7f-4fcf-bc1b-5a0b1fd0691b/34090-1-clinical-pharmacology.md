@@ -59,7 +59,7 @@ Approximately 80% of the dose is excreted in the urine either as glucuronides of
 The pharmacokinetics and metabolism of oxcarbazepine and MHD were evaluated in healthy volunteers and hepatically-impaired subjects after a single 900-mg oral dose.
 Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcarbazepine and MHD.
 No dose adjustment for Trileptal is recommended in patients with mild-to-moderate hepatic impairment.
-The pharmacokinetics of oxcarbazepine and MHD have not been evaluated in severe hepatic impairment.
+The pharmacokinetics of oxcarbazepine and MHD have not been evaluated in severe hepatic impairment and, therefore, caution should be exercised when dosing severely impaired patients.
 
 ### Renal Impairment
 
@@ -69,8 +69,12 @@ Dose adjustment for Trileptal is recommended in these patients (see PRECAUTIONS 
 
 ### Pediatric Use
 
-After a single-dose administration of 5 or 15 mg/kg of Trileptal, the dose-adjusted AUC values of MHD were 30%-40% lower in children below the age of eight years than in children above eight years of age.
-The clearance in children greater than eight years old approaches that of adults.
+Weight-adjusted MHD clearance decreases as age and weight increases, approaching that of adults.
+The mean weight-adjusted clearance in children 2 years-<4 years of age is approximately 80% higher on average than that of adults.
+Therefore, MHD exposure in these children is expected to be about one-half that of adults when treated with a similar weight-adjusted dose.
+The mean weight-adjusted clearance in children 4–12 years of age is approximately 40% higher on average than that of adults.
+Therefore, MHD exposure in these children is expected to be about three-quarters that of adults when treated with a similar weight-adjusted dose.
+As weight increases, for patients 13 years of age and above, the weight-adjusted MHD clearance is expected to reach that of adults.
 
 ### Geriatric Use
 
