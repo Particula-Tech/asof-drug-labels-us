@@ -1,0 +1,81 @@
+# INDICATIONS AND USAGE
+
+## Major Depressive Disorder
+
+PAXIL is indicated for the treatment of major depressive disorder.
+
+The efficacy of PAXILin the treatment of a major depressive episode was established in 6-week controlled trials of outpatients whose diagnoses corresponded most closely to the DSM-III category of major depressive disorder (see CLINICAL PHARMACOLOGY—Clinical Trials).
+A major depressive episode implies a prominent and relatively persistent depressed or dysphoric mood that usually interferes with daily functioning (nearly every day for at least 2 weeks); it should include at least 4 of the following 8 symptoms: Change in appetite, change in sleep, psychomotor agitation or retardation, loss of interest in usual activities or decrease in sexual drive, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, and a suicide attempt or suicidal ideation.
+
+The effects of PAXIL in hospitalized depressed patients have not been adequately studied.
+
+The efficacy of PAXIL in maintaining a response in major depressive disorder for up to 1 year was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY—Clinical Trials).
+Nevertheless, the physician who elects to use PAXIL for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+
+## Obsessive Compulsive Disorder
+
+PAXIL is indicated for the treatment of obsessions and compulsions in patients with obsessive compulsive disorder (OCD) as defined in the DSM-IV.
+The obsessions or compulsions cause marked distress, are time-consuming, or significantly interfere with social or occupational functioning.
+
+The efficacy of PAXIL was established in two 12-week trials with obsessive compulsive outpatients whose diagnoses corresponded most closely to the DSM-IIIR category of obsessive compulsive disorder (see CLINICAL PHARMACOLOGY—Clinical Trials).
+
+Obsessive compulsive disorder is characterized by recurrent and persistent ideas, thoughts, impulses, or images (obsessions) that are ego-dystonic and/or repetitive, purposeful, and intentional behaviors (compulsions) that are recognized by the person as excessive or unreasonable.
+
+Long-term maintenance of efficacy was demonstrated in a 6-month relapse prevention trial.
+In this trial, patients assigned to paroxetine showed a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY—Clinical Trials).
+Nevertheless, the physician who elects to use PAXILfor extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+
+## Panic Disorder
+
+PAXIL is indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM-IV.
+Panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks, worry about the implications or consequences of the attacks, and/or a significant change in behavior related to the attacks.
+
+The efficacy of PAXIL was established in three 10- to 12-week trials in panic disorder patients whose diagnoses corresponded to the DSM-IIIR category of panic disorder (see CLINICAL PHARMACOLOGY—Clinical Trials).
+
+Panic disorder (DSM-IV) is characterized by recurrent unexpected panic attacks, i.e., a discrete period of intense fear or discomfort in which 4 (or more) of the following symptoms develop abruptly and reach a peak within 10 minutes: (1) palpitations, pounding heart, or accelerated heart rate; (2) sweating; (3) trembling or shaking; (4) sensations of shortness of breath or smothering; (5) feeling of choking; (6) chest pain or discomfort; (7) nausea or abdominal distress; (8) feeling dizzy, unsteady, lightheaded, or faint; (9) derealization (feelings of unreality) or depersonalization (being detached from oneself); (10) fear of losing control; (11) fear of dying; (12) paresthesias (numbness or tingling sensations); (13) chills or hot flushes.
+
+Long-term maintenance of efficacy was demonstrated in a 3-month relapse prevention trial.
+In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY—Clinical Trials).
+Nevertheless, the physician who prescribes PAXIL for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+
+## Social Anxiety Disorder
+
+PAXIL is indicated for the treatment of social anxiety disorder, also known as social phobia, as defined in DSM-IV (300.23).
+Social anxiety disorder is characterized by a marked and persistent fear of 1 or more social or performance situations in which the person is exposed to unfamiliar people or to possible scrutiny by others.
+Exposure to the feared situation almost invariably provokes anxiety, which may approach the intensity of a panic attack.
+The feared situations are avoided or endured with intense anxiety or distress.
+The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with the person's normal routine, occupational or academic functioning, or social activities or relationships, or there is marked distress about having the phobias.
+Lesser degrees of performance anxiety or shyness generally do not require psychopharmacological treatment.
+
+The efficacy of PAXIL was established in three 12-week trials in adult patients with social anxiety disorder (DSM-IV).
+PAXIL has not been studied in children or adolescents with social phobia (see CLINICAL PHARMACOLOGY—Clinical Trials).
+
+The effectiveness of PAXIL in long-term treatment of social anxiety disorder, i.e., for more than 12 weeks, has not been systematically evaluated in adequate and well-controlled trials.
+Therefore, the physician who elects to prescribe PAXIL for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+
+## Generalized Anxiety Disorder
+
+PAXIL is indicated for the treatment of Generalized Anxiety Disorder (GAD), as defined in DSM-IV.
+Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
+
+The efficacy of PAXIL in the treatment of GAD was established in two 8-week placebo-controlled trials in adults with GAD.
+PAXIL has not been studied in children or adolescents with Generalized Anxiety Disorder (see CLINICAL PHARMACOLOGY—Clinical Trials).
+
+Generalized Anxiety Disorder (DSM-IV) is characterized by excessive anxiety and worry (apprehensive expectation) that is persistent for at least 6 months and which the person finds difficult to control.
+It must be associated with at least 3 of the following 6 symptoms: Restlessness or feeling keyed up or on edge, being easily fatigued, difficulty concentrating or mind going blank, irritability, muscle tension, sleep disturbance.
+
+The efficacy of PAXIL in maintaining a response in patients with Generalized Anxiety Disorder, who responded during an 8-week acute treatment phase while taking PAXIL and were then observed for relapse during a period of up to 24 weeks, was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY—Clinical Trials).
+Nevertheless, the physician who elects to use PAXIL for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+
+## Posttraumatic Stress Disorder
+
+PAXIL is indicated for the treatment of Posttraumatic Stress Disorder (PTSD).
+
+The efficacy of PAXIL in the treatment of PTSD was established in two 12-week placebo-controlled trials in adults with PTSD (DSM-IV) (see CLINICAL PHARMACOLOGY—Clinical Trials).
+
+PTSD, as defined by DSM-IV, requires exposure to a traumatic event that involved actual or threatened death or serious injury, or threat to the physical integrity of self or others, and a response that involves intense fear, helplessness, or horror.
+Symptoms that occur as a result of exposure to the traumatic event include reexperiencing of the event in the form of intrusive thoughts, flashbacks, or dreams, and intense psychological distress and physiological reactivity on exposure to cues to the event; avoidance of situations reminiscent of the traumatic event, inability to recall details of the event, and/or numbing of general responsiveness manifested as diminished interest in significant activities, estrangement from others, restricted range of affect, or sense of foreshortened future; and symptoms of autonomic arousal including hypervigilance, exaggerated startle response, sleep disturbance, impaired concentration, and irritability or outbursts of anger.
+A PTSD diagnosis requires that the symptoms are present for at least a month and that they cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+The efficacy of PAXIL in longer-term treatment of PTSD, i.e., for more than 12 weeks, has not been systematically evaluated in placebo-controlled trials.
+Therefore, the physician who elects to prescribe PAXIL for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
