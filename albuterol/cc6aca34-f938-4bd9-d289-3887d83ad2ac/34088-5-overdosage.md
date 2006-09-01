@@ -1,0 +1,14 @@
+# OVERDOSAGE
+
+The expected symptoms with overdosage are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the symptoms listed under ADVERSE REACTIONS, e.g., seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, and sleeplessness.
+Hypokalemia may also occur.
+
+As with all sympathomimetic aerosol medications, cardiac arrest and even death may be associated with abuse of VENTOLIN Inhalation Aerosol.
+Treatment consists of discontinuation of VENTOLIN Inhalation Aerosol together with appropriate symptomatic therapy.
+The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.
+There is insufficient evidence to determine if dialysis is beneficial for overdosage of VENTOLIN Inhalation Aerosol.
+
+The oral median lethal dose of albuterol sulfate in mice is greater than 2000 mg/kg (approximately 6800 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis or approximately 3200 times the maximum recommended daily inhalation dose for children on a mg/m2 basis).
+In mature rats, the subcutaneous median lethal dose of albuterol sulfate is approximately 450 mg/kg (approximately 3000 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis or approximately 1400 times the maximum recommended daily inhalation dose for children on a mg/m2 basis).
+In small young rats, the subcutaneous median lethal dose is approximately 2000 mg/kg (approximately 14,000 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis or approximately 6400 times the maximum recommended daily inhalation dose for children on a mg/m2 basis).
+The inhalation median lethal dose has not been determined in animals.
