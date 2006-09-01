@@ -1,0 +1,96 @@
+# DOSAGE AND ADMINISTRATION
+
+Lorazepam must never be used without individualization of dosage particularly when used with other medications capable of producing central-nervous-system depression.
+
+EQUIPMENT NECESSARY TO MAINTAIN A PATENT AIRWAY SHOULD BE IMMEDIATELY AVAILABLE PRIOR TO INTRAVENOUS ADMINISTRATION OF LORAZEPAM (see “WARNINGS”).
+
+Status Epilepticus
+
+General Advice
+
+Status epilepticus is a potentially life-threatening condition associated with a high risk of permanent neurological impairment, if inadequately treated.
+The treatment of status, however, requires far more than the administration of an anticonvulsant agent.
+It involves observation and management of all parameters critical to maintaining vital function and the capacity to provide support of those functions as required.
+Ventilatory support must be readily available.
+The use of benzodiazepines, like Lorazepam Injection, is ordinarily only an initial step of a complex and sustained intervention which may require additional interventions, (e.g., concomitant intravenous administration of phenytoin).
+Because status epilepticus may result from a correctable acute cause such as hypoglycemia, hyponatremia, or other metabolic or toxic derangement, such an abnormality must be immediately sought and corrected.
+Furthermore, patients who are susceptible to further seizure episodes should receive adequate maintenance antiepileptic therapy.
+
+Any health care professional who intends to treat a patient with status epilepticus should be familiar with this package insert and the pertinent medical literature concerning current concepts for the treatment of status epilepticus.
+A comprehensive review of the considerations critical to the informed and prudent management of status epilepticus cannot be provided in drug product labeling.
+The archival medical literature contains many informative references on the management of status epilepticus, among them the report of the working group on status epilepticus of the Epilepsy Foundation of America “Treatment of Convulsive Status Epilepticus” (JAMA 1993; 270: 854-859).
+As noted in the report just cited, it may be useful to consult with a neurologist if a patient fails to respond (e.g., fails to regain consciousness).
+
+Intravenous Injection
+
+For the treatment of status epilepticus, the usual recommended dose of Lorazepam Injection is 4 mg given slowly (2 mg/min) for patients 18 years and older.
+If seizures cease, no additional Lorazepam Injection is required.
+If seizures continue or recur after a 10- to 15-minute observation period, an additional 4 mg intravenous dose may be slowly administered.
+Experience with further doses of lorazepam is very limited.
+The usual precautions in treating status epilepticus should be employed.
+An intravenous infusion should be started, vital signs should be monitored, an unobstructed airway should be maintained, and artificial ventilation equipment should be available.
+
+Intramuscular Injection
+
+IM lorazepam is not preferred in the treatment of status epilepticus because therapeutic lorazepam levels may not be reached as quickly as with IV administration.
+However, when an intravenous port is not available, the IM route may prove useful (see “CLINICAL PHARMACOLOGY”, Pharmacokinetics and Metabolism).
+
+Pediatric
+
+The safety of lorazepam in pediatric patients has not been established.
+
+Preanesthetic
+
+Intramuscular Injection
+
+For the designated indications as a premedicant, the usual recommended dose of lorazepam for intramuscular injection is 0.05 mg/kg up to a maximum of 4 mg.
+As with all premedicant drugs, the dose should be individualized.
+(See also “CLINICAL PHARMACOLOGY,”“WARNINGS,”“PRECAUTIONS,” and “ADVERSE REACTIONS.”)
+Doses of other central-nervous-system depressant drugs should be ordinarily reduced (see “PRECAUTIONS”).
+For optimum effect, measured as lack of recall, intramuscular lorazepam should be administered at least 2 hours before the anticipated operative procedure.
+Narcotic analgesics should be administered at their usual preoperative time.
+There are insufficient data to support efficacy to make dosage recommendations for intramuscular lorazepam in patients less than 18 years of age; therefore, such use is not recommended.
+
+Intravenous Injection
+
+For the primary purpose of sedation and relief of anxiety, the usual recommended initial dose of lorazepam for intravenous injection is 2 mg total, or 0.02 mg/lb (0.044 mg/kg), whichever is smaller.
+This dose will suffice for sedating most adult patients and should not ordinarily be exceeded in patients over 50 years of age.
+In those patients in whom a greater likelihood of lack of recall for perioperative events would be beneficial, larger doses as high as 0.05 mg/kg up to a total of 4 mg may be administered.
+(See “CLINICAL PHARMACOLOGY,”“WARNINGS,”“PRECAUTIONS,” and “ADVERSE REACTIONS.”)
+Doses of other injectable central-nervous-system depressant drugs should ordinarily be reduced (see “PRECAUTIONS”).
+For optimum effect, measured as lack of recall, intravenous lorazepam should be administered 15 to 20 minutes before the anticipated operative procedure.
+
+There are insufficient data to support efficacy or make dosage recommendations for intravenous lorazepam in patients less than 18 years of age; therefore, such use is not recommended.
+
+Dose Administration in Special Populations
+
+Elderly Patients and Patients with Hepatic Disease
+
+No dosage adjustments are needed in elderly patients and in patients with hepatic disease.
+
+Patients with Renal Disease
+
+For acute dose administration, adjustment is not needed for patients with renal disease.
+However, in patients with renal disease, caution should be exercised if frequent doses are given over relatively short periods of time (see also “CLINICAL PHARMACOLOGY”).
+
+Dose Adjustment Due to Drug Interactions
+
+The dose of lorazepam should be reduced by 50% when coadministered with probenecid or valproate (see PRECAUTIONS, Drug Interactions).
+
+It may be necessary to increase the dose of lorazepam in female patients who are concomitantly taking oral contraceptives.
+
+Administration
+
+When given intramuscularly, Lorazepam Injection, undiluted, should be injected deep in the muscle mass.
+Lorazepam in the Blunt Cannula or InterLink® packaging is not intended for intramuscular (IM) use.
+
+Injectable lorazepam can be used with atropine sulfate, narcotic analgesics, other parenterally used analgesics, commonly used anesthetics, and muscle relaxants.
+
+Immediately prior to intravenous use, Lorazepam Injection must be diluted with an equal volume of compatible solution.
+When properly diluted the drug may be injected directly into a vein or into the tubing of an existing intravenous infusion.
+The rate of injection should not exceed 2 mg per minute.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Do not use if solution is discolored or contains a precipitate.
+
+Lorazepam Injection is compatible for dilution purposes with the following solutions: Sterile Water for Injection, USP; Sodium Chloride Injection, USP; 5% Dextrose Injection, USP.
