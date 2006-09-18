@@ -1,0 +1,9 @@
+# OVERDOSAGE
+
+There is no known antidote for EPIVIR.
+One case of an adult ingesting 6 g of EPIVIR was reported; there were no clinical signs or symptoms noted and hematologic tests remained normal.
+Two cases of pediatric overdose were reported in ACTG300.
+One case was a single dose of 7 mg/kg of EPIVIR; the second case involved use of 5 mg/kg of EPIVIR twice daily for 30 days.
+There were no clinical signs or symptoms noted in either case.
+Because a negligible amount of lamivudine was removed via (4-hour) hemodialysis, continuous ambulatory peritoneal dialysis, and automated peritoneal dialysis, it is not known if continuous hemodialysis would provide clinical benefit in a lamivudine overdose event.
+If overdose occurs, the patient should be monitored, and standard supportive treatment applied as required.
