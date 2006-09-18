@@ -1,0 +1,11 @@
+# ADVERSE REACTIONS
+
+The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings.
+These reactions are listed in an approximate decreasing order of occurrence:
+
+| Burning | Hypertrichosis | Maceration of the skin |
+| --- | --- | --- |
+| Itching | Acneiform eruptions | Secondary infection |
+| Irritation | Hypopigmentation | Skin atrophy |
+| Dryness | Perioral dermatitis | Striae |
+| Folliculitis | Allergic contact dermatitis | Miliaria |
