@@ -1,0 +1,10 @@
+# REFERENCES
+
+1Fekety R. Infections associated with corticosteroids and immunosuppressive therapy.
+In: Gorbach SL, Bartlett JG, Blacklow NR, eds.
+Infectious Diseases.
+Philadelphia: WB Saunders Company 1992:1050–1.
+
+2Stuck AE, Minder CE, Frey FJ.
+Risk of infectious complications in patients taking glucocorticoids.
+Rev Infect Dis 1989:11(6):954–63.
