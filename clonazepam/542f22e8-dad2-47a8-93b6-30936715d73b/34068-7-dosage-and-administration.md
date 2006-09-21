@@ -1,0 +1,58 @@
+# DOSAGE AND ADMINISTRATION
+
+Clonazepam is available as a tablet or an orally disintegrating tablet (wafer).
+The tablets should be administered with water by swallowing the tablet whole.
+The orally disintegrating tablet should be administered as follows: After opening the pouch, peel back the foil on the blister.
+Do not push tablet through foil.
+Immediately upon opening the blister, using dry hands, remove the tablet and place it in the mouth.
+Tablet disintegration occurs rapidly in saliva so it can be easily swallowed with or without water.
+
+## Seizure Disorders
+
+### Adults
+
+The initial dose for adults with seizure disorders should not exceed 1.5 mg/day divided into three doses.
+Dosage may be increased in increments of 0.5 to 1 mg every 3 days until seizures are adequately controlled or until side effects preclude any further increase.
+Maintenance dosage must be individualized for each patient depending upon response.
+Maximum recommended daily dose is 20 mg.
+
+The use of multiple anticonvulsants may result in an increase of depressant adverse effects.
+This should be considered before adding Klonopin to an existing anticonvulsant regimen.
+
+### Pediatric Patients
+
+Klonopin is administered orally.
+In order to minimize drowsiness, the initial dose for infants and children (up to 10 years of age or 30 kg of body weight) should be between 0.01 and 0.03 mg/kg/day but not to exceed 0.05 mg/kg/day given in two or three divided doses.
+Dosage should be increased by no more than 0.25 to 0.5 mg every third day until a daily maintenance dose of 0.1 to 0.2 mg/kg of body weight has been reached, unless seizures are controlled or side effects preclude further increase.
+Whenever possible, the daily dose should be divided into three equal doses.
+If doses are not equally divided, the largest dose should be given before retiring.
+
+### Geriatric Patients
+
+There is no clinical trial experience with Klonopin in seizure disorder patients 65 years of age and older.
+In general, elderly patients should be started on low doses of Klonopin and observed closely (see PRECAUTIONS: Geriatric Use).
+
+## Panic Disorder
+
+### Adults
+
+The initial dose for adults with panic disorder is 0.25 mg bid.
+An increase to the target dose for most patients of 1 mg/day may be made after 3 days.
+The recommended dose of 1 mg/day is based on the results from a fixed dose study in which the optimal effect was seen at 1 mg/day.
+Higher doses of 2, 3 and 4 mg/day in that study were less effective than the 1 mg/day dose and were associated with more adverse effects.
+Nevertheless, it is possible that some individual patients may benefit from doses of up to a maximum dose of 4 mg/day, and in those instances, the dose may be increased in increments of 0.125 to 0.25 mg bid every 3 days until panic disorder is controlled or until side effects make further increases undesired.
+To reduce the inconvenience of somnolence, administration of one dose at bedtime may be desirable.
+
+Treatment should be discontinued gradually, with a decrease of 0.125 mg bid every 3 days, until the drug is completely withdrawn.
+
+There is no body of evidence available to answer the question of how long the patient treated with clonazepam should remain on it.
+Therefore, the physician who elects to use Klonopin for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+
+### Pediatric Patients
+
+There is no clinical trial experience with Klonopin in panic disorder patients under 18 years of age.
+
+### Geriatric Patients
+
+There is no clinical trial experience with Klonopin in panic disorder patients 65 years of age and older.
+In general, elderly patients should be started on low doses of Klonopin and observed closely (see PRECAUTIONS: Geriatric Use).
