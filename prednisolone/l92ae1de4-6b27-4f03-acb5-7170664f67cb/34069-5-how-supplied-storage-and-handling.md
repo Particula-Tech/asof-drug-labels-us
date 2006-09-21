@@ -1,0 +1,11 @@
+# HOW SUPPLIED
+
+5mL and 10mL in plastic DROP-TAINER® dispensers.
+
+1% ECONOPRED Plus:
+
+5 mL NDC 0998-0637-05 10 mL NDC 0998-0637-10
+
+STORAGE: STORE at 8° - 24°C (46° - 75°F) in an UPRIGHT position.
+
+Rx Only

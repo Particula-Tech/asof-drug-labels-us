@@ -1,0 +1,3 @@
+ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA ©2002, 2003 Alcon, Inc.
+
+340914-0803
