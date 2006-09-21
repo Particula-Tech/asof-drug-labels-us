@@ -1,0 +1,11 @@
+# ADVERSE REACTIONS
+
+Adverse reactions to nitroglycerin are generally dose-related and almost all of these reactions are the result of nitroglycerin's activity as a vasodilator.
+Headache, which may be severe, is the most commonly reported side effect.
+Headache may be recurrent with each daily dose, especially at higher doses.
+Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur.
+Hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy.
+Syncope, crescendo angina, and rebound hypertension have been reported but are uncommon.
+
+Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients.
+Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE).
