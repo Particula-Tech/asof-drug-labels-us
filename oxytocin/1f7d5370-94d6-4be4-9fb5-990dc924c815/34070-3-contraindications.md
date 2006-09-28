@@ -1,0 +1,3 @@
+# CONTRAINDICATIONS
+
+Syntocinon® (oxytocin) injection is contraindicated in any of the following conditions: Significant cephalopelvic disproportion; unfavorable fetal positions or presentations which are undeliverable without conversion prior to delivery (transverse lies); i.e., in obstetrical emergencies where the benefit-to-risk ratio for either the fetus or the mother favors surgical intervention; in cases of fetal distress where delivery is not imminent; prolonged use in uterine inertia or severe toxemia; hypertonic uterine patterns; patients with hypersensitivity to the drug; induction or augmentation of labor in those cases where vaginal delivery is contraindicated, such as cord presentation or prolapse, total placental previa, and vasa previa.
