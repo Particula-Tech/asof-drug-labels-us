@@ -1,0 +1,26 @@
+# CHEMISTRY
+
+Hydroxyzine hydrochloride is designated chemically as 1-(p-chlorobenzhydryl) 4-[2-(2-hydroxyethoxy) ethyl] piperazine dihydrochloride.
+
+# ACTIONS
+
+VISTARIL (hydroxyzine hydrochloride) is unrelated chemically to phenothiazine, reserpine, and meprobamate.
+Hydroxyzine has demonstrated its clinical effectiveness in the chemotherapeutic aspect of the total management of neuroses and emotional disturbances manifested by anxiety, tension, agitation, apprehension or confusion.
+
+Hydroxyzine has been shown clinically to be a rapid-acting true ataraxic with a wide margin of safety.
+It induces a calming effect in anxious, tense, psychoneurotic adults and also in anxious, hyperkinetic children without impairing mental alertness.
+It is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system.
+
+Primary skeletal muscle relaxation has been demonstrated experimentally.
+
+Hydroxyzine has been shown experimentally to have antispasmodic properties, apparently mediated through interference with the mechanism that responds to spasmogenic agents such as serotonin, acetylcholine, and histamine.
+
+Antihistaminic effects have been demonstrated experimentally and confirmed clinically.
+
+An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated.
+Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases provides mild antisecretory benefits.
+
+Rx only
+
+70-0843-00-6 Oct.
+2001
