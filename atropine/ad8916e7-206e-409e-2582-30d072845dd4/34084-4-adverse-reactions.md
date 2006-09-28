@@ -1,0 +1,13 @@
+# ADVERSE REACTIONS
+
+Most of the side effects of atropine are directly related to its antimuscarinic action.
+Dryness of the mouth, blurred vision, photophobia and tachycardia commonly occur with chronic administration of therapeutic doses.
+Anhidrosis also may occur and produce heat intolerance or impair temperature regulation in persons living in a hot environment.
+Constipation and difficulty in micturition may occur in elderly patients.
+Occasional hypersensitivity reactions have been observed, especially skin rashes which in some instances progressed to exfoliation.
+
+Adverse effects following single or repeated injections of atropine are most often the result of excessive dosage.
+These include palpitation, dilated pupils, difficulty in swallowing, hot dry skin, thirst, dizziness, restlessness, tremor, fatigue and ataxia.
+Toxic doses lead to marked palpitation, restlessness and excitement, hallucinations, delirium and coma.
+Depression and circulatory collapse occur only with severe intoxication.
+In such cases, blood pressure declines and death due to respiratory failure may ensue following paralysis and coma.
