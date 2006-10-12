@@ -1,0 +1,58 @@
+# CLINICAL PHARMACOLOGY
+
+Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle.
+Oxybutynin chloride exhibits only one fifth of the anticholinergic activity of atropine on the rabbit detrusor muscle, but four to ten times the antispasmodic activity.
+No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects).
+
+Oxybutynin chloride relaxes bladder smooth muscle.
+In patients with conditions characterized by involuntary bladder contractions, cystometric studies have demonstrated that oxybutynin chloride increases bladder (vesical) capacity, diminishes the frequency of uninhibited contractions of the detrusor muscle, and delays the initial desire to void.
+Oxybutynin chloride thus decreases urgency and the frequency of both incontinent episodes and voluntary urination.
+
+Antimuscarinic activity resides predominately in the R-isomer.
+A metabolite, desethyloxybutynin, has pharmacological activity similar to that of oxybutynin in in vitro studies.
+
+## Pharmacokinetics
+
+### Absorption
+
+Following oral administration of oxybutynin chloride, oxybutynin is rapidly absorbed achieving Cmax within an hour, following which plasma concentration decreases with an effective half-life of approximately 2 to 3 hours.
+The absolute bioavailability of oxybutynin is reported to be about 6% (range 1.6 to 10.9%) for the tablet.
+Wide interindividual variation in pharmacokinetic parameters is evident following oral administration of oxybutynin.
+
+The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 1.
+The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin.
+
+Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three doses of Oxybutynin Chloride 5 mg administered every 8 hours (n=23)
+
+| Parameters (units) | R-oxybutynin | S-oxybutynin |
+| --- | --- | --- |
+| Cmax (ng/mL) | 3.6 (2.2) | 7.8 (4.1) |
+| Tmax (h) | 0.89 (0.34) | 0.65 (0.32) |
+| AUCt (ng·h/mL) | 22.6 (11.3) | 35.0 (17.3) |
+| AUCinf (ng·h/mL) | 24.3 (12.3) | 37.3 (18.7) |
+
+Pharmacokinetic information for pediatric patients 5-15 years of age with symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida) is available.
+However, due to marketing exclusivity rights, this drug product is not labeled for this pediatric use.
+
+### Food effects
+
+Data in the literature suggests that oxybutynin solution co-administered with food resulted in a slight delay in absorption and an increase in its bioavailability by 25% (n=18).1
+
+### Distribution
+
+Plasma concentrations of oxybutynin decline biexponentially following intravenous or oral administration.
+The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride.
+
+### Metabolism
+
+Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall.
+Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active.
+
+### Excretion
+
+Oxybutynin is extensively metabolized by the liver, with less than 0.1% of the administered dose excreted unchanged in the urine.
+Also, less than 0.1% of the administered dose is excreted as the metabolite desethyloxybutynin.
+
+## Clinical Studies
+
+Oxybutynin chloride was well tolerated in patients administered the drug in controlled studies of 30 days' duration and in uncontrolled studies in which some of the patients received the drug for 2 years.
