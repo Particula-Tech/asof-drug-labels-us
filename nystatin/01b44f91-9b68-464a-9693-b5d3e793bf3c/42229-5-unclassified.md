@@ -1,0 +1,3 @@
+100,000 units per gram Rx only
+
+FOR TOPICAL USE ONLY • NOT FOR OPHTHALMIC USE
