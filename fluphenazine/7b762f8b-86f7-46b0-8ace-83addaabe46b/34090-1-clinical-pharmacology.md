@@ -1,0 +1,4 @@
+# CLINICAL PHARMACOLOGY
+
+PROLIXIN has activity at all levels of the central nervous system as well as on multiple organ systems.
+The mechanism whereby its therapeutic action is exerted is unknown.
