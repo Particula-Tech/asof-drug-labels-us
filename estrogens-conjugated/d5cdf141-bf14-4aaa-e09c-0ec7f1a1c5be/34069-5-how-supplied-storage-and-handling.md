@@ -1,0 +1,19 @@
+# HOW SUPPLIED
+
+Premarin (conjugated estrogens tablets, USP)
+
+— Each oval yellow tablet contains 1.25 mg, in bottles of 100 (NDC 0046–1104–81); and 1,000 (NDC 0046–1104–91).
+
+— Each oval white tablet contains 0.9 mg, in bottles of 100 (NDC 0046–0864–81).
+
+— Each oval maroon tablet contains 0.625 mg, in bottles of 100 (NDC 0046–0867–81); 1,000 (NDC 0046-0867–91); and Unit-Dose Packages of 100 (NDC 0046–0867–99).
+
+— Each oval blue tablet contains 0.45 mg, in bottles of 100 (NDC 0046–0936–81).
+
+— Each oval green tablet contains 0.3 mg, in bottles of 100 (NDC 0046–0868–81) and 1,000 (NDC 0046–0868–91).
+
+The appearance of these tablets is a trademark of Wyeth Pharmaceuticals.
+
+Store at 20-25°C (68-77° F); excursions permitted to 15-30° C (59-86°F) [see USP Controlled Room Temperature].
+
+Dispense in a well-closed container as defined in the USP.
