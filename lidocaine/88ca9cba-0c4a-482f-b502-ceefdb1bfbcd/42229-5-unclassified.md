@@ -1,0 +1,3 @@
+DO NOT USE IN THE EYES
+
+Rx Only
