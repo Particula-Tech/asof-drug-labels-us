@@ -2,13 +2,13 @@
 
 ## Hypertension
 
-The dosage of Lopressor should be individualized.
-Lopressor should be taken with or immediately following meals.
+The dosage of Lopressor tablets should be individualized.
+Lopressor tablets should be taken with or immediately following meals.
 
-The usual initial dosage is 100 mg daily in single or divided doses, whether used alone or added to a diuretic.
+The usual initial dosage of Lopressor tablets is 100 mg daily in single or divided doses, whether used alone or added to a diuretic.
 The dosage may be increased at weekly (or longer) intervals until optimum blood pressure reduction is achieved.
 In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy.
-The effective dosage range is 100-450 mg per day.
+The effective dosage range of Lopressor tablets is 100-450 mg per day.
 Dosages above 450 mg per day have not been studied.
 While once-daily dosing is effective and can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period, and larger or more frequent daily doses may be required.
 This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day.
@@ -16,12 +16,12 @@ Beta1 selectivity diminishes as the dose of Lopressor is increased.
 
 ## Angina Pectoris
 
-The dosage of Lopressor should be individualized.
-Lopressor should be taken with or immediately following meals.
+The dosage of Lopressor tablets should be individualized.
+Lopressor tablets should be taken with or immediately following meals.
 
-The usual initial dosage is 100 mg daily, given in two divided doses.
+The usual initial dosage of Lopressor tablets is 100 mg daily, given in two divided doses.
 The dosage may be gradually increased at weekly intervals until optimum clinical response has been obtained or there is pronounced slowing of the heart rate.
-The effective dosage range is 100-400 mg per day.
+The effective dosage range of Lopressor tablets is 100-400 mg per day.
 Dosages above 400 mg per day have not been studied.
 If treatment is to be discontinued, the dosage should be reduced gradually over a period of 1-2 weeks (see WARNINGS).
 

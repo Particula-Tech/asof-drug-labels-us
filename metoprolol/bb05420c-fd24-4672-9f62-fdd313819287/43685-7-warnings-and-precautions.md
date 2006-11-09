@@ -24,8 +24,7 @@ Difficulty in restarting and maintaining the heart beat has also been reported w
 Diabetes and Hypoglycemia: Lopressor should be used with caution in diabetic patients if a beta-blocking agent is required.
 Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
 
-Pheochromocytoma: In patients known to have, or suspected of having, a pheochromocytoma, Lopressor is contraindicated (see CONTRAINDICATIONS).
-If Lopressor is required, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
+Pheochromocytoma: If Lopressor is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
 Administration of beta blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
 
 Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
