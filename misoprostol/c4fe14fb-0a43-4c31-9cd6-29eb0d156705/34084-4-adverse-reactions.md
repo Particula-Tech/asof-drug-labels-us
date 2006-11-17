@@ -1,0 +1,61 @@
+# ADVERSE REACTIONS
+
+The following have been reported as adverse events in subjects receiving misoprostol:
+
+## Gastrointestinal
+
+In subjects receiving misoprostol 400 or 800 mcg daily in clinical trials, the most frequent gastrointestinal adverse events were diarrhea and abdominal pain.
+The incidence of diarrhea at 800 mcg in controlled trials in patients on NSAIDs ranged from 14–40% and in all studies (over 5,000 patients) averaged 13%.
+Abdominal pain occurred in 13–20% of patients in NSAID trials and about 7% in all studies, but there was no consistent difference from placebo.
+
+Diarrhea was dose-related and usually developed early in the course of therapy (after 13 days), usually was self-limiting (often resolving after 8 days), but sometimes required discontinuation of misoprostol (2% of the patients).
+Rare instances of profound diarrhea leading to severe dehydration have been reported.
+Patients with an underlying condition such as inflammatory bowel disease, or those in whom dehydration, were it to occur, would be dangerous, should be monitored carefully if misoprostol is prescribed.
+The incidence of diarrhea can be minimized by administering after meals and at bedtime, and by avoiding coadministration of misoprostol with magnesium-containing antacids.
+
+## Gynecological
+
+Women who received misoprostol during clinical trials reported the following gynecological disorders: spotting (0.7%), cramps (0.6%), hypermenorrhea (0.5%), menstrual disorder (0.3%) and dysmenorrhea (0.1%).
+Postmenopausal vaginal bleeding may be related to misoprostol administration.
+If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology.
+(See boxed WARNINGS.)
+
+## Elderly
+
+There were no significant differences in the safety profile of misoprostol in approximately 500 ulcer patients who were 65 years of age or older compared with younger patients.
+
+Additional adverse events which were reported are categorized as follows:
+
+## Incidence greater than 1%
+
+In clinical trials, the following adverse reactions were reported by more than 1% of the subjects receiving misoprostol and may be causally related to the drug: nausea (3.2%), flatulence (2.9%), headache (2.4%), dyspepsia (2.0%), vomiting (1.3%), and constipation (1.1%).
+However, there were no significant differences between the incidences of these events for misoprostol and placebo.
+
+## Causal relationship unknown
+
+The following adverse events were infrequently reported.
+Causal relationships between misoprostol and these events have not been established but cannot be excluded:
+
+Body as a whole: aches/pains, asthenia, fatigue, fever, rigors, weight changes.
+
+Skin: rash, dermatitis, alopecia, pallor, breast pain.
+
+Special senses: abnormal taste, abnormal vision, conjunctivitis, deafness, tinnitus, earache.
+
+Respiratory: upper respiratory tract infection, bronchitis, bronchospasm, dyspnea, pneumonia, epistaxis.
+
+Cardiovascular: chest pain, edema, diaphoresis, hypotension, hypertension, arrhythmia, phlebitis, increased cardiac enzymes, syncope, myocardial infarction (some fatal), thromboembolic events (e.g., pulmonary embolism, arterial thrombosis, and CVA).
+
+Gastrointestinal: GI bleeding, GI inflammation/infection, rectal disorder, abnormal hepatobiliary function, gingivitis, reflux, dysphagia, amylase increase.
+
+Hypersensitivity: anaphylaxis
+
+Metabolic: glycosuria, gout, increased nitrogen, increased alkaline phosphatase.
+
+Genitourinary: polyuria, dysuria, hematuria, urinary tract infection.
+
+Nervous system/Psychiatric: anxiety, change in appetite, depression, drowsiness, dizziness, thirst, impotence, loss of libido, sweating increase, neuropathy, neurosis, confusion.
+
+Musculoskeletal: arthralgia, myalgia, muscle cramps, stiffness, back pain.
+
+Blood/Coagulation: anemia, abnormal differential, thrombocytopenia, purpura, ESR increased.
