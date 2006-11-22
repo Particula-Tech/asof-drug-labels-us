@@ -112,7 +112,7 @@ Table 4: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pres
 
 | Co-Administered Drug | Darunavir/rtv | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose/Schedule |  | N | PK | LS Mean Ratio % (90% CI) of Darunavir Pharmacokinetic Parameters With/Without Co-administered Drug No Effect =1.00 |  |  |
+| Co-Administered Drug | Dose/Schedule |  | N | PK | LS Mean Ratio (90% CI) of Darunavir Pharmacokinetic Parameters With/Without Co-administered Drug No Effect =1.00 |  |  |
 | Co-Administration With Other Protease Inhibitors |  |  |  |  |  |  |  |
 | Atazanavir | 300 mg q.d.^ | 400/100 mg b.i.d.† | 13 | ↔ | 1.02 (0.96-1.09) | 1.03 (0.94-1.12) | 1.01 (0.88-1.16) |
 | Indinavir | 800 mg b.i.d. | 400/100 mg b.i.d. | 9 | ↑ | 1.11 (0.98-1.26) | 1.24 (1.09-1.42) | 1.44 (1.13-1.82) |
@@ -138,7 +138,7 @@ Table 5: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs
 
 | Co-Administered Drug | Darunavir/rtv | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose/Schedule |  | N | PK | LS Mean Ratio % (90% CI) of Co-Administered Drug Pharmacokinetic Parameters With/Without Darunavir No Effect =1.00 |  |  |
+| Co-Administered Drug | Dose/Schedule |  | N | PK | LS Mean Ratio (90% CI) of Co-Administered Drug Pharmacokinetic Parameters With/Without Darunavir No Effect =1.00 |  |  |
 | Co-Administration With Other Protease Inhibitors |  |  |  |  |  |  |  |
 | Atazanavir | 300 mg q.d.^/100 mg RTV q.d. when administered alone 300 mg q.d. when administered with darunavir/ ritonavir | 400/100 mg b.i.d.† | 13 | ↔ | 0.89 (0.78-1.01) | 1.08 (0.94-1.24) | 1.52 (0.99-2.34) |
 | Indinavir | 800 mg b.i.d./100 mg RTV b.i.d. when administered alone 800 mg b.i.d. when administered with darunavir/ritonavir | 400/100 mg b.i.d. | 9 | ↑ | 1.08 (0.95-1.22) | 1.23 (1.06-1.42) | 2.25 (1.63-3.10) |

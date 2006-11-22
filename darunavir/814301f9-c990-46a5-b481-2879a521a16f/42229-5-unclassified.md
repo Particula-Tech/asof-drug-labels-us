@@ -1,3 +1,5 @@
+Trademark of Tibotec, Inc. COPYRIGHT ©2006 Tibotec, Inc. All rights reserved
+
 # MICROBIOLOGY
 
 ## Mechanism of Action
@@ -87,9 +89,9 @@ Patent Numbers: 5,843,946; 6,248,775; 6,335,460 and other US patents pending
 © Ortho Biotech Products, L.P.
 2006
 
-Issued: June 2006
+October 2006
 
-10101700
+10101701
 
 Rx Only
 
@@ -98,6 +100,6 @@ Manufactured for Tibotec, Inc. by: JOLLC, Gurabo, Puerto Rico Distributed by: Ti
 © Ortho Biotech Products, L.P.
 2006
 
-June 2006
+October 2006
 
-10101700
+10101701

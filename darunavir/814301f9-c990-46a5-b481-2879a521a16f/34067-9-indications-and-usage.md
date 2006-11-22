@@ -29,7 +29,7 @@ Analyses included 318 subjects in Study TMC114-C213 and 319 subjects in Study TM
 At 24 weeks, the virologic response rate was evaluated in subjects receiving PREZISTA/rtv plus an optimized background regimen (OBR) versus a control group receiving an investigator-selected PI(s) regimen plus an OBR.
 Prior to randomization, PI(s) and OBR were selected by the investigator based on genotypic resistance testing and prior ARV history.
 The OBR consisted of at least 2 NRTIs with or without enfuvirtide.
-Selected PI(s) in the control arm included: lopinavir/ritonavir in 36%, (fos)amprenavir in 34%, saquinavir in 35% and atazanavir in 17%; 23% of the control subjects used dual-boosted PIs.
+Selected PI(s) in the control arm included: lopinavir in 36%, (fos)amprenavir in 34%, saquinavir in 35% and atazanavir in 17%; 98% of control subjects received a ritonavir boosted PI regimen out of which 23% of control subjects used dual-boosted PIs.
 Approximately 47% of all subjects used enfuvirtide, and 35% of the use was in subjects who were ENF-naïve.
 Virologic response was defined as a decrease in plasma HIV-1 RNA viral load of at least 1.0 log10 versus baseline.
 
