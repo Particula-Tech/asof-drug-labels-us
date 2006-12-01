@@ -19,6 +19,8 @@ Protect from freezing.
 Protect from light.
 Store in carton until time of use.
 
+November, 2004
+
 | ©Hospira 2004 | EN-0597 | Printed in USA |
 | --- | --- | --- |
 
