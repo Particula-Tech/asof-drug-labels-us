@@ -1,0 +1,23 @@
+# DOSAGE AND ADMINISTRATION
+
+## Hypertension
+
+The usual initial dosage of timolol maleate is 10 mg twice a day, whether used alone or added to diuretic therapy.
+Dosage may be increased or decreased depending on heart rate and blood pressure response.
+The usual total maintenance dosage is 20 to 40 mg per day.
+Increases in dosage to a maximum of 60 mg per day divided into two doses may be necessary.
+There should be an interval of at least 7 days between increases in dosages.
+
+Timolol maleate tablets may be used with a thiazide diuretic or with other antihypertensive agents.
+Patients should be observed carefully during initiation of such concomitant therapy.
+
+## Myocardial Infarction
+
+The recommended dosage for long-term prophylactic use in patients who have survived the acute phase of a myocardial infarction is 10 mg given twice daily (see CLINICAL PHARMACOLOGY).
+
+## Migraine
+
+The usual initial dosage of timolol maleate is 10 mg twice a day.
+During maintenance therapy the 20 mg daily dosage may be administered as a single dose.
+Total daily dosage may be increased to a maximum of 30 mg, given in divided doses, or decreased to 10 mg once per day, depending on clinical response and tolerability.
+If a satisfactory response is not obtained after 6 to 8 weeks use of the maximum daily dosage, therapy with timolol should be discontinued.
