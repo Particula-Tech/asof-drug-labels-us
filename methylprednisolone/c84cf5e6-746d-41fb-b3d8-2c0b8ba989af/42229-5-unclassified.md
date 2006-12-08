@@ -1,0 +1,5 @@
+Rx only
+
+Manufactured by: VINTAGE PHARMACEUTICALS, LLC Huntsville, AL 35811
+
+8181310P/8181310R R3/06-R2
