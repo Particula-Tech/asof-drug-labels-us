@@ -55,19 +55,19 @@ Hypersensitivity Reaction: Hypersensitivity reactions to hydrochlorothiazide may
 
 Systemic Lupus Erythematosus: Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
-Lithium Interaction: Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
+Lithium Interaction: Lithium generally should not be given with thiazides (seePRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
 
 # PRECAUTIONS
 
 ## Serum Electrolytes
 
-### Telmisartan & Hydrochlorothiazide:
+### Telmisartan & Hydrochlorothiazide
 
 In controlled trials using the telmisartan/hydrochlorothiazide combination treatment, no patient administered 40/12.5 mg, 80/12.5 mg or 80/25 mg had a decrease in potassium ≥1.4 mEq/L, and no patient experienced hyperkalemia.
 No discontinuations due to hypokalemia occurred during treatment with the telmisartan/hydrochlorothiazide combination.
 The absence of significant changes in serum potassium levels may be due to the opposing mechanisms of action of telmisartan and hydrochlorothiazide on potassium excretion on the kidney.
 
-### Hydrochlorothiazide:
+### Hydrochlorothiazide
 
 Periodic determinations of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
 All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis, and hypokalemia.
@@ -105,14 +105,14 @@ Increases in cholesterol and triglyceride levels may be associated with thiazide
 
 ## Impaired Hepatic Function
 
-### Telmisartan:
+### Telmisartan
 
 As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance.
 MICARDIS® HCT tablets should therefore be used with caution in these patients.
 
 ## Impaired Renal Function
 
-### Telmisartan:
+### Telmisartan
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
 In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
@@ -121,7 +121,7 @@ Similar results may be anticipated in patients treated with telmisartan.
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed.
 There has been no long-term use of telmisartan in patients with unilateral or bilateral renal artery stenosis but an effect similar to that seen with ACE inhibitors should be anticipated.
 
-### Hydrochlorothiazide:
+### Hydrochlorothiazide
 
 Thiazides should be used with caution in severe renal disease.
 In patients with renal disease, thiazides may precipitate azotemia.
@@ -141,7 +141,7 @@ Potassium Supplements: A patient receiving MICARDIS HCT should be told not to us
 
 ## Drug Interactions
 
-### Telmisartan:
+### Telmisartan
 
 Digoxin: When telmisartan was coadministered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 It is, therefore, recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing telmisartan to avoid possible over- or under-digitalization.
@@ -152,7 +152,7 @@ Other Drugs: Coadministration of telmisartan did not result in a clinically sign
 Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19.
 Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes; it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.
 
-### Hydrochlorothiazide:
+### Hydrochlorothiazide
 
 When administered concurrently, the following drugs may interact with thiazide diuretics:
 
@@ -167,7 +167,7 @@ Single doses of either cholestyramine or colestipol resins bind the hydrochlorot
 
 Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia.
 
-Pressor amines (e.g., norepinephrine): Possible decreased response to pressure amines but not sufficient to preclude their use.
+Pressor amines (e.g., norepinephrine): Possible decreased response to pressor amines but not sufficient to preclude their use.
 
 Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant.
 
@@ -180,23 +180,23 @@ Therefore, when MICARDIS HCT and non-steroidal anti-inflammatory agents are used
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Telmisartan & Hydrochlorothiazide:
+### Telmisartan & Hydrochlorothiazide
 
 No carcinogenicity, mutagenicity, or fertility studies have been conducted with the combination of telmisartan and hydrochlorothiazide.
 
-### Telmisartan:
+### Telmisartan
 
 There was no evidence of carcinogenicity when telmisartan was administered in the diet to mice and rats for up to 2 years.
 The highest doses administered to mice (1000 mg/kg/day) and rats (100 mg/kg/day) are, on a mg/m2 basis, about 59 and 13 times, respectively, the maximum recommended human dose (MRHD) of telmisartan.
 These same doses have been shown to provide average systemic exposures to telmisartan >100 times and >25 times, respectively, the systemic exposure in humans receiving the MRHD (80 mg/day).
 
 Genotoxicity assays did not reveal any telmisartan-related effects at either the gene or chromosome level.
-These assays included bacterial mutagenicity tests with Salmonella and E coli (Ames), a gene mutation test with Chinese hamster V79 cells, a cytogenetic test with human lymphocytes, and a mouse micronucleus test.
+These assays included bacterial mutagenicity tests with Salmonella and E. coli (Ames), a gene mutation test with Chinese hamster V79 cells, a cytogenetic test with human lymphocytes, and a mouse micronucleus test.
 
 No drug-related effects on the reproductive performance of male and female rats were noted at 100 mg/kg/day (the highest dose administered), about 13 times, on a mg/m2 basis, the MRHD of telmisartan.
 This dose in the rat resulted in an average systemic exposure (telmisartan AUC as determined on day 6 of pregnancy) at least 50 times the average systemic exposure in humans at the MRHD (80 mg/day).
 
-### Hydrochlorothiazide:
+### Hydrochlorothiazide
 
 Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.

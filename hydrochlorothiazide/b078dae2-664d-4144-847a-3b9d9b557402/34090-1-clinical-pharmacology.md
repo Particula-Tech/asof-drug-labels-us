@@ -29,7 +29,7 @@ The mechanism of the antihypertensive effect of thiazides is not fully understoo
 
 ### General
 
-#### Telmisartan:
+#### Telmisartan
 
 Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5-1 hour after dosing.
 Food slightly reduces the bioavailability of telmisartan, with a reduction in the area under the plasma concentration-time curve (AUC) of about 6% with the 40 mg tablet and about 20% after a 160 mg dose.
@@ -40,13 +40,13 @@ Telmisartan shows bi-exponential decay kinetics with a terminal elimination half
 Trough plasma concentrations of telmisartan with once daily dosing are about 10-25% of peak plasma concentrations.
 Telmisartan has an accumulation index in plasma of 1.5 to 2.0 upon repeated once daily dosing.
 
-#### Hydrochlorothiazide:
+#### Hydrochlorothiazide
 
 When plasma levels have been followed for at least 24 hours, the plasma half-life has been observed to vary between 5.6 and 14.8 hours.
 
 ### Metabolism and Elimination
 
-#### Telmisartan:
+#### Telmisartan
 
 Following either intravenous or oral administration of 14C-labeled telmisartan, most of the administered dose (>97%) was eliminated unchanged in feces via biliary excretion; only minute amounts were found in the urine (0.91% and 0.49% of total radioactivity, respectively).
 
@@ -57,20 +57,20 @@ The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan
 Total plasma clearance of telmisartan is >800 mL/min.
 Terminal half-life and total clearance appear to be independent of dose.
 
-#### Hydrochlorothiazide:
+#### Hydrochlorothiazide
 
 Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney.
 At least 61% of the oral dose is eliminated as unchanged drug within 24 hours.
 
 ### Distribution
 
-#### Telmisartan:
+#### Telmisartan
 
 Telmisartan is highly bound to plasma proteins (>99.5%), mainly albumin and α1-acid glycoprotein.
 Plasma protein binding is constant over the concentration range achieved with recommended doses.
 The volume of distribution for telmisartan is approximately 500 liters, indicating additional tissue binding.
 
-#### Hydrochlorothiazide:
+#### Hydrochlorothiazide
 
 Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
@@ -94,7 +94,7 @@ Drug Interactions: See PRECAUTIONS, Drug Interactions.
 
 ## Pharmacodynamics
 
-### Telmisartan:
+### Telmisartan
 
 In normal volunteers, a dose of telmisartan 80 mg inhibited the pressor response to an intravenous infusion of angiotensin II by about 90% at peak plasma concentrations with approximately 40% inhibition persisting for 24 hours.
 
@@ -104,13 +104,13 @@ In multiple dose studies with hypertensive patients, there were no clinically si
 
 In 30 hypertensive patients with normal renal function treated for 8 weeks with telmisartan 80 mg or telmisartan 80 mg in combination with hydrochlorothiazide 12.5 mg, there were no clinically significant changes from baseline in renal blood flow, glomerular filtration rate, filtration fraction, renovascular resistance, or creatinine clearance.
 
-### Hydrochlorothiazide:
+### Hydrochlorothiazide
 
 After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
 
 ## Clinical Trials
 
-### Telmisartan:
+### Telmisartan
 
 The antihypertensive effects of telmisartan have been demonstrated in six principal placebo-controlled clinical trials, studying a range of 20-160 mg; one of these examined the antihypertensive effects of telmisartan and hydrochlorothiazide in combination.
 The studies involved a total of 1773 patients with mild to moderate hypertension (diastolic blood pressure of 95-114 mmHg), 1031 of whom were treated with telmisartan.
@@ -131,7 +131,7 @@ The incidence of symptomatic orthostasis after the first dose in all controlled 
 
 There were no changes in the heart rate of patients treated with telmisartan in controlled trials.
 
-### Telmisartan & Hydrochlorothiazide:
+### Telmisartan & Hydrochlorothiazide
 
 In controlled clinical trials with over 2500 patients, 1017 patients were exposed to telmisartan (20 to 160 mg) and concomitant hydrochlorothiazide (6.25 to 25 mg).
 These trials included one factorial trial with combinations of telmisartan (20, 40, 80, 160 mg, or placebo) and hydrochlorothiazide (6.25, 12.5, 25 mg and placebo).

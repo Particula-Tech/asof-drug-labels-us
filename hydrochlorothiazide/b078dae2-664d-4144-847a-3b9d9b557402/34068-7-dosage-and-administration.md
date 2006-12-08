@@ -10,7 +10,7 @@ To minimize dose-independent side effects, it is usually appropriate to begin co
 The side effects (see WARNINGS) of telmisartan are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter.
 Therapy with any combination of telmisartan and hydrochlorothiazide will be associated with both sets of dose-independent side effects.
 
-MICARDIS HCT tablets may be administered with other antihypertensive agents.
+MICARDIS HCT (telmisartan/hydrochlorothiazide) tablets may be administered with other antihypertensive agents.
 
 MICARDIS HCT tablets may be administered with or without food.
 

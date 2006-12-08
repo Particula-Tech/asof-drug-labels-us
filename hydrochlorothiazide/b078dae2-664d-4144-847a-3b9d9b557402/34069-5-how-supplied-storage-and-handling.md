@@ -18,24 +18,14 @@ MICARDIS HCT tablets 80 mg/25 mg are individually blister-sealed in cartons of 3
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Tablets should not be removed from blisters until immediately before administration.
 
-Rx only
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877 USA
 
-Manufactured by: Boehringer Ingelheim Pharma GmbH & Co. KG,
+Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Ingelheim, Germany
+©Copyright 2006, Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc.,
+Micardis HCT Tablets are covered by U.S. Patent 5,591,762
 
-Ridgefield, CT 06877 USA
+Revised: June 2, 2006
 
-and Abbott Laboratories,
-
-North Chicago, IL 60064 USA
-
-Licensed from: Boehringer Ingelheim International GmbH,
-
-Ingelheim, Germany
-
-© Copyright 2004, Boehringer Ingelheim International GmbH
-
-340139 /US/2
+IT1105A 340139/US/4 340139/04 10004142/US/2 10004142/02

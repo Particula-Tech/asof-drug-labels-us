@@ -35,72 +35,72 @@ Adverse events occurred at approximately the same rates in men and women, older 
 
 In controlled trials (n=1017), 0.3% of patients treated with MICARDIS HCT 40/12.5 mg, 80/12.5 mg or 80/25 mg discontinued due to orthostatic hypotension, and the incidence of dizziness was 4%, 7%, and 1% respectively.
 
-## Telmisartan:
+## Telmisartan
 
 Other adverse experiences that have been reported with telmisartan, without regard to causality, are listed below:
 
-Autonomic Nervous System: impotence, increased sweating, flushing;
+Autonomic Nervous System: impotence, increased sweating, flushing
 
-Body as a Whole: allergy, fever, leg pain, malaise, chest pain;
+Body as a Whole: allergy, fever, leg pain, malaise, chest pain
 
-Cardiovascular: palpitation, dependent edema, angina pectoris, leg edema, abnormal ECG, hypertension, peripheral edema;
+Cardiovascular: palpitation, dependent edema, angina pectoris, leg edema, abnormal ECG, hypertension, peripheral edema
 
-CNS: insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoaesthesia;
+CNS: insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoaesthesia
 
-Gastrointestinal: flatulence, constipation, gastritis, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, non-specific gastrointestinal disorders;
+Gastrointestinal: flatulence, constipation, gastritis, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, non-specific gastrointestinal disorders
 
-Metabolic: gout, hypercholesterolemia, diabetes mellitus;
+Metabolic: gout, hypercholesterolemia, diabetes mellitus
 
-Musculoskeletal: arthritis, arthralgia, leg cramps, myalgia;
+Musculoskeletal: arthritis, arthralgia, leg cramps, myalgia
 
-Psychiatric: anxiety, depression, nervousness;
+Psychiatric: anxiety, depression, nervousness
 
-Resistance Mechanism: infection, fungal infection, abscess, otitis media;
+Resistance Mechanism: infection, fungal infection, abscess, otitis media
 
-Respiratory: asthma, rhinitis, dyspnea, epistaxis;
+Respiratory: asthma, rhinitis, dyspnea, epistaxis
 
-Skin: dermatitis, eczema, pruritus;
+Skin: dermatitis, eczema, pruritus
 
-Urinary: micturition frequency, cystitis;
+Urinary: micturition frequency, cystitis
 
-Vascular: cerebrovascular disorder;
+Vascular: cerebrovascular disorder
 
-Special Senses: abnormal vision, conjunctivitis, tinnitus, earache.
+Special Senses: abnormal vision, conjunctivitis, tinnitus, earache
 
 A single case of angioedema was reported (among a total of 3781 patients treated with telmisartan).
+
+## Hydrochlorothiazide
+
+Other adverse experiences that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
+
+Body as a whole: weakness
+
+Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation
+
+Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
+
+Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions
+
+Metabolic: hyperglycemia, glycosuria, hyperuricemia
+
+Musculoskeletal: muscle spasm
+
+Nervous System/Psychiatric: restlessness
+
+Renal: renal failure, renal dysfunction, interstitial nephritis
+
+Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis
+
+Special Senses: transient blurred vision, xanthopsia
 
 ## Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of MICARDIS tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to MICARDIS tablets.
-The most frequently spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), and myalgia.
+The most frequently spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, and increased CPK.
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including MICARDIS.
-
-## Hydrochlorothiazide:
-
-Other adverse experiences that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
-
-Body as a whole: weakness;
-
-Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation;
-
-Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia;
-
-Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions;
-
-Metabolic: hyperglycemia, glycosuria, hyperuricemia;
-
-Musculoskeletal: muscle spasm;
-
-Nervous System/Psychiatric: restlessness;
-
-Renal: renal failure, renal dysfunction, interstitial nephritis;
-
-Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis;
-
-Special Senses: transient blurred vision, xanthopsia.
 
 ## Clinical Laboratory Findings
 
