@@ -45,6 +45,11 @@ If patients experience symptoms of visual impairment, such as changes in visual 
 Visual function should be monitored in all patients taking ZYVOX for extended periods (≥ 3 months) and in all patients reporting new visual symptoms regardless of length of therapy with ZYVOX.
 If peripheral or optic neuropathy occurs, the continued use of ZYVOX in these patients should be weighed against the potential risks.
 
+### Convulsions
+
+Convulsions have been reported in patients when treated with linezolid.
+In most of these cases, a history of seizures or risk factors for seizures was reported.
+
 The use of antibiotics may promote the overgrowth of nonsusceptible organisms.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
@@ -70,6 +75,7 @@ Patients should be advised that:
   The other ZYVOX formulations do not contain phenylalanine.
   Contact your physician or pharmacist.
 - They should inform their physician if they experience changes in vision.
+- They should inform their physician if they have a history of seizures.
 
 Patients should be counseled that antibacterial drugs including ZYVOX should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -119,7 +125,7 @@ Reversible reductions in sperm motility and altered sperm morphology were observ
 
 #### Pregnancy Category C
 
-Linezolid was not teratogenic in mice or rats at exposure levels 6.5-fold (in mice) or equivalent to (in rats) the expected human exposure level, based on AUCs.
+Linezolid was not teratogenic in mice, rats, or rabbits at exposure levels 6.5-fold (in mice), equivalent to (in rats), or 0.5-fold (in rabbits) the expected human exposure level, based on AUCs.
 However, embryo and fetal toxicities were seen (see Non-teratogenic Effects).
 There are no adequate and well-controlled studies in pregnant women.
 ZYVOX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -132,6 +138,8 @@ A dose of 450 mg/kg/day (6.5-fold the estimated human exposure level based on AU
 In rats, mild fetal toxicity was observed at 15 and 50 mg/kg/day (exposure levels 0.22-fold to approximately equivalent to the estimated human exposure, respectively based on AUCs).
 The effects consisted of decreased fetal body weights and reduced ossification of sternebrae, a finding often seen in association with decreased fetal body weights.
 Slight maternal toxicity, in the form of reduced body weight gain, was seen at 50 mg/kg/day.
+
+In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at a dose of 15 mg/kg/day (0.5-fold the estimated human exposure based on AUCs).
 
 When female rats were treated with 50 mg/kg/day (approximately equivalent to the estimated human exposure based on AUCs) of linezolid during pregnancy and lactation, survival of pups was decreased on postnatal days 1 to 4.
 Male and female pups permitted to mature to reproductive age, when mated, showed an increase in preimplantation loss.

@@ -192,5 +192,7 @@ Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vis
 Lactic acidosis has been reported with the use of ZYVOX (see PRECAUTIONS).
 Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
 Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and ZYVOX (see PRECAUTIONS).
+Convulsions have been reported with the use of ZYVOX (see PRECAUTIONS).
+Anaphylaxis, angioedema, and bullous skin disorders such as those described as Stevens Johnson syndrome have been reported.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to ZYVOX, or a combination of these factors.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made and causal relationship cannot be precisely established.
