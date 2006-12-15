@@ -1,0 +1,141 @@
+# CLINICAL PHARMACOLOGY
+
+## Microbiology
+
+### Mechanism of Action
+
+The constituents of MALARONE, atovaquone and proguanil hydrochloride, interfere with 2 different pathways involved in the biosynthesis of pyrimidines required for nucleic acid replication.
+Atovaquone is a selective inhibitor of parasite mitochondrial electron transport.
+Proguanil hydrochloride primarily exerts its effect by means of the metabolite cycloguanil, a dihydrofolate reductase inhibitor.
+Inhibition of dihydrofolate reductase in the malaria parasite disrupts deoxythymidylate synthesis.
+
+### Activity In Vitro and In Vivo
+
+Atovaquone and cycloguanil (an active metabolite of proguanil) are active against the erythrocytic and exoerythrocytic stages of Plasmodium spp.
+Enhanced efficacy of the combination compared to either atovaquone or proguanil hydrochloride alone was demonstrated in clinical studies in both immune and non-immune patients (see CLINICAL STUDIES).
+
+### Drug Resistance
+
+Strains of P. falciparum with decreased susceptibility to atovaquone or proguanil/cycloguanil alone can be selected in vitro or in vivo.
+The combination of atovaquone and proguanil hydrochloride may not be effective for treatment of recrudescent malaria that develops after prior therapy with the combination.
+
+## Pharmacokinetics
+
+### Absorption
+
+Atovaquone is a highly lipophilic compound with low aqueous solubility.
+The bioavailability of atovaquone shows considerable inter-individual variability.
+
+Dietary fat taken with atovaquone increases the rate and extent of absorption, increasing AUC 2 to 3 times and Cmax 5 times over fasting.
+The absolute bioavailability of the tablet formulation of atovaquone when taken with food is 23%.
+MALARONE Tablets should be taken with food or a milky drink.
+
+Proguanil hydrochloride is extensively absorbed regardless of food intake.
+
+### Distribution
+
+Atovaquone is highly protein bound (>99%) over the concentration range of 1 to 90 mcg/mL.
+A population pharmacokinetic analysis demonstrated that the apparent volume of distribution of atovaquone (V/F) in adult and pediatric patients after oral administration is approximately 8.8 L/kg.
+
+Proguanil is 75% protein bound.
+A population pharmacokinetic analysis demonstrated that the apparent V/F of proguanil in adult and pediatric patients >15 years of age with body weights from 31 to 110 kg ranged from 1,617 to 2,502 L. In pediatric patients ≤15 years of age with body weights from 11 to 56 kg, the V/F of proguanil ranged from 462 to 966 L.
+
+In human plasma, the binding of atovaquone and proguanil was unaffected by the presence of the other.
+
+### Metabolism
+
+In a study where 14C-labeled atovaquone was administered to healthy volunteers, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
+There was little or no excretion of atovaquone in the urine (less than 0.6%).
+There is indirect evidence that atovaquone may undergo limited metabolism; however, a specific metabolite has not been identified.
+Between 40% to 60% of proguanil is excreted by the kidneys.
+Proguanil is metabolized to cycloguanil (primarily via CYP2C19) and 4-chlorophenylbiguanide.
+The main routes of elimination are hepatic biotransformation and renal excretion.
+
+### Elimination
+
+The elimination half-life of atovaquone is about 2 to 3 days in adult patients.
+
+The elimination half-life of proguanil is 12 to 21 hours in both adult patients and pediatric patients, but may be longer in individuals who are slow metabolizers.
+
+A population pharmacokinetic analysis in adult and pediatric patients showed that the apparent clearance (CL/F) of both atovaquone and proguanil are related to the body weight.
+The values CL/F for both atovaquone and proguanil in subjects with body weight ≥11 kg are shown in Table 1.
+
+Table 1.
+Apparent Clearance for Atovaquone and Proguanil in Patients as a Function of Body Weight
+
+| Body Weight | Atovaquone |  | Proguanil |  |
+| --- | --- | --- | --- | --- |
+| N | CL/F (L/hr)Mean ± SD* (range) | N | CL/F (L/hr)Mean ± SD* (range) |  |
+| 11-20 kg | 159 | 1.34 ± 0.63(0.52-4.26) | 146 | 29.5 ± 6.5(10.3-48.3) |
+| 21-30 kg | 117 | 1.87 ± 0.81(0.52-5.38) | 113 | 40.0 ± 7.5(15.9-62.7) |
+| 31-40 kg | 95 | 2.76 ± 2.07(0.97-12.5) | 91 | 49.5 ± 8.30(25.8-71.5) |
+| >40 kg | 368 | 6.61 ± 3.92(1.32-20.3) | 282 | 67.9 ± 19.9(14.0-145) |
+
+*SD = standard deviation.
+
+The pharmacokinetics of atovaquone and proguanil in patients with body weight below 11 kg have not been adequately characterized.
+
+## Special Populations
+
+### Pediatrics
+
+The pharmacokinetics of proguanil and cycloguanil are similar in adult patients and pediatric patients.
+However, the elimination half-life of atovaquone is shorter in pediatric patients (1 to 2 days) than in adult patients (2 to 3 days).
+In clinical trials, plasma trough levels of atovaquone and proguanil in pediatric patients weighing 5 to 40 kg were within the range observed in adults after dosing by body weight.
+
+### Geriatrics
+
+In a single-dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 elderly subjects (age 65 to 79 years) to 13 younger subjects (age 30 to 45 years).
+In the elderly subjects, the extent of systemic exposure (AUC) of cycloguanil was increased (point estimate = 2.36, CI = 1.70, 3.28).
+Tmax was longer in elderly subjects (median 8 hours) compared with younger subjects (median 4 hours) and average elimination half-life was longer in elderly subjects (mean 14.9 hours) compared with younger subjects (mean 8.3 hours).
+
+### Hepatic Impairment
+
+In a single-dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 subjects with hepatic impairment (9 mild, 4 moderate, as indicated by the Child-Pugh method) to 13 subjects with normal hepatic function.
+In subjects with mild or moderate hepatic impairment as compared to healthy subjects, there were no marked differences (<50%) in the rate or extent of systemic exposure of atovaquone.
+However, in subjects with moderatehepatic impairment, the elimination half-life of atovaquone was increased (point estimate = 1.28, 90% CI = 1.00 to 1.63).
+Proguanil AUC, Cmax, and its t1/2 increased in subjects with mild hepatic impairment when compared to healthy subjects (Table 2).
+Also, the proguanil AUC and its t1/2 increased in subjects with moderate hepatic impairment when compared to healthy subjects.
+Consistent with the increase in proguanil AUC, there were marked decreases in the systemic exposure of cycloguanil (Cmax and AUC) and an increase in its elimination half-life in subjects with mild hepatic impairment when compared to healthy volunteers (Table 2).
+There were few measurable cycloguanil concentrations in subjects with moderate hepatic impairment (see DOSAGE AND ADMINISTRATION).
+The pharmacokinetics of atovaquone, proguanil, and cycloguanil after administration of MALARONE have not been studied in patients with severe hepatic impairment.
+
+Table 2.
+Point Estimates (90% CI) for Proguanil and Cycloguanil Parameters in Subjects With Mild and Moderate Hepatic Impairment Compared to Healthy Volunteers
+
+| Parameter | Comparison | Proguanil | Cycloguanil |
+| --- | --- | --- | --- |
+| AUC(0-inf)* | mild:healthy | 1.96 (1.51, 2.54) | 0.32 (0.22, 0.45) |
+| Cmax* | mild:healthy | 1.41 (1.16, 1.71) | 0.35 (0.24, 0.50) |
+| t1/2† | mild:healthy | 1.21 (0.92, 1.60) | 0.86 (0.49, 1.48) |
+| AUC(0-inf)* | moderate:healthy | 1.64 (1.14, 2.34) | ND |
+| Cmax* | moderate:healthy | 0.97 (0.69, 1.36) | ND |
+| t1/2† | moderate:healthy | 1.46 (1.05, 2.05) | ND |
+
+ND = not determined due to lack of quantifiable data.
+
+*Ratio of geometric means.
+
+†Mean difference.
+
+### Renal Impairment
+
+In patients with mild renal impairment (creatinine clearance 50 to 80 mL/min), oral clearance and/or AUC data for atovaquone, proguanil, and cycloguanil are within the range of values observed in patients with normal renal function (creatinine clearance >80 mL/min).
+In patients with moderate renal impairment (creatinine clearance 30 to 50 mL/min), mean oral clearance for proguanil was reduced by approximately 35% compared with patients with normal renal function (creatinine clearance >80 mL/min) and the oral clearance of atovaquone was comparable between patients with normal renal function and mild renal impairment.
+No data exist on the use of MALARONE for long-term prophylaxis (over 2 months) in individuals with moderate renal failure.
+In patients with severe renal impairment (creatinine clearance <30 mL/min), atovaquone Cmax and AUC are reduced but the elimination half-lives for proguanil and cycloguanil are prolonged, with corresponding increases in AUC, resulting in the potential of drug accumulation and toxicity with repeated dosing (see CONTRAINDICATIONS).
+
+## Drug Interactions
+
+There are no pharmacokinetic interactions between atovaquone and proguanil at the recommended dose.
+
+Concomitant treatment with tetracycline has been associated with approximately a 40% reduction in plasma concentrations of atovaquone.
+
+Concomitant treatment with metoclopramide has also been associated with decreased bioavailability of atovaquone.
+
+Concomitant administration of rifampin or rifabutin is known to reduce atovaquone levels by approximately 50% and 34%, respectively (see PRECAUTIONS: Drug Interactions).
+The mechanisms of these interactions are unknown.
+
+Atovaquone is highly protein bound (>99%) but does not displace other highly protein-bound drugs in vitro, indicating significant drug interactions arising from displacement are unlikely (see PRECAUTIONS: Drug Interactions).
+Proguanil is metabolized primarily by CYP2C19.
+Potential pharmacokinetic interactions with other substrates or inhibitors of this pathway are unknown.
