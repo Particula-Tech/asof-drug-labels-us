@@ -269,4 +269,6 @@ Body as a Whole: Multi-organ hypersensitivity disorders characterized by feature
 
 Digestive System: Pancreatitis and/or lipase and/or amylase increase.
 
+Hemic and Lymphatic System: Bone marrow depression, agranulocytosis, aplastic anemia, pancytopenia, neutropenia (see PRECAUTIONS, Hematologic Events subsection).
+
 Skin and Appendages: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (see WARNINGS, Serious Dermatological Reactions subsection).

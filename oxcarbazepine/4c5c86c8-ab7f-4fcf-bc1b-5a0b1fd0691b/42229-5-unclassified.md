@@ -1,5 +1,3 @@
-T2006-06
-
 TRILEPTAL ®
 
 (oxcarbazepine)
