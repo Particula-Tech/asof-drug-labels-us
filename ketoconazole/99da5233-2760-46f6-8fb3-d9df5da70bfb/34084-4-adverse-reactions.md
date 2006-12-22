@@ -1,0 +1,7 @@
+# ADVERSE REACTIONS
+
+In 11 double-blind trials in 264 patients using Ketoconazole Shampoo, 2% for the treatment of dandruff or seborrheic dermatitis, an increase in normal hair loss and irritation occurred in less than 1% of patients.
+In three open-label safety trials in which 41 patients shampooed 4-10 times weekly for six months, the following adverse experiences each occurred once: abnormal hair texture, scalp pustules, mild dryness of the skin, and itching.
+As with other shampoos, oiliness and dryness of hair and scalp have been reported.
+In a double-blind, placebo-controlled trial in which patients with tinea versicolor were treated with either a single application of Ketoconazole Shampoo, 2% (n=106), a daily application for three consecutive days (n=107), or placebo (n=105), drug-related adverse events occurred in 5 (5%), 7 (7%) and 4 (4%) of patients, respectively.
+The only events that occurred in more than one patient in any one of the three treatment groups were pruritus, application site reaction, and dry skin; none of these events occurred in more than 3% of the patients in any one of the three groups.
