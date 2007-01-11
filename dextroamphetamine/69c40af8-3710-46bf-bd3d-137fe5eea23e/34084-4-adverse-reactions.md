@@ -10,4 +10,4 @@ Anorexia and weight loss may occur as undesirable effects.
 
 Allergic– Urticaria.
 
-Endocrine – Impotence, changes in libido.
+Endocrine– Impotence, changes in libido.

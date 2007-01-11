@@ -1,9 +1,9 @@
 # HOW SUPPLIED
 
 Dextroamphetamine Sulfate Extended-Release Capsules– Each capsule, with white opaque cap and white opaque body, contains dextroamphetamine sulfate.
-The 5 mg capsule is imprinted with an ® on the cap and is imprinted 8960 5mg on the body in black.
-The 10 mg capsule is imprinted with an ® on the cap and is imprinted 8961 10mg on the body in blue.
-The 15 mg capsule is imprinted with an ® on the cap and is imprinted 8962 15mg on the body in pink.
+The 5 mg capsule is imprinted with an ® on the cap and is imprinted 8960 5 mg on the body in black.
+The 10 mg capsule is imprinted with an ® on the cap and is imprinted 8961 10 mg on the body in blue.
+The 15 mg capsule is imprinted with an ® on the cap and is imprinted 8962 15 mg on the body in pink.
 Available: 5 mg, 10 mg, and 15 mg in bottles of 100.
 
 Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
@@ -23,4 +23,4 @@ is a registered trademark of Mallinckrodt Inc.
 
 tyco Healthcare Mallinckrodt
 
-Mallinckrodt Inc. St.Louis, MO 63134 Printed in U.S.A. Rev 091805
+Mallinckrodt Inc. St. Louis, MO 63134 Rev 090506 Printed in U.S.A.

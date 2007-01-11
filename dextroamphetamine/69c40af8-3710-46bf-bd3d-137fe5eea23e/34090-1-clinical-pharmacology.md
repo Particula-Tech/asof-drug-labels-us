@@ -1,11 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
-Amphetamines are non-catecholamine, sympathomimetic amines with CNS stimulant activity.
+Amphetamines are noncatecholamine, sympathomimetic amines with CNS stimulant activity.
 Peripheral actions include elevations of systolic and diastolic blood pressures and weak bronchodilator and respiratory stimulant action.
 
-There is neither specific evidence which clearly establishes the mechanism whereby amphetamines produce mental and behavioral effects in children, nor conclusive evidence regarding how these effects relate to the condition of the central nervous system.
+There is neither specific evidence that clearly establishes the mechanism whereby amphetamines produce mental and behavioral effects in children, nor conclusive evidence regarding how these effects relate to the condition of the central nervous system.
 
-Dextroamphetamine Sulfate Extended-Release Capsules are formulated to release the active drug substance in vivo in a more gradual fashion than the standard formulation, as demonstrated by blood levels.
+Dextroamphetamine sulfate extended-release capsules are formulated to release the active drug substance in vivo in a more gradual fashion than the standard formulation, as demonstrated by blood levels.
 The formulation has not been shown superior in effectiveness over the same dosage of the standard, noncontrolled-release formulations given in divided doses.
 
 ## Pharmacokinetics
