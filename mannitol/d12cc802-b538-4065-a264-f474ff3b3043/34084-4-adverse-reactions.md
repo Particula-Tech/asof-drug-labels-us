@@ -1,0 +1,31 @@
+# ADVERSE REACTIONS
+
+Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.
+
+Extensive use of mannitol over the last several decades has produced recorded adverse events, in a variety of clinical settings, that are isolated or idiosyncratic in nature.
+None of these adverse reactions have occurred with any great frequency nor with any security in attributing them to mannitol.
+
+The inability to clearly exclude the drug related nature of such events in these isolated reports prompts the necessity to list the reactions that have been observed in patients during or following mannitol infusion.
+In this fashion, patients have exhibited nausea, vomiting, rhinitis, local pain, skin necrosis and thrombophlebitis at the site of infection, chills, dizziness, urticaria, hypotension, hypertension, tachycardia, fever and angina-like chest pains.
+
+Of far greater clinical significance is a variety of events that are related to inappropriate recognition and monitoring of fluid shifts.
+These are not intrinsic adverse reactions to the drug but the consequence of manipulating osmolarity by any agency in a therapeutically inappropriate manner.
+Failure to recognize severe impairment of renal function with the high likelihood of nondiuretic response can lead to aggravated dehydration of tissues and increased vascular fluid load.
+Induced diuresis in the presence of preexisting hemoconcentration and preexisting deficiency of water and electrolytes can lead to serious imbalances.
+Expansion of the extracellular space can aggravate cardiac decompensation or induce it in the presence of latent heart failure.
+Pulmonary congestion or edema can be seriously aggravated with the expansion of the extracellular and therefore intravascular fluid load.
+Hemodilution and dilution of the extracellular fluid space by osmotic shift of water can induce or aggravate preexisting hyponatremia.
+
+If unrecognized, such fluid and/or electrolyte shift can produce the reported adverse reactions of pulmonary congestion, acidosis, electrolyte loss, dryness of mouth, thirst, edema, headache, blurred vision, convulsions and congestive cardiac failure.
+
+These are not truly adverse reactions to the drug and can be appropriately prevented by evaluation of degree of renal failure with a test dose response to mannitol when indicated; evaluation of hypervolemia and hypovolemia; sodium and potassium levels; hemodilution or hemoconcentration; and evaluation of renal, cardiac and pulmonary function at the onset of therapy.
+
+Too rapid infusion of hypertonic solutions may cause local pain and venous irritation.
+Rate of administration should be adjusted according to tolerance.
+Use of the largest peripheral vein and a small bore needle is recommended.
+(See DOSAGE AND ADMINISTRATION.)
+
+The physician should also be alert to the possibility of adverse reactions to drug additives.
+Prescribing information for drug additives to be administered in this manner should be consulted.
+
+If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
