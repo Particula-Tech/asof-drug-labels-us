@@ -1,0 +1,172 @@
+# WARNINGS
+
+## Clinical Worsening and Suicide Risk
+
+Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients.
+Antidepressants increased the risk of suicidal thinking and behavior (suicidality) in short-term studies in children and adolescents with Major Depressive Disorder (MDD) and other psychiatric disorders.
+
+Pooled analyses of short-term placebo-controlled trials of 9 antidepressant drugs (SSRIs and others) in children and adolescents with MDD, OCD, or other psychiatric disorders (a total of 24 trials involving over 4400 patients) have revealed a greater risk of adverse events representing suicidal behavior or thinking (suicidality) during the first few months of treatment in those receiving antidepressants.
+The average risk of such events in patients receiving antidepressants was 4%, twice the placebo risk of 2%.
+There was considerable variation in risk among drugs, but a tendency toward an increase for almost all drugs studied.
+The risk of suicidality was most consistently observed in the MDD trials, but there were signals of risk arising from some trials in other psychiatric indications (obsessive compulsive disorder and social anxiety disorder) as well.
+No suicides occurred in any of these trials.
+It is unknown whether the suicidality risk in pediatric patients extends to longer-term use, i.e., beyond several months.
+It is also unknown whether the suicidality risk extends to adults.
+
+All pediatric patients being treated with antidepressants for any indication should be observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+Such observation would generally include at least weekly face-to-face contact with patients or their family members or caregivers during the first 4 weeks of treatment, then every other week visits for the next 4 weeks, then at 12 weeks, and as clinically indicated beyond 12 weeks.
+Additional contact by telephone may be appropriate between face-to-face visits.
+
+Adults with MDD or co-morbid depression in the setting of other psychiatric illness being treated with antidepressants should be observed similarly for clinical worsening and suicidality, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
+Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
+
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+
+Families and caregivers of pediatric patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Such monitoring should include daily observation by families and caregivers.
+Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Families and caregivers of adults being treated for depression should be similarly advised.
+
+## Screening Patients for Bipolar Disorder
+
+A major depressive episode may be the initial presentation of bipolar disorder.
+It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
+Whether any of the symptoms described above represent such a conversion is unknown.
+However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+It should be noted that amitriptyline is not approved for use in treating bipolar depression.
+
+Amitriptyline hydrochloride may block the antihypertensive action of guanethidine or similarly acting compounds.
+
+It should be used with caution in patients with a history of seizures and, because of its atropine-like action, in patients with a history of urinary retention, angle-closure glaucoma or increased intraocular pressure.
+In patients with angle-closure glaucoma, even average doses may precipitate an attack.
+
+Patients with cardiovascular disorders should be watched closely.
+Tricyclic antidepressant drugs, including amitriptyline hydrochloride, particularly when given in high doses, have been reported to produce arrhythmias, sinus tachycardia, and prolongation of the conduction time.
+Myocardial infarction and stroke have been reported with drugs of this class.
+
+Close supervision is required when amitriptyline hydrochloride is given to hyperthyroid patients or those receiving thyroid medication.
+
+Amitriptyline may enhance the response to alcohol and the effects of barbiturates and other CNS depressants.
+In patients who may use alcohol excessively, it should be borne in mind that the potentiation may increase the danger inherent in any suicide attempt or overdosage.
+Delirium has been reported with concurrent administration of amitriptyline and disulfiram.
+
+## Usage In Pregnancy
+
+### Pregnancy Category C
+
+Teratogenic effects were not observed in mice, rats, or rabbits when amitriptyline was given orally at doses of 2 to 40 mg/kg/day (up to 13 times the maximum recommended human doseBased on a maximum recommended amitriptyline dose of 150 mg/day or 3 mg/kg/day for a 50 kg patient.).
+Studies in literature have shown amitriptyline to be teratogenic in mice and hamsters when given by various routes of administration at doses of 28 to 100 mg/kg/day (9 to 33 times the maximum recommended human dose), producing multiple malformations.
+Another study in the rat reported that an oral dose of 25 mg/kg/day (8 times the maximum recommended human dose) produced delays in ossification of fetal vertebral bodies without other signs of embryotoxicity.
+In rabbits, an oral dose of 60 mg/kg/day (20 times the maximum recommended human dose) was reported to cause incomplete ossification of cranial bones.
+
+Amitriptyline has been shown to cross the placenta.
+Although a causal relationship has not been established, there have been a few reports of adverse events, including CNS effects, limb deformities, or developmental delay, in infants whose mothers had taken amitriptyline during pregnancy.
+
+There are no adequate and well-controlled studies in pregnant women.
+Amitriptyline hydrochloride should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
+
+## Nursing Mothers
+
+Amitriptyline is excreted into breast milk.
+In one report in which a patient received amitriptyline 100 mg/day while nursing her infant, levels of 83 to 141 ng/mL were detected in the mother's serum.
+Levels of 135 to 151 ng/mL were found in the breast milk, but no trace of the drug could be detected in the infant's serum.
+
+Because of the potential for serious adverse reactions in nursing infants from amitriptyline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+## Usage In Pediatric Patients
+
+In view of the lack of experience with the use of this drug in pediatric patients, it is not recommended at the present time for patients under 12 years of age.
+
+# PRECAUTIONS
+
+Schizophrenic patients may develop increased symptoms of psychosis; patients with paranoid symptomatology may have an exaggeration of such symptoms.
+Depressed patients, particularly those with known manic-depressive illness, may experience a shift to mania or hypomania.
+In these circumstances the dose of amitriptyline may be reduced or a major tranquilizer such as perphenazine may be administered concurrently.
+
+The possibility of suicide in depressed patients remains until significant remission occurs.
+Potentially suicidal patients should not have access to large quantities of this drug.
+Prescriptions should be written for the smallest amount feasible.
+
+Concurrent administration of amitriptyline hydrochloride and electroshock therapy may increase the hazards associated with such therapy.
+Such treatment should be limited to patients for whom it is essential.
+
+When possible, the drug should be discontinued several days before elective surgery.
+
+Both elevation and lowering of blood sugar levels have been reported.
+
+Amitriptyline hydrochloride should be used with caution in patients with impaired liver function.
+
+## Drug Interactions
+
+### Drugs Metabolized by P450 2D6
+
+The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7 to 10% of Caucasians are so called "poor metabolizers"); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
+Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
+Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).
+
+In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.
+An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.
+The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).
+While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.
+The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.
+Nevertheless, caution is indicated in the coadministration of TCAs with any of the SSRIs and also in switching from one class to the other.
+Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).
+
+Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.
+Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.
+It is desirable to monitor TCA plasma levels whenever a TCA is going to be coadministered with another drug known to be an inhibitor of P450 2D6.
+
+Monoamine oxidase inhibitors – see CONTRAINDICATIONS section.
+Guanethidine or similarly acting compounds; thyroid medication; alcohol, barbiturates and other CNS depressants; and disulfiram – see WARNINGS section.
+
+When amitriptyline is given with anticholinergic agents or sympathomimetic drugs, including epinephrine combined with local anesthetics, close supervision and careful adjustment of dosages are required.
+
+Hyperpyrexia has been reported when amitriptyline is administered with anticholinergic agents or with neuroleptic drugs, particularly during hot weather.
+
+Paralytic ileus may occur in patients taking tricyclic antidepressants in combination with anticholinergic-type drugs.
+
+Cimetidine is reported to reduce hepatic metabolism of certain tricyclic antidepressants, thereby delaying elimination and increasing steady-state concentrations of these drugs.
+Clinically significant effects have been reported with the tricyclic antidepressants when used concomitantly with cimetidine.
+Increases in plasma levels of tricyclic antidepressants, and in the frequency and severity of side effects, particularly anticholinergic, have been reported when cimetidine was added to the drug regimen.
+Discontinuation of cimetidine in well-controlled patients receiving tricyclic antidepressants and cimetidine may decrease the plasma levels and efficacy of the antidepressants.
+
+Caution is advised if patients receive large doses of ethchlorvynol concurrently.
+Transient delirium has been reported in patients who were treated with one gram of ethchlorvynol and 75 to 150 mg of amitriptyline hydrochloride.
+
+## Information For Patients
+
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with amitriptyline and should counsel them in its appropriate use.
+A patient Medication Guide About Using Antidepressants in Children and Teenagers is available for amitriptyline.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+The complete text of the Medication Guide is reprinted at the end of this document.
+
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking amitriptyline.
+
+## Clinical Worsening and Suicide Risk
+
+Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+
+While on therapy with amitriptyline hydrochloride, patients should be advised as to the possible impairment of mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle.
+
+## Geriatric Use
+
+Clinical experience has not identified differences in responses between elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic function, concomitant disease and other drug therapy in elderly patients.
+
+Geriatric patients are particularly sensitive to the anticholinergic side effects of tricyclic antidepressants including amitriptyline hydrochloride.
+Peripheral anticholinergic effects include tachycardia, urinary retention, constipation, dry mouth, blurred vision, and exacerbation of narrow-angle glaucoma.
+Central nervous system anticholinergic effects include cognitive impairment, psychomotor slowing, confusion, sedation, and delirium.
+Elderly patients taking amitriptyline hydrochloride may be at increased risk for falls.
+Elderly patients should be started on low doses of amitriptyline hydrochloride and observed closely (see DOSAGE AND ADMINISTRATION).
+
+## Pediatric Use
+
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS – Clinical Worsening and Suicide Risk).
+Anyone considering the use of amitriptyline in a child or adolescent must balance the potential risks with the clinical need.
