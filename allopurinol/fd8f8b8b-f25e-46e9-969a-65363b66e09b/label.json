@@ -1,0 +1,19 @@
+{
+  "application_numbers": [],
+  "inn": "allopurinol",
+  "labeler": "URL Mutual Pharmaceutical Company",
+  "package_ndcs": [
+    "53489-156-01",
+    "53489-156-02",
+    "53489-156-05",
+    "53489-156-10",
+    "53489-157-01",
+    "53489-157-02",
+    "53489-157-05",
+    "53489-157-07",
+    "53489-157-10"
+  ],
+  "products": [],
+  "setid": "fd8f8b8b-f25e-46e9-969a-65363b66e09b",
+  "source": "dailymed"
+}
