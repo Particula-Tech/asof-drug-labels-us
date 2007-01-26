@@ -1,0 +1,4 @@
+Angina Pectoris: There have been reports of exacerbation of angina and, in some cases, myocardial infarction, following abrupt discontinuance of propranolol therapy.
+Therefore, when discontinuance of propranolol is planned, the dosage should be gradually reduced over at least a few weeks, and the patient should be cautioned against interruption or cessation of therapy without a physician’s advice.
+If propranolol therapy is interrupted and exacerbation of angina occurs, it is usually advisable to reinstitute propranolol therapy and take other measures appropriate for the management of angina pectoris.
+Since coronary artery disease may be unrecognized, it may be prudent to follow the above advice in patients considered at risk of having occult atherosclerotic heart disease who are given propranolol for other indications.
