@@ -1,0 +1,19 @@
+{
+  "application_numbers": [],
+  "inn": "dantrolene",
+  "labeler": "Global Pharmaceuticals",
+  "package_ndcs": [
+    "0115-4411-01",
+    "0115-4411-02",
+    "0115-4411-03",
+    "0115-4422-01",
+    "0115-4422-02",
+    "0115-4422-03",
+    "0115-4433-01",
+    "0115-4433-02",
+    "0115-4433-03"
+  ],
+  "products": [],
+  "setid": "c3c45b27-f786-456e-95d6-2e38ef36190a",
+  "source": "dailymed"
+}
