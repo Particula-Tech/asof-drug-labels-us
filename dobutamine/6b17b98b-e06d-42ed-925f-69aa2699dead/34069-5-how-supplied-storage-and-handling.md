@@ -104,7 +104,7 @@ Deerfield, IL 60015 USA
 
 Printed in USA
 
-7-19-30-266 Revised July 2002
+7-19-30-266 Rev July 2002
 
 *BAR CODE POSITION ONLY
 
