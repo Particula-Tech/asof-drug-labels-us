@@ -20,20 +20,20 @@ There is no accumulation of ertapenem following multiple IV or IM 1 g daily dose
 
 Average plasma concentrations (mcg/mL) of ertapenem in pediatric patients are presented in Table 2.
 
-Table 2 Plasma Concentrations of Ertapenem in Pediatric Patients After Single IV Infused at a constant rate over 30 minutes Dose Administration
+Table 2 Plasma Concentrations of Ertapenem in Pediatric Patients after a Single IVInfused at a constant rate over 30 minutes Dose Administration
 
-|  |  | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 24 hr |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Age Group | Dose | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |
-| 3 to 23 months | 15 mg/kg up to a maximum dose of 1 g/day | 103.8 | 57.3 | 43.6 | 23.7 | 13.5 | 8.2 | 2.5 | ‑ |
-| 20 mg/kg | 126.8 | 87.6 | 58.7 | 28.4 | ‑ | 12.0 | 3.4 | 0.4 |  |
-|  | 40 mg/kg up to a maximum dose of 2 g/day | 199.1 | 144.1 | 95.7 | 58.0 | ‑ | 20.2 | 7.7 | 0.6 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 24 hr |
+| 3 to 23 months | 15 mg/kgup to a maximum dose of 1 g/day | 103.8 | 57.3 | 43.6 | 23.7 | 13.5 | 8.2 | 2.5 | - |
+| 20 mg/kg | 126.8 | 87.6 | 58.7 | 28.4 | - | 12.0 | 3.4 | 0.4 |  |
+| 40 mg/kgup to a maximum dose of 2 g/day | 199.1 | 144.1 | 95.7 | 58.0 | - | 20.2 | 7.7 | 0.6 |  |
 | 2 to 12 years | 15 mg/kg | 113.2 | 63.9 | 42.1 | 21.9 | 12.8 | 7.6 | 3.0 | - |
-| 20 mg/kg | 147.6 | 97.6 | 63.2 | 34.5 | ‑ | 12.3 | 4.9 | 0.5 |  |
-|  | 40 mg/kg | 241.7 | 152.7 | 96.3 | 55.6 | ‑ | 18.8 | 7.2 | 0.6 |
-| 13 to 17 years | 20 mg/kg | 170.4 | 98.3 | 67.8 | 40.4 | ‑ | 16.0 | 7.0 | 1.1 |
-| 1 gBased on three patients receiving 1 g ertapenem who volunteered for pharmacokinetic assessment in one of the two safety and efficacy studies | 155.9 | 110.9 | 74.8 | ‑ | 24.0 | ‑ | 6.2 | ‑ |  |
-|  | 40 mg/kg | 255.0 | 188.7 | 127.9 | 76.2 | ‑ | 31.0 | 15.3 | 2.1 |
+| 20 mg/kg | 147.6 | 97.6 | 63.2 | 34.5 | - | 12.3 | 4.9 | 0.5 |  |
+| 40 mg/kg | 241.7 | 152.7 | 96.3 | 55.6 | - | 18.8 | 7.2 | 0.6 |  |
+| 13 to 17 years | 20 mg/kg | 170.4 | 98.3 | 67.8 | 40.4 | - | 16.0 | 7.0 | 1.1 |
+| 1 gBased on three patients receiving 1 g ertapenem who volunteered for pharmacokinetic assessment in one of the two safety and efficacy studies | 155.9 | 110.9 | 74.8 | - | 24.0 | - | 6.2 | - |  |
+| 40 mg/kg | 255.0 | 188.7 | 127.9 | 76.2 | - | 31.0 | 15.3 | 2.1 |  |
 
 ### Absorption
 
@@ -66,7 +66,7 @@ In healthy young adults, after infusion of 1 g IV radiolabeled ertapenem, the pl
 The major metabolite of ertapenem is the inactive ring-opened derivative formed by hydrolysis of the beta-lactam ring.
 
 In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the following cytochrome p450 (CYP) isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
-(See DRUG INTERACTIONS.)
+(See Drug Interactions.)
 
 In vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport.
 (See PRECAUTIONS, Drug Interactions.)
@@ -111,7 +111,7 @@ No dose adjustment is recommended based on gender.
 
 ### Geriatric Patients
 
-The impact of age on the pharmacokinetics of ertapenem was evaluated in healthy male (n=7) and healthy female (n=7) subjects ≥65 years of age.
+The impact of age on the pharmacokinetics of ertapenem was evaluated in healthy male (n=7) and healthy female (n=7) subjects≥65 years of age.
 The total and unbound AUC increased 37% and 67%, respectively, in elderly adults relative to young adults.
 These changes were attributed to age-related changes in creatinine clearance.
 No dosage adjustment is necessary for elderly patients with normal (for their age) renal function.
@@ -122,7 +122,7 @@ Plasma concentrations of ertapenem are comparable in pediatric patients 13 to 17
 
 Following the 20 mg/kg dose (up to a maximum dose of 1 g), the pharmacokinetic parameter values in patients 13 to 17 years of age (N=6) were generally comparable to those in healthy young adults.
 
-Plasma concentrations at the midpoint of the dosing interval following a single 15 mg/kg IV dose of ertapenem in patients 3 months to 12 years of age are comparable to plasma concentrations at the midpoint of the dosing interval following a 1 g once daily IV dose in adults (see Pharmacokinetics).
+Plasma concentrations at the midpoint of the dosing interval following a single 15 mg/kg IV dose of ertapenem in patients 3 months to 12 years of age are comparable to plasma concentrations at the midpoint of the dosing interval following a 1 g once daily IV dose in adults (see Pharmacokinetics.)
 The plasma clearance (mL/min/kg) of ertapenem in patients 3 months to 12 years of age is approximately 2-fold higher as compared to that in adults.
 At the 15 mg/kg dose, the AUC value (doubled to model a twice daily dosing regimen, i.e., 30 mg/kg/day exposure) in patients 3 months to 12 years of age was comparable to the AUC value in young healthy adults receiving a 1 g IV dose of ertapenem.
 
@@ -165,7 +165,7 @@ Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloa
 
 ### Anaerobic microorganisms:
 
-Bacteroides vulgatus Clostridium perfringens Fusobacteriumspp.
+Bacteroides vulgatus Clostridium perfringens Fusobacterium spp.
 
 ### Susceptibility Test Methods:
 
@@ -194,23 +194,23 @@ The MIC values obtained should be interpreted according to criteria provided in 
 
 Table 4 Susceptibility Interpretive Criteria for Ertapenem
 
-|  | S | I | R | S | I | R |
+| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than“Susceptible”. Isolates yielding MIC results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding MIC results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing. MIC (µg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
+|  | S | I | R | S | I | R |
 | Enterobacteriaceae and Staphylococcus spp. | ≤2.0 | 4.0 | ≥8.0 | ≥19 | 16-18 | ≤15 |
 | Haemophilus spp. | ≤0.5 | - | - | ≥19 | - | - |
-| Streptococcus pneumoniaeStreptococcus pneumoniae that are susceptible to penicillin (penicillin MIC ≤0.06 µg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.Streptococcus pneumoniae that are susceptible to penicillin (1-µg oxacillin disk zone diameter ≥20 mm), can be considered susceptible to ertapenem. Isolates with 1-µg oxacillin zone diameter ≤19 mm should be tested against ertapenem using an MIC method. | ≤1.0 | - | - | ≥19 | - | - |
-| Streptococcus spp. other than Streptococcus pneumoniaeStreptococcus spp. other than Streptococcus pneumoniae that are susceptible to penicillin (MIC ≤0.12 µg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.Streptococcus spp. other than Streptococcus pneumoniae that are susceptible to penicillin (10-units penicillin disk zone diameter ≥24 mm), can be considered susceptible to ertapenem. Isolates with 10-units penicillin disk zone diameter <24 mm should be tested against ertapenem using an MIC method. Penicillin disk diffusion interpretive criteria are not available for viridans group streptococci and they should not be tested against ertapenem. | ≤1.0 | - | - | ≥19 | - | - |
+| Streptococcus pneumoniaeStreptococcus pneumoniae that are susceptible to penicillin (penicillin MIC ≤0.06 μg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.,Streptococcus pneumoniae that are susceptible to penicillin (1-μg oxacillin disk zone diameter ≥20 mm), can be considered susceptible to ertapenem. Isolates with 1-μg oxacillin zone diameter ≤19 mm should be tested against ertapenem using an MIC method. | ≤1.0 | - | - | ≥19 | - | - |
+| Streptococcus spp. other than Streptococcus pneumoniaeStreptococcus spp. other than Streptococcus pneumoniae that are susceptible to penicillin (MIC ≤0.12 μg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.,Streptococcus spp. other than Streptococcus pneumoniae that are susceptible to penicillin (10-units penicillin disk zone diameter ≥24 mm), can be considered susceptible to ertapenem. Isolates with 10-units penicillin disk zone diameter <24 mm should be tested against ertapenem using an MIC method. Penicillin disk diffusion interpretive criteria are not available for viridans group streptococci and they should not be tested against ertapenem. | ≤1.0 | - | - | ≥19 | - | - |
 | Anaerobes | ≤4.0 | 8.0 | ≥16.0 | - | - | - |
 
-Note: Staphylococcus spp. can be considered susceptible to ertapenem if the penicillin MIC is ≤0.12µg/mL.
+Note: Staphylococcus spp. can be considered susceptible to ertapenem if the penicillin MIC is ≤0.12 µg/mL.
 If the penicillin MIC is >0.12 µg/mL, then test oxacillin.
 Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin MIC is ≤2.0 µg/mL and resistant to ertapenem if the oxacillin MIC is ≥4.0 µg/mL.
 Coagulase negative staphylococci can be considered susceptible to ertapenem if the oxacillin MIC is ≤0.25 µg/mL and resistant to ertapenem if the oxacillin MIC ≥0.5 µg/mL.
 
 Staphylococcus spp. can be considered susceptible to ertapenem if the penicillin (10 U disk) zone is ≥29 mm.
 If the penicillin zone is ≤28 mm, then test oxacillin by disk diffusion (1 µg disk).
-Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin (1 µg disk) zone is ≥13 mm and resistant to ertapenem if the oxacillin zone is ≤10 mm.
+Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin (1 µg disk) zone is≥13 mm and resistant to ertapenem if the oxacillin zone is≤10 mm.
 Coagulase negative staphylococci can be considered susceptible to ertapenem if the oxacillin zone is ≥18 mm and resistant to ertapenem if the oxacillin (1 µg disk) zone is ≤17 mm.
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in blood reaches the concentrations usually achievable.
@@ -221,7 +221,8 @@ A report of “Resistant” indicates that the pathogen is not likely to be inhi
 
 #### Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.(1,2,3,4) Quality control microorganisms are specific strains of organisms with intrinsic biological properties.
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures (1,2,3,4).
+Quality control microorganisms are specific strains of organisms with intrinsic biological properties.
 QC strains are very stable strains which will give a standard and repeatable susceptibility pattern.
 The specific strains used for microbiological quality control are not clinically significant.
 Standard ertapenem powder should provide the following range of values noted in Table 5.
@@ -235,6 +236,6 @@ Table 5 Acceptable Quality Control Ranges for Ertapenem
 | Staphylococcus aureus ATCC 29213 | 0.06-0.25 | - |
 | Staphylococcus aureus ATCC 25923 | - | 24-31 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03-0.25 | 28-35 |
-| Bacteroides fragilis ATCC 25285 | 0.06-0.5Quality control ranges for broth microdilution testing0.06–0.25Quality control ranges for agar microdilution testing | - |
-| Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.00.25–1.0 | - |
-| Eubacterium lentum ATCC 43055 | 0.5-4.00.5–2.0 | - |
+| Bacteroides fragilis ATCC 25285 | 0.06-0.5 Quality control ranges for broth microdilution testing0.06-0.25Quality control ranges for agar microdilution testing | - |
+| Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.0 0.25-1.0 | - |
+| Eubacterium lentum ATCC 43055 | 0.5-4.0 0.5-2.0 | - |

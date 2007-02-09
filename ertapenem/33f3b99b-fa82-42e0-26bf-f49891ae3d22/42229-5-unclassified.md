@@ -1,10 +1,3 @@
-# STORAGE AND STABILITY
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of INVANZ and other antibacterial drugs, INVANZ should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-## Before reconstitution
-
-Do not store lyophilized powder above 25°C (77°F).
-
-## Reconstituted and infusion solutions
-
-The reconstituted solution, immediately diluted in 0.9% Sodium Chloride Injection (seeDOSAGE AND ADMINISTRATION, PREPARATION OF SOLUTION), may be stored at room temperature (25°C) and used within 6 hours or stored for 24 hours under refrigeration (5°C) and used within 4 hours after removal from refrigeration.
-Solutions of INVANZ should not be frozen.
+For Intravenous or Intramuscular Use

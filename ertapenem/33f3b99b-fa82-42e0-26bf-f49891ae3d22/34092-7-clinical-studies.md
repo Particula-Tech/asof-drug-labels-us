@@ -48,6 +48,26 @@ Ertapenem was evaluated in adults for the treatment of acute pelvic infections i
 This study compared ertapenem (1 g intravenously once a day) with piperacillin/tazobactam (3.375 g intravenously every 6 hours) for 3 to 10 days and enrolled 412 patients including 350 patients with obstetric/postpartum infections and 45 patients with septic abortion.
 The clinical success rates in the clinically evaluable population at 2 to 4 weeks posttherapy (test of cure) were 93.9% (153/163) for ertapenem and 91.5% (140/153) for piperacillin/tazobactam.
 
+Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
+
+Ertapenem was evaluated in adults for prophylaxis of surgical site infection following elective colorectal surgery in a multicenter, randomized, double-blind clinical trial.
+This study compared a single intravenous dose of ertapenem (1 g) versus cefotetan (2 g) administered over 30 minutes, 1 hour before elective colorectal surgery.
+Test-of-prophylaxis was defined as no evidence of surgical site infection, post-operative anastomotic leak, or unexplained antibiotic use in the clinically evaluable population up to and including at the 4-week posttreatment follow-up visit.
+The study included 500 patients randomized to ertapenem and 502 patients randomized to cefotetan.
+The modified intent-to-treat (MITT) population consisted of 451 ertapenem patients and 450 cefotetan patients and included all patients who were randomized, treated, and underwent elective colorectal surgery with adequate bowel preparation.
+The clinically evaluable population was a subset of the MITT population and consisted of patients who received a complete dose of study therapy no more than two hours prior to surgical incision and no more than six hours before surgical closure.
+Clinically evaluable patients had sufficient information to determine outcome at the 4-week follow-up assessment and had no confounding factors that interfered with the assessment of that outcome.
+Examples of confounding factors included prior or concomitant antibiotic violations, the need for a second surgical procedure during the study period, and identification of a distant site infection with concomitant antibiotic administration and no evidence of subsequent wound infection.
+Three-hundred forty-six (346) patients randomized to ertapenem and 339 patients randomized to cefotetan were clinically evaluable.
+The prophylactic success rates at 4 weeks posttreatment in the clinically evaluable population were 70.5% (244/346) for ertapenem and 57.2% (194/339) for cefotetan (difference 13.3%, [95% C.I.: 6.1, 20.4], p<0.001).
+Prophylaxis failure due to surgical site infections occurred in 18.2% (63/346) ertapenem patients and 31.0% (105/339) cefotetan patients.
+Post-operative anastomotic leak occurred in 2.9% (10/346) ertapenem patients and 4.1% (14/339) cefotetan patients.
+Unexplained antibiotic use occurred in 8.4% (29/346) ertapenem patients and 7.7% (26/339) cefotetan patients.
+Though patient numbers were small in some subgroups, in general, clinical response rates by age, gender, and race were consistent with the results found in the clinically evaluable population.
+In the MITT analysis, the prophylactic success rates at 4 weeks posttreatment were 58.3% (263/451) for ertapenem and 48.9% (220/450) for cefotetan (difference 9.4%, [95% C.I.: 2.9, 15.9], p=0.002).
+A statistically significant difference favoring ertapenem over cefotetan with respect to the primary endpoint has been observed at a significance level of 5% in this study.
+A second adequate and well-controlled study to confirm these findings has not been conducted; therefore, the clinical superiority of ertapenem over cefotetan has not been demonstrated.
+
 ## Pediatric Patients
 
 Ertapenem was evaluated in pediatric patients 3 months to 17 years of age in two randomized, multicenter clinical trials.
@@ -56,6 +76,6 @@ Both regimens allowed the option to switch to oral amoxicillin/clavulanate for a
 The microbiological success rates in the evaluable per protocol (EPP) analysis in patients treated for UTI were 87.0% (40/46) for ertapenem and 90.0% (18/20) for ceftriaxone.
 The clinical success rates in the EPP analysis in patients treated for SSTI were 95.5% (64/67) for ertapenem and 100% (26/26) for ceftriaxone, and in patients treated for CAP were 96.1% (74/77) for ertapenem and 96.4% (27/28) for ceftriaxone.
 
-The second study enrolled 112 patients and compared ertapenem (15 mg/kg IV every 12 hours in patients 3 months to 12 years of age, and 1 g IV once a day in patients 13 to 17 years of age) to ticarcillin/clavulanate (50 mg/kg for patients <60 kg or 3.0 g for patients >60 kg, 4 or 6 times a day) up to 14 days for the treatment of complicated intra-abdominal infections (IAI) and acute pelvic infections (API).
+The second study enrolled 112 patients and compared ertapenem (15 mg/kg IV every 12 hours in patients 3 months to 12 years of age, and 1 g IV once a day in patients 13 to 17 years of age) to ticarcillin/clavulanate (50 mg/kg for patients<60 kg or 3.0 g for patients >60 kg, 4 or 6 times a day) up to 14 days for the treatment of complicated intra-abdominal infections (IAI) and acute pelvic infections (API).
 In patients treated for IAI (primarily patients with perforated or complicated appendicitis) the clinical success rates were 83.7% (36/43) for ertapenem and 63.6% (7/11) for ticarcillin/clavulanate in the EPP analysis.
 In patients treated for API (post-operative or spontaneous obstetrical endomyometritis, or septic abortion) the clinical success rates were 100% (23/23) for ertapenem and 100% (4/4) for ticarcillin/clavulanate in the EPP analysis.

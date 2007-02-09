@@ -1,5 +1,7 @@
 # INDICATIONS AND USAGE
 
+## Treatment
+
 INVANZ is indicated for the treatment of patients with the following moderate to severe infections caused by susceptible isolates of the designated microorganisms.
 (See DOSAGE AND ADMINISTRATION):
 
@@ -13,6 +15,10 @@ Community Acquired Pneumonia due to Streptococcus pneumoniae (penicillin suscept
 Complicated Urinary Tract Infections including pyelonephritis due to Escherichia coli, including cases with concurrent bacteremia, or Klebsiella pneumoniae.
 
 Acute Pelvic Infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
+
+## Prevention
+
+INVANZ is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery.
 
 Appropriate specimens for bacteriological examination should be obtained in order to isolate and identify the causative organisms and to determine their susceptibility to ertapenem.
 Therapy with INVANZ (ertapenem) may be initiated empirically before results of these tests are known; once results become available, antimicrobial therapy should be adjusted accordingly.
