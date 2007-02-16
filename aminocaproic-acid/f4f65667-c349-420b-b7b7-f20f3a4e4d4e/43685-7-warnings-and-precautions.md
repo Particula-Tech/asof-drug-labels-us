@@ -1,5 +1,9 @@
 # WARNINGS
 
+Aminocaproic Acid Injection, USP contains benzyl alcohol as a preservative.
+The administration of medications containing benzyl alcohol as a preservative to premature neonates has been associated with a fatal "Gasping Syndrome".
+(See PRECAUTIONS, Pediatric Use).
+
 In patients with upper urinary tract bleeding, aminocaproic acid administration has been known to cause intrarenal obstruction in the form of glomerular capillary thrombosis or clots in the renal pelvis and ureters.
 For this reason, aminocaproic acid should not be used in hematuria of upper urinary tract origin, unless the possible benefits outweigh the risk.
 
@@ -21,10 +25,8 @@ Necrotic changes in the heart and liver were noted at autopsy.
 
 # PRECAUTIONS
 
-General: Aminocaproic Acid Injection, USP contains benzyl alcohol as a preservative and is not recommended for use in newborns.
-
-Aminocaproic acid inhibits both the action of plasminogen activators and to a lesser degree, plasmin activity.
-The drug should NOT be administered without a definite diagnosis and/or laboratory findings indicative of hyperfibrinolysis (hyperplasminemia).*
+General: Aminocaproic acid inhibits both the action of plasminogen activators and to a lesser degree, plasmin activity.
+The drug should NOT be administered without a definite diagnosis and/or laboratory finding indicative of hyperfibrinolysis (hyperplasminemia).*
 
 Rapid intravenous administration of the drug should be avoided since this may induce hypotension, bradycardia, and/or arrhythmia.
 
@@ -39,8 +41,7 @@ Drug relatedness remains unclear.
 
 Thrombophlebitis, a possibility with all intravenous therapy, should be guarded against by strict attention to the proper insertion of the needle and the fixing of its position.
 
-Thrombosis with severe sequelae (acute myocardial infarction, gangrene) has been rarely reported in patients with hemophilia receiving combined treatment with Factor IX concentrate and aminocaproic acid.
-Aminocaproic acid should not be administered concomitantly with prothrombin complex concentrates or with activated prothrombin concentrates unless the increased risk of thrombosis is outweighed by the anticipated clinical benefit.
+Epsilon-aminocaproic acid should not be administered with Factor IX Complex concentrates or Anti-Inhibitor Coagulant concentrates, as the risk of thrombosis may be increased.
 
 Laboratory Tests: The use of aminocaproic acid should be accompanied by tests designed to determine the amount of fibrinolysis present.
 There are presently available: (a) general tests such as those for the determination of the lysis of a clot of blood or plasma; and (b) more specific tests for the study of various phases of fibrinolytic mechanisms.
@@ -48,7 +49,7 @@ These latter tests include both semiquantitative and quantitative techniques for
 
 Drug/Laboratory Test Interactions: Prolongation of the template bleeding time has been reported during continuous intravenous infusion of aminocaproic acid at dosages exceeding 24 g/day.
 Platelet function studies in these patients have not demonstrated any significant platelet dysfunction.
-However, in vitro studies have shown that at high concentrations (7.4 mMol/L or 0.97 mg/mL and greater) EACA inhibits ADP and collagen-induced platelet aggregation, the release of ATP and serotonin, and the binding of fibrinogen to the platelets in a concentration-response manner.
+However, in vitro studies have shown that at high concentrations (7.4 mMol/L or 0.97 mg/mL and greater) aminocaproic acid inhibits ADP and collagen-induced platelet aggregation, the release of ATP and serotonin, and the binding of fibrinogen to the platelets in a concentration-response manner.
 Following a 10 g bolus of aminocaproic acid, transient peak plasma concentrations of 4.6 mMol/L or 0.60 mg/mL have been obtained.
 The concentration of aminocaproic acid necessary to maintain inhibition of fibrinolysis is 0.99 mMol/L or 0.13 mg/mL.
 Administration of a 5 g bolus followed by 1 to 1.25 g/hr should achieve and sustain plasma levels of 0.13 mg/mL.
@@ -58,7 +59,7 @@ However, higher plasma concentrations of aminocaproic acid may occur in patients
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of aminocaproic acid and studies to evaluate its mutagenic potential have not been conducted.
 Dietary administration of an equivalent of the maximum human therapeutic dose of aminocaproic acid to rats of both sexes impaired fertility as evidenced by decreased implantations, litter sizes and number of pups born.
 
-Pregnancy: Teratogenic effects - Pregnancy Category C. Animal teratological studies have not been conducted with aminocaproic acid.
+Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with aminocaproic acid.
 It is also not known whether aminocaproic acid can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Aminocaproic acid should be given to a pregnant woman only if clearly needed.
 
@@ -66,3 +67,8 @@ Nursing Mothers: It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when aminocaproic acid is administered to a nursing woman.
 
 Pediatric Use: Safety and effectiveness in pediatric patients have not been established.
+
+Aminocaproic Acid Injection, USP contains benzyl alcohol as a preservative.
+Benzyl alcohol has been associated with a fatal "gasping syndrome" in neonates.
+The "gasping syndrome", characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine, has been associated with exposure to benzyl alcohol in neonates and low-birth weight neonates.
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse (See WARNINGS).

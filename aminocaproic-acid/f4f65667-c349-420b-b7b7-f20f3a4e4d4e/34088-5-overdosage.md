@@ -6,10 +6,9 @@ One patient with a history of brain tumor and seizures experienced seizures afte
 The single dose of aminocaproic acid causing symptoms of overdosage or considered to be life-threatening is unknown.
 Patients have tolerated doses as high as 100 grams while acute renal failure has been reported following a dose of 12 grams.
 
-The intravenous and oral LD50 of aminocaproic acid were 3.0 and 12.0 g/kg, respectively in the mouse and 3.2 and 16.4 g/kg, respectively in the rat.
+The intravenous and oral LD50 of aminocaproic acid were 3.0 and 12.0 g/kg, respectively in the mouse and 3.2 and 16.4 g/kg, respectively, in the rat.
 An intravenous infusion dose of 2.3 g/kg was lethal in the dog.
 On intravenous administration, tonic-clonic convulsions were observed in dogs and mice.
 
 No treatment for overdosage is known, although evidence exists that aminocaproic acid is removed by hemodialysis and may be removed by peritoneal dialysis.
-
 Pharmacokinetic studies have shown that total body clearance of aminocaproic acid is markedly decreased in patients with severe renal failure.

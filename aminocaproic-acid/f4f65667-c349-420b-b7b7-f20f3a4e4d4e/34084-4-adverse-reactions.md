@@ -5,7 +5,7 @@ The following adverse experiences have been reported:
 
 General: Edema, headache, malaise.
 
-Hypersensitivity Reactions: Allergic and anaphylactiod reactions, anaphylaxis.
+Hypersensitivity Reactions: Allergic and anaphylactoid reactions, anaphylaxis.
 
 Local Reactions: Injection site reactions, pain and necrosis.
 
