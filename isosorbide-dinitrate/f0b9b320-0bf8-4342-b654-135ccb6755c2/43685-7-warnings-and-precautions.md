@@ -1,0 +1,57 @@
+# WARNINGS
+
+Amplification of the vasodilatory effects of ISDN by sildenafil can result in severe hypotension.
+The time course and dose dependence of this interaction have not been studied.
+Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
+
+The benefits of immediate-release oral ISDN in patients with acute myocardial infarction or congestive heart failure have not been established.
+If one elects to use ISDN in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.
+Because the effects of oral ISDN are so difficult to terminate rapidly, this formulation is not recommended in these settings.
+
+# PRECAUTIONS
+
+General: Severe hypotension, particularly with upright posture, may occur with even small doses of ISDN.
+This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive.
+Hypotension induced by ISDN may be accompanied by paradoxical bradycardia and increased angina pectoris.
+
+Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
+
+As tolerance to ISDN develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted.
+
+Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day.
+During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance.
+The importance of these observations to the routine, clinical use of sublingual and immediate-release oral ISDN is not known.
+
+In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs.
+Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
+
+Information for Patients: Patients should be told that the anti-anginal efficacy of ISDN is strongly related to its dosing regimen, so the prescribed schedule of dosing should be followed carefully.
+In particular, daily headaches sometimes accompany treatment with ISDN.
+In patients who get these headaches, the headaches are a marker of the activity of the drug.
+Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with ISDN, since loss of headache may be associated with simultaneous loss of anti-anginal efficacy.
+Aspirin and/or acetaminophen, on the other hand, often successfully relieve ISDN-induced headaches with no deleterious effect on ISDN'S anti-anginal efficacy.
+
+Treatment with ISDN may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
+This effect may be more frequent in patients who have also consumed alcohol.
+
+Drug Interactions: The vasodilating effects of ISDN may be additive with those of other vasodilators.
+Alcohol, in particular, has been found to exhibit additive effects of this variety.
+
+Carcinogenesis.
+Mutagenesis.
+Impairment of Fertility: No long-term studies in animals have been performed to evaluate the carcinogenic potential of ISDN.
+In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed ISDN at 25 or 100 mg/kg/day.
+
+Pregnancy Category C: At oral doses 35 and 150 times the maximum recommended human daily dose.
+ISDN has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits.
+There are no adequate, well-controlled studies in pregnant women.
+ISDN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nursing Mothers: It is not known whether ISDN is excreted in human milk.
+Because many drugs are excreted in human milk, caution should be exercised when ISDN is administered to a nursing woman.
+
+Pediatric Use: Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use: Clinical studies of ISDN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
