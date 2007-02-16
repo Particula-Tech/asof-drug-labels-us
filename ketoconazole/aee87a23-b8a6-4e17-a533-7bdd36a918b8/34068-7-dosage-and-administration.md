@@ -1,0 +1,6 @@
+# DOSAGE AND ADMINISTRATION
+
+Apply the shampoo to the damp skin of the affected area and a wide margin surrounding this area.
+Lather, leave in place for 5 minutes, and then rinse off with water.
+
+One application of the shampoo should be sufficient.
