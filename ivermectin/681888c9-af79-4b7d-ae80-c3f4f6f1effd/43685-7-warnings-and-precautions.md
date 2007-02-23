@@ -1,7 +1,7 @@
 # WARNINGS
 
 Historical data have shown that microfilaricidal drugs, such as diethylcarbamazine citrate (DEC-C), might cause cutaneous and/or systemic reactions of varying severity (the Mazzotti reaction) and ophthalmological reactions in patients with onchocerciasis.
-These reactions are probably due to allergic and inflammatory responses to the death of microfilariae.
+These reactions are probably due to allergic and inflammatory responsesto the death of microfilariae.
 Patients treated with STROMECTOL for onchocerciasis may experience these reactions in addition to clinical adverse reactions possibly, probably, or definitely related to the drug itself.
 (See ADVERSE REACTIONS, Onchocerciasis.)
 
