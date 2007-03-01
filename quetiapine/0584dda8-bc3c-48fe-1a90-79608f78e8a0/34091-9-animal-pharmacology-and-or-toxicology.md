@@ -12,13 +12,3 @@ Quetiapine caused a dose related reduction in plasma cholesterol levels in repea
 The appearance of delta-8-cholestanol in plasma is consistent with inhibition of a late stage in cholesterol biosynthesis in these species.
 There also was a 25% reduction in cholesterol content of the outer cortex of the lens observed in a special study in quetiapine treated female dogs.
 Drug-related cataracts have not been seen in any other species; however, in a 1-year study in monkeys, a striated appearance of the anterior lens surface was detected in 2/7 females at a dose of 225 mg/kg or 5.5 times the maximum recommended human dose on a mg/m2 basis.
-
-SEROQUEL is a trademark of the AstraZeneca group of companies
-
-©AstraZeneca 2004, 2005
-
-AstraZeneca Pharmaceuticals LP
-
-Wilmington, DE 19850
-
-Made in USA

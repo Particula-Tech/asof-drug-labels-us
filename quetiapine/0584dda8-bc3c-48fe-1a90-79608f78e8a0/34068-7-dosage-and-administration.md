@@ -1,6 +1,23 @@
 # DOSAGE AND ADMINISTRATION
 
-## Bipolar Mania
+## Bipolar Disorder
+
+Depression
+
+Usual Dose: SEROQUEL should be administered once daily at bedtime to reach 300 mg/day by day 4.
+
+Recommended Dosing Schedule
+
+| Day | Day 1 | Day 2 | Day 3 | Day 4 |
+| --- | --- | --- | --- | --- |
+| SEROQUEL | 50 mg | 100 mg | 200 mg | 300 mg |
+
+In these clinical trials supporting effectiveness, the dosing schedule was 50 mg, 100 mg, 200 mg and 300 mg/day for days 1-4 respectively.
+Patients receiving 600 mg increased to 400mg on day 5 and 600 mg on day 8 (Week 1).
+Antidepressant efficacy was demonstrated with SEROQUEL at both 300 mg and 600 mg however, no additional benefit was seen in the 600 mg group.
+(see CLINICAL STUDIES, Figure 1)
+
+## Mania
 
 Usual Dose: When used as monotherapy or adjunct therapy (with lithium or divalproex), SEROQUEL should be initiated in BID doses totaling 100 mg/day on Day 1, increased to 400 mg/day on Day 4 in increments of up to 100 mg/day in BID divided doses.
 Further dosage adjustments up to 800 mg/day by Day 6 should be in increments of no greater than 200 mg/day.
@@ -28,10 +45,9 @@ Patients with hepatic impairment should be started on 25 mg/day.
 The dose should be increased daily in increments of 25-50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
 
 The elimination of quetiapine was enhanced in the presence of phenytoin.
-Higher maintenance doses of quetiapine may be required when it is coadministered with phenytoin and other enzyme inducers such as carbamazepine and phenobarbital (See Drug Interactions under PRECAUTIONS).
+Higher maintenance doses of quetiapine may be required when it is coadministered with phenytoin and other enzyme inducers such as carbamazepine and phenobarbital (See Drug Interactionsunder PRECAUTIONS).
 
-Maintenance Treatment: While there is no body of evidence available to answer the question of how long the patient treated with SEROQUEL should remain on it, the effectiveness of maintenance treatment is well established for many other drugs used to treat schizophrenia.
-It is recommended that responding patients be continued on SEROQUEL, but at the lowest dose needed to maintain remission.
+Maintenance Treatment: While there is no body of evidence available to answer the question of how long the patient treated with SEROQUEL should be maintained, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 Reinitiation of Treatment in Patients Previously Discontinued: Although there are no data to specifically address reinitiation of treatment, it is recommended that when restarting patients who have had an interval of less than one week off SEROQUEL, titration of SEROQUEL is not required and the maintenance dose may be reinitiated.

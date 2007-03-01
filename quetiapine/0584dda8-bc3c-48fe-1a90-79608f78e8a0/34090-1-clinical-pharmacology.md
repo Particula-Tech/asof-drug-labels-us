@@ -5,8 +5,8 @@
 SEROQUEL is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148nM respectively), dopamine D1 and D2 (IC50s=1268 & 329nM respectively), histamine H1 (IC50=30nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271nM, respectively).
 SEROQUEL has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s>5000 nM).
 
-The mechanism of action of SEROQUEL, as with other drugs having efficacy in the treatment of schizophrenia and acute manic episodes associated with bipolar disorder, is unknown.
-However, it has been proposed that this drug’s efficacy in schizophrenia is mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonism.
+The mechanism of action of SEROQUEL, as with other drugs having efficacy in the treatment of schizophrenia and bipolar disorder, is unknown.
+However, it has been proposed that the efficacy of SEROQUEL in schizophrenia and its mood stabilizing properties in bipolar depression and mania are mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonism.
 Antagonism at receptors other than dopamine and 5HT2 with similar receptor affinities may explain some of the other effects of SEROQUEL.
 
 SEROQUEL’s antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
@@ -21,40 +21,58 @@ Elimination of quetiapine is mainly via hepatic metabolism with a mean terminal 
 Steady-state concentrations are expected to be achieved within two days of dosing.
 Quetiapine is unlikely to interfere with the metabolism of drugs metabolized by cytochrome P450 enzymes.
 
-Absorption: Quetiapine fumarate is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
+### Absorption:
+
+Quetiapine fumarate is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
 The tablet formulation is 100% bioavailable relative to solution.
 The bioavailability of quetiapine is marginally affected by administration with food, with Cmax and AUC values increased by 25% and 15%, respectively.
 
-Distribution: Quetiapine is widely distributed throughout the body with an apparent volume of distribution of 10±4 L/kg.
+### Distribution:
+
+Quetiapine is widely distributed throughout the body with an apparent volume of distribution of 10±4 L/kg.
 It is 83% bound to plasma proteins at therapeutic concentrations.
 In vitro, quetiapine did not affect the binding of warfarin or diazepam to human serum albumin.
-In turn, neither warfarin nor diazepam altered the binding of quetiapine.
+In turn, neither warfarin nor diazepam altered the binding of quetiapine
 
-Metabolism and Elimination: Following a single oral dose of 14C-quetiapine, less than 1% of the administered dose was excreted as unchanged drug, indicating that quetiapine is highly metabolized.
+### Metabolism and Elimination:
+
+Following a single oral dose of 14C-quetiapine, less than 1% of the administered dose was excreted as unchanged drug, indicating that quetiapine is highly metabolized.
 Approximately 73% and 20% of the dose was recovered in the urine and feces, respectively.
 
 Quetiapine is extensively metabolized by the liver.
 The major metabolic pathways are sulfoxidation to the sulfoxide metabolite and oxidation to the parent acid metabolite; both metabolites are pharmacologically inactive.
 In vitro studies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite.
 
-Population Subgroups:
+### Population Subgroups:
 
 Age: Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary (See DOSAGE AND ADMINISTRATION).
 
-Gender: There is no gender effect on the pharmacokinetics of quetiapine.
+Gender:
 
-Race: There is no race effect on the pharmacokinetics of quetiapine.
+There is no gender effect on the pharmacokinetics of quetiapine.
 
-Smoking: Smoking has no effect on the oral clearance of quetiapine.
+Race:
 
-Renal Insufficiency: Patients with severe renal impairment (Clcr=10-30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
+There is no race effect on the pharmacokinetics of quetiapine.
+
+Smoking:
+
+Smoking has no effect on the oral clearance of quetiapine.
+
+Renal Insufficiency:
+
+Patients with severe renal impairment (Clcr=10-30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
 Dosage adjustment is therefore not needed in these patients.
 
-Hepatic Insufficiency: Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
+Hepatic Insufficiency:
+
+Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3-times higher than those observed typically in healthy subjects.
 Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed (See DOSAGE AND ADMINISTRATION).
 
-Drug-Drug Interactions:In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes P450 1A2, 2C9, 2C19, 2D6 and 3A4.
+Drug-Drug Interactions:
+
+In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes P450 1A2, 2C9, 2C19, 2D6 and 3A4.
 
 Quetiapine oral clearance is increased by the prototype cytochrome P450 3A4 inducer, phenytoin, and decreased by the prototype cytochrome P450 3A4 inhibitor, ketoconazole.
 Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole (See Drug Interactions under PRECAUTIONS and DOSAGE AND ADMINISTRATION).
@@ -65,7 +83,22 @@ Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetic
 
 ## Clinical Efficacy Data
 
-### Bipolar Mania
+### Bipolar Disorder
+
+Depression
+
+The efficacy of SEROQUEL for the treatment of depressive episodes associated with bipolar disorder was established in 2 identical 8-week, randomized, double-blind, placebo-controlled studies (N=1045).
+These studies included patients with either bipolar I or II disorder and those with or without a rapid cycling course.
+Patients randomized to SEROQUEL were administered fixed doses of either 300 mg or 600 mg once daily.
+
+The primary rating instrument used to assess depressive symptoms in these studies was the Montgomery-Asberg Depression Rating Scale (MADRS), a 10 item clinician-rated scale with scores ranging from 0 to 60.
+The primary endpoint in both studies was the change from baseline in MADRS score at week 8.
+In both studies, SEROQUEL was superior to placebo in reduction of MADRS score.
+Improvement in symptoms, as measured by change in MADRS score relative to placebo, was seen in both studies at Day 8 (week 1) and onwards.
+In these studies, no additional benefit was seen with the 600 mg dose.
+For the 300 mg dose group, statistically significant improvements over placebo were seen in reductions in suicidal thinking as measured by MADRS item 10 and overall quality of life and satisfaction related to various areas of functioning, as measured using the Q-LES-Q(SF).
+
+Mania
 
 The efficacy of SEROQUEL in the treatment of acute manic episodes was established in 3 placebo-controlled trials in patients who met DSM-IV criteria for Bipolar I disorder with manic episodes.
 These trials included patients with or without psychotic features and excluded patients with rapid cycling and mixed episodes.

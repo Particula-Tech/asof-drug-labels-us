@@ -1,15 +1,17 @@
 # ADVERSE REACTIONS
 
-The information below is derived from a clinical trial database for SEROQUEL consisting of over 3000 patients.
-This database includes 405 patients exposed to SEROQUEL for the treatment of acute bipolar mania (monotherapy and adjunct therapy) and approximately 2600 patients and/or normal subjects exposed to 1 or more doses of SEROQUEL for the treatment of schizophrenia.
+The information below is derived from a clinical trial database for SEROQUEL consisting of over 3700 patients.
+This database includes 698 patients exposed to SEROQUEL for the treatment of bipolar depression, 405 patients exposed to SEROQUEL for the treatment of acute bipolar mania (monotherapy and adjunct therapy) and approximately 2600 patients and/or normal subjects exposed to 1 or more doses of SEROQUEL for the treatment of schizophrenia.
 
-Of these approximately 3000 subjects, approximately 2700 (2300 in schizophrenia and 405 in acute bipolar mania) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 914.3 patient-years.
+Of these approximately 3700 subjects, approximately 3400 (2300 in schizophrenia, 405 in acute bipolar mania, and 698 in bipolar depression) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 992.6 patient-years.
 The conditions and duration of treatment with SEROQUEL varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 
 Adverse events during exposure were obtained by general inquiry and recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
-In the tables and tabulations that follow, standard COSTART terminology has been used to classify reported adverse events.
+
+In the tables and tabulations that follow, standard COSTART terminology has been used to classify reported adverse events for schizophrenia and bipolar mania.
+MedDRA terminology has been used to classify reported adverse events for bipolar depression.
 
 The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
@@ -18,7 +20,15 @@ An event was considered treatment emergent if it occurred for the first time or 
 
 ### Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
-Bipolar Mania: Overall, discontinuations due to adverse events were 5.7 % for SEROQUEL vs. 5.1% for placebo in monotherapy and 3.6% for SEROQUEL vs. 5.9% for placebo in adjunct therapy.
+Bipolar Disorder:
+
+Depression:
+
+Overall, discontinuations due to adverse events were 12.3% for SEROQUEL 300 mg vs 19.0% for SEROQUEL 600 mg and 5.2% for placebo.
+
+Mania:
+
+Overall, discontinuations due to adverse events were 5.7 % for SEROQUEL vs. 5.1% for placebo in monotherapy and 3.6% for SEROQUEL vs. 5.9% for placebo in adjunct therapy.
 
 Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse events (4% for SEROQUEL vs. 3% for placebo) in a pool of controlled trials.
 However, discontinuations due to somnolence and hypotension were considered to be drug related (see PRECAUTIONS):
@@ -36,7 +46,7 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Table 1 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) in 1% or more of patients treated with SEROQUEL (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Table 1 Treatment-Emergent Adverse Experience Incidence in 3- to 12-Week Placebo-Controlled Clinical TrialsEvents for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: accidental injury, akathisia, chest pain, cough increased, depression, diarrhea, extrapyramidal syndrome, hostility, hypertension, hypertonia, hypotension, increased appetite, infection, insomnia, leukopenia, malaise, nausea, nervousness, paresthesia, peripheral edema, sweating, tremor, and weight loss. for the Treatment of Schizophrenia and Bipolar Mania (monotherapy)
+Table 1Treatment-Emergent Adverse Experience Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (monotherapy)Events for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: accidental injury, akathisia, chest pain, cough increased, depression, diarrhea, extrapyramidal syndrome, hostility, hypertension, hypertonia, hypotension, increased appetite, infection, insomnia, leukopenia, malaise, nausea, nervousness, paresthesia, peripheral edema, sweating, tremor, and weight loss.
 
 | Body System/ Preferred Term | SEROQUEL (n=719) | Placebo (n=404) |
 | --- | --- | --- |
@@ -78,7 +88,7 @@ In these studies, the most commonly observed adverse events associated with the 
 
 Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during therapy (up to 3-weeks) of acute mania in 5% or more of patients treated with SEROQUEL (doses ranging from 100 to 800 mg/day) used as adjunct therapy to lithium and divalproex where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Table 2 Treatment-Emergent Adverse Experience Incidence in 3-Week Placebo-Controlled Clinical TrialsEvents for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: akathisia, diarrhea, insomnia, and nausea. for the Treatment of Bipolar Mania (Adjunct Therapy)
+Table 2 Treatment-Emergent Adverse Experience Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy)Events for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: akathisia, diarrhea, insomnia, and nausea.
 
 | Body System/ Preferred Term | SEROQUEL (n=196) | Placebo (n=203) |
 | --- | --- | --- |
@@ -104,6 +114,32 @@ Table 2 Treatment-Emergent Adverse Experience Incidence in 3-Week Placebo-Contro
 
 In these studies, the most commonly observed adverse events associated with the use of SEROQUEL (incidence of 5% or greater) and observed at a rate on SEROQUEL at least twice that of placebo were somnolence (34%), dry mouth (19%), asthenia (10%), constipation (10%), abdominal pain (7%), postural hypotension (7%), pharyngitis (6%), and weight gain (6%).
 
+Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during therapy (up to 8-weeks) of bipolar depression in 5% or more of patients treated with SEROQUEL (doses of 300 and 600 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo treated patients.
+
+Table 3.
+Treatment-Emergent Adverse Experience Incidence in 8-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Depression Events for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: nausea, upper respiratory tract infection, and headache.
+
+| Body System/ Preferred Term | SEROQUEL(n=698) | PLACEBO(n=347) |
+| --- | --- | --- |
+| Gastrointestinal Disorders |  |  |
+| Dry Mouth | 44% | 13% |
+| Constipation | 10% | 4% |
+| Dyspepsia | 7% | 4% |
+| Vomiting | 5% | 4% |
+| General Disorders and Administrative Site Conditions |  |  |
+| Fatigue | 10% | 8% |
+| Metabolism and Nutrition Disorders |  |  |
+| Increased Appetite | 5% | 3% |
+| Nervous System Disorders |  |  |
+| Sedation | 30% | 8% |
+| Somnolence | 28% | 7% |
+| Dizziness | 18% | 7% |
+| Lethargy | 5% | 2% |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| Nasal Congestion | 5% | 3% |
+
+In these studies, the most commonly observed adverse events associated with the use of SEROQUEL (incidence of 5% or greater) and observed at a rate on SEROQUEL at least twice that of placebo were dry mouth (44%), sedation (30%), somnolence (28%), dizziness (18%), constipation (10%), lethargy (5%), and nasal congestion (5%).
+
 Explorations for interactions on the basis of gender, age, and race did not reveal any clinically meaningful differences in the adverse event occurrence on the basis of these demographic factors.
 
 ## Dose Dependency of Adverse Events in Short-Term, Placebo-Controlled Trials
@@ -118,12 +154,18 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 | Dose Groups | Placebo | 75 mg | 150 mg | 300 mg | 600 mg | 750 mg |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | SEROQUEL |  |  |
+| SEROQUEL |  |  |  |  |  |  |
 | Parkinsonism | -0.6 | -1.0 | -1.2 | -1.6 | -1.8 | -1.8 |
 | EPS incidence | 16% | 6% | 6% | 4% | 8% | 6% |
 | Anticholinergic medications | 14% | 11% | 10% | 8% | 12% | 11% |
 
 In six additional placebo-controlled clinical trials (3 in acute mania and 3 in schizophrenia) using variable doses of SEROQUEL, there were no differences between the SEROQUEL and placebo treatment groups in the incidence of EPS, as assessed by Simpson-Angus total scores, spontaneous complaints of EPS and the use of concomitant anticholinergic medications to treat EPS.
+
+In two placebo-controlled clinical trials for the treatment of bipolar depression using 300 mg and 600 mg of SEROQUEL, the incidence of adverse events potentially related to EPS was 12% in both dose groups and 6% in the placebo group.
+In these studies, the incidence of the individual adverse events (eg, akathisia, extrapyramidal disorder, tremor, dyskinesia, dystonia, restlessness, muscle contractions involuntary, psychomotor hyperactivity and muscle rigidity) were generally low and did not exceed 4% in any treatment group.
+
+The 3 treatment groups were similar in mean change in SAS total score and BARS Global Assessment score at the end of treatment.
+The use of concomitant anticholinergic medications was infrequent and similar across the three treatment groups.
 
 ## Vital Signs and Laboratory Studies
 
@@ -131,15 +173,17 @@ Vital Sign Changes: SEROQUEL is associated with orthostatic hypotension (see PRE
 
 Weight Gain: In schizophrenia trials the proportions of patients meeting a weight gain criterion of ≥7% of body weight were compared in a pool of four 3- to 6-week placebo-controlled clinical trials, revealing a statistically significantly greater incidence of weight gain for SEROQUEL (23%) compared to placebo (6%).
 In mania monotherapy trials the proportions of patients meeting the same weight gain criterion were 21% compared to 7% for placebo and in mania adjunct therapy trials the proportion of patients meeting the same weight criterion were 13% compared to 4% for placebo.
+In bipolar depression trials, the proportions of patients meeting the same weight gain criterion were 8% compared to 2% for placebo.
 
 Laboratory Changes: An assessment of the premarketing experience for SEROQUEL suggested that it is associated with asymptomatic increases in SGPT and increases in both total cholesterol and triglycerides (see PRECAUTIONS).
 
-An assessment of hematological parameters in short-term, placebo-controlled trials revealed no clinically important differences between SEROQUEL and placebo.
+An assessment of hematological parameters in short-term, placebo-controlled trials revealed no clinically important differences between SEROQUEL and placebo..
 
 ECG Changes: Between group comparisons for pooled placebo-controlled trials revealed no statistically significant SEROQUEL/placebo differences in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc, and PR intervals.
 However, the proportions of patients meeting the criteria for tachycardia were compared in four 3- to 6-week placebo-controlled clinical trials for the treatment of schizophrenia revealing a 1% (4/399) incidence for SEROQUEL compared to 0.6% (1/156) incidence for placebo.
 In acute (monotherapy) bipolar mania trials the proportions of patients meeting the criteria for tachycardia was 0.5% (1/192) for SEROQUEL compared to 0% (0/178) incidence for placebo.
 In acute bipolar mania (adjunct) trials the proportions of patients meeting the same criteria was 0.6% (1/166) for SEROQUEL compared to 0% (0/171) incidence for placebo.
+In bipolar depression trials, no patients had heart rate increases to > 120 beats per minute.
 SEROQUEL use was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients.
 This slight tendency to tachycardia may be related to SEROQUEL's potential for inducing orthostatic changes (see PRECAUTIONS).
 

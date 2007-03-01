@@ -13,4 +13,4 @@ SEROQUEL is supplied for oral administration as 25 mg (round, peach), 50 mg (rou
 
 Inactive ingredients are povidone, dibasic dicalcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol and titanium dioxide.
 
-The 25 mg tablets contain red ferric oxide and yellow ferric oxide and the 100 mg tablets contain only yellow ferric oxide.
+The 25 mg tablets contain red ferric oxide and yellow ferric oxide and the 100 mg and 400 mg tablets contain only yellow ferric oxide.
