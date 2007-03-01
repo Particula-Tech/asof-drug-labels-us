@@ -47,6 +47,6 @@ Ultrasonic nebulizers are not suitable for the adequate administration of PULMIC
 The effects of mixing PULMICORT RESPULES with other nebulizable medications have not been adequately assessed.
 PULMICORT RESPULES should be administered separately in the nebulizer (see PRECAUTIONS, Information for Patients).
 
-## Directions for Use:
+## Directions for Use
 
 Illustrated Patient’s Instructions for Use accompany each package of PULMICORT RESPULES.

@@ -10,7 +10,7 @@ PULMICORT RESPULES is available in two strengths, each containing 2 mL:
 | --- | --- |
 | NDC 0186-1989-04 | 0.5 mg/2 mL |
 
-## Storage:
+## Storage
 
 PULMICORT RESPULES should be stored upright at controlled room temperature 20-25°C (68-77°F) [see USP], and protected from light.
 When an envelope has been opened, the shelf life of the unused RESPULES ampules is 2 weeks when protected.
@@ -20,13 +20,13 @@ Gently shake the RESPULES ampule using a circular motion before use.
 Keep out of reach of children.
 Do not freeze.
 
-All trademarks are the property of the AstraZeneca group
+All trademarks are the property of the AstraZeneca group of companies.
 
-©AstraZeneca 2001, 2003, 2005
+©AstraZeneca 2001, 2003, 2005, 2007
 
 AstraZeneca LP, Wilmington, DE 19850
 
-30552-01
+30552-02
 
 Rev.
-01/06
+01/07

@@ -6,7 +6,12 @@ Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocort
 In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay).
 As a measure of systemic activity, budesonide is 40 times more potent than cortisol when administered subcutaneously and 25 times more potent when administered orally in the rat thymus involution assay.
 
+The activity of PULMICORT RESPULES is due to the parent drug, budesonide.
+In glucocorticoid receptor affinity studies, the 22R form was two times as active as the 22S epimer.
+In vitro studies indicated that the two forms of budesonide do not interconvert.
+
 The precise mechanism of corticosteroid actions on inflammation in asthma is not well known.
+Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to have a wide range of inhibitory activities against multiple cell types (eg, mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (eg, histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic- and non-allergic-mediated inflammation.
 The anti-inflammatory actions of corticosteroids may contribute to their efficacy in asthma.
 
@@ -15,21 +20,12 @@ This is explained by a combination of a relatively high local anti-inflammatory 
 
 ## Pharmacokinetics
 
-The activity of PULMICORT RESPULES is due to the parent drug, budesonide.
-In glucocorticoid receptor affinity studies, the 22R form was two times as active as the 22S epimer.
-In vitro studies indicated that the two forms of budesonide do not interconvert.
-
-Budesonide is primarily cleared by the liver.
-In asthmatic children 4-6 years of age, the terminal half-life of budesonide after nebulization is 2.3 hours, and the systemic clearance is 0.5 L/min, which is approximately 50% greater than in healthy adults after adjustment for differences in weight.
-
-After a single dose of 1 mg budesonide, a peak plasma concentration of 2.6 nmol/L was obtained approximately 20 minutes after nebulization in asthmatic children 4-6 years of age.
-The exposure (AUC) of budesonide following administration of a single 1 mg dose of budesonide by nebulization to asthmatic children 4-6 years of age is comparable to healthy adults given a single 2 mg dose by nebulization.
-
 ### Absorption:
 
 In asthmatic children 4-6 years of age, the total absolute bioavailability (ie, lung + oral) following administration of PULMICORT RESPULES via jet nebulizer was approximately 6% of the labeled dose.
 
-The peak plasma concentration of budesonide occurred 10-30 minutes after start of nebulization.
+In children, a peak plasma concentration of 2.6 nmol/L was obtained approximately 20 minutes after nebulization of a 1 mg dose.
+Systemic exposure, as measured by AUC and Cmax, is similar for young children and adults after inhalation of the same dose of PULMICORT RESPULES.
 
 ### Distribution:
 
@@ -46,11 +42,14 @@ The corticosteroid activity of each of these two metabolites is less than 1% of 
 No qualitative difference between the in vitro and in vivo metabolic patterns has been detected.
 Negligible metabolic inactivation was observed in human lung and serum preparations.
 
-### Excretion:
+### Excretion/Elimination:
 
+Budesonide is primarily cleared by the liver.
 Budesonide is excreted in urine and feces in the form of metabolites.
 In adults, approximately 60% of an intravenous radiolabeled dose was recovered in the urine.
 No unchanged budesonide was detected in the urine.
+
+In asthmatic children 4-6 years of age, the terminal half-life of budesonide after nebulization is 2.3 hours, and the systemic clearance is 0.5 L/min, which is approximately 50% greater than in healthy adults after adjustment for differences in weight.
 
 ### Special Populations:
 
