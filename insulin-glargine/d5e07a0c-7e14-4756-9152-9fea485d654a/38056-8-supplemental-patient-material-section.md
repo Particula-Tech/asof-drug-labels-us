@@ -86,7 +86,7 @@ See the "Instructions for Use" including the "How do I draw the insulin into the
   If your LANTUS is cloudy or slightly colored, return it to your pharmacy for a replacement.
 - Follow your healthcare provider's instructions for testing your blood sugar.
 - Inject LANTUS under your skin (subcutaneously) in your upper arm, abdomen (stomach area), or thigh (upper leg).
-  Never inject it into a vein or muscle.
+  Never inject itinto a vein or muscle.
 - Change (rotate) injection sites within the same body area.
 
 What kind of syringe should I use?
@@ -164,7 +164,7 @@ What can affect how much insulin I need?
 
 Illness.
 Illness may change how much insulin you need.
-It is a good idea to think ahead and make a "sick day" plan with your healthcare provider in advance so you will be ready when this happens.
+It is a good ideato think ahead and make a "sick day" plan with your healthcare provider in advance so you will be ready when this happens.
 Be sure to test your blood sugar more often and call your healthcare provider if you are sick.
 
 Medicines.
@@ -437,7 +437,7 @@ What is LANTUS?
 - The active ingredient in LANTUS is insulin glargine.
   The concentration of insulin glargine is 100 units per milliliter (mL), or U-100.
   LANTUS also contains zinc, metacresol, glycerol, and water for injection as inactive ingredients.
-  Hydrochloric acid and/or sodium hydroxide may be added to adjust the pH.
+  Hydrochloric acid and/or sodium hydroxidemay be added to adjust the pH.
 - You need a prescription to get LANTUS.
   Always be sure you receive the right insulin from the pharmacy.
 
@@ -552,7 +552,7 @@ Take extra insulin and supplies with you.
 Pregnancy or nursing.
 The effects of LANTUS on an unborn child or on a nursing baby are unknown.
 Therefore, tell your healthcare provider if you are planning to have a baby, are pregnant, or nursing a baby.
-Good control of diabetes is especially important during pregnancy and nursing.
+Good control of diabetes is especially importantduring pregnancy and nursing.
 
 What are the possible side effects of LANTUS and other insulins?
 
@@ -707,7 +707,7 @@ How should I store LANTUS?
   Do not freeze LANTUS.
   Keep LANTUS out of direct heat and light.
   If a cartridge system has been frozen or overheated, throw it away.
-- Open (In-Use) cartridge system:Once a cartridge system is opened, you can keep it at room temperature (below 86°F [30°C]) but away from direct heat and light for 28 days.
+- Open (In-Use) cartridge system: Once a cartridge system is opened, you can keep it at room temperature (below 86°F [30°C]) but away from direct heat and light for 28 days.
   Cartridge system in OptiClik® insulin Pen must be discarded 28 days after the first use even if it still contains LANTUS.
   The opened cartridge system in OptiClik® insulin Pen should be kept at room temperature (below 86°F [30°C]) and away from direct heat and light for up to 28 days.
   For example, do not leave it in a car on a summer day.
@@ -765,9 +765,13 @@ OptiClik® allows you to dial the dose in one-unit step increments between one u
 OptiClik® is available in different colors.
 For patients that use two different types of insulin, Lantus or Apidra, it is recommended to use a different color pen for each insulin.
 
-This instruction leaflet explains how to use OptiClik®.
-It is important for you to read and follow all the instructions in this leaflet carefully.
+Read these instructions carefully before using your OptiClik®.
+Read both sides of the leaflet.
+If you are not able to follow all the instructions completely on your own, use OptiClik® only if you have help from a person who is able to follow the instructions.
+Hold the pen as shown in this leaflet.
+The word “OptiClik” must be readable to the left of the digital dose display to ensure the correct reading of the dose.
 If you do not follow these instructions completely, you may get too much or too little insulin.
+
 Keep this leaflet for future reference for each time you use OptiClik®.
 
 You will find further useful information on the back side of this leaflet in the chapters:
@@ -780,9 +784,6 @@ You will find further useful information on the back side of this leaflet in the
   Storage Instructions
 - (D.)
   Other Information
-
-Please read this Instruction Leaflet carefully and completely before using OptiClik® for the first time.
-Keep this leaflet for future reference for each time you use OptiClik®.
 
 Talk with your healthcare provider before using OptiClik® about proper injection technique.
 Before using OptiClik®, your healthcare provider should provide training for the use of the pen, or direct you to the appropriate person to get training.
@@ -798,6 +799,9 @@ Additional items needed for use with OptiClik®
 If you have any questions about OptiClik® or about diabetes, ask your healthcare professional, go to www.opticlik.com or call Sanofi Aventis at 1-800-633-1610.
 
 General Warnings and Precautions
+
+This pen is only for your use.
+Do not share it with anyone else.
 
 Insulin
 
@@ -981,8 +985,9 @@ If necessary, keep repeating the Safety Test until insulin appears at the tip of
 
 Setting the dose and Display feature
 
-To set the dose, hold OptiClik® as shown in Step 4 for setting the dose.
-The printed "OptiClik®" must be legible left of the Digital Dose Display.
+TTo read the dose correctly, hold OptiClik® as shown in Step 4B, Setting the dose.
+The printed “OptiClik” must be readable left of the dose display.
+Do not hold the pen upside down when reading the dose display; otherwise you may misread the dose on the Digital Dose Display.
 The Digital Dose Display shows the delivered dose for 2 minutes after every injection and then turns off to conserve battery power.
 With the Dosage Knob released the display also switches off after 2 minutes.
 
@@ -1192,12 +1197,10 @@ GENERAL NOTES, How long will OptiClik® last" for details.
 
 Manufactured for and distributed by:
 
-Aventis Pharmaceuticals Inc., Kansas City, MO 64137 USA, a member of the sanofi-aventis Group, Bridgewater NJ 08807
+sanofi-aventis U.S. LLC Bridgewater NJ 08807
 
-Made in Switzerland
-
-OptiClik®, Lantus® and Apidra® are registered trademarks of Aventis Pharmaceuticals Inc., a member of the sanofi-aventis Group
+OptiClik®, Lantus® and Apidra® are registered trademarks of sanofi-aventis U.S. LLC.
 
 For more information call toll free 1-800-633-1610 or visit www.opticlik.com
 
-Date of revision: November 2005
+Date of revision: December 2006

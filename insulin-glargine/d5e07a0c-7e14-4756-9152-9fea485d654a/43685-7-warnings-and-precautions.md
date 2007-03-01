@@ -85,7 +85,7 @@ A number of substances affect glucose metabolism and may require insulin dose ad
 
 The following are examples of substances that may increase the blood-glucose-lowering effect and susceptibility to hypoglycemia: oral antidiabetes products, ACE inhibitors, disopyramide, fibrates, fluoxetine, MAO inhibitors, propoxyphene, salicylates, somatostatin analog (e.g., octreotide), sulfonamide antibiotics.
 
-The following are examples of substances that may reduce the blood-glucose-lowering effect of insulin: corticosteroids, danazol, diuretics, sympathomimetic agents (e.g., epinephrine, albuterol, terbutaline), isoniazid, phenothiazine derivatives, somatropin, thyroid hormones, estrogens, progestogens (e.g., in oral contraceptives).
+The following are examples of substances that may reduce the blood-glucose-lowering effect of insulin: corticosteroids, danazol, diuretics, sympathomimetic agents (e.g., epinephrine, albuterol, terbutaline), isoniazid, phenothiazine derivatives, somatropin, thyroid hormones, estrogens, progestogens (e.g., in oral contraceptives), protease inhibitors and atypical antipsychotic medications (e.g. olanzapine and clozapine).
 
 Beta-blockers, clonidine, lithium salts, and alcohol may either potentiate or weaken the blood-glucose-lowering effect of insulin.
 Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
