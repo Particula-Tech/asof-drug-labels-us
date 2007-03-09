@@ -7,13 +7,6 @@ The physician responsible for maintenance therapy should have complete informati
 Sandimmune® (cyclosporine) should be administered with adrenal corticosteroids but not with other immunosuppressive agents.
 Increased susceptibility to infection and the possible development of lymphoma may result from immunosuppression.
 
-Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should prescribe Sandimmune® (cyclosporine).
-Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
-The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient.
-
-Sandimmune® (cyclosporine) should be administered with adrenal corticosteroids but not with other immunosuppressive agents.
-Increased susceptibility to infection and the possible development of lymphoma may result from immunosuppression.
-
 Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP) and Sandimmune® Oral Solution (cyclosporine oral solution, USP) have decreased bioavailability in comparison to Neoral® Soft Gelatin Capsules (cyclosporine capsules, USP) MODIFIED and Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED.
 
 Sandimmune® and Neoral® are not bioequivalent and cannot be used interchangeably without physician supervision.

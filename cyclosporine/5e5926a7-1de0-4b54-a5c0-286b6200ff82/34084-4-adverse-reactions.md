@@ -60,7 +60,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Renal Toxicity | 5.7 | 0 | 5.4 |
 | Infection | 0 | 0.4 | 0.9 |
 | Lack of Efficacy | 2.6 | 0.9 | 1.4 |
-| Acute Tubular Necrosis | 2.6 | 0 | 1 |
+| Acute Tubular Necrosis | 2.6 | 0 | 1.0 |
 | Lymphoma/Lymphoproliferative Disease | 0.4 | 0 | 0.3 |
 | Hypertension | 0 | 0 | 0.3 |
 | Hematological Abnormalities | 0 | 0.4 | 0 |
@@ -79,7 +79,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Cytomegalovirus | 4.8 | 12.3 |
 | Other Viral Infections | 15.9 | 18.4 |
 | Urinary Tract Infections | 21.1 | 20.2 |
-| Wound and Skin Infections | 7 | 10.1 |
+| Wound and Skin Infections | 7.0 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
 
 *Some patients also received ALG.

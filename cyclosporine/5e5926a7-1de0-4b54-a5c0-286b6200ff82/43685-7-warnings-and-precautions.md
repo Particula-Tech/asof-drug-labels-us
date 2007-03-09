@@ -24,46 +24,30 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 |  | Prolonged anastomosis time |  |
 |  | Concomitant nephrotoxic drugs |  |
 | Clinical | Often > 6 weeks postopb | Often < 4 weeks postopb |
-|  | Prolonged initial nonfunction | Fever > 37.5°C |
-|  | (acute tubular necrosis) | Weight gain > 0.5 kg |
+|  | Prolonged initial nonfunction (acute tubular necrosis) | Fever > 37.5°C |
+|  |  | Weight gain > 0.5 kg |
 |  |  | Graft swelling and tenderness |
-|  |  | Decrease in daily urine volume > 500 mL |
-|  |  | (or 50%) |
+|  |  | Decrease in daily urine volume > 500 mL (or 50%) |
 | Laboratory | CyA serum trough level > 200 ng/mL | CyA serum trough level < 150 ng/mL |
 |  | Gradual rise in Cr (< 0.15 mg/dl/day)a | Rapid rise in Cr (> 0.3 mg/dl/day)a |
 |  | Cr plateau < 25% above baseline | Cr > 25% above baseline |
 |  | BUN/Cr ≥ 20 | BUN/Cr < 20 |
-| Biopsy | Arteriolopathy (medial hypertrophya, | Endovasculitisc (proliferationa, |
-|  | hyalinosis, nodular deposits, intimal | intimal arteritisb, necrosis, sclerosis) |
-|  | thickening, endothelial vacuolization, |  |
-|  | progressive scarring) |  |
-|  | Tubular atrophy, isometric vacuolization, | Tubulitis with RBCb and WBCb casts, |
-|  | isolated calcifications | some irregular vacuolization |
+| Biopsy | Arteriolopathy (medial hypertrophya, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) | Endovasculitisc (proliferationa, intimal arteritisb, necrosis, sclerosis) |
+|  | Tubular atrophy, isometric vacuolization, isolated calcifications | Tubulitis with RBCb and WBCb casts, some irregular vacuolization |
 |  | Minimal edema | Interstitial edemac and hemorrhageb |
-|  | Mild focal infiltratesc | Diffuse moderate to severe mononuclear |
-|  |  | infiltratesd |
-|  | Diffuse interstitial fibrosis, | Glomerulitis (mononuclear cells)c |
-|  | often striped form |  |
-| Aspiration Cytology | CyA deposits in tubular and | Inflammatory infiltrate with mononuclear phagocytes, |
-|  | endothelial cells | macrophages, lymphoblastoid cells, and |
-|  |  | activated T-cells |
-|  | Fine isometric vacuolization of |  |
-|  | tubular cells |  |
-|  |  | These strongly express HLA-DR antigens |
-| Urine Cytology | Tubular cells with vacuolization and | Degenerative tubular cells, plasma cells, and |
-|  | granularization | lymphocyturia > 20% of sediment |
+|  | Mild focal infiltratesc | Diffuse moderate to severe mononuclear infiltratesd |
+|  | Diffuse interstitial fibrosis, often striped form | Glomerulitis (mononuclear cells)c |
+| Aspiration Cytology | CyA deposits in tubular and endothelial cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells |
+|  | Fine isometric vacuolization of tubular cells | These strongly express HLA-DR antigens |
+| Urine Cytology | Tubular cells with vacuolization and granularization | Degenerative tubular cells, plasma cells, and lymphocyturia > 20% of sediment |
 | Manometry | Intracapsular pressure < 40 mm Hgb | Intracapsular pressure > 40 mm Hgb |
 | Ultrasonography | Unchanged graft cross-sectional area | Increase in graft cross-sectional area |
 |  |  | AP diameter ≥ Transverse diameter |
-| Magnetic Resonance | Normal appearance | Loss of distinct corticomedullary junction, swelling, |
-| Imagery |  | image intensity of parachyma approaching that |
-|  |  | of psoas, loss of hilar fat |
+| Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling, image intensity of parachyma approaching that of psoas, loss of hilar fat |
 | Radionuclide Scan | Normal or generally decreased perfusion | Patchy arterial flow |
 |  | Decrease in tubular function | Decrease in perfusion > decrease in tubular function |
-|  | (131 I-hippuran) > decrease in perfusion | Increased uptake of Indium 111 labeled platelets or |
-|  | (99m Tc DTPA) | Tc-99m in colloid |
-| Therapy | Responds to decreased Sandimmune® | Responds to increased steroids or |
-|  | (cyclosporine) | antilymphocyte globulin |
+|  | (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
+| Therapy | Responds to decreased Sandimmune® (cyclosporine) | Responds to increased steroids or antilymphocyte globulin |
 
 ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001
 
@@ -166,10 +150,10 @@ In addition, concomitant nonsteroidal anti-inflammatory drugs, particularly in t
 
 ### Drugs That May Potentiate Renal Dysfunction
 
-| Antibiotics | Antineoplastic | Antifungals | Anti- Inflammatory Drugs | Gastrointestinal Agents | Immunosuppressives | Other Drugs |
+| Antibiotics | Antineoplastic | Antifungals | Anti-Inflammatory Drugs | Gastrointestinal Agents | Immunosuppressives | Other Drugs |
 | --- | --- | --- | --- | --- | --- | --- |
-| ciprofloxacin | melphalan | amphotericin B | azapropazon | cimetidine | tacrolimus | fibric acid derivatives |
-| gentamicin |  | ketoconazole | colchicine | ranitidine |  | (e.g., bezafibrate, fenofibrate) |
+| ciprofloxacin | melphalan | amphotericin B | azapropazon | cimetidine | tacrolimus | fibric acid derivatives (e.g., bezafibrate, fenofibrate) |
+| gentamicin |  | ketoconazole | colchicine | ranitidine |  |  |
 | tobramycin |  |  | diclofenac |  |  |  |
 | trimethoprim with sulfamethoxazole |  |  | naproxen |  |  |  |
 | vancomycin |  |  | sulindac |  |  |  |
@@ -203,7 +187,7 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 
 ### Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
-| Antibiotics | Anticonvulsants | Other Drugs /Dietary Supplements |  |
+| Antibiotics | Anticonvulsants | Other Drugs / Dietary Supplements |  |
 | --- | --- | --- | --- |
 | nafcillin | carbamazepine | octreotide | St. John’s Wort |
 | rifampin | phenobarbital | orlistat |  |
