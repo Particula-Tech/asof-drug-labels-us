@@ -7,7 +7,7 @@ The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the
 
 ## Pharmacokinetics
 
-Absorption/Bioavailability: CMI from Anafranil capsules is as bioavailable as CMI from a solution.
+Absorption/Bioavailability - CMI from Anafranil capsules is as bioavailable as CMI from a solution.
 The bioavailability of CMI from capsules is not significantly affected by food.
 
 In a dose proportionality study involving multiple CMI doses, steady-state plasma concentrations (Css) and area-under-plasma-concentration-time curves (AUC) of CMI and CMI's major active metabolite, desmethylclomipramine (DMI), were not proportional to dose over the ranges evaluated, i.e., between 25 to 100 mg/day and between 25 to 150 mg/day, although Css and AUC are approximately linearly related to dose between 100 to 150 mg/day.
@@ -19,12 +19,12 @@ After multiple daily doses of 150 mg of Anafranil, steady-state maximum plasma c
 Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range.
 At a dose of Anafranil 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both.
 
-Distribution: CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk.
+Distribution - CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk.
 DMI also distributes into CSF, with a mean CSF/plasma ratio of 2.6.
 The protein binding of CMI is approximately 97%, principally to albumin, and is independent of CMI concentration.
 The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important (see PRECAUTIONS, Drug Interactions).
 
-Metabolism: CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates.
+Metabolism - CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates.
 DMI is pharmacologically active, but its effects on OCD behaviors are unknown.
 These metabolites are excreted in urine and feces, following biliary elimination.
 After a 25-mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectively, of the dose were
@@ -33,7 +33,7 @@ recovered in the urine and 32% and 24%, respectively, in feces.
 In the same study, the combined urinary recoveries of CMI and DMI were only about 0.8% to 1.3% of the dose administered.
 CMI does not induce drug-metabolizing enzymes, as measured by antipyrine half-life.
 
-Elimination: Evidence that the Css and AUC for CMI and DMI may increase disproportionately with increasing oral doses suggests that the metabolism of CMI and DMI may be capacity limited.
+Elimination - Evidence that the Css and AUC for CMI and DMI may increase disproportionately with increasing oral doses suggests that the metabolism of CMI and DMI may be capacity limited.
 This fact must be considered in assessing the estimates of the pharmacokinetic parameters presented below, as these were obtained in individuals exposed to doses of 150 mg.
 If the pharmacokinetics of CMI and DMI are nonlinear at doses above 150 mg, their elimination half-lives may be considerably lengthened at doses near the upper end of the recommended dosing range (i.e., 200 mg/day to 250 mg/day).
 Consequently, CMI and DMI may accumulate, and this accumulation may increase the incidence of any dose- or plasma-concentration-dependent adverse reactions, in particular seizures (see WARNINGS).
@@ -44,7 +44,7 @@ After multiple dosing with 150 mg/day, the accumulation factor for CMI is approx
 Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half-lives of CMI and DMI (see DOSAGE AND ADMINISTRATION).
 The effects of hepatic and renal impairment on the disposition of Anafranil have not been determined.
 
-Interactions: Co-administration of haloperidol with CMI increases plasma concentrations of CMI.
+Interactions - Co-administration of haloperidol with CMI increases plasma concentrations of CMI.
 Co-administration of CMI with phenobarbital increases plasma concentrations of phenobarbital (see PRECAUTIONS, Drug Interactions).
 Younger subjects (18 to 40 years of age) tolerated CMI better and had significantly lower steady-state plasma concentrations, compared with subjects over 65 years of age.
 Children under 15 years of age had significantly lower plasma concentration/dose ratios, compared with adults.

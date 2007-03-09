@@ -35,28 +35,28 @@ If signs of toxicity occur at any time during this period, extended monitoring i
 There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination.
 Monitoring of plasma drug levels should not guide management of the patient.
 
-Gastrointestinal Decontamination: All patients suspected of tricyclic overdose should receive gastrointestinal decontamination.
+Gastrointestinal Decontamination - All patients suspected of tricyclic overdose should receive gastrointestinal decontamination.
 This should include large volume gastric lavage followed by activated charcoal.
 If consciousness is impaired, the airway should be secured prior to lavage.
 Emesis is contraindicated.
 
-Cardiovascular: A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
+Cardiovascular - A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
 Intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55.
 If the pH response is inadequate, hyperventilation may also be used.
 Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring.
-A pH >7.60 or a Pco2< 20 mmHg is undesirable.
+A pH >7.60 or a PCO2< 20 mmHg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium, or phenytoin.
 Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
 
 In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity.
 However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced diuresis generally have been reported as ineffective in tricyclic poisoning.
 
-CNS: In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
+CNS - In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
 Seizures should be controlled with benzodiazepines, or if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin).
 Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
 
-Psychiatric Follow-up: Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase.
+Psychiatric Follow-up - Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase.
 Psychiatric referral may be appropriate.
 
-Pediatric Management: The principles of management of child and adult overdosages are similar.
+Pediatric Management - The principles of management of child and adult overdosages are similar.
 It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.

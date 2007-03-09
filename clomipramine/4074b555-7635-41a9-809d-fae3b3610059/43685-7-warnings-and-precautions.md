@@ -30,7 +30,7 @@ Such monitoring should include daily observation by families and caregivers.
 Prescriptions for clomipramine hydrochloride should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 Families and caregivers of adults being treated for depression should be similarly advised.
 
-Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
+Screening Patients for Bipolar Disorder - A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
@@ -59,54 +59,54 @@ Physicians should discuss with patients the risk of taking Anafranil while engag
 
 ## General
 
-Suicide: Since depression is a commonly associated feature of OCD, the risk of suicide must be considered.
+Suicide - Since depression is a commonly associated feature of OCD, the risk of suicide must be considered.
 Prescriptions for Anafranil should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-Cardiovascular Effects: Modest orthostatic decreases in blood pressure and modest tachycardia were each seen in approximately 20% of patients taking Anafranil in clinical trials; but patients were frequently asymptomatic.
+Cardiovascular Effects - Modest orthostatic decreases in blood pressure and modest tachycardia were each seen in approximately 20% of patients taking Anafranil in clinical trials; but patients were frequently asymptomatic.
 Among approximately 1400 patients treated with CMI in the premarketing experience who had ECGs, 1.5% developed abnormalities during treatment, compared with 3.1% of patients receiving active control drugs and 0.7% of patients receiving placebo.
 The most common ECG changes were PVCs, ST-T wave changes, and intraventricular conduction abnormalities.
 These changes were rarely associated with significant clinical symptoms.
 Nevertheless, caution is necessary in treating patients with known cardiovascular disease, and gradual dose titration is recommended.
 
-Psychosis, Confusion, and Other Neuropsychiatric Phenomena: Patients treated with Anafranil have been reported to show a variety of neuropsychiatric signs and symptoms including delusions, hallucinations, psychotic episodes, confusion, and paranoia.
+Psychosis, Confusion, and Other Neuropsychiatric Phenomena - Patients treated with Anafranil have been reported to show a variety of neuropsychiatric signs and symptoms including delusions, hallucinations, psychotic episodes, confusion, and paranoia.
 Because of the uncontrolled nature of many of the studies, it is impossible to provide a precise estimate of the extent of risk imposed by treatment with Anafranil.
 As with tricyclic antidepressants to which it is closely related, Anafranil may precipitate an acute psychotic episode in patients with unrecognized schizophrenia.
 
-Mania/Hypomania: During premarketing testing of Anafranil in patients with affective disorder, hypomania or mania was precipitated in several patients.
+Mania/Hypomania - During premarketing testing of Anafranil in patients with affective disorder, hypomania or mania was precipitated in several patients.
 Activation of mania or hypomania has also been reported in a small proportion of patients with affective disorder treated with marketed tricyclic antidepressants, which are closely related to Anafranil.
 
-Hepatic Changes: During premarketing testing, Anafranil was occasionally associated with elevations in SGOT and SGPT (pooled incidence of approximately 1% and 3%, respectively) of potential clinical importance (i.e., values greater than 3 times the upper limit of normal).
+Hepatic Changes - During premarketing testing, Anafranil was occasionally associated with elevations in SGOT and SGPT (pooled incidence of approximately 1% and 3%, respectively) of potential clinical importance (i.e., values greater than 3 times the upper limit of normal).
 In the vast majority of instances, these enzyme increases were not associated with other clinical findings suggestive of hepatic injury; moreover, none were jaundiced.
 Rare reports of more severe liver injury, some fatal, have been recorded in foreign postmarketing experience.
 Caution is indicated in treating patients with known liver disease, and periodic monitoring of hepatic enzyme levels is recommended in such patients.
 
-Hematologic Changes: Although no instances of severe hematologic toxicity were seen in the premarketing experience with Anafranil, there have been postmarketing reports of leukopenia, agranulocytosis, thrombocytopenia, anemia, and pancytopenia in association with Anafranil® (clomipramine hydrochloride capsules USP) use.
+Hematologic Changes - Although no instances of severe hematologic toxicity were seen in the premarketing experience with Anafranil, there have been postmarketing reports of leukopenia, agranulocytosis, thrombocytopenia, anemia, and pancytopenia in association with Anafranil® (clomipramine hydrochloride capsules USP) use.
 As is the case with tricyclic antidepressants to which Anafranil is closely related, leukocyte and differential blood counts should be obtained in patients who develop fever and sore throat during treatment with Anafranil.
 
-Central Nervous System: More than 30 cases of hyperthermia have been recorded by nondomestic postmarketing surveillance systems.
+Central Nervous System - More than 30 cases of hyperthermia have been recorded by nondomestic postmarketing surveillance systems.
 Most cases occurred when Anafranil was used in combination with other drugs.
 When Anafranil and a neuroleptic were used concomitantly, the cases were sometimes considered to be examples of a neuroleptic malignant syndrome.
 
-Sexual Dysfunction: The rate of sexual dysfunction in male patients with OCD who were treated with Anafranil in the premarketing experience was markedly increased compared with placebo controls (i.e., 42% experienced ejaculatory failure and 20% experienced impotence, compared with 2.0% and 2.6%, respectively, in the placebo group).
+Sexual Dysfunction - The rate of sexual dysfunction in male patients with OCD who were treated with Anafranil in the premarketing experience was markedly increased compared with placebo controls (i.e., 42% experienced ejaculatory failure and 20% experienced impotence, compared with 2.0% and 2.6%, respectively, in the placebo group).
 Approximately 85% of males with sexual dysfunction chose to continue treatment.
 
-Weight Changes: In controlled studies of OCD, weight gain was reported in 18% of patients receiving Anafranil, compared with 1% of patients receiving placebo.
+Weight Changes - In controlled studies of OCD, weight gain was reported in 18% of patients receiving Anafranil, compared with 1% of patients receiving placebo.
 In these studies, 28% of patients receiving Anafranil had a weight gain of at least 7% of their initial body weight, compared with 4% of patients receiving placebo.
 Several patients had weight gains in excess of 25% of their initial body weight.
 Conversely, 5% of patients receiving Anafranil and 1% receiving placebo had weight losses of at least 7% of their initial body weight.
 
-Electroconvulsive Therapy: As with closely related tricyclic antidepressants, concurrent administration of Anafranil with electroconvulsive therapy may increase the risks; such treatment should be limited to those patients for whom it is essential, since there is limited clinical experience.
+Electroconvulsive Therapy - As with closely related tricyclic antidepressants, concurrent administration of Anafranil with electroconvulsive therapy may increase the risks; such treatment should be limited to those patients for whom it is essential, since there is limited clinical experience.
 
-Surgery: Prior to elective surgery with general anesthetics, therapy with Anafranil should be discontinued for as long as is clinically feasible, and the anesthetist should be advised.
+Surgery - Prior to elective surgery with general anesthetics, therapy with Anafranil should be discontinued for as long as is clinically feasible, and the anesthetist should be advised.
 
-Use in Concomitant Illness: As with closely related tricyclic antidepressants, Anafranil should be used with caution in the following:
+Use in Concomitant Illness - As with closely related tricyclic antidepressants, Anafranil should be used with caution in the following:
 
 1. Hyperthyroid patients or patients receiving thyroid medication, because of the possibility of cardiac toxicity;
 2. Patients with increased intraocular pressure, a history of narrow-angle glaucoma, or urinary retention, because of the anticholinergic properties of the drug;
 3. Patients with tumors of the adrenal medulla (e.g., pheochromocytoma, neuroblastoma) in whom the drug may provoke hypertensive crises;
 4. Patients with significantly impaired renal function.
 
-Withdrawal Symptoms: A variety of withdrawal symptoms have been reported in association with abrupt discontinuation of Anafranil, including dizziness, nausea, vomiting, headache, malaise, sleep disturbance, hyperthermia, and irritability.
+Withdrawal Symptoms - A variety of withdrawal symptoms have been reported in association with abrupt discontinuation of Anafranil, including dizziness, nausea, vomiting, headache, malaise, sleep disturbance, hyperthermia, and irritability.
 In addition, such patients may experience a worsening of psychiatric status.
 While the withdrawal effects of Anafranil have not been systematically evaluated in controlled trials, they are well known with closely related tricyclic antidepressants, and it is recommended that the dosage be tapered gradually and the patient monitored carefully during discontinuation (see DRUG ABUSE AND DEPENDENCE).
 
@@ -120,7 +120,7 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking clomipramine hydrochloride.
 
-Clinical Worsening and Suicide Risk: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Clinical Worsening and Suicide Risk - Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
@@ -147,7 +147,7 @@ Several tricyclic antidepressants have been reported to block the pharmacologic 
 The plasma concentration of CMI has been reported to be increased by the concomitant administration of haloperidol; plasma levels of several closely related tricyclic antidepressants have been reported to be increased by the concomitant administration of methylphenidate or hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decreased by the concomitant administration of hepatic enzyme inducers (e.g., barbiturates, phenytoin), and such an effect may be anticipated with CMI as well.
 Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly (see CLINICAL PHARMACOLOGY, Interactions).
 
-Drugs Metabolized by P450 2D6: The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so-called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
+Drugs Metabolized by P450 2D6 - The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so-called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
 Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
 Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).
 In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.
@@ -187,7 +187,7 @@ Because of the potential for adverse reactions, a decision should be made whethe
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS—Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
 Anyone considering the use of Anafranil in a child or adolescent must balance the potential risks with the clinical need.
 
 In a controlled clinical trial in children and adolescents (10 to 17 years of age), 46 outpatients received Anafranil for up to 8 weeks.

@@ -168,39 +168,39 @@ It is important to emphasize that although the events reported occurred during t
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in less than 1/1000 patients.
 
-Body as a Whole:Infrequent - general edema, increased susceptibility to infection, malaise.
+Body as a Whole - Infrequent - general edema, increased susceptibility to infection, malaise.
 Rare - dependent edema, withdrawal syndrome.
 
-Cardiovascular System:Infrequent - abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor.
+Cardiovascular System - Infrequent - abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor.
 Rare - aneurysm, atrial flutter, bundle branch block, cardiac failure, cerebral hemorrhage, heart block, myocardial infarction, myocardial ischemia, peripheral ischemia, thrombophlebitis, vasospasm, ventricular tachycardia.
 
-Digestive System:Infrequent - abnormal hepatic function, blood in stool, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, hepatitis, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth caries.
+Digestive System - Infrequent - abnormal hepatic function, blood in stool, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, hepatitis, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth caries.
 Rare - cheilitis, chronic enteritis, discolored feces, gastric dilatation, gingival bleeding, hiccup, intestinal obstruction, oral/pharyngeal edema, paralytic ileus, salivary gland enlargement.
 
-Endocrine System:Infrequent - hypothyroidism.
+Endocrine System - Infrequent - hypothyroidism.
 Rare - goiter, gynecomastia, hyperthyroidism.
 
-Hemic and Lymphatic System:Infrequent - lymphadenopathy.
+Hemic and Lymphatic System - Infrequent - lymphadenopathy.
 Rare - leukemoid reaction, lymphoma-like disorder, marrow depression.
 
-Metabolic and Nutritional Disorder:Infrequent - dehydration, diabetes mellitus, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypokalemia.
+Metabolic and Nutritional Disorder - Infrequent - dehydration, diabetes mellitus, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypokalemia.
 Rare - fat intolerance, glycosuria.
 
-Musculoskeletal System:Infrequent - arthrosis.
+Musculoskeletal System - Infrequent - arthrosis.
 Rare - dystonia, exostosis, lupus erythematosus rash, bruising, myopathy, myositis, polyarteritis nodosa, torticollis.
 
-Nervous System:Frequent - abnormal thinking, vertigo.
+Nervous System - Frequent - abnormal thinking, vertigo.
 Infrequent - abnormal coordination, abnormal EEG, abnormal gait, apathy, ataxia, coma, convulsions, delirium, delusion, dyskinesia, dysphonia, encephalopathy, euphoria, extrapyramidal disorder, hallucinations, hostility, hyperkinesia, hypnagogic hallucinations, hypokinesia, leg cramps, manic reaction, neuralgia, paranoia, phobic disorder, psychosis, sensory disturbance, somnambulism, stimulation, suicidal ideation, suicide attempt, teeth-grinding.
 Rare - anticholinergic syndrome, aphasia, apraxia, catalepsy, cholinergic syndrome, choreoathetosis, generalized spasm, hemiparesis, hyperesthesia, hyperreflexia, hypoesthesia, illusion, impaired impulse control, indecisiveness, mutism, neuropathy, nystagmus, oculogyric crisis, oculomotor nerve paralysis, schizophrenic reaction, stupor, suicide.
 
-Respiratory System:Infrequent - bronchitis, hyperventilation, increased sputum, pneumonia.
+Respiratory System - Infrequent - bronchitis, hyperventilation, increased sputum, pneumonia.
 Rare - cyanosis, hemoptysis, hypoventilation, laryngismus.
 
-Skin and Appendages:Infrequent - alopecia, cellulitis, cyst, eczema, erythematous rash, genital pruritus, maculopapular rash, photosensitivity reaction, psoriasis, pustular rash, skin discoloration.
+Skin and Appendages - Infrequent - alopecia, cellulitis, cyst, eczema, erythematous rash, genital pruritus, maculopapular rash, photosensitivity reaction, psoriasis, pustular rash, skin discoloration.
 Rare - chloasma, folliculitis, hypertrichosis, piloerection, seborrhea, skin hypertrophy, skin ulceration.
 
-Special Senses:Infrequent - abnormal accommodation, deafness, diplopia, earache, eye pain, foreign body sensation, hyperacusis, parosmia, photophobia, scleritis, taste loss.
+Special Senses - Infrequent - abnormal accommodation, deafness, diplopia, earache, eye pain, foreign body sensation, hyperacusis, parosmia, photophobia, scleritis, taste loss.
 Rare - blepharitis, chromatopsia, conjunctival hemorrhage, exophthalmos, glaucoma, keratitis, labyrinth disorder, night blindness, retinal disorder, strabismus, visual field defect.
 
-Urogenital System:Infrequent - endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, renal calculus, renal pain, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhage.
+Urogenital System - Infrequent - endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, renal calculus, renal pain, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhage.
 Rare - albuminuria, anorgasmy, breast engorgement, breast fibroadenosis, cervical dysplasia, endometrial hyperplasia, premature ejaculation, pyelonephritis, pyuria, renal cyst, uterine inflammation, vulvar disorder.

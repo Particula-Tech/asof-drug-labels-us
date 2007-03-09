@@ -31,7 +31,7 @@ These include patients with
 - A family history of bipolar illness
 - A personal or family history of attempting suicide
 
-If any of these are present, make sure you tell your healthcare provider before your child takes an antidepressant.
+If any of these are present, make sure you tell your health care provider before your child takes an antidepressant.
 
 2.
 How to Try to Prevent Suicidal Thoughts and Actions
@@ -42,20 +42,20 @@ The changes to look out for are listed in Section 3, on what to watch for.
 
 Whenever an antidepressant is started or its dose is changed, pay close attention to your child.
 
-After starting an antidepressant, your child should generally see his or her healthcare provider:
+After starting an antidepressant, your child should generally see his or her health care provider:
 
 - Once a week for the first 4 weeks
 - Every 2 weeks for the next 4 weeks
 - After taking the antidepressant for 12 weeks
-- After 12 weeks, follow your healthcare provider's advice about how often to come back
+- After 12 weeks, follow your health care provider's advice about how often to come back
 - More often if problems or questions arise (see Section 3)
 
-You should call your child's healthcare provider between visits if needed.
+You should call your child's health care provider between visits if needed.
 
 3.
 You Should Watch for Certain Signs If Your Child is Taking an Antidepressant
 
-Contact your child's healthcare provider right away if your child exhibits any of the following signs for the first time, or if they seem worse, or worry you, your child, or your child's teacher:
+Contact your child's health care provider right away if your child exhibits any of the following signs for the first time, or if they seem worse, or worry you, your child, or your child's teacher:
 
 - Thoughts about suicide or dying
 - Attempts to commit suicide
@@ -70,7 +70,7 @@ Contact your child's healthcare provider right away if your child exhibits any o
 - An extreme increase in activity and talking
 - Other unusual changes in behavior or mood
 
-Never let your child stop taking an antidepressant without first talking to his or her healthcare provider.
+Never let your child stop taking an antidepressant without first talking to his or her health care provider.
 Stopping an antidepressant suddenly can cause other symptoms.
 
 4.
@@ -80,26 +80,24 @@ Antidepressants are used to treat depression and other illnesses.
 Depression and other illnesses can lead to suicide.
 In some children and teenagers, treatment with an antidepressant increases suicidal thinking or actions.
 It is important to discuss all the risks of treating depression and also the risks of not treating it.
-You and your child should discuss all treatment choices with your healthcare provider, not just the use of antidepressants.
+You and your child should discuss all treatment choices with your health care provider, not just the use of antidepressants.
 
 Other side effects can occur with antidepressants (see section below).
 
-Of all the antidepressants, only fluoxetine (Prozac™) has been FDA approved to treat pediatric depression.
+Of all the antidepressants, only fluoxetine (Prozac®) has been FDA approved to treat pediatric depression.
 
-For obsessive compulsive disorder in children and teenagers, FDA has approved only fluoxetine (ProzacTM), sertraline (ZoloftTM), fluvoxamine, and clomipramine (AnafranilTM).
+For obsessive compulsive disorder in children and teenagers, FDA has approved only fluoxetine (Prozac®), sertraline (Zoloft®), fluvoxamine, and clomipramine (Anafranil®).
 
-Your healthcare provider may suggest other antidepressants based on the past experience of your child or other family members.
+Your health care provider may suggest other antidepressants based on the past experience of your child or other family members.
 
 Is this all I need to know if my child is being prescribed an antidepressant?
 
 No. This is a warning about the risk for suicidality.
 Other side effects can occur with antidepressants.
-Be sure to ask your healthcare provider to explain all the side effects of the particular drug he or she is prescribing.
+Be sure to ask your health care provider to explain all the side effects of the particular drug he or she is prescribing.
 Also ask about drugs to avoid when taking an antidepressant.
-Ask your healthcare provider or pharmacist where to find more information.
+Ask your health care provider or pharmacist where to find more information.
 
 *Prozac® is a registered trademark of Eli Lilly and Company *Zoloft® is a registered trademark of Pfizer Pharmaceuticals *Anafranil® is a registered trademark of Mallinckrodt Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
-
-Rev 020605

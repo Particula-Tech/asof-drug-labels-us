@@ -9,4 +9,4 @@ Clomipramine hydrochloride USP is a white to off-white crystalline powder.
 It is freely soluble in water, in methanol, and in methylene chloride, and insoluble in ethyl ether and in hexane.
 
 Inactive Ingredients.
-D&C Red No. 33 (25-mg capsules only), D&C Yellow No. 10, FD&C Blue No. 1 (50-mg capsules only), FD&C Yellow No. 6, gelatin, magnesium stearate, methylparaben, propylparaben, silicon dioxide, sodium lauryl sulfate, starch (corn), and titanium dioxide.
+D&C Red No. 33 (25-mg capsules only), D&C Yellow No. 10, FD&C Blue No. 1 (50-mg capsules only), FD&C Yellow No. 6, gelatin, magnesium stearate, methylparaben, propylparaben, starch (corn), and titanium dioxide.
