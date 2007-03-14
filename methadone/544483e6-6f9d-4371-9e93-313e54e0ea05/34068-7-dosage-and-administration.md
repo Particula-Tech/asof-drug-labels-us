@@ -1,51 +1,68 @@
 # DOSAGE AND ADMINISTRATION
 
-Methadone Hydrochloride Tablets for Oral Suspension are intended for dispersion in a liquid prior to oral administration of the prescribed dose.
+Methadone differs from many other opioid agonists in several important ways.
+Methadone's pharmacokinetic properties, coupled with high interpatient variability in its absorption, metabolism, and relative analgesic potency, necessitate a cautious and highly individualized approach to prescribing.
+Particular vigilance is necessary during treatment initiation, during conversion from one opioid to another, and during dose titration.
 
-For Detoxification Treatment – THE DRUG SHALL BE ADMINISTERED DAILY UNDER CLOSE SUPERVISION AS FOLLOWS:
+While methadone's duration of analgesic action (typically 4 to 8 hours) in the setting of single-dose studies approximates that of morphine, methadone's plasma elimination half-life is substantially longer than that of morphine (typically 8 to 59 hours vs. 1 to 5 hours).
+Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects.
+Also, with repeated dosing, methadone may be retained in the liver and then slowly released, prolonging the duration of action despite low plasma concentrations.
+For these reasons, steady-state plasma concentrations, and full analgesic effects, are usually not attained until 3 to 5 days of dosing.
+Additionally, incomplete cross-tolerance between mu-opioid agonists makes determination of dosing during opioid conversion complex.
 
-A detoxification treatment course shall not exceed 21 days and may not be repeated earlier than 4 weeks after completion of the preceding course.
+The complexities associated with methadone dosing can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
+A high degree of “opioid tolerance” does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
+Deaths have been reported during conversion to methadone from chronic, high-dose treatment with other opioid agonists and during initiation of methadone treatment of addiction in subjects previously abusing high doses of other agonists.
 
-In detoxification, the patient may receive methadone when there are significant symptoms of withdrawal.
-The dosage schedules indicated below are recommended but could be varied in accordance with clinical judgment.
-Initially, a single oral dose of 15 to 20 mg of methadone will often be sufficient to suppress withdrawal symptoms.
-Additional methadone may be provided if withdrawal symptoms are not suppressed or if symptoms reappear.
-When patients are physically dependent on high doses, it may be necessary to exceed these levels.
-Forty mg/day in single or divided doses will usually constitute an adequate stabilizing dosage level.
-Stabilization can be continued for 2 to 3 days, and then the amount of methadone normally will be gradually decreased.
-The rate at which methadone is decreased will be determined separately for each patient.
-The dose of methadone can be decreased on a daily basis or at 2-day intervals, but the amount of intake shall always be sufficient to keep withdrawal symptoms at a tolerable level.
-In hospitalized patients, a daily reduction of 20% of the total daily dose may be tolerated and may cause little discomfort.
+## Detoxification and Maintenance Treatment of Opiate Dependence
+
+| For detoxification and maintenance of opiate dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration. |
+| --- |
+
+Methadone hydrochloride for oral suspension is intended for dispersion in a liquid immediately prior to oral administration of the prescribed dose.
+The tablets should not be chewed or swallowed before dispersing in liquid.
+Methadone hydrochloride tablets for oral suspension are cross-scored, allowing for flexible dosage adjustment.
+Each tablet may be broken or cut in half to yield two 20-mg doses, or in quarters to yield four 10-mg doses.
+
+Prior to administration, the desired dose of methadone hydrochloride for oral suspension should be dispersed in approximately 120 mL (4 ounces) of water, orange juice, Tang®, citrus flavors of Kool-Aid® or other acidic fruit beverage prior to taking.
+Methadone hydrochloride is very soluble in water, but there are some insoluble excipients that will not entirely dissolve.
+If residue remains in the cup after initial administration, a small amount of liquid should be added and the resulting mixture administered to the patient.
+
+## Induction/Initial Dosing
+
+The initial methadone dose should be administered, under supervision, when there are no signs of sedation or intoxication, and the patient shows symptoms of withdrawal.
+Initially, a single dose of 20 to 30 mg of methadone will often be sufficient to suppress withdrawal symptoms.
+The initial dose should not exceed 30 mg.
+If same-day dosing adjustments are to be made, the patient should be asked to wait 2 to 4 hours for further evaluation, when peak levels have been reached.
+An additional 5 to 10 mg of methadone may be provided if withdrawal symptoms have not been suppressed or if symptoms reappear.
+The total daily dose of methadone on the first day of treatment should not ordinarily exceed 40 mg.
+Dose adjustments should be made over the first week of treatment based on control of withdrawal symptoms at the time of expected peak activity (e.g., 2 to 4 hours after dosing).
+Dose adjustment should be cautious; deaths have occurred in early treatment due to the cumulative effects of the first several days' dosing.
+Because methadone hydrochloride for oral suspension can be administered only in 10 mg increments, methadone hydrochloride for oral suspension may not be the appropriate product for initial dosing in many patients.
+Patients should be reminded that the dose will “hold” for a longer period of time as tissue stores of methadone accumulate.
+
+Initial doses should be lower for patients whose tolerance is expected to be low at treatment entry.
+Loss of tolerance should be considered in any patient who has not taken opioids for more than 5 days.
+Initial doses should not be determined by previous treatment episodes or dollars spent per day on illicit drug use.
+
+## For Short-term Detoxification
+
+For patients preferring a brief course of stabilization followed by a period of medically supervised withdrawal, it is generally recommended that the patient be titrated to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
+Stabilization can be continued for 2 to 3 days, after which the dose of methadone should be gradually decreased.
+The rate at which methadone is decreased should be determined separately for each patient.
+The dose of methadone can be decreased on a daily basis or at 2-day intervals, but the amount of intake should remain sufficient to keep withdrawal symptoms at a tolerable level.
+In hospitalized patients, a daily reduction of 20% of the total daily dose may be tolerated.
 In ambulatory patients, a somewhat slower schedule may be needed.
-If methadone is administered for more than 3 weeks, the procedure is considered to have progressed from detoxification or treatment of the acute withdrawal syndrome to maintenance treatment, even though the goal and intent may be eventual total withdrawal.
+Because methadone hydrochloride for oral suspension can be administered only in 10 mg increments, methadone hydrochloride for oral suspension may not be the appropriate product for gradual dose reduction in many patients.
 
-For Maintenance Treatment – In maintenance treatment, the initial dosage of methadone should control the abstinence symptoms that follow withdrawal of narcotic drugs but should not be so great as to cause sedation, respiratory depression, or other effects of acute intoxication.
-It is important that the initial dosage be adjusted on an individual basis to the narcotic tolerance of the new patient.
-If such a patient has been a heavy user of heroin up to the day of admission, he/she may be given 20 mg 4 to 8 hours later or 40 mg in a single oral dose.
-If the patient enters treatment with little or no narcotic tolerance (e.g., if he/she has recently been released from jail or other confinement), the initial dosage may be one half these quantities.
-When there is any doubt, the smaller dose should be used initially.
-The patient should then be kept under observation, and, if symptoms of abstinence are distressing, additional 10-mg doses may be administered as needed.
-Subsequently, the dosage should be adjusted individually, as tolerated and required, up to a level of 120 mg daily.
-The patient will initially ingest the drug under observation daily, or at least 6 days a week, for the first 3 months.
-After demonstrating satisfactory adherence to the program regulations for at least 3 months, the patient may be permitted to reduce to 3 times weekly the occasions when he/she must ingest the drug under observation.
-The patient shall receive no more than a 2-day take-home supply.
-With continuing adherence to the program's requirements for at least 2 years, he/she may then be permitted twice-weekly visits to the program for drug ingestion under observation, with a 3-day take-home supply.
-A daily dose of 120 mg or more shall be justified in the medical record.
-Prior approval from state authority and the Food and Drug Administration is required for any dose above 120 mg administered at the clinic and for any dose above 100 mg to be taken at home.
-A regular review of dosage level should be made by the responsible physician, with careful consideration given to reduction of dosage as indicated on an individual basis.
-A new dosage level is only a test level until stability is achieved.
+## For Maintenance Treatment
 
-Special Considerations for a Pregnant Patient – Caution shall be taken in the maintenance treatment of pregnant patients.
-Dosage levels shall be kept as low as possible if continued methadone treatment is deemed necessary.
-It is the responsibility of the program sponsor to assure that each female patient be fully informed concerning the possible risks to a pregnant woman or her unborn child from the use of methadone.
+Patients in maintenance treatment should be titrated to a dose at which opioid symptoms are prevented for 24 hours, drug hunger or craving is reduced, the euphoric effects of self-administered opioids are blocked or attenuated, and the patient is tolerant to the sedative effects of methadone.
+Most commonly, clinical stability is achieved at doses between 80 to 120 mg/day.
 
-## Special Limitations- Treatment of Patients Under Age 18
+## For Medically Supervised Withdrawal After a Period of Maintenance Treatment
 
-1. The safety and effectiveness of methadone for use in the treatment of adolescents have not been proved by adequate clinical study.
-   Special procedures are therefore necessary to assure that patients under age 16 will not be admitted to a program and that patients between 16 and 18 years of age will be admitted to maintenance treatment only under limited conditions.
-2. Patients between 16 and 18 years of age who were enrolled and under treatment in approved programs on December 15, 1972, may continue in maintenance treatment.
-   No new patients between 16 and 18 years of age may be admitted to a maintenance treatment program after March 15, 1973, unless a parent, legal guardian, or responsible adult designated by the state authority completes and signs Form FD 2635, “Consent for Methadone Treatment.”Methadone treatment of new patients between the ages of 16 and 18 years will be permitted after December 15, 1972, only with a documented history of 2 or more unsuccessful attempts at detoxification and a documented history of dependence on heroin or other morphine-like drugs beginning 2 years or more prior to application for treatment.
-   No patient under age 16 may be continued or started on methadone treatment after December 15, 1972, but these patients may be detoxified and retained in the program in a drug-free state for follow-up and aftercare.
-3. Patients under age 18 who are not placed on maintenance treatment may be detoxified.
-   Detoxification may not exceed 3 weeks.
-   A repeat episode of detoxification may not be initiated until 4 weeks after the completion of the previous detoxification.
+There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
+It is generally suggested that dose reductions should be less than 10% of the established tolerance or maintenance dose, and that 10 to 14-day intervals should elapse between dose reductions.
+Because methadone hydrochloride for oral suspension can be administered only in 10 mg increments, it may not be the appropriate product for gradual dose reduction in many patients.
+Patients should be apprised of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.

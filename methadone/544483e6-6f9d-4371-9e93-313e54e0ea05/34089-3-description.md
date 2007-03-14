@@ -1,15 +1,20 @@
 # DESCRIPTION
 
-Methadone hydrochloride tablets for oral suspension, (3-heptanone, 6-(dimethylamino)-4,4-diphenyl-hydrochloride), is a white, essentially odorless, bitter-tasting, crystalline powder.
-It is very soluble in water, soluble in isopropanol and in chloroform, and practically insoluble in ether and in glycerine.
-Methadone hydrochloride has a pKa of 8.25 in water at 20°C.
-Its molecular weight is 345.91 and it has the following structural formula.
+Methadone Hydrochloride Tablets for Oral Suspension USP is for oral administration following dispersion in a liquid.
+Each tablet contains 40 mg of methadone hydrochloride.
 
-The preparation of methadone hydrochloride for oral suspension has been specially formulated with insoluble excipients to deter the use of this drug by injection.
+Methadone hydrochloride is chemically described as (3-heptanone, 6-(dimethylamino)-4,4- diphenyl-, hydrochloride).
+Methadone hydrochloride is a white, essentially odorless, bitter-tasting crystalline powder.
+It is very soluble in water, soluble in isopropanol and in chloroform, and practically insoluble in ether and in glycerine.
+It is present in methadone hydrochloride tablets for oral suspension as the racemic mixture.
+Methadone hydrochloride has a melting point of 235°C, a pKa of 8.25 in water at 20°C, a solution (1 in 100) pH between 4.5 and 6.5, a partition coefficient of 117 at pH 7.4 in octanol/water and a molecular weight of 345.91.
+Its molecular formula is C21H27NO•HCl and its structural formula is:
+
+The preparation of methadone hydrochloride for oral suspension contains insoluble excipients and must not be injected.
 
 Each Methadone Hydrochloride Tablet for Oral Suspension USP contains:
 
-Methadone Hydrochloride USP...............40 mg (0.116 mmol)
+- Methadone Hydrochloride USP...............40 mg (0.116 mmol)
 
 In addition, each METHADOSE® Dispersible Tablet also contains: dibasic calcium phosphate USP; microcrystalline cellulose NF; magnesium stearate NF; colloidal silicon dioxide NF; pregelatinized starch NF; stearic acid NF.
 

@@ -1,5 +1,6 @@
-CII
+CII Rx only FOR ORAL USE ONLY (Following Dispersion in a Liquid)
 
-For Methadone Treatment Programs
+Regulatory Exceptions to the General Requirement for Certification to Provide Opioid Agonist Treatment:
 
-Rx only
+1. During inpatient care, when the patient was admitted for any condition other than concurrent opioid addiction (pursuant to 21 CFR 1306.07(c)), to facilitate the treatment of the primary admitting diagnosis.
+2. During an emergency period of no longer than 3 days while definitive care for the addiction is being sought in an appropriately licensed facility (pursuant to 21 CFR 1306.07(b)).

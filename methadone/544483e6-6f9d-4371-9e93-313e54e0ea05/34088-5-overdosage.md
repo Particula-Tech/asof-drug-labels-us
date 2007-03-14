@@ -1,24 +1,25 @@
 # OVERDOSAGE
 
-Signs and Symptoms – Methadone is an opioid and produces effects similar to those of morphine.
-Symptoms of overdose begin within seconds after intravenous administration and within minutes of nasal, oral, or rectal administration.
-Prominent symptoms are miosis, respiratory depression, somnolence, coma, cool clammy skin, skeletal muscle flaccidity that may progress to hypotension, apnea, bradycardia, and death.
-Noncardiac pulmonary edema may occur, and monitoring of heart filling pressures may be helpful.
+## Signs and Symptoms
 
-Treatment – To obtain up-to-date information about the treatment of overdose, a good resource is your certified Regional Poison Control Center.
-Telephone numbers of certified poison control centers are listed in the Physicians' Desk Reference®(PDR®).
-In managing overdosage, consider the possibility of multiple drug overdoses, interaction among drugs, and usual drug kinetics in your patient.
+Serious overdosage of methadone is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, maximally constricted pupils, skeletal-muscle flaccidity, cold and clammy skin, and sometimes, bradycardia and hypotension.
+In severe overdosage, particularly by the intravenous route, apnea, circulatory collapse, cardiac arrest, and death may occur.
 
-Initial management of opioid overdose should include establishment of a secure airway and support of ventilation and perfusion.
-Naloxone may be given to antagonize opioid effects, but the airway must be secured as vomiting may ensue.
-The duration of methadone effect is much longer (36 to 48 hours) than the duration of naloxone effect (1 to 3 hours), and repeated doses (or continuous intravenous infusion) of naloxone may be required.
+## Treatment
 
-If the patient has chronically abused opioids, administration of naloxone may precipitate a withdrawal syndrome that may include yawning, tearing, restlessness, sweating, dilated pupils, piloerection, vomiting, diarrhea, and abdominal cramps.
-If these symptoms develop, they should abate quickly as the effects of naloxone dissipate.
+Primary attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
+If a non-tolerant person, takes a large dose of methadone, effective opioid antagonists are available to counteract the potentially lethal respiratory depression.
+The physician must remember, however, that methadone is a long-acting depressant (36 to 48 hours), whereas opioid antagonists act for much shorter periods (one to three hours).
+The patient must, therefore, be monitored continuously for recurrence of respiratory depression and may need to be treated repeatedly with the narcotic antagonist.
+If the diagnosis is correct and respiratory depression is due only to overdosage of methadone, the use of other respiratory stimulants is not indicated.
 
-If methadone has been taken by mouth, protect the patient's airway and support ventilation and perfusion.
-Meticulously monitor and maintain, within acceptable limits, the patient's vital signs, blood gases, serum electrolytes, etc. Absorption of drugs from the gastrointestinal tract may be decreased by giving activated charcoal, which, in many cases, is more effective than emesis or lavage; consider charcoal instead of or in addition to gastric emptying.
-Repeated doses of charcoal over time may hasten elimination of some drugs that have been absorbed.
-Safeguard the patient's airway when employing gastric emptying or charcoal.
+Opioid antagonists should not be administered in the absence of clinically significant respiratory or cardiovascular depression.
+In an individual physically dependent on opioids, the administration of the usual dose of an opioid antagonist may precipitate an acute withdrawal syndrome.
+The severity of this syndrome will depend on the degree of physical dependence and the dose of the antagonist administered.
+If antagonists must be used to treat serious respiratory depression in the physically dependent patient, the antagonist should be administered with extreme care and by titration with smaller than usual doses of the antagonist.
 
-Forced diuresis, peritoneal dialysis, hemodialysis, or charcoal hemoperfusion have not been established as beneficial for an overdose of methadone.
+Intravenously administered naloxone or nalmefene may be used to reverse signs of intoxication.
+Because of the relatively short half-life of naloxone as compared with methadone, repeated injections may be required until the status of the patient remains satisfactory.
+Naloxone may also be administered by continuous intravenous infusion.
+
+Oxygen, intravenous fluids, vasopressors, and other supportive measures should be employed as indicated.

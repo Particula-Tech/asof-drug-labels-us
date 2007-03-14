@@ -1,26 +1,22 @@
-# CONDITIONS FOR DISTRIBUTION AND USE OF METHADONE PRODUCTS:
+Deaths have been reported during initiation of methadone treatment for opioid dependence.
+In some cases, drug interactions with other drugs, both licit and illicit, have been suspected.
+However, in other cases, deaths appear to have occurred due to the respiratory or cardiac effects of methadone and too-rapid titration without appreciation for the accumulation of methadone over time.
+It is critical to understand the pharmacokinetics of methadone and to exercise vigilance during treatment initiation and dose titration (see DOSAGE AND ADMINISTRATION).
+Patients must also be strongly cautioned against self-medicating with CNS depressants during initiation of methadone treatment.
 
-Code of Federal Regulations, Title 21, Sec. 291.505
+Respiratory depression is the chief hazard associated with methadone hydrochloride administration.
+Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects, particularly in the early dosing period.
+These characteristics can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
 
-METHADONE PRODUCTS, WHEN USED FOR THE TREATMENT OF NARCOTIC ADDICTION IN DETOXIFICATION OR MAINTENANCE PROGRAMS, SHALL BE DISPENSED ONLY BY APPROVED HOSPITAL PHARMACIES, APPROVED COMMUNITY PHARMACIES, AND MAINTENANCE PROGRAMS APPROVED BY THE FOOD AND DRUG ADMINISTRATION AND THE DESIGNATED STATE AUTHORITY.
+Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
+Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
 
-APPROVED MAINTENANCE PROGRAMS SHALL DISPENSE AND USE METHADONE IN ORAL FORM ONLY AND ACCORDING TO THE TREATMENT REQUIREMENTS STIPULATED IN THE FEDERAL METHADONE REGULATIONS (21 CFR 291.505).
+## Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction
 
-FAILURE TO ABIDE BY THE REQUIREMENTS IN THESE REGULATIONS MAY RESULT IN CRIMINAL PROSECUTION, SEIZURE OF THE DRUG SUPPLY, REVOCATION OF THE PROGRAM APPROVAL, AND INJUNCTION PRECLUDING OPERATION OF THE PROGRAM.
+Code of Federal Regulations, Title 42, Sec 8
 
-# NOTE
+Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
+Certified treatment programs shall dispense and use methadone in oral form only and according to the treatment requirements stipulated in the Federal Opioid Treatment Standards (42 CFR 8.12).
+See below for important regulatory exceptions to the general requirement for certification to provide opioid agonist treatment.
 
-If methadone is administered for treatment of heroin dependence for more than three weeks, the procedure passes from treatment of the acute withdrawal syndrome (detoxification) to maintenance therapy.
-Maintenance treatment is permitted to be undertaken only by approved methadone programs.
-This does not preclude the maintenance treatment of an addict who is hospitalized for medical conditions other than addiction and who requires temporary maintenance during this critical period of his/her stay or whose enrollment has been verified in a program which has approval for maintenance treatment with methadone.
-
-Methadone hydrochloride tablets are for oral administration only.
-This preparation contains insoluble excipients and therefore must not be injected.
-It is required that the methadone hydrochloride tablets, if dispensed, be packaged in child-resistant containers and kept out of the reach of children to prevent accidental ingestion.
-
-# NOTE
-
-IN AN INDIVIDUAL PHYSICALLY DEPENDENT ON NARCOTICS, THE ADMINISTRATION OF THE USUAL DOSE OF A NARCOTIC ANTAGONIST WILL PRECIPITATE AN ACUTE WITHDRAWAL SYNDROME.
-THE SEVERITY OF THIS SYNDROME WILL DEPEND ON THE DEGREE OF PHYSICAL DEPENDENCE AND THE DOSE OF THE ANTAGONIST ADMINISTERED.
-THE USE OF A NARCOTIC ANTAGONIST IN SUCH A PERSON SHOULD BE AVOIDED IF POSSIBLE.
-IF IT MUST BE USED TO TREAT SERIOUS RESPIRATORY DEPRESSION IN THE PHYSICALLY DEPENDENT PATIENT, THE ANTAGONIST SHOULD BE ADMINISTERED WITH EXTREME CARE AND BY TITRATION WITH SMALLER THAN USUAL DOSES OF THE ANTAGONIST.
+Failure to abide by the requirements in these regulations may result in criminal prosecution, seizure of the drug supply, revocation of the program approval, and injunction precluding operation of the program.
