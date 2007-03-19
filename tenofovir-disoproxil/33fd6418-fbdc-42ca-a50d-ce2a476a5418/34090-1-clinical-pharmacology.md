@@ -1,38 +1,4 @@
-## Microbiology
-
-### Mechanism of Action
-
-Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
-Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate.
-Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase by competing with the natural substrate deoxyadenosine 5'-triphosphate and, after incorporation into DNA, by DNA chain termination.
-Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
-
-### Antiviral Activity In Vitro
-
-The in vitro antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
-The IC50 (50% inhibitory concentration) values for tenofovir were in the range of 0.04 µM to 8.5 µM.
-In drug combination studies of tenofovir with nucleoside reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir), additive to synergistic effects were observed.
-Tenofovir displayed antiviral activity in vitro against HIV-1 clades A, B, C, D, E, F, G and O (IC50 values ranged from 0.5 µM to 2.2 µM).
-The IC50 values of tenofovir against HIV-2 ranged from 1.6 µM to 4.9 µM.
-
-### Drug Resistance
-
-HIV-1 isolates with reduced susceptibility to tenofovir have been selected in vitro.
-These viruses expressed a K65R mutation in reverse transcriptase and showed a 2–4 fold reduction in susceptibility to tenofovir.
-
-Tenofovir-resistant isolates of HIV-1 have also been recovered from some patients treated with tenofovir in combination with certain antiretroviral agents.
-In treatment-naïve patients treated with Viread + lamivudine + efavirenz, viral isolates from 8/47 (17%) patients with virologic failure through week 144 showed reduced susceptibility to tenofovir.
-In treatment-experienced patients, 14/304 (5%) of the VIREAD-treated patients with virologic failure through week 96 showed reduced susceptibility to tenofovir.
-Genotypic analysis of the resistant isolates showed a mutation in the HIV-1 reverse transcriptase gene resulting in the K65R amino acid substitution.
-
-### Cross-resistance
-
-Cross-resistance among certain reverse transcriptase inhibitors has been recognized.
-The K65R mutation selected by tenofovir is also selected in some HIV-1 infected subjects treated with abacavir, didanosine, or zalcitabine.
-HIV isolates with this mutation also show reduced susceptibility to emtricitabine and lamivudine.
-Therefore, cross-resistance among these drugs may occur in patients whose virus harbors the K65R mutation.
-HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated reverse transcriptase mutations (M41L, D67N, K70R, L210W, T215Y/F or K219Q/E/N), showed a 3.1-fold decrease in the susceptibility to tenofovir.
-Multinucleoside resistant HIV-1 with a T69S double insertion mutation in the reverse transcriptase showed reduced susceptibility to tenofovir.
+# CLINICAL PHARMACOLOGY
 
 ## Pharmacokinetics
 
@@ -83,11 +49,10 @@ There were no substantial alterations in tenofovir pharmacokinetics in patients 
 No change in VIREAD dosing is required in patients with hepatic impairment.
 
 The pharmacokinetics of tenofovir are altered in patients with renal impairment (see WARNINGS, Renal Impairment).
-In patients with creatinine clearance <50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 1).
+In patients with creatinine clearance <50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 2).
 It is recommended that the dosing interval for VIREAD be modified in patients with creatinine clearance <50 mL/min or in patients with ESRD who require dialysis (see DOSAGE AND ADMINISTRATION).
 
-Table 1.
-Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Patients with varying Degrees of Renal Function
+Table 2 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Patients with Varying Degrees of Renal Function
 
 | Baseline Creatinine Clearance (mL/min) | >80 (N=3) | 50–80 (N=10) | 30–49 (N=8) | 12–29 (N=11) |
 | --- | --- | --- | --- | --- |
@@ -110,22 +75,21 @@ Coadministration of VIREAD with drugs that are eliminated by active tubular secr
 Drugs that decrease renal function may also increase serum concentrations of tenofovir.
 
 VIREAD has been evaluated in healthy volunteers in combination with abacavir, adefovir dipivoxil, atazanavir, didanosine, efavirenz, emtricitabine, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, and saquinavir/ritonavir.
-Tables 2 and 3 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
+Tables 3 and 4 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
 
-Table 4 summarizes the drug interaction between VIREAD and didanosine.
+Table 5 summarizes the drug interaction between VIREAD and didanosine.
 When administered with multiple doses of VIREAD, the Cmax and AUC of didanosine 400 mg increased significantly.
 The mechanism of this interaction is unknown.
 When didanosine 250 mg enteric-coated capsules were administered with VIREAD, systemic exposures to didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions.
 
-Table 2.
-Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPatients received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
+Table 3 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPatients received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NC = Not Calculated (90% CI) |  |  |
 | Abacavir | 300 once | 8 |  |  | NC |
 | Adefovir dipivoxil | 10 once | 22 |  |  | NC |
-| AtazanavirREYATAZ® Prescribing Information (Bristol-Myers Squibb) | 400 once daily x 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
+| AtazanavirREYATAZ® Prescribing Information (Bristol-Myers Squibb Company) | 400 once daily x 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Didanosine (enteric-coated) | 400 once | 25 |  |  |  |
 | Didanosine (buffered) | 250 or 400 once daily × 7 days | 14 |  |  |  |
 | Efavirenz | 600 once daily × 14 days | 29 |  |  |  |
@@ -138,42 +102,38 @@ Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPatients r
 
 Following multiple dosing to HIV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous studies, indicating lack of clinically significant drug interactions between these agents and VIREAD.
 
-Table 3.
-Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
+Table 4 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NA = Not Applicable (90% CI) |  |  |
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) |  | NA |
 | Adefovir dipivoxil | 10 once | 22 |  |  | NA |
-| Atazanavir REYATAZ Prescribing Information (Bristol-Myers Squibb) | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
+| Atazanavir REYATAZ Prescribing Information (Bristol-Myers Squibb Company) | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected patients, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
 | Efavirenz | 600 once daily × 14 days | 30 |  |  |  |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) |  |  |
 | Lamivudine | 150 twice daily × 7 days | 15 | ↓ 24 (↓ 34 to ↓ 12) |  |  |
-| Lopinavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 |  |  |  |
-| Ritonavir |  |  |  |  |  |
+| Lopinavir Ritonavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 |  |  |  |
 | MethadoneR-(active), S-and total methadone exposures were equivalent when dosed alone or with VIREAD. | 40–110 once daily × 14 daysIndividual subjects were maintained on their stable methadone dose. No pharmacodynamic alterations (opiate toxicity or withdrawal signs or symptoms) were reported. | 13 |  |  |  |
-| Nelfinavir |  |  |  |  |  |
-|  | 1250 twice daily × 14 days | 29 |  |  |  |
+| Nelfinavir | 1250 twice daily × 14 days | 29 |  |  |  |
 | M8 metabolite |  |  |  |  |  |
-| Oral Contraceptives Ethinyl estradiol and 17-deacetyl norgestimate (pharmacologically active metabolite) exposures were equivalent when dosed alone or with VIREAD. | Ethinyl Estradiol/Norgestimate (Ortho-Tricyclen®) Once daily × 7 days | 20 |  |  |  |
-| Ribavirin | 600 once | 22 |  |  |  |
+| Oral Contraceptives Ethinyl estradiol and 17-deacetyl norgestimate (pharmacologically active metabolite) exposures were equivalent when dosed alone or with VIREAD. | Ethinyl Estradiol/Norgestimate (Ortho-Tricyclen®) once daily × 7 days | 20 |  |  |  |
+| Ribavirin | 600 once | 22 |  |  | NA |
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑ 41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir |  |  | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 
-Table 4.
-Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
+Table 5 Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
 
 | Cmax | AUC |  |  |  |
 | --- | --- | --- | --- | --- |
-| DidanosineSee PRECAUTIONS regarding use of didanosine with VIREAD. Dose (mg)/Method of AdministrationAdministration with food was with a light meal (~373 kcal, 20% fat). | VIREAD Method of Administration | N | % Difference (90% CI) vs. Didanosine 400 mg alone, FastedIncrease = ↑; Decrease = ↓; No Difference = |  |
+| DidanosineSee PRECAUTIONS regarding use of didanosine with VIREAD. Dose (mg)/Method of AdministrationAdministration with food was with a light meal (~373 kcal, 20% fat). | VIREAD Method of Administration | N | % Difference (90% CI) vs. Didanosine 400 mg Alone, FastedIncrease = ↑; Decrease = ↓; No Effect = |  |
 | Buffered tablets |  |  |  |  |
 | 400 once daily Includes 4 subjects weighing <60 kg receiving ddI 250 mg.× 7 days | Fasted 1 hour after didanosine | 14 | ↑ 28 (↑ 11 to ↑ 48) | ↑ 44 (↑ 31 to ↑ 59) |
 | Enteric coated capsules |  |  |  |  |
-| 400 once, fasted | With food, 2 hr after didanosine | 26 | ↑ 48 (↑ 25 to ↑ 76) | ↑ 48 (↑ 31 to ↑ 67) |
+| 400 once, fasted | With food, 2 hours after didanosine | 26 | ↑ 48 (↑ 25 to ↑ 76) | ↑ 48 (↑ 31 to ↑ 67) |
 | 400 once, with food | Simultaneously with didanosine | 26 | ↑ 64 (↑ 41 to ↑ 89) | ↑ 60 (↑ 44 to ↑ 79) |
-| 250 once, fasted | With food, 2 hr after didanosine | 28 | ↓ 10 (↓ 22 to ↑ 3) |  |
+| 250 once, fasted | With food, 2 hours after didanosine | 28 | ↓ 10 (↓ 22 to ↑ 3) |  |
 | 250 once, fasted | Simultaneously with didanosine | 28 |  | ↑ 14 (0 to ↑ 31) |
 | 250 once, with food | Simultaneously with didanosine | 28 | ↓ 29 (↓ 39 to ↓ 18) | ↓ 11 (↓ 23 to ↑ 2) |

@@ -7,7 +7,7 @@ Generic Name: tenofovir disoproxil fumarate (te NOE' fo veer dye soe PROX il FYO
 Read this leaflet carefully before you start taking VIREAD.
 Also, read it each time you get your VIREAD prescription refilled, in case something has changed.
 This information does not take the place of talking with your healthcare provider when you start this medicine and at check ups.
-You should stay under a healthcare providers care when taking VIREAD.
+You should stay under a healthcare provider's care when taking VIREAD.
 Do not change or stop your medicine without first talking with your healthcare provider.
 Talk to your healthcare provider if you have any questions about VIREAD.
 
@@ -44,6 +44,7 @@ Together with your healthcare provider, you need to decide whether VIREAD is rig
 Do not take VIREAD if
 
 - you are allergic to VIREAD or any of its ingredients
+- you are already taking TRUVADA because VIREAD is one of the active ingredients in TRUVADA
 
 What should I tell my healthcare provider before taking VIREAD?
 
@@ -61,7 +62,7 @@ Tell your healthcare provider
   VIREAD MAY INCREASE THE AMOUNT OF VIDEX® (DIDANOSINE) IN YOUR BLOOD.
   YOU MAY NEED TO BE FOLLOWED MORE CAREFULLY IF YOU ARE TAKING THESE TWO DRUGS TOGETHER.
   IF YOU ARE TAKING VIDEX (DIDANOSINE) AND VIREAD TOGETHER YOUR HEALTHCARE PROVIDER MAY NEED TO REDUCE YOUR DOSE OF VIDEX (DIDANOSINE).
-  VIREAD MAY DECREASE THE AMOUNT OF REYATAZ® (ATAZANAVIR) IN YOUR BLOOD.
+  VIREAD MAY DECREASE THE AMOUNT OF REYATAZ (ATAZANAVIR) IN YOUR BLOOD.
   IF YOU ARE TAKING VIREAD AND REYATAZ (ATAZANAVIR) TOGETHER YOU SHOULD ALSO BE TAKING NORVIR® (RITONAVIR) IT IS A GOOD IDEA TO KEEP A COMPLETE LIST OF ALL THE MEDICINES THAT YOU TAKE.
   MAKE A NEW LIST WHEN MEDICINES ARE ADDED OR STOPPED.
   GIVE COPIES OF THIS LIST TO ALL OF YOUR HEALTHCARE PROVIDERS EVERY TIME YOU VISIT YOUR HEALTHCARE PROVIDER OR FILL A PRESCRIPTION.
@@ -146,3 +147,10 @@ DO NOT USE THIS MEDICINE FOR A CONDITION FOR WHICH IT WAS NOT PRESCRIBED.
 DO NOT SHARE THIS MEDICINE WITH OTHER PEOPLE.
 
 DO NOT USE IF SEAL OVER BOTTLE OPENING IS BROKEN OR MISSING.
+
+What are the ingredients of VIREAD?
+
+Active Ingredient: tenofovir disoproxil fumarate
+
+Inactive Ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
+The tablets are coated with Opadry II Y-30-10671-A, which contains FD&C blue #2 aluminum lake, hydroxypropyl methylcellulose 2910, lactose monohydrate, titanium dioxide, and triacetin.

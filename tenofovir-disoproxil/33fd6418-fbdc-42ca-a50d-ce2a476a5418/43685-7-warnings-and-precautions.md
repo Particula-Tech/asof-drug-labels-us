@@ -28,11 +28,15 @@ The majority of these cases occurred in patients with underlying systemic or ren
 VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent.
 Patients at risk for, or with a history of, renal dysfunction and patients receiving concomitant nephrotoxic agents should be carefully monitored for changes in serum creatinine and phosphorus.
 
+## Other
+
+VIREAD should not be used in combination with the fixed-dose combination product TRUVADA since it is a component of that product.
+
 # PRECAUTIONS
 
 ## Drug Interactions
 
-When administered with VIREAD, Cmax and AUC of didanosine administered as either the buffered or enteric-coated formulation increased significantly (see Table 4).
+When administered with VIREAD, Cmax and AUC of didanosine administered as either the buffered or enteric-coated formulation increased significantly (see Table 5).
 The mechanism of this interaction is unknown.
 Higher didanosine concentrations could potentiate didanosine-associated adverse events, including pancreatitis and neuropathy.
 In adults weighing >60kg, the didanosine dose should be reduced to 250 mg when it is coadministered with VIREAD.
@@ -59,9 +63,9 @@ Atazanavir without ritonavir should not be coadministered with VIREAD.
 ## Bone Effects
 
 In study 903 through 144 weeks, decreases from baseline in bone mineral density (BMD) were seen at the lumbar spine and hip in both arms of the study.
-At week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in patients receiving VIREAD + lamivudine + efavirenz (-2.2%± 3.9) compared with patients receiving stavudine + lamivudine + efavirenz (-1.0%± 4.6).
+At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in patients receiving VIREAD + lamivudine + efavirenz (-2.2%± 3.9) compared with patients receiving stavudine + lamivudine + efavirenz (-1.0%± 4.6).
 Changes in BMD at the hip were similar between the two treatment groups (-2.8%± 3.5 in the VIREAD group vs. -2.4%± 4.5 in the stavudine group).
-In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through week 144.
+In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through Week 144.
 Twenty-eight percent of VIREAD-treated patients vs. 21% of the stavudine-treated patients lost at least 5% of BMD at the spine or 7% of BMD at the hip.
 Clinically relevant fractures (excluding fingers and toes) were reported in 4 patients in the VIREAD group and 6 patients in the stavudine group.
 In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide and urinary N-telopeptide) in the VIREAD group relative to the stavudine group, suggesting increased bone turnover.
@@ -129,7 +133,7 @@ Because of both the potential for HIV transmission and the potential for serious
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness in patients less than 18 years of age have not been established.
 
 ## Geriatric Use
 
