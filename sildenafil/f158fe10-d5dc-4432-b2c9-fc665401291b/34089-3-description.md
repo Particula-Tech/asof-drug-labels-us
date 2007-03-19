@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-REVATIO™, an oral therapy for pulmonary arterial hypertension, is the citrate salt of sildenafil, a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type-5 (PDE5).
+REVATIO®, an oral therapy for pulmonary arterial hypertension, is the citrate salt of sildenafil, a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type-5 (PDE5).
 Sildenafil is also marketed as VIAGRA® for male erectile dysfunction.
 
 Sildenafil citrate is designated chemically as 1-[[3-(6,7-dihydro-1-methyl-7-oxo-3-propyl-1H-pyrazolo [4,3-d] pyrimidin-5-yl)-4-ethoxyphenyl] sulfonyl]-4-methylpiperazine citrate and has the following structural formula:

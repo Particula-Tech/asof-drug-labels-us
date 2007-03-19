@@ -34,7 +34,7 @@ This metabolite has a phosphodiesterase selectivity profile similar to sildenafi
 In healthy volunteers, plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil, so that the metabolite accounts for about 20% of sildenafil's pharmacologic effects.
 In patients with pulmonary arterial hypertension, however, the ratio of the metabolite to sildenafil is higher.
 Both sildenafil and the active metabolite have terminal half-lives of about 4 hours.
-The concomitant use of potent cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, ketoconazole, itraconazole) as well as the nonspecific CYP inhibitor, cimetidine, is associated with increased plasma levels of sildenafil (see DOSAGE AND ADMINISTRATION and PRECAUTIONS/Drug Interactions).
+The concomitant use of potent cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir ketoconazole, itraconazole) as well as the nonspecific CYP inhibitor, cimetidine, is associated with increased plasma levels of sildenafil (see DOSAGE AND ADMINISTRATION and PRECAUTIONS/Drug Interactions).
 
 After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of the administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose).
 

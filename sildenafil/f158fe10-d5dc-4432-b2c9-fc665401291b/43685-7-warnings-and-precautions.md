@@ -104,7 +104,7 @@ Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by as
 
 Sildenafil (50 mg) did not potentiate the hypotensive effect of alcohol in healthy volunteers with mean maximum blood alcohol levels of 0.08%.
 
-In healthy subjects, co-administration of 125 mg b.i.d. bosentan and 80 mg t.i.d. sildenafil resulted in a 63% decrease in AUC of sildenafil and 50% increase in AUC of bosentan.
+In healthy subjects, co-administration of 125 mg b.i.d. bosentan and 80 mg t.i.d. sildenafil resulted in a 63% decrease in AUC of sildenafil and a 50% increase in AUC of bosentan.
 
 In a study of healthy volunteers, sildenafil (100 mg) did not affect the steady-state pharmacokinetics of the HIV protease inhibitors saquinavir and ritonavir, both of which are CYP3A4 substrates.
 
