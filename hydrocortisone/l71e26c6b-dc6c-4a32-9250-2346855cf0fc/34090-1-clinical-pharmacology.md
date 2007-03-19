@@ -1,0 +1,7 @@
+# CLINICAL PHARMACOLOGY
+
+Topical corticosteroids share anti-inflammatory, anti-pruritic and vasoconstrictive actions.
+
+The mechanism of anti-inflammatory activity of topical corticosteroids is unclear.
+Various laboratory methods, including vasoconstrictor assays, are used to compare and predict potencies and/or clinical efficacies of topical corticosteroids.
+There is some evidence to suggest that a recognizable correlation exists between vasoconstrictor potency and therapeutic efficacy in man.
