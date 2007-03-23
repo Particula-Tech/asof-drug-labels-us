@@ -1,0 +1,13 @@
+# DESCRIPTION
+
+TOPROL-XL, metoprolol succinate, is a beta1-selective (cardioselective) adrenoceptor blocking agent, for oral administration, available as extended release tablets.
+TOPROL-XL has been formulated to provide a controlled and predictable release of metoprolol for once-daily administration.
+The tablets comprise a multiple unit system containing metoprolol succinate in a multitude of controlled release pellets.
+Each pellet acts as a separate drug delivery unit and is designed to deliver metoprolol continuously over the dosage interval.
+The tablets contain 23.75, 47.5, 95 and 190 mg of metoprolol succinate equivalent to 25, 50, 100 and 200 mg of metoprolol tartrate, USP, respectively.
+Its chemical name is (±)1-(isopropylamino)-3-[p-(2-methoxyethyl) phenoxy]-2-propanol succinate (2:1) (salt).
+Its structural formula is:
+
+Metoprolol succinate is a white crystalline powder with a molecular weight of 652.8.
+It is freely soluble in water; soluble in methanol; sparingly soluble in ethanol; slightly soluble in dichloromethane and 2-propanol; practically insoluble in ethyl-acetate, acetone, diethylether and heptane.
+Inactive ingredients: silicon dioxide, cellulose compounds, sodium stearyl fumarate, polyethylene glycol, titanium dioxide, paraffin.
