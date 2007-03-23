@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules is for oral administration once daily in the morning.
+Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules is for oral administration once daily in the morning.
 
 Focalin XR may be swallowed as whole capsules or alternatively may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
 Focalin XR and/or their contents should not be crushed, chewed, or divided.

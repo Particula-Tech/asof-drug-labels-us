@@ -2,7 +2,7 @@
 
 ## Agitation
 
-Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules is contraindicated in patients with marked anxiety, tension, and agitation, since the drug may aggravate these symptoms.
+Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules is contraindicated in patients with marked anxiety, tension, and agitation, since the drug may aggravate these symptoms.
 
 ## Hypersensitivity to Methylphenidate
 

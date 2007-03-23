@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-The effectiveness of Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules in the treatment of ADHD was established in randomized, double-blind, placebo-controlled studies in children and adolescents and in adults who met Diagnostic and Statistical Manual 4th edition (DSM-IV) criteria for ADHD (see INDICATIONS AND USAGE).
+The effectiveness of Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules in the treatment of ADHD was established in randomized, double-blind, placebo-controlled studies in children and adolescents and in adults who met Diagnostic and Statistical Manual 4th edition (DSM-IV) criteria for ADHD (see INDICATIONS AND USAGE).
 
 ## Children and Adolescents
 

@@ -12,7 +12,7 @@ The physician may wish to consider contacting a poison control center for up-to-
 
 As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
 
-When treating overdose, practitioners should bear in mind that there is a prolonged release of dexmethylphenidate from Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules.
+When treating overdose, practitioners should bear in mind that there is a prolonged release of dexmethylphenidate from Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules.
 
 Treatment consists of appropriate supportive measures.
 The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.

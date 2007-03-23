@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients aged 6 years and older.
+Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients aged 6 years and older.
 
 The effectiveness of Focalin XR in the treatment of ADHD in patients aged 6 years and older was established in two placebo-controlled studies in patients meeting DSM-IV criteria for ADHD (see CLINICAL STUDIES).
 
@@ -29,4 +29,4 @@ When remedial measures alone are insufficient, the decision to prescribe stimula
 ## Long-Term Use
 
 The effectiveness of Focalin XR for long-term use, i.e., for more than 7 weeks, has not been systematically evaluated in controlled trials.
-Therefore, the physician who elects to use Focalin XR for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE and ADMINISTRATION).
+Therefore, the physician who elects to use Focalin XR for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).

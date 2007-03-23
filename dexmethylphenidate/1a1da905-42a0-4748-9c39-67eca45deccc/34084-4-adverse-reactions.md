@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules was administered to 46 children and 7 adolescents with ADHD for up to 7 weeks and 206 adults with ADHD in clinical studies.
+Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules was administered to 46 children and 7 adolescents with ADHD for up to 7 weeks and 206 adults with ADHD in clinical studies.
 During the clinical studies, 101 adult patients were treated for at least 6 months.
 
 Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
@@ -9,7 +9,7 @@ In the tables and listings that follow, MedDRA terminology has been used to clas
 The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-## Adverse Events in Acute Clinical Studies with Focalin™ XR – Children
+## Adverse Events in Acute Clinical Studies with Focalin® XR – Children
 
 ### Adverse Events Associated with Discontinuation of Treatment
 
@@ -17,7 +17,7 @@ Overall, 50 of 684 children treated with Focalin immediate-release formulation (
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
 None of the 53 Focalin XR-treated pediatric patients discontinued treatment due to adverse events in the 7-week placebo-controlled study.
 
-### Adverse Events Occurring at an Incidence of 5% or More Among Focalin™ XR-Treated Patients
+### Adverse Events Occurring at an Incidence of 5% or More Among Focalin® XR-Treated Patients
 
 Table 1 enumerates treatment-emergent adverse events for the placebo-controlled, parallel-group study in children and adolescents with ADHD at flexible Focalin XR doses of 5-30 mg/day.
 The table includes only those events that occurred in 5% or more of patients treated with Focalin XR and for which the incidence in patients treated with Focalin XR was at least twice the incidence in placebo-treated patients.
@@ -26,9 +26,9 @@ Similarly, the cited frequencies cannot be compared with figures obtained from o
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
 Table 1.
-Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment– Pediatric Patients
+Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Pediatric Patients
 
-|  | Focalin™ XR N=53 | Placebo N=47 |
+|  | Focalin®™XR N=53 | Placebo N=47 |
 | --- | --- | --- |
 | No. of Patients with AEs |  |  |
 | Total | 76% | 57% |
@@ -45,14 +45,14 @@ Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment– Pe
 1 Events, regardless of causality, for which the incidence for patients treated with Focalin XR was at least 5% and twice the incidence among placebo-treated patients.
 Incidence has been rounded to the nearest whole number.
 
-## Adverse Events in Clinical Studies with Focalin™ XR – Adults
+## Adverse Events in Clinical Studies with Focalin® XR – Adults
 
 ### Adverse Events Associated with Discontinuation of Treatment
 
 In the adult placebo-controlled study, 10.7% of the Focalin XR-treated patients and 7.5% of the placebo-treated patients discontinued for adverse events.
 Among Focalin XR-treated patients, insomnia (1.8%, n=3), feeling jittery (1.8%, n=3), anorexia (1.2%, n=2), and anxiety (1.2%, n=2) were the reasons for discontinuation reported by more than 1 patient.
 
-### Adverse Events Occurring at an Incidence of 5% or More Among Focalin™ XR-Treated Patients
+### Adverse Events Occurring at an Incidence of 5% or More Among Focalin® XR-Treated Patients
 
 Table 2 enumerates treatment-emergent adverse events for the placebo-controlled, parallel-group study in adults with ADHD at fixed Focalin XR doses of 20, 30, and 40 mg/day.
 The table includes only those events that occurred in 5% or more of patients in a Focalin XR dose group and for which the incidences in patients treated with Focalin XR appeared to increase with dose.
@@ -61,9 +61,9 @@ Similarly, the cited frequencies cannot be compared with figures obtained from o
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
 Table 2.
-Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment– Adults
+Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Adults
 
-|  | Focalin™ XR 20 mg N=57 | Focalin™ XR 30 mg N=54 | Focalin™ XR 40 mg N=54 | Placebo N=53 |
+|  | Focalin® XR 20 mg N=57 | Focalin® XR 30 mg N=54 | Focalin® XR 40 mg N=54 | Placebo N=53 |
 | --- | --- | --- | --- | --- |
 | No. of Patients with AEs |  |  |  |  |
 | Total | 84% | 94% | 85% | 68% |
@@ -88,7 +88,7 @@ Table 3 summarizes changes in vital signs and weight that were recorded in the a
 Table 3.
 Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose During Double-Blind Treatment – Adults
 
-|  | Focalin™ XR 20 mg (N=57) | Focalin™ XR 30 mg (N=54) | Focalin™ XR 40 mg (N=54) | Placebo (N=53) |
+|  | Focalin® XR 20 mg (N=57) | Focalin® XR 30 mg (N=54) | Focalin® XR 40 mg (N=54) | Placebo (N=53) |
 | --- | --- | --- | --- | --- |
 | Pulse (bpm) | 3.1 ± 11.1 | 4.3 ± 11.7 | 6.0 ± 10.1 | -1.4 ± 9.3 |
 | Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |

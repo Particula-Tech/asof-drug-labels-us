@@ -1,11 +1,12 @@
 {
   "application_numbers": [],
   "inn": "dexmethylphenidate",
-  "labeler": "",
+  "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0430-05",
     "0078-0431-05",
-    "0078-0432-05"
+    "0078-0432-05",
+    "0078-0493-05 "
   ],
   "products": [],
   "setid": "1a1da905-42a0-4748-9c39-67eca45deccc",

@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-Dexmethylphenidate hydrochloride, the active ingredient in Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules, is a central nervous system stimulant.
+Dexmethylphenidate hydrochloride, the active ingredient in Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules, is a central nervous system stimulant.
 Dexmethylphenidate, the more pharmacologically active d-enantiomer of racemic methylphenidate, is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
 
@@ -70,7 +70,7 @@ Children tend to have slightly shorter half-lives with means of 2–3 hours.
 ### Gender
 
 After administration of Focalin XR the first peak, (Cmax1), was on average 45% higher in women.
-The inter-peak minimum and the second peak also tended to be slightly higher in women although the difference was not statistically significant, and these patterns remained even after weight normalization.
+The interpeak minimum and the second peak also tended to be slightly higher in women although the difference was not statistically significant, and these patterns remained even after weight normalization.
 Pharmacokinetic parameters for dexmethylphenidate after Focalin immediate-release tablets were similar for boys and girls.
 
 ### Race

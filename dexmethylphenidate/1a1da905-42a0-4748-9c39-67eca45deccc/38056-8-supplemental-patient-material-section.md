@@ -1,8 +1,8 @@
-## INFORMATION FOR PATIENTS TAKING FOCALIN™ XR, OR FOR THEIR PARENTS OR CAREGIVERS
+## INFORMATION FOR PATIENTS TAKING FOCALIN® XR, OR FOR THEIR PARENTS OR CAREGIVERS
 
 Once Daily
 
-| Focalin™ XR (dexmethylphenidate hydrochloride) extended-release capsules |  |
+| Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules |  |
 | --- | --- |
 
 This information for patients or their parents or caregivers is about Focalin XR.
@@ -14,9 +14,9 @@ If you have any questions about this information or about Focalin XR, talk to yo
 WHAT IS FOCALIN XR?
 
 Focalin XR is a once-a-day treatment for Attention Deficit Hyperactivity Disorder, or ADHD.
-Focalin XR contains the drug dexmethylphenidate (Focalin™), a central nervous system stimulant.
+Focalin XR contains the drug dexmethylphenidate (Focalin®), a central nervous system stimulant.
 Dexmethylphenidate hydrochloride is also found in methylphenidate which has been used to treat ADHD for more than 30 years.
-Focalin XR is available as 5, 10, and 20 mg extended-release capsules.
+Focalin XR is available as 5, 10, 15, and 20 mg extended-release capsules.
 Focalin XR is taken by mouth, once each day in the morning, before breakfast.
 
 WHAT IS ATTENTION DEFICIT HYPERACTIVITY DISORDER?
@@ -42,7 +42,8 @@ It is important to remember that Focalin XR is only part of the overall manageme
 Parents, teachers, physicians and other professionals are part of a team that must work together.
 
 Before Focalin XR treatment, your doctor should be made aware of any current or past physical or mental problems.
-Tell your doctor if there is a history of drug or alcohol abuse, depression, psychosis, epilepsy or seizure disorders, high blood pressure, glaucoma, facial tics (involuntary movements), or a family history of Tourette’s syndrome.
+Tell your doctor if there is a history of drug or alcohol abuse, depression, bipolar disorder, psychosis, epilepsy or seizure disorders, high blood pressure, heart defects, irregular heart rhythms, other heart problems, glaucoma, and facial tics (involuntary movements).
+Also tell your doctor if there is a family history of sudden death, irregular heart rhythm, suicide, bipolar disorder, depression or Tourette’s syndrome.
 
 Both your doctor and your pharmacist should also be informed of all medicines that you are taking, even if these drugs are not taken on a regular basis and are available without prescription.
 Your doctor will decide whether you can take Focalin XR with other medicines.
@@ -56,6 +57,7 @@ WHO SHOULD NOT TAKE FOCALIN XR?
 
 You should NOT take FOCALIN XR if:
 
+- You have known serious heart defects, serious heart rhythm irregularities, or other serious heart problems.
 - You have significant anxiety, tension, or agitation since FOCALIN XR may make these conditions worse.
 - You are allergic to methylphenidate or any of the other ingredients in FOCALIN XR.
 - You have glaucoma, an eye disease.
@@ -98,6 +100,7 @@ Dependence
 
 Abuse of dexmethylphenidate can lead to dependence.
 Tell your doctor if you have ever abused or been dependent on alcohol or drugs, or if you are now abusing or dependent on alcohol or drugs.
+Misuse of stimulants may be associated with sudden death and serious cardiovascular adverse events.
 
 Blurred Vision
 
@@ -118,13 +121,16 @@ WHAT MUST I DISCUSS WITH MY DOCTOR BEFORE TAKING FOCALIN XR?
 
 Talk to your doctor before taking FOCALIN XR if you:
 
-- Are being treated for depression or have symptoms of depression such as feelings of sadness, worthlessness, and hopelessness.
+- Have high blood pressure.
+- Have an abnormal heart rate or rhythm.
+- Have had any other current or previous heart problems.
+- Have a family history of sudden death or heart rhythm problems.
+- Are being treated for depression or bipolar disorder, or have symptoms of depression such as feelings of sadness, worthlessness, and hopelessness.
+- Have a family history of suicide, bipolar disorder or depression.
 - Have motion tics (hard-to-control, repeated twitching of any parts of your body) or verbal tics (hard-to-control repeating of sounds or words).
 - Have someone in your family with motion tics, verbal tics, or Tourette’s syndrome.
 - Have abnormal thoughts or visions, hear abnormal sounds, or have been diagnosed with psychosis.
 - Have had seizures (convulsions, epilepsy) or abnormal EEGs (electroencephalograms).
-- Have high blood pressure.
-- Have an abnormal heart rate or rhythm.
 
 Tell your doctor immediately if you develop any of the above conditions or symptoms while taking Focalin XR.
 
@@ -187,10 +193,9 @@ You can ask your pharmacist or doctor for information about Focalin XR that is w
 
 You can also call 1-888-NOW-NOVA (1-888-669-6682).
 
-MAY 2005 T2005-35
+REV: AUGUST 2006 T2006-78
 
-REV.
-APRIL 2006 T2006-41/T2005-35
+REV: AUGUST 2006 T2006-77/T2006-78
 
 Manufactured for
 
