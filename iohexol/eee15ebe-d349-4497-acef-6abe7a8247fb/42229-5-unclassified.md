@@ -3,6 +3,9 @@ Section I — Intrathecal Section II — Intravascular Section III — Oral/Body
 | 140 | 350 | NOT FOR INTRATHECAL USE |
 | --- | --- | --- |
 
+| OMNIPAQUE in REDIFLO™ (prefilled cartridges) NOT FOR INTRATHECAL USE |
+| --- |
+
 Rx ONLY
 
 # SECTION I
@@ -12,7 +15,7 @@ Rx ONLY
 Iohexol is absorbed from cerebrospinal fluid (CSF) into the bloodstream and is eliminated by renal excretion.
 No significant metabolism, deiodination, or biotransformation occurs.
 
-In five adult patients receiving 16 to 18 millilite rs of iohexol (180 mgI/mL) by lumbar intrathecal injection, approximately 88 (73.1-98.2) percent of the injected dose was excreted in the urine within the first 24 hours after administration.
+In five adult patients receiving 16 to 18 milliliters of iohexol (180 mgI/mL) by lumbar intrathecal injection, approximately 88 (73.1-98.2) percent of the injected dose was excreted in the urine within the first 24 hours after administration.
 The renal and body clearances were 99 (47-137) milliliters per minute and 109 (52-138) milliliters per minute.
 The mean maximal plasma concentration was 119 (72-177) micrograms of iohexol per milliliter and occurred after 3.8 (2-6) hours.
 The volume of distribution was 557 (350-849) milliliters per kilogram.
@@ -386,7 +389,7 @@ OMNIPAQUE 300 Vials of 10 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-10)
 
 Storage: Protect vials of OMNIPAQUE from strong daylight and direct exposure to sunlight.
 Do not freeze.
-Omnipaque should be stored at controlled room temperature, 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature]..
+Omnipaque should be stored at controlled room temperature, 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 # SECTION II
 
@@ -1123,7 +1126,7 @@ Skin and Appendages Incidence > 1%: Swelling (22%), heat (7%) Incidence ≤ 1%: 
 The most frequent reactions, pain and swelling, were almost exclusively reported after arthrography and were generally related to the procedure rather than the contrast medium.
 Gastrointestinal reactions were almost exclusively reported after oral pass-thru examinations.
 For additional information on adverse reactions that may be expected with specific procedures, see INDIVIDUAL INDICATIONS AND USAGE.
-For information on general adverse reactions to contrast media, see SECTION I I, ADVERSE REACTIONS: Intravascular—General.
+For information on general adverse reactions to contrast media, see SECTION II, ADVERSE REACTIONS: Intravascular—General.
 
 No adverse reactions associated with the use of OMNIPAQUE for VCU procedures were reported in 51 pediatric patients studied.
 
@@ -1394,34 +1397,37 @@ Gastrointestinal system: Diarrhea (3%) and flatulence (10%).
 
 The recommended dosage of OMNIPAQUE 240 is 50 mL but may vary depending on individual anatomy and/or disease state.
 
-DO NOT USE FLEXIBLE CONTAINER IN SERIES CONNECTIONS.
-
 ## HOW SUPPLIED
 
 OMNIPAQUE 140 Vials of 50 mL, 140 mgI/mL, boxes of 10 (NDC 0407-1401-50) 50 mL bottle with hanger, 140 mgI/mL, boxes of 10 (NDC 0407-1401-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1401-52)
 
-OMNIPAQUE 240 Vials of 10 mL, 240 mgI/mL, boxes of 10 (NDC 0407-1412-10) Vials of 20 mL, 240 mgI/mL, boxes of 10 (NDC 0407-1412-20) Vials of 50 mL, 240 mgI/mL, boxes of 10 (NDC 0407-1412-50) 50 mL bottle with hanger, 240 mgI/mL, boxes of 10 (NDC 0407-1412-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-30) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-32) 100 mL fill in 100 mL bottle with hanger, 240 mgI/mL, boxes of 10 (NDC 0407-1412-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-33) 150 mL fill in 200 mL bottle with hanger, 240 mgI/mL, boxes of 10 (NDC 0407-1412-49) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-34) 200 mL fill in 200 mL bottle with hanger, 240 mgI/mL, boxes of 10 (NDC 0407-1412-17) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-35) 100 mL flexible container, 240 mgI/mL, boxes of 10 (NDC 0407-1412-70) 150 mL flexible container, 240 mgI/mL, boxes of 10 (NDC 0407-1412-75) 200 mL flexible container, 240 mgI/mL, boxes of 10 (NDC 0407-1412-72) 50 mL prefilled syringe, 240 mgI/mL, boxes of 10 (NDC 0407-1412-24) 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1412-89) FLS-1 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1412-91) FLS-1 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1412-90) FLS-1
+OMNIPAQUE 240 Vials of 10 mL, 240 mgI/mL, boxes of 10 (NDC 0407-1412-10) Vials of 20 mL, 240 mgI/mL, boxes of 10 (NDC 0407-1412-20) Vials of 50 mL, 240 mgI/mL, boxes of 10 (NDC 0407-1412-50) 50 mL bottle with hanger, 240 mgI/mL, boxes of 10 (NDC 0407-1412-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-30) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-32) 100 mL fill in 100 mL bottle with hanger, 240 mgI/mL, boxes of 10 (NDC 0407-1412-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-33) 150 mL fill in 200 mL bottle with hanger, 240 mgI/mL, boxes of 10 (NDC 0407-1412-49) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-34) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-35) 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1412-91) FLS-1 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1412-90) FLS-1
 
-OMNIPAQUE 300 Vials of 10 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-10) Vials of 30 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-30) Vials of 50 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-50) 50 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-61) 75 mL fill in 100 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-52) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-62) 100 mL fill in 100 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-63) 125 mL fill in 200 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-53) 150 mL fill in 200 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-90) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-65) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-66) 100 mL flexible container, 300 mgI/mL, boxes of 10 (NDC 0407-1413-80) 125 mL fill in 150 mL flexible container, 300 mgI/mL, boxes of 10 (NDC 0407-1413-84) 150 mL flexible container, 300 mgI/mL, boxes of 10 (NDC 0407-1413-85) 50 mL prefilled syringe, 300 mgI/mL, boxes of 10 (NDC 0407-1413-25) 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-70) FLS-1 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-71) FLS-1 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-72) FLS-1
+OMNIPAQUE 300 Vials of 10 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-10) Vials of 30 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-30) Vials of 50 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-50) 50 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-61) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-62) 100 mL fill in 100 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-63) 125 mL fill in 200 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-53) 150 mL fill in 200 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-90) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-65) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-66) 50 mL prefilled syringe, 300 mgI/mL, boxes of 10 (NDC 0407-1413-25) 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-70) FLS-1 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-74) FLS-2 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-71) FLS-1 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-75) FLS-2 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-72) FLS-1 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-76) FLS-2
 
-OMNIPAQUE 350 Vials of 50 mL, 350 mgI/mL, boxes of 10 (NDC 0407-1414-50) 50 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-89) 75 mL fill in 100 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-75) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-90) 100 mL fill in 100 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-91) 125 mL fill in 200 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-76) 150 mL fill in 200 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-03) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-93) 200 mL fill in 200 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-04) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-94) 250 mL fill in 300 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-80) 100 mL flexible container, 350 mgI/mL, boxes of 10 (NDC 0407-1414-61) 125 mL fill in 150 mL flexible container, 350 mgI/mL, boxes of 10 (NDC 0407-1414-67) 150 mL flexible container, 350 mgI/mL, boxes of 10 (NDC 0407-1414-65) 200 mL flexible container, 350 mgI/mL, boxes of 10 (NDC 0407-1414-62) 50 mL prefilled syringe, 350 mgI/mL, boxes of 10 (NDC 0407-1414-26) 75 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-30) FLS-1 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-31) FLS-1 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-32) FLS-1 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-33) FLS-1
+OMNIPAQUE 350 Vials of 50 mL, 350 mgI/mL, boxes of 10 (NDC 0407-1414-50) 50 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-89) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-90) 100 mL fill in 100 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-91) 125 mL fill in 200 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-76) 150 mL fill in 200 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-03) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-93) 200 mL fill in 200 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-04) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-94) 250 mL fill in 300 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-80) 50 mL prefilled syringe, 350 mgI/mL, boxes of 10 (NDC 0407-1414-26) 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-31) FLS-1 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-36) FLS-2 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-32) FLS-1 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-37) FLS-2
 
-Power injector prefilled cartridges are supplied with connector tubing.
+REDIFLO™ (prefilled cartridges) FLS-1 are supplied with connector tubing.
 
-### SPECIAL HANDLING AND STORAGE FOR POLYMER BOTTLES ONLY:
+REDIFLO™ (prefilled cartridges) FLS-1 are covered under one or more of the following U.S. Patents Numbers: 5,383,858, 5,997,502, 6,322,535, and 6,402,718.
+
+REDIFLO™ (prefilled cartridges) FLS-2 are covered under U.S. Patents Number 6,652,489.
+
+SPECIAL HANDLING AND STORAGE FOR POLYMER BOTTLES ONLY:
 
 DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING.
 
-Protect vials, glass and polymer bottles, and flexible containers of OMNIPAQUE from strong daylight and direct exposure to sunlight.
+Protect vials and glass or polymer bottles of OMNIPAQUE from strong daylight and direct exposure to sunlight.
 Do not freeze.
 Omnipaque should be stored at controlled room temperature, 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
-DO NOT OPEN FOIL OVERWRAP, WHICH SERVES AS A MOISTURE AND LIGHT BARRIER, FROM FLEXIBLE CONTAINERS UNTIL IMMEDIATELY BEFORE INJECTING.
+Distributed by GE Healthcare Inc. Princeton, NJ 08540
 
-Distributed by Amersham Health Inc. Princeton, NJ 08540
+Manufactured by GE Healthcare AS Oslo, Norway
 
-Manufactured by Amersham Health AS Oslo, Norway
+OMNIPAQUE is a trademark of GE Healthcare.
+GE and the GE Monogram are trademarks of General Electric Company.
 
-Printed in Ireland
+Rev May 2006
 
-ONC-1J-OSLO
+ONC-1M-OSLO
