@@ -13,7 +13,7 @@ Large bowel endoscopy should be considered to establish a definitive diagnosis i
 
 Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen the condition.
 Vancomycin has been found to be effective in the treatment of antibiotic-associated pseudomembranous colitis produced byClostridium difficile.
-The usual adult dosage is 500 mg to 2 grams of vancomycin orally per day in three to four divided doses administered for 7 to 10 days.Cholestyramine or colestipol resins bind vancomycinin vitro.
+The usual adult dosage is 500 mg to 2 grams of vancomycin orally per day in three to four divided doses administered for 7 to 10 days.Cholestyramine or colestipol resins bind vancomycin in vitro.
 If both a resin and vancomycin are to be administered concurrently, it may be advisable to separate the time of administration of each drug.
 
 Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up to several weeks following cessation of oral and parenteral therapy with clindamycin.
