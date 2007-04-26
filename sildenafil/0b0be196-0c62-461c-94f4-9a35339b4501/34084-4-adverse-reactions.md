@@ -1,0 +1,85 @@
+# ADVERSE REACTIONS
+
+## PRE-MARKETING EXPERIENCE
+
+VIAGRA was administered to over 3700 patients (aged 19–87 years) during clinical trials worldwide.
+Over 550 patients were treated for longer than one year.
+
+In placebo-controlled clinical studies, the discontinuation rate due to adverse events for VIAGRA (2.5%) was not significantly different from placebo (2.3%).
+The adverse events were generally transient and mild to moderate in nature.
+
+In trials of all designs, adverse events reported by patients receiving VIAGRA were generally similar.
+In fixed-dose studies, the incidence of some adverse events increased with dose.
+The nature of the adverse events in flexible-dose studies, which more closely reflect the recommended dosage regimen, was similar to that for fixed-dose studies.
+
+When VIAGRA was taken as recommended (on an as-needed basis) in flexible-dose, placebo-controlled clinical trials, the following adverse events were reported:
+
+TABLE 2.
+ADVERSE EVENTS REPORTED BY ≥2% OF PATIENTS TREATED WITH VIAGRA AND MORE FREQUENT ON DRUG THAN PLACEBO IN PRN FLEXIBLE-DOSE PHASE II/III STUDIES
+
+|  | VIAGRA N=734 | PLACEBO N=725 |
+| --- | --- | --- |
+| Adverse Event | Percentage of Patients Reporting Event |  |
+| Headache | 16% | 4% |
+| Flushing | 10% | 1% |
+| Dyspepsia | 7% | 2% |
+| Nasal Congestion | 4% | 2% |
+| Urinary Tract Infection | 3% | 2% |
+| Abnormal VisionAbnormal Vision: Mild and transient, predominantly color tinge to vision, but also increased sensitivity to light or blurred vision. In these studies, only one patient discontinued due to abnormal vision. | 3% | 0% |
+| Diarrhea | 3% | 1% |
+| Dizziness | 2% | 1% |
+| Rash | 2% | 1% |
+
+Other adverse reactions occurred at a rate of >2%, but equally common on placebo: respiratory tract infection, back pain, flu syndrome, and arthralgia.
+
+In fixed-dose studies, dyspepsia (17%) and abnormal vision (11%) were more common at 100 mg than at lower doses.
+At doses above the recommended dose range, adverse events were similar to those detailed above but generally were reported more frequently.
+
+The following events occurred in <2% of patients in controlled clinical trials; a causal relationship to VIAGRA is uncertain.
+Reported events include those with a plausible relation to drug use; omitted are minor events and reports too imprecise to be meaningful:
+
+Body as a whole: face edema, photosensitivity reaction, shock, asthenia, pain, chills, accidental fall, abdominal pain, allergic reaction, chest pain, accidental injury.
+
+Cardiovascular: angina pectoris, AV block, migraine, syncope, tachycardia, palpitation, hypotension, postural hypotension, myocardial ischemia, cerebral thrombosis, cardiac arrest, heart failure, abnormal electrocardiogram, cardiomyopathy.
+
+Digestive: vomiting, glossitis, colitis, dysphagia, gastritis, gastroenteritis, esophagitis, stomatitis, dry mouth, liver function tests abnormal, rectal hemorrhage, gingivitis.
+
+Hemic and Lymphatic: anemia and leukopenia.
+
+Metabolic and Nutritional: thirst, edema, gout, unstable diabetes, hyperglycemia, peripheral edema, hyperuricemia, hypoglycemic reaction, hypernatremia.
+
+Musculoskeletal: arthritis, arthrosis, myalgia, tendon rupture, tenosynovitis, bone pain, myasthenia, synovitis.
+
+Nervous: ataxia, hypertonia, neuralgia, neuropathy, paresthesia, tremor, vertigo, depression, insomnia, somnolence, abnormal dreams, reflexes decreased, hypesthesia.
+
+Respiratory: asthma, dyspnea, laryngitis, pharyngitis, sinusitis, bronchitis, sputum increased, cough increased.
+
+Skin and Appendages: urticaria, herpes simplex, pruritus, sweating, skin ulcer, contact dermatitis, exfoliative dermatitis.
+
+Special Senses: mydriasis, conjunctivitis, photophobia, tinnitus, eye pain, deafness, ear pain, eye hemorrhage, cataract, dry eyes.
+
+Urogenital: cystitis, nocturia, urinary frequency, breast enlargement, urinary incontinence, abnormal ejaculation, genital edema and anorgasmia.
+
+## POST-MARKETING EXPERIENCE
+
+### Cardiovascular and cerebrovascular
+
+Serious cardiovascular, cerebrovascular, and vascular events, including myocardial infarction, sudden cardiac death, ventricular arrhythmia, cerebrovascular hemorrhage, transient ischemic attack, hypertension, subarachnoid and intracerebral hemorrhages, and pulmonary hemorrhage have been reported post-marketing in temporal association with the use of VIAGRA.
+Most, but not all, of these patients had preexisting cardiovascular risk factors.
+Many of these events were reported to occur during or shortly after sexual activity, and a few were reported to occur shortly after the use of VIAGRA without sexual activity.
+Others were reported to have occurred hours to days after the use of VIAGRA and sexual activity.
+It is not possible to determine whether these events are related directly to VIAGRA, to sexual activity, to the patient's underlying cardiovascular disease, to a combination of these factors, or to other factors (see WARNINGS for further important cardiovascular information).
+
+### Other events
+
+Other events reported post-marketing to have been observed in temporal association with VIAGRA and not listed in the pre-marketing adverse reactions section above include:
+
+Nervous: seizure and anxiety.
+
+Urogenital: prolonged erection, priapism (see WARNINGS), and hematuria.
+
+Special Senses: diplopia, temporary vision loss/decreased vision, ocular redness or bloodshot appearance, ocular burning, ocular swelling/pressure, increased intraocular pressure, retinal vascular disease or bleeding, vitreous detachment/traction, paramacular edema and epistaxis.
+
+Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely post-marketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including VIAGRA.
+Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors (see PRECAUTIONS/Information for Patients).
