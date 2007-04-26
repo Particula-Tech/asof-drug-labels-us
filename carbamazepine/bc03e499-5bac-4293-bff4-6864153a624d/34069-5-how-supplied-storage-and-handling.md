@@ -16,5 +16,6 @@ Supplied in bottles of 120............................NDC 54092-172-12
 Supplied in bottles of 120............................NDC 54092-173-12
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP controlled room temperature].
+PROTECT FROM LIGHT AND MOISTURE.
 
-Manufactured for: Shire US Inc. 725 Chesterbrook Blvd, Wayne PA 19087 1-800-828-2088, Made in U.S.A. © 2005 Shire US Inc. 001724 172 1207 006
+Manufactured for: Shire US Inc. 725 Chesterbrook Blvd, Wayne PA 19087 1-800-828-2088, Made in U.S.A. © 2005 Shire US Inc. 001724 172 1207 010 (Rev 7/2006)

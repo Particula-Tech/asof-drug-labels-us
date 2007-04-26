@@ -113,7 +113,7 @@ Carbamazepine is metabolized by CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent that induces CYP3A4.
 Agents that are CYP inducers that have been found, or are expected, to decrease plasma levels of Carbatrol® are the following:
 
-Cisplastin, doxorubicin HCL, felbamate, rifampin, phenobarbital, phenytoin(2), primidone, methsuximide, and theophylline
+Cisplatin, doxorubicin HCL, felbamate, rifampin, phenobarbital, phenytoin(2), primidone, methsuximide, and theophylline
 
 (2)Phenytoin plasma levels have also been reported to increase and decrease in the presence of carbamazepine, see below.
 
@@ -125,14 +125,16 @@ Carbamazepine is known to induce CYP1A2 and CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent metabolized by one (or more) of these enzymes.
 Agents that have been found, or are expected to have decreased plasma levels in the presence of Carbatrol® due to induction of CYP enzymes are the following:
 
-Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nortriptyline, olanzapine, oral contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, valproate, warfarin(5), ziprasidone, and zonisamide.
+Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nortriptyline, olanzapine, oral contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(5), valproate, warfarin(6), ziprasidone, and zonisamide.
 
 (3)Break through bleeding has been reported among patients receiving concomitant oral contraceptives and their reliability may be adversely affected.
 
 (4)Phenytoin has also been reported to increase in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.
 
-(5)Warfarin’s anticoagulant effect can be reduced in the presence of carbamazepine.
+(5)Following co-administration of carbamazepine 400mg/day with trazodone 100mg to 300mg daily, carbamazepine reduced trough plasma concentrations of trazodone (as well as meta-chlorophenylpiperazine [mCPP]) by 76 and 60% respectively, compared to precarbamazepine values.
+
+(6)Warfarin’s anticoagulant effect can be reduced in the presence of carbamazepine.
 
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with Carbatrol®, it is reasonable to expect that a dose increase for the concomitant agent may be necessary.
 
@@ -140,9 +142,9 @@ Thus, if a patient has been titrated to a stable dosage on one of the agents in 
 
 Carbatrol® increases the plasma levels of the following agents:
 
-Clomipramine HCl, phenytoin(6), and primidone
+Clomipramine HCl, phenytoin(7), and primidone
 
-(6)Phenytoin has also been reported to decrease in the presence of carbamazepine.
+(7)Phenytoin has also been reported to decrease in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.
 
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of the treatment with Carbatrol®, it is reasonable to expect that a dose decrease for the concomitant agent may be necessary.

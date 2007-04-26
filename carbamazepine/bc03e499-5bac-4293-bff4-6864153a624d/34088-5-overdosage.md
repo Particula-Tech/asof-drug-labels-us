@@ -27,7 +27,7 @@ Gastrointestinal Tract: Nausea, vomiting.
 Kidneys and Bladder: Anuria or oliguria, urinary retention
 
 Laboratory Findings: Isolated instances of overdosage have included leukocytosis, reduced leukocyte count, glycosuria, and acetonuria.
-EEG may show dysrhythmias.
+ECG may show dysrhythmias.
 
 Combined Poisoning: When alcohol, tricyclic antidepressants, barbiturates, or hydantoins are taken at the same time, the signs and symptoms of acute poisoning with carbamazepine may be aggravated or modified.
 
