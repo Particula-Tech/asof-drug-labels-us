@@ -1,9 +1,9 @@
-T2006-77
+T2007-22
 
-Focalin® XR
+Focalin® XR CII
 
-| (dexmethylphenidate hydrochloride) extended-release capsules |  |
-| --- | --- |
+| (dexmethylphenidate hydrochloride) extended-release capsules |
+| --- |
 
 Rx only
 

@@ -76,8 +76,11 @@ Periodic CBC, differential, and platelet counts are advised during prolonged the
 
 ## Information for Patients
 
-Patient information is provided at the end of this insert.
-To assure safe and effective use of Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules, the patient information should be discussed with patients.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with dexmethylphenidate and should counsel them in its appropriate use.
+A patient Medication Guide is available for Focalin XR.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+The complete text of the Medication Guide is reprinted at the end of this document.
 
 ## Drug Interactions
 
