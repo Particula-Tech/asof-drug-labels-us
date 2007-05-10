@@ -4,10 +4,10 @@
 
 ## Sudden Death in Patients with Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
-Children and Adolescents– Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
+Children and Adolescents – Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
 Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug.
 
-Adults– Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
+Adults – Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Adults with such abnormalities should also generally not be treated with stimulant drugs (seeCONTRAINDICATIONS).
 
@@ -24,16 +24,16 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 
 ## Psychiatric Adverse Events
 
-Pre-Existing Psychosis– Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Pre-Existing Psychosis – Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
-Bipolar Illness– Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
+Bipolar Illness – Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
 Prior to initiating treatment with a stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 
-Emergence of New Psychotic or Manic Symptoms– Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
+Emergence of New Psychotic or Manic Symptoms – Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
 In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3,482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
 
-Aggression– Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
+Aggression – Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
 Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of, or worsening of, aggressive behavior or hostility.
 
 ## Long-Term Suppression of Growth
@@ -112,7 +112,8 @@ Carcinogenesis/Mutagenesis– Mutagenicity studies and long-term studies in anim
 
 ## Pregnancy
 
-Teratogenic Effects.Pregnancy Category C - Dextroamphetamine sulfate extended-release capsules have been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
+Teratogenic Effects.
+Pregnancy Category C - Dextroamphetamine sulfate extended-release capsules have been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (VATER association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
 Dextroamphetamine sulfate extended-release capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

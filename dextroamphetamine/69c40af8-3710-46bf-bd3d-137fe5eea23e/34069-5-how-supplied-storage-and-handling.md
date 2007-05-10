@@ -17,10 +17,8 @@ Dispense in a tight, light-resistant container with a child-resistant closure.
 
 Dextroamphetamine Sulfate Extended-Release Capsules are manufactured by Mallinckrodt Inc., Hobart, NY 13788.
 
-Rx only
-
 is a registered trademark of Mallinckrodt Inc.
 
 tyco Healthcare Mallinckrodt
 
-Mallinckrodt Inc. St. Louis, MO 63134 Rev 090506 Printed in U.S.A.
+Mallinckrodt Inc. St. Louis, MO 63134 Rev 022707 Printed in U.S.A.
