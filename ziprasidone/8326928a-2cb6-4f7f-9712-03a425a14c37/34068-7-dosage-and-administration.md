@@ -60,12 +60,13 @@ Dosing adjustments are not required on the basis of gender or race.
 ## Preparation for Administration
 
 GEODON for Injection (ziprasidone mesylate) should only be administered by intramuscular injection.
-Single-dose vials require reconstitution prior to administration; any unused portion should be discarded.
+Single-dose vials require reconstitution prior to administration.
 
 Add 1.2 mL of Sterile Water for Injection to the vial and shake vigorously until all the drug is dissolved.
 Each mL of reconstituted solution contains 20 mg ziprasidone.
 To administer a 10 mg dose, draw up 0.5 mL of the reconstituted solution.
 To administer a 20 mg dose, draw up 1.0 mL of the reconstituted solution.
+Any unused portion should be discarded.
 Since no preservative or bacteriostatic agent is present in this product, aseptic technique must be used in preparation of the final solution.
 This medicinal product must not be mixed with other medicinal products or solvents other than Sterile Water for Injection.
 

@@ -7,7 +7,6 @@ All of these patients survived without sequelae.
 In the patient taking the largest confirmed amount, 3240 mg, the only symptoms reported were minimal sedation, slurring of speech, and transitory hypertension (200/95).
 
 In post-marketing use, adverse events reported in association with ziprasidone overdose generally included extrapyramidal symptoms, somnolence, tremor, and anxiety.
-The largest confirmed post-marketing single ingestion was 12,800 mg; extrapyramidal symptoms and a QTc interval of 446 msec were reported with no cardiac sequelae.
 
 ## Management of Overdosage
 

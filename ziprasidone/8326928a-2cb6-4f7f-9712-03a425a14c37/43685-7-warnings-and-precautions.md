@@ -29,7 +29,7 @@ The other patient had a QTc of 391 msec at the end of treatment with ziprasidone
 
 Some drugs that prolong the QT/QTc interval have been associated with the occurrence of torsade de pointes and with sudden unexplained death.
 The relationship of QT prolongation to torsade de pointes is clearest for larger increases (20 msec and greater) but it is possible that smaller QT/QTc prolongations may also increase risk, or increase it in susceptible individuals, such as those with hypokalemia, hypomagnesemia, or genetic predisposition.
-Although torsade de pointes has not been observed in association with the use of ziprasidone at recommended doses in premarketing studies, experience is too limited to rule out an increased risk (see ADVERSE REACTIONS; Other Events Observed During Post-marketing Use).
+Although torsade de pointes has not been observed in association with the use of ziprasidone at recommended doses in premarketing studies and experience is too limited to rule out an increased risk, there have been rare post-marketing reports (in the presence of multiple confounding factors) (see ADVERSE REACTIONS; Other Events Observed During Post-marketing Use).
 
 A study evaluating the QT/QTc prolonging effect of intramuscular ziprasidone, with intramuscular haloperidol as a control, was conducted in patient volunteers.
 In the trial, ECGs were obtained at the time of maximum plasma concentration following two injections of ziprasidone (20 mg then 30 mg) or haloperidol (7.5 mg then 10 mg) given four hours apart.

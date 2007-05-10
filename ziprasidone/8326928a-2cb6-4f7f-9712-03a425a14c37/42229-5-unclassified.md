@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0273-8.0
+LAB-0273-9.0
 
-Revised April 2006
+November 2006

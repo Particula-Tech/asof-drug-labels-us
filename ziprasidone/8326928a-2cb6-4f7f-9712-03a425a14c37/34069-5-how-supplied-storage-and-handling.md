@@ -18,7 +18,7 @@ They are supplied in the following strengths and package configurations:
 
 ## Storage and Handling
 
-GEODON Capsules should be stored at controlled room temperature, 15°–30°C (59°–86°F).
+GEODON Capsules should be stored at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [See USP Controlled Room Temperature].
 
 GEODON for Injection is available in a single dose vial as ziprasidone mesylate (20 mg ziprasidone/mL when reconstituted according to label instructions - see Preparation for Administration) for intramuscular administration.
 Each mL of ziprasidone mesylate for injection (when reconstituted) affords a colorless to pale pink solution that contains 20 mg of ziprasidone and 4.7 mg of methanesulfonic acid solubilized by 294 mg of sulfobutylether β-cyclodextrin sodium (SBECD).
@@ -30,6 +30,6 @@ Each mL of ziprasidone mesylate for injection (when reconstituted) affords a col
 
 ## Storage and Handling
 
-GEODON for Injection should be stored at controlled room temperature, 15°–30°C (59°–86°F) in dry form.
+GEODON for Injection should be stored at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [See USP Controlled Room Temperature] in dry form.
 Protect from light.
 Following reconstitution, GEODON for Injection can be stored, when protected from light, for up to 24 hours at 15°–30°C (59°–86°F) or up to 7 days refrigerated, 2°–8°C (36°–46°F).
