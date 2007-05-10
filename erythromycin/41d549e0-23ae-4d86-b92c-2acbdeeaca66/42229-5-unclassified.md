@@ -1,0 +1,1 @@
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ERYC® and other antibacterial drugs, ERYC should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
