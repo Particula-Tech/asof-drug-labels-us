@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Naloxone Hydrochloride Injection is contraindicated in patients known to be hypersensitive to it.
+Naloxone hydrochloride injection is contraindicated in patients known to be hypersensitive to naloxone hydrochloride or to any of the other ingredients contained in the formulation.

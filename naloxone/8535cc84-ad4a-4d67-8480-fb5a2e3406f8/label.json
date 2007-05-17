@@ -1,13 +1,10 @@
 {
   "application_numbers": [],
   "inn": "naloxone",
-  "labeler": "Hospira",
+  "labeler": "HOSPIRA, INC.",
   "package_ndcs": [
-    "0409-1211-01",
     "0409-1212-01",
-    "0409-1213-01",
     "0409-1215-01",
-    "0409-1216-01",
     "0409-1219-01"
   ],
   "products": [],

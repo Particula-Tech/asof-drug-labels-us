@@ -1,7 +1,27 @@
 # OVERDOSAGE
 
-There is no clinical experience with naloxone hydrochloride overdosage in humans.
+There is limited clinical experience with naloxone hydrochloride injection overdosage in humans.
 
-In the mouse and rat, the intravenous LD50 is 150 ± 5 mg/kg and 109 ± 4 mg/kg respectively.
-In acute subcutaneous toxicity studies in newborn rats, the LD50 (95% CL) is 260 (228 − 296) mg/kg.
-Subcutaneous injection of 100 mg/kg/day in rats for 3 weeks produced only transient salivation and partial ptosis following injection: no toxic effects were seen at 10 mg/kg/day for 3 weeks.
+Adult Patients
+
+In one small study, volunteers who received 24 mg/70 kg did not demonstrate toxicity.
+
+In another study, 36 patients with acute stroke received a loading dose of 4 mg/kg (10 mg/m2/min) of naloxone hydrochloride injection followed immediately by 2 mg/kg/hr for 24 hours.
+Twenty-three patients experienced adverse events associated with naloxone use, and naloxone was discontinued in seven patients because of adverse effects.
+The most serious adverse events were: seizures (2 patients), severe hypertension (1), and hypotension and/or bradycardia (3).
+
+At doses of 2 mg/kg in normal subjects, cognitive impairment and behavioral symptoms, including irritability, anxiety, tension, suspiciousness, sadness, difficulty concentrating, and lack of appetite have been reported.
+In addition, somatic symptoms, including dizziness, heaviness, sweating, nausea, and stomachaches were also reported.
+Although complete information is not available, behavioral symptoms were reported to often persist for 2 to 3 days.
+
+Pediatric Patients
+
+Up to 11 doses of 0.2 mg naloxone (2.2 mg) have been administered to children following overdose of diphenoxylate hydrochloride with atropine sulfate.
+Pediatric reports include a 2 1/2 year-old child who inadvertently received a dose of 20 mg naloxone for treatment of respiratory depression following overdose with diphenoxylate hydrochloride with atropine sulfate.
+The child responded well and recovered without adverse sequelae.
+There is also a report of a 4 1/2 year-old child who received 11 doses during a 12-hour period, with no adverse sequelae.
+
+Patient Management
+
+Patients who experience a naloxone overdose should be treated symptomatically in a closely supervised environment.
+Physicians should contact a poison control center for the most up-to-date patient management information.

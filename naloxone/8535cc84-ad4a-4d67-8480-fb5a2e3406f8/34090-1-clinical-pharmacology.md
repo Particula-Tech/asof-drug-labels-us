@@ -1,23 +1,32 @@
 # CLINICAL PHARMACOLOGY
 
+Complete or Partial Reversal of Opioid Depression
+
 Naloxone prevents or reverses the effects of opioids including respiratory depression, sedation and hypotension.
-Also, it can reverse the psychotomimetic and dysphoric effects of agonist-antagonists, such as pentazocine.
+Also, Naloxone can reverse the psychotomimetic and dysphoric effects of agonist-antagonists, such as pentazocine.
 
-Naloxone is an essentially pure narcotic antagonist, i.e., it does not possess the“agonistic” or morphine-like properties characteristic of other narcotic antagonists; naloxone does not produce respiratory depression, psychotomimetic effects or pupillary constriction.
-In the absence of narcotics or agonistic effects of other narcotic antagonists, it exhibits essentially no pharmacologic activity.
+Naloxone is an essentially pure opioid antagonist, i.e., it does not possess the “agonistic” or morphine-like properties characteristic of other opioid antagonists.
+When administered in usual doses and in the absence of opioids or agonistic effects of other opioid antagonists, it exhibits essentially no pharmacologic activity.
 
-Naloxone has not been shown to produce tolerance nor to cause physical or psychological dependence.
+Naloxone has not been shown to produce tolerance or cause physical or psychological dependence.
+In the presence of physical dependence on opioids, naloxone will produce withdrawal symptoms.
+However, in the presence of opioid dependence, opiate withdrawal symptoms may appear within minutes of naloxone administration and will subside in about 2 hours.
+The severity and duration of the withdrawal syndrome are related to the dose of naloxone and to the degree and type of opioid dependence.
 
-In the presence of physical dependence on narcotics naloxone will produce withdrawal symptoms.
+While the mechanism of action of naloxone is not fully understood, in vitro evidence suggests that naloxone antagonizes opioid effects by competing for the mu, kappa, and sigma opiate receptor sites in the CNS, with the greatest affinity for the mu receptor.
 
-Mechanisms of Action: While the mechanism of action of naloxone is not fully understood, the preponderance of evidence suggests that naloxone antagonizes the opioid effects by competing for the same receptor sites.
+Mechanisms of Action
 
-When naloxone hydrochloride is administered intravenously, the onset of action is generally apparent within two minutes; the onset of action is only slightly less rapid when it is administered subcutaneously or intramuscularly.
+When naloxone hydrochloride is administered intravenously, the onset of action is generally apparent within two minutes; the onset of action is slightly less rapid when it is administered subcutaneously or intramuscularly.
 The duration of action is dependent upon the dose and route of administration of naloxone hydrochloride.
 Intramuscular administration produces a more prolonged effect than intravenous administration.
-The requirement for repeat doses of naloxone, however, will also be dependent upon the amount, type and route of administration of the narcotic being antagonized.
+Since the duration of action of naloxone may be shorter than that of some opiates, the effects of the opiate may return as the effects of naloxone dissipates.
+The requirement for repeat doses of naloxone, however, will also be dependent upon the amount, type and route of administration of the opioid being antagonized.
 
-Following parenteral administration, naloxone is rapidly distributed in the body.
-It is metabolized in the liver, primarily by glucuronide conjugation and excreted in urine.
-In one study, the serum half-life in adults ranged from 30 to 81 minutes (mean 64 ± 12 minutes).
-In a neonatal study, the mean plasma half-life was observed to be 3.1 ± 0.5 hours.
+Adjunctive Use in Septic Shock
+
+Naloxone has been shown in some cases of septic shock to produce a rise in blood pressure that may last up to several hours; however this pressor response has not been demonstrated to improve patient survival.
+In some studies, treatment with naloxone in the setting of septic shock has been associated with adverse effects, including agitation, nausea and vomiting, pulmonary edema, hypotension, cardiac arrhythmias, and seizures.
+The decision to use naloxone in septic shock should be exercised with caution, particularly in patients who may have underlying pain or have previously received opioid therapy and may have developed opioid tolerance.
+
+Because of the limited number of patients who have been treated, optimal dosage and treatment regimens have not been established.
