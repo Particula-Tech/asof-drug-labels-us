@@ -9,6 +9,8 @@ Protect from freezing.
 
 Rx Only
 
+Rev June 2004
+
 © 2004 Allergan, Inc. Irvine, CA 92612, U.S.A. ® Marks owned by Allergan, Inc.
 
 6295X 71739US10P
