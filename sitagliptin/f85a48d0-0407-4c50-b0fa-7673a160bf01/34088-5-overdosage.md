@@ -1,0 +1,12 @@
+# 10. OVERDOSAGE
+
+During controlled clinical trials in healthy subjects, single doses of up to 800 mg JANUVIA were administered.
+Maximal mean increases in QTc of 8.0 msec were observed in one study at a dose of 800 mg JANUVIA, a mean effect that is not considered clinically important [see Clinical Pharmacology (12.2)].
+There is no experience with doses above 800 mg in humans.
+
+In the event of an overdose, it is reasonable to employ the usual supportive measures, e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring (including obtaining an electrocardiogram), and institute supportive therapy as dictated by the patient's clinical status.
+
+Sitagliptin is modestly dialyzable.
+In clinical studies, approximately 13.5% of the dose was removed over a 3- to 4-hour hemodialysis session.
+Prolonged hemodialysis may be considered if clinically appropriate.
+It is not known if sitagliptin is dialyzable by peritoneal dialysis.
