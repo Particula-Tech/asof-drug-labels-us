@@ -52,4 +52,4 @@ In the 1-year trials, the incidence of dry mouth, constipation, and urinary trac
 Two multicenter, 6-month, controlled studies evaluated SPIRIVA in patients with COPD.
 The adverse events and the incidence rates were similar to those seen in the 1-year controlled trials.
 
-The following adverse reactions have been identified during worldwide post-approval use of SPIRIVA: dizziness, epistaxis, hoarseness, palpitations, pruritus, tachycardia, throat irritation, and urticaria.
+The following adverse reactions have been identified during worldwide post-approval use of SPIRIVA: dizziness, dysphagia, epistaxis, hoarseness, intestinal obstruction including ileus paralytic, intraocular pressure increased, oral candidiasis, palpitations, pruritus, tachycardia, throat irritation, and urticaria.

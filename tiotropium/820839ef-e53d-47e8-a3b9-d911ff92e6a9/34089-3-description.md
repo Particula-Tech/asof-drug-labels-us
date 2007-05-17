@@ -24,5 +24,5 @@ In a study of 26 adult patients with chronic obstructive pulmonary disease (COPD
 The amount of drug delivered to the lungs will vary depending on patient factors such as inspiratory flow and peak inspiratory flow through the HandiHaler device, which may vary from patient to patient, and may vary with the exposure time of the capsule outside the blister pack.
 
 For administration of SPIRIVA, a capsule is placed into the center chamber of the HandiHaler device.
-The capsule is pierced by pressing and releasing the button on the side of the inhalation device.
+The capsule is pierced by pressing and releasing the green piercing button on the side of the inhalation device.
 The tiotropium formulation is dispersed into the air stream when the patient inhales through the mouthpiece (see Patient’s Instructions for Use).

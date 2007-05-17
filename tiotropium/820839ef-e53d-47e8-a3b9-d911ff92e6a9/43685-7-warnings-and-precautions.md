@@ -21,11 +21,9 @@ As a predominantly renally excreted drug, patients with moderate to severe renal
 It is important for patients to understand how to correctly administer SPIRIVA capsules using the HandiHaler inhalation device (see Patient’s Instructions for Use).
 SPIRIVA capsules should only be administered via the HandiHaler device and the HandiHaler device should not be used for administering other medications.
 
-Capsules should always be stored in sealed blisters and only removed immediately before use.
-The blister strip should be carefully opened to expose only one capsule at a time.
-Open the blister foil as far as the STOP line to remove only one capsule at a time.
-The drug should be used immediately after the packaging over an individual capsule is opened, or else its effectiveness may be reduced.
-Capsules that are inadvertently exposed to air (i.e., not intended for immediate use) should be discarded.
+Capsules should always be stored in sealed blisters.
+Remove only one capsule immediately before use, or its effectiveness may be reduced.
+Additional capsules that are exposed to air (i.e., not intended for immediate use) should be discarded.
 
 Eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema may be signs of acute narrow-angle glaucoma.
 Should any of these signs and symptoms develop, consult a physician immediately.
@@ -55,7 +53,7 @@ Tiotropium bromide demonstrated no evidence of mutagenicity or clastogenicity in
 
 In rats, decreases in the number of corpora lutea and the percentage of implants were noted at inhalation tiotropium doses of 0.078 mg/kg/day or greater (approximately 35 times the RHDD on a mg/m2 basis).
 No such effects were observed at 0.009 mg/kg/day (approximately 4 times than the RHDD on a mg/m2 basis).
-The fertility index; however, was not affected at inhalation doses up to 1.689 mg/kg/day (approximately 760 times the RHDD on a mg/m2 basis).
+The fertility index, however, was not affected at inhalation doses up to 1.689 mg/kg/day (approximately 760 times the RHDD on a mg/m2 basis).
 These dose multiples may be over-estimated due to difficulties in measuring deposited doses in animal inhalation studies.
 
 ## Pregnancy
