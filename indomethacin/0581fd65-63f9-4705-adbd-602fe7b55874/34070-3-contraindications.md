@@ -1,0 +1,3 @@
+# CONTRAINDICATIONS
+
+INDOCIN I.V. is contraindicated in: neonates with proven or suspected infection that is untreated; neonates who are bleeding, especially those with active intracranial hemorrhage or gastrointestinal bleeding; neonates with thrombocytopenia; neonates with coagulation defects; neonates with or who are suspected of having necrotizing enterocolitis; neonates with significant impairment of renal function; neonates with congenital heart disease in whom patency of the ductus arteriosus is necessary for satisfactory pulmonary or systemic blood flow (e.g., pulmonary atresia, severe tetralogy of Fallot, severe coarctation of the aorta).
