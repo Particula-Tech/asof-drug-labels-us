@@ -1,0 +1,38 @@
+# ADVERSE REACTIONS
+
+## Subjects with Otitis Externa
+
+In the Phase III clinical trials performed in support of once-daily dosing, 799 subjects with otitis externa and intact tympanic membranes were treated with ofloxacin otic solution.
+The studies, which served as the basis for approval, were 020 (pediatric, adolescents and adults), 016 (adolescents and adults) and 017 (pediatric).
+The following treatment-related adverse events occurred in two or more of the subjects:
+
+| Studies 002/003† BID (N=229) | Studies 016/017† QD (N=310) | Studies 020† QD (N=489) |  |
+| --- | --- | --- | --- |
+| Adverse Event | Incidence Rate |  |  |
+| Application Site Reaction Pruritus Earache Dizziness Headache Vertigo | 3% 4% 1% 1% 0% 1% | 16.8% 1.2% 0.6% 0.0% 0.3% 0.0% | 0.6% 1.0% 0.8% 0.6% 0.2% 0.0% |
+| †Studies 002/003 (BID) and 016/017 (QD) were active-controlled and comparative. |  |  |  |
+
+Study 020 (QD) was open and non-comparative.
+
+An unexpected increased incidence of application site reaction was seen in studies 016/017 and was similar for both ofloxacin and the active control drug (neomycin-polymyxin B sulfate-hydrocortisone).
+This finding is believed to be the result of specific questioning of the subjects regarding the incidence of application site reactions.
+
+In once daily dosing studies, there were also single reports of nausea, seborrhea, transient loss of hearing, tinnitus, otitis externa, otitis media, tremor, hypertension and fungal infection.
+
+In twice daily dosing studies, the following treatment-related adverse events were each reported in a single subject: dermatitis, eczema, erythematous rash, follicular rash, hypoaesthesia, tinnitus, dyspepsia, hot flushes, flushing and otorrhagia.
+
+## Subjects with Acute Otitis Media with Tympanostomy Tubes (AOM TT) and Subjects with Chronic Suppurative Otitis Media (CSOM) with Perforated Tympanic Membranes
+
+In Phase III clinical trials which formed the basis for approval, the following treatment-related adverse events occurred in 1% or more of the 656 subjects with non-intact tympanic membranes in AOM TT or CSOM treated twice-daily with ofloxacin otic solution:
+
+| Adverse Event | Incidence (N=656) |
+| --- | --- |
+| Taste Perversion Earache Pruritus Paraesthesia Rash Dizziness | 7% 1% 1% 1% 1% 1% |
+
+Other treatment-related adverse reactions reported in subjects with non-intact tympanic membranes included: diarrhea (0.6%), nausea (0.3%), vomiting (0.3%), dry mouth (0.5%), headache (0.3%), vertigo (0.5%), otorrhagia (0.6%), tinnitus (0.3%), fever (0.3%).
+The following treatment-related adverse events were each reported in a single subject: application site reaction, otitis externa, urticaria, abdominal pain, dysaesthesia, hyperkinesia, halitosis, inflammation, pain, insomnia, coughing, pharyngitis, rhinitis, sinusitis, and tachycardia.
+
+## Post-marketing Adverse Events
+
+Cases of uncommon transient neuropsychiatric disturbances have been included in spontaneous post-marketing reports.
+A causal relationship with ofloxacin otic solution 0.3% is unknown.
