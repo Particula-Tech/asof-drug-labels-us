@@ -80,3 +80,43 @@ All cause mortality was similar at 16 weeks for both treatment arms in Study 1 [
 Both studies demonstrated substantially fewer breakthrough infections caused by Aspergillus species in patients receiving posaconazole prophylaxis when compared to patients receiving fluconazole or itraconazole.
 
 For information on a pharmacokinetic/pharmacodynamic analysis of patient data see CLINICAL PHARMACOLOGY, Exposure Response Relationship.
+
+## Treatment of Oropharyngeal Candidiasis (OPC)
+
+Study 3 was a randomized, controlled, evaluator-blinded study in HIV-infected patients with oropharyngeal candidiasis.
+Patients were treated with posaconazole or fluconazole oral suspension (both posaconazole and fluconazole were given as follows: 100 mg twice a day for 1 day followed by 100 mg once a day for 13 days).
+
+Clinical and mycological outcomes were assessed after 14 days of treatment and at 4 weeks after the end of treatment.
+Patients who received at least one dose of study medication and had a positive oral swish culture of Candida species at baseline were included in the analyses (TABLE 7).
+The majority of the subjects had C. albicans as the baseline pathogen.
+
+Clinical success at Day 14 (complete or partial resolution of all ulcers and/or plaques and symptoms) and clinical relapse rates (recurrence of signs or symptoms after initial cure or improvement) 4 weeks after the end of treatment were similar between the treatment arms (TABLE 7).
+
+Mycologic eradication rates (absence of colony forming units in quantitative culture at the end of therapy, day 14), as well as mycologic relapse rates (4 weeks after the end of treatment) were also similar between the treatment arms (see TABLE 7).
+
+TABLE 7.
+Clinical Success, Mycological Eradication, and Relapse Rates in Oropharyngeal Candidiasis
+
+|  | Posaconazole | Fluconazole |
+| --- | --- | --- |
+| Clinical Success at End of Therapy (Day 14) | 155/169 (91.7%) | 148/160 (92.5%) |
+| Clinical Relapse (4 Weeks after End of Therapy) | 45/155 (29.0%) | 52/148 (35.1%) |
+| Mycological Eradication (absence of CFU) at End of Therapy (Day 14) | 88/169 (52.1%) | 80/160 (50.0%) |
+| Mycological Relapse (4 Weeks after End of Treatment) | 49/88 (55.6%) | 51/80 (63.7%) |
+
+Mycologic response rates, using a criterion for success as a post-treatment quantitative culture with ≤20 colony forming units (CFU/mL) were also similar between the two groups (posaconazole 68.0%, fluconazole 68.1%).
+The clinical significance of this finding is unknown.
+
+## Treatment of Oropharyngeal Candidiasis Refractory to Treatment with Fluconazole or Itraconazole
+
+Study 4 was a non-comparative study of posaconazole oral suspension in HIV-infected subjects with OPC that was refractory to treatment with fluconazole or itraconazole.
+An episode of OPC was considered refractory if there was failure to improve or worsening of OPC after a standard course of therapy with fluconazole ≥ 100 mg/day for at least 10 consecutive days or itraconazole 200 mg/day for at least 10 consecutive days and treatment with either fluconazole or itraconazole had not been discontinued for more than 14 days prior to treatment with posaconazole.
+Of the 199 subjects enrolled in this study, eighty-nine subjects met these strict criteria for refractory infection.
+
+Forty-five subjects with refractory OPC were treated with posaconazole 400 mg BID for three days, followed by 400 mg QD for 25 days with an option for further treatment during a 3-month maintenance period.
+Following a dosing amendment, a further 44 subjects were treated with posaconazole 400 mg BID for twenty-eight days.
+The efficacy of posaconazole was assessed by the clinical success (cure or improvement) rate after 4 weeks of treatment.
+The clinical success rate was 74.2% (66/89).
+The clinical success rates for both the original and the amended dosing regimens were similar (73.3% and 75.0%, respectively).
+
+For information on a pharmacokinetic/pharmacodynamic analysis of patient data see CLINICAL PHARMACOLOGY, Exposure Response Relationship.

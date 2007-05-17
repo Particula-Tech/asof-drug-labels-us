@@ -105,8 +105,7 @@ It is recommended that posaconazole be used with caution in patients with hepati
 ### Renal Insufficiency
 
 Following single-dose administration of 400 mg of the oral suspension, there was no significant effect of mild (CLcr: 50–80 mL/min/1.73m2, n=6) and moderate (CLcr: 20–49 mL/min/1.73m2, n=6) renal insufficiency on posaconazole pharmacokinetics; therefore, no dose adjustment is required in patients with mild to moderate renal impairment.
-In subjects with severe renal insufficiency (CLcr: <20 mL/min/1.73m2), the mean plasma exposure (AUC) was similar to that in patients with normal renal function (CLcr: >80 mL/min/1.73m2).
-However, the range of the AUC estimates was highly variable (CV=96%) in these subjects with severe renal insufficiency as compared to that in the other renal impairment groups (CV<40%).
+In subjects with severe renal insufficiency (CLcr: <20 mL/min/1.73m2), the mean plasma exposure (AUC) was similar to that in patients with normal renal function (CLcr: >80 mL/min/1.73m2); however, the range of the AUC estimates was highly variable (CV=96%) in these subjects with severe renal insufficiency as compared to that in the other renal impairment groups (CV<40%).
 Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections.
 (See DOSAGE AND ADMINISTRATION.)
 

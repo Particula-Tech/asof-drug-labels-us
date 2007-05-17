@@ -2,16 +2,16 @@
 
 The safety of posaconazole therapy has been assessed in 1844 patients.
 
-This includes 605 patients in the prophylaxis studies and 1239 patients treated for other indications.
+This includes 605 patients in the prophylaxis studies, 796 in OPC/rOPC studies, and over 400 patients treated for other indications.
 Posaconazole therapy was given to 171 patients for ≥6 months, with 58 patients receiving posaconazole therapy for ≥12 months.
 
 ## Prophylaxis of Aspergillus and Candida
 
-TABLE 10 presents treatment-emergent adverse events observed at an incidence >10% in posaconazole prophylaxis studies.
+TABLE 11 presents treatment-emergent adverse events observed at an incidence >10% in posaconazole prophylaxis studies.
 
-TABLE 10.
+TABLE 11.
 Study 1 and Study 2.
-Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Events: Frequency of at Least 10% in the POS or FLU Treatment Groups (Pooled Prophylaxis Safety Analysis)
+Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Events: Frequency of at Least 10% in the Posaconazole or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
 | Subjects Reporting any Adverse Event | 595 | (98) | 531 | (99) | 58 | (100) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -77,9 +77,9 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Events: F
 | Pruritus | 69 | (11) | 62 | (12) | 11 | (19) |
 | NOS = not otherwise specified. |  |  |  |  |  |  |
 
-TABLES 11 and 12 present treatment-related adverse events observed at an incidence ≥2% in posaconazole prophylaxis studies.
+TABLES 12 and 13 present treatment-related adverse events observed at an incidence ≥2% in posaconazole prophylaxis studies.
 
-TABLE 11.
+TABLE 12.
 Study 1.
 Treatment-Related Adverse Events, Occurring in Greater Than or Equal to 2% of Patients in Posaconazole or Fluconazole Treatment Group
 
@@ -122,7 +122,7 @@ Treatment-Related Adverse Events, Occurring in Greater Than or Equal to 2% of Pa
 | Taste Perversion | 3 (1) | 5 (2) |
 | GGT = gamma-glutamyl transpeptidase; SGOT = serum glutamic oxaloacetic transaminase; SGPT = serum glutamic pyruvic transaminase. |  |  |
 
-TABLE 12.
+TABLE 13.
 Study 2.
 Treatment-Related Adverse Events, Occurring in Greater Than or Equal to 2% of Patients in Posaconazole or Fluconazole/Itraconazole Treatment Group
 
@@ -157,7 +157,125 @@ Treatment-Related Adverse Events, Occurring in Greater Than or Equal to 2% of Pa
 
 The most common treatment-related serious adverse events (1% each) in the combined prophylaxis studies were bilirubinemia, increased hepatic enzymes, hepatocellular damage, nausea, and vomiting.
 
-Uncommon and rare treatment-related serious or medically significant adverse events reported during clinical trials with posaconazole have included adrenal insufficiency, allergic and/or hypersensitivity reactions.
+### Overview of Adverse Events in HIV infected subjects with OPC
+
+In two randomized comparative studies in OPC, the safety of posaconazole at a dose of ≤ 400 mg QD in 557 HIV infected patients was compared to the safety of fluconazole in 262 HIV infected patients at a dose of 100 mg QD.
+
+An additional 239 HIV infected patients with refractory OPC received posaconazole in 2 non-comparative trials for refractory OPC (rOPC).
+Of these subjects, 149 received the 800 mg/day dose and the remainder received the ≤400 mg QD dose.
+
+TABLE 14 presents Treatment-Emergent Adverse Events of Clinical Significance in the comparative and non-comparative studies of OPC.
+
+TABLE 14.
+Treatment-Emergent Adverse Events of Clinical Significance in OPC studies
+
+|  | Posaconazole n=557 | Fluconazole n=262 | Posaconazole n=239 |
+| --- | --- | --- | --- |
+|  | Number (%) of Subjects |  |  |
+|  | Controlled OPC Pool |  | Refractory OPC Pool |
+| Subjects Reporting any Adverse EventNumber of subjects reporting treatment-emergent adverse events at least once during the study, without regard to relationship to treatment. Subjects may have reported more than one event. | 356 (64) | 175 (67) | 221 (92) |
+| Body as a Whole - General Disorders |  |  |  |
+| Fever | 34 (6) | 22 (8) | 82 (34) |
+| Headache | 44 (8) | 23 (9) | 47 (20) |
+| Anorexia | 10 (2) | 4 (2) | 46 (19) |
+| Fatigue | 18 (3) | 12 (5) | 31 (13) |
+| Asthenia | 9 (2) | 5 (2) | 31 (13) |
+| Rigors | 2 (<1) | 4 (2) | 29 (12) |
+| Pain | 4 (1) | 2 (1) | 27 (11) |
+| Disorders of Blood and Lymphatic System |  |  |  |
+| Neutropenia | 21 (4) | 8 (3) | 39 (16) |
+| Anemia | 11 (2) | 5 (2) | 34 (14) |
+| Neutropenia Aggravated | 0 | 0 | 5 (2) |
+| Gastrointestinal System Disorders |  |  |  |
+| Diarrhea | 58 (10) | 34 (13) | 70 (29) |
+| Nausea | 48 (9) | 30 (11) | 70 (29) |
+| Vomiting | 37 (7) | 18 (7) | 67 (28) |
+| Abdominal Pain | 27 (5) | 17 (6) | 43 (18) |
+| Infection and Infestations |  |  |  |
+| Candidiasis, Oral | 3 (1) | 1 (<1) | 28 (12) |
+| Herpes Simplex | 16 (3) | 8 (3) | 26 (11) |
+| Pneumonia | 17 (3) | 6 (2) | 25 (10) |
+| Liver and Biliary System Disorders |  |  |  |
+| Bilirubinemia | 6 (1) | 2 (1) | 6 (3) |
+| Hepatic Enzymes Increased | 1 (<1) | 1 (<1) | 8 (3) |
+| Hepatic Function Abnormal | 8 (1) | 4 (2) | 0 |
+| Hepatitis | 3 (1) | 0 | 5 (2) |
+| Hepatomegaly | 0 | 0 | 8 (3) |
+| Jaundice | 0 | 0 | 4 (2) |
+| SGOT Increased | 8 (1) | 5 (2) | 6 (3) |
+| SGPT Increased | 6 (1) | 5 (2) | 6 (3) |
+| Metabolic and Nutritional Disorders |  |  |  |
+| Weight Decrease | 4 (1) | 2 (1) | 33 (14) |
+| Dehydration | 4 (1) | 7 (3) | 27 (11) |
+| Hypokalemia | 6 (1) | 3 (1) | 15 (6) |
+| Platelet, Bleeding, and Clotting Disorders |  |  |  |
+| Thrombocytopenia | 4 (1) | 1 (<1) | 12 (5) |
+| Psychiatric Disorders |  |  |  |
+| Insomnia | 8 (1) | 3 (1) | 39 (16) |
+| Renal & Urinary System Disorders |  |  |  |
+| Renal Failure Acute | 0 | 0 | 7 (3) |
+| Respiratory System Disorders |  |  |  |
+| Coughing | 18 (3) | 11 (4) | 60 (25) |
+| Dyspnea | 8 (1) | 8 (3) | 28 (12) |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
+| Rash | 15 (3) | 10 (4) | 36 (15) |
+| Sweating Increased | 13 (2) | 5 (2) | 23 (10) |
+| OPC=oropharyngeal candidiasis; SGOT=serum glutamic oxaloacetic transaminase (same as AST); SGPT=serum glutamic pyruvic transaminase (same as ALT). |  |  |  |
+
+Treatment-related, treatment-emergent events observed in patients with OPC at an incidence of ≥2% are shown in TABLE 15.
+
+TABLE 15.
+Treatment-Related Adverse Events (Any Grade) ≥ 2%
+
+| Adverse Event | Posaconazole n=557 | Fluconazole n=262 | Posaconazole n=239 |
+| --- | --- | --- | --- |
+|  | Number (%) of Subjects |  |  |
+|  | Controlled OPC Pool |  | Refractory OPC Pool |
+| Subjects Reporting any Adverse EventNumber of subjects reporting treatment-related adverse events at least once during the study, without regard to relationship to treatment. Subjects may have reported more than one event. | 150 (27) | 70 (27) | 135 (56) |
+| Body As A Whole - General Disorders |  |  |  |
+| Headache | 16 (3) | 5 (2) | 18 (8) |
+| Anorexia | 6 (1) | 1 (<1) | 7 (3) |
+| Asthenia | 4 (1) | 2 (1) | 6 (3) |
+| Dizziness | 9 (2) | 5 (2) | 8 (3) |
+| Fatigue | 8 (1) | 5 (2) | 7 (3) |
+| Fever | 10 (2) | 1 (<1) | 6 (3) |
+| Central and Periph Nerv System |  |  |  |
+| Somnolence | 4 (1) | 5 (2) | 3 (1) |
+| Disorders of Blood and Lymphatic System |  |  |  |
+| Neutropenia | 10 (2) | 4 (2) | 20 (8) |
+| Anemia | 2 (<1) | 0 | 6 (3) |
+| Gastrointestinal System Disorders |  |  |  |
+| Diarrhea | 19 (3) | 13 (5) | 26 (11) |
+| Nausea | 27 (5) | 18 (7) | 20 (8) |
+| Vomiting | 20 (4) | 4 (2) | 16 (7) |
+| Abdominal Pain | 10 (2) | 8 (3) | 12 (5) |
+| Flatulence | 6 (1) | 0 | 11 (5) |
+| Mouth Dry | 7 (1) | 6 (2) | 5 (2) |
+| Liver and Biliary System Disorders |  |  |  |
+| Hepatic Enzymes Increased | 1 (<1) | 0 | 5 (2) |
+| Hepatic Function Abnormal | 3 (1) | 4 (2) | 0 |
+| Metabolic and Nutritional Disorders |  |  |  |
+| Phosphatase Alkaline Increased | 3 (1) | 3 (1) | 5 (2) |
+| Musculoskeletal System Disorders |  |  |  |
+| Myalgia | 1 (<1) | 0 | 4 (2) |
+| Platelet, Bleeding, and Clotting Disorders |  |  |  |
+| Thrombocytopenia | 3 (1) | 0 | 4 (2) |
+| Psychiatric Disorders |  |  |  |
+| Insomnia | 3 (1) | 0 | 6 (3) |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
+| Rash | 8 (1) | 4 (2) | 10 (4) |
+| Pruritus | 6 (1) | 2 (1) | 5 (2) |
+| OPC=oropharyngeal candidiasis; SGOT=serum glutamic oxaloacetic transaminase (same as AST); SGPT=serum glutamic pyruvic transaminase (same as ALT). |  |  |  |
+
+Adverse events were reported more frequently in the pool of patients with refractory OPC.
+Among these highly immunocompromised patients with advanced HIV disease, serious adverse events (SAEs) were reported in 55% (132/239).
+The most commonly reported SAEs were fever (13%) and neutropenia (10%).
+
+Treatment-related SAEs were reported for 14% (34/239) of these patients and included neutropenia (5%) and abdominal pain (2%).
+Posaconazole was discontinued in two patients who developed neutropenia that was considered serious and treatment-related.
+All other reported treatment-related SAEs occurred in ≤ 1% of subjects on posaconazole.
+
+Uncommon and rare treatment-related serious or medically significant adverse events reported during clinical trials in prophylaxis, OPC/rOPC or other indications with posaconazole have included adrenal insufficiency, allergic and/or hypersensitivity reactions.
 
 Rare cases of hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, and pulmonary embolus have been reported primarily among patients who had been receiving concomitant cyclosporine or tacrolimus for management of transplant rejection or graft-vs-host disease.
 
@@ -171,9 +289,9 @@ Additionally, in another indication, 428 patients were treated with ≥800 mg/da
 In healthy volunteers and patients, elevation of liver function test values did not appear to be associated with higher plasma concentrations of posaconazole.
 The majority of abnormal liver function tests were minor, transient, and did not lead to discontinuation of therapy.
 
-The number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in TABLE 13 for the prophylaxis studies.
+For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in TABLE 16.
 
-TABLE 13.
+TABLE 16.
 Study 1 and Study 2.
 Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
@@ -192,3 +310,18 @@ Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to 
 | Bilirubin | 20/290 (7) | 25/285 (9) |
 | Alkaline Phosphatase | 4/281 (1) | 1/276 (<1) |
 | AST= Aspartate Aminotransferase; ALT= Alanine Aminotransferase; CTC = Common Toxicity Criteria. |  |  |
+
+The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in TABLE 17 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
+
+TABLE 17.
+Clinically Significant Laboratory Test Abnormalities Without Regard to Baseline Value
+
+|  | n= 557 | n=262 | n=239 |
+| --- | --- | --- | --- |
+| Laboratory Test | Controlled |  | Refractory |
+| Posaconazole | Fluconazole | Posaconazole |  |
+| ALT > 3.0 × ULN | 16/537(3) | 13/254(5) | 25/226(11) |
+| AST > 3.0 × ULN | 33/537(6) | 26/254(10) | 39/223(17) |
+| Total Bilirubin > 1.5 × ULN | 15/536(3) | 5/254(2) | 9/197(5) |
+| Alkaline Phosphatase > 3.0 × ULN | 17/535(3) | 15/253(6) | 24/190(13) |
+| ALT= Alanine Aminotransferase; AST= Aspartate Aminotransferase. |  |  |  |

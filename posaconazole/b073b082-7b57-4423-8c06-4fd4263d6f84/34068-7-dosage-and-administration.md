@@ -1,8 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-NOXAFIL® Oral Suspension should be administered 200 mg (5 mL) three times a day.
-Each dose of NOXAFIL® should be administered with a full meal or with a liquid nutritional supplement in patients who can not eat a full meal.
-The duration of therapy is based on recovery from neutropenia or immunosuppression.
+| Indication | Dose and Duration of therapy |
+| --- | --- |
+| Prophylaxis of Invasive Fungal Infections | 200 mg (5 mL) three times a day. The duration of therapy is based on recovery from neutropenia or immunosuppression. |
+| Oropharyngeal Candidiasis | Loading dose of 100 mg (2.5 mL) twice a day on the first day, then 100 mg (2.5 mL) once a day for 13 days. |
+| Oropharyngeal Candidiasis Refractory to itraconazole and/or fluconazole | 400 mg (10 mL) twice a day. Duration of therapy should be based on the severity of the patient's underlying disease and clinical response. |
+
+Each dose of NOXAFIL should be administered with a full meal or with a liquid nutritional supplement in patients who can not eat a full meal.
 (See CLINICAL PHARMACOLOGY.)
 
 To enhance the oral absorption of posaconazole and optimize plasma concentrations:

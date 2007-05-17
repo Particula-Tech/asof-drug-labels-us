@@ -49,11 +49,11 @@ Patients should be advised to:
 
 ## Drug Interactions
 
-A summary of significant drug interactions with posaconazole that have been studied clinically are provided in TABLES 7 and 8.
+A summary of significant drug interactions with posaconazole that have been studied clinically are provided in TABLES 8 and 9.
 Appropriate precautions for the co-administration of these drugs with posaconazole are provided.
 (See CLINICAL PHARMACOLOGY, Drug Interactions and WARNINGS.)
 
-TABLE 7.
+TABLE 8.
 Summary of the Effect of Co-administered Drugs on Posaconazole
 
 | Co-administered Drug | Recommendations |
@@ -62,9 +62,9 @@ Summary of the Effect of Co-administered Drugs on Posaconazole
 | Rifabutin | Avoid concomitant use unless the benefit outweighs the risks. |
 | Phenytoin | Avoid concomitant use unless the benefit outweighs the risks. |
 
-Co-administration of these drugs listed in TABLE 7 with posaconazole may result in lower plasma concentrations of posaconazole.
+Co-administration of these drugs listed in TABLE 8 with posaconazole may result in lower plasma concentrations of posaconazole.
 
-TABLE 8.
+TABLE 9.
 Summary of the Effect of Posaconazole on Co-administered Drugs
 
 | Co-administered Drug | Recommendations |
@@ -75,11 +75,11 @@ Summary of the Effect of Posaconazole on Co-administered Drugs
 | Midazolam | Frequent monitoring of adverse effects of benzodiazepines metabolized by CYP3A4 should be performed and dose reduction of these benzodiazepines should be considered during co-administration with posaconazole. |
 | Phenytoin | Frequent monitoring of phenytoin concentrations should be performed while co-administered with posaconazole and dose reduction of phenytoin should be considered. |
 
-Although not studied in vitro or in vivo, posaconazole may affect the plasma concentrations of the drugs or drug classes described in TABLE 9.
+Although not studied in vitro or in vivo, posaconazole may affect the plasma concentrations of the drugs or drug classes described in TABLE 10.
 Appropriate precautions for the co-administration of these drugs with posaconazole are provided.
 (See CONTRAINDICATIONS.)
 
-TABLE 9.
+TABLE 10.
 Drugs Not Studied in vitro or in vivo but Likely to Result in Significant Drug Interactions
 
 | Drug or Drug Class (CYP3A4 Substrates) | Recommendations |
@@ -95,7 +95,7 @@ Drugs Not Studied in vitro or in vivo but Likely to Result in Significant Drug I
 
 No drug-related neoplasms were recorded in rats or mice treated with posaconazole for two years at doses below the maximum tolerated dose.
 In a two-year carcinogenicity study, rats were given posaconazole orally at doses up to 20 mg/kg (females), or 30 mg/kg (males).
-These doses are equivalent to 3.9 or 3.5 times the exposure achieved with a 400 mg BID, respectively, based on steady-state AUC in healthy volunteers administered a high-fat meal (400 mg BID regimen).
+These doses are equivalent to 3.9 or 3.5 times the exposure achieved with a 400 mg BID regimen, respectively, based on steady-state AUC in healthy volunteers administered a high-fat meal (400 mg BID regimen).
 In the mouse study, mice were treated at oral doses up to 60 mg/kg/day or 4.8 times the exposure achieved with a 400 mg BID regimen.
 
 Posaconazole was not genotoxic or clastogenic when evaluated in bacterial mutagenicity (Ames), a chromosome aberration study in human peripheral blood lymphocytes, a Chinese hamster ovary cell mutagenicity study, and a mouse bone marrow micronucleus study.
