@@ -1,0 +1,11 @@
+# OVERDOSAGE
+
+The tolerability of Precedex® was noted in one study in which healthy subjects were administered doses at and above the recommended dose of 0.2 to 0.7 mcg/kg/hr.
+The maximum blood concentration achieved in this study was approximately 13 times the upper boundary of the therapeutic range.
+The most notable effects observed in two subjects who achieved the highest doses were first degree AV block and second degree heart block.
+No hemodynamic compromise was noted with the AV block and the heart block resolved spontaneously within one minute.
+
+Five patients received an overdose of Precedex® in the ICU sedation studies.
+Two of these patients had no symptoms reported; one patient received a 2 mcg/kg loading dose over 10 minutes (twice the recommended loading dose) and one patient received a maintenance infusion of 0.8 mcg/kg/hr.
+Two other patients who received a 2 mcg/kg loading dose over 10 minutes, experienced bradycardia and/or hypotension.
+One patient who received a loading bolus dose of undiluted Precedex® (19.4 mcg/kg), had cardiac arrest from which he was successfully resuscitated.
