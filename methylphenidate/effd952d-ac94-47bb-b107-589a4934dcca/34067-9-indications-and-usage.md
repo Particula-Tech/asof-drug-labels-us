@@ -29,4 +29,4 @@ When remedial measures alone are insufficient, the decision to prescribe stimula
 ## Long-Term Use
 
 The effectiveness of Ritalin LA for long-term use, i.e., for more than 2 weeks, has not been systematically evaluated in controlled trials.
-Therefore, the physician who elects to use Ritalin LA for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE and ADMINISTRATION).
+Therefore, the physician who elects to use Ritalin LA for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).

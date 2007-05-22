@@ -3,7 +3,7 @@
 Methylphenidate hydrochloride is a central nervous system (CNS) stimulant.
 
 Ritalin LA® (methylphenidate hydrochloride) extended-release capsules is an extended-release formulation of methylphenidate with a bi-modal release profile.
-Ritalin LA® uses the proprietary SODAS™ (Spheroidal Oral Drug Absorption System) technology.
+Ritalin LA® uses the proprietary SODAS® (Spheroidal Oral Drug Absorption System) technology.
 Each bead-filled Ritalin LA capsule contains half the dose as immediate-release beads and half as enteric-coated, delayed-release beads, thus providing an immediate release of methylphenidate and a second delayed release of methylphenidate.
 Ritalin LA 10, 20, 30, and 40 mg capsules provide in a single dose the same amount of methylphenidate as dosages of 5, 10, 15, or 20 mg of Ritalin® tablets given b.i.d.
 

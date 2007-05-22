@@ -24,7 +24,7 @@ When in the judgement of the clinician a lower initial dose is appropriate, pati
 
 ### Patients Currently Receiving Methylphenidate
 
-The recommended dose of Ritalin LA for patients currently taking methylphenidate b.i.d or sustained release (SR) is provided below.
+The recommended dose of Ritalin LA for patients currently taking methylphenidate b.i.d. or sustained release (SR) is provided below.
 
 | Previous Methylphenidate Dose | Recommended Ritalin LA® Dose |
 | --- | --- |
