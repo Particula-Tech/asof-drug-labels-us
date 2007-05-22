@@ -1,21 +1,40 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Hydromorphone hydrochloride is a Schedule II narcotic, similar to morphine.
-Opioid analgesics may cause psychological and physical dependence (see WARNINGS).
+Hydromorphone hydrochloride tablets contain hydromorphone, a Schedule II controlled opioid agonist.
+Schedule II opioid substances which include morphine, oxycodone, oxymorphone, fentanyl, and methadone have the highest potential for abuse and risk of fatal overdose.
+Hydromorphone can be abused and is subject to criminal diversion.
+
+Opioid analgesics may cause psychological and physical dependence.
 Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug.
-Withdrawal symptoms also may be precipitated in the patient with physical dependence by the administration of a drug with opioid antagonist activity, e.g., naloxone (see also OVERDOSAGE).
+Physical dependence usually does not occur to a clinically significant degree until after several weeks of continued opioid usage, but it may occur after as little as a week of opioid use.
+Physical dependence and tolerance are separate and distinct from abuse and addiction.
 
-Physical dependence usually does not occur to a clinically significant degree until after several weeks of continued opioid usage, but it may become clinically detectable after as little as a week.
-Tolerance, in which increasingly larger doses are required in order to produce the same degree of analgesia, is initially manifested by a shortened duration of analgesic effect, and subsequently, by decreases in the intensity of analgesia.
-In chronic pain patients, and in opioid-tolerant cancer patients, the dose of hydromorphone hydrochloride tablets should be guided by the degree of tolerance manifested.
+Addiction is a chronic, neurobiologic disease, with genetic, psychosocial, and environmental factors influencing its development and manifestations.
+It is characterized by behaviors that include one or more of the following: impaired control over drug use, compulsive use, continued use despite harm, and craving.
+Drug addiction is a treatable disease, utilizing a multidisciplinary approach, but relapse is common.
 
-In chronic pain patients in whom opioid analgesics including hydromorphone hydrochloride tablets are abruptly discontinued, a severe abstinence syndrome should be anticipated.
-This may be similar to the abstinence syndrome noted in patients who withdraw from heroin.
-Because of excessive loss of fluids through sweating, or vomiting and diarrhea, patients experiencing the syndrome usually exhibit marked weight loss, dehydration, ketosis, and disturbances in acid-base balance.
-Cardiovascular collapse can occur.
-Without treatment most observable symptoms disappear in 5 to 14 days; however, there appears to be a phase of secondary or chronic abstinence which may last for 2 to 6 months characterized by insomnia, irritability, muscular aches, and autonomic instability.
+“Drug-seeking” behavior is very common in addicts and drug abusers.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with, forging or counterfeiting prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
+“Doctor shopping” to obtain additional prescriptions is common among drug abusers, people suffering from untreated addiction and criminals seeking drugs to sell.
 
-In the treatment of physical dependence on hydromorphone hydrochloride tablets, the patient may be detoxified by gradual reduction of the dosage, although this is unlikely to be necessary in the terminal cancer patient.
-If abstinence symptoms become severe, the patient may be detoxified with methadone.
-Temporary administration of tranquilizers and sedatives may aid in reducing patient anxiety.
-Gastrointestinal disturbances or dehydration should be treated accordingly.
+Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+In addition, abuse of opioids can occur in the absence of addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
+Since hydromorphone hydrochloride tablets may be diverted for non-medical use, careful record keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
+
+Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+
+Hydromorphone hydrochloride tablets are intended for oral use only.
+Misuse or abuse of hydromorphone hydrochloride tablets pose a risk of overdose and death.
+This risk is increased with concurrent abuse of alcohol and other CNS depressants.
+Parenteral drug abuse can potentially result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+In addition, parenteral abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
+
+## Safety and Handling Instructions
+
+Hydromorphone hydrochloride tablets pose little risk of direct exposure to health care personnel and should be handled and disposed of prudently in accordance with hospital or institutional policy.
+Significant absorption from dermal exposure is unlikely.
+Patients and their families should be instructed to flush any hydromorphone hydrochloride tablets that are no longer needed.
+
+Access to abuseable drugs such as hydromorphone hydrochloride tablets presents an occupational hazard for addiction in the health care industry.
+Routine procedures for handling controlled substances developed to protect the public may not be adequate to protect health care workers.
+Implementation of more effective accounting procedures and measures to restrict access to drugs of this class (appropriate to the practice setting) may minimize the risk of self-administration by health care providers.
