@@ -32,6 +32,9 @@ There have been postmarketing reports of increased INR and prothrombin time in p
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin concomitantly should be monitored for increases in INR and prothrombin time.
 
+Based on information about other proton pump inhibitors, concomitant administration of pantoprazole may reduce the plasma levels of atazanavir.
+Appropriate clinical monitoring is recommended.
+
 Because of profound and long lasting inhibition of gastric acid secretion, pantoprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility

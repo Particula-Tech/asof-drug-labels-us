@@ -17,18 +17,6 @@ Caution: the reconstituted product should not be frozen.
 
 U.S. Patent No. 4,758,579
 
-Marketed by Wyeth Pharmaceuticals Inc.
+Marketed by Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101 under license from ALTANA Pharma D78467 Konstanz, Germany
 
-Philadelphia, PA 19101
-
-under license from
-
-ALTANA Pharma
-
-D78467 Konstanz, Germany
-
-W10447C014
-
-ET01
-
-Rev 09/05
+W10447C015 ET01 Rev 04/07
