@@ -1,0 +1,3 @@
+# DOSAGE AND ADMINISTRATION
+
+Apply a one-half inch ribbon in the lower conjunctival sac of the affected eye(s) once a day at bedtime.
