@@ -168,6 +168,9 @@ The percentage of salmeterol bound to human plasma proteins averages 96% in vitr
 Salmeterol base is extensively metabolized by hydroxylation, with subsequent elimination predominantly in the feces.
 No significant amount of unchanged salmeterol base was detected in either urine or feces.
 
+An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by cytochrome P450 3A4 (CYP3A4).
+Ketoconazole, a potent inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
+
 #### Elimination
 
 In 2 healthy adult subjects who received 1 mg of radiolabeled salmeterol (as salmeterol xinafoate) orally, approximately 25% and 60% of the radiolabeled salmeterol was eliminated in urine and feces, respectively, over a period of 7 days.
@@ -175,6 +178,12 @@ The terminal elimination half-life was about 5.5 hours (1 volunteer only).
 
 The xinafoate moiety has no apparent pharmacologic activity.
 The xinafoate moiety is highly protein bound (>99%) and has a long elimination half-life of 11 days.
+
+### Drug Interactions
+
+Salmeterol is a substrate of CYP3A4.
+In a repeat-dose study in 13 healthy subjects, concomitant administration of erythromycin (a weak CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4; 90% CI: 0.96, 2.03; p = 0.12), a 3.6-beat/min increase in heart rate (95% CI: 0.19, 7.03; p<0.04), a 5.8-msec increase in QTc interval (95% CI: -6.14, 17.77; p = 0.34), and no change in plasma potassium.
+Although no in vivo drug interaction studies have been conducted between salmeterol and more potent CYP3A4 inhibitors, caution should be exercised when salmeterol is concomitantly administered with CYP3A4 inhibitors, e.g., ketoconazole, ritonavir.
 
 ## Pharmacodynamics
 
@@ -230,7 +239,7 @@ After 12 weeks, 24-hour urinary cortisol excretion was also similar between the 
 
 #### Asthma
 
-In clinical trials with fluticasone propionate inhalation powder using doses up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol<18 mcg/dL assessed by radioimmunoassay) were noted both in patients receiving fluticasone propionate and in patients receiving placebo.
+In clinical trials with fluticasone propionate inhalation powder using doses up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL assessed by radioimmunoassay) were noted both in patients receiving fluticasone propionate and in patients receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
 In a 2-year study carried out with the DISKHALER® inhalation device in 64 patients with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no patient receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
 With a peak cortisol threshold of <35 mcg/dL, 1 patient receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.

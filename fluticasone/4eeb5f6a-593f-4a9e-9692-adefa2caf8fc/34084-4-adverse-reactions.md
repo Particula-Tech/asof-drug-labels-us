@@ -13,7 +13,7 @@ The incidence of common adverse events in Table 4 is based upon 2 placebo-contro
 A total of 705 adolescent and adult patients (349 females and 356 males) previously treated with salmeterol or inhaled corticosteroids were treated twice daily with ADVAIR DISKUS (100/50- or 250/50-mcg doses), fluticasone propionate inhalation powder (100- or 250-mcg doses), salmeterol inhalation powder 50 mcg, or placebo.
 
 Table 4.
-Overall Adverse Events With ≥3% Incidence in US Controlled Clinical Trials With ADVAIR DISKUS in Patients With Asthma
+Overall Adverse Events With≥3% Incidence in US Controlled Clinical Trials With ADVAIR DISKUS in Patients With Asthma
 
 |  | ADVAIR | ADVAIR | Fluticasone | Fluticasone |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

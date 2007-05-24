@@ -18,14 +18,14 @@ The DISKUS inhalation device is packaged within a purple, plastic-coated, moistu
 Store at controlled room temperature (see USP), 20° to 25°C (68° to 77°F), in a dry place away from direct heat or sunlight.
 Keep out of reach of children.
 The DISKUS inhalation device is not reusable.
-The device should be discarded 1 month after removal from the moisture-protective foil pouch or after all blisters have been used (when the dose indicator reads“0”), whichever comes first.
+The device should be discarded 1 month after removal from the moisture-protective foil pouch or after all blisters have been used (when the dose indicator reads “0”), whichever comes first.
 Do not attempt to take the device apart.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2006, GlaxoSmithKline.
+©2007, GlaxoSmithKline.
 All rights reserved.
 
-September 2006 RL-2332
+February 2007RL-2367

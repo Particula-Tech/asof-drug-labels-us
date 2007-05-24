@@ -30,7 +30,7 @@ The recommended starting dosages for ADVAIR DISKUS for patients 12 years of age 
 
 - For patients not currently on inhaled corticosteroids whose disease severity clearly warrants initiation of treatment with 2 maintenance therapies, the recommended starting dosage is ADVAIR DISKUS 100/50 or 250/50 twice daily (see INDICATIONS AND USAGE).
 
-The maximum recommended dosage is ADVAIR DISKUS 500/50 twice daily.
+The maximum recommended dosage is ADVAIR DISKUS500/50 twice daily.
 
 For all patients it is desirable to titrate to the lowest effective strength after adequate asthma stability is achieved.
 
@@ -63,14 +63,14 @@ Recommended Dosages of ADVAIR DISKUS for Patients With Asthma Aged 12 Years and 
 | Triamcinolone acetonide | ≤1,000 mcg | 100/50 twice daily |
 | inhalation aerosol | 1,100-1,600 mcg | 250/50 twice daily |
 
-* ADVAIR DISKUS should not be used for transferring patients from systemic corticosteroid therapy.
+*ADVAIR DISKUS should not be used for transferring patients from systemic corticosteroid therapy.
 
 Improvement in asthma control following inhaled administration of ADVAIR DISKUS can occur within 30 minutes of beginning treatment, although maximum benefit may not be achieved for 1 week or longer after starting treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.
 
 For patients who do not respond adequately to the starting dosage after 2 weeks of therapy, replacing the current strength of ADVAIR DISKUS with a higher strength may provide additional improvement in asthma control.
 
-If a previously effective dosage regimen of ADVAIR DISKUS fails to provide adequateimprovement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options, e.g., replacing the current strength of ADVAIR DISKUS with a higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids, should be considered.
+If a previously effective dosage regimen of ADVAIR DISKUS fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options, e.g., replacing the current strength of ADVAIR DISKUS with a higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids, should be considered.
 
 ### Pediatric Patients
 

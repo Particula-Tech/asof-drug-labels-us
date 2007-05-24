@@ -4,7 +4,7 @@ ADVAIR [ad′ vair] DISKUS® 100/50
 
 (fluticasone propionate 100 mcg and salmeterol 50 mcg inhalation powder)
 
-ADVAIR DISKUS® 250/50
+ADVAIR DISKUS ® 250/50
 
 (fluticasone propionate 250 mcg and salmeterol 50 mcg inhalation powder)
 
@@ -22,7 +22,7 @@ What is the most important information I should know about ADVAIR DISKUS?
   - fluticasone propionate (the same medicine found in FLOVENT®), an inhaled corticosteroid medicine.
     Inhaled corticosteroids help to decrease inflammation in the lungs.
     Inflammation in the lungs can lead to asthma symptoms.
-  - salmeterol (the same medicine found in SEREVENT®), a long-acting beta2-agonist medicine or LABA.
+  - salmeterol (the same medicine found in SEREVENT ®), a long-acting beta2-agonist medicine or LABA.
     LABA medicines are used in patients with asthma and chronic obstructive pulmonary disease (COPD).
     LABA medicines help the muscles around the airways in your lungs stay relaxed to prevent symptoms, such as wheezing and shortness of breath.
     These symptoms can happen when the muscles around the airways tighten.
@@ -45,7 +45,7 @@ What is the most important information I should know about ADVAIR DISKUS?
 
 What is ADVAIR DISKUS?
 
-ADVAIR DISKUS combines an inhaled corticosteroid medicine, fluticasone propionate (the same medicine found in FLOVENT) and a long-acting beta2-agonist medicine, salmeterol (the same medicine found in SEREVENT).
+ADVAIR DISKUS combines an inhaled corticosteroid medicine, fluticasone propionate (the same medicine found in FLOVENT) and a long- acting beta2-agonist medicine, salmeterol (the same medicine found in SEREVENT).
 ADVAIR DISKUS is used for asthma and chronic obstructive pulmonary disease (COPD) as follows:
 
 Asthma
@@ -57,7 +57,6 @@ Because LABA medicines, such as salmeterol, may increase the chance of death fro
 
 - are well controlled with another asthma-controller medicine, such as a low to medium dose of an inhaled corticosteroid medicine
 - only need short-acting beta2-agonist medicines once in awhile
-  - 
 
 Chronic Obstructive Pulmonary Disease (COPD)
 
@@ -130,7 +129,7 @@ What are the possible side effects with ADVAIR DISKUS?
 
 - ADVAIR DISKUS contains salmeterol (the same medicine found in SEREVENT).
   In patients with asthma, LABA medicines, such as salmeterol, may increase the chance of death from asthma problems.
-  See“What is the most important information I should know about ADVAIR DISKUS?”
+  See “What is the most important information I should know about ADVAIR DISKUS?”
 
 Other possible side effects with ADVAIR DISKUS include:
 
@@ -145,7 +144,8 @@ Other possible side effects with ADVAIR DISKUS include:
 - immune system effects and a higher chance for infections
 - lower bone mineral density.
   This may be a problem for people who already have a higher chance for low bone density (osteoporosis).
-- eye problems including glaucoma and cataracts.You should have regular eye exams while using ADVAIR DISKUS.
+- eye problems including glaucoma and cataracts.
+  You should have regular eye exams while using ADVAIR DISKUS.
 - slowed growth in children.
   A child’s growth should be checked often.
 - throat irritation
@@ -159,7 +159,7 @@ How do I store ADVAIR DISKUS?
 
 - Store ADVAIR DISKUS at room temperature between 68° to 77° F (20° to 25° C). Keep in a dry place away from heat and sunlight.
 - Safely discard ADVAIR DISKUS 1 month after you remove it from the foil pouch, or after the dose indicator reads “0”, whichever comes first.
-- Keep ADVAIR DISKUS and all medicines out of the reach of children.
+- Keep ADVAIR DISKUS and all medicinesout of the reach of children.
 
 General Information about ADVAIR DISKUS
 
@@ -179,9 +179,9 @@ Follow the instructions below for using your ADVAIR DISKUS.
 You will breathe in (inhale) the medicine from the DISKUS.
 If you have any questions, ask your healthcare provider or pharmacist.
 
-Take the ADVAIR DISKUS out of the box and foil overwrap pouch.
+Take the ADVAIR DISKUS out of the box and foil pouch.
 Write the “Pouch opened” and “Use by” dates on the label on top of the DISKUS.
-The“Use by” date is1 month from date of opening the pouch.
+The “Use by” date is1 month from date of opening the pouch.
 
 - The DISKUS will be in the closed position when the pouch is opened.
 - The dose indicator on the top of the DISKUS tells you how many doses are left.
@@ -208,39 +208,27 @@ Taking a dose from the DISKUS requires the following 3 simple steps: Open, Click
    - Do not play with the lever.
    - Do not move the lever more than once.
      - 
-3. INHALE
-
-1. 
-
-Before inhaling your dose from the DISKUS, breathe out (exhale) fully while holding the DISKUS level and away from your mouth (see Figure 4).
-Remember, never breathe out into the DISKUS mouthpiece.
-
-Figure 4
-
-Put the mouthpiece to your lips (see Figure 5).
-Breathe in quickly and deeply through the DISKUS.
-Do not breathe in through your nose.
-
-Figure 5
-
-Remove the DISKUS from your mouth.
-Hold your breath for about 10 seconds, or for as long as is comfortable.
-Breathe out slowly.
-
-The DISKUS delivers your dose of medicine as a very fine powder.
-Most patients can taste or feel the powder.
-Do not use another dose from the DISKUS if you do not feel or taste the medicine.
-
-Rinse your mouth with water after breathing-in the medicine.
-Spit the water out.
-Do not swallow.
-
-1. Close the DISKUS when you are finished taking a dose so that the DISKUS will be ready for you to take your next dose.
+3. INHALEBefore inhaling your dose from the DISKUS, breathe out (exhale) fully while holding the DISKUS level and away from your mouth (see Figure 4).
+   Remember, never breathe out into the DISKUS mouthpiece.Figure 4Put the mouthpiece to your lips (see Figure 5).
+   Breathe in quickly and deeply through the DISKUS.
+   Do not breathe in through your nose.
+   Figure 5Remove the DISKUS from your mouth.
+   Hold your breath for about 10 seconds, or for as long as is comfortable.
+   Breathe out slowly.
+   The DISKUS delivers your dose of medicine as a very fine powder.
+   Most patients can taste or feel the powder.
+   Do not use another dose from the DISKUS if you do not feel or taste the medicine.
+   Rinse your mouth with water after breathing-in the medicine.
+   Spit the water out.
+   Do not swallow.
+4. Close the DISKUS when you are finished taking a dose so that the DISKUS will be ready for you to take your next dose.
    Put your thumb on the thumbgrip and slide the thumbgrip back towards you as far as it will go (see Figure 6).
    The DISKUS will click shut.
    The lever will automatically return to its original position.
    The DISKUS is now ready for you to take your next scheduled dose, due in about 12 hours.
    (Repeat steps 1 to 4.)
+
+1. 
 
 Figure 6
 
@@ -267,9 +255,9 @@ ADVAIR DISKUS, SEREVENT, and DISKUS are registered trademarks of GlaxoSmithKline
 
 The following are registered trademarks of their respective manufacturers: FORADIL AEROLIZER/Novartis Pharmaceuticals Corporation; NORVIR and KALETRA/Abbott Laboratories.
 
-©2006, GlaxoSmithKline.
+©2007, GlaxoSmithKline.
 All rights reserved.
 
-September 2006 MG-040
+Febuary 2007MG-041
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

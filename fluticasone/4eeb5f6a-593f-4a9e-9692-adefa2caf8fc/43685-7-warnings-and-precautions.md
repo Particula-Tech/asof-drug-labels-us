@@ -5,7 +5,7 @@ Therefore, when treating patients with asthma, physicians should only prescribe 
 
 A large placebo-controlled US study that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol.
 The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized, double-blind study that enrolled long-acting beta2-agonist−naive patients with asthma to assess the safety of salmeterol (SEREVENT Inhalation Aerosol) 42 mcg twice daily over 28 weeks compared to placebo when added to usual asthma therapy.
-A planned interim analysis was conducted when approximately half of the intended number of patients had been enrolled (N = 26,355), which led to premature termination of the study.
+A planned interim analysis was conducted when approximately half of the intended number of patientshad been enrolled (N = 26,355), which led to premature termination of the study.
 The results of the interim analysis showed that patients receiving salmeterol were at increased risk for fatal asthma events (see Table 3 and Figure 7).
 In the total population, a higher rate of asthma-related death occurred in patients treated with salmeterol than those treated with placebo (0.10% vs. 0.02%; relative risk 4.37 [95% CI 1.25, 15.34]).
 
@@ -37,12 +37,12 @@ Table 3: Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Res
 | Salmeterol: N = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |
 | Placebo: N = 2,319 |  | 1 (0.04%) |  |  |
 
-* Life-table 28-week estimate, adjusted according to the patients’ actual lengths of exposure to study treatment to account for early withdrawal of patients from the study.
+*Life-table 28-week estimate, adjusted according to the patients’ actual lengths of exposure to study treatment to account for early withdrawal of patients from the study.
 
-† Relative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group.
+†Relative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group.
 The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period.
 
-‡ Estimate of the number of additional asthma-related deaths in patients treated with salmeterol in SMART, assuming 10,000 patients received salmeterol for a 28-week treatment period.
+‡Estimate of the number of additional asthma-related deaths in patients treated with salmeterol in SMART, assuming 10,000 patients received salmeterol for a 28-week treatment period.
 Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000.
 
 § The Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”
@@ -69,8 +69,7 @@ The following additional WARNINGS about ADVAIR DISKUS should be noted.
    It was not possible from these reports to determine whether salmeterol contributed to these events.
 2. ADVAIR DISKUS should not be used to treat acute symptoms.
    An inhaled, short-acting beta2-agonist, not ADVAIR DISKUS, should be used to relieve acute symptoms of shortness of breath.
-   When prescribing ADVAIR DISKUS, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of shortness of breath that occurs acutely, despite regular twice-daily (morning and evening) use of ADVAIR DISKUS.
-   When beginning treatment with ADVAIR DISKUS, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
+   When prescribing ADVAIR DISKUS, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of shortness of breath that occurs acutely, despite regular twice-daily (morning and evening) use of ADVAIR DISKUS.When beginning treatment with ADVAIR DISKUS, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
    For patients taking ADVAIR DISKUS, inhaled, short-acting beta2-agonists should only be used for symptomatic relief of acute symptoms of shortness of breath (see PRECAUTIONS: Information for Patients).
 3. Increasing use of inhaled short-acting beta2-agonists is a marker of deteriorating asthma.
    The physician and patient should be alert to such changes.
@@ -80,11 +79,9 @@ The following additional WARNINGS about ADVAIR DISKUS should be noted.
    Patients should not use more than 1 inhalation twice daily (morning and evening) of ADVAIR DISKUS.
 4. ADVAIR DISKUS should not be used for transferring patients from systemic corticosteroid therapy.
    Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
-   After withdrawal from systemic corticosteroids, a number of months are required for recovery of HPA function.
-   Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
+   After withdrawal from systemic corticosteroids, a number of months are required for recovery of HPA function.Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
    During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
-   Although inhaled corticosteroids may provide control of asthma symptoms during these episodes, in recommended doses they supply less than normal physiological amounts of glucocorticoid systemically and do NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.
-   During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
+   Although inhaled corticosteroids may provide control of asthma symptoms during these episodes, in recommended doses they supply less than normal physiological amounts of glucocorticoid systemically and do NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
    These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress or a severe asthma attack.
 5. ADVAIR DISKUS should not be used in conjunction with an inhaled, long-acting beta2-agonist.
    Patients who are receiving ADVAIR DISKUS twice daily should not use additional salmeterol or other inhaled, long-acting beta2-agonists (e.g., formoterol) for prevention of exercise-induced bronchospasm (EIB) or the maintenance treatment of asthma or the maintenance treatment of bronchospasm associated with COPD.
@@ -95,7 +92,7 @@ The following additional WARNINGS about ADVAIR DISKUS should be noted.
    Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
 7. Paradoxical bronchospasm.
    As with other inhaled asthma and COPD medications, ADVAIR DISKUS can produce paradoxical bronchospasm, which may be life threatening.
-   If paradoxical bronchospasm occurs following dosing with ADVAIR DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator, ADVAIR DISKUS should be discontinued immediately, and alternative therapy should be instituted.
+   If paradoxical bronchospasm occurs following dosing with ADVAIR DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator; ADVAIR DISKUS should be discontinued immediately;and alternative therapy should be instituted.
 8. Immediate hypersensitivity reactions.
    Immediate hypersensitivity reactions may occur after administration of ADVAIR DISKUS, as demonstrated by cases of urticaria, angioedema, rash, and bronchospasm.
 9. Upper airway symptoms.
@@ -266,11 +263,11 @@ No formal drug interaction studies have been performed with ADVAIR DISKUS.
 ### Short-Acting Beta2-Agonists
 
 In clinical trials with patients with asthma, the mean daily need for albuterol by 166 adult and adolescent patients 12 years of age and older using ADVAIR DISKUS was approximately 1.3 inhalations/day, and ranged from 0 to 9 inhalations/day.
-Five percent (5%) of patients using ADVAIR DISKUS in these trials averaged 6 or more inhalations per day over the course of the 12 week trials.
+Five percent (5%) of patients using ADVAIR DISKUS in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
 No increase in frequency of cardiovascular adverse reactions was observed among patients who averaged 6 or more inhalations per day.
 
 In a COPD clinical trial, the mean daily need for albuterol for patients using ADVAIR DISKUS 250/50 was 4.1 inhalations/day.
-Twenty six percent (26%) of patients using ADVAIR DISKUS 250/50 averaged 6 or more inhalations per day over the course of the 24 week trial.
+Twenty six percent (26%) of patients using ADVAIR DISKUS 250/50 averaged 6 or more inhalations per day over the course of the 24-week trial.
 No increase in frequency of cardiovascular adverse reactions was observed among patients who averaged 6 or more inhalations of albuterol per day.
 
 ### Methylxanthines
@@ -304,7 +301,7 @@ Although the clinical relevance of these effects is not known, caution is advise
 
 ### Inhibitors of Cytochrome P450
 
-Fluticasone propionate is a substrate of cytochrome P450 3A4.
+Fluticasone propionate and salmeterol are substrates of cytochrome P450 3A4.
 A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a highly potent cytochrome P450 3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions).
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
 Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
@@ -330,7 +327,7 @@ In an 18-month carcinogenicity study in CD-mice, salmeterol at oral doses of 1.4
 The incidence of leiomyosarcomas was not statistically significant.
 No tumors were seen at 0.2 mg/kg (approximately 3 times the maximum recommended daily inhalation doses in adults and children based on comparison of the AUCs).
 
-In a 24-month oral and inhalation carcinogenicitystudy in Sprague Dawley rats, salmeterol caused a dose-related increase in the incidence of mesovarian leiomyomas and ovarian cysts at doses of 0.68 mg/kg and above (approximately 55 and 25 times, respectively, the maximum recommended daily inhalation dose in adults and children on a mg/m2 basis).
+In a 24-month oral and inhalation carcinogenicity study in Sprague Dawley rats, salmeterol caused a dose-related increase in the incidence of mesovarian leiomyomas and ovarian cysts at doses of 0.68 mg/kg and above (approximately 55 and 25 times, respectively, the maximum recommended daily inhalation dose in adults and children on a mg/m2 basis).
 No tumors were seen at 0.21 mg/kg (approximately 15 and 8 times, respectively, the maximum recommended daily inhalation dose in adults and children on a mg/m2 basis).
 These findings in rodents are similar to those reported previously for other beta-adrenergic agonist drugs.
 The relevance of these findings to human use is unknown.
@@ -353,7 +350,7 @@ No developmental toxicity was observed at combination doses up to 40 mcg/kg subc
 In rats, no teratogenicity was observed at combination doses up to 30 mcg/kg subcutaneously of fluticasone propionate (less than the maximum recommended daily inhalation dose in adults on a mcg/m2 basis) and up to 1 mg/kg of salmeterol (approximately 80 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 Combining 100 mcg/kg subcutaneously of fluticasone propionate (equivalent to the maximum recommended daily inhalation dose in adults on a mcg/m2 basis) with 10 mg/kg orally of salmeterol (approximately 810 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis) produced maternal toxicity, decreased placental weight, decreased fetal weight, umbilical hernia, delayed ossification, and changes in the occipital bone.
 There are no adequate and well-controlled studies with ADVAIR DISKUS in pregnant women.
-ADVAIR DISKUS should be used during pregnancy only if the potential benefitjustifies the potential risk to the fetus.
+ADVAIR DISKUS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 #### Fluticasone Propionate
 

@@ -4,14 +4,14 @@ ADVAIR DISKUS 100/50, ADVAIR DISKUS 250/50, and ADVAIR DISKUS 500/50 are combina
 
 One active component of ADVAIR DISKUS is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 
-Fluticasone propionate is a white to off-white powder with a molecular weight of 500.6, and the empirical formula is C25H31F3O5S.
+Fluticasone propionate is a white powder with a molecular weight of 500.6, and the empirical formula is C25H31F3O5S.
 It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
 
 The other active component of ADVAIR DISKUS is salmeterol xinafoate, a beta2-adrenergic bronchodilator.
 Salmeterol xinafoate is the racemic form of the 1-hydroxy-2-naphthoic acid salt of salmeterol.
 The chemical name of salmeterol xinafoate is 4-hydroxy-α1-[[[6-(4-phenylbutoxy)hexyl]amino]methyl]-1,3-benzenedimethanol, 1-hydroxy-2-naphthalenecarboxylate, and it has the following chemical structure:
 
-Salmeterol xinafoate is a white to off-white powder with a molecular weight of 603.8, and the empirical formula is C25H37NO4•C11H8O3.
+Salmeterol xinafoate is a white powder with a molecular weight of 603.8, and the empirical formula is C25H37NO4•C11H8O3.
 It is freely soluble in methanol; slightly soluble in ethanol, chloroform, and isopropanol; and sparingly soluble in water.
 
 ADVAIR DISKUS 100/50, ADVAIR DISKUS 250/50, and ADVAIR DISKUS 500/50 are specially designed plastic devices containing a double-foil blister strip of a powder formulation of fluticasone propionate and salmeterol xinafoate intended for oral inhalation only.

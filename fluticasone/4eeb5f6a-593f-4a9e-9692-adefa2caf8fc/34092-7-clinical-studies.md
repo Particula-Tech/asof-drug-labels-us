@@ -19,7 +19,7 @@ The study was stratified according to baseline asthma maintenance therapy; patie
 Baseline FEV1 measurements were similar across treatments: ADVAIR DISKUS 100/50, 2.17 L; fluticasone propionate 100 mcg, 2.11 L; salmeterol, 2.13 L; and placebo, 2.15 L.
 
 Predefined withdrawal criteria for lack of efficacy, an indicator of worsening asthma, were utilized for this placebo-controlled study.
-Worsening asthma was definedas a clinically important decrease in FEV1 or peak expiratory flow (PEF), increase in use of VENTOLIN® (albuterol, USP) Inhalation Aerosol, increase in night awakenings due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
+Worsening asthma was defined as a clinically important decrease in FEV1 or peak expiratory flow (PEF), increase in use of VENTOLIN® (albuterol, USP) Inhalation Aerosol, increase in night awakenings due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
 As shown in Table 1, statistically significantly fewer patients receiving ADVAIR DISKUS 100/50 were withdrawn due to worsening asthma compared with fluticasone propionate, salmeterol, and placebo.
 
 Table 1.
