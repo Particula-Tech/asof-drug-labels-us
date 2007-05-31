@@ -1,0 +1,156 @@
+# WARNINGS
+
+There have been reports of hepatic dysfunction, including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice, occurring in patients receiving oral erythromycin products.
+
+There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis.
+Infants born to women treated during pregnancy with oral erythromycin for early syphilis should be treated with an appropriate penicillin regimen.
+
+Pseudomembranous colitis has been reported with nearly all antibacterial agents, including erythromycin, and may range in severity from mild to life threatening.
+Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+
+Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
+Studies indicate that a toxin produced by Clostridium difficile is a primary cause of "antibiotic-associated colitis".
+
+After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
+Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
+In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
+
+Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin.
+Therefore, patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase (CK) and serum transaminase levels.
+(See package insert for lovastatin.)
+
+# PRECAUTIONS
+
+## General
+
+Prescribing Ery-Ped in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
+(See CLINICAL PHARMACOLOGY and WARNINGS sections.)
+
+There have been reports that erythromycin may aggravate the weakness of patients with myasthenia gravis.
+
+There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
+In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.4 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
+
+Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
+If superinfection occurs, erythromycin should be discontinued and appropriate therapy instituted.
+
+When indicated, incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy.
+
+## Information for Patients
+
+Patients should be counseled that antibacterial drugs including Ery-Ped should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When Ery-Ped is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ery-Ped or other antibacterial drugs in the future.
+
+## Drug Interactions
+
+Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase in serum theophylline levels and potential theophylline toxicity.
+In case of theophylline toxicity and/or elevated serum theophylline levels, the dose of theophylline should be reduced while the patient is receiving concomitant erythromycin therapy.
+
+Concomitant administration of erythromycin and digoxin has been reported to result in elevated digoxin serum levels.
+
+There have been reports of increased anticoagulant effects when erythromycin and oral anticoagulants were used concomitantly.
+Increased anticoagulation effects due to interactions of erythromycin with various oral anticoagulants may be more pronounced in the elderly.
+
+Erythromycin is a substrate and inhibitor of the 3A isoform subfamily of the cytochrome p450 enzyme system (CYP3A).
+Coadministration of erythromycin and a drug primarily metabolized by CYP3A may be associated with elevations in drug concentrations that could increase or prolong both the therapeutic and adverse effects of the concomitant drug.
+Dosage adjustments may be considered, and when possible, serum concentrations of drugs primarily metabolized by CYP3A should be monitored closely in patients concurrently receiving erythromycin.
+
+The following are examples of some clinically significant CYP3A based drug interactions.
+Interactions with other drugs metabolized by the CYP3A isoform are also possible.
+The following CYP3A based drug interactions have been observed with erythromycin products in post-marketing experience:
+
+### Ergotamine/dihydroergotamine
+
+Concurrent use of erythromycin and ergotamine or dihydroergotamine has been associated in some patients with acute ergot toxicity characterized by severe peripheral vasospasm and dysesthesia.
+
+### Triazolobenzodiazepines (such as triazolam and alprazolam) and Related Benzodiazepines
+
+Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
+
+### HMG-CoA Reductase Inhibitors
+
+Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
+Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
+
+### Sildenafil (Viagra)
+
+Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
+Reduction of sildenafil dosage should be considered.
+(See Viagra package insert.)
+
+There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
+
+Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
+(See CONTRAINDICATIONS.)
+
+In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
+
+Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines terfenadine and astemizole when taken concomitantly.
+Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed.
+(See CONTRAINDICATIONS.)
+In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.
+
+There have been post-marketing reports of drug interactions when erythromycin was co-administered with cisapride, resulting in QT prolongation, cardiac arrhythmias, ventricular tachycardia, ventricular fibrillation, and torsades de pointes most likely due to the inhibition of hepatic metabolism of cisapride by erythromycin.
+Fatalities have been reported.
+(See CONTRAINDICATIONS.)
+
+## Drug/Laboratory Test Interactions
+
+Erythromycin interferes with the fluorometric determination of urinary catecholamines.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term (2-year) oral studies in rats with erythromycin ethylsuccinate and erythromycin base did not provide evidence of tumorigenicity.
+Mutagenicity studies have not been conducted.
+There was no apparent effect on male or female fertility in rats fed erythromycin (base) at levels up to 0.25% of diet.
+
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category B
+
+There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% of diet) prior to and during mating, during gestation, and through weaning of two successive litters.
+There are, however, no adequate and well-controlled studies in pregnant women.
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+## Labor and Delivery
+
+The effect of erythromycin on labor and delivery is unknown.
+
+## Nursing Mothers
+
+Erythromycin is excreted in human milk.
+Caution should be exercised when erythromycin is administered to a nursing woman.
+
+## Pediatric Use
+
+See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
+
+## Geriatric Use
+
+Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss.
+(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+
+Elderly patients may be more susceptible to development of torsades de pointes arrhythmias then younger patients.
+(See ADVERSE REACTIONS).
+
+Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
+(See PRECAUTIONS - Drug Interactions).
+
+Ery-Ped 200 contains 117.5 mg (5.1 mEq) of sodium per individual dose.
+
+Ery-Ped 400 contains 117.5 mg (5.1 mEq) of sodium per individual dose.
+
+Based on the 200 mg/5 mL strength, at the usual recommended doses, adult patients would receive a total of 940 mg/day (40.8 mEq) of sodium.
+Based on the 400 mg/5 mL strength, at the usual recommended doses, adult patients would receive a total of 470 mg/day (20.4 mEq) of sodium.
+The geriatric population may respond with a blunted natriuresis to salt loading.
+This may be clinically important with regard to such diseases as congestive heart failure.
+
+ERYPED® Drops contains 58.8 mg (2.6 mEq) of sodium per individual dose.
