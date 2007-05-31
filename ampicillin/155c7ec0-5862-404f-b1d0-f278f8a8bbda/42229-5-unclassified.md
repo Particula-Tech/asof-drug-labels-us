@@ -164,4 +164,6 @@ NOTE: Once vial is sealed, do not attempt to remove.
 
 Rx only
 
-LAB-0017-3.0
+LAB-0017-4.0
+
+April 2007

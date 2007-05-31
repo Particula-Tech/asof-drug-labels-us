@@ -9,14 +9,16 @@ IF AN ALLERGIC REACTION OCCURS, UNASYN SHOULD BE DISCONTINUED AND THE APPROPRIAT
 SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including UNASYN, and has ranged in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including UNASYN, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis."
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -35,6 +37,10 @@ Patients should be counseled that antibacterial drugs including UNASYN should on
 They do not treat viral infections (e.g., the common cold).
 When UNASYN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by UNASYN or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Drug Interactions
 
