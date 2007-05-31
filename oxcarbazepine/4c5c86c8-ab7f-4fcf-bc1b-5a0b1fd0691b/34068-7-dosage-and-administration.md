@@ -97,4 +97,4 @@ In general, dose adjustments are not required in patients with mild-to-moderate 
 
 ## Patients with Renal Impairment
 
-In patients with impaired renal function (creatinine clearance <30 mL/min) Trileptal therapy should be initiated at one-half the usual starting dose (300 mg/day) and increased slowly to achieve the desired clinical response (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations subsection).
+In patients with impaired renal function (creatine clearance <30 mL/min) Trileptal therapy should be initiated at one-half the usual starting dose (300 mg/day) and increased slowly to achieve the desired clinical response (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations subsection).

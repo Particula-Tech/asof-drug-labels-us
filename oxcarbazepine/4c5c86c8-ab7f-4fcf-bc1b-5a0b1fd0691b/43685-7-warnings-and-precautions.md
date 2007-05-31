@@ -12,13 +12,20 @@ In clinical trials, patients whose treatment with Trileptal was discontinued due
 
 Measurement of serum sodium levels should be considered for patients during maintenance treatment with Trileptal, particularly if the patient is receiving other medications known to decrease serum sodium levels (for example, drugs associated with inappropriate ADH secretion) or if symptoms possibly indicating hyponatremia develop (e.g., nausea, malaise, headache, lethargy, confusion, obtundation, or increase in seizure frequency or severity).
 
-### Patients with a Past History of Hypersensitivity Reaction to Carbamazepine
+## Anaphylactic Reactions and Angioedema
+
+Rare cases of anaphylaxis and angioedema involving the larynx, glottis, lips and eyelids have been reported in patients after taking the first or subsequent doses of Trileptal.
+Angioedema associated with laryngeal edema can be fatal.
+If a patient develops any of these reactions after treatment with Trileptal, the drug should be discontinued and an alternative treatment started.
+These patients should not be rechallenged with the drug (see WARNINGS, Patients with a Past History of Hypersensitivity Reaction to Carbamazepine subsection).
+
+## Patients with a Past History of Hypersensitivity Reaction to Carbamazepine
 
 Patients who have had hypersensitivity reactions to carbamazepine should be informed that approximately 25%-30% of them will experience hypersensitivity reactions with Trileptal.
 For this reason patients should be specifically questioned about any prior experience with carbamazepine, and patients with a history of hypersensitivity reactions to carbamazepine should ordinarily be treated with Trileptal only if the potential benefit justifies the potential risk.
-If signs or symptoms of hypersensitivity develop, Trileptal should be discontinued immediately (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
+If signs or symptoms of hypersensitivity develop, Trileptal should be discontinued immediately (see WARNINGS, Anaphylactic Reactions and Angioedema subsection; see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
 
-### Serious Dermatological Reactions
+## Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both children and adults in association with Trileptal use.
 The median time of onset for reported cases was 19 days.
@@ -29,7 +36,7 @@ The reporting rate of TEN and SJS associated with Trileptal use, which is genera
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking Trileptal, consideration should be given to discontinuing Trileptal use and prescribing another antiepileptic medication.
 
-### Withdrawal of AEDs
+## Withdrawal of AEDs
 
 As with all antiepileptic drugs, Trileptal should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
@@ -76,18 +83,15 @@ Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient d
 Multi-organ hypersensitivity reactions have occurred in close temporal association (median time to detection 13 days: range 4-60) to the initiation of Trileptal therapy in adult and pediatric patients.
 Although there have been a limited number of reports, many of these cases resulted in hospitalization and some were considered life threatening.
 Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
-Other organ systems and manifestations included hemic and lymphatic (e.g., eosinophilia, thrombocytopenia, lymphadenopathy, leukopenia, neutropenia, splenomegaly), hepatobiliary (e.g., hepatitis, liver function test abnormalities),, renal (e.g., proteinuria, nephritis, oliguria, renal failure), muscles and joints (e.g., joint swelling, myalgia, arthralgia, asthenia), nervous system (e.g., hepatic encephalopathy), respiratory (e.g., dyspnea, pulmonary edema, asthma, bronchospasm, interstitial lung disease), hepatorenal syndrome, pruritus, and angioedema.
+Other associated manifestations included lymphadenopathy, hepatitis, liver function test abnormalities, hematological abnormalities (e.g., eosinophilia, thrombocytopenia, neutropenia), pruritis, nephritis, oliguria, hepatorenal syndrome, arthralgia and asthenia.
 Because the disorder is variable in its expression, other organ system symptoms and signs, not noted here, may occur.
 If this reaction is suspected, Trileptal should be discontinued and an alternative treatment started.
 Although there are no case reports to indicate cross sensitivity with other drugs that produce this syndrome, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility (see WARNINGS, Patients with a Past History of Hypersensitivity Reaction to Carbamazepine subsection).
 
-## Hematologic Events
-
-Very rare reports of agranulocytosis, aplastic anemia and pancytopenia have been seen in patients treated with Trileptal during post-marketing experience.
-However, due to the very low incidence of these events and confounding factors (e.g. underlying disease, concomitant medication), causality cannot be established.
-Discontinuation of the drug should be considered if any evidence of these hematologic events develop.
-
 ## Information for Patients
+
+Anaphylactic reactions and angioedema may occur during treatment with Trileptal.
+Patients should be advised to report immediately signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, tongue or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician (see WARNINGS, Anaphylactic Reactions and Angioedema subsection).
 
 Patients who have exhibited hypersensitivity reactions to carbamazepine should be informed that approximately 25%-30% of these patients may experience hypersensitivity reactions with Trileptal.
 Patients should be advised that if they experience a hypersensitivity reaction while taking Trileptal they should consult with their physician immediately (see WARNINGS, Patients with a Past History of Hypersensitivity Reaction to Carbamazepine subsection).
@@ -96,9 +100,6 @@ Patients should be advised that serious skin reactions have been reported in ass
 In the event a skin reaction should occur while taking Trileptal, patients should consult with their physician immediately (see WARNINGS, Serious Dermatological Reactions subsection).
 
 Patients should be instructed that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug related and should be reported to the physician immediately (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
-
-Patients should be advised that there have been very rare reports of blood disorders reported in patients treated with Trileptal.
-Patients should be instructed to immediately consult with their physician if they experience symptoms suggestive of blood disorders (see PRECAUTIONS, Hematologic Events subsection).
 
 Female patients of childbearing age should be warned that the concurrent use of Trileptal with hormonal contraceptives may render this method of contraception less effective (see Drug Interactions subsection).
 Additional non-hormonal forms of contraception are recommended when using Trileptal.
@@ -129,7 +130,8 @@ In vitro, the UDP-glucuronyl transferase level was increased, indicating inducti
 Increases of 22% with MHD and 47% with oxcarbazepine were observed.
 As MHD, the predominant plasma substrate, is only a weak inducer of UDP-glucuronyl transferase, it is unlikely to have an effect on drugs that are mainly eliminated by conjugation through UDP-glucuronyl transferase (e.g., valproic acid, lamotrigine).
 
-In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists, oral contraceptives and cyclosporine resulting in a lower plasma concentration of these drugs.
+In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists and oral contraceptives, resulting in a lower plasma concentration of these drugs.
+
 As binding of MHD to plasma proteins is low (40%), clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 
 ### Antiepileptic Drugs

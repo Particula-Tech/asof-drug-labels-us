@@ -267,8 +267,10 @@ The following adverse events not seen in controlled clinical trials have been ob
 
 Body as a Whole: Multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
 
+Anaphylaxis (see WARNINGS, Anaphylactic Reactions and Angioedema subsection).
+
 Digestive System: Pancreatitis and/or lipase and/or amylase increase.
 
-Hemic and Lymphatic System: Bone marrow depression, agranulocytosis, aplastic anemia, pancytopenia, neutropenia (see PRECAUTIONS, Hematologic Events subsection).
+Metabolism and Nutrition Disorders: Folic acid deficiency.
 
 Skin and Appendages: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (see WARNINGS, Serious Dermatological Reactions subsection).
