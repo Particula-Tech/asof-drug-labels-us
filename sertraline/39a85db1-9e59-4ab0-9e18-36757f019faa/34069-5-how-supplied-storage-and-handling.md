@@ -1,0 +1,53 @@
+# HOW SUPPLIED
+
+Sertraline hydrochloride tablets, contains sertraline hydrochloride equivalent to 25, 50 and 100 mg of sertraline.
+
+Sertraline hydrochloride tablets are supplied as:
+
+25 mg Tablets: Green colored, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘1’ and ‘6’ on the other side.
+
+NDC 65862-011-30 Bottles of 30
+
+NDC 65862-011-50 Bottles of 50
+
+NDC 65862-011-60 Bottles of 60
+
+NDC 65862-011-90 Bottles of 90
+
+NDC 65862-011-01 Bottles of 100
+
+NDC 65862-011-05 Bottles of 500
+
+50 mg Tablets: Blue colored, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘1’ and ‘7’ on the other side.
+
+NDC 65862-012-30 Bottles of 30
+
+NDC 65862-012-50 Bottles of 50
+
+NDC 65862-012-60 Bottles of 60
+
+NDC 65862-012-90 Bottles of 90
+
+NDC 65862-012-01 Bottles of 100
+
+NDC 65862-012-05 Bottles of 500
+
+100 mg Tablets: Yellow colored, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘1’ and ‘8’ on the other side.
+
+NDC 65862-013-30 Bottles of 30
+
+NDC 65862-013-50 Bottles of 50
+
+NDC 65862-013-60 Bottles of 60
+
+NDC 65862-013-90 Bottles of 90
+
+NDC 65862-013-01 Bottles of 100
+
+NDC 65862-013-05 Bottles of 500
+
+Store at 20º to 25ºC (68º to 77ºF); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India
