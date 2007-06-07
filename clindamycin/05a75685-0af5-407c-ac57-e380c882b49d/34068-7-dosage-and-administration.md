@@ -80,7 +80,9 @@ Frozen solutions should be thawed at room temperature and not refrozen.
 
 ## DIRECTIONS FOR DISPENSING
 
-Pharmacy Bulk Package—Not for Direct Infusion The Pharmacy Bulk Package is for use in a Pharmacy Admixture Service only under a laminar flow hood.
+Pharmacy Bulk Package — Not for Direct Infusion
+
+The Pharmacy Bulk Package is for use in a Pharmacy Admixture Service only under a laminar flow hood.
 Entry into the vial should be made with a small diameter sterile transfer set or other small diameter sterile dispensing device, and contents dispensed in aliquots using aseptic technique.
 Multiple entries with a needle and syringe are not recommended.
 AFTER ENTRY USE ENTIRE CONTENTS OF VIAL PROMPTLY.

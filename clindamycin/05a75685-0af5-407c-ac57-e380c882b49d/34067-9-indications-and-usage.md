@@ -22,12 +22,6 @@ Intra-abdominal infections including peritonitis and intra-abdominal abscess cau
 
 Septicemia caused by Staphylococcus aureus, streptococci (except Enterococcus faecalis), and susceptible anaerobes.
 
-Gynecological infections including endometritis, nongonococcal tuboovarian abscess, pelvic cellulitis, and postsurgical vaginal cuff infection caused by susceptible anaerobes.
-
-Intra-abdominal infections including peritonitis and intra-abdominal abscess caused by susceptible anaerobic organisms.
-
-Septicemia caused by Staphylococcus aureus, streptococci (except Enterococcus faecalis), and susceptible anaerobes.
-
 Bone and joint infections including acute hematogenous osteomyelitis caused by Staphylococcus aureus and as adjunctive therapy in the surgical treatment of chronic bone and joint infections due to susceptible organisms.
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of CLEOCIN PHOSPHATE and other antibacterial drugs, CLEOCIN PHOSPHATE should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
