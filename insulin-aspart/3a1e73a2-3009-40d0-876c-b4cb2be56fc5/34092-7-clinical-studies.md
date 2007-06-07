@@ -11,12 +11,12 @@ No serum glucose measurements were obtained in these studies.
 To evaluate the safety and efficacy of NovoLog in patients with Type 2 diabetes, one six-month, open-label, active-control (NovoLog vs. Novolin R) study was conducted (see Table 1).
 NovoLog was administered by subcutaneous injection immediately prior to meals and regular human insulin was administered by subcutaneous injection 30 minutes before meals.
 NPH insulin was administered as the basal insulin in either single or divided daily doses.
-Changes in HbAlc and the rates of hypoglycemia (as determined from the number of events requiring intervention from a third party) were clinically comparable for the two treatment regimens.
+Changes in HbA1c and the rates of hypoglycemia (as determined from the number of events requiring intervention from a third party) were clinically comparable for the two treatment regimens.
 
 Table 1.
 Results of two six-month, active-control, open-label trials in patients with Type 1 diabetes (Studies A and B) and one six-month, active-control, open-label trial in patients with Type 2 diabetes (Study C).
 
-| Study | Treatment (n) | Mean HbA1c (%) |  | Hypoglycemia(events / month / patient)Events requiring intervention from a third party during the last three months of treatment | % of Patients Using Various Numbers of Insulin Injections / DayPercentages are rounded to the nearest whole number |  |  |  |  |
+| Study | Treatment (n) | Mean HbA1c (%) |  | Hypoglycemia Events requiring intervention from a third party during the last three months of treatment(events/month/patient) | % of Patients Using Various Numbers of Insulin Injections/DayPercentages are rounded to the nearest whole number |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Baseline | Month 6 | Rapid-acting |  |  | Basal |  |  |  |  |
 | 1-2 | 3 | 4-5 | 1 | 2 |  |  |  |  |  |
@@ -31,4 +31,4 @@ To evaluate the use of NovoLog by subcutaneous infusion with an external pump, t
 Changes in HbA1c and rates of hypoglycemia were comparable.
 Patients with Type 2 diabetes were also studied in an open-label, parallel design trial (16 weeks [n=127]) using NovoLog by subcutaneous infusion compared to pre-prandial injection (in conjunction with basal NPH injections).
 Reductions in HbA1c and rates of hypoglycemia were comparable.
-(See INDICATIONS AND USAGE, WARNINGS, PRECAUTIONS, Mixing of Insulins, Information for patients, DOSAGE AND ADMINISTRATION, and RECOMMENDED STORAGE.)
+(See INDICATIONS AND USAGE, WARNINGS, PRECAUTIONS, Mixing Of Insulins, Information For Patients, DOSAGE AND ADMINISTRATION, and RECOMMENDED STORAGE.)

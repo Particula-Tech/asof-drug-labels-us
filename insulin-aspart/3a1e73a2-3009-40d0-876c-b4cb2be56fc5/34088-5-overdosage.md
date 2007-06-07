@@ -1,6 +1,4 @@
-# DRUG ABUSE AND DEPENDENCE
-
-## Overdosage
+# OVERDOSAGE
 
 Excess insulin may cause hypoglycemia and hypokalemia, particularly during IV administration.
 Hypoglycemia may occur as a result of an excess of insulin relative to food intake, energy expenditure, or both.

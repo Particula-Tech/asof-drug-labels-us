@@ -1,9 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 NovoLog should generally be given immediately before a meal (start of meal within 5 to 10 minutes after injection) because of its fast onset of action.
-The dosage of
-
-NovoLog should be individualized and determined, based on the physician's advice, in accordance with the needs of the patient.
+The dosage of NovoLog should be individualized and determined, based on the physician's advice, in accordance with the needs of the patient.
 The total daily insulin requirement may vary and is usually between 0.5 to 1.0 units/kg/day.
 When used in a meal-related subcutaneous injection treatment regimen, 50 to 70% of total insulin requirements may be provided by NovoLog and the remainder provided by an intermediate-acting or long-acting insulin.
 Because of NovoLog’s comparatively rapid onset and short duration of glucose lowering activity, some patients may require more basal insulin and more total insulin to prevent pre-meal hyperglycemia when using NovoLog than when using human regular insulin.
@@ -19,6 +17,8 @@ As with all insulins, the duration of action will vary according to the dose, in
 
 Intravenous administration of NovoLog is possible under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia.
 For intravenous use, NovoLog should be used at concentrations from 0.05 U/mL to 1.0 U/mL insulin aspart in infusion systems with the infusion fluids 0.9% sodium chloride, 5% dextrose, or 10% dextrose with 40 mmol/l potassium chloride using polypropylene infusion bags.
+
+NovoLog may be diluted with Insulin Diluting Medium for NovoLog to a concentration of 1:10 (equivalent to U-10) or 1:2 (equivalent to U-50).
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Never use any NovoLog if it has become viscous (thickened) or cloudy; use it only if it is clear and colorless.

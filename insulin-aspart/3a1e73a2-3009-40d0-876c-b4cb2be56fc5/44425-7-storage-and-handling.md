@@ -10,8 +10,9 @@ The infusion set (tubing and needle) should be changed at least every 48 hours.
 
 NovoLog in the reservoir should be discarded after at least every 48 hours of use or after exposure to temperatures that exceed 37°C (98.6°F).
 
-|  | Not in-use (unopened) Room Temperature (below 30°C) | Not in-use (unopened) Refrigerated | In-use (opened) Room Temperature (below 30°C) |
+|  | Not in-use (unopened) | Not in-use (unopened) | In-use (opened) |
 | --- | --- | --- | --- |
+|  | Room Temperature (below 30°C) | Refrigerated | Room Temperature (below 30°C) |
 | 10 mL vial | 28 days | Until expiration date | 28 days (refrigerated/room temperature) |
 | 3 mL PenFill cartridges | 28 days | Until expiration date | 28 days (Do not refrigerate) |
 | 3 mL NovoLog FlexPen | 28 days | Until expiration date | 28 days (Do not refrigerate) |
@@ -19,22 +20,30 @@ NovoLog in the reservoir should be discarded after at least every 48 hours of us
 Infusion bags prepared as indicated under DOSAGE AND ADMINISTRATION are stable at room temperature for 24 hours.
 A certain amount of insulin will be initially adsorbed to the material of the infusion bag.
 
-Date of Issue: October 21, 2005
+NovoLog diluted with Insulin Diluting Medium for NovoLog may remain in patient use at temperatures below 30°C (86°F) for 28 days.
 
-NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate® and NovoFine® are trademarks of Novo Nordisk A/S
+Date of Issue: January 26, 2007
+
+Version: 12
+
+NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate® and NovoFine® are trademarks of Novo Nordisk A/S.
 
 H-TRON® is a trademark of Disetronic Medical Systems, Inc.
 
-NovoLog® is covered by US Patent Nos 5,618,913, 5,866,538, and other patents pending
+NovoLog® is covered by US Patent Nos 5,618,913, 5,866,538, and other patents pending.
 
-© Novo Nordisk A/S, 2002/2005
-
-Manufactured For
-
-Novo Nordisk Inc., Princeton, New Jersey 08540
-
-www.novonordisk-us.com
+© 2002-2007 Novo Nordisk Inc.
 
 Manufactured By
 
-Novo Nordisk A/S, 2880 Bagsvaerd, Denmark
+Novo Nordisk A/S
+
+DK-2880 Bagsvaerd, Denmark
+
+Manufactured For
+
+Novo Nordisk Inc.
+
+Princeton, New Jersey 08540
+
+www.novonordisk-us.com
