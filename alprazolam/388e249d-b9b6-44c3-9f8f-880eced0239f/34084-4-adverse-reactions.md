@@ -14,10 +14,11 @@ Even this use must be approached cautiously, as a drug may relieve a symptom in 
 
 Additionally, for anxiety disorders the cited figures can provide the prescriber with an indication as to the frequency with which physician intervention (eg, increased surveillance, decreased dosage or discontinuation of drug therapy) may be necessary because of the untoward clinical event.
 
-ANXIETY DISORDERS
+## Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
 
 |  | XANAX | PLACEBO | XANAX |
 | --- | --- | --- | --- |
+| ANXIETY DISORDERS |  |  |  |
 |  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of XANAX patients are included. |  | Incidence of Intervention Because of Symptom |
 | Number of Patients % of Patients Reporting: | 565 | 505 | 565 |
 | Central Nervous System |  |  |  |
@@ -55,10 +56,11 @@ ANXIETY DISORDERS
 
 In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
-PANIC DISORDER
+## Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Panic Disorder
 
 |  | XANAX | PLACEBO |
 | --- | --- | --- |
+| PANIC DISORDER |  |  |
 |  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of XANAX patients are included. |  |
 | Number of Patients % of Patients Reporting: | 1388 | 1231 |
 | Central Nervous System |  |  |
@@ -129,6 +131,35 @@ PANIC DISORDER
 
 In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of XANAX: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
 
+Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see PRECAUTIONS, General).
+
+## Adverse Events Reported as Reasons for Discontinuation in Treatment of Panic Disorder in Placebo-Controlled Trials
+
+In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received XANAX, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with XANAX and at a greater rate than the placebo treated group were as follows:
+
+| Percentage of 641 XANAX-Treated Panic Disorder Patients Reporting Events |  |  |  |
+| --- | --- | --- | --- |
+| DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE |  |  |  |
+| Body System/Event |  |  |  |
+| Neurologic |  | Gastrointestinal |  |
+| Insomnia | 29.5 | Nausea/Vomiting | 16.5 |
+| Light-headedness | 19.3 | Diarrhea | 13.6 |
+| Abnormal involuntary movement | 17.3 | Decreased salivation | 10.6 |
+| Headache | 17.0 | Metabolic-Nutritional |  |
+| Muscular twitching | 6.9 | Weight loss | 13.3 |
+| Impaired coordination | 6.6 | Decreased appetite | 12.8 |
+| Muscle tone disorders | 5.9 |  |  |
+| Weakness | 5.8 | Dermatological |  |
+| Psychiatric |  | Sweating | 14.4 |
+| Anxiety | 19.2 |  |  |
+| Fatigue and Tiredness | 18.4 | Cardiovascular |  |
+| Irritability | 10.5 | Tachycardia | 12.2 |
+| Cognitive disorder | 10.3 |  |  |
+| Memory impairment | 5.5 | Special Senses |  |
+| Depression | 5.1 | Blurred vision | 10.0 |
+| Confusional state | 5.0 |  |  |
+
+From the studies cited, it has not been determined whether these symptoms are clearly related to the dose and duration of therapy with XANAX in patients with panic disorder.
 There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of XANAX Tablets (see WARNINGS).
 
 To discontinue treatment in patients taking XANAX, the dosage should be reduced slowly in keeping with good medical practice.
@@ -136,49 +167,15 @@ It is suggested that the daily dosage of XANAX be decreased by no more than 0.5 
 Some patients may benefit from an even slower dosage reduction.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 
-Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients.
-Therefore, the same precaution must be exercised when using doses of XANAX greater than 4 mg/day in treating patients with panic disorders as is exercised with the use of any psychotropic drug in treating depressed patients or those in whom there is reason to expect concealed suicidal ideation or plans.
-
 As with all benzodiazepines, paradoxical reactions such as stimulation, increased muscle spasticity, sleep disturbances, hallucinations and other adverse behavioral effects such as agitation, rage, irritability, and aggressive or hostile behavior have been reported rarely.
 In many of the spontaneous case reports of adverse behavioral effects, patients were receiving other CNS drugs concomitantly and/or were described as having underlying psychiatric conditions.
 Should any of the above events occur, alprazolam should be discontinued.
 Isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder, a prior history of violent or aggressive behavior, or alcohol or substance abuse may be at risk for such events.
 Instances of irritability, hostility, and intrusive thoughts have been reported during discontinuation of alprazolam in patients with posttraumatic stress disorder.
 
-Laboratory analyses were performed on patients participating in the clinical program for XANAX.
-The following incidences of abnormalities shown below were observed in patients receiving XANAX and in patients in the corresponding placebo group.
-Few of these abnormalities were considered to be of physiological significance.
-
-|  | Low | High | Low | High |
-| --- | --- | --- | --- | --- |
-|  | XANAX |  | PLACEBO |  |
-| Hematology |  |  |  |  |
-| Hematocrit | Less than 1% |  |  |  |
-| Hemoglobin |  |  |  |  |
-| Total WBC Count | 1.4 | 2.3 | 1.0 | 2.0 |
-| Neutrophil Count | 2.3 | 3.0 | 4.2 | 1.7 |
-| Lymphocyte Count | 5.5 | 7.4 | 5.4 | 9.5 |
-| Monocyte Count | 5.3 | 2.8 | 6.4 |  |
-| Eosinophil Count | 3.2 | 9.5 | 3.3 | 7.2 |
-| Basophil Count |  |  |  |  |
-| Urinalysis |  |  |  |  |
-| Albumin | – |  | – |  |
-| Sugar | – |  | – |  |
-| RBC/HPF | – | 3.4 | – | 5.0 |
-| WBC/HPF | – | 25.7 | – | 25.9 |
-| Blood Chemistry |  |  |  |  |
-| Creatinine | 2.2 | 1.9 | 3.5 | 1.0 |
-| Bilirubin |  | 1.6 |  |  |
-| SGOT |  | 3.2 | 1.0 | 1.8 |
-| Alkaline Phosphatase |  | 1.7 |  | 1.8 |
-
-When treatment with XANAX is protracted, periodic blood counts, urinalysis and blood chemistry analyses are advisable.
-
-Minor changes in EEG patterns, usually low-voltage fast activity have been observed in patients during therapy with XANAX and are of no known significance.
-
 ## Post Introduction Reports
 
 Various adverse drug reactions have been reported in association with the use of XANAX since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of XANAX cannot be readily determined.
-Reported events include: liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, hyperprolactinemia, gynecomastia and galactorrhea.
+Reported events include: liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, hyperprolactinemia, gynecomastia, and galactorrhea.

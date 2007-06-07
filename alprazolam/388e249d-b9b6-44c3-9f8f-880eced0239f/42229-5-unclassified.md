@@ -1,3 +1,5 @@
+CIV
+
 Rx only
 
-LAB-0004-2.0
+LAB-0004-4.0 December 2006

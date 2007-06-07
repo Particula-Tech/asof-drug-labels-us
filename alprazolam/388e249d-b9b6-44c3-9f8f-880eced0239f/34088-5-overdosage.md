@@ -1,10 +1,12 @@
 # OVERDOSAGE
 
+## Clinical Experience
+
 Manifestations of alprazolam overdosage include somnolence, confusion, impaired coordination, diminished reflexes and coma.
 Death has been reported in association with overdoses of alprazolam by itself, as it has with other benzodiazepines.
 In addition, fatalities have been reported in patients who have overdosed with a combination of a single benzodiazepine, including alprazolam, and alcohol; alcohol levels seen in some of these patients have been lower than those usually associated with alcohol-induced fatality.
 
-The acute oral LD50 in rats is 331-2171 mg/kg.
+The acute oral LD50 in rats is 331–2171 mg/kg.
 Other experiments in animals have indicated that cardiopulmonary collapse can occur following massive intravenous doses of alprazolam (over 195 mg/kg; 975 times the maximum recommended daily human dose of 10 mg/day).
 Animals could be resuscitated with positive mechanical ventilation and the intravenous infusion of norepinephrine bitartrate.
 

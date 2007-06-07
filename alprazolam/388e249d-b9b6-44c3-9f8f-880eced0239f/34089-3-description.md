@@ -12,5 +12,5 @@ Each XANAX Tablet, for oral administration, contains 0.25, 0.5, 1 or 2 mg of alp
 
 XANAX Tablets, 2 mg, are multi-scored and may be divided as shown below:
 
-Inactive ingredients: Cellulose, corn starch, docusatesodium, lactose, magnesium stearate, silicon dioxide and sodium benzoate.
+Inactive ingredients: Cellulose, corn starch, docusate sodium, lactose, magnesium stearate, silicon dioxide and sodium benzoate.
 In addition, the 0.5 mg tablet contains FD&C Yellow No. 6 and the 1 mg tablet contains FD&C Blue No. 2.
