@@ -7,9 +7,6 @@ After observing the response to initial therapy with ARTHROTEC, the dose and fre
 
 For the relief of rheumatoid arthritis and osteoarthritis the recommended dose is given below.
 
-[Different dose strengths and formulations (i.e., capsules, tablets, suspensions) of the drugs are not necessarily bioequivalent.
-This difference should be taken into consideration when changing {formulation (type, strength)}].
-
 ARTHROTEC is administered as ARTHROTEC 50 (50 mg diclofenac sodium/200 mcg misoprostol) or as ARTHROTEC 75 (75 mg diclofenac sodium/200 mcg misoprostol).
 
 Note: See SPECIAL DOSING CONSIDERATIONS section, below.

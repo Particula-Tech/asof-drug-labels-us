@@ -10,7 +10,7 @@ Diclofenac sodium is completely absorbed from the GI tract after fasting, oral a
 The diclofenac sodium in ARTHROTEC is in a pharmaceutical formulation that resists dissolution in the low pH of gastric fluid but allows a rapid release of drug in the higher pH environment of the duodenum.
 Only 50% of the absorbed dose is systemically available due to first pass metabolism.
 Peak plasma levels are achieved in 2 hours (range 1–4 hours), and the area under the plasma concentration curve (AUC) is dose proportional within the range of 25 mg to 150 mg.
-Peak plasma levels are less than dose proportional and are approximately 1.5 and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
+Peak plasma levels are less than dose-proportional and are approximately 1.5 and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
 
 Plasma concentrations of diclofenac sodium decline from peak levels in a biexponential fashion, with the terminal phase having a half-life of approximately 2 hours.
 Clearance and volume of distribution are about 350 mL/min and 550 mL/kg, respectively.
@@ -38,8 +38,8 @@ A deficiency of prostaglandins within the gastric and duodenal mucosa may lead t
 Misoprostol can increase bicarbonate and mucus production, but in humans this has been shown at doses 200 mcg and above that are also antisecretory.
 It is therefore not possible to tell whether the ability of misoprostol to reduce the risk of gastric and duodenal ulcers is the result of its antisecretory effect, its mucosal protective effect, or both.
 
-In vitro studies on canine parietal cells using tritiated misoprostol acid as the ligand have led to the identification and characterization of specific prostaglandin receptors.
-Receptor binding is saturable, reversible, and stereospecific.
+In vitro studies on canine parietal cells using titrated misoprostol acid as the ligand have led to the identification and characterization of specific prostaglandin receptors.
+Receptor binding is saturable, reversible, and stereo-specific.
 The sites have a high affinity for misoprostol, for its acid metabolite, and for other E type prostaglandins, but not for F or I prostaglandins and other unrelated compounds, such as histamine or cimetidine.
 Receptor-site affinity for misoprostol correlates well with an indirect index of antisecretory activity.
 It is likely that these specific receptors allow misoprostol taken with food to be effective topically, despite the lower serum concentrations attained.
@@ -51,7 +51,7 @@ It has no significant effect on fasting or postprandial gastrin nor intrinsic fa
 
 Misoprostol, over the range of 50–200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
 Activity is apparent 30 minutes after oral administration and persists for at least 3 hours.
-In general, the effects of 50 mcg were modest and shorter lived, and only the 200-mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
+In general, the effects of 50 mcg were modest and shorter-lived, and only the 200-mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
 
 Orally administered misoprostol is rapidly and extensively absorbed, and it undergoes rapid metabolism to its biologically active metabolite, misoprostol acid.
 Misoprostol acid in ARTHROTEC reaches a maximum plasma concentration in about 20 minutes and is, thereafter, quickly eliminated with an elimination t1/2 of about 30 minutes.
@@ -59,7 +59,7 @@ There is high variability in plasma levels of misoprostol acid between and withi
 No accumulation of misoprostol acid was found in multiple-dose studies, and plasma steady state was achieved within 2 days.
 The serum protein binding of misoprostol acid is less than 90% and is concentration-independent in the therapeutic range.
 
-After oral administration of radiolabeled misoprostol, about 70% of detected radioactivity appears in the urine.
+After oral administration of radio-labeled misoprostol, about 70% of detected radioactivity appears in the urine.
 Maximum plasma concentrations of misoprostol acid are diminished when the dose is taken with food, and total availability of misoprostol acid is reduced by use of concomitant antacid.
 Clinical trials were conducted with concomitant antacid; this effect does not appear to be clinically important.
 
@@ -70,7 +70,7 @@ Misoprostol given for 1 week had no effect on the steady state pharmacokinetics 
 
 The pharmacokinetics following oral administration of a single dose (see Table 1) or multiple doses of ARTHROTEC (diclofenac sodium/misoprostol) to healthy subjects under fasted conditions are similar to the pharmacokinetics of the two individual components.
 
-Table 1.
+Table 1
 
 | MISOPROSTOL ACID Mean (SD) |  |  |  |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Table 1.
 | ARTHROTEC 75 | 304 (110) | 0.26 (0.09) | 177 (49) |
 | Cytotec | 290 (130) | 0.35 (0.12) | 176 (58) |
 | DICLOFENAC Mean (SD) |  |  |  |
-| Treatment (n=36) | Cmax(ng/mL) | tmax (hr) | AUC (0–4h) (ng∙hr/mL) |
+| Treatment (n=36) | Cmax(ng/mL) | tmax (hr) | AUC (0–12h) (ng∙hr/mL) |
 | ARTHROTEC 50 | 1207 (364) | 2.4 (1.0) | 1380 (272) |
 | Voltaren® | 1298 (441) | 2.4 (1.0) | 1357 (290) |
 | ARTHROTEC 75 | 2025 (2005) | 2.0 (1.4) | 2773 (1347) |

@@ -8,7 +8,7 @@ ARTHROTEC also contains misoprostol to decrease the chance of getting stomach an
 Serious side effects are still possible, however, and you should report to your doctor any signs or symptoms of gastrointestinal ulceration or bleeding, skin rash, weight gain or swelling.
 If signs of liver toxicity occur (nausea, fatigue, lethargy, itching, jaundice, right upper quadrant tenderness, and "flu-like" symptoms) you should stop therapy and seek immediate medical attention.
 
-If signs of an anaphylactoid reaction occur (e.g. difficulty breathing, swelling of the face or throat) you should stop therapy and seek immediate medical attention (see WARNINGS, Anaphylactoid reactions).
+If signs of an anaphylactoid reaction occur (e.g. difficulty breathing, swelling of the face or throat) you should stop therapy and seek immediate medical attention (see WARNINGS, Anaphylactoid Reactions).
 
 Do not take ARTHROTEC if you are pregnant (see boxed CONTRAINDICATIONS AND WARNINGS).
 ARTHROTEC contains diclofenac sodium and misoprostol.
@@ -47,15 +47,15 @@ This risk may increase with duration of use.
 
 Although serious GI tract ulcerations and bleeding can occur without warning symptoms, ask for medical advice when observing signs and symptoms of ulceration and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis.
 
-(see boxed CONTRAINDICATIONS AND WARNINGS)
+(See boxed CONTRAINDICATIONS AND WARNINGS)
 
 ARTHROTEC, like other NSAIDs, may cause serious skin side effects, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis, which may result in hospitalization and even death.
 
 Although serious skin reactions may occur without warning, ask for medical advice when observing sign or symptoms, such as skin rash and blisters, fever, or other signs hypersensitivity such as itching.
-Stop the drug immediately at the first appearance of skin rash or any other sign of hypersensitivity and contact your physician as soon as possible.
+Stop the drug immediately at the first appearance of skin rash or any other signs of hypersensitivity and contact your physician as soon as possible.
 
 Take ARTHROTEC only according to the directions given by your doctor.
-Changes in dose should be made only with your doctors approval.
+Changes in dose should be made only with your doctor's approval.
 
 Do not give ARTHROTEC to anyone else.
 It has been prescribed for your specific condition, may not be the correct treatment for another person, and could be dangerous for another person, especially a woman who may be, or could become, pregnant.
@@ -67,7 +67,9 @@ Keep out of reach of children.
 
 Rx only
 
-LAB-0061-6.0
+LAB-0061-8.0
+
+December 2006
 
 ## Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
@@ -81,7 +83,7 @@ This chance increases:
 - with longer use of NSAID medicines
 - in people who have heart disease
 
-NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG).".
+NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
 
 NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
 Ulcers and bleeding:
@@ -89,7 +91,7 @@ Ulcers and bleeding:
 - can happen without warning symptoms
 - may cause death
 
-The chance of a person getting an ulcer or bleeding increases with:.
+The chance of a person getting an ulcer or bleeding increases with:
 
 - taking medicines called "corticosteroids" and "anticoagulants"
 - longer use
@@ -98,7 +100,7 @@ The chance of a person getting an ulcer or bleeding increases with:.
 - older age
 - having poor health
 
-NSAID medicines should only be used:.
+NSAID medicines should only be used:
 
 - exactly as prescribed
 - at the lowest dose possible for your treatment

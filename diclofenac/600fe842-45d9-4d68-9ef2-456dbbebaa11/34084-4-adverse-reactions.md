@@ -8,7 +8,7 @@ Adverse reaction information for ARTHROTEC is derived from Phase III multination
 
 GI disorders had the highest reported incidence of adverse events for patients receiving ARTHROTEC.
 These events were generally minor, but led to discontinuation of therapy in 9% of patients on ARTHROTEC and 5% of patients on diclofenac.
-For GI ulcer rates, see CLINICAL STUDIES—Upper gastrointestinal safety.
+For GI ulcer rates, see CLINICAL STUDIES—Upper Gastrointestinal Safety.
 
 | GI disorder | ARTHROTEC | Diclofenac |
 | --- | --- | --- |

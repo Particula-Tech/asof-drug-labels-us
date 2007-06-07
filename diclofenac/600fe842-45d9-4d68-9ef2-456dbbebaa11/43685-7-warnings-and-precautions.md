@@ -20,7 +20,8 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS, Gastrointestinal Effects—Risk of Ulceration, Bleeding and Perforation).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding and Perforation).
+
 Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
 ### Hypertension
@@ -35,7 +36,7 @@ Blood pressure (BP) should be monitored closely during the initiation of NSAID t
 Fluid retention and edema have been observed in some patients taking NSAIDs.
 ARTHROTEC should be used with caution in patients with fluid retention or heart failure.
 
-## Gastrointestinal Effects—Risk of Ulceration, Bleeding and Perforation
+## Gastrointestinal Effects - Risk of Ulceration, Bleeding and Perforation
 
 NSAIDs, including ARTHROTEC, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
@@ -57,13 +58,15 @@ For high risk patients, alternate therapies that do not involve NSAIDs should be
 
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
-In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
 Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 ## Advanced Renal Disease
 
-No information is available from controlled clinical studies regarding the use of ARTHROTEC in patients with advanced renal disease.
+ARTHROTEC contains diclofenac.
+Diclofenac metabolites are eliminated primarily by the kidneys.
+The extent to which the metabolites may accumulate in patients with renal failure has not been studied.
 Therefore, treatment with ARTHROTEC is not recommended in these patients with advanced renal disease.
 If ARTHROTEC therapy must be initiated, close monitoring of the patient's renal function is advisable.
 
@@ -71,7 +74,7 @@ If ARTHROTEC therapy must be initiated, close monitoring of the patient's renal 
 
 Elevations of one or more liver tests may occur during therapy with ARTHROTEC.
 These laboratory abnormalities may progress, may remain unchanged, or may be transient with continued therapy.
-Borderline elevations (ie, less than 3 times the ULN [ULN = the upper limit of the normal range]), or greater elevations of transaminases occurred in about 15% of diclofenac-treated patients.
+Borderline elevations (i.e., less than 3 times the ULN [ULN = the upper limit of the normal range]), or greater elevations of transaminases occurred in about 15% of diclofenac-treated patients.
 Of the hepatic enzymes, ALT (SGPT) is the one recommended for the monitoring of liver injury.
 
 In clinical trials, meaningful elevations (ie, more than 3 times the ULN) of AST (SGOT) (ALT was not measured in all studies) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment.
@@ -79,23 +82,23 @@ In a large, open, controlled trial, meaningful elevations of ALT and/or AST occu
 In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Transaminase elevations were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
 
-In addition to enzyme elevations seen in clinical trials, postmarketing surveillance has found rare cases of severe hepatic reactions, including liver necrosis, jaundice, and fulminant fatal hepatitis with and without jaundice.
+In addition to enzyme elevations seen in clinical trials, post marketing surveillance has found rare cases of severe hepatic reactions, including liver necrosis, jaundice, and fulminant fatal hepatitis with and without jaundice.
 Some of these rare reported cases underwent liver transplantation.
 
 Physicians should measure transaminases periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
 The optimum times for making the first and subsequent transaminase measurements are not known.
 In the largest U.S. trial (open-label) that involved 3,700 patients monitored first at 8 weeks and 1,200 patients monitored again at 24 weeks, almost all meaningful elevations in transaminases were detected before patients became symptomatic.
 In 42 of the 51 patients in all trials who developed marked transaminase elevations, abnormal tests occurred during the first 2 months of therapy with diclofenac.
-Postmarketing experience has shown severe hepatic reactions can occur at any time during treatment with diclofenac.
+Post marketing experience has shown severe hepatic reactions can occur at any time during treatment with diclofenac.
 Cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy.
-Based on these experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac (see PRECAUTIONS—Laboratory tests).
+Based on these experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac (see PRECAUTIONS—Laboratory Tests).
 
 In clinical trials with ARTHROTEC, meaningful elevation of ALT (SGPT, more than 3 times the ULN) occurred in 1.6% of 2,184 patients treated with ARTHROTEC and in 1.4% of 1,691 patients treated with diclofenac sodium.
 These increases were generally transient, and enzyme levels returned to within the normal range upon discontinuation of therapy with ARTHROTEC.
 The misoprostol component of ARTHROTEC does not appear to exacerbate the hepatic effects caused by the diclofenac sodium component.
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of more severe hepatic reaction while on therapy with ARTHROTEC.
 
-As with other NSAID containing products, if abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (eg, eosinophilia, rash, etc), ARTHROTEC should be discontinued immediately.
+As with other NSAID containing products, if abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc), ARTHROTEC should be discontinued immediately.
 
 To minimize the possibility that hepatic injury will become severe between transaminase measurements, physicians should inform patients of the warning signs and symptoms of hepatotoxicity (eg, nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
 
@@ -147,16 +150,6 @@ Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
 Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, ARTHROTEC should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
 
-## Renal effects
-
-Caution should be used when initiating treatment with ARTHROTEC in patients with considerable dehydration.
-It is advisable to rehydrate patients first and then start therapy with ARTHROTEC.
-Caution is also recommended in patients with preexisting kidney disease (see WARNINGS—Advanced renal disease).
-
-Diclofenac metabolites are eliminated primarily by the kidneys.
-The extent to which the metabolites may accumulate in patients with renal failure has not been studied.
-As with other NSAIDs, metabolites of which are excreted by the kidney, patients with significantly impaired renal function should be more closely monitored.
-
 ## Aseptic meningitis
 
 As with other NSAIDs, aseptic meningitis with fever and coma has been observed on rare occasions in patients on diclofenac therapy.
@@ -187,15 +180,15 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
   Patients should be apprised of the importance of this follow-up (see WARNINGS, CARDIOVASCULAR EFFECTS).
 - ARTHROTEC, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalizations and even death.
   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulceration and bleeding, and should ask for medical advice when observing any indicative sign or symptoms, including epigastric pain, dyspepsia, melena, and hematemesis.
-  Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects—Risk of Ulceration, Bleeding and Perforation).
+  Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding and Perforation).
 - ARTHROTEC, like other NSAIDs, can cause serious skin side effects, such as exfoliative dermatitis, SJS and TEN, which may result in hospitalization and even death.
-  Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs hypersensitivity such as itching, and should ask for medical advice when observing any indicative sign or symptoms.
+  Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative sign or symptoms.
   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-- Patients should promptly report, signs or symptoms of unexplained weight gain or edema to their physicians.
+- Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 - Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness and "flu-like" symptoms).
-  If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+  If these occur, patients should be instructed to stop therapy and seek immediate medical attention.
 - Patients should be informed of the signs of an anaphylactoid reaction (e.g. difficulty breathing, swelling of the face or throat).
-  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactoid reactions).
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactoid Reactions).
 - In late pregnancy, as with other NSAIDs, ARTHROTEC should be avoided because it will cause premature closure of the ductus arteriosus.
 
 See PATIENT INFORMATION at the end of this labeling for important information to discuss with the patient.
@@ -222,12 +215,12 @@ Misoprostol has not been shown to exacerbate the effects of diclofenac on platel
 
 ### ACE-Inhibitors
 
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
+Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
 
 #### Aspirin
 
-When ARTHROTEC is administered with aspirin, its protein binding is reduced, although the clearance of the free ARTHROTEC is not altered.
+When ARTHROTEC is administered with aspirin, the protein binding of diclofenac is reduced, although the clearance of the free ARTHROTEC is not altered.
 The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of diclofenac sodium and aspirin is not generally recommended because of the potential risk of increased adverse effects.
 
 #### Digoxin
@@ -277,7 +270,7 @@ Thus, it is not recommended that ARTHROTEC be coadministered with magnesium-cont
 
 Clinical studies, as well as post marketing observations, have shown that ARTHROTEC can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see PRECAUTIONS, Renal Effects), as well as to assure diuretic efficacy.
+During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 Concomitant therapy with potassium-sparing diuretics may be associated with increased serum potassium levels.
 
 #### Other drugs
@@ -301,7 +294,7 @@ ARTHROTEC itself (diclofenac sodium and misoprostol combinations in 250:1 ratio)
 
 In a 24-month rat carcinogenicity study, oral misoprostol at doses up to 2.4 mg/kg/day (14.4 mg/m2/day, 24 times the recommended maximum human dose of 0.6 mg/m2/day) was not tumorigenic.
 In a 21-month mouse carcinogenicity study, oral misoprostol at doses up to 16 mg/kg/day (48 mg/m2/day), 80 times the recommended maximum human dose based on body surface area, was not tumorigenic.
-Misoprostol, when administered to male and female breeding rats in an oral dose-range of 0.1 to 10 mg/kg/day (0.6 to 60 mg/m2/day, 1 to 100 times the recommended maximum human dose based on body surface area) produced dose-related pre- and post-implantation losses and a significant decrease in the number of live pups born at the highest dose.
+Misoprostol, when administered to male and female breeding rats in an oral dose range of 0.1 to 10 mg/kg/day (0.6 to 60 mg/m2/day, 1 to 100 times the recommended maximum human dose based on body surface area) produced dose-related pre- and post-implantation losses and a significant decrease in the number of live pups born at the highest dose.
 These findings suggest the possibility of a general adverse effect on fertility in males and females.
 
 In a 24-month rat carcinogenicity study, oral diclofenac sodium up to 2 mg/kg/day (12 mg/m2/day) was not tumorigenic.
@@ -318,11 +311,11 @@ Pregnancy category X: See boxed CONTRAINDICATIONS AND WARNINGS regarding misopro
 See boxed CONTRAINDICATIONS AND WARNINGS.
 Misoprostol may endanger pregnancy (may cause abortion) and thereby cause harm to the fetus when administered to a pregnant woman.
 Misoprostol may produce uterine contractions, uterine bleeding, and expulsion of the products of conception.
-Misoprotol has been used to ripen the cervix, to induce labor, and to treat postpartum hemorrahage, outside of its approved indication.
+Misoprostol has been used to ripen the cervix, to induce labor, and to treat postpartum hemorrahage, outside of its approved indication.
 A major adverse effect of these uses is hyperstimulation of the uterus.
 Uterine rupture, amniotic fluid embolism, severe genital bleeding, shock, fetal bradycardia, and fetal and material death have been reported.
-Higher doses of misoprostol, including the 100mcg tablet, may increase the risk of complications from uterine hyperstimulation.
-ARTHROTEC, which contains 200mcg of misoprostol, is likely to have a greater risk of uterine hyperstimulation than the 100mcg tablet of misoprotol.
+Higher doses of misoprostol, including the 100 mcg tablet, may increase the risk of complications from uterine hyperstimulation.
+ARTHROTEC, which contains 200 mcg of misoprostol, is likely to have a greater risk of uterine hyperstimulation than the 100 mcg tablet of misoprostol.
 Abortions caused by misoprostol may be incomplete.
 If a woman is or becomes pregnant while taking this drug, the drug should be discontinued and the patient apprised of the potential hazard to the fetus.
 
@@ -330,7 +323,7 @@ Cases of amniotic fluid embolism, which resulted in maternal and fetal death, ha
 Severe vaginal bleeding, retained placenta, shock, fetal bradycardia, and pelvic pain have also been reported.
 These women were administered misoprostol vaginally and/or orally over a range of doses.
 
-Because of the known effects of nonsteriodial anti-inflammatory drugs, including the diclofenac sodium component of ARTHROTEC, on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
+Additionally, because of the known effects of nonsteroidal anti-inflammatory drugs, including the diclofenac sodium component of ARTHROTEC, on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
 
 ### Teratogenic effects
 
@@ -370,9 +363,8 @@ As with any NSAIDs, caution should be exercised in treating the elderly (65 year
 Of the more than 2,100 subjects in clinical studies with ARTHROTEC, 25% were 65 and over, while 6% were 75 and over.
 In studies with diclofenac, 31% of subjects were 65 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-As with any NSAID, the elderly are likely to tolerate adverse events less well than younger patients.
 
 Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to ARTHROTEC may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see PRECAUTIONS—Renal effects).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS—Renal effects).
 
-Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of ARTHROTEC—Special populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
+Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of ARTHROTEC—Special Populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
