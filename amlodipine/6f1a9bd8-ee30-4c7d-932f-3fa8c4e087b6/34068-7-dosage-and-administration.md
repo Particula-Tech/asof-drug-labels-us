@@ -17,6 +17,9 @@ The recommended dose of amlodipine for chronic stable or vasospastic angina is 5
 Most patients will require 10 mg for adequate effect.
 See ADVERSE REACTIONS section for information related to dosage and side effects.
 
+The recommended dose range of amlodipine for patients with coronary artery disease is 5–10 mg once daily.
+In clinical studies the majority of patients required 10 mg (see CLINICAL PHARMACOLOGY, Clinical studies).
+
 ### Children
 
 The effective antihypertensive oral dose of amlodipine in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily.
@@ -33,7 +36,7 @@ The recommended starting dose of atorvastatin is 10 or 20 mg once daily.
 Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily.
 The dosage range of atorvastatin is 10 to 80 mg once daily.
 Atorvastatin can be administered as a single dose at any time of the day, with or without food.
-The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response (see NCEP Guidelines, summarized in Table 8).
+The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response (see NCEP Guidelines, summarized in Table 9).
 After initiation and/or upon titration of atorvastatin, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
 
 Since the goal of treatment is to lower LDL-C, the NCEP recommends that LDL-C levels be used to initiate and assess treatment response.

@@ -253,3 +253,10 @@ The mean change in LDL-C from baseline after 6 weeks of treatment with atorvasta
 
 The rates of discontinuation in patients on atorvastatin due to adverse events were similar between the two age groups.
 There were no differences in clinically relevant laboratory abnormalities between the age groups.
+
+### In studies with Atorvastatin
+
+#### Use in Patients with Recent Stroke or TIA
+
+In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) study where LIPITOR 80 mg vs placebo was administered in 4,731 subjects without CHD who had a stroke or TIA within the preceding 6 months, a higher incidence of hemorrhagic stroke was seen in the LIPITOR 80 mg group compared to placebo.
+Subjects with hemorrhagic stroke on study entry appeared to be at increased risk for hemorrhagic stroke.
