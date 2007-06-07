@@ -1,0 +1,22 @@
+# HOW SUPPLIED
+
+## ROXICODONE® (oxycodone hydrochloride tablets, USP) are available as follows:
+
+15 mg green tablets scored (Identified 54 710) [Embossed 54 710 on one side] NDC 66479-581-10: Bottles of 100 tablets
+
+30 mg blue tablets scored (Identified 54 199) [Embossed 54 199 on one side] NDC 66479-582-10: Bottles of 100 tablets
+
+DEA Order Form Required Dispense in a tight, light-resistant container.
+Protect from moisture.
+Store at 25°C (77°F); excursions are permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature]
+
+ROXICODONE is a registered trademark of Xanodyne Pharmaceuticals, Inc.
+
+© 2006 Xanodyne Pharmaceuticals, Inc.
+
+Marketed by:
+
+Xanodyne® pharmaceuticals Inc. Newport, KY 41071
+
+10004436/01 Rev.
+03-2006
