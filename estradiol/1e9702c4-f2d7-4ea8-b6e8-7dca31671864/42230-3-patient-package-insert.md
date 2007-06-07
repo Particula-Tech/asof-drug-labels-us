@@ -27,6 +27,8 @@ Climara is used after menopause to:
     In other women, symptoms can be more severe.
     You and your healthcare provider should talk regularly about whether you still need treatment with Climara.
 - treat moderate to severe dryness, itching, and burning in or around the vagina.
+  - You and your healthcare provider should talk regularly about whether you still need treatment with Climara to control these problems.
+    If you use Climara only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
 - treat certain conditions in which a young woman’s ovaries do not produce enough treat estrogen naturally.
 - help reduce your chances of getting osteoporosis (thin weak bones).
   Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
