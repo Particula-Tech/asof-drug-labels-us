@@ -10,15 +10,19 @@ To minimize dose-independent side effects, it is usually appropriate to begin co
 The side effects (see WARNINGS) of valsartan are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter.
 Therapy with any combination of valsartan and hydrochlorothiazide will be associated with both sets of dose-independent side effects.
 
-Replacement Therapy: The combination may be substituted for the titrated components.
+## Replacement Therapy
 
-Dose titration by Clinical Effect: Diovan HCT tablets contain valsartan and hydrochlorothiazide, 80/12.5 mg, 160/12.5 mg and 160/25 mg.
-A patient whose blood pressure is not adequately controlled with valsartan monotherapy (see above) may add hydrochlorothiazide by switching to Diovan HCT (valsartan 80 mg/hydrochlorothiazide 12.5 mg or valsartan 160 mg/hydrochlorothiazide 12.5 mg) once daily.
+The combination may be substituted for the titrated components.
+
+## Dose Titration by Clinical Effect
+
+Diovan HCT tablets contain valsartan and hydrochlorothiazide, 80/12.5 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg and 320/25 mg.
+A patient whose blood pressure is not adequately controlled with valsartan monotherapy (see above) may add hydrochlorothiazide by switching to Diovan HCT (80/12.5 mg, 160/12.5 mg or 320/12.5 mg valsartan/hydrochlorothiazide) once daily.
 If blood pressure remains uncontrolled after about 3-4 weeks of therapy, either valsartan or both components may be increased depending on clinical response.
-There are no studies evaluating doses of valsartan greater than 160 mg in combination with hydrochlorothiazide 25 mg.
+There are no studies evaluating doses of valsartan greater than 320 mg in combination with hydrochlorothiazide 25 mg.
 
 A patient whose blood pressure is inadequately controlled by 25 mg once daily of hydrochlorothiazide, or is controlled but who experiences hypokalemia with this regimen, may be switched to Diovan HCT (valsartan 80 mg/hydrochlorothiazide 12.5 mg or valsartan 160 mg/hydrochlorothiazide 12.5 mg) once daily, reducing the dose of hydrochlorothiazide without reducing the overall expected antihypertensive response.
-The clinical response to Diovan HCT should be subsequently evaluated and if blood pressure remains uncontrolled after 3-4 weeks of therapy, the dose may be titrated up to valsartan 160 mg/hydrochlorothiazide 25 mg.
+The clinical response to Diovan HCT should be subsequently evaluated and if blood pressure remains uncontrolled after 3-4 weeks of therapy, the dose may be titrated up to a maximum of valsartan 320 mg/hydrochlorothiazide 25 mg.
 
 The maximal antihypertensive effect is attained about 4 weeks after initiation of therapy.
 

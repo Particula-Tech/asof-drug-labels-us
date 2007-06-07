@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
+Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin- converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
 Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
 Its action is therefore independent of the pathways for angiotensin II synthesis.
@@ -61,7 +61,7 @@ The elimination half-life is between 5.8 and 18.9 hours.
 The steady state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 
-### Hydrochlorothiazide
+## Hydrochlorothiazide
 
 Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
@@ -93,15 +93,15 @@ Care should be exercised in patients with liver disease (see DOSAGE AND ADMINIST
 
 ### Valsartan - Hydrochlorothiazide
 
-In controlled clinical trials including over 1500 patients, 730 patients were exposed to valsartan (80 and 160 mg) and concomitant hydrochlorothiazide (12.5 and 25 mg).
-A factorial trial compared the combinations of 80/12.5 mg, 80/25 mg, 160/12.5 mg and 160/25 mg with their respective components and placebo.
-The combination of valsartan and hydrochlorothiazide resulted in additive placebo-adjusted decreases in systolic and diastolic blood pressure at trough of 15-21/8-11 mmHg at 80/12.5 mg to 160/25 mg, compared to 7-10/4-6 mmHg for valsartan 80 mg to 160 mg and 6-10/3-5 mmHg for hydrochlorothiazide 12.5 mg to 25 mg, alone.
+In controlled clinical trials including over 7600 patients, 4372 patients were exposed to valsartan (80, 160 and 320 mg) and concomitant hydrochlorothiazide (12.5 and 25 mg).
+Two factorial trials compared various combinations of 80/12.5 mg, 80/25 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg and 320/25 mg with their respective components and placebo.
+The combination of valsartan and hydrochlorothiazide resulted in additive placebo-adjusted decreases in systolic and diastolic blood pressure at trough of 14-21/8-11 mmHg at 80/12.5 mg to 320/25 mg, compared to 7- 10/4-5 mmHg for valsartan 80 mg to 320 mg and 5-11/2-5 mmHg for hydrochlorothiazide 12.5 mg to 25 mg, alone.
 
-In another controlled trial the addition of hydrochlorothiazide to valsartan 80 mg resulted in additional lowering of systolic and diastolic blood pressure by approximately 6/3 and 12/5 mmHg for 12.5 mg and 25 mg of hydrochlorothiazide, respectively, compared to valsartan 80 mg alone.
+Three other controlled trials investigated the addition of hydrochlorothiazide to patients who did not respond to adequately to valsartan 80 mg to valsartan 320 mg, resulted in the additional lowering of systolic and diastolic blood pressure by approximately 4-12/2-5 mmHg.
 
 The maximal antihypertensive effect was attained 4 weeks after the initiation of therapy, the first time point at which blood pressure was measured in these trials.
 
-In long-term follow-up studies (without placebo control) the effect of the combination of valsartan and hydrochlorothiazide appeared to be maintained for up to two years.
+In long-term follow up studies (without placebo control) the effect of the combination of valsartan and hydrochlorothiazide appeared to be maintained for up to two years.
 The antihypertensive effect is independent of age or gender.
 The overall response to the combination was similar for black and non-black patients.
 
@@ -113,14 +113,14 @@ Valsartan inhibits the pressor effect of angiotensin II infusions.
 An oral dose of 80 mg inhibits the pressor effect by about 80% at peak with approximately 30% inhibition persisting for 24 hours.
 No information on the effect of larger doses is available.
 
-Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients.
+Removal of the negative feedback of angiotensin II causes a 2- to 3- fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients.
 Minimal decreases in plasma aldosterone were observed after administration of valsartan; very little effect on serum potassium was observed.
 
 In multiple-dose studies in hypertensive patients with stable renal insufficiency and patients with renovascular hypertension, valsartan had no clinically significant effects on glomerular filtration rate, filtration fraction, creatinine clearance, or renal plasma flow.
 
 In multiple-dose studies in hypertensive patients, valsartan had no notable effects on total cholesterol, fasting triglycerides, fasting serum glucose, or uric acid.
 
-The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (one in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115.
+The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12- week trials (one in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -131,7 +131,7 @@ At higher doses, however (160 mg), there is little difference in peak and trough
 During repeated dosing, the reduction in blood pressure with any dose is substantially present within 2 weeks, and maximal reduction is generally attained after 4 weeks.
 In long-term follow-up studies (without placebo control) the effect of valsartan appeared to be maintained for up to two years.
 The antihypertensive effect is independent of age, gender or race.
-The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin-II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
+The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin- angiotensin system (that is, ACE inhibitors and angiotensin-II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
 In pooled, randomized, controlled trials of Diovan that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites.
 The explanation for this difference from previous findings is unclear.
 
@@ -141,6 +141,8 @@ The 7 studies of valsartan monotherapy included over 2000 patients randomized to
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80-160 mg and 9/6 mmHg at 320 mg.
 
 Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a comparable response in both groups.
+
+In another 4-week study, 1876 patients randomized to valsartan 320 mg once daily had an incremental blood pressure reduction 3/1 mmHg lower than did 1900 patients randomized to valsartan 160 mg once daily.
 
 In controlled trials, the antihypertensive effect of once daily valsartan 80 mg was similar to that of once daily enalapril 20 mg or once daily lisinopril 10 mg.
 

@@ -3,17 +3,16 @@
 ## Fetal/Neonatal Morbidity and Mortality
 
 Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature in patients who were taking angiotensin-converting enzyme inhibitors.
+Several dozen cases have been reported in the world literature in patients who were taking angiotensin- converting enzyme inhibitors.
+There have been reports of spontaneous abortion, oligohydramnios and newborn renal dysfunction when pregnant women have inadvertently taken valsartan.
 When pregnancy is detected, Diovan HCT® (valsartan and hydrochlorothiazide, USP) should be discontinued as soon as possible.
 
 The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
 Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to exposure to the drug.
 
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-
-Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should advise the patient to discontinue the use of Diovan HCT as soon as possible.
+In addition, first trimester use of ACE inhibitors, a specific class of drugs acting on the renin-angiotensin system, has been associated with a potential risk of birth defects in retrospective data.
+Healthcare professionals that prescribe drugs acting directly on the renin-angiotensin system should counsel women of childbearing potential about the potential risks of these agents during pregnancy.
 
 Rarely (probably less often than once in every thousand pregnancies), no alternative to a drug acting on the renin-angiotensin system will be found.
 In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intraamniotic environment.
@@ -29,23 +28,23 @@ Exchange transfusion or dialysis may be required as means of reversing hypotensi
 ## Valsartan - Hydrochlorothiazide in Animals
 
 There was no evidence of teratogenicity in mice, rats, or rabbits treated orally with valsartan at doses up to 600, 100 and 10 mg/kg/day, respectively, in combination with hydrochlorothiazide at doses up to 188, 31 and 3 mg/kg/day.
-These non-teratogenic doses in mice, rats and rabbits, respectively, represent 18, 7 and 1 times the maximum recommended human dose (MRHD) of valsartan and 38, 13 and 2 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
-(Calculations assume an oral dose of 160 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
+These non- teratogenic doses in mice, rats and rabbits, respectively, represent 9, 3.5 and 0.5 times the maximum recommended human dose (MRHD) of valsartan and 38, 13 and 2 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
+(Calculations assume an oral dose of 320 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
 
 Fetotoxicity was observed in association with maternal toxicity in rats and rabbits at valsartan doses of ≥200 and 10 mg/kg/day, respectively, in combination with hydrochlorothiazide doses of ≥63 and 3 mg/kg/day.
 Fetotoxicity in rats was considered to be related to decreased fetal weights and included fetal variations of sternebrae, vertebrae, ribs and/or renal papillae.
 Fetotoxicity in rabbits included increased numbers of late resorptions with resultant increases in total resorptions, postimplantation losses and decreased number of live fetuses.
 The no observed adverse effect doses in mice, rats and rabbits for valsartan were 600, 100 and 3 mg/kg/day, respectively, in combination with hydrochlorothiazide doses of 188, 31 and 1 mg/kg/day.
-These no adverse effect doses in mice, rats and rabbits, respectively, represent 5, 1.5 and 0.06 times the MRHD of valsartan and 38, 13 and 0.5 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
-(Calculations assume an oral dose of 160 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
+These no adverse effect doses in mice, rats and rabbits, respectively, represent 9, 3 and 0.18 times the MRHD of valsartan and 38, 13 and 0.5 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
+(Calculations assume an oral dose of 320 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
 
 ## Valsartan in Animals
 
 No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses up to 600 mg/kg/day and to pregnant rabbits at oral doses up to 10 mg/kg/day.
 However, significant decreases in fetal weight, pup birth weight, pup survival rate, and slight delays in developmental milestones were observed in studies in which parental rats were treated with valsartan at oral, maternally toxic (reduction in body weight gain and food consumption) doses of 600 mg/kg/day during organogenesis or late gestation and lactation.
 In rabbits, fetotoxicity (i.e., resorptions, litter loss, abortions, and low body weight) associated with maternal toxicity (mortality) was observed at doses of 5 and 10 mg/kg/day.
-The no observed adverse effect doses of 600, 200 and 2 mg/kg/day in mice, rats and rabbits represent 18, 12 and 0.2 times, respectively, the maximum recommended human dose on a mg/m2 basis.
-(Calculations assume an oral dose of 160 mg/day and a 60-kg patient.)
+The no observed adverse effect doses of 600, 200 and 2 mg/kg/day in mice, rats and rabbits represent 9, 6 and 0.1 times, respectively, the maximum recommended human dose on a mg/m2 basis.
+(Calculations assume an oral dose of 320 mg/day and a 60-kg patient.)
 
 ## Hydrochlorothiazide in Animals
 
@@ -55,9 +54,9 @@ These doses of hydrochlorothiazide in mice and rats represent 608 and 405 times,
 
 Intrauterine exposure to thiazide diuretics is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
-## Hypotension in Volume- and/or Salt-Depleted Patients
+## Hypotension in Volume - and/or Salt Depleted Patients
 
-Excessive reduction of blood pressure was rarely seen (0.5%) in patients with uncomplicated hypertension treated with Diovan HCT.
+Excessive reduction of blood pressure was rarely seen (0.7%) in patients with uncomplicated hypertension treated with Diovan HCT in controlled trials.
 In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur.
 This condition should be corrected prior to administration of Diovan HCT, or the treatment should start under close medical supervision.
 
@@ -88,12 +87,11 @@ Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Inte
 
 ### Valsartan - Hydrochlorothiazide
 
-In the controlled trials of various doses of the combination of valsartan and hydrochlorothiazide the incidence of hypertensive patients who developed hypokalemia (serum potassium < 3.5 mEq/L) was 4.5%; the incidence of hyperkalemia (serum potassium > 5.7 mEq/L) was 0.3%.
-Two patients (0.3%) discontinued from a trial for decreases in serum potassium.
+In the controlled trials of various doses of the combination of valsartan and hydrochlorothiazide the incidence of hypertensive patients who developed hypokalemia (serum potassium < 3.5 mEq/L) was 3.0%; the incidence of hyperkalemia (serum potassium > 5.7 mEq/L) was 0.4%.
 
-In controlled clinical trials of Diovan HCT® (valsartan and hydrochlorothiazide, USP), the average change in serum potassium was near zero in subjects who received Diovan HCT 160/12.5 mg, but the average subject who received Diovan HCT 80/12.5 mg, 80/25 mg or 160/25 mg experienced a mild reduction in serum potassium.
+In controlled clinical trials of Diovan HCT® (valsartan and hydrochlorothiazide, USP), the average change in serum potassium was near zero in subjects who received Diovan HCT 160/12.5 mg, 320/12.5 mg or 320/25 mg but the average subject who received Diovan HCT 80/12.5 mg, 80/25 mg or 160/25 mg experienced a mild reduction in serum potassium.
 
-In clinical trials, the opposite effects of valsartan (80 or 160 mg) and hydrochlorothiazide (12.5 mg) on serum potassium approximately balanced each other in many patients.
+In clinical trials, the opposite effects of valsartan (80, 160 or 320 mg) and hydrochlorothiazide (12.5 mg) on serum potassium approximately balanced each other in many patients.
 In other patients, one or the other effect may be dominant.
 Periodic determinations of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
 
@@ -159,8 +157,9 @@ Cumulative effects of the drug may develop in patients with impaired renal funct
 
 ## Information for Patients
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to drugs that act on the renin- angiotensin system.
+Discuss other treatment options with female patients planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 Symptomatic Hypotension: A patient receiving Diovan HCT should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
 The patients should be told that if syncope occurs, Diovan HCT should be discontinued until the physician has been consulted.
@@ -204,7 +203,7 @@ Lithium - Should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with Diovan HCT.
 
-Non-steroidal anti-inflammatory Drugs - In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-steroidal anti-inflammatory Drugs - In some patients, the administration of a non-steroidal anti inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when Diovan HCT and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -218,15 +217,15 @@ Based on the preclinical safety and human pharmacokinetic studies, there is no i
 ### Valsartan
 
 There was no evidence of carcinogenicity when valsartan was administered in the diet to mice and rats for up to 2 years at doses up to 160 and 200 mg/kg/day, respectively.
-These doses in mice and rats are about 5 and 12 times, respectively, the maximum recommended human dose on a mg/m2 basis.
-(Calculations assume an oral dose of 160 mg/day and a 60-kg patient.)
+These doses in mice and rats are about 2.6 and 6 times, respectively, the maximum recommended human dose on a mg/m2 basis.
+(Calculations assume an oral dose of 320 mg/day and a 60-kg patient.)
 
 Mutagenicity assays did not reveal any valsartan-related effects at either the gene or chromosome level.
 These assays included bacterial mutagenicity tests with Salmonella (Ames) and E coli; a gene mutation test with Chinese hamster V79 cells; a cytogenetic test with Chinese hamster ovary cells; and a rat micronucleus test.
 
 Valsartan had no adverse effects on the reproductive performance of male or female rats at oral doses up to 200 mg/kg/day.
-This dose is about 12 times the maximum recommended human dose on a mg/m2 basis.
-(Calculations assume an oral dose of 160 mg/day and a 60-kg patient.)
+This dose is about 6 times the maximum recommended human dose on a mg/m2 basis.
+(Calculations assume an oral dose of 320 mg/day and a 60-kg patient.)
 
 ### Hydrochlorothiazide
 
@@ -237,6 +236,8 @@ Hydrochlorothiazide was not genotoxic In Vitro in the Ames mutagenicity assay of
 Positive test results were obtained only in the In Vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcgm/mL, and in the Aspergillus Nidulans non-disjunction assay at an unspecified concentration.
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
+These doses of hydrochlorothiazide in mice and rats represent 19 and 1.5 times, respectively, the maximum recommended human dose on a mg/m2 basis.
+(Calculations assume an oral dose of 25 mg/day and a 60-kg patient.)
 
 ## Pregnancy Categories C (first trimester) and D (second and third trimesters)
 
@@ -254,5 +255,5 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-In the controlled clinical trials of Diovan HCT, 117 (16%) of patients treated with valsartan-hydrochlorothiazide were ≥65 years and 16 (2.2%) were ≥75 years.
+In the controlled clinical trials of Diovan HCT, 764 (17.5%) of patients treated with valsartan-hydrochlorothiazide were ≥65 years and 118 (2.7%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan-hydrochlorothiazide was observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

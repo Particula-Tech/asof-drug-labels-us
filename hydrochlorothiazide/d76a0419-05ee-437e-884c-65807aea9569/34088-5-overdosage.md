@@ -4,6 +4,7 @@
 
 Limited data are available related to overdosage in humans.
 The most likely manifestations of overdosage would be hypotension and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation.
+Depressed level of consciousness, circulatory collapse and shock have been reported.
 If symptomatic hypotension should occur, supportive treatment should be instituted.
 
 Valsartan is not removed from the plasma by dialysis.
@@ -13,13 +14,13 @@ The most common signs and symptoms observed in patients are those caused by elec
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
 
 In rats and marmosets, single oral doses of valsartan up to 1524 and 762 mg/kg in combination with hydrochlorothiazide at doses up to 476 and 238 mg/kg, respectively, were very well tolerated without any treatment-related effects.
-These no adverse effect doses in rats and marmosets, respectively, represent 93 and 56 times the maximum recommended human dose (MRHD) of valsartan and 188 and 113 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
-(Calculations assume an oral dose of 160 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
+These no adverse effect doses in rats and marmosets, respectively, represent 46.5 and 23 times the maximum recommended human dose (MRHD) of valsartan and 188 and 113 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
+(Calculations assume an oral dose of 320 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
 
 ## Valsartan
 
-Valsartan was without grossly observable adverse effects at single oral doses up to 2000 mg/kg in rats and up to 1000 mg/kg in marmosets, except for salivation and diarrhea in the rat and vomiting in the marmoset at the highest dose (31 and 18 times, respectively, the maximum recommended human dose on a mg/m2 basis).
-(Calculations assume an oral dose of 160 mg/day and a 60-kg patient.)
+Valsartan was without grossly observable adverse effects at single oral doses up to 2000 mg/kg in rats and up to 1000 mg/kg in marmosets, except for salivation and diarrhea in the rat and vomiting in the marmoset at the highest dose (60 and 31 times, respectively, the maximum recommended human dose on a mg/m2 basis).
+(Calculations assume an oral dose of 320 mg/day and a 60-kg patient.)
 
 ## Hydrochlorothiazide
 

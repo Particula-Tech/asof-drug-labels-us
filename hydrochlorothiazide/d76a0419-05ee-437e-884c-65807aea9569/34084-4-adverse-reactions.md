@@ -1,41 +1,49 @@
 # ADVERSE REACTIONS
 
-Diovan HCT® (valsartan and hydrochlorothiazide, USP) has been evaluated for safety in more than 1,300 patients, including over 360 treated for over 6 months, and 170 for over 1 year.
+Diovan HCT® (valsartan and hydrochlorothiazide, USP) has been evaluated for safety in more than 5700 patients, including over 990 treated for over 6 months, and over 370 for over 1 year.
 Adverse experiences have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 The overall incidence of adverse experiences with Diovan HCT was comparable to placebo.
 
 The overall frequency of adverse experiences was neither dose-related nor related to gender, age or race.
-In controlled clinical trials, discontinuation of therapy due to side effects was required in 3.6% of valsartan-hydrochlorothiazide patients and 4.3% of placebo patients.
-The most common reasons for discontinuation of therapy with Diovan HCT were headache, fatigue and dizziness.
+In controlled clinical trials, discontinuation of therapy due to side effects was required in 2.3% of valsartan-hydrochlorothiazide patients and 3.1% of placebo patients.
+The most common reasons for discontinuation of therapy with Diovan HCT were headache and dizziness.
 
-The adverse experiences that occurred in controlled clinical trials in at least 2% of patients treated with Diovan HCT and at a higher incidence in valsartan-hydrochlorothiazide (n=730) than placebo (n=93) patients included dizziness (9% vs 7%), viral infection (3% vs 1%), fatigue (5% vs 1%), pharyngitis (3% vs 1%), coughing (3% vs 0%) and diarrhea (3% vs 0%).
+The only adverse experience that occurred in controlled clinical trials in at least 2% of patients treated with Diovan HCT and at a higher incidence in valsartan- hydrochlorothiazide (n=4372) than placebo (n=262) patients was nasopharyngitis (2.4% vs 1.9%).
 
-Headache, upper respiratory infection, sinusitis, back pain and chest pain occurred at a more than 2% rate but at about the same incidence in placebo and valsartan-hydrochlorothiazide patients.
+Dose-related orthostatic effects were seen in fewer than 1% of patients.
+In individual trials, a dose-related increase in the incidence of dizziness was observed in patients treated with Diovan HCT.
 
-Dose-related orthostatic effects were seen in less than 1% of patients.
-A dose-related increase in the incidence of dizziness was observed in patients treated with Diovan HCT from 80/12.5 mg (6%) to 160/25 mg (16%).
+Other adverse experiences that have been reported with valsartan- hydrochlorothiazide (>0.2% of valsartan-hydrochlorothiazide patients in controlled clinical trials) without regard to causality, are listed below:
 
-Other adverse experiences that have been reported with valsartan-hydrochlorothiazide (>0.2% of valsartan-hydrochlorothiazide patients in controlled clinical trials) without regard to causality, are listed below:
+Cardiovascular: Palpitations and tachycardia.
 
-Body as a Whole: Allergic reaction, anaphylaxis, asthenia, and dependent edema.
+Ear and labyrinth: Tinnitus and vertigo.
 
-Cardiovascular: Palpitations, syncope, and tachycardia.
+Gastrointestinal: Dyspepsia, diarrhea, flatulence, dry mouth, nausea, abdominal pain, abdominal pain upper, and vomiting.
 
-Dermatologic: Flushing, rash, sunburn, and increased sweating.
+General and administration site conditions: Asthenia, chest pain, fatigue, peripheral edema and pyrexia.
 
-Digestive: Increased appetite, constipation, dyspepsia, flatulence, dry mouth, nausea, abdominal pain, and vomiting.
+Infections and infestations: Bronchitis, bronchitis acute, influenza, gastroenteritis, sinusitis, upper respiratory tract infection and urinary tract infection.
 
-Metabolic: Dehydration and gout.
+Investigations: Blood urea increased.
 
-Musculoskeletal: Arthralgia, muscle cramps, muscle weakness, arm pain, and leg pain.
+Musculoskeletal: Arthralgia, back pain, muscle cramps, myalgia, and pain in extremity.
 
-Neurologic and Psychiatric: Anxiety, depression, insomnia, decreased libido, paresthesia, and somnolence.
+Nervous system: Dizziness postural, paraesthesia, and somnolence.
 
-Respiratory: Bronchospasm, dyspnea, and epistaxis.
+Psychiatric: Anxiety and insomnia.
 
-Special Senses: Tinnitus, vertigo, and abnormal vision.
+Renal and urinary: Pollakiuria.
 
-Urogenital: Dysuria, impotence, micturition frequency, and urinary tract infection.
+Reproductive system: Erectile dysfunction.
+
+Respiratory, thoracic and mediastinal: Dyspnea, cough, nasal congestion, pharyngolaryngeal pain and sinus congestion.
+
+Skin and subcutaneous tissue: Hyperhidrosis and rash.
+
+Vascular: Hypotension.
+
+Other reported events seen less frequently in clinical trials included abnormal vision, anaphylaxis, bronchospasm, constipation, depression, dehydration, decreased libido, dysuria, epistaxis, flushing, gout, increased appetite, muscle weakness, pharyngitis, pruritus, sunburn, syncope, and viral infection.
 
 ## Valsartan
 
@@ -57,6 +65,8 @@ Renal: Impaired Renal Function;
 Clinical Laboratory Tests: Hyperkalemia;
 
 Dermatologic: Alopecia.
+
+Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
 ## Hydrochlorothiazide
 
@@ -86,12 +96,12 @@ Special Senses: transient blurred vision, xanthopsia.
 
 In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of Diovan HCT.
 
-Creatinine: Minor elevations in creatinine occurred in 1.4% of patients taking Diovan HCT and 1.1% given placebo in controlled clinical trials.
+Creatinine/Blood urea nitrogen (BUN): Minor elevations in creatinine and BUN occurred in 2% and 15% respectively, of patients taking Diovan HCT and 0.4% and 6%, respectively, given placebo in controlled clinical trials.
 
-Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in 0.1% and 1.0%, respectively, of Diovan HCT patients, compared with 0.0% in placebo-treated patients.
+Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in less than 0.1% of Diovan HCT patients, compared with 0.0% in placebo-treated patients.
 
 Liver function tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Diovan HCT-treated patients.
 
-Neutropenia: Neutropenia was observed in 0.6% of patients treated with Diovan HCT and 0.0% of patients treated with placebo.
+Neutropenia: Neutropenia was observed in 0.1% of patients treated with Diovan HCT and 0.4% of patients treated with placebo.
 
 Serum Electrolytes: See PRECAUTIONS.

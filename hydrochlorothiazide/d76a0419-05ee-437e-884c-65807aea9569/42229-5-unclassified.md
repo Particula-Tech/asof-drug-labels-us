@@ -1,7 +1,3 @@
-T2003-74
-
-89001809
-
 Diovan HCT®
 
 valsartan and hydrochlorothiazide, USP
@@ -13,6 +9,10 @@ Combination Tablets
 160 mg/12.5 mg
 
 160 mg/25 mg
+
+320 mg/12.5 mg
+
+320 mg/25 mg
 
 Rx only
 
