@@ -127,7 +127,7 @@ Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 | * Reduction from baseline statistically significantly greater for DEPAKOTE than placebo at p ≤ 0.05 level. |  |  |  |
 
 Figure 3 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
-A positive percent reduction indicates an improvement (i.e.,a decrease in seizure frequency), while a negative percent reduction indicates worsening.
+A positive percent reduction indicates an improvement (i.e., a decrease in seizure frequency), while a negative percent reduction indicates worsening.
 Thus, in a display of this type, the curve for an effective treatment is shifted to the left of the curve for placebo.
 This figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for DEPAKOTE than for placebo.
 For example, 45% of patients treated with DEPAKOTE had a ≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
@@ -172,7 +172,7 @@ If you have any questions or concerns, or want more information about these medi
 These medications can be obtained only by prescription from your doctor.
 The decision to use any of these medications is one that you and your doctor should make together, taking into account your individual needs and medical condition.
 
-Beforeusing any of these medications, women who can become pregnant should consider the fact that these medications have been associated with birth defects, in particular, with spina bifida and other defects related to failure of the spinal canal to close normally.
+Before using any of these medications, women who can become pregnant should consider the fact that these medications have been associated with birth defects, in particular, with spina bifida and other defects related to failure of the spinal canal to close normally.
 Approximately 1 to 2% of children born to women with epilepsy taking DEPAKOTE in the first 12 weeks of pregnancy had these defects (based on data from the Centers for Disease Control, a U.S. agency based in Atlanta).
 The incidence in the general population is 0.1 to 0.2%.
 

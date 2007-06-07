@@ -55,7 +55,7 @@ If satisfactory clinical response has not been achieved, plasma levels should be
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
 If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to DEPAKOTE, no adjustment of carbamazepine or phenytoin dosage was needed (see CLINICAL STUDIES).
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in additionto DEPAKOTE, no adjustment of carbamazepine or phenytoin dosage was needed (see CLINICAL STUDIES).
 However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs (see Drug Interactions), periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy (see PRECAUTIONS - Drug Interactions).
 
 ### Simple and Complex Absence Seizures

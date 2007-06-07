@@ -58,26 +58,54 @@ The therapeutic benefit which may accompany the higher doses should therefore be
 
 ## Usage In Pregnancy
 
-ACCORDING TO PUBLISHED AND UNPUBLISHED REPORTS, VALPROIC ACID MAY PRODUCE TERATOGENIC EFFECTS IN THE OFFSPRING OF HUMAN FEMALES RECEIVING THE DRUG DURING PREGNANCY.
+VALPROATE CAN PRODUCE TERATOGENIC EFFECTS.
+DATA SUGGEST THAT THERE IS AN INCREASED INCIDENCE OF CONGENITAL MALFORMATIONS ASSOCIATED WITH THE USE OF VALPROATE BY WOMEN WITH SEIZURE DISORDERS DURING PREGNANCY WHEN COMPARED TO THE INCIDENCE IN WOMEN WITH SEIZURE DISORDERS WHO DO NOT USE ANTIEPILEPTIC DRUGS DURING PREGNANCY, THE INCIDENCE IN WOMEN WITH SEIZURE DISORDERS WHO USE OTHER ANTIEPILEPTIC DRUGS, AND THE BACKGROUND INCIDENCE FOR THE GENERAL POPULATION.
+THEREFORE, VALPROATE SHOULD BE CONSIDERED FOR WOMEN OF CHILDBEARING POTENTIAL ONLY AFTER THE RISKS HAVE BEEN THOROUGHLY DISCUSSED WITH THE PATIENT AND WEIGHED AGAINST THE POTENTIAL BENEFITS OF TREATMENT.
 
-THERE ARE MULTIPLE REPORTS IN THE CLINICAL LITERATURE WHICH INDICATE THAT THE USE OF ANTIEPILEPTIC DRUGS DURING PREGNANCY RESULTS IN AN INCREASED INCIDENCE OF BIRTH DEFECTS IN THE OFFSPRING.
-ALTHOUGH DATA ARE MORE EXTENSIVE WITH RESPECT TO TRIMETHADIONE, PARAMETHADIONE, PHENYTOIN, AND PHENOBARBITAL, REPORTS INDICATE A POSSIBLE SIMILAR ASSOCIATION WITH THE USE OF OTHER ANTIEPILEPTIC DRUGS.
-THEREFORE, ANTIEPILEPSY DRUGS SHOULD BE ADMINISTERED TO WOMEN OF CHILDBEARING POTENTIAL ONLY IF THEY ARE CLEARLY SHOWN TO BE ESSENTIAL IN THE MANAGEMENT OF THEIR SEIZURES.
+THERE ARE MULTIPLE REPORTS IN THE CLINICAL LITERATURE THAT INDICATE THE USE OF ANTIEPILEPTIC DRUGS DURING PREGNANCY RESULTS IN AN INCREASED INCIDENCE OF CONGENITAL MALFORMATIONS IN OFFSPRING.
+ANTIEPILEPTIC DRUGS, INCLUDING VALPROATE, SHOULD BE ADMINISTERED TO WOMEN OF CHILDBEARING POTENTIAL ONLY IF THEY ARE CLEARLY SHOWN TO BE ESSENTIAL IN THE MANAGEMENT OF THEIR MEDICAL CONDITION.
 
-THE INCIDENCE OF NEURAL TUBE DEFECTS IN THE FETUS MAY BE INCREASED IN MOTHERS RECEIVING VALPROATE DURING THE FIRST TRIMESTER OF PREGNANCY.
-THE CENTERS FOR DISEASE CONTROL (CDC) HAS ESTIMATED THE RISK OF VALPROIC ACID EXPOSED WOMEN HAVING CHILDREN WITH SPINA BIFIDA TO BE APPROXIMATELY 1 TO 2%.
+Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
+In individual cases where the severity and frequency of the seizure disorder are such that the removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.
 
-OTHER CONGENITAL ANOMALIES (EG, CRANIOFACIAL DEFECTS, CARDIOVASCULAR MALFORMATIONS AND ANOMALIES INVOLVING VARIOUS BODY SYSTEMS), COMPATIBLE AND INCOMPATIBLE WITH LIFE, HAVE BEEN REPORTED.
+### Human Data
+
+#### Congenital Malformations
+
+The North American Antiepileptic Drug Pregnancy Registry reported 16 cases of congenital malformations among the offspring of 149 women with epilepsy who were exposed to valproic acid monotherapy during the first trimester of pregnancy at doses of approximately 1,000 mg per day, for a prevalence rate of 10.7% (95% CI 6.3%-16.9%).
+Three of the 149 offspring (2%) had neural tube defects and 6 of the 149 (4%) had less severe malformations.
+Among epileptic women who were exposed to other antiepileptic drug monotherapies during pregnancy (1,048 patients) the malformation rate was 2.9% (95% CI 2.0% to 4.1%).
+There was a 4-fold increase in congenital malformations among infants with valproic acid-exposed mothers compared with those treated with other antiepileptic monotherapies as a group (Odds Ratio 4.0; 95% CI 2.1 to 7.4).
+This increased risk does not reflect a comparison versus any specific antiepileptic drug, but the risk versus the heterogeneous group of all other antiepileptic drug monotherapies combined.
+The increased teratogenic risk from valproic acid in women with epilepsy is expected to be reflected in an increased risk in other indications (e.g., migraine or bipolar disorder).
+
+THE STRONGEST ASSOCIATION OF MATERNAL VALPROATE USAGE WITH CONGENITAL MALFORMATIONS IS WITH NEURAL TUBE DEFECTS (AS DISCUSSED UNDER THE NEXT SUBHEADING).
+HOWEVER, OTHER CONGENITAL ANOMALIES (E.G.
+CRANIOFACIAL DEFECTS, CARDIOVASCULAR MALFORMATIONS AND ANOMALIES INVOLVING VARIOUS BODY SYSTEMS), COMPATIBLE AND INCOMPATIBLE WITH LIFE, HAVE BEEN REPORTED.
 SUFFICIENT DATA TO DETERMINE THE INCIDENCE OF THESE CONGENITAL ANOMALIES IS NOT AVAILABLE.
 
-THE HIGHER INCIDENCE OF CONGENITAL ANOMALIES IN ANTIEPILEPTIC DRUG-TREATED WOMEN WITH SEIZURE DISORDERS CANNOT BE REGARDED AS A CAUSE AND EFFECT RELATIONSHIP.
-THERE ARE INTRINSIC METHODOLOGIC PROBLEMS IN OBTAINING ADEQUATE DATA ON DRUG TERATOGENICITY IN HUMANS; GENETIC FACTORS OR THE EPILEPTIC CONDITION ITSELF, MAY BE MORE IMPORTANT THAN DRUG THERAPY IN CONTRIBUTING TO CONGENITAL ANOMALIES.
+#### Neural Tube Defects
 
-PATIENTS TAKING VALPROATE MAY DEVELOP CLOTTING ABNORMALITIES.
+THE INCIDENCE OF NEURAL TUBE DEFECTS IN THE FETUS IS INCREASED IN MOTHERS RECEIVING VALPROATE DURING THE FIRST TRIMESTER OF PREGNANCY.
+THE CENTERS FOR DISEASE CONTROL (CDC) HAS ESTIMATED THE RISK OF VALPROIC ACID EXPOSED WOMEN HAVING CHILDREN WITH SPINA BIFIDA TO BE APPROXIMATELY 1 TO 2%.
+THE AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS (ACOG) ESTIMATES THE GENERAL POPULATION RISK FOR CONGENITAL NEURAL TUBE DEFECTS AS 0.14% TO 0.2%.
+
+Tests to detect neural tube and other defects using current accepted procedures should be considered a part of routine prenatal care in pregnant women receiving valproate.
+
+Evidence suggests that pregnant women who receive folic acid supplementation may be at decreased risk for congenital neural tube defects in their offspring compared to pregnant women not receiving folic acid.
+Whether the risk of neural tube defects in the offspring of women receiving valproate specifically is reduced by folic acid supplementation is unknown.
+DIETARY FOLIC ACID SUPPLEMENTATION BOTH PRIOR TO AND DURING PREGNANCY SHOULD BE ROUTINELY RECOMMENDED TO PATIENTS CONTEMPLATING PREGNANCY.
+
+#### Other Adverse Pregnancy Effects
+
+PATIENTS TAKING VALPROATE MAY DEVELOP CLOTTING ABNORMALITIES (SEE PRECAUTIONS - GENERAL AND WARNINGS).
 A PATIENT WHO HAD LOW FIBRINOGEN WHEN TAKING MULTIPLE ANTICONVULSANTS INCLUDING VALPROATE GAVE BIRTH TO AN INFANT WITH AFIBRINOGENEMIA WHO SUBSEQUENTLY DIED OF HEMORRHAGE.
 IF VALPROATE IS USED IN PREGNANCY, THE CLOTTING PARAMETERS SHOULD BE MONITORED CAREFULLY.
 
-HEPATIC FAILURE, RESULTING IN THE DEATH OF A NEWBORN AND OF AN INFANT, HAVE BEEN REPORTED FOLLOWING THE USE OF VALPROATE DURING PREGNANCY.
+PATIENTS TAKING VALPROATE MAY DEVELOP HEPATIC FAILURE (SEE WARNINGS - HEPATOTOXICITY AND BOX WARNING).
+FATAL HEPATIC FAILURES, IN A NEWBORN AND IN AN INFANT, HAVE BEEN REPORTED FOLLOWING THE MATERNAL USE OF VALPROATE DURING PREGNANCY.
+
+### Animal Data
 
 Animal studies have demonstrated valproate-induced teratogenicity.
 Increased frequencies of malformations, as well as intrauterine growth retardation and death, have been observed in mice, rats, rabbits, and monkeys following prenatal exposure to valproate.
@@ -88,14 +116,6 @@ Behavioral deficits have been reported in the offspring of rats given a dose of 
 An oral dose of 350 mg/kg/day (approximately 2 times the maximum human daily dose on a mg/m2 basis) produced skeletal and visceral malformations in rabbits exposed during organogenesis.
 Skeletal malformations, growth retardation, and death were observed in rhesus monkeys following administration of an oral dose of 200 mg/kg/day (equal to the maximum human daily dose on a mg/m2 basis) during organogenesis.
 This dose resulted in peak maternal plasma valproate levels of approximately 280 µg/mL (2.8 times the upper limit of the human therapeutic range).
-
-The prescribing physician will wish to weigh the benefits of therapy against the risks in treating or counseling women of childbearing potential.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-
-Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-In individual cases where the severity and frequency of the seizure disorder are such that the removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.
-
-Tests to detect neural tube and other defects using current accepted procedures should be considered a part of routine prenatal care in childbearing women receiving valproate.
 
 # PRECAUTIONS
 
