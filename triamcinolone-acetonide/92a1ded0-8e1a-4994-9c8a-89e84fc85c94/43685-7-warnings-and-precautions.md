@@ -19,8 +19,7 @@ Information for the Patient: Patients using topical corticosteroids should recei
    Avoid contact with the eyes.
 2. Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
 3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-4. 4.
-   Patients should report any signs of local adverse reactions especially under occlusive dressing.
+4. Patients should report any signs of local adverse reactions especially under occlusive dressing.
 5. Parents of pediatric patients should be advised not to use tight fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
 
 Laboratory Tests: The following tests may be helpful in evaluating the HPA axis suppression: Urinary free cortisol test; ACTH stimulation test.
