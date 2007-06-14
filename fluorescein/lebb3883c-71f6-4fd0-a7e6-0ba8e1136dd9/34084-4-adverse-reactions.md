@@ -1,0 +1,10 @@
+# ADVERSE REACTIONS
+
+(seeWARNINGS and PRECAUTIONS)
+
+Nausea, vomiting, gastrointestinal distress, headache, syncope, hypotension, and symptoms and signs of hypersensitivity have occurred.
+Cardiac arrest, basilar artery ischemia, severe shock, convulsions, thrombophlebitis at the injection site, and rare cases of death have been reported.
+Extravasation of the solution at the injection site causes intense pain at the site and a dull aching pain in the injected arm (see WARNINGS).
+
+Generalized hives and itching, bronchospasm and anaphylaxis have been reported.
+A strong taste may develop after injection.
