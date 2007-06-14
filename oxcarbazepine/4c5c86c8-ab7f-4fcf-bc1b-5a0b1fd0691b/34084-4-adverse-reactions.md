@@ -271,6 +271,4 @@ Anaphylaxis (see WARNINGS, Anaphylactic Reactions and Angioedema subsection).
 
 Digestive System: Pancreatitis and/or lipase and/or amylase increase.
 
-Metabolism and Nutrition Disorders: Folic acid deficiency.
-
 Skin and Appendages: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (see WARNINGS, Serious Dermatological Reactions subsection).
