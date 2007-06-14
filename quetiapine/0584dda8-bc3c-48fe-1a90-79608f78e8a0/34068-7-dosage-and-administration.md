@@ -15,7 +15,6 @@ Recommended Dosing Schedule
 In these clinical trials supporting effectiveness, the dosing schedule was 50 mg, 100 mg, 200 mg and 300 mg/day for days 1-4 respectively.
 Patients receiving 600 mg increased to 400mg on day 5 and 600 mg on day 8 (Week 1).
 Antidepressant efficacy was demonstrated with SEROQUEL at both 300 mg and 600 mg however, no additional benefit was seen in the 600 mg group.
-(see CLINICAL STUDIES, Figure 1)
 
 ## Mania
 

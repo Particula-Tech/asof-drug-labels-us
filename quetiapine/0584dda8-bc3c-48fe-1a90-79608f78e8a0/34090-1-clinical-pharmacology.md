@@ -96,7 +96,7 @@ The primary endpoint in both studies was the change from baseline in MADRS score
 In both studies, SEROQUEL was superior to placebo in reduction of MADRS score.
 Improvement in symptoms, as measured by change in MADRS score relative to placebo, was seen in both studies at Day 8 (week 1) and onwards.
 In these studies, no additional benefit was seen with the 600 mg dose.
-For the 300 mg dose group, statistically significant improvements over placebo were seen in reductions in suicidal thinking as measured by MADRS item 10 and overall quality of life and satisfaction related to various areas of functioning, as measured using the Q-LES-Q(SF).
+For the 300 mg dose group, statistically significant improvements over placebo were seen in overall quality of life and satisfaction related to various areas of functioning, as measured using the Q-LES-Q(SF).
 
 Mania
 

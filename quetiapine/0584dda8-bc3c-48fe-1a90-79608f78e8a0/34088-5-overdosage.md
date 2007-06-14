@@ -1,8 +1,10 @@
 # OVERDOSAGE
 
-Human experience: Experience with SEROQUEL (quetiapine fumarate) in acute overdosage was limited in the clinical trial database (6 reports) with estimated doses ranging from 1200 mg to 9600 mg and no fatalities.
-In general, reported signs and symptoms were those resulting from an exaggeration of the drug’s known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension.
-One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block.
+Human experience:In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine.
+Most patients who overdosed experienced no adverse events or recovered fully from the reported events.
+Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone.
+In general, reported signs and symptoms were those resulting from an exaggeration of the drug’s known pharmacological effects, ie, drowsiness and sedation, tachycardia and hypotension.
+Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose (See PRECAUTIONS: Orthostatic Hypotension) One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block.
 In post-marketing experience, there have been very rare reports of overdose of SEROQUEL alone resulting in death, coma, or QTc prolongation.
 
 ## Management of Overdosage:

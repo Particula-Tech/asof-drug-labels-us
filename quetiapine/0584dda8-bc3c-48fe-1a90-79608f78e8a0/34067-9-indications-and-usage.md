@@ -9,7 +9,7 @@ SEROQUEL is indicated for the treatment of both: ·
 
 Depression
 
-The efficacy of SEROQUEL was established in two identical 8-week randomized, placebo-controlled double-blind clinical studies that included either bipolar I or II patients with and without rapid cycling courses (See CLINICAL PHARMACOLOGY).
+The efficacy of SEROQUEL was established in two identical 8-week randomized, placebo-controlled double-blind clinical studies that included either bipolar I or II patients (See CLINICAL PHARMACOLOGY).
 Effectiveness has not been systematically evaluated in clinical trials for more than 8 weeks.
 
 Mania
