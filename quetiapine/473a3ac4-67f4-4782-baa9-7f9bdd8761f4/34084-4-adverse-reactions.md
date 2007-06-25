@@ -1,0 +1,100 @@
+# 6. ADVERSE REACTIONS
+
+## 6.1 Clinical Studies Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+The information below is derived from a clinical trial database for SEROQUEL XR consisting of 951 patients exposed to SEROQUEL XR for the treatment of schizophrenia in placebo controlled trials.
+This experience corresponds to approximately 82.9 patient-years.
+Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, body weights, laboratory analyses, and ECG results.
+
+Adverse reactions during exposure were obtained by general inquiry and recorded by clinical investigators using terminology of their own choosing.
+Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of reactions into a smaller number of standardized event categories.
+In the tables and tabulations that follow, standard MedDRA terminology has been used to classify reported adverse reactions.
+
+The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
+An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+
+Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
+
+There was no difference in the incidence and type of adverse reactions associated with discontinuation (6.4% for SEROQUEL XR vs. 7.5% for placebo) in a pool of controlled trials.
+
+Adverse Reactions Occurring at an Incidence of 5% or More Among SEROQUEL XR Treated Patients in Short-Term, Placebo-Controlled Trials
+
+Table 1 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) in ≥ 5% patients treated with SEROQUEL XR (doses ranging from 300 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
+
+Table 1.
+Treatment-Emergent Adverse Experience Incidence in 6-Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, and nausea.
+
+|  | (n=951) | (n=319) |
+| --- | --- | --- |
+| Body System/Preferred Term | SEROQUEL XR | PLACEBO |
+| Gastrointestinal Disorders |  |  |
+| Dry mouth | 12% | 1% |
+| Constipation | 6% | 5% |
+| Dyspepsia | 5% | 2% |
+| Nervous System Disorders |  |  |
+| Sedation | 13% | 7% |
+| Somnolence | 12% | 4% |
+| Dizziness | 10% | 4% |
+| Vascular Disorders |  |  |
+| Orthostatic hypotension | 7% | 5% |
+
+In these studies, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater) and observed at a rate on SEROQUEL XR at least twice that of placebo were dry mouth (12%), somnolence (12%), dizziness (10%), and dyspepsia (5%).
+
+Adverse Reactions that occurred in <5% of patients and were considered drug-related (incidence greater than placebo and consistent with known pharmacology of drug class) in order of decreasing frequency:
+
+heart rate increased, hypotension, weight increased, tremor, akathisia, increased appetite, blurred vision, postural dizziness, pyrexia, dysarthria, dystonia, drooling, syncope, tardive dyskinesia, dysphagia, leukopenia, and rash.
+
+Adverse Reactions that have historically been associated with the use of SEROQUEL and not listed elsewhere in the label
+
+The following adverse reactions have also been reported with SEROQUEL: anaphylactic reaction, peripheral edema, rhinitis, eosinophilia, hypersensitivity, elevations in gamma-GT levels and restless legs syndrome.
+
+Extrapyramidal Symptoms:
+
+Four methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates parkinsonism and akathisia, (2) Barnes Akathisia Rating Scale (BARS) Global Assessment Score (3) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (4) use of anticholinergic medications to treat emergent EPS.
+
+In three-arm placebo-controlled clinical trials for the treatment of schizophrenia, utilizing doses between 300 mg and 800 mg of SEROQUEL XR, the incidence of any adverse reactions potentially related to EPS was 8% for SEROQUEL XR and 8% for SEROQUEL (without evidence of being dose related), and 5% in the placebo group.
+In these studies, the incidence of the individual adverse reactions (eg, akathisia, extrapyramidal disorder, tremor, dyskinesia, dystonia, restlessness, and muscle rigidity) was generally low and did not exceed 3% for any treatment group.
+
+At the end of treatment, the mean change from baseline in SAS total score and BARS Global Assessment score was similar across the treatment groups.
+The use of concomitant anticholinergic medications was infrequent and similar across the treatment groups.
+The incidence of extrapyramidal symptoms was consistent with that seen with the profile of SEROQUEL in schizophrenia patients.
+
+## 6.2 Vital Signs and Laboratory Studies
+
+Vital Sign Changes:
+
+Quetiapine is associated with orthostatic hypotension [seeWarnings And Precautions (5)].
+
+Weight Gain:
+
+In schizophrenia trials with SEROQUEL XR, the proportions of patients meeting a weight gain criterion of ≥7% of body weight was 10% for SEROQUEL XR compared to 5% for placebo.
+In schizophrenia trials the proportions of patients meeting a weight gain criterion of ≥7% of body weight were compared in a pool of four 3- to 6-week placebo-controlled clinical trials, revealing a statistically significant greater incidence of weight gain for SEROQUEL (23%) compared to placebo (6%).
+
+Laboratory Changes:
+
+An assessment of the premarketing experience for SEROQUEL suggested that it is associated with asymptomatic increases in ALT and increases in both total cholesterol and triglycerides [see Warnings and Precautions (5)].
+In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol) have been observed.
+
+In three-arm SEROQUEL XR placebo controlled monotherapy clinical trials, among patients with a baseline neutrophil count ≥ 1.5 X 109/L, the incidence of at least one occurrence of neutrophil count <1.5 X 109/L was 1.5% in patients treated with SEROQUEL XR and 1.5% for SEROQUEL, compared to 0.8% in placebo-treated patients.
+
+ECG Changes:
+
+0.8% of SEROQUEL XR patients, and no placebo patients, had tachycardia (>120 bpm) at any time during the trials.
+SEROQUEL XR was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean decrease of 1 beat per minute for placebo.
+This is consistent with the rates of SEROQUEL.
+The incidence of adverse reactions of tachycardia was 3% for SEROQUEL XR compared to 1% for placebo.
+SEROQUEL use was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients.
+The slight tendency for tachycardia may be related to quetiapine’s potential for inducing orthostatic changes [see WARNINGS and PRECAUTIONS (5)].
+
+## 6.3 Post Marketing Experience
+
+The following adverse reactions where identified during post approval use of SEROQUEL.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Adverse reactions reported since market introduction which were temporally related to SEROQUEL therapy include: leukopenia/neutropenia.
+If a patient develops a low white cell count consider discontinuation of therapy.
+Possible risk factors for leukopenia/neutropenia include pre-existing low white cell count and history of drug induced leukopenia/neutropenia.
+
+Other adverse reactions reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, anaphylaxis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), and Stevens-Johnson syndrome (SJS).
