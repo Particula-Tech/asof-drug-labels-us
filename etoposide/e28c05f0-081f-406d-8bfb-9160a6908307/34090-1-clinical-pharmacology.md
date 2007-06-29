@@ -1,0 +1,120 @@
+# CLINICAL PHARMACOLOGY
+
+The in vitro cytotoxicity observed for etoposide phosphate is significantly less than that seen with etoposide which is believed due to the necessity for conversion in vivo to the active moiety, etoposide, by dephosphorylation.
+The mechanism of action is believed to be the same as that of etoposide.
+Etoposide has been shown to cause metaphase arrest in chick fibroblasts.
+Its main effect, however, appears to be at the G2 portion of the cell cycle in mammalian cells.
+Two different dose-dependent responses are seen.
+At high concentrations (10 µg/mL or more), lysis of cells entering mitosis is observed.
+At low concentrations (0.3 to 10 µg/mL), cells are inhibited from entering prophase.
+It does not interfere with microtubular assembly.
+The predominant macromolecular effect of etoposide appears to be the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals.
+
+## ETOPOPHOS Bioequivalence
+
+Following intravenous administration of ETOPOPHOS, etoposide phosphate is rapidly and completely converted to etoposide in plasma.
+A direct comparison of the pharmacokinetic parameters [area under the concentration time curve (AUC) and the maximum plasma concentration (CMAX)] of etoposide following intravenous administration of molar equivalent doses of ETOPOPHOS and VePesid® was made in two randomized crossover studies in patients with a variety of malignancies.
+In the first study of 41 evaluable patients, the etoposide mean ± S.D.
+AUC values were 168.3 ± 48.2 µg•hr/mL and 156.7 ± 43.4 µg•hr/mL following administration of molar equivalent doses of 150 mg/m2 ETOPOPHOS or VePesid with a 3.5-hour infusion time; the corresponding mean ± S.D.
+CMAX values were 20.0 ± 3.7 µg/mL and 19.6 ± 4.2 µg/mL, respectively.
+The point estimate (90% confidence interval) for the bioavailability of etoposide from ETOPOPHOS, relative to VePesid, was 107% (105%, 110%) for AUC and 103% (99%, 106%) for CMAX.
+In the second study of 29 evaluable patients following intravenous administration of 90, 100, and 110 mg/m2 molar equivalents of ETOPOPHOS or VePesid with a 60-minute infusion time, the etoposide mean ± S.D.
+AUC values (normalized to the 100 mg/m2 dose) were 96.1 ± 22.6 µg•hr/mL and 86.5 ± 25.8 µg•hr/mL, respectively; the corresponding mean ± S.D.
+CMAX values (normalized to the 100 mg/m2 dose) were 20.1 ± 4.1 µg/mL and 19.0 ± 5.1 µg/mL, respectively.
+The point estimate (90% confidence interval) for the bioavailability of etoposide from ETOPOPHOS, relative to VePesid, was 113% (107%, 119%) for AUC and 107% (101%, 113%) for CMAX indicating bioequivalence.
+Results from both studies demonstrated no statistically significant differences in the AUC and CMAX parameters for etoposide when administered as ETOPOPHOS or VePesid.
+In addition, in the latter study, there were no statistically significant differences in the pharmacodynamic parameters (hematologic toxicity) after administration of ETOPOPHOS or VePesid.
+Following VePesid administration, the mean nadir values (expressed as percent decrease from baseline) for leukocytes, granulocytes, hemoglobin, and thrombocytes were 67.2 ± 17.0%, 84.1 ± 14.6%, 22.6 ± 9.8%, and 46.4 ± 21.9%, respectively; the corresponding values after administration of ETOPOPHOS were 67.3 ± 14.2%, 81.0 ± 16.5%, 21.4 ± 9.9%, and 44.1 ± 20.7%, respectively.
+
+Because of the similarity of pharmacokinetics and pharmacodynamics of etoposide after administration of either ETOPOPHOS or VePesid, the following information on VePesid should be considered:
+
+VePesid Pharmacokinetics
+
+On intravenous administration, the disposition of etoposide is best described as a biphasic process with a distribution half-life of about 1.5 hours and terminal elimination half-life ranging from 4 to 11 hours.
+Total body clearance values range from 33 to 48 mL/min or 16 to 36 mL/min/m2 and, like the terminal elimination half-life, are independent of dose over a range 100-600 mg/m2.
+Over the same dose range, the AUC and the CMAX values increase linearly with dose.
+Etoposide does not accumulate in the plasma following daily administration of 100 mg/m2 for 4 to 5 days.
+After intravenous infusion the CMAX and AUC values exhibit marked intra- and inter-subject variability.
+
+The mean volumes of distribution at steady state fall in the range of 18 to 29 liters or 7 to 17 L/m2.
+Etoposide enters the CSF poorly.
+Although it is detectable in CSF and intracerebral tumors, the concentrations are lower than in extracerebral tumors and in plasma.
+Etoposide concentrations are higher in normal lung than in lung metastases and are similar in primary tumors and normal tissues of the myometrium.
+In vitro, etoposide is highly protein bound (97%) to human plasma proteins.
+An inverse relationship between plasma albumin levels and etoposide renal clearance is found in children.
+In a study determining the effect of other therapeutic agents on the in vitro binding of carbon-14 labeled etoposide to human serum proteins, only phenylbutazone, sodium salicylate, and aspirin displaced protein-bound etoposide at concentrations achieved in vivo.
+
+Etoposide binding ratio correlates directly with serum albumin in patients with cancer and in normal volunteers.
+The unbound fraction of etoposide significantly correlated with bilirubin in a population of cancer patients.
+Data have suggested a significant inverse correlation between serum albumin concentration and free fraction of etoposide (see PRECAUTIONS).
+
+After intravenous administration of 14C-etoposide (100-124 mg/m2), mean recovery of radioactivity in the urine was 56% of the dose at 120 hours, 45% of which was excreted as etoposide; fecal recovery of radioactivity was 44% of the dose at 120 hours.
+
+In children, approximately 55% of the dose of VePesid is excreted in the urine as etoposide in 24 hours.
+The mean renal clearance of etoposide is 7 to 10 mL/min/m2 or 35% of the total body clearance over a dose of 80 to 600 mg/m2.
+Etoposide, therefore, is cleared by both renal and nonrenal processes, i.e., metabolism and biliary excretion.
+The effect of renal disease on plasma etoposide clearance is not known in children.
+
+Biliary excretion of unchanged drug and/or metabolites is an important route of etoposide elimination as fecal recovery of radioactivity is 44% of the intravenous dose.
+The hydroxy acid metabolite [4'-demethylepipodophyllic acid-9-(4,6-O-(R)-ethylidene-β-D-glucopyranoside)], formed by opening of the lactone ring, is found in the urine of adults and children.
+It is also present in human plasma, presumably as the trans isomer.
+Glucuronide and/or sulfate conjugates of etoposide are also excreted in human urine.
+Only 8% or less of an intravenous dose is excreted in the urine as radiolabeled metabolites of 14C-etoposide.
+In addition, O-demethylation of the dimethoxyphenol ring occurs through the CYP450 3A4 isoenzyme pathway to produce the corresponding catechol.
+
+In adults, the total body clearance of etoposide is correlated with creatinine clearance, serum albumin concentration, and nonrenal clearance.
+Patients with impaired renal function receiving etoposide have exhibited reduced total body clearance, increased AUC, and a lower volume of distribution at steady state (see PRECAUTIONS).
+Use of cisplatin therapy is associated with reduced total body clearance.
+In children, elevated serum SGPT levels are associated with reduced drug total body clearance.
+Prior use of cisplatin may also result in a decrease of etoposide total body clearance in children.
+
+Although some minor differences in pharmacokinetic parameters between age and gender have been observed, these differences were not considered clinically significant.
+
+## Clinical Studies
+
+A total of seven clinical trials with 365 patients treated (368 entered) provide the data base for the human experience summarized in this insert.
+Five phase I trials evaluated etoposide phosphate given on a days 1, 3, and 5 or days 1 through 5 schedule.
+In two trials the drug was given over 5 minutes and in three over 30 minutes.
+The following table summarizes the doses, schedules, infusion times, and numbers of patients entered in the phase I experience.
+
+Dose Escalation (Phase I) Trials of Etoposide Phosphate
+
+| Study | Schedule Q 21 days | Infusion Time | Dose Range (mg/m2) | Number of Patients Entered |
+| --- | --- | --- | --- | --- |
+| 002 | Days 1-5 | 30 minutes | 25 - 110 | 68 |
+| 005 | Days 1,3,5 | 30 minutes | 50 - 175 | 39 |
+| 006 | Days 1-5 | 30 minutes | 50 - 125 | 28 |
+| 008 | Days 1,3,5 | 5 minutes | 50 - 200 | 36 |
+| 009 | Days 1-5 | 5 minutes | 50 - 125 | 27 |
+
+Two trials evaluated the pharmacokinetic equivalence of etoposide and etoposide phosphate.
+A phase I study (002) was expanded at the higher doses to compare the pharmacokinetic profile of etoposide following administration of etoposide or etoposide phosphate.
+Another multi-institutional trial (012) was conducted at a dose of 150 mg/m2 using a day 1, 3, and 5 schedule and a crossover design.
+
+The seventh trial (011) was a randomized study in which patients with limited or extensive small cell lung cancer and no prior therapy were treated with either cisplatin plus etoposide or cisplatin plus etoposide phosphate.
+Patients received 20 mg/m2/day of cisplatin for 5 days and 80 mg/m2/day of etoposide or etoposide phosphate.
+A total of 121 patients were randomized and 120 treated (60 per group).
+Response rates, time to response, duration of response, time to progression, time to worsening performance status, and survival were similar in the two groups whether the analysis was done for patients with limited or extensive disease or for the entire population.
+The following table summarizes the results regardless of disease extent.
+
+Response to Treatment for All Patients
+
+|  | Etoposide Phosphate plus Cisplatin | Etoposide plus Cisplatin | P-value |
+| --- | --- | --- | --- |
+| Complete Responses: | 15% | 15% | 1.000* |
+| Partial Responses: | 46% | 43% | 0.855* |
+| Overall Response Rate: | 61% | 58% | 0.854* |
+| Median Time to Response: | 48 days | 46 days | 0.596** |
+| Median Response Duration: | 273 days | 241 days | 0.141*** |
+| Median Time to Progression: | 211 days | 213 days | 0.500*** |
+| Median Time to Worsening |  |  |  |
+| Performance Status: | 210 days | 149 days | 0.472*** |
+| Median Survival: | 348 days | 318 days | 0.780*** |
+| *Fisher's Exact test |  |  |  |
+| **Wilcoxon Rank Sum test |  |  |  |
+| ***Logrank test |  |  |  |
+
+The most prominent side effects were myelosuppression and GI toxicity.
+Sixty-eight percent of patients treated with etoposide phosphate plus cisplatin had neutrophils less than 500/mm3 at some time during treatment as did 88% of those getting etoposide and cisplatin.
+Over 85% in each group had nausea and/or vomiting.
+No differences in the pattern or severity of side effects were observed.

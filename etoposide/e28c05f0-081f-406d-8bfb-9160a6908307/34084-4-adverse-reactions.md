@@ -1,0 +1,103 @@
+# ADVERSE REACTIONS
+
+ETOPOPHOS has been found to be well tolerated as a single agent in clinical studies involving 206 patients with a wide variety of malignancies, and in combination with cisplatin in 60 patients with small cell lung cancer.
+The most frequent clinically significant adverse experiences were leukopenia and neutropenia.
+
+The incidences of adverse experiences in the table that follows are derived from studies in which ETOPOPHOS was administered as a single agent.
+A total of 98 patients received total doses at or above 450 mg/m2 on a 5 consecutive day or day 1, 3, and 5 schedule during the first course of therapy.
+
+Summary of Adverse Events Reported With Single-Agent ETOPOPHOS Following Course 1 at Total Five Day Doses of ≥ 450 mg/m2
+
+|  |  | Percent of Patients |
+| --- | --- | --- |
+| Hematologic toxicity |  |  |
+| Leukopenia | < 4000/mm3 | 91 |
+|  | < 1000/mm3 | 17 |
+| Neutropenia | < 2000/mm3 | 88 |
+|  | < 500/mm3 | 37 |
+| Thrombocytopenia | < 100,000/mm3 | 23 |
+|  | < 50,000/mm3 | 9 |
+| Anemia | < 11 g/dL | 72 |
+|  | < 8 g/dL | 19 |
+| Gastrointestinal toxicity |  |  |
+| Nausea and/or vomiting |  | 37 |
+| Anorexia |  | 16 |
+| Mucositis |  | 11 |
+| Constipation |  | 8 |
+| Abdominal Pain |  | 7 |
+| Diarrhea |  | 6 |
+| Taste Alteration |  | 6 |
+| Asthenia/Malaise |  | 39 |
+| Alopecia |  | 33 |
+| Chills and/or Fever |  | 24 |
+| Dizziness |  | 5 |
+| Extravasation/Phlebitis |  | 5 |
+
+Since etoposide phosphate is converted to etoposide, those adverse experiences that are associated with VePesid can be expected to occur with ETOPOPHOS.
+
+## Hematologic Toxicity
+
+Myelosuppression after ETOPOPHOS administration is dose related and dose limiting with the leukocyte nadir counts occurring from day 15 to day 22 after initiation of drug therapy, granulocyte nadir counts occurring day 12-19 after initiation of drug therapy, and platelet nadirs occurring from day 10-15.
+Bone marrow recovery usually occurs by day 21 but may be delayed, and no cumulative toxicity has been reported.
+Fever and infection have also been reported in patients with neutropenia.
+Death associated with myelosuppression has been reported following etoposide administration.
+
+## Gastrointestinal Toxicity
+
+Nausea and vomiting are the major gastrointestinal toxicities.
+The severity of such nausea and vomiting is generally mild to moderate with treatment discontinuation required in 1% of patients.
+Nausea and vomiting can usually be controlled with standard antiemetic therapy.
+
+## Blood Pressure Changes
+
+In clinical studies, 151 patients were treated with ETOPOPHOS with infusion times ranging from 30 minutes to 3.5 hours.
+Sixty-three patients received ETOPOPHOS as a 5-minute bolus infusion.
+Four patients experienced one or more episodes of hypertension and eight patients experienced one or more episodes of hypotension, which may or may not be drug related.
+One episode of hypotension was reported among those patients who received a 5-minute bolus infusion.
+If clinically significant hypotension or hypertension occurs with ETOPOPHOS, appropriate supportive therapy should be initiated.
+
+## Allergic Reactions
+
+Anaphylactic-type reactions characterized by chills, rigors, tachycardia, bronchospasm, dyspnea, diaphoresis, fever, pruritus, hypertension or hypotension, loss of consciousness, nausea, and vomiting have been reported to occur in 3% (7/245) of all patients treated with ETOPOPHOS.
+Facial flushing was reported in 2% and skin rashes in 3% of patients receiving ETOPOPHOS.
+These reactions have usually responded promptly to the cessation of the infusion and administration of pressor agents, corticosteroids, antihistamines, or volume expanders as appropriate; however, the reactions can be fatal.
+Hypertension and/or flushing have also been reported.
+Blood pressure usually normalizes within a few hours after cessation of the initial infusion.
+
+Anaphylactic-like reactions have occurred during the initial infusion of ETOPOPHOS (see WARNINGS).
+Facial/tongue swelling, coughing, diaphoresis, cyanosis, tightness in throat, laryngospasm, back pain, and/or loss of consciousness have sometimes occurred in association with the above reactions.
+In addition, an apparent hypersensitivity-associated apnea has been reported rarely.
+
+Rash, urticaria, and/or pruritus have infrequently been reported at recommended doses.
+At investigational doses, a generalized pruritic erythematous maculopapular rash, consistent with perivasculitis, has been reported.
+
+## Alopecia
+
+Reversible alopecia, sometimes progressing to total baldness, was observed in up to 44% of patients.
+
+## Other Toxicities
+
+The following adverse reactions have been infrequently reported: abdominal pain, aftertaste, constipation, dysphagia, fever, transient cortical blindness, interstitial pneumonitis/pulmonary fibrosis, optic neuritis, pigmentation, seizure (occasionally associated with allergic reactions), Stevens-Johnson syndrome, toxic epidermal necrolysis, and a single report of radiation recall dermatitis.
+Rarely, hepatic toxicity may be seen.
+
+The incidences of adverse reactions in the table that follows are derived from multiple data bases from studies in 2081 patients when VePesid was used either orally or by injection as a single agent.
+
+| Adverse Drug Effects Observed With Single-Agent VePesid | Percent Range of Reported Incidence |
+| --- | --- |
+| Hematologic toxicity |  |
+| Leukopenia (< 1,000/mm3) | 3-17 |
+| Leukopenia (< 4,000/mm3) | 60-91 |
+| Thrombocytopenia (< 50,000/mm3) | 1-20 |
+| Thrombocytopenia (< 100,000/mm3) | 22-41 |
+| Anemia | 0-33 |
+| Gastrointestinal toxicity |  |
+| Nausea and vomiting | 31-43 |
+| Abdominal pain | 0-2 |
+| Anorexia | 10-13 |
+| Diarrhea | 1-13 |
+| Stomatitis | 1-6 |
+| Hepatic | 0-3 |
+| Alopecia | 8-66 |
+| Peripheral neurotoxicity | 1-2 |
+| Hypotension | 1-2 |
+| Allergic Reaction | 1-2 |
