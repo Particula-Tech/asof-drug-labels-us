@@ -19,15 +19,27 @@ Efficacy of TAMIFLU for treatment or prophylaxis has not been established in imm
 Serious bacterial infections may begin with influenza-like symptoms or may coexist with or occur as complications during the course of influenza.
 TAMIFLU has not been shown to prevent such complications.
 
-### Hepatic Impairment
+## Hepatic Impairment
 
 The safety and pharmacokinetics in patients with hepatic impairment have not been evaluated.
 
-### Renal Impairment
+## Renal Impairment
 
 Dose adjustment is recommended for patients with a serum creatinine clearance <30 mL/min (see DOSAGE AND ADMINISTRATION).
 
-## Information For Patients
+## Serious Skin/Hypersensitivity Reactions
+
+Rare cases of anaphylaxis and serious skin reactions including toxic epidermal necrolysis, Stevens-Johnson Syndrome, and erythema multiforme have been reported in post-marketing experience with TAMIFLU.
+TAMIFLU should be stopped and appropriate treatment instituted if an allergic-like reaction occurs or is suspected.
+
+## Neuropsychiatric Events
+
+There have been postmarketing reports (mostly from Japan) of self-injury and delirium with the use of TAMIFLU in patients with influenza.
+The reports were primarily among pediatric patients.
+The relative contribution of the drug to these events is not known.
+Patients with influenza should be closely monitored for signs of abnormal behavior throughout the treatment period.
+
+## Information for Patients
 
 Patients should be instructed to begin treatment with TAMIFLU as soon as possible from the first appearance of flu symptoms.
 Similarly, prevention should begin as soon as possible after exposure, at the recommendation of a physician.
@@ -38,6 +50,11 @@ TAMIFLU is not a substitute for a flu vaccination.
 Patients should continue receiving an annual flu vaccination according to guidelines on immunization practices.
 
 ## Drug Interactions
+
+The concurrent use of TAMIFLU with live attenuated influenza vaccine (LAIV) intranasal has not been evaluated.
+However, because of the potential for interference between these products, LAIV should not be administered within 2 weeks before or 48 hours after administration of TAMIFLU, unless medically indicated.
+The concern about possible interference arises from the potential for antiviral drugs to inhibit replication of live vaccine virus.
+Trivalent inactivated influenza vaccine can be administered at any time relative to use of TAMIFLU.
 
 Information derived from pharmacology and pharmacokinetic studies of oseltamivir suggests that clinically significant drug interactions are unlikely.
 
@@ -57,7 +74,7 @@ Coadministration with amoxicillin does not alter plasma levels of either compoun
 
 In six subjects, multiple doses of oseltamivir did not affect the single-dose pharmacokinetics of acetaminophen.
 
-## Carcinogenesis, Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Long-term carcinogenicity tests with oseltamivir are underway but have not been completed.
 However, a 26-week dermal carcinogenicity study of oseltamivir carboxylate in FVB/Tg.AC transgenic mice was negative.
@@ -98,10 +115,10 @@ TAMIFLU should, therefore, be used only if the potential benefit for the lactati
 ## Geriatric Use
 
 The safety of TAMIFLU has been established in clinical studies which enrolled 741 subjects (374 received placebo and 362 received TAMIFLU).
-Some seasonal variability was noted in the clinical efficacy outcomes (see Description of Clinical Studies: Studies in Naturally Occurring Influenza: Treatment of Influenza: Geriatric Patients).
+Some seasonal variability was noted in the clinical efficacy outcomes (see INDICATIONS AND USAGE: Description of Clinical Studies: Studies in Naturally Occurring Influenza: Treatment of Influenza: Geriatric Patients).
 
 Safety and efficacy have been demonstrated in elderly residents of nursing homes who took TAMIFLU for up to 42 days for the prevention of influenza.
-Many of these individuals had cardiac and/or respiratory disease, and most had received vaccine that season (see Description of Clinical Studies: Studies in Naturally Occurring Influenza: Prophylaxis of Influenza).
+Many of these individuals had cardiac and/or respiratory disease, and most had received vaccine that season (see INDICATIONS AND USAGE: Description of Clinical Studies: Studies in Naturally Occurring Influenza: Prophylaxis of Influenza: Adult Patients).
 
 ## Pediatric Use
 

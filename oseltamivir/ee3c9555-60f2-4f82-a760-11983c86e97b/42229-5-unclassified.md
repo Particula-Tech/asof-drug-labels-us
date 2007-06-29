@@ -37,22 +37,14 @@ However, two of the three oseltamivir-induced mutations (E119V, H274Y and R292K)
 No influenza vaccine interaction study has been conducted.
 In studies of naturally acquired and experimental influenza, treatment with TAMIFLU did not impair normal humoral antibody response to infection.
 
-Manufactured by:
-
-F. Hoffmann-La Roche Ltd.
-
-Basel, Switzerland
-
 Distributed by:
 
 Licensor:
 
-Gilead Sciences, Inc.
+Gilead Sciences, Inc. Foster City, California 94404
 
-Foster City, California 94404
+27899328
 
-27898808
+Revised: November 2006
 
-Revised: June 2004
-
-Copyright © 1999-2004 by Roche Laboratories Inc. All rights reserved.
+Copyright© 1999-2006 by Roche Laboratories Inc. All rights reserved.

@@ -6,15 +6,15 @@ TAMIFLU is indicated for the treatment of uncomplicated acute illness due to inf
 
 ## Prophylaxis of Influenza
 
-TAMIFLU is indicated for the prophylaxis of influenza in adult patients and adolescents 13 years and older.
+TAMIFLU is indicated for the prophylaxis of influenza in patients 1 year and older.
 
-TAMIFLU is not a substitute for early vaccination on an annual basis as recommended by the Centers for Disease Controls Immunization Practices Advisory Committee.
+TAMIFLU is not a substitute for early vaccination on an annual basis as recommended by the Centers for Disease Control's Immunization Practices Advisory Committee.
 
 ## Description of Clinical Studies: Studies in Naturally Occurring Influenza
 
-## Treatment of Influenza
+### Treatment of Influenza
 
-### Adult Patients
+#### Adult Patients
 
 Two phase III placebo-controlled and double-blind clinical trials were conducted: one in the USA and one outside the USA.
 Patients were eligible for these trials if they had fever >100°F, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache) and influenza virus was known to be circulating in the community.
@@ -31,7 +31,7 @@ Subgroup analyses of these studies by gender showed no differences in the treatm
 
 In the treatment of influenza, no increased efficacy was demonstrated in subjects receiving treatment of 150 mg TAMIFLU twice daily for 5 days.
 
-### Geriatric Patients
+#### Geriatric Patients
 
 Three double-blind placebo-controlled treatment trials were conducted in patients ≥65 years of age in three consecutive seasons.
 The enrollment criteria were similar to that of adult trials with the exception of fever being defined as >97.5°F.
@@ -41,7 +41,7 @@ Of the 476 influenza-infected patients, 95% were infected with influenza type A 
 In the pooled analysis, at the recommended dose of TAMIFLU 75 mg twice daily for 5 days, there was a 1 day reduction in the median time to improvement in influenza-infected subjects receiving TAMIFLU compared to those receiving placebo (p=NS).
 However, the magnitude of treatment effect varied between studies.
 
-### Pediatric Patients
+#### Pediatric Patients
 
 One double-blind placebo-controlled treatment trial was conducted in pediatric patients aged 1 to 12 years (median age 5 years), who had fever (>100°F) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
 Of 698 patients enrolled in this trial, 452 (65%) were influenza-infected (50% male; 68% Caucasian).
@@ -52,16 +52,26 @@ These were: alleviation of cough, alleviation of coryza, resolution of fever, an
 TAMIFLU treatment of 2 mg/kg twice daily, started within 48 hours of onset of symptoms, significantly reduced the total composite time to freedom from illness by 1.5 days compared to placebo.
 Subgroup analyses of this study by gender showed no differences in the treatment effect of TAMIFLU in males and females.
 
-## Prophylaxis of Influenza
+### Prophylaxis of Influenza
+
+#### Adult Patients
 
 The efficacy of TAMIFLU in preventing naturally occurring influenza illness has been demonstrated in three seasonal prophylaxis studies and a postexposure prophylaxis study in households.
-The primary efficacy parameter for all these studies was the incidence of laboratory confirmed clinical influenza.
-Laboratory confirmed clinical influenza was defined as oral temperature ≥99.0°F/37.2°C plus at least one respiratory symptom (cough, sore throat, nasal congestion) and at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), all recorded within 24 hours, plus either a positive virus isolation or a fourfold increase in virus antibody titers from baseline.
+The primary efficacy parameter for all these studies was the incidence of laboratory-confirmed clinical influenza.
+Laboratory-confirmed clinical influenza was defined as oral temperature ≥99.0°F/37.2°C plus at least one respiratory symptom (cough, sore throat, nasal congestion) and at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), all recorded within 24 hours, plus either a positive virus isolation or a fourfold increase in virus antibody titers from baseline.
 
-In a pooled analysis of two seasonal prophylaxis studies in healthy unvaccinated adults (aged 13 to 65 years), TAMIFLU 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory confirmed clinical influenza from 4.8% (25/519) for the placebo group to 1.2% (6/520) for the TAMIFLU group.
+In a pooled analysis of two seasonal prophylaxis studies in healthy unvaccinated adults (aged 13 to 65 years), TAMIFLU 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 4.8% (25/519) for the placebo group to 1.2% (6/520) for the TAMIFLU group.
 
-In a seasonal prophylaxis study in elderly residents of skilled nursing homes, TAMIFLU 75 mg once daily taken for 42 days reduced the incidence of laboratory confirmed clinical influenza from 4.4% (12/272) for the placebo group to 0.4% (1/276) for the TAMIFLU group.
+In a seasonal prophylaxis study in elderly residents of skilled nursing homes, TAMIFLU 75 mg once daily taken for 42 days reduced the incidence of laboratory-confirmed clinical influenza from 4.4% (12/272) for the placebo group to 0.4% (1/276) for the TAMIFLU group.
 About 80% of this elderly population were vaccinated, 14% of subjects had chronic airway obstructive disorders, and 43% had cardiac disorders.
 
-In a study of postexposure prophylaxis in household contacts (aged ≥13 years) of an index case, TAMIFLU 75 mg once daily administered within 2 days of onset of symptoms in the index case and continued for 7 days reduced the incidence of laboratory confirmed clinical influenza from 12% (24/200) in the placebo group to 1% (2/205) for the TAMIFLU group.
+In a study of postexposure prophylaxis in household contacts (aged ≥13 years) of an index case, TAMIFLU 75 mg once daily administered within 2 days of onset of symptoms in the index case and continued for 7 days reduced the incidence of laboratory-confirmed clinical influenza from 12% (24/200) in the placebo group to 1% (2/205) for the TAMIFLU group.
 Index cases did not receive TAMIFLU in the study.
+
+#### Pediatric Patients
+
+The efficacy of TAMIFLU in preventing naturally occurring influenza illness has been demonstrated in a randomized, open-label, postexposure prophylaxis study in households that included children aged 1 to 12 years, both as index cases and as family contacts.
+All index cases in this study received treatment.
+The primary efficacy parameter for this study was the incidence of laboratory-confirmed clinical influenza in the household.
+Laboratory-confirmed clinical influenza was defined as oral temperature ≥100°F/37.8°C plus cough and/or coryza recorded within 48 hours, plus either a positive virus isolation or a fourfold or greater increase in virus antibody titers from baseline or at illness visits.
+Among household contacts 1 to 12 years of age not already shedding virus at baseline, TAMIFLU Oral Suspension 30 mg to 60 mg taken once daily for 10 days reduced the incidence of laboratory-confirmed clinical influenza from 17% (18/106) in the group not receiving prophylaxis to 3% (3/95) in the group receiving prophylaxis.
