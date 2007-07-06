@@ -481,4 +481,6 @@ Alprazolam was significantly better than placebo at each of the evaluation perio
 
 4041495 pc050
 
+Revised May 2000
+
 © RLI, 2000
