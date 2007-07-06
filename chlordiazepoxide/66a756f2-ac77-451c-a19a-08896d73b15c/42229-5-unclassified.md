@@ -1,11 +1,5 @@
 CIV
 
+5 mg/12.5 mg and 10 mg/25 mg
+
 Rx only
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
-
-REV JANUARY 2006 CDAM:R9AQ
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
-
-REV JANUARY 2006 MG:AD:R1

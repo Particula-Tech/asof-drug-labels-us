@@ -1,4 +1,6 @@
-# OVERDOSAGEPoisindex® Toxicologic Management. Topic: Antidepressants, Tricyclic. Micromedex Inc. Vol. 85.
+OVERDOSAGEPoisindex® Toxicologic Management.
+Topic: Antidepressants, Tricyclic.
+Micromedex Inc. Vol. 85.
 
 Deaths may occur from overdosage with this class of drugs.
 Multiple drug ingestion (including alcohol) is common in deliberate tricyclic antidepressant overdose.
@@ -32,7 +34,7 @@ Emesis is contraindicated.
 
 ### Cardiovascular
 
-A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
+A maximal limb lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
 Serum alkalinization, to a pH of 7.45 to 7.56, using intravenous sodium bicarbonate and hyperventilation (as needed) should be instituted for patients with dysrhythmias and/or QRS widening.
 A pH > 7.60 or a pCO2< 20 mm Hg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
@@ -45,7 +47,7 @@ However, hemodialysis, peritoneal dialysis, exchange transfusions and forced diu
 
 In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
 Seizures should be controlled with benzodiazepines, or if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin).
-Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
+Physostigmine is not recommended except to treat life threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
 
 ### Psychiatric Follow-up
 

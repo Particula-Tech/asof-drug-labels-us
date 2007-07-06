@@ -11,20 +11,20 @@ When treatment with chlordiazepoxide and amitriptyline hydrochloride is prolonge
 Note: Included in the listing which follows are adverse reactions which have not been reported with chlordiazepoxide and amitriptyline hydrochloride.
 However, they are included because they have been reported during therapy with one or both of the components or closely related drugs.
 
-Cardiovascular: Hypotension, hypertension, tachycardia, palpitations, myocardial infarction, arrhythmias, heart block, stroke.
+Cardiovascular: hypotension, hypertension, tachycardia, palpitations, myocardial infarction, arrhythmias, heart block, stroke
 
-Psychiatric: Euphoria, apprehension, poor concentration, delusions, hallucinations, hypomania and increased or decreased libido.
+Psychiatric: euphoria, apprehension, poor concentration, delusions, hallucinations, hypomania and increased or decreased libido
 
-Neurologic: Incoordination, ataxia, numbness, tingling and paresthesias of the extremities, extrapyramidal symptoms, syncope, changes in EEG patterns.
+Neurologic: incoordination, ataxia, numbness, tingling and paresthesias of the extremities, extrapyramidal symptoms, syncope, changes in EEG patterns
 
-Anticholinergic: Disturbance of accommodation, paralytic ileus, urinary retention, dilatation of urinary tract.
+Anticholinergic: disturbance of accommodation, paralytic ileus, urinary retention, dilatation of urinary tract
 
-Allergic: Skin rash, urticaria, photosensitization, edema of face and tongue, pruritus.
+Allergic: skin rash, urticaria, photosensitization, edema of face and tongue, pruritus
 
-Hematologic: Bone marrow depression including agranulocytosis, eosinophilia, purpura, thrombocytopenia.
+Hematologic: bone marrow depression including agranulocytosis, eosinophilia, purpura, thrombocytopenia
 
-Gastrointestinal: Nausea, epigastric distress, vomiting, anorexia, stomatitis, peculiar taste, diarrhea, black tongue.
+Gastrointestinal: nausea, epigastric distress, vomiting, anorexia, stomatitis, peculiar taste, diarrhea, black tongue
 
-Endocrine: Testicular swelling and gynecomastia in the male, breast enlargement, galactorrhea and minor menstrual irregularities in the female, elevation and lowering of blood sugar levels, and syndrome of inappropriate ADH (antidiuretic hormone) secretion.
+Endocrine: testicular swelling and gynecomastia in the male, breast enlargement, galactorrhea and minor menstrual irregularities in the female, elevation and lowering of blood sugar levels, and syndrome of inappropriate ADH (antidiuretic hormone) secretion
 
-Other: Headache, weight gain or loss, increased perspiration, urinary frequency, mydriasis, jaundice, alopecia, parotid swelling.
+Other: headache, weight gain or loss, increased perspiration, urinary frequency, mydriasis, jaundice, alopecia, parotid swelling

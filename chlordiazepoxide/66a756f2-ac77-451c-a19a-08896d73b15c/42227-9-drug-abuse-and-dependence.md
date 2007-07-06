@@ -5,4 +5,4 @@ The more severe withdrawal symptoms have usually been limited to those patients 
 Generally milder withdrawal symptoms (e.g., dysphoria and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic levels for several months.
 Withdrawal symptoms (e.g., nausea, headache and malaise) have also been reported in association with abrupt amitriptyline discontinuation.
 Consequently, after extended therapy, abrupt discontinuation should generally be avoided and a gradual dosage tapering schedule followed.
-Addiction-prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving chlordiazepoxide or other psychotropic agents because of the predisposition of such patients to habituation and dependence.
+Addiction prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving chlordiazepoxide or other psychotropic agents because of the predisposition of such patients to habituation and dependence.
