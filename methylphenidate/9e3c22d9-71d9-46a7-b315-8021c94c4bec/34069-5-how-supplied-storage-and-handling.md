@@ -20,4 +20,4 @@ Ritalin® is a registered trademark of Novartis Pharmaceuticals Corp.
 
 Manufactured for: Alliant Pharmaceuticals, Inc. 333 North Point Center East, Suite 250 Alpharetta, Georgia 30022 U.S.A.
 
-Manufactured by: Mallinckrodt Inc. St. Louis, MO 63134 U.S.A. Rev 052406
+Manufactured by: Mallinckrodt Inc. St. Louis, MO 63134 U.S.A. Rev 060607

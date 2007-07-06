@@ -2,7 +2,7 @@
 
 ## Serious Cardiovascular Events
 
-## Sudden Death and Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+## Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 Children and Adolescents - Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
 Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug.
@@ -13,7 +13,7 @@ Adults with such abnormalities should also generally not be treated with stimula
 
 ## Hypertension and other Cardiovascular Conditions
 
-Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
+Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
 Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
 
@@ -58,6 +58,8 @@ Methylin® should not be used in children under six years, since safety and effi
 
 # PRECAUTIONS
 
+## General
+
 Patients with an element of agitation may react adversely; discontinue therapy if necessary.
 
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.
@@ -69,6 +71,14 @@ Prescription should not depend solely on the presence of one or more of the beha
 When these symptoms are associated with acute stress reactions, treatment with Methylin® is usually not indicated.
 
 Long-term effects of Methylin® in children have not been well established.
+
+## Information for Patients
+
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with methylphenidate and should counsel them in its appropriate use.
+A patient Medication Guide is available for Methylin® Oral Solution.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+The complete text of the Medication Guide is reprinted at the end of this document.
 
 ## Drug Interactions
 
