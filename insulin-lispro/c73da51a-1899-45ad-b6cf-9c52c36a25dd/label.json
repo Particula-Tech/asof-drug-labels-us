@@ -1,0 +1,13 @@
+{
+  "application_numbers": [],
+  "inn": "insulin-lispro",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-7511-01",
+    "0002-8794-01",
+    "0002-8794-59"
+  ],
+  "products": [],
+  "setid": "c73da51a-1899-45ad-b6cf-9c52c36a25dd",
+  "source": "dailymed"
+}
