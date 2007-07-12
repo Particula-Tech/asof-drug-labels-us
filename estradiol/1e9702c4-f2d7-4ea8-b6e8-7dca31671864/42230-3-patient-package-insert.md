@@ -16,26 +16,26 @@ What is Climara used for?
 
 Climara is used after menopause to:
 
-- reducemoderate to severe hot flashes.
-  Estrogens are hormones made by a woman's ovaries.
+- ● reduce moderate to severe hot flashes.
+  Estrogens are hormones made by a woman’s ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
   The sudden drop in estrogen levels causes "surgical menopause."
-  - When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
-    In some women, the symptoms are mild, and they will not need estrogens.
-    In other women, symptoms can be more severe.
-    You and your healthcare provider should talk regularly about whether you still need treatment with Climara.
-- treat moderate to severe dryness, itching, and burning in or around the vagina.
-  - You and your healthcare provider should talk regularly about whether you still need treatment with Climara to control these problems.
-    If you use Climara only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
-- treat certain conditions in which a young woman’s ovaries do not produce enough treat estrogen naturally.
-- help reduce your chances of getting osteoporosis (thin weak bones).
-  Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
+- When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
+  In some women, the symptoms are mild, and they will not need estrogens.
+  In other women, symptoms can be more severe.
+  You and your healthcare provider should talk regularly about whether you still need treatment with Climara.
+- ●treat moderate to severe dryness, itching, and burning in or around the vagina.
+  You and your healthcare provider should talk regularly about whether you still need treatment with Climara to control these problems.
+  If you use Climara only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
+- ●treat certain conditions in which a young woman’s ovaries do not produce enough estrogen naturally.
+- ●help reduce your chances of getting osteoporosis (thin weak bones).
+- Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
   If you use Climara only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
   You and your healthcare provider should talk regularly about whether you should continue with Climara.
-  - Weight-bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances of getting postmenopausal osteoporosis.
-    It is important to talk about exercise and supplements with your healthcare provider before starting them.
+- Weight-bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances of getting postmenopausal osteoporosis.
+  It is important to talk about exercise and supplements with your healthcare provider before starting them.
 
 Who should not use Climara?
 
@@ -163,7 +163,7 @@ Keep Climara out of the reach of children.
 This leaflet provides a summary of the most important information about Climara.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about Climara that is written for health professionals.
-You can get more information by calling the toll free number (1-888-237-5394).
+You can get more information by calling the toll free number (1-888-84BAYER).
 
 What are the ingredients in Climara?
 
@@ -217,8 +217,14 @@ Do not apply two patches at the same time.
 Estrogens should be used only as long as needed.
 You and your health care provider should talk regularly (for example, every 3 to 6 months) about whether you still need treatment with Climara.
 
+© 2007, Bayer HealthCare Pharmaceuticals Inc.
+
 Manufactured for:
 
-Berlex, Montville NJ 07045
+:
 
-Manufactured by 3M Pharmaceuticals, St. Paul, MN 55144
+Manufactured by
+
+3M Drug Delivery Systems
+
+Northridge, CA 91324

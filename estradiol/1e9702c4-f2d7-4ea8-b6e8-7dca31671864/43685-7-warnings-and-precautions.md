@@ -1,6 +1,6 @@
-# Warnings
+# WARNINGS
 
-SeeBOXED WARNINGS.
+See Boxed Warnings.
 
 ## Cardiovascular disorders
 
@@ -104,7 +104,7 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 
 ## General
 
-### Addition of a progestin when a woman has not had a hysterectomy.
+### 1. Addition of a progestin when a woman has not had a hysterectomy.
 
 Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.
@@ -112,37 +112,37 @@ Endometrial hyperplasia may be a precursor to endometrial cancer.
 There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone treatment.
 These include a possible increased risk of breast cancer.
 
-### Elevated blood pressure
+### 2. Elevated blood pressure
 
 In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
 Blood pressure should be monitored at regular intervals with estrogen use.
 
-### Hypertriglyceridemia
+### 3. Hypertriglyceridemia
 
 In patients with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis and other complications.
 
-### Impaired liver function and past history of cholestatic jaundice
+### 4. Impaired liver function and past history of cholestatic jaundice
 
 Estrogens may be poorly metabolized in patients with impaired liver function.
 For patients with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised and in the case of recurrence, medication should be discontinued.
 
-### Hypothyroidism
+### 5. Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
 Patients with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
 Patients dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
 These patients should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
 
-### Fluid retention
+### 6. Fluid retention
 
 Because estrogens may cause some degree of fluid retention, patients with conditions that might be influenced by this factor, such as a cardiac or renal dysfunction, warrant careful observation when estrogens are prescribed.
 
-### Hypocalcemia
+### 7. Hypocalcemia
 
 Estrogens should be used with caution in individuals with severe hypocalcemia.
 
-### Ovarian cancer
+### 8. Ovarian cancer
 
 The CE/MPA sub-study of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77-3.24) but was not statistically significant.
@@ -150,15 +150,17 @@ The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 
 In some epidemiological studies, the use of estrogen alone, in particular for ten or more years, has been associated with an increased risk of ovarian cancer.
 Other epidemiologic studies have not found these associations.
 
-### Exacerbation of endometriosis
+### 9. Exacerbation of endometriosis
 
 Endometriosis may be exacerbated with administration of estrogens.
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-### Exacerbation of other conditions
+### 10. Exacerbation of other conditions
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine or porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
+
+In women with hereditary angioderma, exogenoous estrogens may induce or exacerbate symptoms of angioderma.
 
 ## PATIENT INFORMATION
 
@@ -185,7 +187,7 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 ## CARCINOGENESES, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
 
 Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See BOXED WARNINGS, Warnings and PRECAUTIONS.)
+(See Boxed Warnings, Warnings and PRECAUTIONS.)
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
@@ -219,4 +221,4 @@ Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer's disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
 Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70.
-(See BOXED WARNINGS and Warnings, Dementia.)
+(See Boxed Warnings and Warnings, Dementia.)

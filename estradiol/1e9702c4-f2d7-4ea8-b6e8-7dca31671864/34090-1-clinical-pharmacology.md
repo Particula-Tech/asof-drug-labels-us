@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY
 
 Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics.
 Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol at the receptor level.
@@ -14,7 +14,7 @@ These vary in proportion from tissue to tissue.
 Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH), through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
 
-## PHARMACOKINETICS
+## Pharmacokinetics
 
 Transdermal administration of Climara produces mean serum concentrations of estradiol comparable to those produced by premenopausal women in the early follicular phase of the ovulatory cycle.
 The pharmacokinetics of estradiol following application of the Climara system were investigated in 197 healthy postmenopausal women in six studies.
@@ -60,6 +60,7 @@ The relative standard deviation of each pharmacokinetic parameter after applicat
 ### Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
+
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone binding globulin (SHBG) and albumin.
 
@@ -76,34 +77,34 @@ In postmenopausal women, a significant proportion of the circulating estrogens e
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-### Special Populations
+## Special Populations
 
-#### Geriatric
+### Geriatric:
 
 There have not been sufficient numbers of geriatric patients involved in clinical studies utilizing Climara to determine whether those over 65 years of age differ from younger subjects in their response to Climara.
 
-#### Pediatric
+### Pediatric:
 
 No pharmacokinetic study for Climara has been conducted in a pediatric population.
 
-#### Gender
+### Gender:
 
 Climara is indicated for use in women only.
 
-#### Race
+### Race:
 
 No studies were done to determine the effect of race on the pharmacokinetics of Climara.
 
-#### Patients with Renal Impairment
+### Patients with Renal Impairment:
 
 Total estradiol serum levels are higher in postmenopausal women with end stage renal disease (ESRD) receiving maintenance hemodialysis than in normal subjects at baseline and following oral doses of estradiol.
 Therefore, conventional transdermal estradiol doses used in individuals with normal renal function may be excessive for postmenopausal women with ESRD receiving maintenance hemodialysis.
 
-#### Patients with Hepatic Impairment
+### Patients with Hepatic Impairment:
 
 Estrogens may be poorly metabolized in patients with impaired liver function and should be administered with caution.
 
-### Drug Interactions
+## Drug Interactions
 
 In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
@@ -138,8 +139,8 @@ Subjects were monitored by clinic visits at the end of weeks 1, 3, 7, and 11 and
 
 Adequate data for the analysis of efficacy was available from 191 subjects.
 The results are presented as the mean ± SD number of flushes in each of the 3 treatment weeks of each 4-week cycle.
-In the 0.05 mg estradiol group, the mean weekly hot flush rate across all treatment cycles decreased from 46 ± 6.5 at baseline to 20 ± 3.0 (-67.0%).
-The 0.1 mg estradiol group had a decline in the mean weekly hot flush rate from 52 ± 4.4 at baseline to 16 ± 2.4 (-72.0%).
+In the 0.05 mg estradiol group, the mean weekly hot flush rate across all treatment cycles decreased from 46 ± 6.5 at baseline to 20 ± 3 (-67%).
+The 0.1 mg estradiol group had a decline in the mean weekly hot flush rate from 52 ± 4.4 at baseline to 16 ± 2.4 (-72%).
 In the placebo group, the mean weekly hot flush rate declined from 53 ± 4.5 at baseline to 46 ± 6.5 (-18.1%).
 Compared with placebo, the 0.05 mg and 0.1 mg estradiol groups showed a statistically significantly larger mean decrease in hot flushes across all treatment cycles (P<0.05).
 When the response to treatment was analyzed for each of the three cycles of therapy, similar statistically significant differences were observed between both estradiol treatment groups and the placebo group during all treatment cycles.
@@ -182,7 +183,7 @@ The study did not evaluate the effects of CE or CE/MPA on menopausal symptoms.
 The CE/MPA substudy was stopped early because, according to the predefined stopping rule, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the "global index."
 Results of the CE/MPA substudy, which included 16,608 women (average age of 63 years, range 50 to 79; 83.9% White, 6.5% Black, 5.5% Hispanic), after an average follow-up of 5.2 years are presented in Table 3 below:
 
-Table 3 RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHI adapted from JAMA, 2002; 288:321-333
+Table 3 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHI adapted from JAMA, 2002; 288:321-333
 
 | Eventc | Relative Risk CE/MPA vs placebo at 5.2 Years(95% CI** nominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPAn = 8506 |
 | --- | --- | --- | --- |
@@ -205,7 +206,7 @@ Table 3 RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHI adapted fr
 For those outcomes included in the "global index," the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
-(SeeBOXED WARNINGS, Warnings, and PRECAUTIONS.).
+(See Boxed Warnings, Warnings, and PRECAUTIONS.).
 
 ### Women's Health Initiative Memory Study
 
@@ -215,4 +216,4 @@ After an average follow-up of 4 years, 40 women in the estrogen/progestin group 
 The relative risk of probable dementia in the hormone therapy group was 2.05 (95% CI, 1.21 to 3.48) compared to placebo.
 Differences between groups became apparent in the first year of treatment.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See BOXED WARNINGS and Warnings, Dementia and PRECAUTIONS, Geriatric use.)
+(See Boxed Warnings and Warnings, Dementia and PRECAUTIONS, Geriatric use.)

@@ -1,7 +1,10 @@
+# Warnings
+
 ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
 
 Close clinical surveillance of all women taking estrogens is important.
 Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
+
 There is no evidence that the use of “natural” estrogens results in a different endometrial risk profile than synthetic estrogens at equivalent estrogen doses.
 (See Warnings, Malignant neoplasms, Endometrial cancer.)
 
@@ -23,10 +26,13 @@ Because of these risks, estrogens with or without progestins should be prescribe
 What is the most important information I should know about Climara (an estrogen hormone)?
 
 - Estrogens increase the chances of getting cancer of the uterus.
-- Report any unusual vaginal bleeding right away while you are taking estrogens.
-  Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-  Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia.
-- Using estrogens with or without progestins may increase your chances of getting heart attack, strokes, breast cancer, and blood clots.
-  Using estrogens with progestins may increase your risk of dementia.
-  You and your healthcare provider should talk regularly about whether you still need treatment with Climara.
+
+Report any unusual vaginal bleeding right away while you are taking estrogens.
+Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
+
+- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia.
+
+Using estrogens with or without progestins may increase your chances of getting heart attack, strokes, breast cancer, and blood clots.
+Using estrogens with progestins may increase your risk of dementia.
+You and your healthcare provider should talk regularly about whether you still need treatment with Climara.
