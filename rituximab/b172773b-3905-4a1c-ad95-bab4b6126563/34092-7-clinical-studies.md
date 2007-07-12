@@ -5,7 +5,7 @@
 Rituxan regimens tested include treatment weekly for 4 doses and treatment weekly for 8 doses.
 Results for studies with a collective enrollment of 296 patients are summarized below (Table 2):
 
-Table 2: Summary of Rituxan Efficacy Data by Schedule and Clinical Setting (See ADVERSE REACTIONS: Risk Factors Associated with Increased Rates of Adverse Events)
+Table 2: Summary of Rituxan Efficacy Data by Schedule and Clinical Setting (See ADVERSE REACTIONS for Risk Factors Associated with Increased Rates of Adverse Events)
 
 |  | Study 1 Weekly× 4 N = 166 | Study 2 Weekly× 8 N = 37 | Study 1 and Study 3 Bulky disease, Weekly× 4 N = 39Six of these patients are included in the first column. Thus, data from 296 intent to treat patients are provided in this table. | Study 3 Retreatment, Weekly × 4 N = 60 |
 | --- | --- | --- | --- | --- |
@@ -18,12 +18,12 @@ Table 2: Summary of Rituxan Efficacy Data by Schedule and Clinical Setting (See 
 #### Study 1
 
 A multicenter, open‑label, single‑arm study was conducted in 166 patients with relapsed or refractory, low‑grade or follicular B‑cell NHL who received 375 mg/m2 of Rituxan given as an IV infusion weekly for 4 doses.
-14 Patients with tumor masses >10 cm or with >5,000 lymphocytes/µL in the peripheral blood were excluded from the study.
+14 Patients with tumor masses>10 cm or with >5000 lymphocytes/µL in the peripheral blood were excluded from the study.
 Results are summarized in Table 2.
 The median time to onset of response was 50 days and the median duration of response was 11.2 months (range, 1.9–42.1+).
 Disease‑related signs and symptoms (including B‑symptoms) were present in 23% (39/166) of patients at study entry and resolved in 64% (25/39) of those patients.
 
-In a multivariate analysis, the ORR was higher in patients with IWF B, C, and D histologic subtypes as compared to IWF subtype A (58% vs. 12%), higher in patients whose largest lesion was <5 cm vs. >7 cm (maximum, 21 cm) in greatest diameter (53% vs. 38%), and higher in patients with chemosensitive relapse as compared with chemoresistant (defined as duration of response <3 months) relapse (53% vs. 36%).
+In a multivariate analysis, the ORR was higher in patients with IWF B, C, and D histologic subtypes as compared to IWF subtype A (58% vs. 12%), higher in patients whose largest lesion was<5 cm vs. >7 cm (maximum, 21 cm) in greatest diameter (53% vs. 38%), and higher in patients with chemosensitive relapse as compared with chemoresistant (defined as duration of response<3 months) relapse (53% vs. 36%).
 ORR in patients previously treated with autologous bone marrow transplant was 78% (18/23).
 The following adverse prognostic factors were not associated with a lower response rate: age ≥60 years, extranodal disease, prior anthracycline therapy, and bone marrow involvement.
 
@@ -33,11 +33,11 @@ The following adverse prognostic factors were not associated with a lower respon
 
 In a multicenter, single‑arm study, 37 patients with relapsed or refractory, low‑grade NHL received 375 mg/m2 of Rituxan weekly for 8 doses.
 Results are summarized in Table 2.
-(See ADVERSE REACTIONS: Risk Factors Associated with Increased Rates of Adverse Events.)
+(see ADVERSE REACTIONS: Risk Factors Associated with Increased Rates of Adverse Events.)
 
 ### Bulky Disease, Weekly for 4 Doses
 
-In pooled data (Study 1 and 3) from multiple studies of Rituxan, 39 patients with relapsed or refractory, bulky disease (single lesion >10 cm in diameter), low-grade NHL received 375 mg/m2 of Rituxan weekly for 4 doses.
+In pooled data (Study 1 and 3) from multiple studies of Rituxan, 39 patients with relapsed or refractory, bulky disease (single lesion>10 cm in diameter), low-grade NHL received 375 mg/m2 of Rituxan weekly for 4 doses.
 Results are summarized in Table 2.16, 17 (For information on the higher incidence of Grade 3 and 4 adverse events, see ADVERSE REACTIONS: Risk Factors Associated with Increased Rates of Adverse Events.)
 
 ### Retreatment Weekly for 4 Doses
@@ -89,9 +89,9 @@ Patients with previously untreated diffuse large B‑cell NHL received Rituxan i
 
 #### Study 6
 
-A total of 632 patients aged ≥60 years with either B‑cell NHL Grade F, G, or H by the International Working Formulation classification or DLBCL (including primary mediastinal B‑cell lymphoma) in the REAL classification were randomized in a 1:1 ratio to treatment with CHOP or R‑CHOP.
+A total of 632 patients aged≥60 years with either B‑cell NHL Grade F, G, or H by the International Working Formulation classification or DLBCL (including primary mediastinal B‑cell lymphoma) in the REAL classification were randomized in a 1:1 ratio to treatment with CHOP or R‑CHOP.
 Patients were given 6 or 8, 21 day cycles of CHOP.
-Patients in the R‑CHOP arm also received 4 or 5 doses of Rituxan 375 mg/m2 on Days −7 and −3 (prior to Cycle 1), and 48–72 hours pre–Cycle 3, pre–Cycle 5, and pre–Cycle 7 for patients receiving 8 cycles of CHOP induction.
+Patients in the R‑CHOP arm also received 4 or 5 doses of Rituxan 375 mg/m2 on Days−7 and −3 (prior to Cycle 1), and 48–72 hours pre–Cycle 3, pre–Cycle 5, and pre–Cycle 7 for patients receiving 8 cycles of CHOP induction.
 The main outcome measure of the study was progression–free survival, defined as the time from randomization to the first of progression, relapse or death.
 Responding patients underwent a second randomization to receive Rituxan or no further therapy.
 
@@ -103,17 +103,17 @@ Analysis of results after the second randomization in Study 6 demonstrates that 
 
 #### Study 7
 
-A total of 399 patients with DLBCL, aged ≥60 years, were randomized in a 1:1 ratio to receive CHOP or R‑CHOP induction.
+A total of 399 patients with DLBCL, aged≥60 years, were randomized in a 1:1 ratio to receive CHOP or R‑CHOP induction.
 All patients received up to 8, 3–week cycles of CHOP induction; patients in the R‑CHOP arm received Rituxan 375 mg/m2 on Day 1 of each cycle.
 The main outcome measure of the study was event free survival, defined as the time from randomization to relapse, progression, change in therapy or death from any cause.
-Among all enrolled patients, 80% had stage III or IV disease, 60% of patients had an age-adjusted IPI ≥2, 80% had ECOG performance status scores <2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
+Among all enrolled patients, 80% had stage III or IV disease, 60% of patients had an age-adjusted IPI≥2, 80% had ECOG performance status scores <2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
 Efficacy results are presented in Table 4.
 
 #### Study 8
 
-A total of 823 patients with DLBCL, aged 18–60 years, were randomized in a 1:1 ratio to receive an anthracycline-containing chemotherapy alone or in combination with Rituxan.
+A total of 823 patients with DLBCL, aged 18–60 years, were randomized in a 1:1 ratio to receive an anthracycline-containing chemotherapy regimen alone or in combination with Rituxan.
 The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse or death.
-Among all enrolled patients, 28% had Stage III–IV disease, 100% had IPI scores of ≤1, 99% had ECOG performance status of<2, 29% had elevated LDH levels, 49% had bulky disease and 34% had extranodal involvement.
+Among all enrolled patients, 28% had Stage III–IV disease, 100% had IPI scores of≤1, 99% had ECOG performance status of<2, 29% had elevated LDH levels, 49% had bulky disease and 34% had extranodal involvement.
 Efficacy results are presented in Table 4.
 
 Table 4: Efficacy Results in Studies 6, 7, and 8
@@ -132,7 +132,7 @@ In Study 7, overall survival estimates at 5 years were 58% vs. 46% for R‑CHOP 
 #### Rheumatoid Arthritis (RA)
 
 The efficacy and safety of Rituxan were evaluated in 517 patients with active disease who were receiving methotrexate and had a prior inadequate response to at least one TNF inhibitor.
-Patients were ≥ age 18 years, diagnosed with RA according to American College of Rheumatology (ACR) criteria and had at least 8 swollen and 8 tender joints.
+Patients were ≥ 18 years, diagnosed with RA according to American College of Rheumatology (ACR) criteria and had at least 8 swollen and 8 tender joints.
 Patients received 2 doses of either Rituxan 1000 mg or placebo as an IV infusion on days 1 and 15, in combination with continued methotrexate 10‑25 mg weekly.
 
 Efficacy was assessed at 24 weeks.
@@ -173,11 +173,11 @@ While the efficacy of Rituxan was supported by two well‑controlled trials in R
 
 ### Non‑Hodgkin's Lymphoma
 
-Rituxan® (Rituximab) is indicated for the treatment of patients with relapsed or refractory, low‑grade or follicular, CD20‑positive, B‑cell non‑Hodgkin's lymphoma.
+Rituxan® (Rituximab) is indicated for the treatment of patients with relapsed or refractory, low‑grade or follicular, CD20‑positive, B‑cell, non‑Hodgkin's lymphoma.
 
 Rituxan® (Rituximab) is indicated for the first‑line treatment of follicular, CD20‑positive, B‑cell non‑Hodgkin’s lymphoma in combination with CVP chemotherapy.
 
-Rituxan® (Rituximab) is indicated for the treatment of low grade, CD20‑positive, B‑cell non‑Hodgkin’s lymphoma in patients with stable disease or who achieve a partial or complete response following first‑line treatment with CVP chemotherapy.
+Rituxan® (Rituximab) is indicated for the treatment of low‑grade, CD20‑positive, B‑cell non‑Hodgkin’s lymphoma in patients with stable disease or who achieve a partial or complete response following first‑line treatment with CVP chemotherapy.
 
 Rituxan® (Rituximab) is indicated for the first–line treatment of diffuse large B‑cell, CD20‑positive, non‑Hodgkin’s lymphoma in combination with CHOP or other anthracycline‑based chemotherapy regimens.
 
@@ -195,7 +195,7 @@ None.
 
 ### Severe Infusion Reactions
 
-(See BOXED WARNINGS and ADVERSE REACTIONS)
+(see BOXED WARNINGS and ADVERSE REACTIONS)
 
 Rituxan has caused severe infusion reactions.
 In some cases, these reactions were fatal.
@@ -214,7 +214,7 @@ Patients requiring close monitoring during first and all subsequent infusions in
 
 (See BOXED WARNINGS and ADVERSE REACTIONS)
 
-Rapid reduction in tumor volume followed by acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, or hyperphosphatasemia, have been reported within 12 to 24 hours after the first Rituxan infusion.
+Rapid reduction in tumor volume followed by acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, or hyperphosphatasemia, have been reported within 12–24 hours after the first Rituxan infusion.
 Rare instances of fatal outcome have been reported in the setting of TLS following treatment with Rituxan in patients with NHL.
 The risks of TLS appear to be greater in patients with high numbers of circulating malignant cells (≥ 25,000/mm3) or high tumor burden.
 Prophylaxis for TLS should be considered for patients at high risk.
@@ -223,7 +223,7 @@ Following complete resolution of the complications of TLS, Rituxan has been tole
 
 ### Hepatitis B Reactivation with Related Fulminant Hepatitis and Other Viral Infections
 
-Hepatitis B virus (HBV) reactivation with fulminant hepatitis, hepatic failure, and death has been reported in some patients with hematologic malignancies treated with Rituxan.
+Hepatitis B virus (HBV) reactivation with fulminant hepatitis, hepatic failure, and death has been reported in patients with hematologic malignancies treated with Rituxan.
 The majority of patients received Rituxan in combination with chemotherapy.
 The median time to the diagnosis of hepatitis was approximately 4 months after the initiation of Rituxan and approximately one month after the last dose.
 
@@ -234,13 +234,24 @@ There are insufficient data regarding the safety of resuming Rituxan therapy in 
 
 The following additional serious viral infections, either new, reactivated or exacerbated, have been identified in clinical studies or postmarketing reports.
 The majority of patients received Rituxan in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
-These viral infections included JC virus [progressive multifocal leukoencephalopathy (PML)], cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis C. In some cases, the viral infections occurred up to one year following discontinuation of Rituxan and have resulted in death.
+These viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis C. In some cases, the viral infections occurred up to one year following discontinuation of Rituxan and have resulted in death.
+
+### Progressive Multifocal Leukoencephalopathy (PML)
+
+(See BOXED WARNINGS and ADVERSE REACTIONS)
+
+JC virus infection resulting in PML and death has been reported in Rituxan‑treated patients with hematologic malignancies or with systemic lupus erythematosus (SLE), an indication for which Rituxan has not been approved.
+The majority of patients with hematologic malignancies diagnosed with PML have received Rituxan in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
+Patients with SLE had a history of prior immunosuppressive therapy and were diagnosed with PML within 12 months of their last infusion of Rituxan.
+
+Physicians treating patients with Rituxan should consider PML in any patient presenting with new onset neurologic manifestations.
+Consultation with a neurologist, brain MRI, and lumbar puncture should be considered as clinically indicated.
+In patients who develop PML, Rituxan should be discontinued and reductions or discontinuation of any concomitant chemotherapy or immunosuppressive therapy should be considered.
 
 ### Cardiovascular
 
 Infusions should be discontinued in the event of serious or life-threatening cardiac arrhythmias.
-Patients who develop clinically significant arrhythmias should undergo cardiac monitoring during and after subsequent infusions of Rituxan.
-Patients with pre-existing cardiac conditions including arrhythmias and angina have had recurrences of these events during Rituxan therapy and should be monitored throughout the infusion and immediate post-infusion period.
+Patients who develop clinically significant arrhythmias should undergo cardiac monitoring during and after subsequent infusions of Rituxan Patients with pre-existing cardiac conditions including arrhythmias and angina have had recurrences of these events during Rituxan therapy and should be monitored throughout the infusion and immediate post-infusion period.
 
 ### Renal
 
@@ -281,7 +292,7 @@ Because caution should be exercised in administering Rituxan to patients with ac
 
 ### Laboratory Monitoring
 
-Because Rituxan targets all CD20-positive Blymphocytes, (malignant and nonmalignant), complete blood counts (CBC) and platelet counts should be obtained at regular intervals during Rituxan therapy and more frequently in patients who develop cytopenias (seeADVERSE REACTIONS).
+Because Rituxan targets all CD20-positive B lymphocytes, (malignant and nonmalignant), complete blood counts (CBC) and platelet counts should be obtained at regular intervals during Rituxan therapy and more frequently in patients who develop cytopenias (seeADVERSE REACTIONS).
 The duration of cytopenias caused by Rituxan can extend well beyond the treatment period.
 
 ### Drug/Laboratory Interactions
@@ -302,7 +313,7 @@ For patients with NHL, the benefits of primary and/or booster vaccinations shoul
 Use in patients with RA who had no prior inadequate response to TNF antagonists: While efficacy of Rituxan was supported in two well-controlled trials in patients with RA with prior inadequate responses to non-biologic DMARDs, a favorable risk benefit relationship has not been established in this population.
 The use of Rituxan in patients with RA who have no prior inadequate response to one or more TNF antagonists is not recommended (see CLINICAL STUDIES: Rheumatoid Arthritis).
 
-Retreatment in Patients with RA: Safety and efficacy of retreatment have not been established in controlled trials.
+Retreatment in patients with RA: Safety and efficacy of retreatment have not been established in controlled trials.
 A limited number of patients have received two to five courses (two infusions per course) of treatment in an uncontrolled setting.
 In clinical trials in patients with RA, most of the patients who received additional courses did so 24 weeks after the previous course and none were retreated sooner than 16 weeks.
 
@@ -349,10 +360,10 @@ No overall differences in effectiveness were observed between these subjects and
 However, elderly patients were more likely to experience cardiac adverse events, mostly supraventricular arrhythmias.
 Serious pulmonary adverse events were also more common among the elderly, including pneumonia and pneumonitis.
 
-Clinical studies of Rituxan in previously untreated, low grade or follicular, CD‑20 positive, B‑cell NHL and in relapsed or refractory, low grade or follicular lymphoma did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Rituxan in previously untreated, low‑grade or follicular, CD‑20 positive, B‑cell NHL and in relapsed or refractory, low‑grade or follicular lymphoma did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
-Among the 517 patients in the Phase 3 RA study, 16% were 65–75 years old and 2% were 75 years old and older.
-The Rituxan ACR 20 response rates in the older (age ≥65 years) vs. younger (age <65 years) patients were similar (53% vs. 51%, respectively).
+Among the 517 patients in the phase 3 RA study, 16% were 65–75 years old and 2% were 75 years old and older.
+The Rituxan ACR 20 response rates in the older (age ≥65 years) vs. younger (age<65 years) patients were similar (53% vs. 51%, respectively).
 Adverse reactions, including incidence, severity, and type of adverse reaction were similar between older and younger patients.
 
 ### ADVERSE REACTIONS
@@ -360,7 +371,7 @@ Adverse reactions, including incidence, severity, and type of adverse reaction w
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-The following serious adverse reactions, some with fatal outcomes, have been reported in patients treated with Rituxan (see BOXED WARNINGS andWARNINGS): severe or fatal infusion reactions, tumor lysis syndrome, severe mucocutaneous reactions, hepatitis B reactivation with fulminant hepatitis, other viral infections, cardiac arrhythmias, renal toxicity, bowel obstruction and perforation.
+The following serious adverse reactions, some with fatal outcomes, have been reported in patients treated with Rituxan (see BOXED WARNINGS andWARNINGS): severe or fatal infusion reactions, tumor lysis syndrome, severe mucocutaneous reactions, hepatitis B reactivation with fulminant hepatitis, progressive multifocal leukoencephalopathy (PML), other viral infections, cardiac arrhythmias, renal toxicity, bowel obstruction and perforation.
 
 ### Adverse Reactions in Patients with Non-Hodgkin's Lymphoma
 
@@ -368,14 +379,14 @@ The overall safety database for Rituxan is based on clinical trial data from 160
 Additional safety information was obtained from post-marketing safety surveillance.
 The most common adverse reactions were infusion reactions (see INFUSION REACTIONS below).
 
-Except as noted, adverse events described below occurred in the setting of relapsed or refractory, low–grade or follicular, CD20-positive, B‑cell, NHL and are based on 356 patients treated in single arm studies of Rituxan administered as a single agent.
+Except as noted, adverse events described below occurred in the setting of relapsed or refractory, low–grade or follicular, CD20-positive, B‑cell, NHL and are based on 356 patients treated in single‑arm studies of Rituxan administered as a single agent.
 Most patients received Rituxan 375 mg/m2 weekly for 4 doses.
 
 ### Infusion Reactions
 
 (See BOXED WARNINGS and WARNINGS)
 
-Mild to moderate infusion reactions consisting offever and chills/rigors occurred in the majority of patients during the first Rituxan infusion.
+Mild to moderate infusion reactions consisting of fever and chills/rigors occurred in the majority of patients during the first Rituxan infusion.
 Other frequent infusion reaction symptoms included nausea, pruritus, angioedema, asthenia, hypotension, headache, bronchospasm, throat irritation, rhinitis, urticaria, rash, vomiting, myalgia, dizziness, and hypertension.
 These reactions generally occurred within 30 to 120 minutes of beginning the first infusion, and resolved with slowing or interruption of the Rituxan infusion and with supportive care (diphenhydramine, acetaminophen, IV saline, and vasopressors).
 The incidence of infusion reactions was highest during the first infusion (77%) and decreased with each subsequent infusion (30% with fourth infusion and 14% with eighth infusion).
@@ -383,7 +394,7 @@ Injection site pain was reported in less than 5% of patients.
 
 ### Infectious Events
 
-(See WARNINGS: Hepatitis B Reactivation with Related Fulminant Hepatitis and Other Viral Infections)
+(See WARNINGS: Hepatitis B Reactivation with Related Fulminant Hepatitis and Other Viral Infections;Progressive Multifocal Leukoencephalopathy (PML))
 
 Rituxan induced B‑cell depletion in 70% to 80% of patients with NHL and was associated with decreased serum immunoglobulins in a minority of patients; the lymphopenia lasted a median of 14 days (range, 1–588 days).
 Infectious events occurred in 31% of patients: 19% of patients had bacterial infections, 10% had viral infections, 1% had fungal infections, and 6% were unknown infections.
@@ -420,7 +431,7 @@ Sixty percent were male; 93% were Caucasian, 1% were Black, 2% were Hispanic, 2%
 
 Table 7 lists the most common, as well as Grade 3 and 4, adverse events observed.
 
-Table 7: Incidence of Adverse Events in≥5% of Patients with Relapsed or Refractory, Low Grade or Follicular NHL, Receiving Single‑agent Rituxan (N=356)Adverse Events observed up to 12 months following Rituxan.Adverse Events graded for severity by NCI-CTC criteria20.
+Table 7: Incidence of Adverse Events in≥5% of Patients with Relapsed or Refractory, Low‑Grade or Follicular NHL, Receiving Single‑agent Rituxan (N=356)Adverse Events observed up to 12 months following Rituxan.Adverse Events graded for severity by NCI-CTC criteria20.
 
 |  | All Grades (%) | Grade 3 and 4 (%) |
 | --- | --- | --- |
@@ -480,12 +491,12 @@ The incidence of the following clinically significant adverse events was higher 
 
 ### Previously Untreated, Follicular, CD20‑Positive, B‑Cell NHL
 
-The safety data were obtained in a single, multi-center, randomized study of 321 patients of whom 162 received Rituxan in combination with CVP chemotherapy (R‑CVP) and 159 received CVP chemotherapy alone (CVP).
+The safety data were obtained in a single, multi‑center, randomized study of 321 patients of whom 162 received Rituxan in combination with CVP chemotherapy (R‑CVP) and 159 received CVP chemotherapy alone (CVP).
 Eighty‑five percent of R‑CVP patients received the maximum number of doses (8) of Rituxan.
 The median age was 52 years, 54% were male, and 96% were Caucasian.
 
-Patients in the R CVP arm had higher incidences of infusional toxicity and of neutropenia as compared to those in the CVP arm.
-The following adverse events occurred more frequently (≥5%) in patients receiving R CVP compared to CVP alone: rash (17% vs. 5%), cough (15% vs. 6%), flushing (14% vs. 3%), rigors (10% vs. 2%), pruritis (10% vs. 1%), neutropenia (8% vs. 3%), and chest tightness (7% vs. 1%).
+Patients in the R‑CVP arm had higher incidences of infusional toxicity and of neutropenia as compared to those in the CVP arm.
+The following adverse events occurred more frequently (≥5%) in patients receiving R‑CVP compared to CVP alone: rash (17% vs. 5%), cough (15% vs. 6%), flushing (14% vs. 3%), rigors (10% vs. 2%), pruritis (10% vs. 1%), neutropenia (8% vs. 3%), and chest tightness (7% vs. 1%).
 
 ### Previously Untreated, Low‑Grade, CD20‑Positive, B‑Cell NHL
 
@@ -493,17 +504,17 @@ Safety data were obtained in a single, multi‑center, randomized study of 322 p
 Ninety‑five patients (59%) received the maximum number of doses (16) of Rituxan.
 
 The median age for the Rituxan treated patients was 58 years.
-Fifty five percent were male, 93% were Caucasian, and 5% Black.
+Fifty‑five percent were male, 93% were Caucasian, and 5% Black.
 
 The following adverse events were reported more frequently (≥5%) in patients receiving Rituxan following CVP compared with those who received no further therapy: fatigue (39% vs. 14%), anemia (35% vs. 20%), peripheral sensory neuropathy (30% vs. 18%), infections (19% vs. 9%), pulmonary toxicity (18% vs. 10%), hepato biliary toxicity (17% vs. 7%), rash and/or pruritis (17% vs. 5%), arthralgia (12% vs. 3%), and weight gain (11% vs. 4%).
 Neutropenia was the only Grade 3 or 4 adverse event that occurred more frequently (≥2%) in the Rituxan arm compared with those who received no further therapy (4% vs. 1%).
 
 ### Rituxan in Combination with Chemotherapy for DLBCL
 
-Adverse events described in the setting of DLBCL are based on three randomized, active-controlled clinical trials in which 927 patients received Rituxan in combination with chemotherapy and 802 patients who received chemotherapy alone.
+Adverse events described in the setting of DLBCL are based on three randomized, active-controlled clinical trials in which 927 patients received Rituxan in combination with chemotherapy and 802 patients received chemotherapy alone.
 Detailed safety data collection was primarily limited to Grade 3 and 4 adverse events and serious adverse events.
 
-The population varied from 18 to 92 years of age and 55% were male; racial distribution was collected only for Study 6 (seeCLINICAL STUDIES section) where 90% of patients were Caucasian, 5% were Black, 3% were Hispanic and 2% were from other racial groups.
+The population varied from 18–92 years of age and 55% were male; racial distribution was collected only for Study 6 (seeCLINICAL STUDIES section) where 90% of patients were Caucasian, 5% were Black, 3% were Hispanic and 2% were from other racial groups.
 Patients received 4–8 doses of Rituxan at 375 mg/m2.
 
 The following adverse events, regardless of severity, were reported more frequently (≥5%) in patients age ≥60 years receiving R‑CHOP as compared to CHOP alone: pyrexia (56% vs. 46%), lung disorder (31% vs. 24%), cardiac disorder (29% vs. 21%), and chills (13% vs. 4%).
@@ -519,7 +530,8 @@ Specific safety considerations in this indication are discussed below.
 
 Where specific percentages are noted, these data are based on 938 patients treated in Phase 2 and 3 studies of Rituxan (2 x 1000 mg) or placebo administered in combination with methotrexate.
 
-Table 8: Incidence of All Adverse EventsCoded using MedDRA Occurring in ≥2% and at least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
+Table 8: Incidence of All Adverse EventsCoded using MedDRA.
+Occurring in ≥2% and at least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
 
 | Preferred Term | Placebo + MTX N=398 n (%) | Rituxan + MTX N=540 n (%) |
 | --- | --- | --- |
@@ -528,12 +540,12 @@ Table 8: Incidence of All Adverse EventsCoded using MedDRA Occurring in ≥2% an
 | Arthralgia | 14 (4) | 31 (6) |
 | Asthenia | 1 (<1) | 9 (2) |
 | Chills | 9 (2) | 16 (3) |
-| Dydpepsia | 3 (<1) | 16 (3) |
+| Dyspepsia | 3 (<1) | 16 (3) |
 | Hypercholesterolemia | 1 (<1) | 9 (2) |
 | Hypertension | 21 (5) | 43 (8) |
 | Migraine | 2 (<1) | 9 (2) |
 | Nausea | 19 (5) | 41 (8) |
-| Parasthesia | 3 (<1) | 12 (2) |
+| Paresthesia | 3 (<1) | 12 (2) |
 | Pruritis | 5 (1) | 26 (5) |
 | Pyrexia | 8 (2) | 27 (5) |
 | Rhinitis | 6 (2) | 14 (3) |
@@ -589,18 +601,18 @@ Hematologic: prolonged pancytopenia, marrow hypoplasia, and late onset neutropen
 
 Cardiac: fatal cardiac failure.
 
-Immune/Autoimmune Events: uveitis, optic neuritis, systemic vasculitis, pleuritis in a patient with lupus-like syndrome, serum sickness, polyarticular arthritis and vasculitis with rash.
+Immune/Autoimmune Events: uveitis, optic neuritis, systemic vasculitis, pleuritis, lupus-like syndrome, serum sickness, polyarticular arthritis and vasculitis with rash.
 
-Infection: increased in fatal infections in HIV-associated lymphoma.
+Infection: viral infections, including progressive multifocal leukoencephalopathy (PML), increase in fatal infections in HIV‑associated lymphoma.
 
-Skin: severe mucocutaneous reactions
+Skin: severe mucocutaneous reactions.
 
-Gastrointestinal: bowel obstruction and perforation
+Gastrointestinal: bowel obstruction and perforation.
 
 ## OVERDOSAGE
 
 There has been no experience with overdosage in human clinical trials.
-Single doses of up to 500 mg/m2 have been given in dose escalation clinical trials.
+Single doses of up to 500 mg/m2 have been given in dose‑escalation clinical trials.
 10
 
 ## DOSAGE AND ADMINISTRATION
@@ -654,9 +666,9 @@ Gently invert the bag to mix the solution.
 Discard any unused portion left in the vial.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 
-Rituxan solutions for infusion may be stored at 2–8°C (36–46°F) for 24 hours.
+Rituxan solutions for infusion may be stored at 2°C–8°C (36°F–46°F) for 24 hours.
 Rituxan solutions for infusion have been shown to be stable for an additional 24 hours at room temperature.
-However, since Rituxan solutions do not contain a preservative, diluted solutions should be stored refrigerated (2–8°C).
+However, since Rituxan solutions do not contain a preservative, diluted solutions should be stored refrigerated (2°C–8°C).
 No incompatibilities between Rituxan and polyvinylchloride or polyethylene bags have been observed.
 
 ### Administration
@@ -683,11 +695,11 @@ If the patient did not tolerate the first infusion well, follow the guidelines u
 
 ### Stability and Storage
 
-Rituxan vials are stable at 2–8°C (36–46°F).
+Rituxan vials are stable at 2°C–8°C (36°F–46°F).
 Do not use beyond expiration date stamped on carton.
 Rituxan vials should be protected from direct sunlight.
 Do not freeze or shake.
-Refer to the"Preparation for Administration" section for information on the stability and storage of solutions of Rituxan diluted for infusion.
+Refer to the "Preparation for Administration" section for information on the stability and storage of solutions of Rituxan diluted for infusion.
 
 ## HOW SUPPLIED
 
@@ -705,9 +717,9 @@ NDC 50242‑053‑06
 
 1. Valentine MA, Meier KE, Rossie S, et al. Phosphorylation of the CD20 phosphoprotein in resting B lymphocytes.J Biol Chem 1989;264(19): 11282–7.
 2. Einfeld DA, Brown JP, Valentine MA, et al. Molecular cloning of the human B cell CD20 receptor predicts a hydrophobic protein with multiple transmembrane domains.EMBO J 1988;7(3):711–7.
-3. Anderson KC, Bates MP, Slaughenhoupt BL, et al. Expression of human B cell associated antigens on leukemias and lymphomas: A model of human B cell differentiation.
+3. Anderson KC, Bates MP, Slaughenhoupt BL, et al. Expression of human B cell‑associated antigens on leukemias and lymphomas: A model of human B‑cell differentiation.
    Blood 1984;63(6):1424–33.
-4. Tedder TF, Boyd AW, Freedman AS, et al. The B cell surface molecule B1 is functionally linked with B cell activation and differentiation.
+4. Tedder TF, Boyd AW, Freedman AS, et al. The B cell surface molecule B1 is functionally linked with B‑cell activation and differentiation.
    J Immunol 1985;135(2):973–9.
 5. Tedder TF, Zhou LJ, Bell PD, et al. The CD20 surface molecule of B lymphocytes functions as a calcium channel.J Cell Biochem 1990;14D:195.
 6. Press OW, Applebaum F, Ledbetter JA, Martin PJ, Zarling J, Kidd P, et al. Monoclonal antibody 1F5 (anti-CD20) serotherapy of human B-cell lymphomas.
@@ -730,7 +742,7 @@ NDC 50242‑053‑06
     J Clin Oncol 1998;16(8):2825–33.
 15. Piro LD, White CA, Grillo-López AJ, Janakiraman N, Saven A, Beck TM, et al. Extended Rituximab (anti-CD20 monoclonal antibody) therapy for relapsed or refractory low-grade or follicular non-Hodgkin's lymphoma.Annals of Oncology 1999;10:655–61.
 16. Data on file.
-17. Davis TA, White CA,Grillo-López AJ, Velasquez WS, Lin B, Maloney DG, et al. Single-agent monoclonal antibody efficacy in bulky Non-Hodgkin’s lymphoma: results of a phase II trial of rituximab.
+17. Davis TA, White CA, Grillo-López AJ, Velasquez WS, Lin B, Maloney DG, et al. Single-agent monoclonal antibody efficacy in bulky Non-Hodgkin’s lymphoma: results of a phase II trial of rituximab.
     JCO 1999;17:1851–7.
 18. Davis TA, Grillo-López AJ, White CA, McLaughlin P, Czuczman MS, Link BK, Maloney DG, Weaver RL, Rosenberg J, Levy R. Rituximab anti-CD20 monoclonal antibody therapy in non-hodgkin's lymphoma: safety and efficacy of re-treatment.
     J Clin Oncol 2000;18(17):3135–43.
@@ -757,9 +769,9 @@ South San Francisco, CA 94080-4990
 
 Initial US Approval November 26, 1997
 
-Revision Date September 29, 2006
+Revision Date February 21, 2007
 
-©2006 Biogen Idec, Inc. and Genentech, Inc.
+©2007 Biogen Idec, Inc. and Genentech, Inc.
 
 ## Patient Information
 
@@ -781,6 +793,11 @@ Rituxan can cause the following serious side effects, some of which could be lif
   Patients receiving Rituxan for non‑Hodgkin’s lymphoma may get TLS.
 - Severe skin reactions.
   Tell your doctor or get medical treatment right away if you get painful sores, ulcers, blisters, or peeling skin while receiving or after receiving Rituxan.
+- Progressive Multifocal Leukoencephalopathy (PML).
+  PML is a rare brain infection that usually causes death or severe disability.
+- PML has been reported in patients during or after their treatment with Rituxan.
+- There is no known treatment, prevention, or cure for PML.
+- Call your doctor right away if you notice any new or worsening medical problems, such as a new or sudden change in thinking, walking, strength, vision, or other problems that have lasted over several days.
 
 Also, see “What are possible side-effects with Rituxan?” for other serious side effects, some of which could be life-threatening.
 
@@ -840,6 +857,7 @@ Rituxan can cause the following serious side effects, some of which could be lif
 - Infusion reactions
 - Tumor Lysis Syndrome (TLS)
 - Severe skin reactions
+- Progressive Multifocal Leukoencephalopathy (PML)
 
 Other serious side effects with Rituxan include:
 
@@ -876,6 +894,6 @@ Manufactured by:
 
 Genentech, Inc. 1 DNA Way South San Francisco, CA 94080-4990
 
-©2006 Biogen Idec Inc. and Genentech, Inc.
+©2007 Biogen Idec Inc. and Genentech, Inc.
 
-Patient Information Approval February 28, 2006
+Patient Information Approval February 21, 2007

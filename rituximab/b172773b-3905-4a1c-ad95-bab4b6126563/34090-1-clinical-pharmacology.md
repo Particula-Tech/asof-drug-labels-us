@@ -5,8 +5,7 @@
 Rituximab binds specifically to the antigen CD20 (human B‑lymphocyte‑restricted differentiation antigen, Bp35), a hydrophobic transmembrane protein with a molecular weight of approximately 35 kD located on pre‑B and mature B lymphocytes.
 1, 2 The antigen is also expressed on > 90% of B‑cell non‑Hodgkin's lymphomas (NHL), 3 but is not found on hematopoietic stem cells, pro‑B‑cells, normal plasma cells or other normal tissues.
 4 CD20 regulates an early step(s) in the activation process for cell cycle initiation and differentiation, 4 and possibly functions as a calcium ion channel.
-5 CD20 is not shed from the cell surface and does not internalize upon antibody binding.
-6 Free CD20 antigen is not found in the circulation.
+5 CD20 is not shed from the cell surface and does not internalize upon antibody binding.6 Free CD20 antigen is not found in the circulation.
 2
 
 B‑cells are believed to play a role in the pathogenesis of rheumatoid arthritis (RA) and associated chronic synovitis.

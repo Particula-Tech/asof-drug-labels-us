@@ -12,3 +12,5 @@ Tumor Lysis Syndrome (TLS): Acute renal failure requiring dialysis with instance
 
 Severe Mucocutaneous Reactions: Severe mucocutaneous reactions, some with fatal outcome, have been reported in association with Rituxan treatment.
 (See WARNINGS and ADVERSE REACTIONS.)
+
+Progressive Multifocal Leukoencephalopathy (PML): JC virus infection resulting in PML and death has been reported in patients treated with Rituxan (See WARNINGS and ADVERSE REACTIONS.)
