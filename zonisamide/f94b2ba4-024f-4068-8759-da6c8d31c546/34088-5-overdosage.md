@@ -1,0 +1,14 @@
+# OVERDOSAGE
+
+Human Experience: Experience with ZONEGRAN daily doses over 800 mg/day is limited.
+During ZONEGRAN clinical development, three patients ingested unknown amounts of ZONEGRAN as suicide attempts, and all three were hospitalized with CNS symptoms.
+One patient became comatose and developed bradycardia, hypotension, and respiratory depression; the zonisamide plasma level was 100.1 μg/mL measured 31 hours post-ingestion.
+Zonisamide plasma levels fell with a half-life of 57 hours, and the patient became alert five days later.
+
+Management: No specific antidotes for ZONEGRAN overdosage are available.
+Following a suspected recent overdose, emesis should be induced or gastric lavage performed with the usual precautions to protect the airway.
+General supportive care is indicated, including frequent monitoring of vital signs and close observation.
+
+Zonisamide has a long half-life (see CLINICAL PHARMACOLOGY section).
+Due to the low protein binding of zonisamide (40%), renal dialysis may not be effective.
+A poison control center should be contacted for information on the management of ZONEGRAN overdosage.
