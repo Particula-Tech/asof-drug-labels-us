@@ -1,0 +1,17 @@
+# INDICATIONS
+
+For the treatment of schizophrenia.
+
+To control nausea and vomiting.
+
+For relief of restlessness and apprehension before surgery.
+
+For acute intermittent porphyria.
+
+As an adjunct in the treatment of tetanus.
+
+To control the manifestations of the manic type of manic-depressive illness.
+
+For relief of intractable hiccups.
+
+For the treatment of severe behavioral problems in children (1 to 12 years of age) marked by combativeness and/or explosive hyperexcitable behavior (out of proportion to immediate provocations), and in the short-term treatment of hyperactive children who show excessive motor activity with accompanying conduct disorders consisting of some or all of the following symptoms: impulsivity, difficulty sustaining attention, aggressivity, mood lability and poor frustration tolerance.
