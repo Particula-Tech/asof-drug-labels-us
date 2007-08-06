@@ -1,0 +1,33 @@
+# DRUG OVERDOSE
+
+Special attention must be given to recognizing the signs and symptoms of overdosage, especially during the initial screening and dose- titration phase of treatment, but also during re- introduction of LIORESAL INTRATHECAL after a period of interruption in therapy.
+
+## Symptoms of LIORESAL INTRATHECAL Overdose:
+
+Drowsiness, lightheadedness, dizziness, somnolence, respiratory depression, seizures, rostral progression of hypotonia and loss of con- sciousness progressing to coma of up to 72 hr. duration.
+In most cases reported, coma was reversible without sequelae after drug was discontinued.
+Symptoms of LIORESAL INTRATHECAL overdose were reported in a sensitive adult patient after receiving a 25 mcg intrathecal bolus.
+
+## Treatment Suggestions for Overdose:
+
+There is no specific antidote for treating overdoses of LIORESAL INTRATHECAL (baclofen injection); however, the following steps should ordinarily be undertaken:
+
+1. Residual LIORESAL INTRATHECAL solution should be removed from the pump as soon as possible.
+2. Patients with respiratory depression should be intubated if necessary, until the drug is eliminated.
+
+Anecdotal reports suggest that intravenous physostigmine may reverse central side effects, notably drowsiness and respiratory depression.
+Caution in administering physostigmine is advised, however, because its use has been associated with the induction of seizures and bradycardia.
+
+## Physostigmine Doses for Adult Patients:
+
+Administer 2 mg of physostigmine intramuscularly or intravenously at a slow controlled rate of no more than 1 mg per minute.
+Dosage may be repeated if life- threatening signs, such as arrhythmia, convulsions or coma occur.
+
+## Physostigmine Doses for Pediatric Patients:
+
+Administer 0.02 mg/ kg physostigmine intramuscularly or intravenously, do not give more than 0.5 mg per minute.
+The dosage may be repeated at 5 to 10 minute intervals until a therapeutic effect is obtained or a maximum dose of 2 mg is attained.
+
+Physostigmine may not be effective in reversing large overdoses and patients may need to be maintained with respiratory support.
+
+If lumbar puncture is not contraindicated, consideration should be given to withdrawing 30- 40 ml of CSF to reduce CSF baclofen concentration.
