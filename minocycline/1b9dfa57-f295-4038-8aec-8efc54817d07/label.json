@@ -1,0 +1,19 @@
+{
+  "application_numbers": [],
+  "inn": "minocycline",
+  "labeler": "Medicis, The Dermatology Company",
+  "package_ndcs": [
+    "99207-460-10",
+    "99207-460-30",
+    "99207-460-90",
+    "99207-461-10",
+    "99207-461-30",
+    "99207-461-90",
+    "99207-462-10",
+    "99207-462-30",
+    "99207-462-90"
+  ],
+  "products": [],
+  "setid": "1b9dfa57-f295-4038-8aec-8efc54817d07",
+  "source": "dailymed"
+}
