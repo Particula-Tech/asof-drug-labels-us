@@ -12,15 +12,15 @@ However, follow-up stool examinations should be performed to verify eradication 
 
 Table 1: Dosage Guidelines for STROMECTOL for Strongyloidiasis
 
-|  | Number of 3-mg Tablets | Number of 6-mg Tablets |
-| --- | --- | --- |
-| Body Weight (kg) | Single Oral Dose |  |
-| 15-24 | 1 tablet | ½ tablet |
-| 25-35 | 2 tablets | 1 tablet |
-| 36-50 | 3 tablets | 1½ tablets |
-| 51-65 | 4 tablets | 2 tablets |
-| 66-79 | 5 tablets | 2½ tablets |
-| ≥80 | 200 mcg/kg | 200 mcg/kg |
+|  | Number of 3-mg Tablets |
+| --- | --- |
+| Body Weight (kg) | Single Oral Dose |
+| 15-24 | 1 tablet |
+| 25-35 | 2 tablets |
+| 36-50 | 3 tablets |
+| 51-65 | 4 tablets |
+| 66-79 | 5 tablets |
+| ≥80 | 200 mcg/kg |
 
 ## Onchocerciasis
 
@@ -33,11 +33,11 @@ For the treatment of individual patients, retreatment may be considered at inter
 
 Table 2: Dosage Guidelines for STROMECTOL for Onchocerciasis
 
-|  | Number of 3-mg Tablets | Number of 6-mg Tablets |
-| --- | --- | --- |
-| Body Weight (kg) | Single Oral Dose |  |
-| 15-25 | 1 tablet | ½ tablet |
-| 26-44 | 2 tablets | 1 tablet |
-| 45-64 | 3 tablets | 1½ tablets |
-| 65-84 | 4 tablets | 2 tablets |
-| ≥85 | 150 mcg/kg | 150 mcg/kg |
+|  | Number of 3-mg Tablets |
+| --- | --- |
+| Body Weight (kg) | Single Oral Dose |
+| 15-25 | 1 tablet |
+| 26-44 | 2 tablets |
+| 45-64 | 3 tablets |
+| 65-84 | 4 tablets |
+| ≥85 | 150 mcg/kg |

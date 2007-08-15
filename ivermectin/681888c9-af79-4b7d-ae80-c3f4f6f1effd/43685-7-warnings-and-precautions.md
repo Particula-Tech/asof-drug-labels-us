@@ -1,7 +1,7 @@
 # WARNINGS
 
 Historical data have shown that microfilaricidal drugs, such as diethylcarbamazine citrate (DEC-C), might cause cutaneous and/or systemic reactions of varying severity (the Mazzotti reaction) and ophthalmological reactions in patients with onchocerciasis.
-These reactions are probably due to allergic and inflammatory responsesto the death of microfilariae.
+These reactions are probably due to allergic and inflammatory responses to the death of microfilariae.
 Patients treated with STROMECTOL for onchocerciasis may experience these reactions in addition to clinical adverse reactions possibly, probably, or definitely related to the drug itself.
 (See ADVERSE REACTIONS, Onchocerciasis.)
 
@@ -16,7 +16,7 @@ Antihistamines and/or aspirin have been used for most mild to moderate cases.
 After treatment with microfilaricidal drugs, patients with hyperreactive onchodermatitis (sowda) may be more likely than others to experience severe adverse reactions, especially edema and aggravation of onchodermatitis.
 
 Rarely, patients with onchocerciasis who are also heavily infected with Loa loa may develop a serious or even fatal encephalopathy either spontaneously or following treatment with an effective microfilaricide.
-In these patients, the following adverse experiences have also been reported: back pain, conjunctival hemorrhage, dyspnea, urinary and/or fecal incontinence, difficulty in standing/walking, mental status changes, confusion, lethargy, stupor, seizures, or coma.
+In these patients, the following adverse experiences have also been reported: pain (including neck and back pain), red eye, conjunctival hemorrhage, dyspnea, urinary and/or fecal incontinence, difficulty in standing/walking, mental status changes, confusion, lethargy, stupor, seizures, or coma.
 This syndrome has been seen very rarely following the use of ivermectin.
 In individuals who warrant treatment with ivermectin for any reason and have had significant exposure to Loa loa-endemic areas of West or Central Africa, pretreatment assessment for loiasis and careful post-treatment follow-up should be implemented.
 

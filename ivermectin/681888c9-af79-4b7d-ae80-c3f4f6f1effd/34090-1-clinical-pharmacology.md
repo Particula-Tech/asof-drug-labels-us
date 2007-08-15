@@ -3,7 +3,7 @@
 ## Pharmacokinetics
 
 Following oral administration of ivermectin, plasma concentrations are approximately proportional to the dose.
-In two studies, after single 12-mg doses of STROMECTOL (2x6 mg) in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H2B1a) were 46.6 (±21.9) (range: 16.4-101.1) and 30.6 (±15.6) (range: 13.9-68.4) ng/mL, respectively, at approximately 4 hours after dosing.
+In two studies, after single 12-mg doses of STROMECTOL in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H2B1a) were 46.6 (±21.9) (range: 16.4-101.1) and 30.6 (±15.6) (range: 13.9-68.4) ng/mL, respectively, at approximately 4 hours after dosing.
 Ivermectin is metabolized in the liver, and ivermectin and/or its metabolites are excreted almost exclusively in the feces over an estimated 12 days, with less than 1% of the administered dose excreted in the urine.
 The plasma half-life of ivermectin in man is approximately 18 hours following oral administration.
 
