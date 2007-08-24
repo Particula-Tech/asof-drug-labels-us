@@ -44,7 +44,7 @@ Patients with hepatic impairment should be started on 25 mg/day.
 The dose should be increased daily in increments of 25-50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
 
 The elimination of quetiapine was enhanced in the presence of phenytoin.
-Higher maintenance doses of quetiapine may be required when it is coadministered with phenytoin and other enzyme inducers such as carbamazepine and phenobarbital (See Drug Interactionsunder PRECAUTIONS).
+Higher maintenance doses of quetiapine may be required when it is coadministered with phenytoin and other enzyme inducers such as carbamazepine and phenobarbital (See Drug Interactions under PRECAUTIONS).
 
 Maintenance Treatment: While there is no body of evidence available to answer the question of how long the patient treated with SEROQUEL should be maintained, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
 Patients should be periodically reassessed to determine the need for maintenance treatment.

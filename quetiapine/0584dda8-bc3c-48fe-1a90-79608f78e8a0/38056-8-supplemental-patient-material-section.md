@@ -11,7 +11,7 @@ Talk to your, or your family member’s, healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults when the medicine is first started.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
@@ -66,7 +66,7 @@ Wilmington, DE 19850
 
 Made in USA
 
-30417–01
+30417–02
 
 Rev.
-05/07
+07/07

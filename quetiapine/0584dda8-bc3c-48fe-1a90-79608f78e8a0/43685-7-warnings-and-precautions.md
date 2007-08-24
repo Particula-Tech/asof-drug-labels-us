@@ -24,10 +24,10 @@ Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
-|  | Drug-Related Increases |
+|  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18–24 | 5 additional cases |
-|  | Drug Related Decreases |
+|  | Decreases Compared to Placebo |
 | 25–64 | 1 fewer case |
 | >65 | 6 fewer cases |
 
@@ -41,6 +41,8 @@ All patients being treated with antidepressants for any indication should be mon
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
+
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -92,7 +94,7 @@ However, some patients may require treatment with SEROQUEL despite the presence 
 
 ## Hyperglycemia and Diabetes Mellitus
 
-Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including Seroquel.
+Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including Seroquel (see ADVERSE REACTIONS, Hyperglycemia).
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
@@ -241,7 +243,7 @@ Cimetidine: Administration of multiple daily doses of cimetidine (400 mg tid for
 Dosage adjustment for quetiapine is not required when it is given with cimetidine.
 
 P450 3A Inhibitors: Coadministration of ketoconazole (200 mg once daily for 4 days), a potent inhibitor of cytochrome P450 3A, reduced oral clearance of quetiapine by 84%, resulting in a 335% increase in maximum plasma concentration of quetiapine.
-Caution (reduced dosage) is indicated when SEROQUEL is administered with ketoconazole and other inhibitors of cytochrome P450 3A (e.g., itraconazole, fluconazole, and erythromycin, and protease inhibitors).
+Caution (reduced dosage) is indicated when SEROQUEL is administered with ketoconazole and other inhibitors of cytochrome P450 3A (e.g., itraconazole, fluconazole, erythromycin, and protease inhibitors).
 
 Fluoxetine, Imipramine, Haloperidol, and Risperidone: Coadministration of fluoxetine (60 mg once daily); imipramine (75 mg bid), haloperidol (7.5 mg bid), or risperidone (3 mg bid) with quetiapine (300 mg bid) did not alter the steady-state pharmacokinetics of quetiapine.
 
@@ -273,7 +275,7 @@ The relevance of the increases in thyroid follicular cell adenomas to human risk
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
 Serum measurements in a 1-yr toxicity study showed that quetiapine increased median serum prolactin levels a maximum of 32- and 13-fold in male and female rats, respectively.
 Increases in mammary neoplasms have been found in rodents after chronic administration of other antipsychotic drugs and are considered to be prolactin-mediated.
-The relevance of this increased incidence of prolactin-mediated mammary gland tumors in rats to human risk is unknown (see Hyperprolactinemiain PRECAUTIONS, General).
+The relevance of this increased incidence of prolactin-mediated mammary gland tumors in rats to human risk is unknown (see Hyperprolactinemia in PRECAUTIONS, General).
 
 Mutagenesis: The mutagenic potential of quetiapine was tested in six in vitro bacterial gene mutation assays and in an in vitro mammalian gene mutation assay in Chinese Hamster Ovary cells.
 However, sufficiently high concentrations of quetiapine may not have been used for all tester strains.
