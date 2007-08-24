@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-GEODON®is available as GEODON Capsules (ziprasidone hydrochloride) for oral administration and as GEODON for Injection (ziprasidone mesylate) for intramuscular injection.
+GEODON® is available as GEODON Capsules (ziprasidone hydrochloride) for oral administration and as GEODON for Injection (ziprasidone mesylate) for intramuscular injection.
 Ziprasidone is a psychotropic agent that is chemically unrelated to phenothiazine or butyrophenone antipsychotic agents.
 It has a molecular weight of 412.94 (free base), with the following chemical name: 5-[2-[4-(1,2-benzisothiazol-3-yl)-1-piperazinyl]ethyl]-6-chloro-1,3-dihydro-2H-indol-2-one.
 The empirical formula of C21H21ClN4OS (free base of ziprasidone) represents the following structural formula:
