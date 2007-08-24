@@ -53,7 +53,8 @@ Important side effects observed in studies of patients taking ABRAXANE were as f
 
 Hair Loss: Complete hair loss, or alopecia, almost always occurs with ABRAXANE.
 This usually involves the loss of eyebrows, eyelashes, and pubic hair, as well as scalp hair.
-It can occur suddenly after treatment has begun, but usually happens 14 to 21 days after treatment.Hair generally grows back after you’ve finished your ABRAXANE treatment.
+It can occur suddenly after treatment has begun, but usually happens 14 to 21 days after treatment.
+Hair generally grows back after you’ve finished your ABRAXANE treatment.
 
 Infections Due to Low White Blood Cell Count: Among the body’s defenses against bacterial infections are white blood cells.
 Between your ABRAXANE treatment cycles, you will often have blood tests to check your white blood cell counts.
@@ -62,7 +63,7 @@ If you have a fever (temperature above 100.4°F) or other sign of infection, tel
 Sometimes serious infections develop that require treatment in the hospital with antibiotics.
 Serious illness or death could result if such infections are not treated when white blood cell counts are low.
 
-Numbness, Tingling, or Burning in the Hands and/or Feet (Neuropathy): These symptoms occur often with ABRAXANE®and usually get better or go away without medication within three weeks of interrupting treatment.
+Numbness, Tingling, or Burning in the Hands and/or Feet (Neuropathy): These symptoms occur often with ABRAXANE® and usually get better or go away without medication within three weeks of interrupting treatment.
 Be sure to tell your doctor about any numbness, tingling or burning that you have in your hands or feet so that he/she can decide the best approach for relief of your symptoms.
 Sometimes it is necessary to interrupt treatment with ABRAXANE until these symptoms improve.
 After improvement, treatment can be restarted at a lower dose.
@@ -86,7 +87,7 @@ Although pain medicine may not be necessary, tell your doctor if you are uncomfo
 
 Stomach Upset and Diarrhea: Some patients experience nausea, vomiting, and/or diarrhea following ABRAXANE use.
 If you experience nausea or stomach upset, tell your doctor because medicines can be given that almost always reduce or eliminate these symptoms.
-Diarrhea will usually disappear without treatment; however,if you experience severe abdominal or stomach area pain and/or severe diarrhea, tell your doctor right away.
+Diarrhea will usually disappear without treatment; however, if you experience severe abdominal or stomach area pain and/or severe diarrhea, tell your doctor right away.
 
 Heart and Blood Vessel (Cardiovascular) Effects: ABRAXANE® may cause a drop in heart rate (bradycardia) and low blood pressure (hypotension).
 The patient usually does not notice these changes.

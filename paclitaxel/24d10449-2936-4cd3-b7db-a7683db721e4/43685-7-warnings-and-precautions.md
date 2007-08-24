@@ -3,7 +3,7 @@
 Bone marrow suppression (primarily neutropenia) is dose dependent and a dose limiting toxicity.
 ABRAXANE should not be administered to patients with baseline neutrophil counts of < 1,500 cells/mm3.
 Frequent monitoring of blood counts should be instituted during ABRAXANE treatment.
-Patients should not be retreated with subsequent cycles of ABRAXANE until neutrophils recover to a level>1,500 cells/mm3 and platelets recover to a level>100,000 cells/mm3.
+Patients should not be retreated with subsequent cycles of ABRAXANE until neutrophils recover to a level >1,500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
 
 The use of ABRAXANE has not been studied in patients with hepatic or renal dysfunction.
 In the randomized controlled trial, patients were excluded for baseline serum bilirubin >1.5 mg/dL or baseline serum creatinine >2 mg/dL.
@@ -46,7 +46,7 @@ Potential interactions between paclitaxel, a substrate of CYP3A4, and protease i
 ABRAXANE® therapy should not be administered to patients with baseline neutrophil counts of less than 1,500 cells/mm3.
 In order to monitor the occurrence of myelotoxicity, it is recommended that frequent peripheral blood cell counts be performed on all patients receiving ABRAXANE.
 Patients should not be retreated with subsequent cycles of ABRAXANE until neutrophils recover to a level >1,500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
-In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of ABRAXANE therapy, a dose reduction for subsequent courses of therapy is recommended (seeDOSAGE and ADMINISTRATION).
+In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of ABRAXANE therapy, a dose reduction for subsequent courses of therapy is recommended (see DOSAGE and ADMINISTRATION).
 
 ## Nervous System
 

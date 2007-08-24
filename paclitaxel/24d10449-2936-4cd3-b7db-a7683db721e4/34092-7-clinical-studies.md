@@ -30,6 +30,6 @@ Table 1: Efficacy Results from Randomized Trial
 | --- | --- | --- | --- |
 | Reconciled Target Lesion Response Rate (primary endpoint) a |  |  |  |
 | All randomized patients | Response Rate[95% CI] | 50/233 (21.5%)[16.19% – 26.73%] | 25/227 (11.1%)[6.94% – 15.09%] |
-| P-value b | 0.003 |  |  |
+| P-valueb | 0.003 |  |  |
 | Patients who had failed combination chemotherapy or relapsed within 6 months of adjuvant chemotherapyc | Response Rate[95% CI] | 20/129 (15.5%)[9.26% – 21.75%] | 12/143 (8.4%)[3.85% – 12.94%] |
-| a Reconciled Target Lesion Response Rate (TLRR) was the prospectively defined protocol specific endpoint, based on independent radiologic assessment of tumor responses reconciled with investigator responses (which also included clinical information) for the first 6 cycles of therapy. The reconciled TLRR was lower than the investigator Reported Response Rates, which are based on all cycles of therapy.b From Cochran-Mantel-Haenszel test stratified by 1st line vs. > 1st line therapy.c Prior therapy included an anthracycline unless clinically contraindicated |  |  |  |
+| aReconciled Target Lesion Response Rate (TLRR) was the prospectively defined protocol specific endpoint, based on independent radiologic assessment of tumor responses reconciled with investigator responses (which also included clinical information) for the first 6 cycles of therapy. The reconciled TLRR was lower than the investigator Reported Response Rates, which are based on all cycles of therapy.bFrom Cochran-Mantel-Haenszel test stratified by 1st line vs. > 1st line therapy.cPrior therapy included an anthracycline unless clinically contraindicated. |  |  |  |

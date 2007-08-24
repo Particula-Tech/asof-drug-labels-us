@@ -8,7 +8,7 @@ The appropriate dose of ABRAXANE for patients with bilirubin greater than 1.5 mg
 
 ## Dose Reduction
 
-Patients who experience severe neutropenia (neutrophil<500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
+Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
 For recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
 For grade 3 sensory neuropathy hold treatment until resolution to grade 1 or 2, followed by a dose reduction for all subsequent courses of ABRAXANE.
 

@@ -4,7 +4,7 @@ The following table shows the frequency of important adverse events in the rando
 
 Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Randomized Study on an Every-3-Weeks Schedule
 
-|  | ABRAXANE® 260/30minb (n=229) | Paclitaxel Injection 175/3hc,d (n=225) |
+|  | ABRAXANE® 260/30 minb (n=229) | Paclitaxel Injection 175/3 hc,d (n=225) |
 | --- | --- | --- |
 |  | Percent of Patients |  |
 | Bone Marrow |  |  |
@@ -59,7 +59,7 @@ Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | Alkaline Phosphatase Elevations | 36 | 31 |
 | AST (SGOT) Elevations | 39 | 32 |
 | Injection Site Reaction | <1 | 1 |
-| a Based on worst gradeb ABRAXANE dose in mg/m2/duration in minutesc paclitaxel injection dose in mg/m2/duration in hoursd paclitaxel injection pts received premedicatione Includes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing.f Severe events are defined as at least grade 3 toxicityg During study drug dosing. |  |  |
+| aBased on worst gradebABRAXANE dose in mg/m2/duration in minutes.cpaclitaxel injection dose in mg/m2/duration in hours.dpaclitaxel injection pts received premedication.eIncludes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing.fSevere events are defined as at least grade 3 toxicity.gDuring study drug dosing. |  |  |
 
 Myelosuppression and sensory neuropathy were dose related.
 
@@ -72,9 +72,7 @@ In some instances, rare severe events observed with paclitaxel injection may be 
 ### Hematologic
 
 Neutropenia, the most important hematologic toxicity, was dose dependent and reversible.
-Among patients with metastatic breast cancer in the randomized trial, neutrophil counts declined below 500 cells/mm3 (Grade 4) in 9% of the patients treated with a dose of
-
-260 mg/m2 compared to 22% in patients receiving paclitaxel injection at a dose of 175 mg/m2.
+Among patients with metastatic breast cancer in the randomized trial, neutrophil counts declined below 500 cells/mm3 (Grade 4) in 9% of the patients treated with a dose of 260 mg/m2 compared to 22% in patients receiving paclitaxel injection at a dose of 175 mg/m2.
 
 In the randomized metastatic breast cancer study, infectious episodes were reported in 24% of the patients treated with a dose of 260 mg/m2 given as a 30-minute infusion.
 Oral candidiasis, respiratory tract infections and pneumonia were the most frequently reported infectious complications.
@@ -90,6 +88,10 @@ Among all patients with normal baseline hemoglobin, 31% became anemic on study a
 
 In the randomized controlled metastatic breast cancer study, Grade 1 or 2 HSRs occurred on the day of ABRAXANE administration and consisted of dyspnea (1%) and flushing, hypotension, chest pain, and arrhythmia (all <1%).
 The use of ABRAXANE® in patients previously exhibiting hypersensitivity to paclitaxel injection or human albumin has not been studied.
+
+During postmarketing surveillance, rare occurrences of severe hypersensitivity reactions have been reported with ABRAXANE.
+The use of ABRAXANE in patients previously exhibiting hypersensitivity to paclitaxel injection or human albumin has not been studied.
+Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be rechallenged with the drug.
 
 ### Cardiovascular
 
@@ -156,7 +158,7 @@ Rare reports of hepatic necrosis and hepatic encephalopathy leading to death hav
 Overall 11% of patients experienced creatinine elevation, 1% severe.
 No discontinuations, dose reductions, or dose delays were caused by renal toxicities.
 
-### Gastrointestinal
+### Gastrointestinal (GI)
 
 Nausea/vomiting, diarrhea, and mucositis were reported by 33%, 27%, and 7% of ABRAXANE treated patients in the randomized trial.
 
