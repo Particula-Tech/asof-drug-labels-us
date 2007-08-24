@@ -39,12 +39,21 @@ In studies of naturally acquired and experimental influenza, treatment with TAMI
 
 Distributed by:
 
+Roche Pharmaceuticals
+
+Roche Laboratories Inc.
+
+340 Kingsland Street
+
+Nutley, New Jersey 07110–1199
+
 Licensor:
 
 Gilead Sciences, Inc. Foster City, California 94404
 
-27899328
+27899418
 
-Revised: November 2006
+Rev.
+July 2007
 
-Copyright© 1999-2006 by Roche Laboratories Inc. All rights reserved.
+Copyright© 1999-2007 by Roche Laboratories Inc. All rights reserved.

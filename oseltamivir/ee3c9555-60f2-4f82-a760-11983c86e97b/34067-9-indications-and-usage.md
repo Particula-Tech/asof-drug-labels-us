@@ -8,7 +8,7 @@ TAMIFLU is indicated for the treatment of uncomplicated acute illness due to inf
 
 TAMIFLU is indicated for the prophylaxis of influenza in patients 1 year and older.
 
-TAMIFLU is not a substitute for early vaccination on an annual basis as recommended by the Centers for Disease Control's Immunization Practices Advisory Committee.
+TAMIFLU is not a substitute for early vaccination on an annual basis as recommended by the Centers for Disease Control and Prevention Advisory Committee on Immunization Practices.
 
 ## Description of Clinical Studies: Studies in Naturally Occurring Influenza
 
@@ -74,4 +74,4 @@ The efficacy of TAMIFLU in preventing naturally occurring influenza illness has 
 All index cases in this study received treatment.
 The primary efficacy parameter for this study was the incidence of laboratory-confirmed clinical influenza in the household.
 Laboratory-confirmed clinical influenza was defined as oral temperature ≥100°F/37.8°C plus cough and/or coryza recorded within 48 hours, plus either a positive virus isolation or a fourfold or greater increase in virus antibody titers from baseline or at illness visits.
-Among household contacts 1 to 12 years of age not already shedding virus at baseline, TAMIFLU Oral Suspension 30 mg to 60 mg taken once daily for 10 days reduced the incidence of laboratory-confirmed clinical influenza from 17% (18/106) in the group not receiving prophylaxis to 3% (3/95) in the group receiving prophylaxis.
+Among household contacts 1 to 12 years of age not already shedding virus at baseline, TAMIFLU for Oral Suspension 30 mg to 60 mg taken once daily for 10 days reduced the incidence of laboratory-confirmed clinical influenza from 17% (18/106) in the group not receiving prophylaxis to 3% (3/95) in the group receiving prophylaxis.

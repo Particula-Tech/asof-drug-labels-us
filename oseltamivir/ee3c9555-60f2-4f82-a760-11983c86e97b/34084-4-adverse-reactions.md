@@ -43,7 +43,7 @@ Additional adverse events occurring in <1% of patients receiving TAMIFLU for tre
 ## Treatment Studies in Pediatric Patients
 
 A total of 1032 pediatric patients aged 1 to 12 years (including 698 otherwise healthy pediatric patients aged 1 to 12 years and 334 asthmatic pediatric patients aged 6 to 12 years) participated in phase III studies of TAMIFLU given for the treatment of influenza.
-A total of 515 pediatric patients received treatment with TAMIFLU Oral Suspension.
+A total of 515 pediatric patients received treatment with TAMIFLU for Oral Suspension.
 
 Adverse events occurring in ≥1% of pediatric patients receiving TAMIFLU treatment are listed in Table 4.
 The most frequently reported adverse event was vomiting.

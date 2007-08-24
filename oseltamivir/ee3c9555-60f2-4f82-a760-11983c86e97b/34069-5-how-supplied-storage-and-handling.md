@@ -2,7 +2,15 @@
 
 ## TAMIFLU Capsules
 
-Supplied as 75-mg (75 mg free base equivalent of the phosphate salt) grey/light yellow hard gelatin capsules.
+30-mg capsules (30 mg free base equivalent of the phosphate salt): light yellow hard gelatin capsules.
+"ROCHE" is printed in blue ink on the light yellow body and "30 mg" is printed in blue ink on the light yellow cap.
+Available in blister packages of 10 (NDC 0004-0802-85).
+
+45-mg capsules (45 mg free base equivalent of the phosphate salt): grey hard gelatin capsules.
+"ROCHE" is printed in blue ink on the grey body and "45 mg" is printed in blue ink on the grey cap.
+Available in blister packages of 10 (NDC 0004-0801-85).
+
+75-mg capsules (75 mg free base equivalent of the phosphate salt): grey/light yellow hard gelatin capsules.
 "ROCHE" is printed in blue ink on the grey body and "75 mg" is printed in blue ink on the light yellow cap.
 Available in blister packages of 10 (NDC 0004-0800-85).
 
