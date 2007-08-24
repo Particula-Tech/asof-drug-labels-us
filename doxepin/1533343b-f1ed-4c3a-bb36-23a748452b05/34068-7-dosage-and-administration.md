@@ -8,12 +8,12 @@ In more severely ill patients higher doses may be required with subsequent gradu
 Additional therapeutic effect is rarely to be obtained by exceeding a dose of 300 mg/day.
 
 In patients with very mild symptomatology or emotional symptoms accompanying organic disease, lower doses may suffice.
-Some of these patients have been controlled on doses as low as 25–50 mg/day.
+Some of these patients have been controlled on doses as low as 25 to 50 mg/day.
 
-The total daily dosage of doxepin (as the hydrochloride) may be given on a divided or once-a-day dosage schedule.
-If the once-a-day schedule is employed the maximum recommended dose is 150 mg/day.
+The total daily dosage of doxepin (as the hydrochloride) may be given on a divided or once a day dosage schedule.
+If the once a day schedule is employed the maximum recommended dose is 150 mg/day.
 This dose may be given at bedtime.
 The 150 mg capsule strength is intended for maintenance therapy only and is not recommended for initiation of treatment.
 
-Anti-anxiety effect is apparent before the antidepressant effect.
+Antianxiety effect is apparent before the antidepressant effect.
 Optimal antidepressant effect may not be evident for two to three weeks.

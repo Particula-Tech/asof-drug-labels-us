@@ -9,5 +9,5 @@ Doxepin is recommended for the treatment of:
 
 The target symptoms of psychoneurosis that respond particularly well to doxepin include anxiety, tension, depression, somatic symptoms and concerns, sleep disturbances, guilt, lack of energy, fear, apprehension and worry.
 
-Clinical experience has shown that doxepin is safe and well-tolerated even in the elderly patient.
+Clinical experience has shown that doxepin is safe and well tolerated even in the elderly patient.
 Owing to lack of clinical experience in the pediatric population, doxepin is not recommended for use in children under 12 years of age.

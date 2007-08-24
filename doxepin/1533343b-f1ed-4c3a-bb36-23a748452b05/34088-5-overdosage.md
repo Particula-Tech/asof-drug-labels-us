@@ -34,11 +34,11 @@ Emesis is contraindicated.
 
 ### Cardiovascular
 
-A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
+A maximal limb lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
 Intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55.
 If the pH response is inadequate, hyperventilation may also be used.
 Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring.
-A pH > 7.60 or a pCO2< 20 mm Hg is undesirable.
+A pH > 7.60 or a pCO2 < 20 mm Hg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
 Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
 
@@ -49,7 +49,7 @@ However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced di
 
 In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
 Seizures should be controlled with benzodiazepines, or if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin).
-Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
+Physostigmine is not recommended except to treat life threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
 
 ### Psychiatric Follow-up
 
