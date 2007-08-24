@@ -4,4 +4,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Manufactured By: MUTUAL PHARMACEUTICAL COMPANY, INC. Philadelphia, PA 19124 USA
 
-Rev: December 2004Ch
+Revised: June 2007S

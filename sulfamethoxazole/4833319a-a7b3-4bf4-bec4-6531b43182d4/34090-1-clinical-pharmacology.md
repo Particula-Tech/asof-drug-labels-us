@@ -15,9 +15,7 @@ However, patients with severely impaired renal function exhibit an increase in t
 Detectable amounts of sulfamethoxazole and trimethoprim are present in the blood 24 hours after drug administration.
 During administration of 800 mg sulfamethoxazole and 160 mg trimethoprim b.i.d., the mean steady-state plasma concentration of trimethoprim was 1.72 µg/mL.
 The steady-state mean plasma levels of free and total sulfamethoxazole were 57.4 µg/mL and 68.0 µg/mL, respectively.
-These steady-state levels were achieved after three days of drug administration.1
-
-Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
+These steady-state levels were achieved after three days of drug administration.1 Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
 Urine concentrations of both sulfamethoxazole and trimethoprim are considerably higher than are the concentrations in the blood.
 The average percentage of the dose recovered in urine from 0 to 72 hours after a single oral dose of sulfamethoxazole and trimethoprim is 84.5% for total sulfonamide and 66.8% for free trimethoprim.
 Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, with the remaining as N4-acetylated metabolite.2 When administered together as sulfamethoxazole and trimethoprim, neither sulfamethoxazole nor trimethoprim affects the urinary excretion pattern of the other.
@@ -26,14 +24,14 @@ Both sulfamethoxazole and trimethoprim distribute to sputum, vaginal fluid and m
 
 ## Geriatric Pharmacokinetics
 
-The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean mean age: 29.3 years) using a non-US approved formulation.
+The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
 Pharmacokinetic values for sulfamethoxazole in geriatric subjects were similar to those observed in young adult subjects.
 The mean renal clearance of trimethoprim was significantly lower in geriatric subjects compared with young adult subjects (19 mL/h/kg vs. 55 mL/h/kg).
 However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects.3
 
 ## Microbiology
 
-Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with paraaminobenzoic acid (PABA).
+Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para-aminobenzoic acid (PABA).
 Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase.
 Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps in the biosynthesis of nucleic acids and proteins essential to many bacteria.
 
@@ -60,7 +58,7 @@ Pneumocystis carinii
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method5 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of sulfamethoxazole/trimethoprim powder.
+Standardized procedures are based on a dilution method4 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of sulfamethoxazole/trimethoprim powder.
 The MIC values should be interpreted according to the following criteria:
 
 | MIC (µg/mL) | Interpretation |
@@ -71,10 +69,10 @@ The MIC values should be interpreted according to the following criteria:
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
-| When testing either Haemophilus influenzaeThese interpretative standards are applicable only to broth microdilution susceptibility tests with Haemophilus influenzae using Haemophilus Test Medium (HTM)5. or Streptococcus pneumoniaeThese interpretative standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood5.: |  |
+| When testing either Haemophilus influenzaeThese interpretative standards are applicable only to broth microdilution susceptibility tests with Haemophilus influenzae using Haemophilus Test Medium (HTM)4. or Streptococcus pneumoniaeThese interpretative standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood4.: |  |
 | ≤ 0.5/9.5 | Susceptible (S) |
-| 1/19-2/38 | Intermediate (I) |
-| ≥ 4/76 | Resistant (R) |
+| 1/19 – 2/38 | Intermediate (I) |
+| ≥ 4/7 | Resistant (R) |
 
 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -82,7 +80,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-#### Quality Control
+## Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard sulfamethoxazole/trimethoprim powder should provide the following range of values:
@@ -90,27 +88,27 @@ Standard sulfamethoxazole/trimethoprim powder should provide the following range
 | Microorganism |  | MIC (µg/mL) |
 | --- | --- | --- |
 | Escherichia coli | ATCC 25922 | ≤ 0.5/9.5 |
-| Haemophilus influenzaeThis quality control range is applicable only to Haemophilus influenzae ATCC 49247 tested by broth microdilution procedure using Haemophilus Test Medium (HTM)5. | ATCC 49247 | 0.03/0.59 – 0.25/4.75 |
-| Streptococcus pneumoniaeThis quality control range is applicable to tests performed by the broth microdilution method only using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood5. | ATCC 49619 | 0.12/2.4 – 1/19 |
+| Haemophilus influenzaeThis quality control range is applicable only to Haemophilus influenzae ATCC 49247 tested by broth microdilution procedure using Haemophilus Test Medium (HTM)4. | ATCC 49247 | 0.03/0.59 – 0.25/4.75 |
+| Streptococcus pneumoniaeThis quality control range is applicable to tests performed by the broth microdilution method only using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood4. | ATCC 49619 | 0.12/2.4 – 1/19 |
 
 ### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure6 requires the use of standardized inoculum concentrations.
+One such standardized procedure5 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 1.25/23.75 µg of sulfamethoxazole/trimethoprim to test the susceptibility of microorganisms to sulfamethoxazole/trimethoprim.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 1.25/23.75 µg of sulfamethoxazole/trimethoprim disk should be interpreted according to the following criteria:.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 1.25/23.75 µg of sulfamethoxazole/trimethoprim disk should be interpreted according to the following criteria:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| For testing either Enterobacteriaceae or Haemophilus influenzaeThese zone diameter standards are applicable only for disk diffusion testing with Haemophilus influenzae and Haemophilus Test Medium (HTM)6.: |  |
+| For testing either Enterobacteriaceae or Haemophilus influenzaeThese zone diameter standards are applicable only for disk diffusion testing with Haemophilus influenzae and Haemophilus Test Medium (HTM)5.: |  |
 | ≥ 16 | Susceptible (S) |
 | 11 – 15 | Intermediate (I) |
 | ≤ 10 | Resistant (R) |
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| When testing Streptococcus pneumoniaeThese zone diameter interpretative standards are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO26.: |  |
+| When testing Streptococcus pneumoniaeThese zone diameter interpretative standards are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO25.: |  |
 | ≥ 19 | Susceptible (S) |
 | 16 – 18 | Intermediate (I) |
 | ≤ 15 | Resistant (R) |
@@ -118,7 +116,7 @@ Reports from the laboratory providing results of the standard single-disk suscep
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for sulfamethoxazole/trimethoprim.
 
-#### Quality Control
+## Quality Control
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
 For the diffusion technique, the 1.25/23.75 µg sulfamethoxazole/trimethoprim diskMueller-Hinton agar should be checked for excessive levels of thymidine or thymine.
@@ -127,6 +125,6 @@ A zone of inhibition ≥20 mm that is essentially free of fine colonies indicate
 
 | Microorganism |  | Zone Diameter Ranges (mm) |
 | --- | --- | --- |
-| Escherichia coli | ATCC 25922 | 24 – 32 |
-| Haemophilus influenzaeThis quality control range is applicable only to Haemophilus influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM)6. | ATCC 49247 | 24 – 32 |
-| Streptococcus pneumoniaeThis quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO26. | ATCC 49619 | 20 – 28 |
+| Escherichia coli | ATCC 25922 | 24–32 |
+| Haemophilus influenzaeThis quality control range is applicable only to Haemophilus influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM)5. | ATCC 49247 | 24–32 |
+| Streptococcus pneumoniaeThis quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO25. | ATCC 49619 | 20–28 |

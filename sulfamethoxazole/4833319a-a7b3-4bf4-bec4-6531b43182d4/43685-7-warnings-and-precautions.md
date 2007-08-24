@@ -4,7 +4,6 @@ FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HA
 
 SULFONAMIDES, INCLUDING SULFONAMIDE-CONTAINING PRODUCTS SUCH AS SULFAMETHOXAZOLE/TRIMETHOPRIM, SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR ANY SIGN OF ADVERSE REACTION.
 In rare instances, a skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, hepatic necrosis, and serious blood disorders (see PRECAUTIONS).
-
 Clinical signs such as rash, sore throat, fever, arthralgia, pallor, purpura or jaundice may be early indications of serious reactions.
 
 Cough, shortness of breath, and pulmonary infiltrates are hypersensitivity reactions of the respiratory tract that have been reported in association with sulfonamide treatment.
@@ -12,15 +11,16 @@ Cough, shortness of breath, and pulmonary infiltrates are hypersensitivity react
 The sulfonamides should not be used for the treatment of group A β-hemolytic streptococcal infections.
 In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including sulfamethoxazole/ trimethoprim, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including sulfamethoxazole and trimethoprim, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis".
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug effective against C. difficile.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -48,7 +48,7 @@ AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim i
 The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for Pneumocystis carinii pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.
 The incidence of hyperkalemia appears to be increased in AIDS patients receiving sulfamethoxazole and trimethoprim.
 Adverse effects are generally less severe in patients receiving sulfamethoxazole and trimethoprim for prophylaxis.
-A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
+A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.6 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
 
 High dosage of trimethoprim, as used in patients with Pneumocystis carinii pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
 Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly.
@@ -65,6 +65,10 @@ When sulfamethoxazole and trimethoprim tablets are prescribed to treat bacterial
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by sulfamethoxazole and trimethoprim tablets or other antibacterial drugs in the future.
 
 Patients should be instructed to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
 
@@ -132,11 +136,11 @@ These doses are 10.9-fold higher than the recommended human dose for sulfamethox
 
 #### Pregnancy Category C
 
-In rats, oral doses of 533 mg/kg sulfamethoxazole (16.7-fold higher than the recommended human dose) or 200 mg/kg trimethoprim (31.3-fold higher than the recommended human dose) produced teratologic effects manifested mainly as cleft palates.
+In rats, oral doses of 533 mg/kg or 200 mg/kg produced teratologic effects manifested mainly as cleft palates.
 
-The highest dose which did not cause cleft palates in rats was 512 mg/kg sulfamethoxazole (16-fold higher than the recommended human dose) or 192 mg/kg trimethoprim (30-fold higher than the recommended human dose) when administered separately.
-In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole (16-fold higher than the recommended human dose) was used in combination with 128 mg/kg of trimethoprim (20-fold higher than the recommended human dose).
-In one study, however, cleft palates were observed in one litter out of 9 when 355 mg/kg of sulfamethoxazole (11.1-fold higher than the recommended human dose) was used in combination with 88 mg/kg of trimethoprim (13.8-fold higher than the recommended human dose).
+The highest dose which did not cause cleft palates in rats was 512 mg/kg or 192 mg/kg trimethoprim when administered separately.
+In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole was used in combination with 128 mg/kg of trimethoprim.
+In one study, however, cleft palates were observed in one litter out of 9 when 355 mg/kg of sulfamethoxazole was used in combination with 88 mg/kg of trimethoprim.
 
 In some rabbit studies, an overall increase in fetal loss (dead and resorbed and malformed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose.
 
@@ -157,7 +161,7 @@ See CONTRAINDICATIONS section.
 
 ## Pediatric Use
 
-Sulfamethoxazole and trimethoprim is not recommended for pediatric patients younger than 2 months of age (see INDICATIONS and CONTRAINDICATIONS sections).
+Sulfamethoxazole and trimethoprim is not recommended for infants younger than 2 months of age (see INDICATIONS and CONTRAINDICATIONS sections).
 
 ## Geriatric Use
 
