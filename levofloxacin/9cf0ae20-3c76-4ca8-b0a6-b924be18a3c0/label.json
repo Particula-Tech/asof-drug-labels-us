@@ -1,0 +1,23 @@
+{
+  "application_numbers": [],
+  "inn": "levofloxacin",
+  "labeler": "OMP DIVISION, ORTHO-McNEIL PHARMACEUTICAL, INC.",
+  "package_ndcs": [
+    "0045-0065-55",
+    "0045-0066-01",
+    "0045-0067-01",
+    "0045-0068-01",
+    "0045-0069-51",
+    "0045-1515-01",
+    "0045-1520-10",
+    "0045-1520-50",
+    "0045-1525-10",
+    "0045-1525-50",
+    "0045-1530-05",
+    "0045-1530-10",
+    "0045-1530-20"
+  ],
+  "products": [],
+  "setid": "9cf0ae20-3c76-4ca8-b0a6-b924be18a3c0",
+  "source": "dailymed"
+}
