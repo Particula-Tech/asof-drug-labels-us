@@ -3,34 +3,43 @@
 ## Clinical Worsening and Suicide Risk
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients.
-Antidepressants increased the risk of suicidal thinking and behavior (suicidality) in short-term studies in children and adolescents with Major Depressive Disorder (MDD) and other psychiatric disorders.
+Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
+There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-Pooled analyses of short-term placebo-controlled trials of 9 antidepressant drugs (SSRIs and others) in children and adolescents with MDD, OCD, or other psychiatric disorders (a total of 24 trials involving over 4,400 patients) have revealed a greater risk of adverse events representing suicidal behavior or thinking (suicidality) during the first few months of treatment in those receiving antidepressants.
-The average risk of such events in patients receiving antidepressants was 4%, twice the placebo risk of 2%.
-There was considerable variation in risk among drugs, but a tendency toward an increase for almost all drugs studied.
-The risk of suicidality was most consistently observed in the MDD trials, but there were signals of risk arising from some trials in other psychiatric indications (obsessive compulsive disorder and social anxiety disorder) as well.
-No suicides occurred in any of these trials.
-It is unknown whether the suicidality risk in pediatric patients extends to longer-term use, i.e., beyond several months.
-It is also unknown whether the suicidality risk extends to adults.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
+The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
+There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
+The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-All pediatric patients being treated with antidepressants for any indication should be observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-Such observation would generally include at least weekly face-to-face contact with patients or their family members or caregivers during the first 4 weeks of treatment, then every other week visits for the next 4 weeks, then at 12 weeks, and as clinically indicated beyond 12 weeks.
-Additional contact by telephone may be appropriate between face-to-face visits.
+Table 1
 
-Adults with MDD or co-morbid depression in the setting of other psychiatric illness being treated with antidepressants should be observed similarly for clinical worsening and suicidality, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
+| --- | --- |
+| Drug-Related Increases |  |
+| <18 | 14 additional cases |
+| 18-24 | 5 additional cases |
+| Drug-Related Decreases |  |
+| 25-64 | 1 fewer case |
+| ≥65 | 6 fewer cases |
 
-In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults, are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment.
+No suicides occurred in any of the pediatric trials.
+There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-
-Families and caregivers of pediatric patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for WELLBUTRIN SR should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
-Families and caregivers of adults being treated for depression should be similarly advised.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -51,7 +60,7 @@ WELLBUTRIN SR should be discontinued and not restarted in patients who experienc
 - Dose: At doses of WELLBUTRIN SR up to a dose of 300 mg/day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg/day.
 
 Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (i.e., 13 of 3,200 patients followed prospectively) in patients treated at doses in a range of 300 to 450 mg/day.
-The 450-mg/day upper limit of this dose range is close to the currently recommended maximum dose of 400 mg/dayfor WELLBUTRIN SR Tablets.
+The 450-mg/day upper limit of this dose range is close to the currently recommended maximum dose of 400 mg/day for WELLBUTRIN SR Tablets.
 This seizure incidence (0.4%) may exceed that of other marketed antidepressants and WELLBUTRIN SR Tablets up to 300 mg/day by as much as 4-fold.
 This relative risk is only an approximate estimate because no direct comparative studies have been conducted.
 
@@ -94,9 +103,9 @@ In dogs receiving large doses of bupropion chronically, various histologic chang
 
 ### Agitation and Insomnia
 
-Patients in placebo-controlled trials with WELLBUTRIN SR Tablets experienced agitation, anxiety, and insomnia as shown in Table 1.
+Patients in placebo-controlled trials with WELLBUTRIN SR Tablets experienced agitation, anxiety, and insomnia as shown in Table 2.
 
-Table 1.
+Table 2.
 Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials
 
 | Adverse Event Term | WELLBUTRIN SR300 mg/day(n = 376) | WELLBUTRIN SR400 mg/day(n = 114) | Placebo(n = 385) |
@@ -121,9 +130,9 @@ WELLBUTRIN SR is expected to pose similar risks.
 
 ### Altered Appetite and Weight
 
-In placebo-controlled studies, patients experienced weight gain or weight loss as shown in Table 2.
+In placebo-controlled studies, patients experienced weight gain or weight loss as shown in Table 3.
 
-Table 2.
+Table 3.
 Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials
 
 | Weight Change | WELLBUTRIN SR 300 mg/day(n = 339) | WELLBUTRIN SR 400 mg/day(n = 112) | Placebo(n = 347) |
@@ -177,7 +186,7 @@ The patient should be closely monitored for possible adverse effects that could 
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with WELLBUTRIN SR and should counsel them in its appropriate use.
-A Medication Guide about using antidepressants in children and teenagers and important information about using WELLBUTRIN SR will be dispensed by the pharmacist with each new prescription and refill of WELLBUTRIN SR.
+A patient Medication Guide about“Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions” and other important information about using WELLBUTRIN SR is available for WELLBUTRIN SR.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -187,7 +196,7 @@ Patients should be advised of the following issues and asked to alert their pres
 ### Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
@@ -315,7 +324,7 @@ Because of the potential for serious adverse reactions in nursing infants from W
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: ClinicalWorsening and Suicide Risk).
 Anyone considering the use of WELLBUTRIN SR in a child or adolescent must balance the potential risks with the clinical need.
 
 ## Geriatric Use

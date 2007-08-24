@@ -28,4 +28,4 @@ Based on studies in animals, it is recommended that seizures be treated with int
 
 In managing overdosage, consider the possibility of multiple drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ DeskReference (PDR).
+Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
