@@ -23,137 +23,136 @@ The cited figures, however, provide the physician with a basis for estimating th
 
 Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinical Trials (Percentage of Patients Reporting Event)
 
-|  | Adults |  | Children and Adolescents |  |
-| --- | --- | --- | --- | --- |
-| Body System/ | Anafranil | Placebo | Anafranil | Placebo |
-| Adverse Event* | (N=322) | (N=319) | (N=46) | (N=44) |
-| Nervous System |  |  |  |  |
-| Somnolence | 54 | 16 | 46 | 11 |
-| Tremor | 54 | 2 | 33 | 2 |
-| Dizziness | 54 | 14 | 41 | 14 |
-| Headache | 52 | 41 | 28 | 34 |
-| Insomnia | 25 | 15 | 11 | 7 |
-| Libido change | 21 | 3 | - | - |
-| Nervousness | 18 | 2 | 4 | 2 |
-| Myoclonus | 13 | - | 2 | - |
-| Increased appetite | 11 | 2 | - | 2 |
-| Paresthesia | 9 | 3 | 2 | 2 |
-| Memory impairment | 9 | 1 | 7 | 2 |
-| Anxiety | 9 | 4 | 2 | - |
-| Twitching | 7 | 1 | 4 | 5 |
-| Impaired concentration | 5 | 2 | - | - |
-| Depression | 5 | 1 | - | - |
-| Hypertonia | 4 | 1 | 2 | - |
-| Sleep disorder | 4 | - | 9 | 5 |
-| Psychosomatic disorder | 3 | - | - | - |
-| Yawning | 3 | - | - | - |
-| Confusion | 3 | - | 2 | - |
-| Speech disorder | 3 | - | - | - |
-| Abnormal dreaming | 3 | - | - | 2 |
-| Agitation | 3 | - | - | - |
-| Migraine | 3 | - | - | - |
-| Depersonalization | 2 | - | 2 | - |
-| Irritability | 2 | 2 | 2 | - |
-| Emotional lability | 2 | - | - | 2 |
-| Panic reaction | 1 | - | 2 | - |
-| Aggressive reaction | - | - | 2 | - |
-| Paresis | - | - | 2 | - |
-| Skin and Appendages |  |  |  |  |
-| Increased sweating | 29 | 3 | 9 | - |
-| Rash | 8 | 1 | 4 | 2 |
-| Pruritus | 6 | - | 2 | 2 |
-| Dermatitis | 2 | - | - | 2 |
-| Acne | 2 | 2 | - | 5 |
-| Dry skin | 2 | - | - | 5 |
-| Urticaria | 1 | - | - | - |
-| Abnormal skin odor | - | - | 2 | - |
-| Digestive System |  |  |  |  |
-| Dry mouth | 84 | 17 | 63 | 16 |
-| Constipation | 47 | 11 | 22 | 9 |
-| Nausea | 33 | 14 | 9 | 11 |
-| Dyspepsia | 22 | 10 | 13 | 2 |
-| Diarrhea | 13 | 9 | 7 | 5 |
-| Anorexia | 12 | - | 22 | 2 |
-| Abdominal pain | 11 | 9 | 13 | 16 |
-| Vomiting | 7 | 2 | 7 | - |
-| Flatulence | 6 | 3 | - | 2 |
-| Tooth disorder | 5 | - | - | - |
-| Gastrointestinal disorder | 2 | - | - | 2 |
-| Dysphagia | 2 | - | - | - |
-| Esophagitis | 1 | - | - | - |
-| Eructation | - | - | 2 | 2 |
-| Ulcerative stomatitis | - | - | 2 | - |
-| Body as a Whole |  |  |  |  |
-| Fatigue | 39 | 18 | 35 | 9 |
-| Weight increase | 18 | 1 | 2 | - |
-| Flushing | 8 | - | 7 | - |
-| Hot flushes | 5 | - | 2 | - |
-| Chest pain | 4 | 4 | 7 | - |
-| Fever | 4 | - | 2 | 7 |
-| Allergy | 3 | 3 | 7 | 5 |
-| Pain | 3 | 2 | 4 | 2 |
-| Local edema | 2 | 4 | - | - |
-| Chills | 2 | 1 | - | - |
-| Weight decrease | - | - | 7 | - |
-| Otitis media | - | - | 4 | 5 |
-| Asthenia | - | - | 2 | - |
-| Halitosis | - | - | 2 | - |
-| Cardiovascular System |  |  |  |  |
-| Postural hypotension | 6 | - | 4 | - |
-| Palpitation | 4 | 2 | 4 | - |
-| Tachycardia | 4 | - | 2 | - |
-| Syncope | - | - | 2 | - |
-| Respiratory System |  |  |  |  |
-| Pharyngitis | 14 | 9 | - | 5 |
-| Rhinitis | 12 | 10 | 7 | 9 |
-| Sinusitis | 6 | 4 | 2 | 5 |
-| Coughing | 6 | 6 | 4 | 5 |
-| Bronchospasm | 2 | - | 7 | 2 |
-| Epistaxis | 2 | - | - | 2 |
-| Dyspnea | - | - | 2 | - |
-| Laryngitis | - | 1 | 2 | - |
-| Urogenital System |  |  |  |  |
-| Male and Female Patients Combined |  |  |  |  |
-| Micturition disorder | 14 | 2 | 4 | 2 |
-| Urinary tract infection | 6 | 1 | - | - |
-| Micturition frequency | 5 | 3 | - | - |
-| Urinary retention | 2 | - | 7 | - |
-| Dysuria | 2 | 2 | - | - |
-| Cystitis | 2 | - | - | - |
-| Female Patients Only | (N=182) | (N=167) | (N=10) | (N=21) |
-| Dysmenorrhea | 12 | 14 | 10 | 10 |
-| Lactation (nonpuerperal) | 4 | - | - | - |
-| Menstrual disorder | 4 | 2 | - | - |
-| Vaginitis | 2 | - | - | - |
-| Leukorrhea | 2 | - | - | - |
-| Breast enlargement | 2 | - | - | - |
-| Breast pain | 1 | - | - | - |
-| Amenorrhea | 1 | - | - | - |
-| Male Patients Only | (N=140) | (N=152) | (N=36) | (N=23) |
-| Ejaculation failure | 42 | 2 | 6 | - |
-| Impotence | 20 | 3 | - | - |
-| Special Senses |  |  |  |  |
-| Abnormal vision | 18 | 4 | 7 | 2 |
-| Taste perversion | 8 | - | 4 | - |
-| Tinnitus | 6 | - | 4 | - |
-| Abnormal lacrimation | 3 | 2 | - | - |
-| Mydriasis | 2 | - | - | - |
-| Conjunctivitis | 1 | - | - | - |
-| Anisocoria | - | - | 2 | - |
-| Blepharospasm | - | - | 2 | - |
-| Ocular allergy | - | - | 2 | - |
-| Vestibular disorder | - | - | 2 | 2 |
-| Musculoskeletal |  |  |  |  |
-| Myalgia | 13 | 9 | - | - |
-| Back pain | 6 | 6 | - | - |
-| Arthralgia | 3 | 5 | - | - |
-| Muscle weakness | 1 | - | 2 | - |
-| Hemic and Lymphatic |  |  |  |  |
-| Purpura | 3 | - | - | - |
-| Anemia | - | - | 2 | 2 |
-| Metabolic and Nutritional |  |  |  |  |
-| Thirst | 2 | 2 | - | 2 |
-| *Events reported by at least 1% of Anafranil patients are included. |  |  |  |  |
+|  | Adults |  |  | Children and Adolescents |  |
+| --- | --- | --- | --- | --- | --- |
+| Body System/ Adverse Event* | Anafranil (N=322) | Placebo (N=319) |  | Anafranil (N=46) | Placebo (N=44) |
+| Nervous System |  |  |  |  |  |
+| Somnolence | 54 | 16 |  | 46 | 11 |
+| Tremor | 54 | 2 |  | 33 | 2 |
+| Dizziness | 54 | 14 |  | 41 | 14 |
+| Headache | 52 | 41 |  | 28 | 34 |
+| Insomnia | 25 | 15 |  | 11 | 7 |
+| Libido change | 21 | 3 |  | - | - |
+| Nervousness | 18 | 2 |  | 4 | 2 |
+| Myoclonus | 13 | - |  | 2 | - |
+| Increased appetite | 11 | 2 |  | - | 2 |
+| Paresthesia | 9 | 3 |  | 2 | 2 |
+| Memory impairment | 9 | 1 |  | 7 | 2 |
+| Anxiety | 9 | 4 |  | 2 | - |
+| Twitching | 7 | 1 |  | 4 | 5 |
+| Impaired concentration | 5 | 2 |  | - | - |
+| Depression | 5 | 1 |  | - | - |
+| Hypertonia | 4 | 1 |  | 2 | - |
+| Sleep disorder | 4 | - |  | 9 | 5 |
+| Psychosomatic disorder | 3 | - |  | - | - |
+| Yawning | 3 | - |  | - | - |
+| Confusion | 3 | - |  | 2 | - |
+| Speech disorder | 3 | - |  | - | - |
+| Abnormal dreaming | 3 | - |  | - | 2 |
+| Agitation | 3 | - |  | - | - |
+| Migraine | 3 | - |  | - | - |
+| Depersonalization | 2 | - |  | 2 | - |
+| Irritability | 2 | 2 |  | 2 | - |
+| Emotional lability | 2 | - |  | - | 2 |
+| Panic reaction | 1 | - |  | 2 | - |
+| Aggressive reaction | - | - |  | 2 | - |
+| Paresis | - | - |  | 2 | - |
+| Skin and Appendages |  |  |  |  |  |
+| Increased sweating | 29 | 3 |  | 9 | - |
+| Rash | 8 | 1 |  | 4 | 2 |
+| Pruritus | 6 | - |  | 2 | 2 |
+| Dermatitis | 2 | - |  | - | 2 |
+| Acne | 2 | 2 |  | - | 5 |
+| Dry skin | 2 | - |  | - | 5 |
+| Urticaria | 1 | - |  | - | - |
+| Abnormal skin odor | - | - |  | 2 | - |
+| Digestive System |  |  |  |  |  |
+| Dry mouth | 84 | 17 |  | 63 | 16 |
+| Constipation | 47 | 11 |  | 22 | 9 |
+| Nausea | 33 | 14 |  | 9 | 11 |
+| Dyspepsia | 22 | 10 |  | 13 | 2 |
+| Diarrhea | 13 | 9 |  | 7 | 5 |
+| Anorexia | 12 | - |  | 22 | 2 |
+| Abdominal pain | 11 | 9 |  | 13 | 16 |
+| Vomiting | 7 | 2 |  | 7 | - |
+| Flatulence | 6 | 3 |  | - | 2 |
+| Tooth disorder | 5 | - |  | - | - |
+| Gastrointestinal disorder | 2 | - |  | - | 2 |
+| Dysphagia | 2 | - |  | - | - |
+| Esophagitis | 1 | - |  | - | - |
+| Eructation | - | - |  | 2 | 2 |
+| Ulcerative stomatitis | - | - |  | 2 | - |
+| Body as a Whole |  |  |  |  |  |
+| Fatigue | 39 | 18 |  | 35 | 9 |
+| Weight increase | 18 | 1 |  | 2 | - |
+| Flushing | 8 | - |  | 7 | - |
+| Hot flushes | 5 | - |  | 2 | - |
+| Chest pain | 4 | 4 |  | 7 | - |
+| Fever | 4 | - |  | 2 | 7 |
+| Allergy | 3 | 3 |  | 7 | 5 |
+| Pain | 3 | 2 |  | 4 | 2 |
+| Local edema | 2 | 4 |  | - | - |
+| Chills | 2 | 1 |  | - | - |
+| Weight decrease | - | - |  | 7 | - |
+| Otitis media | - | - |  | 4 | 5 |
+| Asthenia | - | - |  | 2 | - |
+| Halitosis | - | - |  | 2 | - |
+| Cardiovascular System |  |  |  |  |  |
+| Postural hypotension | 6 | - |  | 4 | - |
+| Palpitation | 4 | 2 |  | 4 | - |
+| Tachycardia | 4 | - |  | 2 | - |
+| Syncope | - | - |  | 2 | - |
+| Respiratory System |  |  |  |  |  |
+| Pharyngitis | 14 | 9 |  | - | 5 |
+| Rhinitis | 12 | 10 |  | 7 | 9 |
+| Sinusitis | 6 | 4 |  | 2 | 5 |
+| Coughing | 6 | 6 |  | 4 | 5 |
+| Bronchospasm | 2 | - |  | 7 | 2 |
+| Epistaxis | 2 | - |  | - | 2 |
+| Dyspnea | - | - |  | 2 | - |
+| Laryngitis | - | 1 |  | 2 | - |
+| Urogenital System |  |  |  |  |  |
+| Male and Female Patients Combined |  |  |  |  |  |
+| Micturition disorder | 14 | 2 |  | 4 | 2 |
+| Urinary tract infection | 6 | 1 |  | - | - |
+| Micturition frequency | 5 | 3 |  | - | - |
+| Urinary retention | 2 | - |  | 7 | - |
+| Dysuria | 2 | 2 |  | - | - |
+| Cystitis | 2 | - |  | - | - |
+| Female Patients Only | (N=182) | (N=167) |  | (N=10) | (N=21) |
+| Dysmenorrhea | 12 | 14 |  | 10 | 10 |
+| Lactation (nonpuerperal) | 4 | - |  | - | - |
+| Menstrual disorder | 4 | 2 |  | - | - |
+| Vaginitis | 2 | - |  | - | - |
+| Leukorrhea | 2 | - |  | - | - |
+| Breast enlargement | 2 | - |  | - | - |
+| Breast pain | 1 | - |  | - | - |
+| Amenorrhea | 1 | - |  | - | - |
+| Male Patients Only | (N=140) | (N=152) |  | (N=36) | (N=23) |
+| Ejaculation failure | 42 | 2 |  | 6 | - |
+| Impotence | 20 | 3 |  | - | - |
+| Special Senses |  |  |  |  |  |
+| Abnormal vision | 18 | 4 |  | 7 | 2 |
+| Taste perversion | 8 | - |  | 4 | - |
+| Tinnitus | 6 | - |  | 4 | - |
+| Abnormal lacrimation | 3 | 2 |  | - | - |
+| Mydriasis | 2 | - |  | - | - |
+| Conjunctivitis | 1 | - |  | - | - |
+| Anisocoria | - | - |  | 2 | - |
+| Blepharospasm | - | - |  | 2 | - |
+| Ocular allergy | - | - |  | 2 | - |
+| Vestibular disorder | - | - |  | 2 | 2 |
+| Musculoskeletal |  |  |  |  |  |
+| Myalgia | 13 | 9 |  | - | - |
+| Back pain | 6 | 6 |  | - | - |
+| Arthralgia | 3 | 5 |  | - | - |
+| Muscle weakness | 1 | - |  | 2 | - |
+| Hemic and Lymphatic |  |  |  |  |  |
+| Purpura | 3 | - |  | - | - |
+| Anemia | - | - |  | 2 | 2 |
+| Metabolic and Nutritional |  |  |  |  |  |
+| Thirst | 2 | 2 |  | - | 2 |
+| *Events reported by at least 1% of Anafranil patients are included. |  |  |  |  |  |
 
 ## Other Events Observed During the Premarketing Evaluation of Anafranil
 
