@@ -16,10 +16,10 @@ For detailed information on the management of patients with myasthenia gravis, t
 Usage in Pregnancy: The safety of Mestinon during pregnancy or lactation in humans has not been established.
 Therefore, use of Mestinon in women who may become pregnant requires weighing the drug’s potential benefits against its possible hazards to mother and child.
 
-# PRECAUTION
+# PRECAUTIONS
 
 Pyridostigmine is mainly excreted unchanged by the kidney.6,7,8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.6,7
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness in pediatric patients have not been established

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Mestinon (pyridostigmine bromide syrup) is an orally active cholinesterase inhibitor.
+Mestinon (pyridostigmine bromide tablets, USP) is an orally active cholinesterase inhibitor.
 Chemically, pyridostigmine bromide is 3-hydroxy-1-methylpyridinium bromide dimethylcarbamate.
 Its structural formula is:
 
