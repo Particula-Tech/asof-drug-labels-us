@@ -2,7 +2,7 @@
 
 See BOXED WARNINGS.
 
-Systemic absorption may occur with the use of Premarin Vaginal Cream.
+Systemic absorption occurs with the use of Premarin Vaginal Cream.
 The warnings, precautions, and adverse reactions associated with oral Premarin treatment should be taken into account.
 
 ## 1. Cardiovascular disorders
@@ -26,7 +26,7 @@ The increase in risk was demonstrated after the first year and persisted.
 
 ### b. Coronary heart disease
 
-In the estrogen-alone substudy of WHI, no overall effect on coronary heart disease (CHD) events (defined as non-fatal MI, silent MI, or death, due to CHD) was reported in women receiving estrogen alone compared to placebo.
+In the estrogen-alone substudy of WHI, no overalleffect on coronary heart disease (CHD) events (defined as non-fatal MI, silent MI, or death, due to CHD) was reported in women receiving estrogen alone compared to placebo.
 (See CLINICAL STUDIES.)
 
 In the estrogen-plus-progestin substudy of WHI, no statistically significant increase of CHD events was reported in women receiving CE/MPA compared to women receiving placebo (39 vs. 33 per 10,000 women years).
@@ -105,7 +105,7 @@ The absolute risk of probable dementia for CE alone vs. placebo was 37 vs. 25 ca
 
 In the estrogen-plus-progestin substudy, after an average follow-up of four years, 40 women in the estrogen-plus-progestin group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for estrogen plus progestin vs. placebo was 2.05 (95% CI 1.21-3.48).
-The absolute risk of probable dementia for CE/MPA vs. placebo was 45 vs. 22 cases per 10,000 women-years.
+The absolute risk of probabledementia for CE/MPA vs. placebo was 45 vs. 22 cases per 10,000 women-years.
 
 When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95% CI 1.19-2.60).
 Since both substudies were conducted in women aged 65 to 79 years, it is unknown whether these findings apply to younger postmenopausal women.
@@ -140,7 +140,7 @@ These include a possible increased risk of breast cancer, adverse effects on lip
 
 ### 2. Elevated blood pressure
 
-In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
+In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactionsto estrogens.
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogen therapy on blood pressure was not seen.
 Blood pressure should be monitored at regular intervals with estrogen use.
 
@@ -170,9 +170,9 @@ Estrogens should be used with caution in individuals with severe hypocalcemia.
 
 ### 8. Ovarian cancer
 
-The estrogen-plus-progestin substudy of WHI reported that after an average follow-up of 5.6 years, the relative risk for ovarian cancer for estrogen plus progestin vs. placebo was 1.58 (95% nCI 0.77– 3.24), but was not statistically significant.
+The estrogen-plus-progestin substudy of WHI reported that after an average follow-up of 5.6 years, the relative risk for ovarian cancer for estrogen plus progestin vs. placebo was 1.58 (95% nCI 0.77 – 3.24), but was not statistically significant.
 The absolute risk for estrogen plus progestin vs. placebo was 4.2 vs. 2.7 cases per 10,000 women-years.
-In some epidemiologic studies, the use of estrogen-only products, in particular for 10 or more years, has been associated with an increased risk of ovarian cancer.
+In some epidemiologic studies, the use of estrogen-only products has been associated with an increased risk of ovarian cancer over multiple years of use.
 Other epidemiologic studies have not found these associations.
 
 ### 9. Exacerbation of endometriosis

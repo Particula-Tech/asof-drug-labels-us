@@ -1,4 +1,4 @@
 # OVERDOSAGE
 
-Serious ill effects have not been reported following acute ingestion of large doses of estrogen/progestin containing drug products by young children.
-Overdosage of estrogens may cause nausea and vomiting, and withdrawal bleeding may occur in females.
+Symptoms of overdosage of estrogen-containing products in adults and children may include nausea, vomiting, breast tenderness, dizziness, abdominal pain, drowsiness/fatigue; withdrawal bleeding may occur in females.
+There is no specific antidote, and further treatment if necessary should be symptomatic.

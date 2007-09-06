@@ -1,7 +1,5 @@
 # PATIENT INFORMATION
 
-(Updated July 31, 2006)
-
 Premarin® (conjugated estrogens) Vaginal Cream
 
 Read this PATIENT INFORMATION before you start using Premarin Vaginal Cream and read what you get each time you refill Premarin Vaginal Cream.
@@ -116,7 +114,7 @@ Call your healthcare provider right away if you get any of these warning signs, 
 - Fluid retention
 - Enlargement of benign tumors of the uterus (“fibroids”)
 - Vaginal yeast infections
-- Allergic Reactions
+- Allergic reactions
 
 These are not all the possible side effects of Premarin Vaginal Cream.
 For more information, ask your healthcare provider or pharmacist.
@@ -157,15 +155,9 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 Wyeth®
 
-Wyeth Pharmaceuticals Inc.
+Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
 
-Philadelphia, PA 19101
-
-W10413C009
-
-ET02
-
-Revised July 31, 2006
+W10413C011 ET01 Rev 08/07
 
 «TEAR HERE
 
@@ -287,7 +279,7 @@ Call your healthcare provider right away if you get any of these warning signs, 
 - Fluid retention
 - Enlargement of benign tumors of the uterus (“fibroids”)
 - Vaginal yeast infections
-- Allergic Reactions
+- Allergic reactions
 
 These are not all the possible side effects of Premarin Vaginal Cream.
 For more information, ask your healthcare provider or pharmacist.
@@ -297,7 +289,7 @@ For more information, ask your healthcare provider or pharmacist.
 - Talk with your healthcare provider regularly about whether you should continue using Premarin Vaginal Cream.
 - See your healthcare provider right away if you get vaginal bleeding while using Premarin Vaginal Cream.
 - Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
-  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+  If members of yourfamily have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
   Ask your health care provider for ways to lower your chances for getting heart disease.
 
@@ -326,17 +318,11 @@ Combination package: Each contains Net Wt.
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
-|  | This product's label may have been revised after this insert was used in production. For further product information and current package insert, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+|  | This product's label may have been revised after this insert was used in production. For further product information and current package insert, please visit www.wyeth.com or call our medical communications department toll‑free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
 Wyeth®
 
-Wyeth Pharmaceuticals Inc.
+Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
 
-Philadelphia, PA 19101
-
-W10413C009
-
-ET02
-
-Rev July 31, 2006
+W10413C011 ET01 Rev 08/07

@@ -8,9 +8,9 @@ A “global index” included the earliest occurrence of CHD, invasive breast ca
 The study did not evaluate the effects of CE tablets or CE/MPA on menopausal symptoms.
 
 The estrogen-alone substudy was stopped early because an increased risk of stroke was observed, and it was deemed that no further information would be obtained regarding the risks and benefits of estrogen alone in predetermined primary endpoints.
-Results of the estrogen-alone substudy, which included 10,739 women (average age of 63 years, range 50 to 79; 75.3% White, 15.1% Black, 6.1% Hispanic, 3.6% Other) after an average follow-up of 6.8 years, are presented in Table 1 below.
+Results of the estrogen-alone substudy, which included 10,739 women (average age of 63 years, range 50 to 79; 75.3% White, 15.1% Black, 6.1% Hispanic, 3.6% Other) after an average follow-up of 6.8 years, are presented in Table 3 below.
 
-TABLE 1.
+TABLE 3.
 RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN-ALONE SUBSTUDY OF WHI
 
 | Absolute Risk per 10,000 Women-years |  |  |  |
@@ -37,7 +37,7 @@ The absolute excess risk of events included in the “global index” was a nons
 There was no difference between the groups in terms of all-cause mortality.
 (See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
 
-Final adjudicated results for CHD events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) in women receiving CE alone compared with placebo (see Table 1).
+Final adjudicated results for CHD events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) in women receiving CE alone compared with placebo (see Table 3).
 
 The estrogen-plus-progestin substudy was also stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.2 years of treatment, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the “global index.”
@@ -46,10 +46,10 @@ The absolute excess risk of events included in the “global index” was 19 per
 For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were six more CHD events, seven more strokes, ten more PEs, and eight more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were seven fewer colorectal cancers and five fewer hip fractures.
 (See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
 
-Results of the estrogen-plus-progestin substudy, which included 16,608 women (average age of 63 years, range 50 to 79; 83.9% White, 6.8% Black, 5.4% Hispanic, 3.9% Other) are presented in Table 2 below.
+Results of the estrogen-plus-progestin substudy, which included 16,608 women (average age of 63 years, range 50 to 79; 83.9% White, 6.8% Black, 5.4% Hispanic, 3.9% Other) are presented in Table 4 below.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-TABLE 2.
+TABLE 4.
 RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN-PLUS-PROGESTIN SUBSTUDY OF WHI AT AN AVERAGE OF 5.6 YEARSa
 
 | Absolute Risk per 10,000 Women-years |  |  |  |
