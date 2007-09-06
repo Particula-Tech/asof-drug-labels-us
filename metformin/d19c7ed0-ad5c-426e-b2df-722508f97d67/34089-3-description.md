@@ -2,6 +2,8 @@
 
 JANUMET (sitagliptin/metformin HCl) tablets contain two oral antihyperglycemic drugs used in the management of type 2 diabetes: sitagliptin and metformin hydrochloride.
 
+Sitagliptin
+
 Sitagliptin is an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
 Sitagliptin is present in JANUMET tablets in the form of sitagliptin phosphate monohydrate.
 Sitagliptin phosphate monohydrate is described chemically as 7-[(3R)-3-amino-1-oxo-4-(2,4,5-trifluorophenyl)butyl]-5,6,7,8-tetrahydro-3-(trifluoromethyl)-1,2,4-triazolo[4,3-a]pyrazine phosphate (1:1) monohydrate with an empirical formula of C16H15F6N5O•H3PO4•H2O and a molecular weight of 523.32.

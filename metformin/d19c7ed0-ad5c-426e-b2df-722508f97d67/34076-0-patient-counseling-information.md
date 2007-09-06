@@ -28,11 +28,9 @@ A1C is especially useful for evaluating long-term glycemic control.
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin therapy, if this is suspected, Vitamin B12 deficiency should be excluded.
 
-Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: MOVA Pharmaceutical Corporation Caguas, Puerto Rico 00725
-
-9794102
+9794104
 
 US Patent No.: 6,699,871
 
@@ -41,7 +39,7 @@ US Patent No.: 6,699,871
 2Trademark of MERCK & CO., Inc., Whitehouse Station, New Jersey 08889 USA
 
 3GLUCOPHAGE® is a registered trademark of Merck Sante S.A.S, an associate of Merck KGaA of Darmstadt, Germany.
-Licensed to Bristol-Meyers Squibb Company.
+Licensed to Bristol-Myers Squibb Company.
 
 COPYRIGHT © 2007 MERCK & CO., Inc. All rights reserved
 
@@ -187,9 +185,10 @@ Taking JANUMET with meals can help reduce the common stomach side effects of met
 If you have unusual or unexpected stomach problems, talk with your doctor.
 Stomach problems that start up later during treatment may be a sign of something more serious.
 
-The following additional side effects have been reported in general use with sitagliptin, one of the medicines in JANUMET:
+The following additional side effects have been reported in general use with JANUMET or sitagliptin, one of the medicines in JANUMET:
 
 - allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing, rash, and hives.
+- Upper respiratory infection.
 
 These are not all the possible side effects of JANUMET.
 For more information, ask your doctor.
@@ -233,10 +232,8 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Issued April 2007
+Issued August 2007
 
-Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: MOVA Pharmaceutical Corporation Caguas, Puerto Rico 00725
-
-9794102
+9794104

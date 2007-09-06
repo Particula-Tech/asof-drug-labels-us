@@ -33,7 +33,7 @@ Such decrease, possibly due to interference with B12 absorption from the B12-int
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use of sitagliptin, one of the components of JANUMET.
+The following additional adverse reactions have been identified during postapproval use of JANUMET or sitagliptin, one of the components of JANUMET.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria.
+Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria; upper respiratory tract infection.
