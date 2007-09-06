@@ -19,10 +19,10 @@ Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
-|  | Drug-Related Increases |
+|  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18–24 | 5 additional cases |
-|  | Drug-Related Decreases |
+|  | Decreases Compared to Placebo |
 | 25–64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -89,7 +89,7 @@ Only rarely have sertraline patients been discontinued for weight loss.
 Sertraline hydrochloride has not been evaluated in patients with a seizure disorder.
 These patients were excluded from clinical studies during the product's premarket testing.
 No seizures were observed among approximately 3000 patients treated with sertraline hydrochloride in the development program for major depressive disorder.
-However, 4 patients out of approximately 1800 (220<18 years of age) exposed during the development program for obsessive-compulsive disorder experienced seizures, representing a crude incidence of 0.2%.
+However, 4 patients out of approximately 1800 (220 <18 years of age) exposed during the development program for obsessive-compulsive disorder experienced seizures, representing a crude incidence of 0.2%.
 Three of these patients were adolescents, two with a seizure disorder and one with a family history of seizure disorder, none of whom were receiving anticonvulsant medication.
 Accordingly, sertraline hydrochloride should be introduced with care in patients with a seizure disorder.
 

@@ -123,7 +123,7 @@ TABLE 3 MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN PLACEBO-CO
 | Abdominal Pain | – | – | – | – | – | – | – | 1% |
 | Agitation | – | 1% | – | 2% | – | – | – | – |
 | Anxiety | – | – | – | – | – | – | – | 2% |
-| Diarrhea/Loose Stools | 2% | 2% | 2% | 1% | – | 2% | – | – |
+| Diarrhea/ Loose Stools | 2% | 2% | 2% | 1% | – | 2% | – | – |
 | Dizziness | – | – | 1% | – | – | – | – | – |
 | Dry Mouth | – | 1% | – | – | – | – | – | – |
 | Dyspepsia | – | – | – | 1% | – | – | – | – |

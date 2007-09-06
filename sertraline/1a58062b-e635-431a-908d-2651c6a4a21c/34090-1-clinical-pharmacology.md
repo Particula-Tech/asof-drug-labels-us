@@ -107,7 +107,7 @@ Patients receiving sertraline hydrochloride experienced a mean reduction of appr
 Study 2 was a 12-week fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
 Patients receiving sertraline hydrochloride doses of 50 and 200 mg/day experienced mean reductions of approximately 6 points on the YBOCS total score which were significantly greater than the approximately 3 point reduction in placebo-treated patients.
 
-Study 3 was a 12-week study with flexible dosing of sertraline hydrochloridein a range of 50 to 200 mg/day; the mean dose for completers was 185 mg/day.
+Study 3 was a 12-week study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day; the mean dose for completers was 185 mg/day.
 Patients receiving sertraline hydrochloride experienced a mean reduction of approximately 7 points on the YBOCS total score which was significantly greater than the mean reduction of approximately 4 points in placebo-treated patients.
 
 Analyses for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or sex.
@@ -158,7 +158,8 @@ The mean duration of PTSD for these patients was 12 years (Studies 1 and 2 combi
 Studies 1 and 2 were 12-week flexible dose studies.
 Sertraline hydrochloride was initiated at 25 mg/day for the first week, and patients were then dosed in the range of 50–200 mg/day on the basis of clinical response and toleration.
 The mean sertraline hydrochloride dose for completers was 146 mg/day and 151 mg/day, respectively for Studies 1 and 2.
-Study outcome was assessed by the Clinician-Administered PTSD Scale Part 2 (CAPS) which is a multi-item instrument that measures the three PTSD diagnostic symptom clusters of reexperiencing/intrusion, avoidance/numbing, and hyperarousal as well as the patient-rated Impact of Event Scale (IES) which measures intrusion and avoidance symptoms. sertraline hydrochloride was shown to be significantly more effective than placebo on change from baseline to endpoint on the CAPS, IES and on the Clinical Global Impressions (CGI) Severity of Illness and Global Improvement scores.
+Study outcome was assessed by the Clinician-Administered PTSD Scale Part 2 (CAPS) which is a multi-item instrument that measures the three PTSD diagnostic symptom clusters of reexperiencing/intrusion, avoidance/numbing, and hyperarousal as well as the patient-rated Impact of Event Scale (IES) which measures intrusion and avoidance symptoms.
+Sertraline hydrochloride was shown to be significantly more effective than placebo on change from baseline to endpoint on the CAPS, IES and on the Clinical Global Impressions (CGI) Severity of Illness and Global Improvement scores.
 In two additional placebo-controlled PTSD trials, the difference in response to treatment between patients receiving sertraline hydrochloride and patients receiving placebo was not statistically significant.
 One of these additional studies was conducted in patients similar to those recruited for Studies 1 and 2, while the second additional study was conducted in predominantly male veterans.
 

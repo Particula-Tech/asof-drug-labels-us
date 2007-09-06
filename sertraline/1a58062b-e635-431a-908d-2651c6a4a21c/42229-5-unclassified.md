@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0340-6.0
+LAB—0340—7.0
 
-June 2007
+August 2007

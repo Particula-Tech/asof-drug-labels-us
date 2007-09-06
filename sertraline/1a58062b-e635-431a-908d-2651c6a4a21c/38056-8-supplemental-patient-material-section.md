@@ -9,31 +9,31 @@ Talk to your, or your family member's healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression, and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults when the medicine is first started.
+- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 - 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 - 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is first started or when the dose is changed.
+    This is very important when an antidepressant medicine is started or when the dose is changed.
   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
   - Keep all follow-up visits with the healthcare provider as scheduled.
     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms especially if they are new, worse, or worry you:
 
-- Thoughts about suicide or dying
-- Attempts to commit suicide
-- New or worse depression
-- New or worse anxiety
-- Feeling very agitated or restless
-- Panic attacks
-- Difficulty sleeping (insomnia)
-- New or worse irritability
-- Acting aggressive, being angry, or violent
-- Acting on dangerous impulses
-- An extreme increase in activity and talking
-- Other unusual changes in behavior or mood
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling very agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
