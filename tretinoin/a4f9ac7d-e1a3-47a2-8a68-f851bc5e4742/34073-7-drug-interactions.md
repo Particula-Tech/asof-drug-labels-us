@@ -1,0 +1,5 @@
+# 7 DRUG INTERACTIONS
+
+When treating with Atralin Gel, caution should be exercised with the use of concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices, or lime.
+Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid.
+Allow the effects of such preparations to subside before use of Atralin Gel is begun.
