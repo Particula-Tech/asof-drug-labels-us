@@ -89,7 +89,7 @@ Patent Numbers: 5,843,946; 6,248,775; 6,335,460 and other US patents pending
 © Ortho Biotech Products, L.P.
 2006
 
-October 2006
+Revised: October 2006
 
 10101701
 
@@ -100,6 +100,6 @@ Manufactured for Tibotec, Inc. by: JOLLC, Gurabo, Puerto Rico Distributed by: Ti
 © Ortho Biotech Products, L.P.
 2006
 
-October 2006
+Revised: October 2006
 
 10101701
