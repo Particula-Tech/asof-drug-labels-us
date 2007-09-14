@@ -25,4 +25,4 @@ PHARMACIST: Dispense a Medication Guide with each prescription.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-REVISED JUNE 2007 CDAM:R11mc
+REVISED AUGUST 2007 CDAM:R12mc

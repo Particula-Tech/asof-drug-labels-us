@@ -19,10 +19,10 @@ Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality Per 1,000 Patients Treated |
 | --- | --- |
-|  | Drug-Related Increases |
+| Increases Compared to Placebo |  |
 | < 18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
-|  | Drug-Related Decreases |
+| Decreases Compared to Placebo |  |
 | 25 to 64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
@@ -64,7 +64,22 @@ The additive effects may produce a harmful level of sedation and CNS depression.
 
 Patients receiving chlordiazepoxide and amitriptyline hydrochloride should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
-## Pregnancy
+## General
+
+Because of the atropine like action of the amitriptyline component, great care should be used in treating patients with a history of urinary retention or angle closure glaucoma.
+In patients with glaucoma, even average doses may precipitate an attack.
+Severe constipation may occur in patients taking tricyclic antidepressants in combination with anticholinergic type drugs.
+
+Patients with cardiovascular disorders should be watched closely.
+Tricyclic antidepressant drugs, particularly when given in high doses, have been reported to produce arrhythmias, sinus tachycardia and prolongation of conduction time.
+Myocardial infarction and stroke have been reported in patients receiving drugs of this class.
+
+Because of the sedative effects of chlordiazepoxide and amitriptyline hydrochloride, patients should be cautioned about combined effects with alcohol or other CNS depressants.
+The additive effects may produce a harmful level of sedation and CNS depression.
+
+Patients receiving chlordiazepoxide and amitriptyline hydrochloride should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
+
+## Usage in Pregnancy
 
 Safe use of chlordiazepoxide and amitriptyline hydrochloride during pregnancy and lactation has not been established.
 Because of the chlordiazepoxide component, please note the following:
@@ -89,6 +104,25 @@ The usual precautions should be observed when treating patients with impaired re
 
 Patients with suicidal ideation should not have easy access to large quantities of the drug.
 The possibility of suicide in depressed patients remains until significant remission occurs.
+
+## Information for Patients
+
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with chlordiazepoxide and amitriptyline and should counsel them in its appropriate use.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for chlordiazepoxide and amitriptyline.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+The complete text of the Medication Guide is reprinted at the end of this document.
+
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking chlordiazepoxide and amitriptyline.
+
+### Clinical Worsening and Suicide Risk
+
+Patients, their families and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day to day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+
+To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
 
 ## Essential Laboratory Tests
 
@@ -157,22 +191,3 @@ Sedating drugs may cause confusion and over sedation in the elderly; elderly pat
 Clinical studies of chlordiazepoxide and amitriptyline hydrochloride tablets did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
-
-## Information for Patients
-
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with chlordiazepoxide and amitriptyline and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for chlordiazepoxide and amitriptyline.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking chlordiazepoxide and amitriptyline.
-
-### Clinical Worsening and Suicide Risk
-
-Patients, their families and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day to day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
-
-To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
