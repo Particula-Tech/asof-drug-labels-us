@@ -13,4 +13,4 @@ Dispense in containers with child-resistant closure.
 
 CARACO PHARMACEUTICAL LABORATORIES, LTD. DETROIT, MI 48202
 
-C.S No: 5300T02
+C.S No: 5300T03

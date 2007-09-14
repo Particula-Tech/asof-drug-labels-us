@@ -29,16 +29,26 @@ Tizanidine metabolites are not known to be active; their half-lives range from 2
 
 Following single and multiple oral dosing of 14C-tizanidine, an average of 60% and 20% of total radioactivity was recovered in the urine and feces, respectively.
 
-A single dose of two 4 mg tablets were administered under fed and fasting conditions in an open label, four period, randomized crossover study in 96 human volunteers, of whom 81 were eligible for the statistical analysis.
+### Pharmacokinetic differences between Tizanidine hydrochloride Capsules™ and Tizanidine hydrochloride® tablets
 
-Following oral administration of the tablet (in the fasted state), tizanidine has peak plasma concentrations occurring 1.0 hours after dosing with a half-life of approximately 2 hours.
+Tizanidine hydrochloride Capsules™ and Tizanidine hydrochloride® tablets are bioequivalent to each other under fasted conditions, but not under fed conditions.
+
+A single dose of either two 4 mg tablets or two 4 mg capsules was administered under fed and fasting conditions in an open label, four period, randomized crossover study in 96 human volunteers, of whom 81 were eligible for the statistical analysis.
+
+Following oral administration of either the tablet or capsule (in the fasted state), tizanidine has peak plasma concentrations occurring 1.0 hours after dosing with a half-life of approximately 2 hours.
 
 When two 4 mg tablets are administered with food the mean maximal plasma concentration is increased by approximately 30%, and the median time to peak plasma concentration is increased by 25 minutes, to 1 hour and 25 minutes.
 
-Food also increases the extent of absorption of the tablets.
-(See Figures 1 and 2).
+In contrast, when two 4 mg capsules are administered with food the mean maximal plasma concentration is decreased by 20%, the median time to peak plasma concentration is increased by 2 hours to 3 hours.
+Consequently, the mean Cmax for the capsule when administered with food is approximately 2/3’s the Cmax for the tablet when administered with food.
 
-Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Tizanadine Tablets (2 x 4 mg) Under Fasted and Fed Conditions (Linear Scale).
+Food also increases the extent of absorption for both the tablets and capsules.
+The increase with the tablet (~30%) is significantly greater than with the capsule (~10%).
+Consequently when each is administered with food, the amount absorbed from the capsule is about 80% of the amount absorbed from the tablet (See Figure 1).
+Administration of the capsule contents sprinkled on applesauce is not bioequivalent to administration of an intact capsule under fasting conditions.
+Administration of the capsule contents on applesauce results in a 15% - 20% increase in Cmax and AUC of tizanidine compared to administration of an intact capsule while fasting, and a 15 minute decrease in the median lag time and time to peak concentration.
+
+Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Tizanidine hydrochloride Tablets and Capsules (2 × 4 mg) Under Fasted and Fed Conditions
 
 ### SPECIAL POPULATIONS
 
