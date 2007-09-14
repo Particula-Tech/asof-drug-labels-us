@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Butalbital, Aspirin, and Caffeine Capsules are contraindicated under the following conditions:
+Butalbital, aspirin, and caffeine capsules are contraindicated under the following conditions:
 
 1. Hypersensitivity or intolerance to aspirin, caffeine, or butalbital.
 2. Patients with a hemorrhagic diathesis (e.g., hemophilia, hypoprothrombinemia, von Willebrand's disease, the thrombocytopenias, thrombasthenia and other ill-defined hereditary platelet dysfunctions, severe vitamin K deficiency and severe liver damage).

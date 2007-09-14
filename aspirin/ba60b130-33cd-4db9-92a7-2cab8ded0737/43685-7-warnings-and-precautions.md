@@ -6,7 +6,7 @@ It should be ascertained if the patient is allergic to aspirin, although a speci
 Significant bleeding can result from aspirin therapy in patients with peptic ulcer or other gastrointestinal lesions, and in patients with bleeding disorders.
 Aspirin administered preoperatively may prolong the bleeding time.
 Butalbital is habit-forming and potentially abusable.
-Consequently, the extended use of Butalbital, Aspirin, and Caffeine Capsules is not recommended.
+Consequently, the extended use of butalbital, aspirin, and caffeine capsules is not recommended.
 Results from epidemiologic studies indicate an association between aspirin and Reye's Syndrome.
 Caution should be used in administering this product to children, including teenagers, with chicken pox or flu.
 
@@ -14,7 +14,7 @@ Caution should be used in administering this product to children, including teen
 
 ## General
 
-Butalbital, Aspirin, and Caffeine Capsules should be prescribed with caution for certain special-risk patients such as the elderly or debilitated, and those with severe impairment of renal or hepatic function, coagulation disorders, head injuries, elevated intracranial pressure, acute abdominal conditions, hypothyroidism, urethral stricture, Addison's disease, or prostatic hypertrophy.
+Butalbital, aspirin, and caffeine capsules should be prescribed with caution for certain special-risk patients such as the elderly or debilitated, and those with severe impairment of renal or hepatic function, coagulation disorders, head injuries, elevated intracranial pressure, acute abdominal conditions, hypothyroidism, urethral stricture, Addison's disease, or prostatic hypertrophy.
 
 Aspirin should be used with caution in patients on anticoagulant therapy and in patients with underlying hemostatic defects, and extreme caution in the presence of peptic ulcer.
 
@@ -23,12 +23,12 @@ Hypersensitivity to aspirin is particularly likely in patients with nasal polyps
 
 ## Information for Patients
 
-Patients should be informed that Butalbital, Aspirin, and Caffeine Capsules contain aspirin and should not be taken by patients with an aspirin allergy.
+Patients should be informed that butalbital, aspirin, and caffeine capsules contain aspirin and should not be taken by patients with an aspirin allergy.
 
-Butalbital, Aspirin, and Caffeine Capsules may impair the mental and/or physical abilities required for performance of potentially hazardous tasks such as driving a car or operating machinery.
-Such tasks should be avoided while taking Butalbital, Aspirin, and Caffeine Capsules.
+Butalbital, aspirin, and caffeine capsules may impair the mental and/or physical abilities required for performance of potentially hazardous tasks such as driving a car or operating machinery.
+Such tasks should be avoided while taking butalbital, aspirin, and caffeine capsules.
 
-Alcohol and other CNS depressants may produce an additive CNS depression when taken with Butalbital, Aspirin, and Caffeine Capsules and should be avoided.
+Alcohol and other CNS depressants may produce an additive CNS depression when taken with butalbital, aspirin, and caffeine capsules and should be avoided.
 
 Butalbital may be habit-forming.
 Patients should take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed.
@@ -43,15 +43,15 @@ The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibit
 
 In patients receiving concomitant corticosteroids and chronic use of aspirin, withdrawal of corticosteroids may result in salicylism because corticosteroids enhance renal clearance of salicylates and their withdrawal is followed by return to normal rates of renal clearance.
 
-Butalbital, Aspirin, and Caffeine Capsules may enhance the effects of:
+Butalbital, aspirin, and caffeine capsules may enhance the effects of:
 
 1. Oral anticoagulants, causing bleeding by inhibiting prothrombin formation in the liver and displacing anticoagulants from plasma protein binding sites.
-2. Oral antidiabetic agents and insulin, causing hypoglycemia by contributing an additive effect, if dosage of Butalbital, Aspirin, and Caffeine Capsules exceeds maximum recommended daily dosage.
+2. Oral antidiabetic agents and insulin, causing hypoglycemia by contributing an additive effect, if dosage of butalbital, aspirin, and caffeine capsules exceeds maximum recommended daily dosage.
 3. 6-mercaptopurine and methotrexate, causing bone marrow toxicity and blood dyscrasias by displacing these drugs from secondary binding sites, and, in the case of methotrexate, also reducing its excretion.
 4. Non-steroidal anti-inflammatory agents, increasing the risk of peptic ulceration and bleeding by contributing additive effects.
 5. Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression.
 
-Butalbital, Aspirin, and Caffeine Capsules may diminish the effects of:
+Butalbital, aspirin, and caffeine capsules may diminish the effects of:
 
 Uricosuric agents such as probenecid and sulfinpyrazone, reducing their effectiveness in the treatment of gout.
 Aspirin competes with these agents for protein binding sites.
@@ -73,9 +73,9 @@ No adequate studies have been conducted in animals to determine whether butalbit
 
 ### Teratogenic Effects
 
-Pregnancy Category C. Animal reproduction studies have not been conducted with Butalbital, Aspirin, and Caffeine Capsules.
-It is also not known whether Butalbital, Aspirin, and Caffeine Capsules can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Butalbital, Aspirin, and Caffeine Capsules should be given to a pregnant woman only when clearly needed.
+Pregnancy Category C. Animal reproduction studies have not been conducted with butalbital, aspirin, and caffeine capsules.
+It is also not known whether butalbital, aspirin, and caffeine capsules can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
+Butalbital, aspirin, and caffeine capsules should be given to a pregnant woman only when clearly needed.
 
 ### Nonteratogenic Effects
 
@@ -97,7 +97,7 @@ Ingestion of aspirin prior to delivery may prolong delivery or lead to bleeding 
 ## Nursing Mothers
 
 Aspirin, caffeine, and barbiturates are excreted in breast milk in small amounts, but the significance of their effects on nursing infants is not known.
-Because of potential for serious adverse reactions in nursing infants from Butalbital, Aspirin, and Caffeine Capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of potential for serious adverse reactions in nursing infants from butalbital, aspirin, and caffeine capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 

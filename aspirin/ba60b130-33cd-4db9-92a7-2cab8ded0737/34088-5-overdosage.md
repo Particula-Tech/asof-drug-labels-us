@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
-The toxic effects of acute overdosage of Butalbital, Aspirin, and Caffeine Capsules are attributable mainly to its barbiturate component, and, to a lesser extent, aspirin.
-Because toxic effects of caffeine occur in very high dosages only, the possibility of significant caffeine toxicity from Butalbital, Aspirin, and Caffeine Capsules overdosage is unlikely.
+The toxic effects of acute overdosage of butalbital, aspirin, and caffeine capsules are attributable mainly to its barbiturate component, and, to a lesser extent, aspirin.
+Because toxic effects of caffeine occur in very high dosages only, the possibility of significant caffeine toxicity from butalbital, aspirin, and caffeine capsules overdosage is unlikely.
 
 ## Signs and Symptoms
 
@@ -18,17 +18,17 @@ A cuffed endotracheal tube should be inserted before gastric lavage of the uncon
 Diuresis, alkalinization of the urine, and correction of electrolyte disturbances should be accomplished through administration of intravenous fluids such as 1% sodium bicarbonate in 5% dextrose in water.
 Meticulous attention should be given to maintaining adequate pulmonary ventilation.
 The value of vasopressor agents such as Norepinephrine or Phenylephrine Hydrochloride in treating hypotension is questionable since they increase vasoconstriction and decrease blood flow.
-However, if prolonged support of blood pressure is required, Norepinephrine Bitartrate (Levophed®)* may be given I.V. with the usual precautions and serial blood pressure monitoring.
+However, if prolonged support of blood pressure is required, Norepinephrine Bitartrate (Levophed®)Levophed is a registered Trademark of Sanofi Winthrop Pharmaceuticals. may be given I.V. with the usual precautions and serial blood pressure monitoring.
 In severe cases of intoxication, peritoneal dialysis, hemodialysis, or exchange transfusion may be lifesaving.
 Hypoprothrombinemia should be treated with Vitamin K, intravenously.
 
 Up-to-date information about the treatment of overdose can often be obtained from a Certified Regional Poison Control Center.
-Telephone numbers of Certified Regional Poison Control Centers are listed in the Physicians' Desk Reference®**.
+Telephone numbers of Certified Regional Poison Control Centers are listed in the Physicians' Desk Reference®Trademark of Medical Economics Company, Inc..
 
 ## Toxic and Lethal Doses
 
-Butalbital: toxic dose 1.0 g (20 capsules of Butalbital, Aspirin, and Caffeine Capsules)
+Butalbital: toxic dose 1 g (20 capsules of butalbital, aspirin, and caffeine capsules)
 
-Aspirin: toxic blood level greater than 30 mg/100 mL; lethal dose 10-30 g
+Aspirin: toxic blood level greater than 30 mg/100 mL; lethal dose 10 to 30 g
 
-Caffeine: toxic dose 1.0 g (25 capsules of Butalbital, Aspirin, and Caffeine Capsules)
+Caffeine: toxic dose 1 g (25 capsules of butalbital, aspirin, and caffeine capsules)

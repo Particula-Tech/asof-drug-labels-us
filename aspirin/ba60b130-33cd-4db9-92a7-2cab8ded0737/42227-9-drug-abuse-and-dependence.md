@@ -2,7 +2,7 @@
 
 ## Controlled Substance
 
-Butalbital, Aspirin, and Caffeine Capsules is controlled by the Drug Enforcement Administration and is classified under Schedule III.
+Butalbital, aspirin, and caffeine capsules are controlled by the Drug Enforcement Administration and are classified under Schedule III.
 
 ## Abuse and Dependence
 

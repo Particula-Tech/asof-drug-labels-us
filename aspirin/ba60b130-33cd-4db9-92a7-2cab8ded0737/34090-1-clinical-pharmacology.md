@@ -1,11 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
-Pharmacologically, Butalbital, Aspirin, and Caffeine Capsules combine the analgesic properties of aspirin with the anxiolytic and muscle relaxant properties of butalbital.
+Pharmacologically, butalbital, aspirin, and caffeine capsules combine the analgesic properties of aspirin with the anxiolytic and muscle relaxant properties of butalbital.
 
-The clinical effectiveness of Butalbital, Aspirin, and Caffeine Capsules in tension headache has been established in double-blind, placebo-controlled, multi-clinic trials.
-A factorial design study compared Butalbital, Aspirin, and Caffeine Capsules with each of its major components.
-This study demonstrated that each component contributes to the efficacy of Butalbital, Aspirin, and Caffeine Capsules in the treatment of the target symptoms of tension headache (headache pain, psychic tension, and muscle contraction in the head, neck, and shoulder region).
-For each symptom and the symptom complex as a whole, Butalbital, Aspirin, and Caffeine Capsules were shown to have significantly superior clinical effects to either component alone.
+The clinical effectiveness of butalbital, aspirin, and caffeine capsules in tension headache has been established in double-blind, placebo-controlled, multi-clinic trials.
+A factorial design study compared butalbital, aspirin, and caffeine capsules with each of its major components.
+This study demonstrated that each component contributes to the efficacy of butalbital, aspirin, and caffeine capsules in the treatment of the target symptoms of tension headache (headache pain, psychic tension, and muscle contraction in the head, neck, and shoulder region).
+For each symptom and the symptom complex as a whole, butalbital, aspirin, and caffeine capsules were shown to have significantly superior clinical effects to either component alone.
 
 ## Pharmacokinetics
 
@@ -18,7 +18,7 @@ These factors affect not necessarily the extent of absorption of total salicylat
 
 During the absorption process and after absorption, aspirin is mainly hydrolyzed to salicylic acid and distributed to all body tissues and fluids, including fetal tissues, breast milk, and the central nervous system (CNS).
 Highest concentrations are found in plasma, liver, renal cortex, heart, and lung.
-In plasma, about 50%-80% of the salicylic acid and its metabolites are loosely bound to plasma proteins.
+In plasma, about 50% to 80% of the salicylic acid and its metabolites are loosely bound to plasma proteins.
 
 The clearance of total salicylates is subject to saturable kinetics; however, first-order elimination kinetics are still a good approximation for doses up to 650 mg.
 The plasma half-life for aspirin is about 12 minutes and for salicylic acid and/or total salicylates is about 3.0 hours.
@@ -28,7 +28,7 @@ The renal clearance is greatly augmented by an alkaline urine as is produced by 
 
 The biotransformation of aspirin occurs primarily in the hepatocytes.
 The major metabolites are salicyluric acid (75%), the phenolic and acyl glucuronides of salicylate (15%), and gentisic and gentisuric acid (1%).
-The bioavailability of the aspirin component of Butalbital, Aspirin, and Caffeine Capsules is equivalent to that of a solution except for a slower rate of absorption.
+The bioavailability of the aspirin component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a slower rate of absorption.
 A peak concentration of 8.80 mcg/mL was obtained at 40 minutes after a 650 mg dose.
 
 See OVERDOSAGE for toxicity information.
@@ -39,16 +39,16 @@ Butalbital is well absorbed from the gastrointestinal tract and is expected to d
 Barbiturates, in general, may appear in breast milk and readily cross the placental barrier.
 They are bound to plasma and tissue proteins to a varying degree and binding increases directly as a function of lipid solubility.
 
-Elimination of butalbital is primarily via the kidney (59%-88% of the dose) as unchanged drug or metabolites.
+Elimination of butalbital is primarily via the kidney (59% to 88% of the dose) as unchanged drug or metabolites.
 The plasma half-life is about 35 hours.
 Urinary excretion products included parent drug (about 3.6% of the dose), 5-isobutyl-5-(2,3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy-2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
 Of the material excreted in the urine, 32% was conjugated.
 
-The bioavailability of the butalbital component of Butalbital, Aspirin, and Caffeine Capsules is equivalent to that of a solution except for a decrease in the rate of absorption.
+The bioavailability of the butalbital component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a decrease in the rate of absorption.
 A peak concentration of 2020 ng/mL is obtained at about 1.5 hours after a 100 mg dose.
-The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5-20 mcg/mL.
+The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5 to 20 mcg/mL.
 
-This falls within the range of plasma protein binding (20%-45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
+This falls within the range of plasma protein binding (20% to 45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
 The plasma-to-blood concentration ratio was almost unity indicating that there is no preferential distribution of butalbital into either plasma or blood cells.
 
 See OVERDOSAGE for toxicity information.
@@ -62,7 +62,7 @@ The plasma half-life is about 3.0 hours.
 Hepatic biotransformation prior to excretion results in about equal amounts of 1-methylxanthine and 1-methyluric acid.
 Of the 70% of the dose that has been recovered in the urine, only 3% was unchanged drug.
 
-The bioavailability of the caffeine component for Butalbital, Aspirin, and Caffeine Capsules is equivalent to that of a solution except for a slightly longer time to peak.
+The bioavailability of the caffeine component for butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a slightly longer time to peak.
 A peak concentration of 1660 ng/mL was obtained in less than an hour for an 80 mg dose.
 
 See OVERDOSAGE for toxicity information.
