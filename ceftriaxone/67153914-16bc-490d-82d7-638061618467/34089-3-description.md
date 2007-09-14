@@ -6,9 +6,8 @@ The DUPLEX Container is a flexible dual chamber container.
 The drug chamber is filled with ceftriaxone sodium, a sterile, semisynthetic, broad-spectrum cephalosporin antibiotic for intravenous administration.
 Ceftriaxone sodium is (6R,7R)-7-[2-(2-Amino-4-thiazolyl)glyoxylamido]-8-oxo-3-[[(1,2,5,6-tetrahydro-2-methyl-5,6-dioxo-as-triazin-3-yl)thio]methyl]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid, 72-(Z)-(O-methyloxime), disodium salt, sesquaterhydrate.
 
-Ceftriaxone Sodium has the following structural formula:
-
-The chemical formula of ceftriaxone sodium is C18H16N8Na2O7S3•3.5H2O, representing a molecular weight of 661.60.
+The chemical formula of ceftriaxone sodium is C18H16N8Na2O7S3•3.5H2O.
+It has a calculated molecular weight of 661.60 and the following structural formula:
 
 Ceftriaxone Sodium is supplied as a dry powder form equivalent to either 1 g or 2 g of ceftriaxone.
 Ceftriaxone Sodium is a white to yellowish-orange crystalline powder which is readily soluble in water, sparingly soluble in methanol and very slightly soluble in ethanol.

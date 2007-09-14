@@ -44,12 +44,8 @@ Such use would result in air embolism due to residual air being drawn from the p
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter before administration.
 
-## Directions for Use of DUPLEX® Drug Delivery System
+## Directions for Use of DUPLEX Drug Delivery System
 
-Removal from Multi-Pack Tray
-
-- Tear tape strips from one or both sides of the tray.
-  Remove top tray.
 - To avoid inadvertent activation, DUPLEX Container should remain in the folded position until activation is intended.
 
 Patient Labeling and Drug Powder/Diluent Inspection
@@ -64,7 +60,7 @@ Patient Labeling and Drug Powder/Diluent Inspection
 - To inspect the drug powder for foreign matter or discoloration, peel foil strip from drug chamber.
   (See Diagram 2.)
 - Protect from light after removal of foil strip.
-  Note: If foil strip is removed, product must be used within 7 days, but not beyond the labeled expiration date.
+  NOTE: If foil strip is removed, product must be used within 7 days, but not beyond the labeled expiration date.
 - The product should be re-folded and the side tab latched until ready to activate.
 
 Reconstitution (Activation)
@@ -75,13 +71,13 @@ Reconstitution (Activation)
   To activate, squeeze the folded diluent chamber until the seal between the diluent and powder opens, releasing diluent into the drug powder chamber.
   (See Diagram 3.)
 - Agitate the liquid-powder mixture until the drug powder is completely dissolved.
-  Note: Following reconstitution (activation), product must be used within 24 hours if stored at room temperature or within 7 days if stored under refrigeration.
+  NOTE: Following reconstitution (activation), product must be used within 24 hours if stored at room temperature or within 7 days if stored under refrigeration.
 
 Administration
 
 - Visually inspect the reconstituted solution for particulate matter.
 - Point the set port in a downwards direction.
-  Starting at the hanger tab end, fold the Duplex Container just below the solution meniscus trapping all air above the fold.
+  Starting at the hanger tab end, fold the DUPLEX® Container just below the solution meniscus trapping all air above the fold.
   Squeeze the folded DUPLEX Container until the seal between reconstituted drug solution and set port opens, releasing liquid to set port.
   (See Diagram 4.)
 - Prior to attaching the IV set, check for minute leaks by squeezing container firmly.

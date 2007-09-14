@@ -5,6 +5,13 @@ THIS PRODUCT SHOULD BE GIVEN CAUTIOUSLY TO PENICILLIN-SENSITIVE PATIENTS.
 ANTIBIOTICS SHOULD BE ADMINISTERED WITH CAUTION TO ANY PATIENT WHO HAS DEMONSTRATED SOME FORM OF ALLERGY, PARTICULARLY TO DRUGS.
 SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE THE USE OF SUBCUTANEOUS EPINEPHRINE AND OTHER EMERGENCY MEASURES.
 
+Ceftriaxone must not be mixed or administered simultaneously with calcium-containing solutions or products, even via different infusion lines.
+
+Calcium-containing solutions or products must not be administered within 48 hours of last administration of ceftriaxone.
+
+Cases of fatal reactions with calcium-ceftriaxone precipitates in lung and kidneys in both term and premature neonates have been described.
+In some cases the infusion lines and times of administration of ceftriaxone and calcium-containing solutions differed (see CONTRAINDICATIONS and ADVERSE REACTIONS).
+
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ceftriaxone for Injection and Dextrose Injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
@@ -54,14 +61,14 @@ Use only if solution is clear and container and seals are intact.
 
 ## Information for Patients
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
-If this occurs, patients should contact their physician as soon as possible.
-
 Patients should be counseled that antibacterial drugs including Ceftriaxone for Injection and Dextrose Injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When Ceftriaxone for Injection and Dextrose Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ceftriaxone for Injection and Dextrose Injection or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -108,3 +115,4 @@ To prevent unintentional overdose, this product should not be used in pediatric 
 Safety and effectiveness of Ceftriaxone for Injection and Dextrose Injection in neonates, infants and pediatric patients have been established for the dosages described in the DOSAGE AND ADMINISTRATION section.
 In vitro studies have shown that ceftriaxone, like some other cephalosporins, can displace bilirubin from serum albumin.
 Ceftriaxone for Injection and Dextrose Injection should not be administered to hyperbilirubinemic neonates, especially prematures.
+(see CONTRAINDICATIONS).

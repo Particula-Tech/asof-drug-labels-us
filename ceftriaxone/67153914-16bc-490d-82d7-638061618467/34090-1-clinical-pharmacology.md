@@ -7,7 +7,7 @@ Ceftriaxone Plasma Concentrations After Single Dose Administration
 
 |  | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 16 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dose/Route | Average Plasma Concentrations (µg/mL) |  |  |  |  |  |  |  |  |
+| Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 | 0.5 g IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
 | 1 g IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
 | 2 g IV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
@@ -21,16 +21,16 @@ Urinary Concentrations of Ceftriaxone After Single Dose Administration
 
 |  | 0–2 hr | 2–4 hr | 4–8 hr | 8–12 hr | 12–24 hr | 24–48 hr |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dose/Route | Average Urinary Concentrations (µg/mL) |  |  |  |  |  |
+| Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
 | 0.5 g IV | 526 | 366 | 142 | 87 | 70 | 15 |
 | 1 g IV | 995 | 855 | 293 | 147 | 132 | 32 |
 | 2 g IV | 2692 | 1976 | 757 | 274 | 198 | 40 |
 
 Thirty-three percent to 67% of a ceftriaxone dose was excreted in the urine as unchanged drug and the remainder was secreted in the bile and ultimately found in the feces as microbiologically inactive compounds.
-After a 1 g IV dose, average concentrations of ceftriaxone, determined from 1 to 3 hours after dosing, were 581 µg/mL in the gallbladder bile, 788 µg/mL in the common duct bile, 898 µg/mL in the cystic duct bile, 78.2 µg/g in the gallbladder wall and 62.1 µg/mL in the concurrent plasma.
+After a 1 g IV dose, average concentrations of ceftriaxone, determined from 1 to 3 hours after dosing, were 581 mcg/mL in the gallbladder bile, 788 mcg/mL in the common duct bile, 898 mcg/mL in the cystic duct bile, 78.2 mcg/g in the gallbladder wall and 62.1 mcg/mL in the concurrent plasma.
 
 Over a 0.15 to 3 g dose range in healthy adult subjects, the values of elimination half-life ranged from 5.8 to 8.7 hours; apparent volume of distribution from 5.78 to 13.5 L; plasma clearance from 0.58 to 1.45 L/hour; and renal clearance from 0.32 to 0.73 L/hour.
-Ceftriaxone is reversibly bound to human plasma proteins, and the binding decreased from a value of 95% bound at plasma concentrations of <25 µg/mL to a value of 85% bound at 300 µg/mL.
+Ceftriaxone is reversibly bound to human plasma proteins, and the binding decreased from a value of 95% bound at plasma concentrations of <25 mcg/mL to a value of 85% bound at 300 mcg/mL.
 Ceftriaxone crosses the blood placenta barrier.
 
 The average values of maximum plasma concentration, elimination half-life, plasma clearance and volume of distribution after a 50 mg/kg IV dose and after a 75 mg/kg IV dose in pediatric patients suffering from bacterial meningitis are shown in Table 3.
@@ -41,12 +41,12 @@ Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients With Men
 
 |  | 50 mg/kg IV | 75 mg/kg IV |
 | --- | --- | --- |
-| Maximum Plasma Concentrations (µg/mL) | 216 | 275 |
+| Maximum Plasma Concentrations (mcg/mL) | 216 | 275 |
 | Elimination Half-life (hr) | 4.6 | 4.3 |
 | Plasma Clearance (mL/hr/kg) | 49 | 60 |
 | Volume of Distribution (mL/kg) | 338 | 373 |
-| CSF Concentration—inflamed meninges (µg/mL) | 5.6 | 6.4 |
-| Range (µg/mL) | 1.3 – 18.5 | 1.3 – 44 |
+| CSF Concentration—inflamed meninges (mcg/mL) | 5.6 | 6.4 |
+| Range (mcg/mL) | 1.3 – 18.5 | 1.3 – 44 |
 | Time after dose (hr) | 3.7 (± 1.6) | 3.3 (± 1.4) |
 
 Compared to that in healthy adult subjects, the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal impairment or hepatic dysfunction (Table 4); therefore, dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 g per day.
@@ -96,7 +96,7 @@ Bacteroides fragilis Clostridium species Peptostreptococcus species
 NOTE: Most strains of Clostridium difficile are resistant.
 
 The following in vitro data are available, but their clinical significance is unknown.
-Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤8 µg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤8 mcg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Aerobic gram-negative microorganisms
 
@@ -119,7 +119,7 @@ These MICs provide estimates of the susceptibility of bacteria to antimicrobial 
 The MICs should be determined using a standardized procedure.1 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of ceftriaxone powder.
 The MIC values should be interpreted according to the following criteria2 for aerobic organisms other than Haemophilus spp, Neisseria gonorrhoeae, and Streptococcus spp, including Streptococcus pneumoniae:
 
-| MIC (µg/mL) | Interpretation |
+| MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤8 | (S) Susceptible |
 | 16 – 32 | (I) Intermediate |
@@ -127,7 +127,7 @@ The MIC values should be interpreted according to the following criteria2 for ae
 
 The following interpretive criteria2 should be used when testing Haemophilus species using Haemophilus Test Media (HTM).
 
-| MIC (µg/mL) | Interpretation |
+| MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤2 | (S) Susceptible |
 
@@ -136,7 +136,7 @@ Strains yielding results suggestive of a "Nonsusceptible" category should be sub
 
 The following interpretive criteria2 should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement.
 
-| MIC (µg/mL) | Interpretation |
+| MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤0.25 | (S) Susceptible |
 
@@ -145,7 +145,7 @@ Strains yielding results suggestive of a "Nonsusceptible" category should be sub
 
 The following interpretive criteria2 should be used when testing Streptococcus spp including Streptococcus pneumoniae using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
 
-| MIC (µg/mL) | Interpretation |
+| MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤0.5 | (S) Susceptible |
 | 1 | (I) Intermediate |
@@ -160,7 +160,7 @@ A report of "Resistant" indicates that the pathogen is not likely to be inhibite
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standardized ceftriaxone powder should provide the following MIC values:2
 
-| Microorganism | ATCC®# | MIC (µg/mL) |
+| Microorganism | ATCC®# | MIC (mcg/mL) |
 | --- | --- | --- |
 | Escherichia coli | 25922 | 0.03 – 0.12 |
 | Staphylococcus aureus | 29213 | 1 – 8A bimodal distribution of MICs results at the extremes of the acceptable range should be suspect and control validity should be verified with data from other control strains. |
@@ -173,9 +173,9 @@ Standardized ceftriaxone powder should provide the following MIC values:2
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure3 requires the use of standardized inoculum concentrations.
-This procedure uses paper discs impregnated with 30 µg of ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
+This procedure uses paper discs impregnated with 30 mcg of ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
 
-Reports from the laboratory providing results of the standard single-disc susceptibility test with a 30 µg ceftriaxone disc should be interpreted according to the following criteria for aerobic organisms other than Haemophilus spp, Neisseria gonorrhoeae, and Streptococcus spp:
+Reports from the laboratory providing results of the standard single-disc susceptibility test with a 30 mcg ceftriaxone disc should be interpreted according to the following criteria for aerobic organisms other than Haemophilus spp, Neisseria gonorrhoeae, and Streptococcus spp:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -212,12 +212,12 @@ The following interpretive criteria3 should be used when testing Streptococcus s
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disc test with the MIC for ceftriaxone.
 
-Disc diffusion interpretive criteria for ceftriaxone discs against Streptococcus pneumoniae are not available, however, isolates of pneumococci with oxacillin zone diameters of >20 mm are susceptible (MIC ≤0.06 µg/mL) to penicillin and can be considered susceptible to ceftriaxone.
+Disc diffusion interpretive criteria for ceftriaxone discs against Streptococcus pneumoniae are not available, however, isolates of pneumococci with oxacillin zone diameters of >20 mm are susceptible (MIC ≤0.06 mcg/mL) to penicillin and can be considered susceptible to ceftriaxone.
 Streptococcus pneumoniae isolates should not be reported as penicillin (ceftriaxone) resistant or intermediate based solely on an oxacillin zone diameter of ≤19 mm.
 The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤19 mm.
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 30 µg ceftriaxone disc should provide the following zone diameters in these laboratory test quality control strains:3
+For the diffusion technique, the 30 mcg ceftriaxone disc should provide the following zone diameters in these laboratory test quality control strains:3
 
 | Microorganism | ATCC®# | Zone Diameter Ranges (mm) |
 | --- | --- | --- |
@@ -232,7 +232,7 @@ For the diffusion technique, the 30 µg ceftriaxone disc should provide the foll
 
 For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods.4 The MIC values obtained should be interpreted according to the following criteria:
 
-| MIC (µg/mL) | Interpretation |
+| MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤16 | (S) Susceptible |
 | 32 | (I) Intermediate |
@@ -241,10 +241,10 @@ For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determi
 As with other susceptibility techniques, the use of laboratory control microorganisms is required to control the technical aspects of the laboratory standardized procedures.
 Standardized ceftriaxone powder should provide the following MIC values for the indicated standardized anaerobic dilution4 testing method:
 
-| Method | Microorganism | ATCC®# | MIC (µg/mL) |
+| Method | Microorganism | ATCC®# | MIC (mcg/mL) |
 | --- | --- | --- | --- |
 | Agar | Bacteroides fragilis | 25285 | 32 – 128 |
 |  | Bacteroides thetaiotaomicron | 29741 | 64 – 256 |
 | Broth | Bacteroides thetaiotaomicron | 29741 | 32 – 128 |
 
-ATCC® is a registered trademark of the American Type Culture Collection.
+ATCC is a registered trademark of the American Type Culture Collection.
