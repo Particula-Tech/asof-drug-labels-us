@@ -34,9 +34,6 @@ Because this trial used predetermined criteria for worsening asthma, which cause
 Patients receiving ADVAIR HFA 45/21 had significantly greater improvements in FEV1 (0.58 L, 27%) compared with fluticasone propionate 44 mcg (0.36 L, 18%), salmeterol (0.25 L, 12%), and placebo (0.14 L, 5%).
 These improvements in FEV1 with ADVAIR HFA 45/21 were achieved regardless of baseline asthma therapy (albuterol alone, salmeterol, or inhaled corticosteroids).
 
-Figure 1.
-Mean Percent Change From Baseline in FEV1 in Patients Previously Treated With Either Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
-
 The effect of ADVAIR HFA 45/21 on the secondary efficacy parameters, including morning and evening PEF, usage of VENTOLIN Inhalation Aerosol, and asthma symptoms over 24 hours on a scale of 0 to 5 is shown in Table 2.
 
 Table 2.
@@ -45,13 +42,13 @@ Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-A
 | Efficacy Variable* | ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol 44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
 | --- | --- | --- | --- | --- |
 | AM PEF (L/min) |  |  |  |  |
-| Baseline Change from baseline | 37758 | 36927 | 38125 | 3821 |
+| BaselineChange from baseline | 37758 | 36927 | 38125 | 3821 |
 | PM PEF (L/min) |  |  |  |  |
-| Baseline Change from baseline | 39748 | 38720 | 40216 | 4073 |
+| BaselineChange from baseline | 39748 | 38720 | 40216 | 4073 |
 | Use of VENTOLIN Inhalation Aerosol (inhalations/day) |  |  |  |  |
-| Baseline Change from baseline | 3.1-2.1 | 2.4-0.4 | 2.7-0.8 | 2.70.2 |
+| BaselineChange from baseline | 3.1-2.1 | 2.4-0.4 | 2.7-0.8 | 2.70.2 |
 | Asthma symptom score/day |  |  |  |  |
-| Baseline Change from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
+| BaselineChange from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
 
 *Change from baseline = change from baseline at Endpoint (last available data).
 
@@ -87,9 +84,6 @@ Baseline morning PEF measurements were similar across treatments: ADVAIR HFA 230
 As shown in Figure 2, morning PEF improved significantly with ADVAIR HFA 230/21 compared with fluticasone propionate 220 mcg over the 12-week treatment period.
 Improvements in morning PEF observed with ADVAIR HFA 230/21 were similar to improvements observed with ADVAIR DISKUS 500/50.
 
-Figure 2.
-Mean Percent Change From Baseline in Morning Peak Expiratory Flow in Patients Previously Treated With Inhaled Corticosteroids (Study 4)
-
 ## One-Year Safety Study
 
 ### Clinical Trial With ADVAIR HFA 45/21, 115/21, and 230/21 Inhalation Aerosol
@@ -114,13 +108,7 @@ Following the initial dose, predose FEV1 relative to day 1 baseline improved mar
 
 No diminution in the 12-hour bronchodilator effect was observed with either ADVAIR HFA 45/21 (Figures 3 and 4) or ADVAIR HFA 230/21 as assessed by FEV1 following 12 weeks of therapy.
 
-Figure 3.
-Percent Change in Serial 12-Hour FEV1 in Patients Previously Using Either Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
-
 First Treatment Day
-
-Figure 4.
-Percent Change in Serial 12-Hour FEV1 in Patients Previously Using Either Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
 Last Treatment Day (Week 12)
 

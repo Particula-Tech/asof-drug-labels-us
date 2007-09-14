@@ -9,24 +9,24 @@ The incidence of common adverse events in Table 4 is based upon 2 placebo-contro
 A total of 1,008 adolescent and adult patients with asthma (556 females and 452 males) previously treated with albuterol alone, salmeterol, or inhaled corticosteroids were treated twice daily with 2 inhalations of ADVAIR HFA 45/21 or ADVAIR HFA 115/21, fluticasone propionate CFC inhalation aerosol (44- or 110-mcg doses), salmeterol CFC inhalation aerosol 21 mcg, or placebo HFA inhalation aerosol.
 
 Table 4.
-Overall Adverse Events With ≥3% Incidence in US Controlled Clinical Trials With ADVAIR HFA Inhalation Aerosol in Patients With Asthma
+Overall Adverse Events With≥3% Incidence in US Controlled Clinical Trials With ADVAIR HFA Inhalation Aerosol in Patients With Asthma
 
 | Adverse Events | ADVAIR HFA |  | Fluticasone Propionate CFC Inhalation Aerosol |  | Salmeterol CFC Inhalation Aerosol | Placebo HFA Inhalation Aerosol |
 | --- | --- | --- | --- | --- | --- | --- |
 | 45/21(n = 187)% | 115/21(n = 94)% | 44 mcg(n = 186)% | 110 mcg(n = 91)% | 21 mcg(n = 274)% | (n = 176)% |  |
 | Ear, nose, & throat |  |  |  |  |  |  |
-| Upper respiratory tract infection | 16 | 24 | 13 | 15 | 17 | 13 |
+| Upper respiratorytract infection | 16 | 24 | 13 | 15 | 17 | 13 |
 | Throat irritation | 9 | 7 | 12 | 13 | 9 | 7 |
-| Upper respiratory inflammation | 4 | 4 | 3 | 7 | 5 | 3 |
+| Upper respiratoryinflammation | 4 | 4 | 3 | 7 | 5 | 3 |
 | Hoarseness/dysphonia | 3 | 1 | 2 | 0 | 1 | 0 |
 | Lower respiratory |  |  |  |  |  |  |
-| Viral respiratory infections | 3 | 5 | 4 | 5 | 3 | 4 |
+| Viral respiratoryinfections | 3 | 5 | 4 | 5 | 3 | 4 |
 | Neurology |  |  |  |  |  |  |
 | Headaches | 21 | 15 | 24 | 16 | 20 | 11 |
 | Dizziness | 4 | 1 | 1 | 0 | <1 | 0 |
 | Gastrointestinal |  |  |  |  |  |  |
 | Nausea & vomiting | 5 | 3 | 4 | 2 | 2 | 3 |
-| Viral gastrointestinal infections | 4 | 2 | 2 | 0 | 1 | 2 |
+| Viral gastrointestinalinfections | 4 | 2 | 2 | 0 | 1 | 2 |
 | Gastrointestinal signs& symptoms | 3 | 2 | 2 | 1 | 1 | 1 |
 | Non-site specific |  |  |  |  |  |  |
 | Pain | 3 | 1 | 2 | 1 | 2 | 2 |
@@ -36,9 +36,9 @@ Overall Adverse Events With ≥3% Incidence in US Controlled Clinical Trials Wit
 | Drug interaction, overdose, & trauma |  |  |  |  |  |  |
 | Muscle injuries | 3 | 0 | 2 | 1 | 3 | 2 |
 | Reproduction |  |  |  |  |  |  |
-| Menstruation symptoms | 5 | 3 | 1 | 0 | <1 | <1 |
+| Menstruationsymptoms | 5 | 3 | 1 | 0 | <1 | <1 |
 | Psychiatry |  |  |  |  |  |  |
-| Intoxication & hangover | 3 | 0 | 0 | 0 | 0 | 0 |
+| Intoxication &hangover | 3 | 0 | 0 | 0 | 0 | 0 |
 | Average duration of exposure (days) | 81.3 | 78.6 | 79.9 | 74.6 | 71.4 | 56.3 |
 
 Table 4 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in any of the groups receiving ADVAIR HFA and were more common than in the placebo group.
@@ -46,6 +46,62 @@ In considering these data, differences in average duration of exposure should be
 These adverse reactions were mostly mild to moderate in severity.
 
 Other adverse events that occurred in the groups receiving ADVAIR HFA in these studies with an incidence of 1% to 3% and that occurred at a greater incidence than with placebo were:
+
+### Cardiovascular
+
+Tachycardia, arrhythmias, myocardial infarction.
+
+### Drug Interaction, Overdose, and Trauma
+
+Postoperative complications, wounds and lacerations, soft tissue injuries, poisoning and toxicity, pressure-induced disorder.
+
+### Ear, Nose, and Throat
+
+Ear, nose, and throat infection; ear signs and symptoms; rhinorrhea/postnasal drip; epistaxis; nasal congestion/blockage; laryngitis; unspecified oropharyngeal plaques; dryness of nose.
+
+### Endocrine and Metabolic
+
+Weight gain.
+
+### Eye
+
+Allergic eye disorders, eye edema and swelling.
+
+### Gastrointestinal
+
+Gastrointestinal discomfort and pain, dental discomfort and pain, candidiasis mouth/throat, hyposalivation, gastrointestinal infections, disorders of hard tissue of teeth, hemorrhoids, gastrointestinal gaseous symptoms, abdominal discomfort and pain, constipation, oral abnormalities.
+
+### Musculoskeletal
+
+Arthralgia and articular rheumatism, muscle cramps and spasms, musculoskeletal inflammation, bone and skeletal pain.
+
+### Neurology
+
+Sleep disorders, migraines.
+
+### Non-Site Specific
+
+Allergies and allergic reactions, viral infections, bacterial infections, candidiasis unspecified site, congestion, inflammation.
+
+### Reproduction
+
+Bacterial reproductive infections.
+
+### Respiratory
+
+Lower respiratory signs and symptoms, lower respiratory infections, lower respiratory hemorrhage.
+
+### Skin
+
+Eczema, dermatitis and dermatosis.
+
+### Urology
+
+Urinary infections.
+
+Rare cases of immediate and delayed hypersensitivity reactions, including rash and other rare events of angioedema and bronchospasm, have been reported.
+
+The incidence of common adverse events reported in Study 4, a 12 week, non US clinical study of 509 patients previously treated with inhaled corticosteroids who were treated twice daily with 2 inhalations of ADVAIR HFA 230/21, fluticasone propionate CFC inhalation aerosol 220 mcg, or 1 inhalation of ADVAIR DISKUS 500/50 was similar to the incidences reported in Table 4.
 
 ## Observed During Clinical Practice
 

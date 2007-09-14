@@ -31,22 +31,19 @@ Table 3: Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Res
 | Salmeterol: N = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |
 | Placebo: N = 2,319 |  | 1 (0.04%) |  |  |
 
-* Life-table 28-week estimate, adjusted according to the patients’ actual lengths of exposure to study treatment to account for early withdrawal of patients from the study.
+*Life-table 28-week estimate, adjusted according to the patients’ actual lengths of exposure to study treatment to account for early withdrawal of patients from the study.
 
 †Relative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group.
 The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period.
 
-‡ Estimate of the number of additional asthma-related deaths in patients treated with salmeterol in SMART, assuming 10,000 patients received salmeterol for a 28-week treatment period.
+‡Estimate of the number of additional asthma-related deaths in patients treated with salmeterol in SMART, assuming 10,000 patients received salmeterol for a 28-week treatment period.
 Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000.
 
 §The Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”
 In addition, the Total Population includes those patients whose ethnic origin was not reported.
 The results for Caucasian and African American subpopulations are shown above.
-No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations.
+No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or“Other” (salmeterol n = 230, placebo n = 224) subpopulations.
 One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127).
-
-Figure 5.
-Cumulative Incidence of Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART), by Duration of Treatment
 
 A 16-week clinical study performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) study, showed results similar to the SMART study.
 In the SNS study, the rate of asthma-related death was numerically, though not statistically significantly, greater in patients with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
@@ -60,22 +57,19 @@ The following additional WARNINGS about ADVAIR HFA should be noted.
    It was not possible from these reports to determine whether salmeterol contributed to these events.
 2. ADVAIR HFA should not be used to treat acute symptoms.
    An inhaled, short-acting beta2-agonist, not ADVAIR HFA, should be used to relieve acute symptoms of shortness of breath.
-   When prescribing ADVAIR HFA, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of shortness of breath that occurs acutely, despite regular twice-daily (morning and evening) use of ADVAIR HFA.
-   When beginning treatment with ADVAIR HFA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
+   When prescribing ADVAIR HFA, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of shortness of breath that occurs acutely, despite regular twice-daily (morning and evening) use of ADVAIR HFA.When beginning treatment with ADVAIR HFA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
    For patients taking ADVAIR HFA, inhaled, short-acting beta2-agonists should only be used for symptomatic relief of acute symptoms of shortness of breath (see PRECAUTIONS: Information for Patients).
 3. Increasing use of inhaled, short-acting beta 2-agonists is a marker of deteriorating asthma.
    The physician and patient should be alert to such changes.
    The patient’s condition may deteriorate acutely over a period of hours or chronically over several days or longer.
    If the patient’s inhaled, short-acting beta2-agonist becomes less effective, the patient needs more inhalations than usual, or the patient develops a significant decrease in lung function, this may be a marker of destabilization of the disease.
    In this setting, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of ADVAIR HFA with a higher strength, adding additional inhaled corticosteroid, or initiating systemic corticosteroids.
-   Patients should not use more than 1 inhalation twice daily (morning and evening) of ADVAIR HFA.
+   Patients should not use more than 2 inhalations twice daily (morning and evening) of ADVAIR HFA.
 4. ADVAIR HFA should not be used for transferring patients from systemic corticosteroid therapy.
    Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
-   After withdrawal from systemic corticosteroids, a number of months are required for recovery of HPA function.
-   Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
+   After withdrawal from systemic corticosteroids, a number of months are required for recovery of HPA function.Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
    During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
-   Although inhaled corticosteroids may provide control of asthma symptoms during these episodes, in recommended doses they supply less than normal physiologic amounts of glucocorticoid (cortisol) systemically and do NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.
-   During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
+   Although inhaled corticosteroids may provide control of asthma symptoms during these episodes, in recommended doses they supply less than normal physiologic amounts of glucocorticoid (cortisol) systemically and do NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
    These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress or a severe asthma attack.
 5. ADVAIR HFA should not be used in conjunction with an inhaled, long-acting beta2-agonist.
    Patients who are receiving ADVAIR HFA twice daily should not use additional salmeterol or other long-acting beta2-agonists (e.g., formoterol) for prevention of exercise-induced bronchospasm (EIB) or the maintenance treatment of asthma.
@@ -127,6 +121,46 @@ As has been described with other beta-adrenergic agonist bronchodilators, clinic
 Clinically significant changes in systolic and/or diastolic blood pressure and pulse rate have been seen infrequently in individual patients in controlled clinical studies with salmeterol, a component of ADVAIR HFA.
 
 ### Metabolic and Other Effects
+
+Long-term use of orally inhaled corticosteroids may affect normal bone metabolism, resulting in a loss of bone mineral density.
+In patients with major risk factors for decreased bone mineral content, such as tobacco use, advanced age, sedentary lifestyle, poor nutrition, family history of osteoporosis, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants and corticosteroids), ADVAIR HFA may pose an additional risk.
+
+Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
+Beta-adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
+The decrease in serum potassium is usually transient, not requiring supplementation.
+
+Clinically significant changes in blood glucose and/or serum potassium were seen infrequently during clinical studies with ADVAIR HFA at recommended doses.
+
+During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal, e.g., joint and/or muscular pain, lassitude, and depression, despite maintenance or even improvement of respiratory function.
+
+Fluticasone propionate, a component of ADVAIR HFA, will often help control asthma symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
+Since fluticasone propionate is absorbed into the circulation and can be systemically active at higher doses, the beneficial effects of ADVAIR HFA in minimizing HPA dysfunction may be expected only when recommended dosages are not exceeded and individual patients are titrated to the lowest effective dose.
+A relationship between plasma levels of fluticasone propionate and inhibitory effects on stimulated cortisol production has been shown after 4 weeks of treatment with fluticasone propionate inhalation aerosol.
+Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing ADVAIR HFA.
+
+Because of the possibility of systemic absorption of inhaled corticosteroids, patients treated with ADVAIR HFA should be observed carefully for any evidence of systemic corticosteroid effects.
+Particular care should be taken in observing patients postoperatively or during periods of stress for evidence of inadequate adrenal response.
+
+It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients, particularly when fluticasone propionate is administered at higher than recommended doses over prolonged periods of time.
+If such effects occur, the dosage of ADVAIR HFA should be reduced slowly, consistent with accepted procedures for reducing systemic corticosteroids and for management of asthma.
+
+A reduction of growth velocity in children and adolescents may occur as a result of poorly controlled asthma or from the therapeutic use of corticosteroids, including inhaled corticosteroids (see PRECAUTIONS: Pediatric Use).
+The effects of long-term treatment of children and adolescents with inhaled corticosteroids, including fluticasone propionate, on final adult height are not known.
+Patients should be maintained on the lowest strength of ADVAIR HFA that effectively controls their asthma.
+
+The long-term effects of ADVAIR HFA in human subjects are not fully known.
+In particular, the effects resulting from chronic use of fluticasone propionate on developmental or immunologic processes in the mouth, pharynx, trachea, and lung are unknown.
+Some patients received inhaled fluticasone propionate on a continuous basis in a clinical study for up to 4 years.
+In clinical studies with patients treated for 2 years with inhaled fluticasone propionate, no apparent differences in the type or severity of adverse reactions were observed after long- versus short-term treatment.
+
+Glaucoma, increased intraocular pressure, and cataracts have been reported in patients following the long-term administration of inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR HFA.
+
+Lower respiratory tract infections, including pneumonia, have been reported following the inhaled administration of corticosteroids, including fluticasone propionate, a component of ADVAIR HFA.
+
+In clinical studies with ADVAIR HFA, the development of localized infections of the pharynx with Candida albicans has occurred.
+When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while remaining on treatment with ADVAIR HFA, but at times therapy with ADVAIR HFA may need to be interrupted.
+
+Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ### Eosinophilic Conditions
 
@@ -186,10 +220,14 @@ No formal drug interaction studies have been performed with ADVAIR HFA.
 
 ### Short-Acting Beta2-Agonists
 
+In three 12-week US clinical trials, the mean daily need for additional beta2-agonist use in 277 patients receiving ADVAIR HFA was approximately 1.2 inhalations/day and ranged from 0 to 9 inhalations/day.
+Two percent (2%) of patients receiving ADVAIR HFA in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
+No increase in frequency of cardiovascular events was observed among patients who averaged 6 or more inhalations per day.
+
 ### Methylxanthines
 
 The concurrent use of intravenously or orally administered methylxanthines (e.g., aminophylline, theophylline) by patients receiving ADVAIR HFA has not been completely evaluated.
-In five 12-week clinical trials (3 US and 2 non-US), 45patients receiving ADVAIR HFA 45/21, 115/21, or 230/21 twice daily concurrently with a theophylline product had adverse event rates similar to those in 577patients receiving ADVAIR HFA without theophylline.
+In five 12-week clinical trials (3 US and 2 non-US), 45 patients receiving ADVAIR HFA 45/21, 115/21, or 230/21 twice daily concurrently with a theophylline product had adverse event rates similar to those in 577 patients receiving ADVAIR HFA without theophylline.
 
 ### Fluticasone Propionate Nasal Spray
 
@@ -337,6 +375,6 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AD
 ## Geriatric Use
 
 Of the total number of patients in clinical studies treated with ADVAIR HFA, 41 were 65 years of age or older and 21 were 75 years of age or older.
-No overall differences in safety were observed between thesepatients and younger patients, and other reported clinical experience, including studies of the individual components, has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety were observed between these patients and younger patients, and other reported clinical experience, including studies of the individual components, has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 As with other products containing beta2-agonists, special caution should be observed when using ADVAIR HFA in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta2-agonists.
 Based on available data for ADVAIR HFA or its active components, no adjustment of dosage of ADVAIR HFA in geriatric patients is warranted.

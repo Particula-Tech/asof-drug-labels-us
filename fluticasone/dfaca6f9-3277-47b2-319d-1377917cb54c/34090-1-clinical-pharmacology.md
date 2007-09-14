@@ -21,7 +21,7 @@ These anti-inflammatory actions of corticosteroids contribute to their efficacy 
 
 Salmeterol is a long-acting beta2-adrenergic agonist.
 In vitro studies and in vivo pharmacologic studies demonstrate that salmeterol is selective for beta2-adrenoceptors compared with isoproterenol, which has approximately equal agonist activity on beta1- and beta2-adrenoceptors.
-In vitrostudies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol.
+In vitro studies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol.
 Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominant receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors.
 The precise function of these receptors has not been established, but their presence raises the possibility that even selective beta2-agonists may have cardiac effects.
 
@@ -180,7 +180,7 @@ In a 12-week study (see CLINICAL TRIALS: Studies Comparing ADVAIR HFA to Flutica
 All treatments were administered as 2 inhalations twice daily.
 After 12 weeks of treatment with these therapeutic doses, the geometric mean ratio of urinary cortisol excretion compared with baseline was 0.9 for ADVAIR HFA and fluticasone propionate and 1.0 for placebo and salmeterol.
 In addition, the ability to increase cortisol production in response to stress, as assessed by 30-minute cosyntropin stimulation in 23 to 32 patients per treatment group, remained intact for the majority of patients and was similar across treatments.
-Three patients who received ADVAIR HFA 115/21 had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing,compared with 1 patient who received placebo, 2 patients who received fluticasone propionate 110 mcg, and 1 patient who received salmeterol.
+Three patients who received ADVAIR HFA 115/21 had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing, compared with 1 patient who received placebo, 2 patients who received fluticasone propionate 110 mcg, and 1 patient who received salmeterol.
 
 In another 12-week study (see CLINICAL TRIALS: Studies Comparing ADVAIR HFA to Fluticasone Propionate Alone or Salmeterol Alone: Study 4) in patients with asthma, ADVAIR HFA 230/21 (2 inhalations twice daily) was compared with ADVAIR DISKUS 500/50 (1 inhalation twice daily) and fluticasone propionate CFC inhalation aerosol 220 mcg (2 inhalations twice daily).
 The geometric mean ratio of 24-hour urinary cortisol excretion at week 12 compared with baseline was 0.9 for all 3 treatment groups.
@@ -189,9 +189,9 @@ The geometric mean ratio of 24-hour urinary cortisol excretion at week 12 compar
 
 In clinical trials with fluticasone propionate inhalation powder using doses up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL) were noted both in patients receiving fluticasone propionate and in patients receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
-In a 2-year study carried out in 64 patients with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no patient receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
+In a 2-year study carried out in 64 patients with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no patient receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol<18 mcg/dL).
 With a peak cortisol threshold of <35 mcg/dL, 1 patient receiving fluticasone propionate (4%) had an abnormal response at 1 year, repeat testing at 18 months and 2 years was normal.
-Another patient receiving fluticasone propionate (5%) had an abnormal response at 2 years.
+Another patient receiving fluticasone propionate (5%)had an abnormal response at 2 years.
 No patient on placebo had an abnormal response at 1 or 2 years.
 
 ### Salmeterol Xinafoate
