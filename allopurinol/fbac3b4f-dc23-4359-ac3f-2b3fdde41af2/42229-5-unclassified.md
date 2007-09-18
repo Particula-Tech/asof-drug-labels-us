@@ -1,0 +1,5 @@
+Rx only
+
+Manufactured by VINTAGE PHARMACEUTICALS, LLC Huntsville, AL 35811
+
+8181467 R11/05-R1
