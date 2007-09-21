@@ -4,7 +4,7 @@
 
 Dosage should be initiated at a low level and increased gradually, noting carefully the clinical response and any evidence of intolerance.
 
-## Initial Dosage For Adults
+## Initial Dosage for Adults
 
 For outpatients, 75 mg of amitriptyline HCl a day in divided doses is usually satisfactory.
 If necessary, this may be increased to a total of 150 mg per day.
@@ -18,7 +18,7 @@ Hospitalized patients may require 100 mg a day initially.
 This can be increased gradually to 200 mg a day if necessary.
 A small number of hospitalized patients may need as much as 300 mg a day.
 
-## Adolescent And Elderly Patients
+## Adolescent and Elderly Patients
 
 In general, lower dosages are recommended for these patients.
 Ten mg 3 times a day with 20 mg at bedtime may be satisfactory in adolescent and elderly patients who do not tolerate higher dosages.
@@ -31,7 +31,7 @@ For maintenance therapy, the total daily dosage may be given in a single dose, p
 When satisfactory improvement has been reached, dosage should be reduced to the lowest amount that will maintain relief of symptoms.
 It is appropriate to continue maintenance therapy 3 months or longer to lessen the possibility of relapse.
 
-## Usage In Pediatric Patients
+## Usage in Pediatric Patients
 
 In view of the lack of experience with the use of this drug in pediatric patients, it is not recommended at the present time for patients under 12 years of age.
 
@@ -41,5 +41,5 @@ Because of the wide variation in the absorption and distribution of tricyclic an
 However, determination of plasma levels may be useful in identifying patients who appear to have toxic effects and may have excessively high levels, or those in whom lack of absorption or noncompliance is suspected.
 Because of increased intestinal transit time and decreased hepatic metabolism in elderly patients, plasma levels are generally higher for a given oral dose of amitriptyline hydrochloride than in younger patients.
 Elderly patients should be monitored carefully and quantitative serum levels obtained as clinically appropriate.
-Adjustments in dosage should be made according to the patient's clinical response and not on the basis of plasma levels.Hollister, L.E.; Monitoring Tricyclic Antidepressant Plasma Concentrations.
+Adjustments in dosage should be made according to the patient’s clinical response and not on the basis of plasma levels.Hollister, L.E.; Monitoring Tricyclic Antidepressant Plasma Concentrations.
 JAMA 1979; 241(23):2530-2533.
