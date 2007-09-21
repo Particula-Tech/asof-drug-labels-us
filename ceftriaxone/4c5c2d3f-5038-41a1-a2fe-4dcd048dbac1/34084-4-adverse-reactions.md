@@ -4,7 +4,7 @@ Ceftriaxone injection is generally well tolerated.
 In clinical trials, the following adverse reactions, which were considered to be related to ceftriaxone injection therapy or of uncertain etiology, were observed:
 
 LOCAL REACTIONS— pain, induration and tenderness was 1% overall.
-Phlebitis was reported in<1% after IV administration.
+Phlebitis was reported in <1% after IV administration.
 
 HYPERSENSITIVITY— rash (1.7%).
 Less frequently reported (<1%) were pruritus, fever or chills.
@@ -28,4 +28,7 @@ GENITOURINARY— moniliasis or vaginitis were reported occasionally (<1%).
 
 MISCELLANEOUS— diaphoresis and flushing were reported occasionally (<1%).
 
-Other rarely observed adverse reactions (<0.1%) include leukocytosis, lymphocytosis, monocytosis, basophilia, a decrease in the prothrombin time, jaundice, gallbladder sludge, glycosuria, hematuria, anaphylaxis, bronchospasm, serum sickness, abdominal pain, colitis, flatulence, dyspepsia, palpitations, epistaxis, biliary lithiasis, agranulocytosis, renal precipitations, and nephrolithiasis.
+Other rarely observed adverse reactions (<0.1%) include abdominal pain, agranulocytosis, allergic pneumonitis, anaphylaxis, basophilia, biliary lithiasis, bronchospasm, colitis, dyspepsia, epistaxis, flatulence, gallbladder sludge, glycosuria, hematuria, jaundice, leukocytosis, lymphocytosis, monocytosis, nephrolithiasis, palpitations, a decrease in the prothrombin time, renal precipitations, seizures, and serum sickness.
+
+Cases of fatal reactions with calcium-ceftriaxone precipitates in lung and kidneys in both term and premature neonates have been described.
+In some cases the infusion lines and times of administration of ceftriaxone and calcium-containing solutions differed.

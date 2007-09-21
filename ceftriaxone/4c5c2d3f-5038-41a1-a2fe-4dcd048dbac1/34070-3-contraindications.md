@@ -2,3 +2,8 @@
 
 Ceftriaxone injection is contraindicated in patients with known allergy to the cephalosporin class of antibiotics.
 Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products.
+
+Hyperbilirubinemic neonates, especially prematures, should not be treated with ceftriaxone injection.
+In vitro studies have shown that ceftriaxone can displace bilirubin from its binding to serum albumin and bilirubin encephalopathy can possibly develop in these patients.
+
+Ceftriaxone injection should not be administered concurrently with calcium-containing solutions or products in newborns because of the risk of precipitation of ceftriaxone calcium salt (see WARNINGS).
