@@ -1,0 +1,16 @@
+# DESCRIPTION
+
+Humalog® Mix50/50™ [50% insulin lispro protamine suspension and 50% insulin lispro injection, (rDNA origin)] is a mixture of insulin lispro solution, a rapid–acting blood glucose–lowering agent and insulin lispro protamine suspension, an intermediate–acting blood glucose–lowering agent.
+Chemically, insulin lispro is Lys(B28), Pro(B29) human insulin analog, created when the amino acids at positions 28 and 29 on the insulin B–chain are reversed.
+Insulin lispro is synthesized in a special non–pathogenic laboratory strain of Escherichia coli bacteria that has been genetically altered to produce insulin lispro.
+Insulin lispro protamine suspension (NPL component) is a suspension of crystals produced from combining insulin lispro and protamine sulfate under appropriate conditions for crystal formation.
+
+Insulin lispro has the following primary structure:
+
+Insulin lispro has the empirical formula C257H383N65O77S6 and a molecular weight of 5808, both identical to that of human insulin.
+
+Humalog Mix50/50 vials and Pens contain a sterile suspension of insulin lispro protamine suspension mixed with soluble insulin lispro for use as an injection.
+
+Each milliliter of Humalog Mix50/50 injection contains insulin lispro 100 units, 0.19 mg protamine sulfate, 16 mg glycerin, 3.78 mg dibasic sodium phosphate, 2.20 mg Metacresol, zinc oxide content adjusted to provide 0.0305 mg zinc ion, 0.89 mg phenol, and Water for Injection.
+Humalog Mix50/50 has a pH of 7.0 to 7.8.
+Hydrochloric acid 10% and/or sodium hydroxide 10% may have been added to adjust pH.
