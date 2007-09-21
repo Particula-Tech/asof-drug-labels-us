@@ -2,10 +2,9 @@
 
 Table 1The information supplied in Table 1 indicates when peak insulin activity can be expected and the percent of the total insulin activity occurring during the first 4 hours.
 The information was derived from 3 separate glucose clamp studies in nondiabetic subjects.
-Values represent means, with ranges provided in parentheses.
-Summary of glucodynamic properties of insulin products (pooled cross-study comparison)
+Values represent means, with ranges provided in parentheses.: Summary of Pharmacodynamic Properties of Insulin Products (Pooled Cross-Study Comparison)
 
-| Insulin Products | Dose, U/kg | Time of peak activity, hours after dosing | Percent of total activity occurring in the first 4 hours |
+| Insulin Products | Dose, U/kg | Time of Peak Activity, Hours After Dosing | Percent of Total Activity Occurring in the First 4 Hours |
 | --- | --- | --- | --- |
 | Humalog | 0.3 | 2.4 (0.8 – 4.3) | 70% (49 – 89%) |
 | Humulin R | 0.32 (0.26 – 0.37) | 4.4 (4.0 – 5.5) | 54% (38 – 65%) |
@@ -19,13 +18,13 @@ Summary of glucodynamic properties of insulin products (pooled cross-study compa
 Humalog Mix75/25 is intended only for subcutaneous administration.
 Humalog Mix75/25 should not be administered intravenously.
 Dosage regimens of Humalog Mix75/25 will vary among patients and should be determined by the Health Care Professional familiar with the patient’s metabolic needs, eating habits, and other lifestyle variables.
-Humalog has been shown to be equipotent to regular human insulin on a molar basis.
-One unit of Humalog has the same glucose–lowering effect as one unit of regular human insulin, but its effect is more rapid and of shorter duration.
-Humalog Mix75/25 has a similar glucose–lowering effect as compared with Humulin 70/30 on a unit for unit basis.
-The quicker glucose–lowering effect of Humalog is related to the more rapid absorption rate of insulin lispro from subcutaneous tissue.
+Humalog has been shown to be equipotent to Regular human insulin on a molar basis.
+One unit of Humalog has the same glucose-lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
+Humalog Mix75/25 has a similar glucose-lowering effect as compared with Humulin 70/30 on a unit for unit basis.
+The quicker glucose-lowering effect of Humalog is related to the more rapid absorption rate of insulin lispro from subcutaneous tissue.
 
-Humalog Mix75/25 starts lowering blood glucose more quickly than regular human insulin, allowing for convenient dosing immediately before a meal (within 15 minutes).
-In contrast, mixtures containing regular human insulin should be given 30 to 60 minutes before a meal.
+Humalog Mix75/25 starts lowering blood glucose more quickly than Regular human insulin, allowing for convenient dosing immediately before a meal (within 15 minutes).
+In contrast, mixtures containing Regular human insulin should be given 30 to 60 minutes before a meal.
 
 The rate of insulin absorption and consequently the onset of activity are known to be affected by the site of injection, exercise, and other variables.
 As with all insulin preparations, the time course of action of Humalog Mix75/25 may vary considerably in different individuals or within the same individual.
