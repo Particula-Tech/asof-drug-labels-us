@@ -1,0 +1,30 @@
+# DOSAGE AND ADMINISTRATION
+
+Amphetamines should be administered at the lowest effective dosage and dosage should be individually adjusted.
+Late evening doses—particularly with the SPANSULE capsule form—should be avoided because of the resulting insomnia.
+
+## Narcolepsy:
+
+Usual dose is 5 to 60 mg per day in divided doses, depending on the individual patient response.
+
+Narcolepsy seldom occurs in children under 12 years of age; however, when it does, DEXEDRINE may be used.
+The suggested initial dose for patients aged 6 to 12 is 5 mg daily; daily dose may be raised in increments of 5 mg at weekly intervals until an optimal response is obtained.
+In patients 12 years of age and older, start with 10 mg daily; daily dosage may be raised in increments of 10 mg at weekly intervals until an optimal response is obtained.
+If bothersome adverse reactions appear (e.g., insomnia or anorexia), dosage should be reduced.
+SPANSULE capsules may be used for once-a-day dosage wherever appropriate.
+With tablets, give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
+
+## Attention Deficit Disorder with Hyperactivity:
+
+Not recommended for pediatric patients under 3 years of age.
+
+In pediatric patients from 3 to 5 years of age, start with 2.5 mg daily, by tablet; daily dosage may be raised in increments of 2.5 mg at weekly intervals until optimal response is obtained.
+
+In pediatric patients 6 years of age and older, start with 5 mg once or twice daily; daily dosage may be raised in increments of 5 mg at weekly intervals until optimal response is obtained.
+Only in rare cases will it be necessary to exceed a total of 40 mg per day.
+
+SPANSULE capsules may be used for once-a-day dosage wherever appropriate.
+
+With tablets, give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
+
+Where possible, drug administration should be interrupted occasionally to determine if there is a recurrence of behavioral symptoms sufficient to require continued therapy.
