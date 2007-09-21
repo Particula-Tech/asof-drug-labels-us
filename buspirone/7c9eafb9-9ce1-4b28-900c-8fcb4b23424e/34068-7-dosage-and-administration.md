@@ -1,0 +1,11 @@
+# DOSAGE AND ADMINISTRATION
+
+The recommended initial dose is 15 mg daily (7.5 mg b.i.d.).
+To achieve an optimal therapeutic response, at intervals of 2 to 3 days the dosage may be increased 5 mg per day, as needed.
+The maximum daily dosage should not exceed 60 mg per day.
+In clinical trials allowing dose titration, divided doses of 20 to 30 mg per day were commonly employed.
+
+The bioavailability of buspirone is increased when given with food as compared to the fasted state (see CLINICAL PHARMACOLOGY section).
+Consequently, patients should take buspirone in a consistent manner with regard to the timing of dosing; either always with or always without food.
+
+When buspirone is to be given with a potent inhibitor of CYP3A4 the dosage recommendations described in the PRECAUTIONS: Drug Interactions section should be followed.
