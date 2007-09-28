@@ -2,12 +2,12 @@
 
 Following an acute overdosage, toxicity may result from codeine or acetaminophen.
 
-## Signs and Symptoms:
+## Signs and Symptoms
 
-Codeine: Toxicity from codeine poisoning includes the opioid triad of: pinpoint pupils, depression of respiration, and loss of consciousness.
+Codeine - Toxicity from codeine poisoning includes the opioid triad of: pinpoint pupils, depression of respiration, and loss of consciousness.
 Convulsions may occur.
 
-Acetaminophen: In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
+Acetaminophen - In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necrosis, hypoglycemic coma and thrombocytopenia may also occur.
 
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis and general malaise.
@@ -15,7 +15,9 @@ Clinical and laboratory evidence of hepatic toxicity may not be apparent until 4
 
 In adults hepatic toxicity has rarely been reported with acute overdoses of less than 10 grams, or fatalities with less than 15 grams.
 
-Treatment: A single or multiple overdose with acetaminophen and codeine is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
+## Treatment
+
+A single or multiple overdose with acetaminophen and codeine is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
 
 Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
 Vomiting should be induced mechanically, or with syrup of ipecac, if the patient is alert (adequate pharyngeal and laryngeal reflexes).
@@ -42,8 +44,8 @@ Hepatic enzymes should be obtained initially, and repeated at 24-hour intervals.
 
 Methemoglobinemia over 30% should be treated with methylene blue by slow intravenous administration.
 
-## Toxic Doses (for adults):
+## Toxic Doses (For Adults)
 
-| Acetaminophen: | toxic dose 10 g |
-| --- | --- |
-| Codeine: | toxic dose 240 mg |
+Acetaminophen - toxic dose 10 g
+
+Codeine - toxic dose 240 mg
