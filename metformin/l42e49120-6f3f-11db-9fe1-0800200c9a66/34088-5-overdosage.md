@@ -1,0 +1,17 @@
+# OVERDOSAGE
+
+## Pioglitazone hydrochloride
+
+During controlled clinical trials, one case of overdose with pioglitazone was reported.
+A male patient took 120 mg per day for four days, then 180 mg per day for seven days.
+The patient denied any clinical symptoms during this period.
+
+In the event of overdosage, appropriate supportive treatment should be initiated according to patient’s clinical signs and symptoms.
+
+## Metformin hydrochloride
+
+Overdose of metformin hydrochloride has occurred, including ingestion of amounts greater than 50 grams.
+Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin hydrochloride has been established.
+Lactic acidosis has been reported in approximately 32% of metformin overdose cases (see WARNINGS, Metformin hydrochloride).
+Metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions.
+Therefore, hemodialysis may be useful for removal of accumulated metformin from patients in whom metformin overdosage is suspected.
