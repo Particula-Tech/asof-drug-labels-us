@@ -14,15 +14,16 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1 .
 
-| Table 1 |  |
-| --- | --- |
+Table 1
+
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
-|  | Drug-Related Increases |
+| --- | --- |
+|  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-|  | Drug-Related Decreases |
+|  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -55,6 +56,16 @@ Some cases presented with features resembling neuroleptic malignant syndrome.
 Furthermore, limited animal data on the effects of combined use of SSRIs and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
 Therefore, it is recommended that citalopram should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
 Similarly, at least 14 days should be allowed after stopping citalopram hydrobromide tablets before starting an MAOI.
+
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including citalopram treatment, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+The concomitant use of citalopram with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS, Potential for Interaction with Monoamine Oxidase Inhibitors.)
+
+If concomitant treatment of citalopram with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS - Drug Interactions).
+The concomitant use of citalopram with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS - Drug Interactions).
 
 # PRECAUTIONS
 
@@ -116,12 +127,13 @@ Until adequate number of patients with severe renal impairment have been evaluat
 ## Information for Patients
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe citalopram.
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of citalopram and triptans, tramadol or other serotonergic agents.
 Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking or motor skills, and so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
 Patients should be told that, although citalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of citalopram and alcohol in depressed patients is not advised.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 Patients should be cautioned about the concomitant use of citalopram and NSAIDs, aspirin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents had been associated with an increased risk of bleeding.
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-Patients should be advised to notify their physician if they are breast feeding an infant.
+Patients should be advised to notify their physician if they are breastfeeding an infant.
 While patients may notice improvement with citalopram therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with citalopram and should counsel them in its appropriate use.
 A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for citalopram.
@@ -142,6 +154,16 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 There are no specific laboratory tests recommended.
 
 ## Drug Interactions
+
+Serotonergic Drugs
+
+Based on the mechanism of action of SNRIs and SSRIs including citalopram and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
+The concomitant use of citalopram with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions).
+
+Triptans
+
+There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
+If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS-Serotonin Syndrome).
 
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 Alcohol - Although citalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by depressed patients taking citalopram is not recommended.
@@ -208,7 +230,7 @@ Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD
 Pregnancy Category C- In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 In two rat embryo/fetal development studies, oral administration of citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m 2 ) basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
-The developmental no effect dose of 56 mg/kg/day is approximately 9 times the MRHD on a mg/m 2 basis.
+The developmental, no-effect dose of 56 mg/kg/day is approximately 9 times the MRHD on a mg/m 2 basis.
 In a rabbit study no adverse effects on embryo/fetal development were observed at doses of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m 2 basis.
 Thus, teratogenic effects were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
 When female rats were treated with citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD on a mg/m 2 basis.
@@ -224,7 +246,13 @@ Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS ).
+Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1—2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+In a retrospective, case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
+There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
+The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
 When treating a pregnant woman with citalopram during the third trimester, the physician should carefully consider the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION ).
+Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
 ## Labor and Delivery
 
