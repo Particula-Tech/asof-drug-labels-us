@@ -5,7 +5,7 @@
 Valacyclovir hydrochloride is rapidly converted to acyclovir which has demonstrated antiviral activity against herpes simplex virus types 1 (HSV-1) and 2 (HSV-2) and varicella-zoster virus (VZV) both in vitro and in vivo.
 
 The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV.
-This viral enzyme converts acyclovir into acyclovir monophosphate, a nucleotide analogue.
+This viral enzyme converts acyclovir into acyclovir monophosphate,a nucleotide analogue.
 The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
 In vitro, acyclovir triphosphate stops replication of herpes viral DNA.
 This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.

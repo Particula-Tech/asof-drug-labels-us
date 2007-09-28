@@ -8,7 +8,7 @@ All patients were treated within 72 hours of appearance of zoster rash.
 In patients less than 50 years of age, the median time to cessation of new lesion formation was 2 days for those treated with VALTREX compared to 3 days for those treated with placebo.
 In patients greater than 50 years of age, the median time to cessation of new lesions was 3 days in patients treated with either VALTREX or ZOVIRAX.
 In patients less than 50 years of age, no difference was found with respect to the duration of pain after healing (post-herpetic neuralgia) between the recipients of VALTREX and placebo.
-In patients greater than 50 years of age, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77]for 7-day VALTREX, 14-day VALTREX, and 7-day ZOVIRAX, respectively.
+In patients greater than 50 years of age, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77] for 7-day VALTREX, 14-day VALTREX, and 7-day ZOVIRAX, respectively.
 
 ## Genital Herpes Infections
 
@@ -52,7 +52,7 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 Subjects with 9 or fewer recurrences per year showed comparable results with VALTREX 500 mg once daily.
 
 In a second study, 293 HIV-infected adults on stable antiretroviral therapy with a history of 4 or more recurrences of ano-genital herpes per year were randomized to receive either VALTREX 500 mg twice daily (n = 194) or matching placebo (n = 99) for 6 months.
-The median duration of recurrent genital herpes in enrolledsubjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
+The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
 Overall, the median prestudy HIV-1 RNA was 2.6 log10 copies/mL.
 Among patients who received VALTREX, the prestudy median CD4 cell count was 336 cells/mm3; 11% had <100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had ≥500 cells/mm3.
 Outcomes for the overall study population are shown in Table 2.

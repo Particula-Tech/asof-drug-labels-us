@@ -21,7 +21,7 @@ VALTREX is used:
 - to treat or control genital herpes outbreaks in adults with normal immune systems
 - to control genital herpes outbreaks in adults infected with the human immunodeficiency virus (HIV) with CD4 cell count greater than 100 cells/mm3
 - with safer sex practices to lower the chances of spreading genital herpes to others.
-- Even with safer sex practices, it is still possible to spread genital herpes.
+  Even with safer sex practices, it is still possible to spread genital herpes.
 
 VALTREX used daily with the following safer sex practices can lower the chances of passing genital herpes to your partner.
 
@@ -165,7 +165,7 @@ DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2005, GlaxoSmithKline.
+©2006, GlaxoSmithKline.
 All rights reserved.
 
-October 2005 RL-2241
+July 2006 RL-2310

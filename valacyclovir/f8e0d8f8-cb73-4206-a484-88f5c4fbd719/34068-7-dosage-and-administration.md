@@ -30,7 +30,7 @@ The recommended dosage of VALTREX for chronic suppressive therapy of recurrent g
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
 The safety and efficacy of therapy with VALTREX beyond 1 year have not been established.
 
-In HIV-infected patients with CD4 cell count ≥100 cells/mm3, the recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV-infected patients with CD4 cell count≥100 cells/mm3, the recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 The safety and efficacy of therapy with VALTREX beyond 6 months in patients with HIV infection have not been established.
 
 ### Reduction of Transmission
