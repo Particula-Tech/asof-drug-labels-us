@@ -17,10 +17,10 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 | Table 1 |  |
 | --- | --- |
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
-|  | Drug-Related Increases |
+|  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-|  | Drug-Related Decreases |
+|  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -78,6 +78,7 @@ It is unclear whether or not tolerance develops to the dizziness observed in ass
 In US controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo and 6% for amitriptyline.
 In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
 In a pool of premarketing US studies, including many patients for long-term, open label treatment, 8% of patients receiving mirtazapine discontinued for weight gain.
+In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use ).
 
 ### Cholesterol/Triglycerides
 
@@ -240,6 +241,8 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNINGS and WARNINGS—Clinical Worsening and Suicide Risk ).
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine tablets, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of mirtazapine orally disintegrating tablets in a child or adolescent must balance the risks with the clinical need.
+In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
+The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS-Increased Appetite/Weight Gain ).
 
 ## Geriatric Use
 
