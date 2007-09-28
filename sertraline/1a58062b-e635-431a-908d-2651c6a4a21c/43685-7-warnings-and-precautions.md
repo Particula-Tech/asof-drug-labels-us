@@ -8,11 +8,11 @@ There has been a long-standing concern, however, that antidepressants may have a
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18–24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs inover 4400 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
@@ -60,7 +60,7 @@ Some cases presented with features resembling neuroleptic malignant syndrome.
 Therefore, sertraline hydrochloride should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
 Similarly, at least 14 days should be allowed after stopping sertraline hydrochloride before starting an MAOI.
 
-The concomitant use of sertraline hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS – Potential for Interaction with Monoamine Oxidase Inhibitors.)
+The concomitant use of sertraline hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS – Potential for Interaction with Monoamine Oxidase Inhibitors).
 
 ### Serotonin Syndrome
 
@@ -69,7 +69,7 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 
 If concomitant treatment of SNRIs and SSRIs, including sertraline hydrochloride, with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS – Drug Interactions).
 
-The concomitant use of SNRIs and SSRIs, including serteraline hydrochloride, with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS – Drug Interactions).
+The concomitant use of SNRIs and SSRIs, including sertraline hydrochloride, with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS – Drug Interactions).
 
 # PRECAUTIONS
 
@@ -77,7 +77,7 @@ The concomitant use of SNRIs and SSRIs, including serteraline hydrochloride, wit
 
 ### Activation of Mania/Hypomania
 
-During premarketing testing, hypomania or mania occurred in approximately 0.4% of sertraline hydrochloride treated patients.
+During premarketing testing, hypomania or mania occurred in approximately 0.4% of sertraline hydrochloride-treated patients.
 
 ### Weight Loss
 
@@ -125,7 +125,7 @@ Patients with a recent history of myocardial infarction or unstable heart diseas
 However, the electrocardiograms of 774 patients who received sertraline hydrochloride in double-blind trials were evaluated and the data indicate that sertraline hydrochloride is not associated with the development of significant ECG abnormalities.
 
 Sertraline hydrochloride administered in a flexible dose range of 50 to 200 mg/day (mean dose of 89 mg/day) was evaluated in a post-marketing, placebo-controlled trial of 372 randomized subjects with a DSM-IV diagnosis of major depressive disorder and recent history of myocardial infarction or unstable angina requiring hospitalization.
-Exclusions from this trial included, among others, patients with uncontrolled hypertension, need for cardiac surgery, history of CABG within 3 months of index event, severe or symptomatic bradycardia, non-atherosclerotic cause of angina, clinically significant renal impairment (creatinine > 2.5 mg/dl), and clinically significant hepatic dysfunction.
+Exclusions from this trial included, among others, patients with uncontrolled hypertension, need for cardiac surgery, history of CABG within 3 months of index event, severe or symptomatic bradycardia, non-atherosclerotic cause of angina, clinically significant renal impairment (creatinine > 2.5 mg/dL), and clinically significant hepatic dysfunction.
 Sertraline hydrochloride treatment initiated during the acute phase of recovery (within 30 days post-MI or post-hospitalization for unstable angina) was indistinguishable from placebo in this study on the following week 16 treatment endpoints: left ventricular ejection fraction, total cardiovascular events (angina, chest pain, edema, palpitations, syncope, postural dizziness, CHF, MI, tachycardia, bradycardia, and changes in BP), and major cardiovascular events involving death or requiring hospitalization (for MI, CHF, stroke, or angina).
 
 Sertraline hydrochloride is extensively metabolized by the liver.
@@ -145,9 +145,15 @@ In controlled studies, sertraline hydrochloride did not cause sedation and did n
 
 ### Hyponatremia
 
-Several cases of hyponatremia have been reported and appeared to be reversible when sertraline hydrochloride was discontinued.
-Some cases were possibly due to the syndrome of inappropriate antidiuretic hormone secretion.
-The majority of these occurrences have been in elderly individuals, some in patients taking diuretics or who were otherwise volume depleted.
+Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including sertraline hydrochloride.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Cases with serum sodium lower than 110 mmol/L have been reported.
+Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see GERIATRIC USE).
+Discontinuation of sertraline hydrochloride should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ### Platelet Function
 
@@ -274,12 +280,12 @@ The concomitant use of sertraline hydrochloride with other SSRIs, SNRIs or trypt
 
 ### Triptans
 
-There have been rare postmarketing reports of serotonin syndrome with use of an SNRI or an SSRI and a triptan.
+There have been rare post marketing reports of serotonin syndrome with use of an SNRI or an SSRI and a triptan.
 If concomitant treatment of SNRIs and SSRIs, including sertraline hydrochloride, with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS – Serotonin Syndrome).
 
 ### Sumatriptan
 
-There have been rare postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of a selective serotonin reuptake inhibitor (SSRI) and sumatriptan.
+There have been rare post marketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of a selective serotonin reuptake inhibitor (SSRI) and sumatriptan.
 If concomitant treatment with sumatriptan and an SSRI (e.g., citalopram, fluoxetine, fluvoxamine, paroxetine, sertraline) is clinically warranted, appropriate observation of the patient is advised.
 
 ### Tricyclic Antidepressant Drugs Effective in the Treatment of Major Depressive Disorder (TCAs)
@@ -325,12 +331,12 @@ Although sertraline hydrochloride did not potentiate the cognitive and psychomot
 ## Carcinogenesis
 
 Lifetime carcinogenicity studies were carried out in CD-1 mice and Long-Evans rats at doses up to 40 mg/kg/day.
-These doses correspond to 1 times (mice) and 2 times (rats) the maximum recommended human dose (MRHD) on a mg/m2 basis.
+These doses correspond to 1 time (mice) and 2 times (rats) the maximum recommended human dose (MRHD) on a mg/m2 basis.
 There was a dose-related increase of liver adenomas in male mice receiving sertraline at 10–40 mg/kg (0.25–1.0 times the MRHD on a mg/m2 basis).
 No increase was seen in female mice or in rats of either sex receiving the same treatments, nor was there an increase in hepatocellular carcinomas.
 Liver adenomas have a variable rate of spontaneous occurrence in the CD-1 mouse and are of unknown significance to humans.
 There was an increase in follicular adenomas of the thyroid in female rats receiving sertraline at 40 mg/kg (2 times the MRHD on a mg/m2 basis); this was not accompanied by thyroid hyperplasia.
-While there was an increase in uterine adenocarcinomas in rats receiving sertraline at 10–40 mg/kg (0.5–2.0 times the MRHD on a mg/m2 basis) compared to placebo controls, this effect was not clearly drug related.
+While there was an increase in uterine adenocarcinomas in rats receiving sertraline at 10–40 mg/kg (0.5–2.0 times the MRHD on a mg/m2 basis) compared to placebo controls, this effect was not clearly drug-related.
 
 ## Mutagenesis
 
@@ -349,7 +355,7 @@ When pregnant rats and rabbits were given sertraline during the period of organo
 When female rats received sertraline during the last third of gestation and throughout lactation, there was an increase in the number of stillborn pups and in the number of pups dying during the first 4 days after birth.
 Pup body weights were also decreased during the first four days after birth.
 These effects occurred at a dose of 20 mg/kg (1 times the MRHD on a mg/m2 basis).
-The no effect dose for rat pup mortality was 10 mg/kg (0.5 times the MRHD on a mg/m2 basis).
+The no-effect dose for rat pup mortality was 10 mg/kg (0.5 times the MRHD on a mg/m2 basis).
 The decrease in pup survival was shown to be due to in utero exposure to sertraline.
 The clinical significance of these effects is unknown.
 There are no adequate and well-controlled studies in pregnant women.
@@ -358,7 +364,7 @@ Sertraline hydrochloride should be used during pregnancy only if the potential b
 ## Pregnancy-Nonteratogenic Effects
 
 Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-These findings are based on postmarketing reports.
+These findings are based on post marketing reports.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -375,7 +381,7 @@ Physicians should note that in a prospective longitudinal study of 201 women wit
 
 ## Labor and Delivery
 
-The effect of sertraline hydrochlorideon labor and delivery in humans is unknown.
+The effect of sertraline hydrochloride on labor and delivery in humans is unknown.
 
 ## Nursing Mothers
 
@@ -386,13 +392,13 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 The efficacy of sertraline hydrochloride for the treatment of obsessive-compulsive disorder was demonstrated in a 12-week, multicenter, placebo-controlled study with 187 outpatients ages 6–17 (see Clinical Trials under CLINICAL PHARMACOLOGY).
 Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS-Clinical Worsening and Suicide Risk).
-Two placebo controlled trials (n=373) in pediatric patients with MDD have been conducted with sertraline hydrochloride, and the data were not sufficient to support a claim for use in pediatric patients.
+Two placebo-controlled trials (n=373) in pediatric patients with MDD have been conducted with sertraline hydrochloride, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of sertraline hydrochloride in a child or adolescent must balance the potential risks with the clinical need.
 
-The safety of sertraline hydrochloride use in children and adolescents with OCD, ages 6–18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6–17, and in a flexible dose, 52 week open extension study of 137 patients, ages 6–18, who had completed the initial 12-week, double-blind, placebo-controlled study.
+The safety of sertraline hydrochloride use in children and adolescents with OCD, ages 6–18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6–17, and in a flexible dose, 52-week open extension study of 137 patients, ages 6–18, who had completed the initial 12-week, double-blind, placebo-controlled study.
 Sertraline hydrochloride was administered at doses of either 25 mg/day (children, ages 6–12) or 50 mg/day (adolescents, ages 13–18) and then titrated in weekly 25 mg/day or 50 mg/day increments, respectively, to a maximum dose of 200 mg/day based upon clinical response.
 The mean dose for completers was 157 mg/day.
-In the acute 12 week pediatric study and in the 52 week study, sertraline hydrochloride had an adverse event profile generally similar to that observed in adults.
+In the acute 12 week pediatric study and in the 52-week study, sertraline hydrochloride had an adverse event profile generally similar to that observed in adults.
 
 Sertraline pharmacokinetics were evaluated in 61 pediatric patients between 6 and 17 years of age with major depressive disorder or OCD and revealed similar drug exposures to those of adults when plasma concentration was adjusted for weight (see Pharmacokinetics under CLINICAL PHARMACOLOGY).
 
@@ -405,9 +411,9 @@ At baseline the mean weight for adolescents was 61.4 kg for sertraline and 62.5 
 There was a bigger difference between sertraline and placebo in the proportion of outliers for clinically important weight loss in children than in adolescents.
 For children, about 7% had a weight loss > 7% of body weight compared to none of the placebo patients; for adolescents, about 2% had a weight loss > 7% of body weight compared to about 1% of the placebo patients.
 A subset of these patients who completed the randomized controlled trials (sertraline n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
-A mean weight loss of approximately 0.5 kg was seen during the first eight weeks of treatment for subjects with first exposure to sertraline during the open-label extension study, similar to mean weight loss observed among sertraline treated subjects during the first eight weeks of the randomized controlled trials.
-The subjects continuing in the open label study began gaining weight compared to baseline by week 12 of sertraline treatment.
-Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo controlled trial + 24 weeks open label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
+A mean weight loss of approximately 0.5 kg was seen during the first eight weeks of treatment for subjects with first exposure to sertraline during the open-label extension study, similar to mean weight loss observed among sertraline-treated subjects during the first eight weeks of the randomized controlled trials.
+The subjects continuing in the open-label study began gaining weight compared to baseline by week 12 of sertraline treatment.
+Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
 Regular monitoring of weight and growth is recommended if treatment of a pediatric patient with an SSRI is to be continued long term.
 Safety and effectiveness in pediatric patients below the age of 6 have not been established.
 
@@ -418,7 +424,7 @@ Although there is no affirmative finding to suggest that sertraline possesses a 
 
 ## Geriatric Use
 
-U.S. geriatric clinical studies of sertraline hydrochloride in major depressive disorder included 663 sertraline hydrochloride -treated subjects ≥ 65 years of age, of those, 180 were ≥ 75 years of age.
+U.S. geriatric clinical studies of sertraline hydrochloride in major depressive disorder included 663 sertraline hydrochloride-treated subjects ≥ 65 years of age, of those, 180 were ≥ 75 years of age.
 No overall differences in the pattern of adverse reactions were observed in the geriatric clinical trial subjects relative to those reported in younger subjects (see ADVERSE REACTIONS), and other reported experience has not identified differences in safety patterns between the elderly and younger subjects.
 As with all medications, greater sensitivity of some older individuals cannot be ruled out.
 There were 947 subjects in placebo-controlled geriatric clinical studies of sertraline hydrochloride in major depressive disorder.
@@ -429,4 +435,4 @@ No overall differences in the pattern of efficacy were observed in the geriatric
 In 354 geriatric subjects treated with sertraline hydrochloride in placebo-controlled trials, the overall profile of adverse events was generally similar to that shown in Tables 1 and 2.
 Urinary tract infection was the only adverse event not appearing in Tables 1 and 2 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
 
-As with other SSRIs, sertraline hydrochloride has been associated with cases of clinically significant hyponatremia in elderly patients (see Hyponatremia under PRECAUTIONS).
+SSRIS and SNRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).

@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Sertraline hydrochloride capsular-shaped scored tablets, equivalent to 25, 50 and 100 mg of sertraline, are packaged in bottles.
+Sertraline hydrochloride capsule-shaped scored tablets, equivalent to 25, 50 and 100 mg of sertraline, are packaged in bottles.
 
-Sertraline hydrochloride 25 mg Tablets: light green capsular-shaped scored tablets engraved on one side with G 4960 and on the other side engraved with 25 mg.
+Sertraline hydrochloride 25 mg Tablets: light green capsule-shaped scored tablets engraved on one side with G 4960 and on the other side engraved with 25 mg.
 
 NDC 59762-4960-1 Bottles of 30
 

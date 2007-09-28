@@ -13,7 +13,7 @@ It is important to emphasize that events reported during therapy were not necess
 
 The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence rate in the population studied.
 
 ## Incidence in Placebo-Controlled Trials
 
@@ -33,7 +33,7 @@ TABLE 1 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONT
 | Ejaculation FailurePrimarily ejaculatory delay. Denominator used was for male patients only (N=271 sertraline hydrochloride major depressive disorder/other*; N=271 placebo major depressive disorder/other*; N=296 sertraline hydrochloride OCD; N=219 placebo OCD; N=216 sertraline hydrochloride panic disorder; N=134 placebo panic disorder; N=130 sertraline hydrochloride PTSD; N=149 placebo PTSD; No male patients in PMDD studies; N=205 sertraline hydrochloride social anxiety disorder; N=153 placebo social anxiety disorder). | 7 | <1 | 17 | 2 | 19 | 1 | 11 | 1 |
 | Mouth Dry | 16 | 9 | 14 | 9 | 15 | 10 | 11 | 6 |
 | Sweating Increased | 8 | 3 | 6 | 1 | 5 | 1 | 4 | 2 |
-| Centr. & Periph. Nerv. System Disorders |  |  |  |  |  |  |  |  |
+| Center. & Periph. Nerv. System Disorders |  |  |  |  |  |  |  |  |
 | Somnolence | 13 | 6 | 15 | 8 | 15 | 9 | 13 | 9 |
 | Tremor | 11 | 3 | 8 | 1 | 5 | 1 | 5 | 1 |
 | Dizziness | 12 | 7 | 17 | 9 | 10 | 10 | 8 | 5 |
@@ -58,7 +58,7 @@ TABLE 1 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONT
 | Ejaculation Failure | N/A | N/A | N/A | N/A | 14 | - |  |  |
 | Mouth Dry | 6 | 3 | 10 | 3 | 12 | 4 |  |  |
 | Sweating Increased | 6 | <1 | 3 | 0 | 11 | 2 |  |  |
-| Centr. & Periph. Nerv. System Disorders |  |  |  |  |  |  |  |  |
+| Center. & Periph. Nerv. System Disorders |  |  |  |  |  |  |  |  |
 | Somnolence | 7 | <1 | 2 | 0 | 9 | 6 |  |  |
 | Tremor | 2 | 0 | <1 | <1 | 9 | 3 |  |  |
 | Dizziness | 6 | 3 | 7 | 5 | 14 | 6 |  |  |
@@ -86,7 +86,7 @@ TABLE 2 TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINI
 | Ejaculation FailurePrimarily ejaculatory delay. Denominator used was for male patients only (N=1118 sertraline hydrochloride; N=926 placebo). | 14 | 1 |
 | Mouth Dry | 14 | 8 |
 | Sweating Increased | 7 | 2 |
-| Centr. & Periph. Nerv. System Disorders |  |  |
+| Center. & Periph. Nerv. System Disorders |  |  |
 | Somnolence | 13 | 7 |
 | Dizziness | 12 | 7 |
 | Headache | 25 | 23 |
@@ -143,7 +143,7 @@ TABLE 3 MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN PLACEBO-CO
 Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that selective serotonin reuptake inhibitors (SSRIs) can cause such untoward sexual experiences.
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
-Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
+Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
 
 Table 4 below displays the incidence of sexual side effects reported by at least 2% of patients taking sertraline hydrochloride in placebo-controlled trials.
 
@@ -222,6 +222,6 @@ Sertraline hydrochloride therapy was associated with small mean increases in tot
 
 The safety profile observed with sertraline hydrochloride treatment in patients with major depressive disorder, OCD, panic disorder, PTSD, PMDD and social anxiety disorder is similar.
 
-## Other Events Observed During the Postmarketing Evaluation of sertraline hydrochloride
+## Other Events Observed During the Post marketing Evaluation of sertraline hydrochloride
 
 Reports of adverse events temporally associated with sertraline hydrochloride that have been received since market introduction, that are not listed above and that may have no causal relationship with the drug, include the following: acute renal failure, anaphylactoid reaction, angioedema, blindness, optic neuritis, cataract, increased coagulation times, bradycardia, AV block, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including torsade de pointes-type arrhythmias), hypothyroidism, agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness, hyperglycemia, galactorrhea, hyperprolactinemia, neuroleptic malignant syndrome-like events, extrapyramidal symptoms, oculogyric crisis, serotonin syndrome, psychosis, pulmonary hypertension, severe skin reactions, which potentially can be fatal, such as Stevens-Johnson syndrome, vasculitis, photosensitivity and other severe cutaneous disorders, rare reports of pancreatitis, and liver events—clinical features (which in the majority of cases appeared to be reversible with discontinuation of sertraline hydrochloride) occurring in one or more patients include: elevated enzymes, increased bilirubin, hepatomegaly, hepatitis, jaundice, abdominal pain, vomiting, liver failure and death.

@@ -37,7 +37,7 @@ Call a healthcare provider right away if you or your family member has any of th
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking a healthcare provider.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.

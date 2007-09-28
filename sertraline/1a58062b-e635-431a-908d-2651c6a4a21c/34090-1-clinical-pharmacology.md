@@ -6,7 +6,7 @@ The mechanism of action of sertraline is presumed to be linked to its inhibition
 Studies at clinically relevant doses in man have demonstrated that sertraline blocks the uptake of serotonin into human platelets.
 In vitro studies in animals also suggest that sertraline is a potent and selective inhibitor of neuronal serotonin reuptake and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
 In vitro studies have shown that sertraline has no significant affinity for adrenergic (alpha1, alpha2, beta), cholinergic, GABA, dopaminergic, histaminergic, serotonergic (5HT1A, 5HT1B, 5HT2), or benzodiazepine receptors; antagonism of such receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects for other psychotropic drugs.
-The chronic administration of sertraline was found in animals to downregulate brain norepinephrine receptors, as has been observed with other drugs effective in the treatment of major depressive disorder.
+The chronic administration of sertraline was found in animals to down regulate brain norepinephrine receptors, as has been observed with other drugs effective in the treatment of major depressive disorder.
 Sertraline does not inhibit monoamine oxidase.
 
 ## Pharmacokinetics
@@ -39,7 +39,7 @@ About 40–45% of the administered radioactivity was recovered in urine in 9 day
 Unchanged sertraline was not detectable in the urine.
 For the same period, about 40–45% of the administered radioactivity was accounted for in feces, including 12–14% unchanged sertraline.
 
-Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0–24 hour), Cmax and Cmin, with about a 5–9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
+Desmethylsertraline exhibits time-related, dose-dependent increases in AUC (0–24 hour), Cmax and Cmin, with about a 5–9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
 
 ### Protein Binding
 
@@ -52,7 +52,7 @@ Sertraline pharmacokinetics were evaluated in a group of 61 pediatric patients (
 Patients included both males (N=28) and females (N=33).
 During 42 days of chronic sertraline dosing, sertraline was titrated up to 200 mg/day and maintained at that dose for a minimum of 11 days.
 On the final day of sertraline 200 mg/day, the 6–12 year old group exhibited a mean sertraline AUC (0–24 hr) of 3107 ng-hr/mL, mean Cmax of 165 ng/mL, and mean half-life of 26.2 hr. The 13–17 year old group exhibited a mean sertraline AUC (0–24 hr) of 2296 ng-hr/mL, mean Cmax of 123 ng/mL, and mean half-life of 27.8 hr. Higher plasma levels in the 6–12 year old group were largely attributable to patients with lower body weights.
-No gender associated differences were observed.
+No gender-associated differences were observed.
 By comparison, a group of 22 separately studied adults between 18 and 45 years of age (11 male, 11 female) received 30 days of 200 mg/day sertraline and exhibited a mean sertraline AUC (0–24 hr) of 2570 ng-hr/mL, mean Cmax of 142 ng/mL, and mean half-life of 27.2 hr. Relative to the adults, both the 6–12 year olds and the 13–17 year olds showed about 22% lower AUC (0–24 hr) and Cmax values when plasma concentration was adjusted for weight.
 These data suggest that pediatric patients metabolize sertraline with slightly greater efficiency than adults.
 Nevertheless, lower doses may be advisable for pediatric patients given their lower body weights, especially in very young patients, in order to avoid excessive plasma levels (see DOSAGE AND ADMINISTRATION).
@@ -87,7 +87,7 @@ The efficacy of sertraline hydrochloride as a treatment for major depressive dis
 Study 1 was an 8-week study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day; the mean dose for completers was 145 mg/day.
 Study 2 was a 6-week fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
 Overall, these studies demonstrated sertraline hydrochloride to be superior to placebo on the Hamilton Depression Rating Scale and the Clinical Global Impression Severity and Improvement scales.
-Study 2 was not readily interpretable regarding a dose response relationship for effectiveness.
+Study 2 was not readily interpretable regarding a dose-response relationship for effectiveness.
 
 Study 3 involved depressed outpatients who had responded by the end of an initial 8-week open treatment phase on sertraline hydrochloride 50–200 mg/day.
 These patients (N=295) were randomized to continuation for 44 weeks on double-blind sertraline hydrochloride 50–200 mg/day or placebo.
@@ -139,7 +139,7 @@ The difference between sertraline hydrochloride and placebo in reduction from ba
 
 Study 3 was a 12-week fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
 Patients receiving sertraline hydrochloride experienced a significantly greater reduction in panic attack frequency than patients receiving placebo.
-Study 3 was not readily interpretable regarding a dose response relationship for effectiveness.
+Study 3 was not readily interpretable regarding a dose-response relationship for effectiveness.
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age, race, or gender.
 
@@ -157,7 +157,7 @@ The mean duration of PTSD for these patients was 12 years (Studies 1 and 2 combi
 
 Studies 1 and 2 were 12-week flexible dose studies.
 Sertraline hydrochloride was initiated at 25 mg/day for the first week, and patients were then dosed in the range of 50–200 mg/day on the basis of clinical response and toleration.
-The mean sertraline hydrochloride dose for completers was 146 mg/day and 151 mg/day, respectively for Studies 1 and 2.
+The mean sertraline hydrochloride dose for completers was 146 mg/day and 151 mg/day, respectively, for Studies 1 and 2.
 Study outcome was assessed by the Clinician-Administered PTSD Scale Part 2 (CAPS) which is a multi-item instrument that measures the three PTSD diagnostic symptom clusters of reexperiencing/intrusion, avoidance/numbing, and hyperarousal as well as the patient-rated Impact of Event Scale (IES) which measures intrusion and avoidance symptoms.
 Sertraline hydrochloride was shown to be significantly more effective than placebo on change from baseline to endpoint on the CAPS, IES and on the Clinical Global Impressions (CGI) Severity of Illness and Global Improvement scores.
 In two additional placebo-controlled PTSD trials, the difference in response to treatment between patients receiving sertraline hydrochloride and patients receiving placebo was not statistically significant.
@@ -186,7 +186,7 @@ Patients on oral contraceptives were excluded from these trials; therefore, the 
 Efficacy was assessed with the Daily Record of Severity of Problems (DRSP), a patient-rated instrument that mirrors the diagnostic criteria for PMDD as identified in the DSM-IV, and includes assessments for mood, physical symptoms, and other symptoms.
 Other efficacy assessments included the Hamilton Depression Rating Scale (HAMD-17), and the Clinical Global Impression Severity of Illness (CGI-S) and Improvement (CGI-I) scores.
 
-In Study 1, involving n=251 randomized patients, sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
+In Study 1, involving n=251 randomized patients; sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
 In subsequent cycles, patients were dosed in the range of 50–150 mg/day on the basis of clinical response and toleration.
 The mean dose for completers was 102 mg/day.
 Sertraline hydrochloride administered daily throughout the menstrual cycle was significantly more effective than placebo on change from baseline to endpoint on the DRSP total score, the HAMD-17 total score, and the CGI-S score, as well as the CGI-I score at endpoint.
