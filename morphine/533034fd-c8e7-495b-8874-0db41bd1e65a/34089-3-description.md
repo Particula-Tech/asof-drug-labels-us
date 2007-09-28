@@ -18,7 +18,7 @@ Inactive ingredients: hydroxypropyl methylcellulose USP, lactose monohydrate NF,
 
 Morphine Sulfate Tablets (morphine sulfate extended-release tablets) 200 mg Tablets* (For use in opioid-tolerant patients only)
 
-Each Morphine Sulfate Extended-Release Tablets, 200 mg* contains: 200 mg Morphine sulfate USP.
+Each Morphine Sulfate Extended-Release Tablet, 200 mg* contains: 200 mg Morphine sulfate USP.
 Inactive ingredients: hydroxypropyl methylcellulose USP, lactose monohydrate NF, magnesium stearate NF, polyethylene glycol NF, silicone dioxide NF, titanium dioxide USP, triacetine USP, FD&C Blue No. 1, D&C Yellow No. 10 Lake.
 
 *FOR USE IN OPIOID-TOLERANT PATIENTS ONLY.

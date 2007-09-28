@@ -83,7 +83,7 @@ Dosages of morphine should be chosen and must be titrated on the basis of clinic
 
 For any fixed dose and dosing interval, Morphine Sulfate Extended-Release Tablets will have at steady-state, a lower Cmax and a higher Cmin than conventional morphine.
 This is a potential advantage; a reduced fluctuation in morphine concentration during the dosing interval should keep morphine blood levels more centered within the theoretical “therapeutic window.”
-(Fluctuation for a dosing interval is defined as [Cmax - Cmin]/[CSS-average].)
+(Fluctuation for a dosing interval is defined as [Cmax-Cmin]/[CSS-average].)
 On the other hand, the degree of fluctuation in serum morphine concentration might conceivably affect other phenomena.
 For example, reduced fluctuations in blood morphine concentrations might influence the rate of tolerance induction.
 
