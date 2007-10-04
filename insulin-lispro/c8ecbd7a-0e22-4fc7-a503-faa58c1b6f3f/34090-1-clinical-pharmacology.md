@@ -23,7 +23,7 @@ Similar results were seen in patients with type 1 diabetes.
 The pharmacokinetic profiles of Humalog and Regular human insulin are comparable to one another when administered to nondiabetic subjects by the intravenous route.
 Humalog was absorbed at a consistently faster rate than Regular human insulin in healthy male volunteers given 0.2 U/kg Regular human insulin or Humalog at abdominal, deltoid, or femoral subcutaneous sites, the three sites often used by patients with diabetes.
 After abdominal administration of Humalog, serum drug levels are higher and the duration of action is slightly shorter than after deltoid or thigh administration (see DOSAGE AND ADMINISTRATION).
-Humalog has less intra- and inter–patient variability compared with Regular human insulin.
+Humalog has less intra– and inter–patient variability compared with Regular human insulin.
 
 ### Distribution
 
@@ -52,7 +52,7 @@ The rate of insulin absorption and consequently the onset of activity is known t
 ### Age and Gender
 
 Information on the effect of age and gender on the pharmacokinetics of Humalog is unavailable.
-However, in large clinical trials, sub–group analysis based on age and gender did not indicate any difference in postprandial glucose parameters between Humalog and Regular human insulin.
+However, in large clinical trials, sub-group analysis based on age and gender did not indicate any difference in postprandial glucose parameters between Humalog and Regular human insulin.
 
 ### Smoking
 
@@ -76,7 +76,7 @@ Careful glucose monitoring and dose reductions of insulin, including Humalog, ma
 
 ### Hepatic Impairment
 
-Some studies with human insulin have shown increased circulating levels of insulin in patientswith hepatic failure.
+Some studies with human insulin have shown increased circulating levels of insulin in patients with hepatic failure.
 In a study of 22 patients with type 2 diabetes, impaired hepatic function did not affect the subcutaneous absorption or general disposition of Humalog when compared with patients with no history of hepatic dysfunction.
 In that study, Humalog maintained its more rapid absorption and elimination when compared with Regular human insulin.
 Careful glucose monitoring and dose adjustments of insulin, including Humalog, may be necessary in patients with hepatic dysfunction.

@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Humalog is intended for subcutaneous administration, including use in select external insulin pumps (see DOSAGE AND ADMINISTRATION, External Insulin Pumps).
-Dosage regimens of Humalog will vary among patients and should be determined by the Health Care Professional familiar with the patient’s metabolic needs, eating habits, and other lifestyle variables.
+Dosage regimens of Humalog will vary among patients and should be determined by the healthcare provider familiar with the patient’s metabolic needs, eating habits, and other lifestyle variables.
 Pharmacokinetic and pharmacodynamic studies showed Humalog to be equipotent to Regular human insulin (i.e., one unit of Humalog has the same glucose–lowering effect as one unit of Regular human insulin), but with more rapid activity.
 The quicker glucose–lowering effect of Humalog is related to the more rapid absorption rate from subcutaneous tissue.
 An adjustment of dose or schedule of basal insulin may be needed when a patient changes from other insulins to Humalog, particularly to prevent pre–meal hyperglycemia.
@@ -28,7 +28,7 @@ Humalog should not be used after its expiration date.
 
 The cartridge containing Humalog is not designed to allow any other insulin to be mixed in the cartridge or for the cartridge to be refilled with insulin.
 
-External Insulin Pumps — Humalog may be used with MiniMed®1 Models 506, 507, and 508 insulin pumps using MiniMed®1 Polyfin®1 infusion sets.
-Humalog may also be used in the Disetronic®2 H–TRONplus® V100 insulin pump (with plastic 3.15 mL insulin reservoir) and the Disetronic D–TRON®2,3 and D–TRON®2,3plus pumps (with Humalog 3 mL cartridges) using Disetronic Rapid®2 infusion sets.
+External Insulin Pumps — Humalog was tested in MiniMed®1 Models 506, 507, and 508 insulin pumps using MiniMed®1 Polyfin®1 infusion sets.
+Humalog was also tested in the Disetronic®2 H–TRONplus® V100 insulin pump (with plastic 3.15 mL insulin reservoir) and the Disetronic D–TRON®2,3 and D–TRON®2,3plus pumps (with Humalog 3 mL cartridges) using Disetronic Rapid®2 infusion sets.
 
 Humalog should not be diluted or mixed with any other insulin when used in an external insulin pump.

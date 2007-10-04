@@ -6,15 +6,13 @@ The clinical significance of improvement in postprandial hyperglycemia has not b
 Table 1: Comparison of Means of Glycemic Parameters at the End of Combined Treatment Periods.
 All Randomized Patients in Cross–Over Studies (3 Months for Each Treatment)
 
-| Type 1, N=1008 |  |  |
+| Type 1, N=1008 Glycemic Parameter, (mg/dL) | HumalogMean ± Standard Deviation. | Humulin RREGULAR insulin human injection, USP (rDNA origin). |
 | --- | --- | --- |
-| Glycemic Parameter, (mg/dL) | HumalogMean ± Standard Deviation. | Humulin RREGULAR insulin human injection, USP (rDNA origin). |
 | Fasting Blood Glucose | 209.5 ± 91.6 | 204.1 ± 89.3 |
 | 1–Hour Postprandial | 232.4 ± 97.7 | 250.0 ± 96.7 |
 | 2–Hour Postprandial | 200.9 ± 95.4 | 231.7 ± 103.9 |
 | HbA1c (%) | 8.2 ± 1.5 | 8.2 ± 1.5 |
-| Type 2, N=722 |  |  |
-| Glycemic Parameter, (mg/dL) | Humalog | Humulin R |
+| Type 2, N=722 Glycemic Parameter, (mg/dL) | Humalog | Humulin R |
 | Fasting Blood Glucose | 192.1 ± 67.9 | 183.1 ± 66.1 |
 | 1–Hour Postprandial | 238.1 ± 79.7 | 250.0 ± 75.2 |
 | 2–Hour Postprandial | 217.4 ± 83.2 | 236.5 ± 80.6 |

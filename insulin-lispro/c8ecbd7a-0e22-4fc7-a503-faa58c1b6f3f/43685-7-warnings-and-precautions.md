@@ -13,7 +13,7 @@ Any change of insulin should be made cautiously and only under medical supervisi
 Changes in insulin strength, manufacturer, type (e.g., Regular, NPH, analog), species, or method of manufacture may result in the need for a change in dosage.
 
 External Insulin Pumps: When used in an external insulin pump, Humalog should not be diluted or mixed with any other insulin.
-Patients should carefully read and follow the external insulin pump manufacturer’s instructions and the “INFORMATION FOR THE PATIENT” insert before using Humalog.
+Patients should carefully read and follow the external insulin pump manufacturer’s instructions and the Patient Information leaflet before using Humalog.
 
 Physicians should carefully evaluate information on external insulin pump use in this Humalog physician package insert and in the external insulin pump manufacturer’s instructions.
 If unexplained hyperglycemia or ketosis occurs during external insulin pump use, prompt identification and correction of the cause is necessary.
@@ -24,7 +24,7 @@ The patient may require interim therapy with subcutaneous insulin injections (se
 ## General
 
 Hypoglycemia and hypokalemia are among the potential clinical adverse effects associated with the use of all insulins.
-Because of differences in the action of Humalog and other insulins, care should be taken in patients in whom such potential side effects might be clinically relevant (e.g., patients who are fasting, have autonomic neuropathy, or are using potassium–lowering drugs or patients taking drugs sensitive to serum potassium level).
+Because of differences in the action of Humalog and other insulins, care should be taken in patients in whom such potential sideeffects might be clinically relevant (e.g., patients who are fasting, have autonomic neuropathy, or are using potassium–lowering drugs or patients taking drugs sensitive to serum potassium level).
 Lipodystrophy and hypersensitivity are among other potential clinical adverse effects associated with the use of all insulins.
 
 As with all insulin preparations, the time course of Humalog action may vary in different individuals or at different times in the same individual and is dependent on site of injection, blood supply, temperature, and physical activity.
@@ -49,7 +49,7 @@ Severe cases of generalized allergy, including anaphylactic reaction, may be lif
 In controlled clinical trials, pruritus (with or without rash) was seen in 17 patients receiving Humulin R (N=2969) and 30 patients receiving Humalog (N=2944) (p=0.053).
 Localized reactions and generalized myalgias have been reported with the use of cresol as an injectable excipient.
 
-Antibody Production — In large clinical trials, antibodies that cross–react with human insulin and insulin lispro were observed in both Humulin R- and Humalog–treatment groups.
+Antibody Production — In large clinical trials, antibodies that cross–react with human insulin and insulin lispro were observed in both Humulin R– and Humalog–treatment groups.
 As expected, the largest increase in the antibody levels during the 12–month clinical trials was observed with patients new to insulin therapy.
 
 Usage in External Insulin Pumps — The infusion set (reservoir syringe, tubing, and catheter), Disetronic® D–TRON®2,3 or D–TRON®2,3plus cartridge adapter, and Humalog in the external insulin pump reservoir should be replaced and a new infusion site selected every 48 hours or less.
@@ -63,19 +63,19 @@ When used in an external insulin pump, Humalog should not be diluted or mixed wi
 ## Information for Patients
 
 Patients should be informed of the potential risks and advantages of Humalog and alternative therapies.
-Patients should also be informed about the importance of proper insulin storage, injection technique, timing of dosage, adherence to meal planning, regular physical activity, regular blood glucose monitoring, periodic hemoglobin A1c testing, recognition and management of hypo- and hyperglycemia, and periodic assessment for diabetes complications.
+Patients should also be informed about the importance of proper insulin storage, injection technique, timing of dosage, adherence to meal planning, regular physical activity, regular blood glucose monitoring, periodic hemoglobin A1c testing, recognition and management of hypo– and hyperglycemia, and periodic assessment for diabetes complications.
 
 Patients should be advised to inform their physician if they are pregnant or intend to become pregnant.
 
-Refer patients to the “INFORMATION FOR THE PATIENT” insert for information on proper injection technique, timing of Humalog dosing (≤15 minutes before or immediately after a meal), storing and mixing insulin, and common adverse effects.
+Refer patients to the Patient Information leaflet for timing of Humalog dosing (≤15 minutes before or immediately after a meal), storing insulin, and common adverse effects.
 
-For Patients Using Insulin Pen Delivery Devices: Before starting therapy, patients should read the “INFORMATION FOR THE PATIENT” insert that accompanies the drug product and the User Manual that accompanies the delivery device and re–read them each time the prescription is renewed.
+For Patients Using Insulin Pen Delivery Devices: Before starting therapy, patients should read the Patient Information leaflet that accompanies the drug product and the User Manual that accompanies the delivery device and re-read them each time the prescription is renewed.
 Patients should be instructed on how to properly use the delivery device, prime the Pen, and properly dispose of needles.
 Patients should be advised not to share their Pens with others.
 
 For Patients Using External Insulin Pumps: Patients using an external infusion pump should be trained in intensive insulin therapy and in the function of their external insulin pump and pump accessories.
-Humalog may be used with the MiniMed®1 Models 506, 507, and 508 insulin pumps using MiniMed®1 Polyfin®1 infusion sets.
-Humalog may also be used in Disetronic®2 H–TRONplus® V100 insulin pump (with plastic 3.15 mL insulin reservoir), and the Disetronic D–TRON®2,3 and D–TRON®2,3plus insulin pumps (with Humalog 3 mL cartridges) using Disetronic Rapid®2 infusion sets.
+Humalog was tested in the MiniMed®1 Models 506, 507, and 508 insulin pumps using MiniMed®1 Polyfin®1 infusion sets.
+Humalog was also tested in Disetronic®2 H–TRONplus® V100 insulin pump (with plastic 3.15 mL insulin reservoir), and the Disetronic D–TRON®2,3 and D–TRON®2,3plus insulin pumps (with Humalog 3 mL cartridges) using Disetronic Rapid®2 infusion sets.
 
 The infusion set (reservoir syringe, tubing, catheter), D–TRON®2,3 or D–TRON®2,3plus cartridge adapter, and Humalog in the external insulin pump reservoir should be replaced, and a new infusion site selected every 48 hours or less.
 Humalog in the external pump should not be exposed to temperatures above 37°C (98.6°F).
@@ -113,7 +113,7 @@ Humalog should not be diluted or mixed with any other insulin when used in an ex
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long–term studies in animals have not been performed to evaluate the carcinogenic potential of Humalog, Humalog Mix75/25 or Humalog Mix50/50.
+Long–term studies in animals have not been performed to evaluate the carcinogenic potential of Humalog, Humalog Mix75/25, or Humalog Mix50/50.
 Insulin lispro was not mutagenic in a battery of in vitro and in vivo genetic toxicity assays (bacterial mutation tests, unscheduled DNA synthesis, mouse lymphoma assay, chromosomal aberration tests, and a micronucleus test).
 There is no evidence from animal studies of impairment of fertility induced by insulin lispro.
 
