@@ -7,15 +7,27 @@ Discontinuation of therapy with linezolid should be considered in patients who d
 
 In adult and juvenile dogs and rats, myelosuppression, reduced extramedullary hematopoiesis in spleen and liver, and lymphoid depletion of thymus, lymph nodes, and spleen were observed (see ANIMAL PHARMACOLOGY).
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including ZYVOX, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of any antibacterial agent.
+## Mortality Imbalance in an Investigational Study in Patients with Catheter-Related Bloodstream Infections, including those with catheter-site infections
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicated that a toxin produced by Clostridium difficile is a primary cause of "antibiotic-associated colitis."
+An imbalance in mortality was seen in patients treated with linezolid relative to vancomycin/dicloxacillin/oxacillin in an open-label study in seriously ill patients with intravascular catheter-related infections [78/363 (21.5%) vs. 58/363 (16.0%); odds ratio 1.426, 95% CI 0.970, 2.098].
+While causality has not been established, this observed imbalance occurred primarily in linezolid-treated patients in whom either Gram-negative pathogens, mixed Gram-negative and Gram-positive pathogens, or no pathogen were identified at baseline, but was not seen in patients with Gram-positive infections only.
 
-After the diagnosis of pseudomembranous colitis has been established, appropriate therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial agent clinically effective against Clostridium difficile.
+Linezolid is not approved and should not be used for the treatment of patients with catheter-related bloodstream infections or catheter-site infections.
+
+Linezolid has no clinical activity against Gram-negative pathogens and is not indicated for the treatment of Gram-negative infections.
+It is critical that specific Gram-negative therapy be initiated immediately if a concomitant Gram-negative pathogen is documented or suspected (see INDICATIONS AND USAGE).
+
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZYVOX, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -48,7 +60,7 @@ If peripheral or optic neuropathy occurs, the continued use of ZYVOX in these pa
 ### Convulsions
 
 Convulsions have been reported in patients when treated with linezolid.
-In most of these cases, a history of seizures or risk factors for seizures was reported.
+In some of these cases, a history of seizures or risk factors for seizures was reported.
 
 The use of antibiotics may promote the overgrowth of nonsusceptible organisms.
 Should superinfection occur during therapy, appropriate measures should be taken.
@@ -76,6 +88,9 @@ Patients should be advised that:
   Contact your physician or pharmacist.
 - They should inform their physician if they experience changes in vision.
 - They should inform their physician if they have a history of seizures.
+- Diarrhea is a common problem caused by antibiotics, which usually ends when the antibiotic is discontinued.
+  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+  If this occurs, patients should contact their physician as soon as possible.
 
 Patients should be counseled that antibacterial drugs including ZYVOX should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -125,7 +140,7 @@ Reversible reductions in sperm motility and altered sperm morphology were observ
 
 #### Pregnancy Category C
 
-Linezolid was not teratogenic in mice, rats, or rabbits at exposure levels 6.5-fold (in mice), equivalent to (in rats), or 0.5-fold (in rabbits) the expected human exposure level, based on AUCs.
+Linezolid was not teratogenic in mice, rats, or rabbits at exposure levels 6.5-fold (in mice), equivalent to (in rats), or 0.06-fold (in rabbits) the expected human exposure level, based on AUCs.
 However, embryo and fetal toxicities were seen (see Non-teratogenic Effects).
 There are no adequate and well-controlled studies in pregnant women.
 ZYVOX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -139,7 +154,7 @@ In rats, mild fetal toxicity was observed at 15 and 50 mg/kg/day (exposure level
 The effects consisted of decreased fetal body weights and reduced ossification of sternebrae, a finding often seen in association with decreased fetal body weights.
 Slight maternal toxicity, in the form of reduced body weight gain, was seen at 50 mg/kg/day.
 
-In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at a dose of 15 mg/kg/day (0.5-fold the estimated human exposure based on AUCs).
+In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at a dose of 15 mg/kg/day (0.06-fold the estimated human exposure based on AUCs).
 
 When female rats were treated with 50 mg/kg/day (approximately equivalent to the estimated human exposure based on AUCs) of linezolid during pregnancy and lactation, survival of pups was decreased on postnatal days 1 to 4.
 Male and female pups permitted to mature to reproductive age, when mated, showed an increase in preimplantation loss.
