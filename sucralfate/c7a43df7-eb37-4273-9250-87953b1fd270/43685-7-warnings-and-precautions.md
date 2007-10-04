@@ -22,13 +22,14 @@ Subtherapeutic prothrombin times with concomitant warfarin and sucralfate therap
 However, two clinical studies have demonstrated no change in either serum warfarin concentration or prothrombin time with the addition of sucralfate to chronic warfarin therapy.
 
 The mechanism of these interactions appears to be nonsystemic in nature, presumably resulting from sucralfate binding to the concomitant agent in the gastrointestinal tract.
-In all cases studied to date (cimetidine, ciprofloxacin, digoxin, ranitidine, and warfarin), dosing the concomitant medication 2 hours before sucralfate eliminated the interaction.
+In all case studies to date (cimetidine, ciprofloxacin, digoxin, norfloxacin, ofloxacin, and ranitidine), dosing the concomitant medication 2 hours before sucralfate eliminated the interaction.
 Because of the potential of sucralfate to alter the absorption of some drugs, sucralfate should be administered separately from other drugs when alterations in bioavailability are felt to be critical.
 In these cases, patients should be monitored appropriately.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Chronic oral toxicity studies of 24 months’ duration were conducted in mice and rats at doses up to 1 g/kg (12 times the human dose).
+
 There was no evidence of drug-related tumorigenicity.
 A reproduction study in rats at doses up to 38 times the human dose did not reveal any indication of fertility impairment.
 Mutagenicity studies were not conducted.
@@ -37,7 +38,7 @@ Mutagenicity studies were not conducted.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
+#### Pregnancy category B
 
 Teratogenicity studies have been performed in mice, rats, and rabbits at doses up to 50 times the human dose and have revealed no evidence of harm to the fetus due to sucralfate.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -51,3 +52,14 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 Safety and effectiveness in children have not been established.
+
+## Geriatric Use
+
+Clinical studies of sucralfate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+(See DOSAGE AND ADMINISTRATION.)
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+(See PRECAUTIONS, Special Populations, Chronic Renal Failure and Dialysis Patients.)
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

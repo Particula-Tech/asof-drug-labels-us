@@ -12,4 +12,4 @@ The following observations also appear pertinent:
 4. In vitro, sucralfate absorbs bile salts.
 
 These observations suggest that sucralfate’s antiulcer activity is the result of formation of an ulcer-adherent complex that covers the ulcer site and protects it against further attack by acid, pepsin, and bile salts.
-There are approximately 14-16 mEq of acid-neutralizing capacity per 1-gram dose of sucralfate.
+There are approximately 14-16 mEq of acid-neutralizing capacity per 1 g dose of sucralfate.

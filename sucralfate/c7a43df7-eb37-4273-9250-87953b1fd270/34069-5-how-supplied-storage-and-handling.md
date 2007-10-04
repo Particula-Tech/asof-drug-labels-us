@@ -1,12 +1,12 @@
 # HOW SUPPLIED
 
-Sucralfate Tablets, USP are supplied as white, single-scored, capsule-shaped tablets containing 1 gram of sucralfate.
+Sucralfate tablets, USP are supplied as white, single-scored, capsule-shaped tablets containing 1 gram of sucralfate.
 Available in bottles of 100 and 500.
 Tablets are debossed “BIOCRAFT” on one side and “105” twice on the scored side.
 
-Dispense in a tight container as defined in the USP/NF.
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Store at controlled room temperature, between 20° and 25° C (68° and 77° F) (see USP).
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
 Manufactured By:
 
@@ -15,4 +15,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-D 9/2003
+E 5/2007
