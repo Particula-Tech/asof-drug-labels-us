@@ -49,16 +49,16 @@ They should also be informed about the importance of proper insulin storage, inj
 
 Patients should be advised to inform their physician if they are pregnant or intend to become pregnant.
 
-Refer patients to the “INFORMATION FOR THE PATIENT” insert for information on normal appearance, proper resuspension and injection techniques, timing of dosing (within 15 minutes before a meal), storing, and common adverse effects.
+Refer patients to the Patient Information leaflet for information on normal appearance, timing of dosing (within 15 minutes before a meal), storing, and common adverse effects.
 
-For Patients Using Insulin Pen Delivery Devices: Before starting therapy, patients should read the “INFORMATION FOR THE PATIENT” insert that accompanies the drug product and the User Manual that accompanies the delivery device and re-read them each time the prescription is renewed.
+For Patients Using Insulin Pen Delivery Devices: Before starting therapy, patients should read the Patient Information leaflet that accompanies the drug product and the User Manual that accompanies the delivery device and re-read them each time the prescription is renewed.
 Patients should be instructed on how to properly use the delivery device, prime the Pen, and properly dispose of needles.
 Patients should be advised not to share their Pens with others.
 
 ## Laboratory Tests
 
 As with all insulins, the therapeutic response to Humalog Mix50/50 should be monitored by periodic blood glucose tests.
-Periodic measurement of hemoglobin A1c is recommended for the monitoring of long–term glycemic control.
+Periodic measurement of hemoglobin A1c isrecommended for the monitoring of long–term glycemic control.
 
 ## Drug Interactions
 
@@ -69,7 +69,7 @@ Beta–adrenergic blockers may mask the symptoms of hypoglycemia in some patient
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long–term studies in animals have not been performed to evaluate the carcinogenic potential of Humalog, Humalog Mix75/25 or Humalog Mix50/50.
+Long–term studies in animals have not been performed to evaluate the carcinogenic potential of Humalog, Humalog Mix75/25, or Humalog Mix50/50.
 Insulin lispro was not mutagenic in a battery of in vitro and in vivo genetic toxicity assays (bacterial mutation tests, unscheduled DNA synthesis, mouse lymphoma assay, chromosomal aberration tests, and a micronucleus test).
 There is no evidence from animal studies of impairment of fertility induced by insulin lispro.
 
@@ -79,7 +79,7 @@ There is no evidence from animal studies of impairment of fertility induced by i
 
 Reproduction studies with insulin lispro have been performed in pregnant rats and rabbits at parenteral doses up to 4 and 0.3 times, respectively, the average human dose (40 units/day) based on body surface area.
 The results have revealed no evidence of impaired fertility or harm to the fetus due to insulin lispro.
-There are, however, no adequate and well–controlled studies with Humalog, Humalog Mix75/25 or Humalog Mix50/50 in pregnant women.
+There are, however, no adequate and well–controlled studies with Humalog, Humalog Mix75/25, or Humalog Mix50/50 in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers

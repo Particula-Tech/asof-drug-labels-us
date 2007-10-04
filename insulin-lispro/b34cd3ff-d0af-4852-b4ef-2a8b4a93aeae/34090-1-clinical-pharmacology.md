@@ -52,7 +52,7 @@ The time course of action of insulin and insulin analogs, such as Humalog (and h
 The parameters of Humalog Mix50/50 activity (time of onset, peak time, and duration) as presented in Figures 2 and 3 should be considered only as general guidelines.
 The rate of insulin absorption and consequently the onset of activity is known to be affected by the site of injection, exercise, and other variables (see General under PRECAUTIONS).
 
-In a glucose clamp study performed in 30 nondiabetic subjects, the onset of action and glucose–lowering activity of Humalog, Humalog Mix50/50, Humalog® Mix75/25™ and insulin lispro protamine suspension (NPL component) were compared (see Figure 2).
+In a glucose clamp study performed in 30 nondiabetic subjects, the onset of action and glucose–lowering activity of Humalog, Humalog Mix50/50, Humalog® Mix75/25™, and insulin lispro protamine suspension (NPL component) were compared (see Figure 2).
 Graphs of mean glucose infusion rate versus time showed a distinct insulin activity profile for each formulation.
 The rapid onset of glucose–lowering activity characteristic of Humalog was maintained in Humalog Mix50/50.
 
@@ -71,7 +71,7 @@ Figure 3 is a comparison of the time activity profiles of Humalog Mix50/50 (see 
 
 Information on the effect of age on the pharmacokinetics of Humalog Mix50/50 is unavailable.
 Pharmacokinetic and pharmacodynamic comparisons between men and women administered Humalog Mix50/50 showed no gender differences.
-In large Humalog clinical trials, sub-group analysis based on age and gender demonstrated that differences between Humalog and Regular human insulin in postprandial glucose parameters are maintained across sub–groups.
+In large Humalog clinical trials, sub–group analysis based on age and gender demonstrated that differences between Humalog and Regular human insulin in postprandial glucose parameters are maintained across sub–groups.
 
 ### Smoking
 

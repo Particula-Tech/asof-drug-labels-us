@@ -17,7 +17,7 @@ Values represent means, with ranges provided in parentheses.: Summary of Pharmac
 
 Humalog Mix50/50 is intended only for subcutaneous administration.
 Humalog Mix50/50 should not be administered intravenously.
-Dosage regimens of Humalog Mix50/50 will vary among patients and should be determined by the Health Care Professional familiar with the patient’s metabolic needs, eating habits, and other lifestyle variables.
+Dosage regimens of Humalog Mix50/50 will vary among patients and should be determined by the healthcare provider familiar with the patient’s metabolic needs, eating habits, and other lifestyle variables.
 Humalog has been shown to be equipotent to Regular human insulin on a molar basis.
 One unit of Humalog has the same glucose–lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
 The quicker glucose–lowering effect of Humalog is related to the more rapid absorption rate of insulin lispro from subcutaneous tissue.
