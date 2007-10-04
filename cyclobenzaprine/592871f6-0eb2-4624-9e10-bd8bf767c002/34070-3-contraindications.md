@@ -1,0 +1,10 @@
+# CONTRAINDICATIONS
+
+Hypersensitivity to any component of this product.
+
+Concomitant use of monoamine oxidase (MAO) inhibitors or within 14 days after their discontinuation.
+Hyperpyretic crisis seizures, and deaths have occurred in patients receiving cyclobenzaprine (or structurally similar tricyclic antidepressants) concomitantly with MAO inhibitor drugs.
+
+Acute recovery phase of myocardial infarction, and patients with arrhythmias, heart block or conduction disturbances, or congestive heart failure.
+
+Hyperthyroidism.
