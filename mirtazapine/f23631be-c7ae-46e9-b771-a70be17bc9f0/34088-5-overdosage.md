@@ -2,7 +2,7 @@
 
 ## Human Experience
 
-There is very limited experience with mirtazapine overdose.
+There is very limited experience with mirtazapine tablets overdose.
 In premarketing clinical studies, there were eight reports of mirtazapine overdose alone or in combination with other pharmacological agents.
 The only drug overdose death reported while taking mirtazapine was in combination with amitriptyline and chlorprothixene in a non-U.S. clinical study.
 Based on plasma levels, the mirtazapine dose taken was 30-45 mg, while plasma levels of amitriptyline and chlorprothixene were found to be at toxic levels.

@@ -31,7 +31,7 @@ Trials
 
 ## Adverse Events Occurring at an Incidence of 1% or More Among Mirtazapine Treated Patients
 
-The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among mirtazapine- treated patients who participated in short-term U.S. placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
+The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among mirtazapine tablet-treated patients who participated in short-term U.S. placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
 This table shows the percentage of patients in each group who had at least one episode of an event at some time during their treatment.
 Reported adverse events were classified using a standard COSTART-based dictionary terminology.
 
@@ -72,14 +72,14 @@ INCIDENCE OF ADVERSE CLINICAL EXPERIENCES1 (≥1%) IN SHORT-TERM U.S. CONTROLLED
 
 ## ECG Changes
 
-The electrocardiogram for 338 patients who received mirtazapine and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
-Prolongations in QTc ≥ 500 msec for mirtazapine and -3.1 msec for placebo.
+The electrocardiograms for 338 patients who received mirtazapine tablets and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
+Prolongation in QTc ≥ 500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and -3.1 msec for placebo.
 Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
 The clinical significance of these changes is unknown.
 
 ## Other Adverse Events Observed During the Premarketing Evaluation of Mirtazapine
 
-During its premarketing assessment, multiple doses of mirtazapine were administered to 2,796 patients in clinical studies.
+During its premarketing assessment, multiple doses of mirtazapine tablets were administered to 2,796 patients in clinical studies.
 The conditions and duration of exposure to mirtazapine varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed dose and titration studies.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
