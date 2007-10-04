@@ -3,19 +3,19 @@
 ## Antidiabetic Activity
 
 The primary activity of insulin, including Humalog Mix75/25, is the regulation of glucose metabolism.
-In addition, all insulins have several anabolic and anti-catabolic actions on many tissues in the body.
+In addition, all insulins have several anabolic and anti–catabolic actions on many tissues in the body.
 In muscle and other tissues (except the brain), insulin causes rapid transport of glucose and amino acids intracellularly, promotes anabolism, and inhibits protein catabolism.
 In the liver, insulin promotes the uptake and storage of glucose in the form of glycogen, inhibits gluconeogenesis, and promotes the conversion of excess glucose into fat.
 
-Insulin lispro, the rapid-acting component of Humalog Mix75/25, has been shown to be equipotent to Regular human insulin on a molar basis.
-One unit of Humalog® has the same glucose-lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
-Humalog Mix75/25 has a similar glucose-lowering effect as compared with Humulin® 70/30 on a unit for unit basis.
+Insulin lispro, the rapid–acting component of Humalog Mix75/25, has been shown to be equipotent to Regular human insulin on a molar basis.
+One unit of Humalog® has the same glucose–lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
+Humalog Mix75/25 has a similar glucose–lowering effect as compared with Humulin® 70/30 on a unit for unit basis.
 
 ## Pharmacokinetics
 
 ### Absorption
 
-Studies in nondiabetic subjects and patients with type 1 (insulin-dependent) diabetes demonstrated that Humalog, the rapid-acting component of Humalog Mix75/25, is absorbed faster than Regular human insulin (U–100).
+Studies in nondiabetic subjects and patients with type 1 (insulin–dependent) diabetes demonstrated that Humalog, the rapid–acting component of Humalog Mix75/25, is absorbed faster than Regular human insulin (U–100).
 In nondiabetic subjects given subcutaneous doses of Humalog ranging from 0.1 to 0.4 U/kg, peak serum concentrations were observed 30 to 90 minutes after dosing.
 When nondiabetic subjects received equivalent doses of Regular human insulin, peak insulin concentrations occurred between 50 to 120 minutes after dosing.
 Similar results were seen in patients with type 1 diabetes.
@@ -38,24 +38,24 @@ However, the volume of distribution following injection of Humalog is identical 
 ### Metabolism
 
 Human metabolism studies of Humalog Mix75/25 have not been conducted.
-Studies in animals indicate that the metabolism of Humalog, the rapid-acting component of Humalog Mix75/25, is identical to that of Regular human insulin.
+Studies in animals indicate that the metabolism of Humalog, the rapid–acting component of Humalog Mix75/25, is identical to that of Regular human insulin.
 
 ### Elimination
 
 Humalog Mix75/25 has two absorption phases, a rapid and a prolonged phase, representative of the insulin lispro and insulin lispro protamine suspension components of the mixture.
-As with other intermediate-acting insulins, a meaningful terminal phase half-life cannot be calculated after administration of Humalog Mix75/25 because of the prolonged insulin lispro protamine suspension absorption.
+As with other intermediate-acting insulins, a meaningful terminal phase half–life cannot be calculated after administration of Humalog Mix75/25 because of the prolonged insulin lispro protamine suspension absorption.
 
 ## Pharmacodynamics
 
-Studies in nondiabetic subjects and patients with diabetes demonstrated that Humalog has a more rapid onset of glucose-lowering activity, an earlier peak for glucose-lowering, and a shorter duration of glucose-lowering activity than Regular human insulin.
+Studies in nondiabetic subjects and patients with diabetes demonstrated that Humalog has a more rapid onset of glucose–lowering activity, an earlier peak for glucose–lowering, and a shorter duration of glucose–lowering activity than Regular human insulin.
 The early onset of activity of Humalog Mix75/25 is directly related to the rapid absorption of Humalog.
 The time course of action of insulin and insulin analogs, such as Humalog (and hence Humalog Mix75/25), may vary considerably in different individuals or within the same individual.
 The parameters of Humalog Mix75/25 activity (time of onset, peak time, and duration) as presented in Figures 2 and 3 should be considered only as general guidelines.
 The rate of insulin absorption and consequently the onset of activity is known to be affected by the site of injection, exercise, and other variables (see General under PRECAUTIONS).
 
-In a glucose clamp study performed in 30 nondiabetic subjects, the onset of action and glucose-lowering activity of Humalog, Humalog® Mix50/50™, Humalog Mix75/25, and insulin lispro protamine suspension (NPL component) were compared (see Figure 2).
+In a glucose clamp study performed in 30 nondiabetic subjects, the onset of action and glucose–lowering activity of Humalog, Humalog® Mix50/50™, Humalog Mix75/25, and insulin lispro protamine suspension (NPL component) were compared (see Figure 2).
 Graphs of mean glucose infusion rate versus time showed a distinct insulin activity profile for each formulation.
-The rapid onset of glucose-lowering activity characteristic of Humalog was maintained in Humalog Mix75/25.
+The rapid onset of glucose–lowering activity characteristic of Humalog was maintained in Humalog Mix75/25.
 
 In separate glucose clamp studies performed in nondiabetic subjects, pharmacodynamics of Humalog Mix75/25 and Humulin 70/30 were assessed and are presented in Figure 3.
 Humalog Mix75/25 has a duration of activity similar to that of Humulin 70/30.

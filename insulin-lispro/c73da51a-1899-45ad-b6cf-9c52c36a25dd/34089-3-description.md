@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Humalog® Mix75/25™ [75% insulin lispro protamine suspension and 25% insulin lispro injection, (rDNA origin)] is a mixture of insulin lispro solution, a rapid-acting blood glucose-lowering agent and insulin lispro protamine suspension, an intermediate-acting blood glucose-lowering agent.
+Humalog® Mix75/25™ [75% insulin lispro protamine suspension and 25% insulin lispro injection, (rDNA origin)] is a mixture of insulin lispro solution, a rapid–acting blood glucose–lowering agent and insulin lispro protamine suspension, an intermediate–acting blood glucose–lowering agent.
 Chemically, insulin lispro is Lys(B28), Pro(B29) human insulin analog, created when the amino acids at positions 28 and 29 on the insulin B–chain are reversed.
-Insulin lispro is synthesized in a special non-pathogenic laboratory strain of Escherichia coli bacteria that has been genetically altered to produce insulin lispro.
+Insulin lispro is synthesized in a special non–pathogenic laboratory strain of Escherichia coli bacteria that has been genetically altered to produce insulin lispro.
 Insulin lispro protamine suspension (NPL component) is a suspension of crystals produced from combining insulin lispro and protamine sulfate under appropriate conditions for crystal formation.
 
 Insulin lispro has the following primary structure:

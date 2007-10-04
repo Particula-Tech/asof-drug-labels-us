@@ -17,11 +17,11 @@ Values represent means, with ranges provided in parentheses.: Summary of Pharmac
 
 Humalog Mix75/25 is intended only for subcutaneous administration.
 Humalog Mix75/25 should not be administered intravenously.
-Dosage regimens of Humalog Mix75/25 will vary among patients and should be determined by the Health Care Professional familiar with the patient’s metabolic needs, eating habits, and other lifestyle variables.
+Dosage regimens of Humalog Mix75/25 will vary among patients and should be determined by the healthcare provider familiar with the patient’s metabolic needs, eating habits, and other lifestyle variables.
 Humalog has been shown to be equipotent to Regular human insulin on a molar basis.
-One unit of Humalog has the same glucose-lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
-Humalog Mix75/25 has a similar glucose-lowering effect as compared with Humulin 70/30 on a unit for unit basis.
-The quicker glucose-lowering effect of Humalog is related to the more rapid absorption rate of insulin lispro from subcutaneous tissue.
+One unit of Humalog has the same glucose–lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
+Humalog Mix75/25 has a similar glucose–lowering effect as compared with Humulin 70/30 on a unit for unit basis.
+The quicker glucose–lowering effect of Humalog is related to the more rapid absorption rate of insulin lispro from subcutaneous tissue.
 
 Humalog Mix75/25 starts lowering blood glucose more quickly than Regular human insulin, allowing for convenient dosing immediately before a meal (within 15 minutes).
 In contrast, mixtures containing Regular human insulin should be given 30 to 60 minutes before a meal.
