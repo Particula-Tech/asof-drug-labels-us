@@ -14,6 +14,6 @@ C14H10Cl2NO2Na [M.W. = 318.14] 2-[(2,6-dichlorophenyl) amino] benzeneacetic acid
 Misoprostol is a water-soluble, viscous liquid that contains approximately equal amounts of two diastereomers.
 Its chemical formula and name are:
 
-C22H38O5 [M.W. = 382.54] (±)methyl 11α,16-dihydroxy-16-methyl-9-oxoprost-13E-en-1-oate.
+C22H38O5 [M.W. = 382.54] (±) methyl 11α,16-dihydroxy-16-methyl-9-oxoprost-13E-en-1-oate.
 
 Inactive ingredients in ARTHROTEC include: colloidal silicon dioxide; crospovidone; hydrogenated castor oil; hypromellose; lactose; magnesium stearate; methacrylic acid copolymer; microcrystalline cellulose; povidone (polyvidone) K-30; sodium hydroxide; starch (corn); talc; triethyl citrate.
