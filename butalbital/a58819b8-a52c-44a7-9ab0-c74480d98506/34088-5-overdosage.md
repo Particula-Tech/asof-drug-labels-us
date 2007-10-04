@@ -17,15 +17,15 @@ Acute caffeine poisoning may cause insomnia, restlessness, tremor, and delirium,
 
 ## Treatment
 
-A single or multiple overdose with this combination product is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
+A single or multiple overdose with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
 Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
 Vomiting should be induced mechanically, or with syrup of ipecac, if the patient is alert (adequate pharyngeal and laryngeal reflexes).
 Oral activated charcoal (1 g/kg) should follow gastric emptying.
 The first dose should be accompanied by an appropriate cathartic.
 If repeated doses are used, the cathartic might be included with alternate doses as required.
 Hypotension is usually hypovolemic and should respond to fluids.
-The value of vasopressor agents such as norepinephrine or phenylephrine hydrochloride in treating hypotension is questionable since they increase vasoconstriction and decrease blood flow.
-However, if prolonged support of blood pressure is required, norepinephrine bitartrate may be given I.V. with the usual precautions and serial blood pressure monitoring.
+The value of vasopressor agents such as Norepinephrine or Phenylephrine Hydrochloride in treating hypotension is questionable since they increase vasoconstriction and decrease blood flow.
+However, if prolonged support of blood pressure is required, Norepinephrine Bitartrate (Levophed®) may be given I.V. with the usual precautions and serial blood pressure monitoring.
 A cuffed endotracheal tube should be inserted before gastric lavage of the unconscious patient and, when necessary, to provide assisted respiration.
 If renal function is normal, forced diuresis may aid in the elimination of the barbiturate.
 Alkalinization of the urine increases renal excretion of some barbiturates, especially phenobarbital.
@@ -46,14 +46,6 @@ Hepatic enzymes should be obtained initially, and repeated at 24-hour intervals.
 
 Methemoglobinemia over 30% should be treated with methylene blue by slow intravenous administration.
 
-Toxic Doses (for adults)
+## Toxic doses (for adults)
 
-| Butalbital: |  |
-| --- | --- |
-| toxic dose 1 g | (20 capsules of this combination product) |
-| Acetaminophen: |  |
-| toxic dose 10 g | (30 capsules of this combination product) |
-| Caffeine: |  |
-| toxic dose 1 g | (25 capsules of this combination product) |
-| Codeine: |  |
-| toxic dose 240 mg | (8 capsules of this combination product) |
+Butalbital: toxic dose 1 g (20 capsules) Acetaminophen: toxic dose 10 g (30 capsules) Caffeine: toxic dose 1 g (25 capsules) Codeine: toxic dose 240 mg (8 capsules)

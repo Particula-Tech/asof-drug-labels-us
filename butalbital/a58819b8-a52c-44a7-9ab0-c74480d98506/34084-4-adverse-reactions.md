@@ -23,7 +23,7 @@ Genitourinary: diuresis.
 
 Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions.
 
-The following adverse reactions have been voluntarily reported as temporally associated with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, a related product containing aspirin, butalbital, caffeine, and codeine.
+The following adverse reactions have been voluntarily reported as temporally associated with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, a related product containing aspirin, butalbital, caffeine, and codeine.
 
 Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo.
 
@@ -39,8 +39,8 @@ Urinary: kidney impairment, urinary difficulty.
 
 Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema.
 
-The following adverse drug events may be borne in mind as potential effects of the components of butalbital, acetaminophen, caffeine, and codeine phosphate.
-Potential effects of high dosage are listed in the OVERDOSAGE section.
+The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
+Potential effects of high dosage are listed in theOVERDOSAGE section.
 
 Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis.
 

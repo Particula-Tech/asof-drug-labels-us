@@ -2,14 +2,18 @@
 
 ## Controlled Substance
 
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are controlled by the Drug Enforcement Administration and is classified under Schedule III.
+Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is controlled by the Drug Enforcement Administration and is classified under Schedule III.
 
 ## Abuse and Dependence
 
-Codeine Codeine can produce drug dependence of the morphine type and, therefore, has the potential for being abused.
+Codeine
+
+Codeine can produce drug dependence of the morphine type and, therefore, has the potential for being abused.
 Psychological dependence, physical dependence, and tolerance may develop upon repeated administration and it should be prescribed and administered with the same degree of caution appropriate to the use of other oral narcotic medications.
 
-Butalbital Barbiturates may be habit-forming: Tolerance, psychological dependence, and physical dependence may occur especially following prolonged use of high doses of barbiturates.
+Butalbital
+
+Barbiturates may be habit-forming: Tolerance, psychological dependence, and physical dependence may occur especially following prolonged use of high doses of barbiturates.
 The average daily dose for the barbiturate addict is usually about 1,500 mg.
 As tolerance to barbiturates develops, the amount needed to maintain the same level of intoxication increases; tolerance to a fatal dosage, however, does not increase more than two-fold.
 As this occurs, the margin between an intoxication dosage and fatal dosage becomes smaller.
