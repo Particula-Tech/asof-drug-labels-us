@@ -2,12 +2,13 @@
 
 ## Associated with Discontinuation of Treatment
 
-Approximately 16 percent of the 453 patients who received mirtazapine tablets in U.S. 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of 361 placebo-treated patients in those studies.
+Approximately 16 percent of the 453 patients who received mirtazapine tablets in U.S. 6 week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of 361 placebo-treated patients in those studies.
 The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
 
-| Adverse Event | Mirtazapine (n=453) | Placebo (n=361) |
+Common Adverse Events Associated with Discontinuation of Treatment in 6 Week U.S. Mirtazapine Trials
+
+| Adverse Event | Mirtazapine (n = 453) | Placebo (n = 361) |
 | --- | --- | --- |
-| Common Adverse Events Associated with Discontinuation of Treatment in 6-Week U.S. Mirtazapine Trials |  |  |
 |  | Percentage of Patients Discontinuing with Adverse Event |  |
 | Somnolence | 10.4% | 2.2% |
 | Nausea | 1.5% | 0% |
@@ -16,9 +17,10 @@ The most common events (≥ 1%) associated with discontinuation and considered t
 
 The most commonly observed adverse events associated with the use of mirtazapine (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine incidence at least twice that for placebo) were:
 
-| Adverse Event | Mirtazapine (n=453) | Placebo (n=361) |
+Common Treatment Emergent Adverse Events Associated with the Use of Mirtazapine in 6 Week U.S. Trials
+
+| Adverse Event | Mirtazapine (n = 453) | Placebo (n = 361) |
 | --- | --- | --- |
-| Common Treatment-Emergent Adverse Events Associated with the Use of Mirtazapine in 6-Week U.S. Trials |  |  |
 |  | Percentage of Patients Reporting Adverse Event |  |
 | Somnolence | 54% | 18% |
 | Increased Appetite | 17% | 2% |
@@ -33,12 +35,12 @@ Reported adverse events were classified using a standard COSTART-based dictionar
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence rate in the population studied.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non drug factors to the side effect incidence rate in the population studied.
 
 INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patients treated with mirtazapine are included, except the following events which had an incidence on placebo ≥ mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
-(≥ 1%) IN SHORT-TERM U.S. CONTROLLED STUDIES
+(≥ 1%) IN SHORT-TERM U.S. CONTROLLED STUDIES)
 
-| Adverse Clinical Experience | Mirtazapine (n=453) | Placebo (n=361) |
+| Adverse Clinical Experience | Mirtazapine (n = 453) | Placebo (n = 361) |
 | --- | --- | --- |
 | Body System |  |  |
 | Body as a Whole |  |  |
@@ -69,7 +71,7 @@ INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patie
 
 ## ECG Changes
 
-The electrocardiograms for 338 patients who received mirtazapine and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
+The electrocardiograms for 338 patients who received mirtazapine and 261 patients who received placebo in 6 week, placebo-controlled trials were analyzed.
 Prolongation in QTc ≥ 500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
 Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
 The clinical significance of these changes is unknown.
@@ -87,7 +89,7 @@ All reported events are included except those already listed in the previous tab
 
 It is important to emphasize that, although the events reported occurred during treatment with mirtazapine, they were not necessarily caused by it.
 
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
+Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in fewer than 1/1,000 patients.
 Only those events not already listed in the previous table appear in this listing.
 Events of major clinical importance are also described in the WARNINGS and PRECAUTIONS sections.
 
@@ -115,7 +117,7 @@ Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivit
 
 Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
 
-## Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine
+## Other Adverse Events Observed During Post-marketing Evaluation of Mirtazapine
 
 Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include four cases of the ventricular arrhythmia torsades de pointes.
 In three of the four cases, however, concomitant drugs were implicated.

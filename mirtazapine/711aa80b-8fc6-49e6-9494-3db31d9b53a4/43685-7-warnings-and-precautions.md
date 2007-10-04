@@ -3,32 +3,45 @@
 ## Clinical Worsening and Suicide Risk
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients.
-Antidepressants increased the risk of suicidal thinking and behavior (suicidality) in short-term studies in children and adolescents with Major Depressive Disorder (MDD) and other psychiatric disorders.
+Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
+There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-Pooled analyses of short-term placebo-controlled trials of 9 antidepressant drugs (SSRIs and others) in children and adolescents with MDD, OCD, or other psychiatric disorders (a total of 24 trials involving over 4400 patients) have revealed a greater risk of adverse events representing suicidal behavior or thinking (suicidality) during the first few months of treatment in those receiving antidepressants.
-The average risk of such events in patients receiving antidepressants was 4%, twice the placebo risk of 2%.
-There was considerable variation in risk among drugs, but a tendency toward an increase for almost all drugs studied.
-The risk of suicidality was most consistently observed in the MDD trials, but there were signals of risk arising from some trials in other psychiatric indications (obsessive compulsive disorder and social anxiety disorder) as well.
-No suicides occurred in any of these trials.
-It is unknown whether the suicidality risk in pediatric patients extends to longer-term use, i.e., beyond several months.
-It is also unknown whether the suicidality risk extends to adults.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
+The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
+There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-All pediatric patients being treated with antidepressants for any indication should be observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-Such observation would generally include at least weekly face-to-face contact with patients or their family members or caregivers during the first 4 weeks of treatment, then every other week visits for the next 4 weeks, then at 12 weeks, and as clinically indicated beyond 12 weeks.
-Additional contact by telephone may be appropriate between face-to-face visits.
+Table 1
 
-Adults with MDD or co-morbid depression in the setting of other psychiatric illness being treated with antidepressants should be observed similarly for clinical worsening and suicidality, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality Per 1,000 Patients Treated |
+| --- | --- |
+| Increases Compared to Placebo |  |
+| < 18 | 14 additional cases |
+| 18 to 24 | 5 additional cases |
+| Decreases Compared to Placebo |  |
+| 25 to 64 | 1 fewer case |
+| ≥ 65 | 6 fewer cases |
+
+No suicides occurred in any of the pediatric trials.
+There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of pediatric patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for mirtazapine should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
-Families and caregivers of adults being treated for depression should be similarly advised.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -43,12 +56,12 @@ It should be noted that mirtazapine is not approved for use in treating bipolar 
 In premarketing clinical trials, two (one with Sjögren's Syndrome) out of 2,796 patients treated with mirtazapine tablets developed agranulocytosis (absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.) and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
 For these three patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All three patients recovered after mirtazapine was stopped.
-These three cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
+These three cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1,000.
 If a patient develops a sore throat, fever, stomatitis or other signs of infection, along with a low WBC count, treatment with mirtazapine should be discontinued and the patient should be closely monitored.
 
 ## MAO Inhibitors
 
-In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious, and sometimes fatal, reactions, e.g., including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
+In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious, and sometimes fatal reactions, e.g., including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
 Although there are no human data pertinent to such an interaction with mirtazapine tablets, it is recommended that mirtazapine not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
 
 # PRECAUTIONS
@@ -72,6 +85,7 @@ It is unclear whether or not tolerance develops to the dizziness observed in ass
 In U.S. controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo and 6% for amitriptyline.
 In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
 In a pool of premarketing U.S. studies, including many patients for long-term, open label treatment, 8% of patients receiving mirtazapine discontinued for weight gain.
+In an 8 week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
 
 ### Cholesterol/Triglycerides
 
@@ -112,7 +126,7 @@ Caution is indicated in administering mirtazapine to such patients (see CLINICAL
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with mirtazapine and should counsel them in its appropriate use.
-A patient Medication Guide About Using Antidepressants in Children and Teenagers is available for mirtazapine.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for mirtazapine.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -121,8 +135,8 @@ Patients should be advised of the following issues and asked to alert their pres
 
 ### Clinical Worsening and Suicide Risk
 
-Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Patients, their families and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day to day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
@@ -157,7 +171,7 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 ### Nursing
 
-Patients should be advised to notify their physician if they are breastfeeding an infant.
+Patients should be advised to notify their physician if they are breast-feeding an infant.
 
 ## Laboratory Tests
 
@@ -197,7 +211,7 @@ Carcinogenicity studies were conducted with mirtazapine given in the diet at dos
 The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day on a mg/m2 basis in mice and rats, respectively.
 There was an increased incidence of hepatocellular adenoma and carcinoma in male mice at the high dose.
 In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose.
-The data suggest that the above effects could possibly be mediated by nongenotoxic mechanisms, the relevance of which to humans is not known.
+The data suggest that the above effects could possibly be mediated by non genotoxic mechanisms, the relevance of which to humans is not known.
 
 The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of mirtazapine.
 
@@ -208,7 +222,7 @@ Mirtazapine was not mutagenic or clastogenic and did not induce general DNA dama
 ### Impairment of Fertility
 
 In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg (20 times the maximum recommended human dose (MRHD) on a mg/m2 basis).
-Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD and pre-implantation losses occurred at 20 times the MRHD.
+Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD and preimplantation losses occurred at 20 times the MRHD.
 
 ## Pregnancy
 
@@ -217,7 +231,7 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 #### Pregnancy Category C
 
 Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively (20 and 17 times the maximum recommended human dose (MRHD) on a mg/m2 basis, respectively), have revealed no evidence of teratogenic effects.
-However, in rats, there was an increase in post-implantation losses in dams treated with mirtazapine.
+However, in rats, there was an increase in post implantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.
 These effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on a mg/m2 basis.
@@ -235,12 +249,15 @@ Safety and effectiveness in the pediatric population have not been established (
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of mirtazapine in a child or adolescent must balance the potential risks with the clinical need.
 
+In an 8 week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
+The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
+
 ## Geriatric Use
 
 Approximately 190 elderly individuals (≥ 65 years of age) participated in clinical studies with mirtazapine.
 This drug is known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
-Sedating drugs may cause confusion and over-sedation in the elderly.
-No unusual adverse age-related phenomena were identified in this group.
+Sedating drugs may cause confusion and over sedation in the elderly.
+No unusual adverse age related phenomena were identified in this group.
 Pharmacokinetic studies revealed a decreased clearance in the elderly.
 Caution is indicated in administering mirtazapine to elderly patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).

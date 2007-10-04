@@ -5,7 +5,7 @@
 The mechanism of action of mirtazapine, as with other drugs effective in the treatment of major depressive disorder, is unknown.
 
 Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
-These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2 adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
+These studies have shown that mirtazapine acts as an antagonist at central presynaptic α1 adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
 
 Mirtazapine is a potent antagonist of 5-HT2 and 5-HT3 receptors.
 Mirtazapine has no significant affinity for the 5-HT1A and 5-HT1B receptors.
@@ -30,6 +30,10 @@ It is eliminated predominantly via urine (75%) with 15% in feces.
 Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels.
 The (-) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about three times as high as that of the (+) enantiomer.
 
+Plasma levels are linearly related to dose over a dose range of 15 to 80 mg.
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males).
+Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio = 1.5).
+
 Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.
 
 ## Special Populations
@@ -46,7 +50,7 @@ Safety and effectiveness of mirtazapine in the pediatric population have not bee
 
 ### Gender
 
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs 26 hours for males) (see Pharmacokinetics).
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males) (see Pharmacokinetics).
 
 ### Race
 
@@ -67,7 +71,7 @@ Caution is indicated in administering mirtazapine to patients with compromised h
 
 ## Clinical Trials Showing Effectiveness
 
-The efficacy of mirtazapine tablets as a treatment for major depressive disorder was established in four placebo-controlled, 6-week trials in adult outpatients meeting DSM-III criteria for major depressive disorder.
+The efficacy of mirtazapine tablets as a treatment for major depressive disorder was established in four placebo-controlled, 6 week trials in adult outpatients meeting DSM-III criteria for major depressive disorder.
 Patients were titrated with mirtazapine from a dose range of 5 mg up to 35 mg/day.
 Overall, these studies demonstrated mirtazapine to be superior to placebo on at least three of the following four measures: 21-Item Hamilton Depression Rating Scale (HDRS) total score; HDRS Depressed Mood Item; CGI Severity score; and Montgomery and Asberg Depression Rating Scale (MADRS).
 Superiority of mirtazapine over placebo was also found for certain factors of the HDRS including anxiety/somatization factor and sleep disturbance factor.
@@ -76,7 +80,7 @@ A fifth study of similar design utilized a higher dose (up to 50 mg) per day and
 
 Examination of age and gender subsets of the population did not reveal any differential responsiveness on the basis of these subgroupings.
 
-In a longer-term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8 to 12 weeks of acute treatment on mirtazapine were randomized to continuation of mirtazapine or placebo for up to 40 weeks of observation for relapse.
+In a longer term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8 to 12 weeks of acute treatment on mirtazapine were randomized to continuation of mirtazapine or placebo for up to 40 weeks of observation for relapse.
 Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤ 8 and a CGI-Improvement score of 1 or 2 at two consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study.
 Relapse during the double-blind phase was determined by the individual investigators.
 Patients receiving continued mirtazapine treatment experienced significantly lower relapse rates over the subsequent 40 weeks compared to those receiving placebo.

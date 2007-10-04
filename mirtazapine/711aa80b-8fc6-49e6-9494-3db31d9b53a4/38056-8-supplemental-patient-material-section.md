@@ -1,99 +1,49 @@
-## Medication Guide About Using Antidepressants in Children and Teenagers
+## Medication Guide
 
-What is the most important information I should know if my child is being prescribed an antidepressant?
+Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Parents or guardians need to think about 4 important things when their child is prescribed an antidepressant:
+Read the Medication Guide that comes with you or your family member's antidepressant medicine.
+This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
+Talk to your, or your family member's, healthcare provider about:
 
-1. There is a risk of suicidal thoughts or actions
-2. How to try to prevent suicidal thoughts or actions in your child
-3. You should watch for certain signs if your child is taking an antidepressant
-4. There are benefits and risks when using antidepressants
+- all risks and benefits of treatment with antidepressant medicines
+- all treatment choices for depression or other serious mental illness
 
-1.
-There is a Risk of Suicidal Thoughts or Actions
+What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-Children and teenagers sometimes think about suicide, and many report trying to kill themselves.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness also called manic-depressive illness) or suicidal thoughts or actions.
+3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+   - Keep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Antidepressants increase suicidal thoughts and actions in some children and teenagers.
-But suicidal thoughts and actions can also be caused by depression, a serious medical condition that is commonly treated with antidepressants.
-Thinking about killing yourself or trying to kill yourself is called suicidality or being suicidal.
+Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-A large study combined the results of 24 different studies of children and teenagers with depression or other illnesses.
-In these studies, patients took either a placebo (sugar pill) or an antidepressant for 1 to 4 months.
-No one committed suicide in these studies, but some patients became suicidal.
-On sugar pills, 2 out of every 100 became suicidal.
-On the antidepressants, 4 out of every 100 patients became suicidal.
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attackstrouble sleeping (insomnia) | new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or mood |
+| --- | --- |
 
-For some children and teenagers, the risks of suicidal actions may be especially high.
-These include patients with
+What else do I need to know about antidepressant medicines?
 
-- Bipolar illness (sometimes called manic-depressive illness)
-- A family history of bipolar illness
-- A personal or family history of attempting suicide
-
-If any of these are present, make sure you tell your healthcare provider before your child takes an antidepressant.
-
-2.
-How to Try to Prevent Suicidal Thoughts and Actions
-
-To try to prevent suicidal thoughts and actions in your child, pay close attention to changes in her or his moods or actions, especially if the changes occur suddenly.
-Other important people in your child's life can help by paying attention as well (e.g., your child, brothers and sisters, teachers, and other important people).
-The changes to look out for are listed in Section 3, on what to watch for.
-Whenever an antidepressant is started or its dose is changed, pay close attention to your child.
-After starting an antidepressant, your child should generally see his or her healthcare provider:
-
-- Once a week for the first 4 weeks
-- Every 2 weeks for the next 4 weeks
-- After taking the antidepressant for 12 weeks
-- After 12 weeks, follow your healthcare provider's advice about how often to come back
-- More often if problems or questions arise (see Section 3)
-
-You should call your child's healthcare provider between visits if needed.
-
-3.
-You Should Watch for Certain Signs If Your Child is Taking an Antidepressant
-
-Contact your child's healthcare provider right away if your child exhibits any of the following signs for the first time, or if they seem worse, or worry you, your child, or your child's teacher:
-
-- Thoughts about suicide or dying
-- Attempts to commit suicide
-- New or worse depression
-- New or worse anxiety
-- Feeling very agitated or restless
-- Panic attacks
-- Difficulty sleeping (insomnia)
-- New or worse irritability
-- Acting aggressive, being angry, or violent
-- Acting on dangerous impulses
-- An extreme increase in activity and talking
-- Other unusual changes in behavior or mood
-
-Never let your child stop taking an antidepressant without first talking to his or her healthcare provider.
-Stopping an antidepressant suddenly can cause other symptoms.
-
-4.
-There are Benefits and Risks When Using Antidepressants
-
-Antidepressants are used to treat depression and other illnesses.
-Depression and other illnesses can lead to suicide.
-In some children and teenagers, treatment with an antidepressant increases suicidal thinking or actions.
-It is important to discuss all the risks of treating depression and also the risks of not treating it.
-You and your child should discuss all treatment choices with your healthcare provider, not just the use of antidepressants.
-
-Other side effects can occur with antidepressants (see section below).
-
-Of all the antidepressants, only fluoxetine (Prozac®)Prozac® is a registered trademark of Eli Lilly and Company. has been FDA approved to treat pediatric depression.
-
-For obsessive compulsive disorder in children and teenagers, FDA has approved only fluoxetine (Prozac®), sertraline (Zoloft®)Zoloft® is a registered trademark of Pfizer Pharmaceuticals., fluvoxamine, and clomipramine (Anafranil®)Anafranil® is a registered trademark of Mallinckrodt Inc..
-
-Your healthcare provider may suggest other antidepressants based on the past experience of your child or other family members.
-
-Is this all I need to know if my child is being prescribed an antidepressant?
-
-No. This is a warning about the risk for suicidality.
-Other side effects can occur with antidepressants.
-Be sure to ask your healthcare provider to explain all the side effects of the particular drug he or she is prescribing.
-Also ask about drugs to avoid when taking an antidepressant.
-Ask your healthcare provider or pharmacist where to find more information.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Antidepressants are medicines used to treat depression and other illnesses.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
+- Antidepressant medicines have other side effects.
+  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.
+  Know all of the medicines that you or your family member takes.
+  Keep a list of all medicines to show the healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+  Talk to your child's healthcare provider for more information.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+
+Revised 8/2007

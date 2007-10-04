@@ -2,21 +2,21 @@
 
 Mirtazapine Tablets, USP are available containing 15 mg, 30 mg and 45 mg of mirtazapine, USP.
 
-The 15 mg tablets are beige film-coated, round, biconvex, beveled edge, scored tablets debossed with M over 515 on one side of the tablet and bisected by a score on the other side.
+The 15 mg tablets are beige film-coated, round, scored tablets debossed with M over 515 on one side of the tablet and bisected by a score on the other side.
 They are available as follows:
 
 NDC 0378-3515-93 bottles of 30 tablets
 
 NDC 0378-3515-01 bottles of 100 tablets
 
-The 30 mg tablets are beige film-coated, round, biconvex, beveled edge, scored tablets debossed with M over 530 on one side of the tablet and bisected by a score on the other side.
+The 30 mg tablets are beige film-coated, round, scored tablets debossed with M over 530 on one side of the tablet and bisected by a score on the other side.
 They are available as follows:
 
 NDC 0378-3530-93 bottles of 30 tablets
 
 NDC 0378-3530-01 bottles of 100 tablets
 
-The 45 mg tablets are beige film-coated, round, biconvex, beveled edge, unscored tablets debossed with M over 545 on one side of the tablet and blank on the other side.
+The 45 mg tablets are beige film-coated, round, unscored tablets debossed with M over 545 on one side of the tablet and blank on the other side.
 They are available as follows:
 
 NDC 0378-3545-93 bottles of 30 tablets
