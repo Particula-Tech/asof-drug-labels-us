@@ -1,8 +1,12 @@
 # HOW SUPPLIED
 
-ALIMTA®, pemetrexed for injection is available in sterile single–use vials containing 500 mg pemetrexed.
+ALIMTA® vials:.
 
-NDC 0002–7623–01 (VL7623): single–use vial with flip–off cap individually packaged in a carton.
+100 mg lyophilized powder in a 10–mL size sterile single-use vial with flip-off cap individually packaged in a carton.
+NDC 0002–7640–01 (VL7640)
+
+500 mg lyophilized powder in a 50–mL size sterile single use vial with flip off cap individually packaged in a carton.
+NDC 0002–7623–01 (VL7623)
 
 ## Storage
 

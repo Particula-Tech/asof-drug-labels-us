@@ -56,7 +56,7 @@ How is ALIMTA given?
   Your doctor will give you vitamin B12 injections while you are getting treatment with ALIMTA.
   You will get your first vitamin B12 injection during the week before your first dose of ALIMTA, and then about every 9 weeks during treatment.
 - You will have regular blood tests before and during your treatment with ALIMTA.
-  Your doctor may adjust your dose of ALIMTA or delay treatment based on the results of your blood tests and on your generalcondition.
+  Your doctor may adjust your dose of ALIMTA or delay treatment based on the results of your blood tests and on your general condition.
 
 What should I avoid while taking ALIMTA?
 
@@ -100,7 +100,7 @@ The most common side effects of ALIMTA when given alone or in combination with c
 - Rash.
   You may get a rash or itching during treatment.
   These usually appear between treatments with ALIMTA and usually go away before the next treatment.
-  Call your doctor if you get a severerash or itching.
+  Call your doctor if you get a severe rash or itching.
 
 Talk with your doctor, nurse or pharmacist about any side effect that bothers you or that doesn’t go away.
 
@@ -117,7 +117,7 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1–800–LILLY–RX (1–800–545–5979) or visit www.ALIMTA.com.
 
-Literature revised February 2, 2007
+Literature revised September 12, 2007
 
 Eli Lilly and Company
 

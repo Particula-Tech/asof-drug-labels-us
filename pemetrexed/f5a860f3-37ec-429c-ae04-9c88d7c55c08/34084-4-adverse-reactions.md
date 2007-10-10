@@ -151,4 +151,8 @@ The following adverse events have been identified during post–approval use of 
 These events have occurred with ALIMTA when used as a single–agent and in combination therapies.
 Decisions to include these events are based on the seriousness of the event, frequency of reporting, or potential causal connection to ALIMTA.
 
-Gastrointestinal— Rare cases of colitis have been reported in patients treated with ALIMTA.
+Gastrointestinal — Rare cases of colitis have been reported in patients treated with ALIMTA.
+
+Injury, poisoning, and procedural complications — Rare cases of radiation recall have been reported in patients who have previously received radiotherapy.
+
+Respiratory — Rare cases of interstitial pneumonitis have been reported in patients treated with ALIMTA.

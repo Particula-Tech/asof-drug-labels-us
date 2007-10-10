@@ -1,4 +1,4 @@
-Literature revised February 2, 2007
+Literature revised September 12, 2007
 
 Eli Lilly and Company
 

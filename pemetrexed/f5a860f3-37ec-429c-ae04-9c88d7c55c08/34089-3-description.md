@@ -7,5 +7,5 @@ The structural formula is as follows:
 
 ALIMTA is supplied as a sterile lyophilized powder for intravenous infusion available in single–dose vials.
 The product is a white to either light yellow or green–yellow lyophilized solid.
-Each 500–mg vial of ALIMTA contains pemetrexed disodium equivalent to 500 mg pemetrexed and 500 mg of mannitol.
+Each 100 mg or 500 mg vial of ALIMTA contains pemetrexed disodium equivalent to 100 mg pemetrexed and 106 mg mannitol or 500 mg pemetrexed and 500 mg mannitol, respectively.
 Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.

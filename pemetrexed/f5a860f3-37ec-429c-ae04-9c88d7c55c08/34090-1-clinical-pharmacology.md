@@ -11,7 +11,7 @@ Polyglutamation is a time– and concentration–dependent process that occurs i
 Polyglutamated metabolites have an increased intracellular half–life resulting in prolonged drug action in malignant cells.
 
 Preclinical studies have shown that pemetrexed inhibits the in vitro growth of mesothelioma cell lines (MSTO–211H, NCI–H2052).
-Studies with the MSTO–211H mesothelioma cell lineshowed synergistic effects when pemetrexed was combined concurrently with cisplatin.
+Studies with the MSTO–211H mesothelioma cell line showed synergistic effects when pemetrexed was combined concurrently with cisplatin.
 
 Absolute neutrophil counts (ANC) following single–agent administration of pemetrexed to patients not receiving folic acid and vitamin B12 supplementation were characterized using population pharmacodynamic analyses.
 Severity of hematologic toxicity, as measured by the depth of the ANC nadir, correlates with the systemic exposure of pemetrexed.
@@ -36,17 +36,17 @@ Binding is not affected by degree of renal impairment.
 
 ## Drug Interactions
 
-Chemotherapeutic Agents— Cisplatin does not affect the pharmacokinetics of pemetrexed and the pharmacokinetics of total platinum are unaltered by pemetrexed.
+Chemotherapeutic Agents — Cisplatin does not affect the pharmacokinetics of pemetrexed and the pharmacokinetics of total platinum are unaltered by pemetrexed.
 
-Vitamins— Coadministration of oral folic acid or intramuscular vitamin B12 does not affect the pharmacokinetics of pemetrexed.
+Vitamins — Coadministration of oral folic acid or intramuscular vitamin B12 does not affect the pharmacokinetics of pemetrexed.
 
-Drugs Metabolized by Cytochrome P450 Enzymes— Results from in vitro studies with human liver microsomes predict that pemetrexed would not cause clinically significant inhibition of metabolic clearance of drugs metabolized by CYP3A, CYP2D6, CYP2C9, and CYP1A2.
+Drugs Metabolized by Cytochrome P450 Enzymes — Results from in vitro studies with human liver microsomes predict that pemetrexed would not cause clinically significant inhibition of metabolic clearance of drugs metabolized by CYP3A, CYP2D6, CYP2C9, and CYP1A2.
 No studies were conducted to determine the cytochrome P450 isozyme induction potential of pemetrexed, because ALIMTA used as recommended (once every 21 days) would not be expected to cause any significant enzyme induction.
 
-Aspirin— Aspirin, administered in low to moderate doses (325 mg every 6 hours), does not affect the pharmacokinetics of pemetrexed.
+Aspirin — Aspirin, administered in low to moderate doses (325 mg every 6 hours), does not affect the pharmacokinetics of pemetrexed.
 The effect of greater doses of aspirin on pemetrexed pharmacokinetics is unknown.
 
-Ibuprofen— Daily ibuprofen doses of 400 mg qid reduce pemetrexed’s clearance by about 20% (and increase AUC by 20%) in patients with normal renal function.
+Ibuprofen — Daily ibuprofen doses of 400 mg qid reduce pemetrexed’s clearance by about 20% (and increase AUC by 20%) in patients with normal renal function.
 The effect of greater doses of ibuprofen on pemetrexed pharmacokinetics is unknown (see Drug Interactions under PRECAUTIONS).
 
 ## Special Populations
