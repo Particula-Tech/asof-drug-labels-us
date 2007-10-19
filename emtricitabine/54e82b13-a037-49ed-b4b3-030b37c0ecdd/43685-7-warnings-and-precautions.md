@@ -8,31 +8,34 @@ Obesity and prolonged nucleoside exposure may be risk factors.
 Particular caution should be exercised when administering nucleoside analogs to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
 Treatment with TRUVADA should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
-## Patients with HIV and Hepatitis B Virus Coinfection
+## Patients Coinfected with HIV and Hepatitis B Virus
 
-It is recommended that all patients with HIV be tested for the presence of hepatitis B virus (HBV) before initiating antiretroviral therapy.
-TRUVADA is not indicated for the treatment of chronic HBV infection and the safety and efficacy of TRUVADA have not been established in patients coinfected with HBV and HIV.
-Severe acute exacerbations of hepatitis B have been reported in patients after the discontinuation of EMTRIVA and VIREAD.
-Hepatic function should be closely monitored with both clinical and laboratory follow up for at least several months in patients who discontinue TRUVADA and are coinfected with HIV and HBV.
+It is recommended that all patients with HIV be tested for the presence of chronic hepatitis B virus (HBV) before initiating antiretroviral therapy.
+TRUVADA is not approved for the treatment of chronic HBV infection and the safety and efficacy of TRUVADA have not been established in patients coinfected with HBV and HIV.
+Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV and have discontinued EMTRIVA or VIREAD.
+In some of these patients treated with EMTRIVA, the exacerbations of hepatitis B were associated with liver decompensation and liver failure.
+Hepatic function should be monitored closely with both clinical and laboratory follow up for at least several months in patients who are coinfected with HIV and HBV and discontinue TRUVADA.
 If appropriate, initiation of anti-hepatitis B therapy may be warranted.
 
 ## Renal Impairment
 
 Emtricitabine and tenofovir are principally eliminated by the kidney.
-Dosing interval adjustment of TRUVADA is recommended in all patients with creatinine clearance 30–49 mL/min, (see DOSAGE AND ADMINISTRATION).
-TRUVADA should not be administered to patients with creatine clearance <30 mL/min or patients requiring hemodialysis.
-
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported in association with the use of VIREAD (see ADVERSE REACTIONS, Post Marketing Experience).
-The majority of these cases occurred in patients with underlying systemic or renal disease, or in patients taking nephrotoxic agents, however, some cases occurred in patients without identified risk factors.
+
+It is recommended that creatinine clearance be calculated in all patients prior to initiating therapy and as clinically appropriate during therapy with TRUVADA.
+Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment.
+
+Dosing interval adjustment of TRUVADA and close monitoring of renal function are recommended in all patients with creatinine clearance 30–49 mL/min, (see DOSAGE AND ADMINISTRATION).
+No safety or efficacy data are available in patients with renal dysfunction who received TRUVADA using these dosing guidelines, and so the potential benefit of TRUVADA therapy should be assessed against the potential risk of renal toxicity.
+TRUVADA should not be administered to patients with creatinine clearance <30 mL/min or patients requiring hemodialysis.
 
 TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent.
-Patients at risk for, or with a history of, renal dysfunction and patients receiving concomitant nephrotoxic agents should be carefully monitored for changes in serum creatinine and phosphorus.
 
 ## Other
 
 TRUVADA is a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate.
-TRUVADA should not be coadministered with EMTRIVA or VIREAD.
-Due to similarities between emtricitabine and lamivudine, TRUVADA should not be coadministered with other drugs containing lamivudine, including COMBIVIR®, EPIVIR®, EPIVIR-HBV®, EPZICOM™, or TRIZIVIR®.
+TRUVADA should not be coadministered with ATRIPLA, EMTRIVA, or VIREAD.
+Due to similarities between emtricitabine and lamivudine, TRUVADA should not be coadministered with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
 # PRECAUTIONS
 
@@ -43,9 +46,10 @@ Due to similarities between emtricitabine and lamivudine, TRUVADA should not be 
 When tenofovir disoproxil fumarate was administered with didanosine the Cmax and AUC of didanosine administered as either the buffered or enteric-coated formulation increased significantly (see Table 6).
 The mechanism of this interaction is unknown.
 Higher didanosine concentrations could potentiate didanosine-associated adverse events, including pancreatitis, and neuropathy.
+Suppression of CD4 cell counts has been observed in patients receiving tenofovir DF with didanosine at a dose of 400 mg daily.
 In adults weighing >60 kg, the didanosine dose should be reduced to 250 mg when it is coadministered with TRUVADA.
-Data are not available to recommend a dose adjustment of didanosine for patients weighing <60 kg.
-When coadministered, TRUVADA and VIDEX EC® may be taken under fasted conditions or with a light meal (<400 kcal, 20% fat).
+Data are not available to recommend a dose adjustment of didanosine (Videx, Videx EC) for patients weighing <60 kg.
+When coadministered, TRUVADA and Videx EC may be taken under fasted conditions or with a light meal (<400 kcal, 20% fat).
 Coadministration of didanosine buffered tablet formulation with TRUVADA should be under fasted conditions.
 Coadministration of TRUVADA and didanosine should be undertaken with caution and patients receiving this combination should be monitored closely for didanosine-associated adverse events.
 Didanosine should be discontinued in patients who develop didanosine-associated adverse events.
@@ -62,13 +66,13 @@ Atazanavir without ritonavir should not be coadministered with TRUVADA.
 ### Emtricitabine and tenofovir disoproxil fumarate
 
 Since emtricitabine and tenofovir are primarily eliminated by the kidneys, coadministration of TRUVADA with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of emtricitabine, tenofovir, and/or other renally eliminated drugs.
-Some examples include, but are not limited to adefovir dipivoxil, cidofovir, acyclovir, valacyclovir, ganciclovir, and valganciclovir.
+Some examples include, but are not limited to acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, and valganciclovir.
 
 ## Bone Effects
 
 ### Tenofovir disoproxil fumarate
 
-In a 144-week, study of treatment naïve patients, decreases in bone mineral density (BMD) were seen at the lumbar spine and hip in both arms of the study.
+In a 144-week study of treatment naïve patients, decreases in bone mineral density (BMD) were seen at the lumbar spine and hip in both arms of the study.
 At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in patients receiving VIREAD + lamivudine + efavirenz compared with patients receiving stavudine + lamivudine + efavirenz.
 Changes in BMD at the hip were similar between the two treatment groups.
 In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through 144 weeks.
@@ -78,6 +82,8 @@ Tenofovir disoproxil fumarate was associated with significant increases in bioch
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in patients receiving VIREAD.
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 For additional information, please consult the VIREAD prescribing information.
+
+Cases of osteomalacia (associated with proximal renal tubulopathy) have been reported in association with the use of VIREAD (see Adverse Reactions, Post Marketing Experience).
 
 Bone monitoring should be considered for HIV infected patients who have a history of pathologic bone fracture or are at risk for osteopenia.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
@@ -106,7 +112,7 @@ Patients should be advised that:
 - TRUVADA Tablets are for oral ingestion only,
 - it is important to take TRUVADA with combination therapy on a regular dosing schedule to avoid missing doses,
 - redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known.
-- TRUVADA should not be coadministered with EMTRIVA or VIREAD, or drugs containing lamivudine, including COMBIVIR, EPIVIR, EPIVIR-HBV, EPZICOM, or TRIZIVIR.
+- TRUVADA should not be coadministered with ATRIPLA, EMTRIVA, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
 ## Animal Toxicology
 

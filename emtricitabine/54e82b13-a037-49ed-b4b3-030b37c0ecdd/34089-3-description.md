@@ -1,8 +1,8 @@
 # DESCRIPTION
 
 TRUVADA® Tablets are fixed dose combination tablets containing emtricitabine and tenofovir disoproxil fumarate.
-EMTRIVA is the brand name for emtricitabine, a synthetic nucleoside analog of cytidine.
-Tenofovir disoproxil fumarate (VIREAD, also known as tenofovir DF) is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
+EMTRIVA® is the brand name for emtricitabine, a synthetic nucleoside analog of cytidine.
+Tenofovir disoproxil fumarate (VIREAD®, also known as tenofovir DF) is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
 Both emtricitabine and tenofovir exhibit inhibitory activity against HIV-1 reverse transcriptase.
 
 TRUVADA Tablets are for oral administration.

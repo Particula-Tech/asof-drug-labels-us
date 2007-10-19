@@ -30,8 +30,7 @@ What is the most important information I should know about TRUVADA?
   - You feel sick to your stomach (nausea).
   - You have lower stomach area (abdominal) pain.
 - You may be more likely to get lactic acidosis or liver problems if you are female, very overweight (obese), or have been taking nucleoside analog medicines, like TRUVADA, for a long time.
-- TRUVADA is not for the treatment of Hepatitis B Virus infection (HBV).
-  Patients infected with both HBV and human immunodeficiency virus (HIV) who take TRUVADA need close medical follow-up for several months after stopping treatment with TRUVADA.
+- If you are also infected with the Hepatitis B Virus (HBV), you need close medical follow-up for several months after stopping treatment with TRUVADA.
   Follow-up includes medical exams and blood tests to check for HBV that could be getting worse.
   Patients with Hepatitis B Virus infection, who take TRUVADA and then stop it, may get "flare-ups" of their hepatitis.
   A "flare-up" is when the disease suddenly returns in a worse way than before.
@@ -69,7 +68,7 @@ Who should not take TRUVADA?
 - Do not take TRUVADA if you are allergic to TRUVADA or any of its ingredients.
   The active ingredients of TRUVADA are emtricitabine and tenofovir DF.
   See the end of this leaflet for a complete list of ingredients.
-- Do not take TRUVADA if you are already taking COMBIVIR®, EMTRIVA, EPIVIR®, EPIVIR-HBV®, EPZICOM™, TRIZIVIR®, or VIREAD because these medicines contain the same or similar active ingredients.
+- Do not take TRUVADA if you are already taking ATRIPLA™, Combivir (lamivudine/zidovudine), EMTRIVA, Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Trizivir (abacavir sulfate/lamivudine/zidovudine), or VIREAD because these medicines contain the same or similar active ingredients.
 
 What should I tell my healthcare provider before taking TRUVADA?
 
@@ -90,12 +89,15 @@ Tell your healthcare provider if you:
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you take:
 
-- Drugs that contain didanosine (VIDEX®, VIDEX EC®).
-  Tenofovir DF (a component of TRUVADA) may increase the amount of VIDEX in your blood.
-  You may need to be followed more carefully if you are taking TRUVADA and VIDEX together.
-- REYATAZ™ (atazanavir sulfate) or KALETRA® (lopinavir/ritonavir).
+- Videx, Videx EC (didanosine).
+  Tenofovir DF (a component of TRUVADA) may increase the amount of Videx in your blood.
+  You may need to be followed more carefully if you are taking TRUVADA and Videx together.
+  Also, the dose of didanosine may need to be reduced.
+- Reyataz (atazanavir sulfate) or Kaletra (lopinavir/ritonavir).
   These medicines may increase the amount of tenofovir DF (a component of TRUVADA) in your blood, which could result in more side effects.
-  You may need to be followed more carefully if you are taking TRUVADA and REYATAZ or KALETRA together.
+  You may need to be followed more carefully if you are taking TRUVADA and Reyataz or Kaletra together.
+  TRUVADA may decrease the amount of Reyataz in your blood.
+  If you are taking TRUVADA and Reyataz together, you should also be taking Norvir (ritonavir).
 
 Keep a complete list of all the medicines that you take.
 Make a new list when medicines are added or stopped.
@@ -132,7 +134,8 @@ What should I avoid while taking TRUVADA?
   - Do not share personal items that can have blood or body fluids on them, like toothbrushes or razor blades.
   - Do not have any kind of sex without protection.
     Always practice safer sex by using a latex or polyurethane condom or other barrier to reduce the chance of sexual contact with semen, vaginal secretions, or blood.
-- COMBIVIR, EMTRIVA, EPIVIR, EPIVIR-HBV, EPZICOM, TRIZIVIR, or VIREAD.
+
+- ATRIPLA, Combivir (lamivudine/zidovudine), EMTRIVA, Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Trizivir (abacavir sulfate/lamivudine/zidovudine), or VIREAD.
   TRUVADA should not be used with these medicines.
 
 What are the possible side effects of TRUVADA?
@@ -148,9 +151,11 @@ TRUVADA may cause the following serious side effects (see "What is the most impo
   (See "What is the most important information I should know about TRUVADA?")
 - "Flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking TRUVADA.
   Your healthcare provider will monitor your condition for several months after stopping TRUVADA if you have both HIV and HBV infection.
-  TRUVADA is not for the treatment of Hepatitis B Virus infection.
-- Kidney problems If you have had kidney problems in the past or take other medicines that can cause kidney problems, your healthcare provider should do regular blood tests to check your kidneys.
-- Changes in bone mineral density (thinning bones) It is not known whether long-term use of TRUVADA will cause damage to your bones.
+  TRUVADA is not approved for the treatment of Hepatitis B Virus infection.
+- Kidney problems.
+  If you have had kidney problems in the past or take other medicines that can cause kidney problems, your healthcare provider should do regular blood tests to check your kidneys.
+- Changes in bone mineral density (thinning bones).
+  It is not known whether long-term use of TRUVADA will cause damage to your bones.
   If you have had bone problems in the past, your healthcare provider may need to do tests to check your bone mineral density or may prescribe medicines to help your bone mineral density.
 
 Other side effects with TRUVADA when used with other anti-HIV medicines include:
