@@ -110,7 +110,7 @@ Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses 
 | Healthy Volunteers GFR >80 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 25.3 (±7.99) | 45.0 (±22.6) |
 | Mild Renal Impairment GFR 50 to 80 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 26.0 (±3.82) | 59.9 (±12.9) |
 | Moderate Renal Impairment GFR 25 to 49 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 19.0 (±13.2) | 52.9 (±25.5) |
-| Severe Renal Impairment GFR <25 mL/min/1.73 m2 (n=7) | 1 g | 1.00 (±0.41) | 16.3 (±10.8) | 78.6 (±46.4) |
+| Severe Renal Impairment GFR<25 mL/min/1.73 m2 (n=7) | 1 g | 1.00 (±0.41) | 16.3 (±10.8) | 78.6 (±46.4) |
 | Hepatic Impairment (no. of patients) | Dose | Tmax (h) | Cmax (µg/mL) | AUC(0–48h) (µg∙h/mL) |
 | Healthy Volunteers (n=6) | 1 g | 0.63 (±0.14) | 24.3 (±5.73) | 29.0 (±5.78) |
 | Alcoholic Cirrhosis (n=18) | 1 g | 0.85 (±0.58) | 22.4 (±10.1) | 29.8 (±10.7) |
@@ -122,7 +122,7 @@ Plasma MPA AUC observed after oral dosing to volunteers with severe chronic rena
 In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
 No data are available on the safety of long-term exposure to this level of MPAG.
 
-Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 µg∙h/mL (±19.3).
+Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR<25 mL/min/1.73 m2) was 62.4 µg∙h/mL (±19.3).
 Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
 
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0–12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
@@ -176,7 +176,7 @@ MPA AUC values were similar in the early and late posttransplant period across t
 ### Gender
 
 Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
-Mean (±SD) MPA AUC(0–12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) µg∙h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) µg/mL in the females.
+Mean (±SD) MPA AUC(0–12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) µg∙h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64)µg/mL in the females.
 These differences are not of clinical significance.
 
 ### Geriatrics

@@ -138,4 +138,4 @@ No dose adjustments are needed in renal transplant patients experiencing delayed
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 CellCept may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 
-If neutropenia develops (ANC <1.3 × 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests).
+If neutropenia develops (ANC <1.3× 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests).

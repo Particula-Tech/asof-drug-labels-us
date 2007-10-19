@@ -1,6 +1,6 @@
 # HANDLING AND DISPOSAL
 
-Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits (see PRECAUTIONS: Pregnancy).
+Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits (see WARNINGS: Pregnancy).
 CellCept tablets should not be crushed and CellCept capsules should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in CellCept capsules and CellCept Oral Suspension (before or after constitution).
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
@@ -21,8 +21,18 @@ Maalox is a registered trademark of Novartis Consumer Health, Inc.
 
 Distributed by:
 
-27899049
+Roche Pharmaceuticals
 
-0298G028
+Roche Laboratories Inc.
 
-Copyright © 1998-2005 by Roche Laboratories Inc. All rights reserved.
+340 Kingsland Street
+
+Nutley, New Jersey 07110–1199
+
+27899435
+
+10084747
+
+Revised: September 2007
+
+Copyright © 1998-2007 by Roche Laboratories Inc. All rights reserved.

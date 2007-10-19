@@ -31,7 +31,7 @@ Table 4 Renal Transplant Studies Incidence of Treatment Failure (Biopsy-proven R
 | All treatment failures | 31.1% | 31.3% | 47.6% |
 | Early termination without prior acute rejectionDoes not include death and graft loss as reason for early termination. | 9.6% | 12.7% | 6.0% |
 | Biopsy-proven rejection episode on treatment | 19.8% | 17.5% | 38.0% |
-| Europe/Canada/ Australia StudyMMF or azathioprine/cyclosporine/corticosteroids. (N=503 patients) | CellCept 2 g/day (n=173 patients) | CellCept 3 g/day (n=164 patients) | Azathioprine 100 to 150 mg/kg/day (n=166 patients) |
+| Europe/Canada/Australia StudyMMF or azathioprine/cyclosporine/corticosteroids. (N=503 patients) | CellCept 2 g/day (n=173 patients) | CellCept 3 g/day (n=164 patients) | Azathioprine 100 to 150 mg/kg/day (n=166 patients) |
 | All treatment failures | 38.2% | 34.8% | 50.0% |
 | Early termination without prior acute rejection | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven rejection episode on treatment | 19.7% | 15.9% | 35.5% |

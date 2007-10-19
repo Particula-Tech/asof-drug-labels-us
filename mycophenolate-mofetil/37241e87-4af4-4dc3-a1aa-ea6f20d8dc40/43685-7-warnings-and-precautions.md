@@ -2,7 +2,9 @@
 
 Patients receiving immunosuppressive regimens involving combinations of drugs, including CellCept, as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see ADVERSE REACTIONS).
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
+
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections, fatal infections, and sepsis.
+In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
@@ -13,22 +15,40 @@ Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients rece
 
 In pediatric patients, no other malignancies besides lymphoproliferative disorder (2/148 patients) have been observed (see ADVERSE REACTIONS).
 
-Adverse effects on fetal development (including malformations) occurred when pregnant rats and rabbits were dosed during organogenesis.
-These responses occurred at doses lower than those associated with maternal toxicity, and at doses below the recommended clinical dose for renal, cardiac or hepatic transplantation.
-There are no adequate and well-controlled studies in pregnant women.
-However, as CellCept has been shown to have teratogenic effects in animals, it may cause fetal harm when administered to a pregnant woman.
-Therefore, CellCept should not be used in pregnant women unless the potential benefit justifies the potential risk to the fetus.
+## Pregnancy: Teratogenic Effects: Pregnancy Category D
 
-Women of childbearing potential should have a negative serum or urine pregnancy test with a sensitivity of at least 50 mIU/mL within 1 week prior to beginning therapy.
-It is recommended that CellCept therapy should not be initiated by the physician until a report of a negative pregnancy test has been obtained.
+Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant woman.
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney.
+In the National Transplantation Pregnancy Registry (NTPR), there were data on 33 MMF–exposed pregnancies in 24 transplant patients; there were 15 spontaneous abortions (45%) and 18 live-born infants.
+Four of these 18 infants had structural malformations (22%).
+In postmarketing data (collected 1995–2007) on 77 women exposed to systemic MMF during pregnancy, 25 had spontaneous abortions and 14 had a malformed infant or fetus.
+Six of 14 malformed offspring had ear abnormalities.
+Because these postmarketing data are reported voluntarily, it is not always possible to reliably estimate the frequency of particular adverse outcomes.
+These malformations seen in offspring were similar to findings in animal reproductive toxicology studies.
+For comparison, the background rate for congenital anomalies in the United States is about 3%, and NTPR data show a rate of 4–5% among babies born to organ transplant patients using other immunosuppressive drugs.
 
-Effective contraception must be used before beginning CellCept therapy, during therapy, and for 6 weeks following discontinuation of therapy, even where there has been a history of infertility, unless due to hysterectomy.
-Two reliable forms of contraception must be used simultaneously unless abstinence is the chosen method (see PRECAUTIONS: Drug Interactions).
-If pregnancy does occur during treatment, the physician and patient should discuss the desirability of continuing the pregnancy (see PRECAUTIONS: Pregnancy and Information for Patients).
+In animal reproductive toxicology studies, there were increased rates of fetal resorptions and malformations in the absence of maternal toxicity.
+Female rats and rabbits received mycophenolate mofetil (MMF) doses equivalent to 0.02 to 0.9 times the recommended human dose for renal and cardiac transplant patients, based on body surface area conversions.
+In rat offspring, malformations included anophthalmia, agnathia, and hydrocephaly.
+In rabbit offspring, malformations included ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia.
 
-In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+In certain situations, the patient and her healthcare practitioner may decide that the maternal benefits outweigh the risks to the fetus.
+Women using CellCept at any time during pregnancy should be encouraged to enroll in the National Transplantation Pregnancy Registry.
 
-Severe neutropenia [absolute neutrophil count (ANC) <0.5 × 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
+## Pregnancy Exposure Prevention
+
+Women of childbearing potential should have a negative serum or urine pregnancy test with a sensitivity of at least 25 mIU/mL within 1 week prior to beginning therapy.
+CellCept therapy should not be initiated until a negative pregnancy test report is obtained.
+
+Women of childbearing potential (including pubertal girls and peri-menopausal women) taking CellCept must receive contraceptive counseling and use effective contraception.
+The patient should begin using her two chosen methods of contraception 4 weeks prior to starting CellCept therapy, unless abstinence is the chosen method.
+She should continue contraceptive use during therapy and for 6 weeks after stopping CellCept.
+Patients should be aware that CellCept reduces blood levels of the hormones in the oral contraceptive pill and could theoretically reduce its effectiveness (see PRECAUTIONS: Information for Patients and Drug Interactions: Oral Contraceptives).
+
+## Neutropenia
+
+Severe neutropenia [absolute neutrophil count (ANC)<0.5 × 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
 Patients receiving CellCept should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
 The development of neutropenia may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 If neutropenia develops (ANC <1.3 × 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
@@ -81,9 +101,12 @@ Therefore, care should be taken if CellCept Oral Suspension is administered to p
 
 ## Information for Patients
 
-Patients should be informed of the need for repeated appropriate laboratory tests while they are receiving CellCept.
-Patients should be given complete dosage instructions and informed of the increased risk of lymphoproliferative disease and certain other malignancies.
-Women of childbearing potential should be instructed of the potential risks during pregnancy, and that they should use effective contraception before beginning CellCept therapy, during therapy, and for 6 weeks after CellCept has been stopped (see WARNINGS and PRECAUTIONS: Pregnancy).
+- Give patients complete dosage instructions and inform them about the increased risk of lymphoproliferative disease and certain other malignancies.
+- Inform patients that they need repeated appropriate laboratory tests while they are taking CellCept.
+- Inform women of childbearing potential that use of CellCept in pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of birth defects, and that they must use effective contraception.
+- Discuss pregnancy plans with female patients of childbearing potential.
+  - Any female of childbearing potential must use highly effective (two methods) contraception 4 weeks prior to starting CellCept therapy and continue contraception until 6 weeks after stopping CellCept treatment, unless abstinence is the chosen method (see WARNINGS: Pregnancy).
+  - A patient who is planning a pregnancy should not use CellCept unless she cannot be successfully treated with other immunosuppressant drugs.
 
 ## Laboratory Tests
 
@@ -135,7 +158,7 @@ Mean AUC(0–24h) was similar for ethinylestradiol and 3-keto desogestrel; howev
 There was large inter-patient variability (%CV in the range of 60% to 70%) in the data, especially for ethinylestradiol.
 Mean serum levels of LH, FSH and progesterone were not significantly affected.
 CellCept may not have any influence on the ovulation-suppressing action of the studied oral contraceptives.
-However, it is recommended that oral contraceptives are coadministered with CellCept with caution and additional birth control methods be considered (see PRECAUTIONS: Pregnancy).
+However, it is recommended that oral contraceptives are coadministered with CellCept with caution and additional birth control methods be considered (see WARNINGS: Pregnancy).
 
 ### Trimethoprim/sulfamethoxazole
 
@@ -177,16 +200,9 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 ## Pregnancy
 
-### Category C
+### Teratogenic Effects: Pregnancy Category D
 
-In teratology studies in rats and rabbits, fetal resorptions and malformations occurred in rats at 6 mg/kg/day and in rabbits at 90 mg/kg/day, in the absence of maternal toxicity.
-These levels are equivalent to 0.03 to 0.92 times the recommended clinical dose in renal transplant patients and 0.02 to 0.61 times the recommended clinical dose in cardiac transplant patients on a BSA basis.
-In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg/day caused malformations (principally of the head and eyes) in the first generation offspring in the absence of maternal toxicity.
-This dose was 0.02 times the recommended clinical dose in renal transplant patients and 0.01 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
-
-There are no adequate and well-controlled studies in pregnant women.
-CellCept should not be used in pregnant women unless the potential benefit justifies the potential risk to the fetus.
-Effective contraception must be used before beginning CellCept therapy, during therapy and for 6 weeks after CellCept has been stopped (see WARNINGS and PRECAUTIONS: Information for Patients).
+See WARNINGS section.
 
 ## Nursing Mothers
 

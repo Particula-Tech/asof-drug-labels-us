@@ -134,7 +134,7 @@ In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention
 
 In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with CellCept than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with CellCept.
 
-The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with CellCept, in combination with cyclosporine and corticosteroids.
+The following adverse events were reported with 3% to<20% incidence in renal, cardiac, and hepatic transplant patients treated with CellCept, in combination with cyclosporine and corticosteroids.
 
 Table 10 Adverse Events Reported in 3% to <20% of Patients Treated With CellCept in Combination With Cyclosporine and Corticosteroids
 
@@ -169,9 +169,13 @@ The safety profile of intravenous CellCept was similar to that of intravenous az
 
 ## Postmarketing Experience
 
+### Congenital Disorders
+
+Congenital malformations including ear malformations have been reported in offspring of patients exposed to mycophenolate mofetil during pregnancy (see WARNINGS: Pregnancy).
+
 ### Digestive
 
-colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
+Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 
 ### Resistance Mechanism Disorders
 
