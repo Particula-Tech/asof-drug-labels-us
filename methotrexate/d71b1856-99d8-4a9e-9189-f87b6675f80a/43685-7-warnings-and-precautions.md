@@ -1,8 +1,6 @@
 # WARNINGS
 
-# WARNINGS
-
-SEE BOXEDWARNINGS.
+See Boxed WARNINGS.
 
 Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high dose methotrexate therapy.
 
@@ -44,7 +42,7 @@ During initial or changing doses, or during periods of increased risk of elevate
 
 Transient liver function test abnormalities are observed frequently after methotrexate administration and are usually not cause for modification of methotrexate therapy.
 Persistent liver function test abnormalities, and/or depression of serum albumin may be indicators of serious liver toxicity and require evaluation.
-(See PRECAUTIONS, Organ System Toxicity, Hepatic.)
+(See PRECAUTIONS; Organ System Toxicity: Hepatic.)
 
 A relationship between abnormal liver function tests and fibrosis or cirrhosis of the liver has not been established for patients with psoriasis.
 Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in the rheumatoid arthritis population.
@@ -143,7 +141,7 @@ Special caution is indicated in the presence of preexisting liver damage or impa
 
 In psoriasis, liver function tests, including serum albumin, should be performed periodically prior to dosing but are often normal in the face of developing fibrosis or cirrhosis.
 These lesions may be detectable only by biopsy.
-The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 - 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1.0 to 1.5 grams.
+The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 to 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1.0 to 1.5 grams.
 Moderate fibrosis or any cirrhosis normally leads to discontinuation of the drug; mild fibrosis normally suggests a repeat biopsy in 6 months.
 Milder histologic findings such as fatty change and low grade portal inflammation are relatively common pretherapy.
 Although these mild changes are usually not a reason to avoid or discontinue methotrexate therapy, the drug should be used with caution.

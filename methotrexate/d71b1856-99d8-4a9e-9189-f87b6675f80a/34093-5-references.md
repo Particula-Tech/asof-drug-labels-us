@@ -11,8 +11,8 @@
 5. American Society of Hospital Pharmacists technical assistance bulletin on handling cytotoxic and hazardous drugs.
    Am J Hosp Pharm 1990; 47:1033-1049.
 
-10004494/01
+10004494/02
 
-March 2006
+Revised February 2007
 
-© RLI, 2006
+© RLI, 2007
