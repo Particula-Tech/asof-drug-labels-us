@@ -177,11 +177,12 @@ In bipolar depression trials, the proportions of patients meeting the same weigh
 
 Laboratory Changes: An assessment of the premarketing experience for SEROQUEL suggested that it is associated with asymptomatic increases in SGPT and increases in both total cholesterol and triglycerides (see PRECAUTIONS).
 
+In placebo controlled monotherapy clinical trials involving 3368 patients on SEROQUEL and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with SEROQUEL, compared to 0.1% (2/1349) in patients treated with placebo.
+(See PRECAUTIONS: Leukopenia, neutropenia and agranulocytosis)
+
 In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol) have been observed.
 
-An assessment of hematological parameters in short-term, placebo-controlled trials revealed no clinically important differences between SEROQUEL and placebo.
-
-Hyperglycemia: In 2 long-term placebo-controlled clinical trials, mean exposure 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dl) for patients more than 8 hours since a meal was 18.0 per 100 patient years for SEROQUEL (10.7% of patients) and 9.5 for placebo per 100 patient years (4.6% of patients).
+Hyperglycemia In 2 long-term placebo-controlled clinical trials, mean exposure 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dl) for patients more than 8 hours since a meal was 18.0 per 100 patient years for SEROQUEL (10.7% of patients) and 9.5 for placebo per 100 patient years (4.6% of patients).
 
 In short-term (12 weeks duration or less) placebo-controlled clinical trials (3342 patients treated with SEROQUEL and 1490 treated with placebo), the percent of patients who had a fasting blood glucose ≥ 126 mg/dl or a non fasting blood glucose ≥ 200 mg/dl was 3.5% for quetiapine and 2.1% for placebo.
 
@@ -205,25 +206,25 @@ Events are further categorized by body system and listed in order of decreasing 
 
 Nervous System: Frequent: hypertonia, dysarthria; Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased*, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
 
-Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain*, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
+Body as a Whole:Frequent: flu syndrome; Infrequent: neck pain, pelvic pain*, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
 
-Digestive System: Frequent: anorexia; Infrequent: increased salivation, increased appetite, gamma glutamyl transpeptidase increased, gingivitis, dysphagia, flatulence, gastroenteritis, gastritis, hemorrhoids, stomatitis, thirst, tooth caries, fecal incontinence, gastroesophageal reflux, gum hemorrhage, mouth ulceration, rectal hemorrhage, tongue edema; Rare: glossitis, hematemesis, intestinal obstruction, melena, pancreatitis.
+Digestive System:Frequent: anorexia; Infrequent: increased salivation, increased appetite, gamma glutamyl transpeptidase increased, gingivitis, dysphagia, flatulence, gastroenteritis, gastritis, hemorrhoids, stomatitis, thirst, tooth caries, fecal incontinence, gastroesophageal reflux, gum hemorrhage, mouth ulceration, rectal hemorrhage, tongue edema; Rare: glossitis, hematemesis, intestinal obstruction, melena, pancreatitis.
 
 Cardiovascular System: Frequent: palpitation; Infrequent: vasodilatation, QT interval prolonged, migraine, bradycardia, cerebral ischemia, irregular pulse, T wave abnormality, bundle branch block, cerebrovascular accident, deep thrombophlebitis, T wave inversion; Rare: angina pectoris, atrial fibrillation, AV block first degree, congestive heart failure, ST elevated, thrombophlebitis, T wave flattening, ST abnormality, increased QRS duration.
 
-Respiratory System: Frequent: pharyngitis, rhinitis, cough increased, dyspnea; Infrequent: pneumonia, epistaxis, asthma; Rare: hiccup, hyperventilation.
+Respiratory System:Frequent: pharyngitis, rhinitis, cough increased, dyspnea; Infrequent: pneumonia, epistaxis, asthma; Rare: hiccup, hyperventilation.
 
 Metabolic and Nutritional System: Frequent: peripheral edema; Infrequent: weight loss, alkaline phosphatase increased, hyperlipemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
 
 Skin and Appendages System: Frequent: sweating; Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
-Urogenital System: Infrequent: dysmenorrhea*, vaginitis*, urinary incontinence, metrorrhagia*, impotence*, dysuria, vaginal moniliasis*, abnormal ejaculation*, cystitis, urinary frequency, amenorrhea*, female lactation*, leukorrhea*, vaginal hemorrhage*, vulvovaginitis* orchitis*; Rare: gynecomastia*, nocturia, polyuria, acute kidney failure.
+Urogenital System:Infrequent: dysmenorrhea*, vaginitis*, urinary incontinence, metrorrhagia*, impotence*, dysuria, vaginal moniliasis*, abnormal ejaculation*, cystitis, urinary frequency, amenorrhea*, female lactation*, leukorrhea*, vaginal hemorrhage*, vulvovaginitis* orchitis*; Rare: gynecomastia*, nocturia, polyuria, acute kidney failure.
 
-Special Senses: Infrequent: conjunctivitis, abnormal vision, dry eyes, tinnitus, taste perversion, blepharitis, eye pain; Rare: abnormality of accommodation, deafness, glaucoma.
+Special Senses:Infrequent: conjunctivitis, abnormal vision, dry eyes, tinnitus, taste perversion, blepharitis, eye pain; Rare: abnormality of accommodation, deafness, glaucoma.
 
 Musculoskeletal System: Infrequent: pathological fracture, myasthenia, twitching, arthralgia, arthritis, leg cramps, bone pain.
 
-Hemic and Lymphatic System: Frequent: leukopenia; Infrequent: leukocytosis, anemia, ecchymosis, eosinophilia, hypochromic anemia; lymphadenopathy, cyanosis; Rare: hemolysis, thrombocytopenia.
+Hemic and Lymphatic System:Frequent: leukopenia; Infrequent: leukocytosis, anemia, ecchymosis, eosinophilia, hypochromic anemia; lymphadenopathy, cyanosis; Rare: hemolysis, thrombocytopenia.
 
 Endocrine System: Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyroidism.
 
@@ -231,8 +232,6 @@ Endocrine System: Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyr
 
 ## Post Marketing Experience:
 
-Adverse events reported since market introduction which were temporally related to SEROQUEL therapy include: anaphylactic reaction, restless legs, and leukopenia/neutropenia.
-If a patient develops a low white cell count consider discontinuation of therapy.
-Possible risk factors for leukopenia/neutropenia include pre-existing low white cell count and history of drug induced leukopenia/neutropenia.
+Adverse events reported since market introduction which were temporally related to SEROQUEL therapy include: anaphylactic reaction and restless legs.
 
 Other adverse events reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), and Stevens Johnson syndrome (SJS).

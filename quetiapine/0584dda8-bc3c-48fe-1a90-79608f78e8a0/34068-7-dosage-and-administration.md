@@ -12,13 +12,13 @@ Recommended Dosing Schedule
 | --- | --- | --- | --- | --- |
 | SEROQUEL | 50 mg | 100 mg | 200 mg | 300 mg |
 
-In these clinical trials supporting effectiveness, the dosing schedule was 50 mg, 100 mg, 200 mg and 300 mg/day for days 1-4 respectively.
-Patients receiving 600 mg increased to 400mg on day 5 and 600 mg on day 8 (Week 1).
+In the clinical trials supporting effectiveness, the dosing schedule was 50 mg, 100 mg, 200 mg and 300 mg/day for days 1-4 respectively.
+Patients receiving 600 mg increased to 400 mg on day 5 and 600 mg on day 8 (Week 1).
 Antidepressant efficacy was demonstrated with SEROQUEL at both 300 mg and 600 mg however, no additional benefit was seen in the 600 mg group.
 
 ## Mania
 
-Usual Dose: When used as monotherapy or adjunct therapy (with lithium or divalproex), SEROQUEL should be initiated in BID doses totaling 100 mg/day on Day 1, increased to 400 mg/day on Day 4 in increments of up to 100 mg/day in BID divided doses.
+Usual Dose: When used as monotherapy or adjunct therapy (with lithium or divalproex), SEROQUEL should be initiated in bid doses totaling 100 mg/day on Day 1, increased to 400 mg/day on Day 4 in increments of up to 100 mg/day in bid divided doses.
 Further dosage adjustments up to 800 mg/day by Day 6 should be in increments of no greater than 200 mg/day.
 Data indicates that the majority of patients responded between 400 to 800 mg/day.
 The safety of doses above 800 mg/day has not been evaluated in clinical trials.

@@ -117,6 +117,15 @@ SEROQUEL should be used with particular caution in patients with known cardiovas
 The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg bid (See DOSAGE AND ADMINISTRATION).
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
+Leukopenia, Neutropenia and Agranulocytosis: In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including SEROQUEL.
+Agranulocytosis (including fatal cases) has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include pre-existing low white cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue SEROQUEL at the first sign of a decline in WBC in absence of other causative factors.
+
+Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue SEROQUEL and have their WBC followed until recovery (See ADVERSE REACTIONS).
+
 Cataracts: The development of cataracts was observed in association with quetiapine treatment in chronic dog studies (see Animal Toxicology).
 Lens changes have also been observed in patients during long-term SEROQUEL treatment, but a causal relationship to SEROQUEL use has not been established.
 Nevertheless, the possibility of lenticular changes cannot be excluded at this time.
@@ -215,9 +224,12 @@ Alcohol: Patients should be advised to avoid consuming alcoholic beverages while
 
 Heat Exposure and Dehydration: Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
 
+Leukopenia/Neutropenia: Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking SEROQUEL.
+
 ## Laboratory Tests
 
-No specific laboratory tests are recommended.
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue SEROQUEL at the first sign of a decline in WBC in absence of other causative factors.
+(see PRECAUTIONS: Leukopenia, neutropenia and agranulocytosis)
 
 ## Drug Interactions
 

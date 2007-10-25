@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Human experience: In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine.
+Human experience:In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine.
 Most patients who overdosed experienced no adverse events or recovered fully from the reported events.
 Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone.
 In general, reported signs and symptoms were those resulting from an exaggeration of the drug’s known pharmacological effects, ie, drowsiness and sedation, tachycardia and hypotension.

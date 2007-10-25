@@ -2,7 +2,7 @@
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
+Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your, or your family member’s, healthcare provider about:
 
@@ -18,7 +18,7 @@ What is the most important information I should know about antidepressant medici
 3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is first started or when the dose is changed.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
 - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
 - Keep all follow-up visits with the healthcare provider as scheduled.
   Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
@@ -66,7 +66,7 @@ Wilmington, DE 19850
 
 Made in USA
 
-30417–02
+30417–03
 
 Rev.
-07/07
+10/07
