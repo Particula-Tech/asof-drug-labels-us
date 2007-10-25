@@ -1,0 +1,6 @@
+# ADVERSE REACTIONS
+
+- Menstrual irregularity is the most frequently reported side effect.
+- Frequent and irregular bleeding are common, while long duration of bleeding episodes and amenorrhea are less likely.
+- Headache, breast tenderness, nausea, and dizziness are increased among progestin-only oral contraceptive users in some studies.
+- Androgenic side effects such as acne, hirsutism, and weight gain occur rarely.
