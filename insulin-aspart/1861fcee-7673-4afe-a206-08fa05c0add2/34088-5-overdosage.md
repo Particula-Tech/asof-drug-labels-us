@@ -1,6 +1,4 @@
-# DRUG ABUSE AND DEPENDENCE
-
-## Overdosage
+# OVERDOSAGE
 
 Hypoglycemia may occur as a result of an excess of insulin relative to food intake, energy expenditure, or both.
 Mild episodes of hypoglycemia usually can be treated with oral glucose.
