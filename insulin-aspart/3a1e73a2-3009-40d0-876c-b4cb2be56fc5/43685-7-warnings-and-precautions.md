@@ -16,11 +16,10 @@ Physicians and patients should carefully evaluate information on pump use in the
 NovoLog-specific information should be followed for in-use time, frequency of changing infusion sets, or other details specific to NovoLog usage, because NovoLog-specific information may differ from general pump manual instructions).
 
 Pump or infusion set malfunctions or insulin degradation can lead to hyperglycemia and ketosis in a short time because of the small subcutaneous depot of insulin.
-This is especially pertinent for rapid-acting insulin analogs that are more rapidly absorbed through skin and have shorter duration of action.
-These differences may be particularly relevant when patients are switched from multiple injection therapy or infusion with buffered regular insulin.
+This is especially pertinent for rapid-acting insulin analogs that are more rapidly absorbed through skin and have shorter duration of action.These differences may be particularly relevant when patients are switched from multiple injection therapy or infusion with buffered regular insulin.
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
 Interim therapy with subcutaneous injection may be required.
-(See PRECAUTIONS, Mixing Of Insulins, Information For Patients, DOSAGE AND ADMINISTRATION, and RECOMMENDED STORAGE.)
+(SeePRECAUTIONS, Mixing Of Insulins, Information For Patients, DOSAGE AND ADMINISTRATION, and RECOMMENDED STORAGE.)
 
 # PRECAUTIONS
 
@@ -45,11 +44,11 @@ Such situations may result in severe hypoglycemia (and, possibly, loss of consci
 
 ### Renal Impairment
 
-As with other insulins, the dose requirements for NovoLog may be reduced in patients with renal impairment (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+As with other insulins, the dose requirements for NovoLog may be reduced in patients with renal impairment (see CLINICIAL PHARMACOLOGY, Pharmacokinetics).
 
 ### Hepatic Impairment
 
-As with other insulins, the dose requirements for NovoLog may be reduced in patients with hepatic impairment (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+As with other insulins, the dose requirements for NovoLog may be reduced in patients with hepatic impairment (see CLINICIAL PHARMACALOGY, Pharmacokinetics).
 
 ### Allergy
 
@@ -63,7 +62,6 @@ In some instances, these reactions may be related to factors other than insulin,
 
 Less common, but potentially more serious, is generalized allergy to insulin, which may cause rash (including pruritus) over the whole body, shortness of breath, wheezing, reduction in blood pressure, rapid pulse, or sweating.
 Severe cases of generalized allergy, including anaphylactic reaction, may be life threatening.
-
 Localized reactions and generalized myalgias have been reported with the use of cresol as an injectable excipient.
 
 In controlled clinical trials using injection therapy, allergic reactions were reported in 3 of 735 patients (0.4%) who received regular human insulin and 10 of 1394 patients (0.7%) who received NovoLog.
@@ -81,7 +79,7 @@ They do not appear to cause deterioration in HbA1c or to necessitate increases i
 ### Pregnancy And Lactation
 
 Female patients should be advised to tell their physician if they intend to become, or if they become pregnant.
-Information is not available on the use of NovoLog during lactation (see PREGNANCY - TERATOGENIC EFFECTS - PREGNANCY CATEGORY).
+Information is not available on the use of NovoLog during lactation (see Pregnancy-Teratogenic Effects-Pregnancy Category).
 
 ### Usage In Pumps
 
@@ -107,11 +105,11 @@ NovoLog should not be mixed with other insulins or with a diluent when it is use
 ### For All Patients:
 
 Patients should be informed about potential risks and advantages of NovoLog therapy including the possible side effects.
-Patients should also be offered continued education and advice on insulin therapies, injection technique, life‑style management, regular glucose monitoring, periodic glycosylated hemoglobin testing, recognition and management of hypo- and hyperglycemia, adherence to meal planning, complications of insulin therapy, timing of dose, instruction in the use of injection or subcutaneous infusion devices, and proper storage of insulin.
+Patients should also be offered continued education and advice on insulin therapies, injection technique, life-style management, regular glucose monitoring, periodic glycosylated hemoglobin testing, recognition and management of hypo- and hyperglycemia, adherence to meal planning, complications of insulin therapy, timing of dose, instruction in the use of injection or subcutaneous infusion devices, and proper storage of insulin.
 Patients should be informed that frequent, patient-performed blood glucose measurements are needed to achieve optimal glycemic control and avoid both hyper- and hypoglycemia.
 
 Female patients should be advised to tell their physician if they intend to become, or if they become pregnant.
-Information is not available on the use of NovoLog during lactation (see PREGNANCY - TERATOGENIC EFFECTS - PREGNANCY CATEGORY).
+Information is not available on the use of NovoLog during lactation (see Pregnancy-Teratogenic Effects-Pregnancy Category).
 
 ### For Patients Using Pumps:
 
@@ -119,7 +117,7 @@ Patients using external pump infusion therapy should be trained in intensive ins
 
 ### Pumps:
 
-NovoLog is recommended for use in Disetronic H-TRON series, MiniMed 500 series and other equivalent pumps
+NovoLog is recommended for use in Disetronic H-TRON series, MiniMed 500 series and other equivalent pumps.
 
 ### Reservoirs And Infusion Sets:
 

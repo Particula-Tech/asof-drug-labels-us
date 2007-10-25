@@ -12,7 +12,9 @@ NovoLog®
 
 100 units/mL (U-100)
 
-- What is the most important information I should know about NovoLog? - For all NovoLog users- For pump users
+- What is the most important information I should know about NovoLog?
+  - For all NovoLog users
+  - For pump users
 - What is NovoLog?
 - Who should not use NovoLog?
 - What should I know about using insulin?
@@ -21,9 +23,12 @@ NovoLog®
 - What are the possible side effects of NovoLog?
 - How should I store NovoLog?
 - General advice
-- Injection and pump infusion instructions- How should I inject NovoLog?- How should I infuse NovoLog with an external subcutaneous insulin infusion pump?- How should I mix insulins?
-  - - Using Vials
-  - - Using Cartridges
+- Injection and pump infusion instructions
+  - How should I inject NovoLog?
+    - Using Vials
+    - Using Cartridges
+  - How should I infuse NovoLog with an external subcutaneous insulin infusion pump?
+  - How should I mix insulins?
 
 Read this information carefully before you begin treatment.
 Read the information you get whenever you get more medicine.
@@ -47,15 +52,15 @@ For All NovoLog Users
 
 If you use NovoLog by injection, you may need to increase some or all of the following:
 
-- - your total dose of insulin
-- - your dose of intermediate or long-acting insulin (for example, NPH)
-- - the number of injections of basal insulin
+- your total dose of insulin
+- your dose of intermediate or long-acting insulin (for example, NPH)
+- the number of injections of basal insulin
 
 If you infuse NovoLog into the skin (subcutaneous tissue) by pump, you may need to increase some or all of the following:
 
-- - your total insulin dose
-- - the basal infusion dose
-- - the proportion of total insulin given as a basal infusion
+- your total insulin dose
+- the basal infusion dose
+- the proportion of total insulin given as a basal infusion
 
 Age and exposure to heat affect the stability of NovoLog and its preservative.
 Also, NovoLog does not work well after it has been frozen.
@@ -64,8 +69,8 @@ Hyperglycemia may be a sign that the insulin is no longer working and needs to b
 
 Do not mix NovoLog:
 
-- - with any other insulins when used in a pump
-- - with Lantus® (insulin glargine [rDNA origin] injection) when used with injections by syringe
+- with any other insulins when used in a pump
+- with Lantus® (insulin glargine [rDNA origin] injection) when used with injections by syringe
 
 (You may, however, mix NovoLog with NPH when used with injections by syringe.
 
@@ -78,7 +83,10 @@ For Pump Users
   Accordingly, problems with the infusion pump, the flow of insulin, or the quality of the insulin should be identified and corrected as quickly as possible.
   There is only a small amount of insulin infused into the skin with a pump.
   The faster absorption through the skin of rapid-acting insulin analogs and shorter duration of action may give you less time to identify and correct the problem than with buffered regular insulin.
-- Therefore, you should dose with insulin from a new vial of NovoLog if unexplained hyperglycemia or pump alarms do not respond to all of the following:- a repeat dose (injection or bolus) of NovoLog - a change in the infusion set, including the NovoLog in the reservoir- a change in the infusion site
+- Therefore, you should dose with insulin from a new vial of NovoLog if unexplained hyperglycemia or pump alarms do not respond to all of the following:
+  - a repeat dose (injection or bolus) of NovoLog
+  - a change in the infusion set, including the NovoLog in the reservoir
+  - a change in the infusion site
 
 If these measures do not work, you may need to resume skin (subcutaneous) injections with syringes or insulin pens.
 Continue to monitor your glucose and ketones.
@@ -87,13 +95,12 @@ If problems continue, you must contact your doctor.
 - When NovoLog is used in an external subcutaneous insulin infusion pump, you should use only recommended pumps.
   Reservoirs, infusion sets, and injection site should be changed at least every 48 hours.
   In addition, the reservoir, the infusion set, and infusion site should be changed:
-
-- - with unexpected hyperglycemia or ketosis
-- - when the alarm sounds, as specified by your pump manual
-- - if the insulin or pump has been exposed to temperatures over 98.6°F (37°C), such as in a sauna, with long showers, or on a hot day
-- - if the insulin or pump could have absorbed radiant heat, for example from sunlight, that would heat the insulin to over 98.6°F (37°C).
-  Dark colored pump cases or sport covers can increase this type of heat.
-  The location where the pump is worn may also affect the temperature
+  - with unexpected hyperglycemia or ketosis
+  - when the alarm sounds, as specified by your pump manual
+  - if the insulin or pump has been exposed to temperatures over 98.6°F (37°C), such as in a sauna, with long showers, or on a hot day
+  - if the insulin or pump could have absorbed radiant heat, for example from sunlight, that would heat the insulin to over 98.6°F (37°C).
+    Dark colored pump cases or sport covers can increase this type of heat.
+    The location where the pump is worn may also affect the temperature
 
 Patients who develop “pump bumps” (skin reactions at the infusion site) may need to change infusion sites more often than every 48 hours.
 
@@ -165,15 +172,24 @@ It occurs when there is a conflict between the amount of carbohydrates (source o
 Therefore, hypoglycemia can occur with:
 
 - The wrong insulin dose.
-  This can happen with any of the following:- too much insulin is injected - the bolus dose of insulin infusion is set too high- the basal infusion dose is set too high- the pump does not work right, delivering too much insulin
+  This can happen with any of the following:
+  - too much insulin is injected
+  - the bolus dose of insulin infusion is set too high
+  - the basal infusion dose is set too high
+  - the pump does not work right, delivering too much insulin
 - Medicines that directly lower glucose or increase sensitivity to insulin.
   This can happen with oral (taken by mouth) antidiabetes drugs, sulfa antibiotics (for infections), ACE inhibitors (for blood pressure and heart failure), salicylates, including aspirin and NSAIDS (for pain), some antidepressants, and with other medicines.
 - Medical conditions that limit the body’s glucose reserve, lengthen the time insulin stays in the body, or that increase sensitivity to insulin.
   These conditions include diseases of the adrenal glands, the pituitary, the thyroid gland, the liver, and the kidney.
 - Not enough carbohydrate (sugar or starch) intake.
-  This can happen if:- a meal or snack is missed or delayed- you have vomiting or diarrhea that decreases the amount of glucose absorbed by your body- alcohol interferes with carbohydrate metabolism
+  This can happen if:
+  - a meal or snack is missed or delayed
+  - you have vomiting or diarrhea that decreases the amount of glucose absorbed by your body
+  - alcohol interferes with carbohydrate metabolism
 - Too much glucose use by the body.
-  This can happen from:- too much exercise - higher than normal metabolism rates due to fever or an overactive thyroid
+  This can happen from:
+  - too much exercise
+  - higher than normal metabolism rates due to fever or an overactive thyroid
 
 Hypoglycemia can be mild or severe.
 Its onset may be rapid.
@@ -204,13 +220,21 @@ It also occurs when there is a conflict between the amount of carbohydrates (sou
 Therefore, hyperglycemia can occur with:
 
 - The wrong insulin dose.
-  This can happen from any of the following:- too little or no insulin is injected - the bolus dose of insulin infusion is set too low - the basal infusion dose is set too low - the pump or catheter system does not work right, delivering too little insulin- the insulin’s ability to lower glucose is changed by incorrect storage (freezing, excessive heat), or usage after the expiration date
+  This can happen from any of the following:
+  - too little or no insulin is injected
+  - the bolus dose of insulin infusion is set too low
+  - the basal infusion dose is set too low
+  - the pump or catheter system does not work right, delivering too little insulin
+  - the insulin’s ability to lower glucose is changed by incorrect storage (freezing, excessive heat), or usage after the expiration date
 - Medicines that directly increase glucose or decrease sensitivity to insulin.
   This can happen, for example, with thiazide water pills (used for blood pressure), corticosteroids, birth control pills, and protease inhibitors (used for AIDS).
 - Medical conditions that increase the body’s production of glucose or decrease sensitivity to insulin.
   These medical conditions include fevers, infections, heart attacks, and stress.
 - Too much carbohydrate intake.
-  This can happen if you- eat larger meals - eat more often - increase the proportion of carbohydrate in your meals
+  This can happen if you
+  - eat larger meals
+  - eat more often
+  - increase the proportion of carbohydrate in your meals
 
 Hyperglycemia can be mild or severe.
 It can progress to diabetic ketoacidosis (DKA) or very high glucose levels (hyperosmolar coma) and result in unconsciousness and death.

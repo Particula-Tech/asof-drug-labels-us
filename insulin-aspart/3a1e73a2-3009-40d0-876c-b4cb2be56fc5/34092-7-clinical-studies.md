@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-To evaluate the safety and efficacy of NovoLog in patients with Type 1 diabetes, two six‑month, open‑label, active-control (NovoLog vs. Novolin® R) studies were conducted (see Table 1).
+To evaluate the safety and efficacy of NovoLog in patients with Type 1 diabetes, two six-month, open-label, active-control (NovoLog vs. Novolin® R) studies were conducted (see Table 1).
 NovoLog was administered by subcutaneous injection immediately prior to meals and regular human insulin was administered by subcutaneous injection 30 minutes before meals.
 NPH insulin was administered as the basal insulin in either single or divided daily doses.
 Changes in HbA1c, the rates of hypoglycemia (as determined from the number of events requiring intervention from a third party), and the incidence of ketosis were clinically comparable for the two treatment regimens.
@@ -11,15 +11,15 @@ No serum glucose measurements were obtained in these studies.
 To evaluate the safety and efficacy of NovoLog in patients with Type 2 diabetes, one six-month, open-label, active-control (NovoLog vs. Novolin R) study was conducted (see Table 1).
 NovoLog was administered by subcutaneous injection immediately prior to meals and regular human insulin was administered by subcutaneous injection 30 minutes before meals.
 NPH insulin was administered as the basal insulin in either single or divided daily doses.
-Changes in HbA1c and the rates of hypoglycemia (as determined from the number of events requiring intervention from a third party) were clinically comparable for the two treatment regimens.
+Changes in HbAlc and the rates of hypoglycemia (as determined from the number of events requiring intervention from a third party) were clinically comparable for the two treatment regimens.
 
 Table 1.
 Results of two six-month, active-control, open-label trials in patients with Type 1 diabetes (Studies A and B) and one six-month, active-control, open-label trial in patients with Type 2 diabetes (Study C).
 
-| Study | Treatment (n) | Mean HbA1c (%) |  | Hypoglycemia Events requiring intervention from a third party during the last three months of treatment(events/month/patient) | % of Patients Using Various Numbers of Insulin Injections/DayPercentages are rounded to the nearest whole number |  |  |  |  |
+| Study | Treatment (n) | Mean HbA1c (%) |  | HypoglycemiaEvents requiring intervention from a third party during the last three months of treatment(events / month / patient) | % of Patients Using Various Numbers of Insulin Injections / DayPercentages are rounded to the nearest whole number |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Baseline | Month 6 | Rapid-acting |  |  | Basal |  |  |  |  |
-| 1-2 | 3 | 4-5 | 1 | 2 |  |  |  |  |  |
+| 1 - 2 | 3 | 4 - 5 | 1 | 2 |  |  |  |  |  |
 | A | NovoLog (n=694) | 8.0 | 7.9 | 0.06 | 3 | 75 | 22 | 54 | 46 |
 | Novolin R (n=346) | 8.0 | 8.0 | 0.06 | 6 | 75 | 19 | 63 | 37 |  |
 | B | NovoLog (n=573) | 7.9 | 7.8 | 0.08 | 4 | 90 | 6 | 94 | 6 |

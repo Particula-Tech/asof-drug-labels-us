@@ -29,7 +29,7 @@ Pharmacokinetic/pharmacodynamic characteristics of insulin aspart have not been 
 The intra-individual variability in time to maximum serum insulin concentration for healthy male volunteers was significantly less for NovoLog than for regular human insulin.
 The clinical significance of this observation has not been established.
 
-In a clinical study in healthy non‑obese subjects, the pharmacokinetic differences between NovoLog and regular human insulin described above, were observed independent of the injection site (abdomen, thigh, or upper arm).
+In a clinical study in healthy non-obese subjects, the pharmacokinetic differences between NovoLog and regular human insulin described above, were observed independent of the injection site (abdomen, thigh, or upper arm).
 Differences in pharmacokinetics between NovoLog and regular human insulin are not associated with differences in overall glycemic control.
 
 ### Distribution And Elimination
@@ -54,7 +54,7 @@ A double-blind, randomized, two-way cross-over study with 16 patients with Type 
 
 ### Children And Adolescents
 
-The pharmacokinetic and pharmacodynamic properties of NovoLog and regular human insulin were evaluated in a single dose study in 18 children (6-12 years, n=9) and adolescents (13-17 years [Tanner grade ≥2], n=9) with Type 1 diabetes.
+The pharmacokinetic and pharmacodynamic properties of NovoLog and regular human insulin were evaluated in a single dose study in 18 children (6-12 years, n=9) and adolescents (13-17 years [Tanner grade > 2], n=9) with Type 1 diabetes.
 The relative differences in pharmacokinetics and pharmacodynamics in children and adolescents with Type 1 diabetes between NovoLog and regular human insulin were similar to those in healthy adult subjects and adults with Type 1 diabetes.
 
 ### Geriatrics

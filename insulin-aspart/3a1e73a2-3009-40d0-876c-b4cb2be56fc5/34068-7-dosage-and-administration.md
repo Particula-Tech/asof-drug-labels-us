@@ -9,7 +9,7 @@ Because of NovoLog’s comparatively rapid onset and short duration of glucose l
 When used in external insulin infusion pumps, the initial programming of the pump is based on the total daily insulin dose of the previous regimen.
 Although there is significant interpatient variability, approximately 50% of the total dose is given as meal-related boluses of NovoLog and the remainder as basal infusion.
 Additional basal insulin injections, or higher basal rates in external subcutaneous infusion pumps may be necessary.
-NovoLog in the reservoir and infusion sets, and the injection site must be changed at least every 48 hours.
+NovoLog in thereservoir and infusion sets, and the injection site must be changed at least every 48 hours.
 
 NovoLog should be administered by subcutaneous injection in the abdominal wall, the thigh, or the upper arm, or by continuous subcutaneous infusion in the abdominal wall.
 Injection sites and infusion sites should be rotated within the same region.
