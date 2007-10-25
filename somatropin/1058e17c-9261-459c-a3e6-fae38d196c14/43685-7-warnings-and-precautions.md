@@ -72,11 +72,17 @@ Skeletal abnormalities including scoliosis are commonly seen in untreated patien
 Scoliosis is also commonly seen in untreated patients with Prader-Willi syndrome.
 Physicians should be alert to these abnormalities, which may manifest during somatropin therapy.
 
-## 5.10 Confirmation of Childhood Onset Adult GHD
+## 5.10 Otitis Media and Cardiovascular Disorders in Turner Syndrome
+
+Patients with Turner syndrome should be evaluated carefully for otitis media and other ear disorders since these patients have an increased risk of ear and hearing disorders.
+Somatropin treatment may increase the occurrence of otitis media in patients with Turner syndrome.
+In addition, patients with Turner syndrome should be monitored closely for cardiovascular disorders (e.g., stroke, aortic aneurysm/dissection, hypertension) as these patients are also at risk for these conditions.
+
+## 5.11 Confirmation of Childhood Onset Adult GHD
 
 Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in Indications and Usage (1.2) before continuation of somatropin therapy at the reduced dose level recommended for GH deficient adults.
 
-## 5.11 Local and Systemic Reactions
+## 5.12 Local and Systemic Reactions
 
 When somatropin is administered subcutaneously at the same site over a long period of time, tissue atrophy may result.
 This can be avoided by rotating the injection site [see Dosage and Administration (2.3)].
@@ -84,6 +90,6 @@ This can be avoided by rotating the injection site [see Dosage and Administratio
 As with any protein, local or systemic allergic reactions may occur.
 Parents/Patients should be informed that such reactions are possible and that prompt medical attention should be sought if allergic reactions occur.
 
-## 5.12 Laboratory Tests
+## 5.13 Laboratory Tests
 
 Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-I may increase after somatropin therapy.

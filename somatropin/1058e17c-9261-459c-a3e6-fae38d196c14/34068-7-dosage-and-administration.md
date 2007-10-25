@@ -2,9 +2,9 @@
 
 For subcutaneous injection.
 
-Therapy with Norditropin should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD or Noonan syndrome, and adult patients with either childhood onset or adult onset GHD.
+Therapy with Norditropin should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Noonan syndrome or Turner syndrome, and adult patients with either childhood onset or adult onset GHD.
 
-## 2.1 Dosing of Pediatric Patients - General Pediatric Dosing Information, Pediatric Growth Hormone Deficiency, Noonan Syndrome
+## 2.1 Dosing of Pediatric Patients
 
 General Pediatric Dosing Information
 
@@ -13,6 +13,7 @@ Serum insulin-like growth factor I (IGF-I) levels may be useful during dose titr
 
 Response to somatropin therapy in pediatric patients tends to decrease with time.
 However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, undernutrition, advanced bone age and antibodies to recombinant human GH (rhGH).
+
 Treatment with Norditropin for short stature should be discontinued when the epiphyses are fused.
 
 Pediatric Growth Hormone Deficiency (GHD)
@@ -26,7 +27,11 @@ Therefore, prior to initiating Norditropin for a patient with Noonan syndrome, e
 
 A dosage of up to 0.066 mg/kg/day is recommended.
 
-## 2.2 Dosing of Adult Patients - Adult Growth Hormone Deficiency
+Pediatric Patients with Short Stature Associated with Turner Syndrome
+
+A dosage of up to 0.067 mg/kg/day is recommended.
+
+## 2.2 Dosing of Adult Patients
 
 Adult Growth Hormone Deficiency (GHD)
 

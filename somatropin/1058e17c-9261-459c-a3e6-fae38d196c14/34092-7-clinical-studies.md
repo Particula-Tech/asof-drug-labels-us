@@ -26,7 +26,49 @@ Examination of gender subgroups did not identify differences in response to Nord
 Not all patients with Noonan syndrome have short stature; some will achieve a normal adult height without treatment.
 Therefore, prior to initiating Norditropin for a patient with Noonan syndrome, establish that the patient does have short stature.
 
-## 14.2 Adult Growth Hormone Deficiency (GHD)
+## 14.2 Short Stature in Children with Turner Syndrome
+
+Two randomized, parallel group, open label, multicenter studies were conducted in the Netherlands to evaluate the efficacy and safety of Norditropin for the treatment of children with short stature associated with Turner syndrome.
+Patients were treated to final height in both studies [height velocity (HV) < 2 cm/year].
+Changes in height were expressed as standard deviation scores (SDS) utilizing reference data for untreated Turner syndrome patients as well as the national Dutch population.
+
+In Study 1 (the primary study), 68 euthyroid Caucasian patients stratified based on age and baseline height SDS were randomized in a 1:1:1 ratio to three different Norditropin treatment regimens: 0.045 mg/kg/day (Dose A) for the entire study; 0.045 mg/kg/day for the first year and 0.067 mg/kg/day thereafter (Dose B); or 0.045 mg/kg/day for the first year, 0.067 for the second year, and 0.089 mg/kg/day thereafter (Dose C). Overall, at baseline, mean age was 6.5 years, mean height SDS (National standard) was -2.7, and mean HV during the previous year was 6.5 cm/year.
+Patients also received estrogen therapy after age 12 and following four years of Norditropin treatment if they did not have spontaneous puberty.
+
+Patients were treated for a mean of 8.4 years.
+As seen in Table 3, overall mean final height was 161 cm in the 46 children who attained final height.
+Seventy percent of these children reached a final height within the normal range (height SDS > -2 using the National standard).
+A greater percentage of children in the two escalated dose groups reached normal final height.
+The mean changes from baseline to final height in height SDS after treatment with Dose B and Dose C were significantly greater than the mean changes observed after treatment with Dose A (utilizing both the National and Turner standards).
+The mean changes from baseline to final height in height SDS (Turner standard) in Table 3 correspond to mean height gains of 9.4, 14.1 and 14.4 cm after treatment with Doses A, B and C, respectively.
+The mean changes from baseline to final height in height SDS (National standard) in Table 3 correspond to mean height gains of 4.5, 9.1 and 9.4 cm after treatment with Doses A, B and C, respectively.
+In each treatment group, peak HV was observed during treatment Year 1, and then gradually decreased each year; during Year 4, HV was less than the pre-treatment HV.
+However, between Year 2 and Year 6, a greater HV was observed in the two dose escalation groups compared to the 0.045 mg/kg/day group.
+
+Table 3 - Final Height-Related Results After Treatment of Patients with Turner Syndrome with Norditropin in a Randomized, Dose Escalating Study
+
+|  | Dose A0.045 mg/kg/day(n=19) | Dose Bup to 0.067 mg/kg/day(n=15) | Dose Cup to 0.089 mg/kg/day(n=12) | Total(n=46) |
+| --- | --- | --- | --- | --- |
+| Baseline height (cm)Unadjusted (raw) means | 105 (12) | 108 (12.7) | 107 (11.7) | 106 (11.9) |
+| Final height (cm) | 157 (6.7) | 163 (6.0) | 163 (4.9) | 161 (6.5) |
+| Number (%) of patients reaching normal height (height SDS >-2 using National standard) | 10 (53%) | 12 (80%) | 10 (83%) | 32 (70%) |
+| Height SDS (Turner standard)Adjusted (least squares) means based on an ANCOVA model including terms for treatment, duration of treatment, age at baseline, bone age at baseline, height SDS at baseline, age at onset of puberty and mid-parental target height SDS |  |  |  |  |
+| Final [95% CI] | 1.7 [1.4, 2.0] | 2.5 [2.1, 2.8]p=0.005 vs. Dose A | 2.5 [2.1, 2.9]p=0.006 vs. Dose A | NA |
+| Change from baseline [95% CI] | 1.5 [1.2, 1.8] | 2.2 [1.9, 2.5] | 2.2 [1.9, 2.6] | NA |
+| Height SDS (National standard) |  |  |  |  |
+| Final [95% CI] | -1.9 [-2.2, -1.6] | -1.2 [-1.5, -0.9] | -1.2 [-1.6, -0.8]p=0.008 vs. Dose A | NA |
+| Change from baseline [95% CI] | 0.7 [0.4, 1.0] | 1.4 [1.1, 1.7] | 1.4 [1.1, 1.8] | NA |
+| Values are expressed as mean (SD) unless otherwise indicated. SDS: Standard deviation score. |  |  |  |  |
+
+In Study 2 (a supportive study), 19 euthyroid Caucasian patients (with bone age ≤13.9 years) were randomized to treatment with 0.067 mg/kg/day of Norditropin as a single subcutaneous dose in the evening, or divided into two doses (1/3 morning and 2/3 evening).
+All subjects were treated with concomitant ethinyl estradiol.
+Overall, at baseline, mean age was 13.6 years, mean height SDS (National standard) was -3.5 and mean HV during the previous year was 4.3 cm/year.
+Patients were treated for a mean of 3.6 years.
+In that there were no significant differences between the two treatment groups for any linear growth variables, the data from all patients were pooled.
+Overall mean final height was 155 cm in the 17 children who attained final height.
+Height SDS changed significantly from -3.5 at baseline to -2.4 at final height (National standard), and from 0.7 to 1.3 at final height (Turner standard).
+
+## 14.3 Adult Growth Hormone Deficiency (GHD)
 
 A total of six randomized, double-blind, placebo-controlled studies were performed.
 Two representative studies, one in adult onset (AO) GHD patients and a second in childhood onset (CO) GHD patients, are described below.
@@ -37,9 +79,9 @@ A single center, randomized, double-blind, placebo-controlled, parallel-group, s
 Patients in the active treatment arm were treated with Norditropin 0.017 mg/kg/day (not to exceed 1.33 mg/day).
 The changes from baseline in lean body mass (LBM) and percent total body fat (TBF) were measured by total body potassium (TBP) after 6 months.
 
-Treatment with Norditropin produced a significant (p=0.0028) increase from baseline in LBM compared to placebo (Table 3).
+Treatment with Norditropin produced a significant (p=0.0028) increase from baseline in LBM compared to placebo (Table 4).
 
-Table 3 - Lean Body Mass (kg) by TBP
+Table 4 - Lean Body Mass (kg) by TBP
 
 |  | Norditropin(n=15) | Placebo(n=16) |
 | --- | --- | --- |
@@ -47,9 +89,9 @@ Table 3 - Lean Body Mass (kg) by TBP
 | Change from baseline at 6 months (mean) | 1.12 | -0.63 |
 | Treatment difference (mean) 95% confidence interval p-value | 1.74 (0.65, 2.83) p=0.0028 |  |
 
-Analysis of the treatment difference on the change from baseline in percent TBF revealed a significant decrease (p=0.0004) in the Norditropin-treated group compared to the placebo group (Table 4).
+Analysis of the treatment difference on the change from baseline in percent TBF revealed a significant decrease (p=0.0004) in the Norditropin-treated group compared to the placebo group (Table 5).
 
-Table 4 - Total Body Fat (%) by TBP
+Table 5 - Total Body Fat (%) by TBP
 
 |  | Norditropin(n=15) | Placebo(n=16) |
 | --- | --- | --- |
@@ -69,9 +111,9 @@ Patients were randomized to placebo or one of three active treatment groups (0.0
 Thirty three percent of the total dose to which each patient was randomized was administered during weeks 1-4, 67% during weeks 5-8, and 100% for the remainder of the study.
 The changes from baseline in LBM and percent TBF were measured by TBP after 6 months.
 
-Treatment with Norditropin produced a significant (p=0.0079) increase from baseline in LBM compared to placebo (pooled data) (Table 5).
+Treatment with Norditropin produced a significant (p=0.0079) increase from baseline in LBM compared to placebo (pooled data) (Table 6).
 
-Table 5 - Lean Body Mass (kg) by TBP
+Table 6 - Lean Body Mass (kg) by TBP
 
 |  | Norditropin(n=36) | Placebo(n=13) |
 | --- | --- | --- |
@@ -79,9 +121,9 @@ Table 5 - Lean Body Mass (kg) by TBP
 | Change from baseline at 6 months (mean) | 2.06 | 0.70 |
 | Treatment difference (mean) 95% confidence interval p-value | 1.40 (0.39, 2.41) p=0.0079 |  |
 
-Analysis of the treatment difference on the change from baseline in percent TBF revealed a significant decrease (p=0.0048) in the Norditropin-treated groups (pooled data) compared to the placebo group (Table 6).
+Analysis of the treatment difference on the change from baseline in percent TBF revealed a significant decrease (p=0.0048) in the Norditropin-treated groups (pooled data) compared to the placebo group (Table 7).
 
-Table 6 - Total Body Fat (%) by TBP
+Table 7 - Total Body Fat (%) by TBP
 
 |  | Norditropin(n=36) | Placebo(n=13) |
 | --- | --- | --- |

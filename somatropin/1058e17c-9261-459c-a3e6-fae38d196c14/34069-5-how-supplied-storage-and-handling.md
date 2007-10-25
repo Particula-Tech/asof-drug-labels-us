@@ -7,7 +7,7 @@ Norditropin is individually cartoned in 5 mg/1.5 mL or 15 mg/1.5 mL cartridges w
 - Norditropin Cartridges 5 mg/1.5 mL (orange) NDC 0169-7768-11
 - Norditropin Cartridges 15 mg/1.5 mL (green) NDC 0169-7770-11
 
-Non-injected/unused Norditropin cartridges must be stored at 2-8oC/36-46oF (refrigerator).
+Unused Norditropin cartridges must be stored at 2-8oC/36-46oF (refrigerator).
 Do not freeze.
 Avoid direct light.
 
@@ -29,7 +29,7 @@ Norditropin NordiFlex is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, or 
 - Norditropin NordiFlex 10 mg/1.5 mL (blue) NDC 0169-7705-11
 - Norditropin NordiFlex 15 mg/1.5 mL (green) NDC 0169-7708-11
 
-Non-injected/unused Norditropin NordiFlex prefilled pens must be stored at 2-8oC/36-46oF (refrigerator).
+Unused Norditropin NordiFlex prefilled pens must be stored at 2-8oC/36-46oF (refrigerator).
 Do not freeze.
 Avoid direct light.
 
@@ -43,7 +43,7 @@ Discard unused portion.
 After the initial injection, a Norditropin NordiFlex 15mg/1.5 mL prefilled pen must be stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
 Discard unused portion after 4 weeks.
 
-Table 7 - Storage Options
+Table 8 - Storage Options
 
 | Norditropin Product Formulation | Before Use | In-use (After 1st injection) |  |
 | --- | --- | --- | --- |
