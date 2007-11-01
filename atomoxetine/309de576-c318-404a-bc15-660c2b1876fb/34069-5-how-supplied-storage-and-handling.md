@@ -1,6 +1,4 @@
-# HOW SUPPLIED
-
-STRATTERA® (atomoxetine HCl) capsules are supplied in 10–, 18–, 25–, 40–, 60–, 80–, and 100–mg strengths.
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 | STRATTERA® Capsules | 10 mgAtomoxetine base equivalent. | 18 mg | 25 mg | 40 mg | 60 mg | 80 mg | 100 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |

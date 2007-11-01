@@ -1,6 +1,6 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Experience
+## 10.1 Human Experience
 
 No fatal overdoses occurred in clinical trials.
 There is limited clinical trial experience with STRATTERA overdose.
@@ -11,7 +11,7 @@ The most commonly reported symptoms accompanying acute and chronic overdoses of 
 Signs and symptoms consistent with mild to moderate sympathetic nervous system activation (e.g., mydriasis, tachycardia, dry mouth) have also been observed.
 Less commonly, there have been reports of QT prolongation and mental changes, including disorientation and hallucinations.
 
-## Management of Overdose
+## 10.2 Management of Overdose
 
 An airway should be established.
 Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.
