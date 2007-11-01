@@ -19,10 +19,10 @@ Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality Per 1,000 Patients Treated |
 | --- | --- |
-|  | Drug-Related Increases |
+| Increases Compared to Placebo |  |
 | < 18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
-|  | Drug-Related Decreases |
+| Decreases Compared to Placebo |  |
 | 25 to 64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
@@ -39,9 +39,9 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of pediatric patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for doxepin should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for doxepin should be written for the smallest number of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Screening Patients for Bipolar Disorder
 
