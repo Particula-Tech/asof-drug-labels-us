@@ -3,7 +3,7 @@
 The efficacy and safety of tadalafil in the treatment of erectile dysfunction has been evaluated in 22 clinical trials of up to 24–weeks duration, involving over 4000 patients.
 CIALIS, when taken as needed up to once daily, was shown to be effective in improving erectile function in men with erectile dysfunction (ED).
 
-Study Design— CIALIS was studied in the general ED population in 7 randomized, multicenter, double–blinded, placebo–controlled, parallel–arm design, primary efficacy and safety studies of 12–weeks duration.
+Study Design — CIALIS was studied in the general ED population in 7 randomized, multicenter, double–blinded, placebo–controlled, parallel–arm design, primary efficacy and safety studies of 12–weeks duration.
 Two of these studies were conducted in the United States and 5 were conducted in centers outside the US.
 Additional efficacy and safety studies were performed in ED patients with diabetes mellitus and in patients who developed ED status post bilateral nerve–sparing radical prostatectomy.
 
@@ -20,9 +20,9 @@ SEP Question 2 asks, “Were you able to insert your penis into your partner’s
 SEP Question 3 asks, “Did your erection last long enough for you to have successful intercourse?”
 The overall percentage of successful attempts to insert the penis into the vagina (SEP2) and to maintain the erection for successful intercourse (SEP3) is derived for each patient.
 
-Study Results—
+Study Results —
 
-ED Population in US Trials— The 2 primary US efficacy and safety trials included a total of 402 men with erectile dysfunction, with a mean age of 59 years (range 27 to 87 years).
+ED Population in US Trials — The 2 primary US efficacy and safety trials included a total of 402 men with erectile dysfunction, with a mean age of 59 years (range 27 to 87 years).
 The population was 78% White, 14% Black, 7% Hispanic, and 1% of other ethnicities, and included patients with ED of various severities, etiologies (organic, psychogenic, mixed), and with multiple co–morbid conditions, including diabetes mellitus, hypertension, and other cardiovascular disease.
 Most (>90%) patients reported ED of at least 1–year duration.
 Study A was conducted primarily in academic centers.
@@ -116,7 +116,7 @@ In addition, there were improvements in EF domain scores, success rates based up
 
 Therefore, in all 7 primary efficacy and safety studies, CIALIS showed statistically significant improvement in patients’ ability to achieve an erection sufficient for vaginal penetration and to maintain the erection long enough for successful intercourse, as measured by the IIEF questionnaire and by SEP diaries.
 
-Efficacy in ED Patients with Diabetes Mellitus— CIALIS was shown to be effective in treating ED in patients with diabetes mellitus.
+Efficacy in ED Patients with Diabetes Mellitus — CIALIS was shown to be effective in treating ED in patients with diabetes mellitus.
 Patients with diabetes were included in all 7 primary efficacy studies in the general ED population (N=235) and in 1 study that specifically assessed CIALIS in ED patients with type 1 or type 2 diabetes (N=216).
 In this randomized, placebo–controlled, double–blinded, parallel–arm design prospective trial, CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 5).
 
@@ -147,7 +147,7 @@ Table 6: Mean Endpoint and Change from Baseline for the Primary Efficacy Variabl
 | Maintenance of Erection (SEP3) |  |  |  |
 | Endpoint [Change from baseline] | 19% [4%] | 41% [23%] | <.001 |
 
-Studies to Determine the Optimal Use of CIALIS— Several studies were conducted with the objective of determining the optimal use of CIALIS in the treatment of ED.
+Studies to Determine the Optimal Use of CIALIS — Several studies were conducted with the objective of determining the optimal use of CIALIS in the treatment of ED.
 In one of these studies, the percentage of patients reporting successful erections within 30 minutes of dosing was determined.
 In this randomized, placebo–controlled, double–blinded trial, 223 patients were randomized to placebo, CIALIS 10, or 20 mg.
 Using a stopwatch, patients recorded the time following dosing at which a successful erection was obtained.

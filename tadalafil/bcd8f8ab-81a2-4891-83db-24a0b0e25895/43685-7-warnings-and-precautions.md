@@ -2,10 +2,10 @@
 
 ## Cardiovascular
 
-General— Physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity.
+General — Physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity.
 Therefore, treatments for erectile dysfunction, including CIALIS, should not be used in men for whom sexual activity is inadvisable as a result of their underlying cardiovascular status.
 
-Left Ventricular Outflow Obstruction— Patients with left ventricular outflow obstruction, (e.g., aortic stenosis and idiopathic hypertrophic subaortic stenosis) can be sensitive to the action of vasodilators, including PDE5 inhibitors.
+Left Ventricular Outflow Obstruction — Patients with left ventricular outflow obstruction, (e.g., aortic stenosis and idiopathic hypertrophic subaortic stenosis) can be sensitive to the action of vasodilators, including PDE5 inhibitors.
 
 ## Patients Not Studied in Clinical Trials
 
@@ -93,10 +93,14 @@ Such an event may be a sign of non–arteritic anterior ischemic optic neuropath
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors.
 Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors (see Postmarketing surveillance, Ophthalmologic under ADVERSE REACTIONS).
 
+Physicians should advise patients to stop taking PDE5 inhibitors, including CIALIS, and seek prompt medical attention in the event of sudden decrease or loss of hearing.
+These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including CIALIS.
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors (see ADVERSE REACTIONS and Postmarketing surveillance).
+
 Physicians should discuss with patients the potential for CIALIS to augment the blood–pressure–lowering effect of alpha–blockers and anti–hypertensive medications.
 
 Patients should be made aware that both alcohol and CIALIS, a PDE5 inhibitor, act as mild vasodilators.
-When mild vasodilators are taken in combination, blood–pressure–lowering effects of each individual compound may be increased.
+When mild vasodilators are takenin combination, blood–pressure–lowering effects of each individual compound may be increased.
 Therefore, physicians should inform patients that substantial consumption of alcohol (e.g., 5 units or greater) in combination with CIALIS can increase the potential for orthostatic signs and symptoms, including increase in heart rate, decrease in standing blood pressure, dizziness, and headache.
 
 Physicians should consider the potential cardiac risk of sexual activity in patients with preexisting cardiovascular disease.
@@ -120,30 +124,30 @@ Patients should read the patient leaflet entitled “INFORMATION FOR THE PATIENT
 CIALIS is a substrate of and predominantly metabolized by CYP3A4.
 Studies have shown that drugs that inhibit CYP3A4 can increase tadalafil exposure (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-Ketoconazole— Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4, increased tadalafil 20–mg single–dose exposure (AUC) by 312% and Cmax by 22%, relative to the values for tadalafil 20 mg alone.
+Ketoconazole — Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4, increased tadalafil 20–mg single–dose exposure (AUC) by 312% and Cmax by 22%, relative to the values for tadalafil 20 mg alone.
 Ketoconazole (200 mg daily) increased tadalafil 10–mg single–dose exposure (AUC) by 107% and Cmax by 15%, relative to the values for tadalafil 10 mg alone.
 
-HIV Protease inhibitor— Ritonavir (500 mg or 600 mg twice daily at steady state), an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil 20–mg single–dose exposure (AUC) by 32% with a 30% reduction in Cmax, relative to the values for tadalafil 20 mg alone.
+HIV Protease inhibitor — Ritonavir (500 mg or 600 mg twice daily at steady state), an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil 20–mg single–dose exposure (AUC) by 32% with a 30% reduction in Cmax, relative to the values for tadalafil 20 mg alone.
 Ritonavir (200 mg twice daily), increased tadalafil 20–mg single–dose exposure (AUC) by 124% with no change in Cmax, relative to the values for tadalafil 20 mg alone.
 Although specific interactions have not been studied, other HIV protease inhibitors would likely increase tadalafil exposure (see DOSAGE AND ADMINISTRATION).
 
 Based upon these results, in patients taking concomitant potent CYP3A4 inhibitors, the dose of CIALIS should not exceed 10 mg, and CIALIS should not be taken more frequently than once in every 72 hours (see DOSAGE AND ADMINISTRATION).
 
-Other cytochrome P450 inhibitors— Although specific interactions have not been studied, other CYP3A4 inhibitors, such as erythromycin, itraconazole, and grapefruit juice, would likely increase tadalafil exposure.
+Other cytochrome P450 inhibitors — Although specific interactions have not been studied, other CYP3A4 inhibitors, such as erythromycin, itraconazole, and grapefruit juice, would likely increase tadalafil exposure.
 
 #### Cytochrome P450 Inducers
 
 Studies have shown that drugs that induce CYP3A4 can decrease tadalafil exposure.
 
-Rifampin— Rifampin (600 mg daily), a CYP3A4 inducer, reduced tadalafil 10–mg single–dose exposure (AUC) by 88% and Cmax by 46%, relative to the values for tadalafil 10 mg alone.
+Rifampin — Rifampin (600 mg daily), a CYP3A4 inducer, reduced tadalafil 10–mg single–dose exposure (AUC) by 88% and Cmax by 46%, relative to the values for tadalafil 10 mg alone.
 Although specific interactions have not been studied, other CYP3A4 inducers, such as carbamazepine, phenytoin, and phenobarbital, would likely decrease tadalafil exposure.
 No dose adjustment is warranted.
 
 #### Gastrointestinal Drugs
 
-H2 antagonists— An increase in gastric pH resulting from administration of nizatidine had no significant effect on tadalafil pharmacokinetics.
+H2 antagonists — An increase in gastric pH resulting from administration of nizatidine had no significant effect on tadalafil pharmacokinetics.
 
-Antacids— Simultaneous administration of an antacid (magnesium hydroxide/aluminum hydroxide) and tadalafil reduced the apparent rate of absorption of tadalafil without altering exposure (AUC) to tadalafil.
+Antacids — Simultaneous administration of an antacid (magnesium hydroxide/aluminum hydroxide) and tadalafil reduced the apparent rate of absorption of tadalafil without altering exposure (AUC) to tadalafil.
 
 ### Effects of CIALIS on Other Drugs
 
@@ -152,12 +156,12 @@ Antacids— Simultaneous administration of an antacid (magnesium hydroxide/alumi
 CIALIS is not expected to cause clinically significant inhibition or induction of the clearance of drugs metabolized by cytochrome P450 (CYP) isoforms.
 Studies have shown that tadalafil does not inhibit or induce P450 isoforms CYP1A2, CYP3A4, CYP2C9, CYP2C19, CYP2D6, and CYP2E1.
 
-CYP1A2 substrate— Tadalafil had no clinically significant effect on the pharmacokinetics of theophylline.
+CYP1A2 substrate — Tadalafil had no clinically significant effect on the pharmacokinetics of theophylline.
 When tadalafil was administered to subjects taking theophylline, a small augmentation (3 beats per minute) of the increase in heart rate associated with theophylline was observed.
 
-CYP3A4 substrates— Tadalafil had no clinically significant effect on exposure (AUC) to midazolam or lovastatin.
+CYP3A4 substrates — Tadalafil had no clinically significant effect on exposure (AUC) to midazolam or lovastatin.
 
-CYP2C9 substrate— Tadalafil had no clinically significant effect on exposure (AUC) to S–warfarin or R–warfarin, nor did tadalafil affect changes in prothrombin time induced by warfarin.
+CYP2C9 substrate — Tadalafil had no clinically significant effect on exposure (AUC) to S–warfarin or R–warfarin, nor did tadalafil affect changes in prothrombin time induced by warfarin.
 
 #### Alcohol
 
@@ -187,7 +191,7 @@ Clinical pharmacology studies were conducted to investigate the potential intera
 In these studies, a single oral dose of tadalafil was administered to healthy male subjects taking daily (at least 7 days duration) oral alpha–blocker.
 The studies were randomized, double–blinded, crossover designs.
 
-Tamsulosin— A single oral dose of tadalafil 10, 20 mg, or placebo was administered in a 3–period, crossover design to healthy subjects taking 0.4 mg once–daily tamsulosin, a selective alpha[1A]–adrenergic blocker (N=18 subjects).
+Tamsulosin — A single oral dose of tadalafil 10, 20 mg, or placebo was administered in a 3–period, crossover design to healthy subjects taking 0.4 mg once–daily tamsulosin, a selective alpha[1A]–adrenergic blocker (N=18 subjects).
 Tadalafil or placebo was administered 2 hours after tamsulosin following a minimum of seven days of tamsulosin dosing.
 
 Table 7: Tamsulosin Study: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
@@ -203,7 +207,7 @@ There were no subjects with a standing systolic blood pressure <85 mm Hg.
 No severe adverse events potentially related to blood–pressure effects were reported.
 No syncope was reported.
 
-Doxazosin— Two clinical pharmacology studies were conducted with tadalafil and doxazosin, an alpha[1]–adrenergic blocker.
+Doxazosin — Two clinical pharmacology studies were conducted with tadalafil and doxazosin, an alpha[1]–adrenergic blocker.
 
 In the first doxazosin study, a single oral dose of tadalafil 20 mg or placebo was administered in a 2–period, crossover design to healthy subjects taking oral doxazosin 8 mg daily (N=18 subjects).
 Doxazosin was administered at the same time as tadalafil or placebo after a minimum of seven days of doxazosin dosing.
@@ -265,7 +269,7 @@ In the study (N=72 subjects), 2 such events were reported following administrati
 No such events were reported following placebo.
 In the period prior to tadalafil dosing, one severe event (dizziness) was reported in a subject during the doxazosin run–in phase.
 
-Alfuzosin— A single oral dose of tadalafil 20 mg or placebo was administered in a 2–period, crossover design to healthy subjects taking once-daily alfuzosin HCl 10 mg extended-release tablets, an alpha[1]–adrenergic blocker (N=17 completed subjects).
+Alfuzosin — A single oral dose of tadalafil 20 mg or placebo was administered in a 2–period, crossover design to healthy subjects taking once-daily alfuzosin HCl 10 mg extended-release tablets, an alpha[1]–adrenergic blocker (N=17 completed subjects).
 Tadalafil or placebo was administered 4 hours after alfuzosin following a minimum of seven days of alfuzosin dosing.
 
 Table 10: Alfuzosin Study: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
@@ -283,18 +287,18 @@ No syncope was reported.
 
 #### Other Anti–Hypertensive Agents
 
-Amlodipine— A study was conducted to assess the interaction of amlodipine (5 mg daily) and tadalafil 10 mg.
+Amlodipine — A study was conducted to assess the interaction of amlodipine (5 mg daily) and tadalafil 10 mg.
 There was no effect of tadalafil on amlodipine blood levels and no effect of amlodipine on tadalafil blood levels.
 The mean reduction in supine systolic/diastolic blood pressure due to tadalafil 10 mg in subjects taking amlodipine was 3/2 mm Hg, compared to placebo.
 In a similar study using tadalafil 20 mg, there were no clinically significant differences between tadalafil and placebo in subjects taking amlodipine.
 
-Metoprolol— A study was conducted to assess the interaction of sustained–release metoprolol (25 to 200 mg daily) and tadalafil 10 mg.
+Metoprolol — A study was conducted to assess the interaction of sustained–release metoprolol (25 to 200 mg daily) and tadalafil 10 mg.
 Following dosing, the mean reduction in supine systolic/diastolic blood pressure due to tadalafil 10 mg in subjects taking metoprolol was 5/3 mm Hg, compared to placebo.
 
-Bendrofluazide— A study was conducted to assess the interaction of bendrofluazide (2.5 mg daily) and tadalafil 10 mg.
+Bendrofluazide — A study was conducted to assess the interaction of bendrofluazide (2.5 mg daily) and tadalafil 10 mg.
 Following dosing, the mean reduction in supine systolic/diastolic blood pressure due to tadalafil 10 mg in subjects taking bendrofluazide was 6/4 mm Hg, compared to placebo.
 
-Enalapril— A study was conducted to assess the interaction of enalapril (10 to 20 mg daily) and tadalafil 10 mg.
+Enalapril — A study was conducted to assess the interaction of enalapril (10 to 20 mg daily) and tadalafil 10 mg.
 Following dosing, the mean reduction in supine systolic/diastolic blood pressure due to tadalafil 10 mg in subjects taking enalapril was 4/1 mm Hg, compared to placebo.
 
 Angiotensin II receptor blocker (and other anti–hypertensives) — A study was conducted to assess the interaction of angiotensin II receptor blockers and tadalafil 20 mg.
@@ -337,7 +341,7 @@ Following a single–oral dose of 10 mg/kg, approximately 0.1% of the total radi
 It is not known if tadalafil and/or its metabolites is excreted in human breast milk.
 Use of tadalafil in nursing mothers is not recommended.
 
-Pregnancy Category B— There was no evidence of teratogenicity, embryotoxicity, or fetotoxicity in rat or mouse fetuses that received up to 1000 mg/kg/day during the major organ development.
+Pregnancy Category B — There was no evidence of teratogenicity, embryotoxicity, or fetotoxicity in rat or mouse fetuses that received up to 1000 mg/kg/day during the major organ development.
 Plasma exposure at this dose is approximately 11–fold greater than the AUC values for unbound tadalafil in humans given the MRHD of 20 mg.
 In a rat prenatal and postnatal development study at doses of 60, 200, and 1000 mg/kg, there was a reduction in postnatal survival of pups.
 The no–observed–effect–level (NOEL) for maternal toxicity was 200 mg/kg/day and for developmental toxicity was 30 mg/kg/day, which gives approximately 16– and 10–fold exposure multiples, respectively, of the human AUC for the MRHD dose of 20 mg.

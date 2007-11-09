@@ -49,6 +49,8 @@ Skin and Appendages: pruritus, rash, sweating
 
 Ophthalmologic: blurred vision, changes in color vision, conjunctivitis (including conjunctival hyperemia), eye pain, lacrimation increase, swelling of eyelids
 
+Otologic: sudden decrease or loss of hearing, tinnitus
+
 Urogenital: erection increased, spontaneous penile erection
 
 ## Postmarketing surveillance
@@ -73,5 +75,10 @@ Ophthalmologic: visual field defect, retinal vein occlusion, retinal artery occl
 Non–arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including CIALIS.
 Most, but not all, of these patients had underlying anatomic or vascular risk factors for development of NAION, including but not necessarily limited to: low cup to disc ratio (“crowded disc”), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors, to the patient’s underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors (see Information for Patients under PRECAUTIONS).
+
+Otologic: Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors, including CIALIS.
+In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.
+In many cases, medical follow-up information was limited.
+It is not possible to determine whether these reported events are related directly to the use of CIALIS, to the patient’s underlying risk factors for hearing loss, a combination of these factors, or to other factors (seeInformation for Patients under PRECAUTIONS).
 
 Urogenital: priapism (see WARNINGS)

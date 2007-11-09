@@ -95,7 +95,7 @@ No dose adjustment is warranted.
 
 ## Pharmacodynamics
 
-Effects on Blood Pressure— Tadalafil 20 mg administered to healthy male subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (difference in the mean maximal decrease of 1.6/0.8 mm Hg, respectively) and in standing systolic and diastolic blood pressure (difference in the mean maximal decrease of 0.2/4.6 mm Hg, respectively).
+Effects on Blood Pressure — Tadalafil 20 mg administered to healthy male subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (difference in the mean maximal decrease of 1.6/0.8 mm Hg, respectively) and in standing systolic and diastolic blood pressure (difference in the mean maximal decrease of 0.2/4.6 mm Hg, respectively).
 In addition, there was no significant effect on heart rate.
 
 Effects on Blood Pressure when CIALIS is Administered with Nitrates — In clinical pharmacology studies, tadalafil (5 to 20 mg) was shown to potentiate the hypotensive effect of nitrates.
@@ -113,25 +113,25 @@ Therefore, CIALIS administration with nitrates is contraindicated.
 In a patient who has taken CIALIS, where nitrate administration is deemed medically necessary in a life–threatening situation, at least 48 hours should elapse after the last dose of CIALIS before nitrate administration is considered.
 In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring (see CONTRAINDICATIONS).
 
-Effects on Exercise Stress Testing— The effects of tadalafil on cardiac function, hemodynamics, and exercise tolerance were investigated in a single clinical pharmacology study.
+Effects on Exercise Stress Testing — The effects of tadalafil on cardiac function, hemodynamics, and exercise tolerance were investigated in a single clinical pharmacology study.
 In this blinded crossover trial, 23 subjects with stable coronary artery disease and evidence of exercise–induced cardiac ischemia were enrolled.
 The primary endpoint was time to cardiac ischemia.
 The mean difference in total exercise time was 3 seconds (tadalafil 10 mg minus placebo), which represented no clinically meaningful difference.
 Further statistical analysis demonstrated that tadalafil was non–inferior to placebo with respect to time to ischemia.
 Of note, in this study, in some subjects who received tadalafil followed by sublingual nitroglycerin in the post–exercise period, clinically significant reductions in blood pressure were observed, consistent with the augmentation by tadalafil of the blood–pressure–lowering effects of nitrates.
 
-Effects on Vision— Single oral doses of phosphodiesterase inhibitors have demonstrated transient dose–related impairment of color discrimination (blue/green), using the Farnsworth–Munsell 100–hue test, with peak effects near the time of peak plasma levels.
+Effects on Vision — Single oral doses of phosphodiesterase inhibitors have demonstrated transient dose–related impairment of color discrimination (blue/green), using the Farnsworth–Munsell 100–hue test, with peak effects near the time of peak plasma levels.
 This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina.
 In a study to assess the effects of a single dose of tadalafil 40 mg on vision (N=59), no effects were observed on visual acuity, intraocular pressure, or pupillometry.
 Across all clinical studies with CIALIS, reports of changes in color vision were rare (<0.1% of patients).
 
-Effects on Sperm Characteristics— Three studies were conducted in men to assess the potential effect on sperm characteristics of tadalafil 10 mg (one 6 month study) and 20 mg (one 6 month and one 9 month study) administered daily.
+Effects on Sperm Characteristics — Three studies were conducted in men to assess the potential effect on sperm characteristics of tadalafil 10 mg (one 6 month study) and 20 mg (one 6 month and one 9 month study) administered daily.
 There were no adverse effects on sperm morphology or sperm motility in any of the three studies.
 In the study of 10 mg tadalafil for 6 months and the study of 20 mg tadalafil for 9 months, results showed a decrease in mean sperm concentrations relative to placebo, although these differences were not clinically meaningful.
 This effect was not seen in the study of 20 mg tadalafil taken for 6 months.
 In addition there was no adverse effect on mean concentrations of reproductive hormones, testosterone, luteinizing hormone or follicle stimulating hormone with either 10 or 20 mg of tadalafil compared to placebo.
 
-Effects on Cardiac Electrophysiology— The effect of a single 100–mg dose of tadalafil on the QT interval was evaluated at the time of peak tadalafil concentration in a randomized, double–blinded, placebo, and active (intravenous ibutilide)–controlled crossover study in 90 healthy males aged 18 to 53 years.
+Effects on Cardiac Electrophysiology — The effect of a single 100–mg dose of tadalafil on the QT interval was evaluated at the time of peak tadalafil concentration in a randomized, double–blinded, placebo, and active (intravenous ibutilide)–controlled crossover study in 90 healthy males aged 18 to 53 years.
 The mean change in QTc (Fridericia QT correction) for tadalafil, relative to placebo, was 3.5 milliseconds (two–sided 90% CI=1.9, 5.1).
 The mean change in QTc (Individual QT correction) for tadalafil, relative to placebo, was 2.8 milliseconds (two–sided 90% CI=1.2, 4.4).
 A 100–mg dose of tadalafil (5 times the highest recommended dose) was chosen because this dose yields exposures covering those observed upon coadministration of tadalafil with potent CYP3A4 inhibitors or those observed in renal impairment.

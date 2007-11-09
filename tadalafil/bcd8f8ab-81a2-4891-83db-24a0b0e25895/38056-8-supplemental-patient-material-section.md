@@ -1,6 +1,6 @@
 # Supplement Patient Material Section
 
-## Patient Information CIALIS® (See–AL–iss) (tadalafil) tablets
+Patient Information CIALIS® (See–AL–iss) (tadalafil) tablets
 
 Read the Patient Information about CIALIS before you start taking it and again each time you get a refill.
 There may be new information.
@@ -25,7 +25,7 @@ Tell all your healthcare providers that you take CIALIS.
 If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took CIALIS.
 
 After taking a single tablet, some of the active ingredient of CIALIS remains in your body for more than 2 days.
-The active ingredient can remain longer if you have problems with your kidneys or liver, or you are taking certain other medications (see “Can other medications affect CIALIS?”).
+The active ingredient can remain longer if you have problems with your kidneys or liver, or you are taking certain other medications (See “Can other medications affect CIALIS?”).
 
 What is CIALIS?
 
@@ -159,6 +159,10 @@ In rare instances, men taking PDE5 inhibitors (oral erectile dysfunction medicin
 It is not possible to determine whether these events are related directly to these medicines, to other factors such as high blood pressure or diabetes, or to a combination of these.
 If you experience sudden decrease or loss of vision, stop taking PDE5 inhibitors, including CIALIS, and call a doctor right away.
 
+Sudden loss or decrease in hearing, sometimes with ringing in the ears and dizziness, has been rarely reported in people taking PDE5 inhibitors, including CIALIS.
+It is not possible to determine whether these events are related directly to the PDE5 inhibitors, to other diseases or medications, to other factors, or to a combination of factors.
+If you experience these symptoms, stop taking CIALIS and contact a doctor right away.
+
 These are not all the possible side effects of CIALIS.
 For more information, ask your doctor or pharmacist.
 
@@ -187,18 +191,20 @@ Active Ingredient: tadalafil
 Inactive Ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate, talc, titanium dioxide, and triacetin.
 Rx only
 
-CIALIS® (tadalafil) is a registered trademark of Lilly ICOS LLC
+CIALIS® (tadalafil) is a registered trademark of Eli Lilly and Company
 
-*The brands listed are trademarks of their respective owners and are not trademarks of Lilly ICOS LLC.
-The makers of these brands are not affiliated with and do not endorse Lilly ICOS LLC or its products.
+*The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
+The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Text revised July 8, 2005 Literature revised April 21, 2006
+Literature revised October 18, 2007
 
-Manufactured for Lilly ICOS LLC by Eli Lilly and Company
+Eli Lilly and Company
 
 Indianapolis, IN 46285, USA
 
-PRINTED IN USA
+www.cialis.com
 
-Copyright © 2003, 2005, LillyICOSLLC.
+Copyright © 2003, 2007, Eli Lilly and Company.
 All rights reserved.
+
+PV 5224 AMP
