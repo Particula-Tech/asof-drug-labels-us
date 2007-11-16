@@ -23,8 +23,6 @@ The safety and efficacy of VALTREX have not been established for the treatment o
 
 The efficacy of VALTREX for reducing transmission of genital herpes has not been established in individuals with multiple partners and non-heterosexual couples.
 
-## Precautions
-
 ## Information for Patients
 
 Patients should be advised to maintain adequate hydration.

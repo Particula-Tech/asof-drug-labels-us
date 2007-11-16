@@ -47,13 +47,13 @@ The plasma elimination half-life of acyclovir typically averaged 2.5 to 3.3 hour
 Following administration of VALTREX to volunteers with ESRD, the average acyclovir half-life is approximately 14 hours.
 During hemodialysis, the acyclovir half-life is approximately 4 hours.
 Approximately one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
-Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m2, compared to 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
+Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m2, compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
 
 Reduction in dosage is recommended in patients with renal impairment (see DOSAGE AND ADMINISTRATION).
 
 ### Geriatrics
 
-After single-dose administration of 1 gram of VALTREX in healthy geriatric volunteers, the half-life of acyclovir was 3.11 ± 0.51 hours, compared to 2.91 ± 0.63 hours in healthy volunteers.
+After single-dose administration of 1 gram of VALTREX in healthy geriatric volunteers, the half-life of acyclovir was 3.11 ± 0.51 hours, compared with 2.91 ± 0.63 hours in healthy volunteers.
 The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of VALTREX in geriatric volunteers varied with renal function.
 Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
@@ -63,7 +63,7 @@ Valacyclovir pharmacokinetics have not been evaluated in pediatric patients.
 
 ### Liver Disease
 
-Administration of VALTREX to patients with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis) liver disease indicated that the rate but not the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
+Administration of VALTREX to patients with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis) liver disease indicated that the rate butnot the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
 Dosage modification is not recommended for patients with cirrhosis.
 
 ### HIV Disease
@@ -74,5 +74,5 @@ In 9 patients with HIV disease and CD4 cell counts <150 cells/mm3 who received V
 
 The pharmacokinetics of digoxin was not affected by coadministration of VALTREX 1 gram 3 times daily, and the pharmacokinetics of acyclovir after a single dose of VALTREX (1 gram) was unchanged by coadministration of digoxin (2 doses of 0.75 mg), single doses of antacids (Al3+ or Mg++), or multiple doses of thiazide diuretics.
 Acyclovir Cmax and AUC following a single dose of VALTREX (1 gram) increased by 8% and 32%, respectively, after a single dose of cimetidine (800 mg), or by 22% and 49%, respectively, after probenecid (1 gram), or by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
-These effects are not considered to be of clinical significance in subjects with normal renal function.
+These effects are not considered to be of clinical significance insubjects with normal renal function.
 Therefore, no dosage adjustment is recommended when VALTREX is coadministered with digoxin, antacids, thiazide diuretics, cimetidine, or probenecid in subjects with normal renal function.

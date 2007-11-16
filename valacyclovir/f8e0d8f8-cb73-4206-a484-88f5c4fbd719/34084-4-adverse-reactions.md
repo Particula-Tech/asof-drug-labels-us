@@ -68,7 +68,7 @@ Other laboratory abnormalities (hemoglobin, white blood cells, alkaline phosphat
 
 The following events have been identified during post-approval use of VALTREX in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to either their seriousness, frequency of reporting, causal connection to VALTREX, or a combination of these factors.
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting, causal connectionto VALTREX, or a combination of these factors.
 
 ### General
 
@@ -96,7 +96,7 @@ Liver enzyme abnormalities, hepatitis.
 
 ### Renal
 
-Elevated creatinine, renal failure.
+Elevated creatinine, renal failure, renal pain (may be associated with renal failure).
 
 ### Hematologic
 
@@ -108,5 +108,5 @@ Erythema multiforme, rashes including photosensitivity, alopecia.
 
 ## Renal Impairment
 
-Renal failure and CNS symptoms have been reported in patients with renal impairment who received VALTREX or acyclovir at greater than the recommended dose.
+Renal failureand CNS symptoms have been reported in patients with renal impairment who received VALTREX or acyclovir at greater than the recommended dose.
 Dose reduction is recommended in this patient population (see DOSAGE AND ADMINISTRATION).

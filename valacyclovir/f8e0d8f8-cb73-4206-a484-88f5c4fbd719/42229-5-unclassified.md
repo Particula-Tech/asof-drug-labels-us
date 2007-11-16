@@ -9,7 +9,7 @@ This viral enzyme converts acyclovir into acyclovir monophosphate,a nucleotide a
 The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
 In vitro, acyclovir triphosphate stops replication of herpes viral DNA.
 This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
-The greater antiviral activity of acyclovir against HSV compared to VZV is due to its more efficient phosphorylation by the viral TK.
+The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK.
 
 ## Antiviral Activities
 

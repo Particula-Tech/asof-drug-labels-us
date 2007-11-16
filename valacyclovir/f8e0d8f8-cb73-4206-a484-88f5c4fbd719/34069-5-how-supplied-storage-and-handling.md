@@ -17,6 +17,8 @@ Bottle of 90 (NDC 0173-0565-10).
 Store at 15° to 25°C (59° to 77°F).
 Dispense in a well-closed container as defined in the USP.
 
+VALTREX and ZOVIRAX are registered trademarks of GlaxoSmithKline.
+
 Distributed by
 
 GlaxoSmithKline
@@ -35,9 +37,9 @@ DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2006, GlaxoSmithKline.
+©2007, GlaxoSmithKline.
 All rights reserved.
 
-July 2006 RL-2310
+October 2007 VTX:1PI
 
 PHARMACIST DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

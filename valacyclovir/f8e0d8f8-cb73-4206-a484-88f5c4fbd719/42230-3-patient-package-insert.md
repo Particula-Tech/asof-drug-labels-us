@@ -91,7 +91,7 @@ How should I take VALTREX?
 Take VALTREX exactly as prescribed by your healthcare provider.
 Your dose of VALTREX and length of treatment will depend on the type of herpes infection that you have and any other medical problems that you have.
 
-- Do not stop VALTREX or change your treatment without talking to your healthcare provider.
+- Do not stop VALTREX or change your treatment without talkingto your healthcare provider.
 - VALTREX can be taken with or without food.
 - If you are taking VALTREX to treat cold sores, shingles, or genital herpes, you should start treatment as soon as possible after your symptoms start.
   VALTREX may not help you if you start treatment too late.
@@ -147,6 +147,8 @@ Inactive Ingredients: carnauba wax, colloidal silicon dioxide, crospovidone, FD&
 
 Rx Only
 
+VALTREX is a registered trademark of GlaxoSmithKline.
+
 Distributed by
 
 GlaxoSmithKline
@@ -165,7 +167,7 @@ DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2006, GlaxoSmithKline.
+©2007, GlaxoSmithKline.
 All rights reserved.
 
-July 2006 RL-2310
+October 2007 VTX:1PIL

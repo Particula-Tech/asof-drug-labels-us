@@ -3,9 +3,9 @@
 ## Herpes Zoster
 
 Two randomized double-blind clinical trials in immunocompetent adults with localized herpes zoster were conducted.
-VALTREX was compared to placebo in patients less than 50 years of age, and to ZOVIRAX in patients greater than 50 years of age.
+VALTREX was compared with placebo in patients less than 50 years of age, and to ZOVIRAX in patients greater than 50 years of age.
 All patients were treated within 72 hours of appearance of zoster rash.
-In patients less than 50 years of age, the median time to cessation of new lesion formation was 2 days for those treated with VALTREX compared to 3 days for those treated with placebo.
+In patients less than 50 years of age, the median time to cessation of new lesion formation was 2 days for those treated with VALTREX compared with 3 days for those treated with placebo.
 In patients greater than 50 years of age, the median time to cessation of new lesions was 3 days in patients treated with either VALTREX or ZOVIRAX.
 In patients less than 50 years of age, no difference was found with respect to the duration of pain after healing (post-herpetic neuralgia) between the recipients of VALTREX and placebo.
 In patients greater than 50 years of age, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77] for 7-day VALTREX, 14-day VALTREX, and 7-day ZOVIRAX, respectively.
@@ -98,7 +98,7 @@ Patients self-initiated therapy at the earliest symptoms and prior to any signs 
 The majority of patients initiated treatment within 2 hours of onset of symptoms.
 Patients were randomized to VALTREX 2 grams twice daily on Day 1 followed by placebo on Day 2, VALTREX 2 grams twice daily on Day 1 followed by 1 gram twice daily on Day 2, or placebo on Days 1 and 2.
 
-The mean duration of cold sore episodes was about 1 day shorter in treated subjects as compared to placebo.
+The mean duration of cold sore episodes was about 1 day shorter in treated subjects as compared with placebo.
 The 2-day regimen did not offer additional benefit over the 1-day regimen.
 
 No significant difference was observed between subjects receiving VALTREX or placebo in the prevention of progression of cold sore lesions beyond the papular stage.
