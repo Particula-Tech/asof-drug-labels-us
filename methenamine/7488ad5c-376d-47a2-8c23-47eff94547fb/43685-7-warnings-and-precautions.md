@@ -1,0 +1,34 @@
+# WARNINGS
+
+Large doses of methenamine (8 grams daily for 3 to 4 weeks) have caused bladder irritation, painful and frequent micturition, albuminuria, and gross hematuria.
+
+# PRECAUTIONS
+
+Prescribing HIPREX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+1. Care should be taken to maintain an acid pH of the urine, especially when treating infections due to urea-splitting organisms such as Proteus and strains of Pseudomonas.
+2. In a few instances in one study, the serum transaminase levels were slightly elevated during treatment but returned to normal while the patients were still taking HIPREX.
+   Because of this report, it is recommended that liver function studies be performed periodically on patients taking the drug, especially those with liver dysfunction.
+3. Use in Pregnancy: In early pregnancy the safe use of HIPREX is not established.
+   In the last trimester, safety is suggested, but not definitely proved.
+   No adverse effects on the fetus were seen in studies in pregnant rats and rabbits.
+   HIPREX taken during pregnancy can interfere with laboratory tests of urine estriol (resulting in unmeasurably low values) when acid hydrolysis is used in the laboratory procedure.
+   This interference is due to the presence in the urine of methenamine and/or formaldehyde.
+   Enzymatic hydrolysis, in place of acid hydrolysis, will circumvent this problem.
+4. This product contains FD&C Yellow No. 5 (tartrazine), which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals.
+   Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
+
+## Information For Patients
+
+Patients should be counseled that antibacterial drugs including HIPREX should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When HIPREX is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by HIPREX or other antibacterial drugs in the future.
+
+## Geriatric Use
+
+Clinical studies of HIPREX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+HIPREX is contraindicated in patients with renal insufficiency and severe hepatic insufficiency (see CONTRAINDICATIONS).
