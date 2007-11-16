@@ -1,0 +1,5 @@
+# Indications and Usage
+
+robaxin® and robaxin®-750 are indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute, painful musculoskeletal conditions.
+The mode of action of methocarbamol has not been clearly identified, but may be related to its sedative properties.
+Methocarbamol does not directly relax tense skeletal muscles in man.

@@ -1,0 +1,17 @@
+# Dosage and Administration
+
+robaxin® (methocarbamol), 500 mg – Adults:
+
+Initial dosage: 3 tablets q.i.d.
+
+Maintenance dosage: 2 tablets q.i.d.
+
+robaxin®-750 (methocarbamol): 750 mg – Adults:
+
+Initial dosage: 2 tablets q.i.d.
+
+Maintenance dosage: 1 tablet q.4h. or 2 tablets t.i.d.
+
+Six grams a day are recommended for the first 48 to 72 hours of treatment.
+(For severe conditions 8 grams a day may be administered).
+Thereafter, the dosage can usually be reduced to approximately 4 grams a day.
