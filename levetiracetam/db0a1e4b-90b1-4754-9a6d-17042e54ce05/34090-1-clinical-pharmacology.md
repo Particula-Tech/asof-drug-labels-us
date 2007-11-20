@@ -43,14 +43,14 @@ It is increased in the elderly (primarily due to impaired renal clearance) and i
 Absorption of levetiracetam is rapid, with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects.
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
 Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20% and delays Tmax by 1.5 hours.
-The pharmacokinetics of levetiracetam are linear over the dose range of 500 to 5000 mg.
+The pharmacokinetics of levetiracetam are linear over the dose range of 500-5000 mg.
 Steady state is achieved after 2 days of multiple twice-daily dosing.
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
 
 ### Metabolism
 
 Levetiracetam is not extensively metabolized in humans.
-The major metabolic pathway is the enzymatic hydrolysis of the acetamide group, which produces the carboxylic acid metabolite, 1-ethyl-2-oxo-pyrolidine acetic acid (24% of dose) and is not dependent on any liver cytochrome P450 isoenzymes.
+The major metabolic pathway is the enzymatic hydrolysis of the acetamide group, which produces the carboxylic acid metabolite, ucb L057 (24% of dose) and is not dependent on any liver cytochrome P450 isoenzymes.
 The major metabolite is inactive in animal seizure models.
 Two minor metabolites were identified as the product of hydroxylation of the 2-oxo-pyrrolidine ring (2% of dose) and opening of the 2-oxo-pyrrolidine ring in position 5 (1% of dose).
 There is no enantiomeric interconversion of levetiracetam or its major metabolite.
@@ -61,7 +61,7 @@ Levetiracetam plasma half-life in adults is 7 ± 1 hour and is unaffected by eit
 Levetiracetam is eliminated from the systemic circulation by renal excretion as unchanged drug which represents 66% of administered dose.
 The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min/kg.
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
-The metabolite 1-ethyl-2-oxo-pyrolidine acetic acid is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
+The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
 Levetiracetam clearance is reduced in patients with impaired renal function (see Special Populations, Renal Impairment and DOSAGE AND ADMINISTRATION, Adult Patients with Impaired Renal Function).
 
@@ -77,17 +77,17 @@ Potential pharmacokinetic interactions of or with levetiracetam were assessed in
 
 #### Elderly
 
-Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects (age 61 to 88 years) with creatinine clearance ranging from 30 to 74 mL/min.
+Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects (age 61-88 years) with creatinine clearance ranging from 30 to 74 mL/min.
 Following oral administration of twice-daily dosing for 10 days, total body clearance decreased by 38% and the half-life was 2.5 hours longer in the elderly compared to healthy adults.
 This is most likely due to the decrease in renal function in these subjects.
 
 #### Pediatric Patients
 
-Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6 to 12 years) after single dose (20 mg/kg).
+Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6-12 years) after single dose (20 mg/kg).
 The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
 
-A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4 to 12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
-The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (1-ethyl-2-oxo-pyrolidine acetic acid) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t½ of 5 hours across the three dosing levels.
+A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
+The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t½of 5 hours across the three dosing levels.
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients (see PRECAUTIONS, Drug Interactions).
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
@@ -108,7 +108,7 @@ Because levetiracetam is primarily renally excreted and there are no important r
 #### Renal Impairment
 
 The disposition of levetiracetam was studied in adult subjects with varying degrees of renal function.
-Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50-80 mL/min), 50% in the moderate group (CLcr = 30-50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80mL/min).
