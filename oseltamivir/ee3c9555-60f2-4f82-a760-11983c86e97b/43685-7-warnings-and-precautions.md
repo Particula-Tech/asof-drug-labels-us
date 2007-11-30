@@ -49,6 +49,10 @@ Patients should be instructed to take any missed doses as soon as they remember,
 TAMIFLU is not a substitute for a flu vaccination.
 Patients should continue receiving an annual flu vaccination according to guidelines on immunization practices.
 
+A bottle of 13 g TAMIFLU for Oral Suspension contains approximately 11 g sorbitol.
+One dose of 75 mg TAMIFLU for Oral Suspension delivers 2 g sorbitol.
+For patients with hereditary fructose intolerance, this is above the daily maximum limit of sorbitol and may cause dyspepsia and diarrhea.
+
 ## Drug Interactions
 
 The concurrent use of TAMIFLU with live attenuated influenza vaccine (LAIV) intranasal has not been evaluated.
@@ -76,11 +80,9 @@ In six subjects, multiple doses of oseltamivir did not affect the single-dose ph
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Long-term carcinogenicity tests with oseltamivir are underway but have not been completed.
-However, a 26-week dermal carcinogenicity study of oseltamivir carboxylate in FVB/Tg.AC transgenic mice was negative.
-The animals were dosed at 40, 140, 400 or 780 mg/kg/day in two divided doses.
-The highest dose represents the maximum feasible dose based on the solubility of the compound in the control vehicle.
-A positive control, tetradecanoyl phorbol-13-acetate administered at 2.5 µg per dose three times per week gave a positive response.
+In 2-year carcinogenicity studies in mice and rats given daily oral doses of the pro-drug oseltamivir phosphate up to 400 mg/kg and 500 mg/kg, respectively, the pro-drug oseltamivir phosphate and the active form oseltamivir carboxylate induced no statistically significant increases in tumors over controls.
+The mean maximum daily exposures to the prodrug in mice and rats were approximately 130- and 320-fold, respectively, greater than those in humans at the proposed clinical dose based on AUC comparisons.
+The respective safety margins of the exposures to the active oseltamivir carboxylate were 15- and 50-fold.
 
 Oseltamivir was found to be non-mutagenic in the Ames test and the human lymphocyte chromosome assay with and without enzymatic activation and negative in the mouse micronucleus test.
 It was found to be positive in a Syrian Hamster Embryo (SHE) cell transformation test.

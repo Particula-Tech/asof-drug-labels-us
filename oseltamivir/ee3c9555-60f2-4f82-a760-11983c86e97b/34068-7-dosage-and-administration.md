@@ -76,7 +76,7 @@ The safety and pharmacokinetics in patients with hepatic impairment have not bee
 
 ### Renal Impairment
 
-For plasma concentrations of oseltamivir carboxylate predicted to occur following various dosing schedules in patients with renal impairment, see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations.
+For plasma concentrations of oseltamivir carboxylate predicted to occur following various dosing schedules in patients with renal impairment (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations).
 
 #### Treatment of Influenza
 
@@ -164,7 +164,7 @@ Third, follow the procedure below for compounding the oral suspension (15 mg/mL)
 10. Instruct the parent or guardian that any remaining material following completion of therapy must be discarded by either affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions.
 11. Place an appropriate expiration date label according to storage condition (see below).
 
-### STORAGE OF THE PHARMACY-COMPOUNDED SUSPENSION
+### STORAGE OF THE PHARMACY-COMPOUNDED SUSPENSION:
 
 Refrigeration: Stable for 5 weeks (35 days) when stored in a refrigerator at 2° to 8°C (36° to 46°F).
 
