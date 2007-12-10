@@ -1,0 +1,60 @@
+# DOSAGE AND ADMINISTRATION
+
+Erythromycin ethylsuccinate suspensions and Filmtab tablets may be administered without regard to meals.
+
+## Children
+
+Age, weight, and severity of the infection are important factors in determining the proper dosage.
+In mild to moderate infections the usual dosage of erythromycin ethylsuccinate for children is 30 to 50 mg/kg/day in equally divided doses every 6 hours.
+For more severe infections this dosage may be doubled.
+If twice-a-day dosage is desired, one-half of the total daily dose may be given every 12 hours.
+Doses may also be given three times daily by administering one-third of the total daily dose every 8 hours.
+
+The following dosage schedule is suggested for mild to moderate infections:
+
+| Body Weight | Total Daily Dose |
+| --- | --- |
+| Under 10 lbs | 30-50 mg/kg/day 15-25 mg/kg/q 12 h |
+| 10 to 15 lbs | 200 mg |
+| 16 to 25 lbs | 400 mg |
+| 26 to 50 lbs | 800 mg |
+| 51 to 100 lbs | 1200 mg |
+| over 100 lbs | 1600 mg |
+
+## Adults
+
+400 mg erythromycin ethylsuccinate every 6 hours is the usual dose.
+Dosage may be increased up to 4 g per day according to the severity of the infection.
+If twice-a-day dosage is desired, one-half of the total daily dose may be given every 12 hours.
+Doses may also be given three times daily by administering one-third of the total daily dose every 8 hours.
+
+For adult dosage calculation, use a ratio of 400 mg of erythromycin activity as the ethylsuccinate to 250 mg of erythromycin activity as the stearate, base or estolate.
+
+In the treatment of streptococcal infections, a therapeutic dosage of erythromycin ethylsuccinate should be administered for at least 10 days.
+In continuous prophylaxis against recurrences of streptococcal infections in persons with a history of rheumatic heart disease, the usual dosage is 400 mg twice a day.
+
+## For Treatment of Urethritis Due to C. trachomatis or U. urealyticum
+
+800 mg three times a day for 7 days.
+
+## For Treatment of Primary Syphilis
+
+Adults: 48 to 64 g given in divided doses over a period of 10 to 15 days.
+
+## For Intestinal Amebiasis
+
+### Adults
+
+400 mg four times daily for 10 to 14 days.
+
+### Children
+
+30 to 50 mg/kg/day in divided doses for 10 to 14 days.
+
+## For Use in Pertussis
+
+Although optimal dosage and duration have not been established, doses of erythromycin utilized in reported clinical studies were 40 to 50 mg/kg/day, given in divided doses for 5 to 14 days.
+
+## For Treatment of Legionnaires' Disease
+
+Although optimal doses have not been established, doses utilized in reported clinical data were those recommended above (1.6 to 4 g daily in divided doses.)
