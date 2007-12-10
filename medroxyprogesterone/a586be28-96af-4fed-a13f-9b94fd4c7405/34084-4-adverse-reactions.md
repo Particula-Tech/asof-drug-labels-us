@@ -1,61 +1,90 @@
 # ADVERSE REACTIONS
 
-## Breast
+See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.
 
-Breast tenderness or galactorrhea has been reported.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## Skin
+The following adverse reactions have been reported in women taking progestins, including PROVERA tablets, without concomitant estrogens treatment:
+
+1.
+Genitourinary system
+
+Abnormal uterine bleeding (irregular, increase, decrease), change in menstrual flow, breakthrough bleeding, spotting, amenorrhea, changes in cervical erosion and cervical secretions.
+
+2.
+Breasts
+
+Breast tenderness, mastodynia or galactorrhea has been reported.
+
+3.
+Cardiovascular
+
+Thromboembolic disorders including thrombophlebitis and pulmonary embolism have been reported.
+
+4.
+Gastrointestinal
+
+Nausea, cholestatic jaundice.
+
+5.
+Skin
 
 Sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash have occurred.
 Acne, alopecia and hirsutism have been reported.
 
-## Thromboembolic Phenomena
+6.
+Eyes
 
-Thromboembolic phenomena including thrombophlebitis and pulmonary embolism have been reported.
+Neuro-ocular lesions, e.g., retinal thrombosis and optic neuritis.
 
-## Other
+7.
+Central nervous system
 
-The following adverse reactions have been observed in women taking progestins, including PROVERA Tablets:
+Mental depression, insomnia, somnolence, dizziness, headache, nervousness.
 
-- breakthrough bleeding
-- spotting
-- change in menstrual flow
-- amenorrhea
-- edema
-- change in weight (increase or decrease)
-- changes in cervical erosion and cervical secretions
-- cholestatic jaundice
-- anaphylactoid reactions and anaphylaxis
-- rash (allergic) with and without pruritus
-- mental depression
-- pyrexia
-- insomnia
-- nausea
-- somnolence
+8.
+Miscellaneous
 
-Although available evidence is suggestive of an association, such a relationship has been neither confirmed nor refuted for the following serious adverse reactions: neuro-ocular lesions, eg, retinal thrombosis and optic neuritis.
+Hypersensitivity reactions (e.g., anaphylaxis & anaphylactoid reactions, angioedema), rash (allergic) with and without pruritus, change in weight (increase or decrease), pyrexia, edema/fluid retention, fatigue, decreased glucose tolerance.
 
-The following adverse reactions have been observed in patients receiving estrogen-progestin combination drugs:
+The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
 
-- rise in blood pressure in susceptible individuals
-- premenstrual-like syndrome
-- changes in libido
-- changes in appetite
-- cystitis-like syndrome headache nervousness
-- fatigue
-- backache
-- hirsutism
-- loss of scalp hair
-- erythema multiforme
-- erythema nodosum
-- hemorrhagic eruption itching dizziness
+1.
+Genitourinary system
 
-## Laboratory Tests
+Abnormal uterine bleeding/spotting, or flow; breakthrough bleeding; spotting; dysmenorrheal/pelvic pain, increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
 
-The following laboratory results may be altered by the use of estrogen-progestin combination drugs:
+2.
+Breasts
 
-Increased sulfobromophthalein retention and other hepatic function tests.
-Coagulation tests: increase in prothrombin factors VII, VIII, IX and X. Metyrapone test.
-Pregnanediol determination.
+Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
 
-Thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values.
+3.
+Cardiovascular
+
+Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
+
+4.
+Gastrointestinal
+
+Nausea, vomiting; abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis, enlargement of hepatic hemangiomas.
+
+5.
+Skin
+
+Chloasma or melasma that may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritus, rash.
+
+6.
+Eyes
+
+Retinal vascular thrombosis, intolerance to contact lenses.
+
+7.
+Central nervous system
+
+Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy, dementia.
+
+8.
+Miscellaneous
+
+Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaplylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
