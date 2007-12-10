@@ -10,7 +10,7 @@ This information does not take the place of talking with your doctor about your 
 If you have any questions about WELLBUTRIN SR, ask your doctor or pharmacist.
 
 IMPORTANT: Be sure to read both sections of this Medication Guide.
-The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is entitled “What is other important information I should know about WELLBUTRIN SR?”
+The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is entitled “What other important information should I know about WELLBUTRIN SR?”
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
@@ -22,13 +22,13 @@ Talk to your, or your family member's, healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults when the medicine is first started.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
    - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-     This is very important when an antidepressant medicine is first started or when the dose is changed.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
    - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
    - Keep all follow-up visits with the healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
@@ -49,7 +49,7 @@ What else do I need to know about antidepressant medicines?
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
 - Antidepressant medicines can interact with other medicines.
   Know all of the medicines that you or your family member takes.
-  Keep a list of all medicines to show the heathcare provider.
+  Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
@@ -154,7 +154,7 @@ What are possible side effects of WELLBUTRIN SR?
   Some patients have unusual thoughts or behaviors while taking WELLBUTRIN SR, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your doctor.
 
-The most common side effects of WELLBUTRIN SR are loss of appetite, dry mouth, skin rash, sweating, ringing in the ears, shakiness, stomach pain, agitation, anxiety, dizziness, trouble sleeping, muscle pain, nausea, fast heart beat, sore throat, and urinating more often.
+The most common side effects of WELLBUTRIN SR are loss of appetite, dry mouth, skin rash, sweating, ringing in the ears, shakiness, stomach pain, agitation, anxiety, dizziness, trouble sleeping, muscle pain, nausea, fast heartbeat, sore throat, and urinating more often.
 
 If you have nausea, you may want to take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
@@ -197,7 +197,9 @@ Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-May 2007WLS:3MG
+August 2007
+
+WLS:4MG
 
 Distributed by:
 
@@ -220,4 +222,6 @@ Greenville, NC 27834
 ©2007, GlaxoSmithKline.
 All rights reserved.
 
-May 2007WLS:1PI
+August 2007
+
+WLS:2PI

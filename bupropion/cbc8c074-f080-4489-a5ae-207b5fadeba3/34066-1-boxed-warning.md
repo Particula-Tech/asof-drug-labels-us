@@ -4,7 +4,7 @@ Antidepressants increased the risk compared to placebo of suicidal thinking and 
 Anyone considering the use of WELLBUTRIN SR or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
 Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
-Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely forclinical worsening, suicidality, or unusual changes in behavior.
+Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 WELLBUTRIN SR is not approved for use in pediatric patients.
 (See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)

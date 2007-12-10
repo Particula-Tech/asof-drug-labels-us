@@ -19,10 +19,10 @@ Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
-| Drug-Related Increases |  |
+| Increases Compared to Placebo |  |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-| Drug-Related Decreases |  |
+| Decreases Compared to Placebo |  |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -37,7 +37,9 @@ All patients being treated with antidepressants for any indication should be mon
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for WELLBUTRIN SR should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
@@ -157,7 +159,7 @@ These symptoms may resemble serum sickness.
 In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
 These events have been observed in both patients with and without evidence of preexisting hypertension.
 
-Data from a comparative study of the sustained-release formulation of bupropion (ZYBAN®Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
+Data from a comparative study of the sustained-release formulation of bupropion (ZYBAN® Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
 In this study, 6.1% of patients treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of patients treated with sustained-release bupropion, NTS, and placebo, respectively.
 The majority of these patients had evidence of preexisting hypertension.Three patients (1.2%) treated with the combination of ZYBAN and NTS and 1 patient (0.4%) treated with NTS had study medication discontinued due to hypertension compared to none of the patients treated with ZYBAN or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
@@ -200,7 +202,7 @@ Families and caregivers of patients should be advised to look for the emergence 
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Patients should be made aware that WELLBUTRIN SR contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN SR should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN, the immediate release formulation and WELLBUTRIN XL, the extended-release formulation).
+Patients should be made aware that WELLBUTRIN SR contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN SR should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN, the immediate-release formulation and WELLBUTRIN XL, the extended-release formulation).
 
 As dose is increased during initial titration to doses above 150 mg/day, patients should be instructed to take WELLBUTRIN SR Tablets in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
@@ -231,8 +233,7 @@ Few systemic data have been collected on the metabolism of bupropion following c
 
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
-Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates or inhibitors of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, and cyclophosphamide).
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir, ritonavir, and efavirenz inhibit the hydroxylation of bupropion.
+Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates or inhibitors of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, and cyclophosphamide).In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir, ritonavir, and efavirenz inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
@@ -255,7 +256,7 @@ In a study of 15 male subjects (ages 19 to 35 years) who were extensive metaboli
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 
-Therefore, co-administration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
+Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
 
 ### MAO Inhibitors
@@ -311,7 +312,7 @@ The results of this study have not been corroborated.
 WELLBUTRIN SR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 To monitor fetal outcomes of pregnant women exposed to WELLBUTRIN SR, GlaxoSmithKline maintains a Bupropion Pregnancy Registry.
-Health care providers are encouraged to register patients by calling (800) 336-2176.
+Healthcare providers are encouraged to register patients by calling (800) 336-2176.
 
 ## Labor and Delivery
 
@@ -324,7 +325,7 @@ Because of the potential for serious adverse reactions in nursing infants from W
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: ClinicalWorsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Anyone considering the use of WELLBUTRIN SR in a child or adolescent must balance the potential risks with the clinical need.
 
 ## Geriatric Use

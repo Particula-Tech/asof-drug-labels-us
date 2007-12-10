@@ -35,7 +35,7 @@ However, it has been demonstrated in an antidepressant screening test in mice th
 This may be of clinical importance because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
 Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by the cytochrome P450IIB6 (CYP2B6) isoenzyme.
-Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is co-administered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
+Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
 Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 6 hours after administration of WELLBUTRIN SR Tablets.
 Peak plasma concentrations of hydroxybupropion are approximately 10 times the peak level of the parent drug at steady state.
