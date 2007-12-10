@@ -1,6 +1,7 @@
-Rx only
+08-2007M
 
-Rev.
-04-2006M 7218
+7218
 
-Sandoz Inc. Princeton, NJ 08540
+Sandoz Inc.
+
+Princeton, NJ 08540

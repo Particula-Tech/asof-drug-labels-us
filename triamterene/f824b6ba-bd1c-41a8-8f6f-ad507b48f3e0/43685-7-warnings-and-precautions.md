@@ -1,14 +1,12 @@
 # WARNINGS
 
-## Hyperkalemia
-
 If hyperkalemia is suspected (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock), an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because hyperkalemia may not be associated with ECG changes.
 
 If hyperkalemia is present, triamterene and hydrochlorothiazide should be discontinued immediately and a thiazide alone should be substituted.
 If the serum potassium exceeds 6.5 mEq/liter, more vigorous therapy is required.
 The clinical situation dictates the procedures to be employed.
-These include the intravenous administration of calcium chloride injection, sodium bicarbonate injection and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
+These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
 Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered.
 Persistent hyperkalemia may require dialysis.
 
@@ -69,7 +67,7 @@ Triamterene and hydrochlorothiazide should be used with caution in patients with
 
 ### Serum Potassium
 
-The normal adult range of serum potassum is 3.5 to 5.0 mEq per liter with 4.5 mEq often being used for a reference point.
+The normal adult range of serum potassium is 3.5 to 5.0 mEq per liter with 4.5 mEq often being used for a reference point.
 If hypokalemia should develop, corrective measures should be taken such as potassium supplementation or increased dietary intake of potassium-rich foods.
 
 Institute such measures cautiously with frequent determinations of serum potassium levels.
@@ -77,6 +75,7 @@ Potassium levels persistently above 6 mEq per liter require careful observation 
 Serum potassium levels do not necessarily indicate true body potassium concentration.
 A rise in plasma pH may cause a decrease in plasma potassium concentration and an increase in the intracellular potassium concentration.
 Discontinue corrective measures for hypokalemia immediately if laboratory determinations reveal an abnormal elevation of serum potassium.
+
 Discontinue triamterene and hydrochlorothiazide and substitute a thiazide diuretic alone until potassium levels return to normal.
 
 ### Serum Creatinine and BUN
@@ -155,7 +154,7 @@ Long-term studies have not been conducted with the triamterene and hydrochloroth
 #### Hydrochlorothiazide
 
 Two-year feeding studies in mice and rats, conducted under the auspices of the National Toxicology Program (NTP), treated mice and rats with doses of hydrochlorothiazide up to 600 and 100 mg/kg/day, respectively.
-On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the Maximum Recommended Human Dose (MRHD) for the hydrochlorothiazide component of triamterene and hydrochlorothiazide capsules at 50 mg/day (or 1 mg/kg/day based on 50 kg individuals).
+On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the Maximum Recommended Human Dose (MRHD) for the hydrochlorothiazide component of triamterene and hydrochlorothiazide capsules at 50 mg/day (or 1.0 mg/kg/day based on 50 kg individuals).
 On the basis of body-surface area, these doses are 56 times (in mice) and 21 times (in rats) the MRHD.
 These studies uncovered no evidence of carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.
 
@@ -178,33 +177,35 @@ Studies of the effects of the triamterene and hydrochlorothiazide combination, o
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation.
 Corresponding multiples of the MRHD are 100 (mice) and 4 (rats) on the basis of body-weight and 9.4 (mice) and 0.8 (rats) on the basis of body-surface area.
 
-## Pregnancy: Category C
+## Pregnancy
 
-### Teratogenic Effects
+### Category C
 
-#### Triamterene and Hydrochlorothiazide
+#### Teratogenic Effects
+
+##### Triamterene and Hydrochlorothiazide
 
 Animal reproduction studies to determine the potential for fetal harm by triamterene and hydrochlorothiazide have not been conducted.
 However, a One Generation Study in the rat approximated triamterene and hydrochlorothiazide composition by using a 1:1 ratio of triamterene to hydrochlorothiazide (30:30 mg/kg/day); there was no evidence of teratogenicity at those doses which were, on a body-weight basis, 15 and 30 times, respectively, the MRHD, and on the basis of body-surface area, 3.1 and 6.2 times, respectively, the MRHD.
 
-The safe use of triamterene and hydrochlorothiazide in pregnancy has not been established since there are no adequate and well-controlled studies with triamterene and hydrochlorothiazde in pregnant women.
+The safe use of triamterene and hydrochlorothiazide in pregnancy has not been established since there are no adequate and well-controlled studies with triamterene and hydrochlorothiazide in pregnant women.
 Triamterene and hydrochlorothiazide should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
 
-#### Triamterene
+##### Triamterene
 
 Reproduction studies have been performed in rats at doses as high as 20 times the MRHD on the basis of body-weight, and 6 times the human dose on the basis of body-surface area without evidence of harm to the fetus due to triamterene.
 
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-#### Hydrochlorothiazide
+##### Hydrochlorothiazide
 
 Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3000 and 1000 mg/kg/day, respectively.
 At these doses, which are multiples of the MRHD equal to 3000 for mice and 1000 for rats, based on body-weight, and equal to 282 for mice and 206 for rats, based on body-surface area, there was no evidence of harm to the fetus.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pegnancy only if clearly needed.
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-### Nonteratogenic Effects
+#### Nonteratogenic Effects
 
 Thiazides and triamterene have been shown to cross the placental barrier and appear in cord blood.
 The use of thiazides and triamterene in pregnant women requires that the anticipated benefit be weighed against possible hazards to the fetus.

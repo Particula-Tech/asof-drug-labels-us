@@ -5,7 +5,7 @@ Each component complements the action of the other.
 
 The triamterene component of triamterene and hydrochlorothiazide capsule exerts its diuretic effect on the distal renal tubule to inhibit the reabsorption of sodium in exchange for potassium and hydrogen ions.
 Its natriuretic activity is limited by the amount of sodium reaching its site of action.
-Although it blocks the increase in this exchange that is stimulated by mineralocorticoids (chiefly aldosterone) it is not a competitive antagonist of aldosterone and its activity can be demonstrated in adrenalectomized rats and patients with Addison's disease.
+Although it blocks the increase in this exchange that is stimulated by mineralocorticoids (chiefly aldosterone) it is not a competitive antagonist of aldosterone and its activity can be demonstrated in adrenalectomized rats and patients with Addison’s disease.
 As a result, the dose of triamterene required is not proportionally related to the level of mineralocorticoid activity, but is dictated by the response of the individual patients, and the kaliuretic effect of concomitantly administered drugs.
 By inhibiting the distal tubular exchange mechanism, triamterene maintains or increases the sodium excretion and reduces the excess loss of potassium, hydrogen, and chloride ions induced by hydrochlorothiazide.
 As with hydrochlorothiazide, triamterene may reduce glomerular filtration and renal plasma flow.
@@ -20,13 +20,13 @@ Hydrochlorothiazide also decreases the excretion of calcium and uric acid, may i
 The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not known.
 
 Duration of diuretic activity and effective dosage range of the hydrochlorothiazide and triamterene components are similar.
-Onset of diuresis with triamterene and hydochlorothiazide takes place within one hour, peaks at two to three hours and tapers off during the subsequent seven to nine hours.
+Onset of diuresis with triamterene and hydrochlorothiazide takes place within one hour, peaks at two to three hours and tapers off during the subsequent seven to nine hours.
 
 Triamterene and hydrochlorothiazide capsule are well absorbed.
 
 Upon administration of a single oral dose to fasted normal male volunteers, the following mean pharmacokinetic parameters were determined:
 
-|  | AUC(0-48) ng*hrs/mL (± SD) | Cmax ng/mL (± SD) | Median Tmax hrs | Ae mg (± SD) |
+|  | AUC(0-48)ng*hrs/mL(± SD) | Cmaxng/mL(± SD) | MedianTmaxHrs | Aemg(± SD) |
 | --- | --- | --- | --- | --- |
 | triamterene | 148.7 (87.9) | 46.4 (29.4) | 1.1 | 2.7 (1.4) |
 | hydroxytriamterene sulfate | 1865 (471) | 720 (364) | 1.3 | 19.7 (6.1) |
@@ -44,7 +44,7 @@ In a limited study involving 12 subjects, coadministration of a marketed brand o
 A placebo-controlled, double-blind trial was conducted to evaluate the efficacy of triamterene and hydrochlorothiazide capsules.
 This trial demonstrated that triamterene and hydrochlorothiazide capsules 37.5 mg/25 mg were effective in controlling blood pressure while reducing the incidence of hydrochlorothiazide-induced hypokalemia.
 This trial involved 636 patients with mild to moderate hypertension controlled by hydrochlorothiazide 25 mg daily and who had hypokalemia (serum potassium <3.5 mEq/L) secondary to the hydrochlorothiazide.
-Patients were randomly assigned to 4 weeks' treatment with once-daily regimens of 25 mg hydrochlorothiazide plus placebo, or 25 mg hydrochlorothiazide combined with one of the following doses of triamterene: 25 mg, 37.5 mg, 50 mg or 75 mg.
+Patients were randomly assigned to 4 weeks’ treatment with once-daily regimens of 25 mg hydrochlorothiazide plus placebo, or 25 mg hydrochlorothiazide combined with one of the following doses of triamterene: 25 mg, 37.5 mg, 50 mg or 75 mg.
 
 Blood pressure and serum potassium were monitored at baseline and throughout the trial.
 All five treatment groups had similar mean blood pressure and serum potassium concentrations at baseline (mean systolic blood pressure range: 137±14 mmHg to 140±16 mmHg; mean diastolic blood pressure range: 86±9 mmHg to 88±8 mmHg; mean serum potassium range: 2.3 to 3.4 mEq/L with the majority of patients having values between 3.1 and 3.4 mEq/L).

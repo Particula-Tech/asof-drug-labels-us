@@ -1,36 +1,65 @@
 # ADVERSE REACTIONS
 
-Adverse effects are listed in decreasing order of frequency; however, the most serious adverse effects are listed first regardless of frequency.
-The serious adverse effects associated with triamterene and hydrochlorothiazide capsules have commonly occurred in less than 0.1% of patients treated with this product.
+Adverse effects are listed in decreasing order of severity.
 
-Hypersensitivity: anaphylaxis, rash, urticaria, photosensitivity.
+## Hypersensitivity
 
-Cardiovascular: arrhythmia, postural hypotension.
+anaphylaxis, rash, urticaria, subacute cutaneous lupus erythematosus-like reactions, photosensitivity.
 
-Metabolic: diabetes mellitus, hyperkalemia, hyperglycemia, glycosuria, hyperuricemia, hypokalemia, hyponatremia, acidosis, hypochloremia.
+## Cardiovascular
 
-Gastrointestinal: jaundice and/or liver enzyme abnormalities, pancreatitis, nausea and vomiting, diarrhea, constipation, abdominal pain.
+arrhythmia, postural hypotension.
 
-Renal: acute renal failure (one case of irreversible renal failure has been reported), interstitial nephritis, renal stones composed primarily of triamterene, elevated BUN and serum creatinine, abnormal urinary sediment.
+## Metabolic
 
-Hematologic: leukopenia, thrombocytopenia and purpura, megaloblastic anemia.
+diabetes mellitus, hyperkalemia, hyperglycemia, glycosuria, hyperuricemia, hypokalemia, hyponatremia, acidosis, hypochloremia.
 
-Musculoskeletal: muscle cramps.
+## Gastrointestinal
 
-Central Nervous System: weakness, fatigue, dizziness, headache, dry mouth.
+jaundice and/or liver enzyme abnormalities, pancreatitis, nausea and vomiting, diarrhea, constipation, abdominal pain.
 
-Miscellaneous: impotence, sialadenitis.
+## Renal
+
+acute renal failure (one case of irreversible renal failure has been reported), interstitial nephritis, renal stones composed primarily of triamterene, elevated BUN and serum creatinine, abnormal urinary sediment.
+
+## Hematologic
+
+leukopenia, thrombocytopenia and purpura, megaloblastic anemia.
+
+## Musculoskeletal
+
+muscle cramps.
+
+## Central Nervous System
+
+weakness, fatigue, dizziness, headache, dry mouth.
+
+## Miscellaneous
+
+impotence, sialadenitis.
 
 Thiazides alone have been shown to cause the following additional adverse reactions:
 
-Central Nervous System: paresthesias, vertigo.
+## Central Nervous System
 
-Ophthalmic: xanthopsia, transient blurred vision.
+paresthesias, vertigo.
 
-Respiratory: allergic pneumonitis, pulmonary edema, respiratory distress.
+## Ophthalmic
 
-Other: necrotizing vasculitis, exacerbation of lupus.
+xanthopsia, transient blurred vision.
 
-Hematologic: aplastic anemia, agranulocytosis, hemolytic anemia.
+## Respiratory
 
-Neonate and Infancy: thrombocytopenia and pancreatitis – rarely, in newborns whose mothers have received thiazides during pregnancy.
+allergic pneumonitis, pulmonary edema, respiratory distress.
+
+## Other
+
+necrotizing vasculitis, exacerbation of lupus.
+
+## Hematologic
+
+aplastic anemia, agranulocytosis, hemolytic anemia.
+
+## Neonate and Infancy
+
+thrombocytopenia and pancreatitis – rarely, in newborns whose mothers have received thiazides during pregnancy.
