@@ -7,8 +7,8 @@ CLEOCIN PHOSPHATE is available in the following packages:
 | 25-2 mL vials | NDC 0009-0870-26 |
 | --- | --- |
 | 25-4 mL vials | NDC 0009-0775-26 |
-| 25-6 mL vials | NDC 0009-0902-11 |
-| 1-60 mL Pharmacy Bulk Package | NDC 0009-0728-05 |
+| 25-6 mL vials | NDC 0009-0902-18 |
+| 5-60 mL Pharmacy Bulk Package | NDC 0009-0728-09 |
 
 CLEOCIN PHOSPHATE is supplied in ADD-Vantage vials as follows:
 

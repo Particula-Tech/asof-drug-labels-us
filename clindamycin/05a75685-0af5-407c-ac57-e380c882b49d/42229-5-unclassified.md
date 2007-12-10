@@ -6,9 +6,9 @@ CLEOCIN PHOSPHATE in the ADD-Vantage™ Vial is For Intravenous Use Only
 
 Rx Only
 
-LAB-0044-4.0
+LAB-0044-6.0
 
-November 2005
+October 2007
 
 ™ADD-Vantage is a registered trademark of Abbott Laboratories
 
