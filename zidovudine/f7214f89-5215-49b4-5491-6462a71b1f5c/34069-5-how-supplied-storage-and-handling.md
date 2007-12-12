@@ -1,0 +1,29 @@
+# HOW SUPPLIED
+
+RETROVIR Tablets 300 mg (biconvex, white, round, film-coated) containing 300 mg zidovudine, one side engraved“GX CW3” and “300” on the other side.
+
+Bottle of 60 (NDC 0173-0501-00).
+
+Store at 15° to 25°C (59° to 77°F).
+
+RETROVIR Capsules 100 mg (white, opaque cap and body) containing 100 mg zidovudine and printed with “Wellcome” and unicorn logo on cap and “Y9C” and “100” on body.
+
+Bottles of 100 (NDC 0173-0108-55).
+
+Unit Dose Pack of 100 (NDC 0173-0108-56).
+
+Store at 15° to 25°C (59° to 77°F) and protect from moisture.
+
+RETROVIR Syrup (colorless to pale yellow, strawberry-flavored) containing 50 mg zidovudine in each teaspoonful (5 mL).
+
+Bottle of 240 mL (NDC 0173-0113-18) with child-resistant cap.
+
+Store at 15° to 25°C (59° to 77°F).
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2006, GlaxoSmithKline.
+All rights reserved.
+November 2006RL-2325
