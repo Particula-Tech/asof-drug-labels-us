@@ -20,7 +20,7 @@ The recommended dose of AVASTIN is 15 mg/kg, as an IV infusion every 3 weeks.
 There are no recommended dose reductions for the use of AVASTIN.
 If needed, AVASTIN should be either discontinued or temporarily suspended as described below.
 
-AVASTIN should be permanently discontinued in patients who develop gastrointestinal perforation, wound dehiscence requiring medical intervention, serious bleeding, a severe arterial thromboembolic event, nephrotic syndrome, hypertensive crisis or hypertensive encephalopathy.
+AVASTIN should be permanently discontinued in patients who develop gastrointestinal perforation, (gastrointestinal perforation, fistula formation in the gastrointestinal tract, intra‑abdominal abscess), fistula formation involving an internal organ, wound dehiscence requiring medical intervention, serious bleeding, a severe arterial thromboembolic event, nephrotic syndrome, hypertensive crisis or hypertensive encephalopathy.
 In patients developing RPLS, discontinue AVASTIN and initiate treatment of hypertension, if present.
 (See WARNINGS: Reversible Posterior Leukoencephalopathy Syndrome.)
 
@@ -28,7 +28,7 @@ Temporary suspension of AVASTIN is recommended in patients with evidence of mode
 The risk of continuation or temporary suspension of AVASTIN in patients with moderate to severe proteinuria is unknown.
 
 AVASTIN should be suspended at least several weeks prior to elective surgery.
-(See WARNINGS: Gastrointestinal Perforation andWound Healing Complications and PRECAUTIONS: Surgery).
+(See WARNINGS: Gastrointestinal Perforation and Wound Healing Complications and PRECAUTIONS: Surgery).
 AVASTIN should not be resumed until the surgical incision is fully healed.
 
 ## Preparation for Administration
@@ -38,7 +38,7 @@ Withdraw the necessary amount of AVASTIN to obtain the required dose and dilute 
 Discard any unused portion left in a vial, as the product contains no preservatives.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 
-Diluted AVASTIN solutions for infusion may be stored at 2–8°C (36–46°F) for up to 8 hours.
+Diluted AVASTIN solutions for infusion may be stored at 2°C–8°C (36°F–46°F) for up to 8 hours.
 No incompatibilities between AVASTIN and polyvinylchloride or polyolefin bags have been observed.
 
 AVASTIN infusions should not be administered or mixed with dextrose solutions.

@@ -1,5 +1,3 @@
-For Intravenous Use
-
 AVASTIN®
 
 (Bevacizumab)
@@ -14,12 +12,14 @@ Genentech, Inc.
 
 South San Francisco, CA 94080-4990
 
-7455309
+7455311
 
 LV0017
 
-4835701
+4835702
 
 Initial U.S. Approval: February 2004
 
-© 2006 Genentech, Inc
+Code Revision Date: September 2007
+
+© 2007 Genentech, Inc

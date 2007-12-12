@@ -3,6 +3,7 @@
 The most serious adverse reactions in patients receiving AVASTIN were:
 
 - Gastrointestinal Perforations (see WARNINGS)
+- Non-Gastrointestinal Fistula Formation (see WARNINGS)
 - Wound Healing Complications (see WARNINGS)
 - Hemorrhage (see WARNINGS)
 - Arterial Thromboembolic Events (see WARNINGS)
@@ -29,6 +30,10 @@ The incidence of gastrointestinal perforation, in some cases fatal, in patients 
 The incidence of gastrointestinal perforation in NSCLC patients receiving AVASTIN was 0.9% compared to 0% in patients receiving only chemotherapy.
 (See WARNINGS: Gastrointestinal Perforations and DOSAGE AND ADMINISTRATION: Dose Modifications.)
 
+### Non-Gastrointestinal Fistula Formation
+
+(See WARNINGS: Non‑Gastrointestinal Fistula Formation and DOSAGE AND ADMINISTRATION: Dose Modifications.)
+
 ### Would Healing Complications
 
 The incidence of post‑operative wound healing and/or bleeding complications was increased in patients with mCRC receiving AVASTIN as compared to patients receiving only chemotherapy.
@@ -37,7 +42,7 @@ In the same study, the incidence of wound dehiscence was also higher in the AVAS
 
 ### Hemorrhage
 
-Severe or fatal hemorrhages, including hemoptysis, gastrointestinal bleeding, hematemesis, CNS hemorrhage, epistaxis, and vaginal bleeding occurred up to five‑fold more frequently in AVASTIN treated patients compared to patients treated with chemotherapy alone.
+Severe or fatal hemorrhages, including hemoptysis, gastrointestinal bleeding, hematemesis, CNS hemorrhage, epistaxis, and vaginal bleeding occurred up to five‑fold more frequently in AVASTIN‑treated patients compared to patients treated with chemotherapy alone.
 NCI‑CTC Grade 3–5 hemorrhagic events occurred in 4.7% of NSCLC patients and 5.2% of mCRC patients receiving AVASTIN compared to 1.1% and 0.7% for the control groups respectively.
 (See WARNINGS: Hemorrhage.)
 
@@ -51,7 +56,7 @@ Additional mild to moderate hemorrhagic events reported more frequently in patie
 The incidence of arterial thromboembolic events was increased in NSCLC patients receiving PC plus AVASTIN (3.0%) compared with patients receiving PC alone (1.4%).
 Five events were fatal in the PC plus AVASTIN arm, compared with 1 event in the PC alone arm.
 This increased risk is consistent with that observed in patients with mCRC.
-(See WARNINGS: Arterial Thromboembolic Events, DOSAGE AND ADMINISTRATION: Dose Modifications and PRECAUTIONS: Geriatric Use.)
+(See WARNINGS: Arterial Thromboembolic Events, DOSAGE AND ADMINISTRATION: Dose Modifications and PRECAUTIONS:Geriatric Use.)
 
 ### Venous Thromboembolic Events
 
@@ -61,7 +66,7 @@ In Study 1, 53 patients (14%) on the bolus‑IFL plus AVASTIN arm and 30 patient
 Among these patients, an additional thromboembolic event occurred in 21% (11/53) of patients receiving bolus‑IFL plus AVASTIN and 3% (1/30) of patients receiving bolus‑IFL alone.
 
 The overall incidence of NCI‑CTC Grade 3–4 venous thromboembolic events in Study 1 was 15.1% in patients receiving bolus‑IFL plus AVASTIN and 13.6% in patients receiving bolus‑IFL plus placebo.
-In Study 1, the incidence of the following NCI‑CTC Grade 3 and 4 venous thromboembolic events was higher in patients receiving bolus‑IFL plus AVASTIN as compared to patients receiving bolus‑IFL plus placebo: deep venous thrombosis (34 vs. 19 patients) and intra abdominal venous thrombosis (10 vs. 5 patients).
+In Study 1, the incidence of the following NCI‑CTC Grade 3 and 4 venous thromboembolic events was higher in patients receiving bolus‑IFL plus AVASTIN as compared to patients receiving bolus‑IFL plus placebo: deep venous thrombosis (34 vs. 19 patients) and intra‑abdominal venous thrombosis (10 vs. 5 patients).
 
 ### Hypertension
 
@@ -92,7 +97,7 @@ During the first 6 cycles of treatment, the incidence of serious infections incl
 
 ### Proteinuria
 
-(See WARNINGS: Proteinuria, DOSAGE AND ADMINISTRATION: Dose Modifications, andPRECAUTIONS: Geriatric Use.)
+(See WARNINGS: Proteinuria, DOSAGE AND ADMINISTRATION: Dose Modifications, and PRECAUTIONS: Geriatric Use.)
 
 ### Immunogenicity
 
@@ -113,7 +118,7 @@ The median age was 60, 60% were male, 79% were Caucasian, 78% had a colon primar
 The median duration of exposure to AVASTIN was 8 months in Arm 2 and 7 months in Arm 3.
 Severe and life threatening (NCI‑CTC Grade 3 and 4) adverse events, which occurred at a higher incidence (≥2%) in patients receiving bolus‑IFL plus AVASTIN as compared to bolus‑IFL plus placebo, are presented in Table 4.
 
-Table 4: NCI‑CTC Grade 3 and 4 Adverse Events in Study 1(Occurring at Higher Incidence (≥2%) in AVASTIN vs. Control)
+Table 4: NCI‑CTC Grade 3 and 4 Adverse Events in Study 1 (Occurring at Higher Incidence (≥2%) in AVASTIN vs. Control)
 
 |  | Arm 1 IFL + Placebo (n = 396) | Arm 2 IFL + AVASTIN (n = 392) |
 | --- | --- | --- |
@@ -123,8 +128,8 @@ Table 4: NCI‑CTC Grade 3 and 4 Adverse Events in Study 1(Occurring at Higher I
 | Abdominal Pain | 20 (5%) | 32 (8%) |
 | Pain | 21 (5%) | 30 (8%) |
 | Cardiovascular |  |  |
-| Deep Vein Thrombosis | 19 (5%) | 34 (9%) |
 | Hypertension | 10 (2%) | 46 (12%) |
+| Deep Vein Thrombosis | 19 (5%) | 34 (9%) |
 | Intra‑Abdominal Thrombosis | 5 (1%) | 13 (3%) |
 | Syncope | 4 (1%) | 11 (3%) |
 | Digestive |  |  |
@@ -138,7 +143,7 @@ NCI‑CTC Grade 1–4 adverse events which occurred at a higher incidence (≥5%
 
 Table 5: NCI‑CTC Grade 1–4 Adverse Events in Study 1 (Occurring at Higher Incidence (≥5%) in IFL + AVASTIN vs. IFL)
 
-|  | Arm 1 IFL + Placebo (n = 98) | Arm 2 IFL + AVASTIN (n = 102) | Arm 3 5‑FU/LV+ AVASTIN (n = 109) |
+|  | Arm 1 IFL + Placebo (n = 98) | Arm 2 IFL + AVASTIN (n = 102) | Arm 3 5‑FU/LV + AVASTIN (n = 109) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Pain | 54 (55%) | 62 (61%) | 67 (62%) |
@@ -177,8 +182,8 @@ Table 5: NCI‑CTC Grade 1–4 Adverse Events in Study 1 (Occurring at Higher In
 
 The data in Table 6 were obtained in Study 3.
 Only NCI‑CTC Grade 3–5 non‑hematologic and Grade 4–5 hematologic adverse events related to treatment were reported.
-The median age was 61 years, 40% were female, 87% were Caucasian, 99% received prior chemotherapy for metastatic colorectal cancer, 26% had received prior radiation therapy, and 49% had an ECOG performance status of 0.
-Selected NCI CTC Grade 3–5 non hematologic and Grade 4–5 hematologic adverse events which occurred at a higher incidence in patients receiving FOLFOX4 plus AVASTIN as compared to those who received FOLFOX4 alone, are presented in Table 6.
+The median age was 61 years, 40% were female, 87% were Caucasian, 99% received prior chemotherapy for metastatic colorectal cancer, 26% had received prior radiation therapy, and the 49% had an ECOG performance status of 0.
+Selected NCI‑CTC Grade 3–5 non‑hematologic and Grade 4–5 hematologic adverse events which occurred at a higher incidence in patients receiving FOLFOX4 plus AVASTIN as compared to those who received FOLFOX4 alone, are presented in Table 6.
 These data are likely to under‑estimate the true adverse event rates due to the reporting mechanisms used in Study 3.
 
 Table 6: NCI‑CTC Grade 3–5 Non‑Hematologic and Grade 4–5 Hematologic Adverse Events in Study 3 (Occurring at Higher Incidence (≥2%) with AVASTIN + FOLFOX4 vs. FOLFOX4)
@@ -216,9 +221,9 @@ NCI CTC Grade 3, 4, and 5 adverse events that occurred at a ≥2% higher inciden
 
 Table 7: NCI‑CTC Grade 3–5 Non‑Hematologic and Grade 4 and 5 Hematologic Adverse Events in Study 5 (Occurring at a ≥2% Higher Incidence in AVASTIN‑Treated Patients Compared with Control)
 
-| NCI‑CTC Category TermEvents were reported and graded according to NCI‑CTC, Version 2.0. Per protocol, investigators were required to report NCI‑CTC Grade 3–5 non‑hematologic and Grade 4 and 5 hematologic events. | PC (n=441) | PC + AVASTIN (n=427) |
+| PC (n=441) | PC + AVASTIN (n=427) |  |
 | --- | --- | --- |
-|  | No.(%) of NSCLC Patients |  |
+| NCI‑CTC Category TermEvents were reported and graded according to NCI-CTC, Version 2.0. Per protocol, investigators were required to report NCI-CTC Grade 3–5 non‑hematologic and Grade 4 and 5 hematologic events. | No.(%) of NSCLC Patients |  |
 | Any event | 286 (65%) | 334 (78%) |
 | Blood/bone marrow |  |  |
 | Neutropenia | 76 (17%) | 113 (27%) |

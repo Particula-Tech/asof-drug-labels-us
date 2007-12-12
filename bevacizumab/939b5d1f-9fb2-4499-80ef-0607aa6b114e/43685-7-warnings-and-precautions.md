@@ -9,13 +9,23 @@ In Studies 1, 2, and 3, the incidence of gastrointestinal perforation (gastroint
 These episodes occurred with or without intra‑abdominal abscesses and at various time points during treatment.
 The typical presentation was reported as abdominal pain associated with symptoms such as constipation and emesis.
 
-In post‑marketing clinical studies and reports, gastrointestinal perforation, fistula and/or intra‑abdominal abscess occurred in patients receiving AVASTIN for colorectal and for other types of cancer.
+In post‑marketing clinical studies and reports, gastrointestinal perforation, fistula formation in the gastrointestinal tract (eg. gastrointestinal, enterocutaneous, esophageal, duodenal, rectal), and/or intra‑abdominal abscess occurred in patients receiving AVASTIN for colorectal and for other types of cancer.
 The overall incidence in clinical studies was 1%, but may be higher in some cancer settings.
 Of the reported events, approximately 30% were fatal.
 Patients with gastrointestinal perforation, regardless of underlying cancer, typically present with abdominal pain, nausea and fever.
 Events were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of AVASTIN, with most events occurring within the first 50 days.
 
-Permanently discontinue AVASTIN therapy in patients with gastrointestinal perforation.
+Permanently discontinue AVASTIN therapy in patients with gastrointestinal perforation (gastrointestinal perforation, fistula formation, and/or intra‑abdominal abscess).
+
+## Non‑Gastrointestinal Fistula Formation
+
+(See DOSAGE AND ADMINISTRATION: Dose Modifications)
+
+Non-gastrointestinal fistula formation has been reported in patients treated with AVASTIN in controlled clinical studies (with an incidence of <0.3%) and in post-marketing experience, in some cases with fatal outcome.
+Fistula formation involving the following areas of the body other than the gastrointestinal tract have been reported: (tracheo‑esophageal, bronchopleural, biliary, vagina and bladder).
+Events were reported throughout treatment with Avastin, with most events occurring within the first 6 months.
+
+Permanently discontinue AVASTIN in patients with fistula formation involving an internal organ.
 
 ## Wound Healing Complications
 
@@ -59,7 +69,7 @@ Discontinue AVASTIN in patients with serious hemorrhage (i.e., requiring medical
 
 ## Arterial Thromboembolic Events
 
-(See DOSAGE AND ADMINISTRATION: Dose Modifications, and PRECAUTIONS: Geriatric Use)
+(See DOSAGE AND ADMINISTRATION: Dose Modifications and PRECAUTIONS: Geriatric Use)
 
 Arterial thromboembolic events (ATE) occurred at a higher incidence in patients receiving AVASTIN in combination with chemotherapy as compared to those receiving chemotherapy alone.
 ATE included cerebral infarction, transient ischemic attacks (TIAs), myocardial infarction (MI), angina, and a variety of other ATE.
@@ -110,7 +120,7 @@ The safety of reinitiating AVASTIN therapy in patients previously experiencing R
 
 ## Neutropenia and Infection
 
-(See PRECAUTIONS: Geriatric Use and ADVERSE REACTIONS: Neutropenia and Infection)
+(See PRECAUTIONS: Geriatric Use and ADVERSE REACTIONS: Neutropenia and Infection.)
 
 Increased rates of severe neutropenia, febrile neutropenia, and infection with severe neutropenia (including some fatalities) have been observed in patients treated with myelosuppressive chemotherapy plus AVASTIN.
 (See PRECAUTIONS: Geriatric Use and ADVERSE REACTIONS: Neutropenia and Infection.)
@@ -119,7 +129,7 @@ Increased rates of severe neutropenia, febrile neutropenia, and infection with s
 
 (See DOSAGE AND ADMINISTRATION: Dose Modifications)
 
-The incidence of proteinuria is increased in patients receiving AVASTIN as compared to control.
+The incidence and severity of proteinuria is increased in patients receiving AVASTIN as compared to control.
 In Studies 1, 3 and 5, the incidence of NCI‑CTC Grade 3 and 4 proteinuria, characterized as >3.5 gm/24 hours, ranged up to 3.0% in AVASTIN‑treated patients.
 
 Nephrotic syndrome occurred in seven of 1459 (0.5%) patients receiving AVASTIN in clinical studies.
@@ -127,13 +137,12 @@ One patient died and one required dialysis.
 In three patients, proteinuria decreased in severity several months after discontinuation of AVASTIN.
 No patient had normalization of urinary protein levels (by 24 hour urine) following discontinuation of AVASTIN.
 
-The highest incidence of proteinuria was observed in a dose‑ranging, placebo‑controlled, randomized study of AVASTIN in patients with metastatic renal cell carcinoma, an indication for which AVASTIN is not approved.
-Twenty‑four hour urine collections were obtained in approximately half the patients enrolled.
+The highest incidence of proteinuria was observed in a dose‑ranging, placebo‑controlled, randomized study of AVASTIN in patients with metastatic renal cell carcinoma, an indication for which AVASTIN is not approved, 24‑hour urine collections were obtained in approximately half the patients enrolled.
 Among patients in whom 24‑hour urine collections were obtained, four of 19 (21%) patients receiving AVASTIN at 10 mg/kg every two weeks, two of 14 (14%) patients receiving AVASTIN at 3 mg/kg every two weeks, and none of the 15 placebo patients experienced NCI‑CTC Grade 3 proteinuria (>3.5 gm protein/24 hours).
 
 Discontinue AVASTIN in patients with nephrotic syndrome.
 The safety of continued AVASTIN treatment in patients with moderate to severe proteinuria has not been evaluated.
-In most clinical studies, AVASTIN was interrupted for≥ 2 grams of proteinuria/24 hours and resumed when proteinuria was< 2 gm/24 hours.
+In most clinical studies, AVASTIN was interrupted for ≥2 grams of proteinuria/24 hours and resumed when proteinuria was <2 gm/24 hours.
 Patients with moderate to severe proteinuria based on 24‑hour collections should be monitored regularly until improvement and/or resolution is observed.
 (See DOSAGE AND ADMINISTRATION: Dose Modifications.)
 
@@ -183,7 +192,7 @@ Patients with AVASTIN‑induced or ‑exacerbated hypertension who discontinue A
 
 Patients receiving AVASTIN should be monitored for the development or worsening of proteinuria with serial urinalyses.
 Patients with a 2+ or greater urine dipstick reading should undergo further assessment, e.g., a 24‑hour urine collection.
-(See WARNINGS: Proteinuria andDOSAGE AND ADMINISTRATION: Dose Modifications.)
+(See WARNINGS: Proteinuria and DOSAGE AND ADMINISTRATION: Dose Modifications.)
 
 ## DRUG INTERACTIONS
 
@@ -225,7 +234,7 @@ Patients who discontinue AVASTIN should also be counseled concerning the prolong
 It is not known whether AVASTIN is secreted in human milk.
 Because human IgG1 is secreted into human milk, the potential for absorption and harm to the infant after ingestion is unknown.
 Women should be advised to discontinue nursing during treatment with AVASTIN and for a prolonged period following the use of AVASTIN, taking into account the half‑life of the product, approximately 20 days [range 11– 50 days].
-(SeeCLINICAL PHARMACOLOGY: Pharmacokinetics.)
+(See CLINICALPHARMACOLOGY:Pharmacokineticss.)
 
 ## PEDIATRIC USE
 
@@ -251,4 +260,4 @@ Adverse events of any severity that occurred at a higher incidence in the elderl
 In an exploratory, pooled analysis of 1745 patients treated in five randomized, controlled studies, there were 618 (35%) patients age 65 or older and 1127 patients less than 65 years of age.
 The overall incidence of arterial thromboembolic events was increased in all patients receiving AVASTIN with chemotherapy as compared to those receiving chemotherapy alone, regardless of age.
 However, the increase in arterial thromboembolic events incidence was greater in patients 65 and over (8.5% vs. 2.9%) as compared to those less than 65 (2.1% vs. 1.4%).
-(SeeWARNINGS: Arterial Thromboembolic Events.)
+(See WARNINGS: Arterial Thromboembolic Events)

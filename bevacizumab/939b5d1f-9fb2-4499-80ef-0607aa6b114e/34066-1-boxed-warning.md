@@ -15,7 +15,7 @@ AVASTIN therapy should be permanently discontinued in patients with gastrointest
 AVASTIN administration can result in the development of wound dehiscence, in some instances resulting in fatality.
 AVASTIN therapy should be permanently discontinued in patients with wound dehiscence requiring medical intervention.
 The appropriate interval between termination of AVASTIN and subsequent elective surgery required to avoid the risks of impaired wound healing⁄wound dehiscence has not been determined.
-(See WARNINGS: Wound Healing Complications andDOSAGE AND ADMINISTRATION: Dose Modifications.)
+(See WARNINGS: Wound Healing Complications and DOSAGE AND ADMINISTRATION: Dose Modifications.)
 
 ## Hemorrhage
 

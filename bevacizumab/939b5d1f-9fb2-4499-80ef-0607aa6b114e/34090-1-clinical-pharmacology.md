@@ -3,7 +3,7 @@
 ## MECHANISM OF ACTION
 
 Bevacizumab binds VEGF and prevents the interaction of VEGF to its receptors (Flt‑1 and KDR) on the surface of endothelial cells.
-The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitromodels of angiogenesis.
+The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitro models of angiogenesis.
 Administration of Bevacizumab to xenotransplant models of colon cancer in nude (athymic) mice caused reduction of microvascular growth and inhibition of metastatic disease progression.
 
 ## PHARMACOKINETICS
