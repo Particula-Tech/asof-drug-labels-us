@@ -1,12 +1,15 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.3).]
+See FDA-Approved Patient Labeling.
 
 ## 17.1 Instructions
 
 Patients should be informed of the potential risks and benefits of JANUVIA and of alternative modes of therapy.
 Patients should also be informed about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and A1C testing, recognition and management of hypoglycemia and hyperglycemia, and assessment for diabetes complications.
 During periods of stress such as fever, trauma, infection, or surgery, medication requirements may change and patients should be advised to seek medical advice promptly.
+
+Patients should be informed that allergic reactions have been reported during postmarketing use of JANUVIA.
+If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUVIA and seek medical advice promptly.
 
 Physicians should instruct their patients to read the Patient Package Insert before starting JANUVIA therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
@@ -22,17 +25,13 @@ Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 – Pavia, Italy
 
-Printed in USA
-
-9762702
+9762704
 
 US Patent No.: 6,699,871
 
 1Trademark of MERCK & CO., Inc., Whitehouse Station, New Jersey 08889 USA COPYRIGHT © 2006, 2007 MERCK & CO., Inc. All rights reserved
 
-## 17.3 FDA-Approved Patient Labeling
-
-Patient Information
+FDA-Approved Patient Labeling Patient Information
 
 JANUVIA™ (jah-NEW-vee-ah)
 
@@ -46,7 +45,7 @@ This leaflet does not take the place of talking with your doctor about your medi
 
 What is JANUVIA?
 
-JANUVIA is a prescription medicine used along with diet and exercise to lower blood sugar in patients with type 2 diabetes mellitus (type 2 diabetes).
+JANUVIA is a prescription medicine used along with diet and exercise to lower blood sugar in adult patients with type 2 diabetes.
 JANUVIA may be taken alone or along with certain other medicines to control blood sugar.
 
 - JANUVIA lowers blood sugar when blood sugar is high, especially after a meal.
@@ -57,37 +56,38 @@ JANUVIA may be taken alone or along with certain other medicines to control bloo
 
 JANUVIA has not been studied in children under 18 years of age.
 
-JANUVIA has not been studied with medicines known to cause low blood sugar, such as sulfonylureas or insulin.
-Ask your doctor if you are taking a sulfonylurea or other medicine that can cause low blood sugar.
+JANUVIA has not been studied with insulin, a medicine known to cause low blood sugar.
 
 Who should not take JANUVIA?
 
+Do not take JANUVIA if you:
+
+- have had an allergic reaction to JANUVIA.
+
 JANUVIA should not be used to treat patients with:
 
-- Type 1 diabetes mellitus
+- Type 1 diabetes.
 - Diabetic ketoacidosis (increased ketones in the blood or urine).
 
 What should I tell my doctor before and during treatment with JANUVIA?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- have any allergies
-- have kidney problems
-- are pregnant or plan to become pregnant, because JANUVIA may not be right for you.
+- have had an allergic reaction to JANUVIA.
+- have kidney problems.
+- are pregnant or plan to become pregnant.
   It is not known if JANUVIA will harm your unborn baby.
   If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.
   If you use JANUVIA during pregnancy, talk with your doctor about how you can be on the JANUVIA registry.
   The toll-free telephone number for the pregnancy registry is: 1-800-986-8999.
 - are breast-feeding or plan to breast-feed.
-  JANUVIA may be passed in your milk to your baby.
+  It is not known if JANUVIA will pass into your breast milk.
   Talk with your doctor about the best way to feed your baby if you are taking JANUVIA.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
-
-During periods of stress on the body, such as fever, trauma, infection or surgery, your medication needs may change; contact your doctor right away.
 
 How should I take JANUVIA?
 
@@ -97,15 +97,13 @@ How should I take JANUVIA?
 - If you have kidney problems, your doctor may prescribe lower doses of JANUVIA.
   Your doctor may perform blood tests on you from time to time to measure how well your kidneys are working.
 - Your doctor may prescribe JANUVIA along with certain other medicines that lower blood sugar.
+- If you miss a dose, take it as soon as you remember.
+  If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule.
+  Do not take two doses of JANUVIA at the same time.
+- If you take too much JANUVIA, call your doctor or local Poison Control Center right away.
 
-If you miss a dose, take it as soon as you remember.
-If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule.
-Do not take a double dose of JANUVIA.
-
-If you take too much JANUVIA, call your doctor or local Poison Control Center right away.
-
-What else should I know about blood sugar control?
-
+- When your body is under some types of stress, such as fever, trauma (such as a car accident), infection or surgery, the amount of diabetes medicine that you need may change.
+  Tell your doctor right away if you have any of these conditions and follow your doctor’s instructions.
 - Monitor your blood sugar as your doctor tells you to.
 - Stay on your prescribed diet and exercise program while taking JANUVIA.
 - Talk to your doctor about how to prevent, recognize and manage low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and complications of diabetes.
@@ -121,14 +119,19 @@ The most common side effects of JANUVIA include:
 
 JANUVIA may occasionally cause stomach discomfort and diarrhea.
 
+When JANUVIA is used in combination with another type of diabetes medicine known as a sulfonylurea, low blood sugar (hypoglycemia) due to the sulfonylurea can occur.
+Your doctor may prescribe lower doses of the sulfonylurea medicine.
+
 The following additional side effects have been reported in general use with JANUVIA:
 
-- Allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing, rash, and hives.
+- Allergic reactions, which may be serious, including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing.
+  If you have an allergic reaction, stop taking JANUVIA and call your doctor right away.
+  Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 Other side effects may occur when using JANUVIA.
-For more information, ask your doctor or pharmacist.
+For more information, ask your doctor.
 
 How should I store JANUVIA?
 
@@ -146,7 +149,7 @@ It may harm them.
 This leaflet summarizes the most important information about JANUVIA.
 If you would like to know more information, talk with your doctor.
 You can ask your doctor or pharmacist for additional information about JANUVIA that is written for health professionals.
-For more information go to www.JANUVIA.com OR CALL 1-800-622-4477.
+For more information call 1-800-622-4477.
 
 What are the ingredients in JANUVIA?
 
@@ -167,11 +170,11 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Issued April 2007
+Revised October 2007
 
 Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 - Pavia, Italy
 
-9762702
+9762704

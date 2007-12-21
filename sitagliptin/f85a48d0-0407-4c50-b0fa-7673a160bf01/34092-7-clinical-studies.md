@@ -1,7 +1,11 @@
 # 14. CLINICAL STUDIES
 
-There were 2316 patients with type 2 diabetes randomized in four double-blind, placebo-controlled clinical safety and efficacy studies conducted to evaluate the effects of sitagliptin on glycemic control.
-In these studies, the mean age of patients was 54.8 years, and 62% of patients were white, 18% were Hispanic, 6% were black, 9% were Asian, and 4% were of other racial groups.
+JANUVIA has been studied as monotherapy and in combination with metformin, pioglitazone, glimepiride, and glimepiride+metformin.
+
+There were approximately 3800 patients with type 2 diabetes randomized in six double-blind, placebo-controlled clinical safety and efficacy studies conducted to evaluate the effects of sitagliptin on glycemic control.
+The ethnic/racial distribution in these studies was approximately 60% white, 20% Hispanic, 8% Asian, 6% black, and 6% other groups.
+Patients had an overall mean age of approximately 55 years (range 18 to 87 years).
+In addition, an active (glipizide)-controlled study of 52-weeks duration was conducted in 1172 patients with type 2 diabetes who had inadequate glycemic control on metformin.
 
 In patients with type 2 diabetes, treatment with JANUVIA produced clinically significant improvements in hemoglobin A1C, fasting plasma glucose (FPG) and 2-hour post-prandial glucose (PPG) compared to placebo.
 
@@ -13,16 +17,17 @@ Patients with inadequate glycemic control (A1C 7% to 10%) after the wash-out per
 In the 18-week study, 521 patients were randomized to placebo, JANUVIA 100 mg, or JANUVIA 200 mg, and in the 24-week study 741 patients were randomized to placebo, JANUVIA 100 mg, or JANUVIA 200 mg.
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue, added on to placebo or JANUVIA.
 
-Treatment with JANUVIA at 100 mg daily provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo (Table 2).
+Treatment with JANUVIA at 100 mg daily provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo (Table 3).
 In the 18-week study, 9% of patients receiving JANUVIA 100 mg and 17% who received placebo required rescue therapy.
 In the 24-week study, 9% of patients receiving JANUVIA 100 mg and 21% of patients receiving placebo required rescue therapy.
-The improvement in A1C was not affected by gender, age, race, or baseline BMI.
-As is typical for trials of agents to treat type 2 diabetes, mean response to JANUVIA in A1C lowering appears to be related to the degree of A1C elevation at baseline.
+The improvement in A1C compared to placebo was not affected by gender, age, race, prior antihyperglycemic therapy, or baseline BMI.
+As is typical for trials of agents to treat type 2 diabetes, the mean reduction in A1C with JANUVIA appears to be related to the degree of A1C elevation at baseline.
+In these 18- and 24-week studies, among patients who were not on an antihyperglycemic agent at study entry, the reductions from baseline in A1C were -0.7% and -0.8%, respectively, for those given JANUVIA, and -0.1% and -0.2%, respectively, for those given placebo.
 Overall, the 200 mg daily dose did not provide greater glycemic efficacy than the 100 mg daily dose.
 The effect of JANUVIA on lipid endpoints was similar to placebo.
 Body weight did not increase from baseline with JANUVIA therapy in either study, compared to a small reduction in patients given placebo.
 
-Table 2 Glycemic Parameters in 18- and 24-Week Placebo-Controlled Studies of JANUVIA in Patients with Type 2 DiabetesIntent to Treat Population using last observation on study prior to metformin rescue therapy.
+Table 3 Glycemic Parameters in 18- and 24-Week Placebo-Controlled Studies of JANUVIA in Patients with Type 2 DiabetesIntent to Treat Population using last observation on study prior to metformin rescue therapy.
 
 |  | 18-Week Study |  | 24-Week Study |  |
 | --- | --- | --- | --- | --- |
@@ -52,19 +57,19 @@ In addition, the reductions in A1C and FPG with JANUVIA compared to placebo were
 
 ## 14.2 Combination Therapy
 
-Combination Therapy with Metformin
+Add-on Combination Therapy with Metformin
 
 A total of 701 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of JANUVIA in combination with metformin.
 Patients already on metformin (N=431) at a dose of at least 1500 mg per day were randomized after completing a 2-week single-blind placebo run-in period.
-Patients on metformin and another antihyperglycemic agent (N = 229) and patients not on any antihyperglycemic agents (off therapy for at least 8 weeks, N = 41) were randomized after a run-in period of approximately 10 weeks on metformin (at a dose of at least 1500 mg per day) in monotherapy.
-Patients were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
+Patients on metformin and another antihyperglycemic agent (N=229) and patients not on any antihyperglycemic agents (off therapy for at least 8 weeks, N=41) were randomized after a run-in period of approximately 10 weeks on metformin (at a dose of at least 1500 mg per day) in monotherapy.
+Patients with inadequate glycemic control (A1C 7% to 10%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with pioglitazone rescue.
 
-In combination with metformin, JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin (Table 3).
+In combination with metformin, JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin (Table 4).
 Rescue glycemic therapy was used in 5% of patients treated with JANUVIA 100 mg and 14% of patients treated with placebo.
 A similar decrease in body weight was observed for both treatment groups.
 
-Table 3 Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Combination with MetforminIntent to Treat Population using last observation on study prior to pioglitazone rescue therapy.
+Table 4 Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Add-on Combination Therapy with MetforminIntent to Treat Population using last observation on study prior to pioglitazone rescue therapy.
 
 |  | JANUVIA 100 mg + Metformin | Placebo + Metformin |
 | --- | --- | --- |
@@ -82,19 +87,87 @@ Table 3 Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Combin
 | Change from baseline (adjusted mean) | -62 | -11 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -51 (-61, -41) |  |
 
-Combination Therapy with Pioglitazone
+Initial Combination Therapy with Metformin
+
+A total of 1091 patients with type 2 diabetes and inadequate glycemic control on diet and exercise participated in a 24-week, randomized, double-blind, placebo-controlled factorial study designed to assess the efficacy of sitagliptin as initial therapy in combination with metformin.
+Patients on an antihyperglycemic agent (N=541) discontinued the agent, and underwent a diet, exercise, and drug washout period of up to 12 weeks duration.
+After the washout period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized after completing a 2-week single-blind placebo run-in period.
+Patients not on antihyperglycemic agents at study entry (N=550) with inadequate glycemic control (A1C 7.5% to 11%) immediately entered the 2-week single-blind placebo run-in period and then were randomized.
+Approximately equal numbers of patients were randomized to receive initial therapy with placebo, 100 mg of JANUVIA once daily, 500 mg or 1000 mg of metformin twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1000 mg of metformin twice daily.
+Patients who failed to meet specific glycemic goals during the study were treated with glyburide (glibenclamide) rescue.
+
+Initial therapy with the combination of JANUVIA and metformin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to JANUVIA alone (Table 5, Figure 1).
+Mean reductions from baseline in A1C were generally greater for patients with higher baseline A1C values.
+For patients not on an antihyperglycemic agent at study entry, mean reductions from baseline in A1C were: JANUVIA 100 mg once daily, -1.1%; metformin 500 mg bid, -1.1%; metformin 1000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin 1000 mg bid, -1.9%; and for patients receiving placebo, -0.2%.
+Lipid effects were generally neutral.
+The decrease in body weight in the groups given sitagliptin in combination with metformin was similar to that in the groups given metformin alone or placebo.
+
+Table 5: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and Metformin, Alone and in Combination as Initial TherapyIntent to Treat Population using last observation on study prior to glyburide (glibenclamide) rescue therapy.
+
+|  | Placebo | Sitagliptin(JANUVIA)100 mg QD | Metformin 500 mg bid | Metformin 1000 mg bid | Sitagliptin 50 mg bid + Metformin 500 mg bid | Sitagliptin 50 mg bid + Metformin 1000 mg bid |
+| --- | --- | --- | --- | --- | --- | --- |
+| A1C (%) | N = 165 | N = 175 | N = 178 | N = 177 | N = 183 | N = 178 |
+| Baseline (mean) | 8.7 | 8.9 | 8.9 | 8.7 | 8.8 | 8.8 |
+| Change from baseline (adjusted meanLeast squares means adjusted for prior antihyperglycemic therapy status and baseline value.) | 0.2 | -0.7 | -0.8 | -1.1 | -1.4 | -1.9 |
+| Difference from placebo (adjusted mean) (95% CI) |  | -0.8p<0.001 compared to placebo. (-1.1, -0.6) | -1.0 (-1.2, -0.8) | -1.3 (-1.5, -1.1) | -1.6 (-1.8, -1.3) | -2.1 (-2.3, -1.8) |
+| Patients (%) achieving A1C <7% | 15 (9%) | 35 (20%) | 41 (23%) | 68 (38%) | 79 (43%) | 118 (66%) |
+| % Patients receiving rescue medication | 32 | 21 | 17 | 12 | 8 | 2 |
+| FPG (mg/dL) | N = 169 | N = 178 | N = 179 | N = 179 | N = 183 | N = 180 |
+| Baseline (mean) | 196 | 201 | 205 | 197 | 204 | 197 |
+| Change from baseline (adjusted mean) | 6 | -17 | -27 | -29 | -47 | -64 |
+| Difference from placebo (adjusted mean) (95% CI) |  | -23 (-33, -14) | -33 (-43, -24) | -35 (-45, -26) | -53 (-62, -43) | -70 (-79, -60) |
+| 2-hour PPG (mg/dL) | N = 129 | N = 136 | N = 141 | N = 138 | N = 147 | N = 152 |
+| Baseline (mean) | 277 | 285 | 293 | 283 | 292 | 287 |
+| Change from baseline (adjusted mean) | 0 | -52 | -53 | -78 | -93 | -117 |
+| Difference from placebo (adjusted mean) (95% CI) |  | -52 (-67, -37) | -54 (-69, -39) | -78 (-93, -63) | -93 (-107, -78) | -117 (-131, -102) |
+
+In addition, this study included patients (N=117) with more severe hyperglycemia (A1C >11% or blood glucose >280 mg/dL) who were treated with twice daily open-label JANUVIA 50 mg and metformin 1000 mg.
+In this group of patients, the mean baseline A1C value was 11.2%, mean FPG was 314 mg/dL, and mean 2-hour PPG was 441 mg/dL.
+After 24 weeks, mean decreases from baseline of -2.9% for A1C, -127 mg/dL for FPG, and -208 mg/dL for 2-hour PPG were observed.
+
+Initial combination therapy or maintenance of combination therapy may not be appropriate for all patients.
+These management options are left to the discretion of the health care provider.
+
+Active-Controlled Study vs Glipizide in Combination with Metformin
+
+The efficacy of JANUVIA was evaluated in a 52-week, double-blind, glipizide-controlled noninferiority trial in patients with type 2 diabetes.
+Patients not on treatment or on other antihyperglycemic agents entered a run-in treatment period of up to 12 weeks duration with metformin monotherapy (dose of ≥1500 mg per day) which included washout of medications other than metformin, if applicable.
+After the run-in period, those with inadequate glycemic control (A1C 6.5% to 10%) were randomized 1:1 to the addition of JANUVIA 100 mg once daily or glipizide for 52 weeks.
+Patients receiving glipizide were given an initial dosage of 5 mg/day and then electively titrated over the next 18 weeks to a maximum dosage of 20 mg/day as needed to optimize glycemic control.
+Thereafter, the glipizide dose was to be kept constant, except for down-titration to prevent hypoglycemia.
+The mean dose of glipizide after the titration period was 10 mg.
+
+After 52 weeks, JANUVIA and glipizide had similar mean reductions from baseline in A1C in the intent-to-treat analysis (Table 6).
+These results were consistent with the per protocol analysis (Figure 2).
+A conclusion in favor of the non-inferiority of JANUVIA to glipizide may be limited to patients with baseline A1C comparable to those included in the study (over 70% of patients had baseline A1C <8% and over 90% had A1C <9%).
+
+Table 6: Glycemic Parameters in a 52-Week Study Comparing JANUVIA to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The Intent to Treat Population Analysis used the patients' last observation in the study prior to discontinuation.
+
+|  | JANUVIA 100 mg | Glipizide |
+| --- | --- | --- |
+| A1C (%) | N = 576 | N = 559 |
+| Baseline (mean) | 7.7 | 7.6 |
+| Change from baseline (adjusted meanLeast squares means adjusted for prior antihyperglycemic therapy status and baseline A1C value.) | -0.5 | -0.6 |
+| FPG (mg/dL) | N = 583 | N = 568 |
+| Baseline (mean) | 166 | 164 |
+| Change from baseline (adjusted mean) | -8 | -8 |
+
+The incidence of hypoglycemia in the JANUVIA group (4.9%) was significantly (p<0.001) lower than that in the glipizide group (32.0%).
+Patients treated with JANUVIA exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 kg vs +1.1 kg).
+
+Add-on Combination Therapy with Pioglitazone
 
 A total of 353 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of JANUVIA in combination with pioglitazone.
 Patients on any oral antihyperglycemic agent in monotherapy (N=212) or on a PPARγ agent in combination therapy (N=106) or not on an antihyperglycemic agent (off therapy for at least 8 weeks, N=34) were switched to monotherapy with pioglitazone (at a dose of 30-45 mg per day), and completed a run-in period of approximately 12 weeks in duration.
-After the run-in period on pioglitazone monotherapy, patients were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
+After the run-in period on pioglitazone monotherapy, patients with inadequate glycemic control (A1C 7% to 10%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue.
-Glycemic endpoints measured included A1C and fasting glucose.
+Glycemic endpoints measured were A1C and fasting glucose.
 
-In combination with pioglitazone, JANUVIA provided significant improvements in A1C and FPG compared to placebo with pioglitazone (Table 4).
+In combination with pioglitazone, JANUVIA provided significant improvements in A1C and FPG compared to placebo with pioglitazone (Table 7).
 Rescue therapy was used in 7% of patients treated with JANUVIA 100 mg and 14% of patients treated with placebo.
 There was no significant difference between JANUVIA and placebo in body weight change.
 
-Table 4 Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Combination with PioglitazoneIntent to Treat Population using last observation on study prior to metformin rescue therapy.
+Table 7 Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Add-on Combination Therapy with PioglitazoneIntent to Treat Population using last observation on study prior to metformin rescue therapy.
 
 |  | JANUVIA 100 mg + Pioglitazone | Placebo + Pioglitazone |
 | --- | --- | --- |
@@ -107,3 +180,31 @@ Table 4 Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Combin
 | Baseline (mean) | 168 | 166 |
 | Change from baseline (adjusted mean) | -17 | 1 |
 | Difference from placebo + pioglitazone (adjusted mean) (95% CI) | -18 (-24, -11) |  |
+
+Add-on Combination Therapy with Glimepiride, with or without Metformin
+
+A total of 441 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of JANUVIA in combination with glimepiride, with or without metformin.
+Patients entered a run-in treatment period on glimepiride (≥4 mg per day) alone or glimepiride in combination with metformin (≥1500 mg per day).
+After a dose-titration and dose-stable run-in period of up to 16 weeks and a 2-week placebo run-in period, patients with inadequate glycemic control (A1C 7.5% to 10.5%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
+Patients who failed to meet specific glycemic goals during the studies were treated with pioglitazone rescue.
+
+In combination with glimepiride, with or without metformin, JANUVIA provided significant improvements in A1C and FPG compared to placebo (Table 8).
+In the entire study population (patients on JANUVIA in combination with glimepiride and patients on JANUVIA in combination with glimepiride and metformin), a mean reduction from baseline relative to placebo in A1C of -0.7% and in FPG of -20 mg/dL was seen.
+Rescue therapy was used in 12% of patients treated with JANUVIA 100 mg and 27% of patients treated with placebo.
+In this study, patients treated with JANUVIA had a mean increase in body weight of 1.1 kg vs. placebo (+0.8 kg vs. -0.4 kg).
+In addition, there was an increased rate of hypoglycemia.
+[See Warnings and Precautions (5.2); Adverse Reactions (6.1).]
+
+Table 8: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Combination with Glimepiride, with or without MetforminIntent to Treat Population using last observation on study prior to pioglitazone rescue therapy.
+
+|  | JANUVIA 100 mg + Glimepiride | Placebo + Glimepiride | JANUVIA 100 mg + Glimepiride + Metformin | Placebo + Glimepiride + Metformin |
+| --- | --- | --- | --- | --- |
+| A1C (%) | N = 102 | N = 103 | N = 115 | N = 105 |
+| Baseline (mean) | 8.4 | 8.5 | 8.3 | 8.3 |
+| Change from baseline (adjusted meanLeast squares means adjusted for prior antihyperglycemic therapy status and baseline value.) | -0.3 | 0.3 | -0.6 | 0.3 |
+| Difference from placebo (adjusted mean) (95% CI) | -0.6p<0.001 compared to placebo. (-0.8, -0.3) |  | -0.9 (-1.1, -0.7) |  |
+| Patients (%) achieving A1C <7% | 11 (11%) | 9 (9%) | 26 (23%) | 1 (1%) |
+| FPG (mg/dL) | N = 104 | N = 104 | N = 115 | N = 109 |
+| Baseline (mean) | 183 | 185 | 179 | 179 |
+| Change from baseline (adjusted mean) | -1 | 18 | -8 | 13 |
+| Difference from placebo (adjusted mean) (95% CI) | -19p<0.01 compared to placebo. (-32, -7) |  | -21 (-32, -10) |  |

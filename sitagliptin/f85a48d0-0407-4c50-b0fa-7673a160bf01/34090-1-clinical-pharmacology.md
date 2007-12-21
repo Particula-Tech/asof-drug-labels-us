@@ -20,6 +20,11 @@ In patients with type 2 diabetes, administration of JANUVIA led to inhibition of
 After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 3-fold increase in circulating levels of active GLP-1 and GIP, decreased glucagon concentrations, and increased responsiveness of insulin release to glucose, resulting in higher C-peptide and insulin concentrations.
 The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
 
+In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
+Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
+Sitagliptin, but not metformin, increased active GIP concentrations.
+It is unclear how these findings relate to changes in glycemic control in patients with type 2 diabetes.
+
 In studies with healthy subjects, JANUVIA did not lower blood glucose or cause hypoglycemia.
 
 Cardiac Electrophysiology
@@ -28,7 +33,7 @@ In a randomized, placebo-controlled crossover study, 79 healthy subjects were ad
 At the recommended dose of 100 mg, there was no effect on the QTc interval obtained at the peak plasma concentration, or at any other time during the study.
 Following the 800 mg dose, the maximum increase in the placebo-corrected mean change in QTc from baseline was observed at 3 hours postdose and was 8.0 msec.
 This increase is not considered to be clinically significant.
-At the 800 mg dose, peak sitagliptin plasma concentrations were approximately 11-fold higher than the peak concentrations following a 100 mg dose.
+At the 800 mg dose, peak sitagliptin plasma concentrations were approximately 11 times higher than the peak concentrations following a 100 mg dose.
 
 In patients with type 2 diabetes administered JANUVIA 100 mg (N=81) or JANUVIA 200 mg (N=63) daily, there were no meaningful changes in QTc interval based on ECG data obtained at the time of expected peak plasma concentration.
 
@@ -147,7 +152,6 @@ Therefore, sitagliptin is not an inhibitor of OCT-mediated transport.
 
 Sulfonylureas: Single-dose pharmacokinetics of glyburide, a CYP2C9 substrate, was not meaningfully altered in subjects receiving multiple doses of sitagliptin.
 Clinically meaningful interactions would not be expected with other sulfonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glyburide, are primarily eliminated by CYP2C9.
-However, the risk of hypoglycemia from the co-administration of sitagliptin and sulfonylureas is unknown.
 
 Simvastatin: Single-dose pharmacokinetics of simvastatin, a CYP3A4 substrate, was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin.
 Therefore, sitagliptin is not an inhibitor of CYP3A4-mediated metabolism.
@@ -161,7 +165,7 @@ Oral Contraceptives: Co-administration with sitagliptin did not meaningfully alt
 
 Effects of Other Drugs on Sitagliptin
 
-Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by co-administered medications:
+Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by co-administered medications.
 
 Metformin: Co-administration of multiple twice-daily doses of metformin with sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
 

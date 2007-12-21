@@ -28,11 +28,11 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of JANUVIA in pediatric patients have not been established.
+Safety and effectiveness of JANUVIA in pediatric patients under 18 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects (N=3884) in clinical safety and efficacy studies of JANUVIA, 725 patients were 65 years and over, while 61 patients were 75 years and over.
+Of the total number of subjects (N=3884) in pre-approval clinical safety and efficacy studies of JANUVIA, 725 patients were 65 years and over, while 61 patients were 75 years and over.
 No overall differences in safety or effectiveness were observed between subjects 65 years and over and younger subjects.
 While this and other reported clinical experience have not identified differences in responses between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
 
