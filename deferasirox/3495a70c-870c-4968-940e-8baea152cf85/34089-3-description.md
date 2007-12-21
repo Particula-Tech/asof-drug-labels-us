@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Exjade® (deferasirox) is an iron chelating agent.
+Exjade (deferasirox) is an iron chelating agent.
 Exjade tablets for oral suspension contain 125 mg, 250 mg, or 500 mg deferasirox.
 Deferasirox is designated chemically as 4-[3,5-Bis (2-hydroxyphenyl)-1H-1,2,4-triazol-1-yl]-benzoic acid and its structural formula is
 
