@@ -1,10 +1,13 @@
 {
   "application_numbers": [],
   "inn": "lisdexamfetamine",
-  "labeler": "Shire US Inc.",
+  "labeler": "Shire LLC.",
   "package_ndcs": [
+    "59417-102-10",
     "59417-103-10",
+    "59417-104-10",
     "59417-105-10",
+    "59417-106-10",
     "59417-107-10"
   ],
   "products": [],

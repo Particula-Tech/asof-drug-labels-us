@@ -2,7 +2,7 @@
 
 Controlled Substance Class
 
-Vyvanse is classified as a Schedule II controlled substance.
+Vyvanse™ is classified as a Schedule II controlled substance.
 
 Amphetamines have been extensively abused.
 Tolerance, extreme psychological dependence, and severe social disability have occurred.
@@ -13,7 +13,7 @@ The most severe manifestation of chronic intoxication is psychosis, often clinic
 
 Human Studies
 
-In a human abuse liability study, when equivalent oral doses of 100 mg lisdexamfetamine dimesylate and 40 mg immediate release d-amphetamine sulfate were administered to individuals with a history of drug abuse, lisdexamfetamine 100 mg produced subjective responses on a scale of "Drug Liking Effects""Amphetamine Effects", and "Stimulant Effects" that were significantly less than d-amphetamine immediate release 40 mg.
+In a human abuse liability study, when equivalent oral doses of 100 mg lisdexamfetamine dimesylate and 40 mg immediate release d-amphetamine sulfate were administered to individuals with a history of drug abuse, lisdexamfetamine 100 mg produced subjective responses on a scale of "Drug Liking Effects" "Amphetamine Effects", and "Stimulant Effects" that were significantly less than d-amphetamine immediate release 40 mg.
 However, oral administration of 150 mg lisdexamfetamine produced increases in positive subjective responses on these scales that were statistically indistinguishable from the positive subjective responses produced by 40 mg of oral immediate-release d-amphetamine and 200 mg of diethylpropion (C-IV).
 
 Intravenous administration of 50 mg lisdexamfetamine to individuals with a history of drug abuse produced positive subjective responses on scales measuring "Drug Liking", "Euphoria", "Amphetamine Effects", and "Benzedrine Effects" that were greater than placebo but less than those produced by an equivalent dose (20 mg) of intravenous d-amphetamine.

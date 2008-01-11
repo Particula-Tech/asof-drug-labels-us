@@ -71,11 +71,11 @@ Do not start any new medicine while taking Vyvanse without talking to your docto
 How should Vyvanse be taken?
 
 - Take Vyvanse exactly as prescribed.
-  Vyvanse comes in 3 different strength capsules.
+  Vyvanse comes in 6 different strength capsules.
   Your doctor may adjust the dose until it is right for you or your child.
 - Take Vyvanse once a day in the morning.
 - Vyvanse can be taken with or without food.
-- From time to time, your doctor may stop Vyvanse treatment for awhile to check ADHD symptoms.
+- From time to time, your doctor may stop Vyvanse treatment for a while to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking Vyvanse.
   Children should have their height and weight checked often while taking Vyvanse.
   Vyvanse treatment may be stopped if a problem is found during these check-ups.
@@ -83,7 +83,7 @@ How should Vyvanse be taken?
 
 What are possible side effects of Vyvanse?
 
-See "What is the most important information I should know about Vyvanse?"for information on reported heart and mental problems.
+See "What is the most important information I should know about Vyvanse?" for information on reported heart and mental problems.
 
 Other serious side effects include:
 
@@ -132,6 +132,10 @@ What are the ingredients in Vyvanse?
 Active Ingredient: lisdexamfetamine dimesylate
 
 Inactive Ingredients: microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
-The capsule shells contain gelatin, titanium dioxide, and one or more of the following: D&C Red #28, D&C Yellow #10, FD&C Blue #1 and FD&C red #40.
+The capsule shells contain gelatin, titanium dioxide, and one or more of the following: D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Green #3, and FD&C Red #40.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Rev 08/07
+
+XXXXXX

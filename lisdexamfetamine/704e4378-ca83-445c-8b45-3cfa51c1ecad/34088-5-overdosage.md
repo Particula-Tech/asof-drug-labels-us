@@ -17,4 +17,4 @@ If acute severe hypertension complicates amphetamine overdosage, administration 
 However, a gradual drop in blood pressure will usually result when sufficient sedation has been achieved.
 Chlorpromazine antagonizes the central stimulant effects of amphetamines and can be used to treat amphetamine intoxication.
 
-The prolonged release of Vyvanse in the body should be considered when treating patients with overdose.
+The prolonged release of Vyvanse™ in the body should be considered when treating patients with overdose.
