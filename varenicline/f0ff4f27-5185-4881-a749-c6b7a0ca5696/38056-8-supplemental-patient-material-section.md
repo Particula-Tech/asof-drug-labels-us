@@ -22,6 +22,7 @@ Tell your doctor about all of your medical conditions including if you:
 
 - have kidney problems or get kidney dialysis.
   Your doctor may prescribe a lower dose of CHANTIX for you.
+- have experienced depression or other mental health problems.
 - are pregnant or plan to become pregnant.
   CHANTIX has not been studied in pregnant women.
   It is not known if CHANTIX will harm your unborn baby.
@@ -76,7 +77,7 @@ WHAT ARE THE POSSIBLE SIDE EFFECTS OF CHANTIX?
 The most common side effects of CHANTIX include:
 
 - nausea
-- sleep disturbance (trouble sleeping, changes in dreaming)
+- sleep disturbance (trouble sleeping or vivid, unusual, or increased dreaming)
 - constipation
 - gas
 - vomiting
@@ -86,7 +87,11 @@ Tell your doctor about side effects that bother you or that do not go away.
 These are not all the side effects of CHANTIX.
 Ask your doctor or pharmacist for more information.
 
-Use caution driving or operating machinery until you know how quitting smoking and/or using CHANTIX may affect you.
+Tell your doctor if you experience agitation, depressed mood or suicidal thoughts.
+These symptoms have been reported in patients trying to stop smoking with or without Chantix.
+It is not known if these symptoms are related to Chantix.
+
+Use caution driving or operating machinery until you know how quitting smoking with CHANTIX may affect you.
 
 HOW SHOULD I STORE CHANTIX?
 
@@ -115,3 +120,9 @@ WHAT IS IN CHANTIX?
 Active ingredient: varenicline tartrate
 
 Inactive ingredients: microcrystalline cellulose (NF), anhydrous dibasic calcium phosphate (USP), croscarmellose sodium (NF), colloidal silicon dioxide (NF), magnesium stearate (NF), Opadry ® White (for 0.5 mg), Opadry ® Blue (for 1 mg), and Opadry® Clear (for both 0.5 mg and 1 mg)
+
+Rx only
+
+LAB-0328-5.0
+
+November 2007

@@ -4,7 +4,7 @@ The efficacy of CHANTIX in smoking cessation was demonstrated in six clinical tr
 In all clinical studies, abstinence from smoking was determined by patient self-report and verified by measurement of exhaled carbon monoxide (CO≤10 ppm) at weekly visits.
 Among the CHANTIX treated patients enrolled in these studies, the completion rate was 65%.
 Except for the initial Phase 2 study (Study 1) and the maintenance of abstinence study (Study 6), patients were treated for 12 weeks and then were followed for 40 weeks post-treatment.
-Most subjects enrolled in these trials were white (79%– 96%).
+Most subjects enrolled in these trials were white (79% – 96%).
 All studies enrolled almost equal numbers of men and women.
 The average age of subjects in these studies was 43 years.
 Subjects on average had smoked about 21 cigarettes per day for an average of approximately 25 years.

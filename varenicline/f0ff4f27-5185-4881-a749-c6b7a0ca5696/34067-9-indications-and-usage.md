@@ -1,3 +1,3 @@
 # INDICATIONS AND USAGE
 
-CHAMPIX is indicated as an aid to smoking cessation treatment.
+CHANTIX is indicated as an aid to smoking cessation treatment.

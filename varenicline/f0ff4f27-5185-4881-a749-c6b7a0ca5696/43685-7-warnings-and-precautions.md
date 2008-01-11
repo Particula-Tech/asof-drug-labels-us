@@ -70,7 +70,7 @@ Safety and effectiveness of CHANTIX in pediatric patients have not been establis
 
 ## Geriatric Use
 
-A combined single and multiple-dose pharmacokinetic study demonstrated that the pharmacokinetics of 1 mg varenicline given QD or BID to 16 healthy elderly male and female smokers (aged 65-75 yrs) for 7 consecutive days was similar to that of younger subjects.
+A combined single and multiple-dose pharmacokinetic study demonstrated that the pharmacokinetics of 1 mg varenicline given QD or BID to 16 healthy elderly male and female smokers (aged 65–75 yrs) for 7 consecutive days was similar to that of younger subjects.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Varenicline is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
@@ -90,4 +90,4 @@ No dosage adjustment is recommended for elderly patients (see DOSAGE AND ADMINIS
 - Patients should also be provided with educational materials and necessary counseling to support an attempt at quitting smoking.
 - Patients should be informed that some medications may require dose adjustment after quitting smoking.
 - Patients intending to become pregnant or planning to breast-feed an infant should be advised of the risks of smoking and risks and benefits of smoking cessation with CHANTIX.
-- Patients should be advised to use caution driving or operating machinery until they know how quitting smoking and/or varenicline may affect them.
+- Patients should be advised to use caution driving or operating machinery until they know how quitting smoking with varenicline may affect them.

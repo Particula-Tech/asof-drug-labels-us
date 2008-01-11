@@ -7,7 +7,7 @@ The efficacy of CHANTIX in smoking cessation is believed to be the result of var
 
 Electrophysiology studies in vitro and neurochemical studies in vivo have shown that varenicline binds to α4β2 neuronal nicotinic acetylcholine receptors and stimulates receptor-mediated activity, but at a significantly lower level than nicotine.
 Varenicline blocks the ability of nicotine to activate α4β2 receptors and thus to stimulate the central nervous mesolimbic dopamine system, believed to be the neuronal mechanism underlying reinforcement and reward experienced upon smoking.
-Varenicline is highly selective and binds more potently to α4β2 receptors than to other common nicotinic receptors (>500-fold α3β4, >3500-foldα7, >20,000-fold α1βγδ), or to non-nicotinic receptors and transporters (>2000-fold).
+Varenicline is highly selective and binds more potently to α4β2 receptors than to other common nicotinic receptors (>500-fold α3β4, >3500-fold α7, >20,000-fold α1βγδ), or to non-nicotinic receptors and transporters (>2000-fold).
 Varenicline also binds with moderate affinity (Ki = 350 nM) to the 5-HT3 receptor.
 
 ## Pharmacokinetics
@@ -50,7 +50,7 @@ A combined single and multiple-dose pharmacokinetic study demonstrated that the 
 Because the safety and effectiveness of CHANTIX in pediatric patients have not been established, CHANTIX is not recommended for use in patients under 18 years of age.
 
 When 22 pediatric patients aged 12 to 17 years (inclusive) received a single 0.5 mg and 1 mg-dose of varenicline, the pharmacokinetics of varenicline was approximately dose proportional between the 0.5 mg and 1 mg doses.
-Systemic exposure, as assessed by AUC(0-∞), and renal clearance of varenicline were comparable to those of an adult population.
+Systemic exposure, as assessed by AUC(0–∞), and renal clearance of varenicline were comparable to those of an adult population.
 
 ### Hepatic impairment
 

@@ -1,11 +1,5 @@
 Rx only
 
-LAB-0327-3.0
+LAB-0327-6.0
 
-May 2007
-
-Rx only
-
-LAB-0328-4.0
-
-May 2007
+Nov 2007

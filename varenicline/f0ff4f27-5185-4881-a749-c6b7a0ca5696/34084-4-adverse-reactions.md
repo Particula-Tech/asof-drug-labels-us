@@ -10,7 +10,7 @@ Adverse Events were categorized using the Medical Dictionary for Regulatory Acti
 
 The most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, sleep disturbance, constipation, flatulence, and vomiting.
 
-Smoking cessation, with or without treatment, is associated with nicotine withdrawal symptoms and has also been associated with the exacerbation of underlying psychiatric illness.
+Smoking cessation, with or without treatment, is associated with nicotine withdrawal symptoms.
 
 The most common adverse event associated with CHANTIX treatment is nausea.
 For patients treated to the maximum recommended dose of 1 mg BID following initial dosage titration, the incidence of nausea was 30% compared with 10% in patients taking a comparable placebo regimen.
@@ -62,7 +62,7 @@ Table 3: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled
 | SKIN/SUBCUTANEOUS TISSUE |  |  |  |
 | Epidermal and Dermal Conditions |  |  |  |
 | Rash | 1 | 3 | 2 |
-| Pruritis | 0 | 1 | 1 |
+| Pruritus | 0 | 1 | 1 |
 | METABOLISM & NUTRITION |  |  |  |
 | Appetite/General Nutrit. Disorders |  |  |  |
 | Increased appetite | 4 | 3 | 2 |
@@ -155,3 +155,13 @@ Rare: Photosensitivity reaction.
 VASCULAR DISORDERS.
 Frequent: Hot flush, Hypertension.
 Infrequent: Hypotension, Peripheral ischemia, Thrombosis.
+
+## Post-Marketing Experience
+
+The following adverse events have been reported during post-approval use of Chantix.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+There have been reports of depressed mood, agitation, changes in behavior, suicidal ideation and suicide in patients attempting to quit smoking while taking Chantix.
+Smoking cessation with or without treatment is associated with nicotine withdrawal symptoms and the exacerbation of underlying psychiatric illness.
+Not all patients had known pre-existing psychiatric illness and not all had discontinued smoking.
+The role of Chantix in these reports is not known.

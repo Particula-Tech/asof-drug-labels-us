@@ -4,7 +4,7 @@ CHANTIX™ tablets contain the active ingredient, varenicline (as the tartrate s
 
 Varenicline, as the tartrate salt, is a powder which is a white to off-white to slightly yellow solid with the following chemical name: 7,8,9,10-tetrahydro-6,10-methano-6H-pyrazino[2,3-h][3]benzazepine, (2R,3R)-2,3-dihydroxybutanedioate (1:1).
 It is highly soluble in water.
-Varenicline tartrate has a molecular weight of 361.35 Daltons, and a molecular formula of C13H13N3• C4H6O6.
+Varenicline tartrate has a molecular weight of 361.35 Daltons, and a molecular formula of C13H13N3 • C4H6O6.
 The chemical structure is:
 
 CHANTIX is supplied for oral administration in two strengths: a 0.5 mg capsular biconvex, white to off-white, film-coated tablet debossed with "Pfizer" on one side and "CHX 0.5" on the other side and a 1 mg capsular biconvex, light blue film-coated tablet debossed with "Pfizer" on one side and "CHX 1.0" on the other side.
