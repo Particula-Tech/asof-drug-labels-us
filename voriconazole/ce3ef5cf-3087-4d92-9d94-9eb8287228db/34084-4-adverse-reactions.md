@@ -64,6 +64,9 @@ In therapeutic trials, approximately 21% of patients experienced abnormal vision
 The visual disturbances were generally mild and rarely resulted in discontinuation.
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
+There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
+These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which may have caused or contributed to these events (see WARNINGS).
+
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
 In a study in healthy volunteers investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
 The ERG measures electrical currents in the retina.

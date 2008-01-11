@@ -29,12 +29,6 @@ Clinical cases where azole cross-resistance is demonstrated may require alternat
 
 Rx only
 
-LAB-0271-17.0
+LAB-0271-18.0
 
-November 2006
-
-Rx only
-
-Trademarks are the property of their respective owners.
-
-LAB-0311-3.0 November 2006
+December 2007

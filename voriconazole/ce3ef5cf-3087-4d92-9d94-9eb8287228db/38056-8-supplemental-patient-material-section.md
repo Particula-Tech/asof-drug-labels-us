@@ -107,6 +107,7 @@ Call your doctor right away if you have any of the following symptoms:
 - Eyesight (vision) changes.
   These changes include blurred vision, color vision change, and being sensitive to light while you are taking VFEND.
   These changes are generally mild.
+  Vision side effects lasting for more than one month have been reported by some patients.
   Your doctor should monitor your eyesight if you take VFEND for more than 28 days.
 - Liver problems.
   VFEND can cause liver problems that usually go away when you stop VFEND.
@@ -164,3 +165,9 @@ Active ingredient: voriconazole Inactive ingredients: VFEND IV: sulfobutyl ether
 VFEND tablets: lactose monohydrate, pregelatinized starch, croscarmellose sodium, povidone, magnesium stearate, and a coating containing hypromellose, titanium dioxide, lactose monohydrate, and triacetin
 
 VFEND liquid: colloidal silicon dioxide, titanium dioxide, xanthan gum, sodium citrate dihydrate, sodium benzoate, anhydrous citric acid, natural orange flavor, and sucrose
+
+Rx only
+
+Trademarks are the property of their respective owners.
+
+LAB-0311-4.0 December 2007

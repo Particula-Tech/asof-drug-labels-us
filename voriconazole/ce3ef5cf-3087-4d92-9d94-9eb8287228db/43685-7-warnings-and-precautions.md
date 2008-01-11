@@ -3,6 +3,8 @@
 ## VISUAL DISTURBANCES
 
 The effect of VFEND on visual function is not known if treatment continues beyond 28 days.
+There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
+These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which may have caused or contributed to these events.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field and color perception should be monitored (see PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – Visual Disturbances).
 
 ## HEPATIC TOXICITY
