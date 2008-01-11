@@ -4,6 +4,8 @@ High doses of tiotropium may lead to anticholinergic signs and symptoms.
 However, there were no systemic anticholinergic adverse effects following a single inhaled dose of up to 282 mcg tiotropium in 6 healthy volunteers.
 In a study of 12 healthy volunteers, bilateral conjunctivitis and dry mouth were seen following repeated once-daily inhalation of 141 mcg of tiotropium.
 
+## Accidental Ingestion
+
 Acute intoxication by inadvertent oral ingestion of SPIRIVA (tiotropium bromide inhalation powder) capsules is unlikely since it is not well-absorbed systemically.
 
 A case of overdose has been reported from post-marketing experience.

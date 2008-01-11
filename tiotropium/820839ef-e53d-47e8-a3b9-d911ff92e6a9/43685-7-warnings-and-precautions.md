@@ -20,6 +20,7 @@ As a predominantly renally excreted drug, patients with moderate to severe renal
 
 It is important for patients to understand how to correctly administer SPIRIVA capsules using the HandiHaler inhalation device (see Patient’s Instructions for Use).
 SPIRIVA capsules should only be administered via the HandiHaler device and the HandiHaler device should not be used for administering other medications.
+The contents of SPIRIVA capsules are for oral inhalation only and must not be swallowed.
 
 Capsules should always be stored in sealed blisters.
 Remove only one capsule immediately before use, or its effectiveness may be reduced.
@@ -36,7 +37,7 @@ SPIRIVA HandiHaler is a once-daily maintenance bronchodilator and should not be 
 ## Drug Interactions
 
 SPIRIVA has been used concomitantly with other drugs commonly used in COPD without increases in adverse drug reactions.
-These include sympathomimetic bronchodilators, methylxanthines, and oral and inhaled steroids.
+These include short-acting and long-acting sympathomimetic (beta-agonists) bronchodilators, methylxanthines, and oral and inhaled steroids.
 However, the co-administration of SPIRIVA with other anticholinergic-containing drugs (e.g., ipratropium) has not been studied and is therefore not recommended.
 
 ## Drug/Laboratory Test Interactions
@@ -58,7 +59,7 @@ These dose multiples may be over-estimated due to difficulties in measuring depo
 
 ## Pregnancy
 
-Pregnancy Category C
+Pregnancy Category C.
 
 No evidence of structural alterations was observed in rats and rabbits at inhalation tiotropium doses of up to 1.471 and 0.007 mg/kg/day, respectively.
 These doses correspond to approximately 660 and 6 times the recommended human daily dose (RHDD) on a mg/m2 basis.
