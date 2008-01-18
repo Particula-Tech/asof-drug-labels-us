@@ -1,0 +1,21 @@
+# 11 DESCRIPTION
+
+Aripiprazole is a psychotropic drug that is available as ABILIFY® (aripiprazole) tablets, ABILIFY® DISCMELT™ (aripiprazole) orally disintegrating tablets, ABILIFY® (aripiprazole) oral solution, and ABILIFY® (aripiprazole) injection, a solution for intramuscular injection.
+Aripiprazole is 7-[4-[4-(2,3-dichlorophenyl)-1-piperazinyl]butoxy]-3,4-dihydrocarbostyril.
+The empirical formula is C23H27Cl2N3O2 and its molecular weight is 448.38.
+The chemical structure is:
+
+ABILIFY Tablets are available in 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, and 30 mg strengths.
+Inactive ingredients include cornstarch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
+Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
+
+ABILIFY DISCMELT Orally Disintegrating Tablets are available in 10 mg and 15 mg strengths.
+Inactive ingredients include acesulfame potassium, aspartame, calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
+Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
+
+ABILIFY Oral Solution is a clear, colorless to light yellow solution available in a concentration of 1 mg/mL.
+The inactive ingredients for this solution include disodium edetate, fructose, glycerin, dl-lactic acid, methylparaben, propylene glycol, propylparaben, sodium hydroxide, sucrose, and purified water.
+The oral solution is flavored with natural orange cream and other natural flavors.
+
+ABILIFY Injection is available in single-dose vials as a ready-to-use, 9.75 mg/1.3 mL (7.5 mg/mL) clear, colorless, sterile, aqueous solution for intramuscular use only.
+Inactive ingredients for this solution include 150 mg/mL of sulfobutylether β-cyclodextrin (SBECD), tartaric acid, sodium hydroxide, and water for injection.
