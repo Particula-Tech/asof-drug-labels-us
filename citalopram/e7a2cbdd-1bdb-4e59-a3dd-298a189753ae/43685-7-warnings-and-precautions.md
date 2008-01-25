@@ -90,9 +90,15 @@ Patients should be cautioned regarding the risk of bleeding associated with the 
 
 ### Hyponatremia
 
-Cases of hyponatremia and SIADH (syndrome of inappropriate antidiuretic hormone secretion) have been reported in association with citalopram treatment.
-All patients with these events have recovered with discontinuation of citalopram and/or medical intervention.
-Hyponatremia and SIADH have also been reported in association with other marketed drugs effective in the treatment of major depressive disorder.
+Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including citalopram.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Cases with serum sodium lower than 110 mmol/L have been reported.
+Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
+Discontinuation of citalopram should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ### Activation of Mania/Hypomania
 
@@ -277,3 +283,5 @@ No overall differences in safety or effectiveness were observed between these su
 Most elderly patients treated with citalopram in clinical trials received daily doses between 20 and 40 mg (see DOSAGE AND ADMINISTRATION ).
 In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in elderly subjects as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY ).
 20 mg/day is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION ).
+
+SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
