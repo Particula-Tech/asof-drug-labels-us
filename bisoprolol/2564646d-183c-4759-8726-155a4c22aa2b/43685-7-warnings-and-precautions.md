@@ -68,6 +68,8 @@ Bisoprolol fumarate should not be combined with other beta-blocking agents.
 Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of bisoprolol fumarate may produce excessive reduction of sympathetic activity.
 In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that bisoprolol fumarate be discontinued for several days before the withdrawal of clonidine.
 Bisoprolol fumarate should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
 Concurrent use of rifampin increases the metabolic clearance of bisoprolol fumarate, resulting in a shortened elimination half-life of bisoprolol fumarate.
 However, initial dose modification is generally not necessary.
 Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics, digoxin, and cimetidine.
