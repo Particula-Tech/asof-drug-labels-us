@@ -3,7 +3,7 @@
 ## Initial Treatment
 
 The recommended starting dose for mirtazapine tablet, USP is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
-In the controlled clinical trials establishing the efficacy of mirtazapine tablet, USP in the treatment of major depressive disorder, the effective dose range was generally 15-45 mg/day.
+In the controlled clinical trials establishing the efficacy of mirtazapine tablets, USP in the treatment of major depressive disorder, the effective dose range was generally 15-45 mg/day.
 While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine tablet, USP has not been adequately explored, patients not responding to the initial 15 mg dose may benefit from dose increases up to a maximum of 45 mg/day.
 Mirtazapine tablet, USP has an elimination half-life of approximately 20-40 hours; therefore, dose changes should not be made at intervals of less than one to two weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
 

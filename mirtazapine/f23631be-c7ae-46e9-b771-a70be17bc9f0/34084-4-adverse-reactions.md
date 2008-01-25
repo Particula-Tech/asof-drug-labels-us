@@ -5,8 +5,7 @@
 Approximately 16 percent of the 453 patients who received mirtazapine in U.S. 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of the 361 placebo-treated patients in those studies.
 The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
 
-Common Adverse Events Associated withDiscontinuation of Treatment in 6-WeekU.S.
-Mirtazapine Trials
+Common Adverse Events Associated with Discontinuation of Treatment in 6-Week U.S. Mirtazapine Trials
 
 | Adverse Event | Mirtazapine (n=453) | Placebo (n=361) |
 | --- | --- | --- |
@@ -18,8 +17,7 @@ Mirtazapine Trials
 
 The most commonly observed adverse events associated with the use of mirtazapine tablets, USP (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine incidence at least twice that for placebo) were:
 
-Common Treatment-Emergent Adverse Events Associated withUse of Mirtazapine in 6-WeekU.S.
-Trials
+Common Treatment-Emergent Adverse Events Associated with Use of Mirtazapine in 6-Week U.S. Trials
 
 | Adverse Event | Mirtazapine (n=453) | Placebo (n=361) |
 | --- | --- | --- |

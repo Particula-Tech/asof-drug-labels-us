@@ -8,5 +8,5 @@ A major depressive episode (DSM-IV) implies a prominent and relatively persisten
 
 The effectiveness of mirtazapine in hospitalized depressed patients has not been adequately studied.
 
-The efficacy of mirtazapine, USP in maintaining a response in patients with major depressive disorder for up to 40 weeks following 8–12 weeks of initial open-label treatment was demonstrated in a placebocontrolled trial.
+The efficacy of mirtazapine, USP in maintaining a response in patients with major depressive disorder for up to 40 weeks following 8–12 weeks of initial open-label treatment was demonstrated in a placebo-controlled trial.
 Nevertheless, the physician who elects to use mirtazapine, USP for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see CLINICAL PHARMACOLOGY).

@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-The mechanism of action of mirtazapine tablets as with other drugs effective in the treatment of major depressive disorder, is unknown.
+The mechanism of action of mirtazapine tablets, as with other drugs effective in the treatment of major depressive disorder, is unknown.
 
 Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
 These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2 adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
