@@ -2,6 +2,8 @@
 
 Dextroamphetamine Sulfate Extended-Release Capsules
 
+CII
+
 Read the Medication Guide that comes with dextroamphetamine sulfate extended-release capsules before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with dextroamphetamine sulfate extended-release capsules.
@@ -43,7 +45,6 @@ Before starting dextroamphetamine sulfate extended-release capsules tell your or
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
 - tics or Tourette's syndrome
-- liver or kidney problems
 - thyroid problems
 - seizures or have had an abnormal brain wave test (EEG)
 
@@ -123,12 +124,12 @@ You can ask your doctor or pharmacist for information about dextroamphetamine su
 
 What are the ingredients in Dextroamphetamine Sulfate Extended-Release Capsules?
 
-Active Ingredient: dextroamphetamine sulfate
+Active Ingredient: dextroamphetamine sulfate USP
 
 Inactive Ingredients: Sugar Spheres NF, Titanium Dioxide USP, Gelatin NF, Shellac Glaze-45%, SD-45 Alcohol, Iron Oxide Black, Propylene Glycol USP, FD&C Blue #2/Indigo Carmine Lake, FD&C Red #40/Allura Red AC Lake, FD&C Blue #1/Brilliant Blue FCF Lake, D&C Yellow #10 Lake, SD3A Alcohol, Shellac NF, Dehydrated Alcohol USP, Isopropyl Alcohol USP, Butyl Alcohol NF, Strong Ammonia Solution NF, FD&C Blue #2 Aluminum Lake, D&C Red #7 Calcium Lake, Hydroxypropyl Methylcellulose USP/Hypromellose USP, Macrogol/Polyethylene Glycol NF, Purified Water USP, Ethylcellulose NF, Ammonium Hydroxide 28% NF, Medium Chain Triglycerides, Oleic Acid NF.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mallinckrodt Inc. St. Louis, MO 63134 U.S.A.
+Mallinckrodt Inc. Hazelwood, MO 63042 U.S.A.
 
-Rev 022707
+Rev 101607

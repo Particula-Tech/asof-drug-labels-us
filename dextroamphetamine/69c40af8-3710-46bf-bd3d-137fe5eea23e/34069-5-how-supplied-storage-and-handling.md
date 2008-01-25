@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Dextroamphetamine Sulfate Extended-Release Capsules– Each capsule, with white opaque cap and white opaque body, contains dextroamphetamine sulfate.
+Dextroamphetamine Sulfate Extended-Release Capsules – Each capsule, with white opaque cap and white opaque body, contains dextroamphetamine sulfate.
 The 5 mg capsule is imprinted with an ® on the cap and is imprinted 8960 5 mg on the body in black.
 The 10 mg capsule is imprinted with an ® on the cap and is imprinted 8961 10 mg on the body in blue.
 The 15 mg capsule is imprinted with an ® on the cap and is imprinted 8962 15 mg on the body in pink.
@@ -17,8 +17,8 @@ Dispense in a tight, light-resistant container with a child-resistant closure.
 
 Dextroamphetamine Sulfate Extended-Release Capsules are manufactured by Mallinckrodt Inc., Hobart, NY 13788.
 
-is a registered trademark of Mallinckrodt Inc.
+is a trademark of Mallinckrodt Inc.
 
 tyco Healthcare Mallinckrodt
 
-Mallinckrodt Inc. St. Louis, MO 63134 Rev 022707 Printed in U.S.A.
+Mallinckrodt Inc. Hazelwood, MO 63042 Rev 101607 Printed in U.S.A.
