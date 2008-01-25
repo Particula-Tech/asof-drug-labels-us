@@ -1,4 +1,4 @@
-# Suicidality in Children and Adolescents
+# Suicidality and Antidepressant drugs
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
 Anyone considering the use of sertraline hydrochloride tablets or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.

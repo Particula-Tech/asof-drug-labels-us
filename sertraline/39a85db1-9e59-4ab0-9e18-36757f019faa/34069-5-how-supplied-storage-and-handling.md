@@ -18,6 +18,8 @@ NDC 65862-011-01 Bottles of 100
 
 NDC 65862-011-05 Bottles of 500
 
+NDC 65862-011-51 Bottles of 5000
+
 50 mg Tablets: Blue colored, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘1’ and ‘7’ on the other side.
 
 NDC 65862-012-30 Bottles of 30
@@ -32,6 +34,8 @@ NDC 65862-012-01 Bottles of 100
 
 NDC 65862-012-05 Bottles of 500
 
+NDC 65862-012-51 Bottles of 5000
+
 100 mg Tablets: Yellow colored, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘1’ and ‘8’ on the other side.
 
 NDC 65862-013-30 Bottles of 30
@@ -45,6 +49,8 @@ NDC 65862-013-90 Bottles of 90
 NDC 65862-013-01 Bottles of 100
 
 NDC 65862-013-05 Bottles of 500
+
+NDC 65862-013-25 Bottles of 2500
 
 Store at 20º to 25ºC (68º to 77ºF); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 

@@ -6,7 +6,7 @@ The mechanism of action of sertraline is presumed to be linked to its inhibition
 Studies at clinically relevant doses in man have demonstrated that sertraline blocks the uptake of serotonin into human platelets.
 In vitro studies in animals also suggest that sertraline is a potent and selective inhibitor of neuronal serotonin reuptake and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
 In vitro studies have shown that sertraline has no significant affinity for adrenergic (alpha 1 , alpha 2 , beta), cholinergic, GABA, dopaminergic, histaminergic, serotonergic (5HT 1A , 5HT 1B , 5HT 2 ), or benzodiazepine receptors; antagonism of such receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects for other psychotropic drugs.
-The chronic administration of sertraline was found in animals to downregulate brain norepinephrine receptors, as has been observed with other drugs effective in the treatment of major depressive disorder.
+The chronic administration of sertraline was found in animals to down regulate brain norepinephrine receptors, as has been observed with other drugs effective in the treatment of major depressive disorder.
 Sertraline does not inhibit monoamine oxidase.
 
 ## Pharmacokinetics
