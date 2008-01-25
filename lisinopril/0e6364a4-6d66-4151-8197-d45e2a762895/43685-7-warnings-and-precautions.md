@@ -32,7 +32,7 @@ In the same patients, these reactions were avoided when ACE inhibitors were temp
 ### Anaphylactoid Reactions During Membrane Exposure
 
 Sudden and potentially life-threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69¶) and treated concomitantly with an ACE inhibitor.
-In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions be initiated.
+In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
@@ -73,6 +73,8 @@ Patients receiving ACE inhibitors who develop jaundice or marked elevations of h
 ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature.
 When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible.
+In a published retrospective epidemiological study, infants whose mothers had taken an ACE inhibitor during their first trimester of pregnancy appeared to have an increased risk of major congenital malformations compared with infants whose mothers had not undergone first trimester exposure to ACE inhibitor drugs.
+The number of cases of birth defects is small and the findings of this study have not yet been repeated.
 The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
 Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to the ACE-inhibitor exposure.
@@ -164,7 +166,7 @@ Patients should be told to report promptly any indication of infection (e.g., so
 
 ### Pregnancy
 
-Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to ACE inhibitors, and they should also be told that these consequences do not appear to have resulted from intrauterine ACE inhibitor exposure that has been limited to the first trimester.
+Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors during pregnancy.
 These patients should be asked to report pregnancies to their physicians as soon as possible.
 NOTE: As with many other drugs, certain advice to patients being treated with lisinopril is warranted.
 This information is intended to aid in the safe and effective use of this medication.
@@ -213,6 +215,10 @@ Potassium-sparing agents should generally not be used in patients with heart fai
 Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs which cause elimination of sodium, including ACE inhibitors.
 Lithium toxicity was usually reversible upon discontinuation of lithium and the ACE inhibitor.
 It is recommended that serum lithium levels be monitored frequently if lisinopril is administered concomitantly with lithium.
+
+### Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including lisinopril.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

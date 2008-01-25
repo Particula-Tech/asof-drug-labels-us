@@ -100,7 +100,7 @@ Cases of hypoglycemia in diabetic patients on oral antidiabetic agents or insuli
 Musculoskeletal: Arthritis, arthralgia, neck pain, hip pain, low back pain, joint pain, leg pain, knee pain, shoulder pain, arm pain, lumbago.
 Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, peripheral neuropathy (e.g., dysesthesia), spasm, paresthesia, confusion, insomnia, somnolence, hypersomnia, irritability and nervousness.
 Respiratory System: Malignant lung neoplasms, hemoptysis, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, bronchitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngeal pain, pharyngitis, rhinitis, rhinorrhea.
-Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis.
+Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma.
 Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson syndrome; causal relationship has not been established.
 Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances.
 Urogenital System: Acute renal failure, oliguria, anuria, uremia, progressive azotemia, renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ), pyelonephritis, dysuria, urinary tract infection, breast pain.

@@ -77,7 +77,7 @@ Pediatric Patients: In a clinical study involving 115 hypertensive pediatric pat
 At the end of 2 weeks, lisinopril administered once daily lowered trough blood pressure in a dose-dependent manner with consistent antihypertensive efficacy demonstrated at doses > 1.25 mg (0.02 mg/kg).
 This effect was confirmed in a withdrawal phase, where the diastolic pressure rose by about 9 mmHg more in patients randomized to placebo than it did in patients who were randomized to remain on the middle and high doses of lisinopril.
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
-In this study, lisinopril was generally well-tolerated.
+In this study, lisinopril was generally well tolerated.
 In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form (see DOSAGE AND ADMINISTRATION, Preparation of Suspension ).
 
 ### Heart Failure
