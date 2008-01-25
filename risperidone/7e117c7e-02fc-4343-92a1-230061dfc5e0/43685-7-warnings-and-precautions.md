@@ -92,10 +92,16 @@ RISPERDAL® and other antipsychotic drugs should be used cautiously in patients 
 ### Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
+Risperidone is associated with higher levels of prolactin elevation than other antipsychotic agents.
+
+Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
+This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
+Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
+Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
+
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
-As is common with compounds which increase prolactin release, an increase in pituitary gland, mammary gland, and pancreatic islet cell hyperplasia and/or neoplasia was observed in the risperidone carcinogenicity studies conducted in mice and rats (see PRECAUTIONS – Carcinogenesis, Mutagenesis, Impairment of Fertility).
-However, neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats (see PRECAUTIONS– Carcinogenesis, Mutagenesis, Impairment of Fertility).
+Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
 
 ### Potential for Cognitive and Motor Impairment
 
@@ -128,14 +134,14 @@ Caution is advised when prescribing for patients who will be exposed to temperat
 
 ### Suicide
 
-The possibility of a suicide attempt is inherent in schizophrenia, and close supervision of high-risk patients should accompany drug therapy.
+The possibility of a suicide attempt is inherent in patients with schizophrenia and bipolar mania, including children and adolescent patients, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for RISPERDAL® should be written for the smallest quantity of tablets, consistent with good patient management, in order to reduce the risk of overdose.
 
 ### Use in Patients With Concomitant Illness
 
 Clinical experience with RISPERDAL® in patients with certain concomitant systemic illnesses is limited.
-Patients with Parkinson's Disease or Dementia with Lewy Bodies who receive antipsychotics, including RISPERDAL®, may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotic medications.
-Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
+Patients with Parkinson's Disease or Dementia with Lewy Bodies who receive antipsychotics, including RISPERDAL®, are reported to have an increased sensitivity to antipsychotic medications.
+Manifestations of this increased sensitivity have been reported to include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with the neuroleptic malignant syndrome.
 
 Caution is advisable in using RISPERDAL® in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
 RISPERDAL® has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
@@ -175,7 +181,7 @@ Patients should be advised to avoid alcohol while taking RISPERDAL®.
 ### Phenylketonurics
 
 Phenylalanine is a component of aspartame.
-Each 2 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.56 mg phenylalanine; each 1 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.14 mg phenylalanine.
+Each 4 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.14 mg phenylalanine.
 
 ## Laboratory Tests
 
@@ -190,8 +196,9 @@ Because of its potential for inducing hypotension, RISPERDAL® may enhance the h
 
 RISPERDAL® may antagonize the effects of levodopa and dopamine agonists.
 
-Amitriptyline does not affect the pharmacokinetics of risperidone or the active antipsychotic fraction.
-Cimetidine and ranitidine increased the bioavailability of risperidone, but only marginally increased the plasma concentration of the active antipsychotic fraction.
+Amitriptyline did not affect the pharmacokinetics of risperidone or the active moiety.
+Cimetidine and ranitidine increased the bioavailability of risperidone by 64% and 26%, respectively.
+However, cimetidine did not affect the AUC of the active moiety, whereas ranitidine increased the AUC of the active moiety by 20%.
 
 Chronic administration of clozapine with risperidone may decrease the clearance of risperidone.
 Topiramate modestly reduced the bioavailability of risperidone, but not that of active antipsychotic fraction.
@@ -209,7 +216,7 @@ Co-administration of other known enzyme inducers (e.g., phenytoin, rifampin, and
 
 Fluoxetine (20 mg QD) and paroxetine (20 mg QD) have been shown to increase the plasma concentration of risperidone 2.5–2.8 fold and 3–9 fold respectively.
 Fluoxetine did not affect the plasma concentration of 9-hydroxyrisperidone.
-Paroxetine lowered the concentration of 9-hydroxyrisperidone an average of 13%.
+Paroxetine lowered the concentration of 9-hydroxyrisperidone by about 10%.
 When either concomitant fluoxetine or paroxetine is initiated or discontinued, the physician should re-evaluate the dosing of RISPERDAL®.
 The effects of discontinuation of concomitant fluoxetine or paroxetine therapy on the pharmacokinetics of risperidone and 9-hydroxyrisperidone have not been studied.
 
@@ -249,7 +256,7 @@ In drug interaction studies, risperidone did not significantly affect the pharma
 
 Carcinogenicity studies were conducted in Swiss albino mice and Wistar rats.
 Risperidone was administered in the diet at doses of 0.63, 2.5, and 10 mg/kg for 18 months to mice and for 25 months to rats.
-These doses are equivalent to 2.4, 9.4, and 37.5 times the maximum recommended human dose (MRHD) (16 mg/day) on a mg/kg basis or 0.2, 0.75, and 3 times the MRHD (mice) or 0.4, 1.5, and 6 times the MRHD (rats) on a mg/m2 basis.
+These doses are equivalent to 2.4, 9.4, and 37.5 times the maximum recommended human dose (MRHD) for schizophrenia (16 mg/day) on a mg/kg basis or 0.2, 0.75, and 3 times the MRHD (mice) or 0.4, 1.5, and 6 times the MRHD (rats) on a mg/m2 basis.
 A maximum tolerated dose was not achieved in male mice.
 There were statistically significant increases in pituitary gland adenomas, endocrine pancreas adenomas, and mammary gland adenocarcinomas.
 The following table summarizes the multiples of the human dose on a mg/m2 (mg/kg) basis at which these tumors occurred.
@@ -318,4 +325,57 @@ Therefore, women receiving risperidone should not breast-feed.
 
 ## Pediatric Use
 
-Safety and effectiveness of RISPERDAL® in pediatric patients with schizophrenia or acute mania associated with Bipolar I Disorder have not been established.
+The safety and effectiveness of RISPERDAL® in pediatric patients with schizophrenia or bipolar mania have not been established.
+
+The efficacy and safety of RISPERDAL® in the treatment of irritability associated with autistic disorder were established in two 8-week, placebo-controlled trials in 156 children and adolescent patients, aged 5 to 16 years (see CLINICAL PHARMACOLOGY - Clinical Trials, INDICATIONS AND USAGE, and ADVERSE REACTIONS).
+Additional safety information was also assessed in a long-term study in patients with autistic disorder, or in short- and long-term studies in more than 1200 pediatric patients with other psychiatric disorders who were of similar age and weight, and who received similar dosages of RISPERDAL® as patients treated for irritability associated with autistic disorder.
+
+The safety and effectiveness of RISPERDAL® in pediatric patients with autistic disorder less than 5 years of age have not been established.
+
+### Tardive Dyskinesia
+
+In clinical trials in 1885 children and adolescents with autistic disorder or other psychiatric disorders treated with risperidone, 2 (0.1%) patients were reported to have tardive dyskinesia, which resolved on discontinuation of risperidone treatment (see WARNINGS– Tardive Dyskinesia).
+
+### Weight Gain
+
+In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of RISPERDAL® treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
+The majority of that increase occurred within the first 6 months of exposure to RISPERDAL®.
+The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
+When treating patients with RISPERDAL®, weight gain should be assessed against that expected with normal growth.
+(See also ADVERSE REACTIONS.)
+
+### Somnolence
+
+Somnolence was frequently observed in placebo-controlled clinical trials of pediatric patients with autistic disorder.
+Most cases were mild or moderate in severity.
+These events were most often of early onset with peak incidence occurring during the first two weeks of treatment, and transient with a median duration of 16 days.
+(See also ADVERSE REACTIONS.)
+Patients experiencing persistent somnolence may benefit from a change in dosing regimen (see DOSAGE AND ADMINISTRATION – Irritability Associated with Autistic Disorder).
+
+### Hyperprolactinemia, Growth, and Sexual Maturation
+
+Risperidone has been shown to elevate prolactin levels in children and adolescents as well as in adults (see PRECAUTIONS - Hyperprolactinemia).
+In double-blind, placebo-controlled studies of up to 8 weeks duration in children and adolescents (aged 5 to 17 years), 49% of patients who received risperidone had elevated prolactin levels compared to 2% of patients who received placebo.
+
+In clinical trials in 1885 children and adolescents with autistic disorder or other psychiatric disorders treated with risperidone, galactorrhea was reported in 0.8% of risperidone-treated patients and gynecomastia was reported in 2.3% of risperidone-treated patients.
+
+The long-term effects of risperidone on growth and sexual maturation have notbeen fully evaluated.
+
+## Geriatric Use
+
+Clinical studies of RISPERDAL® in the treatment of schizophrenia did not include sufficient numbers of patients aged 65 and over to determine whether or not they respond differently than younger patients.
+Other reported clinical experience has not identified differences in responses between elderly and younger patients.
+In general, a lower starting dose is recommended for an elderly patient, reflecting a decreased pharmacokinetic clearance in the elderly, as well as a greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+While elderly patients exhibit a greater tendency to orthostatic hypotension, its risk in the elderly may be minimized by limiting the initial dose to 0.5 mg BID followed by careful titration (see PRECAUTIONS).
+Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
+
+This drug is substantially excreted by the kidneys, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see DOSAGE AND ADMINISTRATION).
+
+### Concomitant use with Furosemide in Elderly Patients with Dementia-Related Psychosis
+
+In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus risperidone when compared to patients treated with risperidone alone or with placebo plus furosemide.
+No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
+An increase of mortality in elderly patients with dementia-related psychosis was seen with the use of RISPERDAL ® regardless of concomitant use with furosemide.
+RISPERDAL ® is not approved for the treatment of patients with dementia-related psychosis.
+(See also Boxed Warning,WARNINGS: Increased Mortality in Elderly Patients with Dementia-Related Psychosis.)

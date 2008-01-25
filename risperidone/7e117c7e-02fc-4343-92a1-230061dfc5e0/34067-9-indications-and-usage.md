@@ -25,3 +25,11 @@ The efficacy of RISPERDAL® in combination with lithium or valproate was establi
 
 The effectiveness of RISPERDAL® for longer-term use, that is, for more than 3 weeks of treatment of an acute episode, and for prophylactic use in mania, has not been systematically evaluated in controlled clinical trials.
 Therefore, physicians who elect to use RISPERDAL® for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+
+## Irritability Associated with Autistic Disorder
+
+RISPERDAL® is indicated for the treatment of irritability associated with autistic disorder in children and adolescents, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+
+The efficacy of RISPERDAL® was established in two 8-week, placebo controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
+The benefit of maintaining patients with irritability associated with autistic disorder on therapy with RISPERDAL® after achieving a responder status for an average duration of about 140 days was demonstrated in a controlled trial (see CLINICAL PHARMACOLOGY - Clinical Trials.)
+Physicians who elect to use RISPERDAL® for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.

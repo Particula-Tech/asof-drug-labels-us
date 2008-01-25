@@ -16,6 +16,7 @@ The 0.25 mg tablets contain yellow iron oxide; the 0.5 mg tablets contain red ir
 RISPERDAL® is also available as a 1 mg/mL oral solution.
 The inactive ingredients for this solution are tartaric acid, benzoic acid, sodium hydroxide, and purified water.
 
-RISPERDAL® M-TAB® Orally Disintegrating Tablets are available in 0.5 mg, 1 mg, and 2 mg strengths and are light coral in color.
+RISPERDAL® M-TAB® Orally Disintegrating Tablets are available in 0.5 mg (light coral), 1 mg (light coral), 2 mg (light coral), 3 mg (coral) and 4 mg (coral) strengths.
 
 RISPERDAL® M-TAB® Orally Disintegrating Tablets contain the following inactive ingredients: Amberlite® resin, gelatin, mannitol, glycine, simethicone, carbomer, sodium hydroxide, aspartame, red ferric oxide, and peppermint oil.
+In addition, the 3 mg and 4 mg RISPERDAL® M-TAB® Orally Disintegrating Tablets contain xanthan gum.

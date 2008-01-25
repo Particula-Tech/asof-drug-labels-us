@@ -16,7 +16,7 @@ The results of the trials follow:
 - (1)In a 6-week, placebo-controlled trial (n=160) involving titration of RISPERDAL® in doses up to 10 mg/day (BID schedule), RISPERDAL® was generally superior to placebo on the BPRS total score, on the BPRS psychosis cluster, and marginally superior to placebo on the SANS.
 - (2)In an 8-week, placebo-controlled trial (n=513) involving 4 fixed doses of RISPERDAL® (2, 6, 10, and 16 mg/day, on a BID schedule), all 4 RISPERDAL® groups were generally superior to placebo on the BPRS total score, BPRS psychosis cluster, and CGI severity score; the 3 highest RISPERDAL® dose groups were generally superior to placebo on the PANSS negative subscale.
   The most consistently positive responses on all measures were seen for the 6 mg dose group, and there was no suggestion of increased benefit from larger doses.
-- (3)In an 8-week, dose comparison trial (n=1356) involving 5 fixed doses of RISPERDAL® (1, 4, 8, 12, and 16 mg/day, on a BID schedule), the four highest RISPERDAL® dose groups were generally superior to the 1 mg RISPERDAL® dose group on BPRS total score, BPRS psychosis cluster, and CGI severity score.
+- (3)In an 8-week, dose comparison trial (n=1356) involving 5 fixed doses of RISPERDAL® (1, 4, 8, 12, and 16 mg/day, on a BID schedule), the four highest RISPERDAL® dose groups were generally superior to the 1 mg RISPERDAL® dosegroup on BPRS total score, BPRS psychosis cluster, and CGI severity score.
   None of the dose groups were superior to the 1 mg group on the PANSS negative subscale.
   The most consistently positive responses were seen for the 4 mg dose group.
 - (4)In a 4-week, placebo-controlled dose comparison trial (n=246) involving 2 fixed doses of RISPERDAL® (4 and 8 mg/day on a QD schedule), both RISPERDAL® dose groups were generally superior to placebo on several PANSS measures, including a response measure (>20% reduction in PANSS total score), PANSS total score, and the BPRS psychosis cluster (derived from PANSS).
@@ -34,7 +34,7 @@ Patients receiving RISPERDAL® experienced a significantly longer time to relaps
 The efficacy of RISPERDAL® in the treatment of acute manic or mixed episodes was established in 2 short-term (3-week) placebo-controlled trials in patients who met the DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes.
 These trials included patients with or without psychotic features.
 
-The primary rating instrument used for assessing manic symptoms in these trials was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
+The primary rating instrument used for assessing manic symptoms in these trials was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, andinsight) in a range from 0 (no manic features) to 60 (maximum score).
 The primary outcome in these trials was change from baseline in the Y-MRS total score.
 The results of the trials follow:
 
@@ -51,3 +51,32 @@ This trial included patients with or without psychotic features and with or with
 - (2)In a second 3-week placebo-controlled combination trial, 142 in- or outpatients on lithium, valproate, or carbamazepine therapy with inadequately controlled manic or mixed symptoms were randomized to receive RISPERDAL® or placebo, in combination with their original therapy.
   RISPERDAL®, in a dose range of 1–6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.7 mg/day), combined with lithium, valproate, or carbamazepine (in therapeutic ranges of 0.6 mEq/L to 1.4 mEq/L for lithium, 50 mcg/mL to 125 mcg/mL for valproate, or 4–12 mcg/mL for carbamazepine, respectively) was not superior to lithium, valproate, or carbamazepine alone in the reduction of Y-MRS total score.
   A possible explanation for the failure of this trial was induction of risperidone and 9-hydroxyrisperidone clearance by carbamazepine, leading to subtherapeutic levels of risperidone and 9-hydroxyrisperidone.
+
+## Irritability Associated with Autistic Disorder
+
+### Short-Term Efficacy
+
+The efficacy of RISPERDAL® in the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
+Over 90% of these subjects were under 12 years of age and most weighed over 20 kg (16-104.3 kg).
+
+Efficacy was evaluated using two assessment scales: the Aberrant Behavior Checklist (ABC) and the Clinical Global Impression - Change (CGI-C) scale.
+The primary outcome measure in both trials was the change from baseline to endpoint in the Irritability subscale of the ABC (ABC-I).
+The ABC-I subscale measured the emotional and behavioral symptoms of autism, including aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+The CGI-C rating at endpoint was a co-primary outcome measure in one of the studies.
+
+The results of these trials are as follows:
+
+(1) In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=101), aged 5 to 16 years, received twice daily doses of placebo or RISPERDAL® 0.5-3.5 mg/day on a weight adjusted basis.
+RISPERDAL®, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
+
+(2) In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, RISPERDAL® 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+
+### Long-Term Efficacy
+
+Following completion of the first 8-week double-blind study, 63 patients entered an open-label study extension where they were treated with RISPERDAL® for 4 or 6 months (depending on whether they received RISPERDAL® or placebo in the double-blind study).
+During this open-label treatment period, patients were maintained on a mean modal dose of RISPERDAL® of 1.8-2.1 mg/day (equivalent to 0.05 - 0.07 mg/kg/day).
+
+Patients who maintained their positive response to RISPERDAL® (response was defined as ≥25% improvement on the ABC-I subscale and a CGI-C rating of ‘much improved’ or ‘very much improved’) during the 4-6 month open-label treatment phase for about 140 days, on average, were randomized to receive RISPERDAL® or placebo during an 8 week, double-blind withdrawal study (n=39 of the 63 patients).
+A pre-planned interim analysis of data from patients who completed the withdrawal study (n=32), undertaken by an independent Data Safety Monitoring Board, demonstrated a significantly lower relapse rate in the RISPERDAL® group compared with the placebo group.
+Based on the interim analysis results, the study was terminated due to demonstration of a statistically significant effect on relapse prevention.
+Relapse was defined as ≥25% worsening on the most recent assessment of the ABC-I subscale (in relation to baseline of the randomized withdrawal phase).

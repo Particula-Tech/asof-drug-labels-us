@@ -34,6 +34,10 @@ In all cases, the period of overlapping antipsychotic administration should be m
 When switching schizophrenic patients from depot antipsychotics, if medically appropriate, initiate RISPERDAL® therapy in place of the next scheduled injection.
 The need for continuing existing EPS medication should be re-evaluated periodically.
 
+### Pediatric Use
+
+The safety and effectiveness of RISPERDAL® in pediatric patients with schizophrenia have not been established.
+
 ## Bipolar Mania
 
 ### Usual Dose
@@ -50,7 +54,28 @@ While it is generally agreed that pharmacological treatment beyond an acute resp
 
 ### Pediatric Use
 
-Safety and effectiveness of RISPERDAL® in pediatric patients with schizophrenia or acute mania associated with Bipolar I Disorder have not been established.
+The safety and effectiveness of RISPERDAL® in pediatric patients with bipolar mania have not been established.
+
+## Irritability Associated with Autistic Disorder– Pediatrics (Children and Adolescents)
+
+The safety and effectiveness of RISPERDAL® in pediatric patients with autistic disorder less than 5 years of age have not been established.
+
+The dosage of RISPERDAL® should be individualized according to the response and tolerability of the patient.
+The total daily dose of RISPERDAL® can be administered once daily, or half the total daily dose can be administered twice daily.
+
+Dosing should be initiated at 0.25 mg per day for patients < 20 kg and 0.5 mg per day for patients ≥ 20 kg.
+After a minimum of four days from treatment initiation, the dose may be increased to the recommended dose of 0.5 mg per day for patients < 20 kg and 1 mg per day for patients ≥ 20 kg.
+This dose should be maintained for a minimum of 14 days.
+In patients not achieving sufficient clinical response, dose increases may be considered at ≥ 2-week intervals in increments of 0.25 mg per day for patients < 20 kg or 0.5 mg per day for patients≥ 20 kg.
+Caution should be exercised with dosage for smaller children who weigh less than 15 kg.
+
+In clinical trials, 90% of patients who showed a response (based on at least 25% improvement on ABC-I, see CLINICAL PHARMACOLOGY – Clinical Trials) received doses of RISPERDAL® between 0.5 mg and 2.5 mg per day.
+The maximum daily dose of RISPERDAL® in one of the pivotal trials, when the therapeutic effect reached plateau, was 1.0 mg in patients < 20 kg, 2.5 mg in patients ≥ 20 kg, or 3.0 mg in patients > 45 kg.
+No dosing data is available for children who weighed less than 15 kg.
+
+Once sufficient clinical response has been achieved and maintained, consideration should be given to gradually lowering the dose to achieve the optimal balance of efficacy and safety.
+
+Patients experiencing persistent somnolence may benefit from a once daily dose administered at bedtime or administering half the daily dose twice daily, or a reduction of the dose.
 
 ## Dosage in Special Populations
 
@@ -72,14 +97,16 @@ The dose of risperidone needs to be titrated accordingly for patients receiving 
 
 Fluoxetine and paroxetine have been shown to increase the plasma concentration of risperidone 2.5–2.8 fold and 3–9 fold respectively.
 Fluoxetine did not affect the plasma concentration of 9-hydroxyrisperidone.
-Paroxetine lowered the concentration of 9-hydroxyrisperidone an average of 13%.
+Paroxetine lowered the concentration of 9-hydroxyrisperidone by about 10%.
 The dose of risperidone needs to be titrated accordingly when fluoxetine or paroxetine is co-administered (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
 ## Directions for Use of RISPERDAL® M-TAB® Orally Disintegrating Tablets
 
-RISPERDAL® M-TAB® Orally Disintegrating Tablets are supplied in blister packs of 4 tablet units each.
-
 ### Tablet Accessing
+
+RISPERDAL® M-TAB ® Orally Disintegrating Tablets 0.5 mg, 1 mg, and 2 mg
+
+RISPERDAL® M-TAB® Orally Disintegrating Tablets 0.5 mg, 1 mg, and 2 mg are supplied in blister packs of 4 tablet units each.
 
 Do not open the blister until ready to administer.
 For single tablet removal, separate one of the four blister units by tearing apart at the perforations.
@@ -87,7 +114,16 @@ Bend the corner where indicated.
 Peel back foil to expose the tablet.
 DO NOT push the tablet through the foil because this could damage the tablet.
 
-### Tablet Administration
+RISPERDAL® M-TAB ® Orally Disintegrating Tablets 3 mg and 4 mg
+
+RISPERDAL® M-TAB® Orally Disintegrating Tablets 3 mg and 4 mg are supplied in a child-resistent pouch containing a blister with 1 tablet each.
+
+The child-resistant pouch should be torn open at the notch to access the blister.
+Do not open the blister until ready to administer.
+Peel back foil from the side to expose the tablet.
+DO NOT put the tablet through the foil, because this could damage the tablet.
+
+## Tablet Administration
 
 Using dry hands, remove the tablet from the blister unit and immediately place the entire RISPERDAL® M-TAB® Orally Disintegrating Tablet on the tongue.
 The RISPERDAL® M-TAB® Orally Disintegrating Tablet should be consumed immediately, as the tablet cannot be stored once removed from the blister unit.

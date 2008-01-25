@@ -19,13 +19,19 @@ The minimum calibrated volume is 0.25 mL, while the maximum calibrated volume is
 
 Tests indicate that RISPERDAL® (risperidone) oral solution is compatible in the following beverages: water, coffee, orange juice, and low-fat milk; it is NOT compatible with either cola or tea, however.
 
-RISPERDAL® M-TAB® (risperidone) Orally Disintegrating Tablets are etched on one side with "R0.5", "R1", and "R2", respectively, and are packaged in blister packs of 4 (2 X 2) tablets.
+RISPERDAL® M-TAB® (risperidone) Orally Disintegrating Tablets are etched on one side with "R0.5", "R1", "R2",“R3”, and “R4”, respectively.
+RISPERDAL® M-TAB® (risperidone) Orally Disintegrating Tablets 0.5 mg, 1 mg, and 2 mg are packaged in blister packs of 4 (2 X 2) tablets.
+RISPERDAL® M-TAB® (risperidone) Orally Disintegrating Tablets 3 mg and 4 mg are packaged in a child-resistant pouch containing a blister with 1 tablet.
 
 0.5 mg light coral, round, biconvex tablets: 7 blister packages per box, NDC 50458-395-28, long-term care packaging of 30 tablets NDC 50458-395-30.
 
 1 mg light coral, square, biconvex tablets: 7 blister packages per box, NDC 50458-315-28, long-term care packaging of 30 tablets NDC 50458-315-30.
 
 2 mg light coral, round, biconvex tablets: 7 blister packages per box, NDC 50458-325-28.
+
+3 mg coral, round, biconvex tablets: 28 blisters per box, NDC 50458-335-28.
+
+4 mg coral, round, biconvex tablets: 28 blisters per box, NDC 50458-355-28.
 
 ## Storage and Handling
 

@@ -1,10 +1,10 @@
 # ADVERSE REACTIONS
 
-The following findings are based on the short-term, placebo-controlled, North American, premarketing trials for schizophrenia and acute bipolar mania.
+The following findings are based on the short-term, placebo-controlled, North American, premarketing trials for schizophrenia and acute bipolar mania, and are followed by a description of adverse events and other safety measures in short-term, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder.
 In patients with Bipolar I Disorder, treatment-emergent adverse events are presented separately for risperidone as monotherapy and as adjunctive therapy to mood stabilizers.
 
 Certain portions of the discussion below relating to objective or numeric safety parameters, namely dose-dependent adverse events, vital sign changes, weight gain, laboratory changes, and ECG changes are derived from studies in patients with schizophrenia.
-However, this information is also generally applicable to bipolar mania.
+However, this information is also generally applicable to bipolar mania and pediatric patients with autistic disorder.
 
 ## Associated With Discontinuation of Treatment
 
@@ -21,7 +21,7 @@ The more common events (≥0.3%) associated with discontinuation and considered 
 | Somnolence | 0.5% | 0% |
 | Nausea | 0.3% | 0% |
 
-Suicide attempt was associated with discontinuation in 1.2% of RISPERDAL®-treated patients compared to 0.6% of placebo patients, but, given the almost 40-fold greater exposure time in RISPERDAL® compared to placebo patients, it is unlikely that suicide attempt is a RISPERDAL®-related adverse event (seePRECAUTIONS).
+Suicide attempt was associated with discontinuation in 1.2% of RISPERDAL®-treated patients compared to 0.6% of placebo patients, but, given the almost 40-fold greater exposure time in RISPERDAL® compared to placebo patients, it is unlikely that suicide attempt is a RISPERDAL®-related adverse event (see PRECAUTIONS).
 Discontinuation for extrapyramidal symptoms was 0% in placebo patients, but 3.8% in active-control patients in the Phase 2 and 3 trials.
 
 ### Bipolar Mania
@@ -61,7 +61,7 @@ Similarly, the cited frequencies cannot be compared with figures obtained from o
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence rate in the population studied.
 
 Table 1.
-Incidence of Treatment-Emergent Adverse Events in 6- to 8-Week Controlled Clinical TrialsEvents reported by at least 1% of patients treated with RISPERDAL®≤10 mg/day are included, and are rounded to the nearest %.
+Incidence of Treatment-Emergent Adverse Events in 6- to 8-Week Controlled Clinical Trials in SchizophreniaEvents reported by at least 1% of patients treated with RISPERDAL®≤10 mg/day are included, and are rounded to the nearest %.
 Comparative rates for RISPERDAL® 16 mg/day and placebo are provided as well.
 Events for which the RISPERDAL® incidence (in both dose groups) was equal to or less than placebo are not listed in the table, but included the following: nervousness, injury, and fungal infection.
 
@@ -75,7 +75,7 @@ Events for which the RISPERDAL® incidence (in both dose groups) was equal to or
 | Somnolence | 3% | 8% | 1% |
 | Aggressive reaction | 1% | 3% | 1% |
 | Central & peripheral nervous system |  |  |  |
-| Extrapyramidal symptomsIncludes tremor, dystonia, hypokinesia, hypertonia, hyperkinesia, oculogyric crisis, ataxia, abnormal gait, involuntary muscle contractions, hyporeflexia, akathisia, and extrapyramidal disorders. Although the incidence of 'extrapyramidal symptoms' does not appear to differ for the '10 mg/day' group and placebo, the data for individual dose groups in fixed dose trials do suggest a dose/response relationship (see ADVERSE REACTIONS – Dose Dependency of Adverse Events). | 17% | 34% | 16% |
+| Extrapyramidal symptomsIncludes tremor, dystonia, hypokinesia, hypertonia, hyperkinesia, oculogyric crisis, ataxia, abnormal gait, involuntary muscle contractions, hyporeflexia, akathisia, and extrapyramidal disorders. Although the incidence of 'extrapyramidal symptoms' does not appear to differ for the '10 mg/day' group and placebo, the data for individual dose groups in fixed dose trials do suggest a dose/response relationship (see ADVERSE REACTIONS– Dose Dependency of Adverse Events). | 17% | 34% | 16% |
 | Headache | 14% | 12% | 12% |
 | Dizziness | 4% | 7% | 1% |
 | Gastrointestinal |  |  |  |
@@ -245,9 +245,59 @@ Between-group comparisons for pooled placebo-controlled trials revealed no stati
 When all RISPERDAL® doses were pooled from randomized controlled trials in several indications, there was a mean increase in heart rate of 1 beat per minute compared to no change for placebo patients.
 In short-term schizophrenia trials, higher doses of risperidone (8–16 mg/day) were associated with a higher mean increase in heart rate compared to placebo (4–6 beats per minute).
 
+## Adverse Events and Other Safety Measures in Pediatric Patients With Autistic Disorder
+
+In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n=156), two patients (one treated with RISPERDAL® and one treated with placebo) discontinued treatment due to an adverse event.
+
+In addition to spontaneous reporting, in one of the studies, adverse events were also elicited from a checklist for detecting selected events, a method that is more sensitive than spontaneous reporting.
+
+The most common adverse events with RISPERDAL® that occurred at an incidence equal to or greater than 5% and at a rate of at least twice that of placebo are shown in Table 4.
+
+Table 4 Incidence of Treatment-Emergent Adverse Events in Two 8-Week, Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
+
+| Body System Preferred Term | RISPERDAL® (n=76) | Placebo (n=80) |
+| --- | --- | --- |
+| Psychiatric |  |  |
+| Somnolence | 67% | 23% |
+| Appetite increased | 49% | 19% |
+| Confusion | 5% | 0% |
+| Gastrointestinal |  |  |
+| Saliva increased | 22% | 6% |
+| Constipation | 21% | 8% |
+| Dry mouth | 13% | 6% |
+| Body as a whole-general |  |  |
+| Fatigue | 42% | 13% |
+| Central & peripheral nervous system |  |  |
+| Tremor | 12% | 1% |
+| Dystonia | 12% | 6% |
+| Dizziness | 9% | 3% |
+| Automatism | 7% | 1% |
+| Dyskinesia | 7% | 0% |
+| Parkinsonism | 8% | 0% |
+| Respiratory |  |  |
+| Upper respiratory tract infection | 34% | 15% |
+| Metabolic and nutritional |  |  |
+| Weight increase | 5% | 0% |
+| Heart rate and rhythm |  |  |
+| Tachycardia | 7% | 0% |
+
+Weight increase was reported more frequently with RISPERDAL® than with placebo.
+The average weight increase over 8 weeks was 2.6 kg in patients treated with RISPERDAL® compared with 0.9 kg in patients treated with placebo.
+(See also PRECAUTIONS– Pediatric Use – Weight Gain.)
+
+There was a higher incidence of adverse events reflecting extrapyramidal symptoms (EPS) in the RISPERDAL® group (27.6%) compared with the placebo group (10.0%).
+In addition, between-group comparison of the severity of EPS were assessed objectively by the following rating instruments: the Simpson-Angus Rating Scale (SARS) and the Abnormal Involuntary Movement Scale (AIMS) in one study, and the Extrapyramidal Symptom Rating Scale (ESRS) in the other study.
+The mean changes between baseline and endpoint in the total ESRS score were –0.3 in the RISPERDAL® group and –0.4 in the placebo group.
+The median change from baseline to endpoint was 0 in both treatment groups for each EPS rating scale.
+
+Somnolence was the most frequent adverse event, and was reported at a higher incidence in the RISPERDAL® group compared with the placebo group.
+The vast majority of cases (96%) were either mild or moderate in severity.
+These events were most often of early onset with peak incidence occurring during the first 2 weeks of treatment, and median duration was 16 days.
+Patients experiencing persistent somnolence may benefit from a change in dosing regimen (see DOSAGE AND ADMINISTRATION– Irritability Associated with Autistic Disorder – Pediatrics [Children and Adolescents]).
+
 ## Other Events Observed During the Premarketing Evaluation of RISPERDAL®
 
-During its premarketing assessment, multiple doses of RISPERDAL® were administered to 2607 patients in Phase 2 and 3 studies.
+During its premarketing assessment, multiple doses of RISPERDAL® were administered to 2607 adult patients with schizophrenia and 1923 pediatric patients in Phase 2 and 3 studies.
 The conditions and duration of exposure to RISPERDAL® varied greatly, and included (in overlapping categories) open-label and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed-dose and titration studies, and short-term or longer-term exposure.
 In most studies, untoward events associated with this exposure were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
@@ -255,9 +305,10 @@ In two large studies, adverse events were also elicited utilizing the UKU (direc
 (Note: These events are marked with an asterisk in the listings that follow.)
 
 In the listings that follow, spontaneously reported adverse events were classified using World Health Organization (WHO) preferred terms.
-The frequencies presented, therefore, represent the proportion of the 2607 patients exposed to multiple doses of RISPERDAL® who experienced an event of the type cited on at least one occasion while receiving RISPERDAL®.
+The frequencies presented, therefore, represent the proportion of the 2607 adult or 1923 pediatric patients exposed to multiple doses of RISPERDAL® who experienced an event of the type cited on at least one occasion while receiving RISPERDAL®.
 All reported events are included, except those already listed in Table 1, those events for which a drug cause was remote, and those event terms which were so general as to be uninformative.
 It is important to emphasize that, although the events reported occurred during treatment with RISPERDAL®, they were not necessarily caused by it.
+Serious adverse reactions experienced by the pediatric population were similar to those seen in the adult population (see WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
@@ -350,7 +401,7 @@ Frequent: erectile dysfunction Infrequent: ejaculation failure.
 
 ### White Cell and Resistance Disorders
 
-Rare: leukocytosis, lymphadenopathy, leucopenia, Pelger-Huet anomaly.
+Infrequent: granulocytopenia Rare: leukocytosis, lymphadenopathy, leucopenia, Pelger-Huet anomaly.
 
 ### Endocrine Disorders
 
@@ -362,7 +413,7 @@ Rare: bitter taste.
 
 ## Postintroduction Reports
 
-Adverse events reported since market introduction which were temporally (but not necessarily causally) related to RISPERDAL® therapy, include the following: anaphylactic reaction, angioedema, apnea, atrial fibrillation, benign pituitary adenomas, cerebrovascular disorder, including cerebrovascular accident, diabetes mellitus aggravated, including diabetic ketoacidosis, hyperglycemia, intestinal obstruction, jaundice, mania, pancreatitis, Parkinson's disease aggravated, pulmonary embolism.
+Adverse events reported since market introduction which were temporally (but not necessarily causally) related to RISPERDAL® therapy, include the following: anaphylactic reaction, angioedema, apnea, atrial fibrillation, cerebrovascular disorder, including cerebrovascular accident, diabetes mellitus aggravated, including diabetic ketoacidosis, hyperglycemia, intestinal obstruction, jaundice, mania, pancreatitis, Parkinson's disease aggravated, pituitary adenomas, pulmonary embolism, precocious puberty, and QT prolongation.
 There have been rare reports of sudden death and/or cardiopulmonary arrest in patients receiving RISPERDAL®.
 A causal relationship with RISPERDAL® has not been established.
 It is important to note that sudden and unexpected death may occur in psychotic patients whether they remain untreated or whether they are treated with other antipsychotic drugs.
