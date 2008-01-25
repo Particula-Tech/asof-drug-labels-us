@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
-## PRE-MARKETING EXPERIENCE
+## CLINICAL TRIALS
 
-VIAGRA was administered to over 3700 patients (aged 19–87 years) during clinical trials worldwide.
+VIAGRA was administered to over 3700 patients (aged 19–87 years) during pre-marketing clinical trials worldwide.
 Over 550 patients were treated for longer than one year.
 
 In placebo-controlled clinical studies, the discontinuation rate due to adverse events for VIAGRA (2.5%) was not significantly different from placebo (2.3%).
@@ -56,7 +56,7 @@ Respiratory: asthma, dyspnea, laryngitis, pharyngitis, sinusitis, bronchitis, sp
 
 Skin and Appendages: urticaria, herpes simplex, pruritus, sweating, skin ulcer, contact dermatitis, exfoliative dermatitis.
 
-Special Senses: mydriasis, conjunctivitis, photophobia, tinnitus, eye pain, deafness, ear pain, eye hemorrhage, cataract, dry eyes.
+Special Senses: sudden decrease or loss of hearing, mydriasis, conjunctivitis, photophobia, tinnitus, eye pain, ear pain, eye hemorrhage, cataract, dry eyes.
 
 Urogenital: cystitis, nocturia, urinary frequency, breast enlargement, urinary incontinence, abnormal ejaculation, genital edema and anorgasmia.
 
@@ -70,9 +70,16 @@ Many of these events were reported to occur during or shortly after sexual activ
 Others were reported to have occurred hours to days after the use of VIAGRA and sexual activity.
 It is not possible to determine whether these events are related directly to VIAGRA, to sexual activity, to the patient's underlying cardiovascular disease, to a combination of these factors, or to other factors (see WARNINGS for further important cardiovascular information).
 
+### Special senses
+
+Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors, including VIAGRA.
+In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.
+In many cases, medical follow-up information was limited.
+It is not possible to determine whether these reported events are related directly to the use of VIAGRA, to the patient’s underlying risk factors for hearing loss, a combination of these factors, or to other factors (see PRECAUTIONS, Information for Patients).
+
 ### Other events
 
-Other events reported post-marketing to have been observed in temporal association with VIAGRA and not listed in the pre-marketing adverse reactions section above include:
+Other events reported post-marketing to have been observed in temporal association with VIAGRA and not listed in the clinical trial adverse reactions section above include:
 
 Nervous: seizure and anxiety.
 

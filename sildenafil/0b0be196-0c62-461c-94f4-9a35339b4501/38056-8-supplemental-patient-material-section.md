@@ -12,7 +12,7 @@ VIAGRA must never be used by men who are taking medicines that contain nitrates 
 This includes nitroglycerin.
 If you take VIAGRA with any nitrate medicine your blood pressure could suddenly drop to an unsafe or life threatening level.
 
-• What Is VIAGRA?
+• WHAT IS VIAGRA?
 
 VIAGRA is a pill used to treat erectile dysfunction (impotence) in men.
 It can help many men who have erectile dysfunction get and keep an erection when they become sexually excited (stimulated).
@@ -20,7 +20,7 @@ It can help many men who have erectile dysfunction get and keep an erection when
 You will not get an erection just by taking this medicine.
 VIAGRA helps a man with erectile dysfunction get an erection only when he is sexually excited.
 
-• How Sex Affects the Body
+• HOW SEX AFFECTS THE BODY
 
 When a man is sexually excited, the penis rapidly fills with more blood than usual.
 The penis then expands and hardens.
@@ -40,13 +40,13 @@ Therefore sexual activity may not be advisable for people who have heart problem
 Before you start any treatment for erectile dysfunction, ask your doctor if your heart is healthy enough to handle the extra strain of having sex.
 If you have chest pains, dizziness or nausea during sex, stop having sex and immediately tell your doctor you have had this problem.
 
-• How VIAGRA Works
+• HOW VIAGRA WORKS
 
 VIAGRA enables many men with erectile dysfunction to respond to sexual stimulation.
 When a man is sexually excited, VIAGRA helps the penis fill with enough blood to cause an erection.
 After sex is over, the erection goes away.
 
-• VIAGRA Is Not for Everyone
+• VIAGRA IS NOT FOR EVERYONE
 
 As noted above (How Sex Affects the Body), ask your doctor if your heart is healthy enough for sexual activity.
 
@@ -66,14 +66,14 @@ VIAGRA is not for newborns, children, or women.
 Do not let anyone else take your VIAGRA.
 VIAGRA must be used only under a doctor's supervision.
 
-• What VIAGRA Does Not Do
+• WHAT VIAGRA DOES NOT DO
 
 - VIAGRA does not cure erectile dysfunction.
   It is a treatment for erectile dysfunction.
 - VIAGRA does not protect you or your partner from getting sexually transmitted diseases, including HIV—the virus that causes AIDS.
 - VIAGRA is not a hormone or an aphrodisiac.
 
-• What To Tell Your Doctor Before You Begin VIAGRA
+• WHAT TO TELL YOUR DOCTOR BEFORE YOU BEGIN VIAGRA
 
 Only your doctor can decide if VIAGRA is right for you.
 VIAGRA can cause mild, temporary lowering of your blood pressure.
@@ -95,7 +95,7 @@ Be sure to tell your doctor if you:
 - have stomach ulcers or any types of bleeding problems
 - are taking any other medicines
 
-• VIAGRA and Other Medicines
+• VIAGRA AND OTHER MEDICINES
 
 Some medicines can change the way VIAGRA works.
 Tell your doctor about any medicines you are taking.
@@ -109,7 +109,7 @@ This includes prescription and nonprescription medicines or remedies:
 - VIAGRA should not be used with any other medical treatments that cause erections.
   These treatments include pills, medicines that are injected or inserted into the penis, implants or vacuum pumps.
 
-• Finding the Right Dose for You
+• FINDING THE RIGHT DOSE FOR YOU
 
 VIAGRA comes in different doses (25 mg, 50 mg and 100 mg).
 If you do not get the results you expect, talk with your doctor.
@@ -126,7 +126,7 @@ For example:
 - If you are taking protease inhibitors, such as for the treatment of HIV, your doctor may recommend a 25 mg dose and may limit you to a maximum single dose of 25 mg of VIAGRA in a 48 hour period.
 - If you have prostate problems or high blood pressure for which you take medicines called alpha blockers, your doctor may start you on a lower dose of VIAGRA.
 
-• How To Take VIAGRA
+• HOW TO TAKE VIAGRA
 
 Take VIAGRA about one hour before you plan to have sex.
 Beginning in about 30 minutes and for up to 4 hours, VIAGRA can help you get an erection if you are sexually excited.
@@ -134,7 +134,7 @@ If you take VIAGRA after a high-fat meal (such as a cheeseburger and french frie
 VIAGRA can help you get an erection when you are sexually excited.
 You will not get an erection just by taking the pill.
 
-• Possible Side Effects
+• POSSIBLE SIDE EFFECTS
 
 Like all medicines, VIAGRA can cause some side effects.
 These effects are usually mild to moderate and usually don't last longer than a few hours.
@@ -150,6 +150,10 @@ In rare instances, men have reported an erection that lasts many hours.
 You should call a doctor immediately if you ever have an erection that lasts more than 4 hours.
 If not treated right away, permanent damage to your penis could occur (see How Sex Affects the Body).
 
+Sudden loss or decrease in hearing, sometimes with ringing in the ears and dizziness, has been rarely reported in people taking PDE5 inhibitors, including VIAGRA.
+It is not possible to determine whether these events are related directly to the PDE5 inhibitors, to other diseases or medications, to other factors, or to a combination of factors.
+If you experience these symptoms, stop taking VIAGRA and contact a doctor right away.
+
 Heart attack, stroke, irregular heart beats, and death have been reported rarely in men taking VIAGRA.
 Most, but not all, of these men had heart problems before taking this medicine.
 It is not possible to determine whether these events were directly related to VIAGRA.
@@ -157,19 +161,21 @@ It is not possible to determine whether these events were directly related to VI
 VIAGRA may cause other side effects besides those listed on this sheet.
 If you want more information or develop any side effects or symptoms you are concerned about, call your doctor.
 
-• Accidental Overdose
+• ACCIDENTAL OVERDOSE
 
 In case of accidental overdose, call your doctor right away.
 
-• Storing VIAGRA
+• STORING VIAGRA
 
 Keep VIAGRA out of the reach of children.
 Keep VIAGRA in its original container.
 Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 
-• For More Information on VIAGRA
+• FOR MORE INFORMATION ON VIAGRA
 
 VIAGRA is a prescription medicine used to treat erectile dysfunction.
 Only your doctor can decide if it is right for you.
 This sheet is only a summary.
 If you have any questions or want more information about VIAGRA, talk with your doctor or pharmacist, visit www.viagra.com, or call 1-888-4VIAGRA.
+
+LAB-0220-6.0 October 2007

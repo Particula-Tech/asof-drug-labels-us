@@ -80,6 +80,10 @@ Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy 
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors.
 Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators, such as PDE5 inhibitors (see POST-MARKETING EXPERIENCE/Special Senses).
 
+Physicians should advise patients to stop taking PDE5 inhibitors, including VIAGRA, and seek prompt medical attention in the event of sudden decrease or loss of hearing.
+These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including VIAGRA.
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors (see ADVERSE REACTIONS, CLINICAL TRIALS and POST-MARKETING EXPERIENCE).
+
 Physicians should warn patients that prolonged erections greater than 4 hours and priapism (painful erections greater than 6 hours in duration) have been reported infrequently since market approval of VIAGRA.
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
