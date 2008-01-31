@@ -12,6 +12,9 @@ In these trials, the response to treatment with MALARONE was similar to treatmen
 
 The overall efficacy in 521 evaluable patients was 98.7% (Table 7).
 
+Table 7.
+Parasitological Response in Clinical Trials of MALARONE for Treatment of P. falciparum Malaria
+
 |  | MALARONE* |  | Comparator |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Study Site | Evaluable Patients(n) | % SensitiveResponse† | Drug(s) | Evaluable Patients(n) | % Sensitive Response† |
@@ -23,17 +26,12 @@ The overall efficacy in 521 evaluable patients was 98.7% (Table 7).
 | Gabon‡ | 63 | 98.4% | Amodiaquine | 63 | 81.0% |
 | Philippines | 54 | 100.0% | Chloroquine (Cq)Cq and P/S | 2332 | 30.4%87.5% |
 | Peru | 19 | 100.0% | ChloroquineP/S | 13 7 | 7.7%100.0% |
+| * MALARONE = 1,000 mg atovaquone and 400 mg proguanil hydrochloride (or equivalent based on body weight for patients weighing ≤40 kg) once daily for 3 days. |  |  |  |  |  |
+| † Elimination of parasitemia with no recurrent parasitemia during follow-up for 28 days. |  |  |  |  |  |
+| ‡ Patients hospitalized only for acute care. Follow-up conducted in outpatients. |  |  |  |  |  |
+| § Study in pediatric patients 3 to 12 years of age. |  |  |  |  |  |
 
-* MALARONE = 1,000 mg atovaquone and 400 mg proguanil hydrochloride (or equivalent based on body weight for patients weighing ≤40 kg) once daily for 3 days.
-
-†Elimination of parasitemia with no recurrent parasitemia during follow-up for 28 days.
-
-‡Patients hospitalized only for acute care.
-Follow-up conducted in outpatients.
-
-§ Study in pediatric patients 3 to 12 years of age.
-
-Eighteen of 521 (3.5%) evaluable patients with acute falciparummalaria presented with a pretreatment serum creatinine greater than 2.0 mg/dL (range 2.1 to 4.3 mg/dL).
+Eighteen of 521 (3.5%) evaluable patients with acute falciparum malaria presented with a pretreatment serum creatinine greater than 2.0 mg/dL (range 2.1 to 4.3 mg/dL).
 All were successfully treated with MALARONE and 17 of 18 (94.4%) had normal serum creatinine levels by day 7.
 
 Data from a phase II trial of atovaquone conducted in Zambia suggested that approximately 40% of the study population in this country were HIV-infected patients.
@@ -47,7 +45,7 @@ Seven patients in Gabon with malaria due to P. ovale or P. malariae were treated
 All 6 evaluable patients (3 with P. malariae, 2 with P. ovale, and 1 with mixed P. falciparum and P. ovale) were cured at 28 days.
 Relapsing malarias including P. vivax and P. ovale require additional treatment to prevent relapse.
 
-The efficacy of MALARONE in treating acute uncomplicated P. falciparum malaria in children weighing ≥5 and <11 kg was examined in an open-label, randomized trial conducted in Gabon.
+The efficacy of MALARONE in treating acute uncomplicated P. falciparum malaria in children weighing≥5 and <11 kg was examined in an open-label, randomized trial conducted in Gabon.
 Patients received either MALARONE (2 or 3 MALARONE Pediatric Tablets once daily depending upon body weight) for 3 days (n = 100) or amodiaquine (10 mg/kg/day) for 3 days (n = 100).
 In this study, the MALARONE Tablets were crushed and mixed with condensed milk just prior to administration.
 In the per-protocol population, adequate clinical response was obtained in 95% (87/92) of the pediatric patients who received MALARONE and in 53% (41/78) of those who received amodiaquine.
@@ -63,6 +61,9 @@ Three placebo-controlled studies of 10 to 12 weeks’ duration were conducted am
 Of a total of 669 randomized patients (including 264 pediatric patients 5 to 16 years of age), 103 were withdrawn for reasons other than falciparum malaria or drug-related adverse events.
 (Fifty-five percent of these were lost to follow-up and 45% were withdrawn for protocol violations.)
 The results are listed in Table 8.
+
+Table 8.
+Prevention of Parasitemia in Placebo-Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Residents of Malaria-Endemic Areas
 
 |  | MALARONE | Placebo |
 | --- | --- | --- |
@@ -86,19 +87,22 @@ These studies were not large enough to allow for statements of comparative effic
 In addition, the true exposure rate to P. falciparum malaria in both studies is unknown.
 The results are listed in Table 9.
 
+Table 9.
+Prevention of Parasitemia in Active-Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Non-Immune Travelers
+
 |  | MALARONE | Mefloquine | Chloroquine plus Proguanil |
 | --- | --- | --- | --- |
 | Total number of randomized patients who received study drug | 1,004 | 483 | 511 |
 | Failed to complete study | 14 | 6 | 4 |
 | Developed parasitemia (P. falciparum) | 0 | 0 | 3 |
 
-A third randomized, open-label study was conducted which included 221 otherwise healthy pediatric patients (weighing ≥11 kg and 2 to 17 years of age) who were at risk of contracting malaria by traveling to an endemic area.
+A third randomized, open-label study was conducted which included 221 otherwise healthy pediatric patients (weighing≥11 kg and 2 to 17 years of age) who were at risk of contracting malaria by traveling to an endemic area.
 The mean duration of travel was 15 days (range 1 to 30 days).
 Prophylaxis with MALARONE (n = 110, dosage based on body weight) began 1 or 2 days before entering the endemic area and lasted until 7 days after leaving the area.
 A control group (n = 111) received prophylaxis with chloroquine/proguanil dosed according to WHO guidelines.
 No cases of malaria occurred in either group of children.
 However, the study was not large enough to allow for statements of comparative efficacy.
-In addition, the true exposure rate to P.falciparum malaria in this study is unknown.
+In addition, the true exposure rate to P. falciparum malaria in this study is unknown.
 
 In a malaria challenge study conducted in healthy US volunteers, atovaquone alone prevented malaria in 6 of 6 individuals, whereas 4 of 4 placebo-treated volunteers developed malaria.
 
@@ -116,9 +120,9 @@ Hence, returning travelers developing febrile illnesses should be investigated f
 
 GlaxoSmithKline
 
-July 2006 RL-2291
-
 Research Triangle Park, NC 27709
 
-©2006, GlaxoSmithKline.
+©2007, GlaxoSmithKline.
 All rights reserved.
+
+December 2007 MLR:1PI

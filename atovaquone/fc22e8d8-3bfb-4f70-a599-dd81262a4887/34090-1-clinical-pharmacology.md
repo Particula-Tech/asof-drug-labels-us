@@ -70,8 +70,7 @@ Apparent Clearance for Atovaquone and Proguanil in Patients as a Function of Bod
 | 21-30 kg | 117 | 1.87 ± 0.81(0.52-5.38) | 113 | 40.0 ± 7.5(15.9-62.7) |
 | 31-40 kg | 95 | 2.76 ± 2.07(0.97-12.5) | 91 | 49.5 ± 8.30(25.8-71.5) |
 | >40 kg | 368 | 6.61 ± 3.92(1.32-20.3) | 282 | 67.9 ± 19.9(14.0-145) |
-
-*SD = standard deviation.
+| * SD = standard deviation. |  |  |  |  |
 
 The pharmacokinetics of atovaquone and proguanil in patients with body weight below 11 kg have not been adequately characterized.
 
@@ -93,7 +92,7 @@ Tmax was longer in elderly subjects (median 8 hours) compared with younger subje
 
 In a single-dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 subjects with hepatic impairment (9 mild, 4 moderate, as indicated by the Child-Pugh method) to 13 subjects with normal hepatic function.
 In subjects with mild or moderate hepatic impairment as compared to healthy subjects, there were no marked differences (<50%) in the rate or extent of systemic exposure of atovaquone.
-However, in subjects with moderatehepatic impairment, the elimination half-life of atovaquone was increased (point estimate = 1.28, 90% CI = 1.00 to 1.63).
+However, in subjects with moderate hepatic impairment, the elimination half-life of atovaquone was increased (point estimate = 1.28, 90% CI = 1.00 to 1.63).
 Proguanil AUC, Cmax, and its t1/2 increased in subjects with mild hepatic impairment when compared to healthy subjects (Table 2).
 Also, the proguanil AUC and its t1/2 increased in subjects with moderate hepatic impairment when compared to healthy subjects.
 Consistent with the increase in proguanil AUC, there were marked decreases in the systemic exposure of cycloguanil (Cmax and AUC) and an increase in its elimination half-life in subjects with mild hepatic impairment when compared to healthy volunteers (Table 2).
@@ -111,12 +110,9 @@ Point Estimates (90% CI) for Proguanil and Cycloguanil Parameters in Subjects Wi
 | AUC(0-inf)* | moderate:healthy | 1.64 (1.14, 2.34) | ND |
 | Cmax* | moderate:healthy | 0.97 (0.69, 1.36) | ND |
 | t1/2† | moderate:healthy | 1.46 (1.05, 2.05) | ND |
-
-ND = not determined due to lack of quantifiable data.
-
-*Ratio of geometric means.
-
-†Mean difference.
+| ND = not determined due to lack of quantifiable data. |  |  |  |
+| * Ratio of geometric means. |  |  |  |
+| † Mean difference. |  |  |  |
 
 ### Renal Impairment
 
@@ -135,6 +131,9 @@ Concomitant treatment with metoclopramide has also been associated with decrease
 
 Concomitant administration of rifampin or rifabutin is known to reduce atovaquone levels by approximately 50% and 34%, respectively (see PRECAUTIONS: Drug Interactions).
 The mechanisms of these interactions are unknown.
+
+Concomitant administration of atovaquone and indinavir results in a decrease in the Cmin of indinavir (23% decrease [90% CI: 8%, 35%]).
+Caution should be exercised when prescribing atovaquone with indinavir due to the decrease in trough levels of indinavir.
 
 Atovaquone is highly protein bound (>99%) but does not displace other highly protein-bound drugs in vitro, indicating significant drug interactions arising from displacement are unlikely (see PRECAUTIONS: Drug Interactions).
 Proguanil is metabolized primarily by CYP2C19.

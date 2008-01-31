@@ -48,10 +48,8 @@ Adverse Experiences in Placebo-Controlled Clinical Trials of MALARONE for Prophy
 | Vomiting | 2 | (<1) | 1 | (<1) | <1 | (<1) | 6 | (6) | 7 | (7) |
 | Flu syndrome | 1 | (0) | 2 | (0) | 4 | (0) | 6 | (0) | 9 | (0) |
 | Any adverse experience | 65 | (32) | 54 | (17) | 49 | (17) | 62 | (41) | 60 | (42) |
-
-* Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in placebo-controlled trials.
-
-†Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in any trial.
+| * Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in placebo-controlled trials. |  |  |  |  |  |  |  |  |  |  |
+| † Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in any trial. |  |  |  |  |  |  |  |  |  |  |
 
 In an additional placebo-controlled study of malaria prophylaxis with MALARONE involving 330 pediatric patients in a malaria-endemic area (see CLINICAL STUDIES), the safety profile of MALARONE was consistent with that described above.
 The most common treatment-emergent adverse events with MALARONE were abdominal pain (13%), headache (13%), and cough (10%).
@@ -90,33 +88,28 @@ Adverse Experiences in Active-Controlled Clinical Trials of MALARONE for Prophyl
 | Any adverse experience | 64 | (30) | 69 | (42) | 58 | (22) | 66 | (28) |
 | Any neuropsychiatric event | 20 | (14) | 37 | (29) | 16 | (10) | 20 | (10) |
 | Any GI event | 49 | (16) | 50 | (19) | 43 | (12) | 54 | (20) |
-
-*Adverse experiences that started while receiving active study drug.
+| * Adverse experiences that started while receiving active study drug. |  |  |  |  |  |  |  |  |
 
 In a third active-controlled study, MALARONE (n = 110) was compared with chloroquine/proguanil (n = 111) for the prophylaxis of malaria in 221 non-immune pediatric patients (see CLINICAL STUDIES).
 The mean duration of exposure was 23 days for MALARONE, 46 days for chloroquine, and 43 days for proguanil, reflecting the different recommended dosage regimens for these products.
 Fewer patients treated with MALARONE reported abdominal pain (2% vs. 7%) or nausea (<1% vs. 7%) than children who received chloroquine/proguanil.
 Oral ulceration (2% vs. 2%), vivid dreams (2% vs. <1%), and blurred vision (0% vs. 2%) occurred in similar proportions of patients receiving either MALARONE or chloroquine/proguanil, respectively.
-Two patients discontinued prophylaxis with chloroquine/proguanil due to adverse events, while none of those receiving MALARONE discontinued due to adverse events.
+Two patients discontinued prophylaxis with chloroquine/proguanil due to adverse events, while none of those receiving MALARONE discontinued due toadverse events.
 
 ## Post-Marketing Adverse Reactions
 
-In addition to adverse events reported from clinical trials, the following events have been identified during world-wide post-approval use of MALARONE or its components, atovaquone and proguanil hydrochloride.
+In addition to adverse events reported from clinical trials, the following events have been identified during world-wide post-approval use of MALARONE.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to MALARONE.
 
 ### Blood and Lymphatic System Disorders
 
-Anemia and neutropenia in patients treated with atovaquone.
+Neutropenia and rarely anemia.
 Pancytopenia in patients with severe renal impairment treated with proguanil.
 
 ### Immune System Disorders
 
-Allergic reactions including angioedema, uticaria and rare cases of anaphylaxis.
-
-### Metabolism and Nutrition Disorders
-
-Elevated amylase levels and hyponatremia in patients treated with atovaquone.
+Allergic reactions including angioedema, urticaria, and rare cases of anaphylaxis.
 
 ### Nervous System Disorders
 
@@ -124,8 +117,8 @@ Rare cases of seizures and psychotic events (such as hallucinations); however, a
 
 ### Hepatobiliary Disorders
 
-Very rare reports of hepatitis.
+Elevated liver function tests and rare cases of hepatitis; a single case of hepatic failure requiring transplant has been reported.
 
 ### Skin and Subcutaneous Tissue Disorders
 
-Photosensitivity, rash, and rare cases of erythema multiforme and Steven-Johnson syndrome.
+Photosensitivity, rash, and rare cases of erythema multiforme and Stevens-Johnson syndrome.

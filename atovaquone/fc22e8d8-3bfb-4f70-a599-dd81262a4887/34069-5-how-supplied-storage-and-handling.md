@@ -10,4 +10,4 @@ MALARONE Pediatric Tablets, containing 62.5 mg atovaquone and 25 mg proguanil hy
 
 Bottle of 100 tablets with child-resistant closure (NDC 0173-0676-01).
 
-Storeat 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) (see USP Controlled Room Temperature).
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) (see USP Controlled Room Temperature).

@@ -1,11 +1,12 @@
-# Warnings
-
 # PRECAUTIONS
 
 ## General
 
 MALARONE has not been evaluated for the treatment of cerebral malaria or other severe manifestations of complicated malaria, including hyperparasitemia, pulmonary edema, or renal failure.
 Patients with severe malaria are not candidates for oral therapy.
+
+Elevated liver function tests and rare cases of hepatitis have been reported with prophylactic use of MALARONE.
+A single case of hepatic failure requiring liver transplantation has also been reported with prophylactic use.
 
 Absorption of atovaquone may be reduced in patients with diarrhea or vomiting.
 If MALARONE is used in patients who are vomiting (see DOSAGE AND ADMINISTRATION), parasitemia should be closely monitored and the use of an antiemetic considered.
@@ -26,6 +27,7 @@ Patients should be instructed:
 - to take a repeat dose of MALARONE if vomiting occurs within 1 hour after dosing.
 - to take a dose as soon as possible if a dose is missed, then return to their normal dosing schedule.
   However, if a dose is skipped, the patient should not double the next dose.
+- that rare serious adverse events such as hepatitis, severe skin reactions, neurological, and hematological events have been reported when MALARONE was used for the prophylaxis or treatment of malaria.
 - to consult a healthcare professional regarding alternative forms of prophylaxis if prophylaxis with MALARONE is prematurely discontinued for any reason.
 - that protective clothing, insect repellents, and bednets are important components of malaria prophylaxis.
 - that no chemoprophylactic regimen is 100% effective; therefore, patients should seek medical attention for any febrile illness that occurs during or after return from a malaria-endemic area and inform their healthcare professional that they may have been exposed to malaria.
@@ -41,11 +43,15 @@ While antiemetics may be indicated for patients receiving MALARONE, metocloprami
 Concomitant administration of rifampin or rifabutin is known to reduce atovaquone levels by approximately 50% and 34%, respectively.
 The concomitant administration of MALARONE and rifampin or rifabutin is not recommended.
 
+Proguanil may potentiate the anticoagulant effect of warfarin and other coumarin-based anticoagulants.
+The mechanism of this potential drug interaction has not been established.
+Caution is advised when initiating or withdrawing malaria prophylaxis or treatment with MALARONE in patients on continuous treatment with coumarin-based anticoagulants.
+
 Atovaquone is highly protein bound (>99%) but does not displace other highly protein-bound drugs in vitro, indicating significant drug interactions arising from displacement are unlikely.
 
 Potential interactions between proguanil or cycloguanil and other drugs that are CYP2C19 substrates or inhibitors are unknown.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 ### Atovaquone
 
@@ -57,7 +63,7 @@ No evidence of genotoxicity was observed in the in vivo Mouse Micronucleus assay
 
 No evidence of a carcinogenic effect was observed in 24-month studies conducted in CD-1 mice (doses up to 1.5 times the average systemic human exposure based on AUC) and in Wistar Hannover rats (doses up to 1.1 times the average systemic human exposure).
 
-Proguanil was negative with or without metabolic activation in the Ames Salmonellamutagenicity assay and the Mouse Lymphoma mutagenesis assay.
+Proguanil was negative with or without metabolic activation in the Ames Salmonella mutagenicity assay and the Mouse Lymphoma mutagenesis assay.
 No evidence of genotoxicity was observed in the in vivo Mouse Micronucleus assay.
 
 Cycloguanil, the active metabolite of proguanil, was also negative in the Ames test, but was positive in the Mouse Lymphoma assay and the Mouse Micronucleus assay.
