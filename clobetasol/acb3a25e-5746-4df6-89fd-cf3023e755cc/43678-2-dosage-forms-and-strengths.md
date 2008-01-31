@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Shampoo: 0.05%
