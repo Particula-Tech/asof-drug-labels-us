@@ -2,6 +2,9 @@
 
 ## 7.1 CNS-Active Drugs
 
+Since the systematic evaluations of zolpidem tartrate in combination with other CNS-active drugs have been limited, careful consideration should be given to the pharmacology of any CNS-active drug to be used with zolpidem.
+Any drug with CNS-depressant effects could potentially enhance the CNS-depressant effects of zolpidem.
+
 Zolpidem tartrate tablets were evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
@@ -17,15 +20,12 @@ There was no evidence of an additive effect in psychomotor performance.
 Following five consecutive nightly doses of zolpidem 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (53%).
 Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.
 
-Since the systematic evaluations of zolpidem tartrate tablets in combination with other CNS-active drugs have been limited, careful consideration should be given to the pharmacology of any CNS-active drug to be used with zolpidem.
-Any drug with CNS-depressant effects could potentially enhance the CNS-depressant effects of zolpidem.
-
 ## 7.2 Drugs that Affect Drug Metabolism via Cytochrome P450
 
-A randomized, double-blind, crossover interaction study in ten healthy volunteers between itraconazole (200 mg once daily for 4 days) and a single dose of zolpidem (10 mg) given 5 hours after the last dose of itraconazole resulted in a 34% increase in AUC0-∞of zolpidem.
-There were no significant pharmacodynamic effects of zolpidem on subjective drowsiness, postural sway, or psychomotor performance.
-
 A randomized, placebo-controlled, crossover interaction study in eight healthy female volunteers between 5 consecutive daily doses of rifampin (600 mg) and a single dose of zolpidem (20 mg) given 17 hours after the last dose of rifampin showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36%) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem.
+
+A randomized, double-blind, crossover interaction study in ten healthy volunteers between itraconazole (200 mg once daily for 4 days) and a single dose of zolpidem (10 mg) given 5 hours after the last dose of itraconazole resulted in a 34% increase in AUC0-∞ of zolpidem.
+There were no significant pharmacodynamic effects of zolpidem on subjective drowsiness, postural sway, or psychomotor performance.
 
 ## 7.3 Other Drugs
 

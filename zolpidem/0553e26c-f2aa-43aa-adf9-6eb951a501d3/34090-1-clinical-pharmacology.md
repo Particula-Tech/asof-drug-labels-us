@@ -48,14 +48,3 @@ No accumulation of unchanged drug appeared after 14 or 21 days.
 Zolpidem tartrate tablet pharmacokinetics were not significantly different in renally impaired patients.
 No dosage adjustment is necessary in patients with compromised renal function.
 As a general precaution, these patients should be closely monitored.
-
-Postulated Relationship Between Elimination Rate of Hypnotics and their Profile of Common Untoward Effects:
-
-The type and duration of hypnotic effects and the profile of unwanted effects during administration of hypnotic drugs may be influenced by the biologic half-life of administered drug and any active metabolites formed.
-When half-lives are long, drug or metabolites may accumulate during periods of nightly administration and be associated with impairment of cognitive and/or motor performance during waking hours; the possibility of interaction with other psychoactive drugs or alcohol will be enhanced.
-In contrast, if half-lives, including half-lives of active metabolites, are short, drug and metabolites will be cleared before the next dose is ingested, and carryover effects related to excessive sedation or CNS depression should be minimal or absent.
-Zolpidem tartrate tablets have a short half-life and no active metabolites.
-During nightly use for an extended period, pharmacodynamic tolerance or adaptation to some effects of hypnotics may develop.
-If the drug has a short elimination half-life, it is possible that a relative deficiency of the drug or its active metabolites (ie, in relationship to the receptor site) may occur at some point in the interval between each night's use.
-This sequence of events may account for two clinical findings reported to occur after several weeks of nightly use of other rapidly eliminated hypnotics, namely, increased wakefulness during the last third of the night, and the appearance of increased signs of daytime anxiety.
-Increased wakefulness during the last third of the night as measured by polysomnography has not been observed in clinical trials with zolpidem tartrate tablets.

@@ -23,15 +23,17 @@ Some of these changes may be characterized by decreased inhibition (e.g, aggress
 Visual and auditory hallucinations have been reported as well as behavioral changes such as bizarre behavior, agitation and depersonalization.
 In controlled trials, <1% of adults with insomnia who received zolpidem reported hallucinations.
 In a clinical trial, 7.4 % of pediatric patients with insomnia associated with attention-deficit/hyperactivity disorder (ADHD), who received zolpidem reported hallucinations.
+[see Pediatric Use (8.4)].
 
-Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported.
+Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported with zolpidem tartrate tablets use.
 These events can occur in sedative-hypnotic-naive as well as in sedative-hypnotic-experienced persons.
 Although behaviors such as "sleep-driving" may occur with zolpidem tartrate tablets alone at therapeutic doses, the use of alcohol and other CNS depressants with zolpidem tartrate tablets appears to increase the risk of such behaviors, as does the use of zolpidem tartrate tablets at doses exceeding the maximum recommended dose.
 Due to the risk to the patient and the community, discontinuation of zolpidem tartrate tablets should be strongly considered for patients who report a "sleep-driving" episode.
 Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
 As with "sleep-driving", patients usually do not remember these events.
 Amnesia, anxiety and other neuro-psychiatric symptoms may occur unpredictably.
-In primarily depressed patients, worsening of depression, including suicidal thinking, has been reported in association with the use of sedative/hypnotics.
+
+In primarily depressed patients, worsening of depression, including suicidal thoughts and actions (including completed suicides), has been reported in association with the use of sedative/hypnotics.
 
 It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
 Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
@@ -59,6 +61,7 @@ Use in Patients with Concomitant Illness: Clinical experience with zolpidem tart
 Caution is advisable in using zolpidem tartrate tablets in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
 Although studies did not reveal respiratory depressant effects at hypnotic doses of zolpidem tartrate tablets in normals or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90% was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem tartrate tablets (10 mg) when compared to placebo.
 However, precautions should be observed if zolpidem tartrate tablets are prescribed to patients with compromised respiratory function, since sedative/hypnotics have the capacity to depress respiratory drive.
+Zolpidem tartrate tablets should be used with caution in patients with sleep apnea syndrome or myasthenia gravis.
 Post-marketing reports of respiratory insufficiency, most of which involved patients with pre-existing respiratory impairment, have been received.
 Data in end-stage renal failure patients repeatedly treated with zolpidem tartrate tablets did not demonstrate drug accumulation or alterations in pharmacokinetic parameters.
 No dosage adjustment in renally impaired patients is required; however, these patients should be closely monitored [see Pharmacokinetics (12.3)].

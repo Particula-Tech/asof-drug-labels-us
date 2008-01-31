@@ -6,6 +6,8 @@ The dose of zolpidem tartrate tablets should be individualized.
 
 The recommended dose for adults is 10 mg immediately before bedtime.
 
+Zolpidem tartrate tablets should not be administered with or immediately after a meal.
+
 ## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate tablets.

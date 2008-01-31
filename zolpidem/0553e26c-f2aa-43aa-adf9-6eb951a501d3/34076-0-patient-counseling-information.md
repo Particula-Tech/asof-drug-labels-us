@@ -1,164 +1,165 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-## 17.1 General
+See Medication Guide.
+Prescribers or other healthcare professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with sedative-hypnotics and should counsel them in its appropriate use.
 
-Patient information is printed at the end of this insert.
-To assure safe and effective use of zolpidem tartrate tablets, this information and instructions provided in the patient information section should be discussed with patients.
+## 17.1 "Sleep-Driving" and other complex behaviors
 
-## 17.2 FDA-Approved Patient Labeling
+There have been reports of people getting out of bed after taking a sedative-hypnotic and driving their cars while not fully awake, often with no memory of the event.
+If a patient experiences such an episode, it should be reported to his or her doctor immediately, since "sleep-driving" can be dangerous.
+This behavior is more likely to occur when zolpidem tartrate tablets are taken with alcohol or other central nervous system depressants [see WARNINGS (5.3)].
+Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
+As with "sleep-driving", patients usually do not remember these events.
 
-Your doctor has prescribed zolpidem tartrate tablets to help you sleep.
-The following information is intended to guide you in the safe use of this medicine.
-It is not meant to take the place of your doctor's instructions.
-If you have any questions about zolpidem tartrate tablets be sure to ask your doctor or pharmacist.
+Patients should be instructed NOT to take zolpidem tartrate tablets or other sedative-hypnotics when drinking alcohol.
+In addition, patients should be advised to report all concomitant medications to the prescriber.
+Patients should be counseled to take zolpidem tartrate tablets right before they get in bed and only when they are able to stay in bed a full night (7-8 hours) before being active again.
+Patients should be instructed to report events such as sleep-driving and other complex behaviors immediately to the prescriber.
 
-Zolpidem tartrate tablets are used to treat different types of sleep problems in adults, such as:
+## 17.2 Medication Guide
+
+A patient Medication Guide is available for zolpidem tartrate tablets which discusses "sleep driving" as well as other sedative-hypnotic related issues.
+The prescriber or healthcare professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss contents of the Medication Guide and obtain answers to any questions they may have.
+The Medication Guide is printed at the end of this document.
+
+Medication Guide
+
+Zolpidem Tartrate TabletsC-IV
+
+Read the Medication Guide that comes with zolpidem tartrate tablets before you start taking it and each time you get a refill.
+There may be new information.
+This Medication Guide does not take the place of talking to your doctor about your medical condition or treatment.
+
+What is the most important information I should know about zolpidem tartrate tablets?
+
+After taking zolpidem tartrate tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+The next morning, you may not remember that you did anything during the night.
+You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with zolpidem tartrate tablets.
+Reported activities include:
+
+- driving a car ("sleep-driving")
+- making and eating food
+- talking on the phone
+- having sex
+- sleep-walking
+
+Call your doctor right away if you find out that you have done any of the above activities after taking zolpidem tartrate tablets.
+
+Important:
+
+1.
+Take zolpidem tartrate tablets exactly as prescribed
+
+- Do not take more zolpidem tartrate tablets than prescribed.
+- Take zolpidem tartrate tablets right before you get in bed, not sooner.
+
+2.
+Do not take zolpidem tartrate tablets if you
+
+- drink alcohol
+- take other medicines that can make you sleepy.
+  Talk to your doctor about all of your medicines.
+  Your doctor will tell you if you can take zolpidem tartrate tablets with your other medicines.
+- cannot get a full night's sleep
+
+What are zolpidem tartrate tablets?
+
+Zolpidem tartrate is a sedative-hypnotic (sleep) medicine.
+Zolpidem tartrate tablets are used in adults for the short-term treatment of a sleep problem called insomnia.
+Symptoms of insomnia include:
 
 - trouble falling asleep
-- waking up too early in the morning
-- waking up often during the night
+- zolpidem tartrate tablets are not for children.
 
-Some people may have more than one of these problems.
+Who should not take zolpidem tartrate tablets?
 
-Zolpidem tartrate tablets belong to a group of medicines known as the "sedative/hypnotics," or simply, sleep medicines.
-There are many different sleep medicines available to help people sleep better.
-Sleep problems are usually temporary, requiring treatment for only a short time, usually 1 or 2 days up to 1 or 2 weeks.
-Some people have chronic sleep problems that may require more prolonged use of sleep medicine.
-However, you should not use these medicines for long periods without talking with your doctor about the risks and benefits of prolonged use.
+Do not take zolpidem tartrate tablets if you are allergic to anything in it.
+See the end of this Medication Guide for a complete list of ingredients in zolpidem tartrate tablets.
 
-SIDE EFFECTS
+Zolpidem tartrate tablets may not be right for you.
+Before starting zolpidem tartrate tablets, tell your doctor about all of your health conditions, including if you:
 
-Most Common Side Effects: All medicines have side effects.
-Most common side effects of sleep medicines include:
+- have a history of depression, mental illness or suicidal thoughts
+- have a history of drug or alcohol abuse or addiction
+- have kidney or liver disease
+- have a lung disease or breathing problems
+- are pregnant, planning to become pregnant, or breastfeeding
+
+Tell your doctor about all of the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
+Medicines can interact with each other, sometimes causing serious side effects.
+Do not take zolpidem tartrate tablets with other medicines that can make you sleepy.
+
+Know the medicines you take.
+Keep a list of your medicines with you to show your doctor and pharmacist each time you get a new medicine.
+
+How should I take zolpidem tartrate tablets?
+
+- Take zolpidem tartrate tablets exactly as prescribed.
+  Do not take more zolpidem tartrate tablets than prescribed for you.
+- Take zolpidem tartrate tablets right before you get into bed.
+- Do not take zolpidem tartrate tablets unless you are able to stay in bed a full night (7-8 hours) before being active again.
+- For faster sleep onset, zolpidem tartrate tablets should NOT be taken with or immediately after a meal.
+- Call your doctor if your insomnia worsens or is not better within 7 to 10 days.
+  This may mean that there is another condition causing your sleep problem.
+- If you take too much zolpidem tartrate tablets or overdose, call your doctor or poison control center right away, or get emergency treatment.
+
+What are the possible side effects of zolpidem tartrate tablets?
+Possible serious side effects of zolpidem tartrate tablets include:
+
+- getting out of bed while not being fully awake and do an activity that you do not know you are doing.
+  (See "What is the most important information I should know about zolpidem tartrate tablets?)
+- abnormal thoughts and behavior.
+  Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
+- memory loss
+- anxiety
+- severe allergic reactions.
+  Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
+  Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
+
+Call your doctor right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate tablets.
+
+The most common side effects of zolpidem tartrate tablets are:
 
 - drowsiness
 - dizziness
-- lightheadedness
-- difficulty with coordination
+- diarrhea
+- "drugged feelings"
+- You may still feel drowsy the next day after taking zolpidem tartrate tablets.
+  Do not drive or do other dangerous activities after taking zolpidem tartrate tablets until you feel fully awake.
 
-You may find that these medicines make you sleepy during the day.
-How drowsy you feel depends upon how your body reacts to the medicine, which sleep medicine you are taking, and how large a dose your doctor has prescribed.
-Daytime drowsiness is best avoided by taking the lowest dose possible that will still help you sleep at night.
-Your doctor will work with you to find the dose of zolpidem tartrate tablets that is best for you.
+After you stop taking a sleep medicine, you may have symptoms for 1 to 2 days such as: trouble sleeping, nausea, flushing, lightheadedness, uncontrolled crying, vomiting, stomach cramps, panic attack, nervousness, and stomach area pain.
 
-To manage these side effects while you are taking this medicine:
+These are not all the side effects of zolpidem tartrate tablets.
+Ask your doctor or pharmacist for more information.
 
-- When you first start taking zolpidem tartrate tablets or any other sleep medicine until you know whether the medicine will still have some carryover effect in you the next day, use extreme care while doing anything that requires complete alertness, such as driving a car, operating machinery, or piloting an aircraft.
-- NEVER drink alcohol while you are being treated with zolpidem tartrate tablets or any sleep medicine.
-  Alcohol can increase the side effects of zolpidem tartrate tablets or any other sleep medicine.
-- Do not take any other medicines without asking your doctor first.
-  This includes medicines you can buy without a prescription.
-  Some medicines can cause drowsiness and are best avoided while taking zolpidem tartrate tablets.
-- Always take the exact dose of zolpidem tartrate tablets prescribed by your doctor.
-  Never change your dose without talking to your doctor first.
+How should I store zolpidem tartrate tablets?
 
-SPECIAL CONCERNS
+- Store zolpidem tartrate tablets at room temperature, 68° to 77°F (20° to 25° C).
+- Keep zolpidem tartrate tablets and all medicines out of reach of children.
 
-There are some special problems that may occur while taking sleep medicines.
+General Information about zolpidem tartrate tablets
 
-"Sleep-Driving" and Other Complex Behaviors: There have been reports of people getting out of bed after taking a sleep medicine and driving their cars while not fully awake, often with no memory of the event.
-If you experience such an event, it should be reported to your doctor immediately, since "sleep-driving" can be dangerous.
-This behavior is more likely to occur when zolpidem tartrate tablets are taken with alcohol or other drugs such as those for the treatment of depression or anxiety.
-Other behaviors such as preparing and eating food, making phone calls, or having sex have been reported in people who are not fully awake after taking a sleep medicine.
-As with "sleep-driving", people usually do not remember these events.
+- Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+- Do not use zolpidem tartrate tablets for a condition for which it was not prescribed.
+- Do not share zolpidem tartrate tablets with other people, even if you think they have the same symptoms that you have.
+  It may harm them and it is against the law.
 
-Memory Problems: Sleep medicines may cause a special type of memory loss or "amnesia".
-When this occurs, a person may not remember what has happened for several hours after taking the medicine.
-This is usually not a problem since most people fall asleep after taking the medicine.
+This Medication Guide summarizes the most important information about zolpidem tartrate tablets.
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about zolpidem tartrate tablets that is written for healthcare professionals.
+For more information about zolpidem tartrate tablets, call Sandoz at 1-800-525-8747.
 
-Memory loss can be a problem, however, when sleep medicines are taken while traveling, such as during an airplane flight and the person wakes up before the effect of the medicine is gone.
-This has been called "traveler's amnesia".
+What are the ingredients in zolpidem tartrate tablets?
 
-Memory problems are not common while taking zolpidem tartrate tablets.
-In most instances memory problems can be avoided if you take zolpidem tartrate tablets only when you are able to get a full night's sleep (7 to 8 hours) before you need to be active again.
-Be sure to talk to your doctor if you think you are having memory problems.
+Active Ingredient: zolpidem tartrate.
 
-Tolerance: When sleep medicines are used every night for more than a few weeks, they may lose their effectiveness to help you sleep.
-This is known as "tolerance".
-Sleep medicines should, in most cases, be used only for short periods of time, such as 1 or 2 days and generally no longer than 1 or 2 weeks.
-If your sleep problems continue, consult your doctor, who will determine whether other measures are needed to overcome your sleep problems.
+Inactive Ingredients: colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, povidone, magnesium stearate, hypromellose 2910, hydroxypropyl cellulose, polyethylene glycol 400, talc, titanium dioxide, carnauba wax; the 10 mg tablet also contains ferric oxide.
 
-Dependence: Sleep medicines can cause dependence, especially when these medicines are used regularly for longer than a few weeks or at high doses.
-Some people develop a need to continue taking their medicines.
-This is known as dependence or "addiction".
-
-When people develop dependence, they may have difficulty stopping the sleep medicine.
-If the medicine is suddenly stopped, the body is not able to function normally and unpleasant symptoms (see Withdrawal) may occur.
-They may find they have to keep taking the medicine either at the prescribed dose or at increasing doses just to avoid withdrawal symptoms.
-
-All people taking sleep medicines have some risk of becoming dependent on the medicine.
-However, people who have been dependent on alcohol or other drugs in the past may have a higher chance of becoming addicted to sleep medicines.
-This possibility must be considered before using these medicines for more than a few weeks.
-
-If you have been addicted to alcohol or drugs in the past, it is important to tell your doctor before starting zolpidem tartrate tablets or any sleep medicine.
-
-Withdrawal: Withdrawal symptoms may occur when sleep medicines are stopped suddenly after being used daily for a long time.
-In some cases, these symptoms can occur even if the medicine has been used for only a week or two.
-
-In mild cases, withdrawal symptoms may include unpleasant feelings.
-In more severe cases, abdominal and muscle cramps, vomiting, sweating, shakiness, and rarely, seizures may occur.
-These more severe withdrawal symptoms are very uncommon.
-
-Another problem that may occur when sleep medicines are stopped is known as "rebound insomnia".
-This means that a person may have more trouble sleeping the first few nights after the medicine is stopped than before starting the medicine.
-If you should experience rebound insomnia, do not get discouraged.
-This problem usually goes away on its own after 1 or 2 nights.
-
-If you have been taking zolpidem tartrate tablets or any other sleep medicine for more than 1 or 2 weeks, do not stop taking it on your own.
-Always follow your doctor's directions.
-
-Changes in Behavior and Thinking: Some people using sleep medicines have experienced unusual changes in their thinking and/or behavior.
-These effects are not common.
-However, they have included:
-
-- more outgoing or aggressive behavior than normal
-- loss of personal identity
-- confusion
-- strange behavior
-- agitation
-- hallucinations
-- worsening of depression
-- suicidal thoughts
-
-How often these effects occur depends on several factors, such as a person's general health, the use of other medicines, and which sleep medicine is being used.
-Clinical experience with zolpidem tartrate tablets suggests that it is uncommonly associated with these behavior changes.
-
-It is also important to realize that it is rarely clear whether these behavior changes are caused by the medicine, an illness, or occur on their own.
-In fact, sleep problems that do not improve may be due to illnesses that were present before the medicine was used.
-If you or your family notice any changes in your behavior, or if you have any unusual or disturbing thoughts, call your doctor immediately.
-
-Pregnancy: Sleep medicines may cause sedation of the unborn baby when used during the last weeks of pregnancy.
-
-Be sure to tell your doctor if you are pregnant, if you are planning to become pregnant, or if you become pregnant while taking zolpidem tartrate tablets.
-
-Children: Zolpidem tartrate tablets have not been shown to help children fall asleep.
-Hallucinations, headache and dizziness have all been reported as side effects in children who were given zolpidem tartrate tablets.
-
-SAFE USE OF SLEEPING MEDICINES
-
-To ensure the safe and effective use of zolpidem tartrate tablets or any other sleep medicine, you should observe the following cautions:
-
-1. Zolpidem tartrate tablet is a prescription medicine and should be used ONLY as directed by your doctor.
-   Follow your doctor's instructions about how to take, when to take, and how long to take zolpidem tartrate tablets.
-2. Never use zolpidem tartrate tablets or any other sleep medicine for longer than directed by your doctor.
-3. If you develop an allergic reaction such as a rash, hives, shortness of breath, or swelling of your tongue or throat when using zolpidem tartrate tablets or any other sleep medicine, discontinue zolpidem tartrate tablets or other sleep medicine immediately and contact your doctor.
-4. If you notice any unusual and/or disturbing thoughts or behavior during treatment with zolpidem tartrate tablets or any other sleep medicine, contact your doctor.
-5. Tell your doctor about any medicines you may be taking, including medicines you may buy without a prescription.
-   You should also tell your doctor if you drink alcohol.
-   DO NOT use alcohol while taking zolpidem tartrate tablets or any other sleep medicine.
-6. Do not take zolpidem tartrate tablets unless you are able to get a full night's sleep before you must be active again.
-   For example, zolpidem tartrate tablets should not be taken on an overnight airplane flight of less than 7 to 8 hours since "traveler's amnesia" may occur.
-7. Do not increase the prescribed dose of zolpidem tartrate tablets or any other sleep medicine unless instructed by your doctor.
-8. When you first start taking zolpidem tartrate tablets or any other sleep medicine until you know whether the medicine will still have some carryover effect in you the next day, use extreme care while doing anything that requires complete alertness, such as driving a car, operating machinery, or piloting an aircraft.
-9. Be aware that you may have more sleeping problems the first night or two after stopping zolpidem tartrate tablets or any other sleep medicine.
-10. Be sure to tell your doctor if you are pregnant, if you are planning to become pregnant, or if you become pregnant while taking zolpidem tartrate tablets.
-11. As with all prescription medicines, never share zolpidem tartrate tablets or any other sleep medicine with anyone else.
-    Always store zolpidem tartrate tablets or any other sleep medicine in the original container out of reach of children.
-12. Zolpidem tartrate tablets work very quickly.
-    You should only take zolpidem tartrate tablets right before going to bed and are ready to go to sleep.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-April 2007
+October 2007

@@ -15,7 +15,7 @@ Data from a clinical study in which selective serotonin reuptake inhibitor- (SSR
 Most Commonly Observed Adverse Events in Controlled Trials: During short-term treatment (up to 10 nights) with zolpidem tartrate tablets at doses up to 10 mg, the most commonly observed adverse events associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
 During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse events associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
 
-Adverse events Observed at an Incidence of ≥ 1% in Controlled Trials: The following tables enumerate treatment-emergent adverse event frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate tablets in U.S. placebo-controlled trials.
+Adverse events Observed at an Incidence of ≥ 1% in Controlled Trials: The following tables enumerate treatment-emergent adverse event frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate tablets and at a greater incidence than placebo in U.S. placebo-controlled trials.
 Events reported by investigators were classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
@@ -24,7 +24,7 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from a pool of 11 placebo- controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-| Incidence of Treatment-Emergent Adverse Experiences in Short-term Placebo-Controlled Clinical Trials (Percentage of Patients Reporting) |  |  |
+| Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials lasting up to 10 nights (Percentage of Patients Reporting) |  |  |
 | --- | --- | --- |
 | Body System/ Adverse Event* | Zolpidem(≤ 10 mg)(N=685) | Placebo(N=473) |
 | Central and Peripheral Nervous System |  |  |
@@ -32,10 +32,7 @@ The table is limited to data from doses up to and including 10 mg, the highest d
 | Drowsiness | 2 | - |
 | Dizziness | 1 | - |
 | Gastrointestinal System |  |  |
-| Nausea | 2 | 3 |
 | Diarrhea | 1 | - |
-| Musculoskeletal System |  |  |
-| Myalgia | 1 | 2 |
 | *Events reported by at least 1% of zolpidem tartrate tablets patients are included. |  |  |
 
 The following table was derived from a pool of three placebo-controlled long-term efficacy trials involving zolpidem tartrate tablets.
@@ -43,7 +40,7 @@ These trials involved patients with chronic insomnia who were treated for 28 to 
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-| Incidence of Treatment-Emergent Adverse Experiences in Long-term Placebo-Controlled Clinical Trials(Percentage of patients reporting) |  |  |
+| Incidence of Treatment-Emergent Adverse Experiences Placebo-Controlled Clinical Trials lasting up to 35 nights(Percentage of patients reporting) |  |  |
 | --- | --- | --- |
 | Body System/ Adverse Event* | Zolpidem(≤ 10 mg)(N=152) | Placebo(N=161) |
 | Autonomic Nervous System |  |  |
@@ -53,11 +50,9 @@ The table includes only adverse events occurring at an incidence of at least 1% 
 | Back Pain | 3 | 2 |
 | Influenza-like Symptoms | 2 | – |
 | Chest Pain | 1 | – |
-| Fatigue | 1 | 2 |
 | Cardiovascular System |  |  |
 | Palpitation | 2 | - |
 | Central and Peripheral Nervous System |  |  |
-| Headache | 19 | 22 |
 | Drowsiness | 8 | 5 |
 | Dizziness | 5 | 1 |
 | Lethargy | 3 | 1 |
@@ -66,35 +61,16 @@ The table includes only adverse events occurring at an incidence of at least 1% 
 | Depression | 2 | 1 |
 | Abnormal Dreams | 1 | – |
 | Amnesia | 1 | – |
-| Anxiety | 1 | 1 |
-| Nervousness | 1 | 3 |
 | Sleep Disorder | 1 | – |
 | Gastrointestinal System |  |  |
-| Nausea | 6 | 6 |
-
-| Incidence of Treatment-Emergent Adverse Experiences in Long-term Placebo-Controlled Clinical Trials (continued)(Percentage of patients reporting) |  |  |
-| --- | --- | --- |
-| Body System/ Adverse Event* | Zolpidem(≤ 10 mg)(N=152) | Placebo(N=161) |
-| Dyspepsia | 5 | 6 |
 | Diarrhea | 3 | 2 |
 | Abdominal Pain | 2 | 2 |
 | Constipation | 2 | 1 |
-| Anorexia | 1 | 1 |
-| Vomiting | 1 | 1 |
-| Immunologic System |  |  |
-| Infection | 1 | 1 |
-| Musculoskeletal System |  |  |
-| Myalgia | 7 | 7 |
-| Arthralgia | 4 | 4 |
 | Respiratory System |  |  |
-| Upper Respiratory Infection | 5 | 6 |
 | Sinusitis | 4 | 2 |
 | Pharyngitis | 3 | 1 |
-| Rhinitis | 1 | 3 |
 | Skin and Appendages |  |  |
 | Rash | 2 | 1 |
-| Urogenital System |  |  |
-| Urinary Tract Infection | 2 | 2 |
 | *Events reported by at least 1% of patients treated with zolpidem tartrate tablets. |  |  |
 
 Dose Relationship for Adverse Events: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse events associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
