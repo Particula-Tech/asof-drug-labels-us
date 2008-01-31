@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -26,14 +26,14 @@ Absorption
 
 Quetiapine fumarate reaches peak plasma concentrations approximately 6 hours following administration.
 SEROQUEL XR dosed once daily at steady-state has comparable bioavailability to an equivalent total daily dose of SEROQUEL administered in divided doses, twice daily.
-A high-fat meal was found to produce statistically significant increases in the SEROQUEL XR Cmax and AUC of 44% to 52% and 20% to 22%, respectively, for the 50-mg and 300-mg tablets.
-In comparison, a light meal had no significant effect on the Cmax or AUC of quetiapine.
+A high-fat meal (approximately 800 to 1000 calories) was found to produce statistically significant increases in the SEROQUEL XR Cmax and AUC of 44% to 52% and 20% to 22%, respectively, for the 50-mg and 300-mg tablets.
+In comparison, a light meal (approximately 300 calories) had no significant effect on the Cmax or AUC of quetiapine.
 It is recommended that SEROQUEL XR be taken without food or with a light meal [see Dosage and Administration (2)].
 
 Distribution
 
 Quetiapine is widely distributed throughout the body with an apparent volume of distribution of 10±4 L/kg.
-Quetiapine is 83% bound to plasma proteins at therapeutic concentrations.
+It is 83% bound to plasma proteins at therapeutic concentrations.
 In vitro, quetiapine did not affect the binding of warfarin or diazepam to human serum albumin.
 In turn, neither warfarin nor diazepam altered the binding of quetiapine.
 
@@ -68,15 +68,15 @@ Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In 2 of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [See Dosage And Administration (2)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2)].
 
 Drug-Drug Interactions
 
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes P450 1A2, 2C9, 2C19, 2D6 and 3A4.
 
 Quetiapine oral clearance is increased by the prototype cytochrome P450 3A4 inducer, phenytoin, and decreased by the prototype cytochrome P450 3A4 inhibitor, ketoconazole.
-Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [See Drug Interactions (7.1) and Dosage And Administration (2)].
+Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [see Drug Interactions (7.1) and Dosage and Administration (2)].
 
 Quetiapine oral clearance is not inhibited by the non-specific enzyme inhibitor, cimetidine.
 
-Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam [See Drug Interactions (7.2)].
+Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam [see Drug Interactions (7.2)].

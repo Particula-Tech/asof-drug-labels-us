@@ -1,4 +1,4 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -15,7 +15,7 @@ The relevance of the increases in thyroid follicular cell adenomas to human risk
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
 Serum measurements in a 1-yr toxicity study showed that quetiapine increased median serum prolactin levels a maximum of 32- and 13-fold in male and female rats, respectively.
 Increases in mammary neoplasms have been found in rodents after chronic administration of other antipsychotic drugs and are considered to be prolactin-mediated.
-The relevance of this increased incidence of prolactin-mediated mammary gland tumors in rats to human risk is unknown [see Warning and Precautions (5.10)].
+The relevance of this increased incidence of prolactin-mediated mammary gland tumors in rats to human risk is unknown [see Warnings and Precautions (5.12)].
 
 Mutagenesis
 

@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 The risks of using SEROQUEL XR in combination with other drugs have not been extensively evaluated in systematic studies.
 Given the primary CNS effects of SEROQUEL XR, caution should be used when it is taken in combination with other centrally acting drugs.
@@ -12,7 +12,7 @@ SEROQUEL XR may antagonize the effects of levodopa and dopamine agonists.
 
 Phenytoin
 
-Coadministration of quetiapine (250 mg three times/day) and phenytoin (100 mg three times/day) increased the mean oral clearance of quetiapine by 5-fold.
+Coadministration of quetiapine (250 mg three times/day) and phenytoin (100 mg three times /day) increased the mean oral clearance of quetiapine by 5-fold.
 Increased doses of SEROQUEL XR may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other hepatic enzyme inducers (eg, carbamazepine, barbiturates, rifampin, glucocorticoids).
 Caution should be taken if phenytoin is withdrawn and replaced with a non-inducer (eg, valproate) [see Dosage and Administration (2)].
 
@@ -32,7 +32,7 @@ Dosage adjustment for quetiapine is not required when it is given with cimetidin
 P450 3A Inhibitors
 
 Coadministration of ketoconazole (200 mg once daily for 4 days), a potent inhibitor of cytochrome P450 3A, reduced oral clearance of quetiapine by 84%, resulting in a 335% increase in maximum plasma concentration of quetiapine.
-Caution is indicated when SEROQUEL XR is administered with ketoconazole and other inhibitors of cytochrome P450 3A (eg, itraconazole, fluconazole, and erythromycin).
+Caution (reduced dosage) is indicated when SEROQUEL XR is administered with ketoconazole and other inhibitors of cytochrome P450 3A (eg, itraconazole, fluconazole, erythromycin, protease inhibitors).
 
 Fluoxetine, Imipramine, Haloperidol, and Risperidone
 
