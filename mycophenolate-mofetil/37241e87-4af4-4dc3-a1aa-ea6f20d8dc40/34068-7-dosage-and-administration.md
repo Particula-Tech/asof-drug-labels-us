@@ -56,7 +56,7 @@ CellCept Oral Suspension should not be mixed with any other medication.
 
 Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits.
 There are no adequate and well-controlled studies in pregnant women.
-(See WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, and HANDLING AND DISPOSAL.)
+(see WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, and HANDLING AND DISPOSAL.)
 Care should be taken to avoid inhalation or direct contact with skin or mucous membranes of the dry powder or the constituted suspension.
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with water.
 
@@ -96,8 +96,7 @@ CAUTION: CELLCEPT INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR 
 
 Caution should be exercised in the handling and preparation of solutions of CellCept Intravenous.
 Avoid direct contact of the prepared solution of CellCept Intravenous with skin or mucous membranes.
-If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
-(See WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, and HANDLING AND DISPOSAL.)
+If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water (see WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, and HANDLING AND DISPOSAL).
 
 CellCept Intravenous does not contain an antibacterial preservative; therefore, reconstitution and dilution of the product must be performed under aseptic conditions.
 Additionally, this product is sealed under vacuum and should retain a vacuum throughout its shelf life.

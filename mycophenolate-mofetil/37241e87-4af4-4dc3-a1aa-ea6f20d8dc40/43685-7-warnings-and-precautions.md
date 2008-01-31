@@ -44,7 +44,7 @@ CellCept therapy should not be initiated until a negative pregnancy test report 
 Women of childbearing potential (including pubertal girls and peri-menopausal women) taking CellCept must receive contraceptive counseling and use effective contraception.
 The patient should begin using her two chosen methods of contraception 4 weeks prior to starting CellCept therapy, unless abstinence is the chosen method.
 She should continue contraceptive use during therapy and for 6 weeks after stopping CellCept.
-Patients should be aware that CellCept reduces blood levels of the hormones in the oral contraceptive pill and could theoretically reduce its effectiveness (see PRECAUTIONS: Information for Patients and Drug Interactions: Oral Contraceptives).
+Patients should be aware that CellCept reduces blood levels of the hormones in the oral contraceptive pill and could theoretically reduce its effectiveness (see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions: Oral Contraceptives).
 
 ## Neutropenia
 
@@ -114,7 +114,7 @@ Complete blood counts should be performed weekly during the first month, twice m
 
 ## Drug Interactions
 
-Drug interaction studies with mycophenolate mofetil have been conducted with acyclovir, antacids, cholestyramine, cyclosporine, ganciclovir, oral contraceptives, and trimethoprim/sulfamethoxazole.
+Drug interaction studies with mycophenolate mofetil have been conducted with acyclovir, antacids, cholestyramine, cyclosporine, ganciclovir, oral contraceptives, sevelamer, trimethoprim/sulfamethoxazole, norfloxacin, and metronidazole.
 Drug interaction studies have not been conducted with other drugs that may be commonly administered to renal, cardiac or hepatic transplant patients.
 CellCept has not been administered concomitantly with azathioprine.
 
@@ -141,7 +141,10 @@ Therefore, CellCept is not recommended to be given with cholestyramine or other 
 
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
 The mean (±SD) AUC(0–12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng∙h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng∙h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
-The effect of cyclosporine on mycophenolate mofetil pharmacokinetics could not be evaluated in this study; however, plasma concentrations of MPA were similar to that for healthy volunteers.
+
+In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30-50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
+This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
+This information should be taken into consideration when MMF is used without cyclosporine.
 
 ### Ganciclovir
 
@@ -160,10 +163,28 @@ Mean serum levels of LH, FSH and progesterone were not significantly affected.
 CellCept may not have any influence on the ovulation-suppressing action of the studied oral contraceptives.
 However, it is recommended that oral contraceptives are coadministered with CellCept with caution and additional birth control methods be considered (see WARNINGS: Pregnancy).
 
+### Sevelamer
+
+Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0-12h by 36% and 26% respectively.
+This data suggest that sevelamer and other calcium free phosphate binders should not be administered simultaneously with CellCept.
+Alternatively, it is recommended that sevelamer and other calcium free phosphate binders preferentially could be given 2 hours after CellCept intake to minimize the impact on the absorption of MPA.
+
 ### Trimethoprim/sulfamethoxazole
 
-Following single-dose administration of mycophenolate mofetil (1.5 g) to 12 healthy male volunteers on day 8 of a 10 day course of trimethoprim 160 mg/sulfamethoxazole 800 mg) administered bid, no effect on the bioavailability of MPA was observed.
+Following single-dose administration of mycophenolate mofetil (1.5 g) to 12 healthy male volunteers on day 8 of a 10 day course of trimethoprim 160 mg/sulfamethoxazole 800 mg administered bid, no effect on the bioavailability of MPA was observed.
 The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) µg∙h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) µg∙h/mL and 34.2 (±10.7) µg/mL, respectively, after administration of mycophenolate mofetil alone.
+
+### Norfloxacin and Metronidazole
+
+Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p<0.05).
+Therefore, CellCept is not recommended to be given with the combination of norfloxacin and metronidazole.
+There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
+The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxcin or metronidazole separately was 48.3 (±24) µg•h/mL and 42.7 (±23) µg•h/mL, respectively, compared with 56.2 (±24) µg•h/mL after administration of mycophenolate mofetil alone.
+
+### Rifampin
+
+In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC0-12h) has been observed with concomitant administration of mycophenolate mofetil and rifampin.
+Therefore, CellCept is not recommended to be given with rifampin concomitantly unless the benefit outweighs the risk.
 
 ### Other Interactions
 
@@ -200,7 +221,7 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category D
+### Teratogenic Effects: Pregnancy Category D.
 
 See WARNINGS section.
 
