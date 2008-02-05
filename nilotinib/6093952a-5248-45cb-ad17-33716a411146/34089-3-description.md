@@ -1,0 +1,14 @@
+# 11 DESCRIPTION
+
+Tasigna (nilotinib) belongs to a pharmacologic class of drugs known as kinase inhibitors.
+
+Nilotinib drug substance, a monohydrate mono-hydrochloride, is a white to slightly yellowish to slightly greenish yellow powder with the anhydrous molecular formula and weight, respectively, of C28H22F3N7O•HCl • H2O and 565.98.
+The solubility of nilotinib in aqueous solutions decreases with increasing pH.
+Nilotinib is not optically active.
+The pKa1 was determined to be 2.1; pKa2 was estimated to be 5.4.
+
+The chemical name of nilotinib is 4-methyl-N-[3-(4-methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)phenyl]-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]-benzamide, monohydrochloride, monohydrate.
+Its structure is shown below:
+
+Tasigna (nilotinib) capsules, for oral use, contain 200 mg nilotinib base, anhydrous (as hydrochloride, monohydrate) with the following inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and polyoxamer 188.
+The capsules contain gelatin, iron oxide (red), iron oxide (yellow), and titanium dioxide.

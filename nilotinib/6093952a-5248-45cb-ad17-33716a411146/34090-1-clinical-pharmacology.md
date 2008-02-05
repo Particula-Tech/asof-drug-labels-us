@@ -1,0 +1,55 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Nilotinib is an inhibitor of the Bcr-Abl kinase.
+Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of Abl protein.
+In vitro, nilotinib inhibited Bcr-Abl mediated proliferation of murine leukemic cell lines and human cell lines derived from Ph+ CML patients.
+Under the conditions of the assays, nilotinib was able to overcome imatinib resistance resulting from Bcr-Abl kinase mutations, in 32 out of 33 mutations tested.
+In vivo, nilotinib reduced the tumor size in a murine Bcr-Abl xenograft model.
+Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: Bcr-Abl (20-60 nM), PDGFR (69 nM) and c-Kit (210 nM).
+
+## 12.3 Pharmacokinetics
+
+Absorption and Distribution:
+
+Peak concentrations of nilotinib are reached 3 hours after oral administration.
+
+Steady-state nilotinib exposure was dose-dependent with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once daily dosing.
+Daily serum exposure to nilotinib of 400 mg twice daily dosing at steady state was 35% higher than with 800 mg once daily dosing.
+There was no relevant increase in exposure to nilotinib when the dose was increased with 400 mg twice daily to 600 mg twice daily.
+
+The bioavailability of nilotinib was increased when given with a meal.
+Compared to the fasted state, the systemic exposure (AUC) increased by 82% when the dose was given 30 minutes after a high fat meal.
+
+The blood-to-serum ratio of nilotinib is 0.68.
+Serum protein binding is approximately 98% on the basis of in vitro experiments.
+
+Pharmacokinetics, Metabolism and Excretion:
+
+The apparent elimination half-life estimated from the multiple dose pharmacokinetic studies with daily dosing was approximately 17 hours.
+Inter-patient variability in nilotinib AUC was 32% to 64%.
+Steady state conditions were achieved by day 8.
+An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice-daily dosing.
+
+Main metabolic pathways identified in healthy subjects are oxidation and hydroxylation.
+Nilotinib is the main circulating component in the serum.
+None of the metabolites contribute significantly to the pharmacological activity of nilotinib.
+
+After a single dose of radiolabeled nilotinib in healthy subjects, more than 90% of the administered dose was eliminated within 7 days mainly in feces (93% of the dose).
+Parent drug accounted for 69% of the dose.
+
+Age, body weight, gender, or ethnic origin did not significantly affect the pharmacokinetics of nilotinib.
+
+## 12.4 QT/QTc Prolongation
+
+In a placebo-controlled study in healthy volunteers designed to assess the effects of Tasigna on the QT interval, administration of Tasigna was associated with concentration-dependent QT prolongation; the maximum mean placebo-adjusted QTcF change from baseline was 18 msec (1-sided 95% Upper CI: 26 msec).
+A positive control was not included in the QT study of healthy volunteers.
+Peak plasma concentrations in the QT study were 26% lower than those observed in patients enrolled in the single-arm study [See Boxed Warning, Warnings and Precautions (5.2) and Clinical Studies (14)].
+
+## 12.5 Pharmacogenomics
+
+Tasigna can increase bilirubin levels.
+A pharmacogenetic analysis of 97 patients evaluated the polymorphisms of UGT1A1 and its potential association with hyperbilirubinemia during Tasigna treatment.
+In this study, the (TA)7/(TA)7 genotype was associated with a statistically significant increase in the risk of hyperbilirubinemia relative to the (TA)6/(TA)6 and (TA)6/(TA)7 genotypes.
+However, the largest increases in bilirubin were observed in the (TA)7/(TA)7 genotype (UGT1A1*28) patients [See Warnings and Precautions (5.5)].
