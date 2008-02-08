@@ -9,6 +9,6 @@
 3. National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard-Seventh Edition.
    NCCLS document M2-A7 (ISBN 1-56238-393-0).
    NCCLS, Wayne, PA 19087-1898, 2000.
-4. National Committee for Clinical Laboratory Standards, Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacterial; Approved Standard-Fourth Edition.
+4. National Committee for Clinical Laboratory Standards, Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard-Fourth Edition.
    NCCLS document M11-A4 (ISBN 1-56238-210-1).
    NCCLS, Wayne, PA 19087-1898, 1997.

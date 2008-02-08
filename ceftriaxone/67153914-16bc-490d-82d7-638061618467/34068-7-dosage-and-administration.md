@@ -2,14 +2,11 @@
 
 Ceftriaxone for Injection and Dextrose Injection is intended for intravenous administration only.
 
-## ADULTS
+Ceftriaxone for Injection and Dextrose Injection and calcium-containing solutions, including continuous calcium-containing infusions such as parenteral nutrition, should not be mixed or co-administered to any patient irrespective of age, even via different infusion lines at different sites (see CONTRAINDICATIONS and WARNINGS).
 
-The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
-The total daily dose should not exceed 4 grams.
+## NEONATES
 
-If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
-
-For preoperative use (surgical prophylaxis), a single dose of 1 gram administered intravenously 1/2 to 2 hours before surgery is recommended.
+Hyperbilirubinemic neonates, especially prematures, should not be treated with Ceftriaxone for Injection and Dextrose Injection (see CONTRAINDICATIONS).
 
 ## PEDIATRIC PATIENTS
 
@@ -27,6 +24,15 @@ Thereafter, a total daily dose of 100 mg/kg/day (not to exceed 4 grams daily) is
 The daily dose may be administered once a day (or in equally divided doses every 12 hours).
 The usual duration of therapy is 7 to 14 days.
 
+## ADULTS
+
+The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
+The total daily dose should not exceed 4 grams.
+
+If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
+
+For preoperative use (surgical prophylaxis), a single dose of 1 gram administered intravenously 1/2 to 2 hours before surgery is recommended.
+
 Generally, Ceftriaxone for Injection and Dextrose Injection therapy should be continued for at least 2 days after the signs and symptoms of infection have disappeared.
 The usual duration of therapy is 4 to 14 days; in complicated infections, longer therapy may be required.
 
@@ -34,8 +40,14 @@ When treating infections caused by Streptococcus pyogenes, therapy should be con
 
 No dosage adjustment is necessary for patients with impairment of renal or hepatic function; however, blood levels should be monitored in patients with severe renal impairment (e.g., dialysis patients) and in patients with both renal and hepatic dysfunctions.
 
+## DIRECTIONS FOR USE
+
+Ceftriaxone for Injection and Dextrose Injection should be administered intravenously by infusion over a period of 30 minutes.
+
 Vancomycin and fluconazole are physically incompatible with ceftriaxone in admixtures.
 When either of these drugs is to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
+
+Ceftriaxone for Injection and Dextrose Injection should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs due to possible incompatibility (see WARNINGS).
 
 After the indicated stability time periods, unused portions of solutions should be discarded.
 
@@ -55,10 +67,12 @@ Patient Labeling and Drug Powder/Diluent Inspection
   Do not cover any portion of foil strip with patient label.
 - Unlatch side tab and unfold DUPLEX Container.
   (See Diagram 1.)
+
 - Visually inspect diluent chamber for particulate matter.
 - Use only if container and seals are intact.
 - To inspect the drug powder for foreign matter or discoloration, peel foil strip from drug chamber.
   (See Diagram 2.)
+
 - Protect from light after removal of foil strip.
   NOTE: If foil strip is removed, product must be used within 7 days, but not beyond the labeled expiration date.
 - The product should be re-folded and the side tab latched until ready to activate.
@@ -66,10 +80,11 @@ Patient Labeling and Drug Powder/Diluent Inspection
 Reconstitution (Activation)
 
 - Do not use directly after storage by refrigeration, allow the product to equilibrate to room temperature before patient use.
-- Unfold the DUPLEX Container and point the set port in a downward direction.
+- Unfold the DUPLEX® Container and point the set port in a downward direction.
   Starting at the hanger tab end, fold the DUPLEX Container just below the diluent meniscus trapping all air above the fold.
   To activate, squeeze the folded diluent chamber until the seal between the diluent and powder opens, releasing diluent into the drug powder chamber.
   (See Diagram 3.)
+
 - Agitate the liquid-powder mixture until the drug powder is completely dissolved.
   NOTE: Following reconstitution (activation), product must be used within 24 hours if stored at room temperature or within 7 days if stored under refrigeration.
 
@@ -77,9 +92,10 @@ Administration
 
 - Visually inspect the reconstituted solution for particulate matter.
 - Point the set port in a downwards direction.
-  Starting at the hanger tab end, fold the DUPLEX® Container just below the solution meniscus trapping all air above the fold.
+  Starting at the hanger tab end, fold the DUPLEX Container just below the solution meniscus trapping all air above the fold.
   Squeeze the folded DUPLEX Container until the seal between reconstituted drug solution and set port opens, releasing liquid to set port.
   (See Diagram 4.)
+
 - Prior to attaching the IV set, check for minute leaks by squeezing container firmly.
   If leaks are found, discard container and solution as sterility may be impaired.
 - Using aseptic technique, remove the set port cover from the set port and attach sterile administration set.

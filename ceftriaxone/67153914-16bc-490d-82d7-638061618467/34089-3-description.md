@@ -9,11 +9,12 @@ Ceftriaxone sodium is (6R,7R)-7-[2-(2-Amino-4-thiazolyl)glyoxylamido]-8-oxo-3-[[
 The chemical formula of ceftriaxone sodium is C18H16N8Na2O7S3•3.5H2O.
 It has a calculated molecular weight of 661.60 and the following structural formula:
 
-Ceftriaxone Sodium is supplied as a dry powder form equivalent to either 1 g or 2 g of ceftriaxone.
-Ceftriaxone Sodium is a white to yellowish-orange crystalline powder which is readily soluble in water, sparingly soluble in methanol and very slightly soluble in ethanol.
+Ceftriaxone sodium is supplied as a dry powder form equivalent to either 1 g or 2 g of ceftriaxone.
+Ceftriaxone sodium is a white to yellowish-orange crystalline powder which is readily soluble in water, sparingly soluble in methanol and very slightly soluble in ethanol.
 The pH of a 1% aqueous solution is approximately 6.7.
-The color of Ceftriaxone Sodium solutions ranges from light yellow to amber, depending on the length of storage and concentration.
-Ceftriaxone Sodium contains approximately 83 mg (3.6 mEq) of sodium per gram of ceftriaxone activity.
+The color of ceftriaxone sodium solutions ranges from light yellow to amber, depending on the length of storage and concentration.
+
+Ceftriaxone sodium contains approximately 83 mg (3.6 mEq) of sodium per gram of ceftriaxone activity.
 
 The diluent chamber contains Dextrose Injection.
 The concentration of Hydrous Dextrose in Water for Injection USP has been adjusted to render the reconstituted drug product iso-osmotic.

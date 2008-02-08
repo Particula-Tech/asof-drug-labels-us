@@ -5,12 +5,12 @@ Average plasma concentrations of ceftriaxone following a single 30-minute intrav
 TABLE 1.
 Ceftriaxone Plasma Concentrations After Single Dose Administration
 
-|  | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 16 hr | 24 hr |
+| Dose/Route | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 16 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
-| 0.5 g IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
-| 1 g IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
-| 2 g IV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
+|  | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
+| 0.5 gm IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
+| 1 gm IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
+| 2 gm IV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
 
 Multiple IV doses ranging from 0.5 to 2 g at 12- to 24-hour intervals resulted in 15% to 36% accumulation of ceftriaxone above single dose values.
 
@@ -19,9 +19,9 @@ Ceftriaxone concentrations in urine are high, as shown in Table 2.
 TABLE 2.
 Urinary Concentrations of Ceftriaxone After Single Dose Administration
 
-|  | 0–2 hr | 2–4 hr | 4–8 hr | 8–12 hr | 12–24 hr | 24–48 hr |
+| Dose/Route | 0–2 hr | 2–4 hr | 4–8 hr | 8–12 hr | 12–24 hr | 24–48 hr |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
+|  | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
 | 0.5 g IV | 526 | 366 | 142 | 87 | 70 | 15 |
 | 1 g IV | 995 | 855 | 293 | 147 | 132 | 32 |
 | 2 g IV | 2692 | 1976 | 757 | 274 | 198 | 40 |
@@ -45,9 +45,9 @@ Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients With Men
 | Elimination Half-life (hr) | 4.6 | 4.3 |
 | Plasma Clearance (mL/hr/kg) | 49 | 60 |
 | Volume of Distribution (mL/kg) | 338 | 373 |
-| CSF Concentration—inflamed meninges (mcg/mL) | 5.6 | 6.4 |
+| CSF Concentration – inflamed meninges (mcg/mL) | 5.6 | 6.4 |
 | Range (mcg/mL) | 1.3 – 18.5 | 1.3 – 44 |
-| Time after dose (hr) | 3.7 (± 1.6) | 3.3 (± 1.4) |
+| Time after dose (hr) | 3.7 (±1.6) | 3.3 (±1.4) |
 
 Compared to that in healthy adult subjects, the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal impairment or hepatic dysfunction (Table 4); therefore, dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 g per day.
 Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis.
@@ -158,7 +158,7 @@ This category also provides a buffer zone which prevents small uncontrolled tech
 A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standardized ceftriaxone powder should provide the following MIC values:2
+Standardized ceftriaxone powder should provide the following MIC values2:
 
 | Microorganism | ATCC®# | MIC (mcg/mL) |
 | --- | --- | --- |
@@ -217,7 +217,7 @@ Streptococcus pneumoniae isolates should not be reported as penicillin (ceftriax
 The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤19 mm.
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 30 mcg ceftriaxone disc should provide the following zone diameters in these laboratory test quality control strains:3
+For the diffusion technique, the 30 mcg ceftriaxone disc should provide the following zone diameters in these laboratory test quality control strains3:
 
 | Microorganism | ATCC®# | Zone Diameter Ranges (mm) |
 | --- | --- | --- |
@@ -230,7 +230,8 @@ For the diffusion technique, the 30 mcg ceftriaxone disc should provide the foll
 
 ### Anaerobic Techniques
 
-For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods.4 The MIC values obtained should be interpreted according to the following criteria:
+For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods4.
+The MIC values obtained should be interpreted according to the following criteria:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -246,5 +247,3 @@ Standardized ceftriaxone powder should provide the following MIC values for the 
 | Agar | Bacteroides fragilis | 25285 | 32 – 128 |
 |  | Bacteroides thetaiotaomicron | 29741 | 64 – 256 |
 | Broth | Bacteroides thetaiotaomicron | 29741 | 32 – 128 |
-
-ATCC is a registered trademark of the American Type Culture Collection.
