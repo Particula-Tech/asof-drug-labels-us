@@ -1,0 +1,35 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 General Considerations
+
+The side effects of irbesartan are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent (primarily hypokalemia) and dose-independent phenomena (eg, pancreatitis), the former much more common than the latter.
+[See Adverse Reactions (6).]
+
+Maximum antihypertensive effects are attained within 2 to 4 weeks after a change in dose.
+
+AVALIDE may be administered with or without food.
+
+AVALIDE may be administered with other antihypertensive agents.
+
+Renal impairment.
+The usual regimens of therapy with AVALIDE may be followed as long as the patient's creatinine clearance is >30 mL/min.
+In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so AVALIDE is not recommended.
+
+Hepatic impairment.
+No dosage adjustment is necessary in patients with hepatic impairment.
+
+## 2.2 Add-On Therapy
+
+In patients not controlled on monotherapy with irbesartan or hydrochlorothiazide, the recommended doses of AVALIDE, in order of increasing mean effect, are (irbesartan-hydrochlorothiazide) 150/12.5 mg, 300/12.5 mg, and 300/25 mg.
+The largest incremental effect will likely be in the transition from monotherapy to 150/12.5 mg.
+[See Clinical Studies (14.2).]
+
+## 2.3 Replacement Therapy
+
+AVALIDE may be substituted for the titrated components.
+
+## 2.4 Initial Therapy
+
+The usual starting dose is AVALIDE 150/12.5 mg once daily.
+The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 300/25 mg tablet once daily as needed to control blood pressure [see Clinical Studies (14.2)].
+AVALIDE is not recommended as initial therapy in patients with intravascular volume depletion [see Warnings and Precautions (5.2)].
