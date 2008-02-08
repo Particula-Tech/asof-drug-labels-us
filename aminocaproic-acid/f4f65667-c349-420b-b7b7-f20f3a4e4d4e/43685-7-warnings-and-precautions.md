@@ -2,7 +2,7 @@
 
 Aminocaproic Acid Injection, USP contains benzyl alcohol as a preservative.
 The administration of medications containing benzyl alcohol as a preservative to premature neonates has been associated with a fatal "Gasping Syndrome".
-(See PRECAUTIONS, Pediatric Use).
+(See PRECAUTIONS, Pediatric Use.)
 
 In patients with upper urinary tract bleeding, aminocaproic acid administration has been known to cause intrarenal obstruction in the form of glomerular capillary thrombosis or clots in the renal pelvis and ureters.
 For this reason, aminocaproic acid should not be used in hematuria of upper urinary tract origin, unless the possible benefits outweigh the risk.
@@ -49,7 +49,7 @@ These latter tests include both semiquantitative and quantitative techniques for
 
 Drug/Laboratory Test Interactions: Prolongation of the template bleeding time has been reported during continuous intravenous infusion of aminocaproic acid at dosages exceeding 24 g/day.
 Platelet function studies in these patients have not demonstrated any significant platelet dysfunction.
-However, in vitro studies have shown that at high concentrations (7.4 mMol/L or 0.97 mg/mL and greater) aminocaproic acid inhibits ADP and collagen-induced platelet aggregation, the release of ATP and serotonin, and the binding of fibrinogen to the platelets in a concentration-response manner.
+However, in vitro studies have shown that at high concentrations (7.4 mMol/L or 0.97 mg/mL and greater) EACA inhibits ADP and collagen-induced platelet aggregation, the release of ATP and serotonin, and the binding of fibrinogen to the platelets in a concentration-response manner.
 Following a 10 g bolus of aminocaproic acid, transient peak plasma concentrations of 4.6 mMol/L or 0.60 mg/mL have been obtained.
 The concentration of aminocaproic acid necessary to maintain inhibition of fibrinolysis is 0.99 mMol/L or 0.13 mg/mL.
 Administration of a 5 g bolus followed by 1 to 1.25 g/hr should achieve and sustain plasma levels of 0.13 mg/mL.
@@ -71,4 +71,4 @@ Pediatric Use: Safety and effectiveness in pediatric patients have not been esta
 Aminocaproic Acid Injection, USP contains benzyl alcohol as a preservative.
 Benzyl alcohol has been associated with a fatal "gasping syndrome" in neonates.
 The "gasping syndrome", characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine, has been associated with exposure to benzyl alcohol in neonates and low-birth weight neonates.
-Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse (See WARNINGS).
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse (see WARNINGS).
