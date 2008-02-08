@@ -1,0 +1,53 @@
+# ADVERSE REACTIONS
+
+Adverse reaction information on Ipratropium Bromide Nasal Spray 0.06% in patients with the common cold was derived from two multicenter, vehicle-controlled clinical trials involving 1,276 patients (195 patients on Ipratropium Bromide Nasal Spray 0.03%, 352 patients on Ipratropium Bromide Nasal Spray 0.06%, 189 patients on Ipratropium Bromide Nasal Spray 0.12%, 351 patients on vehicle and 189 patients receiving no treatment).
+
+Table 1 shows adverse events reported for patients who received Ipratropium Bromide Nasal Spray 0.06% at the recommended dose of 84 mcg per nostril, or vehicle, administered three or four times daily, where the incidence is 1% or greater in the Ipratropium Bromide group and higher in the Ipratropium Bromide group than in the vehicle group.
+
+## Table 1
+
+% of Patients with Common Cold Reporting EventsThis table includes adverse events for which the incidence was 1% or greater in the Ipratropium Bromide group and higher in the Ipratropium Bromide group than in the vehicle group
+
+|  | Ipratropium Bromide Nasal Spray 0.06% | Vehicle Control |
+| --- | --- | --- |
+| No. of Patients | 352 | 351 |
+| EpistaxisEpistaxis reported by 5.4% of Ipratropium Bromide patients and 1.4% of vehicle patients, blood tinged nasal mucus by 2.8% ofIpratropium Bromide patients and 0.9% of vehicle patients. | 8.2% | 2.3% |
+| Nasal Dryness | 4.8% | 2.8% |
+| Dry Mouth/Throat | 1.4% | 0.3% |
+| Nasal Congestion | 1.1% | 0.0% |
+
+Ipratropium Bromide Nasal Spray 0.06% was well tolerated by most patients.
+The most frequently reported adverse events were transient episodes of nasal dryness or epistaxis.
+The majority of these adverse events (96%) were mild or moderate in nature, none was considered serious, and none resulted in hospitalization.
+No patient required treatment for nasal dryness, and only three patients (<1%) required treatment for epistaxis, which consisted of local application of pressure or a moisturizing agent (e.g., petroleum jelly).
+No patient receiving Ipratropium Bromide Nasal Spray 0.06% was discontinued from the trial due to either nasal dryness or bleeding.
+
+Adverse events reported by less than 1% of the patients receiving Ipratropium Bromide Nasal Spray 0.06% during the controlled clinical trials that are potentially related to Ipratropium Bromide’s local effects or systemic anticholinergic effects include: taste perversion, nasal burning, conjunctivitis, coughing, dizziness, hoarseness, palpitation, pharyngitis, tachycardia, thirst, tinnitus, and blurred vision.
+No controlled trial was conducted to address the relative incidence of adverse events for three times daily versus four times daily therapy.
+
+Nasal adverse events seen in the clinical trial with seasonal allergic rhinitis (SAR) patients (see Table 2) were similar to those seen in the common cold trials.
+Additional events were reported at a higher rate in the SAR trial due in part to the longer duration of the trial and the inclusion of upper respiratory tract infection (URI) as an adverse event.
+In common cold trials, URI was the disease under study and not an adverse event.
+
+## Table 2
+
+% of Patients with SAR Reporting EventsThis table includes adverse events for which the incidence was 1% or greater in the Ipratropium Bromide group and higher in the Ipratropium Bromide group than in the vehicle group.
+
+|  | Ipratropium Bromide Nasal Spray 0.06% | Vehicle Control |
+| --- | --- | --- |
+| No. of Patients | 218 | 211 |
+| EpistaxisEpistaxis reported by 3.7% of Ipratropium Bromide patients and 2.4% of vehicle patients, blood tinged nasal mucus by 2.3% of Ipratropium Bromide patients and 1.9% of vehicle patients. | 6.0% | 3.3% |
+| Pharyngitis | 5.0% | 3.8% |
+| URI | 5.0% | 3.3% |
+| Nasal Dryness | 4.6% | 0.9% |
+| Headache | 4.1% | 0.5% |
+| Dry Mouth/Throat | 4.1% | 0.0% |
+| Taste Perversion | 3.7% | 1.4% |
+| Sinusitis | 2.8% | 2.8% |
+| Pain | 1.8% | 0.9% |
+| Diarrhea | 1.8% | 0.5% |
+
+Additional anticholinergic effects noted with other Ipratropium Bromide dosage forms (Ipratropium Bromide Inhalation Solution, Ipratropium Bromide Inhalation Aerosol and Ipratropium Bromide Nasal Spray 0.03%) include: precipitation or worsening of narrow-angle glaucoma, urinary retention, prostate disorders, constipation, and bowel obstruction.
+
+There were no reports of allergic-type reactions in the controlled clinical trials.
+Allergic-type reactions such as skin rash, angioedema of the throat, tongue, lips and face, generalized urticaria, laryngospasm, and anaphylactic reaction have been reported with Ipratropium Bromide Nasal Spray 0.06% and other ipratropium bromide products.
