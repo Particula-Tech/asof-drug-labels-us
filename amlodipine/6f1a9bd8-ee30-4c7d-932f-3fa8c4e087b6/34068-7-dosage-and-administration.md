@@ -58,7 +58,7 @@ Atorvastatin should be used as an adjunct to other lipid-lowering treatments (e.
 Note: a 2.5/80 mg CADUET tablet is not available.
 Management of patients needing a 2.5/80 mg combination requires individual assessments of dyslipidemia and therapy with the individual components as a 2.5/80 mg CADUET tablet is not available.
 
-### Concomitant Therapy
+### Concomitant Lipid Lowering Therapy
 
 Atorvastatin may be used in combination with a bile acid binding resin for additive effect.
 The combination of HMG-CoA reductase inhibitors and fibrates should generally be avoided (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions for other drug-drug interactions).
@@ -66,6 +66,11 @@ The combination of HMG-CoA reductase inhibitors and fibrates should generally be
 ### Dosage in Patients With Renal Insufficiency
 
 Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin; thus, dosage adjustment in patients with renal dysfunction is not necessary (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+
+### Dosage in Patients Taking Cyclosporine, Clarithromycin or A Combination of Ritonavir plus Saquinavir or Lopinavir plus Ritonavir
+
+In patients taking cyclosporine, therapy should be limited to LIPITOR 10 mg once daily.
+In patients taking clarithromycin or in patients with HIV taking a combination of ritonavir plus saquinavir or lopinavir plus ritonavir, for doses of atorvastatin exceeding 20 mg appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is employed (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions).
 
 ## CADUET
 

@@ -34,8 +34,9 @@ Myopathy, defined as muscle aches or muscle weakness in conjunction with increas
 Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
 CADUET therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 
-The risk of myopathy during treatment with drugs in the HMG-CoA reductase inhibitor class is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, niacin, or azole antifungals.
-Physicians considering combined therapy with CADUET and fibric acid derivatives, erythromycin, immunosuppressive drugs, azole antifungals, or lipid-lowering doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
+The risk of myopathy during treatment with drugs in the HMG-CoA reductase inhibitor class is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, combination of ritonavir plus saquinavir or lopinavir plus ritonavir, niacin, or azole antifungals.
+Physicians considering combined therapy with CADUET and fibric acid derivatives, erythromycin, clarithromycin, a combination of ritonavir plus saquinavir or lopinavir plus ritonavir, immunosuppressive drugs, azole antifungals, or lipid-modifying doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
+Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs (See DRUG INTERACTIONS).
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
 In patients taking CADUET, therapy should be temporarily withheld or discontinued in any patient with an acute, serious condition suggestive of a myopathy or having a risk factor predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., severe acute infection, hypotension, major surgery, trauma, severe metabolic, endocrine and electrolyte disorders, and uncontrolled seizures).
@@ -116,7 +117,28 @@ In clinical trials, amlodipine has been safely administered with thiazide diuret
 
 ### Studies with Atorvastatin
 
-The risk of myopathy during treatment with drugs of the HMG-CoA reductase class is increased with concurrent administration of cyclosporine, fibric acid derivatives, niacin (nicotinic acid), erythromycin, or azole antifungals (see WARNINGS, Skeletal Muscle).
+The risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of fibric acid derivatives, lipid-modifying doses of niacin or cytochrome P450 3A4 inhibitors (e.g. cyclosporine, erythromycin, clarithromycin, and azole antifungals) (see WARNINGS, Skeletal Muscle).
+
+Inhibitors of cytochrome P450 3A4: Atorvastatin is metabolized by cytochrome P450 3A4.
+Concomitant administration of atorvastatin with inhibitors of cytochrome P450 3A4 can lead to increases in plasma concentrations of atorvastatin.
+The extent of interaction and potentiation of effects depends on the variability of effect on cytochrome P450 3A4.
+
+- Clarithromycin: Concomitant administration of atorvastatin 80 mg with clarithromycin (500 mg twice daily) resulted in a 4.4-fold increase in atorvastatin AUC (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
+- Erythromycin: In healthy individuals, plasma concentrations of atorvastatin increased approximately 40% with co-administration of atorvastatin and erythromycin, a known inhibitor of cytochrome P450 3A4 (see WARNINGS, Skeletal Muscle).
+- Combination of Protease Inhibitors: Concomitant administration of atorvastatin 40 mg with ritonavir plus saquinavir (400 mg twice daily) resulted in a 3-fold increase in atorvastatin AUC.
+  Concomitant administration of atorvastatin 20 mg with lopinavir plus ritonavir (400 mg+100 mg twice daily) resulted in a 5.9-fold increase in atorvastatin AUC (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
+- Itraconazole: Concomitant administration of atorvastatin (20 to 40 mg) and itraconazole (200 mg) was associated with a 2.5–3.3-fold increase in atorvastatin AUC.
+- Diltiazem hydrochloride: Co-administration of atorvastatin (40 mg) with diltiazem (240 mg) was associated with higher plasma concentrations of atorvastatin.
+- Cimetidine: Atorvastatin plasma concentrations and LDL-C reduction were not altered by co-administration of cimetidine.
+- Grapefruit juice: Contains one or more components that inhibit CYP 3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (>1.2 liters per day).
+
+Cyclosporine: Atorvastatin and atorvastatin-metabolites are substrates of the OATP1B1 transporter.
+Inhibitors of the OATP1B1 (e.g. cyclosporine) can increase the bioavailability of atorvastatin.
+Concomitant administration of atorvastatin 10 mg and cyclosporine 5.2 mg/kg/day resulted in an 8.7-fold increase in atorvastatin AUC.
+In cases where co-administration of atorvastatin with cyclosporine is necessary, the dose of atorvastatin should not exceed 10 mg (see WARNINGS, Skeletal Muscle).
+
+Inducers of cytochrome P450 3A4: Concomitant administration of atorvastatin with inducers of cytochrome P450 3A4 (eg efavirenz, rifampin) can lead to variable reductions in plasma concentrations of atorvastatin.
+Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
 
 Antacid: When atorvastatin and Maalox TC suspension were coadministered, plasma concentrations of atorvastatin decreased approximately 35%.
 However, LDL-C reduction was not altered.
@@ -126,17 +148,15 @@ Antipyrine: Because atorvastatin does not affect the pharmacokinetics of antipyr
 Colestipol: Plasma concentrations of atorvastatin decreased approximately 25% when colestipol and atorvastatin were coadministered.
 However, LDL-C reduction was greater when atorvastatin and colestipol were coadministered than when either drug was given alone.
 
-Cimetidine: Atorvastatin plasma concentrations and LDL-C reduction were not altered by coadministration of cimetidine.
-
 Digoxin: When multiple doses of atorvastatin and digoxin were coadministered, steady-state plasma digoxin concentrations increased by approximately 20%.
 Patients taking digoxin should be monitored appropriately.
-
-Erythromycin: In healthy individuals, plasma concentrations of atorvastatin increased approximately 40% with coadministration of atorvastatin and erythromycin, a known inhibitor of cytochrome P450 3A4 (see WARNINGS, Skeletal Muscle).
 
 Oral Contraceptives: Coadministration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%.
 These increases should be considered when selecting an oral contraceptive for a woman taking CADUET.
 
 Warfarin: Atorvastatin had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
+
+Amlodipine: In a drug-drug interaction study in healthy subjects, co-administration of atorvastatin 80 mg and amlodipine 10 mg resulted in an 18% increase in exposure to atorvastatin which was not clinically meaningful
 
 ## Drug/Laboratory Test Interactions
 

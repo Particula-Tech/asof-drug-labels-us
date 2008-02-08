@@ -5,7 +5,7 @@ CADUET tablets contain amlodipine besylate and atorvastatin calcium equivalent t
 CADUET tablets are differentiated by tablet color/size and are engraved with "Pfizer" on one side and a unique number on the other side.
 CADUET tablets are supplied for oral administration in the following strengths and package configurations:
 
-Table 12.
+Table 13.
 CADUET Packaging Configurations
 
 | Package Configuration | Tablet Strength (amlodipine besylate/ atorvastatin calcium) mg | NDC # | Engraving | Tablet Color |

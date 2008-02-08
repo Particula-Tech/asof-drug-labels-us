@@ -2,9 +2,9 @@ Rx only
 
 Manufactured by: Pfizer Ireland Pharmaceuticals Dublin, Ireland
 
-LAB-0276-10.1
+LAB-0276-12.0
 
-September 2007
+December 2007
 
 Rx only
 
