@@ -1,0 +1,21 @@
+# ACTIONS
+
+The mechanism of action of SINEQUAN (doxepin HCl) is not definitely known.
+It is not a central nervous system stimulant nor a monoamine oxidase inhibitor.
+The current hypothesis is that the clinical effects are due, at least in part, to influences on the adrenergic activity at the synapses so that deactivation of norepinephrine by reuptake into the nerve terminals is prevented.
+Animal studies suggest that doxepin HCl does not appreciably antagonize the antihypertensive action of guanethidine.
+In animal studies anticholinergic, antiserotonin and antihistamine effects on smooth muscle have been demonstrated.
+At higher than usual clinical doses, norepinephrine response was potentiated in animals.
+This effect was not demonstrated in humans.
+
+At clinical dosages up to 150 mg per day, SINEQUAN can be given to man concomitantly with guanethidine and related compounds without blocking the antihypertensive effect.
+At dosages above 150 mg per day blocking of the antihypertensive effect of these compounds has been reported.
+
+SINEQUAN is virtually devoid of euphoria as a side effect.
+Characteristic of this type of compound, SINEQUAN has not been demonstrated to produce the physical tolerance or psychological dependence associated with addictive compounds.
+
+Rx only
+
+LAB-0072-9.0
+
+August 2007
