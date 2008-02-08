@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 | STRATTERA® Capsules | 10 mgAtomoxetine base equivalent. | 18 mg | 25 mg | 40 mg | 60 mg | 80 mg | 100 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Color | Opaque White, Opaque White | Gold, Opaque White | Opaque Blue, Opaque White | Opaque Blue, Opaque Blue | Opaque Blue, Gold | Opaque Brown, Opaque White | Opaque Brown, Opaque Brown |
@@ -7,5 +9,7 @@
 |  | 10 mg | 18 mg | 25 mg | 40 mg | 60 mg | 80 mg | 100 mg |
 | NDC Codes: |  |  |  |  |  |  |  |
 | Bottles of 30 | 0002-3227-30 | 0002-3238-30 | 0002-3228-30 | 0002-3229-30 | 0002-3239-30 | 0002-3250-30 | 0002-3251-30 |
+
+## 16.2 Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

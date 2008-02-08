@@ -61,24 +61,24 @@ STRATTERA should be used with caution in patients with hypertension, tachycardia
 Pulse and blood pressure should be measured at baseline, following STRATTERA dose increases, and periodically while on therapy.
 
 In pediatric placebo–controlled trials, STRATTERA–treated subjects experienced a mean increase in heart rate of about 6 beats/minute compared with placebo subjects.
-At the final study visit before drug discontinuation, 3.6% (12/335) of STRATTERA–treated subjects had heart rate increases of at least 25 beats/minute and a heart rate of at least 110 beats/minute, compared with 0.5% (1/204) of placebo subjects.
-No pediatric subject had a heart rate increase of at least 25 beats/minute and a heart rate of at least 110 beats/minute on more than one occasion.
-Tachycardia was identified as an adverse event for 1.5% (5/340) of these pediatric subjects compared with 0.5% (1/207) of placebo subjects.
-The mean heart rate increase in extensive metabolizer (EM) patients was 6.7 beats/minute, and in poor metabolizer (PM) patients 10.4 beats/minute.
+At the final study visit before drug discontinuation, 2.5% (36/1434) of STRATTERA–treated subjects had heart rate increases of at least 25 beats/minute and a heart rate of at least 110 beats/minute, compared with 0.2% (2/850) of placebo subjects.
+There were 1.1% (15/1417) pediatric STRATTERA-treated subjects with a heart rate increase of at least 25 beats/minute and a heart rate of at least 110 beats/minute on more than one occasion.
+Tachycardia was identified as an adverse event for 0.3% (5/1597) of these pediatric subjects compared with 0% (0/934) of placebo subjects.
+The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.
 
-STRATTERA–treated pediatric subjects experienced mean increases of about 1.5 mm Hg in systolic and diastolic blood pressures compared with placebo.
-At the final study visit before drug discontinuation, 6.8% (22/324) of STRATTERA–treated pediatric subjects had high systolic blood pressure measurements compared with 3.0% (6/197) of placebo subjects.
-High systolic blood pressures were measured on 2 or more occasions in 8.6% (28/324) of STRATTERA–treated subjects and 3.6% (7/197) of placebo subjects.
-At the final study visit before drug discontinuation, 2.8% (9/326) of STRATTERA–treated pediatric subjects had high diastolic blood pressure measurements compared with 0.5% (1/200) of placebo subjects.
-High diastolic blood pressures were measured on 2 or more occasions in 5.2% (17/326) of STRATTERA–treated subjects and 1.5% (3/200) of placebo subjects.
+STRATTERA–treated pediatric subjects experienced mean increases of about 1.6 and 2.4 mm Hg in systolic and diastolic blood pressures, respectively compared with placebo.
+At the final study visit before drug discontinuation, 4.8% (59/1226) of STRATTERA–treated pediatric subjects had high systolic blood pressure measurements compared with 3.5% (26/748) of placebo subjects.
+High systolic blood pressures were measured on 2 or more occasions in 4.4% (54/1226) of STRATTERA–treated subjects and 1.9% (14/748) of placebo subjects.
+At the final study visit before drug discontinuation, 4.0% (50/1262) of STRATTERA–treated pediatric subjects had high diastolic blood pressure measurements compared with 1.1% (8/759) of placebo subjects.
+High diastolic blood pressures were measured on 2 or more occasions in 3.5% (44/1262) of STRATTERA–treated subjects and 0.5% (4/759) of placebo subjects.
 (High systolic and diastolic blood pressure measurements were defined as those exceeding the 95th percentile, stratified by age, gender, and height percentile – National High Blood Pressure Education Working Group on Hypertension Control in Children and Adolescents.)
 
 In adult placebo–controlled trials, STRATTERA–treated subjects experienced a mean increase in heart rate of 5 beats/minute compared with placebo subjects.
-Tachycardia was identified as an adverse event for 3% (8/269) of these adult atomoxetine subjects compared with 0.8% (2/263) of placebo subjects.
+Tachycardia was identified as an adverse event for 1.5% (8/540) of these adult atomoxetine subjects compared with 0.5% (2/402) of placebo subjects.
 
-STRATTERA–treated adult subjects experienced mean increases in systolic (about 3 mm Hg) and diastolic (about 1 mm Hg) blood pressures compared with placebo.
-At the final study visit before drug discontinuation, 1.9% (5/258) of STRATTERA–treated adult subjects had systolic blood pressure measurements ≥150 mm Hg compared with 1.2% (3/256) of placebo subjects.
-At the final study visit before drug discontinuation, 0.8% (2/257) of STRATTERA–treated adult subjects had diastolic blood pressure measurements ≥100 mm Hg compared with 0.4% (1/257) of placebo subjects.
+STRATTERA–treated adult subjects experienced mean increases in systolic (about 2.0 mm Hg) and diastolic (about 1.0 mm Hg) blood pressures compared with placebo.
+At the final study visit before drug discontinuation, 0% (0/510) of STRATTERA–treated adult subjects had systolic blood pressure measurements ≥180 mm Hg compared with 0% (0/393) of placebo subjects.
+At the final study visit before drug discontinuation, 0% (0/510) of STRATTERA–treated adult subjects had diastolic blood pressure measurements ≥105 mm Hg compared with 0.3% (1/393) of placebo subjects.
 No adult subject had a high systolic or diastolic blood pressure detected on more than one occasion.
 
 Orthostatic hypotension and syncope have been reported in patients taking STRATTERA.
@@ -115,7 +115,7 @@ Although uncommon, allergic reactions, including angioneurotic edema, urticaria,
 
 ## 5.9 Effects on Urine Outflow from the Bladder
 
-In adult ADHD controlled trials, the rates of urinary retention (3%, 7/269) and urinary hesitation (3%, 7/269) were increased among atomoxetine subjects compared with placebo subjects (0%, 0/263).
+In adult ADHD controlled trials, the rates of urinary retention (1.7%, 9/540) and urinary hesitation (5.6%, 30/540) were increased among atomoxetine subjects compared with placebo subjects (0%, 0/402; 0.5%, 2/402, respectively).
 Two adult atomoxetine subjects and no placebo subjects discontinued from controlled clinical trials because of urinary retention.
 A complaint of urinary retention or urinary hesitancy should be considered potentially related to atomoxetine.
 

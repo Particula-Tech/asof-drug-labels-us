@@ -22,7 +22,7 @@ Because of possible effects on blood pressure, STRATTERA should be used cautious
 STRATTERA should be administered with caution to patients being treated with systemically–administered (oral or intravenous) albuterol (or other beta2 agonists) because the action of albuterol on the cardiovascular system can be potentiated resulting in increases in heart rate and blood pressure.
 Albuterol (600 mcg iv over 2 hours) induced increases in heart rate and blood pressure.
 These effects were potentiated by atomoxetine (60 mg BID for 5 days) and were most marked after the initial coadministration of albuterol and atomoxetine.
-However, these effects on heart rate and blood pressure were not seen in another study after the coadmistration with inhaled dose of albuterol (200-800 mcg) and atomoxetine (80 mg QD for 5 days) in 21 healthy Asian subjects who were excluded for poor metabolizer status.
+However, these effects on heart rate and blood pressure were not seen in another study after the coadministration with inhaled dose of albuterol (200-800 mcg) and atomoxetine (80 mg QD for 5 days) in 21 healthy Asian subjects who were excluded for poor metabolizer status.
 
 ## 7.5 Effect of Atomoxetine on P450 Enzymes
 

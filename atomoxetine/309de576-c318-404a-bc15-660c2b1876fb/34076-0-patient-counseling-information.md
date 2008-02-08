@@ -7,7 +7,7 @@ See FDA-approved Medication Guide.
 Physicians should instruct their patients to read the Medication Guide before starting therapy with STRATTERA and to reread it each time the prescription is renewed.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with STRATTERA and should counsel them in its appropriate use.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+The prescriber or healthprofessional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking STRATTERA.
@@ -60,7 +60,7 @@ If patients miss a dose, they should be instructed to take it as soon as possibl
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
-Literature revised September 28, 2007
+Literature revised October 30, 2007
 
 Eli Lilly and Company
 
@@ -69,7 +69,7 @@ Indianapolis, IN 46285, USA
 Copyright © 2002, 2007, Eli Lilly and Company.
 All rights reserved.
 
-PV 5318 AMP
+PV 5319 AMP
 
 www.strattera.com
 
@@ -216,7 +216,7 @@ How should STRATTERA be taken?
   Wash hands and surfaces that touched an open STRATTERA capsule.
   If any of the powder gets in your eyes or your child’s eyes, rinse them with water right away and call your doctor.
 - STRATTERA can be taken with or without food.
-- STRATTERA is usually taken once or twice a day.
+- STRATTERA isusually taken once or twice a day.
   Take STRATTERA at the same time each day to help you remember.
   If you miss a dose of STRATTERA, take it as soon as you remember that day.
   If you miss a day of STRATTERA, do not double your dose the next day.
@@ -235,7 +235,7 @@ Other serious side effects include:
 
 - serious allergic reactions (call your doctor if you see swelling, hives, or experience other allergic reactions)
 - slowing of growth (height and weight) in children
-- problems passing urine including
+- problems passing urine including:
   - trouble starting or keeping a urine stream
   - cannot fully empty the bladder
 

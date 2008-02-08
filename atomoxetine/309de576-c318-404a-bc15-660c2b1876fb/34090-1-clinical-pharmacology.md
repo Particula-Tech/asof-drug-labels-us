@@ -55,4 +55,4 @@ The elimination half–life of 4–hydroxyatomoxetine is similar to that of N–
 Atomoxetine is excreted primarily as 4–hydroxyatomoxetine-O-glucuronide, mainly in the urine (greater than 80% of the dose) and to a lesser extent in the feces (less than 17% of the dose).
 Only a small fraction of the STRATTERA dose is excreted as unchanged atomoxetine (less than 3% of the dose), indicating extensive biotransformation.
 
-[See Use In Specific Populations (8.4, 8.5, 8.6, 8.7, 8.8, 8.9)].
+[See Use In Specific Populations (8.4,8.5,8.6, 8.7,8.8, 8.9)].
