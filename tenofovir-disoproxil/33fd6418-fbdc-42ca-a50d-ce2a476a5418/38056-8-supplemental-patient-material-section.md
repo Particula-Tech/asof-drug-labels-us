@@ -1,6 +1,6 @@
-## VIREAD® (tenofovir disoproxil fumarate) Tablets Patient Information
+## Patient Information
 
-VIREAD (VEER ee ad)
+VIREAD® (VEER ee ad) Tablets
 
 Generic Name: tenofovir disoproxil fumarate (te NOE' fo veer dye soe PROX il FYOU-mar-ate)
 
@@ -44,7 +44,7 @@ Together with your healthcare provider, you need to decide whether VIREAD is rig
 Do not take VIREAD if
 
 - you are allergic to VIREAD or any of its ingredients
-- you are already taking TRUVADA because VIREAD is one of the active ingredients in TRUVADA
+- you are already taking TRUVADA® or ATRIPLA™ because VIREAD is one of the active ingredients in TRUVADA and ATRIPLA
 
 What should I tell my healthcare provider before taking VIREAD?
 
@@ -58,20 +58,29 @@ Tell your healthcare provider
 - If you have kidney or bone problems
 - If you have liver problems including Hepatitis B Virus infection
 - Tell your healthcare provider about all your medical conditions
-- TELL YOUR HEALTHCARE PROVIDER ABOUT ALL THE MEDICINES YOU TAKE, INCLUDING PRESCRIPTION AND NON-PRESCRIPTION MEDICINES AND DIETARY SUPPLEMENTS.
-  VIREAD MAY INCREASE THE AMOUNT OF VIDEX® (DIDANOSINE) IN YOUR BLOOD.
-  YOU MAY NEED TO BE FOLLOWED MORE CAREFULLY IF YOU ARE TAKING THESE TWO DRUGS TOGETHER.
-  IF YOU ARE TAKING VIDEX (DIDANOSINE) AND VIREAD TOGETHER YOUR HEALTHCARE PROVIDER MAY NEED TO REDUCE YOUR DOSE OF VIDEX (DIDANOSINE).
-  VIREAD MAY DECREASE THE AMOUNT OF REYATAZ (ATAZANAVIR) IN YOUR BLOOD.
-  IF YOU ARE TAKING VIREAD AND REYATAZ (ATAZANAVIR) TOGETHER YOU SHOULD ALSO BE TAKING NORVIR® (RITONAVIR) IT IS A GOOD IDEA TO KEEP A COMPLETE LIST OF ALL THE MEDICINES THAT YOU TAKE.
-  MAKE A NEW LIST WHEN MEDICINES ARE ADDED OR STOPPED.
-  GIVE COPIES OF THIS LIST TO ALL OF YOUR HEALTHCARE PROVIDERS EVERY TIME YOU VISIT YOUR HEALTHCARE PROVIDER OR FILL A PRESCRIPTION.
+
+TELL YOUR HEALTHCARE PROVIDER ABOUT ALL THE MEDICINES YOU TAKE, INCLUDING PRESCRIPTION AND NON-PRESCRIPTION MEDICINES AND DIETARY SUPPLEMENTS.
+ESPECIALLY TELL YOUR HEALTHCARE PROVIDER IF YOU TAKE:
+
+- VIDEX, VIDEX EC (DIDANOSINE).
+  VIREAD MAY INCREASE THE AMOUNT OF VIDEX IN YOUR BLOOD.
+  YOU MAY NEED TO BE FOLLOWED MORE CAREFULLY IF YOU ARE TAKING VIDEX AND VIREAD TOGETHER.
+  IF YOU ARE TAKING VIDEX AND VIREAD TOGETHER YOUR HEALTHCARE PROVIDER MAY NEED TO REDUCE YOUR DOSE OF VIDEX.
+- REYATAZ (ATAZANAVIR SULFATE) OR KALETRA (LOPINAVIR/RITONAVIR).
+  THESE MEDICINES MAY INCREASE THE AMOUNT OF VIREAD IN YOUR BLOOD, WHICH COULD RESULT IN MORE SIDE EFFECTS.
+  YOU MAY NEED TO BE FOLLOWED MORE CAREFULLY IF YOU ARE TAKING VIREAD AND REYATAZ OR KALETRA TOGETHER.
+  VIREAD MAY DECREASE THE AMOUNT OF REYATAZ IN YOUR BLOOD.
+  IF YOU ARE TAKING VIREAD AND REYATAZ TOGETHER YOU SHOULD ALSO BE TAKING NORVIR (RITONAVIR).
+
+IT IS A GOOD IDEA TO KEEP A COMPLETE LIST OF ALL THE MEDICINES THAT YOU TAKE.
+MAKE A NEW LIST WHEN MEDICINES ARE ADDED OR STOPPED.
+GIVE COPIES OF THIS LIST TO ALL OF YOUR HEALTHCARE PROVIDERS EVERY TIME YOU VISIT YOUR HEALTHCARE PROVIDER OR FILL A PRESCRIPTION.
 
 How should I take VIREAD?
 
 - Stay under a healthcare provider's care when taking VIREAD.
   Do not change your treatment or stop treatment without first talking with your healthcare provider.
-- Take VIREAD every day exactly as your healthcare provider prescribed it.
+- Take VIREAD exactly as your healthcare provider prescribed it.
   Follow the directions from your healthcare provider, exactly as written on the label.
   Set up a dosing schedule and follow it carefully.
 - The usual dose of VIREAD is 1 tablet once a day, in combination with other anti-HIV medicines.
@@ -119,7 +128,7 @@ What are the possible side effects of VIREAD?
   Loss of fat from the legs, arms and face may also happen.
   The cause and long term health effects of these conditions are not known at this time.
 - If you have hepatitis B virus (HBV) infection, you may have a "flare-up" of hepatitis B, in which the disease suddenly returns in a worse way than before if you stop taking VIREAD.
-  VIREAD is not for the treatment of hepatitis B virus infection.
+  VIREAD is not approved for the treatment of Hepatitis B Virus infection.
 - There have been other side effects in patients taking VIREAD.
   However, these side effects may have been due to other medicines that patients were taking or to the illness itself.
   Some of these side effects can be serious.

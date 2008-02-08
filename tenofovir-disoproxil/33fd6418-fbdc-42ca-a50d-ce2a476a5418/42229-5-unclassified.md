@@ -1,6 +1,6 @@
 Rx Only
 
-# Microbiology
+# MICROBIOLOGY
 
 ## Mechanism of Action
 
@@ -11,14 +11,14 @@ Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, a
 
 ## Antiviral Activity
 
-The in vitro antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
+The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
 The EC50 (50% effective concentration) values for tenofovir were in the range of 0.04 µM to 8.5 µM.
 In drug combination studies of tenofovir with nucleoside reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir), additive to synergistic effects were observed.
-Tenofovir displayed antiviral activity in vitro against HIV-1 clades A, B, C, D, E, F, G and O (EC50 values ranged from 0.5 µM to 2.2 µM) and strain specific activity against HIV-2 (EC50 values ranged from 1.6 µM to 4.9 µM).
+Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5 µM to 2.2 µM) and strain specific activity against HIV-2 (EC50 values ranged from 1.6 µM to 4.9 µM).
 
 ## Resistance
 
-HIV-1 isolates with reduced susceptibility to tenofovir have been selected in vitro.
+HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
 These viruses expressed a K65R mutation in reverse transcriptase and showed a 2–4 fold reduction in susceptibility to tenofovir.
 
 In Study 903 of treatment-naïve patients (VIREAD + lamivudine + efavirenz versus stavudine + lamivudine + efavirenz), genotypic analyses of isolates from patients with virologic failure through Week 144 showed development of efavirenz and lamivudine resistance-associated mutations to occur most frequently and with no difference between the treatment arms.
@@ -26,7 +26,7 @@ The K65R mutation occurred in 8/47 (17%) analyzed patient isolates on the VIREAD
 Of the 8 patients whose virus developed K65R in the VIREAD arm through 144 weeks, 7 of these occurred in the first 48 weeks of treatment and one at Week 96.
 Other mutations resulting in resistance to VIREAD were not identified in this study.
 
-In Study 934 of treatment-naïve patients (VIREAD + EMTRIVA + efavirenz versus zidovudine (AZT)/lamivudine (3TC) + efavirenz), genotypic analysis performed on HIV isolates from all patients with >400 copies/mL of HIV-1 RNA at Week 48 or early discontinuation showed development of efavirenz resistance-associated mutations occurred most frequently and was similar between the two treatment arms.
+In Study 934 of treatment-naïve patients (VIREAD + EMTRIVA® + efavirenz versus zidovudine (AZT)/lamivudine (3TC) + efavirenz), genotypic analysis performed on HIV isolates from all patients with >400 copies/mL of HIV-1 RNA at Week 48 or early discontinuation showed development of efavirenz resistance-associated mutations occurred most frequently and was similar between the two treatment arms.
 The M184V mutation, associated with resistance to EMTRIVA and lamivudine, was observed in 2/12 (17%) analyzed patient isolates in the VIREAD + EMTRIVA group and in 7/22 (32%) analyzed patient isolates in the zidovudine/lamivudine group.
 Through 48 weeks of Study 934, no patients have developed a detectable K65R mutation in their HIV as analyzed through standard genotypic analysis.
 Insufficient data are available to assess the development of the K65R mutation upon prolonged exposure to this regimen.
@@ -37,13 +37,13 @@ Cross-resistance among certain reverse transcriptase inhibitors has been recogni
 The K65R mutation selected by tenofovir is also selected in some HIV-1 infected subjects treated with abacavir, didanosine, or zalcitabine.
 HIV isolates with this mutation also show reduced susceptibility to emtricitabine and lamivudine.
 Therefore, cross-resistance among these drugs may occur in patients whose virus harbors the K65R mutation.
-HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated reverse transcriptase mutations (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), showed a 3.1 fold decrease in the susceptibility to tenofovir.
+HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated reverse transcriptase mutations (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), showed a 3.1-fold decrease in the susceptibility to tenofovir.
 Multinucleoside resistant HIV-1 with a T69S double insertion mutation in the reverse transcriptase showed reduced susceptibility to tenofovir.
 
-In studies 902 and 907 conducted in treatment-experienced patients (VIREAD + Standard Background Therapy (SBT) compared to Placebo + SBT), 14/304 (5%) of the VIREAD-treated patients with virologic failure through Week 96 had > 1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
+In Studies 902 and 907 conducted in treatment-experienced patients (VIREAD + Standard Background Therapy (SBT) compared to Placebo + SBT), 14/304 (5%) of the VIREAD-treated patients with virologic failure through Week 96 had >1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
 Genotypic analysis of the baseline and failure isolates showed the development of the K65R mutation in the HIV-1 reverse transcriptase gene.
 
-The virologic response to VIREAD therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment experienced patients participating in studies 902 and 907.
+The virologic response to VIREAD therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment experienced patients participating in Studies 902 and 907.
 
 In these clinical studies, 94% of the participants evaluated had baseline HIV-1 isolates expressing at least one NRTI mutation.
 These included resistance mutations associated with zidovudine (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), the abacavir/emtricitabine/lamivudine resistance-associated mutation (M184V), and others.
@@ -66,7 +66,7 @@ The virologic response to VIREAD therapy has been evaluated with respect to base
 Phenotypic analysis of baseline HIV-1 from patients in these studies demonstrated a correlation between baseline susceptibility to VIREAD and response to VIREAD therapy.
 Table 1 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
 
-Table 1 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram™ assay (Virco).
+Table 1 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
 
 | Baseline VIREAD SusceptibilityFold change in susceptibility from wild-type. | Change in HIV-1 RNAAverage HIV-1 RNA change from baseline through Week 24 (DAVG24) in log10 copies/mL. (N) |
 | --- | --- |
@@ -77,19 +77,20 @@ Table 1 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-
 
 Gilead Sciences, Inc. Foster City, CA 94404
 
-March 2006
+May 2007
 
-VIREAD is a registered trademark of Gilead Sciences, Inc. REYATAZ is a trademark of Bristol-Myers Squibb Company.
+VIREAD, EMTRIVA, and TRUVADA are registered trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+All other trademarks referenced herein are the property of their respective owners.
 
-©2001–2006, Gilead Sciences, Inc.
+© 2007 Gilead Sciences, Inc. All rights reserved.
 
-21-356-GS-019
+21-356-GS-020
 
-March 2006
+May 2007
 
-VIREAD is a trademark of Gilead Sciences, Inc. REYATAZ and VIDEX are trademarks of Bristol-Myers Squibb Company.
-NORVIR is a trademark of Abbott Laboratories.
+VIREAD, EMTRIVA, and TRUVADA are registered trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+All other trademarks referenced herein are the property of their respective owners.
 
-©2001–2006, Gilead Sciences, Inc.
+© 2007 Gilead Sciences, Inc. All rights reserved.
 
-21-356-GS-019
+21-356-GS-020

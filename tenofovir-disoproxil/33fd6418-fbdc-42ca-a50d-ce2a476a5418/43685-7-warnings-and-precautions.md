@@ -11,35 +11,37 @@ Treatment with VIREAD should be suspended in any patient who develops clinical o
 ## Patients Coinfected with HIV and Hepatitis B Virus
 
 It is recommended that all patients with HIV be tested for the presence of chronic hepatitis B virus (HBV) before initiating antiretroviral therapy.
-VIREAD is not indicated for the treatment of chronic HBV infection and the safety and efficacy of VIREAD have not been established in patients coinfected with HBV and HIV.
+VIREAD is not approved for the treatment of chronic HBV infection and the safety and efficacy of VIREAD have not been established in patients coinfected with HBV and HIV.
 Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV and have discontinued VIREAD.
-Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue VIREAD and are coinfected with HIV and HBV.
+Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who are coinfected with HIV and HBV and discontinue VIREAD.
 If appropriate, initiation of anti-hepatitis B therapy may be warranted.
 
 ## Renal Impairment
 
 Tenofovir is principally eliminated by the kidney.
-Dosing interval adjustment is recommended in all patients with creatinine clearance <50 mL/min (see DOSAGE AND ADMINISTRATION).
-No safety data are available in patients with renal dysfunction who received VIREAD using these dosing guidelines.
+Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported in association with the use of VIREAD (see Adverse Reactions, Post Marketing Experience).
 
-Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported in association with the use of VIREAD (see Adverse Reactions- Post Marketing Experience).
-The majority of these cases occurred in patients with underlying systemic or renal disease, or in patients taking nephrotoxic agents, however, some cases occurred in patients without identified risk factors.
+It is recommended that creatinine clearance be calculated in all patients prior to initiating therapy and as clinically appropriate during therapy with VIREAD.
+Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment.
+
+Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance <50 mL/min (see DOSAGE AND ADMINISTRATION).
+No safety or efficacy data are available in patients with renal dysfunction who received VIREAD using these dosing guidelines, and so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
 
 VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent.
-Patients at risk for, or with a history of, renal dysfunction and patients receiving concomitant nephrotoxic agents should be carefully monitored for changes in serum creatinine and phosphorus.
 
 ## Other
 
-VIREAD should not be used in combination with the fixed-dose combination product TRUVADA since it is a component of that product.
+VIREAD should not be used in combination with the fixed-dose combination products TRUVADA or ATRIPLA since it is a component of these products.
 
 # PRECAUTIONS
 
 ## Drug Interactions
 
-When administered with VIREAD, Cmax and AUC of didanosine administered as either the buffered or enteric-coated formulation increased significantly (see Table 5).
+When administered with VIREAD, Cmax and AUC of didanosine (Videx, Videx EC) administered as either the buffered or enteric-coated formulation increased significantly (see Table 5).
 The mechanism of this interaction is unknown.
 Higher didanosine concentrations could potentiate didanosine-associated adverse events, including pancreatitis and neuropathy.
-In adults weighing >60kg, the didanosine dose should be reduced to 250 mg when it is coadministered with VIREAD.
+Suppression of CD4 cell counts has been observed in patients receiving tenofovir DF with didanosine at a dose of 400 mg daily.
+In adults weighing >60 kg, the didanosine dose should be reduced to 250 mg when it is coadministered with VIREAD.
 Data are not available to recommend a dose adjustment of didanosine for patients weighing <60 kg.
 When coadministered, VIREAD and didanosine EC may be taken under fasted conditions or with a light meal (<400 kcal, 20% fat).
 Coadministration of didanosine buffered tablet formulation with VIREAD should be under fasted conditions.
@@ -47,7 +49,7 @@ Coadministration of VIREAD and didanosine should be undertaken with caution and 
 Didanosine should be discontinued in patients who develop didanosine-associated adverse events.
 
 Since tenofovir is primarily eliminated by the kidneys, coadministration of VIREAD with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of tenofovir and/or increase the concentrations of other renally eliminated drugs.
-Some examples include, but are not limited to adefovir dipivoxil, cidofovir, acyclovir, valacyclovir, ganciclovir and valganciclovir.
+Some examples include, but are not limited to adefovir dipivoxil, cidofovir, acyclovir, valacyclovir, ganciclovir, and valganciclovir.
 
 Higher tenofovir concentrations could potentiate VIREAD-associated adverse events, including renal disorders.
 
@@ -62,16 +64,18 @@ Atazanavir without ritonavir should not be coadministered with VIREAD.
 
 ## Bone Effects
 
-In study 903 through 144 weeks, decreases from baseline in bone mineral density (BMD) were seen at the lumbar spine and hip in both arms of the study.
-At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in patients receiving VIREAD + lamivudine + efavirenz (-2.2%± 3.9) compared with patients receiving stavudine + lamivudine + efavirenz (-1.0%± 4.6).
-Changes in BMD at the hip were similar between the two treatment groups (-2.8%± 3.5 in the VIREAD group vs. -2.4%± 4.5 in the stavudine group).
+In Study 903 through 144 weeks, decreases from baseline in bone mineral density (BMD) were seen at the lumbar spine and hip in both arms of the study.
+At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in patients receiving VIREAD + lamivudine + efavirenz (-2.2% ± 3.9) compared with patients receiving stavudine + lamivudine + efavirenz (-1.0% ± 4.6).
+Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the VIREAD group vs. -2.4% ± 4.5 in the stavudine group).
 In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through Week 144.
 Twenty-eight percent of VIREAD-treated patients vs. 21% of the stavudine-treated patients lost at least 5% of BMD at the spine or 7% of BMD at the hip.
 Clinically relevant fractures (excluding fingers and toes) were reported in 4 patients in the VIREAD group and 6 patients in the stavudine group.
-In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide and urinary N-telopeptide) in the VIREAD group relative to the stavudine group, suggesting increased bone turnover.
+In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide, and urinary N-telopeptide) in the VIREAD group relative to the stavudine group, suggesting increased bone turnover.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in the VIREAD group.
 Except for bone specific alkaline phosphatase, these changes resulted in values that remained within the normal range.
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
+
+Cases of osteomalacia (associated with proximal renal tubulopathy) have been reported in association with the use of VIREAD (see Adverse Reactions, Post Marketing Experience).
 
 Bone monitoring should be considered for HIV infected patients who have a history of pathologic bone fracture or are at risk for osteopenia.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
@@ -90,14 +94,14 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 ## Animal Toxicology
 
-Tenofovir and tenofovir disoproxil fumarate administered in toxicology studies to rats, dogs and monkeys at exposures (based on AUCs) greater than or equal to 6 fold those observed in humans caused bone toxicity.
+Tenofovir and tenofovir disoproxil fumarate administered in toxicology studies to rats, dogs, and monkeys at exposures (based on AUCs) greater than or equal to 6 fold those observed in humans caused bone toxicity.
 In monkeys the bone toxicity was diagnosed as osteomalacia.
 Osteomalacia observed in monkeys appeared to be reversible upon dose reduction or discontinuation of tenofovir.
 In rats and dogs, the bone toxicity manifested as reduced bone mineral density.
 The mechanism(s) underlying bone toxicity is unknown.
 
 Evidence of renal toxicity was noted in 4 animal species.
-Increases in serum creatinine, BUN, glycosuria, proteinuria, phosphaturia and/or calciuria and decreases in serum phosphate were observed to varying degrees in these animals.
+Increases in serum creatinine, BUN, glycosuria, proteinuria, phosphaturia, and/or calciuria and decreases in serum phosphate were observed to varying degrees in these animals.
 These toxicities were noted at exposures (based on AUCs) 2–20 times higher than those observed in humans.
 The relationship of the renal abnormalities, particularly the phosphaturia, to the bone toxicity is not known.
 
@@ -115,7 +119,7 @@ There was, however, an alteration of the estrous cycle in female rats.
 
 ## Pregnancy
 
-### Pregnancy category B
+### Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
 There are, however, no adequate and well-controlled studies in pregnant women.

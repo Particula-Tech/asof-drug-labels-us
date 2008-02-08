@@ -9,7 +9,7 @@ A total of 1,544 patients have received VIREAD 300 mg once daily in Phase I–II
 
 #### Study 903 - Treatment-Emergent Adverse Events
 
-The most common adverse reactions seen in a double blind comparative controlled study in which 600 treatment-naïve patients received VIREAD (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
+The most common adverse reactions seen in a double-blind comparative controlled study in which 600 treatment-naïve patients received VIREAD (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
 
 Mild adverse events (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
 Selected treatment-emergent moderate to severe adverse events are summarized in Table 9.
@@ -18,13 +18,13 @@ Table 9 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in �
 
 |  | N=299 | N=301 |
 | --- | --- | --- |
-|  | VIREAD+3TC+EFV | d4T+3TC+EFV |
+|  | VIREAD + 3TC + EFV | d4T + 3TC + EFV |
 | Body as a Whole |  |  |
 | Headache | 14% | 17% |
 | Pain | 13% | 12% |
 | Fever | 8% | 7% |
-| Abdominal Pain | 7% | 12% |
-| Back Pain | 9% | 8% |
+| Abdominal pain | 7% | 12% |
+| Back pain | 9% | 8% |
 | Asthenia | 6% | 7% |
 | Digestive System |  |  |
 | Diarrhea | 11% | 13% |
@@ -32,7 +32,7 @@ Table 9 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in �
 | Dyspepsia | 4% | 5% |
 | Vomiting | 5% | 9% |
 | Metabolic Disorders |  |  |
-| LipodystrophyLipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome | 1% | 8% |
+| LipodystrophyLipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome. | 1% | 8% |
 | Musculoskeletal |  |  |
 | Arthralgia | 5% | 7% |
 | Myalgia | 3% | 5% |
@@ -40,32 +40,32 @@ Table 9 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in �
 | Depression | 11% | 10% |
 | Insomnia | 5% | 8% |
 | Dizziness | 3% | 6% |
-| Peripheral neuropathyPeripheral neuropathy includes peripheral neuritis and neuropathy | 1% | 5% |
+| Peripheral neuropathyPeripheral neuropathy includes peripheral neuritis and neuropathy. | 1% | 5% |
 | Anxiety | 6% | 6% |
 | Respiratory |  |  |
 | Pneumonia | 5% | 5% |
 | Skin and Appendages |  |  |
-| Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash | 18% | 12% |
+| Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
 
 ##### Laboratory Abnormalities
 
 With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the stavudine group (40% and 9%) compared with VIREAD (19% and 1%) respectively, laboratory abnormalities observed in this study occurred with similar frequency in the VIREAD and stavudine treatment arms.
 A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 10.
 
-Table 10 Grade 3/4 Laboratory Abnormalities Reported in ≥ 1% of VIREAD-Treated Patients in Study 903 (0–144 Weeks)
+Table 10 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Patients in Study 903 (0–144 Weeks)
 
 |  | N=299 | N=301 |
 | --- | --- | --- |
-|  | VIREAD+3TC+EFV | d4T+3TC+EFV |
+|  | VIREAD + 3TC + EFV | d4T + 3TC + EFV |
 | Any ≥ Grade 3 Laboratory Abnormality | 36% | 42% |
-| Fasting Cholesterol (> 240 mg/dL) | 19% | 40% |
+| Fasting Cholesterol (>240 mg/dL) | 19% | 40% |
 | Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 12% | 12% |
 | Serum Amylase (>175 U/L) | 9% | 8% |
 | AST (M: >180 U/L) (F: >170 U/L) | 5% | 7% |
 | ALT (M: >215 U/L) (F: >170 U/L) | 4% | 5% |
 | Hematuria (>100 RBC/HPF) | 7% | 7% |
-| Neutrophil (<750/mm3) | 3% | 1% |
-| Fasting Triglyceride (>750 mg/dL) | 1% | 9% |
+| Neutrophils (<750/mm3) | 3% | 1% |
+| Fasting Triglycerides (>750 mg/dL) | 1% | 9% |
 
 #### Study 934 - Treatment Emergent Adverse Events
 
@@ -117,14 +117,14 @@ Table 12 Significant Laboratory Abnormalities Reported in ≥1% of Patients in A
 | Hemoglobin (<8.0 mg/dL) | 0% | 3% |
 | Hyperglycemia (>250 mg/dL) | 1% | 1% |
 | Hematuria (>75 RBC/HPF) | 2% | 2% |
-| Neutrophil (<750/mm3) | 3% | 4% |
-| Fasting Triglyceride (>750 mg/dL) | 4% | 2% |
+| Neutrophils (<750/mm3) | 3% | 4% |
+| Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
 
 ### Treatment-Experienced Patients
 
 #### Treatment-Emergent Adverse Events
 
-The adverse reactions seen in treatment experienced patients were generally consistent with those seen in treatment naïve patients including mild to moderate gastrointestinal events, such as nausea, diarrhea, vomiting and flatulence.
+The adverse reactions seen in treatment experienced patients were generally consistent with those seen in treatment naïve patients including mild to moderate gastrointestinal events, such as nausea, diarrhea, vomiting, and flatulence.
 Less than 1% of patients discontinued participation in the clinical studies due to gastrointestinal adverse events (Study 907).
 
 A summary of moderate to severe, treatment-emergent adverse events that occurred during the first 48 weeks of Study 907 is provided in Table 13.
@@ -137,9 +137,9 @@ Table 13 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in �
 | Asthenia | 7% | 6% | 11% | 1% |
 | Pain | 7% | 7% | 12% | 4% |
 | Headache | 5% | 5% | 8% | 2% |
-| Abdominal Pain | 4% | 3% | 7% | 6% |
-| Back Pain | 3% | 3% | 4% | 2% |
-| Chest Pain | 3% | 1% | 3% | 2% |
+| Abdominal pain | 4% | 3% | 7% | 6% |
+| Back pain | 3% | 3% | 4% | 2% |
+| Chest pain | 3% | 1% | 3% | 2% |
 | Fever | 2% | 2% | 4% | 2% |
 | Digestive System |  |  |  |  |
 | Diarrhea | 11% | 10% | 16% | 11% |
@@ -161,21 +161,21 @@ Table 13 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in �
 | Musculoskeletal |  |  |  |  |
 | Myalgia | 3% | 3% | 4% | 1% |
 | Metabolic |  |  |  |  |
-| Weight Loss | 2% | 1% | 4% | 2% |
+| Weight loss | 2% | 1% | 4% | 2% |
 
 ##### Laboratory Abnormalities
 
 Laboratory abnormalities observed in this study occurred with similar frequency in the VIREAD and placebo-treated groups.
 A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 14.
 
-Table 14 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Patients in Study 907 (0–48 weeks)
+Table 14 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Patients in Study 907 (0–48 Weeks)
 
 |  | (%) | (%) | (%) | (%) |
 | --- | --- | --- | --- | --- |
 |  | VIREAD (N=368) (Week 0–24) | Placebo (N=182) (Week 0–24) | VIREAD (N=368) (Week 0–48) | Placebo Crossover to VIREAD (N=170) (Week 24–48) |
 | Any ≥ Grade 3 Laboratory Abnormality | 25% | 38% | 35% | 34% |
 | Triglycerides (>750 mg/dL) | 8% | 13% | 11% | 9% |
-| Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 7% | 14% | 12% | 12% |
+| Creatine Kinase (M: >990U/L) (F: >845 U/L) | 7% | 14% | 12% | 12% |
 | Serum Amylase (>175 U/L) | 6% | 7% | 7% | 6% |
 | Urine Glucose (≥3+) | 3% | 3% | 3% | 2% |
 | AST (M: >180 U/L) (F: >170 U/L) | 3% | 3% | 4% | 5% |
@@ -185,7 +185,7 @@ Table 14 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated 
 
 ## Post Marketing Experience
 
-In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of VIREAD.
+The following events have been identified during post-approval use of VIREAD.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting or potential causal connection to VIREAD.
 
@@ -199,4 +199,10 @@ GASTROINTESTINAL DISORDERS Abdominal pain, Increased amylase, Pancreatitis
 
 HEPATOBILIARY DISORDERS Increased liver enzymes, Hepatitis
 
-RENAL AND URINARY DISORDERS Renal insufficiency, Renal failure, Acute renal failure, Fanconi syndrome, Proximal tubulopathy, Proteinuria, Increased creatinine, Acute tubular necrosis, Nephrogenic diabetes insipidus, Polyuria, Nephritis
+SKIN AND SUBCUTANEOUS TISSUE DISORDERS Rash
+
+MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS Myopathy, Osteomalacia (both associated with proximal renal tubulopathy)
+
+RENAL AND URINARY DISORDERS Renal insufficiency, Renal failure, Acute renal failure, Fanconi syndrome, Proximal tubulopathy, Proteinuria, Increased creatinine, Acute tubular necrosis, Nephrogenic diabetes insipidus, Polyuria, Interstitial nephritis (including acute cases).
+
+GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS Asthenia
