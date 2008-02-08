@@ -1,0 +1,62 @@
+# WARNINGS
+
+Clotrimazole Cream is not for ophthalmic use.
+
+# PRECAUTIONS
+
+## General
+
+If irritation or sensitivity develops with the use of Clotrimazole Cream, treatment should be discontinued and appropriate therapy instituted.
+
+## Information for Patients
+
+The patient should be advised to:
+
+1. Use the medication for the full treatment time even though the symptoms may have improved.
+   Notify the physician if there is no improvement after four weeks of treatment.
+2. Inform the physician if the area of application shows signs of increased irritation (redness, itching, burning, blistering, swelling, oozing) indicative of possible sensitization.
+3. Avoid the use of occlusive wrappings or dressings.
+4. Avoid sources of infection or reinfection.
+
+## Laboratory Tests
+
+If there is lack of response to Clotrimazole Cream, appropriate microbiological studies should be repeated to confirm the diagnosis and rule out other pathogens before instituting another course of antimycotic therapy.
+
+## Drug Interactions
+
+Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+An 18-month oral dosing study with clotrimazole in rats has not revealed any carcinogenic effect.
+
+In tests for mutagenesis, chromosomes of the spermatophores of Chinese hamsters which had been exposed to clotrimazole were examined for structural changes during the metaphase.
+Prior to testing, the hamsters had received five oral clotrimazole doses of 100 mg/kg body weight.
+The results of this study showed that clotrimazole had no mutagenic effect.
+
+## Usage in Pregnancy
+
+### Pregnancy Category B
+
+The disposition of 14C-clotrimazole has been studied in humans and animals.
+Clotrimazole is very poorly absorbed following dermal application or intravaginal administration to humans.
+(See CLINICAL PHARMACOLOGY)
+
+In clinical trials, use of vaginally applied clotrimazole in pregnant women in their second and third trimesters has not been associated with ill effects.
+There are, however, no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
+
+Studies in pregnant rats with intravaginal doses up to 100 mg/kg have revealed no evidence of harm to the fetus due to clotrimazole.
+
+High oral doses of clotrimazole in rats and mice ranging from 50 to 120 mg/kg resulted in embryotoxicity (possibly secondary to maternal toxicity), impairment of mating, decreased litter size and number of viable young and decreased pup survival to weaning.
+However, clotrimazole was not teratogenic in mice, rabbits and rats at oral doses up to 200, 180 and 100 mg/kg, respectively.
+Oral absorption in the rat amounts to approximately 90% of the administered dose.
+
+Because animal reproduction studies are not always predictive of human response, this drug should be used only if clearly indicated during the first trimester of pregnancy.
+
+## Nursing Mothers
+
+It is not known whether this drug is excreted in human milk, caution should be exercised when clotrimazole is used by a nursing woman.
+
+## Pediatric Use
+
+Safety and effectiveness in children have been established for clotrimazole when used as indicated and in the recommended dosage.
