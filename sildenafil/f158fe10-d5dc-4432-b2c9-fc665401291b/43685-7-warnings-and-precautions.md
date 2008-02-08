@@ -51,6 +51,10 @@ Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy 
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors.
 Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators, such as PDE5 inhibitors (see ADVERSE REACTIONS).
 
+Physicians should advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking all PDE5 inhibitors, including REVATIO.
+These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including REVATIO.
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors (see ADVERSE REACTIONS, Clinical Trials and Post-Marketing Experience).
+
 ## Drug Interactions
 
 In PAH patients, the concomitant use of vitamin K antagonists and sildenafil resulted in a greater incidence of reports of bleeding (primarily epistaxis) versus placebo.

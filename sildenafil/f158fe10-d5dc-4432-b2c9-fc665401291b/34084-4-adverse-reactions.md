@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+## Clinical Trials
+
 Safety data were obtained from the pivotal study and an open-label extension study in 277 treated patients with pulmonary arterial hypertension.
 Doses up to 80 mg t.i.d. were studied.
 
@@ -35,6 +37,8 @@ In the pivotal study, the incidence of retinal hemorrhage at the recommended sil
 The incidence of eye hemorrhage at both the recommended dose and at all doses studied was 1.4% for sildenafil versus 1.4% for placebo.
 The patients experiencing these events had risk factors for hemorrhage including concurrent anticoagulant therapy.
 
+## Post-Marketing Experience
+
 In post-marketing experience with sildenafil citrate at doses indicated for male erectile dysfunction, serious cardiovascular, cerebrovascular, and vascular events, including myocardial infarction, sudden cardiac death, ventricular arrhythmia, cerebrovascular hemorrhage, transient ischemic attack, hypertension, pulmonary hemorrhage, and subarachnoid and intracerebral hemorrhages have been reported in temporal association with the use of the drug.
 Most, but not all, of these patients had preexisting cardiovascular risk factors.
 Many of these events were reported to occur during or shortly after sexual activity, and a few were reported to occur shortly after the use of sildenafil without sexual activity.
@@ -44,3 +48,15 @@ It is not possible to determine whether these events are related directly to sil
 When used to treat male-erectile dysfunction, non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely post-marketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including sildenafil citrate.
 Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors (see PRECAUTIONS/Information for Patients).
+
+Cases of sudden decrease or loss of hearing have been reported post-marketing in temporal association with the use of PDE5 inhibitors, including REVATIO.
+In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.
+In many cases, medical follow-up information was limited.
+It is not possible to determine whether these reported events are related directly to the use of REVATIO, to the patient’s underlying risk factors for hearing loss, a combination of these factors, or to other factors (see PRECAUTIONS, Information for Patients).
+
+Other events: The following list includes other adverse events that have been identified during post-marketing use of REVATIO.
+The list does not include adverse events that are reported from clinical trials and that are listed elsewhere in this section.
+These events have been chosen for inclusion either due to their seriousness, reporting frequency, lack of clear alternative causation, or a combination of these factors.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Nervous: seizure, seizure recurrence

@@ -1,5 +1,5 @@
 Rx Only
 
-LAB-0313-7.0
+LAB-0313-8.0
 
-July 2006
+October 2007
