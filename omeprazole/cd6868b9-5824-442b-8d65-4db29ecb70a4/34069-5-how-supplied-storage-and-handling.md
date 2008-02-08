@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-ZEGERID 20-mg Capsules: Each opaque, hard gelatin, colored light blue and white capsule, imprinted with the Santarus logo and “20”, contains 20 mg omeprazole and 1100 mg sodium bicarbonate.
+ZEGERID 20-mg Capsules: Each opaque, hard gelatin, white capsule, imprinted with the Santarus logo and “20”, contains 20 mg omeprazole and 1100 mg sodium bicarbonate.
 
 NDC 68012-102-30 Bottles of 30 capsules
 

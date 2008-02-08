@@ -7,7 +7,7 @@ Symptomatic response to therapy with omeprazole does not preclude the presence o
 Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
 
 Each ZEGERID Capsule contains 1100 mg (13 mEq) of sodium bicarbonate.
-The total content of sodium in each capsule is 303 mg.
+The total content of sodium in each capsule is 304 mg.
 
 Each packet of ZEGERID Powder for Oral Suspension contains 1680 mg (20 mEq) of sodium bicarbonate (equivalent to 460 mg of Na+).
 
