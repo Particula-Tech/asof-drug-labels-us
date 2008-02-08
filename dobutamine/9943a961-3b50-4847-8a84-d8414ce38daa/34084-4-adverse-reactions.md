@@ -11,6 +11,6 @@ In rare cases, however, intervention may be required and reversibility may not b
 Reactions at Sites of Intravenous Infusion: Phlebitis has occasionally been reported.
 Local inflammatory changes have been described following inadvertent infiltration.
 
-Miscellaneous Uncommon Effects: The following adverse effects have been reported in 1% to 3% of patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath.
+Miscellaneous Uncommon Effects: The following adverse effects have been reported in 1% to 3% ofpatients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath.
 
 Administration of dobutamine, like other catecholamines, has been associated with decreases in serum potassium concentrations, rarely to hypokalemic levels (See PRECAUTIONS).
