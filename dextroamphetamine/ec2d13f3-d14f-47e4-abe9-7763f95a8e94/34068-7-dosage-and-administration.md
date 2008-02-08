@@ -5,10 +5,10 @@ Late evening doses should be avoided because of the resulting insomnia.
 
 ## Narcolepsy:
 
-Usual dose 5 to 60 mg per day in divided doses, depending on the individual patient response.
+Usual dose is 5 to 60 mg per day in divided doses, depending on the individual patient response.
 
 Narcolepsy seldom occurs in children under 12 years of age; however, when it does, dextroamphetamine sulfate may be used.
-The suggested initial dose for patients aged 6 to 12 is 5 mg daily; daily dose may be raised in increments of 5 mg at weekly intervals until optimal response is obtained.
+The suggested initial dose for patients aged 6 to 12 is 5 mg daily; daily dose may be raised in increments of 5 mg at weekly intervals until an optimal response is obtained.
 In patients 12 years of age and older, start with 10 mg daily; daily dosage may be raised in increments of 10 mg at weekly intervals until optimal response is obtained.
 If bothersome adverse reactions appear (e.g., insomnia or anorexia), dosage should be reduced.
 Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.

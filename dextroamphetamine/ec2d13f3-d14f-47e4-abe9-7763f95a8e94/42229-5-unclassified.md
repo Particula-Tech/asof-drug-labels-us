@@ -1,16 +1,12 @@
-CII
-
 (Three Medication Guides Attached)
 
-Revised FEBRUARY 2007
+Revised SEPTEMBER 2007
 
-11001188
+11001276
 
 Rx only
 
-# DEXTROAMPHETAMINE SULFATE TABLETS, USP
-
-CII
+# DEXTROAMPHETAMINE SULFATE TABLETS, USP CII
 
 Read the Medication Guide that comes with Dextroamphetamine Sulfate Tablets before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -20,6 +16,7 @@ This Medication Guide does not take the place of talking to your doctor about yo
 
 Dextroamphetamine Sulfate Tablets are a central nervous system stimulant prescription medicine.
 It is used for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD).
+
 Dextroamphetamine Sulfate Tablets may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 
 Dextroamphetamine Sulfate Tablets should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
@@ -47,7 +44,6 @@ Before starting Dextroamphetamine Sulfate Tablets tell your or your child’s do
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
 - tics or Tourette’s syndrome
-- liver or kidney problems
 - thyroid problems
 - seizures or have had an abnormal brain wave test (EEG)
 
@@ -77,12 +73,12 @@ Do not start any new medicine while taking Dextroamphetamine Sulfate Tablets wit
 ## How should Dextroamphetamine Sulfate Tablets be taken?
 
 - Take Dextroamphetamine Sulfate Tablets exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child
+  Your doctor may adjust the dose until it is right for you or your chd.l
 - Dextroamphetamine Sulfate Tablets are usually taken once a day in the morning.
 - From time to time, your doctor may stop Dextroamphetamine Sulfate Tablet treatment for awhile to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Tablets.
   Children should have their height and weight checked often while taking Dextroamphetamine Sulfate Tablets.
-  Dextroamphetamine Sulfate Tablet treatment may be stopped if a problem is found during these check-ups.
+  Dextroamphetamine Sulfate Tables treatment may be stopped if a problem is found during these check-ups.
 - If you or your child take too much Dextroamphetamine Sulfate Tablets or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 ## What are possible side effects of Dextroamphetamine Sulfate Tablets?
@@ -142,7 +138,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 BARR LABORATORIES, INC.
 
-POMONA, N.Y.
+omonaA,..
 10970
 
-Revised FEBRUARY 2007 BR- 0952, 0953
+Revised SEPTEMBER 2007 BR 0952, 0953

@@ -7,6 +7,11 @@ There is neither specific evidence which clearly establishes the mechanism where
 
 Pharmacokinetics:
 
-The single ingestion of two 5 mg tablets by healthy volunteers produced an average peak dextroamphetamine blood level of 29.2 ng/mL at 2 hours post-administration.
-The average half-life was 10.25 hours.
-The average urinary recovery was 45% in 48 hours.
+The pharmacokinetics of the tablet and sustained-release capsule were compared in 12 healthy subjects.
+The extent of bioavailability of the sustained-release capsule was similar compared to the immediate-release tablet.
+Following administration of three 5 mg tablets, average maximal dextroamphetamine plasma concentrations (Cmax) of 36.6 ng/mL were achieved at approximately 3 hours.
+Following administration of one 15 mg sustained-release capsule, maximal dextroamphetamine plasma concentrations were obtained approximately 8 hours after dosing.
+The average Cmax was 23.5 ng/mL.
+The average plasma T1/2 was similar for both the tablet and sustained-release capsule and was approximately 12 hours.
+
+In 12 healthy subjects, the rate and extent of dextroamphetamine absorption were similar following administration of the sustained-release capsule formulation in the fed (58 to 75 gm fat) and fasted state.
