@@ -1,8 +1,8 @@
-# DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
-## Hypertension
+## 2.1 Adult Hypertension
 
-The recommended starting dose of Diovan® (valsartan) is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
+The recommended starting dose of Diovan (valsartan) is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
 Patients requiring greater reductions may be started at the higher dose.
 Diovan may be used over a dose range of 80 mg to 320 mg daily, administered once a day.
 
@@ -17,14 +17,38 @@ Diovan may be administered with other antihypertensive agents.
 
 Diovan may be administered with or without food.
 
-## Heart Failure
+## 2.2 Pediatric Hypertension 6-16 years of age
+
+For children who can swallow tablets, the usual recommended starting dose is 1.3 mg/kg once daily (up to 40 mg total).
+The dosage should be adjusted according to blood pressure response.
+Doses higher than 2.7 mg/kg (up to 160 mg) once daily have not been studied in pediatric patients 6 to 16 years old.
+
+For children who cannot swallow tablets, or children for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths of Diovan, the use of a suspension is recommended.
+Follow the suspension preparation instructions below (see Preparation of Suspension) to administer valsartan as a suspension.
+When the suspension is replaced by a tablet, the dose of valsartan may have to be increased.
+The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
+
+Diovan is not recommended for treatment of children below the age of 6 years or children of any age with a glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
+
+Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
+
+Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing 8 Diovan 80 mg tablets, and shake for a minimum of 2 minutes.
+Allow the suspension to stand for a minimum of 1 hour.
+After the standing time, shake the suspension for a minimum of 1 additional minute.
+Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
+The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30ºC/86ºF) or up to 75 days at refrigerated conditions (2-8ºC/35-46ºF) in the glass bottle with a child-resistant screw-cap closure.
+Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
+
+*Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
+
+## 2.3 Heart Failure
 
 The recommended starting dose of Diovan is 40 mg twice daily.
 Uptitration to 80 mg and 160 mg twice daily should be done to the highest dose, as tolerated by the patient.
 Consideration should be given to reducing the dose of concomitant diuretics.
 The maximum daily dose administered in clinical trials is 320 mg in divided doses.
 
-## Post-Myocardial Infarction
+## 2.4 Post-Myocardial Infarction
 
 Diovan may be initiated as early as 12 hours after a myocardial infarction.
 The recommended starting dose of Diovan is 20 mg twice daily.

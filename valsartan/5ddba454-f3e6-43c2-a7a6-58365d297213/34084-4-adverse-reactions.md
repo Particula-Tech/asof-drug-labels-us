@@ -1,16 +1,20 @@
-# ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
-## Hypertension
+## 6.1 Clinical Studies Experience
 
-Diovan® (valsartan) has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
-Adverse experiences have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
-The overall incidence of adverse experiences with Diovan was similar to placebo.
+Because clinical studies are conducted under widely varying conditions, adverse reactions rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The overall frequency of adverse experiences was neither dose-related nor related to gender, age, race, or regimen.
+Adult Hypertension
+
+Diovan (valsartan) has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
+Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
+The overall incidence of adverse reactions with Diovan was similar to placebo.
+
+The overall frequency of adverse reactions was neither dose-related nor related to gender, age, race, or regimen.
 Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2.0% of placebo patients.
 The most common reasons for discontinuation of therapy with Diovan were headache and dizziness.
 
-The adverse experiences that occurred in placebo-controlled clinical trials in at least 1% of patients treated with Diovan and at a higher incidence in valsartan (n=2,316) than placebo (n=888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
+The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with Diovan and at a higher incidence in valsartan (n=2,316) than placebo (n=888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
 
 Headache, dizziness, upper respiratory infection, cough, diarrhea, rhinitis, sinusitis, nausea, pharyngitis, edema, and arthralgia occurred at a more than 1% rate but at about the same incidence in placebo and valsartan patients.
 
@@ -22,7 +26,7 @@ An increase in the incidence of dizziness was observed in patients treated with 
 
 Diovan has been used concomitantly with hydrochlorothiazide without evidence of clinically important adverse interactions.
 
-Other adverse experiences that occurred in controlled clinical trials of patients treated with Diovan (>0.2% of valsartan patients) are listed below.
+Other adverse reactions that occurred in controlled clinical trials of patients treated with Diovan (>0.2% of valsartan patients) are listed below.
 It cannot be determined whether these events were causally related to Diovan.
 
 Body as a Whole: Allergic reaction and asthenia
@@ -45,12 +49,21 @@ Urogenital: Impotence
 
 Other reported events seen less frequently in clinical trials included chest pain, syncope, anorexia, vomiting, and angioedema.
 
-## Heart Failure
+Pediatric Hypertension
+
+No relevant differences were identified between the adverse experience profile for pediatric patients aged 6-16 years and that previously reported for adult patients.
+Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 years revealed no overall clinically relevant adverse impact after treatment with Diovan for up to one year.
+
+In the one study (n=90) of pediatric patients (1-5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
+These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
+A causal relationship to Diovan has not been established.
+
+Heart Failure
 
 The adverse experience profile of Diovan in heart failure patients was consistent with the pharmacology of the drug and the health status of the patients.
-In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse events vs. 7% of placebo patients.
+In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 
-The table shows adverse events in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
+The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
 All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers, or ACE inhibitors.
 
 |  | Valsartan (n=3,282) | Placebo (n=2,740) |
@@ -65,26 +78,26 @@ All patients received standard drug therapy for heart failure, frequently as mul
 | Hyperkalemia | 2% | 1% |
 | Hypotension, postural | 2% | 1% |
 
-Other adverse events with an incidence greater than 1% and greater than placebo included headache NOS, nausea, renal impairment NOS, syncope, blurred vision, upper abdominal pain and vertigo.
+Other adverse reactions with an incidence greater than 1% and greater than placebo included headache NOS, nausea, renal impairment NOS, syncope, blurred vision, upper abdominal pain and vertigo.
 (NOS = not otherwise specified).
 
-From the long-term data in the Valsartan Heart Failure Trial, there did not appear to be any significant adverse events not previously identified.
+From the long-term data in the Valsartan Heart Failure Trial, there did not appear to be any significant adverse reactions not previously identified.
 
-## Post-Myocardial Infarction
+Post-Myocardial Infarction
 
 The safety profile of Diovan was consistent with the pharmacology of the drug and the background diseases, cardiovascular risk factors, and clinical course of patients treated in the post-myocardial infarction setting.
 The table shows the percent of patients discontinued in the valsartan and captopril-treated groups in the Valsartan in Acute Myocardial Infarction Trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
 
 |  | Valsartan (n=4,885) | Captopril (n=4,879) |
 | --- | --- | --- |
-| Discontinuation for adverse event | 5.8% | 7.7% |
-| Adverse events |  |  |
+| Discontinuation for adverse reaction | 5.8% | 7.7% |
+| Adverse reactions |  |  |
 | Hypotension NOS | 1.4% | 0.8% |
 | Cough | 0.6% | 2.5% |
 | Blood creatinine increased | 0.6% | 0.4% |
 | Rash NOS | 0.2% | 0.6% |
 
-## Post-Marketing Experience
+## 6.2 Post-Marketing Experience
 
 The following additional adverse reactions have been reported in post-marketing experience:
 
@@ -102,23 +115,4 @@ Blood and Lymphatic: There are very rare reports of thrombocytopenia.
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
-## Clinical Laboratory Test Findings
-
-In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of Diovan.
-
-Creatinine: Minor elevations in creatinine occurred in 0.8% of patients taking Diovan and 0.6% given placebo in controlled clinical trials of hypertensive patients.
-In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of Diovan-treated patients compared to 0.9% of placebo-treated patients.
-In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
-
-Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in 0.4% and 0.8%, respectively, of Diovan patients, compared with 0.1% and 0.1% in placebo-treated patients.
-One valsartan patient discontinued treatment for microcytic anemia.
-
-Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Diovan-treated patients.
-Three patients (< 0.1%) treated with valsartan discontinued treatment for elevated liver chemistries.
-
-Neutropenia: Neutropenia was observed in 1.9% of patients treated with Diovan and 0.8% of patients treated with placebo.
-
-Serum Potassium: In hypertensive patients, greater than 20% increases in serum potassium were observed in 4.4% of Diovan-treated patients compared to 2.9% of placebo-treated patients.
-In heart failure patients, greater than 20% increases in serum potassium were observed in 10.0% of Diovan-treated patients compared to 5.1% of placebo-treated patients.
-
-Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of Diovan-treated patients compared to 6.3% of placebo-treated patients.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
