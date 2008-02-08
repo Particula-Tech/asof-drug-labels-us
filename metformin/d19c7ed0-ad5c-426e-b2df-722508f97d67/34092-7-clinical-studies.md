@@ -14,7 +14,7 @@ In combination with metformin, sitagliptin provided significant improvements in 
 Rescue glycemic therapy was used in 5% of patients treated with sitagliptin 100 mg and 14% of patients treated with placebo.
 A similar decrease in body weight was observed for both treatment groups.
 
-Table 1: Glycemic Parameters at Final Visit (24-Week Study) of Sitagliptin in Add-on Combination Therapy with MetforminIntent to Treated Population using last observation on study prior to pioglitazone rescue therapy.
+Table 1: Glycemic Parameters at Final Visit (24-Week Study) of Sitagliptin in Add-on Combination Therapy with MetforminIntent to Treat Population using last observation on study prior to pioglitazone rescue therapy.
 
 |  | Sitagliptin 100 mg q.d. + Metformin | Placebo + Metformin |
 | --- | --- | --- |

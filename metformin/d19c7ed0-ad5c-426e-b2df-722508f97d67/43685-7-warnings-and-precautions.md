@@ -111,3 +111,12 @@ When such events occur in patients on JANUMET therapy, the drug should be prompt
 When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
 At such times, it may be necessary to withhold JANUMET and temporarily administer insulin.
 JANUMET may be reinstituted after the acute episode is resolved.
+
+## 5.13 Hypersensitivity Reactions
+
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of JANUMET.
+These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose.
+If a hypersensitivity reaction is suspected, discontinue JANUMET, assess for other potential causes for the event, and institute alternative treatment for diabetes.
+[See Adverse Reactions (6.2).]

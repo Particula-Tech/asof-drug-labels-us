@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.3).]
+See FDA-Approved Patient Labeling.
 
 ## 17.1 Instructions
 
@@ -17,6 +17,9 @@ Patients should be counseled against excessive alcohol intake, either acute or c
 
 Patients should be informed about the importance of regular testing of renal function and hematological parameters when receiving treatment with JANUMET.
 
+Patients should be informed that allergic reactions have been reported during postmarketing use of sitagliptin, one of the components of JANUMET.
+If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUMET and seek medical advice promptly.
+
 Physicians should instruct their patients to read the Patient Package Insert before starting JANUMET therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
@@ -30,7 +33,7 @@ While megaloblastic anemia has rarely been seen with metformin therapy, if this 
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794104
+9794105
 
 US Patent No.: 6,699,871
 
@@ -43,9 +46,7 @@ Licensed to Bristol-Myers Squibb Company.
 
 COPYRIGHT © 2007 MERCK & CO., Inc. All rights reserved
 
-## 17.3 FDA-Approved Patient Labeling
-
-Patient Information
+FDA-Approved Patient Labeling Patient Information
 
 JANUMET™ (JAN-you-met)
 
@@ -107,6 +108,7 @@ Do not take JANUMET if you:
 - have type 1 diabetes.
 - have certain kidney problems.
 - have conditions called metabolic acidosis or diabetic ketoacidosis (increased ketones in the blood or urine).
+- have had an allergic reaction to JANUMET or sitagliptin (JANUVIA), one of the components of JANUMET.
 - are going to receive an injection of dye or contrast agents for an x-ray procedure, JANUMET will need to be stopped for a short time.
   Talk to your doctor about when to stop JANUMET and when to start again.
   See “What is the most important information I should know about JANUMET?”
@@ -118,6 +120,7 @@ Tell your doctor about all of your medical conditions, including if you:
 
 - have kidney problems.
 - have liver problems.
+- have had an allergic reaction to JANUMET or sitagliptin (JANUVIA), one of the components of JANUMET.
 - have heart problems, including congestive heart failure.
 - are older than 80 years.
   Patients over 80 years should not take JANUMET unless their kidney function is checked and it is normal.
@@ -187,7 +190,9 @@ Stomach problems that start up later during treatment may be a sign of something
 
 The following additional side effects have been reported in general use with JANUMET or sitagliptin, one of the medicines in JANUMET:
 
-- allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing, rash, and hives.
+- Allergic reactions, which may be serious, including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing.
+  If you have an allergic reaction, stop taking JANUMET and call your doctor right away.
+  Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
 - Upper respiratory infection.
 
 These are not all the possible side effects of JANUMET.
@@ -211,7 +216,7 @@ It may harm them.
 This leaflet summarizes the most important information about JANUMET.
 If you would like to know more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about JANUMET that is written for health professionals.
-For more information go to www.JANUMET.com OR CALL 1-800-622-4477.
+For more information call 1-800-622-4477.
 
 What are the ingredients in JANUMET?
 
@@ -232,8 +237,8 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Issued August 2007
+Issued January 2008
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794104
+9794105
