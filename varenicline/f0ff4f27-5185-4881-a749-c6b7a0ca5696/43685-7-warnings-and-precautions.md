@@ -1,3 +1,14 @@
+# WARNINGS
+
+## Neuropsychiatric Symptoms
+
+Serious neuropsychiatric symptoms have occurred in patients being treated with CHANTIX.
+Some cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking; however, some of these symptoms have occurred in patients who continued to smoke.
+All patients being treated with CHANTIX should be observed for neuropsychiatric symptoms including changes in behavior, agitation, depressed mood, suicidal ideation and suicidal behavior.
+These symptoms, as well as worsening of pre-existing psychiatric illness, have been reported in patients attempting to quit smoking while taking CHANTIX in the post-marketing experience.
+Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of CHANTIX and the safety and efficacy of CHANTIX in such patients has not been established.
+Patients attempting to quit smoking with CHANTIX and their families and caregivers should be alerted about the need to monitor for these symptoms and to report such symptoms immediately to the patient's healthcare provider.
+
 # PRECAUTIONS
 
 ## General
@@ -86,8 +97,12 @@ No dosage adjustment is recommended for elderly patients (see DOSAGE AND ADMINIS
   Prescribers should explain that one 0.5 mg tablet should be taken daily for the first three days, and that for the next four days, one 0.5 mg tablet should be taken in the morning and one 0.5 mg tablet should be taken in the evening.
 - Patients should be advised that, after the first seven days, the dose should be increased to one 1 mg tablet in the morning and one 1 mg tablet in the evening.
 - Patients should be encouraged to continue to attempt to quit if they have early lapses after quit day.
-- Patients should be informed that nausea and insomnia are side effects of CHANTIX and are usually transient; however, patients should be advised that if they are persistently troubled by these symptoms, they should notify the prescribing physician so that a dose reduction can be considered.
 - Patients should also be provided with educational materials and necessary counseling to support an attempt at quitting smoking.
+- Patients should be informed that nausea and insomnia are side effects of CHANTIX and are usually transient; however, patients should be advised that if they are persistently troubled by these symptoms, they should notify the prescribing physician so that a dose reduction can be considered.
+- Patients should be informed that they may experience vivid, unusual or strange dreams during treatment with CHANTIX.
+- Patients should be informed that quitting smoking, with or without CHANTIX, may be associated with nicotine withdrawal symptoms (depression, agitation) or exacerbation of pre-existing psychiatric illness.
+  Some patients have experienced depressed mood, agitation, changes in behavior, suicidal ideation and suicide when attempting to quit smoking while taking CHANTIX.
+  They should be urged to report any such symptoms to their health care providers, and to reveal any history of psychiatric illness prior to initiating treatment.
 - Patients should be informed that some medications may require dose adjustment after quitting smoking.
 - Patients intending to become pregnant or planning to breast-feed an infant should be advised of the risks of smoking and risks and benefits of smoking cessation with CHANTIX.
 - Patients should be advised to use caution driving or operating machinery until they know how quitting smoking with varenicline may affect them.
