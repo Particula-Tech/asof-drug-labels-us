@@ -31,11 +31,11 @@ The studies described in PRECAUTIONS, Pediatric Patients <1 year of age suggest 
 Patients should also be receiving conservative measures (e.g., thickened feedings).
 The use of intravenous famotidine in pediatric patients <1 year of age with GERD has not been adequately studied.
 
-## Dosage for Pediatric Patients 1-16 years of age
+## Dosage for Pediatric Patients 1 to 16 years of age
 
-See PRECAUTIONS, Pediatric Patients 1-16 years of age.
+See PRECAUTIONS, Pediatric Patients 1 to 16 years of age.
 
-The studies described in PRECAUTIONS, Pediatric Patients 1-16 years of age suggest the following starting doses in pediatric patients 1-16 years of age:
+The studies described in PRECAUTIONS, Pediatric Patients 1 to 16 years of age suggest the following starting doses in pediatric patients 1 to 16 years of age:
 
 ### Peptic Ulcer
 
@@ -47,7 +47,7 @@ The studies described in PRECAUTIONS, Pediatric Patients 1-16 years of age sugge
 
 While published uncontrolled studies suggest effectiveness of famotidine in the treatment of gastroesophageal reflux disease and peptic ulcer, data in pediatric patients are insufficient to establish percent response with dose and duration of therapy.
 Therefore, treatment duration (initially based on adult duration recommendations) and dose should be individualized based on clinical response and/or pH determination (gastric or esophageal) and endoscopy.
-Published uncontrolled clinical studies in pediatric patients 1 - 16 years of age have employed doses up to 1 mg/kg/day for peptic ulcer and 2 mg/kg/day for GERD with or without esophagitis including erosions and ulcerations.
+Published uncontrolled clinical studies in pediatric patients 1 to 16 years of age have employed doses up to 1 mg/kg/day for peptic ulcer and 2 mg/kg/day for GERD with or without esophagitis including erosions and ulcerations.
 
 ## Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
 
@@ -64,6 +64,6 @@ Antacids may be given concomitantly if needed.
 
 In adult patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency, the elimination half-life of famotidine is increased.
 For patients with severe renal insufficiency, it may exceed 20 hours, reaching approximately 24 hours in anuric patients.
-Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, to avoid excess accumulation of the drug in patients with moderate or severe renal insufficiency, the dose of famotidine may be reduced to half the dose or the dosing interval may be prolonged to 36-48 hours as indicated by the patient’s clinical response.
+Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, to avoid excess accumulation of the drug in patients with moderate or severe renal insufficiency, the dose of famotidine may be reduced to half the dose or the dosing interval may be prolonged to 36 to 48 hours as indicated by the patient’s clinical response.
 
 Based on the comparison of pharmacokinetic parameters for famotidine in adults and pediatric patients, dosage adjustment in pediatric patients with moderate or severe renal insufficiency should be considered.

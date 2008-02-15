@@ -35,15 +35,16 @@ Musculoskeletal pain including muscle cramps, arthralgia
 
 ## Nervous System/Psychiatric
 
-Grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence
+Grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence.
+Convulsions, in patients with impaired renal function, have been reported very rarely.
 
 ## Respiratory
 
-Bronchospasm
+Bronchospasm, interstitial pneumonia
 
 ## Skin
 
-Toxic epidermal necrolysis (very rare), alopecia, acne, pruritus, dry skin, flushing
+Toxic epidermal necrolysis/Stevens-Johnson syndrome (very rare), alopecia, acne, pruritus, dry skin, flushing
 
 ## Special Senses
 

@@ -17,9 +17,9 @@ Avoid storage of famotidine tablets at temperatures above 40°C (104°F).
 
 Manufactured In Ireland By: 0172
 
-IVAX PHARMACEUTICALS IRELAND 05/06
+IVAX PHARMACEUTICALS IRELAND 12/07
 
-Waterford, Ireland B6
+Waterford, Ireland B7
 
 Manufactured For:
 
