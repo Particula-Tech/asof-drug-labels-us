@@ -152,6 +152,13 @@ An analysis for dose response in the schizophrenia 4-study pool revealed an appa
 The incidence of reported EPS (which included the adverse event terms extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching) for ziprasidone-treated patients in the short-term, placebo-controlled schizophrenia trials was 14% vs. 8% for placebo.
 Objectively collected data from those trials on the Simpson-Angus Rating Scale (for EPS) and the Barnes Akathisia Scale (for akathisia) did not generally show a difference between ziprasidone and placebo.
 
+### Dystonia
+
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+An elevated risk of acute dystonia is observed in males and younger age groups.
+
 ### Vital Sign Changes
 
 Ziprasidone is associated with orthostatic hypotension (see PRECAUTIONS).
