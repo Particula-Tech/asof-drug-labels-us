@@ -1,4 +1,4 @@
-Trademark of Tibotec, Inc. COPYRIGHT ©2006 Tibotec, Inc. All rights reserved
+Trademark of Tibotec Pharmaceuticals, Ltd.
 
 # MICROBIOLOGY
 
@@ -86,20 +86,18 @@ Manufactured for Tibotec, Inc. by: JOLLC, Gurabo, Puerto Rico Distributed by: Ti
 
 Patent Numbers: 5,843,946; 6,248,775; 6,335,460 and other US patents pending
 
-© Ortho Biotech Products, L.P.
-2006
+© Tibotec, Inc. 2006
 
-Revised: October 2006
+Revised: June 2007
 
-10101701
+10101702
 
 Rx Only
 
 Manufactured for Tibotec, Inc. by: JOLLC, Gurabo, Puerto Rico Distributed by: Tibotec Therapeutics, Division of Ortho Biotech Products, L.P., Raritan NJ 08869
 
-© Ortho Biotech Products, L.P.
-2006
+© Tibotec, Inc. 2006
 
-Revised: October 2006
+Revised: June 2007
 
-10101701
+10101702

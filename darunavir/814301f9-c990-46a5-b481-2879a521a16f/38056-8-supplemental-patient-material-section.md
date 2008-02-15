@@ -1,4 +1,4 @@
-## PREZISTA™Trademark of Tibotec, Inc. COPYRIGHT ©2006 Tibotec, Inc. All rights reserved (darunavir) Tablets Patient Information about PREZISTA (pre-ZIS-ta) for HIV (Human Immunodeficiency Virus) Infection Generic name: darunavir (da-ROO-nuh-veer)
+## PREZISTA™Trademark of Tibotec Pharmaceuticals, Ltd. (darunavir) Tablets Patient Information about PREZISTA (pre-ZIS-ta) for HIV (Human Immunodeficiency Virus) Infection Generic name: darunavir (da-ROO-nuh-veer)
 
 ALERT: Find out about medicines that should NOT be taken with PREZISTA.
 Please also read the section "Who should not take PREZISTA?".
@@ -49,7 +49,7 @@ Tell your doctor about all of your medical conditions, including if you:
 - are allergic to sulfa medicines.
 - have diabetes.
   In general, anti-HIV medicines, such as PREZISTA, might increase sugar levels in the blood.
-- have liver problems.
+- have liver problems, including hepatitis B or C.
 - have hemophilia.
   Anti-HIV medicines, such as PREZISTA, might increase the risk of bleeding.
 - are pregnant or planning to become pregnant.
@@ -105,7 +105,7 @@ Tell your doctor if you are taking any of the following medicines:
 | Antimycobacterials (to treat bacterial infections) | rifabutin (Mycobutin®) rifampin (Rifadin®, Rifater®, Rifamate®) |
 | Calcium Channel Blockers (to treat heart disease) | felodipine (Plendil®) nifedipine (Adalat®) nicardipine (Cardene®) |
 | Corticosteroids (to treat inflammation or asthma) | dexamethasone (Decadron®) fluticasone propionate (Advair Diskus®, Cutivate®, Flonase®, Flovent Diskus®) |
-| HMG-CoA Reductase Inhibitors (to lower cholesterol levels) | atorvastatin (Lipitor®) lovastatin (Mevacor®) pravastatin (Pravachol®) simvastatin (Zocor®) |
+| HMG-CoA Reductase Inhibitors (to lower cholesterol levels) | atorvastatin (Lipitor®) lovastatin (Mevacor®) pravastatin (Pravachol®) rosuvastatin (Crestor®) simvastatin (Zocor®) |
 | Immunosuppressants (to prevent organ transplant rejection) | cyclosporine (Sandimmune®, Neoral®) tacrolimus (Prograf®) sirolimus (Rapamune®) |
 | Narcotic Analgesics | methadone |
 | PDE-5 Inhibitors (to treat erectile dysfunction) | sildenafil (Viagra®) vardenafil (Levitra®) tadalafil (Cialis®) |

@@ -61,7 +61,7 @@ dyspnea, cough, hiccups
 
 Skin and Appendages:
 
-lipoatrophy, night sweats, allergic dermatitis, eczema, toxic skin eruption, alopecia, dermatitis medicamentosa, hyperhidrosis, skin inflammation, maculopapular rash, erythema multiforme, Stevens-Johnson Syndrome (reported in another ongoing clinical study)
+lipoatrophy, night sweats, allergic dermatitis, eczema, toxic skin eruption, alopecia, dermatitis medicamentosa, hyperhidrosis, skin inflammation, maculopapular rash,
 
 Special Senses:
 
@@ -106,8 +106,14 @@ Table 13: Treatment Emergent Grade 2 to 4 Laboratory Abnormalities Reported in â
 | Plasma Prothrombin Time increase | > 1.25 X ULN | 3.9% | 0.8% | 0.6% |
 | Platelet Count decrease | < 75,000/mm3 | 3.1% | 1.6% | 2.8% |
 
+Additional adverse reactions identified in clinical studies, occurring in less than 1% of the patients, are listed below by body system:
+
+Hepatobiliary System: hepatitis
+
+Skin and Appendages: erythema multiforme, Stevens-Johnson Syndrome
+
 ## Patients co-infected with hepatitis B and/or hepatitis C virus
 
-Subjects co-infected with hepatitis B or C virus receiving PREZISTA/rtv, did not experience higher incidence of adverse events or clinical chemistry abnormalities than subjects receiving PREZISTA/rtv who were not co-infected.
+In subjects co-infected with hepatitis B or C virus receiving PREZISTA/rtv, the incidence of adverse events and clinical chemistry abnormalities was not higher than in subjects receiving PREZISTA/rtv who were not co-infected, except for increased hepatic enzymes.
 The pharmacokinetic exposure in co-infected subjects was comparable to that in subjects without co-infection.
-Standard clinical monitoring of patients with chronic hepatitis B and/or C is considered adequate.
+Standard clinical monitoring of patients with hepatitis co-infectionis considered adequate.
