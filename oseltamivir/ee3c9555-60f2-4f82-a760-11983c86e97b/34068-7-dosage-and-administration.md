@@ -72,11 +72,11 @@ Therapy should begin within 2 days of exposure.
 
 ### Hepatic Impairment
 
-The safety and pharmacokinetics in patients with hepatic impairment have not been evaluated.
+No dose adjustment is recommended for patients with mild or moderate hepatic impairment (Child-Pugh score ≤9) (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations).
 
 ### Renal Impairment
 
-For plasma concentrations of oseltamivir carboxylate predicted to occur following various dosing schedules in patients with renal impairment (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations).
+For plasma concentrations of oseltamivir carboxylate predicted to occur following various dosing schedules in patients with renal impairment, see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations.
 
 #### Treatment of Influenza
 

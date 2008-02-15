@@ -21,7 +21,7 @@ TAMIFLU has not been shown to prevent such complications.
 
 ## Hepatic Impairment
 
-The safety and pharmacokinetics in patients with hepatic impairment have not been evaluated.
+The safety and pharmacokinetics in patients with severe hepatic impairment have not been evaluated (see DOSAGE AND ADMINISTRATION).
 
 ## Renal Impairment
 
@@ -34,10 +34,15 @@ TAMIFLU should be stopped and appropriate treatment instituted if an allergic-li
 
 ## Neuropsychiatric Events
 
-There have been postmarketing reports (mostly from Japan) of self-injury and delirium with the use of TAMIFLU in patients with influenza.
-The reports were primarily among pediatric patients.
-The relative contribution of the drug to these events is not known.
-Patients with influenza should be closely monitored for signs of abnormal behavior throughout the treatment period.
+Influenza can be associated with a variety of neurologic and behavioral symptoms which can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes.
+These events may occur in the setting of encephalitis or encephalopathy but can occur without obvious severe disease.
+
+There have been postmarketing reports (mostly from Japan) of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving TAMIFLU.
+Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made but they appear to be uncommon based on TAMIFLU usage data.
+These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution.
+The contribution of TAMIFLU to these events has not been established.
+Patients with influenza should be closely monitored for signs of abnormal behavior.
+If neuropsychiatric symptoms occur, the risks and benefits of continuing treatment should be evaluated for each patient.
 
 ## Information for Patients
 
@@ -68,15 +73,11 @@ Low protein binding of oseltamivir and oseltamivir carboxylate suggests that the
 
 In vitro studies demonstrate that neither oseltamivir nor oseltamivir carboxylate is a good substrate for P450 mixed-function oxidases or for glucuronyl transferases.
 
-Cimetidine, a non-specific inhibitor of cytochrome P450 isoforms and competitor for renal tubular secretion of basic or cationic drugs, has no effect on plasma levels of oseltamivir or oseltamivir carboxylate.
-
 Clinically important drug interactions involving competition for renal tubular secretion are unlikely due to the known safety margin for most of these drugs, the elimination characteristics of oseltamivir carboxylate (glomerular filtration and anionic tubular secretion) and the excretion capacity of these pathways.
 Coadministration of probenecid results in an approximate twofold increase in exposure to oseltamivir carboxylate due to a decrease in active anionic tubular secretion in the kidney.
 However, due to the safety margin of oseltamivir carboxylate, no dose adjustments are required when coadministering with probenecid.
 
-Coadministration with amoxicillin does not alter plasma levels of either compound, indicating that competition for the anionic secretion pathway is weak.
-
-In six subjects, multiple doses of oseltamivir did not affect the single-dose pharmacokinetics of acetaminophen.
+No pharmacokinetic interactions have been observed when coadministering oseltamivir with amoxicillin, acetaminophen, cimetidine or with antacids (magnesium and aluminum hydroxides and calcium carbonates).
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 

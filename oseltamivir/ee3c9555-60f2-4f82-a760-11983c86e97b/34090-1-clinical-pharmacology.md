@@ -60,6 +60,10 @@ Table 2 Oseltamivir Carboxylate Exposures in Patients With Normal and Reduced Se
 | AUC48 | 7476 | 10876 | 21864 | 17381 | 12429 | 62636 | 21999 | 25054 |
 | AUC normalized to 48 hours. |  |  |  |  |  |  |  |  |
 
+### Hepatic Impairment
+
+In clinical studies oseltamivir carboxylate exposure was not altered in patients with mild or moderate hepatic impairment (see PRECAUTIONS: Hepatic Impairment and DOSAGE AND ADMINISTRATION).
+
 ### Pediatric Patients
 
 The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in a single dose pharmacokinetic study in pediatric patients aged 5 to 16 years (n=18) and in a small number of pediatric patients aged 3 to 12 years (n=5) enrolled in a clinical trial.

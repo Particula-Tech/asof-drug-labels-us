@@ -101,6 +101,10 @@ Digestive: Hepatitis, liver function tests abnormal
 
 Cardiac: Arrhythmia
 
-Neurologic: Seizure, confusion
+Gastrointestinal disorders: Gastrointestinal bleeding, hemorrhagic colitis
+
+Neurologic: Seizure
 
 Metabolic: Aggravation of diabetes
+
+Psychiatric: Delirium, including symptoms such as altered level of consciousness, confusion, abnormal behavior, delusions, hallucinations, agitation, anxiety, nightmares (see PRECAUTIONS)

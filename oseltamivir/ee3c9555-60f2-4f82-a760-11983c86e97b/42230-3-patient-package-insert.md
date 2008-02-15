@@ -64,7 +64,7 @@ There is less chance of stomach upset if you take it with a light snack, milk, o
 If you are taking TAMIFLU for Oral Suspension, your pharmacist will give you a dosing dispenser marked with three possible doses.
 Follow your healthcare professional’s instructions on which dose to take or how to combine them for the proper dose for you.
 In order to be sure you receive the proper dose, it is important that you use the dispenser provided.
-Review the instructions below on howto use the dispenser and ask your pharmacist if you have any questions.
+Review the instructions below on how to use the dispenser and ask your pharmacist if you have any questions.
 If you lose or damage the dispenser and cannot use it, contact your healthcare professional or pharmacist for advice on the proper dose.
 
 If TAMIFLU for Oral Suspension is not available, your healthcare provider may instruct you to open TAMIFLU Capsules and mix the contents with sweetened liquids such as regular or sugar-free chocolate syrup.
@@ -84,8 +84,10 @@ Taking TAMIFLU with food may reduce the chance of getting these side effects.
 
 If you develop an allergic reaction or severe rash, stop taking TAMIFLU and contact your healthcare professional.
 
-People with the flu, particularly children, may be at an increased risk of self-injury and confusion shortly after taking TAMIFLU and should be closely monitored for signs of unusual behavior.
-A healthcare professional should be contacted immediately if the patient taking TAMIFLU shows any signs of unusual behavior.
+People with the flu, particularly children and adolescents, may be at an increased risk of seizures, confusion, or abnormal behavior early during their illness.
+These events may occur shortly after beginning TAMIFLU or may occur when flu is not treated.
+These events are uncommon but may result in accidental injury to the patient.
+Therefore, patients should be observed for signs of unusual behavior and a healthcare professional should be contacted immediately if the patient shows any signs of unusual behavior.
 
 Before taking TAMIFLU, please let your healthcare provider know if you have received nasally administered influenza virus vaccine during the past two weeks.
 

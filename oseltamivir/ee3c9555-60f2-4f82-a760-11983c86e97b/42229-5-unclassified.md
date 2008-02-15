@@ -24,7 +24,7 @@ In clinical studies in the treatment of naturally acquired infection with influe
 Substitutions in influenza A neuraminidase resulting in decreased susceptibility were H274Y in neuraminidase N1 and E119V and R292K in neuraminidase N2.
 Insufficient information is available to fully characterize the risk of emergence of TAMIFLU resistance in clinical use.
 
-In clinical studies of postexposure and seasonal prophylaxis, determination of resistance was limited by the low overall incidence rate of influenza infection and prophylactic effect of TAMIFLU.
+In clinical studies of postexposure and seasonal prophylaxis, determination of resistance by population nucleotide sequence analysis was limited by the low overall incidence rate of influenza infection and prophylactic effect of TAMIFLU.
 
 ## Cross-resistance
 
@@ -43,12 +43,12 @@ Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110–1199
 
 Licensor: Gilead Sciences, Inc. Foster City, California 94404
 
-27899445
+27899466
 
 PI Rev.
-October 2007
+January 2008
 
-Copyright © 1999-2007 by Roche Laboratories Inc. All rights reserved.
+Copyright© 1999-2008 by Roche Laboratories Inc. All rights reserved.
 
 Distributed by:
 
@@ -56,5 +56,7 @@ Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110–1199
 
 Licensor: Gilead Sciences, Inc. Foster City, California 94404
 
+27899468
+
 PPI Rev.
-October 2007
+January 2008
