@@ -16,7 +16,7 @@ Dispense in well-closed containers with a child-resistant closure as defined in 
 
 DEA Order Form Required.
 
-Mallinckrodt Inc. St. Louis, Missouri 63134, U.S.A.
+Mallinckrodt Inc. Hazelwood, MO 63042 U.S.A.
 
 tyco
 
@@ -24,4 +24,4 @@ Healthcare
 
 Mallinckrodt
 
-Rev 030907
+Rev 102207

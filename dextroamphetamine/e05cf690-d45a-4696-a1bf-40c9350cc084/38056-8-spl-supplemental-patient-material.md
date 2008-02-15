@@ -1,8 +1,8 @@
-CII
-
 ## MEDICATION GUIDE
 
-Dextroamphetamine Sulfate Tablets USP
+CII
+
+Dextroamphetamine Sulfate Tablets, USP
 
 Read the Medication Guide that comes with dextroamphetamine sulfate tablets before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -45,7 +45,6 @@ Before starting dextroamphetamine sulfate tablets tell your or your child's doct
 - heart problems, heart defects, high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
 - tics or Tourette's syndrome
-- liver or kidney problems
 - thyroid problems
 - seizures or have had an abnormal brain wave test (EEG)
 
@@ -81,12 +80,12 @@ How should Dextroamphetamine Sulfate Tablets be taken?
 - From time to time, your doctor may stop dextroamphetamine sulfate tablets treatment for awhile to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking dextroamphetamine sulfate tablets.
   Children should have their height and weight checked often while taking dextroamphetamine sulfate tablets.
-  Dextroamphetamine sulfate tablet treatment may be stopped if a problem is found during these check-ups.
+  Dextroamphetamine sulfate tablets treatment may be stopped if a problem is found during these check-ups.
 - If you or your child takes too much dextroamphetamine sulfate tablets or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of Dextroamphetamine Sulfate Tablets?
 
-See“What is the most important information I should know about Dextroamphetamine Sulfate Tablets?” for information on reported heart and mental problems.
+See “What is the most important information I should know about Dextroamphetamine Sulfate Tablets?” for information on reported heart and mental problems.
 
 Other serious side effects include:
 
@@ -110,7 +109,7 @@ How should I store Dextroamphetamine Sulfate Tablets?
 
 - Store dextroamphetamine sulfate tablets in a safe place at room temperature, 68º to 77ºF (20º to 25ºC).
   Protect from light.
-- Keep dextroamphetamine sulfate extended-release capsules and all medicines out of the reach of children.
+- Keep dextroamphetamine sulfate tablets and all medicines out of the reach of children.
 
 General information about Dextroamphetamine Sulfate Tablets
 
@@ -131,12 +130,10 @@ Inactive Ingredients: Microcrystalline Cellulose, Povidone, Silicon Dioxide, and
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mallinckrodt Inc.
-
-St. Louis, Missouri 63134, U.S.A.
+Mallinckrodt Inc. Hazelwood, MO 63042 U.S.A.
 
 tyco Healthcare
 
 Mallinckrodt
 
-Rev 030907
+Rev 102207
