@@ -41,13 +41,13 @@ We do not know if SPORANOX® works in children with fungal nail infections or if
 SPORANOX® comes in the form of capsules and liquid (oral solution).
 The capsule and liquid forms work differently, so you should not use one in place of the other.
 This Patient Information discusses only the capsule form of SPORANOX®.
-You will get these capsules in a medicine bottle or a SPORANOX PulsePak®.
+You will get these capsules in a medicine bottle or a SPORANOX Pulse Pak®.
 The PulsePak® contains 28 capsules for treatment of your fungal nail infection.
 
 SPORANOX® goes into your bloodstream and travels to the source of the infection underneath the nail so that it can fight the infection there.
 Improved nails may not be obvious for several months after the treatment period is finished because it usually takes about 6 months to grow a new fingernail and 12 months to grow a new toenail.
 
-Who Should Not Take SPORANOX®?
+Who Should Not Take SPORANOX ®?
 
 SPORANOX® is not for everyone.
 Your doctor will decide if SPORANOX® is the right treatment for you.
@@ -58,24 +58,30 @@ Also tell your doctor about any other medical conditions you have had, especiall
 
 Never take SPORANOX® if you:
 
-- □ have had heart failure, including congestive heart failure.
-- □ are taking any of the medicines listed below.
+- have had heart failure, including congestive heart failure.
+- are taking any of the medicines listed below.
   Dangerous or even life-threatening abnormal heartbeats could result:
-  - □ quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
-  - □ dofetilide (such as Tikosyn™)
-  - □ cisapride (such as Propulsid®)
-  - □ pimozide (such as Orap®)
-  - • levacetylmethadol (such as Orlaam®)
-- □ are taking any of the following medicines:
-  - □ lovastatin (such as Mevacor®, Advicor®, Altocor™)
-  - □ simvastatin (such as Zocor®)
-  - □ triazolam (such as Halcion®)
-  - □ midazolam (such as Versed®)
-  - • ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
-- □ have ever had an allergic reaction to itraconazole or any of the other ingredients in SPORANOX® Capsules.
+  - quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
+  - dofetilide (such as Tikosyn™)
+  - cisapride (such as Propulsid®)
+  - pimozide (such as Orap®)
+  - levacetylmethadol (such as Orlaam®)
+- are taking any of the following medicines:
+  - lovastatin (such as Mevacor®, Advicor®, Altocor™)
+  - simvastatin (such as Zocor®)
+  - triazolam (such as Halcion®)
+  - midazolam (such as Versed®)
+  - nisoldipine (such as Sular®)
+  - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
+- have ever had an allergic reaction to itraconazole or any of the other ingredients in SPORANOX® Capsules.
   Ask your doctor or pharmacist for a list of these ingredients.
 
-What Should I Know About SPORANOX® and Pregnancy or Breast Feeding?
+Taking SPORANOX® with certain other medicines could lead to serious or life-threatening medical problems.
+For example, taking fentanyl, a strong opioid narcotic pain medicine, with SPORANOX® could cause serious side effects, including trouble breathing, that may be life-threatening.
+Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking.
+Your doctor will decide if SPORANOX® is the right treatment for you.
+
+What Should I Know About SPORANOX® And Pregnancy Or Breast Feeding?
 
 Never take SPORANOX® if you have a fungal nail infection and are pregnant or planning to become pregnant within 2 months after you have finished your treatment.
 
@@ -84,13 +90,13 @@ Ask your doctor about effective types of birth control.
 
 If you are breast-feeding, talk with your doctor about whether you should take Sporanox®.
 
-How Should I Take SPORANOX®?
+How Should I Take SPORANOX ®?
 
 Always take SPORANOX® Capsules during or right after a full meal.
 
 Your doctor will decide the right dose for you.
 Depending on your infection, you will take SPORANOX® once a day for 12 weeks, or twice a day for 1 week in a “pulse” dosing schedule.
-You will receive either a bottle of capsules or a PulsePak®.
+You will receive either a bottle of capsules or a Pulse Pak®.
 Do not skip any doses.
 Be sure to finish all your SPORANOX® as prescribed by your doctor.
 
@@ -99,7 +105,7 @@ If you haven't had liver problems, your doctor may recommend blood tests to chec
 
 If you forget to take or miss doses of SPORANOX®, ask your doctor what you should do with the missed doses.
 
-The SPORANOX PulsePak®
+The SPORANOX Pulse Pak®
 
 If you use the PulsePak®, you will take SPORANOX® for 1 week and then take no SPORANOX® for the next 3 weeks before repeating the 1-week treatment.
 This is called “pulse dosing.”
@@ -110,12 +116,12 @@ It contains 7 pouches-one for each day of treatment.
 Inside each pouch is a card containing 4 capsules.
 Looking at the back of the card, fold it back along the dashed line and peel away the backing so that you can remove 2 capsules.
 
-- □ Take 2 capsules in the morning and 2 capsules in the evening.
+- Take 2 capsules in the morning and 2 capsules in the evening.
   This means you will take 4 capsules a day for 7 days.
-  At the end of 7 days, you will have taken all of the capsules in the PulsePak® box.
-- □ After you finish the PulsePak®, do not take any SPORANOX® for the next 3 weeks.
+  At the end of 7 days, you will have taken all of the capsules in the Pulse Pak® box.
+- After you finish the PulsePak®, do not take any SPORANOX® for the next 3 weeks.
   Even though you are not taking any capsules during this time, SPORANOX® keeps working inside your nails to help fight the fungal infection.
-- □ You will need more than one “pulse” to treat your fungal nail infection.
+- You will need more than one “pulse” to treat your fungal nail infection.
   When your doctor prescribes another pulse treatment, be sure to get your refill before the end of week 4.
 
 | SPORANOX® Pulse Dosing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -124,7 +130,7 @@ Looking at the back of the card, fold it back along the dashed line and peel awa
 |  | Day1 |  | Day 2 |  | Day 3 |  | Day 4 |  | Day 5 |  | Day 6 |  | Day 7 |  |
 |  | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM |
 | Week 1 | ~ | ~ | ~ | ~ | ~ | ~ | ~ | ~ | ~ | ~ | ~ | ~ | ~ | ~ |
-| Week 2 | For the next 3 weeks, do not take any SPORANOX® capsules. Remember to get a refill before the end of Week 4 when your doctor prescribes another PulsePak®. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 2 | For the next 3 weeks, do not take any SPORANOX® capsules. Remember to get a refill before the end of Week 4 when your doctor prescribes another Pulse Pak®. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -132,14 +138,23 @@ What Are the Possible Side Effects of SPORANOX®?
 
 The most common side effects that cause people to stop treatment either for a short time or completely include: skin rash, high triglyceride test results, high liver test results, and digestive system problems (such as nausea, bloating, and diarrhea).
 
-Stop SPORANOX® and call your doctor right away if you develop shortness of breath; have unusual swelling of your feet, ankles or legs; suddenly gain weight; are unusually tired; cough up white or pink phlegm; or have unusual fast heartbeats.
+Stop SPORANOX® and call your doctor or get medical assistance right away if you have a severe allergic reaction.
+Symptoms of an allergic reaction may include skin rash, itching, hives, shortness of breath or difficulty breathing, and/or swelling of the face.
+Very rarely, an oversensitivity to sunlight, a tingling sensation in the limbs or a severe skin disorder can occur.
+If any of these symptoms occur, stop taking SPORANOX® and contact your doctor.
+
+Stop SPORANOX® and call your doctor right away if you develop shortness of breath; have unusual swelling of your feet, ankles or legs; suddenly gain weight; are unusually tired; cough up white or pink phlegm; have unusual fast heartbeats; or begin to wake up at night.
 In rare cases, patients taking SPORANOX® could develop serious heart problems, and these could be warning signs of heart failure.
 
-Stop SPORANOX® and call your doctor right away if you become unusually tired; lose your appetite; or develop nausea or vomiting, a yellow color to your skin or eyes, or dark colored urine or pale stools (bowel movements).
+Stop SPORANOX® and call your doctor right away if you experience any hearing loss symptoms.
+In very rare cases, patients taking SPORANOX® have reported temporary or permanent hearing loss.
+
+Stop SPORANOX® and call your doctor right away if you become unusually tired; lose your appetite; or develop nausea, abdominal pain, or vomiting, a yellow color to your skin or eyes, or dark colored urine or pale stools (bowel movements).
 In rare cases, patients taking SPORANOX® could develop serious liver problems and these could be warning signs.
 
-Call your doctor right away if you develop tingling or numbness in your extremities (hands or feet).
+Call your doctor right away if you develop tingling or numbness in your extremities (hands or feet), if your vision gets blurry or you see double, if you hear a ringing in your ears, if you lose the ability to control your urine or urinate much more than usual.
 
+Additional possible side effects include upset stomach, vomiting, abdominal pain, constipation, headache, menstrual disorders, erectile dysfunction, dizziness, muscle weakness or pain, painful joints, unpleasant taste, or hair loss.
 These are not all the side effects of SPORANOX®.
 Your doctor or pharmacist can give you a more complete list.
 
@@ -162,7 +177,7 @@ It may harm them.
 
 This leaflet summarizes the most important information about SPORANOX®.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about SPORANOX® that is written for health professionals.
+You can ask your doctor or pharmacist for information about SPORANOX® thatis written for health professionals.
 
 You can also call 1-800-JANSSEN or visit the SPORANOX® Internet site at www.sporanox.com and the Janssen Internet site at www.us.janssen.com.
 
@@ -170,14 +185,10 @@ This patient information has been approved by the U.S. Food and Drug Administrat
 
 The following are registered trademarks of their respective manufacturers:
 
-Mevacor® (Merck & Co., Inc.), Advicor® (Kos Pharmaceuticals, Inc.), Altocor™ (Andrx Laboratories), Zocor® (Merck & Co., Inc.), Halcion® (Pharmacia), Versed® (Roche Pharmaceuticals), Cardioquin® (The Purdue Frederick Company), Quinaglute® (Berlex Laboratories), Quinidex® (A.H.
-Robins), TikosynTM (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation) and Orap® (Gate Pharmaceuticals)
-
-Corporate Logo
+Mevacor® (Merck & Co., Inc.), Advicor® (Kos Pharmaceuticals, Inc.), Altocor™ (Andrx Laboratories), Zocor® (Merck& Co., Inc.), Halcion® (Pharmacia), Versed® (Roche Pharmaceuticals), Cardioquin® (The Purdue Frederick Company), Quinaglute® (Berlex Laboratories), Quinidex® (A.H.
+Robins), TikosynTM (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation), and Orap® (Gate Pharmaceuticals)
 
 © Janssen Pharmaceutica Products, L.P.
 2002
 
-7518703
-
-Printed in USA/ January 2004.
+Printed in USA/ Issued October 2007.

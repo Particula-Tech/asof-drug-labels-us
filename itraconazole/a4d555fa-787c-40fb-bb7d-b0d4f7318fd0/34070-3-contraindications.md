@@ -8,7 +8,7 @@ SPORANOX® (itraconazole) Capsules should not be administered for the treatment 
 ## Drug Interactions:
 
 Concomitant administration of SPORANOX® (itraconazole) Capsules, Injection, or Oral Solution and certain drugs metabolized by the cytochrome P450 3A4 isoenzyme system (CYP3A4) may result in increased plasma concentrations of those drugs, leading to potentially serious and/or life-threatening adverse events.
-Cisapride, oral midazolam, pimozide, quinidine, dofetilide, triazolam and levacetylmethadol (levomethadyl) are contraindicated with SPORANOX®.
+Cisapride, oral midazolam, nisoldipine, pimozide, quinidine, dofetilide, triazolam and levacetylmethadol (levomethadyl) are contraindicated with SPORANOX®.
 HMG CoA-reductase inhibitors metabolized by CYP3A4, such as lovastatin and simvastatin, are also contraindicated with SPORANOX®.
 Ergot alkaloids metabolized by CYP3A4 such as dihydroergotamine, ergometrine (ergonovine), ergotamine and methylergometrine (methylergonovine) are contraindicated with SPORANOX®.
 (See BOX WARNING, and PRECAUTIONS: Drug Interactions.)

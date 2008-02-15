@@ -41,7 +41,7 @@ The clinical course of histoplasmosis in HIV-infected patients is more severe an
 
 ### Aspergillosis:
 
-Analyses were conducted on data from an open-label, “single-patient-use” protocol designed to make itraconazole available in the U.S. for patients who either failed or were intolerant of amphotericin B therapy (N=190).
+Analyses were conducted on data from an open-label,“single-patient-use” protocol designed to make itraconazole available in the U.S. for patients who either failed or were intolerant of amphotericin B therapy (N=190).
 The findings were corroborated by two smaller open-label studies (N=31 combined) in the same patient population.
 Most adult patients were treated with a daily dose of 200 to 400 mg, with a median duration of 3 months.
 Results of these studies demonstrated substantial evidence of effectiveness of itraconazole as a second-line therapy for the treatment of aspergillosis compared with the natural history of the disease in patients who either failed or were intolerant of amphotericin B therapy.

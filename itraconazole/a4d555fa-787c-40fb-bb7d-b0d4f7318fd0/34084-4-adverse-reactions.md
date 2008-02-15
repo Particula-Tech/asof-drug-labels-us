@@ -29,7 +29,7 @@ Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an 
 | Fever | 3 |
 | Malaise | 1 |
 | Skin and Appendages |  |
-| Rash* | 9 |
+| RashRash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
 | Pruritus | 3 |
 | Central/Peripheral Nervous System |  |
 | Headache | 4 |
@@ -47,7 +47,6 @@ Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an 
 | Hepatic Function Abnormal | 3 |
 | Reproductive System, Male |  |
 | Impotence | 1 |
-| *Rash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. |  |
 
 Adverse events infrequently reported in all studies included constipation, gastritis, depression, insomnia, tinnitus, menstrual disorder, adrenal insufficiency, gynecomastia, and male breast pain.
 
@@ -91,9 +90,43 @@ The following adverse events occurred with an incidence of greater than or equal
 
 ## Post-marketing Experience
 
-Worldwide post-marketing experiences with the use of SPORANOX® include adverse events of gastrointestinal origin, such as dyspepsia, nausea, vomiting, diarrhea, abdominal pain and constipation.
-Other reported adverse events include peripheral edema, congestive heart failure and pulmonary edema, headache, dizziness, peripheral neuropathy, menstrual disorders, reversible increases in hepatic enzymes, hepatitis, liver failure, hypokalemia, hypertriglyceridemia, alopecia, allergic reactions (such as pruritus, rash, urticaria, angioedema, anaphylaxis), Stevens-Johnson syndrome, anaphylactic, anaphylactoid and allergic reactions, photosensitivity and neutropenia.
+Worldwide post-marketing experiences with the use of SPORANOX® (all formulations) include very rare reports (<1/10,000) of the adverse events listed below:
+
+Postmarketing Reports of Adverse Drug Reactions
+
+| Blood and lymphatic system disorders |  |
+| --- | --- |
+| Very rare | Leukopenia, neutropenia, thrombocytopenia |
+| Immune system disorders |  |
+| Very rare | Serum sickness; angioneurotic edema; anaphylaxis; anaphylactic, anaphylactoid and allergic reactions |
+| Metabolism and nutrition disorders |  |
+| Very rare | Hypertriglyceridemia, hypokalemia |
+| Nervous system disorders |  |
+| Very rare | Peripheral neuropathy, paresthesia, hypoesthesia, headache, dizziness |
+| Eye disorders |  |
+| Very rare | Visual disturbances, including vision blurred and diplopia |
+| Ear and labyrinth disorder |  |
+| Very rare | Tinnitus, transient or permanent hearing loss |
+| Cardiac disorders |  |
+| Very rare | Congestive heart failure |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Very rare | Pulmonary edema |
+| Gastrointestinal disorders |  |
+| Very rare | Abdominal pain, vomiting, dyspepsia, nausea, diarrhea, constipation,dysgeusia |
+| Hepato-biliary disorders |  |
+| Very rare | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
+| Skin and subcutaneous tissue disorders |  |
+| Very rare | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, exfoliative dermatitis, leukocytoclastic vasculitis, urticaria, alopecia, photosensitivity, rash, pruritus |
+| Musculoskeletal and connective tissue disorders |  |
+| Very rare | Myalgia, arthralgia |
+| Renal and urinary disorders |  |
+| Very rare | Pollakiuria, urinary incontinence |
+| Reproductive system and breast disorders |  |
+| Very rare | Menstrual disorders, erectile dysfunction |
+| General disorders and administration site conditions |  |
+| Very rare | Peripheral edema |
+
 There is limited information on the use of SPORANOX® during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
 A causal relationship with SPORANOX® has not been established.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information).
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
