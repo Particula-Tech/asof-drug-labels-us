@@ -19,15 +19,15 @@ If after long-term therapy the drug is to be stopped, it is recommended that it 
 
 The suggested initial dose is 60 mg, injected deeply into the gluteal muscle.
 Atrophy of subcutaneous fat may occur if the injection is not properly given.
-Dosage is usually adjusted within the range of 40 to 80 mg, depending upon patient response and duration of relief.
+Dosage is usually adjusted within the range of 40 mg to 80 mg, depending upon patient response and duration of relief.
 However, some patients may be well controlled on doses as low as 20 mg or less.
 
-Hay fever or pollen asthma: Patients with hay fever or pollen asthma who are not responding to pollen administration and other conventional therapy may obtain a remission of symptoms lasting throughout the pollen season after a single injection of 40 to 100 mg.
+Hay fever or pollen asthma: Patients with hay fever or pollen asthma who are not responding to pollen administration and other conventional therapy may obtain a remission of symptoms lasting throughout the pollen season after a single injection of 40 mg to 100 mg.
 
 In the treatment of acute exacerbations of multiple sclerosis, daily doses of 160 mg of triamcinolone for a week followed by 64 mg every other day for one month are recommended (see PRECAUTIONS: Neuro-Psychiatric).
 
 In pediatric patients, the initial dose of triamcinolone may vary depending on the specific disease entity being treated.
-The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m2bsa/day).
+The range of initial doses is 0.11 to 1.6 mg/kg/day in 3 or 4 divided doses (3.2 to 48 mg/m2bsa/day).
 
 For the purpose of comparison, the following is the equivalent milligram dosage of the various glucocorticoids:
 
@@ -45,7 +45,7 @@ When these substances or their derivatives are injected intramuscularly or into 
 
 Intra-articular administration: A single local injection of triamcinolone acetonide is frequently sufficient, but several injections may be needed for adequate relief of symptoms.
 
-Initial dose: 2.5 to 5 mg for smaller joints and from 5 to 15 mg for larger joints, depending on the specific disease entity being treated.
+Initial dose: 2.5 mg to 5 mg for smaller joints and from 5 mg to 15 mg for larger joints, depending on the specific disease entity being treated.
 For adults, doses up to 10 mg for smaller areas and up to 40 mg for larger areas have usually been sufficient.
 Single injections into several joints, up to a total of 80 mg, have been given.
 
