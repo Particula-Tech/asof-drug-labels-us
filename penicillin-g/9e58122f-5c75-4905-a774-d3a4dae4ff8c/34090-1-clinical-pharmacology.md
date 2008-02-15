@@ -30,7 +30,7 @@ Penicillin G penetrates poorly into human polymorphonuclear leukocytes.
 In the presence of impaired renal function, the β-phase serum half-life of penicillin G is prolonged. β-phase serum half-lives of one to two hours were observed in azotemic patients with serum creatinine concentrations <3 mg/100 mL and ranged as high as 20 hours in anuric patients.
 A linear relationship, including the lowest range of renal function, is found between the serum elimination rate constant and renal function as measured by creatinine clearance.
 
-In patients with altered renal function, the presence of hepatic insufficiency further alters the elimination of penicillin G. In one study, the serum half-lives in two anuric patients (excreting <400 mL urine/day) were 7.2 and 10.1 hours.
+In patients with altered renal function, the presence of hepatic insufficiency further alters the elimination of penicillin G. In one study, the serum half-lives in two anuric patients (excreting<400 mL urine/day) were 7.2 and 10.1 hours.
 A totally anuric patient with terminal hepatic cirrhosis had a penicillin half-life of 30.5 hours, while another patient with anuria and liver disease had a serum half-life of 16.4 hours.
 The dosage of penicillin G should be reduced in patients with severe renal impairment, with additional modifications when hepatic disease accompanies the renal impairment.
 Hemodialysis has been shown to reduce penicillin G serum levels.
@@ -40,14 +40,14 @@ Hemodialysis has been shown to reduce penicillin G serum levels.
 Penicillin G is bactericidal against penicillin-susceptible microorganisms during the stage of active multiplication.
 It acts by inhibiting biosynthesis of cell-wall mucopeptide.
 It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci.
-Penicillin G is highly active in vitro against staphylococci (except penicillinase-producing strains), streptococci (groups A, B, C, G, H, L and M), pneumococci and Neisseria meningitidis.
-Other organisms susceptible in vitro to penicillin G are Neisseria gonorrhoeae, Corynebacterium diphtheriae, Bacillus anthracis, clostridia, Actinomyces species, Spirillum minus, Streptobacillus moniliformis, Listeria monocytogenes, and leptospira; Treponema pallidum is extremely susceptible.
-Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains of Escherichia coli, Proteus mirabilis, salmonella, shigella, Enterobacter aerogenes (formerly Aerobacter aerogenes) and Alcaligenes faecalis.
+Penicillin G is highly activein vitro against staphylococci (except penicillinase-producing strains), streptococci (groups A, B, C, G, H, L and M), pneumococci andNeisseria meningitidis.
+Other organisms susceptiblein vitroto penicillin G areNeisseria gonorrhoeae,Corynebacterium diphtheriae,Bacillus anthracis, clostridia,Actinomyces species,Spirillum minus, Streptobacillus moniliformis,Listeria monocytogenes, and leptospira;Treponema pallidum is extremely susceptible.
+Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains ofEscherichia coli, Proteus mirabilis, salmonella, shigella,Enterobacter aerogenes (formerlyAerobacter aerogenes) andAlcaligenes faecalis.
 Penicillin G is no longer considered a drug of choice for infections caused by these organisms.
 
 ## Susceptibility testing
 
-### Diffusion techniques:
+### Diffusion techniques
 
 The use of antibiotic disk susceptibility test methods which measure zone diameter give an accurate estimation of antibiotic susceptibility.
 One such standard procedure1 which has been recommended for use with disks to test susceptibility of organisms to penicillin G uses the 10 Unit (U) penicillin disk.
@@ -64,7 +64,7 @@ Reports from the laboratory giving results of the standard single-disk susceptib
 | Non-enterococcal streptococci | ≥28 | 20-27 | ≤19 |
 
 A report of “susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of “moderately susceptible” suggests that the organism would be susceptible if high dosage is used or if the infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
+A report of “moderately susceptible” suggests that the organism would be susceptible if high dosage is used or ifthe infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
 A report of “resistant” indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
 
 Standardized procedures require the use of laboratory control organisms.
@@ -72,9 +72,9 @@ The 10 U penicillin G disk should give the following zone diameters:
 
 | Organism | Zone Diameter (mm) |
 | --- | --- |
-| Staphylococcus aureus ATCC 25923 | 26-37 |
+| Staphylococcus aureusATCC 25923 | 26-37 |
 
-### Dilution techniques:
+### Dilution techniques
 
 When using a standardized dilution method2 (broth, agar, microdilution) or equivalent an organism may be considered susceptible if the minimum inhibitory concentration (MIC) values are interpreted according to the following table:
 
@@ -82,7 +82,7 @@ When using a standardized dilution method2 (broth, agar, microdilution) or equiv
 | --- | --- | --- | --- |
 |  | Susceptible | Moderately Susceptible | Resistant |
 | Staphylococci | ≤0.12 | – | ≥0.25 |
-| N gonorrhoeae | ≤0.12 | 0.25 - 2.0 | ≥4 |
+| N. gonorrhoeae | ≤0.12 | 0.25 - 2.0 | ≥4 |
 | L. monocytogenes | ≤2 | – | ≥4 |
 | Non-enterococcal streptococci | ≤0.12 | 0.25 - 2.0 | ≥4 |
 | Pneumococci | ≤0.06 | 0.12 - 1.0 | ≥2 |

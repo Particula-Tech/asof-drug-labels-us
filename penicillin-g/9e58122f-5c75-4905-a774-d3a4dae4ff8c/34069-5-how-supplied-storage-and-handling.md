@@ -8,4 +8,4 @@ Penicillin G Potassium Injection, USP is supplied as a premixed frozen iso-osmot
 | 2G3544 | NDC-0338-1025-41 | 3,000,000 units Penicillin G |
 
 Store at or below -20°C/-4°F.
-[See Directions for Use of GALAXY Container (PL 2040 Plastic).]
+[See DIRECTIONS FOR USE OF GALAXY CONTAINER (PL 2040 PLASTIC).]

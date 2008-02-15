@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## Body as a whole:
+## Body as a whole
 
 The Jarisch-Herxheimer reaction is a systemic reaction, that may occur after the initiation of penicillin therapy in patients with syphilis or other spirochetal infections (i.e., Lyme disease and Relapsing fever).
 The reaction begins one to two hours after initiation of therapy and disappears within 12 to 24 hours.
@@ -15,7 +15,7 @@ In such cases, it is postulated that prior exposure to penicillin may have occur
 
 Two types of allergic reactions to penicillin are noted clinically - immediate and delayed.
 
-Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (see WARNINGS).
+Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (seeWARNINGS).
 Such immediate anaphylactic reactions are very rare and usually occur after parenteral therapy, but a few cases of anaphylaxis have been reported following oral therapy.
 Another type of immediate reaction, an accelerated reaction, may occur between 20 minutes and 48 hours after administration and may include urticaria, pruritus, fever and, occasionally, laryngeal edema.
 
