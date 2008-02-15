@@ -3,55 +3,38 @@
 Worldwide, more than 11,100 patients have been treated with pantoprazole in clinical trials involving various dosages and duration of treatment.
 In general, pantoprazole has been well tolerated in both short-term and long-term trials.
 
+The adverse reaction profile for PROTONIX® (pantoprazole sodium) For Delayed-Release Oral Suspension is similar to the established safety profile of PROTONIX® (pantoprazole sodium) Delayed-Release Tablets.
+
 In two U.S. controlled clinical trials involving PROTONIX 10-, 20-, or 40-mg doses for up to 8 weeks, there were no dose-related effects on the incidence of adverse events.
 The following adverse events considered by investigators to be possibly, probably, or definitely related to drug occurred in 1% or more in the individual studies of GERD patients on therapy with PROTONIX.
 
 Most Frequent Adverse Events Reported as Drug Related in Short-term Domestic Trials
 
-| Study Event | (n = 521) | (n = 82) | (n = 161) | (n = 82) |
+| PROTONIX (n = 521) | Placebo (n = 82) | PROTONIX (n = 161) | Nizatidine (n = 82) |  |
 | --- | --- | --- | --- | --- |
-|  | –––––––––––––––––––––––––% Incidence––––––––––––––––––––––––– |  |  |  |
-|  | Study 300-US |  | Study 301-US |  |
-|  | PROTONIX | Placebo | PROTONIX | Nizatidine |
-| Headache | 6 | 6 | 9 | 13 |
-| Diarrhea | 4 | 1 | 6 | 6 |
-| Flatulence | 2 | 2 | 4 | 0 |
-| Abdominal pain | 1 | 2 | 4 | 4 |
-| Rash | <1 | 0 | 2 | 0 |
-| Eructation | 1 | 1 | 0 | 0 |
-| Insomnia | <1 | 2 | 1 | 1 |
-| Hyperglycemia | 1 | 0 | <1 | 0 |
-
-Note: Only adverse events with an incidence greater than or equal to the comparators are shown.
+| Study Event | ––––––––––––––––––––––––% Incidence–––––––––––––––––––––––– |  |  |  |
+| Study 300-US |  | Study 301-US |  |  |
+| Headache Diarrhea Flatulence Abdominal pain Rash Eructation Insomnia Hyperglycemia | 6 4 2 1 <1 1 <1 1 | 6 1 2 2 0 1 2 0 | 9 6 4 4 2 0 1 <1 | 13 6 0 4 0 0 1 0 |
+| Note: Only adverse events with an incidence greater than or equal to the comparators are shown. |  |  |  |  |
 
 In international short-term, double-blind or open-label clinical trials involving 20 mg to 80 mg per day, the following adverse events were reported to occur in 1% or more of 2805 GERD patients receiving pantoprazole for up to 8 weeks.
 
 Adverse Events in GERD Patients in Short-term International Trials
 
-| Study Event | (N = 2805) | (N = 594) | (N = 474) | (N = 239) |
+| Study Event | Pantoprazole Total (N = 2805) | Ranitidine 300 mg (N = 594) | Omeprazole 20 mg (N = 474) | Famotidine 40 mg (N = 239) |
 | --- | --- | --- | --- | --- |
-|  | –––––––––––––––––––––––––% Incidence–––––––––––––––––––––––– |  |  |  |
-|  | Pantoprazole | Ranitidine | Omeprazole | Famotidine |
-|  | Total | 300 mg | 20 mg | 40 mg |
-| Headache | 2 | 3 | 2 | 1 |
-| Diarrhea | 2 | 2 | 2 | <1 |
-| Abdominal Pain | 1 | 1 | <1 | <1 |
+|  | –––––––––––––––––––––––––% Incidence–––––––––––––––––––––– |  |  |  |
+| Headache Diarrhea Abdominal Pain | 2 2 1 | 3 2 1 | 2 2 <1 | 1 <1 <1 |
 
 In two U.S. controlled clinical trials involving PROTONIX 10-, 20-, or 40-mg doses for up to 12 months, the following adverse events considered by investigators to be possibly, probably, or definitely related to drug occurred in 1% or more of GERD patients on long-term therapy.
 
 Most Frequent Adverse Events Reported as Drug Related in Long-term Domestic Trials
 
-| Study Event | (n = 536) | (n = 185) |
+| Study Event | PROTONIX (n = 536) | Ranitidine (n = 185) |
 | --- | --- | --- |
-|  | ––––––––––––––––––––% Incidence–––––––––––––––––– |  |
-|  | PROTONIX | Ranitidine |
-| Headache | 5 | 2 |
-| Abdominal pain | 3 | 1 |
-| Liver function tests abnormal | 2 | <1 |
-| Nausea | 2 | 2 |
-| Vomiting | 2 | 2 |
-
-Note: Only adverse events with an incidence greater than or equal to the comparators are shown.
+|  | –––––––––––––––––––% Incidence––––––––––––––– |  |
+| Headache Abdominal pain Liver function tests abnormal Nausea Vomiting | 5 3 2 2 2 | 2 1 <1 2 2 |
+| Note: Only adverse events with an incidence greater than or equal to the comparators are shown. |  |  |
 
 In addition, in these short- and long-term domestic and international trials, the following treatment-emergent events, regardless of causality, occurred at a rate of ≥ 1% in pantoprazole-treated patients: anxiety, arthralgia, asthenia, back pain, bronchitis, chest pain, constipation, cough increased, dizziness, dyspepsia, dyspnea, flu syndrome, gastroenteritis, gastrointestinal disorder, hyperlipemia, hypertonia, infection, liver function tests abnormal, migraine, nausea, neck pain, pain, pharyngitis, rectal disorder, rhinitis, SGPT increased, sinusitis, upper respiratory tract infection, urinary frequency, urinary tract infection, and vomiting.
 
@@ -84,7 +67,7 @@ SPECIAL SENSES: abnormal vision, amblyopia, cataract specified, deafness, diplop
 
 UROGENITAL SYSTEM: albuminuria, balanitis, breast pain, cystitis, dysmenorrhea, dysuria, epididymitis, hematuria, impotence, kidney calculus, kidney pain, nocturia, prostatic disorder, pyelonephritis, scrotal edema, urethral pain, urethritis, urinary tract disorder, urination impaired, vaginitis.
 
-In an open-label US clinical trial conducted in 35 patients with pathological hypersecretory conditions treated with PROTONIX for up to 27 months, the adverse events reported were consistent with the safety profile of the drug in other populations.
+In an open-label U.S. clinical trial conducted in 35 patients with pathological hypersecretory conditions treated with PROTONIX for up to 27 months, the adverse events reported were consistent with the safety profile of the drug in other populations.
 
 ## Postmarketing Reports
 

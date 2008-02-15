@@ -2,21 +2,39 @@
 
 ## Pharmacokinetics
 
-PROTONIX is prepared as an enteric-coated tablet so that absorption of pantoprazole begins only after the tablet leaves the stomach.
+PROTONIX Delayed-Release Tablets are prepared as enteric-coated tablet so that absorption of pantoprazole begins only after the tablet leaves the stomach.
 Peak serum concentration (Cmax) and area under the serum concentration time curve (AUC) increase in a manner proportional to oral and intravenous doses from 10 mg to 80 mg.
 Pantoprazole does not accumulate and its pharmacokinetics are unaltered with multiple daily dosing.
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially with a terminal elimination half-life of approximately one hour.
-In extensive metabolizers (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Metabolism) with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL, the time to reach the peak concentration (tmax) is 2.5 h and the total area under the plasma concentration versus time curve (AUC) is 4.8 μg·hr/mL.
+In extensive metabolizers (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Metabolism) with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL, the time to reach the peak concentration (tmax) is 2.5 h and the total area under the plasma concentration versus time curve (AUC) is 4.8 μg•hr/mL.
 When pantoprazole is given with food, its tmax is highly variable and may increase significantly.
 Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6-14.0 L/h and its apparent volume of distribution is 11.0-23.6 L.
 
+PROTONIX® (pantoprazole sodium) For Delayed-Release Oral Suspension has been shown to be comparable to PROTONIX® (pantoprazole sodium) Delayed-Release Tablets in suppressing pentagastrin-stimulated maximum acid output (MAO) in patients with gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE) (see Clinical Pharmacology, Pharmacodynamics).
+
+PROTONIX For Delayed-Release Oral Suspension is bioequivalent when administered orally in applesauce or apple juice, or mixed in apple juice and administered through a nasogastric tube.
+The plasma pharmacokinetic parameters from a crossover study in healthy subjects are summarized in the table below.
+In this study, a single oral 40 mg dose of Protonix For Delayed-Release Oral Suspension was administered to healthy subjects (N = 22) as granules sprinkled over a teaspoonful of applesauce, as granules mixed with apple juice and, mixed with apple juice followed by administration through a nasogastric tube.
+
+Pharmacokinetics parameters (mean ± SD) of Pantoprazole with Administration of Protonix For Delayed-Release Oral Suspension Sprinkled on Applesauce, Mixed with Apple Juice, Mixed with Apple Juice and Administered through a Nasogastric Tube
+
+| Pharmacokinetic Parameters | Granules in applesauce | Granules in apple juice | Granules in nasogastric tube |
+| --- | --- | --- | --- |
+| AUC (µg.hr/mL) | 4.01 ± 1.53 | 3.99 ± 1.49 | 4.06 ± 1.73 |
+| Cmax (µg/mL) | 1.97 ± 0.69 | 1.91 ± 0.45 | 2.2 ± 0.70 |
+| aTmax (hr) | 2.0 | 2.5 | 2.0 |
+| a Median values are reported for Tmax |  |  |  |
+
 ### Absorption
 
-The absorption of pantoprazole is rapid, with a Cmax of 2.5 μg/mL that occurs approximately 2.5 hours after single or multiple oral 40-mg doses.
+The absorption of pantoprazole is rapid, with a Cmax of 2.5 μg/mL that occurs approximately 2.5 hours after administration of a single or multiple oral 40 mg doses of PROTONIX® (pantoprazole sodium) Delayed-Release Tablets.
 Pantoprazole is well absorbed; it undergoes little first-pass metabolism resulting in an absolute bioavailability of approximately 77%.
 Pantoprazole absorption is not affected by concomitant administration of antacids.
-Administration of pantoprazole with food may delay its absorption up to 2 hours or longer; however, the Cmax and the extent of pantoprazole absorption (AUC) are not altered.
-Thus, pantoprazole may be taken without regard to timing of meals.
+
+Administration of PROTONIX® (pantoprazole sodium) Delayed-Release Tablets with food may delay its absorption up to 2 hours or longer; however, the Cmax and the extent of pantoprazole absorption (AUC) are not altered.
+Thus, PROTONIX® (pantoprazole sodium) Delayed-release Tablets may be taken without regard to timing of meals.
+
+PROTONIX® (pantoprazole sodium) For Delayed-Release Oral Suspension should be taken approximately 30 minutes before a meal.
 
 ### Distribution
 
@@ -46,7 +64,7 @@ No dosage adjustment is recommended based on age.
 
 #### Pediatric
 
-The pharmacokinetics of pantoprazole have notbeen investigated in patients < 18 years of age.
+The pharmacokinetics of pantoprazole have not been investigated in patients < 18 years of age.
 
 #### Gender
 
@@ -80,6 +98,11 @@ Although no significant drug-drug interactions have been observed in clinical st
 
 ## Pharmacodynamics
 
+PROTONIX® (pantoprazole sodium) For Delayed-Release Oral Suspension has been shown to be comparable to PROTONIX® (pantoprazole sodium) Delayed-Release Tablets in suppressing pentagastrin-stimulated MAO in patients (n = 49) with GERD and a history of EE.
+In this multicenter pharmacodynamic crossover study a 40 mg oral dose of Protonix For Delayed-Release Oral Suspension administered in a teaspoonful of applesauce was compared with a 40 mg oral dose of Protonix Delayed-Release Tablets after administration of each formulation once daily for 7 days.
+Both medications were administered thirty minutes before breakfast.
+Pentagastrin-stimulated (MAO) was assessed from hour 23 to 24 at steady state.
+
 ### Mechanism of Action
 
 Pantoprazole is a proton pump inhibitor (PPI) that suppresses the final step in gastric acid production by covalently binding to the (H+,K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell.
@@ -102,17 +125,13 @@ The effects of pantoprazole on median pH from one double-blind crossover study a
 
 Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
-| 8 a.m. - 8 a.m. |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| –––––––––––––––––––––Median pH on day 7–––––––––––––– |  |  |  |  |
 | Time | Placebo | 20 mg | 40 mg | 80 mg |
-| (24 hours) | 1.3 | 2.9* | 3.8*# | 3.9*# |
-| 8 a.m. - 10 p.m. |  |  |  |  |
-| (Daytime) | 1.6 | 3.2* | 4.4*# | 4.8*# |
-| 10 p.m. - 8 a.m. |  |  |  |  |
-| (Nighttime) | 1.2 | 2.1* | 3.0* | 2.6* |
-| * Significantly different from placebo |  |  |  |  |
-| # Significantly different from 20 mg |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | –––––––––—––––––––Median pH on day 7—––––––––––––––––––– |  |  |  |
+| 8 a.m. - 8 a.m. (24 hours) | 1.3 | 2.9* | 3.8*# | 3.9*# |
+| 8 a.m. - 10 p.m. (Daytime) | 1.6 | 3.2* | 4.4*# | 4.8*# |
+| 10 p.m. - 8 a.m. (Nighttime) | 1.2 | 2.1* | 3.0* | 2.6* |
+| * Significantly different from placebo # Significantly different from 20 mg |  |  |  |  |
 
 ### Serum Gastrin Effects
 
@@ -145,7 +164,7 @@ In a 1-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, the
 
 ## Clinical Studies
 
-PROTONIX Delayed-Release Tablets were used in all clinical trials.
+PROTONIX Delayed-Release Tablets were used in the following clinical trials:
 
 ## Erosive Esophagitis (EE) Associated with Gastroesophageal Reflux Disease (GERD)
 
@@ -155,15 +174,12 @@ The percentages of patients healed (per protocol, n = 541) in this study were as
 
 Erosive Esophagitis Healing Rates (per protocol)
 
-| Week | (n = 153) | (n = 158) | (n = 162) | (n = 68) |
+| Week | 10 mg QD (n = 153) | 20 mg QD (n = 158) | 40 mg QD (n = 162) | n = 68 |
 | --- | --- | --- | --- | --- |
-|  | –––––––––––––––PROTONIX––––––––––––––– |  |  | Placebo |
-|  | 10 mg QD | 20 mg QD | 40 mg QD |  |
+| –––––––––––––––PROTONIX––––––––––––––– |  |  |  | Placebo |
 | 4 | 45.6%+ | 58.4%+# | 75.0%+* | 14.3% |
-| 8 | 66.0%+ | 83.5 %+# | 92.6%+* | 39.7% |
-| + (p < 0.001) PROTONIX versus placebo. |  |  |  |  |
-| * (p < 0.05) versus 10 mg, or 20 mg PROTONIX |  |  |  |  |
-| # (p < 0.05) versus 10 mg PROTONIX |  |  |  |  |
+| 8 | 66.0%+ | 83.5%+# | 92.6%+* | 39.7% |
+| + (p < 0.001) PROTONIX versus placebo. * (p < 0.05) versus 10 mg, or 20 mg PROTONIX # (p < 0.05) versus 10 mg PROTONIX |  |  |  |  |
 
 In this study, all PROTONIX treatment groups had significantly greater healing rates than the placebo group.
 This was true regardless of H. pylori status for the 40-mg and 20-mg PROTONIX treatment groups.
@@ -177,10 +193,9 @@ The percentages of patients healed (per protocol, n = 212) were as follows:
 
 Erosive Esophagitis Healing Rates (per protocol)
 
-| Week | (n = 72) | (n = 70) | (n = 70) |
+| Week | 20 mg QD (n = 72) | 40 mg QD (n = 70) | 150 mg BID (n = 70) |
 | --- | --- | --- | --- |
-|  | ––––––––––––PROTONIX–––––––––––– |  | Nizatidine |
-|  | 20 mg QD | 40 mg QD | 150 mg BID |
+| ––––––––––––PROTONIX–––––––––––– |  |  | Nizatidine |
 | 4 | 61.4%+ | 64.0%+ | 22.2% |
 | 8 | 79.2%+ | 82.9%+ | 41.4% |
 | + (p < 0.001) PROTONIX versus nizatidine. |  |  |  |
@@ -200,22 +215,11 @@ In addition, PROTONIX 40 mg was superior to all other treatments studied.
 
 Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
-|  | 20 mg QD | 40 mg QD | 150 mg BID |
+|  | PROTONIX 20 mg QD | PROTONIX 40 mg QD | Ranitidine 150 mg BID |
 | --- | --- | --- | --- |
-|  | PROTONIX | PROTONIX | Ranitidine |
-| Study 1 | n = 75 | n = 74 | n = 75 |
-| Month 1 | 91* | 99* | 68 |
-| Month 3 | 82* | 93*# | 54 |
-| Month 6 | 76* | 90*# | 44 |
-| Month 12 | 70* | 86*# | 35 |
-| Study 2 | n = 74 | n = 88 | n = 84 |
-| Month 1 | 89* | 92*# | 62 |
-| Month 3 | 78* | 91*# | 47 |
-| Month 6 | 72* | 88*# | 39 |
-| Month 12 | 72* | 83* | 37 |
-| * (p < 0.05 vs ranitidine) |  |  |  |
-| # (p < 0.05 vs PROTONIX 20 mg) |  |  |  |
-| Note: PROTONIX 10 mg was superior (p < 0.05) to ranitidine in study 2 but not study 1. |  |  |  |
+| Study 1 Month 1 Month 3 Month 6 Month 12 | n = 75 91* 82* 76* 70* | n = 74 99* 93*# 90*# 86*# | n = 75 68 54 44 35 |
+| Study 2 Month 1 Month 3 Month 6 Month 12 | n = 74 89* 78* 72* 72* | n = 88 92*# 91*# 88*# 83* | n = 84 62 47 39 37 |
+| * (p < 0.05 vs ranitidine) # (p < 0.05 vs PROTONIX 20 mg) Note: PROTONIX 10 mg was superior (p < 0.05) to ranitidine in study 2 but not study 1. |  |  |  |
 
 PROTONIX 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 PROTONIX 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial.
@@ -224,10 +228,8 @@ Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | PROTONIX 40 mg QD | Ranitidine 150 mg BID |
 | --- | --- | --- | --- |
-| Month 1 | Daytime | 5.1 ± 1.6* | 18.3 ± 1.6 |
-|  | Nighttime | 3.9 ± 1.1* | 11.9 ± 1.1 |
-| Month 12 | Daytime | 2.9 ± 1.5* | 17.5 ± 1.5 |
-|  | Nighttime | 2.5 ± 1.2* | 13.8 ± 1.3 |
+| Month 1 | Daytime Nighttime | 5.1 ± 1.6* 3.9 ± 1.1* | 18.3 ± 1.6 11.9 ± 1.1 |
+| Month 12 | Daytime Nighttime | 2.9 ± 1.5* 2.5 ± 1.2* | 17.5 ± 1.5 13.8 ± 1.3 |
 | * (p < 0.001 vs ranitidine, combined data from the 2 U.S. studies) |  |  |  |
 
 ## Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome

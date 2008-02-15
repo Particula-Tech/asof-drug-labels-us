@@ -16,13 +16,20 @@ Atrophic gastritis has been noted occasionally in gastric corpus biopsies from p
 
 ## Information for Patients
 
-Patients should be cautioned that PROTONIX Delayed-Release Tablets should not be split, crushed or chewed.
-The tablets should be swallowed whole, with or without food in the stomach.
-Concomitant administration of antacids does not affect the absorption of pantoprazole.
+Patients should be cautioned that PROTONIX® Delayed-Release Tablets SHOULD NOT BE SPLIT, CRUSHED, OR CHEWED.
+PROTONIX Delayed-Release Tablets should be swallowed whole, with or without food in the stomach.
+Concomitant administration of antacids does not affect the absorption of PROTONIX® Delayed-Release Tablets.
+
+- Patients should be cautioned that PROTONIX® For Delayed-Release Oral Suspension SHOULD NOT BE CRUSHED OR CHEWED.
+  PROTONIX For Delayed-Release Oral Suspension should be taken approximately 30 minutes before a meal.
+
+- PROTONIX For Delayed-Release Oral Suspension should only be administered in apple juice or applesauce, not in water or other liquids, or foods.
+
+(See the Dosage and Administration Section, Administration Options subsection)
 
 ## Drug Interactions
 
-Pantoprazole is metabolized through the cytochrome P450 system, primarily the CYP2C19 and CYP3A4 isozymes, and subsequently undergoes Phase II conjugation (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
+Pantoprazole is metabolized through the cytochrome P450 system, primarily the CYP2C19 and to a minor extent the CYP3A4 isozymes, and subsequently undergoes Phase II conjugation (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
 
 Based on studies evaluating possible interactions of pantoprazole with other drugs, no dosage adjustment is needed with concomitant use of the following: theophylline, cisapride, antipyrine, caffeine, carbamazepine, diazepam (and its active metabolite, desmethyldiazepam), diclofenac, naproxen, piroxicam, digoxin, ethanol, glyburide, an oral contraceptive (levonorgestrel/ethinyl estradiol), metoprolol, nifedipine, phenytoin, warfarin (see below), midazolam, clarithromycin, metronidazole, or amoxicillin.
 Clinically relevant interactions of pantoprazole with other drugs with the same metabolic pathways are not expected.
@@ -31,6 +38,9 @@ There was also no interaction with concomitantly administered antacids.
 There have been postmarketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including pantoprazole, and warfarin concomitantly.
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin concomitantly should be monitored for increases in INR and prothrombin time.
+
+Concomitant use of atazanavir and proton pump inhibitors is not recommended.
+Coadministration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and thereby reduce its therapeutic effect.
 
 Because of profound and long lasting inhibition of gastric acid secretion, pantoprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (eg, ketoconazole, ampicillin esters, and iron salts).
 
