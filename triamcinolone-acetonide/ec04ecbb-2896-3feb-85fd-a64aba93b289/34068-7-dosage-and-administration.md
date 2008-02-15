@@ -11,7 +11,7 @@ In this latter situation it may be necessary to increase the dosage of the corti
 If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
 In pediatric patients, the initial dose of triamcinolone may vary depending on the specific disease entity being treated.
-The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m2bsa/day).
+The range of initial doses is 0.11 to 1.6 mg/kg/day in 3 or 4 divided doses (3.2 to 48 mg/m2bsa/day).
 
 For the purpose of comparison, the following is the equivalent milligram dosage of the various glucocorticoids:
 
@@ -66,6 +66,6 @@ Epicondylitis may be treated by infiltrating the preparation into the area of gr
 
 ### Intralesional
 
-For treatment of dermal lesions, Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) should be injected directly into the lesion, i.e., intradermally or subcutaneously.
+For treatment of dermal lesions, Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) should be injected directly into the lesion, ie, intradermally or subcutaneously.
 For accuracy of dosage measurement and ease of administration, it is preferable to employ a tuberculin syringe and a small-bore needle (23 to 25 gauge).
 Ethyl chloride spray may be used to alleviate the discomfort of the injection.
