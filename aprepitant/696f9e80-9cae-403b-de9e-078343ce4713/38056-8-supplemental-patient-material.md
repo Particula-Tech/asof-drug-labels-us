@@ -39,7 +39,7 @@ Taking EMEND with these medicines could cause serious or life-threatening proble
 
 - are allergic to any of the ingredients in EMEND.
   The active ingredient is aprepitant.
-  See the end of this leaflet for a list of all the ingredients in EMEND.
+  See What are the ingredients in EMEND?.
 
 ### What should I tell my doctor before and during treatment with EMEND?
 
@@ -64,20 +64,25 @@ Women who use birth control medicines during treatment with EMEND and for up to 
 ### How should I take EMEND?
 
 - Take EMEND exactly as prescribed.
-- EMEND is a capsule that you swallow with a drink.
+- EMEND (aprepitant) is a capsule that you swallow with a drink.
 
-If you are a cancer patient, the recommended dose of EMEND is:
+If you are a cancer patient, the recommended 3-day regimen includes:
 
-- one 125-mg capsule (white/pink) by mouth 1 hour before you start your chemotherapy treatment; AND
-- one 80-mg capsule (white) each morning for the 2 days following your chemotherapy treatment.
+- Day 1: one 125-mg capsule of EMEND (white/pink) by mouth 1 hour before you start your chemotherapy treatment; AND
+- Day 2 and Day 3: one 80-mg capsule (white) by mouth of EMEND each morning for the 2 days following your chemotherapy treatment.
+
+Your doctor may substitute EMEND (fosaprepitant dimeglumine) for Injection (115 mg) for EMEND (aprepitant) capsules (125 mg) 30 minutes prior to your chemotherapy treatment on Day 1 only.
+You still need to take one 80-mg capsule (white) of EMEND by mouth each morning for the 2 days following your chemotherapy treatment.
 
 If you are a surgical patient, your doctor will give you a 40-mg capsule of EMEND before surgery.
 
-- EMEND may be taken with or without food.
-  Follow your doctor’s instructions about eating before surgery.
-- Do not start taking EMEND if you already have nausea and vomiting.
-  Ask your doctor what to do.
-- If you take too much EMEND, call your doctor, local emergency room or poison control center right away.
+EMEND may be taken with or without food.
+Follow your doctor’s instructions about eating before surgery.
+
+Do not start taking EMEND if you already have nausea and vomiting.
+Ask your doctor what to do.
+
+If you take too much EMEND, call your doctor, local emergency room or poison control center right away.
 
 ### What are the possible side effects of EMEND?
 
@@ -128,8 +133,8 @@ The 40-mg capsule shell also contains yellow ferric oxide.
 
 U.S. Patent Nos.: 5,145,684; 5,719,147; 6,048,859; 6,096,742; 6,235,735
 
-Issued September 2006
+Issued February 2008
 
 MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
 
-9738805
+9738806

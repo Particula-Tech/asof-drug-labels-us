@@ -1,7 +1,7 @@
 # HOW SUPPLIED
 
 No. 3854 — 80 mg capsules: White, opaque, hard gelatin capsule with “461” and “80 mg” printed radially in black ink on the body.
-They are supplied as follows: NDC 0006-0461-02 unit-of-use bi-fold package of 2 NDC 0006-0461-30 bottles of 30 (with desiccant) NDC 0006-0461-06 unit-dose package of 6.
+They are supplied as follows: NDC 0006-0461-02 unit-of-use bi-fold package of 2 NDC 0006-0461-06 unit-dose package of 6.
 
 No. 3855 — 125 mg capsules: Opaque, hard gelatin capsule with white body and pink cap with “462” and “125 mg” printed radially in black ink on the body.
 They are supplied as follows: NDC 0006-0462-30 bottles of 30 (with desiccant) NDC 0006-0462-06 unit-dose package of 6.
@@ -26,6 +26,6 @@ U.S. Patent Nos.: 5,145,684; 5,719,147; 6,048,859; 6,096,742; 6,235,735
 
 MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued November 2007
+Issued February 2008
 
-9738707
+9852008

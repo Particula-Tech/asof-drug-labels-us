@@ -2,12 +2,12 @@
 
 ## General
 
-EMEND, a dose-dependent inhibitor of CYP3A4, should be used with caution in patients receiving concomitant orally administered medicinal products, including chemotherapy agents that are primarily metabolized through CYP3A4.
-Moderate inhibition of CYP3A4 by aprepitant, 125 mg/80 mg regimen, could result in elevated plasma concentrations of these concomitant medicinal products.
+EMEND, a dose-dependent inhibitor of CYP3A4, should be used with caution in patients receiving concomitant medications that are primarily metabolized through CYP3A4.
+Moderate inhibition of CYP3A4 by aprepitant, 125 mg/80 mg regimen, could result in elevated plasma concentrations of these concomitant medications.
 
-Weak inhibition of CYP3A4 by a single 40 mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medicinal products that are primarily metabolized through CYP3A4 to a clinically significant degree.
+Weak inhibition of CYP3A4 by a single 40 mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medications that are primarily metabolized through CYP3A4 to a clinically significant degree.
 
-The effect of EMEND on the pharmacokinetics of orally administered CYP3A4 substrates is greater than the effect of EMEND on the pharmacokinetics of intravenously administered CYP3A4 substrates (see PRECAUTIONS, Drug Interactions).
+When aprepitant is used concomitantly with another CYP3A4 inhibitor, aprepitant plasma concentrations could be elevated (see PRECAUTIONS, Drug Interactions).
 
 Chemotherapy agents that are known to be metabolized by CYP3A4 include docetaxel, paclitaxel, etoposide, irinotecan, ifosfamide, imatinib, vinorelbine, vinblastine and vincristine.
 In clinical studies, EMEND (125 mg/80 mg regimen) was administered commonly with etoposide, vinorelbine, or paclitaxel.

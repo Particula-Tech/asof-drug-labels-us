@@ -2,14 +2,18 @@
 
 ## • Prevention of Chemotherapy Induced Nausea and Vomiting
 
+EMEND (aprepitant) is available as capsules for oral administration.
+
 EMEND is given for 3 days as part of a regimen that includes a corticosteroid and a 5–HT3 antagonist.
-The recommended dose of EMEND is 125 mg orally 1 hour prior to chemotherapy treatment (Day 1) and 80 mg once daily in the morning on Days 2 and 3.
+The recommended dose of EMEND is 125 mg orally 1 hour prior to chemotherapy treatment (Day 1) and 80 mg orally once daily in the morning on Days 2 and 3.
+
+EMEND (fosaprepitant dimeglumine) for Injection is a lyophilized prodrug of aprepitant containing polysorbate 80 (PS80) and may be substituted for oral EMEND (125 mg), 30 minutes prior to chemotherapy, on Day 1 only of the CINV regimen as an intravenous infusion administered over 15 minutes.
 
 In clinical studies, the following regimen was used for the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy:
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
-| EMENDEMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3. | 125 mg | 80 mg | 80 mg | none |
+| EMENDEMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3. | 125 mg orally | 80 mg orally | 80 mg orally | none |
 | DexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. The dose of dexamethasone was chosen to account for drug interactions. | 12 mg orally | 8 mg orally | 8 mg orally | 8 mg orally |
 | OndansetronOndansetron was administered 30 minutes prior to chemotherapy treatment on Day 1. | 32 mg IV | none | none | none |
 
@@ -17,7 +21,7 @@ In a clinical study, the following regimen was used for the prevention of nausea
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
-| EMENDEMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3. | 125 mg | 80 mg | 80 mg |
+| EMENDEMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3. | 125 mg orally | 80 mg orally | 80 mg orally |
 | DexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1. The dose of dexamethasone was chosen to account for drug interactions. | 12 mg orally | none | none |
 | OndansetronOndansetron 8-mg capsule was administered 30 to 60 minutes prior to chemotherapy treatment and one 8-mg capsule was administered 8 hours after the first dose on Day 1. | 2 x 8 mg orally | none | none |
 
