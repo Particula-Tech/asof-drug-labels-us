@@ -72,6 +72,6 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc, Rockville, MD 20
 
 Marketed by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA US Patent Nos: 5,006,528; 6,977,257; and 7,115,587
 
-1239550 0307L-0480 Rev November 2007
+1239550A1 0308L-0800 Rev February 2008
 
-© 2007, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+© 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

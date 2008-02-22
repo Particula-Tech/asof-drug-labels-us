@@ -16,7 +16,7 @@ In the short-term, placebo-controlled trials in Major Depressive Disorder, the i
 
 Objectively collected data from those trials was collected on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias).
 In the adult Schizophrenia trials, the objectively collected data did not show a difference between aripiprazole and placebo, with the exception of the Barnes Akathisia Scale (aripiprazole, 0.08; placebo, -0.05).
-In the pediatric (13 to 17 yrs) Schizophrenia trial, the objectively collected data did not show a difference between aripiprazole and placebo, with the exception of the Simpson Angus Rating Scale (aripiprazole, 0.24; placebo, -0.29).
+In the pediatric (13 to 17 years) Schizophrenia trial, the objectively collected data did not show a difference between aripiprazole and placebo, with the exception of the Simpson Angus Rating Scale (aripiprazole, 0.24; placebo, -0.29).
 In the Bipolar Mania trials, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.61; placebo, 0.03 and aripiprazole, 0.25; placebo, -0.06).
 Changes in the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
 In the Major Depressive Disorder trials, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive aripiprazole and adjunctive placebo (aripiprazole, 0.31; placebo, 0.03 and aripiprazole, 0.22; placebo, 0.02).
@@ -26,6 +26,13 @@ Similarly, in a long-term (26-week), placebo-controlled trial of Schizophrenia, 
 
 In the placebo-controlled trials in patients with agitation associated with Schizophrenia or Bipolar Mania, the incidence of reported EPS-related events excluding events related to akathisia for aripiprazole-treated patients was 2% vs. 2% for placebo and the incidence of akathisia-related events for aripiprazole-treated patients was 2% vs. 0% for placebo.
 Objectively collected data on the Simpson Angus Rating Scale (for EPS) and the Barnes Akathisia Scale (for akathisia) for all treatment groups did not show a difference between aripiprazole and placebo.
+
+Dystonia
+
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+An elevated risk of acute dystonia is observed in males and younger age groups.
 
 Laboratory Test Abnormalities
 

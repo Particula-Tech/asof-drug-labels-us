@@ -147,7 +147,7 @@ Commonly Observed Adverse Reactions
 
 Commonly observed adverse reactions associated with the use of aripiprazole in adolescent patients with Schizophrenia (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) were extrapyramidal disorder, somnolence, and tremor.
 
-Less Common Adverse Reactions in Pediatric Patients (13 to 17 yrs) with Schizophrenia
+Less Common Adverse Reactions in Pediatric Patients (13 to 17 years) with Schizophrenia
 
 Table 7 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in Schizophrenia) including only those reactions that occurred in 2% or more of adolescent patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo.
 

@@ -65,8 +65,11 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 It should be noted that ABILIFY is approved to be added to an antidepressant when the response from the antidepressant alone is not adequate.
 ABILIFY is not approved for pediatric patients with depression.
 
+Call your doctor for medical advice about side effects.
+You may report side effect to FDA at 1-800-FDA-1088.
+
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550 0307L-0480 Rev November 2007
+1239550A1 0308L-0700 Rev February 2008
 
-© 2007, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+© 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
