@@ -1,0 +1,104 @@
+# ADVERSE REACTIONS
+
+Adverse reactions following the administration of HALDOL Decanoate 50 or HALDOL Decanoate 100 are those of HALDOL (haloperidol).
+Since vast experience has accumulated with HALDOL, the adverse reactions are reported for that compound as well as for haloperidol decanoate.
+As with all injectable medications, local tissue reactions have been reported with haloperidol decanoate.
+
+## Cardiovascular Effects
+
+Tachycardia, hypotension, and hypertension have been reported.
+QT prolongation and/or ventricular arrhythmias have also been reported, in addition to ECG pattern changes compatible with the polymorphous configuration of torsade de pointes, and may occur more frequently with high doses and in predisposed patients (see WARNINGS and PRECAUTIONS).
+
+Cases of sudden and unexpected death have been reported in association with the administration of HALDOL.
+The nature of the evidence makes it impossible to determine definitively what role, if any, HALDOL played in the outcome of the reported cases.
+The possibility that HALDOL caused death cannot, of course, be excluded, but it is to be kept in mind that sudden and unexpected death may occur in psychotic patients when they go untreated or when they are treated with other antipsychotic drugs.
+
+## CNS Effects
+
+### Extrapyramidal Symptoms (EPS)
+
+EPS during the administration of HALDOL (haloperidol) have been reported frequently, often during the first few days of treatment.
+EPS can be categorized generally as Parkinson-like symptoms, akathisia, or dystonia (including opisthotonos and oculogyric crisis).
+While all can occur at relatively low doses, they occur more frequently and with greater severity at higher doses.
+The symptoms may be controlled with dose reductions or administration of antiparkinson drugs such as benztropine mesylate USP or trihexyphenidyl hydrochloride USP.
+It should be noted that persistent EPS have been reported; the drug may have to be discontinued in such cases.
+
+### Dystonia
+
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+An elevated risk of acute dystonia is observed in males and younger age groups.
+
+### Withdrawal Emergent Neurological Signs
+
+Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs.
+However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal.
+In certain of these cases the dyskinetic movements are indistinguishable from the syndrome described below under "Tardive Dyskinesia" except for duration.
+Although the long-acting properties of haloperidol decanoate provide gradual withdrawal, it is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs.
+
+### Tardive Dyskinesia
+
+As with all antipsychotic agents HALDOL has been associated with persistent dyskinesias.
+Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may appear in some patients on long-term therapy with haloperidol decanoate or may occur after drug therapy has been discontinued.
+The risk appears to be greater in elderly patients on high-dose therapy, especially females.
+The symptoms are persistent and in some patients appear irreversible.
+The syndrome is characterized by rhythmical involuntary movements of tongue, face, mouth or jaw (e.g., protrusion of tongue, puffing of cheeks, puckering of mouth, chewing movements).
+Sometimes these may be accompanied by involuntary movements of extremities and the trunk.
+
+There is no known effective treatment for tardive dyskinesia; antiparkinson agents usually do not alleviate the symptoms of this syndrome.
+It is suggested that all antipsychotic agents be discontinued if these symptoms appear.
+Should it be necessary to reinstitute treatment, or increase the dosage of the agent, or switch to a different antipsychotic agent, this syndrome may be masked.
+
+It has been reported that fine vermicular movement of the tongue may be an early sign of tardive dyskinesia and if the medication is stopped at that time the full syndrome may not develop.
+
+### Tardive Dystonia
+
+Tardive dystonia, not associated with the above syndrome, has also been reported.
+Tardive dystonia is characterized by delayed onset of choreic or dystonic movements, is often persistent, and has the potential of becoming irreversible.
+
+### Other CNS Effects
+
+Insomnia, restlessness, anxiety, euphoria, agitation, drowsiness, depression, lethargy, headache, confusion, vertigo, grand mal seizures, exacerbation of psychotic symptoms including hallucinations, and catatonic-like behavioral states which may be responsive to drug withdrawal and/or treatment with anticholinergic drugs.
+
+## Body as a Whole
+
+Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been reported with HALDOL.
+(See WARNINGS for further information concerning NMS.)
+
+## Hematologic Effects
+
+Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
+Agranulocytosis has rarely been reported to have occurred with the use of HALDOL, and then only in association with other medication.
+
+## Liver Effects
+
+Impaired liver function and/or jaundice have been reported.
+
+## Dermatologic Reactions
+
+Maculopapular and acneiform skin reactions and isolated cases of photosensitivity and loss of hair.
+
+## Endocrine Disorders
+
+Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia and hyponatremia.
+
+## Gastrointestinal Effects
+
+Anorexia, constipation, diarrhea, hypersalivation, dyspepsia, nausea and vomiting.
+
+## Autonomic Reactions
+
+Dry mouth, blurred vision, urinary retention, diaphoresis and priapism.
+
+## Respiratory Effects
+
+Laryngospasm, bronchospasm and increased depth of respiration.
+
+## Special Senses
+
+Cataracts, retinopathy and visual disturbances.
+
+## Postmarketing Events
+
+Hyperammonemia has been reported in a 5 1 /2 year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with HALDOL.
