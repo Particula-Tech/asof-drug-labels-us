@@ -39,7 +39,7 @@ Ceftriaxone penetrated the inflamed meninges of infants and pediatric patients; 
 | Elimination Half-life (hr) |  | 4.6 | 4.3 |
 | Plasma Clearance (mL/hr/kg) |  | 49 | 60 |
 | Volume of Distribution (mL/kg) |  | 338 | 373 |
-| CSF Concentration - inflamed meninges (mcg/mL) |  | 5.6 | 6.4 |
+| CSF Concentration- inflamed meninges (mcg/mL) |  | 5.6 | 6.4 |
 |  | Range (mcg/mL) | 1.3-18.5 | 1.3-44 |
 |  | Time after dose (hr) | 3.7 (± 1.6) | 3.3 (± 1.4) |
 
@@ -53,7 +53,7 @@ In 6 of 26 dialysis patients, the elimination rate of ceftriaxone was markedly r
 | Healthy Subjects |  | 5.8-8.7 | 0.58-1.45 | 5.8-13.5 |
 | Elderly Subjects (mean age, 70.5 yr) |  | 8.9 | 0.83 | 10.7 |
 | Patients With Renal Impairment |  |  |  |  |
-|  | Hemodialysis Patients (0-5 mL/min)Creatinine clearance. | 14.7 | 0.65 | 13.7 |
+|  | Hemodialysis Patients (0-5 mL/min)Creatinine clearance | 14.7 | 0.65 | 13.7 |
 |  | Severe (5-15 mL/min) | 15.7 | 0.56 | 12.5 |
 |  | Moderate (16-30 mL/min) | 11.4 | 0.72 | 11.8 |
 |  | Mild (31-60 mL/min) | 12.4 | 0.70 | 13.3 |
@@ -158,7 +158,8 @@ Porphyromonas (Bacteroides) melaninogenicus
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.1 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of ceftriaxone powder.
+The MICs should be determined using a standardized procedure.
+1 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of ceftriaxone powder.
 The MIC values should be interpreted according to the following criteria2 for aerobic organisms other than Haemophilus spp, Neisseria gonorrhoeae, and Streptococcus spp, including Streptococcus pneumoniae:
 
 | MIC (mcg/mL) | Interpretation |
@@ -167,7 +168,7 @@ The MIC values should be interpreted according to the following criteria2 for ae
 | 16-32 | (I) Intermediate |
 | ≥64 | (R) Resistant |
 
-The following interpretive criteria2 should be used when testing Haemophilus species using Haemophilus Test Media (HTM).
+The following interpretive criteria 2 should be used when testing Haemophilus species using Haemophilus Test Media (HTM).
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -176,7 +177,7 @@ The following interpretive criteria2 should be used when testing Haemophilus spe
 The absence of resistant strains precludes defining any categories other than “Susceptible”.
 Strains yielding results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing.
 
-The following interpretive criteria2 should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement.
+The following interpretive criteria 2 should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement.
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -185,7 +186,7 @@ The following interpretive criteria2 should be used when testing Neisseria gonor
 The absence of resistant strains precludes defining any categories other than “Susceptible”.
 Strains yielding results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing.
 
-The following interpretive criteria2 should be used when testing Streptococcus spp including Streptococcus pneumoniaeusing cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
+The following interpretive criteria 2 should be used when testing Streptococcus spp including Streptococcus pneumoniae using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -200,7 +201,7 @@ This category also provides a buffer zone which prevents small uncontrolled tech
 A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standardized ceftriaxone powder should provide the following MIC values:2
+Standardized ceftriaxone powder should provide the following MIC values: 2
 
 | Microorganism | ATCC®# | MIC (mcg/mL) |
 | --- | --- | --- |
@@ -225,7 +226,7 @@ Reports from the laboratory providing results of the standard single-disc suscep
 | 14-20 | (I) Intermediate |
 | ≤13 | (R) Resistant |
 
-The following interpretive criteria3 should be used when testing Haemophilus species when using Haemophilus Test Media (HTM).
+The following interpretive criteria 3 should be used when testing Haemophilusspecies when using Haemophilus Test Media (HTM).
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -234,7 +235,7 @@ The following interpretive criteria3 should be used when testing Haemophilus spe
 The absence of resistant strains precludes defining any categories other than “Susceptible”.
 Strains yielding results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing.
 
-The following interpretive criteria3 should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement
+The following interpretive criteria 3 should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement.
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -259,7 +260,7 @@ Streptococcus pneumoniae isolates should not be reported as penicillin (ceftriax
 The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤19 mm.
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 30 mcg ceftriaxone disc should provide the following zone diameters in these laboratory test quality control strains:3
+For the diffusion technique, the 30 mcg ceftriaxone disc should provide the following zone diameters in these laboratory test quality control strains: 3
 
 | Microorganism | ATCC®# | Zone Diameter Ranges (mm) |
 | --- | --- | --- |
@@ -281,10 +282,12 @@ For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determi
 | ≥64 | (R) Resistant |
 
 As with other susceptibility techniques, the use of laboratory control microorganisms is required to control the technical aspects of the laboratory standardized procedures.
-Standardized ceftriaxone powder should provide the following MIC values for the indicated standardized anaerobic dilution4 testing method:
+Standardized ceftriaxone powder should provide the following MIC values for the indicated standardized anaerobic dilution 4 testing method:
 
-| Method | Microorganism | ATCC®#ATCC® is a registered trademark of the American Type Culture Collection. | MIC (mcg/mL) |
+| Method | Microorganism | ATCC®# | MIC (mcg/mL) |
 | --- | --- | --- | --- |
 | Agar | Bacteroides fragilis | 25285 | 32-128 |
 |  | Bacteroides thetaiotaomicron | 29741 | 64-256 |
 | Broth | Bacteroides thetaiotaomicron | 29741 | 32-128 |
+
+ATCC® is a registered trademark of the American Type Culture Collection.
