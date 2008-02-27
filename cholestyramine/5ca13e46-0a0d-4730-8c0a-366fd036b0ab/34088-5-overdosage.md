@@ -1,0 +1,6 @@
+# OVERDOSAGE
+
+Overdosage with QUESTRAN has been reported in a patient taking 150% of the maximum recommended daily dosage for a period of several weeks.
+No ill effects were reported.
+Should an overdosage occur, the chief potential harm would be obstruction of the gastrointestinal tract.
+The location of such potential obstruction, the degree of obstruction, and the presence or absence of normal gut motility would determine treatment.
