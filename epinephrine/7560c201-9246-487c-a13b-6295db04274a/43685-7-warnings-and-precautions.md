@@ -17,7 +17,7 @@ Epinephrine is the preferred treatment for serious allergic or other emergency s
 The alternatives to using epinephrine in a life-threatening situation may not be satisfactory.
 The presence of a sulfite in this product should not deter administration of the drug for treatment of serious allergic or other emergency situations.
 
-Accidental injection into the hands or feet may result in loss of blood flow to the affected area and should be avoided.
+Accidental injection into the hands or feet may result in loss of blood flow to the affectedarea and should be avoided.
 If there is an accidental injection into these areas, advise the patient to go immediately to the nearest emergency room for treatment.
 EpiPen and EpiPen Jr should only be injected into the anterolateral aspect of the thigh.
 

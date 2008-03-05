@@ -17,6 +17,6 @@ MANUFACTURED FOR DEY®, NAPA, CALIFORNIA 94558, U.S.A.
 
 by Meridian Medical Technologies, Inc., a subsidiary of King Pharmaceuticals, Inc., Columbia, MD 21046, U.S.A.
 
-10/03 03-500-03
+7/05 03-500-04
 
-0001135
+0001297

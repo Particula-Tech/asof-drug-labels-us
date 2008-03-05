@@ -10,7 +10,7 @@ Amount of epinephrine delivered EpiPen® = one dose of 0.30 mg epinephrine (USP,
 
 NDC 49502-500-01 (EpiPen®) NDC 49502-500-02 (EpiPen 2-Pak®) NDC 49502-501-01 (EpiPen® Jr) NDC 49502-501-02 (EpiPen Jr 2-Pak®)
 
-MANUFACTURED FOR DEY® NAPA, CA 94558, U.S.A. by Meridian Medical Technologies, Inc., a subsidiary of King Pharmaceuticals, Inc., Columbia, MD 21046, U.S.A. 03-535-03 5/05 0001274
+MANUFACTURED FOR DEY® NAPA, CA 94558, U.S.A. by Meridian Medical Technologies, Inc., a subsidiary of King Pharmaceuticals, Inc., Columbia, MD 21046, U.S.A. 03-535-04 2/06 0001323
 
 IMPORTANT INFORMATION
 
@@ -78,7 +78,7 @@ DIRECTIONS FOR USE
 10. Carefully place the used auto-injector (without bending the needle), needle-end first, into the storage tube of the carrying case that provides built-in needle protection after use.
     Then screw the cap of the storage tube back on completely, and take it with you to the hospital emergency room.
 
-Note: Most of the liquid (about 90%) stays in the auto-injector and cannot be reused.
+Note: Most of the liquid (about 85%) stays in the auto-injector and cannot be reused.
 However, you have received the correct dose of the medication if the red flag appears in window.
 
 | WARNING NEVER put thumb, fingers, or hand over black tip. The needle comes out of black tip. Accidental injection into hands or feet may result in loss of blood flow to these areas. If this happens, go immediately to the nearest emergency room.EpiPen® and EpiPen® Jr should be injected only into the outer thigh (see “Directions for Use”).Do NOT remove gray safety release until ready to use. |
