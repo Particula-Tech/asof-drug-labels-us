@@ -1,0 +1,28 @@
+# REFERENCES
+
+1. Naber KG, Dette GA, Kees F, Knothe H, Grobecker H. Pharmacokinetics, in vitro activity, therapeutic efficacy, and clinical safety of aztreonam vs. cefotaxime in the treatment of complicated urinary tract infections.
+   J Antimicrob Chemother 1986; 17:517-527.
+2. Creasey WA, Platt TB, Frantz M, Sugerman AA.
+   Pharmacokinetics of aztreonam in elderly male volunteers.
+   Br J Clin Pharmacol 1985; 19:233-237.
+3. Meyers BR, Wilkinson P, Mendelson MH, et al. Pharmacokinetics of aztreonam in healthy elderly and young adult volunteers.
+   J Clin Pharmacol 1993; 33:470-474.
+4. Sattler FR, Schramm M, Swabb EA.
+   Safety of aztreonam and SQ 26,992 in elderly patients with renal insufficiency.
+   Rev Infect Dis 1985; 7 (suppl 4):S622-S627.
+5. National Committee for Clinical Laboratory Standards.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically—Fifth Edition.
+   Approved Standard NCCLS Document M7-A5, Vol. 20, No. 2, NCCLS, Wayne, PA, January 2000.
+6. National Committee for Clinical Laboratory Standards.
+   Performance Standards for Antimicrobial Disk Susceptibility Tests—Seventh Edition.
+   Approved Standard NCCLS Document M2-A7, Vol. 20, No. 1, NCCLS, Wayne, PA, January 2000.
+7. Deger F, Douchamps J, Freschi E, et al. Aztreonam in the treatment of serious gram-negative infections in the elderly.
+   Int J Clin Pharmacol Ther and Toxicol 1988; 26: 22-26.
+8. Knockaert DC, Dejaeger E, Nestor L, et al. Aztreonam-flucloxacillin double beta-lactam treatment as empirical therapy of serious infections in very elderly patients.
+   Age and Aging 1981; 20:135-139.
+9. Roelandts F. Clinical use of aztreonam in a psychogeriatric population.
+   Acta Clin Belg 1992; 47:251-255.
+10. Andrews R, Fasoli R, Scoggins WG, et al. Combined aztreonam and gentamicin therapy for pseudomonal lower respiratory tract infections.
+    Clin Therap 1994; 16:236-252.
+11. National Committee for Clinical Laboratory Standards.
+    Performance Standards for Antimicrobial Susceptibility Testing— Eleventh Informational Supplement, NCCLS Document M100-S11, Vol. 21, No. 1, NCCLS, Wayne, PA, January 2001.
