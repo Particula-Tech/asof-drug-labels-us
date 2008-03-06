@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The adverse reaction information concerning ATROVENT HFA Inhalation Aerosol is derived from two 12-week, double-blind, parallel group studies and one open-label, parallel group study that compared ATROVENT HFA Inhalation Aerosol, Atrovent® (ipratropium bromide) Inhalation Aerosol CFC, and placebo (in one study only) in 1,010 COPD patients.
+The adverse reaction information concerning ATROVENT HFA Inhalation Aerosol is derived from two 12-week, double-blind, parallel group studies and one open-label, parallel group study that compared ATROVENT HFA Inhalation Aerosol, ATROVENT Inhalation Aerosol CFC, and placebo (in one study only) in 1,010 COPD patients.
 The following table lists the incidence of adverse events that occurred at a rate of greater than or equal to 3% in any ipratropium bromide group.
 Overall, the incidence and nature of the adverse events reported for ATROVENT HFA Inhalation Aerosol, ATROVENT Inhalation Aerosol CFC, and placebo were comparable.
 
@@ -38,13 +38,13 @@ The most common drug-related adverse events were dry mouth (1.6% of ATROVENT HFA
 
 As an anticholinergic drug, cases of precipitation or worsening of narrow-angle glaucoma, mydriasis, acute eye pain, hypotension, palpitations, urinary retention, tachycardia, constipation, bronchospasm, including paradoxical bronchospasm have been reported.
 
-Allergic-type reactions such as skin rash, pruritis, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported (see CONTRAINDICATIONS).
+Allergic-type reactions such as skin rash, pruritus, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported (see CONTRAINDICATIONS).
 
 ## Post-Marketing Experience
 
-Post-marketing experience with Atrovent® (ipratropium bromide) Inhalation Aerosol CFC in a 5-year placebo-controlled study, found that hospitalizations for supraventricular tachycardia and atrial fibrillation occurred with an incidence rate of 0.5% in patients receiving ATROVENT Inhalation Aerosol CFC.
+In a 5-year placebo-controlled trial, hospitalizations for supraventricular tachycardia and/or atrial fibrillation occurred with an incidence rate of 0.5% in COPD patients receiving ATROVENT Inhalation Aerosol CFC.
 
 Allergic-type reactions such as skin rash, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported, with positive rechallenge in some cases.
 Many of the patients had a history of allergies to other drugs and/or foods, including soybean.
 
-Additionally, urinary retention, mydriasis, and bronchospasm, including paradoxical bronchospasm, have been reported during the post-marketing period with use of ATROVENT Inhalation Aerosol CFC.
+Additionally, urinary retention, mydriasis, gastrointestinal distress (diarrhea, nausea, vomiting), and bronchospasm, including paradoxical bronchospasm, have been reported during the post-marketing period with use of ATROVENT Inhalation Aerosol CFC.

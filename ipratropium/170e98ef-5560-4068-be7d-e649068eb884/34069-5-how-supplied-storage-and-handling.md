@@ -15,7 +15,7 @@ For optimal results, the canister should be at room temperature before use.
 
 Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257 or (800) 459-9906 TTY.
 
-Patients should be reminded to read and follow the accompanying “Instructions for Use”, which should be dispensed with the product.
+Patients should be reminded to read and follow the accompanying “Patient's Instructions for Use”, which should be dispensed with the product.
 
 Contents Under Pressure: Do not puncture.
 Do not use or store near heat or open flame.
@@ -25,14 +25,12 @@ Never throw the inhaler into a fire or incinerator.
 Warning: Keep out of children's reach.
 Avoid spraying in eyes.
 
-Manufactured for: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
-
-Manufactured by: 3M Pharmaceuticals St. Paul, MN 55144 USA
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-©Copyright Boehringer Ingelheim International GmbH 2006, ALL RIGHTS RESERVED
+©Copyright Boehringer Ingelheim International GmbH 2007, ALL RIGHTS RESERVED
 
-Revised: January 23, 2006
+Rev: July 2007
 
-IT1902B 10003001/US/3 10003001/03 U.S. Patent No. 6,739,333
+IT1902CG0507 10003001/US/4 10003001/US/4 U.S. Patent No. 6,739,333

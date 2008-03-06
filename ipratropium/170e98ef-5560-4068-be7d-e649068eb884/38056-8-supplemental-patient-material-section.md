@@ -1,12 +1,8 @@
 ## Patient's Instructions for Use
 
-Atrovent®HFA
+Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol
 
-(ipratropium bromide HFA)
-
-Inhalation Aerosol
-
-Read all of the instructions carefully before using.
+Read complete instructions carefully before using.
 
 Important Points to Remember About Using ATROVENT HFA Inhalation Aerosol
 
@@ -61,7 +57,7 @@ Instructions
 
 This product does not contain any chlorofluorocarbon (CFC) propellants.
 
-The contents of ATROVENT® HFA (ipratropium bromide HFA) Inhalation Aerosol are under pressure.
+The contents of Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol are under pressure.
 Do not puncture the canister.
 Do not use or store near heat or open flame.
 Exposure to temperatures above 120°F may cause bursting.
@@ -76,14 +72,12 @@ Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 For best results, store the canister at room temperature before use.
 
-Manufactured for: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
-
-Manufactured by: 3M Pharmaceuticals St. Paul, MN 55144 USA
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-©Copyright Boehringer Ingelheim International GmbH 2006, ALL RIGHTS RESERVED
+©Copyright Boehringer Ingelheim International GmbH 2007, ALL RIGHTS RESERVED
 
-Revised: January 23, 2006
+Rev: July 2007
 
-IT1902B 10003001/US/3 10003001/03 U.S. Patent No. 6,739,333
+IT1902CG0507 10003001/US/4 10003001/US/4 U.S. Patent No. 6,739,333
