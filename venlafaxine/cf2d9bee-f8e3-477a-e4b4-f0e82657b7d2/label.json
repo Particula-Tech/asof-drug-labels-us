@@ -1,0 +1,20 @@
+{
+  "application_numbers": [],
+  "inn": "venlafaxine",
+  "labeler": "Wyeth Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0008-0701-07",
+    "0008-0701-08",
+    "0008-0703-07",
+    "0008-0703-08",
+    "0008-0704-07",
+    "0008-0704-08",
+    "0008-0705-07",
+    "0008-0705-08",
+    "0008-0781-07",
+    "0008-0781-08"
+  ],
+  "products": [],
+  "setid": "cf2d9bee-f8e3-477a-e4b4-f0e82657b7d2",
+  "source": "dailymed"
+}
