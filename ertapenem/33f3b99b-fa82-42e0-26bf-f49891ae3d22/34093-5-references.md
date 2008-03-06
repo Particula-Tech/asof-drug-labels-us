@@ -13,19 +13,19 @@
    Ninth Edition; Approved Standard, CLSI Document M2-A9.
    Clinical and Laboratory Standards Institute, Wayne, PA, January 2006.
 4. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria– Sixth Edition; Approved Standard, CLSI Document M11-A6.
+   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria – Sixth Edition; Approved Standard, CLSI Document M11-A6.
    Clinical and Laboratory Standards Institute, Wayne, PA, January 2004.
 
 Manuf for: Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-By: Laboratories Merck Sharp& Dohme-Chibret
+By: Laboratories Merck Sharp & Dohme-Chibret
 
 63963 Clermont-Ferrand Cedex 9, France
 
 US Patent Nos.: 5,478,820; 5,952,323; 5,652,233
 
-Issued August 2006
+Issued December 2007
 
-9709701
+9709705
 
-354A-08/06 512160Z
+736A-12/07 515012Z

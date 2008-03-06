@@ -6,6 +6,8 @@ No. 3843—1 g ertapenem equivalent
 
 NDC 0006-3843-71 in trays of 10 vials
 
-No. 3843—1 g ertapenem equivalent
+INVANZ is supplied as a sterile lyophilized powder in single dose ADD-Vantage® vials containing ertapenem for intravenous infusion as follows:
 
-NDC 0006-3843-45 in trays of 25 vials.
+No. 3845—1 g ertapenem equivalent
+
+NDC 0006-3845-71 in trays of 10 ADD-Vantage® vials.

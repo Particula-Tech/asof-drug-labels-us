@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-INVANZRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 2001, 2003, 2004, 2005 MERCK & CO., Inc. All rights reserved (Ertapenem for Injection) is a sterile, synthetic, parenteral, 1-β methyl-carbapenem that is structurally related to beta-lactam antibiotics.
+INVANZRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 2001, 2003-2007 MERCK & CO., Inc. All rights reserved (Ertapenem for Injection) is a sterile, synthetic, parenteral, 1-β methyl-carbapenem that is structurally related to beta-lactam antibiotics.
 
 Chemically, INVANZ is described as [4R-[3(3S *,5S*),4α,5β,6β(R *)]]-3-[[5-[[(3- carboxyphenyl)amino]carbonyl]-3-pyrrolidinyl]thio]-6-(1-hydroxyethyl)-4-methyl-7-oxo-1- azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid monosodium salt.
 Its molecular weight is 497.50.

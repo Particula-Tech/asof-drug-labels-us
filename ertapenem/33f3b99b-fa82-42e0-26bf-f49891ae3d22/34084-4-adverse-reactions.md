@@ -131,7 +131,7 @@ Table 8 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 
 
 | Adverse Events | (N=384) | (N=100) | (N=24) |
 | --- | --- | --- | --- |
-|  | INVANzIncludes Phase IIb Complicated skin and skin structure infections, Community acquired pneumonia and Complicated urinary tract infections studies in which patients 3 months to 12 years of age received INVANZ 15 mg/kg IV twice daily up to a maximum of 1 g or ceftriaxone 50 mg/kg/day IV in two divided doses up to a maximum of 2 g, and patients 13 to 17 years of age received INVANZ 1 g IV daily or ceftriaxone 50 mg/kg/day IV in a single daily dose.Includes Phase IIb Acute pelvic infections and Complicated intra-abdominal infections studies in which patients 3 months to 12 years of age received INVANZ 15 mg/kg IV twice daily up to a maximum of 1 g and patients 13 to 17 years of age received INVANZ 1 g IV daily or ticarcillin/clavulanate 50 mg/kg for patients <60 kg or ticarcillin/clavulanate 3.0 g for patients >60 kg, 4 or 6 times a day. | Ceftriaxone | Ticarcillin/ Clavulanate |
+|  | INVANZIncludes Phase IIb Complicated skin and skin structure infections, Community acquired pneumonia and Complicated urinary tract infections studies in which patients 3 months to 12 years of age received INVANZ 15 mg/kg IV twice daily up to a maximum of 1 g or ceftriaxone 50 mg/kg/day IV in two divided doses up to a maximum of 2 g, and patients 13 to 17 years of age received INVANZ 1 g IV daily or ceftriaxone 50 mg/kg/day IV in a single daily dose.Includes Phase IIb Acute pelvic infections and Complicated intra-abdominal infections studies in which patients 3 months to 12 years of age received INVANZ 15 mg/kg IV twice daily up to a maximum of 1 g and patients 13 to 17 years of age received INVANZ 1 g IV daily or ticarcillin/clavulanate 50 mg/kg for patients <60 kg or ticarcillin/clavulanate 3.0 g for patients >60 kg, 4 or 6 times a day. | Ceftriaxone | Ticarcillin/ Clavulanate |
 | Local: |  |  |  |
 | Infusion Site Erythema | 3.9 | 3.0 | 8.3 |
 | Infusion Site Induration | 1.0 | 1.0 | 0.0 |
@@ -236,7 +236,7 @@ Additional laboratory adverse experiences that were reported during therapy and 
 ### Pediatric Patients
 
 Laboratory adverse experiences that were reported during therapy in ≥1.0% of pediatric patients treated with INVANZ in clinical studies are presented in Table 10.
-Drug-related laboratory adverse experiences that were reported during therapy in≥2.0% of pediatric patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, in clinical studies were neutrophil count decreased (3.0%), ALT increased (2.2%), and AST increased (2.1%).
+Drug-related laboratory adverse experiences that were reported during therapy in ≥2.0% of pediatric patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, in clinical studies were neutrophil count decreased (3.0%), ALT increased (2.2%), and AST increased (2.1%).
 
 Table 10 IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test; where at least 300 patients had the test (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Pediatric Patients Treated With INVANZ in Clinical Studies
 

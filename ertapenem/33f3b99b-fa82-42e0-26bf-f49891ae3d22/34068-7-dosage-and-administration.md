@@ -30,7 +30,7 @@ Table 12 Prophylaxis Guidelines for Adults
 | --- | --- | --- |
 | Prophylaxis of surgical site infection following elective colorectal surgery | 1 g | Single intravenous dose given 1 hour prior to surgical incision |
 
-Patients with RenalInsufficiency: INVANZ may be used for the treatment of infections in adult patients with renal insufficiency.
+Patients with Renal Insufficiency: INVANZ may be used for the treatment of infections in adult patients with renal insufficiency.
 In patients whose creatinine clearance is >30 mL/min/1.73 m2, no dosage adjustment is necessary.
 Adult patients with advanced renal insufficiency (creatinine clearance ≤30 mL/min/1.73 m2) and end-stage renal insufficiency (creatinine clearance ≤10 mL/min/1.73 m2) should receive 500 mg daily.
 There are no data in pediatric patients with renal insufficiency.
@@ -58,9 +58,11 @@ No dosage adjustment is recommended based on age (13 years of age and older) or 
 
 ## PREPARATION OF SOLUTION
 
-### Adults and pediatric patients 13 years of age and older
+### Vials
 
-#### Preparation for intravenous administration:
+#### Adults and pediatric patients 13 years of age and older
+
+##### Preparation for intravenous administration:
 
 DO NOT MIX OR CO-INFUSE INVANZ WITH OTHER MEDICATIONS.
 DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
@@ -71,7 +73,7 @@ INVANZ MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 2. Shake well to dissolve and immediately transfer contents of the reconstituted vial to 50 mL of 0.9% Sodium Chloride Injection.
 3. Complete the infusion within 6 hours of reconstitution.
 
-#### Preparation for intramuscular administration:
+##### Preparation for intramuscular administration:
 
 INVANZ MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
@@ -82,9 +84,9 @@ INVANZ MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 3. The reconstituted IM solution should be used within 1 hour after preparation.
    NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
 
-### Pediatric patients 3 months to 12 years of age:
+#### Pediatric patients 3 months to 12 years of age:
 
-#### Preparation for intravenous administration:
+##### Preparation for intravenous administration:
 
 DO NOT MIX OR CO-INFUSE INVANZ WITH OTHER MEDICATIONS.
 DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
@@ -95,7 +97,7 @@ INVANZ MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 2. Shake well to dissolve and immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and dilute in 0.9% Sodium Chloride Injection to a final concentration of 20 mg/mL or less.
 3. Complete the infusion within 6 hours of reconstitution.
 
-#### Preparation for intramuscular administration:
+##### Preparation for intramuscular administration:
 
 INVANZ MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
@@ -104,6 +106,11 @@ INVANZ MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 2. Immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
 3. The reconstituted IM solution should be used within 1 hour after preparation.
    NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
+
+ADD-Vantage®Registered trademark of Hospira Laboratories, Inc Vials
+
+See separate INSTRUCTIONS FOR USE OF INVANZ (Ertapenem for Injection) IN ADD-Vantage® VIALS.
+INVANZ in ADD-Vantage® vials should be reconstituted with ADD-Vantage® diluent containers containing 50 mL or 100 mL of 0.9% Sodium Chloride Injection.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to use, whenever solution and container permit.
 Solutions of INVANZ range from colorless to pale yellow.

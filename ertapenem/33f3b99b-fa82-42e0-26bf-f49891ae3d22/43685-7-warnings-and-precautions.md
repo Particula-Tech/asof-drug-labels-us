@@ -8,18 +8,26 @@ IF AN ALLERGIC REACTION TO INVANZ OCCURS, DISCONTINUE THE DRUG IMMEDIATELY.
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE, OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION.
 OTHER THERAPY MAY ALSO BE ADMINISTERED AS INDICATED.
 
+## Seizure Potential
+
 Seizures and other CNS adverse experiences have been reported during treatment with INVANZ.
 (See PRECAUTIONS and ADVERSE REACTIONS.)
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including ertapenem, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Carbapenems may reduce serum valproic acid concentrations to subtherapeutic levels, resulting in loss of seizure control.
+Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop below the therapeutic range or a seizure occurs.
+(See PRECAUTIONS, Drug Interactions.)
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of “antibiotic associated colitis”.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ertapenem, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of Clostridium difficile.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
+Clostridium difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of Clostridium difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against Clostridium difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of Clostridium difficile, and surgical evaluation should be instituted as clinically indicated.
 
 Lidocaine HCl is the diluent for intramuscular administration of INVANZ.
 Refer to the prescribing information for lidocaine HCl.
@@ -56,6 +64,10 @@ They do not treat viral infections (e.g., the common cold).
 When INVANZ is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by INVANZ or other antibacterial drugs in the future.
 
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
+
 ## Laboratory Tests
 
 While INVANZ possesses toxicity similar to the beta-lactam group of antibiotics, periodic assessment of organ system function, including renal, hepatic, and hematopoietic, is advisable during prolonged therapy.
@@ -73,6 +85,12 @@ Drug interactions caused by inhibition of P-glycoprotein-mediated drug clearance
 (See CLINICAL PHARMACOLOGY, Distribution and Metabolism.)
 
 Other than with probenecid, no specific clinical drug interaction studies have been conducted.
+
+A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics and may result in loss of seizure control.
+Although the mechanism of this interaction is not fully understood, data from in vitro and animal studies suggest that carbapenem antibiotics may inhibit valproic acid glucuronide hydrolysis.
+Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop below the therapeutic range or a seizure occurs.
+(See WARNINGS, Seizure Potential.)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

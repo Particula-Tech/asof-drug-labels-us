@@ -12,7 +12,7 @@ Table 1 Plasma Concentrations of Ertapenem in Adults After Single Dose Administr
 | 1 g IVInfused at a constant rate over 30 minutes | 155 | 115 | 83 | 48 | 31 | 20 | 9 | 3 | 1 |
 | 1 g IM | 33 | 53 | 67 | 57 | 40 | 27 | 13 | 4 | 2 |
 
-The area under the plasma concentration-time curve (AUC) of ertapenem in adults increased less-than dose-proportional based on total ertapenem concentrations over the 0.5 to 2 g dose range, whereas the AUC increased greater-than dose proportional based on unbound ertapenem concentrations.
+The area under the plasma concentration-time curve (AUC) of ertapenem in adults increased less-than dose-proportional based on total ertapenem concentrations over the 0.5 to 2 g dose range, whereas the AUC increased greater-than dose-proportional based on unbound ertapenem concentrations.
 Ertapenem exhibits non-linear pharmacokinetics due to concentration-dependent plasma protein binding at the proposed therapeutic dose.
 (See CLINICAL PHARMACOLOGY, Distribution.)
 
@@ -66,7 +66,7 @@ In healthy young adults, after infusion of 1 g IV radiolabeled ertapenem, the pl
 The major metabolite of ertapenem is the inactive ring-opened derivative formed by hydrolysis of the beta-lactam ring.
 
 In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the following cytochrome p450 (CYP) isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
-(See Drug Interactions.)
+(See PRECAUTIONS, Drug Interactions.)
 
 In vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport.
 (See PRECAUTIONS, Drug Interactions.)
@@ -111,7 +111,7 @@ No dose adjustment is recommended based on gender.
 
 ### Geriatric Patients
 
-The impact of age on the pharmacokinetics of ertapenem was evaluated in healthy male (n=7) and healthy female (n=7) subjects≥65 years of age.
+The impact of age on the pharmacokinetics of ertapenem was evaluated in healthy male (n=7) and healthy female (n=7) subjects ≥65 years of age.
 The total and unbound AUC increased 37% and 67%, respectively, in elderly adults relative to young adults.
 These changes were attributed to age-related changes in creatinine clearance.
 No dosage adjustment is necessary for elderly patients with normal (for their age) renal function.
@@ -194,7 +194,7 @@ The MIC values obtained should be interpreted according to criteria provided in 
 
 Table 4 Susceptibility Interpretive Criteria for Ertapenem
 
-| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than“Susceptible”. Isolates yielding MIC results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
+| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding MIC results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | S | I | R | S | I | R |
 | Enterobacteriaceae and Staphylococcus spp. | ≤2.0 | 4.0 | ≥8.0 | ≥19 | 16-18 | ≤15 |
@@ -210,7 +210,7 @@ Coagulase negative staphylococci can be considered susceptible to ertapenem if t
 
 Staphylococcus spp. can be considered susceptible to ertapenem if the penicillin (10 U disk) zone is ≥29 mm.
 If the penicillin zone is ≤28 mm, then test oxacillin by disk diffusion (1 µg disk).
-Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin (1 µg disk) zone is≥13 mm and resistant to ertapenem if the oxacillin zone is≤10 mm.
+Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin (1 µg disk) zone is ≥13 mm and resistant to ertapenem if the oxacillin zone is ≤10 mm.
 Coagulase negative staphylococci can be considered susceptible to ertapenem if the oxacillin zone is ≥18 mm and resistant to ertapenem if the oxacillin (1 µg disk) zone is ≤17 mm.
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in blood reaches the concentrations usually achievable.
