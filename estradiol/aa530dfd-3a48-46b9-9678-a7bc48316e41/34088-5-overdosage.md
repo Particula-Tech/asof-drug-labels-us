@@ -1,0 +1,4 @@
+# OVERDOSAGE
+
+Overdosage of estrogen may cause nausea and vomiting, breast tenderness, abdominal pain, drowsiness/fatigue and withdrawal bleeding may occur in females.
+Treatment of overdose consists of discontinuation of ESTRING together with institution of appropriate symptomatic care.
