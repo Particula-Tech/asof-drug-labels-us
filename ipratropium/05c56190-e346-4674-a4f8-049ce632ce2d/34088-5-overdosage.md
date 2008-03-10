@@ -1,0 +1,8 @@
+# OVERDOSAGE
+
+Acute overdosage by intranasal administration is unlikely since ipratropium bromide is not well absorbed systemically after intranasal or oral administration.
+Following administration of a 20 mg oral dose (equivalent to ingesting more than four bottles of Ipratropium Bromide Nasal Spray 0.03%) to 10 male volunteers, no change in heart rate or blood pressure was noted.
+Following a 2 mg intravenous infusion over 15 minutes to the same 10 male volunteers, plasma ipratropium concentrations of 22 to 45 ng/mL were observed (>100 times the concentrations observed following intranasal administration).
+Following intravenous infusion these 10 volunteers had a mean increase of heart rate of 50 bpm and less than 20 mmHg change in systolic or diastolic blood pressure at the time of peak ipratropium levels.
+
+Oral median lethal doses of ipratropium bromide were greater than 1,000 mg/kg in mice (approximately 16,000 and 9,500 times the maximum recommended daily intranasal dose in adults and children, respectively, on a mg/m2 basis), 1,700 mg/kg in rats (approximately 55,000 and 32,000 times the maximum recommended daily intranasal dose in adults and children, respectively, on a mg/m2 basis), and 400 mg/kg in dogs (approximately 43,000 and 25,000 times the maximum recommended daily intranasal dose in adults and children, respectively, on a mg/m2 basis).
