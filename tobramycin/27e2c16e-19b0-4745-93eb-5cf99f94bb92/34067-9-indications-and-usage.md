@@ -1,0 +1,5 @@
+# INDICATIONS AND USAGE
+
+Tobramycin Ophthalmic Solution USP, 0.3% is a topical antibiotic indicated in the treatment of external infections of the eye and its adnexa caused by susceptible bacteria.
+Appropriate monitoring of bacterial response to topical antibiotic therapy should accompany the use of Tobramycin Ophthalmic Solution USP, 0.3%.
+Clinical studies have shown tobramycin to be safe and effective for use in children.
