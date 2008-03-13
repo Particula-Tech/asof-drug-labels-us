@@ -1,0 +1,5 @@
+# INDICATIONS AND USAGE
+
+Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution is indicated in the treatment of surface ocular bacterial infections, including acute bacterial conjunctivitis, and blepharoconjunctivitis, caused by susceptible strains of the following microorganisms: Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae, Streptococcus viridans, Haemophilus influenzae and Pseudomonas aeruginosa.*
+
+*Efficacy for this organism in this organ system was studied in fewer than 10 infections.
