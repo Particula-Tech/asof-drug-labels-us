@@ -1,7 +1,9 @@
 # DESCRIPTION
 
-Iohexol, N,N´ - Bis(2,3-dihydroxypropyl)-5-[N-(2,3-dihydroxypropyl)-acetamido]-2,4,6-triiodo-isophthalamide, is a nonionic, water-soluble radiographic contrast medium with a molecular weight of 821.14 (iodine content 46.36%).
-In aqueous solution each triiodinated molecule remains undissociated.The chemical structure is:
+Iohexol,N,N´ - Bis(2,3-dihydroxypropyl)-5-[N-(2,3-dihydroxypropyl)-acetamido]-2,4,6-triiodo-isophthalamide, is a nonionic, water-soluble radiographic contrast medium with a molecular weight of 821.14 (iodine content 46.36%).
+In aqueous solution each triiodinated molecule remains undissociated.
+
+The chemical structure is:
 
 OMNIPAQUE is provided as a sterile, pyrogen-free, colorless to pale-yellow solution, in the following iodine concentrations: 140, 180, 240, 300, and 350 mgI/mL.
 OMNIPAQUE 140 contains 302 mg of iohexol equivalent to 140 mg of organic iodine per mL; OMNIPAQUE 180 contains 388 mg of iohexol equivalent to 180 mg of organic iodine per mL; OMNIPAQUE 240 contains 518 mg of iohexol equivalent to 240 mg of organic iodine per mL; OMNIPAQUE 300 contains 647 mg of iohexol equivalent to 300 mg of organic iodine per mL; and OMNIPAQUE 350 contains 755 mg of iohexol equivalent to 350 mg of organic iodine per mL.
