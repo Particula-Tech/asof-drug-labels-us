@@ -14,13 +14,13 @@ Hematologic: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thr
 
 Hypersensitivity: Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, fever, urticaria, rash, purpura.
 
-Metabolic: Electrolyte imbalance (see PRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia.
+Metabolic: Electrolyte imbalance (seePRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia.
 
 Musculoskeletal: Muscle spasm.
 
 Nervous System/Psychiatric: Vertigo, paresthesia, dizziness, headache, restlessness.
 
-Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS).
+Renal: Renal failure, renal dysfunction, interstitial nephritis (seeWARNINGS).
 
 Skin: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia.
 

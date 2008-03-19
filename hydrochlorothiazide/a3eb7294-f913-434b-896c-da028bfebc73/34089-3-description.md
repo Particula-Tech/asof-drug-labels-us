@@ -7,4 +7,6 @@ Its empirical formula is C7H8ClN3O4S2; its molecular weight is 297.74; and its s
 It is a white, or practically white, crystalline powder which is slightly soluble in water, but freely soluble in sodium hydroxide solution.
 
 Hydrochlorothiazide is supplied as 12.5 mg capsules for oral use.
-Each capsule contains the following inactive ingredients: colloidal silicon dioxide, corn starch, D&C Red #28, D&C Yellow #10, FD&C Blue #1, gelatin, lactose monohydrate, magnesium stearate, titanium dioxide and other ingredients.
+Inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrate, magnesium stearate.
+Gelatin capsules contain D&C Red #28, D&C Yellow #10, FD&C Blue #1, gelatin, titanium dioxide.
+The capsules are printed with edible ink containing black iron oxide, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40.

@@ -6,7 +6,7 @@ With continued use of hydrochlorothiazide and depletion of sodium, compensatory 
 Hydrochlorothiazide also decreases the excretion of calcium and uric acid, may increase the excretion of iodide and may reduce glomerular filtration rate.
 Metabolic toxicities associated with excessive electrolyte changes caused by hydrochlorothiazide have been shown to be dose-related.
 
-## Pharmacokinetics and Metabolism:
+Pharmacokinetics and Metabolism:
 
 Hydrochlorothiazide is well absorbed (65% to 75%) following oral administration.
 Absorption of hydrochlorothiazide is reduced in patients with congestive heart failure.
