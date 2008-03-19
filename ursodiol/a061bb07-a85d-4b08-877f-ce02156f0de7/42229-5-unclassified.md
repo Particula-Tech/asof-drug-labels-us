@@ -1,4 +1,4 @@
-# Prescribing Information
+Prescribing Information
 
 SPECIAL NOTE
 

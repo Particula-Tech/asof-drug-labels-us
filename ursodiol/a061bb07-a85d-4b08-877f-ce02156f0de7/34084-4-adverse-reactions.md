@@ -23,8 +23,7 @@ GALLSTONE DISSOLUTION
 | Diarrhea | 42 | (27.1) | 34 | (21.4) |
 | Dyspepsia | 26 | (16.8) | 18 | (11.3) |
 | Flatulence | 12 | (7.7) | 12 | (7.5) |
-| Gastrointestinal |  |  |  |  |
-| Disorder | 6 | (3.9) | 8 | (5.0) |
+| Gastrointestinal Disorder | 6 | (3.9) | 8 | (5.0) |
 | Nausea | 22 | (14.2) | 27 | (17.0) |
 | Vomiting | 15 | (9.7) | 11 | (6.9) |
 | Musculoskeletal System |  |  |  |  |
@@ -44,8 +43,7 @@ GALLSTONE DISSOLUTION
 | Upper Respiratory |  |  |  |  |
 | Tract Infection | 24 | (15.5) | 21 | (13.2) |
 | Urogenital System |  |  |  |  |
-| Urinary Tract |  |  |  |  |
-| Infection | 10 | (6.5) | 7 | (4.4) |
+| Urinary Tract Infection | 10 | (6.5) | 7 | (4.4) |
 
 GALLSTONE PREVENTION
 
@@ -57,8 +55,7 @@ GALLSTONE PREVENTION
 | Body as a Whole |  |  |  |  |
 | Fatigue | 25 | (7.8) | 33 | (10.2) |
 | Infection Viral | 29 | (9.0) | 29 | (8.9) |
-| Influenza-like |  |  |  |  |
-| Symptoms | 21 | (6.5) | 19 | (5.8) |
+| Influenza-like Symptoms | 21 | (6.5) | 19 | (5.8) |
 | Digestive System |  |  |  |  |
 | Abdominal Pain | 20 | (6.2) | 39 | (12.0) |
 | Constipation | 85 | (26.4) | 72 | (22.2) |
@@ -68,8 +65,7 @@ GALLSTONE PREVENTION
 | Vomiting | 44 | (13.7) | 44 | (13.5) |
 | Musculoskeletal System |  |  |  |  |
 | Back Pain | 38 | (11.8) | 21 | (6.5) |
-| Musculoskeletal |  |  |  |  |
-| Pain | 19 | (5.9) | 15 | (4.6) |
+| Musculoskeletal Pain | 19 | (5.9) | 15 | (4.6) |
 | Nervous System |  |  |  |  |
 | Dizziness | 53 | (16.5) | 42 | (12.9) |
 | Headache | 80 | (24.8) | 78 | (24.0) |

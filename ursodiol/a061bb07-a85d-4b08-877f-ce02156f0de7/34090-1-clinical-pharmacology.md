@@ -4,7 +4,7 @@ About 90% of a therapeutic dose of ursodiol is absorbed in the small bowel after
 After absorption, ursodiol enters the portal vein and undergoes efficient extraction from portal blood by the liver (i.e., there is a large “first-pass” effect) where it is conjugated with either glycine or taurine and is then secreted into the hepatic bile ducts.
 Ursodiol in bile is concentrated in the gallbladder and expelled into the duodenum in gallbladder bile via the cystic and common ducts by gallbladder contractions provoked by physiologic responses to eating.
 Only small quantities of ursodiol appear in the systemic circulation and very small amounts are excreted into urine.
-The sites of the drug's therapeutic actions are in the liver, bile, and gut lumen.
+The sites of the drug’s therapeutic actions are in the liver, bile, and gut lumen.
 
 Beyond conjugation, ursodiol is not altered or catabolized appreciably by the liver or intestinal mucosa.
 A small proportion of orally administered drug undergoes bacterial degradation with each cycle of enterohepatic circulation.
@@ -21,7 +21,7 @@ The 7-dehydroxylation reaction appears to be alpha-specific, i.e., chenodiol is 
 Man has the capacity to sulfate lithocholic acid.
 Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals, but such a deficiency has not yet been clearly demonstrated.
 
-Pharmacodynamics
+## Pharmacodynamics
 
 Ursodiol suppresses hepatic synthesis and secretion of cholesterol, and also inhibits intestinal absorption of cholesterol.
 It appears to have little inhibitory effect on synthesis and secretion into bile of endogenous bile acids, and does not appear to affect secretion of phospholipids into bile.
@@ -36,11 +36,11 @@ The various actions of ursodiol combine to change the bile of patients with gall
 
 After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5%-10% of its steady-state level in about 1 week.
 
-Clinical Results
+## Clinical Results
 
 Gallstone Dissolution
 
-On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6-78 months with ursodiol doses ranging from about 5 to 20 mg/kg/day, an ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
+On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6-78 months with ursodiol doses ranging from about 5-20 mg/kg/day, an ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
 With an ursodiol dose of about 10 mg/kg/day, complete stone dissolution can be anticipated in about 30% of unselected patients with uncalcified gallstones < 20 mm in maximal diameter treated for up to 2 years.
 Patients with calcified gallstones prior to treatment, or patients who develop stone calcification or gallbladder nonvisualization on treatment, and patients with stones > 20 mm in maximal diameter rarely dissolve their stones.
 The chance of gallstone dissolution is increased up to 50% in patients with floating or floatable stones (i.e., those with high cholesterol content), and is inversely related to stone size for those < 20 mm in maximal diameter.
@@ -50,7 +50,7 @@ Age, sex, weight, degree of obesity, and serum cholesterol level are not related
 A nonvisualizing gallbladder by oral cholecystogram prior to the initiation of therapy is not a contraindication to ursodiol therapy (the group of patients with nonvisualizing gallbladders in the ursodiol studies had complete stone dissolution rates similar to the group of patients with visualizing gallbladders).
 However, gallbladder nonvisualization developing during ursodiol treatment predicts failure of complete stone dissolution and in such cases therapy should be discontinued.
 
-Partial stone dissolution occurring within 6 months of beginning therapy with ursodiol appears to be associated with a > 70% chance of eventual complete stone dissolution with further treatment; partial dissolution observed within 1 year of starting therapy indicates a 40% probability of complete dissolution.
+Partial stone dissolution occurring within 6 months of beginning therapy with ursodiol appears to be associated with a >70% chance of eventual complete stone dissolution with further treatment; partial dissolution observed within 1 year of starting therapy indicates a 40% probability of complete dissolution.
 
 Stone recurrence after dissolution with ursodiol therapy was seen within 2 years in 8/27 (30%) of patients in the U.K. studies.
 Of 16 patients in the U.K. study whose stones had previously dissolved on chenodiol but later recurred, 11 had complete dissolution on ursodiol.
@@ -72,24 +72,24 @@ The mean weight loss for this 6-month trial was 64 lb for the placebo group, and
 
 ALTERNATIVE THERAPIES
 
-Watchful Waiting
+## Watchful Waiting
 
 Watchful waiting has the advantage that no therapy may ever be required.
 For patients with silent or minimally symptomatic stones, the rate of development of moderate-to-severe symptoms or gallstone complications is estimated to be between 2% and 6% per year, leading to a cumulative rate of 7%-27% in 5 years.
 Presumably the rate is higher for patients already having symptoms.
 
-Cholecystectomy
+## Cholecystectomy
 
 For patients with symptomatic gallstones, surgery offers the advantage of immediate and permanent stone removal, but carries a high risk in some patients.
 About 5% of cholecystectomized patients have residual symptoms or retained common duct stones.
 The spectrum of surgical risk varies as a function of age and the presence of disease other than cholelithiasis.
 
-Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 1966; 197:775-8) 27,600 Cholecystectomies (Smoothed Rates) Deaths/1000 Operations***
+Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 1966; 197:775-8) 27,600 Cholecystectomies (Smoothed Rates) Deaths/1,000 Operations***
 
-|  | Age (Yrs) | Cholecystectomy | Exploration |
+|  |  |  | Exploration |
 | --- | --- | --- | --- |
-|  |  |  | Cholecystectomy |
-| Low Risk Patients* |  |  | +Common Duct |
+| Low Risk Patients* | Age (Yrs) | Cholecystectomy | Cholecystectomy |
+|  |  |  | + Common Duct |
 | Women | 0-49 | .54 | 2.13 |
 |  | 50-69 | 2.80 | 10.10 |
 | Men | 0-49 | 1.04 | 4.12 |
