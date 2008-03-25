@@ -21,4 +21,12 @@ Headaches, usually mild to moderate in severity, have been reported in 2.9% of p
 
 Other adverse reactions reported, but not definitely related to the administration of milrinone include hypokalemia, 0.6%; tremor, 0.4%; and thrombocytopenia, 0.4%.
 
-Isolated spontaneous reports of bronchospasm and anaphylactic shock have been received; and in the post-marketing experience, liver function test abnormalities and skin reactions such as rash have been reported.
+## Post-Marketing Adverse Event Reports
+
+In addition to adverse events reported from clinical trials, the following events have been reported from worldwide post-marketing experience with Milrinone:
+
+Isolated spontaneous reports of bronchospasm and anaphylactic shock.
+
+Liver function test abnormalities and skin reactions such as rash.
+
+Administration site conditions: Infusion site reaction.

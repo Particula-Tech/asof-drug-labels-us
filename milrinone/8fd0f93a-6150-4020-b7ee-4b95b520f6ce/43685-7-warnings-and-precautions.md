@@ -24,7 +24,11 @@ Patients receiving milrinone should be closely monitored during infusion.
 Milrinone produces a slight shortening of AV node conduction time, indicating a potential for an increased ventricular response rate in patients with atrial flutter/fibrillation which is not controlled with digitalis therapy.
 
 During therapy with milrinone, blood pressure and heart rate should be monitored and the rate of infusion slowed or stopped in patients showing excessive decreases in blood pressure.
-If prior vigorous diuretic therapy is suspected to have caused significant decreases in cardiac filling pressure, milrinone should be cautiously administered with monitoring of blood pressure, heart rate, and clinical symptomatolgy.
+If prior vigorous diuretic therapy is suspected to have caused significant decreases in cardiac filling pressure, milrinone should be cautiously administered with monitoring of blood pressure, heart rate, and clinical symptomatology.
+
+There is no experience in controlled trials with infusions of milrinone for periods exceeding 48 hours.
+Cases of infusion site reaction have been reported with intravenous milrinone therapy (see ADVERSE REACTIONS).
+Consequently, careful monitoring of the infusion site should be maintained to avoid possible extravasation.
 
 ## Use in Acute Myocardial Infarction
 

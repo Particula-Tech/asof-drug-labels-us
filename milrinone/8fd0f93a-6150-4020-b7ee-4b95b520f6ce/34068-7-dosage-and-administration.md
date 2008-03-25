@@ -32,7 +32,7 @@ The infusion rate should be adjusted according to hemodynamic and clinical respo
 Patients should be closely monitored.
 In controlled clinical studies, most patients showed an improvement in hemodynamic status as evidenced by increases in cardiac output and reductions in pulmonary capillary wedge pressure.
 
-Note: See " Dosage Adjustment in Renally Impaired Patients."
+Note: See "Dosage Adjustment in Renally Impaired Patients."
 Dosage may be titrated to the maximum hemodynamic effect and should not exceed 1.13 mg/kg/day.
 Duration of therapy should depend upon patient responsiveness.
 
