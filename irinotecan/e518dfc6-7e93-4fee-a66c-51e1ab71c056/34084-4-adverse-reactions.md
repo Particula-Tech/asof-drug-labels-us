@@ -329,17 +329,20 @@ As a result of these observations, however, clinical studies in the United State
 ## Post-Marketing Experience
 
 The following events have been identified during postmarketing use of CAMPTOSAR in clinical practice.
+Myocardial ischemic events have been observed following irinotecan therapy predominantly in patients with underlying cardiac disease, other known risk factors for cardiac disease or previous cytotoxic chemotherapy (See also Table 7, thromboembolic events).
 Infrequent cases of ulcerative and ischemic colitis have been observed.
 This can be complicated by ulceration, bleeding, ileus, obstruction, and infection, including typhlitis.
 Patients experiencing ileus should receive prompt antibiotic support (see PRECAUTIONS).
-Rare cases of intestinal perforation have been reported.
+Rare cases of megacolon and intestinal perforation have been reported.
 Rare cases of symptomatic pancreatitis or asymptomatic elevated pancreatic enzymes have been observed.
 
 Hypersensitivity reactions including severe anaphylactic or anaphylactoid reactions have also been observed (see WARNINGS).
 
 Rare cases of hyponatremia mostly related with diarrhea and vomiting have been reported.
-Transient and mild to moderate increases in serum levels of transaminases (i.e., AST and ALT) in the absence of progressive liver metastasis; transient increase of amylase and occasionally transient increase of lipase have been very rarely reported.
+Increases in serum levels of transaminases (i.e., AST and ALT) in the absence of progressive liver metastasis; transient increase of amylase and occasionally transient increase of lipase have been very rarely reported.
 
 Infrequent cases of renal insufficiency including acute renal failure, hypotension or circulatory failure have been observed in patients who experienced episodes of dehydration associated with diarrhea and/or vomiting, or sepsis (see WARNINGS).
 
 Early effects such as muscular contraction or cramps and paresthesia have been reported.
+
+Hiccups have been reported.

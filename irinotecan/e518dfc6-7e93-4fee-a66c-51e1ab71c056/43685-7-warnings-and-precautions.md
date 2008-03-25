@@ -88,6 +88,12 @@ Physicians should also consider providing patients with an antiemetic regimen (e
 Prophylactic or therapeutic administration of 0.25 to 1 mg of intravenous or subcutaneous atropine should be considered (unless clinically contraindicated) in patients experiencing rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping, or diarrhea (occurring during or shortly after infusion of CAMPTOSAR).
 These symptoms are expected to occur more frequently with higher irinotecan doses.
 
+### Immunosuppressant Effects/Increased Susceptibility to Infections
+
+Administration of live or live-attenuated vaccines in patients immunocompromised by chemotherapeutic agents including CAMPTOSAR, may result in serious or fatal infections.
+Vaccination with a live vaccine should be avoided in patients receiving irinotecan.
+Killed or inactivated vaccines may be administered; however, the response to such vaccines may be diminished.
+
 ### Patients at Particular Risk
 
 In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
