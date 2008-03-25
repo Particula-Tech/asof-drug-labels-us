@@ -1,17 +1,17 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action:
+## Mechanism of Action
 
 The mechanism of action of lenalidomide remains to be fully characterized.
-Lenalidomide possesses anti-neoplastic, immunomodulatory and antiangiogenic properties.
-Lenalidomide inhibited the secretion of pro-inflammatory cytokines and increased the secretion of anti-inflammatory cytokines from peripheral blood mononuclear cells.
+Lenalidomide possesses antineoplastic, immunomodulatory and antiangiogenic properties.
+Lenalidomide inhibited the secretion of pro-inflammatory cytokines and increased the secretion of antiinflammatory cytokines from peripheral blood mononuclear cells.
 Lenalidomide inhibited cell proliferation with varying effectiveness (IC50s) in some but not all cell lines.
 Of cell lines tested, lenalidomide was effective in inhibiting growth of Namalwa cells (a human B cell lymphoma cell line with a deletion of one chromosome 5) but was much less effective in inhibiting growth of KG-1 cells (human myeloblastic cell line, also with a deletion of one chromosome 5) and other cell lines without chromosome 5 deletions.
 Lenalidomide inhibited the growth of multiple myeloma cells from patients, as well as MM.1S cells (a human multiple myeloma cell line), by inducing cell cycle arrest and apoptosis.
 
 Lenalidomide inhibited the expression of cyclooxygenase-2 (COX-2) but not COX-1 in vitro.
 
-## Pharmacokinetics and Drug Metabolism:
+## Pharmacokinetics and Drug Metabolism
 
 ### Absorption:
 
@@ -26,7 +26,7 @@ In multiple myeloma patients maximum plasma concentrations occurred between 0.5 
 AUC and Cmax values increase proportionally with dose following single and multiple doses.
 Exposure (AUC) in multiple myeloma patients is 57% higher than in healthy male volunteers.
 
-### Pharmacokinetic Parameters:
+### Pharmacokinetic Parameters
 
 #### Distribution:
 
@@ -43,7 +43,7 @@ Half‑life of elimination is approximately 3 hours.
 
 Patients with Renal Insufficiency: The pharmacokinetics of lenalidomide in MDS patients with renal dysfunction has not been determined.
 In multiple myeloma patients, those with mild renal impairment had an AUC 56% greater than those with normal renal function.
-(See PRECAUTIONS: Renal Impairment).
+(See PRECAUTIONS: Renal Impairment)
 
 Patients with Hepatic Disease: The pharmacokinetics of lenalidomide in patients with hepatic impairment have not been studied.
 

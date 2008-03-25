@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-REVLIMID®(lenalidomide), a thalidomide analogue, is an immunomodulatory agent with anti-angiogenic and anti-neoplastic properties.
+REVLIMID®(lenalidomide), a thalidomide analogue, is an immunomodulatory agent with antiangiogenic and antineoplastic properties.
 The chemical name is 3-(4-amino-1-oxo 1,3-dihydro-2H-isoindol-2-yl) piperidine-2,6-dione and it has the following chemical structure:
 
 3-(4-amino-1-oxo 1,3-dihydro-2H-isoindol-2-yl) piperidine-2,6-dione

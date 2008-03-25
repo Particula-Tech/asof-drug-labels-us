@@ -16,17 +16,17 @@ FEMALES SHOULD BE ADVISED TO AVOID PREGNANCY WHILE TAKING REVLIMID® (lenalidomi
 Special Prescribing Requirements
 
 BECAUSE OF THIS POTENTIAL TOXICITY AND TO AVOID FETAL EXPOSURE TO REVLIMID® (lenalidomide), REVLIMID® (lenalidomide) IS ONLY AVAILABLE UNDER A SPECIAL RESTRICTED DISTRIBUTION PROGRAM.
-THIS PROGRAM IS CALLED "REVASSISTSM".
+THIS PROGRAM IS CALLED "RevAssist®".
 UNDER THIS PROGRAM, ONLY PRESCRIBERS AND PHARMACISTS REGISTERED WITH THE PROGRAM CAN PRESCRIBE AND DISPENSE THE PRODUCT.
-IN ADDITION, REVLIMID MUST ONLY BE DISPENSED TO PATIENTS WHO ARE REGISTERED AND MEET ALL THE CONDITIONS OF THE REVASSISTSM PROGRAM.
+IN ADDITION, REVLIMID® (lenalidomide) MUST ONLY BE DISPENSED TO PATIENTS WHO ARE REGISTERED AND MEET ALL THE CONDITIONS OF THE RevAssist® PROGRAM.
 
 PLEASE SEE THE FOLLOWING INFORMATION FOR PRESCRIBERS, FEMALE PATIENTS, AND MALE PATIENTS ABOUT THIS RESTRICTED DISTRIBUTION PROGRAM.
 
-REVASSISTSM PROGRAM DESCRIPTION
+RevAssist® PROGRAM DESCRIPTION
 
 Prescribers
 
-REVLIMID® (lenalidomide) can be prescribed only by licensed prescribers who are registered in the RevAssistSM program and understand the potential risk of teratogenicity if lenalidomide is used during pregnancy.
+REVLIMID® (lenalidomide) can be prescribed only by licensed prescribers who are registered in the RevAssist® program and understand the potential risk of teratogenicity if lenalidomide is used during pregnancy.
 
 Effective contraception must be used by female patients of childbearing potential for at least 4 weeks before beginning REVLIMID® (lenalidomide) therapy, during REVLIMID® (lenalidomide) therapy, during dose interruptions and for 4 weeks following discontinuation of REVLIMID® (lenalidomide) therapy.
 Reliable contraception is indicated even where there has been a history of infertility, unless due to hysterectomy or because the patient has been postmenopausal naturally for at least 24 consecutive months.
@@ -35,7 +35,7 @@ Females of childbearing potential should be referred to a qualified provider of 
 Sexually mature females who have not undergone a hysterectomy, have not had a bilateral oophorectomy or who have not been postmenopausal naturally for at least 24 consecutive months (i.e., who have had menses at some time in the preceding 24 consecutive months) are considered to be females of childbearing potential.
 
 Before prescribing REVLIMID® (lenalidomide), females of childbearing potential should have 2 negative pregnancy tests (sensitivity of at least 50 mIU/mL).
-The first test should be performed within 10 – 14 days, and the second test within 24 hours prior to prescribing REVLIMID® (lenalidomide).
+The first test should be performed within 10–14 days, and the second test within 24 hours prior to prescribing REVLIMID® (lenalidomide).
 A prescription for REVLIMID® (lenalidomide) for a female of childbearing potential must not be issued by the prescriber until negative pregnancy tests have been verified by the prescriber.
 
 Male Patients: It is not known whether lenalidomide is present in the semen of patients receiving the drug.
@@ -58,7 +58,7 @@ Female Patients
 REVLIMID® (lenalidomide) should be used in females of childbearing potential only when the patient MEETS ALL OF THE FOLLOWING CONDITIONS (i.e., she is unable to become pregnant while on lenalidomide therapy):
 
 - she understands and can reliably carry out instructions.
-- she is capable of complying with the mandatory contraceptive measures, pregnancy testing, patient registration, and patient survey as described in the RevAssistSM program.
+- she is capable of complying with the mandatory contraceptive measures, pregnancy testing, patient registration, and patient survey as described in the RevAssist® program.
 - she has received and understands both oral and written warnings of the potential risks of taking lenalidomide during pregnancy and of exposing a fetus to the drug.
 - she has received both oral and written warnings of the risk of possible contraception failure and of the need to use two reliable forms of contraception simultaneously, unless continuous abstinence from heterosexual sexual contact is the chosen method.
   Sexually mature females who have not undergone a hysterectomy or who have not been postmenopausal for at least 24 consecutive months (i.e., who have had menses at some time in the preceding 24 consecutive months), or had a bilateral oophorectomy are considered to be females of childbearing potential.
@@ -71,7 +71,7 @@ Male Patients
 REVLIMID®(lenalidomide) should be used in sexually active males when the PATIENT MEETS ALL OF THE FOLLOWING CONDITIONS:
 
 - he understands and can reliably carry out instructions.
-- he is capable of complying with the mandatory contraceptive measures that are appropriate for men, patient registration, and patient survey as described in the RevAssistSM program.
+- he is capable of complying with the mandatory contraceptive measures that are appropriate for men, patient registration, and patient survey as described in the RevAssist® program.
 - he has received and understands both oral and written warnings of the potential risks of taking lenalidomide and exposing a fetus to the drug.
 - he has received both oral and written warnings of the risk of possible contraception failure and that it is unknown whether lenalidomide is present in semen.
   He has been instructed that he must always use a latex condom during any sexual contact with females of childbearing potential, even if he has undergone a successful vasectomy.
@@ -88,7 +88,7 @@ Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the st
 Patients on therapy for del 5q myelodysplastic syndromes should have their complete blood counts monitored weekly for the first 8 weeks of therapy and at least monthly thereafter.
 Patients may require dose interruption and/or reduction.
 Patients may require use of blood product support and/or growth factors.
-(SEE DOSAGE AND ADMINISTRATION)
+(See DOSAGE AND ADMINISTRATION)
 
 ## DEEP VENOUS THROMBOSIS AND PULMONARY EMBOLISM
 
@@ -98,7 +98,7 @@ Patients should be instructed to seek medical care if they develop symptoms such
 It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID® (lenalidomide) may lessen the potential for venous thromboembolic events.
 The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors.
 
-You can get the information about REVLIMID® and the RevAssistSM program on the internet at www.REVLIMID.com or by calling the manufacturer’s toll free number 1-888-423-5436.
+You can get the information about REVLIMID® (lenalidomide) and the RevAssist® program on the internet at www.REVLIMID.com or by calling the manufacturer’s toll free number 1-888-423-5436.
 
 WARNING: POTENTIAL FOR HUMAN BIRTH DEFECTS.
 

@@ -2,13 +2,13 @@
 
 ## Myelodysplastic Syndromes (MDS) with a Deletion 5q Cytogenetic Abnormality
 
-The efficacy and safety of REVLIMID® (lenalidomide) were evaluated in patients with transfusion dependent anemia in Low- or Intermediate-1- risk MDS with a 5q (q31-33) cytogenetic abnormality in isolation or with additional cytogenetic abnormalities, at a dose of 10 mg once daily or 10 mg once daily for 21 days every 28 days in an open-label, single arm, multi-center study.
+The efficacy and safety of REVLIMID® (lenalidomide) were evaluated in patients with transfusion dependent anemia in Low- or Intermediate-1- risk MDS with a 5q (q31-33) cytogenetic abnormality in isolation or with additional cytogenetic abnormalities, at a dose of 10 mg once daily or 10 mg once daily for 21 days every 28 days in an open-label, single-arm, multi-center study.
 The major study was not designed nor powered to prospectively compare the efficacy of the 2 dosing regimens.
 Sequential dose reductions to 5 mg daily and 5 mg every other day, as well as dose delays, were allowed for toxicity.
 
 This major study enrolled 148 patients who had RBC transfusion dependent anemia.
 RBC-transfusion dependence was defined as having received ≥ 2 units of RBCs within 8 weeks prior to study treatment.
-The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500 cells/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
+The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
 Granulocyte colony-stimulating factor was permitted for patients who developed neutropenia or fever in association with neutropenia.
 Baseline patient and disease-related characteristics are summarized in Table 1.
 
@@ -42,9 +42,10 @@ Table 1: Baseline Demographic and Disease-Related Characteristics
 | RARS | 16 (10.8) |
 | RAEB | 30 (20.3) |
 | CMML | 3 (2.0) |
-| [a] IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score)[b] French-American-British (FAB) classification of MDS. |  |
+| [a] IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score) |  |
+| [b] French-American-British (FAB) classification of MDS. |  |
 
-The frequency of RBC-transfusion independence was modified from the International Working Group (IWG) response criteria for MDS.
+The frequency of RBC-transfusion independence was assessed using criteria modified from the International Working Group (IWG) response criteria for MDS.
 RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive “rolling” 56 days (8 weeks) during the treatment period.
 
 Transfusion independence was seen in 99/148 (67%) patients (95% CI [59, 74]).
@@ -74,21 +75,20 @@ In both studies, treatment was to continue until disease progression.
 
 In both studies, dose adjustments were allowed based on clinical and laboratory findings.
 Sequential dose reductions to 15 mg daily, 10 mg daily and 5 mg daily were allowed for toxicity.
-(See DOSAGE AND ADMINISTRATION.
-Section).
+(See DOSAGE AND ADMINISTRATION)
 
 Table 2 summarizes the baseline patient and disease characteristics in the two studies.
 In both studies, baseline demographic and disease-related characteristics were comparable between the REVLIMID® (lenalidomide)/dexamethasone and placebo/dexamethasone groups.
 
-Table 2 Baseline Demographic and Disease-related Characteristics - Studies 1 and 2
+Table 2 Baseline Demographic and Disease-Related Characteristics - Studies 1 and 2
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | REVLIMID/DexN=170 | Placebo/DexN=171 | REVLIMID/DexN=176 | Placebo/DexN=175 |
+|  | REVLIMID/Dex N=170 | Placebo/Dex N=171 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |
 | Patient Characteristics |  |  |  |  |
 | Age (years) |  |  |  |  |
 | Median | 64 | 62 | 63 | 64 |
-| Min, Max | 36,86 | 37, 85 | 33, 84 | 40, 82 |
+| Min,Max | 36,86 | 37, 85 | 33, 84 | 40, 82 |
 | Sex |  |  |  |  |
 | Male | 102 (60%) | 101 (59%) | 104 (59%) | 103 (59%) |
 | Female | 68 (40%) | 70 (41%) | 72 (41%) | 72 (41%) |
@@ -103,10 +103,10 @@ Table 2 Baseline Demographic and Disease-related Characteristics - Studies 1 and
 | III | 67% | 67% | 65% | 63% |
 | Baseline Creatinine (mg/dL) |  |  |  |  |
 | Median | 1.0 | 1.0 | 0.9 | 0.9 |
-| Min, Max | 0.4, 2.6 | 0.5, 2.4 | 0.3, 2.3 | 0.5, 2.3 |
+| Min,Max | 0.4, 2.6 | 0.5, 2.4 | 0.3, 2.3 | 0.5, 2.3 |
 | B2-microglobulin (mg/L) |  |  |  |  |
 | Median | 3.7 | 3.3 | 3.4 | 3.3 |
-| Min, Max | 1.1, 45 | 1.3, 15.2 | 1.0, 14.4 | 1.3, 25.3 |
+| Min,Max | 1.1, 45 | 1.3, 15.2 | 1.0, 14.4 | 1.3, 25.3 |
 | Number of Prior Therapies |  |  |  |  |
 | No. of Prior Antimyeloma Therapies |  |  |  |  |
 | 1 | 38% | 37% | 32% | 33% |
@@ -125,25 +125,27 @@ TTP was defined as the time from randomization to the first occurrence of progre
 Preplanned interim analyses of both studies showed that the combination of REVLIMID® (lenalidomide)/dexamethasone was significantly superior to dexamethasone alone for TTP.
 The studies were unblinded to allow patients in the placebo/dexamethasone group to receive treatment with the REVLIMID® (lenalidomide)/dexamethasone combination.
 
-Table 3 summarizes TTP and response rates based on the best response assessments for studies 1 and 2.
+Table 3 summarizes TTP and response rates based on the best response assessments for Studies 1 and 2.
 
 Table 3: Summary of Efficacy Analysis — Studies 1 and 2
 
-| Study 1 |  |  | Study 2 |  |
+|  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-|  | REVLIMID/DexN=170 | Placebo/DexN=171 | REVLIMID/DexN=176 | Placebo/DexN=175 |
+|  | REVLIMID/Dex N=170 | Placebo/Dex N=171 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |
 | TTP |  |  |  |  |
-| Censoredn (%) | 115 (68) | 61 (36) | 133 (76) | 78 (45) |
-| Median TTP in weeks[95% CI] | 37.1[28, NE2] | 19.9[16, 22] | NE2 | 20[19.9, 21.6] |
-| Hazard Ratio3[95% CI] | 0.356 [0.257, 0.494] |  | 0.392 [0.274, 0.562] |  |
-| Log-rank Testp-Value 1 | <0.0001 |  | <0.0001 |  |
+| Censored n (%) | 115 (68) | 61 (36) | 133 (76) | 78 (45) |
+| Median TTP in weeks [95% CI] | 37.1 [28, NE1] | 19.9 [16, 22] | NE1 | 20 [19.9, 21.6] |
+| Hazard Ratio2 [95% CI] | 0.356 [0.257, 0.494] |  | 0.392 [0.274, 0.562] |  |
+| Log-rank Test p-value 3 | <0.0001 |  | <0.0001 |  |
 | Response |  |  |  |  |
-| Complete Response (CR)n (%) | 14 (8) | 1 (1) | 14 (8) | 1 (1) |
-| Partial Responses(RR/PR) n (%) | 76 (44) | 27 (16) | 76 (43) | 33 (19) |
-| Overall Responsen (%) | 90 (53) | 28 (16) | 90 (51) | 34 (19) |
+| Complete Response (CR) n (%) | 14 (8) | 1 (1) | 14 (8) | 1 (1) |
+| Partial Responses (RR/PR) n (%) | 76 (44) | 27 (16) | 76 (43) | 33 (19) |
+| Overall Response n (%) | 90 (53) | 28 (16) | 90 (51) | 34 (19) |
 | p-value | <0.0001 |  | <0.0001 |  |
-| Odds Ratio[95% CI] | 5.5 [3.3, 9.1] |  | 4.3 [2.7, 7.0] |  |
-| 1The p-value is based on a one-tailed unstratified log rank test. 2NE, Not Estimatable due to short follow-up. 3 Hazard Ratio of Revlimid/Dexamethasone to Placebo/Dexamethasone |  |  |  |  |
+| Odds Ratio [95% CI] | 5.5 [3.3, 9.1] |  | 4.3 [2.7, 7.0] |  |
+| 1 NE, Not estimable due to short follow-up. |  |  |  |  |
+| 2 Hazard Ratio of Revlimid/Dexamethasone to Placebo/Dexamethasone |  |  |  |  |
+| 3 The p-value is based on a one-tailed unstratified log rank test. |  |  |  |  |
 
 Figures 1 and 2 depict the Kaplan-Meier estimates of TTP in Studies 1 and 2, respectively.
 

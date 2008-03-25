@@ -1,6 +1,6 @@
-# WARNINGS:
+# WARNINGS
 
-## Pregnancy Category X: (See 'BOXED WARNING' and CONTRAINDICATIONS)
+## Pregnancy Category X: (See BOXED WARNINGS and CONTRAINDICATIONS)
 
 REVLIMID® (lenalidomide) is an analogue of thalidomide.
 Thalidomide is a known human teratogen that causes life-threatening human birth defects.
@@ -11,7 +11,7 @@ Two effective contraceptive methods should be used during therapy, during therap
 There are no adequate and well-controlled studies in pregnant females.
 
 Because of this potential toxicity and to avoid fetal exposure to REVLIMID® (lenalidomide), REVLIMID® (lenalidomide) is only available under a special restricted distribution program.
-This program is called "RevAssistSM".
+This program is called RevAssist®.
 
 Lenalidomide has been shown to have an embryocidal effect in rabbits at a dose of 50 mg/kg (approximately 120 times the human dose of 10 mg based on body surface area).
 
@@ -32,18 +32,18 @@ This drug is associated with significant neutropenia and thrombocytopenia.
 Eighty percent of patients with del 5q MDS had to have a dose delay or reduction during the major study for the indication.
 Thirty-four percent of patients had to have a second dose delay/reduction.
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the study.
-In the 48% of patients who developed Grade 3 or 4 neutropenia, the median time to onset was 42 days (range, 14 – 411 days), and the median time to documented recovery was 17 days (range, 2 – 170 days).
-In the 54% of patients who developed Grade 3 or 4 thrombocytopenia, the median time to onset was 28 days (range, 8 - 290 days), and the median time to documented recovery was 22 days (range, 5 – 224 days).
+In the 48% of patients who developed Grade 3 or 4 neutropenia, the median time to onset was 42 days (range, 14-411 days), and the median time to documented recovery was 17 days (range, 2-170 days).
+In the 54% of patients who developed Grade 3 or 4 thrombocytopenia, the median time to onset was 28 days (range, 8-290 days), and the median time to documented recovery was 22 days (range, 5-224 days).
 Patients on therapy for del 5q myelodysplastic syndromes should have their complete blood counts monitored weekly for the first 8 weeks of therapy and at least monthly thereafter.
 Patients may require dose interruption and/or reduction.
 Patients may require use of blood product support and/or growth factors.
-SeeDOSAGE AND ADMINISTRATION.
+(SeeDOSAGE AND ADMINISTRATION)
 
 In the pooled multiple myeloma studies Grade 3 and 4 hematologic toxicities were more frequent in patients treated with the combination of REVLIMID® (lenalidomide) and dexamethasone than in patients treated with dexamethasone alone.
-SeeADVERSE REACTIONS Table 7.
+(See ADVERSE REACTIONS: Table 7.)
 Patients on therapy should have their complete blood counts monitored every 2 weeks for the first 12 weeks and then monthly thereafter.
 Patients may require dose interruption and/or dose reduction.
-SeeDOSAGE AND ADMINISTRATION
+(See DOSAGE AND ADMINISTRATION)
 
 ## DEEP VENOUS THROMBOSIS AND PULMONARY EMBOLISM:
 
@@ -52,42 +52,42 @@ Patients and physicians are advised to be observant for the signs and symptoms o
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling.
 It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID® (lenalidomide) may lessen the potential for venous thromboembolic events.
 The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors.
-See ADVERSE REACTIONS Table 7.
+(See ADVERSE REACTIONS: Table 7)
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
-## General:
+## General
 
 No formal studies have been conducted in patients with renal impairment.
 This drug is known to be excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 
-## Information for Patients:
+## Information for Patients
 
 Patients should be counseled on lenalidomide’s potential risk of teratogenicity due to its structural similarity to thalidomide.
-Patients may only acquire a prescription for REVLIMID® (lenalidomide) therapy through a controlled distribution program (RevAssistSM) through contracted pharmacies.
-Female patients of childbearing potential will be educated and counseled on the requirements of the RevAssistSM program and the precautions to be taken to preclude fetal exposure to REVLIMID® (lenalidomide).
-Patients should become familiar with the REVLIMID® (lenalidomide) RevAssistSM educational materials, Patient Medication Guide, and direct any questions to their physician or pharmacist prior to starting REVLIMID® (lenalidomide) therapy.
+Patients may only acquire a prescription for REVLIMID® (lenalidomide) therapy through a controlled distribution program (RevAssist®) through contracted pharmacies.
+Female patients of childbearing potential will be educated and counseled on the requirements of the RevAssist® program and the precautions to be taken to preclude fetal exposure to REVLIMID® (lenalidomide).
+Patients should become familiar with the REVLIMID® (lenalidomide) RevAssist® educational materials and Patient Medication Guide, and direct any questions to their physician or pharmacist prior to starting REVLIMID® (lenalidomide) therapy.
 
-## Laboratory tests:
+## Laboratory Tests
 
-The MDS clinical study enrolled patients with absolute neutrophil counts (ANC) ≥ 500 cells/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
+The MDS clinical study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
 A complete blood cell count (CBC), including white blood cell count with differential, platelet count, hemoglobin, and hematocrit should be performed weekly for the first 8 weeks of REVLIMID® (lenalidomide) treatment and monthly thereafter to monitor for cytopenias.
 
-The multiple myeloma studies 1 and 2 enrolled patients with absolute neutrophil counts (ANC) ≥ 1000 cells/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
+The multiple myeloma Studies 1 and 2 enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
 A CBC should be performed every two weeks for the first three months and at least monthly thereafter to monitor for cytopenias.
 
-## Drug Interactions:
+## Drug Interactions
 
 Results from human in vitro metabolism studies and nonclinical studies show that REVLIMID® (lenalidomide) is neither metabolized by nor inhibits or induces the cytochrome P450 pathway suggesting that lenalidomide is not likely to cause or be subject to P450-based metabolic drug interactions in man.
 
-Co-administration of multiple doses of 10 mg of lenalidomide had no effect on the single dose pharmacokinetics of R- and S- warfarin.
+Co-administration of multiple doses of 10 mg of lenalidomide had no effect on the single dose pharmacokinetics of R- and S-warfarin.
 Co-administration of single 25-mg dose warfarin had no effect on the pharmacokinetics of total lenalidomide.
 Expected changes in laboratory assessments of PT and INR were observed after warfarin administration, but these changes were not affected by concomitant lenalidomide administration.
 
 When digoxin was co-administered with lenalidomide the digoxin AUC was not significantly different, however, the digoxin Cmax was increased by 14%.
 Periodic monitoring of digoxin plasma levels, in accordance with clinical judgment and based on standard clinical practice in patients receiving this medication, is recommended during administration of lenalidomide.
 
-## Carcinogenesis, mutagenesis, impairment of fertility:
+## Carcinogenesis, mutagenesis, impairment of fertility
 
 Carcinogenicity: Carcinogenicity studies with lenalidomide have not been conducted.
 
@@ -96,26 +96,26 @@ Lenalidomide did not increase morphological transformation in Syrian Hamster Emb
 
 Fertility: A fertility and early embryonic development study in rats, with administration of lenalidomide up to 500 mg/kg (approximately 600 times the human dose of 10 mg, based on body surface area) produced no parental toxicity and no adverse effects on fertility.
 
-## Pregnancy:
+## Pregnancy
 
-## Pregnancy Category X: (See 'BOXED WARNINGS' and CONTRAINDICATIONS)
+## Pregnancy Category X: (See BOXED WARNINGS and CONTRAINDICATIONS)
 
 Because of the structural similarity to thalidomide, a known human teratogen, and the lack of sufficient information regarding lenalidomide’s teratogenic potential, REVLIMID® (lenalidomide) is contraindicated in females who are or may become pregnant and who are not using the two required types of birth control or who are not continually abstaining from reproductive heterosexual sexual intercourse.
 REVLIMID® (lenalidomide) should not be used by females who are pregnant or who could become pregnant while taking the drug.
 If pregnancy does occur during treatment, the drug should be immediately discontinued.
-Under these conditions, the patient should be referred to an obstetrician / gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+Under these conditions, the patient should be referred to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 Any suspected fetal exposure to REVLIMID® (lenalidomide) should be reported to the FDA via the MedWatch program at 1-800-FDA-1088 and also to Celgene Corporation at 1-888-423-5436.
 
-## Use in Nursing Mothers:
+## Use in Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for adverse reactions in nursing infants from lenalidomide, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use:
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
-## Geriatric Use:
+## Geriatric Use
 
 REVLIMID® (lenalidomide) has been used in del 5q MDS clinical trials in patients up to 95 years of age.
 
@@ -129,13 +129,13 @@ REVLIMID® (lenalidomide) has been used in multiple myeloma (MM) clinical trials
 Of the 692 MM patients enrolled in Studies 1 and 2, 45% were age 65 or over while 12% of patients were age 75 and over.
 The percentage of patients age 65 or over was not significantly different between the REVLIMID® (lenalidomide)/dexamethasone and placebo/dexamethasone groups.
 Of the 346 patients who received REVLIMID® (lenalidomide)/dexamethasone, 46% were age 65 and over.
-In both studies, patients > 65 years of age were more likely than patients ≤ 65 years of age to experienced diarrhea, fatigue, pulmonary embolism, an syncope following use of REVLIMID® (lenalidomide).
+In both studies, patients > 65 years of age were more likely than patients ≤ 65 years of age to experience diarrhea, fatigue, pulmonary embolism, and syncope following use of REVLIMID® (lenalidomide).
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it would be prudent to monitor renal function.
 
-## Renal Impairment:
+## Renal Impairment
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug is expected to be greater in patients with impaired renal function.
 Patients with renal insufficiency were excluded from the clinical trials, and those who developed renal insufficiency during the clinical trials had the drug held.

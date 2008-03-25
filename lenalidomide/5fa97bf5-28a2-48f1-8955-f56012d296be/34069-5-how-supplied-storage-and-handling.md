@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-REVLIMID®(lenalidomide) 5 mg, 10 mg, 15 mg and 25 mg capsules will be supplied through the RevAssistSM program.
+REVLIMID® (lenalidomide) 5 mg, 10 mg, 15 mg and 25 mg capsules will be supplied through the RevAssist® program.
 (SeeINFORMATION FOR PATIENTS)
 
 REVLIMID® (lenalidomide) is supplied as:
@@ -33,7 +33,7 @@ White opaque capsules imprinted “REV” on one half and “25 mg” on the oth
 
 Dispense no more than a 28-day supply.
 
-Store at 25 °C (77 °F); excursions permitted to 15-30 °C (59-86 °F).
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature].
 
 Rx only.

@@ -1,6 +1,6 @@
-# CONTRAINDICATIONS:
+# CONTRAINDICATIONS
 
-## Pregnancy Category X: (See 'BOXED WARNING')
+## Pregnancy Category X: (See BOXED WARNINGS)
 
 Due to its structural similarities to thalidomide, a known human teratogen, lenalidomide is contraindicated in pregnant women and women capable of becoming pregnant.
 (See BOXED WARNINGS.)
@@ -12,6 +12,6 @@ Females of childbearing potential being treated with REVLIMID® (lenalidomide) s
 The first test should be performed within 10-14 days and the second test within 24 hours prior to beginning REVLIMID® (lenalidomide) therapy and then weekly during the first month of REVLIMID® (lenalidomide), then monthly thereafter in women with regular menstrual cycles or every 2 weeks in women with irregular menstrual cycles.
 Pregnancy testing and counseling should be performed if a patient misses her period or if there is any abnormality in menstrual bleeding.
 If pregnancy occurs, REVLIMID® (lenalidomide) must be immediately discontinued.
-Under these conditions, the patient should be referred to an obstetrician / gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+Under these conditions, the patient should be referred to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 
 REVLIMID® (lenalidomide) is contraindicated in any patients who have demonstrated hypersensitivity to the drug or its components.

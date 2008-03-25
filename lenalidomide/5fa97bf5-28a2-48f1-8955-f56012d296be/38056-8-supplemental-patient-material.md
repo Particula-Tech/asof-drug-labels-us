@@ -1,4 +1,4 @@
-## Important Information and Warnings for All Patients Taking REVLIMID®(lenalidomide)
+## Important Information and WARNINGS for All Patients Taking REVLIMID®(lenalidomide)
 
 ### All Patients
 
@@ -15,18 +15,18 @@
 
 - The patient must not take REVLIMID® (lenalidomide) if she is pregnant, breast-feeding a baby, or able to get pregnant and not using the required two methods of birth control.
 - The patient confirms that she is not now pregnant, nor will she try to become pregnant during REVLIMID® (lenalidomide) therapy, during therapy interruption and for at least 4 weeks after she has completely finished taking REVLIMID® (lenalidomide).
-- If the patient is able to become pregnant, she must use at least one highly effective method and one additional effective method of birth control (contraception) AT THE SAME TIME: At least one highly effective methodANDOne additional effective methodIUDLatex condomHormonal (birth control pills, injections, patch or implants)DiaphragmTubal ligationCervical capPartner's vasectomy
+- If the patient is able to become pregnant, she must use at least one highly effective method and one additional effective method of birth control (contraception) AT THE SAME TIME: At least one highly effective methodAND One additional effective method IUDLatex condomHormonal (birth control pills, injections, patch or implants)DiaphragmTubal ligationCervical capPartner's vasectomy
 - These birth control methods must be used for at least 4 weeks before beginning REVLIMID® (lenalidomide) therapy, during REVLIMID® (lenalidomide) therapy, during therapy interruption and for 4 weeks following discontinuation of REVLIMID® (lenalidomide) therapy.
 - The patient must use these birth control methods unless she completely abstains from heterosexual sexual contact.
 - If a hormonal method (birth control pills, injections, patch or implants) or IUD is not medically possible for the patient, she may use another highly effective method or two barrier methods AT THE SAME TIME.
 - The patient must have a pregnancy test done by her doctor within 10-14 days and 24 hours before REVLIMID® (lenalidomide) therapy, then weekly during the first 4 weeks of REVLIMID® (lenalidomide) therapy.
 - Thereafter, the patient must have a pregnancy test every 4 weeks if she has regular menstrual cycles, or every 2 weeks if her cycles are irregular while she is taking REVLIMID® (lenalidomide).
 - The patient must immediately stop taking REVLIMID® (lenalidomide) and inform her doctor:
-  - If she becomes pregnant while taking the drug
-  - If she misses her menstrual period, or experiences unusual menstrual bleeding
-  - If she stops using birth control
-  - If she thinks FOR ANY REASON that she may be pregnant
-  - The patient understands that if her doctor is not available, she can call 1-888-668-2528 for information on emergency contraception
+  - If she becomes pregnant while taking the drug.
+  - If she misses her menstrual period, or experiences unusual menstrual bleeding.
+  - If she stops using birth control.
+  - If she thinks FOR ANY REASON that she may be pregnant.
+  - The patient understands that if her doctor is not available, she can call 1-888-668-2528 for information on emergency contraception.
 
 ### Female Patients Not of Childbearing Potential
 
@@ -38,10 +38,12 @@
 - The patient has been told by his doctor that he must NEVER have unprotected sexual contact with a female who can become pregnant.
 - Because it is not known whether REVLIMID® (lenalidomide) is present in semen, his doctor has explained that he must either completely abstain from sexual contact with females who are pregnant or able to become pregnant, or he must use a latex condom EVERY TIME he engages in any sexual contact with females who are pregnant or may become pregnant while he is taking REVLIMID® (lenalidomide) and for 4 weeks after he stops taking the drug, even if he has had a successful vasectomy.
 - The patient should inform his doctor:
-  - If he has had unprotected sexual contact with a female who can become pregnant
+  - If he has had unprotected sexual contact with a female who can become pregnant.
   - If he thinks FOR ANY REASON, that his sexual partner may be pregnant.
   - The patient understands that if his doctor is not available, he can call 1-888-668-2528 for information on emergency contraception.
 - The patient cannot donate semen or sperm while taking REVLIMID® (lenalidomide).
+
+RevPlyPI.005/MG.005 03/07
 
 Information for patients and caregivers:
 
@@ -57,7 +59,7 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about REVLIMID®?
 
-- REVLIMID® is only for patients who understand and agree to all of the instructions in the REVASSISTSM program.
+- REVLIMID® is only for patients who understand and agree to all of the instructions in the RevAssist® program.
 - REVLIMID® may cause serious side effects including:
   1. birth defects
   2. low white blood cells and platelets
@@ -110,9 +112,9 @@ The bones can be affected leading to bone pain and breaks (fractures).
 
 REVLIMID® can only be:
 
-- prescribed by healthcare providers who are registered in the RevAssistSM program
-- dispensed by a pharmacy that is registered in the RevAssistSM program
-- · given to patients who are registered in the RevAssistSM program and who agree to do everything required in the program
+- prescribed by healthcare providers who are registered in the RevAssist® program
+- dispensed by a pharmacy that is registered in the RevAssist® program
+- given to patients who are registered in the RevAssist® program and who agree to do everything required in the program
 
 REVLIMID® has not been studied in children under 18 years of age.
 
@@ -140,21 +142,21 @@ Keep a list of them to show your healthcare provider and pharmacist.
 How should I take REVLIMID®?
 
 - Take REVLIMID® exactly as prescribed.
-  You must also follow all the instructions of the RevAssistSM program.
+  You must also follow all the instructions of the RevAssist® program.
   Before prescribing REVLIMID®, your healthcare provider will:
-  - explain the RevAssistSM program to you
+  - explain the RevAssist® program to you
   - have you sign the Patient-Physician Agreement Form
 
-You will not be prescribed REVLIMID® if you cannot agree to or follow all of the instructions of the RevAssistSM program.
+You will not be prescribed REVLIMID® if you cannot agree to or follow all of the instructions of the RevAssist® program.
 
 You will get no more than a 28-day supply of REVLIMID® at one time.
-This is to make sure you follow the RevAssistSM program.
+This is to make sure you follow the RevAssist® program.
 
 - Swallow REVLIMID® capsules whole with water once a day.
   Do not break, chew, or open your capsules.
 - If you miss a dose of REVLIMID®, take it as soon as you remember that day.
   If you miss taking your dose for the entire day, go back to taking your regular dose the next day.
-  Donot take 2 doses at the same time.
+  Do not take 2 doses at the same time.
 - If you take too much REVLIMID® or overdose, call your healthcare provider or poison control center right away.
 - You will have regular blood tests during your treatment with REVLIMID®.
   If you are being treated for del 5q myelodysplastic syndromes (MDS) you should have your blood tested every week during your first 8 weeks of treatment, and at least monthly after that.
@@ -201,7 +203,7 @@ Ask your healthcare provider or pharmacist for more information.
 
 How should I store REVLIMID®?
 
-Store REVLIMID® at room temperature, 59° to 86°F (15° to 30° C).
+Store REVLIMID® at room temperature, 59° to 86°F (15° to 30°C).
 
 Keep REVLIMID® and all medicines out of the reach of children.
 
@@ -214,7 +216,7 @@ It may harm them.
 
 This Medication Guide provides a summary of the most important information about REVLIMID®.
 If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about REVLIMID® that is written for health professionals.
+You can ask your healthcare provider or pharmacist for information about REVLIMID® that is written for healthcare professionals.
 You can also call 1-888-423-5436 or visit www.REVLIMID.com.
 
 What are the ingredients in REVLIMID®?
@@ -232,3 +234,5 @@ Manufactured for Celgene Corporation
 Summit, NJ 07901
 
 This Medication Guide has been approved by the US Food and Drug Administration.
+
+RevPlyMG.005 03/07
