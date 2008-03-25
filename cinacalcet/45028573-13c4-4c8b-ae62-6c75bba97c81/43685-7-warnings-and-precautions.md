@@ -9,6 +9,11 @@ Both placebo-treated patients had a history of seizure disorder and were receivi
 While the basis for the reported difference in seizure rate is not clear, the threshold for seizures is lowered by significant reductions in serum calcium levels.
 Therefore, serum calcium levels should be closely monitored in patients receiving Sensipar®, particularly in patients with a history of a seizure disorder (see PRECAUTIONS, Hypocalcemia).
 
+## Hypotension and/or Worsening Heart Failure
+
+In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotension and/or worsening heart failure have been reported in patients with impaired cardiac function, in which a causal relationship to Sensipar® could not be completely excluded and may be mediated by reductions in serum calcium levels.
+Clinical trial data showed hypotension occurred in 7% of Sensipar®-treated patients, 12% of placebo-treated patients, and heart failure occurred in 2% of patients receiving Sensipar® or placebo.
+
 # PRECAUTIONS
 
 ## General
@@ -29,9 +34,10 @@ Treatment should be re-initiated using the next lowest dose of Sensipar® (see D
 In the 26-week studies of patients with CKD on dialysis, 66% of patients receiving Sensipar® compared with 25% of patients receiving placebo developed at least one serum calcium value < 8.4 mg/dL.
 Less than 1% of patients in each group permanently discontinued study drug due to hypocalcemia.
 
+Sensipar® is not indicated for CKD patients not on dialysis.
 In CKD patients with secondary HPT not on dialysis, the long-term safety and efficacy of Sensipar® have not been established.
-Exploratory investigation indicates that CKD patients not on dialysis have an increased risk for hypocalcemia compared to CKD patients on dialysis, which may be due to lower baseline calcium levels.
-In a small, short-term study, in which the median dose of cinacalcet was 30 mg at the completion of the study, 74% of cinacalcet-treated patients experienced at least one serum calcium value < 8.4 mg/dL.
+Clinical studies indicate that Sensipar®-treated CKD patients not on dialysis have an increased risk for hypocalcemia compared to Sensipar®-treated CKD patients on dialysis, which may be due to lower baseline calcium levels.
+In a phase 3 study of 32 weeks duration and including 404 subjects (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg at the completion of the study, 80% of Sensipar®-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared to 5% of patients receiving placebo.
 
 ### Adynamic Bone Disease
 

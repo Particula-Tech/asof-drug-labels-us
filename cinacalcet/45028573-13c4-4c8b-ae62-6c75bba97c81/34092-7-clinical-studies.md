@@ -26,10 +26,9 @@ Similar results were observed when either the iPTH or bio-intact PTH (biPTH) ass
 Table 1.
 Effects of Sensipar® on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-month Phase 3 Studies (Patients on Dialysis)
 
-|  |  |  | (N = 205) | (N = 205) | (N = 165) | (N = 166) | (N = 101) | (N = 294) |
+| Placebo (N = 205) | Sensipar® (N = 205) | Placebo (N = 165) | Sensipar® (N = 166) | Placebo (N = 101) | Sensipar® (N = 294) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Study 1 |  | Study 2 |  | Study 3 |  |
-|  |  |  | Placebo | Sensipar® | Placebo | Sensipar® | Placebo | Sensipar® |
 | iPTH |  |  |  |  |  |  |  |  |
 |  | Baseline (pg/mL): Median Mean (SD) |  | 535651 (398) | 537636 (341) | 556 630 (317) | 547652 (372) | 670832 (486) | 703848 (685) |
 |  | Evaluation Phase (pg/mL) |  | 563 | 275 | 592 | 238 | 737 | 339 |
@@ -58,10 +57,6 @@ Reductions in iPTH and Ca x P were maintained for up to 12 months of treatment.
 Sensipar® decreased iPTH and Ca x P levels regardless of disease severity (i.e., baseline iPTH value), duration of dialysis, and whether or not vitamin D sterols were administered.
 Approximately 60% of patients with mild (iPTH ≥ 300 to ≤ 500 pg/mL), 41% with moderate (iPTH > 500 to 800 pg/mL), and 11% with severe (iPTH > 800 pg/mL) secondary HPT achieved a mean iPTH value of 250 pg/mL.
 Plasma iPTH levels were measured using the Nichols IRMA.
-
-In CKD patients with secondary HPT not on dialysis, the long-term safety and efficacy of Sensipar® have not been established.
-Exploratory investigation indicates that CKD patients not on dialysis have an increased risk for hypocalcemia compared to CKD patients on dialysis, which may be due to lower baseline calcium levels.
-In a small, short-term study, in which the median dose of cinacalcet was 30 mg at the completion of the study, 74% of cinacalcet-treated patients experienced at least one serum calcium value < 8.4 mg/dL (see PRECAUTIONS, Hypocalcemia).
 
 ## Parathyroid Carcinoma
 

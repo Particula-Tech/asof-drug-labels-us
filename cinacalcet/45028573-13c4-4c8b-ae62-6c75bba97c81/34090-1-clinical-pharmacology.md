@@ -24,7 +24,7 @@ Steady-state drug levels are achieved within 7 days.
 The mean accumulation ratio is approximately 2 with once-daily oral administration.
 The median accumulation ratio is approximately 2 to 5 with twice-daily oral administration.
 The AUC and Cmax of cinacalcet increase proportionally over the dose range of 30 to 180 mg once daily.
-The pharmacokinetic profile of cinacalcet does not change over time with once- daily dosing of 30 to 180 mg.
+The pharmacokinetic profile of cinacalcet does not change over time with once-daily dosing of 30 to 180 mg.
 The volume of distribution is high (approximately 1000 L), indicating extensive distribution.
 Cinacalcet is approximately 93 to 97% bound to plasma protein(s).
 The ratio of blood cinacalcet concentration to plasma cinacalcet concentration is 0.80 at a blood cinacalcet concentration of 10 ng/mL.

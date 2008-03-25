@@ -1,15 +1,9 @@
 [Amgen Logo]
 
-Manufactured for: Amgen
-
-Amgen Inc.
-
-One Amgen Center Drive
-
-Thousand Oaks, CA 91320­1799
+Manufactured for: Amgen Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320­1799
 
 3xxxxxx
 
-©2004 Amgen Inc. All rights reserved.
+©2004-2008 Amgen Inc. All rights reserved.
 
-v1.2 - Issue Date 10/2007
+v2 - Issue Date 02/2008
