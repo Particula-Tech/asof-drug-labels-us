@@ -30,7 +30,7 @@ Serum electrolytes, ketones, blood glucose, and if indicated, blood pH, lactate 
 Once a patient is stabilized on any dose level of metformin, gastrointestinal symptoms, which are common during initiation of therapy, are unlikely to be drug related.
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling [see Warnings and Precautions (5.7), (5.12)].
+Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling [see Warnings and Precautions (5.7, 5.12)].
 
 Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
 
@@ -83,8 +83,8 @@ If acidosis of either form occurs, JANUMET must be stopped immediately and other
 
 Sitagliptin
 
-In clinical trials of sitagliptin as monotherapy and sitagliptin as part of combination therapy with metformin or pioglitazone, rates of hypoglycemia reported with sitagliptin were similar to rates in patients taking placebo.
-The use of sitagliptin in combination with medications known to cause hypoglycemia, such as sulfonylureas or insulin, has not been adequately studied.
+As is typical with other antihyperglycemic agents used in combination with a sulfonylurea, when sitagliptin was used in combination with metformin and a sulfonylurea, a medication known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo in combination with metformin and a sulfonylurea [see Adverse Reactions (6)].
+Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea, meglitinide) may require a lower dose of the insulin secretagogue to reduce the risk of hypoglycemia [see Dosage and Administration (2.1)].
 
 Metformin hydrochloride
 
@@ -120,3 +120,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose.
 If a hypersensitivity reaction is suspected, discontinue JANUMET, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 [See Adverse Reactions (6.2).]
+
+## 5.14 Macrovascular Outcomes
+
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET or any other oral anti-diabetic drug.

@@ -33,7 +33,7 @@ While megaloblastic anemia has rarely been seen with metformin therapy, if this 
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794105
+9794106
 
 US Patent No.: 6,699,871
 
@@ -44,7 +44,7 @@ US Patent No.: 6,699,871
 3GLUCOPHAGE® is a registered trademark of Merck Sante S.A.S, an associate of Merck KGaA of Darmstadt, Germany.
 Licensed to Bristol-Myers Squibb Company.
 
-COPYRIGHT © 2007 MERCK & CO., Inc. All rights reserved
+COPYRIGHT © 2007, 2008 MERCK & CO., Inc. All rights reserved
 
 FDA-Approved Patient Labeling Patient Information
 
@@ -90,16 +90,19 @@ You have a higher chance of getting lactic acidosis if you:
 What is JANUMET?
 
 JANUMET tablets contain two prescription medicines, sitagliptin (JANUVIA™2) and metformin.
-JANUMET is used along with diet and exercise to lower blood sugar in patients with type 2 diabetes who have already been treated with either JANUVIA or metformin and their blood sugar is not controlled well enough, or patients who are currently taking both JANUVIA and metformin as separate medicines.
+JANUMET can be used along with diet and exercise to lower blood sugar in adult patients with type 2 diabetes.
+Your doctor will determine if JANUMET is right for you and will determine the best way to start and continue to treat your diabetes.
 
-General information about the use of JANUMET:
+JANUMET:
 
 - helps to improve the levels of insulin after a meal.
 - helps the body respond better to the insulin it makes naturally.
 - decreases the amount of sugar made by the body.
-- is unlikely to cause low blood sugar (hypoglycemia).
+- is unlikely to cause low blood sugar (hypoglycemia) when it is taken by itself to treat high blood sugar.
 
 JANUMET has not been studied in children under 18 years of age.
+
+JANUMET has not been studied with insulin, a medicine known to cause low blood sugar.
 
 Who should not take JANUMET?
 
@@ -146,6 +149,8 @@ How should I take JANUMET?
 - Your doctor will tell you how many JANUMET tablets to take and how often you should take them.
   Take JANUMET exactly as your doctor tells you.
 - Your doctor may need to increase your dose to control your blood sugar.
+- Your doctor may prescribe JANUMET along with a sulfonylurea (another medicine to lower blood sugar).
+  See "What are the possible side effects of JANUMET?" for information about increased risk of low blood sugar.
 - Take JANUMET with meals to lower your chance of an upset stomach.
 - Continue to take JANUMET as long as your doctor tells you.
 - If you take too much JANUMET, call your doctor or poison control center right away.
@@ -178,6 +183,7 @@ See "What is the most important information I should know about JANUMET?"
 Common side effects when taking JANUMET include:
 
 - stuffy or runny nose and sore throat
+- upper respiratory infection
 - diarrhea
 - nausea and vomiting
 - gas, stomach discomfort, indigestion
@@ -188,12 +194,15 @@ Taking JANUMET with meals can help reduce the common stomach side effects of met
 If you have unusual or unexpected stomach problems, talk with your doctor.
 Stomach problems that start up later during treatment may be a sign of something more serious.
 
-The following additional side effects have been reported in general use with JANUMET or sitagliptin, one of the medicines in JANUMET:
+Certain diabetes medicines, such as sulfonylureas and meglitinides, can cause low blood sugar (hypoglycemia).
+When JANUMET is used with these medicines, you may have blood sugars that are too low.
+Your doctor may prescribe lower doses of the sulfonylurea or meglitinide medicine.
+Tell your doctor if you are having problems with low blood sugar.
 
-- Allergic reactions, which may be serious, including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing.
-  If you have an allergic reaction, stop taking JANUMET and call your doctor right away.
-  Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
-- Upper respiratory infection.
+Serious allergic reactions can happen with JANUMET or sitagliptin, one of the medicines in JANUMET.
+Symptoms of a serious allergic reaction may include rash, hives, and swelling of the face, lips, tongue, and throat, difficulty breathing or swallowing.
+If you have an allergic reaction, stop taking JANUMET and call your doctor right away.
+Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
 
 These are not all the possible side effects of JANUMET.
 For more information, ask your doctor.
@@ -237,8 +246,8 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Issued January 2008
+Issued February 2008
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794105
+9794106
