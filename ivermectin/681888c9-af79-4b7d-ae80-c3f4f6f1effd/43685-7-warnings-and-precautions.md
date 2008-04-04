@@ -20,14 +20,6 @@ In these patients, the following adverse experiences have also been reported: pa
 This syndrome has been seen very rarely following the use of ivermectin.
 In individuals who warrant treatment with ivermectin for any reason and have had significant exposure to Loa loa-endemic areas of West or Central Africa, pretreatment assessment for loiasis and careful post-treatment follow-up should be implemented.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Long-term studies in animals have not been performed to evaluate the carcinogenic potential of ivermectin.
-
-Ivermectin was not genotoxic in vitro in the Ames microbial mutagenicity assay of Salmonella typhimurium strains TA1535, TA1537, TA98, and TA100 with and without rat liver enzyme activation, the Mouse Lymphoma Cell Line L5178Y (cytotoxicity and mutagenicity) assays, or the unscheduled DNA synthesis assay in human fibroblasts.
-
-Ivermectin had no adverse effects on the fertility in rats in studies at repeated doses of up to 3 times the maximum recommended human dose of 200 mcg/kg (on a mg/m2/day basis).
-
 ## Information for Patients
 
 STROMECTOL should be taken on an empty stomach with water.
@@ -36,6 +28,18 @@ STROMECTOL should be taken on an empty stomach with water.
 Strongyloidiasis: The patient should be reminded of the need for repeated stool examinations to document clearance of infection with Strongyloides stercoralis.
 
 Onchocerciasis: The patient should be reminded that treatment with STROMECTOL does not kill the adult Onchocerca parasites, and therefore repeated follow-up and retreatment is usually required.
+
+## Drug Interactions
+
+Very rare post-marketing reports of increased INR (International Normalized Ratio) have been reported when ivermectin was co-administered with warfarin.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies in animals have not been performed to evaluate the carcinogenic potential of ivermectin.
+
+Ivermectin was not genotoxic in vitro in the Ames microbial mutagenicity assay of Salmonella typhimurium strains TA1535, TA1537, TA98, and TA100 with and without rat liver enzyme activation, the Mouse Lymphoma Cell Line L5178Y (cytotoxicity and mutagenicity) assays, or the unscheduled DNA synthesis assay in human fibroblasts.
+
+Ivermectin had no adverse effects on the fertility in rats in studies at repeated doses of up to 3 times the maximum recommended human dose of 200 mcg/kg (on a mg/m2/day basis).
 
 ## Pregnancy
 
