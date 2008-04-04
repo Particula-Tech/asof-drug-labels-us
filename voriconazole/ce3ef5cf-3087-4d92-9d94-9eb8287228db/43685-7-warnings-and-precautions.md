@@ -59,7 +59,7 @@ During infusion of the intravenous formulation of voriconazole in healthy subjec
 Symptoms appeared immediately upon initiating the infusion.
 Consideration should be given to stopping the infusion should these reactions occur.
 
-## Information For Patients
+## Information for Patients
 
 Patients should be advised:
 
@@ -78,37 +78,40 @@ Patient management should include laboratory evaluation of renal (particularly s
 
 ## Drug Interactions
 
-Tables 9 and 10 provide a summary of significant drug interactions with voriconazole that either have been studied in vivo (clinically) or that may be expected to occur based on results of in vitro metabolism studies with human liver microsomes.
+Tables 11 and 12 provide a summary of significant drug interactions with voriconazole that either have been studied in vivo (clinically) or that may be expected to occur based on results of in vitro metabolism studies with human liver microsomes.
 For more details, see CLINICAL PHARMACOLOGY - Drug Interactions.
 
-Table 9 Effect of Other Drugs on Voriconazole Pharmacokinetics
+Table 11: Effect of Other Drugs on Voriconazole Pharmacokinetics
 
 | Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after 200 mg Q12h) | Recommendations for Voriconazole Dosage Adjustment/Comments |
 | --- | --- | --- |
 | RifampinResults based on in vivo clinical studies generally following repeat oral dosing with 200 mg Q12h voriconazole to healthy subjects, and Rifabutin (CYP450 Induction) | Significantly Reduced | Contraindicated |
-| EfavirenzResults based on in vivo clinical study following repeat oral dosing with 400 mg Q12h for 1 day, then 200 mg Q12h for at-least 2 days voriconazole to healthy subjects (CYP450 Induction) | Significantly Reduced | Coadministration of standard doses of efavirenz with voriconazole is Contraindicated. When voriconazole is coadministered with efavirenz, voriconazole maintenance dose should be increased to 400 mg Q12h and efavirenz should be decreased to 300 mg Q24h (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION-Dosage Adjustment) |
+| EfavirenzResults based on in vivo clinical study following repeat oral dosing with 400 mg Q12h for 1 day, then 200 mg Q12h for at least 2 days voriconazole to healthy subjects (CYP450 Induction) | Significantly Reduced | When voriconazole is coadministered with efavirenz, voriconazole maintenance dose should be increased to 400 mg Q12h and efavirenz should be decreased to 300 mg Q24h (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION-Dosage Adjustment) |
 | High-dose Ritonavir (400mg Q12h) (CYP450 Induction) | Significantly Reduced | Contraindicated |
 | Low-dose Ritonavir (100mg Q12h) (CYP450 Induction) | Reduced | Coadministration of voriconazole and low-dose ritonavir (100 mg Q12h) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole |
 | Carbamazepine (CYP450 Induction) | Not Studied In Vivo or In Vitro, but Likely to Result in Significant Reduction | Contraindicated |
 | Long Acting Barbiturates (CYP450 Induction) | Not Studied In Vivo or In Vitro, but Likely to Result in Significant Reduction | Contraindicated |
 | Phenytoin (CYP450 Induction) | Significantly Reduced | Increase voriconazole maintenance dose from 4 mg/kg to 5 mg/kg IV every 12 hrs or from 200 mg to 400 mg orally every 12 hrs (100 mg to 200 mg orally every 12 hrs in patients weighing less than 40 kg) |
+| St. John's Wort (CYP450 inducer; P-gp inducer) | Significantly Reduced | Contraindicated |
 | Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP2C19 Inhibition) | Increased | Monitoring for adverse events and toxicity related to voriconazole is recommended when coadministered with oral contraceptives |
 | Other HIV Protease Inhibitors (CYP3A4 Inhibition) | In Vivo Studies Showed No Significant Effects of Indinavir on Voriconazole Exposure In Vitro Studies Demonstrated Potential for Inhibition of Voriconazole Metabolism (Increased Plasma Exposure) | No dosage adjustment in the voriconazole dosage needed when coadministered with indinavir Frequent monitoring for adverse events and toxicity related to voriconazole when coadministered with other HIV protease inhibitors |
-| Other NNRTIsNon-Nucleoside Reverse Transcriptase Inhibitors (CYP3A4 Inhibition or CYP450 Induction) | In Vitro Studies Demonstrated Potential for Inhibition of Voriconazole Metabolism by Delavirdine and Other NNRTIs (Increased Plasma Exposure) A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for the Metabolism of Voriconazole to be Induced by Efavirenz and Other NNRTIs (Decreased Plasma Exposure) | Frequent monitoring for adverse events and toxicity related to voriconazole Careful assessment of voriconazole effectiveness |
+| Other NNRTIsNon-Nucleoside Reverse Transcriptase Inhibitors (CYP3A4 Inhibition or CYP450 Induction) | In Vitro Studies Demonstrated Potential for Inhibition of Voriconazole Metabolism by Delavirdine and Other NNRTIs (Increased Plasma Exposure) | Frequent monitoring for adverse events and toxicity related to voriconazole |
+|  | A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for the Metabolism of Voriconazole to be Induced by Efavirenz and Other NNRTIs (Decreased Plasma Exposure) | Careful assessment of voriconazole effectiveness |
 
-Table 10 Effect of Voriconazole on Pharmacokinetics of Other Drugs
+Table 12: Effect of Voriconazole on Pharmacokinetics of Other Drugs
 
 | Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Recommendations for Drug Dosage Adjustment/Comments |
 | --- | --- | --- |
 | SirolimusResults based on in vivo clinical studies generally following repeat oral dosing with 200 mg BID voriconazole to healthy subjects (CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
 | Rifabutin (CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
-| EfavirenzResults based on in vivo clinical study following repeat oral dosing with 400 mg Q12h for 1 day, then 200 mg Q12h for at least 2 days voriconazole to healthy subjects (CYP3A4 Inhibition) | Significantly Increased | Coadministration of standard doses of efavirenz with voriconazole is Contraindicated. When voriconazole is coadministered with efavirenz, voriconazole maintenance dose should be increased to 400 mg Q12h and efavirenz should be decreased to 300 mg Q24h (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION-Dosage Adjustment) |
+| EfavirenzResults based on in vivo clinical study following repeat oral dosing with 400 mg Q12h for 1 day, then 200 mg Q12h for at least 2 days voriconazole to healthy subjects (CYP3A4 Inhibition) | Significantly Increased | When voriconazole is coadministered with efavirenz, voriconazole maintenance dose should be increased to 400 mg Q12h and efavirenz should be decreased to 300 mg Q24h (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION-Dosage Adjustment) |
 | High-dose Ritonavir (400 mg Q12h)(CYP3A4 Inhibition) | No Significant Effect of Voriconazole on Ritonavir Cmax or AUCτ | Contraindicated because of significant reduction of voriconazole Cmax and AUCτ |
 | Low-dose Ritonavir (100mg Q12h) | Slight Decrease in Ritonavir Cmax and AUCτ | Coadministration of voriconazole and low-dose ritonavir (100 mg Q12h) should be avoided (due to the reduction in voriconazole Cmax and AUCτ) unless an assessment of the benefit/risk to the patient justifies the use of voriconazole |
-| Terfenadine, Astemizole, Cisapride, Pimozide, Quinidine(CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated because of potential for QT prolongation and rare occurrence of torsade de pointes |
+| Terfenadine, Astemizole, Cisapride, Pimozide, Quinidine (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated because of potential for QT prolongation and rare occurrence of torsade de pointes |
 | Ergot Alkaloids (CYP450 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated |
 | Cyclosporine (CYP3A4 Inhibition) | AUCτ Significantly Increased; No Significant Effect on Cmax | When initiating therapy with VFEND in patients already receiving cyclosporine, reduce the cyclosporine dose to one-half of the starting dose and follow with frequent monitoring of cyclosporine blood levels. Increased cyclosporine levels have been associated with nephrotoxicity. When VFEND is discontinued, cyclosporine concentrations must be frequently monitored and the dose increased as necessary. |
 | MethadoneResults based on in vivo clinical study following repeat oral dosing with 400 mg Q12h for 1 day, then 200 mg Q12h for 4 days voriconazole to subjects receiving a methadone maintenance dose (30–100 mg QD) (CYP3A4 Inhibition) | Increased | Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation. Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration. Dose reduction of methadone may be needed |
+| Short Acting Opiates (CYP3A4 Inhibtion) | Significantly Increased | Reduction in the dose of alfentanil and other short acting opiates metabolized via CYP3A4 (e.g., sufentanil) should be considered when coadministered with VFEND. As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, a longer respiratory monitoring period may be necessary (see CLINICAL PHARMACOLOGY - Drug Interactions). |
 | Tacrolimus (CYP3A4 Inhibition) | Significantly Increased | When initiating therapy with VFEND in patients already receiving tacrolimus, reduce the tacrolimus dose to one-third of the starting dose and follow with frequent monitoring of tacrolimus blood levels. Increased tacrolimus levels have been associated with nephrotoxicity. When VFEND is discontinued, tacrolimus concentrations must be frequently monitored and the dose increased as necessary. |
 | Phenytoin (CYP2C9 Inhibition) | Significantly Increased | Frequent monitoring of phenytoin plasma concentrations and frequent monitoring of adverse effects related to phenytoin. |
 | Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP3A4 Inhibition) | Increased | Monitoring for adverse events related to oral contraceptives is recommended during coadministration. |
@@ -145,6 +148,10 @@ Patients being treated with voriconazole are likely to be treated concomitantly 
 Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
 
+## Monitoring of Pancreatic Function
+
+Adults and children with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during VFEND treatment.
+
 ## Dermatological Reactions
 
 Patients have rarely developed serious cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
@@ -152,7 +159,7 @@ If patients develop a rash, they should be monitored closely and consideration g
 VFEND has been infrequently associated with photosensitivity skin reaction, especially during long-term therapy.
 It is recommended that patients avoid strong, direct sunlight during VFEND therapy.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year carcinogenicity studies were conducted in rats and mice.
 Rats were given oral doses of 6, 18 or 50 mg/kg voriconazole, or 0.2, 0.6, or 1.6 times the recommended maintenance dose (RMD) on a mg/m2 basis.
@@ -190,9 +197,11 @@ Twelve out of 22 (55%) patients had successful response after treatment with a m
 
 Sparse plasma sampling for pharmacokinetics in adolescents was conducted in the therapeutic studies (see CLINICAL PHARMACOLOGY - Pharmacokinetics, General Pharmacokinetic Characteristics).
 
+There have been postmarketing reports of pancreatitis in pediatric patients.
+
 ## Geriatric Use
 
 In multiple dose therapeutic trials of voriconazole, 9.2% of patients were ≥ 65 years of age and 1.8% of patients were ≥ 75 years of age.
-In a study in healthy volunteers, the systemic exposure (AUC) and peak plasma concentrations (Cmax) were increased in elderly males compared to young males.
+In a study in healthy subjects, the systemic exposure (AUC) and peak plasma concentrations (Cmax) were increased in elderly males compared to young males.
 Pharmacokinetic data obtained from 552 patients from 10 voriconazole therapeutic trials showed that voriconazole plasma concentrations in the elderly patients were approximately 80% to 90% higher than those in younger patients after either IV or oral administration.
 However, the overall safety profile of the elderly patients was similar to that of the young so no dosage adjustment is recommended (see CLINICAL PHARMACOLOGY - Pharmacokinetics in Special Populations).

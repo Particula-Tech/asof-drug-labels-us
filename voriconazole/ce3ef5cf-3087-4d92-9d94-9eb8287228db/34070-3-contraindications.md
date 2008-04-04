@@ -14,9 +14,8 @@ Coadministration of VFEND with high-dose ritonavir (400 mg Q12h) is contraindica
 Coadministration of voriconazole and low-dose ritonavir (100 mg Q12h) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole.
 (see CLINICAL PHARMACOLOGY - Drug Interactions, PRECAUTIONS - Drug Interactions).
 
-Coadministration of standard doses of VFEND with efavirenz is contraindicated because efavirenz significantly decreases voriconazole plasma concentrations while VFEND also significantly increases efavirenz plasma concentrations.
-Concomitant use of adjusted doses of voriconazole and efavirenz may be administered (see CLINICAL PHARMACOLOGY - Drug Interactions, PRECAUTIONS - Drug Interactions and DOSAGE AND ADMINISTRATION – Dosage Adjustment).
-
 Coadministration of VFEND with rifabutin is contraindicated since VFEND significantly increases rifabutin plasma concentrations and rifabutin also significantly decreases voriconazole plasma concentrations (see CLINICAL PHARMACOLOGY - Drug Interactions, PRECAUTIONS - Drug Interactions).
 
 Coadministration of VFEND with ergot alkaloids (ergotamine and dihydroergotamine) is contraindicated because VFEND may increase the plasma concentration of ergot alkaloids, which may lead to ergotism.
+
+Coadministration of VFEND with St. John's Wort is contraindicated (see CLINICAL PHARMACOLOGY - Drug Interactions, PRECAUTIONS - Drug Interactions).

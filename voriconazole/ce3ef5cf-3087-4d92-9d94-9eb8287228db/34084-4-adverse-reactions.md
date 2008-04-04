@@ -7,19 +7,19 @@ The treatment-related adverse events which most often led to discontinuation of 
 
 ## Discussion of Adverse Reactions
 
-The data described in Table 11 reflect exposure to voriconazole in 1655 patients in the therapeutic studies.
+The data described in Table 13 reflect exposure to voriconazole in 1655 patients in the therapeutic studies.
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and non-neutropenic patients.
-This subgroup does not include healthy volunteers and patients treated in the compassionate use and non-therapeutic studies.
+This subgroup does not include healthy subjects and patients treated in the compassionate use and non-therapeutic studies.
 This patient population was 62% male, had a mean age of 46 years (range 11–90, including 51 patients aged 12–18 years), and was 78% white and 10% black.
 In the initial regulatory filing, 561 patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over six months.
-Table 11 includes all adverse events which were reported at an incidence of ≥2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of <2%.
+Table 13 includes all adverse events which were reported at an incidence of ≥2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of <2%.
 
 In study 307/602, 381 patients (196 on voriconazole, 185 on amphotericin B) were treated to compare voriconazole to amphotericin B followed by other licensed antifungal therapy in the primary treatment of patients with acute invasive aspergillosis.
 In study 608, 403 patients with candidemia were treated to compare voriconazole (272 patients) to the regimen of amphotericin B followed by fluconazole (131 patients).
 Study 305 evaluated the effects of oral voriconazole (200 patients) and oral fluconazole (191 patients) in the treatment of esophageal candidiasis.
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 11 Treatment Emergent Adverse Events
+Table 13 Treatment Emergent Adverse Events
 
 | Special SensesSee WARNINGS – Visual Disturbances, PRECAUTIONS – Information for Patients |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ There have been post-marketing reports of prolonged visual adverse events, inclu
 These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which may have caused or contributed to these events (see WARNINGS).
 
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
-In a study in healthy volunteers investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
+In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
 The ERG measures electrical currents in the retina.
 The effects were noted early in administration of voriconazole and continued through the course of study drug dosing.
 Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal (see WARNINGS, PRECAUTIONS – Information For Patients).
@@ -88,7 +88,7 @@ It is recommended that patients avoid strong, direct sunlight during VFEND thera
 
 The following adverse events occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
-The list does not include events included in Table 11 above and does not include every event reported in the voriconazole clinical program.
+The list does not include events included in Table 13 above and does not include every event reported in the voriconazole clinical program.
 
 Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction (see PRECAUTIONS), ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain
 
@@ -133,12 +133,12 @@ Patients being treated with voriconazole are likely to be treated concomitantly 
 It is recommended that patients are monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
 
-Tables 12 and 13 and 14 show the number of patients with hypokalemia and clinically significant changes in renal and liver function tests in three randomized, comparative multicenter studies.
+Tables 14 and 15 and 16 show the number of patients with hypokalemia and clinically significant changes in renal and liver function tests in three randomized, comparative multicenter studies.
 In study 305, patients with esophageal candidiasis were randomized to either oral voriconazole or oral fluconazole.
 In study 307/602, patients with definite or probable invasive aspergillosis were randomized to either voriconazole or amphotericin B therapy.
 In study 608, patients with candidemia were randomized to either voriconazole or the regimen of amphotericin B followed by fluconazole.
 
-Table 12 Protocol 305 Clinically Significant Laboratory Test Abnormalities
+Table 14 Protocol 305 Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n /N (%) |
 | --- | --- | --- | --- |
@@ -151,9 +151,9 @@ Table 12 Protocol 305 Clinically Significant Laboratory Test Abnormalities
 | N total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
 | ULN upper limit of normal |  |  |  |
 
-Table 13 Protocol 307/602 Clinically Significant Laboratory Test Abnormalities
+Table 15 Protocol 307/602 Clinically Significant Laboratory Test Abnormalities
 
-|  |  | n/N (%) | n /N (%) |
+|  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
 |  | Criteria Without regard to baseline value | Voriconazole | Amphotericin B Amphotericin B followed by other licensed antifungal therapy |
 | T. Bilirubin | >1.5× ULN | 35/180 (19.4) | 46/173 (26.6) |
@@ -167,9 +167,9 @@ Table 13 Protocol 307/602 Clinically Significant Laboratory Test Abnormalities
 | ULN upper limit of normal |  |  |  |
 | LLN lower limit of normal |  |  |  |
 
-Table 14 Protocol 608 Clinically Significant Laboratory Test Abnormalities
+Table 16 Protocol 608 Clinically Significant Laboratory Test Abnormalities
 
-|  |  | n/N (%) | n /N (%) |
+|  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
 |  | Criteria Without regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |
 | T. Bilirubin | >1.5× ULN | 50/261 (19.2) | 31/115 (27.0) |

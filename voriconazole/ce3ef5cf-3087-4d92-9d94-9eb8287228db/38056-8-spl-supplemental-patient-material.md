@@ -6,7 +6,7 @@ This information does not replace talking with your doctor about your condition 
 
 What is VFEND?
 
-VFEND is a prescription medicine that treats certain serious fungal infections in your blood and body; these infections are called "aspergillosis,""esophageal candidiasis,""Scedosporium,""Fusarium," and "candidemia.".
+VFEND is a prescription medicine that treats certain serious fungal infections in your blood and body; these infections are called "aspergillosis," "esophageal candidiasis," "Scedosporium," "Fusarium," and "candidemia.".
 
 VFEND is for adults and children over 12 years of age.
 
@@ -47,10 +47,11 @@ Tell your doctor right away if you are taking any of these medications:
 - carbamazepine (Tegretol®)
 - rifampin (Rifadin®)
 - rifabutin (Mycobutin®)
+- St. John's Wort (herbal supplement)
 - quinidine (like Quinaglute®)
 - ergotamine, dihydroergotamine, methysergide (Sansert®), and bromocriptine (Parlodel®)
 - long-acting barbiturates like phenobarbital (Luminal®)
-- ritonavir (Norvir ®) and efavirenz (Sustiva®) (Some doses of ritonavir and efavirenz can be taken at the same time as VFEND, but you must check with your doctor first)
+- ritonavir (Norvir®) and efavirenz (Sustiva®) (Some doses of ritonavir and efavirenz can be taken at the same time as VFEND, but you must check with your doctor first)
 
 If you have questions or are uncertain about your medications, talk with your doctor or pharmacist.
 
@@ -123,8 +124,8 @@ Call your doctor right away if you have any of the following symptoms:
   Your doctor will decide if you can keep taking it or if you need a lower dose.
   Call your doctor if you have any of these symptoms of kidney problems:
   - no appetite, feeling very tired
-  - changes in thinking, seizures, or trouble breathing
-  - nausea and vomiting, or itching
+- changes in thinking, seizures, or trouble breathing
+- nausea and vomiting, or itching
 - Serious allergic reactions can happen with VFEND injection.
   These include sweating, fast heartbeats, chest tightness, trouble breathing, nausea, itching, and rash.
   Your doctor should stop your VFEND infusion if you have any of these symptoms.
@@ -166,8 +167,8 @@ VFEND tablets: lactose monohydrate, pregelatinized starch, croscarmellose sodium
 
 VFEND liquid: colloidal silicon dioxide, titanium dioxide, xanthan gum, sodium citrate dihydrate, sodium benzoate, anhydrous citric acid, natural orange flavor, and sucrose
 
-Rx only
+Rx Only
 
 Trademarks are the property of their respective owners.
 
-LAB-0311-4.0 December 2007
+LAB-0311-5.0 March 2008

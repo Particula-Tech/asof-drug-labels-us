@@ -8,7 +8,21 @@ VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilu
 
 NOT FOR IV BOLUS INJECTION
 
+### Use of VFEND I.V. with other Parenteral Drug Products
+
+#### Blood products and concentrated electrolytes
+
+VFEND I.V. must not be infused concomitantly with any blood product or short-term infusion of concentrated electrolytes, even if the two infusions are running in separate intravenous lines (or cannulas).
 Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of VFEND therapy (see PRECAUTIONS).
+
+#### Intravenous solutions containing (non-concentrated) electrolytes
+
+VFEND I.V. can be infused at the same time as other intravenous solutions containing (non-concentrated) electrolytes, but must be infused through a separate line.
+
+#### Total parenteral nutrition (TPN)
+
+VFEND I.V. can be infused at the same time as total parenteral nutrition, but must be infused in a separate line.
+If infused through a multiple-lumen catheter, TPN needs to be administered using a different port from the one used for VFEND I.V.
 
 ### Use in Adults
 
@@ -17,25 +31,25 @@ Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia sh
 For the treatment of adults with invasive aspergillosis and infections due to Fusarium spp. and Scedosporium apiospermum, therapy must be initiated with the specified loading dose regimen of intravenous VFEND to achieve plasma concentrations on Day 1 that are close to steady state.
 On the basis of high oral bioavailability, switching between intravenous and oral administration is appropriate when clinically indicated (see CLINICAL PHARMACOLOGY).
 Once the patient can tolerate medication given by mouth, the oral tablet form or oral suspension form of VFEND may be utilized.
-(See Table 15.)
+(See Table 17.)
 
 #### Candidemia in nonneutropenic patients and other deep tissue Candida infections
 
-See Table 15.
+See Table 17.
 Patients should be treated for at least 14 days following resolution of symptoms or following last positive culture, whichever is longer.
 
 #### Esophageal Candidiasis
 
-See Table 15.
+See Table 17.
 Patients should be treated for a minimum of 14 days and for at least 7 days following resolution of symptoms.
 
-Table 15 Recommended Dosing Regimen
+Table 17: Recommended Dosing Regimen
 
 |  | IV | IV | OralPatients who weigh 40 kg or more should receive an oral maintenance dose of 200 mg VFEND every 12 hours. Adult patients who weigh less than 40 kg should receive an oral maintenance dose of 100 mg every 12 hours. |
 | --- | --- | --- | --- |
 | Infection | Loading dose | Maintenance Dose |  |
 | Invasive Aspergillosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
-| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3–4 mg/kg q12h In clinical trials, patients with candidemia received 3 mg/kg q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg as salvage therapy. Appropriate dose should be based on the severity and nature of the infection | 200 mg q12h |
+| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3–4 mg/kg q12h In clinical trials, patients with candidemia received 3 mg/kg q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg as salvage therapy. Appropriate dose should be based on the severity and nature of the infection. | 200 mg q12h |
 | Esophageal Candidiasis | Not evaluated in patients with esophageal candidiasis. |  | 200 mg q12h |
 | Scedosporiosis and Fusariosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
 
@@ -49,7 +63,8 @@ If patients are unable to tolerate 4 mg/kg IV, reduce the intravenous maintenanc
 
 Phenytoin may be coadministered with VFEND if the intravenous maintenance dose of VFEND is increased to 5 mg/kg every 12 hours, or the oral maintenance dose is increased from 200 mg to 400 mg every 12 hours (100 mg to 200 mg every 12 hours in adult patients weighing less than 40 kg) (see CLINICAL PHARMACOLOGY, PRECAUTIONS - Drug Interactions).
 
-When voriconazole is coadministered with efavirenz, the voriconazole maintenance dose should be increased to 400 mg Q12h and the efavirenz dose should be decreased to 300 mg Q24h (see CLINICAL PHARMACOLOGY and PRECAUTIONS – Drug Interactions).
+When voriconazole is coadministered with efavirenz, the voriconazole maintenance dose should be increased to 400 mg Q12h and the efavirenz dose should be decreased to 300 mg Q24h.
+When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored (see CLINICAL PHARMACOLOGY and PRECAUTIONS – Drug Interactions).
 
 Duration of therapy should be based on the severity of the patient's underlying disease, recovery from immunosuppression, and clinical response.
 
@@ -97,7 +112,7 @@ Shake the vial until all the powder is dissolved.
 VFEND must be infused over 1–2 hours, at a concentration of 5 mg/mL or less.
 Therefore, the required volume of the 10 mg/mL VFEND concentrate should be further diluted as follows (appropriate diluents listed below):
 
-1. Calculate the volume of 10 mg/mL VFEND concentrate required based on the patient's weight (see Table 16).
+1. Calculate the volume of 10 mg/mL VFEND concentrate required based on the patient's weight (see Table 18).
 2. In order to allow the required volume of VFEND concentrate to be added, withdraw and discard at least an equal volume of diluent from the infusion bag or bottle to be used.
    The volume of diluent remaining in the bag or bottle should be such that when the 10 mg/mL VFEND concentrate is added, the final concentration is not less than 0.5 mg/mL nor greater than 5 mg/mL.
 3. Using a suitable size syringe and aseptic technique, withdraw the required volume of VFEND concentrate from the appropriate number of vials and add to the infusion bag or bottle.
@@ -105,7 +120,7 @@ Therefore, the required volume of the 10 mg/mL VFEND concentrate should be furth
 
 The final VFEND solution must be infused over 1–2 hours at a maximum rate of 3 mg/kg per hour.
 
-Table 16 Required Volumes of 10 mg/mL VFEND Concentrate
+Table 18: Required Volumes of 10 mg/mL VFEND Concentrate
 
 | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) |  |
 | --- | --- | --- | --- |
@@ -155,13 +170,6 @@ The compatibility of VFEND I.V. with diluents other than those described above i
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 #### Incompatibilities
-
-VFEND I.V. must not be infused into the same line or cannula concomitantly with other drug infusions, including parenteral nutrition, e.g., Aminofusin 10% Plus.
-Aminofusin 10% Plus is physically incompatible, with an increase in subvisible particulate matter after 24 hours of storage at 4°C.
-
-Infusions of blood products must not occur simultaneously with VFEND I.V.
-
-Infusions of total parenteral nutrition can occur simultaneously with VFEND I.V.
 
 VFEND I.V. must not be diluted with 4.2% Sodium Bicarbonate Infusion.
 The mildly alkaline nature of this diluent caused slight degradation of VFEND after 24 hours storage at room temperature.
