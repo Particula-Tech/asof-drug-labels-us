@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "morphine",
+  "labeler": "Xanodyne pharmaceuticals, inc.",
+  "package_ndcs": [
+    "66479-540-10",
+    "66479-540-25",
+    "66479-541-10",
+    "66479-541-25",
+    "66479-542-10",
+    "66479-542-25",
+    "66479-543-10",
+    "66479-543-25"
+  ],
+  "products": [],
+  "setid": "b5cf84ad-1efa-4ea0-9495-1a9e80c069fc",
+  "source": "dailymed"
+}
