@@ -82,7 +82,7 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 
 Pregnancy Category X. (See CONTRAINDICATIONS.)
 
-## Nursing Mothers:
+## Nursing mothers:
 
 Testosterone cypionate is not recommended for use in nursing mothers.
 

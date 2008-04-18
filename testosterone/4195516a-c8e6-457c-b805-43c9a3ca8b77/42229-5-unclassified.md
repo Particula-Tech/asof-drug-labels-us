@@ -1,6 +1,7 @@
-Manufactured by: Draxis Pharma Inc. 16751 Trans-Canada Hwy.
-Kirkland, Quebec H9H 4J4 Canada
+CIII
 
-Manufactured for: Paddock Laboratories, Inc. 3940 Quebec Avenue North Minneapolis, MN 55427 USA
+Manufactured by: PharmaForce, Inc. Hilliard, OH 43026
 
-October 2003
+Manufactured for: Paddock Laboratories, Inc. Minneapolis, MN 55427
+
+November 2006
