@@ -104,9 +104,9 @@ Central Nervous System Quinolones, including ciprofloxacin, may also cause centr
 (See WARNINGS, Information for Patients, and Drug Interactions .)
 Renal Impairment Alteration of the dosage regimen is necessary for patients with impairment of renal function.
 (See DOSAGE AND ADMINISTRATION .)
-Phototoxicity Moderate to severe phototoxicity manifested as an exaggerated sunburn reaction has been observed in patients who are exposed to direct sunlight while receiving some members of the quinolone class of drugs.
-Excessive sunlight should be avoided.
-Therapy should be discontinued if phototoxicity occurs.
+Photosensitivity/Phototoxicity Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
+Therefore, excessive exposure to these sources of light should be avoided.
+Drug therapy should be discontinued if photosensitivity/phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Events ).
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -123,7 +123,10 @@ Patients should be advised:
   Ciprofloxacin may be taken two hours before or six hours after taking these products.
   Ciprofloxacin should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin may be taken with a meal that contains these products.
 - that ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
-- to avoid excessive sunlight or artificial ultraviolet light while receiving ciprofloxacin and to discontinue therapy if phototoxicity occurs.
+- that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
+  Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
+  If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
+  If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
 - that peripheral neuropathies have been associated with ciprofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
 - to discontinue ciprofloxacin treatment; rest and refrain from exercise; and inform their physician if they experience pain, inflammation, or rupture of a tendon.

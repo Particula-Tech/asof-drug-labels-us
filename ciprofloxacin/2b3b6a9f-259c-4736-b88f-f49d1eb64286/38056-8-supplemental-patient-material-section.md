@@ -35,8 +35,11 @@ If diarrhea persists, call your health care professional.
 Rare cases of allergic reactions have been reported in patients receiving quinolones, including ciprofloxacin tablets, even after just one dose.
 If you develop hives, difficulty breathing, or other symptoms of a severe allergic reaction, seek emergency treatment right away.
 If you develop a skin rash, you should stop taking ciprofloxacin tablets and call your health care professional.
-Some patients taking quinolone antibiotics may become more sensitive to sunlight or ultraviolet light such as that used in tanning salons.
-You should avoid excessive exposure to sunlight or ultraviolet light while you are taking ciprofloxacin tablets.
+Sun sensitivity (photosensitivity), which can appear as skin eruption or severe sunburn, can occur in some patients taking quinolone antibiotics after exposure to sunlight or artificial ultraviolet (UV) light (e.g., tanning beds).
+Ciprofloxacin tablets have been infrequently associated with photosensitivity.
+Avoid excessive exposure to sunlight or artificial UV light while taking ciprofloxacin tablets.
+Use a sunscreen and wear protective clothing if out in the sun.
+If photosensitivity develops, contact your physician.
 You should be careful about driving or operating machinery until you are sure ciprofloxacin tablets are not causing dizziness.
 Convulsions have been reported in patients receiving quinolone antibiotics including ciprofloxacin.
 Be sure to let your physician know if you have a history of convulsions.
