@@ -1,34 +1,35 @@
-BOX WARNING
+# BOXED WARNING
 
-HEPATOTOXICITY:
+WARNING: LIFE THREATENING ADVERSE REACTIONS
 
-HEPATIC FAILURE RESULTING IN FATALITIES HAS OCCURRED IN PATIENTS RECEIVING VALPROIC ACID AND ITS DERIVATIVES.
-EXPERIENCE HAS INDICATED THAT CHILDREN UNDER THE AGE OF TWO YEARS ARE AT A CONSIDERABLY INCREASED RISK OF DEVELOPING FATAL HEPATOTOXICITY, ESPECIALLY THOSE ON MULTIPLE ANTICONVULSANTS, THOSE WITH CONGENITAL METABOLIC DISORDERS, THOSE WITH SEVERE SEIZURE DISORDERS ACCOMPANIED BY MENTAL RETARDATION, AND THOSE WITH ORGANIC BRAIN DISEASE.
-WHEN DEPAKOTE IS USED IN THIS PATIENT GROUP, IT SHOULD BE USED WITH EXTREME CAUTION AND AS A SOLE AGENT.
-THE BENEFITS OF THERAPY SHOULD BE WEIGHED AGAINST THE RISKS.
-ABOVE THIS AGE GROUP, EXPERIENCE IN EPILEPSY HAS INDICATED THAT THE INCIDENCE OF FATAL HEPATOTOXICITY DECREASES CONSIDERABLY IN PROGRESSIVELY OLDER PATIENT GROUPS.
+HEPATOTOXICITY
 
-THESE INCIDENTS USUALLY HAVE OCCURRED DURING THE FIRST SIX MONTHS OF TREATMENT.
-SERIOUS OR FATAL HEPATOTOXICITY MAY BE PRECEDED BY NON-SPECIFIC SYMPTOMS SUCH AS MALAISE, WEAKNESS, LETHARGY, FACIAL EDEMA, ANOREXIA, AND VOMITING.
-IN PATIENTS WITH EPILEPSY, A LOSS OF SEIZURE CONTROL MAY ALSO OCCUR.
-PATIENTS SHOULD BE MONITORED CLOSELY FOR APPEARANCE OF THESE SYMPTOMS.
-LIVER FUNCTION TESTS SHOULD BE PERFORMED PRIOR TO THERAPY AND AT FREQUENT INTERVALS THEREAFTER, ESPECIALLY DURING THE FIRST SIX MONTHS.
+Hepatic failure resulting in fatalities has occurred in patients receiving valproic acid and its derivatives.
+Children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those on multiple anticonvulsants, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease.
+When Depakote Sprinkle Capsules are used in this patient group, they should be used with extreme caution and as a sole agent.
+The benefits of therapy should be weighed against the risks.
+The incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
-TERATOGENICITY:
+These incidents usually have occurred during the first six months of treatment.
+Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
+In patients with epilepsy, a loss of seizure control may also occur.
+Patients should be monitored closely for appearance of these symptoms.
+Liver function tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months [See Warnings and Precautions (5.1)].
 
-VALPROATE CAN PRODUCE TERATOGENIC EFFECTS SUCH AS NEURAL TUBE DEFECTS (E.G., SPINA BIFIDA).
-ACCORDINGLY, THE USE OF VALPROATE PRODUCTS IN WOMEN OF CHILDBEARING POTENTIAL REQUIRES THAT THE BENEFITS OF ITS USE BE WEIGHED AGAINST THE RISK OF INJURY TO THE FETUS.
-THIS IS ESPECIALLY IMPORTANT WHEN THE TREATMENT OF A SPONTANEOUSLY REVERSIBLE CONDITION NOT ORDINARILY ASSOCIATED WITH PERMANENT INJURY OR RISK OF DEATH (E.G., MIGRAINE) IS CONTEMPLATED.
-SEE WARNINGS, INFORMATION FOR PATIENTS.
+TERATOGENICITY
 
-AN INFORMATION SHEET DESCRIBING THE TERATOGENIC POTENTIAL OF VALPROATE IS AVAILABLE FOR PATIENTS.
+Valproate can produce teratogenic effects such as neural tube defects (e.g., spina bifida).
+Accordingly, the use of Depakote Sprinkle Capsules in women of childbearing potential requires that the benefits of its use be weighed against the risk of injury to the fetus.
+This is especially important when the treatment of a spontaneously reversible condition not ordinarily associated with permanent injury or risk of death (e.g., migraine) is contemplated.
+[See Warnings and Precautions (5.2)]
 
-PANCREATITIS:
+An information sheet describing the teratogenic potential of valproate is available for patients[See Patient Counseling Information (17.7)].
 
-CASES OF LIFE-THREATENING PANCREATITIS HAVE BEEN REPORTED IN BOTH CHILDREN AND ADULTS RECEIVING VALPROATE.
-SOME OF THE CASES HAVE BEEN DESCRIBED AS HEMORRHAGIC WITH A RAPID PROGRESSION FROM INITIAL SYMPTOMS TO DEATH.
-CASES HAVE BEEN REPORTED SHORTLY AFTER INITIAL USE AS WELL AS AFTER SEVERAL YEARS OF USE.
-PATIENTS AND GUARDIANS SHOULD BE WARNED THAT ABDOMINAL PAIN, NAUSEA, VOMITING, AND/OR ANOREXIA CAN BE SYMPTOMS OF PANCREATITIS THAT REQUIRE PROMPT MEDICAL EVALUATION.
-IF PANCREATITIS IS DIAGNOSED, VALPROATE SHOULD ORDINARILY BE DISCONTINUED.
-ALTERNATIVE TREATMENT FOR THE UNDERLYING MEDICAL CONDITION SHOULD BE INITIATED AS CLINICALLY INDICATED.
-(See WARNINGS and PRECAUTIONS.)
+PANCREATITIS
+
+Cases of life-threatening pancreatitis have been reported in both children and adults receiving valproate.
+Some of the cases have been described as hemorrhagic with a rapid progression from initial symptoms to death.
+Cases have been reported shortly after initial use as well as after several years of use.
+Patients and guardians should be warned that abdominal pain, nausea, vomiting and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
+If pancreatitis is diagnosed, valproate should ordinarily be discontinued.
+Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Warnings and Precautions (5.3)].
