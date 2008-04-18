@@ -197,7 +197,7 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
 Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
+(See BOXED WARNINGS, WARNINGSand PRECAUTIONS.)
 
 Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
@@ -230,6 +230,7 @@ Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
 Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70.
-(See WARNINGS, Dementia.)
+(See WARNINGS, 3.
+Dementia.)
 
 There have not been sufficient numbers of geriatric patients involved in studies utilizing ESTRACE (estradiol vaginal cream, USP, 0.01%) to determine whether those over 65 years of age differ from younger subjects in their response to ESTRACE (estradiol vaginal cream, USP, 0.01%).

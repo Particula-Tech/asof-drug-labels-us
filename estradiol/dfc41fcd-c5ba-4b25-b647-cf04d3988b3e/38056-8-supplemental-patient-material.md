@@ -1,6 +1,6 @@
 # INFORMATION FOR THE PATIENT
 
-(Updated October 2005)
+(Updated September 2007)
 
 NOTE: The number of doses per tube will vary with dosage requirements and patient handling.
 
@@ -54,9 +54,10 @@ Tell your healthcare provider:
 6. Unscrew applicator from tube.
 7. Replace cap onto tube.
 8. Lie on back with knees drawn up.
-   To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position.
+   To deliver medication, gently insert applicator deeply into the vagina and press plunger downward to its original position.
 9. To cleanse applicator: Pull plunger to remove it from barrel.
-   Wash with mild soap and warm water (DO NOT BOIL OR USE HOT WATER).
+   Wash with mild soap and warm water.
+   DO NOT BOIL OR USE HOT WATER.
 
 ESTRACE Vaginal Cream should be used at the lowest dose possible for your treatment only as long as needed.
 You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with ESTRACE Vaginal Cream.
@@ -143,9 +144,9 @@ Each gram of ESTRACE Vaginal Cream contains 0.1 mg estradiol in a nonliquefying 
 
 Manufactured by:
 
-Contract Pharmaceuticals Limited Niagara, Buffalo, NY 14213 for
+Contract Pharmaceuticals Limited, Buffalo, NY 14213 for
 
-Warner Chilcott Company, Inc., Fajardo, PR 00738
+Warner Chilcott (US), Inc., Rockaway, NJ 07866
 
 Marketed by:
 
@@ -153,4 +154,6 @@ Warner Chilcott (US), Inc.
 
 Rockaway, NJ 07866
 
-3754G054
+1-800-521-8813
+
+3754G057 Revised: September 2007

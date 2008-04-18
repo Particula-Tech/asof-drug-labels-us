@@ -14,7 +14,7 @@ These vary in proportion from tissue to tissue.
 Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH), through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Absorption
 
@@ -50,7 +50,7 @@ Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
 Inducers of CYP3A4 such as St. John’s Wort preparations (Hypericum perforatum), phenobarbital, carbamazepine, and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
 Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase plasma concentrations of estrogens and may result in side effects.
 
-Clinical Studies
+## Clinical Studies
 
 Women’s Health Initiative Studies
 
@@ -86,7 +86,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHIadapted from JAMA, 
 For those outcomes included in the "global index," the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
-(See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
+(See BOXED WARNINGS, WARNINGS, andPRECAUTIONS.)
 
 Women’s Health Initiative Memory Study
 
@@ -96,4 +96,5 @@ After an average follow-up of 4 years, 40 women in the estrogen/progestin group 
 The relative risk of probable dementia in the hormone therapy group was 2.05 (95% CI, 1.21 to 3.48) compared to placebo.
 Differences between groups became apparent in the first year of treatment.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See BOXED WARNING and WARNINGS, Dementia.)
+(See BOXED WARNING and WARNINGS, 3.
+Dementia.)
