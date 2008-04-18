@@ -1,6 +1,6 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The expected symptoms with overdosage are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the symptoms listed under ADVERSE REACTIONS, e.g., seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, and sleeplessness.
+The expected symptoms with overdosage are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the symptoms listed under ADVERSE REACTIONS, e.g., seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, sleeplessness.
 Hypokalemia may also occur.
 
 As with all sympathomimetic aerosol medications, cardiac arrest and even death may be associated with abuse of VENTOLIN HFA.

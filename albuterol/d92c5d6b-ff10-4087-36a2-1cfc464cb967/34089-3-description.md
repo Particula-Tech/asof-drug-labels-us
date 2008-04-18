@@ -1,7 +1,7 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-The active component of VENTOLIN HFA (albuterol sulfate HFA inhalation aerosol) is albuterol sulfate, USP, the racemic form of albuterol and a relatively selective beta2-adrenergic bronchodilator.
-Albuterol sulfate has the chemical name α1-[(tert-butylamino)methyl]-4-hydroxy-m-xylene-α, α’-diol sulfate (2:1)(salt) and the following chemical structure:
+The active component of VENTOLIN HFA is albuterol sulfate, USP, the racemic form of albuterol and a relatively selective beta2-adrenergic bronchodilator.
+Albuterol sulfate has the chemical name α1-[(tert-butylamino)methyl]-4-hydroxy-m-xylene-α, α′-diol sulfate (2:1)(salt) and the following chemical structure:
 
 Albuterol sulfate is a white crystalline powder with a molecular weight of 576.7, and the empirical formula is (C13H21NO3)2•H2SO4.
 It is soluble in water and slightly soluble in ethanol.
@@ -14,7 +14,7 @@ Each unit contains a microcrystalline suspension of albuterol sulfate in propell
 It contains no other excipients.
 
 Priming VENTOLIN HFA is essential to ensure appropriate albuterol content in each actuation.
-To prime the inhaler, release 4 test sprays into the air away from the face, shaking well before each spray.
+To prime the inhaler, release 4 sprays into the air away from the face, shaking well before each spray.
 The inhaler should be primed before using it for the first time, when it has not been used for more than 2 weeks, or when it has been dropped.
 
 After priming, each actuation of the inhaler delivers 120 mcg of albuterol sulfate, USP in 75 mg of suspension from the valve and 108 mcg of albuterol sulfate, USP from the mouthpiece (equivalent to 90 mcg of albuterol base from the mouthpiece).
