@@ -1,5 +1,14 @@
 # PRECAUTIONS
 
+## Central Nervous System Effects
+
+Oxybutynin is associated with anticholinergic central nervous system (CNS) effects (See Adverse Reactions).
+A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence.
+Patients should be monitored for signs of anticholinergic CNS effects, particularly in the first few months after beginning treatment or increasing the dose.
+If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.
+
+Oxybutynin Chloride Tablets should be used with caution in patients with preexisting dementia treated with cholinesterase inhibitors due to the risk of aggravation of symptoms.
+
 ## General
 
 Oxybutynin chloride should be used with caution in the frail elderly, in patients with hepatic or renal impairment, and in patients with myasthenia gravis.
@@ -24,7 +33,7 @@ Oxybutynin chloride should be used with caution in patients who have gastroesoph
 
 Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin chloride are administered in the presence of high environmental temperature.
 
-Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence) or blurred vision, patients should be advised to exercise caution.
+Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence), or blurred vision, patients should be advised to exercise caution.
 
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents such as oxybutynin.
 
@@ -65,8 +74,13 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 The safety and efficacy of oxybutynin chloride administration have been demonstrated for pediatric patients 5 years of age and older (see DOSAGE AND ADMINISTRATION).
 
-Clinical study information for pediatric patients 5-15 years of age with symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida) is available.
-However, due to marketing exclusivity rights, this product is not labeled for this pediatric use.
+The safety and efficacy of oxybutynin chloride tablets and oxybutynin chloride syrup was studied in 30 and in 26 children, respectively, in a 24-week, open-label trial.
+Patients were aged 5-15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride.
+Study results demonstrated that the administration of oxybutynin chloride was associated with improvement in clinical and urodynamic parameters.
+
+At total daily doses ranging from 5 mg to 15 mg, treatment with oxybutynin chloride tablets was associated with an increase from baseline in mean urine volume per catheterization from 122 mL to 145 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 168 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 43% to 61%.
+Urodynamic results in these patients were consistent with the clinical results.
+Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H2O to 33 cm H2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H2O) from 39% to 20%.
 
 As there is insufficient clinical data for pediatric patients under age 5, oxybutynin chloride is not recommended for this age group.
 
