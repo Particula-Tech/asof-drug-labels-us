@@ -1,0 +1,11 @@
+# CLINICAL PHARMACOLOGY
+
+In Vitro Data: In vitro studies have demonstrated tobramycin is active against susceptible strains of the following microorganisms:
+
+Staphylococci, including S. aureus and S. epidermidis (coagulase-positive and coagulase-negative), including penicillin-resistant strains.
+
+Streptococci, including some of the Group A-betahemolytic species, some nonhemolytic species, and some Streptococcuspneumoniae.
+
+Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Proteus mirabilis, Morganellamorganii, most Proteus vulgaris strains, Haemophilus influenzae and H. aegyptius, Moraxella lacunata, and Acinetobactercalcoaceticus and some Neisseria species.
+Bacterial susceptibility studies demonstrate that in some cases, microorganisms resistant to gentamicin retain susceptibility to tobramycin.
+A significant bacterial population resistant to tobramycin has not yet emerged; however, bacterial resistance may develop upon prolonged use.
