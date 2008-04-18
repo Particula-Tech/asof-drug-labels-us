@@ -1,0 +1,17 @@
+# DOSAGE AND ADMINISTRATION
+
+The dosage should be initiated at a low level and increased gradually, noting the clinical response and any evidence of intolerance.
+Occurrence of drowsiness may require the administration of a major portion of the daily dose at bedtime or a reduction of dosage.
+Trazodone HCl should be taken shortly after a meal or light snack.
+Symptomatic relief may be seen during the first week with optimal antidepressant effects typically evident within two weeks.
+Twenty-five percent of those who respond to trazodone HCl require more than two weeks (up to four weeks) of drug administration.
+
+Usual Adult Dosage: An initial dose of 150 mg/day in divided doses is suggested.
+The dose may be increased by 50 mg/day every three to four days.
+The maximum dose for outpatients usually should not exceed 400 mg/day in divided doses.
+Inpatients (i.e., more severely depressed patients) may be given up to but not in excess of 600 mg/day in divided doses.
+
+Maintenance: Dosage during prolonged maintenance therapy should be kept at the lowest effective level.
+Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
+
+Although there has been no systematic evaluation of the efficacy of trazodone beyond 6 weeks, it is generally recommended that a course of antidepressant drug treatment should be continued for several months.
