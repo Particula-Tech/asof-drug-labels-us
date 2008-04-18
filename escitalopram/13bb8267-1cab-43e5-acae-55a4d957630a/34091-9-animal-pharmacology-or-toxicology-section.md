@@ -23,6 +23,6 @@ St. Louis, MO 63045 USA
 Licensed from H. Lundbeck A/S
 
 Rev.
-05/07
+04/08
 
-© 2007 Forest Laboratories, Inc.
+© 2008 Forest Laboratories, Inc.

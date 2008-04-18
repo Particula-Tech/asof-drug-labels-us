@@ -252,4 +252,42 @@ Infrequent: taste alteration, earache, conjunctivitis, vision abnormal, dry eyes
 Urinary System Disorders - Frequent: urinary frequency, urinary tract infection.
 Infrequent: urinary urgency, kidney stone, dysuria, blood in urine.
 
-Events Reported Subsequent to the Marketing of Escitalopram- Although no causal relationship to escitalopram treatment has been found, the following adverse events have been reported to have occurred in patients and to be temporally associated with escitalopram treatment during post marketing experience and were not observed during the premarketing evaluation of escitalopram: abnormal gait, acute renal failure, aggression, akathisia, allergic reaction, anger, angioedema, atrial fibrillation, choreoathetosis, delirium, delusion, diplopia, dysarthria, dyskinesia, dystonia, ecchymosis, erythema multiforme, extrapyramidal disorders, fulminant hepatitis, hepatic failure, hypoaesthesia, hypoglycemia, hypokalemia, INR increased, gastrointestinal hemorrhage, glaucoma, grand mal seizures (or convulsions), hemolytic anemia, hepatic necrosis, hepatitis, hypotension, leucopenia, myocardial infarction, myoclonus, neuroleptic malignant syndrome, nightmare, nystagmus, orthostatic hypotension, pancreatitis, paranoia, photosensitivity reaction, priapism, prolactinemia, prothrombin decreased, pulmonary embolism, QT prolongation, rhabdomyolysis, seizures, serotonin syndrome, SIADH, spontaneous abortion, Stevens Johnson Syndrome, tardive dyskinesia, thrombocytopenia, thrombosis, torsade de pointes, toxic epidermal necrolysis, ventricular arrhythmia, ventricular tachycardia and visual hallucinations.
+Events Reported Subsequent to the Marketing of Escitalopram- Although no causal relationship to escitalopram treatment has been found, the following adverse events have been reported to have occurred in patients and to be temporally associated with escitalopram treatment during post marketing spontaneous and clinical trial experience and were not observed during the premarketing evaluation of escitalopram:
+
+Blood and Lymphatic System Disorders: hemolytic anemia, leukopenia, thrombocytopenia.
+
+Cardiac Disorders: atrial fibrillation, cardiac failure, myocardial infarction, torsade de pointes, ventricular arrhythmia, ventricular tachycardia.
+
+Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
+
+Eye Disorders: diplopia, glaucoma.
+
+Gastrointestinal Disorder: gastrointestinal hemorrhage, pancreatitis, rectal hemorrhage.
+
+General Disorders and Administration Site Conditions: abnormal gait.
+
+Hepatobiliary Disorders: fulminant hepatitis, hepatic failure, hepatic necrosis, hepatitis.
+
+Immune System Disorders: allergic reaction.
+
+Investigations: electrocardiogram QT prolongation, INR increased, prothrombin decreased.
+
+Metabolism and Nutrition Disorders: hypoglycemia, hypokalemia.
+
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis.
+
+Nervous System Disorders: akathisia, choreoathetosis, dysarthria, dyskinesia, dystonia, extrapyramidal disorders, grand mal seizures (or convulsions), hypoaesthesia, myoclonus, neuroleptic malignant syndrome, nystagmus, seizures, serotonin syndrome, tardive dyskinesia.
+
+Pregnancy, Puerperium and Perinatal Conditions: spontaneous abortion.
+
+Psychiatric Disorders: acute psychosis, aggression, anger, delirium, delusion, nightmare, paranoia, visual hallucinations.
+
+Renal and Urinary Disorders: acute renal failure.
+
+Reproductive System and Breast Disorders: priapism.
+
+Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism.
+
+Skin and Subcutaneous Tissue Disorders: angioedema, ecchymosis, erythema multiforme, photosensitivity reaction, Stevens Johnson Syndrome, toxic epidermal necrolysis, urticaria.
+
+Vascular Disorders: deep vein thrombosis, hypotension, orthostatic hypotension, phlebitis thrombosis.

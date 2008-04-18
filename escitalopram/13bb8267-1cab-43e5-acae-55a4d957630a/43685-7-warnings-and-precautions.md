@@ -21,10 +21,10 @@ TABLE 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
-|  | Drug-Related Increases |
+|  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-|  | Drug-Related Decreases |
+|  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -87,17 +87,24 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ### Abnormal Bleeding
 
-Published case reports have documented the occurrence of bleeding episodes in patients treated with psychotropic drugs that interfere with serotonin reuptake.
-Subsequent epidemiological studies, both of the case-control and cohort design, have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
-In two studies, concurrent use of a nonsteroidal anti-inflammatory drug (NSAID) or aspirin potentiated the risk of bleeding (see Drug Interactions).
-Although these studies focused on upper gastrointestinal bleeding, there is reason to believe that bleeding at other sites may be similarly potentiated.
-Patients should be cautioned regarding the risk of bleeding associated with the concomitant use of Lexapro with NSAIDs, aspirin, or other drugs that affect coagulation.
+SSRIs and SNRIs, including Lexapro, may increase the risk of bleeding events.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
+Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of Lexapro and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Hyponatremia
 
-Cases of hyponatremia and SIADH (syndrome of inappropriate antidiuretic hormone secretion) have been reported in association with Lexapro treatment.
-All patients with these events have recovered with discontinuation of escitalopram and/or medical intervention.
-Hyponatremia and SIADH have also been reported in association with other marketed drugs effective in the treatment of major depressive disorder.
+Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including Lexapro.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Cases with serum sodium lower than 110 mmol/L have been reported and appeared to be reversible when Lexapro was discontinued.
+Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
+Discontinuation of Lexapro should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ### Activation of Mania/Hypomania
 
@@ -148,7 +155,7 @@ Patients should be made aware that escitalopram is the active isomer of Celexa (
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 
-Patients should be cautioned about the concomitant use of Lexapro and NSAIDs, aspirin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of Lexapro and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 
@@ -191,11 +198,12 @@ Alcohol - Although Lexapro did not potentiate the cognitive and motor effects of
 
 Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS and WARNINGS.
 
-### Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
+## Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin potentiated the risk of bleeding.
-Thus, patients should be cautioned about the use of such drugs concurrently with Lexapro.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when Lexapro is initiated or discontinued.
 
 Cimetidine - In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
 The clinical significance of these findings is unknown.
@@ -333,6 +341,8 @@ Anyone considering the use of Lexapro in a child or adolescent must balance the 
 Approximately 6% of the 1144 patients receiving escitalopram in controlled trials of Lexapro in major depressive disorder and GAD were 60 years of age or older; elderly patients in these trials received daily doses of Lexapro between 10 and 20 mg.
 The number of elderly patients in these trials was insufficient to adequately assess for possible differential efficacy and safety measures on the basis of age.
 Nevertheless, greater sensitivity of some elderly individuals to effects of Lexapro cannot be ruled out.
+
+SSRIs and SNRIs, including Lexapro, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see PRECAUTIONS, Hyponatremia).
 
 In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmax was unchanged (see CLINICAL PHARMACOLOGY).
 10 mg/day is the recommended dose for elderly patients (see DOSAGE AND ADMINISTRATION).
