@@ -21,7 +21,7 @@ Many strains of Haemophilus influenzae are resistant to erythromycin alone, but 
 Staphylococci resistant to erythromycin may emerge during a course of therapy.
 Culture and susceptibility testing should be performed.
 
-Erythromycin is usually active against the following organisms in vitro (prior to use, refer to INDICATIONS AND USAGE section):
+Erythromycin is usually active against the following organisms in vitro (prior to use, refer to INDICATIONS AND USAGE):
 
 Gram-positive Bacteria: Staphylococcus aureus (resistant organisms may emerge during treatment), Streptococcus pyogenes (Group A beta-hemolytic streptococcus), Alpha-hemolytic streptococcus (viridans group), Streptococcus (diplococcus) pneumoniae, Corynebacterium diphtheriae, Corynebacterium minutissimum.
 

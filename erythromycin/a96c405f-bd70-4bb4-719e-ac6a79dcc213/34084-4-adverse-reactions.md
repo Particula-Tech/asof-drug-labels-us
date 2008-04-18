@@ -13,4 +13,4 @@ Skin reactions ranging from mild eruptions to erythema multiforme, Stevens-Johns
 There have been isolated reports of reversible hearing loss occurring chiefly in patients with renal insufficiency and in patients receiving high doses of erythromycin.
 
 Elderly patients, particularly those with reduced renal or hepatic function, may also be at increased risk for developing this effect when Erythrocin® doses of 4 grams/day or higher are given.
-(See DOSAGE AND ADMINISTRATION).
+(See DOSAGE AND ADMINISTRATION.)

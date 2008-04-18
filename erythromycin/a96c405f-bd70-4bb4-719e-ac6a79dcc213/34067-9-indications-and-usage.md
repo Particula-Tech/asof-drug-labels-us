@@ -4,10 +4,10 @@ Erythrocin Lactobionate-I.V.
 (Sterile Erythromycin Lactobionate, USP) is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the diseases listed below when oral administration is not possible or when the severity of the infection requires immediate high serum levels of erythromycin.
 Intravenous therapy should be replaced by oral administration at the appropriate time.
 
-Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci); Streptococcus pneumoniae(Diplococcus pneumoniae);Haemophilus influenzae (when used concomitantly with adequate doses of sulfonamides, since many strains of H. influenzae are not susceptible to the erythromycin concentrations ordinarily achieved).
+Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci); Streptococcus pneumoniae (Diplococcus pneumoniae); Haemophilus influenzae (when used concomitantly with adequate doses of sulfonamides, since many strains of H. influenzae are not susceptible to the erythromycin concentrations ordinarily achieved).
 (See appropriate sulfonamide labeling for prescribing information.)
 
-Lower respiratory tract infections of mild to moderate severity caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci); Streptococcus pneumoniae(Diplococcuspneumoniae).
+Lower respiratory tract infections of mild to moderate severity caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci); Streptococcus pneumoniae (Diplococcuspneumoniae).
 
 Respiratory tract infections due to Mycoplasma pneumoniae.
 

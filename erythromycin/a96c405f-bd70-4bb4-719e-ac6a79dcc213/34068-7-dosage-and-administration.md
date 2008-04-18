@@ -27,7 +27,7 @@ Administration of doses of ≥ 4 g/day may increase the risk for the development
 In the treatment of Group A beta-hemolytic streptococcal infections of the upper respiratory tract (e.g., tonsillitis or pharyngitis), the therapeutic dosage of erythromycin should be administered for ten days.
 The American Heart Association suggests a dosage of 250 mg of erythromycin orally, twice a day in long-term prophylaxis of streptococcal upper respiratory tract infections for the prevention of recurring attacks of rheumatic fever in patients allergic to penicillin and sulfonamides.3
 
-In prophylaxis against bacterial endocarditis (See INDICATIONS AND USAGE section) the oral regimen for penicillin allergic patients is erythromycin 1 gram, 1 hour before the procedure followed by 500 mg six hours later.4
+In prophylaxis against bacterial endocarditis (see INDICATIONS AND USAGE) the oral regimen for penicillin allergic patients is erythromycin 1 gram, 1 hour before the procedure followed by 500 mg six hours later.4
 
 Preparation of Solution:
 
@@ -38,7 +38,7 @@ Preparation of Solution:
    After reconstitution, each mL contains 50 mg of erythromycin activity.
    The initial solution is stable at refrigerator temperature for two weeks, or for 24 hours at room temperature.
 2. ADD THE INITIAL DILUTION TO ONE OF THE FOLLOWING DILUENTS BEFORE ADMINISTRATION to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion: 0.9% SODIUM CHLORIDE INJECTION, USP; LACTATED RINGER’S INJECTION, USP; NORMOSOL®-R.
-3. THE FOLLOWING SOLUTIONS MAY ALSO BE USED PROVIDING THEY ARE FIRST BUFFERED WITH NEUT ® (4% SODIUM BICARBONATE, HOSPIRA) by adding 1 mL of Neut per 100 mL of solution: 5% DEXTROSE INJECTION, USP 5% DEXTROSE AND LACTATED RINGER’S INJECTION 5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION, USP
+3. THE FOLLOWING SOLUTIONS MAY ALSO BE USED PROVIDING THEY ARE FIRST BUFFERED WITH NEUT ® (4% SODIUM BICARBONATE, HOSPIRA) by adding 1 mL of Neut® per 100 mL of solution: 5% DEXTROSE INJECTION, USP 5% DEXTROSE AND LACTATED RINGER’S INJECTION 5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION, USP
 
 Neut® (4% sodium bicarbonate, Hospira) must be added to these solutions so that their pH is in the optimum range for erythromycin lactobionate stability.
 Acidic solutions of erythromycin lactobionate are unstable and lose their potency rapidly.
