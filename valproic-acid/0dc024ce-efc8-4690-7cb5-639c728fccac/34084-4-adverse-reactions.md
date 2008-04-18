@@ -1,15 +1,19 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Mania
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The incidence of treatment-emergent events has been ascertained based on combined data from two placebo-controlled clinical trials of DEPAKOTE ER in the treatment of manic episodes associated with bipolar disorder.
+Information on pediatric adverse reactions is presented in section 8.
 
-Table 1 summarizes those adverse events reported for patients in these trials where the incidence rate in the DEPAKOTE ER-treated group was greater than 5% and greater than the placebo incidence.
+## 6.1 Mania
 
-Table 1.
-Adverse Events Reported by > 5% of DEPAKOTE ER-Treated Patients During Placebo-Controlled Trials of Acute Mania1
+The incidence of treatment-emergent events has been ascertained based on combined data from two placebo-controlled clinical trials of Depakote ER in the treatment of manic episodes associated with bipolar disorder.
 
-| Adverse Event | DEPAKOTE ER (n=338) | Placebo (n=263) |
+Table 2 summarizes those adverse reactions reported for patients in these trials where the incidence rate in the Depakote ER-treated group was greater than 5% and greater than the placebo incidence.
+
+Table 2.
+Adverse Reactions Reported by > 5% of Depakote-Treated Patients During Placebo-Controlled Trials of Acute Mania1
+
+| Adverse Event | Depakote ER (n=338) | Placebo (n=263) |
 | --- | --- | --- |
 | Somnolence | 26% | 14% |
 | Dyspepsia | 23% | 11% |
@@ -22,190 +26,42 @@ Adverse Events Reported by > 5% of DEPAKOTE ER-Treated Patients During Placebo-C
 | Accidental injury | 6% | 5% |
 | Asthenia | 6% | 5% |
 | Pharyngitis | 6% | 5% |
-| 1. The following adverse event occurred at an equal or greater incidence for placebo than for DEPAKOTE ER: headache |  |  |
+| 1. The following adverse reactions/event occurred at an equal or greater incidence for placebo than for Depakote ER: headache |  |  |
 
-The following additional adverse events were reported by greater than 1% but not more than 5% of the Depakote ER-treated patients in controlled clinical trials:
+The following additional adverse reactions were reported by greater than 1% but not more than 5% of the Depakote ER-treated patients in controlled clinical trials:
 
-### Body as a Whole
+Body as a Whole: Back Pain, Flu Syndrome, Infection, Infection Fungal
 
-Back Pain, Flu Syndrome, Infection, Infection Fungal
+Cardiovascular System: Hypertension
 
-### Cardiovascular System
+Digestive System: Constipation, Dry Mouth, Flatulence
 
-Hypertension
+Hemic and Lymphatic System: Ecchymosis
 
-### Digestive System
+Metabolic and Nutritional Disorders Peripheral Edema
 
-Constipation, Dry Mouth, Flatulence
+Musculoskeletal System: Myalgia
 
-### Hemic and Lymphatic System
+Nervous System: Abnormal Gait, Hypertonia, Tremor
 
-Ecchymosis
+Respiratory System: Rhinitis
 
-### Metabolic and Nutritional Disorders
+Skin and Appendages: Pruritis, Rash
 
-Peripheral Edema
+Special Senses: Conjunctivitis
 
-### Musculoskeletal System
+Urogenital System: Urinary Tract Infection, Vaginitis
 
-Myalgia
+## 6.2 Epilepsy
 
-### Nervous System
+Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, Depakote was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
+Intolerance was the primary reason for discontinuation in the Depakote-treated patients (6%), compared to 1% of placebo-treated patients.
 
-Abnormal Gait, Hypertonia, Tremor
-
-### Respiratory System
-
-Rhinitis
-
-### Skin and Appendages
-
-Pruritis, Rash
-
-### Special Senses
-
-Conjunctivitis
-
-### Urogenital System
-
-Urinary Tract Infection, Vaginitis
-
-## Migraine
-
-Based on the results of one multicenter, randomized, double-blind, placebo-controlled clinical trial, DEPAKOTE ER was well tolerated in the prophylactic treatment of migraine headache.
-Of the 122 patients exposed to DEPAKOTE ER in the placebo-controlled study, 8% discontinued for adverse events, compared to 9% for the 115 placebo patients.
-
-Based on two placebo-controlled clinical trials and their long term extension, DEPAKOTE (divalproex sodium delayed-release tablets) was generally well tolerated with most adverse events rated as mild to moderate in severity.
-Of the 202 patients exposed to DEPAKOTE in the placebo-controlled trials, 17% discontinued for intolerance.
-This is compared to a rate of 5% for the 81 placebo patients.
-Including the long term extension study, the adverse events reported as the primary reason for discontinuation by ≥ 1% of 248 DEPAKOTE-treated patients were alopecia (6%), nausea and/or vomiting (5%), weight gain (2%), tremor (2%), somnolence (1%), elevated SGOT and/or SGPT (1%), and depression (1%).
-
-Table 2 includes those adverse events reported for patients in the placebo-controlled trial where the incidence rate in the DEPAKOTE ER-treated group was greater than 5% and was greater than that for placebo patients.
-
-Table 2.
-Adverse Events Reported by > 5% of DEPAKOTE ER-Treated Patients During the Migraine Placebo-controlled Trial with a Greater Incidence than Patients Taking Placebo1
-
-| Body System Event | Depakote ER (N=122) | Placebo (N=115) |
-| --- | --- | --- |
-| Gastrointestinal System |  |  |
-| Nausea | 15% | 9% |
-| Dyspepsia | 7% | 4% |
-| Diarrhea | 7% | 3% |
-| Vomiting | 7% | 2% |
-| Abdominal Pain | 7% | 5% |
-| Nervous System |  |  |
-| Somnolence | 7% | 2% |
-| Other |  |  |
-| Infection | 15% | 14% |
-| 1. The following adverse events occurred in greater than 5% of DEPAKOTE ER-treated patients and at a greater incidence for placebo than for DEPAKOTE ER: asthenia and flu syndrome. |  |  |
-
-The following additional adverse events were reported by greater than 1% but not more than 5% of DEPAKOTE ER-treated patients and with a greater incidence than placebo in the placebo-controlled clinical trial for migraine prophylaxis:
-
-### Body as a Whole
-
-Accidental injury, viral infection.
-
-### Digestive System
-
-Increased appetite, tooth disorder.
-
-### Metabolic and Nutritional Disorders
-
-Edema, weight gain.
-
-### Nervous System
-
-Abnormal gait, dizziness, hypertonia, insomnia, nervousness, tremor, vertigo.
-
-### Respiratory System
-
-Pharyngitis, rhinitis.
-
-### Skin and Appendages
-
-Rash.
-
-### Special Senses
-
-Tinnitus.
-
-Table 3 includes those adverse events reported for patients in the placebo-controlled trials where the incidence rate in the DEPAKOTE-treated group was greater than 5% and was greater than that for placebo patients.
+Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
+Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of Depakote and other antiepilepsy drugs.
 
 Table 3.
-Adverse Events Reported by > 5% of DEPAKOTE-Treated Patients During Migraine Placebo-controlled Trials with a Greater Incidence than Patients Taking Placebo1
-
-| Body System Event | Depakote (N=202) | Placebo (N=81) |
-| --- | --- | --- |
-| Gastrointestinal System |  |  |
-| Nausea | 31% | 10% |
-| Dyspepsia | 13% | 9% |
-| Diarrhea | 12% | 7% |
-| Vomiting | 11% | 1% |
-| Abdominal Pain | 9% | 4% |
-| Increased Appetite | 6% | 4% |
-| Nervous System |  |  |
-| Asthenia | 20% | 9% |
-| Somnolence | 17% | 5% |
-| Dizziness | 12% | 6% |
-| Tremor | 9% | 0% |
-| Other |  |  |
-| Weight Gain | 8% | 2% |
-| Back Pain | 8% | 6% |
-| Alopecia | 7% | 1% |
-| 1. The following adverse events occurred in greater than 5% of DEPAKOTE -treated patients and at a greater incidence for placebo than for DEPAKOTE: flu syndrome and pharyngitis. |  |  |
-
-The following additional adverse events not referred to above were reported by greater than 1% but not more than 5% of DEPAKOTE-treated patients and with a greater incidence than placebo in the placebo-controlled clinical trials:
-
-### Body as a Whole
-
-Chest pain.
-
-### Cardiovascular System
-
-Vasodilatation.
-
-### Digestive System
-
-Constipation, dry mouth, flatulence, stomatitis.
-
-### Hemic and Lymphatic System
-
-Ecchymosis.
-
-### Metabolic and Nutritional Disorders
-
-Peripheral edema.
-
-### Musculoskeletal System
-
-Leg cramps.
-
-### Nervous System
-
-Abnormal dreams, confusion, paresthesia, speech disorder, thinking abnormalities.
-
-### Respiratory System
-
-Dyspnea, sinusitis.
-
-### Skin and Appendages
-
-Pruritus.
-
-### Urogenital System
-
-Metrorrhagia.
-
-## Epilepsy
-
-Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, DEPAKOTE was generally well tolerated with most adverse events rated as mild to moderate in severity.
-Intolerance was the primary reason for discontinuation in the DEPAKOTE-treated patients (6%), compared to 1% of placebo-treated patients.
-
-Table 4 lists treatment-emergent adverse events which were reported by ≥ 5% of DEPAKOTE-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
-Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse events can be ascribed to DEPAKOTE alone, or the combination of DEPAKOTE and other antiepilepsy drugs.
-
-Table 4.
-Adverse Events Reported by ≥ 5% of Patients Treated with DEPAKOTE During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
+Adverse Reactions Reported by > 5% of Patients Treated with Valproate During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
 | Body System/Event | Depakote (%) (N=77) | Placebo (%) (N=70) |
 | --- | --- | --- |
@@ -216,7 +72,7 @@ Adverse Events Reported by ≥ 5% of Patients Treated with DEPAKOTE During Place
 | Gastrointestinal System |  |  |
 | Nausea | 48 | 14 |
 | Vomiting | 27 | 7 |
-| Abdominal Pain | 23 | 6 |
+| Abdominal pain | 23 | 6 |
 | Diarrhea | 13 | 6 |
 | Anorexia | 12 | 0 |
 | Dyspepsia | 8 | 4 |
@@ -241,13 +97,13 @@ Adverse Events Reported by ≥ 5% of Patients Treated with DEPAKOTE During Place
 | Alopecia | 6 | 1 |
 | Weight Loss | 6 | 0 |
 
-Table 5 lists treatment-emergent adverse events which were reported by ≥ 5% of patients in the high dose DEPAKOTE group, and for which the incidence was greater than in the low dose group, in a controlled trial of DEPAKOTE monotherapy treatment of complex partial seizures.
-Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse events can be ascribed to DEPAKOTE alone, or the combination of DEPAKOTE and other antiepilepsy drugs.
+Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose valproate group, and for which the incidence was greater than in the low dose group, in a controlled trial of Depakote monotherapy treatment of complex partial seizures.
+Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of valproate and other antiepilepsy drugs.
 
-Table 5.
-Adverse Events Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of DEPAKOTE Monotherapy for Complex Partial Seizures1
+Table 4.
+Adverse Reactions Reported by >5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
 
-| Body System/Event | High Dose (%) (N=131) | Low Dose (%) (N=134) |
+| Body System/Event | High Dose (%) (n=131) | Low Dose (%) (n=134) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
@@ -255,7 +111,7 @@ Adverse Events Reported by ≥ 5% of Patients in the High Dose Group in the Cont
 | Nausea | 34 | 26 |
 | Diarrhea | 23 | 19 |
 | Vomiting | 23 | 15 |
-| Abdominal Pain | 12 | 9 |
+| Abdominal pain | 12 | 9 |
 | Anorexia | 11 | 4 |
 | Dyspepsia | 11 | 10 |
 | Hemic/Lymphatic System |  |  |
@@ -282,164 +138,213 @@ Adverse Events Reported by ≥ 5% of Patients in the High Dose Group in the Cont
 | Special Senses |  |  |
 | Amblyopia/Blurred Vision | 8 | 4 |
 | Tinnitus | 7 | 1 |
-| 1. Headache was the only adverse event that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
+| 1. Headache was the only adverse event that occurred in ≥5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
 
-The following additional adverse events were reported by greater than 1% but less than 5% of the 358 patients treated with DEPAKOTE in the controlled trials of complex partial seizures:
+The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
 
-### Body as a Whole
+Body as a Whole: Back pain, chest pain, malaise.
 
-Back pain, chest pain, malaise.
+Cardiovascular System: Tachycardia, hypertension, palpitation.
 
-### Cardiovascular System
+Digestive System: Increased appetite, flatulence, hematemesis, eructation, pancreatitis, periodontal abscess.
 
-Tachycardia, hypertension, palpitation.
+Hemic and Lymphatic System: Petechia.
 
-### Digestive System
+Metabolic and Nutritional Disorders: SGOT increased, SGPT increased.
 
-Increased appetite, flatulence, hematemesis, eructation, pancreatitis, periodontal abscess.
+Musculoskeletal System: Myalgia, twitching, arthralgia, leg cramps, myasthenia.
 
-### Hemic and Lymphatic System
+Nervous System: Anxiety, confusion, abnormal gait, paresthesia, hypertonia, incoordination, abnormal dreams, personality disorder.
 
-Petechia.
+Respiratory System: Sinusitis, cough increased, pneumonia, epistaxis.
 
-### Metabolic and Nutritional Disorders
+Skin and Appendages: Rash, pruritus, dry skin.
 
-SGOT increased, SGPT increased.
+Special Senses: Taste perversion, abnormal vision, deafness, otitis media.
 
-### Musculoskeletal System
+Urogenital System: Urinary incontinence, vaginitis, dysmenorrhea, amenorrhea, urinary frequency.
 
-Myalgia, twitching, arthralgia, leg cramps, myasthenia.
+## 6.3 Migraine
 
-### Nervous System
+Based on two placebo-controlled clinical trials and their long term extension, valproate was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
+Of the 202 patients exposed to valproate in the placebo-controlled trials, 17% discontinued for intolerance.
+This is compared to a rate of 5% for the 81 placebo patients.
+Including the long term extension study, the adverse reactions reported as the primary reason for discontinuation by ≥ 1% of 248 valproate-treated patients were alopecia (6%), nausea and/or vomiting (5%), weight gain (2%), tremor (2%), somnolence (1%), elevated SGOT and/or SGPT (1%), and depression (1%).
 
-Anxiety, confusion, abnormal gait, paresthesia, hypertonia, incoordination, abnormal dreams, personality disorder.
+Table 5 includes those adverse reactions reported for patients in the placebo-controlled trial where the incidence rate in the Depakote ER-treated group was greater than 5% and was greater than that for placebo patients.
 
-### Respiratory System
+Table 5.
+Adverse Reactions Reported by >5% of Depakote ER-Treated Patients During the Migraine Placebo-controlled Trial with a Greater Incidence than Patients Taking Placebo1
 
-Sinusitis, cough increased, pneumonia, epistaxis.
+| Body System Event | Depakote ER (n=122) | Placebo (n=115) |
+| --- | --- | --- |
+| Gastrointestinal System |  |  |
+| Nausea | 15% | 9% |
+| Dyspepsia | 7% | 4% |
+| Diarrhea | 7% | 3% |
+| Vomiting | 7% | 2% |
+| Abdominal Pain | 7% | 5% |
+| Nervous System |  |  |
+| Somnolence | 7% | 2% |
+| Other |  |  |
+| Infection | 15% | 14% |
+| 1. The following adverse reactions occurred in greater than 5% of Depakote ER-treated patients and at a greater incidence for placebo than for Depakote ER: asthenia and flu syndrome. |  |  |
 
-### Skin and Appendages
+The following additional adverse reactions were reported by greater than 1% but not more than 5% of Depakote ER-treated patients and with a greater incidence than placebo in the placebo-controlled clinical trial for migraine prophylaxis:
 
-Rash, pruritus, dry skin.
+Body as a Whole: Accidental injury, viral infection.
 
-### Special Senses
+Digestive System: Increased appetite, tooth disorder.
 
-Taste perversion, abnormal vision, deafness, otitis media.
+Metabolic and Nutritional Disorders: Edema, weight gain.
 
-### Urogenital System
+Nervous System: Abnormal gait, dizziness, hypertonia, insomnia, nervousness, tremor, vertigo.
 
-Urinary incontinence, vaginitis, dysmenorrhea, amenorrhea, urinary frequency.
+Respiratory System: Pharyngitis, rhinitis.
 
-## Other Patient Populations
+Skin and Appendages: Rash.
 
-The following adverse events not listed previously were reported by greater than 1% of DEPAKOTE-treated patients and with a greater incidence than placebo in placebo-controlled trials of manic episodes associated with bipolar disorder:
+Special Senses: Tinnitus.
 
-### Body as a Whole
+Table 6 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence rate in the valproate-treated group was greater than 5% and was greater than that for placebo patients.
 
-Chills, chills and fever, drug level increased, neck rigidity.
+Table 6.
+Adverse Reactions Reported by > 5% of Valproate-Treated Patients During Migraine Placebo-Controlled Trials with a Greater Incidence than Patients Taking Placebo1
 
-### Cardiovascular System
+| Body System Reaction | Depakote (n=202) | Placebo (n=81) |
+| --- | --- | --- |
+| Gastrointestinal System |  |  |
+| Nausea | 31% | 10% |
+| Dyspepsia | 13% | 9% |
+| Diarrhea | 12% | 7% |
+| Vomiting | 11% | 1% |
+| Abdominal pain | 9% | 4% |
+| Increased appetite | 6% | 4% |
+| Nervous System |  |  |
+| Asthenia | 20% | 9% |
+| Somnolence | 17% | 5% |
+| Dizziness | 12% | 6% |
+| Tremor | 9% | 0% |
+| Other |  |  |
+| Weight gain | 8% | 2% |
+| Back pain | 8% | 6% |
+| Alopecia | 7% | 1% |
+| 1. The following adverse reactions occurred in greater than 5% of Depakote-treated patients and at a greater incidence for placebo than for Depakote: flu syndrome and pharyngitis. |  |  |
 
-Arrhythmia, hypotension, postural hypotension.
+The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 valproate-treated patients in the controlled clinical trials:
 
-### Digestive System
+Body as a Whole: Chest pain.
 
-Dysphagia, fecal incontinence, gastroenteritis, glossitis, gum hemorrhage, mouth ulceration.
+Cardiovascular System: Vasodilatation.
 
-### Hemic and Lymphatic System
+Digestive System: Constipation, dry mouth, flatulence, and stomatitis.
 
-Anemia, bleeding time increased, leukopenia.
+Hemic and Lymphatic System: Ecchymosis.
 
-### Metabolic and Nutritional Disorders
+Metabolic and Nutritional Disorders: Peripheral edema.
 
-Hypoproteinemia.
+Musculoskeletal System: Leg cramps.
 
-### Musculoskeletal System
+Nervous System: Abnormal dreams, confusion, paresthesia, speech disorder, and thinking abnormalities.
 
-Arthrosis.
+Respiratory System: Dyspnea, and sinusitis.
 
-### Nervous System
+Skin and Appendages: Pruritus.
 
-Agitation, catatonic reaction, dysarthria, hallucinations, hypokinesia, psychosis, reflexes increased, sleep disorder, tardive dyskinesia.
+Urogenital System: Metrorrhagia.
 
-### Respiratory System
+## 6.4 Other Patient Populations
 
-Hiccup.
+Mania
 
-### Skin and Appendages
+The following adverse reactions not listed previously were reported by greater than 1% of DEPAKOTE-treated patients and with a greater incidence than placebo in placebo-controlled trials of manic episodes associated with bipolar disorder:
 
-Discoid lupus erythematosis, erythema nodosum, furunculosis, maculopapular rash, seborrhea, sweating, vesiculobullous rash.
+Body as a Whole: Chills, chills and fever, drug level increased, neck rigidity.
 
-### Special Senses
+Cardiovascular System: Arrhythmia, hypotension, postural hypotension.
 
-Conjunctivitis, dry eyes, eye disorder, eye pain, photophobia, taste perversion.
+Digestive System: Dysphagia, fecal incontinence, gastroenteritis, glossitis, gum hemorrhage, mouth ulceration.
 
-### Urogenital System
+Hemic and Lymphatic System: Anemia, bleeding time increased,leucopenia.
 
-Cystitis, menstrual disorder.
+Metabolic and Nutritional Disorders: Hypoproteinemia.
 
-Adverse events that have been reported with all dosage forms of valproate from epilepsy trials, spontaneous reports, and other sources are listed below by body system.
+Musculoskeletal System: Arthrosis.
 
-### Gastrointestinal
+Nervous System: Agitation, catatonic reaction, dysarthria, hallucinations, hypokinesia, psychosis, reflexes increased, sleep disorder, tardive dyskinesia.
+
+Respiratory System: Hiccup.
+
+Skin and Appendages: Discoid lupus erythematosis, erythema nodosum, furunculosis, macularpapular rash, seborrhea, sweating, vesiculobullous rash.
+
+Special Senses: Conjunctivitis, dry eyes, eye disorder, eye pain, photophobia, taste perversion.
+
+Urogenital System: Cystitis, menstrual disorder.
+
+Epilepsy
+
+Adverse reactions that have been reported with all dosage forms of valproate from epilepsy trials, spontaneous reports, and other sources are listed below by body system.
+
+Gastrointestinal
 
 The most commonly reported side effects at the initiation of therapy are nausea, vomiting, and indigestion.
 These effects are usually transient and rarely require discontinuation of therapy.
 Diarrhea, abdominal cramps, and constipation have been reported.
 Both anorexia with some weight loss and increased appetite with weight gain have also been reported.
-In some patients, many of whom have functional or anatomic (including ileostomy or colostomy) gastrointestinal disorders with shortened GI transit times, there have been postmarketing reports of DEPAKOTE ER tablets in the stool.
+In some patients, many of whom have functional or anatomic (including ileostomy or colostomy) gastrointestinal disorders with shortened GI transit times, there have been postmarketing reports of Depakote ER tablets in stool.
 
-### CNS Effects
+CNS Effects
 
 Sedative effects have occurred in patients receiving valproate alone but occur most often in patients receiving combination therapy.
 Sedation usually abates upon reduction of other antiepileptic medication.
-Tremor (may be dose-related), hallucinations, ataxia, headache, nystagmus, diplopia, asterixis, "spots before eyes," dysarthria, dizziness, confusion, hypesthesia, vertigo, incoordination, and parkinsonism have been reported with the use of valproate.
+Tremor (may be dose-related), hallucinations, ataxia, headache, nystagmus, diplopia, asterixis, "spots before eyes", dysarthria, dizziness, confusion, hypesthesia, vertigo, incoordination, and parkinsonism have been reported with the use of valproate.
 Rare cases of coma have occurred in patients receiving valproate alone or in conjunction with phenobarbital.
 In rare instances encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.
-Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders (see WARNINGS – Urea Cycle Disorders and PRECAUTIONS).
+Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see Warnings and Precautions (5.4)].
 
 Several reports have noted reversible cerebral atrophy and dementia in association with valproate therapy.
 
-### Dermatologic
+Dermatologic
 
 Transient hair loss, skin rash, photosensitivity, generalized pruritus, erythema multiforme, and Stevens-Johnson syndrome.
 Rare cases of toxic epidermal necrolysis have been reported including a fatal case in a 6 month old infant taking valproate and several other concomitant medications.
 An additional case of toxic epidermal necrosis resulting in death was reported in a 35 year old patient with AIDS taking several concomitant medications and with a history of multiple cutaneous drug reactions.
-Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate (see PRECAUTIONS – Drug Interactions).
+Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate [see Drug Interactions(7)].
 
-### Psychiatric
+Psychiatric
 
 Emotional upset, depression, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
 
-### Musculoskeletal
+Musculoskeletal
 
 Weakness.
 
-### Hematologic
+Hematologic
 
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage (see PRECAUTIONS – General and Drug Interactions).
-Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis and acute intermittent porphyria.
+Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.5) and Drug Interactions(7)].
+Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
-### Hepatic
+Hepatic
 
 Minor elevations of transaminases (eg, SGOT and SGPT) and LDH are frequent and appear to be dose-related.
 Occasionally, laboratory test results include increases in serum bilirubin and abnormal changes in other liver function tests.
-These results may reflect potentially serious hepatotoxicity (see WARNINGS).
+These results may reflect potentially serious hepatotoxicity [see Warnings and Precautions (5.1)].
 
-### Endocrine
+Endocrine
 
 Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, and parotid gland swelling.
-Abnormal thyroid function tests (see PRECAUTIONS).
+Abnormal thyroid function tests [see Warnings and Precautions (5.13)].
 
 There have been rare spontaneous reports of polycystic ovary disease.
 A cause and effect relationship has not been established.
 
-### Pancreatic
+Pancreatic
 
-Acute pancreatitis including fatalities (see WARNINGS).
+Acute pancreatitis including fatalities [see Warnings and Precautions (5.3)].
 
-### Metabolic
+Metabolic
 
-Hyperammonemia (see PRECAUTIONS), hyponatremia, and inappropriate ADH secretion.
+Hyperammonemia [see Warnings and Precautions (5.6)], hyponatremia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 
@@ -447,15 +352,15 @@ Decreased carnitine concentrations have been reported although the clinical rele
 
 Hyperglycinemia has occurred and was associated with a fatal outcome in a patient with preexistent nonketotic hyperglycinemia.
 
-### Genitourinary
+Genitourinary
 
 Enuresis and urinary tract infection.
 
-### Special Senses
+Special Senses
 
 Hearing loss, either reversible or irreversible, has been reported; however, a cause and effect relationship has not been established.
 Ear pain has also been reported.
 
-### Other
+Other
 
-Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever and hypothermia.
+Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever, and hypothermia.
