@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
@@ -69,7 +69,7 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 
 If concomitant treatment of SNRIs and SSRIs, including sertraline hydrochloride, with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS - Drug Interactions).
 
-The concomitant use of SNRIs and SSRIs, including serteraline hydrochloride, with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS - Drug Interactions).
+The concomitant use of SNRIs and SSRIs, including sertraline hydrochloride, with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS - Drug Interactions).
 
 # PRECAUTIONS
 
@@ -96,7 +96,7 @@ Accordingly, sertraline should be introduced with care in patients with a seizur
 ### Discontinuation of Treatment with Sertraline Hydrochloride Tablets
 
 During marketing of sertraline hydrochloride tablets and other SSRIs and SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
-While these events are genrally self-limiting, there have been reports of serious discontinuation symptoms.
+While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 Patients should be monitored for these symptoms when discontinuing treatment with sertraline hydrochloride tablets.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
@@ -104,11 +104,11 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ### Abnormal Bleeding
 
-Published case reports have documented the occurrence of bleeding episodes in patients treated with psychotropic drugs that interfere with serotonin reuptake.
-Subsequent epidemiological studies, both of the case-control and cohort design, have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestional bleeding.
-In two studies, concurrent use of a non-selective nonsteroidal anti-inflammatory drug (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2) or aspirin potentiated the risk of bleeding (see Drug Interactions ).
-Although these studies focused on upper gastrointestinal bleeding, there is reason to believe that bleeding at other sites may be similarly potentiated.
-Patients should be cautioned regarding the risk of bleeding associated with the concomitant use of sertraline hydrochloride tablets with non-selective NSAIDs (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2), aspirin, or other drugs that affect coagulation.
+SSRIs and SNRIs, including sertraline hydrochloride, may increase the risk of bleeding events.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
+Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of sertraline hydrochloride and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Weak Uricosuric Effect
 
@@ -177,7 +177,7 @@ Patients should be cautioned about the risk of serotonin syndrome with the conco
 Patients should be told that although sertraline hydrochloride tablets have not been shown to impair the ability of normal subjects to perform tasks requiring complex motor and mental skills in laboratory experiments, drugs that act upon the central nervous system may affect some individuals adversely.
 Therefore, patients should be told that until they learn how they respond to sertraline hydrochloride tablets they should be careful doing activities when they need to be alert, such as driving a car or operating machinery.
 
-Patients should be cautioned about the concomitant use of sertraline hydrochloride tablets and non-selective NSAIDs (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2), aspirin or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of sertraline hydrochloride tablets and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
 Patients should be told that although sertraline hydrochloride tablets have not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of sertraline hydrochloride tablets and alcohol is not advised.
 
@@ -294,8 +294,10 @@ This small change in antipyrine half-life reflects a clinically insignificant ch
 ### Drugs That Interfere With Hemostasis (Non-selective NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case-control and cohort design that have demonstrated an association between the use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of a non-selective NSAID (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2) or aspirin potentiated the risk of bleeding.
-Thus, patients should be cautioned about the use of such drugs concurrently with sertraline hydrochloride tablets.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when sertraline hydrochloride is initiated or discontinued.
 
 ### Electroconvulsive Therapy
 
@@ -388,7 +390,7 @@ Safety and effectiveness in pediatric patients with major depressive disorder ha
 The risks, if any, that may be associated with sertraline’s use beyond 1 year in children and adolescents have not been systematically assessed.
 The prescriber should be mindful that the evidence relied upon to conclude that sertraline is safe for use in children and adolescents derives from clinical studies that were 10 to 52 weeks in duration and from the extrapolation of experience gained with adult patients.
 In particular, there are no studies that directly evaluate the effects of long-term sertraline use on the growth, development, and maturation of children and adolescents.
-Although there is no affirmative finding to suggest that sertraline possesses a capacity to adversely affect growth, development or maturation, the absence of such findings is not compelling evidence of the absence of the potential of sertraline to have adverse effects in chronic use (see WARNIGNS, Clinical Worsening and Suicide Risk ).
+Although there is no affirmative finding to suggest that sertraline possesses a capacity to adversely affect growth, development or maturation, the absence of such findings is not compelling evidence of the absence of the potential of sertraline to have adverse effects in chronic use (see WARNINGS, Clinical Worsening and Suicide Risk ).
 
 ## Geriatric Use
 

@@ -10,7 +10,7 @@ An event was considered treatment-emergent if it occurred for the first time or 
 It is important to emphasize that events reported during therapy were not necessarily caused by it.
 The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence rate in the population studied.
 
 ## Incidence in Placebo-Controlled Trials
 
