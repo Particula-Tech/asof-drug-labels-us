@@ -28,6 +28,17 @@ Central nervous system side effects including light-headedness, dizziness, or ve
 Patients who experience these symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
 These symptoms may disappear during therapy and usually disappear rapidly when the drug is discontinued.
 
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
 # PRECAUTIONS
 
 ## General
@@ -47,6 +58,10 @@ Incision and drainage or other surgical procedures should be performed in conjun
 Prescribing minocycline hydrochloride capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
 Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs, and treatment should be discontinued at the first evidence of skin erythema.
@@ -137,4 +152,4 @@ Minocycline is not recommended for the use in children below 8 years of age unle
 
 Clinical studies of oral minocycline did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(SeeWARNINGS, DOSAGE AND ADMINISTRATION.)
+(SeeWARNINGS,DOSAGE AND ADMINISTRATION.)

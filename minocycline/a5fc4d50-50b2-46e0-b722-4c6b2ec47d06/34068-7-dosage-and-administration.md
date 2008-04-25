@@ -33,7 +33,7 @@ Uncomplicated urethral, endocervical, or rectal infection in adults caused by Ch
 
 Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
 
-The pharmacokinetics of minocycline in patients with renal impairment (CLCR<80 mL/min) have not been fully characterized.
+The pharmacokinetics of minocycline in patients with renal impairment (CLCR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
 However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine should be monitored.

@@ -10,7 +10,7 @@ The peak plasma concentrations were slightly decreased (11.2%) and delayed by on
 In previous studies with other minocycline dosage forms, the minocycline serum half-life ranged from 11 to 16 hours in 7 patients with hepatic dysfunction, and from 18 to 69 hours in 5 patients with renal dysfunction.
 The urinary and fecal recovery of minocycline when administered to 12 normal volunteers was one-half to one-third that of other tetracyclines.
 
-Microbiology
+## Microbiology
 
 The tetracyclines are primarily bacteriostatic and are thought to exert their antimicrobial effect by the inhibition of protein synthesis.
 The tetracyclines, including minocycline, have a similar antimicrobial spectrum of activity against a wide range of gram-positive and gram-negative organisms.
@@ -18,89 +18,29 @@ Cross-resistance of these organisms to tetracyclines is common.
 
 Minocycline has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in theINDICATIONS AND USAGE section:
 
-Aerobic Gram-Positive Microorganisms
+## Aerobic Gram-Positive Microorganisms
 
 Because many strains of the following gram-positive microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility testing are especially recommended.
 Tetracycline antibiotics should not be used for streptococcal diseases unless the organism has been demonstrated to be susceptible.
 Tetracyclines are not the drug of choice in the treatment of any type of staphylococcal infection.
 
-Bacillus anthracis†
-
-Listeria monocytogenes†
-
-Staphylococcus aureus
-
-Streptococcus pneumoniae
+Bacillus anthracis† Listeria monocytogenes† Staphylococcus aureus Streptococcus pneumoniae
 
 Aerobic Gram-Negative Microorganisms
 
-Bartonella bacilliformis
-
-Brucella species
-
-Calymmatobacterium granulomatis
-
-Campylobacter fetus
-
-Francisella tularensis
-
-Haemophilus ducreyi
-
-Vibrio cholerae
-
-Yersinia pestis
+Bartonella bacilliformis Brucella species Calymmatobacterium granulomatis Campylobacter fetus Francisella tularensis Haemophilus ducreyi Vibrio cholerae Yersinia pestis
 
 Because many strains of the following groups of gram-negative microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility tests are especially recommended.
 
-Acinetobacter species
-
-Enterobacter aerogenes
-
-Escherichia coli
-
-Haemophilus influenzae
-
-Klebsiella species
-
-Neisseria gonorrhoeae†
-
-Neisseria meningitides†
-
-Shigella species
+Acinetobacter species Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae† Neisseria meningitidis† Shigella species
 
 “Other” Microorganisms
 
-Actinomyces species†
+Actinomyces species† Borrelia recurrentis Chlamydia psittaci Chlamydia trachomatis Clostridium species† Entamoeba species Fusobacterium nucleatum subspecies fusiforme† Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum† Treponema pallidum subspecies pertenue† Ureaplasma urealyticum
 
-Borrelia recurrentis
+†When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of infections caused by the cited micro-organisms.
 
-Chlamydia psittaci
-
-Chlamydia trachomatis
-
-Clostridium species†
-
-Entamoeba species
-
-Fusobacterium nucleatum subspecies fusiforme†
-
-Mycobacterium marinum
-
-Mycoplasma pneumoniae
-
-Propionibacterium acnes
-
-Rickettsiae
-
-Treponema pallidum subspecies pallidum†
-
-Treponema pallidum subspecies pertenue†
-
-Ureaplasma urealyticum
-
-†When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of infections caused by the cited microorganisms.
-
-Susceptibility Tests
+## Susceptibility Tests
 
 Susceptibility testing should be performed with tetracycline since it predicts susceptibility to minocycline.
 However, certain organisms (e.g., some staphylococci, and Acinetobacter species) may be more susceptible to minocycline and doxycycline than to tetracycline.
@@ -113,7 +53,7 @@ The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tetracycline powder.
 The MIC values should be interpreted according to the following criteria:
 
-For testing aerobic gram-negative microorganisms (Enterobacteriaceae), Acinetobacter species and Staphylococcus aureus:
+For testing aerobic gram-negative microorganisms (Enterobac-teriaceae), Acinetobacterspecies and Staphylococcus aureus:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -128,17 +68,20 @@ For testing Haemophilus influenzaea and Streptococcus pneumoniaeb:
 | ≤2.0 | Susceptible (S) |
 | 4.0 | Intermediate (I) |
 | ≥8.0 | Resistant (R) |
-| a These interpretative standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae using Haemophilus Test Medium.1 |  |
-| b These interpretative standards are applicable only to broth microdilution susceptibility testing using cation-adjusted Muller-Hinton broth with 2-5% lysed horse blood.1 |  |
 
-For testing Neisseria gonorrhoeae c:
+aThese interpretative standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae using Haemophilus Test Medium.1
+
+bThese interpretative standards are applicable only to broth microdilution susceptibility testing using cation-adjusted Muller-Hinton broth with 2-5% lysed horse blood.1
+
+For testing Neisseria gonorrhoeaec:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤0.25 | Susceptible (S) |
 | 0.5-1.0 | Intermediate (I) |
 | ≥2.0 | Resistant (R) |
-| c These interpretative standards are applicable only to agar dilution susceptibility testing using GC agar base and 1% defined growth supplements.1 |  |
+
+cThese interpretative standards are applicable only to agar dilution susceptibility testing using GC agar base and 1% defined growth supplements.1
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -166,7 +109,7 @@ This procedure uses paper disks impregnated with 30 mcg tetracycline (class disk
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg tetracycline or minocycline disk should be interpreted according to the following criteria:
 
-For testing aerobic gram-negative microorganisms (Enterobacteriaceae), Acinetobacter species and Staphylococcus aureus:
+For testing aerobic gram-negative microorganisms (Enterobac-teriaceae), Acinetobacter species and Staphylococcus aureus:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -181,7 +124,8 @@ For testing Haemophilus influenzaed:
 | ≥29 | Susceptible (S) |
 | 26-28 | Intermediate (I) |
 | ≤25 | Resistant (R) |
-| d These zone diameter standards are applicable only to susceptibility testing with Haemophilus influenzae using Haemophilus Test Medium and a 30-mcg tetracycline disk.2 |  |
+
+dThese zone diameter standards are applicable only to susceptibility testing with Haemophilus influenzae using Haemophilus Test Medium and a 30-mcg tetracycline disk.2
 
 For testing Neisseria gonorrhoeaee:
 
@@ -190,7 +134,8 @@ For testing Neisseria gonorrhoeaee:
 | ≥38 | Susceptible (S) |
 | 31-37 | Intermediate (I) |
 | ≤30 | Resistant (R) |
-| e These interpretative standards are applicable only to disk diffusion testing using GC agar and 1% growth supplements, and a 30-mcg tetracycline disk.2 |  |
+
+eThese interpretative standards are applicable only to disk diffusion testing using GC agar and 1% growth supplements, and a 30-mcg tetracycline disk.2
 
 For testing Streptococcus pneumoniaef:
 
@@ -199,7 +144,8 @@ For testing Streptococcus pneumoniaef:
 | ≥23 | Susceptible (S) |
 | 19-22 | Intermediate (I) |
 | ≤18 | Resistant (R) |
-| f These interpretative standards are applicable only to disk diffusion testing using Muller-Hinton agar adjusted with 5% sheep blood and a 30-mcg tetracycline disk.2 |  |
+
+fThese interpretative standards are applicable only to disk diffusion testing using Muller-Hinton agar adjusted with 5% sheep blood and a 30-mcg tetracycline disk.2
 
 For testing Vibrio choleraeg:
 
@@ -208,7 +154,8 @@ For testing Vibrio choleraeg:
 | ≥19 | Susceptible (S) |
 | 15-18 | Intermediate (I) |
 | ≤14 | Resistant (R) |
-| g These interpretative standards are applicable only to disk diffusion testing performed with a 30-mcg tetracycline disk.2 |  |
+
+gThese interpretative standards are applicable only to disk diffusion testing performed with a 30-mcg tetracycline disk.2
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for tetracycline.
