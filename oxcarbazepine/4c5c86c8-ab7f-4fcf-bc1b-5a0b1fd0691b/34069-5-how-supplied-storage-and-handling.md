@@ -47,7 +47,13 @@ Use within 7 weeks of first opening the bottle.
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-REV: Printed in U.S.A.
+REV: AUGUST 2007 Printed in U.S.A. T2007-78
+
+5001353
+
+5001354
+
+5001355
 
 Novartis Pharmaceuticals Corporation
 

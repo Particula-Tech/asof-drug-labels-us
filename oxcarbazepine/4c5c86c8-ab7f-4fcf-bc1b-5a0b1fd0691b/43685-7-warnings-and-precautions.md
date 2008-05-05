@@ -83,10 +83,15 @@ Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient d
 Multi-organ hypersensitivity reactions have occurred in close temporal association (median time to detection 13 days: range 4-60) to the initiation of Trileptal therapy in adult and pediatric patients.
 Although there have been a limited number of reports, many of these cases resulted in hospitalization and some were considered life threatening.
 Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
-Other associated manifestations included lymphadenopathy, hepatitis, liver function test abnormalities, hematological abnormalities (e.g., eosinophilia, thrombocytopenia, neutropenia), pruritis, nephritis, oliguria, hepatorenal syndrome, arthralgia and asthenia.
+Other organ systems and manifestations included hemic and lymphatic (e.g., eosinophilia, thrombocytopenia, lymphadenopathy, leukopenia, neutropenia, splenomegaly), hepatobiliary (e.g., hepatitis, liver function test abnormalities), renal (e.g., proteinuria, nephritis, oliguria, renal failure), muscles and joints (e.g., joint swelling, myalgia, arthralgia, asthenia), nervous system (e.g., hepatic encephalopathy), respiratory (e.g., dyspnea, pulmonary edema, asthma, bronchospasm, interstitial lung disease), hepatorenal syndrome, pruritus, and angioedema.
 Because the disorder is variable in its expression, other organ system symptoms and signs, not noted here, may occur.
 If this reaction is suspected, Trileptal should be discontinued and an alternative treatment started.
 Although there are no case reports to indicate cross sensitivity with other drugs that produce this syndrome, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility (see WARNINGS, Patients with a Past History of Hypersensitivity Reaction to Carbamazepine subsection).
+
+## Hematologic Events
+
+Very rare reports of agranulocytosis, aplastic anemia and pancytopenia have been seen in patients treated with Trileptal during post-marketing experience.
+Discontinuation of the drug should be considered if any evidence of these hematologic events develop.
 
 ## Information for Patients
 
@@ -100,6 +105,9 @@ Patients should be advised that serious skin reactions have been reported in ass
 In the event a skin reaction should occur while taking Trileptal, patients should consult with their physician immediately (see WARNINGS, Serious Dermatological Reactions subsection).
 
 Patients should be instructed that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug related and should be reported to the physician immediately (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
+
+Patients should be advised that there have been very rare reports of blood disorders reported in patients treated with Trileptal.
+Patients should be instructed to immediately consult with their physician if they experience symptoms suggestive of blood disorders (see PRECAUTIONS, Hematologic Events subsection).
 
 Female patients of childbearing age should be warned that the concurrent use of Trileptal with hormonal contraceptives may render this method of contraception less effective (see Drug Interactions subsection).
 Additional non-hormonal forms of contraception are recommended when using Trileptal.
@@ -130,7 +138,7 @@ In vitro, the UDP-glucuronyl transferase level was increased, indicating inducti
 Increases of 22% with MHD and 47% with oxcarbazepine were observed.
 As MHD, the predominant plasma substrate, is only a weak inducer of UDP-glucuronyl transferase, it is unlikely to have an effect on drugs that are mainly eliminated by conjugation through UDP-glucuronyl transferase (e.g., valproic acid, lamotrigine).
 
-In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists and oral contraceptives, resulting in a lower plasma concentration of these drugs.
+In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists, oral contraceptives and cyclosporine resulting in a lower plasma concentration of these drugs.
 
 As binding of MHD to plasma proteins is low (40%), clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 
