@@ -1,13 +1,17 @@
 # DOSAGE AND ADMINISTRATION
 
-SEREVENT DISKUS should be administered by the orally inhaled route only (see Patient's Instructions for Use).
+SEREVENT DISKUS should be administered by the orally inhaled route only (see Instructions for Using SEREVENT DISKUS in the Medication Guide accompanying the product).
 The patient must not exhale into the DISKUS and the DISKUS should only be activated and used in a level, horizontal position.
 
 ## Asthma
 
+Long-acting beta2-adrenergic agonists, such as salmeterol, the active ingredient in SEREVENT DISKUS, may increase the risk of asthma-related death (see WARNINGS).
+Therefore, when treating patients with asthma, SEREVENT DISKUS should only be used as additional therapy for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with 2 maintenance therapies, including SEREVENT DISKUS.
+It is not indicated for patients whose asthma can be managed by occasional use of inhaled, short-acting beta2-agonists or for patients whose asthma can be successfully managed by inhaled corticosteroids or other controller medications along with occasional use of inhaled, short-acting beta2-agonists.
+
 For maintenance of bronchodilatation and prevention of symptoms of asthma, including the symptoms of nocturnal asthma, the usual dosage for adults and children 4 years of age and older is 1 inhalation (50 mcg) twice daily (morning and evening, approximately 12 hours apart).
 If a previously effective dosage regimen fails to provide the usual response, medical advice should be sought immediately as this is often a sign of destabilization of asthma.
-Under these circumstances, the therapeutic regimen should be reevaluated and additional therapeutic options, such as inhaled or systemic corticosteroids, should be considered.
+Under these circumstances, the therapeutic regimen should be reevaluated.
 If symptoms arise in the period between doses, an inhaled, short-acting beta2-agonist should be taken for immediate relief.
 
 ## Chronic Obstructive Pulmonary Disease

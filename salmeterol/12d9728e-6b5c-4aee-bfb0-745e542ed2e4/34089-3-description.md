@@ -5,7 +5,7 @@ The active component of the formulation is salmeterol base, a highly selective b
 The chemical name of salmeterol xinafoate is 4-hydroxy-α1-[[[6-(4-phenylbutoxy)hexyl]amino] methyl]-1,3-benzenedimethanol, 1-hydroxy-2-naphthalenecarboxylate.
 Salmeterol xinafoate has the following chemical structure:
 
-Salmeterol xinafoate is a white to off-white powder with a molecular weight of 603.8, and the empirical formula is C25H37NO4•C11H8O3.
+Salmeterol xinafoate is a white powder with a molecular weight of 603.8, and the empirical formula is C25H37NO4•C11H8O3.
 It is freely soluble in methanol; slightly soluble in ethanol, chloroform, and isopropanol; and sparingly soluble in water.
 
 SEREVENT DISKUS is a specially designed plastic inhalation delivery system containing a double-foil blister strip of a powder formulation of salmeterol xinafoate intended for oral inhalation only.
