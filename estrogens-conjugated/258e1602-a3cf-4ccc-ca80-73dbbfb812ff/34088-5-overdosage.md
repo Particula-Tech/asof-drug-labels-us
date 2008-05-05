@@ -1,4 +1,4 @@
 # OVERDOSAGE
 
-Serious ill effects have not been reported following acute ingestion of large doses of estrogen-containing drug products by young children.
-Overdosage of estrogen may cause nausea and vomiting, and withdrawal bleeding may occur in females.
+Overdosage of estrogen may cause nausea and vomiting, breast tenderness, abdominal pain, drowsiness/fatigue and withdrawal bleeding may occur in females.
+Treatment of overdose consists of discontinuation of Premarin together with institution of appropriate symptomatic care.

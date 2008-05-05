@@ -18,7 +18,7 @@ Estrogens act to reduce the elevated levels of these gonadotropins seen in postm
 
 ### A. Absorption
 
-Conjugated estrogens are soluble in water and are well-absorbed from the gastrointestinal tract after release from the drug formulation.
+Conjugated estrogens are water-soluble and are well-absorbed from the gastrointestinal tract after release from the drug formulation.
 The Premarin tablet releases conjugated estrogens slowly over several hours.
 Table 1 summarizes the mean pharmacokinetic parameters for unconjugated and conjugated estrogens following administration of 1 x 0.625 mg and 1 x 1.25 mg tablets to healthy postmenopausal women.
 
@@ -63,7 +63,7 @@ Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is the major urinary metabolite.
-Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the gut followed by reabsorption.
+Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women a significant proportion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
 ### D. Excretion

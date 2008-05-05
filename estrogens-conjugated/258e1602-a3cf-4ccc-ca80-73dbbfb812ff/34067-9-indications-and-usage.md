@@ -2,8 +2,8 @@
 
 Premarin therapy is indicated in the:
 
-1. Treatment of moderate to severe vasomotor symptoms associated with the menopause.
-2. Treatment of moderate to severe symptoms of vulvar and vaginal atrophy associated with the menopause.
+1. Treatment of moderate to severe vasomotor symptoms due to menopause.
+2. Treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.
    When prescribing solely for the treatment of symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
 3. Treatment of hypoestrogenism due to hypogonadism, castration or primary ovarian failure.
 4. Treatment of breast cancer (for palliation only) in appropriately selected women and men with metastatic disease.

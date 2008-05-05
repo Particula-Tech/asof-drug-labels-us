@@ -3,7 +3,6 @@
 See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
 During the first year of a 2-year clinical trial with 2,333 postmenopausal women between 40 and 65 years of age (88% Caucasian), 1,012 women were treated with conjugated estrogens and 332 were treated with placebo.
 Table 6 summarizes adverse events that occurred at a rate of ≥ 5%.
@@ -35,7 +34,7 @@ The following additional adverse reactions have been reported with estrogen and/
 
 ## 1. Genitourinary system
 
-Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding, spotting, dysmenorrhea Increase in size of uterine leiomyomata Vaginitis, including vaginal candidiasis Change in amount of cervical secretion Change in cervical ectropion Ovarian cancer Endometrial hyperplasia Endometrial cancer
+Abnormal uterine bleeding/spotting Dysmenorrhea/pelvic pain Increase in size of uterine leiomyomata Vaginitis, including vaginal candidiasis Change in amount of cervical secretion Change in cervical ectropion Ovarian cancer Endometrial hyperplasia Endometrial cancer
 
 ## 2. Breasts
 
@@ -47,7 +46,7 @@ Deep and superficial venous thrombosis Pulmonary embolism Thrombophlebitis Myoca
 
 ## 4. Gastrointestinal
 
-Nausea, vomiting Abdominal cramps, bloating Cholestatic jaundice Increased incidence of gallbladder disease Pancreatitis Enlargement of hepatic hemangiomas
+Nausea, vomiting Abdominal cramps, bloating Cholestatic jaundice Increased incidence of gallbladder disease Pancreatitis Enlargement of hepatic hemangiomas Ischemic colitis
 
 ## 5. Skin
 
@@ -59,8 +58,8 @@ Retinal vascular thrombosis Intolerance to contact lenses
 
 ## 7. Central Nervous System
 
-Headache Migraine Dizziness Mental depression Chorea Nervousness Mood disturbances Irritability Exacerbation of epilepsy Dementia
+Headache Migraine Dizziness Mental depression Exacerbation of chorea Nervousness Mood disturbances Irritability Exacerbation of epilepsy Dementia Possible growth potentiation of benign meningioma
 
 ## 8. Miscellaneous
 
-Increase or decrease in weight Reduced carbohydrate tolerance Aggravation of porphyria Edema Arthralgias Leg cramps Changes in libido Urticaria, angioedema, anaphylactoid/anaphylactic reactions Hypocalcemia Exacerbation of asthma Increased triglycerides
+Increase or decrease in weight Glucose intolerance Aggravation of porphyria Edema Arthralgias Leg cramps Changes in libido Urticaria, angioedema, anaphylactoid/anaphylactic reactions Hypocalcemia (preexisting condition) Exacerbation of asthma Increased triglycerides

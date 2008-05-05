@@ -1,10 +1,8 @@
 # PATIENT INFORMATION
 
-(Updated September 2006)
+Premarin® (conjugated estrogens tablets, USP)
 
-Premarin ® (conjugated estrogens tablets, USP)
-
-Read this PATIENT INFORMATION before you start taking Premarin and read what you get each time you refill Premarin.
+Read this PATIENT INFORMATION before you start taking Premarin and read what you get each time you refill your Premarin prescription.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
@@ -14,7 +12,7 @@ Premarin is a medicine that contains a mixture of estrogen hormones.
 
 ## Premarin is used after menopause to:
 
-- reduce moderate to severe hot flashes.
+- Reduce moderate to severe hot flashes.
   Estrogens are hormones made by a woman's ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
   This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
@@ -24,46 +22,46 @@ Premarin is a medicine that contains a mixture of estrogen hormones.
   In some women the symptoms are mild, and they will not need to take estrogens.
   In other women, symptoms can be more severe.
   You and your healthcare provider should talk regularly about whether you still need treatment with Premarin.
-- treat moderate to severe dryness, itching, and burning, in and around the vagina.
+- Treat moderate to severe dryness, itching, and burning, in and around the vagina.
   You and your healthcare provider should talk regularly about whether you still need treatment with Premarin to control these problems.
   If you use Premarin only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
-- help reduce your chances of getting osteoporosis (thin weak bones).
+- Help reduce your chances of getting osteoporosis (thin weak bones).
   Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
-  If you use Premarin only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
+  If you use Premarin only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
   You and your healthcare provider should talk regularly about whether you should continue with Premarin.
   Weight-bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances for getting postmenopausal osteoporosis.
   It is important to talk about exercise and supplements with your healthcare provider before starting them.
 
 ## Premarin is also used to:
 
-- treat certain conditions in women before menopause if their ovaries do not make enough estrogen naturally.
-- ease symptoms of certain cancers that have spread through the body, in men and women.
+- Treat certain conditions in women before menopause if their ovaries do not make enough estrogen naturally.
+- Ease symptoms of certain cancers that have spread through the body, in men and women.
 
 ## Who should not take Premarin?
 
 Do not start taking Premarin if you:
 
-- have unusual vaginal bleeding.
-- currently have or have had certain cancers.
-  Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
+- Have unusual vaginal bleeding.
+- Currently have or have had certain cancers.
+  Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or have had cancer, talk with your healthcare provider about whether you should take Premarin.
-- had a stroke or heart attack in the past year.
-- currently have or have had blood clots.
-- currently have liver problems.
-- are allergic to Premarin tablets or any of its ingredients.
-  See the end of this leaflet for a list of all the ingredients in Premarin.
-- think you may be pregnant.
+- Had a stroke or heart attack in the past year.
+- Currently have or have had blood clots.
+- Currently have or have had liver problems.
+- Are allergic to Premarin tablets or any of its ingredients.
+  See the list of ingredients in Premarin at the end of this leaflet.
+- Think you may be pregnant.
 
 ## Tell your healthcare provider:
 
-- if you are breast feeding.
+- If you are breast feeding.
   The hormones in Premarin can pass into your milk.
-- about all of your medical problems.
+- About all of your medical problems.
   Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-- about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+- About all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
   Some medicines may affect how Premarin works.
   Premarin may also affect how your other medicines work.
-- if you are going to have surgery or will be on bedrest.
+- If you are going to have surgery or will be on bedrest.
   You may need to stop taking estrogens.
 
 ## How should I take Premarin?
@@ -75,9 +73,9 @@ Do not start taking Premarin if you:
 - Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with Premarin.
 
-## What are the possible side effects of Premarin?
+## What are the possible side effects of Premarin? Side effects are grouped by how serious they are and how often they happen when you are treated.
 
-### Less common but serious side effects include:
+### Serious but less common side effects include:
 
 - Breast cancer
 - Cancer of the uterus
@@ -87,8 +85,12 @@ Do not start taking Premarin if you:
 - Dementia
 - Gallbladder disease
 - Ovarian cancer
+- High blood pressure
+- Liver problems
+- High blood sugar
+- Enlargement of benign tumors of the uterus (“fibroids”)
 
-### These are some of the warning signs of serious side effects:
+### Some of the warning signs of these serious side effects include:
 
 - Breast lumps
 - Unusual vaginal bleeding
@@ -100,10 +102,11 @@ Do not start taking Premarin if you:
 - Pains in your legs
 - Changes in vision
 - Vomiting
+- Yellowing of the skin, eyes or nail beds
 
-Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
+Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptoms that concern you.
 
-### Common side effects include:
+### Less serious but common common side effects include:
 
 - Headache
 - Breast pain
@@ -111,15 +114,8 @@ Call your healthcare provider right away if you get any of these warning signs, 
 - Stomach/abdominal cramps, bloating
 - Nausea and vomiting
 - Hair loss
-
-### Other side effects include:
-
-- High blood pressure
-- Liver problems
-- High blood sugar
 - Fluid retention
-- Enlargement of benign tumors of the uterus (“fibroids”)
-- Vaginal yeast infections
+- Vaginal yeast infection
 
 These are not all the possible side effects of Premarin.
 For more information, ask your healthcare provider or pharmacist.
@@ -128,7 +124,7 @@ For more information, ask your healthcare provider or pharmacist.
 
 - Talk with your healthcare provider regularly about whether you should continue taking Premarin.
 - If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
-  In general, the addition of a progestin is recommended for women with a uterus to reduce the chance of getting cancer of the uterus.
+  The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus.
 - See your healthcare provider right away if you get vaginal bleeding while taking Premarin.
 - Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
   If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
@@ -170,11 +166,11 @@ The color ingredients are:
 
 The appearance of these tablets is a trademark of Wyeth Pharmaceuticals.
 
-|  | This product's label may have been updated. For current package insert and further product information, please visitwww.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
 | --- | --- | --- |
 
 Wyeth®
 
 Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
 
-W10405C018 ET01 Rev 09/06
+W10405C022 ET01 Rev 03/08

@@ -1,6 +1,6 @@
 Rx only
 
-1. For treatment of moderate-to-severe vasomotor symptoms and/or moderate-to-severe symptoms of vulvar and vaginal atrophy associated with the menopause: When prescribing solely for the treatment of moderate-to-severe symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
+1. For treatment of moderate to severe vasomotor symptoms and/or moderate to severe symptoms of vulvar and vaginal atrophy due to menopause: When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
    Patients should be treated with the lowest effective dose.
    Generally, women should be started at 0.3 mg Premarin daily.
    Subsequent dosage adjustment may be made based upon the individual patient response.
@@ -16,7 +16,7 @@ Rx only
    Doses are adjusted depending on the severity of symptoms and responsiveness of the endometrium.
    In clinical studies of delayed puberty due to female hypogonadism, breast development was induced by doses as low as 0.15 mg.
    The dosage may be gradually titrated upward at 6-to-12 month intervals as needed to achieve appropriate bone age advancement and eventual epiphyseal closure.
-   Clinical studies suggest that doses of 0.15 mg, 0.3 mg, and 0.6 mg are associated with mean ratios of bone age advancement to chronological age progression (ΔBA/ΔCA) of 1.1, 1.5, and 2.1, respectively.
+   Clinical studies suggest that doses of 0.15 mg, 0.3 mg, and 0.6 mg are associated with mean ratios of bone age advancementto chronological age progression (ΔBA/ΔCA) of 1.1, 1.5, and 2.1, respectively.
    (Premarin in the dose strength of 0.15 mg is not available commercially).
    Available data suggest that chronic dosing with 0.625 mg is sufficient to induce artificial cyclic menses with sequential progestin treatment and to maintain bone mineral density after skeletal maturity is achieved.
    Female castration or primary ovarian failure — 1.25 mg daily, cyclically.
