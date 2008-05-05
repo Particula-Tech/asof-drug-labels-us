@@ -1,8 +1,4 @@
-In PL 2040 Plastic Container
-
-For Intravenous Use Only
-
-GALAXY Container (PL 2040 Plastic)
+In PL 2040 Plastic Container For Intravenous Use Only GALAXY Container (PL 2040 Plastic)
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium Injection, USP and other antibacterial drugs, Penicillin G Potassium Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
@@ -16,7 +12,8 @@ Store in a freezer capable of maintaining a temperature of -20°C/-4°F.
 
 ## Thawing of Plastic Container
 
-Thaw frozen container at room temperature (25°C/77°F) or in a refrigerator (5°C/41°F).DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
+Thaw frozen container at room temperature (25°C/77°F) or in a refrigerator (5°C/41°F).
+DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 
 Check for minute leaks by squeezing container firmly.
 If leaks are detected, discard solution as sterility may be impaired.
@@ -45,3 +42,16 @@ Remove protector from outlet port at bottom of container.
 3.
 Attach administration set.
 Refer to complete directions accompanying set.
+
+Baxter Healthcare Corporation
+
+Deerfield, IL 60015 USA
+
+Printed in USA
+
+Baxter and GALAXY are trademarks of Baxter International Inc.
+
+071956306
+
+Rev.
+February 2008

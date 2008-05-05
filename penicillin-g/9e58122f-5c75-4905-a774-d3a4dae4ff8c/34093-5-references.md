@@ -1,31 +1,25 @@
 # REFERENCES
 
 1.
-National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests- Fourth Edition.
-Tentative Standard NCCLS Document M2-T4, Vol. 8, No. 7.
-NCCLS, Villanova, PA, 1988.
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – 7th ed., CLSI document M7-A7.
+Clinical and Laboratory Standards Institute.
+Wayne, PA.
+January, 2006.
 
 2.
-National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically- Second Edition.
-Tentative Standard NCCLS Document M7-T2, Vol. 8, No. 8.
-NCCLS, Villanova, PA, 1988.
+Performance Standards for Antimicrobial Susceptibility Testing; 18th Informational Supplement, CLSI document M100-S18.
+Clinical and Laboratory Standards Institute.
+Wayne, PA.
+January, 2008.
 
 3.
-National Committee for Clinical Laboratory Standards, Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria-Second Edition.
-Tentative Standard NCCLS Document M11-T2, Villanova, PA, 1988 (or current M11-A2).
+Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 9th ed., CLSI document M2-A9.
+Clinical and Laboratory Standards Institute.
+Wayne, PA.
+January, 2006.
 
 4.
-1989 Sexually transmitted diseases treatment guidelines.
-MMWR 38(S-8):5-14, Sept.
-1, 1989.
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
-
-Baxter and GALAXY are trademarks of Baxter International Inc.
-
-07-19-51-857
-
-Rev.
-February 2007
+Methods for Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline, CLSI document M45-A.
+Clinical and Laboratory Standards Institute.
+Wayne, PA.
+May, 2006.

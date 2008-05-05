@@ -4,7 +4,6 @@ After an intravenous infusion of penicillin G, peak serum concentrations are att
 In a study of ten patients administered a single 5 million unit dose of penicillin G intravenously over 3-5 minutes, the mean serum concentrations were 400 mcg/mL, 273 mcg/mL and 3.0 mcg/mL at 5-6 minutes, 10 minutes and 4 hours after completion of the injection, respectively.
 In a separate study, five healthy adults were administered one million units of penicillin G intravenously, either as a bolus over 4 minutes or as an infusion over 60 minutes.
 The mean serum concentration eight minutes after completion of the bolus was 45 mcg/mL and eight minutes after completion of the infusion was 14.4 mcg/mL.
-
 The mean β-phase serum half-life of penicillin G administered by the intravenous route in ten patients with normal renal function was 42 minutes, with a range of 31-50 minutes.
 
 The clearance of penicillin G in normal individuals is predominantly via the kidney.
@@ -30,7 +29,7 @@ Penicillin G penetrates poorly into human polymorphonuclear leukocytes.
 In the presence of impaired renal function, the β-phase serum half-life of penicillin G is prolonged. β-phase serum half-lives of one to two hours were observed in azotemic patients with serum creatinine concentrations <3 mg/100 mL and ranged as high as 20 hours in anuric patients.
 A linear relationship, including the lowest range of renal function, is found between the serum elimination rate constant and renal function as measured by creatinine clearance.
 
-In patients with altered renal function, the presence of hepatic insufficiency further alters the elimination of penicillin G. In one study, the serum half-lives in two anuric patients (excreting<400 mL urine/day) were 7.2 and 10.1 hours.
+In patients with altered renal function, the presence of hepatic insufficiency further alters the elimination of penicillin G. In one study, the serum half-lives in two anuric patients (excreting <400 mL urine/day) were 7.2 and 10.1 hours.
 A totally anuric patient with terminal hepatic cirrhosis had a penicillin half-life of 30.5 hours, while another patient with anuria and liver disease had a serum half-life of 16.4 hours.
 The dosage of penicillin G should be reduced in patients with severe renal impairment, with additional modifications when hepatic disease accompanies the renal impairment.
 Hemodialysis has been shown to reduce penicillin G serum levels.
@@ -40,61 +39,56 @@ Hemodialysis has been shown to reduce penicillin G serum levels.
 Penicillin G is bactericidal against penicillin-susceptible microorganisms during the stage of active multiplication.
 It acts by inhibiting biosynthesis of cell-wall mucopeptide.
 It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci.
-Penicillin G is highly activein vitro against staphylococci (except penicillinase-producing strains), streptococci (groups A, B, C, G, H, L and M), pneumococci andNeisseria meningitidis.
-Other organisms susceptiblein vitroto penicillin G areNeisseria gonorrhoeae,Corynebacterium diphtheriae,Bacillus anthracis, clostridia,Actinomyces species,Spirillum minus, Streptobacillus moniliformis,Listeria monocytogenes, and leptospira;Treponema pallidum is extremely susceptible.
-Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains ofEscherichia coli, Proteus mirabilis, salmonella, shigella,Enterobacter aerogenes (formerlyAerobacter aerogenes) andAlcaligenes faecalis.
+Penicillin G is highly active in vitro against staphylococci (except penicillinase-producing strains), streptococci (groups A, B, C, G, H, L and M), pneumococci and Neisseria meningitidis.
+
+Other organisms susceptible in vitro to penicillin G are Neisseria gonorrhoeae, Corynebacterium diphtheriae, Bacillus anthracis, clostridia, Actinomyces species, Spirillum minus, Streptobacillus moniliformis, Listeria monocytogenes, and leptospira; Treponema pallidum is extremely susceptible.
+Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains of Escherichia coli, Proteus mirabilis, salmonella, shigella, Enterobacter aerogenes (formerly Aerobacter aerogenes) and Alcaligenes faecalis.
 Penicillin G is no longer considered a drug of choice for infections caused by these organisms.
 
-## Susceptibility testing
+## Susceptibility Test Methods
 
-### Diffusion techniques
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting the most effective antimicrobial.
 
-The use of antibiotic disk susceptibility test methods which measure zone diameter give an accurate estimation of antibiotic susceptibility.
-One such standard procedure1 which has been recommended for use with disks to test susceptibility of organisms to penicillin G uses the 10 Unit (U) penicillin disk.
-Interpretation involves the correlation of the diameters obtained in the disk test with the minimum inhibitory concentration (MIC) for penicillin G.
+### Dilution Techniques
 
-Reports from the laboratory giving results of the standard single-disk susceptibility test with a 10 U penicillin disk should be interpreted according to the following criteria:
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MICs should be determined using a standardized procedure.
+Standardized procedures are based on dilution method1,2 (broth, agar or microdilution) or equivalent using standardized inoculum and concentrations of pencillin.
+The MIC values should be interpreted according to the criteria in Table 1.
 
-| Table 1 Zone Diameter Interpretive Standards (nearest whole mm) |  |  |  |
-| --- | --- | --- | --- |
-|  | Susceptible | Moderately Susceptible | Resistant |
-| Staphylococci | ≥29 | - | ≤28 |
-| N. gonorrhoeae | ≥20 | - | ≤19 |
-| L. monocytogenes | ≥20 | - | ≤19 |
-| Non-enterococcal streptococci | ≥28 | 20-27 | ≤19 |
+### Diffusion Techniques
 
-A report of “susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of “moderately susceptible” suggests that the organism would be susceptible if high dosage is used or ifthe infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
-A report of “resistant” indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
+This procedure uses paper disks impregnated with 10 units of penicillin to test the susceptibility of microorganisms to penicillin.
+Interpretation involves correlation of the diameter obtained in the disk test with the MIC for penicillin.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 unit penicillin disk should be interpreted according to the following criteria in Table 1.
 
-Standardized procedures require the use of laboratory control organisms.
-The 10 U penicillin G disk should give the following zone diameters:
+| Table 1: Susceptibility Test Interpretive Criteria for Penicillin |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | MIC (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
+| Pathogen | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
+| Staphylococci | ≤0.12 | - | ≥0.25 | ≥29 | - | ≤28 |
+| Neisseria gonorrhoeae | ≤0.06 | 0.12 – 1 | ≥2 | ≥47 | 27 - 46 | ≤26 |
+| Listeria monocytogenes4 | ≤2The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yeilding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. | - | - | - | - | - |
+| Streptococcus pneumoniae(meningitis) | ≤0.06 | - | ≥0.12 | - | - | - |
+| Streptococcus pneumoniae (pneumonia) | ≤2 | 4 | ≥8 | - | - | - |
+| Beta-hemolytic streptococci | ≤0.12 | - | - | ≥24 | - | - |
+| Streptococcus spp. Viridans group | ≤0.12 | 0.25 - 2 | ≥4 | - | - | - |
 
-| Organism | Zone Diameter (mm) |
-| --- | --- |
-| Staphylococcus aureusATCC 25923 | 26-37 |
+### Quality Control
 
-### Dilution techniques
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
+Standard penicillin powder should provide MIC values provided below.
+For the diffusion technique, the 10 unit penicillin disk should provide the following zone diameters with the quality control strains:
 
-When using a standardized dilution method2 (broth, agar, microdilution) or equivalent an organism may be considered susceptible if the minimum inhibitory concentration (MIC) values are interpreted according to the following table:
-
-| Table 2 MIC Interpretive Standards (mcg/mL) |  |  |  |
-| --- | --- | --- | --- |
-|  | Susceptible | Moderately Susceptible | Resistant |
-| Staphylococci | ≤0.12 | – | ≥0.25 |
-| N. gonorrhoeae | ≤0.12 | 0.25 - 2.0 | ≥4 |
-| L. monocytogenes | ≤2 | – | ≥4 |
-| Non-enterococcal streptococci | ≤0.12 | 0.25 - 2.0 | ≥4 |
-| Pneumococci | ≤0.06 | 0.12 - 1.0 | ≥2 |
-
-MIC test results should be interpreted according to the concentration of penicillin G that can be attained in blood (serum), tissues, and body fluids.
-
-As with standard diffusion techniques, dilution methods require the use of laboratory control organisms.
-Standard penicillin G powder should provide the following MIC values:
-
-| Organism | MIC |
-| --- | --- |
-| S. aureus ATCC 29213 | 0.2 - 1.0 mcg/mL |
-| Enterococcus faecalis ATCC 29212 | 1.0 - 4.0 mcg/mL |
-
-For anaerobic bacteria the MIC of penicillin G can be determined by agar or broth dilution (including microdilution) techniques3.
+| Table 2. In Vitro Susceptibility Test Quality Control Ranges for Penicillin |  |  |
+| --- | --- | --- |
+|  | MIC range | Disk diffusion |
+| Organism (ATTC #) | mcg/mL | range (mm) |
+| Staphylococcus aureus (29213) | 0.25 -2 | Not applicable |
+| Staphylococcus aureus (25923) | Not applicable | 26 - 37 |
+| Streptococcus pneumoniae (49619) | 0.25 - 1 | 24 - 30 |
+| Neisseria gonorrhoeae (49226) | 0.25 - 1 | 26 - 34 |
