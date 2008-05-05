@@ -18,38 +18,13 @@ Estrogens act to reduce the elevated levels of these gonadotropins seen in postm
 
 ### A. Absorption
 
-Estrogen drug products are water-soluble and are well-absorbed through the skin, mucous membranes, and the gastrointestinal (GI) tract.
+Conjugated estrogens are water-soluble and are well-absorbed through the skin, mucous membranes, and the gastrointestinal (GI) tract.
 The vaginal delivery of estrogens circumvents first-pass metabolism.
-
-A single-center, randomized, open-label, multiple-dose 2-period crossover study in 24 postmenopausal women with atrophic vaginitis was conducted in the U.S. Subjects received 0.3 mg conjugated estrogens daily for 14 days: 7 days orally and 7 days vaginally (sequence randomized).
-The study showed that daily vaginal application of Premarin Vaginal Cream at a dose of 0.3 mg of conjugated estrogens (0.5 gm) over a 7-day course produced a mean steady-state Cmax of estradiol and estrone of 12.8 pg/mL and 42.0 pg/mL, respectively.
-Individual estradiol Cmax values remained within the normal postmenopausal range in 23 of 24 patients (normal range = 0 to 50 pg/mL).
-Systemic exposure to estradiol and estrone was lower with vaginal compared to oral dosing (mean bioavailability 81% for estradiol and 71% for estrone) (see Tables 1 and 2).
-
-Table 1.
-MEAN (± STANDARD DEVIATION) STEADY-STATE PHARMACOKINETIC PARAMETERS FOR ESTRADIOL (Uncorrected for Baseline)
-
-|  | Cream | Tablets |
-| --- | --- | --- |
-| Cmax (pg/mL) | 12.8 (16.6) | 19.4 (24.7) |
-| Baseline estradiol (pg/mL) | 3.65 (2.94) |  |
-| AUC (pg*hr/mL) | 231 (285) | 325 (499) |
-| F (%) | 81.3 (30.7) | N/A |
-
-Table 2.
-MEAN (± STANDARD DEVIATION) STEADY-STATE PHARMACOKINETIC PARAMETERS FOR ESTRONE (Uncorrected for Baseline)
-
-|  | Cream | Tablets |
-| --- | --- | --- |
-| Cmax (pg/mL) | 42 (13.9) | 70.2 (32.6) |
-| Baseline estrone (pg/mL) | 20.1 (8.4) |  |
-| AUC (pg*hr/mL) | 826 (295) | 1328 (637) |
-| F (%) | 71.3 (35.5) | N/A |
 
 ### B. Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
-Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
+Estrogens are widely distributed in the body and are generally found in higher concentration in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.
 
 ### C. Metabolism
@@ -57,9 +32,8 @@ Estrogens circulate in the blood largely bound to sex hormone-binding globulin (
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
-Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
-Premarin Vaginal Cream intravaginal administration avoids first-pass metabolism that occurs with oral estrogens.
-The levels of estrone and estradiol seen after vaginal administration of Premarin Vaginal Cream are within the postmenopausal range.
+Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is the major urinary metabolite.
+Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women, a significant portion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
 ### D. Excretion

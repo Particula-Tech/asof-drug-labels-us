@@ -1,20 +1,20 @@
 # DOSAGE AND ADMINISTRATION
 
 Use of Premarin Vaginal Cream, alone or in combination with a progestin, should be limited to the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be reevaluated periodically as clinically appropriate (e.g., at 3-month to 6-month intervals) to determine if treatment is still necessary (See BOXED WARNINGS and WARNINGS).
-For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
+Patients should be reevaluated periodically as clinically appropriate (for example, at 3-month to 6-month intervals) to determine if treatment is still necessary (See BOXED WARNINGS and WARNINGS).
+For women with a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
 
 Given cyclically for short-term use only:
 
 For treatment of atrophic vaginitis, or kraurosis vulvae.
 The lowest dose that will control symptoms should be chosen and medication should be discontinued as promptly as possible.
-Administration should be cyclic (e.g., three weeks on and one week off).
+Administration should be cyclic (three weeks on and one week off).
 
 Usual Dosage Range:
 
 ½ to 2 g daily, intravaginally, depending on the severity of the condition.
 
-## Instructions For Use Of Gentle Measure™ Applicator
+## Instructions For Use Of Gentle Measure® Applicator
 
 1. Remove cap from tube.
 2. Screw nozzle end of applicator onto tube.
