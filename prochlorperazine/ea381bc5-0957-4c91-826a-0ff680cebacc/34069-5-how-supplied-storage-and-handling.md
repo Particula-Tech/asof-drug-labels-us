@@ -4,6 +4,6 @@ Compro® Prochlorperazine Suppositories USP, 25 mg (for adults) are easy to open
 
 12's - NDC 0574-7226-12
 
-Store between 15°and 30°C (59° and 86°F).
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]
 
 Do not remove from wrapper until ready to use.
