@@ -16,6 +16,10 @@ Adults
 
 ABILIFY is indicated for acute and maintenance treatment of manic and mixed episodes associated with Bipolar I Disorder with or without psychotic features [see CLINICAL STUDIES (14.2)].
 
+Pediatric Patients
+
+ABILIFY is indicated for acute treatment of manic and mixed episodes associated with Bipolar Disorder with or without psychotic features in pediatric patients 10 to 17 years of age [see CLINICAL STUDIES (14.2)].
+
 ## 1.3 Adjunctive Treatment of Major Depressive Disorder
 
 Adults

@@ -22,7 +22,7 @@ Decreased maternal food consumption and increased abortions were seen at 100 mg/
 Treatment caused increased fetal mortality (100 mg/kg), decreased fetal weight (30 mg/kg and 100 mg/kg), increased incidence of a skeletal abnormality (fused sternebrae at 30 mg/kg and 100 mg/kg), and minor skeletal variations (100 mg/kg).
 
 In pregnant rabbits receiving aripiprazole injection intravenously (3 mg/kg/day, 10 mg/kg/day, and 30 mg/kg/day) during the period of organogenesis, the highest dose, which caused pronounced maternal toxicity, resulted in decreased fetal weight, increased fetal abnormalities (primarily skeletal), and decreased fetal skeletal ossification.
-The fetal no-effect dose was 10 mg/kg, which produced 15 times the human exposure at the MRHD based on AUC and is 6 times the MRHD based on mg/m2.
+The fetal no-effect dose was 10 mg/kg, which produced 5 times the human exposure at the MRHD based on AUC and is 6 times the MRHD based on mg/m2.
 
 In a study in which rats were treated with oral doses of 3 mg/kg/day, 10 mg/kg/day, and 30 mg/kg/day (1 times, 3 times, and 10 times the MRHD on a mg/m2 basis) of aripiprazole perinatally and postnatally (from day 17 of gestation through day 21 postpartum), slight maternal toxicity and slightly prolonged gestation were seen at 30 mg/kg.
 An increase in stillbirths and decreases in pup weight (persisting into adulthood) and survival were seen at this dose.
@@ -47,11 +47,14 @@ It is recommended that women receiving aripiprazole should not breast-feed.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients with Bipolar Mania, Major Depressive Disorder, or agitation associated with Schizophrenia or Bipolar Mania have not been established.
+Safety and effectiveness in pediatric patients with Major Depressive Disorder or agitation associated with Schizophrenia or Bipolar Mania have not been established.
 
 Safety and effectiveness in pediatric patients with Schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see INDICATIONS AND USAGE (1.1), DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.1)].
 
-The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients 13 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
+Safety and effectiveness in pediatric patients with Bipolar Mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years.
+[See INDICATIONS AND USAGE (1.2), DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.2)].
+
+The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
 
 ## 8.5 Geriatric Use
 

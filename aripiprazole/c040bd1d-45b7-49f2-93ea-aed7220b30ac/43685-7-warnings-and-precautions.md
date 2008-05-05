@@ -15,12 +15,12 @@ Aripiprazole is not approved for the treatment of patients with dementia-related
 
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease
 
-In three 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56-99 years), the treatment-emergent adverse events that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation (placebo 0%, aripiprazole 4%), and lightheadedness (placebo 1%, aripiprazole 4%).
+In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56-99 years), the treatment-emergent adverse events that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation (placebo 0%, aripiprazole 4%), and lightheadedness (placebo 1%, aripiprazole 4%).
 
 The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with ABILIFY, vigilance should be exercised, particularly for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
 
-## 5.2 Clinical Worsening and Suicide Risk
+## 5.2 Clinical Worsening of Depression and Suicide Risk
 
 Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -59,14 +59,14 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for ABILIFY should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of Bipolar Disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
+However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
 
 It should be noted that ABILIFY is not approved for use in treating depression in the pediatric population.
 
@@ -128,9 +128,9 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 ## 5.6 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=1894) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1.2%, 0.3%), postural dizziness (0.6%, 0.4%), and syncope (0.6%, 0.5%); of pediatric patients 13 to 17 years of age with Schizophrenia (n=202) on oral ABILIFY included orthostatic hypotension (1.5%, 0%), postural dizziness (1.0%, 0%), and syncope (0.5%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=1894) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1.2%, 0.3%), postural dizziness (0.6%, 0.4%), and syncope (0.6%, 0.5%); of pediatric patients 10 to 17 years of age (n=399) on oral ABILIFY included orthostatic hypotension (1.0%, 0%), postural dizziness (0.5%, 0%), and syncope (0.3%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
 
-The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (5%, 3%), in pediatric patients with Schizophrenia (0%, 0%), or in aripiprazole injection-treated patients (3%, 2%).
+The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (5%, 3%), in pediatric oral aripiprazole-treated patients aged 10 to 17 years (0%, 0.5%), or in aripiprazole injection-treated patients (3%, 2%).
 
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
@@ -138,7 +138,7 @@ If parenteral benzodiazepine therapy is deemed necessary in addition to aripipra
 
 ## 5.7 Seizures/Convulsions
 
-In short-term placebo-controlled trials, seizures/convulsions occurred in 0.2% (3/1894) of adult patients treated with oral aripiprazole, in 0% (0/202) of pediatric patients (13 to 17 yrs) with Schizophrenia, and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
+In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.2% (3/1894) of adult patients treated with oral aripiprazole, in 0.3% (1/399) of pediatric patients (10 to 17 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, eg, Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
@@ -146,8 +146,8 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 ## 5.8 Potential for Cognitive and Motor Impairment
 
 ABILIFY, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
-For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=1894) treated with oral ABILIFY (11%, 7%), in pediatric patients with Schizophrenia (17%, 6%), and in adult patients on ABILIFY Injection (9%, 6%).
-Somnolence (including sedation) led to discontinuation in 0.2% (4/1894) of adult patients and 0.5% (1/202) pediatric patients (13 to 17 yrs) with Schizophrenia on oral ABILIFY in short-term, placebo-controlled trials, but did not lead to discontinuation of any adult patients on ABILIFY Injection.
+For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=1894) treated with oral ABILIFY (11%, 7%), in pediatric patients ages 10 to 17 (21%, 5%), and in adult patients on ABILIFY Injection (9%, 6%).
+Somnolence (including sedation) led to discontinuation in 0.2% (4/1894) of adult patients, and 1% (4/399) of pediatric patients (10 to 17 years) on oral ABILIFY in short-term, placebo-controlled trials, but did not lead to discontinuation of any adult patients on ABILIFY Injection.
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY does not affect them adversely.
 

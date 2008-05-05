@@ -42,6 +42,8 @@ The 30 mg/day dosage was not shown to be more efficacious than the 10 mg/day dos
 
 ## 14.2 Bipolar Disorder
 
+Adults
+
 The efficacy of ABILIFY in the treatment of acute manic episodes was established in two 3-week, placebo-controlled trials in hospitalized patients who met the DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes (in one trial, 21% of placebo and 42% of ABILIFY-treated patients had data beyond two weeks).
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
 
@@ -58,6 +60,13 @@ The majority of these relapses were due to manic rather than depressive symptoms
 There is insufficient data to know whether ABILIFY is effective in delaying the time to occurrence of depression in patients with Bipolar I Disorder.
 
 An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age and gender; however, there were insufficient numbers of patients in each of the ethnic groups to adequately assess inter-group differences.
+
+Pediatric Patients
+
+The efficacy of ABILIFY in the treatment of Bipolar I Disorder in pediatric patients (10 o 17 years of age) was evaluated in one four-week placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for Bipolar I Disorder mania or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
+This double-blind, placebo-controlled trial compared two fixed dises of ABILIFY (10 mg/day or 30 mg/day) to placebo.
+The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days to the 30 mg/day treatment arm.
+Both doses of ABILIFY were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
 
 ## 14.3 Adjunctive Treatment of Major Depressive Disorder
 
@@ -81,7 +90,7 @@ With regard to gender, a smaller mean reduction on the MADRS total score was see
 
 ## 14.4 Agitation Associated with Schizophrenia or Bipolar Mania
 
-The efficacy of intramuscular aripiprazole for injection for the treatment of agitation was established in three short-term (24 hour), placebo-controlled trials in agitated inpatients from two diagnostic groups: Schizophrenia and Bipolar I Disorder (manic or mixed episodes, with or without psychotic features).
+The efficacy of intramuscular aripiprazole for injection for the treatment of agitation was established in three short-term (24-hour), placebo-controlled trials in agitated inpatients from two diagnostic groups: Schizophrenia and Bipolar I Disorder (manic or mixed episodes, with or without psychotic features).
 Each of the trials included a single active comparator treatment arm of either haloperidol injection (Schizophrenia studies) or lorazepam injection (Bipolar Mania study).
 Patients could receive up to three injections during the 24-hour treatment periods; however, patients could not receive the second injection until after the initial 2-hour period when the primary efficacy measure was assessed.
 Patients enrolled in the trials needed to be: (1) judged by the clinical investigators as clinically agitated and clinically appropriate candidates for treatment with intramuscular medication, and (2) exhibiting a level of agitation that met or exceeded a threshold score of ≥15 on the five items comprising the Positive and Negative Syndrome Scale (PANSS) Excited Component (ie, poor impulse control, tension, hostility, uncooperativeness, and excitement items) with at least two individual item scores ≥4 using a 1-7 scoring system (1 = absent, 4 = moderate, 7 = extreme).

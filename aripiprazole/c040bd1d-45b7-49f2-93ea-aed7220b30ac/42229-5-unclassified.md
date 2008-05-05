@@ -1,204 +1,159 @@
-Dose-Related Adverse Reactions
+# 17 PATIENT COUNSELING INFORMATION
 
-Schizophrenia
+See Medication Guide (17.2)
 
-Dose response relationships for the incidence of treatment-emergent adverse events were evaluated from four trials in adult patients with Schizophrenia comparing various fixed doses (2 mg/day, 5 mg/day, 10 mg/day, 15 mg/day, 20 mg/day, and 30 mg/day) of oral aripiprazole to placebo.
-This analysis, stratified by study, indicated that the only adverse reaction to have a possible dose response relationship, and then most prominent only with 30 mg, was somnolence [including sedation]; (incidences were placebo, 7.1%; 10 mg, 8.5%; 15 mg, 8.7%; 20 mg, 7.5%; 30 mg, 12.6%).
+## 17.1 Information for Patients
 
-In the study of pediatric patients (13 to 17 years of age) with Schizophrenia, three common adverse reactions appeared to have a possible dose response relationship: extrapyramidal disorder (incidences were placebo, 5.0%; 10 mg, 13.0%; 30 mg, 21.6%); somnolence (incidences were placebo, 6.0%; 10 mg, 11.0%; 30 mg, 21.6%); and tremor (incidences were placebo, 2.0%; 10 mg, 2.0%; 30 mg, 11.8%).
+Physicians are advised to discuss the following issues with patients for whom they prescribe ABILIFY:
 
-Extrapyramidal Symptoms
+Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-In short-term, placebo-controlled trials in Schizophrenia in adults, the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 13% vs. 12% for placebo; and the incidence of akathisia-related events for aripiprazole-treated patients was 8% vs. 4% for placebo.
-In the short-term, placebo-controlled trial of Schizophrenia in pediatric (13-17 years) patients, the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 25% vs. 7% for placebo; and the incidence of akathisia-related events for aripiprazole-treated patients was 9% vs. 6% for placebo.
-In the short-term, placebo-controlled trials in Bipolar Mania in adults, the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 15% vs. 8% for placebo and the incidence of akathisia-related events for aripiprazole-treated patients was 15% vs. 4% for placebo.
-In the short-term, placebo-controlled trials in Major Depressive Disorder, the incidence of reported EPS-related events, excluding events related to akathisia, for adjunctive aripiprazole-treated patients was 8% vs. 5% for adjunctive placebo-treated patients; and the incidence of akathisia-related events for adjunctive aripiprazole-treated patients was 25% vs. 4% for adjunctive placebo-treated patients.
+Patients and caregivers should be advised that elderly patients with dementia-related psychoses treated with atypical antipsychotic drugs are at increased risk of death compared with placebo.
+ABILIFY is not approved for elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS (5.1)].
 
-Objectively collected data from those trials was collected on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias).
-In the adult Schizophrenia trials, the objectively collected data did not show a difference between aripiprazole and placebo, with the exception of the Barnes Akathisia Scale (aripiprazole, 0.08; placebo, -0.05).
-In the pediatric (13 to 17 years) Schizophrenia trial, the objectively collected data did not show a difference between aripiprazole and placebo, with the exception of the Simpson Angus Rating Scale (aripiprazole, 0.24; placebo, -0.29).
-In the Bipolar Mania trials, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.61; placebo, 0.03 and aripiprazole, 0.25; placebo, -0.06).
-Changes in the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
-In the Major Depressive Disorder trials, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive aripiprazole and adjunctive placebo (aripiprazole, 0.31; placebo, 0.03 and aripiprazole, 0.22; placebo, 0.02).
-Changes in the Assessments of Involuntary Movement Scales were similar for the adjunctive aripiprazole and adjunctive placebo groups.
+Clinical Worsening of Depression and Suicide Risk
 
-Similarly, in a long-term (26-week), placebo-controlled trial of Schizophrenia, objectively collected data on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias) did not show a difference between aripiprazole and placebo.
+Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see WARNINGS AND PRECAUTIONS (5.2)].
 
-In the placebo-controlled trials in patients with agitation associated with Schizophrenia or Bipolar Mania, the incidence of reported EPS-related events excluding events related to akathisia for aripiprazole-treated patients was 2% vs. 2% for placebo and the incidence of akathisia-related events for aripiprazole-treated patients was 2% vs. 0% for placebo.
-Objectively collected data on the Simpson Angus Rating Scale (for EPS) and the Barnes Akathisia Scale (for akathisia) for all treatment groups did not show a difference between aripiprazole and placebo.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ABILIFY and should counsel them in its appropriate use.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+It should be noted that ABILIFY is not approved as a single agent for treatment of depression and has not been evaluated in pediatric Major Depressive Disorder.
 
-Dystonia
+Use of Orally Disintegrating Tablet
 
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
-Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
-While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
-An elevated risk of acute dystonia is observed in males and younger age groups.
+Do not open the blister until ready to administer.
+For single tablet removal, open the package and peel back the foil on the blister to expose the tablet.
+Do not push the tablet through the foil because this could damage the tablet.
+Immediately upon opening the blister, using dry hands, remove the tablet and place the entire ABILIFY DISCMELT Orally Disintegrating Tablet on the tongue.
+Tablet disintegration occurs rapidly in saliva.
+It is recommended that ABILIFY DISCMELT be taken without liquid.
+However, if needed, it can be taken with liquid.
+Do not attempt to split the tablet.
 
-Laboratory Test Abnormalities
+Interference with Cognitive and Motor Performance
 
-A between group comparison for 3-week to 6-week, placebo-controlled trials revealed no medically important differences between the aripiprazole and placebo groups in the proportions of patients experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
-Similarly, there were no aripiprazole/placebo differences in the incidence of discontinuations for changes in serum chemistry, hematology, or urinalysis.
+Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.8)].
 
-In the 6-week trials of aripiprazole as adjunctive therapy for Major Depressive Disorder, there were no clinically important differences between the adjunctive aripiprazole-treated and adjunctive placebo-treated patients in the median change from baseline in prolactin, fasting glucose, HDL, LDL, or total cholesterol measurements.
-The median % change from baseline in triglycerides was 5% for adjunctive aripiprazole-treated patients vs. 0% for adjunctive placebo-treated patients.
+Pregnancy
 
-In a long-term (26-week), placebo-controlled trial there were no medically important differences between the aripiprazole and placebo patients in the mean change from baseline in prolactin, fasting glucose, triglyceride, HDL, LDL, and total cholesterol measurements.
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with ABILIFY [see USE IN SPECIFIC POPULATIONS (8.1)].
 
-Weight Gain
+Nursing
 
-In 4-week to 6- week trials in adults with Schizophrenia, there was a slight difference in mean weight gain between aripiprazole and placebo patients (+0.7 kg vs. -0.05 kg, respectively) and also a difference in the proportion of patients meeting a weight gain criterion of ≥7% of body weight [aripiprazole (8%) compared to placebo (3%)].
-In a 6-week trial in pediatric patients (13 to 17 yrs) with Schizophrenia, there was a slight difference in mean weight gain between aripiprazole and placebo patients (+0.13 kg vs. -0.83 kg, respectively) and also a difference in the proportion of patients meeting a weight gain criterion of ≥7% of body weight [aripiprazole (5%) compared to placebo (1%)].
-In 3-week trials in adults with Mania, the mean weight gain for aripiprazole and placebo patients was 0.0 kg vs. -0.2 kg, respectively.
-The proportion of patients meeting a weight gain criterion of ≥7% of body weight was aripiprazole (3%) compared to placebo (2%).
+Patients should be advised not to breast-feed an infant if they are taking ABILIFY [see USE IN SPECIFIC POPULATIONS (8.3)].
 
-In the trials adding aripiprazole to antidepressants, patients first received 8 weeks of antidepressant treatment followed by 6 weeks of adjunctive aripiprazole or placebo in addition to their ongoing antidepressant treatment.
-The mean weight gain with adjunctive aripiprazole was 1.7 kg vs. 0.4 kg with adjunctive placebo.
-The proportion of patients meeting a weight gain criterion of ≥7% of body weight was 5% with adjunctive aripiprazole compared to 1% with adjunctive placebo.
+Concomitant Medication
 
-Table 10 provides the weight change results from a long-term (26-week), placebo-controlled study of aripiprazole, both mean change from baseline and proportions of patients meeting a weight gain criterion of ≥7% of body weight relative to baseline, categorized by BMI at baseline.
-Although there was no mean weight increase, the aripiprazole group tended to show more patients with a ≥7% weight gain.
+Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see DRUG INTERACTIONS (7)].
 
-Table 10: Weight Change Results Categorized by BMI at Baseline: Placebo-Controlled Study in Schizophrenia, Safety Sample
+Alcohol
 
-|  | BMI <23 |  | BMI 23-27 |  | BMI >27 |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=54) | Aripiprazole (n=59) | Placebo (n=48) | Aripiprazole (n=39) | Placebo (n=49) | Aripiprazole (n=53) |
-| Mean change from baseline (kg) | -0.5 | -0.5 | -0.6 | -1.3 | -1.5 | -2.1 |
-| % with ≥7% increase BW | 3.7% | 6.8% | 4.2% | 5.1% | 4.1% | 5.7% |
+Patients should be advised to avoid alcohol while taking ABILIFY [see DRUG INTERACTIONS (7.2)].
 
-Table 11 provides the weight change results from a long-term (52-week) study of aripiprazole, both mean change from baseline and proportions of patients meeting a weight gain criterion of ≥7% of body weight relative to baseline, categorized by BMI at baseline:
+Heat Exposure and Dehydration
 
-Table 11: Weight Change Results Categorized by BMI at Baseline: Active-Controlled Study in Schizophrenia, Safety Sample
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.9)].
 
-|  | BMI <23 (n=314) | BMI 23-27 (n=265) | BMI >27 (n=260) |
-| --- | --- | --- | --- |
-| Mean change from baseline (kg) | 2.6 | 1.4 | -1.2 |
-| % with ≥7% increase BW | 30% | 19% | 8% |
+Sugar Content
 
-ECG Changes
+Patients should be advised that each mL of ABILIFY Oral Solution contains 400 mg of sucrose and 200 mg of fructose.
 
-Between group comparisons for a pooled analysis of placebo-controlled trials in patients with Schizophrenia, Bipolar Mania, or Major Depressive Disorder revealed no significant differences between oral aripiprazole and placebo in the proportion of patients experiencing potentially important changes in ECG parameters.
-Aripiprazole was associated with a median increase in heart rate of 3 beats per minute compared to no increase among placebo patients.
+Phenylketonurics
 
-In the pooled, placebo-controlled trials in patients with agitation associated with Schizophrenia or Bipolar Mania, there were no significant differences between aripiprazole injection and placebo in the proportion of patients experiencing potentially important changes in ECG parameters, as measured by standard 12-lead ECGs.
+Phenylalanine is a component of aspartame.
+Each ABILIFY DISCMELT Orally Disintegrating Tablet contains the following amounts: 10 mg - 1.12 mg phenylalanine and 15 mg - 1.68 mg phenylalanine.
 
-Additional Findings Observed in Clinical Trials
+Tablets manufactured by Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan or Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
-Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
+Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
-The adverse reactions reported in a 26-week, double-blind trial comparing oral ABILIFY and placebo in patients with Schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for ABILIFY vs. 2% (3/153) for placebo].
-In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
-Tremor infrequently led to discontinuation (<1%) of ABILIFY.
-In addition, in a long-term (52-week), active-controlled study, the incidence of tremor for ABILIFY was 5% (40/859).
-A similar profile was observed in a long-term study in Bipolar Disorder.
+Distributed and marketed by Otsuka America Pharmaceutical, Inc, Rockville, MD 20850 USA
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Aripiprazole
+Marketed by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA US Patent Nos: 5,006,528; 6,977,257; and 7,115,587
 
-Following is a list of MedDRA terms that reflect adverse reactions as defined in ADVERSE REACTIONS (6.1) reported by patients treated with oral aripiprazole at multiple doses ≥2 mg/day during any phase of a trial within the database of 12,925 adult patients.
-All events assessed as possible adverse drug reactions have been included with the exception of more commonly occurring events.
-In addition, medically/clinically meaningful adverse reactions, particularly those that are likely to be useful to the prescriber or that have pharmacologic plausibility, have been included.
-Events already listed in other parts of ADVERSE REACTIONS (6), or those considered in WARNINGS AND PRECAUTIONS(5) or OVERDOSAGE(10) have been excluded.
-Although the reactions reported occurred during treatment with aripiprazole, they were not necessarily caused by it.
+1239550A1 0308L-0818 Rev February 2008
 
-Events are further categorized by MedDRA system organ class and listed in order of decreasing frequency according to the following definitions: those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); those occurring in 1/100 to 1/1000 patients; and those occurring in fewer than 1/1000 patients.
+© 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
 
-Adults - Oral Administration
+## 17.2 Medication Guide
 
-Blood and Lymphatic System Disorders:
+MEDICATION GUIDE
 
-- ≥1/1000 patients and <1/100 patients - leukopenia, neutropenia; <1/1000 patients - thrombocytopenia, agranulocytosis, idiopathic thrombocytopenic purpura
+ABILIFY® (a BIL ĭ fī)
 
-Cardiac Disorders:
+Generic name: aripiprazole
 
-- ≥1/1000 patients and <1/100 patients - cardiopulmonary failure, bradycardia, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, bundle branch block; <1/1000 patients - atrial flutter, ventricular tachycardia, complete atrioventricular block, supraventricular tachycardia
+Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Eye Disorders:
+Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
+This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
+Talk to your, or your family member’s, healthcare provider about:
 
-- ≥1/1000 patients and <1/100 patients - eyelid edema, photophobia, diplopia, photopsia; <1/1000 patients - excessive blinking
+- all risks and benefits of treatment with antidepressant medicines
+- all treatment choices for depression or other serious mental illness
 
-Gastrointestinal Disorders:
+What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- ≥1/1000 patients and <1/100 patients - dysphagia, gastroesophageal reflux disease, gastrointestinal hemorrhage, swollen tongue, ulcer, esophagitis, angioedema; <1/1000 patients - pancreatitis
-
-General Disorders and Administration Site Conditions:
-
-- ≥1/100 patients - asthenia, pyrexia; ≥1/1000 patients and <1/100 patients - mobility decreased, face edema; <1/1000 patients - hypothermia
-
-Hepatobiliary Disorders:
-
-- ≥1/1000 patients and <1/100 patients - cholecystitis, cholelithiasis; <1/1000 patients - hepatitis, jaundice
-
-Injury, Poisoning, and Procedural Complications:
-
-- ≥1/100 patients - fall; ≥1/1000 patients and <1/100 patients - self mutilation; <1/1000 patients - heat stroke
-
-Investigations:
-
-- ≥1/100 patients - creatine phosphokinase increased; ≥1/1000 patients and <1/100 patients - hepatic enzyme increased, blood urea increased, blood bilirubin increased, blood creatinine increased, electrocardiogram QT corrected interval prolonged, blood prolactin increased; <1/1000 patients - blood lactate dehydrogenase increased, glycosylated hemoglobin increased, GGT increased
-
-Metabolism and Nutrition Disorders:
-
-- ≥1/1000 patients and <1/100 patients - anorexia, hyperlipidemia
-
-Musculoskeletal and Connective Tissue Disorders:
-
-- ≥1/100 patients - muscle spasms; ≥1/1000 patients and <1/100 patients - muscle rigidity; <1/1000 patients - rhabdomyolysis
-
-Nervous System Disorders:
-
-- ≥1/100 patients - coordination abnormal; ≥1/1000 patients and <1/100 patients - speech disorder, dyskinesia, parkinsonism, dystonia, cogwheel rigidity, memory impairment, cerebrovascular accident, hypokinesia, tardive dyskinesia, hypotonia, hypertonia, akinesia, myoclonus, bradykinesia; <1/1000 patients - Grand Mal convulsion, choreoathetosis
-
-Psychiatric Disorders:
-
-- ≥1/100 patients - agitation, irritability, suicidal ideation; ≥1/1000 patients and <1/100 patients - aggression, loss of libido, libido decreased, hostility, suicide attempt, libido increased, anger, anorgasmia, delirium, intentional self injury, completed suicide, tic, homicidal ideation; <1/1000 patients - psychomotor agitation, premature ejaculation, catatonia, sleep walking
-
-Renal and Urinary Disorders:
-
-- ≥1/1000 patients and <1/100 patients - urinary retention, polyuria, nocturia
-
-Reproductive System and Breast Disorders:
-
-- ≥1/1000 patients and <1/100 patients - erectile dysfunction, amenorrhea, menstruation irregular, breast pain; <1/1000 patients - gynaecomastia, priapism, galactorrhea
-
-Respiratory, Thoracic, and Mediastinal Disorders:
-
-- ≥1/100 patients - dyspnea; ≥1/1000 patients and <1/100 patients - pneumonia aspiration, respiratory distress; <1/1000 patients - pulmonary embolism, asphyxia
-
-Skin and Subcutaneous Tissue Disorders:
-
-- ≥1/100 patients - hyperhydrosis; ≥1/1000 patients and <1/100 patients - erythema, pruritus, ecchymosis, face edema, photosensitivity reaction, alopecia, urticaria
-
-Vascular Disorders:
-
-- ≥1/1000 patients and <1/100 patients - hypotension, deep vein thrombosis, phlebitis; <1/1000 patients - shock, thrombophlebitis
-
-Pediatric Patients - Oral Administration
-
-All adverse reactions observed in the pooled database of 281 pediatric patients aged 13 to 17 years were also observed in the adult population.
-Additional adverse reactions observed in the pediatric population are listed below.
-
-Investigations:
-
-- ≥1/100 patients - blood insulin increased
-
-Nervous System Disorders:
-
-- ≥1/1000 patients and <1/100 patients - sleep talking, psychomotor skills impaired
-
-Skin and Subcutaneous Tissue Disorders:
-
-- ≥1/1000 patients and <1/100 patients - hirsutism
-
-Adults - Intramuscular Injection
-
-All adverse reactions observed in the pooled database of 749 adult patients treated with aripiprazole injection, were also observed in the adult population treated with oral aripiprazole.
-Additional adverse reactions observed in the aripiprazole injection population are listed below.
-
-General Disorders and Administration Site Conditions:
-
-1. ≥1/100 patients - injection site reaction; ≥1/1000 patients and <1/100 patients - venipuncture site bruise
-
-## 6.3 Postmarketing Experience
-
-The following adverse reactions have been identified during postapproval use of ABILIFY.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: rare occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), and blood glucose fluctuation.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+
+- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- Keep all follow-up visits with the healthcare provider as scheduled.
+  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+
+Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling very agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
+
+What else do I need to know about antidepressant medicines?
+
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Antidepressants are medicines used to treat depression and other illnesses.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+
+Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
+
+- Antidepressant medicines have other side effects.
+  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.
+  Know all of the medicines that you or your family member takes.
+  Keep a list of all medicines to show the healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+  Talk to your child’s healthcare provider for more information.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+
+It should be noted that ABILIFY is approved to be added to an antidepressant when the response from the antidepressant alone is not adequate.
+ABILIFY is not approved for pediatric patients with depression.
+
+Call your doctor for medical advice about side effects.
+You may report side effect to FDA at 1-800-FDA-1088.
+
+ABILIFY is a trademark of Otsuka Pharmaceutical Company.
+
+1239550A1 0308L-0818 Rev February 2008
+
+© 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

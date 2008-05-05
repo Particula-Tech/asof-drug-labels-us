@@ -49,13 +49,23 @@ The safety of doses above 30 mg/day has not been evaluated in clinical trials [s
 
 Pediatric Patients
 
-ABILIFY has not been evaluated in pediatric patients with Bipolar Disorder.
+The efficacy of aripiprazole has been established in the treatment of pediatric patients 10 to 17 years of age with Bipolar I Disorder at doses of 10 mg/day or 30 mg/day.
+The recommended target dose of ABILIFY is 10 mg/day The starting daily dose of the tablet formulation in these patients was 2 mg/day, which was titrated to 5 mg/day after 2 days and to the target dose of 10 mg/day after 2 additional days.
+Subsequent dose increases should be administered in 5 mg/day increments.
+ABILIFY can be administered without regard to meals.
+[see CLINICAL STUDIES (14.2)].
 
 Maintenance Therapy
+
+Adults
 
 While there is no body of evidence available to answer the question of how long a patient treated with aripiprazole should remain on it, adult patients with Bipolar I Disorder who had been symptomatically stable on ABILIFY Tablets (15 mg/day or 30 mg/day with a starting dose of 30 mg/day) for at least 6 consecutive weeks and then randomized to ABILIFY Tablets (15 mg/day or 30 mg/day) or placebo and monitored for relapse, demonstrated a benefit of such maintenance treatment [see CLINICAL STUDIES (14.2)].
 While it is generally agreed that pharmacological treatment beyond an acute response in Mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of aripiprazole in such longer-term treatment (beyond 6 weeks).
 Physicians who elect to use ABILIFY for extended periods, that is, longer than 6 weeks, should periodically re-evaluate the long-term usefulness of the drug for the individual.
+
+Pediatric Patients
+
+The efficacy of ABILIFY for the maintenance treatment of Bipolar I Disorder in the pediatric population has not been evaluted.
 
 ## 2.3 Adjunctive Treatment of Major Depressive Disorder
 
@@ -113,7 +123,7 @@ ABILIFY Intramuscular Injection has not been evaluated in pediatric patients.
 
 ## 2.5 Dosage Adjustment
 
-Dosage adjustments are not routinely indicated on the basis of age, gender, race, or renal or hepatic impairment status [see USE IN SPECIFIC POPULATIONS (8.4-8.10)].
+Dosage adjustments in adults are not routinely indicated on the basis of age, gender, race, or renal or hepatic impairment status [see USE IN SPECIFIC POPULATIONS (8.4-8.10)].
 
 - Dosage adjustment for patients taking aripiprazole concomitantly with strong CYP3A4 inhibitors: When concomitant administration of aripiprazole with strong CYP3A4 inhibitors such as ketoconazole or clarithromycin is indicated, the aripiprazole dose should be reduced to one-half the usual dose.
   When the CYP3A4 inhibitor is withdrawn from the combination therapy, the aripiprazole dose should then be increased [see DRUG INTERACTIONS (7.1)].
