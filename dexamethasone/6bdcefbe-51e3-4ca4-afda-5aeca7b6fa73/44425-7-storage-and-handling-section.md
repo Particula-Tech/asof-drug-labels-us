@@ -1,0 +1,7 @@
+# Storage Conditions
+
+Store between 15°-30°C (59°-86°F).
+
+DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT.
+
+KEEP OUT OF REACH OF CHILDREN.

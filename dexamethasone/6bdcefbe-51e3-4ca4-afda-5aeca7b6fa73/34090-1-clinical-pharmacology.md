@@ -1,0 +1,4 @@
+# Clinical Pharmacology
+
+Dexamethasone sodium phosphate suppresses the inflammatory response to a variety of agents and it probably delays or slows healing.
+No generally accepted explanation of these steroid properties have been advanced.
