@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Premarin Intravenous should not be used in individuals with any of the following conditions:
+Premarin Intravenous therapy should not be used in individuals with any of the following conditions:
 
 1.
 Undiagnosed abnormal genital bleeding.
@@ -15,16 +15,13 @@ Known or suspected estrogen-dependent neoplasia.
 Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
 
 5.
-Active or recent (e.g., within past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction).
+Active or recent (within past year) arterial thromboembolic disease (for example, stroke, myocardial infarction).
 
 6.
 Liver dysfunction or disease.
 
 7.
-Premarin Intravenous for injection should not be used in patients with known hypersensitivity to its ingredients.
+Known hypersensitivity to any of the ingredients in Premarin Intravenous for injection.
 
 8.
 Known or suspected pregnancy.
-There is no indication for Premarin Intravenous in pregnancy.
-There appears to be little or no increased risk of birth defects in children born to women who have used estrogen and progestins from oral contraceptives inadvertently during pregnancy.
-(See PRECAUTIONS.)

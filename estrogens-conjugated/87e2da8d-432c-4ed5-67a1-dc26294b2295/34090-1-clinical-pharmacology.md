@@ -17,7 +17,7 @@ Estrogens act to reduce the elevated levels of these gonadotropins seen in postm
 
 ### A. Absorption
 
-Conjugated estrogens are soluble in water and are well-absorbed through the skin, mucous membranes, and gastrointestinal tract after release from the drug formulation.
+Conjugated estrogens are water-soluble and are well-absorbed through the skin, mucous membranes, and gastrointestinal tract after release from the drug formulation.
 
 ### B. Distribution
 
@@ -31,7 +31,7 @@ Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is the major urinary metabolite.
-Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the gut followed by reabsorption.
+Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women a significant proportion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
 ### D. Excretion

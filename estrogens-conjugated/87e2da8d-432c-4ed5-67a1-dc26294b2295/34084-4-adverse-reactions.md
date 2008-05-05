@@ -2,32 +2,36 @@
 
 See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.
 
-Premarin Intravenous is indicated for short-term use.
-However, the warnings, precautions and adverse reactions associated with Premarin tablets should be taken into account.
+Premarin Intravenous for injection is indicated for short-term use.
+However, the warnings, precautions and adverse reactions associated with oral Premarin treatment should be taken into account.
+
+The following adverse reactions have been reported with estrogen and/or progestin therapy.
 
 ## 1. Genitourinary system.
 
-- Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding, spotting.
+- Abnormal uterine bleeding/spotting.
+  Dysmennorrhea/pelvic pain.
   Increase in size of uterine leiomyomata.
-  Vaginal candidiasis.
+  Vaginitis, including vaginal candidiasis.
   Change in amount of cervical secretion.
+  Change in cervical ectropion.
   Ovarian cancer.
   Endometrial hyperplasia.
   Endometrial cancer.
 
 ## 2. Breasts.
 
-- Pain, tenderness, enlargement.
-  Breast cancer.
+- Tenderness, enlargement, pain, discharge, galactorrhea.
+  Fibrocystic breast changes Breast cancer.
 
 ## 3. Cardiovascular.
 
 - Deep and superficial venous thrombosis.
   Pulmonary embolism.
   Thrombophlebitis.
-  Hypotension.
   Myocardial infarction.
   Stroke.
+  Increase in blood pressure.
 
 ## 4. Gastrointestinal.
 
@@ -61,7 +65,7 @@ However, the warnings, precautions and adverse reactions associated with Premari
   Migraine.
   Dizziness.
   Mental depression.
-  Chorea.
+  Exacerbation of chorea.
   Nervousness.
   Exacerbation of epilepsy.
   Dementia.
@@ -70,13 +74,16 @@ However, the warnings, precautions and adverse reactions associated with Premari
 ## 8. Miscellaneous.
 
 - Increase or decrease in weight.
-  Reduced carbohydrate tolerance.
+  Glucose intolerance.
   Aggravation of porphyria.
   Edema.
+  Arthralgia.
+  Leg cramps.
   Changes in libido.
   Anaphylactoid/anaphylactic reactions.
   Urticaria.
   Angioedema.
+  Hypocalcemia (preexisting condition).
   Injection site pain.
   Injection site edema.
   Phlebitis (injection site).
