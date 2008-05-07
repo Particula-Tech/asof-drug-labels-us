@@ -18,7 +18,7 @@ Concomitant administration of dopamine and diuretic agents may produce an additi
 
 Low Cardiac Output: Dopamine’s direct inotropic effect on the myocardium which increases cardiac output at low or moderate doses is related to a favorable prognosis.
 Increased output has been associated with unchanged or decreased systemic vascular resistance (SVR).
-The association of static or decreased SVR with low or moderate increases in cardiac output is regarded as a reflection of differential effects on specific vascular beds, with increased resistance in peripheral beds (e.g., femoral), and concurrent decreases in mesenteric and renal vascular beds.
+The association of static or decreased SVR with low or moderate increases in cardiac output is regarded as a reflection of differential effects on specific vascular beds, withincreased resistance in peripheral beds (e.g., femoral), and concurrent decreases in mesenteric and renal vascular beds.
 Redistribution of blood flow parallels these changes so that an increase in cardiac output is accompanied by an increase in mesenteric and renal blood flow.
 In many instances the renal fraction of the total cardiac output has been found to increase.
 Increase in cardiac output produced by dopamine is not associated with substantial decreases in systemic vascular resistance as may occur with isoproterenol.

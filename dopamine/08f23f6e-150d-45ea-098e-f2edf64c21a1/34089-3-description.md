@@ -8,12 +8,12 @@ May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
 
 Dopamine administered intravenously is a myocardial inotropic agent, which also may increase mesenteric and renal blood flow plus urinary output.
 
-Dopamine Hydrochloride is chemically designated 3, 4-dihydroxyphenethylamine hydrochloride (C8H11NO2• HCl), a white crystalline powder freely soluble in water.
+Dopamine Hydrochloride is chemically designated 3, 4-dihydroxyphenethylamine hydrochloride (C8H11NO2 • HCl), a white crystalline powder freely soluble in water.
 It has the following structural formula:
 
 Dopamine (also referred to as 3-hydroxytyramine) is a naturally occurring endogenous catecholamine precursor of norepinephrine.
 
-Dextrose, USP is chemically designated D-glucose monohydrate (C6H12O6• H2O), a hexose sugar freely soluble in water.
+Dextrose, USP is chemically designated D-glucose monohydrate (C6H12O6 • H2O), a hexose sugar freely soluble in water.
 It has the following structural formula:
 
 Water for Injection, USP is chemically designated H2O.
