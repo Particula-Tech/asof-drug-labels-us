@@ -25,8 +25,11 @@ Fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma
 Table 1.
 Percent of Patients Withdrawn Due to Worsening Asthma in Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
-| ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol44 mcg(n = 89) | Salmeterol CFCInhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
+|  | Fluticasone Propionate | Salmeterol CFC |  |
 | --- | --- | --- | --- |
+|  | CFC Inhalation Aerosol | Inhalation Aerosol | Placebo HFA |
+| ADVAIR HFA 45/21 | 44 mcg | 21 mcg | Inhalation Aerosol |
+| (n = 92) | (n = 89) | (n = 92) | (n = 87) |
 | 2% | 8% | 25% | 28% |
 
 The FEV1 results are displayed in Figure 1.
@@ -39,18 +42,18 @@ The effect of ADVAIR HFA 45/21 on the secondary efficacy parameters, including m
 Table 2.
 Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
-| Efficacy Variable* | ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol 44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
+|  |  | Fluticasone |  |  |
 | --- | --- | --- | --- | --- |
-| AM PEF (L/min) |  |  |  |  |
-| BaselineChange from baseline | 37758 | 36927 | 38125 | 3821 |
-| PM PEF (L/min) |  |  |  |  |
-| BaselineChange from baseline | 39748 | 38720 | 40216 | 4073 |
-| Use of VENTOLIN Inhalation Aerosol (inhalations/day) |  |  |  |  |
-| BaselineChange from baseline | 3.1-2.1 | 2.4-0.4 | 2.7-0.8 | 2.70.2 |
-| Asthma symptom score/day |  |  |  |  |
-| BaselineChange from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
-
-*Change from baseline = change from baseline at Endpoint (last available data).
+|  |  | Propionate CFC | Salmeterol |  |
+|  |  | Inhalation | CFC Inhalation | Placebo HFA |
+|  | ADVAIR HFA | Aerosol | Aerosol | Inhalation |
+|  | 45/21 | 44 mcg | 21 mcg | Aerosol |
+| Efficacy Variable* | (n = 92) | (n = 89) | (n = 92) | (n = 87) |
+| AM PEF (L/min) Baseline Change from baseline | 37758 | 36927 | 38125 | 3821 |
+| PM PEF (L/min) Baseline Change from baseline | 39748 | 38720 | 40216 | 4073 |
+| Use of VENTOLINInhalation Aerosol(inhalations/day) Baseline Change from baseline | 3.1-2.1 | 2.4-0.4 | 2.7-0.8 | 2.70.2 |
+| Asthma symptomscore/day Baseline Change from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
+| *Change from baseline = change from baseline at Endpoint (last available data). |  |  |  |  |
 
 The subjective impact of asthma on patients’ perceptions of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).
 Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI 0.85, 1.44] compared to placebo).

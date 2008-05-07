@@ -2,7 +2,7 @@
 
 ## ADVAIR HFA Inhalation Aerosol
 
-No deaths occurred in rats given a single-dose combinationof salmeterol 3.6 mg/kg and fluticasone propionate 1.9 mg/kg given as the inhalation powder (approximately 290 and 15 times, respectively, the maximum recommended human daily inhalation dose on a mg/m2 basis).
+No deaths occurred in rats given a single-dose combination of salmeterol 3.6 mg/kg and fluticasone propionate 1.9 mg/kg given as the inhalation powder (approximately 290 and 15 times, respectively, the maximum recommended human daily inhalation dose on a mg/m2 basis).
 
 ## Fluticasone Propionate
 

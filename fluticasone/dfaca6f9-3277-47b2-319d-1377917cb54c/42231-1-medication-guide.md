@@ -69,8 +69,7 @@ Tell your healthcare provider about all of your health conditions, including if 
 - have liver problems
 - have osteoporosis
 - have an immune system problem
-- are pregnant or planning to become pregnant.
-  It is not known if ADVAIR HFA may harm your unborn baby.
+- are pregnant or planning to become pregnant.It is not known if ADVAIR HFA may harm your unborn baby.
 - are breastfeeding.
   It is not known if ADVAIR HFA passes into your milk and if it can harm your baby.
 - are allergic to ADVAIR HFA or any other medicines
@@ -102,11 +101,11 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Take your next dose at your usual time.
   Do not take 2 doses at one time.
 - While you are using ADVAIR HFA twice a day, do not use other medicines that contain a long-acting beta2-agonist or LABA for any reason.
-  Other LABA-containing medicines include ADVAIR DISKUS® (fluticasone propionate and salmeterol inhalation powder), SEREVENT® DISKUS® (salmeterol xinafoate inhalation powder), or FORADIL® AEROLIZER™ (formoterol fumarate inhalation powder).
+  Other LABA-containing medicines include ADVAIR DISKUS® (fluticasone propionate and salmeterol inhalation powder), SEREVENT® DISKUS® (salmeterol xinafoate inhalation powder), FORADIL® AEROLIZER® (formoterol fumarate inhalation powder), SYMBICORT® (budesonide and formoterol fumarate dihydrate) Inhalation Aerosol, PERFOROMIST™ (formoterol fumarate) Inhalation Solution, and BROVANA™ (arformoterol tartrate) Inhalation Solution.
 - Do not change or stop any of your medicines used to control or treat your breathing problems.
   Your healthcare provider will adjust your medicines as needed.
 - Make sure you always have a short-acting beta2-agonist medicine with you.
-  Use your short-acting beta2-agonistmedicine if you have breathing problems between doses of ADVAIR HFA.
+  Use your short-acting beta2-agonist medicine if you have breathing problems between doses of ADVAIR HFA.
 - Call your healthcare provider or get medical care right away if:
   - your breathing problems worsen with ADVAIR HFA
   - you need to use your short-acting beta2-agonist medicine more often than usual
@@ -120,7 +119,7 @@ Ask your healthcare provider or pharmacist if you have any questions.
 What are the possible side effects with ADVAIR HFA?
 
 - ADVAIR HFA contains salmeterol (the same medicine found in SEREVENT).
-  In patients with asthma, LABA medicines, such as salmeterol may increase the chance of death from asthma problems.
+  In patients with asthma, LABA medicines, such as salmeterol, may increase the chance of death from asthma problems.
   See “What is the most important information I should know about ADVAIR HFA?”
 
 Other possible side effects with ADVAIR HFA include:
@@ -146,6 +145,9 @@ Tell your healthcare provider about any side effect that bothers you or that doe
 
 These are not all the side effects with ADVAIR HFA.
 Ask your healthcare provider or pharmacist for more information.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store ADVAIR HFA?
 
@@ -199,8 +201,6 @@ Make sure the canister is fully and firmly inserted into the actuator.
 
 Shake the inhaler well for 5 seconds right before each use.
 
-Figure 1
-
 2.
 Breathe out fully through your mouth, pushing as much air out of your lungs as you can.
 
@@ -216,8 +216,6 @@ So, just after starting to take in a slow, deep breath through your mouth, press
 
 Take your finger off the canister after the spray comes out of the canister.
 Take the mouthpiece out of your mouth after you have finished breathing in.
-
-Figure 2
 
 4.
 Hold your breath as long as you can, up to 10 seconds.
@@ -262,8 +260,6 @@ Carefully twist the swab in a circular motion to take off any medicine (see Figu
 Then wipe the inside of the mouthpiece with a clean tissue dampened with water.
 Let the actuator air-dry overnight.
 
-Figure 3
-
 Step 3.
 Put the mouthpiece cover back on after the actuator has dried.
 
@@ -273,13 +269,14 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-ADVAIR, FLOVENT, SEREVENT, and DISKUSare registered trademarks of GlaxoSmithKline.
+ADVAIR, ADVAIR DISKUS, FLOVENT, SEREVENT, and DISKUS are registered trademarks of GlaxoSmithKline.
 
-The following are registered trademarks of their respective manufacturers: NORVIR and KALETRA/Abbott Laboratories, FORADIL AEROLIZER/Novartis Pharmaceuticals Corporation.
+The following are registered trademarks of their respective manufacturers: NORVIR and KALETRA/Abbott Laboratories, FORADIL AEROLIZER/Novartis PharmaceuticalsCorporation, SYMBICORT/AstraZeneca group of companies.
+The following are trademarks of their respective manufacturers: PERFOROMIST/Dey, L.P.; BROVANA/Sepracor Inc.
 
-©2006, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
-June 2006 MG-039
+March 2008ADH:1MG
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -80,7 +80,7 @@ The following additional WARNINGS about ADVAIR HFA should be noted.
    Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
 7. Paradoxical bronchospasm.
    As with other inhaled asthma medications, ADVAIR HFA can produce paradoxical bronchospasm, which may be life threatening.
-   If paradoxical bronchospasm occurs following dosing with ADVAIR HFA, it should be treated immediately with an inhaled, short-acting bronchodilator, ADVAIR HFA should be discontinued immediately and alternative therapy should be instituted.
+   If paradoxical bronchospasm occurs following dosing with ADVAIR HFA, it should be treated immediately with an inhaled, short-acting bronchodilator; ADVAIR HFA should be discontinued immediately; and alternative therapy should be instituted.
 8. Immediate hypersensitivity reactions.
    Immediate hypersensitivity reactions may occur after administration of ADVAIR HFA, as demonstrated by cases of urticaria, angioedema, rash, and bronchospasm.
 9. Upper airway symptoms.
@@ -103,10 +103,10 @@ The following additional WARNINGS about ADVAIR HFA should be noted.
     If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
     (See the respective package inserts for complete VZIG and IG prescribing information.)
     If chickenpox develops, treatment with antiviral agents may be considered.
-13. Drug interaction with ritonavir.
-    A drug interaction study in healthy subjects has shown that ritonavir (a highly potent cytochrome P450 3A4 inhibitor) can significantly increase systemic fluticasone propionate exposure (AUC), resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions and PRECAUTIONS: Drug Interactions: Inhibitors of Cytochrome P450).
+13. Potential drug interactions with CYP 3A4 inhibitors.
+    Both fluticasone propionate and salmeterol are substrates of CYP 3A4.Fluticasone Propionate: A drug interaction study in healthy subjects has shown that ritonavir (a strong cytochrome P450 3A4 inhibitor) can significantly increase systemic fluticasone propionate exposure (AUC), resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions and PRECAUTIONS: Drug Interactions: Inhibitors of Cytochrome P450).
     During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
-    Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
+    Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.Salmeterol: Because of the potential for drug interactions and the potential for increased risk of cardiovascular adverse events, the concomitant use of ADVAIR HFA with strong CYP 3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
 
 # PRECAUTIONS
 
@@ -126,7 +126,7 @@ Long-term use of orally inhaled corticosteroids may affect normal bone metabolis
 In patients with major risk factors for decreased bone mineral content, such as tobacco use, advanced age, sedentary lifestyle, poor nutrition, family history of osteoporosis, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants and corticosteroids), ADVAIR HFA may pose an additional risk.
 
 Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
-Beta-adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
+Beta- adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
 The decrease in serum potassium is usually transient, not requiring supplementation.
 
 Clinically significant changes in blood glucose and/or serum potassium were seen infrequently during clinical studies with ADVAIR HFA at recommended doses.
@@ -192,14 +192,14 @@ It is important that patients understand how to use ADVAIR HFA in relation to ot
 5. Patients should be cautioned regarding common adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 6. Long-term use of inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR HFA, may increase the risk of some eye problems (cataracts or glaucoma).
    Regular eye examinations should be considered.
-7. When patients are prescribed ADVAIR HFA, other medications for asthmashould be used only as directed by the physician.
+7. When patients are prescribed ADVAIR HFA, other medications for asthma should be used only as directed by the physician.
 8. Patients who are pregnant or nursing should contact the physician about the use of ADVAIR HFA.
 9. Patients should use ADVAIR HFA at regular intervals as directed.
    Results of clinical trials indicated significant improvement may occur within the first 30 minutes of taking the first dose; however, the full benefit may not be achieved until treatment has been administered for 1 week or longer.
    The patient should not use more than the prescribed dosage but should contact the physician if symptoms do not improve or if the condition worsens.
 10. The bronchodilation from a single dose of ADVAIR HFA may last up to 12 hours or longer.
     The recommended dosage (2 inhalations twice daily, morning and evening) should not be exceeded.
-    Patients who are receiving ADVAIR HFA twice daily should not use salmeterol or other inhaled, long-acting beta2-agonists (e.g., formoterol) for prevention of EIB or maintenance treatment of asthma.
+    Patients who are receiving ADVAIR HFA twice daily should not use salmeterol or other inhaled, long-acting beta2-agonists (e.g., formoterol)for prevention of EIB or maintenance treatment of asthma.
 11. Patients should be warned to avoid exposure to chickenpox or measles and, if they are exposed, to consult the physician without delay.
 12. Prime the inhaler before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
     In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by shaking well before each spray and releasing 2 test sprays into the air away from the face.
@@ -251,19 +251,28 @@ Although the clinical significance of these effects is not known, caution is adv
 
 ### Inhibitors of Cytochrome P450
 
-Fluticasone propionate is a substrate of cytochrome P450 3A4.
-A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a highly potent cytochrome P450 3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions).
+Fluticasone propionate and salmeterol are substrates of cytochrome P450 3A4.
+
+#### Fluticasone propionate
+
+A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong potent cytochrome P450 3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions).
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
 Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
 
 In a placebo-controlled, crossover study in 8 healthy adult volunteers, coadministration of a single dose of orally inhaled fluticasone propionate (1,000 mcg) with multiple doses of ketoconazole (200 mg) to steady state resulted in increased systemic fluticasone propionate exposure, a reduction in plasma cortisol AUC, and no effect on urinary excretion of cortisol.
-Caution should be exercised when ADVAIR HFA is coadministered with ketoconazole and other known potent cytochrome P450 3A4 inhibitors.
+
+#### Salmeterol
+
+In a drug interaction study in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
+Three (3) subjects were withdrawn due to beta2-agonist side effects (2 with prolonged QTc and 1 with palpitations and sinus tachycardia).
+Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
+Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 ### Fluticasone Propionate
 
-Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 4 times the maximum recommended human daily inhalation dose on a mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis) for 104 weeks.
+Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 4 times the maximum recommended human daily inhalation dose on a mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (less than the maximumrecommended human daily inhalation dose on a mcg/m2 basis) for 104 weeks.
 
 Fluticasone propionate did not induce gene mutation in prokaryotic or eukaryotic cells in vitro.
 No significant clastogenic effect was seen in cultured human peripheral lymphocytes in vitro or in the mouse micronucleus test.
@@ -309,7 +318,7 @@ Pregnancy Category C. Subcutaneous studies in the mouse and rat at 45 and 100 mc
 No teratogenicity was seen in the rat at inhalation doses up to 68.7 mcg/kg (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis).
 
 In the rabbit, fetal weight reduction and cleft palate were observed at a subcutaneous dose of 4 mcg/kg (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis).
-However, no teratogenic effects were reported at oral doses up to 300 mcg/kg (approximately 5 times the maximum recommended human daily inhalation dose on a mcg/m2 basis) of fluticasone propionate.
+However, no teratogenic effects were reported at oral doses up to 300 mcg/kg (approximately 5 times the maximum recommended human daily inhalation dose on mcg/m2 basis) of fluticasone propionate.
 No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration (see CLINICAL PHARMACOLOGY: Pharmacokinetcs: Fluticasone Propionate: Absorption).
 
 Fluticasone propionate crossed the placenta following administration of a subcutaneous dose of 100 mcg/kg to mice (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis), a subcutaneous or an oral dose of 100 mcg/kg to rats (equivalent to the maximum recommended human daily inhalation dose on a mcg/m2 basis), and an oral dose of 300 mcg/kg to rabbits (approximately 5 times the maximum recommended human daily inhalation dose on a mcg/m2 basis).
@@ -369,7 +378,7 @@ The potential for “catch-up” growth following discontinuation of treatment w
 The effects on growth velocity of treatment with orally inhaled corticosteroids for over 1 year, including the impact on final adult height, are unknown.
 The growth of children and adolescents receiving orally inhaled corticosteroids, including ADVAIR HFA, should be monitored.
 If a child or adolescent on any corticosteroid appears to have growth suppression, the possibility that he/she is particularly sensitive to this effect of corticosteroids should be considered.
-The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained and the risks associated with alternative therapies.
+The potential growth effects of prolonged treatmentshould be weighed against the clinical benefits obtained and the risks associated with alternative therapies.
 To minimize the systemic effects of orally inhaled corticosteroids, including ADVAIR HFA, each patient should be titrated to the lowest strength that effectively controls his/her asthma (see DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use

@@ -34,7 +34,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2006, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
-December 2006 RL-2337
+March 2008 ADH:1PI
