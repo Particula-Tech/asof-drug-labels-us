@@ -112,7 +112,8 @@ After the initial dose in this study, increased gastric pH was seen within 1-2 h
 After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within 1-2 hours post-dosing with 15 mg of lansoprazole.
 
 Acid suppression may enhance the effect of antimicrobials in eradicating Helicobacter pylori (H. pylori).
-The percentage of time gastric pH was elevated above 5 and 6 was evaluated in a crossover study of PREVACID given daily, b.i.d. and t.i.d (Table 2).
+The percentage of time gastric pH was elevated above 5 and 6 was evaluated in a crossover study of PREVACID given daily, b.i.d. and t.i.d.
+(Table 2).
 
 Table 2: Mean Antisecretory Effects After 5 Days of b.i.d. and t.i.d.
 Dosing

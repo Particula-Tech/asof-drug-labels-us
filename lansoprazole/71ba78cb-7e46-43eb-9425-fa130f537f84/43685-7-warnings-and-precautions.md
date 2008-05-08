@@ -3,15 +3,16 @@
 CLARITHROMYCIN SHOULD NOT BE USED IN PREGNANT WOMEN EXCEPT IN CLINICAL CIRCUMSTANCES WHERE NO ALTERNATIVE THERAPY IS APPROPRIATE.
 IF PREGNANCY OCCURS WHILE TAKING CLARITHROMYCIN, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS (see WARNINGS in the prescribing information for clarithromycin).
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including clarithromycin and amoxicillin, and may range in severity from mild to life threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including clarithromycin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of "antibiotic-associated colitis."
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 There have been post-marketing reports of colchicine toxicity with concomitant use of clarithromycin and colchicine, especially in the elderly, some of which occurred in patients with renal insufficiency.
 Deaths have been reported in some such patients.
@@ -106,28 +107,32 @@ PREVACID for Delayed-Release Oral Suspension should be administered as follows:
 
 ## Drug Interactions
 
-Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
-Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
+PREVACID causes long-lasting inhibition of gastric acid secretion.
+PREVACID substantially decreases the systemic concentrations of the HIV protease inhibitor atazanavir, which is dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir and the development of HIV resistance.
+Therefore, PREVACID, or other proton pump inhibitors, should not be co-administered with atazanavir.
+
+It is theoretically possible that PREVACID may also interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
+
+PREVACID is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
+Studies have shown that PREVACID does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
 These compounds are metabolized through various cytochrome P450 isozymes including CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
-When lansoprazole was administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen.
+When PREVACID was administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen.
 Because of the small magnitude and the direction of the effect on theophylline clearance, this interaction is unlikely to be of clinical concern.
-Nonetheless, individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood levels.
+Nonetheless, individual patients may require additional titration of their theophylline dosage when PREVACID is started or stopped to ensure clinically effective blood levels.
 
 In a study of healthy subjects neither the pharmacokinetics of warfarin enantiomers nor prothrombin time were affected following single or multiple 60 mg doses of lansoprazole.
-However, there have been reports of increased International Normalized Ratio (INR) and prothrombin time in patients receiving proton pump inhibitors, including lansoprazole, and warfarin concomitantly.
+However, there have been reports of increased International Normalized Ratio (INR) and prothrombin time in patients receiving proton pump inhibitors, including PREVACID, and warfarin concomitantly.
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.
 
-In an open-label, single-arm, eight-day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of 7 days of naproxen 500 mg BID and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
+In an open-label, single-arm, eight-day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of 7 days of naproxen 500 mg BID and PREVACID 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
 While this study was not designed to assess the safety of this combination of drugs, no major adverse events were noted.
 
-Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.
+PREVACID has also been shown to have no clinically significant interaction with amoxicillin.
 
-In a single-dose crossover study examining lansoprazole 30 mg and omeprazole 20 mg each administered alone and concomitantly with sucralfate 1 gram, absorption of the proton pump inhibitors was delayed and their bioavailability was reduced by 17% and 16%, respectively, when administered concomitantly with sucralfate.
+In a single-dose crossover study examining PREVACID 30 mg and omeprazole 20 mg each administered alone and concomitantly with sucralfate 1 gram, absorption of the proton pump inhibitors was delayed and their bioavailability was reduced by 17% and 16%, respectively, when administered concomitantly with sucralfate.
 Therefore, proton pump inhibitors should be taken at least 30 minutes prior to sucralfate.
 In clinical trials, antacids were administered concomitantly with PREVACID and there was no evidence of a change in the efficacy of PREVACID.
-
-Lansoprazole causes a profound and long-lasting inhibition of gastric acid secretion; therefore, it is theoretically possible that lansoprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
 
 ## Carcinogenesis, Mutagenesis, Impairment Of Fertility
 

@@ -23,9 +23,9 @@ PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets, 15 mg, are white
 The 30 mg are white to yellowish white uncoated tablets with orange to dark brown speckles, with "30" debossed on one side of the tablet.
 The tablets are available as follows:
 
-| NDC 0300-1543-30 | Unit dose packages of 30: 15-mg tablets |
+| NDC 0300-1543-11 | Unit dose packages of 100: 15-mg tablets |
 | --- | --- |
-| NDC 0300-1544-30 | Unit dose packages of 30: 30-mg tablets |
+| NDC 0300-1544-11 | Unit dose packages of 100: 30-mg tablets |
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature]

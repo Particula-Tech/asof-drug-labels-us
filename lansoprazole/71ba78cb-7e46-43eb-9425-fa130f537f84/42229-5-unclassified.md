@@ -12,9 +12,12 @@ ENSURE® is a registered trademark of Abbott Laboratories.
 
 CLOtest® is a registered trademark of Delta West Ltd., Bentley, Australia.
 
-102-0004-R26, June 2007
+03-5570-R27, Rev.
+July 2007
 
 © 1995-2007 TAP Pharmaceutical Products Inc.
+
+IN-5355/S
 
 (Nos.
 1541, 1543, 1544, 3046, 7309, 7311)
