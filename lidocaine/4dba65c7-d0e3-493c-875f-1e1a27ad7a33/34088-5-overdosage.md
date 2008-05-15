@@ -1,0 +1,12 @@
+# OVERDOSAGE
+
+Reactions due to overdosage are generally systemic in nature and involve the central nervous system and the cardiovascular system.
+See ADVERSE REACTIONS.
+
+Should convulsions or signs of respiratory depression and arrest develop, the patency of the airway and adequacy of ventilation must be assured immediately.
+See MANAGEMENT OF ADVERSE REACTIONS.
+
+The approximate oral LD50 of lidocaine hydrochloride in mice is 520 mg/kg.
+Plasma levels in excess of 8 mcg/mL in humans have been associated with serious adverse effects.
+
+Dialysis is of negligible value in the treatment of acute overdosage from lidocaine hydrochloride.
