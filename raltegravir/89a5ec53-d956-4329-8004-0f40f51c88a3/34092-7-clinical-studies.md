@@ -92,9 +92,9 @@ Virologic responses at Week 24 by baseline genotypic and phenotypic sensitivity 
 
 Table 8: Virologic Response at Week 24 by Baseline Genotypic/Phenotypic Sensitivity Score
 
-| BENCHMRK 1 and 2 Pooled (Noncompleters as failures approach) | Percent with HIV RNA <400 copies/mL at Week 24 |  |  |  | Percent with HIV RNA <50 copies/mL at Week 24 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | ISENTRESS 400 mg Twice Daily + OBT (N = 286) | n | Placebo+ OBT(N = 150) | n | ISENTRESS 400 mg Twice Daily + OBT (N = 286) | n | Placebo+ OBT(N = 150) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BENCHMRK 1 and 2 Pooled (Noncompleters as failures approach) | Percent with HIV RNA <400 copies/mL at Week 24 |  |  |  | Percent with HIV RNA <50 copies/mL at Week 24 |  |  |  |
 | Phenotypic Sensitivity Score (PSS)The Phenotypic Sensitivity Score (PSS) and the Genotypic Sensitivity Score (GSS) were defined as the total oral ARTs in OBT to which a subject's viral isolate showed phenotypic sensitivity and genotypic sensitivity, respectively, based upon phenotypic and genotypic resistance tests. Enfuvirtide use in OBT in enfuvirtide-naïve subjects was counted as one active drug in OBT in the GSS and PSS. Similarly, darunavir use in OBT in darunavir-naïve subjects was counted as one active drug in OBT. |  |  |  |  |  |  |  |  |
 | 0 | 44 | 50 | 26 | 4 | 44 | 41 | 26 | 4 |
 | 1 | 89 | 75 | 50 | 34 | 89 | 66 | 50 | 30 |

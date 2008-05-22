@@ -22,7 +22,7 @@ Manufactured and Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889
 
 Printed in USA
 
-9795100
+9795101
 
 U.S. Patent Nos. US 7,169,780
 
@@ -137,6 +137,8 @@ When ISENTRESS has been given with other anti-HIV drugs, the most common side ef
 - nausea
 - headache
 
+Other side effects include rash and severe skin reactions.
+
 A condition called Immune Reconstitution Syndrome can happen in some patients with advanced HIV infection (AIDS) when combination antiretroviral treatment is started.
 Signs and symptoms of inflammation from opportunistic infections that a person has or had may occur as the medicines work to control the HIV infection and strengthen the immune system.
 Call your doctor right away if you notice any signs or symptoms of an infection after starting ISENTRESS with other anti-HIV medicines.
@@ -176,8 +178,8 @@ In addition, the film coating contains the following inactive ingredients: polyv
 
 Manufactured and Distributed by: MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
 
-Revised October 2007
+Revised May 2008
 
-9795100
+9795101
 
 U.S. Patent Nos. US 7,169,780

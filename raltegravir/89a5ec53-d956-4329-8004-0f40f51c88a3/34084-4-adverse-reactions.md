@@ -13,9 +13,9 @@ The most commonly (>10%) reported adverse reactions, of all intensities, regardl
 
 Table 1: Percentage of Subjects with the Most Commonly Reported (>10%) Adverse Reactions of All IntensitiesIntensities are defined as follows: Mild (awareness of sign or symptom, but easily tolerated); Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity). and Regardless of Causality Occurring in Treatment-Experienced Adult Subjects
 
-| System Organ Class, Adverse Reactions | Randomized Studies P005, P018 and P019 |  |
-| --- | --- | --- |
 | ISENTRESS 400 mg twice daily + OBT(n=507)n=total number of subjects per treatment group. % | Placebo + OBT(n=282) % |  |
+| --- | --- | --- |
+| System Organ Class, Adverse Reactions | Randomized Studies P005, P018 and P019 |  |
 | Gastrointestinal Disorders |  |  |
 | Diarrhea | 16.6 | 19.5 |
 | Nausea | 9.9 | 14.2 |
@@ -33,9 +33,9 @@ Drug-related clinical adverse reactions of moderate to severe intensity occurrin
 Table 2: Percentage of Subjects with Drug-RelatedIncludes adverse reactions at least possibly, probably, or very likely related to the drug.Adverse Reactions of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Experienced Adult Subjects
 
-| System Organ Class, Adverse Reactions | Randomized Studies P005, P018 and P019 |  |
-| --- | --- | --- |
 | ISENTRESS 400 mg twice daily + OBT (n = 507)n=total number of subjects per treatment group. % | Placebo + OBT (n = 282) % |  |
+| --- | --- | --- |
+| System Organ Class, Adverse Reactions | Randomized Studies P005, P018 and P019 |  |
 | Gastrointestinal Disorders |  |  |
 | Diarrhea | 3.7 | 4.6 |
 | Nausea | 2.2 | 3.2 |
@@ -91,9 +91,9 @@ The percentages of adult subjects treated with ISENTRESS 400 mg twice daily in P
 
 Table 3: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Experienced Subjects
 
-|  |  | Randomized Studies P005, P018 and P019 |  |
-| --- | --- | --- | --- |
 | Laboratory Parameter Preferred Term (Unit) | Limit | ISENTRESS 400 mg Twice Daily + OBT (N = 507) | Placebo + OBT (N = 282) |
+| --- | --- | --- | --- |
+|  |  | Randomized Studies P005, P018 and P019 |  |
 | Hematology |  |  |  |
 | Absolute neutrophil count (103/μL) |  |  |  |
 | Grade 2 | 0.75 - 0.999 | 3.7% | 7.4% |
@@ -141,3 +141,10 @@ Table 3: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Ex
 | Grade 3 | 10.0 - 19.9 x ULN | 2.4% | 1.8% |
 | Grade 4 | >10.0 x ULN | 2.2% | 0.7% |
 | ULN = Upper limit of normal range |  |  |  |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of ISENTRESS.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Subcutaneous Tissue Disorders: rash, Stevens-Johnson syndrome

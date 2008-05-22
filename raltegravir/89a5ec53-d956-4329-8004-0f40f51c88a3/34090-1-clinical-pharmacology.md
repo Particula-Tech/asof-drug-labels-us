@@ -105,9 +105,9 @@ Drug Interactions [see Drug Interactions (7)].
 
 Table 4: Effect of Other Agents on the Pharmacokinetics of Raltegravir
 
-| Coadministered Drug | Coadministered Drug Dose/Schedule | Raltegravir Dose/Schedule | Ratio (90% Confidence Interval) of Raltegravir Pharmacokinetic Parameters with/without Coadministered Drug; No Effect = 1.00 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | n | Cmax | AUC | Cmin |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Coadministered Drug Dose/Schedule | Raltegravir Dose/Schedule | Ratio (90% Confidence Interval) of Raltegravir Pharmacokinetic Parameters with/without Coadministered Drug; No Effect = 1.00 |  |  |  |
 | atazanavir | 400 mg daily | 100 mg single dose | 10 | 1.53 (1.11, 2.12) | 1.72 (1.47, 2.02) | 1.95 (1.30, 2.92) |
 | atazanavir/ritonavir | 300 mg/100 mg daily | 400 mg twice daily | 10 | 1.24 (0.87, 1.77) | 1.41 (1.12, 1.78) | 1.77 (1.39, 2.25) |
 | efavirenz | 600 mg daily | 400 mg single dose | 9 | 0.64 (0.41, 0.98) | 0.64 (0.52, 0.80) | 0.79 (0.49, 1.28) |
