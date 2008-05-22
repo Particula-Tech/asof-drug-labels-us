@@ -35,12 +35,12 @@ At such times, it may be necessary to discontinue glipizide and administer insul
 The effectiveness of any oral hypoglycemic drug, including glipizide, in lowering blood glucose to a desired level decreases in many patients over a period of time, which may be due to progression of the severity of the diabetes or to diminished responsiveness to the drug.
 This phenomenon is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective in an individual patient when first given.
 
-## Laboratory Tests
+## Laboratory Tests:
 
 Blood and urine glucose should be monitored periodically.
 Measurement of glycosylated hemoglobin may be useful.
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be informed of the potential risks and advantages of glipizide and of alternative modes of therapy.
 They should also be informed about the importance of adhering to dietary instructions, of a regular exercise program, and of regular testing of urine and/or blood glucose.
@@ -48,7 +48,7 @@ They should also be informed about the importance of adhering to dietary instruc
 The risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and responsible family members.
 Primary and secondary failure should also be explained.
 
-## Drug Interactions
+## Drug Interactions:
 
 The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, and beta adrenergic blocking agents.
 When such drugs are administered to a patient receiving glipizide, the patient should be observed closely for hypoglycemia.
@@ -67,15 +67,15 @@ The effect of concomitant administration of fluconazole and glipizide has been d
 All subjects received glipizide alone and following treatment with 100 mg of fluconazole as a single daily oral dose for 7 days.
 The mean percentage increase in the glipizide AUC after fluconazole administration was 56.9% (range: 35 to 81).
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 A twenty month study in rats and an eighteen month study in mice at doses up to 75 times the maximum human dose revealed no evidence of drug-related carcinogenicity.
 Bacterial and in vivo mutagenicity tests were uniformly negative.
 Studies in rats of both sexes at doses up to 75 times the human dose showed no effects on fertility.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic Effects
+### Teratogenic Effects:
 
 Pregnancy Category C: Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5 to 50 mg/kg).
 This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide.
@@ -86,23 +86,23 @@ Glipizide should be used during pregnancy only if the potential benefit justifie
 
 Because recent information suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities, many experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.
 
-### Nonteratogenic Effects
+### Nonteratogenic Effects:
 
 Prolonged severe hypoglycemia (4 to 10 days) has been reported in neonates born to mothers who were receiving a sulfonylurea drug at the time of delivery.
 This has been reported more frequently with the use of agents with prolonged half-lives.
 If glipizide is used during pregnancy, it should be discontinued at least one month before the expected delivery date.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Although it is not known whether glipizide is excreted in human milk, some sulfonylurea drugs are known to be excreted in human milk.
 Because the potential for hypoglycemia in nursing infants may exist, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 If the drug is discontinued and if diet alone is inadequate for controlling blood glucose, insulin therapy should be considered.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in children have not been established.
 
-## Geriatric Use
+## Geriatric Use:
 
 A determination has not been made whether controlled clinical studies of glipizide included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

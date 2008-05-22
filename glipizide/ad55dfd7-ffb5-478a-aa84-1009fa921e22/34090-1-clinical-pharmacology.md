@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## Mechanism of Action:
 
 The primary mode of action of glipizide in experimental animals appears to be the stimulation of insulin secretion from the beta cells of pancreatic islet tissue and is thus dependent on functioning beta cells in the pancreatic islets.
 In humans glipizide appears to lower the blood glucose acutely by stimulating the release of insulin from the pancreas, an effect dependent upon functioning beta cells in the pancreatic islets.
@@ -10,18 +10,18 @@ Fasting insulin levels are not elevated even on long-term glipizide administrati
 The insulinotropic response to a meal occurs within 30 minutes after an oral dose of glipizide in diabetic patients, but elevated insulin levels do not persist beyond the time of the meal challenge.
 Extrapancreatic effects may play a part in the mechanism of action of oral sulfonylurea hypoglycemic drugs.
 
-Blood sugar control persists in some patients for up to 24 hours after a single dose of glipizide, even though plasma levels have declined to a small fraction of peak levels by that time (see Pharmacokinetics below).
+Blood sugar control persists in some patients for up to 24 hours after a single dose of glipizide, even though plasma levels have declined to a small fraction of peak levels by that time (seePharmacokinetics below).
 
 Some patients fail to respond initially, or gradually lose their responsiveness to sulfonylurea drugs, including glipizide.
 Alternatively, glipizide may be effective in some patients who have not responded or have ceased to respond to other sulfonylureas.
 
-## Other Effects
+## Other Effects:
 
 It has been shown that glipizide therapy was effective in controlling blood sugar without deleterious changes in the plasma lipoprotein profiles of patients treated for NIDDM.
 
 In a placebo-controlled, crossover study in normal volunteers, glipizide had no antidiuretic activity, and, in fact, led to a slight increase in free water clearance.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Gastrointestinal absorption of glipizide in man is uniform, rapid, and essentially complete.
 Peak plasma concentrations occur 1 to 3 hours after a single oral dose.

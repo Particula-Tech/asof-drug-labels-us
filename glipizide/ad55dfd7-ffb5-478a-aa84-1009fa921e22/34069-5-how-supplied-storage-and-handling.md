@@ -12,6 +12,4 @@ Dispense in a tight container as defined in the USP.
 
 Watson Laboratories, Inc. Corona, CA 92880 USA
 
-12452-4
-
-Revised: March 2002
+14744 Revised: July 2007 0707B

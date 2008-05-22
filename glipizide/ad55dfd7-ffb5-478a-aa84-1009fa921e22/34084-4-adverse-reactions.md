@@ -3,7 +3,7 @@
 In U.S. and foreign controlled studies, the frequency of serious adverse reactions reported was very low.
 Of 702 patients, 11.8% reported adverse reactions and in only 1.5% was glipizide discontinued.
 
-Hypoglycemia: See PRECAUTIONS and OVERDOSAGE sections.
+Hypoglycemia: SeePRECAUTIONS andOVERDOSAGE sections.
 
 Gastrointestinal: Gastrointestinal disturbances are the most common reactions.
 Gastrointestinal complaints were reported with the following approximate incidence: nausea and diarrhea, one in seventy; constipation and gastralgia, one in one hundred.

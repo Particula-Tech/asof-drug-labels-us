@@ -22,9 +22,9 @@ Maintenance: Some patients may be effectively controlled on a once-a-day regimen
 Total daily doses above 15 mg should ordinarily be divided.
 Total daily doses above 30 mg have been safely given on a b.i.d. basis to long-term patients.
 
-In elderly patients, debilitated or malnourished patients, and patients with impaired renal or hepatic function, the initial and maintenance dosing should be conservative to avoid hypoglycemic reactions (see PRECAUTIONS section).
+In elderly patients, debilitated or malnourished patients, and patients with impaired renal or hepatic function, the initial and maintenance dosing should be conservative to avoid hypoglycemic reactions (seePRECAUTIONS section).
 
-Patients Receiving Insulin: As with other sulfonylurea-class hypoglycemics, many stable non-insulindependent diabetic patients receiving insulin may be safely placed on glipizide.
+Patients Receiving Insulin: As with other sulfonylurea-class hypoglycemics, many stable noninsulin- dependent diabetic patients receiving insulin may be safely placed on glipizide.
 When transferring patients from insulin to glipizide, the following general guidelines should be considered:
 
 For patients whose daily insulin requirement is 20 units or less, insulin may be discontinued and glipizide therapy may begin at usual dosages.
