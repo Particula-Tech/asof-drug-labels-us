@@ -4,8 +4,7 @@ PROTONIX® (pantoprazole sodium) Delayed-Release Tablets are supplied as 40 mg y
 
 They are available as follows:
 
-- NDC 0008-0841-81 bottles of 90
-- NDC 0008-0841-99 carton of 10 Redipak® blister strips of 10 tablets each
+- NDC 0008-0841-81 bottles of 90 NDC 0008-0841-99 carton of 10 Redipak® blister strips of 10 tablets each
 
 PROTONIX® (pantoprazole sodium) Delayed-Release Tablets are supplied as 20 mg yellow oval biconvex delayed-release tablets imprinted with P20 (brown ink) on one side.
 
@@ -33,20 +32,6 @@ United States Patent Number: 4,758,579 — Oral Suspension
 
 Wyeth®
 
-Marketed by
+Marketed by Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101 under license from Nycomed GmbH D78467 Konstanz, Germany
 
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
-
-under license from
-
-Nycomed GmbH
-
-D78467 Konstanz, Germany
-
-W10438C018
-
-ET02
-
-Rev 05/08
+W10438C017 ET01 Rev 12/07

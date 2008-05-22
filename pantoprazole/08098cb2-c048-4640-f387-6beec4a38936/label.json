@@ -1,30 +1,14 @@
 {
-  "application_numbers": [
-    "NDA020987",
-    "NDA022020"
-  ],
+  "application_numbers": [],
   "inn": "pantoprazole",
-  "labeler": "Wyeth Pharmaceuticals Company",
+  "labeler": "Wyeth Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "0008-0841-17",
     "0008-0841-81",
     "0008-0841-99",
     "0008-0843-81",
-    "0008-0844-01",
     "0008-0844-02"
   ],
-  "products": [
-    {
-      "form": "GRANULE, DELAYED RELEASE",
-      "generic": "pantoprazole sodium",
-      "name": "Protonix"
-    },
-    {
-      "form": "TABLET, DELAYED RELEASE",
-      "generic": "pantoprazole sodium",
-      "name": "Protonix"
-    }
-  ],
+  "products": [],
   "setid": "08098cb2-c048-4640-f387-6beec4a38936",
   "source": "dailymed"
 }

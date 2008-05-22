@@ -45,7 +45,7 @@ Concomitant administration of antacids does not affect the absorption of PROTONI
 - Stir for 5 seconds and swallow immediately.
 - To ensure complete delivery of the dose, rinse the container once or twice with apple juice to remove any remaining granules and swallow immediately.
 
-### PROTONIX For Delayed-Release Oral Suspension - Nasogastric Tube Administration:
+### PROTONIX For Delayed-Release Oral Suspension - Nasogastric Tube Administration
 
 For patients who have a nasogastric tube in place, PROTONIX For Delayed-Release Oral Suspension can be administered as follows:
 

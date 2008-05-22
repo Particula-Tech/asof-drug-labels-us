@@ -20,8 +20,7 @@ Patients should be cautioned that PROTONIX® Delayed-Release Tablets SHOULD NOT 
 PROTONIX Delayed-Release Tablets should be swallowed whole, with or without food in the stomach.
 Concomitant administration of antacids does not affect the absorption of PROTONIX® Delayed-Release Tablets.
 
-- Patients should be cautioned that PROTONIX® For Delayed-Release Oral Suspension SHOULD NOT BE CRUSHED OR CHEWED.
-  PROTONIX For Delayed-Release Oral Suspension should be taken approximately 30 minutes before a meal.
+- Patients should be cautioned that PROTONIX® For Delayed-Release Oral Suspension SHOULD NOT BE CRUSHED OR CHEWED.PROTONIX For Delayed-Release Oral Suspension should be taken approximately 30 minutes before a meal.
 
 - PROTONIX For Delayed-Release Oral Suspension should only be administered in apple juice or applesauce, not in water or other liquids, or foods.
 

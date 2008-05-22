@@ -6,9 +6,9 @@ PROTONIX Delayed-Release Tablets are prepared as enteric-coated tablet so that a
 Peak serum concentration (Cmax) and area under the serum concentration time curve (AUC) increase in a manner proportional to oral and intravenous doses from 10 mg to 80 mg.
 Pantoprazole does not accumulate and its pharmacokinetics are unaltered with multiple daily dosing.
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially with a terminal elimination half-life of approximately one hour.
-In extensive metabolizers (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Metabolism) with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL, the time to reach the peak concentration (tmax) is 2.5 h and the total area under the plasma concentration versus time curve (AUC) is 4.8 μg•hr/mL.
+In extensive metabolizers (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Metabolism) with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL, the time to reach the peak concentration (tmax) is 2.5 h and the total area under the plasma concentration versus time curve (AUC) is 4.8 μg·hr/mL.
 When pantoprazole is given with food, its tmax is highly variable and may increase significantly.
-Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6-14.0 L/h and its apparent volume of distribution is 11.0-23.6 L.
+Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6-14.0 L/h and its apparent volume of distribution is 11.0‑23.6 L.
 
 PROTONIX® (pantoprazole sodium) For Delayed-Release Oral Suspension has been shown to be comparable to PROTONIX® (pantoprazole sodium) Delayed-Release Tablets in suppressing pentagastrin-stimulated maximum acid output (MAO) in patients with gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE) (see Clinical Pharmacology, Pharmacodynamics).
 
@@ -16,10 +16,9 @@ PROTONIX For Delayed-Release Oral Suspension is bioequivalent when administered 
 The plasma pharmacokinetic parameters from a crossover study in healthy subjects are summarized in the table below.
 In this study, a single oral 40 mg dose of Protonix For Delayed-Release Oral Suspension was administered to healthy subjects (N = 22) as granules sprinkled over a teaspoonful of applesauce, as granules mixed with apple juice and, mixed with apple juice followed by administration through a nasogastric tube.
 
-Pharmacokinetics parameters (mean ± SD) of Pantoprazole with Administration of Protonix For Delayed-Release Oral Suspension Sprinkled on Applesauce, Mixed with Apple Juice, Mixed with Apple Juice and Administered through a Nasogastric Tube
-
-| Pharmacokinetic Parameters | Granules in applesauce | Granules in apple juice | Granules in nasogastric tube |
+| Pharmacokinetics parameters (mean ± SD) of Pantoprazole with Administration of Protonix For Delayed-Release Oral Suspension Sprinkled on Applesauce, Mixed with Apple Juice, Mixed with Apple Juice and Administered through a Nasogastric Tube |  |  |  |
 | --- | --- | --- | --- |
+| Pharmacokinetic Parameters | Granules in applesauce | Granules in apple juice | Granules in nasogastric tube |
 | AUC (µg.hr/mL) | 4.01 ± 1.53 | 3.99 ± 1.49 | 4.06 ± 1.73 |
 | Cmax (µg/mL) | 1.97 ± 0.69 | 1.91 ± 0.45 | 2.2 ± 0.70 |
 | aTmax (hr) | 2.0 | 2.5 | 2.0 |
@@ -127,7 +126,7 @@ Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
 | Time | Placebo | 20 mg | 40 mg | 80 mg |
 | --- | --- | --- | --- | --- |
-|  | –––––––––—––––––––Median pH on day 7—––––––––––––––––––– |  |  |  |
+|  | –––––––––––—––––––––Median pH on day 7—––––––––––––––––––– |  |  |  |
 | 8 a.m. - 8 a.m. (24 hours) | 1.3 | 2.9* | 3.8*# | 3.9*# |
 | 8 a.m. - 10 p.m. (Daytime) | 1.6 | 3.2* | 4.4*# | 4.8*# |
 | 10 p.m. - 8 a.m. (Nighttime) | 1.2 | 2.1* | 3.0* | 2.6* |
@@ -174,11 +173,10 @@ The percentages of patients healed (per protocol, n = 541) in this study were as
 
 Erosive Esophagitis Healing Rates (per protocol)
 
-| Week | 10 mg QD (n = 153) | 20 mg QD (n = 158) | 40 mg QD (n = 162) | n = 68 |
+| Week | 10 mg QD (n = 153) | 20 mg QD (n = 158) | 40 mg QD (n = 162) | (n = 68) |
 | --- | --- | --- | --- | --- |
-| –––––––––––––––PROTONIX––––––––––––––– |  |  |  | Placebo |
-| 4 | 45.6%+ | 58.4%+# | 75.0%+* | 14.3% |
-| 8 | 66.0%+ | 83.5%+# | 92.6%+* | 39.7% |
+|  | –––––––––––––––PROTONIX––––––––––––––– |  |  | Placebo |
+| 4 8 | 45.6%+ 66.0%+ | 58.4%+# 83.5 %+# | 75.0%+* 92.6%+* | 14.3% 39.7% |
 | + (p < 0.001) PROTONIX versus placebo. * (p < 0.05) versus 10 mg, or 20 mg PROTONIX # (p < 0.05) versus 10 mg PROTONIX |  |  |  |  |
 
 In this study, all PROTONIX treatment groups had significantly greater healing rates than the placebo group.
@@ -195,9 +193,8 @@ Erosive Esophagitis Healing Rates (per protocol)
 
 | Week | 20 mg QD (n = 72) | 40 mg QD (n = 70) | 150 mg BID (n = 70) |
 | --- | --- | --- | --- |
-| ––––––––––––PROTONIX–––––––––––– |  |  | Nizatidine |
-| 4 | 61.4%+ | 64.0%+ | 22.2% |
-| 8 | 79.2%+ | 82.9%+ | 41.4% |
+|  | ––––––––––––PROTONIX–––––––––––– |  | Nizatidine |
+| 4 8 | 61.4%+ 79.2%+ | 64.0%+ 82.9%+ | 22.2% 41.4% |
 | + (p < 0.001) PROTONIX versus nizatidine. |  |  |  |
 
 Once daily treatment with PROTONIX 40 mg or 20 mg resulted in significantly superior rates of healing at both 4 and 8 weeks compared with twice daily treatment with 150 mg of nizatidine.

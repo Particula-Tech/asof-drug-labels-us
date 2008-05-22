@@ -10,12 +10,13 @@ The following adverse events considered by investigators to be possibly, probabl
 
 Most Frequent Adverse Events Reported as Drug Related in Short-term Domestic Trials
 
-| PROTONIX (n = 521) | Placebo (n = 82) | PROTONIX (n = 161) | Nizatidine (n = 82) |  |
+| Study Event | PROTONIX (n = 521) | Placebo (n = 82) | PROTONIX (n = 161) | Nizatidine (n = 82) |
 | --- | --- | --- | --- | --- |
-| Study Event | ––––––––––––––––––––––––% Incidence–––––––––––––––––––––––– |  |  |  |
-| Study 300-US |  | Study 301-US |  |  |
+|  | ––––––––––––––––––––––––% Incidence–––––––––––––––––––––––– |  |  |  |
+|  | Study 300-US |  | Study 301-US |  |
 | Headache Diarrhea Flatulence Abdominal pain Rash Eructation Insomnia Hyperglycemia | 6 4 2 1 <1 1 <1 1 | 6 1 2 2 0 1 2 0 | 9 6 4 4 2 0 1 <1 | 13 6 0 4 0 0 1 0 |
-| Note: Only adverse events with an incidence greater than or equal to the comparators are shown. |  |  |  |  |
+
+Note: Only adverse events with an incidence greater than or equal to the comparators are shown.
 
 In international short-term, double-blind or open-label clinical trials involving 20 mg to 80 mg per day, the following adverse events were reported to occur in 1% or more of 2805 GERD patients receiving pantoprazole for up to 8 weeks.
 
@@ -67,7 +68,7 @@ SPECIAL SENSES: abnormal vision, amblyopia, cataract specified, deafness, diplop
 
 UROGENITAL SYSTEM: albuminuria, balanitis, breast pain, cystitis, dysmenorrhea, dysuria, epididymitis, hematuria, impotence, kidney calculus, kidney pain, nocturia, prostatic disorder, pyelonephritis, scrotal edema, urethral pain, urethritis, urinary tract disorder, urination impaired, vaginitis.
 
-In an open-label U.S. clinical trial conducted in 35 patients with pathological hypersecretory conditions treated with PROTONIX for up to 27 months, the adverse events reported were consistent with the safety profile of the drug in other populations.
+In an open-label US clinical trial conducted in 35 patients with pathological hypersecretory conditions treated with PROTONIX for up to 27 months, the adverse events reported were consistent with the safety profile of the drug in other populations.
 
 ## Postmarketing Reports
 
