@@ -26,6 +26,6 @@ U.S. Patent Nos.: 5,145,684; 5,719,147; 6,048,859; 6,096,742; 6,235,735
 
 MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued February 2008
+Issued April 2008
 
-9852008
+9852009

@@ -106,6 +106,11 @@ In patients taking a single 40 mg dose of EMEND to prevent nausea and vomiting c
 - low blood pressure
 - headache
 
+The following side effects have been reported in general use with EMEND:
+
+- Allergic reactions, which may be serious, and may include hives, rash and itching and cause difficulty in breathing or swallowing.
+  If you have an allergic reaction, stop taking EMEND and call your doctor right away.
+
 These are not all of the possible side effects of EMEND.
 For further information ask your doctor or pharmacist.
 Talk to your doctor about any side effect that bothers you.
@@ -133,8 +138,8 @@ The 40-mg capsule shell also contains yellow ferric oxide.
 
 U.S. Patent Nos.: 5,145,684; 5,719,147; 6,048,859; 6,096,742; 6,235,735
 
-Issued February 2008
+Issued April 2008
 
 MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
 
-9738806
+9738807

@@ -202,3 +202,12 @@ The adverse experience of ALT increased occurred with similar incidence in patie
 ## Other Studies
 
 Angioedema and urticaria were reported as serious adverse experiences in a patient receiving aprepitant in a non-CINV/non-PONV study.
+
+## Post-Marketing Experience:
+
+The following adverse reactions have been identified during post-marketing use of aprepitant.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to the drug.
+
+Skin and subcutaneous tissue disorders: pruritus, rash, urticaria
+
+Immune system disorders: hypersensitivity reactions including anaphylactic reactions
