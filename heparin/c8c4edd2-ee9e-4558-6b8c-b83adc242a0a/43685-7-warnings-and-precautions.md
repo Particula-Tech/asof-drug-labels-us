@@ -2,6 +2,13 @@
 
 Heparin is not intended for intramuscular use.
 
+Fatal Medication Errors
+
+Do not use Heparin Sodium Injection as a “catheter lock flush” product.
+Heparin Sodium Injection is supplied in vials and sterile cartridges that contain a highly concentrated solution of 10,000 units in 1 mL.
+Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL “catheter lock flush” vials.
+Carefully examine all Heparin Sodium Injection vials and cartridges to confirm the correct product choice prior to administration of the drug.
+
 Hypersensitivity
 
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
@@ -21,9 +28,6 @@ Surgical — During and immediately following (a) spinal tap or spinal anesthesi
 
 Hematologic — Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
 
-The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
-Thus in order to avoid bleeding, reduced dosage of heparin is recommended during treatment with antithrombin III (human).
-
 Gastrointestinal — Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
 
 Other — Menstruation, liver disease with impaired hemostasis.
@@ -36,33 +40,50 @@ If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sod
 Thrombocytopenia
 
 Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of 0 to 30%.
+Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see PRECAUTIONS; White − Clot Syndrome), the heparin product should be discontinued.
-If continued heparin therapy is essential, administration of heparin from a different organ source can be reinstituted with caution.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin–induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued, and if necessary, an alternative anticoagulant administered.
 
-Miscellaneous
+Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
 
-Heparin Sodium Injection 2,500 units/mL and 5,000 units/mL contain benzyl alcohol as a preservative.
-Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in neonates and premature infants.
+Heparin-induced thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
+HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT).
+Thrombotic events may also be the initial presentation for HITT.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal artery thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+Thrombocytopenia of any degree should be monitored closely.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered, if patients require continued anticoagulation.
+
+Delayed Onset of HIT and HITT
+
+Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after discontinuation of heparin therapy.
+Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
+
+Use in Neonates
+
+Heparin Sodium Injection 5,000 units/mL contains benzyl alcohol as a preservative and is not recommended for use in neonates.
+There have been reports of fatal `gasping syndrome' in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
+Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
+
+Carefully examine all Heparin Sodium Injection vials and cartridges to confirm choice of the correct strength prior to administration of the drug.
+Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with “catheter lock flush” vials.
+(See WARNINGS, Fatal Medication Errors.)
 
 # PRECAUTIONS
 
 ## General
 
-White − Clot Syndrome
+Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
 
-It has been reported that patients on heparin may develop new thrombus formation in association with thrombocytopenia, resulting from irreversible aggregation of platelets induced by heparin, the so-called “white − clot syndrome”.
-The process may lead to severe thromboembolic complications like skin necrosis, gangrene of the extremities that may lead to amputation, myocardial infarction, pulmonary embolism, stroke, and possibly death.
-Therefore, heparin administration should be promptly discontinued if a patient develops new thrombosis in association with thrombocytopenia with a reduction in platelet count.
+See WARNINGS
 
 Heparin Resistance
 
-Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer, and in postsurgical patients, and patients with antithrombin III deficiency.
+Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer, and in postsurgical patients.
 
-Increased Risk in Older Women
+Increased Risk to Older Patients, Especially Women
 
-A higher incidence of bleeding has been reported in women over 60 years of age.
+A higher incidence of bleeding has been reported in patients, particularly women over 60 years of age.
 
 ## Laboratory Tests
 
@@ -81,19 +102,12 @@ Platelet Inhibitors:
 
 Drugs such as acetylsalicylic acid, dextran, phenylbutazone, ibuprofen, indomethacin, dipyridamole, hydroxychloroquine, and others that interfere with platelet-aggregation reactions (the main hemostatic defense of heparinized patients) may induce bleeding and should be used with caution in patients receiving heparin sodium.
 
-The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
-Thus in order to avoid bleeding, reduced dosage of heparin is recommended during treatment with antithrombin III (human).
-
-Drugs Decreasing Heparin Effect
+Other Interactions
 
 Digitalis, tetracyclines, nicotine, or antihistamines may partially counteract the anticoagulant action of heparin sodium.
 
-Heparin Sodium Injection should not be mixed with doxorubicin, droperidol, ciprofloxacin, or mitoxantrone, since it has been reported that these drugs are incompatible with heparin and a precipitate may form.
-
 Intravenous nitroglycerin administered to heparinized patients may result in a decrease of the partial thromboplastin time with subsequent rebound effect upon discontinuation of nitroglycerin.
 Careful monitoring of partial thromboplastin time and adjustment of heparin dosage are recommended during coadministration of heparin and intravenous nitroglycerin.
-
-When clinical circumstances require reversal of heparinization, consult the labeling of Protamine Sulfate Injection, USP.
 
 ## Drug/Laboratory Test Interactions
 
@@ -125,4 +139,9 @@ Heparin is not excreted in human milk.
 
 ## Pediatric Use
 
-See DOSAGE AND ADMINISTRATION.
+See DOSAGE AND ADMINISTRATION, Pediatric Use.
+
+## Geriatric Use
+
+A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (see PRECAUTIONS, General).
+Clinical studies indicate that lower doses of heparin may be indicated in these patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
