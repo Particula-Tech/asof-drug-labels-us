@@ -1,11 +1,5 @@
 # CLINICAL PHARMACOLOGY
 
-## Mode of Action
-
-Fluconazole is a highly selective inhibitor of fungal cytochrome P-450 sterol C-14 alpha-demethylation.
-Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
-The subsequent loss of normal sterols correlates with the accumulation of 14 alpha-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
-
 ## Pharmacokinetics and Metabolism
 
 The pharmacokinetic properties of fluconazole are similar following administration by the intravenous or oral routes.
@@ -61,8 +55,8 @@ In children, the following pharmacokinetic data {Mean(%cv)} have been reported:
 
 | Age Studied | Dose (mg/kg) | Clearance (mL/min/kg) | Half-life (Hours) | Cmax (µg/mL) | Vdss (L/kg) |
 | --- | --- | --- | --- | --- | --- |
-| 9 Months–13 years | Single-Oral 2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | — |
-| 9 Months–13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | — |
+| 9 Months– 13 years | Single-Oral 2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | — |
+| 9 Months– 13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | — |
 | 5–15 years | Multiple IV 2 mg/kg | 0.49 (40%) N=4 | 17.4 | 5.5 (25%) N=5 | 0.722 (36%) N=4 |
 | 5–15 years | Multiple IV 4 mg/kg | 0.59 (64%) N=5 | 15.2 | 11.4 (44%) N=6 | 0.729 (33%) N=5 |
 | 5–15 years | Multiple IV 8 mg/kg | 0.66 (31%) N=7 | 17.6 | 14.1 (22%) N=8 | 1.069 (37%) N=7 |
@@ -92,7 +86,7 @@ These results are consistent with the hypothesis that higher values for the phar
 
 Oral contraceptives were administered as a single dose both before and after the oral administration of DIFLUCAN 50 mg once daily for 10 days in 10 healthy women.
 There was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of DIFLUCAN.
-The mean increase in ethinyl estradiol AUC was 6% (range: −47 to 108%) and levonorgestrel AUC increased 17% (range: −33 to 141%).
+The mean increase in ethinyl estradiol AUC was 6% (range: –47 to 108%) and levonorgestrel AUC increased 17% (range: –33 to 141%).
 
 In a second study, twenty-five normal females received daily doses of both 200 mg DIFLUCAN tablets or placebo for two, ten-day periods.
 The treatment cycles were one month apart with all subjects receiving DIFLUCAN during one cycle and placebo during the other.
@@ -105,13 +99,13 @@ A third study evaluated the potential interaction of once weekly dosing of fluco
 In this placebo-controlled, double-blind, randomized, two-way crossover study carried out over three cycles of oral contraceptive treatment, fluconazole dosing resulted in small increases in the mean AUCs of ethinyl estradiol and norethindrone compared to similar placebo dosing.
 The mean AUCs of ethinyl estradiol and norethindrone increased by 24% (95% C.I. range 18–31%) and 13% (95% C.I. range 8–18%), respectively relative to placebo.
 Fluconazole treatment did not cause a decrease in the ethinyl estradiol AUC of any individual subject in this study compared to placebo dosing.
-The individual AUC individual values of norethindrone decreased very slightly (<5%) in 3 of the 21 subjects after fluconazole treatment.
+The individual AUC values of norethindrone decreased very slightly (<5%) in 3 of the 21 subjects after fluconazole treatment.
 
 ### Cimetidine
 
 DIFLUCAN 100 mg was administered as a single oral dose alone and two hours after a single dose of cimetidine 400 mg to six healthy male volunteers.
 After the administration of cimetidine, there was a significant decrease in fluconazole AUC and Cmax.
-There was a mean ± SD decrease in fluconazole AUC of 13%± 11% (range: −3.4 to −31%) and Cmax decreased 19%± 14% (range: −5 to −40%).
+There was a mean ± SD decrease in fluconazole AUC of 13% ± 11% (range: –3.4 to –31%) and Cmax decreased 19% ± 14% (range: –5 to –40%).
 However, the administration of cimetidine 600 mg to 900 mg intravenously over a four-hour period (from one hour before to 3 hours after a single oral dose of DIFLUCAN 200 mg) did not affect the bioavailability or pharmacokinetics of fluconazole in 24 healthy male volunteers.
 
 ### Antacid
@@ -121,21 +115,21 @@ Administration of Maalox® (20 mL) to 14 normal male volunteers immediately prio
 ### Hydrochlorothiazide
 
 Concomitant oral administration of 100 mg DIFLUCAN and 50 mg hydrochlorothiazide for 10 days in 13 normal volunteers resulted in a significant increase in fluconazole AUC and Cmax compared to DIFLUCAN given alone.
-There was a mean ± SD increase in fluconazole AUC and Cmax of 45%± 31% (range: 19 to 114%) and 43%± 31% (range: 19 to 122%), respectively.
-These changes are attributed to a mean ± SD reduction in renal clearance of 30%± 12% (range: −10 to −50%).
+There was a mean ± SD increase in fluconazole AUC and Cmax of 45% ± 31% (range: 19 to 114%) and 43% ± 31% (range: 19 to 122%), respectively.
+These changes are attributed to a mean ± SD reduction in renal clearance of 30% ± 12% (range: –10 to –50%).
 
 ### Rifampin
 
 Administration of a single oral 200 mg dose of DIFLUCAN after 15 days of rifampin administered as 600 mg daily in eight healthy male volunteers resulted in a significant decrease in fluconazole AUC and a significant increase in apparent oral clearance of fluconazole.
-There was a mean ± SD reduction in fluconazole AUC of 23%± 9% (range: −13 to −42%).
-Apparent oral clearance of fluconazole increased 32%± 17% (range: 16 to 72%).
+There was a mean ± SD reduction in fluconazole AUC of 23% ± 9% (range: –13 to –42%).
+Apparent oral clearance of fluconazole increased 32% ± 17% (range: 16 to 72%).
 Fluconazole half-life decreased from 33.4 ± 4.4 hours to 26.8 ± 3.9 hours.
 (See PRECAUTIONS.)
 
 ### Warfarin
 
 There was a significant increase in prothrombin time response (area under the prothrombin time-time curve) following a single dose of warfarin (15 mg) administered to 13 normal male volunteers following oral DIFLUCAN 200 mg administered daily for 14 days as compared to the administration of warfarin alone.
-There was a mean ± SD increase in the prothrombin time response (area under the prothrombin time-time curve) of 7%± 4% (range: −2 to 13%).
+There was a mean ± SD increase in the prothrombin time response (area under the prothrombin time-time curve) of 7% ± 4% (range: –2 to 13%).
 (See PRECAUTIONS.)
 Mean is based on data from 12 subjects as one of 13 subjects experienced a 2-fold increase in his prothrombin time response.
 
@@ -143,7 +137,7 @@ Mean is based on data from 12 subjects as one of 13 subjects experienced a 2-fol
 
 Phenytoin AUC was determined after 4 days of phenytoin dosing (200 mg daily, orally for 3 days followed by 250 mg intravenously for one dose) both with and without the administration of fluconazole (oral DIFLUCAN 200 mg daily for 16 days) in 10 normal male volunteers.
 There was a significant increase in phenytoin AUC.
-The mean ± SD increase in phenytoin AUC was 88%± 68% (range: 16 to 247%).
+The mean ± SD increase in phenytoin AUC was 88% ± 68% (range: 16 to 247%).
 The absolute magnitude of this interaction is unknown because of the intrinsically nonlinear disposition of phenytoin.
 (See PRECAUTIONS.)
 
@@ -151,26 +145,26 @@ The absolute magnitude of this interaction is unknown because of the intrinsical
 
 Cyclosporine AUC and Cmax were determined before and after the administration of fluconazole 200 mg daily for 14 days in eight renal transplant patients who had been on cyclosporine therapy for at least 6 months and on a stable cyclosporine dose for at least 6 weeks.
 There was a significant increase in cyclosporine AUC, Cmax, Cmin (24-hour concentration), and a significant reduction in apparent oral clearance following the administration of fluconazole.
-The mean ± SD increase in AUC was 92%± 43% (range: 18 to 147%).
-The Cmax increased 60%± 48% (range: −5 to 133%).
-The Cmin increased 157%± 96% (range: 33 to 360%).
-The apparent oral clearance decreased 45%± 15% (range: −15 to −60%).
+The mean ± SD increase in AUC was 92% ± 43% (range: 18 to 147%).
+The Cmax increased 60% ± 48% (range: –5 to 133%).
+The Cmin increased 157% ± 96% (range: 33 to 360%).
+The apparent oral clearance decreased 45% ± 15% (range: –15 to –60%).
 (See PRECAUTIONS.)
 
 ### Zidovudine
 
 Plasma zidovudine concentrations were determined on two occasions (before and following fluconazole 200 mg daily for 15 days) in 13 volunteers with AIDS or ARC who were on a stable zidovudine dose for at least two weeks.
 There was a significant increase in zidovudine AUC following the administration of fluconazole.
-The mean ± SD increase in AUC was 20%± 32% (range: −27 to 104%).
+The mean ± SD increase in AUC was 20% ± 32% (range: –27 to 104%).
 The metabolite, GZDV, to parent drug ratio significantly decreased after the administration of fluconazole, from 7.6 ± 3.6 to 5.7 ± 2.2.
 
 ### Theophylline
 
 The pharmacokinetics of theophylline were determined from a single intravenous dose of aminophylline (6 mg/kg) before and after the oral administration of fluconazole 200 mg daily for 14 days in 16 normal male volunteers.
 There were significant increases in theophylline AUC, Cmax, and half-life with a corresponding decrease in clearance.
-The mean ± SD theophylline AUC increased 21%± 16% (range: −5 to 48%).
-The Cmax increased 13%± 17% (range: −13 to 40%).
-Theophylline clearance decreased 16%± 11% (range: −32 to 5%).
+The mean ± SD theophylline AUC increased 21% ± 16% (range: –5 to 48%).
+The Cmax increased 13% ± 17% (range: –13 to 40%).
+Theophylline clearance decreased 16% ± 11% (range: –32 to 5%).
 The half-life of theophylline increased from 6.6 ± 1.7 hours to 7.9 ± 1.5 hours.
 (See PRECAUTIONS.)
 
@@ -179,7 +173,7 @@ The half-life of theophylline increased from 6.6 ± 1.7 hours to 7.9 ± 1.5 hour
 Six healthy volunteers received terfenadine 60 mg BID for 15 days.
 Fluconazole 200 mg was administered daily from days 9 through 15.
 Fluconazole did not affect terfenadine plasma concentrations.
-Terfenadine acid metabolite AUC increased 36%± 36% (range: 7 to 102%) from day 8 to day 15 with the concomitant administration of fluconazole.
+Terfenadine acid metabolite AUC increased 36% ± 36% (range: 7 to 102%) from day 8 to day 15 with the concomitant administration of fluconazole.
 There was no change in cardiac repolarization as measured by Holter QTc intervals.
 Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 (See CONTRAINDICATIONS and PRECAUTIONS.)
@@ -194,20 +188,20 @@ In these three studies 22/46 (47.8%) of DIFLUCAN treated patients and 9/22 (40.1
 #### Tolbutamide
 
 In 13 normal male volunteers, there was significant increase in tolbutamide (500 mg single dose) AUC and Cmax following the administration of fluconazole.
-There was a mean ± SD increase in tolbutamide AUC of 26%± 9% (range: 12 to 39%).
-Tolbutamide Cmax increased 11%± 9% (range: −6 to 27%).
+There was a mean ± SD increase in tolbutamide AUC of 26% ± 9% (range: 12 to 39%).
+Tolbutamide Cmax increased 11% ± 9% (range: –6 to 27%).
 (See PRECAUTIONS.)
 
 #### Glipizide
 
 The AUC and Cmax of glipizide (2.5 mg single dose) were significantly increased following the administration of fluconazole in 13 normal male volunteers.
-There was a mean ± SD increase in AUC of 49%± 13% (range: 27 to 73%) and an increase in Cmax of 19%± 23% (range: −11 to 79%).
+There was a mean ± SD increase in AUC of 49% ± 13% (range: 27 to 73%) and an increase in Cmax of 19% ± 23% (range: –11 to 79%).
 (See PRECAUTIONS.)
 
 #### Glyburide
 
 The AUC and Cmax of glyburide (5 mg single dose) were significantly increased following the administration of fluconazole in 20 normal male volunteers.
-There was a mean ± SD increase in AUC of 44%± 29% (range: −13 to 115%) and Cmax increased 19%± 19% (range: −23 to 62%).
+There was a mean ± SD increase in AUC of 44% ± 29% (range: –13 to 115%) and Cmax increased 19% ± 19% (range: –23 to 62%).
 Five subjects required oral glucose following the ingestion of glyburide after 7 days of fluconazole administration.
 (See PRECAUTIONS.)
 
@@ -257,7 +251,86 @@ There was no significant pharmacokinetic interaction between fluconazole and azi
 
 ## Microbiology
 
-Fluconazole exhibits in vitro activity against Cryptococcus neoformans and Candida spp.
+### Mechanism of Action
+
+Fluconazole is a highly selective inhibitor of fungal cytochrome P-450 dependent enzyme lanosterol 14-α-demethylase.
+This enzyme functions to convert lanosterol to ergosterol.
+The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
+Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
+
+### Activity In Vitro and In Clinical Infections
+
+Fluconazole has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections.
+
+Candida albicans Candida glabrata (Many strains are intermediately susceptible) In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16µg/ml).
+Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
+For an isolate where the MIC is categorized as intermediate (16 to 32 µg/ml, see Table 1), the highest dose is recommended (see Dosage and Administration).
+For resistant isolates alternative therapy is recommended.
+Candida parapsilosis Candida tropicalis Cryptococcus neoformans
+
+The following in vitro data are available, but their clinical significance is unknown.
+
+Fluconazole exhibits in vitro minimum inhibitory concentrations (MIC values) of 8 µg/mL or less against most (≥90%) strains of the following microorganisms, however, the safety and effectiveness of fluconazole in treating clinical infections due to these microorganisms have not been established in adequate and well controlled trials.
+
+Candida dubliniensis Candida guilliermondii Candida kefyr Candida lusitaniae
+
+Candida krusei should be considered to be resistant to fluconazole.
+Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
+
+There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to DIFLUCAN (e.g., Candida krusei).
+Such cases may require alternative antifungal therapy.
+
+### Susceptibility Testing Methods
+
+#### Cryptococcus neoformans and filamentous fungi
+
+No interpretive criteria have been established for Cryptococcus neoformans and filamentous fungi.
+
+#### Candida species
+
+##### Broth Dilution Techniques
+
+Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
+MICs should be determined using a standardized procedure.
+Standardized procedures are based on a dilution method (broth)1 with standardized inoculum concentrations of fluconazole powder.
+The MIC values should be interpreted according to the criteria provided in Table 1.
+
+##### Diffusion Techniques
+
+Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
+One such standardized procedure2 requires the use of standardized inoculum concentrations.
+This procedure uses paper disks impregnated with 25 µg of fluconazole to test the susceptibility of yeasts to fluconazole.
+Disk diffusion interpretive criteria are also provided in Table 1.
+
+Table 1: Susceptibility Interpretive Criteria for Fluconazole
+
+| Antifungal agent | Susceptible (S) | Intermediate (I)The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for fluconazole. | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Broth Dilution at 48 hours (MIC in µg/mL) |  |  | Disk Diffusion at 24 hours (Zone Diameters in mm) |  |  |
+| FluconazoleIsolates of C. krusei are assumed to be intrinsically resistant to fluconazole and their MICs and/or zone diameters should not be interpreted using this scale. | ≤ 8.0 | 16–32 | ≥64 | ≥19 | 15–18 | ≤14 |
+
+The susceptible category implies that isolates are inhibited by the usually achievable concentrations of antifungal agent tested when the recommended dosage is used.
+The intermediate category implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+The resistant category implies that isolates are not inhibited by the usually achievable concentrations of the agent with normal dosage schedules and clinical efficacy of the agent against the isolate has not been reliably shown in treatment studies.
+
+### Quality Control
+
+Standardized susceptibility test procedures require the use of quality control organisms to control the technical aspects of the test procedures.
+Standardized fluconazole powder and 25 µg disks should provide the following range of values noted in Table 2.
+NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
+
+Table 2: Acceptable Quality Control Ranges for Fluconazole to be Used in Validation of Susceptibility Test Results
+
+| QC Strain | Macrodilution (MIC in µg/mL) @ 48 hours | Microdilution (MIC in µg/mL) @ 48 hours | Disk Diffusion (Zone Diameter in mm) @ 24 hours |
+| --- | --- | --- | --- |
+| Candida parapsilosis ATCC 22019 | 2.0–8.0 | 1.0–4.0 | 22–33 |
+| Candida krusei ATCC 6258 | 16–64 | 16–128 | ---Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. |
+| Candida albicans ATCC 90028 | --- | --- | 28–39 |
+| Candida tropicalis ATCC 750 | --- | --- | 26–37 |
+
+### Activity In Vivo
+
 Fungistatic activity has also been demonstrated in normal and immunocompromised animal models for systemic and intracranial fungal infections due to Cryptococcus neoformans and for systemic infections due to Candida albicans.
 
 In common with other azole antifungal agents, most fungi show a higher apparent sensitivity to fluconazole in vivo than in vitro.
@@ -268,8 +341,24 @@ The clinical significance of results obtained in these studies is unknown.
 
 Oral fluconazole has been shown to be active in an animal model of vaginal candidiasis.
 
-Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with C. albicans, no interaction in intracranial infection with Cr. neoformans, and antagonism of the two drugs in systemic infection with Asp. fumigatus.
+Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with C. albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A. fumigatus.
 The clinical significance of results obtained in these studies is unknown.
+
+## Drug Resistance
+
+Fluconazole resistance may arise from a modification in the quality or quantity of the target enzyme (lanosterol 14-α-demethylase), reduced access to the drug target, or some combination of these mechanisms.
+
+Point mutations in the gene (ERG11) encoding for the target enzyme lead to an altered target with decreased affinity for azoles.
+Overexpression of ERG11 results in the production of high concentrations of the target enzyme, creating the need for higher intracellular drug concentrations to inhibit all of the enzyme molecules in the cell.
+
+The second major mechanism of drug resistance involves active efflux of fluconazole out of the cell through the activation of two types of multidrug efflux transporters; the major facilitators (encoded by MDR genes) and those of the ATP-binding cassette superfamily (encoded by CDR genes).
+Upregulation of the MDR gene leads to fluconazole resistance, whereas, upregulation of CDR genes may lead to resistance to multiple azoles.
+
+Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
+For an isolate where the MIC is categorized as Intermediate (16 to 32 µg/mL), the highest fluconazole dose is recommended.
+
+Candida krusei should be considered to be resistant to fluconazole.
+Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
 
 There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to DIFLUCAN (e.g., Candida krusei).
 Such cases may require alternative antifungal therapy.

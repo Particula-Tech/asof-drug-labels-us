@@ -34,7 +34,7 @@ The overall rate of serum transaminase elevations of more than 8 times the upper
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
 The incidence of abnormally elevated serum transaminases was greater in patients taking DIFLUCAN concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
-## Post-Marketing Experience
+#### Post-Marketing Experience
 
 In addition, the following adverse events have occurred during postmarketing experience.
 
@@ -45,7 +45,7 @@ Cardiovascular: QT prolongation, torsade de pointes.
 
 Central Nervous System: Seizures, dizziness.
 
-Dermatologic: Exfoliative skin disorders including Stevens Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
+Dermatologic: Exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
 
 Hematopoietic and Lymphatic: Leukopenia, including neutropenia and agranulocytosis, thrombocytopenia.
 
@@ -65,9 +65,8 @@ The majority of treatment-related laboratory abnormalities were elevations of tr
 
 Percentage of Patients With Treatment-Related Side Effects
 
-|  | (N=577) | (N=451) |
+|  | Fluconazole (N=577) | Comparative Agents (N=451) |
 | --- | --- | --- |
-|  | Fluconazole | Comparative Agents |
 | With any side effect | 13.0 | 9.3 |
 | Vomiting | 5.4 | 5.1 |
 | Abdominal pain | 2.8 | 1.6 |

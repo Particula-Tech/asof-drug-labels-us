@@ -1,20 +1,14 @@
 # WARNINGS
 
-## (1) Hepatic injury
-
-DIFLUCAN has been associated with rare cases of serious hepatic toxicity, including fatalities primarily in patients with serious underlying medical conditions.
+(1) Hepatic injury: DIFLUCAN has been associated with rare cases of serious hepatic toxicity, including fatalities primarily in patients with serious underlying medical conditions.
 In cases of DIFLUCAN-associated hepatotoxicity, no obvious relationship to total daily dose, duration of therapy, sex or age of the patient has been observed.
 DIFLUCAN hepatotoxicity has usually, but not always, been reversible on discontinuation of therapy.
 Patients who develop abnormal liver function tests during DIFLUCAN therapy should be monitored for the development of more severe hepatic injury.
 DIFLUCAN should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to DIFLUCAN.
 
-## (2) Anaphylaxis
+(2) Anaphylaxis: In rare cases, anaphylaxis has been reported.
 
-In rare cases, anaphylaxis has been reported.
-
-## (3) Dermatologic
-
-Patients have rarely developed exfoliative skin disorders during treatment with DIFLUCAN.
+(3) Dermatologic: Patients have rarely developed exfoliative skin disorders during treatment with DIFLUCAN.
 In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
 Patients who develop rashes during treatment with DIFLUCAN should be monitored closely and the drug discontinued if lesions progress.
 
@@ -111,7 +105,7 @@ Patients receiving rifabutin and fluconazole concomitantly should be carefully m
 
 There have been reports of nephrotoxicity in patients to whom fluconazole and tacrolimus were coadministered.
 Patients receiving tacrolimus and fluconazole concomitantly should be carefully monitored.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+(SeeCLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Short-acting Benzodiazepines
 

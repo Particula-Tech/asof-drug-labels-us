@@ -9,8 +9,7 @@ DIFLUCAN (fluconazole) is indicated for the treatment of:
    Before prescribing DIFLUCAN (fluconazole) for AIDS patients with cryptococcal meningitis, please see CLINICAL STUDIES section.
    Studies comparing DIFLUCAN to amphotericin B in non-HIV infected patients have not been conducted.
 
-## Prophylaxis
-
+Prophylaxis.
 DIFLUCAN is also indicated to decrease the incidence of candidiasis in patients undergoing bone marrow transplantation who receive cytotoxic chemotherapy and/or radiation therapy.
 
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
