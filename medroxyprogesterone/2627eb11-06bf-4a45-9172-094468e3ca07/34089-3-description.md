@@ -4,9 +4,8 @@ Medroxyprogesterone acetate tablets contain medroxyprogesterone acetate, which i
 It is a white to off-white, odorless crystalline powder, stable in air, melting between 200 and 210°C.
 It is freely soluble in chloroform, soluble in acetone and in dioxane, sparingly soluble in alcohol and in methanol, slightly soluble in ether, and insoluble in water.
 
-The chemical name for medroxyprogesterone acetate is Pregn-4-ene-3,20-dione, 17-(acetyloxy)-6-methyl-, (6a)-.
+The chemical name for medroxyprogesterone acetate is pregn-4-ene-3, 20-dione, 17-(acetyloxy)-6-methyl-, (6α)-.
 The structural formula is:
 
-Each tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate.
-Inactive ingredients: calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc.
+Each medroxyprogesterone acetate tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate and the following inactive ingredients: calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, and talc.
 The 2.5 mg tablet contains FD&C Yellow No. 6.

@@ -1,69 +1,60 @@
 # CLINICAL PHARMACOLOGY
 
-Medroxyprogesterone acetate, administered orally or parenterally in the recommended doses to women with adequate endogenous estrogen, transforms proliferative into secretory endometrium.
+Medroxyprogesterone acetate (MPA) administered orally or parenterally in the recommended doses to women with adequate endogenous estrogen, transforms proliferative into secretory endometrium.
 Androgenic and anabolic effects have been noted, but the drug is apparently devoid of significant estrogenic activity.
-While parenterally administered medroxyprogesterone acetate inhibits gonadotropin production, which in turn prevents follicular maturation and ovulation, available data indicate that this does not occur when the usually recommended oral dosage is given as single daily doses.
+While parenterally administered MPA inhibits gonadotropin production, which in turn prevents follicular maturation and ovulation, available data indicate that this does not occur when the usually recommended oral dosage is given as single daily doses.
 
 ## Pharmacokinetics
 
-The pharmacokinetics of medroxyprogesterone acetate were determined in 20 postmenopausal women following a single-dose administration of eight medroxyprogesterone acetate tablets 2.5 mg or a single administration of two medroxyprogesterone acetate tablets 10 mg under fasting conditions.
-In another study, the steady-state pharmacokinetics of medroxyprogesterone acetate were determined under fasting conditions in 30 postmenopausal women following daily administration of one medroxyprogesterone acetate tablet 10 mg for 7 days.
-In both studies, medroxyprogesterone acetate was quantitated in serum using a validated gas chromatography-mass spectrometry (GC-MS) method.
-Estimates of the pharmacokinetic parameters of medroxyprogesterone acetate after single and multiple doses of medroxyprogesterone acetate tablets were highly variable and are summarized in Table 1.
+The pharmacokinetics of MPA were determined in 20 postmenopausal women following a single-dose administration of eight MPA 2.5 mg tablets or a single administration of two MPA 10 mg tablets under fasting conditions.
+In another study, the steady-state pharmacokinetics of MPA were determined under fasting conditions in 30 postmenopausal women following daily administration of one MPA 10 mg tablet for 7 days.
+In both studies, MPA was quantified in serum using a validated gas chromatography-mass spectrometry (GC-MS) method.
+Estimates of the pharmacokinetic parameters of MPA after single and multiple doses of MPA tablets were highly variable and are summarized in Table 1.
 
 Table 1.
-Mean (SD) Pharmacokinetic Parameters for Medroxyprogesterone Acetate Tablets
+Mean (SD) Pharmacokinetic Parameters for Medroxyprogesterone Acetate (MPA)
 
-| Tablet Strength | Cmax (ng/mL) | Tmax (h) | Auc0–∞ (ng∙h/mL) | t1/2 (h) | Vd/f (L) | CL/f (mL/min) |
+| Tablet Strength | C max (ng/mL) | T max (h) | Auc 0–(∞) (ng∙h/mL) | t 1/2 (h) | Vd/f (L) | CL/f (mL/min) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Single Dose |  |  |  |  |  |  |
 | 2 × 10 mg | 1.01 (0.599) | 2.65 (1.41) | 6.95 (3.39) | 12.1 (3.49) | 78024 (47220) | 64110 (42662) |
 | 8 × 2.5 mg | 0.805 (0.413) | 2.22 (1.39) | 5.62 (2.79) | 11.6 (2.81) | 62748 (40146) | 74123 (35126) |
 | Multiple Dose |  |  |  |  |  |  |
-| 10 mgFollowing Day 7 dose | 0.71 (0.35) | 2.83 (1.83) | 6.01 (3.16) | 16.6 (15.0) | 40564 (38256) | 41963 (38402) |
+| 10 mg Following Day 7 dose | 0.71 (0.35) | 2.83 (1.83) | 6.01 (3.16) | 16.6 (15.0) | 40564 (38256) | 41963 (38402) |
 
-### Absorption
+### A. Absorption
 
-No specific investigation on the absolute bioavailability of medroxyprogesterone acetate in humans has been conducted.
-Medroxyprogesterone acetate is rapidly absorbed from the gastrointestinal tract, and maximum medroxyprogesterone acetate concentrations are obtained between 2 to 4 hours after oral administration.
+No specific investigation on the absolute bioavailability of MPA in humans has been conducted.
+MPA is rapidly absorbed from the gastrointestinal tract, and maximum MPA concentrations are obtained between 2 to 4 hours after oral administration.
 
-### Effect of Food
+Administration of MPA with food increases the bioavailability of MPA.
+A 10 mg dose of MPA, taken immediately before or after a meal, increased MPA Cmax (50 to 70%) and AUC (18 to 33%).
+The half-life of MPA was not changed with food.
 
-Administration of medroxyprogesterone acetate with food increases the bioavailability of medroxyprogesterone acetate.
-A 10-mg dose of medroxyprogesterone acetate, taken immediately before or after a meal, increased medroxyprogesterone acetate Cmax (50 to 70%) and AUC (18 to 33%).
-The half-life of medroxyprogesterone acetate was not changed with food.
+### B. Distribution
 
-### Distribution
+MPA is approximately 90% protein bound, primarily to albumin; no MPA binding occurs with sex hormone binding globulin.
 
-Medroxyprogesterone acetate is approximately 90% protein bound, primarily to albumin; no medroxyprogesterone acetate binding occurs with sexhormone binding globulin.
-The unbound medroxyprogesterone acetate modulates pharmacologic responses.
+### C. Metabolism
 
-### Metabolism
+Following oral dosing, MPA is extensively metabolized in the liver via hydroxylation, with subsequent conjugation and elimination in the urine.
 
-Following oral dosing, medroxyprogesterone acetate is extensively metabolized in the liver via ring A and/or side-chain hydroxylation, with subsequent conjugation and elimination in the urine.
-At least 16 medroxyprogesterone acetate metabolites have been identified.
+### D. Excretion
 
-### Excretion
+Most MPA metabolites are excreted in the urine as glucuronide conjugates with only minor amounts excreted as sulfates.
 
-Most medroxyprogesterone acetate metabolites are excreted in the urine as glucuronide conjugates with only minor amounts excreted as sulfates.
-Mean percent dose excreted in the 24-hour urine of patients with fatty liver as intact medroxyprogesterone acetate after a 10-mg or 100-mg dose was 7.3% and 6.4%, respectively.
+### E. Special Populations
 
-## Special Populations
+#### Renal Insufficiency
 
-### Renal Insufficiency
+The pharmacokinetics of MPA in patients with varying degrees of renal insufficiency have not been investigated.
 
-The pharmacokinetics of medroxyprogesterone acetate in patients with varying degrees of renal insufficiency have not been investigated.
-The renal clearance of medroxyprogesterone acetate is negligible and a decrease in total body clearance is not expected in patients with renal insufficiency.
+#### Hepatic Insufficiency
 
-### Hepatic Insufficiency
+MPA is almost exclusively eliminated via hepatic metabolism.
+In 14 patients with advanced liver disease, MPA disposition was significantly altered (reduced elimination).
+In patients with fatty liver, the mean percent dose excreted in the 24-hour urine as intact MPA after a 10 mg or 100 mg dose was 7.3% and 6.4%, respectively.
 
-Medroxyprogesterone acetate is almost exclusively eliminated via hepatic metabolism.
-In 14 patients with advanced liver disease, medroxyprogesterone acetate disposition was significantly altered (reduced elimination).
-As such, medroxyprogesterone acetate is contraindicated in patients with severe hepatic disease (see CONTRAINDICATIONS).
-However, for patients with mild-moderate degree of hepatic impairment, a lower dose of medroxyprogesterone acetate or a less frequent administration should be considered.
+### F. Drug Interactions
 
-## Drug-Drug Interactions
-
-No formal pharmacokinetic drug-drug interaction studies have been conducted with medroxyprogesterone acetate.
-However, published literature indicates that coadministration of conjugated estrogens with medroxyprogesterone acetate does not affect the pharmacokinetic profile of medroxyprogesterone acetate; similarly, medroxyprogesterone acetate does not affect the pharmacokinetic profile of the conjugated or unconjugated estrogens.
-Literature data also indicate that concomitant administration with aminoglutethimide would significantly reduce serum concentrations of medroxyprogesterone acetate, likely by increasing the clearance of the drug.
+No formal pharmacokinetic drug interaction studies have been conducted with MPA.

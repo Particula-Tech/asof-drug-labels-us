@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0145-2.0 Revised May 2006
+LAB-0145-3.0 September 2007
