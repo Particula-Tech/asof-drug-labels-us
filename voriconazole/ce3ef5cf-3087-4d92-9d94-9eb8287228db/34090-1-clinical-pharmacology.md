@@ -218,6 +218,11 @@ Coadministration of voriconazole with ergot alkaloids is contraindicated (see CO
 Coadministration of voriconazole with the following agents results in increased exposure or is expected to result in increased exposure to these drugs.
 Therefore, careful monitoring and/or dosage adjustment of these drugs is needed:
 
+Alfentanil (CYP3A4 substrate): Coadministration of multiple doses of oral voriconazole (400 mg q12h on day 1, 200 mg q12h on day 2) with a single 20 mcg/kg intravenous dose of alfentanil with concomitant naloxone resulted in a 6-fold increase in mean alfentanil AUC0–∞ and a 4-fold prolongation of mean alfentanil elimination half-life, compared to when alfentanil was given alone.
+An increase in the incidence of delayed and persistent alfentanil-associated nausea and vomiting during co-administration of voriconazole and alfentanil was also observed.
+Reduction in the dose of alfentanil or other opiates that are also metabolized by CYP3A4 (e.g., sufentanil), and extended close monitoring of patients for respiratory and other opiate-associated adverse events, may be necessary when any of these opiates is coadministered with voriconazole.
+(see PRECAUTIONS – Drug Interactions).
+
 Cyclosporine (CYP3A4 substrate): In stable renal transplant recipients receiving chronic cyclosporine therapy, concomitant administration of oral voriconazole (200 mg Q12h for 8 days) increased cyclosporine Cmax and AUCτ an average of 1.1 times (90% CI: 0.9, 1.41) and 1.7 times (90% CI: 1.5, 2.0), respectively, as compared to when cyclosporine was administered without voriconazole.
 When initiating therapy with voriconazole in patients already receiving cyclosporine, it is recommended that the cyclosporine dose be reduced to one-half of the original dose and followed with frequent monitoring of the cyclosporine blood levels.
 Increased cyclosporine levels have been associated with nephrotoxicity.
@@ -228,10 +233,6 @@ The Cmax and AUC of (S)-methadone increased by 65% (90% CI: 53%, 79%) and 103% (
 Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
 Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
 Dose reduction of methadone may be needed (see PRECAUTIONS - Drug Interactions).
-
-Short Acting Opiates (CYP3A4 substrate): In an independent publication, steady-state administration of oral voriconazole significantly increased the AUC∞ of a single dose of alfentanil by 6-fold.
-Reduction in the dose of alfentanil and other short acting opiates metabolized by CYP3A4 (e.g., sufentanil) should be considered when co-administered with voriconazole (see PRECAUTIONS – Drug Interactions).
-As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, a longer respiratory monitoring period may be necessary.
 
 Tacrolimus (CYP3A4 substrate): Repeat oral dose administration of voriconazole (400 mg Q12h × 1 day, then 200 mg Q12h × 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively.
 When initiating therapy with voriconazole in patients already receiving tacrolimus, it is recommended that the tacrolimus dose be reduced to one-third of the original dose and followed with frequent monitoring of the tacrolimus blood levels.
