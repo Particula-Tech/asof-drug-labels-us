@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7. DRUG INTERACTIONS
 
 The risks of using SEROQUEL XR in combination with other drugs have not been extensively evaluated in systematic studies.
 Given the primary CNS effects of SEROQUEL XR, caution should be used when it is taken in combination with other centrally acting drugs.
@@ -12,7 +12,7 @@ SEROQUEL XR may antagonize the effects of levodopa and dopamine agonists.
 
 Phenytoin
 
-Coadministration of quetiapine (250 mg three times/day) and phenytoin (100 mg three times /day) increased the mean oral clearance of quetiapine by 5-fold.
+Coadministration of quetiapine (250 mg three times/day) and phenytoin (100 mg three times/day) increased the mean oral clearance of quetiapine by 5-fold.
 Increased doses of SEROQUEL XR may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other hepatic enzyme inducers (eg, carbamazepine, barbiturates, rifampin, glucocorticoids).
 Caution should be taken if phenytoin is withdrawn and replaced with a non-inducer (eg, valproate) [see Dosage and Administration (2)].
 
