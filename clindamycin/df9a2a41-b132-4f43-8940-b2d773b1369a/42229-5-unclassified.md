@@ -4,4 +4,6 @@ Rx only
 
 Manufactured by Patheon YM, Inc. Toronto, Ontario M3B 1Y5 Canada
 
-LAB-0040-4.0
+LAB-0040-5.0
+
+June 2007
