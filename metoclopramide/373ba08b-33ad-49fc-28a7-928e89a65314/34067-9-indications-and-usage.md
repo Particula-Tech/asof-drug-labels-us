@@ -13,4 +13,4 @@ Small Bowel Intubation.
 Metoclopramide Injection, USP may be used to facilitate small bowel intubation in adults and pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers.
 
 Radiological Examination.
-Metoclopramide Injection, USP may be used to stimulate gastric emptying and intestinal transit of barium in cases where delayed emptying interferes with radiological examination of the stomach and/or small intestine.
+Metoclopramide Injection, USP may be used to stimulate gastric emptying and intestinaltransit of barium in cases where delayed emptying interferes with radiological examination of the stomach and/or small intestine.

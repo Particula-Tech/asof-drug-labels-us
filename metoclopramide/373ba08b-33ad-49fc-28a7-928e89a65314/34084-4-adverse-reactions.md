@@ -4,7 +4,7 @@ In general, the incidence of adverse reactions correlates with the dose and dura
 The following reactions have been reported, although in most instances, data do not permit an estimate of frequency.
 
 CNS Effects.
-Restlessness, drowsiness, fatigue and lassitude may occur in patients receiving the recommended prescribed dose of metoclopramide.
+Restlessness, drowsiness, fatigue and lassitude may occur in patients receiving the recommended prescribed dose of metoclopramide injection.
 Insomnia, headache, confusion, dizziness and mental depression with suicidal ideation also may occur (see WARNINGS).
 In cancer chemotherapy patients being treated with 1-2 mg/kg per dose, incidence of drowsiness is about 70%.
 There are isolated reports of convulsive seizures without a clear-cut relationship to metoclopramide.
@@ -31,7 +31,7 @@ Galactorrhea, amenorrhea, gynecomastia, impotence secondary to hyperprolactinemi
 Fluid retention secondary to transient elevation of aldosterone (see CLINICAL PHARMACOLOGY).
 
 Cardiovascular.
-Hypotension, hypertension, supraventricular tachycardia, bradycardia, fluid retention, acute congestive heart failure, and possible atrioventricular (AV) block (see CONTRAINDICATIONSand PRECAUTIONS).
+Hypotension, hypertension, supraventricular tachycardia, bradycardia, fluid retention, acute congestive heart failure, and possible atrioventricular (AV) block (see CONTRAINDICATIONS and PRECAUTIONS).
 
 Gastrointestinal.
 Nausea and bowel disturbances, primarily diarrhea.
