@@ -1,0 +1,14 @@
+# OVERDOSAGE
+
+Overdosage of Xylocaine (lidocaine HCl Injection, USP) usually results in signs of central nervous system or cardiovascular toxicity.
+See ADVERSE REACTIONS.
+
+Should convulsions or signs of respiratory depression and arrest develop, the patency of the airway and adequacy of ventilation must be assured immediately.
+Should convulsions persist despite ventilatory therapy with oxygen, small increments of anticonvulsive agents may be given intravenously.
+Examples of such agents include a benzodiazepine (eg, diazepam), an ultrashort-acting barbiturate (eg, thiopental or thiamylal), or a short-acting barbiturate (eg, pentobarbital or secobarbital).
+If the patient is under general anesthesia, a short-acting muscle relaxant (eg, succinylcholine) may be administered.
+
+Should circulatory depression occur, vasopressors may be used.
+Should cardiac arrest occur, standard CPR procedures should be instituted.
+
+Dialysis is of negligible value in the treatment of acute overdosage from Xylocaine.
