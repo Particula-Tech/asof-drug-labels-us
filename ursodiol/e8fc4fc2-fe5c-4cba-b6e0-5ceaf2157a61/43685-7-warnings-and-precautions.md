@@ -4,9 +4,9 @@ Patients with variceal bleeding, hepatic encephalopathy, ascites or in need of a
 
 ## Drug Interactions
 
-Bile acid sequestering agents such as cholestyramine and colestipol may interfere with the action of URSO 250® and URSO Forte™ by reducing its absorption.
-Aluminum-based antacids have been shown to adsorb bile acids in vitro and may be expected to interfere with URSO 250® and URSO Forte™ in the same manner as the bile acid sequestering agents.
-Estrogens, oral contraceptives, and clofibrate (and perhaps other lipid-lowering drugs) increase hepatic cholesterol secretion, and encourage cholesterol gallstone formation and hence may counteract the effectiveness of URSO 250® and URSO Forte™.
+Bile acid sequestering agents such as cholestyramine and colestipol may interfere with the action of URSO 250® and URSO Forte® by reducing its absorption.
+Aluminum-based antacids have been shown to adsorb bile acids in vitro and may be expected to interfere with URSO 250® and URSO Forte® in the same manner as the bile acid sequestering agents.
+Estrogens, oral contraceptives, and clofibrate (and perhaps other lipid-lowering drugs) increase hepatic cholesterol secretion, and encourage cholesterol gallstone formation and hence may counteract the effectiveness of URSO 250® and URSO Forte®.
 
 ## Carcinogenicity, Mutagenicity and Impairment of Fertility
 
@@ -23,7 +23,7 @@ In a 78-week rat study, intrarectal instillation of lithocholic acid (1 mg/kg/da
 A tumor-promoting effect was observed when it was administered after a single intrarectal dose of a known carcinogen N-methyl-N'-nitro-N-nitrosoguanidine.
 On the other hand, in a 32-week rat study, ursodiol at a daily dose of 240 mg/kg (1,440 mg/m2, 2.6 times the maximum recommended human dose based on body surface area) suppressed the colonic carcinogenic effect of another known carcinogen azoxymethane.
 
-Ursodiol was not genotoxic in the Ames test, the mouse lymphoma cell (L5178Y, TK±) forward mutation test, the human lymphocyte sister chromatid exchange test, the mouse spermatogonia chromosome aberration test, the Chinese hamster micronucleus test and the Chinese hamster bone marrow cell chromosome aberration test.
+Ursodiol was not genotoxic in the Ames test, the mouse lymphoma cell (L5178Y, TK+/-) forward mutation test, the human lymphocyte sister chromatid exchange test, the mouse spermatogonia chromosome aberration test, the Chinese hamster micronucleus test and the Chinese hamster bone marrow cell chromosome aberration test.
 
 Ursodiol at oral doses of up to 2,700 mg/kg/day (16,200 mg/m2/day, 29 times the recommended maximum human dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats.
 
@@ -37,8 +37,8 @@ Because animal reproduction studies are not always predictive of human response,
 ## Nursing Mothers
 
 It is not known whether ursodiol is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when URSO 250® and URSO Forte™ are administered to a nursing mother.
+Because many drugs are excreted in human milk, caution should be exercised when URSO 250® and URSO Forte® are administered to a nursing mother.
 
 ## Pediatric Use
 
-The safety and effectiveness of URSO 250® and URSO Forte™ in pediatric patients have not been established.
+The safety and effectiveness of URSO 250® and URSO Forte® in pediatric patients have not been established.
