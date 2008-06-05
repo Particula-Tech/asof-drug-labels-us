@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Avoid using the intravenous route.
 Use of this product intravenously will result in almost all of the vitamin being lost in the urine.

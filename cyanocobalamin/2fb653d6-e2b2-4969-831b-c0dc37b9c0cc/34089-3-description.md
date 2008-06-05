@@ -1,11 +1,11 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Cyanocobalamin Injection, USP is a sterile solution of cyanocobalamin for intramuscular or subcutaneous injection.
 Each mL contains 1000 mcg cyanocobalamin.
 
 Each vial also contains Sodium Chloride, 0.9%.
 Benzyl Alcohol, 1.5%, is present as a preservative.
-Sodium hydroxide and/or hydrochloric acid may have been added during manufacture to adjust the pH (range 4.5-7.0).
+Hydrochloric acid and/or sodium hydroxide may have been added during manufacture to adjust the pH (range 4.5-7.0).
 
 Cyanocobalamin appears as dark red crystals or as an amorphous or crystalline red powder.
 It is very hygroscopic in the anhydrous form, and sparingly soluble in water (1:80).

@@ -1,6 +1,6 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
-Generalized: Anaphylactic shock and death have been reported with administration of parenteral vitamin B12 (See WARNINGS).
+Generalized: Anaphylactic shock and death have been reported with administration of parenteral vitamin B12 (see WARNINGS).
 
 Cardiovascular: Pulmonary edema and congestive heart failure early in treatment; peripheral vascular thrombosis.
 

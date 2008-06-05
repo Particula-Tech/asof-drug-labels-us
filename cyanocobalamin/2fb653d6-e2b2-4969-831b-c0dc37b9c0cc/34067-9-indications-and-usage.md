@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Cyanocobalamin is indicated for vitamin B12 deficiencies due to malabsorption which may be associated with the following conditions:
 

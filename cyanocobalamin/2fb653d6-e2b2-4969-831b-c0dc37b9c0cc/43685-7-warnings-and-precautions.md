@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 Patients with early Leber's disease (hereditary optic nerve atrophy) who were treated with cyanocobalamin suffered severe and swift optic atrophy.
 
@@ -12,12 +12,13 @@ Benzyl Alcohol has been reported to be associated with a fatal "Gasping Syndrome
 
 This product contains aluminum that may be toxic.
 Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired.
+
 Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum.
 
 Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity.
 Tissue loading may occur at even lower rates of administration.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 General Precautions: Vitamin B12 deficiency that is allowed to progress for longer than 3 months may produce permanent degenerative lesions of the spinal cord.
 Doses of folic acid greater than 0.1 mg per day may result in hematologic remission in patients with vitamin B12 deficiency.
