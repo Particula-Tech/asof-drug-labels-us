@@ -1,0 +1,43 @@
+# 7 DRUG INTERACTIONS
+
+This section describes clinically relevant drug interactions with VIREAD.
+Drug interactions studies are described elsewhere in the labeling [See Clinical Pharmacology (12.3)].
+
+## 7.1 Didanosine
+
+Coadministration of VIREAD and didanosine should be undertaken with caution and patients receiving this combination should be monitored closely for didanosine-associated adverse reactions.
+Didanosine should be discontinued in patients who develop didanosine-associated adverse reactions.
+
+When administered with VIREAD, Cmax and AUC of didanosine (administered as either the buffered or enteric-coated formulation increased significantly) [See Clinical Pharmacology (12.3)].
+The mechanism of this interaction is unknown.
+Higher didanosine concentrations could potentiate didanosine-associated adverse reactions, including pancreatitis and neuropathy.
+Suppression of CD4+ cell counts has been observed in patients receiving tenofovir disoproxil fumarate (tenofovir DF) with didanosine 400 mg daily.
+
+In adults weighing >60 kg, the didanosine dose should be reduced to 250 mg when it is coadministered with VIREAD.
+Data are not available to recommend a dose adjustment of didanosine for patients weighing <60 kg.
+When coadministered, VIREAD and didanosine EC may be taken under fasted conditions or with a light meal (<400 kcal, 20% fat).
+Coadministration of didanosine buffered tablet formulation with VIREAD should be under fasted conditions.
+
+## 7.2 Atazanavir
+
+Atazanavir has been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
+The mechanism of this interaction is unknown.
+Patients receiving atazanavir and VIREAD should be monitored for VIREAD-associated adverse reactions.
+VIREAD should be discontinued in patients who develop VIREAD-associated adverse reactions.
+
+VIREAD decreases the AUC and Cmin of atazanavir [See Clinical Pharmacology (12.3)].
+When coadministered with VIREAD, it is recommended that atazanavir 300 mg is given with ritonavir 100 mg.
+Atazanavir without ritonavir should not be coadministered with VIREAD.
+
+## 7.3 Lopinavir/Ritonavir
+
+Lopinavir/ritonavir has been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
+The mechanism of this interaction is unknown.
+Patients receiving lopinavir/ritonavir and VIREAD should be monitored for VIREAD-associated adverse reactions.
+VIREAD should be discontinued in patients who develop VIREAD-associated adverse reactions.
+
+## 7.4 Drugs Affecting Renal Function
+
+Since tenofovir is primarily eliminated by the kidneys [See Clinical Pharmacology (12.3)], coadministration of VIREAD with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of tenofovir and/or increase the concentrations of other renally eliminated drugs.
+Some examples include, but are not limited to adefovir dipivoxil, cidofovir, acyclovir, valacyclovir, ganciclovir, and valganciclovir.
+Drugs that decrease renal function may also increase serum concentrations of tenofovir.

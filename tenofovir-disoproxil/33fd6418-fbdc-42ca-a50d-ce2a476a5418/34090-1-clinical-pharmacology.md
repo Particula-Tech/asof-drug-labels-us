@@ -1,33 +1,30 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics
+## 12.1 Mechanism of Action
+
+Tenofovir disoproxil fumarate is an antiviral drug [See Clinical Pharmacology (12.4)].
+
+## 12.3 Pharmacokinetics
 
 The pharmacokinetics of tenofovir disoproxil fumarate have been evaluated in healthy volunteers and HIV-1 infected individuals.
 Tenofovir pharmacokinetics are similar between these populations.
 
-### Absorption
+Absorption
 
 VIREAD is a water soluble diester prodrug of the active ingredient tenofovir.
 The oral bioavailability of tenofovir from VIREAD in fasted patients is approximately 25%.
-Following oral administration of a single dose of VIREAD 300 mg to HIV-1 infected patients in the fasted state, maximum serum concentrations (Cmax) are achieved in 1.0 ± 0.4 hrs. Cmax and AUC values are 296 ± 90 ng/mL and 2287 ± 685 ng∙hr/mL, respectively.
+Following oral administration of a single dose of VIREAD 300 mg to HIV-1 infected patients in the fasted state, maximum serum concentrations (Cmax) are achieved in 1.0 ± 0.4 hrs. Cmax and AUC values are 0.30 ± 0.09 µg/mL and 2.29 ± 0.69 µg∙hr/mL, respectively.
 
 The pharmacokinetics of tenofovir are dose proportional over a VIREAD dose range of 75 to 600 mg and are not affected by repeated dosing.
 
-### Effects of Food on Oral Absorption
-
-Administration of VIREAD following a high-fat meal (~700 to 1000 kcal containing 40 to 50% fat) increases the oral bioavailability, with an increase in tenofovir AUC0–∞ of approximately 40% and an increase in Cmax of approximately 14%.
-However, administration of VIREAD with a light meal did not have a significant effect on the pharmacokinetics of tenofovir when compared to fasted administration of the drug.
-Food delays the time to tenofovir Cmax by approximately 1 hour.
-Cmax and AUC of tenofovir are 326 ± 119 ng/mL and 3324 ± 1370 ng∙hr/mL following multiple doses of VIREAD 300 mg once daily in the fed state, when meal content was not controlled.
-
-### Distribution
+Distribution
 
 In vitro binding of tenofovir to human plasma or serum proteins is less than 0.7 and 7.2%, respectively, over the tenofovir concentration range 0.01 to 25 µg/mL.
 The volume of distribution at steady-state is 1.3 ± 0.6 L/kg and 1.2 ± 0.4 L/kg, following intravenous administration of tenofovir 1.0 mg/kg and 3.0 mg/kg.
 
-### Metabolism and Elimination
+Metabolism and Elimination
 
-In vitro studies indicate that neither tenofovir disoproxil nor tenofovir are substrates of CYP450 enzymes.
+In vitro studies indicate that neither tenofovir disoproxil nor tenofovir are substrates of CYP enzymes.
 
 Following IV administration of tenofovir, approximately 70–80% of the dose is recovered in the urine as unchanged tenofovir within 72 hours of dosing.
 Following single dose, oral administration of VIREAD, the terminal elimination half-life of tenofovir is approximately 17 hours.
@@ -36,60 +33,58 @@ After multiple oral doses of VIREAD 300 mg once daily (under fed conditions), 32
 Tenofovir is eliminated by a combination of glomerular filtration and active tubular secretion.
 There may be competition for elimination with other compounds that are also renally eliminated.
 
-## Special Populations
+Effects of Food on Oral Absorption
 
-There were insufficient numbers from racial and ethnic groups other than Caucasian to adequately determine potential pharmacokinetic differences among these populations.
+Administration of VIREAD following a high-fat meal (~700 to 1000 kcal containing 40 to 50% fat) increases the oral bioavailability, with an increase in tenofovir AUC0–∞ of approximately 40% and an increase in Cmax of approximately 14%.
+However, administration of VIREAD with a light meal did not have a significant effect on the pharmacokinetics of tenofovir when compared to fasted administration of the drug.
+Food delays the time to tenofovir Cmax by approximately 1 hour.
+Cmax and AUC of tenofovir are 0.33 ± 0.12 µg/mL and 3.32 ± 1.37 µg∙hr/mL following multiple doses of VIREAD 300 mg once daily in the fed state, when meal content was not controlled.
 
-Tenofovir pharmacokinetics are similar in male and female patients.
+Special Populations
 
-Pharmacokinetic studies have not been performed in children (<18 years) or in the elderly (>65 years).
+Race: There were insufficient numbers from racial and ethnic groups other than Caucasian to adequately determine potential pharmacokinetic differences among these populations.
 
-The pharmacokinetics of tenofovir following a 300 mg single dose of VIREAD have been studied in non-HIV infected patients with moderate to severe hepatic impairment.
-There were no substantial alterations in tenofovir pharmacokinetics in patients with hepatic impairment compared with unimpaired patients.
-No change in VIREAD dosing is required in patients with hepatic impairment.
+Gender: Tenofovir pharmacokinetics are similar in male and female patients.
 
-The pharmacokinetics of tenofovir are altered in patients with renal impairment (see WARNINGS, Renal Impairment).
-In patients with creatinine clearance <50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 2).
-It is recommended that the dosing interval for VIREAD be modified in patients with creatinine clearance <50 mL/min or in patients with ESRD who require dialysis (see DOSAGE AND ADMINISTRATION).
+Pediatric and Geriatric Patients: Pharmacokinetic studies have not been performed in children (<18 years) or in the elderly (>65 years).
 
-Table 2 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Patients with Varying Degrees of Renal Function
+Patients with Impaired Renal Function: The pharmacokinetics of tenofovir are altered in patients with renal impairment [See Warnings and Precautions (5.3)].
+In patients with creatinine clearance <50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 8).
+It is recommended that the dosing interval for VIREAD be modified in patients with creatinine clearance <50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.1)].
+
+Table 8 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Patients with Varying Degrees of Renal Function
 
 | Baseline Creatinine Clearance (mL/min) | >80 (N=3) | 50–80 (N=10) | 30–49 (N=8) | 12–29 (N=11) |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 335.4 ± 31.8 | 330.4 ± 61.0 | 372.1 ± 156.1 | 601.6 ± 185.3 |
-| AUC 0–∞ (ng∙hr/mL) | 2184.5 ± 257.4 | 3063.8 ± 927.0 | 6008.5 ± 2504.7 | 15984.7 ± 7223.0 |
+| Cmax (µg/mL) | 0.34 ± 0.03 | 0.33 ± 0.06 | 0.37 ± 0.16 | 0.60 ± 0.19 |
+| AUC0–∞ (µg∙hr/mL) | 2.18 ± 0.26 | 3.06 ± 0.93 | 6.01 ± 2.50 | 15.98 ± 7.22 |
 | CL/F (mL/min) | 1043.7 ± 115.4 | 807.7 ± 279.2 | 444.4 ± 209.8 | 177.0 ± 97.1 |
 | CLrenal (mL/min) | 243.5 ± 33.3 | 168.6 ± 27.5 | 100.6 ± 27.5 | 43.0 ± 31.2 |
 
 Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
 Following a single 300 mg dose of VIREAD, a four-hour hemodialysis session removed approximately 10% of the administered tenofovir dose.
 
-## Drug Interactions
+Patients with Hepatic Impairment: The pharmacokinetics of tenofovir following a 300 mg single dose of VIREAD have been studied in non-HIV infected patients with moderate to severe hepatic impairment.
+There were no substantial alterations in tenofovir pharmacokinetics in patients with hepatic impairment compared with unimpaired patients.
+No change in VIREAD dosing is required in patients with hepatic impairment.
 
-At concentrations substantially higher (~300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the following human CYP450 isoforms: CYP3A4, CYP2D6, CYP2C9, or CYP2E1.
+Assessment of Drug Interactions
+
+At concentrations substantially higher (~300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the following human CYP isoforms: CYP3A4, CYP2D6, CYP2C9, or CYP2E1.
 However, a small (6%) but statistically significant reduction in metabolism of CYP1A substrate was observed.
-Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP450 mediated interactions involving tenofovir with other medicinal products is low (see Pharmacokinetics).
-
-Tenofovir is primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion.
-Coadministration of VIREAD with drugs that are eliminated by active tubular secretion may increase serum concentrations of either tenofovir or the coadministered drug, due to competition for this elimination pathway.
-Drugs that decrease renal function may also increase serum concentrations of tenofovir.
+Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP mediated interactions involving tenofovir with other medicinal products is low [See Clinical Pharmacology (12.3)].
 
 VIREAD has been evaluated in healthy volunteers in combination with abacavir, adefovir dipivoxil, atazanavir, didanosine, efavirenz, emtricitabine, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, and saquinavir/ritonavir.
-Tables 3 and 4 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
+Tables 9 and 10 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
 
-Table 5 summarizes the drug interaction between VIREAD and didanosine.
-When administered with multiple doses of VIREAD, the Cmax and AUC of didanosine 400 mg increased significantly.
-The mechanism of this interaction is unknown.
-When didanosine 250 mg enteric-coated capsules were administered with VIREAD, systemic exposures to didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions.
-
-Table 3 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPatients received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPatients received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NC = Not Calculated (90% CI) |  |  |
 | Abacavir | 300 once | 8 |  |  | NC |
 | Adefovir dipivoxil | 10 once | 22 |  |  | NC |
-| AtazanavirReyataz Prescribing Information | 400 once daily x 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
+| AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Didanosine (enteric-coated) | 400 once | 25 |  |  |  |
 | Didanosine (buffered) | 250 or 400 once daily × 7 days | 14 |  |  |  |
 | Efavirenz | 600 once daily × 14 days | 29 |  |  |  |
@@ -102,38 +97,119 @@ Table 3 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPa
 
 Following multiple dosing to HIV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous studies, indicating lack of clinically significant drug interactions between these agents and VIREAD.
 
-Table 4 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
+Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NA = Not Applicable (90% CI) |  |  |
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) |  | NA |
 | Adefovir dipivoxil | 10 once | 22 |  |  | NA |
-| Atazanavir Reyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
-| Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected patients, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
+| AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
+| Atazanavir | Atazanavir/ Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected patients, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
 | Efavirenz | 600 once daily × 14 days | 30 |  |  |  |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) |  |  |
 | Lamivudine | 150 twice daily × 7 days | 15 | ↓ 24 (↓ 34 to ↓ 12) |  |  |
-| Lopinavir Ritonavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 |  |  |  |
-| MethadoneR-(active), S-and total methadone exposures were equivalent when dosed alone or with VIREAD. | 40–110 once daily × 14 daysIndividual subjects were maintained on their stable methadone dose. No pharmacodynamic alterations (opiate toxicity or withdrawal signs or symptoms) were reported. | 13 |  |  |  |
+| Lopinavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 |  |  |  |
+| Ritonavir |  |  |  |  |  |
+| MethadoneR-(active), S- and total methadone exposures were equivalent when dosed alone or with VIREAD. | 40–110 once daily × 14 daysIndividual subjects were maintained on their stable methadone dose. No pharmacodynamic alterations (opiate toxicity or withdrawal signs or symptoms) were reported. | 13 |  |  |  |
 | Nelfinavir | 1250 twice daily × 14 days | 29 |  |  |  |
 | M8 metabolite |  |  |  |  |  |
-| Oral Contraceptives Ethinyl estradiol and 17-deacetyl norgestimate (pharmacologically active metabolite) exposures were equivalent when dosed alone or with VIREAD. | Ethinyl Estradiol/Norgestimate (Ortho-Tricyclen) once daily × 7 days | 20 |  |  |  |
+| Oral ContraceptivesEthinyl estradiol and 17-deacetyl norgestimate (pharmacologically active metabolite) exposures were equivalent when dosed alone or with VIREAD. | Ethinyl Estradiol/ Norgestimate (Ortho-Tricyclen) once daily × 7 days | 20 |  |  |  |
 | Ribavirin | 600 once | 22 |  |  | NA |
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑ 41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir |  |  | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 
-Table 5 Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
+Table 11 summarizes the drug interaction between VIREAD and didanosine.
+Coadministration of VIREAD and didanosine should be undertaken with caution [See Drug Interactions (7.1)].
+When administered with multiple doses of VIREAD, the Cmax and AUC of didanosine 400 mg increased significantly.
+The mechanism of this interaction is unknown.
+When didanosine 250 mg enteric-coated capsules were administered with VIREAD, systemic exposures to didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions.
+
+Table 11 Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
 
 | Cmax | AUC |  |  |  |
 | --- | --- | --- | --- | --- |
-| DidanosineSee PRECAUTIONS regarding use of didanosine with VIREAD. Dose (mg)/Method of AdministrationAdministration with food was with a light meal (~373 kcal, 20% fat). | VIREAD Method of Administration | N | % Difference (90% CI) vs. Didanosine 400 mg Alone, FastedIncrease = ↑; Decrease = ↓; No Effect = |  |
+| Didanosine Dose (mg)/ Method of Administration | VIREAD Method of AdministrationAdministration with food was with a light meal (~373 kcal, 20% fat). | N | % Difference (90% CI) vs. Didanosine 400 mg Alone, FastedIncrease = ↑; Decrease = ↓; No Effect = |  |
 | Buffered tablets |  |  |  |  |
-| 400 once daily Includes 4 subjects weighing <60 kg receiving ddI 250 mg. × 7 days | Fasted 1 hour after didanosine | 14 | ↑ 28 (↑ 11 to ↑ 48) | ↑ 44 (↑ 31 to ↑ 59) |
+| 400 once dailyIncludes 4 subjects weighing <60 kg receiving ddI 250 mg. × 7 days | Fasted 1 hour after didanosine | 14 | ↑ 28 (↑ 11 to ↑ 48) | ↑ 44 (↑ 31 to ↑ 59) |
 | Enteric coated capsules |  |  |  |  |
 | 400 once, fasted | With food, 2 hours after didanosine | 26 | ↑ 48 (↑ 25 to ↑ 76) | ↑ 48 (↑ 31 to ↑ 67) |
 | 400 once, with food | Simultaneously with didanosine | 26 | ↑ 64 (↑ 41 to ↑ 89) | ↑ 60 (↑ 44 to ↑ 79) |
 | 250 once, fasted | With food, 2 hours after didanosine | 28 | ↓ 10 (↓ 22 to ↑ 3) |  |
 | 250 once, fasted | Simultaneously with didanosine | 28 |  | ↑ 14 (0 to ↑ 31) |
 | 250 once, with food | Simultaneously with didanosine | 28 | ↓ 29 (↓ 39 to ↓ 18) | ↓ 11 (↓ 23 to ↑ 2) |
+
+## 12.4 Microbiology
+
+Mechanism of Action
+
+Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
+Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate.
+Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase by competing with the natural substrate deoxyadenosine 5'-triphosphate and, after incorporation into DNA, by DNA chain termination.
+Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
+
+Antiviral Activity
+
+The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
+The EC50 (50% effective concentration) values for tenofovir were in the range of 0.04 µM to 8.5 µM.
+In drug combination studies of tenofovir with nucleoside reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir), additive to synergistic effects were observed.
+Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5 µM to 2.2 µM) and strain specific activity against HIV-2 (EC50 values ranged from 1.6 µM to 5.5 µM).
+
+Resistance
+
+HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
+These viruses expressed a K65R substitution in reverse transcriptase and showed a 2–4 fold reduction in susceptibility to tenofovir.
+
+In Study 903 of treatment-naïve patients (VIREAD + lamivudine + efavirenz versus stavudine + lamivudine + efavirenz) [See Clinical Studies (14.1)], genotypic analyses of isolates from patients with virologic failure through Week 144 showed development of efavirenz and lamivudine resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
+The K65R substitution occurred in 8/47 (17%) analyzed patient isolates on the VIREAD arm and in 2/49 (4%) analyzed patient isolates on the stavudine arm.
+Of the 8 patients whose virus developed K65R in the VIREAD arm through 144 weeks, 7 of these occurred in the first 48 weeks of treatment and one at Week 96.
+Other substitutions resulting in resistance to VIREAD were not identified in this study.
+
+In Study 934 of treatment-naïve patients (VIREAD + EMTRIVA + efavirenz versus zidovudine (AZT)/lamivudine (3TC) + efavirenz) [See Clinical Studies (14.1)], genotypic analysis performed on HIV-1 isolates from all confirmed virologic failure patients with >400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation showed development of efavirenz resistance-associated substitutions occurred most frequently and was similar between the two treatment arms.
+The M184V substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed patient isolates in the VIREAD + EMTRIVA group and in 10/29 analyzed patient isolates in the zidovudine/lamivudine group.
+Through 144 weeks of Study 934, no patients have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
+
+Cross Resistance
+
+Cross-resistance among certain reverse transcriptase inhibitors has been recognized.
+The K65R substitution selected by tenofovir is also selected in some HIV-1 infected subjects treated with abacavir, didanosine, or zalcitabine.
+HIV-1 isolates with this mutation also show reduced susceptibility to emtricitabine and lamivudine.
+Therefore, cross-resistance among these drugs may occur in patients whose virus harbors the K65R substitution.
+HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated reverse transcriptase substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), showed a 3.1-fold decrease in the susceptibility to tenofovir.
+Multinucleoside resistant HIV-1 with a T69S double insertion substitution in the reverse transcriptase showed reduced susceptibility to tenofovir.
+
+In Studies 902 and 907 conducted in treatment-experienced patients (VIREAD + Standard Background Therapy (SBT) compared to Placebo + SBT) [See Clinical Studies (14.2)], 14/304 (5%) of the VIREAD-treated patients with virologic failure through Week 96 had >1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
+Genotypic analysis of the baseline and failure isolates showed the development of the K65R substitution in the HIV-1 reverse transcriptase gene.
+
+The virologic response to VIREAD therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment-experienced patients participating in Studies 902 and 907.
+
+In these clinical studies, 94% of the participants evaluated had baseline HIV-1 isolates expressing at least one NRTI mutation.
+These included resistance substitutions associated with zidovudine (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), the abacavir/emtricitabine/lamivudine resistance-associated substitution (M184V), and others.
+In addition the majority of participants evaluated had substitutions associated with either PI or NNRTI use.
+Virologic responses for patients in the genotype substudy were similar to the overall study results.
+
+Several exploratory analyses were conducted to evaluate the effect of specific substitutions and substitutional patterns on virologic outcome.
+Because of the large number of potential comparisons, statistical testing was not conducted.
+Varying degrees of cross-resistance of VIREAD to pre-existing zidovudine resistance-associated substitutions were observed and appeared to depend on the number of specific substitutions.
+VIREAD-treated patients whose HIV-1 expressed 3 or more zidovudine resistance-associated substitutions that included either the M41L or L210W reverse transcriptase substitution showed reduced responses to VIREAD therapy; however, these responses were still improved compared with placebo.
+The presence of the D67N, K70R, T215Y/F, or K219Q/E/N substitution did not appear to affect responses to VIREAD therapy.
+
+In the protocol defined analyses, virologic response to VIREAD was not reduced in patients with HIV-1 that expressed the abacavir/emtricitabine/lamivudine resistance-associated M184V substitution.
+In the presence of zidovudine resistance-associated substitutions, the M184V substitution did not affect the mean HIV-1 RNA responses to VIREAD treatment.
+HIV-1 RNA responses among these patients were durable through Week 48.
+
+Studies 902 and 907 Phenotypic Analyses
+
+The virologic response to VIREAD therapy has been evaluated with respect to baseline phenotype (N=100) in treatment-experienced patients participating in two controlled trials.
+Phenotypic analysis of baseline HIV-1 from patients in these studies demonstrated a correlation between baseline susceptibility to VIREAD and response to VIREAD therapy.
+Table 12 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
+
+Table 12 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
+
+| Baseline VIREAD SusceptibilityFold change in susceptibility from wild-type. | Change in HIV-1 RNAAverage HIV-1 RNA change from baseline through Week 24 (DAVG24) in log10 copies/mL. (N) |
+| --- | --- |
+| <1 | -0.74 (35) |
+| >1 and ≤3 | -0.56 (49) |
+| >3 and ≤4 | -0.3 (7) |
+| >4 | -0.12 (9) |

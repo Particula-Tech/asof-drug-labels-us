@@ -1,4 +1,29 @@
-## Patient Information
+# 17 PATIENT COUNSELING INFORMATION
+
+See FDA-approved patient labeling (17.2)
+
+## 17.1 Information for Patients
+
+Patients should be advised that:
+
+- VIREAD is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+  Patients should remain under the care of a physician when using VIREAD.
+- The use of VIREAD has not been shown to reduce the risk of transmission of HIV-1 to others through sexual contact or blood contamination.
+- The long term effects of VIREAD are unknown.
+- VIREAD Tablets are for oral ingestion only.
+- It is important to take VIREAD with combination therapy on a regular dosing schedule to avoid missing doses.
+- Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
+  Treatment with VIREAD should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
+- Patients with HIV-1 should be tested for Hepatitis B virus (HBV) before initiating antiretroviral therapy.
+- Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued VIREAD.
+- Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported.
+  VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
+  Dosing interval of VIREAD may need adjustment in patients with renal impairment [See Dosage and Administration (2.1)].
+- VIREAD should not be coadministered with the fixed-dose combination products TRUVADA and ATRIPLA since it is a component of these products [See Warnings and Precautions (5.4)].
+- Decreases in bone mineral density have been observed with the use of VIREAD.
+  Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.5)].
+
+## 17.2 FDA-Approved Patient Labeling
 
 VIREAD® (VEER ee ad) Tablets
 
@@ -14,14 +39,14 @@ Talk to your healthcare provider if you have any questions about VIREAD.
 What is VIREAD and how does it work?
 
 VIREAD is a type of medicine called an HIV-1 (human immunodeficiency virus) nucleotide analog reverse transcriptase inhibitor (NRTI).
-VIREAD is always used in combination with other anti-HIV medicines to treat people with HIV-1 infection.
+VIREAD is always used in combination with other anti-HIV-1 medicines to treat people with HIV-1 infection.
 VIREAD is for adults age 18 and older.
 
-HIV infection destroys CD4 (T) cells, which are important to the immune system.
+HIV infection destroys CD4+ T cells, which are important to the immune system.
 After a large number of T cells are destroyed, acquired immune deficiency syndrome (AIDS) develops.
 
 VIREAD helps to block HIV-1 reverse transcriptase, a chemical in your body (enzyme) that is needed for HIV-1 to multiply.
-VIREAD lowers the amount of HIV-1 in the blood (called viral load) and may help to increase the number of T cells (called CD4 cells).
+VIREAD lowers the amount of HIV-1 in the blood (called viral load) and may help to increase the number of T cells (called CD4+ cells).
 Lowering the amount of HIV-1 in the blood lowers the chance of death or infections that happen when your immune system is weak (opportunistic infections).
 
 Does VIREAD cure HIV-1 or AIDS?
@@ -44,7 +69,7 @@ Together with your healthcare provider, you need to decide whether VIREAD is rig
 Do not take VIREAD if
 
 - you are allergic to VIREAD or any of its ingredients
-- you are already taking TRUVADA® or ATRIPLA™ because VIREAD is one of the active ingredients in TRUVADA and ATRIPLA
+- you are already taking TRUVADA® or ATRIPLA® because VIREAD is one of the active ingredients in TRUVADA and ATRIPLA
 
 What should I tell my healthcare provider before taking VIREAD?
 
@@ -83,7 +108,7 @@ How should I take VIREAD?
 - Take VIREAD exactly as your healthcare provider prescribed it.
   Follow the directions from your healthcare provider, exactly as written on the label.
   Set up a dosing schedule and follow it carefully.
-- The usual dose of VIREAD is 1 tablet once a day, in combination with other anti-HIV medicines.
+- The usual dose of VIREAD is 1 tablet once a day, in combination with other anti-HIV-1 medicines.
   If you have kidney problems, your healthcare provider may recommend that you take VIREAD less frequently.
 - VIREAD may be taken with or without a meal.
 - When your VIREAD supply starts to run low, get more from your healthcare provider or pharmacy.
@@ -113,8 +138,9 @@ What should I avoid while taking VIREAD?
 
 What are the possible side effects of VIREAD?
 
-- Clinical studies: The most common side effects of VIREAD are: diarrhea, nausea, vomiting, and flatulence (intestinal gas).
-- Marketing experience: Other side effects reported since VIREAD has been marketed include: weakness, inflammation of the pancreas, low blood phosphate, dizziness, shortness of breath, and rash.
+- Clinical studies: The most common side effects of VIREAD are: diarrhea, nausea, vomiting, and dizziness.
+  Less common side effects include flatulence (intestinal gas).
+- Marketing experience: Other side effects reported since VIREAD has been marketed include: allergic reaction, low blood phosphate, shortness of breath, increased liver enzymes, increased amylase, inflammation of the liver, stomach pain, inflammation of the pancreas, rash, muscle problems and weakness.
 - Some patients treated with VIREAD have had kidney problems.
   If you have had kidney problems in the past or need to take another drug that can cause kidney problems, your healthcare provider may need to perform additional blood tests.
 - Laboratory tests show changes in the bones of patients treated with VIREAD.
@@ -123,11 +149,11 @@ What are the possible side effects of VIREAD?
 - Some patients taking antiviral drugs like VIREAD have developed a condition called lactic acidosis (a buildup in the blood of lactic acid, the same substance that causes your muscles to burn during heavy exercise).
   Symptoms of lactic acidosis include nausea, vomiting, unusual or unexpected stomach discomfort, and weakness.
   If you notice these symptoms or if your medical condition changes suddenly, call your healthcare provider right away.
-- Changes in body fat have been seen in some patients taking anti-HIV medicine.
+- Changes in body fat have been seen in some patients taking anti-HIV-1 medicine.
   These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the main part of your body (trunk).
   Loss of fat from the legs, arms and face may also happen.
   The cause and long term health effects of these conditions are not known at this time.
-- If you have hepatitis B virus (HBV) infection, you may have a "flare-up" of hepatitis B, in which the disease suddenly returns in a worse way than before if you stop taking VIREAD.
+- If you have Hepatitis B virus (HBV) infection, you may have a "flare-up" of Hepatitis B, in which the disease suddenly returns in a worse way than before if you stop taking VIREAD.
   VIREAD is not approved for the treatment of Hepatitis B Virus infection.
 - There have been other side effects in patients taking VIREAD.
   However, these side effects may have been due to other medicines that patients were taking or to the illness itself.
@@ -162,4 +188,4 @@ What are the ingredients of VIREAD?
 Active Ingredient: tenofovir disoproxil fumarate
 
 Inactive Ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
-The tablets are coated with Opadry II Y-30-10671-A, which contains FD&C blue #2 aluminum lake, hydroxypropyl methylcellulose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+The tablets are coated with Opadry II Y–30–10671–A, which contains FD&C blue #2 aluminum lake, hydroxypropyl methylcellulose 2910, lactose monohydrate, titanium dioxide, and triacetin.

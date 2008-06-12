@@ -1,20 +1,31 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Clinical Trials
+The following adverse reactions are discussed in other sections of the labeling:
 
-More than 12,000 patients have been treated with VIREAD alone or in combination with other antiretroviral medicinal products for periods of 28 days to 215 weeks in Phase I-III clinical trials and expanded access studies.
-A total of 1,544 patients have received VIREAD 300 mg once daily in Phase I–III clinical trials; over 11,000 patients have received VIREAD in expanded access studies.
+- Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
+- Severe Acute Exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.2)].
+- New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
+- Decreases in Bone Mineral Density [See Warnings and Precautions (5.5)].
+- Immune Reconstitution Syndrome [See Warnings and Precautions (5.7)].
 
-### Treatment-Naïve Patients
+## 6.1 Adverse Reactions from Clinical Trials Experience
 
-#### Study 903 - Treatment-Emergent Adverse Events
+More than 12,000 patients have been treated with VIREAD alone or in combination with other antiretroviral medicinal products for periods of 28 days to 215 weeks in clinical trials and expanded access studies.
+A total of 1,544 patients have received VIREAD 300 mg once daily in clinical trials; over 11,000 patients have received VIREAD in expanded access studies.
 
-The most common adverse reactions seen in a double-blind comparative controlled study in which 600 treatment-naïve patients received VIREAD (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Mild adverse events (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
-Selected treatment-emergent moderate to severe adverse events are summarized in Table 9.
+The most common adverse reactions (incidence ≥10%, Grades 2 – 4) identified from any of the 3 large controlled clinical trials include rash, diarrhea, headache, pain, depression, asthenia, and nausea.
 
-Table 9 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 903 (0–144 Weeks)
+Treatment-Naive Patients
+
+Study 903 - Treatment-Emergent Adverse Reactions: The most common adverse reactions seen in a double-blind comparative controlled study in which 600 treatment-naïve patients received VIREAD (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
+
+Mild adverse reactions (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
+Selected treatment-emergent moderate to severe adverse reactions are summarized in Table 2.
+
+Table 2 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+(Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 903 (0–144 Weeks)
 
 |  | N=299 | N=301 |
 | --- | --- | --- |
@@ -47,12 +58,10 @@ Table 9 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in �
 | Skin and Appendages |  |  |
 | Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
 
-##### Laboratory Abnormalities
+Laboratory Abnormalities: With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the stavudine group (40% and 9%) compared with VIREAD (19% and 1%) respectively, laboratory abnormalities observed in this study occurred with similar frequency in the VIREAD and stavudine treatment arms.
+A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 3.
 
-With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the stavudine group (40% and 9%) compared with VIREAD (19% and 1%) respectively, laboratory abnormalities observed in this study occurred with similar frequency in the VIREAD and stavudine treatment arms.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 10.
-
-Table 10 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Patients in Study 903 (0–144 Weeks)
+Table 3 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Patients in Study 903 (0–144 Weeks)
 
 |  | N=299 | N=301 |
 | --- | --- | --- |
@@ -67,69 +76,64 @@ Table 10 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated 
 | Neutrophils (<750/mm3) | 3% | 1% |
 | Fasting Triglycerides (>750 mg/dL) | 1% | 9% |
 
-#### Study 934 - Treatment Emergent Adverse Events
+Study 934 - Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve patients received either VIREAD + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
+Adverse reactions observed in this study were generally consistent with those seen in previous studies in treatment-experienced or treatment-naïve patients (Table 4).
 
-In Study 934, 511 antiretroviral-naïve patients received either VIREAD + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
-Adverse events observed in this study were generally consistent with those seen in previous studies in treatment-experienced or treatment-naïve patients (Table 11).
-
-Table 11 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in ≥3% in Any Treatment Group in Study 934 (0–48 Weeks)
+Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+(Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | VIREAD + FTC + EFV | AZT/3TC + EFV |
+|  | VIREADFrom Weeks 96 to 144 of the study, patients received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. + FTC + EFV | AZT/3TC + EFV |
 | Gastrointestinal Disorder |  |  |
-| Diarrhea | 7% | 4% |
-| Nausea | 8% | 6% |
-| Vomiting | 1% | 4% |
+| Diarrhea | 9% | 5% |
+| Nausea | 9% | 7% |
+| Vomiting | 2% | 5% |
 | General Disorders and Administration Site Condition |  |  |
-| Fatigue | 7% | 6% |
+| Fatigue | 9% | 8% |
 | Infections and Infestations |  |  |
-| Sinusitis | 4% | 2% |
-| Upper respiratory tract infections | 3% | 3% |
-| Nasopharyngitis | 3% | 1% |
+| Sinusitis | 8% | 4% |
+| Upper respiratory tract infections | 8% | 5% |
+| Nasopharyngitis | 5% | 3% |
 | Nervous System Disorders |  |  |
-| Somnolence | 3% | 2% |
-| Headache | 5% | 4% |
+| Headache | 6% | 5% |
 | Dizziness | 8% | 7% |
 | Psychiatric Disorders |  |  |
-| Depression | 4% | 7% |
-| Insomnia | 4% | 5% |
-| Abnormal dreams | 4% | 3% |
+| Depression | 9% | 7% |
+| Insomnia | 5% | 7% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash | 5% | 4% |
+| Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
 
-##### Laboratory Abnormalities
+Laboratory Abnormalities: Laboratory abnormalities observed in this study were generally consistent with those seen in previous studies (Table 5).
 
-Laboratory abnormalities observed in this study were generally consistent with those seen in previous studies (Table 12).
-
-Table 12 Significant Laboratory Abnormalities Reported in ≥1% of Patients in Any Treatment Group in Study 934 (0–48 Weeks)
+Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Patients in Any Treatment Group in Study 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | VIREAD + FTC + EFV | AZT/3TC + EFV |
-| Any ≥ Grade 3 Laboratory Abnormality | 25% | 22% |
-| Fasting Cholesterol (>240 mg/dL) | 15% | 17% |
-| Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 7% | 6% |
-| Serum Amylase (>175 U/L) | 7% | 3% |
+|  | VIREADFrom Weeks 96 to 144 of the study, patients received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. + FTC + EFV | AZT/3TC + EFV |
+| Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
+| Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
+| Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |
+| Serum Amylase (>175 U/L) | 8% | 4% |
 | Alkaline Phosphatase (>550 U/L) | 1% | 0% |
-| AST (M: >180 U/L) (F: >170 U/L) | 3% | 2% |
-| ALT (M: >215 U/L) (F: >170 U/L) | 2% | 2% |
-| Hemoglobin (<8.0 mg/dL) | 0% | 3% |
-| Hyperglycemia (>250 mg/dL) | 1% | 1% |
-| Hematuria (>75 RBC/HPF) | 2% | 2% |
-| Neutrophils (<750/mm3) | 3% | 4% |
+| AST (M: >180 U/L) (F: >170 U/L) | 3% | 3% |
+| ALT (M: >215 U/L) (F: >170 U/L) | 2% | 3% |
+| Hemoglobin (<8.0 mg/dL) | 0% | 4% |
+| Hyperglycemia (>250 mg/dL) | 2% | 1% |
+| Hematuria (>75 RBC/HPF) | 3% | 2% |
+| Glycosuria (≥3+) | <1% | 1% |
+| Neutrophils (<750/mm3) | 3% | 5% |
 | Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
 
-### Treatment-Experienced Patients
+Treatment-Experienced Patients
 
-#### Treatment-Emergent Adverse Events
+Treatment-Emergent Adverse Reactions: The adverse reactions seen in treatment experienced patients were generally consistent with those seen in treatment naïve patients including mild to moderate gastrointestinal events, such as nausea, diarrhea, vomiting, and flatulence.
+Less than 1% of patients discontinued participation in the clinical studies due to gastrointestinal adverse reactions (Study 907).
 
-The adverse reactions seen in treatment experienced patients were generally consistent with those seen in treatment naïve patients including mild to moderate gastrointestinal events, such as nausea, diarrhea, vomiting, and flatulence.
-Less than 1% of patients discontinued participation in the clinical studies due to gastrointestinal adverse events (Study 907).
+A summary of moderate to severe, treatment-emergent adverse reactions that occurred during the first 48 weeks of Study 907 is provided in Table 6.
 
-A summary of moderate to severe, treatment-emergent adverse events that occurred during the first 48 weeks of Study 907 is provided in Table 13.
-
-Table 13 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in ≥3% in Any Treatment Group in Study 907 (0–48 Weeks)
+Table 6 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+(Grades 2–4) Reported in ≥3% in Any Treatment Group in Study 907 (0–48 Weeks)
 
 |  | VIREAD (N=368) (Week 0–24) | Placebo (N=182) (Week 0–24) | VIREAD (N=368) (Week 0–48) | Placebo Crossover to VIREAD (N=170) (Week 24–48) |
 | --- | --- | --- | --- | --- |
@@ -163,12 +167,10 @@ Table 13 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in �
 | Metabolic |  |  |  |  |
 | Weight loss | 2% | 1% | 4% | 2% |
 
-##### Laboratory Abnormalities
+Laboratory Abnormalities: Laboratory abnormalities observed in this study occurred with similar frequency in the VIREAD and placebo-treated groups.
+A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 7.
 
-Laboratory abnormalities observed in this study occurred with similar frequency in the VIREAD and placebo-treated groups.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 14.
-
-Table 14 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Patients in Study 907 (0–48 Weeks)
+Table 7 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Patients in Study 907 (0–48 Weeks)
 
 |  | (%) | (%) | (%) | (%) |
 | --- | --- | --- | --- | --- |
@@ -183,26 +185,25 @@ Table 14 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated 
 | Serum Glucose (>250 U/L) | 2% | 4% | 3% | 3% |
 | Neutrophils (<750/mm3) | 1% | 1% | 2% | 1% |
 
-## Post Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following events have been identified during post-approval use of VIREAD.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting or potential causal connection to VIREAD.
+The following adverse reactions have been identified during postapproval use of VIREAD.
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-IMMUNE SYSTEM DISORDERS Allergic reaction
+Immune System Disorders allergic reaction
 
-METABOLISM AND NUTRITION DISORDERS Hypophosphatemia, Lactic acidosis
+Metabolism and Nutrition Disorders hypophosphatemia, lactic acidosis
 
-RESPIRATORY, THORACIC, AND MEDIASTINAL DISORDERS Dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders dyspnea
 
-GASTROINTESTINAL DISORDERS Abdominal pain, Increased amylase, Pancreatitis
+Gastrointestinal Disorders abdominal pain, increased amylase, pancreatitis
 
-HEPATOBILIARY DISORDERS Increased liver enzymes, Hepatitis
+Hepatobiliary Disorders increased liver enzymes (most commonly AST, ALT gamma GT), hepatitis
 
-SKIN AND SUBCUTANEOUS TISSUE DISORDERS Rash
+Skin and Subcutaneous Tissue Disorders rash
 
-MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS Myopathy, Osteomalacia (both associated with proximal renal tubulopathy)
+Musculoskeletal and Connective Tissue Disorders myopathy, osteomalacia (both associated with proximal renal tubulopathy)
 
-RENAL AND URINARY DISORDERS Renal insufficiency, Renal failure, Acute renal failure, Fanconi syndrome, Proximal tubulopathy, Proteinuria, Increased creatinine, Acute tubular necrosis, Nephrogenic diabetes insipidus, Polyuria, Interstitial nephritis (including acute cases).
+Renal and Urinary Disorders renal insufficiency, renal failure, acute renal failure, Fanconi syndrome, proximal tubulopathy, proteinuria, increased creatinine, acute tubular necrosis, nephrogenic diabetes insipidus, polyuria, interstitial nephritis (including acute cases).
 
-GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS Asthenia
+General Disorders and Administration Site Conditions asthenia

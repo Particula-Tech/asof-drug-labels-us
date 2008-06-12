@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Limited clinical experience at doses higher than the therapeutic dose of VIREAD 300 mg is available.
 In Study 901, 600 mg tenofovir disoproxil fumarate was administered to 8 patients orally for 28 days.
