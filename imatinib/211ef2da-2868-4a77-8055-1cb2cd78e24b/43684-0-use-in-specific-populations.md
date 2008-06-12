@@ -1,0 +1,83 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Pregnancy Category D [see Warnings and Precautions (5.11)].
+
+Gleevec can cause fetal harm when administered to a pregnant woman.
+Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses ≥100 mg/kg (approximately equal to the maximum human dose of 800 mg/day based on body surface area).
+Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
+Female rats administered doses ≥45 mg/kg (approximately one-half the maximum human dose of 800 mg/day based on body surface area) also experienced significant post-implantation loss as evidenced by either early fetal resorption or stillbirths, nonviable pups and early pup mortality between postpartum Days 0 and 4.
+At doses higher than 100 mg/kg, total fetal loss was noted in all animals.
+Fetal loss was not seen at doses ≤30 mg/kg (one-third the maximum human dose of 800 mg).
+
+There are no adequate and well-controlled studies with Gleevec in pregnant women.
+Women should be advised not to become pregnant when taking Gleevec.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+## 8.3 Nursing Mothers
+
+Imatinib and its active metabolite are excreted into human milk.
+Based on data from three breastfeeding women taking Gleevec, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
+Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10 % of the maternal therapeutic dose based on body weight.
+Because of the potential for serious adverse reactions in nursing infants from Gleevec, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+## 8.4 Pediatric Use
+
+Gleevec safety and efficacy have been demonstrated in children with newly diagnosed Ph+ chronic phase CML and in children with Ph+ chronic phase CML with recurrence after stem cell transplantation or resistance to interferon-alpha therapy.
+There are no data in children under 2 years of age.
+Follow-up in children with newly diagnosed Ph+ chronic phase CML is limited.
+
+As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2-4 hours.
+Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
+Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
+The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
+Mean imatinib AUC did not increase proportionally with increasing dose.
+
+## 8.5 Geriatric Use
+
+In the CML clinical studies, approximately 20% of patients were older than 65 years.
+In the study of patients with newly diagnosed CML, 6% of patients were older than 65 years.
+No difference was observed in the safety profile in patients older than 65 years as compared to younger patients, with the exception of a higher frequency of edema [see Warnings and Precautions (5.1)].
+The efficacy of Gleevec was similar in older and younger patients.
+
+In the unresectable or metastatic GIST study, 16% of patients were older than 65 years.
+No obvious differences in the safety or efficacy profile were noted in patients older than 65 years as compared to younger patients, but the small number of patients does not allow a formal analysis.
+
+In the adjuvant GIST study, 221 patients (31%) were older than 65 years.
+No difference was observed in the safety profile in patients older than 65 years as compared to younger patients, with the exception of a higher frequency of edema.
+The efficacy of Gleevec was similar in patients older than 65 years and younger patients.
+
+## 8.6 Hepatic Impairment
+
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 cancer patients with varying degrees of hepatic impairment (Table 12) at imatinib doses ranging from 100-800 mg.
+Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
+Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
+At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
+The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function [see Dosage and Administration (2.10)].
+
+Table 12 Liver Function Classification
+
+| Liver Function Test | Normal (n=14) | Mild (n=30) | Moderate (n=20) | Severe (n=20) |
+| --- | --- | --- | --- | --- |
+| Total Bilirubin | ≤ULN | >1.0-1.5x ULN | >1.5-3x ULN | >3-10x ULN |
+| SGOT | ≤ULN | >ULN (can be normal if Total Bilirubin is >ULN) | Any | Any |
+| ULN=upper limit of normal for the institution |  |  |  |  |
+
+## 8.7 Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment (Table 13) at single and steady state imatinib doses ranging from 100 to 800 mg/day.
+The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
+The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
+The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
+Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
+Dose reductions are necessary for patients with moderate and severe renal impairment [See Dose Modification Guidelines (2.9)].
+
+Table 13 Renal Function Classification
+
+| Renal Dysfunction | Renal Function Tests |
+| --- | --- |
+| Mild | CrCL = 40-59 mL/min |
+| Moderate | CrCL = 20-39 mL/min |
+| Severe | CrCL = <20 mL/min |
+| CrCL = Creatinine Clearance |  |

@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021588"
+  ],
   "inn": "imatinib",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
-    "0078-0401-05",
+    "0078-0401-34",
     "0078-0438-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "imatinib mesylate",
+      "name": "Gleevec"
+    }
+  ],
   "setid": "211ef2da-2868-4a77-8055-1cb2cd78e24b",
   "source": "dailymed"
 }
