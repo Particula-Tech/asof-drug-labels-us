@@ -1,0 +1,10 @@
+# ADVERSE REACTIONS
+
+Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination.
+Exact incidence figures are not available since no denominator of treated patients is available.
+
+Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations.
+The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing.
+
+Corticosteroid-containing preparations have also been reported to cause perforation of the globe.
+Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids.
