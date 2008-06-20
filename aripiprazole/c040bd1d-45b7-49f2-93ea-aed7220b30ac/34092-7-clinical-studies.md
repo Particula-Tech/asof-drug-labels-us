@@ -14,14 +14,13 @@ The PANSS positive subscale is a subset of items in the PANSS that rates seven p
 The PANSS negative subscale is a subset of items in the PANSS that rates seven negative symptoms of Schizophrenia (blunted affect, emotional withdrawal, poor rapport, passive apathetic withdrawal, difficulty in abstract thinking, lack of spontaneity/flow of conversation, stereotyped thinking).
 The Clinical Global Impression (CGI) assessment reflects the impression of a skilled observer, fully familiar with the manifestations of Schizophrenia, about the overall clinical state of the patient.
 
-- In a 4-week trial (n=414) comparing two fixed doses of ABILIFY (15 mg/day or 30 mg/day) and haloperidol (10 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, and CGI-severity score.
+- In a 4-week trial (n=414) comparing two fixed doses of ABILIFY (15 mg/day or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, and CGI-severity score.
   In addition, the 15 mg dose was superior to placebo in the PANSS negative subscale.
-- In a 4-week trial (n=404) comparing two fixed doses of ABILIFY (20 mg/day or 30 mg/day) and risperidone (6 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, PANSS negative subscale, and CGI-severity score.
+- In a 4-week trial (n=404) comparing two fixed doses of ABILIFY (20 mg/day or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, PANSS negative subscale, and CGI-severity score.
 - In a 6-week trial (n=420) comparing three fixed doses of ABILIFY (10 mg/day, 15 mg/day, or 20 mg/day) to placebo, all three doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, and the PANSS negative subscale.
 - In a 6-week trial (n=367) comparing three fixed doses of ABILIFY (2 mg/day, 5 mg/day, or 10 mg/day) to placebo, the 10 mg dose of ABILIFY was superior to placebo in the PANSS total score, the primary outcome measure of the study.
   The 2 mg and 5 mg doses did not demonstrate superiority to placebo on the primary outcome measure.
-- In a fifth study, a 4-week trial (n=103) comparing ABILIFY in a range of 5 mg/day to 30 mg/day or haloperidol 5 mg/day to 20 mg/day to placebo, haloperidol was superior to placebo, in the Brief Psychiatric Rating Scale (BPRS), a multi-item inventory of general psychopathology traditionally used to evaluate the effects of drug treatment in psychosis, and in a responder analysis based on the CGI-severity score, the primary outcomes for that trial.
-  ABILIFY was only significantly different compared to placebo in a responder analysis based on the CGI-severity score.
+- In a fifth study, a 4-week trial (n=103) comparing ABILIFY in a range of 5 mg/day to 30 mg/day to placebo, ABILIFY was only significantly different compared to placebo in a responder analysis based on the CGI-severity score, a primary outcome for that trial.
 
 Thus, the efficacy of 10 mg, 15 mg, 20 mg, and 30 mg daily doses was established in two studies for each dose.
 Among these doses, there was no evidence that the higher dose groups offered any advantage over the lowest dose group of these studies.
@@ -39,18 +38,23 @@ The efficacy of ABILIFY (aripiprazole) in the treatment of Schizophrenia in pedi
 In this trial (n=302) comparing two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo, ABILIFY was titrated starting from 2 mg/day to the target dose in 5 days in the 10 mg/day treatment arm and in 11 days in the 30 mg/day treatment arm.
 Both doses of ABILIFY were superior to placebo in the PANSS total score, the primary outcome measure of the study.
 The 30 mg/day dosage was not shown to be more efficacious than the 10 mg/day dose.
+Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 ## 14.2 Bipolar Disorder
 
+Monotherapy
+
 Adults
 
-The efficacy of ABILIFY in the treatment of acute manic episodes was established in two 3-week, placebo-controlled trials in hospitalized patients who met the DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes (in one trial, 21% of placebo and 42% of ABILIFY-treated patients had data beyond two weeks).
-These trials included patients with or without psychotic features and with or without a rapid-cycling course.
+The efficacy of ABILIFY in the treatment of acute manic episodes was established in four 3-week, placebo-controlled trials in hospitalized patients who met the DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes.
+These studies included patients with or without psychotic features and two of the studies also included patients with or without a rapid-cycling course.
 
 The primary instrument used for assessing manic symptoms was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
 A key secondary instrument included the Clinical Global Impression - Bipolar (CGI-BP) Scale.
 
-In the two positive, 3-week, placebo-controlled trials (n=268; n=248) which evaluated ABILIFY 30 mg, once daily (with a starting dose of 30 mg/day and an allowed reduction to 15 mg/day), ABILIFY was superior to placebo in the reduction of Y-MRS total score and CGI-BP Severity of Illness score (mania).
+In the four positive, 3-week, placebo-controlled trials (n=268; n=248; n=480; n=485) which evaluated ABILIFY in a range of 15 mg to 30 mg, once daily (with a starting dose of 15 mg/day in two studies and 30 mg/day in two studies), ABILIFY was superior to placebo in the reduction of Y-MRS total score and CGI-BP Severity of Illness score (mania).
+In the two studies with a starting dose of 15 mg/day, 48% and 44% of patients were on 15 mg/day at endpoint.
+In the two studies with a starting dose of 30 mg/day, 86% and 85% of patients were on 30 mg/day at endpoint.
 
 A trial was conducted in patients meeting DSM-IV criteria for Bipolar I Disorder with a recent manic or mixed episode who had been stabilized on open-label ABILIFY and who had maintained a clinical response for at least 6 weeks.
 The first phase of this trial was an open-label stabilization period in which inpatients and outpatients were clinically stabilized and then maintained on open-label ABILIFY (15 mg/day or 30 mg/day, with a starting dose of 30 mg/day) for at least 6 consecutive weeks.
@@ -63,10 +67,23 @@ An examination of population subgroups did not reveal any clear evidence of diff
 
 Pediatric Patients
 
-The efficacy of ABILIFY in the treatment of Bipolar I Disorder in pediatric patients (10 o 17 years of age) was evaluated in one four-week placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for Bipolar I Disorder mania or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
-This double-blind, placebo-controlled trial compared two fixed dises of ABILIFY (10 mg/day or 30 mg/day) to placebo.
-The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days to the 30 mg/day treatment arm.
+The efficacy of ABILIFY in the treatment of Bipolar I Disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for Bipolar I Disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
+This double-blind, placebo-controlled trial compared two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo.
+The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days in the 30 mg/day treatment arm.
 Both doses of ABILIFY were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
+Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+Adjunctive Therapy
+
+The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes was established in a 6-week, placebo-controlled study (n=384) with a 2-week lead-in mood stabilizer monotherapy phase in adult patients who met DSM-IV criteria for Bipolar I Disorder.
+This study included patients with manic or mixed episodes and with or without psychotic features.
+
+Patients were initiated on open-label lithium (0.6 mEq/L to 1.0 mEq/L) or valproate (50 µg/mL to 125 µg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either aripiprazole (15 mg/day or an increase to 30 mg/day as early as day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
+In the 6-week placebo-controlled phase, adjunctive ABILIFY starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.0 mEq/L or 50 µg/mL to 125 µg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score and CGI-BP Severity of Illness score (mania).
+Seventy-one percent of the patients coadministered valproate and 62% of the patients coadministered lithium, were on 15 mg/day at 6-week endpoint.
+
+Although the efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated, such efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 ## 14.3 Adjunctive Treatment of Major Depressive Disorder
 

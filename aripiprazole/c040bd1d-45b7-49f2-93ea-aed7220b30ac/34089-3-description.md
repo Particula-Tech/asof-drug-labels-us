@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Aripiprazole is a psychotropic drug that is available as ABILIFY® (aripiprazole) tablets, ABILIFY® DISCMELT™ (aripiprazole) orally disintegrating tablets, ABILIFY® (aripiprazole) oral solution, and ABILIFY® (aripiprazole) injection, a solution for intramuscular injection.
+Aripiprazole is a psychotropic drug that is available as ABILIFY® (aripiprazole) Tablets, ABILIFY DISCMELT® (aripiprazole) Orally Disintegrating Tablets, ABILIFY® (aripiprazole) Oral Solution, and ABILIFY® (aripiprazole) Injection, a solution for intramuscular injection.
 Aripiprazole is 7-[4-[4-(2,3-dichlorophenyl)-1-piperazinyl]butoxy]-3,4-dihydrocarbostyril.
 The empirical formula is C23H27Cl2N3O2 and its molecular weight is 448.38.
 The chemical structure is:

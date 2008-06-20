@@ -15,7 +15,7 @@ Aripiprazole is not approved for the treatment of patients with dementia-related
 
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease
 
-In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56-99 years), the treatment-emergent adverse events that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation (placebo 0%, aripiprazole 4%), and lightheadedness (placebo 1%, aripiprazole 4%).
+In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56-99 years), the treatment-emergent adverse events that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
 
 The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with ABILIFY, vigilance should be exercised, particularly for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
@@ -128,9 +128,9 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 ## 5.6 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=1894) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1.2%, 0.3%), postural dizziness (0.6%, 0.4%), and syncope (0.6%, 0.5%); of pediatric patients 10 to 17 years of age (n=399) on oral ABILIFY included orthostatic hypotension (1.0%, 0%), postural dizziness (0.5%, 0%), and syncope (0.3%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 10 to 17 years of age (n=399) on oral ABILIFY included orthostatic hypotension (1%, 0%), postural dizziness (0.5%, 0%), and syncope (0.3%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
 
-The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (5%, 3%), in pediatric oral aripiprazole-treated patients aged 10 to 17 years (0%, 0.5%), or in aripiprazole injection-treated patients (3%, 2%).
+The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 10 to 17 years (0%, 0.5%), or in aripiprazole injection-treated patients (3%, 2%).
 
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
@@ -138,7 +138,7 @@ If parenteral benzodiazepine therapy is deemed necessary in addition to aripipra
 
 ## 5.7 Seizures/Convulsions
 
-In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.2% (3/1894) of adult patients treated with oral aripiprazole, in 0.3% (1/399) of pediatric patients (10 to 17 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
+In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.1% (3/2467) of adult patients treated with oral aripiprazole, in 0.3% (1/399) of pediatric patients (10 to 17 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, eg, Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
@@ -146,8 +146,8 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 ## 5.8 Potential for Cognitive and Motor Impairment
 
 ABILIFY, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
-For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=1894) treated with oral ABILIFY (11%, 7%), in pediatric patients ages 10 to 17 (21%, 5%), and in adult patients on ABILIFY Injection (9%, 6%).
-Somnolence (including sedation) led to discontinuation in 0.2% (4/1894) of adult patients, and 1% (4/399) of pediatric patients (10 to 17 years) on oral ABILIFY in short-term, placebo-controlled trials, but did not lead to discontinuation of any adult patients on ABILIFY Injection.
+For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 10 to 17 (21%, 5%), and in adult patients on ABILIFY Injection (9%, 6%).
+Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 1% (4/399) of pediatric patients (10 to 17 years) on oral ABILIFY in short-term, placebo-controlled trials, but did not lead to discontinuation of any adult patients on ABILIFY Injection.
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY does not affect them adversely.
 

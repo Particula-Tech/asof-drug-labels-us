@@ -13,7 +13,7 @@ Table 2: ABILIFY Tablet Presentations
 | 20 mg | white round | "A-010" and "20" |
 | 30 mg | pink round | "A-011" and "30" |
 
-ABILIFY® DISCMELT™ (aripiprazole) Orally Disintegrating Tablets are available as described in Table 3.
+ABILIFY DISCMELT® (aripiprazole) Orally Disintegrating Tablets are available as described in Table 3.
 
 Table 3: ABILIFY DISCMELT Orally Disintegrating Tablet Presentations
 

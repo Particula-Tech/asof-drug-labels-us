@@ -43,6 +43,8 @@ Aripiprazole is unlikely to cause clinically important pharmacokinetic interacti
 In in vivo studies, 10 mg/day to 30 mg/day doses of aripiprazole had no significant effect on metabolism by CYP2D6 (dextromethorphan), CYP2C9 (warfarin), CYP2C19 (omeprazole, warfarin), and CYP3A4 (dextromethorphan) substrates.
 Additionally, aripiprazole and dehydro-aripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro.
 
+No effect of aripiprazole was seen on the pharmacokinetics of lithium or valproate.
+
 Alcohol
 
 There was no significant difference between aripiprazole coadministered with ethanol and placebo coadministered with ethanol on performance of gross motor skills or stimulus response in healthy subjects.
@@ -71,6 +73,11 @@ No dosage adjustment of aripiprazole is required when administered concomitantly
 
 Coadministration of aripiprazole (30 mg/day) with lithium (900 mg/day) did not result in clinically significant changes in the pharmacokinetics of lithium.
 No dosage adjustment of lithium is required when administered concomitantly with aripiprazole.
+
+Lamotrigine
+
+Coadministration of 10 mg/day to 30 mg/day oral doses of aripiprazole for 14 days to patients with Bipolar I Disorder had no effect on the steady-state pharmacokinetics of 100 mg/day to 400 mg/day lamotrigine, a UDP-glucuronosyltransferase 1A4 substrate.
+No dosage adjustment of lamotrigine is required when aripiprazole is added to lamotrigine.
 
 Dextromethorphan
 

@@ -74,9 +74,11 @@ Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bris
 
 Distributed and marketed by Otsuka America Pharmaceutical, Inc, Rockville, MD 20850 USA
 
-Marketed by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA US Patent Nos: 5,006,528; 6,977,257; and 7,115,587
+Marketed by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
-1239550A1 0308L-0818 Rev February 2008
+US Patent Nos: 5,006,528; 6,977,257; and 7,115,587
+
+1239550A2 0308L-1050 Rev May 2008
 
 © 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
 
@@ -150,10 +152,10 @@ It should be noted that ABILIFY is approved to be added to an antidepressant whe
 ABILIFY is not approved for pediatric patients with depression.
 
 Call your doctor for medical advice about side effects.
-You may report side effect to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550A1 0308L-0818 Rev February 2008
+1239550A2 0308L-1050 Rev May 2008
 
 © 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

@@ -50,9 +50,14 @@ It is recommended that women receiving aripiprazole should not breast-feed.
 Safety and effectiveness in pediatric patients with Major Depressive Disorder or agitation associated with Schizophrenia or Bipolar Mania have not been established.
 
 Safety and effectiveness in pediatric patients with Schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see INDICATIONS AND USAGE (1.1), DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.1)].
+Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Safety and effectiveness in pediatric patients with Bipolar Mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years.
 [See INDICATIONS AND USAGE (1.2), DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.2)].
+Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
+However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
 
@@ -63,8 +68,8 @@ There was no detectable age effect, however, in the population pharmacokinetic a
 Also, the pharmacokinetics of aripiprazole after multiple doses in elderly patients appeared similar to that observed in young, healthy subjects.
 No dosage adjustment is recommended for elderly patients [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
-Of the 12,925 patients treated with oral aripiprazole in clinical trials, 1061 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-The majority (97%) of the 799 patients were diagnosed with Dementia of the Alzheimer’s type.
+Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
+The majority (81%) of the 1073 patients were diagnosed with Dementia of the Alzheimer’s type.
 
 Placebo-controlled studies of oral aripiprazole in Schizophrenia, Bipolar Mania, or Major Depressive Disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
