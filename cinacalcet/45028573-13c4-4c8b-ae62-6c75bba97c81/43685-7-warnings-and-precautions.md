@@ -90,6 +90,9 @@ Desipramine: Concurrent administration of cinacalcet (90 mg) with desipramine (5
 
 Amitriptyline: Concurrent administration of 25 mg or 100 mg cinacalcet with 50 mg amitriptyline increased amitriptyline exposure and nortriptyline (active metabolite) exposure by approximately 20% in CYP2D6 extensive metabolizers.
 
+Midazolam: There were no significant differences in the pharmacokinetics of midazolam, a CYP3A4 and CYP3A5 substrate, in subjects receiving 90 mg cinacalcet once daily for 5 days and a single dose of 2 mg midazolam on day 5 as compared to those of subjects receiving 2 mg midazolam alone.
+This suggests that cinacalcet would not affect the pharmacokinetics of drugs predominantly metabolized by CYP3A4 and CYP3A5.
+
 ### Effect of other drugs on Sensipar®:
 
 Sensipar® is metabolized by multiple cytochrome P450 enzymes, primarily CYP3A4, CYP2D6, and CYP1A2.

@@ -84,6 +84,9 @@ Amitriptyline: Concurrent administration of 25 mg or 100 mg cinacalcet with 50 m
 Warfarin: R- and S-warfarin pharmacokinetics and warfarin pharmacodynamics were not affected in subjects treated with warfarin 25 mg who received cinacalcet 30 mg twice daily.
 The lack of effect of cinacalcet on the pharmacokinetics of R- and S-warfarin and the absence of auto-induction upon multiple dosing in patients indicates that cinacalcet is not an inducer of CYP2C9 in humans.
 
+Midazolam: There were no significant differences in the pharmacokinetics of midazolam, a CYP3A4 and CYP3A5 substrate, in subjects receiving 90 mg cinacalcet once daily for 5 days and a single dose of 2 mg midazolam on day 5 as compared to those of subjects receiving 2 mg midazolam alone.
+This suggests that cinacalcet would not affect the pharmacokinetics of drugs predominantly metabolized by CYP3A4 and CYP3A5.
+
 ## Pharmacodynamics
 
 Reduction in intact PTH (iPTH) levels correlated with cinacalcet concentrations in CKD patients.
