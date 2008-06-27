@@ -1,0 +1,3 @@
+# INDICATIONS AND USAGE
+
+ULTRAM ER is indicated for the management of moderate to moderately severe chronic pain in adults who require around-the-clock treatment of their pain for an extended period of time.
