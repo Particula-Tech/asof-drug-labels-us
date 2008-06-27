@@ -1,0 +1,16 @@
+# OVERDOSAGE
+
+Serious overdosage with hydromorphone hydrochloride injection (high potency formulation) is characterized by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and sometimes bradycardia and hypotension.
+In serious overdosage, particularly following intravenous injection, apnea, circulatory collapse, cardiac arrest and death may occur.
+
+In the treatment of overdosage, primary attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
+Supportive measures (including oxygen, vasopressors) should be employed in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
+Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
+
+The opioid antagonist, naloxone, is a specific antidote against respiratory depression which may result from overdosage, or unusual sensitivity to hydromorphone hydrochloride injection (high potency formulation).
+Naloxone should not be administered in the absence of clinically significant respiratory or circulatory depression.
+Naloxone should be administered cautiously to persons who are known, or suspected to be physically dependent on hydromorphone hydrochloride injection (high potency formulation).
+In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute withdrawal syndrome.
+
+Since the duration of action of hydromorphone hydrochloride injection (high potency formulation) may exceed that of the antagonist, the patient should be kept under continued surveillance; repeated doses of the antagonist may be required to maintain adequate respiration.
+Apply other supportive measures when indicated.
