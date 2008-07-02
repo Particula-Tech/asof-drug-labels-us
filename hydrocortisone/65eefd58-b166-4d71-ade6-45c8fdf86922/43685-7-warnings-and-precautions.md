@@ -1,5 +1,12 @@
 # WARNINGS
 
+Exposure to excessive amounts of benzyl alcohol has been associated with increased toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
+There have been rare reports of deaths, primarily in pre-term infants, associated with exposure to excessive amounts of benzyl alcohol.
+The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
+Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
+The amount of benzyl alcohol at which toxicity may occur is unknown.
+If the patient requires more than the recommended dosages of other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS, Pediatric Use)
+
 In patients on corticosteroid therapy subjected to unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated.
 
 Corticosteroids may mask some signs of infection, and new infections may appear during their use.
@@ -47,6 +54,16 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 # PRECAUTIONS
 
 ## General precautions
+
+### Pediatric Use
+
+This product contains benzyl alcohol as a preservative.
+Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
+The "gasping syndrome", (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, Bradycardia, and cardiovascular collapse.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Pre-mature and low-birth-weight infants, as well as patients receiving high doses, may be more likely to develop toxicity.
+Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.

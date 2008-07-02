@@ -13,6 +13,7 @@ This highly water-soluble sodium succinate ester of hydrocortisone permits the i
 SOLU-CORTEF Sterile Powder is available in several packages for intravenous or intramuscular administration.
 
 100 mg Plain—Vials containing hydrocortisone sodium succinate equivalent to 100 mg hydrocortisone, also 0.8 mg monobasic sodium phosphate anhydrous, 8.73 mg dibasic sodium phosphate dried.
+SOLU-CORTEF 100 mg plain does not contain diluent (see DOSAGE and ADMINISTRATION, Preparation of Solutions).
 
 |  | Each 2 mL contains: (when mixed) | Each 2 mL contains: (when mixed) | Each 4 mL contains: (when mixed) | Each 8 mL contains: (when mixed) |
 | --- | --- | --- | --- | --- |

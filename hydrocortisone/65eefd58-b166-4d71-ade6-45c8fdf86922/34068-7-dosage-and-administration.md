@@ -1,5 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
+NOTE: CONTAINS BENZYL ALCOHOL (see PRECAUTIONS)
+
 This preparation may be administered by intravenous injection, by intravenous infusion, or by intramuscular injection, the preferred method for initial emergency use being intravenous injection.
 Following the initial emergency period, consideration should be given to employing a longer acting injectable preparation or an oral preparation.
 
