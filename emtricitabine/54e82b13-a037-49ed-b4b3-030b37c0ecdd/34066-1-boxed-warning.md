@@ -1,8 +1,8 @@
-# WARNINGS
+# WARNINGS: LACTIC ACIDOSIS/SEVERE HEPATOMEGALY WITH STEATOSIS and POST TREATMENT ACUTE EXACERBATION OF HEPATITIS B
 
-LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY WITH STEATOSIS, INCLUDING FATAL CASES, HAVE BEEN REPORTED WITH THE USE OF NUCLEOSIDE ANALOGS ALONE OR IN COMBINATION WITH OTHER ANTIRETROVIRALS (SEE WARNINGS).
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs alone or in combination with other antiretrovirals [See Warnings and Precautions (5.1)].
 
-TRUVADA IS NOT APPROVED FOR THE TREATMENT OF CHRONIC HEPATITIS B VIRUS (HBV) INFECTION AND THE SAFETY AND EFFICACY OF TRUVADA HAVE NOT BEEN ESTABLISHED IN PATIENTS COINFECTED WITH HBV AND HIV.
-SEVERE ACUTE EXACERBATIONS OF HEPATITIS B HAVE BEEN REPORTED IN PATIENTS WHO HAVE DISCONTINUED EMTRIVA or VIREAD, THE COMPONENTS OF TRUVADA.
-HEPATIC FUNCTION SHOULD BE MONITORED CLOSELY WITH BOTH CLINICAL AND LABORATORY FOLLOW-UP FOR AT LEAST SEVERAL MONTHS IN PATIENTS WHO ARE COINFECTED WITH HIV AND HBV AND DISCONTINUE TRUVADA.
-IF APPROPRIATE, INITIATION OF ANTI-HEPATITIS B THERAPY MAY BE WARRANTED (SEE WARNINGS).
+TRUVADA is not approved for the treatment of chronic hepatitis B virus (HBV) infection and the safety and efficacy of TRUVADA have not been established in patients coinfected with HBV and HIV-1.
+Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA or VIREAD, the components of TRUVADA.
+Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who are coinfected with HIV-1 and HBV and discontinue TRUVADA.
+If appropriate, initiation of anti-hepatitis B therapy may be warranted [See Warnings and Precautions (5.2)].

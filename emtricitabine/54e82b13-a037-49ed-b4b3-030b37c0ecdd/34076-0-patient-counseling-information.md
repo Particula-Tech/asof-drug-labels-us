@@ -1,4 +1,31 @@
-# Patient Information TRUVADA® (tru-VAH-dah) Tablets
+# 17 PATIENT COUNSELING INFORMATION
+
+See FDA-approved patient labeling (17.2)
+
+## 17.1 Information for Patients
+
+Patients should be advised that:
+
+- TRUVADA is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+  Patients should remain under the care of a physician when using TRUVADA.
+- The use of TRUVADA has not been shown to reduce the risk of transmission of HIV-1 to others through sexual contact or blood contamination.
+- The long term effects of TRUVADA are unknown.
+- TRUVADA tablets are for oral ingestion only.
+- It is important to take TRUVADA with combination therapy on a regular dosing schedule to avoid missing doses.
+- Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
+  Treatment with TRUVADA should be suspended in any patients who develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
+- All patients with HIV-1 should be tested for Hepatitis B virus (HBV) before initiating antiretroviral therapy.
+- Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA or VIREAD.
+- Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of VIREAD.
+  TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
+  Dosing interval of TRUVADA may need adjustment in patients with renal impairment [See Dosage and Administration (2.1)].
+- TRUVADA should not be coadministered with ATRIPLA, EMTRIVA, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
+- Decreases in bone mineral density have been observed with the use of VIREAD.
+  Bone monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.5)].
+
+## 17.2 FDA-Approved Patient Labeling
+
+TRUVADA® (tru-VAH-dah) tablets
 
 Generic name: emtricitabine and tenofovir disoproxil fumarate (em tri SIT uh bean and te NOE' fo veer dye soe PROX il FYOU mar ate)
 
@@ -37,29 +64,29 @@ What is the most important information I should know about TRUVADA?
 
 What is TRUVADA?
 
-TRUVADA is a type of medicine called an HIV (human immunodeficiency virus) nucleoside analog reverse transcriptase inhibitor (NRTI).
+TRUVADA is a type of medicine called an HIV-1 (human immunodeficiency virus) nucleoside analog reverse transcriptase inhibitor (NRTI).
 TRUVADA contains 2 medicines, EMTRIVA® (emtricitabine) and VIREAD® (tenofovir disoproxil fumarate, or tenofovir DF) combined in one pill.
-TRUVADA is always used with other anti-HIV medicines to treat people with HIV infection.
+TRUVADA is always used with other anti-HIV-1 medicines to treat people with HIV-1 infection.
 TRUVADA is for adults age 18 and older.
 TRUVADA has not been studied in children under age 18 or adults over age 65.
 
-HIV infection destroys CD4 (T) cells, which are important to the immune system.
+HIV infection destroys CD4+ T cells, which are important to the immune system.
 The immune system helps fight infection.
 After a large number of T cells are destroyed, acquired immune deficiency syndrome (AIDS) develops.
 
-TRUVADA helps block HIV reverse transcriptase, a chemical in your body (enzyme) that is needed for HIV to multiply.
-TRUVADA lowers the amount of HIV in the blood (viral load).
-TRUVADA may also help to increase the number of T cells (CD4 cells).
-Lowering the amount of HIV in the blood lowers the chance of death or infections that happen when your immune system is weak (opportunistic infections).
+TRUVADA helps block HIV-1 reverse transcriptase, a chemical in your body (enzyme) that is needed for HIV-1 to multiply.
+TRUVADA lowers the amount of HIV-1 in the blood (viral load).
+TRUVADA may also help to increase the number of T cells (CD4+ cells).
+Lowering the amount of HIV-1 in the blood lowers the chance of death or infections that happen when your immune system is weak (opportunistic infections).
 
-TRUVADA does not cure HIV infection or AIDS.
+TRUVADA does not cure HIV-1 infection or AIDS.
 The long-term effects of TRUVADA are not known at this time.
-People taking TRUVADA may still get opportunistic infections or other conditions that happen with HIV infection.
+People taking TRUVADA may still get opportunistic infections or other conditions that happen with HIV-1 infection.
 Opportunistic infections are infections that develop because the immune system is weak.
 Some of these conditions are pneumonia, herpes virus infections, and Mycobacterium avium complex (MAC) infection.
 It is very important that you see your healthcare provider regularly while taking TRUVADA.
 
-TRUVADA does not lower your chance of passing HIV to other people through sexual contact, sharing needles, or being exposed to your blood.
+TRUVADA does not lower your chance of passing HIV-1 to other people through sexual contact, sharing needles, or being exposed to your blood.
 For your health and the health of others, it is important to always practice safer sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 Never use or share dirty needles.
 
@@ -68,7 +95,7 @@ Who should not take TRUVADA?
 - Do not take TRUVADA if you are allergic to TRUVADA or any of its ingredients.
   The active ingredients of TRUVADA are emtricitabine and tenofovir DF.
   See the end of this leaflet for a complete list of ingredients.
-- Do not take TRUVADA if you are already taking ATRIPLA™, Combivir (lamivudine/zidovudine), EMTRIVA, Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Trizivir (abacavir sulfate/lamivudine/zidovudine), or VIREAD because these medicines contain the same or similar active ingredients.
+- Do not take TRUVADA if you are already taking ATRIPLA®, Combivir (lamivudine/zidovudine), EMTRIVA, Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Trizivir (abacavir sulfate/lamivudine/zidovudine), or VIREAD because these medicines contain the same or similar active ingredients.
 
 What should I tell my healthcare provider before taking TRUVADA?
 
@@ -108,7 +135,7 @@ How should I take TRUVADA?
 - Take TRUVADA exactly as your healthcare provider prescribed it.
   Follow the directions from your healthcare provider, exactly as written on the label.
 - The usual dose of TRUVADA is 1 tablet once a day.
-  TRUVADA is always used with other anti-HIV medicines.
+  TRUVADA is always used with other anti-HIV-1 medicines.
   If you have kidney problems, you may need to take TRUVADA less often.
 - TRUVADA may be taken with or without a meal.
   Food does not affect how TRUVADA works.
@@ -117,7 +144,7 @@ How should I take TRUVADA?
   Do not take more than 1 dose of TRUVADA in a day.
   Do not take 2 doses at the same time.
   Call your healthcare provider or pharmacist if you are not sure what to do.
-  It is important that you do not miss any doses of TRUVADA or your anti-HIV medicines.
+  It is important that you do not miss any doses of TRUVADA or your anti-HIV-1 medicines.
 - When your TRUVADA supply starts to run low, get more from your healthcare provider or pharmacy.
   This is very important because the amount of virus in your blood may increase if the medicine is stopped for even a short time.
   The virus may develop resistance to TRUVADA and become harder to treat.
@@ -134,7 +161,6 @@ What should I avoid while taking TRUVADA?
   - Do not share personal items that can have blood or body fluids on them, like toothbrushes or razor blades.
   - Do not have any kind of sex without protection.
     Always practice safer sex by using a latex or polyurethane condom or other barrier to reduce the chance of sexual contact with semen, vaginal secretions, or blood.
-
 - ATRIPLA, Combivir (lamivudine/zidovudine), EMTRIVA, Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Trizivir (abacavir sulfate/lamivudine/zidovudine), or VIREAD.
   TRUVADA should not be used with these medicines.
 
@@ -150,7 +176,7 @@ TRUVADA may cause the following serious side effects (see "What is the most impo
   Call your healthcare provider right away if you get any signs of liver problems.
   (See "What is the most important information I should know about TRUVADA?")
 - "Flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking TRUVADA.
-  Your healthcare provider will monitor your condition for several months after stopping TRUVADA if you have both HIV and HBV infection.
+  Your healthcare provider will monitor your condition for several months after stopping TRUVADA if you have both HIV-1 and HBV infection.
   TRUVADA is not approved for the treatment of Hepatitis B Virus infection.
 - Kidney problems.
   If you have had kidney problems in the past or take other medicines that can cause kidney problems, your healthcare provider should do regular blood tests to check your kidneys.
@@ -158,14 +184,15 @@ TRUVADA may cause the following serious side effects (see "What is the most impo
   It is not known whether long-term use of TRUVADA will cause damage to your bones.
   If you have had bone problems in the past, your healthcare provider may need to do tests to check your bone mineral density or may prescribe medicines to help your bone mineral density.
 
-Other side effects with TRUVADA when used with other anti-HIV medicines include:
+Other side effects with TRUVADA when used with other anti-HIV-1 medicines include:
 
-- Changes in body fat have been seen in some patients taking TRUVADA and other anti-HIV medicines.
+- Changes in body fat have been seen in some patients taking TRUVADA and other anti-HIV-1 medicines.
   These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the main part of your body (trunk).
   Loss of fat from the legs, arms and face may also happen.
   The cause and long term health effect of these conditions are not known at this time.
 
-The most common side effects of EMTRIVA or VIREAD when used with other anti-HIV medicines are: dizziness, diarrhea, nausea, vomiting, headache, rash, and gas.
+The most common side effects of EMTRIVA or VIREAD when used with other anti-HIV-1 medicines are: diarrhea, nausea, vomiting, dizziness and headache.
+Additional side effects are stomach pain, indigestion, gas, inflammation of the pancreas, increased amylase, sleeping problems, abnormal dreams, weakness, pain, low blood phosphate, shortness of breath, increase liver enzymes, inflammation of the liver, allergic reaction, muscle problems and rash.
 Skin discoloration (small spots or freckles) may also happen with TRUVADA.
 
 These are not all the side effects of TRUVADA.
@@ -202,3 +229,12 @@ Active Ingredients: emtricitabine and tenofovir disoproxil fumarate
 
 Inactive Ingredients: Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch (gluten free).
 The tablets are coated with Opadry II Blue Y-30-10701 containing FD&C Blue #2 aluminum lake, hydroxypropyl methylcellulose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+
+Rx Only
+
+May 2008
+
+TRUVADA, EMTRIVA, and VIREAD are registered trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+All other trademarks referenced herein are the property of their respective owners.
+
+21-752-GS-021 19MAY08

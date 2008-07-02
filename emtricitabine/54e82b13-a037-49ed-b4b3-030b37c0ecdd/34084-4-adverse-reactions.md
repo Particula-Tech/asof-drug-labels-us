@@ -1,99 +1,95 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Clinical Trials
+The following adverse reactions are discussed in other sections of the labeling:
 
-### TRUVADA
+- Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
+- Severe Acute Exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.2)].
+- New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
+- Decreases in Bone Mineral Density [See Warnings and Precautions (5.5)].
+- Immune Reconstitution Syndrome [See Warnings and Precautions (5.7)].
 
-Four hundred and forty-seven HIV-1 infected patients have received combination therapy with EMTRIVA and VIREAD with either a non-nucleoside reverse transcriptase inhibitor or protease inhibitor for 48 weeks in clinical studies.
+## 6.1 Adverse Reactions from Clinical Trials Experience
 
-#### Study 934 - Treatment Emergent Adverse Events
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse events observed in this study were generally consistent with those seen in other studies in treatment-experienced or treatment-naïve patients receiving VIREAD and/or EMTRIVA (Table 8).
+The most common adverse reactions (incidence ≥ 10%, any severity) occurring in Study 934, an active-controlled clinical study of efavirenz, emtricitabine, and tenofovir disoproxil fumarate, include diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
+See also Table 2 for the frequency of treatment-emergent adverse reactions (Grade 2–4) occurring in ≥ 5% of patients treated with efavirenz, emtricitabine, and tenofovir disoproxil fumarate in this study.
 
-Table 8 Selected Treatment-Emergent Adverse Events (Grades 2–4) Reported in ≥3% in Any Treatment Group in Study 934 (0–48 Weeks)
-
-|  | N=257 | N=254 |
-| --- | --- | --- |
-|  | EMTRIVA+VIREAD+EFV | AZT/3TC+EFV |
-| Gastrointestinal Disorder |  |  |
-| Diarrhea | 7% | 4% |
-| Nausea | 8% | 6% |
-| Vomiting | 1% | 4% |
-| General Disorders and Administration Site Condition |  |  |
-| Fatigue | 7% | 6% |
-| Infections and Infestations |  |  |
-| Sinusitis | 4% | 2% |
-| Upper respiratory tract infections | 3% | 3% |
-| Nasopharyngitis | 3% | 1% |
-| Nervous System Disorders |  |  |
-| Somnolence | 3% | 2% |
-| Headache | 5% | 4% |
-| Dizziness | 8% | 7% |
-| Psychiatric Disorders |  |  |
-| Depression | 4% | 7% |
-| Insomnia | 4% | 5% |
-| Abnormal dreams | 4% | 3% |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash | 5% | 4% |
-
-##### Laboratory Abnormalities
-
-Laboratory abnormalities observed in this study were generally consistent with those seen in other studies of VIREAD and/or EMTRIVA (Table 9).
-
-Table 9 Significant Laboratory Abnormalities Reported in ≥1% of Patients in Any Treatment Group in Study 934 (0–48 Weeks)
-
-|  | N=257 | N=254 |
-| --- | --- | --- |
-|  | EMTRIVA + VIREAD+EFV | AZT/3TC + EFV |
-| Any ≥ Grade 3 Laboratory Abnormality | 25% | 22% |
-| Fasting Cholesterol (>240 mg/dL) | 15% | 17% |
-| Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 7% | 6% |
-| Serum Amylase (>175 U/L) | 7% | 3% |
-| Alkaline Phosphatase (>550 U/L) | 1% | 0% |
-| AST (M: >180 U/L) (F: >170 U/L) | 3% | 2% |
-| ALT (M: >215 U/L) (F: >170 U/L) | 2% | 2% |
-| Hemoglobin (<8.0 mg/dL) | 0% | 3% |
-| Hyperglycemia (>250 mg/dL) | 1% | 1% |
-| Hematuria (>75 RBC/HPF) | 2% | 2% |
-| Neutrophils (<750/mm3) | 3% | 4% |
-| Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
-
-In addition to the events described above for Study 934, other adverse events that occurred in at least 5% of patients receiving EMTRIVA or VIREAD with other antiretroviral agents in clinical trials include anxiety, arthralgia, increased cough, dyspepsia, fever, myalgia, pain, abdominal pain, back pain, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), pneumonia, rhinitis and rash event (including rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash and allergic reaction).
-
-Skin discoloration has been reported with higher frequency among EMTRIVA treated patients.
 Skin discoloration, manifested by hyperpigmentation on the palms and/or soles was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
-In addition to the laboratory abnormalities described above for Study 934, Grade 3/4 elevations of bilirubin (>2.5 × ULN), pancreatic amylase (>2.0 × ULN), serum glucose (<40 or >250 mg/dL), serum lipase (>2.0 × ULN), and urine glucose (≥3+) occurred in up to 3% of patients treated with EMTRIVA or VIREAD with other antiretroviral agents in clinical trials.
+Study 934 - Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve patients received either VIREAD + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
+Adverse reactions observed in this study were generally consistent with those seen in other studies in treatment-experienced or treatment-naïve patients receiving VIREAD and/or EMTRIVA (Table 2).
 
-For more information, please consult the EMTRIVA and VIREAD package inserts.
+Table 2 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+(Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
 
-## Post Marketing Experience
+|  | N=257 | N=254 |
+| --- | --- | --- |
+|  | FTC + TDF + EFVFrom Weeks 96 to 144 of the study, patients received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. | AZT/3TC + EFV |
+| Gastrointestinal Disorder |  |  |
+| Diarrhea | 9% | 5% |
+| Nausea | 9% | 7% |
+| Vomiting | 2% | 5% |
+| General Disorders and Administration Site Condition |  |  |
+| Fatigue | 9% | 8% |
+| Infections and Infestations |  |  |
+| Sinusitis | 8% | 4% |
+| Upper respiratory tract infections | 8% | 5% |
+| Nasopharyngitis | 5% | 3% |
+| Nervous System Disorders |  |  |
+| Headache | 6% | 5% |
+| Dizziness | 8% | 7% |
+| Psychiatric Disorders |  |  |
+| Depression | 9% | 7% |
+| Insomnia | 5% | 7% |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
 
-### EMTRIVA
+Laboratory Abnormalities: Laboratory abnormalities observed in this study were generally consistent with those seen in other studies of VIREAD and/or EMTRIVA (Table 3).
 
-No additional events have been identified for inclusion in this section.
+Table 3 Significant Laboratory Abnormalities Reported in ≥1% of Patients in Any Treatment Group in Study 934 (0–144 Weeks)
 
-### VIREAD
+|  | N=257 | N=254 |
+| --- | --- | --- |
+|  | FTC + TDF + EFVFrom Weeks 96 to 144 of the study, patients received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. | AZT/3TC + EFV |
+| Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
+| Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
+| Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |
+| Serum Amylase (>175 U/L) | 8% | 4% |
+| Alkaline Phosphatase (>550 U/L) | 1% | 0% |
+| AST (M: >180 U/L) (F: >170 U/L) | 3% | 3% |
+| ALT (M: >215 U/L) (F: >170 U/L) | 2% | 3% |
+| Hemoglobin (<8.0 mg/dL) | 0% | 4% |
+| Hyperglycemia (>250 mg/dL) | 2% | 1% |
+| Hematuria (>75 RBC/HPF) | 3% | 2% |
+| Glycosuria (≥3+) | <1% | 1% |
+| Neutrophils (<750/mm3) | 3% | 5% |
+| Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
 
-The following events have been identified during post-approval use of VIREAD.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion because of a combination of their seriousness, frequency of reporting or potential causal connection to VIREAD.
+In addition to the events described above for Study 934, other adverse reactions that occurred in at least 5% of patients receiving EMTRIVA or VIREAD with other antiretroviral agents in clinical trials include anxiety, arthralgia, increased cough, dyspepsia, fever, myalgia, pain, abdominal pain, back pain, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), pneumonia, and rhinitis.
 
-IMMUNE SYSTEM DISORDERS Allergic reaction
+In addition to the laboratory abnormalities described above for Study 934, Grade 3/4 elevations of bilirubin (>2.5 × ULN), pancreatic amylase (>2.0 × ULN), serum glucose (<40 or >250 mg/dL), and serum lipase (>2.0 × ULN) occurred in up to 3% of patients treated with EMTRIVA or VIREAD with other antiretroviral agents in clinical trials.
 
-METABOLISM AND NUTRITION DISORDERS Hypophosphatemia, Lactic acidosis
+## 6.2 Postmarketing Experience
 
-RESPIRATORY, THORACIC, AND MEDIASTINAL DISORDERS Dyspnea
+The following adverse reactions have been identified during postapproval use of VIREAD.
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-GASTROINTESTINAL DISORDERS Abdominal pain, Increased amylase, Pancreatitis
+Immune System Disorders allergic reaction
 
-HEPATOBILIARY DISORDERS Increased liver enzymes, Hepatitis
+Metabolism and Nutrition Disorders hypophosphatemia, lactic acidosis
 
-SKIN AND SUBCUTANEOUS TISSUE DISORDERS Rash
+Respiratory, Thoracic, and Mediastinal Disorders dyspnea
 
-MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS Myopathy, Osteomalacia (both associated with proximal renal tubulopathy)
+Gastrointestinal Disorders abdominal pain, increased amylase, pancreatitis
 
-RENAL AND URINARY DISORDERS Renal insufficiency, Renal failure, Acute renal failure, Fanconi syndrome, Proximal tubulopathy, Proteinuria, Increased creatinine, Acute tubular necrosis, Nephrogenic diabetes insipidus, Polyuria, Interstitial nephritis (including acute cases)
+Hepatobiliary Disorders increased liver enzymes (most commonly increased AST, ALT, Gamma GT), hepatitis
 
-GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS Asthenia
+Skin and Subcutaneous Tissue Disorders rash
+
+Musculoskeletal and Connective Tissue Disorders myopathy, osteomalacia (both associated with proximal renal tubulopathy)
+
+Renal and Urinary Disorders renal insufficiency, renal failure, acute renal failure, Fanconi syndrome, proximal tubulopathy, proteinuria, increased creatinine, acute tubular necrosis, nephrogenic diabetes insipidus, polyuria, interstitial nephritis (including acute cases)
+
+General Disorders and Administration Site Conditions asthenia
