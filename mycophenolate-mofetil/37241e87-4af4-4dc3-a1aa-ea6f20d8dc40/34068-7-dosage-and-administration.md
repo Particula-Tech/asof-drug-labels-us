@@ -55,8 +55,7 @@ It is recommended that CellCept Oral Suspension be constituted by the pharmacist
 CellCept Oral Suspension should not be mixed with any other medication.
 
 Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits.
-There are no adequate and well-controlled studies in pregnant women.
-(see WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, and HANDLING AND DISPOSAL.)
+There are no adequate and well-controlled studies in pregnant women (see WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, and HANDLING AND DISPOSAL).
 Care should be taken to avoid inhalation or direct contact with skin or mucous membranes of the dry powder or the constituted suspension.
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with water.
 
@@ -137,4 +136,4 @@ No dose adjustments are needed in renal transplant patients experiencing delayed
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 CellCept may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 
-If neutropenia develops (ANC <1.3× 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests).
+If neutropenia develops (ANC <1.3× 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS: Neutropenia, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests).

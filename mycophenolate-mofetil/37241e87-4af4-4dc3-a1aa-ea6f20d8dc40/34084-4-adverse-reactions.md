@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions associated with the administration of CellCept include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS).
+The principal adverse reactions associated with the administration of CellCept include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS: Infections and WARNINGS: Progressive Multifocal Leukoencephalopathy (PML)).
 The adverse event profile associated with the administration of CellCept Intravenous has been shown to be similar to that observed after administration of oral dosage forms of CellCept.
 
 ## CellCept Oral
@@ -95,19 +95,19 @@ The incidence of sepsis was comparable in CellCept and in azathioprine-treated p
 
 In the digestive system, diarrhea was increased in renal and cardiac transplant patients receiving CellCept compared to patients receiving azathioprine, but was comparable in hepatic transplant patients treated with CellCept or azathioprine.
 
-Patients receiving CellCept alone or as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see WARNINGS).
+Patients receiving CellCept alone or as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see WARNINGS: Lymphoma and Malignancy).
 The incidence of malignancies among the 1483 patients treated in controlled trials for the prevention of renal allograft rejection who were followed for ≥1 year was similar to the incidence reported in the literature for renal allograft recipients.
 
-Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients receiving CellCept (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of renal, cardiac, and hepatic transplant patients followed for at least 1 year (see WARNINGS).
+Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients receiving CellCept (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of renal, cardiac, and hepatic transplant patients followed for at least 1 year (see WARNINGS: Lymphoma and Malignancy).
 Non-melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
 Three-year safety data in renal and cardiac transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
 
 In pediatric patients, no other malignancies besides lymphoproliferative disorder (2/148 patients) have been observed.
 
-Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see WARNINGS, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION).
+Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION).
 
 All transplant patients are at increased risk of opportunistic infections.
-The risk increases with total immunosuppressive load (see WARNINGS).
+The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Progressive Multifocal Leukoencephalopathy (PML)).
 Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
 Table 9 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
@@ -130,7 +130,7 @@ The following other opportunistic infections occurred with an incidence of less 
 
 In the placebo-controlled renal transplant study, the same pattern of opportunistic infection was observed compared to the azathioprine-controlled renal studies, with a notably lower incidence of the following: Herpes simplex and CMV tissue-invasive disease.
 
-In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS).
+In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS: Infections).
 
 In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with CellCept than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with CellCept.
 
@@ -180,6 +180,8 @@ Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of i
 ### Resistance Mechanism Disorders
 
 Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
+Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
+The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
 
 ### Respiratory
 

@@ -1,19 +1,36 @@
-# WARNINGS (see boxed WARNING)
+# WARNINGS
+
+(see boxed WARNINGS)
+
+## Lymphoma and Malignancy
 
 Patients receiving immunosuppressive regimens involving combinations of drugs, including CellCept, as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see ADVERSE REACTIONS).
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections, fatal infections, and sepsis.
-In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
-
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
-
-CellCept has been administered in combination with the following agents in clinical trials: antithymocyte globulin (ATGAM®), OKT3 (Orthoclone OKT® 3), cyclosporine (Sandimmune®, Neoral®) and corticosteroids.
-The efficacy and safety of the use of CellCept in combination with other immunosuppressive agents have not been determined.
 
 Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients receiving CellCept (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of renal, cardiac, and hepatic transplant patients (see ADVERSE REACTIONS).
 
 In pediatric patients, no other malignancies besides lymphoproliferative disorder (2/148 patients) have been observed (see ADVERSE REACTIONS).
+
+## Combination with Other Immunosuppressive Agents
+
+CellCept has been administered in combination with the following agents in clinical trials: antithymocyte globulin (ATGAM®), OKT3 (Orthoclone OKT® 3), cyclosporine (Sandimmune®, Neoral®) and corticosteroids.
+The efficacy and safety of the use of CellCept in combination with other immunosuppressive agents have not been determined.
+
+## Infections
+
+Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections, fatal infections, and sepsis.
+In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
+
+## Progressive Multifocal Leukoencephalopathy (PML)
+
+Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
+Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
+The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
+In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultationwith a neurologist should be considered as clinically indicated.
+Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
+In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
 
 ## Pregnancy: Teratogenic Effects: Pregnancy Category D
 
@@ -48,7 +65,7 @@ Patients should be aware that CellCept reduces blood levels of the hormones in t
 
 ## Neutropenia
 
-Severe neutropenia [absolute neutrophil count (ANC)<0.5 × 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
+Severe neutropenia [absolute neutrophil count (ANC)<0.5× 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
 Patients receiving CellCept should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
 The development of neutropenia may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 If neutropenia develops (ANC <1.3 × 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
@@ -179,7 +196,7 @@ The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (
 Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p<0.05).
 Therefore, CellCept is not recommended to be given with the combination of norfloxacin and metronidazole.
 There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
-The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxcin or metronidazole separately was 48.3 (±24) µg•h/mL and 42.7 (±23) µg•h/mL, respectively, compared with 56.2 (±24) µg•h/mL after administration of mycophenolate mofetil alone.
+The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (±24) µg•h/mL and 42.7 (±23) µg•h/mL, respectively, compared with 56.2 (±24) µg•h/mL after administration of mycophenolate mofetil alone.
 
 ### Rifampin
 

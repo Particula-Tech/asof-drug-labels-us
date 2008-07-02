@@ -11,7 +11,7 @@ Mycophenolate mofetil has been demonstrated to inhibit immunologically mediated 
 
 Mycophenolate mofetil is rapidly absorbed following oral administration and hydrolyzed to form MPA, which is the active metabolite.
 MPA is a potent, selective, uncompetitive, and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA.
-Because T- and B-lymphocytesare critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways, MPA has potent cytostatic effects on lymphocytes.
+Because T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways, MPA has potent cytostatic effects on lymphocytes.
 MPA inhibits proliferative responses of T- and B-lymphocytes to both mitogenic and allospecific stimulation.
 Addition of guanosine or deoxyguanosine reverses the cytostatic effects of MPA on lymphocytes.
 MPA also suppresses antibody formation by B-lymphocytes.
