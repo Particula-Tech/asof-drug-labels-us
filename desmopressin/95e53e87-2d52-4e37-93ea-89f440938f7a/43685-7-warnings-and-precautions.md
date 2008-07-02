@@ -1,0 +1,98 @@
+# WARNINGS
+
+1. For intranasal use only.
+2. DDAVP Rhinal Tube should only be used in patients where orally administered formulations are not feasible.
+3. Very rare cases of hyponatremia have been reported from world-wide postmarketing experience in patients treated with DDAVP (desmopressin acetate).
+   DDAVP is a potent antidiuretic which, when administered, may lead to water intoxication and/or hyponatremia.
+   Unless properly diagnosed and treated hyponatremia can be fatal.
+   Therefore, fluid restriction is recommended and should be discussed with the patient and/or guardian.
+   Careful medical supervision is required.
+4. When DDAVP is administered, in particular, in pediatric and geriatric patients, fluid intake should be adjusted downward in order to decrease the potential occurrence of water intoxication and hyponatremia.
+   (See PRECAUTIONS, Pediatric Use and Geriatric Use.)
+   All patients receiving DDAVP therapy should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss of appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness and confusion.
+   Severe symptoms may include one or a combination of the following: seizure, coma and/or respiratory arrest.
+   Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures which could lead to coma.
+5. DDAVP should be used with caution in patients with habitual or psychogenic polydipsia who may be more likely to drink excessive amounts of water, putting them at greater risk of hyponatremia.
+
+# PRECAUTIONS
+
+## General
+
+Intranasal DDAVP at high dosage has infrequently produced a slight elevation of blood pressure, which disappeared with a reduction in dosage.
+The drug should be used with caution in patients with coronary artery insufficiency and/or hypertensive cardiovascular disease because of possible rise in blood pressure.
+
+DDAVP should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure and renal disorders because these patients are prone to hyponatremia.
+
+Ensure that in children administration is under adult supervision in order to control the dose intake.
+
+Rare severe allergic reactions have been reported with DDAVP.
+Anaphylaxis has been reported rarely with intravenous and intranasal administration of DDAVP.
+
+## Central Cranial Diabetes Insipidus
+
+Since DDAVP Rhinal Tube is used intranasally, changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption in which case intranasal DDAVP should not be used.
+For such situations, DDAVP Injection should be considered.
+
+## Laboratory Tests
+
+Laboratory tests for following the patient with central cranial diabetes insipidus or post-surgical or head trauma-related polyuria and polydipsia include urine volume and osmolality.
+In some cases plasma osmolality measurements may be required.
+
+## Drug Interactions
+
+Although the pressor activity of DDAVP is very low compared to the antidiuretic activity, use of large doses of intranasal DDAVP with other pressor agents should only be done with careful patient monitoring.
+The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Studies with DDAVP have not been performed to evaluate carcinogenic potential, mutagenic potential or effects on fertility.
+
+## Pregnancy Category B
+
+Fertility studies have not been done.
+Teratology studies in rats and rabbits at doses from 0.05 to 10 mcg/kg/day (approximately 0.1 times the maximum systemic human exposure in rats and up to 38 times the maximum systemic human exposure in rabbits based on surface area, mg/m2) revealed no harm to the fetus due to DDAVP.
+There are, however, no adequate and well controlled studies in pregnant women.
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+Several publications of desmopressin acetate's use in the management of diabetes insipidus during pregnancy are available; these include a few anecdotal reports of congenital anomalies and low birth weight babies.
+However, no causal connection between these events and desmopressin acetate has been established.
+A fifteen year, Swedish epidemiologic study of the use of desmopressin acetate in pregnant women with diabetes insipidus found the rate of birth defects to be no greater than that in the general population; however the statistical power of this study is low.
+As opposed to preparations containing natural hormones, desmopressin acetate in antidiuretic doses has no uterotonic action and the physician will have to weigh the therapeutic advantages against the possible risks in each case.
+
+## Nursing Mothers
+
+There have been no controlled studies in nursing mothers.
+A single study in postpartum women demonstrated a marked change in plasma, but little if any change in assayable DDAVP (desmopressin acetate) in breast milk following an intranasal dose of 10 mcg.
+It is not known whether this drug is excreted in human milk.
+Because many drugs are excreted in human milk, caution should be exercised when DDAVP is administered to a nursing woman.
+
+## Pediatric Use
+
+### Central Cranial Diabetes Insipidus
+
+DDAVP Rhinal Tube has been used in pediatric patients with diabetes insipidus.
+Use in infants and pediatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
+Fluid restriction should be discussed with the patient and/or guardian.
+(See WARNINGS.)
+The dose must be individually adjusted to the patient with attention in the very young to the danger of an extreme decrease in plasma osmolality with resulting convulsions.
+Dose should start at 0.05 mL or less.
+
+There are reports of an occasional change in response with time, usually greater than 6 months.
+Some patients may show a decreased responsiveness, others a shortened duration of effect.
+There is no evidence this effect is due to the development of binding antibodies but may be due to a local inactivation of the peptide.
+
+## Geriatric Use
+
+Clinical studies of DDAVP Rhinal Tube did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+DDAVP is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50ml/min).
+
+(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics and CONTRAINDICATIONS.)
+
+Use of DDAVP Rhinal Tube in geriatric patients will require careful fluid intake restrictions to prevent possible hyponatremia and water intoxication.
+Fluid restriction should be discussed with the patient.
+(See WARNINGS.)
