@@ -1,8 +1,8 @@
 ## PATIENT INFORMATION NOXAFIL®
 
-(posaconazole) Oral Suspension
+(posaconazole) ORAL SUSPENSION
 
-Read the Patient Information that comes with NOXAFIL before you start taking it and each time you get a refill.
+Read the Patient Information that comes with NOXAFIL® before you start taking it and each time you get a refill.
 There may be new information.
 This information does not replace talking with your doctor about your condition or treatment.
 Only your doctor can prescribe NOXAFIL and determine if it is right for you.
@@ -20,7 +20,7 @@ What should I tell my doctor before taking NOXAFIL?
 Tell your doctor about all your health conditions, including if you:
 
 - -are taking certain drugs that suppress your immune system like cyclosporine (Neoral®), tacrolimus (Prograf®), or sirolimus (Rapamune®).
-  Serious and rare fatal toxicity from cyclosporine has occurred when taken in combination with posaconazole and, therefore, reduction of the dose of drugs like cyclosporine, tacrolimus, or sirolimus and frequent monitoring of drug levels of these medicines is necessary when taking them in combination with posaconazole.
+  Serious and rare fatal toxicity from cyclosporine has occurred when taken in combination with posaconazole and, therefore, reduction of the dose of drugs like cyclosporine, tacrolimus, or atazanavir and frequent monitoring of drug levels of these medicines is necessary when taking them in combination with posaconazole.
 - -have ever had an allergic reaction to other antifungal medicines such as ketoconazole, fluconazole, itraconazole, or voriconazole.
 - -are taking any other medicines, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 - -have, or have had liver problems.
@@ -40,6 +40,7 @@ Do NOT take NOXAFIL® if you are taking any of the medicines listed below.
 If any of these medicines are taken together with NOXAFIL, serious or life-threatening side effects from these medicines, or a decrease in the effect of NOXAFIL can occur.
 Tell your doctor right away if you are taking any of these medicines:
 
+- sirolimus
 - ergot alkaloids (ergotamine, dihydroergotamine, methylsergide, methylergonovine, ergonovine or bromocriptine)
 - terfenadine
 - astemizole
@@ -59,7 +60,7 @@ If you have questions or are uncertain about your medicines, talk with your doct
 Can I take other medicines with NOXAFIL?
 
 NOXAFIL® and many medicines can interact with each other and some must not be taken together (See "Who should not take NOXAFIL?").
-The dose of other medicines may need to be adjusted when taken with NOXAFIL [for example, cyclosporine (Neoral®)Trademarks are the property of their respective owners., tacrolimus (Prograf®), or sirolimus (Rapamune®)].
+The dose of other medicines may need to be adjusted when taken with NOXAFIL [for example, cyclosporine (Neoral®)Trademarks are the property of their respective owners., tacrolimus (Prograf®) ritonavir, or atazanavir].
 (See "What should I tell my doctor before taking NOXAFIL?")
 
 Knowing the medicines that you are taking is important.
@@ -134,3 +135,9 @@ Inactive ingredients: polysorbate 80, simethicone, sodium benzoate, sodium citra
 Schering Corporation Kenilworth, NJ 07033 USA
 
 Rx only
+
+Copyright © 2006, 2008 Schering Corporation.
+All rights reserved.
+U.S. Patents 5,661,151; 5,703,079; and 6,958,337.
+
+31242916 31157510T Rev 5/08

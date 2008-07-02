@@ -15,7 +15,7 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Events: F
 
 | Subjects Reporting any Adverse Event | 595 | (98) | 531 | (99) | 58 | (100) |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Posaconazole (n=605) |  | Fluconazole (n=539) |  | Intraconazole (n=58) |  |
+|  | Posaconazole (n=605) |  | Fluconazole (n=539) |  | Itraconazole (n=58) |  |
 | Body as a Whole - General Disorders |  |  |  |  |  |  |
 | Fever | 274 | (45) | 254 | (47) | 32 | (55) |
 | Headache | 171 | (28) | 141 | (26) | 23 | (40) |
@@ -77,7 +77,7 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Events: F
 | Pruritus | 69 | (11) | 62 | (12) | 11 | (19) |
 | NOS = not otherwise specified. |  |  |  |  |  |  |
 
-TABLES 12 and 13 present treatment-related adverse events observed at an incidence ≥2% in posaconazole prophylaxis studies.
+TABLES 12 and 13 present treatment-related adverse events observed at an incidence ≥2% in the posaconazole prophylaxis studies.
 
 TABLE 12.
 Study 1.
@@ -85,7 +85,7 @@ Treatment-Related Adverse Events, Occurring in Greater Than or Equal to 2% of Pa
 
 | Subjects Reporting Any Adverse Event | 107 (36) | 115 (38) |
 | --- | --- | --- |
-|  | Posaconazole (n=301) | Fluconazole (n=299) |
+|  | Posaconazole N=301 | Fluconazole N=299 |
 |  | n (%) | n (%) |
 | Body System/Preferred Term |  |  |
 | Body as a Whole – General Disorders |  |  |
@@ -129,7 +129,7 @@ Treatment-Related Adverse Events, Occurring in Greater Than or Equal to 2% of Pa
 | Subjects Reporting Any Adverse Event | 102 (34) | 101 (34) | 71 (30) | 30 (52) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Patients |  |  |  |
-|  | Posaconazole (n=304) | Fluconazole/ Itraconazole (n=298) | Fluconazole (n=240) | Intraconazole (n=58) |
+|  | Posaconazole (n=304) | Fluconazole/ Itraconazole (n=298) | Fluconazole (n=240) | Itraconazole (n=58) |
 | Body System/Preferred Term |  |  |  |  |
 | Body as a Whole - General Disorders |  |  |  |  |
 | Headache | 5 (2) | 1 (<1) | 0 | 1 (2) |
@@ -157,7 +157,7 @@ Treatment-Related Adverse Events, Occurring in Greater Than or Equal to 2% of Pa
 
 The most common treatment-related serious adverse events (1% each) in the combined prophylaxis studies were bilirubinemia, increased hepatic enzymes, hepatocellular damage, nausea, and vomiting.
 
-### Overview of Adverse Events in HIV infected subjects with OPC
+## Overview of Adverse Events in HIV infected subjects with OPC
 
 In two randomized comparative studies in OPC, the safety of posaconazole at a dose of ≤ 400 mg QD in 557 HIV infected patients was compared to the safety of fluconazole in 262 HIV infected patients at a dose of 100 mg QD.
 
@@ -275,7 +275,7 @@ Treatment-related SAEs were reported for 14% (34/239) of these patients and incl
 Posaconazole was discontinued in two patients who developed neutropenia that was considered serious and treatment-related.
 All other reported treatment-related SAEs occurred in ≤ 1% of subjects on posaconazole.
 
-Uncommon and rare treatment-related serious or medically significant adverse events reported during clinical trials in prophylaxis, OPC/rOPC or other indications with posaconazole have included adrenal insufficiency, allergic and/or hypersensitivity reactions.
+Uncommon and rare treatment related serious or medically significant adverse events reported during clinical trials in prophylaxis, OPC/rOPC or other indications with posaconazole have included adrenal insufficiency, allergic and/or hypersensitivity reactions.
 
 Rare cases of hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, and pulmonary embolus have been reported primarily among patients who had been receiving concomitant cyclosporine or tacrolimus for management of transplant rejection or graft-vs-host disease.
 
@@ -298,7 +298,7 @@ Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to 
 |  | Number (%) of Patients With ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |
 | --- | --- | --- |
 |  | Study 1 |  |
-| Laboratory Parameter | Posaconazole (n=301) | Fluconazole (n=299) |
+| Laboratory Parameter | Posaconazole N=301 | Fluconazole N=299 |
 | AST | 11/266 (4) | 13/266 (5) |
 | ALT | 47/271 (17) | 39/272 (14) |
 | Bilirubin | 24/271 (9) | 20/275 (7) |
@@ -309,7 +309,7 @@ Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to 
 | ALT | 18/289 (6) | 13/284 (5) |
 | Bilirubin | 20/290 (7) | 25/285 (9) |
 | Alkaline Phosphatase | 4/281 (1) | 1/276 (<1) |
-| AST= Aspartate Aminotransferase; ALT= Alanine Aminotransferase; CTC = Common Toxicity Criteria. |  |  |
+| CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; ALT= Alanine Aminotransferase. |  |  |
 
 The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in TABLE 17 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
 

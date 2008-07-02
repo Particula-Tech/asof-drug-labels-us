@@ -11,7 +11,7 @@ Each dose of NOXAFIL should be administered with a full meal or with a liquid nu
 
 To enhance the oral absorption of posaconazole and optimize plasma concentrations:
 
-- Each dose of NOXAFIL® Oral Suspension should be administered with a full meal or liquid nutritional supplement.
+- Each dose of NOXAFIL Oral Suspension should be administered with a full meal or liquid nutritional supplement.
   For patients who can not eat a full meal or tolerate an oral nutritional supplement, alternative antifungal therapy should be considered or patients should be monitored closely for breakthrough fungal infections.
 - Patients who have severe diarrhea or vomiting should be monitored closely for breakthrough fungal infections.
 - Co-administration of drugs that can decrease the plasma concentrations of posaconazole should generally be avoided unless the benefit outweighs the risk.

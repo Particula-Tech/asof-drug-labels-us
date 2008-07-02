@@ -111,7 +111,7 @@ Due to the variability in exposure, patients with severe renal impairment should
 
 ## Electrocardiogram Evaluation
 
-Multiple, time-matched ECGs collected over a 12-hour period were recorded at baseline and steady-state from 173 healthy male and female volunteers (18–85 years of age) administered posaconazole 400 mg BID with a high-fat meal.
+Multiple, time-matched ECGs collected over a 12-hour period were recorded at baseline and steady-state from 173 healthy male and female volunteers (18–85 years of age) administered posaconazole 400 mg BID with a high fat meal.
 In this pooled analysis, the mean QTc (Fridericia) interval change from baseline was -5 msec following administration of the recommended clinical dose.
 A decrease in the QTc(F) interval (-3 msec) was also observed in a small number of subjects (n=16) administered placebo.
 The placebo-adjusted mean maximum QTc(F) interval change from baseline was <0 msec (-8 msec).
@@ -125,7 +125,7 @@ No healthy subject administered posaconazole had a QTc(F) interval ≥500 msec o
 Posaconazole is primarily metabolized via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
 A summary of drugs studied clinically, which affect posaconazole concentrations, is provided in TABLE 3.
-(See PRECAUTIONS, Drug Interactions.)
+(See PRECAUTIONS, Drug Interactions).
 
 TABLE 3.
 Summary of the Effect of Co-administered Drugs on Posaconazole in Healthy Volunteers
@@ -136,6 +136,7 @@ Summary of the Effect of Co-administered Drugs on Posaconazole in Healthy Volunt
 | Rifabutin (UDP-G Induction) | 300 mg QD × 17 days | 200 mg (tablets) QD × 10 days | ↓43% (0.57; 0.43–0.75) | ↓49% (0.51; 0.37–0.71) | Avoid concomitant use unless the benefit outweighs the risks. |
 | Phenytoin (UDP-G Induction) | 200 mg QD × 10 days | 200 mg (tablets) QD × 10 days | ↓41% (0.59; 0.44–0.79) | ↓50% (0.50; 0.36–0.71) | Avoid concomitant use unless the benefit outweighs the risks. |
 | Cimetidine (Alteration of Gastric pH) | 400 mg BID × 10 days | 200 mg (tablets) QD × 10 days | ↓39% (0.61; 0.53–0.70) | ↓39% (0.61; 0.54–0.69) | Avoid concomitant use unless the benefit outweighs the risks. |
+| Efavirenz (UDP-G Induction) | 400 mg QD × 10 and 20 days | 400 mg (oral suspension) BID × 10 and 20 days | ↓45% (0.55; 0.47–0.66) | ↓50% (0.50; 0.43–0.60) | Avoid concomitant use unless the benefit outweighs the risks. |
 
 Co-administration of these drugs listed in TABLE 3 with posaconazole may result in lower plasma concentrations of posaconazole.
 
@@ -144,6 +145,7 @@ No clinically relevant effect on posaconazole bioavailability and/or plasma conc
 ### Effect of Posaconazole on Other Drugs
 
 In vitro studies with human hepatic microsomes and clinical studies indicate that posaconazole is an inhibitor primarily of CYP3A4.
+A clinical study in healthy volunteers also indicates that posaconazole is a strong CYP3A4 inhibitor as evidenced by a >5-fold increase in midazolam AUC.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
 A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in TABLE 4.
 (See CONTRAINDICATIONS,WARNINGS, and PRECAUTIONS, Drug Interactions.)
@@ -154,13 +156,20 @@ Summary of the Effect of Posaconazole on Co-administered Drugs in Healthy Volunt
 | Co-administered Drug (Postulated Mechanism of Interaction) | Co-administered Drug Dose/Schedule | Posaconazole Dose/Schedule | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of co-administered drug plus posaconazole to co-administered drug alone for Cmax or AUC.; 90% Cl of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% Cl of the ratio estimate) | Recommendations |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | Effect on Bioavailability of Co-administered Drugs |  |  |
+| Sirolimus (Inhibition of CYP3A4 by posaconazole) | 2 mg single oral dose | 400 mg (oral suspension) BID × 16 days | ↑ 572% (6.72; 5.62–8.03) | ↑ 788% (8.88; 7.26–10.9 | Coadministration of posaconazole with sirolimus is contraindicated (see CONTRAINDICATIONS). |
 | Cyclosporine (Inhibition of CYP3A4 by posaconazole) | Stable maintenance dose in heart transplant recipients | 200 mg (tablets) QD × 10 days | ↑ cyclosporine whole blood trough concentrations Cyclosporine dose reductions of up to 29% were required |  | At initiation of posaconazole treatment, reduce the cyclosporine dose to approximately three-fourths of the original dose. Frequent monitoring of cyclosporine whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the cyclosporine dose adjusted accordingly. |
 | Tacrolimus (Inhibition of CYP3A4 by posaconazole) | 0.05 mg/kg single oral dose | 400 mg (oral suspension) BID × 7 days | ↑ 121% (2.21; 2.01–2.42) | ↑ 358% (4.58; 4.03–5.19) | At initiation of posaconazole treatment, reduce the tacrolimus dose to approximately one-third of the original dose. Frequent monitoring of tacrolimus whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the tacrolimus dose adjusted accordingly. |
 | Rifabutin (Inhibition of CYP3A4 by posaconazole) | 300 mg QD × 17 days | 200 mg (tablets) QD × 10 days | ↑ 31% (1.31; 1.10–1.57) | ↑ 72% (1.72; 1.51–1.95) | Avoid concomitant use unless the benefit outweighs the risks. If the drugs are co-administered, frequent monitoring of rifabutin adverse effects (eg, uveitis, leukopenia) should be performed. |
 | Midazolam (Inhibition of CYP3A4 by posaconazole) | Single 30 min IV infusion of 0.05 mg/kg | 200 mg (tablets) QD × 10 days | NANA: Not applicable if administered as an IV | ↑ 83% (1.83; 1.57–2.14) | Frequent monitoring of adverse effects of benzodiazepines metabolized by CYP3A4 should be performed and dose reduction of these benzodiazepines should be considered during co-administration with posaconazole. |
+|  | 0.4 mg single IV doseThe mean terminal half-life of midazolam was increased from 3 hours to 8 to 10 hours during co-administration with posaconazole. | 200 mg (oral suspension) BID × 7 days | ↑ 30% (1.3; 1.13–1.48) | ↑ 362% (4.62; 4.02–5.3) |  |
+|  | 2 mg single oral dose | 200 mg (oral suspension) BID × 7 days | ↑ 126% (2.26; 2.02–2.53) | ↑ 362% (4.59; 4.12–5.11) |  |
+|  | 0.4 mg single IV dose | 400 mg (oral suspension) BID × 7 days | ↑ 62% (1.62; 1.41–1.86) | ↑ 524% (6.24; 5.43–7.16) |  |
 | Phenytoin (Inhibition of CYP3A4 by posaconazole) | 200 mg QD PO × 10 days | 200 mg (tablets) QD × 10 days | ↑ 16% (1.16; 0.85–1.57) | ↑ 16% (1.16; 0.84–1.59) | Frequent monitoring of phenytoin concentrations should be performed while co-administered with posaconazole and dose reduction of phenytoin should be considered. |
+| Ritonavir (Inhibition of CYP3A4 by posaconazole) | 100 mg QD × 14 days | 400 mg (oral suspension) BID × 7 days | ↑ 49% (1.49; 1.04–2.15) | ↑ 80% (1.8; 1.39–2.31) | Frequent monitoring of adverse effects and toxicity of ritonavir should be performed during co-administration with posaconazole. |
+| Atazanavir (Inhibition of CYP3A4 by posaconazole) | 300 mg QD × 14 days | 400 mg (oral suspension) BID × 7 days | ↑ 155% (2.55; 1.89–3.45) | ↑ 268% (3.68; 2.89–4.70) | Frequent monitoring of adverse effects and toxicity of Atazanavir should be performed during co-administration with posaconazole. |
+| Atazanavir/ritonavir boosted regimen (Inhibition of CYP3A4 by posaconazole) | 300 mg/100 mg QD × 14 days | 400 mg (oral suspension) BID × 7 days | ↑ 53% (1.53; 1.13–2.07) | ↑ 146% (2.46; 1.93–3.13) |  |
 
-Additional clinical studies demonstrated that no clinically significant effects on zidovudine, lamivudine, ritonavir, indinavir, or caffeine were observed when administered with posaconazole; therefore, no dose adjustments are required for these co-administered drugs.
+Additional clinical studies demonstrated that no clinically significant effects on zidovudine, lamivudine, ritonavir, indinavir, or caffeine were observed when administered with posaconazole 200 mg QD; therefore, no dose adjustments are required for these co-administered drugs when co-administered with posaconazole 200 mg QD.
 
 Posaconazole administration with glipizide does not require a dose adjustment in either drug; however, glucose concentrations decreased in some healthy volunteers administered the combination.
 Therefore, glucose concentrations should be monitored in accordance with the current standard of care for patients with diabetes when posaconazole is co-administered with glipizide.

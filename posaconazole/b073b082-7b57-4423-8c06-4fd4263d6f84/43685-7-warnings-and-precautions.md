@@ -2,7 +2,7 @@
 
 ## Hypersensitivity
 
-There is no information regarding cross-sensitivity between NOXAFIL® (posaconazole) Oral Suspension and other azole antifungal agents.
+There is no information regarding cross-sensitivity between NOXAFIL® and other azole antifungal agents.
 Caution should be used when prescribing NOXAFIL® to patients with hypersensitivity to other azoles.
 
 ## Hepatic Toxicity
@@ -22,7 +22,7 @@ Discontinuation of posaconazole must be considered if clinical signs and symptom
 ## Cyclosporine drug interaction
 
 Cases of elevated cyclosporine levels resulting in rare serious adverse events, including nephrotoxicity and leukoencephalopathy, and death were reported in clinical efficacy studies.
-Dose reduction and more frequent clinical monitoring of cyclosporine, tacrolimus, and sirolimus should be performed when posaconazole therapy is initiated.
+Dose reduction and more frequent clinical monitoring of cyclosporine, and tacrolimus, should be performed when posaconazole therapy is initiated.
 (See PRECAUTIONS, Drug Interactions.)
 
 # PRECAUTIONS
@@ -43,15 +43,15 @@ Rigorous attempts to correct potassium, magnesium, and calcium should be made be
 Patients should be advised to:
 
 - Take each dose of NOXAFIL® Oral Suspension with a full meal or liquid nutritional supplement in order to enhance absorption.
-- Inform their physician if they develop severe diarrhea or vomiting as these conditions may change blood levels of posaconazole.
-- Inform their physician if they are taking other drugs or before they begin taking other drugs as certain drugs can change blood levels.
+- Inform their physician if they develop severe diarrhea or vomiting as these conditions may decrease the plasma concentrations of posaconazole.
+- Inform their physician if they are taking other drugs or before they begin taking other drugs as certain drugs can decrease the plasma concentrations of posaconazole.
   (See CLINICAL PHARMACOLOGY, Drug Interactions.)
 
 ## Drug Interactions
 
 A summary of significant drug interactions with posaconazole that have been studied clinically are provided in TABLES 8 and 9.
 Appropriate precautions for the co-administration of these drugs with posaconazole are provided.
-(See CLINICAL PHARMACOLOGY, Drug Interactions and WARNINGS.)
+(See CLINICAL PHARMACOLOGY/Drug Interactions, CONTRAINDICATIONS and WARNINGS.)
 
 TABLE 8.
 Summary of the Effect of Co-administered Drugs on Posaconazole
@@ -61,6 +61,7 @@ Summary of the Effect of Co-administered Drugs on Posaconazole
 | Cimetidine | Avoid concomitant use unless the benefit outweighs the risks. |
 | Rifabutin | Avoid concomitant use unless the benefit outweighs the risks. |
 | Phenytoin | Avoid concomitant use unless the benefit outweighs the risks. |
+| Efavirenz | Avoid concomitant use unless the benefit outweighs the risks. |
 
 Co-administration of these drugs listed in TABLE 8 with posaconazole may result in lower plasma concentrations of posaconazole.
 
@@ -69,11 +70,14 @@ Summary of the Effect of Posaconazole on Co-administered Drugs
 
 | Co-administered Drug | Recommendations |
 | --- | --- |
+| Sirolimus | Co-administration of posaconazole with sirolimus is contraindicated. (See CLINICAL PHARMACOLOGY/Drug Interactions and CONTRAINDICATIONS.) |
 | Cyclosporine | Increased cyclosporine concentrations resulted in cyclosporine dose reductions in heart transplant patients co-administered posaconazole. At initiation of posaconazole treatment, reduce the cyclosporine dose to approximately three fourths of the original dose. Frequent monitoring of cyclosporine whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the cyclosporine dose adjusted accordingly. |
 | Tacrolimus | Posaconazole has been shown to increase Cmax and AUC of tacrolimus significantly. At initiation of posaconazole treatment, reduce the tacrolimus dose to approximately one-third of the original dose. Frequent monitoring of tacrolimus whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the tacrolimus dose adjusted accordingly. |
-| Rifabutin | Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk. However, if concomitant administration is required frequent monitoring of full blood counts and adverse events due to increased rifabutin levels (eg, uveitis) is recommended. |
+| Rifabutin | Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk. However, if concomitant administration is required frequent monitoring of full blood counts and adverse events due to increased rifabutin levels (eg, uveitis, leukopenia) is recommended. |
 | Midazolam | Frequent monitoring of adverse effects of benzodiazepines metabolized by CYP3A4 should be performed and dose reduction of these benzodiazepines should be considered during co-administration with posaconazole. |
 | Phenytoin | Frequent monitoring of phenytoin concentrations should be performed while co-administered with posaconazole and dose reduction of phenytoin should be considered. |
+| Atazanavir | Frequent monitoring of adverse effects and toxicity of atazanavir should be performed during co-administration with posaconazole. |
+| Ritonavir | Frequent monitoring of adverse effects and toxicity of ritonavir should be performed during co-administration with posaconazole. |
 
 Although not studied in vitro or in vivo, posaconazole may affect the plasma concentrations of the drugs or drug classes described in TABLE 10.
 Appropriate precautions for the co-administration of these drugs with posaconazole are provided.
@@ -84,18 +88,18 @@ Drugs Not Studied in vitro or in vivo but Likely to Result in Significant Drug I
 
 | Drug or Drug Class (CYP3A4 Substrates) | Recommendations |
 | --- | --- |
-| Terfenadine, Astemizole, Pimozide, Cisapride, Quinidine | Increased plasma concentrations of these drugs can lead to QT prolongation with rare occurrences of torsade de pointes. Co-administration with posaconazole is contraindicated. (See CONTRAINDICATIONS.) |
+| Terfenadine, Astemizole, Pimozide, Cisapride, Quinidine, Halofantrine | Increased plasma concentrations of these drugs can lead to QT prolongation with rare occurrences of torsade de pointes. Co-administration with posaconazole is contraindicated. (See CONTRAINDICATIONS.) |
 | Ergot Alkaloids | Posaconazole may increase the plasma concentration of ergot alkaloids (ergotamine and dihydroergotamine) which may lead to ergotism. Co-administration of posaconazole with ergot alkaloids is contraindicated. (See CONTRAINDICATIONS.) |
 | Vinca Alkaloids | Posaconazole may increase the plasma concentrations of vinca alkaloids (eg, vincristine and vinblastine) which may lead to neurotoxicity. Therefore, it is recommended that the dose adjustment of the vinca alkaloid be considered. |
-| Sirolimus | Frequent monitoring of sirolimus whole blood trough concentrations should be performed upon initiation, during co-administration, and at discontinuation of posaconazole treatment, with sirolimus doses reduced accordingly. |
 | HMG-CoA reductase inhibitors (statins) metabolized through CYP3A4 | It is recommended that dose reduction of statins be considered during co-administration. Increased statin concentrations in plasma can be associated with rhabdomyolysis. |
 | Calcium Channel Blockers metabolized through CYP3A4 | Frequent monitoring for adverse events and toxicity related to calcium channel blockers is recommended during co-administration. Dose reduction of calcium channel blockers may be needed. |
+| Digoxin | Increased plasma concentrations of digoxin have been reported in patients receiving digoxin and posaconazole. Therefore, monitoring of digoxin plasma concentrations is recommended during co-administration. |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No drug-related neoplasms were recorded in rats or mice treated with posaconazole for two years at doses below the maximum tolerated dose.
 In a two-year carcinogenicity study, rats were given posaconazole orally at doses up to 20 mg/kg (females), or 30 mg/kg (males).
-These doses are equivalent to 3.9 or 3.5 times the exposure achieved with a 400 mg BID regimen, respectively, based on steady-state AUC in healthy volunteers administered a high-fat meal (400 mg BID regimen).
+These doses are equivalent to 3.9 or 3.5 times the exposure achieved with a 400 mg BID regimen, respectively, based on steady-state AUC in healthy volunteers administered a high fat meal (400 mg BID regimen).
 In the mouse study, mice were treated at oral doses up to 60 mg/kg/day or 4.8 times the exposure achieved with a 400 mg BID regimen.
 
 Posaconazole was not genotoxic or clastogenic when evaluated in bacterial mutagenicity (Ames), a chromosome aberration study in human peripheral blood lymphocytes, a Chinese hamster ovary cell mutagenicity study, and a mouse bone marrow micronucleus study.
