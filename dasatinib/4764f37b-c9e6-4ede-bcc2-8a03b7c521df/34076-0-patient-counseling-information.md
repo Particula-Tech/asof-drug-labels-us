@@ -1,8 +1,58 @@
-PATIENT INFORMATION SPRYCEL® (dasatinib) Tablets
+# 17 PATIENT COUNSELING INFORMATION
+
+See FDA-Approved Patient Labeling (17.10).
+
+## 17.1 Bleeding
+
+Patients should be informed of the possibility of serious bleeding and to report immediately any signs or symptoms suggestive of hemorrhage (unusual bleeding or easy bruising).
+
+## 17.2 Myelosuppression
+
+Patients should be informed of the possibility of developing low blood cell counts; they should be instructed to report immediately should fever develop, particularly in association with any suggestion of infection.
+
+## 17.3 Fluid Retention
+
+Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, or shortness of breath) and to seek medical attention if those symptoms arise.
+
+## 17.4 Pregnancy
+
+Patients should be informed that dasatinib may cause fetal harm when administered to a pregnant woman.
+Women should be advised of the potential hazard to the fetus and to avoid becoming pregnant.
+If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.5)].
+
+## 17.5 Gastrointestinal Complaints
+
+Patients should be informed that they may experience nausea, vomiting, or diarrhea with SPRYCEL.
+If these symptoms are significant, they should seek medical attention.
+
+## 17.6 Pain
+
+Patients should be informed that they may experience headache or musculoskeletal pain with SPRYCEL.
+If these symptoms are significant, they should seek medical attention.
+
+## 17.7 Fatigue
+
+Patients should be informed that they may experience fatigue with SPRYCEL.
+If this symptom is significant, they should seek medical attention.
+
+## 17.8 Rash
+
+Patients should be informed that they may experience skin rash with SPRYCEL.
+If this symptom is significant, they should seek medical attention.
+
+## 17.9 Lactose
+
+Patients should be informed that SPRYCEL contains 135 mg of lactose monohydrate in a 100-mg daily dose and 189 mg of lactose monohydrate in a 140-mg daily dose.
+
+Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA US Patent No 6,596,746 Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1237674A1 Rev May 2008
+
+## 17.10 FDA-Approved Patient Labeling
+
+SPRYCEL® (dasatinib) Tablets
 
 What is SPRYCEL?
 
-SPRYCEL™ (dasatinib) is a prescription medicine used to treat adults who have chronic myeloid leukemia (CML) and to treat adults who have a particular form of acute lymphoblastic leukemia (ALL) called Philadelphia chromosome positive or Ph+ ALL.
+SPRYCEL (dasatinib) is a prescription medicine used to treat adults who have chronic myeloid leukemia (CML) and to treat adults who have a particular form of acute lymphoblastic leukemia (ALL) called Philadelphia chromosome positive or Ph+ ALL.
 It is intended for use in patients who are no longer benefiting from treatment with the current available therapies for these diseases (resistance), including a medicine called GLEEVEC® (imatinib mesylate).
 It may also be used in patients who experience severe side effects from GLEEVEC and are no longer able to take it (intolerance).
 The long-term benefits and toxicities of SPRYCEL are currently still being studied.
@@ -35,6 +85,7 @@ Who should not take SPRYCEL?
 - Women who are pregnant or planning to become pregnant should not take SPRYCEL (see below).
 
 What should I tell my healthcare provider before I take SPRYCEL?
+Tell your healthcare provider about all of your medical conditions, including if you:
 
 - are pregnant or planning to become pregnant.
   SPRYCEL may harm the fetus when given to a pregnant woman.
@@ -58,19 +109,24 @@ Likewise, levels of other medicines in your bloodstream can be affected by SPRYC
 Such changes can increase the side effects, or reduce the activity of the medicines you are taking, including SPRYCEL.
 
 - Medicines that increase the amount of SPRYCEL in your bloodstream are NIZORAL® (ketoconazole), SPORANOX® (itraconazole), NORVIR® (ritonavir), REYATAZ® (atazanavir sulfate), CRIXIVAN® (indinavir), VIRACEPT® (nelfinavir), INVIRASE® (saquinavir), KETEK® (telithromycin), E-MYCIN® (erythromycin), and BIAXIN® (clarithromycin).
-- Medicines that decrease the amount of SPRYCEL in your bloodstream are DECADRON® (dexamethasone), DILANTIN® (phenytoin), TEGRETOL® (carbamazepine), RIMACTANE® (rifampicin), and LUMINAL® (phenobarbital).
+- Medicines that decrease the amount of SPRYCEL in your bloodstream are DECADRON® (dexamethasone), DILANTIN® (phenytoin), TEGRETOL® (carbamazepine), RIMACTANE® (rifampin), and LUMINAL® (phenobarbital).
 - Medicines whose blood levels might be altered by SPRYCEL are SANDIMMUNE® (cyclosporine), ALFENTA® (alfentanil), FENTANYL® (fentanyl), ORAP® (pimozide), RAPAMUNE® (sirolimus), PROGRAF® (tacrolimus), and ERGOMAR® (ergotamine).
 
 SPRYCEL is best absorbed from your stomach into your bloodstream in the presence of stomach acid.
 You should avoid taking medicines that reduce stomach acid such as TAGAMET® (cimetidine), PEPCID® (famotidine), ZANTAC® (ranitidine), PRILOSEC® (omeprazole), PROTONIX® (pantoprazole sodium), NEXIUM® (esomeprazole), ACIPHEX® (rabeprazole), or PREVACID® (lansoprazole) while taking SPRYCEL.
 Medicines that neutralize stomach acid, such as MAALOX® (aluminum hydroxide/magnesium hydroxide), TUMS® (calcium carbonate), or ROLAIDS® (calcium carbonate and magnesia) may be taken up to 2 hours before or 2 hours after SPRYCEL.
 
-Since SPRYCEL therapy may cause bleeding, tell your healthcare provider if you are regularly using blood thinners, including medications such as COUMADIN® (warfarin sodium) or aspirin.
+Since SPRYCEL therapy may cause bleeding, tell your healthcare provider if you are using blood thinners, such as COUMADIN® (warfarin sodium) or aspirin.
 
-- The usual dose is 70 mg (one 70-mg tablet) twice daily, once in the morning and once in the evening, with or without a meal.
+How should I take SPRYCEL?
+
+- If you have chronic phase CML, the usual dose is 100 mg (one 100-mg tablet or two 50-mg tablets) once daily, either in the morning or in the evening.
+- If you have accelerated or blast crisis CML or Ph+ ALL, the usual dose is 70 mg (one 70-mg tablet) twice daily, once in the morning and once in the evening.
+- SPRYCEL can be taken with or without a meal.
   Try to take SPRYCEL at the same time each day.
 - Take SPRYCEL whole.
   Do not break, cut, or crush the tablets.
+- Do not drink grapefruit juice while taking SPRYCEL.
 - Depending on your response to treatment and any side effects that you may experience, your healthcare provider may adjust your dose of SPRYCEL upward or downward, or may temporarily discontinue SPRYCEL.
 - You should not change your dose or stop taking SPRYCEL without first talking with your healthcare provider.
 - If you miss a dose of SPRYCEL, take your next scheduled dose at its regular time.
@@ -85,20 +141,20 @@ It is not a comprehensive list of all side effects recorded in clinical trials w
 You should report any unusual symptoms to your healthcare provider.
 
 - Low Blood Counts: SPRYCEL may cause low red blood cell counts (anemia), low white blood cell counts (neutropenia), and low platelet counts (thrombocytopenia).
-  Your healthcare provider will monitor your blood counts frequently after you start SPRYCEL, and may adjust your dose of SPRYCEL or withhold the drug temporarily in the event your blood counts drop too low.
+  Your healthcare provider will monitor your blood counts frequently after you start SPRYCEL and may adjust your dose of SPRYCEL or withhold the drug temporarily in the event your blood counts drop too low.
   In some cases, you may need to receive transfusions of red blood cells or platelets.
   Notify your healthcare provider immediately if you develop a fever while taking SPRYCEL.
 - Bleeding: SPRYCEL may cause bleeding.
-  The most serious bleeding events observed in clinical studies included bleeding into the brain leading to death in 1% of patients, and bleeding from the gastrointestinal tract.
+  The most serious bleeding events observed in clinical studies included bleeding into the brain leading to death in <1% of patients, and bleeding from the gastrointestinal tract.
   Less severe events included bleeding from the nose, the gums, bruising of the skin, and excessive menstrual bleeding.
   Notify your healthcare provider immediately if you experience bleeding or easy bruising while taking SPRYCEL.
 - Fluid Retention: SPRYCEL may cause fluid to accumulate in your legs and around your eyes.
   In more severe cases, fluid may accumulate in the lining of your lungs, the sac around your heart, or your abdominal cavity.
   Notify your healthcare provider immediately if you experience swelling, weight gain, or increasing shortness of breath while taking SPRYCEL.
 
-Other common side effects of SPRYCEL therapy include diarrhea, skin rash, headache, fatigue, and nausea.
+Other common side effects of SPRYCEL therapy include diarrhea, headache, skin rash, nausea, fatigue, and shortness of breath.
 
-In clinical trials of over 900 patients, 7% (7 out of 100) of patients permanently stopped SPRYCEL therapy because of side effects.
+In clinical trials of 2182 patients, 10% (10 out of 100) of patients permanently stopped SPRYCEL therapy because of side effects.
 
 How will I know if SPRYCEL is working?
 
@@ -107,6 +163,8 @@ General treatment goals for patients treated with SPRYCEL include a reduction in
 
 While you are on SPRYCEL, your healthcare provider will monitor these responses through routine blood tests.
 The type and frequency of these tests will be determined by your healthcare provider and may vary depending on the status of your disease.
+
+How should I store SPRYCEL?
 
 - Store SPRYCEL (dasatinib) Tablets at room temperature, 59° to 86° F (15° to 30° C). SPRYCEL Tablets do not require refrigeration.
 - Keep the container tightly closed.
@@ -132,5 +190,4 @@ The tablet coating consists of hypromellose, titanium dioxide, and polyethylene 
 COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.
 
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA This Patient Information Leaflet has been approved by the US Food and Drug Administration.
-1200090A1 Rev July 2006
+Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA US Patent No 6,596,746 Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1237674A1X Rev May 2008
