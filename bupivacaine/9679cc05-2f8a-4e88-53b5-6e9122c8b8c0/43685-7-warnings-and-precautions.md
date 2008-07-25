@@ -107,7 +107,7 @@ Elevating the patient’s legs and positioning her on her left side will help pr
 The fetal heart rate also should be monitored continuously and electronic fetal monitoring is highly advisable.
 
 It is extremely important to avoid aortocaval compression by the gravid uterus during administrations of regional block to parturients.
-To do this, the patient must be maintained in the left lateral decubitus position or a blanket roll or sandbag may be placed beneath theright hip and the gravid uterus displaced to the left.
+To do this, the patient must be maintained in the left lateral decubitus position or a blanket roll or sandbag may be placed beneath the right hip and the gravid uterus displaced to the left.
 
 Spinal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
 Spinal anesthesia has also been reported to prolong the second stage of labor by removing the parturient’s reflex urge to bear down or by interfering with motor function.

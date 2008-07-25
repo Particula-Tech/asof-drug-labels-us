@@ -30,7 +30,7 @@ When compared to equal milligram doses of hyperbaric tetracaine, the duration of
 Addition of 0.2 mg epinephrine significantly prolongs the motor blockade and time to first postoperative narcotic with MARCAINE Spinal.
 
 Local anesthetics appear to cross the placenta by passive diffusion.
-The rate and degree of diffusionis governed by (1) the degree of plasma protein binding, (2) the degree of ionization, and (3) the degree of lipid solubility.
+The rate and degree of diffusion is governed by (1) the degree of plasma protein binding, (2) the degree of ionization, and (3) the degree of lipid solubility.
 Fetal/maternal ratios of local anesthetics appear to be inversely related to the degree of plasma protein binding, because only the free, unbound drug is available for placental transfer.
 MARCAINE with a high protein binding capacity (95%) has a low fetal/maternal ratio (0.2 to 0.4).
 The extent of placental transfer is also determined by the degree of ionization and lipid solubility of the drug.
