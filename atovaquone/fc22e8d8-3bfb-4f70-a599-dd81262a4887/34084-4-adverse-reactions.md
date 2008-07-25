@@ -94,7 +94,7 @@ In a third active-controlled study, MALARONE (n = 110) was compared with chloroq
 The mean duration of exposure was 23 days for MALARONE, 46 days for chloroquine, and 43 days for proguanil, reflecting the different recommended dosage regimens for these products.
 Fewer patients treated with MALARONE reported abdominal pain (2% vs. 7%) or nausea (<1% vs. 7%) than children who received chloroquine/proguanil.
 Oral ulceration (2% vs. 2%), vivid dreams (2% vs. <1%), and blurred vision (0% vs. 2%) occurred in similar proportions of patients receiving either MALARONE or chloroquine/proguanil, respectively.
-Two patients discontinued prophylaxis with chloroquine/proguanil due to adverse events, while none of those receiving MALARONE discontinued due toadverse events.
+Two patients discontinued prophylaxis with chloroquine/proguanil due to adverse events, while none of those receiving MALARONE discontinued due to adverse events.
 
 ## Post-Marketing Adverse Reactions
 
@@ -109,15 +109,19 @@ Pancytopenia in patients with severe renal impairment treated with proguanil.
 
 ### Immune System Disorders
 
-Allergic reactions including angioedema, urticaria, and rare cases of anaphylaxis.
+Allergic reactions including angioedema, urticaria, and rare cases of anaphylaxis and vasculitis.
 
 ### Nervous System Disorders
 
 Rare cases of seizures and psychotic events (such as hallucinations); however, a causal relationship has not been established.
 
+### Gastrointestinal Disorders
+
+Stomatitis.
+
 ### Hepatobiliary Disorders
 
-Elevated liver function tests and rare cases of hepatitis; a single case of hepatic failure requiring transplant has been reported.
+Elevated liver function tests and rare cases of hepatitis, cholestasis; a single case of hepatic failure requiring transplant has been reported.
 
 ### Skin and Subcutaneous Tissue Disorders
 

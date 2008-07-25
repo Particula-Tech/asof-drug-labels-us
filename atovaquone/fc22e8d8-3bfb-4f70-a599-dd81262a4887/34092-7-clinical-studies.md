@@ -76,7 +76,7 @@ Blood smears were obtained weekly and any time malaria was suspected.
 Nineteen of the 165 children given MALARONE and 18 of 165 patients given placebo withdrew from the study for reasons other than parasitemia (primary reason was lost to follow-up).
 In the per-protocol population, 1 out of 150 patients (<1%) who received MALARONE developed P. falciparum parasitemia while receiving prophylaxis with MALARONE compared with 31 (22%) of the 144 placebo recipients.
 
-In a 10-week study in 175 South African subjects who moved into malaria-endemic areas and were given prophylaxis with 1 MALARONE Tablet daily, parasitemia developed in 1 subject who missed several doses of medication.
+In a 10-week study in 175 South African subjects who moved into malaria-endemic areas and were given prophylaxis with 1 MALARONE Tablet daily, parasitemia developed in 1 subject who missed several doses ofmedication.
 Since no placebo control was included, the incidence of malaria in this study was not known.
 
 Two active-controlled studies were conducted in non-immune travelers who visited a malaria-endemic area.
@@ -122,7 +122,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2007, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
-December 2007 MLR:1PI
+June 2008 MLR:3PI

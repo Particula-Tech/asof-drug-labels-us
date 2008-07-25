@@ -132,7 +132,7 @@ Concomitant treatment with metoclopramide has also been associated with decrease
 Concomitant administration of rifampin or rifabutin is known to reduce atovaquone levels by approximately 50% and 34%, respectively (see PRECAUTIONS: Drug Interactions).
 The mechanisms of these interactions are unknown.
 
-Concomitant administration of atovaquone and indinavir results in a decrease in the Cmin of indinavir (23% decrease [90% CI: 8%, 35%]).
+Concomitant administration of atovaquone (750 mg BID with food for 14 days) and indinavir (800 mg TID without food for 14 days) did not result in any change in the steady-state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI 8%, 35%]).
 Caution should be exercised when prescribing atovaquone with indinavir due to the decrease in trough levels of indinavir.
 
 Atovaquone is highly protein bound (>99%) but does not displace other highly protein-bound drugs in vitro, indicating significant drug interactions arising from displacement are unlikely (see PRECAUTIONS: Drug Interactions).

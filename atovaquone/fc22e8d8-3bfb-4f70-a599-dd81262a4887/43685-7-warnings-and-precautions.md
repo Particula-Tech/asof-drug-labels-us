@@ -46,6 +46,7 @@ The concomitant administration of MALARONE and rifampin or rifabutin is not reco
 Proguanil may potentiate the anticoagulant effect of warfarin and other coumarin-based anticoagulants.
 The mechanism of this potential drug interaction has not been established.
 Caution is advised when initiating or withdrawing malaria prophylaxis or treatment with MALARONE in patients on continuous treatment with coumarin-based anticoagulants.
+When these products are administered concomitantly, suitable coagulation tests should be closely monitored.
 
 Atovaquone is highly protein bound (>99%) but does not displace other highly protein-bound drugs in vitro, indicating significant drug interactions arising from displacement are unlikely.
 
