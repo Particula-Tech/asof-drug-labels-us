@@ -19,7 +19,7 @@ SOLU-CORTEF 100 mg plain does not contain diluent (see DOSAGE and ADMINISTRATION
 | --- | --- | --- | --- | --- |
 | ACT-O-VIAL® System (Single-Dose Vial) in four strengths: |  |  |  |  |
 |  | 100 mg ACT-O-VIAL | 250 mg ACT-O-VIAL | 500 mg ACT-O-VIAL | 1000 mg ACT-O-VIAL |
-| Hydrocortisone sodium succinate | equiv. to 100 mg Hydrocor- tisone | equiv. to 250 mg Hydrocor- tisone | equiv. to 500 mg Hydrocor- tisone | equiv. to 1000 mg Hydrocor- tisone |
+| Hydrocortisone sodium succinate | equiv. to 100 mg Hydrocortisone | equiv. to 250 mg Hydrocortisone | equiv. to 500 mg Hydrocortisone | equiv. to 1000 mg Hydrocortisone |
 | Monobasic sodium phosphate anhydrous | 0.8 mg | 2 mg | 4 mg | 8 mg |
 | Dibasic sodium phosphate dried | 8.73 mg | 21.8 mg | 44 mg | 87.32 mg |
 | Benzyl alcohol added as preservative | 18.1 mg | 16.4 mg | 33.4 mg | 66.9 mg |

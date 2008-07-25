@@ -11,7 +11,7 @@ Although adverse effects associated with high dose, short-term corticoid therapy
 Prophylactic antacid therapy may be indicated.
 
 When high dose hydrocortisone therapy must be continued beyond 48–72 hours, hypernatremia may occur.
-Under such circumstances it may be desirable to replace SOLUCORTEF with a corticoid such as methylprednisolone sodium succinate which causes little or no sodium retention.
+Under such circumstances it may be desirable to replace SOLU-CORTEF with a corticoid such as methylprednisolone sodium succinate which causes little or no sodium retention.
 
 The initial dose of SOLU-CORTEF Sterile Powder is 100 mg to 500 mg, depending on the severity of the condition.
 This dose may be repeated at intervals of 2, 4 or 6 hours as indicated by the patient's response and clinical condition.

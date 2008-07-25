@@ -5,7 +5,7 @@ There have been rare reports of deaths, primarily in pre-term infants, associate
 The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
 Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
 The amount of benzyl alcohol at which toxicity may occur is unknown.
-If the patient requires more than the recommended dosages of other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS, Pediatric Use)
+If the patient requires more than the recommended dosages of other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS, Pediatric Use).
 
 In patients on corticosteroid therapy subjected to unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated.
 
@@ -17,6 +17,9 @@ These infections may be mild, but can be severe and at times fatal.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.2
 
 Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
+
+Results from one multicenter, randomized, placebo controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+High doses of systemic corticosteroids, including SOLU-CORTEF, should not be used for the treatment of traumatic brain injury.
 
 ## Usage in pregnancy
 
@@ -37,7 +40,7 @@ The use of SOLU-CORTEF Sterile Powder in active tuberculosis should be restricte
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
-Because rare instances of anaphylactoid reactions (eg, bronchospasm) have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug.
+Because rare instances of anaphylactoid reactions (e.g., bronchospasm) have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug.
 
 Persons who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
 Chicken pox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
@@ -59,7 +62,7 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 
 This product contains benzyl alcohol as a preservative.
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The "gasping syndrome", (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
+The "gasping syndrome" (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine), has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, Bradycardia, and cardiovascular collapse.
 Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 Pre-mature and low-birth-weight infants, as well as patients receiving high doses, may be more likely to develop toxicity.
@@ -86,7 +89,7 @@ Discontinuation of corticosteroids may result in clinical remission.
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-(See DOSAGE AND ADMINISTRATION).
+(See DOSAGE AND ADMINISTRATION.)
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (eg, myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (eg, pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.

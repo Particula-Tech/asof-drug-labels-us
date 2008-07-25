@@ -2,7 +2,7 @@ For Intravenous or Intramuscular Administration
 
 # ACTIONS
 
-Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have saltretaining properties, are used as replacement therapy in adrenocortical deficiency states.
+Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states.
 Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems.
 
 Glucocorticoids cause profound and varied metabolic effects.
@@ -36,4 +36,4 @@ When reconstituted as directed, pH's of the solutions range from 7 to 8 and the 
 
 Rx only
 
-LAB-0121-4.0 June 2007
+LAB-0121-5.0 May 2008
