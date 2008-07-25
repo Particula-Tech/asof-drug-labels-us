@@ -4,11 +4,11 @@
 
 Average plasma concentrations (mcg/mL) of ertapenem following a single 30-minute infusion of a 1 g intravenous (IV) dose and administration of a single 1 g intramuscular (IM) dose in healthy young adults are presented in Table 1.
 
-Table 1 Plasma Concentrations of Ertapenem in Adults After Single Dose Administration
+Table 1: Plasma Concentrations of Ertapenem in Adults After Single Dose Administration
 
-|  | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dose/Route | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 18 hr | 24 hr |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 | 1 g IVInfused at a constant rate over 30 minutes | 155 | 115 | 83 | 48 | 31 | 20 | 9 | 3 | 1 |
 | 1 g IM | 33 | 53 | 67 | 57 | 40 | 27 | 13 | 4 | 2 |
 
@@ -20,20 +20,20 @@ There is no accumulation of ertapenem following multiple IV or IM 1 g daily dose
 
 Average plasma concentrations (mcg/mL) of ertapenem in pediatric patients are presented in Table 2.
 
-Table 2 Plasma Concentrations of Ertapenem in Pediatric Patients after a Single IVInfused at a constant rate over 30 minutes Dose Administration
+Table 2: Plasma Concentrations of Ertapenem in Pediatric Patients after Single IVInfused at a constant rate over 30 minutes Dose Administration
 
-| Age Group | Dose | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 24 hr |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Age Group | Dose | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |
 | 3 to 23 months | 15 mg/kgup to a maximum dose of 1 g/day | 103.8 | 57.3 | 43.6 | 23.7 | 13.5 | 8.2 | 2.5 | - |
-| 20 mg/kg | 126.8 | 87.6 | 58.7 | 28.4 | - | 12.0 | 3.4 | 0.4 |  |
-| 40 mg/kgup to a maximum dose of 2 g/day | 199.1 | 144.1 | 95.7 | 58.0 | - | 20.2 | 7.7 | 0.6 |  |
+|  | 20 mg/kg | 126.8 | 87.6 | 58.7 | 28.4 | - | 12.0 | 3.4 | 0.4 |
+|  | 40 mg/kgup to a maximum dose of 2 g/day | 199.1 | 144.1 | 95.7 | 58.0 | - | 20.2 | 7.7 | 0.6 |
 | 2 to 12 years | 15 mg/kg | 113.2 | 63.9 | 42.1 | 21.9 | 12.8 | 7.6 | 3.0 | - |
-| 20 mg/kg | 147.6 | 97.6 | 63.2 | 34.5 | - | 12.3 | 4.9 | 0.5 |  |
-| 40 mg/kg | 241.7 | 152.7 | 96.3 | 55.6 | - | 18.8 | 7.2 | 0.6 |  |
+|  | 20 mg/kg | 147.6 | 97.6 | 63.2 | 34.5 | - | 12.3 | 4.9 | 0.5 |
+|  | 40 mg/kg | 241.7 | 152.7 | 96.3 | 55.6 | - | 18.8 | 7.2 | 0.6 |
 | 13 to 17 years | 20 mg/kg | 170.4 | 98.3 | 67.8 | 40.4 | - | 16.0 | 7.0 | 1.1 |
-| 1 gBased on three patients receiving 1 g ertapenem who volunteered for pharmacokinetic assessment in one of the two safety and efficacy studies | 155.9 | 110.9 | 74.8 | - | 24.0 | - | 6.2 | - |  |
-| 40 mg/kg | 255.0 | 188.7 | 127.9 | 76.2 | - | 31.0 | 15.3 | 2.1 |  |
+|  | 1 gBased on three patients receiving 1 g ertapenem who volunteered for pharmacokinetic assessment in one of the two safety and efficacy studies | 155.9 | 110.9 | 74.8 | - | 24.0 | - | 6.2 | - |
+|  | 40 mg/kg | 255.0 | 188.7 | 127.9 | 76.2 | - | 31.0 | 15.3 | 2.1 |
 
 ### Absorption
 
@@ -50,7 +50,7 @@ The apparent volume of distribution at steady state (Vss) of ertapenem in adults
 The concentrations of ertapenem achieved in suction-induced skin blister fluid at each sampling point on the third day of 1 g once daily IV doses are presented in Table 3.
 The ratio of AUC0-24 in skin blister fluid/AUC0-24 in plasma is 0.61.
 
-Table 3 Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at each Sampling Point on the Third Day of 1-g Once Daily IV Doses
+Table 3: Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at each Sampling Point on the Third Day of 1-g Once Daily IV Doses
 
 | 0.5 hr | 1 hr | 2 hr | 4 hr | 8 hr | 12 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -192,11 +192,11 @@ The disk diffusion interpretive criteria should be interpreted according to crit
 For anaerobic bacteria, the susceptibility to ertapenem as MICs can be determined by standardized test methods(4).
 The MIC values obtained should be interpreted according to criteria provided in Table 4.
 
-Table 4 Susceptibility Interpretive Criteria for Ertapenem
+Table 4: Susceptibility Interpretive Criteria for Ertapenem
 
-| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding MIC results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | S | I | R | S | I | R |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding MIC results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
 | Enterobacteriaceae and Staphylococcus spp. | ≤2.0 | 4.0 | ≥8.0 | ≥19 | 16-18 | ≤15 |
 | Haemophilus spp. | ≤0.5 | - | - | ≥19 | - | - |
 | Streptococcus pneumoniaeStreptococcus pneumoniae that are susceptible to penicillin (penicillin MIC ≤0.06 μg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.,Streptococcus pneumoniae that are susceptible to penicillin (1-μg oxacillin disk zone diameter ≥20 mm), can be considered susceptible to ertapenem. Isolates with 1-μg oxacillin zone diameter ≤19 mm should be tested against ertapenem using an MIC method. | ≤1.0 | - | - | ≥19 | - | - |
@@ -227,7 +227,7 @@ QC strains are very stable strains which will give a standard and repeatable sus
 The specific strains used for microbiological quality control are not clinically significant.
 Standard ertapenem powder should provide the following range of values noted in Table 5.
 
-Table 5 Acceptable Quality Control Ranges for Ertapenem
+Table 5: Acceptable Quality Control Ranges for Ertapenem
 
 | Microorganism | Minimum Inhibitory Concentrations MIC Range (µg/mL) | Disk Diffusion Zone Diameter (mm) |
 | --- | --- | --- |

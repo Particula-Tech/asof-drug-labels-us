@@ -13,7 +13,7 @@ OTHER THERAPY MAY ALSO BE ADMINISTERED AS INDICATED.
 Seizures and other CNS adverse experiences have been reported during treatment with INVANZ.
 (See PRECAUTIONS and ADVERSE REACTIONS.)
 
-Carbapenems may reduce serum valproic acid concentrations to subtherapeutic levels, resulting in loss of seizure control.
+Carbapenems, including ertapenem, may reduce serum valproic acid concentrations to subtherapeutic levels, resulting in loss of seizure control.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
 Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop below the therapeutic range or a seizure occurs.
 (See PRECAUTIONS, Drug Interactions.)

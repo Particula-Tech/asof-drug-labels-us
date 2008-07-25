@@ -9,7 +9,7 @@ Ertapenem was discontinued due to adverse experiences in 4.7% of patients.
 Table 6 shows the incidence of adverse experiences reported in ≥1.0% of patients in these studies.
 The most common drug-related adverse experiences in patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, were diarrhea (5.5%), infused vein complication (3.7%), nausea (3.1%), headache (2.2%), vaginitis in females (2.1%), phlebitis/thrombophlebitis (1.3%), and vomiting (1.1%).
 
-Table 6 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Adult Patients Treated With INVANZ in Clinical Studies
+Table 6: Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Adult Patients Treated With INVANZ in Clinical Studies
 
 | Adverse Events | (N=802) | (N=774) | (N=1152) | (N=942) |
 | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ In a clinical trial for the treatment of diabetic foot infections in which 289 a
 In a clinical study in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of ertapenem 1 hour prior to surgery and were then followed for safety 14 days post surgery, the overall adverse experience profile was generally comparable to that observed for ertapenem in previous clinical trials.
 Table 7 shows the incidence of adverse experiences other than those previously described above for ertapenem, regardless of causality, reported in ≥1.0% of patients in this study.
 
-Table 7 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Adult Patients Treated With INVANZ for Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
+Table 7: Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Adult Patients Treated With INVANZ for Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
 
 | Adverse Events | INVANZ 1 g (N= 476) | Cefotetan2 g (N= 476) |
 | --- | --- | --- |
@@ -127,7 +127,7 @@ The overall adverse experience profile in pediatric patients is comparable to th
 Table 8 shows the incidence of adverse experiences reported in ≥1.0% of pediatric patients in clinical studies.
 The most common drug-related adverse experiences in pediatric patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, were diarrhea (6.5%), infusion site pain (5.5%), infusion site erythema (2.6%), vomiting (2.1%).
 
-Table 8 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Pediatric Patients Treated With INVANZ in Clinical Studies
+Table 8: Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Pediatric Patients Treated With INVANZ in Clinical Studies
 
 | Adverse Events | (N=384) | (N=100) | (N=24) |
 | --- | --- | --- | --- |
@@ -201,12 +201,12 @@ Laboratory adverse experiences that were reported during therapy in ≥1.0% of a
 Drug-related laboratory adverse experiences that were reported during therapy in ≥1.0% of adult patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, in clinical studies were ALT increased (6.0%), AST increased (5.2%), serum alkaline phosphatase increased (3.4%), platelet count increased (2.8%), and eosinophils increased (1.1%).
 Ertapenem was discontinued due to laboratory adverse experiences in 0.3% of patients.
 
-Table 9 IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Adult Patients Treated With INVANZ in Clinical Studies
+Table 9: IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Adult Patients Treated With INVANZ in Clinical Studies
 
-| ALT increased | 8.8 | 7.3 | 8.3 | 6.9 |
+| Adverse laboratory experiences | (nNumber of patients with one or more laboratory tests=766) | (n=755) | (n=1122) | (n=920) |
 | --- | --- | --- | --- | --- |
 |  | INVANZIncludes Phase IIb/III Complicated intra-abdominal infections, Complicated skin and skin structure infections and Acute pelvic infections studies 1 g daily | Piperacillin/ Tazobactam 3.375 g q6h | INVANZIncludes Phase IIb/III Community acquired pneumonia and Complicated urinary tract infections, and Phase IIa studies 1 g daily | Ceftriaxone 1 or 2 g daily |
-| Adverse laboratory experiences | (nNumber of patients with one or more laboratory tests=766) | (n=755) | (n=1122) | (n=920) |
+| ALT increased | 8.8 | 7.3 | 8.3 | 6.9 |
 | AST increased | 8.4 | 8.3 | 7.1 | 6.5 |
 | Serum albumin decreased | 1.7 | 1.5 | 0.9 | 1.6 |
 | Serum alkaline phosphatase increased | 6.6 | 7.2 | 4.3 | 2.8 |
@@ -238,12 +238,12 @@ Additional laboratory adverse experiences that were reported during therapy and 
 Laboratory adverse experiences that were reported during therapy in ≥1.0% of pediatric patients treated with INVANZ in clinical studies are presented in Table 10.
 Drug-related laboratory adverse experiences that were reported during therapy in ≥2.0% of pediatric patients treated with INVANZ, including those who were switched to therapy with an oral antimicrobial, in clinical studies were neutrophil count decreased (3.0%), ALT increased (2.2%), and AST increased (2.1%).
 
-Table 10 IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test; where at least 300 patients had the test (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Pediatric Patients Treated With INVANZ in Clinical Studies
+Table 10: IncidenceNumber of patients with laboratory adverse experiences/Number of patients with the laboratory test; where at least 300 patients had the test (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥1.0% of Pediatric Patients Treated With INVANZ in Clinical Studies
 
-| ALT Increased | 3.8 | 1.1 | 4.3 |
+| Adverse laboratory experiences | (nNumber of patients with one or more laboratory tests=379) | (n=97) | (n=24) |
 | --- | --- | --- | --- |
 |  | INVANZ | Ceftriaxone | Ticarcillin/ Clavulanate |
-| Adverse laboratory experiences | (nNumber of patients with one or more laboratory tests=379) | (n=97) | (n=24) |
+| ALT Increased | 3.8 | 1.1 | 4.3 |
 | Alkaline Phosphatase Increased | 1.1 | 0.0 | 0.0 |
 | AST Increased | 3.8 | 1.1 | 4.3 |
 | Eosinophil Count Increased | 1.1 | 2.1 | 0.0 |

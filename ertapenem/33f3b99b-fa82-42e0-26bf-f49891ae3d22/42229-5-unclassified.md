@@ -4,7 +4,7 @@ For Intravenous or Intramuscular Use
 
 INSTRUCTIONS FOR USE OF INVANZ®Registered trademark of MERCK & CO., Inc. COPYRIGHT © 2006 MERCK & CO., Inc. All rights reserved
 
-(Ertapenem for Injection) IN ADD-Vantage®Registered trademark of Hospira Laboratories, Inc VIALS For I.V.
+(Ertapenem for Injection) IN ADD-Vantage® VIALS For I.V.
 Use Only.
 
 INSTRUCTIONS FOR USE
@@ -87,8 +87,8 @@ By: Laboratories Merck Sharp & Dohme-Chibret
 
 US Patent Nos.: 5,478,820; 5,952,323; 5,652,233
 
-Issued December 2007
+Issued February 2008
 
-9709705
+9709706
 
-736A-12/07 515012Z
+123A-02/08 515016Z

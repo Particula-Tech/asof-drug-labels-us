@@ -5,7 +5,7 @@
    Seventh Edition; Approved Standard, CLSI Document M7-A7.
    Clinical and Laboratory Standards Institute, Wayne, PA, January 2006.
 2. Clinical And Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing– Sixteenth Informational Supplement.
+   Performance Standards for Antimicrobial Susceptibility Testing – Sixteenth Informational Supplement.
    Approved Standard, CLSI Document M100-S16.
    Clinical and Laboratory Standards Institute, Wayne, PA, January 2006.
 3. Clinical and Laboratory Standards Institute (CLSI).
@@ -24,8 +24,8 @@ By: Laboratories Merck Sharp & Dohme-Chibret
 
 US Patent Nos.: 5,478,820; 5,952,323; 5,652,233
 
-Issued December 2007
+Issued February 2008
 
-9709705
+9709706
 
-736A-12/07 515012Z
+123A-02/08 515016Z
