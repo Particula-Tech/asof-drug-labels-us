@@ -1,10 +1,10 @@
 # INDICATIONS AND USAGE
 
-ZYVOX formulations are indicated in the treatment of the following infections caused by susceptible strains of the designated microorganisms (see PRECAUTIONS, Pediatric Use and DOSAGE AND ADMINISTRATION).
+ZYVOX formulations are indicated in the treatment of the following infections caused by susceptible strains of the designated microorganisms (see PRECAUTIONS, Pediatric Use and DOSAGE AND ADMINISTRATION and CLINICAL STUDIES).
 Linezolid is not indicated for the treatment of Gram-negative infections.
-It is critical that specific Gram-negative therapy be initiated immediately if a concomitant Gram-negative pathogen is documented or suspected (see WARNINGS and CLINICAL STUDIES).
+It is critical that specific Gram-negative therapy be initiated immediately if a concomitant Gram-negative pathogen is documented or suspected (see WARNINGS).
 
-Vancomycin-Resistant Enterococcus faecium infections, including cases with concurrent bacteremia (see CLINICAL STUDIES).
+Vancomycin-Resistant Enterococcus faecium infections, including cases with concurrent bacteremia.
 
 Nosocomial pneumonia caused by Staphylococcus aureus (methicillin-susceptible and -resistant strains), or Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]).
 

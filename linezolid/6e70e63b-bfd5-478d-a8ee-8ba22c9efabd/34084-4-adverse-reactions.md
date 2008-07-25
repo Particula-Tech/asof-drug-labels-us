@@ -94,9 +94,9 @@ Table 9 shows the incidence of drug-related adverse events reported in more than
 Table 9.
 Incidence (%) of Drug-related Adverse Events Occurring in >1% of Pediatric Patients (and >1 Patient) in Either Treatment Group in Comparator-Controlled Clinical Trials
 
-| ZYVOX (n=248) | Cefadroxil (n = 251) | ZYVOX (n = 215) | Vancomycin (n=101) |  |
+| ZYVOX (n=248) | Cefadroxil (n=251) | ZYVOX (n=215) | Vancomycin (n=101) |  |
 | --- | --- | --- | --- | --- |
-| Event | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received ZYVOX 10 mg/kg PO q12h or cefadroxil 15 mg/kg PO q12h. Patients 12 years or older received ZYVOX 600 mg PO q12h or cefadroxil 500 mg PO q12h |  | All Other IndicationsPatients from birth through 11 years of age received ZYVOX 10 mg/kg IV/PO q8h or vancomycin 10 to 15 mg/kg IV q6–24h, depending on age and renal clearance. |  |
+| Event | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received ZYVOX 10 mg/kg PO q12h or cefadroxil 15 mg/kg PO q12h. Patients 12 years or older received ZYVOX 600 mg PO q12h or cefadroxil 500 mg PO q12h. |  | All Other IndicationsPatients from birth through 11 years of age received ZYVOX 10 mg/kg IV/PO q8h or vancomycin 10 to 15 mg/kg IV q6–24h, depending on age and renal clearance. |  |
 | % of patients with ≥1 drug-related adverse event | 19.2 | 14.1 | 18.8 | 34.3 |
 | % of patients discontinuing due to a drug-related adverse event | 1.6 | 2.4 | 0.9 | 6.1 |
 | Diarrhea | 5.7 | 5.2 | 3.8 | 6.1 |
