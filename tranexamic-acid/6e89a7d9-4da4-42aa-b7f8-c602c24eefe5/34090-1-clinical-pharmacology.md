@@ -12,18 +12,11 @@ On the other hand, tranexamic acid in concentrations of 10 mg and 1 mg per mL bl
 The plasma protein binding of tranexamic acid is about 3% at therapeutic plasma levels and seems to be fully accounted for by its binding to plasminogen.
 Tranexamic acid does not bind to serum albumin.
 
-Absorption of tranexamic acid after oral administration in humans represents approximately 30 to 50% of the ingested dose and bioavailability is not affected by food intake.
-
 After an intravenous dose of 1 g, the plasma concentration time curve shows a triexponential decay with a half-life of about 2 hours for the terminal elimination phase.
 The initial volume of distribution is about 9 to 12 liters.
 Urinary excretion is the main route of elimination via glomerular filtration.
 Overall renal clearance is equal to overall plasma clearance (110 to 116 mL/min) and more than 95% of the dose is excreted in the urine as the unchanged drug.
 Excretion of tranexamic acid is about 90% at 24 hours after intravenous administration of 10 mg per kg body weight.
-After oral administration of 10 to 15 mg per kg body weight, the cumulative urinary excretion at 24 hours is 39% and at 48 hours, 41% of the ingested dose or 78% and 82% of the absorbed material.
-Only a small fraction of the drug is metabolized.
-After oral administration, 1% of the dicarboxylic acid and 0.5% of the acetylated compound are excreted.
-
-The plasma peak level after 1 g orally is 8 mg per L and after 2 g, 15 mg per L, both obtained three hours after dosing.
 
 An antifibrinolytic concentration of tranexamic acid remains in different tissues for about 17 hours, and in the serum, up to seven or eight hours.
 

@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-CYKLOKAPRON Tablets and Injection are contraindicated:
+CYKLOKAPRON Injection is contraindicated:
 
 1. In patients with acquired defective color vision, since this prohibits measuring one endpoint that should be followed as a measure of toxicity (see WARNINGS).
 2. In patients with subarachnoid hemorrhage.
