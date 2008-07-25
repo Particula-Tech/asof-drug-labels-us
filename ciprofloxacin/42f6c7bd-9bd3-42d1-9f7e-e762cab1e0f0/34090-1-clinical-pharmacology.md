@@ -1,0 +1,89 @@
+# CLINICAL PHARMACOLOGY
+
+## Absorption
+
+CIPRO XR tablets are formulated to release drug at a slower rate compared to immediate-release tablets.
+Approximately 35% of the dose is contained within an immediate-release component, while the remaining 65% is contained in a slow-release matrix.
+
+Maximum plasma ciprofloxacin concentrations are attained between 1 and 4 hours after dosing with CIPRO XR.
+In comparison to the 250 mg and 500 mg ciprofloxacin immediate-release BID treatment, the Cmax of CIPRO XR 500 mg and 1000 mg once daily are higher than the corresponding BID doses, while the AUCs over 24 hours are equivalent.
+
+The following table compares the pharmacokinetic parameters obtained at steady state for these four treatment regimens (500 mg QD CIPRO XR versus 250 mg BID ciprofloxacin immediate-release tablets and 1000 mg QD CIPRO XR versus 500 mg BID ciprofloxacin immediate-release).
+
+Ciprofloxacin Pharmacokinetics (Mean ± SD) Following CIPRO® and CIPRO XR Administration
+
+|  | Cmax (mg/L) | AUC0-24h (mg•h/L) | T1/2 (hr) | Tmax (hr)median (range) |
+| --- | --- | --- | --- | --- |
+| CIPRO XR 500 mg QD | 1.59 ± 0.43 | 7.97 ± 1.87 | 6.6 ± 1.4 | 1.5 (1.0 – 2.5) |
+| CIPRO 250 mg BID | 1.14 ± 0.23 | 8.25 ± 2.15 | 4.8 ± 0.6 | 1.0 (0.5 – 2.5) |
+| CIPRO XR 1000 mg QD | 3.11 ± 1.08 | 16.83 ± 5.65 | 6.31 ± 0.72 | 2.0 (1 – 4) |
+| CIPRO 500 mg BID | 2.06 ± 0.41 | 17.04 ± 4.79 | 5.66 ± 0.89 | 2.0 (0.5 – 3.5) |
+
+Results of the pharmacokinetic studies demonstrate that CIPRO XR may be administered with or without food (e.g. high-fat and low-fat meals or under fasted conditions).
+
+## Distribution
+
+The volume of distribution calculated for intravenous ciprofloxacin is approximately 2.1 – 2.7 L/kg.
+Studies with the oral and intravenous forms of ciprofloxacin have demonstrated penetration of ciprofloxacin into a variety of tissues.
+The binding of ciprofloxacin to serum proteins is 20% to 40%, which is not likely to be high enough to cause significant protein binding interactions with other drugs.
+Following administration of a single dose of CIPRO XR, ciprofloxacin concentrations in urine collected up to 4 hours after dosing averaged over 300 mg/L for both the 500 mg and 1000 mg tablets; in urine excreted from 12 to 24 hours after dosing, ciprofloxacin concentration averaged 27 mg/L for the 500 mg tablet, and 58 mg/L for the 1000 mg tablet.
+
+## Metabolism
+
+Four metabolites of ciprofloxacin were identified in human urine.
+The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
+The primary metabolites are oxociprofloxacin (M3) and sulfociprofloxacin (M2), each accounting for roughly 3% to 8% of the total dose.
+Other minor metabolites are desethylene ciprofloxacin (M1), and formylciprofloxacin (M4).
+The relative proportion of drug and metabolite in serum corresponds to the composition found in urine.
+Excretion of these metabolites was essentially complete by 24 hours after dosing.
+Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
+Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (seeCONTRAINDICATIONS; WARNINGS; PRECAUTIONS: Drug Interactions).
+
+## Elimination
+
+The elimination kinetics of ciprofloxacin are similar for the immediate-release and the CIPRO XR tablet.
+In studies comparing the CIPRO XR and immediate-release ciprofloxacin, approximately 35% of an orally administered dose was excreted in the urine as unchanged drug for both formulations.
+The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
+The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
+Thus, active tubular secretion would seem to play a significant role in its elimination.
+Co-administration of probenecid with immediate-release ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing with the immediate-release tablet, only a small amount of the dose administered is recovered from the bile as unchanged drug.
+An additional 1% to 2% of the dose is recovered from the bile in the form of metabolites.
+Approximately 20% to 35% of an oral dose of immediate-release ciprofloxacin is recovered from the feces within 5 days after dosing.
+This may arise from either biliary clearance or transintestinal elimination.
+
+## Special Populations
+
+Pharmacokinetic studies of the immediate-release oral tablet (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (> 65 years) as compared to young adults.
+Cmax is increased 16% to 40%, and mean AUC is increased approximately 30%, which can be at least partially attributed to decreased renal clearance in the elderly.
+Elimination half-life is only slightly (~20%) prolonged in the elderly.
+These differences are not considered clinically significant.
+(See PRECAUTIONS, Geriatric Use.)
+
+In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
+No dose adjustment is required for patients with uncomplicated urinary tract infections receiving 500 mg CIPRO XR.
+For complicated urinary tract infection and acute uncomplicated pyelonephritis, where 1000 mg is the appropriate dose, the dosage of CIPRO XR should be reduced to CIPRO XR 500 mg q24h in patients with creatinine clearance below 30 mL/min.
+(See DOSAGE AND ADMINISTRATION.)
+
+In studies in patients with stable chronic cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
+The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, however, have not been fully elucidated.
+(See DOSAGE AND ADMINISTRATION.)
+
+## Drug-drug Interactions
+
+Concomitant administration with tizanidine is contraindicated.
+(See CONTRAINDICATIONS).
+Previous studies with immediate-release ciprofloxacin have shown that concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
+Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
+Absorption of ciprofloxacin is significantly reduced by concomitant administration of multivalent cation-containing products such as magnesium/aluminum antacids, sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, or products containing calcium, iron, or zinc.
+(See WARNINGS:PRECAUTIONS, Drug Interactions and Information for Patients, and DOSAGE AND ADMINISTRATION.)
+
+Antacids: When CIPRO XR given as a single 1000 mg dose was administered two hours before, or four hours after a magnesium/aluminum-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 18 healthy volunteers, there was a 4% and 19% reduction, respectively, in the mean Cmax of ciprofloxacin.
+The reduction in the mean AUC was 24% and 26%, respectively.
+CIPRO XR should be administered at least 2 hours before or 6 hours after antacids containing magnesium or aluminum, as well as sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, metal cations such as iron, and multivitamin preparations with zinc.
+Although CIPRO XR may be taken with meals that include milk, concomitant administration with dairy products or with calcium-fortified juices alone should be avoided, since decreased absorption is possible.
+(See PRECAUTIONS, Information for Patients and Drug Interactions, and DOSAGE AND ADMINISTRATION.)
+
+Omeprazole: When CIPRO XR was administered as a single 1000 mg dose concomitantly with omeprazole (40 mg once daily for three days) to 18 healthy volunteers, the mean AUC and Cmax of ciprofloxacin were reduced by 20% and 23%, respectively.
+The clinical significance of this interaction has not been determined.
+(See PRECAUTIONS, Drug Interactions.)
