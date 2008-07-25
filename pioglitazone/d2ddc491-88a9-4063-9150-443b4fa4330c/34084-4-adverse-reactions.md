@@ -9,9 +9,9 @@ The overall incidence and types of adverse events reported in placebo-controlled
 
 Table 7 Placebo-Controlled Clinical Studies of ACTOS Monotherapy: Adverse Events Reported at a Frequency ≥ 5% of Patients Treated with ACTOS
 
-|  | Placebo N=259 | ACTOS N=606 |
-| --- | --- | --- |
 | (% of Patients) |  |  |
+| --- | --- | --- |
+|  | Placebo N=259 | ACTOS N=606 |
 | Upper Respiratory Tract Infection | 8.5 | 13.2 |
 | Headache | 6.9 | 9.1 |
 | Sinusitis | 4.6 | 6.3 |
@@ -41,21 +41,21 @@ Most of these events were considered mild or moderate in intensity (see PRECAUTI
 
 In one 16-week clinical trial of insulin plus ACTOS combination therapy, more patients developed congestive heart failure on combination therapy (1.1%) compared to none on insulin alone (see WARNINGS, Cardiac Failure and Other Cardiac Effects).
 
-## Prospective Pioglitazone Clinical Trial In macrovascular Events (PROactive)
+## Prospective Pioglitazone Clinical Trial In Macrovascular Events (PROactive)
 
-In PROactive, 5238 patients with type 2 diabetes and a prior history of macrovascular disease were treated with ACTOS (n=2605), force-titrated up to 45 mg daily, or placebo (n=2633), in addition to standard of care.
+In PROactive, 5238 patients with type 2 diabetes and a prior history of macrovascular disease were treated with ACTOS (n=2605), force-titrated up to 45 mg daily or placebo (n=2633) in addition to standard of care.
 Almost all subjects (95%) were receiving cardiovascular medications (beta blockers, ACE inhibitors, ARBs, calcium channel blockers, nitrates, diuretics, aspirin, statins, fibrates).
 Patients had a mean age of 61.8 years, mean duration of diabetes 9.5 years, and mean HbA1c 8.1%.
 Average duration of follow-up was 34.5 months.
 The primary objective of this trial was to examine the effect of ACTOS on mortality and macrovascular morbidity in patients with type 2 diabetes mellitus who were at high risk for macrovascular events.
-The primary efficacy variable was the time to the first occurrence of any event in the cardiovascular composite endpoint (see table 8 below).
+The primary efficacy variable was the time to the first occurrence of any event in the cardiovascular composite endpoint (see Table 8 below).
 Although there was no statistically significant difference between ACTOS and placebo for the 3-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with ACTOS.
 
 Table 8 Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint
 
-| Cardiovascular Events | First Events (N) | Total events (N) | First Events (N) | Total events (N) |
-| --- | --- | --- | --- | --- |
 |  | Placebo N=2633 |  | ACTOS N=2605 |  |
+| --- | --- | --- | --- | --- |
+| Cardiovascular Events | First Events (N) | Total events (N) | First Events (N) | Total events (N) |
 | Any event | 572 | 900 | 514 | 803 |
 | All-cause mortality | 122 | 186 | 110 | 177 |
 | Non-fatal MI | 118 | 157 | 105 | 131 |
@@ -65,7 +65,7 @@ Table 8 Number of First and Total Events for Each Component within the Cardiovas
 | Major leg amputation | 15 | 28 | 9 | 28 |
 | Leg revascularization | 57 | 92 | 71 | 115 |
 
-Postmarketing reports of new onset or worsening diabetic macular edema with decreased visual acuity have also been received (see PRECAUTIONS, General,Macular Edema).
+Postmarketing reports of new onset or worsening diabetic macular edema with decreased visual acuity have also been received (see PRECAUTIONS, General, Macular Edema).
 
 ## Laboratory Abnormalities
 

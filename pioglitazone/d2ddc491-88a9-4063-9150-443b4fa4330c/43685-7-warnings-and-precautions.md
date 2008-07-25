@@ -18,7 +18,7 @@ In a 24-week, dose-controlled study in which ACTOS was coadministered with insul
 
 Analysis of data from these studies did not identify specific factors that predict increased risk of congestive heart failure on combination therapy with insulin.
 
-In type 2 diabetes and congestive heart failure (systolic dysfunction)
+### In type 2 diabetes and congestive heart failure (systolic dysfunction)
 
 A 24-week post-marketing safety study was performed to compare ACTOS (n=262) to glyburide (n=256) in uncontrolled diabetic patients (mean HbA1c 8.8% at baseline) with NYHA Class II and III heart failure and ejection fraction less than 40% (mean EF 30% at baseline).
 Over the course of the study, overnight hospitalization for congestive heart failure was reported in 9.9% of patients on ACTOS compared to 4.7% of patients on glyburide with a treatment difference observed from 6 weeks.
@@ -28,7 +28,7 @@ No difference in cardiovascular mortality between the treatment groups was obser
 ACTOS should be initiated at the lowest approved dose if it is prescribed for patients with type 2 diabetes and systolic heart failure (NYHA Class II).
 If subsequent dose escalation is necessary, the dose should be increased gradually only after several months of treatment with careful monitoring for weight gain, edema, or signs and symptoms of CHF exacerbation.
 
-Prospective Pioglitazone Clinical Trial In Macrovascular Events (PROactive)
+### Prospective Pioglitazone Clinical Trial In Macrovascular Events (PROactive)
 
 In PROactive, 5238 patients with type 2 diabetes and a prior history of macrovascular disease were treated with ACTOS (n=2605), force-titrated up to 45 mg once daily, or placebo (n=2633) (see ADVERSE REACTIONS).
 The percentage of patients who had an event of serious heart failure was higher for patients treated with ACTOS (5.7%, n=149) than for patients treated with placebo (4.1%, n=108).
@@ -63,14 +63,14 @@ The mechanism of weight gain is unclear but probably involves a combination of f
 
 Table 6 Weight Changes (kg) from Baseline during Double-Blind Clinical Trials with ACTOS
 
-|  |  |  | Control Group (Placebo) |  | ACTOS 15 mg | ACTOS 30 mg | ACTOS 45 mg |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Median (25th/75thpercentile) |  | Median (25th/75thpercentile) | Median (25th/75thpercentile) | Median (25th/75thpercentile) |
-| Monotherapy |  |  | -1.4 (-2.7/0.0) n=256 |  | 0.9(-0.5/3.4) n = 79 | 1.0(-0.9/3.4) n=188 | 2.6 (0.2/5.4) n = 79 |
-| Combination Therapy |  | Sulfonylurea | -0.5 (-1.8/0.7) n=187 |  | 2.0 (0.2/3.2) n=183 | 3.1 (1.1/5.4) n=528 | 4.1 (1.8/7.3) n=333 |
-|  |  | Metformin | -1.4 (-3.2/0.3) n=160 |  | N/A | 0.9(-0.3/3.2) n=567 | 1.8(-0.9/5.0) n=407 |
-|  |  | Insulin | 0.2 (-1.4/1.4) n=182 |  | 2.3 (0.5/4.3) n=190 | 3.3 (0.9/6.3) n=522 | 4.1 (1.4/6.8) n=338 |
-| Note: Trial durations of 16 to 26 weeks |  |  |  |  |  |  |  |
+|  |  | Control Group (Placebo) | ACTOS 15 mg | ACTOS 30 mg | ACTOS 45 mg |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) |
+| Monotherapy |  | -1.4 (-2.7/0.0) n=256 | 0.9(-0.5/3.4) n = 79 | 1.0(-0.9/3.4) n=188 | 2.6 (0.2/5.4) n = 79 |
+| Combination Therapy | Sulfonylurea | -0.5 (-1.8/0.7) n=187 | 2.0 (0.2/3.2) n=183 | 3.1 (1.1/5.4) n=528 | 4.1 (1.8/7.3) n=333 |
+|  | Metformin | -1.4 (-3.2/0.3) n=160 | N/A | 0.9(-0.3/3.2) n=567 | 1.8(-0.9/5.0) n=407 |
+|  | Insulin | 0.2 (-1.4/1.4) n=182 | 2.3 (0.5/4.3) n=190 | 3.3 (0.9/6.3) n=522 | 4.1 (1.4/6.8) n=338 |
+| Note: Trial durations of 16 to 26 weeks |  |  |  |  |  |
 
 Ovulation: Therapy with ACTOS, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
 As a result, these patients may be at an increased risk for pregnancy while taking ACTOS.
@@ -111,7 +111,7 @@ Some patients presented with blurred vision or decreased visual acuity, but some
 Some patients had peripheral edema at the time macular edema was diagnosed.
 Some patients had improvement in their macular edema after discontinuation of their thiazolidinedione.
 It is unknown whether or not there is a causal relationship between pioglitazone and macular edema.
-Patients with diabetes should have regular eye examinations by an ophthalmologist, per the Standards of Care of the American Diabetes Association.
+Patients with diabetes should have regular eye exams by an ophthalmologist, per the Standards of Care of the American Diabetes Association.
 Additionally, any diabetic who reports any kind of visual symptom should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings (see ADVERSE REACTIONS).
 
 Fractures: In a randomized trial (PROactive) in patients with type 2 diabetes (mean duration of diabetes 9.5 years), an increased incidence of bone fracture was noted in female patients taking pioglitazone.
