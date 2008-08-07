@@ -10,8 +10,8 @@ Most adverse events were mild and transient.
 
 Anesthesia and MAC Sedation in Adults
 
-The following estimates of adverse events for Propofol Injectable Emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2889 adult patients).
-The adverse events listed below as probably causally related are those events in which the actual incidence rate in patients treated with Propofol Injectable Emulsion was greater than the comparator incidence rate in these trials.
+The following estimates of adverse events for propofol injectable emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2889 adult patients).
+The adverse events listed below as probably causally related are those events in which the actual incidence rate in patients treated with propofol injectable emulsion was greater than the comparator incidence rate in these trials.
 Therefore, incidence rates for anesthesia and MAC sedation in adults generally represent estimates of the percentage of clinical trial patients which appeared to have probable causal relationship.
 
 The adverse experience profile from reports of 150 patients in the MAC sedation clinical trials is similar to the profile established with propofol during anesthesia (see below).
@@ -19,7 +19,7 @@ During MAC sedation clinical trials, significant respiratory events included cou
 
 Anesthesia in Pediatric Patients
 
-Generally the adverse experience profile from reports of 506 Propofol Injectable Emulsion pediatric patients from 6 days through 16 years of age in the US/Canadian anesthesia clinical trials is similar to the profile established with Propofol Injectable Emulsion during anesthesia in adults (see Pediatric percentages [Peds %] below).
+Generally the adverse experience profile from reports of 506 propofol injectable emulsion pediatric patients from 6 days through 16 years of age in the US/Canadian anesthesia clinical trials is similar to the profile established with propofol injectable emulsion during anesthesia in adults (see Pediatric percentages [Peds %] below).
 Although not reported as an adverse event in clinical trials, apnea is frequently observed in pediatric patients.
 
 ICU Sedation in Adults

@@ -10,44 +10,44 @@ Pharmacodynamics
 
 Pharmacodynamic properties of propofol are dependent upon the therapeutic blood propofol concentrations.
 Steady-state propofol blood concentrations are generally proportional to infusion rates.
-Undesirable side effects such as cardiorespiratory depression are likely to occur at higher blood concentrations which result from bolus dosing or rapid increases in infusion rate.
+Undesirable side effects such as cardiorespiratory depression are likely to occur at higher blood concentrations which result from bolus dosing or rapid increases in infusion rates.
 An adequate interval (3 to 5 minutes) must be allowed between dosage adjustments in order to assess clinical effects.
 
-The hemodynamic effects of Propofol Injectable Emulsion during induction of anesthesia vary.
+The hemodynamic effects of propofol injectable emulsion during induction of anesthesia vary.
 If spontaneous ventilation is maintained, the major cardiovascular effect is arterial hypotension (sometimes greater than a 30% decrease) with little or no change in heart rate and no appreciable decrease in cardiac output.
 If ventilation is assisted or controlled (positive pressure ventilation), there is an increase in the incidence and the degree of depression of cardiac output.
-Addition of an opioid used as a premedicant, further decreases cardiac output and respiratory drive.
+Addition of an opioid, used as a premedicant, further decreases cardiac output and respiratory drive.
 
-If anesthesia is continued by infusion of Propofol Injectable Emulsion, the stimulation of endotracheal intubation and surgery may return arterial pressure towards normal.
+If anesthesia is continued by infusion of propofol injectable emulsion, the stimulation of endotracheal intubation and surgery may return arterial pressure towards normal.
 However, cardiac output may remain depressed.
-Comparative clinical studies have shown that the hemodynamic effects of Propofol Injectable Emulsion during induction of anesthesia are generally more pronounced than with other intravenous (I.V.) induction agents.
+Comparative clinical studies have shown that the hemodynamic effects of propofol injectable emulsion during induction of anesthesia are generally more pronounced than with other intravenous (I.V.) induction agents.
 
-Induction of anesthesia with Propofol Injectable Emulsion is frequently associated with apnea in both adults and pediatric patients.
-In adult patients who received Propofol Injectable Emulsion (2 to 2.5 mg/kg), apnea lasted less than 30 seconds in 7% of patients, 30 to 60 seconds in 24% of patients, and more than 60 seconds in 12% of patients.
-In pediatric patients from birth through 16 years of age assessable for apnea who received bolus doses of Propofol Injectable Emulsion (1 to 3.6 mg/kg), apnea lasted less than 30 seconds in 12% of patients, 30 to 60 seconds in 10% of patients, and more than 60 seconds in 5% of patients.
+Induction of anesthesia with propofol injectable emulsion is frequently associated with apnea in both adults and pediatric patients.
+In adult patients who received propofol injectable emulsion (2 to 2.5 mg/kg), apnea lasted less than 30 seconds in 7% of patients, 30 to 60 seconds in 24% of patients, and more than 60 seconds in 12% of patients.
+In pediatric patients from birth through 16 years of age assessable for apnea who received bolus doses of propofol injectable emulsion (1 to 3.6 mg/kg), apnea lasted less than 30 seconds in 12% of patients, 30 to 60 seconds in 10% of patients, and more than 60 seconds in 5% of patients.
 
-During maintenance of general anesthesia, Propofol Injectable Emulsion causes a decrease in spontaneous minute ventilation usually associated with an increase in carbon dioxide tension which may be marked depending upon the rate of administration and concurrent use of other medications (e.g., opioids, sedatives, etc.).
+During maintenance of general anesthesia, propofol injectable emulsion causes a decrease in spontaneous minute ventilation usually associated with an increase in carbon dioxide tension which may be marked depending upon the rate of administration and concurrent use of other medications (e.g., opioids, sedatives, etc.).
 
-During monitored anesthesia care (MAC) sedation, attention must be given to the cardiorespiratory effects of Propofol Injectable Emulsion.
-Hypotension, oxyhemoglobin desaturation, apnea, and airway obstruction can occur, especially following a rapid bolus of Propofol Injectable Emulsion.
+During monitored anesthesia care (MAC) sedation, attention must be given to the cardiorespiratory effects of propofol injectable emulsion.
+Hypotension, oxyhemoglobin desaturation, apnea, and airway obstruction can occur, especially following a rapid bolus of propofol injectable emulsion.
 During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration.
 During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus administration in order to minimize undesirable cardiorespiratory effects.
 In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation (see WARNINGS).
 
-Clinical and preclinical studies suggest that Propofol Injectable Emulsion is rarely associated with elevation of plasma histamine levels.
+Clinical and preclinical studies suggest that propofol injectable emulsion is rarely associated with elevation of plasma histamine levels.
 
-Preliminary findings in patients with normal intraocular pressure indicate that Propofol Injectable Emulsion produces a decrease in intraocular pressure which may be associated with a concomitant decrease in systemic vascular resistance.
+Preliminary findings in patients with normal intraocular pressure indicate that propofol injectable emulsion produces a decrease in intraocular pressure which may be associated with a concomitant decrease in systemic vascular resistance.
 
-Clinical studies indicate that Propofol Injectable Emulsion when used in combination with hypocarbia increases cerebrovascular resistance and decreases cerebral blood flow, cerebral metabolic oxygen consumption, and intracranial pressure.
-Propofol Injectable Emulsion does not affect cerebrovascular reactivity to changes in arterial carbon dioxide tension (see Clinical Trials -Neuroanesthesia).
+Clinical studies indicate that propofol injectable emulsion when used in combination with hypocarbia increases cerebrovascular resistance and decreases cerebral blood flow, cerebral metabolic oxygen consumption, and intracranial pressure.
+Propofol injectable emulsion does not affect cerebrovascular reactivity to changes in arterial carbon dioxide tension (see Clinical Trials - Neuroanesthesia).
 
-Clinical studies indicate that Propofol Injectable Emulsion does not suppress the adrenal response to ACTH.
+Clinical studies indicate that propofol injectable emulsion does not suppress the adrenal response to ACTH.
 
-Animal studies and limited experience in susceptible patients have not indicated any propensity of Propofol Injectable Emulsion to induce malignant hyperthermia.
+Animal studies and limited experience in susceptible patients have not indicated any propensity of propofol injectable emulsion to induce malignant hyperthermia.
 
-Hemosiderin deposits have been observed in the livers of dogs receiving Propofol Injectable Emulsion containing 0.005% disodium edetate over a four-week period; the clinical significance of this is unknown.
+Hemosiderin deposits have been observed in the livers of dogs receiving propofol injectable emulsion containing 0.005% disodium edetate over a four-week period; the clinical significance of this is unknown.
 
-## Pharmacokinetics
+Pharmacokinetics
 
 The pharmacokinetics of propofol are well described by a three compartment linear model with compartments representing the plasma, rapidly equilibrating tissues, and slowly equilibrating tissues.
 
@@ -59,19 +59,17 @@ However, distribution is not constant over time, but decreases as body tissues e
 The rate at which equilibration occurs is a function of the rate and duration of the infusion.
 When equilibration occurs there is no longer a net transfer of propofol between tissues and plasma.
 
-Discontinuation of the recommended doses of Propofol Injectable Emulsion after the maintenance of anesthesia for approximately one hour, or for sedation in the ICU for one day, results in a prompt decrease in blood propofol concentrations and rapid awakening.
+Discontinuation of the recommended doses of propofol injectable emulsion after the maintenance of anesthesia for approximately one hour, or for sedation in the ICU for one day, results in a prompt decrease in blood propofol concentrations and rapid awakening.
 Longer infusions (10 days of ICU sedation) result in accumulation of significant tissue stores of propofol, such that the reduction in circulating propofol is slowed and the time to awakening is increased.
 
-By daily titration of Propofol Injectable Emulsion dosage to achieve only the minimum effective therapeutic concentration, rapid awakening within 10 to 15 minutes can occur even after long-term administration.
+By daily titration of propofol injectable emulsion dosage to achieve only the minimum effective therapeutic concentration, rapid awakening within 10 to 15 minutes can occur even after long-term administration.
 If, however, higher than necessary infusion levels have been maintained for a long time, propofol redistribution from fat and muscle to the plasma, can be significant and slow recovery.
 
 The figure below illustrates the fall of plasma propofol levels following infusions of various durations to provide ICU sedation.
 
-Minutes after end of infusion
-
 The large contribution of distribution (about 50%) to the fall of propofol plasma levels following brief infusions means that after very long infusions a reduction in infusion rate is appropriate by as much as half the initial infusion rate in order to maintain a constant plasma level.
-Therefore, failure to reduce the infusion rate in patients receiving Propofol Injectable Emulsion for extended periods may result in excessively high blood concentrations of the drug.
-Thus, titration to clinical response and daily evaluation of sedation levels are important during use of Propofol Injectable Emulsion infusion for ICU sedation.
+Therefore, failure to reduce the infusion rate in patients receiving propofol injectable emulsion for extended periods may result in excessively high blood concentrations of the drug.
+Thus, titration to clinical response and daily evaluation of sedation levels are important during use of propofol injectable emulsion infusion for ICU sedation.
 
 Adults: Propofol clearance ranges from 23 to 50 mL/kg/min (1.6 to 3.4 L/min in 70 kg adults).
 It is chiefly eliminated by hepatic conjugation to inactive metabolites which are excreted by the kidney.
@@ -88,7 +86,7 @@ The higher plasma levels reflect age-related decrease in volume of distribution 
 Lower doses are therefore recommended for initiation and maintenance of sedation and anesthesia in elderly patients.
 (See DOSAGE AND ADMINISTRATION.)
 
-Pediatrics: The pharmacokinetics of propofol were studied in children between 3 and 12 years of age who received Propofol Injectable Emulsion for periods of approximately 1 to 2 hours.
+Pediatrics: The pharmacokinetics of propofol were studied in children between 3 and 12 years of age who received propofol injectable emulsion for periods of approximately 1 to 2 hours.
 The observed distribution and clearance of propofol in these children were similar to adults.
 
 Organ Failure: The pharmacokinetics of propofol do not appear to be different in people with chronic hepatic cirrhosis or chronic renal impairment compared to adults with normal hepatic and renal function.
@@ -100,7 +98,7 @@ Anesthesia and Monitored Anesthesia Care (MAC) Sedation
 
 Pediatric Anesthesia
 
-Propofol Injectable Emulsion was studied in clinical trials which included cardiac surgical patients.
+Propofol injectable emulsion was studied in clinical trials which included cardiac surgical patients.
 Most patients were 3 years of age or older.
 The majority of the patients were healthy ASA-PS I or II patients.
 The range of doses in these studies are described in Tables 1 and 2.
@@ -125,45 +123,42 @@ PEDIATRIC MAINTENANCE OF ANESTHESIA
 
 Neuroanesthesia
 
-Propofol Injectable Emulsion was studied in patients undergoing craniotomy for supratentorial tumors in two clinical trials.
+Propofol injectable emulsion was studied in patients undergoing craniotomy for supratentorial tumors in two clinical trials.
 The mean lesion size (anterior/posterior x lateral) was 31 mm x 32 mm in one trial and 55 mm x 42 mm in the other trial respectively.
 Anesthesia was induced with a median propofol dose of 1.4 mg/kg (range: 0.9 to 6.9 mg/kg) and maintained with a median maintenance propofol dose of 146 mcg/kg/min (range: 68 to 425 mcg/kg/min).
 The median duration of the propofol maintenance infusion was 285 minutes (range: 48 to 622 minutes).
 
-Propofol Injectable Emulsion was administered by infusion in a controlled clinical trial to evaluate its effect on cerebrospinal fluid pressure (CSFP).
+Propofol injectable emulsion was administered by infusion in a controlled clinical trial to evaluate its effect on cerebrospinal fluid pressure (CSFP).
 The mean arterial pressure was maintained relatively constant over 25 minutes with a change from baseline of -4% ± 17% (mean ± SD).
 The change in CSFP was -46% ± 14%.
-As CSFP is an indirect measure of intracranial pressure (ICP), Propofol Injectable Emulsion, when given by infusion or slow bolus in combination with hypocarbia, is capable of decreasing ICP independent of changes in arterial pressure.
+As CSFP is an indirect measure of intracranial pressure (ICP), propofol injectable emulsion, when given by infusion or slow bolus in combination with hypocarbia, is capable of decreasing ICP independent of changes in arterial pressure.
 
 Intensive Care Unit (ICU) Sedation
 
 Adult Patients:
 
-Propofol Injectable Emulsion was compared to benzodiazepines and opioids in clinical trials involving ICU patients.
-Of these, 302 received Propofol Injectable Emulsion and comprise the overall safety database for ICU sedation.
+Propofol injectable emulsion was compared to benzodiazepines and opioids in clinical trials involving ICU patients.
+Of these, 302 received propofol injectable emulsion and comprise the overall safety database for ICU sedation.
 
-Across all clinical studies, the mean infusion maintenance rate for all Propofol Injectable Emulsion patients was 27 ± 21 mcg/kg/min.
+Across all clinical studies, the mean infusion maintenance rate for all propofol injectable emulsion patients was 27 ± 21 mcg/kg/min.
 The maintenance infusion rates required to maintain adequate sedation ranged from 2.8 mcg/kg/min to 130 mcg/kg/min.
-The infusion rate was lower in patients over 55 years of age (approximately 20 mcg/kg/min) compared to patients under 55 years of age (approximately 39 mcg/kg/min).
+The infusion rate was lower in patients over 55 years of age (approximately 20 mcg/kg/min) compared to patients under 55 years of age (approximately 38 mcg/kg/min).
 Although there are reports of reduced analgesic requirements, most patients received opioids for analgesia during maintenance of ICU sedation.
 In these studies, morphine or fentanyl was used as needed for analgesia.
 Some patients also received benzodiazepines and/or neuromuscular blocking agents.
 During long-term maintenance of sedation, some ICU patients were awakened once or twice every 24 hours for assessment of neurologic or respiratory function.
-(See TABLE 3.)
 
-In Medical and Postsurgical ICU studies comparing Propofol Injectable Emulsion to benzodiazepine infusion or bolus, there were no apparent differences in maintenance of adequate sedation, mean arterial pressure, or laboratory findings.
-Like the comparators, Propofol Injectable Emulsion reduced blood cortisol during sedation while maintaining responsivity to challenges with adrenocorticotropic hormone (ACTH).
-Case reports from the published literature generally reflect that Propofol Injectable Emulsion has been used safely in patients with a history of porphyria or malignant hyperthermia.
+In Medical and Postsurgical ICU studies comparing propofol injectable emulsion to benzodiazepine infusion or bolus, there were no apparent differences in maintenance of adequate sedation, mean arterial pressure, or laboratory findings.
+Like the comparators, propofol injectable emulsion reduced blood cortisol during sedation while maintaining responsivity to challenges with adrenocorticotropic hormone (ACTH).
+Case reports from the published literature generally reflect that propofol injectable emulsion has been used safely in patients with a history of porphyria or malignant hyperthermia.
 
-In hemodynamically stable head trauma patients ranging in age from 19 to 43 years, adequate sedation was maintained with Propofol Injectable Emulsion or morphine.
+In hemodynamically stable head trauma patients ranging in age from 19 to 43 years, adequate sedation was maintained with propofol injectable emulsion or morphine.
 There were no apparent differences in adequacy of sedation, intracranial pressure, cerebral perfusion pressure, or neurologic recovery between the treatment groups.
-In literature reports of severely head-injured patients in Neurosurgical ICUs, Propofol Injectable Emulsion infusion and hyperventilation, both with and without diuretics, controlled intracranial pressure while maintaining cerebral perfusion pressure.
+In literature reports of severely head-injured patients in Neurosurgical ICUs, propofol injectable emulsion infusion and hyperventilation, both with and without diuretics, controlled intracranial pressure while maintaining cerebral perfusion pressure.
 In some patients, bolus doses resulted in decreased blood pressure and compromised cerebral perfusion pressure.
-(See TABLE 3.)
 
-Propofol Injectable Emulsion was found to be effective in status epilepticus which was refractory to the standard anticonvulsant therapies.
+Propofol injectable emulsion was found to be effective in status epilepticus which was refractory to the standard anticonvulsant therapies.
 For these patients, as well as for ARDS/respiratory failure and tetanus patients, sedation maintenance dosages were generally higher than those for other critically ill patient populations.
-(See TABLE 3.)
 
 Pediatric Patients:
 
@@ -175,38 +170,11 @@ Of the 25 patients who died during the trial or within the 28-day follow-up peri
 The differences in mortality rate between the groups were not statistically significant.
 Review of the deaths failed to reveal a correlation with underlying disease status or a correlation to the drug or a definitive pattern to the causes of death.
 
-Information from literature reports of Propofol Injectable Emulsion used for ICU sedation in over 950 patients and information from the clinical trials are summarized below:
-
-TABLE 3.
-ADULT ICU SEDATION
-
-|  | Trial | Literature | mcg/kg/min | mg/kg/h | Hours |
-| --- | --- | --- | --- | --- | --- |
-| (DATA FROM CLINICAL TRIALS AND LITERATURE) |  |  |  |  |  |
-| Reason for ICU sedation |  |  | Sedation Dose |  | Sedation Duration |
-| Post-CABG | X | - | 11(0.1 - 30) | 0.66 (0.006 - 1.8) | 10 (2 - 14) |
-|  | - | X | (5 - 100) | (0.3 - 6) | (4 - 24) |
-| Post-Surgical | 60X | - | 20 (6 - 53) | 1.2 (0.4 - 3.2) | 18 (0.3 - 187)(6 - 96) |
-|  | - | 142X | (23 - 82) | (1.4 - 4.9) |  |
-| Medical |  | - | 41 | 2.5 | 72 |
-|  | X |  | (9 - 131) | (0.5 - 7.9) | (0.4 - 337) |
-|  |  | X | (3.3 - 62) | (0.2) | (4 - 96) |
-| Medical | 49X | - | 41 | 2.5 | 72 |
-|  |  |  | (9 - 131) | (0.5 - 7.9) | (0.4 - 337) |
-|  |  | 76X | (3.3 - 62) | (0.2 - 3.7) | (4 - 96) |
-| Special Patients |  |  |  |  |  |
-| ARDS/Resp. Failure | - | X | (10 - 142) | (0.6 - 8.5) | (1 hr - 8 days) |
-| COPD/Asthma | - | X | (17 - 75) | (1 - 4.5) | (1 - 8 days) |
-| Status Epilepticus | - | X | (25 - 167) | (1.5 - 10) | (1 - 21 days) |
-| Tetanus | - | X | (5 - 100) | (0.3 - 6) | (1 - 25 days) |
-| CABG (Coronary Artery Bypass Graft)ARDS (Adult Respiratory Distress Syndrome) |  |  |  |  |  |
-
 Cardiac Anesthesia
 
-Propofol Injectable Emulsion was evaluated in clinical trials involving patients undergoing coronary artery bypass graft (CABG).
+Propofol injectable emulsion was evaluated in clinical trials involving patients undergoing coronary artery bypass graft (CABG).
 
-In post-CABG (coronary artery bypass graft) patients, the maintenance rate of propofol administration was usually low (median 11 mcg/kg/min) due to the intraoperative administration of high opioid doses.
-Patients receiving Propofol Injectable Emulsion required 35% less nitroprusside than midazolam patients.
+In post-CABG (coronary artery bypass graft) patients, the maintenance rate of propofoladministration was usually low (median 11 mcg/kg/min) due to the intraoperative administration of high opioid doses.
+Patients receiving propofol injectable emulsion required 35% less nitroprusside than midazolam patients.
 During initiation of sedation in post-CABG patients, a 15% to 20% decrease in blood pressure was seen in the first 60 minutes.
 It was not possible to determine cardiovascular effects in patients with severely compromised ventricular function.
-(See TABLE 3.)
