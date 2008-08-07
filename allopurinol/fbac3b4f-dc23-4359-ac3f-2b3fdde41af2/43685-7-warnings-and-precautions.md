@@ -50,13 +50,13 @@ Rarely a patient may develop varying degrees of bone marrow depression, affectin
 
 Patients should be informed of the following:
 
-(1) They should be cautioned to discontinue allopurinol and to consult their physician immediately at the first sign of a skin rash, painful urination, blood in the urine, irritation of the eyes, or swelling of the lips or mouth.
-(2) They should be reminded to continue drug therapy prescribed for gouty attacks since optimal benefit of allopurinol may be delayed for two to six weeks.
-(3) They should be encouraged to increase fluid intake during therapy to prevent renal stones.
-(4) If a single dose of allopurinol is occasionally forgotten, there is no need to double the dose at the next scheduled time.
-(5) There may be certain risks associated with the concomitant use of allopurinol and dicumarol, sulfinpyrazone, mercaptopurine, azathioprine, ampicillin, amoxicillin, and thiazide diuretics, and they should follow the instructions of their physician.
-(6) Due to the occasional occurrence of drowsiness, patients should take precautions when engaging in activities where alertness is mandatory.
-(7) Patients may wish to take allopurinol after meals to minimize gastric irritation.
+- (1)They should be cautioned to discontinue allopurinol and to consult their physician immediately at the first sign of a skin rash, painful urination, blood in the urine, irritation of the eyes, or swelling of the lips or mouth.
+- (2)They should be reminded to continue drug therapy prescribed for gouty attacks since optimal benefit of allopurinol may be delayed for two to six weeks.
+- (3)They should be encouraged to increase fluid intake during therapy to prevent renal stones.
+- (4)If a single dose of allopurinol is occasionally forgotten, there is no need to double the dose at the next scheduled time.
+- (5)There may be certain risks associated with the concomitant use of allopurinol and dicumarol, sulfinpyrazone, mercaptopurine, azathioprine, ampicillin, amoxicillin, and thiazide diuretics, and they should follow the instructions of their physician.
+- (6)Due to the occasional occurrence of drowsiness, patients should take precautions when engaging in activities where alertness is mandatory.
+- (7)Patients may wish to take allopurinol after meals to minimize gastric irritation.
 
 ## Laboratory Tests
 
@@ -107,7 +107,9 @@ Allopurinol is not known to alter the accuracy of laboratory tests.
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C.
+## Teratogenic Effects:
+
+### Pregnancy Category C.
 
 Reproductive studies have been performed in rats and rabbits at doses up to twenty times the usual human dose (5 mg/kg/day), and it was concluded that there was no impaired fertility or harm to the fetus due to allopurinol.
 There is a published report of a study in pregnant mice given 50 or 100 mg/kg allopurinol intraperitoneally on gestation days 10 or 13.

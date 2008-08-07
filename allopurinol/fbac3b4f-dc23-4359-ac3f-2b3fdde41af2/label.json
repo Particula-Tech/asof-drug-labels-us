@@ -1,14 +1,14 @@
 {
   "application_numbers": [],
   "inn": "allopurinol",
-  "labeler": "Vintage Pharmaceuticals, LLC",
+  "labeler": "Qualitest Pharmaceuticals",
   "package_ndcs": [
-    "0254-2083-28",
-    "0254-2083-35",
-    "0254-2083-38",
-    "0254-2084-28",
-    "0254-2084-35",
-    "0254-2084-38"
+    "0603-2115-21",
+    "0603-2115-28",
+    "0603-2115-32",
+    "0603-2116-21",
+    "0603-2116-28",
+    "0603-2116-32"
   ],
   "products": [],
   "setid": "fbac3b4f-dc23-4359-ac3f-2b3fdde41af2",
