@@ -19,12 +19,12 @@ Deaths have been reported during conversion to methadone from chronic, high-dose
 | For detoxification and maintenance of opiate dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration. |
 | --- |
 
-Methadone hydrochloride for oral suspension is intended for dispersion in a liquid immediately prior to oral administration of the prescribed dose.
+Methadone hydrochloride tablets for oral suspension is intended for dispersion in a liquid immediately prior to oral administration of the prescribed dose.
 The tablets should not be chewed or swallowed before dispersing in liquid.
 Methadone hydrochloride tablets for oral suspension are cross-scored, allowing for flexible dosage adjustment.
 Each tablet may be broken or cut in half to yield two 20-mg doses, or in quarters to yield four 10-mg doses.
 
-Prior to administration, the desired dose of methadone hydrochloride for oral suspension should be dispersed in approximately 120 mL (4 ounces) of water, orange juice, Tang®, citrus flavors of Kool-Aid® or other acidic fruit beverage prior to taking.
+Prior to administration, the desired dose of methadone hydrochloride tablets for oral suspension should be dispersed in approximately 120 mL (4 ounces) of water, orange juice, Tang®, citrus flavors of Kool-Aid® or other acidic fruit beverage prior to taking.
 Methadone hydrochloride is very soluble in water, but there are some insoluble excipients that will not entirely dissolve.
 If residue remains in the cup after initial administration, a small amount of liquid should be added and the resulting mixture administered to the patient.
 
@@ -38,7 +38,7 @@ An additional 5 to 10 mg of methadone may be provided if withdrawal symptoms hav
 The total daily dose of methadone on the first day of treatment should not ordinarily exceed 40 mg.
 Dose adjustments should be made over the first week of treatment based on control of withdrawal symptoms at the time of expected peak activity (e.g., 2 to 4 hours after dosing).
 Dose adjustment should be cautious; deaths have occurred in early treatment due to the cumulative effects of the first several days' dosing.
-Because methadone hydrochloride for oral suspension can be administered only in 10 mg increments, methadone hydrochloride for oral suspension may not be the appropriate product for initial dosing in many patients.
+Because methadone hydrochloride tablets for oral suspension can be administered only in 10 mg increments, methadone hydrochloride tablets for oral suspension may not be the appropriate product for initial dosing in many patients.
 Patients should be reminded that the dose will “hold” for a longer period of time as tissue stores of methadone accumulate.
 
 Initial doses should be lower for patients whose tolerance is expected to be low at treatment entry.
@@ -53,7 +53,7 @@ The rate at which methadone is decreased should be determined separately for eac
 The dose of methadone can be decreased on a daily basis or at 2-day intervals, but the amount of intake should remain sufficient to keep withdrawal symptoms at a tolerable level.
 In hospitalized patients, a daily reduction of 20% of the total daily dose may be tolerated.
 In ambulatory patients, a somewhat slower schedule may be needed.
-Because methadone hydrochloride for oral suspension can be administered only in 10 mg increments, methadone hydrochloride for oral suspension may not be the appropriate product for gradual dose reduction in many patients.
+Because methadone hydrochloride tablets for oral suspension can be administered only in 10 mg increments, methadone hydrochloride tablets for oral suspension may not be the appropriate product for gradual dose reduction in many patients.
 
 ## For Maintenance Treatment
 
@@ -64,5 +64,5 @@ Most commonly, clinical stability is achieved at doses between 80 to 120 mg/day.
 
 There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
 It is generally suggested that dose reductions should be less than 10% of the established tolerance or maintenance dose, and that 10 to 14-day intervals should elapse between dose reductions.
-Because methadone hydrochloride for oral suspension can be administered only in 10 mg increments, it may not be the appropriate product for gradual dose reduction in many patients.
+Because methadone hydrochloride tablets for oral suspension can be administered only in 10 mg increments, it may not be the appropriate product for gradual dose reduction in many patients.
 Patients should be apprised of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Methadone Hydrochloride Tablets for Oral Suspension USP is for oral administration following dispersion in a liquid.
+Methadone hydrochloride tablets for oral suspension USP is for oral administration following dispersion in a liquid.
 Each tablet contains 40 mg of methadone hydrochloride.
 
 Methadone hydrochloride is chemically described as (3-heptanone, 6-(dimethylamino)-4,4- diphenyl-, hydrochloride).
@@ -10,7 +10,7 @@ It is present in methadone hydrochloride tablets for oral suspension as the race
 Methadone hydrochloride has a melting point of 235°C, a pKa of 8.25 in water at 20°C, a solution (1 in 100) pH between 4.5 and 6.5, a partition coefficient of 117 at pH 7.4 in octanol/water and a molecular weight of 345.91.
 Its molecular formula is C21H27NO•HCl and its structural formula is:
 
-The preparation of methadone hydrochloride for oral suspension contains insoluble excipients and must not be injected.
+The tablet preparation of methadone hydrochloride tablets for oral suspension contains insoluble excipients and must not be injected.
 
 Each Methadone Hydrochloride Tablet for Oral Suspension USP contains:
 

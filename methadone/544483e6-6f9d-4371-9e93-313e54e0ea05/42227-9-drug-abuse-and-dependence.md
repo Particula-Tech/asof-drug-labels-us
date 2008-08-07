@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Methadone hydrochloride for oral suspension contains methadone, a potent Schedule II opioid agonist.
+Methadone hydrochloride tablets for oral suspension contain methadone, a potent Schedule II opioid agonist.
 Schedule II opioid substances, which also include hydromorphone, morphine, oxycodone, and oxymorphone, have the highest potential for abuse and risk of fatal overdose due to respiratory depression.
 Methadone, like morphine and other opioids used for analgesia, has the potential for being abused and is subject to criminal diversion.
 

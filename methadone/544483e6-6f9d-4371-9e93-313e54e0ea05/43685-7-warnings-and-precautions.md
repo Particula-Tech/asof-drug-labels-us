@@ -51,7 +51,7 @@ Methadone is a mu-agonist opioid with an abuse liability similar to that of morp
 Methadone, like morphine and other opioids used for analgesia, has the potential for being abused and is subject to criminal diversion.
 
 Methadone can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing methadone hydrochloride for oral suspension in situations where the clinician is concerned about an increased risk of misuse, abuse, or diversion.
+This should be considered when prescribing or dispensing methadone hydrochloride tablets for oral suspension in situations where the clinician is concerned about an increased risk of misuse, abuse, or diversion.
 Abuse of methadone poses a risk of overdose and death.
 This risk is increased with concurrent abuse of methadone with alcohol and other substances.
 In addition, parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
@@ -83,7 +83,7 @@ The administration of methadone may result in severe hypotension in patients who
 
 # PRECAUTIONS
 
-Methadone hydrochloride for oral suspension should be used with caution in elderly and debilitated patients; patients who are known to be sensitive to central nervous system depressants, such as those with cardiovascular, pulmonary, renal, or hepatic disease; and in patients with comorbid conditions or concomitant medications which may predispose to dysrhythmia or reduced ventilatory drive.
+Methadone hydrochloride tablets for oral suspension should be used with caution in elderly and debilitated patients; patients who are known to be sensitive to central nervous system depressants, such as those with cardiovascular, pulmonary, renal, or hepatic disease; and in patients with comorbid conditions or concomitant medications which may predispose to dysrhythmia or reduced ventilatory drive.
 
 ## Drug Interactions
 
@@ -196,7 +196,7 @@ The usual precautions should be observed and the possibility of respiratory depr
 - Patients seeking to discontinue treatment with methadone for opioid dependence should be apprised of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
 - Patients should be advised that methadone is a potential drug of abuse.
   They should protect it from theft, and it should never be given to anyone other than the individual for whom it was prescribed.
-- Methadone hydrochloride for oral suspension is for oral administration only and must be initially dispersed in liquid before use.
+- Methadone hydrochloride tablets for oral suspension is for oral administration only and must be initially dispersed in liquid before use.
   After dispersion in liquid, the preparation must not be injected.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
