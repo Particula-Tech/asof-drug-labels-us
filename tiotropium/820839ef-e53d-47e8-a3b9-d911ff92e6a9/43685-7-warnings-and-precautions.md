@@ -2,19 +2,19 @@
 
 SPIRIVA HandiHaler (tiotropium bromide inhalation powder) is intended as a once-daily maintenance treatment for COPD and is not indicated for the initial treatment of acute episodes of bronchospasm, i.e., rescue therapy.
 
-Immediate hypersensitivity reactions, including angioedema, may occur after administration of SPIRIVA.
-If such a reaction occurs, therapy with SPIRIVA should be stopped at once and alternative treatments should be considered.
+Immediate hypersensitivity reactions, including angioedema, may occur after administration of SPIRIVA HandiHaler.
+If such a reaction occurs, therapy with SPIRIVA HandiHaler should be stopped at once and alternative treatments should be considered.
 
-Inhaled medicines, including SPIRIVA, may cause paradoxical bronchospasm.
-If this occurs, treatment with SPIRIVA should be stopped and other treatments considered.
+Inhaled medicines, including SPIRIVA HandiHaler, may cause paradoxical bronchospasm.
+If this occurs, treatment with SPIRIVA HandiHaler should be stopped and other treatments considered.
 
 # PRECAUTIONS
 
 ## General
 
-As an anticholinergic drug, SPIRIVA (tiotropium bromide inhalation powder) may potentially worsen symptoms and signs associated with narrow-angle glaucoma, prostatic hyperplasia or bladder-neck obstruction and should be used with caution in patients with any of these conditions.
+As an anticholinergic drug, SPIRIVA HandiHaler (tiotropium bromide inhalation powder) may potentially worsen symptoms and signs associated with narrow-angle glaucoma, prostatic hyperplasia or bladder-neck obstruction and should be used with caution in patients with any of these conditions.
 
-As a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA should be monitored closely (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations,Renally-impaired Patients).
+As a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations,Renally-impaired Patients).
 
 ## Information for Patients
 
@@ -36,9 +36,9 @@ SPIRIVA HandiHaler is a once-daily maintenance bronchodilator and should not be 
 
 ## Drug Interactions
 
-SPIRIVA has been used concomitantly with other drugs commonly used in COPD without increases in adverse drug reactions.
+SPIRIVA HandiHaler has been used concomitantly with other drugs commonly used in COPD without increases in adverse drug reactions.
 These include short-acting and long-acting sympathomimetic (beta-agonists) bronchodilators, methylxanthines, and oral and inhaled steroids.
-However, the co-administration of SPIRIVA with other anticholinergic-containing drugs (e.g., ipratropium) has not been studied and is therefore not recommended.
+However, the co-administration of SPIRIVA HandiHaler with other anticholinergic-containing drugs (e.g., ipratropium) has not been studied and is therefore not recommended.
 
 ## Drug/Laboratory Test Interactions
 
@@ -70,31 +70,31 @@ These doses correspond to approximately 4 and 80 times the RHDD on a mg/m2 basis
 These dose multiples may be over-estimated due to difficulties in measuring deposited doses in animal inhalation studies.
 
 There are no adequate and well-controlled studies in pregnant women.
-SPIRIVA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+SPIRIVA HandiHaler should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Use in Labor and Delivery
 
-The safety and effectiveness of SPIRIVA has not been studied during labor and delivery.
+The safety and effectiveness of SPIRIVA HandiHaler has not been studied during labor and delivery.
 
 ## Nursing Mothers
 
 Clinical data from nursing women exposed to tiotropium are not available.
 Based on lactating rodent studies, tiotropium is excreted into breast milk.
-It is not known whether tiotropium is excreted in human milk, but because many drugs are excreted in human milk and given these findings in rats, caution should be exercised if SPIRIVA is administered to a nursing woman.
+It is not known whether tiotropium is excreted in human milk, but because many drugs are excreted in human milk and given these findings in rats, caution should be exercised if SPIRIVA HandiHaler is administered to a nursing woman.
 
 ## Pediatric Use
 
 SPIRIVA HandiHaler is approved for use in the maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema.
 This disease does not normally occur in children.
-The safety and effectiveness of SPIRIVA in pediatric patients have not been established.
+The safety and effectiveness of SPIRIVA HandiHaler in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Of the total number of patients who received SPIRIVA in the 1-year clinical trials, 426 were <65 years, 375 were 65–74 years and 105 were ≥75 years of age.
-Within each age subgroup, there were no differences between the proportion of patients with adverse events in the SPIRIVA and the comparator groups for most events.
-Dry mouth increased with age in the SPIRIVA group (differences from placebo were 9.0%, 17.1%, and 16.2% in the aforementioned age subgroups).
-A higher frequency of constipation and urinary tract infections with increasing age was observed in the SPIRIVA group in the placebo-controlled studies.
+Of the total number of patients who received SPIRIVA HandiHaler in the 1-year clinical trials, 426 were <65 years, 375 were 65–74 years and 105 were ≥75 years of age.
+Within each age subgroup, there were no differences between the proportion of patients with adverse events in the SPIRIVA HandiHaler and the comparator groups for most events.
+Dry mouth increased with age in the SPIRIVA HandiHaler group (differences from placebo were 9.0%, 17.1%, and 16.2% in the aforementioned age subgroups).
+A higher frequency of constipation and urinary tract infections with increasing age was observed in the SPIRIVA HandiHaler group in the placebo-controlled studies.
 The differences from placebo for constipation were 0%, 1.8%, and 7.8% for each of the age groups.
 The differences from placebo for urinary tract infections were –0.6%, 4.6% and 4.5%.
 No overall differences in effectiveness were observed among these groups.
-Based on available data, no adjustment of SPIRIVA dosage in geriatric patients is warranted.
+Based on available data, no adjustment of SPIRIVA HandiHaler dosage in geriatric patients is warranted.

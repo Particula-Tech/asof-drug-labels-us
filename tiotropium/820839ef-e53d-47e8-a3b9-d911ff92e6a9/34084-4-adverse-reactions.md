@@ -1,14 +1,14 @@
 # ADVERSE REACTIONS
 
-Of the 2,663 patients in the four 1-year and two 6-month controlled clinical trials, 1,308 were treated with SPIRIVA (tiotropium bromide inhalation powder) at the recommended dose of 18 mcg once a day.
+Of the 2,663 patients in the four 1-year and two 6-month controlled clinical trials, 1,308 were treated with SPIRIVA HandiHaler (tiotropium bromide inhalation powder) at the recommended dose of 18 mcg once a day.
 Patients with narrow angle glaucoma, or symptomatic prostatic hypertrophy or bladder outlet obstruction were excluded from these trials.
 
 The most commonly reported adverse drug reaction was dry mouth.
 Dry mouth was usually mild and often resolved during continued treatment.
 Other reactions reported in individual patients and consistent with possible anticholinergic effects included constipation, increased heart rate, blurred vision, glaucoma, urinary difficulty, and urinary retention.
 
-Four multicenter, 1-year, controlled studies evaluated SPIRIVA in patients with COPD.
-Table 1 shows all adverse events that occurred with a frequency of ≥3% in the SPIRIVA group in the 1-year placebo-controlled trials where the rates in the SPIRIVA group exceeded placebo by ≥1%.
+Four multicenter, 1-year, controlled studies evaluated SPIRIVA HandiHaler in patients with COPD.
+Table 1 shows all adverse events that occurred with a frequency of ≥3% in the SPIRIVA HandiHaler group in the 1-year placebo-controlled trials where the rates in the SPIRIVA HandiHaler group exceeded placebo by ≥1%.
 The frequency of corresponding events in the ipratropium-controlled trials is included for comparison.
 
 Table 1 Adverse Experience Incidence (% Patients) in One-Year-COPD Clinical Trials
@@ -42,14 +42,14 @@ Table 1 Adverse Experience Incidence (% Patients) in One-Year-COPD Clinical Tria
 | Urinary System |  |  |  |  |  |
 | Urinary Tract Infection | 7 | 5 |  | 4 | 2 |
 
-Arthritis, coughing, and influenza-like symptoms occurred at a rate of ≥3% in the SPIRIVA treatment group, but were <1% in excess of the placebo group.
+Arthritis, coughing, and influenza-like symptoms occurred at a rate of ≥3% in the SPIRIVA HandiHaler treatment group, but were <1% in excess of the placebo group.
 
-Other events that occurred in the SPIRIVA group at a frequency of 1–3% in the placebo-controlled trials where the rates exceeded that in the placebo group include: Body as a Whole: allergic reaction, leg pain; Central and Peripheral Nervous System: dysphonia, paresthesia; Gastrointestinal System Disorders: gastrointestinal disorder not otherwise specified (NOS), gastroesophageal reflux, stomatitis (including ulcerative stomatitis); Metabolic and Nutritional Disorders: hypercholesterolemia, hyperglycemia; Musculoskeletal System Disorders: skeletal pain; Cardiac Events: angina pectoris (including aggravated angina pectoris); Psychiatric Disorder: depression; Infections: herpes zoster; Respiratory System Disorder (Upper): laryngitis; Vision Disorder: cataract.
+Other events that occurred in the SPIRIVA HandiHaler group at a frequency of 1–3% in the placebo-controlled trials where the rates exceeded that in the placebo group include: Body as a Whole: allergic reaction, leg pain; Central and Peripheral Nervous System: dysphonia, paresthesia; Gastrointestinal System Disorders: gastrointestinal disorder not otherwise specified (NOS), gastroesophageal reflux, stomatitis (including ulcerative stomatitis); Metabolic and Nutritional Disorders: hypercholesterolemia, hyperglycemia; Musculoskeletal System Disorders: skeletal pain; Cardiac Events: angina pectoris (including aggravated angina pectoris); Psychiatric Disorder: depression; Infections: herpes zoster; Respiratory System Disorder (Upper): laryngitis; Vision Disorder: cataract.
 In addition, among the adverse events observed in the clinical trials with an incidence of <1% were atrial fibrillation, supraventricular tachycardia, angioedema, and urinary retention.
 
 In the 1-year trials, the incidence of dry mouth, constipation, and urinary tract infection increased with age (see PRECAUTIONS, Geriatric Use).
 
-Two multicenter, 6-month, controlled studies evaluated SPIRIVA in patients with COPD.
+Two multicenter, 6-month, controlled studies evaluated SPIRIVA HandiHaler in patients with COPD.
 The adverse events and the incidence rates were similar to those seen in the 1-year controlled trials.
 
-The following adverse reactions have been identified during worldwide post-approval use of SPIRIVA: application site irritation (glossitis, mouth ulceration, and pharyngolaryngeal pain), dizziness, dysphagia, epistaxis, hoarseness, intestinal obstruction including ileus paralytic, intraocular pressure increased, oral candidiasis, palpitations, pruritus, tachycardia, throat irritation, and urticaria.
+The following adverse reactions have been identified during worldwide post-approval use of SPIRIVA HandiHaler: application site irritation (glossitis, mouth ulceration, and pharyngolaryngeal pain), dizziness, dysphagia, epistaxis, hoarseness, intestinal obstruction including ileus paralytic, intraocular pressure increased, oral candidiasis, palpitations, pruritus, tachycardia, throat irritation, and urticaria.

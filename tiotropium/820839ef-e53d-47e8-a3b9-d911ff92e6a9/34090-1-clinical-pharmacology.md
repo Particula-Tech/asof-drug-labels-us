@@ -61,10 +61,10 @@ Therefore, no clinically significant interaction occurred between tiotropium and
 
 ## Electrophysiology
 
-In a multicenter, randomized, double-blind trial that enrolled 198 patients with COPD, the number of subjects with changes from baseline-corrected QT interval of 30–60 msec was higher in the SPIRIVA group as compared with placebo.
+In a multicenter, randomized, double-blind trial that enrolled 198 patients with COPD, the number of subjects with changes from baseline-corrected QT interval of 30–60 msec was higher in the SPIRIVA HandiHaler group as compared with placebo.
 This difference was apparent using both the Bazett (QTcB) [20 (20%) patients vs. 12 (12%) patients] and Fredericia (QTcF) [16 (16%) patients vs. 1 (1%) patient] corrections of QT for heart rate.
 No patients in either group had either QTcB or QTcF of >500 msec.
-Other clinical studies with SPIRIVA did not detect an effect of the drug on QTc intervals.
+Other clinical studies with SPIRIVA HandiHaler did not detect an effect of the drug on QTc intervals.
 
 ## Special Populations
 
