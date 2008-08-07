@@ -9,29 +9,29 @@ Regardless of the indication for use, careful dosage titration is necessary to a
 These consequences include, among others, effects on growth and development, cardiovascular function, bone metabolism, reproductive function, cognitive function, emotional state, gastrointestinal function, and on glucose and lipid metabolism.
 Many drugs interact with levothyroxine sodium necessitating adjustments in dosing to maintain therapeutic response (see Drug Interactions).
 
-Effects on bone mineral density – In women, long-term levothyroxine sodium therapy has been associated with decreased bone mineral density, especially in postmenopausal women on greater than replacement doses or in women who are receiving suppressive doses of levothyroxine sodium.
+Effects on bone mineral density — In women, long-term levothyroxine sodium therapy has been associated with decreased bone mineral density, especially in postmenopausal women on greater than replacement doses or in women who are receiving suppressive doses of levothyroxine sodium.
 Therefore, it is recommended that patients receiving levothyroxine sodium be given the minimum dose necessary to achieve the desired clinical and biochemical response.
 
-Patients with underlying cardiovascular disease– Exercise caution when administering levothyroxine to patients with cardiovascular disorders and to the elderly in whom there is an increased risk of occult cardiac disease.
+Patients with underlying cardiovascular disease — Exercise caution when administering levothyroxine to patients with cardiovascular disorders and to the elderly in whom there is an increased risk of occult cardiac disease.
 In these patients, levothyroxine therapy should be initiated at lower doses than those recommended in younger individuals or in patients without cardiac disease (see WARNINGS; PRECAUTIONS, Geriatric Use; and DOSAGE AND ADMINISTRATION).
 If cardiac symptoms develop or worsen, the levothyroxine dose should be reduced or withheld for one week and then cautiously restarted at a lower dose.
 Overtreatment with levothyroxine sodium may have adverse cardiovascular effects such as an increase in heart rate, cardiac wall thickness, and cardiac contractility and may precipitate angina or arrhythmias.
 Patients with coronary artery disease who are receiving levothyroxine therapy should be monitored closely during surgical procedures, since the possibility of precipitating cardiac arrhythmias may be greater in those treated with levothyroxine.
 Concomitant administration of levothyroxine and sympathomimetic agents to patients with coronary artery disease may precipitate coronary insufficiency.
 
-Patients with nontoxic diffuse goiter or nodular thyroid disease– Exercise caution when administering levothyroxine to patients with nontoxic diffuse goiter or nodular thyroid disease in order to prevent precipitation of thyrotoxicosis (see WARNINGS).
-If the serum TSH is already suppressed, levothyroxine sodium should not be administered (see Contraindications).
+Patients with nontoxic diffuse goiter or nodular thyroid disease — Exercise caution when administering levothyroxine to patients with nontoxic diffuse goiter or nodular thyroid disease in order to prevent precipitation of thyrotoxicosis (see WARNINGS).
+If the serum TSH is already suppressed, levothyroxine sodium should not be administered (see CONTRAINDICATIONS)
 
-### Associated endocrine disorders
+Associated endocrine disorders
 
-Hypothalamic/pituitary hormone deficiencies– In patients with secondary or tertiary hypothyroidism, additional hypothalamic/pituitary hormone deficiencies should be considered, and, if diagnosed, treated (see PRECAUTIONS, Autoimmune polyglandular syndrome) for adrenal insufficiency.
+Hypothalamic/pituitary hormone deficiencies — In patients with secondary or tertiary hypothyroidism, additional hypothalamic/pituitary hormone deficiencies should be considered, and, if diagnosed, treated (see PRECAUTIONS,Autoimmune polyglandular syndrome) for adrenal insufficiency.
 
-Autoimmune polyglandular syndrome – Occasionally, chronic autoimmune thyroiditis may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.
+Autoimmune polyglandular syndrome — Occasionally, chronic autoimmune thyroiditis may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.
 Patients with concomitant adrenal insufficiency should be treated with replacement glucocorticoids prior to initiation of treatment with levothyroxine sodium.
 Failure to do so may precipitate an acute adrenal crisis when thyroid hormone therapy is initiated, due to increased metabolic clearance of glucocorticoids by thyroid hormone.
 Patients with diabetes mellitus may require upward adjustments of their antidiabetic therapeutic regimens when treated with levothyroxine (see PRECAUTIONS, Drug Interactions).
 
-### Other associated medical conditions
+Other associated medical conditions
 
 Infants with congenital hypothyroidism appear to be at increased risk for other congenital anomalies, with cardiovascular anomalies (pulmonary stenosis, atrial septal defect, and ventricular septal defect,) being the most common association.
 
@@ -64,23 +64,23 @@ Patients should be informed of the following information to aid in the safe and 
 
 ## Laboratory Tests
 
-### General
+General
 
-The diagnosis of hypothyroidism is confirmed by measuring TSH levels using a sensitive assay (second generation assay sensitivity ≤ 0.1 mIU/L or third generation assay sensitivity ≤ 0.01 mIU/L) and measurement of free-T4.
+The diagnosis of hypothyroidism is confirmed by measuring TSH levels using a sensitive assay (second generation assay sensitivity ≤0.1 mIU/L or third generation assay sensitivity ≤0.01 mIU/L) and measurement of free-T4.
 
 The adequacy of therapy is determined by periodic assessment of appropriate laboratory tests and clinical evaluation.
-The choice of laboratory tests depends on various factors including the etiology of the underlying thyroid disease, the presence of concomitant medical conditions, including pregnancy, and the use of concomitant medications (see PRECAUTIONS, Drug Interactions andDrug-Laboratory Test Interactions).
+The choice of laboratory tests depends on various factors including the etiology of the underlying thyroid disease, the presence of concomitant medical conditions, including pregnancy, and the use of concomitant medications (see PRECAUTIONS, Drug Interactions and Drug-Laboratory Test Interactions).
 Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of LEVOXYL® may be evidence of inadequate absorption, poor compliance, drug interactions, or decreased T4 potency of the drug product.
 
-### Adults
+Adults
 
 In adult patients with primary (thyroidal) hypothyroidism, serum TSH levels (using a sensitive assay) alone may be used to monitor therapy.
-The frequency of TSH monitoring during levothyroxine dose titration depends on the clinical situation but it is generally recommended at 6–8 week intervals until normalization.
-For patients who have recently initiated levothyroxine therapy and whose serum TSH has normalized or in patients who have had their dosage or brand of levothyroxine changed, the serum TSH concentration should be measured after 8–12 weeks.
-When the optimum replacement dose has been attained, clinical (physical examination) and biochemical monitoring may be performed every 6–12 months, depending on the clinical situation, and whenever there is a change in the patient's status.
+The frequency of TSH monitoring during levothyroxine dose titration depends on the clinical situation but it is generally recommended at 6—8 week intervals until normalization.
+For patients who have recently initiated levothyroxine therapy and whose serum TSH has normalized or in patients who have had their dosage or brand of levothyroxine changed, the serum TSH concentration should be measured after 8—12 weeks.
+When the optimum replacement dose has been attained, clinical (physical examination) and biochemical monitoring may be performed every 6—12 months, depending on the clinical situation, and whenever there is a change in the patient’s status.
 It is recommended that a physical examination and a serum TSH measurement be performed at least annually in patients receiving LEVOXYL® (see WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-### Pediatrics
+Pediatrics
 
 In patients with congenital hypothyroidism, the adequacy of replacement therapy should be assessed by measuring both serum TSH (using a sensitive assay) and total- or free- T4.
 During the first three years of life, the serum total- or free- T4 should be maintained at all times in the upper half of the normal range.
@@ -89,12 +89,12 @@ TSH may not normalize due to a resetting of the pituitary-thyroid feedback thres
 Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of LEVOXYL® therapy and/or of the serum TSH to decrease below 20 mU/L within 4 weeks should alert the physician to the possibility that the child is not receiving adequate therapy.
 Careful inquiry should then be made regarding compliance, dose of medication administered, and method of administration prior to raising the dose of LEVOXYL®.
 
-The recommended frequency of monitoring of TSH and total or free T4 in children is as follows: at 2 and 4 weeks after the initiation of treatment; every 1–2 months during the first year of life; every 2–3 months between 1 and 3 years of age; and every 3 to 12 months thereafter until growth is completed.
+The recommended frequency of monitoring of TSH and total or free T4 in children is as follows: at 2 and 4 weeks after the initiation of treatment; every 1—2 months during the first year of life; every 2—3 months between 1 and 3 years of age; and every 3 to 12 months thereafter until growth is completed.
 More frequent intervals of monitoring may be necessary if poor compliance is suspected or abnormal values are obtained.
 It is recommended that TSH and T4 levels, and a physical examination, if indicated, be performed 2 weeks after any change in LEVOXYL® dosage.
 Routine clinical examination, including assessment of mental and physical growth and development, and bone maturation, should be performed at regular intervals (see PRECAUTIONS, Pediatric Use and DOSAGE AND ADMINISTRATION).
 
-### Secondary (pituitary) and tertiary (hypothalamic) hypothyroidism
+Secondary (pituitary) and tertiary (hypothalamic) hypothyroidism
 
 Adequacy of therapy should be assessed by measuring serum free-T4 levels,which should be maintained in the upper half of the normal range in these patients.
 
@@ -108,63 +108,70 @@ The list of drug-thyroidal axis interactions in Table 2 may not be comprehensive
 The prescriber should be aware of this fact and should consult appropriate reference sources.
 (e.g., package inserts of newly approved drugs, medical literature) for additional information if a drug-drug interaction with levothyroxine is suspected.
 
-Table 2: Drug– Thyroidal Axis Interactions
-
-| Drug or Drug Class | Effect |
+| Table 2: Drug — Thyroidal Axis Interactions |  |
 | --- | --- |
+| Drug or Drug Class | Effect |
 | Drugs that may reduce TSH secretion -the reduction is not sustained; therefore, hypothyroidism does not occur |  |
-| Dopamine / Dopamine Agonists Glucocorticoids Octreotide | Use of these agents may result in a transient reduction in TSH secretion when administered at the following doses: Dopamine(≥ 1 mcg/kg/min); Glucocorticoids (hydrocortisone≥ 100 mg/day or equivalent); Octreotide (> 100 mcg/day). |
+| Dopamine / Dopamine Agonists GlucocorticoidsOctreotide | Use of these agents may result in a transient reduction in TSH secretion when administered at the following doses: Dopamine (≥1 mcg/kg/min); Glucocorticoids (hydrocortisone ≥100 mg/day or equivalent); Octreotide (>100 mcg/day). |
 | Drugs that alter thyroid hormone secretion |  |
 | Drugs that may decrease thyroid hormone secretion, which may result in hypothyroidism |  |
-| Aminoglutethimide Amiodarone Iodide (including iodine- Containing Radiographic contrast agents) Lithium Methimazole Propylthiouracil (PTU) Sulfonamides Tolbutamide | Long-term lithium therapy can result in goiter in up to 50% of patients, and either subclinical or overt hypothyroidism, each in up to 20% of patients. The fetus, neonate, elderly and euthyroid patients with underlying thyroid disease (e.g., Hashimoto's thyroiditis or with Grave's disease previously treated with radioiodine or surgery) are among those individuals who are particularly susceptible to iodine-induced hypothyroidism. Oral cholecystographic agents and amiodarone are slowly excreted, producing more prolonged hypothyroidism than parenterally administered iodinated contrast agents. Long-term aminoglutethimide therapy may minimally decrease T4 and T3 levels and increase TSH, although all values remain within normal limits in most patients. |
+| AminoglutethimideAmiodaroneIodide (including iodine-Containing Radiographic contrast agents)LithiumMethimazolePropylthiouracil (PTU)SulfonamidesTolbutamide | Long-term lithium therapy can result in goiter in up to 50% of patients, and either subclinical or overt hypothyroidism, each in up to 20% of patients. The fetus, neonate, elderly and euthyroid patients with underlying thyroid disease (e.g., Hashimoto’s thyroiditis or with Grave’s disease previously treated with radioiodine or surgery) are among those individuals who are particularly susceptible to iodine-induced hypothyroidism. Oral cholecystographic agents and amiodarone are slowly excreted, producing more prolonged hypothyroidism than parenterally administered iodinated contrast agents. Long-term aminoglutethimide therapy may minimally decrease T4 and T3 levels and increase TSH, although all values remain within normal limits in most patients. |
 | Drugs that may increase thyroid hormone secretion, which may result in hyperthyroidism |  |
-| Amiodarone Iodide (including iodine- containing Radiographic contrast agents) | Iodide and drugs that contain pharmacologic amounts of iodide may cause hyperthyroidism in euthyroid patients with Grave's disease previously treated with antithyroid drugs or in euthyroid patients with thyroid autonomy (e.g., multinodular goiter or hyperfunctioning thyroid adenoma). Hyperthyroidism may develop over several weeks and may persist for several months after therapy discontinuation. Amiodarone may induce hyperthyroidism by causing thyroiditis. |
+| AmiodaroneIodide (including iodine-containing Radiographic contrast agents) | Iodide and drugs that contain pharmacologic amounts of iodide may cause hyperthyroidism in euthyroid patients with Grave’s disease previously treated with antithyroid drugs or in euthyroid patients with thyroid autonomy (e.g., multinodular goiter or hyperfunctioning thyroid adenoma). Hyperthyroidism may develop over several weeks and may persist for several months after therapy discontinuation. Amiodarone may induce hyperthyroidism by causing thyroiditis. |
 | Drugs that may decrease T4 absorption, which may result in hypothyroidism |  |
-| Antacids - Aluminum & Magnesium Hydroxides - Simethicone Bile Acid Sequestrants - Cholestyramine - Colestipol Calcium Carbonate Cation Exchange Resins - Kayexalate Ferrous Sulfate Sucralfate | Concurrent use may reduce the efficacy of levothyroxine by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer levothyroxine at least 4 hours apart from these agents. |
-| Drugs that may alter T4 and T3 serum transport – but FT4 concentration remains normal; and, therefore, the patient remains euthyroid |  |
-| Drugs that may decrease serum TBG concentration | Drugs that may increase serum TBG concentration |
-| Clofibrate Estrogen-containing oral contraceptives Estrogens (oral) Heroin / Methadone 5-Fluorouracil Mitotane Tamoxifen | Androgens / Anabolic Steroids Asparaginase Glucocorticoids Slow-Release Nicotinic Acid |
+| Antacids- Aluminum & Magnesium Hydroxides- SimethiconeBile Acid Sequestrants- Cholestyramine- ColestipolCalcium CarbonateCation Exchange Resins- KayexalateFerrous SulfateOrlistatSucralfate | Concurrent use may reduce the efficacy of levothyroxine by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer levothyroxine at least 4 hours apart from these agents. Patients treated concomitantly with orlistat and levothyroxine should be monitored for changes in thyroid function. |
+| Drugs that may alter T4 and T3 serum transport — but FT4 concentration remains normal; and, therefore, the patient remains euthyroid |  |
+| Drugs that may increase serum TBG concentration | Drugs that may decrease serum TBG concentration |
+| ClofibrateEstrogen-containing oral contraceptives Estrogens (oral)Heroin / Methadone5-FluorouracilMitotaneTamoxifen | Androgens / Anabolic SteroidsAsparaginaseGlucocorticoidsSlow-Release Nicotinic Acid |
 | Drugs that may cause protein-binding site displacement |  |
-| Furosemide (> 80 mg IV) Heparin Hydantoins Non Steroidal Anti-Inflammatory Drugs - Fenamates - Phenylbutazone Salicylates (> 2 g/day) | Administration of these agents with levothyroxine results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations and, therefore, patients are clinically euthyroid. Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total-T4 levels may decrease by as much as 30%. |
+| Furosemide (> 80 mg IV)HeparinHydantoinsNon Steroidal Anti-Inflammatory Drugs- Fenamates- PhenylbutazoneSalicylates (> 2 g/day) | Administration of these agents with levothyroxine results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations and, therefore, patients are clinically euthyroid. Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total-T4 levels may decrease by as much as 30%. |
 | Drugs that may alter T4 and T3 metabolism |  |
 | Drugs that may increase hepatic metabolism, which may result in hypothyroidism |  |
-| Carbamazepine Hydantoins Phenobarbital Rifampin | Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased levothyroxine requirements. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total- and free-T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. |
-| Drugs that may decrease T4 5'-deiodinase activity |  |
-| Amiodarone Beta-adrenergic antagonists - (e.g., Propranolol> 160 mg/day) Glucocorticoids - (e.g., Dexamethasone > 4 mg/day) Propylthiouracil (PTU) | Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased. In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change slightly, TSH levels remain normal, and patients are clinically euthyroid. It should be noted that actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see above). |
+| CarbamazepineHydantoinsPhenobarbitalRifampin | Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased levothyroxine requirements. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total- and free-T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. |
+| Drugs that may decrease T4 5’-deiodinase activity |  |
+| AmiodaroneBeta-adrenergic antagonists- (e.g., Propranolol > 160 mg/day)Glucocorticoids- (e.g., Dexamethasone > 4 mg/day)Propylthiouracil (PTU) | Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased. In patients treated with large doses of propranolol (>160 mg/day), T3 and T4 levels change slightly, TSH levels remain normal, and patients are clinically euthyroid. It should be noted that actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see above). |
 | Miscellaneous |  |
-| Anticoagulants (oral) - Coumarin Derivatives - Indandione Derivatives | Thyroid hormones appear to increase the catabolism of vitamin K-dependent clotting factors, thereby increasing the anticoagulant activity of oral anticoagulants. Concomitant use of these agents impairs the compensatory increases in clotting factor synthesis. Prothrombin time should be carefully monitored in patients taking levothyroxine and oral anticoagulants and the dose of anticoagulant therapy adjusted accordingly. |
-| Antidepressants - Tricyclics (e.g., Amitriptyline) - Tetracyclics (e.g., Maprotiline) - Selective Serotonin Reuptake Inhibitors (SSRIs; e.g., Sertraline) | Concurrent use of tri/tetracyclic antidepressants and levothyroxine may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines. Toxic effects may include increased risk of cardiac arrhythmias and CNS stimulation; onset of action of tricyclics may be accelerated. Administration of sertraline in patients stabilized on levothyroxine may result in increased levothyroxine requirements. |
-| Antidiabetic Agents - Biguanides - Meglitinides - Sulfonylureas - Thiazolidediones - Insulin | Addition of levothyroxine to antidiabetic or insulin therapy may result in increased antidiabetic agent or insulin requirements. Careful monitoring of diabetic control is recommended, especially when thyroid therapy is started, changed, or discontinued. |
+| Anticoagulants (oral)- Coumarin Derivatives- Indandione Derivatives | Thyroid hormones appear to increase the catabolism of vitamin K-dependent clotting factors, thereby increasing the anticoagulant activity of oral anticoagulants. Concomitant use of these agents impairs the compensatory increases in clotting factor synthesis. Prothrombin time should be carefully monitored in patients taking levothyroxine and oral anticoagulants and the dose of anticoagulant therapy adjusted accordingly. |
+| Antidepressants- Tricyclics (e.g., Amitriptyline)- Tetracyclics (e.g., Maprotiline)- Selective Serotonin Reuptake Inhibitors (SSRIs; e.g., Sertraline) | Concurrent use of tri/tetracyclic antidepressants and levothyroxine may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines. Toxic effects may include increased risk of cardiac arrhythmias and CNS stimulation; onset of action of tricyclics may be accelerated. Administration of sertraline in patients stabilized on levothyroxine may result in increased levothyroxine requirements. |
+| Antidiabetic Agents- Biguanides- Meglitinides- Sulfonylureas- Thiazolidediones- Insulin | Addition of levothyroxine to antidiabetic or insulin therapy may result in increased antidiabetic agent or insulin requirements. Careful monitoring of diabetic control is recommended, especially when thyroid therapy is started, changed, or discontinued. |
 | Cardiac Glycosides | Serum digitalis glycoside levels may be reduced in hyperthyroidism or when the hypothyroid patient is converted to the euthyroid state. Therapeutic effect of digitalis glycosides may be reduced. |
-| Cytokines - Interferon-α - Interleukin-2 | Thereapy wih interferon-α has been associated with the development of antithyroid microsomal antibodies in 20% of patients and some have transient hypothyroidism, hyperthyroidism, or both. Patients who have antithyroid antibodies before treatment are at higher risk for thyroid dysfunction during treatment. Interleukin-2 has been associated with transient painless thyroiditis in 20% of patients. Interferon-β and -γ have not been reported to cause thyroid dysfunction. |
-| Growth Hormones - Somatrem - Somatropin | Excessive use of thyroid hormones with growth hormones may accelerate epiphyseal closure. However, untreated hypothyroidism may interfere with growth response to growth hormone. |
+| Cytokines- Interferon-α - Interleukin-2 | Thereapy wih interferon-α has been associated with the development of antithyroid microsomal antibodies in 20% of patients and some have transient hypothyroidism, hyperthyroidism, or both. Patients who have antithyroid antibodies before treatment are at higher risk for thyroid dysfunction during treatment. Interleukin-2 has been associated with transient painless thyroiditis in 20% of patients. Interferon-β and -γ have not been reported to cause thyroid dysfunction. |
+| Growth Hormones- Somatrem- Somatropin | Excessive use of thyroid hormones with growth hormones may accelerate epiphyseal closure. However, untreated hypothyroidism may interfere with growth response to growth hormone. |
 | Ketamine | Concurrent use may produce marked hypertension and tachycardia; cautious administration to patients receiving thyroid hormone therapy is recommended. |
-| Methylxanthine Bronchodilators - (e.g., Theophylline) | Decreased theophylline clearance may occur in hypothyroid patients; clearance returns to normal when the euthyroid state is achieved. |
-| Radiographic Agents | Thyroid hormones may reduce the uptake of 123I, 131I, and 99mTc |
+| Methylxanthine Bronchodilators- (e.g., Theophylline) | Decreased theophylline clearance may occur in hypothyroid patients; clearance returns to normal when the euthyroid state is achieved. |
+| Radiographic Agents | Thyroid hormones may reduce the uptake of 123I, 131I, and 99mTc. |
 | Sympathomimetics | Concurrent use may increase the effects of sympathomimetics or thyroid hormone. Thyroid hormones may increase the risk of coronary insufficiency when sympathomimetic agents are administered to patients with coronary artery disease. |
-| Chloral Hydrate Diazepam Ethionamide Lovastatin Metoclopramide 6-Mercaptopurine Nitroprusside Para-aminosalicylate sodium Perphenazine Resorcinol (excessive topical use) Thiazide Diuretics | These agents have been associated with thyroid hormone and / or TSH level alterations by various mechanisms. |
+| Chloral HydrateDiazepamEthionamideLovastatinMetoclopramide6-MercaptopurineNitroprussidePara-aminosalicylate sodiumPerphenazineResorcinol (excessive topical use)Thiazide Diuretics | These agents have been associated with thyroid hormone and / or TSH level alterations by various mechanisms. |
 
-Oral anticoagulants– Levothyroxine increases the response to oral anticoagulant therapy.
+Oral anticoagulants — Levothyroxine increases the response to oral anticoagulant therapy.
 Therefore, a decrease in the dose of anticoagulant may be warranted with correction of the hypothyroid state or when the LEVOXYL® dose is increased.
 Prothrombin time should be closely monitored to permit appropriate and timely dosage adjustments (see Table 2).
 
-Digitalis glycosides– The therapeutic effects of digitalis glycosides may be reduced by levothyroxine.
-Serum digitalis glycoside levels may be decreased when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides(see Table 2).
+Digitalis glycosides — The therapeutic effects of digitalis glycosides may be reduced by levothyroxine.
+Serum digitalis glycoside levels may be decreased when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides (see Table 2)
 
-Drug-Food Interactions– Consumption of certain foods may affect levothyroxine absorption thereby necessitating adjustments in dosing.
+## Drug-Food Interactions
+
+Consumption of certain foods may affect levothyroxine absorption thereby necessitating adjustments in dosing.
 Soybean flour (infant formula), cotton seed meal, walnuts, and dietary fiber may bind and decrease the absorption of levothyroxine sodium from the GI tract.
 
-Drug-Laboratory Test Interactions – Changes in TBG concentration must be considered when interpreting T4 and T3 values, which necessitates measurement and evaluation of unbound (free) hormone and/or determination of the free T4 index (FT4I).
+## Drug-Laboratory Test Interactions
+
+Changes in TBG concentration must be considered when interpreting T4 and T3 values, which necessitates measurement and evaluation of unbound (free) hormone and/or determination of the free T4 index (FT4I).
 Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentrations.
 Decreases in TBG concentrations are observed in nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, and after androgen or corticosteroid therapy (see also Table 2).
 Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
 
-Carcinogenesis, Mutagenesis, and Impairment of Fertility– Animal studies have not been performed to evaluate the carcinogenic potential, mutagenic potential or effects on fertility of levothyroxine.
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+
+Animal studies have not been performed to evaluate the carcinogenic potential, mutagenic potential or effects on fertility of levothyroxine.
 The synthetic T4 in LEVOXYL® is identical to that produced naturally by the human thyroid gland.
 Although there has been a reported association between prolonged thyroid hormone therapy and breast cancer, this has not been confirmed.
 Patients receiving LEVOXYL® for appropriate clinical indications should be titrated to the lowest effective replacement dose.
 
-Pregnancy – Category A– Studies in women taking levothyroxine sodium during pregnancy have not shown an increased risk of congenital abnormalities.
+## Pregnancy — Category A
+
+Studies in women taking levothyroxine sodium during pregnancy have not shown an increased risk of congenital abnormalities.
 Therefore, the possibility of fetal harm appears remote.
 LEVOXYL® should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated.
 
@@ -174,22 +181,24 @@ During pregnancy, serum T4 levels may decrease and serum TSH levels increase to 
 Since elevations in serum TSH may occur as early as 4 weeks gestation, pregnant women taking LEVOXYL® should have their TSH measured during each trimester.
 An elevated serum TSH level should be corrected by an increase in the dose of LEVOXYL®.
 Since postpartum TSH levels are similar to preconception values, the LEVOXYL® dosage should return to the pre-pregnancy dose immediately after delivery.
-A serum TSH level should be obtained 6–8 weeks postpartum.
+A serum TSH level should be obtained 6—8 weeks postpartum.
 
 Thyroid hormones do not readily cross the placental barrier; however, some transfer does occur as evidenced by levels in cord blood of athyreotic fetuses being approximately one-third maternal levels.
 Transfer of thyroid hormone from the mother to the fetus, however, may not be adequate to prevent in utero hypothyroidism.
 
-Nursing Mothers– Although thyroid hormones are excreted only minimally in human milk, caution should be exercised when LEVOXYL® is administered to a nursing woman.
+## Nursing Mothers
+
+Although thyroid hormones are excreted only minimally in human milk, caution should be exercised when LEVOXYL® is administered to a nursing woman.
 However, adequate replacement doses of levothyroxine are generally needed to maintain normal lactation.
 
 ## Pediatric Use
 
-### General
+General
 
 The goal of treatment in pediatric patients with hypothyroidism is to achieve and maintain normal intellectual and physical growth and development.
 
 The initial dose of levothyroxine varies with age and body weight (see DOSAGE AND ADMINISTRATION, Table 3).
-Dosing adjustments are based on an assessment of the individual patient's clinical and laboratory parameters (see PRECAUTIONS, Laboratory Tests).
+Dosing adjustments are based on an assessment of the individual patient’s clinical and laboratory parameters (see PRECAUTIONS, Laboratory Tests).
 
 In children in whom a diagnosis of permanent hypothyroidism has not been established, it is recommended that levothyroxine administration be discontinued for a 30-day trial period, but only after the child is at least 3 years of age.
 Serum T4 and TSH levels should then be obtained.
@@ -205,7 +214,7 @@ However, if the serum TSH has not risen to greater than 20mU/L, levothyroxine tr
 
 The presence of concomitant medical conditions should be considered in certain clinical circumstances and, if present, appropriately treated (see PRECAUTIONS).
 
-Congenital Hypothyroidism (see PRECAUTIONS, Laboratory Tests andDOSAGE and ADMINISTRATION)
+Congenital Hypothyroidism (see PRECAUTIONS, Laboratory Tests and DOSAGE AND ADMINISTRATION)
 
 Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on intellectual development as well as on overall physical growth and maturation.
 Therefore, LEVOXYL® therapy should be initiated immediately upon diagnosis and is generally continued for life.
@@ -227,4 +236,4 @@ In children with severe or prolonged hypothyroidism, catch-up growth may not be 
 
 ## Geriatric Use
 
-Because of the increased prevalence of cardiovascular disease among the elderly, levothyroxine therapy should not be initiated at the full replacement dose (see WARNINGS,PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
+Because of the increased prevalence of cardiovascular disease among the elderly, levothyroxine therapy should not be initiated at the full replacement dose (see WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
