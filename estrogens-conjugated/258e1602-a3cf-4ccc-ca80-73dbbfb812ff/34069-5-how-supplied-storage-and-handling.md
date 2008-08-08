@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Premarin (conjugated estrogens tablets, USP)
+PREMARIN® (conjugated estrogens tablets, USP)
 
 — Each oval yellow tablet contains 1.25 mg, in bottles of 100 (NDC 0046-1104-81) and 1,000 (NDC 0046-1104-91).
 

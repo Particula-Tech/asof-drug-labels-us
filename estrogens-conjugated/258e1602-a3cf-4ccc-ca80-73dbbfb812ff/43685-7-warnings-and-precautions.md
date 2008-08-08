@@ -48,7 +48,7 @@ Statistically significant increases in risk for both DVT (26 versus 13 per 10,00
 The increase in VTE risk was demonstrated during the first year and persisted.
 (See CLINICAL STUDIES.)
 
-If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism,or during periods of prolonged immobilization.
+If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
 ## 2. Malignant neoplasms
 
@@ -149,7 +149,7 @@ Blood pressure should be monitored at regular intervals during estrogen use.
 In patients with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis and other complications.
 Consider discontinuation of treatment if pancreatitis or other complications develop.
 
-In the HOPE study, the mean percent increase from baseline in serum triglycerides after one year of treatment with Premarin 0.625 mg, 0.45 mg, and 0.3 mg compared with placebo were 34.3, 30.2, 25.1, and 10.7, respectively.
+In the HOPE study, the mean percent increase from baseline in serum triglycerides after one year of treatment with PREMARIN 0.625 mg, 0.45 mg, and 0.3 mg compared with placebo were 34.3, 30.2, 25.1, and 10.7, respectively.
 After two years of treatment, the mean percent changes were 47.6, 32.5, 19.0, and 5.5, respectively.
 
 ### 4. Impaired liver function and past history of cholestatic jaundice
@@ -194,7 +194,7 @@ Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epileps
 
 ## B. Patient Information
 
-Physicians are advised to discuss the contents of the PATIENT INFORMATION leaflet with patients for whom they prescribe Premarin.
+Physicians are advised to discuss the contents of the PATIENT INFORMATION leaflet with patients for whom they prescribe PREMARIN.
 
 ## C. Laboratory Tests
 
@@ -223,12 +223,12 @@ Long-term continuous administration of natural and synthetic estrogens in certai
 
 ## F. Pregnancy
 
-Premarin should not be used during pregnancy.
+PREMARIN should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
 
 ## G. Nursing Mothers
 
-Premarin should not be used during lactation.
+PREMARIN should not be used during lactation.
 Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
 Detectable amounts of estrogens have been identified in the milk of mothers receiving this drug.
 
@@ -246,7 +246,7 @@ In boys, estrogen treatment may modify the normal pubertal process and induce gy
 
 ## I. Geriatric Use
 
-With respect to efficacy in the approved indications, there have not been sufficient numbers of geriatric patients involved in studies utilizing Premarin to determine whether those over 65 years of age differ from younger subjects in their response to Premarin.
+With respect to efficacy in the approved indications, there have not been sufficient numbers of geriatric patients involved in studies utilizing PREMARIN to determine whether those over 65 years of age differ from younger subjects in their response to PREMARIN.
 
 In the estrogen alone substudy of the Women's Health Initiative (WHI) study, 46 percent (n=4,943) were 65 years of age and older, while 7.1 percent (n=767) were 75 years of age and older.
 There was a higher relative risk (daily conjugated estrogens [CE 0.625 mg] versus placebo) of stroke in women less than 75 years of age compared to women 75 years and older.

@@ -4,8 +4,8 @@
 
 In the first year of the Health and Osteoporosis, Progestin and Estrogen (HOPE) Study, a total of 2,805 postmenopausal women (average age 53.3 ± 4.9 years) were randomly assigned to one of eight treatment groups, receiving either placebo or conjugated estrogens, with or without medroxyprogesterone acetate.
 Efficacy for vasomotor symptoms was assessed during the first 12 weeks of treatment in a subset of symptomatic women (n = 241) who had at least seven moderate to severe hot flushes daily, or at least 50 moderate to severe hot flushes during the week before randomization.
-Premarin (0.3 mg, 0.45 mg, and 0.625 mg tablets) was shown to be statistically better than placebo at weeks 4 and 12 for relief of both the frequency and severity of moderate to severe vasomotor symptoms.
-Table 2 shows the adjusted mean number of hot flushes in the Premarin 0.3 mg, 0.45 mg, and 0.625 mg and placebo treatment groups over the initial 12-week period.
+PREMARIN (0.3 mg, 0.45 mg, and 0.625 mg tablets) was shown to be statistically better than placebo at weeks 4 and 12 for relief of both the frequency and severity of moderate to severe vasomotor symptoms.
+Table 2 shows the adjusted mean number of hot flushes in the PREMARIN 0.3 mg, 0.45 mg, and 0.625 mg and placebo treatment groups over the initial 12-week period.
 
 TABLE 2.
 SUMMARY TABULATION OF THE NUMBER OF HOT FLUSHES PER DAY– MEAN VALUES AND COMPARISONS BETWEEN THE ACTIVE TREATMENT GROUPS AND THE PLACEBO GROUP: PATIENTS WITH AT LEAST 7 MODERATE TO SEVERE FLUSHES PER DAY OR AT LEAST 50 PER WEEK AT BASELINE, LAST OBSERVATION CARRIED FORWARD (LOCF)
@@ -34,7 +34,7 @@ Results of vaginal maturation indexes at cycles 6 and 13 showed that the differe
 The HOPE study was a double-blind, randomized, placebo/active-drug-controlled, multicenter study of healthy postmenopausal women with an intact uterus.
 Subjects (mean age 53.3 ± 4.9 years) were 2.3 ± 0.9 years on average since menopause and took one 600-mg tablet of elemental calcium (Caltrate™) daily.
 Subjects were not given Vitamin D supplements.
-They were treated with Premarin 0.625 mg, 0.45 mg, 0.3 mg, or placebo.
+They were treated with PREMARIN 0.625 mg, 0.45 mg, 0.3 mg, or placebo.
 Prevention of bone loss was assessed by measurement of bone mineral density (BMD), primarily at the anteroposterior lumbar spine (L2 to L4).
 Secondarily, BMD measurements of the total body, femoral neck, and trochanter were also analyzed.
 Serum osteocalcin, urinary calcium, and N-telopeptide were used as bone turnover markers (BTM) at cycles 6, 13, 19, and 26.
@@ -44,12 +44,12 @@ Serum osteocalcin, urinary calcium, and N-telopeptide were used as bone turnover
 All active treatment groups showed significant differences from placebo in each of the four BMD endpoints at cycles 6, 13, 19, and 26.
 The mean percent increases in the primary efficacy measure (L2 to L4 BMD) at the final on‑therapy evaluation (cycle 26 for those who completed and the last available evaluation for those who discontinued early) were 2.46 percent with 0.625 mg, 2.26 percent with 0.45 mg, and 1.13 percent with 0.3 mg.
 The placebo group showed a mean percent decrease from baseline at the final evaluation of 2.45 percent.
-These results show that the lower dosages of Premarin were effective in increasing L2 to L4 BMD compared with placebo, and therefore support the efficacy of the lower doses.
+These results show that the lower dosages of PREMARIN were effective in increasing L2 to L4 BMD compared with placebo, and therefore support the efficacy of the lower doses.
 
 The analysis for the other three BMD endpoints yielded mean percent changes from baseline in femoral trochanter that were generally larger than those seen for L2 to L4, and changes in femoral neck and total body that were generally smaller than those seen for L2 to L4.
-Significant differences between groups indicated that each of the Premarin treatments was more effective than placebo for all three of these additional BMD endpoints.
+Significant differences between groups indicated that each of the PREMARIN treatments was more effective than placebo for all three of these additional BMD endpoints.
 With regard to femoral neck and total body, the active treatment groups all showed mean percent increases in BMD, while placebo treatment was accompanied by mean percent decreases.
-For femoral trochanter, each of the Premarin dose groups showed a mean percent increase that was significantly greater than the small increase seen in the placebo group.
+For femoral trochanter, each of the PREMARIN dose groups showed a mean percent increase that was significantly greater than the small increase seen in the placebo group.
 The percent changes from baseline to final evaluation are shown in Table 3.
 
 TABLE 3.
@@ -65,12 +65,12 @@ PERCENT CHANGE IN BONE MINERAL DENSITY: COMPARISON BETWEEN ACTIVE AND PLACEBO GR
 | 0.625 0.45 0.3 Placebo | 84 91 87 85 | 0.91 ± 0.14 0.89 ± 0.13 0.86 ± 0.11 0.88 ± 0.14 | 1.82 ± 0.45 1.84 ± 0.44 0.62 ± 0.45 -1.72 ± 0.45 | <0.001 <0.001 <0.001 |
 | Femoral Trochanter BMD |  |  |  |  |
 | 0.625 0.45 0.3 Placebo | 84 91 87 85 | 0.78 ± 0.13 0.76 ± 0.12 0.75 ± 0.10 0.75 ± 0.12 | 3.82 ± 0.58 3.16 ± 0.56 3.05 ± 0.57 0.81 ± 0.58 | <0.001 0.003 0.005 |
-| a: Identified by dosage (mg) of Premarin or placebo. |  |  |  |  |
+| a: Identified by dosage (mg) of PREMARIN or placebo. |  |  |  |  |
 
 Figure 1 shows the cumulative percentage of subjects with changes from baseline equal to or greater than the value shown on the x-axis.
 
 The mean percent changes from baseline in L2 to L4 BMD for women who completed the bone density study are shown with standard error bars by treatment group in Figure 2.
-Significant differences between each of the Premarin dosage groups and placebo were found at cycles 6, 13, 19, and 26.
+Significant differences between each of the PREMARIN dosage groups and placebo were found at cycles 6, 13, 19, and 26.
 
 The bone turnover markers serum osteocalcin and urinary N-telopeptide significantly decreased (p < 0.001) in all active-treatment groups at cycles 6, 13, 19, and 26 compared with the placebo group.
 Larger mean decreases from baseline were seen with the active groups than with the placebo group.
@@ -150,7 +150,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI A
 | Vertebral fractures | 0.65 (0.46-0.92) | 17 | 11 |
 | Lower arm/wrist fractures | 0.71 (0.59-0.85) | 62 | 44 |
 | Total fractures | 0.76 (0.69-0.83) | 199 | 152 |
-| aResults are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI 0.82-1.18). bNominal confidence intervals unadjusted for multiple looks and multiple comparisons. cIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
+| aResults are based on centrally adjudicated data. Mortalitydata was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI 0.82-1.18). bNominal confidence intervals unadjusted for multiple looks and multiple comparisons. cIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
 
 ## Women's Health Initiative Memory Study
 

@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Premarin therapy is indicated in the:
+PREMARIN therapy is indicated in the:
 
 1. Treatment of moderate to severe vasomotor symptoms due to menopause.
 2. Treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.

@@ -19,15 +19,15 @@ Estrogens act to reduce the elevated levels of these gonadotropins seen in postm
 ### A. Absorption
 
 Conjugated estrogens are water-soluble and are well-absorbed from the gastrointestinal tract after release from the drug formulation.
-The Premarin tablet releases conjugated estrogens slowly over several hours.
+The PREMARIN tablet releases conjugated estrogens slowly over several hours.
 Table 1 summarizes the mean pharmacokinetic parameters for unconjugated and conjugated estrogens following administration of 1 x 0.625 mg and 1 x 1.25 mg tablets to healthy postmenopausal women.
 
-The pharmacokinetics of Premarin 0.45 mg and 1.25 mg tablets were assessed following a single dose with a high-fat breakfast and with fasting administration.
+The pharmacokinetics of PREMARIN 0.45 mg and 1.25 mg tablets were assessed following a single dose with a high-fat breakfast and with fasting administration.
 The Cmax and AUC of estrogens were altered approximately 3-13%.
 The changes to Cmax and AUC are not considered clinically meaningful.
 
 TABLE 1.
-PHARMACOKINETIC PARAMETERS FOR PREMARIN
+PHARMACOKINETIC PARAMETERS FOR PREMARIN®
 
 | Pharmacokinetic Profile of Unconjugated Estrogens Following a Dose of 1 x 0.625 mg |  |  |  |  |
 | --- | --- | --- | --- | --- |
