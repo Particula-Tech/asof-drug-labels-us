@@ -1,0 +1,117 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Increased Susceptibility to Infection and the Possible Development of Lymphoma
+
+Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression.
+The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7-3.2% (for Rapamune-treated patients) versus 0.6-0.8% (azathioprine and placebo control) [see Adverse Reactions (6.1) and (6.2)].
+Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections such as tuberculosis, fatal infections, and sepsis.
+Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use Rapamune.
+Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
+The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient.
+
+## 5.2 Liver Transplantation – Excess Mortality, Graft Loss, and Hepatic Artery Thrombosis (HAT)
+
+The use of Rapamune in combination with tacrolimus was associated with excess mortality and graft loss in a study in de novo liver transplant patients (22% in combination versus 9% on tacrolimus alone).
+Many of these patients had evidence of infection at or near the time of death.
+
+In this and another study in de novo liver transplant patients, the use of Rapamune in combination with cyclosporine or tacrolimus was associated with an increase in HAT (7% in combination versus 2% in the control arm); most cases of HAT occurred within 30 days post-transplantation, and most led to graft loss or death.
+
+The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver transplant patients; therefore, such use is not recommended.
+
+## 5.3 Lung Transplantation – Bronchial Anastomotic Dehiscence
+
+Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de novo lung transplant patients when Rapamune has been used as part of an immunosuppressive regimen.
+
+The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in lung transplant patients; therefore, such use is not recommended.
+
+## 5.4 Hypersensitivity Reactions
+
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis and hypersensitivity vasculitis, have been associated with the administration of Rapamune [see Adverse Reactions (6.6)].
+
+## 5.5 Angioedema
+
+Rapamune has been associated with the development of angioedema.
+The concomitant use of Rapamune with other drugs known to cause angioedema, such as ACE-inhibitors, may increase the risk of developing angioedema.
+
+## 5.6 Fluid Accumulation and Wound Healing
+
+There have been reports of impaired or delayed wound healing in patients receiving Rapamune, including lymphocele and wound dehiscence [see Adverse Reactions (6.1)]. mTOR inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
+Lymphocele, a known surgical complication of renal transplantation, occurred significantly more often in a dose-related fashion in patients treated with Rapamune [see Adverse Reactions (6.1)].
+Appropriate measures should be considered to minimize such complications.
+Patients with a body mass index (BMI) greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
+
+There have also been reports of fluid accumulation, including peripheral edema, lymphedema, pleural effusion and pericardial effusions (including hemodynamically significant effusions and tamponade requiring intervention in children and adults), in patients receiving Rapamune.
+
+## 5.7 Hyperlipidemia
+
+Increased serum cholesterol and triglycerides requiring treatment occurred more frequently in patients treated with Rapamune compared with azathioprine or placebo controls in Studies 1 and 2 [see Adverse Reactions (6.1)].
+There were increased incidences of hypercholesterolemia (43-46%) and/or hypertriglyceridemia (45-57%) in patients receiving Rapamune compared with placebo controls (each 23%).
+The risk/benefit should be carefully considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
+
+Any patient who is administered Rapamune should be monitored for hyperlipidemia.
+If detected, interventions such as diet, exercise, and lipid-lowering agents should be initiated as outlined by the National Cholesterol Education Program guidelines.
+
+In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates appeared to be well-tolerated.
+
+During Rapamune therapy with cyclosporine, patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents.
+
+## 5.8 Renal Function
+
+Renal function should be closely monitored during the co-administration of Rapamune with cyclosporine, because long-term administration of the combination has been associated with deterioration of renal function.
+Patients treated with cyclosporine and Rapamune were noted to have higher serum creatinine levels and lower glomerular filtration rates compared with patients treated with cyclosporine and placebo or azathioprine controls (Studies 1 and 2).
+The rate of decline in renal function in these studies was greater in patients receiving Rapamune and cyclosporine compared with control therapies.
+
+Appropriate adjustment of the immunosuppressive regimen, including discontinuation of Rapamune and/or cyclosporine, should be considered in patients with elevated or increasing serum creatinine levels.
+In patients at low- to moderate-immunologic risk, continuation of combination therapy with cyclosporine beyond 4 months following transplantation should only be considered when the benefits outweigh the risks of this combination for the individual patients.
+Caution should be exercised when using agents (e.g., aminoglycosides and amphotericin B) that are known to have a deleterious effect on renal function.
+
+In patients with delayed graft function, Rapamune may delay recovery of renal function.
+
+## 5.9 Proteinuria
+
+Periodic quantitative monitoring of urinary protein excretion is recommended.
+In a study evaluating conversion from calcineurin inhibitors (CNI) to Rapamune in maintenance renal transplant patients 6-120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to Rapamune compared with CNI continuation [see Clinical Studies (14.4), Adverse Reactions (6.4)].
+Patients with the greatest amount of urinary protein excretion prior to Rapamune conversion were those whose protein excretion increased the most after conversion.
+New onset nephrosis (nephrotic syndrome) was also reported as a treatment-emergent adverse event in 2.2% of the Rapamune conversion group patients in comparison to 0.4% in the CNI continuation group of patients.
+Nephrotic range proteinuria (defined as urinary protein to creatinine ratio > 3.5) was also reported in 9.2% in the Rapamune conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
+In some patients, reduction in the degree of urinary protein excretion was observed for individual patients following discontinuation of Rapamune.
+The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established.
+
+## 5.10 Interstitial Lung Disease
+
+Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
+In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
+The risk may be increased as the trough sirolimus concentration increases [see Adverse Reactions (6.6)].
+
+## 5.11 De Novo Use Without Cyclosporine
+
+The safety and efficacy of de novo use of Rapamune without cyclosporine is not established in renal transplant patients.
+In a multicenter clinical study, de novo renal transplant patients treated with Rapamune, mycophenolate mofetil (MMF), steroids, and an IL-2 receptor antagonist had significantly higher acute rejection rates and numerically higher death rates compared to patients treated with cyclosporine, MMF, steroids, and IL-2 receptor antagonist.
+A benefit, in terms of better renal function, was not apparent in the treatment arm with de novo use of Rapamune without cyclosporine.
+These findings were also observed in a similar treatment group of another clinical trial.
+
+## 5.12 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/Thrombotic Thrombocytopenic Purpura/Thrombotic Microangiopathy (HUS/TTP/TMA)
+
+The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Adverse Reactions (6.6)].
+
+## 5.13 Antimicrobial Prophylaxis
+
+Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
+Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for 1 year following transplantation.
+
+Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantation, particularly for patients at increased risk for CMV disease.
+
+## 5.14 Assay for Sirolimus Therapeutic Drug Monitoring
+
+The label-recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
+Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies.
+These concentration values are not interchangeable [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+
+## 5.15 Skin Cancer Events
+
+Patients on immunosuppressive therapy are at increased risk for skin cancer.
+Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
+## 5.16 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
+
+Co-administration of Rapamune with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) is not recommended [see Drug Interactions (7)].
