@@ -1,0 +1,20 @@
+# DESCRIPTION
+
+Montelukast sodium, the active ingredient in SINGULAIRRegistered trademark of MERCK & CO., Inc.COPYRIGHT © 1998-2007 MERCK & CO., Inc. All rights reserved, is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene CysLT1 receptor.
+
+Montelukast sodium is described chemically as [R -(E)]-1-[[[1-[3-[2-(7-chloro-2-quinolinyl)ethenyl]phenyl]-3-[2-(1-hydroxy-1-methylethyl)phenyl]propyl]thio]methyl]cyclopropaneacetic acid, monosodium salt.
+
+The empirical formula is C35H35ClNNaO3S, and its molecular weight is 608.18.
+The structural formula is:
+
+Montelukast sodium is a hygroscopic, optically active, white to off-white powder.
+Montelukast sodium is freely soluble in ethanol, methanol, and water and practically insoluble in acetonitrile.
+
+Each 10-mg film-coated SINGULAIR tablet contains 10.4 mg montelukast sodium, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
+The film coating consists of: hydroxypropyl methylcellulose, hydroxypropyl cellulose, titanium dioxide, red ferric oxide, yellow ferric oxide, and carnauba wax.
+
+Each 4-mg and 5-mg chewable SINGULAIR tablet contains 4.2 and 5.2 mg montelukast sodium, respectively, which are equivalent to 4 and 5 mg of montelukast, respectively.
+Both chewable tablets contain the following inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, red ferric oxide, croscarmellose sodium, cherry flavor, aspartame, and magnesium stearate.
+
+Each packet of SINGULAIR 4-mg oral granules contains 4.2 mg montelukast sodium, which is equivalent to 4 mg of montelukast.
+The oral granule formulation contains the following inactive ingredients: mannitol, hydroxypropyl cellulose, and magnesium stearate.
