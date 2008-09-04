@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+The white, oval, film-coated tablets are available in the following strengths: 3.125 mg–engraved with 39 and SB, 6.25 mg–engraved with 4140 and SB, 12.5 mg–engraved with 4141 and SB, and 25 mg–engraved with 4142 and SB.
