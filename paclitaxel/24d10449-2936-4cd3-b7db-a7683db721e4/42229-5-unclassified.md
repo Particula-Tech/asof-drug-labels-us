@@ -2,12 +2,8 @@ Rx Only
 
 (Patient Information Enclosed)
 
-U.S. Patent Numbers: 5,439,686; 5,498,421; 6,096,331; 6,506,405;
-
-6,537,579; 6,749,868; 6,753,006
+Revised: August 2007
 
 ABRAXIS ONCOLOGY
 
-A Division of Abraxis BioScience, Inc.
-
-Los Angeles, CA 90049
+A Division of Abraxis BioScience, Inc. Los Angeles, CA 90049

@@ -2,26 +2,32 @@
 
 The following table shows the frequency of important adverse events in the randomized comparative trial for the patients who received either single-agent ABRAXANE® or paclitaxel injection for the treatment of metastatic breast cancer.
 
-Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Randomized Study on an Every-3-Weeks Schedule
+Table 2: FrequencyBased on worst grade. of Important Treatment Emergent Adverse Events in the Randomized Study on an Every-3-Weeks Schedule
 
-|  | ABRAXANE® 260/30 minb (n=229) | Paclitaxel Injection 175/3 hc,d (n=225) |
+|  | ABRAXANE® 260/30minABRAXANE dose in mg/m2/duration in minutes. (n=229) | Paclitaxel Injection 175/3hpaclitaxel injection dose in mg/m2/duration in hours.,paclitaxel injection pts received premedication. (n=225) |
 | --- | --- | --- |
 |  | Percent of Patients |  |
 | Bone Marrow |  |  |
-| Neutropenia < 2.0 x 109/L < 0.5 x 109/L | 809 | 8222 |
-| Thrombocytopenia < 100 x 109/L < 50 x 109/L | 2<1 | 3<1 |
-| Anemia < 11 g/dL < 8 g/dL | 331 | 25<1 |
+| Neutropenia |  |  |
+| < 2.0 × 109/L | 80 | 82 |
+| < 0.5 × 109/L | 9 | 22 |
+| Thrombocytopenia |  |  |
+| < 100 × 109/L | 2 | 3 |
+| < 50 × 109/L | <1 | <1 |
+| Anemia |  |  |
+| < 11 g/dL | 33 | 25 |
+| < 8 g/dL | 1 | <1 |
 | Infections | 24 | 20 |
 | Febrile Neutropenia | 2 | 1 |
 | Bleeding | 2 | 2 |
-| Hypersensitivity Reactione |  |  |
+| Hypersensitivity ReactionIncludes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing. |  |  |
 | All | 4 | 12 |
-| Severef | 0 | 2 |
+| SevereSevere events are defined as at least grade 3 toxicity. | 0 | 2 |
 | Cardiovascular |  |  |
-| Vital Sign Changesg |  |  |
+| Vital Sign ChangesDuring study drug dosing. |  |  |
 | Bradycardia | <1 | <1 |
 | Hypotension | 5 | 5 |
-| Severe Cardiovascular Eventsf | 3 | 4 |
+| Severe Cardiovascular Events | 3 | 4 |
 | Abnormal ECG |  |  |
 | All patients | 60 | 52 |
 | Patients with Normal Baseline | 35 | 30 |
@@ -30,36 +36,35 @@ Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | Dyspnea | 12 | 9 |
 | Sensory Neuropathy |  |  |
 | Any Symptoms | 71 | 56 |
-| Severe Symptomsf | 10 | 2 |
+| Severe Symptoms | 10 | 2 |
 | Myalgia / Arthralgia |  |  |
 | Any Symptoms | 44 | 49 |
-| Severe Symptomsf | 8 | 4 |
+| Severe Symptoms | 8 | 4 |
 | Asthenia |  |  |
 | Any Symptoms | 47 | 39 |
-| Severe Symptomsf | 8 | 3 |
+| Severe Symptoms | 8 | 3 |
 | Fluid Retention/Edema |  |  |
 | Any Symptoms | 10 | 8 |
-| Severe Symptomsf | 0 | <1 |
+| Severe Symptoms | 0 | <1 |
 | Gastrointestinal |  |  |
 | Nausea |  |  |
 | Any symptoms | 30 | 22 |
-| Severe symptomsf | 3 | <1 |
+| Severe symptoms | 3 | <1 |
 | Vomiting |  |  |
 | Any symptoms | 18 | 10 |
-| Severe Symptomsf | 4 | 1 |
+| Severe Symptoms | 4 | 1 |
 | Diarrhea |  |  |
 | Any Symptoms | 27 | 15 |
-| Severe Symptomsf | <1 | 1 |
+| Severe Symptoms | <1 | 1 |
 | Mucositis |  |  |
 | Any Symptoms | 7 | 6 |
-| Severe Symptomsf | <1 | 0 |
+| Severe Symptoms | <1 | 0 |
 | Alopecia | 90 | 94 |
 | Hepatic (Patients with Normal Baseline) |  |  |
 | Bilirubin Elevations | 7 | 7 |
 | Alkaline Phosphatase Elevations | 36 | 31 |
 | AST (SGOT) Elevations | 39 | 32 |
 | Injection Site Reaction | <1 | 1 |
-| aBased on worst gradebABRAXANE dose in mg/m2/duration in minutes.cpaclitaxel injection dose in mg/m2/duration in hours.dpaclitaxel injection pts received premedication.eIncludes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing.fSevere events are defined as at least grade 3 toxicity.gDuring study drug dosing. |  |  |
 
 Myelosuppression and sensory neuropathy were dose related.
 
@@ -168,7 +173,7 @@ Rare reports of neutropenic enterocolitis (typhlitis), despite the coadministrat
 ### Injection Site Reaction
 
 Injection site reactions have occurred infrequently with ABRAXANE and were mild in the randomized clinical trial.
-Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site, i.e., “recall”, has been reported rarely.
+Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site, i.e., "recall", has been reported rarely.
 
 Rare reports of more severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been received as part of the continuing surveillance of paclitaxel injection safety.
 In some cases the onset of the injection site reaction in paclitaxel injection patients either occurred during a prolonged infusion or was delayed by a week to ten days.

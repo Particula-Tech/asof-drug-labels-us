@@ -8,7 +8,7 @@ ABRAXANE is free of solvents.
 
 The active agent in ABRAXANE® is paclitaxel, a natural product with antitumor activity.
 Paclitaxel is obtained from Taxus media.
-The chemical name for paclitaxel is 5ß,20-Epoxy-1,2α,4,7α,10ß,13α-hexahydroxytax-11-en-9-one 4,10-diacetate 2-benzoate 13-ester with (2R,3S)-N-benzoyl-3-phenylisoserine.
+The chemical name for paclitaxel is 5β,20-Epoxy-1,2α,4,7β,10β,13α-hexahydroxytax-11-en-9-one 4,10-diacetate 2-benzoate 13-ester with (2R,3S)-N-benzoyl-3-phenylisoserine.
 
 Paclitaxel has the following structural formula:
 

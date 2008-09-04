@@ -1,15 +1,13 @@
-# PATIENT INFORMATION
+## PATIENT INFORMATION
 
-ABRAXANE® for Injectable Suspension
+ABRAXANE® for Injectable Suspension [generic name = (paclitaxel protein-bound particles for injectable suspension) (albumin-bound)]
 
-[generic name = (paclitaxel protein-bound particles for injectable suspension) (albumin-bound)]
-
-## WHAT IS ABRAXANE?
+WHAT IS ABRAXANE?
 
 ABRAXANE is a prescription cancer medicine.
 It is injected into a vein and it is used to treat advanced breast cancer.
 
-## WHAT IS CANCER?
+WHAT IS CANCER?
 
 Under normal conditions, the cells in your body divide and grow in an orderly, controlled way.
 Cell division and growth are necessary for the human body to perform its functions and to repair itself, when necessary.
@@ -19,7 +17,7 @@ A tumor is a mass of unhealthy cells that are dividing and growing fast and in a
 When a tumor invades surrounding healthy body tissue it is known as a malignant tumor.
 A malignant tumor can spread (metastasize) from its original site to other parts of the body if not found and treated early.
 
-## HOW DOES ABRAXANE WORK?
+HOW DOES ABRAXANE WORK?
 
 ABRAXANE is a type of medical treatment called chemotherapy.
 The purpose of chemotherapy is to kill cancer cells or prevent their growth.
@@ -30,20 +28,20 @@ ABRAXANE may stop the cells from dividing and growing, so they eventually die.
 In addition, normal cells may also be affected by ABRAXANE causing some of the side effects.
 (see WHAT ARE THE POSSIBLE SIDE EFFECTS OF ABRAXANE? below).
 
-## WHO SHOULD NOT TAKE ABRAXANE?
+WHO SHOULD NOT TAKE ABRAXANE?
 
 ABRAXANE should not be given to patients with dangerously low white blood cell counts.
 
-## HOW IS ABRAXANE® GIVEN?
+HOW IS ABRAXANE® GIVEN?
 
 ABRAXANE is injected into a vein [intravenous (I.V.) infusion] over 30 minutes.
 
-## WHAT PREMEDICATION IS REQUIRED WITH ABRAXANE?
+WHAT PREMEDICATION IS REQUIRED WITH ABRAXANE?
 
 While reactions can occur to any medication, severe allergic reactions to ABRAXANE are uncommon and premedication is not required.
 However, you should make your doctor aware of any allergies you may have so he/she can determine the course of action required.
 
-## WHAT ARE THE POSSIBLE SIDE EFFECTS OF ABRAXANE?
+WHAT ARE THE POSSIBLE SIDE EFFECTS OF ABRAXANE?
 
 Most patients taking ABRAXANE will experience side effects, although it is not always possible to tell whether such effects are caused by ABRAXANE, another medicine they may be taking, or the cancer itself.
 Important side effects are described below; however, some patients may experience other side effects that are less common.
@@ -54,9 +52,9 @@ Important side effects observed in studies of patients taking ABRAXANE were as f
 Hair Loss: Complete hair loss, or alopecia, almost always occurs with ABRAXANE.
 This usually involves the loss of eyebrows, eyelashes, and pubic hair, as well as scalp hair.
 It can occur suddenly after treatment has begun, but usually happens 14 to 21 days after treatment.
-Hair generally grows back after you’ve finished your ABRAXANE treatment.
+Hair generally grows back after you've finished your ABRAXANE treatment.
 
-Infections Due to Low White Blood Cell Count: Among the body’s defenses against bacterial infections are white blood cells.
+Infections Due to Low White Blood Cell Count: Among the body's defenses against bacterial infections are white blood cells.
 Between your ABRAXANE treatment cycles, you will often have blood tests to check your white blood cell counts.
 ABRAXANE usually causes a brief drop in white blood cells.
 If you have a fever (temperature above 100.4°F) or other sign of infection, tell your doctor right away.
@@ -103,7 +101,7 @@ If you notice anything unusual at the site of the injection (needle), either dur
 Talk with your doctor or other healthcare professional to discuss ways to prevent or reduce some of these side effects.
 Because this leaflet does not include all possible side effects that can occur with ABRAXANE, it is important to talk with your doctor about other possible side effects.
 
-## CAN I TAKE ABRAXANE IF I AM PREGNANT OR NURSING A BABY?
+CAN I TAKE ABRAXANE IF I AM PREGNANT OR NURSING A BABY?
 
 ABRAXANE could harm the fetus when given to a pregnant woman.
 Women should avoid becoming pregnant while they are undergoing treatment with ABRAXANE.
@@ -124,10 +122,10 @@ Remember, no written summary can replace careful discussion with your doctor.
 
 ABRAXIS ONCOLOGY
 
-A Division of Abraxis BioScience, Inc.
-
-Los Angeles, CA 90049
+A Division of Abraxis BioScience, Inc. Los Angeles, CA 90049
 
 This Patient Information Leaflet has been approved by the U.S. Food and Drug Administration.
 
-Based on: ABRAXANE Package Insert
+Based on: ABRAXANE Package Insert 451031E/Revised: August 2007
+
+Revised: August 2007

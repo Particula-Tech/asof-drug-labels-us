@@ -8,7 +8,11 @@ Patients should not be retreated with subsequent cycles of ABRAXANE until neutro
 The use of ABRAXANE has not been studied in patients with hepatic or renal dysfunction.
 In the randomized controlled trial, patients were excluded for baseline serum bilirubin >1.5 mg/dL or baseline serum creatinine >2 mg/dL.
 
-## Pregnancy-Teratogenic Effects: Pregnancy Category D
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category D
 
 ABRAXANE can cause fetal harm when administered to a pregnant woman.
 Administration of paclitaxel protein-bound particles to rats on gestation days 7 to 17 at doses of 6 mg/m2 (approximately 2% of the daily maximum recommended human dose on a mg/m2 basis) caused embryo- and fetotoxicity, as indicated by intrauterine mortality, increased resorptions (up to 5-fold), reduced numbers of litters and live fetuses, reduction in fetal body weight and increase in fetal anomalies.
@@ -70,7 +74,11 @@ Administration of paclitaxel protein-bound particles to male rats at 42 mg/m2 on
 A low incidence of skeletal and soft tissue fetal anomalies was also observed at doses of 3 and 12 mg/m2/week in this study (approximately 1 to 5% of the daily maximum recommended human exposure on a mg/m2 basis).
 Testicular atrophy/degeneration has also been observed in single-dose toxicology studies in rodents administered paclitaxel protein-bound particles at 54 mg/m2 and dogs administered 175 mg/m2 (see WARNINGS).
 
-## Pregnancy -Teratogenic Effects: Pregnancy Category D
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category D
 
 (See WARNINGS section).
 
@@ -84,7 +92,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 The safety and effectiveness of ABRAXANE in pediatric patients have not been evaluated.
 
-## Geriatric Use
+## Geriatric use
 
 Of the 229 patients in the randomized study who received ABRAXANE, 11% were at least 65 years of age and < 2% were 75 years or older.
 No toxicities occurred notably more frequently among elderly patients who received ABRAXANE.
