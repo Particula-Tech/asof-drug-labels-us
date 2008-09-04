@@ -23,7 +23,7 @@ Table 1 Single Dose and Steady State Pharmacokinetic Parameters for Oral 7.5 mg 
 |  | Steady State |  |  | Single Dose |  |
 | Pharmacokinetic Parameters (% CV) | Healthy male adults (Fed)2 | Elderly males (Fed)2 | Elderly females (Fed)2 | Renal failure (Fasted) | Hepatic insufficiency (Fasted) |
 | N | 18 | 5 | 8 | 12 | 12 |
-| Cmax [µg/mL] | 1.05 (20) | 2.3 (59) | 3.2 (24) | 0.59 (36) | 0.84 (29) |
+| Cmax [mcg/mL] | 1.05 (20) | 2.3 (59) | 3.2 (24) | 0.59 (36) | 0.84 (29) |
 | tmax [h] | 4.9 (8) | 5 (12) | 6 (27) | 4 (65) | 10 (87) |
 | t1/2 [h] | 20.1 (29) | 21 (34) | 24 (34) | 18 (46) | 16 (29) |
 | CL/f [mL/min] | 8.8 (29) | 9.9 (76) | 5.1 (22) | 19 (43) | 11 (44) |
@@ -105,7 +105,7 @@ Hemodialysis did not lower the total drug concentration in plasma; therefore, ad
 
 ## CLINICAL TRIALS
 
-## Osteoarthritis
+## Osteoarthritis and Rheumatoid Arthritis
 
 The use of meloxicam for the treatment of the signs and symptoms of osteoarthritis of the knee and hip was evaluated in a 12-week double-blind controlled trial.
 Meloxicam (3.75 mg, 7.5 mg and 15 mg daily) was compared to placebo.
@@ -113,3 +113,9 @@ The four primary endpoints were investigator’s global assessment, patient glob
 Patients on meloxicam 7.5 mg daily and meloxicam 15 mg daily showed significant improvement in each of these endpoints compared with placebo.
 The use of meloxicam for the management of signs and symptoms of osteoarthritis was evaluated in six double-blind, active-controlled trials outside the U.S. ranging from 4 weeks to 6 months duration.
 In these trials, the efficacy of meloxicam, in doses of 7.5 mg/day and 15 mg/day, was comparable to piroxicam 20 mg/day and diclofenac SR 100 mg/day and consistent with the efficacy seen in the U.S. trial.
+The use of meloxicam for the treatment of the signs and symptoms of rheumatoid arthritis was evaluated in a 12-week double-blind, controlled multinational trial.
+Meloxicam (7.5 mg, 15 mg and 22.5 mg daily) was compared to placebo.
+The primary endpoint in this study was the ACR20 response rate, a composite measure of clinical, laboratory and functional measures of RA response.
+Patients receiving meloxicam 7.5 mg and 15 mg daily showed significant improvement in the primary endpoint compared with placebo.
+No incremental benefit was observed with the 22.5 mg dose compared to the 15 mg dose.
+Higher doses of meloxicam (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore the daily dose of meloxicam should not exceed 15 mg.

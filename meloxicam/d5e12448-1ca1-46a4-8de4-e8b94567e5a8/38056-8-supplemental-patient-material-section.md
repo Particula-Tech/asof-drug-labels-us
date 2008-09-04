@@ -85,8 +85,8 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 - flu-like symptoms
 - vomit blood
 - there is blood in your bowel movement or it is black and sticky like tar
-- unusual weight gain
 - skin rash or blisters with fever
+- unusual weight gain
 - swelling of the arms and legs, hands and feet
 
 These are not all the side effects with NSAID medicines.
@@ -125,4 +125,7 @@ NSAID medicines that need a prescription
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
 | *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually use for less than 10 days to treat pain. The OTC NSAID label warms that long term continuous use may increase the risk of heart attack or stroke. |  |
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India This Medication Guide has been approved by the U.S. Food and Drug Administration
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India

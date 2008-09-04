@@ -12,7 +12,7 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS, Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding, and Perforation ).
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS ).
+Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS ).
 
 ### Hypertension
 
@@ -31,7 +31,7 @@ Meloxicam tablets should be used with caution in patients with fluid retention, 
 NSAIDs, including meloxicam tablets, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs, occur in approximately 1% of patients treated for 3‑6 months, and in about 2‑4% of patients treated for one year.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs, occur in approximately 1% of patients treated for 3 to 6 months, and in about 2 to 4% of patients treated for one year.
 These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy .
 However, even short-term therapy is not without risk.
 NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
@@ -192,6 +192,8 @@ Patients on lithium treatment should be closely monitored for signs of lithium t
 NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
 This may indicate that they could enhance the toxicity of methotrexate.
 Caution should be used when NSAIDs are administered concomitantly with methotrexate.
+A study in 13 rheumatoid arthritis (RA) patients evaluated the effects of multiple doses of meloxicam on the pharmacokinetics of methotrexate taken once weekly.
+Meloxicam did not have a significant effect on the pharmacokinetics of single doses of methotrexate.
 In vitro , methotrexate did not displace meloxicam from its human serum binding sites.
 
 ### Warfarin
@@ -205,7 +207,7 @@ Caution should be used when administering meloxicam tablets with warfarin since 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No carcinogenic effect of meloxicam was observed in rats given oral doses up to 0.8 mg/kg/day (approximately 0.4-fold the human dose at 15 mg/day for a 50 kg adult based on body surface area conversion) for 104 weeks or in mice given oral doses up to 8.0 mg/kg/day (approximately 2.2-fold the human dose, as noted above) for 99 weeks.
+No carcinogenic effect of meloxicam was observed in rats given oral doses up to 0.8 mg/kg/day (approximately 0.4-fold the human dose at 15 mg/day for a 50 kg adult based on body surface area conversion) for 104 weeks or in mice given oral doses up to 8 mg/kg/day (approximately 2.2-fold the human dose, as noted above) for 99 weeks.
 Meloxicam was not mutagenic in an Ames assay, or clastogenic in a chromosome aberration assay with human lymphocytes and an in vivo micronucleus test in mouse bone marrow.
 Meloxicam did not impair male and female fertility in rats at oral doses up to 9 and 5 mg/kg/day, respectively (4.9-fold and 2.5-fold the human dose, as noted above).
 However, an increased incidence of embryolethality at oral doses ≥ 1 mg/kg/day (0.5-fold the human dose, as noted above) was observed in rats when dams were given meloxicam 2 weeks prior to mating and during early embryonic development.

@@ -10,7 +10,7 @@ Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs,
 Patients should be managed with symptomatic and supportive care following an NSAID overdose.
 In cases of acute overdose, gastric lavage followed by activated charcoal is recommended.
 Gastric lavage performed more than one hour after overdose has little benefit in the treatment of overdose.
-Administration of activated charcoal is recommended for patients who present 1‑2 hours after overdose.
+Administration of activated charcoal is recommended for patients who present 1 to 2 hours after overdose.
 For substantial overdose or severely symptomatic patients, activated charcoal may be administered repeatedly.
 Accelerated removal of meloxicam by 4 gm oral doses of cholestyramine given three times a day was demonstrated in a clinical trial.
 Administration of cholestyramine may be useful following an overdose.
