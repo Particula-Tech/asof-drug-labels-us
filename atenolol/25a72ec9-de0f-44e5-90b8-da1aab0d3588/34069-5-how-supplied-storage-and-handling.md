@@ -4,9 +4,9 @@ Atenolol tablets USP, 25 mg (white to off-white marble finish, round, flat bevel
 
 Atenolol tablets USP, 50 mg (round, flat, white tablets identified with score on one side, debossed with the numbers "93" above and "752" below the score) are supplied in bottles of 100 and 1000.
 
-Atenolol tablets USP, 100 mg (round, flat, white tablets, unscored, debossed with the numbers "93" and "753" on one side) are supplied in bottles of 100.
+Atenolol tablets USP, 100 mg (round, flat, white tablets, unscored, debossed with the numbers "93" and "753" on one side) are supplied in bottles of 100 and 500.
 
-Store at 20o to 25oC (68o to 77oF) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
@@ -24,4 +24,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-Q 5/2005
+R 7/2007

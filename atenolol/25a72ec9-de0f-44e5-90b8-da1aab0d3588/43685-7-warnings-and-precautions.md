@@ -24,8 +24,8 @@ Patients with preexisting conduction abnormalities or left ventricular dysfuncti
 ## Bronchospastic Disease
 
 PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS.
-Because of its relative beta1selectivity, however, atenolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
-Since beta1selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.
+Because of its relative beta1-selectivity, however, atenolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
+Since beta1-selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.
 If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
 
 ## Anesthesia and Major Surgery
@@ -133,7 +133,7 @@ Caution should be exercised when atenolol is administered during pregnancy or to
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients has not been established.
+Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 

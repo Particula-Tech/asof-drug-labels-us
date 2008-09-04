@@ -1,6 +1,6 @@
 # POTENTIAL ADVERSE EFFECTS
 
-In addition, a variety of adverse effects have been reported with other beta-andrenergic blocking agents, and may be considered potential adverse effects of atenolol.
+In addition, a variety of adverse effects have been reported with other beta-adrenergic blocking agents, and may be considered potential adverse effects of atenolol.
 
 ## Hematologic
 
@@ -8,11 +8,11 @@ Agranulocytosis.
 
 ## Allergic
 
-Fever, combined with aching and sore throat, laryngospasm, and respiratory diseases.
+Fever, combined with aching and sore throat, laryngospasm, and respiratory distress.
 
 ## Central Nervous System
 
-Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation of time and place; short-term memory loss; emotional lability with slight clouded sensorium; and, decreased performance on neuropschometrics.
+Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation of time and place; short-term memory loss; emotional lability with slightly clouded sensorium; and, decreased performance on neuropsychometrics.
 
 ## Gastrointestinal
 

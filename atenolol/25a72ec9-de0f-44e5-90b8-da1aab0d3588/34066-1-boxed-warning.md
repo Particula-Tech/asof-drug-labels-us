@@ -1,4 +1,4 @@
-## Cessation of Therapy with Atenolol
+# Cessation of Therapy with Atenolol
 
 Patients with coronary artery disease, who are being treated with atenolol, should be advised against abrupt discontinuation of therapy.
 Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta blockers.

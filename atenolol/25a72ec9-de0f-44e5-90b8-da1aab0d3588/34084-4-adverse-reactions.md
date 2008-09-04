@@ -14,7 +14,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | Cold Extremities | 0 | 0.5 | 12 | 5 |
 | Postural Hypotension | 2 | 1 | 4 | 5 |
 | Leg Pain | 0 | 0.5 | 3 | 1 |
-| CENTRAL NERVOUS SYSTEM/NEUROMUSCULAR& |  |  |  |  |
+| CENTRAL NERVOUS SYSTEM/NEUROMUSCULAR |  |  |  |  |
 | Dizziness | 4 | 1 | 13 | 6 |
 | Vertigo | 2 | 0.5 | 2 | 0.2 |
 | Lightheadedness | 1 | 0 | 3 | 0.7 |
@@ -65,7 +65,9 @@ In a study of 477 patients, the following adverse events were reported during ei
 
 In the subsequent International Study of Infarct Survival (ISIS-1) including over 16,000 patients of whom 8,037 were randomized to receive atenolol treatment, the dosage of intravenous and subsequent oral atenolol was either discontinued or reduced for the following reasons:
 
-|  | Reasons for Reduced Dosage IV Atenolol Reduced Dose (< 5 mg)* | Oral Partial Dose |
+Reasons for Reduced Dosage IV Atenolol
+
+|  | Reduced Dose (< 5 mg)* | Oral Partial Dose |
 | --- | --- | --- |
 | Hypotension/Bradycardia | 105 (1.3%) | 1168 (14.5%) |
 | Cardiogenic Shock | 4 (0.04%) | 35 (0.44%) |

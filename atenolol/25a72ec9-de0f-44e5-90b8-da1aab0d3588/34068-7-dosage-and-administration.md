@@ -51,7 +51,7 @@ Peak plasma levels were significantly increased in subjects with creatinine clea
 
 The following maximum oral dosages are recommended for elderly, renally-impaired patients and for patients with renal impairment due to other causes:
 
-| Creatinine Clearance (mL/min/1.73 m2) | Atenolol Elimination Dosage Half-Life (h) | Maximum |
+| Creatinine Clearance (mL/min/1.73 m2) | Atenolol Elimination Half-Life (h) | Maximum Dosage |
 | --- | --- | --- |
 | 15 to 35 | 16 to 27 | 50 mg daily |
 | < 15 | > 27 | 25 mg daily |

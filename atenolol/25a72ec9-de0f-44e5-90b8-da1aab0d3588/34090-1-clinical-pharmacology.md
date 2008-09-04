@@ -3,7 +3,7 @@
 Atenolol is a beta1-selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities.
 This preferential effect is not absolute, however, and at higher doses, atenolol inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
 
-## Pharmokinetics and Metabolism
+## Pharmacokinetics and Metabolism
 
 In man, absorption of an oral dose is rapid and consistent but incomplete.
 Approximately 50% of an oral dose is absorbed from the gastrointestinal tract, the remainder being excreted unchanged in the feces.
@@ -31,7 +31,7 @@ For both orally and intravenously administered drug, the duration of action is d
 The effect on exercise tachycardia of a single 10 mg intravenous dose is largely dissipated by 12 hours, whereas beta blocking activity of single oral doses of 50 mg and 100 mg is still evident beyond 24 hours following administration.
 However, as has been shown for all beta blocking agents, the antihypertensive effect does not appear to be related to plasma level.
 
-In normal subjects, the beta1 selectivity of atenolol has been shown by its reduced ability to reverse the beta2-mediated vasodilating effect of isoproterenol as compared to equivalent beta blocking doses of propranolol.
+In normal subjects, the beta1-selectivity of atenolol has been shown by its reduced ability to reverse the beta2-mediated vasodilating effect of isoproterenol as compared to equivalent beta blocking doses of propranolol.
 In asthmatic patients, a dose of atenolol producing a greater effect on resting heart rate than propranolol resulted in much less increase in airway resistance.
 In a placebo controlled comparison of approximately equipotent oral doses of several beta blockers, atenolol produced a significantly smaller decrease of FEV1 than nonselective beta blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.
 
