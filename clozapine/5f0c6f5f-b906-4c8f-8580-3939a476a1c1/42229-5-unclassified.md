@@ -1,3 +1,5 @@
+CLOZARIL®
+
 (clozapine) Tablets
 
 Rx only

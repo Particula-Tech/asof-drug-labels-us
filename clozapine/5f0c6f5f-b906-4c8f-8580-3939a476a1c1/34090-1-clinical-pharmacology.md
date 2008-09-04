@@ -69,5 +69,3 @@ Data from this study indicate that CLOZARIL had a statistically significant long
 This result should be interpreted only as evidence of the effectiveness of CLOZARIL in delaying time to recurrent suicidal behavior, and not a demonstration of the superior efficacy of CLOZARIL over Zyprexa.
 
 The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization due to imminent suicide risk (including increased level of surveillance for suicidality for patients already hospitalized) was lower for CLOZARIL patients than for Zyprexa patients at Week 104: CLOZARIL 24% vs. Zyprexa 32%; 95% C.I. of the difference: 2%, 14% (Figure 1).
-
-Figure 1: Kaplan-Meier Estimates of Cumulative Probability of a Significant Suicide Attempt or Hospitalization to Prevent Suicide.

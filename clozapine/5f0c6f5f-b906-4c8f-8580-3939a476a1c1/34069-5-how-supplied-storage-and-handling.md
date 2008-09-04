@@ -10,11 +10,11 @@ Engraved with “CLOZARIL” once on the periphery of one side.
 
 Engraved with a facilitated score and “25” once on the other side.
 
-Bottle of 100…………..………………………………………………..NDC 0078-0126-05
+Bottle of 100 NDC 0078-0126-05
 
-Bottle of 500…………..………………………………………………..NDC 0078-0126-08
+Bottle of 500 NDC 0078-0126-08
 
-Unit dose packages of 100: 2 x 5 strips, 10 blisters per strip………NDC 0078-0126-06
+Unit dose packages of 100: 2 x 5 strips, 10 blisters per strip NDC 0078-0126-06
 
 100 mg
 
@@ -22,11 +22,11 @@ Engraved with “CLOZARIL” once on the periphery of one side.
 
 Engraved with a facilitated score and “100” once on the other side.
 
-Bottle of 100…………..………………………………………………..NDC 0078-0127-05
+Bottle of 100 NDC 0078-0127-05
 
-Bottle of 500…………..………………………………………………..NDC 0078-0127-08
+Bottle of 500 NDC 0078-0127-08
 
-Unit dose packages of 100: 2 x 5 strips, 10 blisters per strip………NDC 0078-0127-06
+Unit dose packages of 100: 2 x 5 strips, 10 blisters per strip NDC 0078-0127-06
 
 ## Store and Dispense
 
