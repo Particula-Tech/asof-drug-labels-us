@@ -59,7 +59,7 @@ In patients with type 2 diabetes administered sitagliptin 100 mg (N=81) or sitag
 
 JANUMET
 
-The results of a definitive bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin/metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA™2) and metformin hydrochloride as individual tablets.
+The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin/metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA™2) and metformin hydrochloride as individual tablets.
 
 Absorption
 

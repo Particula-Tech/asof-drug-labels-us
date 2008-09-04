@@ -9,7 +9,7 @@ They should also be informed about the importance of adherence to dietary instru
 During periods of stress such as fever, trauma, infection, or surgery, medication requirements may change and patients should be advised to seek medical advice promptly.
 
 The risks of lactic acidosis due to the metformin component, its symptoms, and conditions that predispose to its development, as noted in Warnings and Precautions (5.1), should be explained to patients.
-Patients should be advised to discontinue JANUMET immediately and to promptly notify their health practitioner if unexplained hyperventilation, myalgia, malaise, unusual somnolence, or other nonspecific symptoms occur.
+Patients should be advised to discontinue JANUMET immediately and to promptly notify their health practitioner if unexplained hyperventilation, myalgia, malaise, unusual somnolence, dizziness, slow or irregular heart beat, sensation of feeling cold (especially in the extremities) or other nonspecific symptoms occur.
 Gastrointestinal symptoms are common during initiation of metformin treatment and may occur during initiation of JANUMET therapy; however, patients should consult their physician if they develop unexplained symptoms.
 Although gastrointestinal symptoms that occur after stabilization are unlikely to be drug related, such an occurrence of symptoms should be evaluated to determine if it may be due to lactic acidosis or other serious disease.
 
@@ -164,8 +164,7 @@ How should I take JANUMET?
     Dehydration can occur if you are sick with severe vomiting, diarrhea or fever, or if you drink a lot less fluid than normal.
   - plan to have surgery.
   - are going to receive an injection of dye or contrast agent for an x-ray procedure.
-
-See "What is the most important information I should know about JANUMET?" and "Who should not take JANUMET?"
+    See "What is the most important information I should know about JANUMET?" and "Who should not take JANUMET?"
 
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection or surgery, the amount of diabetes medicine that you need may change.
   Tell your doctor right away if you have any of these conditions and follow your doctor’s instructions.

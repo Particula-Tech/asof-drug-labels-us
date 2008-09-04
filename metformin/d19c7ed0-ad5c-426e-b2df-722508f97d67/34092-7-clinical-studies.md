@@ -44,7 +44,7 @@ After 24 weeks, mean decreases from baseline of -2.9% for A1C, -127 mg/dL for FP
 
 Initial combination therapy or maintenance of combination therapy should be individualized and are left to the discretion of the health care provider.
 
-Sitagliptin Add-on Therapy in Patients with Type 2 Diabetes Inadequately Controlled on Metformin Alone:
+Sitagliptin Add-on Therapy in Patients with Type 2 Diabetes Inadequately Controlled on Metformin Alone
 
 A total of 701 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of sitagliptin in combination with metformin.
 Patients already on metformin (N=431) at a dose of at least 1500 mg per day were randomized after completing a 2-week, single-blind placebo run-in period.
@@ -126,4 +126,4 @@ Table 6: Glycemic Parameters in a 52-Week Study Comparing Sitagliptin to Glipizi
 | Change from baseline (adjusted mean) | -8 | -8 |
 
 The incidence of hypoglycemia in the sitagliptin group (4.9%) was significantly (p<0.001) lower than that in the glipizide group (32.0%).
-Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 kg vs +1.1 kg).
+Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 kg vs. +1.1 kg).

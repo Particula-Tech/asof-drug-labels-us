@@ -10,10 +10,10 @@ Table 1 summarizes the most common (≥5% of patients) adverse reactions reporte
 
 Table 1: Sitagliptin and Metformin Co-administered to Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise: Adverse Reactions Reported (Regardless of Investigator Assessment of Causality) in ≥5% of Patients Receiving Combination Therapy (and Greater than in Patients Receiving Placebo)Intent-to-treat population.
 
-|  | Number of Patients (%) |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo | Sitagliptin100 mg QD | Metformin 500 mg/Metformin 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin 500 mg/Metformin 1000 mg bid |
 |  | N = 176 | N = 179 | N = 364 | N = 372 |
+| --- | --- | --- | --- | --- |
+|  | Number of Patients (%) |  |  |  |
+|  | Placebo | Sitagliptin100 mg QD | Metformin 500 mg/Metformin 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin 500 mg/Metformin 1000 mg bid |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) |
 | Upper Respiratory Tract Infection | 9 (5.1) | 8 (4.5) | 19 (5.2) | 23 (6.2) |
 | Headache | 5 (2.8) | 2 (1.1) | 14 (3.8) | 22 (5.9) |
@@ -36,11 +36,11 @@ See Table 2.
 
 Table 2: Pre-selected Gastrointestinal Adverse Reactions (Regardless of Investigator Assessment of Causality) Reported in Patients with Type 2 Diabetes Receiving Sitagliptin and Metformin
 
-| N = 176 | N = 179 | N = 364 | N = 372 | N = 237 | N = 464 |  |
+|  | N = 176 | N = 179 | N = 364 | N = 372 | N = 237 | N = 464 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |  |  |
-| Study of Sitagliptin and Metformin in Patients Inadequately Controlled on Diet and Exercise |  |  |  | Study of Sitagliptin Add-on in Patients Inadequately Controlled on Metformin Alone |  |  |
-| Placebo | Sitagliptin100 mg QD | Metformin 500 mg/Metformin 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin 500 mg/Metformin 1000 mg bid | Placebo and Metformin≥1500 mg daily | Sitagliptin 100 mg QD and Metformin≥1500 mg daily |  |
+|  | Study of Sitagliptin and Metformin in Patients Inadequately Controlled on Diet and Exercise |  |  |  | Study of Sitagliptin Add-on in Patients Inadequately Controlled on Metformin Alone |  |
+|  | Placebo | Sitagliptin100 mg QD | Metformin 500 mg/Metformin 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin 500 mg/Metformin 1000 mg bid | Placebo and Metformin≥1500 mg daily | Sitagliptin 100 mg QD and Metformin≥1500 mg daily |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) | 6 (2.5) | 11 (2.4) |
 | Nausea | 2 (1.1) | 2 (1.1) | 20 (5.5) | 18 (4.8) | 2 (0.8) | 6 (1.3) |
 | Vomiting | 1 (0.6) | 0 (0.0) | 2 (0.5) | 8 (2.2) | 2 (0.8) | 5 (1.1) |
