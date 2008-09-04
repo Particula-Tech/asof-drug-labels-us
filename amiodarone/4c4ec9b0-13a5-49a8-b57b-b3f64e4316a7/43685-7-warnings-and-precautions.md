@@ -24,6 +24,7 @@ These data are consistent with the results of a pooled analysis of smaller, cont
 There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral amiodarone with or without initial I.V. therapy.
 Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
 Some cases have progressed to respiratory failure and/or death.
+Postmarketing reports describe cases of pulmonary toxicity in patients treated with low doses of amiodarone; however, reports suggest that the use of lower loading and maintenance doses of amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
 
 Amiodarone HCl Tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
 Therefore, when Pacerone® Tablets therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
@@ -47,7 +48,6 @@ Chest X-ray changes usually resolve within two to four months.
 According to some experts, steroids may prove beneficial.
 Prednisone in doses of 40 to 60 mg/day or equivalent doses of other steroids have been given and tapered over the course of several weeks depending upon the condition of the patient.
 In some cases rechallenge with amiodarone at a lower dose has not resulted in return of toxicity.
-Reports suggest that the use of lower loading and maintenance doses of amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
 
 In a patient receiving Pacerone® Tablets, any new respiratory symptoms should suggest the possibility of pulmonary toxicity, and the history, physical exam, chest X-ray and pulmonary-function tests (with diffusion capacity) should be repeated and evaluated.
 A 15% decrease in diffusion capacity has a high sensitivity but only a moderate specificity for pulmonary toxicity; as the decrease in diffusion capacity approaches 30%, the sensitivity decreases but the specificity increases.
@@ -76,6 +76,11 @@ There have been reports of QTc prolongation, with or without TdP, in patients ta
 The need to coadminister amiodarone with any other drug known to prolong the QTc interval must be based on a careful assessment of the potential risks and benefits of doing so for each patient.
 
 A careful assessment of the potential risks and benefits of administering Pacerone® Tablets must be made in patients with thyroid dysfunction due to the possibility of arrhythmia breakthrough or exacerbation of arrhythmia in these patients.
+
+## Implantable Cardiac Devices
+
+In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may result in changes to the electrical conduction properties of the heart thereby potentially affecting pacing or defibrillating thresholds.
+Therefore, assessments to ensure appropriate device parameters before and during amiodarone treatment is recommended.
 
 ## Thyrotoxicosis
 
