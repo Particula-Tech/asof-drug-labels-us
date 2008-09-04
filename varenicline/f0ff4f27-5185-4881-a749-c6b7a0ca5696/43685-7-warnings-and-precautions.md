@@ -5,9 +5,10 @@
 Serious neuropsychiatric symptoms have occurred in patients being treated with CHANTIX.
 Some cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking; however, some of these symptoms have occurred in patients who continued to smoke.
 All patients being treated with CHANTIX should be observed for neuropsychiatric symptoms including changes in behavior, agitation, depressed mood, suicidal ideation and suicidal behavior.
-These symptoms, as well as worsening of pre-existing psychiatric illness, have been reported in patients attempting to quit smoking while taking CHANTIX in the post-marketing experience.
+These symptoms, as well as worsening of pre-existing psychiatric illness, have been reported in some patients attempting to quit smoking while taking CHANTIX in the post-marketing experience.
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of CHANTIX and the safety and efficacy of CHANTIX in such patients has not been established.
-Patients attempting to quit smoking with CHANTIX and their families and caregivers should be alerted about the need to monitor for these symptoms and to report such symptoms immediately to the patient's healthcare provider.
+
+Advise patients and caregivers that the patient should stop taking CHANTIX and contact a health care provider immediately if agitation, depressed mood, or changes in behavior that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
 
 # PRECAUTIONS
 
@@ -51,7 +52,7 @@ There was no evidence of impairment of fertility in either male or female Spragu
 However, a decrease in fertility was noted in the offspring of pregnant rats who were administered varenicline succinate at an oral dose of 15 mg/kg/day (36 times the maximum recommended human daily exposure based on AUC at 1 mg BID).
 This decrease in fertility in the offspring of treated female rats was not evident at an oral dose of 3 mg/kg/day (9 times the maximum recommended human daily exposure based on AUC at 1 mg BID).
 
-## PREGNANCY
+## Pregnancy
 
 ### Pregnancy Category C
 
@@ -102,7 +103,8 @@ No dosage adjustment is recommended for elderly patients (see DOSAGE AND ADMINIS
 - Patients should be informed that they may experience vivid, unusual or strange dreams during treatment with CHANTIX.
 - Patients should be informed that quitting smoking, with or without CHANTIX, may be associated with nicotine withdrawal symptoms (depression, agitation) or exacerbation of pre-existing psychiatric illness.
   Some patients have experienced depressed mood, agitation, changes in behavior, suicidal ideation and suicide when attempting to quit smoking while taking CHANTIX.
-  They should be urged to report any such symptoms to their health care providers, and to reveal any history of psychiatric illness prior to initiating treatment.
+  If patients develop agitation, depressed mood, or changes in behavior that are not typical for them, or if patients develop suicidal ideation or suicidal behavior, they should be urged to discontinue CHANTIX and report symptoms to their health care providers.
+- Patients should be encouraged to reveal any history of psychiatric illness prior to initiating treatment.
 - Patients should be informed that some medications may require dose adjustment after quitting smoking.
 - Patients intending to become pregnant or planning to breast-feed an infant should be advised of the risks of smoking and risks and benefits of smoking cessation with CHANTIX.
 - Patients should be advised to use caution driving or operating machinery until they know how quitting smoking with varenicline may affect them.

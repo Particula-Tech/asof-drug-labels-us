@@ -3,7 +3,7 @@
 During the premarketing development of CHANTIX, over 4500 individuals were exposed to CHANTIX, with over 450 treated for at least 24 weeks and approximately 100 for a year.
 Most study participants were treated for 12 weeks or less.
 
-In Phase 2 and 3 placebo-controlled studies, the treatment discontinuation rate due to adverse events in patients dosed with 1 mg BID was 12% for CHANTIX compared to 10% for placebo in studies of three months> treatment.
+In Phase 2 and 3 placebo-controlled studies, the treatment discontinuation rate due to adverse events in patients dosed with 1 mg BID was 12% for CHANTIX compared to 10% for placebo in studies of three months' treatment.
 In this group, the discontinuation rates for the most common adverse events in CHANTIX treated patients were as follows: nausea (3% vs. 0.5% for placebo), headache (0.6% vs. 0.9% for placebo), insomnia (1.2% vs. 1.1% for placebo), and abnormal dreams (0.3% vs. 0.2% for placebo).
 
 Adverse Events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 7.1).
@@ -165,3 +165,5 @@ There have been reports of depressed mood, agitation, changes in behavior, suici
 Smoking cessation with or without treatment is associated with nicotine withdrawal symptoms and the exacerbation of underlying psychiatric illness.
 Not all patients had known pre-existing psychiatric illness and not all had discontinued smoking.
 The role of Chantix in these reports is not known (see WARNINGS).
+
+There have been reports of hypersensitivity reactions, such as angioedema and facial swelling.

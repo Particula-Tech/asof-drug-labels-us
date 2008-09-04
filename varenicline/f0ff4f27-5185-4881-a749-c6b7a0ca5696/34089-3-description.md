@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-CHANTIX™ tablets contain the active ingredient, varenicline (as the tartrate salt), which is a partial agonist selective for α4β2 nicotinic acetylcholine receptor subtypes.
+CHANTIX® tablets contain the active ingredient, varenicline (as the tartrate salt), which is a partial agonist selective for α4β2 nicotinic acetylcholine receptor subtypes.
 
 Varenicline, as the tartrate salt, is a powder which is a white to off-white to slightly yellow solid with the following chemical name: 7,8,9,10-tetrahydro-6,10-methano-6H-pyrazino[2,3-h][3]benzazepine, (2R,3R)-2,3-dihydroxybutanedioate (1:1).
 It is highly soluble in water.
