@@ -1,0 +1,3 @@
+# CONTRAINDICATIONS
+
+A history of allergic reaction to any of the penicillins is a contraindication.
