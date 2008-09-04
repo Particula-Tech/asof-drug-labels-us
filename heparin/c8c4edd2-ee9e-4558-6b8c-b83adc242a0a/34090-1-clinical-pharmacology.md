@@ -9,8 +9,6 @@ Heparin also prevents the formation of a stable fibrin clot by inhibiting the ac
 Bleeding time is usually unaffected by heparin.
 Clotting time is prolonged by full therapeutic doses of heparin; in most cases, it is not measurably affected by low doses of heparin.
 
-Patients over 60 years of age, following similar doses of heparin, may have higher plasma levels of heparin and longer activated partial thromboplastin times (APTTs) compared with patients under 60 years of age.
-
 Peak plasma levels of heparin are achieved 2 to 4 hours following subcutaneous administration, although there are considerable individual variations.
 Loglinear plots of heparin plasma concentrations with time, for a wide range of dose levels, are linear which suggest the absence of zero order processes.
 The liver and reticulo-endothelial system are the sites of biotransformation.

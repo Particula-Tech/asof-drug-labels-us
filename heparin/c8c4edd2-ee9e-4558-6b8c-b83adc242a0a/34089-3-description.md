@@ -13,7 +13,7 @@ It is to be administered by intravenous or deep subcutaneous routes.
 The potency is determined by a biological assay using a USP reference standard based on units of heparin activity per milligram.
 
 Carpuject® sterile cartridge unit contains a sterile solution of Heparin Sodium Injection, USP.
-Each mL contains 5,000 USP heparin units of heparin sodium and benzyl alcohol 1% as a preservative, in Water for Injection.
+Each mL contains 2,500 USP or 5,000 USP heparin units of heparin sodium and benzyl alcohol 1% as a preservative, in Water for Injection.
 The pH is adjusted between 5.0 to 7.5 with hydrochloric acid or sodium hydroxide.
 
 Each mL of Preservative-Free Heparin Sodium Injection contains 10,000 USP heparin units in Water for Injection.

@@ -16,10 +16,6 @@ This complication, if unrecognized, may be fatal.
 
 c. Retroperitoneal hemorrhage.
 
-Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and thrombosis (HITT) and Delayed Onset of HIT and HITT
-
-See WARNINGS
-
 Local Irritation
 
 Local irritation, erythema, mild pain, hematoma, or ulceration may follow deep, subcutaneous (intrafat) injection of heparin sodium.
