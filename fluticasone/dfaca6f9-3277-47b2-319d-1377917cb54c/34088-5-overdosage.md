@@ -8,7 +8,7 @@ No deaths occurred in rats given a single-dose combination of salmeterol 3.6 mg/
 
 Chronic overdosage with fluticasone propionate may result in signs/symptoms of hypercorticism (see PRECAUTIONS: General: Metabolic and Other Effects).
 Inhalation by healthy volunteers of a single dose of 4,000 mcg of fluticasone propionate inhalation powder or single doses of 1,760 or 3,520 mcg of fluticasone propionate CFC inhalation aerosol were well tolerated.
-Fluticasone propionate given by inhalation aerosol at doses of 1,320 mcg twice daily for 7 to 15 days to healthy human volunteers was also well tolerated.
+Fluticasone propionate given by inhalation aerosol at dosages of 1,320 mcg twice daily for 7 to 15 days to healthy human volunteers was also well tolerated.
 Repeat oral doses up to 80 mg daily for 10 days in healthy volunteers and repeat oral doses up to 20 mg daily for 42 days in patients were well tolerated.
 Adverse reactions were of mild or moderate severity, and incidences were similar in active and placebo treatment groups.
 In mice the oral median lethal dose was >1,000 mg/kg (>4,400 times the maximum recommended human daily inhalation dose on a mg/m2 basis).

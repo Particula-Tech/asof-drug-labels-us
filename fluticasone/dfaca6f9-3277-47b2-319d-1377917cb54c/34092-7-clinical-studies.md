@@ -1,11 +1,11 @@
 # CLINICAL TRIALS
 
 ADVAIR HFA has been studied in patients with asthma 12 years of age and older.
-ADVAIR HFA has not been studied in patients under 12 years of age or in patients with COPD.
+ADVAIR HFA has not been studiedin patients under 12 years of age or in patients with chronic obstructive pulmonary disease (COPD).
 In clinical trials comparing ADVAIR HFA Inhalation Aerosol with the individual components, improvements in most efficacy endpoints were greater with ADVAIR HFA than with the use of either fluticasone propionate or salmeterol alone.
 In addition, clinical trials showed comparable results between ADVAIR HFA and ADVAIR DISKUS.
 
-## Studies Comparing ADVAIR HFA to Fluticasone Propionate Alone or Salmeterol Alone
+## Studies Comparing ADVAIR HFA With Fluticasone Propionate Alone or Salmeterol Alone
 
 Four (4) double-blind, parallel-group clinical trials were conducted with ADVAIR HFA in 1,517 adolescent and adult patients (≥12 years, mean baseline forced expiratory volume in 1 second [FEV1] 65% to 75% of predicted normal) with asthma that was not optimally controlled on their current therapy.
 All metered-dose inhaler treatments were inhalation aerosols given as 2 inhalations twice daily, and other maintenance therapies were discontinued.
@@ -20,16 +20,13 @@ Baseline FEV1 measurements were similar across treatments: ADVAIR HFA 45/21, 2.2
 Predefined withdrawal criteria for lack of efficacy, an indicator of worsening asthma, were utilized for this placebo-controlled study.
 Worsening asthma was defined as a clinically important decrease in FEV1 or peak expiratory flow (PEF), increase in use of VENTOLIN® (albuterol, USP) Inhalation Aerosol, increase in night awakenings due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
 As shown in Table 1, statistically significantly fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma compared with salmeterol and placebo.
-Fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma compared to fluticasone propionate 44 mcg; however, the difference was not statistically significant.
+Fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma compared with fluticasone propionate 44 mcg; however, the difference was not statistically significant.
 
 Table 1.
-Percent of Patients Withdrawn Due to Worsening Asthma in Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
+Percent of Patients Withdrawn Due toWorsening Asthma in Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
-|  | Fluticasone Propionate | Salmeterol CFC |  |
+| ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol44 mcg(n = 89) | Salmeterol CFCInhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
 | --- | --- | --- | --- |
-|  | CFC Inhalation Aerosol | Inhalation Aerosol | Placebo HFA |
-| ADVAIR HFA 45/21 | 44 mcg | 21 mcg | Inhalation Aerosol |
-| (n = 92) | (n = 89) | (n = 92) | (n = 87) |
 | 2% | 8% | 25% | 28% |
 
 The FEV1 results are displayed in Figure 1.
@@ -42,21 +39,19 @@ The effect of ADVAIR HFA 45/21 on the secondary efficacy parameters, including m
 Table 2.
 Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
-|  |  | Fluticasone |  |  |
+| Efficacy Variable* | ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol 44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
 | --- | --- | --- | --- | --- |
-|  |  | Propionate CFC | Salmeterol |  |
-|  |  | Inhalation | CFC Inhalation | Placebo HFA |
-|  | ADVAIR HFA | Aerosol | Aerosol | Inhalation |
-|  | 45/21 | 44 mcg | 21 mcg | Aerosol |
-| Efficacy Variable* | (n = 92) | (n = 89) | (n = 92) | (n = 87) |
-| AM PEF (L/min) Baseline Change from baseline | 37758 | 36927 | 38125 | 3821 |
-| PM PEF (L/min) Baseline Change from baseline | 39748 | 38720 | 40216 | 4073 |
-| Use of VENTOLINInhalation Aerosol(inhalations/day) Baseline Change from baseline | 3.1-2.1 | 2.4-0.4 | 2.7-0.8 | 2.70.2 |
-| Asthma symptomscore/day Baseline Change from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
-| *Change from baseline = change from baseline at Endpoint (last available data). |  |  |  |  |
+| AM PEF (L/min) |  |  |  |  |
+| BaselineChange from baseline | 37758 | 36927 | 38125 | 3821 |
+| PM PEF (L/min) |  |  |  |  |
+| BaselineChange from baseline | 39748 | 38720 | 40216 | 4073 |
+| Use of VENTOLIN Inhalation Aerosol (inhalations/day) |  |  |  |  |
+| BaselineChange from baseline | 3.1-2.1 | 2.4-0.4 | 2.7-0.8 | 2.70.2 |
+| Asthma symptom score/day |  |  |  |  |
+| BaselineChange from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
 
 The subjective impact of asthma on patients’ perceptions of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).
-Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI 0.85, 1.44] compared to placebo).
+Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI 0.85, 1.44] compared with placebo).
 
 ### Study 2: Clinical Trial With ADVAIR HFA 45/21 Inhalation Aerosol
 
@@ -75,8 +70,8 @@ Baseline FEV1 measurements were similar across treatments: ADVAIR HFA 115/21, 2.
 
 Efficacy results in this study were similar to those observed in Studies 1 and 2.
 Patients receiving ADVAIR HFA 115/21 had significantly greater improvements in FEV1 (0.41 L, 20%) compared with fluticasone propionate 110 mcg (0.19 L, 9%), salmeterol (0.15 L, 8%), and placebo (-0.12 L, -6%).
-Significantly fewer patients receiving ADVAIR HFA 115/21 were withdrawn from this study for worsening asthma (7%) compared to salmeterol (24%) and placebo (54%).
-Fewer patients receiving ADVAIR HFA 115/21 were withdrawn due to worsening asthma (7%) compared to fluticasone propionate 110 mcg (11%); however, the difference was not statistically significant.
+Significantly fewer patients receiving ADVAIR HFA 115/21 were withdrawn from this study for worsening asthma (7%) compared with salmeterol (24%) and placebo (54%).
+Fewer patients receiving ADVAIR HFA 115/21 were withdrawn due to worsening asthma (7%) compared with fluticasone propionate 110 mcg (11%); however, the difference was not statistically significant.
 
 ### Study 4: Clinical Trial With ADVAIR HFA 230/21 Inhalation Aerosol
 

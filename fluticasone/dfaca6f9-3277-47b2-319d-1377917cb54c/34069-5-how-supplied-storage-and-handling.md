@@ -1,19 +1,18 @@
 # HOW SUPPLIED
 
-Each strength of ADVAIR HFA Inhalation Aerosol is supplied in a 12-g pressurized aluminum canister containing 120 metered inhalations in a box of 1.* Each canister is supplied with a purple actuator with a light purple strapcap and is sealed in a plastic-coated, moisture-protective foil pouch with a desiccant that should be discarded when the pouch is opened.
+Each strength of ADVAIR HFA Inhalation Aerosol is supplied in a 12-g pressurized aluminum canister containing 120 metered actuations in a box of 1.* Each canister is fitted with a counter, supplied with a purple actuator with a light purple strapcap, and sealed in a plastic-coated, moisture-protective foil pouch with a desiccant that should be discarded when the pouch is opened.
 Each canister is packaged with a Medication Guide leaflet.
 
-*NDC 0173-0715-00 ADVAIR HFA 45/21 Inhalation Aerosol
+*NDC 0173-0715-20 ADVAIR HFA 45/21 Inhalation Aerosol
 
-*NDC 0173-0716-00ADVAIR HFA 115/21 Inhalation Aerosol
+*NDC 0173-0716-20 ADVAIR HFA 115/21 Inhalation Aerosol
 
-*NDC 0173-0717-00ADVAIR HFA 230/21 Inhalation Aerosol
+*NDC 0173-0717-20ADVAIR HFA 230/21 Inhalation Aerosol
 
 The purple actuator supplied with ADVAIR HFA Inhalation Aerosol should not be used with any other product canisters, and actuators from other products should not be used with an ADVAIR HFA Inhalation Aerosol canister.
 
-The correct amount of medication in each inhalation cannot be assured after 120 inhalations, even though the canister is not completely empty and will continue to operate.
-The inhaler should be discarded when 120 actuations have been used.
-Never immerse the canister into water to determine the amount remaining in the canister (“float test”).
+The correct amount of medication in each actuation cannot be assured after the counter reads 000, even though the canister is not completely empty and will continue to operate.
+The inhaler should be discarded when the counter reads 000.
 
 Keep out of reach of children.
 Avoid spraying in eyes.
@@ -29,12 +28,3 @@ For best results, the inhaler should be at room temperature before use.
 SHAKE WELL FOR 5 SECONDS BEFORE USING.
 
 ADVAIR HFA Inhalation Aerosol does not contain chlorofluorocarbons (CFCs) as the propellant.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-©2008, GlaxoSmithKline.
-All rights reserved.
-
-March 2008 ADH:1PI

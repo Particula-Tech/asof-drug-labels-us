@@ -11,49 +11,35 @@ A total of 1,008 adolescent and adult patients with asthma (556 females and 452 
 Table 4.
 Overall Adverse Events With ≥3% Incidence in US Controlled Clinical Trials With ADVAIR HFA Inhalation Aerosol in Patients With Asthma
 
-|  |  |  |  |  | Salmeterol | Placebo |
+| Adverse Events | ADVAIR HFA |  | Fluticasone Propionate CFC Inhalation Aerosol |  | Salmeterol CFC Inhalation Aerosol | Placebo HFA Inhalation Aerosol |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Fluticasone |  | CFC | HFA |
-|  |  |  | Propionate CFC |  | Inhalation | Inhalation |
-| Adverse Events | ADVAIR HFA |  | Inhalation Aerosol |  | Aerosol | Aerosol |
-| 45/21 | 115/21 | 44 mcg | 110 mcg | 21 mcg |  |  |
-| (n = 187) | (n = 94) | (n = 186) | (n = 91) | (n = 274) | (n = 176) |  |
-| % | % | % | % | % | % |  |
+| 45/21(n = 187)% | 115/21(n = 94)% | 44 mcg(n = 186)% | 110 mcg(n = 91)% | 21 mcg(n = 274)% | (n = 176)% |  |
 | Ear, nose, & throat |  |  |  |  |  |  |
-| Upper respiratory | 16 | 24 | 13 | 15 | 17 | 13 |
-| tract infection |  |  |  |  |  |  |
+| Upper respiratorytract infection | 16 | 24 | 13 | 15 | 17 | 13 |
 | Throat irritation | 9 | 7 | 12 | 13 | 9 | 7 |
-| Upper respiratory | 4 | 4 | 3 | 7 | 5 | 3 |
-| inflammation |  |  |  |  |  |  |
+| Upper respiratoryinflammation | 4 | 4 | 3 | 7 | 5 | 3 |
 | Hoarseness/dysphonia | 3 | 1 | 2 | 0 | 1 | 0 |
 | Lower respiratory |  |  |  |  |  |  |
-| Viral respiratory | 3 | 5 | 4 | 5 | 3 | 4 |
-| infections |  |  |  |  |  |  |
+| Viral respiratoryinfections | 3 | 5 | 4 | 5 | 3 | 4 |
 | Neurology |  |  |  |  |  |  |
 | Headaches | 21 | 15 | 24 | 16 | 20 | 11 |
 | Dizziness | 4 | 1 | 1 | 0 | <1 | 0 |
 | Gastrointestinal |  |  |  |  |  |  |
-| Nausea& vomiting | 5 | 3 | 4 | 2 | 2 | 3 |
-| Viral gastrointestinal | 4 | 2 | 2 | 0 | 1 | 2 |
-| infections |  |  |  |  |  |  |
-| Gastrointestinal signs | 3 | 2 | 2 | 1 | 1 | 1 |
-| & symptoms |  |  |  |  |  |  |
+| Nausea & vomiting | 5 | 3 | 4 | 2 | 2 | 3 |
+| Viral gastrointestinalinfections | 4 | 2 | 2 | 0 | 1 | 2 |
+| Gastrointestinal signs& symptoms | 3 | 2 | 2 | 1 | 1 | 1 |
 | Non-site specific |  |  |  |  |  |  |
 | Pain | 3 | 1 | 2 | 1 | 2 | 2 |
 | Musculoskeletal |  |  |  |  |  |  |
 | Musculoskeletal pain | 5 | 7 | 8 | 2 | 4 | 4 |
 | Muscle pain | 4 | 1 | 1 | 1 | 3 | <1 |
-| Drug interaction, |  |  |  |  |  |  |
-| overdose,& trauma |  |  |  |  |  |  |
+| Drug interaction, overdose, & trauma |  |  |  |  |  |  |
 | Muscle injuries | 3 | 0 | 2 | 1 | 3 | 2 |
 | Reproduction |  |  |  |  |  |  |
-| Menstruation | 5 | 3 | 1 | 0 | <1 | <1 |
-| symptoms |  |  |  |  |  |  |
+| Menstruationsymptoms | 5 | 3 | 1 | 0 | <1 | <1 |
 | Psychiatry |  |  |  |  |  |  |
-| Intoxication& | 3 | 0 | 0 | 0 | 0 | 0 |
-| hangover |  |  |  |  |  |  |
-| Average duration of | 81.3 | 78.6 | 79.9 | 74.6 | 71.4 | 56.3 |
-| exposure (days) |  |  |  |  |  |  |
+| Intoxication &hangover | 3 | 0 | 0 | 0 | 0 | 0 |
+| Average duration of exposure (days) | 81.3 | 78.6 | 79.9 | 74.6 | 71.4 | 56.3 |
 
 Table 4 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in any of the groups receiving ADVAIR HFA and were more common than in the placebo group.
 In considering these data, differences in average duration of exposure should be taken into account.

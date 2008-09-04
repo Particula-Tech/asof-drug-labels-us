@@ -43,7 +43,6 @@ Recommended Dosages of ADVAIR HFA Inhalation Aerosol for Patients Not Adequately
 | Fluticasone propionate inhalation powder | ≤200 mcg500 mcg1,000 mcg* | 45/21115/21230/21 |
 | Mometasone furoate inhalation powder | 220 mcg440 mcg880 mcg | 45/21115/21230/21 |
 | Triamcinolone acetonide inhalation aerosol | ≤1,000 mcg1,100-1,600 mcg | 45/21115/21 |
-| *ADVAIR HFA should not be used for transferring patients from systemic corticosteroid therapy. |  |  |
 
 Improvement in asthma control following inhaled administration of ADVAIR HFA can occur within 30 minutes of beginning treatment, although maximum benefit may not be achieved for 1 week or longer after starting treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.
@@ -53,7 +52,7 @@ For patients who do not respond adequately to the starting dosage after 2 weeks 
 If a previously effective dosage regimen of ADVAIR HFA fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options, e.g., replacing the current strength of ADVAIR HFA with a higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids, should be considered.
 
 ADVAIR HFA should be primed before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
-In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by shaking well before each spray and releasing 2 test sprays into the air, away from the face.
+In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
 
 ## Geriatric Use
 

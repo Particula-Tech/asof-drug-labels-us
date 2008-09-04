@@ -14,7 +14,8 @@ The chemical name of salmeterol xinafoate is 4-hydroxy-α1-[[[6-(4-phenylbutoxy)
 Salmeterol xinafoate is a white powder with a molecular weight of 603.8, and the empirical formula is C25H37NO4•C11H8O3.
 It is freely soluble in methanol; slightly soluble in ethanol, chloroform, and isopropanol; and sparingly soluble in water.
 
-ADVAIR HFA 45/21 Inhalation Aerosol, ADVAIR HFA 115/21 Inhalation Aerosol, and ADVAIR HFA 230/21 Inhalation Aerosol are pressurized, metered-dose aerosol units intended for oral inhalation only.
+ADVAIR HFA 45/21 Inhalation Aerosol, ADVAIR HFA 115/21 Inhalation Aerosol, and ADVAIR HFA 230/21 Inhalation Aerosol are pressurized metered-dose aerosol units fitted with a counter.
+ADVAIR HFA is intended for oral inhalation only.
 Each unit contains a microcrystalline suspension of fluticasone propionate (micronized) and salmeterol xinafoate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 It contains no other excipients.
 
@@ -26,6 +27,6 @@ The actual amount of drug delivered to the lung may depend on patient factors, s
 Each 12-g canister provides 120 inhalations.
 
 ADVAIR HFA should be primed before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
-In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by shaking well before each spray and releasing 2 test sprays into the air away from the face.
+In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
 
 This product does not contain any chlorofluorocarbon (CFC) as the propellant.

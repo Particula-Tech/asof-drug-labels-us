@@ -4,7 +4,7 @@ Long-acting beta2-adrenergic agonists, such as salmeterol, one of the active ing
 Therefore, when treating patients with asthma, physicians should only prescribe ADVAIR HFA for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with 2 maintenance therapies.
 
 A large placebo-controlled US study that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol.
-The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized, double-blind study that enrolled long-acting beta2-agonist−naive patients with asthma to assess the safety of salmeterol (SEREVENT Inhalation Aerosol) 42 mcg twice daily over 28 weeks compared to placebo when added to usual asthma therapy.
+The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized, double-blind study that enrolled long-acting beta2-agonist−naive patients with asthma to assess the safety of salmeterol (SEREVENT Inhalation Aerosol) 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
 A planned interim analysis was conducted when approximately half of the intended number of patients had been enrolled (N = 26,355), which led to premature termination of the study.
 The results of the interim analysis showed that patients receiving salmeterol were at increased risk for fatal asthma events (see Table 3 and Figure 5).
 In the total population, a higher rate of asthma-related death occurred in patients treated with salmeterol than those treated with placebo (0.10% vs. 0.02%; relative risk 4.37 [95% CI 1.25, 15.34]).
@@ -59,7 +59,7 @@ The following additional WARNINGS about ADVAIR HFA should be noted.
    An inhaled, short-acting beta2-agonist, not ADVAIR HFA, should be used to relieve acute symptoms of shortness of breath.
    When prescribing ADVAIR HFA, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of shortness of breath that occurs acutely, despite regular twice-daily (morning and evening) use of ADVAIR HFA.When beginning treatment with ADVAIR HFA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
    For patients taking ADVAIR HFA, inhaled, short-acting beta2-agonists should only be used for symptomatic relief of acute symptoms of shortness of breath (see PRECAUTIONS: Information for Patients).
-3. Increasing use of inhaled, short-acting beta 2-agonists is a marker of deteriorating asthma.
+3. Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
    The physician and patient should be alert to such changes.
    The patient’s condition may deteriorate acutely over a period of hours or chronically over several days or longer.
    If the patient’s inhaled, short-acting beta2-agonist becomes less effective, the patient needs more inhalations than usual, or the patient develops a significant decrease in lung function, this may be a marker of destabilization of the disease.
@@ -103,7 +103,12 @@ The following additional WARNINGS about ADVAIR HFA should be noted.
     If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
     (See the respective package inserts for complete VZIG and IG prescribing information.)
     If chickenpox develops, treatment with antiviral agents may be considered.
-13. Potential drug interactions with CYP 3A4 inhibitors.
+13. Pneumonia.
+    Lower respiratory tract infections, including pneumonia, have been reported in patients with COPD following the inhaled administration of corticosteroids, including fluticasone propionate and ADVAIR DISKUS.
+    In 2 replicate 12-month studies of 1,579 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 250/50 (7%) than in those receiving salmeterol 50 mcg (3%).
+    The incidence of pneumonia in the patients treated with ADVAIR DISKUS was higher in patients over 65 years of age (9%) compared with the incidence in patients less than 65 years of age (4%).In a 3-year study of 6,184 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 500/50 compared with placebo (16% with ADVAIR DISKUS 500/50, 14% with fluticasone propionate 500 mcg, 11% with salmeterol 50 mcg, and 9% with placebo).
+    Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 versus 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 versus 8% with placebo.
+14. Potential drug interactions with CYP 3A4 inhibitors.
     Both fluticasone propionate and salmeterol are substrates of CYP 3A4.Fluticasone Propionate: A drug interaction study in healthy subjects has shown that ritonavir (a strong cytochrome P450 3A4 inhibitor) can significantly increase systemic fluticasone propionate exposure (AUC), resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions and PRECAUTIONS: Drug Interactions: Inhibitors of Cytochrome P450).
     During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
     Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.Salmeterol: Because of the potential for drug interactions and the potential for increased risk of cardiovascular adverse events, the concomitant use of ADVAIR HFA with strong CYP 3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
@@ -126,7 +131,7 @@ Long-term use of orally inhaled corticosteroids may affect normal bone metabolis
 In patients with major risk factors for decreased bone mineral content, such as tobacco use, advanced age, sedentary lifestyle, poor nutrition, family history of osteoporosis, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants and corticosteroids), ADVAIR HFA may pose an additional risk.
 
 Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
-Beta- adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
+Beta-adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
 The decrease in serum potassium is usually transient, not requiring supplementation.
 
 Clinically significant changes in blood glucose and/or serum potassium were seen infrequently during clinical studies with ADVAIR HFA at recommended doses.
@@ -134,7 +139,7 @@ Clinically significant changes in blood glucose and/or serum potassium were seen
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal, e.g., joint and/or muscular pain, lassitude, and depression, despite maintenance or even improvement of respiratory function.
 
 Fluticasone propionate, a component of ADVAIR HFA, will often help control asthma symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
-Since fluticasone propionate is absorbed into the circulation and can be systemically active at higher doses, the beneficial effects of ADVAIR HFA in minimizing HPA dysfunction may be expected only when recommended dosages are not exceeded and individual patients are titrated to the lowest effective dose.
+Since fluticasone propionate is absorbed into the circulation and can be systemicallyactive at higher doses, the beneficial effects of ADVAIR HFA in minimizing HPA dysfunction may be expected only when recommended dosages are not exceeded and individual patients are titrated to the lowest effective dose.
 A relationship between plasma levels of fluticasone propionate and inhibitory effects on stimulated cortisol production has been shown after 4 weeks of treatment with fluticasone propionate inhalation aerosol.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing ADVAIR HFA.
 
@@ -199,19 +204,20 @@ It is important that patients understand how to use ADVAIR HFA in relation to ot
    The patient should not use more than the prescribed dosage but should contact the physician if symptoms do not improve or if the condition worsens.
 10. The bronchodilation from a single dose of ADVAIR HFA may last up to 12 hours or longer.
     The recommended dosage (2 inhalations twice daily, morning and evening) should not be exceeded.
-    Patients who are receiving ADVAIR HFA twice daily should not use salmeterol or other inhaled, long-acting beta2-agonists (e.g., formoterol)for prevention of EIB or maintenance treatment of asthma.
-11. Patients should be warned to avoid exposure to chickenpox or measles and, if they are exposed, to consult the physician without delay.
+    Patients who are receiving ADVAIR HFA twice daily should not use salmeterol or other inhaled, long-acting beta2-agonists (e.g., formoterol) for prevention of EIB or maintenance treatment of asthma.
+11. Patients should be warned to avoid exposure to chickenpox or measles and, if they are exposed to consult the physician without delay.
 12. Prime the inhaler before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
-    In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by shaking well before each spray and releasing 2 test sprays into the air away from the face.
+    In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
 13. After inhalation, rinse the mouth with water and spit out.
     Do not swallow.
 14. Clean the inhaler at least once a week after the evening dose.
     Keeping the canister and plastic actuator clean is important to prevent medicine buildup.
-    (See Instructions for Using ADVAIR HFA in the Medication Guide accompanying the product.)
+    (See the cleaning instructions in the“How to use your ADVAIR HFA” section of the Medication Guide accompanying the product.)
 15. Use ADVAIR HFA only with the actuator supplied with the product.
-    Discard the inhaler after 120 sprays have been used.
-16. Patients should never immerse the canister into water to determine the amount remaining in the canister (“float test”).
-17. For the proper use of ADVAIR HFA and to attain maximum improvement, the patient should read and carefully follow the Instructions for Using ADVAIR HFA in the Medication Guide accompanying the product.
+    When the counter reads 020, contact the pharmacist for a refill of medication or consult the physician to determine whether a prescription refill is needed.
+    Discard the inhaler when the counter reads 000.
+    Never try to alter the numbers or remove the counter from the metal canister.
+16. For important summary information and instructions for the proper use of ADVAIR HFA, the patient should carefully read and follow the Medication Guide accompanying the product.
 
 ## Drug Interactions
 
@@ -272,7 +278,7 @@ Due to the potential increased risk of cardiovascular adverse events, the concom
 
 ### Fluticasone Propionate
 
-Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 4 times the maximum recommended human daily inhalation dose on a mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (less than the maximumrecommended human daily inhalation dose on a mcg/m2 basis) for 104 weeks.
+Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 4 times the maximum recommended human daily inhalation dose on a mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis) for 104 weeks.
 
 Fluticasone propionate did not induce gene mutation in prokaryotic or eukaryotic cells in vitro.
 No significant clastogenic effect was seen in cultured human peripheral lymphocytes in vitro or in the mouse micronucleus test.
@@ -301,7 +307,7 @@ No effects on fertility were identified in male and female rats treated with sal
 
 #### ADVAIR HFA Inhalation Aerosol
 
-Pregnancy Category C. From the reproduction toxicity studies in mice and rats, no evidence of enhanced toxicity was seen using combinations of fluticasone propionate and salmeterol compared to toxicity data from the components administered separately.
+Pregnancy Category C. From the reproduction toxicity studies in mice and rats, no evidence of enhanced toxicity was seen using combinations of fluticasone propionate and salmeterol compared with toxicity data from the components administered separately.
 In mice combining 150 mcg/kg subcutaneously of fluticasone propionate (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis) with 10 mg/kg orally of salmeterol (approximately 480 times the maximum recommended human daily inhalation dose on a mg/m2 basis) were teratogenic.
 Cleft palate, fetal death, increased implantation loss and delayed ossification was seen.
 These observations are characteristic of glucocorticoids.
@@ -318,7 +324,7 @@ Pregnancy Category C. Subcutaneous studies in the mouse and rat at 45 and 100 mc
 No teratogenicity was seen in the rat at inhalation doses up to 68.7 mcg/kg (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis).
 
 In the rabbit, fetal weight reduction and cleft palate were observed at a subcutaneous dose of 4 mcg/kg (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis).
-However, no teratogenic effects were reported at oral doses up to 300 mcg/kg (approximately 5 times the maximum recommended human daily inhalation dose on mcg/m2 basis) of fluticasone propionate.
+However, no teratogenic effects were reported at oral doses up to 300 mcg/kg (approximately 5 times the maximum recommended human daily inhalation dose on a mcg/m2 basis) of fluticasone propionate.
 No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration (see CLINICAL PHARMACOLOGY: Pharmacokinetcs: Fluticasone Propionate: Absorption).
 
 Fluticasone propionate crossed the placenta following administration of a subcutaneous dose of 100 mcg/kg to mice (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis), a subcutaneous or an oral dose of 100 mcg/kg to rats (equivalent to the maximum recommended human daily inhalation dose on a mcg/m2 basis), and an oral dose of 300 mcg/kg to rabbits (approximately 5 times the maximum recommended human daily inhalation dose on a mcg/m2 basis).
@@ -331,7 +337,7 @@ In addition, because there is a natural increase in corticosteroid production du
 
 #### Salmeterol
 
-Pregnancy Category C. No teratogenic effects occurred in the rat at oral doses up to 2 mg/kg (approximately 190 times the maximum recommended human daily inhalation dose on a mg/m2 basis).
+Pregnancy Category C. No teratogenic effects occurredin the rat at oral doses up to 2 mg/kg (approximately 190 times the maximum recommended human daily inhalation dose on a mg/m2 basis).
 In pregnant Dutch rabbits administered oral doses of 1 mg/kg and above (approximately 25 times the maximum recommended human daily inhalation dose based on the comparison of the AUCs), salmeterol exhibited fetal toxic effects characteristically resulting from beta-adrenoceptor stimulation.
 These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
 No significant effects occurred at an oral dose of 0.6 mg/kg (approximately 10 times the maximum recommended human daily inhalation dose based on comparison of the AUCs).
@@ -378,7 +384,7 @@ The potential for “catch-up” growth following discontinuation of treatment w
 The effects on growth velocity of treatment with orally inhaled corticosteroids for over 1 year, including the impact on final adult height, are unknown.
 The growth of children and adolescents receiving orally inhaled corticosteroids, including ADVAIR HFA, should be monitored.
 If a child or adolescent on any corticosteroid appears to have growth suppression, the possibility that he/she is particularly sensitive to this effect of corticosteroids should be considered.
-The potential growth effects of prolonged treatmentshould be weighed against the clinical benefits obtained and the risks associated with alternative therapies.
+The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained and the risks associated with alternative therapies.
 To minimize the systemic effects of orally inhaled corticosteroids, including ADVAIR HFA, each patient should be titrated to the lowest strength that effectively controls his/her asthma (see DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
