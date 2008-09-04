@@ -25,7 +25,7 @@ Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 – Pavia, Italy
 
-9762704
+9762705
 
 US Patent No.: 6,699,871
 
@@ -45,8 +45,7 @@ This leaflet does not take the place of talking with your doctor about your medi
 
 What is JANUVIA?
 
-JANUVIA is a prescription medicine used along with diet and exercise to lower blood sugar in adult patients with type 2 diabetes.
-JANUVIA may be taken alone or along with certain other medicines to control blood sugar.
+JANUVIA is a prescription medicine used along with diet and exercise to lower blood sugar in adults with type 2 diabetes.
 
 - JANUVIA lowers blood sugar when blood sugar is high, especially after a meal.
   JANUVIA also lowers blood sugar between meals.
@@ -170,11 +169,11 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Revised October 2007
+Revised July 2008
 
 Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 - Pavia, Italy
 
-9762704
+9762705

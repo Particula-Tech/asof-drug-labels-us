@@ -2,7 +2,8 @@
 
 ## 1.1 Monotherapy and Combination Therapy
 
-JANUVIA1 is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.[See Clinical Studies (14).]
+JANUVIA1 is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+[See Clinical Studies (14).]
 
 ## 1.2 Important Limitations of Use
 

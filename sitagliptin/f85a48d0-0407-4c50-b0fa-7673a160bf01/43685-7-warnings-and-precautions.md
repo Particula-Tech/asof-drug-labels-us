@@ -8,7 +8,7 @@ A dosage adjustment is recommended in patients with moderate or severe renal ins
 ## 5.2 Use with Medications Known to Cause Hypoglycemia
 
 As is typical with other antihyperglycemic agents used in combination with a sulfonylurea, when JANUVIA was used in combination with a sulfonylurea, a class of medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo.
-[See Adverse Reactions (6.1).
+[See Adverse Reactions (6.1).]
 Therefore, a lower dose of sulfonylurea may be required to reduce the risk of hypoglycemia.
 [See Dosage and Administration (2.3).]
 
@@ -20,3 +20,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Onset of these reactions occurred within the first 3 months after initiation of treatment with JANUVIA, with some reports occurring after the first dose.
 If a hypersensitivity reaction is suspected, discontinue JANUVIA, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 [See Adverse Reactions (6.2).]
+
+## 5.4 Macrovascular Outcomes
+
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUVIA or any other anti-diabetic drug.
