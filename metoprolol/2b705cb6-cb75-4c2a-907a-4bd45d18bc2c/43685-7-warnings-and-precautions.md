@@ -14,37 +14,6 @@ At the first sign or symptom of impending cardiac failure, patients should be fu
 The response should be observed closely.
 If cardiac failure continues, despite adequate digitalization and diuretic therapy, metoprolol should be withdrawn.
 
-### Bronchospastic Diseases
-
-PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
-Because of its relative beta1 selectivity, however, metoprolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
-Since beta1 selectivity is not absolute, a beta2-stimulating agent should be administered concomitantly, and the lowest possible dose of metoprolol tartrate should be used.
-In these circumstances it would be prudent initially to administer metoprolol in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval.
-(See DOSAGE AND ADMINISTRATION.)
-
-### Major Surgery
-
-The necessity or desirability of withdrawing beta-blocking therapy prior to major surgery is controversial; the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
-Metoprolol, like other beta-blockers, is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
-However, such patients may be subject to protracted severe hypotension.
-Difficulty in restarting and maintaining the heartbeat has also been reported with beta-blockers.
-
-### Diabetes and Hypoglycemia
-
-Metoprolol should be used with caution in diabetic patients if a beta-blocking agent is required.
-Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-
-### Pheochromocytoma
-
-In patients known to have, or suspected of having, a pheochromocytoma, metoprolol is contraindicated (see CONTRAINDIATIONS ).
-If metoprolol is required, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
-Administration of beta-blockers alone in the setting of pheochromocytoma have been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
-
-### Thyrotoxicosis
-
-Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
-Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-blockade, which might precipitate a thyroid storm.
-
 ## Myocardial Infarction
 
 ### Cardiac Failure
@@ -76,7 +45,7 @@ If hypotension is associated with sinus bradycardia or AV block, treatment shoul
 
 ### Bronchospastic Diseases
 
-PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
+PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS, including metoprolol.
 Because of its relative beta1 selectivity, metoprolol may be used with extreme caution in patients with bronchospastic disease.
 Because it is unknown to what extent beta2-stimulating agents may exacerbate myocardial ischemia and the extent of infarction, these agents should not be used prophylactically.
 If bronchospasm not related to congestive heart failure occurs, metoprolol should be discontinued.
@@ -127,7 +96,7 @@ Long-term studies in animals have been conducted to evaluate carcinogenic potent
 In a 2-year study in rats at three oral dosage levels of up to 800 mg/kg per day, there was no increase in the development of spontaneously occurring benign or malignant neoplasms of any type.
 The only histologic changes that appeared to be drug related were an increased incidence of generally mild focal accumulation of foamy macrophages in pulmonary alveoli and a slight increase in biliary hyperplasia.
 In a 21-month study in Swiss albino mice at three oral dosage levels of up to 750 mg/kg per day, benign lung tumors (small adenomas) occurred more frequently in female mice receiving the highest dose than in untreated control animals.
-There was no increase in malignant or total (benign plus malignant) lung tumors, nor in the overall incidence of tumors or malignant tumors.
+There was no increase in malignant or total (benign plus malignant) lung tumors, or in the overall incidence of tumors or malignant tumors.
 This 21-month study was repeated in CD-1 mice, and no statistically or biologically significant differences were observed between treated and control mice of either sex for any type of tumor.
 All mutagenicity tests performed (a dominant lethal study in mice, chromosome studies in somatic cells, a Salmonella/mammalian-microsome mutagenicity test, and a nucleus anomaly test in somatic interphase nuclei) were negative.
 No evidence of impaired fertility due to metoprolol was observed in a study performed in rats at doses up to 55.5 times the maximum daily human dose of 450 mg.

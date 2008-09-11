@@ -57,7 +57,7 @@ The elimination half-life of metoprolol is about 7.5 hours in poor metabolizers 
 However, the CYP2D6 dependent metabolism of metoprolol seems to have little or no effect on safety or tolerability of the drug.
 None of the metabolites of metoprolol contribute significantly to its beta-blocking effect.
 Significant beta-blocking effect (as measured by reduction of exercise heart rate) occurs within 1 hour after oral administration, and its duration is dose-related.
-For example, a 50% reduction of the maximum registered effect after single oral doses of 20, 50, and 100 mg occurred at 3.3, 5.0, and 6.4 hours, respectively, in normal subjects.
+For example, a 50% reduction of the maximum registered effect after single oral doses of 20, 50, and 100 mg occurred at 3.3, 5, and 6.4 hours, respectively, in normal subjects.
 After repeated oral dosages of 100 mg twice daily, a significant reduction in exercise systolic blood pressure was evident at 12 hours.
 Following intravenous administration of metoprolol, the urinary recovery of unchanged drug is approximately 10%.
 When the drug was infused over a 10-minute period, in normal volunteers, maximum beta-blockade was achieved at approximately 20 minutes.
