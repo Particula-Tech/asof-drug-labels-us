@@ -1,57 +1,59 @@
 # 6 ADVERSE REACTIONS
 
-Serious adverse reactions including severe anaphylactic and anaphylactoid reactions, abnormal thinking and behavior, complex behaviors, withdrawal effects, amnesia, anxiety, other neuro-psychiatric symptoms and CNS-depressant effects have been reported with zolpidem [see Warnings and Precautions (5)].
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)]
+- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
+- Withdrawal effects [see Warnings and Precautions (5.4)]
+- CNS-depressant effects [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical trials experience
 
 ### Associated with discontinuation of treatment:
 
-Approximately 4% of 1,701 patients who received zolpidem at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse clinical event.
-Events most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
+Approximately 4% of 1,701 patients who received zolpidem at all doses (1.25 to 90 mg) in U.S. premarketing clinical trials discontinued treatment because of an adverse reaction.
+Reactions most commonly associated with discontinuation from U.S. trials were daytime drowsiness (0.5%), dizziness (0.4%), headache (0.5%), nausea (0.6%), and vomiting (0.5%).
 
-Approximately 4% of 1,959 patients who received zolpidem at all doses (1 to 50 mg) in similar foreign trials discontinued treatment because of an adverse event.
-Events most commonly associated with discontinuation from these trials were daytime drowsiness (1.1%), dizziness/vertigo (0.8%), amnesia (0.5%), nausea (0.5%), headache (0.4%), and falls (0.4%).
+Approximately 4% of 1,959 patients who received zolpidem at all doses (1 to 50 mg) in similar foreign trials discontinued treatment because of an adverse reaction.
+Reactions most commonly associated with discontinuation from these trials were daytime drowsiness (1.1%), dizziness/vertigo (0.8%), amnesia (0.5%), nausea (0.5%), headache (0.4%), and falls (0.4%).
 
 Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI)-treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n=97) was discontinued after an attempted suicide.
 
-### Most commonly observed adverse events in controlled trials:
+### Most commonly observed adverse reactions in controlled trials:
 
-During short-term treatment (up to 10 nights) with Ambien at doses up to 10 mg, the most commonly observed adverse events associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
-During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse events associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
+During short-term treatment (up to 10 nights) with Ambien at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
+During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
 
-### Adverse events observed at an incidence of ≥1% in controlled trials:
+### Adverse reactions observed at an incidence of ≥ 1% in controlled trials:
 
-The following tables enumerate treatment-emergent adverse event frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received Ambien in U.S. placebo-controlled trials.
+The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
 Events reported by investigators were classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms for the purpose of establishing event frequencies.
-The prescriber shouldbe aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
+The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
 However, the cited figures provide the physician with a basis for estimating the relative contribution of drug and nondrug factors to the incidence of side effects in the population studied.
 
-The following table was derived from a pool of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
+The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Incidence of Treatment-Emergent Adverse Experiences in Short-term Placebo-Controlled Clinical Trials (Percentage of patients reporting)
+Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of patients reporting)
 
-| Body System/ Adverse EventEvents reported by at least 1% of Ambien patients are included | Zolpidem (≤10mg) (N=685) | Placebo (N=473) |
+| Body System/ Adverse EventReactions reported by at least 1% of patients treated with Ambien patients and at a greater frequency than placebo. | Zolpidem (≤10mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
 | Drowsiness | 2 | _ |
 | Dizziness | 1 | _ |
 | Gastrointestinal System |  |  |
-| Nausea | 2 | 3 |
 | Diarrhea | 1 | - |
-| Musculoskeletal System |  |  |
-| Myalgia | 1 | 2 |
 
-The following table was derived from a pool of three placebo-controlled long-term efficacy trials involving Ambien (zolpidem tartrate).
+The following table was derived from results of three placebo-controlled long-term efficacy trials involving Ambien (zolpidem tartrate).
 These trials involved patients with chronic insomnia who were treated for 28 to 35 nights with zolpidem at doses of 5, 10, or 15 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-Incidence of Treatment-Emergent Adverse Experiences in Long-term Placebo-Controlled Clinical Trials (Percentage of patients reporting)
+Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
-| Body System/ Adverse EventEvents reported by at least 1% of patients treated with Ambien | Zolpidem (≤10mg) (N=152) | Placebo (N=161) |
+| Body System/ Adverse EventReactions reported by at least 1% of patients treated with Ambien and at a greater frequency than placebo. | Zolpidem (≤10mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |
@@ -60,11 +62,9 @@ Incidence of Treatment-Emergent Adverse Experiences in Long-term Placebo-Control
 | Back Pain | 3 | 2 |
 | Influenza-like symptoms | 2 | - |
 | Chest pain | 1 | - |
-| Fatigue | 1 | 2 |
 | Cardiovascular System |  |  |
 | Palpitation | 2 | - |
 | Central and Peripheral Nervous System |  |  |
-| Headache | 19 | 22 |
 | Drowsiness | 8 | 5 |
 | Dizziness | 5 | 1 |
 | Lethargy | 3 | 1 |
@@ -73,41 +73,27 @@ Incidence of Treatment-Emergent Adverse Experiences in Long-term Placebo-Control
 | Depression | 2 | 1 |
 | Abnormal dreams | 1 | - |
 | Amnesia | 1 | - |
-| Anxiety | 1 | 1 |
-| Nervousness | 1 | 3 |
 | Sleep disorder | 1 | - |
 | Gastrointestinal System |  |  |
-| Nausea | 6 | 6 |
-| Dyspepsia | 5 | 6 |
 | Diarrhea | 3 | 2 |
 | Abdominal pain | 2 | 2 |
 | Constipation | 2 | 1 |
-| Anorexia | 1 | 1 |
-| Vomiting | 1 | 1 |
-| Immunologic System |  |  |
-| Infection | 1 | 1 |
-| Musculoskeletal System |  |  |
-| Myalgia | 7 | 7 |
-| Arthralgia | 4 | 4 |
 | Respiratory System |  |  |
-| Upper respiratory infection | 5 | 6 |
 | Sinusitis | 4 | 2 |
 | Pharyngitis | 3 | 1 |
-| Rhinitis | 1 | 3 |
 | Skin and Appendages |  |  |
 | Rash | 2 | 1 |
-| Urogenital System |  |  |
-| Urinary tract infection | 2 | 2 |
 
-### Dose relationship for adverse events:
+### Dose relationship for adverse reactions:
 
-There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse events associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
 ### Adverse event incidence across the entire preapproval database:
 
-Ambien (zolpidem tartrate) was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
+Ambien was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
+
 The frequencies presented, therefore, represent the proportions of the 3,660 individuals exposed to zolpidem, at all doses, who experienced an event of the type cited on at least one occasion while receiving zolpidem.
 All reported treatment-emergent adverse events are included, except those already listed in the table above of adverse events in placebo-controlled studies, those coding terms that are so general as to be uninformative, and those events where a drug cause was remote.
 It is important to emphasize that, although the events reported did occur during treatment with Ambien, they were not necessarily caused by it.
@@ -118,23 +104,24 @@ Autonomic nervous system: Infrequent: increased sweating, pallor, postural hypot
 Rare: abnormal accommodation, altered saliva, flushing, glaucoma, hypotension, impotence, increased saliva, tenesmus.
 
 Body as a whole: Frequent: asthenia.
-Infrequent: edema, falling, fever, malaise, trauma.
+Infrequent: edema, falling, fatigue, fever, malaise, trauma.
 Rare: allergic reaction, allergy aggravated, anaphylactic shock, face edema, hot flashes, increased ESR, pain, restless legs, rigors, tolerance increased, weight decrease.
 
 Cardiovascular system: Infrequent: cerebrovascular disorder, hypertension, tachycardia.
 Rare: angina pectoris, arrhythmia, arteritis, circulatory failure, extrasystoles, hypertension aggravated, myocardial infarction, phlebitis, pulmonary embolism, pulmonary edema, varicose veins, ventricular tachycardia.
 
-Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, insomnia, vertigo.
-Infrequent: agitation, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
+Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo.
+Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
 Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite increased, decreased libido, delusion, dementia, depersonalization, dysphasia, feeling strange, hypokinesia, hypotonia, hysteria, intoxicated feeling, manic reaction, neuralgia, neuritis, neuropathy, neurosis, panic attacks, paresis, personality disorder, somnambulism, suicide attempts, tetany, yawning.
 
-Gastrointestinal system: Frequent: hiccup.
-Infrequent: constipation, dysphagia, flatulence, gastroenteritis.
+Gastrointestinal system: Frequent: dyspepsia, hiccup, nausea.
+Infrequent: anorexia, constipation, dysphagia, flatulence, gastroenteritis, vomiting.
 Rare: enteritis, eructation, esophagospasm, gastritis, hemorrhoids, intestinal obstruction, rectal hemorrhage, tooth caries.
 
 Hematologic and lymphatic system: Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
 
-Immunologic system: Rare: abscess herpes simplex herpes zoster, otitis externa, otitis media.
+Immunologic system: Infrequent: infection.
+Rare: abscess herpes simplex herpes zoster, otitis externa, otitis media.
 
 Liver and biliary system: Infrequent: abnormal hepatic function, increased SGPT.
 Rare: bilirubinemia, increased SGOT.
@@ -142,13 +129,15 @@ Rare: bilirubinemia, increased SGOT.
 Metabolic and nutritional: Infrequent: hyperglycemia, thirst.
 Rare: gout, hypercholesteremia, hyperlipidemia, increased alkaline phosphatase, increased BUN, periorbital edema.
 
-Musculoskeletal system: Infrequent: arthritis.
+Musculoskeletal system:Frequent: arthralgia, myalgia.
+Infrequent: arthritis.
 Rare: arthrosis, muscle weakness, sciatica, tendinitis.
 
 Reproductive system: Infrequent: menstrual disorder, vaginitis.
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
-Respiratory system: Infrequent: bronchitis, coughing, dyspnea.
+Respiratory system:Frequent: upper respiratory infection.
+Infrequent: bronchitis, coughing, dyspnea, rhinitis.
 Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
 
 Skin and appendages: Infrequent: pruritus.
@@ -158,9 +147,6 @@ Special senses: Frequent: diplopia, vision abnormal.
 Infrequent: eye irritation, eye pain, scleritis, taste perversion, tinnitus.
 Rare: conjunctivitis, corneal ulceration, lacrimation abnormal, parosmia, photopsia.
 
-Urogenital system: Infrequent: cystitis, urinary incontinence.
+Urogenital system: Frequent: urinary tract infection.
+Infrequent: cystitis, urinary incontinence.
 Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, pyelonephritis, renal pain, urinary retention.
-
-## 6.2 Postmarketing experience
-
-In addition to adverse events reported in clinical trials, angioneurotic edema has been reported spontaneously in postmarketing experience.
