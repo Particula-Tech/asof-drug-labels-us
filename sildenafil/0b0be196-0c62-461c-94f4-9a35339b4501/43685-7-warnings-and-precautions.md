@@ -98,7 +98,7 @@ Counseling of patients about the protective measures necessary to guard against 
 #### In vitro studies
 
 Sildenafil metabolism is principally mediated by the cytochrome P450 (CYP) isoforms 3A4 (major route) and 2C9 (minor route).
-Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance.
+Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 
 #### In vivo studies
 
@@ -149,7 +149,8 @@ For the 17 subjects who received VIAGRA 25 mg and matching placebo, the placebo-
 | Supine | 7.4 (-0.9, 15.7) |
 | Standing | 6.0 (-0.8, 12.8) |
 
-Figure 5: Mean Standing Systolic Blood Pressure Change from Baseline
+| Figure 5: Mean Standing Systolic Blood Pressure Change from Baseline |
+| --- |
 
 Blood pressure was measured immediately pre-dose and at 15, 30, 45 minutes, and 1, 1.5, 2, 2.5, 3, 4, 6 and 8 hours after VIAGRA or matching placebo.
 Outliers were defined as subjects with a standing systolic blood pressure of <85 mmHg or a decrease from baseline in standing systolic blood pressure of >30 mmHg at one or more timepoints.
@@ -178,7 +179,8 @@ For the 19 subjects who received both VIAGRA and matching placebo, the placebo-s
 | Supine | 9.08 (5.48, 12.68) |
 | Standing | 11.62 (7.34, 15.90) |
 
-Figure 6: Mean Standing Systolic Blood Pressure Change from Baseline
+| Figure 6: Mean Standing Systolic Blood Pressure Change from Baseline |
+| --- |
 
 Blood pressure was measured after administration of VIAGRA at the same times as those specified for the first doxazosin study.
 There were two subjects who had a standing SBP of < 85 mmHg.
@@ -205,7 +207,8 @@ For the 20 subjects who received VIAGRA 100 mg and matching placebo, the placebo
 | Supine | 7.9 (4.6, 11.1) |
 | Standing | 4.3 (-1.8,10.3) |
 
-Figure 7: Mean Standing Systolic Blood Pressure Change from Baseline
+| Figure 7: Mean Standing Systolic Blood Pressure Change from Baseline |
+| --- |
 
 Blood pressure was measured after administration of VIAGRA at the same times as those specified for the previous doxazosin studies.
 There were three subjects who had a standing SBP of < 85 mmHg.

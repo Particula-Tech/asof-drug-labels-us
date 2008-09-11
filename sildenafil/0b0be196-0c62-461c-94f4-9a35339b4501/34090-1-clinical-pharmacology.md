@@ -19,7 +19,7 @@ The inhibition of PDE5 in these tissues by sildenafil may be the basis for the e
 
 ## Pharmacokinetics and Metabolism
 
-VIAGRA is rapidly absorbed after oral administration, with absolute bioavailability of about 40%.
+VIAGRA is rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (range 25–63%).
 Its pharmacokinetics are dose-proportional over the recommended dose range.
 It is eliminated predominantly by hepatic metabolism (mainly cytochrome P450 3A4) and is converted to an active metabolite with properties similar to the parent, sildenafil.
 The concomitant use of potent cytochrome P450 3A4 inhibitors (e.g., erythromycin, ketoconazole, itraconazole) as well as the nonspecific CYP inhibitor, cimetidine, is associated with increased plasma levels of sildenafil (see DOSAGE AND ADMINISTRATION).
@@ -27,7 +27,8 @@ Both sildenafil and the metabolite have terminal half lives of about 4 hours.
 
 Mean sildenafil plasma concentrations measured after the administration of a single oral dose of 100 mg to healthy male volunteers is depicted below:
 
-Figure 1: Mean Sildenafil Plasma Concentrations in Healthy Male Volunteers.
+| Figure 1: Mean Sildenafil Plasma Concentrations in Healthy Male Volunteers. |
+| --- |
 
 ### Absorption and Distribution
 
@@ -54,16 +55,20 @@ Similar values for pharmacokinetic parameters were seen in normal volunteers and
 
 ### Geriatrics
 
-Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, with free plasma concentrations approximately 40% greater than those seen in healthy younger volunteers (18–45 years).
+Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18–45 years).
+Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively.
 
 ### Renal Insufficiency
 
 In volunteers with mild (CLcr=50–80 mL/min) and moderate (CLcr=30–49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of VIAGRA (50 mg) were not altered.
 In volunteers with severe (CLcr=<30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
 
+In addition, N-desmethyl metabolite AUC and Cmax values significantly increased 200% and 79% respectively in subjects with severe renal impairment compared to subjects with normal renal function.
+
 ### Hepatic Insufficiency
 
-In volunteers with hepatic cirrhosis (Child-Pugh A and B), sildenafil clearance was reduced, resulting in increases in AUC (84%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
+In volunteers with hepatic cirrhosis (Child-Pugh A and B), sildenafil clearance was reduced, resulting in increases in AUC (85%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
+The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child Pugh class C) have not been studied.
 
 Therefore, age >65, hepatic impairment and severe renal impairment are associated with increased plasma levels of sildenafil.
 A starting oral dose of 25 mg should be considered in those patients (see DOSAGE AND ADMINISTRATION).
@@ -79,12 +84,13 @@ The time course of effect was examined in one study, showing an effect for up to
 
 ### Effects of VIAGRA on Blood Pressure
 
-Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8.4/5.5 mmHg).
-The decrease in blood pressure was most notable approximately 1–2 hours after dosing, and was not different than placebo at 8 hours.
+Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in sitting blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8.3/5.3 mmHg).
+The decrease in sitting blood pressure was most notable approximately 1–2 hours after dosing, and was not different than placebo at 8 hours.
 Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg of VIAGRA, therefore the effects are not related to dose or plasma levels within this dosage range.
 Larger effects were recorded among patients receiving concomitant nitrates (see CONTRAINDICATIONS).
 
-Figure 2: Mean Change from Baseline in Sitting Systolic Blood Pressure, Healthy Volunteers.
+| Figure 2: Mean Change from Baseline in Sitting Systolic Blood Pressure, Healthy Volunteers. |
+| --- |
 
 ### Effects of VIAGRA on Cardiac Parameters
 
@@ -147,8 +153,8 @@ The titration studies, in which most patients received 100 mg, showed similar re
 Figure 3 shows that regardless of the baseline levels of function, subsequent function in patients treated with VIAGRA was better than that seen in patients treated with placebo.
 At the same time, on-treatment function was better in treated patients who were less impaired at baseline.
 
-Figure 3.
-Effect of VIAGRA and Placebo on Maintenance of Erection by Baseline Score.
+| Figure 3. Effect of VIAGRA and Placebo on Maintenance of Erection by Baseline Score. |
+| --- |
 
 The frequency of patients reporting improvement of erections in response to a global question in four of the randomized, double-blind, parallel, placebo-controlled fixed dose studies (1797 patients) of 12 to 24 weeks duration is shown in Figure 4.
 These patients had erectile dysfunction at baseline that was characterized by median categorical scores of 2 (a few times) on principal IIEF questions.
@@ -156,8 +162,8 @@ Erectile dysfunction was attributed to organic (58%; generally not characterized
 Sixty-three percent, 74%, and 82% of the patients on 25 mg, 50 mg and 100 mg of VIAGRA, respectively, reported an improvement in their erections, compared to 24% on placebo.
 In the titration studies (n=644) (with most patients eventually receiving 100 mg), results were similar.
 
-Figure 4.
-Percentage of Patients Reporting an Improvement in Erections.
+| Figure 4. Percentage of Patients Reporting an Improvement in Erections. |
+| --- |
 
 The patients in studies had varying degrees of ED.
 One-third to one-half of the subjects in these studies reported successful intercourse at least once during a 4-week, treatment-free run-in period.

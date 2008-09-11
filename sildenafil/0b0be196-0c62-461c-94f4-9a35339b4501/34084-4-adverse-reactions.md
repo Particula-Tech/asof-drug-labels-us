@@ -81,7 +81,7 @@ It is not possible to determine whether these reported events are related direct
 
 Other events reported post-marketing to have been observed in temporal association with VIAGRA and not listed in the clinical trial adverse reactions section above include:
 
-Nervous: seizure, seizure recurrence, and anxiety.
+Nervous: seizure, seizure recurrence, anxiety, and transient global amnesia.
 
 Urogenital: prolonged erection, priapism (see WARNINGS), and hematuria.
 
