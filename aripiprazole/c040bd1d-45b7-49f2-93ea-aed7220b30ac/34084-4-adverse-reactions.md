@@ -4,8 +4,8 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Use in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS(5.1)]
-- Clinical Worsening of Depression and Suicide Risk [see BOXED WARNING and WARNINGS AND PRECAUTIONS(5.2)]
+- Use in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
+- Clinical Worsening of Depression and Suicide Risk [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
 - Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.3)]
 - Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.4)]
 - Hyperglycemia and Diabetes Mellitus [see WARNINGS AND PRECAUTIONS (5.5)]
@@ -153,7 +153,7 @@ Table 7 enumerates the incidence, rounded to the nearest percent, of adverse rea
 
 Table 7: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | Aripiprazole Li or Val* (n=253) | Placebo Li or Val* (n=130) |
+| System Organ Class Preferred Term | Aripiprazole + Li or Val* (n=253) | Placebo + Li or Val* (n=130) |
 | --- | --- | --- |
 |  | Percentage of Patients Reporting Reactiona |  |
 | Gastrointestinal Disorders |  |  |
@@ -201,7 +201,7 @@ Commonly Observed Adverse Reactions
 
 Commonly observed adverse reactions associated with the use of aripiprazole in pediatric patients with Bipolar Mania (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 8.
 
-Table 8: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric (10 to 17 years) with Bipolar Mania Treated with Oral ABILIFY
+Table 8: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral ABILIFY
 
 | Preferred Term | Aripiprazole (n=197) | Placebo (n=97) |
 | --- | --- | --- |

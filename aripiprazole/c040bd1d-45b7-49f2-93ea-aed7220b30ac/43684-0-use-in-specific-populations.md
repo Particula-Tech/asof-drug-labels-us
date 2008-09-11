@@ -52,8 +52,7 @@ Safety and effectiveness in pediatric patients with Major Depressive Disorder or
 Safety and effectiveness in pediatric patients with Schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see INDICATIONS AND USAGE (1.1), DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
-Safety and effectiveness in pediatric patients with Bipolar Mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years.
-[See INDICATIONS AND USAGE (1.2), DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.2)].
+Safety and effectiveness in pediatric patients with Bipolar Mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see INDICATIONS AND USAGE (1.2), DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.2)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.

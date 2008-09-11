@@ -8,7 +8,7 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-Patients and caregivers should be advised that elderly patients with dementia-related psychoses treated with atypical antipsychotic drugs are at increased risk of death compared with placebo.
+Patients and caregivers should be advised that elderly patients with dementia-related psychoses treated with antipsychotic drugs are at increased risk of death.
 ABILIFY is not approved for elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS (5.1)].
 
 Clinical Worsening of Depression and Suicide Risk
@@ -78,7 +78,7 @@ Marketed by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
 US Patent Nos: 5,006,528; 6,977,257; and 7,115,587
 
-1239550A2 0308L-1050 Rev May 2008
+1239550A3 0308L-1336 Rev August 2008
 
 © 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
 
@@ -156,6 +156,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550A2 0308L-1050 Rev May 2008
+1239550A3 0308L-1336 Rev August 2008
 
 © 2008, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

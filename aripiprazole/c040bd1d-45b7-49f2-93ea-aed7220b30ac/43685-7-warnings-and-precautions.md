@@ -4,7 +4,7 @@
 
 Increased Mortality
 
-Elderly patients with dementia-related psychosis treated with atypical antipsychotic drugs are at an increased risk of death compared to placebo.
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 ABILIFY (aripiprazole) is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
 
 Cerebrovascular Adverse Events, Including Stroke
