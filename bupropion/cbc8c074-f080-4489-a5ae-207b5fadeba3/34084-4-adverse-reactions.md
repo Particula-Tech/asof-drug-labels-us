@@ -1,14 +1,16 @@
-# ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
+# ADVERSE REACTIONS
 
-The information included under the Incidence in Controlled Trials subsection of ADVERSE REACTIONS is based primarily on data from controlled clinical trials with WELLBUTRIN SR Tablets.
+(See also WARNINGS and PRECAUTIONS.)
+
+The information included under the Incidence in Controlled Trials subsection of ADVERSE REACTIONS is based primarily on data from controlled clinical trials with WELLBUTRIN SR.
 Information on additional adverse events associated with the sustained-release formulation of bupropion in smoking cessation trials, as well as the immediate-release formulation of bupropion, is included in a separate section (see Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion).
 
 ## Incidence in Controlled Trials With WELLBUTRIN SR
 
-### Adverse Events Associated With Discontinuation of Treatment Among Patients Treated With WELLBUTRIN SR Tablets
+### Adverse Events Associated With Discontinuation of Treatment Among Patients Treated With WELLBUTRIN SR
 
-In placebo-controlled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of WELLBUTRIN SR Tablets and 4% of patients treated with placebo discontinued treatment due to adverse events.
-The specific adverse events in these trials that led to discontinuation in at least 1% of patients treated with either 300 or 400 mg/day of WELLBUTRIN SR Tablets and at a rate at least twice the placebo rate are listed in Table 4.
+In placebo-controlled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of WELLBUTRIN SR and 4% of patients treated with placebo discontinued treatment due to adverse events.
+The specific adverse events in these trials that led to discontinuation in at least 1% of patients treated with either 300 or 400 mg/day of WELLBUTRIN SR and at a rate at least twice the placebo rate are listed in Table 4.
 
 Table 4.
 Treatment Discontinuations Due to Adverse Events in Placebo-Controlled Trials
@@ -20,9 +22,9 @@ Treatment Discontinuations Due to Adverse Events in Placebo-Controlled Trials
 | Agitation | 0.3% | 1.8% | 0.3% |
 | Migraine | 0.0% | 1.8% | 0.3% |
 
-### Adverse Events Occurring at an Incidence of 1% or More Among Patients Treated With WELLBUTRIN SR Tablets
+### Adverse Events Occurring at an Incidence of 1% or More Among Patients Treated With WELLBUTRIN SR
 
-Table 5 enumerates treatment-emergent adverse events that occurred among patients treated with 300 and 400 mg/day of WELLBUTRIN SR Tablets and with placebo in placebo-controlled trials.
+Table 5 enumerates treatment-emergent adverse events that occurred among patients treated with 300 and 400 mg/day of WELLBUTRIN SR and with placebo in placebo-controlled trials.
 Events that occurred in either the 300- or 400-mg/day group at an incidence of 1% or more and were more frequent than in the placebo group are included.
 Reported adverse events were classified using a COSTART-based Dictionary.
 
@@ -31,7 +33,7 @@ Estimates are influenced by drug dose, detection technique, setting, physician j
 These incidence figures also cannot be compared with those obtained from other clinical studies involving related drug products as each group of drug trials is conducted under a different set of conditions.
 
 Finally, it is important to emphasize that the tabulation does not reflect the relative severity and/or clinical importance of the events.
-A better perspective on the serious adverse events associated with the use of WELLBUTRIN SR Tablets is provided in the WARNINGS and PRECAUTIONS sections.
+A better perspective on the serious adverse events associated with the use of WELLBUTRIN SR is provided in the WARNINGS and PRECAUTIONS sections.
 
 Table 5.
 Treatment-Emergent Adverse Events in Placebo-Controlled Trials*
@@ -95,7 +97,7 @@ Treatment-Emergent Adverse Events in Placebo-Controlled Trials*
 | Vaginal hemorrhage† | 0% | 2% | — |
 | Urinary tract infection | 1% | 0% | — |
 
-*Adverse events that occurred in at least 1% of patients treated with either 300 or 400 mg/day of WELLBUTRIN SR Tablets, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder.
+*Adverse events that occurred in at least 1% of patients treated with either 300 or 400 mg/day of WELLBUTRIN SR, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder.
 
 †Incidence based on the number of female patients.
 
@@ -103,7 +105,7 @@ Treatment-Emergent Adverse Events in Placebo-Controlled Trials*
 
 ### Incidence of Commonly Observed Adverse Events in Controlled Clinical Trials
 
-Adverse events from Table 5 occurring in at least 5% of patients treated with WELLBUTRIN SR Tablets and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg/day dose groups.
+Adverse events from Table 5 occurring in at least 5% of patients treated with WELLBUTRIN SR and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg/day dose groups.
 
 #### WELLBUTRIN SR 300 mg/day
 
@@ -118,7 +120,7 @@ Abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nau
 In addition to the adverse events noted above, the following events have been reported in clinical trials and postmarketing experience with the sustained-release formulation of bupropion in depressed patients and in nondepressed smokers, as well as in clinical trials and postmarketing clinical experience with the immediate-release formulation of bupropion.
 
 Adverse events for which frequencies are provided below occurred in clinical trials with the sustained-release formulation of bupropion.
-The frequencies represent the proportion of patients who experienced a treatment-emergent adverse event on at least one occasion in placebo-controlled studies for depression (n = 987) or smoking cessation (n = 1,013), or patients who experienced an adverse event requiring discontinuation of treatment in an open-label surveillance study with WELLBUTRIN SR Tablets (n = 3,100).
+The frequencies represent the proportion of patients who experienced a treatment-emergent adverse event on at least one occasion in placebo-controlled studies for depression (n = 987) or smoking cessation (n = 1,013), or patients who experienced an adverse event requiring discontinuation of treatment in an open-label surveillance study with WELLBUTRIN SR (n = 3,100).
 All treatment-emergent adverse events are included except those listed in Tables 2 through 5, those events listed in other safety-related sections, those adverse events subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, those events not reasonably associated with the use of the drug, and those events that were not serious and occurred in fewer than 2 patients.
 Events of major clinical importance are described in the WARNINGS and PRECAUTIONS sections of the labeling.
 

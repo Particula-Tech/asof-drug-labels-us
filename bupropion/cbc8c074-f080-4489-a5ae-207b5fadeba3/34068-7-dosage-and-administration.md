@@ -2,24 +2,24 @@
 
 ## General Dosing Considerations
 
-It is particularly important to administer WELLBUTRIN SR Tablets in a manner most likely to minimize the risk of seizure (see WARNINGS).
+It is particularly important to administer WELLBUTRIN SR in a manner most likely to minimize the risk of seizure (see WARNINGS).
 Gradual escalation in dosage is also important if agitation, motor restlessness, and insomnia, often seen during the initial days of treatment, are to be minimized.
-If necessary, these effects may be managed by temporary reduction of dose or the short-term administration of an intermediate to long-acting sedative hypnotic.
+If necessary, these effects may be managed by temporary reduction of dose or the short-term administration of an intermediate- to long-acting sedative hypnotic.
 A sedative hypnotic usually is not required beyond the first week of treatment.
 Insomnia may also be minimized by avoiding bedtime doses.
 If distressing, untoward effects supervene, dose escalation should be stopped.
-WELLBUTRIN SR should be swallowed whole and not crushed, divided, or chewed.
+WELLBUTRIN SR should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
 
 ## Initial Treatment
 
-The usual adult target dose for WELLBUTRIN SR Tablets is 300 mg/day, given as 150 mg twice daily.
-Dosing with WELLBUTRIN SR Tablets should begin at 150 mg/day given as a single daily dose in the morning.
+The usual adult target dose for WELLBUTRIN SR is 300 mg/day, given as 150 mg twice daily.
+Dosing with WELLBUTRIN SR should begin at 150 mg/day given as a single daily dose in the morning.
 If the 150-mg initial dose is adequately tolerated, an increase to the 300-mg/day target dose, given as 150 mg twice daily, may be made as early as day 4 of dosing.
 There should be an interval of at least 8 hours between successive doses.
 
 ## Increasing the Dosage Above 300 mg/day
 
-As with other antidepressants, the full antidepressant effect of WELLBUTRIN SR Tablets may not be evident until 4 weeks of treatment or longer.
+As with other antidepressants, the full antidepressant effect of WELLBUTRIN SR may not be evident until 4 weeks of treatment or longer.
 An increase in dosage to the maximum of 400 mg/day, given as 200 mg twice daily, may be considered for patients in whom no clinical improvement is noted after several weeks of treatment at 300 mg/day.
 
 ## Maintenance Treatment
@@ -38,3 +38,7 @@ WELLBUTRIN SR should be used with caution in patients with hepatic impairment (i
 ## Dosage Adjustment for Patients with Impaired Renal Function
 
 WELLBUTRIN SR should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
+
+## Dosage Adjustment for Elderly Patients
+
+Greater sensitivity of some elderly individuals to WELLBUTRIN SR cannot be ruled out, thus a reduced frequency and/or dose may be required (see PRECAUTIONS: Geriatric Use).

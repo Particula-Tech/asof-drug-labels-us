@@ -43,7 +43,7 @@ What else do I need to know about antidepressant medicines?
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  It is importantto discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 - Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
@@ -114,9 +114,10 @@ What should I tell my doctor before using WELLBUTRIN SR?
 How should I take WELLBUTRIN SR?
 
 - Take WELLBUTRIN SR exactly as prescribed by your doctor.
-- Do not chew, cut, or crush WELLBUTRIN SR Tablets.
-  You must swallow the tablets whole.
-  Tell your doctor if you cannot swallow medicine tablets.
+- Do not chew, cut, or crush WELLBUTRIN SR tablets.
+  If you do, the medicine will be released into your body too quickly.
+  If this happens you may be more likely to get side effects including seizures.
+  You must swallow the tablets whole.Tell your doctor if you cannot swallow medicine tablets.
 - Take WELLBUTRIN SR at the same time each day.
 - Take your doses of WELLBUTRIN SR at least 8 hours apart.
 - You may take WELLBUTRIN SR with or without food.
@@ -159,10 +160,11 @@ The most common side effects of WELLBUTRIN SR are loss of appetite, dry mouth, s
 If you have nausea, you may want to take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
 
-Tell your doctor right away about any side effects that bother you.
-
 These are not all the side effects of WELLBUTRIN SR.
 For a complete list, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store WELLBUTRIN SR?
 
@@ -191,15 +193,19 @@ Inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnes
 In addition, the 100-mg tablet contains FD&C Blue No. 1 Lake, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake, and the 200-mg tablet contains FD&C Red No. 40 Lake.
 The tablets are printed with edible black ink.
 
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
+WELLBUTRIN SR® and PARNATE® are registered trademarks of GlaxoSmithKline
 
 Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-August 2007
+August 2008
 
-WLS:4MG
+WLS:5MG
+
+WELLBUTRIN XL®, WELLBUTRIN SR®, WELLBUTRIN®, ZYBAN®, and PARNATE® are registered trademarks of GlaxoSmithKline.
+
+*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.; *KALETRA®/Abbott Laboratories.
 
 Distributed by:
 
@@ -213,15 +219,13 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-or
-
-DSM Pharmaceuticals, Inc.
+or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2007, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
-August 2007
+August 2008
 
-WLS:2PI
+WLS:3PI

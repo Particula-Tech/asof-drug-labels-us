@@ -4,7 +4,7 @@
 
 Overdoses of up to 30 g or more of bupropion have been reported.
 Seizure was reported in approximately one third of all cases.
-Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, sinus tachycardia, and ECG changes such as conduction disturbances or arrhythmias.
+Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, sinus tachycardia, and ECG changes such as conduction disturbances (including QRS prolongation) or arrhythmias.
 Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respiratory failure have been reported mainly when bupropion was part of multiple drug overdoses.
 
 Although most patients recovered without sequelae, deaths associated with overdoses of bupropion alone have been reported in patients ingesting large doses of the drug.
@@ -17,7 +17,6 @@ Monitor cardiac rhythm and vital signs.
 EEG monitoring is also recommended for the first 48 hours post-ingestion.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion or in symptomatic patients.
 
 Activated charcoal should be administered.
 There is no experience with the use of forced diuresis, dialysis, hemoperfusion, or exchange transfusion in the management of bupropion overdoses.

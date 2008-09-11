@@ -9,6 +9,6 @@ Bupropion hydrochloride powder is white, crystalline, and highly soluble in wate
 It has a bitter taste and produces the sensation of local anesthesia on the oral mucosa.
 The structural formula is:
 
-WELLBUTRIN SR Tablets are supplied for oral administration as 100-mg (blue), 150-mg (purple), and 200-mg (light pink), film-coated, sustained-release tablets.
+WELLBUTRIN SR is supplied for oral administration as 100-mg (blue), 150-mg (purple), and 200-mg (light pink), film-coated, sustained-release tablets.
 Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, and titanium dioxide and is printed with edible black ink.
 In addition, the 100-mg tablet contains FD&C Blue No. 1 Lake, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake, and the 200-mg tablet contains FD&C Red No. 40 Lake.
