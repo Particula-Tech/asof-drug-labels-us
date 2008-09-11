@@ -1,9 +1,9 @@
 # WARNINGS
 
-## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+## Increased Mortality in Elderly Patients with Dementia-Related Psychosis—
 
-Elderly patients with dementia-related psychosis treated with atypical antipsychotic drugs are at an increased risk of death compared to placebo.
-Geodon (ziprasidone) is not approved for the treatment of patients with dementia-related psychosis (see Boxed Warning).
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Geodon (ziprasidone) is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
 ## QT Prolongation and Risk of Sudden Death
 

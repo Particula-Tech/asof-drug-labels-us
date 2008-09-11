@@ -43,7 +43,7 @@ It is also important to remember that GEODON capsules should be taken with food.
 What is the most important safety information I should know about GEODON?
 
 GEODON is not approved for the treatment of patients with dementia-related psychosis.
-Elderly patients with a diagnosis of psychosis related to dementia treated with atypical antipsychotics are at an increased risk of death when compared to patients who are treated with placebo (a sugar pill).
+Elderly patients with a diagnosis of psychosis related to dementia treated with antipsychotics are at an increased risk of death when compared to patients who are treated with placebo (a sugar pill).
 
 GEODON is an effective drug to treat the symptoms of schizophrenia and the manic or mixed episodes of bipolar disorder.
 However, one potential side effect is that it may change the way the electrical current in your heart works more than some other drugs.
@@ -170,6 +170,6 @@ GEODON is a prescription medicine and only your doctor can decide if it is right
 If you have any questions or want more information about GEODON, talk with your doctor or pharmacist.
 You can also visit www.geodon.com.
 
-LAB-0272-2.0
+LAB-0272-3.0
 
-March 2007
+June 2008
