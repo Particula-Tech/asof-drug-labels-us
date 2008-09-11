@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-STRATTERA was administered to 5382 children or adolescent patients with ADHD and 525 adults with ADHD in clinical studies.
+STRATTERA was administered to 5382 children or adolescent patients with ADHD and 1007 adults with ADHD in clinical studies.
 During the ADHD clinical trials, 1625 children and adolescent patients were treated for longer than 1 year and 2529 children and adolescent patients were treated for over 6 months.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -11,7 +11,7 @@ Child and Adolescent Clinical Trials
 
 Reasons for discontinuation of treatment due to adverse reactions in child and adolescent clinical trials — In acute child and adolescent placebo–controlled trials, 3.0% (48/1613) of atomoxetine subjects and 1.4% (13/945) placebo subjects discontinued for adverse reactions.
 For all studies, (including open–label and long–term studies), 6.3% of extensive metabolizer (EM) patients and 11.2% of poor metabolizer (PM) patients discontinued because of an adverse reaction.
-Among STRATTERA–treated patients, irritability (0.3%, N=5); somnolence (0.3%, N=5); aggression (0.2%, N=4); nausea (0.2%, N=4); vomiting (0.2%, N=4); abdominal pain (0.1%, N=2); abdominal pain upper (0.1%, N=2); constipation (0.1%, N=2); fatigue (0.1%, N=2); feeling abnormal (0.1%, N=2); and headache (0.1%, N=2) were the reasons for discontinuation reported by more than 1 patient.
+Among STRATTERA–treated patients, irritability (0.3%, N=5); somnolence (0.3%, N=5); aggression (0.2%, N=4); nausea (0.2%, N=4); vomiting (0.2%, N=4); abdominal pain (0.2%, N=4); constipation (0.1%, N=2); fatigue (0.1%, N=2); feeling abnormal (0.1%, N=2); and headache (0.1%, N=2) were the reasons for discontinuation reported by more than 1 patient.
 
 Seizures — STRATTERA has not been systematically evaluated in pediatric patients with seizure disorder as these patients were excluded from clinical studies during the product’s premarket testing.
 In the clinical development program, seizures were reported in 0.2% (12/5073) of children whose average age was 10 years (range 6 to 16 years).
@@ -67,7 +67,7 @@ The following adverse reactions occurred in at least 2% of PM patients and were 
 Adult Clinical Trials
 
 Reasons for discontinuation of treatment due to adverse reactions in acute adult placebo–controlled trials — In the acute adult placebo–controlled trials, 11.3% (61/541) atomoxetine subjects and 3.0% (12/405) placebo subjects discontinued for adverse reactions.
-Among STRATTERA–treated patients, insomnia (0.9%, N=5); nausea (0.9%, N=5); chest pain (0.6%, N=3); fatigue (0.6%, N=3); anxiety (0.4%, N=2); erectile dysfunction (0.4%, N=2); mood swings (0.4%, N=2); nervousness (0.4%, N=2); palpitations (0.4%, N=2); and urinary retention (0.4%, N=2 were the reasons for discontinuation reported by more than 1 patient.
+Among STRATTERA–treated patients, insomnia (0.9%, N=5); nausea (0.9%, N=5); chest pain (0.6%, N=3); fatigue (0.6%, N=3); anxiety (0.4%, N=2); erectile dysfunction (0.4%, N=2); mood swings (0.4%, N=2); nervousness (0.4%, N=2); palpitations (0.4%, N=2); and urinary retention (0.4%, N=2) were the reasons for discontinuation reported by more than 1 patient.
 
 Seizures — STRATTERA has not been systematically evaluated in adult patients with a seizure disorder as these patients were excluded from clinical studies during the product’s premarket testing.
 In the clinical development program, seizures were reported on 0.1% (1/748) of adult patients.
@@ -125,6 +125,7 @@ Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 Male and female sexual dysfunction — Atomoxetine appears to impair sexual function in some patients.
 Changes in sexual desire, sexual performance, and sexual satisfaction are not well assessed in most clinical trials because they need special attention and because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate the actual incidence.
+Table 3 above displays the incidence of sexual side effects reported by at least 2% of adult patients taking STRATTERA in placebo-controlled trials.
 
 There are no adequate and well–controlled studies examining sexual dysfunction with STRATTERA treatment.
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of STRATTERA, physicians should routinely inquire about such possible side effects.

@@ -32,11 +32,10 @@ Caution should be exercised if STRATTERA is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Anyone considering the use of STRATTERA in a child or adolescent must balance the potential risks with the clinical need [see Box Warning and Warnings and Precautions (5.1)].
+Anyone considering the use of STRATTERA in a child or adolescent must balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
 
 The pharmacokinetics of atomoxetine in children and adolescents are similar to those in adults.
 The safety, efficacy, and pharmacokinetics of STRATTERA in pediatric patients less than 6 years of age have not been evaluated.
-The efficacy of STRATTERA beyond 9 weeks and safety of STRATTERA beyond 1 year of treatment have not been systematically evaluated.
 
 A study was conducted in young rats to evaluate the effects of atomoxetine on growth and neurobehavioral and sexual development.
 Rats were treated with 1, 10, or 50 mg/kg/day (approximately 0.2, 2, and 8 times, respectively, the maximum human dose on a mg/m2 basis) of atomoxetine given by gavage from the early postnatal period (Day 10 of age) through adulthood.
@@ -75,3 +74,15 @@ A non-inferiority analysis revealed that STRATTERA did not worsen tics in these 
 Out of 148 patients who entered the acute treatment phase, 103 (69.6%) patients discontinued the study.
 The primary reason for discontinuation in both the atomoxetine (38 of 76 patients, 50.0%) and placebo (45 of 72 patients, 62.5%) treatment groups was identified as lack of efficacy with most of the patients discontinuing at Week 12.
 This was the first visit where patients with a CGI-S≥4 could also meet the criteria for “clinical non-responder” (CGI-S remained the same or increased from study baseline) and be eligible to enter an open-label extension study with atomoxetine.
+
+Anxiety in patients with ADHD and comorbid Anxiety Disorders - In two post-marketing, double-blind, placebo-controlled trials, it has been demonstrated that treating patients with ADHD and comorbid anxiety disorders with STRATTERA does not worsen their anxiety.
+
+In a 12-week double-blind, placebo-controlled trial, 176 patients, aged 8-17, who met DSM-IV criteria for ADHD and at least one of the anxiety disorders of separation anxiety disorder, generalized anxiety disorder or social phobia were randomized.
+Following a 2-week double-blind placebo lead-in, STRATTERA was initiated at 0.8 mg/kg/day with increase to a target dose of 1.2 mg/kg/day (median dose 1.30 mg/kg/day +/- 0.29 mg/kg/day).
+STRATTERA did not worsen anxiety in these patients as determined by the Pediatric Anxiety Rating Scale (PARS).
+Of the 158 patients who completed the double-blind placebo lead-in, 26 (16%) patients discontinued the study.
+
+In a separate 16-week, double-blind, placebo-controlled trial, 442 patients aged 18-65, who met DSM-IV criteria for adult ADHD and social anxiety disorder (23% of whom also had Generalized Anxiety Disorder) were randomized.
+Following a 2-week double-blind placebo lead-in, STRATTERA was initiated at 40 mg/day to a maximum dose of 100 mg/day (mean daily dose 83 mg/day +/- 19.5 mg/day).
+STRATTERA did not worsen anxiety in these patients as determined by the Liebowitz Social Anxiety Scale (LSAS).
+Of the 436 patients who completed the double-blind placebo lead-in, 172 (39.4%) patients discontinued the study.

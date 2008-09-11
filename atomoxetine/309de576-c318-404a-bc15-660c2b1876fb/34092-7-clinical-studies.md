@@ -1,12 +1,8 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effectiveness
+## 14.1 ADHD studies in Children and Adolescents
 
-The effectiveness of STRATTERA in the treatment of ADHD was established in 6 randomized, double–blind, placebo–controlled studies in children, adolescents, and adults who met Diagnostic and Statistical Manual 4th edition (DSM–IV) criteria for ADHD.
-
-## 14.2 Children and Adolescents
-
-The effectiveness of STRATTERA in the treatment of ADHD was established in 4 randomized, double–blind, placebo–controlled studies of pediatric patients (ages 6 to 18).
+Acute Studies — The effectiveness of STRATTERA in the treatment of ADHD was established in 4 randomized, double–blind, placebo–controlled studies of pediatric patients (ages 6 to 18).
 Approximately one–third of the patients met DSM–IV criteria for inattentive subtype and two–thirds met criteria for both inattentive and hyperactive/impulsive subtypes.
 
 Signs and symptoms of ADHD were evaluated by a comparison of mean change from baseline to endpoint for STRATTERA- and placebo–treated patients using an intent–to–treat analysis of the primary outcome measure, the investigator administered and scored ADHD Rating Scale–IV–Parent Version (ADHDRS) total score including hyperactive/impulsive and inattentive subscales.
@@ -33,7 +29,14 @@ In both studies, ADHD symptoms statistically significantly improved more on STRA
 Examination of population subsets based on gender and age (<12 and 12 to 17) did not reveal any differential responsiveness on the basis of these subgroupings.
 There was not sufficient exposure of ethnic groups other than Caucasian to allow exploration of differences in these subgroups.
 
-## 14.3 Adults
+Maintenance Study — The effectiveness of STRATTERA in the maintenance treatment of ADHD was established in an outpatient study of children and adolescents (ages 6-15 years).
+Patients meeting DSM-IV criteria for ADHD who showed continuous response for about 4 weeks during an initial 10 week open-label treatment phase with STRATTERA (1.2 to 1.8 mg/kg/day) were randomized to continuation of their current dose of STRATTERA (N=292) or to placebo (N=124) under double-blind treatment for observation of relapse.
+Response during the open-label phase was defined as CGI-ADHD-S score ≤2 and a reduction of at least 25% from baseline in ADHDRS-IV-Parent:Inv total score.
+Patients who were assigned to STRATTERA and showed continuous response for approximately 8 months during the first double-blind treatment phase were again randomized to continuation of their current dose of STRATTERA (N=81) or to placebo (N=82) under double-blind treatment for observation of relapse.
+Relapse during the double-blind phase was defined as CGI-ADHD-S score increases of at least 2 from the end of open-label phase and ADHDRS-IV-Parent:Inv total score returns to ≥90% of study entry score for 2 consecutive visits.
+In both double-blind phases, patients receiving continued STRATTERA treatment experienced significantly longer times to relapse than those receiving placebo.
+
+## 14.2 ADHD studies in Adults
 
 The effectiveness of STRATTERA in the treatment of ADHD was established in 2 randomized, double–blind, placebo–controlled clinical studies of adult patients, age 18 and older, who met DSM–IV criteria for ADHD.
 

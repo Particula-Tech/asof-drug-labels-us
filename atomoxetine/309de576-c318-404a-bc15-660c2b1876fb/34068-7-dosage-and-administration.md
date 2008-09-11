@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Initial Treatment
+## 2.1 Acute Treatment
 
 Dosing of children and adolescents up to 70 kg body weight — STRATTERA should be initiated at a total daily dose of approximately 0.5 mg/kg and increased after a minimum of 3 days to a target total daily dose of approximately 1.2 mg/kg administered either as a single daily dose in the morning or as evenly divided doses in the morning and late afternoon/early evening.
 No additional benefit has been demonstrated for doses higher than 1.2 mg/kg/day [see Clinical Studies (14)].
@@ -15,9 +15,10 @@ The maximum recommended total daily dose in children and adolescents over 70 kg 
 
 ## 2.2 Maintenance/Extended Treatment
 
-There is no evidence available from controlled trials to indicate how long the patient with ADHD should be treated with STRATTERA.
-It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
-Nevertheless, the physician who elects to use STRATTERA for extended periods should periodically reevaluate the long–term usefulness of the drug for the individual patient.
+It is generally agreed that pharmacological treatment of ADHD may be needed for extended periods.
+The benefit of maintaining pediatric patients (ages 6-15 years) with ADHD on STRATTERA after achieving a response in a dose range of 1.2 to 1.8 mg/kg/day was demonstrated in a controlled trial.
+Patients assigned to STRATTERA in the maintenance phase were generally continued on the same dose used to achieve a response in the open label phase.
+The physician who elects to use STRATTERA for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient [see Clinical Studies (14.1)].
 
 ## 2.3 General Dosing Information
 
@@ -34,6 +35,6 @@ The safety of single doses over 120 mg and total daily doses above 150 mg have n
 Dosing adjustment for hepatically impaired patients — For those ADHD patients who have hepatic insufficiency (HI), dosage adjustment is recommended as follows: For patients with moderate HI (Child–Pugh Class B), initial and target doses should be reduced to 50% of the normal dose (for patients without HI).
 For patients with severe HI (Child–Pugh Class C), initial dose and target doses should be reduced to 25% of normal [see Use In Specific Populations (8.6)].
 
-Dosing adjustment for use with a strong CYP2D6 inhibitor — In children and adolescents up to 70 kg body weight administered strong CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine, STRATTERA should be initiated at 0.5 mg/kg/day and only increased to the usual target dose of 1.2 mg/kg/day if symptoms fail to improve after 4 weeks and the initial dose is well tolerated.
+Dosing adjustment for use with a strong CYP2D6 inhibitor or in patients who are known to be CYP2D6 PMs — In children and adolescents up to 70 kg body weight administered strong CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine, or in patients who are known to be CYP2D6 PMs, STRATTERA should be initiated at 0.5 mg/kg/day and only increased to the usual target dose of 1.2 mg/kg/day if symptoms fail to improve after 4 weeks and the initial dose is well tolerated.
 
 In children and adolescents over 70 kg body weight and adults administered strong CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine, STRATTERA should be initiated at 40 mg/day and only increased to the usual target dose of 80 mg/day if symptoms fail to improve after 4 weeks and the initial dose is well tolerated.

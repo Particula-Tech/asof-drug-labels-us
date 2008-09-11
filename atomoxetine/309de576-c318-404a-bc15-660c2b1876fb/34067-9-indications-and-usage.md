@@ -4,6 +4,8 @@
 
 STRATTERA is indicated for the treatment of Attention–Deficit/Hyperactivity Disorder (ADHD).
 
+The efficacy of STRATTERA Capsules was established in seven clinical trials in outpatients with ADHD: four 6 to 9-week trials in pediatric patients (ages 6 to 18), two 10-week trial in adults, and one maintenance trial in pediatrics (ages 6 to 15) [see Clinical Studies (14)].
+
 ## 1.2 Diagnostic Considerations
 
 A diagnosis of ADHD (DSM–IV) implies the presence of hyperactive–impulsive or inattentive symptoms that cause impairment and that were present before age 7 years.
@@ -26,8 +28,3 @@ Drug treatment may not be indicated for all patients with this syndrome.
 Drug treatment is not intended for use in the patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
 Appropriate educational placement is essential in children and adolescents with this diagnosis and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe drug treatment medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
-
-## 1.4 Long–Term Use
-
-The effectiveness of STRATTERA for long–term use, i.e., for more than 9 weeks in child and adolescent patients and 10 weeks in adult patients, has not been systematically evaluated in controlled trials.
-Therefore, the physician who elects to use STRATTERA for extended periods should periodically reevaluate the long–term usefulness of the drug for the individual patient [see Dosage and Administration (2.2)].

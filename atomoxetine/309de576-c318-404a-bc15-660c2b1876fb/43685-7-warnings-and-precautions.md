@@ -13,9 +13,7 @@ All reactions occurred during the first month of treatment.
 It is unknown whether the risk of suicidal ideation in pediatric patients extends to longer–term use.
 A similar analysis in adult patients treated with STRATTERA for either ADHD or major depressive disorder (MDD) did not reveal an increased risk of suicidal ideation or behavior in association with the use of STRATTERA.
 
-All pediatric patients being treated with STRATTERA should be monitored closely for suicidality, clinical worsening, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes.
-Such monitoring would generally include at least weekly face–to–face contact with patients or their family members or caregivers during the first 4 weeks of treatment, then every other week visits for the next 4 weeks, then at 12 weeks, and as clinically indicated beyond 12 weeks.
-Additional contact by telephone may be appropriate between face–to–face visits.
+All pediatric patients being treated with STRATTERA should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
 The following symptoms have been reported with STRATTERA: anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania and mania.
 Although a causal link between the emergence of such symptoms and the emergence of suicidal impulses has not been established, there is a concern that such symptoms may represent precursors to emerging suicidality.
@@ -77,8 +75,8 @@ In adult placebo–controlled trials, STRATTERA–treated subjects experienced a
 Tachycardia was identified as an adverse event for 1.5% (8/540) of these adult atomoxetine subjects compared with 0.5% (2/402) of placebo subjects.
 
 STRATTERA–treated adult subjects experienced mean increases in systolic (about 2.0 mm Hg) and diastolic (about 1.0 mm Hg) blood pressures compared with placebo.
-At the final study visit before drug discontinuation, 0% (0/510) of STRATTERA–treated adult subjects had systolic blood pressure measurements ≥180 mm Hg compared with 0% (0/393) of placebo subjects.
-At the final study visit before drug discontinuation, 0% (0/510) of STRATTERA–treated adult subjects had diastolic blood pressure measurements ≥105 mm Hg compared with 0.3% (1/393) of placebo subjects.
+At the final study visit before drug discontinuation, 2.2% (11/510) of STRATTERA–treated adult subjects had systolic blood pressure measurements ≥150 mm Hg compared with 1.0% (4/393) of placebo subjects.
+At the final study visit before drug discontinuation, 0.4% (2/510) of STRATTERA–treated adult subjects had diastolic blood pressure measurements ≥100 mm Hg compared with 0.5% (2/393) of placebo subjects.
 No adult subject had a high systolic or diastolic blood pressure detected on more than one occasion.
 
 Orthostatic hypotension and syncope have been reported in patients taking STRATTERA.
@@ -93,7 +91,7 @@ Peripheral vascular effects — There have been spontaneous postmarketing report
 
 Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.
-In a pooled analysis of multiple short–term, placebo–controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine–treated patients compared to 0 out of 1056 placebo–treated patients.
+In a pooled analysis of multiple short–term, placebo–controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine forseveral weeks at usual doses) of atomoxetine–treated patients compared to 0 out of 1056 placebo–treated patients.
 
 ## 5.6 Screening Patients for Bipolar Disorder
 
@@ -134,7 +132,7 @@ After about 12 months, gain in height stabilizes, and at 3 years, patients treat
 
 This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
 Patients who were pre–pubertal at the start of treatment (girls ≤8 years old, boys ≤9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
-Patients who were pubertal (girls >8 to≤13 years old, boys >9 to ≤14 years old) or late pubertal (girls >13 years old, boys >14 years old) had average weight and height gains that were close to or exceeded those predicted after three years of treatment.
+Patients who were pubertal (girls >8 to ≤13 years old, boys >9 to ≤14 years old) or late pubertal (girls >13 years old, boys >14 years old) had average weight and height gains that were close to or exceeded those predicted after three years of treatment.
 
 Growth followed a similar pattern in both extensive and poor metabolizers (EMs, PMs).
 PMs treated for at least two years gained an average of 2.4 kg and 1.1 cm less than predicted, while EMs gained an average of 0.2 kg and 0.4 cm less than predicted.
@@ -154,7 +152,8 @@ Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
 The higher blood levels in PMs lead to a higher rate of some adverse effects of STRATTERA [see Adverse Reactions (6.1)].
 
-## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors
+## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4–hydroxyatomoxetine.
-Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) [see Dosage and Administration (2.3) and Drug Interactions (7.2)].
+Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
+[see Dosage and Administration (2.3) and Drug Interactions (7.2)].

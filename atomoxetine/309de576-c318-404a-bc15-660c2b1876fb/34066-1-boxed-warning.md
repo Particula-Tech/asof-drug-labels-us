@@ -2,6 +2,7 @@
 
 STRATTERA (atomoxetine) increased the risk of suicidal ideation in short–term studies in children or adolescents with Attention–Deficit/Hyperactivity Disorder (ADHD).
 Anyone considering the use of STRATTERA in a child or adolescent must balance this risk with the clinical need.
+Co-morbidities occurring with ADHD may be associated with an increase in the risk of suicidal ideation and/or behavior.
 Patients who are started on therapy should be monitored closely for suicidality (suicidal thinking and behavior), clinical worsening, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 STRATTERA is approved for ADHD in pediatric and adult patients.
