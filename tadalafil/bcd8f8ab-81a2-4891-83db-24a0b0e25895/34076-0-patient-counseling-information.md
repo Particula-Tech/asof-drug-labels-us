@@ -63,4 +63,4 @@ For CIALIS for use as needed, patients should be instructed to take one tablet a
 In most patients, the ability to have sexual intercourse is improved for up to 36 hours.
 
 For CIALIS for once daily use, patients should be instructed to take one tablet at approximately the same time every day without regard for the timing of sexual activity.
-Cialis is effective at improving erectile function over the course of therapy
+Cialis is effective at improving erectile function over the course of therapy.

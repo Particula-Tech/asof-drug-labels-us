@@ -69,4 +69,4 @@ CYP3A4 (e.g.
 Midazolam or Lovastatin) — Tadalafil had no significant effect on exposure (AUC) to midazolam or lovastatin.
 
 P-glycoprotein (e.g.
-Digoxin) – Coadministration of tadalafil (40 mg once per day) for 10 days did not have a significant effect on the steady-state pharmacokinetics of digoxin (0.25 mg/day) in healthy subjects.
+Digoxin) — Coadministration of tadalafil (40 mg once per day) for 10 days did not have a significant effect on the steady-state pharmacokinetics of digoxin (0.25 mg/day) in healthy subjects.

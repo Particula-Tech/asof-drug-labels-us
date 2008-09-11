@@ -55,7 +55,7 @@ Geriatrics
 
 ## 2.4 Concomitant Medications
 
-Nitrites
+Nitrates
 
 - Concomitant use of nitrates in any form is contraindicated [see Contraindications (4.1)].
 

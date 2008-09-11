@@ -123,7 +123,7 @@ It is not possible to determine whether these events are related directly to CIA
 
 Body as a whole — hypersensitivity reactions including urticaria, Stevens-Johnson syndrome, and exfoliative dermatitis
 
-Nervous — migraine, seizure and seizure recurrence
+Nervous — migraine, seizure and seizure recurrence, transient global amnesia
 
 Ophthalmologic — visual field defect, retinal vein occlusion, retinal artery occlusion
 
