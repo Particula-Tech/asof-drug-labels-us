@@ -1,0 +1,42 @@
+# ADVERSE REACTIONS
+
+The principal and potentially serious toxic effects of azathioprine tablets are hematologic and gastrointestinal.
+The risks of secondary infection and neoplasia are also significant (see WARNINGS).
+The frequency and severity of adverse reactions depend on the dose and duration of azathioprine tablets as well as on the patient’s underlying disease or concomitant therapies.
+The incidence of hematologic toxicities and neoplasia encountered in groups of renal homograft recipients is significantly higher than that in studies employing azathioprine tablets for rheumatoid arthritis.
+The relative incidences in clinical studies are summarized below:
+
+| Toxicity | Renal Homograft | Rheumatoid Arthritis |
+| --- | --- | --- |
+| Leukopenia (any degree) | >50% | 28% |
+| <2,500 cells/mm3 | 16% | 5.3% |
+| Infections | 20% | <1% |
+| Neoplasia Lymphoma Others | 0.5% 2.8% | * |
+| * Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited. The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population. In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg per day) was 1.8 cases per 1000 patient-years of follow-up, compared with 0.8 cases per 1000 patient-years of follow-up in those not receiving azathioprine. However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e., alkylating agents) received by patients treated with azathioprine cannot be determined. |  |  |
+
+## Hematologic
+
+Leukopenia and/or thrombocytopenia are dose-dependent and may occur late in the course of therapy with azathioprine tablets.
+Dose reduction or temporary withdrawal may result in reversal of these toxicities.
+Infection may occur as a secondary manifestation of bone marrow suppression or leukopenia, but the incidence of infection in renal homotransplantation is 30 to 60 times that in rheumatoid arthritis.
+Macrocytic anemia and/or bleeding have been reported.
+
+TPMT genotyping or phenotyping can help identify patients with low or absent TPMT activity (homozygous for non-functional alleles) who are at increased risk for severe, life-threatening myelosuppression from azathioprine tablets (see CLINICAL PHARMACOLOGY, WARNINGS and PRECAUTIONS: Laboratory Tests).
+Death associated with pancytopenia has been reported in patients with absent TPMT activity receiving azathioprine.6, 20
+
+## Gastrointestinal
+
+Nausea and vomiting may occur within the first few months of therapy with azathioprine tablets, and occurred in approximately 12% of 676 rheumatoid arthritis patients.
+The frequency of gastric disturbance often can be reduced by administration of the drug in divided doses and/or after meals.
+However, in some patients, nausea and vomiting may be severe and may be accompanied by symptoms such as diarrhea, fever, malaise, and myalgias (see PRECAUTIONS).
+Vomiting with abdominal pain may occur rarely with a hypersensitivity pancreatitis.
+Hepatotoxicity manifest by elevation of serum alkaline phosphatase, bilirubin, and/or serum transaminases is known to occur following azathioprine use, primarily in allograft recipients.
+Hepatotoxicity has been uncommon (less than 1%) in rheumatoid arthritis patients.
+Hepatotoxicity following transplantation most often occurs within 6 months of transplantation and is generally reversible after interruption of azathioprine tablets.
+A rare, but life-threatening hepatic veno-occlusive disease associated with chronic administration of azathioprine has been described in transplant patients and in one patient receiving azathioprine tablets for panuveitis.21, 22, 23 Periodic measurement of serum transaminases, alkaline phosphatase, and bilirubin is indicated for early detection of hepatotoxicity.
+If hepatic veno-occlusive disease is clinically suspected, azathioprine tablets should be permanently withdrawn.
+
+## Others
+
+Additional side effects of low frequency have been reported.
+These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis and hepatosplenic T-cell lymphoma.

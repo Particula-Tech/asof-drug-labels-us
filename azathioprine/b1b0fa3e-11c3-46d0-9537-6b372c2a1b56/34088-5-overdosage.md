@@ -1,0 +1,7 @@
+# OVERDOSAGE
+
+The oral LD50s for single doses of azathioprine tablets in mice and rats are 2500 mg/kg and 400 mg/kg, respectively.
+Very large doses of this antimetabolite may lead to marrow hypoplasia, bleeding, infection, and death.
+About 30% of azathioprine is bound to serum proteins, but approximately 45% is removed during an 8-hour hemodialysis.24 A single case has been reported of a renal transplant patient who ingested a single dose of 7500 mg azathioprine.
+The immediate toxic reactions were nausea, vomiting, and diarrhea, followed by mild leukopenia and mild abnormalities in liver function.
+The white blood cell count, SGOT, and bilirubin returned to normal 6 days after the overdose.
