@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# DESCRIPTION
 
 Each Asacol delayed-release tablet for oral administration contains 400 mg of mesalamine, an anti-inflammatory drug.
 The Asacol delayed-release tablets are coated with acrylic based resin, Eudragit S (methacrylic acid copolymer B, NF), which dissolves at pH 7 or greater, releasing mesalamine in the terminal ileum and beyond for topical anti-inflammatory action in the colon.
