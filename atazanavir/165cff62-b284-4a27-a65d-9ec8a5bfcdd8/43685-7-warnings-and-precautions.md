@@ -4,14 +4,14 @@
 
 See Table 3 for a listing of drugs that are contraindicated for use with REYATAZ due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
 [See Contraindications (4).]
-Please refer to Table 10 for established and other potentially significant drug interactions [see Drug Interactions (7.3)].
+Please refer to Table 13 for established and other potentially significant drug interactions [see Drug Interactions (7.3)].
 
 ## 5.2 Cardiac Conduction Abnormalities
 
 Atazanavir has been shown to prolong the PR interval of the electrocardiogram in some patients.
 In healthy volunteers and in patients, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
 There have been rare reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.4) and Overdosage (10)].
-In clinical trials, asymptomatic first-degree AV block was observed in 5.9% of atazanavir-treated patients (n=920), 5.2% of lopinavir/ritonavir-treated patients (n=252), 10.4% of nelfinavir-treated patients (n=48), and 3.0% of efavirenz-treated patients (n=329).
+In clinical trials that included electrocardiograms, asymptomatic first-degree AV block was observed in 5.9% of atazanavir-treated patients (n=920), 5.2% of lopinavir/ritonavir-treated patients (n=252), 10.4% of nelfinavir-treated patients (n=48), and 3.0% of efavirenz-treated patients (n=329).
 In Study AI424-045, asymptomatic first-degree AV block was observed in 5% (6/118) of atazanavir/ritonavir-treated patients and 5% (6/116) of lopinavir/ritonavir-treated patients who had on-study electrocardiogram measurements.
 Because of limited clinical experience in patients with preexisting conduction system disease (eg, marked first-degree AV block or second- or third-degree AV block), atazanavir should be used with caution in these patients.
 [See Clinical Pharmacology (12.2).]
@@ -22,15 +22,16 @@ In a pharmacokinetic study between atazanavir 400 mg once daily and atenolol 50 
 Dose adjustment of atenolol is not required when used in combination with atazanavir.
 [See Drug Interactions (7) and Clinical Pharmacology (12.2).]
 Pharmacokinetic studies between atazanavir and other drugs that prolong the PR interval including beta blockers [other than atenolol, see Drug Interactions (7)], verapamil, and digoxin have not been performed.
-An additive effect of atazanavir and these drugs cannot be excluded; therefore, caution should be exercised when atazanavir is given concurrently with these drugs, especially those that are metabolized by CYP3A (eg, verapamil).
+An additive effect of atazanavir and these drugs cannot be excluded; therefore, caution should be exercised when atazanavir is given concurrently with these drugs, especially those thatare metabolized by CYP3A (eg, verapamil).
 
 ## 5.3 Rash
 
-In controlled clinical trials (n=1597), rash (all grades, regardless of causality) occurred in 21% of patients treated with REYATAZ.
-The median time to onset of rash was 8 weeks after initiation of REYATAZ and the median duration of rash was 1.3 weeks.
+In controlled clinical trials, rash (all grades, regardless of causality) occurred in approximately 20% of patients treated with REYATAZ.
+The median time to onset of rash in clinical studies was 7.1 weeks and the median duration of rash was 1.3 weeks.
 Rashes were generally mild-to-moderate maculopapular skin eruptions.
+Treatment-emergent adverse reactions of moderate or severe rash (occurring at a rate of ≥2%) are presented for the individual clinical studies [see Adverse Reactions (6.1)].
 Dosing with REYATAZ was often continued without interruption in patients who developed rash.
-The discontinuation rate for rash in clinical trials was 0.4%.
+The discontinuation rate for rash in clinical trials was <1%.
 REYATAZ should be discontinued if severe rash develops.
 Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions have been reported in patients receiving REYATAZ.
 [See Contraindications (4).]
@@ -51,7 +52,7 @@ Caution should be exercised when administering REYATAZ to patients with hepatic 
 [See Dosage and Administration (2.4).]
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases before treatment may be at increased risk for developing further transaminase elevations or hepatic decompensation.
 In these patients, appropriate laboratory testing should be conducted prior to initiating therapy with REYATAZ and these patients should be monitored during treatment.
-[See Adverse Reactions (6.3) and Use in Special Populations (8.8).]
+[See Adverse Reactions (6.3) and Use in Specific Populations (8.8).]
 
 ## 5.6 Nephrolithiasis
 

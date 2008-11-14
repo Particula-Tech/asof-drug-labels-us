@@ -46,9 +46,13 @@ It is unknown whether long-term use of REYATAZ will result in a lower incidence 
 
 ## 17.7 FDA-Approved Patient Labeling
 
-Patient Information
+### Patient Information
 
-REYATAZ® (RAY-ah-taz) (generic name = atazanavir sulfate) Capsules
+REYATAZ® (RAY-ah-taz)
+
+(generic name = atazanavir sulfate)
+
+Capsules
 
 ALERT: Find out about medicines that should NOT be taken with REYATAZ.
 Read the section "What important information should I know about taking REYATAZ with other medicines?"
@@ -125,8 +129,9 @@ How should I take REYATAZ?
 
 - Take REYATAZ once every day exactly as instructed by your healthcare provider.
   Your healthcare provider will prescribe the amount of REYATAZ that is right for you.
-  - For adults who have never taken anti-HIV medicines before, the usual dose is 400 mg (two 200-mg capsules) once daily taken with food.
-  - For adults who have taken anti-HIV medicines in the past, the usual dose is 300 mg (two 150-mg capsules) plus 100 mg of NORVIR® (ritonavir) once daily taken with food.
+  - For adults who have never taken anti-HIV medicines before, the dose is 300 mg once daily with 100 mg of NORVIR® (ritonavir) once daily taken with food.
+    For adults who are unable to tolerate ritonavir, 400 mg (two 200-mg capsules) once daily (without NORVIR®) taken with food is recommended.
+  - For adults who have taken anti-HIV medicines in the past, the usual dose is 300 mg plus 100 mg of NORVIR® (ritonavir) once daily taken with food.
 - Your dose will depend on your liver function and on the other anti-HIV medicines that you are taking.
   REYATAZ is always used with other anti-HIV medicines.
   If you are taking REYATAZ with SUSTIVA® (efavirenz) or with VIREAD® (tenofovir disoproxil fumarate), you should also be taking NORVIR® (ritonavir).
@@ -206,10 +211,10 @@ REYATAZ may cause serious, life-threatening side effects or death when used with
 
 - Ergot medicines: dihydroergotamine, ergonovine, ergotamine, and methylergonovine such as CAFERGOT®, MIGRANAL®, D.H.E.
   45®, ergotrate maleate, METHERGINE®, and others (used for migraine headaches).
-- HALCION® (triazolam, used for insomnia).
-- VERSED® (midazolam, used for sedation).
 - ORAP® (pimozide, used for Tourette’s disorder).
 - PROPULSID® (cisapride, used for certain stomach problems).
+- Triazolam, also known as HALCION® (used for insomnia).
+- Midazolam, also known as VERSED® (used for sedation), when taken by mouth.
 
 Do not take the following medicines with REYATAZ because of possible serious side effects:
 
@@ -224,6 +229,7 @@ Resistance to REYATAZ or cross-resistance to other HIV medicines may develop:
 
 - Rifampin (also known as RIMACTANE®, RIFADIN®, RIFATER®, or RIFAMATE®, used for tuberculosis).
 - St. John’s wort (Hypericum perforatum), an herbal product sold as a dietary supplement, or products containing St. John’s wort.
+- VIRAMUNE® (nevirapine, used for HIV infection).
 
 Do not take the following medicine if you are taking REYATAZ and NORVIR® together:
 
@@ -247,7 +253,7 @@ The following medicines may require your healthcare provider to monitor your the
 
 The following medicines may require a change in the dose or dose schedule of either REYATAZ or the other medicine:
 
-- FORTOVASE®, INVIRASE® (saquinavir).
+- INVIRASE® (saquinavir).
 - NORVIR® (ritonavir).
 - SUSTIVA® (efavirenz).
 - Antacids or buffered medicines.
@@ -258,9 +264,9 @@ The following medicines may require a change in the dose or dose schedule of eit
 - BIAXIN® (clarithromycin).
 - Medicines for indigestion, heartburn, or ulcers such as AXID® (nizatidine), PEPCID AC® (famotidine), TAGAMET® (cimetidine), or ZANTAC® (ranitidine).
 
-Women who use birth control pills or “the patch” should choose a different kind of contraception.
-REYATAZ may affect the safety and effectiveness of birth control pills or the patch.
-Talk to your healthcare provider about choosing an effective contraceptive.
+Talk to your healthcare provider about choosing an effective method of contraception.
+REYATAZ may affect the safety and effectiveness of hormonal contraceptives such as birth control pills or the contraceptive patch.
+Hormonal contraceptives do not prevent the spread of HIV to others.
 
 Remember:
 
@@ -302,8 +308,6 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 US Patent Nos: 5,849,911 and 6,087,383
 
-Bristol-Myers Squibb Company
+Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Princeton, NJ 08543 USA
-
-1212487 Rev March 2008
+1246226A1 Rev September 2008
