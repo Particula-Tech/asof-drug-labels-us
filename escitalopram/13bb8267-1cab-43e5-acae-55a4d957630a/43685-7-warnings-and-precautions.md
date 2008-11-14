@@ -97,8 +97,8 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 ### Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including Lexapro.
-In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
-Cases with serum sodium lower than 110 mmol/L have been reported and appeared to be reversible when Lexapro was discontinued.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH), and was reversible when Lexapro was discontinued.
+Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
 Discontinuation of Lexapro should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.

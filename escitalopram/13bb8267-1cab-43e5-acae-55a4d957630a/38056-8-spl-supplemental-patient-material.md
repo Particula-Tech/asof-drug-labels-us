@@ -24,7 +24,7 @@ What is the most important information I should know about antidepressant medici
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attackstrouble sleeping (insomnia) | new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking(mania)other unusual changes in behavior or mood |
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attackstrouble sleeping (insomnia) | new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or mood |
 | --- | --- |
 
 What else do I need to know about antidepressant medicines?
