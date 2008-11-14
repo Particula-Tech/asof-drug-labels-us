@@ -10,5 +10,5 @@ It is sparingly soluble in water, soluble in ethanol, and freely soluble in meth
 Enalapril is a pro-drug; following oral administration, it is bioactivated by hydrolysis of the ethyl ester to enalaprilat, which is the active angiotensin converting enzyme inhibitor.
 
 Enalapril maleate is supplied as 2.5 mg, 5 mg, 10 mg, and 20 mg tablets for oral administration.
-In addition to the active ingredient enalapril maleate, each tablet contains the following inactive ingredients: lactose, magnesium stearate, starch, and other ingredients.
-The 2.5 mg, 10 mg and 20 mg tablets also contain iron oxides.
+In addition to the active ingredient enalapril maleate, each tablet contains the following inactive ingredients: lactose, magnesium stearate, sodium bicarbonate, and starch.
+The 10 mg and 20 mg tablets also contain iron oxides.

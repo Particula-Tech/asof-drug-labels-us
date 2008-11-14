@@ -1,11 +1,16 @@
-® Vasotec is a registered trademark of Biovail Laboratories Incorporated
+Rx Only
 
-Manufactured by: Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+Vasotec® is a registered trademark of Biovail Laboratories International SRL
 
-Distributed by: Biovail Pharmaceuticals, Inc. Bridgewater, NJ 08807, USA
+Manufactured by: Merck Sharp & Dohme Ltd. Shotton Lane, Cramlington Northumberland, UK NE23 3JU
 
-Tablets made in Canada
+For: BTA Pharmaceuticals, Inc. Bridgewater, NJ 08807, USA
 
-December 2003
+Tablets made in the United Kingdom
 
-LB0026-01
+BIOVAIL®
+
+Rev.
+03/08
+
+LB0026-04

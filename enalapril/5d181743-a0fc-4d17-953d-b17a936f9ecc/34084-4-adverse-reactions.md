@@ -75,7 +75,7 @@ Body As A Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possib
 
 Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; palpitation, Raynaud's phenomenon.
 
-Digestive: Ileus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS,Hepatic Failure), melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
+Digestive: Ileus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS, Hepatic Failure), melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
 
 Hematologic: Rare cases of neutropenia, thrombocytopenia and bone marrow depression.
 
@@ -95,18 +95,16 @@ Miscellaneous: A symptom complex has been reported which may include some or all
 
 Angioedema: Angioedema has been reported in patients receiving VASOTEC, with an incidence higher in black than in non-black patients.
 Angioedema associated with laryngeal edema may be fatal.
-If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with VASOTEC should be discontinued and appropriate therapy instituted immediately.
-(See WARNINGS.)
+If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with VASOTEC should be discontinued and appropriate therapy instituted immediately (see WARNINGS).
 
 Hypotension: In the hypertensive patients, hypotension occurred in 0.9 percent and syncope occurred in 0.5 percent of patients following the initial dose or during extended therapy.
 Hypotension or syncope was a cause for discontinuation of therapy in 0.1 percent of hypertensive patients.
 In heart failure patients, hypotension occurred in 6.7 percent and syncope occurred in 2.2 percent of patients.
-Hypotension or syncope was a cause for discontinuation of therapy in 1.9 percent of patients with heart failure.
-(See WARNINGS.)
+Hypotension or syncope was a cause for discontinuation of therapy in 1.9 percent of patients with heart failure (see WARNINGS).
 
 Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
 
-Cough:See PRECAUTIONS, Cough.
+Cough: See PRECAUTIONS, Cough.
 
 Pediatric Patients
 
@@ -121,8 +119,7 @@ Hyperkalemia (see PRECAUTIONS), hyponatremia.
 Creatinine, Blood Urea Nitrogen:
 
 In controlled clinical trials minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 0.2 percent of patients with essential hypertension treated with VASOTEC alone.
-Increases are more likely to occur in patients receiving concomitant diuretics or in patients with renal artery stenosis.
-(See PRECAUTIONS.)
+Increases are more likely to occur in patients receiving concomitant diuretics or in patients with renal artery stenosis (see PRECAUTIONS).
 In patients with heart failure who were also receiving diuretics with or without digitalis, increases in blood urea nitrogen or serum creatinine, usually reversible upon discontinuation of VASOTEC and/or other concomitant diuretic therapy, were observed in about 11 percent of patients.
 Increases in blood urea nitrogen or creatinine were a cause for discontinuation in 1.2 percent of patients.
 

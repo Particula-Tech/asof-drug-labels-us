@@ -9,8 +9,7 @@ The beneficial effects of enalapril in hypertension and heart failure appear to 
 Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 Although the latter decrease is small, it results in small increases of serum potassium.
 In hypertensive patients treated with VASOTEC alone for up to 48 weeks, mean increases in serum potassium of approximately 0.2 mEq/L were observed.
-In patients treated with VASOTEC plus a thiazide diuretic, there was essentially no change in serum potassium.
-(See PRECAUTIONS.)
+In patients treated with VASOTEC plus a thiazide diuretic, there was essentially no change in serum potassium (see PRECAUTIONS).
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
@@ -37,8 +36,7 @@ The effective half-life for accumulation of enalaprilat following multiple doses
 
 The disposition of enalapril and enalaprilat in patients with renal insufficiency is similar to that in patients with normal renal function until the glomerular filtration rate is 30 mL/min or less.
 With glomerular filtration rate ≤30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases and time to steady state may be delayed.
-The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency.
-(See DOSAGE AND ADMINISTRATION.)
+The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency (see DOSAGE AND ADMINISTRATION).
 Enalaprilat is dialyzable at the rate of 62 mL/min.
 
 Studies in dogs indicate that enalapril crosses the blood-brain barrier poorly, if at all; enalaprilat does not enter the brain.
@@ -51,8 +49,7 @@ Pharmacodynamics and Clinical Effects
 Hypertension
 
 Administration of VASOTEC to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
-Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients.
-(See WARNINGS.)
+Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS).
 
 In most patients studied, after oral administration of a single dose of enalapril, onset of antihypertensive activity was seen at one hour with peak reduction of blood pressure achieved by four to six hours.
 
@@ -71,8 +68,7 @@ The effects appear to be similar in patients with renovascular hypertension.
 When given together with thiazide-type diuretics, the blood pressure lowering effects of VASOTEC are approximately additive.
 
 In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving VASOTEC.
-In this study there was no evidence of a blunting of the antihypertensive action of VASOTEC.
-(See PRECAUTIONS, Drug Interactions.)
+In this study there was no evidence of a blunting of the antihypertensive action of VASOTEC (see PRECAUTIONS, Drug Interactions).
 
 Heart Failure
 
@@ -118,8 +114,8 @@ In both CONSENSUS and SOLVD-Treatment trials, patients were also usually receivi
 Clinical Pharmacology in Pediatric Patients
 
 A multiple dose pharmacokinetic study was conducted in 40 hypertensive male and female pediatric patients aged 2 months to ≤16 years following daily oral administration of 0.07 to 0.14 mg/kg enalapril maleate.
-At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 67% of the administered dose.
-Conversion of enalapril to enalaprilat was in the range of 64-76%.
+At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 68% of the administered dose.
+Conversion of enalapril to enalaprilat was in the range of 63-76%.
 The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 2 months to ≤16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
 
 In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥50 kg received either 1.25, 5, or 40 mg of enalapril daily.

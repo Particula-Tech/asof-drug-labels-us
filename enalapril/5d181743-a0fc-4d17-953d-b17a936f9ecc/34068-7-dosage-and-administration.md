@@ -3,12 +3,10 @@
 Hypertension
 
 In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally may occur following the initial dose of VASOTEC.
-The diuretic should, if possible, be discontinued for two to three days before beginning therapy with VASOTEC to reduce the likelihood of hypotension.
-(See WARNINGS.)
+The diuretic should, if possible, be discontinued for two to three days before beginning therapy with VASOTEC to reduce the likelihood of hypotension (see WARNINGS).
 If the patient's blood pressure is not controlled with VASOTEC alone, diuretic therapy may be resumed.
 
-If the diuretic cannot be discontinued an initial dose of 2.5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour.
-(See WARNINGS and PRECAUTIONS, Drug Interactions.)
+If the diuretic cannot be discontinued an initial dose of 2.5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
 The recommended initial dose in patients not on diuretics is 5 mg once a day.
 Dosage should be adjusted according to blood pressure response.
@@ -42,8 +40,7 @@ The recommended dosing range is 2.5 to 20 mg given twice a day.
 Doses should be titrated upward, as tolerated, over a period of a few days or weeks.
 The maximum daily dose administered in clinical trials was 40 mg in divided doses.
 
-After the initial dose of VASOTEC, the patient should be observed under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour.
-(See WARNINGS and PRECAUTIONS, Drug Interactions.)
+After the initial dose of VASOTEC, the patient should be observed under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and PRECAUTIONS, Drug Interactions).
 If possible, the dose of any concomitant diuretic should be reduced which may diminish the likelihood of hypotension.
 The appearance of hypotension after the initial dose of VASOTEC does not preclude subsequent careful dose titration with the drug, following effective management of the hypotension.
 
@@ -51,15 +48,13 @@ Asymptomatic Left Ventricular Dysfunction
 
 In the trial that demonstrated efficacy, patients were started on 2.5 mg twice daily and were titrated as tolerated to the targeted daily dose of 20 mg (in divided doses).
 
-After the initial dose of VASOTEC, the patient should be observed under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour.
-(See WARNINGS and PRECAUTIONS, Drug Interactions.)
+After the initial dose of VASOTEC, the patient should be observed under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and PRECAUTIONS, Drug Interactions).
 If possible, the dose of any concomitant diuretic should be reduced which may diminish the likelihood of hypotension.
 The appearance of hypotension after the initial dose of VASOTEC does not preclude subsequent careful dose titration with the drug, following effective management of the hypotension.
 
 Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponatremia
 
-In patients with heart failure who have hyponatremia (serum sodium less than 130 mEq/L) or with serum creatinine greater than 1.6 mg/dL, therapy should be initiated at 2.5 mg daily under close medical supervision.
-(See DOSAGE AND ADMINISTRATION, Heart Failure, WARNINGS and PRECAUTIONS, Drug Interactions.)
+In patients with heart failure who have hyponatremia (serum sodium less than 130 mEq/L) or with serum creatinine greater than 1.6 mg/dL, therapy should be initiated at 2.5 mg daily under close medical supervision (see DOSAGE AND ADMINISTRATION, Heart Failure, WARNINGS and PRECAUTIONS, Drug Interactions).
 The dose may be increased to 2.5 mg b.i.d., then 5 mg b.i.d. and higher as needed, usually at intervals of four days or more if at the time of dosage adjustment there is not excessive hypotension or significant deterioration of renal function.
 The maximum daily dose is 40 mg.
 
@@ -67,9 +62,7 @@ Pediatric Hypertensive Patients
 
 The usual recommended starting dose is 0.08 mg/kg (up to 5 mg) once daily.
 Dosage should be adjusted according to blood pressure response.
-Doses above 0.58 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients.
-
-See CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients.
+Doses above 0.58 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients).
 
 VASOTEC is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
 

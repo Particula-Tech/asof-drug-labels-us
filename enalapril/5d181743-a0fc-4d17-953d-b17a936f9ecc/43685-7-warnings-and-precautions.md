@@ -1,27 +1,31 @@
 # WARNINGS
 
-## Anaphylactoid and Possibly Related Reactions
+Anaphylactoid and Possibly Related Reactions
 
 Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including VASOTEC) may be subject to a variety of adverse reactions, some of them serious.
 
-### Angioedema:
+### Head and Neck Angioedema
 
 Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including VASOTEC.
 This may occur at any time during treatment.
 In such cases VASOTEC should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.
 In instances where swelling has been confined to the face and lips the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
 Angioedema associated with laryngeal edema may be fatal.
-Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided.
-(See ADVERSE REACTIONS.)
+Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
+
+Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
+These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
+The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
+Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
 
-Anaphylactoid reactions during desensitization:
+Anaphylactoid reactions during desensitization
 
 Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid reactions during membrane exposure:
+Anaphylactoid reactions during membrane exposure
 
 Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
@@ -29,11 +33,9 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 Hypotension
 
 Excessive hypotension is rare in uncomplicated hypertensive patients treated with VASOTEC alone.
-Patients with heart failure given VASOTEC commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy.
-(See DOSAGE AND ADMINISTRATION.)
+Patients with heart failure given VASOTEC commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy (see DOSAGE AND ADMINISTRATION).
 Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
-It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with VASOTEC in patients at risk for excessive hypotension who are able to tolerate such adjustments.
-(See PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS.)
+It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with VASOTEC in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
 In patients at risk for excessive hypotension, therapy should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of enalapril and/or diuretic is increased.
 Similar considerations may apply to patients with ischemic heart or cerebrovascular disease, in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident.
 
@@ -59,6 +61,9 @@ Fetal/Neonatal Morbidity and Mortality
 ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature.
 When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible.
+
+In a published restrospective epidemiological study, infants whose mothers had taken an ACE inhibitor during their first trimester of pregnancy appeared to have an increased risk of major congenital malformations compared with infants whose mothers had not undergone first trimester exposure to ACE inhibitor drugs.
+The number of cases of birth defects is small and the findings of this study have not yet been repeated.
 
 The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
@@ -104,8 +109,7 @@ Some patients with hypertension or heart failure with no apparent pre-existing r
 This is more likely to occur in patients with pre-existing renal impairment.
 Dosage reduction and/or discontinuation of the diuretic and/or VASOTEC may be required.
 
-Evaluation of patients with hypertension or heart failure should always include assessment of renal function.
-(See DOSAGE AND ADMINISTRATION.)
+Evaluation of patients with hypertension or heart failure should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
 
 Hyperkalemia:
 
@@ -114,8 +118,7 @@ In most cases these were isolated values which resolved despite continued therap
 Hyperkalemia was a cause of discontinuation of therapy in 0.28 percent of hypertensive patients.
 In clinical trials in heart failure, hyperkalemia was observed in 3.8 percent of patients but was not a cause for discontinuation.
 
-Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with VASOTEC.
-(See Drug Interactions.)
+Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with VASOTEC (see Drug Interactions).
 
 Cough:
 
@@ -152,7 +155,7 @@ Patients should be told to report promptly any indication of infection (e.g., so
 
 Pregnancy:
 
-Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to ACE inhibitors, and they should also be told that these consequences do not appear to have resulted from intrauterine ACE-inhibitor exposure that has been limited to the first trimester.
+Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors.
 These patients should be asked to report pregnancies to their physicians as soon as possible.
 
 NOTE: As with many other drugs, certain advice to patients being treated with enalapril is warranted.
@@ -165,8 +168,7 @@ Hypotension — Patients on Diuretic Therapy:
 
 Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
-If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour.
-(See WARNINGS and DOSAGE AND ADMINISTRATION.)
+If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Agents Causing Renin Release:
 
@@ -199,6 +201,10 @@ Lithium toxicity has been reported in patients receiving lithium concomitantly w
 A few cases of lithium toxicity have been reported in patients receiving concomitant VASOTEC and lithium and were reversible upon discontinuation of both drugs.
 It is recommended that serum lithium levels be monitored frequently if enalapril is administered concomitantly with lithium.
 
+Gold:
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including VASOTEC.
+
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of a tumorigenic effect when enalapril was administered for 106 weeks to male and female rats at doses up to 90 mg/kg/day or for 94 weeks to male and female mice at doses up to 90 and 180 mg/kg/day, respectively.
@@ -211,8 +217,7 @@ There were no adverse effects on reproductive performance of male and female rat
 
 Pregnancy
 
-Pregnancy Categories C (first trimester) and D (second and third trimesters).
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
+Pregnancy Categories C (first trimester) and D (second and third trimesters) (see WARNINGS, Fetal/Neonatal Morbidity and Mortality).
 
 Nursing Mothers
 
@@ -222,7 +227,6 @@ Because of the potential for serious adverse reactions in nursing infants from e
 Pediatric Use
 
 Antihypertensive effects of VASOTEC have been established in hypertensive pediatric patients age 1 month to 16 years.
-Use of VASOTEC in these age groups is supported by evidence from adequate and well-controlled studies of VASOTEC in pediatric and adult patients as well as by published literature in pediatric patients.
-(See CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients and DOSAGE AND ADMINISTRATION.)
+Use of VASOTEC in these age groups is supported by evidence from adequate and well-controlled studies of VASOTEC in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients and DOSAGE AND ADMINISTRATION).
 
 VASOTEC is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
