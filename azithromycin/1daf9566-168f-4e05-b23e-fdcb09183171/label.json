@@ -1,8 +1,9 @@
 {
   "application_numbers": [],
   "inn": "azithromycin",
-  "labeler": "Pfizer Global",
+  "labeler": "Pfizer, Inc",
   "package_ndcs": [
+    "0069-4170-02",
     "0069-4170-21"
   ],
   "products": [],
