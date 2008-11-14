@@ -25,6 +25,6 @@ Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, 
 Licensed from H. Lundbeck A/S
 
 Rev.
-05/07
+08/08
 
-© 2007 Forest Laboratories, Inc.
+© 2008 Forest Laboratories, Inc.
