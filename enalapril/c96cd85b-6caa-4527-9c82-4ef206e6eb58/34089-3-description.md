@@ -16,5 +16,5 @@ Its empirical formula is C7H8ClN3O4S2 and its structural formula is:
 
 It is a white, or practically white, crystalline powder with a molecular weight of 297.74, which is slightly soluble in water, but freely soluble in sodium hydroxide solution.
 
-VASERETIC is available as a combination of enalapril maleate with hydrochlorothiazide: VASERETIC 10-25, containing 10 mg enalapril maleate and 25 mg hydrochlorothiazide.
-Inactive ingredients are: iron oxides, lactose, magnesium stearate, starch and other ingredients.
+VASERETIC is available in the tablet combination of enalapril maleate with hydrochlorothiazide: VASERETIC 10-25, containing 10 mg enalapril maleate and 25 mg hydrochlorothiazide.
+Inactive ingredients are: iron oxide, lactose, magnesium stearate, sodium bicarbonate, and starch.
