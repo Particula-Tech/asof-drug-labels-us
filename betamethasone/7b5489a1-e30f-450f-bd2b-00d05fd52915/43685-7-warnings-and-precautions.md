@@ -19,7 +19,7 @@ Literature reports suggest an apparent association between use of corticosteroid
 
 ## Endocrine
 
-Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
+Corticosteroids can produce reversible hypothalamic pituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
@@ -73,14 +73,14 @@ The contribution of the underlying disease and/or prior corticosteroid treatment
 If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
 (See the respective package inserts for complete VZIG and IG prescribing information.)
-If chicken pox develops, treatment with antiviral agents should be considered.
+If chickenpox develops, treatment with antiviral agents should be considered.
 
 ## Neurologic
 
 Reports of severe medical events have been associated with the intrathecal route of administration (see ADVERSE REACTIONS, Gastrointestinal and Neurologic/Psychiatric sections).
 
-Results from one multicenter, randomized, placebo controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early mortality (at 2 weeks) and late mortality (at 6 months) in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
-High doses of corticosteroids, including Celestone Soluspan, should not be used for the treatment of traumatic brain injury.
+Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early mortality (at 2 weeks) and late mortality (at 6 months) in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+High doses of corticosteroids, including CELESTONE SOLUSPAN, should not be used for the treatment of traumatic brain injury.
 
 ## Ophthalmic
 
@@ -123,7 +123,7 @@ There is an enhanced effect of corticosteroids in patients with cirrhosis.
 
 ## Intra-Articular and Soft Tissue Administration
 
-Intra-articular injected corticosteroids may be systematically absorbed.
+Intra-articular injected corticosteroids may be systemically absorbed.
 
 Appropriate examination of any joint fluid present is necessary to exclude a septic process.
 
@@ -165,7 +165,7 @@ If steroid therapy is continued for more than 6 weeks, intraocular pressure shou
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop fever or other signs of infection.
 
-Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
+Persons who are on corticosteroids should be warned to avoid exposure to chickenpox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
 
 ## Drug Interactions
@@ -262,7 +262,7 @@ Infants born to mothers who have received corticosteroids during pregnancy shoul
 
 ## Nursing Mothers
 
-Systematically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
+Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Caution should be exercised when corticosteroids are administered to a nursing woman.
 
 ## Pediatric Use
@@ -273,7 +273,7 @@ Other indications for pediatric use of corticosteroids, eg, severe asthma and wh
 
 The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see ADVERSE REACTIONS).
 Like adults, pediatric patients should be carefully observed with frequent measurements of blood pressure, weight, height, intraocular pressure, and clinical evaluation for the presence of infection, psychosocial disturbances, thromboembolism, peptic ulcers, cataracts, and osteoporosis.
-Pediatric patients who are treated with corticosteroids by any route, including systematically administered corticosteroids, may experience a decrease in their growth velocity.
+Pediatric patients who are treated with corticosteroids by any route, including systemically administered corticosteroids, may experience a decrease in their growth velocity.
 This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (ie, cosyntropin stimulation and basal cortisol plasma levels).
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
