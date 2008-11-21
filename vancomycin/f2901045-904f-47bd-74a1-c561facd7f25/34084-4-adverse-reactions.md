@@ -1,15 +1,16 @@
 # ADVERSE REACTIONS
 
 Infusion-Related Events: During or soon after rapid infusion of vancomycin, patients may develop anaphylactoid reactions, including hypotension (see ANIMAL PHARMACOLOGY), wheezing, dyspnea, urticaria, or pruritus.
-Rapid infusion may also cause flushing of the upper body (“Red Man Syndrome”) or pain and muscle spasm of the chest and back.
+Rapid infusion may also cause flushing of the upper body (‘‘Red Neck’’) or pain and muscle spasm of the chest and back.
 These reactions usually resolve within 20 minutes but may persist for several hours.
 Such events are infrequent if vancomycin is given by a slow infusion over 60 minutes.
 In studies of normal volunteers, infusion-related events did not occur when vancomycin was administered at a rate of 10 mg/min or less.
 
-Nephrotoxicity: Rarely, renal failure, principally manifested by increased serum creatinine or BUN concentrations, especially in patients given large doses of vancomycin, has been reported.
-Rare cases of interstitial nephritis have been reported.
+Nephrotoxicity: Renal failure, principally manifested by increased serum creatinine or BUN concentrations, especially in patients administered large doses of vancomycin, has been reported rarely.
+Cases of interstitial nephritis have been reported rarely.
 Most of these have occurred in patients who were given aminoglycosides concomitantly or who had preexisting kidney dysfunction.
 When vancomycin was discontinued, azotemia resolved in most patients.
+Gastrointestinal: Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS).
 
 Ototoxicity: A few dozen cases of hearing loss associated with vancomycin have been reported.
 Most of these patients had kidney dysfunction or a preexisting hearing loss, or were receiving concomitant treatment with an ototoxic drug.
@@ -19,11 +20,9 @@ Hematopoietic: Reversible neutropenia, usually starting one week or more after o
 Neutropenia appears to be promptly reversible when vancomycin is discontinued.
 Thrombocytopenia has rarely been reported.
 
-Although a causal relationship has not been established, reversible agranulocytosis (granulocytes < 500/mm3) has been reported rarely.
+Although a causal relationship has not been established, reversible agranulocytosis (granulocytes< 500/mm3) has been reported rarely.
 
 Phlebitis: Inflammation at the injection site has been reported.
 
-Gastrointestinal: Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS).
-
-Miscellaneous: Infrequently, patients have been reported to have had anaphylaxis, drug fever, chills, nausea, eosinophilia, rashes (including exfoliative dermatitis), linear IgA bullous dermatosis, Stevens-Johnson syndrome, toxic epidermal necrolysis, and rare cases of vasculitis in association with the administration of vancomycin.
+Miscellaneous: Infrequently, patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes including exfoliative dermatitis, Stevens-Johnson syndrome, and vasculitis in association with administration of vancomycin.
 Chemical peritonitis has been reported following intraperitoneal administration of vancomycin (see PRECAUTIONS).
