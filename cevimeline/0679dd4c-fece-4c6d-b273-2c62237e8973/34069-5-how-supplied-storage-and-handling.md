@@ -11,8 +11,6 @@ Store at 25°C (77°F) excursion permitted to 15°-30°C (59°-86°F)
 
 Rx Only
 
-Distributed and Marketed by: Daiichi Pharmaceutical Corporation Montvale, NJ 07645
+Distributed and Marketed by: Daiichi Sankyo Pharma Development, a Division of Daiichi Sankyo, Inc. Edison, NJ 08837
 
-EVOXAC is a registered trademark of Daiichi Pharmaceutical Co., Ltd.
-
-PRT38A 05/2006 Printed in U.S.A.
+PRT40 11/2006 Printed in U.S.A.
