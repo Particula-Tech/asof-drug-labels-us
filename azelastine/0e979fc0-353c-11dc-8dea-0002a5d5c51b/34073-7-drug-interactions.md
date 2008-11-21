@@ -1,0 +1,15 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Central Nervous System Depressants
+
+Concurrent use of ASTEPRO Nasal Spray with alcohol or other central nervous system depressants should be avoided because reductions in alertness and impairment of central nervous system performance may occur [See Warnings and Precautions (5.1)].
+
+## 7.2 Erythromycin and Ketoconazole
+
+Interaction studies investigating the cardiac effects, as measured by the corrected QT interval (QTc), of concomitantly administered oral azelastine hydrochloride and erythromycin or ketoconazole were conducted.
+Oral erythromycin (500 mg three times daily for 7 days) had no effect on azelastine pharmacokinetics or QTc based on analyses of serial electrocardiograms.
+Ketoconazole (200 mg twice daily for 7 days) interfered with the measurement of azelastine plasma concentrations; however, no effects on QTc were observed [see Pharmacodynamics (12.2) Pharmacokinetics (12.3)].
+
+## 7.3 Cimetidine
+
+Cimetidine (400 mg twice daily) increased the mean Cmax and AUC of orally administered azelastine hydrochloride (4 mg twice daily) by approximately 65% [see Pharmacokinetics (12.3)].
