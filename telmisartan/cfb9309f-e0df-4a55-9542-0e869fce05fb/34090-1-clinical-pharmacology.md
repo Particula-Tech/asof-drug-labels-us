@@ -77,7 +77,7 @@ In 30 hypertensive patients with normal renal function treated for 8 weeks with 
 
 ## Clinical Trials
 
-The antihypertensive effects of MICARDIS (telmisartan) have been demonstrated in six principal placebo-controlled clinical trials, studying a range of 20-160 mg; one of these examined the antihypertensive effects of telmisartan and hydrochlorothiazide in combination.
+The antihypertensive effects of Micardis® (telmisartan) tablets have been demonstrated in six principal placebo-controlled clinical trials, studying a range of 20-160 mg; one of these examined the antihypertensive effects of telmisartan and hydrochlorothiazide in combination.
 The studies involved a total of 1773 patients with mild to moderate hypertension (diastolic blood pressure of 95-114 mmHg), 1031 of whom were treated with telmisartan.
 Following once daily administration of telmisartan, the magnitude of blood pressure reduction from baseline after placebo subtraction was approximately (SBP/DBP) 6-8/6 mmHg for 20 mg, 9-13/6-8 mmHg for 40 mg, and 12-13/7-8 mmHg for 80 mg.
 Larger doses (up to 160 mg) did not appear to cause a further decrease in blood pressure.

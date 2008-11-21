@@ -4,7 +4,7 @@
 
 Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature in patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, MICARDIS (telmisartan) tablets should be discontinued as soon as possible.
+When pregnancy is detected, MICARDIS tablets should be discontinued as soon as possible.
 
 The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
@@ -34,7 +34,7 @@ The no observed effect doses for developmental toxicity in rats and rabbits, 5 a
 
 ## Hypotension in Volume-Depleted Patients
 
-In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with MICARDIS® tablets.
+In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with Micardis® (telmisartan) tablets.
 This condition should be corrected prior to administration of MICARDIS tablets, or treatment should start under close medical supervision with a reduced dose.
 
 If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
@@ -45,7 +45,7 @@ A transient hypotensive response is not a contraindication to further treatment,
 ## General
 
 Impaired Hepatic Function: As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance.
-MICARDIS (telmisartan) tablets should be used with caution in these patients.
+MICARDIS tablets should be used with caution in these patients.
 
 Impaired Renal Function: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
 In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
@@ -54,6 +54,9 @@ Similar results may be anticipated in patients treated with MICARDIS tablets.
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed.
 There has been no long term use of MICARDIS tablets in patients with unilateral or bilateral renal artery stenosis but an effect similar to that seen with ACE inhibitors should be anticipated.
 
+Dual Blockade of the Renin-angiotensin-aldosterone System: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported.
+Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should be used with caution and should include close monitoring of renal function.
+
 ## Information for Patients
 
 Pregnancy: Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
@@ -61,12 +64,12 @@ These patients should be asked to report pregnancies to their physicians as soon
 
 ## Drug Interactions
 
-Digoxin: When telmisartan was coadministered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
+Digoxin: When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 It is, therefore, recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing telmisartan to avoid possible over- or under-digitalization.
 
 Warfarin: Telmisartan administered for 10 days slightly decreased the mean warfarin trough plasma concentration; this decrease did not result in a change in International Normalized Ratio (INR).
 
-Other Drugs: Coadministration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glibenclamide, simvastatin, hydrochlorothiazide or ibuprofen.
+Other Drugs: Co-administration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glibenclamide, simvastatin, hydrochlorothiazide or ibuprofen.
 Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19.
 Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes; it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.
 
@@ -98,5 +101,5 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Of the total number of patients receiving MICARDIS in clinical studies, 551 (18.6%) were 65 to 74 years of age and 130 (4.4%) were 75 years or older.
+Of the total number of patients receiving Micardis® (telmisartan) tablets in clinical studies, 551 (18.6%) were 65 to 74 years of age and 130 (4.4%) were 75 years or older.
 No overall differences in effectiveness and safety were observed in these patients compared to younger patients and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
