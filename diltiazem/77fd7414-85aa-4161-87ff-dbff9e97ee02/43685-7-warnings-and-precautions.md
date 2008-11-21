@@ -10,7 +10,7 @@ A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds
 2.
 Congestive Heart Failure.
 Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt).
-An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction 24%± 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dp/dt).
+An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction 24% ± 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dp/dt).
 Worsening of congestive heart failure has been reported in patients with preexisting impairment of ventricular function.
 Experience with the use of diltiazem hydrochloride in combination with beta-blockers in patients with impaired ventricular function is limited.
 Caution should be exercised when using this combination.
@@ -56,7 +56,7 @@ In vitro, propranolol appears to be displaced from its binding sites by diltiaze
 If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted (see WARNINGS).
 
 Buspirone.
-In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5 fold and Cmax 4.1 fold compared to placebo.
+In nine healthy subjects, diltiazem significantly increased the mean buspirone 5.5-fold and Cmax 4.1-fold compared to placebo.
 The T½ and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
 Subsequent dose adjustments may be necessary during co-administration, and should be based on clinical assessment.
@@ -74,7 +74,7 @@ Another investigator found no increase in digoxin levels in 12 patients with cor
 Since there have been conflicting results regarding the effect of digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing diltiazem hydrochloride therapy to avoid possible over- or under-digitalization (see WARNINGS).
 
 Quinidine.
-Diltiazem significantly increases the AUC(0→∞) of quinidine by 51%, T½ by 36%, and decreases its CLoral by 33%.
+Diltiazem significantly increases the AUC(0→00) of quinidine by 51%, T½ by 36%, and decreases its CLoral by 33%.
 Monitoring for quinidine adverse effects may be warranted and the dose adjusted accordingly.
 
 Anesthetics.
@@ -93,12 +93,12 @@ Concomitant administration of diltiazem with carbamazepine has been reported to 
 Patients receiving these drugs concurrently should be monitored for a potential drug interaction.
 
 Benzodiazepines.
-Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3-4 fold and the Cmax by 2-fold, compared to placebo.
-The elimination half life of midazolam and triazolam also increased (1.5-2.5 fold) during coadministration with diltiazem.
+Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
+The elimination half life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
 These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sodation) of both midazolam and triazolam.
 
 Lovastatin.
-In a ten-subject study, coadministration of diltiazem (120 mg bid) with lovastatin resulted in a 3-4 times increase in mean lovastatin AUC and Cmax vs. lovastatin alone; no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.
+In a ten-subject study, coadministration of diltiazem (120 mg bid) with lovastatin resulted in a 3- to 4-fold increase in mean lovastatin AUC and Cmax vs. lovastatin alone; no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
 Rifampin.
@@ -112,7 +112,7 @@ No evidence of impaired fertility was observed in a study performed in male and 
 
 Pregnancy.
 Category C. Reproduction studies have been conducted in mice, rats, and rabbits.
-Administration of doses ranging from 4 to 6 times (depending on species) the upper limit of the optimum dosage range in clinical trials (480 mg/day or 8 mg/kg/day for a 60 kg patient) resulted in embryo and fetal lethality.
+Administration of doses ranging from 4 to 6 times (depending on species) the upper limit of the optimum dosage range in clinical trials (480 mg/day or 8 mg/kg/day for a 60-kg patient) resulted in embryo and fetal lethality.
 These studies revealed, in one species or another, a propensity to cause abnormalities of the skeleton, heart, retina, and tongue.
 Also observed were reductions in early individual pup weights and pup survival, prolonged delivery and increased incidence of stillbirths.
 There are no well-controlled studies in pregnant women; therefore, use diltiazem hydrochloride in pregnant women only if the potential benefit justifies the potential risk to the fetus.

@@ -7,4 +7,4 @@ Manufactured by: Biovail Corporation Mississauga, Ontario CANADA L5N 8M5
 Manufactured for:
 
 Rev.
-04/06 LB0001-09
+7/07 LB0001-10
