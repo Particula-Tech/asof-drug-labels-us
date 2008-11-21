@@ -276,6 +276,6 @@ No Preservatives are present.
 
 Product developed and manufactured by: Centocor, Inc. 200 Great Valley Parkway Malvern, PA 19355
 
-Revised May 2008
+Revised August 2008
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

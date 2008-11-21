@@ -96,8 +96,8 @@ Medications for the treatment of hypersensitivity reactions (e.g., acetaminophen
 
 ## Neurologic Events
 
-REMICADE and other agents that inhibit TNF have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis, and CNS manifestation of systemic vasculitis.
-Prescribers should exercise caution in considering the use of REMICADE in patients with pre-existing or recent onset of central nervous system demyelinating or seizure disorders.
+REMICADE and other agents that inhibit TNF have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis, and CNS manifestation of systemic vasculitis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+Prescribers should exercise caution in considering the use of REMICADE in patients with pre-existing or recent onset of demyelinating or seizure disorders.
 Discontinuation of REMICADE should be considered in patients who develop significant central nervous system adverse reactions.
 
 ## Malignancies
