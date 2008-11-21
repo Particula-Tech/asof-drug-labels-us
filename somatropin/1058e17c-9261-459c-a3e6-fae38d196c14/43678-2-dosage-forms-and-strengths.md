@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Cartridges are available for use with the corresponding NordiPens or preloaded in the Norditropin NordiFlex pens:
 

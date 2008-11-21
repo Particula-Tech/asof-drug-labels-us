@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Norditropin Cartridges [somatropin (rDNA origin) injection] 5 mg/1.5 mL and 15 mg/1.5 mL:
 

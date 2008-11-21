@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Inhibition of 11ß-Hydroxysteroid Dehydrogenase Type 1 (11ßHSD-1)
 
