@@ -44,7 +44,7 @@ In addition, a number of other less common adverse events have been reported:
 
 Cardiovascular Hypotension, and rarely, syncope, bradycardia, heart block.
 
-Liver and BiliarySystem Hepatic necrosis, hepatitis, cholestatic jaundice, elevated liver function tests.
+Liver and Biliary System Hepatic necrosis, hepatitis, cholestatic jaundice, elevated liver function tests.
 
 Hypersensitivity Rare reports of hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea) and anaphylactoid reactions.
 

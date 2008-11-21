@@ -58,7 +58,7 @@ Therefore, use of labetalol should be avoided in such patients.
 
 High-Dose Labetalol Administration of up to 3 g/d as an infusion for up to 2 to 3 days has been anecdotally reported; several patients experienced hypotension or bradycardia (see DOSAGE AND ADMINISTRATION).
 
-HypotensionSymptomatic postural hypotension (incidence 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol injection.
+Hypotension Symptomatic postural hypotension (incidence 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol injection.
 Therefore, the patient's ability to tolerate an upright position should be established before permitting any ambulation.
 
 Jaundice or Hepatic Dysfunction (see WARNINGS).
@@ -122,7 +122,7 @@ When patients being treated with labetalol have a positive urine test for amphet
 Long-term oral dosing studies with labetalol for 18 months in mice and for 2 years in rats showed no evidence of carcinogenesis.
 Studies with labetalol, using dominant lethal assays in rats and mice, and exposing microorganisms according to modified Ames tests, showed no evidence of mutagenesis.
 
-## Pregnancy: Teratogenic Effects: Pregnancy Category C:
+## Pregnancy: Teratogenic Effects: Pregnancy Category C
 
 Teratogenic studies have been performed with labetalol in rats and rabbits at oral doses up to approximately 6 and 4 times the maximum recommended human dose (MRHD), respectively.
 No reproducible evidence of fetal malformations was observed.
