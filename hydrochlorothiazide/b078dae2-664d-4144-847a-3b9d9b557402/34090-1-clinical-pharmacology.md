@@ -86,9 +86,9 @@ No dosage adjustment is necessary.
 
 Renal Insufficiency: Renal excretion does not contribute to the clearance of telmisartan.
 Based on modest experience in patients with mild-to-moderate renal impairment (creatinine clearance of 30-80 mL/min, mean clearance approximately 50 mL/min), no dosage adjustment is necessary in patients with decreased renal function.
-Telmisartan is not removed from blood by hemofiltration (see PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
+Telmisartan is not removed from blood by hemofiltration (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-Hepatic Insufficiency: In patients with hepatic insufficiency, plasma concentrations of telmisartan are increased, and absolute bioavailability approaches 100% (see PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
+Hepatic Insufficiency: In patients with hepatic insufficiency, plasma concentrations of telmisartan are increased, and absolute bioavailability approaches 100% (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 Drug Interactions: See PRECAUTIONS, Drug Interactions.
 
@@ -131,7 +131,7 @@ The incidence of symptomatic orthostasis after the first dose in all controlled 
 
 There were no changes in the heart rate of patients treated with telmisartan in controlled trials.
 
-### Telmisartan & Hydrochlorothiazide
+### Telmisartan and Hydrochlorothiazide
 
 In controlled clinical trials with over 2500 patients, 1017 patients were exposed to telmisartan (20 to 160 mg) and concomitant hydrochlorothiazide (6.25 to 25 mg).
 These trials included one factorial trial with combinations of telmisartan (20, 40, 80, 160 mg, or placebo) and hydrochlorothiazide (6.25, 12.5, 25 mg and placebo).

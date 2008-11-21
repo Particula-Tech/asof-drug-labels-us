@@ -4,7 +4,7 @@
 
 Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature in patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, MICARDIS HCT (telmisartan/hydrochlorothiazide) tablets should be discontinued as soon as possible.
+When pregnancy is detected, MICARDIS HCT tablets should be discontinued as soon as possible.
 
 The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
@@ -42,7 +42,7 @@ There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly ot
 ## Hypotension in Volume-Depleted Patients
 
 Initiation of antihypertensive therapy in patients whose renin-angiotensin system are activated such as patients who are intravascular volume- or sodium-depleted, e.g., in patients treated vigorously with diuretics, should only be approached cautiously.
-These conditions should be corrected prior to administration of MICARDIS HCT.
+These conditions should be corrected prior to administration of Micardis® HCT (telmisartan and hydrochlorothiazide) tablets.
 Treatment should be started under close medical supervision (see DOSAGE AND ADMINISTRATION).
 If hypotension occurs, the patients should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment which usually can be continued without difficulty once the blood pressure has stabilized.
@@ -55,13 +55,13 @@ Hypersensitivity Reaction: Hypersensitivity reactions to hydrochlorothiazide may
 
 Systemic Lupus Erythematosus: Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
-Lithium Interaction: Lithium generally should not be given with thiazides (seePRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
+Lithium Interaction: Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
 
 # PRECAUTIONS
 
 ## Serum Electrolytes
 
-### Telmisartan & Hydrochlorothiazide
+### Telmisartan and Hydrochlorothiazide
 
 In controlled trials using the telmisartan/hydrochlorothiazide combination treatment, no patient administered 40/12.5 mg, 80/12.5 mg or 80/25 mg had a decrease in potassium ≥1.4 mEq/L, and no patient experienced hyperkalemia.
 No discontinuations due to hypokalemia occurred during treatment with the telmisartan/hydrochlorothiazide combination.
@@ -108,7 +108,7 @@ Increases in cholesterol and triglyceride levels may be associated with thiazide
 ### Telmisartan
 
 As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance.
-MICARDIS® HCT tablets should therefore be used with caution in these patients.
+Micardis® HCT (telmisartan and hydrochlorothiazide) tablets should therefore be used with caution in these patients.
 
 ## Impaired Renal Function
 
@@ -127,28 +127,35 @@ Thiazides should be used with caution in severe renal disease.
 In patients with renal disease, thiazides may precipitate azotemia.
 Cumulative effects of the drug may develop in patients with impaired renal function.
 
+## Dual Blockade of the Renin-angiotensin-aldosterone System
+
+### Telmisartan
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported.
+Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should be used with caution and should include close monitoring of renal function.
+
 ## Information for Patients
 
 Pregnancy: Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
 These patients should be asked to report pregnancies to their physicians as soon as possible.
 
-Symptomatic Hypotension: A patient receiving MICARDIS HCT should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
-The patients should be told that if syncope occurs, MICARDIS HCT should be discontinued until the physician has been consulted.
+Symptomatic Hypotension: A patient receiving MICARDIS HCT tablets should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
+The patients should be told that if syncope occurs, MICARDIS HCT tablets should be discontinued until the physician has been consulted.
 
 All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
-Potassium Supplements: A patient receiving MICARDIS HCT should be told not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing physician.
+Potassium Supplements: A patient receiving MICARDIS HCT tablets should be told not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing physician.
 
 ## Drug Interactions
 
 ### Telmisartan
 
-Digoxin: When telmisartan was coadministered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
+Digoxin: When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 It is, therefore, recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing telmisartan to avoid possible over- or under-digitalization.
 
 Warfarin: Telmisartan administered for 10 days slightly decreased the mean warfarin trough plasma concentration; this decrease did not result in a change in International Normalized Ratio (INR).
 
-Other Drugs: Coadministration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glibenclamide, simvastatin, hydrochlorothiazide or ibuprofen.
+Other Drugs: Co-administration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glibenclamide, simvastatin, hydrochlorothiazide or ibuprofen.
 Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19.
 Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes; it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.
 
@@ -173,14 +180,14 @@ Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): Possible increa
 
 Lithium: Should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
-Refer to the package insert for lithium preparations before use of such preparations with MICARDIS HCT.
+Refer to the package insert for lithium preparations before use of such preparations with Micardis® HCT (telmisartan and hydrochlorothiazide) tablets.
 
 Non-steroidal anti-inflammatory drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
-Therefore, when MICARDIS HCT and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Therefore, when MICARDIS HCT tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Telmisartan & Hydrochlorothiazide
+### Telmisartan and Hydrochlorothiazide
 
 No carcinogenicity, mutagenicity, or fertility studies have been conducted with the combination of telmisartan and hydrochlorothiazide.
 

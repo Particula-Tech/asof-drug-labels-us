@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
-MICARDIS HCT (telmisartan/hydrochlorothiazide) has been evaluated for safety in over 1700 patients, including 716 treated for over six months and 420 for over one year.
-In clinical trials with MICARDIS HCT, no unexpected adverse events have been observed.
+Micardis® HCT (telmisartan and hydrochlorothiazide) tablets has been evaluated for safety in over 1700 patients, including 716 treated for over six months and 420 for over one year.
+In clinical trials with MICARDIS HCT tablets, no unexpected adverse events have been observed.
 Adverse experiences have been limited to those that have been previously reported with telmisartan and/or hydrochlorothiazide.
 The overall incidence of adverse experiences reported with the combination was comparable to placebo.
 Most adverse experiences were mild in intensity and transient in nature and did not require discontinuation of therapy.
@@ -33,7 +33,7 @@ Finally, the following adverse events were reported at a rate of 2% or greater i
 
 Adverse events occurred at approximately the same rates in men and women, older and younger patients, and black and non-black patients.
 
-In controlled trials (n=1017), 0.3% of patients treated with MICARDIS HCT 40/12.5 mg, 80/12.5 mg or 80/25 mg discontinued due to orthostatic hypotension, and the incidence of dizziness was 4%, 7%, and 1% respectively.
+In controlled trials (n=1017), 0.3% of patients treated with Micardis® HCT (telmisartan and hydrochlorothiazide) tablets 40/12.5 mg, 80/12.5 mg or 80/25 mg discontinued due to orthostatic hypotension, and the incidence of dizziness was 4%, 7%, and 1% respectively.
 
 ## Telmisartan
 
@@ -95,22 +95,22 @@ Special Senses: transient blurred vision, xanthopsia
 
 ## Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of MICARDIS tablets.
+The following adverse reactions have been identified during post-approval use of Micardis® (telmisartan) tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to MICARDIS tablets.
-The most frequently spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, and increased CPK.
+The most frequently spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, increased CPK, anaphylactic reaction, and tendon pain (including tendonitis, tenosynovitis).
 
-Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including MICARDIS.
+Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including MICARDIS tablets.
 
 ## Clinical Laboratory Findings
 
-In controlled trials, clinically relevant changes in standard laboratory test parameters were rarely associated with administration of MICARDIS HCT tablets.
+In controlled trials, clinically relevant changes in standard laboratory test parameters were rarely associated with administration of Micardis® HCT (telmisartan and hydrochlorothiazide) tablets.
 
 Hemoglobin and Hematocrit: Decreases in hemoglobin (≥ 2 g/dL) and hematocrit (≥ 9%) were observed in 1.2% and 0.6% of telmisartan/hydrochlorothiazide patients, respectively, in controlled trials.
 Changes in hemoglobin and hematocrit were not considered clinically significant and there were no discontinuations due to anemia.
 
-Creatinine, Blood Urea Nitrogen (BUN): Increases in BUN (≥ 11.2 mg/dL) and serum creatinine (≥ 0.5 mg/dL) were observed in 2.8% and 1.4%, respectively, of patients with essential hypertension treated with MICARDIS HCT in controlled trials.
-No patient discontinued treatment with MICARDIS HCT due to an increase in BUN or creatinine.
+Creatinine, Blood Urea Nitrogen (BUN): Increases in BUN (≥ 11.2 mg/dL) and serum creatinine (≥ 0.5 mg/dL) were observed in 2.8% and 1.4%, respectively, of patients with essential hypertension treated with MICARDIS HCT tablets in controlled trials.
+No patient discontinued treatment with MICARDIS HCT tablets due to an increase in BUN or creatinine.
 
 Liver Function Tests: Occasional elevations of liver enzymes and/or serum bilirubin have occurred.
 No telmisartan/hydrochlorothiazide treated patients discontinued therapy due to abnormal hepatic function.
