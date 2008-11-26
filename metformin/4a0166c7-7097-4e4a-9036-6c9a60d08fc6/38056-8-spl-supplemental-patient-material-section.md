@@ -1,4 +1,4 @@
-## Patient Information
+Patient Information
 
 GLUCOPHAGE® (metformin hydrochloride tablets) and GLUCOPHAGE® XR (metformin hydrochloride extended-release tablets)
 
@@ -157,6 +157,9 @@ Do not share your medicine with other people.
 GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
 Licensed to Bristol-Myers Squibb Company.
 
+METAGLIP™ is a trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
+Licensed to Bristol-Myers Squibb Company.
+
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-51-005135-15 1125493A7 June 2006
+1125493A8 Rev August 2008

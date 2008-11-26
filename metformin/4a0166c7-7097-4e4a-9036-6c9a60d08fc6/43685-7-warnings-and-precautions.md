@@ -4,6 +4,8 @@
 
 ## General
 
+Macrovascular Outcomes—There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLUCOPHAGE or GLUCOPHAGE XR or any other anti-diabetic drug.
+
 Monitoring of renal function—Metformin is known to be substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
 Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive GLUCOPHAGE or GLUCOPHAGE XR.
 In patients with advanced age, GLUCOPHAGE and GLUCOPHAGE XR should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renal function.

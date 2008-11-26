@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-GLUCOPHAGE®(metformin hydrochloride tablets)
+GLUCOPHAGE® (metformin hydrochloride tablets)
 
 | 500 mg | Bottles of 100 | NDC 0087-6060-05 |
 | --- | --- | --- |
@@ -12,7 +12,7 @@ GLUCOPHAGE 500 mg tablets are round, white to off-white, film coated tablets deb
 
 GLUCOPHAGE 850 mg tablets are round, white to off-white, film coated tablets debossed with "BMS 6070" around the periphery of the tablet on one side and "850" debossed across the face of the other side.
 
-GLUCOPHAGE 1000 mg tablets are white, oval, biconvex, film coated tablets with "BMS 6071" debossed on one side and "1000" debossed on the opposite side and with a bisect line on both sides.
+GLUCOPHAGE1000 mg tablets are white, oval, biconvex, film coated tablets with "BMS 6071" debossed on one side and "1000" debossed on the opposite side and with a bisect line on both sides.
 
 GLUCOPHAGE® XR (metformin hydrochloride extended-release tablets)
 
@@ -30,10 +30,3 @@ The tablets are pale red and may have a mottled appearance.
 Store at 20°–25° C (68°–77° F); excursions permitted to 15°–30° C (59°–86° F). [See USP Controlled Room Temperature.]
 
 Dispense in light-resistant containers.
-
-GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
-Licensed to Bristol-Myers Squibb Company.
-
-Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
-
-51-005135-15 1125493A7 Revised June 2006
