@@ -1,6 +1,8 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Treatment-Naive Patients
+## 14.1 Clinical Efficacy in Patients with HIV-1 Infection
+
+Treatment-Naïve Patients
 
 Study 903
 
@@ -9,9 +11,9 @@ Patients had a mean age of 36 years (range 18–64), 74% were male, 64% were Cau
 The mean baseline CD4+ cell count was 279 cells/mm3 (range 3–956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417–5,130,000).
 Patients were stratified by baseline HIV-1 RNA and CD4+ cell count.
 Forty-three percent of patients had baseline viral loads >100,000 copies/mL and 39% had CD4+ cell counts <200 cells/mm3.
-Treatment outcomes through 48 and144 weeks are presented in Table 13.
+Treatment outcomes through 48 and 144 weeks are presented in Table 14.
 
-Table 13 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
+Table 14 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
 
 | Outcomes | VIREAD+3TC +EFV (N=299) | d4T+3TC +EFV (N=301) | VIREAD+3TC +EFV (N=299) | d4T+3TC +EFV (N=301) |
 | --- | --- | --- | --- | --- |
@@ -38,9 +40,9 @@ From Weeks 96 to 144 of the study, patients received a fixed-dose combination of
 Patients had a mean age of 38 years (range 18–80), 86% were male, 59% were Caucasian and 23% were Black.
 The mean baseline CD4+ cell count was 245 cells/mm3 (range 2–1191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56–6.54).
 Patients were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of patients had baseline viral loads >100,000 copies/mL.
-Treatment outcomes through 48 and 144 weeks for those patients who did not have efavirenz resistance at baseline are presented in Table 14.
+Treatment outcomes through 48 and 144 weeks for those patients who did not have efavirenz resistance at baseline are presented in Table 15.
 
-Table 14 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
+Table 15 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
 
 | FTC +VIREAD +EFV (N=244) | AZT/3TC +EFV (N=243) | FTC +VIREAD +EFV (N=227)Patients who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue study after Week 48 or Week 96 were excluded from analysis. | AZT/3TC +EFV (N=229) |  |
 | --- | --- | --- | --- | --- |
@@ -61,7 +63,7 @@ The mean increase from baseline in CD4+ cell count was 190 cells/mm3 in the EMTR
 
 Through 48 weeks, 7 patients in the emtricitabine + VIREAD group and 5 patients in the zidovudine/lamivudine group experienced a new CDC Class C event (10 and 6 patients through 144 weeks).
 
-## 14.2 Treatment-Experienced Patients
+Treatment-Experienced Patients
 
 Study 907
 
@@ -72,9 +74,9 @@ Mean age of the patients was 42 years, 85% were male and 69% were Caucasian, 17%
 
 Changes from baseline in log10 copies/mL plasma HIV-1 RNA levels over time up to Week 48 are presented below in Figure 1.
 
-The percent of patients with HIV-1 RNA <400 copies/mL and outcomes of patients through 48 weeks are summarized in Table 15.
+The percent of patients with HIV-1 RNA <400 copies/mL and outcomes of patients through 48 weeks are summarized in Table 16.
 
-Table 15 Outcomes of Randomized Treatment (Study 907)
+Table 16 Outcomes of Randomized Treatment (Study 907)
 
 | VIREAD (N=368) | Placebo (N=182) | VIREAD (N=368) | Placebo Crossover to VIREAD (N=170) |  |
 | --- | --- | --- | --- | --- |
@@ -89,3 +91,38 @@ Mean change in absolute CD4+ cell counts by Week 24 was +11 cells/mm3 for the VI
 Mean change in absolute CD4+ cell counts by Week 48 was +4 cells/mm3 for the VIREAD group.
 
 Through Week 24, one patient in the VIREAD group and no patients in the placebo arm experienced a new CDC Class C event.
+
+## 14.2 Clinical Efficacy In Patients with Chronic Hepatitis B
+
+HBeAg-Negative Chronic Hepatitis B
+
+Study 0102 was a Phase 3, randomized, double-blind, active-controlled study of VIREAD 300 mg compared to HEPSERA 10 mg in 375 HBeAg- (anti-HBe+) patients with compensated liver function, the majority of whom were nucleoside-naïve.
+The mean age of patients was 44 years, 77% were male, 25% were Asian, 65% were Caucasian, 17% had previously received alpha-interferon therapy and 18% were nucleoside-experienced (16% had prior lamivudine experience).
+At baseline, patients had a mean Knodell necroinflammatory score of 7.8; mean plasma HBV DNA was 6.9 log10 copies/mL; and mean serum ALT was 140 U/L.
+
+HBeAg-Positive Chronic Hepatitis B
+
+Study 0103 was a Phase 3, randomized, double-blind, active-controlled study of VIREAD 300 mg compared to HEPSERA 10 mg in 266 HBeAg+ nucleoside-naïve patients with compensated liver function.
+The mean age of patients was 34 years, 69% were male, 36% were Asian, 52% were Caucasian, 16% had previously received alpha-interferon therapy, and <5% were nucleoside experienced.
+At baseline, patients had a mean Knodell necroinflammatory score of 8.4; mean plasma HBV DNA was 8.7 log10 copies /mL; and mean serum ALT was 147 U/L.
+
+The primary data analysis was conducted after all patients reached 48 weeks of treatment and results are summarized below.
+
+The primary efficacy endpoint in both studies was complete response to treatment defined as HBV DNA <400 copies/mL and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 17).
+
+Table 17 Histological, Virological, Biochemical, and Serological Response at Week 48
+
+|  | VIREAD (N=250) | HEPSERA (N=125) | VIREAD (N=176) | HEPSERA (N=90) |
+| --- | --- | --- | --- | --- |
+|  | 0102 (HBeAg-) |  | 0103 (HBeAg+) |  |
+| Complete Response | 71% | 49% | 67% | 12% |
+| Histology |  |  |  |  |
+| Histological ResponseKnodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis. | 72% | 69% | 74% | 68% |
+| HBV DNA <400 copies/mL (<69 IU/mL) | 93% | 63% | 76% | 13% |
+| ALT Normalized ALTThe population used for analysis of ALT normalization included only patients with ALT above ULN at baseline. | 76% | 77% | 68% | 54% |
+| Serology HBeAg Loss/Seroconversion | NANA = Not Applicable | NA | 20%/19% | 16%/16% |
+| HBsAg Loss/Seroconversion | 0/0 | 0/0 | 3%/1% | 0/0 |
+
+A small proportion of nucleoside-experienced patients received VIREAD in the clinical trials: 43 patients in Study 0102 and 8 patients in Study 0103.
+Across both studies, 5 patients had HBV containing lamivudine-resistance associated substitutions at baseline.
+The numbers of patients in these subgroups were too small to establish efficacy.

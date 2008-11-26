@@ -29,4 +29,4 @@ In general, dose selection for the elderly patient should be cautious, keeping i
 
 ## 8.6 Patients with Impaired Renal Function
 
-It is recommended that the dosing interval for VIREAD be modified in patients with creatinine clearance <50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.1)].
+It is recommended that the dosing interval for VIREAD be modified in patients with creatinine clearance <50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.2), Clinical Pharmacology (12.3)].

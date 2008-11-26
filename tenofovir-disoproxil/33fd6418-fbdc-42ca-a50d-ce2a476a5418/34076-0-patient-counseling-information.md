@@ -8,20 +8,26 @@ Patients should be advised that:
 
 - VIREAD is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
   Patients should remain under the care of a physician when using VIREAD.
-- The use of VIREAD has not been shown to reduce the risk of transmission of HIV-1 to others through sexual contact or blood contamination.
+- The use of VIREAD has not been shown to reduce the risk of transmission of HIV-1 or HBV to others through sexual contact or blood contamination.
 - The long term effects of VIREAD are unknown.
 - VIREAD Tablets are for oral ingestion only.
-- It is important to take VIREAD with combination therapy on a regular dosing schedule to avoid missing doses.
+- VIREAD should not be discontinued without first informing their physician.
+- If you have HIV-1 infection, with or without HBV coinfection, it is important to take VIREAD with combination therapy.
+- It is important to take VIREAD on a regular dosing schedule and to avoid missing doses.
 - Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
   Treatment with VIREAD should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
-- Patients with HIV-1 should be tested for Hepatitis B virus (HBV) before initiating antiretroviral therapy.
-- Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued VIREAD.
+- Patients with HIV-1 should be tested for Hepatitis B virus (HBV) before initiating antiretroviral therapy [See Warnings and Precautions (5.5)].
+- Severe acute exacerbations of hepatitis have been reported in patients who are infected with HBV or coinfected with HBV and HIV-1 and have discontinued VIREAD [See Warnings and Precautions (5.2)].
+- In patients with chronic hepatitis B, it is important to obtain HIV antibody testing prior to initiating VIREAD [See Warnings and Precautions (5.5)].
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported.
   VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
-  Dosing interval of VIREAD may need adjustment in patients with renal impairment [See Dosage and Administration (2.1)].
+  Dosing interval of VIREAD may need adjustment in patients with renal impairment [See Dosage and Administration (2.2)].
 - VIREAD should not be coadministered with the fixed-dose combination products TRUVADA and ATRIPLA since it is a component of these products [See Warnings and Precautions (5.4)].
-- Decreases in bone mineral density have been observed with the use of VIREAD.
-  Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.5)].
+- VIREAD should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)].
+- Decreases in bone mineral density have been observed with the use of VIREAD in patients with HIV.
+  Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.6)].
+- In the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
+  The relationship between response and long-term prevention of outcomes such as hepatocellular carcinoma is not known.
 
 ## 17.2 FDA-Approved Patient Labeling
 
@@ -38,9 +44,12 @@ Talk to your healthcare provider if you have any questions about VIREAD.
 
 What is VIREAD and how does it work?
 
-VIREAD is a type of medicine called an HIV-1 (human immunodeficiency virus) nucleotide analog reverse transcriptase inhibitor (NRTI).
+VIREAD is a type of medicine called a nucleotide analog reverse transcriptase and HBV polymerase inhibitor (NRTI).
+
+Use in the Treatment of HIV-1 Infection:
+
+VIREAD is a treatment for Human Immunodeficiency Virus (HIV) infection in adults age 18 years and older.
 VIREAD is always used in combination with other anti-HIV-1 medicines to treat people with HIV-1 infection.
-VIREAD is for adults age 18 and older.
 
 HIV infection destroys CD4+ T cells, which are important to the immune system.
 After a large number of T cells are destroyed, acquired immune deficiency syndrome (AIDS) develops.
@@ -48,6 +57,12 @@ After a large number of T cells are destroyed, acquired immune deficiency syndro
 VIREAD helps to block HIV-1 reverse transcriptase, a chemical in your body (enzyme) that is needed for HIV-1 to multiply.
 VIREAD lowers the amount of HIV-1 in the blood (called viral load) and may help to increase the number of T cells (called CD4+ cells).
 Lowering the amount of HIV-1 in the blood lowers the chance of death or infections that happen when your immune system is weak (opportunistic infections).
+
+Use in the Treatment of Chronic Hepatitis B:
+
+VIREAD is also used to treat chronic hepatitis B (an infection with hepatitis B virus [HBV]) in adults age 18 years and older.
+VIREAD works by interfering with the normal working of an enzyme (HBV DNA polymerase) that is essential for the HBV virus to reproduce itself.
+VIREAD may help lower the amount of hepatitis B virus in your body by lowering the ability of the virus to multiply and infect new liver cells.
 
 Does VIREAD cure HIV-1 or AIDS?
 
@@ -57,9 +72,15 @@ People taking VIREAD may still get opportunistic infections or other conditions 
 Opportunistic infections are infections that develop because the immune system is weak.
 Some of these conditions are pneumonia, herpes virus infections, and Mycobacterium avium complex (MAC) infections.
 
-Does VIREAD reduce the risk of passing HIV-1 to others?
+We do not know how long VIREAD may help your hepatitis.
+Sometimes viruses change in your body and medicines no longer work.
+This is called drug resistance.
 
-VIREAD does not reduce the risk of passing HIV-1 to others through sexual contact or blood contamination.
+We do not know if VIREAD will reduce your chances of getting liver cancer from chronic hepatitis B.
+
+Does VIREAD reduce the risk of passing HIV-1 or HBV to others?
+
+VIREAD does not reduce the risk of passing HIV-1 or HBV to others through sexual contact or blood contamination.
 Continue to practice safe sex and do not use or share dirty needles.
 
 Who should not take VIREAD?
@@ -70,6 +91,7 @@ Do not take VIREAD if
 
 - you are allergic to VIREAD or any of its ingredients
 - you are already taking TRUVADA® or ATRIPLA® because VIREAD is one of the active ingredients in TRUVADA and ATRIPLA
+- you have not already discontinued treatment with HEPSERA®
 
 What should I tell my healthcare provider before taking VIREAD?
 
@@ -82,6 +104,7 @@ Tell your healthcare provider
   If your baby does not already have HIV, there is a chance that the baby can get HIV through breast-feeding.
 - If you have kidney or bone problems
 - If you have liver problems including Hepatitis B Virus infection
+- If you have HIV-1 Infection
 - Tell your healthcare provider about all your medical conditions
 
 TELL YOUR HEALTHCARE PROVIDER ABOUT ALL THE MEDICINES YOU TAKE, INCLUDING PRESCRIPTION AND NON-PRESCRIPTION MEDICINES AND DIETARY SUPPLEMENTS.
@@ -108,7 +131,10 @@ How should I take VIREAD?
 - Take VIREAD exactly as your healthcare provider prescribed it.
   Follow the directions from your healthcare provider, exactly as written on the label.
   Set up a dosing schedule and follow it carefully.
-- The usual dose of VIREAD is 1 tablet once a day, in combination with other anti-HIV-1 medicines.
+- If you are taking VIREAD to treat your HIV or if you have HIV and HBV co-infection and are taking VIREAD, always take VIREAD in combination with other anti-HIV medicines.
+  VIREAD and other products like VIREAD may be less likely to work in the future if you are not taking VIREAD with other anti-HIV medicines because you may develop resistance to those medicines.
+- Talk to your doctor about taking an HIV test before you start treatment with VIREAD for chronic hepatitis B.
+- The usual dose of VIREAD is 1 tablet once a day.
   If you have kidney problems, your healthcare provider may recommend that you take VIREAD less frequently.
 - VIREAD may be taken with or without a meal.
 - When your VIREAD supply starts to run low, get more from your healthcare provider or pharmacy.
@@ -138,14 +164,17 @@ What should I avoid while taking VIREAD?
 
 What are the possible side effects of VIREAD?
 
-- Clinical studies: The most common side effects of VIREAD are: diarrhea, nausea, vomiting, and dizziness.
-  Less common side effects include flatulence (intestinal gas).
-- Marketing experience: Other side effects reported since VIREAD has been marketed include: allergic reaction, low blood phosphate, shortness of breath, increased liver enzymes, increased amylase, inflammation of the liver, stomach pain, inflammation of the pancreas, rash, muscle problems and weakness.
+- Clinical studies in patients with HIV-1: The most common side effects of VIREAD are: rash, headache, pain, diarrhea, depression, weakness, and nausea.
+  Less common side effects include vomiting, dizziness, and intestinal gas.
+  Clinical studies in patients with chronic hepatitis B: The most common side effect of VIREAD is nausea.
+  Less common side effects include abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain, and skin rash.
+- Marketing experience: Other side effects reported since VIREAD has been marketed include: lactic acidosis, kidney problems (including decline or failure of kidney function), inflammation of the pancreas, inflammation of the liver, allergic reaction, shortness of breath, stomach pain, and high volume of urine and thirst caused by kidney problems.
+  Muscle pain and muscle weakness, bone pain, and softening of the bone (which may contribute to fractures) as a consequence of kidney problems have been reported.
 - Some patients treated with VIREAD have had kidney problems.
   If you have had kidney problems in the past or need to take another drug that can cause kidney problems, your healthcare provider may need to perform additional blood tests.
 - Laboratory tests show changes in the bones of patients treated with VIREAD.
-  It is not known whether long-term use of VIREAD will cause damage to your bones.
   If you have had bone problems in the past, your healthcare provider may need to perform additional tests or may suggest additional medication.
+  Additionally, bone pain and softening of the bone (which may contribute to fractures) may occur as a consequence of kidney problems.
 - Some patients taking antiviral drugs like VIREAD have developed a condition called lactic acidosis (a buildup in the blood of lactic acid, the same substance that causes your muscles to burn during heavy exercise).
   Symptoms of lactic acidosis include nausea, vomiting, unusual or unexpected stomach discomfort, and weakness.
   If you notice these symptoms or if your medical condition changes suddenly, call your healthcare provider right away.
@@ -153,8 +182,13 @@ What are the possible side effects of VIREAD?
   These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the main part of your body (trunk).
   Loss of fat from the legs, arms and face may also happen.
   The cause and long term health effects of these conditions are not known at this time.
-- If you have Hepatitis B virus (HBV) infection, you may have a "flare-up" of Hepatitis B, in which the disease suddenly returns in a worse way than before if you stop taking VIREAD.
-  VIREAD is not approved for the treatment of Hepatitis B Virus infection.
+- In some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
+  It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+  If you notice any symptoms of infection, please inform your doctor immediately.
+- If you have HBV infection or HIV and HBV infection together, you may have a "flare-up" of Hepatitis B, in which the disease suddenly returns in a worse way than before if you stop taking VIREAD.
+  Do not stop taking VIREAD without your doctor's advice.
+  After stopping VIREAD, tell your doctor immediately about any new, unusual, or worsening symptoms that you notice after stopping treatment.
+  After you stop taking VIREAD, your doctor will still need to check your health and take blood tests to check your liver for several months.
 - There have been other side effects in patients taking VIREAD.
   However, these side effects may have been due to other medicines that patients were taking or to the illness itself.
   Some of these side effects can be serious.

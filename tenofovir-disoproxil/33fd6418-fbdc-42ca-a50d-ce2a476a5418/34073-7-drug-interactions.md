@@ -8,7 +8,7 @@ Drug interactions studies are described elsewhere in the labeling [See Clinical 
 Coadministration of VIREAD and didanosine should be undertaken with caution and patients receiving this combination should be monitored closely for didanosine-associated adverse reactions.
 Didanosine should be discontinued in patients who develop didanosine-associated adverse reactions.
 
-When administered with VIREAD, Cmax and AUC of didanosine (administered as either the buffered or enteric-coated formulation increased significantly) [See Clinical Pharmacology (12.3)].
+When administered with VIREAD, Cmax and AUC of didanosine (administered as either the buffered or enteric-coated formulation) increased significantly [See Clinical Pharmacology (12.3)].
 The mechanism of this interaction is unknown.
 Higher didanosine concentrations could potentiate didanosine-associated adverse reactions, including pancreatitis and neuropathy.
 Suppression of CD4+ cell counts has been observed in patients receiving tenofovir disoproxil fumarate (tenofovir DF) with didanosine 400 mg daily.
@@ -39,5 +39,7 @@ VIREAD should be discontinued in patients who develop VIREAD-associated adverse 
 ## 7.4 Drugs Affecting Renal Function
 
 Since tenofovir is primarily eliminated by the kidneys [See Clinical Pharmacology (12.3)], coadministration of VIREAD with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of tenofovir and/or increase the concentrations of other renally eliminated drugs.
-Some examples include, but are not limited to adefovir dipivoxil, cidofovir, acyclovir, valacyclovir, ganciclovir, and valganciclovir.
+Some examples include, but are not limited to cidofovir, acyclovir, valacyclovir, ganciclovir, and valganciclovir.
 Drugs that decrease renal function may also increase serum concentrations of tenofovir.
+
+In the treatment of chronic hepatitis B, VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil).
