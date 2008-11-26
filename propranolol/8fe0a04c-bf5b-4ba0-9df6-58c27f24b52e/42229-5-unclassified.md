@@ -80,6 +80,8 @@ Despite this shorter plasma half-life, propranolol peak plasma levels were 3 to 
 
 Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P-450 activity resulting in a lower “first-pass” clearance.
 
+Propranolol is not significantly dialyzable.
+
 ### Hepatic Insufficiency
 
 Propranolol is extensively metabolized by the liver.

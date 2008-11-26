@@ -17,6 +17,6 @@ NDC 0054-3730-63: Bottles of 500 mL.
 Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container as defined in USP/NF.
 
-4071708//04Revised November 2007
+4071708//05 Revised July 2008
 
-© RLI, 2007
+© RLI, 2008

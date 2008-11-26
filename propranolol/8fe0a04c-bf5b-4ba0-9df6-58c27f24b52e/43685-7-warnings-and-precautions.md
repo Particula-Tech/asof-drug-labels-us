@@ -90,9 +90,7 @@ Propafenone has negative inotropic and beta-blocking properties that can be addi
 
 Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension.
 
-Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects and has been associated with severe bradycardia, asystole and heart failure when administered with propranolol.
-
-Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with propranolol.
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.
 
 The clearance of lidocaine is reduced with administration of propranolol.
 Lidocaine toxicity has been reported following co-administration with propranolol.
@@ -117,8 +115,6 @@ Co-administration of propranolol and diltiazem in patients with cardiac disease 
 
 When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infarction.
 
-Certain ACE inhibitors have been reported to increase bronchial hyperreactivity when administered with propranolol.
-
 The antihypertensive effects of clonidine may be antagonized by beta-blockers.
 Propranolol should be administered cautiously to patients withdrawing from clonidine.
 
@@ -131,7 +127,6 @@ Postural hypotension has been reported in patients taking both beta-blockers and
 #### Reserpine
 
 Patients receiving catecholamine-depleting drugs, such as reserpine, should be closely observed for excessive reduction of resting sympathetic nervous activity, which may result in hypotension, marked bradycardia, vertigo, syncopal attacks, or orthostatic hypotension.
-Administration of reserpine with propranolol may also potentiate depression.
 
 #### Inotropic Agents
 
