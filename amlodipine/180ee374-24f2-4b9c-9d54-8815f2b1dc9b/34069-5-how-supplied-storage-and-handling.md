@@ -16,4 +16,4 @@ Store bottles at controlled room temperature, 59° to 86°F (15° to 30°C) and 
 
 Rx only
 
-LAB-0341-2.0 April 2007
+LAB-0341-3.0 May 2008

@@ -103,3 +103,5 @@ Do not give amlodipine besylate tablets to other people, even if they have the s
 It may harm them.
 
 You can ask your pharmacist or doctor for information about amlodipine besylate
+
+LAB-0342-2.0 May 2008
