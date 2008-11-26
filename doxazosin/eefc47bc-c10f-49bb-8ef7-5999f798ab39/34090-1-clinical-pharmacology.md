@@ -19,11 +19,11 @@ Since alpha1 adrenoceptors are of low density in the urinary bladder (apart from
 
 The efficacy of CARDURA was evaluated extensively in over 900 patients with BPH in double-blind, placebo-controlled trials.
 CARDURA treatment was superior to placebo in improving patient symptoms and urinary flow rate.
-Significant relief with CARDURA was seen as early as one week into the treatment regimen, with CARDURA treated patients (N=173) showing a significant (p<0.01) increase in maximum flow rate of 0.8 mL/sec compared to a decrease of 0.5 mL/sec in the placebo group (N=41).
+Significant relief with CARDURA was seen as early as one week into the treatment regimen, with CARDURA-treated patients (N=173) showing a significant (p<0.01) increase in maximum flow rate of 0.8 mL/sec compared to a decrease of 0.5 mL/sec in the placebo group (N=41).
 In long-term studies improvement was maintained for up to 2 years of treatment.
 In 66–71% of patients, improvements above baseline were seen in both symptoms and maximum urinary flow rate.
 
-In three placebo-controlled studies of 14–16 weeks duration obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning) of BPH were evaluated at each visit by patient-assessed symptom questionnaires.
+In three placebo-controlled studies of 14–16 weeks' duration, obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning) of BPH were evaluated at each visit by patient-assessed symptom questionnaires.
 The bothersomeness of symptoms was measured with a modified Boyarsky questionnaire.
 Symptom severity/frequency was assessed using a modified Boyarsky questionnaire or an AUA-based questionnaire.
 Uroflowmetric evaluations were performed at times of peak (2–6 hours post-dose) and/or trough (24 hours post-dose) plasma concentrations of CARDURA.
@@ -32,9 +32,9 @@ The results from the three placebo-controlled studies (N=609) showing significan
 In all three studies, CARDURA resulted in statistically significant relief of obstructive and irritative symptoms compared to placebo.
 Statistically significant improvements of 2.3–3.3 mL/sec in maximum flow rate were seen with CARDURA in Studies 1 and 2, compared to 0.1–0.7 mL/sec with placebo.
 
-In one fixed dose study (Study 2) CARDURA (doxazosin mesylate) therapy (4–8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3–3.3 mL/sec (Table 1) compared to placebo (0.1 mL/sec).
+In one fixed-dose study (Study 2) CARDURA (doxazosin mesylate) therapy (4–8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3–3.3 mL/sec (Table 1) compared to placebo (0.1 mL/sec).
 In this study, the only study in which weekly evaluations were made, significant improvement with CARDURA vs. placebo was seen after one week.
-The proportion of patients who responded with a maximum flow rate improvement of ≥3 mL/sec was significantly larger with CARDURA (34–4237;) than placebo (13–17%).
+The proportion of patients who responded with a maximum flow rate improvement of ≥3 mL/sec was significantly larger with CARDURA (34–42%) than placebo (13–17%).
 A significantly greater improvement was also seen in average flow rate with CARDURA (1.6 mL/sec) than with placebo (0.2 mL/sec).
 The onset and time course of symptom relief and increased urinary flow from Study 1 are illustrated in Figure 1.
 
@@ -82,7 +82,7 @@ In the same patient population, patients receiving CARDURA gained a mean of 0.6 
 ## Pharmacokinetics
 
 After oral administration of therapeutic doses, peak plasma levels of CARDURA (doxazosin mesylate) occur at about 2–3 hours.
-Bioavailability is approximately 65%, reflecting first pass metabolism of doxazosin by the liver.
+Bioavailability is approximately 65%, reflecting first-pass metabolism of doxazosin by the liver.
 The effect of food on the pharmacokinetics of CARDURA was examined in a crossover study with twelve hypertensive subjects.
 Reductions of 18% in mean maximum plasma concentration and 12% in the area under the concentration-time curve occurred when CARDURA was administered with food.
 Neither of these differences was statistically or clinically significant.
@@ -95,7 +95,7 @@ At the plasma concentrations achieved by therapeutic doses approximately 98% of 
 
 Plasma elimination of doxazosin is biphasic, with a terminal elimination half-life of about 22 hours.
 Steady-state studies in hypertensive patients given doxazosin doses of 2–16 mg once daily showed linear kinetics and dose proportionality.
-In two studies, following the administration of 2 mg orally once daily, the mean accumulation ratios (steady-state AUC vs. first dose AUC) were 1.2 and 1.7.
+In two studies, following the administration of 2 mg orally once daily, the mean accumulation ratios (steady-state AUC vs. first-dose AUC) were 1.2 and 1.7.
 Enterohepatic recycling is suggested by secondary peaking of plasma doxazosin concentrations.
 
 In a crossover study in 24 normotensive subjects, the pharmacokinetics and safety of doxazosin were shown to be similar with morning and evening dosing regimens.

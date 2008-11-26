@@ -6,7 +6,7 @@ CARDURA is indicated for the treatment of both the urinary outflow obstruction a
 CARDURA may be used in all BPH patients whether hypertensive or normotensive.
 In patients with hypertension and BPH, both conditions were effectively treated with CARDURA monotherapy.
 CARDURA provides rapid improvement in symptoms and urinary flow rate in 66–71% of patients.
-Sustained improvements with CARDURA were seen in patients treated for up to 14 weeks in double blind studies and up to 2 years in open-label studies.
+Sustained improvements with CARDURA were seen in patients treated for up to 14 weeks in double-blind studies and up to 2 years in open-label studies.
 
 ## B. Hypertension
 

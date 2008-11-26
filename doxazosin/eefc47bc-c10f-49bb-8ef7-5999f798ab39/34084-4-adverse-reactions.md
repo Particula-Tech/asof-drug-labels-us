@@ -3,10 +3,10 @@
 ## A. Benign Prostatic Hyperplasia
 
 The incidence of adverse events has been ascertained from worldwide clinical trials in 965 BPH patients.
-The incidence rates presented below (Table 3) are based on combined data from seven placebo-controlled trials involving once daily administration of CARDURA (doxazosin mesylate) in doses of 1–16 mg in hypertensives and 0.5–8 mg in normotensives.
+The incidence rates presented below (Table 3) are based on combined data from seven placebo-controlled trials involving once-daily administration of CARDURA (doxazosin mesylate) in doses of 1–16 mg in hypertensives and 0.5–8 mg in normotensives.
 The adverse events when the incidence in the CARDURA group was at least 1% are summarized in Table 3.
 No significant difference in the incidence of adverse events compared to placebo was seen except for dizziness, fatigue, hypotension, edema and dyspnea.
-Dizziness and dyspnea appeared to be dose related.
+Dizziness and dyspnea appeared to be dose-related.
 
 TABLE 3
 
@@ -15,11 +15,11 @@ TABLE 3
 | ADVERSE REACTIONS DURING PLACEBO-CONTROLLED STUDIES BENIGN PROSTATIC HYPERPLASIA |  |  |
 |  | CARDURA | PLACEBO |
 | Body System | (N=665) | (N=300) |
-| Back pain | 1.8% | 2.0% |
-| Chest pain | 1.2% | 0.7% |
+| Back Pain | 1.8% | 2.0% |
+| Chest Pain | 1.2% | 0.7% |
 | Fatigue | 8.0%p ≤0.05 for treatment differences | 1.7% |
 | Headache | 9.9% | 9.0% |
-| Influenza-like symptoms | 1.1% | 1.0% |
+| Influenza-like Symptoms | 1.1% | 1.0% |
 | Pain | 2.0% | 1.0% |
 | CARDIOVASCULAR SYSTEM |  |  |
 | Hypotension | 1.7% | 0.0% |
@@ -27,7 +27,7 @@ TABLE 3
 | DIGESTIVE SYSTEM |  |  |
 | Abdominal Pain | 2.4% | 2.0% |
 | Diarrhea | 2.3% | 2.0% |
-| Dyspepsi | 1.7% | 1.7% |
+| Dyspepsia | 1.7% | 1.7% |
 | Nausea | 1.5% | 0.7% |
 | METABOLIC AND NUTRITIONAL DISORDERS |  |  |
 | Edema | 2.7% | 0.7% |
@@ -49,7 +49,7 @@ TABLE 3
 | Anxiety | 1.1% | 0.3% |
 | Insomnia | 1.2% | 0.3% |
 
-In these placebo-controlled studies of 665 CARDURA patients, treated for a mean of 85 days, additional adverse reactions have been reported.
+In these placebo-controlled studies of 665 CARDURA patients treated for a mean of 85 days, additional adverse reactions have been reported.
 These are less than 1% and not distinguishable from those that occurred in the placebo group.
 Adverse reactions with an incidence of less than 1% but of clinical interest are (CARDURA vs. placebo): Cardiovascular System: angina pectoris (0.6% vs. 0.7%), postural hypotension (0.3% vs. 0.3%), syncope (0.5% vs. 0.0%), tachycardia (0.9% vs. 0.0%); Urogenital System: dysuria (0.5% vs. 1.3%), and Psychiatric Disorders: libido decreased (0.8% vs. 0.3%).
 The safety profile in patients treated for up to three years was similar to that in the placebo-controlled studies.
@@ -63,9 +63,9 @@ In that program, minor adverse effects were frequent, but led to discontinuation
 In placebo-controlled studies adverse effects occurred in 49% and 40% of patients in the doxazosin and placebo groups, respectively, and led to discontinuation in 2% of patients in each group.
 The major reasons for discontinuation were postural effects (2%), edema, malaise/fatigue, and some heart rate disturbance, each about 0.7%.
 
-In controlled hypertension clinical trials directly comparing CARDURA to placebo there was no significant difference in the incidence of side effects, except for dizziness (including postural), weight gain, somnolence and fatigue/malaise.
-Postural effects and edema appeared to be dose related.
-The prevalence rates presented below are based on combined data from placebo-controlled studies involving once daily administration of doxazosin at doses ranging from 1–16 mg.
+In controlled hypertension clinical trials directly comparing CARDURA to placebo, there was no significant difference in the incidence of side effects, except for dizziness (including postural), weight gain, somnolence and fatigue/malaise.
+Postural effects and edema appeared to be dose-related.
+The prevalence rates presented below are based on combined data from placebo-controlled studies involving once-daily administration of doxazosin at doses ranging from 1–16 mg.
 Table 4 summarizes those adverse experiences (possibly/probably related) reported for patients in these hypertension studies where the prevalence rate in the doxazosin group was at least 0.5% or where the reaction is of particular interest.
 
 TABLE 4
@@ -144,4 +144,4 @@ CARDURA has not been associated with any clinically significant changes in routi
 No clinically relevant adverse effects were noted on serum potassium, serum glucose, uric acid, blood urea nitrogen, creatinine or liver function tests.
 CARDURA has been associated with decreases in white blood cell counts (see PRECAUTIONS).
 
-In post-marketing experience the following additional adverse reactions have been reported: Autonomic Nervous System: priapism; Central Nervous System: hypoesthesia; Endocrine System: gynecomastia; Gastrointestinal System: vomiting; General Body System: allergic reaction; Heart Rate/Rhythm: bradycardia; Hematopoietic: leukopenia, thrombocytopenia; Liver/Biliary System: hepatitis, hepatitis cholestatic; Respiratory System: bronchospasm aggravated; Skin Disorders: urticaria; Urinary System: hematuria, micturition disorder, micturition frequency, nocturia.
+In post-marketing experience the following additional adverse reactions have been reported: Autonomic Nervous System: priapism; Central Nervous System: hypoesthesia; Endocrine System: gynecomastia; Gastrointestinal System: vomiting; General Body System: allergic reaction; Heart Rate/Rhythm: bradycardia; Hematopoietic: leukopenia, thrombocytopenia; Liver/Biliary System: hepatitis, hepatitis cholestatic; Respiratory System: bronchospasm aggravated; Skin Disorders: urticaria; Special Senses: Intraoperative Floppy Iris Syndrome (see PRECAUTIONS, Cataract Surgery); Urinary System: hematuria, micturition disorder, micturition frequency, nocturia.

@@ -33,7 +33,7 @@ The four main treatment options for BPH are:
 - Treatment with CARDURA or other similar drugs.
   CARDURA is the medication your doctor has prescribed for you.
   See "What CARDURA Does," below.
-- Treatment with the medication class of 5-alpha reductase inhibitors (e.g., Proscar).
+- Treatment with the medication class of 5-alpha reductase inhibitors (e.g., Proscar®).
   It can cause the prostate to shrink.
   It may take 6 months or more for the full benefit of finasteride to be seen.
 - Various surgical procedures.
@@ -72,9 +72,8 @@ How To Take CARDURA and What You Should Know
 While Taking CARDURA for BPH
 
 CARDURA Can Cause a Sudden Drop in Blood Pressure After the VERY FIRST DOSE.
-
 You may feel dizzy, faint or "light-headed," especially after you stand up from a lying or sitting position.
-This is more likely to occur after you’ve taken the first few doses or if you increase your dose, but can occur at any time while you are taking the drug.
+This is more likely to occur after you've taken the first few doses or if you increase your dose, but can occur at any time while you are taking the drug.
 It can also occur if you stop taking the drug and then restart treatment.
 If you feel very dizzy, faint or "light-headed" you should contact your doctor.
 Your doctor will discuss with you how often you need to visit and how often your blood pressure should be checked.
@@ -95,9 +94,9 @@ If you begin to feel dizzy, sit or lie down until you feel better.
 
 - You will start with a 1 mg dose of CARDURA once daily.
   Then the once daily dose will be increased as your body gets used to the effects of the medication.
-  Follow your doctor’s instructions about how to take CARDURA.
+  Follow your doctor's instructions about how to take CARDURA.
   You must take it every day at the dose prescribed.
-  Talk with your doctor if you don’t take it for a few days for some reason; you may then need to restart the medication at a 1 mg dose, increase your dose gradually and again be cautious about possible dizziness.
+  Talk with your doctor if you don't take it for a few days for some reason; you may then need to restart the medication at a 1 mg dose, increase your dose gradually and again be cautious about possible dizziness.
   Do not share CARDURA with anyone else; it was prescribed only for you.
 - Other side effects you could have while taking CARDURA, in addition to lowering of the blood pressure, include dizziness, fatigue (tiredness), swelling of the feet and shortness of breath.
   Most side effects are mild.
@@ -108,3 +107,5 @@ If you begin to feel dizzy, sit or lie down until you feel better.
 - Keep CARDURA and all medicines out of the reach of children.
 
 FOR MORE INFORMATION ABOUT CARDURA AND BPH TALK WITH YOUR DOCTOR, NURSE, PHARMACIST OR OTHER HEALTH CARE PROVIDER.
+
+LAB-0070.2.0 December 2005

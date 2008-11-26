@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-CARDURA® (doxazosin mesylate) is a quinazoline compound that is a selective inhibitor of the alpha1 subtype of alpha adrenergic receptors.
+CARDURA® (doxazosin mesylate) is a quinazoline compound that is a selective inhibitor of the alpha1 subtype of alpha-adrenergic receptors.
 The chemical name of doxazosin mesylate is 1-(4-amino-6,7-dimethoxy-2-quinazolinyl)-4-(1,4-benzodioxan-2-ylcarbonyl) piperazine methanesulfonate.
 The empirical formula for doxazosin mesylate is C23H25N5O5 • CH4O3S and the molecular weight is 547.6.
 It has the following structure:
