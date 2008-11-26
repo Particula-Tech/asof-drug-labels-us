@@ -8,7 +8,7 @@
 
 - 2.Congestive Heart Failure.
   Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt).
-  An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction 24%± 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dp/dt).
+  An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction 24% ± 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dp/dt).
   Worsening of congestive heart failure has been reported in patients with preexisting impairment of ventricular function.
   Experience with the use of diltiazem in combination with beta-blockers in patients with impaired ventricular function is limited.
   Caution should be exercised when using this combination.
