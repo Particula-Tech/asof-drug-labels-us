@@ -1,20 +1,22 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Adults
+## 2.1 Adult Patients
 
-The recommended oral dose of PREZISTA tablets is 600 mg (two 300 mg tablets) twice daily taken with ritonavir 100 mg twice daily and with food.
+Treatment-Naïve Adult Patients
+
+The recommended oral dose of PREZISTA tablets is 800 mg (two 400 mg tablets) taken with ritonavir 100 mg once daily and with food.
 The type of food does not affect exposure to darunavir.
 
-## Pediatric Patients
+Treatment-Experienced Adult Patients
 
-The safety and efficacy of PREZISTA in pediatric patients has not been established (see CLINICAL PHARMACOLOGY, Special Populations, Pediatric Patients).
+The recommended oral dose of PREZISTA tablets is 600 mg (one 600 mg tablet or two 300 mg tablets) taken with ritonavir 100 mg twice daily and with food.
+The type of food does not affect exposure to darunavir.
 
-## Hepatic Impairment
+## 2.2 Pediatric Patients
 
-There are no data regarding the use of PREZISTA/rtv when co-administered to patients with varying degrees of hepatic impairment; therefore, specific dosage recommendations cannot be made.
-PREZISTA/rtv should be used with caution in patients with hepatic impairment (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Adults, Special Populations, Hepatic Impairment and PRECAUTIONS, Patients with co-existing conditions, Hepatic Impairment).
+The safety and efficacy of PREZISTA in pediatric patients has not been established [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
-## Renal Impairment
+## 2.3 Patients with Hepatic Impairment
 
-No dose adjustment is required in patients with moderate renal impairment.
-There are no pharmacokinetic data available in HIV-1 infected patients with severe renal impairment or end stage renal disease (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Adults, Special Populations, Renal Impairment and PRECAUTIONS, Patients with co-existing conditions, Renal Impairment).
+No dose adjustment is required in patients with mild or moderate hepatic impairment.
+No data are available regarding the use of PREZISTA/rtv when co-administered to subjects with severe hepatic impairment; therefore, PREZISTA/rtv is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

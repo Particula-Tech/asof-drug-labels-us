@@ -1,119 +1,216 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The safety assessment is based on all safety data from the Studies TMC114-C213 and TMC114-C202 and the TMC114-C215/C208 analysis reported with the recommended dose PREZISTA/rtv 600/100 mg b.i.d. in the 458 subjects who initiated treatment with the recommended dose (de novo subjects).
-In Studies TMC114-C213 and TMC114-C202, the mean exposure in weeks for subjects in the PREZISTA/rtv 600/100 mg b.i.d. arm and comparator PI arm was 63.5 and 31.5, respectively.
-The mean exposure in weeks for subjects in the TMC114-C215/C208 analysis was 23.9.
+The safety assessment is based on all safety data from the Phase 2b studies (Studies TMC114-C213, TMC114-C202, TMC114-C215, and TMC114-C208) and Phase 3 studies (TMC114-C211, TMC114-C214, TMC114-C209, DUET-1 (TMC125-C206), and DUET-2 (TMC125-C216)) reported with PREZISTA/rtv in a total of 3063 subjects.
 
-The most common treatment-emergent adverse events (> 10%) reported in the de novo subjects, regardless of causality or frequency, were diarrhea, nausea, headache, and nasopharyngitis.
-
-For subjects in the PREZISTA/rtv 600/100 mg b.i.d. arm and the comparator PI arm in the pooled analysis for Studies TMC114-C213 and TMC114-C202, diarrhea was reported in 19.8% and 28.2%, nausea in 18.3% and 12.9%, headache in 15.3% and 20.2%, and nasopharyngitis in 13.7% and 10.5%, of subjects, respectively.
-In the randomized trials, rates of discontinuation of therapy due to adverse events were 9% in subjects receiving PREZISTA/rtv and in 5% of subjects in the comparator PI arm.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Due to the need for co-administration of PREZISTA with 100 mg of ritonavir, please refer to ritonavir prescribing information for ritonavir-associated adverse reactions.
 
-Drug-related clinical adverse events of moderate or severe intensity (≥ Grade 2) occurring in ≥ 2% of subjects treated with PREZISTA/rtv for 1 to 96 weeks are presented in Table 12.
+## 6.1 Antiretroviral Treatment-Naïve Adult Subjects
 
-Table 12: Percentage of Subjects with Selected Treatment Emergent, Drug-Related^ Adverse Events of at least Moderate Intensity (Grades 2-4) in ≥ 2% of Adult Subjects in Any PREZISTA/rtv Treatment Groups†
+Study TMC114-C211
 
-| PREZISTA/rtv 600/100 mg b.i.d. +OBR N = 131 | Comparator PI +OBR N = 124 | PREZISTA/rtv 600/100 mg b.i.d.+OBR N = 327 |  |
+The safety assessment is based on all safety data from the Phase 3 trial TMC114-C211 comparing PREZISTA/rtv 800/100 mg once daily versus lopinavir/ritonavir 800/200 mg per day in 689 antiretroviral treatment-naïve HIV-1-infected adult subjects.
+The total mean exposure for subjects in the PREZISTA/rtv 800/100 mg once daily arm and in the lopinavir/ritonavir 800/200 mg per day arm was 54.8 and 53.3 weeks, respectively.
+
+The majority of the adverse drug reactions (ADRs) reported during treatment with PREZISTA/rtv 800/100 mg once daily were mild in severity.
+The most common ADRs to PREZISTA/rtv 800/100 mg once daily (≥ 5%) of at least moderate intensity (≥ Grade 2) were diarrhea and headache.
+2% of subjects in the PREZISTA/rtv arm discontinued treatment due to ADRs.
+
+ADRs to PREZISTA/rtv 800/100 mg once daily of at least moderate intensity (≥ Grade 2) in antiretroviral treatment naïve HIV-1-infected adult subjects are presented in Table 2.
+
+Table 2: Selected Adverse Drug Reactions to PREZISTA/rtv 800/100 mg Once DailyExcluding laboratory abnormalities reported as ADRs of At Least Moderate Intensity (≥ Grade 2) in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects
+
+| System Organ Class, Preferred Term, % | PREZISTA/rtv 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
+| --- | --- | --- |
+|  | Randomized Study TMC114-C211 |  |
+| Gastrointestinal Disorders |  |  |
+| Abdominal pain | 4% | 5% |
+| Acute pancreatitis | < 1% | < 1% |
+| Diarrhea | 6% | 13% |
+| Dyspepsia | < 1% | 0% |
+| Flatulence | < 1% | < 1% |
+| Nausea | 3% | 3% |
+| Vomiting | 2% | 3% |
+| General Disorders and Administration Site Conditions |  |  |
+| Asthenia | < 1% | 0% |
+| Fatigue | < 1% | 2% |
+| Hepatobiliary Disorders |  |  |
+| Acute Hepatitis (e.g., acute hepatitis, cytolytic hepatitis, hepatotoxicity) | < 1% | < 1% |
+| Metabolism and Nutrition Disorders |  |  |
+| Anorexia | 1% | < 1% |
+| Diabetes mellitus | < 1% | < 1% |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Myalgia | < 1% | < 1% |
+| Nervous System Disorders |  |  |
+| Headache | 5% | 4% |
+| Psychiatric Disorders |  |  |
+| Abnormal dreams | < 1% | < 1% |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Pruritus | < 1% | < 1% |
+| Rash | 2% | 4% |
+| Stevens-Johnson Syndrome | < 1% | 0% |
+| N=total number of subjects per treatment group TDF = tenofovir disoproxil fumarate FTC = emtricitabine |  |  |
+
+Laboratory abnormalities:
+
+The percentages of antiretroviral treatment-naïve HIV-1-infected adult subjects treated with PREZISTA/rtv 800/100 mg once daily with Grade 2 to 4 laboratory abnormalities, considered ADRs, are presented in Table 3.
+
+Table 3: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
+
+| Laboratory Parameter Preferred Term, % | Limit | PREZISTA/rtv 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
 | --- | --- | --- | --- |
-| System Organ Class, Preferred Term, % | Randomized Studies TMC114-C213 and TMC114-C202 |  | Non-randomized TMC114-C215/C208 Analysis |
-| Gastrointestinal Disorders |  |  |  |
-| Diarrhea | 2.3% | 3.2% | 2.8% |
-| Vomiting | 1.5% | 1.6% | 2.4% |
-| Abdominal Pain | 2.3% | 0.8% | 1.2% |
-| Constipation | 2.3% | 0.8% | 0.6% |
-| Nervous System Disorders |  |  |  |
-| Headache | 3.8% | 2.4% | 0.9% |
-| ^ Includes adverse events at least possibly, probably, or very likely related to the drug |  |  |  |
-| N=total number of subjects per treatment group |  |  |  |
-| † Excludes laboratory abnormalities that were reported as Adverse Events (see Table 13: Treatment Emergent Grade 2 to 4 Laboratory Abnormalities Reported in ≥ 2% of Subjects) |  |  |  |
+|  |  | Randomized Study TMC114-C211 |  |
+| Biochemistry |  |  |  |
+| Alanine Aminotransferase |  |  |  |
+| Grade 2 | > 2.5 to ≤ 5.0 × ULN | 5% | 5% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | 3% | 2% |
+| Grade 4 | > 10.0 × ULN | < 1% | 3% |
+| Aspartate Aminotransferase |  |  |  |
+| Grade 2 | > 2.5 to ≤ 5.0 × ULN | 6% | 6% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | 3% | 2% |
+| Grade 4 | > 10.0 × ULN | < 1% | 2% |
+| Alkaline Phosphatase |  |  |  |
+| Grade 2 | > 2.5 to ≤ 5.0 × ULN | 1% | < 1% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | 0% | < 1% |
+| Grade 4 | > 10.0 × ULN | 0% | 0% |
+| Hyperbilirubinemia |  |  |  |
+| Grade 2 | > 1.5 to ≤ 2.5 × ULN | < 1% | 3% |
+| Grade 3 | > 2.5 to ≤ 5.0 × ULN | 0% | < 1% |
+| Grade 4 | > 5.0 × ULN | 0% | 0% |
+| Triglycerides |  |  |  |
+| Grade 2 | 5.65-8.48 mmol/L 500-750 mg/dL | 2% | 6% |
+| Grade 3 | 8.49-13.56 mmol/L 751-1200 mg/dL | 1% | 4% |
+| Grade 4 | > 13.56 mmol/L > 1200 mg/dL | < 1% | < 1% |
+| Total Cholesterol |  |  |  |
+| Grade 2 | 6.20-7.77 mmol/L 240-300 mg/dL | 12% | 19% |
+| Grade 3 | > 7.77 mmol/L > 300 mg/dL | 1% | 4% |
+| Low-Density Lipoprotein Cholesterol |  |  |  |
+| Grade 2 | 4.13-4.90 mmol/L 160-190 mg/dL | 11% | 6% |
+| Grade 3 | ≥ 4.91 mmol/L ≥ 191 mg/dL | 2% | 4% |
+| Elevated Glucose Levels |  |  |  |
+| Grade 2 | 6.95-13.88 mmol/L 126-250 mg/dL | 6% | 7% |
+| Grade 3 | 13.89-27.75 mmol/L 251-500 mg/dL | < 1% | 0% |
+| Grade 4 | > 27.75 mmol/L > 500 mg/dL | 0% | 0% |
+| Pancreatic Lipase |  |  |  |
+| Grade 2 | > 1.5 to ≤ 3.0 × ULN | 2% | < 1% |
+| Grade 3 | > 3.0 to ≤ 5.0 × ULN | < 1% | < 1% |
+| Grade 4 | > 5.0 × ULN | 0% | < 1% |
+| Pancreatic Amylase |  |  |  |
+| Grade 2 | > 1.5 to ≤ 2.0 × ULN | 4% | 2% |
+| Grade 3 | > 2.0 to ≤ 5.0 × ULN | 3% | 3% |
+| Grade 4 | > 5.0 × ULN | 0% | < 1% |
+| N=total number of subjects per treatment group TDF = tenofovir disoproxil fumarate FTC = emtricitabine |  |  |  |
 
-Treatment-emergent adverse events occurring in less than 2% of de novo subjects (n=458) receiving PREZISTA/rtv, considered at least possibly related to treatment and of at least moderate intensity are listed below by body system:
+## 6.2 Antiretroviral Treatment-Experienced Adult Subjects
 
-Body as a Whole:
+Study TMC114-C214
 
-folliculitis, asthenia, pyrexia, fatigue, rigors, hyperthermia, peripheral edema
+The safety assessment is based on all safety data from the Phase 3 trial TMC114-C214 comparing PREZISTA/rtv 600/100 mg twice daily versus lopinavir/ritonavir 400/100 mg twice daily in 595 antiretroviral treatment-experienced HIV-1-infected adult subjects.
+The total mean exposure for subjects in the PREZISTA/rtv 600/100 mg twice daily arm and in the lopinavir/ritonavir 400/100 mg twice daily arm was 53.5 and 51.5 weeks, respectively.
 
-Cardiovascular System:
+The majority of the ADRs reported during treatment with PREZISTA/rtv 600/100 mg twice daily were mild in severity.
+The most common ADRs to PREZISTA/rtv 600/100 mg twice daily (≥ 5%) of at least moderate intensity (≥ Grade 2) were diarrhea, nausea, rash, and abdominal pain.
+3.7% of subjects in the PREZISTA/rtv arm discontinued treatment due to ADRs.
 
-myocardial infarction, tachycardia, hypertension
+ADRs to PREZISTA/rtv 600/100 mg twice daily of at least moderate intensity (≥ Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 4.
 
-Digestive System:
+Table 4: Selected Adverse Drug Reactions to PREZISTA/rtv 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of At Least Moderate Intensity (≥ Grade 2) in Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects
 
-flatulence, abdominal distension, dry mouth, dyspepsia, abdominal pain, nausea, constipation
+| System Organ Class, Preferred Term, % | PREZISTA/rtv 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
+| --- | --- | --- |
+|  | Randomized Study TMC114-C214 |  |
+| Gastrointestinal Disorders |  |  |
+| Abdominal distension | 2% | < 1% |
+| Abdominal pain | 5% | 2% |
+| Diarrhea | 12% | 18% |
+| Dyspepsia | 2% | < 1% |
+| Flatulence | < 1% | 1% |
+| Nausea | 7% | 6% |
+| Vomiting | 4% | 3% |
+| General Disorders and Administration Site Conditions |  |  |
+| Asthenia | 3% | 1% |
+| Fatigue | 1% | 1% |
+| Metabolism and Nutrition Disorders |  |  |
+| Anorexia | 1% | 2% |
+| Diabetes mellitus | < 1% | 0% |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Myalgia | 1% | < 1% |
+| Nervous System Disorders |  |  |
+| Headache | 2% | 3% |
+| Psychiatric Disorders |  |  |
+| Abnormal dreams | < 1 | 0% |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Pruritus | < 1% | 1% |
+| Rash | 6% | 3% |
+| N=total number of subjects per treatment group OBR = optimized background regimen |  |  |
 
-Metabolic and Nutritional Disorders:
+Laboratory abnormalities:
 
-anorexia, hypercholesterolemia, hyperlipidemia, diabetes mellitus, decreased appetite, obesity, fat redistribution, hyponatremia, polydipsia
+The percentages of antiretroviral treatment-experienced HIV-1-infected adult subjects treated with PREZISTA/rtv 600/100 mg twice daily with Grade 2 to 4 laboratory abnormalities, considered ADRs, are presented in Table 5.
 
-Musculoskeletal System:
+Table 5: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
 
-arthralgia, pain in extremity, myalgia, osteopenia, osteoporosis
+| Laboratory Parameter Preferred Term, % | Limit | PREZISTA/rtv 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
+| --- | --- | --- | --- |
+|  |  | Randomized Study TMC114-C214 |  |
+| Biochemistry |  |  |  |
+| Alanine Aminotransferase |  |  |  |
+| Grade 2 | > 2.5 to ≤ 5.0 × ULN | 6% | 5% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | 2% | 2% |
+| Grade 4 | > 10.0 × ULN | 1% | 2% |
+| Aspartate Aminotransferase |  |  |  |
+| Grade 2 | > 2.5 to ≤ 5.0 × ULN | 4% | 6% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | 2% | 2% |
+| Grade 4 | > 10.0 × ULN | < 1% | 2% |
+| Alkaline Phosphatase |  |  |  |
+| Grade 2 | > 2.5 to ≤ 5.0 × ULN | < 1% | 0% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | < 1% | < 1% |
+| Grade 4 | > 10.0 × ULN | 0% | 0% |
+| Hyperbilirubinemia |  |  |  |
+| Grade 2 | > 1.5 to ≤ 2.5 × ULN | 0% | 1% |
+| Grade 3 | > 2.5 to ≤ 5.0 × ULN | < 1% | 0% |
+| Grade 4 | > 5.0 × ULN | < 1% | 0% |
+| Triglycerides |  |  |  |
+| Grade 2 | 5.65-8.48 mmol/L 500-750 mg/dL | 11% | 11% |
+| Grade 3 | 8.49-13.56 mmol/L 751-1200 mg/dL | 7% | 9% |
+| Grade 4 | > 13.56 mmol/L > 1200 mg/dL | 2% | 5% |
+| Total Cholesterol |  |  |  |
+| Grade 2 | 6.20-7.77 mmol/L 240-300 mg/dL | 24% | 19% |
+| Grade 3 | > 7.77 mmol/L > 300 mg/dL | 8% | 11% |
+| Low-Density Lipoprotein Cholesterol |  |  |  |
+| Grade 2 | 4.13-4.90 mmol/L 160-190 mg/dL | 13% | 11% |
+| Grade 3 | ≥ 4.91 mmol/L ≥ 191 mg/dL | 7% | 8% |
+| Elevated Glucose Levels |  |  |  |
+| Grade 2 | 6.95-13.88 mmol/L 126-250 mg/dL | 8% | 9% |
+| Grade 3 | 13.89-27.75 mmol/L 251-500 mg/dL | < 1% | < 1% |
+| Grade 4 | > 27.75 mmol/L > 500 mg/dL | < 1% | 0% |
+| Pancreatic Lipase |  |  |  |
+| Grade 2 | > 1.5 to ≤ 3.0 × ULN | 2% | 4% |
+| Grade 3 | > 3.0 to ≤ 5.0 × ULN | 2% | < 1% |
+| Grade 4 | > 5.0 × ULN | < 1% | 0% |
+| Pancreatic Amylase |  |  |  |
+| Grade 2 | > 1.5 to ≤ 2.0 × ULN | 6% | 6% |
+| Grade 3 | > 2.0 to ≤ 5.0 × ULN | 6% | 3% |
+| Grade 4 | > 5.0 × ULN | 0% | 0% |
+| N=total number of subjects per treatment group OBR = optimized background regimen |  |  |  |
 
-Nervous System:
+## 6.3 Serious ADRs
 
-peripheral neuropathy, hypoesthesia, memory impairment, paresthesia, somnolence, transient ischemic attack, confusional state, disorientation, irritability, altered mood, nightmare, anxiety, headache
+The following serious ADRs of at least moderate intensity (≥ Grade 2) occurred in the Phase 2b studies (Studies TMC114-C213, TMC114-C202, TMC114-C215, and TMC114-C208) and Phase 3 studies (TMC114-C211, TMC114-C214, TMC114-C209, DUET-1 (TMC125-C206), and DUET-2 (TMC125-C216)) with PREZISTA/rtv: abdominal pain, acute hepatitis, acute pancreatitis, anorexia, asthenia, diabetes mellitus, diarrhea, fatigue, headache, hepatic enzyme increased, hypercholesterolemia, hyperglycemia, hypertriglyceridemia, immune reconstitution syndrome, low density lipoprotein increased, nausea, pancreatic enzyme increased, rash, Stevens-Johnson Syndrome, and vomiting.
 
-Respiratory System:
+## 6.4 Additional ADRs to PREZISTA/rtv identified in other clinical trials
 
-dyspnea, cough, hiccups
+In Studies TMC114-C213, TMC114-C202, TMC114-C215, TMC114-C208, TMC114-C209, DUET-1, and DUET-2, the only additional ADR of interest identified was lipodystrophy.
 
-Skin and Appendages:
+## 6.5 Patients co-infected with hepatitis B and/or hepatitis C virus
 
-lipoatrophy, night sweats, allergic dermatitis, eczema, toxic skin eruption, alopecia, dermatitis medicamentosa, hyperhidrosis, skin inflammation, maculopapular rash,
-
-Special Senses:
-
-vertigo
-
-Urogenital System:
-
-acute renal failure, renal insufficiency, nephrolothiasis, polyuria, gynecomastia
-
-## Laboratory abnormalities
-
-The percentages of adult subjects treated with PREZISTA/rtv 600/100 mg b.i.d. with treatment-emergent Grade 2 to 4 laboratory abnormalities are presented in Table 13.
-
-Table 13: Treatment Emergent Grade 2 to 4 Laboratory Abnormalities Reported in ≥ 2% of Subjects
-
-| Laboratory Parameter Preferred Term, % | Limit | PREZISTA/rtv 600/100 mg b.i.d. + OBR N = 131 | Comparator PI + OBR N = 124 | PREZISTA/rtv 600/100 mg b.i.d. N = 327 |
-| --- | --- | --- | --- | --- |
-|  |  | Randomized Studies TMC114-C213 and TMC114-C202 |  | Non-randomized TMC114-C215/C208 Analysis |
-| Biochemistry |  |  |  |  |
-| Aspartate Aminotransferase | > 2.5 X ULN | 10.0% | 13.0% | 5.3% |
-| Alanine Aminotransferase | > 2.5 X ULN | 6.9% | 9.8% | 5.6% |
-| Gamma Glutamyl Transferase | > 2.5 X ULN | 9.2% | 8.9% | 8.4% |
-| Hyperbilirubinemia | > 1.5 X ULN | 2.3% | 15.4% | 0.9% |
-| Alkaline Phosphatase | > 2.5 X ULN | 4.6% | 0% | 2.8% |
-| Pancreatic Amylase | > 1.5 X ULN | 16.9% | 8.9% | 10.8% |
-| Pancreatic Lipase | > 1.5 X ULN | 8.5% | 4.1% | 6.2% |
-| Hyperglycemia | ≥ 161 mg/dL | 2.3% | 8.1% | 5.9% |
-| Hypoglycemia | ≤ 54 mg/dL | 1.5% | 1.6% | 3.7% |
-| Total Cholesterol | ≥ 240 mg/dL | 9.2% | 3.3% | 8.0% |
-| Triglycerides | > 400 mg/dL | 25.4% | 26.0% | 18.9% |
-| Hypoalbuminemia | < 3 g/dL | 3.1% | 1.6% | 4.3% |
-| Hyperuricemia | ≥ 9.9 mg/dL | 6.9% | 6.5% | 2.2% |
-| Bicarbonate | < 15 mmol/L | 3.1% | 4.1% | 3.4% |
-| Hypocalcemia | ≤ 7.8 mg/dL | 0% | 0.8% | 4.0% |
-| Hyponatremia | ≤ 129 meq/L | 0.8% | 0% | 2.5% |
-| Hypernatremia | ≥ 151 meq/L | 2.3% | 0% | 0% |
-| Hematology |  |  |  |  |
-| White Blood Cell Count decrease | < 3000 count/mm3 | 15.4% | 18.7% | 13.0% |
-| Total Absolute Neutrophil Count decrease | ≤ 999 mm3 | 6.9% | 9.8% | 11.5% |
-| Lymphocytes decrease | < 1000 count/mm3 | 4.6% | 19.5% | 10.9% |
-| Partial Thromboplastin Time increase | > 1.66 X ULN | 7.8% | 4.1% | 4.3% |
-| Plasma Prothrombin Time increase | > 1.25 X ULN | 3.9% | 0.8% | 0.6% |
-| Platelet Count decrease | < 75,000/mm3 | 3.1% | 1.6% | 2.8% |
-
-Additional adverse reactions identified in clinical studies, occurring in less than 1% of the patients, are listed below by body system:
-
-Hepatobiliary System: hepatitis
-
-Skin and Appendages: erythema multiforme, Stevens-Johnson Syndrome
-
-## Patients co-infected with hepatitis B and/or hepatitis C virus
-
-In subjects co-infected with hepatitis B or C virus receiving PREZISTA/rtv, the incidence of adverse events and clinical chemistry abnormalities was not higher than in subjects receiving PREZISTA/rtv who were not co-infected, except for increased hepatic enzymes.
+In subjects co-infected with hepatitis B or C virus receiving PREZISTA/rtv, the incidence of adverse events and clinical chemistry abnormalities was not higher than in subjects receiving PREZISTA/rtv who were not co-infected, except for increased hepatic enzymes [see Warnings and Precautions (5.2)].
 The pharmacokinetic exposure in co-infected subjects was comparable to that in subjects without co-infection.
-Standard clinical monitoring of patients with hepatitis co-infectionis considered adequate.
+
+## 6.6 Postmarketing Experience
+
+The following events have been identified during postmarketing use of PREZISTA.
+Because these events are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Rarely, events of hypersensitivity (including facial edema), and rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and PREZISTA) have been reported.
