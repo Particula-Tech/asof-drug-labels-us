@@ -2,13 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-Bendamustine is a bifunctional mechlorethamine derivative.
-Mechlorethamine and its derivatives dissociate into electrophilic alkyl groups.
-These groups form covalent bonds with electron-rich nucleophilic moieties.
+Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring.
+Mechlorethamine and its derivatives form electrophilic alkyl groups.
+These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks.
 The bifunctional covalent linkage can lead to cell death via several pathways.
-The exact mechanism of action of bendamustine remains unknown.
-
 Bendamustine is active against both quiescent and dividing cells.
+The exact mechanism of action of bendamustine remains unknown.
 
 ## 12.3 Pharmacokinetics
 
@@ -58,14 +57,14 @@ In a population pharmacokinetic analysis of bendamustine in patients receiving 1
 Bendamustine has not been studied in patients with moderate or severe hepatic impairment.
 
 These results are however limited, and therefore bendamustine should be used with caution in patients with mild hepatic impairment.
-Bendamustine should not be used in patients with moderate (AST or ALT 2.5-10 x ULN and total bilirubin 1.5 - 3 x ULN) or severe (total bilirubin > 3 x ULN) hepatic impairment.
+Bendamustine should not be used in patients with moderate (AST or ALT 2.5 - 10 x ULN and total bilirubin 1.5 - 3 x ULN) or severe (total bilirubin > 3 x ULN) hepatic impairment.
 [See Use in Specific Populations(8.7)]
 
 ### Effect of Age
 
 Bendamustine exposure (as measured by AUC and Cmax) has been studied in patients ages 31 through 84 years.
 The pharmacokinetics of bendamustine (AUC and Cmax) were not significantly different between patients less than or greater than/equal to 65 years of age.
-[See Use in Specific Populations (8.4, 8.5)]
+[See Use in Specific Populations(8.4, 8.5)]
 
 ### Effect of Gender
 
@@ -77,3 +76,7 @@ The pharmacokinetics of bendamustine were similar in male and female patients.
 The effect of race on the safety, and/or efficacy of TREANDA has not been established.
 Based on a cross-study comparison, Japanese subjects (n = 6) had on average exposures that were 40% higher than non-Japanese subjects receiving the same dose.
 The significance of this difference on the safety and efficacy of TREANDA in Japanese subjects has not been established.
+
+## 12.4 Pharmacokinetics/Pharmacodynamics
+
+Based on the pharmacokinetics/pharmacodynamics analyses of data from NHL patients, a correlation was observed between nausea and bendamustine Cmax.

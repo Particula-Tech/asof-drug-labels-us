@@ -8,7 +8,7 @@ If a solution of TREANDA contacts the skin, wash the skin immediately and thorou
 If TREANDA contacts the mucous membranes, flush thoroughly with water.
 
 Procedures for the proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on the subject have been published2-5.
+Several guidelines on the subject have been published3-6.
 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
 ## 16.2 How Supplied

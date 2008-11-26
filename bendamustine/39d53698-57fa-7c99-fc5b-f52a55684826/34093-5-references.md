@@ -2,16 +2,19 @@
 
 1. Cheson et al. National Cancer Institute –sponsored Working Group Guidelines for Chronic Lymphocytic Leukemia.
    Blood Vol 87 1996:pp 4990.
-2. Preventing occupational exposures to Antineoplastic and Other Hazardous Drugs in Health Care Settings.
+2. Report of an International Workshop to Standardize Response Criteria for Non-Hodgkin’s Lymphomas.
+   J Clin Oncol.
+   1999;17:1244-1253.
+3. Preventing occupational exposures to Antineoplastic and Other Hazardous Drugs in Health Care Settings.
    NIOSH Alert 2004-165.
-3. OSHA Technical Manual, TED 1-0.15A, Section VI: Chapter 2.
+4. OSHA Technical Manual, TED 1-0.15A, Section VI: Chapter 2.
    Controlling Occupational Exposure to Hazardous Drugs.
    OSHA, 1999. http://www.osha.gov/dts/osta/otm/otm_vi/otm_vi_2.html.
-4. American Society of Health-System Pharmacists.
+5. American Society of Health-System Pharmacists.
    ASHP Guidelines on Handling Hazardous Drugs.
    Am J Health-Syst Pharm.
    2006; 63:1172-1193.
-5. Polovich, M., White, J. M., & Kelleher, L.O.
+6. Polovich, M., White, J. M., & Kelleher, L.O.
    (eds.)
    2005.
    Chemotherapy and biotherapy guidelines and recommendations for practice (2nd. ed.)

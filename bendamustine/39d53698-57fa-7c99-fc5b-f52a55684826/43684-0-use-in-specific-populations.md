@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See Warnings and Precautions(5.6)]
+Pregnancy Category D [See Warnings and Precautions(5.7)]
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine from 210 mg/m2 (70 mg/kg) in mice administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities) and decreased fetal body weights.
@@ -24,13 +24,20 @@ The safety and effectiveness of TREANDA in pediatric patients have not been esta
 
 ## 8.5 Geriatric Use
 
+In CLL and NHL studies, there were no clinically significant differences in the adverse reaction profile between geriatric (≥ 65 years of age) and younger patients.
+
+Chronic Lymphocytic Leukemia
+
 In the randomized CLL clinical study, 153 patients received TREANDA.
 The overall response rate for patients younger than 65 years of age was 70% (n=82) for TREANDA and 30% (n = 69) for chlorambucil.
 The overall response rate for patients 65 years or older was 47% (n=71) for TREANDA and 22% (n = 79) for chlorambucil.
 In patients younger than 65 years of age, the median progression-free survival was 19 months in the TREANDA group and 8 months in the chlorambucil group.
 In patients 65 years or older, the median progression-free survival was 12 months in the TREANDA group and 8 months in the chlorambucil group.
-The overall incidence of adverse reactions was 87% in patients < 65 years and 92 % in patients ≥ 65 years.
-There were no clinically significant differences in the adverse reaction profile.
+
+Non-Hodgkin’s Lymphoma
+
+Efficacy (Overall Response Rate and Duration of Response) was similar in patients < 65 years of age and patients ≥ 65 years.
+Irrespective of age, all of the 176 patients experienced at least one adverse reaction.
 
 ## 8.6 Renal Impairment
 
@@ -48,8 +55,16 @@ TREANDA should not be used in patients with moderate (AST or ALT 2.5-10 X ULN an
 
 ## 8.8 Effect of Gender
 
+No clinically significant differences between genders were seen in the overall incidences of adverse reactions in either CLL or NHL studies.
+
+Chronic Lymphocytic Leukemia
+
 In the randomized CLL clinical study, the overall response rate (ORR) for men (n=97) and women (n=56) in the TREANDA group was 60% and 57%, respectively.
 The ORR for men (n=90) and women (n=58) in the chlorambucil group was 24% and 28%, respectively.
 In this study, the median progression-free survival for men was 19 months in the TREANDA treatment group and 6 months in the chlorambucil treatment group.
 For women, the median progression-free survival was 13 months in the TREANDA treatment group and 8 months in the chlorambucil treatment group.
-No clinically significant differences between genders were seen in the overall incidences of adverse reactions.
+
+Non-Hodgkin’s Lymphoma
+
+The pharmacokinetics of bendamustine were similar in male and female patients with indolent NHL.
+No clinically-relevant differences between genders were seen in efficacy (ORR and DR).
