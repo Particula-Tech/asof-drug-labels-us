@@ -70,7 +70,7 @@ Cimetidine (400 mg twice daily) causes a 23% increase in the plasma levels of d-
 Charcoal: The pharmacokinetics of nebivolol (10 mg single dose) were not affected by repeated co-administration (4, 8, 12, 16, 22, 28, 36, and 48 hours after nebivolol administration) of activated charcoal (Actidose-Aqua®).
 
 Sildenafil: The co-administration of nebivolol and sildenafil decreased AUC and Cmax of sildenafil by 21 and 23% respectively.
-The effect on the Cmax and AUC for d -nebivolol was also small (< 20%).
+The effect on the Cmax and AUC for d-nebivolol was also small (< 20%).
 The effect on vital signs (e.g., pulse and blood pressure) was approximately the sum of the effects of sildenafil and nebivolol.
 
 Other Concomitant Medications: Utilizing population pharmacokinetic analyses, derived from hypertensive patients, the following drugs were observed not to have an effect on the pharmacokinetics of nebivolol: acetaminophen, acetylsalicylic acid, atorvastatin, esomeprazole, ibuprofen, levothyroxine sodium, metformin, sildenafil, simvastatin, or tocopherol.

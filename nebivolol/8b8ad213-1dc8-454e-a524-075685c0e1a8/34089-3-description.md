@@ -6,5 +6,5 @@ Nebivolol's molecular formula is (C22H25F2NO4•HCl) with the following structur
 
 Nebivolol hydrochloride is a white to almost white powder that is soluble in methanol, dimethylsulfoxide, and N,N-dimethylformamide, sparingly soluble in ethanol, propylene glycol, and polyethylene glycol, and very slightly soluble in hexane, dichloromethane, and methylbenzene.
 
-BYSTOLIC as tablets for oral administration contains nebivolol hydrochloride equivalent to 2.5, 5, and 10 mg of nebivolol base.
+BYSTOLIC as tablets for oral administration contains nebivolol hydrochloride equivalent to 2.5, 5, 10, and 20 mg of nebivolol base.
 In addition, BYSTOLIC contains the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, D&C Red #27 Lake, FD&C Blue #2 Lake, FD&C Yellow #6 Lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch, polysorbate 80, and sodium lauryl sulfate.

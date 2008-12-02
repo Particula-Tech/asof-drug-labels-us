@@ -11,7 +11,7 @@ The most common adverse events that led to discontinuation of BYSTOLIC were head
 Table 2 lists treatment-emergent signs and symptoms that were reported in three 12-week, placebo-controlled monotherapy trials involving 1597 hypertensive patients treated with either 5 mg, 10 mg or 20-40 mg of BYSTOLIC and 205 patients given placebo and for which the rate of occurrence was at least 1% of patients treated with nebivolol and greater than the rate for those treated with placebo in at least one dose group.
 
 Table 2.
-Treatment-Emergent Adverse Events with an Incidence (over 6 weeks) ≥ 1% in BYSTOLIC-treated Patients and at a Higher Frequency than Placebo-Treated Patients
+Treatment-Emergent Adverse Events with an Incidence (over 6 weeks) ≥ 1% in BYSTOLIC-Treated Patients and at a Higher Frequency than Placebo-Treated Patients
 
 |  | Placebo (n = 205) (%) | Nebivolol 5 mg (n = 459) (%) | Nebivolol 10 mg (n = 461) (%) | Nebivolol 20-40 mg (n = 677) (%) |
 | --- | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Nervous System Disorders: paraesthesia
 
 In controlled monotherapy trials, BYSTOLIC was associated with an increase in BUN, uric acid, triglycerides and a decrease in HDL cholesterol and platelet count.
 
-## Events Identified from Spontaneous Reports of BYSTOLIC Received Worldwide.
+## Events Identified from Spontaneous Reports of BYSTOLIC Received Worldwide
 
 The following adverse events have been identified from spontaneous reports of BYSTOLIC received worldwide and have not been listed elsewhere.
 These adverse events have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to BYSTOLIC.

@@ -56,7 +56,7 @@ Because of significant negative inotropic and chronotropic effects in patients t
 
 # PRECAUTIONS
 
-## Use with CYP2D6 inhibitors
+## Use with CYP2D6 Inhibitors
 
 Nebivolol exposure increases with inhibition of CYP2D6 (see Drug Interactions).
 The dose of BYSTOLIC may need to be reduced.
@@ -76,7 +76,7 @@ Since BYSTOLIC has not been studied in patients with severe hepatic impairment, 
 While taking β-blockers, patients with a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated challenge either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.
 
-In patients with known or suspected pheochromocytoma, an alpha-blocker should be initiated prior to the use of any β-blocker.
+In patients with known or suspected pheochromocytoma, an α-blocker should be initiated prior to the use of any β-blocker.
 
 ## Information for Patients
 
