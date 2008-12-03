@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 Norditropin Cartridges [somatropin (rDNA origin) injection] 5 mg/1.5 mL and 15 mg/1.5 mL:
 
@@ -40,10 +40,10 @@ Discard unused portion.
 
 15 mg/1.5 mL (green) prefilled pens:
 
-After the initial injection, a Norditropin NordiFlex 15mg/1.5 mL prefilled pen must be stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
+After the initial injection, a Norditropin NordiFlex 15 mg/1.5 mL prefilled pen must be stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
 Discard unused portion after 4 weeks.
 
-Table 8 - Storage Options
+Table 10 - Storage Options
 
 | Norditropin Product Formulation | Before Use | In-use (After 1st injection) |  |
 | --- | --- | --- | --- |

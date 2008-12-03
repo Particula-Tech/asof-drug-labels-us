@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
 ## 4.1 Acute Critical Illness
 
@@ -8,7 +8,8 @@ Two placebo-controlled clinical trials in non-growth hormone deficient adult pat
 ## 4.2 Prader-Willi Syndrome in Children
 
 Somatropin is contraindicated in patients with Prader-Willi syndrome who are severely obese, have a history of upper airway obstruction or sleep apnea, or have severe respiratory impairment [see Warnings and Precautions (5.2)].
-Unless patients with Prader-Willi syndrome also have a diagnosis of growth hormone deficiency, Norditropin is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
+There have been reports of sudden death when somatropin was used in such patients [see Warnings and Precautions (5.2)].
+Norditropin is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
 
 ## 4.3 Active Malignancy
 

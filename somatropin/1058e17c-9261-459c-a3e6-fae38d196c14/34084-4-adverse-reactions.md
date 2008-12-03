@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 ## 6.1 Most Serious and/or Most Frequently Observed Adverse Reactions
 
@@ -53,6 +53,41 @@ No patients in either study developed clearcut overt diabetes mellitus; however,
 Transient episodes of fasting blood sugars between 100 and 126 mg/dL, and, on occasion, exceeding 126 mg/dL also occurred more often with larger doses of Norditropin in both studies [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 Three patients withdrew from the 2 high dose groups in Study 1 because of concern about excessive growth of hands or feet.
 In addition, in Study 1, exacerbation of preexisting scoliosis was designated a serious adverse reaction in two patients in the 0.045 mg/kg/day group [see Warnings and Precautions (5.9)].
+
+Clinical Trials in Children Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2-4 Years
+
+Study 1 (Long-Term)
+
+In a multi-center, randomized, double-blind study, 53 non-GHD children with short stature born SGA with failure to catch-up were treated with 2 doses of Norditropin (0.033 or 0.067 mg/kg/day) to final height for up to 13 years (mean duration of treatment 7.9 and 9.5 years for girls and boys, respectively).
+The most frequently reported adverse events were common childhood diseases including influenza-like illness, upper respiratory tract infection, bronchitis, gastroenteritis, abdominal pain, otitis media, pharyngitis, arthralgia, and headache.
+Adverse events possibly/probably related to Norditropin were otitis media, arthralgia, headaches (no confirmed diagnoses of benign intracranial hypertension), gynecomastia, and increased sweating.
+One child treated with 0.067 mg/kg/day for 4 years was reported with disproportionate growth of the lower jaw, and another child treated with 0.067 mg/kg/day developed a melanocytic nevus [see Warnings and Precautions (5.3)].
+There were no clear cut reports of exacerbation of preexisting scoliosis or slipped capital femoral epiphysis.
+No apparent differences between the treatment groups were observed.
+In addition, the timing of puberty was age-appropriate in boys and girls in both treatment groups.
+Therefore, it can be concluded that no novel adverse events potentially related to treatment with Norditropin were reported in long-term Study 1.
+
+Study 2 (Short-Term)
+
+In a multi-center, randomized, double-blind, parallel-group study, 98 Japanese non-GHD children with short stature born SGA with failure to catch-up were treated with 2 doses of Norditropin (0.033 or 0.067 mg/kg/day) for 2 years or were untreated for 1 year.
+The most frequently reported adverse events were common childhood diseases almost identical to those reported above for Study 1.
+Adverse events possibly/probably related to Norditropin were otitis media, arthralgia and impaired glucose tolerance.
+No apparent differences between the treatment groups were observed.
+However, arthralgia and transiently impaired glucose tolerance were only reported in the 0.067 mg/kg/day treatment group.
+Therefore, it can also be concluded that no novel adverse events potentially related to treatment with rhGH were reported in short-term Study 2.
+
+As with all protein drugs, some patients may develop antibodies to the protein.
+Eighteen of the 76 children (~24%) treated with Norditropin developed anti-rhGH antibodies.
+However, these antibodies did not appear to be neutralizing in that the change from baseline in height SDS at Year 2 was similar in antibody positive and antibody negative children by treatment group.
+
+In both Study 1 and Study 2, there were no clear cut cases of new onset diabetes mellitus, no children treated for hyperglycemia, and no adverse event withdrawals due to abnormalities in glucose tolerance.
+In Study 2, after treatment with either dose of Norditropin for 2 years, there were no children with consecutive fasting blood glucose levels between 100 and 126 mg/dL, or with fasting blood glucose levels > 126 mg/dL.
+Furthermore, mean hemoglobin A1c levels tended to decrease during long-term treatment in Study 1, and remained normal in Study 2.
+However, in Study 1, 4 children treated with 0.067 mg/kg/day of Norditropin and 2 children treated with 0.033 mg/kg/day of Norditropin shifted from normal fasting blood glucose levels at baseline to increased levels after 1 year of treatment (100 to 126 mg/dL or > 126 mg/dL).
+In addition, small increases in mean fasting blood glucose and insulin levels (within the normal reference range) after 1 and 2 years of Norditropin treatment appeared to be dose-dependent [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+
+In both Study 1 and Study 2, there was no acceleration of bone maturation.
+A dose-dependent increase in mean serum IGF-I SDS levels within the reference range (but including a substantial number of children with serum IGF-1 SDS > +2) was observed after both long-term (Study 1) and short-term (Study 2) Norditropin treatment.
 
 Clinical Trials in Adult GHD Patients
 

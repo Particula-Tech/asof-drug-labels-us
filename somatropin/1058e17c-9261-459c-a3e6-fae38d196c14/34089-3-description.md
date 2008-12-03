@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11. DESCRIPTION
 
 Norditropin is a registered trademark of Novo Nordisk Health Care AG for somatropin, a polypeptide hormone of recombinant DNA origin.
 The hormone is synthesized by a special strain of E. coli bacteria that has been modified by the addition of a plasmid which carries the gene for human growth hormone.

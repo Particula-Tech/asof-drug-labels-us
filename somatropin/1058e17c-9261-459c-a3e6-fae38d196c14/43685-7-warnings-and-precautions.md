@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Acute Critical Illness
 
@@ -13,7 +13,7 @@ Male patients with one or more of these factors may be at greater risk than fema
 Patients with Prader-Willi syndrome should be evaluated for signs of upper airway obstruction and sleep apnea before initiation of treatment with somatropin.
 If, during treatment with somatropin, patients show signs of upper airway obstruction (including onset of or increased snoring) and/or new onset sleep apnea, treatment should be interrupted.
 All patients with Prader-Willi syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4.2)].
-Unless patients with Prader-Willi syndrome also have a diagnosis of growth hormone deficiency, Norditropin is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
+Norditropin is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
 
 ## 5.3 Neoplasms
 
@@ -29,7 +29,7 @@ Patients should be monitored carefully for potential malignant transformation of
 
 Treatment with somatropin may decrease insulin sensitivity, particularly at higher doses in susceptible patients.
 As a result, previously undiagnosed impaired glucose tolerance and overt diabetes mellitus may be unmasked during somatropin treatment.
-Therefore, glucose levels should be monitored periodically in all patients treated with somatropin, especially in those with risk factors for diabetes mellitus, such as obesity (including obese patients with Prader-Willi syndrome), Turner syndrome, or a family history of diabetes mellitus.
+Therefore, glucose levels should be monitored periodically in all patients treated with somatropin, especially in those with risk factors for diabetes mellitus, such as obesity, Turner syndrome, or a family history of diabetes mellitus.
 Patients with preexisting type 1 or type 2 diabetes mellitus or impaired glucose tolerance should be monitored closely during somatropin therapy.
 The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require adjustment when somatropin therapy is instituted in these patients.
 
@@ -42,7 +42,7 @@ In all reported cases, IH-associated signs and symptoms rapidly resolved after c
 Funduscopic examination should be performed routinely before initiating treatment with somatropin to exclude preexisting papilledema, and periodically during the course of somatropin therapy.
 If papilledema is observed by funduscopy during somatropin treatment, treatment should be stopped.
 If somatropin-induced IH is diagnosed, treatment with somatropin can be restarted at a lower dose after IH-associated signs and symptoms have resolved.
-Patients with Turner syndrome, chronic renal insufficiency, and Prader-Willi syndrome may be at increased risk for the development of IH.
+Patients with Turner syndrome may be at increased risk for the development of IH.
 
 ## 5.6 Fluid Retention
 

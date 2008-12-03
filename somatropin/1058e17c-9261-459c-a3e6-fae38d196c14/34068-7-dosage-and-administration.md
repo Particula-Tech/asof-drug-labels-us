@@ -1,8 +1,8 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 For subcutaneous injection.
 
-Therapy with Norditropin should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Noonan syndrome or Turner syndrome, and adult patients with either childhood onset or adult onset GHD.
+Therapy with Norditropin should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Noonan syndrome, Turner syndrome or SGA, and adult patients with either childhood onset or adult onset GHD.
 
 ## 2.1 Dosing of Pediatric Patients
 
@@ -30,6 +30,14 @@ A dosage of up to 0.066 mg/kg/day is recommended.
 Pediatric Patients with Short Stature Associated with Turner Syndrome
 
 A dosage of up to 0.067 mg/kg/day is recommended.
+
+Pediatric Patients with Short Stature Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2-4 Years
+
+A dosage of up to 0.067 mg/kg/day is recommended.
+
+Recent literature has recommended initial treatment with larger doses of somatropin (e.g., 0.067 mg/kg/day), especially in very short children (i.e., HSDS < -3), and/or older/early pubertal children, and that a reduction in dosage (e.g., gradually towards 0.033 mg/kg/day) should be considered if substantial catch-up growth is observed during the first few years of therapy.
+On the other hand, in younger SGA children (e.g., approximately < 4 years) (who respond the best in general) with less severe short stature (i.e., baseline HSDS values between -2 and -3), consideration should be given to initiating treatment at a lower dose (e.g., 0.033 mg/kg/day), and titrating the dose as needed over time.
+In all children, clinicians should carefully monitor the growth response, and adjust the rhGH dose as necessary.
 
 ## 2.2 Dosing of Adult Patients
 
@@ -59,7 +67,7 @@ Norditropin® Cartridges 5 mg/1.5 mL and 15 mg/1.5 mL:
 Each cartridge of Norditropin must be inserted into its corresponding NordiPen delivery system.
 Instructions for delivering the dosage are provided in the NordiPen INSTRUCTION booklet.
 
-Norditropin NordiFlex ® 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
+Norditropin NordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
 
 Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin NordiFlex prefilled pen.
 
