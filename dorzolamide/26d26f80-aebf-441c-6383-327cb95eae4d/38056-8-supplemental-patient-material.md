@@ -39,10 +39,10 @@ WARNING: Keep out of reach of children.
 
 If you have any questions about the use of TRUSOPT, please consult your doctor.
 
-Issued September 2005
+Issued July 2008
 
 Manuf. for: MERCK & CO., Inc., Whitehouse Station, NJ 08889, USA
 
 By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
-9368207
+9368209

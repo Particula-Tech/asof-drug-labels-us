@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-TRUSOPTRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 1994, 2003 MERCK& CO., Inc. All rights reserved (dorzolamide hydrochloride ophthalmic solution) is a carbonic anhydrase inhibitor formulated for topical ophthalmic use.
+TRUSOPTRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 1994, 2003 MERCK & CO., Inc. All rights reserved (dorzolamide hydrochloride ophthalmic solution) is a carbonic anhydrase inhibitor formulated for topical ophthalmic use.
 
 Dorzolamide hydrochloride is described chemically as: (4S-trans)-4-(ethylamino)-5,6-dihydro-6-methyl-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide monohydrochloride.
 Dorzolamide hydrochloride is optically active.

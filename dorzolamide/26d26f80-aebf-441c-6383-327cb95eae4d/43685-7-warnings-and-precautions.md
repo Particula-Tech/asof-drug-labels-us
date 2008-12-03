@@ -31,6 +31,9 @@ These containers had been inadvertently contaminated by patients who, in most ca
 
 Choroidal detachment has been reported with administration of aqueous suppressant therapy (e.g., dorzolamide) after filtration procedures.
 
+There is an increased potential for developing corneal edema in patients with low endothelial cell counts.
+Precautions should be used when prescribing TRUSOPT to this group of patients.
+
 ## Information for Patients
 
 TRUSOPT is a sulfonamide and although administered topically is absorbed systemically.
