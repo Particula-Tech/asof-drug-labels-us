@@ -1,10 +1,7 @@
-Literature revised September 12, 2007
+Literature revised October 10, 2008
 
-Eli Lilly and Company
+Eli Lilly and Company Indianapolis, IN 46285, USA
 
-Indianapolis, IN 46285, USA
-
-www.ALIMTA.com
-
-Copyright © 2004, 2007, Eli Lilly and Company.
-All rights reserved.
+| Copyright © 2004, 2008, Eli Lilly and Company. All rights reserved. |  |
+| --- | --- |
+| PV 5205 AMP |  |

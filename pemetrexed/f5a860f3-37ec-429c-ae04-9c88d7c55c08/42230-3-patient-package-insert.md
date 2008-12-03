@@ -1,6 +1,6 @@
-# Supplement Patient Material Section
+INFORMATION FOR PATIENTS AND CAREGIVERS ALIMTA® (uh-LIM-tuh)
 
-## INFORMATION FOR PATIENTS AND CAREGIVERS ALIMTA® (uh–LIM–tuh) (pemetrexed for injection)
+(pemetrexed for injection)
 
 Read the Patient Information that comes with ALIMTA before you start treatment and each time you get treated with ALIMTA.
 There may be new information.
@@ -13,9 +13,12 @@ ALIMTA is a treatment for:
 
 - Malignant pleural mesothelioma.
   This cancer affects the inside lining of the chest cavity.
-  ALIMTA is given with cisplatin, another anti–cancer medicine (chemotherapy).
-- Non–small cell lung cancer.
+  ALIMTA is given with cisplatin, another anti-cancer medicine (chemotherapy).
+- Non-small cell lung cancer.
   This cancer is a disease in which malignant (cancer) cells form in the tissues of the lung.
+  If this is the first time you have been treated for your lung cancer, ALIMTA may be given with another anti-cancer drug called cisplatin.
+  If you are being treated because your cancer has come back or you had trouble tolerating a prior treatment, ALIMTA may be given alone.
+  Your doctor will speak to you about whether ALIMTA is appropriate for your specific type of non-small cell lung cancer.
 
 To lower your chances of side effects of ALIMTA, you must also take folic acid and vitamin B12 prior to and during your treatment with ALIMTA.
 Your doctor will prescribe a medicine called a “corticosteroid” to take for 3 days during your treatment with ALIMTA.
@@ -34,7 +37,7 @@ Tell your doctor about all of your medical conditions, including if you:
   You should stop breastfeeding once you start treatment with ALIMTA.
 - are taking other medicines, including prescription and nonprescription medicines, vitamins, and herbal supplements.
   ALIMTA and other medicines may affect each other causing serious side effects.
-  Especially, tell your doctor if you are taking medicines called “nonsteroidal anti–inflammatory drugs” (NSAIDs) for pain or swelling.
+  Especially, tell your doctor if you are taking medicines called “nonsteroidal anti-inflammatory drugs” (NSAIDs) for pain or swelling.
   There are many NSAID medicines.
   If you are not sure, ask your doctor or pharmacist if any of your medicines are NSAIDs.
 
@@ -43,14 +46,14 @@ How is ALIMTA given?
 - ALIMTA is slowly infused (injected) into a vein.
   The injection or infusion will last about 10 minutes.
   You will usually receive ALIMTA once every 21 days (3 weeks).
-- If you are being treated for malignant pleural mesothelioma, ALIMTA is given in combination with cisplatin (another anti–cancer drug).
-  Cisplatin is infused in your vein for about 2 hours starting about 30 minutes after your treatment with ALIMTA.
-- Your doctor will prescribe a medicine called a“corticosteroid” to take for 3 days during your treatment with ALIMTA.
+- If you are being treated with ALIMTA and cisplatin for the initial treatment of either mesothelioma or non-small cell lung cancer, ALIMTA will be given first as a 10 minute infusion into your vein and cisplatin (another anti-cancer drug) will also be given through your vein starting about 30 minutes after ALIMTA and ending about 2 hours later.
+- If you are being treated because your non-small cell lung cancer has returned, you may receive ALIMTA alone, given as a 10 minute infusion into your vein.
+- Your doctor will prescribe a medicine called a “corticosteroid” to take for 3 days during your treatment with ALIMTA.
   Corticosteroid medicines lower your chances for getting skin reactions with ALIMTA.
 - It is very important to take folic acid and vitamin B12 during your treatment with ALIMTA to lower your chances of harmful side effects.
-  You must start taking 350–1000 micrograms of folic acid every day for at least 5 days out of the 7 days before your first dose of ALIMTA.
+  You must start taking 350-1000 micrograms of folic acid every day for at least 5 days out of the 7 days before your first dose of ALIMTA.
   You must keep taking folic acid every day during the time you are getting treatment with ALIMTA, and for 21 days after your last treatment.
-  You can get folic acid vitamins over–the–counter.
+  You can get folic acid vitamins over-the-counter.
   Folic acid is also found in many multivitamin pills.
   Ask your doctor or pharmacist for help if you are not sure how to choose a folic acid product.
   Your doctor will give you vitamin B12 injections while you are getting treatment with ALIMTA.
@@ -102,7 +105,7 @@ The most common side effects of ALIMTA when given alone or in combination with c
   These usually appear between treatments with ALIMTA and usually go away before the next treatment.
   Call your doctor if you get a severe rash or itching.
 
-Talk with your doctor, nurse or pharmacist about any side effect that bothers you or that doesn’t go away.
+Talk with your doctor, nurse or pharmacist about any side effect that bothers you or that doesn't go away.
 
 These are not all the side effects of ALIMTA.
 For more information, ask your doctor, nurse or pharmacist.
@@ -115,15 +118,12 @@ ALIMTA was prescribed for your medical condition.
 This leaflet summarizes the most important information about ALIMTA.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
-You can also call 1–800–LILLY–RX (1–800–545–5979) or visit www.ALIMTA.com.
+You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Literature revised September 12, 2007
+Patient information revised September 26, 2008
 
-Eli Lilly and Company
+Eli Lilly and Company Indianapolis, IN 46285, USA www.ALIMTA.com
 
-Indianapolis, IN 46285, USA
-
-www.ALIMTA.com
-
-Copyright © 2004, 2007, Eli Lilly and Company.
-All rights reserved.
+| Copyright © 2004, 2008, Eli Lilly and Company. All rights reserved. |  |
+| --- | --- |
+| PV 6750 AMP |  |

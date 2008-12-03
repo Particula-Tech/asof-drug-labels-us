@@ -1,26 +1,168 @@
-# CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## Malignant Pleural Mesothelioma
+## 14.1 Non-Small Cell Lung Cancer (NSCLC) – Combination with Cisplatin
 
-The safety and efficacy of ALIMTA have been evaluated in chemonaive patients with malignant pleural mesothelioma (MPM) in combination with cisplatin.
+A multi-center, randomized, open-label study in 1725 chemonaive patients with stage IIIb/IV NSCLC was conducted to compare the overall survival following treatment with ALIMTA in combination with cisplatin (AC) versus gemcitabine in combination with cisplatin (GC).
+ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 with cisplatin administered intravenously at a dose of 75 mg/m2 after ALIMTA administration, on Day 1 of each 21-day cycle.
+Gemcitabine was administered at a dose of 1250 mg/m2 on Day 1 and Day 8, and cisplatin was administered intravenously at a dose of 75 mg/m2 after administration of gemcitabine, on Day 1 of each 21-day cycle.
+Treatment was administered up to a total of 6 cycles, and patients in both treatment arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.3)].
 
-Randomized Trial: A multi–center, randomized, single–blind study in 448 chemonaive patients with MPM compared survival in patients treated with ALIMTA in combination with cisplatin to survival in patients receiving cisplatin alone.
+Patient demographics of the intent to treat (ITT) population are shown in Table 8.
+The demographics and disease characteristics were well balanced.
+
+Table 8: Summary of Patient Characteristics in Study of NSCLC — Combination with Cisplatin
+
+| Patient characteristic | ALIMTA plus Cisplatin (AC) (N=862) | Gemcitabine plus Cisplatin (GC) (N=863) |
+| --- | --- | --- |
+| Age (yrs) |  |  |
+| Median (range) | 61.1 (28.8-83.2) | 61.0 (26.4-79.4) |
+| Gender (%) |  |  |
+| Male/Female | 70.2/29.8 | 70.1/29.9 |
+| Origin |  |  |
+| Caucasian | 669 (77.6%) | 680 (78.8%) |
+| Hispanic | 27 (3.1%) | 23 (2.7%) |
+| Asian | 146 (16.9%) | 141 (16.3%) |
+| African descent | 18 (2.1%) | 18 (2.1%) |
+| Stage at Entry (%) |  |  |
+| IIIb/IV | 23.8/76.2 | 24.3/75.7 |
+| Histology (%) |  |  |
+| Nonsquamous NSCLCa | 618 (71.7) | 634 (73.5) |
+| Adenocarcinoma | 436 (50.6) | 411 (47.6) |
+| Large cell | 76 (8.8) | 77 (8.9) |
+| Otherb | 106 (12.3) | 146 (16.9) |
+| Squamous | 244 (28.3) | 229 (26.5) |
+| ECOG PSc(%)d |  |  |
+| 0/1 | 35.4/64.6 | 35.6/64.3 |
+| Smoking History (%)e |  |  |
+| Ever/never smoker | 83.1/16.9 | 83.9/16.1 |
+| a Includes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |
+| b The subgroup of "other" represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |
+| c Eastern Cooperative Oncology Group Performance Status. |  |  |
+| d ECOG PS was not reported for all randomized patients. Percentages are representative of N=861 for the ALIMTA plus cisplatin arm, and N=861 for the gemcitabine plus cisplatin arm. |  |  |
+| e Smoking history was collected for 88% of randomized patients (N=757 for the ALIMTA plus cisplatin arm and N=759 for the gemcitabine plus cisplatin arm). |  |  |
+
+Patients received a median of 5 cycles of treatment in both study arms.
+Patients treated with ALIMTA plus cisplatin received a relative dose intensity of 94.8% of the protocol-specified ALIMTA dose intensity and 95.0% of the protocol-specified cisplatin dose intensity.
+Patients treated with gemcitabine plus cisplatin received a relative dose intensity of 85.8% of the protocol-specified gemcitabine dose intensity and 93.5% of the protocol-specified cisplatin dose intensity.
+
+The primary endpoint in this study was overall survival.
+The median survival time was 10.3 months in the ALIMTA plus cisplatin treatment arm and 10.3 months in the gemcitabine plus cisplatin arm, with an adjusted hazard ratio of 0.94.
+
+Table 9: Efficacy of ALIMTA plus Cisplatin versus Gemcitabine plus Cisplatin in First-line NSCLC — ITT Population
+
+|  | ALIMTA plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
+| --- | --- | --- |
+| Median overall survival (95% CI) | 10.3 mos (9.8-11.2) | 10.3 mos (9.6-10.9) |
+| Adjusted hazard ratio (HR)a,b (95% CI) | 0.94 (0.84-1.05) |  |
+| Median progression-free survival (95% CI) | 4.8 mos (4.6-5.3) | 5.1 mos (4.6-5.5) |
+| Adjusted hazard ratio (HR)a,b (95% CI) | 1.04 (0.94-1.15) |  |
+| Overall response rate (95% CI) | 27.1% (24.2-30.1) | 24.7% (21.8-27.6) |
+| a Adjusted for gender, stage, basis of diagnosis, and performance status. |  |  |
+| b A HR that is less than 1.0 indicates that survival is better in the AC arm than in the GC arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the GC arm than in the AC arm. |  |  |
+
+A pre-specified analysis of the impact of NSCLC histology on overall survival was examined.
+Clinically relevant differences in survival according to histology were observed and are shown in..
+This difference in treatment effect for ALIMTA based on histology was also observed in the single-agent, second-line study [see Clinical Studies (14.2)].
+
+Table 10: Overall Survival of ALIMTA plus Cisplatin versus Gemcitabine plus Cisplatin in NSCLC — Histologic Subgroups, ITT Population
+
+| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR)a,b,c (95% CI) |
+| --- | --- | --- | --- | --- | --- | --- |
+| ALIMTA plus Cisplatin |  | Gemcitabine plus Cisplatin |  |  |  |  |
+| Nonsquamous NSCLCd (N=1252) | 11.0 (10.1-12.5) | N=618 | 10.1 (9.3-10.9) | N=634 | 0.84 (0.74-0.96) | 0.84 (0.74-0.96) |
+| Adenocarcinoma (N=847) | 12.6 (10.7-13.6) | N=436 | 10.9 (10.2-11.9) | N=411 | 0.84 (0.71-0.98) | 0.84 (0.71-0.99) |
+| Large Cell (N=153) | 10.4 (8.6-14.1) | N=76 | 6.7 (5.5-9.0) | N=77 | 0.68 (0.48-0.97) | 0.67 (0.48-0.96) |
+| Othere (N=252) | 8.6 (6.8-10.2) | N=106 | 9.2 (8.1-10.6) | N=146 | 1.12 (0.84-1.49) | 1.08 (0.81-1.45) |
+| Squamous Cell (N=473) | 9.4 (8.4-10.2) | N=244 | 10.8 (9.5-12.1) | N=229 | 1.22 (0.99-1.50) | 1.23 (1.00-1.51) |
+| a A HR that is less than 1.0 indicates that survival is better in the AC arm than in the GC arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the GC arm than in the AC arm. |  |  |  |  |  |  |
+| bUnadjusted for multiple comparisons. |  |  |  |  |  |  |
+| cHRs adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |  |  |  |  |
+| dIncludes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |  |  |  |  |
+| eThe subgroup of "other" represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |  |  |  |  |
+
+## 14.2 Non-Small Cell Lung Cancer – Single-Agent Use
+
+A multi-center, randomized, open label study was conducted in patients with Stage III or IV NSCLC after prior chemotherapy to compare the overall survival following treatment with ALIMTA versus docetaxel.
+ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 and docetaxel was administered at 75 mg/m2 as a 1-hour intravenous infusion.
+Both drugs were given on Day 1 of each 21-day cycle.
+All patients treated with ALIMTA received vitamin supplementation with folic acid and vitamin B12.
+The study was intended to show either an overall survival superiority or non-inferiority of ALIMTA to docetaxel.
+Patient demographics of the intent to treat (ITT) population are shown in Table 11.
+
+Table 11: Summary of Patient Characteristics in NSCLC Study
+
+|  | ALIMTA | Docetaxel |
+| --- | --- | --- |
+| Patient characteristic | (N=283) | (N=288) |
+| Age (yrs) |  |  |
+| Median (range) | 59 (22-81) | 57 (28-87) |
+| Gender (%) |  |  |
+| Male/Female | 68.6/31.4 | 75.3/24.7 |
+| Stage at Entry (%) |  |  |
+| III/IV | 25.1/74.9 | 25.3/74.7 |
+| Diagnosis/Histology (%) |  |  |
+| Adenocarcinoma | 154 (54.4) | 142 (49.3) |
+| Squamous | 78 (27.6) | 94 (32.6) |
+| Bronchoalveolar | 4 (1.4) | 1 (0.3) |
+| Other | 47 (16.6) | 51 (17.7) |
+| Performance Status (%)a |  |  |
+| 0-1 | 234 (88.6) | 240 (87.6) |
+| 2 | 30 (11.4) | 34 (12.4) |
+| a Performance status was not reported for all randomized patients. Percentages are representative of N=264 for the ALIMTA and N=274 for the docetaxel arm. |  |  |
+
+The primary endpoint in this study was overall survival.
+The median survival time was 8.3 months in the ALIMTA treatment arm and 7.9 months in the docetaxel arm, with a hazard ratio of 0.99 (see Table 12).
+The study did not show an overall survival superiority of ALIMTA.
+
+Table 12: Efficacy of ALIMTA versus Docetaxel in Non-Small Cell Lung Cancer — ITT Population
+
+|  | ALIMTA (N=283) | Docetaxel (N=288) |
+| --- | --- | --- |
+| Median overall survival (95% CI) | 8.3 mos (7.0-9.4) | 7.9 mos (6.3-9.2) |
+| Hazard ratio (HR) (95% CI) | 0.99 (0.82-1.20) |  |
+| Median progression free survival (95% CI) | 2.9 mos (2.4-3.1) | 2.9 mos (2.7-3.4) |
+| Hazard ratio (HR) (95% CI) | 0.97 (0.82-1.16) |  |
+| Overall response rate (95% CI) | 8.5% (5.2-11.7) | 8.3% (5.1-11.5) |
+
+A retrospective analysis of the impact of NSCLC histology on overall survival was examined.
+Clinically relevant differences in survival according to histology were observed and are shown in Table 13.
+This difference in treatment effect for ALIMTA based on histology was also observed in the first-line combination study [see Clinical Studies (14.1)].
+
+Table 13: Overall Survival of ALIMTA versus Docetaxel in NSCLC — Histologic Subgroups, ITT Population
+
+| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR)a,b,c (95% CI) |
+| --- | --- | --- | --- | --- | --- | --- |
+| ALIMTA |  | Docetaxel |  |  |  |  |
+| Nonsquamous NSCLCd (N=399) | 9.3 (7.8-9.7) | N=205 | 8.0 (6.3-9.3) | N=194 | 0.89 (0.71-1.13) | 0.78 (0.61-1.00) |
+| Adenocarcinoma (N=301) | 9.0 (7.6-9.6) | N=158 | 9.2 (7.5-11.3) | N=143 | 1.09 (0.83-1.44) | 0.92 (0.69-1.22) |
+| Large Cell (N=47) | 12.8 (5.8-14.0) | N=18 | 4.5 (2.3-9.1) | N=29 | 0.38 (0.18-0.78) | 0.27 (0.11-0.63) |
+| Other e (N=51) | 9.4 (6.0-10.1) | N=29 | 7.9 (4.0-8.9) | N=22 | 0.62 (0.32-1.23) | 0.57 (0.27-1.20) |
+| Squamous Cell (N=172) | 6.2 (4.9-8.0) | N=78 | 7.4 (5.6-9.5) | N=94 | 1.32 (0.93-1.86) | 1.56 (1.08-2.26) |
+| a A HR that is less than 1.0 indicates that survival is better in the ALIMTA arm than in the docetaxel arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the docetaxel arm than in the ALIMTA arm. |  |  |  |  |  |  |
+| b Unadjusted for multiple comparisons. |  |  |  |  |  |  |
+| c HRs adjusted for ECOG PS, time since prior chemotherapy, disease stage, and gender. |  |  |  |  |  |  |
+| d Includes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |  |  |  |  |
+| e The subgroup of “other” represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |  |  |  |  |
+
+## 14.3 Malignant Pleural Mesothelioma
+
+A multi-center, randomized, single-blind study in 448 chemonaive patients with malignant pleural mesothelioma (MPM) compared survival in patients treated with ALIMTA in combination with cisplatin to survival in patients receiving cisplatin alone.
 ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 and cisplatin was administered intravenously over 2 hours at a dose of 75 mg/m2 beginning approximately 30 minutes after the end of administration of ALIMTA.
-Both drugs were given on Day 1 of each 21–day cycle.
+Both drugs were given on Day 1 of each 21-day cycle.
 After 117 patients were treated, white cell and GI toxicity led to a change in protocol whereby all patients were given folic acid and vitamin B12 supplementation.
 
 The primary analysis of this study was performed on the population of all patients randomly assigned to treatment who received study drug (randomized and treated).
-An analysis was also performed on patients who received folic acid and vitamin B12 supplementation during the entire course of study therapy (fully supplemented), as supplementation is recommended (see DOSAGE AND ADMINISTRATION).
+An analysis was also performed on patients who received folic acid and vitamin B12 supplementation during the entire course of study therapy (fully supplemented), as supplementation is recommended [see Dosage and Administration (2.3)].
 Results in all patients and those fully supplemented were similar.
-Patient demographics are shown in Table 1.
+Patient demographics are shown in Table 14.
 
-Table 1: Summary of Patient Characteristics in MPM Study
+Table 14: Summary of Patient Characteristics in MPM Study
 
 | Patient characteristic | Randomized and Treated Patients |  | Fully Supplemented Patients |  |
 | --- | --- | --- | --- | --- |
 | ALIMTA/cis (N=226) | Cisplatin (N=222) | ALIMTA/cis (N=168) | Cisplatin (N=163) |  |
 | Age (yrs) |  |  |  |  |
-| Median (range) | 61 (29–85) | 60 (19–84) | 60 (29–85) | 60 (19–82) |
+| Median (range) | 61 (29-85) | 60 (19-84) | 60 (29-85) | 60 (19-82) |
 | Gender (%) |  |  |  |  |
 | Male | 184 (81.4) | 181 (81.5) | 136 (81.0) | 134 (82.2) |
 | Female | 42 (18.6) | 41 (18.5) | 32 (19.0) | 29 (17.8) |
@@ -35,30 +177,32 @@ Table 1: Summary of Patient Characteristics in MPM Study
 | III | 73 (32.4) | 68 (30.6) | 51 (30.5) | 49 (30.4) |
 | IV | 101 (44.9) | 105 (47.2) | 74 (44.3) | 73 (45.3) |
 | Unspecified | 1 (0.4) | 2 (0.9) | 1 (0.6) | 2 (1.2) |
-| Diagnosis/HistologyOnly 67% of the patients had the histologic diagnosis of malignant mesothelioma confirmed by independent review. (%) |  |  |  |  |
+| Diagnosis/Histologya (%) |  |  |  |  |
 | Epithelial | 154 (68.1) | 152 (68.5) | 117 (69.6) | 113 (69.3) |
 | Mixed | 37 (16.4) | 36 (16.2) | 25 (14.9) | 25 (15.3) |
 | Sarcomatoid | 18 (8.0) | 25 (11.3) | 14 (8.3) | 17 (10.4) |
 | Other | 17 (7.5) | 9 (4.1) | 12 (7.1) | 8 (4.9) |
-| Baseline KPSKarnofsky Performance Scale. (%) |  |  |  |  |
-| 70–80 | 109 (48.2) | 97 (43.7) | 83 (49.4) | 69 (42.3) |
-| 90–100 | 117 (51.8) | 125 (56.3) | 85 (50.6) | 94 (57.7) |
+| Baseline KPSb (%) |  |  |  |  |
+| 70-80 | 109 (48.2) | 97 (43.7) | 83 (49.4) | 69 (42.3) |
+| 90-100 | 117 (51.8) | 125 (56.3) | 85 (50.6) | 94 (57.7) |
+| a Only 67% of the patients had the histologic diagnosis of malignant mesothelioma confirmed by independent review. |  |  |  |  |
+| b Karnofsky Performance Scale. |  |  |  |  |
 
-Table 2 summarizes the survival results for all randomized and treated patients regardless of vitamin supplementation status and those patients receiving vitamin supplementation from the time of enrollment in the trial.
+Table 15 summarizes the survival results for all randomized and treated patients regardless of vitamin supplementation status and those patients receiving vitamin supplementation from the time of enrollment in the trial.
 
-Table 2: Efficacy of ALIMTA plus Cisplatin vs. Cisplatin in Malignant Pleural Mesothelioma
+Table 15: Efficacy of ALIMTA plus Cisplatin versus Cisplatin in Malignant Pleural Mesothelioma
 
 | Efficacy Parameter | Randomized and Treated Patients |  | Fully Supplemented Patients |  |
 | --- | --- | --- | --- | --- |
 | ALIMTA/cis (N=226) | Cisplatin (N=222) | ALIMTA/cis (N=168) | Cisplatin (N=163) |  |
-| Median overall survival (95% CI) | 12.1 mos (10.0–14.4) | 9.3 mos (7.8–10.7) | 13.3 mos (11.4–14.9) | 10.0 mos (8.4–11.9) |
+| Median overall survival (95% CI) | 12.1 mos (10.0-14.4) | 9.3 mos (7.8-10.7) | 13.3 mos (11.4-14.9) | 10.0 mos (8.4-11.9) |
 | Hazard ratio | 0.77 |  | 0.75 |  |
-| Log rank p–valuep–value refers to comparison between arms. | 0.020 |  | 0.051 |  |
+| Log rank p-valuea | 0.020 |  | 0.051 |  |
+| a p-value refers to comparison between arms. |  |  |  |  |
 
 Similar results were seen in the analysis of patients (N=303) with confirmed histologic diagnosis of malignant pleural mesothelioma.
-Exploratory demographic analyses showed no apparent differences in patients over or under 65.
-There were too few non–white patients to assess possible ethnic differences.
-The effect in women (median survival 15.7 months with the combination vs. 7.5 months on cisplatin alone), however, was larger than the effect in males (median survival 11 vs. 9.4 respectively).
+There were too few non-white patients to assess possible ethnic differences.
+The effect in women (median survival 15.7 months with the combination versus 7.5 months on cisplatin alone), however, was larger than the effect in males (median survival 11 versus 9.4 respectively).
 As with any exploratory analysis, it is not clear whether this difference is real or is a chance finding.
 
 Objective tumor response for malignant pleural mesothelioma is difficult to measure and response criteria are not universally agreed upon.
@@ -69,63 +213,3 @@ Patients who received full supplementation with folic acid and vitamin B12 durin
 Patients who never received folic acid and vitamin B12 during study therapy received a median of 2 cycles in both treatment arms (N=32 and N=38 for the ALIMTA/cisplatin and cisplatin arm, respectively).
 Patients receiving ALIMTA in the fully supplemented group received a relative dose intensity of 93% of the protocol specified ALIMTA dose intensity; patients treated with cisplatin in the same group received 94% of the projected dose intensity.
 Patients treated with cisplatin alone had a dose intensity of 96%.
-
-## Non–Small Cell Lung Cancer (NSCLC)
-
-The safety and efficacy of ALIMTA as a single–agent have been evaluated in patients with locally advanced or metastatic (Stage III or IV) non–small cell lung cancer after prior chemotherapy.
-
-Randomized Trial: A multi–center, randomized, open label Phase 3 study was conducted to compare the overall survival following treatment with ALIMTA versus docetaxel.
-ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 and docetaxel was administered at 75 mg/m2 as a 1–hour intravenous infusion.
-Both drugs were given on Day 1 of each 21–day cycle.
-All patients treated with ALIMTA received vitamin supplementation with folic acid and vitamin B12.
-The study was intended to show either an overall survival superiority or non–inferiority of ALIMTA to docetaxel.
-Patient demographics of the intent to treat (ITT) population are shown in Table 3.
-
-Table 3: Summary of Patient Characteristics in NSCLC Study
-
-|  | ALIMTA | Docetaxel |
-| --- | --- | --- |
-| Patient characteristic | (N=283) | (N=288) |
-| Age (yrs) |  |  |
-| Median (range) | 59 (22–81) | 57 (28–87) |
-| Gender (%) |  |  |
-| Male/Female | 68.6/31.4 | 75.3/24.7 |
-| Stage at Entry (%) |  |  |
-| III/IV | 25.1/74.9 | 25.3/74.7 |
-| Diagnosis/Histology (%) |  |  |
-| Adenocarcinoma | 154 (54.4) | 142 (49.3) |
-| Squamous | 78 (27.6) | 93 (32.3) |
-| Bronchoalveolar | 4 (1.4) | 1 (0.3) |
-| Other | 51 (18.1) | 53 (18.5) |
-| Performance Status (%) |  |  |
-| 0–1 | 234 (88.6) | 240 (87.6) |
-| 2 | 30 (11.4) | 34 (12.4) |
-
-The primary endpoint in this study was overall survival.
-The median survival time was 8.3 months in the ALIMTA treatment arm and 7.9 months in the docetaxel arm, with a hazard ratio of 0.99 (see Table 4).
-The study did not show an overall survival superiority of ALIMTA.
-Non–inferiority of ALIMTA to docetaxel could not be demonstrated, because a reliable and consistent survival effect of docetaxel required for a non–inferiority analysis could not be estimated from historical trials.
-In addition, significant treatment crossover at the time of disease progression may have confounded the survival interpretation.
-The demonstrated surrogate endpoint, response rate allowed the conclusion that an effect of ALIMTA on survival is reasonably likely.
-
-Exploratory demographic analyses on survival showed no significant differences between ALIMTA and docetaxel in patients over or under 65 years of age.
-There were too few non–white patients to assess possible ethnic differences.
-Regarding gender, females lived longer than males in both treatment groups.
-There was no difference in survival between ALIMTA and docetaxel with respect to gender after adjusting for prognostic factors.
-
-Secondary endpoints evaluated in the trial include objective response rate, progression free survival (PFS) and time to progressive disease (TTPD).
-There was no statistically significant difference between ALIMTA and docetaxel with respect to objective response rate, progression free survival (PFS) and time to progressive disease (TTPD).
-
-Table 4: Efficacy of ALIMTA vs. Docetaxel in Non–Small Cell Lung Cancer – ITT Population
-
-|  | ALIMTA (N=283) | Docetaxel (N=288) |
-| --- | --- | --- |
-| Median overall survival (95% CI) | 8.3 mos (7.0–9.4) | 7.9 mos (6.3–9.2) |
-| Hazard ratio (HR) (95% CI) | 0.99Not statistically significant. (0.82–1.20) |  |
-| Log rank p–value | 0.93 |  |
-| 1-year survival (95% CI) | 29.7% (23.7–35.6) | 29.7% (23.9–35.5) |
-| Median progression free survival | 2.9 mos | 2.9 mos |
-| Hazard ratio (HR) (95% CI) | 0.97 (0.82–1.16) |  |
-| Time to Progressive Disease | 3.4 mos | 3.5 mos |
-| Hazard ratio (HR) (95% CI) | 0.97 (0.80–1.17) |  |
-| Overall response rate,Number of qualified patients on the ALIMTA arm (N=264) and docetaxel arm (N=274). (95% CI) | 9.1% (5.9–13.2) | 8.8% (5.7–12.8) |

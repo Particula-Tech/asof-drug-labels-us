@@ -1,158 +1,225 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Malignant Pleural Mesothelioma
+## 6.1 Clinical Trials Experience
 
-In Table 5 adverse events occurring in at least 5% of patients are shown along with important effects (renal failure, infection) occurring at lower rates.
-Adverse events equally or more common in the cisplatin group are not included.
-The adverse effects more common in the ALIMTA group were primarily hematologic effects, fever and infection, stomatitis/pharyngitis, and rash/desquamation.
+Because clinical trials are conducted under widely varying conditions, adverse reactions rates cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
 
-Table 5: Adverse EventsRefer to NCI CTC Version 2.0. in Fully Supplemented Patients Receiving ALIMTA plus Cisplatin in MPM CTC Grades (% incidence)
+In clinical trials, the most common adverse reactions (incidence ≥20%) during therapy with ALIMTA as a single-agent were fatigue, nausea, and anorexia.
+Additional common adverse reactions (incidence ≥20%) during therapy with ALIMTA when used in combination with cisplatin included vomiting, neutropenia, leukopenia, anemia, stomatitis/pharyngitis, thrombocytopenia, and constipation.
 
-|  | All Reported Adverse Events Regardless of Causality |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| ALIMTA/cis (N=168) |  |  | Cisplatin (N=163) |  |  |  |
-| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
-| Laboratory |  |  |  |  |  |  |
-| Hematologic |  |  |  |  |  |  |
-| Neutropenia | 58 | 19 | 5 | 16 | 3 | 1 |
-| Leukopenia | 55 | 14 | 2 | 20 | 1 | 0 |
-| Anemia | 33 | 5 | 1 | 14 | 0 | 0 |
-| Thrombocytopenia | 27 | 4 | 1 | 10 | 0 | 0 |
-| Renal |  |  |  |  |  |  |
-| Creatinine elevation | 16 | 1 | 0 | 12 | 1 | 0 |
-| Renal failure | 2 | 0 | 1 | 1 | 0 | 0 |
-| Clinical |  |  |  |  |  |  |
-| Constitutional Symptoms |  |  |  |  |  |  |
-| Fatigue | 80 | 17 | 0 | 74 | 12 | 1 |
-| Fever | 17 | 0 | 0 | 9 | 0 | 0 |
-| Other constitutional symptoms | 11 | 2 | 1 | 8 | 1 | 1 |
-| Cardiovascular General |  |  |  |  |  |  |
-| Thrombosis/embolism | 7 | 4 | 2 | 4 | 3 | 1 |
-| Gastrointestinal |  |  |  |  |  |  |
-| Nausea | 84 | 11 | 1 | 79 | 6 | 0 |
-| Vomiting | 58 | 10 | 1 | 52 | 4 | 1 |
-| Constipation | 44 | 2 | 1 | 39 | 1 | 0 |
-| Anorexia | 35 | 2 | 0 | 25 | 1 | 0 |
-| Stomatitis/pharyngitis | 28 | 2 | 1 | 9 | 0 | 0 |
-| Diarrhea without colostomy | 26 | 4 | 0 | 16 | 1 | 0 |
-| Dehydration | 7 | 3 | 1 | 1 | 1 | 0 |
-| Dysphagia/esophagitis/odynophagia | 6 | 1 | 0 | 6 | 0 | 0 |
-| Pulmonary |  |  |  |  |  |  |
-| Dyspnea | 66 | 10 | 1 | 62 | 5 | 2 |
-| Pain |  |  |  |  |  |  |
-| Chest pain | 40 | 8 | 1 | 30 | 5 | 1 |
-| Neurology |  |  |  |  |  |  |
-| Neuropathy/sensory | 17 | 0 | 0 | 15 | 1 | 0 |
-| Mood alteration/depression | 14 | 1 | 0 | 9 | 1 | 0 |
-| Infection/Febrile Neutropenia |  |  |  |  |  |  |
-| Infection without neutropenia | 11 | 1 | 1 | 4 | 0 | 0 |
-| Infection with Grade 3 or Grade 4 neutropenia | 6 | 1 | 0 | 4 | 0 | 0 |
-| Infection/febrile neutropenia–other | 3 | 1 | 0 | 2 | 0 | 0 |
-| Febrile neutropenia | 1 | 1 | 0 | 1 | 0 | 0 |
-| Immune |  |  |  |  |  |  |
-| Allergic reaction/hypersensitivity | 2 | 0 | 0 | 1 | 0 | 0 |
-| Dermatology/Skin |  |  |  |  |  |  |
-| Rash/desquamation | 22 | 1 | 0 | 9 | 0 | 0 |
+Non-Small Cell Lung Cancer (NSCLC) — Combination with Cisplatin
 
-Table 6 compares the incidence (percentage of patients) of CTC Grade 3/4 toxicities in patients who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in the study (fully supplemented) with the incidence in patients who never received vitamin supplementation (never supplemented) during the study in the ALIMTA plus cisplatin arm.
+Table 4 provides the frequency and severity of adverse reactions that have been reported in >5% of 839 patients with NSCLC who were randomized to study and received ALIMTA plus cisplatin and 830 patients with NSCLC who were randomized to study and received gemcitabine plus cisplatin.
+All patients received study therapy as initial treatment for locally advanced or metastatic NSCLC and patients in both treatment groups were fully supplemented with folic acid and vitamin B12.
 
-Table 6: Selected Grade 3/4 Adverse Events Comparing Fully Supplemented versus Never Supplemented Patients in the ALIMTA plus Cisplatin arm in MPM (% incidence)
+Table 4: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA plus Cisplatin in NSCLCa
 
-| Adverse Event Regardless of CausalityRefer to NCI CTC criteria for lab and non–laboratory values for each grade of toxicity (Version 2.0). (%) | Fully Supplemented Patients(N=168) | Never Supplemented Patients(N=32) |
+| Reactionb | ALIMTA/cisplatin (N=839) |  | Gemcitabine/cisplatin (N=830) |  |
+| --- | --- | --- | --- | --- |
+| All Grades Toxicity (%) | Grade 3-4 Toxicity (%) | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) |  |
+| All Adverse Reactions | 90 | 37 | 91 | 53 |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 33 | 6 | 46 | 10 |
+| Neutropenia | 29 | 15 | 38 | 27 |
+| Leukopenia | 18 | 5 | 21 | 8 |
+| Thrombocytopenia | 10 | 4 | 27 | 13 |
+| Renal |  |  |  |  |
+| Creatinine elevation | 10 | 1 | 7 | 1 |
+| Clinical |  |  |  |  |
+| Constitutional Symptoms |  |  |  |  |
+| Fatigue | 43 | 7 | 45 | 5 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 56 | 7 | 53 | 4 |
+| Vomiting | 40 | 6 | 36 | 6 |
+| Anorexia | 27 | 2 | 24 | 1 |
+| Constipation | 21 | 1 | 20 | 0 |
+| Stomatitis/Pharyngitis | 14 | 1 | 12 | 0 |
+| Diarrhea | 12 | 1 | 13 | 2 |
+| Dyspepsia/Heartburn | 5 | 0 | 6 | 0 |
+| Neurology |  |  |  |  |
+| Neuropathy-sensory | 9 | 0 | 12 | 1 |
+| Taste disturbance | 8 | 0c | 9 | 0c |
+| Dermatology/Skin |  |  |  |  |
+| Alopecia | 12 | 0c | 21 | 1c |
+| Rash/Desquamation | 7 | 0 | 8 | 1 |
+| a For the purpose of this table a cut off of 5% was used for inclusion of all events where the reporter considered a possible relationship to ALIMTA. |  |  |  |  |
+| b Refer to NCI CTC Criteria version 2.0 for each Grade of toxicity. |  |  |  |  |
+| c According to NCI CTC Criteria version 2.0, this adverse event term should only be reported as Grade 1 or 2. |  |  |  |  |
+
+No clinically relevant differences in adverse reactions were seen in patients based on histology.
+
+In addition to the lower incidence of hematologic toxicity on the ALIMTA and cisplatin arm, use of transfusions (RBC and platelet) and hematopoietic growth factors was lower in the ALIMTA and cisplatin arm compared to the gemcitabine and cisplatin arm.
+
+The following additional adverse reactions were observed in patients with non-small cell lung cancer randomly assigned to receive ALIMTA plus cisplatin.
+
+Incidence 1% to 5%
+
+- Body as a Whole — febrile neutropenia, infection, pyrexia
+- General Disorders — dehydration
+- Metabolism and Nutrition — increased AST, increased ALT
+- Renal — creatinine clearance decrease, renal failure
+- Special Senses — conjunctivitis
+
+Incidence Less than 1%
+
+- Cardiovascular — arrhythmia
+- General Disorders — chest pain
+- Metabolism and Nutrition — increased GGT
+- Neurology — motor neuropathy
+
+Non-Small Cell Lung Cancer (NSCLC) — Single-Agent
+
+Table 5 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
+All patients were diagnosed with locally advanced or metastatic NSCLC and received prior chemotherapy.
+
+Table 5: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA versus Docetaxel in NSCLCa
+
+| Reactionb | ALIMTA (N=265) |  | Docetaxel (N=276) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades Toxicity (%) | Grades 3-4 Toxicity (%) | All Grades Toxicity (%) | Grades 3-4 Toxicity (%) |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 19 | 4 | 22 | 4 |
+| Leukopenia | 12 | 4 | 34 | 27 |
+| Neutropenia | 11 | 5 | 45 | 40 |
+| Thrombocytopenia | 8 | 2 | 1 | 0 |
+| Hepatic |  |  |  |  |
+| Increased ALT | 8 | 2 | 1 | 0 |
+| Increased AST | 7 | 1 | 1 | 0 |
+| Clinical |  |  |  |  |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 31 | 3 | 17 | 2 |
+| Anorexia | 22 | 2 | 24 | 3 |
+| Vomiting | 16 | 2 | 12 | 1 |
+| Stomatitis/Pharyngitis | 15 | 1 | 17 | 1 |
+| Diarrhea | 13 | 0 | 24 | 3 |
+| Constipation | 6 | 0 | 4 | 0 |
+| Constitutional Symptoms |  |  |  |  |
+| Fatigue | 34 | 5 | 36 | 5 |
+| Fever | 8 | 0 | 8 | 0 |
+| Dermatology/Skin |  |  |  |  |
+| Rash/Desquamation | 14 | 0 | 6 | 0 |
+| Pruritis | 7 | 0 | 2 | 0 |
+| Alopecia | 6 | 1c | 38 | 2c |
+| a For the purpose of this table a cut off of 5% was used for inclusion of all events where the reporter considered a possible relationship to ALIMTA. |  |  |  |  |
+| b Refer to NCI CTC Criteria for lab values for each Grade of toxicity (version 2.0). |  |  |  |  |
+| c According to NCI CTC Criteria version 2.0, this adverse event term should only be reported as Grade 1 or 2. |  |  |  |  |
+
+No clinically relevant differences in adverse reactions were seen in patients based on histology.
+
+Clinically relevant adverse reactions occurring in <5% of patients that received ALIMTA treatment but >5% of patients that received docetaxel include CTC Grade 3/4 febrile neutropenia (1.9% ALIMTA, 12.7% docetaxel).
+
+The following additional adverse reactions were observed in patients with non-small cell lung cancer randomly assigned to receive ALIMTA.
+
+Incidence 1% to 5%
+
+- Body as a Whole — abdominal pain, allergic reaction/hypersensitivity, febrile neutropenia, infection
+- Dermatology/Skin — erythema multiforme
+- Neurology — motor neuropathy, sensory neuropathy
+- Renal — increased creatinine
+
+Incidence Less than 1%
+
+- Cardiovascular — supraventricular arrhythmias
+
+Malignant Pleural Mesothelioma (MPM)
+
+Table 6 provides the frequency and severity of adverse reactions that have been reported in >5% of 168 patients with mesothelioma who were randomly assigned to receive cisplatin and ALIMTA and 163 patients with mesothelioma randomly assigned to receive single-agent cisplatin.
+In both treatment arms, these chemonaive patients were fully supplemented with folic acid and vitamin B12.
+
+Table 6: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA plus Cisplatin in MPMa
+
+| Reactionb | ALIMTA/cisplatin (N=168) |  | Cisplatin (N=163) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Neutropenia | 56 | 23 | 13 | 3 |
+| Leukopenia | 53 | 15 | 17 | 1 |
+| Anemia | 26 | 4 | 10 | 0 |
+| Thrombocytopenia | 23 | 5 | 9 | 0 |
+| Renal |  |  |  |  |
+| Creatinine elevation | 11 | 1 | 10 | 1 |
+| Creatinine clearance decreased | 16 | 1 | 18 | 2 |
+| Clinical |  |  |  |  |
+| Eye Disorder |  |  |  |  |
+| Conjunctivitis | 5 | 0 | 1 | 0 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 82 | 12 | 77 | 6 |
+| Vomiting | 57 | 11 | 50 | 4 |
+| Stomatitis/Pharyngitis | 23 | 3 | 6 | 0 |
+| Anorexia | 20 | 1 | 14 | 1 |
+| Diarrhea | 17 | 4 | 8 | 0 |
+| Constipation | 12 | 1 | 7 | 1 |
+| Dyspepsia | 5 | 1 | 1 | 0 |
+| Constitutional Symptoms |  |  |  |  |
+| Fatigue | 48 | 10 | 42 | 9 |
+| Metabolism and Nutrition |  |  |  |  |
+| Dehydration | 7 | 4 | 1 | 1 |
+| Neurology |  |  |  |  |
+| Neuropathy-sensory | 10 | 0 | 10 | 1 |
+| Taste Disturbance | 8 | 0c | 6 | 0c |
+| Dermatology/Skin |  |  |  |  |
+| Rash | 16 | 1 | 5 | 0 |
+| Alopecia | 11 | 0c | 6 | 0c |
+| a For the purpose of this table a cut off of 5% was used for inclusion of all events where the reporter considered a possible relationship to ALIMTA. |  |  |  |  |
+| b Refer to NCI CTC Criteria version 2.0 for each Grade of toxicity except the term “creatinine clearance decreased” which is derived from the CTC term “renal/genitourinary-other”. |  |  |  |  |
+| c According to NCI CTC Criteria version 2.0, this adverse event term should only be reported as Grade 1 or 2. |  |  |  |  |
+
+The following additional adverse reactions were observed in patients with malignant pleural mesothelioma randomly assigned to receive ALIMTA plus cisplatin.
+
+Incidence 1% to 5%
+
+- Body as a Whole — febrile neutropenia, infection, pyrexia
+- Dermatology/Skin — urticaria
+- General Disorders — chest pain
+- Metabolism and Nutrition — increased AST, increased ALT, increased GGT
+- Renal — renal failure
+
+Incidence Less than 1%
+
+- Cardiovascular — arrhythmia
+- Neurology — motor neuropathy
+
+Effects of Vitamin Supplementations
+
+Table 7 compares the incidence (percentage of patients) of CTC Grade 3/4 toxicities in patients who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in the study (fully supplemented) with the incidence in patients who never received vitamin supplementation (never supplemented) during the study in the ALIMTA plus cisplatin arm.
+
+Table 7: Selected Grade 3/4 Adverse Events Comparing Fully Supplemented versus Never Supplemented Patients in the ALIMTA plus Cisplatin arm (% incidence)
+
+| Adverse Eventa (%) | Fully Supplemented Patients (N=168) | Never Supplemented Patients (N=32) |
 | --- | --- | --- |
-| Neutropenia | 24 | 38 |
+| Neutropenia/granulocytopenia | 23 | 38 |
 | Thrombocytopenia | 5 | 9 |
-| Nausea | 12 | 31 |
-| Vomiting | 11 | 34 |
-| Anorexia | 2 | 9 |
-| Diarrhea without colostomy | 4 | 9 |
-| Dehydration | 4 | 9 |
-| Fever | 0 | 6 |
+| Vomiting | 11 | 31 |
 | Febrile neutropenia | 1 | 9 |
-| Infection with Grade 3/4 neutropenia | 1 | 6 |
-| Fatigue | 17 | 25 |
+| Infection with Grade 3/4 neutropenia | 0 | 6 |
+| Diarrhea | 4 | 9 |
+| a Refer to NCI CTC criteria for lab and non-laboratory values for each grade of toxicity (Version 2.0). |  |  |
 
 The following adverse events were greater in the fully supplemented group compared to the never supplemented group: hypertension (11%, 3%), chest pain (8%, 6%), and thrombosis/embolism (6%, 3%).
 
-For fully supplemented patients treated with ALIMTA plus cisplatin, the incidence of CTC Grade 3/4 fatigue, leukopenia, neutropenia, and thrombocytopenia were greater in patients 65 years or older as compared to patients younger than 65.
+Subpopulations
+
 No relevant effect for ALIMTA safety due to gender or race was identified, except an increased incidence of rash in men (24%) compared to women (16%).
 
-## Non–Small Cell Lung Cancer (NSCLC)
+Phase 2 Studies
 
-Table 7 provides the clinically relevant undesirable effects that have been reported in 265 patients randomly assigned to receive single–agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single–agent docetaxel.
-All patients were diagnosed with locally advanced or metastatic NSCLC and had received prior chemotherapy.
+Clinically relevant Grade 3 and Grade 4 laboratory toxicities were similar between integrated Phase 2 results from three single-agent ALIMTA studies (N=164) and the Phase 3 single- agent ALIMTA study described above, with the exception of neutropenia (12.8% versus 5.3%, respectively) and alanine transaminase elevation (15.2% versus 1.9%, respectively).
+These differences were likely due to differences in the patient population, since the Phase 2 studies included chemonaive and heavily pretreated breast cancer patients with pre-existing liver metastases and/or abnormal baseline liver function tests.
 
-Table 7: Adverse EventsRefer to NCI CTC Criteria for lab values for each Grade of toxicity (version 2.0). in Patients Receiving ALIMTA vs. Docetaxel in NSCLC CTC Grades (% incidence)
+## 6.2 Post-Marketing Experience
 
-|  | All Reported Adverse Events Regardless of Causality |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| ALIMTA (N=265) |  |  | Docetaxel (N=276) |  |  |  |
-| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
-| Laboratory |  |  |  |  |  |  |
-| Hematologic |  |  |  |  |  |  |
-| Anemia | 33 | 6 | 2 | 33 | 6 | <1 |
-| Leukopenia | 13 | 4 | <1 | 34 | 17 | 11 |
-| Neutropenia | 11 | 3 | 2 | 45 | 8 | 32 |
-| Thrombocytopenia | 9 | 2 | 0 | 1 | 1 | 0 |
-| Hepatic/Renal |  |  |  |  |  |  |
-| ALT elevation | 10 | 2 | 1 | 2 | <1 | 0 |
-| AST elevation | 8 | <1 | 1 | 1 | <1 | 0 |
-| Decreased creatinine clearance | 5 | 1 | 0 | 1 | 0 | 0 |
-| Creatinine elevation | 3 | 0 | 0 | 1 | 0 | 0 |
-| Renal failure | <1 | 0 | 0 | <1 | 0 | 0 |
-| Clinical |  |  |  |  |  |  |
-| Constitutional Symptoms |  |  |  |  |  |  |
-| Fatigue | 87 | 14 | 2 | 81 | 16 | 1 |
-| Fever | 26 | 1 | <1 | 19 | <1 | 0 |
-| Edema | 19 | <1 | 0 | 24 | <1 | 0 |
-| Myalgia | 13 | 2 | 0 | 20 | 3 | 0 |
-| Alopecia | 11 | NA | NA | 42 | NA | NA |
-| Arthralgia | 8 | <1 | 0 | 13 | 3 | 0 |
-| Other constitutional symptoms | 8 | 1 | 1 | 6 | 1 | <1 |
-| Cardiovascular General |  |  |  |  |  |  |
-| Thrombosis/embolism | 4 | 2 | 1 | 3 | 2 | 1 |
-| Cardiac ischemia | 3 | 2 | 1 | 2 | <1 | 0 |
-| Gastrointestinal |  |  |  |  |  |  |
-| Anorexia | 62 | 4 | 1 | 58 | 7 | <1 |
-| Nausea | 39 | 4 | 0 | 25 | 3 | 0 |
-| Constipation | 30 | 0 | 0 | 23 | 1 | 0 |
-| Vomiting | 25 | 2 | 0 | 19 | 1 | 0 |
-| Diarrhea without colostomy | 21 | <1 | 0 | 34 | 4 | 0 |
-| Stomatitis/pharyngitis | 20 | 1 | 0 | 23 | 1 | 0 |
-| Dysphagia/esophagitis/odynophagia | 5 | 1 | <1 | 7 | 1 | 0 |
-| Dehydration | 3 | 1 | 0 | 4 | 1 | 0 |
-| Pulmonary |  |  |  |  |  |  |
-| Dyspnea | 72 | 14 | 4 | 74 | 17 | 9 |
-| Pain |  |  |  |  |  |  |
-| Chest pain | 38 | 6 | <1 | 32 | 7 | <1 |
-| Neurology |  |  |  |  |  |  |
-| Neuropathy/sensory | 29 | 2 | 0 | 32 | 1 | 0 |
-| Mood alteration/depression | 11 | 0 | <1 | 10 | 1 | 0 |
-| Infection/Febrile Neutropenia |  |  |  |  |  |  |
-| Infection without neutropenia | 23 | 5 | <1 | 17 | 3 | 1 |
-| Infection/febrile neutropenia–other | 6 | 2 | 0 | 2 | <1 | 0 |
-| Febrile neutropenia | 2 | 1 | 1 | 14 | 10 | 3 |
-| Infection with Grade 3 or Grade 4 neutropenia | <1 | 0 | 0 | 6 | 4 | 1 |
-| Immune |  |  |  |  |  |  |
-| Allergic reaction/hypersensitivity | 8 | 0 | 0 | 8 | 1 | <1 |
-| Dermatology/Skin |  |  |  |  |  |  |
-| Rash/desquamation | 17 | 0 | 0 | 9 | 0 | 0 |
+The following adverse reactions have been identified during post-approval use of ALIMTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Clinically relevant Grade 3 and Grade 4 laboratory toxicities were similar between integrated Phase 2 results from three single–agent ALIMTA studies (N=164) and the Phase 3 single–agent ALIMTA study described above, with the exception of neutropenia (12.8% versus 5.3%, respectively) and alanine transaminase elevation (15.2% versus 1.9%, respectively).
-These differences were likely due to differences in the patient population, since the Phase 2 studies included chemonaive and heavily pretreated breast cancer patients with pre–existing liver metastases and/or abnormal baseline liver function tests.
+These reactions have occurred with ALIMTA when used as a single-agent and in combination therapies.
 
-The incidence of CTC Grade 3/4 hypertension was the only finding demonstrating an age difference in patients treated with ALIMTA and was greater in patients 65 years or older as compared to younger patients.
-There are insufficient numbers of non–white patients to assess ethnic differences.
-The incidence of CTC Grade 3/4 dyspnea was higher in males for both treatment arms.
+Gastrointestinal — colitis
 
-## Post–marketing experience
+General Disorders and Administration Site Conditions — edema
 
-The following adverse events have been identified during post–approval use of ALIMTA.
-These events have occurred with ALIMTA when used as a single–agent and in combination therapies.
-Decisions to include these events are based on the seriousness of the event, frequency of reporting, or potential causal connection to ALIMTA.
+Injury, poisoning, and procedural complications — Radiation recall has been reported in patients who have previously received radiotherapy.
 
-Gastrointestinal — Rare cases of colitis have been reported in patients treated with ALIMTA.
-
-Injury, poisoning, and procedural complications — Rare cases of radiation recall have been reported in patients who have previously received radiotherapy.
-
-Respiratory — Rare cases of interstitial pneumonitis have been reported in patients treated with ALIMTA.
+Respiratory — interstitial pneumonitis
