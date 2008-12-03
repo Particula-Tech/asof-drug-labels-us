@@ -2,7 +2,7 @@
 
 ## 5.1 Lactic Acidosis/Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs alone or in combination with other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including VIREAD, a component of TRUVADA, in combination with other antiretrovirals.
 A majority of these cases have been in women.
 Obesity and prolonged nucleoside exposure may be risk factors.
 Particular caution should be exercised when administering nucleoside analogs to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
@@ -12,9 +12,9 @@ Treatment with TRUVADA should be suspended in any patient who develops clinical 
 
 It is recommended that all patients with HIV-1 be tested for the presence of chronic Hepatitis B virus (HBV) before initiating antiretroviral therapy.
 TRUVADA is not approved for the treatment of chronic HBV infection and the safety and efficacy of TRUVADA have not been established in patients coinfected with HBV and HIV-1.
-Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA or VIREAD.
+Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued TRUVADA.
 In some patients infected with HBV and treated with EMTRIVA, the exacerbations of Hepatitis B were associated with liver decompensation and liver failure.
-Hepatic function should be monitored closely with both clinical and laboratory follow up for at least several months in patients who are coinfected with HIV-1 and HBV and discontinue TRUVADA.
+Patients who are coinfected with HIV-1 and HBV should be closely monitored with both clinical and laboratory follow up for at least several months after stopping treatment with Truvada.
 If appropriate, initiation of anti-Hepatitis B therapy may be warranted.
 
 ## 5.3 New Onset or Worsening Renal Impairment
@@ -31,19 +31,21 @@ TRUVADA should not be administered to patients with creatinine clearance <30 mL/
 
 TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent.
 
-## 5.4 Coadministration with Related Products
+## 5.4 Coadministration with Other Products
 
 TRUVADA is a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate.
 TRUVADA should not be coadministered with ATRIPLA, EMTRIVA, or VIREAD.
 Due to similarities between emtricitabine and lamivudine, TRUVADA should not be coadministered with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
+TRUVADA should not be administered with HEPSERA® (adefovir dipivoxil).
+
 ## 5.5 Decreases in Bone Mineral Density
 
-Bone mineral density monitoring should be considered for HIV-1 infected patients who have a history of pathologic bone fracture or are at risk for osteopenia.
+Bone mineral density (BMD) monitoring should be considered for HIV-1 infected patients who have a history of pathologic bone fracture or are at risk for osteopenia.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained
 
-Tenofovir Disoproxil Fumarate: In a 144-week study of treatment naive patients, decreases in bone mineral density (BMD) were seen at the lumbar spine and hip in both arms of the study.
+Tenofovir Disoproxil Fumarate: In a 144-week study of treatment naïve patients, decreases in BMD were seen at the lumbar spine and hip in both arms of the study.
 At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in patients receiving VIREAD + lamivudine + efavirenz compared with patients receiving stavudine + lamivudine + efavirenz.
 Changes in BMD at the hip were similar between the two treatment groups.
 In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through 144 weeks.
@@ -54,7 +56,7 @@ Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in p
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 For additional information, please consult the VIREAD prescribing information.
 
-Cases of osteomalacia (associated with proximal renal tubulopathy) have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
+Cases of osteomalacia (associated with proximal renal tubulopathy and which may contribute to fractures) have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
 
 ## 5.6 Fat Redistribution
 
@@ -64,5 +66,12 @@ A causal relationship has not been established.
 
 ## 5.7 Immune Reconstitution Syndrome
 
-Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EMTRIVA and VIREAD.
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including TRUVADA.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
+
+## 5.8 Early Virologic Failure
+
+Clinical studies in HIV-infected patients have demonstrated that certain regimens that only contain three nucleoside reverse transcriptase inhibitors (NRTI) are generally less effective than triple drug regimens containing two NRTIs in combination with either a non-nucleoside reverse transcriptase inhibitor or a HIV-1 protease inhibitor.
+In particular, early virological failure and high rates of resistance substitutions have been reported.
+Triple nucleoside regimens should therefore be used with caution.
+Patients on a therapy utilizing a triple nucleoside-only regimen should be carefully monitored and considered for treatment modification.

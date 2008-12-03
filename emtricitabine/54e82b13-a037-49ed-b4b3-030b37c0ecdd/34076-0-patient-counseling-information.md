@@ -15,11 +15,12 @@ Patients should be advised that:
 - Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
   Treatment with TRUVADA should be suspended in any patients who develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
 - All patients with HIV-1 should be tested for Hepatitis B virus (HBV) before initiating antiretroviral therapy.
-- Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA or VIREAD.
+- Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued TRUVADA.
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of VIREAD.
   TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
   Dosing interval of TRUVADA may need adjustment in patients with renal impairment [See Dosage and Administration (2.1)].
 - TRUVADA should not be coadministered with ATRIPLA, EMTRIVA, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
+- TRUVADA should not be administered with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD.
   Bone monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.5)].
 
@@ -96,6 +97,7 @@ Who should not take TRUVADA?
   The active ingredients of TRUVADA are emtricitabine and tenofovir DF.
   See the end of this leaflet for a complete list of ingredients.
 - Do not take TRUVADA if you are already taking ATRIPLA®, Combivir (lamivudine/zidovudine), EMTRIVA, Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Trizivir (abacavir sulfate/lamivudine/zidovudine), or VIREAD because these medicines contain the same or similar active ingredients.
+- Do not take TRUVADA to treat your HIV infection if you are also taking HEPSERA® to treat your HBV infection.
 
 What should I tell my healthcare provider before taking TRUVADA?
 
@@ -163,6 +165,7 @@ What should I avoid while taking TRUVADA?
     Always practice safer sex by using a latex or polyurethane condom or other barrier to reduce the chance of sexual contact with semen, vaginal secretions, or blood.
 - ATRIPLA, Combivir (lamivudine/zidovudine), EMTRIVA, Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Trizivir (abacavir sulfate/lamivudine/zidovudine), or VIREAD.
   TRUVADA should not be used with these medicines.
+- TRUVADA should not be used with HEPSERA.
 
 What are the possible side effects of TRUVADA?
 
@@ -178,11 +181,13 @@ TRUVADA may cause the following serious side effects (see "What is the most impo
 - "Flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking TRUVADA.
   Your healthcare provider will monitor your condition for several months after stopping TRUVADA if you have both HIV-1 and HBV infection.
   TRUVADA is not approved for the treatment of Hepatitis B Virus infection.
+  If you have advanced liver disease and stop treatment with TRUVADA, the "flare-up" of hepatitis B may cause your liver function to decline.
 - Kidney problems.
   If you have had kidney problems in the past or take other medicines that can cause kidney problems, your healthcare provider should do regular blood tests to check your kidneys.
 - Changes in bone mineral density (thinning bones).
-  It is not known whether long-term use of TRUVADA will cause damage to your bones.
+  Laboratory tests show changes in the bones of patients treated with VIREAD, a component of TRUVADA.
   If you have had bone problems in the past, your healthcare provider may need to do tests to check your bone mineral density or may prescribe medicines to help your bone mineral density.
+  Additionally, bone pain and softening of the bone (which may contribute to fractures) may occur as a consequence of kidney problems.
 
 Other side effects with TRUVADA when used with other anti-HIV-1 medicines include:
 
@@ -190,13 +195,16 @@ Other side effects with TRUVADA when used with other anti-HIV-1 medicines includ
   These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the main part of your body (trunk).
   Loss of fat from the legs, arms and face may also happen.
   The cause and long term health effect of these conditions are not known at this time.
+- In some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
+  It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+  If you notice any symptoms of infection, please inform your doctor immediately.
 
-The most common side effects of EMTRIVA or VIREAD when used with other anti-HIV-1 medicines are: diarrhea, nausea, vomiting, dizziness and headache.
-Additional side effects are stomach pain, indigestion, gas, inflammation of the pancreas, increased amylase, sleeping problems, abnormal dreams, weakness, pain, low blood phosphate, shortness of breath, increase liver enzymes, inflammation of the liver, allergic reaction, muscle problems and rash.
+The most common side effects of EMTRIVA or VIREAD when used with other anti-HIV-1 medicines are: diarrhea, dizziness, nausea, headache, fatigue, abnormal dreams, sleeping problems, rash, depression, and vomiting.
+Additional side effects are lactic acidosis, kidney problems (including decline or failure of kidney function), inflammation of the pancreas, inflammation of the liver, allergic reaction, shortness of breath, pain, fatty liver, stomach pain, weakness, indigestion, intestinal gas, and high volume of urine and thirst caused by kidney problems.
+Muscle pain and muscle weakness, bone pain, and softening of the bone (which may contribute to fractures) as a consequence of kidney problems have been reported.
 Skin discoloration (small spots or freckles) may also happen with TRUVADA.
 
 These are not all the side effects of TRUVADA.
-This list of side effects with TRUVADA is not complete at this time because TRUVADA is still being studied.
 If you have questions about side effects, ask your healthcare provider.
 Report any new or continuing symptoms to your healthcare provider right away.
 Your healthcare provider may be able to help you manage these side effects.
@@ -232,9 +240,9 @@ The tablets are coated with Opadry II Blue Y-30-10701 containing FD&C Blue #2 al
 
 Rx Only
 
-May 2008
+November 2008
 
-TRUVADA, EMTRIVA, and VIREAD are registered trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+TRUVADA, EMTRIVA, HEPSERA and VIREAD are registered trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-21-752-GS-021 19MAY08
+21-752-GS-022 041108

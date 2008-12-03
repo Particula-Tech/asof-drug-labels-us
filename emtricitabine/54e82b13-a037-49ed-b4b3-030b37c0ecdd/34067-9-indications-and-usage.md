@@ -2,7 +2,7 @@
 
 TRUVADA®, a combination of EMTRIVA® and VIREAD®, is indicated in combination with other antiretroviral agents (such as non-nucleoside reverse transcriptase inhibitors or protease inhibitors) for the treatment of HIV-1 infection in adults.
 
-Additional important information regarding the use of TRUVADA for the treatment of HIV-1 infection:
+The following points should be considered when initiating therapy with TRUVADA for the treatment of HIV-1 infection:
 
 - It is not recommended that TRUVADA be used as a component of a triple nucleoside regimen.
 - TRUVADA should not be coadministered with ATRIPLA®, EMTRIVA, VIREAD or lamivudine-containing products [See Warnings and Precautions (5.4)].

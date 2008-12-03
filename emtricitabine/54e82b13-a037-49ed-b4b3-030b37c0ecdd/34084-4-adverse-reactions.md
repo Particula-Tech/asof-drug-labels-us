@@ -74,22 +74,25 @@ In addition to the laboratory abnormalities described above for Study 934, Grade
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of VIREAD.
+No additional adverse reactions have been identified during postapproval use of EMTRIVA.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System Disorders allergic reaction
 
-Metabolism and Nutrition Disorders hypophosphatemia, lactic acidosis
+Metabolism and Nutrition Disorders lactic acidosis, hypokalemia, hypophosphatemia
 
 Respiratory, Thoracic, and Mediastinal Disorders dyspnea
 
-Gastrointestinal Disorders abdominal pain, increased amylase, pancreatitis
+Gastrointestinal Disorders pancreatitis, increased amylase, abdominal pain
 
-Hepatobiliary Disorders increased liver enzymes (most commonly increased AST, ALT, Gamma GT), hepatitis
+Hepatobiliary Disorders hepatic steatosis, hepatitis, increased liver enzymes (most commonly AST, ALT gamma GT)
 
 Skin and Subcutaneous Tissue Disorders rash
 
-Musculoskeletal and Connective Tissue Disorders myopathy, osteomalacia (both associated with proximal renal tubulopathy)
+Musculoskeletal and Connective Tissue Disorders rhabdomyolysis, osteomalacia (manifested as bone pain and which may contribute to fractures), muscular weakness, myopathy
 
-Renal and Urinary Disorders renal insufficiency, renal failure, acute renal failure, Fanconi syndrome, proximal tubulopathy, proteinuria, increased creatinine, acute tubular necrosis, nephrogenic diabetes insipidus, polyuria, interstitial nephritis (including acute cases)
+Renal and Urinary Disorders acute renal failure, renal failure, acute tubular necrosis, Fanconi syndrome, proximal renal tubulopathy, interstitial nephritis (including acute cases), nephrogenic diabetes insipidus, renal insufficiency, increased creatinine, proteinuria, polyuria
 
 General Disorders and Administration Site Conditions asthenia
+
+The following adverse reactions, listed under the body system headings above, may occur as a consequence of proximal renal tubulopathy: rhabdomyolysis, osteomalacia, hypokalemia, muscular weakness, myopathy, hypophosphatemia.

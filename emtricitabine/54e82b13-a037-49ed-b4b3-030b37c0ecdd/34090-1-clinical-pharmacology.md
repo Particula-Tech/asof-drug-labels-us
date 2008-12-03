@@ -82,7 +82,7 @@ The steady state pharmacokinetics of emtricitabine and tenofovir were unaffected
 In vitro and clinical pharmacokinetic drug-drug interaction studies have shown that the potential for CYP mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
 
 No clinically significant drug interactions have been observed between emtricitabine and famciclovir, indinavir, stavudine, tenofovir disoproxil fumarate, and zidovudine (see Tables 5 and 6).
-Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and abacavir, adefovir dipivoxil, efavirenz, emtricitabine, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, and saquinavir/ritonavir in studies conducted in healthy volunteers (see Tables 7 and 8).
+Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and abacavir, efavirenz, emtricitabine, entecavir, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, saquinavir/ritonavir, and tacrolimus in studies conducted in healthy volunteers (see Tables 7 and 8).
 
 Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
@@ -112,17 +112,18 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPa
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NC = Not Calculated (90% CI) |  |  |
 | Abacavir | 300 once | 8 |  |  | NC |
-| Adefovir dipivoxil | 10 once | 22 |  |  | NC |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Didanosine (enteric-coated) | 400 once | 25 |  |  |  |
 | Didanosine (buffered) | 250 or 400 once daily × 7 days | 14 |  |  |  |
 | Efavirenz | 600 once daily × 14 days | 29 |  |  |  |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  |  |
+| Entecavir | 1 mg once daily × 10 days | 28 |  |  |  |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) |  |  |
 | Lamivudine | 150 twice daily × 7 days | 15 |  |  |  |
 | Lopinavir/Ritonavir | 400/100 twice daily × 14 days | 24 |  | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
 | Nelfinavir | 1250 twice daily × 14 days | 29 |  |  |  |
 | Saquinavir/Ritonavir | 1000/100 twice daily × 14 days | 35 |  |  | ↑ 23 (↑ 16 to ↑ 30) |
+| Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) |  |  |
 
 Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir
 
@@ -130,12 +131,12 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NA = Not Applicable (90% CI) |  |  |
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) |  | NA |
-| Adefovir dipivoxil | 10 once | 22 |  |  | NA |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected patients, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
 | Efavirenz | 600 once daily × 14 days | 30 |  |  |  |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) |  |  |
+| Entecavir | 1 mg once daily × 10 days | 28 |  | ↑ 13 (↑ 11 to ↑ 15) |  |
 | Lamivudine | 150 twice daily × 7 days | 15 | ↓ 24 (↓ 34 to ↓ 12) |  |  |
 | Lopinavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 |  |  |  |
 | Ritonavir |  |  |  |  |  |
@@ -146,6 +147,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Ribavirin | 600 once | 22 |  |  | NA |
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir |  |  | ↑ 23 (↑ 3 to ↑ 46) |  |  |
+| Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 |  |  |  |
 
 Following multiple dosing to HIV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous studies, indicating lack of clinically significant drug interactions between these agents and VIREAD.
 
