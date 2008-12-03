@@ -1,6 +1,17 @@
 # WARNINGS
 
-THE SAFETY AND EFFECTIVENESS OF CIPRO XR IN PEDIATRIC PATIENTS AND ADOLESCENTS (UNDER THE AGE OF 18 YEARS), PREGNANT WOMEN, AND NURSING WOMEN HAVE NOT BEEN ESTABLISHED.(See PRECAUTIONS: Pediatric Use, Pregnancy, and Nursing Mothers subsections.)
+Tendinopathy and Tendon Rupture: Fluoroquinolones, including CIPRO XR, are associated with an increased risk of tendinitis and tendon rupture in all ages.
+This adverse reaction most frequently involves the Achilles tendon, and rupture of the Achilles tendon may require surgical repair.
+Tendinitis and tendon rupture in the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites have also been reported.
+The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+Factors, in addition to age and corticosteroid use, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
+Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
+Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
+CIPRO XR should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
+
+THE SAFETY AND EFFECTIVENESS OF CIPRO XR IN PEDIATRIC PATIENTS AND ADOLESCENTS (UNDER THE AGE OF 18 YEARS), PREGNANT WOMEN, AND NURSING WOMEN HAVE NOT BEEN ESTABLISHED.
+(See PRECAUTIONS: Pediatric Use, Pregnancy, and Nursing Mothers subsections.)
 The oral administration of ciprofloxacin caused lameness in immature dogs.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species.
@@ -54,12 +65,6 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 Peripheral neuropathy: Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
 Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
 
-Tendon Effects: Ruptures of the shoulder, hand, Achilles tendon or other tendons that required surgical repair or resulted in prolonged disability have been reported in patients receiving quinolones, including ciprofloxacin.
-Post-marketing surveillance reports indicate that this risk may be increased in patients receiving concomitant corticosteroids, especially the elderly.
-Ciprofloxacin should be discontinued if the patient experiences pain, inflammation, or rupture of a tendon.
-Patients should rest and refrain from exercise until the diagnosis of tendonitis or tendon rupture has been excluded.
-Tendon rupture can occur during or after therapy with quinolones, including ciprofloxacin.
-
 # PRECAUTIONS
 
 ## General:
@@ -77,7 +82,7 @@ Quinolones, including ciprofloxacin, may also cause central nervous system (CNS)
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Events).
+Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS.
 
 Prescribing CIPRO XR in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -85,6 +90,8 @@ Prescribing CIPRO XR in the absence of a proven or strongly suspected bacterial 
 
 Patients should be advised:
 
+- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO XR treatment.
+  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - that antibacterial drugs including CIPRO XR should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When CIPRO XR is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -106,8 +113,6 @@ Patients should be advised:
   If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
 - that peripheral neuropathies have been associated with ciprofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
-- to discontinue CIPRO XR treatment; rest and refrain from exercise; and inform their physician if they experience pain, inflammation, or rupture of a tendon.
-  The risk of serious tendon disorders with quinolones is higher in those over 65 years of age, especially those on corticosteroids.
 - that CIPRO XR may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
 - that ciprofloxacin increases the effects of tizanidine (Zanaflex®).
   Patients should not use ciprofloxacin if they are already taking tizanidine.
@@ -235,6 +240,12 @@ Ciprofloxacin causes arthropathy in juvenile animals.
 
 ## Geriatric Use:
 
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as CIPRO XR.
+This risk is further increased in patients receiving concomitant corticosteroid therapy.
+Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
+Caution should be used when prescribing CIPRO XR to elderly patients especially those on corticosteroids.
+Patients should be informed of this potential side effect and advised to discontinue CIPRO XR and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See BOXED WARNING, WARNINGS, and ADVERSE REACTIONS).
+
 In a large, prospective, randomized CIPRO XR clinical trial in complicated urinary tract infections, 49% (509/1035) of the patients were 65 and over, while 30% (308/1035) were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and clinical experience with other formulations of ciprofloxacin has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
@@ -244,9 +255,3 @@ However, since some older individuals experience reduced renal function by virtu
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using CIPRO XR with concomitant drugs that can result in prolongation of the QT interval (e.g., class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia).
-
-Patients over 65 years of age are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as CIPRO XR.
-This risk is further increased in patients receiving concomitant corticosteroid therapy.
-Tendon rupture usually involves the Achilles, hand, or shoulder tendons and can occur during therapy or up to a few months post completion of therapy.
-Caution should be used when prescribing CIPRO XR to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue therapy and inform their physicians if any tendon symptoms occur.
