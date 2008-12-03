@@ -168,10 +168,10 @@ It may harm them.
 
 The inactive ingredients of COSOPT are sodium citrate, hydroxyethylcellulose, sodium hydroxide, mannitol, water for injection and benzalkonium chloride added as a preservative.
 
-Issued April 2008
+Issued July 2008
 
 MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
 
-9711302
+9711303
 
-154A-03/08 516005Z
+309A-07/08 516023Z

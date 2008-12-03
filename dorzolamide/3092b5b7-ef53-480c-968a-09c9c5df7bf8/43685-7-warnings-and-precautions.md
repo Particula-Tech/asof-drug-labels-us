@@ -70,6 +70,9 @@ There have been reports of bacterial keratitis associated with the use of multip
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
 (See PRECAUTIONS, Information for Patients.)
 
+There is an increased potential for developing corneal edema in patients with low endothelial cell counts.
+Precautions should be used when prescribing COSOPT to this group of patients.
+
 ## Information for Patients
 
 Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product.

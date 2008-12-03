@@ -35,8 +35,8 @@ Manuf. for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 By: Laboratories Merck Sharp & Dohme-Chibret, 63963 Clermont-Ferrand Cedex 9, France
 
-Issued April 2008
+Issued July 2008
 
-9711302
+9711303
 
-154A-03/08 516005Z
+309A-07/08 516023Z
