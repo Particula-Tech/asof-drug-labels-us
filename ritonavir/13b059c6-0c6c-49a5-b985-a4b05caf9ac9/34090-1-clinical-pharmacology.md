@@ -38,7 +38,7 @@ One ZDV-resistant HIV isolate tested in vitro retained full susceptibility to ri
 
 ## Pharmacokinetics
 
-The pharmacokinetics of ritonavir have been studied in healthy volunteers and HIV-infected patients (CD4≥ 50 cells/µL).
+The pharmacokinetics of ritonavir have been studied in healthy volunteers and HIV-infected patients (CD4 ≥ 50 cells/µL).
 See Table 1 for ritonavir pharmacokinetic characteristics.
 
 ### Absorption
@@ -81,6 +81,16 @@ Ritonavir Pharmacokinetic Characteristics
 | RBC/Plasma Ratio |  | 0.14 |
 | Percent Bound* |  | 98 to 99% |
 | † SS = steady state; patients taking ritonavir 600 mg q12h.‡ Single ritonavir 600 mg dose.* Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 µg/mL. |  |  |
+
+### Effects on Electrocardiogram
+
+QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once-daily) controlled crossover study in 45 healthy adults, with 10 measurements over 12 hours on Day 3.
+The maximum mean (95% upper confidence bound) time-matched difference in QTcF from placebo after baseline correction was 5.5 (7.6) milliseconds (msec) for 400 mg twice-daily ritonavir.
+Ritonavir 400 mg twice daily resulted in Day 3 ritonavir exposure that was approximately 1.5 fold higher than observed with ritonavir 600 mg twice-daily dose at steady state.
+
+PR interval prolongation was also noted in subjects receiving ritonavir in the same study on Day 3.
+The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir.
+See PRECAUTIONS– PR Interval Prolongation.
 
 ### Special Populations
 

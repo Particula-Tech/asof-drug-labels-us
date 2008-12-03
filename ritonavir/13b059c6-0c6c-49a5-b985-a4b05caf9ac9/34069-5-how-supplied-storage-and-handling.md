@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-NORVIR (ritonavir capsules) soft gelatin are white capsules imprinted with the corporate Abbott “A” logo, 100 and the Abbo-Code DS, available in the following package size:
+NORVIR (ritonavir capsules) soft gelatin are white capsules imprinted with the corporate Abbott“A” logo, 100 and the Abbo-Code DS, available in the following package size:
 
 Bottles of 120 capsules each (NDC 0074-6633-22).
 Bottles of 30 capsules each (NDC 0074-6633-30).

@@ -8,7 +8,7 @@ Please read this leaflet carefully before you start taking NORVIR.
 Also, read it each time you get your NORVIR prescription refilled, just in case something has changed.
 Remember that this information does not take the place of careful discussions with your doctor when you start this medication and at check ups.
 
-You should remain under a doctor's care when taking NORVIR and you should not change or stop treatment without first talking with your doctor.
+You should remain under a doctor's care when taking NORVIR andyou should not change or stop treatment without first talking with your doctor.
 
 You should tell your doctor about any medicine you are taking or planning to take because taking NORVIR with some medications can result in serious or life-threatening problems.
 
@@ -155,7 +155,7 @@ Your doctor can explain these symptoms to you.
   If you have questions about side effects, ask your doctor, nurse, or pharmacist.
   You should report any new or continuing symptoms to your doctor right away.
   Your doctor may be able to help you manage these side effects.
-- The most commonly reported side effects are:feeling weak/tired, nausea, vomiting, diarrhea, loss of appetite, abdominal pain, changes in taste, tingling feeling or numbness in hands or feet or around the lips, headache, and dizziness.
+- The most commonly reported side effects are: feeling weak/tired, nausea, vomiting, diarrhea, loss of appetite, abdominal pain, changes in taste, tingling feeling or numbness in hands or feet or around the lips, headache, and dizziness.
 - Blood tests in patients taking NORVIR may show possible liver problems.
   People with liver disease such as Hepatitis B and Hepatitis C who take NORVIR may have worsening liver disease.
   Liver problems including rare cases of death have occurred in patients taking NORVIR.
@@ -175,6 +175,9 @@ Your doctor can explain these symptoms to you.
   The cause and long term health effects of these conditions are not known at this time.
 - Some patients with hemophilia have increased bleeding with protease inhibitors.
 - Allergic reactions ranging from mild to severe have occurred in patients taking NORVIR.
+- Changes in the electrocardiogram (EKG).
+  Consult your physician if you experience dizziness, lightheadedness, fainting spells or abnormal heart beat.
+  Patients with heart defects or conduction defects should avoid NORVIR.
 
 There have been other side effects noted in patients receiving NORVIR; however, these side effects may have been due to other medicines that patients were taking or to the illness itself.
 Some of these side effects can be serious.

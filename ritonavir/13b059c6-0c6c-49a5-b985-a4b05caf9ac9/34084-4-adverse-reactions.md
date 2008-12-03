@@ -73,7 +73,7 @@ Cardiovascular disorder, cerebral ischemia, cerebral venous thrombosis, hyperten
 
 ### Digestive System
 
-Abnormal stools, bloody diarrhea, cheilitis, cholestaticjaundice, colitis, dry mouth, dysphagia, eructation, esophageal ulcer, esophagitis, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal hemorrhage, gingivitis, hepatic coma, hepatitis, hepatomegaly, hepatosplenomegaly, ileus, liver damage, melena, mouth ulcer, pancreatitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, sialadenitis, stomatitis, tenesmus, thirst, tongue edema, and ulcerative colitis.
+Abnormal stools, bloody diarrhea, cheilitis, cholestatic jaundice, colitis, dry mouth, dysphagia, eructation, esophageal ulcer, esophagitis, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal hemorrhage, gingivitis, hepatic coma, hepatitis, hepatomegaly, hepatosplenomegaly, ileus, liver damage, melena, mouth ulcer, pancreatitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, sialadenitis, stomatitis, tenesmus, thirst, tongue edema, and ulcerative colitis.
 
 ### Endocrine System
 
@@ -127,6 +127,8 @@ Redistribution/accumulation of body fat has been reported (see PRECAUTIONS - Fat
 
 #### Cardiovascular System
 
+First –degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported (See PRECAUTIONS – PR Interval Prolongation ).
+
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazodone, fluoxetine, and beta blockers.
 The possibility of drug interaction cannot be excluded.
 
@@ -175,10 +177,10 @@ Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and H
 
 ### Treatment-Emergent Adverse Events
 
-NORVIR has been studied in 265 pediatric patients > 1 month to 21 years of age.
+NORVIR has been studied in 265 pediatric patients> 1 month to 21 years of age.
 The adverse event profile observed during pediatric clinical trials was similar to that for adult patients.
 
-Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in ≥ 2% of pediatricpatients enrolled in NORVIR clinical trials.
+Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in ≥ 2% of pediatric patients enrolled in NORVIR clinical trials.
 
 ### Laboratory Abnormalities
 

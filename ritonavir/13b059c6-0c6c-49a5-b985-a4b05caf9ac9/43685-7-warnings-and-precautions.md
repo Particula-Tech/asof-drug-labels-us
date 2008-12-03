@@ -88,6 +88,16 @@ In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced.
 A causal relationship has not been established.
 
+## PR Interval Prolongation
+
+Ritonavir prolongs the PR interval in some patients.
+Post marketing cases of second or third degree atrioventricular block have been reported in patients.
+NORVIR should be used with caution in patients with underlying structural heart disease, preexisting conduction system abnormalities, ischemic heart disease, cardiomyopathies, as these patients may be at increased risk for developing cardiac conduction abnormalities.
+The impact on the PR interval of co-administration of ritonavir with other drugs that prolong the PR interval (including calcium channel blockers, beta-adrenergic blockers, digoxin and atazanavir) has not been evaluated.
+As a result, co-administration of ritonavir with these drugs should be undertaken with caution, particularly with those drugs metabolized by CYP3A.
+Clinical monitoring is recommended.
+See CLINICAL PHARMACOLOGY - Effects on Electrocardiogram.
+
 ## Fat Redistribution
 
 Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
@@ -129,6 +139,9 @@ NORVIR may interact with some drugs; therefore, patients should be advised to re
 
 Patients receiving PDE5 inhibitors for erectile dysfunction (eg, sildenafil, tadalafil, or vardenafil) should be advised that they may be at an increased risk of associated adverse events including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
 Patients receiving estrogen-based hormonal contraceptives should be instructed that additional or alternate contraceptive measures should be used during therapy with NORVIR.
+
+Patients should be informed that NORVIR may produce changes in the electrocardiogram (eg, PR prolongation).
+Patients should consult their physician if they experience symptoms such as dizziness, lightheadedness, abnormal heart rhythm, or loss of consciousness.
 
 ## Laboratory Tests
 
@@ -202,7 +215,7 @@ Established and Other Potentially Significant Drug Interactions: Alteration in D
 | Antidepressant: trazodone | ↑ trazodone | Concomitant use of trazodone and NORVIR increases plasma concentrations of trazodone. Adverse events of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and NORVIR. If trazodone is used with a CYP3A4 inhibitor such as ritonavir, the combination should be used with caution and a lower dose of trazodone should be considered. |
 | Antiemetic: dronabinol | ↑ dronabinol | A dose decrease of dronabinol may be needed when co-administered with ritonavir. |
 | Antifungal: ketoconazole itraconazole | ↑ ketoconazole ↑ itraconazole | High doses of ketoconazole or itraconazole (> 200 mg/day) are not recommended. |
-| Anti-infective: clarithromycin | ↑ clarithromycin | For patients with renal impairment the following dosage adjustments should be considered: For patients with CLCR 30 to 60 mL/min the dose of clarithromycin should be reduced by 50%.For patients with CLCR< 30 mL/min the dose of clarithromycin should be decreased by 75%. No dose adjustment for patients with normal renal function is necessary. |
+| Anti-infective: clarithromycin | ↑ clarithromycin | For patients with renal impairment the following dosage adjustments should be considered: For patients with CLCR 30 to 60 mL/min the dose of clarithromycin should be reduced by 50%.For patients with CLCR < 30 mL/min the dose of clarithromycin should be decreased by 75%. No dose adjustment for patients with normal renal function is necessary. |
 | Antimycobacterial: rifabutin | ↑ rifabutin and rifabutin metabolite | Dosage reduction of rifabutin by at least three-quarters of the usual dose of 300 mg/day is recommended (e.g., 150 mg every other day or three times a week). Further dosage reduction may be necessary. |
 | Antimycobacterial: rifampin | ↓ ritonavir | May lead to loss of virologic response. Alternate antimycobacterial agents such as rifabutin should be considered (see Antimycobacterial: rifabutin, for dose reduction recommendations). |
 | Antiparasitic: atovaquone | ↓ atovaquone | Clinical significance is unknown; however, increase in atovaquone dose may be needed. |
@@ -212,7 +225,7 @@ Established and Other Potentially Significant Drug Interactions: Alteration in D
 | Calcium channel blockers: diltiazem, nifedipine, verapamil | ↑ calcium channel blockers | Caution is warranted and clinical monitoring of patients is recommended.A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Digoxin | ↑ digoxin | Concomitant administration of ritonavir with digoxin may increase digoxin levels. Caution should be exercised when coadministering ritonavir with digoxin, with appropriate monitoring of serum digoxin levels. |
 | PDE5 Inhibitors: sildenafil, tadalafil, vardenafil | ↑ sildenafil ↑ tadalafil ↑ vardenafil | Sildenafil: Particular caution should be used when prescribing sildenafil in patients receiving ritonavir. Coadministration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in an increase in sildenafil-associated adverse events, including hypotension, syncope, visual changes, and prolonged erection The starting dose should not, in any case, exceed 25 mg in a 48-hour period in patients receiving concomitant ritonavir therapy (see WARNINGS). Tadalafil: Use tadalafil with caution at reduced doses of no more than 10 mg every 72 hours with increased monitoring for adverse events.Vardenafil: Use vardenafil with caution at reduced doses of no more than 2.5 mg every 72 hours with increased monitoring for adverse events (see WARNINGS). |
-| HMG-CoA Reductase Inhibitor: atorvastatin rosuvastation | ↑ atorvastatin ↑ rosuvastation | Use the lowest possible dose of atorvastatin or rosuvastation with careful monitoring or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with Norvir. |
+| HMG-CoA Reductase Inhibitor: atorvastatin rosuvastatin | ↑ atorvastatin ↑ rosuvastatin | Use the lowest possible dose of atorvastatin or rosuvastatin with careful monitoring or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with Norvir. |
 | Immuno-suppressants: cyclosporine, tacrolimus, sirolimus (rapamycin) | ↑ immuno-suppressants | Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with ritonavir. |
 | Inhaled Steroid: Fluticasone | ↑ fluticasone | Concomitant use of fluticasone propionate and NORVIR increases plasma concentrations of fluticasone propionate, resulting in significantly reduced serum cortisol concentrations. Co-administration of fluticasone propionate and NORVIR is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects (see WARNINGS). |
 | Narcotic Analgesic: methadone | ↓ methadone | Dosage increase of methadone may be considered. |
