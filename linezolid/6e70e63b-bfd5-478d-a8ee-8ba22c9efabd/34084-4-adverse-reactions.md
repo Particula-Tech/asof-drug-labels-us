@@ -194,5 +194,7 @@ Although these reports have primarily been in patients treated for longer than t
 Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and ZYVOX (see PRECAUTIONS).
 Convulsions have been reported with the use of ZYVOX (see PRECAUTIONS).
 Anaphylaxis, angioedema, and bullous skin disorders such as those described as Stevens Johnson syndrome have been reported.
+Superficial tooth discoloration has been reported with the use of linezolid.
+The discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to ZYVOX, or a combination of these factors.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made and causal relationship cannot be precisely established.

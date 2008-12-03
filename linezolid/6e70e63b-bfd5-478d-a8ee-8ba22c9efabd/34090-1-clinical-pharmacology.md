@@ -146,6 +146,10 @@ Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when a
 
 Gentamicin: The pharmacokinetics of linezolid or gentamicin are not altered when administered together.
 
+Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was studied in sixteen healthy adult male volunteers administered linezolid 600 mg twice daily for 2.5 days with and without rifampin 600 mg once daily for 8 days.
+Rifampin decreased the linezolid Cmax and AUC by a mean 21% [90% CI, 15, 27] and a mean 32% [90% CI, 27, 37], respectively.
+The mechanism of this interaction and its clinical significance are unknown (see PRECAUTIONS, Drug Interactions).
+
 ### Monoamine Oxidase Inhibition
 
 Linezolid is a reversible, nonselective inhibitor of monoamine oxidase.

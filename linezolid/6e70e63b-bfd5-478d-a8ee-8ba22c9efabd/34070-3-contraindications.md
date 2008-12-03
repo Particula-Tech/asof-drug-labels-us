@@ -4,11 +4,11 @@ ZYVOX formulations are contraindicated for use in patients who have known hypers
 
 ## Monoamine Oxidase Inhibitors
 
-Linezolid should not be used in patients taking any medicinal product which inhibits monoamine oxidases A or B (e.g. phenelzine, isocarboxazid) or within two weeks of taking any such medicinal product.
+Linezolid should not be used in patients taking any medicinal product which inhibits monoamine oxidases A or B (e.g., phenelzine, isocarboxazid) or within two weeks of taking any such medicinal product.
 
 ## Potential Interactions Producing Elevation of Blood Pressure
 
-Unless patients are monitored for potential increases in blood pressure, linezolid should not be administered to patients with uncontrolled hypertension, pheochromocytoma, thyrotoxicosis and/or patients taking any of the following types of medications: directly and indirectly acting sympathomimetic agents (e.g. pseudoephedrine), vasopressive agents (e.g. epinephrine, norepinephrine), dopaminergic agents (e.g. dopamine, dobutamine) (see PRECAUTIONS, Drug Interactions).
+Unless patients are monitored for potential increases in blood pressure, linezolid should not be administered to patients with uncontrolled hypertension, pheochromocytoma, thyrotoxicosis and/or patients taking any of the following types of medications: directly and indirectly acting sympathomimetic agents (e.g., pseudoephedrine), vasopressive agents (e.g., epinephrine, norepinephrine), dopaminergic agents (e.g., dopamine, dobutamine) (see PRECAUTIONS, Drug Interactions).
 
 ## Potential Serotonergic Interactions
 
