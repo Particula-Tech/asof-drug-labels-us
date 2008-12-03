@@ -9,10 +9,10 @@ MAO and BAO were determined 21 hours following the last dose of oral medication 
 MAO was calculated from two hours of continuous collection of gastric contents following a subcutaneous injection of 6.0 µg/kg of pentagastrin.
 BAO was calculated from one hour of continuous collection of gastric contents.
 
-This study demonstrated that, after seven days of repeated oral administration followed by 7 days of intravenous administration, the oral and intravenous dosage forms of PREVACID were similar in their ability to suppress MAO and BAO in patients with erosive esophagitis (refer to the table below).
+This study demonstrated that, after seven days of repeated oral administration followed by 7 days of intravenous administration, the oral and intravenous dosage forms of PREVACID were similar in their ability to suppress MAO and BAO in patients with erosive esophagitis (refer to Table 3).
 Also, patients receiving oral PREVACID, who were switched to intravenous placebo, experienced a significant increase in acid output within 48 hours of their last oral dose.
 
-Acid Output (mEq/h) in Erosive Esophagitis Patients
+Table 3: Acid Output (mEq/h) in Erosive Esophagitis Patients
 
 | (last oral dose) |  |  |  |
 | --- | --- | --- | --- |

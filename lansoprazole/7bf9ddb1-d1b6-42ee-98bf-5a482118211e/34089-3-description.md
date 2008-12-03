@@ -3,7 +3,7 @@
 The active ingredient in PREVACID I.V.
 (lansoprazole) for Injection is a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl] methyl] sulfinyl] benzimidazole, a compound that inhibits gastric acid secretion.
 Its empirical formula is C16H14F3N3O2S with a molecular weight of 369.37.
-The structural formula is:
+PREVACID has the following structure:
 
 Lansoprazole is a white to brownish-white odorless crystalline powder which melts with decomposition at approximately 166°C.
 Lansoprazole is freely soluble in dimethylformamide; soluble in methanol; sparingly soluble in ethanol; slightly soluble in ethyl acetate, dichloromethane and acetonitrile; very slightly soluble in ether; and practically insoluble in hexane and water.

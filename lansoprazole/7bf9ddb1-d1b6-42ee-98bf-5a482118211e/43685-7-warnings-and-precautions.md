@@ -24,23 +24,23 @@ Lansoprazole causes a profound and long-lasting inhibition of gastric acid secre
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In two 24-month carcinogenicity studies, Sprague-Dawley rats were treated orally with doses of 5 to 150 mg/kg/day, about 1 to 40 times the exposure on a body surface (mg/m2) basis, of a 50-kg person of average height (1.46 m2 body surface area) given the recommended human dose of 30 mg/day (22.2 mg/m2).
+In two 24-month carcinogenicity studies, Sprague-Dawley rats were treated orally with doses of 5 to 150 mg/kg/day-about 1 to 40 times the exposure on a body surface (mg/m2) basis of a 50-kg person of average height [1.46 m2 body surface area (BSA)] given the recommended human dose of 30 mg/day (22.2 mg/m2).
 Lansoprazole produced dose-related gastric enterochromaffin-like (ECL) cell hyperplasia and ECL cell carcinoids in both male and female rats.
 It also increased the incidence of intestinal metaplasia of the gastric epithelium in both sexes.
 In male rats, lansoprazole produced a dose-related increase of testicular interstitial cell adenomas.
-The incidence of these adenomas in rats receiving doses of 15 to 150 mg/kg/day (4 to 40 times the recommended human dose based on body surface area) exceeded the low background incidence (range = 1.4 to 10%) for this strain of rat.
-Testicular interstitial cell adenoma also occurred in 1 of 30 rats treated with 50 mg/kg/day (13 times the recommended human dose based on body surface area) in a 1-year toxicity study.
+The incidence of these adenomas in rats receiving doses of 15 to 150 mg/kg/day (4 to 40 times the recommended human dose based on BSA) exceeded the low background incidence (range = 1.4 to 10%) for this strain of rat.
+Testicular interstitial cell adenoma occurred in 1 of 30 rats treated with 50 mg/kg/day (13 times the recommended human dose based on BSA) in a 1-year toxicity study.
 
-In a 24-month carcinogenicity study, CD-1 mice were treated orally with doses of 15 to 600 mg/kg/day, 2 to 80 times the recommended human dose based on body surface area.
+In a 24-month carcinogenicity study, CD-1 mice were treated orally with doses of 15 to 600 mg/kg/day, 2 to 80 times the recommended human dose based on BSA.
 Lansoprazole produced a dose-related increased incidence of gastric ECL cell hyperplasia.
 It also produced an increased incidence of liver tumors (hepatocellular adenoma plus carcinoma).
-The tumor incidences in male mice treated with 300 and 600 mg/kg/day (40 to 80 times the recommended human dose based on body surface area) and female mice treated with 150 to 600 mg/kg/day (20 to 80 times the recommended human dose based on body surface area) exceeded the ranges of background incidences in historical controls for this strain of mice.
-Lansoprazole treatment produced adenoma of rete testis in male mice receiving 75 to 600 mg/kg/day (10 to 80 times the recommended human dose based on body surface area).
+The tumor incidences in male mice treated with 300 and 600 mg/kg/day (40 to 80 times the recommended human dose based on BSA) and female mice treated with 150 to 600 mg/kg/day (20 to 80 times the recommended human dose based on BSA) exceeded the ranges of background incidences in historical controls for this strain of mice.
+Lansoprazole treatment produced adenoma of rete testis in male mice receiving 75 to 600 mg/kg/day (10 to 80 times the recommended human dose based on BSA).
 
-Lansoprazole was not genotoxic in the Ames test, the ex vivo rat hepatocyte unscheduled DNA synthesis (UDS) test, the in vivo mouse micronucleus test or the rat bone marrow cell chromosomal aberration test.
+Lansoprazole was not genotoxic in the Ames test, the ex vivo rat hepatocyte unscheduled DNA synthesis (UDS) test, the in vivo mouse micronucleus test, or the rat bone marrow cell chromosomal aberration test.
 It was positive in in vitro human lymphocyte chromosomal aberration assays.
 
-Lansoprazole at intravenous doses of up to 30 mg/kg/day (approximately 8 times the recommended human dose based on body surface area) was found to have no effect on fertility and reproductive performance in male and female rats.
+Lansoprazole at intravenous doses of up to 30 mg/kg/day (approximately 8 times the recommended human dose based on BSA) was found to have no effect on fertility and reproductive performance in male and female rats.
 
 ## Pregnancy
 
@@ -48,17 +48,17 @@ Lansoprazole at intravenous doses of up to 30 mg/kg/day (approximately 8 times t
 
 #### Pregnancy Category B
 
-Teratology studies have been conducted in rats and rabbits using intravenous doses of up to 30 mg/kg/day (approximately 8 times in rats and 16 times in rabbits of the recommended human dose based on body surface area).
+Teratology studies have been conducted in rats and rabbits using intravenous lansoprazole doses of up to 30 mg/kg/day (approximately 8 times in rats and 16 times in rabbits of the recommended human dose based on BSA).
 Treatment with lansoprazole did not result in any impairment of fertility or harm to the fetus.
 
 However, there are no adequate and well-controlled studies in pregnant women using the intravenous route.
-Because animal reproduction studies are not always predicative of human response, this drug should be used during pregnancy only if clearly needed.
+Because animal reproduction studies are not always predicative of human response, PREVACID I.V. for Injection should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
 
 Lansoprazole or its metabolites are excreted in the milk of rats.
 It is not known whether lansoprazole is excreted in human milk.
-Because many drugs are excreted in human milk, because of the potential for serious adverse reactions in nursing infants from lansoprazole, and because of the potential for tumorigenicity shown for lansoprazole in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk, because of the potential for serious adverse reactions in nursing infants from lansoprazole, and because of the potential for tumorigenicity shown for lansoprazole in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue PREVACID I.V. for Injection, taking into account the importance of PREVACID I.V. for Injection to the mother.
 
 ## Pediatric Use
 
@@ -67,14 +67,14 @@ For further information, please see the PREVACID package insert for the oral for
 
 ## Use in Women
 
-Among intravenous lansoprazole treated subjects, similar percentages of adverse events were reported in males and females.
+Among intravenous PREVACID treated subjects, similar percentages of adverse events were reported in males and females.
 
-Over 4,000 women were treated with oral lansoprazole.
+Over 4,000 women were treated with oral PREVACID.
 Ulcer healing rates in females were similar to those in males.
-The incidence rates of adverse events were also similar to those seen in males.
+The incidence rates of adverse events in females were also similar to those seen in males.
 
 ## Use in Geriatric Patients
 
 Data in elderly patients administered intravenous lansoprazole is limited; however, with oral lansoprazole, ulcer healing rates in elderly patients are similar to those in a younger age group.
-The incidence rates of adverse events and laboratory test abnormalities are also similar to those seen in younger patients.
-For elderly patients, dosage and administration of lansoprazole need not be altered for a particular indication.
+The incidence rates of PREVACID-associated adverse events and laboratory test abnormalities are similar to those seen in younger patients.
+For geriatric patients, dosage and administration of PREVACID need not be altered for a particular indication.

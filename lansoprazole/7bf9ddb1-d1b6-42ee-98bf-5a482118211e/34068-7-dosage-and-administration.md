@@ -2,7 +2,7 @@
 
 PREVACID I.V. for Injection admixtures should be administered intravenously using the in-line filter provided.
 The filter must be used to remove precipitate that may form when the reconstituted drug product is mixed with I.V. solutions.
-Studies have shown that filtration does not alter the amount of drug that is available for administration.
+Studies have shown that filtration does not alter the amount of lansoprazole that is available for administration.
 Read the following instructions carefully.
 
 There are two methods for preparing PREVACID I.V. for Injection:
@@ -13,11 +13,11 @@ There are two methods for preparing PREVACID I.V. for Injection:
 
 ## 1. Reconstitution in Vial and Preparation of Admixture
 
-There are two steps for preparing Prevacid I.V. for Injection.
+There are two steps for preparing PREVACID I.V. for Injection.
 
 STEP ONE - Reconstitution in Vial
 
-- -First Prevacid I.V.
+- -First PREVACID I.V.
   MUST be reconstituted with Sterile Water for Injection, USP.
 - -Inject 5 mL of ONLY Sterile Water for Injection, USP into a 30 mg vial of PREVACID I.V. for Injection.
   The resulting solution will contain lansoprazole 6 mg/mL (30 mg/5 mL).
@@ -30,8 +30,10 @@ The reconstituted solution can be held for 1 hour when stored at 25°C (77°F) p
 STEP TWO - Preparation of Admixture
 
 - -Dilute the reconstituted solution in either 50 mL of 0.9% Sodium Chloride Injection, USP, Lactated Ringer's Injection, USP, or 5% Dextrose Injection, USP.
-- -The admixture should be stored at 25°C (77°F) and should be administered within the designated time period as listed in the Table below.
+- -The admixture should be stored at 25°C (77°F) and should be administered within the designated time period as listed in Table 5.
   No refrigeration is required.
+
+Table 5
 
 | Diluent | pH | Administer within: |
 | --- | --- | --- |
@@ -47,8 +49,10 @@ STEP TWO - Preparation of Admixture
 - -Refer to separate instructions that are provided with Baxter's MINI-BAG Plus Container.
 - -Once the admixture is prepared, proceed to Instructions for Priming and Use of Filter.
 
-The admixture should be stored at 25°C (77°F) and should be administered within the designated time period as listed in the Table below.
+The admixture should be stored at 25°C (77°F) and should be administered within the designated time period as listed in Table 6.
 No refrigeration is required.
+
+Table 6
 
 | Diluent | pH | Administer within: |
 | --- | --- | --- |
@@ -89,22 +93,24 @@ Follow instructions carefully:
 
 ## Administration
 
+Do not administer with other drugs or diluents as this may cause incompatibilities.
+
 IN-LINE FILTER THAT IS PROVIDED MUST BE USED when administering PREVACID I.V. for Injection via an administration set.
 
-As lansoprazole may be incompatible with other drugs and/or diluents, follow these steps:
+Follow these steps:
 
-1. Flush the PREVACID I.V. for Injection administration port before administration of PREVACID I.V. for Injection with either:
+1. Flush the PREVACID I.V. for Injection administration port before administration of PREVACID I.V. for Injection with at least 5 cc of either:
    - 0.9% Sodium Chloride Injection, USP,
    - Lactated Ringer’s Injection, USP, or
    - 5% Dextrose Injection, USP.
 2. Attach the filter and administration set.
-3. Administer the drug over 30 minutes.
+3. Administer PREVACID I.V. for Injection over 30 minutes.
 4. Remove and discard the administration set, including the filter, used for PREVACID I.V. for Injection.
-5. Flush the administration port.
+5. Flush the administration port with at least 5 cc of above mentioned solutions.
 
 If the administration port is not flushed and the administration set is not removed, lansoprazole degradation may occur with time, and black or brown particulate may be observed in the tubing or on the filter.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 
 ## Treatment of Erosive Esophagitis
 
