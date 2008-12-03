@@ -12,12 +12,12 @@ The mean (± SD) Cmax and AUC values following single and multiple doses of 400 
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
-| Single Dose Oral Healthy (n = 372) | 3.1 ± 1.0 | 36.1 ± 9.1 | 11.5 - 15.6Range of means from different studies |
+| Single Dose Oral Healthy (n = 372) | 3.1 ± 1 | 36.1 ± 9.1 | 11.5 - 15.6Range of means from different studies |
 | Multiple Dose Oral |  |  |  |
-| Healthy young male/female (n = 15) | 4.5 ± 0.5 | 48.0 ± 2.7 | 12.7 ± 1.9 |
+| Healthy young male/female (n = 15) | 4.5 ± 0.5 | 48 ± 2.7 | 12.7 ± 1.9 |
 | Healthy elderly male (n = 8) | 3.8 ± 0.3 | 51.8 ± 6.7 |  |
 | Healthy elderly female (n = 8) | 4.6 ± 0.6 | 54.6 ± 6.7 |  |
-| Healthy young male (n = 8) | 3.6 ± 0.5 | 48.2 ± 9.0 |  |
+| Healthy young male (n = 8) | 3.6 ± 0.5 | 48.2 ± 9 |  |
 | Healthy young female (n = 9) | 4.2 ± 0.5 | 49.3 ± 9.5 |  |
 
 The mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1 hour I.V. infusion are summarized below.
@@ -28,11 +28,11 @@ The mean (± SD) Cmax and AUC values following single and multiple doses of 400 
 | Healthy young male/female (n = 56) | 3.9 ± 0.9 | 39.3 ± 8.6 | 8.2 - 15.4Range of means from different studies |
 | Patients (n = 118) |  |  |  |
 | Male (n = 64) | 4.4 ± 3.7 |  |  |
-| Female (n = 54) | 4.5 ± 2.0 |  |  |
+| Female (n = 54) | 4.5 ± 2 |  |  |
 | < 65 years (n = 58) | 4.6 ± 4.2 |  |  |
 | ≥ 65 years (n = 60) | 4.3 ± 1.3 |  |  |
 | Multiple Dose I.V. |  |  |  |
-| Healthy young male (n = 8) | 4.2 ± 0.8 | 38.0 ± 4.7 | 14.8 ± 2.2 |
+| Healthy young male (n = 8) | 4.2 ± 0.8 | 38 ± 4.7 | 14.8 ± 2.2 |
 | Healthy elderly (n =12; 8 male, 4 female) | 6.1 ± 1.3 | 48.2 ± 0.9 | 10.1 ± 1.6 |
 | PatientsExpected Cmax (concentration obtained around the time of the end of the infusion) (n = 107) |  |  |  |
 | Male (n = 58) | 4.2 ± 2.6 |  |  |
@@ -55,19 +55,19 @@ Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma
 | Tissue or Fluid | N | Plasma Concentration (µg/mL) | Tissue or Fluid Concentration (µg/mL or µg/g) | Tissue Plasma Ratio |
 | --- | --- | --- | --- | --- |
 | Respiratory |  |  |  |  |
-| Alveolar Macrophages | 5 | 3.3 ± 0.7 | 61.8 ± 27.3 | 21.2 ± 10.0 |
+| Alveolar Macrophages | 5 | 3.3 ± 0.7 | 61.8 ± 27.3 | 21.2 ± 10 |
 | Bronchial Mucosa | 8 | 3.3 ± 0.7 | 5.5 ± 1.3 | 1.7 ± 0.3 |
 | Epithelial Lining Fluid | 5 | 3.3 ± 0.7 | 24.4 ± 14.7 | 8.7 ± 6.1 |
 | Sinus |  |  |  |  |
-| Maxillary Sinus Mucosa | 4 | 3.7 ± 1.1N = 5 | 7.6 ± 1.7 | 2.0 ± 0.3 |
+| Maxillary Sinus Mucosa | 4 | 3.7 ± 1.1N = 5 | 7.6 ± 1.7 | 2 ± 0.3 |
 | Anterior Ethmoid Mucosa | 3 | 3.7 ± 1.1 | 8.8 ± 4.3 | 2.2 ± 0.6 |
 | Nasal Polyps | 4 | 3.7 ± 1.1 | 9.8 ± 4.5 | 2.6 ± 0.6 |
 | Skin, Musculoskeletal |  |  |  |  |
-| Blister Fluid | 5 | 3.0 ± 0.5N = 7 | 2.6 ± 0.9 | 0.9 ± 0.2 |
+| Blister Fluid | 5 | 3 ± 0.5N = 7 | 2.6 ± 0.9 | 0.9 ± 0.2 |
 | Subcutaneous Tissue | 6 | 2.3 ± 0.4N = 12 | 0.9 ± 0.3Reflects only non-protein bound concentrations of drug. | 0.4 ± 0.6 |
 | Skeletal Muscle | 6 | 2.3 ± 0.4 | 0.9 ± 0.2 | 0.4 ± 0.1 |
 | Intra-Abdominal |  |  |  |  |
-| Abdominal tissue | 8 | 2.9 ± 0.5 | 7.6 ± 2.0 | 2.7 ± 0.8 |
+| Abdominal tissue | 8 | 2.9 ± 0.5 | 7.6 ± 2 | 2.7 ± 0.8 |
 | Abdominal exudate | 10 | 2.3 ± 0.5 | 3.5 ±1.2 | 1.6 ± 0.7 |
 | Abscess fluid | 6 | 2.7 ± 0.7 | 2.3 ±1.5 | 0.8±0.4 |
 
@@ -85,7 +85,7 @@ In vitro studies with cytochrome (CYP) P450 enzymes indicate that moxifloxacin d
 
 Approximately 45% of an oral or intravenous dose of moxifloxacin is excreted as unchanged drug (~20% in urine and ~25% in feces).
 A total of 96% ± 4% of an oral dose is excreted as either unchanged drug or known metabolites.
-The mean (± SD) apparent total body clearance and renal clearance are 12 ± 2.0 L/hr and 2.6 ± 0.5 L/hr, respectively.
+The mean (± SD) apparent total body clearance and renal clearance are 12 ± 2 L/hr and 2.6 ± 0.5 L/hr, respectively.
 
 ## Special Populations
 
@@ -138,7 +138,7 @@ HD and CAPD also removed about 4% and 2% of the glucuronide metabolite (M2), res
 
 In 400 mg single oral dose studies in 6 patients with mild (Child Pugh Class A), and 10 patients with moderate (Child Pugh Class B), hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
-The mean AUC of the sulfate conjugate of moxifloxacin (M1) increased by 3.9-fold (ranging up to 5.9-fold) and 5.7-fold (ranging up to 8.0-fold) in the mild and moderate groups, respectively.
+The mean AUC of the sulfate conjugate of moxifloxacin (M1) increased by 3.9-fold (ranging up to 5.9-fold) and 5.7-fold (ranging up to 8-fold) in the mild and moderate groups, respectively.
 The mean Cmax of M1 increased by approximately 3-fold in both groups (ranging up to 4.7- and 3.9-fold).
 The mean AUC of the glucuronide conjugate of moxifloxacin (M2) increased by 1.5-fold (ranging up to 2.5-fold) in both groups.
 The mean Cmax of M2 increased by 1.6- and 1.3-fold (ranging up to 2.7- and 2.1-fold), respectively.
@@ -153,7 +153,7 @@ The minimum erythematous dose (MED) was measured before and after treatment with
 In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
 (See PRECAUTIONS, Information for Patients.)
 
-It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy (See ADVERSE REACTIONS and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports:.
+It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy (See ADVERSE REACTIONS and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
 
 ### Drug-drug Interactions
 

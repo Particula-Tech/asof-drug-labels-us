@@ -1,5 +1,15 @@
 # WARNINGS
 
+Tendinopathy and Tendon Rupture: Fluoroquinolones, including AVELOX, are associated with an increased risk of tendinitis and tendon rupture in all ages.
+This adverse reaction most frequently involves the Achilles tendon, and rupture of the Achilles tendon may require surgical repair.
+Tendinitis and tendon rupture in the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites have also been reported.
+The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+Factors, in addition to age and corticosteroid use, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
+Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
+Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
+AVELOX should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
+
 THE SAFETY AND EFFECTIVENESS OF MOXIFLOXACIN IN PEDIATRIC PATIENTS, ADOLESCENTS (LESS THAN 18 YEARS OF AGE), PREGNANT WOMEN, AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
 (SEE PRECAUTIONS-PEDIATRIC USE, PREGNANCY AND NURSING MOTHERS SUBSECTIONS.)
 
@@ -63,12 +73,6 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Peripheral neuropathy: Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones.
 
-Tendon Effects: Ruptures of the shoulder, hand, Achilles tendon or other tendons that required surgical repair or resulted in prolonged disability have been reported in patients receiving quinolones, including moxifloxacin.
-Post-marketing surveillance reports indicate that this risk may be increased in patients receiving concomitant corticosteroids, especially the elderly.
-Moxifloxacin should be discontinued if the patient experiences pain, inflammation, or rupture of a tendon.
-Patients should rest and refrain from exercise until the diagnosis of tendonitis or tendon rupture has been excluded.
-Tendon rupture can occur during or after therapy with quinolones, including moxifloxacin.
-
 # PRECAUTIONS
 
 ## General:
@@ -88,6 +92,8 @@ To assure safe and effective use of moxifloxacin, the following information and 
 
 Patients should be advised:
 
+- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue AVELOX treatment.
+  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - that antibacterial drugs including AVELOX should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When AVELOX is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -102,13 +108,11 @@ Patients should be advised:
 - that moxifloxacin tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or VIDEX® (didanosine) chewable/buffered tablets or the pediatric powder for oral solution.
   (See CLINICAL PHARMACOLOGY, Drug Interactions and PRECAUTIONS, Drug Interactions.)
 - that moxifloxacin may be associated with hypersensitivity reactions, including anaphylactic reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other signs of an allergic reaction.
-- to discontinue AVELOX treatment, rest and refrain from exercise; and inform their physician if they experience pain, inflammation, or rupture of a tendon.
-  The risk of serious tendon disorders with quinolones is higher in those over 65 years of age, especially those on corticosteroids.
 - that moxifloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
 - that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
-  If a sunburn-like reaction or skin eruption occurs, patients should contact their physician (see CLINICAL PHARMACOLOGY, Photosensitivity Potential).
+  If a sunburn-like reaction or skin eruption occurs, patients should contact their physician (see CLINICAL PHARMACOLOGY/Photosensitivity Potential).
 - that convulsions have been reported in patients receiving quinolones, and they should notify their physician before taking this drug if there is a history of this condition.
 - that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -183,6 +187,12 @@ Moxifloxacin causes arthropathy in juvenile animals.
 
 ## Geriatric Use:
 
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as AVELOX.
+This risk is further increased in patients receiving concomitant corticosteroid therapy.
+Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
+Caution should be used when prescribing AVELOX to elderly patients especially those on corticosteroids.
+Patients should be informed of this potential side effect and advised to discontinue AVELOX and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See BOXED WARNING:, WARNINGS, and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
+
 In controlled multiple-dose clinical trials, 23% of patients receiving oral moxifloxacin were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral moxifloxacin in patients aged 65 or older compared to younger adults.
 
@@ -190,9 +200,3 @@ In trials of intravenous use, 42% of moxifloxacin patients were greater than or 
 The clinical trial data demonstrate that the safety of intravenous moxifloxacin in patients aged 65 or older was similar to that of comparator-treated patients.
 In general, elderly patients may be more susceptible to drug-associated effects of the QT interval.
 Therefore, AVELOX should be avoided in patients taking drugs that can result in prolongation of the QT interval (e.g., class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia).
-
-Patients over 65 years of age are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as AVELOX.
-This risk is further increased in patients receiving concomitant corticosteroid therapy.
-Tendon rupture usually involves the Achilles, hand or shoulder tendons and can occur during therapy or up to a few months post completion of therapy.
-Caution should be used when prescribing AVELOX to elderly patients especially those on corticosteriods.
-Patients should be informed of this potential side effect and advised to discontinue therapy and inform their physicians if any tendon symptoms occur.

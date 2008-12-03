@@ -53,7 +53,7 @@ The clinical success rates by pathogen across four CAP studies are presented bel
 ## Community Acquired Pneumonia caused by Multi-Drug Resistant Streptococcus pneumoniae (MDRSP)*
 
 Avelox was effective in the treatment of community acquired pneumonia (CAP) caused by multi-drug resistant Streptococcus pneumoniae MDRSP* isolates.
-Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95.0%) achieved clinical and bacteriological success post-therapy.
+Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95%) achieved clinical and bacteriological success post-therapy.
 The clinical and bacteriological success rates based on the number of patients treated are shown in the table below.
 
 * MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 µg/mL), 2nd generation cephalosporins (e.g., cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
@@ -113,7 +113,7 @@ Overall Clinical Success Rates in Patients with Complicated Skin and Skin Struct
 
 | Study | Moxifloxacin n/ N (%) | Comparator n/N (%) | 95% Confidence Interval |
 | --- | --- | --- | --- |
-| North America | 125/162 (77.2%) | 141/173 (81.5%) | -14.4%, 2.0% |
+| North America | 125/162 (77.2%) | 141/173 (81.5%) | -14.4%, 2% |
 | International | 254/315 (80.6%) | 268/317 (84.5%) | -9.4%, 2.2% |
 
 Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
@@ -122,7 +122,7 @@ Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin St
 | --- | --- | --- |
 | Staphylococcus aureus (methicillin-susceptible strains)methicillin susceptibility was only determined in the North American Study | 106/129 (82.2%) | 120/137 (87.6%) |
 | Escherichia coli | 31/38 (81.6 %) | 28/33 (84.8 %) |
-| Klebsiella pneumoniae | 11/12 (91.7 %) | 7/10 (70.0%) |
+| Klebsiella pneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
 | Enterobacter cloacae | 9/11 (81.8%) | 4/7 (57.1%) |
 
 ## Complicated Intra-Abdominal Infections

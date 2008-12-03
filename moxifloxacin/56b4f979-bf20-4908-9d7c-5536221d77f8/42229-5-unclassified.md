@@ -1,5 +1,3 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of AVELOX® and other antibacterial drugs, AVELOX should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
-
 # MICROBIOLOGY
 
 Moxifloxacin has in vitro activity against a wide range of Gram-positive and Gram-negative microorganisms.
@@ -33,15 +31,15 @@ For testing Enterobacteriaceae and methicillin-susceptible Staphylococcus aureus
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
-| ≤ 2.0 | Susceptible (S) |
-| 4.0 | Intermediate (I) |
-| ≥ 8.0 | Resistant (R) |
+| ≤ 2 | Susceptible (S) |
+| 4 | Intermediate (I) |
+| ≥ 8 | Resistant (R) |
 
 For testing Haemophilus influenzae and Haemophilus parainfluenzaea:
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
-| ≤ 1.0 | Susceptible (S) |
+| ≤ 1 | Susceptible (S) |
 | a This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium1. |  |
 
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
@@ -51,9 +49,9 @@ For testing Streptococcus species including Streptococcus pneumoniae b and Enter
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
-| ≤ 1.0 | Susceptible (S) |
-| 2.0 | Intermediate (I) |
-| ≥ 4.0 | Resistant (R) |
+| ≤ 1 | Susceptible (S) |
+| 2 | Intermediate (I) |
+| ≥ 4 | Resistant (R) |
 | b These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2 - 5% lysed horse blood. |  |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
@@ -128,9 +126,9 @@ The MICs obtained should be interpreted according to the following criteria:
 
 | MIC (ug/mL) | Interpretation |
 | --- | --- |
-| ≤2.0 | Susceptible (S) |
-| 4.0 | Intermediate (I) |
-| ≥ 8.0 | Resistant (R) |
+| ≤2 | Susceptible (S) |
+| 4 | Intermediate (I) |
+| ≥ 8 | Resistant (R) |
 | i This interpretive standard is applicable to reference agar dilution susceptibility tests using Brucella agar supplemented with hemin, vitamin K1 and 5% laked sheep blood. |  |
 
 Acceptable ranges of MICs (ug/mL) for control strains for reference agar dilution testing j:
@@ -138,7 +136,7 @@ Acceptable ranges of MICs (ug/mL) for control strains for reference agar dilutio
 | Microorganism |  | MIC (ug/mL) |
 | --- | --- | --- |
 | Bacteroides fragilis | ATCC 25285 | 0.12-0.5 |
-| Bacteroides thetaiotaomicron | ATCC 29741 | 1.0-4.0 |
+| Bacteroides thetaiotaomicron | ATCC 29741 | 1-4 |
 | Eubacterium lentum | ATCC 43055 | 0.12-0.5 |
 | jThese quality control ranges are applicable to reference agar dilution tests using Brucella agar supplemented with hemin, vitamin K1 and 5% laked sheep blood. |  |  |
 
