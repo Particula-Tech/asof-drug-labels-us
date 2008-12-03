@@ -14,6 +14,10 @@ Bleeding can occur at any site but certain specific hemorrhagic complications ma
    This complication if unrecognized may be fatal.
 3. Retroperitoneal hemorrhage.
 
+## Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT), Heparin-induced Thrombocytopenia and Thrombosis (HITT) and Delayed Onset of HIT and HITT
+
+(See WARNINGS.)
+
 ## Local Irritation
 
 Local irritation, erythema, mild pain, hematoma or ulceration may follow deep subcutaneous (intrafat) injection of heparin sodium.
@@ -35,7 +39,7 @@ Whether these are in fact identical to the thrombocytopenia associated complicat
 
 Osteoporosis following long-term administration of high-doses of heparin, cutaneous necrosis after systemic administration, suppression of aldosterone synthesis, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.
 
-Significant elevations of aminotransferase AST (SG0T) and ALT (SGPT) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
+Significant elevations of aminotransferase AST (SGOT) and ALT (SGPT) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
 
 Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation, and hypervolemia.
 

@@ -2,6 +2,13 @@
 
 Heparin is not intended for intramuscular use.
 
+## Fatal Medication Errors
+
+Do not use Heparin Sodium in 5% Dextrose Injection as a "catheter lock flush" product.
+Heparin is supplied in a wide range of strengths.
+Fatal hemorrhages have occurred in infants and pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL "catheter lock flush" vials.
+Carefully examine all heparin products to ensure that the proper strength is selected for administration.
+
 ## Hypersensitivity
 
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
@@ -14,16 +21,16 @@ An unexplained fall in hematocrit, fall in blood pressure, or any other unexplai
 Heparin sodium should be used with extreme caution in disease states in which there is increased danger of hemorrhage.
 Some of the conditions in which increased danger of hemorrhage exists are:
 
-Cardiovascular– Subacute bacterial endocarditis.
+Cardiovascular – Subacute bacterial endocarditis.
 Severe hypertension.
 
-Surgical– During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
+Surgical – During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
 
-Hematologic– Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia and some vascular purpuras.
+Hematologic – Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia and some vascular purpuras.
 
-Gastrointestinal– Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
+Gastrointestinal – Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
 
-Other– Menstruation, liver disease with impaired hemostasis.
+Other – Menstruation, liver disease with impaired hemostasis.
 
 ## Coagulation Testing
 
@@ -33,10 +40,25 @@ If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sho
 ## Thrombocytopenia
 
 Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of 0 to 30%.
+Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see White Clot Syndrome, PRECAUTIONS), the heparin product should be discontinued.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see WARNINGS, Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis, and PRECAUTIONS, General, White Clot Syndrome), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
 If continued heparin therapy is essential, administration of heparin from a different organ source can be reinstituted with caution.
+
+## Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
+
+Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
+HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT).
+Thrombotic events may also be the initial presentation for HITT.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+Thrombocytopenia of any degree should be monitored closely.
+If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered if patients require continued anticoagulation.
+
+## Delayed Onset of HIT and HITT
+
+Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy.
+Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
 
 This product contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
@@ -51,6 +73,12 @@ Solutions containing dextrose without electrolytes should not be administered si
 Excessive administration of potassium-free solutions may result in significant hypokalemia.
 
 Because dosages of this drug are titrated to response (see DOSAGE AND ADMINISTRATION), no additives should be made to Heparin Sodium in 5% Dextrose Injection.
+
+## Use in Neonates
+
+Carefully examine all heparin drug product containers to confirm choice of the correct strength prior to administration of the drug.
+Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with "catheter lock flush" vials.
+(See WARNINGS, Fatal Medication Errors.)
 
 # PRECAUTIONS
 
@@ -98,7 +126,7 @@ Digitalis, tetracyclines, nicotine, antihistamines, or IV nitroglycerine may par
 
 ### Hyperaminotransferasemia
 
-Significant elevations of aminotransferase AST (SG0T) and ALT (SGPT) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
+Significant elevations of aminotransferase AST (SGOT) and ALT (SGPT) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
 Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease and pulmonary emboli, rises that might be caused by drugs (like heparin) should be interpreted with caution.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility

@@ -13,7 +13,7 @@ Patients over 60 years of age, following similar doses of heparin, may have high
 
 Peak plasma levels of heparin are achieved 2–4 hours following subcutaneous administration, although there are considerable individual variations.
 Loglinear plots of heparin plasma concentrations with time for a wide range of dose levels are linear which suggests the absence of zero order processes.
-Liver and the reticulo-endothelial system are the site of biotransformation.
+Liver and the reticuloendothelial system are the sites of biotransformation.
 The biphasic elimination curve, a rapidly declining alpha phase (t½ = 10 minutes) and after the age of 40 a slower beta phase, indicates uptake in organs.
 The absence of a relationship between anticoagulant half-life and concentration half-life may reflect factors such as protein binding of heparin.
 

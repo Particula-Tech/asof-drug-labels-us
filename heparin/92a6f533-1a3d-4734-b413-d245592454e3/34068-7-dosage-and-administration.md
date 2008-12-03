@@ -1,6 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
 Heparin Sodium in 5% Dextrose Injection is for intravenous use only.
+Do not use Heparin Sodium in 5% Dextrose Injection as a "catheter lock flush" product.
+
+Confirm the choice of the correct heparin drug product and strength prior to administration of the drug to the patient (see WARNINGS, Fatal Medication Errors).
+Heparin sodium injection products must not be confused with "catheter lock flush" products.
 
 Heparin Sodium is not effective by oral administration and Heparin Sodium in 5% Dextrose Injection should not be given orally.
 
@@ -22,19 +26,19 @@ Heparin therapy may then be discontinued without tapering.
 
 Although dosage must be adjusted for the individual patient according to the results of suitable laboratory tests, the following dosage schedules may be used as guidelines:
 
-| Method of administration | Frequency | Recommended doseBased on 150-lb. (68-Kg) patient. |
+| Method of Administration | Frequency | Recommended DoseBased on 150-lb. (68-kg) patient. |
 | --- | --- | --- |
-|  | Initial dose | 5,000 Units by IV injection. |
-| Continuous intravenous infusion | Continuous | 20,000 – 40,000 Units/24 hours. |
+|  | Initial dose | 5,000 units by IV injection |
+| Continuous Intravenous infusion | Continuous | 20,000 – 40,000 units/24 hours |
 
 ## Pediatric Use
 
 Follow recommendations of appropriate pediatric reference texts.
 In general, the following dosage schedule may be used as a guideline:
 
-Initial Dose: 50 Units/Kg (IV, drip).
+Initial Dose: 50 units/kg (IV, drip).
 
-Maintenance Dose: 20,000 Units/M2/24 hours continuously.
+Maintenance Dose: 20,000 units/m2/24 hours continuously.
 
 ## Geriatric Use
 
