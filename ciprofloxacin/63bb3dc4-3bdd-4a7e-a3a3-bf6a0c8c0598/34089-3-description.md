@@ -7,9 +7,9 @@ Its empirical formula is C17H18FN3O3 and its chemical structure is:
 
 Ciprofloxacin is a faint to light yellow crystalline powder with a molecular weight of 331.4.
 It is soluble in dilute (0.1N) hydrochloric acid and is practically insoluble in water and ethanol.
-CIPRO I.V. solutions are available as sterile 1.0% aqueous concentrates, which are intended for dilution prior to administration, and as 0.2% ready-for-use infusion solutions in 5% Dextrose Injection.
+CIPRO I.V. solutions are available as sterile 1% aqueous concentrates, which are intended for dilution prior to administration, and as 0.2% ready-for-use infusion solutions in 5% Dextrose Injection.
 All formulas contain lactic acid as a solubilizing agent and hydrochloric acid for pH adjustment.
-The pH range for the 1.0% aqueous concentrates in vials is 3.3 to 3.9.
+The pH range for the 1% aqueous concentrates in vials is 3.3 to 3.9.
 The pH range for the 0.2% ready-for-use infusion solutions is 3.5 to 4.6.
 
 The plastic container is latex-free and is fabricated from a specially formulated polyvinyl chloride.

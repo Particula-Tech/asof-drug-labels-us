@@ -6,7 +6,7 @@ During clinical investigations with oral and parenteral ciprofloxacin, 49,038 pa
 Most of the adverse events reported were described as only mild or moderate in severity, abated soon after the drug was discontinued, and required no treatment.
 Ciprofloxacin was discontinued because of an adverse event in 1.8% of intravenously treated patients.
 
-The most frequently reported drug related events, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1.0%), and rash (1.0%).
+The most frequently reported drug related events, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
 In clinical trials the following events were reported, regardless of drug relationship, in greater than 1% of patients treated with intravenous ciprofloxacin: nausea, diarrhea, central nervous system disturbance, local I.V. site reactions, liver function tests abnormal, eosinophilia, headache, restlessness, and rash.
 Many of these events were described as only mild or moderate in severity, abated soon after the drug was discontinued, and required no treatment.
@@ -53,7 +53,7 @@ The primary objective of the study was to assess musculoskeletal and neurologica
 An Independent Pediatric Safety Committee (IPSC) reviewed all cases of musculoskeletal adverse events as well as all patients with an abnormal gait or abnormal joint exam (baseline or treatment-emergent).
 These events were evaluated in a comprehensive fashion and included such conditions as arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint.
 The affected joints included: knee, elbow, ankle, hip, wrist, and shoulder.
-Within 6 weeks of treatment initiation, the rates of these events were 9.3% (31/335) in the ciprofloxacin-treated group versus 6.0 % (21/349) in comparator-treated patients.
+Within 6 weeks of treatment initiation, the rates of these events were 9.3% (31/335) in the ciprofloxacin-treated group versus 6 % (21/349) in comparator-treated patients.
 The majority of these events were mild or moderate in intensity.
 All musculoskeletal events occurring by 6 weeks resolved (clinical resolution of signs and symptoms), usually within 30 days of end of treatment.
 Radiological evaluations were not routinely used to confirm resolution of the events.
@@ -71,11 +71,11 @@ Findings Involving Joint or Peri-articular Tissues as Assessed by the IPSC
 
 |  | Ciprofloxacin | Comparator |
 | --- | --- | --- |
-| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6.0%) |
+| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |
 | 95% Confidence IntervalThe study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group. | (-0.8%, +7.2%) |  |
 | Age Group |  |  |
 | ≥ 12 months < 24 months | 1/36 (2.8%) | 0/41 |
-| ≥ 2 years < 6 years | 5/124 (4.0%) | 3/118 (2.5%) |
+| ≥ 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |
 | ≥ 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
 | ≥ 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
 | All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
@@ -87,17 +87,17 @@ In this trial, the overall incidence rates of adverse events regardless of relat
 The most frequent events were gastrointestinal: 15% (50/335) of ciprofloxacin patients compared to 9% (31/349) of comparator patients.
 Serious adverse events were seen in 7.5% (25/335) of ciprofloxacin-treated patients compared to 5.7% (20/349) of control patients.
 Discontinuation of drug due to an adverse event was observed in 3% (10/335) of ciprofloxacin-treated patients versus 1.4% (5/349) of comparator patients.
-Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, accidental injury 3.0%, rhinitis 3.0%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
+Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, accidental injury 3%, rhinitis 3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
 In addition to the events reported in pediatric patients in clinical trials, it should be expected that events reported in adults during clinical trials or post-marketing experience may also occur in pediatric patients.
 
-## Post-Marketing Adverse Events:
+## Post-Marketing Adverse Event Reports:
 
 The following adverse events have been reported from worldwide marketing experience with quinolones, including ciprofloxacin.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
 
-Agitation, agranulocytosis, albuminuria, anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, myasthenia gravis (possible exacerbation), myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.), psychosis (toxic), renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell’s Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, and vasculitis.
+Agitation, agranulocytosis, albuminuria, anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, myasthenia gravis (possible exacerbation), myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment), psychosis (toxic), renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell’s Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, and vasculitis.
 (See PRECAUTIONS.)
 
 Adverse events were also reported by persons who received ciprofloxacin for anthrax post-exposure prophylaxis following the anthrax bioterror attacks of October 2001 (See also INHALATIONAL ANTHRAX - ADDITIONAL INFORMATION).

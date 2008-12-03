@@ -8,7 +8,7 @@ Clinical response rates observed in this study were as follows:
 
 | Outcomes | Ciprofloxacin/Piperacillin N = 233 Success (%) | Tobramycin/Piperacillin N = 237 Success (%) |
 | --- | --- | --- |
-| Clinical Resolution of Initial Febrile Episode with No Modifications of Empirical RegimenTo be evaluated as a clinical resolution, patients had to have: (1) resolution of fever; (2) microbiological eradication of infection (if an infection was microbiologically documented); (3) resolution of signs/symptoms of infection; and (4) no modification of empirical antibiotic regimen. | 63 (27.0%) | 52 (21.9%) |
+| Clinical Resolution of Initial Febrile Episode with No Modifications of Empirical RegimenTo be evaluated as a clinical resolution, patients had to have: (1) resolution of fever; (2) microbiological eradication of infection (if an infection was microbiologically documented); (3) resolution of signs/symptoms of infection; and (4) no modification of empirical antibiotic regimen. | 63 (27%) | 52 (21.9%) |
 | Clinical Resolution of Initial Febrile Episode Including Patients with Modifications of Empirical Regimen | 187 (80.3%) | 185 (78.1%) |
 | Overall Survival | 224 (96.1%) | 223 (94.1%) |
 

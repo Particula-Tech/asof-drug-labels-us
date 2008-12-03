@@ -87,10 +87,10 @@ Standard ciprofloxacin powder should provide the following MIC values:
 
 | Organism |  | MIC (µg/mL) |
 | --- | --- | --- |
-| E. faecalis | ATCC 29212 | 0.25 – 2.0 |
+| E. faecalis | ATCC 29212 | 0.25 – 2 |
 | E. coli | ATCC 25922 | 0.004 – 0.015 |
 | H. influenzaea | ATCC 49247 | 0.004 – 0.03 |
-| P. aeruginosa | ATCC 27853 | 0.25 – 1.0 |
+| P. aeruginosa | ATCC 27853 | 0.25 – 1 |
 | S. aureus | ATCC 29213 | 0.12 – 0.5 |
 
 a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)1.

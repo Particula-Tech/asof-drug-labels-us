@@ -74,7 +74,7 @@ However, the kinetics of ciprofloxacin in patients with acute hepatic insufficie
 Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 µg/mL (range: 1.5 – 3.4 µg/mL) and the mean AUC was 9.2 µg*h/mL (range: 5.8 – 14.9 µg*h/mL).
 There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg TID).
 In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean Cmax was 6.1 µg/mL (range: 4.6 – 8.3 µg/mL) in 10 children less than 1 year of age; and 7.2 µg/mL (range: 4.7 – 11.8 µg/mL) in 10 children between 1 and 5 years of age.
-The AUC values were 17.4 µg*h/mL (range: 11.8 – 32.0 µg*h/mL) and 16.5 µg*h/mL (range: 11.0 – 23.8 µg*h/mL) in the respective age groups.
+The AUC values were 17.4 µg*h/mL (range: 11.8 – 32 µg*h/mL) and 16.5 µg*h/mL (range: 11 – 23.8 µg*h/mL) in the respective age groups.
 These values are within the range reported for adults at therapeutic doses.
 Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 - 5 hours, and the bioavailability of the oral suspension is approximately 60%.
 

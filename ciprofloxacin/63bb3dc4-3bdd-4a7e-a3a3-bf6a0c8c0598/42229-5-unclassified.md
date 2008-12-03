@@ -1,12 +1,8 @@
-08938299, R.4
-
-4/08
-
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO® I.V. and other antibacterial drugs, CIPRO I.V. should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO I.V. and other antibacterial drugs, CIPRO I.V. should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # COMPATIBILITY AND STABILITY
 
-Ciprofloxacin injection 1% (10 mg/mL), when diluted with the following intravenous solutions to concentrations of 0.5 to 2.0 mg/mL, is stable for up to 14 days at refrigerated or room temperature storage.
+Ciprofloxacin injection 1% (10 mg/mL), when diluted with the following intravenous solutions to concentrations of 0.5 to 2 mg/mL, is stable for up to 14 days at refrigerated or room temperature storage.
 
 - 0.9% Sodium Chloride Injection, USP
 - 5% Dextrose Injection, USP
@@ -45,15 +41,3 @@ Among the persons surveyed by the Centers for Disease Control and Prevention, ov
 Gastrointestinal adverse events (nausea, vomiting, diarrhea, or stomach pain), neurological adverse events (problems sleeping, nightmares, headache, dizziness or lightheadedness) and musculoskeletal adverse events (muscle or tendon pain and joint swelling or pain) were more frequent than had been previously reported in controlled clinical trials.
 This higher incidence, in the absence of a control group, could be explained by a reporting bias, concurrent medical conditions, other concomitant medications, emotional stress or other confounding factors, and/or a longer treatment period with ciprofloxacin.
 Because of these factors and limitations in the data collection, it is difficult to evaluate whether the reported symptoms were drug-related.
-
-Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
-
-Distributed by: Schering Corporation Kenilworth, NJ 07033
-
-CIPRO is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
-
-Rx Only
-
-08938299, R.4 04/08 ©2008 Bayer HealthCare Pharmaceuticals Inc.
-
-BAY q 3939 5202-4-A-U.S.-20 Printed In U.S.A.
