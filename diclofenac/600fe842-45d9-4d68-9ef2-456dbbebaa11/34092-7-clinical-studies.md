@@ -24,7 +24,7 @@ Table 2
 | Misoprostol 200 mcg Dosage Regimen |  |  |  |  |
 | Gastric ulcer | 11% | 6%Misoprostol significantly different from placebo (p<0.05) | 3% | 3% |
 | Duodenal ulcer | 6% | 2% | 3% | 1% |
-| N=1623; 12 weeks. |  |  |  |  |
+| N=1623; 12 weeks |  |  |  |  |
 
 Results of a study in 572 patients with osteoarthritis demonstrate that patients receiving ARTHROTEC have a lower incidence of endoscopically defined gastric ulcers compared to patients receiving diclofenac sodium (see Table 3).
 

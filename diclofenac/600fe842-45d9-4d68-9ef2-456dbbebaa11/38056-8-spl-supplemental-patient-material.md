@@ -8,7 +8,7 @@ ARTHROTEC also contains misoprostol to decrease the chance of getting stomach an
 Serious side effects are still possible, however, and you should report to your doctor any signs or symptoms of gastrointestinal ulceration or bleeding, skin rash, weight gain or swelling.
 If signs of liver toxicity occur (nausea, fatigue, lethargy, itching, jaundice, right upper quadrant tenderness, and "flu-like" symptoms) you should stop therapy and seek immediate medical attention.
 
-If signs of an anaphylactoid reaction occur (e.g. difficulty breathing, swelling of the face or throat) you should stop therapy and seek immediate medical attention (see WARNINGS, Anaphylactoid Reactions).
+If signs of an anaphylactoid reaction occur (e.g. difficulty breathing, swelling of the face or throat) you should stop therapy and seek immediate medical attention (see WARNINGS).
 
 Do not take ARTHROTEC if you are pregnant (see boxed CONTRAINDICATIONS AND WARNINGS).
 ARTHROTEC contains diclofenac sodium and misoprostol.
@@ -47,11 +47,11 @@ This risk may increase with duration of use.
 
 Although serious GI tract ulcerations and bleeding can occur without warning symptoms, ask for medical advice when observing signs and symptoms of ulceration and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis.
 
-(See boxed CONTRAINDICATIONS AND WARNINGS)
+(See boxed CONTRAINDICATIONS AND WARNINGS.)
 
 ARTHROTEC, like other NSAIDs, may cause serious skin side effects, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis, which may result in hospitalization and even death.
 
-Although serious skin reactions may occur without warning, ask for medical advice when observing sign or symptoms, such as skin rash and blisters, fever, or other signs hypersensitivity such as itching.
+Although serious skin reactions may occur without warning, ask for medical advice when observing sign or symptoms, such as skin rash and blisters, fever, or other signs of hypersensitivity such as itching.
 Stop the drug immediately at the first appearance of skin rash or any other signs of hypersensitivity and contact your physician as soon as possible.
 
 Take ARTHROTEC only according to the directions given by your doctor.
@@ -67,9 +67,9 @@ Keep out of reach of children.
 
 Rx only
 
-LAB-0061-10.0
+LAB-0061-11.0
 
-September 2007
+September 2008
 
 ## Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
@@ -174,7 +174,7 @@ NSAID medicines that need a prescription
 | Mefenamic Acid | Ponstel |
 | Meloxicam | Mobic |
 | Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naproxyn, Naprelan, Naprapac (copackaged with lansoprazole) |
+| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, Naprapac (copackaged with lansoprazole) |
 | Oxaprozin | Daypro |
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |

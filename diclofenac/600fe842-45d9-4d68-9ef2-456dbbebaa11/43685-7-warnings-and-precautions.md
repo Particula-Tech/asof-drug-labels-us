@@ -26,7 +26,7 @@ Two large, controlled clinical trials of a COX-2 selective NSAID for the treatme
 
 ### Hypertension
 
-NSAIDs including ARTHROTEC, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including ARTHROTEC, can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
 NSAIDs, including ARTHROTEC, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
@@ -59,7 +59,7 @@ For high risk patients, alternate therapies that do not involve NSAIDs should be
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
+Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE-inhibitors, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 ## Advanced Renal Disease
@@ -77,12 +77,12 @@ These laboratory abnormalities may progress, may remain unchanged, or may be tra
 Borderline elevations (i.e., less than 3 times the ULN [ULN = the upper limit of the normal range]), or greater elevations of transaminases occurred in about 15% of diclofenac-treated patients.
 Of the hepatic enzymes, ALT (SGPT) is the one recommended for the monitoring of liver injury.
 
-In clinical trials, meaningful elevations (ie, more than 3 times the ULN) of AST (SGOT) (ALT was not measured in all studies) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment.
+In clinical trials, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) (ALT was not measured in all studies) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment.
 In a large, open, controlled trial, meaningful elevations of ALT and/or AST occurred in about 4% of 3,700 patients treated for 2–6 months, including marked elevations (ie, more than 8 times the ULN) in about 1% of the 3,700 patients.
 In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Transaminase elevations were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
 
-In addition to the borderline elevations of one or more liver tests that may occur in up to 15% of patients taking NSAIDs including ARTHROTEC, in clinical trials of diclofenac of up to 3 years in duration, notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in from 1–5% of patients including elevations of more than 8 times the ULN.
+In addition to the borderline elevations of one or more liver tests that may occur in up to 15% of patients taking NSAIDs including ARTHROTEC, in clinical trials of diclofenac of up to 3 years in duration, notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in 1–5% of patients including elevations of more than 8 times the ULN.
 In addition to enzyme elevations seen in clinical trials, post marketing surveillance has found rare cases of severe hepatic reactions, including liver necrosis, jaundice, and fulminant fatal hepatitis with and without jaundice, and liver failure with rates generally higher than for other NSAIDs.
 Some of these reported cases resulted in fatalities or liver transplantation.
 
@@ -99,9 +99,9 @@ These increases were generally transient, and enzyme levels returned to within t
 The misoprostol component of ARTHROTEC does not appear to exacerbate the hepatic effects caused by the diclofenac sodium component.
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of more severe hepatic reaction while on therapy with ARTHROTEC.
 
-If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc), ARTHROTEC should be discontinued immediately.
+If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ARTHROTEC should be discontinued immediately.
 
-To minimize the possibility that hepatic injury will become severe between transaminase measurements, physicians should inform patients of the warning signs and symptoms of hepatotoxicity (eg, nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
+To minimize the possibility that hepatic injury will become severe between transaminase measurements, physicians should inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
 
 ## Anaphylactoid reactions
 
@@ -165,7 +165,8 @@ The postulated mechanism, demonstrated in rats, for causing such attacks by dicl
 
 ## Information for patients
 
-Women of childbearing potential using ARTHROTEC to treat arthritis should be told that they must not be pregnant when therapy with ARTHROTEC is initiated, and that they must use an effective contraception method while taking ARTHROTEC (see boxed CONTRAINDICATIONS AND WARNINGS).
+Women of childbearing potential using ARTHROTEC to treat arthritis should be told that they must not be pregnant when therapy with ARTHROTEC is initiated, and that they must use an effective contraception method while taking ARTHROTEC.
+See boxed CONTRAINDICATIONS AND WARNINGS.
 
 THE PATIENT SHOULD NOT GIVE ARTHROTEC TO ANYONE ELSE.
 ARTHROTEC has been prescribed for the patient's specific condition, may not be the correct treatment for another person, and may be dangerous to the other person if she were to become pregnant.
@@ -189,8 +190,8 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 - Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness and "flu-like" symptoms).
   If these occur, patients should be instructed to stop therapy and seek immediate medical attention.
 - Patients should be informed of the signs of an anaphylactoid reaction (e.g. difficulty breathing, swelling of the face or throat).
-  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactoid Reactions).
-- In late pregnancy, as with other NSAIDs, ARTHROTEC should be avoided because it will cause premature closure of the ductus arteriosus.
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactoid reactions).
+- In late pregnancy, as with other NSAIDs, ARTHROTEC should be avoided because it may cause premature closure of the ductus arteriosus.
 
 See PATIENT INFORMATION at the end of this labeling for important information to discuss with the patient.
 
@@ -202,7 +203,7 @@ Keep ARTHROTEC out of the reach of children.
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs of symptoms of GI bleeding.
 Patients on long-term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (eg, eosinophilia, rash, etc) or if abnormal liver tests persist or worsen, ARTHROTEC should be discontinued.
+If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, ARTHROTEC should be discontinued.
 
 ### Effect on blood coagulation
 
@@ -250,7 +251,7 @@ Caution should be used when NSAIDs are administered concomitantly with methotrex
 
 ARTHROTEC, like other NSAID containing products, may affect renal prostaglandins and increase the toxicity of certain drugs.
 Ingestion of ARTHROTEC may increase cyclosporine nephrotoxicity.
-Patients who begin taking ARTHROTEC or who increase their dose of ARTHROTEC while taking cyclosporine may develop toxicity characteristic for cyclosporine.
+Patients who begin taking ARTHROTEC or who increase their dose of ARTHROTEC while taking cyclosporine may develop toxicity characteristic for clyclosporine.
 They should be observed closely, particularly if renal function is impaired.
 
 #### Lithium
@@ -312,7 +313,7 @@ Pregnancy category X: See boxed CONTRAINDICATIONS AND WARNINGS regarding misopro
 See boxed CONTRAINDICATIONS AND WARNINGS.
 Misoprostol may endanger pregnancy (may cause abortion) and thereby cause harm to the fetus when administered to a pregnant woman.
 Misoprostol may produce uterine contractions, uterine bleeding, and expulsion of the products of conception.
-Misoprostol has been used to ripen the cervix, to induce labor, and to treat postpartum hemorrahage, outside of its approved indication.
+Misoprostol has been used to ripen the cervix, to induce labor, and to treat postpartum hemorrhage, outside of its approved indication.
 A major adverse effect of these uses is hyperstimulation of the uterus.
 Uterine rupture, amniotic fluid embolism, severe genital bleeding, shock, fetal bradycardia, and fetal and material death have been reported.
 Higher doses of misoprostol, including the 100 mcg tablet, may increase the risk of complications from uterine hyperstimulation.
@@ -324,7 +325,7 @@ Cases of amniotic fluid embolism, which resulted in maternal and fetal death, ha
 Severe vaginal bleeding, retained placenta, shock, fetal bradycardia, and pelvic pain have also been reported.
 These women were administered misoprostol vaginally and/or orally over a range of doses.
 
-Additionally, because of the known effects of nonsteroidal anti-inflammatory drugs, including the diclofenac sodium component of ARTHROTEC, on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
+Additionally, because of the known effects of nonsteroidal anti-inflammatory drugs including the diclofenac sodium component of ARTHROTEC, on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
 
 ### Teratogenic effects
 
@@ -344,10 +345,8 @@ There are no adequate and well-controlled studies in pregnant women.
 ## Nursing mothers
 
 Diclofenac sodium has been found in the milk of nursing mothers.
-It is unlikely that misoprostol is excreted into milk since the drug is rapidly metabolized throughout the body.
-Excretion of the active metabolite (misoprostol acid) into milk is possible, but has not been studied.
-Misoprostol acid could cause significant diarrhea in nursing infants.
-Because of the potential for serious adverse reactions in nursing infants, ARTHROTEC is not recommended for use by nursing mothers.
+Misoprostol is rapidly metabolised in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
+ARTHROTEC should not be administered to nursing mothers because the excretion of misoprostol acid could cause undesirable effects such as diarrhea in nursing infants.
 
 ## Labor and Delivery
 
@@ -368,4 +367,4 @@ No overall differences in safety or effectiveness were observed between these su
 Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to ARTHROTEC may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS—Renal effects).
 
-Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of ARTHROTEC—Special Populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
+Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of ARTHROTEC—Special populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.

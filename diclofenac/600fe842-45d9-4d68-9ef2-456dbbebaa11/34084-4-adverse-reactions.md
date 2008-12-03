@@ -8,7 +8,7 @@ Adverse reaction information for ARTHROTEC is derived from Phase III multination
 
 GI disorders had the highest reported incidence of adverse events for patients receiving ARTHROTEC.
 These events were generally minor, but led to discontinuation of therapy in 9% of patients on ARTHROTEC and 5% of patients on diclofenac.
-For GI ulcer rates, see CLINICAL STUDIES—Upper Gastrointestinal Safety.
+For GI ulcer rates, see CLINICAL STUDIES—Upper gastrointestinal safety.
 
 | GI disorder | ARTHROTEC | Diclofenac |
 | --- | --- | --- |
@@ -29,8 +29,7 @@ The incidence of diarrhea can be minimized by administering ARTHROTEC with food 
 
 Gynecological disorders previously reported with misoprostol use have also been reported for women receiving ARTHROTEC (see below).
 Postmenopausal vaginal bleeding may be related to administration of ARTHROTEC.
-If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology.
-(See boxed CONTRAINDICATIONS AND WARNINGS.)
+If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology (see boxed CONTRAINDICATIONS AND WARNINGS).
 
 ## Elderly
 

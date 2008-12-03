@@ -51,7 +51,7 @@ It has no significant effect on fasting or postprandial gastrin nor intrinsic fa
 
 Misoprostol, over the range of 50–200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
 Activity is apparent 30 minutes after oral administration and persists for at least 3 hours.
-In general, the effects of 50 mcg were modest and shorter-lived, and only the 200-mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
+In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
 
 Orally administered misoprostol is rapidly and extensively absorbed, and it undergoes rapid metabolism to its biologically active metabolite, misoprostol acid.
 Misoprostol acid in ARTHROTEC reaches a maximum plasma concentration in about 20 minutes and is, thereafter, quickly eliminated with an elimination t1/2 of about 30 minutes.
