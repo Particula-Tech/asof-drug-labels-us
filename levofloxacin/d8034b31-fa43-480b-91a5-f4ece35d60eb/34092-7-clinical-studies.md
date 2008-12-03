@@ -133,7 +133,7 @@ These rates were equivalent to those seen with comparator drugs.
 
 ## 14.6 Chronic Bacterial Prostatitis
 
-Adult patients with a clinical diagnosis of prostatitis and microbiological culture results from urine sample collected after prostatic massage (VB3) or expressed prostatic secretion (EPS) specimens obtained via the Meares-Stamey procedure were enrolled in a multicenter, randomized, double-blind study comparing oral LEVAQUIN® 500 mg, once daily for a total of 28 days to oral ciprofloxacin 500 mg, twice daily for a total of 28 days.
+Adult patients with a clinical diagnosis of prostatitis and microbiological culture results from urine sample collected after prostatic massage (VB3) or expressed prostatic secretion (EPS) specimens obtained via the Meares-Stamey procedure were enrolled in a multicenter, randomized, double-blind study comparing oral LEVAQUIN® 500 mg, once dailyfor a total of 28 days to oral ciprofloxacin 500 mg, twice daily for a total of 28 days.
 The primary efficacy endpoint was microbiologic efficacy in microbiologically evaluable patients.
 A total of 136 and 125 microbiologically evaluable patients were enrolled in the LEVAQUIN® and ciprofloxacin groups, respectively.
 The microbiologic eradication rate by patient infection at 5–18 days after completion of therapy was 75.0% in the LEVAQUIN® group and 76.8% in the ciprofloxacin group (95% CI [-12.58, 8.98] for LEVAQUIN® minus ciprofloxacin).
@@ -167,11 +167,11 @@ Table 20: Bacteriologic Eradication at Test-of-Cure
 |  | n/N | % | n/N | % | LEVAQUIN®-Ciprofloxacin |
 | --- | --- | --- | --- | --- | --- |
 |  | LEVAQUIN® 750 mg orally or IV once daily for 5 days |  | Ciprofloxacin 400 mg IV/500 mg orally twice daily for 10 days |  | Overall Difference [95% CI] |
-| mITT Population The mITT population included patients who received study medication and who had a positive (≥105 CFU/mL) urine culture with no more than 2 uropathogens at baseline. Patients with missing response were counted as failures in this analysis. |  |  |  |  |  |
+| mITT PopulationThe mITT population included patients who received study medication and who had a positive (≥105 CFU/mL) urine culture with no more than 2 uropathogens at baseline. Patients with missing response were counted as failures in this analysis. |  |  |  |  |  |
 | Overall (cUTI or AP) | 252/333 | 75.7 | 239/318 | 75.2 | 0.5 (-6.1, 7.1) |
 | cUTI | 168/230 | 73.0 | 157/213 | 73.7 |  |
 | AP | 84/103 | 81.6 | 82/105 | 78.1 |  |
-| Microbiologically Evaluable Population The Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria). |  |  |  |  |  |
+| Microbiologically Evaluable PopulationThe Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria). |  |  |  |  |  |
 | Overall (cUTI or AP) | 228/265 | 86.0 | 215/241 | 89.2 | -3.2 [-8.9, 2.5] |
 | cUTI | 154/185 | 83.2 | 144/165 | 87.3 |  |
 | AP | 74/80 | 92.5 | 71/76 | 93.4 |  |

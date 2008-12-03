@@ -34,7 +34,7 @@ Table 2: Dosage in Pediatric Patients ≥ 6 months of age
 
 | Type of infection Due to Bacillus anthracis [see Indications and Usage (1.13)] | Dose | Freq. Once every | DurationSequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |
 | --- | --- | --- | --- |
-| Inhalational Anthrax (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)]The safety of LEVAQUIN® in pediatric patients for durations of therapy beyond 14 has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.9), Use in Specific Populations (8.4), and Clinical Studies (14.9).] Prolonged LEVAQUIN therapy should only be used when the benefit outweighs the risk. |  |  |  |
+| Inhalational Anthrax (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)]The safety of LEVAQUIN® in pediatric patients for durations of therapy beyond 14 has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.9), Usein Specific Populations (8.4), and Clinical Studies (14.9).] Prolonged LEVAQUIN therapy should only be used when the benefit outweighs the risk. |  |  |  |
 | Pediatric patients > 50 kg and ≥ 6 months of age | 500 mg | 24 hr | 60 days§ |
 | Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 60 days§ |
 
@@ -49,7 +49,7 @@ In patients with impaired renal function (creatinine clearance<50 mL/min), adjus
 
 Table 3 shows how to adjust dose based on creatinine clearance.
 
-Table 3: Dosage Adjustment in Patients with Renal Impairment (creatinine clearance <50 mL/min)
+Table 3: Dosage Adjustment in Adult Patients with Renal Impairment (creatinine clearance <50 mL/min)
 
 | Dosage in Normal Renal Function Every 24 hours | Creatinine Clearance 20 to 49 mL/min | Creatinine Clearance 10 to 19 mL/min | Hemodialysis or Chronic Ambulatory Peritoneal Dialysis (CAPD) |
 | --- | --- | --- | --- |

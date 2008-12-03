@@ -4,14 +4,14 @@
 
 Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
 The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
-No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
+No teratogenicity was observed when rabbitswere dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 LEVAQUIN® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
-Based on data on other quinolones and very limited data on LEVAQUIN®, it can be presumed that levofloxacin will be excreted in human milk.
+Based on data on other fluoroquinolones and very limited data on LEVAQUIN®, it can be presumed that levofloxacin will be excreted in human milk.
 Because of the potential for serious adverse reactions from LEVAQUIN® in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
@@ -54,22 +54,22 @@ In addition to the events reported in pediatric patients in clinical trials, eve
 
 ## 8.5 Geriatric Use
 
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as LEVAQUIN®.
+This risk is further increased in patients receiving concomitant corticosteroid therapy.
+Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
+Caution should be used when prescribing LEVAQUIN® to elderly patients especially those on corticosteroids.
+Patients should be informed of this potential side effect and advised to discontinue LEVAQUIN® and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; Warnings and Precautions (5.1); and Adverse Reactions (6.3)].
+
 In phase 3 clinical trials, 1,945 LEVAQUIN®-treated patients (26%) were ≥ 65 years of age.
 Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864 patients (12%) were 75 years or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 
 Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-marketing in association with LEVAQUIN®.
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.3)].
-
-Patients over 65 are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as LEVAQUIN®.
-This risk is further increased with concomitant steroid therapy.
-Tendon rupture usually involves the Achilles, hand or shoulder tendons and can occur during therapy or up to a few months post completion of therapy.
-Caution should be used when prescribing LEVAQUIN® to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue therapy and inform their physicians if any tendon symptoms occur [see Warnings and Precautions (5.4)].
+LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.4)].
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using LEVAQUIN® with concomitant drugs that can result in prolongation of the QT interval (e.g., class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.8)].
+Therefore, precaution should be taken when using LEVAQUIN® with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.8)].
 
 The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do not differ significantly when creatinine clearance is taken into consideration.
 However, since the drug is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.

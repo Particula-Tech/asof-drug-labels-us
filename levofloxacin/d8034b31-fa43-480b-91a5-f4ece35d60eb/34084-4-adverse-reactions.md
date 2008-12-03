@@ -4,10 +4,10 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Tendon Effects [see Warnings and Precautions (5.4)]
+- Tendon Effects [see Warnings and Precautions (5.1)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see Warnings and Precautions (5.4)]
 - Central Nervous System Effects [see Warnings and Precautions (5.5)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
 - Peripheral Neuropathy [see Warnings and Precautions (5.7)]
@@ -27,7 +27,7 @@ Therefore, adequate hydration of patients receiving LEVAQUIN® should be maintai
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to LEVAQUIN® in7537 patients in 29 pooled Phase 3 clinical trials.
+The data described below reflect exposure to LEVAQUIN® in 7537 patients in 29 pooled Phase 3 clinical trials.
 The population studied had a mean age of 50 years (approximately 74% of the population was < 65 years of age), 50% were male, 71% were Caucasian, 19% were Black.
 Patients were treated with LEVAQUIN® for a wide variety of infectious diseases [see Indications and Usage (1)].
 Patients received LEVAQUIN® doses of 750 mg once daily, 250 mg once daily, or 500 mg once or twice daily.
@@ -48,9 +48,9 @@ Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQ
 | Infections and Infestations | moniliasis | 1 |
 | Psychiatric Disorders | insomniaN = 7274 [see Warnings and Precautions (5.5)] | 4 |
 | Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.5)] | 6 3 |
-| Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.1)] | 1 |
+| Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.2)] | 1 |
 | Gastrointestinal Disorders | nausea diarrhea constipation abdominal pain vomiting dyspepsia | 7 5 3 2 2 2 |
-| Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.1)] pruritus | 2 1 |
+| Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.2)] pruritus | 2 1 |
 | Reproductive System and Breast Disorders | vaginitis | 1N=3758 (women) |
 | General Disorders and Administration Site Conditions | edema injection site reaction chest pain | 1 1 1 |
 
@@ -59,8 +59,8 @@ Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
 | Infections and Infestations | genital moniliasis |
-| Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.2)] |
-| Immune System Disorders | allergic reaction [See Warnings and Precautions (5.1,5.2)] |
+| Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.3)] |
+| Immune System Disorders | allergic reaction [See Warnings and Precautions (5.2,5.3)] |
 | Metabolism and Nutrition Disorders | hyperglycemia hypoglycemia [see Warnings and Precautions (5.10)] hyperkalemia |
 | Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmareN = 7274 [see Warnings and Precautions (5.5)] sleep disorder anorexia abnormal dreaming |
 | Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.5)] paresthesia [see Warnings and Precautions (5.7)] vertigo hypertonia hyperkinesias abnormal gait somnolence syncope |
@@ -69,9 +69,9 @@ Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Vascular Disorders | phlebitis |
 | Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembraneous/ C. difficile colitis [see Warnings and Precautions (5.6)] |
 | Hepatobiliary Disorders | abnormal hepatic function increased hepatic enzymes increased alkaline phosphatase |
-| Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.1)] |
-| Musculoskeletal and Connective Tissue Disorders | arthralgia tendonitis [see Warnings and Precautions (5.4)] myalgia skeletal pain |
-| Renal and Urinary Disorders | abnormal renal function acute renal failure [see Warnings and Precautions (5.2)] |
+| Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.2)] |
+| Musculoskeletal and Connective Tissue Disorders | arthralgia tendonitis [see Warnings and Precautions (5.1)] myalgia skeletal pain |
+| Renal and Urinary Disorders | abnormal renal function acute renal failure [see Warnings and Precautions (5.3)] |
 
 In clinical trials using multiple-dose therapy, ophthalmologic abnormalities, including cataracts and multiple punctate lenticular opacities, have been noted in patients undergoing treatment with quinolones, including LEVAQUIN®.
 The relationship of the drugs to these events is not presently established.
@@ -85,18 +85,18 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
-| Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.2)] eosinophilia |
-| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.1,5.2)] |
+| Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.3)] eosinophilia |
+| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.2,5.3)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.5)] |
 | Nervous System Disorders | anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.7)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia |
 | Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.8)] tachycardia |
 | Vascular Disorders | vasodilatation |
-| Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.2)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions 5.2, 5.3)] |
-| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.2)] photosensitivity/photoxicity reaction [see Warnings and Precautions (5.11)] leukocytoclastic vasculitis |
-| Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.4)] muscle injury, including rupture rhabdomyolysis |
-| Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.2)] |
+| Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.3)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions 5.3, 5.4)] |
+| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.3)] photosensitivity/photoxicity reaction [see Warnings and Precautions (5.11)] leukocytoclastic vasculitis |
+| Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.1)] muscle injury, including rupture rhabdomyolysis |
+| Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.3)] |
 | General Disorders and Administration Site Conditions | multi-organ failure pyrexia |
 | Investigations | prothrombin time prolonged international normalized ratio prolonged muscle enzymes increased |

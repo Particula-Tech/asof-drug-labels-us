@@ -49,7 +49,7 @@ LEVAQUIN® is indicated for the treatment of uncomplicated skin and skin structu
 
 ## 1.8 Chronic Bacterial Prostatitis
 
-LEVAQUIN® is indicated for the treatment of chronic bacterial prostatitis due to Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see Clinical Studies (14.6)].
+LEVAQUIN® is indicated for the treatment of chronic bacterial prostatitis due to Escherichiacoli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see Clinical Studies (14.6)].
 
 ## 1.9 Complicated Urinary Tract Infections: 5-day Treatment Regimen
 
@@ -69,7 +69,7 @@ LEVAQUIN® is indicated for the treatment of uncomplicated urinary tract infecti
 
 ## 1.13 Inhalational Anthrax (Post-Exposure)
 
-LEVAQUIN® is indicated for inhalational anthrax (post-exposure) to reduce the incidenceor progression of disease following exposure to aerosolized Bacillus anthracis.
+LEVAQUIN® is indicated for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 The effectiveness of LEVAQUIN® is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 LEVAQUIN® has not been tested in humans for the post-exposure prevention of inhalation anthrax.
 The safety of LEVAQUIN® in adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not been studied.

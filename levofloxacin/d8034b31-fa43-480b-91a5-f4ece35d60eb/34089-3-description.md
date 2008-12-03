@@ -41,9 +41,9 @@ It may also contain a solution of sodium hydroxide for pH adjustment.
 The appearance of LEVAQUIN® Injection may range from a clear yellow to a clear greenish-yellow solution.
 This does not adversely affect product potency.
 
-LEVAQUIN ® Injection in Single-Use Vials is a sterile, preservative-free aqueous solution of levofloxacin in Water for Injection, with pH ranging from 3.8 to 5.8.
+LEVAQUIN ®Injection in Single-Use Vials is a sterile, preservative-free aqueous solution of levofloxacin in Water for Injection, with pH ranging from 3.8 to 5.8.
 
-LEVAQUIN® Injection Premix in Single-Use Flexible Containers is a sterile, preservative-free aqueous solution of levofloxacin with pH ranging from 3.8 to 5.8.
+LEVAQUIN®Injection Premix in Single-Use Flexible Containers is a sterile, preservative-free aqueous solution of levofloxacin with pH ranging from 3.8 to 5.8.
 This is a dilute, non-pyrogenic, nearly isotonic premixed solution that contains levofloxacin in 5% Dextrose (D5W).
 Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 

@@ -4,14 +4,14 @@
 
 LEVAQUIN ® Tablets and Oral Solution
 
-While the chelation by divalent cations is less marked than with other quinolones, concurrent administration of LEVAQUIN® Tablets and Oral Solution with antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc may interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
+While the chelation by divalent cations is less marked than with other fluoroquinolones, concurrent administration of LEVAQUIN® Tablets and Oral Solution with antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc may interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 Tablets with antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamins preparations with zinc or didanosine may substantially interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 These agents should be taken at least two hours before or two hours after oral LEVAQUIN® administration.
 
 LEVAQUIN ® Injection
 
-There are no data concerning an interaction of intravenous quinolones with oral antacids, sucralfate, multivitamins, didanosine, or metal cations.
-However, no quinolone should be co-administered with any solution containing multivalent cations, e.g., magnesium, through the same intravenous line [see Dosage and Administration (2.5)].
+There are no data concerning an interaction of intravenous fluoroquinolones with oral antacids, sucralfate, multivitamins, didanosine, or metal cations.
+However, no fluoroquinolone should be co-administered with any solution containing multivalent cations, e.g., magnesium, through the same intravenous line [see Dosage and Administration (2.5)].
 
 ## 7.2 Warfarin
 
@@ -24,25 +24,25 @@ Patients should also be monitored for evidence of bleeding [see Adverse Reaction
 
 ## 7.3 Antidiabetic Agents
 
-Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with quinolones and an antidiabetic agent.
+Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
 Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered [see Warnings and Precautions (5.10); Adverse Reactions (6.2), Patient Counseling Information (17.4)].
 
 ## 7.4 Non-Steroidal Anti-Inflammatory Drugs
 
-The concomitant administration of a non-steroidal anti-inflammatory drug with a quinolone, including LEVAQUIN®, may increase the risk of CNS stimulation and convulsive seizures [see Warnings and Precautions (5.5)].
+The concomitant administration of a non-steroidal anti-inflammatory drug with a fluoroquinolone, including LEVAQUIN®, may increase the risk of CNS stimulation and convulsive seizures [see Warnings and Precautions (5.5)].
 
 ## 7.5 Theophylline
 
 No significant effect of LEVAQUIN® on the plasma concentrations, AUC, and other disposition parameters for theophylline was detected in a clinical study involving healthy volunteers.
 Similarly, no apparent effect of theophylline on levofloxacin absorption and disposition was observed.
-However, concomitant administration of other quinolones with theophylline has resulted in prolonged elimination half-life, elevated serum theophylline levels, and a subsequent increase in the risk of theophylline-related adverse reactions in the patient population.
+However, concomitant administration of other fluoroquinolones with theophylline has resulted in prolonged elimination half-life, elevated serum theophylline levels, and a subsequent increase in the risk of theophylline-related adverse reactions in the patient population.
 Therefore, theophylline levels should be closely monitored and appropriate dosage adjustments made when LEVAQUIN® is co-administered.
 Adverse reactions, including seizures, may occur with or without an elevation in serum theophylline levels [see Warnings and Precautions (5.5)].
 
 ## 7.6 Cyclosporine
 
 No significant effect of LEVAQUIN® on the peak plasma concentrations, AUC, and other disposition parameters for cyclosporine was detected in a clinical study involving healthy volunteers.
-However, elevated serum levels of cyclosporine have been reported in the patient population when co-administered with some other quinolones.
+However, elevated serum levels of cyclosporine have been reported in the patient population when co-administered with some other fluoroquinolones.
 Levofloxacin Cmax and ke were slightly lower while Tmax and t½ were slightly longer in the presence of cyclosporine than those observed in other studies without concomitant medication.
 The differences, however, are not considered to be clinically significant.
 Therefore, no dosage adjustment is required for LEVAQUIN® or cyclosporine when administered concomitantly.
@@ -61,5 +61,5 @@ However, these changes do not warrant dosage adjustment for LEVAQUIN® when prob
 
 ## 7.9 Interactions with Laboratory or Diagnostic Testing
 
-Some quinolones, including LEVAQUIN®, may produce false-positive urine screening results for opiates using commercially available immunoassay kits.
+Some fluoroquinolones, including LEVAQUIN®, may produce false-positive urine screening results for opiates using commercially available immunoassay kits.
 Confirmation of positive opiate screens by more specific methods may be necessary.
