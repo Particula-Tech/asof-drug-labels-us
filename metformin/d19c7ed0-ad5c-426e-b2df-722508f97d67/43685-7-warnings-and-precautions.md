@@ -123,4 +123,4 @@ If a hypersensitivity reaction is suspected, discontinue JANUMET, assess for oth
 
 ## 5.14 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET or any other oral anti-diabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET or any other anti-diabetic drug.

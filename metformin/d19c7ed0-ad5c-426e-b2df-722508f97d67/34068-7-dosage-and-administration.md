@@ -40,7 +40,7 @@ Patients inadequately controlled on dual combination therapy with any two of the
 If therapy with a combination tablet containing sitagliptin and metformin is considered appropriate in this setting, the usual starting dose of JANUMET should provide sitagliptin dosed as 50 mg twice daily (100 mg total daily dose).
 In determining the starting dose of the metformin component, the patient’s level of glycemic control and current dose (if any) of metformin should be considered.
 Gradual dose escalation to reduce the gastrointestinal (GI) side effects associated with metformin should be considered.
-Patients currently on or initiating a sulfonylurea may require lower sulfonylurea doses to reduce the risk of hypoglycemia [see Warnings and Precautions (5.9)].
+Patients currently on or initiating a sulfonylurea may require lower sulfonylurea doses to reduce the risk of hypoglycemia [see Warnings and Precautions (5.8)].
 
 No studies have been performed specifically examining the safety and efficacy of JANUMET in patients previously treated with other oral antihyperglycemic agents and switched to JANUMET.
 Any change in therapy of type 2 diabetes should be undertaken with care and appropriate monitoring as changes in glycemic control can occur.

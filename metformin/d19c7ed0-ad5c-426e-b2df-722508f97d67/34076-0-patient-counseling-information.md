@@ -33,11 +33,11 @@ While megaloblastic anemia has rarely been seen with metformin therapy, if this 
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794106
+9794107
 
 US Patent No.: 6,699,871
 
-1Trademark of MERCK & CO., Inc., Whitehouse Station, New Jersey 08889 USA
+1Registered trademark of MERCK & CO., Inc., Whitehouse Station, New Jersey 08889 USA
 
 2Trademark of MERCK & CO., Inc., Whitehouse Station, New Jersey 08889 USA
 
@@ -46,9 +46,11 @@ Licensed to Bristol-Myers Squibb Company.
 
 COPYRIGHT © 2007, 2008 MERCK & CO., Inc. All rights reserved
 
-FDA-Approved Patient Labeling Patient Information
+FDA-Approved Patient Labeling
 
-JANUMET™ (JAN-you-met)
+Patient Information
+
+JANUMET® (JAN-you-met)
 
 (sitagliptin/metformin HCl)
 
@@ -198,10 +200,13 @@ When JANUMET is used with these medicines, you may have blood sugars that are to
 Your doctor may prescribe lower doses of the sulfonylurea or meglitinide medicine.
 Tell your doctor if you are having problems with low blood sugar.
 
-Serious allergic reactions can happen with JANUMET or sitagliptin, one of the medicines in JANUMET.
-Symptoms of a serious allergic reaction may include rash, hives, and swelling of the face, lips, tongue, and throat, difficulty breathing or swallowing.
-If you have an allergic reaction, stop taking JANUMET and call your doctor right away.
-Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
+The following additional side effects have been reported in general use with JANUMET or sitagliptin:
+
+- Serious allergic reactions can happen with JANUMET or sitagliptin, one of the medicines in JANUMET.
+  Symptoms of a serious allergic reaction may include rash, hives, and swelling of the face, lips, tongue, and throat, difficulty breathing or swallowing.
+  If you have an allergic reaction, stop taking JANUMET and call your doctor right away.
+  Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
+- Elevated liver enzymes.
 
 These are not all the possible side effects of JANUMET.
 For more information, ask your doctor.
@@ -245,8 +250,8 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Issued February 2008
+Issued October 2008
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794106
+9794107

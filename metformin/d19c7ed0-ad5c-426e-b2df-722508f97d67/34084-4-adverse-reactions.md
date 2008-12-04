@@ -75,4 +75,4 @@ Such decrease, possibly due to interference with B12 absorption from the B12-int
 The following additional adverse reactions have been identified during postapproval use of JANUMET or sitagliptin, one of the components of JANUMET.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.13)]; upper respiratory tract infection.
+Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.13)]; upper respiratory tract infection; hepatic enzyme elevations.
