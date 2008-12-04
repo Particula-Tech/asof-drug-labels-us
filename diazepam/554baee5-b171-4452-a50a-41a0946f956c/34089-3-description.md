@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Valium (diazepam) is a benzodiazepine derivative.
 The chemical name of diazepam is 7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one.

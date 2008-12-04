@@ -1,8 +1,50 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
-Side effects most commonly reported were drowsiness, fatigue and ataxia.
-Infrequently encountered were confusion, constipation, depression, diplopia, dysarthria, headache, hypotension, incontinence, jaundice, changes in libido, nausea, changes in salivation, skin rash, slurred speech, tremor, urinary retention, vertigo and blurred vision.
-Paradoxical reactions such as acute hyperexcited states, anxiety, hallucinations, increased muscle spasticity, insomnia, rage, sleep disturbances and stimulation have been reported; should these occur, use of the drug should be discontinued.
+Side effects most commonly reported were drowsiness, fatigue, muscle weakness, and ataxia.
+The following have also been reported:
+
+## Central Nervous System:
+
+confusion, depression, dysarthria, headache, slurred speech, tremor, vertigo
+
+## Gastrointestinal System:
+
+constipation, nausea, gastrointestinal disturbances
+
+## Special Senses:
+
+blurred vision, diplopia, dizziness
+
+## Cardiovascular System:
+
+hypotension
+
+## Psychiatric and Paradoxical Reactions:
+
+stimulation, restlessness, acute hyperexcited states, anxiety, agitation, aggressiveness, irritability, rage, hallucinations, psychoses, delusions, increased muscle spasticity, insomnia, sleep disturbances, and nightmares.
+Inappropriate behavior and other adverse behavioral effects have been reported when using benzodiazepines.
+Should these occur, use of the drug should be discontinued.
+They are more likely to occur in children and in the elderly.
+
+## Urogenital System:
+
+incontinence, changes in libido, urinary retention
+
+## Skin and Appendages:
+
+skin reactions
+
+## Laboratories:
+
+elevated transaminases and alkaline phosphatase
+
+## Other:
+
+changes in salivation, including dry mouth, hypersalivation
+
+Antegrade amnesia may occur using therapeutic dosages, the risk increasing at higher dosages.
+Amnestic effects may be associated with inappropriate behavior.
+
+Minor changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after Valium therapy and are of no known significance.
 
 Because of isolated reports of neutropenia and jaundice, periodic blood counts and liver function tests are advisable during long-term therapy.
-Minor changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after Valium therapy and are of no known significance.
