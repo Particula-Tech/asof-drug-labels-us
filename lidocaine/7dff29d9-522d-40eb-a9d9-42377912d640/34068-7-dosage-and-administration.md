@@ -14,7 +14,8 @@ Following acute treatment by bolus in patients in whom arrhythmias tend to recur
 | 0.4% Lidocaine Hydrochloride and 5% Dextrose Injection USP (4 mg lidocaine hydrochloride/mL) | 1–4 | 15–60 | 0.25–1.0 |
 | 0.8% Lidocaine Hydrochloride and 5% Dextrose Injection USP (8 mg lidocaine hydrochloride/mL) | 1–4 | 7.5–30 | 0.12–0.5 |
 
-### Pediatric Patients (30 mcg/kg/min).Standards and Guidelines for Cardiopulmonary Resuscitation (CPR) and Emergency Cardiac Care (ECC). American Heart Association, JAMA 244 (5):453–509, 1980.
+Pediatric Patients (30 mcg/kg/min).Standards and Guidelines for Cardiopulmonary Resuscitation (CPR) and Emergency Cardiac Care (ECC).
+American Heart Association, JAMA 244 (5):453–509, 1980.
 
 Pharmacokinetic data indicate reduced elimination of lidocaine after prolonged infusion (24 hours) with resultant prolongation of the half-life to approximately three times that seen following a single administration.
 Failure to adjust the rate of infusion in keeping with this altered ability to eliminate lidocaine may result in toxic accumulation of the drug in the patient's serum.LeLorier J, Grenon D, Latour Y, et al.: Pharmacokinetics of lidocaine after prolonged intravenous infusions in uncomplicated myocardial infarction.
