@@ -31,7 +31,7 @@ Onchocerciasis: The patient should be reminded that treatment with STROMECTOL do
 
 ## Drug Interactions
 
-Very rare post-marketing reports of increased INR (International Normalized Ratio) have been reported when ivermectin was co-administered with warfarin.
+Post-marketing reports of increased INR (International Normalized Ratio) have been rarely reported when ivermectin was co-administered with warfarin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

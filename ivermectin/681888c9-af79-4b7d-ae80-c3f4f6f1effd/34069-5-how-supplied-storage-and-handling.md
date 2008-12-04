@@ -9,16 +9,16 @@ NDC 0006-0032-20 unit dose packages of 20.
 
 Store at temperatures below 30°C (86°F).
 
-Dist. by: Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+Dist. by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: MSD BV Waarderweg 39 2031 BN Haarlem Netherlands
 
-Issued March 2008
+Issued November 2008
 
 Printed in the Netherlands
 
-9032313
+9032315
 
-80566/270208S
+82278/071108
 
-H8495
+8495

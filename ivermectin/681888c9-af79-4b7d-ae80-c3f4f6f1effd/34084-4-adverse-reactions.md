@@ -48,6 +48,14 @@ These have rarely been severe or associated with loss of vision and have general
 
 In controlled clinical trials, the following laboratory adverse experiences were reported as possibly, probably, or definitely related to the drug in ≥1% of the patients: eosinophilia (3%) and hemoglobin increase (1%).
 
-## Post-Marketing Experience for All Indications
+## Post-Marketing Experience
 
-The following adverse reactions have been reported since the drug was registered overseas: hypotension (mainly orthostatic hypotension), worsening of bronchial asthma, toxic epidermal necrolysis, Stevens-Johnson syndrome, seizures, elevation of liver enzymes, and elevation of bilirubin.
+The following adverse reactions have been reported since the drug was registered overseas:
+
+### Onchocerciasis
+
+Conjunctival hemorrhage
+
+### All Indications
+
+Hypotension (mainly orthostatic hypotension), worsening of bronchial asthma, toxic epidermal necrolysis, Stevens-Johnson syndrome, seizures, elevation of liver enzymes, and elevation of bilirubin.

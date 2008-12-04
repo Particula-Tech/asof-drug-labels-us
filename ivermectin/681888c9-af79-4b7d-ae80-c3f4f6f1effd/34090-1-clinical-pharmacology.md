@@ -36,9 +36,9 @@ STROMECTOL administered as a single dose of 200 mcg/kg for 1 day was as efficaci
 
 Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of Strongyloidiasis
 
-|  | Cure RateNumber and % of evaluable patients(%) |  |
-| --- | --- | --- |
 |  | Ivermectin170-200 mcg/kg | Comparative Agent |
+| --- | --- | --- |
+|  | Cure RateNumber and % of evaluable patients(%) |  |
 | Albendazole200 mg b.i.d. for 3 days Comparative International Study WHO Study | 24/26 (92) 126/152 (83) | 12/22 (55) 67/149 (45) |
 | Thiabendazole25 mg/kg b.i.d. for 3 days Comparative International Study US Studies | 9/14 (64) 14/14 (100) | 13/15 (87) 16/17 (94) |
 
