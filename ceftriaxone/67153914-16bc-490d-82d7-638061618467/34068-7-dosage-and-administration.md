@@ -44,8 +44,8 @@ No dosage adjustment is necessary for patients with impairment of renal or hepat
 
 Ceftriaxone for Injection and Dextrose Injection should be administered intravenously by infusion over a period of 30 minutes.
 
-Vancomycin and fluconazole are physically incompatible with ceftriaxone in admixtures.
-When either of these drugs is to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
+Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompatible with ceftriaxone in admixtures.
+When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
 
 Ceftriaxone for Injection and Dextrose Injection should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs due to possible incompatibility (see WARNINGS).
 
@@ -56,16 +56,16 @@ Such use would result in air embolism due to residual air being drawn from the p
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter before administration.
 
-## Directions for Use of DUPLEX Drug Delivery System
+## Directions for Use of DUPLEX® Drug Delivery System
 
-- To avoid inadvertent activation, DUPLEX Container should remain in the folded position until activation is intended.
+- To avoid inadvertent activation, DUPLEX® Container should remain in the folded position until activation is intended.
 
 Patient Labeling and Drug Powder/Diluent Inspection
 
 - Apply patient-specific label on foil side of container.
   USE CARE to avoid activation.
   Do not cover any portion of foil strip with patient label.
-- Unlatch side tab and unfold DUPLEX Container.
+- Unlatch side tab and unfold DUPLEX® Container.
   (See Diagram 1.)
 
 - Visually inspect diluent chamber for particulate matter.
@@ -81,7 +81,7 @@ Reconstitution (Activation)
 
 - Do not use directly after storage by refrigeration, allow the product to equilibrate to room temperature before patient use.
 - Unfold the DUPLEX® Container and point the set port in a downward direction.
-  Starting at the hanger tab end, fold the DUPLEX Container just below the diluent meniscus trapping all air above the fold.
+  Starting at the hanger tab end, fold the DUPLEX® Container just below the diluent meniscus trapping all air above the fold.
   To activate, squeeze the folded diluent chamber until the seal between the diluent and powder opens, releasing diluent into the drug powder chamber.
   (See Diagram 3.)
 
@@ -92,13 +92,15 @@ Administration
 
 - Visually inspect the reconstituted solution for particulate matter.
 - Point the set port in a downwards direction.
-  Starting at the hanger tab end, fold the DUPLEX Container just below the solution meniscus trapping all air above the fold.
-  Squeeze the folded DUPLEX Container until the seal between reconstituted drug solution and set port opens, releasing liquid to set port.
+  Starting at the hanger tab end, fold the DUPLEX® Container just below the solution meniscus trapping all air above the fold.
+  Squeeze the folded DUPLEX® Container until the seal between reconstituted drug solution and set port opens, releasing liquid to set port.
   (See Diagram 4.)
 
 - Prior to attaching the IV set, check for minute leaks by squeezing container firmly.
   If leaks are found, discard container and solution as sterility may be impaired.
-- Using aseptic technique, remove the set port cover from the set port and attach sterile administration set.
+- Using aseptic technique, peel foil cover from the set port and attach sterile administration set.
+  (See Diagram 5.)
+
 - Refer to Directions for Use accompanying the administration set.
 
 Precautions
@@ -107,5 +109,5 @@ Precautions
   However, product potency is not adversely affected.
 - Use only if prepared solution is clear and free from particulate matter.
 - Do not use in series connection.
-- Do not introduce additives into the DUPLEX Container.
+- Do not introduce additives into the DUPLEX® Container.
 - Do not freeze.

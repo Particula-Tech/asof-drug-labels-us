@@ -59,6 +59,14 @@ The chemical nature of the sonographically detected material has been determined
 The condition appears to be transient and reversible upon discontinuation of ceftriaxone sodium and institution of conservative management.
 Therefore, Ceftriaxone for Injection and Dextrose Injection should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
 
+Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported rarely in patients treated with ceftriaxone sodium.
+Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition).
+A cofactor role of ceftriaxone-related biliary precipitation cannot be ruled out.
+
+The elimination of ceftriaxone is not altered by probenecid.
+
+As with other cephalosporins, anaphylactic shock cannot be ruled out even if a thorough patient history is taken.
+
 As with other dextrose-containing solutions, Ceftriaxone for Injection and Dextrose Injection should be prescribed with caution in patients with overt or known subclinical diabetes mellitus or carbohydrate intolerance for any reason.
 
 If administration is controlled by a pumping device, care must be taken to discontinue pumping action before the container runs dry or air embolism may result.
@@ -121,3 +129,12 @@ To prevent unintentional overdose, this product should not be used in pediatric 
 Safety and effectiveness of Ceftriaxone for Injection and Dextrose Injection in neonates, infants and pediatric patients have been established for the dosages described in the DOSAGE AND ADMINISTRATION section.
 In vitro studies have shown that ceftriaxone, like some other cephalosporins, can displace bilirubin from serum albumin.
 Ceftriaxone for Injection and Dextrose Injection should not be administered to hyperbilirubinemic neonates, especially prematures (see CONTRAINDICATIONS).
+
+## Geriatric Use
+
+Of the total number of subjects in clinical studies of ceftriaxone sodium, 32% were 60 and over.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day (see CLINICAL PHARMACOLOGY).
+
+No dosage adjustment is necessary for patients with impairment of renal or hepatic function; however, blood levels should be monitored in patients with severe renal impairment (e.g., dialysis patients) and in patients with both renal and hepatic dysfunctions.

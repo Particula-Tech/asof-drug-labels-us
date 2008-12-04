@@ -8,9 +8,9 @@ Ceftriaxone Plasma Concentrations After Single Dose Administration
 | Dose/Route | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 16 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
-| 0.5 gm IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
-| 1 gm IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
-| 2 gm IV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
+| 0.5 g IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
+| 1 g IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
+| 2 g IV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
 
 Multiple IV doses ranging from 0.5 to 2 g at 12- to 24-hour intervals resulted in 15% to 36% accumulation of ceftriaxone above single dose values.
 
@@ -58,7 +58,7 @@ Average Pharmacokinetic Parameters of Ceftriaxone in Humans
 
 | Subject Group | Elimination Half-Life (hr) | Plasma Clearance (L/hr) | Volume of Distribution (L) |
 | --- | --- | --- | --- |
-| Healthy Subjects | 5.8 – 8.7 | 0.58 – 1.45 | 5.8 – 13.5 |
+| Healthy Subjects | 5.8–8.7 | 0.58–1.45 | 5.8–13.5 |
 | Elderly Subjects (mean age, 70.5 yr) | 8.9 | 0.83 | 10.7 |
 | Patients with Renal Impairment |  |  |  |
 | Hemodialysis Patients (0–5 mL/min)Creatinine clearance. | 14.7 | 0.65 | 13.7 |
@@ -72,47 +72,37 @@ Average Pharmacokinetic Parameters of Ceftriaxone in Humans
 The bactericidal activity of ceftriaxone results from inhibition of cell wall synthesis.
 Ceftriaxone has a high degree of stability in the presence of beta-lactamases, both penicillinases and cephalosporinases, of gram-negative and gram-positive bacteria.
 
+In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone.
+
 Ceftriaxone has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections described in the INDICATIONS AND USAGE section.
 
-Aerobic gram-negative microorganisms
-
-Acinetobacter calcoaceticus Enterobacter aerogenes Enterobacter cloacae Escherichia coli Haemophilus influenzae (including ampicillin-resistant and beta-lactamase producing strains) Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella catarrhalis (including beta-lactamase producing strains) Morganella morganii Neisseria gonorrhoeae (including penicillinase- and nonpenicillinase-producing strains) Neisseria meningitidis Proteus mirabilis Proteus vulgaris Serratia marcescens
+Aerobic gram-negative microorganisms Acinetobacter calcoaceticus Enterobacter aerogenes Enterobacter cloacae Escherichia coli Haemophilus influenzae (including ampicillin-resistant and beta-lactamase producing strains) Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella catarrhalis (including beta-lactamase producing strains) Morganella morganii Neisseria gonorrhoeae (including penicillinase- and nonpenicillinase-producing strains) Neisseria meningitidis Proteus mirabilis Proteus vulgaris Serratia marcescens
 
 Ceftriaxone is also active against many strains of Pseudomonas aeruginosa.
 
 NOTE: Many strains of the above organisms that are multiply resistant to other antibiotics, e.g., penicillins, cephalosporins, and aminoglycosides, are susceptible to ceftriaxone.
 
-Aerobic gram-positive microorganisms
-
-Staphylococcus aureus (including penicillinase-producing strains) Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus pyogenes Viridans group streptococci
+Aerobic gram-positive microorganisms Staphylococcus aureus (including penicillinase-producing strains) Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus pyogenes Viridans group streptococci
 
 NOTE: Methicillin-resistant staphylococci are resistant to cephalosporins, including ceftriaxone.
 Most strains of Group D streptococci and enterococci, e.g., Enterococcus (Streptococcus) faecalis, are resistant.
 
-Anaerobic microorganisms
-
-Bacteroides fragilis Clostridium species Peptostreptococcus species
+Anaerobic microorganisms Bacteroides fragilis Clostridium species Peptostreptococcus species
 
 NOTE: Most strains of Clostridium difficile are resistant.
 
 The following in vitro data are available, but their clinical significance is unknown.
 Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤8 mcg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
-Aerobic gram-negative microorganisms
+Aerobic gram-negative microorganisms Citrobacter diversus Citrobacter freundii Providencia species (including Providencia rettgeri) Salmonella species (including Salmonella typhi) Shigella species
 
-Citrobacter diversus Citrobacter freundii Providencia species (including Providencia rettgeri) Salmonella species (including Salmonella typhi) Shigella species
+Aerobic gram-positive microorganisms Streptococcus agalactiae
 
-Aerobic gram-positive microorganisms
+Anaerobic microorganisms Prevotella (Bacteroides) bivius Porphyromonas (Bacteroides) melaninogenicus
 
-Streptococcus agalactiae
+### Susceptibility Tests
 
-Anaerobic microorganisms
-
-Prevotella (Bacteroides) bivius Porphyromonas (Bacteroides) melaninogenicus
-
-## Susceptibility Tests
-
-### Dilution Techniques
+#### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -122,7 +112,7 @@ The MIC values should be interpreted according to the following criteria2 for ae
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤8 | (S) Susceptible |
-| 16 – 32 | (I) Intermediate |
+| 16–32 | (I) Intermediate |
 | ≥64 | (R) Resistant |
 
 The following interpretive criteria2 should be used when testing Haemophilus species using Haemophilus Test Media (HTM).
@@ -169,7 +159,7 @@ Standardized ceftriaxone powder should provide the following MIC values2:
 | Neisseria gonorrhoeae | 49226 | 0.004 – 0.015 |
 | Streptococcus pneumoniae | 49619 | 0.03 – 0.12 |
 
-### Diffusion Techniques
+#### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure3 requires the use of standardized inoculum concentrations.
@@ -206,7 +196,7 @@ The following interpretive criteria3 should be used when testing Streptococcus s
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
 | ≥27 | (S) Susceptible |
-| 25 – 26 | (I) Intermediate |
+| 25–26 | (I) Intermediate |
 | ≤24 | (R) Resistant |
 
 Interpretation should be as stated above for results using dilution techniques.
@@ -228,7 +218,7 @@ For the diffusion technique, the 30 mcg ceftriaxone disc should provide the foll
 | Neisseria gonorrhoeae | 49226 | 39 – 51 |
 | Streptococcus pneumoniae | 49619 | 30 – 35 |
 
-### Anaerobic Techniques
+#### Anaerobic Techniques
 
 For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods4.
 The MIC values obtained should be interpreted according to the following criteria:

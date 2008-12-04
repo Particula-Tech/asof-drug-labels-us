@@ -1,7 +1,7 @@
 # DESCRIPTION
 
-Ceftriaxone for Injection and Dextrose Injection is a sterile, nonpyrogenic, single use, packaged combination of Ceftriaxone Sodium and Dextrose Injection (diluent) in the DUPLEX sterile container.
-The DUPLEX Container is a flexible dual chamber container.
+Ceftriaxone for Injection and Dextrose Injection is a sterile, nonpyrogenic, single use, packaged combination of Ceftriaxone Sodium and Dextrose Injection (diluent) in the DUPLEX® sterile container.
+The DUPLEX® Container is a flexible dual chamber container.
 
 The drug chamber is filled with ceftriaxone sodium, a sterile, semisynthetic, broad-spectrum cephalosporin antibiotic for intravenous administration.
 Ceftriaxone sodium is (6R,7R)-7-[2-(2-Amino-4-thiazolyl)glyoxylamido]-8-oxo-3-[[(1,2,5,6-tetrahydro-2-methyl-5,6-dioxo-as-triazin-3-yl)thio]methyl]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid, 72-(Z)-(O-methyloxime), disodium salt, sesquaterhydrate.
@@ -28,8 +28,8 @@ The molecular weight of Hydrous Dextrose USP is 198.17.
 After removing the peelable foil strip, activating the seals, and thoroughly mixing, the reconstituted drug product is intended for single intravenous use.
 When reconstituted, the approximate osmolality for the reconstituted solution for Ceftriaxone for Injection and Dextrose Injection is 290 mOsmol/kg.
 
-The DUPLEX Container is Latex-free, PVC-free, and DEHP-free.
+The DUPLEX® Container is Latex-free, PVC-free, and DEHP-free.
 
-The DUPLEX dual chamber container is made from a specially formulated material.
+The DUPLEX® dual chamber container is made from a specially formulated material.
 The product (diluent and drug) contact layer is a mixture of thermoplastic rubber and a polypropylene ethylene copolymer that contains no plasticizers.
 The safety of the container system is supported by USP biological evaluation procedures.
