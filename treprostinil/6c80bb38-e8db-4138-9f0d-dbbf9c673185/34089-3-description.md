@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Remodulin® (treprostinil sodium) Injection is a sterile sodium salt formulated for subcutaneous or intravenous administration.
+Remodulin (treprostinil sodium) Injection is a sterile sodium salt formulated for subcutaneous or intravenous administration.
 Remodulin is supplied in 20 mL multi-use vials in four strengths, containing 1 mg/mL, 2.5 mg/mL, 5 mg/mL or 10 mg/mL of treprostinil.
 Each mL also contains 5.3 mg sodium chloride (except for the 10 mg/mL strength which contains 4.0 mg sodium chloride), 3.0 mg metacresol, 6.3 mg sodium citrate, and water for injection.
 Sodium hydroxide and hydrochloric acid may be added to adjust pH between 6.0 and 7.2.
