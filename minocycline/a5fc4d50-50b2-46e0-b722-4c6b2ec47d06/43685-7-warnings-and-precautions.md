@@ -18,7 +18,7 @@ Evidence of embryotoxicity has been noted in animals treated early in pregnancy.
 The anti-anabolic action of the tetracyclines may cause an increase in BUN.
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
 Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours.
-(SeeDOSAGE AND ADMINISTRATION.)
+(See DOSAGE AND ADMINISTRATION.)
 If renal impairment exists, even usual oral or parenteral doses may lead to systemic accumulation of the drug and possible liver toxicity.
 
 Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
@@ -68,10 +68,10 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 This reaction has been reported with use of minocycline.
 
 Patients who experience central nervous system symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 Concurrent use of tetracycline with oral contraceptives may render oral contraceptives less effective.
-(SeeDrug Interactions.)
+(See Drug Interactions.)
 
 Patients should be counseled that antibacterial drugs including minocycline hydrochloride capsules should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -100,7 +100,7 @@ Concurrent use of tetracyclines with oral contraceptives may render oral contrac
 
 Administration of isotretinoin should be avoided shortly before, during, and shortly after minocycline therapy.
 Each drug alone has been associated with pseudotumor cerebri.
-(SeePRECAUTIONS.)
+(See PRECAUTIONS.)
 
 Increased risk of ergotism when ergot alkaloids or their derivatives are given with tetracyclines.
 
@@ -120,7 +120,7 @@ Segment I (fertility and general reproduction) studies have provided evidence th
 
 ### Teratogenic Effects
 
-Pregnancy Category D. (SeeWARNINGS.)
+Pregnancy Category D. (See WARNINGS.)
 
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.
@@ -131,7 +131,7 @@ If minocycline is used during pregnancy or if the patient becomes pregnant while
 
 ### Nonteratogenic Effects
 
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 ## Labor and Delivery
 
@@ -141,15 +141,15 @@ The effect of tetracyclines on labor and delivery is unknown.
 
 Tetracyclines are excreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 ## Pediatric Use
 
 Minocycline is not recommended for the use in children below 8 years of age unless the expected benefits of therapy outweigh the risks.
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 ## Geriatric Use
 
 Clinical studies of oral minocycline did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(SeeWARNINGS,DOSAGE AND ADMINISTRATION.)
+(See WARNINGS, DOSAGE AND ADMINISTRATION.)

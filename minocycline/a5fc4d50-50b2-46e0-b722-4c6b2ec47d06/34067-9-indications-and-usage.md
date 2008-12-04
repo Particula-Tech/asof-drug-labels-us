@@ -6,7 +6,7 @@ Minocycline hydrochloride capsules are indicated in the treatment of the followi
 - Respiratory tract infections caused by Mycoplasma pneumoniae.
 - Lymphogranuloma venereum caused by Chlamydia trachomatis.
 - Psittacosis (Ornithosis) due to Chlamydia psittaci.
-- Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated, as judged by immuno-fluorescence.
+- Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated, as judged by immunofluorescence.
 - Inclusion conjunctivitis caused by Chlamydia trachomatis.
 - Nongonococcal urethritis, endocervical, or rectal infections in adults caused by Ureaplasma urealyticum or Chlamydia trachomatis.
 - Relapsing fever due to Borrelia recurrentis.

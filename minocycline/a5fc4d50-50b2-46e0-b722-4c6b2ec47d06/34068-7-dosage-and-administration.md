@@ -3,8 +3,8 @@
 THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
 
-Minocycline hydrochloride capsules should be taken at least 1 hour before meals or 2 hours after meals.
-(SeeCLINICAL PHARMACOLOGY.)
+Minocycline hydrochloride capsules may be taken with or without food.
+(See CLINICAL PHARMACOLOGY.)
 
 Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
 The capsules should be swallowed whole.
@@ -22,7 +22,7 @@ Uncomplicated gonococcal infections other than urethritis and anorectal infectio
 
 In the treatment of uncomplicated gonococcal urethritis in men, 100 mg every 12 hours for 5 days is recommended.
 
-For the treatment of syphilis, the usual dosage of minocycline hydrochloride capsules should be administered over a period of 10 to 15 days.
+For the treatment of syphilis, the usual dosage of minocycline hydrochloride should be administered over a period of 10 to 15 days.
 Close follow-up, including laboratory tests, is recommended.
 
 In the treatment of meningococcal carrier state, the recommended dosage is 100 mg every 12 hours for 5 days.
@@ -33,8 +33,8 @@ Uncomplicated urethral, endocervical, or rectal infection in adults caused by Ch
 
 Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
 
-The pharmacokinetics of minocycline in patients with renal impairment (CLCR <80 mL/min) have not been fully characterized.
+The pharmacokinetics of minocycline in patients with renal impairment (CL CR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
 However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine should be monitored.
-(SeeWARNINGS.)
+(See WARNINGS.)
