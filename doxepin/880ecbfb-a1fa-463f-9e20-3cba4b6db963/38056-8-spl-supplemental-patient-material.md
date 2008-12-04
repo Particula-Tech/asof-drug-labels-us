@@ -36,6 +36,9 @@ Call a healthcare provider right away if you or your family member has any of th
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088
+
 What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
@@ -53,3 +56,5 @@ What else do I need to know about antidepressant medicines?
   Talk to your child's healthcare provider for more information.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+
+October 2008
