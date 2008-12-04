@@ -11,7 +11,7 @@ Under the conditions of the assays, dasatinib was able to overcome imatinib resi
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+### Absorption
 
 Maximum plasma concentrations (Cmax) of dasatinib are observed between 0.5 and 6 hours (Tmax) following oral administration.
 Dasatinib exhibits dose proportional increases in AUC and linear elimination characteristics over the dose range of 15 mg to 240 mg/day.
@@ -20,12 +20,12 @@ The overall mean terminal half-life of dasatinib is 3–5 hours.
 Data from a study of 54 healthy subjects administered a single, 100-mg dose of dasatinib 30 minutes following consumption of a high-fat meal resulted in a 14% increase in the mean AUC of dasatinib.
 The observed food effects were not clinically relevant.
 
-Distribution
+### Distribution
 
 In patients, dasatinib has an apparent volume of distribution of 2505 L, suggesting that the drug is extensively distributed in the extravascular space.
 Binding of dasatinib and its active metabolite to human plasma proteins in vitro was approximately 96% and 93%, respectively, with no concentration dependence over the range of 100–500 ng/mL.
 
-Metabolism
+### Metabolism
 
 Dasatinib is extensively metabolized in humans, primarily by the cytochrome P450 enzyme 3A4.
 CYP3A4 was the primary enzyme responsible for the formation of the active metabolite.
@@ -40,12 +40,12 @@ Dasatinib is a time-dependent inhibitor of CYP3A4.
 At clinically relevant concentrations, dasatinib does not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, or 2E1.
 Dasatinib is not an inducer of human CYP enzymes.
 
-Elimination
+### Elimination
 
 Elimination is primarily via the feces.
 Following a single oral dose of [14C]-labeled dasatinib, approximately 4% and 85% of the administered radioactivity was recovered in the urine and feces, respectively, within 10 days.
 Unchanged dasatinib accounted for 0.1% and 19% of the administered dose in urine and feces, respectively, with the remainder of the dose being metabolites.
 
-Effects of Age and Gender
+### Effects of Age and Gender
 
 Pharmacokinetic analyses of demographic data indicate that there are no clinically relevant effects of age and gender on the pharmacokinetics of dasatinib.

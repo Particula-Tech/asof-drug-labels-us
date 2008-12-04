@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Phase 2 Single-Arm Studies
+### Phase 2 Single-Arm Studies
 
 Four Phase 2, single-arm, multicenter studies were conducted to determine the efficacy and safety of SPRYCEL in patients with CML or Ph+ ALL resistant to or intolerant of treatment with imatinib.
 Resistance to imatinib included failure to achieve a complete hematologic response (within 3–6 months) or major cytogenetic response (by month 12) or progression of disease after a previous cytogenetic or hematologic response.
@@ -62,11 +62,11 @@ Table 9: Efficacy of SPRYCEL in Phase 2 Single-Arm Clinical Studiesa
 | MCyR (95% CI) | 45 (37–52) | 31 (22–41) | 30 (20–42) | 50 (34–66) | 58 (41–74) |
 | CCyR (95% CI) | 33 (26–40) | 21 (14–30) | 27 (17–39) | 43 (28–59) | 58 (41–74) |
 | a Numbers in bold font are the results of primary endpoints. |  |  |  |  |  |
-| b Hematologic response criteria (all responses confirmed after 4 weeks): Major hematologic response: (MaHR) = complete hematologic response (CHR) + no evidence of leukemia (NEL). CHR (chronic CML): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. CHR (advanced CML/Ph+ ALL): WBC ≤ institutional ULN, ANC ≥1000/mm3, platelets ≥100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤5%, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. NEL: same criteria as for CHR but ANC ≥500/mm3 and <1000/mm3, or platelets ≥20,000/mm3 and ≤100,000/mm3. |  |  |  |  |  |
+| b Hematologic response criteria (all responses confirmed after 4 weeks): Major hematologic response: (MaHR) = complete hematologic response (CHR) + no evidence of leukemia (NEL). CHR (chronic CML): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. CHR (advanced CML/Ph+ ALL): WBC ≤ institutional ULN, ANC ≥1000/mm3, platelets≥100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤5%, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. NEL: same criteria as for CHR but ANC ≥500/mm3 and <1000/mm3, or platelets ≥20,000/mm3 and ≤100,000/mm3. |  |  |  |  |  |
 | c Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (>0%–35%). MCyR (0%–35%) combines both complete and partial responses. |  |  |  |  |  |
 | n/a = not applicable. |  |  |  |  |  |
 
-Randomized Studies
+### Randomized Studies
 
 Phase 2 randomized study of SPRYCEL 70 mg twice daily or imatinib 800 mg daily (400 mg twice daily).
 A randomized, open-label study was conducted in patients with chronic phase CML whose disease was resistant to prior imatinib therapy at doses of 400 or 600 mg.
@@ -95,17 +95,17 @@ Since the minimum follow-up was only 6 months, there were too few progressions t
 
 Table 10: Efficacy of SPRYCEL in Phase 3 Dose-Optimization Study (Chronic Phase CML)
 
-|  | 100 mg QD (N=167) | 50 mg BIDa (N=168) | 140 mg QDa (N=167) | 70 mg BIDa (N=168) |  |
-| --- | --- | --- | --- | --- | --- |
-| Hematologic Response Rateb (%) |  |  |  |  |  |
-| CHR | 90% | 92% | 86% | 87% |  |
-| Cytogenetic Responsec (%) |  |  |  |  |  |
-| MCyR |  |  |  |  |  |
-| All patients (95% CI) | 59% (51–66) | 54% (46–61) | 56% (48–63) | 55% (48–63) |  |
-| Imatinib-resistant patients (95% CI) (n/N) | 53% (44–62) (66/124) | 47% (38–56) (58/124) | 50% (41–60) (62/123) | 51% (42–60) (65/127) |  |
-| CCyR |  |  |  |  |  |
-| All patients | 41% | 42% | 44% | 45% |  |
-| Imatinib-resistant patients (95% CI) (n/N) | 34% (26–43) (42/124) | 35% (26–44) (43/124) | 36% (27–45) (44/123) | 39% (31–48) (50/127) |  |
-| a Not a recommended starting dosage of SPRYCEL for chronic phase CML. |  |  |  |  |  |
-| b Hematologic response criteria (confirmed after 4 weeks): CHR (chronic CML): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. |  |  |  |  |  |
-| c Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (>0%–35%). MCyR (0%–35%) combines both complete and partial responses. |  |  |  |  |  |
+|  | 100 mg QD (N=167) | 50 mg BIDa (N=168) | 140 mg QDa (N=167) | 70 mg BIDa (N=168) |
+| --- | --- | --- | --- | --- |
+| Hematologic Response Rateb (%) |  |  |  |  |
+| CHR | 90% | 92% | 86% | 87% |
+| Cytogenetic Responsec (%) |  |  |  |  |
+| MCyR |  |  |  |  |
+| All patients (95% CI) | 59% (51–66) | 54% (46–61) | 56% (48–63) | 55% (48–63) |
+| Imatinib-resistant patients (95% CI) (n/N) | 53% (44–62) (66/124) | 47% (38–56) (58/124) | 50% (41–60) (62/123) | 51% (42–60) (65/127) |
+| CCyR |  |  |  |  |
+| All patients | 41% | 42% | 44% | 45% |
+| Imatinib-resistant patients (95% CI) (n/N) | 34% (26–43) (42/124) | 35% (26–44) (43/124) | 36% (27–45) (44/123) | 39% (31–48) (50/127) |
+| a Not a recommended starting dosage of SPRYCEL for chronic phase CML. |  |  |  |  |
+| b Hematologic response criteria (confirmed after 4 weeks): CHR (chronic CML): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. |  |  |  |  |
+| c Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (>0%–35%). MCyR (0%–35%) combines both complete and partial responses. |  |  |  |  |

@@ -44,21 +44,27 @@ If this symptom is significant, they should seek medical attention.
 
 Patients should be informed that SPRYCEL contains 135 mg of lactose monohydrate in a 100-mg daily dose and 189 mg of lactose monohydrate in a 140-mg daily dose.
 
-Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA US Patent No 6,596,746 Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1237674A1 Rev May 2008
+Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+
+US Patent No 6,596,746
+
+Bristol-Myers Squibb Princeton, NJ 08543 USA
+
+1237674A3 Rev October 2008
 
 ## 17.10 FDA-Approved Patient Labeling
 
 SPRYCEL® (dasatinib) Tablets
 
-What is SPRYCEL?
+### What is SPRYCEL?
 
 SPRYCEL (dasatinib) is a prescription medicine used to treat adults who have chronic myeloid leukemia (CML) and to treat adults who have a particular form of acute lymphoblastic leukemia (ALL) called Philadelphia chromosome positive or Ph+ ALL.
-It is intended for use in patients who are no longer benefiting from treatment with the current available therapies for these diseases (resistance), including a medicine called GLEEVEC® (imatinib mesylate).
+It is intended for use in patients who are no longer benefiting from treatment with the current available therapiesfor these diseases (resistance), including a medicine called GLEEVEC® (imatinib mesylate).
 It may also be used in patients who experience severe side effects from GLEEVEC and are no longer able to take it (intolerance).
 The long-term benefits and toxicities of SPRYCEL are currently still being studied.
 SPRYCEL has not been studied in children.
 
-What is Leukemia?
+### What is Leukemia?
 
 Leukemia is a cancer of white blood cells, which grow in the bone marrow.
 In leukemia, white blood cells multiply in an uncontrolled manner, occupying the bone marrow space and spilling out into the bloodstream.
@@ -73,18 +79,19 @@ Ph+ acute lymphoblastic leukemia or Ph+ ALL is another form of leukemia.
 Acute leukemias progress faster than chronic leukemias.
 In Ph+ ALL, lymphoblastic white blood cells multiply in an uncontrolled manner.
 
-How does SPRYCEL work?
+### How does SPRYCEL work?
 
 The active ingredient of SPRYCEL is dasatinib.
 Dasatinib reduces the activity of one or more proteins responsible for the uncontrolled growth of the leukemia cells of patients with CML or Ph+ ALL.
 This reduction allows the bone marrow to resume production of normal red cells, white cells, and platelets.
 
-Who should not take SPRYCEL?
+### Who should not take SPRYCEL?
 
 - SPRYCEL is currently not recommended for patients who have not previously had a trial of GLEEVEC® (imatinib mesylate).
 - Women who are pregnant or planning to become pregnant should not take SPRYCEL (see below).
 
-What should I tell my healthcare provider before I take SPRYCEL?
+### What should I tell my healthcare provider before I take SPRYCEL?
+
 Tell your healthcare provider about all of your medical conditions, including if you:
 
 - are pregnant or planning to become pregnant.
@@ -99,7 +106,7 @@ Tell your healthcare provider about all of your medical conditions, including if
 - have a liver or heart problem.
 - are lactose intolerant.
 
-Can I take other medicines with SPRYCEL?
+### Can I take other medicines with SPRYCEL?
 
 Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins, antacids, and herbal supplements.
 
@@ -118,7 +125,7 @@ Medicines that neutralize stomach acid, such as MAALOX® (aluminum hydroxide/mag
 
 Since SPRYCEL therapy may cause bleeding, tell your healthcare provider if you are using blood thinners, such as COUMADIN® (warfarin sodium) or aspirin.
 
-How should I take SPRYCEL?
+### How should I take SPRYCEL?
 
 - If you have chronic phase CML, the usual dose is 100 mg (one 100-mg tablet or two 50-mg tablets) once daily, either in the morning or in the evening.
 - If you have accelerated or blast crisis CML or Ph+ ALL, the usual dose is 70 mg (one 70-mg tablet) twice daily, once in the morning and once in the evening.
@@ -134,7 +141,7 @@ How should I take SPRYCEL?
   Call your healthcare provider or pharmacist if you are not sure what to do.
 - If you accidentally take more than the prescribed dose of SPRYCEL, call your healthcare provider right away.
 
-What are the possible side effects of SPRYCEL?
+### What are the possible side effects of SPRYCEL?
 
 The following information describes the most important side effects of SPRYCEL.
 It is not a comprehensive list of all side effects recorded in clinical trials with SPRYCEL.
@@ -156,7 +163,7 @@ Other common side effects of SPRYCEL therapy include diarrhea, headache, skin ra
 
 In clinical trials of 2182 patients, 10% (10 out of 100) of patients permanently stopped SPRYCEL therapy because of side effects.
 
-How will I know if SPRYCEL is working?
+### How will I know if SPRYCEL is working?
 
 How well you respond to SPRYCEL therapy may depend on several factors, including the phase of your disease, prior treatments, or other factors your healthcare provider may discuss with you.
 General treatment goals for patients treated with SPRYCEL include a reduction in the number of leukemia cells and improvement or normalization of the white blood cell, red blood cell, and platelet counts.
@@ -164,7 +171,7 @@ General treatment goals for patients treated with SPRYCEL include a reduction in
 While you are on SPRYCEL, your healthcare provider will monitor these responses through routine blood tests.
 The type and frequency of these tests will be determined by your healthcare provider and may vary depending on the status of your disease.
 
-How should I store SPRYCEL?
+### How should I store SPRYCEL?
 
 - Store SPRYCEL (dasatinib) Tablets at room temperature, 59° to 86° F (15° to 30° C). SPRYCEL Tablets do not require refrigeration.
 - Keep the container tightly closed.
@@ -186,8 +193,35 @@ Active Ingredient: dasatinib
 Inactive Ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
 The tablet coating consists of hypromellose, titanium dioxide, and polyethylene glycol.
 
-——————— REYATAZ® is a registered trademark of Bristol-Myers Squibb Company.
+—————————————— REYATAZ® is a registered trademark of Bristol-Myers Squibb Company.
 COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.
 
-Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA US Patent No 6,596,746 Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1237674A1X Rev May 2008
+Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+
+US Patent No 6,596,746
+
+Bristol-Myers Squibb Princeton, NJ 08543 USA
+
+1237674A3 Rev October 2008
+
+### What are the ingredients in SPRYCEL?
+
+What are the ingredients in SPRYCEL?
+
+Active Ingredient: dasatinib
+
+Inactive Ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
+The tablet coating consists of hypromellose, titanium dioxide, and polyethylene glycol.
+
+—————————————— REYATAZ® is a registered trademark of Bristol-Myers Squibb Company.
+COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
+Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.
+
+Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+
+US Patent No 6,596,746
+
+Bristol-Myers Squibb Princeton, NJ 08543 USA
+
+1237674A3 Rev October 2008

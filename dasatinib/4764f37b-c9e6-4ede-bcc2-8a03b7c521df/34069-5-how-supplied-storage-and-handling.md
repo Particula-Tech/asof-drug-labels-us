@@ -11,7 +11,7 @@ Table 11: SPRYCEL Trade Presentations
 | 0003-0527-11 | 20 mg | white to off-white, biconvex, round, film-coated tablet with “BMS” debossed on one side and “527” on the other side | 60 |
 | 0003-0528-11 | 50 mg | white to off-white, biconvex, oval, film-coated tablet with “BMS” debossed on one side and “528” on the other side | 60 |
 | 0003-0524-11 | 70 mg | white to off-white, biconvex, round, film-coated tablet with “BMS” debossed on one side and “524” on the other side | 60 |
-| 0003-0852-22 | 100 mg | white to off-white, biconvex, oval, film-coated tablet with “BMS 100” debossed on one side and “852” on the other side | 30 |
+| 0003-0852–22 | 100 mg | white to off-white, biconvex, oval, film-coated tablet with “BMS 100” debossed on one side and “852” on the other side | 30 |
 
 ## 16.2 Storage
 

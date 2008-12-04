@@ -2,7 +2,7 @@
 
 SPRYCEL (dasatinib) is an inhibitor of multiple tyrosine kinases.
 The chemical name for dasatinib is N-(2-chloro-6-methylphenyl)-2-[[6-[4-(2-hydroxyethyl)-1-piperazinyl]-2-methyl-4-pyrimidinyl]amino]-5-thiazolecarboxamide, monohydrate.
-The molecular formula is C22H26ClN7O2S • H2O, which corresponds to a formula weight of 506.02 (monohydrate).
+The molecular formula is C22H26ClN7O2S• H2O, which corresponds to a formula weight of 506.02 (monohydrate).
 The anhydrous free base has a molecular weight of 488.01.
 Dasatinib has the following chemical structure:
 

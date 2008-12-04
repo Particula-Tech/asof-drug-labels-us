@@ -5,7 +5,7 @@
 Treatment with SPRYCEL is associated with severe (NCI CTC Grade 3 or 4) thrombocytopenia, neutropenia, and anemia.
 Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML.
 Complete blood counts should be performed weekly for the first 2 months and then monthly thereafter, or as clinically indicated.
-Myelosuppression was generally reversible and usually managed by withholding SPRYCEL temporarily or dose reduction [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+Myelosuppression was generally reversible and usually managed by withholdingSPRYCEL temporarily or dose reduction [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
 In a Phase 3 dose-optimization study in patients with chronic phase CML, Grade 3 or 4 myelosuppression was reported less frequently in patients treated with 100 mg once daily than in patients treated with 70 mg twice daily [see Table 6, Adverse Reactions (6.1)].
 
 ## 5.2 Bleeding Related Events

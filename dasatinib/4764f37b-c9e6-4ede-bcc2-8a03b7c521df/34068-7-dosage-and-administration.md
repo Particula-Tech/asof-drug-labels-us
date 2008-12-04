@@ -30,7 +30,7 @@ In clinical studies of adult CML and Ph+ ALL patients, dose escalation to 140 mg
 
 ## 2.3 Dose Adjustment for Adverse Reactions
 
-Myelosuppression
+### Myelosuppression
 
 In clinical studies, myelosuppression was managed by dose interruption, dose reduction, or discontinuation of study therapy.
 Hematopoietic growth factor has been used in patients with resistant myelosuppression.
@@ -38,17 +38,17 @@ Guidelines for dose modifications are summarized in Table 1.
 
 Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 
-| Chronic Phase CML (starting dose 100 mg once daily) | ANC* <0.5 × 109/L or Platelets <50× 109/L | 1. Stop SPRYCEL until ANC ≥1.0× 109/L and platelets ≥50 × 109/L. |
+| Chronic Phase CML (starting dose 100 mg once daily) | ANC* <0.5× 109/L or Platelets <50× 109/L | 1. Stop SPRYCEL until ANC ≥1.0 × 109/L and platelets ≥50 × 109/L. |
 | --- | --- | --- |
 | 2. Resume treatment with SPRYCEL at the original starting dose if recovery occurs in ≤7 days. |  |  |
-| 3. If platelets <25 × 109/L or recurrence of ANC <0.5 × 109/L for >7 days, repeat Step 1 and resume SPRYCEL at a reduced dose of 80 mg once daily (second episode) or discontinue (third episode). |  |  |
-| Accelerated Phase CML, Blast Phase CML and Ph+ ALL (starting dose 70 mg twice daily) | ANC <0.5 × 109/L or Platelets<10 × 109/L | 1. Check if cytopenia is related to leukemia (marrow aspirate or biopsy). |
-| 2. If cytopenia is unrelated to leukemia, stop SPRYCEL until ANC ≥1.0 × 109/L and platelets ≥20 × 109/L and resume at the original starting dose. |  |  |
+| 3. If platelets<25 × 109/L or recurrence of ANC <0.5 × 109/L for >7 days, repeat Step 1 and resume SPRYCEL at a reduced dose of 80 mg once daily (second episode) or discontinue (third episode). |  |  |
+| Accelerated Phase CML, Blast Phase CML and Ph+ ALL (starting dose 70 mg twice daily) | ANC<0.5 × 109/L or Platelets<10 × 109/L | 1. Check if cytopenia is related to leukemia (marrow aspirate or biopsy). |
+| 2. If cytopenia is unrelated to leukemia, stop SPRYCEL until ANC ≥1.0 × 109/L and platelets≥20 × 109/L and resume at the original starting dose. |  |  |
 | 3. If recurrence of cytopenia, repeat Step 1 and resume SPRYCEL at a reduced dose of 50 mg twice daily (second episode) or 40 mg twice daily (third episode). |  |  |
 | 4. If cytopenia is related to leukemia, consider dose escalation to 100 mg twice daily. |  |  |
 | * ANC: absolute neutrophil count |  |  |
 
-Non-hematological adverse reactions
+### Non-hematological adverse reactions
 
 If a severe non-hematological adverse reaction develops with SPRYCEL use, treatment must be withheld until the event has resolved or improved.
 Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
