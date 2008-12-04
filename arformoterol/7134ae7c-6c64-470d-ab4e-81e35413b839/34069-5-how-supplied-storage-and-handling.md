@@ -25,6 +25,6 @@ Manufactured for: Sepracor Inc. Marlborough, MA 01752 USA For customer service, 
 To report adverse events, call 1-877-737-7226.
 For medical information, call 1-800-739-0565.
 
-January 2008
+August 2008
 
-901005R2
+901005R4

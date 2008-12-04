@@ -109,6 +109,8 @@ Tell your healthcare provider if you get any side effect that bothers you or tha
 
 These are not all the side effects with BROVANA.
 Ask your healthcare provider or pharmacist for more information.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store BROVANA?
 
@@ -118,7 +120,7 @@ How should I store BROVANA?
   After opening the pouch, unused ready-to-use vials should be returned to, and stored in, the pouch.
   An opened ready-to-use vial should be used right away.
   BROVANA may be used directly from the refrigerator.
-- BROVANA may also be stored at room temperature between 68ºF to 77ºF (20ºC to 25ºC) for up to 6 weeks (42 days).
+- BROVANA may also be stored at room temperature between 68ºF to 77ºF (20ºC to 25ºC) for up to 6 weeks.
   If stored at room temperature, discard BROVANA if it is not used after 6 weeks or if past the expiration date, whichever is sooner.
   Space is provided on the packaging to record room temperature storage times.
 - Do not use BROVANA after the expiration date provided on the foil pouch and ready-to-use vial.
@@ -173,6 +175,6 @@ Sepracor
 
 Manufactured for: Sepracor Inc. Marlborough, MA 01752 USA
 
-January 2008
+August 2008
 
-901005R2
+901005R4

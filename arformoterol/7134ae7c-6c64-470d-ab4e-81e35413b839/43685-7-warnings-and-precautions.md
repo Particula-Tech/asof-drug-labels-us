@@ -53,7 +53,7 @@ As with other inhaled beta2-adrenergic drugs, BROVANA should not be used more of
 BROVANA (arformoterol tartrate) Inhalation Solution should not be used to treat acute symptoms of COPD.
 BROVANA has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose.
 When prescribing BROVANA, the physician should also provide the patient with an inhaled, short-acting beta2-agonist for treatment of COPD symptoms that occur acutely, despite regular twice-daily (morning and evening) use of BROVANA.
-Patients should also be cautioned that increasing inhaled beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated (seeInformation for Patients and the accompanying Medication Guide).
+Patients should also be cautioned that increasing inhaled beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated (see Information for Patients and the accompanying Medication Guide).
 
 BROVANA, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension; in patients with convulsive disorders or thyrotoxicosis; and in patients who are unusually responsive to sympathomimetic amines.
 Clinically significant changes in systolic and/or diastolic blood pressure, pulse rate and electrocardiograms have been seen infrequently in individual patients in controlled clinical studies with arformoterol tartrate.
