@@ -121,7 +121,7 @@ Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tach
 
 Aphonia, earache, facial and oropharyngeal edema, paranasal sinus pain, rhinitis, throat soreness and irritation, tonsillitis.
 
-### Endocrine and Metabolic:
+### Endocrine and Metabolic
 
 Cushing syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism, hyperglycemia, osteoporosis.
 

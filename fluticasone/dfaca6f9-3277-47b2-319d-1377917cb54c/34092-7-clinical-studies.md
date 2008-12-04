@@ -1,7 +1,7 @@
 # CLINICAL TRIALS
 
 ADVAIR HFA has been studied in patients with asthma 12 years of age and older.
-ADVAIR HFA has not been studiedin patients under 12 years of age or in patients with chronic obstructive pulmonary disease (COPD).
+ADVAIR HFA has not been studied in patients under 12 years of age or in patients with chronic obstructive pulmonary disease (COPD).
 In clinical trials comparing ADVAIR HFA Inhalation Aerosol with the individual components, improvements in most efficacy endpoints were greater with ADVAIR HFA than with the use of either fluticasone propionate or salmeterol alone.
 In addition, clinical trials showed comparable results between ADVAIR HFA and ADVAIR DISKUS.
 
@@ -23,9 +23,9 @@ As shown in Table 1, statistically significantly fewer patients receiving ADVAIR
 Fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma compared with fluticasone propionate 44 mcg; however, the difference was not statistically significant.
 
 Table 1.
-Percent of Patients Withdrawn Due toWorsening Asthma in Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
+Percent of Patients Withdrawn Due to Worsening Asthma in Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
-| ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol44 mcg(n = 89) | Salmeterol CFCInhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
+| ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
 | --- | --- | --- | --- |
 | 2% | 8% | 25% | 28% |
 
@@ -49,6 +49,8 @@ Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-A
 | BaselineChange from baseline | 3.1-2.1 | 2.4-0.4 | 2.7-0.8 | 2.70.2 |
 | Asthma symptom score/day |  |  |  |  |
 | BaselineChange from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
+
+*Change from baseline = change from baseline at Endpoint (last available data).
 
 The subjective impact of asthma on patients’ perceptions of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).
 Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI 0.85, 1.44] compared with placebo).

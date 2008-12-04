@@ -251,21 +251,34 @@ Instructions for taking a dose from your ADVAIR HFA:
 Read through the 7 steps below before using ADVAIR HFA.
 If you have any questions, ask your doctor or pharmacist.
 
-1. Take the cap off the mouthpiece of the actuator.
-   Shake the inhaler well for 5 seconds before each spray.
-2. Hold the inhaler with the mouthpiece down (see Figure 2).
-   Breathe out through your mouth and push as much air from your lungs as you can.
-   Put the mouthpiece in your mouth and close your lips around it.
-3. Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
-   Right after the spray comes out, take your finger off the canister.
-   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
-4. Hold your breath as long as you can, up to 10 seconds, then breathe normally.
-5. Wait about 30 seconds and shake the inhaler again for 5 seconds.
-   Repeat steps 2 through 4.
-6. After you finish taking this medicine, rinse your mouth with water.
-   Spit out the water.
-   Do not swallow it.
-7. Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
+1.
+Take the cap off the mouthpiece of the actuator.
+Shake the inhaler well for 5 seconds before each spray.
+
+2.
+Hold the inhaler with the mouthpiece down (see Figure 2).
+Breathe out through your mouth and push as much air from your lungs as you can.
+Put the mouthpiece in your mouth and close your lips around it.
+
+3.
+Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+Right after the spray comes out, take your finger off the canister.
+After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+
+4.
+Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+
+5.
+Wait about 30 seconds and shake the inhaler again for 5 seconds.
+Repeat steps 2 through 4.
+
+6.
+After you finish taking this medicine, rinse your mouth with water.
+Spit out the water.
+Do not swallow it.
+
+7.
+Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
 
 When to replace your ADVAIR HFA:
 
@@ -279,14 +292,21 @@ How to clean your ADVAIR HFA:
 Clean the inhaler at least once a week after your evening dose.
 It is important to keep the canister and plastic actuator clean so the medicine will not build-up and block the spray.
 
-1. Take the cap off the mouthpiece.
-   The strap on the cap will stay attached to the actuator.
-   Do not take the canister out of the plastic actuator.
-2. Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
-   Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
-3. Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-   Let the actuator air-dry overnight.
-4. Put the cap back on the mouthpiece after the actuator has dried.
+1.
+Take the cap off the mouthpiece.
+The strap on the cap will stay attached to the actuator.
+Do not take the canister out of the plastic actuator.
+
+2.
+Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
+Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
+
+3.
+Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+Let the actuator air-dry overnight.
+
+4.
+Put the cap back on the mouthpiece after the actuator has dried.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -508,7 +528,7 @@ Active ingredients: fluticasone propionate, salmeterol xinafoate
 
 Inactive ingredient: propellant HFA-134a
 
-How to use your ADVAIR HFA:
+How to use your ADVAIR HFA
 
 The parts of your ADVAIR HFA:
 
@@ -559,21 +579,34 @@ Instructions for taking a dose from your ADVAIR HFA:
 Read through the 7 steps below before using ADVAIR HFA.
 If you have any questions, ask your doctor or pharmacist.
 
-1. Take the cap off the mouthpiece of the actuator.
-   Shake the inhaler well for 5 seconds before each spray.
-2. Hold the inhaler with the mouthpiece down (see Figure 2).
-   Breathe out through your mouth and push as much air from your lungs as you can.
-   Put the mouthpiece in your mouth and close your lips around it.
-3. Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
-   Right after the spray comes out, take your finger off the canister.
-   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
-4. Hold your breath as long as you can, up to 10 seconds, then breathe normally.
-5. Wait about 30 seconds and shake the inhaler again for 5 seconds.
-   Repeat steps 2 through 4.
-6. After you finish taking this medicine, rinse your mouth with water.
-   Spit out the water.
-   Do not swallow it.
-7. Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
+1.
+Take the cap off the mouthpiece of the actuator.
+Shake the inhaler well for 5 seconds before each spray.
+
+2.
+Hold the inhaler with the mouthpiece down (see Figure 2).
+Breathe out through your mouth and push as much air from your lungs as you can.
+Put the mouthpiece in your mouth and close your lips around it.
+
+3.
+Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+Right after the spray comes out, take your finger off the canister.
+After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+
+4.
+Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+
+5.
+Wait about 30 seconds and shake the inhaler again for 5 seconds.
+Repeat steps 2 through 4.
+
+6.
+After you finish taking this medicine, rinse your mouth with water.
+Spit out the water.
+Do not swallow it.
+
+7.
+Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
 
 When to replace your ADVAIR HFA:
 
@@ -587,14 +620,21 @@ How to clean your ADVAIR HFA:
 Clean the inhaler at least once a week after your evening dose.
 It is important to keep the canister and plastic actuator clean so the medicine will not build-up and block the spray.
 
-1. Take the cap off the mouthpiece.
-   The strap on the cap will stay attached to the actuator.
-   Do not take the canister out of the plastic actuator.
-2. Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
-   Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
-3. Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-   Let the actuator air-dry overnight.
-4. Put the cap back on the mouthpiece after the actuator has dried.
+1.
+Take the cap off the mouthpiece.
+The strap on the cap will stay attached to the actuator.
+Do not take the canister out of the plastic actuator.
+
+2.
+Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
+Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
+
+3.
+Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+Let the actuator air-dry overnight.
+
+4.
+Put the cap back on the mouthpiece after the actuator has dried.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

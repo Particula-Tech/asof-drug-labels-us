@@ -90,7 +90,7 @@ In contrast, the majority of the fluticasone propionate delivered to the lung is
 
 #### Distribution
 
-Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistentwith its high lipid solubility and tissue binding.
+Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
 The volume of distribution averaged 4.2 L/kg.
 
 The percentage of fluticasone propionate bound to human plasma proteins averages 99%.
@@ -158,24 +158,18 @@ The terminal elimination half-life was about 5.5 hours (1 volunteer only).
 The xinafoate moiety has no apparent pharmacologic activity.
 The xinafoate moiety is highly protein bound (>99%) and has a long elimination half-life of 11 days.
 
-#### Drug Interactions
+Drug Interactions: Salmeterol is a substrate of CYP3A4.
 
-Salmeterol is a substrate of CYP3A4.
+Inhibitors of Cytochrome P450 3A4
 
-##### Inhibitors of Cytochrome P450 3A4
-
-###### Ketoconazole
-
-In a placebo-controlled, crossover drug interaction study in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76; 90% CI: 10.66, 23.31) mainly due to increased bioavailability of the swallowed portion of the dose.
+Ketoconazole: In a placebo-controlled, crossover drug interaction study in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76; 90% CI: 10.66, 23.31) mainly due to increased bioavailability of the swallowed portion of the dose.
 Peak plasma salmeterol concentrations were increased by 1.4-fold (90% CI: 1.23, 1.68).
 Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazole coadministration due to beta-agonist–mediated systemic effects (2 with QTc prolongation and 1 with palpitations and sinus tachycardia).
 Coadministration of salmeterol and ketoconazole did not result in a clinically significant effect on mean heart rate, mean blood potassium, or mean blood glucose.
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
 Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended.
 
-###### Erythromycin
-
-In a repeat-dose study in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4; 90% CI: 0.96, 2.03; p = 0.12), a 3.6-beat/min increase in heart rate (95% CI: 0.19, 7.03; p<0.04), a 5.8-msec increase in QTc interval (95% CI: -6.14, 17.77; p = 0.34), and no change in plasma potassium.
+Erythromycin: In a repeat-dose study in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4; 90% CI: 0.96, 2.03; p = 0.12), a 3.6-beat/min increase in heart rate (95% CI: 0.19, 7.03; p<0.04), a 5.8-msec increase in QTc interval (95% CI: -6.14, 17.77; p = 0.34), and no change in plasma potassium.
 
 ## Pharmacodynamics
 
@@ -212,7 +206,7 @@ The geometric mean ratio of 24-hour urinary cortisol excretion at week 12 compar
 In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL) were noted both in patients receiving fluticasone propionate and in patients receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
 In a 2-year study carried out in 64 patients with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no patient receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
-With a peak cortisol threshold of <35 mcg/dL, 1 patient receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 yearswas normal.
+With a peak cortisol threshold of <35 mcg/dL, 1 patient receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
 Another patient receiving fluticasone propionate (5%) had an abnormal response at 2 years.
 No patient on placebo had an abnormal response at 1 or 2 years.
 

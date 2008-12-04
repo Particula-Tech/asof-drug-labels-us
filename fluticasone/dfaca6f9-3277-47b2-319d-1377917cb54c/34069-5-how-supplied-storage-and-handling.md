@@ -7,7 +7,7 @@ Each canister is packaged with a Medication Guide leaflet.
 
 *NDC 0173-0716-20 ADVAIR HFA 115/21 Inhalation Aerosol
 
-*NDC 0173-0717-20ADVAIR HFA 230/21 Inhalation Aerosol
+*NDC 0173-0717-20 ADVAIR HFA 230/21 Inhalation Aerosol
 
 The purple actuator supplied with ADVAIR HFA Inhalation Aerosol should not be used with any other product canisters, and actuators from other products should not be used with an ADVAIR HFA Inhalation Aerosol canister.
 

@@ -42,7 +42,7 @@ Estimate calculated as the difference between the salmeterol and placebo groups 
 §The Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”
 In addition, the Total Population includes those patients whose ethnic origin was not reported.
 The results for Caucasian and African American subpopulations are shown above.
-No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or“Other” (salmeterol n = 230, placebo n = 224) subpopulations.
+No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations.
 One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127).
 
 A 16-week clinical study performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) study, showed results similar to the SMART study.
@@ -50,68 +50,106 @@ In the SNS study, the rate of asthma-related death was numerically, though not s
 
 The following additional WARNINGS about ADVAIR HFA should be noted.
 
-1. ADVAIR HFA should not be initiated in patients during rapidly deteriorating or potentially life-threatening episodes of asthma.
-   Serious acute respiratory events, including fatalities, have been reported both in the United States and worldwide when salmeterol, a component of ADVAIR HFA, has been initiated in patients with significantly worsening or acutely deteriorating asthma.
-   In most cases, these have occurred in patients with severe asthma (e.g., patients with a history of corticosteroid dependence, low pulmonary function, intubation, mechanical ventilation, frequent hospitalizations, or previous life-threatening acute asthma exacerbations) and/or in some patients in whom asthma has been acutely deteriorating (e.g., unresponsive to usual medications; increasing need for inhaled, short-acting beta2-agonists; increasing need for systemic corticosteroids; significant increase in symptoms; recent emergency room visits; sudden or progressive deterioration in pulmonary function).
-   However, they have occurred in a few patients with less severe asthma as well.
-   It was not possible from these reports to determine whether salmeterol contributed to these events.
-2. ADVAIR HFA should not be used to treat acute symptoms.
-   An inhaled, short-acting beta2-agonist, not ADVAIR HFA, should be used to relieve acute symptoms of shortness of breath.
-   When prescribing ADVAIR HFA, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of shortness of breath that occurs acutely, despite regular twice-daily (morning and evening) use of ADVAIR HFA.When beginning treatment with ADVAIR HFA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
-   For patients taking ADVAIR HFA, inhaled, short-acting beta2-agonists should only be used for symptomatic relief of acute symptoms of shortness of breath (see PRECAUTIONS: Information for Patients).
-3. Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
-   The physician and patient should be alert to such changes.
-   The patient’s condition may deteriorate acutely over a period of hours or chronically over several days or longer.
-   If the patient’s inhaled, short-acting beta2-agonist becomes less effective, the patient needs more inhalations than usual, or the patient develops a significant decrease in lung function, this may be a marker of destabilization of the disease.
-   In this setting, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of ADVAIR HFA with a higher strength, adding additional inhaled corticosteroid, or initiating systemic corticosteroids.
-   Patients should not use more than 2 inhalations twice daily (morning and evening) of ADVAIR HFA.
-4. ADVAIR HFA should not be used for transferring patients from systemic corticosteroid therapy.
-   Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
-   After withdrawal from systemic corticosteroids, a number of months are required for recovery of HPA function.Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
-   During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
-   Although inhaled corticosteroids may provide control of asthma symptoms during these episodes, in recommended doses they supply less than normal physiologic amounts of glucocorticoid (cortisol) systemically and do NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
-   These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress or a severe asthma attack.
-5. ADVAIR HFA should not be used in conjunction with an inhaled, long-acting beta2-agonist.
-   Patients who are receiving ADVAIR HFA twice daily should not use additional salmeterol or other long-acting beta2-agonists (e.g., formoterol) for prevention of exercise-induced bronchospasm (EIB) or the maintenance treatment of asthma.
-   Additional benefit would not be gained from using supplemental salmeterol or formoterol for prevention of EIB since ADVAIR HFA already contains an inhaled, long-acting beta2-agonist.
-6. The recommended dosage should not be exceeded.
-   ADVAIR HFA should not be used more often or at higher doses than recommended.
-   Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
-   Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
-7. Paradoxical bronchospasm.
-   As with other inhaled asthma medications, ADVAIR HFA can produce paradoxical bronchospasm, which may be life threatening.
-   If paradoxical bronchospasm occurs following dosing with ADVAIR HFA, it should be treated immediately with an inhaled, short-acting bronchodilator; ADVAIR HFA should be discontinued immediately; and alternative therapy should be instituted.
-8. Immediate hypersensitivity reactions.
-   Immediate hypersensitivity reactions may occur after administration of ADVAIR HFA, as demonstrated by cases of urticaria, angioedema, rash, and bronchospasm.
-9. Upper airway symptoms.
-   Symptoms of laryngeal spasm, irritation, or swelling, such as stridor and choking, have been reported in patients receiving fluticasone propionate and salmeterol, components of ADVAIR HFA.
-10. Cardiovascular disorders.
-    ADVAIR HFA, like all products containing sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
-    Salmeterol, a component of ADVAIR HFA, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
-    Although such effects are uncommon after administration of salmeterol at recommended doses, if they occur, the drug may need to be discontinued.
-    In addition, beta-agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
-    The clinical significance of these findings is unknown.
-11. Discontinuation of systemic corticosteroids.
-    Transfer of patients from systemic corticosteroid therapy to ADVAIR HFA may unmask conditions previously suppressed by the systemic corticosteroid therapy, e.g., rhinitis, conjunctivitis, eczema, arthritis, and eosinophilic conditions.
-12. Immunosuppression.
-    Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
-    Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
-    In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
-    How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
-    The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-    If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-    If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-    (See the respective package inserts for complete VZIG and IG prescribing information.)
-    If chickenpox develops, treatment with antiviral agents may be considered.
-13. Pneumonia.
-    Lower respiratory tract infections, including pneumonia, have been reported in patients with COPD following the inhaled administration of corticosteroids, including fluticasone propionate and ADVAIR DISKUS.
-    In 2 replicate 12-month studies of 1,579 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 250/50 (7%) than in those receiving salmeterol 50 mcg (3%).
-    The incidence of pneumonia in the patients treated with ADVAIR DISKUS was higher in patients over 65 years of age (9%) compared with the incidence in patients less than 65 years of age (4%).In a 3-year study of 6,184 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 500/50 compared with placebo (16% with ADVAIR DISKUS 500/50, 14% with fluticasone propionate 500 mcg, 11% with salmeterol 50 mcg, and 9% with placebo).
-    Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 versus 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 versus 8% with placebo.
-14. Potential drug interactions with CYP 3A4 inhibitors.
-    Both fluticasone propionate and salmeterol are substrates of CYP 3A4.Fluticasone Propionate: A drug interaction study in healthy subjects has shown that ritonavir (a strong cytochrome P450 3A4 inhibitor) can significantly increase systemic fluticasone propionate exposure (AUC), resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions and PRECAUTIONS: Drug Interactions: Inhibitors of Cytochrome P450).
-    During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
-    Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.Salmeterol: Because of the potential for drug interactions and the potential for increased risk of cardiovascular adverse events, the concomitant use of ADVAIR HFA with strong CYP 3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
+1.
+ADVAIR HFA should not be initiated in patients during rapidly deteriorating or potentially life-threatening episodes of asthma.
+Serious acute respiratory events, including fatalities, have been reported both in the United States and worldwide when salmeterol, a component of ADVAIR HFA, has been initiated in patients with significantly worsening or acutely deteriorating asthma.
+In most cases, these have occurred in patients with severe asthma (e.g., patients with a history of corticosteroid dependence, low pulmonary function, intubation, mechanical ventilation, frequent hospitalizations, or previous life-threatening acute asthma exacerbations) and/or in some patients in whom asthma has been acutely deteriorating (e.g., unresponsive to usual medications; increasing need for inhaled, short-acting beta2-agonists; increasing need for systemic corticosteroids; significant increase in symptoms; recent emergency room visits; sudden or progressive deterioration in pulmonary function).
+However, they have occurred in a few patients with less severe asthma as well.
+It was not possible from these reports to determine whether salmeterol contributed to these events.
+
+2.
+ADVAIR HFA should not be used to treat acute symptoms.
+An inhaled, short-acting beta2-agonist, not ADVAIR HFA, should be used to relieve acute symptoms of shortness of breath.
+When prescribing ADVAIR HFA, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of shortness of breath that occurs acutely, despite regular twice-daily (morning and evening) use of ADVAIR HFA.
+
+When beginning treatment with ADVAIR HFA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
+For patients taking ADVAIR HFA, inhaled, short-acting beta2-agonists should only be used for symptomatic relief of acute symptoms of shortness of breath (see PRECAUTIONS: Information for Patients).
+
+3.
+Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
+The physician and patient should be alert to such changes.
+The patient’s condition may deteriorate acutely over a period of hours or chronically over several days or longer.
+If the patient’s inhaled, short-acting beta2-agonist becomes less effective, the patient needs more inhalations than usual, or the patient develops a significant decrease in lung function, this may be a marker of destabilization of the disease.
+In this setting, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of ADVAIR HFA with a higher strength, adding additional inhaled corticosteroid, or initiating systemic corticosteroids.
+Patients should not use more than 2 inhalations twice daily (morning and evening) of ADVAIR HFA.
+
+4.
+ADVAIR HFA should not be used for transferring patients from systemic corticosteroid therapy.
+Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
+After withdrawal from systemic corticosteroids, a number of months are required for recovery of HPA function.
+
+Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
+During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
+Although inhaled corticosteroids may provide control of asthma symptoms during these episodes, in recommended doses they supply less than normal physiologic amounts of glucocorticoid (cortisol) systemically and do NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.
+
+During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
+These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress or a severe asthma attack.
+
+5.
+ADVAIR HFA should not be used in conjunction with an inhaled, long-acting beta2-agonist.
+Patients who are receiving ADVAIR HFA twice daily should not use additional salmeterol or other long-acting beta2-agonists (e.g., formoterol) for prevention of exercise-induced bronchospasm (EIB) or the maintenance treatment of asthma.
+Additional benefit would not be gained from using supplemental salmeterol or formoterol for prevention of EIB since ADVAIR HFA already contains an inhaled, long-acting beta2-agonist.
+
+6.
+The recommended dosage should not be exceeded.
+ADVAIR HFA should not be used more often or at higher doses than recommended.
+Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
+Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
+
+7.
+Paradoxical bronchospasm.
+As with other inhaled asthma medications, ADVAIR HFA can produce paradoxical bronchospasm, which may be life threatening.
+If paradoxical bronchospasm occurs following dosing with ADVAIR HFA, it should be treated immediately with an inhaled, short-acting bronchodilator; ADVAIR HFA should be discontinued immediately; and alternative therapy should be instituted.
+
+8.
+Immediate hypersensitivity reactions.
+Immediate hypersensitivity reactions may occur after administration of ADVAIR HFA, as demonstrated by cases of urticaria, angioedema, rash, and bronchospasm.
+
+9.
+Upper airway symptoms.
+Symptoms of laryngeal spasm, irritation, or swelling, such as stridor and choking, have been reported in patients receiving fluticasone propionate and salmeterol, components of ADVAIR HFA.
+
+10.
+Cardiovascular disorders.
+ADVAIR HFA, like all products containing sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
+Salmeterol, a component of ADVAIR HFA, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
+Although such effects are uncommon after administration of salmeterol at recommended doses, if they occur, the drug may need to be discontinued.
+In addition, beta-agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
+The clinical significance of these findings is unknown.
+
+11.
+Discontinuation of systemic corticosteroids.
+Transfer of patients from systemic corticosteroid therapy to ADVAIR HFA may unmask conditions previously suppressed by the systemic corticosteroid therapy, e.g., rhinitis, conjunctivitis, eczema, arthritis, and eosinophilic conditions.
+
+12.
+Immunosuppression.
+Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
+Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
+In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
+How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
+The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
+If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
+(See the respective package inserts for complete VZIG and IG prescribing information.)
+If chickenpox develops, treatment with antiviral agents may be considered.
+
+13.
+Pneumonia: Lower respiratory tract infections, including pneumonia, have been reported in patients with COPD following the inhaled administration of corticosteroids, including fluticasone propionate and ADVAIR DISKUS.
+In 2 replicate 12-month studies of 1,579 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 250/50 (7%) than in those receiving salmeterol 50 mcg (3%).
+The incidence of pneumonia in the patients treated with ADVAIR DISKUS was higher in patients over 65 years of age (9%) compared with the incidence in patients less than 65 years of age (4%).
+
+In a 3-year study of 6,184 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 500/50 compared with placebo (16% with ADVAIR DISKUS 500/50, 14% with fluticasone propionate 500 mcg, 11% with salmeterol 50 mcg, and 9% with placebo).
+Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 versus 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 versus 8% with placebo.
+
+14.
+Potential drug interactions with CYP 3A4 inhibitors.
+Both fluticasone propionate and salmeterol are substrates of CYP 3A4.
+
+Fluticasone Propionate: A drug interaction study in healthy subjects has shown that ritonavir (a strong cytochrome P450 3A4 inhibitor) can significantly increase systemic fluticasone propionate exposure (AUC), resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions and PRECAUTIONS: Drug Interactions: Inhibitors of Cytochrome P450).
+During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
+Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
+
+Salmeterol: Because of the potential for drug interactions and the potential for increased risk of cardiovascular adverse events, the concomitant use of ADVAIR HFA with strong CYP 3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
 
 # PRECAUTIONS
 
@@ -139,7 +177,7 @@ Clinically significant changes in blood glucose and/or serum potassium were seen
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal, e.g., joint and/or muscular pain, lassitude, and depression, despite maintenance or even improvement of respiratory function.
 
 Fluticasone propionate, a component of ADVAIR HFA, will often help control asthma symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
-Since fluticasone propionate is absorbed into the circulation and can be systemicallyactive at higher doses, the beneficial effects of ADVAIR HFA in minimizing HPA dysfunction may be expected only when recommended dosages are not exceeded and individual patients are titrated to the lowest effective dose.
+Since fluticasone propionate is absorbed into the circulation and can be systemically active at higher doses, the beneficial effects of ADVAIR HFA in minimizing HPA dysfunction may be expected only when recommended dosages are not exceeded and individual patients are titrated to the lowest effective dose.
 A relationship between plasma levels of fluticasone propionate and inhibitory effects on stimulated cortisol production has been shown after 4 weeks of treatment with fluticasone propionate inhalation aerosol.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing ADVAIR HFA.
 
@@ -175,9 +213,7 @@ Cases of serious eosinophilic conditions have also been reported with other inha
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal relationship between fluticasone propionate and these underlying conditions has not been established (see ADVERSE REACTIONS: Observed During Clinical Practice: Eosinophilic Conditions).
 
-## Information for Patients
-
-Patients should be instructed to read the accompanying Medication Guide with each new prescription and refill.
+Information for Patients: Patients should be instructed to read the accompanying Medication Guide with each new prescription and refill.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
 Patients being treated with ADVAIR HFA should receive the following information and instructions.
@@ -212,7 +248,7 @@ It is important that patients understand how to use ADVAIR HFA in relation to ot
     Do not swallow.
 14. Clean the inhaler at least once a week after the evening dose.
     Keeping the canister and plastic actuator clean is important to prevent medicine buildup.
-    (See the cleaning instructions in the“How to use your ADVAIR HFA” section of the Medication Guide accompanying the product.)
+    (See the cleaning instructions in the “How to use your ADVAIR HFA” section of the Medication Guide accompanying the product.)
 15. Use ADVAIR HFA only with the actuator supplied with the product.
     When the counter reads 020, contact the pharmacist for a refill of medication or consult the physician to determine whether a prescription refill is needed.
     Discard the inhaler when the counter reads 000.
@@ -272,7 +308,7 @@ In a placebo-controlled, crossover study in 8 healthy adult volunteers, coadmini
 In a drug interaction study in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
 Three (3) subjects were withdrawn due to beta2-agonist side effects (2 with prolonged QTc and 1 with palpitations and sinus tachycardia).
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
-Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
+Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate:Drug Interactions).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -337,7 +373,7 @@ In addition, because there is a natural increase in corticosteroid production du
 
 #### Salmeterol
 
-Pregnancy Category C. No teratogenic effects occurredin the rat at oral doses up to 2 mg/kg (approximately 190 times the maximum recommended human daily inhalation dose on a mg/m2 basis).
+Pregnancy Category C. No teratogenic effects occurred in the rat at oral doses up to 2 mg/kg (approximately 190 times the maximum recommended human daily inhalation dose on a mg/m2 basis).
 In pregnant Dutch rabbits administered oral doses of 1 mg/kg and above (approximately 25 times the maximum recommended human daily inhalation dose based on the comparison of the AUCs), salmeterol exhibited fetal toxic effects characteristically resulting from beta-adrenoceptor stimulation.
 These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
 No significant effects occurred at an oral dose of 0.6 mg/kg (approximately 10 times the maximum recommended human daily inhalation dose based on comparison of the AUCs).

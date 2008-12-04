@@ -44,6 +44,8 @@ Recommended Dosages of ADVAIR HFA Inhalation Aerosol for Patients Not Adequately
 | Mometasone furoate inhalation powder | 220 mcg440 mcg880 mcg | 45/21115/21230/21 |
 | Triamcinolone acetonide inhalation aerosol | ≤1,000 mcg1,100-1,600 mcg | 45/21115/21 |
 
+*ADVAIR HFA should not be used for transferring patients from systemic corticosteroid therapy.
+
 Improvement in asthma control following inhaled administration of ADVAIR HFA can occur within 30 minutes of beginning treatment, although maximum benefit may not be achieved for 1 week or longer after starting treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.
 
