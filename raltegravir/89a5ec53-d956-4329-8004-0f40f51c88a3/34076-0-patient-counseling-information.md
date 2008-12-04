@@ -22,11 +22,11 @@ Manufactured and Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889
 
 Printed in USA
 
-9795101
+9795102
 
 U.S. Patent Nos. US 7,169,780
 
-FDA-Approved Patient Labeling Patient Information ISENTRESS™ (eye sen tris) (raltegravir) Tablets
+FDA-Approved Patient Labeling Patient Information ISENTRESS® (eye sen tris) (raltegravir) Tablets
 
 Read the patient information that comes with ISENTRESS1 before you start taking it and each time you get a refill.
 There may be new information.
@@ -137,7 +137,7 @@ When ISENTRESS has been given with other anti-HIV drugs, the most common side ef
 - nausea
 - headache
 
-Other side effects include rash and severe skin reactions.
+Other side effects include rash, severe skin reactions, depression, suicidal thoughts and actions.
 
 A condition called Immune Reconstitution Syndrome can happen in some patients with advanced HIV infection (AIDS) when combination antiretroviral treatment is started.
 Signs and symptoms of inflammation from opportunistic infections that a person has or had may occur as the medicines work to control the HIV infection and strengthen the immune system.
@@ -178,8 +178,8 @@ In addition, the film coating contains the following inactive ingredients: polyv
 
 Manufactured and Distributed by: MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
 
-Revised May 2008
+Revised November 2008
 
-9795101
+9795102
 
 U.S. Patent Nos. US 7,169,780
