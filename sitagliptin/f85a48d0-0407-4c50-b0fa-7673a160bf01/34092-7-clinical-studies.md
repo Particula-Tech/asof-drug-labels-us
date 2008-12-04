@@ -27,9 +27,9 @@ Body weight did not increase from baseline with JANUVIA therapy in either study,
 
 Table 3: Glycemic Parameters in 18- and 24-Week Placebo-Controlled Studies of JANUVIA in Patients with Type 2 DiabetesIntent to Treat Population using last observation on study prior to metformin rescue therapy.
 
-|  | 18-Week Study |  | 24-Week Study |  |
-| --- | --- | --- | --- | --- |
 |  | JANUVIA 100 mg | Placebo | JANUVIA 100 mg | Placebo |
+| --- | --- | --- | --- | --- |
+|  | 18-Week Study |  | 24-Week Study |  |
 | A1C (%) | N = 193 | N = 103 | N = 229 | N = 244 |
 | Baseline (mean) | 8.0 | 8.1 | 8.0 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for prior antihyperglycemic therapy status and baseline value.) | -0.5 | 0.1 | -0.6 | 0.2 |

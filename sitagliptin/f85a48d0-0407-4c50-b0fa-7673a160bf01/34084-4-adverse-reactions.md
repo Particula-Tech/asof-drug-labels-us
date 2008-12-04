@@ -63,5 +63,4 @@ The clinical significance of this added increase in serum creatinine relative to
 The following additional adverse reactions have been identified during postapproval use of JANUVIA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria, and exfoliative skin conditions including Stevens-Johnson syndrome.
-[See Warnings and Precautions (5.3).]
+Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.3)]; hepatic enzyme elevations.
