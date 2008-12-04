@@ -4,7 +4,7 @@ The 0.25 mg HYCAMTIN capsules are opaque white to yellowish-white imprinted with
 
 The 1 mg HYCAMTIN capsules are opaque pink imprinted with HYCAMTIN and 1 mg and are available in bottles of 10: NDC 0007-4207-11.
 
-Store at controlled room temperature 20° to 25°C (68° to 77°F), with excursions permitted 15° to 30°C (59° to 86°F) [see USP].
+Store refrigerated 2° to 8°C (36° to 46°F).
 Store the bottles protected from light in the original outer cartons.
 
 Procedures for proper handling and disposal of anticancer drugs should be used.

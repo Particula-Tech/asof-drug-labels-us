@@ -28,9 +28,12 @@ Overall Survival in Small Cell Lung Cancer Patients With HYCAMTIN Capsules Plus 
 | Median (weeks) (95% CI) | 25.9 (18.3, 31.6) | 13.9 (11.1, 18.6) |
 | Hazard ratio (95% CI) | 0.64 (0.45, 0.90) |  |
 | Log-rank p-value | 0.0104 |  |
-| BSC = Best Supportive Care. |  |  |
-| N = total number of patients randomized. |  |  |
-| CI = Confidence Interval. |  |  |
+
+BSC = Best Supportive Care.
+
+N = total number of patients randomized.
+
+CI = Confidence Interval.
 
 Figure 1.
 Kaplan-Meier Estimates for Survival

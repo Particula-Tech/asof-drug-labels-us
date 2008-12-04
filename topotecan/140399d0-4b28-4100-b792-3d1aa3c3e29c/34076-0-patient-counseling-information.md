@@ -27,7 +27,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2007, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
 PATIENT INFORMATION
@@ -152,7 +152,7 @@ Let your healthcare provider know if this helps or does not help your side effec
 
 How should I store HYCAMTIN capsules?
 
-- Store HYCAMTIN capsules at normal room temperature between 68°-77°F (20°-25°C).
+- Store HYCAMTIN capsules in a refrigerator.
   Protect from light and heat.
 - Dispose of HYCAMTIN capsules that are out of date or no longer needed.
 - Keep HYCAMTIN capsules and all other medicines out of the reach of children.
@@ -188,9 +188,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2007, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
-Issued: October 2007
+Issued: April 2008
 
-HYC:1PIL
+HYC:3PIL

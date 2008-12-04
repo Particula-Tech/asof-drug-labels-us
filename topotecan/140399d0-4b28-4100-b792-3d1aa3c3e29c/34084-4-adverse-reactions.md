@@ -28,9 +28,12 @@ Incidence (≥5%) of Adverse Reactions in Small Cell Lung Cancer Patients Treate
 | Anorexia | 7 | 0 | 0 | 14 | 2 | 0 |
 | Asthenia | 3 | 0 | 0 | 7 | 2 | 0 |
 | Pyrexia | 7 | 1 | 0 | 5 | 1 | 1 |
-| BSC = Best Supportive Care. |  |  |  |  |  |  |
-| N = total number of patients treated. |  |  |  |  |  |  |
-| Adverse reactions were graded using NCI Common Toxicity Criteria. |  |  |  |  |  |  |
+
+BSC = Best Supportive Care.
+
+N = total number of patients treated.
+
+Adverse reactions were graded using NCI Common Toxicity Criteria.
 
 Diarrhea Adverse Reactions
 

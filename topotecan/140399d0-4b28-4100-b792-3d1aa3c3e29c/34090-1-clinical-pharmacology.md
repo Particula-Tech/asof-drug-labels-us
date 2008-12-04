@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1 Mechanism Of Action
 
 Topoisomerase I relieves torsional strain in DNA by inducing reversible single strand breaks.
 Topotecan binds to the topoisomerase I-DNA complex and prevents religation of these single strand breaks.
