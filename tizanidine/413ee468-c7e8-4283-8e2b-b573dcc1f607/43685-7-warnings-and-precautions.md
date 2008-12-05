@@ -2,7 +2,7 @@
 
 ## LIMITED DATA BASE FOR CHRONIC USE OF SINGLE DOSES ABOVE 8 MG AND MULTIPLE DOSES ABOVE 24 MG PER DAY
 
-Clinical experience with long-term use of tizanidine at doses of 8 to 16 mg single doses or total daily doses of 24 to 36 mg (see Dosage and Administration) is limited.
+Clinical experience with long-term use of tizanidine at doses of 8 to 16 mg single doses or total daily doses of 24 to 36 mg (see DOSAGE AND ADMINISTRATION) is limited.
 In safety studies, approximately 75 patients have been exposed to individual doses of 12 mg or more for at least one year or more and approximately 80 patients have been exposed to total daily doses of 30 to 36 mg/day for at least one year or more.
 There is essentially no long-term experience with single, daytime doses of 16 mg.
 Because long-term clinical study experience at high doses is limited, only those adverse events with a relatively high incidence are likely to have been identified (see WARNINGS, PRECAUTIONS and ADVERSE REACTIONS).
@@ -61,18 +61,18 @@ One patient among these 5 continued to have problems for at least 2 weeks follow
 
 The influence of hepatic impairment on the pharmacokinetics of tizanidine has not been evaluated.
 Because tizanidine is extensively metabolized in the liver, hepatic impairment would be expected to have significant effects on the pharmacokinetics of tizanidine.
-Tizanidine should ordinarily be avoided or used with extreme caution in patients with hepatic impairment (See also RISK OF LIVER INJURY).
+Tizanidine should ordinarily be avoided or used with extreme caution in patients with hepatic impairment (see also RISK OF LIVER INJURY).
 
 ## POTENTIAL INTERACTION WITH FLUVOXAMINE OR CIPROFLOXACIN
 
 In a pharmacokinetic study, tizanidine serum concentration was significantly increased (Cmax 12-fold, AUC 33-fold) when the drug was given concomitantly with fluvoxamine.
 Potentiated hypotensive and sedative effects were observed.
 Fluvoxamine and tizanidine should not be used together.
-(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interactions).
+(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interactions.)
 
 In a pharmacokinetic study, tizanidine serum concentration was significantly increased (Cmax 7-fold, AUC 10-fold) when the drug was given concomitantly with ciprofloxacin.
 Potentiated hypotensive and sedative effects were observed.
-Ciprofloxacin and tizanidine should not be used together (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interactions).
+Ciprofloxacin and tizanidine should not be used together (see CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interactions).
 
 ## POSSIBLE INTERACTION WITH OTHER CYP1A2 INHIBITORS
 
@@ -135,14 +135,14 @@ In vitro studies of cytochrome P450 isoenzymes using human liver microsomes indi
 The effect of fluvoxamine on the pharmacokinetics of a single 4 mg dose of tizanidine was studied in 10 healthy subjects.
 The Cmax, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively.
 These changes resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment.
-(See CONTRAINDICATIONS and WARNINGS).
+(See CONTRAINDICATIONS and WARNINGS.)
 
 ### Ciprofloxacin
 
 The effect of ciprofloxacin on the pharmacokinetics of a single 4 mg dose of tizanidine was studied in 10 healthy subjects.
 The Cmax and AUC of tizanidine increased by 7-fold and 10-fold, respectively.
 These changes resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment.
-(See CONTRAINDICATIONS and WARNINGS).
+(See CONTRAINDICATIONS and WARNINGS.)
 
 ### CYP1A2 inhibitors
 

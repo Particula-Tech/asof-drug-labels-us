@@ -5,11 +5,13 @@ Tizanidine's capacity to reduce increased muscle tone associated with spasticity
 In one study, patients with multiple sclerosis were randomized to receive single oral doses of drug or placebo.
 Patients and assessors were blind to treatment assignment and efforts were made to reduce the likelihood that assessors would become aware indirectly of treatment assignment (e.g., they did not provide direct care to patients and were prohibited from asking questions about side effects).
 In all, 140 patients received either placebo, 8 mg or 16 mg of tizanidine.
+
 Response was assessed by physical examination; muscle tone was rated on a 5 point scale (Ashworth score), with a score of 0 used to describe normal muscle tone.
 A score of 1 indicated a slight spastic catch while a score of 2 indicated more marked muscle resistance.
 A score of 3 was used to describe considerable increase in tone, making passive movement difficult.
 A muscle immobilized by spasticity was given a score of 4.
 Spasm counts were also collected.
+
 Assessments were made at 1, 2, 3 and 6 hours after treatment.
 A statistically significant reduction of the Ashworth score for Zanaflex compared to placebo was detected at 1, 2 and 3 hours after treatment.
 Figure 2 below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.

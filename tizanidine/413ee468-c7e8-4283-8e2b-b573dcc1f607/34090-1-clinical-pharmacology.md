@@ -28,9 +28,9 @@ Tizanidine metabolites are not known to be active; their half-lives range from 2
 
 Following single and multiple oral dosing of 14C-tizanidine, an average of 60% and 20% of total radioactivity was recovered in the urine and feces, respectively.
 
-### Pharmacokinetic differences between Zanaflex Capsules™ and Zanaflex® Tablets
+### Pharmacokinetic differences between Zanaflex Capsules® and Zanaflex® Tablets
 
-Zanaflex Capsules™ and Zanaflex® tablets are bioequivalent to each other under fasted conditions, but not under fed conditions.
+Zanaflex Capsules® and Zanaflex® tablets are bioequivalent to each other under fast conditions, but not under fed conditions.
 
 A single dose of either two 4 mg tablets or two 4 mg capsules was administered under fed and fasting conditions in an open label, four period, randomized crossover study in 96 human volunteers, of whom 81 were eligible for the statistical analysis.
 
@@ -43,7 +43,7 @@ Consequently, the mean Cmax for the capsule when administered with food is appro
 
 Food also increases the extent of absorption for both the tablets and capsules.
 The increase with the tablet (~30%) is significantly greater than with the capsule (~10%).
-Consequently when each is administered with food, the amount absorbed from the capsule is about 80% of the amount absorbed from the tablet (See Figure 1).
+Consequently when each is administered with food, the amount absorbed from the capsule is about 80% of the amount absorbed from the tablet (see Figure 1).
 Administration of the capsule contents sprinkled on applesauce is not bioequivalent to administration of an intact capsule under fasting conditions.
 Administration of the capsule contents on applesauce results in a 15% - 20% increase in Cmax and AUC of tizanidine compared to administration of an intact capsule while fasting, and a 15 minute decrease in the median lag time and time to peak concentration.
 
@@ -84,20 +84,19 @@ Pharmacokinetic differences due to race have not been studied.
 The effect of fluvoxamine on the pharmacokinetics of tizanidine was studied in 10 healthy subjects.
 The Cmax, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively.
 These changes resulted in significant decreases in blood pressure, increased drowsiness, and psychomotor impairment.
-(See CONTRAINDICATIONS and WARNINGS).
+(See CONTRAINDICATIONS and WARNINGS.)
 
 ### Ciprofloxacin
 
 The effect of ciprofloxacin on the pharmacokinetics of tizanidine was studied in 10 healthy subjects.
 The Cmax and AUC of tizanidine increased by 7-fold and 10-fold, respectively.
 These changes resulted in significant decreases in blood pressure, increased drowsiness, and psychomotor impairment.
-(See CONTRAINDICATIONS and WARNINGS).
+(See CONTRAINDICATIONS and WARNINGS.)
 
 ### CYP1A2 Inhibitors
 
 The interaction between tizanidine and either fluvoxamine or ciprofloxacin is most likely due to inhibition of CYP1A2 by fluvoxamine or ciprofloxacin.
-Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations.
-(See WARNINGS)
+Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations (see WARNINGS).
 
 ### Oral Contraceptives
 
