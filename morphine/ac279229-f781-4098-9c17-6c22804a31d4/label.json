@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "morphine",
+  "labeler": "Alpharma Pharmaceuticals LLC",
+  "package_ndcs": [
+    "63857-322-11",
+    "63857-323-11",
+    "63857-324-11",
+    "63857-325-11",
+    "63857-326-11",
+    "63857-377-11",
+    "63857-410-11",
+    "63857-412-11"
+  ],
+  "products": [],
+  "setid": "ac279229-f781-4098-9c17-6c22804a31d4",
+  "source": "dailymed"
+}

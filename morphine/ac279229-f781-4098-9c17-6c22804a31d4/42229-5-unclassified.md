@@ -1,0 +1,1 @@
+40-9068 KADIAN® C-II (morphine sulfate extended-release) Capsules Revised – January 2008 KADIAN® 10 mg Capsules KADIAN® 20 mg Capsules KADIAN® 30 mg Capsules KADIAN® 50 mg Capsules KADIAN® 60 mg Capsules KADIAN® 80 mg Capsules KADIAN® 100 mg Capsules KADIAN® 200 mg Capsules
