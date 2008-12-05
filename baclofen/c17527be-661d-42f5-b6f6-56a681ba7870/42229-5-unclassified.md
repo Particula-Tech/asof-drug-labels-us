@@ -1,5 +1,5 @@
 Rx only
 
-Manufactured by: VINTAGE PHARMACEUTICALS, LLC Huntsville, AL 35811
+Manufactured for: QUALITEST PHARMACEUTICALS Huntsville, AL 35811
 
-8181162 R4/05-R0
+8181162 R7/08-R2

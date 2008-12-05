@@ -1,18 +1,18 @@
 # ADVERSE REACTIONS
 
-The most common is transient drowsiness (10-63%).
+The most common is transient drowsiness (10–63%).
 In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group.
-Other common adverse reactions are dizziness (5-15%), weakness (5-15%) and fatigue (2-4%).
+Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%).
 Others reported:
 
-Neuropsychiatric: Confusion (1-11%), headache (4-8%), insomnia (2-7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure.
+Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure.
 
-Cardiovascular: Hypotension (0-9%).
+Cardiovascular: Hypotension (0–9%).
 Rare instances of dyspnea, palpitation, chest pain, syncope.
 
-Gastrointestinal: Nausea (4-12%), constipation (2-6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool.
+Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool.
 
-Genitourinary: Urinary frequency (2-6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria.
+Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria.
 
 Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion.
 

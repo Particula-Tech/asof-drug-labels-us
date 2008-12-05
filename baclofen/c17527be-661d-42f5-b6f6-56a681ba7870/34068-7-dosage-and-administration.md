@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 The determination of optimal dosage requires individual titration.
-Start therapy at a low dosage and increase gradually until optimum effect is achieved (usually between 40-80 mg daily).
+Start therapy at a low dosage and increase gradually until optimum effect is achieved (usually between 40–80 mg daily).
 
 The following dosage titration schedule is suggested:
 
