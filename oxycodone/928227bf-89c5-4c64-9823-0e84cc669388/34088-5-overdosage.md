@@ -1,0 +1,24 @@
+# OVERDOSAGE
+
+## Signs and Symptoms
+
+Acute overdose with oxycodone hydrochloride tablets can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, bradycardia, hypotension, and death.
+
+## Treatment
+
+To treat oxycodone hydrochloride tablets overdose, primary attention should be given to the re-establishment of a patent airway and institution of assisted or controlled ventilation.
+Supportive measures (including oxygen and vasopressors) should be employed in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
+Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
+
+The narcotic antagonists, naloxone or nalmefene, are specific antidotes for opioid overdose.
+Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone hydrochloride tablets overdose.
+If needed the appropriate dose of naloxone hydrochloride or nalmefene should be administered simultaneously with efforts at respiratory resuscitation (see package insert for each drug for the details).
+Since the duration of action of oxycodone may exceed that of the antagonist, the patient should be kept under continued surveillance and repeated doses of the antagonist should be administered as needed to maintain adequate respiration.
+Gastric emptying may be useful in removing unabsorbed drug.
+
+Opioid antagonists should be administered cautiously to persons who are suspected to be physically dependent on any opioid agonist, including oxycodone (see Opioid-Tolerant Individuals).
+
+Opioid-Tolerant Individuals – In an individual physically dependent on opioids, administration of a usual dose of antagonist will precipitate an acute withdrawal.
+The severity of the withdrawal syndrome produced will depend on the degree of physical dependence and the dose of the antagonist administered.
+Use of an opioid antagonist should be reserved for cases where such treatment is clearly needed.
+If it is necessary to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses.
