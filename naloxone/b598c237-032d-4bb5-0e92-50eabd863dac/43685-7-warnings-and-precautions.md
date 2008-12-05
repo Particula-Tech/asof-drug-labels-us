@@ -8,11 +8,11 @@ In such cases, an abrupt and complete reversal of opioid effects may precipitate
 The signs and symptoms of opioid withdrawal in a patient physically dependent on opioids may include, but are not limited to, the following: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure.
 In the neonate, opioid withdrawal may also include: convulsions, excessive crying, and hyperactive reflexes.
 
-Repeat Administration
+## Repeat Administration
 
-The patient who has satisfactorily responded to naloxone should be kept under continued surveillance and repeated doses of naloxone should be administered, as necessary, since the duration of action of some opioids may exceed that of naloxone.
+The patient who has satisfactorily responded to naloxoneshould be kept under continued surveillance and repeated doses of naloxone should be administered, as necessary, since the duration of action of some opioids may exceed that of naloxone.
 
-Respiratory Depression Due to Other Drugs
+## Respiratory Depression Due to Other Drugs
 
 Naloxone is not effective against respiratory depression due to non-opioid drugs and in the management of acute toxicity caused by levopropoxyphene.
 Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete or require higher doses of naloxone.
@@ -25,7 +25,7 @@ If an incomplete response occurs, respirations should be mechanically assisted a
 In addition to naloxone, other resuscitative measures such as maintenance of a free airway, artificial ventilation, cardiac massage, and vasopressor agents should be available and employed when necessary to counteract acute opioid poisoning.
 
 Abrupt postoperative reversal of opioid depression may result in nausea, vomiting, sweating, tremulousness, tachycardia, increased blood pressure, seizures, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest which may result in death.
-Excessive doses of naloxone in postoperative patients may result in significant reversal of analgesia and may cause agitation (see PRECAUTIONS and DOSAGE AND ADMINISTRATION: Usage in Adults-Postoperative Opioid Depression).
+Excessive doses of naloxone in postoperative patients may result in significant reversal of analgesia and may cause agitation (see PRECAUTIONS and DOSAGE AND ADMINISTRATION: USAGE IN ADULTS, Postoperative Opioid Depression).
 
 Several instances of hypotension, hypertension, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest have been reported in postoperative patients.
 Death, coma, and encephalopathy have been reported as sequelae of these events.
@@ -88,12 +88,12 @@ Clinical studies of naloxone hydrochloride injection did not include sufficient 
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Renal Insufficiency/Failure
+## Renal Insufficiency/Failure
 
 The safety and effectiveness of naloxone hydrochloride injection in patients with renal insufficiency/failure have not been established in well-controlled clinical trials.
 Caution should be exercised when naloxone is administered to this patient population.
 
-Liver Disease
+## Liver Disease
 
 The safety and effectiveness of naloxone hydrochloride injection in patients with liver disease have not been established in well-controlled clinical trials.
 Caution should be exercised when naloxone is administered to patients with liver disease.

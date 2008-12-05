@@ -16,30 +16,14 @@ While the mechanism of action of naloxone is not fully understood, in vitro evid
 When naloxone hydrochloride is administered intravenously (I.V.), the onset of action is generally apparent within two minutes; the onset of action is slightly less rapid when it is administered subcutaneously (S.C.) or intramuscularly (I.M.).
 The duration of action is dependent upon the dose and route of administration of naloxone hydrochloride.
 Intramuscular administration produces a more prolonged effect than intravenous administration.
-Since the duration of action of naloxone may be shorter than that of some opiates, the effects of the opiate may return as the effects of naloxone dissipates.
+Since the duration of action of naloxone may be shorter than that of some opiates, the effects of the opiate may return as the effects of naloxone dissipate.
 
 The requirement for repeat doses of naloxone will also be dependent upon the amount, type and route of administration of the opioid being antagonized.
 
-Adjunctive Use in Septic Shock
+## Adjunctive Use in Septic Shock
 
 Naloxone has been shown in some cases of septic shock to produce a rise in blood pressure that may last up to several hours; however this pressor response has not been demonstrated to improve patient survival.
 In some studies, treatment with naloxone in the setting of septic shock has been associated with adverse effects, including agitation, nausea and vomiting, pulmonary edema, hypotension, cardiac arrhythmias, and seizures.
 The decision to use naloxone in septic shock should be exercised with caution, particularly in patients who may have underlying pain or have previously received opioid therapy and may have developed opioid tolerance.
 
 Because of the limited number of patients who have been treated, optimal dosage and treatment regimens have not been established.
-
-PHARMACOKINETICS
-
-Distribution
-
-Following parenteral administration, naloxone is rapidly distributed in the body and readily crosses the placenta.
-Plasma protein binding occurs but is relatively weak.
-Plasma albumin is the major binding constituent but significant binding of naloxone also occurs to plasma constituents other than albumin.
-It is not known whether naloxone is excreted into human milk.
-
-Metabolism and Elimination
-
-Naloxone is metabolized in the liver primarily by glucuronide conjugation with naloxone-3-glucuronide as the major metabolite.
-In one study, the serum half-life in adults ranged from 30 to 81 minutes (mean 64 ± 12 minutes).
-In a neonatal study, the mean plasma half-life was observed to be 3.1 ± 0.5 hours.
-After an oral or intravenous dose, about 25-40% of the drug is excreted as metabolites in urine within 6 hours, about 50% in 24 hours, and 60-70% in 72 hours.

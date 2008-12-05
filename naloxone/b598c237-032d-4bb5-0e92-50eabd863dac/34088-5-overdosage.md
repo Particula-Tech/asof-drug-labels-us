@@ -2,7 +2,7 @@
 
 There is limited clinical experience with naloxone hydrochloride injection overdosage in humans.
 
-Adult Patients
+## Adult Patients
 
 In one small study, volunteers who received 24 mg/70 kg did not demonstrate toxicity.
 
@@ -11,17 +11,18 @@ Twenty-three patients experienced adverse events associated with naloxone use, a
 The most serious adverse events were: seizures (2 patients), severe hypertension (1), and hypotension and/or bradycardia (3).
 
 At doses of 2 mg/kg in normal subjects, cognitive impairment and behavioral symptoms, including irritability, anxiety, tension, suspiciousness, sadness, difficulty concentrating, and lack of appetite have been reported.
+
 In addition, somatic symptoms, including dizziness, heaviness, sweating, nausea, and stomachaches were also reported.
 Although complete information is not available, behavioral symptoms were reported to often persist for 2 to 3 days.
 
-Pediatric Patients
+## Pediatric Patients
 
 Up to 11 doses of 0.2 mg naloxone (2.2 mg) have been administered to children following overdose of diphenoxylate hydrochloride with atropine sulfate.
 Pediatric reports include a 2 1/2 year-old child who inadvertently received a dose of 20 mg naloxone for treatment of respiratory depression following overdose with diphenoxylate hydrochloride with atropine sulfate.
 The child responded well and recovered without adverse sequelae.
 There is also a report of a 4 1/2 year-old child who received 11 doses during a 12-hour period, with no adverse sequelae.
 
-Patient Management
+## Patient Management
 
 Patients who experience a naloxone overdose should be treated symptomatically in a closely supervised environment.
 Physicians should contact a poison control center for the most up-to-date patient management information.

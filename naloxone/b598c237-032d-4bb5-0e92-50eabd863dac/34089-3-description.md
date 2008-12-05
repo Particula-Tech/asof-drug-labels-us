@@ -3,7 +3,7 @@
 Naloxone hydrochloride, an opioid antagonist, is a synthetic congener of oxymorphone.
 In structure it differs from oxymorphone in that the methyl group on the nitrogen atom is replaced by an allyl group.
 It is known chemically as 17-allyl-4,5α-epoxy,3-14-dihydroxymorphinan-6-one hydrochloride.
-It has a molecular weight of 363.84, and the following structural formula:
+It has a molecular weight of 363.84, and the followingstructural formula:
 
 Naloxone hydrochloride occurs as a white to slightly off-white powder, and is soluble in water, in dilute acids, and in strong alkali; slightly soluble in alcohol; practically insoluble in ether and in chloroform.
 
