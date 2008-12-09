@@ -47,4 +47,4 @@ Percentages of Patients with Treatment-emergent Adverse Events Exceeding Placebo
 
 ## Post-Marketing Surveillance
 
-The following events have been reported in association with solifenacin use in worldwide postmarketing experience: General: hypersensitivity reactions, including angioedema, rash, pruritis, and urticaria; Central Nervous: confusion and hallucinations; Cardiovascular: QT prolongation; Torsade de Pointes.Because these spontaneously reported events are from the worldwide postmarketing experience, the frequency of events and the role of solifenacin in their causation cannot be reliably determined.
+The following events have been reported in association with solifenacin use in worldwide postmarketing experience: General: peripheral edema, hypersensitivity reactions, including angioedema, rash, pruritus, and urticaria; Central Nervous: headache, confusion and hallucinations; Cardiovascular: QT prolongation; Torsade de Pointes.Because these spontaneously reported events are from the worldwide postmarketing experience, the frequency of events and the role of solifenacin in their causation cannot be reliably determined.

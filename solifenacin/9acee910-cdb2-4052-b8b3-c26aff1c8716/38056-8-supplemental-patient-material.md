@@ -171,4 +171,4 @@ North Carolina 27709
 
 © 2005 Astellas Pharma US, Inc.
 
-& GlaxoSmithKline 01232007VES/Revised: January 2008
+& GlaxoSmithKline 05152008VES/Revised: May 2008

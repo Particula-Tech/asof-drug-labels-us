@@ -3,7 +3,7 @@
 ## Acute
 
 Overdosage with VESIcare can potentially result in severe anticholinergic effects and should be treated accordingly.
-The highest VESIcare dose given to human volunteers was a single 100 mg dose.
+The highest case of accidental overdose of solifenacin succinate was 280mg in a 5 hour period, resulting in mental status changes but not requiring hospitalization.
 
 ## Chronic
 
