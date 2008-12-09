@@ -4,5 +4,5 @@ TRIVARIS™ (triamcinolone acetonide injectable suspension) 80 mg/mL is supplied
 
 Syringe without needle: NDC 0023-3457-01
 
-Storage: Keep refrigerated 36° - 46°F (2° -8°C) until use.
+Storage: Keep refrigerated 36o - 46o F (2o - 8o C) until use.
 Avoid freezing and protect from light.

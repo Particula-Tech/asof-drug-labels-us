@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosing
 
-The initial dose of TRIVARIS™ (triamcinolone acetonide injectable suspension) 80 mg/mL may vary from 2.5 mg to 100 mg per day depending on the specific disease entity being treated (see DOSAGE AND ADMINISTRATION,2.3,2.4, 2.5).
+The initial dose of TRIVARIS™ (triamcinolone acetonide injectable suspension) 80 mg/mL may vary from 2.5 mg to 100 mg per day depending on the specific disease entity being treated (see DOSAGE AND ADMINISTRATION,2.3, 2.4, 2.5).
 However, in certain overwhelming, acute, life threatening situations, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
 It should be emphasized that dosage requirements are variable and must be individualized on the basis of the disease under treatment and the response of the patient.
 

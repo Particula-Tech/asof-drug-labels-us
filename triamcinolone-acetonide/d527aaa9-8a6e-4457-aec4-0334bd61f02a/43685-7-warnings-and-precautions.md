@@ -81,7 +81,7 @@ Signs of GI perforation, such as peritoneal irritation, may be masked in patient
 
 Corticosteroids should be used with caution if there is a probability of impending perforation, abscess or other pyogenic infections; diverticulitis; fresh intestinal anastomoses; and active or latent peptic ulcer.
 
-## 5.8 Decrease in Bone Density
+## 5.8 Decreases in Bone Density
 
 Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in children and adolescents and the development of osteoporosis at any age.

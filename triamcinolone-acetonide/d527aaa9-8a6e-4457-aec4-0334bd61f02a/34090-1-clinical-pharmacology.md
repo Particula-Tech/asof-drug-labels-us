@@ -19,6 +19,6 @@ Intravitreal corticosteroids can down regulate the production of proinflammatory
 
 Aqueous humor pharmacokinetics of triamcinolone acetonide were assessed in 5 patients following a single intravitreal administration (4 mg) of triamcinolone acetonide.
 Aqueous humor samples were obtained from 5 patients (5 eyes) via an anterior chamber paracentesis on Days 1, 3, 10, 17 and 31 post-injection.
-Peak aqueous humor concentrations of triamcinolone acetonide ranged from 2,151 to 7,202 ng/mL, the half-life ranged from 76 to 635 hours, and the area under the concentration-time curve (AUC0-t) ranged from 231 to 1,911 ng∙h/mL.
+Peak aqueous humor concentrations of triamcinolone acetonide ranged from 2,151 to 7,202 ng/mL, the half-life ranged from 76 to 635 hours, and the area under the concentration-time curve (AUC0-t) ranged from 231 to 1,911 μg∙h/mL.
 The mean elimination half-life was 18.7 ± 5.7 days in 4 nonvitrectomized eyes (4 patients).
 In a patient who had undergone vitrectomy (1 eye), the elimination half-life of triamcinolone acetonide was much faster (3.2 days) relative to patients that had not undergone vitrectomy.
