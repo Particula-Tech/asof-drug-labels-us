@@ -38,7 +38,7 @@ Clinical Success Rates by Infecting Pathogen, Primary Comparative cSSSI Studies 
 |  | n/N (%) | n/N (%) |
 | --- | --- | --- |
 |  | Success Rate |  |
-| Pathogen | CUBICIN | ComparatorVancomycin or anti-staphylococcal semi-synthetic penicillins |
+| Pathogen | CUBICIN | ComparatorVancomycin or anti-staphylococcal semi-synthetic penicillins. |
 | Methicillin-susceptible Staphylococcus aureus (MSSA)As determined by the central laboratory. | 170/198 (85.9) | 180/207 (87.0) |
 | Methicillin-resistant Staphylococcus aureus (MRSA) | 21/28 (75.0) | 25/36 (69.4) |
 | Streptococcus pyogenes | 79/84 (94.0) | 80/88 (90.9) |
@@ -94,7 +94,7 @@ The median time to clearance in patients with MSSA was 4 days and in patients wi
 
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (15.8%) CUBICIN-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (9.6%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with anti-staphylococcal semi-synthetic penicillin).
 Among all failures, 6 CUBICIN-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing on or following therapy.
-Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention (seePRECAUTIONS).
+Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention (see PRECAUTIONS).
 
 Table 12.
 Adjudication Committee Success Rates at Test of Cure (Population: ITT)

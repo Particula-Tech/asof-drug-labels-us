@@ -138,7 +138,7 @@ The following events, not included above, were reported as possibly or probably 
 Blood and Lymphatic System Disorders: eosinophilia (1.7%), lymphadenopathy (<1%), thrombocythaemia (<1%), thrombocytopenia (<1%) Cardiac Disorders: atrial fibrillation (<1%), atrial flutter (<1%), cardiac arrest (<1%) Ear and Labyrinth Disorders: tinnitus (<1%) Eye Disorders: vision blurred (<1%) Gastrointestinal Disorders: dry mouth (<1%), epigastric discomfort (<1%), gingival pain (<1%), hypoaesthesia oral (<1%) Infections and Infestations: candidal infection NOS (1.7%), vaginal candidiasis (1.7%), fungaemia (<1%), oral candidiasis (<1%), urinary tract infection fungal (<1%) Investigations: blood phosphorous increased (2.5%), blood alkaline phosphatase increased (1.7%), INR increased (1.7%), liver function test abnormal (1.7%), alanine aminotransferase increased (<1%), aspartate aminotransferase increased (<1%), prothrombin time prolonged (<1%) Metabolism and Nutrition Disorders: appetite decreased NOS (<1%) Musculoskeletal and Connective Tissue Disorders: myalgia (<1%) Nervous System Disorders: dyskinesia (<1%), paraesthesia (<1%) Psychiatric Disorders: hallucination NOS (<1%) Renal and Urinary Disorders: proteinuria (<1%), renal impairment NOS (<1%) Skin and Subcutaneous Tissue Disorders: heat rash (<1%), pruritus generalized (<1%), rash vesicular (<1%)
 
 In Phase 3 studies of community-acquired pneumonia (CAP), the death rate and rates of serious cardiorespiratory adverse events were higher in CUBICIN-treated patients than in comparator-treated patients.
-These differences were due to lack of therapeutic effectiveness of CUBICIN in the treatment of CAP in patients experiencing these adverse events (seeINDICATIONS AND USAGE).
+These differences were due to lack of therapeutic effectiveness of CUBICIN in the treatment of CAP in patients experiencing these adverse events (see INDICATIONS AND USAGE).
 
 ## Laboratory Changes
 
@@ -146,7 +146,7 @@ In Phase 3 comparator-controlled cSSSI and CAP studies, there was no clinically 
 CPK elevations in both groups were generally related to medical conditions—for example, skin and skin structure infection, surgical procedures, or intramuscular injections—and were not associated with muscle symptoms.
 
 In the Phase 3 cSSSI studies, 0.2% of patients treated with CUBICIN had symptoms of muscle pain or weakness associated with CPK elevations to greater than 4X ULN.
-The symptoms resolved within 3 days and CPK returned to normal within 7 to 10 days after discontinuing treatment (seePRECAUTIONS, Skeletal Muscle).
+The symptoms resolved within 3 days and CPK returned to normal within 7 to 10 days after discontinuing treatment (see PRECAUTIONS, Skeletal Muscle).
 Table 7 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI trials.
 
 Table 7.
@@ -188,5 +188,4 @@ Incidence of Decreased Renal Function Based on Creatinine Clearance Levels
 The following adverse reactions have been reported with CUBICIN in worldwide post-marketing experience.
 Because these events are reported voluntarily from a population of unknown size, estimates of frequency cannot be made and causal relationship cannot be precisely established.
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia.
-Musculoskeletal System: rhabdomyolysis; some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors.
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors) Nervous System Disorders: peripheral neuropathy Skin and Subcutaneous Tissue Disorders: vesiculobullous rash with or without mucous membrane involvement

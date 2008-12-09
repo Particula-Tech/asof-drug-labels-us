@@ -21,7 +21,7 @@ Therefore, CUBICIN should not be dosed more frequently than once a day.
 Because daptomycin is eliminated primarily by the kidney, a dosage modification is recommended for patients with creatinine clearance <30 mL/min, including patients receiving hemodialysis or CAPD, as listed in Table 9.
 The recommended dosing regimen is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 24 hours for patients with CLCR ≥30 mL/min and 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours for patients with CLCR <30 mL/min, including those on hemodialysis or CAPD.
 In patients with renal insufficiency, both renal function and CPK should be monitored more frequently.
-When possible, CUBICIN should be administered following hemodialysis on hemodialysis days (seeCLINICAL PHARMACOLOGY).
+When possible, CUBICIN should be administered following hemodialysis on hemodialysis days (see CLINICAL PHARMACOLOGY).
 
 Table 9.
 Recommended Dosage of CUBICIN (daptomycin for injection) in Adult Patients
@@ -52,6 +52,8 @@ Since no preservative or bacteriostatic agent is present in this product, asepti
 Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature or up to 48 hours if stored under refrigeration at 2 to 8ºC (36 to 46ºF).
 The diluted solution is stable in the infusion bag for 12 hours at room temperature or 48 hours if stored under refrigeration.
 The combined time (vial and infusion bag) at room temperature should not exceed 12 hours; the combined time (vial and infusion bag) under refrigeration should not exceed 48 hours.
+
+CUBICIN should not be used in conjunction with ReadyMED® elastomeric infusion pumps (Cardinal Health, Inc.) because of incompatibility due to an impurity leaching from this pump system into the CUBICIN solution.
 
 CUBICIN vials are for single use only.
 

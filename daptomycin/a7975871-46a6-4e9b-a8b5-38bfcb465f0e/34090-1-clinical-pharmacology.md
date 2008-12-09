@@ -49,7 +49,7 @@ The site of metabolism has not been identified.
 Daptomycin is excreted primarily by the kidney.
 In a mass balance study of 5 healthy subjects using radiolabeled daptomycin, approximately 78% of the administered dose was recovered from urine based on total radioactivity (approximately 52% of the dose based on microbiologically active concentrations) and 5.7% of the dose was recovered from feces (collected for up to 9 days) based on total radioactivity.
 
-Because renal excretion is the primary route of elimination, dosage adjustment is necessary in patients with severe renal insufficiency (CLCR <30 mL/min) (seeDOSAGE AND ADMINISTRATION).
+Because renal excretion is the primary route of elimination, dosage adjustment is necessary in patients with severe renal insufficiency (CLCR <30 mL/min) (see DOSAGE AND ADMINISTRATION).
 
 ## Special Populations
 
@@ -63,7 +63,7 @@ The mean AUC for patients with CLCR <30 mL/min and for patients on hemodialysis 
 Following the administration of CUBICIN 4 mg/kg q24h, the mean Cmax ranged from 60 to 70 µg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 µg/mL.
 The mean Cmax ranged from 80 to 114 µg/mL in patients with mild-to-moderate renal impairment and was similar to that of patients with normal renal function after the administration of CUBICIN 6 mg/kg q24h.
 In patients with renal insufficiency, both renal function and creatine phosphokinase (CPK) should be monitored more frequently.
-CUBICIN should be administered following the completion of hemodialysis on hemodialysis days (seeDOSAGE AND ADMINISTRATION for recommended dosage regimens).
+CUBICIN should be administered following the completion of hemodialysis on hemodialysis days (see DOSAGE AND ADMINISTRATION for recommended dosage regimens).
 
 Table 2.
 Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of 4 mg/kg or 6 mg/kg to Infected Patients and Noninfected Subjects with Varying Degrees of Renal Function
@@ -134,11 +134,11 @@ Caution is warranted when CUBICIN is coadministered with tobramycin.
 
 ### Warfarin
 
-In 16 healthy subjects, concomitant administration of CUBICIN 6 mg/kg q24h for 5 days followed by a single oral dose of warfarin (25 mg) had no significant effect on the pharmacokinetics of either drug and did not significantly alter the INR (International Normalized Ratio) (seePRECAUTIONS, Drug Interactions).
+In 16 healthy subjects, concomitant administration of CUBICIN 6 mg/kg q24h for 5 days followed by a single oral dose of warfarin (25 mg) had no significant effect on the pharmacokinetics of either drug and did not significantly alter the INR (International Normalized Ratio) (see PRECAUTIONS, Drug Interactions).
 
 ### Simvastatin
 
-In 20 healthy subjects on a stable daily dose of simvastatin 40 mg, administration of CUBICIN 4 mg/kg IV q24h for 14 days (N=10) was not associated with a higher incidence of adverse events than in subjects receiving placebo once daily (N=10) (seePRECAUTIONS, Drug Interactions).
+In 20 healthy subjects on a stable daily dose of simvastatin 40 mg, administration of CUBICIN 4 mg/kg IV q24h for 14 days (N=10) was not associated with a higher incidence of adverse events than in subjects receiving placebo once daily (N=10) (see PRECAUTIONS, Drug Interactions).
 
 ### Probenecid
 

@@ -34,7 +34,7 @@ Appropriate surgical intervention (e.g., debridement, removal of prosthetic devi
 
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (15.8%) CUBICIN-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (9.6%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with anti-staphylococcal semi-synthetic penicillin).
 Among all failures, 6 CUBICIN-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing on or following therapy.
-Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention (seeCLINICAL STUDIES).
+Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention (see CLINICAL STUDIES).
 
 ## Skeletal Muscle
 
@@ -46,7 +46,7 @@ In the S. aureus bacteremia/endocarditis trial, at a dose of 6 mg/kg, elevations
 There were a total of 11 patients who experienced CPK elevations to above 500 U/L.
 Of these 11 patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
 
-Skeletal muscle effects associated with CUBICIN were observed in animals (seeANIMAL PHARMACOLOGY).
+Skeletal muscle effects associated with CUBICIN were observed in animals (see ANIMAL PHARMACOLOGY).
 
 Patients receiving CUBICIN should be monitored for the development of muscle pain or weakness, particularly of the distal extremities.
 In patients who receive CUBICIN, CPK levels should be monitored weekly, and more frequently in patients who received recent prior or concomitant therapy with an HMG-CoA reductase inhibitor.
@@ -68,7 +68,7 @@ In Phase 3 cSSSI and community-acquired pneumonia (CAP) studies, 7/989 (0.7%) CU
 New or worsening peripheral neuropathy was not diagnosed in any of these patients.
 In the S. aureus bacteremia/endocarditis trial, a total of 11/120 (9.2%) CUBICIN-treated patients had treatment-emergent adverse events related to the peripheral nervous system.
 All of the events were classified as mild to moderate in severity; most were of short duration and resolved during continued treatment with CUBICIN or were likely due to an alternative etiology.
-In animals, effects of CUBICIN on peripheral nerve were observed (seeANIMAL PHARMACOLOGY).
+In animals, effects of CUBICIN on peripheral nerve were observed (see ANIMAL PHARMACOLOGY).
 Therefore, physicians should be alert to the possibility of signs and symptoms of neuropathy in patients receiving CUBICIN.
 
 ## Drug Interactions
@@ -76,14 +76,14 @@ Therefore, physicians should be alert to the possibility of signs and symptoms o
 ### Warfarin
 
 Concomitant administration of CUBICIN (6 mg/kg q24h for 5 days) and warfarin (25 mg single oral dose) had no significant effect on the pharmacokinetics of either drug, and the INR was not significantly altered.
-As experience with the concomitant administration of CUBICIN and warfarin is limited, anticoagulant activity in patients receiving CUBICIN and warfarin should be monitored for the first several days after initiating therapy with CUBICIN (seeCLINICAL PHARMACOLOGY, Drug-Drug Interactions).
+As experience with the concomitant administration of CUBICIN and warfarin is limited, anticoagulant activity in patients receiving CUBICIN and warfarin should be monitored for the first several days after initiating therapy with CUBICIN (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
 
 ### HMG-CoA Reductase Inhibitors
 
 Inhibitors of HMG-CoA reductase may cause myopathy, which is manifested as muscle pain or weakness associated with elevated levels of CPK.
 There were no reports of skeletal myopathy in a placebo-controlled Phase 1 trial in which 10 healthy subjects on stable simvastatin therapy were treated concurrently with CUBICIN (4 mg/kg q24h) for 14 days.
 In the Phase 3 S. aureus bacteremia/endocarditis trial, 5/22 CUBICIN-treated patients who received prior or concomitant therapy with an HMG-CoA reductase inhibitor developed CPK elevations >500 U/L.
-Experience with coadministration of HMG-CoA reductase inhibitors and CUBICIN in patients is limited; therefore, consideration should be given to temporarily suspending use of HMG-CoA reductase inhibitors in patients receiving CUBICIN (seeADVERSE REACTIONS, Post-Marketing Experience).
+Experience with coadministration of HMG-CoA reductase inhibitors and CUBICIN in patients is limited; therefore, consideration should be given to temporarily suspending use of HMG-CoA reductase inhibitors in patients receiving CUBICIN (see ADVERSE REACTIONS, Post-Marketing Experience).
 
 ## Drug-Laboratory Test Interactions
 
