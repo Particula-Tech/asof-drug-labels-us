@@ -2,8 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Maraviroc is an antiviral drug.
-[see Clinical Pharmacology (12.4)].
+Maraviroc is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -32,18 +31,18 @@ No subject experienced an interval exceeding the potentially clinically relevant
 
 ## 12.3 Pharmacokinetics
 
-|  | Maraviroc dose | N | AUC12 (ng∙h/mL) | Cmax (ng/mL) | Cmin (ng/mL) |
+|  | Maraviroc dose | N | AUC12 (ng.h/mL) | Cmax (ng/mL) | Cmin (ng/mL) |
 | --- | --- | --- | --- | --- | --- |
 | Table 5 Mean Maraviroc Pharmacokinetic Parameters |  |  |  |  |  |
 | Healthy volunteers (phase 1) | 300 mg twice daily | 64 | 2908 | 888 | 43.1 |
 | Asymptomatic HIV patients (phase 2a) | 300 mg twice daily | 8 | 2550 | 618 | 33.6 |
-| Treatment-experienced HIV patients (phase 3)the estimated exposure is lower compared to other studies possibly due to food effect, compliance and concomitant medications. | 300 mg twice daily | 94 | 1513 | 266 | 37.2 |
+| Treatment-experienced HIV patients (phase 3)The estimated exposure is lower compared to other studies possibly due to food effect, compliance and concomitant medications. | 300 mg twice daily | 94 | 1513 | 266 | 37.2 |
 | 150 mg twice daily (+ CYP3A inhibitor) | 375 | 2463 | 332 | 101 |  |
 
 Absorption
 
 Peak maraviroc plasma concentrations are attained 0.5–4h following single oral doses of 1–1200 mg administered to uninfected volunteers.
-The pharmacokinetics of oral maraviroc are not dose proportional over the dose range.
+The pharmacokinetics of oral maraviroc are not dose-proportional over the dose range.
 
 The absolute bioavailability of a 100 mg dose is 23% and is predicted to be 33% at 300 mg.
 Maraviroc is a substrate for the efflux transporter P-glycoprotein.
@@ -52,7 +51,7 @@ Effect of Food on Oral Absorption
 
 Coadministration of a 300mg tablet with a high fat breakfast reduced maraviroc Cmax and AUC by 33% in healthy volunteers.
 There were no food restrictions in the studies that demonstrated the efficacy and safety of maraviroc [see Clinical Studies (14)].
-Therefore, maraviroc can be taken with or without food at the recommended dose [See Dosage and Administration (2)].
+Therefore, maraviroc can be taken with or without food at the recommended dose [see Dosage and Administration (2)].
 
 Distribution
 
@@ -65,10 +64,10 @@ Studies in humans and in vitro studies using human liver microsomes and expresse
 In vitro studies indicate that CYP3A is the major enzyme responsible for maraviroc metabolism.
 In vitro studies also indicate that polymorphic enzymes CYP2C9, CYP2D6 and CYP2C19 do not contribute significantly to the metabolism of maraviroc.
 
-Maraviroc is the major circulating component (~42% drug related radioactivity) following a single oral dose of 300 mg[14C]-maraviroc.
+Maraviroc is the major circulating component (~42% drug-related radioactivity) following a single oral dose of 300 mg[14C]-maraviroc.
 The most significant circulating metabolite in humans is a secondary amine (~22% radioactivity) formed by N-dealkylation.
 This polar metabolite has no significant pharmacological activity.
-Other metabolites are products of mono-oxidation and are only minor components of plasma drug related radioactivity.
+Other metabolites are products of mono-oxidation and are only minor components of plasma drug-related radioactivity.
 
 Excretion
 
@@ -77,6 +76,16 @@ A mass balance/excretion study was conducted using a single 300mg dose of 14C-la
 Approximately 20% of the radiolabel was recovered in the urine and 76% was recovered in the feces over 168 hours.
 Maraviroc was the major component present in urine (mean of 8% dose) and feces (mean of 25% dose).
 The remainder was excreted as metabolites.
+
+Hepatic Impairment
+
+Maraviroc is primarily metabolized and eliminated by the liver.
+A study compared the pharmacokinetics of a single 300 mg dose of SELZENTRY in patients with mild (Child-Pugh Class A, n=8), and moderate (Child-Pugh Class B, n=8) hepatic impairment to pharmacokinetics in healthy subjects (n=8).
+The mean Cmax and AUC were 11% and 25% higher, respectively, for subjects with mild hepatic impairment, and 32% and 46% higher, respectively, for subjects with moderate hepatic impairment compared to subjects with normal hepatic function.
+These changes do not warrant a dose adjustment.
+Maraviroc concentrations are higher when SELZENTRY 150 mg is administered with a strong CYP3A inhibitor compared to following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive SELZENTRY 150 mg with a strong CYP3A inhibitor should be monitored closely for maraviroc associated adverse events.
+The pharmacokinetics of maraviroc have not been studied in subjects with severe hepatic impairment.
+[see Warnings and Precautions (5.1)]
 
 Effect of Concomitant Drugs on the Pharmacokinetics of Maraviroc
 
@@ -97,7 +106,7 @@ Co-trimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc (s
 | Saquinavir (soft gel capsules)/ritonavir 1000 mg/100 mg BID | 11 | 100 mg BID | 11.3 (8.96–14.1) | 9.77 (7.87, 12.14) | 4.78 (3.41, 6.71) |
 | Lopinavir/ritonavir 400 mg/100 mg BID | 11 | 300 mg BID | 9.24 (7.98–10.7) | 3.95 (3.43, 4.56) | 1.97 (1.66, 2.34) |
 | Atazanavir 400 mg QD | 12 | 300 mg BID | 4.19 (3.65–4.80) | 3.57 (3.30, 3.87) | 2.09 (1.72, 2.55) |
-| Atazanavir/ritonavir 300 mg/100 mg QD | 12 | 300 mg BID | 6.67 (5.78–7.70) | 4.88 (4.40, 5.41) | 2.67 (2.32, 3.08) |
+| Darunavir/ritonavir 600 mg/100 mg BID | 12 | 150 mg BID | 8.00 (6.35, 10.1) | 4.05 2.94, 5.59 | 2.29 (1.46, 3.59) |
 | CYP3A and/or P-gp Inducers |  |  |  |  |  |
 | Efavirenz 600 mg QD | 12 | 100 mg BID | 0.55 (0.43–0.72) | 0.552 (0.492, 0.620) | 0.486 (0.377, 0.626) |
 | Rifampicin 600 mg QD | 12 | 100 mg BID | 0.22 (0.17–0.28) | 0.368 (0.328, 0.413) | 0.335 (0.260, 0.431) |
@@ -110,11 +119,14 @@ Co-trimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc (s
 Effect of Maraviroc on the Pharmacokinetics of Concomitant Drugs
 
 Maraviroc is unlikely to inhibit the metabolism of co-administered drugs metabolized by the following cytochrome P enzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A) because maraviroc did not inhibit activity of those enzymes at clinically relevant concentrations in vitro.
+Maraviroc does not induce CYP1A2 in vitro.
+
+In vitro results indicate that maraviroc could inhibit P-glycoprotein in the gut and may thus affect bioavailability of certain drugs.
 
 Drug interaction studies were performed with maraviroc and other drugs likely to be co-administered or commonly used as probes for pharmacokinetic interactions [see Table 6].
 Maraviroc had no effect on the pharmacokinetics of zidovudine or lamivudine.
 Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, no effect on the urinary 6β-hydroxycortisol/cortisol ratio, suggesting no induction of CYP3A in vivo.
-Maraviroc had no effect on the debrisoquine metabolic ratio (MR) at 300 mg twice daily or less in vivo.
+Maraviroc had no effect on the debrisoquine metabolic ratio (MR) at 300 mg twice daily or less in vivo and did not cause inhibition of CYP2D6 in vitro until concentrations >100µM.
 However, there was 234% increase in debrisoquine MR on treatment compared to baseline at 600 mg once daily, suggesting potential inhibition of CYP2D6 at higher dose.
 
 ## 12.4 Microbiology
@@ -127,10 +139,10 @@ CXCR4-tropic and dual-tropic HIV-1 entry is not inhibited by maraviroc.
 
 Antiviral Activity in Cell Culture
 
-Maraviroc inhibits the replication of CCR5-tropic laboratory strains and primary isolates of HIV-1 in models of acute T-cell infection.
-The mean EC50 value (50% effective concentration) for maraviroc against HIV-1 group M isolates (clades A to J) and group O isolates ranged from 0.1 to 1.25 nM (0.05 to 0.64 ng/mL) in cell culture.
+Maraviroc inhibits the replication of CCR5-tropic laboratory strains and primary isolates of HIV-1 in models of acute peripheral blood leukocyte infection.
+The mean EC50 value (50% effective concentration) for maraviroc against HIV-1 group M isolates (subtypes A to J and circulating recombinant form AE) and group O isolates ranged from 0.1 to 4.5 nM (0.05 to 2.3 ng/mL) in cell culture.
 
-When used with other antiretroviral agents in cell culture, the combination of maraviroc was not antagonistic with NNRTIs (delavirdine, efavirenz and nevirapine), NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine and zidovudine), or protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir and saquinavir).
+When used with other antiretroviral agents in cell culture, the combination of maraviroc was not antagonistic with NNRTIs (delavirdine, efavirenz and nevirapine), NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine and zidovudine), or protease inhibitors (amprenavir, atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir and tipranavir).
 Maraviroc was additive/synergistic with the HIV fusion inhibitor enfuvirtide.
 Maraviroc was not active against CXCR4-tropic and dual-tropic viruses (EC50 value >10 µM).
 The antiviral activity of maraviroc against HIV-2 has not been evaluated.
@@ -140,36 +152,35 @@ Resistance in Cell Culture
 HIV-1 variants with reduced susceptibility to maraviroc have been selected in cell culture, following serial passage of two CCR5-tropic viruses (CC1/85 and RU570).
 The maraviroc-resistant viruses remained CCR5-tropic with no evidence of a change from a CCR5-tropic virus to a CXCR4-using virus.
 Two amino acid residue substitutions in the V3-loop region of the HIV-1 envelope glycoprotein (gp160), A316T and I323V (HXB2 numbering) were shown to be necessary for the maraviroc-resistant phenotype in the HIV-1 isolate CC1/85.
-In the RU570 isolate a 3-amino acid residue deletion in the V3 loop, ΔQAI (HXB2 positions 315–317), was associated with maraviroc-resistance.
+In the RU570 isolate a 3-amino acid residue deletion in the V3 loop, ΔQAI (HXB2 positions 315–317), was associated with maraviroc resistance.
 The relevance of the specific gp120 mutations observed in maraviroc-resistant isolates selected in cell culture to clinical maraviroc resistance is not known.
 Maraviroc-resistant viruses were characterized phenotypically by concentration response curves that did not reach 100% inhibition in phenotypic drug assays, rather than increases in EC50 values.
-
-Clinical Resistance
-
-The resistance profile in treatment-naïve and treatment-experienced subjects has not been fully characterized.
-Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc or through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see Tropism below).
-Preliminary data from a subset of treatment-experienced subjects failing maraviroc-containing regimens with CCR5-tropic virus (n=12) have identified 5 viruses that had decreased susceptibility to maraviroc characterized in phenotypic drug assays by concentration response curves that did not reach 100% inhibition.
-Additionally, CCR5-tropic virus from 2 of these treatment failure subjects had 3-fold shifts in EC50 values for maraviroc at the time of failure.
-
-Each of these viruses had multiple amino acid substitutions with unique patterns in the heterogeneous V3 loop region of gp120.
-Changes at either amino acid position 308 or 323 (HXB2 numbering) were seen in the V3 loop in all five of the subjects with decreased maraviroc susceptibility.
-The contribution of mutations outside the V3 loop of gp120 to maraviroc resistance has not been investigated.
 
 Cross-resistance in Cell Culture
 
 Maraviroc had antiviral activity against HIV-1 clinical isolates resistant to NRTIs, NNRTIs, PIs and enfuvirtide in cell culture (EC50 values ranged from 0.7 to 8.9 nM (0.36 to 4.57 ng/mL)).
 Maraviroc-resistant viruses that emerged in cell culture remained susceptible to the fusion inhibitor enfuvirtide and the protease inhibitor saquinavir.
 
+Clinical Resistance
+
+Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc or through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see Tropism below).
+Week 48 data from treatment-experienced subjects failing maraviroc-containing regimens with CCR5-tropic virus (n=58) have identified 22 viruses that had decreased susceptibility to maraviroc characterized in phenotypic drug assays by concentration response curves that did not reach 100% inhibition.
+Additionally, CCR5-tropic virus from 2 of these treatment failure subjects had ≥3-fold shifts in EC50 values for maraviroc at the time of failure.
+
+Fifteen of these viruses were sequenced in the gp120 encoding region and multiple amino acid substitutions with unique patterns in the heterogeneous V3 loop region were detected.
+Changes at either amino acid position 308 or 323 (HXB2 numbering) were seen in the V3 loop in 7 of the subjects with decreased maraviroc susceptibility.
+Substitutions outside the V3 loop of gp120 may also contribute to reduced susceptibility to maraviroc.
+
 Tropism
 
-In the majority of cases, treatment failure on maraviroc was associated with detection of CXCR4-using (i.e., CXCR4- or dual/mixed-tropic) virus which was not detected by the tropism assay prior to treatment.
-CXCR4-using virus was detected at failure in approximately 60% of subjects who failed treatment on maraviroc, as compared to 6% of subjects who experienced treatment failure in the placebo arm.
+In the majority of cases, treatment failure on maraviroc was associated with detection of CXCR4-using virus (i.e., CXCR4-or dual/mixed-tropic) which was not detected by the tropism assay prior to treatment.
+CXCR4-using virus was detected at failure in approximately 55% of subjects who failed treatment on maraviroc by Week 48, as compared to 9% of subjects who experienced treatment failure in the placebo arm.
 To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the maraviroc arms and 4 subjects from the placebo arm) in whom CXCR4-using virus was detected at treatment failure.
-From analysis of amino acid sequence differences and phylogenetic data, CXCR4-using virus in these subjects emerged from a low level of pre-existing CXCR4-using virus not detected by the tropism assay (which is population-based) prior to treatment rather than from a co-receptor switch from CCR5-tropic virus to CXCR4-using virus resulting from mutation in the virus.
+From analysis of amino acid sequence differences and phylogenetic data, it was determined that CXCR4-using virus in these subjects emerged from a low level of pre-existing CXCR4-using virus not detected by the tropism assay (which is population-based) prior to treatment rather than from a co-receptor switch from CCR5-tropic virus to CXCR4-using virus resulting from mutation in the virus.
 
 Detection of CXCR4-using virus prior to initiation of therapy has been associated with a reduced virological response to maraviroc.
-Furthermore, subjects failing maraviroc BID with CXCR4-using virus had a lower median increase in CD4+ cell counts from baseline (+22 cells/mm3) than those subjects failing with CCR5-tropic virus (+149 cells/mm3).
-The median increase in CD4+ cell count in patients failing in the placebo arm was +5 cells/mm3.
+Furthermore, subjects failing maraviroc BID at Week 48 with CXCR4-using virus had a lower median increase in CD4+ cell counts from baseline (+41 cells/mm3) than those subjects failing with CCR5-tropic virus (+162 cells/mm3).
+The median increase in CD4+ cell count in patients failing in the placebo arm was +7 cells/mm3.
 
 ## 12.5 Pharmacogenomics
 

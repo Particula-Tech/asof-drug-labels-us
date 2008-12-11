@@ -5,7 +5,7 @@
 Pregnancy Category B
 
 The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with maraviroc in rats at exposures (AUC) approximately 20-fold higher and in rabbits at approximately 5-fold higher than human exposures at the recommended daily dose (up to 1000 mg/kg/day in rats and 75 mg/kg/day in rabbits).
-During the pre-and post-natal development studies in the offspring, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of maraviroc.
+During the pre- and post-natal development studies in the offspring, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of maraviroc.
 
 However, there are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, SELZENTRY should be used during pregnancy only if clearly needed.
@@ -17,10 +17,10 @@ Physicians are encouraged to register patients by calling 1-800-258-4263.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV infection.
+The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV infection.
 Studies in lactating rats indicate that maraviroc is extensively secreted into rat milk.
 It is not known whether maraviroc is secreted into human milk.
-Because of the potential for both HIV transmission and serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving SELZENTRY.
+Because of the potential for both HIV transmission and serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving SELZENTRY.
 
 ## 8.4 Pediatric Use
 
@@ -35,15 +35,16 @@ In general, caution should be exercised when administering SELZENTRY in elderly 
 ## 8.6 Renal Impairment
 
 The safety and efficacy of maraviroc have not been specifically studied in patients with renal impairment, therefore maraviroc should be used with caution in this population.
-In the absence of metabolic inhibitors, renal clearance accounts for approximately 25% of total clearance of maraviroc.
+In the absence of metabolic inhibitors, renal clearance accounts for approximately 23% of total clearance of maraviroc.
 Maraviroc concentrations may be increased in patients with renal impairment, especially when CYP3A inhibitors are coadministered.
 Patients with a creatinine clearance of less than 50 mL/min who receive maraviroc and a CYP3A inhibitor may be at an increased risk of adverse effects related to increased maraviroc concentrations, such as dizziness and postural hypotension.
 Thus, patients with a creatinine clearance of less than 50 mL/min should receive maraviroc and a CYP3A inhibitor only if the potential benefit is felt to outweigh the risk, and they should be monitored for adverse effects.
 
 ## 8.7 Hepatic Impairment
 
-The pharmacokinetics of maraviroc have not been sufficiently studied in patients with hepatic impairment.
-Because maraviroc is metabolized by the liver, concentrations are likely to be increased in these patients [see Warnings and Precautions (5.1)].
+Maraviroc is principally metabolized by the liver; therefore, caution should be exercised when administering this drug to patients with hepatic impairment, because maraviroc concentrations may be increased.
+Maraviroc has not been studied in subjects with severe hepatic impairment.
+[see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Gender
 

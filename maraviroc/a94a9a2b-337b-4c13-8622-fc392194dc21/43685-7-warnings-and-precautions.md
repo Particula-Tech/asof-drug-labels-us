@@ -13,7 +13,7 @@ However, caution should be used when administering SELZENTRY to patients with pr
 ## 5.2 Cardiovascular Events
 
 Use with caution in patients at increased risk for cardiovascular events.
-Eleven subjects (1.3%) who received SELZENTRY had cardiovascular events including myocardial ischemia and/or infarction during the Phase 3 studies (total exposure 267 patient-years), while no subjects who received placebo had such events (total exposure 99 patient-years).
+Eleven subjects (1.3%) who received SELZENTRY had cardiovascular events including myocardial ischemia and/or infarction during the Phase 3 studies [total exposure 609 patient-years (300 on once daily + 309 on twice daily SELZENTRY)], while no subjects who received placebo had such events (total exposure 111 patient-years).
 These subjects generally had cardiac disease or cardiac risk factors prior to SELZENTRY use, and the relative contribution of SELZENTRY to these events is not known.
 
 When SELZENTRY was administered to healthy volunteers at doses higher than the recommended dose, symptomatic postural hypotension was seen at a greater frequency than in placebo.
@@ -29,8 +29,8 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 SELZENTRY antagonizes the CCR5 co-receptor located on some immune cells, and therefore could potentially increase the risk of developing infections.
 The overall incidence and severity of infection, as well as AIDS-defining category C infections, was comparable in the treatment groups during the Phase 3 studies of SELZENTRY.
-While there was a higher rate of certain upper respiratory tract infections reported in the SELZENTRY arm compared to placebo (20.0% versus 11.5%), there was a lower rate of pneumonia (2.1 % vs 4.8%) reported in patients receiving SELZENTRY.
-A higher incidence of Herpes virus infections (11.4 per 100 patient-years) was also reported in the SELZENTRY arm when adjusted for exposure compared to placebo (8.2 per 100 patient-years).
+While there was a higher rate of certain upper respiratory tract infections reported in the SELZENTRY arm compared to placebo (23% versus 13%), there was a lower rate of pneumonia (2% vs 5%) reported in patients receiving SELZENTRY.
+A higher incidence of Herpes virus infections (11 per 100 patient-years) was also reported in the SELZENTRY arm when adjusted for exposure compared to placebo (8 per 100 patient-years).
 Patients should be monitored closely for evidence of infections while receiving SELZENTRY.
 
 ## 5.5 Potential Risk of Malignancy

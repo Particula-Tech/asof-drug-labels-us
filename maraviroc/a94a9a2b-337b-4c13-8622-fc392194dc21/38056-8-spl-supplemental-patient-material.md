@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-SELZENTRY™ (sell-ZEN-tree) Tablets (maraviroc)
+SELZENTRY® (sell-ZEN-tree) Tablets (maraviroc)
 
 Read the Medication Guide that comes with SELZENTRY before you start taking it and each time you get a refill.
 There may be new information.
@@ -128,7 +128,7 @@ When SELZENTRY has been given with other anti-HIV drugs, there have been serious
 - Possible chance of infection or cancer.
   SELZENTRY affects other immune system cells and therefore may possibly increase your chance for getting other infections or cancer, although there is no evidence from the clinical trials of an increase in serious infections or cancer.
 
-The most common side effects of SELZENTRY include cough, fever, colds, rash, muscle and joint pain, stomach pain, dizziness.
+The most common side effects of SELZENTRY include colds, cough, fever, rash, and dizziness.
 Tell your doctor about any side effect that bothers you or does not go away.
 
 These are not all of the side effects with SELZENTRY.
@@ -162,8 +162,8 @@ Tablet core: microcrystalline cellulose, dibasic calcium phosphate (anhydrous), 
 
 Film-coat: FD&C blue #2 aluminum lake, soya lecithin, polyethylene glycol (macrogol 3350), polyvinyl alcohol, talc and titanium dioxide
 
-LAB-0357-1.0
+LAB-0358-2.0
 
-August 2007
+November 2008
 
 This Medication Guide has been approved by the US Food and Drug Administration
