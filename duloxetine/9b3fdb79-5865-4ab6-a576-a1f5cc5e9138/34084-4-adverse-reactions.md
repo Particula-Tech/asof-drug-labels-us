@@ -114,8 +114,8 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD an
 | f Also includes feeling jittery, nervousness, restlessness, tension, and psychomotor agitation |  |  |
 | g Also includes loss of libido |  |  |
 | h Also includes anorgasmia |  |  |
-| I Also includes nightmare |  |  |
-| j Males patients only |  |  |
+| i Also includes nightmare |  |  |
+| j Male patients only |  |  |
 | k Also includes ejaculation failure and ejaculation dysfunction |  |  |
 
 Diabetic Peripheral Neuropathic Pain — Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with Cymbalta in the premarketing acute phase of DPNP placebo-controlled trials (doses of 20 to 120 mg/day) and with an incidence greater than placebo.
@@ -232,7 +232,7 @@ Table 5: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in Fibrom
 | f Also includes nightmare |  |  |
 | g Also includes anorgasmia |  |  |
 | h Also includes loss of libido |  |  |
-| I Also includes ejaculation failure and ejaculation dysfunction |  |  |
+| i Also includes ejaculation failure and ejaculation dysfunction |  |  |
 
 ## 6.6 Effects on Male and Female Sexual Function
 
@@ -333,6 +333,6 @@ Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hy
 The following adverse reactions have been identified during postapproval use of Cymbalta.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, erythema multiforme, extrapyramidal disorder, glaucoma, gynecological bleeding, hallucinations, hyperglycemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, erythema multiforme, extrapyramidal disorder, glaucoma, gynecological bleeding, hallucinations, hyperglycemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
 
 Serious skin reactions including Stevens-Johnson Syndrome that have required drug discontinuation and/or hospitalization have been reported with duloxetine.

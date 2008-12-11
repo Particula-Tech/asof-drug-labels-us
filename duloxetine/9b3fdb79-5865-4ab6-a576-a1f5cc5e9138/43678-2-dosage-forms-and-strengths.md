@@ -1,4 +1,4 @@
-# 3 DOSAGE FORM AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Cymbalta is available as delayed release capsules:
 

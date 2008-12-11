@@ -53,8 +53,12 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child's healthcare provider for more information.
 
+These are not all the possible side effects.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the US Food and Drug Administration for all antidepressants.
 
-Patient Information revised June 21, 2007
+Patient Information revised December 4, 2008
 
-PV 5083 AMP
+PV 5084 AMP
