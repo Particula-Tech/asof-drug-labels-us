@@ -11,7 +11,7 @@ The daily dosage may be split into one tablet of 100 mg (or two teaspoonfuls of 
 If central nervous system effects develop in once-a-day dosage, a split dosage schedule may reduce such complaints.
 In persons 65 years of age or older, the daily dosage of SYMMETREL is 100 mg.
 
-A 100 mg daily dose has also been shown in experimental challenge studies to be effective as prophylaxis in healthy adults who are not at high risk for influenza-related complications.
+A 100 mg daily dose has also been shown in experimentalchallenge studies to be effective as prophylaxis in healthy adults who are not at high risk for influenza-related complications.
 However, it has not been demonstrated that a 100 mg daily dose is as effective as a 200 mg daily dose for prophylaxis, nor has the 100 mg daily dose been studied in the treatment of acute influenza illness.
 In recent clinical trials, the incidence of central nervous system (CNS) side effects associated with the 100 mg daily dose was at or near the level of placebo.
 The 100 mg dose is recommended for persons who have demonstrated intolerance to 200 mg of SYMMETREL daily because of CNS or other toxicities.
