@@ -1,3 +1,5 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Premarin (conjugated estrogens) Vaginal Cream therapy is indicated in the treatment of atrophic vaginitis and kraurosis vulvae.
+## 1.1 Treatment of Atrophic Vaginitis and Kraurosis Vulvae
+
+## 1.2 Treatment of Moderate to Severe Dyspareunia, a Symptom of Vulvar and Vaginal Atrophy, due to Menopause

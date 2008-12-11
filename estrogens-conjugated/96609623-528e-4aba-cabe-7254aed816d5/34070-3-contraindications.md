@@ -1,12 +1,11 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Premarin Vaginal Cream therapy should not be used in women with any of the following conditions:
+PREMARIN Vaginal Cream therapy should not be used in women with any of the following conditions:
 
-1. Undiagnosed abnormal genital bleeding.
-2. Known, suspected, or history of cancer of the breast.
-3. Known or suspected estrogen-dependent neoplasia.
-4. Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
-5. Active or recent (within past year) arterial thromboembolic disease (for example, stroke, myocardial infarction).
-6. Liver dysfunction or disease.
-7. Known hypersensitivity to any of the ingredients in Premarin Vaginal Cream.
-8. Known or suspected pregnancy.
+- Undiagnosed abnormal genital bleeding
+- Known, suspected, or history of breast cancer
+- Known or suspected estrogen-dependent neoplasia
+- Active deep vein thrombosis, pulmonary embolism or a history of these conditions
+- Active arterial thromboembolic disease (for example, stroke, and myocardial infarction), or a history of these conditions
+- Known liver dysfunction or disease
+- Known or suspected pregnancy

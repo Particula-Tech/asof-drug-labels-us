@@ -1,30 +1,21 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Use of Premarin Vaginal Cream, alone or in combination with a progestin, should be limited to the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be reevaluated periodically as clinically appropriate (for example, at 3-month to 6-month intervals) to determine if treatment is still necessary (See BOXED WARNINGS and WARNINGS).
-For women with a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
+## 2.1 General Dosing Information
 
-Given cyclically for short-term use only:
+Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, a progestin should also be considered to reduce the risk of endometrial cancer.
 
-For treatment of atrophic vaginitis, or kraurosis vulvae.
-The lowest dose that will control symptoms should be chosen and medication should be discontinued as promptly as possible.
-Administration should be cyclic (three weeks on and one week off).
+A woman without a uterus does not need a progestin.
+In some cases, however, hysterectomized women with a history of endometriosis may need a progestin [see Warnings and Precautions (5.3, 5.15)].
 
-Usual Dosage Range:
+Use of estrogen-alone, or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
+Postmenopausal women should be re-evaluated periodically as clinically appropriate to determine if treatment is still necessary.
 
-½ to 2 g daily, intravaginally, depending on the severity of the condition.
+## 2.2 Treatment of Atrophic Vaginitis and Kraurosis Vulvae
 
-## Instructions For Use Of Gentle Measure® Applicator
+PREMARIN Vaginal Cream is administered intravaginally in a cyclic regimen (daily for 21 days and then off for 7 days).
+Generally, women should be started at the 0.5 g dosage strength.
+Dosage adjustments (0.5 to 2 g) may be made based on individual response [see Dosage Forms and Strengths (3)].
 
-1. Remove cap from tube.
-2. Screw nozzle end of applicator onto tube.
-3. Gently squeeze tube from the bottom to force sufficient cream into the barrel to provide the prescribed dose.
-   Use the marked stopping points on the applicator as a guideline to measure the correct dose.
-4. Unscrew applicator from tube.
-5. Lie on back with knees drawn up.
-   To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position.
+## 2.3 Treatment of Moderate to Severe Dyspareunia, a Symptom of Vulvar and Vaginal Atrophy, due to Menopause
 
-To Cleanse: Pull plunger to remove it from barrel.
-Wash with mild soap and warm water.
-
-DO NOT BOIL OR USE HOT WATER.
+PREMARIN Vaginal Cream (0.5 g) is administered intravaginally in a twice-weekly (for example, Monday and Thursday) continuous regimen or in a cyclic regimen of 21 days of therapy followed by 7 days off of therapy [see Dosage Forms and Strengths (3)].
