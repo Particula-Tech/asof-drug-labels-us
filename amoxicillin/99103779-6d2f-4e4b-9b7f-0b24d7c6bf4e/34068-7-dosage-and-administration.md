@@ -1,12 +1,15 @@
 # DOSAGE AND ADMINISTRATION
 
-Tablets of amoxicillin may be given without regard to meals.
-The 875 mg tablet has been studied only when administered at the start of a light meal.
-However, food effect studies have not been performed with the 500 mg formulation.
-Neonates and Infants Aged ≤12 Weeks (≤3 Months) Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended upper dose of amoxicillin is 30 mg/kg/day divided q12h.
+Capsules, chewable tablets, and oral suspensions of amoxicillin may be given without regard to meals.
+The 400 mg suspension, 400 mg chewable tablet, and the 875 mg tablet have been studied only when administered at the start of a light meal.
+However, food effect studies have not been performed with the 200 mg and 500 mg formulations.
+
+## Neonates and Infants Aged ≤12 Weeks (≤3 Months)
+
+Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended upper dose of amoxicillin is 30 mg/kg/day divided q12h.
 Adults and Pediatric Patients >3 Months
 
-| Infection | Severity* | Usual Adult Dose | Usual Dose for Children >3 Months† |
+| Infection | Severity* | Usual Adult Dose | Usual Dose for Children >3 Months†‡ |
 | --- | --- | --- | --- |
 | Ear/Nose/Throat | Mild/Moderate | 500 mg every 12 hours or 250 mg every 8 hours | 25 mg/kg/day in divided doses every 12 hours or 20 mg/kg/day in divided doses every 8 hours |
 | Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours |  |
@@ -16,7 +19,7 @@ Adults and Pediatric Patients >3 Months
 | Genitourinary Tract | Mild/Moderate | 500 mg every 12 hours or 250 mg every 8 hours | 25 mg/kg/day in divided doses every 12 hours or 20 mg/kg/day in divided doses every 8 hours |
 | Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours |  |
 | Gonorrhea Acute, uncomplicated ano-genital and urethral infections in males and females |  | 3 grams as single oral dose | Prepubertal children: 50 mg/kg amoxicillin, combined with 25 mg/kg probenecid as a single dose. NOTE: SINCE PROBENECID IS CONTRAINDICATED IN CHILDREN UNDER 2 YEARS, DO NOT USE THIS REGIMEN IN THESE CASES. |
-| * Dosing for infections caused by less susceptible organisms should follow the recommendations for severe infections. † The children’s dosage is intended for individuals whose weight is less than 40 kg. Children weighing 40 kg or more should be dosed according to the adult recommendations. |  |  |  |
+| * Dosing for infections caused by less susceptible organisms should follow the recommendations for severe infections. † The children’s dosage is intended for individuals whose weight is less than 40 kg. Children weighing 40 kg or more should be dosed according to the adult recommendations. ‡ Each strength of the suspension of amoxicillin is available as a chewable tablet for use by older children. |  |  |  |
 
 All patients with gonorrhea should be evaluated for syphilis.
 (See PRECAUTIONS: Laboratory Tests .)
