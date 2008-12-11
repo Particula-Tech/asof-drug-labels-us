@@ -65,6 +65,11 @@ In a multicenter, randomized, double-blind trial that enrolled 198 patients with
 This difference was apparent using both the Bazett (QTcB) [20 (20%) patients vs. 12 (12%) patients] and Fredericia (QTcF) [16 (16%) patients vs. 1 (1%) patient] corrections of QT for heart rate.
 No patients in either group had either QTcB or QTcF of >500 msec.
 Other clinical studies with SPIRIVA HandiHaler did not detect an effect of the drug on QTc intervals.
+The effect of Spiriva HandiHaler on QT interval was also evaluated in a randomized, placebo and positive controlled crossover study in 53 healthy volunteers.
+Subjects received Spiriva HandiHaler 18mcg, 54mcg (3 times the recommended dose), or placebo for 12 days.
+ECG assessments were performed at baseline and throughout the dosing interval following the first and last dose of study medication.
+Relative to placebo, the maximum mean change from baseline in study-specific QTc interval was 3.2 msec and 0.8 msec for Spiriva HandiHaler 18mcg and 54mcg, respectively.
+No subject showed a new onset of QTc >500 msec or QTc changes from baseline of ≥60 msec.
 
 ## Special Populations
 

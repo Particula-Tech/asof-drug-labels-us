@@ -21,9 +21,9 @@ SPIRIVA® and HandiHaler® are registered trademarks and are used under license 
 SPIRIVA® (tiotropium bromide inhalation powder) is covered by U.S. Patent Nos. RE38,912, RE39,820, 6,777,423, 6,908,928, and 7,070,800 with other patents pending.
 The HandiHaler® inhalation device is covered by U.S. Design Patent No. D355,029 with other patents pending.
 
-IT1600NF3008
+IT1600PK1708
 
-10004551/04 65626/US/4 Rev: July 2008
+10004551/05 65626/US/5 Rev: November 2008
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
@@ -38,6 +38,6 @@ SPIRIVA® and HandiHaler® are registered trademarks and are used under license 
 SPIRIVA® (tiotropium bromide inhalation powder) is covered by U.S. Patent Nos. RE38,912, RE39,820, 6,777,423, 6,908,928, and 7,070,800 with other patents pending.
 The HandiHaler® inhalation device is covered by U.S. Design Patent No. D355,029 with other patents pending.
 
-IT1600NF3008
+IT1600PK1708
 
-10004551/04 65626/US/4 Rev: July 2008
+10004551/05 65626/US/5 Rev: November 2008
