@@ -2,8 +2,9 @@
 
 ## Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
+Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
+
 Talk to your, or your family member’s, healthcare provider about:
 
 • all risks and benefits of treatment with antidepressant medicines
@@ -70,4 +71,4 @@ Wyeth®
 
 Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
 
-W10404C036 ET01 Rev 02/08
+W10404C037 ET01 Rev 11/08

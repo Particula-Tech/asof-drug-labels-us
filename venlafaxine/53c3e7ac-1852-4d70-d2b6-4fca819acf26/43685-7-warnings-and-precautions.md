@@ -153,7 +153,7 @@ Mydriasis has been reported in association with venlafaxine; therefore patients 
 
 Discontinuation symptoms have been systematically evaluated in patients taking venlafaxine, to include prospective analyses of clinical trials in Generalized Anxiety Disorder and retrospective surveys of trials in major depressive disorder, and Social Anxiety Disorder.
 Abrupt discontinuation or dose reduction of venlafaxine at various doses has been found to be associated with the appearance of new symptoms, the frequency of which increased with increased dose level and with longer duration of treatment.
-Reported symptoms include agitation, anorexia, anxiety, confusion, impaired coordination and balance, diarrhea, dizziness, dry mouth, dysphoric mood, fasciculation, fatigue, headaches, hypomania, insomnia, nausea, nervousness, nightmares, sensory disturbances (including shock‑like electrical sensations), somnolence, sweating, tremor, vertigo, and vomiting.
+Reported symptoms include agitation, anorexia, anxiety, confusion, impaired coordination and balance, diarrhea, dizziness, dry mouth, dysphoric mood, fasciculation, fatigue, flu-like symptoms, headaches, hypomania, insomnia, nausea, nervousness, nightmares, sensory disturbances (including shock‑like electrical sensations), somnolence, sweating, tremor, vertigo, and vomiting.
 
 During marketing of Effexor XR, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), and SSRIs (Selective Serotonin Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g. paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -431,7 +431,7 @@ Therefore, caution is advised if a patient's therapy includes a CYP3A4 inhibitor
 ### Drugs Metabolized by Cytochrome P450 Isoenzymes
 
 CYP2D6: In vitro studies indicate that venlafaxine is a relatively weak inhibitor of CYP2D6.
-These findings have been confirmed in a clinical drug interactionstudy comparing the effect of venlafaxine with that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
+These findings have been confirmed in a clinical drug interaction study comparing the effect of venlafaxine with that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
 
 Imipramine - Venlafaxine did not affect the pharmacokinetics of imipramine and 2‑OH‑imipramine.
 However, desipramine AUC, Cmax, and Cmin increased by about 35% in the presence of venlafaxine.
@@ -548,7 +548,7 @@ Two placebo‑controlled trials in 766 pediatric patients with MDD and two place
 
 Anyone considering the use of Effexor XR in a child or adolescent must balance the potential risks with the clinical need.
 
-Although no studies have been designed to primarily assess Effexor XR's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that Effexor XR may adversely affect weight and height (see PRECAUTIONS, General, Changes in Height and Changes in Weight).
+Although no studies have been designed to primarily assess Effexor XR's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that Effexor XR may adverselyaffect weight and height (see PRECAUTIONS, General, Changes in Height and Changes in Weight).
 Should the decision be made to treat a pediatric patient with Effexor XR, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
 The safety of Effexor XR treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 

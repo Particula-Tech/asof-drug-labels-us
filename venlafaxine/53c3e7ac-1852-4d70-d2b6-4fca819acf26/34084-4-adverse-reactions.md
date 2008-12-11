@@ -60,7 +60,7 @@ In the 6-month trial, the following adverse events occurred twice as often in th
 
 #### Panic Disorder
 
-Note in particular the following adverse events that occurred in at least 5% of the Effexor XR patients and at a rate at leasttwice that of the placebo group for 4 placebo-controlled trials for the panic disorder indication (Table 10): gastrointestinal complaints (anorexia, constipation, dry mouth), CNS complaints (somnolence, tremor), abnormalities of sexual function (abnormal ejaculation), and sweating.
+Note in particular the following adverse events that occurred in at least 5% of the Effexor XR patients and at a rate at least twice that of the placebo group for 4 placebo-controlled trials for the panic disorder indication (Table 10): gastrointestinal complaints (anorexia, constipation, dry mouth), CNS complaints (somnolence, tremor), abnormalities of sexual function (abnormal ejaculation), and sweating.
 
 Table 7 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Controlled Effexor XR Clinical Trials in Patients with Major Depressive Disorder1,2
 
@@ -157,7 +157,7 @@ Table 10 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Contro
 ## Vital Sign Changes
 
 Effexor XR (venlafaxine hydrochloride) extended-release capsules treatment for up to 12 weeks in premarketing placebo-controlled major depressive disorder trials was associated with a mean final on-therapy increase in pulse rate of approximately 2 beats per minute, compared with 1 beat per minute for placebo.
-Effexor XR treatment for up to 8 weeks in premarketing placebo-controlled GAD trials was associatedwith a mean final on-therapy increase in pulse rate of approximately 2 beats per minute, compared with less than 1 beat per minute for placebo.
+Effexor XR treatment for up to 8 weeks in premarketing placebo-controlled GAD trials was associated with a mean final on-therapy increase in pulse rate of approximately 2 beats per minute, compared with less than 1 beat per minute for placebo.
 Effexor XR treatment for up to 12 weeks in premarketing placebo‑controlled Social Anxiety Disorder trials was associated with a mean final on-therapy increase in pulse rate of approximately 3 beats per minute, compared with an increase of 1 beat per minute for placebo.
 Effexor XR treatment for up to 12 weeks in premarketing placebo-controlled panic disorder trials was associated with a mean final on-therapy increase in pulse rate of approximately 1 beat per minute, compared with a decrease of less than 1 beat per minute for placebo.
 (See the Sustained Hypertension and Elevations in Systolic and Diastolic Blood Pressure sections of WARNINGS for effects on blood pressure.)
@@ -222,7 +222,7 @@ Metabolic and nutritional - Frequent: edema, weight gain; Infrequent: alkaline p
 
 Musculoskeletal system - Infrequent: arthritis, arthrosis, bone spurs, bursitis, leg cramps, myasthenia, tenosynovitis; Rare: bone pain, pathological fracture, muscle cramp, muscle spasms, musculoskeletal stiffness, myopathy, osteoporosis, osteosclerosis, plantar fasciitis, rheumatoid arthritis, tendon rupture.
 
-Nervous system - Frequent: amnesia, confusion, depersonalization, hypesthesia, thinking abnormal, trismus, vertigo; Infrequent: akathisia, apathy, ataxia, circumoral paresthesia, CNS stimulation, emotionallability, euphoria, hallucinations, hostility, hyperesthesia, hyperkinesia, hypotonia, incoordination, libido increased, manic reaction, myoclonus, neuralgia, neuropathy, psychosis, seizure, abnormal speech, stupor, suicidal ideation; Rare: abnormal/changed behavior, adjustment disorder, akinesia, alcohol abuse, aphasia, bradykinesia, buccoglossal syndrome, cerebrovascular accident, feeling drunk, loss of consciousness, delusions, dementia, dystonia, energy increased, facial paralysis, abnormal gait, Guillain-Barre Syndrome, homicidal ideation, hyperchlorhydria, hypokinesia, hysteria, impulse control difficulties, motion sickness, neuritis, nystagmus, paranoid reaction, paresis, psychotic depression, reflexes decreased, reflexes increased, torticollis.
+Nervous system - Frequent: amnesia, confusion, depersonalization, hypesthesia, thinking abnormal, trismus, vertigo; Infrequent: akathisia, apathy, ataxia, circumoral paresthesia, CNS stimulation, emotional lability, euphoria, hallucinations, hostility, hyperesthesia, hyperkinesia, hypotonia, incoordination, libido increased, manic reaction, myoclonus, neuralgia, neuropathy, psychosis, seizure, abnormal speech, stupor, suicidal ideation; Rare: abnormal/changed behavior, adjustment disorder, akinesia, alcohol abuse, aphasia, bradykinesia, buccoglossal syndrome, cerebrovascular accident, feeling drunk, loss of consciousness, delusions, dementia, dystonia, energy increased, facial paralysis, abnormal gait, Guillain-Barre Syndrome, homicidal ideation, hyperchlorhydria, hypokinesia, hysteria, impulse control difficulties, motion sickness, neuritis, nystagmus, paranoid reaction, paresis, psychotic depression, reflexes decreased, reflexes increased, torticollis.
 
 Respiratory system - Frequent: cough increased, dyspnea; Infrequent: asthma, chest congestion, epistaxis, hyperventilation, laryngismus, laryngitis, pneumonia, voice alteration; Rare: atelectasis, hemoptysis, hypoventilation, hypoxia, larynx edema, pleurisy, pulmonary embolus, sleep apnea.
 

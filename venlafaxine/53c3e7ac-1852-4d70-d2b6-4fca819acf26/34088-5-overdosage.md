@@ -11,7 +11,7 @@ This patient reported paresthesia of all four limbs but recovered without sequel
 There were 2 reports of acute overdose with Effexor XR in GAD trials.
 One patient took a combination of 0.75 g of Effexor XR and 200 mg of paroxetine and 50 mg of zolpidem.
 This patient was described as being alert, able to communicate, and a little sleepy.
-This patient was hospitalized, treated with activated charcoal, and recovered without any untoward effects.
+This patient was hospitalized, treated with activatedcharcoal, and recovered without any untoward effects.
 The other patient took 1.2 g of Effexor XR.
 This patient recovered and no other specific problems were found.
 The patient had moderate dizziness, nausea, numb hands and feet, and hot-cold spells 5 days after the overdose.

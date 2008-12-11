@@ -34,7 +34,7 @@ Effexor XR is indicated for the treatment of Social Anxiety Disorder, also known
 Social Anxiety Disorder (DSM-IV) is characterized by a marked and persistent fear of 1 or more social or performance situations in which the person is exposed to unfamiliar people or to possible scrutiny by others.
 Exposure to the feared situation almost invariably provokes anxiety, which may approach the intensity of a panic attack.
 The feared situations are avoided or endured with intense anxiety or distress.
-The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with the person's normal routine, occupational or academic functioning, or social activities or relationships, or there is a marked distress about having the phobias.
+The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with the person's normal routine, occupationalor academic functioning, or social activities or relationships, or there is a marked distress about having the phobias.
 Lesser degrees of performance anxiety or shyness generally do not require psychopharmacological treatment.
 
 The efficacy of Effexor XR in the treatment of Social Anxiety Disorder was established in four 12-week and one 6-month placebo-controlled trials in adult outpatients with Social Anxiety Disorder (DSM-IV) (see Clinical Trials).
