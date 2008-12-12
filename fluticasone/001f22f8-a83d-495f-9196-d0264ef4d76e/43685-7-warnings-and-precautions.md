@@ -54,7 +54,7 @@ Since fluticasone propionate is absorbed into the circulation and can be systemi
 A relationship between plasma levels of fluticasone propionate and inhibitory effects on stimulated cortisol production has been shown after 4 weeks of treatment with fluticasone propionate.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing FLOVENT DISKUS.
 
-Becauseof the possibility of systemic absorption of inhaled corticosteroids, patients treated with FLOVENT DISKUS should be observed carefully for any evidence of systemic corticosteroid effects.
+Because of the possibility of systemic absorption of inhaled corticosteroids, patients treated with FLOVENT DISKUS should be observed carefully for any evidence of systemic corticosteroid effects.
 Particular care should be taken in observing patients postoperatively or during periods of stress for evidence of inadequate adrenal response.
 
 It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients, particularly when FLOVENT DISKUS is administered at higher than recommended doses over prolonged periods of time.

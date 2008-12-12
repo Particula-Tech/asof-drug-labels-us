@@ -12,18 +12,6 @@ These trials used predetermined criteria for lack of efficacy (indicators of wor
 Therefore, pulmonary function results at Endpoint (the last evaluable FEV1 result, including most patients’ lung function data) are also displayed.
 Pulmonary function at recommended dosages of fluticasone propionate improved significantly compared with placebo by the first week of treatment, and improvement was maintained for up to 1 year or more.
 
-Figure 1.
-A 12-Week Clinical Trial Evaluating FLOVENT DISKUS 100 mcg Twice Daily in Adolescents and Adults Receiving Bronchodilators Alone
-
-Figure 2.
-A 12-Week Clinical Trial Evaluating FLOVENT DISKUS 100 mcg Twice Daily in Adolescents and Adults Receiving Inhaled Corticosteroids
-
-Figure 3.
-A 12-Week Clinical Trial Evaluating FLOVENT DISKUS 250 mcg Twice Daily in Adolescents and Adults Receiving Inhaled Corticosteroids or Bronchodilators Alone
-
-Figure 4.
-A 12-Week Clinical Trial Evaluating FLOVENT DISKUS 500 mcg Twice Daily in Adolescents and Adults Receiving Inhaled Corticosteroids or Bronchodilators Alone
-
 In all 4 efficacy trials, measures of pulmonary function (FEV1) were statistically significantly improved as compared with placebo at all twice-daily doses.
 Patients on all dosages of FLOVENT DISKUS were also less likely to discontinue study participation due to asthma deterioration (as defined by predetermined criteria for lack of efficacy including lung function and patient-recorded variables such as AM PEF, albuterol use, and nighttime awakenings due to asthma) compared with placebo.
 

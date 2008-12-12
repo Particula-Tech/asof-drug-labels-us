@@ -13,10 +13,9 @@ The recommended starting dosage and the highest recommended dosage of FLOVENT DI
 Table 2.
 Recommended Dosages of FLOVENT DISKUS*
 
-NOTE: In all patients, it is desirable to titrate to the lowest effective dosage once asthma stability is achieved.
-
-| Previous Therapy | Recommended Starting Dosage | Highest Recommended Dosage |
+| NOTE: In all patients, it is desirable to titrate to the lowest effective dosage once asthma stability is achieved. |  |  |
 | --- | --- | --- |
+| Previous Therapy | Recommended Starting Dosage | Highest Recommended Dosage |
 | Adults and Adolescents |  |  |
 | Bronchodilators alone | 100 mcg twice daily | 500 mcg twice daily |
 | Inhaled corticosteroids | 100-250 mcg twice daily | 500 mcg twice daily |

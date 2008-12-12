@@ -9,7 +9,7 @@ The clinical significance of these findings is unknown.
 
 Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to inhibit multiple cell types (e.g., mast cells, eosinophils, basophils, lymphocytes, macrophages, neutrophils) and mediator production or secretion (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in the asthmatic response.
-These anti inflammatory actions of corticosteroids contribute to their efficacy in asthma.
+These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
 
 Though effective for the treatment of asthma, corticosteroids do not affect asthma symptoms immediately.
 Individual patients will experience a variable time to onset and degree of symptom relief.

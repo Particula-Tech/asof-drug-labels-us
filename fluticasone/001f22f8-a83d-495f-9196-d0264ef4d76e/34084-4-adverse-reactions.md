@@ -5,29 +5,19 @@ The incidence of common adverse events in Table 1 is based upon 7 placebo-contro
 Table 1.
 Overall Adverse Events With >3% Incidence in US Controlled Clinical Trials With FLOVENT DISKUS in Patients With Asthma Previously Receiving Bronchodilators and/or Inhaled Corticosteroids
 
-|  |  | FLOVENT | FLOVENT | FLOVENT | FLOVENT |
+| Adverse Event | Placebo (n = 543) % | FLOVENT DISKUS 50 mcg Twice Daily (n = 178) % | FLOVENT DISKUS 100 mcg Twice Daily (n = 305) % | FLOVENT DISKUS 250 mcg Twice Daily (n = 86) % | FLOVENT DISKUS 500 mcg Twice Daily (n = 64) % |
 | --- | --- | --- | --- | --- | --- |
-|  |  | DISKUS | DISKUS | DISKUS | DISKUS |
-|  |  | 50 mcg | 100 mcg | 250 mcg | 500 mcg |
-|  |  | Twice | Twice | Twice | Twice |
-|  | Placebo | Daily | Daily | Daily | Daily |
-|  | (n = 543) | (n = 178) | (n = 305) | (n = 86) | (n = 64) |
-| Adverse Event | % | % | % | % | % |
 | Ear, nose, and throat |  |  |  |  |  |
-| Upper respiratory tract |  |  |  |  |  |
-| infection | 16 | 20 | 18 | 21 | 14 |
+| Upper respiratory tract infection | 16 | 20 | 18 | 21 | 14 |
 | Throat irritation | 8 | 13 | 13 | 3 | 22 |
 | Sinusitis/sinus infection | 6 | 9 | 10 | 6 | 6 |
-| Upper respiratory |  |  |  |  |  |
-| inflammation | 3 | 5 | 5 | 0 | 5 |
+| Upper respiratory inflammation | 3 | 5 | 5 | 0 | 5 |
 | Rhinitis | 2 | 4 | 3 | 1 | 2 |
 | Oral candidiasis | 7 | <1 | 9 | 6 | 5 |
 | Gastrointestinal |  |  |  |  |  |
 | Nausea and vomiting | 4 | 8 | 4 | 1 | 2 |
-| Gastrointestinal discomfort |  |  |  |  |  |
-| and pain | 3 | 4 | 3 | 2 | 2 |
-| Viral gastrointestinal |  |  |  |  |  |
-| infection | 1 | 4 | 3 | 3 | 5 |
+| Gastrointestinal discomfort and pain | 3 | 4 | 3 | 2 | 2 |
+| Viral gastrointestinal infection | 1 | 4 | 3 | 3 | 5 |
 | Non-site specific |  |  |  |  |  |
 | Fever | 4 | 7 | 7 | 1 | 2 |
 | Viral infection | 2 | 2 | 2 | 0 | 5 |

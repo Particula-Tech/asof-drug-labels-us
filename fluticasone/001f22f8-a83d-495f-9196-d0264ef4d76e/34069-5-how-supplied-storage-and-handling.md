@@ -13,12 +13,12 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2006, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
-November 2006RL-2338
+March 2008 FLD:2PI
 
-# Patient's instructions for use
+Patient's Instructions for Use
 
 FOR ORAL INHALATION ONLY
 
@@ -43,15 +43,11 @@ Important Points to Remember About Using FLOVENT DISKUS
 
 1.TELL YOUR DOCTOR BEFORE YOU START TAKING THIS MEDICINE if you are:
 
-· pregnant or planning to become pregnant;
-
-· breastfeeding a baby;
-
-· allergic to FLOVENT DISKUS, any other medicines, or food products;
-
-· taking a medicine containing ritonavir (commonly used to treat HIV infection or AIDS); or
-
-· taking other medicines, especially any other orally inhaled corticosteroid, over-the-counter medicines, and herbal products.
+- pregnant or planning to become pregnant;
+- breastfeeding a baby;
+- allergic to FLOVENT DISKUS, any other medicines, or food products;
+- taking a medicine containing ritonavir (commonly used to treat HIV infection or AIDS); or
+- taking other medicines, especially any other orally inhaled corticosteroid, over-the-counter medicines, and herbal products.
 
 In some circumstances, this medicine may not be suitable for you, and your doctor may wish to give you a different medicine.
 
@@ -82,9 +78,8 @@ It must be taken at regular intervals as recommended by your doctor, and not as 
 Your doctor may prescribe additional medication (such as bronchodilators) for emergency relief if an acute asthma attack occurs.
 Please contact your doctor if:
 
-· an asthma attack does not respond to the additional medication or
-
-· you require more of the additional medication than usual.
+- an asthma attack does not respond to the additional medication or
+- you require more of the additional medication than usual.
 
 8.
 Long-term use of inhaled corticosteroids, including fluticasone propionate, may increase the risk of some eye problems (cataracts or glaucoma).
@@ -108,7 +103,7 @@ The DISKUS will be in the closed position when the pouch is opened.
 
 The dose indicator on the top of the DISKUS tells you how many doses are left.
 The dose indicator number will decrease each time you use the DISKUS.
-After the DISKUS has delivered 55 doses, numbers 5 to 0 will appear in red to warn you that there are only a few doses left (see Figure 1).
+After the DISKUS has delivered 55 doses(23 doses from the sample pack), numbers 5 to 0 will appear in red to warn you that there are only a few doses left (see Figure 1).
 
 Taking a dose of FLOVENT DISKUS requires the following 3 simple steps: Open, Click, Inhale.
 
@@ -123,13 +118,10 @@ Every time the lever is pushed back, a dose is ready to be inhaled.
 This is shown by a decrease in numbers on the dose counter.
 To avoid releasing or wasting doses once the DISKUS is ready:
 
-· Do not close the DISKUS.
-
-· Do not tilt the DISKUS.
-
-· Do not play with the lever.
-
-· Do not advance the lever more than once.
+- Do not close the DISKUS.
+- Do not tilt the DISKUS.
+- Do not play with the lever.
+- Do not advance the lever more than once.
 
 3 INHALE: Before inhaling your dose of FLOVENT DISKUS, breathe out as far as is comfortable, holding the DISKUS level and away from your mouth (see Figure 4).
 Remember, never breathe out into the DISKUS mouthpiece.
@@ -150,21 +142,15 @@ The DISKUS is now ready for you to take your next scheduled dose.
 
 REMEMBER:
 
-· Never exhale into the DISKUS.
-
-· Never attempt to take the DISKUS apart.
-
-· Always activate and use the DISKUS in a level, horizontal position.
-
-· After you finish taking your dose, rinse your mouth with water and spit it out.
-Do not swallow.
-
-· Never wash the mouthpiece or any part of the DISKUS.
-KEEP IT DRY.
-
-· Always keep the DISKUS in a dry place.
-
-· Never take an extra dose, even if you feel you did not receive a dose.
+- Never exhale into the DISKUS.
+- Never attempt to take the DISKUS apart.
+- Always activate and use the DISKUS in a level, horizontal position.
+- After you finish taking your dose, rinse your mouth with water and spit it out.
+  Do not swallow.
+- Never wash the mouthpiece or any part of the DISKUS.
+  KEEP IT DRY.
+- Always keep the DISKUS in a dry place.
+- Never take an extra dose, even if you feel you did not receive a dose.
 
 Storing Your FLOVENT DISKUS
 
@@ -193,7 +179,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2006, GlaxoSmithKline.
+©2008, GlaxoSmithKline.
 All rights reserved.
 
-November 2006 RL-2338
+March 2008 FLD:2PIL
