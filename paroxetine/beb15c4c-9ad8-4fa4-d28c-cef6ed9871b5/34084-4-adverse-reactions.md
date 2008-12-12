@@ -30,7 +30,7 @@ Events meeting the above criteria included the following:
 | Nausea | 2.9% | 0.0% |
 | Headache | 1.9% | 0.9% |
 | Depression | 1.9% | 0.0% |
-| LFT's abnormal | 1.9% | 0.0% |
+| LFT’s abnormal | 1.9% | 0.0% |
 
 ### Panic Disorder
 
@@ -67,19 +67,20 @@ This table also shows those events that were dose dependent (indicated with an a
 |  | PAXIL CR25 mg(n = 348) | PAXIL CR12.5 mg(n = 333) | Placebo(n = 349) |
 | --- | --- | --- | --- |
 | TOTAL | 15% | 9.9% | 6.3% |
-| Nausea∗ | 6.0% | 2.4% | 0.9% |
+| Nausea* | 6.0% | 2.4% | 0.9% |
 | Asthenia | 4.9% | 3.0% | 1.4% |
-| Somnolence∗ | 4.3% | 1.8% | 0.3% |
+| Somnolence* | 4.3% | 1.8% | 0.3% |
 | Insomnia | 2.3% | 1.5% | 0.0% |
-| Concentration Impaired∗ | 2.0% | 0.6% | 0.3% |
-| Dry mouth∗ | 2.0% | 0.6% | 0.3% |
-| Dizziness∗ | 1.7% | 0.6% | 0.6% |
-| Decreased Appetite∗ | 1.4% | 0.6% | 0.0% |
-| Sweating∗ | 1.4% | 0.0% | 0.3% |
-| Tremor∗ | 1.4% | 0.3% | 0.0% |
-| Yawn∗ | 1.1% | 0.0% | 0.0% |
+| Concentration Impaired* | 2.0% | 0.6% | 0.3% |
+| Dry mouth* | 2.0% | 0.6% | 0.3% |
+| Dizziness* | 1.7% | 0.6% | 0.6% |
+| Decreased Appetite* | 1.4% | 0.6% | 0.0% |
+| Sweating* | 1.4% | 0.0% | 0.3% |
+| Tremor* | 1.4% | 0.3% | 0.0% |
+| Yawn* | 1.1% | 0.0% | 0.0% |
 | Diarrhea | 0.9% | 1.2% | 0.0% |
-| * Events considered to be dose dependent are defined as events having an incidence rate with 25 mg of PAXIL CR that was at least twice that with 12.5 mg of PAXIL CR (as well as the placebo group). |  |  |  |
+
+* Events considered to be dose dependent are defined as events having an incidence rate with 25 mg of PAXIL CR that was at least twice that with 12.5 mg of PAXIL CR (as well as the placebo group).
 
 ## Commonly Observed Adverse Events
 
@@ -158,7 +159,9 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Rhinitis | 4% | 1% |
 | Cough Increased | 2% | 1% |
 | Bronchitis | 1% | 0% |
+
 | Skin and Appendages |  |  |
+| --- | --- | --- |
 | Sweating | 6% | 2% |
 | Photosensitivity | 2% | 0% |
 | Special Senses |  |  |
@@ -171,17 +174,29 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Urinary Tract Infection | 3% | 1% |
 | Menstrual Disorder9 | 2% | <1% |
 | Vaginitis9 | 2% | 0% |
-| 1. Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included. These events are: Abnormal dreams, anxiety, arthralgia, depersonalization, dysmenorrhea, dyspepsia, hyperkinesia, increased appetite, myalgia, nervousness, pharyngitis, purpura, rash, respiratory disorder, sinusitis, urinary frequency, and weight gain. |  |  |
-| 2. <1% means greater than zero and less than 1%. |  |  |
-| 3. Mostly flu. |  |  |
-| 4. A wide variety of injuries with no obvious pattern. |  |  |
-| 5. Pain in a variety of locations with no obvious pattern. |  |  |
-| 6. Most frequently seasonal allergic symptoms. |  |  |
-| 7. Usually flushing. |  |  |
-| 8. Mostly blurred vision. |  |  |
-| 9. Based on the number of males or females. |  |  |
-| 10. Mostly anorgasmia or delayed ejaculation. |  |  |
-| 11. Mostly anorgasmia or delayed orgasm. |  |  |
+
+1 Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.
+These events are: Abnormal dreams, anxiety, arthralgia, depersonalization, dysmenorrhea, dyspepsia, hyperkinesia, increased appetite, myalgia, nervousness, pharyngitis, purpura, rash, respiratory disorder, sinusitis, urinary frequency, and weight gain.
+
+2 <1% means greater than zero and less than 1%.
+
+3 Mostly flu.
+
+4 A wide variety of injuries with no obvious pattern.
+
+5 Pain in a variety of locations with no obvious pattern.
+
+6 Most frequently seasonal allergic symptoms.
+
+7 Usually flushing.
+
+8 Mostly blurred vision.
+
+9 Based on the number of males or females.
+
+10 Mostly anorgasmia or delayed ejaculation.
+
+11 Mostly anorgasmia or delayed orgasm.
 
 Table 3.
 Treatment-Emergent Adverse Events Occurring in ≥5% of Patients Treated With PAXIL CR in a Study of Elderly Patients With Major Depressive Disorder1,2
@@ -213,11 +228,14 @@ Treatment-Emergent Adverse Events Occurring in ≥5% of Patients Treated With PA
 | Abnormal Ejaculation3,4 | 17% | 3% |
 | Impotence3 | 9% | 3% |
 
-| 1. Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included. These events are nausea and respiratory disorder. |
-| --- |
-| 2. <1% means greater than zero and less than 1%. |
-| 3. Based on the number of males. |
-| 4. Anorgasmia or delayed ejaculation. |
+1 Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.
+These events are nausea and respiratory disorder.
+
+2 <1% means greater than zero and less than 1%.
+
+3 Based on the number of males.
+
+4 Mostly anorgasmia or delayed ejaculation.
 
 Table 4.
 Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PAXIL CR in a Pool of 3 Panic Disorder Studies1,2
@@ -265,16 +283,27 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Urinary Frequency | 2% | <1% |
 | Urination Impaired | 2% | <1% |
 | Vaginitis9 | 1% | <1% |
-| 1. Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included. These events are: Abnormal dreams, allergic reaction, back pain, bronchitis, chest pain, concentration impaired, confusion, cough increased, depression, dizziness, dysmenorrhea, dyspepsia, fever, flatulence, headache, increased appetite, infection, menstrual disorder, migraine, pain, paresthesia, pharyngitis, respiratory disorder, rhinitis, tachycardia, taste perversion, thinking abnormal, urinary tract infection, and vomiting. |  |  |
-| 2. <1% means greater than zero and less than 1%. |  |  |
-| 3. Various physical injuries. |  |  |
-| 4. Mostly flushing. |  |  |
-| 5. Mostly muscle tightness or stiffness. |  |  |
-| 6. Mostly blurred vision. |  |  |
-| 7. Based on the number of male patients. |  |  |
-| 8. Mostly anorgasmia or delayed ejaculation. |  |  |
-| 9. Based on the number of female patients. |  |  |
-| 10. Mostly anorgasmia or difficulty achieving orgasm. |  |  |
+
+1 Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included.
+These events are: Abnormal dreams, allergic reaction, back pain, bronchitis, chest pain, concentration impaired, confusion, cough increased, depression, dizziness, dysmenorrhea, dyspepsia, fever, flatulence, headache, increased appetite, infection, menstrual disorder, migraine, pain, paresthesia, pharyngitis, respiratory disorder, rhinitis, tachycardia, taste perversion, thinking abnormal, urinary tract infection, and vomiting.
+
+2 <1% means greater than zero and less than 1%.
+
+3 Various physical injuries.
+
+4 Mostly flushing.
+
+5 Mostly muscle tightness or stiffness.
+
+6 Mostly blurred vision.
+
+7 Based on the number of male patients.
+
+8 Mostly anorgasmia or delayed ejaculation.
+
+9 Based on the number of female patients.
+
+10 Mostly anorgasmia or difficulty achieving orgasm.
 
 Table 5.
 Treatment-Emergent Adverse Effects Occurring in ≥1% of Patients Treated With PAXIL CR in a Social Anxiety Disorder Study1,2
@@ -328,15 +357,25 @@ Treatment-Emergent Adverse Effects Occurring in ≥1% of Patients Treated With P
 | Abnormal Ejaculation6,7 | 15% | 1% |
 | Impotence6 | 9% | 0% |
 | Female Genital Disorders8,9 | 3% | 0% |
-| 1. Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included. These events are: Dysmenorrhea, flatulence, gastroenteritis, hypertonia, infection, pain, pharyngitis, rash, respiratory disorder, rhinitis, and vomiting. |  |  |
-| 2. <1% means greater than zero and less than 1%. |  |  |
-| 3. Various physical injuries. |  |  |
-| 4. Most frequently seasonal allergic symptoms. |  |  |
-| 5. Mostly blurred vision. |  |  |
-| 6. Based on the number of male patients. |  |  |
-| 7. Mostly anorgasmia or delayed ejaculation. |  |  |
-| 8. Based on the number of female patients. |  |  |
-| 9. Mostly anorgasmia or difficulty achieving orgasm. |  |  |
+
+1 Adverse events for which the reporting rate for PAXIL CR was less than or equal to the placebo rate are not included.
+These events are: Dysmenorrhea, flatulence, gastroenteritis, hypertonia, infection, pain, pharyngitis, rash, respiratory disorder, rhinitis, and vomiting.
+
+2 <1% means greater than zero and less than 1%.
+
+3 Various physical injuries.
+
+4 Most frequently seasonal allergic symptoms.
+
+5 Mostly blurred vision.
+
+6 Based on the number of male patients.
+
+7 Mostly anorgasmia or delayed ejaculation.
+
+8 Based on the number of female patients.
+
+9 Mostly anorgasmia or difficulty achieving orgasm.
 
 Table 6.
 Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PAXIL CR in a Pool of 3 Premenstrual Dysphoric Disorder Studies with Continuous Dosing or in 1 Premenstrual Dysphoric Disorder Study with Luteal Phase Dosing1,2,3
@@ -394,18 +433,26 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Menorrhagia | 1% | <1% | - | - |
 | Vaginal Moniliasis | 1% | <1% | - | - |
 | Menstrual Disorder | - | - | 1% | 0% |
-| 1. Adverse events for which the reporting rate of PAXIL CR was less than or equal to the placebo rate are not included. These events for continuous dosing are: Abdominal pain, back pain, pain, trauma, weight gain, myalgia, pharyngitis, respiratory disorder, rhinitis, sinusitis, pruritis, dysmenorrhea, menstrual disorder, urinary tract infection, and vomiting. The events for luteal phase dosing are: Allergic reaction, back pain, headache, infection, pain, trauma, myalgia, anxiety, pharyngitis, respiratory disorder, cystitis, and dysmenorrhea. |  |  |  |  |
-| 2. <1% means greater than zero and less than 1%. |  |  |  |  |
-| 3. The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the 2 dosing regimens. Therefore, a comparison between the 2 dosing regimens of the PMDD trials of incidence rates shown in Table 5 should be avoided. |  |  |  |  |
-| 4. Mostly anorgasmia or difficulty achieving orgasm. |  |  |  |  |
+
+1 Adverse events for which the reporting rate of PAXIL CR was less than or equal to the placebo rate are not included.
+These events for continuous dosing are: Abdominal pain, back pain, pain, trauma, weight gain, myalgia, pharyngitis, respiratory disorder, rhinitis, sinusitis, pruritis, dysmenorrhea, menstrual disorder, urinary tract infection, and vomiting.
+The events for luteal phase dosing are: Allergic reaction, back pain, headache, infection, pain, trauma, myalgia, anxiety, pharyngitis, respiratory disorder, cystitis, and dysmenorrhea.
+
+2 <1% means greater than zero and less than 1%.
+
+3 The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the 2 dosing regimens.
+Therefore, a comparison between the 2 dosing regimens of the PMDD trials of incidence rates shown in Table 5 should be avoided.
+
+4 Mostly anorgasmia or difficulty achieving orgasm.
 
 ### Dose Dependency of Adverse Events
 
 The following table shows results in PMDD trials of common adverse events, defined as events with an incidence of ≥1% with 25 mg of PAXIL CR that was at least twice that with 12.5 mg of PAXIL CR and with placebo.
 
-| Incidence of Common Adverse Events in Placebo, 12.5 mg and 25 mg of PAXIL CR in a Pool of 3 Fixed-Dose PMDD Trials |  |  |  |
-| --- | --- | --- | --- |
+Incidence of Common Adverse Events in Placebo, 12.5 mg and 25 mg of PAXIL CR in a Pool of 3 Fixed-Dose PMDD Trials
+
 |  | PAXIL CR25 mg(n = 348) | PAXIL CR12.5 mg(n = 333) | Placebo(n = 349) |
+| --- | --- | --- | --- |
 | Common Adverse Event |  |  |  |
 | Sweating | 8.9% | 4.2% | 0.9% |
 | Tremor | 6.0% | 1.5% | 0.3% |
@@ -545,7 +592,7 @@ Infrequent were conjunctivitis, earache, keratoconjunctivitis, mydriasis, photop
 
 Frequent were dysmenorrhea*; infrequent were albuminuria, amenorrhea*, breast pain*, cystitis, dysuria, prostatitis*, urinary retention; rare were breast enlargement*, breast neoplasm*, female lactation, hematuria, kidney calculus, metrorrhagia*, nephritis, nocturia, pregnancy and puerperal disorders*, salpingitis, urinary incontinence, uterine fibroids enlarged*; also observed were breast atrophy, ejaculatory disturbance, endometrial disorder, epididymitis, fibrocystic breast, leukorrhea, mastitis, oliguria, polyuria, pyuria, urethritis, urinary casts, urinary urgency, urolith, uterine spasm, vaginal hemorrhage.
 
-*Based on the number of men and women as appropriate.
+* Based on the number of men and women as appropriate.
 
 ## Postmarketing Reports
 

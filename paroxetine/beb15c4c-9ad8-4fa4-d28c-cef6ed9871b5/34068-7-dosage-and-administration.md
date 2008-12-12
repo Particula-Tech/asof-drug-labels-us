@@ -53,7 +53,9 @@ Patients should be cautioned that PAXIL CR should not be chewed or crushed, and 
 
 ### Maintenance Therapy
 
-### There is no body of evidence available to answer the question of how long the patient treated with PAXIL CR should remain on it. Although the efficacy of PAXIL CR beyond 12 weeks of dosing has not been demonstrated in controlled clinical trials, social anxiety disorder is recognized as a chronic condition, and it is reasonable to consider continuation of treatment for a responding patient. Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+There is no body of evidence available to answer the question of how long the patient treated with PAXIL CR should remain on it.
+Although the efficacy of PAXIL CR beyond 12 weeks of dosing has not been demonstrated in controlled clinical trials, social anxiety disorder is recognized as a chronic condition, and it is reasonable to consider continuation of treatment for a responding patient.
+Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
 
 ## Premenstrual Dysphoric Disorder
 

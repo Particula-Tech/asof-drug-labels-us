@@ -12,7 +12,7 @@ Because the relative potencies of paroxetine’s major metabolites are at most 1
 ## Pharmacokinetics
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
-The elimination half-life is approximately 15 to 20 hours after a single dose of PAXILCR.
+The elimination half-life is approximately 15 to 20 hours after a single dose of PAXIL CR.
 Paroxetine is extensively metabolized and the metabolites are considered to be inactive.
 Nonlinearity in pharmacokinetics is observed with increasing doses.
 Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.

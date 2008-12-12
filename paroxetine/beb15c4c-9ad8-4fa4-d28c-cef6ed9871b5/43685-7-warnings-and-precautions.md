@@ -39,6 +39,8 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment With PAXIL CR), for a description of the risks of discontinuation of PAXIL CR.
+
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for PAXIL CR should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
@@ -60,7 +62,9 @@ While there are no human data showing such an interaction with paroxetine hydroc
 Therefore, it is recommended that PAXIL CR not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible non-selective MAOI), or within 14 days of discontinuing treatment with an MAOI (see CONTRAINDICATIONS).
 At least 2 weeks should be allowed after stopping PAXIL CR before starting an MAOI.
 
-Serotonin Syndrome: The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including PAXIL CR, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including PAXIL CR, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
 The concomitant use of PAXIL CR with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS—Potential for Interaction With Monoamine Oxidase Inhibitors).
@@ -84,7 +88,7 @@ Therefore, it is recommended that paroxetine not be used in combination with thi
 Epidemiological studies have shown that infants born to women who had first trimester paroxetine exposure had an increased risk of cardiovascular malformations, primarily ventricular and atrial septal defects (VSDs and ASDs).
 In general, septal defects range from those that are symptomatic and may require surgery to those that are asymptomatic and may resolve spontaneously.
 If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
-Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuationof Treatment with PAXIL CR).
+Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuation of Treatment with PAXIL CR).
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
 
 A study based on Swedish national registry data evaluated infants of 6,896 women exposed to antidepressants in early pregnancy (5,123 women exposed to SSRIs; including 815 for paroxetine).
@@ -220,7 +224,7 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking PAXIL CR.
 
-## Clinical Worsening and Suicide Risk
+### Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
