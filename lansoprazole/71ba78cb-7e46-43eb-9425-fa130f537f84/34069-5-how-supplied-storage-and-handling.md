@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 PREVACID Delayed-Release Capsules, 15 mg, are opaque, hard gelatin, colored pink and green with "TAP" and "PREVACID 15" imprinted on the capsules.
 The 30 mg capsules are opaque, hard gelatin, colored pink and black with "TAP" and "PREVACID 30" imprinted on the capsules.
