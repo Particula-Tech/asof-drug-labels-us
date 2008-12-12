@@ -40,7 +40,7 @@ Further, because clinical trials are conducted under widely varying conditions, 
 
 ## 6.1 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials
 
-Table 1 enumerates the pooled incidences of adverse reactions reported in the three placebo-controlled, 6-week, fixed-dose studies, listing those that occurred in 2% or more of subjects treated with INVEGA® in any of the dose groups, and for which the incidencein INVEGA®-treated subjects in any of the dose groups was greater than the incidence in subjects treated with placebo.
+Table 1 enumerates the pooled incidences of adverse reactions reported in the three placebo-controlled, 6-week, fixed-dose studies, listing those that occurred in 2% or more of subjects treated with INVEGA® in any of the dose groups, and for which the incidence in INVEGA®-treated subjects in any of the dose groups was greater than the incidence in subjects treated with placebo.
 
 Table 1.
 Adverse Reactions in Short-Term, Fixed-Dose, Placebo-Controlled Trials in Adult Subjects with SchizophreniaTable includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA® dose groups and which occurred at greater incidence than in the placebo group.
@@ -142,10 +142,17 @@ Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDR
 | Tremor | 3 | 3 | 3 | 4 | 3 |
 | Dyskinesia group includes: Dyskinesia, extrapyramidal disorder, muscle twitching, tardive dyskinesia Dystonia group includes: Dystonia, muscle spasms, oculogyration, trismus Hyperkinesia group includes: Akathisia, hyperkinesia Parkinsonism group includes: Bradykinesia, cogwheel rigidity, drooling, hypertonia, hypokinesia, muscle rigidity, musculoskeletal stiffness, parkinsonism Tremor group includes: Tremor |  |  |  |  |  |
 
+### Dystonia
+
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+An elevated risk of acute dystonia is observed in males and younger age groups.
+
 ## 6.7 Laboratory Test Abnormalities
 
 In the pooled data from the three placebo-controlled, 6-week, fixed-dose studies, a between-group comparison revealed no medically important differences between INVEGA® and placebo in the proportions of subjects experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
-Similarly, there were no differences between INVEGA® and placebo in the incidenceof discontinuations due to changes in hematology, urinalysis, or serum chemistry, including mean changes from baseline in fasting glucose, insulin, c-peptide, triglyceride, HDL, LDL, and total cholesterol measurements.
+Similarly, there were no differences between INVEGA® and placebo in the incidence of discontinuations due to changes in hematology, urinalysis, or serum chemistry, including mean changes from baseline in fasting glucose, insulin, c-peptide, triglyceride, HDL, LDL, and total cholesterol measurements.
 However, INVEGA® was associated with increases in serum prolactin [see Warnings and Precautions (5.7)].
 
 ## 6.8 Weight Gain

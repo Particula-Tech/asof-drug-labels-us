@@ -23,6 +23,8 @@ The mean steady-state peak:trough ratio for an INVEGA® dose of 9 mg was 1.7 wit
 
 Following administration of INVEGA®, the (+) and (-) enantiomers of paliperidone interconvert, reaching an AUC (+) to (-) ratio of approximately 1.6 at steady state.
 
+### Absorption and Distribution
+
 Absorption and Distribution
 
 The absolute oral bioavailability of paliperidone following INVEGA® administration is 28%.
@@ -33,6 +35,8 @@ While INVEGA® can be taken without regard to food, the presence of food at the 
 
 Based on a population analysis, the apparent volume of distribution of paliperidone is 487 L. The plasma protein binding of racemic paliperidone is 74%.
 
+### Metabolism and Elimination
+
 Metabolism and Elimination
 
 Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, in vivo results indicate that these isozymes play a limited role in the overall elimination of paliperidone [see Drug Interactions (7)].
@@ -42,6 +46,8 @@ Approximately 80% of the administered radioactivity was recovered in urine and 1
 Four primary metabolic pathways have been identified in vivo, none of which could be shown to account for more than 10% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission.
 
 Population pharmacokinetic analyses found no difference in exposure or clearance of paliperidone between extensive metabolizers and poor metabolizers of CYP2D6 substrates.
+
+### Special Populations
 
 Special Populations
 

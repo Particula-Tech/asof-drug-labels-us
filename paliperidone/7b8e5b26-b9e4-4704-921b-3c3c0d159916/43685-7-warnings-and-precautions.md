@@ -21,7 +21,7 @@ The diagnostic evaluation of patients with this syndrome is complicated.
 In arriving at a diagnosis, it is important to identify cases in which the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
 
-The management of NMS should include: (1) immediate discontinuationof antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
+The management of NMS should include: (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
 There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
 
 If a patient appears to require antipsychotic drug treatment after recovery from NMS, reintroduction of drug therapy should be closely monitored, since recurrences of NMS have been reported.
@@ -46,7 +46,8 @@ No subject receiving INVEGA® had a QTcLD exceeding 500 msec at any time in any 
 
 ## 5.5 Tardive Dyskinesia
 
-A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
+A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase, but the syndrome can develop after relatively brief treatment periods at low doses, although this is uncommon.
