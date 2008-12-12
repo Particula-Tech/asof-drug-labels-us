@@ -18,7 +18,9 @@ Nonlinearity in pharmacokinetics is observed with increasing doses.
 Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
 Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
 
-Absorption and Distribution: Paroxetine is equally bioavailable from the oral suspension and tablet.
+### Absorption and Distribution
+
+Paroxetine is equally bioavailable from the oral suspension and tablet.
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
 In a study in which normal male subjects (n = 15) received 30 mg tablets daily for 30 days, steady-state paroxetine concentrations were achieved by approximately 10 days for most subjects, although it may take substantially longer in an occasional patient.
@@ -36,7 +38,9 @@ Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/mL 
 Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/mL.
 Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
 
-Metabolism and Excretion: The mean elimination half-life is approximately 21 hours (CV 32%) after oral dosing of 30 mg tablets daily for 30 days of PAXIL.
+### Metabolism and Excretion
+
+The mean elimination half-life is approximately 21 hours (CV 32%) after oral dosing of 30 mg tablets daily for 30 days of PAXIL.
 In steady-state dose proportionality studies involving elderly and nonelderly patients, at doses of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, again reflecting a saturable metabolic pathway.
 In comparison to Cmin values after 20 mg daily, values after 40 mg daily were only about 2 to 3 times greater than doubled.
 
@@ -53,16 +57,24 @@ About 36% was excreted in the feces (probably via the bile), mostly as metabolit
 
 ## Other Clinical Pharmacology Information
 
-Specific Populations:Renal and Liver Disease: Increased plasma concentrations of paroxetine occur in subjects with renal and hepatic impairment.
+### Specific Populations
+
+#### Renal and Liver Disease
+
+Increased plasma concentrations of paroxetine occur in subjects with renal and hepatic impairment.
 The mean plasma concentrations in patients with creatinine clearance below 30 mL/min. were approximately 4 times greater than seen in normal volunteers.
 Patients with creatinine clearance of 30 to 60 mL/min. and patients with hepatic functional impairment had about a 2-fold increase in plasma concentrations (AUC, Cmax).
 
 The initial dosage should therefore be reduced in patients with severe renal or hepatic impairment, and upward titration, if necessary, should be at increased intervals (see DOSAGE AND ADMINISTRATION).
 
-Elderly Patients: In a multiple-dose study in the elderly at daily paroxetine doses of 20, 30, and 40 mg, Cmin concentrations were about 70% to 80% greater than the respective Cmin concentrations in nonelderly subjects.
+#### Elderly Patients
+
+In a multiple-dose study in the elderly at daily paroxetine doses of 20, 30, and 40 mg, Cmin concentrations were about 70% to 80% greater than the respective Cmin concentrations in nonelderly subjects.
 Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND ADMINISTRATION).
 
-Drug-Drug Interactions: In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
+#### Drug-Drug Interactions
+
+In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
 Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS—Drug Interactions).
 
 ## Clinical Trials
@@ -81,20 +93,20 @@ Effectiveness was similar for male and female patients.
 The effectiveness of PAXIL in the treatment of obsessive compulsive disorder (OCD) was demonstrated in two 12-week multicenter placebo-controlled studies of adult outpatients (Studies 1 and 2).
 Patients in all studies had moderate to severe OCD (DSM-IIIR) with mean baseline ratings on the Yale Brown Obsessive Compulsive Scale (YBOCS) total score ranging from 23 to 26.
 Study 1, a dose-range finding study where patients were treated with fixed doses of 20, 40, or 60 mg of paroxetine/day demonstrated that daily doses of paroxetine 40 and 60 mg are effective in the treatment of OCD.
-Patients receivingdoses of 40 and 60 mg paroxetine experienced a mean reduction of approximately 6 and 7 points, respectively, on the YBOCS total score which was significantly greater than the approximate 4-point reduction at 20 mg and a 3-point reduction in the placebo-treated patients.
+Patients receiving doses of 40 and 60 mg paroxetine experienced a mean reduction of approximately 6 and 7 points, respectively, on the YBOCS total score which was significantly greater than the approximate 4-point reduction at 20 mg and a 3-point reduction in the placebo-treated patients.
 Study 2 was a flexible-dose study comparing paroxetine (20 to 60 mg daily) with clomipramine (25 to 250 mg daily).
 In this study, patients receiving paroxetine experienced a mean reduction of approximately 7 points on the YBOCS total score, which was significantly greater than the mean reduction of approximately 4 points in placebo-treated patients.
 
 The following table provides the outcome classification by treatment group on Global Improvement items of the Clinical Global Impression (CGI) scale for Study 1.
 
-| Outcome Classification (%) on CGI-Global Improvement Itemfor Completers in Study 1 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Outcome Classification | Placebo(n = 74) | PAXIL 20 mg (n = 75) | PAXIL 40 mg(n = 66) | PAXIL 60 mg(n = 66) |  |
-| Worse | 14% | 7% | 7% | 3% |  |
-| No Change | 44% | 35% | 22% | 19% |  |
-| Minimally Improved | 24% | 33% | 29% | 34% |  |
-| Much Improved | 11% | 18% | 22% | 24% |  |
-| Very Much Improved | 7% | 7% | 20% | 20% |  |
+| Outcome Classification (%) on CGI-Global Improvement Itemfor Completers in Study 1 |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Outcome Classification | Placebo(n = 74) | PAXIL 20 mg (n = 75) | PAXIL 40 mg(n = 66) | PAXIL 60 mg(n = 66) |
+| Worse | 14% | 7% | 7% | 3% |
+| No Change | 44% | 35% | 22% | 19% |
+| Minimally Improved | 24% | 33% | 29% | 34% |
+| Much Improved | 11% | 18% | 22% | 24% |
+| Very Much Improved | 7% | 7% | 20% | 20% |
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
 

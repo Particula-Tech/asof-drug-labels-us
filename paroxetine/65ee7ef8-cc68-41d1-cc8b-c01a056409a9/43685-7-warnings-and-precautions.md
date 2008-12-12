@@ -15,7 +15,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-Table 1
+Table 1.
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
@@ -39,7 +39,10 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.Such monitoring should include daily observation by families and caregivers.
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment With PAXIL), for a description of the risks of discontinuation of PAXIL.
+
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Such monitoring should include daily observation by families and caregivers.
 Prescriptions for PAXIL should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Screening Patients for Bipolar Disorder
@@ -64,7 +67,7 @@ At least 2 weeks should be allowed after stopping PAXIL before starting an MAOI.
 The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including PAXIL, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of PAXIL with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS—Potential for InteractionWith Monoamine Oxidase Inhibitors).
+The concomitant use of PAXIL with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS—Potential for Interaction With Monoamine Oxidase Inhibitors).
 
 If concomitant treatment with PAXIL with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS—Drug Interactions).
 
@@ -220,7 +223,7 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking PAXIL.
 
-## Clinical Worsening and Suicide Risk
+### Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
@@ -268,7 +271,7 @@ As with other serotonin reuptake inhibitors, an interaction between paroxetine a
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking PAXIL.
 Consequently, concomitant use of PAXIL with tryptophan is not recommended (see WARNINGS—Serotonin Syndrome).
 
-### Monoamine Oxidase Inhibitors:
+### Monoamine Oxidase Inhibitors
 
 See CONTRAINDICATIONS and WARNINGS.
 
