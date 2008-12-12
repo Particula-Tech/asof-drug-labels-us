@@ -103,7 +103,7 @@ Some of these were serious.
   Tell your doctor if you get more short of breath after you start REVATIO.
   More shortness of breath than usual may be due to your underlying medical condition.
 
-The following side effects were reported rarely in patients taking sildenafil including in men for the treatment of erectile dysfunction (impotence):
+The following side effects were reported rarely in patients taking sildenafil:
 
 - decreased eyesight or loss of sight in one or both eyes (NAION).
   If you notice a sudden decrease or loss of eyesight, talk to your doctor right away.
@@ -149,4 +149,4 @@ Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phos
 
 Rx only
 
-LAB-0335.2.0 October 2007
+LAB-0335.3.0 December 2007

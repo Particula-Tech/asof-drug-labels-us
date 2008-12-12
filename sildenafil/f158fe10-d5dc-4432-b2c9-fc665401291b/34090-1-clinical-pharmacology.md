@@ -106,11 +106,13 @@ Placebo-corrected mean increases in walk distance of 45–50 meters were observe
 These increases were highly significantly different from placebo, but the dose groups were not different from each other (Figure 1).
 The improvement in walk distance was apparent after 4 weeks of treatment and was maintained at week 8 and week 12.
 
-Figure 1: Change from Baseline in 6-Minute Walk Distance (meters): Mean (95% Confidence Interval)
+| Figure 1: Change from Baseline in 6-Minute Walk Distance (meters): Mean (95% Confidence Interval) |
+| --- |
 
 Pre-defined subpopulations in the pivotal study were also evaluated for efficacy, including patient differences in baseline walk distance, disease etiology, functional class, gender, age, and secondary hemodynamic parameters (Figure 2).
 
-Figure 2: Placebo Corrected Change From Baseline in 6-Minute Walk Distance (meters) by study subpopulation: Mean (95% Confidence Interval)
+| Figure 2: Placebo Corrected Change From Baseline in 6-Minute Walk Distance (meters) by study subpopulation: Mean (95% Confidence Interval) |
+| --- |
 
 Key: PAH = pulmonary arterial hypertension; CTD = connective tissue disease; PH, pulmonary hypertension; PAP = pulmonary arterial pressure; PVRI = pulmonary vascular resistance index; TID = three times daily.
 
