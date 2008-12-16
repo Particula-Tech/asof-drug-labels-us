@@ -39,7 +39,7 @@ About 40–45% of the administered radioactivity was recovered in urine in 9 day
 Unchanged sertraline was not detectable in the urine.
 For the same period, about 40–45% of the administered radioactivity was accounted for in feces, including 12–14% unchanged sertraline.
 
-Desmethylsertraline exhibits time-related, dose-dependent increases in AUC (0–24 hour), Cmax and Cmin, with about a 5–9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
+Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0–24 hour), Cmax and Cmin, with about a 5–9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
 
 ### Protein Binding
 
@@ -52,7 +52,7 @@ Sertraline pharmacokinetics were evaluated in a group of 61 pediatric patients (
 Patients included both males (N=28) and females (N=33).
 During 42 days of chronic sertraline dosing, sertraline was titrated up to 200 mg/day and maintained at that dose for a minimum of 11 days.
 On the final day of sertraline 200 mg/day, the 6–12 year old group exhibited a mean sertraline AUC (0–24 hr) of 3107 ng-hr/mL, mean Cmax of 165 ng/mL, and mean half-life of 26.2 hr. The 13–17 year old group exhibited a mean sertraline AUC (0–24 hr) of 2296 ng-hr/mL, mean Cmax of 123 ng/mL, and mean half-life of 27.8 hr. Higher plasma levels in the 6–12 year old group were largely attributable to patients with lower body weights.
-No gender-associated differences were observed.
+No gender associated differences were observed.
 By comparison, a group of 22 separately studied adults between 18 and 45 years of age (11 male, 11 female) received 30 days of 200 mg/day sertraline and exhibited a mean sertraline AUC (0–24 hr) of 2570 ng-hr/mL, mean Cmax of 142 ng/mL, and mean half-life of 27.2 hr. Relative to the adults, both the 6–12 year olds and the 13–17 year olds showed about 22% lower AUC (0–24 hr) and Cmax values when plasma concentration was adjusted for weight.
 These data suggest that pediatric patients metabolize sertraline with slightly greater efficiency than adults.
 Nevertheless, lower doses may be advisable for pediatric patients given their lower body weights, especially in very young patients, in order to avoid excessive plasma levels (see DOSAGE AND ADMINISTRATION).
@@ -87,7 +87,7 @@ The efficacy of sertraline hydrochloride as a treatment for major depressive dis
 Study 1 was an 8-week study with flexible dosing of sertraline hydrochloride in a range of 50 to 200 mg/day; the mean dose for completers was 145 mg/day.
 Study 2 was a 6-week fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
 Overall, these studies demonstrated sertraline hydrochloride to be superior to placebo on the Hamilton Depression Rating Scale and the Clinical Global Impression Severity and Improvement scales.
-Study 2 was not readily interpretable regarding a dose-response relationship for effectiveness.
+Study 2 was not readily interpretable regarding a dose response relationship for effectiveness.
 
 Study 3 involved depressed outpatients who had responded by the end of an initial 8-week open treatment phase on sertraline hydrochloride 50–200 mg/day.
 These patients (N=295) were randomized to continuation for 44 weeks on double-blind sertraline hydrochloride 50–200 mg/day or placebo.
@@ -139,7 +139,7 @@ The difference between sertraline hydrochloride and placebo in reduction from ba
 
 Study 3 was a 12-week fixed-dose study, including sertraline hydrochloride doses of 50, 100, and 200 mg/day.
 Patients receiving sertraline hydrochloride experienced a significantly greater reduction in panic attack frequency than patients receiving placebo.
-Study 3 was not readily interpretable regarding a dose-response relationship for effectiveness.
+Study 3 was not readily interpretable regarding a dose response relationship for effectiveness.
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age, race, or gender.
 

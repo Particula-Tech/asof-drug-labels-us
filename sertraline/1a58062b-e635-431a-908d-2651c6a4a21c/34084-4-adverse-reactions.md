@@ -17,13 +17,13 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 ## Incidence in Placebo-Controlled Trials
 
-Table 1 enumerates the most common treatment-emergent adverse events associated with the use of sertraline hydrochloride (incidence of at least 5% for sertraline hydrochloride and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other, OCD, panic disorder, PTSD, PMDD and social anxiety disorder in placebo-controlled clinical trials.
+Table 2 enumerates the most common treatment-emergent adverse events associated with the use of sertraline hydrochloride (incidence of at least 5% for sertraline hydrochloride and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other, OCD, panic disorder, PTSD, PMDD and social anxiety disorder in placebo-controlled clinical trials.
 Most patients in major depressive disorder/other, OCD, panic disorder, PTSD and social anxiety disorder studies received doses of 50 to 200 mg/day.
 Patients in the PMDD study with daily dosing throughout the menstrual cycle received doses of 50 to 150 mg/day, and in the PMDD study with dosing during the luteal phase of the menstrual cycle received doses of 50 to 100 mg/day.
-Table 2 enumerates treatment-emergent adverse events that occurred in 2% or more of adult patients treated with sertraline hydrochloride and with incidence greater than placebo who participated in controlled clinical trials comparing sertraline hydrochloride with placebo in the treatment of major depressive disorder/other, OCD, panic disorder, PTSD, PMDD and social anxiety disorder.
-Table 2 provides combined data for the pool of studies that are provided separately by indication in Table 1.
+Table 3 enumerates treatment-emergent adverse events that occurred in 2% or more of adult patients treated with sertraline hydrochloride and with incidence greater than placebo who participated in controlled clinical trials comparing sertraline hydrochloride with placebo in the treatment of major depressive disorder/other, OCD, panic disorder, PTSD, PMDD and social anxiety disorder.
+Table 3 provides combined data for the pool of studies that are provided separately by indication in Table 2.
 
-TABLE 1 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS
+TABLE 2 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS
 
 | Body System/Adverse Event | Sertraline hydrochloride (N=861) | Placebo (N=853) | Sertraline hydrochloride (N=533) | Placebo (N=373) | Sertraline hydrochloride (N=430) | Placebo (N=275) | Sertraline hydrochloride (N=374) | Placebo (N=376) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ TABLE 1 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONT
 | Agitation | 6 | 4 | 6 | 3 | 6 | 2 | 5 | 5 |
 | Insomnia | 16 | 9 | 28 | 12 | 25 | 18 | 20 | 11 |
 | Libido Decreased | 1 | <1 | 11 | 2 | 7 | 1 | 7 | 2 |
-|  | PMDD Daily Dosing |  | PMDD Luteal Phase DosingThe luteal phase and daily dosing PMDD trials were not designed for making direct comparisons between the two dosing regimens. Therefore, a comparison between the two dosing regimens of the PMDD trials of incidence rates shown in Table 1 should be avoided. |  | Social Anxiety Disorder |  |  |  |
+|  | PMDD Daily Dosing |  | PMDD Luteal Phase DosingThe luteal phase and daily dosing PMDD trials were not designed for making direct comparisons between the two dosing regimens. Therefore, a comparison between the two dosing regimens of the PMDD trials of incidence rates shown in Table 2 should be avoided. |  | Social Anxiety Disorder |  |  |  |
 | Body System/Adverse Event | Sertraline hydrochloride (N=121) | Placebo (N=122) | Sertraline hydrochloride (N=136) | Placebo (N=127) | Sertraline hydrochloride (N=344) | Placebo (N=268) |  |  |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |  |
 | Ejaculation Failure | N/A | N/A | N/A | N/A | 14 | - |  |  |
@@ -78,7 +78,7 @@ TABLE 1 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONT
 | Insomnia | 17 | 11 | 12 | 10 | 25 | 10 |  |  |
 | Libido Decreased | 11 | 2 | 4 | 2 | 9 | 3 |  |  |
 
-TABLE 2 TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS Percentage of Patients Reporting Event Major Depressive Disorder/OtherMajor depressive disorder and other premarketing controlled trials., OCD, Panic Disorder, PTSD, PMDD and Social Anxiety Disorder combined
+TABLE 3 TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS Percentage of Patients Reporting Event Major Depressive Disorder/OtherMajor depressive disorder and other premarketing controlled trials., OCD, Panic Disorder, PTSD, PMDD and Social Anxiety Disorder combined
 
 | Autonomic Nervous System Disorders |  |  |
 | --- | --- | --- |
@@ -114,9 +114,9 @@ TABLE 2 TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINI
 
 ## Associated with Discontinuation in Placebo-Controlled Clinical Trials
 
-Table 3 lists the adverse events associated with discontinuation of sertraline hydrochloride treatment (incidence at least twice that for placebo and at least 1% for sertraline hydrochloride in clinical trials) in major depressive disorder/other, OCD, panic disorder, PTSD, PMDD and social anxiety disorder.
+Table 4 lists the adverse events associated with discontinuation of sertraline hydrochloride treatment (incidence at least twice that for placebo and at least 1% for sertraline hydrochloride in clinical trials) in major depressive disorder/other, OCD, panic disorder, PTSD, PMDD and social anxiety disorder.
 
-TABLE 3 MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN PLACEBO-CONTROLLED CLINICAL TRIALS
+TABLE 4 MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN PLACEBO-CONTROLLED CLINICAL TRIALS
 
 | Adverse Event | Major Depressive Disorder/OtherMajor depressive disorder and other premarketing controlled trials., OCD, Panic Disorder, PTSD, PMDD and Social Anxiety Disorder combined (N=2799) | Major Depressive Disorder/ Other (N=861) | OCD (N=533) | Panic Disorder (N=430) | PTSD (N=374) | PMDD Daily Dosing (N=121) | PMDD Luteal Phase Dosing (N=136) | Social Anxiety Disorder (N=344) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -145,9 +145,9 @@ In particular, some evidence suggests that selective serotonin reuptake inhibito
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
 
-Table 4 below displays the incidence of sexual side effects reported by at least 2% of patients taking sertraline hydrochloride in placebo-controlled trials.
+Table 5 below displays the incidence of sexual side effects reported by at least 2% of patients taking sertraline hydrochloride in placebo-controlled trials.
 
-TABLE 4
+TABLE 5
 
 | Adverse Event | Sertraline hydrochloride | Placebo |
 | --- | --- | --- |
@@ -163,7 +163,7 @@ While it is difficult to know the precise risk of sexual dysfunction associated 
 ## Other Adverse Events in Pediatric Patients
 
 In over 600 pediatric patients treated with sertraline hydrochloride, the overall profile of adverse events was generally similar to that seen in adult studies.
-However, the following adverse events, from controlled trials, not appearing in Tables 1 and 2, were reported at an incidence of at least 2% and occurred at a rate of at least twice the placebo rate (N=281 patients treated with sertraline hydrochloride): fever, hyperkinesia, urinary incontinence, aggressive reaction, sinusitis, epistaxis and purpura.
+However, the following adverse events, from controlled trials, not appearing in Tables 2 and 3, were reported at an incidence of at least 2% and occurred at a rate of at least twice the placebo rate (N=281 patients treated with sertraline hydrochloride): fever, hyperkinesia, urinary incontinence, aggressive reaction, sinusitis, epistaxis and purpura.
 
 ## Other Events Observed During the Premarketing Evaluation of sertraline hydrochloride
 

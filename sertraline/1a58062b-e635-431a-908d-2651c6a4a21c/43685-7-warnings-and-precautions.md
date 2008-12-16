@@ -77,7 +77,7 @@ The concomitant use of SNRIs and SSRIs, including sertraline hydrochloride, with
 
 ### Activation of Mania/Hypomania
 
-During premarketing testing, hypomania or mania occurred in approximately 0.4% of sertraline hydrochloride-treated patients.
+During premarketing testing, hypomania or mania occurred in approximately 0.4% of sertraline hydrochloride treated patients.
 
 ### Weight Loss
 
@@ -105,11 +105,12 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ## Abnormal Bleeding
 
-Published case reports have documented the occurrence of bleeding episodes in patients treated with psychotropic drugs that interfere with serotonin reuptake.
-Subsequent epidemiological studies, both of the case-control and cohort design, have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
-In two studies, concurrent use of a non-selective nonsteroidal anti-inflammatory drug (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2) or aspirin potentiated the risk of bleeding (see DRUG INTERACTIONS).
-Although these studies focused on upper gastrointestinal bleeding, there is reason to believe that bleeding at other sites may be similarly potentiated.
-Patients should be cautioned regarding the risk of bleeding associated with the concomitant use of sertraline hydrochloride with non-selective NSAIDs (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2), aspirin, or other drugs that affect coagulation.
+SSRIs and SNRIs, including sertraline hydrochloride, may increase the risk of bleeding events.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
+Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of Sertraline hydrochloride and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Weak Uricosuric Effect
 
@@ -125,7 +126,7 @@ Patients with a recent history of myocardial infarction or unstable heart diseas
 However, the electrocardiograms of 774 patients who received sertraline hydrochloride in double-blind trials were evaluated and the data indicate that sertraline hydrochloride is not associated with the development of significant ECG abnormalities.
 
 Sertraline hydrochloride administered in a flexible dose range of 50 to 200 mg/day (mean dose of 89 mg/day) was evaluated in a post-marketing, placebo-controlled trial of 372 randomized subjects with a DSM-IV diagnosis of major depressive disorder and recent history of myocardial infarction or unstable angina requiring hospitalization.
-Exclusions from this trial included, among others, patients with uncontrolled hypertension, need for cardiac surgery, history of CABG within 3 months of index event, severe or symptomatic bradycardia, non-atherosclerotic cause of angina, clinically significant renal impairment (creatinine > 2.5 mg/dL), and clinically significant hepatic dysfunction.
+Exclusions from this trial included, among others, patients with uncontrolled hypertension, need for cardiac surgery, history of CABG within 3 months of index event, severe or symptomatic bradycardia, non-atherosclerotic cause of angina, clinically significant renal impairment (creatinine > 2.5 mg/dl), and clinically significant hepatic dysfunction.
 Sertraline hydrochloride treatment initiated during the acute phase of recovery (within 30 days post-MI or post-hospitalization for unstable angina) was indistinguishable from placebo in this study on the following week 16 treatment endpoints: left ventricular ejection fraction, total cardiovascular events (angina, chest pain, edema, palpitations, syncope, postural dizziness, CHF, MI, tachycardia, bradycardia, and changes in BP), and major cardiovascular events involving death or requiring hospitalization (for MI, CHF, stroke, or angina).
 
 Sertraline hydrochloride is extensively metabolized by the liver.
@@ -182,7 +183,7 @@ Patients should be cautioned about the risk of serotonin syndrome with the conco
 Patients should be told that although sertraline hydrochloride has not been shown to impair the ability of normal subjects to perform tasks requiring complex motor and mental skills in laboratory experiments, drugs that act upon the central nervous system may affect some individuals adversely.
 Therefore, patients should be told that until they learn how they respond to sertraline hydrochloride they should be careful doing activities when they need to be alert, such as driving a car or operating machinery.
 
-Patients should be cautioned about the concomitant use of sertraline hydrochloride and non-selective NSAIDs (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2), aspirin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of sertraline hydrochloride and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
 Patients should be told that although sertraline hydrochloride has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of sertraline hydrochloride and alcohol is not advised.
 
@@ -317,8 +318,10 @@ This small change in antipyrine half-life reflects a clinically insignificant ch
 ### Drugs That Interfere With Hemostasis (Non-selective NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case-control and cohort design that have demonstrated an association between the use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of a non-selective NSAID (i.e., NSAIDs that inhibit both cyclooxygenase isoenzymes, COX 1 and 2) or aspirin potentiated the risk of bleeding.
-Thus, patients should be cautioned about the use of such drugs concurrently with sertraline hydrochloride.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when sertraline hydrochloride is initiated or discontinued.
 
 ### Electroconvulsive Therapy
 
@@ -331,12 +334,12 @@ Although sertraline hydrochloride did not potentiate the cognitive and psychomot
 ## Carcinogenesis
 
 Lifetime carcinogenicity studies were carried out in CD-1 mice and Long-Evans rats at doses up to 40 mg/kg/day.
-These doses correspond to 1 time (mice) and 2 times (rats) the maximum recommended human dose (MRHD) on a mg/m2 basis.
+These doses correspond to 1 times (mice) and 2 times (rats) the maximum recommended human dose (MRHD) on a mg/m2 basis.
 There was a dose-related increase of liver adenomas in male mice receiving sertraline at 10–40 mg/kg (0.25–1.0 times the MRHD on a mg/m2 basis).
 No increase was seen in female mice or in rats of either sex receiving the same treatments, nor was there an increase in hepatocellular carcinomas.
 Liver adenomas have a variable rate of spontaneous occurrence in the CD-1 mouse and are of unknown significance to humans.
 There was an increase in follicular adenomas of the thyroid in female rats receiving sertraline at 40 mg/kg (2 times the MRHD on a mg/m2 basis); this was not accompanied by thyroid hyperplasia.
-While there was an increase in uterine adenocarcinomas in rats receiving sertraline at 10–40 mg/kg (0.5–2.0 times the MRHD on a mg/m2 basis) compared to placebo controls, this effect was not clearly drug-related.
+While there was an increase in uterine adenocarcinomas in rats receiving sertraline at 10–40 mg/kg (0.5–2.0 times the MRHD on a mg/m2 basis) compared to placebo controls, this effect was not clearly drug related.
 
 ## Mutagenesis
 
@@ -355,7 +358,7 @@ When pregnant rats and rabbits were given sertraline during the period of organo
 When female rats received sertraline during the last third of gestation and throughout lactation, there was an increase in the number of stillborn pups and in the number of pups dying during the first 4 days after birth.
 Pup body weights were also decreased during the first four days after birth.
 These effects occurred at a dose of 20 mg/kg (1 times the MRHD on a mg/m2 basis).
-The no-effect dose for rat pup mortality was 10 mg/kg (0.5 times the MRHD on a mg/m2 basis).
+The no effect dose for rat pup mortality was 10 mg/kg (0.5 times the MRHD on a mg/m2 basis).
 The decrease in pup survival was shown to be due to in utero exposure to sertraline.
 The clinical significance of these effects is unknown.
 There are no adequate and well-controlled studies in pregnant women.
@@ -392,13 +395,13 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 The efficacy of sertraline hydrochloride for the treatment of obsessive-compulsive disorder was demonstrated in a 12-week, multicenter, placebo-controlled study with 187 outpatients ages 6–17 (see Clinical Trials under CLINICAL PHARMACOLOGY).
 Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS-Clinical Worsening and Suicide Risk).
-Two placebo-controlled trials (n=373) in pediatric patients with MDD have been conducted with sertraline hydrochloride, and the data were not sufficient to support a claim for use in pediatric patients.
+Two placebo controlled trials (n=373) in pediatric patients with MDD have been conducted with sertraline hydrochloride, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of sertraline hydrochloride in a child or adolescent must balance the potential risks with the clinical need.
 
-The safety of sertraline hydrochloride use in children and adolescents with OCD, ages 6–18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6–17, and in a flexible dose, 52-week open extension study of 137 patients, ages 6–18, who had completed the initial 12-week, double-blind, placebo-controlled study.
+The safety of sertraline hydrochloride use in children and adolescents with OCD, ages 6–18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6–17, and in a flexible dose, 52 week open extension study of 137 patients, ages 6–18, who had completed the initial 12-week, double-blind, placebo-controlled study.
 Sertraline hydrochloride was administered at doses of either 25 mg/day (children, ages 6–12) or 50 mg/day (adolescents, ages 13–18) and then titrated in weekly 25 mg/day or 50 mg/day increments, respectively, to a maximum dose of 200 mg/day based upon clinical response.
 The mean dose for completers was 157 mg/day.
-In the acute 12 week pediatric study and in the 52-week study, sertraline hydrochloride had an adverse event profile generally similar to that observed in adults.
+In the acute 12 week pediatric study and in the 52 week study, sertraline hydrochloride had an adverse event profile generally similar to that observed in adults.
 
 Sertraline pharmacokinetics were evaluated in 61 pediatric patients between 6 and 17 years of age with major depressive disorder or OCD and revealed similar drug exposures to those of adults when plasma concentration was adjusted for weight (see Pharmacokinetics under CLINICAL PHARMACOLOGY).
 
@@ -411,9 +414,9 @@ At baseline the mean weight for adolescents was 61.4 kg for sertraline and 62.5 
 There was a bigger difference between sertraline and placebo in the proportion of outliers for clinically important weight loss in children than in adolescents.
 For children, about 7% had a weight loss > 7% of body weight compared to none of the placebo patients; for adolescents, about 2% had a weight loss > 7% of body weight compared to about 1% of the placebo patients.
 A subset of these patients who completed the randomized controlled trials (sertraline n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
-A mean weight loss of approximately 0.5 kg was seen during the first eight weeks of treatment for subjects with first exposure to sertraline during the open-label extension study, similar to mean weight loss observed among sertraline-treated subjects during the first eight weeks of the randomized controlled trials.
-The subjects continuing in the open-label study began gaining weight compared to baseline by week 12 of sertraline treatment.
-Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
+A mean weight loss of approximately 0.5 kg was seen during the first eight weeks of treatment for subjects with first exposure to sertraline during the open-label extension study, similar to mean weight loss observed among sertraline treated subjects during the first eight weeks of the randomized controlled trials.
+The subjects continuing in the open label study began gaining weight compared to baseline by week 12 of sertraline treatment.
+Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo controlled trial + 24 weeks open label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
 Regular monitoring of weight and growth is recommended if treatment of a pediatric patient with an SSRI is to be continued long term.
 Safety and effectiveness in pediatric patients below the age of 6 have not been established.
 
@@ -432,7 +435,7 @@ No overall differences in the pattern of efficacy were observed in the geriatric
 
 ### Other Adverse Events in Geriatric Patients
 
-In 354 geriatric subjects treated with sertraline hydrochloride in placebo-controlled trials, the overall profile of adverse events was generally similar to that shown in Tables 1 and 2.
-Urinary tract infection was the only adverse event not appearing in Tables 1 and 2 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
+In 354 geriatric subjects treated with sertraline hydrochloride in placebo-controlled trials, the overall profile of adverse events was generally similar to that shown in Tables 2 and 3.
+Urinary tract infection was the only adverse event not appearing in Tables 2 and 3 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
 
 SSRIS and SNRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).

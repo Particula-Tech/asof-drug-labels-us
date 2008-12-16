@@ -1,5 +1,5 @@
 Rx only
 
-LAB—0340—8.0
+LAB—0340—11.0
 
-August 2007
+February 2008

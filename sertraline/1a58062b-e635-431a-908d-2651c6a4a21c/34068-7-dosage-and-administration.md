@@ -37,7 +37,7 @@ Sertraline hydrochloride treatment should be initiated with a dose of 25 mg once
 While a relationship between dose and effect has not been established for OCD, patients were dosed in a range of 25–200 mg/day in the clinical trials demonstrating the effectiveness of sertraline hydrochloride for pediatric patients (6–17 years) with OCD.
 Patients not responding to an initial dose of 25 or 50 mg/day may benefit from dose increases up to a maximum of 200 mg/day.
 For children with OCD, their generally lower body weights compared to adults should be taken into consideration in advancing the dose, in order to avoid excess dosing.
-Given the 24-hour elimination half-life of sertraline hydrochloride, dose changes should not occur at intervals of less than 1 week.
+Given the 24 hour elimination half-life of sertraline hydrochloride, dose changes should not occur at intervals of less than 1 week.
 
 Sertraline hydrochloride should be administered once daily, either in the morning or evening.
 
@@ -91,7 +91,7 @@ If sertraline is administered to patients with liver impairment, a lower or less
 
 #### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
+Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
 When treating pregnant women with sertraline hydrochloride during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering sertraline hydrochloride in the third trimester.
 
