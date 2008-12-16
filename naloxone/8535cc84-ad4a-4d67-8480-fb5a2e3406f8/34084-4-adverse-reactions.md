@@ -30,6 +30,6 @@ Respiratory, Thoracic, and Mediastinal Disorders: dyspnea, respiratory depressio
 
 Skin and Subcutaneous Tissue Disorders: nonspecific injection site reactions, sweating
 
-Vascular Disorders:hypertension, hypotension, hot flashes, or flushing
+Vascular Disorders: hypertension, hypotension, hot flashes, or flushing
 
 See also PRECAUTIONS and DOSAGE AND ADMINISTRATION; Usage in Adults, Postoperative Opioid Depression

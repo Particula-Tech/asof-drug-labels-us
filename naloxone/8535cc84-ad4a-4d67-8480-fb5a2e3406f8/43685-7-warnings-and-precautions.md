@@ -53,7 +53,7 @@ Teratology studies conducted in mice and rats at doses 4-times and 8-times, resp
 There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, naloxone hydrochloride should be used during pregnancy only if clearly needed.
 
-Non-teratogenic effects:Risk-benefit must be considered before naloxone is administered to a pregnant woman who is known or suspected to be opioid-dependent since maternal dependence may often be accompanied by fetal dependence.
+Non-teratogenic effects: Risk-benefit must be considered before naloxone is administered to a pregnant woman who is known or suspected to be opioid-dependent since maternal dependence may often be accompanied by fetal dependence.
 Naloxone crosses the placenta, and may precipitate withdrawal in the fetus as well as in the mother.
 Patients with mild to moderate hypertension who receive naloxone during labor should be carefully monitored as severe hypertension may occur.
 
@@ -77,7 +77,7 @@ When naloxone hydrochloride injection is given to the mother shortly before deli
 It is preferable to administer naloxone hydrochloride injection directly to the neonate if needed after delivery.
 Naloxone has no apparent benefit as an additional method of resuscitation in the newly born infant with intrauterine asphyxia, which is not related to opioid use.
 
-Usage in Pediatric Patients and Neonates for Septic Shock:The safety and effectiveness of naloxone hydrochloride injection in the treatment of hypotension in pediatric patients and neonates with septic shock have not been established.
+Usage in Pediatric Patients and Neonates for Septic Shock: The safety and effectiveness of naloxone hydrochloride injection in the treatment of hypotension in pediatric patients and neonates with septic shock have not been established.
 One study of two neonates in septic shock reported a positive pressor response; however, one patient subsequently died after intractable seizures.
 
 ## Geriatric Use

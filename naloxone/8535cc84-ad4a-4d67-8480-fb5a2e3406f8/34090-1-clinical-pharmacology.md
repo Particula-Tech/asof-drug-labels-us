@@ -15,8 +15,6 @@ The severity and duration of the withdrawal syndrome are related to the dose of 
 
 While the mechanism of action of naloxone is not fully understood, in vitro evidence suggests that naloxone antagonizes opioid effects by competing for the mu, kappa, and sigma opiate receptor sites in the CNS, with the greatest affinity for the mu receptor.
 
-Mechanisms of Action
-
 When naloxone hydrochloride is administered intravenously, the onset of action is generally apparent within two minutes; the onset of action is slightly less rapid when it is administered subcutaneously or intramuscularly.
 The duration of action is dependent upon the dose and route of administration of naloxone hydrochloride.
 Intramuscular administration produces a more prolonged effect than intravenous administration.

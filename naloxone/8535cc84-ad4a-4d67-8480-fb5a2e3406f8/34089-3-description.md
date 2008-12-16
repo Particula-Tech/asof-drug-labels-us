@@ -14,6 +14,6 @@ Naloxone Hydrochloride Injection, USP may be administered intravenously, intramu
 Naloxone, an opioid antagonist, is a synthetic congener of oxymorphone.
 It differs from oxymorphone in that the methyl group on the nitrogen atom is replaced by an allyl group.
 
-Naloxone Hydrochloride, USP is chemically designated 17-Allyl-4,5α-epoxy-3,14-dihydroxymorphinan-6-one hydrochloride (C19H21NO4• HCl), a white to slightly off-white powder soluble in water, in dilute acids, and in strong alkali; slightly soluble in alcohol; practically insoluble in ether and chloroform.
+Naloxone Hydrochloride, USP is chemically designated 17-Allyl-4,5α-epoxy-3,14-dihydroxymorphinan-6-one hydrochloride (C19H21NO4 • HCl), a white to slightly off-white powder soluble in water, in dilute acids, and in strong alkali; slightly soluble in alcohol; practically insoluble in ether and chloroform.
 It has a molecular weight of 363.84.
 It has the following structural formula:
