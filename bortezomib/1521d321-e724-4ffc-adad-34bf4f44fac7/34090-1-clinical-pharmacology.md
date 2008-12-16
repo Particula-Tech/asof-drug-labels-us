@@ -1,0 +1,68 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Bortezomib is a reversible inhibitor of the chymotrypsin-like activity of the 26S proteasome in mammalian cells.
+The 26S proteasome is a large protein complex that degrades ubiquitinated proteins.
+The ubiquitin-proteasome pathway plays an essential role in regulating the intracellular concentration of specific proteins, thereby maintaining homeostasis within cells.
+Inhibition of the 26S proteasome prevents this targeted proteolysis, which can affect multiple signaling cascades within the cell.
+This disruption of normal homeostatic mechanisms can lead to cell death.
+Experiments have demonstrated that bortezomib is cytotoxic to a variety of cancer cell types in vitro.
+Bortezomib causes a delay in tumor growth in vivo in nonclinical tumor models, including multiple myeloma.
+
+## 12.2 Pharmacodynamics
+
+Following twice weekly administration of 1 mg/m2 and 1.3 mg/m2 bortezomib doses (n=12 per each dose level), the maximum inhibition of 20S proteasome activity (relative to baseline) in whole blood was observed 5 minutes after drug administration.
+Comparable maximum inhibition of 20S proteasome activity was observed between 1 and 1.3 mg/m2 doses.
+Maximal inhibition ranged from 70% to 84% and from 73% to 83% for the 1 mg/m2 and 1.3 mg/m2 dose regimens, respectively.
+
+## 12.3 Pharmacokinetics
+
+Following intravenous administration of 1 mg/m2 and 1.3 mg/m2 doses to 24 patients with multiple myeloma (n=12, per each dose level), the mean maximum plasma concentrations of bortezomib (Cmax) after the first dose (Day 1) were 57 and 112 ng/mL, respectively.
+In subsequent doses, when administered twice weekly, the mean maximum observed plasma concentrations ranged from 67 to 106 ng/mL for the 1 mg/m2 dose and 89 to 120 ng/mL for the 1.3 mg/m2 dose.
+The mean elimination half-life of bortezomib upon multiple dosing ranged from 40 to 193 hours after the 1 mg/m2 dose and 76 to 108 hours after the 1.3mg/m2 dose.
+The mean total body clearances was 102 and 112 L/h following the first dose for doses of 1 mg/m2 and 1.3 mg/m2, respectively, and ranged from 15 to 32 L/h following subsequent doses for doses of 1 and 1.3 mg/m2, respectively.
+
+Distribution: The mean distribution volume of bortezomib ranged from approximately 498 to 1884 L/m2 following single- or repeat-dose administration of 1 mg/m2 or 1.3mg/m2 to patients with multiple myeloma.
+This suggests bortezomib distributes widely to peripheral tissues.
+The binding of bortezomib to human plasma proteins averaged 83% over the concentration range of 100 to 1000 ng/mL.
+
+Metabolism: In vitro studies with human liver microsomes and human cDNA-expressed cytochrome P450 isozymes indicate that bortezomib is primarily oxidatively metabolized via cytochrome P450 enzymes 3A4, 2C19, and 1A2.
+Bortezomib metabolism by CYP 2D6 and 2C9 enzymes is minor.
+The major metabolic pathway is deboronation to form 2 deboronated metabolites that subsequently undergo hydroxylation to several metabolites.
+Deboronated bortezomib metabolites are inactive as 26S proteasome inhibitors.
+Pooled plasma data from 8 patients at 10 min and 30 min after dosing indicate that the plasma levels of metabolites are low compared to the parent drug.
+
+Elimination: The pathways of elimination of bortezomib have not been characterized in humans.
+
+Age: Analyses of data after the first dose of Cycle 1 (Day 1) in 39 multiple myeloma patients who had received intravenous doses of 1 mg/m2 and 1.3 mg/m2 showed that both dose-normalized AUC and Cmax tend to be less in younger patients.
+Patients < 65 years of age (n=26) had about 25% lower mean dose-normalized AUC and Cmax than those ≥ 65 years of age (n=13).
+
+Gender: Mean dose-normalized AUC and Cmax values were comparable between male (n=22) and female (n=17) patients after the first dose of Cycle 1 for the 1 and 1.3 mg/m2 doses.
+
+Race: The effect of race on exposure to bortezomib could not be assessed as most of the patients were Caucasian.
+
+Hepatic Impairment: No pharmacokinetic studies were conducted with bortezomib in patients with hepatic impairment.
+[see Warnings and Precautions (5.10)]
+
+Renal Impairment: A pharmacokinetic study was conducted in patients with various degrees of renal impairment who were classified according to their creatinine clearance values (CrCl) into the following groups: Normal (CrCl ≥60 mL/min/1.73 m2, N=12), Mild (CrCl=40-59 mL/min/1.73 m2, N=10), Moderate (CrCl=20-39 mL/min/1.73 m2, N=9), and Severe (CrCl < 20 mL/min/1.73 m2, N=3).
+A group of dialysis patients who were dosed after dialysis was also included in the study (N=8).
+Patients were administered intravenous doses of 0.7 to 1.3 mg/m2 of bortezomib twice weekly.
+Exposure of bortezomib (dose-normalized AUC and Cmax) was comparable among all the groups.
+[see Use in Specific Populations (8.6)]
+
+Pediatric: There are no pharmacokinetic data in pediatric patients.
+
+Effect of Ketoconazole: Co-administration of ketoconazole, a potent CYP3A inhibitor, showed a 35% increase in mean bortezomib AUC, based on data from 12 patients.
+[see Drug Interactions (7.1)]
+
+Effect of Melphalan-Prednisone: Co-administration of melphalan-prednisone on VELCADE showed a 17% increase in mean bortezomib AUC based on data from 21 patients.
+This increase is unlikely to be clinically relevant.
+[see Drug Interactions (7.2)]
+
+Effect of Omeprazole: Co-administration of omeprazole, a potent inhibitor of CYP2C19, had no significant effect on the pharmacokinetics of bortezomib, based on data from 17 patients [see Drug Interactions (7.3)].
+
+Cytochrome P450: Bortezomib is a poor inhibitor of human liver microsome cytochrome P450 1A2, 2C9, 2D6, and 3A4, with IC50 values of >30μM (>11.5μg/mL).
+Bortezomib may inhibit 2C19 activity (IC50 = 18 μM, 6.9 μg/mL) and increase exposure to drugs that are substrates for this enzyme.
+Bortezomib did not induce the activities of cytochrome P450 3A4 and 1A2 in primary cultured human hepatocytes.
+[see Drug Interactions (7.4)]
