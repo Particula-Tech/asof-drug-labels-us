@@ -1,0 +1,69 @@
+# 7 DRUG INTERACTIONS
+
+See also CONTRAINDICATIONS (4), CLINICAL PHARMACOLOGY (12.3)
+
+## 7.1 Potential for KALETRA to Affect Other Drugs
+
+Lopinavir/ritonavir is an inhibitor of CYP3A and may increase plasma concentrations of agents that are primarily metabolized by CYP3A.
+Agents that are extensively metabolized by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in AUC (> 3-fold) when co-administered with KALETRA.
+Thus, co-administration of KALETRA with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated.
+Co-administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 9.
+
+Additionally, KALETRA induces glucuronidation.
+
+## 7.2 Potential For Other Drugs To Affect Lopinavir
+
+Lopinavir/ritonavir is a CYP3A substrate; therefore, drugs that induce CYP3A may decrease lopinavir plasma concentrations and reduce KALETRA’s therapeutic effect.
+Although not observed in the KALETRA/ketoconazole drug interaction study, co-administration of KALETRA and other drugs that inhibit CYP3A may increase lopinavir plasma concentrations.
+
+## 7.3 Established and Other Potentially Significant Drug Interactions
+
+Table 9 provides a listing of established or potentially clinically significant drug interactions.
+Alteration in dose or regimen may be recommended based on drug interaction studies or predicted interaction.
+[See CLINICAL PHARMACOLOGY (12.3) for magnitude of interaction]
+
+Table 9.
+Established and Other Potentially Significant Drug Interactions
+
+| Concomitant Drug Class: Drug Name | Effect on Concentration of Lopinavir or Concomitant Drug | Clinical Comment |
+| --- | --- | --- |
+| HIV-1 Antiviral Agents |  |  |
+| Non-nucleoside Reverse Transcriptase Inhibitors: efavirenz*, nevirapine* | ↓ lopinavir | KALETRA dose increase may be warranted in some patients [See DOSAGE AND ADMINISTRATION (2.1) and CLINICAL PHARMACOLOGY (12.3)]. Increasing the dose of KALETRA tablets to 600/150 mg (given as three 200/50 mg tablets) twice-daily co-administered with efavirenz resulted in significantly higher lopinavir plasma concentrations approximately 35% and ritonavir concentrations approximately 56% to 92% compared to KALETRA tablets 400/100 mg twice-daily without efavirenz. KALETRA should not be administered once-daily in combination with efavirenz or nevirapine. [See DOSAGE AND ADMINISTRATION (2.1) and CLINICAL PHARMACOLOGY (12.3)]. |
+| Non-nucleoside Reverse Transcriptase Inhibitor: delavirdine | ↑ lopinavir | Appropriate doses of the combination with respect to safety andefficacy have not been established. |
+| Nucleoside Reverse Transcriptase Inhibitor: didanosine |  | KALETRA tablets can be administered simultaneously with didanosine without food. For KALETRA oral solution, it is recommended that didanosine be administered on an empty stomach; therefore, didanosine should be given one hour before or two hours after KALETRA oral solution (given with food). |
+| Nucleoside Reverse Transcriptase Inhibitor: tenofovir | ↑ tenofovir | KALETRA increases tenofovir concentrations. The mechanism of this interaction is unknown. Patients receiving KALETRA and tenofovir should be monitored for adverse reactions associated with tenofovir. |
+| Nucleoside Reverse Transcriptase Inhibitor: abacavir zidovudine | ↓ abacavir ↓ zidovudine | KALETRA induces glucuronidation; therefore, KALETRA has the potential to reduce zidovudine and abacavir plasma concentrations. The clinical significance of this potential interaction is unknown. |
+| HIV-1 Protease Inhibitor: amprenavir* | ↑ amprenavir ↓ lopinavir | KALETRA should not be administered once-daily in combination with amprenavir. [See DOSAGE AND ADMINISTRATION (2.1)]. |
+| HIV-1 Protease Inhibitor: fosamprenavir/ritonavir | ↓ amprenavir ↓ lopinavir | An increased rate of adverse reactions has been observed with co-administration of these medications. Appropriate doses of the combinations with respect to safety and efficacy have not been established. |
+| HIV-1 Protease Inhibitor: indinavir* | ↑ indinavir | Decrease indinavir dose to 600 mg BID, when co-administered with KALETRA 400/100 mg BID [See CLINICAL PHARMACOLOGY (12.3)]. KALETRA once-daily has not been studied in combination with indinavir. |
+| HIV-1 Protease Inhibitor: nelfinavir* | ↑ nelfinavir ↑ M8 metabolite of nelfinavir ↓ lopinavir | KALETRA should not be administered once-daily in combination with nelfinavir. [See DOSAGE AND ADMINISTRATION (2.1) and CLINICAL PHARMACOLOGY (12.3)]. |
+| HIV-1 Protease Inhibitor: ritonavir* | ↑ lopinavir | Appropriate doses of additional ritonavir in combination with KALETRA with respect to safety and efficacy have not been established. |
+| HIV-1 Protease Inhibitor: saquinavir* | ↑ saquinavir | The saquinavir dose is 1000 mg BID, when co-administered with KALETRA 400/100 mg BID. KALETRA once-daily has not been studied in combination with saquinavir. |
+| HIV-1 Protease Inhibitor: tipranavir | ↓ lopinavir AUC and Cmin | KALETRA should not be administered with tipranavir (500 mg twice-daily) co-administered with ritonavir (200 mg twice-daily). |
+| Other Agents |  |  |
+| Antiarrhythmics: amiodarone, bepridil, lidocaine (systemic), and quinidine | ↑ antiarrhythmics | Caution is warranted and therapeutic concentration monitoring (if available) is recommended for antiarrhythmics when co-administered with KALETRA. |
+| Anticoagulant: warfarin |  | Concentrations of warfarin may be affected. It is recommended that INR (international normalized ratio) be monitored. |
+| Anticonvulsants: carbamazepine, phenobarbital, phenytoin | ↓ lopinavir | Use with caution. KALETRA may be less effective due to decreased lopinavir plasma concentrations in patients taking these agents concomitantly. KALETRA should not be administered once-daily in combination with carbamazepine, phenobarbital, or phenytoin. |
+| Antidepressant: trazodone | ↑ trazodone | Concomitant use of trazodone and KALETRA may increase concentrations of trazodone. Adverse reactions of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and ritonavir. If trazodone is used with a CYP3A4 inhibitor such as ritonavir, the combination should be used with caution and a lower dose of trazodone should be considered. |
+| Anti-infective: clarithromycin | ↑ clarithromycin | For patients with renal impairment, the following dosage adjustments should be considered: For patients with CLCR 30 to 60 mL/min the dose of clarithromycin should be reduced by 50%.For patients with CLCR < 30 mL/min the dose of clarithromycin should be decreased by 75%. No dose adjustment for patients with normal renal function is necessary. |
+| Antifungals: ketoconazole*, itraconazole, voriconazole | ↑ ketoconazole ↑ itraconazole Voriconazole effect is unknown. | High doses of ketoconazole (>200 mg/day) or itraconazole (> 200 mg/day) are not recommended. Co-administration of voriconazole with KALETRA has not been studied. However, administration of voriconazole with ritonavir 400 mg every 12 hours decreased voriconazole steady-state AUC by an average of 82%. The effect of lower ritonavir doses on voriconazole is not known at this time. Until data are available, voriconazole should not be administered to patients receiving KALETRA. |
+| Antimycobacterial: rifabutin* | ↑ rifabutin and rifabutin metabolite | Dosage reduction of rifabutin by at least 75% of the usual dose of 300 mg/day is recommended (i.e., a maximum dose of 150 mg every other day or three times per week). Increased monitoring for adverse reactions is warranted in patients receiving the combination. Further dosage reduction of rifabutin may be necessary. |
+| Antimycobacterial: rifampin | ↓ lopinavir | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents. A study evaluated combination of rifampin 600 mg QD, with KALETRA 800/200 mg BID or KALETRA 400/100 mg + ritonavir 300 mg BID. Pharmacokinetic and safety results from this study do not allow for a dose recommendation. Nine subjects (28%) experienced a ≥ grade 2 increase in ALT/AST, of which seven (21%) prematurely discontinued study per protocol. Based on the study design, it is not possible to determine whether the frequency or magnitude of the ALT/AST elevations observed is higher than what would be seen with rifampin alone. [See CLINICAL PHARMACOLOGY (12.3) for magnitude of interaction]. |
+| Antiparasitic: atovaquone | ↓ atovaquone | Clinical significance is unknown; however, increase in atovaquone doses may be needed. |
+| Benzodiazepines: parenterally administered midazolam | ↑ midazolam | Midazolam is extensively metabolized by CYP3A4. Increases in the concentration of midazolam are expected to be significantly higher with oral than parenteral administration. Therefore, KALETRA should not be given with orally administered midazolam [see Contraindications (4)]. If KALETRA is coadministered with parenteral midazolam, close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised and dosage adjustment should be considered. |
+| Calcium Channel Blockers, dihydropyridine: e.g., felodipine, nifedipine, nicardipine | ↑ dihydropyridine calcium channel blockers | Caution is warranted and clinical monitoring of patients is recommended. |
+| Corticosteroid: dexamethasone | ↓ lopinavir | Use with caution. KALETRA may be less effective due to decreased lopinavir plasma concentrations in patients taking these agents concomitantly. |
+| disulfiram/metronidazole |  | KALETRA oral solution contains alcohol, which can produce disulfiram-like reactions when co-administered with disulfiram or other drugs that produce this reaction (e.g., metronidazole). |
+| PDE5 inhibitors: sildenafil, tadalafil, vardenafil | ↑ sildenafil ↑ tadalafil ↑ vardenafil | Particular caution should be used when prescribing sildenafil, tadalafil, or vardenafil in patients receiving KALETRA. Co-administration of KALETRA with these drugs is expected to substantially increase their concentrations and may result in an increase in associated adverse reactions including hypotension, syncope, visual changes and prolonged erection. It is recommended not to exceed the following doses: Sildenafil: 25 mg every 48 hoursTadalafil: 10 mg every 72 hoursVardenafil: 2.5 mg every 72 hours |
+| HMG-CoA Reductase Inhibitors: atorvastatin* rosuvastatin | ↑ atorvastatin ↑ rosuvastatin | Use lowest possible dose of atorvastatin or rosuvastatin with careful monitoring, or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with KALETRA. |
+| Immunosuppressants: cyclosporine, tacrolimus, rapamycin | ↑ immunosuppressants | Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with KALETRA. |
+| Inhaled Steroid: fluticasone | ↑ fluticasone | Concomitant use of fluticasone propionate and KALETRA may increase plasma concentrations of fluticasone propionate, resulting in significantly reduced serum cortisol concentrations. Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported during post-marketing use in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate. Co-administration of fluticasone propionate and KALETRA is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effect. |
+| Narcotic Analgesic: methadone* | ↓ methadone | Dosage of methadone may need to be increased when co-administered with KALETRA. |
+| Contraceptive: ethinyl estradiol* | ↓ ethinyl estradiol | Because contraceptive steroid concentrations may be altered when KALETRA is co-administered with oral contraceptives or with the contraceptive patch, alternative methods of nonhormonal contraception are recommended. |
+| * See CLINICAL PHARMACOLOGY (12.3) for Magnitude of Interaction. |  |  |
+
+## 7.4 Drugs with No Observed or Predicted Interactions with KALETRA
+
+Drug interaction studies reveal no clinically significant interaction between KALETRA and desipramine (CYP2D6 probe), pravastatin, stavudine, lamivudine, omeprazole or ranitidine.
+
+Based on known metabolic profiles, clinically significant drug interactions are not expected between KALETRA and fluvastatin, dapsone, trimethoprim/sulfamethoxazole, azithromycin, erythromycin, or fluconazole.

@@ -1,4 +1,10 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
+
+Overdoses with KALETRA oral solution have been reported.
+One of these reports described fatal cardiogenic shock in a 2.1 kg infant who received a single dose of 6.5 mL of KALETRA oral solution nine days prior.
+However, a causal relationship between the overdose and the outcome could not be established.
+Healthcare professionals should be aware that KALETRA oral solution is highly concentrated and therefore, should pay special attention to accurate calculation of the dose of KALETRA, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors and overdose.
+This is especially important for infants and young children.
 
 KALETRA oral solution contains 42.4% alcohol (v/v).
 Accidental ingestion of the product by a young child could result in significant alcohol-related toxicity and could approach the potential lethal dose of alcohol.
