@@ -12,17 +12,16 @@ IF AN ALLERGIC REACTION OCCURS, BICILLIN L-A SHOULD BE DISCONTINUED AND APPROPRI
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-## Pseudomembranous Colitis
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin L-A, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including penicillin, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of any antibacterial agent.
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibacterial use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis".
-
-After the diagnosis of pseudomembranous colitis has been established, appropriate therapeutic measures should be initiated.
-Mild cases of pseudomembraneous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## Method of Administration
 
@@ -53,6 +52,10 @@ Care should be taken to avoid intravenous or intra-arterial administration, or i
 
 Prolonged use of antibiotics may promote the overgrowth of nonsusceptible organisms, including fungi.
 Should superinfection occur, appropriate measures should be taken.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
 

@@ -29,6 +29,6 @@
    J., 112:395, 1975.
 9. SCHANZER, H. et al: Accidental intra-arterial injection of penicillin G. JAMA, 242:1289, 1979.
 
-Prescribing Information as of August 2006.
+Prescribing Information as of December 2006.
 
 Manufactured and Distributed by: King Pharmaceuticals, Inc., Bristol, TN 37620
