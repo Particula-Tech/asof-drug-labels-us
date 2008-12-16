@@ -16,11 +16,11 @@ Summary of pharmacodynamic properties of insulin products (pooled cross-study co
 | Insulin Products | Dose (U/kg) Used in Study | Recommended interval between dosing and meal initiation (minutes)Applicable only to Novolin® R and NovoLog® alone or as components of insulin mixes. | Time of Peak Activity (hours after dosing)(mean± SD) | Percent of Total Activity Occurring in the First 4 hours (mean, range) |
 | --- | --- | --- | --- | --- |
 | NovoLog® | 0.3 | 10-20 | 2.2 ± 0.98 | 65% ± 11% |
-| Novolin R® | 0.2 | 30 | 3.3 | 60% ± 16% |
-| Novolin 50/50® | 0.5 | 30 | 4.0 ± 0.6 | 54% ± 12% |
-| NovoLog Mix 70/30® | 0.3 | 10-20 | 2.4 ± 0.80 | 45% ± 22% |
-| Novolin 70/30® | 0.3 | 30 | 4.2 ± 0.39 | 25% ± 5% |
-| Novolin N® | 0.3 | n/a | 8.0 ± 5.3 | 21% ±11% |
+| Novolin® R | 0.2 | 30 | 3.3 | 60% ± 16% |
+| Novolin® 50/50 | 0.5 | 30 | 4.0 ± 0.6 | 54% ± 12% |
+| NovoLog® Mix 70/30 | 0.3 | 10-20 | 2.4 ± 0.80 | 45% ± 22% |
+| Novolin® 70/30 | 0.3 | 30 | 4.2 ± 0.39 | 25% ± 5% |
+| Novolin® N | 0.3 | n/a | 8.0 ± 5.3 | 21% ±11% |
 
 ## Administration using NovoLog Mix 70/30 FlexPen® Prefilled Syringes or vials:
 

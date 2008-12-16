@@ -12,7 +12,7 @@ If refrigeration is not possible, the bottle in use can be kept unrefrigerated a
 Unpunctured vials can be used until the expiration date printed on the label if they are stored in a refrigerator.
 Keep unused vials in the carton so they will stay clean and protected from light.
 
-## NovoLog Mix 70/30 FlexPen® Prefilled Syringes:
+## NovoLog Mix® 70/30 FlexPen® Prefilled Syringes:
 
 Once a NovoLog® Mix 70/30 FlexPen® prefilled syringe is punctured, it may be used for up to 14 days if it is kept at room temperature below 30°C (86°F).
 NovoLog® Mix 70/30 FlexPen® prefilled syringes in use must NOT be stored in the refrigerator.

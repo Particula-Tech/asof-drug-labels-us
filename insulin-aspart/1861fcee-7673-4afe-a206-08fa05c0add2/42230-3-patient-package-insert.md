@@ -1,235 +1,232 @@
 # PATIENT INFORMATION
 
-Patient Information for 10 mL vials (100 Units/mL, U-100)
-
 NovoLog® Mix 70/30
 
-70% insulin aspart protamine suspension and
+(NŌ-vō-log-MIX-SEV-en-tee-THIR-tee)
 
-30% insulin aspart injection, (rDNA origin)
+(70% insulin aspart protamine suspension and 30% insulin aspart injection, [rDNA origin])
 
-What is the most important information I should know about NovoLog® Mix 70/30?
+Important:
 
-WARNINGS
+Know your insulin.
+Do not change the type of insulin you use unless told to do so by your healthcare provider.
+The amount of insulin you take as well as the best time for you to take your insulin may need to change if you take a different type of insulin.
 
-THIS NOVO NORDISK® HUMAN INSULIN ANALOG MIXTURE IS DIFFERENT FROM OTHER INSULIN MIXTURES BECAUSE IT HAS A RAPID ONSET OF ACTION.
-THE RAPID ONSET OF ACTION MEANS THAT YOU SHOULD TAKE YOUR DOSE OF NOVOLOG® MIX 70/30 (70% INSULIN ASPART PROTAMINE SUSPENSION AND 30% INSULIN ASPART INJECTION, [rDNA ORIGIN]) WITHIN 15 MINUTES OF A MEAL.
+Make sure you know the type and strength of insulin prescribed for you.
 
-ANY CHANGE OF INSULIN SHOULD BE MADE CAUTIOUSLY AND ONLY UNDER MEDICAL SUPERVISION.
-CHANGES IN STRENGTH, MANUFACTURER, TYPE (E.G., REGULAR, NPH, ANALOG), SPECIES (BEEF, PORK, BEEF-PORK, HUMAN), OR METHOD OF MANUFACTURE (rDNA VERSUS ANIMAL-SOURCE INSULIN) MAY RESULT IN THE NEED FOR A CHANGE IN THE TIMING OR DOSAGE OF NOVOLOG® MIX 70/30.
+Read the Patient Information that comes with NovoLog Mix 70/30 before you start taking it and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your healthcare provider about your diabetes or your treatment.
+Make sure you know how to manage your diabetes.
+Ask your healthcare provider if you have any questions about managing your diabetes.
 
-PATIENTS TAKING NOVOLOG® MIX 70/30 MAY REQUIRE A CHANGE IN DOSAGE FROM THAT USED WITH OTHER INSULINS.
-IF AN ADJUSTMENT IS NEEDED, IT MAY OCCUR WITH THE FIRST DOSE OR DURING THE FIRST SEVERAL WEEKS OR MONTHS.
+What is NovoLog Mix 70/30?
 
-What is NovoLog® Mix 70/30?
+NovoLog Mix 70/30 is a man-made insulin that is used to control high blood sugar in adults with diabetes mellitus.
 
-NovoLog® Mix 70/30 (NO-voe-log-MIX-SEV-en-tee-THIR-tee) is a mixed insulin analog similar to human insulin mixes used to treat diabetes.
-The active ingredient in NovoLog® Mix 70/30 is insulin aspart, which is made through biotechnology.
-Another ingredient, protamine, is used to slow the absorption of the insulin analog by your body.
+Who should not use NovoLog Mix 70/30?
 
-NovoLog® Mix 70/30 comes in:
-
-- 10 mL vials (small bottles) for use with a syringe
-- 3 mL NovoLog® Mix 70/30 FlexPen® prefilled syringe
-
-Who should NOT take NovoLog® Mix 70/30?
-
-Do NOT take NovoLog® Mix 70/30 if:
+Do not take NovoLog Mix 70/30 if:
 
 - Your blood sugar is too low (hypoglycemia).
-- You are allergic to NovoLog® Mix 70/30 or any of its ingredients.
-  Check with your doctor or pharmacist if you want information about ingredients.
-- You are not planning to eat within 15 minutes of your injection.
+- You are allergic to anything in NovoLog Mix 70/30.
+  See the end of this leaflet for a complete list of ingredients in NovoLog Mix 70/30.
+  Check with your healthcare provider if you are not sure.
 
-Tell your doctor if:
+Tell your healthcare provider:
 
-- You have liver or kidney problems.
-  Your dose may need to be changed.
+- about all of your medical conditions.
+  Medical conditions can affect your insulin needs and your dose of NovoLog Mix 70/30.
+- if you are pregnant or breastfeeding.
+  You and your healthcare provider should talk about the best way to manage your diabetes while you are pregnant or breastfeeding.
+  NovoLog Mix 70/30 has not been studied in pregnant or nursing women.
+- about all medicines you take, including prescriptions and non-prescription medicines, vitamins and herbal supplements.
+  Your NovoLog Mix 70/30 dose may change if you take other medicines.
 
-- You are pregnant or planning to become pregnant.
-  It is not known whether NovoLog® Mix 70/30 can cause any harm to the baby if it is taken during pregnancy.
-- You are breast-feeding or planning to breast-feed.
-  It is not known whether NovoLog® Mix 70/30 is passed through in human milk, as is human insulin.
-  Many drugs, including human insulin, are present in human milk, and may affect the baby.
-- You take any other medicines, including prescription and non-prescription medicines and herbal supplements.
-  Your NovoLog® Mix 70/30 need may change if you take other medicines.
-  Be sure to mention if you take the following:
-  - oral hypoglycemic medicines (medicines you take by mouth to treat non insulin-dependent [Type 2] diabetes)
-  - monoamine oxidase (MAO) inhibitors (used to treat depression)
-  - beta-blocking agents (used to treat certain heart conditions or high blood pressure)
-  - angiotensin converting enzyme (ACE) inhibitors (used to treat certain heart conditions or high blood pressure)
-  - salicylates, including aspirin (used to relieve pain or lower fever)
-  - anabolic steroids and glucocorticoids
-  - oral contraceptives (used for birth control)
-  - diuretics such as thiazides (used to treat high blood pressure or swelling [edema])
-  - thyroid hormones (used to treat thyroid gland problems)
-  - danazol (used to treat endometriosis)
-  - octreotide (used to treat gigantism or other rare endocrine tumors)
-  - sulfa antibiotics (used to treat infections)
+Know the medicines you take.
+Keep a list of your medicines with you to show your healthcare providers when you get a new medicine.
 
-How should I take NovoLog® Mix 70/30?
+How should I take NovoLog Mix 70/30?
 
-- Follow your doctor’s instructions about monitoring your blood sugar.
-- Before injecting, make sure that you have the correct type and strength of insulin.
-  Carefully follow the instructions on how to use your insulin syringe or pen
-- Inject your NovoLog® Mix 70/30 fifteen minutes or less before a meal.
-- Inject NovoLog® Mix 70/30 under your skin (subcutaneously).
-  Never inject it into a vein.
-- The effect of an injected insulin dose may occur faster if the insulin is injected into your abdomen (stomach area).
-  However, you may also inject under the skin of your thigh, or upper arm.
-- Change (rotate) injection sites within the same body area.
-- Measure your blood sugar level as directed by your doctor.
-- Carefully follow the instructions given by your doctor about the type of insulin you are using, its dose, and time of its injection.
-  Any change in insulin should be made cautiously and only with your doctor’s guidance.
-  Your insulin needs may change due to a number of factors, such as illness, stress, medicines, or changes in diet or exercise routines.
-  Follow your doctor’s instructions to make these changes in your dose regimen.
-- Clean your hands and the injection site with soap and water or with alcohol before you start the injection process.
+Only use NovoLog Mix 70/30 if it appears uniformly white and cloudy after mixing.
+There may be air bubbles.
+This is normal.
+If it looks clear or if it contains solid particles do not use it and call Novo Nordisk at 1-800-727-6500.
 
-See the end of this patient information for instructions about preparing and giving the injection.
+NovoLog Mix 70/30 comes in:
 
-What should I do during illness?
+- 10 mL vials (small bottles) for use with syringe
+- 3 mL NovoLog Mix 70/30 FlexPen®
 
-Even if you have a short term (acute) illness, especially with vomiting or fever, continue taking your insulin.
-If possible, stay on your regular diet.
-If you have trouble eating, drink fruit juices, regular soft drinks, or clear soups.
-If you can, eat small amounts of bland foods.
-Test your urine for glucose and ketones and, if possible, test your blood glucose.
-Note the results and contact your health care provider for possible insulin dose adjustment.
-If you have severe and continued vomiting, get emergency medical care.
+Read the instructions for use that come with your NovoLog Mix 70/30 product.
+Talk to your healthcare provider if you have any questions.
+Your healthcare provider should show you how to inject NovoLog Mix 70/30 before you start taking it.
 
-What should I avoid while taking NovoLog® Mix 70/30?
+- Take NovoLog Mix 70/30 exactly as prescribed.
+  You should eat a meal within 15 minutes after using NovoLog Mix 70/30 to avoid low blood sugar.
+- NovoLog Mix 70/30 is a pre-mixed insulin.
+  The effects of NovoLog Mix 70/30 start working within 15 minutes after injection.
+- Do not inject NovoLog Mix 70/30 if you are not planning to eat within 15 minutes.
+- Never mix NovoLog Mix 70/30 with other insulin products.
+- Never use NovoLog Mix 70/30 in an insulin pump.
+- Inject NovoLog Mix 70/30 into the skin of your stomach area, upper arms, buttocks or upper legs.
+  NovoLog Mix 70/30 may affect your blood sugar levels sooner if you inject it into the skin of your stomach area.
+  Never inject NovoLog Mix 70/30 into a vein or into a muscle.
+- Change (rotate) your injection site within the chosen area (for example, stomach or upper arm) with each dose.
+  Do not inject into the exact same spot for each injection.
+- If you take too much NovoLog Mix 70/30, your blood sugar may fall low (hypoglycemia).
+  You can treat mild low blood sugar (hypoglycemia) by drinking or eating something sugary right away (fruit juice, sugar candies, or glucose tablets).
+  It is important to treat low blood sugar (hypoglycemia) right away because it could get worse and you could pass out (become unconscious).
+  If you pass out you will need help from another person or emergency medical services right away, and will need treatment with a glucagon injection or treatment at a hospital.
+  See "What are the possible side effects of NovoLog Mix 70/30?" for more information on low blood sugar (hypoglycemia).
+- If you forget to take your dose of NovoLog Mix 70/30, your blood sugar may go too high (hyperglycemia).
+  If high blood sugar (hyperglycemia) is not treated it can lead to serious problems, like loss of consciousness (passing out), coma or even death.
+  Follow your healthcare provider's instructions for treating high blood sugar.
+  Know your symptoms of high blood sugar which may include:
 
-Alcohol, including beer and wine, may increase and lengthen the risk of hypoglycemia (too low blood sugar) when you take NovoLog® Mix 70/30.
+| increased thirst | a hard time breathing |
+| --- | --- |
+| frequent urination | fruity smell on the breath |
+| drowsiness | high amounts of sugar and ketones in your urine |
+| loss of appetite | nausea, vomiting (throwing up) or stomach pain |
 
-Be careful when you drive a car or operate machinery.
-Your ability to concentrate or react may be reduced if you have hypoglycemia.
+- Check your blood sugar levels.
+  Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 
-Ask your doctor if you should drive if you have:
+Your insulin dosage may need to change because of:
 
-- frequent hypoglycemia
-- reduced or absent warning signs of hypoglycemia
+| illness | change in diet |
+| --- | --- |
+| stress | change in physical activity or exercise |
+| other medicines you take |  |
 
-What are the possible side effects of NovoLog® Mix 70/30?
+What should I avoid while using NovoLog Mix 70/30?
 
-Common side effects include blood sugar that is too low (hypoglycemia).
+- Alcohol.
+  Alcohol, including beer and wine, may affect your blood sugar when you take NovoLog Mix 70/30.
+- Driving and operating machinery.
+  You may have difficulty concentrating or reacting if you have low blood sugar (hypoglycemia).
+  Be careful when you drive a car or operate machinery.
+  Ask your healthcare provider if it is alright to drive if you often have:
+  - low blood sugar
+  - decreased or no warning signs of low blood sugar
 
-Hypoglycemia (too little glucose in the blood) is one of the most frequent problems experienced by insulin users.
-It can be brought about by:
+What are the possible side effects of NovoLog Mix 70/30?
 
-1. Missing or delaying meals
-2. Taking too much insulin
-3. Exercising or working more than usual
-4. An infection or illness (especially with diarrhea or vomiting)
-5. A change in the body’s need for insulin
-6. Diseases of the adrenal, pituitary, or thyroid gland, or kidney or liver disease that is getting worse
-7. Interactions with other drugs that lower blood glucose, such as oral (taken by mouth) antidiabetic medicines, salicylates (for example, aspirin), sulfa antibiotics, and certain antidepressants
-8. Drinking of alcohol
+- low blood sugar (hypoglycemia).
+  Symptoms of low blood sugar may include:
 
-What are symptoms of mild to moderate hypoglycemia?
+| sweating | trouble concentrating or confusion |
+| --- | --- |
+| dizziness or lightheadedness | blurred vision |
+| shakiness | slurred speech |
+| hunger | anxiety, irritability or mood changes |
+| fast heart beat | headache |
+| tingling of lips and tongue |  |
 
-- Sweating
-- Dizziness
-- Palpitation (fast heart beat)
-- Tremor (shakiness)
-- Hunger
-- Restlessness
-- Tingling in the hands, feet, lips, or tongue
-- Lightheadedness
-- Trouble concentrating
-- Headache
-- Drowsiness
-- Sleep problems
-- Anxiety
-- Blurred vision
-- Slurred speech
-- Depressed mood
-- Irritability
-- Abnormal behavior
-- Unsteady movement
-- Personality change
+Severe low blood sugar can cause unconsciousness (passing out), seizures, and death.
+Know your symptoms of low blood sugar.
+Follow your healthcare provider's instructions for treating low blood sugar.
+Talk to your healthcare provider if low blood sugar is a problem for you.
 
-What are symptoms of severe hypoglycemia?
-
-- Disorientation
-- Unconsciousness
-- Seizures (convulsions)
-- Death
-
-If you develop serious hypoglycemic reactions, get medical help right away.
-
-Without recognition of early warning symptoms, you may not be able to take steps to avoid more serious hypoglycemia.
-Be alert for all of the various types of symptoms that may indicate hypoglycemia.
-Patients who experience hypoglycemia without early warning symptoms should monitor their blood glucose frequently, especially prior to activities such as driving.
-If the blood glucose is below your normal fasting glucose, you should consider eating or drinking sugar-containing foods to treat your hypoglycemia.
-Mild to moderate hypoglycemia may be treated by eating foods or drinks that contain sugar.
-Patients should always carry a quick source of sugar, such as candy mints or glucose tablets.
-More severe hypoglycemia may require the assistance of another person.
-Patients who are unable to take sugar orally or who are unconscious require an injection of glucagon or should be treated with intravenous administration of glucose at a medical facility.
-You should learn to recognize your own symptoms of hypoglycemia.
-If you are uncertain about these symptoms, you should monitor your blood glucose frequently to help you learn to recognize the symptoms that you experience with hypoglycemia.
-
-If you have frequent episodes of hypoglycemia or experience difficulty in recognizing the symptoms, you should consult your doctor to discuss possible changes in therapy, meal plans, and/or exercise programs to help you avoid hypoglycemia.
-
-Common side effects include blood sugar that is too high (hyperglycemia) and diabetic ketoacidosis.
-
-Hyperglycemia (too much glucose in the blood) may develop if your body has too little insulin.
-Hyperglycemia can be brought about by any of the following:
-
-1. Not taking your insulin or taking less than the doctor has prescribed
-2. Eating much more than your meal plan suggests
-3. Developing a fever, infection, or being under stress
-
-In patients with type 1 or insulin-dependent diabetes, long-lasting hyperglycemia can cause diabetic ketoacidosis (DKA).
-The first symptoms of DKA usually come on slowly, over a period of hours or days, and include feeling drowsy, flushed face, thirst, loss of appetite, and fruity odor on the breath.
-With DKA, urine tests show large amounts of glucose and ketones.
-Heavy breathing and a rapid pulse are more severe symptoms.
-If uncorrected, long-lasting hyperglycemia or DKA can lead to nausea, vomiting, stomach pains, dehydration, loss of consciousness, or even death.
-Therefore, it is important that you obtain medical help right away.
-
-Other possible side effects include the following:
-
-- Serious allergic reaction.
-
-Get medical help right away if you develop a rash over your whole body, have trouble breathing, a fast heartbeat, or sweating.
-These are signs of a dangerous allergic reaction (systemic allergic reaction).
-These reactions are not common.
-
-- Reaction at the injection site (local allergic reaction).
-  You may get redness, swelling and itching at the injection site.
-  If you have serious or continuing reactions, you may need to stop using NovoLog® Mix 70/30 and use another insulin.
-  Do not inject insulin into skin sites with these reactions.
-  No type of insulin should be injected into skin sites with these reactions.
-- Skin thickens or pits at the injection site, especially if the injection site is not rotated (changed).
-- Vision changes that may require evaluation by an ophthalmologist (medical doctor specializing in eye disease) or changes in your eyeglasses or contact lens prescription.
-- Fluid retention or swelling of your hands and feet.
+- Serious allergic reaction (whole body reaction).
+  Get medical help right away, if you develop a rash over your whole body, have trouble breathing, a fast heartbeat, or sweating.
+- Reactions at the injection site (local allergic reaction).
+  You may get redness, swelling, and itching at the injection site.
+  If you keep having skin reactions or they are serious talk to your healthcare provider.
+  You may need to stop using NovoLog Mix 70/30 and use a different insulin.
+  Do not inject insulin into skin that is red, swollen, or itchy.
+- Skin thickens or pits at the injection site (lipodystrophy).
+  Change (rotate) where you inject your insulin to help to prevent these skin changes from happening.
+  Do not inject insulin into this type of skin.
+- Swelling of your hands and feet
+- Vision changes
 - Low potassium in your blood (hypokalemia)
 
-There are other possible side effects from NovoLog® Mix 70/30.
-Ask your doctor or pharmacist for further information.
-Tell your doctor or pharmacist if you have any other unwanted effects that you believe are caused by this insulin.
+These are not all of the possible side effects from NovoLog Mix 70/30.
+Ask your healthcare provider or pharmacist for more information.
 
-How should I store NovoLog®Mix 70/30?
+Call your healthcare provider for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-- Unused insulin:
+How should I store NovoLog Mix 70/30?
 
-Store insulin in a refrigerator (2°C to 8°C [36°F to 46°F]), but not in a freezer.
-Do not use NovoLog® Mix 70/30 if it has been frozen.
-Keep unused vials in the carton so they will stay clean and protected from light.
+All Unopened NovoLog Mix 70/30:
 
-- After starting to use the insulin:
+- Keep all unopened NovoLog Mix 70/30 in the refrigerator between 36° to 46° F (2° to 8° C).
+- Do not freeze.
+  Do not use NovoLog Mix 70/30 if it has been frozen.
+- Keep unopened NovoLog Mix 70/30 in the carton to protect from light.
 
-The vials should be stored in a refrigerator, not in a freezer.
-If refrigeration is not possible, the bottle that you are currently using can be kept unrefrigerated at room temperature (below 30ºC [86ºF]) up to 28 days, as long as it is kept as cool as possible.
-Keep all vials away from direct heat and sunlight.
+NovoLog Mix 70/30 in use:
 
-- Throw away unrefrigerated NovoLog® Mix 70/30 vials after 28 days, even if they still contain insulin.
+- Vials
+  - Keep in the refrigerator or at room temperature below 86° F (30° C) for up to 28 days.
+  - Keep vials away from direct heat or light.
+  - Throw away an opened vial after 28 days of use, even if there is insulin left in the vial.
+  - Unopened vials can be used until the expiration date on the NovoLog Mix 70/30 label, if the medicine has been stored in a refrigerator.
 
-General information about NovoLog Mix 70/30
+- NovoLog Mix 70/30 FlexPen
+  - Keep at room temperature below 86° F (30° C) for up to 14 days.
+  - Do not store a NovoLog Mix 70/30 FlexPen that you are using in the refrigerator.
+  - Keep NovoLog Mix 70/30 FlexPen away from direct heat or light.
+  - Throw away a used NovoLog Mix 70/30 FlexPen after 14 days, even if there is insulin left in the syringe.
 
-Use NovoLog® Mix 70/30 only to treat your diabetes.
-Do not share it with anyone else.
-Ask your doctor or pharmacist about any concerns you have.
-They can answer your questions and give you written information about NovoLog® Mix 70/30 written for health care professionals.
+General advice about NovoLog Mix 70/30
+
+Medicines are sometimes prescribed for conditions that are not mentioned in the patient leaflet.
+Do not use NovoLog Mix 70/30 for a condition for which it was not prescribed.
+Do not give NovoLog Mix 70/30 to other people, even if they have the same symptoms you have.
+It may harm them.
+
+This leaflet summarizes the most important information about NovoLog Mix 70/30.
+If you would like more information about NovoLog Mix 70/30 or diabetes, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about NovoLog Mix 70/30 that is written for healthcare professionals.
+Call 1-800-727-6500 or visit www.novonordisk-us.com for more information.
+
+Helpful information for people with diabetes is published by the American Diabetes Association, 1701 N Beauregard Street, Alexandria, VA 22311 and on www.diabetes.org.
+
+NovoLog Mix 70/30 ingredients include:
+
+| insulin aspart | metacresol |
+| --- | --- |
+| protamine sulfate | zinc |
+| glycerol (NovoLog Mix 70/30 FlexPen only | disodium hydrogen phosphate dihydrate |
+| mannitol (NovoLog Mix 70/30 vials only) | sodium chloride |
+| phenol | water for injection |
+|  | hydrochloric acid or sodium hydroxide |
+
+All NovoLog Mix 70/30 vials and NovoLog Mix 70/30 FlexPen are latex free.
+
+Date of Issue: November 28, 2008
+
+Version: 6
+
+NovoLog®, FlexPen®, NovoFine®, are trademarks of Novo Nordisk A/S.
+
+NovoLog® is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+
+FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
+
+© 2002-2008 Novo Nordisk Inc.
+
+Manufactured by:
+
+Novo Nordisk A/S
+
+DK-2880 Bagsvaerd, Denmark
+
+For information about NovoLog Mix 70/30® contact:
+
+Novo Nordisk Inc.
+
+100 College Road West
+
+Princeton, New Jersey 08540
+
+INSTRUCTIONS FOR USE
+
+NovoLog® Mix 70/30 10 mL vial (100 units/mL, U-100)
 
 How should I prepare and deliver the injection using the 10 ml vial?
 
@@ -265,32 +262,178 @@ How should I inject NovoLog® Mix 70/30 insulin with a syringe?
 3. If blood appears after you pull the needle from your skin, press the injection site lightly with a finger.
    Do not rub the area.
 
-Helpful information for people with diabetes is published by the American Diabetes Association, 1660 Duke Street, Alexandria, VA 22314.
+INSTRUCTIONS FOR USE
 
-Date of Issue: October 2007
+NovoLog® Mix 70/30 FlexPen®
 
-Version: 5
+Introduction
 
-Novo Nordisk®, NovoLog®, FlexPen® and NovoFine® are trademarks owned by Novo Nordisk A/S.
+Please read the following instructions carefully before using your NovoLog® Mix 70/30 FlexPen®.
 
-© 2002–2007 Novo Nordisk A/S
+NovoLog Mix 70/30 FlexPen is a disposable dial-a-dose insulin pen.
+You can select doses from 1 to 60 units in increments of 1 unit.
+NovoLog Mix 70/30 FlexPen is designed to be used with NovoFine® needles.
 
-NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+- Δ NovoLog Mix 70/30 FlexPen should not be used by people who are blind or have severe visual problems without the help of a person who has good eyesight and who is trained to use the NovoLog Mix 70/30 FlexPen the right way.
 
-For information about NovoLog® Mix 70/30 contact:
+Getting ready
 
-Novo Nordisk Inc.
+Make sure you have the following items:
 
-100 College Road West
+- NovoLog Mix 70/30 FlexPen
+- New NovoFine needle
+- Alcohol swab
 
-Princeton, New Jersey 08540
+Preparing your NovoLog Mix 70/30 FlexPen
 
-1-800-727-6500
+Wash your hands with soap and water.
+Before you start to prepare your injection, check the label to make sure that you are taking the right type of insulin.
+This is especially important if you take more than 1 type of insulin.
+NovoLog Mix 70/30 should look cloudy after mixing.
+Before your first injection with a new NovoLog Mix 70/30 FlexPen you must mix the insulin:
 
-www.novonordisk-us.com
+A. Let the insulin reach room temperature before you use it.
+This makes it easier to mix.
 
-Manufactured by
+Pull off the pen cap (see diagram A).
 
-Novo Nordisk A/S
+B. Roll the pen between your palms 10 times - it is important that the pen is kept horizontal (see diagram B).
 
-DK-2880 Bagsvaerd, Denmark
+C. Then gently move the pen up and down ten times between position 1 and 2 as shown, so the glass ball moves from one end of the cartridge to the other (see diagram C).
+
+Repeat rolling and moving the pen until the liquid appears uniformly white and cloudy.
+
+For every following injection move the pen up and down between positions 1 and 2 at least ten times until the liquid appears uniformly white and cloudy.
+
+After mixing, complete all the following steps of injection without delay.
+
+Wipe the rubber stopper with an alcohol swab.
+
+- Δ Before you inject, there must be at least 12 units of insulin left in the cartridge to make sure the remaining insulin is evenly mixed.
+  If there are less than 12 units left, use a new NovoLog Mix 70/30 FlexPen.
+
+D. Attaching the needle
+
+Remove the protective tab from a disposable needle.
+
+Screw the needle tightly onto your FlexPen.
+It is important that the needle is put on straight (see diagram D).
+
+Never place a disposable needle on your NovoLog Mix 70/30 FlexPen until you are ready to take your injection.
+
+E. Pull off the big outer needle cap (see diagram E).
+
+F. Pull off the inner needle cap and dispose of it (see diagram F).
+
+- Δ Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
+- Δ Be careful not to bend or damage the needle before use.
+- Δ To reduce the risk of unexpected needle sticks, never put the inner needle cap back on the needle.
+
+Giving the airshot before each injection
+
+Before each injection small amounts of air may collect in the cartridge during normal use.
+To avoid injecting air and to ensure proper dosing:
+
+G. Turn the dose selector to select 2 units (see diagram G).
+
+H. Hold your NovoLog Mix 70/30 FlexPen with the needle pointing up.
+Tap the cartridge gently with your finger a few times to make any air bubbles collect at the top of the cartridge (see diagram H).
+
+I. Keep the needle pointing upwards, press the push-button all the way in (see diagram I). The dose selector returns to 0.
+
+A drop of insulin should appear at the needle tip.
+If not, change the needle and repeat the procedure no more than 6 times.
+
+If you do not see a drop of insulin after 6 times, do not use the NovoLog Mix 70/30 FlexPen and contact Novo Nordisk at 1-800-727-6500.
+
+A small air bubble may remain at the needle tip, but it will not be injected.
+
+Selecting your dose
+
+Check and make sure that the dose selector is set at 0.
+
+J. Turn the dose selector to the number of units you need to inject.
+The pointer should line up with your dose.
+
+The dose can be corrected either up or down by turning the dose selector in either direction until the correct dose lines up with the pointer (see diagram J). When turning the dose selector, be careful not to press the push-button as insulin will come out.
+
+You cannot select a dose larger than the number of units left in the cartridge.
+
+You will hear a click for every single unit dialed.
+Do not set the dose by counting the number of clicks you hear.
+
+- Δ Do not use the cartridge scale printed on the cartridge to measure your dose of insulin.
+
+Giving the injection
+
+Do the injection exactly as shown to you by your healthcare provider.
+Your healthcare provider should tell you if you need to pinch the skin before injecting.
+
+K. Insert the needle into your skin.
+
+Inject the dose by pressing the push-button all the way in until the 0 lines up with the pointer (see diagram K). Be careful only to push the button when injecting.
+
+Turning the dose selector will not inject insulin.
+
+L. Keep the needle in the skin for at least 6 seconds, and keep the push-button pressed all the way in until the needle has been pulled out from the skin (see diagram L). This will make sure that the full dose has been given.
+
+You may see a drop of NovoLog Mix 70/30 at the needle tip.
+This is normal and has no effect on the dose you just received.
+If blood appears after you take the needle out of your skin, press the injection site lightly with a finger.
+Do not rub the area.
+
+After the injection
+
+Do not recap the needle.
+Recapping can lead to a needle stick injury.
+Remove the needle from the NovoLog Mix 70/30 FlexPen after each injection.
+This helps to prevent infection, leakage of insulin, and will help to make sure you inject the right dose of insulin.
+
+- Δ Put the needle and any empty NovoLog Mix 70/30 FlexPen or any used NovoLog Mix 70/30 FlexPen still containing insulin in a sharps container or some type of hard plastic or metal container with a screw top such as a detergent bottle or empty coffee can.
+  These containers should be sealed and thrown away the right way.
+  Check with your healthcare provider about the right way to throw away used syringes and needles.
+  There may be local or state laws about how to throw away used needles and syringes.
+  Do not throw away used needles and syringes in household trash or recycling bins.
+
+The NovoLog Mix 70/30 FlexPen prevents the cartridge from being completely emptied.
+It is designed to deliver 300 units.
+
+M. Put the pen cap on the NovoLog Mix 70/30 FlexPen and store the NovoLog Mix 70/30 FlexPen without the needle attached (see diagram M).
+
+Function Check
+
+N. If your NovoLog Mix 70/30 FlexPen is not working the right way, follow the steps below:
+
+- Screw on a new NovoFine needle.
+- Remove the big outer needle cap and the inner needle cap.
+- Do an airshot as described in "Giving the airshot before each injection".
+- Put the big outer needle cap onto the needle.
+  Do not put on the inner needle cap.
+- Turn the dose selector so the dose indicator window shows 20 units.
+- Hold the NovoLog Mix 70/30 FlexPen so the needle is pointing down.
+- Press the push-button all the way in.
+
+The insulin should fill the lower part of the big outer needle cap (see diagram N). If NovoLog Mix 70/30 FlexPen has released too much or too little insulin, do the function check again.
+If the same problem happens again, do not use your NovoLog Mix 70/30 FlexPen and contact Novo Nordisk at 1-800-727-6500.
+
+Maintenance
+
+Your FlexPen is designed to work accurately and safely.
+It must be handled with care.
+Avoid dropping your FlexPen as it may damage it.
+If you are concerned that your FlexPen is damaged, use a new one.
+You can clean the outside of your FlexPen by wiping it with a damp cloth.
+Do not soak or wash your FlexPen as it may damage it.
+Do not refill your FlexPen.
+
+- Δ Remove the needle from the NovoLog Mix 70/30 FlexPen after each injection.
+  This helps to ensure sterility, prevent leakage of insulin, and will help to make sure you inject the right dose of insulin for future injections.
+- Δ Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
+- Δ Keep your NovoLog Mix 70/30 FlexPen and needles out of the reach of children.
+- Δ Use NovoLog Mix 70/30 FlexPen as directed to treat your diabetes.
+  Do not share it with anyone else even if they also have diabetes.
+- Δ Always use a new needle for each injection.
+- Δ Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
+- Δ As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog Mix 70/30 FlexPen is lost or damaged.
+- Δ Remember to keep the disposable NovoLog Mix 70/30 FlexPen with you.
+  Do not leave it in a car or other location where it can get too hot or too cold.
