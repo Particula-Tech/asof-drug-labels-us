@@ -96,7 +96,7 @@ If you notice any side effects not mentioned in this leaflet, or if you have any
 How and where should I store TAMIFLU?
 
 TAMIFLU Capsules should be stored at room temperature, 77ºF (25ºC) and kept in a dry place.
-Keep this medication out of reach of children.
+Keep this medication out of reachof children.
 
 TAMIFLU for Oral Suspension should be stored under refrigeration at 36º to 46ºF (2º to 8ºC).
 Do not freeze.

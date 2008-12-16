@@ -20,7 +20,7 @@ Resistance substitutions selected in cell culture in neuraminidase are I222T and
 Substitutions E119V, R292K and R305Q have been selected in avian influenza A neuraminidase N9.
 Substitutions A28T and R124M have been selected in the hemagglutinin of influenza A H3N2 and substitution H154Q in the hemagglutinin of a reassortant human/avian virus H1N9.
 
-In clinical studies in the treatment of naturally acquired infection with influenza virus, 1.3% (4/301) of posttreatment isolates in adult patients and adolescents, and 8.6% (9/105) in pediatric patients aged 1 to 12 years showed emergence of influenza variants with decreased neuraminidase susceptibility in cell culture to oseltamivir carboxylate.
+In clinical studies in the treatment of naturally acquired infection with influenza virus, 1.3% (4/301) of posttreatment isolates in adult patients andadolescents, and 8.6% (9/105) in pediatric patients aged 1 to 12 years showed emergence of influenza variants with decreased neuraminidase susceptibility in cell culture to oseltamivir carboxylate.
 Substitutions in influenza A neuraminidase resulting in decreased susceptibility were H274Y in neuraminidase N1 and E119V and R292K in neuraminidase N2.
 Insufficient information is available to fully characterize the risk of emergence of TAMIFLU resistance in clinical use.
 
@@ -43,10 +43,10 @@ Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110–1199
 
 Licensor: Gilead Sciences, Inc. Foster City, California 94404
 
-27899466
+27899527
 
 PI Rev.
-January 2008
+August 2008
 
 Copyright© 1999-2008 by Roche Laboratories Inc. All rights reserved.
 
