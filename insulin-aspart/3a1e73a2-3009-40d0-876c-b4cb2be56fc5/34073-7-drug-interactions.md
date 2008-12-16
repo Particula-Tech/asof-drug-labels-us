@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 A number of substances affect glucose metabolism and may require insulin dose adjustment and particularly close monitoring.
 

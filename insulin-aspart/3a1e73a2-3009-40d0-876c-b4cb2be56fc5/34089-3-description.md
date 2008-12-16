@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 NovoLog (insulin aspart [rDNA origin] injection) is a rapid-acting human insulin analog used to lower blood glucose.
 NovoLog is homologous with regular human insulin with the exception of a single substitution of the amino acid proline by aspartic acid in position B28, and is produced by recombinant DNA technology utilizing Saccharomyces cerevisiae (baker's yeast).

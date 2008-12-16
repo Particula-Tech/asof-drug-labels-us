@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 [See FDA Approved Patient Labeling (17.3)]
 
@@ -41,8 +41,7 @@ These differences are particularly relevant when patients are switched from infu
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
 Problems include pump malfunction, infusion set occlusion, leakage, disconnection or kinking, and degraded insulin.
 Less commonly, hypoglycemia from pump malfunction may occur.
-If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their physician.
-[see Dosage and Administration (2),Warnings and Precautions (5) andHow Supplied/Storage and Handling (16.2)]
+If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their physician [see Dosage and Administration (2),Warnings and Precautions (5) andHow Supplied/Storage and Handling (16.2)].
 
 ## 17.3 FDA Approved Patient Labeling
 

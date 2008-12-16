@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Administration
 
@@ -73,7 +73,7 @@ These antibodies do not appear to cause deterioration in glycemic control or nec
 - The efficacy and safety of mixing NovoLog with insulin preparations produced by other manufacturers have not been studied.
 - Insulin mixtures should not be administered intravenously.
 
-## 5.9 Subcutaneous Continuous Insulin Infusion by External Pump
+## 5.9 Continuous Subcutaneous Insulin Infusion by External Pump
 
 When used in an external subcutaneous insulin infusion pump, NovoLog should not be mixed with any other insulin or diluent.
 When using NovoLog in an external insulin pump, the NovoLog-specific information should be followed (e.g., in-use time, frequency of changing infusion sets) because NovoLog-specific information may differ from general pump manual instructions.
@@ -81,8 +81,7 @@ When using NovoLog in an external insulin pump, the NovoLog-specific information
 Pump or infusion set malfunctions or insulin degradation can lead to a rapid onset of hyperglycemia and ketosis because of the small subcutaneous depot of insulin.
 This is especially pertinent for rapid-acting insulin analogs that are more rapidly absorbed through skin and have a shorter duration of action.
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
-Interim therapy with subcutaneous injection may be required.
-[see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17)]
+Interim therapy with subcutaneous injection may be required [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17)].
 
 NovoLog is recommended for use in pump systems suitable for insulin infusion as listed below.
 
@@ -97,5 +96,4 @@ In-vitro studies have shown that pump malfunction, loss of metacresol, and insul
 Reservoirs and infusion sets should be changed at least every 48 hours.
 
 NovoLog should not be exposed to temperatures greater than 37°C (98.6°F).
-NovoLog that will be used in a pump should not be mixed with other insulin or with a diluent.
-[see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), and How Supplied/Storage and Handling (16.2), Patient Counseling Information (17)].
+NovoLog that will be used in a pump should not be mixed with other insulin or with a diluent [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), and How Supplied/Storage and Handling (16.2), Patient Counseling Information (17)].

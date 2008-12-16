@@ -1,11 +1,10 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Dosing
 
 NovoLog is an insulin analog with an earlier onset of action than regular human insulin.
 The dosage of NovoLog must be individualized.
-NovoLog given by subcutaneous injection should generally be used in regimens with an intermediate or long-acting insulin.
-[see Warnings and Precautions (5),How Supplied/Storage and Handling (16.2)].
+NovoLog given by subcutaneous injection should generally be used in regimens with an intermediate or long-acting insulin [see Warnings and Precautions (5),How Supplied/Storage and Handling (16.2)].
 The total daily insulin requirement may vary and is usually between 0.5 to 1.0 units/kg/day.
 When used in a meal-related subcutaneous injection treatment regimen, 50 to 70% of total insulin requirements may be provided by NovoLog and the remainder provided by an intermediate-acting or long-acting insulin.
 Because of NovoLog’s comparatively rapid onset and short duration of glucose lowering activity, some patients may require more basal insulin and more total insulin to prevent pre-meal hyperglycemia when using NovoLog than when using human regular insulin.
@@ -36,7 +35,7 @@ Change the NovoLog in the reservoir, the infusion sets and the infusion set inse
 
 ## 2.4 Intravenous Use
 
-NovoLog can be administered intravenously under medical supervision for glycemic control with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.9), How Supplied/Storage and Handling (16.2)].
+NovoLog can be administered intravenously under medical supervision for glycemic control with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5), How Supplied/Storage and Handling (16.2)].
 For intravenous use, NovoLog should be used at concentrations from 0.05 U/mL to 1.0 U/mL insulin aspart in infusion systems using polypropylene infusion bags.
 NovoLog has been shown to be stable in infusion fluids such as 0.9% sodium chloride.
 

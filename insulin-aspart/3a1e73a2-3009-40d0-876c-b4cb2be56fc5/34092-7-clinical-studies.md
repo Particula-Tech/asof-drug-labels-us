@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Subcutaneous Daily Injections
 
@@ -100,8 +100,7 @@ Pediatric Insulin Pump Study in Type 1 Diabetes (16 weeks; n=298)
 | Baseline body weight (kg)Weight Change from baseline (kg) | 54.1 ± 19.71.8 ± 2.1 | 55.5 ± 19.01.6 ± 2.1 |
 
 An open-label, 16-week parallel design trial compared pre-prandial NovoLog injection in conjunction with NPH injections to NovoLog administered by continuous subcutaneous infusion in 127 adults with type 2 diabetes.
-The two treatment groups had similar reductions in HbA1c and rates of severe hypoglycemia (Table 8).
-[see Indications and Usage (1), Dosage and Administration (2), Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)]
+The two treatment groups had similar reductions in HbA1c and rates of severe hypoglycemia (Table 8) [see Indications and Usage (1), Dosage and Administration (2), Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
 Table 8.
 Pump Therapy in Type 2 Diabetes (16 weeks; n=127)

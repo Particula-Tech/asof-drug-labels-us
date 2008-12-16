@@ -1,4 +1,4 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
@@ -13,4 +13,4 @@ In fertility studies in male and female rats, at subcutaneous doses up to 200 U/
 ## 13.2 Animal Toxicology And/Or Pharmacology
 
 In standard biological assays in mice and rabbits, one unit of NovoLog has the same glucose-lowering effect as one unit of regular human insulin.
-In humans, the effect of NovoLog is more rapid in onset and of shorter duration, compared to regular human insulin, due to its faster absorption after subcutaneous injection (see Section 12 Clinical Pharmacology Figure 2 and Figure 4).
+In humans, the effect of NovoLog is more rapid in onset and of shorter duration, compared to regular human insulin, due to its faster absorption after subcutaneous injection (see Section 12 CLINICAL PHARMACOLOGY Figure 2 and Figure 4).

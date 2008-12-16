@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -30,11 +30,12 @@ Use of NovoLog is compatible with breastfeeding, but women with diabetes who are
 ## 8.4 Pediatric Use
 
 NovoLog is approved for use in children for subcutaneous daily injections and for subcutaneous continuous infusion by external insulin pump.
-Please see Section 14Clinical Studies for summaries of clinical studies.
+Please see Section 14 CLINICAL STUDIES for summaries of clinical studies.
 
 ## 8.5 Geriatric Use
 
 Of the total number of patients (n= 1,375) treated with NovoLog in 3 controlled clinical studies, 2.6% (n=36) were 65 years of age or over.
-One-half of these patients had type 1 diabetes (18/1285) and the other half had type 2 diabetes (18/90).The HbA1c response to NovoLog, as compared to human insulin, did not differ by age, particularly in patients with type 2 diabetes.
+One-half of these patients had type 1 diabetes (18/1285) and the other half had type 2 diabetes (18/90).
+The HbA1c response to NovoLog, as compared to human insulin, did not differ by age, particularly in patients with type 2 diabetes.
 Additional studies in larger populations of patients 65 years of age or over are needed to permit conclusions regarding the safety of NovoLog in elderly compared to younger patients.
 Pharmacokinetic/pharmacodynamic studies to assess the effect of age on the onset of NovoLog action have not been performed.
