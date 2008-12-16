@@ -79,6 +79,8 @@ The following additional adverse reactions have been reported in post-marketing 
 
 Digestive: Hepatitis (reported rarely).
 
+General disorders and administration site conditions: Malaise.
+
 Hemic: Thrombocytopenia (reported rarely).
 
 Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.

@@ -37,7 +37,7 @@ Shake the suspension prior to each use and return promptly to the refrigerator.
 ## Hypertensive Patients with Left Ventricular Hypertrophy
 
 The usual starting dose is 50 mg of COZAAR once daily.
-Hydrochlorothiazide 12.5 mg daily should be added and/or the dose of COZAAR should be increased to 100 mg once daily followed by an increase in hydrochlorothiazide to 25 mg once daily based on blood pressure response (see, CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke).
+Hydrochlorothiazide 12.5 mg daily should be added and/or the dose of COZAAR should be increased to 100 mg once daily followed by an increase in hydrochlorothiazide to 25 mg once daily based on blood pressure response (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke).
 
 ## Nephropathy in Type 2 Diabetic Patients
 

@@ -47,8 +47,8 @@ Manufactured for:
 
 Merck & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued December 2005
+Issued September 2008
 
-9573531
+9573532
 
 Printed in USA

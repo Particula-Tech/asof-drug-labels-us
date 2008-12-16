@@ -132,4 +132,4 @@ No overall differences in effectiveness or safety were observed between these pa
 In the LIFE study, Black patients with hypertension and left ventricular hypertrophy had a lower risk of stroke on atenolol than on COZAAR.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
 However, the LIFE study does not provide evidence that the benefits of COZAAR on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
-(See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke.)
+(See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects; Reduction in the Risk of Stroke.)
