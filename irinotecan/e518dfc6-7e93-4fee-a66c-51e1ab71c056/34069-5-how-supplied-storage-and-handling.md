@@ -9,12 +9,11 @@ CAMPTOSAR Injection is available in single-dose amber glass vials in the followi
 
 5 mL NDC 0009-7529-01
 
-This is packaged in a backing/plastic blister to protect against inadvertent breakage and leakage.
-The vial should be inspected for damage and visible signs of leaks before removing the backing/plastic blister.
+The vial should be inspected for damage and visible signs of leaks before removing from the carton.
 If damaged, incinerate the unopened package.
 
 Store at controlled room temperature 15° to 30°C (59° to 86°F).
 Protect from light.
-It is recommended that the vial (and backing/plastic blister) should remain in the carton until the time of use.
+It is recommended that the vial should remain in the carton until the time of use.
 
 Rx only
