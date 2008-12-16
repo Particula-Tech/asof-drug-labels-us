@@ -39,7 +39,7 @@ Cordarone has a very large but variable volume of distribution, averaging about 
 One major metabolite of Cordarone, desethylamiodarone (DEA), has been identified in man; it accumulates to an even greater extent in almost all tissues.
 No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself.
 DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain.
-The development of maximal ventricular Class III effects after oral Cordarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
+The development of maximal ventricular Class III effects after oral Cordarone administration in humans correlatesmore closely with DEA accumulation over time than with amiodarone accumulation.
 
 Amiodarone is metabolized to desethylamiodarone by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P450 3A4 (CYP3A4) and CYP2C8.
 The CYP3A4 isoenzyme is present in both the liver and intestines.

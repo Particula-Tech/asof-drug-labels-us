@@ -79,8 +79,8 @@ A careful assessment of the potential risks and benefits of administering Cordar
 
 ## Implantable Cardiac Devices
 
-In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may result in changes to the electrical conduction properties of the heart thereby potentially affecting pacing or defibrillating thresholds.
-Therefore, assessments to ensure appropriate device parameters before and during amiodarone treatment is recommended.
+In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may affect pacing or defibrillating thresholds.
+Therefore, at the inception of and during amiodarone treatment, pacing and defibrillation thresholds should be assessed.
 
 ## Thyrotoxicosis
 
@@ -264,6 +264,8 @@ Cyclosporine (CYP3A4 substrate) administered in combination with oral amiodarone
 ### HMG-CoA reductase inhibitors:
 
 HMG-CoA reductase inhibitors that are CYP3A4 substrates (including simvastatin and atorvastatin) in combination with amiodarone have been associated with reports of myopathy/rhabdomyolysis.
+
+When co-administered with amiodarone, lower starting and maintenance doses of these agents should be considered.
 
 ### Cardiovasculars:
 
