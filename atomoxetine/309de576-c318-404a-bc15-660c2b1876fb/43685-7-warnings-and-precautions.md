@@ -83,7 +83,7 @@ Orthostatic hypotension and syncope have been reported in patients taking STRATT
 In child and adolescent trials, 0.2% (12/5596) of STRATTERA-treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.
 In short-term child and adolescent controlled trials, 1.8% (6/340) of STRATTERA–treated patients experienced orthostatic hypotension compared with 0.5% (1/207) of placebo-treated patients.
 Syncope was not reported during short-term child and adolescent placebo-controlled ADHD trials.
-STRATTERA should be used with caution in any condition that may predispose patients to hypotension.
+STRATTERA should be used with caution in any condition that may predispose patients to hypotension, or conditions associated with abrupt heart rate or blood pressure changes.
 
 Peripheral vascular effects — There have been spontaneous postmarketing reports of Raynaud’s phenomenon (new onset and exacerbation of preexisting condition).
 
@@ -91,7 +91,7 @@ Peripheral vascular effects — There have been spontaneous postmarketing report
 
 Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.
-In a pooled analysis of multiple short–term, placebo–controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine forseveral weeks at usual doses) of atomoxetine–treated patients compared to 0 out of 1056 placebo–treated patients.
+In a pooled analysis of multiple short–term, placebo–controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine–treated patients compared to 0 out of 1056 placebo–treated patients.
 
 ## 5.6 Screening Patients for Bipolar Disorder
 

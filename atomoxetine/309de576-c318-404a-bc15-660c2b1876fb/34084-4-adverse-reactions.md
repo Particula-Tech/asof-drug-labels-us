@@ -133,12 +133,19 @@ While it is difficult to know the precise risk of sexual dysfunction associated 
 ## 6.2 Postmarketing Spontaneous Reports
 
 The following adverse reactions have been identified during post approval use of STRATTERA.
+Unless otherwise specified, these adverse reactions have occurred in adults and children and adolescents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiovascular system — QT prolongation, syncope.
+
+General disorders and administration site conditions — Lethargy.
+
+Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents.
+
+Psychiatric disorders — Sensory disturbances including hallucinations.
 
 Seizures — Seizures have been reported in the postmarketing period.
 The postmarketing seizure cases include patients with pre–existing seizure disorders and those with identified risk factors for seizures, as well as patients with neither a history of nor identified risk factors for seizures.
 The exact relationship between STRATTERA and seizures is difficult to evaluate due to uncertainty about the background risk of seizures in ADHD patients.
 
-Urogenital system — Male pelvic pain.
+Urogenital system — Male pelvic pain; urinary hesitation in children and adolescents; urinary retention in children and adolescents.
