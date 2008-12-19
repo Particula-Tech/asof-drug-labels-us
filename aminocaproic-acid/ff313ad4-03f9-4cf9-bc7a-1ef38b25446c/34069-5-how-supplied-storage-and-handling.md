@@ -4,17 +4,9 @@ AMICAR®
 
 (aminocaproic acid)
 
-AMICAR Injection
+AMICAR Oral Solution, 0.25 g/mL
 
-Each 20 mL vial contains 5 g of aminocaproic acid (250 mg/mL) as an aqueous solution with benzyl alcohol 0.9% as preservative.
-
-20 mL vial – NDC 66479-025-39
-
-Store Between 15°-30°C (59°-86°F); Do Not Freeze.
-
-AMICAR Oral Solution, 25%
-
-Each mL of raspberry-flavored syrup contains 250 mg of aminocaproic acid.
+Each mL of raspberry-flavored oral solution contains 0.25 g/mL of aminocaproic acid.
 
 16 Fl.
 Oz.

@@ -10,7 +10,7 @@ Mean ± SD peak plasma concentrations (164 ± 28 mcg/mL) were reached within 1.2
 After oral administration, the apparent volume of distribution was estimated to be 23.1 ± 6.6 L (mean ± SD).
 Correspondingly, the volume of distribution after intravenous administration has been reported to be 30.0 ± 8.2 L. After prolonged administration, AMICAR has been found to distribute throughout extravascular and intravascular compartments of the body, penetrating human red blood cells as well as other tissue cells.
 
-Renal excretion is the primary route of elimination, whether AMICAR is administered orally or intravenously.
+Renal excretion is the primary route of elimination.
 Sixty-five percent of the dose is recovered in the urine as unchanged drug and 11% of the dose appears as the metabolite adipic acid.
 Renal clearance (116 mL/min) approximates endogenous creatinine clearance.
 The total body clearance is 169 mL/min.

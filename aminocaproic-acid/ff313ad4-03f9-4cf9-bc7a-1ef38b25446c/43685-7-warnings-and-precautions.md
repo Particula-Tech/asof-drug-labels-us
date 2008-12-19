@@ -1,9 +1,5 @@
 # WARNINGS
 
-AMICAR Injection contains benzyl alcohol as a preservative.
-The administration of medications containing benzyl alcohol as a preservative to premature neonates has been associated with a fatal “gasping syndrome.”
-(See PRECAUTIONS, Pediatric Use).
-
 In patients with upper urinary tract bleeding, AMICAR administration has been known to cause intrarenal obstruction in the form of glomerular capillary thrombosis or clots in the renal pelvis and ureters.
 For this reason, AMICAR should not be used in hematuria of upper urinary tract origin, unless the possible benefits outweigh the risk.
 
@@ -30,8 +26,6 @@ Necrotic changes in the heart and liver were noted at autopsy.
 AMICAR inhibits both the action of plasminogen activators and to a lesser degree, plasmin activity.
 The drug should NOT be administered without a definite diagnosis and/or laboratory finding indicative of hyperfibrinolysis (hyperplasminemia).1
 
-Rapid intravenous administration of the drug should be avoided since this may induce hypotension, bradycardia, and/or arrhythmia.
-
 Inhibition of fibrinolysis by aminocaproic acid may theoretically result in clotting or thrombosis.
 However, there is no definite evidence that administration of aminocaproic acid has been responsible for the few reported cases of intravascular clotting which followed this treatment.
 Rather, it appears that such intravascular clotting was most likely due to the patient's preexisting clinical condition, e.g., the presence of DIC.
@@ -41,9 +35,7 @@ Reports have appeared in the literature of an increased incidence of certain neu
 All of these events have also been described as part of the natural course of SAH, or as a consequence of diagnostic procedures such as angiography.
 Drug relatedness remains unclear.
 
-Thrombophlebitis, a possibility with all intravenous therapy, should be guarded against by strict attention to the proper insertion of the needle and the fixing of its position.
-
-Epsilon-aminocaproic acid should not be administered with Factor IX Complex concentrates or Anti-Inhibitor Coagulant concentrates, as the risk of thrombosis may be increased.
+Aminocaproic acid should not be administered with Factor IX Complex concentrates or Anti-Inhibitor Coagulant concentrates, as the risk of thrombosis may be increased.
 
 ## Laboratory Tests
 
@@ -81,9 +73,3 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
-
-AMICAR Injection contains benzyl alcohol as a preservative.
-Benzyl alcohol has been associated with a fatal “gasping syndrome” in neonates.
-The “gasping syndrome,” characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine, has been associated with exposure to benzyl alcohol in neonates and low-birth weight neonates.
-Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-(See WARNINGS.)

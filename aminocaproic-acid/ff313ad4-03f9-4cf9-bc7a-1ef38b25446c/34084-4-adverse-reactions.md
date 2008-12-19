@@ -7,8 +7,6 @@ General: Edema, headache, malaise.
 
 Hypersensitivity Reactions: Allergic and anaphylactoid reactions, anaphylaxis.
 
-Local Reactions: Injection site reactions, pain and necrosis.
-
 Cardiovascular: Bradycardia, hypotension, peripheral ischemia, thrombosis.
 
 Gastrointestinal: Abdominal pain, diarrhea, nausea, vomiting.
