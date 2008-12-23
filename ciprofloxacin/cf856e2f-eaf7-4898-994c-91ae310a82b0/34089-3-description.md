@@ -15,7 +15,7 @@ The inactive ingredients are cornstarch, microcrystalline cellulose, silicon dio
 
 Ciprofloxacin Oral Suspension is available in 5% (5 g ciprofloxacin in 100 mL) and 10% (10 g ciprofloxacin in 100 mL) strengths.
 Ciprofloxacin Oral Suspension is a white to slightly yellowish suspension with strawberry flavor which may contain yellow-orange droplets.
-It is composed of ciprofloxacin microcapsules and diluent which are mixed prior to dispensing (See instructions for USE/HANDLING).
+It is composed of ciprofloxacin microcapsules and diluent which are mixed prior to dispensing (See Instructions for Use/Handling).
 The components of the suspension have the following compositions:
 
 Microcapsules - ciprofloxacin, povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20.

@@ -1,4 +1,4 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO® Tablets and CIPRO Oral Suspension and other antibacterial drugs, CIPRO Tablets and CIPRO Oral Suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO Tablets and CIPRO Oral Suspension and other antibacterial drugs, CIPRO Tablets and CIPRO Oral Suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # MICROBIOLOGY
 
@@ -13,15 +13,6 @@ The inoculum size has little effect when tested in vitro.
 The minimal bactericidal concentration (MBC) generally does not exceed the minimal inhibitory concentration (MIC) by more than a factor of 2.
 
 Ciprofloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for CIPRO (ciprofloxacin hydrochloride) Tablets and CIPRO (ciprofloxacin*) 5% and 10% Oral Suspension.
-
-| Aerobic gram-positive microorganisms |
-| --- |
-| Enterococcus faecalis (Many strains are only moderately susceptible.) |
-| Staphylococcus aureus (methicillin-susceptible strains only) |
-| Staphylococcus epidermidis (methicillin-susceptible strains only) |
-| Staphylococcus saprophyticus |
-| Streptococcus pneumoniae (penicillin-susceptible strains only) |
-| Streptococcus pyogenes |
 
 | Aerobic gram-negative microorganisms |  |
 | --- | --- |
@@ -42,12 +33,6 @@ Ciprofloxacin has been shown to be active against Bacillus anthracis both in vit
 The following in vitro data are available, but their clinical significance is unknown.
 
 Ciprofloxacin exhibits in vitro minimum inhibitory concentrations (MICs) of 1 μg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of ciprofloxacin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
-
-| Aerobic gram-positive microorganisms |
-| --- |
-| Staphylococcus haemolyticus |
-| Staphylococcus hominis |
-| Streptococcus pneumoniae (penicillin-resistant strains only) |
 
 | Aerobic gram-negative microorganisms |  |
 | --- | --- |
@@ -70,7 +55,7 @@ The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of ciprofloxacin powder.
 The MIC values should be interpreted according to the following criteria:
 
-For testing Enterobacteriaceae, Enterococcus faecalis, methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae, Streptococcus pyogenes, and Pseudomonas aeruginosaa:
+For testing Enterobacteriaceae, Enterococcus faecalis, methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae, Streptococcus pyogenes, and Pseudomonas aeruginosa a:
 
 | MIC (μg/mL) | Interpretation |  |
 | --- | --- | --- |
@@ -109,11 +94,11 @@ Standard ciprofloxacin powder should provide the following MIC values:
 
 | Organism |  | MIC (μg/mL) |  |  |
 | --- | --- | --- | --- | --- |
-| E. faecalis | ATCC 29212 | 0.25 – 2.0 |  |  |
+| E. faecalis | ATCC 29212 | 0.25 – 2 |  |  |
 | E. coli | ATCC 25922 | 0.004 – 0.015 |  |  |
 | H. influenzaea | ATCC 49247 | 0.004 – 0.03 |  |  |
 | N. gonorrhoeaeb | ATCC 49226 | 0.001 – 0.008 |  |  |
-| P. aeruginosa | ATCC 27853 | 0.25 – 1.0 |  |  |
+| P. aeruginosa | ATCC 27853 | 0.25 – 1 |  |  |
 | S. aureus | ATCC 29213 | 0.12 – 0.5 |  |  |
 | aThis quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)1. |  |  |  |  |
 | bThis quality control range is applicable to only N. gonorrhoeae ATCC 49226 tested by an agar dilution procedure using GC agar base and 1% defined growth supplement. |  |  |  |  |
@@ -126,7 +111,7 @@ This procedure uses paper disks impregnated with 5-μg ciprofloxacin to test the
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5-μg ciprofloxacin disk should be interpreted according to the following criteria:
 
-For testing Enterobacteriaceae, Enterococcus faecalis, methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae, Streptococcus pyogenes, and Pseudomonas aeruginosaa:
+For testing Enterobacteriaceae, Enterococcus faecalis, methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae, Streptococcus pyogenes, and Pseudomonas aeruginosa a:
 
 | Zone Diameter (mm) | Interpretation |  |
 | --- | --- | --- |
@@ -201,7 +186,7 @@ Gastrointestinal adverse events (nausea, vomiting, diarrhea, or stomach pain), n
 This higher incidence, in the absence of a control group, could be explained by a reporting bias, concurrent medical conditions, other concomitant medications, emotional stress or other confounding factors, and/or a longer treatment period with ciprofloxacin.
 Because of these factors and limitations in the data collection, it is difficult to evaluate whether the reported symptoms were drug-related.
 
-Instructions To The Pharmacist For Use/Handling Of CIPRO Oral Suspension:
+## Instructions To The Pharmacist For Use/Handling Of CIPRO Oral Suspension:
 
 CIPRO Oral Suspension is supplied in 5% (5 g ciprofloxacin in 100 mL) and 10% (10 g ciprofloxacin in 100 mL) strengths.
 The drug product is composed of two components (microcapsules and diluent) which must be combined prior to dispensing.
@@ -219,10 +204,6 @@ Appropriate Dosing Volumes of the Oral Suspensions:
 | 750 mg | 15 mL | 7.5 mL |
 
 Preparation of the suspension:
-
-|  | 1. The small bottle contains the microcapsules, the large bottle contains the diluent. |  | 2. Open both bottles. Child-proof cap: Press down according to instructions on the cap while turning to the left. |
-| --- | --- | --- | --- |
-|  | 3. Pour the microcapsules completely into the larger bottle of diluent. Do not add water to the suspension. |  | 4. Remove the top layer of the diluent bottle label (to reveal the CIPRO Oral Suspension label). Close the large bottle completely according to the directions on the cap and shake vigorously for about 15 seconds. The suspension is ready for use. |
 
 CIPRO Oral Suspension should not be administered through feeding tubes due to its physical characteristics.
 

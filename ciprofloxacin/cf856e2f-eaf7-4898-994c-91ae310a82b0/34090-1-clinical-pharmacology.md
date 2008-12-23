@@ -79,10 +79,11 @@ Concurrent administration of antacids containing magnesium hydroxide or aluminum
 
 The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
 
-Concomitant administration with tizanidine is contraindicated (See CONTRAINDICATIONS.)
+Concomitant administration with tizanidine is contraindicated.
+(See CONTRAINDICATIONS.)
 Concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
 Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
-(See WARNINGS:PRECAUTIONS.)
+(See WARNINGS: PRECAUTIONS.)
 
 ## Special Populations:
 
@@ -102,6 +103,6 @@ The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, howe
 Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 μg/mL (range: 1.5 – 3.4 μg/mL) and the mean AUC was 9.2 μg*h/mL (range: 5.8 – 14.9 μg*h/mL).
 There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg TID).
 In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean Cmax was 6.1 μg/mL (range: 4.6 – 8.3 μg/mL) in 10 children less than 1 year of age; and 7.2 μg/mL (range: 4.7 – 11.8 μg/mL) in 10 children between 1 and 5 years of age.
-The AUC values were 17.4 μg*h/mL (range: 11.8 – 32.0 μg*h/mL) and 16.5 μg*h/mL (range: 11.0 – 23.8 μg*h/mL) in the respective age groups.
+The AUC values were 17.4 μg*h/mL (range: 11.8 – 32 μg*h/mL) and 16.5 μg*h/mL (range: 11 – 23.8 μg*h/mL) in the respective age groups.
 These values are within the range reported for adults at therapeutic doses.
 Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 - 5 hours, and the bioavailability of the oral suspension is approximately 60%.

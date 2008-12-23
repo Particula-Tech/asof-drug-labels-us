@@ -1,9 +1,21 @@
 # WARNINGS
 
+## Tendinopathy and Tendon Rupture:
+
+Fluoroquinolones, including CIPRO, are associated with an increased risk of tendinitis and tendon rupture in all ages.
+This adverse reaction most frequently involves the Achilles tendon, and rupture of the Achilles tendon may require surgical repair.
+Tendinitis and tendon rupture in the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites have also been reported.
+The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+Factors, in addition to age and corticosteroid use, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
+Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
+Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
+CIPRO should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
+
 ## Pregnant Women:
 
 THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
-(See PRECAUTIONS: Pregnancy, and Nursing Mothers subsections.)
+(See PRECUATIONS: Pregnancy and Nursing Mothers subsections.)
 
 ## Pediatrics:
 
@@ -76,14 +88,6 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
 Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
 
-## Tendon Effects:
-
-Ruptures of the shoulder, hand, Achilles tendon or other tendons that required surgical repair or resulted in prolonged disability have been reported in patients receiving quinolones, including ciprofloxacin.
-Post-marketing surveillance reports indicate that this risk may be increased in patients receiving concomitant corticosteroids, especially the elderly.
-Ciprofloxacin should be discontinued if the patient experiences pain, inflammation, or rupture of a tendon.
-Patients should rest and refrain from exercise until the diagnosis of tendinitis or tendon rupture has been excluded.
-Tendon rupture can occur during or after therapy with quinolones, including ciprofloxacin.
-
 ## Syphilis:
 
 Ciprofloxacin has not been shown to be effective in the treatment of syphilis.
@@ -111,11 +115,9 @@ Quinolones, including ciprofloxacin, may also cause central nervous system (CNS)
 Alteration of the dosage regimen is necessary for patients with impairment of renal function.
 (See DOSAGE AND ADMINISTRATION.)
 
-## Phototoxicity:
-
-Moderate to severe phototoxicity manifested as an exaggerated sunburn reaction has been observed in patients who are exposed to direct sunlight while receiving some members of the quinolone class of drugs.
-Excessive sunlight should be avoided.
-Therapy should be discontinued if phototoxicity occurs.
+Photosensitivity/Phototoxicity: Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
+Therefore, excessive exposure to these sources of light should be avoided.
+Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Events).
 
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 
@@ -125,6 +127,8 @@ Prescribing CIPRO Tablets and CIPRO Oral Suspension in the absence of a proven o
 
 Patients should be advised:
 
+- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO treatment.
+  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - that antibacterial drugs including CIPRO Tablets and CIPRO Oral Suspension should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When CIPRO Tablets and CIPRO Oral Suspension is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -134,11 +138,12 @@ Patients should be advised:
   Ciprofloxacin may be taken two hours before or six hours after taking these products.
   Ciprofloxacin should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin may be taken with a meal that contains these products.
 - that ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
-- to avoid excessive sunlight or artificial ultraviolet light while receiving ciprofloxacin and to discontinue therapy if phototoxicity occurs.
+- that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
+  Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
+  If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
+  If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
 - that peripheral neuropathies have been associated with ciprofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
-- to discontinue CIPRO treatment; rest and refrain from exercise; and inform their physician if they experience pain, inflammation, or rupture of a tendon.
-  The risk of serious tendon disorders with quinolones is higher in those over 65 years of age, especially those on corticosteroids.
 - that ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
 - that ciprofloxacin increases the effects of tizanidine (Zanaflex®).
   Patients should not use ciprofloxacin if they are already taking tizanidine.
@@ -225,7 +230,11 @@ The clinical significance of these findings to humans is unknown.
 
 Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon mg/m2) revealed no evidence of impairment.
 
-### Pregnancy: Teratogenic Effects. Pregnancy Category C:
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category C:
 
 There are no adequate and well-controlled studies in pregnant women.
 An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.7
@@ -268,7 +277,7 @@ Complicated Urinary Tract Infection and Pyelonephritis
 
 Ciprofloxacin is indicated for the treatment of complicated urinary tract infections and pyelonephritis due to Escherichia coli.
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to the controls, including events related to joints and/or surrounding tissues.
-The rates of these events in pediatric patients with complicated urinary tract infection and pyelonephritis within six weeks of follow-up were 9.3% (31/335) versus 6.0% (21/349) for control agents.
+The rates of these events in pediatric patients with complicated urinary tract infection and pyelonephritis within six weeks of follow-up were 9.3% (31/335) versus 6% (21/349) for control agents.
 The rates of these events occurring at any time up to the one year follow-up were 13.7% (46/335) and 9.5% (33/349), respectively.
 The rate of all adverse events regardless of drug relationship at six weeks was 41% (138/335) in the ciprofloxacin arm compared to 31% (109/349) in the control arm.
 (See ADVERSE REACTIONS and CLINICAL STUDIES.)
@@ -295,6 +304,12 @@ However, the relationship of this event to the patient's course of ciprofloxacin
 
 ## Geriatric Use:
 
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as CIPRO.
+This risk is further increased in patients receiving concomitant corticosteroid therapy.
+Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
+Caution should be used when prescribing CIPRO to elderly patients especially those on corticosteroids.
+Patients should be informed of this potential side effect and advised to discontinue CIPRO and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See BOXED WARNING, WARNINGS, and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
+
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
@@ -304,9 +319,3 @@ However, since some older individuals experience reduced renal function by virtu
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using CIPRO with concomitant drugs that can result in prolongation of the QT interval (e.g., class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia).
-
-Patients over 65 years of age are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as CIPRO.
-This risk is further increased in patients receiving concomitant corticosteroid therapy.
-Tendon rupture usually involves the Achilles, hand, or shoulder tendons and can occur during therapy or up to a few months post completion of therapy.
-Caution should be used when prescribing CIPRO to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue therapy and inform their physicians if any tendon symptoms occur.

@@ -10,31 +10,28 @@ Ciprofloxacin should be administered at least 2 hours before or 6 hours after ma
 
 ADULT DOSAGE GUIDELINES
 
-| Infection | Severity | Dose | Frequency | Usual Durations† |
+| Infection | Severity | Dose | Frequency | Usual DurationsGenerally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |
 | --- | --- | --- | --- | --- |
-| Urinary Tract | Acute Uncomplicated | 250 mg | q 12 h | 3 Days |
-|  | Mild/Moderate | 250 mg | q 12 h | 7 to 14 Days |
-|  | Severe/Complicated | 500 mg | q 12 h | 7 to 14 Days |
-| Chronic Bacterial | Mild/Moderate | 500 mg | q 12 h | 28 Days |
+| Urinary Tract | Acute Uncomplicated | 250 mg | q 12 h | 3 days |
+|  | Mild/Moderate | 250 mg | q 12 h | 7 to 14 days |
+|  | Severe/Complicated | 500 mg | q 12 h | 7 to 14 days |
+| Chronic Bacterial | Mild/Moderate | 500 mg | q 12 h | 28 days |
 | Prostatitis |  |  |  |  |
 | Lower Respiratory Tract | Mild/Moderate | 500 mg | q 12 h | 7 to 14 days |
 |  | Severe/Complicated | 750 mg | q 12 h | 7 to 14 days |
 | Acute Sinusitis | Mild/Moderate | 500 mg | q 12 h | 10 days |
-| Skin and | Mild/Moderate | 500 mg | q 12 h | 7 to 14 Days |
-| Skin Structure | Severe/Complicated | 750 mg | q 12 h | 7 to 14 Days |
+| Skin and | Mild/Moderate | 500 mg | q 12 h | 7 to 14 days |
+| Skin Structure | Severe/Complicated | 750 mg | q 12 h | 7 to 14 days |
 | Bone and Joint | Mild/Moderate | 500 mg | q 12 h | ≥ 4 to 6 weeks |
 |  | Severe/Complicated | 750 mg | q 12 h | ≥ 4 to 6 weeks |
-| Intra-Abdominal* | Complicated | 500 mg | q 12 h | 7 to 14 Days |
-| Infectious Diarrhea | Mild/Moderate/Severe | 500 mg | q 12 h | 5 to 7 Days |
-| Typhoid Fever | Mild/Moderate | 500 mg | q 12 h | 10 Days |
+| Intra-Abdominalused in conjunction with metronidazole* | Complicated | 500 mg | q 12 h | 7 to 14 days |
+| Infectious Diarrhea | Mild/Moderate/Severe | 500 mg | q 12 h | 5 to 7 days |
+| Typhoid Fever | Mild/Moderate | 500 mg | q 12 h | 10 days |
 | Urethral and Cervical | Uncomplicated | 250 mg | single dose | single dose |
 | Gonococcal Infections |  |  |  |  |
-| Inhalational anthrax |  | 500 mg | q 12 h | 60 Days |
-| (post-exposure)** |  |  |  |  |
-| * used in conjunction with metronidazole |  |  |  |  |
-| † Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |  |  |  |  |
-| ** Drug administration should begin as soon as possible after suspected or confirmed exposure. |  |  |  |  |
-| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION). |  |  |  |  |
+| Inhalational anthrax |  | 500 mg | q 12 h | 60 days |
+| (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure.** |  |  |  |  |
+| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. |  |  |  |  |
 
 ## Conversion of I.V. to Oral Dosing in Adults:
 
@@ -88,12 +85,10 @@ PEDIATRIC DOSAGE GUIDELINES
 
 | Infection | Route of Administration | Dose (mg/kg) | Frequency | Total Duration |
 | --- | --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 days* |
+| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 daysThe total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |
 | Oral | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |  |
-| Inhalational Anthrax (Post- Exposure)** | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
+| Inhalational Anthrax (Post- Exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
 | Oral | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours |  |  |
-| * The total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |  |  |  |  |
-| ** Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION). |  |  |  |  |
 
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of complicated urinary tract infection and pyelonephritis.
 No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (i.e., creatinine clearance of < 50 mL/min/1.73m2).

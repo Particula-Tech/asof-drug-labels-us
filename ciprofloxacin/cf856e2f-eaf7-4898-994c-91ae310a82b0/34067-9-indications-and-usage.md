@@ -18,13 +18,13 @@ NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of firs
 
 Acute Sinusitis caused by Haemophilus influenzae, penicillin-susceptible Streptococcus pneumoniae, or Moraxella catarrhalis.
 
-Skin and Skin Structure Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
+Skin and Skin Structure Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus. methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
 
 Bone and Joint Infections caused by Enterobacter cloacae, Serratia marcescens, or Pseudomonas aeruginosa.
 
 Complicated Intra-Abdominal Infections (used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiella pneumoniae, or Bacteroides fragilis.
 
-Infectious Diarrhea caused by Escherichia coli (enterotoxigenic strains), Campylobacter jejuni, Shigella boydii†,Shigella dysenteriae, Shigella flexneri or Shigella sonnei† when antibacterial therapy is indicated.
+Infectious Diarrhea caused by Escherichia coli (enterotoxigenic strains), Campylobacter jejuni, Shigella boydii †, Shigella dysenteriae, Shigella flexneri or Shigella sonnei† when antibacterial therapy is indicated.
 
 Typhoid Fever (Enteric Fever) caused by Salmonella typhi.
 
@@ -37,7 +37,7 @@ Uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae.
 Complicated Urinary Tract Infections and Pyelonephritis due to Escherichia coli.
 
 NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
-(See WARNINGS,PRECAUTIONS, Pediatric Use,ADVERSE REACTIONS and CLINICAL STUDIES.)
+(See WARNINGS, PRECAUTIONS, Pediatric Use, ADVERSE REACTIONS and CLINICAL STUDIES.)
 Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals.
 (See ANIMAL PHARMACOLOGY.)
 
@@ -46,7 +46,7 @@ Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and h
 Inhalational anthrax (post-exposure): To reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.4 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
-(See also, INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION)).
+(See also, INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION).
 
 †Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.
 
