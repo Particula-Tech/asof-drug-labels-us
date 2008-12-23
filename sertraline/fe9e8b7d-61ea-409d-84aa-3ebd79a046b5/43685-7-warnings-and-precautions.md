@@ -71,6 +71,15 @@ If concomitant treatment of SNRIs and SSRIs, including Zoloft, with a 5-hydroxyt
 
 The concomitant use of SNRIs and SSRIs, including Zoloft, with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS – Drug Interactions).
 
+### Neuroleptic Malignant Syndrome (NMS) or NMS-Like Reactions
+
+Rare instances of neuroleptic malignant syndrome (NMS) or NMS-like reactions have been reported when a selective serotonin reuptake inhibitor (SSRI) drug, such as sertraline, or a serotonin-norepinephrine reuptake inhibitor (SNRI) was added to antipsychotic drug therapy.
+Additionally, a small number of such cases have been reported with SSRI's and SNRI's in the absence of antipsychotic coadministration.
+These serious and sometimes fatal events can include hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+It is uncertain whether these cases are serotonin syndrome which, in its most severe form, can resemble neuroleptic malignant syndrome.
+As these events may result in potentially life-threatening conditions, patients should be monitored for the emergence of NMS-like signs and symptoms, especially if sertraline and an antipsychotic drug are taken concurrently.
+Treatment with sertraline and any concomitant antipsychotic agent should be discontinued immediately if such events occur and supportive symptomatic treatment should be initiated.
+
 # PRECAUTIONS
 
 ## General
