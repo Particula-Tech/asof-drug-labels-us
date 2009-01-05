@@ -1,7 +1,3 @@
-Distributed by:
+LAB-0005-3.0
 
-Greenstone Ltd.
-
-Peapack, NJ 07977
-
-LAB-0005-2.0
+February 2008
