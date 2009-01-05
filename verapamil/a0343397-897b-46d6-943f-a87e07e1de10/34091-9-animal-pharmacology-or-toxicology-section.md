@@ -1,0 +1,4 @@
+# ANIMAL PHARMACOLOGY AND/OR ANIMAL TOXICOLOGY
+
+In chronic animal toxicology studies verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater, and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not in the rat.
+Development of cataracts due to verapamil has not been reported in man.
