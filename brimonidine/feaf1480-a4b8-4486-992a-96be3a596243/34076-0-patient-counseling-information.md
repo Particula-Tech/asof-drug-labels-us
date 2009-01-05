@@ -16,8 +16,8 @@ Lenses may be reinserted 15 minutes following administration of COMBIGAN™.
 As with other similar medications, COMBIGAN™ may cause fatigue and/or drowsiness in some patients.
 Patients who engage in hazardous activities should be cautioned of the potential for a decrease in mental alertness.
 
-© 2007 Allergan, Inc. Irvine, CA 92612, U.S.A. ® and ™ marks owned by Allergan, Inc.
+© 2008 Allergan, Inc. Irvine, CA 92612, U.S.A. ® and ™ marks owned by Allergan, Inc.
 
-U.S. Patents 6,248,741; 6,194,415; and 6,465,464
+U.S. Patents 6,248,741; 6,194,415; 6,465,464; and 7,030,149
 
-71969US10U
+71969US11U
