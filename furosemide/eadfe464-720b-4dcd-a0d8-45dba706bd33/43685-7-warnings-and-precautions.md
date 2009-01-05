@@ -17,11 +17,19 @@ If the physician elects to use high dose parenteral therapy, controlled intraven
 
 Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients.
 As with any effective diuretic, electrolyte depletion may occur during LASIX therapy, especially in patients receiving higher doses and a restricted salt intake.
-Hypokalemia may develop with LASIX, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids or ACTH.
+Hypokalemia may develop with LASIX, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives.
 Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
 
 All patients receiving LASIX therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
 Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
+
+Urinary outflow must be secured.
+Patients with partial obstruction of urinary outflow (e.g., in patients with bladder-emptying disorders, prostatic hyperplasia or narrowing of the urethra), increased production and retention of urine may provoke or aggravate complaints.
+Thus, these patients require careful monitoring, especially during the initial stages of treatment.
+
+In patients at high risk for radiocontrast nephropathy LASIX can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
+
+In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of LASIX may be weakened and its ototoxicity potentiated, cautious dose titration is required.
 
 Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
 
@@ -55,6 +63,8 @@ Urine and blood glucose should be checked periodically in diabetics receiving LA
 LASIX may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
+In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
+
 ## Drug Interactions
 
 LASIX may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.
@@ -63,11 +73,15 @@ Except in life-threatening situations, avoid this combination.
 LASIX should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.
 Patients receiving high doses of salicylates concomitantly with LASIX, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
 
+There is a risk of ototoxic effects if cisplatin and LASIX are given concomitantly.
+In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if LASIX is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
+
 LASIX has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 
 Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
 
-LASIX may add to or potentiate the therapeutic effect of other antihypertensive drugs.
+LASIX may add to or potentiate the therapeutic effect of other antihypertensive drugs, necessitating a reduction in the dosage of these drugs.
+
 Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
 
 LASIX may decrease arterial responsiveness to norepinephrine.
@@ -76,6 +90,19 @@ However, norepinephrine may still be used effectively.
 Simultaneous administration of sucralfate and LASIX tablets may reduce the natriuretic and antihypertensive effects of LASIX.
 Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of LASIX is achieved.
 The intake of LASIX and sucralfate should be separated by at least two hours.
+
+In isolated cases, intravenous administration of LASIX within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure and tachycardia.
+Use of LASIX concomitantly with chloral hydrate is, therefore, not recommended.
+
+Phenytoin interferes directly with renal action of LASIX.
+
+Probenecid, methotrexate and other drugs which, like LASIX, undergo significant renal tubular secretion may reduce the effect of LASIX.
+Conversely, LASIX may decrease renal elimination of these drugs.
+High-dose treatment of both LASIX and the other drugs, may lead to increased serum levels and an increased risk of adverse effects due to LASIX or the concomitant medication.
+
+The cephalosporin antibiotics should be used with caution in the presence of even minor transient renal impairment and particularly if LASIX is being given concurrently
+
+Concomitant use of cyclosporine and LASIX is associated with increased risk of gouty arthritis secondary to LASIX-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
 
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
@@ -90,19 +117,21 @@ Furosemide was tested for carcinogenicity by oral administration in one strain o
 A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600 mg.
 There were marginal increases in uncommon tumors in male rats at a dose of 15 mg/kg (slightly greater than the maximum human dose) but not at 30 mg/kg.
 
-Furosemide was devoid of mutagenic activity in various strains ofSalmonella typhimuriumwhen tested in the presence or absence of anin vitrometabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested.
-Furosemide did not induce sister chromatid exchange in human cellsin vitro, but other studies on chromosomal aberrations in human cellsin vitrogave conflicting results.
+Furosemide was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitro metabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested.
+Furosemide did not induce sister chromatid exchange in human cells in vitro, but other studies on chromosomal aberrations in human cells in vitro gave conflicting results.
 In Chinese hamster cells it induced chromosomal damage but was questionably positive for sister chromatid exchange.
 Studies on the induction by furosemide of chromosomal aberrations in mice were inconclusive.
-The urine of rats treated with this drug did not induce gene conversion inSaccharomyces cerevisiae.
+The urine of rats treated with this drug did not induce gene conversion in Saccharomyces cerevisiae.
 
 LASIX (furosemide) produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day).
 
 ## Pregnancy
 
-PREGNANCY CATEGORY C- Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
+PREGNANCY CATEGORY C - Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose.
 There are no adequate and well-controlled studies in pregnant women.
 LASIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Treatment during pregnancy requires monitoring of fetal growth.
 
 The effects of furosemide on embryonic and fetal development and on pregnant dams were studied in mice, rats and rabbits.
 
@@ -117,6 +146,8 @@ The results of the mouse study and one of the three rabbit studies also showed a
 
 Because it appears in breast milk, caution should be exercised when LASIX is administered to a nursing mother.
 
+LASIX may inhibit lactation.
+
 ## Geriatric Use
 
 Controlled clinical studies of LASIX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
@@ -125,4 +156,4 @@ In general, dose selection for the elderly patient should be cautious, usually s
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
-(SeePRECAUTIONS: GeneralandDOSAGE AND ADMINISTRATION.)
+(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION.)

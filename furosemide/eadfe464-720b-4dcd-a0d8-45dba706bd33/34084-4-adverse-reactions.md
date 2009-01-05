@@ -7,19 +7,21 @@ Gastrointestinal System Reactions
 1. hepatic encephalopathy in patients with hepatocellular insufficiency
 2. pancreatitis
 3. jaundice (intrahepatic cholestatic jaundice)
-4. anorexia
-5. oral and gastric irritation
-6. cramping
-7. diarrhea
-8. constipation
-9. nausea
-10. vomiting
+4. increased liver enzymes
+5. anorexia
+6. oral and gastric irritation
+7. cramping
+8. diarrhea
+9. constipation
+10. nausea
+11. vomiting
 
 Systemic Hypersensitivity Reactions
 
-1. systemic vasculitis
-2. interstitial nephritis
-3. necrotizing angiitis
+1. Severe anaphylactic or anaphylactoid reactions (e.g. with shock)
+2. systemic vasculitis
+3. interstitial nephritis
+4. necrotizing angiitis
 
 Central Nervous System Reactions
 
@@ -39,6 +41,7 @@ Hematologic Reactions
 4. hemolytic anemia
 5. leukopenia
 6. anemia
+7. eosinophilia
 
 Dermatologic-Hypersensitivity Reactions
 
@@ -53,7 +56,8 @@ Dermatologic-Hypersensitivity Reactions
 
 Cardiovascular Reaction
 
-Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics.
+1. Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics.
+2. Increase in cholesterol and triglyceride serum levels
 
 Other Reactions
 
@@ -66,5 +70,9 @@ Other Reactions
 7. urinary bladder spasm
 8. thrombophlebitis
 9. fever
+
+In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis.
+
+If LASIX is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
 
 Whenever adverse reactions are moderate or severe, LASIX dosage should be reduced or therapy withdrawn.

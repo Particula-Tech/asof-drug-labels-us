@@ -16,11 +16,11 @@ The dose of LASIX may be carefully titrated up to 600 mg/day in patients with cl
 Edema may be most efficiently and safely mobilized by giving LASIX on 2 to 4 consecutive days each week.
 
 When doses exceeding 80 mg/day are given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable.
-(SeePRECAUTIONS: Laboratory Tests.)
+(See PRECAUTIONS: Laboratory Tests.)
 
 ### Geriatric patients
 
-In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (seePRECAUTIONS: Geriatric Use).
+In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
 
 ### Pediatric patients
 
@@ -45,4 +45,4 @@ As the blood pressure falls under the potentiating effect of LASIX, a further re
 
 ### Geriatric patients
 
-In general, dose selection and dose adjustment for the elderly patient should be cautious, usually starting at the low end of the dosing range (seePRECAUTIONS: Geriatric Use).
+In general, dose selection and dose adjustment for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
