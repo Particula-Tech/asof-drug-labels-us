@@ -26,18 +26,17 @@ Triamterene and hydrochlorothiazide capsule are well absorbed.
 
 Upon administration of a single oral dose to fasted normal male volunteers, the following mean pharmacokinetic parameters were determined:
 
-|  | AUC(0-48)ng*hrs/mL(± SD) | Cmaxng/mL(± SD) | MedianTmaxHrs | Aemg(± SD) |
+|  | AUC (0-48)ng*hrs/mL(± SD) | Cmaxng/mL(± SD) | MedianTmaxHrs | Aemg(±SD) |
 | --- | --- | --- | --- | --- |
 | triamterene | 148.7 (87.9) | 46.4 (29.4) | 1.1 | 2.7 (1.4) |
 | hydroxytriamterene sulfate | 1865 (471) | 720 (364) | 1.3 | 19.7 (6.1) |
 | hydrochlorothiazide | 834 (177) | 135.1 (35.7) | 2.0 | 14.3 (3.8) |
-
-where AUC(0-48), Cmax, Tmax and Ae represent area under the plasma concentration versus time plot, maximum plasma concentration, time to reach Cmax and amount excreted in urine over 48 hours.
+| Where AUC (0-48), Cmax, Tmax and Ae represent area under the plasma concentration versus time plot, maximum plasma concentration, time to reach Cmax and amount excreted in urine over 48 hours. |  |  |  |  |
 
 One triamterene and hydrochlorothiazide capsule is bioequivalent to a single-entity 25 mg hydrochlorothiazide tablet and 37.5 mg triamterene capsule used in the double-blind clinical trial below.
 (See Clinical Trials.)
 
-In a limited study involving 12 subjects, coadministration of a marketed brand of triamterene and hydrochlorothiazide capsule with a high-fat meal resulted in: (1) an increase in the mean bioavailability of triamterene by about 67% (90% confidence interval = 0.99, 1.90), p-hydroxytriamterene sulfate by about 50% (90% confidence interval = 1.06, 1.77), hydrochlorothiazide by about 17% (90% confidence interval = 0.90, 1.34); (2) increases in the peak concentrations of triamterene and p-hydroxytriamterene; and (3) a delay of up to 2 hours in the absorption of the active constituents.
+In a limited study involving 12 subjects, coadministration of triamterene and hydrochlorothiazide capsule with a high-fat meal resulted in: (1) an increase in the mean bioavailability of triamterene by about 67% (90% confidence interval = 0.99, 1.90), p-hydroxytriamterene sulfate by about 50% (90% confidence interval = 1.06, 1.77), hydrochlorothiazide by about 17% (90% confidence interval = 0.90, 1.34); (2) increases in the peak concentrations of triamterene and p-hydroxytriamterene; and (3) a delay of up to 2 hours in the absorption of the active constituents.
 
 ## Clinical Trials
 

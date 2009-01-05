@@ -9,7 +9,7 @@ Triamterene and hydrochlorothiazide capsules are also indicated for those patien
 Triamterene and hydrochlorothiazide may be used alone or as an adjunct to other antihypertensive drugs, such as beta-blockers.
 Since triamterene and hydrochlorothiazide may enhance the action of these agents, dosage adjustments may be necessary.
 
-## Usage In Pregnancy
+## Usage in Pregnancy
 
 The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard.
 Diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developed toxemia.

@@ -10,3 +10,11 @@ Store at 20°-25°C (68°-77°F) (see USP Controlled Room Temperature).
 Protect from light.
 
 Dispense in a tight, light-resistant container.
+
+01-2008M
+
+7218
+
+Sandoz Inc.
+
+Princeton, NJ 08540

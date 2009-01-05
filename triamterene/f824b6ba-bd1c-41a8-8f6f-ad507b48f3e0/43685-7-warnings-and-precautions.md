@@ -43,7 +43,7 @@ Attention must be given to other factors that may precipitate hepatic coma, such
 
 Hypokalemia is uncommon with triamterene and hydrochlorothiazide but, should it develop, corrective measures should be taken such as potassium supplementation or increased intake of potassium-rich foods.
 Institute such measures cautiously with frequent determinations of serum potassium levels, especially in patients receiving digitalis or with a history of cardiac arrhythmias.
-If serious hypokalemia (serum potassium less than 3.0 mEq/L) is demonstrated by repeat serum potassium determinations, triamterene and hydrochlorothiazide should be discontinued and potassium chloride supplementation initiated.
+If serious hypokalemia (serum potassium less than 3 mEq/L) is demonstrated by repeat serum potassium determinations, triamterene and hydrochlorothiazide should be discontinued and potassium chloride supplementation initiated.
 Less serious hypokalemia should be evaluated with regard to other coexisting conditions and treated accordingly.
 
 ## Electrolyte Imbalance
@@ -55,7 +55,7 @@ Possible fluid and electrolyte imbalance may be indicated by such warning signs 
 ## Hypochloremia
 
 Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
-Dilutional hyponatremia may occur is edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life threatening.
+Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life threatening.
 In actual salt depletion, appropriate replacement is the therapy of choice.
 
 ## Renal Stones
@@ -67,7 +67,7 @@ Triamterene and hydrochlorothiazide should be used with caution in patients with
 
 ### Serum Potassium
 
-The normal adult range of serum potassium is 3.5 to 5.0 mEq per liter with 4.5 mEq often being used for a reference point.
+The normal adult range of serum potassium is 3.5 to 5 mEq per liter with 4.5 mEq often being used for a reference point.
 If hypokalemia should develop, corrective measures should be taken such as potassium supplementation or increased dietary intake of potassium-rich foods.
 
 Institute such measures cautiously with frequent determinations of serum potassium levels.
@@ -98,15 +98,15 @@ The common complications of hyperparathyroidism such as bone resorption and pept
 
 ## Drug Interactions
 
-### Angiotensin-converting enzyme inhibitors
+### Angiotensin-converting Enzyme Inhibitors
 
 Potassium-sparing agents should be used with caution in conjunction with angiotensin-converting enzyme (ACE) inhibitors due to an increased risk of hyperkalemia.
 
-### Oral hypoglycemic drugs
+### Oral Hypoglycemic Drugs
 
 Concurrent use with chlorpropamide may increase the risk of severe hyponatremia.
 
-### Nonsteroidal anti-inflammatory drugs
+### Nonsteroidal Anti-inflammatory Drugs
 
 A possible interaction resulting in acute renal failure has been reported in a few patients on triamterene and hydrochlorothiazide when treated with indomethacin, a nonsteroidal anti-inflammatory agent.
 Caution is advised in administering nonsteroidal anti-inflammatory agents with triamterene and hydrochlorothiazide.
@@ -116,7 +116,7 @@ Caution is advised in administering nonsteroidal anti-inflammatory agents with t
 Lithium generally should not be given with diuretics because they reduce its renal clearance and increase the risk of lithium toxicity.
 Read circulars for lithium preparations before use of such concomitant therapy with triamterene and hydrochlorothiazide.
 
-### Surgical considerations
+### Surgical Considerations
 
 Thiazides have been shown to decrease arterial responsiveness to norepinephrine (an effect attributed to loss of sodium).
 This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use.
@@ -141,7 +141,7 @@ Chronic or overuse of laxatives may reduce serum potassium levels by promoting e
 
 The effectiveness of methenamine may be decreased when used concurrently with hydrochlorothiazide because of alkalinization of the urine.
 
-## Drug/Laboratory test Interactions
+## Drug/Laboratory Test Interactions
 
 Triamterene and quinidine have similar fluorescence spectra; thus, triamterene and hydrochlorothiazide will interfere with the fluorescent measurement of quinidine.
 
@@ -154,7 +154,7 @@ Long-term studies have not been conducted with the triamterene and hydrochloroth
 #### Hydrochlorothiazide
 
 Two-year feeding studies in mice and rats, conducted under the auspices of the National Toxicology Program (NTP), treated mice and rats with doses of hydrochlorothiazide up to 600 and 100 mg/kg/day, respectively.
-On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the Maximum Recommended Human Dose (MRHD) for the hydrochlorothiazide component of triamterene and hydrochlorothiazide capsules at 50 mg/day (or 1.0 mg/kg/day based on 50 kg individuals).
+On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the Maximum Recommended Human Dose (MRHD) for the hydrochlorothiazide component of triamterene and hydrochlorothiazide capsules at 50 mg/day (or 1 mg/kg/day based on 50 kg individuals).
 On the basis of body-surface area, these doses are 56 times (in mice) and 21 times (in rats) the MRHD.
 These studies uncovered no evidence of carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.
 
@@ -179,7 +179,7 @@ Corresponding multiples of the MRHD are 100 (mice) and 4 (rats) on the basis of 
 
 ## Pregnancy
 
-### Category C
+### Pregnancy Category C
 
 #### Teratogenic Effects
 

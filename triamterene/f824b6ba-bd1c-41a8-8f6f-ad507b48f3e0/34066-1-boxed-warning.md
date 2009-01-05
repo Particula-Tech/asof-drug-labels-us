@@ -1,4 +1,4 @@
-Hyperkalemia:
+# Hyperkalemia:
 
 Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-sparing diuretic combinations, including triamterene and hydrochlorothiazide.
 Hyperkalemia is more likely to occur in patients with renal impairment and diabetes (even without evidence of renal impairment), and in the elderly or severely ill.
