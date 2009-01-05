@@ -2,7 +2,7 @@
 
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-Elderly patients with dementia-related psychosis treated with atypical antipsychotic drugs are at an increased risk of death compared to placebo.
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 INVEGA® (paliperidone) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
@@ -99,7 +99,7 @@ Because the INVEGA® tablet is non-deformable and does not appreciably change in
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in non-deformable controlled-release formulations.
 Because of the controlled-release design of the tablet, INVEGA® should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.2) and Patient Counseling Information (17.8)].
 
-A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailability and an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
+A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailabilityand an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
 These changes in bioavailability are more likely when the changes in transit time occur in the upper GI tract.
 
 ## 5.9 Orthostatic Hypotension and Syncope

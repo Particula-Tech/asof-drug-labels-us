@@ -12,13 +12,20 @@ In vitro studies in human liver microsomes showed that paliperidone does not sub
 Therefore, paliperidone is not expected to inhibit clearance of drugs that are metabolized by these metabolic pathways in a clinically relevant manner.
 Paliperidone is also not expected to have enzyme inducing properties.
 
-At therapeutic concentrations, paliperidone did not inhibit P-glycoprotein.
-Paliperidone is therefore not expected to inhibit P-glycoprotein-mediated transport of other drugs in a clinically relevant manner.
+Paliperidone is a weak inhibitor of P-glycoprotein (P-gp) at high concentrations.
+No in vivo data are available and the clinical relevance is unknown.
 
 ## 7.2 Potential for Other Drugs to Affect INVEGA®
 
 Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely.
 While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance.
+In vitro studies have shown that paliperidone is a P-gp substrate.
+
+Co-administration of INVEGA® 6 mg once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
+This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
+A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
+On initiation of carbamazepine, the dose of INVEGA® should be re-evaluated and increased if necessary.
+Conversely, on discontinuation of carbamazepine, the dose of INVEGA® should be re-evaluated and decreased if necessary.
 
 Paliperidone is metabolized to a limited extent by CYP2D6 [see Clinical Pharmacology (12.3)].
 In an interaction study in healthy subjects in which a single 3 mg dose of INVEGA® was administered concomitantly with 20 mg per day of paroxetine (a potent CYP2D6 inhibitor), paliperidone exposures were on average 16% (90% CI: 4, 30) higher in CYP2D6 extensive metabolizers.
