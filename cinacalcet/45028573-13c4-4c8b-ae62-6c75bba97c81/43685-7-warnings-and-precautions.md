@@ -11,8 +11,8 @@ Therefore, serum calcium levels should be closely monitored in patients receivin
 
 ## Hypotension and/or Worsening Heart Failure
 
-In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotension and/or worsening heart failure have been reported in patients with impaired cardiac function, in which a causal relationship to Sensipar® could not be completely excluded and may be mediated by reductions in serum calcium levels.
-Clinical trial data showed hypotension occurred in 7% of Sensipar®-treated patients, 12% of placebo-treated patients, and heart failure occurred in 2% of patients receiving Sensipar® or placebo.
+In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function, in which a causal relationship to Sensipar® could not be completely excluded and which may be mediated by reductions in serum calcium levels.
+Clinical trial data showed hypotension occurred in 7% of Sensipar®-treated patients and 12% of placebo-treated patients, heart failure occurred in 2% of both Sensipar®- and placebo-treated patients.
 
 # PRECAUTIONS
 
@@ -84,7 +84,7 @@ See CLINICAL PHARMACOLOGY, Pharmacokinetics and Drug Interactions.
 ### Effect of Sensipar® on other drugs:
 
 Drugs metabolized by cytochrome P450 2D6 (CYP2D6): Sensipar® is a strong in vitro, as well as in vivo, inhibitor of CYP2D6.
-Therefore, dose adjustments of concomitant medications that are predominantly metabolized by CYP2D6 and have a narrow therapeutic index (e.g., flecainide, vinblastine, thioridazine and most tricyclic antidepressants) may be required.
+Therefore, dose adjustments of concomitant medications that are predominantly metabolized by CYP2D6 (eg, metoprolol and carvedilol) and particularly those with a narrow therapeutic index (eg, flecainide, vinblastine, thioridazine and most tricyclic antidepressants) may be required.
 
 Desipramine: Concurrent administration of cinacalcet (90 mg) with desipramine (50 mg) increased the exposure of desipramine by 3.6 fold in CYP2D6 extensive metabolizers.
 

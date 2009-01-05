@@ -26,28 +26,28 @@ Similar results were observed when either the iPTH or bio-intact PTH (biPTH) ass
 Table 1.
 Effects of Sensipar® on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-month Phase 3 Studies (Patients on Dialysis)
 
-| Placebo (N = 205) | Sensipar® (N = 205) | Placebo (N = 165) | Sensipar® (N = 166) | Placebo (N = 101) | Sensipar® (N = 294) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Study 1 |  | Study 2 |  | Study 3 |  |
-| iPTH |  |  |  |  |  |  |  |  |
-|  | Baseline (pg/mL): Median Mean (SD) |  | 535651 (398) | 537636 (341) | 556 630 (317) | 547652 (372) | 670832 (486) | 703848 (685) |
-|  | Evaluation Phase (pg/mL) |  | 563 | 275 | 592 | 238 | 737 | 339 |
-|  | Median Percent Change |  | +3.8 | -48.3 | +8.4 | -54.1 | +2.3 | -48.2 |
-|  | Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%) iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3) Values shown are medians unless indicated otherwise |  | 4% | 41%p < 0.001 compared to placebo; p-values presented for primary endpoint only | 7% | 46% | 6% | 35% |
-|  | Patients Achieving ≥ 30% Reduction in iPTH (%) |  | 11% | 61% | 12% | 68% | 10% | 59% |
-|  | Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg2/dL2 (%) |  | 1% | 32% | 5% | 35% | 5% | 28% |
-| Ca x P |  |  |  |  |  |  |  |  |
-|  | Baseline (mg2/dL2) |  | 62 | 61 | 61 | 61 | 61 | 59 |
-|  | Evaluation Phase (mg2/dL2) |  | 59 | 52 | 59 | 47 | 57 | 48 |
-|  | Median Percent Change |  | -2.0 | -14.9 | -3.1 | -19.7 | -4.8 | -15.7 |
-| Calcium |  |  |  |  |  |  |  |  |
-|  | Baseline (mg/dL) |  | 9.8 | 9.8 | 9.9 | 10.0 | 9.9 | 9.8 |
-|  | Evaluation Phase (mg/dL) |  | 9.9 | 9.1 | 9.9 | 9.1 | 10.0 | 9.1 |
-|  | Median Percent Change |  | +0.5 | -5.5 | +0.1 | -7.4 | +0.3 | -6.0 |
-| Phosphorus |  |  |  |  |  |  |  |  |
-|  | Baseline (mg/dL) |  | 6.3 | 6.1 | 6.1 | 6.0 | 6.1 | 6.0 |
-|  | Evaluation Phase (mg/dL) |  | 6.0 | 5.6 | 5.9 | 5.1 | 5.6 | 5.3 |
-|  | Median Percent Change |  | -1.0 | -9.0 | -2.4 | -12.4 | -5.6 | -8.6 |
+| Placebo (N = 205) | Sensipar® (N = 205) | Placebo (N = 165) | Sensipar® (N = 166) | Placebo (N = 101) | Sensipar® (N = 294) |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Study 1 |  | Study 2 |  | Study 3 |  |
+| iPTH |  |  |  |  |  |  |  |
+| Baseline (pg/mL): | MedianMean (SD) | 535651 (398) | 537636 (341) | 556 630 (317) | 547652 (372) | 670832 (486) | 703848 (685) |
+| Evaluation Phase (pg/mL) |  | 563 | 275 | 592 | 238 | 737 | 339 |
+| Median Percent Change |  | +3.8 | -48.3 | +8.4 | -54.1 | +2.3 | -48.2 |
+| Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%) iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3) Values shown are medians unless indicated otherwise |  | 4% | 41%p < 0.001 compared to placebo; p-values presented for primary endpoint only | 7% | 46% | 6% | 35% |
+| Patients Achieving ≥ 30% Reduction in iPTH (%) |  | 11% | 61% | 12% | 68% | 10% | 59% |
+| Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg2/dL2 (%) |  | 1% | 32% | 5% | 35% | 5% | 28% |
+| Ca x P |  |  |  |  |  |  |  |
+| Baseline (mg2/dL2) |  | 62 | 61 | 61 | 61 | 61 | 59 |
+| Evaluation Phase (mg2/dL2) |  | 59 | 52 | 59 | 47 | 57 | 48 |
+| Median Percent Change |  | -2.0 | -14.9 | -3.1 | -19.7 | -4.8 | -15.7 |
+| Calcium |  |  |  |  |  |  |  |
+| Baseline (mg/dL) |  | 9.8 | 9.8 | 9.9 | 10.0 | 9.9 | 9.8 |
+| Evaluation Phase (mg/dL) |  | 9.9 | 9.1 | 9.9 | 9.1 | 10.0 | 9.1 |
+| Median Percent Change |  | +0.5 | -5.5 | +0.1 | -7.4 | +0.3 | -6.0 |
+| Phosphorus |  |  |  |  |  |  |  |
+| Baseline (mg/dL) |  | 6.3 | 6.1 | 6.1 | 6.0 | 6.1 | 6.0 |
+| Evaluation Phase (mg/dL) |  | 6.0 | 5.6 | 5.9 | 5.1 | 5.6 | 5.3 |
+| Median Percent Change |  | -1.0 | -9.0 | -2.4 | -12.4 | -5.6 | -8.6 |
 
 Data are presented for patients who completed the studies; Placebo (N = 342), Sensipar® (N = 439).
 

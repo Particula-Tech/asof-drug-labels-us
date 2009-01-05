@@ -6,4 +6,4 @@ Manufactured for: Amgen Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 9132
 
 ©2004-2008 Amgen Inc. All rights reserved.
 
-v3 - Issue Date 05/2008
+v4 - Issue Date 12/2008
