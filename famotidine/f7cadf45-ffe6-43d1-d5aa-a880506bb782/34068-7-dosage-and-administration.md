@@ -17,7 +17,7 @@ Acute Therapy: The recommended adult oral dosage for active benign gastric ulcer
 The recommended oral dosage for treatment of adult patients with symptoms of GERD is 20 mg b.i.d. for up to 6 weeks.
 The recommended oral dosage for the treatment of adult patients with esophagitis including erosions and ulcerations and accompanying symptoms due to GERD is 20 or 40 mg b.i.d. for up to 12 weeks (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
 
-### Dosage for Pediatric Patients<1 year of age Gastroesophageal Reflux Disease (GERD)
+### Dosage for Pediatric Patients <1 year of age Gastroesophageal Reflux Disease (GERD)
 
 See PRECAUTIONS, Pediatric Patients <1 year of age.
 
@@ -46,28 +46,13 @@ The recommended adult oral starting dose for pathological hypersecretory conditi
 Doses should be adjusted to individual patient needs and should continue as long as clinically indicated.
 Doses up to 160 mg q 6 h have been administered to some adult patients with severe Zollinger-Ellison Syndrome.
 
-## Oral Suspension
-
-PEPCID for Oral Suspension may be substituted for PEPCID Tablets in any of the above indications.
-Each five mL contains 40 mg of famotidine after constitution of the powder with 46 mL of Purified Water as directed.
-
-## Directions for Preparing PEPCID for Oral Suspension
-
-Prepare suspension at time of dispensing.
-Slowly add 46 mL of Purified Water.
-Shake vigorously for 5-10 seconds immediately after adding the water and immediately before use.
-
-## Stability of PEPCID for Oral Suspension
-
-Unused constituted oral suspension should be discarded after 30 days.
-
 ## Concomitant Use of Antacids
 
 Antacids may be given concomitantly if needed.
 
 ## Dosage Adjustment for Patients with Moderate or Severe Renal Insufficiency
 
-In adult patients with moderate (creatinine clearance<50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency, the elimination half-life of PEPCID is increased.
+In adult patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency, the elimination half-life of PEPCID is increased.
 For patients with severe renal insufficiency, it may exceed 20 hours, reaching approximately 24 hours in anuric patients.
 Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, to avoid excess accumulation of the drug in patients with moderate or severe renal insufficiency, the dose of PEPCID may be reduced to half the dose or the dosing interval may be prolonged to 36-48 hours as indicated by the patient's clinical response.
 

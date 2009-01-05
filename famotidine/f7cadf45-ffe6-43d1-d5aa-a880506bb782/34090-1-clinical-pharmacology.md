@@ -2,7 +2,7 @@
 
 ## GI Effects
 
-PEPCID is a competitive inhibitor of histamine H2‑receptors.
+PEPCID is a competitive inhibitor of histamine H2-receptors.
 The primary clinically important pharmacologic activity of PEPCID is inhibition of gastric secretion.
 Both the acid concentration and volume of gastric secretion are suppressed by PEPCID, while changes in pepsin secretion are proportional to volume output.
 
@@ -13,7 +13,7 @@ Duration of inhibition of secretion by doses of 20 and 40 mg was 10 to 12 hours.
 Single evening oral doses of 20 and 40 mg inhibited basal and nocturnal acid secretion in all subjects; mean nocturnal gastric acid secretion was inhibited by 86% and 94%, respectively, for a period of at least 10 hours.
 The same doses given in the morning suppressed food-stimulated acid secretion in all subjects.
 The mean suppression was 76% and 84%, respectively, 3 to 5 hours after administration, and 25% and 30%, respectively, 8 to 10 hours after administration.
-In some subjects who received the 20‑mg dose, however, the antisecretory effect was dissipated within 6-8 hours.
+In some subjects who received the 20-mg dose, however, the antisecretory effect was dissipated within 6-8 hours.
 There was no cumulative effect with repeated doses.
 The nocturnal intragastric pH was raised by evening doses of 20 and 40 mg of PEPCID to mean values of 5.0 and 6.4, respectively.
 When PEPCID was given after breakfast, the basal daytime interdigestive pH at 3 and 8 hours after 20 or 40 mg of PEPCID was raised to about 5.
@@ -32,7 +32,6 @@ Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testost
 
 PEPCID is incompletely absorbed.
 The bioavailability of oral doses is 40-45%.
-PEPCID Tablets and PEPCID for Oral Suspension are bioequivalent.
 Bioavailability may be slightly increased by food, or slightly decreased by antacids; however, these effects are of no clinical consequence.
 PEPCID undergoes minimal first-pass metabolism.
 After oral doses, peak plasma levels occur in 1-3 hours.
@@ -42,7 +41,7 @@ PEPCID has an elimination half-life of 2.5-3.5 hours.
 PEPCID is eliminated by renal (65-70%) and metabolic (30-35%) routes.
 Renal clearance is 250-450 mL/min, indicating some tubular excretion.
 Twenty-five to 30% of an oral dose and 65-70% of an intravenous dose are recovered in the urine as unchanged compound.
-The only metabolite identified in man is the S‑oxide.
+The only metabolite identified in man is the S-oxide.
 
 There is a close relationship between creatinine clearance values and the elimination half-life of PEPCID.
 In patients with severe renal insufficiency, i.e., creatinine clearance less than 10 mL/min, the elimination half-life of PEPCID may exceed 20 hours and adjustment of dose or dosing intervals in moderate and severe renal insufficiency may be necessary (see PRECAUTIONS, DOSAGE AND ADMINISTRATION).
@@ -94,11 +93,11 @@ Table 2: Patients with Endoscopically Confirmed Healed Gastric Ulcers
 |  | U.S. Study |  | International Study |  |
 |  | PEPCID | Placebo | PEPCID | Placebo |
 |  | 40 mg h.s. | h.s. | 40 mg h.s. | h.s. |
-| Week 4 | 45% | 39% | 47% | 31% |
-| Week 6 | Statistically significantly better than placebo (p≤0.01)66% | 44% | 65% | 46% |
+| Week 4 | 45% | 39% | Statistically significantly better than placebo (p≤0.01)47% | 31% |
+| Week 6 | 66% | 44% | 65% | 46% |
 | Week 8 | Statistically significantly better than placebo (p≤0.05)78% | 64% | 80% | 54% |
 
-Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving PEPCID than for patients receiving placebo; however, in neither studywas there a statistically significant difference in the proportion of patients whose pain was relieved by the end of the study (week 8).
+Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving PEPCID than for patients receiving placebo; however, in neither study was there a statistically significant difference in the proportion of patients whose pain was relieved by the end of the study (week 8).
 
 #### Gastroesophageal Reflux Disease (GERD)
 
@@ -125,8 +124,8 @@ Table 4: % Endoscopic Healing - U.S. Study
 | --- | --- | --- | --- |
 |  | PEPCID | PEPCID |  |
 |  | 40 mg b.i.d. | 20 mg b.i.d. | Placebo |
-| Week 6 | 48p≤0.01 vs Placebo,p≤0.01 vs PEPCID 20 mg b.i.d. | 32 | 18 |
-| Week 12 | 69,p≤0.05 vs PEPCID 20 mg b.i.d. | 54 | 29 |
+| Week 6 | 48p≤0.01 vs Placebop≤0.01 vs PEPCID 20 mg b.i.d. | 32 | 18 |
+| Week 12 | 69p≤0.05 vs PEPCID 20 mg b.i.d. | 54 | 29 |
 
 As compared to placebo, patients who received PEPCID had faster relief of daytime and nighttime heartburn and a greater percentage of patients experienced complete relief of nighttime heartburn.
 These differences were statistically significant.
@@ -146,7 +145,7 @@ Table 5: % Endoscopic Healing - International Study
 #### Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
 
 In studies of patients with pathological hypersecretory conditions such as Zollinger-Ellison Syndrome with or without multiple endocrine adenomas, PEPCID significantly inhibited gastric acid secretion and controlled associated symptoms.
-Orally administered doses from 20 to 160 mg q 6 h maintained basal acid secretion below 10 mEq/hr; initial doses were titrated to the individual patient need and subsequent adjustments were necessary with time insome patients.
+Orally administered doses from 20 to 160 mg q 6 h maintained basal acid secretion below 10 mEq/hr; initial doses were titrated to the individual patient need and subsequent adjustments were necessary with time in some patients.
 PEPCID was well tolerated at these high dose levels for prolonged periods (greater than 12 months) in eight patients, and there were no cases reported of gynecomastia, increased prolactin levels, or impotence which were considered to be due to the drug.
 
 # CLINICAL PHARMACOLOGY IN PEDIATRIC PATIENTS

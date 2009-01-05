@@ -6,12 +6,7 @@ Symptomatic response to therapy with PEPCID does not preclude the presence of ga
 
 ## Patients with Moderate or Severe Renal Insufficiency
 
-Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance<10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine (see CLINICAL PHARMACOLOGY IN ADULTS and DOSAGE AND ADMINISTRATION).
-
-## Information for Patients
-
-The patient should be instructed to shake the oral suspension vigorously for 5-10 seconds prior to each use.
-Unused constituted oral suspension should be discarded after 30 days.
+Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine (see CLINICAL PHARMACOLOGY IN ADULTS and DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
 
@@ -22,7 +17,7 @@ Indocyanine green as an index of hepatic drug extraction has been tested and no 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a 106 week study in rats and a 92‑week study in mice given oral doses of up to 2000 mg/kg/day (approximately 2500 times the recommended human dose for active duodenal ulcer), there was no evidence of carcinogenic potential for PEPCID.
+In a 106 week study in rats and a 92-week study in mice given oral doses of up to 2000 mg/kg/day (approximately 2500 times the recommended human dose for active duodenal ulcer), there was no evidence of carcinogenic potential for PEPCID.
 
 Famotidine was negative in the microbial mutagen test (Ames test) using Salmonella typhimurium and Escherichia coli with or without rat liver enzyme activation at concentrations up to 10,000 mcg/plate.
 In in vivo studies in mice, with a micronucleus test and a chromosomal aberration test, no evidence of a mutagenic effect was observed.
@@ -45,12 +40,12 @@ Transient growth depression was observed in young rats suckling from mothers tre
 Famotidine is detectable in human milk.
 Because of the potential for serious adverse reactions in nursing infants from PEPCID, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Patients<1 year of age
+## Pediatric Patients <1 year of age
 
 Use of PEPCID in pediatric patients <1 year of age is supported by evidence from adequate and well-controlled studies of PEPCID in adults, and by the following studies in pediatric patients <1 year of age.
 
 Two pharmacokinetic studies in pediatric patients <1 year of age (N=48) demonstrated that clearance of famotidine in patients >3 months to 1 year of age is similar to that seen in older pediatric patients (1-15 years of age) and adults.
-In contrast, pediatric patients 0-3 months of age had famotidine clearance values that were 2- to 4‑fold less than those in older pediatric patients and adults.
+In contrast, pediatric patients 0-3 months of age had famotidine clearance values that were 2- to 4-fold less than those in older pediatric patients and adults.
 These studies also show that the mean bioavailability in pediatric patients <1 year of age after oral dosing is similar to older pediatric patients and adults.
 Pharmacodynamic data in pediatric patients 0-3 months of age suggest that the duration of acid suppression is longer compared with older pediatric patients, consistent with the longer famotidine half-life in pediatric patients 0-3 months of age.
 (See CLINICAL PHARMACOLOGY IN PEDIATRIC PATIENTS, Pharmacokinetics and Pharmacodynamics.)
