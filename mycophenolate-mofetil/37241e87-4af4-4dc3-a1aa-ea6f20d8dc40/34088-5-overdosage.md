@@ -9,7 +9,7 @@ At doses of 4 g/day or 5 g/day, there appears to be a higher rate, compared to t
 In acute oral toxicity studies, no deaths occurred in adult mice at doses up to 4000 mg/kg or in adult monkeys at doses up to 1000 mg/kg; these were the highest doses of mycophenolate mofetil tested in these species.
 These doses represent 11 times the recommended clinical dose in renal transplant patients and approximately 7 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
 In adult rats, deaths occurred after single-oral doses of 500 mg/kg of mycophenolate mofetil.
-The dose represents approximately 3 times the recommended clinical dose in cardiac transplant patientswhen corrected for BSA.
+The dose represents approximately 3 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
 
 MPA and MPAG are usually not removed by hemodialysis.
 However, at high MPAG plasma concentrations (>100 µg/mL), small amounts of MPAG are removed.

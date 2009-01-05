@@ -27,7 +27,7 @@ The parent drug, mycophenolate mofetil, can be measured systemically during the 
 
 ### Absorption
 
-In 12 healthy volunteers, the mean absolute bioavailability of oral mycophenolate mofetil relative to intravenous mycophenolate mofetil (based on MPA AUC) was 94%.
+In 12 healthy volunteers, the mean absolute bioavailability of oral mycophenolate mofetil relative to intravenous mycophenolatemofetil (based on MPA AUC) was 94%.
 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in renal transplant patients receiving multiple doses of mycophenolate mofetil up to a daily dose of 3 g (see Table 1).
 
 Food (27 g fat, 650 calories) had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g bid to renal transplant patients.
@@ -151,7 +151,7 @@ MPA AUC was 44.1 µg∙h/mL (±15.5).
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving CellCept oral suspension at a dose of 600 mg/m2 bid (up to a maximum of 1 g bid) after allogeneic renal transplantation.
 The pharmacokinetic data for MPA is provided in Table 3:
 
-Table 3 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation
+Table 3 Mean (±SD) Computed PharmacokineticParameters for MPA by Age and Time After Allogeneic Renal Transplantation
 
 | Age Group (n) | Time | Tmax (h) | Dose Adjustedadjusted to a dose of 600 mg/m2 Cmax (µg/mL) | Dose Adjusted AUC0–12 (µg∙h/mL) |
 | --- | --- | --- | --- | --- |

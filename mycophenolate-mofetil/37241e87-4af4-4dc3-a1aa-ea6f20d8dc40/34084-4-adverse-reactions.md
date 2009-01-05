@@ -169,20 +169,20 @@ The safety profile of intravenous CellCept was similar to that of intravenous az
 
 ## Postmarketing Experience
 
-### Congenital Disorders
+### Congenital Disorders:
 
 Congenital malformations including ear malformations have been reported in offspring of patients exposed to mycophenolate mofetil during pregnancy (see WARNINGS: Pregnancy).
 
-### Digestive
+### Digestive:
 
 Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 
-### Resistance Mechanism Disorders
+### Resistance Mechanism Disorders:
 
 Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
 
-### Respiratory
+### Respiratory:
 
 Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving CellCept.

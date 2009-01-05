@@ -19,20 +19,4 @@ Orthoclone OKT is a registered trademark of Ortho Biotech Inc.
 
 Maalox is a registered trademark of Novartis Consumer Health, Inc.
 
-Distributed by:
-
-Roche Pharmaceuticals
-
-Roche Laboratories Inc.
-
-340 Kingsland Street
-
-Nutley, New Jersey 07110–1199
-
-10093458
-
-27899497
-
-Revised: May 2008
-
-Copyright © 1998-2008 by Roche Laboratories Inc. All rights reserved.
+PI Revised: May 2008

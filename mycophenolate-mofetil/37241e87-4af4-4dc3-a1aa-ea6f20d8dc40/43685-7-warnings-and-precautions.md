@@ -1,6 +1,6 @@
 # WARNINGS
 
-(see boxed WARNINGS)
+(see boxed WARNING)
 
 ## Lymphoma and Malignancy
 
@@ -28,7 +28,7 @@ In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
 Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
-In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultationwith a neurologist should be considered as clinically indicated.
+In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
 Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
 In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
 
@@ -65,7 +65,7 @@ Patients should be aware that CellCept reduces blood levels of the hormones in t
 
 ## Neutropenia
 
-Severe neutropenia [absolute neutrophil count (ANC)<0.5× 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
+Severe neutropenia [absolute neutrophil count (ANC)<0.5 × 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
 Patients receiving CellCept should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
 The development of neutropenia may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 If neutropenia develops (ANC <1.3 × 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
@@ -238,9 +238,7 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category D.
-
-See WARNINGS section.
+Teratogenic Effects: Pregnancy Category D. See WARNINGS section.
 
 ## Nursing Mothers
 
