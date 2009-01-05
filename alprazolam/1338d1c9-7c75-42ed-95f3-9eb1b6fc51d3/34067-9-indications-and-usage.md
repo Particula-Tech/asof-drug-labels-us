@@ -1,0 +1,10 @@
+# INDICATIONS AND USAGE
+
+Alprazolam XR tablets are indicated for the treatment of panic disorder, with or without agoraphobia.
+
+This claim is supported on the basis of two positive studies with Alprazolam XR conducted in patients whose diagnoses corresponded closely to the DSM-III-R/IV criteria for panic disorder (see CLINICAL EFFICACY TRIALS).
+
+Panic disorder (DSM-IV) is characterized by recurrent unexpected panic attacks, ie, a discrete period of intense fear or discomfort in which four (or more) of the following symptoms develop abruptly and reach a peak within 10 minutes: (1) palpitations, pounding heart, or accelerated heart rate; (2) sweating; (3) trembling or shaking; (4) sensations of shortness of breath or smothering; (5) feeling of choking; (6) chest pain or discomfort; (7) nausea or abdominal distress; (8) feeling dizzy, unsteady, lightheaded, or faint; (9) derealization (feelings of unreality) or depersonalization (being detached from oneself); (10) fear of losing control; (11) fear of dying; (12) paresthesias (numbness or tingling sensations); (13) chills or hot flushes.
+
+The longer-term efficacy of Alprazolam XR has not been systematically evaluated.
+Thus, the physician who elects to use this drug for periods longer than 8 weeks should periodically reassess the usefulness of the drug for the individual patient.
