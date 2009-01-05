@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The most frequently reported adverse reactions for ACULAR LS™ ophthalmic solution occurring in approximately 1 to 5% of the overall study population were conjunctival hyperemia, corneal infiltrates, headache, ocular edema and ocular pain.
+The most frequently reported adverse reactions for ACULAR LS® ophthalmic solution occurring in approximately 1 to 5% of the overall study population were conjunctival hyperemia, corneal infiltrates, headache, ocular edema and ocular pain.
 
 The most frequent adverse events reported with the use of ketorolac tromethamine ophthalmic solutions have been transient stinging and burning on instillation.
 These events were reported by 20% - 40% of patients participating in these other clinical trials.
