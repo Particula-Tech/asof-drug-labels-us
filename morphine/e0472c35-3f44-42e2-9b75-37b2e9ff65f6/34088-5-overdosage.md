@@ -11,7 +11,7 @@ Supportive measures (including oxygen, vasopressors) should be employed in the m
 Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
 
 The pure opioid antagonists, such as naloxone, are specific antidotes against respiratory depression which results from opioid overdose.
-Naloxone (usually should be administered intravenously; however, because its duration of action is relatively short, the patient must be carefully monitored until spontaneous respiration is reliably re-established.
+Naloxone should be administered intravenously; however, because its duration of action is relatively short, the patient must be carefully monitored until spontaneous respiration is reliably re-established.
 If the response to naloxone is suboptimal or not sustained, additional naloxone may be administered, as needed, or given by continuous infusion to maintain alertness and respiratory function; however, there is no information available about the cumulative dose of naloxone that may be safely administered.
 
 Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to morphine overdose.
