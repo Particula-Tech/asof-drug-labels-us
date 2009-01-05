@@ -1,0 +1,9 @@
+# OVERDOSAGE
+
+There are no data available on the effects of acute or chronic overdosage with NASONEX Nasal Spray, 50 mcg.
+Because of low systemic bioavailability, and an absence of acute drug-related systemic findings in clinical studies, overdose is unlikely to require any therapy other than observation.
+Intranasal administration of 1600 mcg (4 times the recommended dose of NASONEX Nasal Spray, 50 mcg) daily for 29 days, to healthy human volunteers, was well tolerated with no increased incidence of adverse events.
+Single intranasal doses up to 4000 mcg have been studied in human volunteers with no adverse effects reported.
+Single oral doses up to 8000 mcg have been studied in human volunteers with no adverse effects reported.
+Chronic overdosage with any corticosteroid may result in signs or symptoms of hypercorticism (see PRECAUTIONS).
+Acute overdosage with this dosage form is unlikely since one bottle of NASONEX Nasal Spray, 50 mcg contains approximately 8500 mcg of mometasone furoate.
