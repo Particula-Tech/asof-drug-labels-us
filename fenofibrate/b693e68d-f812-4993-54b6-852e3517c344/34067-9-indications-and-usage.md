@@ -38,7 +38,7 @@ Fredrickson Classification of Hyperlipoproteinemias
 | III (rare) | IDL | C, TG | - |
 | IV | VLDL | TG | ↑↔C |
 | V (rare) | chylomicrons, VLDL | TG | ↑↔ C |
-| C = cholesterol TG = triglycerides LDL= low density lipoprotein VLDL= very low density lipoprotein IDL = intermediate density lipoprotein |  |  |  |
+| C = cholesterolTG = triglyceridesLDL= low density lipoproteinVLDL= very low density lipoproteinIDL = intermediate density lipoprotein |  |  |  |
 
 NCEP Treatment Guidelines: LDL-C Goals and Cutpoints for Therapeutic Lifestyle Changes and Drug Therapy in Different Risk Categories
 
@@ -47,7 +47,7 @@ NCEP Treatment Guidelines: LDL-C Goals and Cutpoints for Therapeutic Lifestyle C
 | CHD† or CHD risk equivalents (10-year risk > 20%) | < 100 | ≥ 100 | ≥ 130 (100-129: drug optional)†† |
 | 2+ Risk Factors (10-year risk ≤ 20%) | < 130 | ≥ 130 | 10-year risk 10%-20%: ≥ 130 10-year risk < 10%: ≥ 160 |
 | 0-1 Risk Factor††† | < 160 | ≥ 160 | ≥ 190 (160-189: LDL-lowering drug optional) |
-| † CHD = coronary heart disease †† Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of < 100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgement also may call for deferring drug therapy in this subcategory. ††† Almost all people with 0-1 risk factor have 10-year risk < 10%; thus, 10-year risk assessment in people with 0-1 risk factor is not necessary. |  |  |  |
+| † CHD = coronary heart disease†† Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of < 100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgement also may call for deferring drug therapy in this subcategory.††† Almost all people with 0-1 risk factor have 10-year risk < 10%; thus, 10-year risk assessment in people with 0-1 risk factor is not necessary. |  |  |  |
 
 After the LDL-C goal has been achieved, if the TG is still ≥ 200 mg/dL, non HDL-C (total-C minus HDL-C) becomes a secondary target of therapy.
 Non-HDL-C goals are set 30 mg/dL higher than LDL-C goals for each risk category.

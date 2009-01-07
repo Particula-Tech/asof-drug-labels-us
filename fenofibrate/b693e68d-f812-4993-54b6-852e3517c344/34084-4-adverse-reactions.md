@@ -25,7 +25,7 @@ Increases in liver function tests were the most frequent events, causing discont
 | RESPIRATORY |  |  |
 | Respiratory Disorder | 6.2% | 5.5% |
 | Rhinitis | 2.3% | 1.1% |
-| * Dosage equivalent to 145 mg TRICOR. ** Significantly different from Placebo. |  |  |
+| * Dosage equivalent to 145 mg TRICOR.** Significantly different from Placebo. |  |  |
 
 Additional adverse events reported during post-marketing surveillance or by three or more patients in placebo-controlled trials or reported in other controlled or open trials, regardless of causality are listed below.
 

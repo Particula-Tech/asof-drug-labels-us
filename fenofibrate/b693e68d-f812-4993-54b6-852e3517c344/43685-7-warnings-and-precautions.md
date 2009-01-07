@@ -46,7 +46,7 @@ The effect of TRICOR on coronary heart disease morbidity and mortality and non-c
 
 The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study was a 5-year randomized, placebo-controlled study of 9795 patients with type 2 diabetes mellitus treated with fenofibrate.
 Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75-1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80-0.99], p=0.04).
-There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.41) and 19% (HR 1.19 [0.90, 1.57], p=0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.
+There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 [0.90, 1.57], p=0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.
 
 In the Coronary Drug Project, a large study of post myocardial infarction of patients treated for 5 years with clofibrate, there was no difference in mortality seen between the clofibrate group and the placebo group.
 There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3.0% vs. 1.8%).
@@ -112,7 +112,7 @@ CPK levels should be assessed in patients reporting these symptoms, and fenofibr
 ## Venothromboembolic Disease
 
 In the FIELD trial, pulmonary embolus (PE) and deep vein thrombosis (DVT) were observed at higher rates in the fenofibrate- than the placebo-treated group.
-Of 9,795 patients enrolled in FIELD, there were 4,900 in the placebo group and 4,875 in the fenofibrate group.
+Of 9,795 patients enrolled in FIELD, there were 4,900 in the placebo group and 4,895 in the fenofibrate group.
 For DVT, there were 48 events (1%) in the placebo group and 67 (1%) in the fenofibrate group (p = 0.074); and for PE, there were 32 (0.7%) events in the placebo group and 53 (1%) in the fenofibrate group (p = 0.022).
 
 In the Coronary Drug Project, a higher proportion of the clofibrate group experienced definite or suspected fatal or nonfatal pulmonary embolism or thrombophlebitis than the placebo group (5.2% vs. 3.3% at five years; p < 0.01).

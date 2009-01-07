@@ -100,7 +100,7 @@ Concomitant administration of a single dose of fenofibrate (equivalent to 145 mg
 
 A single dose of either pravastatin or fluvastatin had no clinically important effect on the pharmacokinetics of fenofibric acid.
 
-Concomitant administration of fenofibrate (equivalent to TRICOR 145 mg) with atorvastatin (20 mg) once daily for 10 days resulted in approximately 17% decrease (range from 67% decrease to 44% increase) in atorvastatin AUC values in 22 healthy males.
+Concomitant administration of fenofibrate (equivalent to TRICOR 145 mg) with atorvastatin (20 mg) once daily for 10 days resulted in approximately 17% decrease (range from 67% decrease to 44% increase) in atorvastatin AUC valuesin 22 healthy males.
 The atorvastatin Cmax values were not significantly affected by fenofibrate.
 The pharmacokinetics of fenofibric acid were not significantly affected by atorvastatin.
 
