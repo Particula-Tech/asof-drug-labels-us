@@ -2,7 +2,7 @@
 
 PCE (erythromycin particles in tablets) is supplied as unscored, ovaloid, Dispertab tablets in the following strengths and packages.
 
-333 mg, pink-speckled white (imprinted with Abbott“A” logo and PCE):
+333 mg, pink-speckled white (imprinted with Abbott “A” logo and PCE):
 
 Bottles of 60………………………………………………………..(NDC 0074-6290-60).
 

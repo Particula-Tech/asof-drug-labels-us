@@ -30,7 +30,7 @@ Although the optimal duration of therapy has not been established, the recommend
 ## Urogenital Infections During Pregnancy Due to Chlamydia trachomatis
 
 Although the optimal dose and duration of therapy have not been established, the suggested treatment is 500 mg of erythromycin by mouth four times a day or two erythromycin 333 mg tablets orally every 8 hours on an empty stomach for at least 7 days.
-For women who cannot tolerate this regimen, a decreased dose of one erythromycin 500 mg tablet orally every 12 hours, one 333 mg tablet orally every 8 hours or 250 mg bymouth four times a day should be used for at least 14 days.5
+For women who cannot tolerate this regimen, a decreased dose of one erythromycin 500 mg tablet orally every 12 hours, one 333 mg tablet orally every 8 hours or 250 mg by mouth four times a day should be used for at least 14 days.5
 
 ## For adults with uncomplicated urethral, endocervical, or rectal infections caused by Chlamydia trachomatis, when tetracycline is contraindicated or not tolerated
 

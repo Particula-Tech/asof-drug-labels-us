@@ -16,7 +16,7 @@ The erythromycin particles in PCE tablets are coated with a polymer whose dissol
 This coating allows for minimal release of erythromycin in acidic environments, e.g., stomach.
 This delivery system is designed for optimal drug release and absorption in the small intestine.
 In multiple-dose, steady-state studies, PCE tablets have demonstrated rapid and generally adequate drug delivery in both fasting and nonfasting conditions.
-However, the presence of food results in lower blood levels, and optimal blood levels are obtained when PCE tablets are given in the fasting state (at least ½ hour and preferably 2 hours before meals).
+However, the presence of food results in lower blood levels, and optimal blood levels are obtained when PCE tablets are given in the fasting state (at least½ hour and preferably 2 hours before meals).
 Bioavailability data are available from Abbott Laboratories, Dept.
 4PI.
 
