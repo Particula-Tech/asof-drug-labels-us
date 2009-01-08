@@ -92,7 +92,7 @@ This category also provides a buffer zone which prevents small uncontrolled tech
 A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard erythromycin powder should provide the following MIC values:
+Standard erythromycin powder should provide the followingMIC values:
 
 | Microorganism | MIC (μg/mL) |
 | --- | --- |

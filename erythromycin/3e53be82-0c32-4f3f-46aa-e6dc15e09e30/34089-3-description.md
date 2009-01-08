@@ -30,7 +30,7 @@ The Filmtab® tablets are intended primarily for adults or older children.
 ## Inactive Ingredients
 
 E.E.S.
-200 Liquid: FD&C Red No. 40, methylparaben, polysorbate 60, propylparaben, sodium citrate, sucrose, water, xanthan gum and natural and artificial flavors.
+200 Liquid: FD&C Red No. 40, methylparaben, polysorbate 60, propylparaben,sodium citrate, sucrose, water, xanthan gum and natural and artificial flavors.
 
 E.E.S.
 400 Liquid: D&C Yellow No. 10, FD&C Yellow No. 6, methylparaben, polysorbate 60, propylparaben, sodium citrate, sucrose, water, xanthan gum and natural and artificial flavors.
