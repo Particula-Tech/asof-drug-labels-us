@@ -12,7 +12,7 @@ Table 2
 | Any Adverse Event | 89 (16.3) | 67 (17.3) |
 | Application site burning | 23 (4.2) | 12 (3.1) |
 | Headache | 6 (1.1) | 3 (0.8) |
-| NOTE: The same adverse event recorded by a subject at different visits count as one event for that subject, and the strongest intensity and relationship to treatment is used. |  |  |
+| NOTE: The same adverse event recorded by a subject at different visits count as one event for that subject, and the strongest intensity and relationship to treatment is used. At each level of summarization (System Organ Class and Preferred Term) subjects are only counted once. |  |  |
 
 In the three safety and efficacy studies, 65 of 933 subjects (7%) experienced at least one treatment-related adverse event.
 The most common treatment-related adverse event was application site burning (see Table 2).

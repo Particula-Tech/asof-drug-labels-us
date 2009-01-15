@@ -12,8 +12,8 @@ FOR
 
 Barrier Therapeutics, Inc. 600 College Road East Princeton, NJ 08540-6697 www.barriertherapeutics.com 1-866-440-5508
 
-US Patent Numbers: 09/562,376 and 10/722,134 (Patents Pending)
+US Patent Numbers: 7,179,475 and application 10/722,134 (Patent Pending)
 
-July 2006
+August 2008
 
 XO-005
