@@ -1,0 +1,7 @@
+Fliptop Vial
+
+Rx only
+
+MUST BE DILUTED PRIOR TO
+
+ADMINISTRATION
