@@ -1,10 +1,9 @@
-# CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
-CELEBREX is contraindicated in patients with known hypersensitivity to celecoxib.
+CELEBREX is contraindicated:
 
-CELEBREX should not be given to patients who have demonstrated allergic-type reactions to sulfonamides.
-
-CELEBREX should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
-Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS — Anaphylactoid Reactions, and PRECAUTIONS — Preexisting Asthma).
-
-CELEBREX is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS)
+- In patients with known hypersensitivity to celecoxib, aspirin, or other NSAIDs.
+- In patients who have demonstrated allergic-type reactions to sulfonamides.
+- In patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
+  Severe anaphylactoid reactions to NSAIDs, some of them fatal, have been reported in such patients [see Warnings and Precautions (5.7, 5.13)].
+- For the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)].

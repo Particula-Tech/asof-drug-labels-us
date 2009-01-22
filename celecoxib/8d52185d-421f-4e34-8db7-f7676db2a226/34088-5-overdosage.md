@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10. OVERDOSAGE
 
 No overdoses of CELEBREX were reported during clinical trials.
 Doses up to 2400 mg/day for up to 10 days in 12 patients did not result in serious toxicity.
