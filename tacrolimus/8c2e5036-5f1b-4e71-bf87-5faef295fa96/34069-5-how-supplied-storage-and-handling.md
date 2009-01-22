@@ -38,8 +38,6 @@ Deerfield, IL 60015-2548
 
 Manufactured by:
 
-Astellas Pharma Manufacturing, Inc.
+Astellas Toyama Co., Ltd. Toyama Plant, 2-178 Kojin-machi, Toyama 930-0809, Japan
 
-Grand Island, NY 14072
-
-Revised: August 2007
+Revised: January 2009
