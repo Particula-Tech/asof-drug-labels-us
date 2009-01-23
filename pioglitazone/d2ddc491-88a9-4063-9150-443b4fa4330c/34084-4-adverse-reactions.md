@@ -48,7 +48,7 @@ Almost all subjects (95%) were receiving cardiovascular medications (beta blocke
 Patients had a mean age of 61.8 years, mean duration of diabetes 9.5 years, and mean HbA1c 8.1%.
 Average duration of follow-up was 34.5 months.
 The primary objective of this trial was to examine the effect of ACTOS on mortality and macrovascular morbidity in patients with type 2 diabetes mellitus who were at high risk for macrovascular events.
-The primary efficacy variable was the time to the first occurrence of any event in the cardiovascular composite endpoint (see Table 8 below).
+The primary efficacy variable was the time to the first occurrence of any event in the cardiovascular composite endpoint (see table 8 below).
 Although there was no statistically significant difference between ACTOS and placebo for the 3-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with ACTOS.
 
 Table 8 Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint

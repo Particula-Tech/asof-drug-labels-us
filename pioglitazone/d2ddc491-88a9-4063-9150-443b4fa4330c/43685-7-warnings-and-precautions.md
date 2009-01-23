@@ -121,6 +121,8 @@ The majority of fractures observed in female patients were nonvertebral fracture
 No increase in fracture rates was observed in men treated with pioglitazone 1.7% (30/1735) versus placebo 2.1% (37/1728).
 The risk of fracture should be considered in the care of patients, especially female patients, treated with pioglitazone and attention should be given to assessing and maintaining bone health according to current standards of care.
 
+Macrovascular Outcomes: There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS or any other anti-diabetic drug.
+
 ## Laboratory Tests
 
 FPG and HbA1c measurements should be performed periodically to monitor glycemic control and the therapeutic response to ACTOS.

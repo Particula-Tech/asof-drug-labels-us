@@ -57,7 +57,7 @@ No dose adjustment in patients with renal dysfunction is recommended (see DOSAGE
 
 Hepatic Insufficiency: Compared with normal controls, subjects with impaired hepatic function (Child-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone mean peak concentrations but no change in the mean AUC values.
 
-ACTOS therapy should not be initiated if the patient exhibits clinical evidence of active liver disease or serum transaminase levels (ALT) exceed 2.5 times the upper limit of normal (see PRECAUTIONS, General, Hepatic Effects).
+ACTOS therapy should not be initiated if the patient exhibits clinical evidence of active liver disease or serum transaminase levels (ALT) exceed 2.5 times the upper limit of normal (see PRECAUTIONS, Hepatic Effects).
 
 Elderly: In healthy elderly subjects, peak serum concentrations of pioglitazone and total pioglitazone are not significantly different, but AUC values are slightly higher and the terminal half-life values slightly longer than for younger subjects.
 These changes were not of a magnitude that would be considered clinically relevant.
@@ -107,7 +107,7 @@ For unchanged atorvastatin the least square mean (90% CI) values were 0.77 (0.66
 
 Theophylline: Co-administration of ACTOS for 7 days with theophylline 400 mg administered twice daily resulted in no change in the pharmacokinetics of either drug.
 
-Cytochrome P450: See PRECAUTIONS.
+Cytochrome P450: See PRECAUTIONS
 
 Gemfibrozil: Concomitant administration of gemfibrozil (oral 600 mg twice daily), an inhibitor of CYP2C8, with pioglitazone (oral 30 mg) in 10 healthy volunteers pre-treated for 2 days prior with gemfibrozil (oral 600 mg twice daily) resulted in pioglitazone exposure (AUC0-24) being 226% of the pioglitazone exposure in the absence of gemfibrozil (see PRECAUTIONS).1
 
@@ -166,6 +166,9 @@ Therapy with any previous antidiabetic agent was discontinued 8 weeks prior to t
 Treatment with 15 mg, 30 mg, and 45 mg of ACTOS produced statistically significant improvements in HbA1c and fasting plasma glucose (FPG) at endpoint compared to placebo (Figure 1, Table 2).
 
 Figure 1 shows the time course for changes in FPG and HbA1c for the entire study population in this 26-week study.
+
+| Figure 1 Mean Change from Baseline for FPG and HbA1c in a 26-Week Placebo- Controlled Dose-Ranging Study |
+| --- |
 
 Table 2 shows HbA1c and FPG values for the entire study population.
 

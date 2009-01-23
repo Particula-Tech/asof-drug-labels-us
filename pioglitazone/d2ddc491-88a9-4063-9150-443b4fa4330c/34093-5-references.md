@@ -25,4 +25,4 @@ ACTOS® is a registered trademark of Takeda Pharmaceutical Company Limited and u
 
 All other trademark names are the property of their respective owners.
 
-05-1141 September 2007
+05-1150 August 2008
