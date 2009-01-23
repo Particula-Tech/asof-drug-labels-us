@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10. OVERDOSAGE
 
 Because strategies for the management of overdose are continually evolving, it is advisable to contact a Poison Control Center to determine the latest recommendations for the management of an overdose of any drug.
 
