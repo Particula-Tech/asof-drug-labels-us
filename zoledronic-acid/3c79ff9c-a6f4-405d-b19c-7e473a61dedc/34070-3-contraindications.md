@@ -2,7 +2,7 @@
 
 ## 4.1 Hypocalcemia
 
-[See Warnings and Precautions (5.2)]
+[See Warnings and Precautions (5.2)].
 
 ## 4.2 Hypersensitivity to zoledronic acid or any components of Reclast
 

@@ -18,7 +18,7 @@ There was no progressive reduction of bone turnover markers with repeated annual
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic data in patients with postmenopausal osteoporosis and Paget's disease of bone are not available.
+Pharmacokinetic data in patients with osteoporosis and Paget's disease of bone are not available.
 
 Distribution: Single or multiple (q 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
 The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end-of-infusion to <1% of Cmax 24 hours post infusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.

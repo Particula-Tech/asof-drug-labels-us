@@ -16,9 +16,9 @@ The morphometric criterion required the dual occurrence of 2 events: a relative 
 
 Effect on Vertebral Fractures
 
-Reclast significantly decreased the incidence of new vertebral fractures at one, two, and three years as shown in Table 3.
+Reclast significantly decreased the incidence of new vertebral fractures at one, two, and three years as shown in Table 4.
 
-Table 3.
+Table 4.
 Proportion of Patients with New Morphometric Vertebral Fractures
 
 | Outcome | Reclast (%) | Placebo (%) | Absolute Reduction in Fracture Incidence % (95% CI) | Relative Reduction in Fracture Incidence % (95% CI) |
@@ -41,9 +41,9 @@ Effect on All Clinical Fractures
 
 Reclast demonstrated superiority to placebo in reducing the incidence of all clinical fractures, clinical (symptomatic) vertebral and non-vertebral fractures (excluding finger, toe, facial, and clinical thoracic and lumbar vertebral fractures).
 All clinical fractures were verified based on the radiographic and/or clinical evidence.
-A summary of results is presented in Table 4.
+A summary of results is presented in Table 5.
 
-Table 4.
+Table 5.
 Between –Treatment Comparisons of the Incidence of Clinical Fracture Variables Over 3 Years
 
 | Outcome | Reclast (N= 3875) Event Rate n (%)+ | Placebo (N= 3861) Event Rate n (%)+ | Absolute Reduction in Fracture Incidence % (95% CI)+ | Relative Risk Reduction in Fracture Incidence % (95% CI) |
@@ -72,7 +72,7 @@ Effect on Height
 In the 3-year osteoporosis study standing height was measured annually using a stadiometer.
 The Reclast group revealed less height loss compared to placebo (4.2 mm vs. 7.0 mm, respectively (p<0.001)).
 
-Study 2: The efficacy and safety of Reclast in the treatment of patients with osteoporosis who suffered a recent low-trauma hip fracture was demonstrated in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint study of 2127 patients aged 50-95 years (mean age of 74.5).
+Study 2: The efficacy and safety of Reclast in the treatment of patients with osteoporosis who suffered a recent low-trauma hip fracture was demonstrated in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint study of 2127 men and women aged 50-95 years (mean age of 74.5).
 Concomitant osteoporosis therapies excluding other bisphosphonates and parathyroid hormone were allowed.
 Reclast was administered once a year as a single 5 mg dose in 100 mL solution, infused over at least 15 minutes.
 The study continued until at least 211 patients had confirmed clinical fractures in the study population.
@@ -82,7 +82,7 @@ The primary efficacy variable was the incidence of clinical fractures over the d
 Reclast significantly reduced the incidence of any clinical fracture by 35%.
 There was also a 46% reduction in the risk of a clinical vertebral fracture.
 
-Table 5.
+Table 6.
 Between - Treatment Comparisons of the Incidence of Key Clinical Fracture Variables
 
 | Outcome | Reclast (N=1065) Event Rate n (%)+ | Placebo (N=1062) Event Rate n (%)+ | Absolute Reduction in Fracture Incidence % (95% CI) + | Relative Risk Reduction in Fracture Incidence % (95% CI) |
@@ -96,7 +96,18 @@ Effect on Bone Mineral Density (BMD)
 Reclast significantly increased BMD relative to placebo at the hip and femoral neck at all timepoints (12, 24, and 36 months).
 Treatment with Reclast resulted in a 6.4 % increase in BMD at the total hip and a 4.3% increase at the femoral neck over 36 months as compared to placebo.
 
-## 14.2 Treatment of Paget’s Disease of Bone
+## 14.2 Osteoporosis in Men
+
+The efficacy and safety of Reclast in men with osteoporosis or significant osteoporosis secondary to hypogonadism, was assessed in a randomized, multicenter, double-blind, active controlled, study of 302 men aged 25-86 years (mean age of 64).
+The duration of the trial was two years.
+Patients were randomized to either Reclast which was administered once annually as a 5 mg dose in 100 mL infused over 15 minutes for a total of up to two doses, or to an oral weekly bisphosphonate (active control) for up to two years.
+All participants received 1000 mg of elemental calcium plus 800 to 1000 IU of vitamin D supplementation per day.
+
+Effect on Bone Mineral Density (BMD)
+
+An annual infusion of Reclast was non-inferior to the oral weekly bisphosphonate active control based on the percentage change in lumbar spine BMD at Month 24 relative to baseline (Reclast: 6.1% increase; active control: 6.2% increase).
+
+## 14.3 Treatment of Paget’s Disease of Bone
 
 Reclast was studied in male and female patients with moderate to severe Paget’s disease of bone, defined as serum alkaline phosphatase level at least twice the upper limit of the age-specific normal reference range at the time of study entry.
 Diagnosis was confirmed by radiographic evidence.

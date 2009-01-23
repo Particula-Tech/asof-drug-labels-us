@@ -5,7 +5,7 @@ NDC 0078-0435-61
 
 Handling
 
-After opening the solution, it is stable for 24 hours at 2°C-8°C (36°F-46°F).
+After opening the solution, it is stable for 24 hours at 2°C–8°C (36°F-46°F).
 
 If refrigerated, allow the refrigerated solution to reach room temperature before administration.
 

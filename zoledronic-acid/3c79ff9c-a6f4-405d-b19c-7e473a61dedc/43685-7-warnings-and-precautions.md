@@ -10,9 +10,9 @@ Pre-existing hypocalcemia and disturbances of mineral metabolism (e.g., hypopara
 Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended for these patients [see Contraindications (4)].
 
 Hypocalcemia following Reclast administration is a significant risk in Paget’s disease.
-All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2.2), Adverse Reactions (6.1), Information for Patients (17.1)].
+All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2), Adverse Reactions (6.1), Information for Patients (17.1)].
 
-All osteoporosis patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2.1), Adverse Reactions (6.1), Information for Patients (17.1)].
+All osteoporosis patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2), Adverse Reactions (6.1), Information for Patients (17.1)].
 
 ## 5.3 Renal Impairment
 
@@ -23,7 +23,7 @@ Reclast is not recommended for use in patients with severe renal impairment (cre
 To help prevent renal impairment, patients especially those receiving diuretic therapy, should be appropriately hydrated prior to administration of Reclast.
 Reclast should be used with caution with other nephrotoxic drugs [see Drug Interactions (7.3)].
 
-Renal impairment has been observed following the administration of zoledronic acid, especially in patients with pre-existing renal compromise or additional risk factors (e.g., oncology patients with chemotherapy, concomitant nephrotoxic medications, severe dehydration, etc), the majority of whom received a 4 mg dose every 3-4 weeks, but it has been observed in patients after a single administration.
+Renal impairment has been observed following the administration of zoledronic acid, especially in patients with pre-existing renal compromise or additional risk factors (e.g., oncology patients with chemotherapy, concomitant nephrotoxic medications, severe dehydration, etc.). The majority of patients received a 4 mg dose every 3-4 weeks, but renal impairment has also been observed in patients after a single administration.
 
 Monitor serum creatinine before each Reclast dose.
 Transient increase in serum creatinine may be greater in patients with impaired renal function; consider interim monitoring of serum creatinine in at-risk patients.
@@ -34,7 +34,7 @@ Osteonecrosis of the jaw (ONJ) has been reported in patients treated with bispho
 Most cases have been in cancer patients treated with intravenous bisphosphonates undergoing dental procedures.
 Some cases have occurred in patients with postmenopausal osteoporosis treated with either oral or intravenous bisphosphonates.
 A routine oral examination should be performed by the prescriber prior to initiation of bisphosphonate treatment.
-A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with a history of concomitant risk factors (e.g., cancer, chemotherapy, corticosteroids, poor oral hygiene).
+A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with a history of concomitant risk factors (e.g., cancer, chemotherapy, radiotherapy, corticosteroids, poor oral hygiene, pre-existing dental disease or infection, anemia, coagulopathy).
 
 While on treatment, patients with concomitant risk factors should avoid invasive dental procedures if possible.
 For patients who develop ONJ while on bisphosphonate therapy, dental surgery may exacerbate the condition.

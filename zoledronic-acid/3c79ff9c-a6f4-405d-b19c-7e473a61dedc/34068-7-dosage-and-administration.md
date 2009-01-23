@@ -4,18 +4,23 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Patients must be appropriately hydrated prior to administration of Reclast [see Warnings and Precautions (5.3)].
 
-Administration of acetaminophen or ibuprofen following Reclast administration may reduce the incidence of acute-phase reaction symptoms.
+Administration of acetaminophen following Reclast administration may reduce the incidence of acute-phase reaction symptoms.
 
-The following recommended doses of Reclast are for patients with creatinine clearance >35 mL/min [see Warnings and Precautions (5.3)].
+A 5 mg dose of Reclast administered intravenously is recommended for patients with creatinine clearance >35 mL/min [see Warnings and Precautions (5.3)].
 
-## 2.1 Treatment of Osteoporosis
+## 2.1 Treatment of Osteoporosis in Postmenopausal Women
 
-The recommended regimen is a single 5 mg infusion once a year given intravenously over no less than 15 minutes.
-
+The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
 For osteoporosis treatment, and to reduce the risk of hypocalcemia, patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
-Postmenopausal women require an average of 1200 mg calcium and 800-1000 IU vitamin D daily.
+Postmenopausal women require an average of at least 1200 mg calcium and 800-1000 IU vitamin D daily.
 
-## 2.2 Treatment of Paget’s Disease of Bone
+## 2.2 Osteoporosis in Men
+
+The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
+Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
+An average of at least 1200 mg calcium and 800-1000 IU vitamin D daily is recommended.
+
+## 2.3 Treatment of Paget’s Disease of Bone
 
 The recommended dose is a 5 mg infusion.
 The infusion time must not be less than 15 minutes given over a constant infusion rate.
@@ -29,7 +34,7 @@ After a single treatment with Reclast in Paget’s disease an extended remission
 Specific re-treatment data are not available.
 However, re-treatment with Reclast may be considered in patients who have relapsed, based on increases in serum alkaline phosphatase, or in those patients who failed to achieve normalization of their serum alkaline phosphatase, or in those patients with symptoms, as dictated by medical practice.
 
-## 2.3 Method of Administration
+## 2.4 Method of Administration
 
 The Reclast infusion time must not be less than 15 minutes given over a constant infusion rate.
 

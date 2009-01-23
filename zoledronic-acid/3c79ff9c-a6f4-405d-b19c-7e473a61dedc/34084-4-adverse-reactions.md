@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Treatment of Osteoporosis
+Treatment of Osteoporosis in Postmenopausal Women
 
 The safety of Reclast in the treatment of postmenopausal osteoporosis was assessed in Study 1, a large, randomized, double-blind, placebo-controlled, multinational study of 7736 postmenopausal women aged 65-89 years with osteoporosis, diagnosed by bone mineral density or the presence of a prevalent vertebral fracture.
 The duration of the trial was three years with 3862 patients exposed to Reclast and 3852 patients exposed to placebo administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes, for a total of three doses.
@@ -23,7 +23,7 @@ The incidence of all-cause mortality was 9.6% in the Reclast group and 13.3% in 
 The incidence of serious adverse events was 38.3% in the Reclast group and 41.3% in the placebo group.
 The percentage of patients who withdrew from the study due to adverse events was 5.3% and 4.7% for the Reclast and placebo groups, respectively.
 
-Adverse reactions reported in at least 2% of patients with osteoporosis, and more frequently in the Reclast-treated patients than placebo-treated patients in either osteoporosis trial are shown below in Table 1.
+Adverse reactions reported in at least 2% of patients with osteoporosis and more frequently in the Reclast-treated patients than placebo-treated patients in either osteoporosis trial are shown below in Table 1.
 
 Table 1.
 Adverse Reactions Occurring in ≥ 2.0% of Patients with Osteoporosis and More Frequently than in Placebo-Treated Patients
@@ -120,6 +120,85 @@ Ocular Adverse Events
 Cases of iritis/uveitis/episcleritis/conjunctivitis have been reported in patients treated with bisphosphonates, including zoledronic acid.
 In the osteoporosis trials, 1 (<0.1%) to 9 (0.2%) patients treated with Reclast and 0 (0%) to 1 (<0.1%) patient treated with placebo developed iritis/uveitis/episcleritis.
 
+Osteoporosis in Men
+
+The safety of Reclast in men with osteoporosis or osteoporosis secondary to hypogonadism, was assessed in a two year randomized, multicenter, double-blind, active controlled group study of 302 men aged 25-86 years.
+One hundred fifty three (153) patients were exposed to Reclast administered once annually with a 5 mg dose in 100 mL infused over 15 minutes for up to a total of two doses, and 148 patients were exposed to a commercially-available oral weekly bisphosphonate (active control) for up to two years.
+All participants received 1000 mg of elemental calcium plus 800 to 1000 IU of vitamin D supplementation per day.
+
+The incidence of all-cause mortality (one in each group) and serious adverse events were similar between the Reclast and active control treatment groups.
+The percentage of patients experiencing at least one adverse event was comparable between the Reclast and active control groups, with the exception of a higher incidence of post-dose symptoms in the Reclast group that occurred within 3 days after infusion.
+The overall safety and tolerability of Reclast was similar to the active control.
+
+Adverse reactions reported in at least 2% of men with osteoporosis and more frequently in the Reclast-treated patients than the active control-treated patients and either (1) not reported in the postmenopausal osteoporosis trial or (2) reported more frequently in the trial of osteoporosis in men are presented in Table 2.
+Therefore, Table 2 should be viewed in conjunction with Table 1.
+
+Table 2: Adverse Reactions Occurring in > 2% of Men with Osteoporosis and More Frequently in the Reclast-Treated Patients than the Active Control -Treated Patients and either (1) Not Reported in the Postmenopausal Osteoporosis Trial or (2) Reported More Frequently in this Trial
+
+| System Organ Class | 5 mg IV Reclast once per year % (N=153) | Active Control once weekly % (N=148) |
+| --- | --- | --- |
+| Nervous System Disorders |  |  |
+| Headache | 15.0 | 6.1 |
+| Lethargy | 3.3 | 1.4 |
+| Eye Disorders |  |  |
+| Eye pain | 2.0 | 0.0 |
+| Cardiac Disorders |  |  |
+| Atrial fibrillation | 3.3 | 2.0 |
+| Palpitations | 2.6 | 0.0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Dyspnea | 6.5 | 4.7 |
+| Abdominal pain* | 7.9 | 4.1 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Hyperhidrosis | 2.6 | 2.0 |
+| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |
+| Myalgia | 19.6 | 6.8 |
+| Musculoskeletal pain** | 12.4 | 10.8 |
+| Musculoskeletal stiffness | 4.6 | 0.0 |
+| Renal and Urinary Disorders |  |  |
+| Blood creatinine increased | 2.0 | 0.7 |
+| General Disorders and Administrative Site Conditions |  |  |
+| Fatigue | 17.6 | 6.1 |
+| Pain | 11.8 | 4.1 |
+| Chills | 9.8 | 2.7 |
+| Influenza like illness | 9.2 | 2.0 |
+| Malaise | 7.2 | 0.7 |
+| Acute phase reaction | 3.9 | 0.0 |
+| Investigations |  |  |
+| C-reactive protein increased | 4.6 | 1.4 |
+
+* Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR
+
+** Combined musculoskeletal pain and musculoskeletal chest pain as one ADR
+
+Renal Impairment
+
+Creatinine clearance was measured annually prior to dosing and changes in long-term renal function over 24 months was comparable in the Reclast and active control groups.
+[See Warnings and Precautions (5.3)].
+
+Acute Phase Reaction
+
+Reclast was associated with signs and symptoms of an acute phase reaction: Myalgia (17.1%), fever (15.7%), fatigue (12.4%), arthralgia (11.1%), pain (10.5%), chills (9.8%), headache (9.8%), influenza-like illness (8.5%), malaise (5.2%), and back pain (3.3%), which occurred within the first 3 days following the dose of Reclast.
+The majority of these symptoms were mild to moderate and resolved within 3 days of the event onset but resolution could take up to 7-14 days.
+The incidence of these symptoms decreased with subsequent doses of Reclast.
+
+Atrial Fibrillation
+
+The incidence of all atrial fibrillation adverse events in the Reclast treatment group was 3.3% (5 out of 153) compared to 2.0% (3 out of 148) in the active control group.
+However, there were no patients with adjudicated serious adverse events of atrial fibrillation in the Reclast treatment group.
+
+Laboratory Findings
+
+There were no patients who had treatment emergent serum calcium levels below 7.5 mg/dL.
+
+Injection Site Reactions
+
+There were 4 patients (2.6%) on Reclast vs. 2 patients (1.4%) on active control with local site reactions.
+
+Osteonecrosis of the Jaw
+
+In this trial there were no cases of osteonecrosis of the jaw.
+[See Warnings and Precautions (5.4)].
+
 Paget’s Disease of Bone
 
 In the Paget’s disease trials, two 6-month, double-blind, comparative, multinational studies of 349 men and women aged > 30 years with moderate to severe disease and with confirmed Paget’s disease of bone, 177 patients were exposed to Reclast and 172 patients exposed to risedronate.
@@ -129,9 +208,9 @@ Risedronate was given as an oral daily dose of 30 mg for 2 months.
 The incidence of serious adverse events was 5.1% in the Reclast group and 6.4% in the risedronate group.
 The percentage of patients who withdrew from the study due to adverse events was 1.7% and 1.2% for the Reclast and risedronate groups, respectively.
 
-Adverse reactions occurring in at least 2% of the Paget’s patients receiving Reclast (single 5 mg IV infusion) or risedronate (30 mg oral daily dose for 2 months) over a 6-month study period are listed by system organ class in Table 2.
+Adverse reactions occurring in at least 2% of the Paget’s patients receiving Reclast (single 5 mg IV infusion) or risedronate (30 mg oral daily dose for 2 months) over a 6-month study period are listed by system organ class in Table 3.
 
-Table 2.
+Table 3.
 Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Reclast (Single 5 mg IV Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-Up Period
 
 | System Organ Class | 5 mg IV Reclast % (N = 177) | 30 mg/day x 2 Months risedronate % (N = 172) |
