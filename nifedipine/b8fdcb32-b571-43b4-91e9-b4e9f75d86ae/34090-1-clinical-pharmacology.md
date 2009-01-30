@@ -38,13 +38,10 @@ Nifedipine is extensively metabolized to highly water soluble, inactive metaboli
 Only traces (less than 0.1% of the dose) of the unchanged form can be detected in the urine.
 The remainder is excreted in the feces in metabolized form, most likely as a result of biliary excretion.
 
-Nifedipine is metabolized via the cytochrome P450 3A4 system.
-Drugs that are known to either inhibit or induce this enzyme system may alter the first pass or clearance of nifedipine.
-
 No studies have been performed with ADALAT CC in patients with renal failure; however, significant alterations in the pharmacokinetics of nifedipine immediate release capsules have not been reported in patients undergoing hemodialysis or chronic ambulatory peritoneal dialysis.
 Since the absorption of nifedipine from ADALAT CC could be modified by renal disease, caution should be exercised in treating such patients.
 
-Because nifedipine is metabolized via the cytochrome P450 3A4 system, its pharmacokinetics may be altered in patients with chronic liver disease.
+Because hepatic biotransformation is the predominant route for the disposition of nifedipine, its pharmacokinetics may be altered in patients with chronic liver disease.
 ADALAT CC has not been studied in patients with hepatic disease; however, in patients with hepatic impairment (liver cirrhosis) nifedipine has a longer elimination half-life and higher bioavailability than in healthy volunteers.
 
 The degree of protein binding of nifedipine is high (92%-98%).
@@ -56,7 +53,6 @@ In healthy subjects, the elimination half-life of a different sustained release 
 A decreased clearance was also observed in the elderly (348 mL/min) compared to young subjects (519 mL/min) following intravenous administration.
 
 Co-administration of nifedipine with grapefruit juice results in up to a 2-fold increase in AUC and Cmax, due to inhibition of CYP3A4 related first-pass metabolism.
-Ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
 
 ## Clinical Studies:
 
@@ -69,7 +65,7 @@ The mean trough (24 hours post-dose) blood pressure results from these studies a
 | MEAN REDUCTIONS IN TROUGH SUPINE BLOOD PRESSURE (mmHg) |  |  |
 |  | STUDY 1 |  |
 | ADALAT CC | N | MEAN TROUGH |
-| DOSE |  | REDUCTIONPlacebo response subtracted. |
+| DOSE |  | REDUCTION* |
 | 30 MG | 60 | 5.3/2.9 |
 | 60 MG | 57 | 8.0/4.1 |
 | 90 MG | 55 | 12.5/8.1 |
@@ -79,19 +75,16 @@ The mean trough (24 hours post-dose) blood pressure results from these studies a
 | 30 MG | 58 | 7.6/3.8 |
 | 60 MG | 63 | 10.1/5.3 |
 | 90 MG | 62 | 10.2/5.8 |
+| *Placebo response subtracted. |  |  |
 
 The trough/peak ratios estimated from 24 hour blood pressure monitoring ranged from 41%-78% for diastolic and 46%-91% for systolic blood pressure.
 
-### Hemodynamics:
-
-Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.
+Hemodynamics: Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.
 This is rarely, if ever, seen in intact animals or man, probably because of reflex responses to its vasodilating effects.
 In man, nifedipine decreases peripheral vascular resistance which leads to a fall in systolic and diastolic pressures, usually minimal in normotensive volunteers (less than 5-10 mm Hg systolic), but sometimes larger.
 With ADALAT CC, these decreases in blood pressure are not accompanied by any significant change in heart rate.
 Hemodynamic studies of the immediate release nifedipine formulation in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end-diastolic pressure (LVEDP) or volume (LVEDV).
 In patients with impaired ventricular function, most acute studies have shown some increase in ejection fraction and reduction in left ventricular filling pressure.
 
-### Electrophysiologic Effects:
-
-Although, like other members of its class, nifedipine causes a slight depression of sinoatrial node function and atrioventricular conduction in isolated myocardial preparations, such effects have not been seen in studies in intact animals or in man.
+Electrophysiologic Effects: Although, like other members of its class, nifedipine causes a slight depression of sinoatrial node function and atrioventricular conduction in isolated myocardial preparations, such effects have not been seen in studies in intact animals or in man.
 In formal electrophysiologic studies, predominantly in patients with normal conduction systems, nifedipine administered as the immediate release capsule has had no tendency to prolong atrioventricular conduction or sinus node recovery time, or to slow sinus rate.

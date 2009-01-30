@@ -9,7 +9,7 @@ The different strengths can be identified as follows:
 | 60 mg | Salmon | 60 on one side and ADALAT CC on the other side |
 | 90 mg | Dark Red | 90 on one side and ADALAT CC on the other side |
 
-ADALAT CC Tablets are supplied in:
+ADALAT® CC Tablets are supplied in:
 
 |  | Strength | NDC Code |
 | --- | --- | --- |
