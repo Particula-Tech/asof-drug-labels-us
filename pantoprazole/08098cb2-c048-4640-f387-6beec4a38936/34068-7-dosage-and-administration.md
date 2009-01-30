@@ -11,7 +11,7 @@ The recommended adult oral dose is PROTONIX 40 mg, taken daily (see CLINICAL PHA
 
 ## Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-The dosage of PROTONIX in patients with pathological hypersecretory conditions varies with the individual patient.
+The dosage of PROTONIXin patients with pathological hypersecretory conditions varies with the individual patient.
 The recommended adult starting dose is 40 mg twice daily.
 Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated.
 Doses up to 240 mg daily have been administered.

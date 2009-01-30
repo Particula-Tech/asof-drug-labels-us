@@ -20,7 +20,8 @@ Patients should be cautioned that PROTONIX® Delayed-Release Tablets SHOULD NOT 
 PROTONIX Delayed-Release Tablets should be swallowed whole, with or without food in the stomach.
 Concomitant administration of antacids does not affect the absorption of PROTONIX® Delayed-Release Tablets.
 
-- Patients should be cautioned that PROTONIX® For Delayed-Release Oral Suspension SHOULD NOT BE CRUSHED OR CHEWED.PROTONIX For Delayed-Release Oral Suspension should be taken approximately 30 minutes before a meal.
+- Patients should be cautioned that PROTONIX® For Delayed-Release Oral Suspension SHOULD NOT BE CRUSHED OR CHEWED.
+  PROTONIX For Delayed-Release Oral Suspension should be taken approximately 30 minutes before a meal.
 
 - PROTONIX For Delayed-Release Oral Suspension should only be administered in apple juice or applesauce, not in water or other liquids, or foods.
 
@@ -85,7 +86,7 @@ Because animal reproduction studies are not always predictive of human response,
 Pantoprazole and its metabolites are excreted in the milk of rats.
 Pantoprazole excretion in human milk has been detected in a study of a single nursing mother after a single 40 mg oral dose.
 The clinical relevance of this finding is not known.
-Many drugs which are excreted in human milk have a potential for serious adverse reactions in nursing infants.
+Many drugs which are excreted in human milk have a potentialfor serious adverse reactions in nursing infants.
 Based on the potential for tumorigenicity shown for pantoprazole in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the benefit of the drug to the mother.
 
 ## Pediatric Use

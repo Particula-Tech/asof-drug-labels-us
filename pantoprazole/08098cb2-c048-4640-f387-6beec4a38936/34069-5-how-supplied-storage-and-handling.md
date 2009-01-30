@@ -34,4 +34,4 @@ Wyeth®
 
 Marketed by Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101 under license from Nycomed GmbH D78467 Konstanz, Germany
 
-W10438C017 ET01 Rev 12/07
+W10438C018 ET01 Rev 05/08

@@ -51,7 +51,7 @@ Although these sub-populations of slow pantoprazole metabolizers have eliminatio
 
 ### Elimination
 
-After a single oral or intravenous dose of 14C-labeled pantoprazole to healthy, normal metabolizer volunteers, approximately 71% of the dose was excreted in the urine with 18% excreted in the feces through biliary excretion.
+After a single oral or intravenous dose of 14C-labeled pantoprazoleto healthy, normal metabolizer volunteers, approximately 71% of the dose was excreted in the urine with 18% excreted in the feces through biliary excretion.
 There was no renal excretion of unchanged pantoprazole.
 
 ### Special Populations
@@ -113,11 +113,11 @@ The binding to the (H+,K+)-ATPase results in a duration of antisecretory effect 
 Under maximal acid stimulatory conditions using pentagastrin, a dose-dependent decrease in gastric acid output occurs after a single dose of oral (20-80 mg) or a single dose of intravenous (20-120 mg) pantoprazole in healthy volunteers.
 Pantoprazole given once daily results in increasing inhibition of gastric acid secretion.
 Following the initial oral dose of 40 mg pantoprazole, a 51% mean inhibition was achieved by 2.5 hours.
-With once a day dosing for 7 days the mean inhibition was increased to 85%.
+With once a day dosing for 7 days the mean inhibition was increasedto 85%.
 Pantoprazole suppressed acid secretion in excess of 95% in half of the subjects.
 Acid secretion had returned to normal within a week after the last dose of pantoprazole; there was no evidence of rebound hypersecretion.
 
-In a series of dose-response studies pantoprazole, at oral doses ranging from 20 to 120 mg, caused dose-related increases in median basal gastric pH and in the percent of time gastric pH was > 3 and > 4.
+In a series of dose-response studies pantoprazole, at oral doses ranging from 20 to 120 mg, caused dose-related increases in median basal gastric pH and in the percent of time gastric pH was > 3 and> 4.
 Treatment with 40 mg of pantoprazole produced optimal increases in gastric pH which were significantly greater than the 20-mg dose.
 Doses higher than 40 mg (60, 80, 120 mg) did not result in further significant increases in median gastric pH.
 The effects of pantoprazole on median pH from one double-blind crossover study are shown below.
@@ -205,7 +205,7 @@ Patients taking PROTONIX consumed significantly fewer antacid tablets per day th
 
 ## Long-Term Maintenance of Healing of Erosive Esophagitis
 
-Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in GERD patients with endoscopically-confirmed healed erosive esophagitis to demonstrate efficacy of PROTONIX in long-term maintenance of healing.
+Two independent,multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in GERD patients with endoscopically-confirmed healed erosive esophagitis to demonstrate efficacy of PROTONIX in long-term maintenance of healing.
 The two U.S. studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of PROTONIX Delayed-Release Tablets once daily or 150 mg of ranitidine twice daily.
 As demonstrated in the table below, PROTONIX 40 mg and 20 mg were significantly superior to ranitidine at every time point with respect to the maintenance of healing.
 In addition, PROTONIX 40 mg was superior to all other treatments studied.

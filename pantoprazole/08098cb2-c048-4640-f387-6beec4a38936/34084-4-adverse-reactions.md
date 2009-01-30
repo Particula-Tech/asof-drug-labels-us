@@ -12,13 +12,13 @@ Most Frequent Adverse Events Reported as Drug Related in Short-term Domestic Tri
 
 | Study Event | PROTONIX (n = 521) | Placebo (n = 82) | PROTONIX (n = 161) | Nizatidine (n = 82) |
 | --- | --- | --- | --- | --- |
-|  | ––––––––––––––––––––––––% Incidence–––––––––––––––––––––––– |  |  |  |
+|  | ––––––––––––––––––––––––%Incidence–––––––––––––––––––––––– |  |  |  |
 |  | Study 300-US |  | Study 301-US |  |
 | Headache Diarrhea Flatulence Abdominal pain Rash Eructation Insomnia Hyperglycemia | 6 4 2 1 <1 1 <1 1 | 6 1 2 2 0 1 2 0 | 9 6 4 4 2 0 1 <1 | 13 6 0 4 0 0 1 0 |
 
 Note: Only adverse events with an incidence greater than or equal to the comparators are shown.
 
-In international short-term, double-blind or open-label clinical trials involving 20 mg to 80 mg per day, the following adverse events were reported to occur in 1% or more of 2805 GERD patients receiving pantoprazole for up to 8 weeks.
+In international short-term, double-blind or open-label clinical trials involving 20 mg to 80 mg per day, the following adverse events were reported to occurin 1% or more of 2805 GERD patients receiving pantoprazole for up to 8 weeks.
 
 Adverse Events in GERD Patients in Short-term International Trials
 
