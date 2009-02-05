@@ -24,12 +24,12 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-©Copyright 2008, Boehringer Ingelheim International GmbH, ALL RIGHTS RESERVED
+©Copyright 2009, Boehringer Ingelheim International GmbH, ALL RIGHTS RESERVED
 
 Micardis® HCT (telmisartan and hydrochlorothiazide) tablets are covered by U.S. Patent 5,591,762
 
-Rev: September 2008
+Rev: January 2009
 
-IT1105CI1608 340139/05 10004142/03
+IT1105DL1208 090340139/06
 
-BI-USPI-0086-SPL
+IT13006C 10004142/04
