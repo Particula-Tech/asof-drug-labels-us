@@ -120,7 +120,7 @@ Table 6: RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHI Adapted f
 For those outcomes included in the WHI "global index", the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
-(See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
+(See WARNINGS, WARNINGS, and PRECAUTIONS.)
 
 The estrogen-alone substudy was stopped early because an increased risk of stroke was observed.
 Results of the estrogen-alone substudy, which included 10,739 women (average age of 63 years, range 50 to 79; 75.3 percent white, 15 percent black, 6.1 percent Hispanic), after an average follow-up of 6.8 years are presented in Table 6.
