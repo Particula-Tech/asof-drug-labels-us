@@ -51,5 +51,4 @@ These are categorized according to whether a causal relationship to treatment wi
 | Immunologic: | angioedema laryngeal edema urticaria | anaphylaxis Lupus-like syndrome vasculitis |
 | Integumentary: | exfoliative dermatitis rash dermatitis pruritus | alopecia photosensitivity |
 
-Additional adverse reactions that have been reported include cholecystitis and cholelithiasis (ref.
-12) (see WARNINGS).
+Additional adverse reactions that have been reported include cholecystitis and cholelithiasis (see WARNINGS).

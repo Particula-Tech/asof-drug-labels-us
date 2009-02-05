@@ -19,8 +19,7 @@ Noncoronary heart disease related mortality showed an excess in the group origin
 The incidence of cancer (excluding basal cell carcinoma) discovered during the trial and in the 3.5 years after the trial was completed was 51 (2.5%) in both originally randomized groups.
 In addition, there were 16 basal cell carcinomas in the group originally randomized to LOPID and 9 in the group randomized to placebo (p=0.22).
 There were 30 (1.5%) deaths attributed to cancer in the group originally randomized to LOPID and 18 (0.9%) in the group originally randomized to placebo (p=0.11).
-Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study.
-(See CLINICAL PHARMACOLOGY.)
+Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study (see CLINICAL PHARMACOLOGY).
 
 A comparative carcinogenicity study was also done in rats comparing three drugs in this class: fenofibrate (10 and 60 mg/kg; 0.3 and 1.6 times the human dose), clofibrate (400 mg/kg; 1.6 times the human dose), and gemfibrozil (250 mg/kg; 1.7 times the human dose).
 Pancreatic acinar adenomas were increased in males and females on fenofibrate; hepatocellular carcinoma and pancreatic acinar adenomas were increased in males and hepatic neoplastic nodules in females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with gemfibrozil while testicular interstitial cell (Leydig cell) tumors were increased in males on all three drugs.
@@ -32,8 +31,7 @@ This result did not differ statistically from the increased incidence of cholecy
 Both clofibrate and gemfibrozil may increase cholesterol excretion into the bile leading to cholelithiasis.
 If cholelithiasis is suspected, gallbladder studies are indicated.
 LOPID therapy should be discontinued if gallstones are found.
-Cases of cholelithiasis have been reported with gemfibrozil therapy (ref.
-7).
+Cases of cholelithiasis have been reported with gemfibrozil therapy.
 
 3.
 Since a reduction of mortality from coronary heart disease has not been demonstrated and because liver and interstitial cell testicular tumors were increased in rats, LOPID should be administered only to those patients described in the INDICATIONS AND USAGE section.
@@ -46,9 +44,7 @@ Frequent prothrombin determinations are advisable until it has been definitely d
 
 5.
 Concomitant therapy with LOPID and an HMG-CoA reductase inhibitor is associated with an increased risk of skeletal muscle toxicity manifested as rhabdomyolysis, markedly elevated creatine kinase (CPK) levels and myoglobinuria, leading in a high proportion of cases to acute renal failure and death.
-Because of an observed marked increased risk of myopathy and rhabdomyolysis, the specific combination of LOPID and cerivastatin is absolutely contraindicated (seeCONTRAINDICATIONS).
-IN PATIENTS WHO HAVE HAD AN UNSATISFACTORY LIPID RESPONSE TO EITHER DRUG ALONE, THE BENEFIT OF COMBINED THERAPY WITH LOPID AND HMG-CoA REDUCTASE INHIBITORS OTHER THAN CERIVASTATIN DOES NOT OUTWEIGH THE RISKS OF SEVERE MYOPATHY, RHABDOMYOLYSIS, AND ACUTE RENAL FAILURE (refs.
-8, 9, 10, 11) (see Drug Interactions).
+IN PATIENTS WHO HAVE HAD AN UNSATISFACTORY LIPID RESPONSE TO EITHER DRUG ALONE, THE BENEFIT OF COMBINED THERAPY WITH LOPID AND an HMG-CoA REDUCTASE INHIBITOR DOES NOT OUTWEIGH THE RISKS OF SEVERE MYOPATHY, RHABDOMYOLYSIS, AND ACUTE RENAL FAILURE (see PRECAUTIONS, Drug Interactions).
 The use of fibrates alone, including LOPID, may occasionally be associated with myositis.
 Patients receiving LOPID and complaining of muscle pain, tenderness or weakness should have prompt medical evaluation for myositis, including serum creatine–kinase level determination.
 If myositis is suspected or diagnosed, LOPID therapy should be withdrawn.
@@ -71,10 +67,8 @@ Periodic determination of serum lipids should be obtained, and the drug withdraw
 
 ### (A) HMG-CoA reductase inhibitors
 
-The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy (see CONTRAINDICATIONS).
-Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (refs.
-8, 9, 10, 11).
-(See WARNINGS.)
+The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy.
+Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (see WARNINGS).
 There is no assurance that periodic monitoring of creatine kinase will prevent the occurrence of severe myopathy and kidney damage.
 
 ### (B) Anticoagulants
@@ -85,13 +79,8 @@ FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY D
 
 ### (C) Repaglinide
 
-In vivo data from a study that evaluated the co-administration of gemfibrozil with repaglinide in healthy subjects resulted in a significant increase in repaglinide blood levels.
-Patients taking repaglinide should not start taking gemfibrozil; patients taking gemfibrozil should not start taking repaglinide.
-Concomitant use may result in enhanced and prolonged blood glucose-lowering effects of repaglinide.
-Caution should be used in patients already on repaglinide and gemfibrozil – blood glucose levels should be monitored and repaglinide dose adjustment may be needed.
-Rare post marketing events of serious hypoglycemia have been reported in patients taking repaglinide and gemfibrozil together.
-In this same study, gemfibrozil and itraconazole had a synergistic metabolic inhibitory effect on repaglinide.
-Therefore, patients taking repaglinide and gemfibrozil should not take itraconazole.
+In healthy volunteers, co-administration with gemfibrozil increased the plasma concentration of repaglinide and prolonged its hypoglycemic effects.
+Co-administration of gemfibrozil and repaglinide increases the risk for severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
 
 ## 4. Carcinogenesis, Mutagenesis, Impairment of Fertility
 

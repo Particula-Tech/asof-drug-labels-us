@@ -6,8 +6,7 @@ LDL-cholesterol levels in Type IIb patients with elevations of both serum LDL-ch
 LOPID increases levels of high density lipoprotein (HDL) subfractions HDL2 and HDL3, as well as apolipoproteins AI and AII.
 Epidemiological studies have shown that both low HDL-cholesterol and high LDL-cholesterol are independent risk factors for coronary heart disease.
 
-In the primary prevention component of the Helsinki Heart Study (refs.
-1,2), in which 4081 male patients between the ages of 40 and 55 were studied in a randomized, double-blind, placebo-controlled fashion, LOPID therapy was associated with significant reductions in total plasma triglycerides and a significant increase in high density lipoprotein cholesterol.
+In the primary prevention component of the Helsinki Heart Study, in which 4081 male patients between the ages of 40 and 55 were studied in a randomized, double-blind, placebo-controlled fashion, LOPID therapy was associated with significant reductions in total plasma triglycerides and a significant increase in high density lipoprotein cholesterol.
 Moderate reductions in total plasma cholesterol and low density lipoprotein cholesterol were observed for the LOPID treatment group as a whole, but the lipid response was heterogeneous, especially among different Fredrickson types.
 The study involved subjects with serum non-HDL-cholesterol of over 200 mg/dL and no previous history of coronary heart disease.
 Over the five-year study period, the LOPID group experienced a 1.4% absolute (34% relative) reduction in the rate of serious coronary events (sudden cardiac deaths plus fatal and nonfatal myocardial infarctions) compared to placebo, p=0.04 (see Table I). There was a 37% relative reduction in the rate of nonfatal myocardial infarction compared to placebo, equivalent to a treatment-related difference of 13.1 events per thousand persons.
@@ -64,8 +63,7 @@ Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Morta
 
 It is not clear to what extent the findings of the primary prevention component of the Helsinki Heart Study can be extrapolated to other segments of the dyslipidemic population not studied (such as women, younger or older males, or those with lipid abnormalities limited solely to HDL-cholesterol) or to other lipid-altering drugs.
 
-The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction or unexplained ECG changes (ref.
-3).
+The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction or unexplained ECG changes.
 The primary efficacy endpoint of the study was cardiac events (the sum of fatal and non-fatal myocardial infarctions and sudden cardiac deaths).
 The hazard ratio (LOPID:placebo) for cardiac events was 1.47 (95% confidence limits 0.88–2.48, p=0.14).
 Of the 35 patients in the LOPID group who experienced cardiac events, 12 patients suffered events after discontinuation from the study.
@@ -90,11 +88,9 @@ Peak plasma levels occur in 1 to 2 hours with a plasma half-life of 1.5 hours fo
 
 Gemfibrozil is completely absorbed after oral administration of LOPID tablets, reaching peak plasma concentrations 1 to 2 hours after dosing.
 Gemfibrozil pharmacokinetics are affected by the timing of meals relative to time of dosing.
-In one study (ref.
-4), both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
+In one study, both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
 Average AUC was reduced by 14–44% when LOPID was administered after meals compared to 0.5 hour before meals.
-In a subsequent study (ref.
-4), rate of absorption of LOPID was maximum when administered 0.5 hour before meals with the Cmax 50–60% greater than when given either with meals or fasting.
+In a subsequent study, rate of absorption of LOPID was maximum when administered 0.5 hour before meals with the Cmax 50–60% greater than when given either with meals or fasting.
 In this study, there were no significant effects on AUC of timing of dose relative to meals (seeDOSAGE AND ADMINISTRATION).
 
 LOPID mainly undergoes oxidation of a ring methyl group to successively form a hydroxymethyl and a carboxyl metabolite.
