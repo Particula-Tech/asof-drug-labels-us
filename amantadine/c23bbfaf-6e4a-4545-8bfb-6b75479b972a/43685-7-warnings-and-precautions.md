@@ -62,6 +62,14 @@ Thus, the dose of SYMMETREL should be reduced in patients with renal impairment 
 Care should be exercised when administering SYMMETREL to patients with liver disease.
 Rare instances of reversible elevation of liver enzymes have been reported in patients receiving SYMMETREL, though a specific relationship between the drug and such changes has not been established.
 
+## Melanoma
+
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
+
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using SYMMETREL for any indication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
+
 ## Other
 
 The dose of SYMMETREL may need careful adjustment in patients with congestive heart failure, peripheral edema, or orthostatic hypotension.
@@ -91,6 +99,12 @@ If there is no improvement in a few days, or if medication appears less effectiv
 Consult physician before discontinuing medication.
 
 Seek medical attention immediately if it is suspected that an overdose of medication has been taken.
+
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including SYMMETREL.
+Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
+Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with SYMMETREL.
+Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges or other intense urges while taking SYMMETREL.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking SYMMETREL.
 
 ## Drug Interactions
 
