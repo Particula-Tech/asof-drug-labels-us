@@ -19,12 +19,12 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-©Copyright 2008, Boehringer Ingelheim International GmbH, ALL RIGHTS RESERVED
+©Copyright 2009, Boehringer Ingelheim International GmbH, ALL RIGHTS RESERVED
 
 MICARDIS tablets are covered by U.S. Patent 5,591,762
 
-Rev: September 2008
+Rev: January 2009
 
-OT1200DI1008 340194/4
+OT1200FL3008 090340194/5
 
-IT12004A 10005385/01
+IT12004B 10005385/02

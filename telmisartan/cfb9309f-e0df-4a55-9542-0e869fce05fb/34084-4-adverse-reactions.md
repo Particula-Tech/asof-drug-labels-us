@@ -7,10 +7,8 @@ In placebo-controlled trials involving 1041 patients treated with various doses 
 
 Adverse events occurring at an incidence of 1% or more in patients treated with telmisartan and at a greater rate than in patients treated with placebo, irrespective of their causal association, are presented in the following table.
 
-|  | % | % |
+|  | Telmisartan n = 1455 % | Placebo n = 380 % |
 | --- | --- | --- |
-|  | Telmisartan | Placebo |
-|  | n = 1455 | n = 380 |
 | Upper respiratory tract infection | 7 | 6 |
 | Back pain | 3 | 1 |
 | Sinusitis | 3 | 2 |
@@ -44,11 +42,15 @@ One telmisartan-treated patient discontinued therapy due to increases in creatin
 Liver Enzymes: Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
 No telmisartan-treated patients discontinued therapy due to abnormal hepatic function.
 
+## Cardiovascular Risk Reduction Trials
+
+In clinical studies with patients at high risk of developing major cardiovascular events, cases of sepsis, including some with fatal outcomes, have been reported.
+
 ## Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of Micardis® (telmisartan) tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to MICARDIS tablets.
-The most frequently spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, increased CPK, anaphylactic reaction, and tendon pain (including tendonitis, tenosynovitis).
+The most frequently spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, increased CPK, anaphylactic reaction, and tendon pain (including tendonitis, tenosynivitis).
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including MICARDIS tablets.
