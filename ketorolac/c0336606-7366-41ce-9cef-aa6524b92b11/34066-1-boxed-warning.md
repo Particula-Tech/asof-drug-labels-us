@@ -1,10 +1,10 @@
 # WARNING
 
-TORADOL ORAL (ketorolac tromethamine), a nonsteroidal anti-inflammatory drug (NSAID), is indicated for the short-term (up to 5 days in adults), management of moderately severe acute pain that requires analgesia at the opioid level and only as continuation treatment following IV or IM dosing of ketorolac tromethamine, if necessary.
-The total combined duration of use of TORADOL ORAL and ketorolac tromethamine should not exceed 5 days.
+TORADOLORAL (ketorolac tromethamine), a nonsteroidal anti-inflammatory drug (NSAID), is indicated for the short-term (up to 5 days in adults), management of moderately severe acute pain that requires analgesia at the opioid level and only as continuation treatment following IV or IM dosing of ketorolac tromethamine, if necessary.
+The total combined duration of use of TORADOLORAL and ketorolac tromethamine should not exceed 5 days.
 
-TORADOL ORAL is not indicated for use in pediatric patients and it is NOT indicated for minor or chronic painful conditions.
-Increasing the dose of TORADOL ORAL beyond a daily maximum of 40 mg in adults will not provide better efficacy but will increase the risk of developing serious adverse events.
+TORADOLORAL is not indicated for use in pediatric patients and it is NOT indicated for minor or chronic painful conditions.
+Increasing the dose of TORADOLORAL beyond a daily maximum of 40 mg in adults will not provide better efficacy but will increase the risk of developing serious adverse events.
 
 ## GASTROINTESTINAL RISK
 
@@ -17,7 +17,7 @@ Increasing the dose of TORADOL ORAL beyond a daily maximum of 40 mg in adults wi
 
 - NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
   This risk may increase with duration of use.
-  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS and CLINICAL TRIALS).
+  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS and CLINICAL STUDIES).
 - TORADOL is CONTRAINDICATED for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
 
 ## RENAL RISK

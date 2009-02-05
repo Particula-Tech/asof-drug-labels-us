@@ -2,10 +2,10 @@
 
 Carefully consider the potential benefits and risks of TORADOL and other treatment options before deciding to use TORADOL.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals.
-In adults, the combined duration of use of IV or IM dosing of ketorolac tromethamine and TORADOL ORAL is not to exceed 5 days.
-In adults, the use of TORADOL ORAL is only indicated as continuation therapy to IV or IM dosing of ketorolac tromethamine.
+In adults, the combined duration of use of IV or IM dosing of ketorolac tromethamine and TORADOLORAL is not to exceed 5 days.
+In adults, the use of TORADOLORAL is only indicated as continuation therapy to IV or IM dosing of ketorolac tromethamine.
 
-Transition from IV or IM dosing of ketorolac tromethamine (single- or multiple-dose) to multiple-dose TORADOL ORAL:
+Transition from IV or IM dosing of ketorolac tromethamine (single- or multiple-dose) to multiple-dose TORADOLORAL:
 
 Patients age 17 to 64: 20 mg PO once followed by 10 mg q4-6 hours prn not >40 mg/day
 
@@ -19,13 +19,13 @@ Use minimum effective dose for the individual patient
 
 Do not shorten dosing interval of 4 to 6 hours
 
-Total duration of treatment in adult patients: the combined duration of use of IV or IM dosing of ketorolac tromethamine and TORADOL ORAL is not to exceed 5 days.
+Total duration of treatment in adult patients: the combined duration of use of IV or IM dosing of ketorolac tromethamine and TORADOLORAL is not to exceed 5 days.
 
-The following table summarizes TORADOL ORAL dosing instructions in terms of age group:
+The following table summarizes TORADOLORAL dosing instructions in terms of age group:
 
 Table 4 Summary of Dosing Instructions
 
-| Patient Population | TORADOL ORAL (following IV or IM dosing of ketorolac tromethamine) |
+| Patient Population | TORADOLORAL (following IV or IM dosing of ketorolac tromethamine) |
 | --- | --- |
 | Age <17 years | Oral not approved |
 | Adult Age 17 to 64 years | 20 mg once, then 10 mg q4-6 hours prn not >40 mg/day |

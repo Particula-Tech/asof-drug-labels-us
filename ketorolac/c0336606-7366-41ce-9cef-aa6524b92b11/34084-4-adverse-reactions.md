@@ -10,14 +10,14 @@ In patients taking TORADOL or other NSAIDs in clinical trials, the most frequent
 | --- | --- | --- |
 | abdominal painIncidence greater than 10% | constipation/diarrhea | dyspepsia |
 | flatulence | GI fullness | GI ulcers (gastric/duodenal) |
-| gross bleeding/perforation | Heartburn | nausea |
-| stomatitis | Vomiting |  |
+| gross bleeding/perforation | heartburn | nausea |
+| stomatitis | vomiting |  |
 | Other experiences: |  |  |
-| abnormal renal function | Anemia | dizziness |
-| drowsiness | Edema | elevated liver enzymes |
-| headaches | Hypertension | increased bleeding time |
-| injection site pain | Pruritus | purpura |
-| rashes | Tinnitus | sweating |
+| abnormal renal function | anemia | dizziness |
+| drowsiness | edema | elevated liver enzymes |
+| headaches | hypertension | increased bleeding time |
+| injection site pain | pruritus | purpura |
+| rashes | tinnitus | sweating |
 
 Additional adverse experiences reported occasionally (<1% in patients taking TORADOL or other NSAIDs in clinical trials) include:
 
@@ -67,19 +67,19 @@ Urogenital: flank pain with or without hematuria and/or azotemia, hemolytic urem
 
 ## Postmarketing Surveillance Study
 
-A large postmarketing observational, nonrandomized study, involving approximately 10,000 patients receiving ketorolac tromethamine IV/IM, demonstrated that the risk of clinically serious gastrointestinal (GI) bleeding was dose-dependent (see Tables 3A and 3B).
-This was particularly true in elderly patients who received an average daily dose greater than 60 mg/day of ketorolac tromethamine IV/IM (see Table 3A).
+A large postmarketing observational, nonrandomized study, involving approximately 10,000 patients receiving ketorolac tromethamineIV/IM, demonstrated that the risk of clinically serious gastrointestinal (GI) bleeding was dose-dependent (see Tables 3A and 3B).
+This was particularly true in elderly patients who received an average daily dose greater than 60 mg/day of ketorolac tromethamineIV/IM (see Table 3A).
 
 Table 3 Incidence of Clinically Serious GI Bleeding as Related to Age, Total Daily Dose, and History of GI Perforation, Ulcer, Bleeding (PUB) After up to 5 Days of Treatment With Ketorolac TromethamineIV/IM
 
 | A. Adult Patients Without History of PUB |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Age of Patients | Total Daily Dose of Ketorolac Tromethamine IV/IM |  |  |  |
+| Age of Patients | Total Daily Dose of Ketorolac TromethamineIV/IM |  |  |  |
 | ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |
 | <65 years of age | 0.4% | 0.4% | 0.9% | 4.6% |
 | ≥65 years of age | 1.2% | 2.8% | 2.2% | 7.7% |
 | B. Adult Patients With History of PUB |  |  |  |  |
-| Age of Patients | Total Daily Dose of Ketorolac Tromethamine IV/IM |  |  |  |
+| Age of Patients | Total Daily Dose of Ketorolac TromethamineIV/IM |  |  |  |
 | ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |
 | <65 years of age | 2.1% | 4.6% | 7.8% | 15.4% |
 | ≥65 years of age | 4.7% | 3.7% | 2.8% | 25.0% |

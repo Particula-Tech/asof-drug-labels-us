@@ -5,8 +5,8 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 ## Acute Pain in Adult Patients
 
-TORADOL ORAL is indicated for the short-term (≤5 days) management of moderately severe acute pain that requires analgesia at the opioid level, usually in a postoperative setting.
-Therapy should always be initiated with IV or IM dosing of ketorolac tromethamine, and TORADOL ORAL is to be used only as continuation treatment, if necessary.
+TORADOLORAL is indicated for the short-term (≤5 days) management of moderately severe acute pain that requires analgesia at the opioid level, usually in a postoperative setting.
+Therapy should always be initiated with IV or IM dosing of ketorolac tromethamine, and TORADOLORAL is to be used only as continuation treatment, if necessary.
 
-The total combined duration of use of TORADOL ORAL and ketorolac tromethamine is not to exceed 5 days of use because of the potential of increasing the frequency and severity of adverse reactions associated with the recommended doses (see WARNINGS, PRECAUTIONS, DOSAGE AND ADMINISTRATION, and ADVERSE REACTIONS).
-Patients should be switched to alternative analgesics as soon as possible, but TORADOL ORAL therapy is not to exceed 5 days.
+The total combined duration of use of TORADOLORAL and ketorolac tromethamine is not to exceed 5 days of use because of the potential of increasing the frequency and severity of adverse reactions associated with the recommended doses (see WARNINGS, PRECAUTIONS, DOSAGE AND ADMINISTRATION, and ADVERSE REACTIONS).
+Patients should be switched to alternative analgesics as soon as possible, but TORADOLORAL therapy is not to exceed 5 days.

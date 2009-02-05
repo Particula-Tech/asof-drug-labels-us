@@ -6,8 +6,8 @@ TORADOL is contraindicated in patients with previously demonstrated hypersensiti
 
 TORADOL is contraindicated in patients with active peptic ulcer disease, in patients with recent gastrointestinal bleeding or perforation and in patients with a history of peptic ulcer disease or gastrointestinal bleeding.
 
-TORADOL should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDS.
-Severe, rarely fatal, anaphylactic-like reactions to NSAIDS have been reported in such patients (see WARNINGS: Anaphylactoid Reactions, and PRECAUTIONS: Preexisting Asthma).
+TORADOL should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
+Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS: Anaphylactoid Reactions, and PRECAUTIONS: Preexisting Asthma).
 
 TORADOL is contraindicated as prophylactic analgesic before any major surgery.
 

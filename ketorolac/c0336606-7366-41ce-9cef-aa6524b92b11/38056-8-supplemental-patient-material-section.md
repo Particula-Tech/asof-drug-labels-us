@@ -1,4 +1,4 @@
-## MEDICATION GUIDE FOR NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS)
+## MEDICATION GUIDE FOR NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDs)
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
@@ -87,6 +87,8 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 Other information about Nonsteroidal Anti-Inflammatory Drugs (NSAIDs):
 
@@ -121,7 +123,7 @@ NSAID medicines that need a prescription:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Date created: June 15, 2005
+Medication Guide Revised: December 2008
 
 Celebrex is a registered trademark of G.D.
 Searle LLC.
@@ -147,7 +149,7 @@ Vicoprofen (combined with hydrocodone) is a registered trademark of BASF K & F C
 
 Combunox (combined with oxycodone) is a registered trademark of Forest Laboratories, Inc.
 
-Indocin, Indocin SR are registered trademarks of Merck& Co. Inc.
+Indocin, Indocin SR are registered trademarks of Merck & Co. Inc.
 
 Oruvail is a registered trademark of Imperial Bank, As Agent (formerly registered to Aventis Pharma S.A.).
 
@@ -155,7 +157,7 @@ Toradol is a registered trademark of Hoffmann-La Roche Inc.
 
 Ponstel is a registered trademark of Lasalle National Bank Association.
 
-Mobic is a registered trademark of Boehringer Ingelheim Pharma GMBG& Co. Kg.
+Mobic is a registered trademark of Boehringer Ingelheim Pharma GMBH& Co. Kg.
 
 Relafen is a registered trademark of SmithKline Beecham Corporation.
 
@@ -176,9 +178,6 @@ Tolectin, Tolectin DS, Tolectin 600 are registered trademarks of Johnson & Johns
 
 Distributed by:
 
-Roche Laboratores Inc. 340 Kingsland Street Nutley, New Jersey 07110–1199
+Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
 
-Rev.
-November 2007
-
-Copyright © 1997-2007 by Roche Laboratories Inc. All rights reserved.
+Copyright © 1997-2008 by Roche Laboratories Inc. All rights reserved.

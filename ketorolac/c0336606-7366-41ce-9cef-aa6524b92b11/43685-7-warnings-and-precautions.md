@@ -2,8 +2,8 @@
 
 (see also Boxed WARNING)
 
-The total combined duration of use of TORADOL ORAL and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
-TORADOL ORAL is not indicated for use in pediatric patients.
+The total combined duration of use of TORADOLORAL and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
+TORADOLORAL is not indicated for use in pediatric patients.
 
 The most serious risks associated with TORADOL are:
 
@@ -31,7 +31,7 @@ NSAIDs should be given with care to patients with a history of inflammatory bowe
 ## Hemorrhage
 
 Because prostaglandins play an important role in hemostasis and NSAIDs affect platelet aggregation as well, use of TORADOL in patients who have coagulation disorders should be undertaken very cautiously, and those patients should be carefully monitored.
-Patients on therapeutic doses of anticoagulants (eg, heparin or dicumarol derivatives) have an increased risk of bleeding complications if given TORADOL concurrently; therefore, physicians should administer such concomitant therapy only extremely cautiously.
+Patients on therapeutic doses of anticoagulants (e.g., heparin or dicumarol derivatives) have an increased risk of bleeding complications if given TORADOL concurrently; therefore, physicians should administer such concomitant therapy only extremely cautiously.
 The concurrent use of TORADOL and therapy that affects hemostasis, including prophylactic low-dose heparin (2500 to 5000 units q12h), warfarin and dextrans have not been studied extensively, but may also be associated with an increased risk of bleeding.
 Until data from such studies are available, physicians should carefully weigh the benefits against the risks and use such concomitant therapy in these patients only extremely cautiously.
 Patients receiving therapy that affects hemostasis should be monitored closely.
@@ -69,7 +69,7 @@ Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
 ### Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction,and stroke, which can be fatal.
 All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
 Patients with known CV disease or risk factors for CV disease may be at greater risk.
 To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
@@ -94,7 +94,7 @@ Therefore, TORADOL should be used only very cautiously in patients with cardiac 
 
 ## Skin Reactions
 
-NSAIDS, including TORADOL, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including TORADOL, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash, mucosal lesions, or any other sign of hypersensitivity.
 
@@ -121,7 +121,7 @@ Notable elevations of ALT or AST (approximately three or more times the upper li
 In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
 
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TORADOL.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (eg, eosinophilia, rash, etc.), TORADOL should be discontinued.
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), TORADOL should be discontinued.
 
 ### Hematologic Effect
 
@@ -142,10 +142,10 @@ Since cross reactivity, including bronchospasm, between aspirin and other nonste
 
 TORADOL is a potent NSAID and may cause serious side effects such as gastrointestinal bleeding or kidney failure, which may result in hospitalization and even fatal outcome.
 
-Physicians, when prescribing TORADOL, should inform their patients or their guardians of the potential risks of TORADOL treatment (see Boxed WARNING, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS sections), instruct patients to seek medical advice if they develop treatment-related adverse events, and advise patients not to give TORADOL ORAL to other family members and to discard any unused drug.
+Physicians, when prescribing TORADOL, should inform their patients or their guardians of the potential risks of TORADOL treatment (see Boxed WARNING, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS sections), instruct patients to seek medical advice if they develop treatment-related adverse events, and advise patients not to give TORADOLORAL to other family members and to discard any unused drug.
 
-Remember that the total combined duration of use of TORADOL ORAL and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
-TORADOL ORAL is not indicated for use in pediatric patients.
+Remember that the total combined duration of use of TORADOLORAL and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
+TORADOLORAL is not indicated for use in pediatric patients.
 
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
@@ -170,7 +170,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
 Patients on long-term treatment with NSAIDs, should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (eg, eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, TORADOL should be discontinued.
+If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, TORADOL should be discontinued.
 
 ## Drug Interactions
 
@@ -184,7 +184,7 @@ Ketorolac does not alter digoxin protein binding.
 In vitro studies indicate that, at therapeutic concentrations of salicylate (300 µg/mL), the binding of ketorolac was reduced from approximately 99.2% to 97.5%, representing a potential twofold increase in unbound ketorolac plasma levels.
 Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin and tolbutamide did not alter ketorolac tromethamine protein binding.
 
-In a study involving 12 adult volunteers, TORADOL ORAL was coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.
+In a study involving 12 adult volunteers, TORADOLORAL was coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.
 In another study, ketorolac tromethamine dosed IV or IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6.4 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.
 Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored (see WARNINGS and PRECAUTIONS: Hematologic Effect).
 
@@ -203,7 +203,7 @@ During concomitant therapy with NSAIDs, the patient should be observed closely f
 
 ### Probenecid
 
-Concomitant administration of TORADOL ORAL and probenecid resulted in decreased clearance and volume of distribution of ketorolac and significant increases in ketorolac plasma levels (total AUC increased approximately threefold from 5.4 to 17.8 µg/h/mL) and terminal half-life increased approximately twofold from 6.6 to 15.1 hours.
+Concomitant administration of TORADOLORAL and probenecid resulted in decreased clearance and volume of distribution of ketorolac and significant increases in ketorolac plasma levels (total AUC increased approximately threefold from 5.4 to 17.8 µg/h/mL) and terminal half-life increased approximately twofold from 6.6 to 15.1 hours.
 Therefore, concomitant use of TORADOL and probenecid is contraindicated.
 
 ### Lithium
@@ -240,7 +240,7 @@ When ketorolac tromethamine is administered concurrently with pentoxifylline, th
 
 ### Nondepolarizing Muscle Relaxants
 
-In postmarketing experience there have been reports of a possible interaction between ketorolac tromethamine IV/IM and nondepolarizing muscle relaxants that resulted in apnea.
+In postmarketing experience there have been reports of a possible interaction between ketorolac tromethamineIV/IM and nondepolarizing muscle relaxants that resulted in apnea.
 The concurrent use of ketorolac tromethamine with muscle relaxants has not been formally studied.
 
 ### Selective Serotonin Reuptake Inhibitors (SSRIs)
@@ -274,7 +274,7 @@ Oral doses of ketorolac tromethamine at 1.5 mg/kg (0.14 times the human AUC), ad
 There are no adequate and well-controlled studies of TORADOL in pregnant women.
 TORADOL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Labor And Delivery
+## Labor and Delivery
 
 The use of TORADOL is contraindicated in labor and delivery because, through its prostaglandin synthesis inhibitory effect, it may adversely affect fetal circulation and inhibit uterine contractions, thus increasing the risk of uterine hemorrhage (see CONTRAINDICATIONS).
 
@@ -285,14 +285,14 @@ In women who have difficulty conceiving or are undergoing investigation of infer
 
 ## Nursing Mothers
 
-After a single administration of 10 mg of TORADOL ORAL to humans, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
+After a single administration of 10 mg of TORADOLORAL to humans, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
 After 1 day of dosing (qid), the maximum milk concentration was 7.9 ng/mL, and the maximum milk-to-plasma ratio was 0.025.
 Because of the possible adverse effects of prostaglandin-inhibiting drugs on neonates, use in nursing mothers is contraindicated.
 
 ## Pediatric Use
 
-TORADOL ORAL is not indicated for use in pediatric patients.
-The safety and effectiveness of TORADOL ORAL in pediatric patients below the age of 17 have not been established.
+TORADOLORAL is not indicated for use in pediatric patients.
+The safety and effectiveness of TORADOLORAL in pediatric patients below the age of 17 have not been established.
 
 ## Geriatric Use (≥65 years of age)
 

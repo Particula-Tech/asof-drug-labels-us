@@ -108,11 +108,11 @@ Table 1 Table of Approximate Average Pharmacokinetic Parameters (Mean± SD) Foll
 | --- | --- | --- | --- | --- | --- | --- |
 | Pharmacokinetic Parameters (units) | OralDerived from PO pharmacokinetic studies in 77 normal fasted volunteers | IntramuscularDerived from IM pharmacokinetic studies in 54 normal volunteers |  |  | Intravenous BolusDerived from IV pharmacokinetic studies in 24 normal volunteers |  |
 | Bioavailability (extent) | 100% |  |  |  |  |  |
-| Tmax Time-to-peak plasma concentration (min) | 44 ± 34 | 33 ± 21Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data | 44 ± 29 | 33 ± 21 | 1.1 ± 0.7 | 2.9 ± 1.8 |
-| Cmax Peak plasma concentration (µg/mL) [single-dose] | 0.87 ± 0.22 | 1.14 ± 0.32 | 2.42 ± 0.68 | 4.55 ± 1.27 | 2.47 ± 0.51 | 4.65 ± 0.96 |
+| TmaxTime-to-peak plasma concentration (min) | 44 ± 34 | 33 ± 21Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data | 44 ± 29 | 33 ± 21 | 1.1 ± 0.7 | 2.9 ± 1.8 |
+| CmaxPeak plasma concentration (µg/mL) [single-dose] | 0.87 ± 0.22 | 1.14 ± 0.32 | 2.42 ± 0.68 | 4.55 ± 1.27 | 2.47 ± 0.51 | 4.65 ± 0.96 |
 | Cmax (µg/mL) [steady state qid] | 1.05 ± 0.26 | 1.56 ± 0.44 | 3.11 ± 0.87 | N/ANot applicable because 60 mg is only recommended as a single dose | 3.09 ± 1.17 | 6.85 ± 2.61 |
-| Cmin Trough plasma concentration (µg/mL) [steady state qid] | 0.29 ± 0.07 | 0.47 ± 0.13 | 0.93 ± 0.26 | N/A | 0.61 ± 0.21 | 1.04 ± 0.35 |
-| Cavg Average plasma concentration (µg/mL) [steady state qid] | 0.59 ± 0.20 | 0.94 ± 0.29 | 1.88 ± 0.59 | N/A | 1.09 ± 0.30 | 2.17 ± 0.59 |
+| CminTrough plasma concentration (µg/mL) [steady state qid] | 0.29 ± 0.07 | 0.47 ± 0.13 | 0.93 ± 0.26 | N/A | 0.61 ± 0.21 | 1.04 ± 0.35 |
+| CavgAverage plasma concentration (µg/mL) [steady state qid] | 0.59 ± 0.20 | 0.94 ± 0.29 | 1.88 ± 0.59 | N/A | 1.09 ± 0.30 | 2.17 ± 0.59 |
 | VβVolume of distribution (L/kg) | ————— 0.175 ± 0.039 ———— |  |  |  | 0.210 ± 0.044 |  |
 | % Dose metabolized = <50 |  |  |  |  |  |  |
 | % Dose excreted in feces = 6 |  |  |  |  |  |  |
