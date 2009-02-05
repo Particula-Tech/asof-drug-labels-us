@@ -28,19 +28,19 @@ However, as with all CNS-active drugs, patients should be advised to avoid alcoh
 
 ## 7.6 Potential for Other Drugs to Affect Desvenlafaxine
 
-Inhibitors of CYP3A4 (ketoconazole)
+### Inhibitors of CYP3A4 (ketoconazole)
 
 CYP3A4 is a minor pathway for the metabolism of Pristiq.
-In a clinical study, ketoconazole (200 mg BID) increased the area under the concentration vs. time curve AUC of Pristiq (400 mg single dose) by about 43% and Cmax by about 8%.
+In a clinical study, ketoconazole (200 mg BID) increased the area under the concentration vs. time curve (AUC) of Pristiq (400 mg single dose) by about 43% and Cmax by about 8%.
 Concomitant use of Pristiq with potent inhibitors of CYP3A4 may result in higher concentrations of Pristiq.
 
-Inhibitors of other CYP enzymes
+### Inhibitors of other CYP enzymes
 
 Based on in vitro data, drugs that inhibit CYP isozymes 1A1, 1A2, 2A6, 2D6, 2C8, 2C9, 2C19, and 2E1 are not expected to have significant impact on the pharmacokinetic profile of Pristiq.
 
 ## 7.7 Potential for Desvenlafaxine to Affect Other Drugs
 
-Drugs metabolized by CYP2D6 (desipramine)
+### Drugs metabolized by CYP2D6 (desipramine)
 
 In vitro studies showed minimal inhibitory effect of desvenlafaxine on CYP2D6.
 
@@ -49,7 +49,7 @@ When desvenlafaxine succinate was administered at a dose of 100 mg daily in conj
 When 400 mg (8 times the recommended 50 mg dose) was administered, the Cmax and AUC of desipramine increased approximately 50% and 90%, respectively.
 Concomitant use of desvenlafaxine with a drug metabolized by CYP2D6 can result in higher concentrations of that drug.
 
-Drugs metabolized by CYP3A4 (midazolam)
+### Drugs metabolized by CYP3A4 (midazolam)
 
 In vitro, desvenlafaxine does not inhibit or induce the CYP3A4 isozyme.
 
@@ -57,7 +57,7 @@ In a clinical study, Pristiq 400 mg daily (8 times the recommended 50 mg dose) w
 The AUC and Cmax of midazolam decreased by approximately 31% and 16%, respectively.
 Concomitant use of Pristiq with a drug metabolized by CYP3A4 can result in lower exposures to that drug.
 
-Drugs metabolized by CYP1A2, 2A6, 2C8, 2C9 and 2C19
+### Drugs metabolized by CYP1A2, 2A6, 2C8, 2C9 and 2C19
 
 In vitro, desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, and 2C19 isozymes and would not be expected to affect the pharmacokinetics of drugs that are metabolized by these CYP isozymes.
 

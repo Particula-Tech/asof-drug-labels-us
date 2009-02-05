@@ -4,9 +4,9 @@
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 
-Teratogenic effects – Pregnancy Category C
+### Teratogenic effects – Pregnancy Category C
 
-When desvenlafaxine succinate was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of teratogenicity in rats at any doses tested, up to 10 times a human dose of 100 mg/day (on a mg/m2 basis) in rats, and up to 15 times the a human dose of 100 mg/day (on a mg/m2 basis) in rabbits.
+When desvenlafaxine succinate was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of teratogenicity in rats at any doses tested, up to 10 times a human dose of 100 mg/day (on a mg/m2 basis) in rats, and up to 15 times a human dose of 100 mg/day (on a mg/m2 basis) in rabbits.
 However, fetal weights were decreased in rats, with a no-effect dose 10 times a human dose of 100 mg/day (on a mg/m2 basis).
 
 When desvenlafaxine succinate was administered orally to pregnant rats throughout gestation and lactation, there was a decrease in pup weights and an increase in pup deaths during the first four days of lactation.
@@ -17,7 +17,7 @@ Post-weaning growth and reproductive performance of the progeny were not affecte
 There are no adequate and well-controlled studies of Pristiq in pregnant women.
 Therefore, Pristiq should be used during pregnancy only if the potential benefits justify the potential risks.
 
-Non-teratogenic effects
+### Non-teratogenic effects
 
 Neonates exposed to SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), or SSRIs (Selective Serotonin Reuptake Inhibitors), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
@@ -45,11 +45,13 @@ Anyone considering the use of Pristiq in a child or adolescent must balance the 
 ## 8.5 Geriatric Use
 
 Of the 3,292 patients in clinical studies with Pristiq, 5% were 65 years of age or older.
-No overall differences in safety or efficacy were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-For elderly patients, possible reduced renal clearance of desvenlafaxine should be considered whendetermining dose [see Dosage and Administration (2.2) and Clinical Pharmacology (12.6)].
+No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term, placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients ≥ 65 years of age compared to patients < 65 years of age treated with Pristiq [see Adverse Reactions (6)].
+For elderly patients, possible reduced renal clearance of desvenlafaxine should be considered when determining dose [see Dosage and Administration (2.2) and Clinical Pharmacology (12.6)].
 If Pristiq is poorly tolerated, every other day dosing can be considered.
 
-SSRIs and SNRIs, including Pristiq, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia)
+SSRIs and SNRIs, including Pristiq, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.12)].
+
+Greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 

@@ -1,4 +1,4 @@
-# WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of Major Depressive Disorder (MDD) and other psychiatric disorders.
 Anyone considering the use of Pristiq or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.

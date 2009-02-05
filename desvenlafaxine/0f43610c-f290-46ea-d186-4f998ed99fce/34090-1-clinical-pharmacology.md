@@ -7,7 +7,7 @@ The clinical efficacy of desvenlafaxine succinate is thought to be related to th
 
 ## 12.2 Pharmacodynamics
 
-Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H1-histaminergic, or α 1-adrenergic receptors in vitro.
+Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H1-histaminergic, or α1-adrenergic receptors in vitro.
 Pristiq also lacked monoamine oxidase (MAO) inhibitory activity.
 
 ## 12.3 Pharmacokinetics
@@ -15,7 +15,7 @@ Pristiq also lacked monoamine oxidase (MAO) inhibitory activity.
 The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 100 to 600 mg/day.
 The mean terminal half-life, t1/2, is approximately 11 hours.
 With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4-5 days.
-At steady state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
+At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
 
 ## 12.4 Absorption and Distribution
 
@@ -38,22 +38,22 @@ Approximately 19% of the administered dose is excreted as the glucuronide metabo
 
 ## 12.6 Special Populations
 
-Age
+### Age
 
-In a study of healthy subjects administered doses up to of 300 mg, there was an approximate 32% increase in Cmax and a 55% increase in AUC in subjects older than 75 years of age (n = 17), compared with subjects 18 to 45 years of age (n = 16).
+In a study of healthy subjects administered doses of up to 300 mg, there was an approximate 32% increase in Cmax and a 55% increase in AUC in subjects older than 75 years of age (n = 17), compared with subjects 18 to 45 years of age (n = 16).
 Subjects 65 to 75 years of age (n = 15) had no change in Cmax, but an approximately 32% increase in AUC, compared to subjects 18 to 45 years of age [see Dosage and Administration (2.2)].
 
-Gender
+### Gender
 
-In a study of healthy subjects administered doses up to of 300 mg, women had an approximately 25% higher Cmax and an approximately 10% higher AUC than age-matched men.
+In a study of healthy subjects administered doses of up to 300 mg, women had an approximately 25% higher Cmax and an approximately 10% higher AUC than age-matched men.
 No adjustment of dosage on the basis of gender is needed.
 
-Race
+### Race
 
 Pharmacokinetic analysis showed that race (White, n = 466; Black, n = 97; Hispanic, n = 39; Other, n = 33) had no apparent effect on the pharmacokinetics of Pristiq.
 No adjustment of dosage on the basis of race is needed.
 
-Hepatic insufficiency
+### Hepatic insufficiency
 
 The disposition of desvenlafaxine succinate after administration of 100 mg was studied in subjects with mild (Child‑Pugh A, n = 8), moderate (Child‑Pugh B, n = 8), and severe (Child‑Pugh C, n = 8) hepatic impairment and to healthy subjects (n = 12).
 
@@ -66,11 +66,11 @@ CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 No adjustment in starting dosage is necessary for patients with hepatic impairment.
 
-Renal insufficiency
+### Renal insufficiency
 
-The disposition of desvenlafaxine after administration of 100 mg was studied in subjects with mild (n = 9), moderate (n = 8), severe (n = 7) and end-stage renal disease (ESRD) (n = 9) requiring dialysis and in healthy, age-matched control subjects (n = 8).
+The disposition of desvenlafaxine after administration of 100 mg was studied in subjects with mild (n = 9), moderate (n = 8), severe (n = 7) and end-stage renal disease [ESRD] (n = 9) requiring dialysis and in healthy, age-matched control subjects (n = 8).
 Elimination was significantly correlated with creatinine clearance.
-Increases in AUCs of about 42% in mild renal impairment (24‑hr CrCl = 50‑80 mL/min), about 56% in moderate renal impairment (24‑hr CrCl = 30‑50 mL/min), about 108% in severe renal impairment (24‑hr CrCl ≤ 30 mL/min), and about 116% in ESRD subjects were observed, compared with healthy, age-matched control subjects.
+Increases in AUCs of about 42% in mild renal impairment (24‑hr CrCl = 50‑80 mL/min), about 46% in moderate renal impairment (24‑hr CrCl = 30‑50 mL/min), about 108% in severe renal impairment (24‑hr CrCl ≤ 30 mL/min), and about 116% in ESRD subjects were observed, compared with healthy, age-matched control subjects.
 
 The mean terminal half-life (t1/2) was prolonged from 11.1 hours in the control subjects to approximately 13.5, 15.5, 17.6, and 22.8 hours in mild, moderate, severe renal impairment and ESRD subjects, respectively.
 Less than 5% of the drug in the body was cleared during a standard 4-hour hemodialysis procedure.

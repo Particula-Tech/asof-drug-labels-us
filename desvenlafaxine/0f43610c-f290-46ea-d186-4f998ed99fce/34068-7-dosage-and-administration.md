@@ -12,13 +12,13 @@ Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or 
 
 ## 2.2 Special Populations
 
-Pregnant women during the third trimester
+### Pregnant women during the third trimester
 
-Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
+Neonates exposed to SNRIs or SSRIs late in the third trimester havedeveloped complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
 When treating pregnant women with Pristiq during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering Pristiq in the third trimester.
 
-Patients with renal impairment
+### Patients with renal impairment
 
 No dosage adjustment is necessary in patients with mild renal impairment (24‑hr CrCl = 50‑80 mL/min).
 
@@ -26,19 +26,19 @@ The recommended dose in patients with moderate renal impairment (24‑hr CrCl = 
 The recommended dose in patients with severe renal impairment (24-hr CrCl < 30 mL/min) or end-stage renal disease (ESRD) is 50 mg every other day.
 Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.6)].
 
-Patients with hepatic impairment
+### Patients with hepatic impairment
 
 No adjustment of the starting dosage is necessary for patients with hepatic impairment.
 However, dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.6)].
 
-Elderly patients
+### Elderly patients
 
 No dosage adjustment is required solely on the basis of age; however, the possibility of reduced renal clearance of Pristiq should be considered when determining the dose [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.6)].
 
-## 2.3 Maintenance/continuation/extended Treatment
+## 2.3 Maintenance/Continuation/Extended Treatment
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
-However, the longer-term efficacy of Pristiq at doses of 50 mg/day that was effective in short-term, controlled studies has not been studied.
+However, the longer-term efficacy of Pristiq at a dose of 50 mg/day that was effective in short-term, controlled studies has not been studied.
 Patients should be periodically reassessed to determine the need for continued treatment.
 
 ## 2.4 Discontinuing Pristiq
