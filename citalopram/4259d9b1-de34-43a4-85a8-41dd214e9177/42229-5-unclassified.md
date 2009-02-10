@@ -63,18 +63,15 @@ Furthermore, limited animal data on the effects of combined use of SSRIs and MAO
 Therefore, it is recommended that Celexa should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
 Similarly, at least 14 days should be allowed after stopping Celexa before starting an MAOI.
 
-### Serotonin Syndrome:
+### Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including Celexa treatment, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Celexa treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of Celexa with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS - Potential for Interaction with Monoamine Oxidase Inhibitors.)
+The concomitant use of Celexa with MAOIs intended to treat depression is contraindicated.
+If concomitant treatment of Celexa with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
-If concomitant treatment of Celexa with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS - Drug Interactions).The concomitant use of Celexa with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS - Drug Interactions).
-
-Neuroleptic Malignant Syndrome (NMS) or NMS-Like Reactions: Rare instances of neuroleptic malignant syndrome (NMS) or NMS-like reactions have been reported when a selective serotonin reuptake inhibitor (SSRI) drug, such as citalopram, or a serotonin-norepinephrine reuptake inhibitor (SNRI) was added to antipsychotic drug therapy.
-Additionally, a small number of such cases have been reported with SSRI's and SNRI's in the absence of antipsychotic coadministration.
-These serious and sometimes fatal events can include hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-It is uncertain whether these cases are serotonin syndrome which, in its most severe form, can resemble neuroleptic malignant syndrome.
-As these events may result in potentially life-threatening conditions, patients should be monitored for the emergence of NMS-like signs and symptoms, especially if citalopram and an antipsychotic drug are taken concurrently.
-Treatment with citalopram and any concomitant antipsychotic agent should be discontinued immediately if such events occur and supportive symptomatic treatment should be initiated.
+The concomitant use of Celexa with serotonin precursors (such as tryptophan) is not recommended.
+Treatment with Celexa and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
