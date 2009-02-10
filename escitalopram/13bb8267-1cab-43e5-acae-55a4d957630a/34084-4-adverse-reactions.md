@@ -276,7 +276,7 @@ Metabolism and Nutrition Disorders: hypoglycemia, hypokalemia.
 
 Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis.
 
-Nervous System Disorders: akathisia, choreoathetosis, dysarthria, dyskinesia, dystonia, extrapyramidal disorders, grand mal seizures (or convulsions), hypoaesthesia, myoclonus, neuroleptic malignant syndrome, nystagmus, seizures, serotonin syndrome, tardive dyskinesia.
+Nervous System Disorders: akathisia, choreoathetosis, dysarthria, dyskinesia, dystonia, extrapyramidal disorders, grand mal seizures (or convulsions), hypoaesthesia, myoclonus, nystagmus, seizures, tardive dyskinesia.
 
 Pregnancy, Puerperium and Perinatal Conditions: spontaneous abortion.
 

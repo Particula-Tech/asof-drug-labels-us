@@ -64,12 +64,18 @@ Similarly, at least 14 days should be allowed after stopping Lexapro before star
 
 Serotonin syndrome has been reported in two patients who were concomitantly receiving linezolid, an antibiotic which is a reversible non-selective MAOI.
 
-Serotonin Syndrome: The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including Lexapro treatment, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+### Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Lexapro treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of Lexapro with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS - Potential for Interaction with Monoamine Oxidase Inhibitors.)
+The concomitant use of Lexapro with MAOIs intended to treat depression is contraindicated.
+If concomitant treatment of Lexapro with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
-If concomitant treatment of Lexapro with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS - Drug Interactions).The concomitant use of Lexapro with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS - Drug Interactions).
+The concomitant use of Lexapro with serotonin precursors (such as tryptophan) is not recommended.
+Treatment with Lexapro and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
