@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Fenofibrate is a lipid regulating agent available as tablets for oral administration.
+Fenoglide (fenofibrate) Tablets, is a lipid regulating agent available as tablets for oral administration.
 Each tablet contains 40 mg or 120 mg fenofibrate.
 The chemical name for fenofibrate is 2-[4-(4-chlorobenzoyl) phenoxy]-2-methyl-propanoic acid, 1-methylethyl ester with the following structural formula:
 

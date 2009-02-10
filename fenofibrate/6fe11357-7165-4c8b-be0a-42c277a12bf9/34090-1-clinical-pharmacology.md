@@ -23,15 +23,15 @@ In addition, treatment with fenofibrate results in increases in high density lip
 
 ## 12.3 Pharmacokinetics
 
-Plasma concentrations of fenofibric acid after single-dose administration of Fenofibrate Tablets, 120 mg are equivalent to those of Fenofibrate 130 mg capsules under high-fat conditions.
+Plasma concentrations of fenofibric acid after single-dose administration of Fenoglide (fenofibrate) Tablets, 120 mg are equivalent to those of Fenofibrate 130 mg capsules under high-fat conditions.
 
-A high-fat meal did not affect the fenofibric acid AUC after Fenofibrate Tablets administration but did increase the mean Cmax by 44% compared to fasting conditions.
+A high-fat meal did not affect the fenofibric acid AUC after Fenoglide administration but did increase the mean Cmax by 44% compared to fasting conditions.
 
 - Absorption: The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
-  However, fenofibrate is well absorbed from the gastrointestinal tract.
+  However, Fenoglide is well absorbed from the gastrointestinal tract.
   Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
-  Peak plasma levels of fenofibric acid from fenofibrate occur, on average, within 2 to 3 hours after administration.
-  Doses of three Fenofibrate Tablets, 40 mg are considered to be equivalent to single doses of Fenofibrate Tablets, 120 mg.
+  Peak plasma levels of fenofibric acid from Fenoglide occur, on average, within 2 to 3 hours after administration.
+  Doses of three Fenoglide (fenofibrate) Tablets, 40 mg are considered to be equivalent to single doses of Fenoglide (fenofibrate) Tablets, 120 mg.
 - Distribution: In healthy volunteers, steady-state plasma levels of fenofibric acid were shown to be achieved within a week of dosing and did not demonstrate accumulation across time following multiple dose administration.
   Serum protein binding was approximately 99% in normal and hyperlipidemic subjects.
 - Metabolism: Following oral administration, fenofibrate is rapidly hydrolyzed by esterases to the active metabolite, fenofibric acid; no unchanged fenofibrate is detected in plasma.
@@ -40,18 +40,18 @@ A high-fat meal did not affect the fenofibric acid AUC after Fenofibrate Tablets
   In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g., cytochrome P450) to a significant extent.
 - Excretion: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
   After administration of radiolabelled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
-  Fenofibrate acid from Fenofibrate Tablets is eliminated with a half-life of 23 hours, allowing once daily administration in a clinical setting.
+  Fenofibrate acid from Fenoglide is eliminated with a half-life of 23 hours, allowing once daily administration in a clinical setting.
 - Geriatrics: In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
   This indicates that a similar dosage regimen can be used in the elderly, without increasing accumulation of the drug or metabolites.
   [See Dosage and Administration (2.4) and Use in Specific Populations (8.5).]
-- Pediatrics: Fenofibrate has not been investigated in adequate and well-controlled trials in pediatric patients.
+- Pediatrics: Fenoglide has not been investigated in adequate and well-controlled trials in pediatric patients.
 - Gender: No pharmacokinetic difference between males and females has been observed for fenofibrate.
 - Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
   Therefore, inter-ethnic pharmacokinetic differences are very unlikely.
 - Renal Insufficiency: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
   Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min or estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
   Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-  Based on these findings, the use of fenofibrate should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
+  Based on these findings, the use of Fenoglide should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
   [See Dosage and Administration (2.3).]
 - Hepatic Insufficiency: No pharmacokinetic studies have been conducted in patients having hepatic insufficiency.
 - Drug-Drug Interactions: In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
@@ -60,4 +60,4 @@ A high-fat meal did not affect the fenofibric acid AUC after Fenofibrate Tablets
   [See Concomitant Coumarin Anticoagulants (5.3).]
   Bile-acid resins have been shown to bind other drugs given concurrently.
   Therefore, fenofibrate should be taken at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption.
-  [See Drug Interactions (7.3).]
+  [See Drug Interactions (7.4).]

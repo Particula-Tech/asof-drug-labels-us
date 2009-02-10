@@ -25,4 +25,4 @@ Dose selection for the elderly should be made on the basis of renal function.
 ## 8.6 Renal Impairment
 
 Fenofibric acid is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Fenofibrate should be avoided in patients with severe renal impairment and dose reduction is required in patients with mild to moderate renal impairment
+Fenofibrate should be avoided in patients with severe renal impairment and dose reduction is required in patients with mild to moderate renal impairment.

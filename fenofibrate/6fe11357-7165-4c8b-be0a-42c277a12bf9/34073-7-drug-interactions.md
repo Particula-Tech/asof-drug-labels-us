@@ -2,25 +2,25 @@
 
 ## 7.1 Coumarin Anticoagulants
 
-Caution should be exercised when coumarin anticoagulants are given in conjunction with fenofibrate.
+Caution should be exercised when coumarin anticoagulants are given in conjunction with Fenoglide.
 The dosage of the anticoagulants should be reduced to maintain the prothrombin time/INR at the desired level to prevent bleeding complications.
 Frequent prothrombin time/INR determinations are advisable until it has been definitely determined that the prothrombin time/INR has stabilized.
-[seeConcomitant Coumarin Anticoagulants (5.3).]
+[see Concomitant Coumarin Anticoagulants (5.3).]
 
 ## 7.2 Cyclosporine
 
-Because cyclosporine can produce nephrotoxicity with decreases in creatinine clearance and rises in serum creatinine, and because renal excretion is the primary elimination route of fibrate drugs including fenofibrate, there is a risk that an interaction will lead to deterioration of renal function.
-The benefits and risks of using fenofibrate with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed.
+Because cyclosporine can produce nephrotoxicity with decreases in creatinine clearance and rises in serum creatinine, and because renal excretion is the primary elimination route of fibrate drugs including Fenoglide, there is a risk that an interaction will lead to deterioration of renal function.
+The benefits and risks of using Fenoglide with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed.
 
 ## 7.3 HMG-CoA Reductase Inhibitors
 
 The combined use of fenofibric acid derivatives, particularly gemfibrozil, and HMG-CoA reductase inhibitors results in an increased risk of rhabdomyolysis and myoglobinuria leading in a high proportion of cases to acute renal failure.
 [See Concomitant HMG-CoA Reductase Inhibitors (5.11)]
 
-The combined use of fenofibrate and HMG-CoA reductase inhibitors should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination.
+The combined use of Fenoglide and HMG-CoA reductase inhibitors should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination.
 
 In a single-dose drug interaction study in 23 healthy adults the concomitant administration of fenofibrate and pravastatin resulted in no clinically important difference in the pharmacokinetics of fenofibric acid, pravastatin, or its active metabolite 3α-hydroxy iso-pravastatin when compared to either drug given alone.
 
 ## 7.4 Bile-Acid Resins
 
-Since bile acid sequestrants may bind other drugs given concurrently, patients should take Fenofibrate Tablets at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption.
+Since bile acid sequestrants may bind other drugs given concurrently, patients should take Fenoglide at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption.
