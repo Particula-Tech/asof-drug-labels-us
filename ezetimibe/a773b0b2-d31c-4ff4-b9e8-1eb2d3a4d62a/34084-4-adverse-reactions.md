@@ -16,7 +16,7 @@ The most common adverse reactions in the group of patients treated with ZETIA th
 
 The most commonly reported adverse reactions (incidence ≥2% and greater than placebo) in the ZETIA monotherapy controlled clinical trial database of 2396 patients were: upper respiratory tract infection (4.3%), diarrhea (4.1%), arthralgia (3.0%), sinusitis (2.8%), and pain in extremity (2.7%).
 
-Statin Coadministration Studies:
+Statin Co-Administration Studies:
 
 In the ZETIA + statin controlled clinical trials database of 11,308 patients with a median treatment duration of 8 weeks (range 0 to 112 weeks), 4.0% of patients on ZETIA + statin and 3.3% of patients on statin alone discontinued due to adverse reactions.
 The most common adverse reactions in the group of patients treated with ZETIA + statin that led to treatment discontinuation and occurred at a rate greater than statin alone were:
@@ -37,7 +37,7 @@ In 10 double-blind, placebo-controlled clinical trials, 2396 patients with prima
 
 Adverse reactions reported in ≥2% of patients treated with ZETIA and at an incidence greater than placebo in placebo-controlled studies of ZETIA, regardless of causality assessment, are shown in Table 1.
 
-Table 1 Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with ZETIA and at an Incidence Greater than Placebo, Regardless of Causality
+TABLE 1: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with ZETIA and at an Incidence Greater than Placebo, Regardless of Causality
 
 | Body System/Organ Class Adverse Reaction | ZETIA 10 mg (%) n = 2396 | Placebo (%) n = 1159 |
 | --- | --- | --- |
@@ -64,9 +64,9 @@ The incidence of consecutive increased transaminases (≥3 × ULN) was higher in
 
 Clinical adverse reactions reported in ≥2% of patients treated with ZETIA + statin and at an incidence greater than statin, regardless of causality assessment, are shown in Table 2.
 
-Table 2 Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with ZETIA Coadministered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
+TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with ZETIA Co-Administered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
 
-| Body System/Organ Class Adverse Reaction | All StatinsAll Statins = all doses of all statins (%) n = 9361 | ZETIA + All Statins (%) n = 11308 |
+| Body System/Organ Class Adverse Reaction | All StatinsAll Statins = all doses of all statins (%) n = 9361 | ZETIA + All Statins (%) n = 11,308 |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 2.2 | 2.5 |
@@ -97,4 +97,4 @@ Because the reactions below are reported voluntarily from a population of uncert
 
 The following additional adverse reactions have been identified during post-approval use of ZETIA:
 
-Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria; arthralgia; myalgia; elevated creatine phosphokinase; myopathy/rhabdomyolysis [see Warnings and Precautions (5.3)]; elevations in liver transaminases; hepatitis; thrombocytopenia; pancreatitis; nausea; dizziness; paresthesia; depression; cholelithiasis; cholecystitis.
+Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria; arthralgia; myalgia; elevated creatine phosphokinase; myopathy/rhabdomyolysis [see Warnings and Precautions (5.3)]; elevations in liver transaminases; hepatitis; abdominal pain; thrombocytopenia; pancreatitis; nausea; dizziness; paresthesia; depression; headache; cholelithiasis; cholecystitis.

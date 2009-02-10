@@ -8,8 +8,8 @@ There are no adequate and well-controlled studies of ezetimibe in pregnant women
 Ezetimibe should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
 
 In oral (gavage) embryo-fetal development studies of ezetimibe conducted in rats and rabbits during organogenesis, there was no evidence of embryolethal effects at the doses tested (250, 500, 1000 mg/kg/day).
-In rats, increased incidences of common fetal skeletal findings (extra pair of thoracic ribs, unossified cervical vertebral centra, shortened ribs) were observed at 1000 mg/kg/day (~10 times the human exposure at 10 mg daily based on AUC0–24hr for total ezetimibe).
-In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1000 mg/kg/day (150 times the human exposure at 10 mg daily based on AUC0–24hr for total ezetimibe).
+In rats, increased incidences of common fetal skeletal findings (extra pair of thoracic ribs, unossified cervical vertebral centra, shortened ribs) were observed at 1000 mg/kg/day (~10 × the human exposure at 10 mg daily based on AUC0–24hr for total ezetimibe).
+In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1000 mg/kg/day (150 × the human exposure at 10 mg daily based on AUC0–24hr for total ezetimibe).
 Ezetimibe crossed the placenta when pregnant rats and rabbits were given multiple oral doses.
 
 Multiple-dose studies of ezetimibe given in combination with statins in rats and rabbits during organogenesis result in higher ezetimibe and statin exposures.
@@ -37,7 +37,7 @@ The patients received co-administered ZETIA and simvastatin (10 mg, 20 mg, or 40
 The results of the study at Week 6 are summarized in Table 3.
 Results at Week 33 were consistent with those at Week 6.
 
-Table 3 Mean Percent Difference at Week 6 Between the Pooled ZETIA Co-Administered with Simvastatin Group and the Pooled Simvastatin Monotherapy Group in Adolescent Patients with Heterozygous Familial Hypercholesterolemia
+TABLE 3: Mean Percent Difference at Week 6 Between the Pooled ZETIA Co-Administered with Simvastatin Group and the Pooled Simvastatin Monotherapy Group in Adolescent Patients with Heterozygous Familial Hypercholesterolemia
 
 |  | Total-C | LDL-C | Apo B | Non-HDL-C | TGFor triglycerides, median % change from baseline | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Monotherapy Studies
 
 Of the 2396 patients who received ZETIA in clinical studies, 669 (28%) were 65 and older, and 111 (5%) were 75 and older.
 
-Statin Coadministration Studies
+Statin Co-Administration Studies
 
 Of the 11,308 patients who received ZETIA + statin in clinical studies, 3587 (32%) were 65 and older, and 924 (8%) were 75 and older.
 

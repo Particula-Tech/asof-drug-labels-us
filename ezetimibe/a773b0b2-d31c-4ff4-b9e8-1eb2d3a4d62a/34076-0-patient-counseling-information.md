@@ -27,9 +27,9 @@ Patients who have a lipid disorder and are breastfeeding should be advised to di
 
 ## 17.5 FDA-approved Patient Labeling
 
-32147011T REV 17
+32147020T REV 18
 
-Issued June 2008 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
+Issued January 2009 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA By: Schering Corporation Kenilworth, NJ 07033, USA or Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
@@ -107,7 +107,7 @@ Patients have experienced severe muscle problems while taking ZETIA, usually whe
 If you experience unexplained muscle pain, tenderness, or weakness while taking ZETIA, contact your doctor immediately.
 You need to do this promptly, because on rare occasions, these muscle problems can be serious, with muscle breakdown resulting in kidney damage.
 
-Additionally, the following side effects have been reported in general use: allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing, rash, and hives; joint pain; muscle aches; alterations in some laboratory blood tests; liver problems; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; gallstones; inflammation of the gallbladder.
+Additionally, the following side effects have been reported in general use: allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing, rash, and hives; joint pain; muscle aches; alterations in some laboratory blood tests; liver problems; stomach pain; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; headache; gallstones; inflammation of the gallbladder.
 
 Tell your doctor if you are having these or any other medical problems while on ZETIA.
 For a complete list of side effects, ask your doctor or pharmacist.
@@ -141,8 +141,11 @@ Inactive ingredients:
 
 Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 
-29480842T REV 17
+29480850 T REV 18
 
-Issued June 2008 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
+Issued January 2009 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA By: Schering Corporation Kenilworth, NJ 07033, USA or Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+
+COPYRIGHT © 2001, 2002, 2007, 2008, 2009 Merck/Schering-Plough Pharmaceuticals.
+All rights reserved.

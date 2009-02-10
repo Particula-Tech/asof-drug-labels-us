@@ -70,7 +70,7 @@ Specific Populations
 
 Geriatric Patients: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were about 2-fold higher in older (≥65 years) healthy subjects compared to younger subjects.
 
-Pediatric Patients: [See Pediatric Use (8.4).]
+Pediatric Patients: [See Use in Specific Populations (8.4).]
 
 Gender: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were slightly higher (<20%) in women than in men.
 
@@ -89,12 +89,12 @@ Drug Interactions [See also Drug Interactions (7)]
 ZETIA had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a "cocktail" study of twelve healthy adult males.
 This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
 
-Table 4 Effect of Co-Administered Drugs on Total Ezetimibe
+TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
 
 |  | Change in AUC | Change in Cmax |
 | --- | --- | --- |
 | Co-Administered Drug and Dosing Regimen | Total Ezetimibe Based on 10 mg dose of ezetimibe |  |
-| Cyclosporine-stable dose required (75–150 mg BID)See 7 Drug Interactions,Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects. | ↑240% | ↑290% |
+| Cyclosporine-stable dose required (75–150 mg BID)See Drug Interactions (7),Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects. | ↑240% | ↑290% |
 | Fenofibrate, 200 mg QD, 14 days | ↑48% | ↑64% |
 | Gemfibrozil, 600 mg BID, 7 days | ↑64% | ↑91% |
 | Cholestyramine, 4 g BID, 14 days | ↓55% | ↓4% |
@@ -108,13 +108,13 @@ Table 4 Effect of Co-Administered Drugs on Total Ezetimibe
 | Rosuvastatin 10 mg QD, 14 days | ↑13% | ↑18% |
 | Fluvastatin 20 mg QD, 14 days | ↓19% | ↑7% |
 
-Table 5 Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Drugs
+TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Drugs
 
 | Co-Administered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Co-Administered Drug | Change in Cmax of Co-Administered Drug |
 | --- | --- | --- | --- |
 | Warfarin, 25 mg single dose on day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin) ↓4% (S-warfarin) | ↑3% (R-warfarin) ↑1% (S-warfarin) |
 | Digoxin, 0.5 mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
-| Gemfibrozil, 600 mg BID, 7 daysSee 7 Drug Interactions | 10 mg QD, 7 days | ↓1% | ↓11% |
+| Gemfibrozil, 600 mg BID, 7 daysSee Drug Interactions (7) | 10 mg QD, 7 days | ↓1% | ↓11% |
 | Ethinyl estradiol & Levonorgestrel, QD, 21 days | 10 mg QD, days 8–14 of 21d oral contraceptive cycle | Ethinyl estradiol 0% Levonorgestrel 0% | Ethinyl estradiol ↓9% Levonorgestrel ↓5% |
 | Glipizide, 10 mg on days 1 and 9 | 10 mg QD, days 2–9 | ↓3% | ↓5% |
 | Fenofibrate, 200 mg QD, 14 days | 10 mg QD, 14 days | ↑11% | ↑7% |

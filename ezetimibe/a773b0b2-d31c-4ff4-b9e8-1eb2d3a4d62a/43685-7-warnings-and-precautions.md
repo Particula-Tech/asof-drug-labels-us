@@ -11,7 +11,7 @@ In controlled clinical monotherapy studies, the incidence of consecutive elevati
 In controlled clinical combination studies of ZETIA initiated concurrently with a statin, the incidence of consecutive elevations (≥3 × ULN) in hepatic transaminase levels was 1.3% for patients treated with ZETIA administered with statins and 0.4% for patients treated with statins alone.
 These elevations in transaminases were generally asymptomatic, not associated with cholestasis, and returned to baseline after discontinuation of therapy or with continued treatment.
 When ZETIA is co-administered with a statin, liver tests should be performed at initiation of therapy and according to the recommendations of the statin.
-Should an increase in ALT or AST ≥3 times ULN persist, consider withdrawal of ZETIA and/or the statin.
+Should an increase in ALT or AST ≥3 × ULN persist, consider withdrawal of ZETIA and/or the statin.
 
 ## 5.3 Myopathy/Rhabdomyolysis
 
@@ -24,7 +24,7 @@ In post-marketing experience with ZETIA, cases of myopathy and rhabdomyolysis ha
 Most patients who developed rhabdomyolysis were taking a statin prior to initiating ZETIA.
 However, rhabdomyolysis has been reported with ZETIA monotherapy and with the addition of ZETIA to agents known to be associated with increased risk of rhabdomyolysis, such as fibrates.
 ZETIA and any statin or fibrate that the patient is taking concomitantly should be immediately discontinued if myopathy is diagnosed or suspected.
-The presence of muscle symptoms and a CPK level >10 times the ULN indicates myopathy.
+The presence of muscle symptoms and a CPK level >10 × the ULN indicates myopathy.
 
 ## 5.4 Hepatic Impairment
 
