@@ -3,7 +3,7 @@
 The dose of AVELOX is 400 mg (orally or as an intravenous infusion) once every 24 hours.
 The duration of therapy depends on the type of infection as described below.
 
-| Infectiondue to the designated pathogens (See INDICATIONS AND USAGE.). For I.V. use see Precautions,Geriatric Use. | Daily Dose | Duration |
+| Infectiondue to the designated pathogens (See INDICATIONS AND USAGE.). For I.V. use, see Precautions, Geriatric Use. | Daily Dose | Duration |
 | --- | --- | --- |
 | Acute Bacterial Sinusitis | 400 mg | 10 days |
 | Acute Bacterial Exacerbation of Chronic Bronchitis | 400 mg | 5 days |
@@ -26,8 +26,7 @@ No dosage adjustment is required in renally impaired patients, including those o
 
 ## Impaired Hepatic Function
 
-No dosage adjustment is required in patients with mild or moderate hepatic insufficiency (Child Pugh Classes A and B). The pharmacokinetics of moxifloxacin in patients with severe hepatic insufficiency (Child Pugh Class C) have not been studied.
-(See CLINICAL PHARMACOLOGY, Hepatic Insufficiency.)
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). (See CLINICAL PHARMACOLOGY, Hepatic Insufficiency.)
 
 AVELOX I.V. should be administered by INTRAVENOUS infusion only.
 It is not intended for intra-arterial, intramuscular, intrathecal, intraperitoneal, or subcutaneous administration.

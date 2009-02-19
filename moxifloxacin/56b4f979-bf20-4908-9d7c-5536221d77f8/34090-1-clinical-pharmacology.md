@@ -136,15 +136,17 @@ HD and CAPD also removed about 4% and 2% of the glucuronide metabolite (M2), res
 
 ### Hepatic Insufficiency
 
-In 400 mg single oral dose studies in 6 patients with mild (Child Pugh Class A), and 10 patients with moderate (Child Pugh Class B), hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, moxifloxacin should be used with caution in these patients.
+(See WARNINGS and DOSAGE AND ADMINISTRATION.)
+
+In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
 The mean AUC of the sulfate conjugate of moxifloxacin (M1) increased by 3.9-fold (ranging up to 5.9-fold) and 5.7-fold (ranging up to 8-fold) in the mild and moderate groups, respectively.
 The mean Cmax of M1 increased by approximately 3-fold in both groups (ranging up to 4.7- and 3.9-fold).
 The mean AUC of the glucuronide conjugate of moxifloxacin (M2) increased by 1.5-fold (ranging up to 2.5-fold) in both groups.
 The mean Cmax of M2 increased by 1.6- and 1.3-fold (ranging up to 2.7- and 2.1-fold), respectively.
 The clinical significance of increased exposure to the sulfate and glucuronide conjugates has not been studied.
-No dosage adjustment is recommended for mild or moderate hepatic insufficiency (Child Pugh Classes A and B). The pharmacokinetics of moxifloxacin in severe hepatic insufficiency (Child Pugh Class C) have not been studied.
-(See DOSAGE AND ADMINISTRATION.)
+In a subset of patients participating in a clinical trial, the plasma concentrations of moxifloxacin and metabolites determined approximately at the moxifloxacin Tmax following the first intravenous or oral moxifloxacin dose in the Child-Pugh Class C patients (n=10) were similar to those in the Child-Pugh Class A/B patients (n=5), and also similar to those observed in healthy volunteer studies.
 
 ### Photosensitivity Potential
 

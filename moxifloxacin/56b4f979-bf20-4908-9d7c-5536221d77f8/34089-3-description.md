@@ -12,3 +12,4 @@ AVELOX I.V. is available in ready-to-use 250 mL latex-free flexibags as a steril
 The appearance of the intravenous solution is yellow.
 The color does not affect, nor is it indicative of, product stability.
 The inactive ingredients are sodium chloride, USP, Water for Injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment.
+AVELOX I.V. contains approximately 34.2 mEq (787 mg) of sodium in 250 mL.

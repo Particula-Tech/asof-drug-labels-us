@@ -17,7 +17,7 @@ QT prolongation: Moxifloxacin has been shown to prolong the QT interval of the e
 The drug should be avoided in patients with known prolongation of the QT interval, patients with uncorrected hypokalemia and patients receiving Class IA (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic agents, due to the lack of clinical experience with the drug in these patient populations.
 
 Pharmacokinetic studies between moxifloxacin and other drugs that prolong the QT interval such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants have not been performed.
-An additive effect of moxifloxacin and these drugs cannot be excluded, therefore caution should be exercised when moxifloxacin is given concurrently with these drugs.
+An additive effect of moxifloxacin and these drugs cannot be excluded; therefore caution should be exercised when moxifloxacin is given concurrently with these drugs.
 In premarketing clinical trials, the rate of cardiovascular adverse events was similar in 798 moxifloxacin and 702 comparator treated patients who received concomitant therapy with drugs known to prolong the QTc interval.
 
 Moxifloxacin should be used with caution in patients with ongoing proarrhythmic conditions, such as clinically significant bradycardia, acute myocardial ischemia.
@@ -25,9 +25,10 @@ The magnitude of QT prolongation may increase with increasing concentrations of 
 Therefore the recommended dose or infusion rate should not be exceeded.
 QT prolongation may lead to an increased risk for ventricular arrhythmias including torsade de pointes.
 No cardiovascular morbidity or mortality attributable to QTc prolongation occurred with moxifloxacin treatment in over 9,200 patients in controlled clinical studies, including 223 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 moxifloxacin tablet treated patients in a post-marketing observational study in which ECGs were not performed.
-
 (See CLINICAL PHARMACOLOGY, Electrocardiogram.
-For I.V. use see DOSAGE AND ADMINISTRATION and PRECAUTIONS, Geriatric Use.)
+For I.V. use, see DOSAGE AND ADMINISTRATION and PRECAUTIONS, Geriatric Use.)
+In addition, moxifloxacin should be used with caution in patients with mild, moderate, or severe liver cirrhosis.
+(See CLINICAL PHARMACOLOGY, Hepatic Insufficiency.)
 
 The oral administration of moxifloxacin caused lameness in immature dogs.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
@@ -191,7 +192,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing AVELOX to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue AVELOX and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See BOXED WARNING:, WARNINGS, and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
+Patients should be informed of this potential side effect and advised to discontinue AVELOX and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See BOXED WARNING, WARNINGS, and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
 
 In controlled multiple-dose clinical trials, 23% of patients receiving oral moxifloxacin were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral moxifloxacin in patients aged 65 or older compared to younger adults.

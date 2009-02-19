@@ -1,3 +1,5 @@
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of AVELOX and other antibacterial drugs, AVELOX should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+
 # MICROBIOLOGY
 
 Moxifloxacin has in vitro activity against a wide range of Gram-positive and Gram-negative microorganisms.

@@ -2,7 +2,7 @@
 
 AVELOX Tablets and I.V. are indicated for the treatment of adults (≥ 18 years of age) with infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
 (See DOSAGE AND ADMINISTRATION for specific recommendations.
-In addition, for I.V. use see PRECAUTIONS, Geriatric Use.)
+In addition, for I.V. use, see PRECAUTIONS, Geriatric Use.)
 
 Acute Bacterial Sinusitis caused by Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis.
 
