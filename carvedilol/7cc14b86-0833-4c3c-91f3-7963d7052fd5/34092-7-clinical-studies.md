@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Left Ventricular Dysfunction Following Myocardial Infarction
+## 14.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
 CAPRICORN was a double-blind study comparing carvedilol and placebo in 1,959 patients with a recent myocardial infarction (within 21 days) and left ventricular ejection fraction of ≤40%, with (47%) or without symptoms of heart failure.
 Patients given carvedilol received 6.25 mg twice daily, titrated as tolerated to 25 mg twice daily.
@@ -24,15 +24,15 @@ Survival Analysis for CAPRICORN (intent-to-treat)
 Figure 2.
 Effects on Mortality for Subgroups in CAPRICORN
 
-## 14.2 Hypertension
+## 14.3 Hypertension
 
-Carvedilol was studied in 2 placebo controlled trials that utilized twice daily dosing, at total daily doses of 12.5 to 50 mg.
+Carvedilol was studied in 2 placebo controlled trials that utilized twice-daily dosing, at total daily doses of 12.5 to 50 mg.
 In these and other studies, the starting dose did not exceed 12.5 mg.
-At 50 mg/day, carvedilol reduced sitting trough (12 hour) blood pressure by about 9/5.5 mm Hg; at 25 mg/day the effect was about 7.5/3.5 mm Hg.
+At 50 mg/day, carvedilol reduced sitting trough (12-hour) blood pressure by about 9/5.5 mm Hg; at 25 mg/day the effect was about 7.5/3.5 mm Hg.
 Comparisons of trough to peak blood pressure showed a trough to peak ratio for blood pressure response of about 65%.
 Heart rate fell by about 7.5 beats/minute at 50 mg/day.
-In general, as is true for other β blockers, responses were smaller in black than non black patients.
-There were no age or gender related differences in response.
+In general, as is true for other β-blockers, responses were smaller in black than non black patients.
+There were no age- or gender-related differences in response.
 
 The peak antihypertensive effect occurred 1 to 2 hours after a dose.
-The dose related blood pressure response was accompanied by a dose related increase in adverse effects [see Adverse Reactions (6)].
+The dose-related blood pressure response was accompanied by a dose-related increase in adverse effects [see Adverse Reactions (6)].

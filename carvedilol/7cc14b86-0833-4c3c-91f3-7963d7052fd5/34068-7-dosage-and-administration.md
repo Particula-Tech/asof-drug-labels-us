@@ -2,7 +2,7 @@
 
 Carvedilol should be taken with food to slow the rate of absorption and reduce the incidence of orthostatic effects.
 
-## 2.1 Left Ventricular Dysfunction Following Myocardial Infarction
+## 2.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
 DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP-TITRATION.
 Treatment with carvedilol may be started as an inpatient or outpatient and should be started after the patient is hemodynamically stable and fluid retention has been minimized.
@@ -11,7 +11,7 @@ A lower starting dose may be used (3.125 mg twice daily) and/or the rate of up-t
 Patients should be maintained on lower doses if higher doses are not tolerated.
 The recommended dosing regimen need not be altered in patients who received treatment with an IV or oral β-blocker during the acute phase of the myocardial infarction.
 
-## 2.2 Hypertension
+## 2.3 Hypertension
 
 DOSAGE MUST BE INDIVIDUALIZED.
 The recommended starting dose of carvedilol is 6.25 mg twice daily.
@@ -22,6 +22,6 @@ Total daily dose should not exceed 50 mg.
 
 Concomitant administration with a diuretic can be expected to produce additive effects and exaggerate the orthostatic component of carvedilol action.
 
-## 2.3 Hepatic Impairment
+## 2.4 Hepatic Impairment
 
-Carvedilol should not be given to patients with severe hepatic impairment (see CONTRAINDICATIONS [4]).
+Carvedilol should not be given to patients with severe hepatic impairment [see Contraindications (4)].

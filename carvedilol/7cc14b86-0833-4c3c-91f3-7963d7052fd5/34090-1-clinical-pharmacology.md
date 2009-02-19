@@ -7,13 +7,9 @@ Carvedilol has no intrinsic sympathomimetic activity.
 
 ## 12.2 Pharmacodynamics
 
-Left Ventricular Dysfunction Following Myocardial Infarction
+Left Ventricular Dysfunction Following Myocardial Infarction: The basis for the beneficial effects of carvedilol in patients with left ventricular dysfunction following an acute myocardial infarction is not established.
 
-The basis for the beneficial effects of carvedilol in patients with left ventricular dysfunction following an acute myocardial infarction is not established.
-
-Hypertension
-
-The mechanism by which β-blockade produces an antihypertensive effect has not been established.
+Hypertension: The mechanism by which β-blockade produces an antihypertensive effect has not been established.
 
 β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects; (2) reduces exercise- and/or isoproterenol-induced tachycardia; and (3) reduces reflex orthostatic tachycardia.
 Significant β-adrenoreceptor blocking effect is usually seen within 1 hour of drug administration.
@@ -22,7 +18,7 @@ Significant β-adrenoreceptor blocking effect is usually seen within 1 hour of d
 These effects contribute to the reduction of blood pressure and usually are seen within 30 minutes of drug administration.
 
 Due to the α1-receptor blocking activity of carvedilol, blood pressure is lowered more in the standing than in the supine position, and symptoms of postural hypotension (1.8%), including rare instances of syncope, can occur.
-Following oral administration, when postural hypotension has occurred, it has been transient and is uncommon when carvedilol is administered with food at the recommended starting dose and titration increments are closely followed (see DOSAGE AND ADMINISTRATION [2]).
+Following oral administration, when postural hypotension has occurred, it has been transient and is uncommon when carvedilol is administered with food at the recommended starting dose and titration increments are closely followed [see Dosage and Administration (2)].
 
 In hypertensive patients with normal renal function, therapeutic doses of carvedilol decreased renal vascular resistance with no change in glomerular filtration rate or renal plasma flow.
 Changes in excretion of sodium, potassium, uric acid, and phosphorus in hypertensive patients with normal renal function were similar after carvedilol and placebo.
@@ -44,10 +40,10 @@ Less than 2% of the dose was excreted unchanged in the urine.
 Carvedilol is metabolized primarily by aromatic ring oxidation and glucuronidation.
 The oxidative metabolites are further metabolized by conjugation via glucuronidation and sulfation.
 The metabolites of carvedilol are excreted primarily via the bile into the feces.
-Demethylation and hydroxylation at the phenol ring produce three active metabolites with β-receptor blocking activity.
+Demethylation and hydroxylation at the phenol ring produce 3 active metabolites with β-receptor blocking activity.
 Based on preclinical studies, the 4'-hydroxyphenyl metabolite is approximately 13 times more potent than carvedilol for β-blockade.
 
-Compared to carvedilol, the three active metabolites exhibit weak vasodilating activity.
+Compared to carvedilol, the 3 active metabolites exhibit weak vasodilating activity.
 Plasma concentrations of the active metabolites are about one-tenth of those observed for carvedilol and have pharmacokinetics similar to the parent.
 
 Carvedilol undergoes stereoselective first-pass metabolism with plasma levels of R(+)-carvedilol approximately 2 to 3 times higher than S(-)-carvedilol following oral administration in healthy subjects.
@@ -84,16 +80,18 @@ Consistent with its high degree of plasma protein-binding, carvedilol does not a
 
 Since carvedilol undergoes substantial oxidative metabolism, the metabolism and pharmacokinetics of carvedilol may be affected by induction or inhibition of cytochrome P450 enzymes.
 
-Rifampin: In a pharmacokinetic study conducted in 8 healthy male subjects, rifampin (600 mg daily for 12 days) decreased the AUC and Cmax of carvedilol by about 70% [see Drug Interactions (7.5)].
+Amiodarone:: In a pharmacokinetic study conducted in 106 Japanese patients with heart failure, coadministration of small loading and maintenance doses of amiodarone with carvedilol resulted in at least a 2-fold increase in the steady-state trough concentrations of S(-) carvedilol [see Drug Interactions (7.6)].
 
-Cimetidine: In a pharmacokinetic study conducted in 10 healthy male subjects, cimetidine (1000 mg/day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
+Cimetidine: In a pharmacokinetic study conducted in 10 healthy male subjects, cimetidine (1,000 mg/day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
+
+Digoxin: Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 hypertensive patients [see Drug Interactions (7.4)].
 
 Glyburide: In 12 healthy subjects, combined administration of carvedilol (25 mg once daily) and a single dose of glyburide did not result in a clinically relevant pharmacokinetic interaction for either compound.
 
 Hydrochlorothiazide: A single oral dose of carvedilol 25 mg did not alter the pharmacokinetics of a single oral dose of hydrochlorothiazide 25 mg in 12 patients with hypertension.
 Likewise, hydrochlorothiazide had no effect on the pharmacokinetics of carvedilol.
 
-Digoxin: Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 hypertensive patients.
+Rifampin: In a pharmacokinetic study conducted in 8 healthy male subjects, rifampin (600 mg daily for 12 days) decreased the AUC and Cmax of carvedilol by about 70% [see Drug Interactions (7.5)].
 
 Torsemide: In a study of 12 healthy subjects, combined oral administration of carvedilol 25 mg once daily and torsemide 5 mg once daily for 5 days did not result in any significant differences in their pharmacokinetics compared with administration of the drugs alone.
 

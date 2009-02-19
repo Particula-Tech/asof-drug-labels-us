@@ -8,7 +8,7 @@ The last 2 complications may occur with or without preceding exacerbation of the
 As with other β-blockers, when discontinuation of CARVEDILOL is planned, the patients should be carefully observed and advised to limit physical activity to a minimum.
 CARVEDILOL should be discontinued over 1 to 2 weeks whenever possible.
 If the angina worsens or acute coronary insufficiency develops, it is recommended that CARVEDILOL be promptly reinstituted, at least temporarily.
-Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue CARVEDILOL therapy abruptly even in patients treated only for hypertension or heart failure.
+Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue therapy with CARVEDILOL abruptly even in patients treated only for hypertension or heart failure.
 
 ## 5.2 Bradycardia
 
@@ -23,13 +23,13 @@ In the CAPRICORN study of survivors of an acute myocardial infarction, hypotensi
 Syncope was reported in 3.9% and 1.9% of patients, respectively.
 These events were a cause for discontinuation of therapy in 2.5% of patients receiving carvedilol, compared to 0.2% of placebo patients.
 
-Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.1, 2.2)].
+Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.2, 2.3)].
 During initiation of therapy, the patient should be cautioned to avoid situations such as driving or hazardous tasks, where injury could result should syncope occur.
 
 ## 5.4 Heart Failure/Fluid Retention
 
 Worsening heart failure or fluid retention may occur during up-titration of carvedilol.
-If such symptoms occur, diuretics should be increased and the carvedilol dose should not be advanced until clinical stability resumes (see DOSAGE AND ADMINISTRATION [2]).
+If such symptoms occur, diuretics should be increased and the carvedilol dose should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
 Occasionally it is necessary to lower the carvedilol dose or temporarily discontinue it.
 Such episodes do not preclude subsequent successful titration of, or a favorable response to, carvedilol.
 
@@ -65,8 +65,7 @@ In patients with these risk factors it is recommended that renal function be mon
 
 ## 5.9 Anesthesia and Major Surgery
 
-If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used.
-(See OVERDOSAGE [10] for information on treatment of bradycardia and hypertension.)
+If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10) for information on treatment of bradycardia and hypertension].
 
 ## 5.10 Thyrotoxicosis
 

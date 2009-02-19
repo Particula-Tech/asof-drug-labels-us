@@ -8,7 +8,6 @@ Carvedilol is contraindicated in the following conditions:
 - Sick sinus syndrome
 - Severe bradycardia (unless a permanent pacemaker is in place)
 - Patients with cardiogenic shock or who have decompensated heart failure requiring the use of intravenous inotropic therapy.
-  Such patients should first be weaned from intravenous therapy before initiating carvedilol
-- Patients with clinically manifest hepatic impairment
-- Patients with a history of a serious hypersensitivity reaction to carvedilol (e.g.
-  Stevens-Johnson syndrome)
+  Such patients should first be weaned from intravenous therapy before initiating carvedilol.
+- Patients with severe hepatic impairment
+- Patients with a history of a serious hypersensitivity reaction (e.g., Stevens-Johnson syndrome, anaphylactic reaction, angioedema) to carvedilol, any of the components of carvedilol

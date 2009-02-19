@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Studies performed in pregnant rats and rabbits given carvedilol revealed increased post-implantation loss in rats at doses of 300 mg/kg/day (50 times the MRHD as mg/m2) and in rabbits at doses of 75 mg/kg/day (25 times the MRHD as mg/m2).
+Pregnancy Category C. Studies performed in pregnant rats and rabbits given carvedilol revealed increased post-implantation loss in rats at doses of 300 mg/kg/day (50 times the maximum recommended human dose [MRHD] as mg/m2) and in rabbits at doses of 75 mg/kg/day (25 times the MRHD as mg/m2).
 In the rats, there was also a decrease in fetal body weight at the maternally toxic dose of 300 mg/kg/day (50 times the MRHD as mg/m2), which was accompanied by an elevation in the frequency of fetuses with delayed skeletal development (missing or stunted 13th rib).
 In rats the no-observed-effect level for developmental toxicity was 60 mg/kg/day (10 times the MRHD as mg/m2); in rabbits it was 15 mg/kg/day (5 times the MRHD as mg/m2).
 There are no adequate and well-controlled studies in pregnant women.
@@ -18,13 +18,13 @@ The effects of other α- and β-blocking agents have included perinatal and neon
 
 ## 8.4 Pediatric Use
 
-Pediatrics: Effectiveness of CARVEDILOL in patients younger than 18 years of age has not been established.
+Effectiveness of CARVEDILOL in patients younger than 18 years of age has not been established.
 
-In a double-blind trial, 161 children (mean age 6 years, range 2 months to 17 years; 45% less than 2 years old) with chronic heart failure [NYHA class II-IV, left ventricular ejection fraction <40% for children with a systemic left ventricle (LV), and moderate-severe ventricular dysfunction qualitatively by echo for those with a systemic ventricle that was not an LV] who were receiving standard background treatment were randomized to placebo or to two dose levels of carvedilol.
-These dose levels produced placebo-corrected heart rate reduction of 4 to 6 heart beats per minute, indicative of beta-blockade activity.
+In a double-blind trial, 161 children (mean age 6 years, range 2 months to 17 years; 45% less than 2 years old) with chronic heart failure [NYHA class II-IV, left ventricular ejection fraction <40% for children with a systemic left ventricle (LV), and moderate-severe ventricular dysfunction qualitatively by echo for those with a systemic ventricle that was not an LV] who were receiving standard background treatment were randomized to placebo or to 2 dose levels of carvedilol.
+These dose levels produced placebo-corrected heart rate reduction of 4 to 6 heart beats per minute, indicative of β-blockade activity.
 Exposure appeared to be lower in pediatric subjects than adults.
 After 8 months of follow-up, there was no significant effect of treatment on clinical outcomes.
-Adverse reactions in this trial that occurred in greater than 10% of patients treated with CARVEDILOL and at twice the rate of placebo-treated patients included chest pain (17% vs. 6%), dizziness (13% vs. 2%), and dyspnea (11% vs. 0%).
+Adverse reactions in this trial that occurred in greater than 10% of patients treated with CARVEDILOL and at twice the rate of placebo-treated patients included chest pain (17% versus 6%), dizziness (13% versus 2%), and dyspnea (11% versus 0%).
 
 ## 8.5 Geriatric Use
 

@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-Approved Patient Labeling (17.2).
+
 ## 17.1 Patient Advice
 
 Patients taking CARVEDILOL should be advised of the following:
@@ -20,7 +22,7 @@ PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
 ## 17.2 FDA-Approved Patient Labeling
 
-### PATIENT INFORMATION – Rx only CARVEDILOL TABLETS
+### PATIENT INFORMATION CARVEDILOL TABLETS
 
 Read the Patient Information that comes with CARVEDILOL before you start taking it and each time you get a refill.
 There may be new information.
@@ -103,7 +105,7 @@ If your doctor decides that you should stop taking CARVEDILOL, your doctor may s
   If these happen, sit or lie down right away and tell your doctor.
 - Tiredness.
   If you feel tired or dizzy you should not drive, use machinery, or do anything that needs you to be alert.
-- Slow heart beat
+- Slow heartbeat
 - Changes in your blood sugar.
   If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
 - CARVEDILOL may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
@@ -111,6 +113,7 @@ If your doctor decides that you should stop taking CARVEDILOL, your doctor may s
 - Worsening of severe allergic reactions.
 
 Other side effects of CARVEDILOL include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
+Rare serious allergic reactions have happened in patients who were on CARVEDILOL.
 
 Call your doctor if you have any side effects that bother you or don’t go away.
 
@@ -142,6 +145,6 @@ Inactive Ingredients: lactose monohydrate, colloidal silicon dioxide, crospovido
 
 Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ08810
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India
