@@ -98,4 +98,4 @@ Because these reactions were reported voluntarily from a population of unknown s
 
 Immune system disorders: Anaphylactoid reaction.
 
-Skin and subcutaneous tissue disorders: Rash.
+Skin and subcutaneous tissue disorders: Alopecia, rash.

@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-There is no experience of entecavir overdosage reported in patients.
+There is limited experience of entecavir overdosage reported in patients.
 Healthy subjects who received single entecavir doses up to 40 mg or multiple doses up to 20 mg/day for up to 14 days had no increase in or unexpected adverse events.
 If overdose occurs, the patient must be monitored for evidence of toxicity, and standard supportive treatment applied as necessary.
 

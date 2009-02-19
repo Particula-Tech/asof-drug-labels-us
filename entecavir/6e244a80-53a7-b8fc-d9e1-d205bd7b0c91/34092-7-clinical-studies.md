@@ -78,7 +78,7 @@ Table 9 shows selected virologic, biochemical, and serologic endpoints.
 | No change | 44% | 42% |
 | Worseningc | 11% | 26% |
 | Missing Week 48 biopsy | 11% | 16% |
-| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score≥2). |  |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score≥ 2). |  |  |
 | b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |
 | c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |
 | * p<0.01 |  |  |

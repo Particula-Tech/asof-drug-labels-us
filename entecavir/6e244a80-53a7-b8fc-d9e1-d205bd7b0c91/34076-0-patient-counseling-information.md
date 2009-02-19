@@ -22,14 +22,11 @@ Patients should be informed that deterioration of liver disease may occur in som
 Patients should be offered HIV antibody testing before starting BARACLUDE therapy.
 They should be informed that if they have HIV infection and are not receiving effective HIV treatment, BARACLUDE may increase the chance of HIV resistance to HIV medication.
 
-US Patent No: 5,206,244.
-Other patents pending.
+Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Bristol-Myers Squibb Princeton, NJ 08543 USA
+1195459A7 Rev January 2009
 
-1195459A5 Rev July 2008
-
-## 17.4 FDA-approved Patient Labeling
+## 17.4 FDA-Approved Patient Labeling
 
 Baraclude® (BEAR ah klude) (generic name = entecavir) Tablets and Oral Solution
 
@@ -129,7 +126,6 @@ How should I take BARACLUDE?
   Empty stomach means at least 2 hours after a meal and at least 2 hours before the next meal.
   To help you remember to take your BARACLUDE, try to take it at the same time each day.
 - If you are taking BARACLUDE Oral Solution, carefully measure your dose with the spoon provided, as follows:
-- Hold the spoon in a vertical (upright)
 
 1.)
 Hold the spoon in a vertical (upright) position and fill it gradually to the mark corresponding to the prescribed dose.
@@ -204,4 +200,4 @@ Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 This Patient Information Leaflet has been approved by the U.S. Food and Drug Administration.
 
-1195459A5 Rev July 2008
+1195459A7 Rev January 2009
