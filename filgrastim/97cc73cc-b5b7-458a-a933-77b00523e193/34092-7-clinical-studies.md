@@ -20,7 +20,7 @@ The median duration of severe neutropenia in cycle 1 was reduced from 6 days (ra
 The mean duration of neutropenia in cycle 1 was 5.64 ± 2.27 days for patients receiving placebo versus 2.44 ± 1.90 days for patients receiving NEUPOGEN®.
 Over all cycles‚ the median duration of neutropenia was 3 days for patients randomized to placebo versus 1 day for patients randomized to NEUPOGEN®.
 The median severity of neutropenia (as measured by ANC nadir) was 72/mm3 (range 0/mm3 to 7912/mm3) in cycle 1 for patients receiving NEUPOGEN® versus 38/mm3 (range 0/mm3 to 9520/mm3) for patients receiving placebo (p = 0.012).
-The mean severity of neutropenia in cycle 1 was 496/mm3± 1382/mm3 for patients receiving NEUPOGEN® versus 204/mm3± 953/mm3 for patients receiving placebo.
+The mean severity of neutropenia in cycle 1 was 496/mm3 ± 1382/mm3 for patients receiving NEUPOGEN® versus 204/mm3 ± 953/mm3 for patients receiving placebo.
 Over all cycles‚ the ANC nadir for patients randomized to NEUPOGEN® was 403/mm3‚ versus 161/mm3 for patients randomized to placebo.
 Administration of NEUPOGEN® resulted in an earlier ANC nadir following chemotherapy than was experienced by patients receiving placebo (day 10 vs day 12).
 NEUPOGEN® was well-tolerated when given SC daily at doses of 4 to 8 mcg/kg for up to 14 consecutive days following each cycle of chemotherapy (see ADVERSE REACTIONS).
@@ -35,36 +35,36 @@ Such phase 1/2 studies are summarized in the following table.
 | Type of Malignancy | Regimen | Chemotherapy Dose |  | No. Pts. | Trial Phase | NEUPOGEN® Daily DosageNEUPOGEN® doses were those that accelerated neutrophil production. Doses which provided no additional acceleration beyond that achieved at the next lower dose are not reported. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Small Cell |  |  |  |  |  |  |
-| Lung Cancer | Cyclophosphamide | 1 g/m2/day |  | 210 | 3 | 4 - 8 mcg/kg SC |
-|  | Doxorubicin | 50 mg/m2/day |  |  |  | days 4 - 17 |
+| Lung Cancer | Cyclophosphamide | 1 g/m2/day |  | 210 | 3 | 4 – 8 mcg/kg SC |
+|  | Doxorubicin | 50 mg/m2/day |  |  |  | days 4 – 17 |
 |  | Etoposide | 120 mg/m2/day x 3 |  |  |  |  |
 |  |  | q 21 days |  |  |  |  |
 | Small Cell |  |  |  |  |  |  |
-| Lung Cancer11 | Ifosfamide | 5 g/m2/day |  | 12 | 1/2 | 5.75 - 46 mcg/kg IV |
-|  | Doxorubicin | 50 mg/m2/day |  |  |  | days 4 - 17 |
+| Lung Cancer11 | Ifosfamide | 5 g/m2/day |  | 12 | 1/2 | 5.75 – 46 mcg/kg IV |
+|  | Doxorubicin | 50 mg/m2/day |  |  |  | days 4 – 17 |
 |  | Etoposide | 120 mg/m2/day x 3 |  |  |  |  |
 |  | Mesna | 8 g/m2/day |  |  |  |  |
 |  |  | q 21 days |  |  |  |  |
 | Urothelial |  |  |  |  |  |  |
-| Cancer12 | Methotrexate | 30 mg/m2/day x 2 |  | 40 | 1/2 | 3.45 - 69 mcg/kg IV |
-|  | Vinblastine | 3 mg/m2/day x 2 |  |  |  | days 4 - 11 |
+| Cancer12 | Methotrexate | 30 mg/m2/day x 2 |  | 40 | 1/2 | 3.45 – 69 mcg/kg IV |
+|  | Vinblastine | 3 mg/m2/day x 2 |  |  |  | days 4 – 11 |
 |  | Doxorubicin | 30 mg/m2/day |  |  |  |  |
 |  | Cisplatin | 70 mg/m2/day |  |  |  |  |
 |  |  | q 28 days |  |  |  |  |
 | Various |  |  |  |  |  |  |
 | Nonmyeloid |  |  |  |  |  |  |
-| Malignancies13 | Cyclophosphamide | 2.5 g/m2/day x 2 |  | 18 | 1/2 | 23 - 69 mcg/kgLowest dose(s) tested in the study. IV |
-|  | Etoposide | 500 mg/m2/day x 3 |  |  |  | days 8 - 28 |
+| Malignancies13 | Cyclophosphamide | 2.5 g/m2/day x 2 |  | 18 | 1/2 | 23 – 69 mcg/kgLowest dose(s) tested in the study. IV |
+|  | Etoposide | 500 mg/m2/day x 3 |  |  |  | days 8 – 28 |
 |  | Cisplatin | 50 mg/m2/day x 3 |  |  |  |  |
 |  |  | q 28 days |  |  |  |  |
 | Breast/Ovarian |  |  |  |  |  |  |
 | Cancer14 | DoxorubicinPatients received doxorubicin at either 75‚ 100‚ 125‚ or 150 mg/m2. | 75 mg/m2 |  | 21 | 2 | 11.5 mcg/kg IV |
-|  |  | 100 mg/m2 |  |  |  | days 2 - 9 |
+|  |  | 100 mg/m2 |  |  |  | days 2 – 9 |
 |  |  | 125 mg/m2 |  |  |  | 5.75 mcg/kg IV |
-|  |  | 150 mg/m2 |  |  |  | days 10 - 12 |
+|  |  | 150 mg/m2 |  |  |  | days 10 – 12 |
 |  |  | q 14 days |  |  |  |  |
-| Neuroblastoma | Cyclophosphamide | 150 mg/m2 x 7 |  | 12 | 2 | 5.45 - 17.25 mcg/kg SC |
-|  | Doxorubicin | 35 mg/m2 |  |  |  | days 6 - 19 |
+| Neuroblastoma | Cyclophosphamide | 150 mg/m2 x 7 |  | 12 | 2 | 5.45 – 17.25 mcg/kg SC |
+|  | Doxorubicin | 35 mg/m2 |  |  |  | days 6 – 19 |
 |  | Cisplatin | 90 mg/m2 |  |  |  |  |
 |  |  | q 28 days |  |  |  |  |
 |  |  | (cycles 1‚3‚5)Cycles 2‚6 = cyclophosphamide 150 mg/m2 x 7 and etoposide 280 mg/m2 x 3. Cycle 4 = cisplatin 90 mg/m2 x 1 and etoposide 280 mg/m2 x 3. |  |  |  |  |
@@ -124,15 +124,15 @@ Progenitor Cell Levels in Peripheral Blood by Mobilization Day
 
 |  | Overall Study 1 CFU-GM/mL |  | Study 2 CFU-GM/mL |  | Study 2 CD34+ (x 104/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | No. Samples | Median(25% - 75%) | No. Samples | Median(25% - 75%) | No. Samples | Median(25% - 75%) |
-| Day 1 | 11 | 18(13 - 62) | 20 | 42(15 - 151) | 20 | 0.13(0.02 - 0.66) |
-| Day 2 | 7 | 22(3 - 61) | n/an/a = not available | n/a | n/a | n/a |
-| Day 3 | 10 | 138(39 - 364) | n/a | n/a | n/a | n/a |
-| Day 4 | 18 | 365(158 - 864) | 18 | 576(108 - 1819) | 17 | 2.11(0.58 - 3.93) |
-| Day 5 | 36 | 781(391 - 1608) | 21 | 960(72 - 1677) | 22 | 3.16(1.08 - 6.11) |
-| Day 6 | 46 | 505(199 - 1397) | 22 | 756(70 - 3486) | 22 | 2.67(1.09 - 4.40) |
-| Day 7 | 37 | 333(111 - 938) | 22 | 597(118 - 2009) | 21 | 2.64(0.78 - 4.22) |
-| Day 8 | 15 | 383(94 - 815) | 12 | 51(10 - 746) | 12 | 1.61(0.38 - 4.31) |
+|  | No. Samples | Median(25% – 75%) | No. Samples | Median(25% – 75%) | No. Samples | Median(25% – 75%) |
+| Day 1 | 11 | 18(13 – 62) | 20 | 42(15 – 151) | 20 | 0.13(0.02 – 0.66) |
+| Day 2 | 7 | 22(3 – 61) | n/an/a = not available | n/a | n/a | n/a |
+| Day 3 | 10 | 138(39 – 364) | n/a | n/a | n/a | n/a |
+| Day 4 | 18 | 365(158 – 864) | 18 | 576(108 – 1819) | 17 | 2.11(0.58 – 3.93) |
+| Day 5 | 36 | 781(391 – 1608) | 21 | 960(72 – 1677) | 22 | 3.16(1.08 – 6.11) |
+| Day 6 | 46 | 505(199 – 1397) | 22 | 756(70 – 3486) | 22 | 2.67(1.09 – 4.40) |
+| Day 7 | 37 | 333(111 – 938) | 22 | 597(118 – 2009) | 21 | 2.64(0.78 – 4.22) |
+| Day 8 | 15 | 383(94 – 815) | 12 | 51(10 – 746) | 12 | 1.61(0.38 – 4.31) |
 
 In three studies of patients with prior exposure to chemotherapy‚ the median CFU-GM yield in the leukapheresis product ranged from 20.9 to 32.7 x 104/kg body weight (n = 105).
 In two of these studies where CD34+ yields in the leukapheresis product were also determined‚ the median CD34+ yields were 3.11 and 2.80 x 106/kg, respectively (n = 56).
@@ -146,9 +146,9 @@ Patients randomized to the NEUPOGEN®-mobilized PBPC group compared to the ABMT 
 
 |  |  | Amgen-sponsored Study 1 N = 13 | Amgen-sponsored Study 2 N = 22 | Amgen-sponsored Study 3 N = 27 | Non-Amgen-sponsored Study N = 39 |
 | --- | --- | --- | --- | --- | --- |
-| Median PBPC/kg Collected | MNCCD34+GFU-GM | 9.5 x 108n/an/a = not available63.9 x 104 | 9.5 x 1083.1 x 10625.3 x 104 | 8.1 x 1082.8 x 10632.6 x 104 | 10.3 x 1086.2 x 106n/a |
-| Days to ANC ≥ 500/mm3 | MedianRange | 98 - 10 | 108 - 15 | 119 - 38 | 107 - 40 |
-| Days to Plt. ≥ 20‚000/mm3 | MedianRange | 107 - 16 | 12.510 - 30 | 168 - 52 | 15.57 - 63 |
+| Median PBPC/kg Collected | MNCCD34+CFU-GM | 9.5 x 108n/an/a = not available63.9 x 104 | 9.5 x 1083.1 x 10625.3 x 104 | 8.1 x 1082.8 x 10632.6 x 104 | 10.3 x 1086.2 x 106n/a |
+| Days to ANC ≥ 500/mm3 | MedianRange | 98 – 10 | 108 – 15 | 119 – 38 | 107 – 40 |
+| Days to Plt. ≥ 20‚000/mm3 | MedianRange | 107 – 16 | 12.510 – 30 | 168 – 52 | 15.57 – 63 |
 
 Three of the 101 patients (3%) did not achieve the criteria for engraftment as defined by a platelet count ≥ 20‚000/mm3 by day 28.
 In clinical trials of NEUPOGEN® for the mobilization of PBPC‚ NEUPOGEN® was administered to patients at 5 to 24 mcg/kg/day after reinfusion of the collected cells until a sustainable ANC (≥ 500/mm3) was reached.

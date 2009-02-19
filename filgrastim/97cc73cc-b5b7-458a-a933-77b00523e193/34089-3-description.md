@@ -19,7 +19,7 @@ See table below for product composition of each single use vial or prefilled syr
 | Filgrastim | 300 mcg | 480 mcg | 300 mcg | 480 mcg |
 | Acetate | 0.59 mg | 0.94 mg | 0.295 mg | 0.472 mg |
 | Sorbitol | 50.0 mg | 80.0 mg | 25.0 mg | 40.0 mg |
-| Tween® 80 | 0.004% | 0.004% | 0.004% | 0.004% |
+| Polysorbate 80 | 0.04 mg | 0.064 mg | 0.02 mg | 0.032 mg |
 | Sodium | 0.035 mg | 0.056 mg | 0.0175 mg | 0.028 mg |
 | Water for Injection |  |  |  |  |
 | USP q.s. ad | 1.0 mL | 1.6 mL | 0.5 mL | 0.8 mL |

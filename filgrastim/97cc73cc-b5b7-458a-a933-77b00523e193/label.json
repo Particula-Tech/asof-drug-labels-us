@@ -1,11 +1,15 @@
 {
   "application_numbers": [],
   "inn": "filgrastim",
-  "labeler": "Amgen Manfacturing, Limited",
+  "labeler": "Amgen",
   "package_ndcs": [
+    "55513-209-01",
     "55513-209-10",
+    "55513-530-01",
     "55513-530-10",
+    "55513-546-01",
     "55513-546-10",
+    "55513-924-01",
     "55513-924-10"
   ],
   "products": [],

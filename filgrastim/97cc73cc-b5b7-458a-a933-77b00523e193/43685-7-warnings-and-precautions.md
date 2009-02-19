@@ -68,7 +68,7 @@ The effect of reinfusion of tumor cells has not been well-studied‚ and the lim
 
 White blood cell counts of 100‚000/mm3 or greater were observed in approximately 2% of patients receiving NEUPOGEN® at doses above 5 mcg/kg/day.
 There were no reports of adverse events associated with this degree of leukocytosis.
-In order to avoid the potential complications of excessive leukocytosis‚ a CBC is recommended twice per week during NEUPOGEN® therapy (see Laboratory Monitoring).
+In order to avoid the potential complications of excessive leukocytosis‚ a CBC is recommended twice per week during NEUPOGEN® therapy (see LABORATORY MONITORING).
 
 ### Premature Discontinuation of NEUPOGEN® Therapy
 
@@ -83,7 +83,7 @@ Therefore‚ the premature discontinuation of NEUPOGEN® therapy‚ prior to the
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The incidence of antibody development in patients receiving NEUPOGEN® has not been adequately determined.
 While available data suggest that a small proportion of patients developed binding antibodies to Filgrastim, the nature and specificity of these antibodies has not been adequately studied.
-In clinical studies comparing NEUPOGEN® and Neulasta™, the incidence of antibodies binding to NEUPOGEN® was 3% (11/333).
+In clinical studies comparing NEUPOGEN® and Neulasta®, the incidence of antibodies binding to NEUPOGEN® was 3% (11/333).
 In these 11 patients, no evidence of a neutralizing response was observed using a cell-based bioassay.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors including timing of sampling, sample handling, concomitant medications, and underlying disease.
 Therefore, comparison of the incidence of antibodies to NEUPOGEN® with the incidence of antibodies to other products may be misleading.
@@ -104,6 +104,9 @@ In most cases‚ the severity of cutaneous vasculitis was moderate or severe.
 Most of the reports involved patients with SCN receiving long-term NEUPOGEN® therapy.
 Symptoms of vasculitis generally developed simultaneously with an increase in the ANC and abated when the ANC decreased.
 Many patients were able to continue NEUPOGEN® at a reduced dose.
+
+Peripheral blood progenitor cell collection in allogeneic donors is not an approved indication in the United States.
+Pulmonary adverse events (hemoptysis, pulmonary infiltrates) have been reported very rarely (< 0.01%) in allogeneic donors outside the United States.
 
 ## Information for Patients and Caregivers
 
@@ -147,7 +150,7 @@ In clinical trials‚ the following laboratory results were observed:
 Drug interactions between NEUPOGEN® and other drugs have not been fully evaluated.
 Drugs which may potentiate the release of neutrophils‚ such as lithium‚ should be used with caution.
 
-Increased hematopoetic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes.
+Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes.
 This should be considered when interpreting bone-imaging results.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -180,7 +183,7 @@ Because many drugs are excreted in human milk‚ caution should be exercised if 
 In a phase 3 study to assess the safety and efficacy of NEUPOGEN® in the treatment of SCN, 120 patients with a median age of 12 years were studied.
 Of the 120 patients, 12 were infants (1 month to 2 years of age), 47 were children (2 to 12 years of age), and 9 were adolescents (12 to 16 years of age).
 Additional information is available from a SCN postmarketing surveillance study, which includes long-term follow-up of patients in the clinical studies and information from additional patients who entered directly into the postmarketing surveillance study.
-Of the 531 patients in the surveillance study as of 31 December 1997, 32 were infants, 200 were children, and 68 were adolescents (see CLINICAL EXPERIENCE, INDICATIONS AND USAGE, Laboratory Monitoring, DOSAGE AND ADMINISTRATION).
+Of the 531 patients in the surveillance study as of 31 December 1997, 32 were infants, 200 were children, and 68 were adolescents (see CLINICAL EXPERIENCE, INDICATIONS AND USAGE, LABORATORY MONITORING, DOSAGE AND ADMINISTRATION).
 
 Pediatric patients with congenital types of neutropenia (Kostmann’s syndrome, congenital agranulocytosis, or Schwachman-Diamond syndrome) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic NEUPOGEN® treatment.
 The relationship of these events to NEUPOGEN® administration is unknown (see WARNINGS, ADVERSE REACTIONS).
@@ -195,7 +198,7 @@ There was one report of palpable splenomegaly associated with NEUPOGEN® therapy
 
 ## Geriatric Use
 
-Among 855 subjects enrolled in 3 randomized, placebo controlled trials of NEUPOGEN® use following myelosuppressive chemotherapy, there were 232 subjects age 65 or older, and 22 subjects age 75 or older.
+Among 855 subjects enrolled in 3 randomized, placebo-controlled trials of NEUPOGEN® use following myelosuppressive chemotherapy, there were 232 subjects age 65 or older, and 22 subjects age 75 or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other clinical experience has not identified differences in the responses between elderly and younger patients.
 
 Clinical studies of NEUPOGEN® in other approved indications (ie, bone marrow transplant recipients, PBPC mobilization, and SCN) did not include sufficient numbers of subjects aged 65 and older to determine whether elderly subjects respond differently from younger subjects.

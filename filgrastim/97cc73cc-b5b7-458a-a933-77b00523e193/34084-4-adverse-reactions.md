@@ -106,9 +106,9 @@ Other adverse events infrequently observed and possibly related to NEUPOGEN® th
 Cytogenetic abnormalities, transformation to MDS, and AML have been observed in patients treated with NEUPOGEN® for SCN (see WARNINGS, PRECAUTIONS: Pediatric Use).
 As of 31 December 1997, data were available from a postmarketing surveillance study of 531 SCN patients with an average follow-up of 4.0 years.
 Based on analysis of these data, the risk of developing MDS and AML appears to be confined to the subset of patients with congenital neutropenia.
-A life-table analysis of these data revealed that the cumulative risk of developing leukemia or MDS by the end of the 8th year of NEUPOGEN® treatment in a patient with congenital neutropenia was 16.5 % (95% C.I. = 9.8%, 23.3%); this represents an annual rate of approximately 2%.
+A life-table analysis of these data revealed that the cumulative risk of developing leukemia or MDS by the end of the 8th year of NEUPOGEN® treatment in a patient with congenital neutropenia was 16.5% (95% C.I. = 9.8%, 23.3%); this represents an annual rate of approximately 2%.
 Cytogenetic abnormalities, most commonly involving chromosome 7, have been reported in patients treated with NEUPOGEN® who had previously documented normal cytogenetics.
 It is unknown whether the development of cytogenetic abnormalities, MDS, or AML is related to chronic daily NEUPOGEN® administration or to the natural history of congenital neutropenia.
-It is also unknown if the rate of conversion in patients who have not received NEUPOGEN®is different from that of patients who have received NEUPOGEN®.
+It is also unknown if the rate of conversion in patients who have not received NEUPOGEN® is different from that of patients who have received NEUPOGEN®.
 Routine monitoring through regular CBCs is recommended for all SCN patients.
-Additionally, annual bone marrow and cytogenetic evaluations are recommended in all patients with congenital neutropenia (see Laboratory Monitoring).
+Additionally, annual bone marrow and cytogenetic evaluations are recommended in all patients with congenital neutropenia (see LABORATORY MONITORING).

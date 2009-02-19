@@ -61,8 +61,8 @@ Dose Adjustments:
 Chronic daily administration is required to maintain clinical benefit.
 Absolute neutrophil count should not be used as the sole indication of efficacy.
 The dose should be individually adjusted based on the patients’ clinical course as well as ANC.
-In the SCN postmarketing surveillance study, the reported median daily doses of NEUPOGEN®were: 6.0 mcg/kg (congenital neutropenia), 2.1 mcg/kg (cyclic neutropenia), and 1.2 mcg/kg (idiopathic neutropenia).
-In rare instances, patients with congenital neutropenia have required doses of NEUPOGEN®≥ 100 mcg/kg/day.
+In the SCN postmarketing surveillance study, the reported median daily doses of NEUPOGEN® were: 6.0 mcg/kg (congenital neutropenia), 2.1 mcg/kg (cyclic neutropenia), and 1.2 mcg/kg (idiopathic neutropenia).
+In rare instances, patients with congenital neutropenia have required doses of NEUPOGEN® ≥ 100 mcg/kg/day.
 
 ## Dilution
 

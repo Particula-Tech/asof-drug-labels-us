@@ -3,7 +3,7 @@
 ## Cancer Patients Receiving Myelosuppressive Chemotherapy
 
 NEUPOGEN® is indicated to decrease the incidence of infection‚ as manifested by febrile neutropenia‚ in patients with nonmyeloid malignancies receiving myelosuppressive anti-cancer drugs associated with a significant incidence of severe neutropenia with fever (see CLINICAL EXPERIENCE).
-A complete blood count (CBC) and platelet count should be obtained prior to chemotherapy‚ and twice per week (see Laboratory Monitoring) during NEUPOGEN® therapy to avoid leukocytosis and to monitor the neutrophil count.
+A complete blood count (CBC) and platelet count should be obtained prior to chemotherapy‚ and twice per week (see LABORATORY MONITORING) during NEUPOGEN® therapy to avoid leukocytosis and to monitor the neutrophil count.
 In phase 3 clinical studies‚ NEUPOGEN® therapy was discontinued when the ANC was ≥ 10‚000/mm3 after the expected chemotherapy-induced nadir.
 
 ## Patients With Acute Myeloid Leukemia Receiving Induction or Consolidation Chemotherapy
@@ -13,7 +13,7 @@ NEUPOGEN® is indicated for reducing the time to neutrophil recovery and the dur
 ## Cancer Patients Receiving Bone Marrow Transplant
 
 NEUPOGEN® is indicated to reduce the duration of neutropenia and neutropenia-related clinical sequelae‚ eg‚ febrile neutropenia‚ in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by marrow transplantation (see CLINICAL EXPERIENCE).
-It is recommended that CBCs and platelet counts be obtained at a minimum of 3 times per week (see Laboratory Monitoring) following marrow infusion to monitor the recovery of marrow reconstitution.
+It is recommended that CBCs and platelet counts be obtained at a minimum of 3 times per week (see LABORATORY MONITORING) following marrow infusion to monitor the recovery of marrow reconstitution.
 
 ## Patients Undergoing Peripheral Blood Progenitor Cell Collection and Therapy
 

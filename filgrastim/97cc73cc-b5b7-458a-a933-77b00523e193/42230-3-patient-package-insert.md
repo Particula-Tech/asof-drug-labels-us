@@ -169,7 +169,7 @@ Section A. Preparing the dose of NEUPOGEN® in a vial
 10. Check again to make sure that you have the correct dose in the syringe.
     It is important that you use the exact dose prescribed by your doctor.
     Remove the syringe from the vial but do not lay it down or let the needle touch anything.
-    (Go to “Injecting the Dose of Neupogen”).
+    (Go to “Injecting the dose of NEUPOGEN®”).
 
 Section B. Preparing the dose of NEUPOGEN® in a prefilled syringe
 
@@ -236,7 +236,7 @@ Disposal of syringes, needles, vials and needle guards
 You should always follow the instructions given by your doctor, nurse, or pharmacist on how to properly dispose of containers with used syringes, needles, vials and needle guards.
 There may be special state and local laws for disposal of used needles and syringes.
 
-- Place all used needles, needle covers, syringes, and vials (empty or unused contents) into a “Sharps” container given to you by your doctor or pharmacist or in a hard-plastic container with a screw-on-cap, or a metal container with a plastic lid, such as a coffee can, labeled “used syringes.”
+- Place all used needles, needle covers, syringes, and vials (empty or unused contents) into a “Sharps” container given to you by your doctor or pharmacist or in a hard-plastic container with a screw-on cap, or a metal container with a plastic lid, such as a coffee can, labeled “used syringes.”
   If a metal container is used, cut a small hole in the plastic lid and tape the lid to the metal container.
   If a hard-plastic container is used, always screw the cap on tightly after each use.
 - Do not use glass or clear plastic containers.
@@ -261,8 +261,10 @@ Each syringe and vial contains Filgrastim in a sterile, clear, colorless, preser
 
 The needle cover on the single-use prefilled syringe contains dry natural rubber (latex), which should not be handled by persons sensitive to this substance.
 
-Manufactured by: Amgen Manfacturing, Limited, a subsidary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A.
+[Amgen Logo]
+
+Manufactured by: Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A.
 
 © 1991-2006 Amgen Inc. All rights reserved.
 
-v6.1
+v7 - Issue Date: 10/25/2006
