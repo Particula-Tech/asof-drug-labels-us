@@ -27,7 +27,7 @@ The onset, duration of action, and recovery profiles of NIMBEX during propofol/o
 Table 1.
 Pharmacodynamic Dose Response* of NIMBEX During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
-| Initial Dose of NIMBEX (mg/kg) | Time to 90% Block (min) |  | Time to Maximum Block (min) |  | 5% Recovery (min) | 25% Recovery† (min) | 95% Recovery (min) | T4:T 1 Ratio‡≥ 70% (min) | 25%-75% Recovery Index (min) |
+| Initial Dose of NIMBEX (mg/kg) | Time to 90% Block (min) |  | Time to Maximum Block (min) |  | 5% Recovery (min) | 25% Recovery† (min) | 95% Recovery (min) | T 4:T 1 Ratio‡≥ 70% (min) | 25%-75% Recovery Index (min) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | Time to Spontaneous Recovery |  |  |  |  |
 | Adults |  |  |  |  |  |  |  |  |  |
@@ -121,7 +121,7 @@ Maintenance doses can therefore be administered at relatively regular intervals 
 The rate of spontaneous recovery of neuromuscular function after infusion is independent of the duration of infusion and comparable to the rate of recovery following initial doses (Table 1).
 
 Long-term infusion (up to 6 days) of NIMBEX during mechanical ventilation in the ICU has been evaluated in two studies.
-In a randomized, double-blind study using presence of a single twitch during train-of-four (TOF) monitoring to regulate dosage, patients treated with NIMBEX (n = 19) recovered neuromuscular function (T4:T1 ratio ≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas those treated with vecuronium (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
+In a randomized, double-blind study using presence of a single twitch during train-of-four (TOF) monitoring to regulate dosage, patients treated with NIMBEX (n = 19) recovered neuromuscular function (T4:T1 ratio≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas those treated with vecuronium (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
 In another study comparing NIMBEX and atracurium, patients recovered neuromuscular function in approximately 50 minutes for both NIMBEX (range: 20 to 175; n = 34) and atracurium (range: 35 to 85; n = 15).
 
 The neuromuscular block produced by NIMBEX is readily antagonized by anticholinesterase agents once recovery has started.
@@ -206,7 +206,7 @@ This suggests that any alterations in the time course of cisatracurium-induced b
 Parameter estimates from the population pharmacokinetic analyses were supported by noncompartmental pharmacokinetic analyses on data from healthy patients and from special patient populations.
 
 Conventional pharmacokinetic analyses have shown that the pharmacokinetics of cisatracurium are proportional to dose between 0.1 (2 × ED95) and 0.2 (4 × ED95) mg/kg cisatracurium.
-In addition, population pharmacokinetic analyses revealed no statistically significant effect of initial dose on CL for doses between 0.1 (2 × ED95) and 0.4 (8 × ED95) mg/kg cisatracurium.
+In addition, population pharmacokinetic analyses revealed no statistically significant effect of initial dose on CL for doses between 0.1 (2× ED95) and 0.4 (8 × ED95) mg/kg cisatracurium.
 
 ### Distribution
 
@@ -216,7 +216,7 @@ The Vss was 21% larger in similar patients receiving inhalation anesthesia (see 
 
 ### Protein Binding
 
-The binding of cisatracurium to plasma proteins has not been successfully studied due to its rapid degradation at physiologic pH.
+The binding of cisatracurium to plasma proteins has not been successfully studieddue to its rapid degradation at physiologic pH.
 Inhibition of degradation requires nonphysiological conditions of temperature and pH which are associated with changes in protein binding.
 
 ### Metabolism
@@ -230,7 +230,7 @@ Laudanosine is further metabolized to desmethyl metabolites which are conjugated
 Organ-independent Hofmann elimination is the predominant pathway for the elimination of cisatracurium.
 The liver and kidney play a minor role in the elimination of cisatracurium but are primary pathways for the elimination of metabolites.
 Therefore, the t½β values of metabolites (including laudanosine) are longer in patients with kidney or liver dysfunction and metabolite concentrations may be higher after long-term administration (see PRECAUTIONS - Long-term Use in the Intensive Care Unit).
-Most importantly, Cmax values of laudanosine are significantly lower in healthy surgical patients receiving infusions of NIMBEX than in patients receiving infusions of atracurium (mean± SD Cmax: 60 ± 52 and 342 ± 93 ng/mL, respectively).
+Most importantly, Cmax values of laudanosine are significantly lower in healthy surgical patients receiving infusions of NIMBEX than in patients receiving infusions of atracurium (mean ± SD Cmax: 60 ± 52 and 342 ± 93 ng/mL, respectively).
 
 ### Elimination
 
@@ -243,7 +243,7 @@ Following 14C-cisatracurium administration to 6 healthy male patients, 95% of th
 In 12 healthy surgical patients receiving non-radiolabeled cisatracurium who had Foley catheters placed for surgical management, approximately 15% of the dose was excreted unchanged in the urine.
 
 In studies of healthy surgical patients, mean t½β values of cisatracurium ranged from 22 to 29 minutes and were consistent with the t½β of cisatracurium in vitro (29 minutes).
-The mean ± SD t½β values of laudanosine were 3.1 ± 0.4 and 3.3 ± 2.1 hours in healthy surgical patients receiving NIMBEX (n = 10) or atracurium (n = 10), respectively.
+The mean± SD t½β values of laudanosine were 3.1± 0.4 and 3.3 ± 2.1 hours in healthy surgical patients receivingNIMBEX (n = 10) or atracurium (n = 10), respectively.
 During IV infusions of NIMBEX, peak plasma concentrations (Cmax) of laudanosine and the MQA metabolite are approximately 6% and 11% of the parent compound, respectively.
 
 ### Special Populations
@@ -257,14 +257,14 @@ These changes were consistent with the 1-minute slower times to maximum block in
 The minor differences in PK/PD parameters of cisatracurium between elderly patients and young patients were not associated with clinically significant differences in the recovery profile of NIMBEX.
 
 Table 6.
-Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2 × ED95) NIMBEX (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
+Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2× ED95) NIMBEX (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
 
 | Parameter | Healthy Elderly Patients | Healthy Young Adult Patients |
 | --- | --- | --- |
 | Elimination Half-Life (t½β, min) | 25.8 ± 3.6† | 22.1 ± 2.5 |
 | Volume of Distribution at Steady State‡ (mL/kg) | 156 ± 17† | 133 ± 15 |
 | Plasma Clearance (mL/min/kg) | 5.7 ± 1.0 | 5.3 ± 0.9 |
-| * Values presented are mean ± SD.† P< 0.05 for comparisons between healthy elderly and healthy young adult patients.‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
+| * Values presented are mean ± SD.† P < 0.05 for comparisons between healthy elderly and healthy young adult patients.‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
 #### Patients with Hepatic Disease
 
@@ -275,7 +275,7 @@ There were no differences in keo or EC50 between patient groups.
 The times to maximum block were approximately one minute faster in liver transplant patients than in healthy adult patients receiving 0.1 mg/kg NIMBEX.
 These minor differences in pharmacokinetics were not associated with clinically significant differences in the recovery profile of NIMBEX.
 
-The t½β values of metabolites are longer in patients with hepatic disease and concentrations may be higher after long-term administration (see Pharmacokinetics -Special Populations - Intensive Care Unit Patients).
+The t½β values of metabolites are longer in patients with hepatic disease and concentrations may be higher after long-term administration (see Pharmacokinetics - Special Populations - Intensive Care Unit Patients).
 
 Table 7.
 Pharmacokinetic Parameters* of Cisatracurium in Healthy Adult Patients and in Patients Undergoing Liver Transplantation Following 0.1 mg/kg (2 × ED95) NIMBEX (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
@@ -285,7 +285,7 @@ Pharmacokinetic Parameters* of Cisatracurium in Healthy Adult Patients and in Pa
 | Elimination Half-Life (t½β, min) | 24.4 ± 2.9 | 23.5 ± 3.5 |
 | Volume of Distribution at Steady State‡ (mL/kg) | 195 ± 38† | 161 ± 23 |
 | Plasma Clearance (mL/min/kg) | 6.6 ± 1.1† | 5.7 ± 0.8 |
-| * Values presented are mean ± SD.† P< 0.05 for comparisons between liver transplant patients and healthy adult patients.‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
+| * Values presented are mean ± SD.† P < 0.05 for comparisons between liver transplant patients and healthy adult patients.‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
 #### Patients with Renal Dysfunction
 
@@ -330,7 +330,7 @@ Parameter Estimates* for Cisatracurium, Atracurium, and Metabolites in ICU Patie
 |  | t½β (hrs) | 6.6 ± 4.1 | 8.4 ± 7.3 |
 | MQA metabolite | Cmax (ng/mL) | 152-181§ | 943 ± 333ll |
 |  | t½β (min) | 26-31§ | 21-58§ |
-| * Presented as mean± standard deviation.† n = 5.‡ Volume of distribution during the terminal elimination phase, an underestimate because elimination from the peripheral compartment is ignored.§ n = 2, range presented.ll n = 3. |  |  |  |
+| * Presented as mean ± standard deviation.† n = 5.‡ Volume of distribution during the terminal elimination phase, an underestimate because elimination from the peripheral compartment is ignored.§ n = 2, range presented.ll n = 3. |  |  |  |
 
 Plasma metabolite pharmacokinetics are listed in Table 9.
 Limited pharmacokinetic data are available for patients with liver/kidney dysfunction receiving NIMBEX.

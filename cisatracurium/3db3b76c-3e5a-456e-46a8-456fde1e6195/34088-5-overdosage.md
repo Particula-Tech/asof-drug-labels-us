@@ -13,7 +13,7 @@ Administration of 0.04 to 0.07 mg/kg neostigmine at approximately 10% recovery f
 The times from 25% recovery of the muscle twitch response to a T4:T1 ratio ≥ 70% following these doses of neostigmine averaged 7 minutes.
 The mean 25% to 75% recovery index following reversal was 3 to 4 minutes.
 
-Administration of 1.0 mg/kg edrophonium at approximately 25% recovery from neuromuscular block (range: 16% to 30%) produced 95% recovery and a T4:T1 ratio≥ 70% in an average of 3 to 5 minutes.
+Administration of 1.0 mg/kg edrophonium at approximately 25% recovery from neuromuscular block (range: 16% to 30%) produced 95% recovery and a T4:T1 ratio ≥ 70% in an average of 3 to 5 minutes.
 
 Patients administered antagonists should be evaluated for evidence of adequate clinical recovery (e.g., 5-second head lift and grip strength).
 Ventilation must be supported until no longer required.
