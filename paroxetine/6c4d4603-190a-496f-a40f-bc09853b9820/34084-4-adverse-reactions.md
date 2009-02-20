@@ -111,7 +111,7 @@ Table 3 enumerates adverse events that occurred at a frequency of 2% or more amo
 
 TABLE 3
 
-| Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for OCD and PD1 |  |  |  |  |  |
+| Treatment-Emergent Adverse Experience Incidence in Clinical Trials for Obsessive Compulsive Disorder and Panic Disorder 1 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Obsessive Compulsive Disorder |  | Panic Disorder |  |
 | Body System | Preferred Term | Paroxetine (n=542) | Placebo (n=265) | Paroxetine (n=469) | Placebo (n=324) |
@@ -243,10 +243,11 @@ Accordingly, estimates of the incidence of untoward sexual experience and perfor
 
 In placebo-controlled clinical trials involving more than 3200 patients the ranges for the reported incidence of sexual side effects in males and females with MDD, OCD, PD, social anxiety disorder, GAD, and post traumatic stress disorder (PTSD) are displayed in Table 6.
 
-TABLE 6 Incidence of Sexual Adverse Events in Controlled Clinical Trials
+TABLE 6
 
-|  | Paroxetine | Placebo |
+| Incidence of Sexual Adverse Events in Controlled Clinical Trials |  |  |
 | --- | --- | --- |
+|  | Paroxetine | Placebo |
 | n (males) | 1146 | 1042 |
 | Decreased Libido | 6% - 15% | 0% - 5% |
 | Ejaculatory Disturbance | 13% - 28% | 0% - 2% |

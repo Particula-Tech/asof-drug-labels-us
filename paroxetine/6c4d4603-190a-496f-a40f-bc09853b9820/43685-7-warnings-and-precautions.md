@@ -60,20 +60,20 @@ While there are no human data showing such an interaction with paroxetine, limit
 Therefore, it is recommended that paroxetine not be used in combination with a MAOI, or within 14 days of discontinuing treatment with a MAOI.
 At least 2 weeks should be allowed after stopping PEXEVA® (paroxetine mesylate) before starting a MAOI.
 
-Serotonin Syndrome: The development of a potentially life-threatening serotonin syndrome may occur in association with treatment with paroxetine, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which may have impaired metabolism of serotonin (including MAOIs).
-Serotonin syndrome symptoms may include mental status changes (eg, agitation, hallucinations, coma), autonomic instability (eg, tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (eg, hyperreflexia, incoordination), and/or gastrointestinal symptoms (eg, nausea, vomiting, diarrhea).
-The concomitant use of paroxetine with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS—Potential for Interaction With Monoamine Oxidase Inhibitors).
-If concomitant use of paroxetine with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS—Drug Interactions).
-The concomitant use of paroxetine with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS—Drug Interactions).
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-## Neuroleptic Malignant Syndrome (NMS) or NMS-Like Reactions
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including PEXEVA® (paroxetine mesylate) treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-Rare instances of neuroleptic malignant syndrome (NMS) or NMS-like reactions have been reported when a selective serotonin reuptake inhibitor (SSRI) drug, such as paroxetine, or serotonin-norepinephrine reuptake inhibitor (SNRI) was added to antipsychotic drug therapy.
-Additionally, a small number of such cases have been reported with SSRIs and SNRIs in the absence of antipsychotic coadministration.
-These serious and sometimes fatal events can include hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-It is uncertain whether these cases are serotonin syndrome which, in its most severe form, can resemble neuroleptic malignant syndrome.
-As these events may result in potentially life-threatening conditions, patients should be monitored for the emergence of NMS-like signs and symptoms, especially if paroxetine and an antipsychotic drug are taken concurrently.
-Treatment with paroxetine and any concomitant antipsychotic agent should be discontinued immediately if such events occur and supportive symptomatic treatment should be initiated.
+The concomitant use of PEXEVA® (paroxetine mesylate) with MAOIs intended to treat depression is contraindicated.
+
+If concomitant treatment of PEXEVA® (paroxetine mesylate) with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+
+The concomitant use of PEXEVA® (paroxetine mesylate) with serotonin precursors (such as tryptophan) is not recommended.
+
+Treatment with PEXEVA® (paroxetine mesylate) and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Potential Interaction with Thioridazine
 
