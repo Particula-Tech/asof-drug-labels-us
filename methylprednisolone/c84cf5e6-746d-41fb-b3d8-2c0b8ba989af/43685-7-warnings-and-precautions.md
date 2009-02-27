@@ -3,7 +3,10 @@
 In patients on corticosteroid therapy subjected to unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated.
 
 Corticosteroids may mask some signs of infection, and new infections may appear during their use.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
+Infections with any pathogen including viral, bacterial, fungal, protozoan or helminthic infections, in any location of the body, may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents that affect cellular immunity, humoral immunity, or neutrophil function.1
+
+These infections may be mild, but can be severe and at times fatal.
+With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.2 There may be decreased resistance and inability to localize infection when corticosteroids are used.
 
 Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
 
@@ -17,19 +20,26 @@ These effects are less likely to occur with the synthetic derivatives except whe
 Dietary salt restriction and potassium supplementation may be necessary.
 All corticosteroids increase calcium excretion.
 
-While on corticosteroid therapy, patients should not be vaccinated against smallpox.
-Other immunization procedures should not be undertaken in patients who are on corticosteroids, especially on high dose, because of possible hazards of neurological complications and a lack of antibody response.
+Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
+Killed or inactivated vaccines may be administered to patients receiving immunosuppressive doses of corticosteroids; however, the response to such vaccines may be diminished.
+Indicated immunization procedures may be undertaken in patients receiving nonimmunosuppressive doses of corticosteroids.
 
 The use of MethylPREDNISolone Tablets in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
-Children who are on immunosuppressant drugs are more susceptible to infections than healthy children.
-Chickenpox and measles, for example, can have a more serious or even fatal course in children on immunosuppressant corticosteroids.
-In such children, or in adults who have not had these diseases, particular care should be taken to avoid exposure.
-If exposed, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobin (IVIG), as appropriate, may be indicated.
-If chickenpox develops, treatment with antiviral agents may be considered.
+Persons who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
+Chicken pox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
+In such children or adults who have not had these diseases particular care should be taken to avoid exposure.
+How the dose, route and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
+The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
+If exposed, to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
+(See the respective package inserts for complete VZIG and IG prescribing information.)
+If chicken pox develops, treatment with antiviral agents may be considered.
+Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
 # PRECAUTIONS
 
@@ -48,21 +58,36 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
 
-Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
-
 Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess or other pyogenic infection; diverticulitis; fresh intestinal anastomoses; active or latent peptic ulcer; renal insufficiency; hypertension; osteoporosis; and myasthenia gravis.
 
 Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed.
 
+Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy.
+Discontinuation of corticosteroids may result in clinical remission.
+
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease.
-The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-(See DOSAGE AND ADMINISTRATION)
+The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect (see DOSAGE AND ADMINISTRATION).
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 
+## DRUG INTERACTIONS
+
+The pharmacokinetic interactions listed below are potentially clinically important.
+Mutual inhibition of metabolism occurs with concurrent use of cyclosporin and methylprednisolone; therefore, it is possible that adverse events associated with the individual use of either drug may be more apt to occur.
 Convulsions have been reported with concurrent use of methylprednisolone and cyclosporin.
-Since concurrent use of these agents results in a mutual inhibition of metabolism, it is possible that adverse events associated with the individual use of either drug may be more apt to occur.
+Drugs that induce hepatic enzymes such as phenobarbital, phenytoin and rifampin may increase the clearance of methylprednisolone and may require increases in methylprednisolone dose to achieve the desired response.
+Drugs such as troleandomycin and ketoconazole may inhibit the metabolism of methylprednisolone and thus decrease its clearance.
+Therefore, the dose of methylprednisolone should be titrated to avoid steroid toxicity.
+
+Methylprednisolone may increase the clearance of chronic high dose aspirin.
+This could lead to decreased salicylate serum levels or increase the risk of salicylate toxicity when methylprednisolone is withdrawn.
+Aspirin should be used cautiously in conjunction with corticosteroids in patients suffering from hypoprothrombinemia.
+
+The effect of methylprednisolone on oral anticoagulants is variable.
+There are reports of enhanced as well as diminished effects of anticoagulant when given concurrently with corticosteroids.
+Therefore, coagulation indices should be monitored to maintain the desired anticoagulant effect.
 
 ## Information for the Patient
 
-Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to obtain medical advice.
+Persons who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles.
+Patients should also be advised that if they are exposed, medical advice should be sought without delay.

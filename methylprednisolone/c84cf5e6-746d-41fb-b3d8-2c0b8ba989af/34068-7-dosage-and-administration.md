@@ -29,6 +29,7 @@ Serum levels of ACTH rise from a low point about 10 pm to a peak level about 6 a
 Increasing levels of ACTH stimulate adrenal cortical activity resulting in a rise in plasma cortisol with maximal levels occurring between 2 am and 8 am.
 This rise in cortisol dampens ACTH production and in turn adrenal cortical activity.
 There is a gradual fall in plasma corticoids during the day with lowest levels occurring about midnight.
+
 The diurnal rhythm of the HPA axis is lost in Cushing's disease, a syndrome of adrenal cortical hyperfunction characterized by obesity with centripetal fat distribution, thinning of the skin with easy bruisability, muscle wasting with weakness, hypertension, latent diabetes, osteoporosis, electrolyte imbalance, etc. The same clinical findings of hyperadrenocorticism may be noted during long-term pharmacologic dose corticoid therapy administered in conventional daily divided doses.
 It would appear, then, that a disturbance in the diurnal cycle with maintenance of elevated corticoid values during the night may play a significant role in the development of undesirable corticoid effects.
 Escape from these constantly elevated plasma levels for even short periods of time may be instrumental in protecting against undesirable pharmacologic effects.
