@@ -3,7 +3,8 @@
 1. Zsebo KM‚ Cohen AM‚ Murdock DC‚ et al. Recombinant human granulocyte colony-stimulating factor: Molecular and biological characterization.
    Immunobiol.
    1986;172:175-184.
-2. Welte K‚ Bonilla MA‚ Gillio AP‚ et al. Recombinant human G-CSF: Effects on hematopoiesis in normal and cyclophosphamide treated primates.J Exp Med.
+2. Welte K‚ Bonilla MA‚ Gillio AP‚ et al. Recombinant human G-CSF: Effects on hematopoiesis in normal and cyclophosphamide treated primates.
+   J Exp Med.
    1987;165:941-948.
 3. Duhrsen U‚ Villeval JL‚ Boyd J‚ et al. Effects of recombinant human granulocyte colony-stimulating factor on hematopoietic progenitor cells in cancer patients.
    Blood.
@@ -21,7 +22,7 @@
 7. Glaspy JA‚ Baldwin GC‚ Robertson PA‚ et al. Therapy for neutropenia in hairy cell leukemia with recombinant human granulocyte colony-stimulating factor.
    Ann Int Med.
    1988;109:789-795.
-8. Yuo A‚ Kitagawa S‚ Ohsaka A‚ et al. Recombinant human granulocyte colony-stimulating factor as an activator of human granulocytes: Potentiation of responses triggered by receptor-mediated agonists and stimulation of C3bi receptor expression and adherance.
+8. Yuo A‚ Kitagawa S‚ Ohsaka A‚ et al. Recombinant human granulocyte colony-stimulating factor as an activator of human granulocytes: Potentiation of responses triggered by receptor-mediated agonists and stimulation of C3bi receptor expression and adherence.
    Blood.
    1989;74:2144-2149.
 9. Gabrilove JL‚ Jakubowski A‚ Fain K‚ et al. Phase I study of granulocyte colony-stimulating factor in patients with transitional cell carcinoma of the urothelium.

@@ -12,4 +12,4 @@ a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 9132
 
 © 1991-2007 Amgen Inc. All rights reserved.
 
-v19 - Issue Date: 03/2007
+v.20.2 - Issue Date: 09/2007

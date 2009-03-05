@@ -11,20 +11,26 @@ Symptoms recurred in more than half the patients who were rechallenged.
 
 ## SPLENIC RUPTURE
 
-RARE CASES OF SPLENIC RUPTURE HAVE BEEN REPORTED FOLLOWING THE ADMINISTRATION OF NEUPOGEN® IN BOTH HEALTHY DONORS AND PATIENTS.
-SOME OF THESE CASES WERE FATAL.
+SPLENIC RUPTURE, INCLUDING FATAL CASES, HAS BEEN REPORTED FOLLOWING THE ADMINISTRATION OF NEUPOGEN®.
 INDIVIDUALS RECEIVING NEUPOGEN® WHO REPORT LEFT UPPER ABDOMINAL AND/OR SHOULDER TIP PAIN SHOULD BE EVALUATED FOR AN ENLARGED SPLEEN OR SPLENIC RUPTURE.
 
-## Adult Respiratory Distress Syndrome (ARDS)
+## Acute Respiratory Distress Syndrome (ARDS)
 
-Adult respiratory distress syndrome (ARDS) has been reported in neutropenic patients with sepsis receiving NEUPOGEN®, and is postulated to be secondary to an influx of neutrophils to sites of inflammation in the lungs.
-Neutropenic patients receiving NEUPOGEN® who develop fever, lung infiltrates, or respiratory distress should be evaluated for the possibility of ARDS.
-In the event that ARDS occurs, NEUPOGEN® should be discontinued until resolution of ARDS and patients should receive appropriate medical management for this condition.
+Acute respiratory distress syndrome (ARDS) has been reported in patients receiving NEUPOGEN®, and is postulated to be secondary to an influx of neutrophils to sites of inflammation in the lungs.
+Patients receiving NEUPOGEN® who develop fever, lung infiltrates, or respiratory distress should be evaluated for the possibility of ARDS.
+In the event that ARDS occurs, NEUPOGEN® should be withheld until resolution of ARDS or discontinued.
+Patients should receive appropriate medical management for this condition.
 
-## Sickle Cell Disease
+## Alveolar Hemorrhage and Hemoptysis
 
-Severe sickle cell crises, in some cases resulting in death, have been associated with the use of NEUPOGEN® in patients with sickle cell disease.
-Only physicians qualified by specialized training or experience in the treatment of patients with sickle cell disease should prescribe NEUPOGEN® for such patients, and only after careful consideration of the potential risks and benefits.
+Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization has been reported in healthy donors undergoing peripheral blood progenitor cell (PBPC) mobilization.
+Hemoptysis resolved with discontinuation of NEUPOGEN®.
+The use of NEUPOGEN® for PBPC mobilization in healthy donors is not an approved indication.
+
+## Sickle Cell Disorders
+
+Severe sickle cell crises, in some cases resulting in death, have been associated with the use of NEUPOGEN® in patients with sickle cell disorders.
+Only physicians qualified by specialized training or experience in the treatment of patients with sickle cell disorders should prescribe NEUPOGEN® for such patients, and only after careful consideration of the potential risks and benefits.
 
 ## Patients With Severe Chronic Neutropenia
 
@@ -60,7 +66,7 @@ In a randomized study evaluating the effects of NEUPOGEN® versus placebo in pat
 The safety of NEUPOGEN® in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 
 When NEUPOGEN® is used to mobilize PBPC‚ tumor cells may be released from the marrow and subsequently collected in the leukapheresis product.
-The effect of reinfusion of tumor cells has not been well-studied‚ and the limited data available are inconclusive.
+The effect of reinfusion of tumor cells has not been well studied‚ and the limited data available are inconclusive.
 
 ### Leukocytosis
 
@@ -92,21 +98,13 @@ Cytopenias resulting from an antibody response to exogenous growth factors have 
 There is a theoretical possibility that an antibody directed against Filgrastim may cross-react with endogenous G-CSF, resulting in immune-mediated neutropenia; however, this has not been reported in clinical studies or in post-marketing experience.
 Patients who develop hypersensitivity to Filgrastim (NEUPOGEN®) may have allergic or hypersensitivity reactions to other E coli-derived proteins.
 
-### Other
+## Cutaneous Vasculitis
 
-In studies of NEUPOGEN® administration following chemotherapy‚ most reported side effects were consistent with those usually seen as a result of cytotoxic chemotherapy (see ADVERSE REACTIONS).
-Because of the potential of receiving higher doses of chemotherapy (ie‚ full doses on the prescribed schedule)‚ the patient may be at greater risk of thrombocytopenia‚ anemia‚ and nonhematologic consequences of increased chemotherapy doses (please refer to the prescribing information of the specific chemotherapy agents used).
-Regular monitoring of the hematocrit and platelet count is recommended.
-Furthermore‚ care should be exercised in the administration of NEUPOGEN® in conjunction with other drugs known to lower the platelet count.
-
-There have been rare reports (< 1 in 7000 patients) of cutaneous vasculitis in patients treated with NEUPOGEN®.
+Cutaneous vasculitis has been reported in patients treated with NEUPOGEN®.
 In most cases‚ the severity of cutaneous vasculitis was moderate or severe.
 Most of the reports involved patients with SCN receiving long-term NEUPOGEN® therapy.
 Symptoms of vasculitis generally developed simultaneously with an increase in the ANC and abated when the ANC decreased.
 Many patients were able to continue NEUPOGEN® at a reduced dose.
-
-Peripheral blood progenitor cell collection in allogeneic donors is not an approved indication in the United States.
-Pulmonary adverse events (hemoptysis, pulmonary infiltrates) have been reported very rarely (< 0.01%) in allogeneic donors outside the United States.
 
 ## Information for Patients and Caregivers
 
@@ -121,7 +119,6 @@ It is not intended to be a disclosure of all known or possible effects.
 A CBC and platelet count should be obtained prior to chemotherapy‚ and at regular intervals (twice per week) during NEUPOGEN® therapy.
 Following cytotoxic chemotherapy‚ the neutrophil nadir occurred earlier during cycles when NEUPOGEN® was administered‚ and WBC differentials demonstrated a left shift‚ including the appearance of promyelocytes and myeloblasts.
 In addition‚ the duration of severe neutropenia was reduced‚ and was followed by an accelerated recovery in the neutrophil counts.
-Therefore‚ regular monitoring of WBC counts‚ particularly at the time of the recovery from the post chemotherapy nadir‚ is recommended in order to avoid excessive leukocytosis.
 
 ### Cancer Patients Receiving Bone Marrow Transplant
 
@@ -193,7 +190,7 @@ Limited data from patients who were followed in the phase 3 study for 1.5 years 
 
 The safety and efficacy in neonates and patients with autoimmune neutropenia of infancy have not been established.
 
-In the cancer setting‚ 12 pediatric patients with neuroblastoma have received up to 6 cycles of cyclophosphamide‚ cisplatin‚ doxorubicin‚ and etoposide chemotherapy concurrently with NEUPOGEN®; in this population‚ NEUPOGEN® was well-tolerated.
+In the cancer setting‚ 12 pediatric patients with neuroblastoma have received up to 6 cycles of cyclophosphamide‚ cisplatin‚ doxorubicin‚ and etoposide chemotherapy concurrently with NEUPOGEN®; in this population‚ NEUPOGEN® was well tolerated.
 There was one report of palpable splenomegaly associated with NEUPOGEN® therapy; however‚ the only consistently reported adverse event was musculoskeletal pain‚ which is no different from the experience in the adult population.
 
 ## Geriatric Use

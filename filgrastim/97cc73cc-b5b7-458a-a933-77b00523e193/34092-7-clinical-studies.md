@@ -13,7 +13,7 @@ Treatment with NEUPOGEN® resulted in a clinically and statistically significant
 The following secondary analyses were also performed.
 The requirements for in-patient hospitalization and antibiotic use were also significantly decreased during the first cycle of chemotherapy; incidence of hospitalization was 69% (77/111) for placebo-treated patients in cycle 1‚ versus 52% (51/99) for NEUPOGEN®-treated patients (p = 0.032).
 The incidence of IV antibiotic usage was 60% (67/111) for placebo-treated patients in cycle 1‚ versus 38% (38/99) for NEUPOGEN®-treated patients (p = 0.003).
-The incidence‚ severity‚ and duration of severe neutropenia (absolute neutrophil count [ANC]< 500/mm3) following chemotherapy were all significantly reduced.
+The incidence‚ severity‚ and duration of severe neutropenia (absolute neutrophil count [ANC] < 500/mm3) following chemotherapy were all significantly reduced.
 The incidence of severe neutropenia in cycle 1 was 84% (83/99) for patients receiving NEUPOGEN® versus 96% (106/110) for patients receiving placebo (p = 0.004).
 Over all cycles‚ patients randomized to NEUPOGEN® had a 57% (286/500 cycles) rate of severe neutropenia versus 77% (416/543 cycles) for patients randomized to placebo.
 The median duration of severe neutropenia in cycle 1 was reduced from 6 days (range 0 to 10 days) for patients receiving placebo to 2 days (range 0 to 9 days) for patients receiving NEUPOGEN® (p < 0.001).
@@ -23,7 +23,7 @@ The median severity of neutropenia (as measured by ANC nadir) was 72/mm3 (range 
 The mean severity of neutropenia in cycle 1 was 496/mm3 ± 1382/mm3 for patients receiving NEUPOGEN® versus 204/mm3 ± 953/mm3 for patients receiving placebo.
 Over all cycles‚ the ANC nadir for patients randomized to NEUPOGEN® was 403/mm3‚ versus 161/mm3 for patients randomized to placebo.
 Administration of NEUPOGEN® resulted in an earlier ANC nadir following chemotherapy than was experienced by patients receiving placebo (day 10 vs day 12).
-NEUPOGEN® was well-tolerated when given SC daily at doses of 4 to 8 mcg/kg for up to 14 consecutive days following each cycle of chemotherapy (see ADVERSE REACTIONS).
+NEUPOGEN® was well tolerated when given SC daily at doses of 4 to 8 mcg/kg for up to 14 consecutive days following each cycle of chemotherapy (see ADVERSE REACTIONS).
 
 Several other phase 1/2 studies‚ which did not directly measure the incidence of infection‚ but which did measure increases in neutrophils‚ support the efficacy of NEUPOGEN®.
 The regimens are presented to provide some background on the clinical experience with NEUPOGEN®.
@@ -76,7 +76,7 @@ Following a standard induction chemotherapy regimen comprising daunorubicin, cyt
 
 Treatment with NEUPOGEN® significantly reduced the median time to ANC recovery and the median duration of fever, antibiotic use, and hospitalization following induction chemotherapy.
 In the NEUPOGEN®-treated group‚ the median time from initiation of chemotherapy to ANC recovery (ANC ≥ 500/mm3) was 20 days (vs 25 days in the control group, p = 0.0001), the median duration of fever was reduced by 1.5 days (p = 0.009), and there were statistically significant reductions in the durations of IV antibiotic use and hospitalization.
-During consolidation therapy (DAV 2+5+5), patients treated with NEUPOGEN® also experienced significant reductions in the incidence of severe neutropenia, time to neutrophil recovery, the incidence and duration of fever, and in the durations of IV antibiotic use and hospitalization.
+During consolidation therapy (DAV 2+5+5), patients treated with NEUPOGEN® also experienced significant reductions in the incidence of severe neutropenia, time to neutrophil recovery, the incidence and duration of fever, and the durations of IV antibiotic use and hospitalization.
 Patients treated with a further course of standard (DAV 2+5+5) or high-dose cytosine arabinoside consolidation also experienced significant reductions in the duration of neutropenia.
 
 There were no statistically significant differences between NEUPOGEN® and placebo groups in complete remission rate (69% NEUPOGEN® vs 68% placebo, p = 0.77), disease-free survival (median 342 days NEUPOGEN® [n = 178], 322 days placebo [n = 177], p = 0.99), time to progression of all randomized patients (median 165 days NEUPOGEN®, 186 days placebo, p = 0.87), or overall survival (median 380 days NEUPOGEN®, 425 days placebo, p = 0.83).
@@ -85,10 +85,10 @@ There were no statistically significant differences between NEUPOGEN® and place
 
 In two separate randomized‚ controlled trials‚ patients with Hodgkin’s disease (HD) and non-Hodgkin’s lymphoma (NHL) were treated with myeloablative chemotherapy and autologous bone marrow transplantation (ABMT).
 In one study (n = 54)‚ NEUPOGEN® was administered at doses of 10 or 30 mcg/kg/day; a third treatment group in this study received no NEUPOGEN®.
-A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN®-treated group versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group‚ [11 days in the combined treatment groups‚ p = 0.004]).
+A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN®-treated group versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
 In the second study (n = 44‚ 43 patients evaluable)‚ NEUPOGEN® was administered at doses of 10 or 20 mcg/kg/day; a third treatment group in this study received no NEUPOGEN®.
 A statistically significant reduction in the median number of days of severe neutropenia occurred in the NEUPOGEN®-treated group versus the control group (21.5 days in the control group and 10 days in both treatment groups‚ p < 0.001).
-The number of days of febrile neutropenia was also reduced significantly in this study (13.5 days in the control group‚ 5 days in the 10 mcg/kg/day group‚ and 5.5 days in the 20 mcg/kg/day group‚ [5 days in the combined treatment groups‚ p < 0.0001]).
+The number of days of febrile neutropenia was also reduced significantly in this study (13.5 days in the control group‚ 5 days in the 10 mcg/kg/day group‚ and 5.5 days in the 20 mcg/kg/day group [5 days in the combined treatment groups‚ p < 0.0001]).
 Reductions in the number of days of hospitalization and antibiotic use were also seen‚ although these reductions were not statistically significant.
 There were no effects on red blood cell or platelet levels.
 
@@ -138,7 +138,7 @@ In three studies of patients with prior exposure to chemotherapy‚ the median C
 In two of these studies where CD34+ yields in the leukapheresis product were also determined‚ the median CD34+ yields were 3.11 and 2.80 x 106/kg, respectively (n = 56).
 In an additional study of 18 chemotherapy-naive patients‚ the median CFU-GM yield was 123.4 x 104/kg.
 
-Engraftment: Engraftment following NEUPOGEN®-mobilized PBPC is summarized for 101 patients in the table below.
+Engraftment: Engraftment following NEUPOGEN®-mobilized PBPC is summarized for 101 patients in the following table.
 In all studies, a Cox regression model showed that the total number of CFU-GM and/or CD34+ cells collected was a significant predictor of time to platelet recovery.
 
 In a randomized, unblinded study of patients with HD or NHL undergoing myeloablative chemotherapy (Amgen study 3)‚ 27 patients received NEUPOGEN®-mobilized PBPC followed by NEUPOGEN® and 31 patients received ABMT followed by NEUPOGEN®.

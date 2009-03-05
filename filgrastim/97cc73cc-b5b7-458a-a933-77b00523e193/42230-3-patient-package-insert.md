@@ -12,16 +12,16 @@ It stimulates the growth of neutrophils (nu-tro-fils), a type of white blood cel
 
 What is NEUPOGEN® used for?
 
-NEUPOGEN® is used to treat neutropenia (nu-tro-peen-ee-ah), a condition where the body makes too few white blood cells.
-Neutropenia may be a long-standing condition where your body does not make enough white blood cells, or it may be caused by drugs used to treat cancer.
-In some cases, your body may make enough white blood cells, but as part of your treatment for cancer, your doctor may want to increase the number of white blood cells your body makes and collect them.
+NEUPOGEN® is used to treat neutropenia (nu-tro-peen-ee-ah), a condition where the body makes too few neutrophils.
+Neutropenia may be a long-standing condition where your body does not make enough neutrophils, or it may be caused by drugs used to treat cancer.
+In some cases, your body may make enough neutrophils, but as part of your treatment for cancer, your doctor may want to increase the number of certain blood cells (CD34 cells) and collect them.
 The cells are collected using a process called apheresis (ay-fer-ree-sis).
-These collected cells are given back to you after you receive your treatment for cancer.
+These collected cells are given back to you after you receive very high doses of treatment for cancer to make your blood counts get back to normal more quickly.
 
 How does NEUPOGEN® work?
 
-NEUPOGEN® works by stimulating the growth of neutrophils, a type of white blood cell.
-To make sure NEUPOGEN® is working, your doctor will ask that you have regular blood tests to count the number of white blood cells you have.
+NEUPOGEN® works by helping your body make more neutrophils.
+To make sure NEUPOGEN® is working, your doctor will ask that you have regular blood tests to count the number of neutrophils you have.
 It is important that you follow your doctor’s instructions about getting these tests.
 
 Who should not take NEUPOGEN®?
@@ -36,38 +36,43 @@ Do not take NEUPOGEN® if you are:
 
 What important information do I need to know about taking NEUPOGEN®?
 
-NEUPOGEN® may reduce your risk of getting an infection, but may not prevent all infections.
-An infection can still happen during the short time when your/your child's white blood cell levels are low.
-You must be alert and look for some of the common signs of infection, such as fever, chills, rash, sore throat, diarrhea, or redness, swelling, or pain around a cut or sore.
-If you/your child has any of these symptoms during treatment with NEUPOGEN®, tell your doctor or nurse immediately.
+NEUPOGEN® may reduce your chance of getting an infection, but does not prevent all infections.
+An infection can still happen during the short time when your/your child's neutrophil levels are low.
+You must be alert and look for some of the common signs or symptoms of infection, such as fever, chills, rash, sore throat, diarrhea, or redness, swelling, or pain around a cut or sore.
+If you/your child has any of these signs or symptoms during treatment with NEUPOGEN®, tell your doctor or nurse immediately.
 
 There is a possibility that you could have a reaction at an injection site.
 If there is a lump, swelling, or bruising at an injection site that does not go away, call your doctor.
 
-If you have sickle cell disease, make sure that you tell your doctor before you start taking NEUPOGEN®.
-If you do receive NEUPOGEN®, it is important that you drink plenty of fluids.
-If you have a sickle cell crisis after getting NEUPOGEN®, you need to tell your doctor right away.
+If you have a sickle cell disorder, make sure that you tell your doctor before you start taking NEUPOGEN®.
+If you have a sickle cell crisis after getting NEUPOGEN®, tell your doctor right away.
 
-Make sure your doctor knows about all medicines, and herbal or vitamin supplements you are taking before starting NEUPOGEN® injections.
+Make sure your doctor knows about all medicines, and herbal or vitamin supplements you are taking before starting NEUPOGEN®.
 If you are taking lithium you may need more frequent blood tests.
 
-If you/your child are receiving NEUPOGEN® injections because you are also receiving chemotherapy, your doctor or nurse will usually inject your first dose of NEUPOGEN® the day after the last dose of chemotherapy in each cycle.
-The last dose of NEUPOGEN® should be injected at least 24 hours before your next dose of chemotherapy.
+If you/your child are receiving NEUPOGEN® because you are also receiving chemotherapy, the last dose of NEUPOGEN® should be injected at least 24 hours before your next dose of chemotherapy.
 
 There is more information about NEUPOGEN® in the Physician Package Insert.
 If you have any questions, you should talk to your doctor.
 
-What are possible side effects of NEUPOGEN®?
+What are possible serious side effects of NEUPOGEN®?
 
-Your spleen may become enlarged and, in rare instances, may rupture while taking NEUPOGEN®.
-The spleen is located in the upper left section of your stomach area.
-Call your doctor right away if you or your child has pain in the left upper stomach area or left shoulder tip area.
-This pain could mean your or your child’s spleen is enlarged or ruptured.
+- Spleen Rupture.
+  Your spleen may become enlarged and can rupture while taking NEUPOGEN®.
+  A ruptured spleen can cause death.
+  The spleen is located in the upper left section of your stomach area.
+  Call your doctor right away if you or your child has pain in the left upper stomach area or left shoulder tip area.
+  This pain could mean your or your child’s spleen is enlarged or ruptured.
 
-NEUPOGEN® can cause serious allergic reactions.
-These reactions can cause a rash over the whole body, shortness of breath, wheezing, dizziness (a drop in blood pressure), swelling around the mouth or eyes, fast pulse, and/or sweating.
-If you or your child gets these symptoms, stop using NEUPOGEN® and call your doctor or get emergency care right away.
-If you or your child has an allergic reaction during the injection of NEUPOGEN®, stop the injection right away.
+- Serious Allergic Reactions.
+  NEUPOGEN® can cause serious allergic reactions.
+  These reactions can cause a rash over the whole body, shortness of breath, wheezing, dizziness, swelling around the mouth or eyes, fast pulse, and sweating.
+  If you or your child starts to have any of these symptoms, stop using NEUPOGEN and call your doctor or seek emergency care right away.
+  If you or your child has an allergic reaction during the injection of NEUPOGEN®, stop the injection right away.
+- A serious lung problem called acute respiratory distress syndrome (ARDS).
+  Call your doctor or seek emergency care right away if you or your child has shortness of breath, trouble breathing or a fast rate of breathing.
+
+What are the most common side effects of NEUPOGEN®?
 
 The most common side effect you/your child may experience is aching in the bones and muscles.
 This aching can usually be relieved by taking a non-aspirin pain reliever such as acetaminophen.
@@ -265,6 +270,8 @@ The needle cover on the single-use prefilled syringe contains dry natural rubber
 
 Manufactured by: Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A.
 
-© 1991-2006 Amgen Inc. All rights reserved.
+3xxxxxx
 
-v7 - Issue Date: 10/25/2006
+© 1991-2007 Amgen Inc. All rights reserved.
+
+v8.1 - Issue Date: 09/2007

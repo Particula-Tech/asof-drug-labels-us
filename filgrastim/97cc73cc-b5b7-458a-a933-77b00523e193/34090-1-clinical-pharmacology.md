@@ -46,8 +46,8 @@ In all studies to date‚ absolute counts of both eosinophils and basophils did 
 Increases in lymphocyte counts following NEUPOGEN® administration have been reported in some normal subjects and cancer patients.
 
 White blood cell (WBC) differentials obtained during clinical trials have demonstrated a shift towards earlier granulocyte progenitor cells (left shift)‚ including the appearance of promyelocytes and myeloblasts‚ usually during neutrophil recovery following the chemotherapy-induced nadir.
-In addition‚ Dohle bodies‚ increased granulocyte granulation‚ as well as hypersegmented neutrophils have been observed.
-Such changes were transient‚ and were not associated with clinical sequelae nor were they necessarily associated with infection.
+In addition‚ Dohle bodies‚ increased granulocyte granulation‚ and hypersegmented neutrophils have been observed.
+Such changes were transient and were not associated with clinical sequelae, nor were they necessarily associated with infection.
 
 ## Pharmacokinetics
 
