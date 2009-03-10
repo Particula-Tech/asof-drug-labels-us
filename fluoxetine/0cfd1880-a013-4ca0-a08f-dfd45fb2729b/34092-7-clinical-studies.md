@@ -16,7 +16,7 @@ The average DRSP total score decreased 38% on fluoxetine 20 mg/day, 35% on fluox
 
 In the first continuous dosing double–blind, parallel group study of 6 months duration involving N=320 patients, fixed doses of fluoxetine 20 and 60 mg/day given daily throughout the menstrual cycle were shown to be significantly more effective than placebo as measured by a Visual Analogue Scale (VAS) total score (including mood and physical symptoms).
 The average total VAS score decreased 7% on placebo treatment, 36% on 20 mg, and 39% on 60 mg fluoxetine.
-The difference between the 20– and 60–mg doses was not statisticallysignificant.
+The difference between the 20– and 60–mg doses was not statistically significant.
 The following table shows the percentage of patients meeting criteria for either moderate or marked improvement on the VAS total score:
 
 Percentage of Patients Moderately and Markedly Improved (>50% and 75% reduction, respectively, from baseline Luteal Phase VAS total score)

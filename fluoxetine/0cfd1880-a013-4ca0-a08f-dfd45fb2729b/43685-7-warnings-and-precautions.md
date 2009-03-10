@@ -76,8 +76,9 @@ Whether these systemic events and rash have a common underlying cause or are due
 Furthermore, a specific underlying immunologic basis for these events has not been identified.
 Upon the appearance of rash or of other possibly allergic phenomena for which an alternative etiology cannot be identified, SARAFEM should be discontinued.
 
-Serotonin Syndrome — The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including SARAFEM treatment, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions — The development of a potentially life-threatening serotonin syndrome, or Neuroleptic Malignant Syndrome (NMS)-like reactions, has been reported with SNRIs and SSRIs alone, including SARAFEM treatment, but particularly with concomitant use of serotonergic drugs (including triptans), with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital sighs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
 The concomitant use of SARAFEM with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and Drug Interactions under PRECAUTIONS).
 
@@ -242,8 +243,8 @@ Potential effects of coadministration of drugs tightly bound to plasma proteins 
 Conversely, adverse effects may result from displacement of protein–bound fluoxetine by other tightly bound drugs (see Accumulation and slow elimination under CLINICAL PHARMACOLOGY).
 
 Drugs that interfere with hemostasis (e.g., NSAIDs, Aspirin, Warfarin) — Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs arecoadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when fluoxetine is initiated or discontinued.
 
 Electroconvulsive therapy (ECT) — There are no clinical studies establishing the benefit of the combined use of ECT and fluoxetine.
