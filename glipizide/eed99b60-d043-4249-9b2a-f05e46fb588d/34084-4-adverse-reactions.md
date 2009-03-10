@@ -61,7 +61,7 @@ The following are adverse experiences reported with immediate release glipizide 
 
 ## Hematologic
 
-Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia, and pancytopenia have been reported with sulfonylureas.
+Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia (see PRECAUTIONS), aplastic anemia, and pancytopenia have been reported with sulfonylureas.
 
 ## Metabolic
 

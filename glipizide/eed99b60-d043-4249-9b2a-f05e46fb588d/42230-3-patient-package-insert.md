@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-## GLUCOTROL XL (glipizide) extended release tablets
+GLUCOTROL XL (glipizide) extended release tablets
 
 Read this information carefully before you start taking this medicine.
 Read the information you get with your medicine each time you refill your prescription.
@@ -146,3 +146,7 @@ Your healthcare provider or pharmacist can give you information about GLUCOTROL 
 Do not use GLUCOTROL XL for a condition for which it was not prescribed.
 Do not share GLUCOTROL XL with other people.
 For more information about GLUCOTROL XL, you can visit the Pfizer internet site at www.pfizer.com.
+
+LAB-0115-2.0
+
+September 2006

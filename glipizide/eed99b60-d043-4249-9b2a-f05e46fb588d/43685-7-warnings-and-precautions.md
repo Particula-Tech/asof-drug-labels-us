@@ -21,6 +21,10 @@ There have been rare reports of obstructive symptoms in patients with known stri
 
 ## General
 
+### Macrovascular Outcomes
+
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLUCOTROL XL or any other anti-diabetic drug.
+
 ### Renal and Hepatic Disease
 
 The pharmacokinetics and/or pharmacodynamics of glipizide may be affected in patients with impaired renal or hepatic function.
@@ -54,6 +58,12 @@ Adequate adjustment of dose and adherence to diet should be assessed before clas
 Blood and urine glucose should be monitored periodically.
 Measurement of hemoglobin A1C may be useful.
 
+## Hemolytic Anemia
+
+Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia.
+Because GLUCOTROL XL belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered.
+In post marketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
+
 ## Information for Patients
 
 Patients should be informed that GLUCOTROL XL Extended Release Tablets should be swallowed whole.
@@ -67,6 +77,16 @@ They should also be informed about the importance of adhering to dietary instruc
 
 The risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and responsible family members.
 Primary and secondary failure also should be explained.
+
+## Physician Counseling Information for Patients
+
+In initiating treatment for type 2 diabetes, diet should be emphasized as the primary form of treatment.
+Caloric restriction and weight loss are essential in the obese diabetic patient.
+Proper dietary management alone may be effective in controlling the blood glucose and symptoms of hyperglycemia.
+The importance of regular physical activity should also be stressed, and cardiovascular risk factors should be identified and corrective measures taken where possible.
+Use of GLUCOTROL XL or other antidiabetic medications must be viewed by both the physician and patient as a treatment in addition to diet and not as a substitution or as a convenient mechanism for avoiding dietary restraint.
+Furthermore, loss of blood glucose control on diet alone may be transient, thus requiring only short-term administration of GLUCOTROL XL or other antidiabetic medications.
+Maintenance or discontinuation of GLUCOTROL XL or other antidiabetic medications should be based on clinical judgment using regular clinical and laboratory evaluations.
 
 ## Drug Interactions
 

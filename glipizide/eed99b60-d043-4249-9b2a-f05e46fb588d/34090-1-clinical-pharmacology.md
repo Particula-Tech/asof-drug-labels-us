@@ -29,6 +29,8 @@ In long term extension trials, efficacy of GLUCOTROL XL was maintained in 81% of
 In an open, two-way crossover study 132 patients were randomly assigned to either GLUCOTROL XL or Glucotrol® for 8 weeks and then crossed over to the other drug for an additional 8 weeks.
 GLUCOTROL XL administration resulted in significantly lower fasting plasma glucose levels and equivalent hemoglobin A1C levels, as compared to Glucotrol.
 
+In 12 week, well-controlled studies there was a maximal average net reduction in hemoglobin A1c of 1.7% in absolute units between placebo-treated and GLUCOTROL XL-treated patients.
+
 ## Other Effects
 
 It has been shown that GLUCOTROL XL therapy is effective in controlling blood glucose without deleterious changes in the plasma lipoprotein profiles of patients treated for type 2 diabetes.
