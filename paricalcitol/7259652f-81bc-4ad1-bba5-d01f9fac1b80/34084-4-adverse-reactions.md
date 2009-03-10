@@ -46,4 +46,4 @@ Anorexia, weight loss, conjunctivitis (calcific), pancreatitis, photophobia, rhi
 
 ## Adverse Events During Post-marketing Experience
 
-Taste perversion, such as metallic taste, and allergic reactions, such as rash, urticaria, pruritus, facial and oral edema rarely have been reported.
+Taste perversion, such as metallic taste, and allergic reactions, such as rash, urticaria, pruritus, angioedema and laryngeal edema rarely have been reported.

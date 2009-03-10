@@ -53,7 +53,7 @@ Table 1 Mean ± SD Paricalcitol Pharmacokinetic Parameters in CKD Stage 5 Subjec
 | t1/2 (h) † | 13.9 ± 7.3 | 15.4 ± 10.5 |
 | CL (L/h) | 1.49 ± 0.60 | 1.54 ± 0.95 |
 | Vdβ (L) | 30.8 ± 7.5 | 34.9 ± 9.5 |
-| † harmonic mean± pseudo standard deviation, HD: hemodialysis, PD: peritoneal dialysis |  |  |
+| † harmonic mean ± pseudo standard deviation, HD: hemodialysis, PD: peritoneal dialysis |  |  |
 
 The degree of accumulation was consistent with the half-life and dosing frequency.
 
@@ -82,7 +82,7 @@ The influence of severe hepatic impairment on the pharmacokinetics of paricalcit
 
 The pharmacokinetics of paricalcitol have been studied in CKD Stage 5 subjects requiring hemodialysis (HD) and peritoneal dialysis (PD).
 Hemodialysis procedure has essentially no effect on paricalcitol elimination.
-However, compared to healthy subjects, CKD Stage 5 subjects showed a decreased CL and increased half-life (see Pharmacokinetics- Elimination).
+However, compared to healthy subjects, CKD Stage 5 subjects showed a decreased CL and increased half-life (see Pharmacokinetics - Elimination).
 
 ## Drug Interactions
 
