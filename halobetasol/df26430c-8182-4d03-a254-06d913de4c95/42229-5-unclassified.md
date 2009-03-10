@@ -1,0 +1,19 @@
+For Dermatologic Use Only.
+Not for Ophthalmic Use.
+
+Rx Only
+
+MADE IN ISRAEL
+
+MANUFACTURED BY PERRIGO, YERUHAM, ISRAEL 80500
+
+DISTRIBUTED BY
+
+PERRIGO®
+
+ALLEGAN, MI 49010
+
+Rev.
+5/07
+
+4C600 RC J2
