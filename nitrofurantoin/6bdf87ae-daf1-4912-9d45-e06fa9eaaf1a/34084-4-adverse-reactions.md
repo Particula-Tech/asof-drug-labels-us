@@ -51,7 +51,8 @@ Nausea, emesis, and anorexia occur most often.
 Abdominal pain and diarrhea are less common gastrointestinal reactions.
 These dose-related reactions can be minimized by reduction of dosage.
 Sialadenitis and pancreatitis have been reported.
-There have been sporadic reports of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.
+There have been sporadic reports of pseudomembranous colitis with the use of nitrofurantoin.
+The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.
 (See WARNINGS.)
 
 ## Hematologic:

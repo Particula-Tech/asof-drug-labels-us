@@ -1,4 +1,4 @@
-# INDICATIONS &amp; USAGE
+# INDICATIONS & USAGE
 
 Furadantin is specifically indicated for the treatment of urinary tract infections when due to susceptible strains of Escherichia coli, enterococci, Staphylococcus aureus, and certain susceptible strains of Klebsiella and Enterobacter species.
 Nitrofurantoin is not indicated for the treatment of pyelonephritis or perinephric abscesses.

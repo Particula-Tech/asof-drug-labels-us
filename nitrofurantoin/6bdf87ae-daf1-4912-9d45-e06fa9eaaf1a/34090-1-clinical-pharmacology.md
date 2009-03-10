@@ -29,7 +29,7 @@ Note: Some strains of Enterobacter species and Klebsiella species are resistant 
 Nitrofurantoin also demonstrates in vitro activity against the following microorganisms, although the clinical significance of these data with respect to treatment with Furadantin is unknown: Gram-Positive Aerobes
 
 - Coagulase-negative staphylococci (including Staphylococcus epidermidis and Staphylococcus saprophyticus)
-- Staphylococcus agalactiae
+- Streptococcus agalactiae
 - Group D streptococci
 - Viridans group streptococci
 
@@ -58,9 +58,9 @@ The MIC values should be interpreted according to the following criteria:
 
 | MIC (μg/mL) | Interpretation |  |
 | --- | --- | --- |
-| &lt; 32 | Susceptible | (S) |
+| < 32 | Susceptible | (S) |
 | 65 | Intermediate | (I) |
-| &gt; 128 | Resistant | (R) |
+| > 128 | Resistant | (R) |
 
 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -85,9 +85,9 @@ Reports from the laboratory providing results of the standard single-disk suscep
 
 | Zone diameter (mm) | Interpretation |  |
 | --- | --- | --- |
-| &gt;17 | Susceptible | (S) |
+| >17 | Susceptible | (S) |
 | 15-16 | Intermediate | (I) |
-| &lt;14 | Resistant | (R) |
+| <14 | Resistant | (R) |
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC nitrofurantoin.
