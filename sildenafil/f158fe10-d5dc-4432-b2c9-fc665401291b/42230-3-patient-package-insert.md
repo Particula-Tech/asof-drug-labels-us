@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 REVATIO® (re-VAH-tee-oh) (sildenafil citrate) tablets
 

@@ -19,7 +19,7 @@ The inhibition of PDE5 in these tissues by sildenafil may be the basis for the e
 
 ### Absorption and Distribution
 
-REVATIO is rapidly absorbed after oral administration, with absolute bioavailability of about 40%.
+REVATIO is rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (25–63%).
 Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.
 When REVATIO is taken with a high-fat meal, the rate of absorption is reduced, with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29%.
 The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indicating distribution into the tissues.
@@ -42,12 +42,14 @@ After either oral or intravenous administration, sildenafil is excreted as metab
 
 ### Geriatrics
 
-Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, with free plasma concentrations approximately 40% greater than those seen in healthy younger volunteers (18–45 years).
+Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84 and 107% higher plasma concentrations of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18–45 years).
+Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%,respectively.
 
 ### Renal Insufficiency
 
 In volunteers with mild (CLcr =50–80 mL/min) and moderate (CLcr =30–49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil (50 mg) was not altered.
 In volunteers with severe (CLcr <30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
+In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 200 % and 79 %, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
 
 ### Hepatic Insufficiency
 
@@ -68,7 +70,7 @@ Both findings suggest a lower clearance and/or a higher oral bioavailability of 
 
 ### Effects of REVATIO on Blood Pressure
 
-Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8.4/5.5 mmHg).
+Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5mmHg).
 The decrease in blood pressure was most notable approximately 1–2 hours after dosing, and was not different from placebo at 8 hours.
 Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg doses of sildenafil, therefore the effects are not related to dose or plasma levels within this dosage range.
 Larger effects were recorded among patients receiving concomitant nitrates (see CONTRAINDICATIONS).
