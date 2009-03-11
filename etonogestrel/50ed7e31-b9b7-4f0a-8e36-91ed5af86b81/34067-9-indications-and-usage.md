@@ -15,7 +15,7 @@ The clinical trials excluded women who
 - Weighed more than 130% of their ideal body weight
 - Were chronically taking medications that induce liver enzymes
 
-Among women aged 18-35 years of age at entry, six pregnancies during 20,648 cycles of use were reported.
+Among women aged 18–35 years of age at entry, six pregnancies during 20,648 cycles of use were reported.
 Two pregnancies occurred in each of Years 1, 2 and 3.
 Each conception was likely to have occurred shortly before or within two weeks after IMPLANON™ removal.
 With these six pregnancies, the cumulative Pearl Index was 0.38 pregnancies per 100 women-years of use.
@@ -31,7 +31,7 @@ PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE FIRST YEAR O
 | Method (1) | Typical UseAmong typical couples who initiate use of a method (not necessarily for the first time), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason. (2) | Perfect UseAmong couples who initiate use of a method (not necessarily for the first time) and who use it perfectly (both consistently and correctly), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason. (3) | (4) |
 | --- | --- | --- | --- |
 |  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at One YearAmong couples attempting to avoid pregnancy, the percentage who continue to use a method for one year. |
-| ChanceThe percents becoming pregnant in columns (2) and (3) are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant. Among such populations, about 89% become pregnant within one year. This estimate was lowered slightly (to 85%) to represent the percent who would become pregnant within one year among women now relying on reversible methods of contraception if they abandoned contraception altogether. | 85 | 85 |  |
+| ChanceThe percents becoming pregnant in columns (2) and (3} are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant. Among such populations, about 89% become pregnant within one year. This estimate was lowered slightly (to 85%) to represent the percent who would become pregnant within one year among women now relying on reversible methods of contraception if they abandoned contraception altogether. | 85 | 85 |  |
 | SpermicidesFoams, creams, gels, vaginal suppositories, and vaginal film. | 26 | 6 | 40 |
 | Periodic abstinence | 25 |  | 63 |
 | Calendar |  | 9 |  |
@@ -57,9 +57,7 @@ PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE FIRST YEAR O
 | Copper T 380A | 0.8 | 0.6 | 78 |
 | LNg 20 | 0.1 | 0.1 | 81 |
 | Depo-Provera | 0.3 | 0.3 | 70 |
-| Norplant and Norplant-2 | 0.05 | 0.05 | 88 |
+| Norplant & Norplant-2 | 0.05 | 0.05 | 88 |
 | Female sterilization | 0.5 | 0.5 | 100 |
 | Male sterilization | 0.15 | 0.10 | 100 |
-| Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%.The treatment schedule is one dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The FDA has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral (one dose is two white pills), Alesse (one dose is five pink pills), Nordette or Levlen (one dose is four yellow pills). |  |  |  |
-| Lactation Amenorrhea Method: LAM is a highly effective, temporary method of contraception.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breast-feeds is reduced, bottle feeds are introduced, or the baby reaches six months of age. |  |  |  |
-| Adapted from Hatcher et al., Contraceptive Technology, 17th Revised Edition. New York, NY: Irvington Publishers, 1998. |  |  |  |
+| Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%.The treatment schedule is one dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The FDA has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral (one dose is two white pills), Alesse (one dose is five pink pills), Nordette or Levlen (one dose is four yellow pills). Lactation Amenorrhea Method: LAM is a highly effective, temporary method of contraception.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches six months of age. Adapted from Hatcher et al., Contraceptive Technology, 17th Revised Edition, New York, NY: Irvington Publishers, 1998. |  |  |  |

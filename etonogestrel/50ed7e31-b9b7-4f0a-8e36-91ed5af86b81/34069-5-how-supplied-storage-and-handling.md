@@ -7,10 +7,8 @@ The sterile applicator containing IMPLANON™ is packed in a blister pack.
 
 NDC 0052-0272-01
 
-## Storage
+## STORAGE
 
-Store IMPLANON™ (etonogestrel implant) at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store IMPLANON™ (etonogestrel implant) at 25°C (77° F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 Protect from light.
-Avoid storing IMPLANON™ in direct sunlight or at temperatures above 30°C (86°F).
-
-Rx only
+Avoid storing IMPLANON™ in direct sunlight or at temperatures above 30°C (86° F).
