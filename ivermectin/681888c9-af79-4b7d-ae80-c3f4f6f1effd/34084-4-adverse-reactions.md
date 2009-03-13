@@ -58,4 +58,4 @@ Conjunctival hemorrhage
 
 ### All Indications
 
-Hypotension (mainly orthostatic hypotension), worsening of bronchial asthma, toxic epidermal necrolysis, Stevens-Johnson syndrome, seizures, elevation of liver enzymes, and elevation of bilirubin.
+Hypotension (mainly orthostatic hypotension), worsening of bronchial asthma, toxic epidermal necrolysis, Stevens-Johnson syndrome, seizures, hepatitis, elevation of liver enzymes, and elevation of bilirubin.

@@ -13,12 +13,12 @@ Dist. by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: MSD BV Waarderweg 39 2031 BN Haarlem Netherlands
 
-Issued November 2008
+Issued February 2009
 
 Printed in the Netherlands
 
-9032315
+9032316
 
-82278/071108
+83457/120209x
 
 8495
