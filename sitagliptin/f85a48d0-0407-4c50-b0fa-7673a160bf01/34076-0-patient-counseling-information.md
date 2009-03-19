@@ -25,7 +25,7 @@ Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 – Pavia, Italy
 
-9762706
+9762707
 
 US Patent No.: 6,699,871
 
@@ -127,6 +127,7 @@ The following additional side effects have been reported in general use with JAN
   If you have an allergic reaction, stop taking JANUVIA and call your doctor right away.
   Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
 - Elevated liver enzymes.
+- Inflammation of the pancreas.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -170,11 +171,11 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Revised October 2008
+Revised March 2009
 
 Manufactured for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 - Pavia, Italy
 
-9762706
+9762707
