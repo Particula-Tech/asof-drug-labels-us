@@ -37,23 +37,24 @@ The usual spectrum of antimicrobial activity of sulfamethoxazole and trimethopri
 Shigella flexneri and Shigella sonnei are usually susceptible.
 The usual spectrum also includes enterotoxigenic strains of Escherichia coli (ETEC) causing bacterial gastroenteritis.
 
-REPRESENTATIVE MINIMUM INHIBITORY CONCENTRATION VALUES FOR SULFAMETHOXAZOLE AND TRIMETHOPRIM SUSCEPTIBLE ORGANISMS (MIC-μg/mL)
-
 | TMP | SMX |  |  |  |
 | --- | --- | --- | --- | --- |
+| REPRESENTATIVE MINIMUM INHIBITORY CONCENTRATION VALUES FOR SULFAMETHOXAZOLE AND TRIMETHOPRIM SUSCEPTIBLE ORGANISMS (MIC-μg/mL) |  |  |  |  |
 | Bacteria | TMP Alone | SMX Alone | TMP/SMX (1:20) |  |
 | Escherichia coli | 0.05-1.5 | 1.0-245 | 0.05-0.5 | 0.95-9.5 |
-| Escherichia coli(enterotoxigenic strains) | 0.015-0.15 | 0.285->950 | 0.005-0.15 | 0.095-2.85 |
-| Proteus species(indole positive) | 0.5-5.0 | 7.35-300 | 0.05-1.5 | 0.95-28.5 |
-| Morganellamorganii | 0.5-5.0 | 7.35-300 | 0.05-1.5 | 0.95-28.5 |
-| Proteusmirabilis | 0.5-1.5 | 7.35-30 | 0.05-0.15 | 0.95-2.85 |
-| Klebsiellaspecies | 0.15-5.0 | 2.45-245 | 0.05-1.5 | 0.95-28.5 |
-| Enterobacterspecies | 0.15-5.0 | 2.45-245 | 0.05-1.5 | 0.95-28.5 |
-| Haemophilusinfluenzae | 0.15-1.5 | 2.85-95 | 0.015-0.15 | 0.285-2.85 |
-| Streptococcuspneumoniae | 0.15-1.5 | 7.35-24.5 | 0.05-0.15 | 0.95-2.85 |
-| Shigellaflexneri† | <0.01-0.04 | <0.16->320 | <0.002-0.03 | 0.04-0.625 |
-| Shigellasonnei† | 0.02-0.08 | 0.625->320 | 0.004-0.06 | 0.08-1.25 |
-| TMP = Trimethoprim; SMX = Sulfamethoxazole†Rudoy RC, Nelson JD, Haltalin KC, Antimicrob Agents Chemother. May 1974:5:439-443. |  |  |  |  |
+| Escherichia coli (enterotoxigenic strains) | 0.015-0.15 | 0.285->950 | 0.005-0.15 | 0.095-2.85 |
+| Proteus species (indole positive) | 0.5-5.0 | 7.35-300 | 0.05-1.5 | 0.95-28.5 |
+| Morganella morganii | 0.5-5.0 | 7.35-300 | 0.05-1.5 | 0.95-28.5 |
+| Proteus mirabilis | 0.5-1.5 | 7.35-30 | 0.05-0.15 | 0.95-2.85 |
+| Klebsiella species | 0.15-5.0 | 2.45-245 | 0.05-1.5 | 0.95-28.5 |
+| Enterobacter species | 0.15-5.0 | 2.45-245 | 0.05-1.5 | 0.95-28.5 |
+| Haemophilus influenzae | 0.15-1.5 | 2.85-95 | 0.015-0.15 | 0.285-2.85 |
+| Streptococcus pneumoniae | 0.15-1.5 | 7.35-24.5 | 0.05-0.15 | 0.95-2.85 |
+| Shigella flexneri† | <0.01-0.04 | <0.16->320 | <0.002-0.03 | 0.04-0.625 |
+| Shigella sonnei† | 0.02-0.08 | 0.625->320 | 0.004-0.06 | 0.08-1.25 |
+| TMP = Trimethoprim; SMX = Sulfamethoxazole †Rudoy RC, Nelson JD, Haltalin KC, Antimicrob Agents Chemother. May 1974:5:439-443. |  |  |  |  |
+
+Susceptibility Testing:
 
 The recommended quantitative disc susceptibility method may be used for estimating the susceptibility of bacteria to sulfamethoxazole and trimethoprim.3,4 With this procedure, a report from the laboratory of “Susceptible to trimethoprim and sulfamethoxazole” indicates that the infection is likely to respond to therapy with this product.
 If the infection is confined to the urine, a report of “Intermediate susceptibility to trimethoprim and sulfamethoxazole” also indicates that the infection is likely to respond.

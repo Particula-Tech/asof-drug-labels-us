@@ -20,12 +20,16 @@ Sulfamethoxazole and Trimethoprim Oral Suspension should be given with caution t
 In glucose-6-phosphate dehydrogenase deficient individuals, hemolysis may occur.
 This reaction is frequently dose-related.
 
-Use In The Elderly: There may be an increased risk of severe adverse reactions in elderly patients, particularly when complicating conditions exist, e.g., impaired kidney and/or liver function, or concomitant use of other drugs.
+## Use In The Elderly:
+
+There may be an increased risk of severe adverse reactions in elderly patients, particularly when complicating conditions exist, e.g., impaired kidney and/or liver function, or concomitant use of other drugs.
 Severe skin reactions, generalized bone marrow suppression (see WARNINGS and ADVERSE REACTIONS sections) or a specific decrease in platelets (with or without purpura) are the most frequently reported severe adverse reactions in elderly patients.
 In those concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported.
 Appropriate dosage adjustments should be made for patients with impaired kidney function (see DOSAGE AND ADMINISTRATION section).
 
-Use In The Treatment Of And Prophylaxis For Pneumocystis Carinii Pneumonia In Patients With Acquired Immunodeficiency Syndrome (AIDS):AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim oral suspension in the same manner as non-AIDS patients.
+Use In The Treatment Of And Prophylaxis For Pneumocystis Carinii Pneumonia In Patients With Acquired Immunodeficiency Syndrome (AIDS):
+
+AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim oral suspension in the same manner as non-AIDS patients.
 The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for Pneumocystic carinii pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.
 Adverse effects are generally less severe in patients receiving sulfamethoxazole and trimethoprim for prophylaxis.
 A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.5 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim oral suspension should be reevaluated (see WARNINGS).
@@ -66,20 +70,26 @@ The presence of sulfamethoxazole and trimethoprim may also interfere with the Ja
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis: Long-term studies in animals to evaluate carcinogenic potential have not been conducted with sulfamethoxazole and trimethoprim.
+### Carcinogenesis:
 
-Mutagenesis: Bacterial mutagenic studies have not been performed with sulfamethoxazole and trimethoprim in combination.
+Long-term studies in animals to evaluate carcinogenic potential have not been conducted with sulfamethoxazole and trimethoprim.
+
+### Mutagenesis:
+
+Bacterial mutagenic studies have not been performed with sulfamethoxazole and trimethoprim in combination.
 Trimethoprim was demonstrated to be nonmutagenic in the Ames assay.
 No chromosomal damage was observed in human leukocytes in vitro with sulfamethoxazole and trimethoprim alone or in combination; the concentrations used exceeded blood levels of these compounds following therapy with sulfamethoxazole and trimethoprim.
 Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities.
 
-Impairment Of Fertility: No adverse effects on fertility or general reproductive performance were observed in rats given oral dosages as high as 70 mg/kg/day trimethoprim plus 350 mg/kg/day sulfamethoxazole.
+### Impairment Of Fertility:
 
-## Pediatric Use
+No adverse effects on fertility or general reproductive performance were observed in rats given oral dosages as high as 70 mg/kg/day trimethoprim plus 350 mg/kg/day sulfamethoxazole.
+
+## Pregnancy
 
 ### Teratogenic Effects
 
-Pregnancy category C. In rats, oral doses of 533 mg/kg sulfamethoxazole or 200 mg/kg trimethoprim produced teratological effects manifested mainly as cleft palates.
+Pregnancy Category C. In rats, oral doses of 533 mg/kg sulfamethoxazole or 200 mg/kg trimethoprim produced teratological effects manifested mainly as cleft palates.
 
 The highest dose which did not cause cleft palates in rats was 512 mg/kg sulfamethoxazole or 192 mg/kg trimethoprim when administered separately.
 In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole was used in combination with 128 mg/kg of trimethoprim.
@@ -102,6 +112,6 @@ See CONTRAINDICATIONS section.
 
 See CONTRAINDICATIONS section.
 
-Pediatric Use
+## Pediatric Use
 
-Sulfamethoxazole and Trimethoprim Oral Suspension is not recommended for pediatric patients younger than 2 months of age (see INDICATIONS and CONTRAINDICATIONS sections).
+Sulfamethoxazole and Trimethoprim Oral Suspension is not recommended for pediatric patients younger than 2 months of age (see INDICATIONS AND USAGE and CONTRAINDICATIONS sections).

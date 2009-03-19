@@ -45,7 +45,7 @@ CDC Guidelines for prophylaxis against Pneumocystis carinii pneumonia for childr
 MMWR.
 1991; 40(RR-2);1-13.
 
-Manufactured by:
+Manufactured by
 
 Actavis Mid Atlantic LLC
 
