@@ -8,7 +8,7 @@ Raltegravir is an HIV-1 antiviral drug [see Clinical Pharmacology (12.4)].
 
 In a monotherapy study raltegravir (400 mg twice daily) demonstrated rapid antiviral activity with mean viral load reduction of 1.66 log10 copies/mL by Day 10.
 
-In Protocol 005 and Protocols 018 and 019, antiviral responses were similar among subjects regardless of dose.
+In the randomized, double-blind, placebo-controlled, dose-ranged trial, Protocol 005, and Protocols 018 and 019, antiviral responses were similar among subjects regardless of dose.
 
 Effects on Electrocardiogram
 
@@ -37,11 +37,14 @@ For observed C12hr in Protocols 018 and 019, the coefficient of variation (CV) f
 
 Effect of Food on Oral Absorption
 
-ISENTRESS may be administered without regard to food.
-Administration of raltegravir following a high-fat meal increased raltegravir AUC by approximately 19%.
-A high-fat meal slowed the rate of absorption resulting in an approximately 34% decrease in Cmax, an 8.5-fold increase in C12hr, and a delay in Tmax following a single 400 mg dose.
-The effect of consumption of a range of food types on steady-state pharmacokinetics is not known.
-Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-1 positive subjects.
+ISENTRESS may be administered with or without food.
+Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-infected patients.
+The effect of consumption of low-, moderate- and high-fat meals on steady-state raltegravir pharmacokinetics was assessed in healthy volunteers.
+Administration of multiple doses of raltegravir following a moderate-fat meal (600 Kcal, 21 g fat) did not affect raltegravir AUC to a clinically meaningful degree with an increase of 13% relative to fasting.
+Raltegravir C12hr was 66% higher and Cmax was 5% higher following a moderate-fat meal compared to fasting.
+Administration of raltegravir following a high-fat meal (825 Kcal, 52 g fat) increased AUC and Cmax by approximately 2-fold and increased C12hr by 4.1-fold.
+Administration of raltegravir following a low-fat meal (300 Kcal, 2.5 g fat) decreased AUC and Cmax by 46% and 52%, respectively; C12hr was essentially unchanged.
+Food appears to increase pharmacokinetic variability relative to fasting.
 
 Distribution
 
@@ -99,9 +102,10 @@ Because the extent to which ISENTRESS may be dialyzable is unknown, dosing befor
 
 UGT1A1 Polymorphism
 
-Data currently available are not sufficient to determine the impact of UGT1A1 polymorphism on raltegravir pharmacokinetics.
+There is no evidence that common UGT1A1 polymorphisms alter raltegravir pharmacokinetics to a clinically meaningful extent.
+In a comparison of 30 subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
 
-Drug Interactions [see Drug Interactions (7)].
+Drug Interactions [see Drug Interactions (7).]
 
 Table 4: Effect of Other Agents on the Pharmacokinetics of Raltegravir
 
@@ -111,7 +115,10 @@ Table 4: Effect of Other Agents on the Pharmacokinetics of Raltegravir
 | atazanavir | 400 mg daily | 100 mg single dose | 10 | 1.53 (1.11, 2.12) | 1.72 (1.47, 2.02) | 1.95 (1.30, 2.92) |
 | atazanavir/ritonavir | 300 mg/100 mg daily | 400 mg twice daily | 10 | 1.24 (0.87, 1.77) | 1.41 (1.12, 1.78) | 1.77 (1.39, 2.25) |
 | efavirenz | 600 mg daily | 400 mg single dose | 9 | 0.64 (0.41, 0.98) | 0.64 (0.52, 0.80) | 0.79 (0.49, 1.28) |
+| etravirine | 200 mg twice daily | 400 mg twice daily | 19 | 0.89 (0.68, 1.15) | 0.90 (0.68, 1.18) | 0.66 (0.34, 1.26) |
+| omeprazole | 20 mg daily | 400 mg single dose | 14 (10 for AUC) | 4.15 (2.82, 6.10) | 3.12 (2.13, 4.56) | 1.46 (1.10, 1.93) |
 | rifampin | 600 mg daily | 400 mg single dose | 9 | 0.62 (0.37, 1.04) | 0.60 (0.39, 0.91) | 0.39 (0.30, 0.51) |
+| rifampin | 600 mg daily | 400 mg twice daily when administered alone; 800 mg twice daily when administered with rifampin | 14 | 1.62 (1.12, 2.33) | 1.27 (0.94, 1.71) | 0.47 (0.36, 0.61) |
 | ritonavir | 100 mg twice daily | 400 mg single dose | 10 | 0.76 (0.55, 1.04) | 0.84 (0.70, 1.01) | 0.99 (0.70 1.40) |
 | tenofovir | 300 mg daily | 400 mg twice daily | 9 | 1.64 (1.16, 2.32) | 1.49 (1.15, 1.94) | 1.03 (0.73, 1.45) |
 | tipranavir/ritonavir | 500 mg/200 mg twice daily | 400 mg twice daily | 15 (14 for Cmin) | 0.82 (0.46, 1.46) | 0.76 (0.49, 1.19) | 0.45 (0.31, 0.66) |
@@ -134,5 +141,7 @@ Additive to synergistic antiretroviral activity was observed when human T-lympho
 
 Resistance
 
-The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M/R, E92Q, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226D/F/H, S230R and D232N).
+The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R and D232N).
 Amino acid substitution at Y143C/H/R is another pathway to raltegravir resistance.
+By Week 48 in the BENCHMRK trials, at least one of the 3 primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 63 (64.3%) of the 98 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
+Some (n=18) of those HIV isolates harboring one or more of the 3 primary raltegravir resistance-associated substitutions were evaluated for raltegravir susceptibility yielding a median decrease of 47.3-fold (mean 73.1 ± 60.8-fold decrease, ranging from 0.9- to 200-fold) compared to baseline isolates.

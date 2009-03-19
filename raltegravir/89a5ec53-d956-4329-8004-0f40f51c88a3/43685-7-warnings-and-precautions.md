@@ -6,4 +6,5 @@ During the initial phase of treatment, patients responding to antiretroviral the
 
 ## 5.2 Drug Interactions
 
-Caution should be used when coadministering ISENTRESS with strong inducers of uridine diphosphate glucuronosyltransferase (UGT) 1A1 (e.g., rifampin) due to reduced plasma concentrations of raltegravir [see Drug Interactions (7)].
+Due to rifampin’s potent induction of uridine diphosphate glucuronosyltransferase (UGT) 1A1, the recommended dosage of ISENTRESS is 800 mg twice daily during coadministration with rifampin.
+Caution should be used when coadministering ISENTRESS with other strong inducers of UGT1A1 due to reduced plasma concentrations of raltegravir [see Drug Interactions (7)].

@@ -1,10 +1,9 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling].
+[See FDA-Approved Patient Labeling.]
 
 Patients should be informed that ISENTRESS is not a cure for HIV infection or AIDS.
 They should also be told that people taking ISENTRESS may still get infections or other conditions common in people with HIV (opportunistic infections).
-In addition, patients should be told that the long-term effects of ISENTRESS are not known at this time.
 Patients should also be told that it is very important that they stay under a physician's care during treatment with ISENTRESS.
 
 Patients should be informed that ISENTRESS does not reduce the chance of passing HIV to others through sexual contact, sharing needles, or being exposed to blood.
@@ -22,13 +21,13 @@ Manufactured and Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889
 
 Printed in USA
 
-9795102
+9795103
 
 U.S. Patent Nos. US 7,169,780
 
 FDA-Approved Patient Labeling Patient Information ISENTRESS® (eye sen tris) (raltegravir) Tablets
 
-Read the patient information that comes with ISENTRESS1 before you start taking it and each time you get a refill.
+Read the patient information that comes with ISENTRESS before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet is a summary of the information for patients.
 Your doctor or pharmacist can give you additional information.
@@ -43,7 +42,6 @@ What is ISENTRESS?
   ISENTRESS will NOT cure HIV infection.
 - People taking ISENTRESS may still develop infections, including opportunistic infections or other conditions that happen with HIV infection.
 - Stay under the care of your doctor during treatment with ISENTRESS.
-- The long-term effects of ISENTRESS are not known at this time.
 - The safety and effectiveness of ISENTRESS in children less than 16 years of age has not been studied.
 
 ISENTRESS must be used with other anti-HIV medicines.
@@ -87,7 +85,7 @@ Include any of the following that applies to you:
 Tell your doctor about all the medicines you take.
 Include the following:
 
-- prescription medicines
+- prescription medicines, including rifampin (a medicine used to treat some infections such as tuberculosis)
 - non-prescription medicines
 - vitamins
 - herbal supplements
@@ -133,9 +131,10 @@ What are the possible side effects of ISENTRESS?
 
 When ISENTRESS has been given with other anti-HIV drugs, the most common side effects included:
 
-- diarrhea
 - nausea
 - headache
+- tiredness
+- weakness
 
 Other side effects include rash, severe skin reactions, depression, suicidal thoughts and actions.
 
@@ -178,8 +177,8 @@ In addition, the film coating contains the following inactive ingredients: polyv
 
 Manufactured and Distributed by: MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
 
-Revised November 2008
+Revised January 2009
 
-9795102
+9795103
 
 U.S. Patent Nos. US 7,169,780
