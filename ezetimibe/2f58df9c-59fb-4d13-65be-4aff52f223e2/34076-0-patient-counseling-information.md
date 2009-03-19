@@ -31,9 +31,9 @@ Patients who have a lipid disorder and are breast-feeding should be advised to d
 
 ## 17.5 FDA-Approved Patient Labeling
 
-Issued July 2008
+Issued January 2009
 
-9619511
+9619512
 
 Manufactured for:
 
@@ -47,7 +47,7 @@ Ltd. Singapore 637766
 Or
 
 Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia Italy
+Via Emilia, 21 27100 – Pavia, Italy
 
 Or
 
@@ -61,9 +61,7 @@ Merck Sharp & Dohme (Italia) S.p.A.
 
 Via Emilia, 21
 
-27100 – Pavia
-
-Italy
+27100 – Pavia, Italy
 
 and
 
@@ -225,9 +223,9 @@ Inactive ingredients:
 
 Butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
 
-Issued July 2008
+Issued January 2009
 
-9619511
+9619512
 
 Manufactured for:
 
@@ -241,7 +239,7 @@ Ltd. Singapore 637766
 Or
 
 Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia Italy
+Via Emilia, 21 27100 – Pavia, Italy
 
 Or
 
@@ -255,9 +253,7 @@ Merck Sharp & Dohme (Italia) S.p.A.
 
 Via Emilia, 21
 
-27100 – Pavia
-
-Italy
+27100 – Pavia, Italy
 
 and
 

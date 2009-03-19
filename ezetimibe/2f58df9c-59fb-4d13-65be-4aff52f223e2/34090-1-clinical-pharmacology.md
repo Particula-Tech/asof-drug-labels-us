@@ -143,7 +143,14 @@ Pharmacokinetic studies with another statin having a similar principal route of 
 Drug Interactions [See also Drug Interactions (7).]
 
 No clinically significant pharmacokinetic interaction was seen when ezetimibe was coadministered with simvastatin.
-Specific pharmacokinetic drug interaction studies with VYTORIN have not been performed.
+No specific pharmacokinetic drug interaction studies with VYTORIN have been conducted other than the following study with NIASPAN (Niacin extended-release tablets).
+
+Niacin: The effect of VYTORIN (10/20 mg daily for 7 days) on the pharmacokinetics of NIASPAN extended-release tablets (1000 mg for 2 days and 2000 mg for 5 days following a low-fat breakfast) was studied in healthy subjects.
+The mean Cmax and AUC of niacin increased 9% and 22%, respectively.
+The mean Cmax and AUC of nicotinuric acid increased 10% and 19%, respectively (N=13).
+In the same study, the effect of NIASPAN on the pharmacokinetics of VYTORIN was evaluated (N=15).
+While concomitant NIASPAN decreased the mean Cmax of total ezetimibe (1%), and simvastatin (2%), it increased the mean Cmax of simvastatin acid (18%).
+In addition, concomitant NIASPAN increased the mean AUC of total ezetimibe (26%), simvastatin (20%), and simvastatin acid (35%).
 
 Cytochrome P450: Ezetimibe had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a “cocktail” study of twelve healthy adult males.
 This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
@@ -217,7 +224,6 @@ Table 6: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Verapamil SR | 240 mg QD Days 1-7 then 240 mg BID on Days 8-10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD x14 days | 80 mg QD on Days 8-14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
-| Niacin extended-release | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
 | Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
 | Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/ml ↓ from 7.0 to 4.7 ng·eq/mL |

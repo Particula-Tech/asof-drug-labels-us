@@ -36,7 +36,7 @@ In a two-year study in rats at 25 mg/kg/day, there was a statistically significa
 
 A second two-year rat carcinogenicity study with doses of 50 and 100 mg/kg/day produced hepatocellular adenomas and carcinomas (in female rats at both doses and in males at 100 mg/kg/day).
 Thyroid follicular cell adenomas were increased in males and females at both doses; thyroid follicular cell carcinomas were increased in females at 100 mg/kg/day.
-The increased incidence of thyroid neoplasms appears to be consistent with findings from other statins inhibitors.
+The increased incidence of thyroid neoplasms appears to be consistent with findings from other statins.
 These treatment levels represented plasma drug levels (AUC) of approximately 7 and 15 times (males) and 22 and 25 times (females) the mean human plasma drug exposure after an 80-mg daily dose.
 
 No evidence of mutagenicity was observed in a microbial mutagenicity (Ames) test with or without rat or mouse liver metabolic activation.
@@ -76,7 +76,7 @@ However, a dose of 300 mg/kg/day administered to dogs for one year did not resul
 In a 14-day study in mice given ezetimibe (0.3 to 5 mg/kg/day) and fed a low-fat or cholesterol-rich diet, the concentration of cholesterol in gallbladder bile was either unaffected or reduced to normal levels, respectively.
 
 A series of acute preclinical studies was performed to determine the selectivity of ezetimibe for inhibiting cholesterol absorption.
-Ezetimibe inhibited the absorption of 14C-cholesterol with no effect on the absorption of triglycerides, fatty acids, bile acids, progesterone, ethyl estradiol, or the fat-soluble vitamins A and D.
+Ezetimibe inhibited the absorption of 14C-cholesterol with no effect on the absorption of triglycerides, fatty acids, bile acids, progesterone, ethinyl estradiol, or the fat-soluble vitamins A and D.
 
 In 4- to 12-week toxicity studies in mice, ezetimibe did not induce cytochrome P450 drug-metabolizing enzymes.
 In toxicity studies, a pharmacokinetic interaction of ezetimibe with statins (parents or their active hydroxy acid metabolites) was seen in rats, dogs, and rabbits.
