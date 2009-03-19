@@ -1,0 +1,17 @@
+# ADVERSE REACTIONS
+
+Side effects most commonly reported were drowsiness, fatigue and ataxia; venous thrombosis and phlebitis at the site of injection.
+Other adverse reactions less frequently reported include: CNS: confusion, depression, dysarthria, headache, hypoactivity, slurred speech, syncope, tremor, vertigo.
+G.I.: constipation, nausea.
+G.U.: incontinence, changes in libido, urinary retention.
+Cardiovascular: bradycardia, cardiovascular collapse, hypotension.
+EENT: blurred vision, diplopia, nystagmus.
+Skin: urticaria, skin rash.
+Other: hiccups, changes in salivation, neutropenia, jaundice.
+Paradoxical reactions such as acute hyperexcited states, anxiety, hallucinations, increased muscle spasticity, insomnia, rage, sleep disturbances and stimulation have been reported; should these occur, use of the drug should be discontinued.
+
+Minor changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after diazepam therapy and are of no known significance.
+
+In peroral endoscopic procedures, coughing, depressed respiration, dyspnea, hyperventilation, laryngospasm and pain in throat or chest have been reported.
+
+Because of isolated reports of neutropenia and jaundice, periodic blood counts and liver function tests are advisable during long-term therapy.
