@@ -1,10 +1,10 @@
-# DESCRIPTION
+# 11. DESCRIPTION
 
-Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules is an extended-release formulation of dexmethylphenidate with a bi-modal release profile.
-Focalin® XR uses the proprietary SODAS® (Spheroidal Oral Drug Absorption System) technology.
+Focalin XR is an extended-release formulation of dexmethylphenidate with a bi-modal release profile.
+Focalin XR uses the proprietary SODAS (Spheroidal Oral Drug Absorption System) technology.
 Each bead-filled Focalin XR capsule contains half the dose as immediate-release beads and half as enteric-coated, delayed-release beads, thus providing an immediate release of dexmethylphenidate and a second delayed release of dexmethylphenidate.
 Focalin XR is available as 5, 10, 15, and 20 mg extended-release capsules.
-Focalin XR 5, 10, 15, and 20 mg extended-release capsules provide in a single dose the same amount of dexmethylphenidate as dosages of 2.5, 5, 7.5 or 10 mg of Focalin® given b.i.d. as tablets.
+Focalin XR 5, 10, 15, and 20 mg extended-release capsules provide in a single dose the same amount of dexmethylphenidate as dosages of 2.5, 5, 7.5 or 10 mg of Focalin given b.i.d. as tablets.
 
 Dexmethylphenidate hydrochloride, the d-threo enantiomer of racemic methylphenidate hydrochloride, is a central nervous system (CNS) stimulant.
 
@@ -12,7 +12,7 @@ Dexmethylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydroch
 Its empirical formula is C14H19NO2•HCl.
 Its molecular weight is 269.77 and its structural formula is
 
-Note: * = asymmetric carbon centers
+Note* = asymmetric carbon center
 
 Dexmethylphenidate hydrochloride is a white to off white powder.
 Its solutions are acid to litmus.

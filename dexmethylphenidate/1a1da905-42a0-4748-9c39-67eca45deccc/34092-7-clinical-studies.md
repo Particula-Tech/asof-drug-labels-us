@@ -1,8 +1,8 @@
-# CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
-The effectiveness of Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules in the treatment of ADHD was established in randomized, double-blind, placebo-controlled studies in children and adolescents and in adults who met Diagnostic and Statistical Manual 4th edition (DSM-IV) criteria for ADHD (see INDICATIONS AND USAGE).
+The effectiveness of Focalin XR in the treatment of ADHD was established in randomized, double-blind, placebo-controlled studies in children and adolescents and in adults who met Diagnostic and Statistical Manual 4th edition (DSM-IV) criteria for ADHD [see Indications and Usage (1)].
 
-## Children and Adolescents
+## 14.1 Children and Adolescents
 
 The effectiveness of Focalin XR was established in a randomized, double-blind, placebo-controlled, parallel-group study in 103 pediatric patients (ages 6 to 12, n=86; ages 13 to 17, n=17) who met DSM-IV criteria for ADHD.
 Patients were randomized to receive either a flexible dose of Focalin XR (5 to 30 mg/day) or placebo once daily for 7 weeks.
@@ -14,9 +14,12 @@ There was a statistically significant treatment effect in favor of Focalin XR.
 There were insufficient adolescents enrolled in this study to assess the efficacy for Focalin XR in the adolescent population.
 However, pharmacokinetic considerations and evidence of effectiveness of immediate-release Focalin in adolescents support the effectiveness of Focalin XR in this population.
 
-In two additional studies in pediatric patients ages 6-12 who received 20 mg Focalin XR or placebo in a cross-over design, Focalin XR was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale combined score at all time points after dosing in each study (1, 2, 4, 6, 8, 9, 10, 11 and 12 hours in one study and 1, 3, 4, 5, 7, 9, 10, 11 and 12 hours in the other study.)
+In two additional studies in pediatric patients aged 6-12 years who received 20 mg Focalin XR or placebo in a cross-over design, Focalin XR was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale combined score at all time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11 and 12 hours in one study and 1, 2, 4, 6, 8, 9, 10, 11 and 12 hours in the other study.
+A treatment effect was also observed 0.5 hours after administration of Focalin XR 20 mg in an additional study of ADHD patients aged 6-12 years.
+The SKAMP is a reliable and validated scale that assesses specific classroom behaviors related to attention (e.g., getting started, sticking with activities, completing work, and stopping for transition) and deportment or behavior (e.g., remaining quiet, remaining seated, interacting with other students, and interacting with the teacher.)
+Each item is rated on a 7-point impairment scale, and an average rating per item is calculated for the subscales of Attention and Deportment.
 
-## Adults
+## 14.2 Adults
 
 The effectiveness of Focalin XR was established in a randomized, double-blind, placebo-controlled, parallel-group study in 221 adult patients (ages 18 to 60) who met DSM-IV criteria for ADHD.
 Patients were randomized to receive either a fixed dose of Focalin XR (20, 30, or 40 mg/day) or placebo once daily for 5 weeks.

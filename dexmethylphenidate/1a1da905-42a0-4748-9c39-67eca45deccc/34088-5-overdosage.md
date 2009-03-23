@@ -1,18 +1,18 @@
-# OVERDOSAGE
+# 10. OVERDOSAGE
 
-## Signs and Symptoms
+## 10.1 Signs and Symptoms
 
 Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, and dryness of mucous membranes.
 
-## Poison Control Center
+## 10.2 Poison Control Center
 
 The physician may wish to consider contacting a poison control center for up-to-date information on the management of overdosage with methylphenidate.
 
-## Recommended Treatment
+## 10.3 Recommended Treatment
 
 As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
 
-When treating overdose, practitioners should bear in mind that there is a prolonged release of dexmethylphenidate from Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules.
+When treating overdose, practitioners should bear in mind that there is a prolonged release of dexmethylphenidate from Focalin XR.
 
 Treatment consists of appropriate supportive measures.
 The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.

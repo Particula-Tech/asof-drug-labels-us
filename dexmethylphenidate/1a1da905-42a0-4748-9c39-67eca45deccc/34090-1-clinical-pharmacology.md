@@ -1,14 +1,14 @@
-# CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-Dexmethylphenidate hydrochloride, the active ingredient in Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules, is a central nervous system stimulant.
+Dexmethylphenidate hydrochloride, the active ingredient in Focalin XR, is a central nervous system stimulant.
 Dexmethylphenidate, the more pharmacologically active d-enantiomer of racemic methylphenidate, is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 Focalin XR produces a bi-modal plasma concentration-time profile (i.e., two distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
 The initial rate of absorption for Focalin XR is similar to that of Focalin tablets as shown by the similar rate parameters between the two formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1 ½ hours (typical range 1-4 hours).
@@ -23,12 +23,12 @@ The variability in Cmax, Cmin, and AUC is similar between Focalin XR and Focalin
 Radiolabeled racemic methylphenidate is well absorbed after oral administration with approximately 90% of the radioactivity recovered in urine.
 However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22-25%.
 
-### Dose Proportionality
+Dose Proportionality
 
 Dose proportionality of Focalin XR was evaluated in a randomized, single-dose, five-period, cross-over study with administration of single doses of 5, 10, 20, 30 and 40 mg to healthy adults.
 Results confirmed dose proportionality within this dose range.
 
-### Food Effects
+Food Effects
 
 Administration times relative to meals and meal composition may need to be individually titrated.
 
@@ -42,15 +42,15 @@ There is no evidence of dose dumping in the presence or absence of food.
 There were no differences in the plasma concentration-time profile, when administered with applesauce, compared to administration in the fasting condition.
 The results are expected not to differ for Focalin XR.
 
-For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered (see DOSAGE AND ADMINISTRATION).
+For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered [see Dosage and Administration (2)].
 
-### Distribution
+Distribution
 
 The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12-15%, independent of concentration.
 Dexmethylphenidate shows a volume of distribution of 2.65±1.11 L/kg.
 Plasma dexmethylphenidate concentrations decline monophasically following oral administration of Focalin XR.
 
-### Metabolism and Excretion
+Metabolism and Excretion
 
 In humans, dexmethylphenidate is metabolized primarily to d-α-phenyl-piperidine acetic acid (also known as d-ritalinic acid) by de-esterification.
 This metabolite has little or no pharmacological activity.
@@ -65,32 +65,31 @@ Intravenous dexmethylphenidate was eliminated with a mean clearance of 0.40±0.1
 The mean terminal elimination half-life of dexmethylphenidate was just over 3 hours in healthy adults and typically varied between 2 and 4.5 hours with an occasional subject exhibiting a terminal half-life between 5 and 7 hours.
 Children tend to have slightly shorter half-lives with means of 2–3 hours.
 
-## Special Populations
+Special Populations
 
-### Gender
+Gender
 
 After administration of Focalin XR the first peak, (Cmax1), was on average 45% higher in women.
 The interpeak minimum and the second peak also tended to be slightly higher in women although the difference was not statistically significant, and these patterns remained even after weight normalization.
 Pharmacokinetic parameters for dexmethylphenidate after Focalin immediate-release tablets were similar for boys and girls.
 
-### Race
+Race
 
 There is insufficient experience with the use of Focalin XR to detect ethnic variations in pharmacokinetics.
 
-### Age
+Age
 
 The pharmacokinetics of dexmethylphenidate after Focalin XR administration have not been studied in children less than 18 years of age.
 When a similar formulation of racemic methylphenidate was examined in 15 children between 10 and 12 years of age and 3 children with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in children compared to adults.
 After administration of the same dose to children and adults, concentrations in children were approximately twice the concentrations observed in adults.
 This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e., clearance and volume of distribution) are observed after normalization to dose and weight.
 
-### Renal Insufficiency
+Renal Insufficiency
 
 There is no experience with the use of Focalin XR in patients with renal insufficiency.
 After oral administration of radiolabeled racemic methylphenidate in humans, methylphenidate was extensively metabolized and approximately 80% of the radioactivity was excreted in the urine in the form of racemic ritalinic acid which is pharmacologically inactive.
 Very little unchanged drug is excreted in the urine, thus renal insufficiency is expected to have little effect on the pharmacokinetics of Focalin XR.
 
-### Hepatic Insufficiency
+Hepatic Insufficiency
 
-There is no experience with the use of Focalin XR in patients with hepatic insufficiency.
-(See PRECAUTIONS, Drug Interactions.)
+There is no experience with the use of Focalin XR in patients with hepatic insufficiency (see Drug Interactions (7)].

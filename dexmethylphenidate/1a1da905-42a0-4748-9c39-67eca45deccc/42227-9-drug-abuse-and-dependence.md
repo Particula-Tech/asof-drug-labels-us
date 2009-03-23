@@ -1,9 +1,9 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9. DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class
+## 9.1 Controlled Substance Class
 
-Focalin® XR (dexmethylphenidate hydrochloride) extended-release capsules, like other methylphenidate products, is classified as a Schedule II controlled substance by Federal regulation.
+Focalin XR, like other methylphenidate products, is classified as a Schedule II controlled substance by Federal regulation.
 
-## Abuse, Dependence, and Tolerance
+## 9.2 Abuse, Dependence, Tolerance
 
-See WARNINGS for boxed warning containing drug abuse and dependence information.
+See Warnings and Precautions (5) for boxed warning containing drug abuse and dependence information.
