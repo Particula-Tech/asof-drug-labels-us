@@ -25,4 +25,5 @@ Renal Impairment: Dosage should be adjusted according to the degree of renal imp
 Since only a minimal amount of clonidine is removed during routine hemodialysis, there is no need to give supplemental clonidine following dialysis.
 
 Duraclon must not be used with a preservative.
+
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
