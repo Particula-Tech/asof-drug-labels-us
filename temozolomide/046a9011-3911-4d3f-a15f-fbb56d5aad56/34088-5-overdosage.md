@@ -1,8 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Doses of 500, 750, 1,000, and 1,250 mg/m2 (total dose per cycle over 5 days) have been evaluated clinically in patients.
+Doses of 500, 750, 1000, and 1250 mg/m2 (total dose per cycle over 5 days) have been evaluated clinically in patients.
 Dose-limiting toxicity was hematologic and was reported with any dose but is expected to be more severe at higher doses.
-An overdose of 2,000 mg per day for 5 days was taken by one patient and the adverse events reported were pancytopenia, pyrexia, multi-organ failure, and death.
-There are reports of patients who have taken more than 5 days of treatment (up to 64 days) with adverse events reported including bone marrow suppression, which in some cases was severe and prolonged, and infections and resulted in death.
+An overdose of 2000 mg per day for 5 days was taken by one patient and the adverse reactions reported were pancytopenia, pyrexia, multi-organ failure, and death.
+There are reports of patients who have taken more than 5 days of treatment (up to 64 days), with adverse reactions reported including bone marrow suppression, which in some cases was severe and prolonged, and infections and resulted in death.
 In the event of an overdose, hematologic evaluation is needed.
 Supportive measures should be provided as necessary.
