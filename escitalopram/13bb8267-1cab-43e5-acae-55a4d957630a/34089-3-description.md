@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Lexapro® (escitalopram oxalate) is an orally administered selective serotonin reuptake inhibitor (SSRI).
 Escitalopram is the pure S-enantiomer (single isomer) of the racemic bicyclic phthalane derivative citalopram.

@@ -1,10 +1,8 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class
+## 9.2 Abuse and Dependence
 
-Lexapro is not a controlled substance.
-
-## Physical and Psychological Dependence
+Physical and Psychological Dependence
 
 Animal studies suggest that the abuse liability of racemic citalopram is low.
 Lexapro has not been systematically studied in humans for its potential for abuse, tolerance, or physical dependence.

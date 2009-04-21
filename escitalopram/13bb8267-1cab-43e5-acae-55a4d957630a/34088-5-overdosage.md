@@ -1,15 +1,15 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Experience
+## 10.1 Human Experience
 
 In clinical trials of escitalopram, there were reports of escitalopram overdose, including overdoses of up to 600 mg, with no associated fatalities.
 During the postmarketing evaluation of escitalopram, Lexapro overdoses involving overdoses of over 1000 mg have been reported.
-As with other SSRI's, a fatal outcome in a patient who has taken an overdose of escitalopram has been rarely reported.
+As with other SSRIs, a fatal outcome in a patient who has taken an overdose of escitalopram has been rarely reported.
 
-Symptoms most often accompanying escitalopram overdose, alone or in combination with other drugs and/or alcohol, included convulsions, coma, dizziness, hypotension, insomnia, nausea, vomiting, sinus tachycardia, somnolence, ECG changes (including QT prolongation and very rare cases of torsade de pointes).
+Symptoms most often accompanying escitalopram overdose, alone or in combination with other drugs and/or alcohol, included convulsions, coma, dizziness, hypotension, insomnia, nausea, vomiting, sinus tachycardia, somnolence, and ECG changes (including QT prolongation and very rare cases of torsade de pointes).
 Acute renal failure has been very rarely reported accompanying overdose.
 
-## Management of Overdose
+## 10.2 Management of Overdose
 
 Establish and maintain an airway to ensure adequate ventilation and oxygenation.
 Gastric evacuation by lavage and use of activated charcoal should be considered.
