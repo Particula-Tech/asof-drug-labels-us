@@ -5,8 +5,8 @@ Humalog [insulin lispro injection, USP (rDNA origin)] is available in the follow
 | 10 mL vials | NDC 0002–7510–01 (VL-7510) |
 | --- | --- |
 | 5 x 3 mL cartridges3 | NDC 0002–7516–59 (VL-7516) |
-| 5 x 3 mL disposable insulin delivery devices (Pen) | NDC 0002–8725–59 (HP-8725) |
-| 5 x 3 mL disposable insulin delivery devices (KwikPenTM) | NDC 0002–8799–59 (HP-8799) |
+| 5 x 3 mL prefilled insulin delivery devices (Pen) | NDC 0002–8725–59 (HP-8725) |
+| 5 x 3 mL prefilled insulin delivery devices (KwikPenTM) | NDC 0002–8799–59 (HP-8799) |
 
 ____________
 
@@ -26,7 +26,7 @@ See table below:
 | --- | --- | --- | --- |
 | 10 mL Vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL Cartridge | 28 days | Until expiration date | 28 days, Do not refrigerate. |
-| 3 mL Pen and KwikPen (disposable) | 28 days | Until expiration date | 28 days, Do not refrigerate. |
+| 3 mL Pen and KwikPen (prefilled) | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 
 Use in an External Insulin Pump — A Humalog 3 mL cartridge used in the D–TRON®2,3 or D–TRON®2,3plus should be discarded after 7 days, even if it still contains Humalog.
 Infusion sets, D–TRON®2,3 and D–TRON®2,3plus cartridge adapters, and Humalog in the external insulin pump reservoir should be discarded every 48 hours or less.

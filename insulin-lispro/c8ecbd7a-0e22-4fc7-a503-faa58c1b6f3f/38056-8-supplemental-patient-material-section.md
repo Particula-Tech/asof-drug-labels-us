@@ -171,3 +171,5 @@ www.humalog.com
 
 Copyright © 2007, Eli Lilly and Company.
 All rights reserved.
+
+PV 5560 AMP

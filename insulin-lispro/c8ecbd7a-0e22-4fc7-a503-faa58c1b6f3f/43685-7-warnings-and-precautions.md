@@ -24,7 +24,7 @@ The patient may require interim therapy with subcutaneous insulin injections (se
 ## General
 
 Hypoglycemia and hypokalemia are among the potential clinical adverse effects associated with the use of all insulins.
-Because of differences in the action of Humalog and other insulins, care should be taken in patients in whom such potential sideeffects might be clinically relevant (e.g., patients who are fasting, have autonomic neuropathy, or are using potassium–lowering drugs or patients taking drugs sensitive to serum potassium level).
+Because of differences in the action of Humalog and other insulins, care should be taken in patients in whom such potential side effects might be clinically relevant (e.g., patients who are fasting, have autonomic neuropathy, or are using potassium–lowering drugs or patients taking drugs sensitive to serum potassium level).
 Lipodystrophy and hypersensitivity are among other potential clinical adverse effects associated with the use of all insulins.
 
 As with all insulin preparations, the time course of Humalog action may vary in different individuals or at different times in the same individual and is dependent on site of injection, blood supply, temperature, and physical activity.
@@ -70,7 +70,7 @@ Patients should be advised to inform their physician if they are pregnant or int
 Refer patients to the Patient Information leaflet for timing of Humalog dosing (≤15 minutes before or immediately after a meal), storing insulin, and common adverse effects.
 
 For Patients Using Insulin Pen Delivery Devices: Before starting therapy, patients should read the Patient Information leaflet that accompanies the drug product and the User Manual that accompanies the delivery device and re-read them each time the prescription is renewed.
-Patients should be instructed on how to properly use the delivery device, prime the Pen, and properly dispose of needles.
+Patients should be instructed on how to properly use the delivery device, prime the Pen to a stream of insulin, and properly dispose of needles.
 Patients should be advised not to share their Pens with others.
 
 For Patients Using External Insulin Pumps: Patients using an external infusion pump should be trained in intensive insulin therapy and in the function of their external insulin pump and pump accessories.
