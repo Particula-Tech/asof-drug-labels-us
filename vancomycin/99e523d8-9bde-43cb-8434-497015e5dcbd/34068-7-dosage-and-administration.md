@@ -38,10 +38,9 @@ Vancomycin serum concentrations can be determined by use of microbiologic assay,
 If creatinine clearance can be measured or estimated accurately, the dosage for most patients with renal impairment can be calculated using the following table.
 The dosage of vancomycin per day in mg is about 15 times the glomerular filtration rate in mL/min:
 
-| DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)3 |  |
+| DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)4 |  |
 | --- | --- |
-| Creatinine Clearance | Vancomycin Dose |
-| mL/min | mg/24 h |
+| Creatinine Clearance mL/min | Vancomycin Dose mg/24 h |
 | 100 | 1,545 |
 | 90 | 1,390 |
 | 80 | 1,235 |
@@ -85,41 +84,25 @@ Store in a freezer capable of maintaining a temperature at or below -20°C (-4°
 
 ### Thawing of Plastic Containers:
 
-1.
-Thaw frozen containers at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
-DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
-
-2.
-Check for minute leaks by squeezing the bag firmly.
-If leaks are detected, discard solution because sterility may be impaired.
-
-3.DO NOT ADD SUPPLEMENTARY MEDICATION.
-
-4.
-Visually inspect the container for particulate matter and discoloration.
-Components of the solution may precipitate in the frozen state and should dissolve with little or no agitation after the solution has reached room temperature.
-Potency is not affected.
-If after visual inspection, the solution is discolored or remains cloudy, an insoluble precipitate is noted, or any seals or outlet ports are not intact, the container should be discarded.
-
-5.
-The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
-
-6.Do not refreeze thawed antibiotics.
+1. Thaw frozen containers at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
+   DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
+2. Check for minute leaks by squeezing the bag firmly.
+   If leaks are detected, discard solution because sterility may be impaired.
+3. DO NOT ADD SUPPLEMENTARY MEDICATION.
+4. Visually inspect the container for particulate matter and discoloration.
+   Components of the solution may precipitate in the frozen state and should dissolve with little or no agitation after the solution has reached room temperature.
+   Potency is not affected.
+   If after visual inspection, the solution is discolored or remains cloudy, an insoluble precipitate is noted, or any seals or outlet ports are not intact, the container should be discarded.
+5. The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
+6. Do not refreeze thawed antibiotics.
 
 ### Preparation for Intravenous Administration:
 
-1.
-Suspend container from eyelet support.
-
-2.
-Remove protector from outlet port at bottom of container.
-
-3.
-Attach administration set.
-Refer to complete directions accompanying set.
-
-4.
-Use sterile equipment.
+1. Suspend container from eyelet support.
+2. Remove protector from outlet port at bottom of container.
+3. Attach administration set.
+   Refer to complete directions accompanying set.
+4. Use sterile equipment.
 
 Caution: Do not use plastic containers in series connections.
 Such use could result in an embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.

@@ -1,8 +1,8 @@
 # DESCRIPTION
 
 Vancomycin Injection, USP in the GALAXY plastic container (PL 2040) contains vancomycin, added as Vancomycin Hydrochloride, USP.
-It is a tricyclic glycopeptide antibiotic derived from Amycolatopsis orientalis (formerlyNocardia orientalis).
-The molecular formula is C66H75Cl2N9O24· HCl and the molecular weight is 1,485.71.
+It is a tricyclic glycopeptide antibiotic derived from Amycolatopsis orientalis (formerly Nocardia orientalis).
+The molecular formula is C66H75Cl2N9O24• HCl and the molecular weight is 1,485.71.
 500 mg of the base is equivalent to 0.34 mmol.
 Vancomycin hydrochloride has the following structural formula:
 

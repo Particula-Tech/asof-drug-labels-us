@@ -9,7 +9,7 @@ It may be transient or permanent.
 It has been reported mostly in patients who have been given excessive doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent, such as an aminoglycoside.
 Vancomycin should be used with caution in patients with renal insufficiency because the risk of toxicity is appreciably increased by high, prolonged blood concentrations.
 
-Dosage of vancomycin must be adjusted for patients with renal dysfunction (seePRECAUTIONSand DOSAGE AND ADMINISTRATION).
+Dosage of vancomycin must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vancomycin Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -19,7 +19,7 @@ Hypertoxin producing strains of C. difficile cause increased morbidity and morta
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed againstC. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
@@ -54,7 +54,7 @@ Prescribing vancomycin in the absence of a proven or strongly suspected bacteria
 
 ## Drug Interactions
 
-Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see Usage in Pediatrics under PRECAUTIONS) and anaphylactoid reactions (seeADVERSE REACTIONS).
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see Usage in Pediatrics under PRECAUTIONS) and anaphylactoid reactions (see ADVERSE REACTIONS).
 
 Concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin, when indicated, requires careful monitoring.
 
@@ -82,7 +82,7 @@ Because of the potential for adverse events, a decision should be made whether t
 ## Pediatric Use
 
 In pediatric patients, it may be appropriate to confirm desired vancomycin serum concentrations.
-Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing in pediatric patients (seeADVERSE REACTIONS).
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing in pediatric patients (see ADVERSE REACTIONS).
 The potential for toxic effects in pediatric patients from chemicals that may leach from the plastic containers into the single-dose, premixed intravenous preparation has not been determined.
 
 ## Geriatric Use
