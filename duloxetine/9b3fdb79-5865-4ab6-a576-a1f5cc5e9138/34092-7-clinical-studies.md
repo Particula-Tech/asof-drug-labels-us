@@ -32,6 +32,11 @@ While a 120 mg/day dose was shown to be effective, there is no evidence that dos
 In all 3 studies, Cymbalta demonstrated superiority over placebo as measured by greater improvement in the Hamilton Anxiety Scale (HAM-A) total score and by the Sheehan Disability Scale (SDS) global functional impairment score.
 The SDS is a widely used and well-validated scale that measures the extent emotional symptoms disrupt patient functioning in 3 life domains: work/school, social life/leisure activities, and family life/home responsibilities.
 
+In another study, 887 patients meeting DSM-IV-TR criteria for GAD received Cymbalta 60 mg to 120 mg once daily during an initial 26-week open-label treatment phase.
+Four hundred and twenty-nine patients who responded to open-label treatment (defined as meeting the following criteria at weeks 24 and 26: a decrease from baseline HAM-A total score by at least 50% to a score no higher than 11, and a Clinical Global Impressions of Improvement [CGI-Improvement] score of 1 or 2) were randomly assigned to continuation of Cymbalta at the same dose (N = 216) or to placebo (N = 213) for up to 26 weeks.
+Patients taking Cymbalta experienced a statistically significantly longer time to relapse of GAD than did patients taking placebo.
+Relapse rates were significantly greater in placebo-treated patients than Cymbalta-treated patients (41.8% and 13.7%, respectively; p<0.001).
+
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
 
 ## 14.3 Diabetic Peripheral Neuropathic Pain

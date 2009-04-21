@@ -6,7 +6,7 @@ Cymbalta is available as delayed release capsules in the following strengths, co
 
 | Features | Strengths |  |  |
 | --- | --- | --- | --- |
-| 20 mg* | 30 mg* | 60 mg* |  |
+| 20 mga | 30 mga | 60 mga |  |
 | Body color | Opaque green | Opaque white | Opaque green |
 | Cap color | Opaque green | Opaque blue | Opaque blue |
 | Cap imprint | Lilly 3235 | Lilly 3240 | Lilly 3237 |
@@ -19,7 +19,7 @@ Cymbalta is available as delayed release capsules in the following strengths, co
 | Bottles of 1000 | NA | 0002-3240-04 | 0002-3237-04 |
 | Blisters ID†100 | NA | 0002-3240-33 | 0002-3237-33 |
 | Blister card of 30 | NA | NA | 0002-3237-34 |
-| * equivalent to duloxetine base |  |  |  |
+| a equivalent to duloxetine base |  |  |  |
 | † Identi-Dose® (unit dose medication, Lilly) |  |  |  |
 
 ## 16.2 Storage

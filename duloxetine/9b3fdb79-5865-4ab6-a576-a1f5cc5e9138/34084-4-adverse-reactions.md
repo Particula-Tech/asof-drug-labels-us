@@ -44,19 +44,19 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placeb
 | Nausea | 25 | 9 |
 | Headache | 16 | 15 |
 | Dry mouth | 14 | 6 |
-| Fatiguea | 11 | 6 |
-| Insomnia*b | 11 | 7 |
+| Fatigueb | 11 | 6 |
+| Insomniaa,c | 11 | 7 |
 | Dizziness | 11 | 6 |
-| Somnolence*c | 11 | 3 |
-| Constipation* | 11 | 4 |
+| Somnolencea,d | 11 | 3 |
+| Constipationa | 11 | 4 |
 | Diarrhea | 10 | 7 |
-| Decreased appetite*d | 8 | 2 |
+| Decreased appetitea,e | 8 | 2 |
 | Hyperhidrosis | 7 | 2 |
-| * Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| a Also includes asthenia |  |  |
-| b Also includes middle insomnia, early morning awakening, and initial insomnia |  |  |
-| c Also includes hypersomnia and sedation |  |  |
-| d Also includes anorexia |  |  |
+| a Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| b Also includes asthenia |  |  |
+| c Also includes middle insomnia, early morning awakening, and initial insomnia |  |  |
+| d Also includes hypersomnia and sedation |  |  |
+| e Also includes anorexia |  |  |
 
 ## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
 
@@ -75,48 +75,48 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD an
 | Nausea | 25 | 9 |
 | Dry mouth | 15 | 6 |
 | Diarrhea | 10 | 7 |
-| Constipation* | 10 | 4 |
-| Abdominal paina | 4 | 4 |
+| Constipationa | 10 | 4 |
+| Abdominal painb | 4 | 4 |
 | Vomiting | 5 | 2 |
 | General Disorders and Administration Site Conditions |  |  |
-| Fatigueb | 10 | 6 |
+| Fatiguec | 10 | 6 |
 | Investigations |  |  |
-| Weight decreased* | 2 | <1 |
+| Weight decreaseda | 2 | <1 |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased appetitec | 7 | 2 |
+| Decreased appetited | 7 | 2 |
 | Nervous System Disorders |  |  |
 | Dizziness | 10 | 6 |
-| Somnolenced | 10 | 4 |
+| Somnolencee | 10 | 4 |
 | Tremor | 3 | <1 |
 | Psychiatric Disorders |  |  |
-| Insomniae | 10 | 6 |
-| Agitationf | 5 | 3 |
+| Insomniaf | 10 | 6 |
+| Agitationg | 5 | 3 |
 | Anxiety | 3 | 2 |
-| Libido decreasedg | 4 | 1 |
-| Orgasm abnormalh | 3 | <1 |
-| Abnormal dreamsi | 2 | 1 |
+| Libido decreasedh | 4 | 1 |
+| Orgasm abnormali | 3 | <1 |
+| Abnormal dreamsj | 2 | 1 |
 | Reproductive System and Breast Disorders |  |  |
-| Erectile dysfunctionj | 5 | 1 |
-| Ejaculation delayed*j | 3 | <1 |
-| Ejaculation disorderj,k | 2 | <1 |
+| Erectile dysfunctionk | 5 | 1 |
+| Ejaculation delayeda,k | 3 | <1 |
+| Ejaculation disorderk,l | 2 | <1 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Yawning | 2 | <1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 2 |
 | Vascular Disorders |  |  |
 | Hot flush | 2 | <1 |
-| * Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| a Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
-| b Also includes asthenia |  |  |
-| c Also includes anorexia |  |  |
-| d Also includes hypersomnia and sedation |  |  |
-| e Also includes middle insomnia, early morning awakening, and initial insomnia |  |  |
-| f Also includes feeling jittery, nervousness, restlessness, tension, and psychomotor agitation |  |  |
-| g Also includes loss of libido |  |  |
-| h Also includes anorgasmia |  |  |
-| i Also includes nightmare |  |  |
-| j Male patients only |  |  |
-| k Also includes ejaculation failure and ejaculation dysfunction |  |  |
+| a Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| b Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
+| c Also includes asthenia |  |  |
+| d Also includes anorexia |  |  |
+| e Also includes hypersomnia and sedation |  |  |
+| f Also includes middle insomnia, early morning awakening, and initial insomnia |  |  |
+| g Also includes feeling jittery, nervousness, restlessness, tension, and psychomotor agitation |  |  |
+| h Also includes loss of libido |  |  |
+| i Also includes anorgasmia |  |  |
+| j Also includes nightmare |  |  |
+| k Male patients only |  |  |
+| l Also includes ejaculation failure and ejaculation dysfunction |  |  |
 
 Diabetic Peripheral Neuropathic Pain — Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with Cymbalta in the premarketing acute phase of DPNP placebo-controlled trials (doses of 20 to 120 mg/day) and with an incidence greater than placebo.
 
@@ -155,13 +155,13 @@ Table 4: Treatment-Emergent Adverse Reactions Incidence of 2% or More in DPNP Pl
 | Renal and Urinary Disorders |  |  |  |  |
 | Pollakiuria | 3 | 1 | 5 | 2 |
 | Reproductive System and Breast Disorders |  |  |  |  |
-| Erectile dysfunction1 | 0 | 1 | 4 | 0 |
+| Erectile dysfunctiona | 0 | 1 | 4 | 0 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
 | Cough | 6 | 3 | 5 | 4 |
 | Pharyngolaryngeal pain | 3 | 1 | 6 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
 | Hyperhidrosis | 6 | 6 | 8 | 2 |
-| 1 Male patients only. |  |  |  |  |
+| a Male patients only. |  |  |  |  |
 
 Fibromyalgia — Table 5 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with Cymbalta in the premarketing acute phase of FM placebo-controlled trials and with an incidence greater than placebo.
 
@@ -181,7 +181,7 @@ Table 5: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in Fibrom
 | Diarrhea | 12 | 8 |
 | Dyspepsia | 5 | 3 |
 | General Disorders and Administration Site Conditions |  |  |
-| Fatiguea | 15 | 8 |
+| Fatigueb | 15 | 8 |
 | Immune System Disorders |  |  |
 | Seasonal allergy | 3 | 2 |
 | Infections and Infestations |  |  |
@@ -192,28 +192,28 @@ Table 5: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in Fibrom
 | Investigations |  |  |
 | Weight increased | 2 | 1 |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased appetiteb | 11 | 2 |
+| Decreased appetitec | 11 | 2 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |
 | Musculoskeletal pain | 5 | 4 |
 | Muscle spasms | 4 | 3 |
 | Nervous System Disorders |  |  |
 | Headache | 20 | 12 |
 | Dizziness | 11 | 7 |
-| Somnolencec | 11 | 3 |
+| Somnolenced | 11 | 3 |
 | Tremor | 4 | 1 |
 | Paraesthesia | 4 | 4 |
 | Migraine | 3 | 3 |
 | Dysgeusia | 3 | 1 |
 | Psychiatric Disorders |  |  |
-| Insomniad | 16 | 10 |
-| Agitatione | 6 | 2 |
+| Insomniae | 16 | 10 |
+| Agitationf | 6 | 2 |
 | Sleep disorder | 3 | 2 |
-| Abnormal dreamsf | 3 | 1 |
-| Orgasm abnormalg | 3 | <1 |
-| Libido decreasedh | 2 | <1 |
+| Abnormal dreamsg | 3 | 1 |
+| Orgasm abnormalh | 3 | <1 |
+| Libido decreasedi | 2 | <1 |
 | Reproductive System and Breast Disorders |  |  |
-| Ejaculation disorder1,i | 4 | 0 |
-| Penis disorder1 | 2 | 0 |
+| Ejaculation disordera,j | 4 | 0 |
+| Penis disordera | 2 | 0 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Cough | 4 | 3 |
 | Pharyngolaryngeal pain | 3 | 3 |
@@ -223,16 +223,16 @@ Table 5: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in Fibrom
 | Pruritis | 3 | 2 |
 | Vascular Disorders |  |  |
 | Hot flush | 3 | 2 |
-| 1 Male patients only (N = 46 duloxetine-treated patients versus 26 placebo patients) |  |  |
-| a Also includes asthenia |  |  |
-| b Also includes anorexia |  |  |
-| c Also includes hypersomnia and sedation |  |  |
-| d Also includes middle insomnia, early morning awakening, and initial insomnia |  |  |
-| e Also includes feeling jittery, nervousness, restlessness, tension, and psychomotor agitation |  |  |
-| f Also includes nightmare |  |  |
-| g Also includes anorgasmia |  |  |
-| h Also includes loss of libido |  |  |
-| i Also includes ejaculation failure and ejaculation dysfunction |  |  |
+| a Male patients only (N = 46 duloxetine-treated patients versus 26 placebo patients) |  |  |
+| b Also includes asthenia |  |  |
+| c Also includes anorexia |  |  |
+| d Also includes hypersomnia and sedation |  |  |
+| e Also includes middle insomnia, early morning awakening, and initial insomnia |  |  |
+| f Also includes feeling jittery, nervousness, restlessness, tension, and psychomotor agitation |  |  |
+| g Also includes nightmare |  |  |
+| h Also includes anorgasmia |  |  |
+| i Also includes loss of libido |  |  |
+| j Also includes ejaculation failure and ejaculation dysfunction |  |  |
 
 ## 6.6 Effects on Male and Female Sexual Function
 
@@ -324,7 +324,7 @@ Reproductive System and Breast Disorders — Frequent: anorgasmia/orgasm abnorma
 
 Respiratory, Thoracic and Mediastinal Disorders — Frequent: yawning; Infrequent: throat tightness.
 
-Skin and Subcutaneous Tissue Disorders —Infrequent: cold sweat, dermatitis contact, erythema, increased tendency to bruise, night sweats, and photosensitivity reaction; Rare: ecchymosis.
+Skin and Subcutaneous Tissue Disorders — Infrequent: cold sweat, dermatitis contact, erythema, increased tendency to bruise, night sweats, and photosensitivity reaction; Rare: ecchymosis.
 
 Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 

@@ -39,7 +39,7 @@ Duloxetine 40 mg twice daily was given for 3.5 days.
 Like many other drugs, duloxetine is detected in breast milk, and steady state concentrations in breast milk are about one-fourth those in plasma.
 The amount of duloxetine in breast milk is approximately 7 μg/day while on 40 mg BID dosing.
 The excretion of duloxetine metabolites into breast milk was not examined.
-Because the safety of duloxetine in infants is not known, nursing while on Cymbalta is not recommended [see Dosing and Administration (2.3)].
+Because the safety of duloxetine in infants is not known, nursing while on Cymbalta is not recommended [see Dosage and Administration (2.3)].
 
 ## 8.4 Pediatric Use
 
@@ -77,13 +77,13 @@ No specific pharmacokinetic study was conducted to investigate the effects of ra
 ## 8.9 Hepatic Insufficiency
 
 Patients with clinically evident hepatic insufficiency have decreased duloxetine metabolism and elimination.
-After a single 20-mg dose of Cymbalta, 6 cirrhotic patients with moderate liver impairment (Child-Pugh Class B) had a mean plasma duloxetine clearance about 15% that of age- and gender-matched healthy subjects, with a 5-fold increase in mean exposure (AUC).
+After a single 20 mg dose of Cymbalta, 6 cirrhotic patients with moderate liver impairment (Child-Pugh Class B) had a mean plasma duloxetine clearance about 15% that of age- and gender-matched healthy subjects, with a 5-fold increase in mean exposure (AUC).
 Although Cmax was similar to normals in the cirrhotic patients, the half-life was about 3 times longer [see Dosage and Administration (2.3) and Warnings and Precautions (5.12)].
 
 ## 8.10 Severe Renal Impairment
 
 Limited data are available on the effects of duloxetine in patients with end-stage renal disease (ESRD).
-After a single 60-mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with end-stage renal disease receiving chronic intermittent hemodialysis than in subjects with normal renal function.
+After a single 60 mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with end-stage renal disease receiving chronic intermittent hemodialysis than in subjects with normal renal function.
 The elimination half-life, however, was similar in both groups.
 The AUCs of the major circulating metabolites, 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate, largely excreted in urine, were approximately 7- to 9-fold higher and would be expected to increase further with multiple dosing.
 Population PK analyses suggest that mild to moderate degrees of renal dysfunction (estimated CrCl 30-80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.3) and Warnings and Precautions (5.12)].

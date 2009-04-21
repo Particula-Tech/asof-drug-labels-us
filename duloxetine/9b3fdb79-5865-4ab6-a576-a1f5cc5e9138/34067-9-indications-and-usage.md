@@ -8,7 +8,7 @@ A major depressive episode (DSM-IV) implies a prominent and relatively persisten
 
 ## 1.2 Generalized Anxiety Disorder
 
-Cymbalta is indicated for the acute treatment of generalized anxiety disorder (GAD) [see Clinical Studies (14.2)].
+Cymbalta is indicated for the acute and maintenance treatment of generalized anxiety disorder (GAD) [see Clinical Studies (14.2)].
 
 Generalized anxiety disorder is defined by the DSM-IV as excessive anxiety and worry, present more days than not, for at least 6 months.
 The excessive anxiety and worry must be difficult to control and must cause significant distress or impairment in normal functioning.

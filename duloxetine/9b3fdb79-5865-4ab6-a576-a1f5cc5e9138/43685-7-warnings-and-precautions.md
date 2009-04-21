@@ -76,16 +76,20 @@ Syncope and orthostatic hypotension tend to occur within the first week of thera
 The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.10) and Drug Interactions (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
 Consideration should be given to discontinuing duloxetine in patients who experience symptomatic orthostatic hypotension and/or syncope during duloxetine therapy.
 
-## 5.4 Serotonin Syndrome
+## 5.4 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including Cymbalta treatment, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Cymbalta treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
 The concomitant use of Cymbalta with MAOIs intended to treat depression is contraindicated [see Contraindications (4.1)].
 
 If concomitant treatment of Cymbalta with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Drug Interactions (7.15)].
 
 The concomitant use of Cymbalta with serotonin precursors (such as tryptophan) is not recommended [see Drug Interactions (7.14)].
+
+Treatment with duloxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.5 Abnormal Bleeding
 

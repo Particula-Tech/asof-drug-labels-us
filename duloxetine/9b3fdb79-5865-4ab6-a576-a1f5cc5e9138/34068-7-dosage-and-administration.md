@@ -21,7 +21,7 @@ Diabetic Peripheral Neuropathic Pain —The recommended dose for Cymbalta is 60 
 There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see Clinical Studies (14.3)].
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 
-Since diabetes is frequently complicated by renal disease, a lower starting dose and gradual increase in dose should be considered for patients with renal impairment [see Clinical Pharmacology (12.3) and Dosing in Special Populations (2.3)].
+Since diabetes is frequently complicated by renal disease, a lower starting dose and gradual increase in dose should be considered for patients with renal impairment [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].
 
 Fibromyalgia — The recommended dose for Cymbalta is 60 mg administered once daily.
 Treatment should begin at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
@@ -34,9 +34,8 @@ Major Depressive Disorder — It is generally agreed that acute episodes of majo
 Cymbalta should be administered at a total dose of 60 mg once daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.1)].
 
-Generalized Anxiety Disorder — Generalized anxiety disorder is recognized as a chronic condition.
-The efficacy of Cymbalta in the treatment of GAD, that is, beyond 10 weeks, has not been systematically studied.
-The physician who elects to use Cymbalta for extended periods should periodically evaluate the long-term usefulness of the drug for the individual patient.
+Generalized Anxiety Disorder — It is generally agreed that episodes of generalized anxiety disorder require several months or longer of sustained pharmacological therapy.
+Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
 
 Diabetic Peripheral Neuropathic Pain — As the progression of diabetic peripheral neuropathy is highly variable and management of pain is empirical, the effectiveness of Cymbalta must be assessed individually.
 Efficacy beyond 12 weeks has not been systematically studied in placebo-controlled trials.
