@@ -33,7 +33,7 @@ While megaloblastic anemia has rarely been seen with metformin therapy, if this 
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794107
+9794108
 
 US Patent No.: 6,699,871
 
@@ -207,6 +207,7 @@ The following additional side effects have been reported in general use with JAN
   If you have an allergic reaction, stop taking JANUMET and call your doctor right away.
   Your doctor may prescribe a medication to treat your allergic reaction and a different medication for your diabetes.
 - Elevated liver enzymes.
+- Inflammation of the pancreas.
 
 These are not all the possible side effects of JANUMET.
 For more information, ask your doctor.
@@ -250,8 +251,8 @@ Lowering and controlling blood sugar may help prevent or delay complications of 
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-Issued October 2008
+Issued March 2009
 
 Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9794107
+9794108
