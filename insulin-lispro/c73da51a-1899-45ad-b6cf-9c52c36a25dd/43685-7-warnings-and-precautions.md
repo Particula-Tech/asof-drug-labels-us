@@ -52,7 +52,7 @@ Patients should be advised to inform their physician if they are pregnant or int
 Refer patients to the Patient Information leaflet for information on normal appearance, timing of dosing (within 15 minutes before a meal), storing, and common adverse effects.
 
 For Patients Using Insulin Pen Delivery Devices: Before starting therapy, patients should read the Patient Information leaflet that accompanies the drug product and the User Manual that accompanies the delivery device and re-read them each time the prescription is renewed.
-Patients should be instructed on how to properly use the delivery device, prime the Pen, and properly dispose of needles.
+Patients should be instructed on how to properly use the delivery device, prime the Pen to a stream of insulin, and properly dispose of needles.
 Patients should be advised not to share their Pens with others.
 
 ## Laboratory Tests

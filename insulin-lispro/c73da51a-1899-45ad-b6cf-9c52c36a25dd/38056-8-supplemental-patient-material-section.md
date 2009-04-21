@@ -92,7 +92,7 @@ Symptoms of low blood sugar include:
 - confusion
 
 Low blood sugar symptoms can happen suddenly.
-Symptoms of low blood sugar may be different for each person and may change from time to time.
+Symptoms of low blood sugar may be different for each person and may changefrom time to time.
 Severe low blood sugar can cause seizures and death.
 Low blood sugar may affect your ability to drive a car or use mechanical equipment, risking injury to yourself or others.
 Know your symptoms of low blood sugar.
@@ -156,3 +156,5 @@ www.humalog.com
 
 Copyright © 2007, Eli Lilly and Company.
 All rights reserved.
+
+PV 5580 AMP
