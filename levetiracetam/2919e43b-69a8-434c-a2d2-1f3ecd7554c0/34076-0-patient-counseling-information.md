@@ -17,9 +17,12 @@ Physicians should advise patients and caregivers to read the patient information
 
 KEPPRA XR manufactured for UCB, Inc. Smyrna, GA 30080
 
+KEPPRA XR™ is a registered trademark of UCB S.A. or its affiliates © 2008, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+Printed in the U.S.A.
+
 PATIENT INFORMATION
 
-KEPPRA XRTM (pronounced KEPP-ruh XR) (levetiracetam) 500 mg extended-release tablets
+KEPPRA XRTM (pronounced KEPP-ruh XR) (levetiracetam) 500 mg and 750 mg extended-release tablets
 
 Read the Patient Information that comes with KEPPRA XR before you start using it and each time you get a refill.
 There may be new information.
@@ -30,6 +33,7 @@ Compare the name above with the name on your bottle and the appearance of your m
 Contact your pharmacist immediately if you believe a dispensing error may have occurred.
 
 500 mg KEPPRA XR tablets are white, oblong-shaped, film-coated tablets marked with "UCB 500XR" in red on one side.
+750 mg KEPPRA XR tablets are white, oblong-shaped, film-coated tablets marked with "UCB 750XR" in red on one side.
 
 What is KEPPRA XR?
 KEPPRA XR is a medicine taken by mouth once daily that is used with other medicines to treat partial onset seizures in patients 16 years of age and older with epilepsy.
@@ -90,7 +94,7 @@ In addition, the following serious problems have been seen with other formulatio
 - problems with muscle coordination (problems walking and moving)
 - mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
-  A few people may get thoughts of suicide (thoughts of killing yourself).
+  A few people may get thoughts of suicide (thoughts of killing yourself)
 
 Call your healthcare provider right away if you get any of these symptoms.
 
@@ -127,8 +131,9 @@ The imprinting ink contains shellac, FD&C Red #40, n-butyl alcohol, propylene gl
 
 KEPPRA XR does not contain lactose or gluten.
 
-Rx Only
-
 This patient leaflet has been approved by the US Food and Drug Administration.
 
 Distributed by UCB, Inc. Smyrna, GA 30080
+
+KEPPRA XR™ is a registered trademark of UCB S.A. or its affiliates © 2008, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+Printed in the U.S.A.

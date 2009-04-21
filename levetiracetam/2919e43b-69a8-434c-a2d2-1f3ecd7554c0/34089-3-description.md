@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-KEPPRA XR is an antiepileptic drug available as 500 mg (white) extended-release tablets for oral administration.
+KEPPRA XR is an antiepileptic drug available as 500 mg and 750 mg (white) extended-release tablets for oral administration.
 
 The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-ethyl-2-oxo-1-pyrrolidine acetamide, its molecular formula is C8H14N2O2 and its molecular weight is 170.21.
 Levetiracetam is chemically unrelated to existing antiepileptic drugs (AEDs).

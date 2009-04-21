@@ -49,6 +49,8 @@ Cmax and Cmin were lower by 17% and 26% after multiple dose extended-release lev
 Intake of a high fat, high calorie breakfast before the administration of extended-release levetiracetam tablets resulted in a higher peak concentration, and longer median time to peak.
 The median time to peak (Tmax) was 2 hours longer in the fed state.
 
+Two 750 mg extended-release levetiracetam tablets were bioequivalent to a single administration of three 500 mg extended-release levetiracetam tablets.
+
 ### Metabolism
 
 Levetiracetam is not extensively metabolized in humans.
