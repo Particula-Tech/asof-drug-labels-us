@@ -12,11 +12,13 @@ Store at 25°C (77°F); excursions are permitted to 15°-30°C (59°-86°F) [see
 
 ROXICODONE is a registered trademark of Xanodyne Pharmaceuticals, Inc.
 
-© 2006 Xanodyne Pharmaceuticals, Inc.
+2009 Xanodyne® pharmaceuticals, Inc.
 
 Marketed by:
 
 Xanodyne® pharmaceuticals Inc. Newport, KY 41071
 
-10004436/01 Rev.
-03-2006
+PI - 581/582-A Rev.
+02 - 2009
+
+"To request medical information or to report suspected adverse reactions, contact Xanodyne Medical Affairs at 1-877-773-7793"

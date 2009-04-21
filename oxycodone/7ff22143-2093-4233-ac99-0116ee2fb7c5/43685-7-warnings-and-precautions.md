@@ -91,6 +91,9 @@ The use of ROXICODONE® is not recommended for patients taking MAOIs or within 1
 Long-term studies have not been performed in animals to evaluate the carcinogenic potential of ROXICODONE® or oxycodone.
 The possible effects on male or female fertility have not been studied in animals.
 
+Oxycodone hydrochloride was genotoxic in an in vitro mouse lymphoma assay in the presence of metabolic activation.
+There was no evidence of genotoxic potential in an in vitro bacterial reverse mutation assay (Salmonella typhimurium and Escherichia coli) or in an assay for chromosomal aberrations (in vivo mouse bone marrow micronucleus assay).
+
 ## Pregnancy:
 
 Teratogenic Effects: Category B: Reproduction studies in Sprague-Dawley rats and New Zealand rabbits revealed that when oxycodone was administered orally at doses up to 16 mg/kg (approximately 2 times the daily oral dose of 90 mg for adults on a mg/m2 basis) and 25 mg/kg (approximately 5 times the daily oral dose of 90 mg on a mg/m2 basis), respectively was not teratogenic or embryo-fetal toxic.

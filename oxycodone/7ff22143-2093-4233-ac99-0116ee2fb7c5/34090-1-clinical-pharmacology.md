@@ -27,7 +27,7 @@ Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situa
 Effects on Gastrointestinal Tract And Other Smooth Muscle: Oxycodone, like other opioid analgesics, produces some degree of nausea and vomiting which is caused by direct stimulation of the chemoreceptor trigger zone (CTZ) located in the medulla.
 The frequency and severity of emesis gradually diminishes with time.
 
-Oxycodone may cause a decrease in the secretion of hydrochloric acid in the stomach reduces motility while increasing the tone of the antrum, stomach, and duodenum.
+Oxycodone may cause a decrease in the secretion of hydrochloric acid in the stomach that reduces motility while increasing the tone of the antrum, stomach, and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm resulting in constipation.
 Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
