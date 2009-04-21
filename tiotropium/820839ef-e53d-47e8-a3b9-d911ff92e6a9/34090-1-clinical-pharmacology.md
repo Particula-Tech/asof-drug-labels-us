@@ -6,7 +6,7 @@ Tiotropium is a long-acting, antimuscarinic agent, which is often referred to as
 It has similar affinity to the subtypes of muscarinic receptors, M1 to M5.
 In the airways, it exhibits pharmacological effects through inhibition of M3-receptors at the smooth muscle leading to bronchodilation.
 The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations.
-In preclinical in vitro as well as in vivo studies prevention of methacholine-induced bronchoconstriction effects were dose-dependent and lasted longer than 24 hours.
+In preclinical in vitro as well as in vivo studies, prevention of methacholine-induced bronchoconstriction effects were dose-dependent and lasted longer than 24 hours.
 The bronchodilation following inhalation of tiotropium is predominantly a site-specific effect.
 
 ## Pharmacokinetics
@@ -25,10 +25,10 @@ Maximum tiotropium plasma concentrations were observed five minutes after inhala
 
 ## Distribution
 
-Tiotropium shows a volume of distribution of 32 L/kg indicating that the drug binds extensively to tissues.
+Tiotropium shows a volume of distribution of 32 L/kg, indicating that the drug binds extensively to tissues.
 The drug is bound by 72% to plasma proteins.
 At steady state, peak tiotropium plasma levels in COPD patients were 17-19 pg/mL when measured 5 minutes after dry powder inhalation of an 18 mcg dose and decreased rapidly in a multi-compartmental manner.
-Steady state trough plasma concentrations were 3–4 pg/mL.
+Steady-state trough plasma concentrations were 3–4 pg/mL.
 Local concentrations in the lung are not known, but the mode of administration suggests substantially higher concentrations in the lung.
 Studies in rats have shown that tiotropium does not readily penetrate the blood-brain barrier.
 
@@ -66,9 +66,9 @@ This difference was apparent using both the Bazett (QTcB) [20 (20%) patients vs.
 No patients in either group had either QTcB or QTcF of >500 msec.
 Other clinical studies with SPIRIVA HandiHaler did not detect an effect of the drug on QTc intervals.
 The effect of Spiriva HandiHaler on QT interval was also evaluated in a randomized, placebo and positive controlled crossover study in 53 healthy volunteers.
-Subjects received Spiriva HandiHaler 18mcg, 54mcg (3 times the recommended dose), or placebo for 12 days.
+Subjects received Spiriva HandiHaler 18 mcg, 54 mcg (3 times the recommended dose), or placebo for 12 days.
 ECG assessments were performed at baseline and throughout the dosing interval following the first and last dose of study medication.
-Relative to placebo, the maximum mean change from baseline in study-specific QTc interval was 3.2 msec and 0.8 msec for Spiriva HandiHaler 18mcg and 54mcg, respectively.
+Relative to placebo, the maximum mean change from baseline in study-specific QTc interval was 3.2 msec and 0.8 msec for SPIRIVA HandiHaler 18 mcg and 54 mcg, respectively.
 No subject showed a new onset of QTc >500 msec or QTc changes from baseline of ≥60 msec.
 
 ## Special Populations
@@ -88,5 +88,5 @@ Tiotropium is predominantly cleared by renal elimination (74% in young healthy v
 ### Renally-impaired Patients
 
 Since tiotropium is predominantly renally excreted, renal impairment was associated with increased plasma drug concentrations and reduced drug clearance after both intravenous infusion and dry powder inhalation.
-Mild renal impairment (CrCl 50–80 mL/min), which is often seen in elderly patients, increased tiotropium plasma concentrations (39% increase in AUC0–4 after intravenous infusion).
-In COPD patients with moderate to severe renal impairment (CrCl <50 mL/min), the intravenous administration of tiotropium resulted in doubling of the plasma concentrations (82% increase in AUC0–4), which was confirmed by plasma concentrations after dry powder inhalation (see DOSAGE AND ADMINISTRATION and PRECAUTIONS).
+Mild renal impairment (CrCl 50–80 mL/min), which is often seen in elderly patients, increased tiotropium plasma concentrations (39% increase in AUC0−4 after intravenous infusion).
+In COPD patients with moderate to severe renal impairment (CrCl <50 mL/min), the intravenous administration of tiotropium resulted in doubling of the plasma concentrations (82% increase in AUC0−4), which was confirmed by plasma concentrations after dry powder inhalation (see DOSAGE AND ADMINISTRATION and PRECAUTIONS).

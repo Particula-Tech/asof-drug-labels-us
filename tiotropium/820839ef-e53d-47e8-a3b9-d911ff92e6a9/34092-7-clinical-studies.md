@@ -1,7 +1,7 @@
 # CLINICAL STUDIES
 
 The SPIRIVA HandiHaler (tiotropium bromide inhalation powder) clinical development program consisted of six Phase 3 studies in 2,663 patients with COPD (1,308 receiving SPIRIVA HandiHaler): two 1-year, placebo-controlled studies, two 6-month, placebo-controlled studies and two 1-year, ipratropium-controlled studies.
-These studies enrolled patients who had a clinical diagnosis of COPD, were 40 years of age or older, had a history of smoking greater than 10 pack-years, had an FEV1 less than or equal to 60 or 65% of predicted, and a ratio of FEV1/FVC of less than or equal to 0.7.
+These studies enrolled patients who had a clinical diagnosis of COPD, were 40 years of age or older, had a history of smoking greater than 10 pack-years, had an FEV1 less than or equal to 60% or 65% of predicted, and a ratio of FEV1/FVC of less than or equal to 0.7.
 
 In these studies, SPIRIVA HandiHaler, administered once-daily in the morning, provided improvement in lung function (forced expiratory volume in one second, FEV1), with peak effect occurring within 3 hours following the first dose.
 

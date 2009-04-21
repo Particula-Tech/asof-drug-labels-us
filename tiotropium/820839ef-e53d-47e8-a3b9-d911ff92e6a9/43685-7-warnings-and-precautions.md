@@ -2,7 +2,7 @@
 
 SPIRIVA HandiHaler (tiotropium bromide inhalation powder) is intended as a once-daily maintenance treatment for COPD and is not indicated for the initial treatment of acute episodes of bronchospasm, i.e., rescue therapy.
 
-Immediate hypersensitivity reactions, including angioedema, may occur after administration of SPIRIVA HandiHaler.
+Immediate hypersensitivity reactions, including angioedema (including swelling of the lips, tongue or throat), itching, and rash may occur after administration of SPIRIVA HandiHaler.
 If such a reaction occurs, therapy with SPIRIVA HandiHaler should be stopped at once and alternative treatments should be considered.
 
 Inhaled medicines, including SPIRIVA HandiHaler, may cause paradoxical bronchospasm.
@@ -14,17 +14,17 @@ If this occurs, treatment with SPIRIVA HandiHaler should be stopped and other tr
 
 As an anticholinergic drug, SPIRIVA HandiHaler (tiotropium bromide inhalation powder) may potentially worsen symptoms and signs associated with narrow-angle glaucoma, prostatic hyperplasia or bladder-neck obstruction and should be used with caution in patients with any of these conditions.
 
-As a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations,Renally-impaired Patients).
+As a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Renally-impaired Patients).
 
 ## Information for Patients
 
-It is important for patients to understand how to correctly administer SPIRIVA capsules using the HandiHaler inhalation device (see Patient’s Instructions for Use).
+It is important for patients to understand how to correctly administer SPIRIVA capsules using the HandiHaler device (see Patient’s Instructions for Use).
 SPIRIVA capsules should only be administered via the HandiHaler device and the HandiHaler device should not be used for administering other medications.
 The contents of SPIRIVA capsules are for oral inhalation only and must not be swallowed.
 
-Capsules should always be stored in sealed blisters.
-Remove only one capsule immediately before use, or its effectiveness may be reduced.
-Additional capsules that are exposed to air (i.e., not intended for immediate use) should be discarded.
+SPIRIVA capsules should always be stored in sealed blisters.
+Remove only one SPIRIVA capsule immediately before use, or its effectiveness may be reduced.
+Additional SPIRIVA capsules that are exposed to air (i.e., not intended for immediate use) should be discarded.
 
 Eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema may be signs of acute narrow-angle glaucoma.
 Should any of these signs and symptoms develop, consult a physician immediately.

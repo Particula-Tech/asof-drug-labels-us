@@ -1,11 +1,11 @@
 # ADVERSE REACTIONS
 
 Of the 2,663 patients in the four 1-year and two 6-month controlled clinical trials, 1,308 were treated with SPIRIVA HandiHaler (tiotropium bromide inhalation powder) at the recommended dose of 18 mcg once a day.
-Patients with narrow angle glaucoma, or symptomatic prostatic hypertrophy or bladder outlet obstruction were excluded from these trials.
+Patients with narrow-angle glaucoma, or symptomatic prostatic hypertrophy or bladder outlet obstruction were excluded from these trials.
 
 The most commonly reported adverse drug reaction was dry mouth.
 Dry mouth was usually mild and often resolved during continued treatment.
-Other reactions reported in individual patients and consistent with possible anticholinergic effects included constipation, increased heart rate, blurred vision, glaucoma, urinary difficulty, and urinary retention.
+Other reactions reported in individual patients and consistent with possible anticholinergic effects included constipation, increased heart rate, blurred vision, glaucoma (new onset or worsening), urinary difficulty, and urinary retention.
 
 Four multicenter, 1-year, controlled studies evaluated SPIRIVA HandiHaler in patients with COPD.
 Table 1 shows all adverse events that occurred with a frequency of ≥3% in the SPIRIVA HandiHaler group in the 1-year placebo-controlled trials where the rates in the SPIRIVA HandiHaler group exceeded placebo by ≥1%.

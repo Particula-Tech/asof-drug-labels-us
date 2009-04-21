@@ -6,11 +6,11 @@ In a study of 12 healthy volunteers, bilateral conjunctivitis and dry mouth were
 
 ## Accidental Ingestion
 
-Acute intoxication by inadvertent oral ingestion of SPIRIVA (tiotropium bromide inhalation powder) capsules is unlikely since it is not well-absorbed systemically.
+Acute intoxication by inadvertent oral ingestion of SPIRIVA capsules is unlikely since it is not well-absorbed systemically.
 
 A case of overdose has been reported from post-marketing experience.
 A female patient was reported to have inhaled 30 capsules over a 2.5 day period, and developed altered mental status, tremors, abdominal pain, and severe constipation.
-The patient was hospitalized, SPIRIVA HandiHaler was discontinued, and the constipation was treated with an enema.
+The patient was hospitalized, SPIRIVA HandiHaler (tiotropium bromide inhalation powder) was discontinued, and the constipation was treated with an enema.
 The patient recovered and was discharged on the same day.
 
 No mortality was observed at inhalation tiotropium doses up to 32.4 mg/kg in mice, 267.7 mg/kg in rats, and 0.6 mg/kg in dogs.
