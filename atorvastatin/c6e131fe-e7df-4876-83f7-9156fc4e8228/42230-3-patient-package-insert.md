@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Read the Patient Information that comes with LIPITOR before you start taking it and each time you get a refill.
 There may be new information.

@@ -83,7 +83,7 @@ Hemic and Lymphatic System: Ecchymosis, anemia, lymphadenopathy, thrombocytopeni
 
 ## Postintroduction Reports
 
-Adverse events associated with LIPITOR therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, fatigue, and tendon rupture.
+Adverse events associated with LIPITOR therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, fatigue, tendon rupture, and hepatic failure.
 
 ## Pediatric Patients (ages 10–17 years)
 
