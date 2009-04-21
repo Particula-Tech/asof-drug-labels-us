@@ -5,7 +5,7 @@
 Pregnancy Category C
 
 In animal studies, ranolazine at exposures 1.5 (rabbit) to 2 (rat) times the usual human exposure caused maternal toxicity and misshapen sternebrae and reduced ossification in offspring.
-These doses in rats and rabbits were associated with an increased maternal mortality rate [see Nonclinical Toxicology (13.2)].
+These doses in rats and rabbits were associated with an increased maternal mortality rate [see Reproductive Toxicology Studies (13.3)].
 There are no adequate well-controlled studies in pregnant women.
 Ranexa should be used during pregnancy only when the potential benefit to the patient justifies the potential risk to the fetus.
 
