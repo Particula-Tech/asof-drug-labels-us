@@ -59,20 +59,12 @@ The terminal half-life of unchanged diclofenac is approximately 2 hours.
 
 ## Special Populations
 
-### Pediatric:
+Pediatric: The pharmacokinetics of Cataflam has not been investigated in pediatric patients.
 
-The pharmacokinetics of Cataflam has not been investigated in pediatric patients.
+Race: Pharmacokinetic differences due to race have not been identified.
 
-### Race:
+Hepatic Insufficiency: Hepatic metabolism accounts for almost 100% of Cataflam elimination, so patients with hepatic disease may require reduced doses of Cataflam compared to patients with normal hepatic function.
 
-Pharmacokinetic differences due to race have not been identified.
-
-### Hepatic Insufficiency:
-
-Hepatic metabolism accounts for almost 100% of Cataflam elimination, so patients with hepatic disease may require reduced doses of Cataflam compared to patients with normal hepatic function.
-
-### Renal Insufficiency:
-
-Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
+Renal Insufficiency: Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
 No differences in the pharmacokinetics of diclofenac have been detected in studies of patients with renal impairment.
 In patients with renal impairment (inulin clearance 60-90, 30-60, and <30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects.

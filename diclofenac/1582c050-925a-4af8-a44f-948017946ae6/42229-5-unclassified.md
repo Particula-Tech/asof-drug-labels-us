@@ -1,5 +1,3 @@
-T2005-41
-
 Cataflam®
 
 (diclofenac potassium immediate-release tablets)
