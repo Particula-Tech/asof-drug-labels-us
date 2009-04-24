@@ -1,4 +1,4 @@
-Cardiovascular Risk
+# CARDIOVASCULAR RISK
 
 - NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
   This risk may increase with duration of use.
@@ -6,9 +6,9 @@ Cardiovascular Risk
   (See WARNINGS.)
 - Voltaren® (diclofenac sodium enteric-coated tablets) is contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
 
-Gastrointestinal Risk
+GASTROINTESTINAL RISK
 
 - NSAIDs cause an increased risk of serious gastrointestinal adverse events including inflammation, bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
   These events can occur at any time during use and without warning symptoms.
   Elderly patients are at greater risk for serious gastrointestinal events.
-  (See WARNINGS).
+  (See WARNINGS.)

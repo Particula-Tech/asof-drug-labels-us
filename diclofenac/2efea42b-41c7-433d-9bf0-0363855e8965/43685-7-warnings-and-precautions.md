@@ -1,5 +1,7 @@
 # WARNINGS
 
+## Cardiovascular Effects
+
 # PRECAUTIONS
 
 ## General
@@ -9,18 +11,6 @@ Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
 Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
 
 The pharmacological activity of Voltaren in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
-
-## Hepatic Effects
-
-Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including Voltaren.
-These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
-Based on this experience, in patients on chronic treatment with Voltaren, periodic monitoring of transaminases is recommended.
-(see PRECAUTIONS, Laboratory Tests).
-Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 2%-4% of patients, including marked elevations (eight or more times the upper limit of normal) in about 1% of patients in clinical trials with diclofenac.
-In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
-
-A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with Voltaren.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), Voltaren should be discontinued.
 
 ## Hematological Effects
 
@@ -54,7 +44,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy (see WARNINGS, Hepatic Effects).
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
 7. In late pregnancy, as with other NSAIDs, Voltaren should be avoided because it will cause premature closure of the ductus arteriosus.
@@ -81,7 +71,7 @@ Caution should be used when Voltaren is administered concomitantly with cyclospo
 ACE Inhibitors: Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.
 
-Furosemide: Clinical studies, as well as post-marketing observations, have shown that Voltaren can reduce the natriuretic effect of furosemide and thiazides in some patients.
+Furosemide: Clinical studies, as well as postmarketing observations, have shown that Voltaren can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 
@@ -94,7 +84,7 @@ Warfarin: The effects of warfarin and NSAIDs on GI bleeding are synergistic, suc
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C
+Teratogenic Effects: Pregnancy Category C
 
 Reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities.
 However, animal reproduction studies are not always predictive of human response.
