@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018484"
+  ],
   "inn": "alprostadil",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-3169-01",
     "0009-3169-06"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "alprostadil",
+      "name": "PROSTIN"
+    }
+  ],
   "setid": "dea460fa-d05e-4191-8461-f185a711ad89",
   "source": "dailymed"
 }
