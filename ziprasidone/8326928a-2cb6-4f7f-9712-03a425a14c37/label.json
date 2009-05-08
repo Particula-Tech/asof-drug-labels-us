@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020825",
+    "NDA020919"
+  ],
   "inn": "ziprasidone",
   "labeler": "Roerig",
   "package_ndcs": [
@@ -13,7 +16,18 @@
     "0049-3990-41",
     "0049-3990-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ziprasidone hydrochloride",
+      "name": "Geodon"
+    },
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ziprasidone mesylate",
+      "name": "Geodon"
+    }
+  ],
   "setid": "8326928a-2cb6-4f7f-9712-03a425a14c37",
   "source": "dailymed"
 }
