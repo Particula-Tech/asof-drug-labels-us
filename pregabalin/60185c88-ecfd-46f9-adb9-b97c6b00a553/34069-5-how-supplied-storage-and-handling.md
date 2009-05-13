@@ -64,4 +64,4 @@ Storage
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
 
-See FDA-Approved Patient Labeling
+See FDA-Approved Medication Guide

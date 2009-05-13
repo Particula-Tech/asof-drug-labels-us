@@ -14,4 +14,4 @@ In controlled clinical studies in over 5500 patients, 4 % of LYRICA-treated pati
 
 ## 9.3 Dependence
 
-In clinical studies, following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache or diarrhea [see Warnings and Precautions (5.7)], suggestive of physical dependence.
+In clinical studies, following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache or diarrhea [see Warnings and Precautions (5.8)], suggestive of physical dependence.

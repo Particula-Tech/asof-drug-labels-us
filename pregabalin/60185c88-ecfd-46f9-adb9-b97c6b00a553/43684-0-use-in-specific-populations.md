@@ -20,6 +20,10 @@ The no-effect dose for pre- and postnatal developmental toxicity in rats (50 mg/
 There are no adequate and well-controlled studies in pregnant women.
 LYRICA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
+To provide information regarding the effects of in utero exposure to LYRICA, physicians are advised to recommend that pregnant patients taking LYRICA enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
 ## 8.2 Labor and Delivery
 
 The effects of LYRICA on labor and delivery in pregnant women are unknown.

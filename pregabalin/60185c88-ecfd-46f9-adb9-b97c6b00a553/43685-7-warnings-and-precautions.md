@@ -21,7 +21,43 @@ LYRICA should be discontinued immediately in patients with these symptoms.
 As with all AEDs, LYRICA should be withdrawn gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
 If LYRICA is discontinued this should be done gradually over a minimum of 1 week.
 
-## 5.4 Peripheral Edema
+## 5.4 Suicidal Behavior and Ideation
+
+Antiepileptic drugs (AEDs), including LYRICA, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+
+Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
+
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| --- | --- | --- | --- | --- |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing LYRICA or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
+## 5.5 Peripheral Edema
 
 LYRICA treatment may cause peripheral edema.
 In short-term trials of patients without clinically significant heart or peripheral vascular disease, there was no apparent association between peripheral edema and cardiovascular complications such as hypertension or congestive heart failure.
@@ -39,23 +75,23 @@ As the thiazolidinedione class of antidiabetic drugs can cause weight gain and/o
 
 Because there are limited data on congestive heart failure patients with New York Heart Association (NYHA) Class III or IV cardiac status, LYRICA should be used with caution in these patients.
 
-## 5.5 Dizziness and Somnolence
+## 5.6 Dizziness and Somnolence
 
 LYRICA may cause dizziness and somnolence.
-Patients should be informed that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17.4)].
+Patients should be informed that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17.5)].
 
 In the LYRICA controlled trials, dizziness was experienced by 31% of LYRICA-treated patients compared to 9% of placebo-treated patients; somnolence was experienced by 22% of LYRICA-treated patients compared to 7% of placebo-treated patients.
 Dizziness and somnolence generally began shortly after the initiation of LYRICA therapy and occurred more frequently at higher doses.
 Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (4% each) from controlled studies.
 In LYRICA-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients.
 
-## 5.6 Weight Gain
+## 5.7 Weight Gain
 
 LYRICA treatment may cause weight gain.
 In LYRICA controlled clinical trials of up to 14 weeks, a gain of 7% or more over baseline weight was observed in 9% of LYRICA-treated patients and 2% of placebo-treated patients.
 Few patients treated with LYRICA (0.3%) withdrew from controlled trials due to weight gain.
 LYRICA associated weight gain was related to dose and duration of exposure, but did not appear to be associated with baseline BMI, gender, or age.
-Weight gain was not limited to patients with edema [see Warnings and Precautions (5.4)].
+Weight gain was not limited to patients with edema [see Warnings and Precautions (5.5)].
 
 Although weight gain was not associated with clinically important changes in blood pressure in short-term controlled studies, the long-term cardiovascular effects of LYRICA-associated weight gain are unknown.
 
@@ -64,12 +100,12 @@ In a cohort of 333 diabetic patients who received LYRICA for at least 2 years, t
 
 While the effects of LYRICA-associated weight gain on glycemic control have not been systematically assessed, in controlled and longer-term open label clinical trials with diabetic patients, LYRICA treatment did not appear to be associated with loss of glycemic control (as measured by HbA1C).
 
-## 5.7 Abrupt or Rapid Discontinuation
+## 5.8 Abrupt or Rapid Discontinuation
 
 Following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache, and diarrhea.
 LYRICA should be tapered gradually over a minimum of 1 week rather than discontinued abruptly.
 
-## 5.8 Tumorigenic Potential
+## 5.9 Tumorigenic Potential
 
 In standard preclinical in vivo lifetime carcinogenicity studies of LYRICA, an unexpectedly high incidence of hemangiosarcoma was identified in two different strains of mice [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
@@ -78,7 +114,7 @@ Clinical experience during LYRICA's premarketing development provides no direct 
 In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients >12 years of age, new or worsening-preexisting tumors were reported in 57 patients.
 Without knowledge of the background incidence and recurrence in similar populations not treated with LYRICA, it is impossible to know whether the incidence seen in these cohorts is or is not affected by treatment.
 
-## 5.9 Ophthalmological Effects
+## 5.10 Ophthalmological Effects
 
 In controlled studies, a higher proportion of patients treated with LYRICA reported blurred vision (7%) than did patients treated with placebo (2%), which resolved in a majority of cases with continued dosing.
 Less than 1% of patients discontinued LYRICA treatment due to vision-related events (primarily blurred vision).
@@ -90,9 +126,9 @@ Funduscopic changes were observed in 2% of LYRICA-treated and 2% of placebo-trea
 
 Although the clinical significance of the ophthalmologic findings is unknown, patients should be informed that if changes in vision occur, they should notify their physician.
 If visual disturbance persists, further assessment should be considered.
-More frequent assessment should be considered for patients who are already routinely monitored for ocular conditions [see Patient Counseling Information (17.7)].
+More frequent assessment should be considered for patients who are already routinely monitored for ocular conditions [see Patient Counseling Information (17.8)].
 
-## 5.10 Creatine Kinase Elevations
+## 5.11 Creatine Kinase Elevations
 
 LYRICA treatment was associated with creatine kinase elevations.
 Mean changes in creatine kinase from baseline to the maximum value were 60 U/L for LYRICA-treated patients and 28 U/L for the placebo patients.
@@ -102,7 +138,7 @@ The relationship between these myopathy events and LYRICA is not completely unde
 Prescribers should instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if these muscle symptoms are accompanied by malaise or fever.
 LYRICA treatment should be discontinued if myopathy is diagnosed or suspected or if markedly elevated creatine kinase levels occur.
 
-## 5.11 Decreased Platelet Count
+## 5.12 Decreased Platelet Count
 
 LYRICA treatment was associated with a decrease in platelet count.
 LYRICA-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/µL, compared to 11 × 103/µL in placebo patients.
@@ -110,7 +146,7 @@ In the overall database of controlled trials, 2% of placebo patients and 3% of L
 A single LYRICA treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ µL.
 In randomized controlled trials, LYRICA was not associated with an increase in bleeding-related adverse reactions.
 
-## 5.12 PR Interval Prolongation
+## 5.13 PR Interval Prolongation
 
 LYRICA treatment was associated with PR interval prolongation.
 In analyses of clinical trial ECG data, the mean PR interval increase was 3–6 msec at LYRICA doses ≥300 mg/day.

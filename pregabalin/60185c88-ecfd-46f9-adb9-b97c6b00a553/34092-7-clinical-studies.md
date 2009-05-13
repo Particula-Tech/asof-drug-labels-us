@@ -80,9 +80,9 @@ The mean duration of epilepsy was 25 years in these 3 studies and the mean and m
 Approximately half of the patients were taking 2 concurrent AEDs at baseline.
 Among the LYRICA-treated patients, 80% completed the double-blind phase of the studies.
 
-Table 6 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
+Table 7 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
 
-Table 6: Seizure Response in Controlled, Add-On Epilepsy Studies
+Table 7: Seizure Response in Controlled, Add-On Epilepsy Studies
 
 | Daily Dose of Pregabalin | Dosing Regimen | N | Baseline Seizure Frequency/mo | Median % Change from Baseline | p-value, vs. placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Responders to placebo in an initial one-week run-in phase were not randomized in
 A total of 64% of patients randomized to LYRICA completed the study.
 There was no evidence of a greater effect on pain scores of the 600 mg daily dose than the 450 mg daily dose, but there was evidence of dose-dependent adverse reactions [see Adverse Reactions (6.1)].
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
-The results are summarized in Figure 8 and Table 7.
+The results are summarized in Figure 8 and Table 8.
 
 For various degrees of improvement in pain from baseline to study endpoint, Figure 8 shows the fraction of patients achieving that degree of improvement.
 The figure is cumulative.
@@ -141,7 +141,7 @@ Some patients experienced a decrease in pain as early as Week 1, which persisted
 
 Figure 8: Patients Achieving Various Levels of Pain Relief – Fibromyalgia Study F1
 
-Table 7: Patient Global Response in Fibromyalgia Study F1
+Table 8: Patient Global Response in Fibromyalgia Study F1
 
 | Placebo | 47.6 | (40.0,55.2) |
 | --- | --- | --- |

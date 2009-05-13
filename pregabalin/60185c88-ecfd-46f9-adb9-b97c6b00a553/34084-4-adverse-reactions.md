@@ -30,10 +30,10 @@ Each of these events led to withdrawal in approximately 1% of patients.
 
 Most Common Adverse Reactions
 
-Table 2 lists all adverse reactions, regardless of causality, occurring in ≥1% of patients with neuropathic pain associated with diabetic neuropathy in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
+Table 3 lists all adverse reactions, regardless of causality, occurring in ≥1% of patients with neuropathic pain associated with diabetic neuropathy in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 2 Treatment-emergent adverse reaction incidence in controlled trials in Neuropathic Pain Associated with Diabetic Peripheral Neuropathy (Events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
+Table 3 Treatment-emergent adverse reaction incidence in controlled trials in Neuropathic Pain Associated with Diabetic Peripheral Neuropathy (Events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
 
 | Body system - Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGBPGB: pregabalin [N=979] % | Placebo [N=459] % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -83,11 +83,11 @@ Other reasons for discontinuation from the trials, occurring in greater frequenc
 
 Most Common Adverse Reactions
 
-Table 3 lists all adverse reactions, regardless of causality, occurring in ≥ 1% of patients with neuropathic pain associated with postherpetic neuralgia in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
+Table 4 lists all adverse reactions, regardless of causality, occurring in ≥ 1% of patients with neuropathic pain associated with postherpetic neuralgia in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
 In addition, an event is included, even if the incidence in the all LYRICA group is not greater than in the placebo group, if the incidence of the event in the 600 mg/day group is more than twice that in the placebo group.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 3 Treatment-emergent adverse reaction incidence in controlled trials in Neuropathic Pain Associated with Postherpetic Neuralgia (Events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
+Table 4 Treatment-emergent adverse reaction incidence in controlled trials in Neuropathic Pain Associated with Postherpetic Neuralgia (Events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
 
 | Body system - Preferred term | 75 mg/d [N=84] % | 150 mg/d [N=302] % | 300 mg/d [N=312] % | 600 mg/d [N=154] % | All PGBPGB: pregabalin [N=852] % | Placebo [N=398] % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -140,13 +140,13 @@ Other adverse reactions that led to discontinuation of at least 1% of patients i
 
 Most Common Adverse Reactions
 
-Table 4 lists all dose-related adverse reactions occurring in at least 2% of all LYRICA-treated patients.
+Table 5 lists all dose-related adverse reactions occurring in at least 2% of all LYRICA-treated patients.
 Dose-relatedness was defined as the incidence of the adverse event in the 600 mg/day group was at least 2% greater than the rate in both the placebo and 150 mg/day groups.
 In these studies, 758 patients received LYRICA and 294 patients received placebo for up to 12 weeks.
 Because patients were also treated with 1 to 3 other AEDs, it is not possible to determine whether the following adverse reactions can be ascribed to LYRICA alone, or the combination of LYRICA and other AEDs.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 4.
+Table 5.
 Dose-related treatment-emergent adverse reaction incidence in controlled trials in adjunctive therapy for adult patients with partial onset seizures (Events in at least 2% of all LYRICA-treated patients and the adverse reaction in the 600 mg/day group was ≥2% the rate in both the placebo and 150 mg/day groups
 
 |  | % | % | % | % | % |
@@ -193,10 +193,10 @@ Each of these adverse reactions led to withdrawal in approximately 1% of patient
 
 Most Common Adverse Reactions
 
-Table 5 lists all adverse reactions, regardless of causality, occurring in ≥2% of patients with fibromyalgia in the ‘all pregabalin’ treatment group for which the incidence was greater than in the placebo treatment group.
+Table 6 lists all adverse reactions, regardless of causality, occurring in ≥2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 5 Treatment-emergent adverse reaction incidence in controlled trials in Fibromyalgia (Events in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
+Table 6 Treatment-emergent adverse reaction incidence in controlled trials in Fibromyalgia (Events in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
 
 | System Organ Class - Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGBPGB: pregabalin [N=1517] % | Placebo [N=505] % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -256,7 +256,7 @@ The listing does not include those events already listed in the previous tables 
 Events are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 Events of major clinical importance are described in the Warnings and Precautions section (5).
 
-Body as a Whole –Frequent: Abdominal pain, Allergic reaction, Fever, Infrequent: Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Suicide attempt, Rare: Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock, Suicide
+Body as a Whole –Frequent: Abdominal pain, Allergic reaction, Fever, Infrequent: Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Rare: Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock
 
 Cardiovascular System –Infrequent: Deep thrombophlebitis, Heart failure, Hypotension, Postural hypotension, Retinal vascular disorder, Syncope; Rare: ST Depressed, Ventricular Fibrillation
 
