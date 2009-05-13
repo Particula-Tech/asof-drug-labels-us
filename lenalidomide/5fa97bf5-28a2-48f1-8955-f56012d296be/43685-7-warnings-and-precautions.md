@@ -4,6 +4,8 @@
 
 REVLIMID® (lenalidomide) is an analogue of thalidomide.
 Thalidomide is a known human teratogen that causes life-threatening human birth defects.
+An embryofetal development study in non-human primates indicates that lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, similar to birth defects observed in humans following exposure to thalidomide during pregnancy.
+The teratogenic effect of lenalidomide in humans cannot be ruled out.
 REVLIMID® (lenalidomide) may cause fetal harm when administered to a pregnant female.
 Females of childbearing potential should be advised to avoid pregnancy while on REVLIMID® (lenalidomide).
 Two effective contraceptive methods should be used during therapy, during therapy interruptions and for at least 4 weeks after completing therapy.
@@ -22,8 +24,7 @@ However this animal model may not adequately address the full spectrum of the po
 A pre- and post-natal development study in rats revealed few adverse effects on the offspring of female rats treated with lenalidomide at doses up to 500 mg/kg (approximately 600 times the human dose of 10 mg based on body surface area).
 The male offspring exhibited slightly delayed sexual maturation and the female offspring had slightly lower body weight gains during gestation when bred to male offspring.
 
-Reproductive effects of lenalidomide have not been thoroughly assessed.
-The structural similarity of lenalidomide to thalidomide, a known human teratogen, suggests a potential risk to the developing fetus.
+The structural similarity of lenalidomide to thalidomide, a known human teratogen, as well as malformations seen in the offspring of female monkeys administered lenalidomide during pregnancy, suggests a potential risk to the developing fetus.
 
 ## HEMATOLOGIC TOXICITY (NEUTROPENIA AND THROMBOCYTOPENIA):
 
@@ -37,7 +38,7 @@ In the 54% of patients who developed Grade 3 or 4 thrombocytopenia, the median t
 Patients on therapy for del 5q myelodysplastic syndromes should have their complete blood counts monitored weekly for the first 8 weeks of therapy and at least monthly thereafter.
 Patients may require dose interruption and/or reduction.
 Patients may require use of blood product support and/or growth factors.
-(SeeDOSAGE AND ADMINISTRATION)
+(See DOSAGE AND ADMINISTRATION)
 
 In the pooled multiple myeloma studies Grade 3 and 4 hematologic toxicities were more frequent in patients treated with the combination of REVLIMID® (lenalidomide) and dexamethasone than in patients treated with dexamethasone alone.
 (See ADVERSE REACTIONS: Table 7.)
@@ -56,14 +57,23 @@ The decision to take prophylactic measures should be done carefully after an ass
 
 # PRECAUTIONS
 
-## General
+## Angioedema, Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis
 
-No formal studies have been conducted in patients with renal impairment.
-This drug is known to be excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Angioedema and serious dermatologic reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
+These events can be fatal.
+Patients with a prior history of Grade 4 rash associated with thalidomide treatment should not receive REVLIMID® (lenalidomide).
+REVLIMID® (lenalidomide) interruption or discontinuation should be considered for Grade 2-3 skin rash.
+REVLIMID® (lenalidomide) must be discontinued for angioedema, Grade 4 rash, exfoliative or bullous rash, or if SJS or TEN is suspected, and should not be resumed following discontinuation for these reactions.
+
+## Tumor Lysis Syndrome
+
+Lenalidomide has antineoplastic activity and therefore the complications of tumor lysis syndrome may occur.
+The patients at risk of tumor lysis syndrome are those with high tumor burden prior to treatment.
+These patients should be monitored closely and appropriate precautions taken.
 
 ## Information for Patients
 
-Patients should be counseled on lenalidomide’s potential risk of teratogenicity due to its structural similarity to thalidomide.
+Patients should be counseled on lenalidomide’s potential risk of teratogenicity due to its structural similarity to thalidomide and data from an embryofetal development study showing treatment with lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy.
 Patients may only acquire a prescription for REVLIMID® (lenalidomide) therapy through a controlled distribution program (RevAssist®) through contracted pharmacies.
 Female patients of childbearing potential will be educated and counseled on the requirements of the RevAssist® program and the precautions to be taken to preclude fetal exposure to REVLIMID® (lenalidomide).
 Patients should become familiar with the REVLIMID® (lenalidomide) RevAssist® educational materials and Patient Medication Guide, and direct any questions to their physician or pharmacist prior to starting REVLIMID® (lenalidomide) therapy.
@@ -100,7 +110,7 @@ Fertility: A fertility and early embryonic development study in rats, with admin
 
 ## Pregnancy Category X: (See BOXED WARNINGS and CONTRAINDICATIONS)
 
-Because of the structural similarity to thalidomide, a known human teratogen, and the lack of sufficient information regarding lenalidomide’s teratogenic potential, REVLIMID® (lenalidomide) is contraindicated in females who are or may become pregnant and who are not using the two required types of birth control or who are not continually abstaining from reproductive heterosexual sexual intercourse.
+Because of the structural similarity to thalidomide, a known human teratogen, and the data from an embryofetal development study showing treatment with lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, REVLIMID® (lenalidomide) is contraindicated in females who are or may become pregnant and who are not using the two required types of birth control or who are not continually abstaining from reproductive heterosexual sexual intercourse.
 REVLIMID® (lenalidomide) should not be used by females who are pregnant or who could become pregnant while taking the drug.
 If pregnancy does occur during treatment, the drug should be immediately discontinued.
 Under these conditions, the patient should be referred to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
@@ -132,11 +142,7 @@ Of the 346 patients who received REVLIMID® (lenalidomide)/dexamethasone, 46% we
 In both studies, patients > 65 years of age were more likely than patients ≤ 65 years of age to experience diarrhea, fatigue, pulmonary embolism, and syncope following use of REVLIMID® (lenalidomide).
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
 
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it would be prudent to monitor renal function.
-
 ## Renal Impairment
 
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug is expected to be greater in patients with impaired renal function.
-Patients with renal insufficiency were excluded from the clinical trials, and those who developed renal insufficiency during the clinical trials had the drug held.
-Care should be taken in dose selection, and it would be prudent to monitor renal function.
+Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID® (lenalidomide) are recommended to provide appropriate drug exposure in patients with moderate or severe (CLcr < 60 mL/min) renal impairment and in patients on dialysis.
+See DOSAGE AND ADMINISTRATION.

@@ -1,4 +1,4 @@
-## Important Information and WARNINGS for All Patients Taking REVLIMID®(lenalidomide)
+## Important Information and WARNINGS for All Patients Taking REVLIMID® (lenalidomide)
 
 ### All Patients
 
@@ -43,7 +43,7 @@
   - The patient understands that if his doctor is not available, he can call 1-888-668-2528 for information on emergency contraception.
 - The patient cannot donate semen or sperm while taking REVLIMID® (lenalidomide).
 
-RevPlyPI.005/MG.005 03/07
+RevPlyPI.006/MG.006 01/09
 
 Information for patients and caregivers:
 
@@ -94,7 +94,7 @@ What is the most important information I should know about REVLIMID®?
 
 What is REVLIMID® and what is it used for?
 
-REVLIMID® is a medicine taken by mouth to treat certain patients who have myelodysplastic syndrome (MDS).
+REVLIMID® is a medicine taken by mouth to treat certain patients who have myelodysplastic syndromes (MDS).
 Patients with MDS have bone marrow that does not produce enough mature blood cells.
 This causes a lack of healthy blood cells that can function properly in the body.
 There are different types of MDS.
@@ -122,7 +122,7 @@ Who should not take REVLIMID®?
 
 - Do not take REVLIMID® if you are pregnant, plan to become pregnant, or become pregnant during REVLIMID® treatment.
   REVLIMID® may cause birth defects.
-  See“ What is the most important information I should know about REVLIMID®?”
+  See “What is the most important information I should know about REVLIMID®?”
 - Do not take REVLIMID® if you are allergic to anything in it.
   See the end of this Medication Guide for a complete list of ingredients in REVLIMID®.
 
@@ -235,4 +235,4 @@ Summit, NJ 07901
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-RevPlyMG.005 03/07
+RevPlyMG.006 01/09

@@ -1,19 +1,19 @@
 # HOW SUPPLIED
 
 REVLIMID® (lenalidomide) 5 mg, 10 mg, 15 mg and 25 mg capsules will be supplied through the RevAssist® program.
-(SeeINFORMATION FOR PATIENTS)
+(See INFORMATION FOR PATIENTS)
 
 REVLIMID® (lenalidomide) is supplied as:
 
 White opaque capsules imprinted “REV” on one half and “5 mg” on the other half in black ink:
 
-5 mg bottles of 30 (NDC 59572-405-30)
+5 mg bottles of 28 (NDC 59572-405-28)
 
 5 mg bottles of 100 (NDC 59572-405-00)
 
 Blue/green and pale yellow opaque capsules imprinted “REV” on one half and “10 mg” on the other half in black ink:
 
-10 mg bottles of 30 (NDC 59572-410-30)
+10 mg bottles of 28 (NDC 59572-410-28)
 
 10 mg bottles of 100 (NDC 59572-410-00)
 
@@ -25,7 +25,7 @@ Powder blue and white opaque capsules imprinted “REV” on one half and “15 
 
 White opaque capsules imprinted “REV” on one half and “25 mg” on the other half in black ink:
 
-25 mg bottles of 25 (NDC 59572-425-25)
+25 mg bottles of 21 (NDC 59572-425-21)
 
 25 mg bottles of 100 (NDC 59572-425-00)
 

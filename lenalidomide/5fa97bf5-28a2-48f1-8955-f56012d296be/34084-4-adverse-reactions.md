@@ -13,136 +13,136 @@ Table 4 summarizes the adverse events that were reported in ≥ 5% of the REVLIM
 Table 5 summarizes the most frequently observed Grade 3 and Grade 4 adverse reactions regardless of relationship to treatment with REVLIMID® (lenalidomide).
 In the single-arm studies conducted, it is often not possible to distinguish adverse events that are drug-related and those that reflect the patient’s underlying disease.
 
-Table 4: Summary of Adverse Events Reported in ≥ 5% of the REVLIMID® (lenalidomide) treated patients in del 5q MDS Clinical Study
+Table 4: Summary of Adverse Events Reported in ≥ 5% of the REVLIMID® (lenalidomide) Treated Patients in del 5q MDS Clinical Study
 
-| System organ class/Preferred term [a] | 10 mg Overall (N=148) |
-| --- | --- |
-| Patients with at least one adverse event | 148 (100.0) |
-| Blood and Lymphatic System Disorders |  |
-| Thrombocytopenia | 91 (61.5) |
-| Neutropenia | 87 (58.8) |
-| Anemia NOS | 17 (11.5) |
-| Leukopenia NOS | 12 (8.1) |
-| Febrile Neutropenia | 8 (5.4) |
-| Skin and Subcutaneous Tissue Disorders |  |
-| Pruritus | 62 (41.9) |
-| Rash NOS | 53 (35.8) |
-| Dry Skin | 21 (14.2) |
-| Contusion | 12 (8.1) |
-| Night Sweats | 12 (8.1) |
-| Sweating Increased | 10 (6.8) |
-| Ecchymosis | 8 (5.4) |
-| Erythema | 8 (5.4) |
-| Gastrointestinal Disorders |  |
-| Diarrhea NOS | 72 (48.6) |
-| Constipation | 35 (23.6) |
-| Nausea | 35 (23.6) |
-| Abdominal Pain NOS | 18 (12.2) |
-| Vomiting NOS | 15 (10.1) |
-| Abdominal Pain Upper | 12 (8.1) |
-| Dry Mouth | 10 (6.8) |
-| Loose Stools | 9 (6.1) |
-| Respiratory, Thoracic and Mediastinal Disorders |  |
-| Nasopharyngitis | 34 (23.0) |
-| Cough | 29 (19.6) |
-| Dyspnea NOS | 25 (16.9) |
-| Pharyngitis | 23 (15.5) |
-| Epistaxis | 22 (14.9) |
-| Dyspnea Exertional | 10 (6.8) |
-| Rhinitis NOS | 10 (6.8) |
-| Bronchitis NOS | 9 (6.1) |
-| General Disorders and Administration Site Conditions |  |
-| Fatigue | 46 (31.1) |
-| Pyrexia | 31 (20.9) |
-| Edema Peripheral | 30 (20.3) |
-| Asthenia | 22 (14.9) |
-| Edema NOS | 15 (10.1) |
-| Pain NOS | 10 (6.8) |
-| Rigors | 9 (6.1) |
-| Chest Pain | 8 (5.4) |
-| Musculoskeletal and Connective Tissue Disorders |  |
-| Arthralgia | 32 (21.6) |
-| Back Pain | 31 (20.9) |
-| Muscle Cramp | 27 (18.2) |
-| Pain in Limb | 16 (10.8) |
-| Myalgia | 13 (8.8) |
-| Peripheral Swelling | 12 (8.1) |
-| Nervous System Disorders |  |
-| Dizziness | 29 (19.6) |
-| Headache | 29 (19.6) |
-| Hypoesthesia | 10 (6.8) |
-| Dysgeusia | 9 (6.1) |
-| Peripheral Neuropathy NOS | 8 (5.4) |
-| Infections and Infestations |  |
-| Upper Respiratory Tract Infection NOS | 22 (14.9) |
-| Pneumonia NOS | 17 (11.5) |
-| Urinary Tract Infection NOS | 16 (10.8) |
-| Sinusitis NOS | 12 (8.1) |
-| Cellulitis | 8 (5.4) |
-| Metabolism and Nutrition Disorders |  |
-| Hypokalemia | 16 (10.8) |
-| Anorexia | 15 (10.1) |
-| Hypomagnesemia | 9 (6.1) |
-| Investigations |  |
-| Alanine Aminotransferase Increased | 12 (8.1) |
-| Psychiatric Disorders |  |
-| Insomnia | 15 (10.1) |
-| Depression | 8 (5.4) |
-| Vascular Disorders |  |
-| Hypertension NOS | 9 (6.1) |
-| Renal and Urinary Disorders |  |
-| Dysuria | 10 (6.8) |
-| Cardiac Disorders |  |
-| Palpitations | 8 (5.4) |
-| Endocrine Disorders |  |
-| Acquired Hypothyroidism | 10 (6.8) |
-| NOS, not otherwise specified |  |
-| [a] System organ classes and preferred terms are coded using the MedDRA dictionary. System organ classes and preferred terms are listed in descending order of frequency for the Overall column. A patient with multiple occurrences of an AE is counted only once in the AE category. |  |
+| System organ class/Preferred term [a] | 10 mg Overall (N=148) |  |
+| --- | --- | --- |
+| Patients with at least one adverse event | 148 | (100.0) |
+| Blood and Lymphatic System Disorders |  |  |
+| Thrombocytopenia | 91 | (61.5) |
+| Neutropenia | 87 | (58.8) |
+| Anemia NOS | 17 | (11.5) |
+| Leukopenia NOS | 12 | (8.1) |
+| Febrile Neutropenia | 8 | (5.4) |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Pruritus | 62 | (41.9) |
+| Rash NOS | 53 | (35.8) |
+| Dry Skin | 21 | (14.2) |
+| Contusion | 12 | (8.1) |
+| Night Sweats | 12 | (8.1) |
+| Sweating Increased | 10 | (6.8) |
+| Ecchymosis | 8 | (5.4) |
+| Erythema | 8 | (5.4) |
+| Gastrointestinal Disorders |  |  |
+| Diarrhea NOS | 72 | (48.6) |
+| Constipation | 35 | (23.6) |
+| Nausea | 35 | (23.6) |
+| Abdominal Pain NOS | 18 | (12.2) |
+| Vomiting NOS | 15 | (10.1) |
+| Abdominal Pain Upper | 12 | (8.1) |
+| Dry Mouth | 10 | (6.8) |
+| Loose Stools | 9 | (6.1) |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Nasopharyngitis | 34 | (23.0) |
+| Cough | 29 | (19.6) |
+| Dyspnea NOS | 25 | (16.9) |
+| Pharyngitis | 23 | (15.5) |
+| Epistaxis | 22 | (14.9) |
+| Dyspnea Exertional | 10 | (6.8) |
+| Rhinitis NOS | 10 | (6.8) |
+| Bronchitis NOS | 9 | (6.1) |
+| General Disorders and Administration Site Conditions |  |  |
+| Fatigue | 46 | (31.1) |
+| Pyrexia | 31 | (20.9) |
+| Edema Peripheral | 30 | (20.3) |
+| Asthenia | 22 | (14.9) |
+| Edema NOS | 15 | (10.1) |
+| Pain NOS | 10 | (6.8) |
+| Rigors | 9 | (6.1) |
+| Chest Pain | 8 | (5.4) |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Arthralgia | 32 | (21.6) |
+| Back Pain | 31 | (20.9) |
+| Muscle Cramp | 27 | (18.2) |
+| Pain in Limb | 16 | (10.8) |
+| Myalgia | 13 | (8.8) |
+| Peripheral Swelling | 12 | (8.1) |
+| Nervous System Disorders |  |  |
+| Dizziness | 29 | (19.6) |
+| Headache | 29 | (19.6) |
+| Hypoesthesia | 10 | (6.8) |
+| Dysgeusia | 9 | (6.1) |
+| Peripheral Neuropathy NOS | 8 | (5.4) |
+| Infections and Infestations |  |  |
+| Upper Respiratory Tract Infection NOS | 22 | (14.9) |
+| Pneumonia NOS | 17 | (11.5) |
+| Urinary Tract Infection NOS | 16 | (10.8) |
+| Sinusitis NOS | 12 | (8.1) |
+| Cellulitis | 8 | (5.4) |
+| Metabolism and Nutrition Disorders |  |  |
+| Hypokalemia | 16 | (10.8) |
+| Anorexia | 15 | (10.1) |
+| Hypomagnesemia | 9 | (6.1) |
+| Investigations |  |  |
+| Alanine Aminotransferase Increased | 12 | (8.1) |
+| Psychiatric Disorders |  |  |
+| Insomnia | 15 | (10.1) |
+| Depression | 8 | (5.4) |
+| Vascular Disorders |  |  |
+| Hypertension NOS | 9 | (6.1) |
+| Renal and Urinary Disorders |  |  |
+| Dysuria | 10 | (6.8) |
+| Cardiac Disorders |  |  |
+| Palpitations | 8 | (5.4) |
+| Endocrine Disorders |  |  |
+| Acquired Hypothyroidism | 10 | (6.8) |
+| NOS, not otherwise specified |  |  |
+| [a] System organ classes and preferred terms are coded using the MedDRA dictionary. System organ classes and preferred terms are listed in descending order of frequency for the Overall column. A patient with multiple occurrences of an AE is counted only once in the AE category. |  |  |
 
 Table 5: Most Frequently Observed Grade 3 and 4 Adverse Events [1] Regardless of Relationship to Study Drug Treatment
 
-| Preferred term [2] | 10 mg (N=148) |
-| --- | --- |
-| Patients with at least one Grade 3/4 AE | 131 (88.5) |
-| Neutropenia | 79 (53.4) |
-| Thrombocytopenia | 74 (50.0) |
-| Pneumonia NOS | 11 (7.4) |
-| Rash NOS | 10 (6.8) |
-| Anemia NOS | 9 (6.1) |
-| Leukopenia NOS | 8 (5.4) |
-| Fatigue | 7 (4.7) |
-| Dyspnea | 7 (4.7) |
-| Back Pain | 7 (4.7) |
-| Febrile Neutropenia | 6 (4.1) |
-| Nausea | 6 (4.1) |
-| Diarrhea NOS | 5 (3.4) |
-| Pyrexia | 5 (3.4) |
-| Sepsis | 4 (2.7) |
-| Dizziness | 4 (2.7) |
-| Granulocytopenia | 3 (2.0) |
-| Chest Pain | 3 (2.0) |
-| Pulmonary Embolism | 3 (2.0) |
-| Respiratory Distress | 3 (2.0) |
-| Pruritus | 3 (2.0) |
-| Pancytopenia | 3 (2.0) |
-| Muscle Cramp | 3 (2.0) |
-| Respiratory Tract Infection | 2 (1.4) |
-| Upper Respiratory Tract Infection | 2 (1.4) |
-| Asthenia | 2 (1.4) |
-| Multi-organ Failure | 2 (1.4) |
-| Epistaxis | 2 (1.4) |
-| Hypoxia | 2 (1.4) |
-| Pleural Effusion | 2 (1.4) |
-| Pneumonitis NOS | 2 (1.4) |
-| Pulmonary Hypertension NOS | 2 (1.4) |
-| Vomiting NOS | 2 (1.4) |
-| Sweating Increased | 2 (1.4) |
-| Arthralgia | 2 (1.4) |
-| Pain in Limb | 2 (1.4) |
-| Headache | 2 (1.4) |
-| Syncope | 2 (1.4) |
-| [1] Adverse events with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. |  |
-| [2] Preferred Terms are coded using the MedDRA dictionary. A patient with multiple occurrences of an AE is counted only once in the Preferred Term category. |  |
+| Preferred term [2] | 10 mg (N=148) |  |
+| --- | --- | --- |
+| Patients with at least one Grade 3/4 AE | 131 | (88.5) |
+| Neutropenia | 79 | (53.4) |
+| Thrombocytopenia | 74 | (50.0) |
+| Pneumonia NOS | 11 | (7.4) |
+| Rash NOS | 10 | (6.8) |
+| Anemia NOS | 9 | (6.1) |
+| Leukopenia NOS | 8 | (5.4) |
+| Fatigue | 7 | (4.7) |
+| Dyspnea | 7 | (4.7) |
+| Back Pain | 7 | (4.7) |
+| Febrile Neutropenia | 6 | (4.1) |
+| Nausea | 6 | (4.1) |
+| Diarrhea NOS | 5 | (3.4) |
+| Pyrexia | 5 | (3.4) |
+| Sepsis | 4 | (2.7) |
+| Dizziness | 4 | (2.7) |
+| Granulocytopenia | 3 | (2.0) |
+| Chest Pain | 3 | (2.0) |
+| Pulmonary Embolism | 3 | (2.0) |
+| Respiratory Distress | 3 | (2.0) |
+| Pruritus | 3 | (2.0) |
+| Pancytopenia | 3 | (2.0) |
+| Muscle Cramp | 3 | (2.0) |
+| Respiratory Tract Infection | 2 | (1.4) |
+| Upper Respiratory Tract Infection | 2 | (1.4) |
+| Asthenia | 2 | (1.4) |
+| Multi-organ Failure | 2 | (1.4) |
+| Epistaxis | 2 | (1.4) |
+| Hypoxia | 2 | (1.4) |
+| Pleural Effusion | 2 | (1.4) |
+| Pneumonitis NOS | 2 | (1.4) |
+| Pulmonary Hypertension NOS | 2 | (1.4) |
+| Vomiting NOS | 2 | (1.4) |
+| Sweating Increased | 2 | (1.4) |
+| Arthralgia | 2 | (1.4) |
+| Pain in Limb | 2 | (1.4) |
+| Headache | 2 | (1.4) |
+| Syncope | 2 | (1.4) |
+| [1] Adverse events with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. |  |  |
+| [2] Preferred Terms are coded using the MedDRA dictionary. A patient with multiple occurrences of an AE is counted only once in the Preferred Term category. |  |  |
 
 In other clinical studies of REVLIMID® (lenalidomide) in MDS patients, the following serious adverse events (regardless of relationship to study drug treatment) not described in Table 4 or 5 were reported:
 
@@ -257,48 +257,48 @@ Table 7 summarizes the Grade 3/4 adverse events reported in ≥2% of patients in
 
 Table 7: Adverse Events with NCI CTC Grades 3 and 4 Reported In At Least 2% of Patients by Preferred Term and Treatment Group – (Safety Population)
 
-|  | Revlimid/Dex (N=346) |  | Placebo/Dex (N=345) |  |
-| --- | --- | --- | --- | --- |
-|  | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
-| System organ class/ Preferred term | n (%) | n (%) | n (%) | n (%) |
-| Patients with at least one Grade 3 or 4 AE | 225 (65.0) | 25 (7.2) | 186 (53.9) | 31 (9.0) |
-| Blood and Lymphatic System Disorders |  |  |  |  |
-| Neutropenia | 60 (17.3) | 13 (3.8) | 8 (2.3) | 2 (0.6) |
-| Thrombocytopenia | 31 (9.0) | 4 (1.2) | 16 (4.6) | 3 (0.9) |
-| Anemia NOS | 25 (7.2) | 4 (1.2) | 10 (2.9) | 2 (0.6) |
-| Leukopenia NOS | 12 (3.5) | 0 (0.0) | 1 (0.3) | 0 (0.0) |
-| Lymphopenia | 8 (2.3) | 0 (0.0) | 4 (1.2) | 0 (0.0) |
-| Cardiac Disorders |  |  |  |  |
-| Atrial Fibrillation | 9 (2.6) | 1 (0.3) | 2 (0.6) | 1 (0.3) |
-| Gastrointestinal Disorders |  |  |  |  |
-| Diarrhea NOS | 8 (2.3) | 0 (0.0) | 2 (0.6) | 0 (0.0) |
-| Constipation | 7 (2.0) | 0 (0.0) | 1 (0.3) | 0 (0.0) |
-| General Disorders and Administration Site Conditions |  |  |  |  |
-| Fatigue | 20 (5.8) | 1 (0.3) | 13 (3.8) | 0 (0.0) |
-| Asthenia | 14 (4.0) | 0 (0.0) | 16 (4.6) | 0 (0.0) |
-| Pyrexia | 4 (1.2) | 0 (0.0) | 8 (2.3) | 0 (0.0) |
-| Infections and Infestations |  |  |  |  |
-| Pneumonia NOS | 18 (5.2) | 4 (1.2) | 15 (4.3) | 3 (0.9) |
-| Metabolism and Nutrition Disorders |  |  |  |  |
-| Hyperglycemia NOS | 22 (6.4) | 4 (1.2) | 19 (5.5) | 7 (2.0) |
-| Hypocalcemia | 8 (2.3) | 5 (1.4) | 4 (1.2) | 1 (0.3) |
-| Hypokalemia | 9 (2.6) | 1 (0.3) | 5 (1.4) | 0 (0.0) |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
-| Muscle Weakness NOS | 18 (5.2) | 0 (0.0) | 10 (2.9) | 0 (0.0) |
-| Nervous System Disorders |  |  |  |  |
-| Syncope | 7 (2.0) | 0 (0.0) | 3 (0.9) | 0 (0.0) |
-| Neuropathy NOS | 7 (2.0) | 0 (0.0) | 2 (0.6) | 0 (0.0) |
-| Psychiatric Disorders |  |  |  |  |
-| Depression | 9 (2.6) | 0 (0.0) | 5 (1.4) | 1 (0.3) |
-| Confusional State | 6 (1.7) | 0 (0.0) | 8 (2.3) | 0 (0.0) |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| Dyspnea NOS | 6 (1.7) | 3 (0.9) | 7 (2.0) | 1 (0.3) |
-| Vascular Disorders |  |  |  |  |
-| Deep Vein Thrombosisa | 23 (6.6) | 1 (0.3) | 9 (2.6) | 1 (0.3) |
-| Pulmonary Embolisma | 2 (0.6) | 9 (2.6) | 1 (0.3) | 2 (0.6) |
-| ª See WARNINGS |  |  |  |  |
+|  | Revlimid/Dex (N=346) |  |  |  | Placebo/Dex (N=345) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Grade 3 |  | Grade 4 |  | Grade 3 |  | Grade 4 |  |
+| System organ class/ Preferred term | n | (%) | n | (%) | n | (%) | n | (%) |
+| Patients with at least one Grade 3 or 4 AE | 225 | (65.0) | 25 | (7.2) | 186 | (53.9) | 31 | (9.0) |
+| Blood and Lymphatic System Disorders |  |  |  |  |  |  |  |  |
+| Neutropenia | 60 | (17.3) | 13 | (3.8) | 8 | (2.3) | 2 | (0.6) |
+| Thrombocytopenia | 31 | (9.0) | 4 | (1.2) | 16 | (4.6) | 3 | (0.9) |
+| Anemia NOS | 25 | (7.2) | 4 | (1.2) | 10 | (2.9) | 2 | (0.6) |
+| Leukopenia NOS | 12 | (3.5) | 0 | (0.0) | 1 | (0.3) | 0 | (0.0) |
+| Lymphopenia | 8 | (2.3) | 0 | (0.0) | 4 | (1.2) | 0 | (0.0) |
+| Cardiac Disorders |  |  |  |  |  |  |  |  |
+| Atrial Fibrillation | 9 | (2.6) | 1 | (0.3) | 2 | (0.6) | 1 | (0.3) |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |
+| Diarrhea NOS | 8 | (2.3) | 0 | (0.0) | 2 | (0.6) | 0 | (0.0) |
+| Constipation | 7 | (2.0) | 0 | (0.0) | 1 | (0.3) | 0 | (0.0) |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |  |
+| Fatigue | 20 | (5.8) | 1 | (0.3) | 13 | (3.8) | 0 | (0.0) |
+| Asthenia | 14 | (4.0) | 0 | (0.0) | 16 | (4.6) | 0 | (0.0) |
+| Pyrexia | 4 | (1.2) | 0 | (0.0) | 8 | (2.3) | 0 | (0.0) |
+| Infections and Infestations |  |  |  |  |  |  |  |  |
+| Pneumonia NOS | 18 | (5.2) | 4 | (1.2) | 15 | (4.3) | 3 | (0.9) |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |
+| Hyperglycemia NOS | 22 | (6.4) | 4 | (1.2) | 19 | (5.5) | 7 | (2.0) |
+| Hypocalcemia | 8 | (2.3) | 5 | (1.4) | 4 | (1.2) | 1 | (0.3) |
+| Hypokalemia | 9 | (2.6) | 1 | (0.3) | 5 | (1.4) | 0 | (0.0) |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |  |
+| Muscle Weakness NOS | 18 | (5.2) | 0 | (0.0) | 10 | (2.9) | 0 | (0.0) |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |
+| Syncope | 7 | (2.0) | 0 | (0.0) | 3 | (0.9) | 0 | (0.0) |
+| Neuropathy NOS | 7 | (2.0) | 0 | (0.0) | 2 | (0.6) | 0 | (0.0) |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |
+| Depression | 9 | (2.6) | 0 | (0.0) | 5 | (1.4) | 1 | (0.3) |
+| Confusional State | 6 | (1.7) | 0 | (0.0) | 8 | (2.3) | 0 | (0.0) |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |
+| Dyspnea NOS | 6 | (1.7) | 3 | (0.9) | 7 | (2.0) | 1 | (0.3) |
+| Vascular Disorders |  |  |  |  |  |  |  |  |
+| Deep Vein Thrombosisa | 23 | (6.6) | 1 | (0.3) | 9 | (2.6) | 1 | (0.3) |
+| Pulmonary Embolisma | 2 | (0.6) | 9 | (2.6) | 1 | (0.3) | 2 | (0.6) |
+| ª See WARNINGS |  |  |  |  |  |  |  |  |
 
-## Thrombotic Events (see WARNINGS)
+## Thrombotic Events (See WARNINGS)
 
 In the pooled analysis, thrombotic or thromboembolic events, including deep vein thrombosis, pulmonary embolism, thrombosis, and intracranial venous sinus thrombosis, were reported more frequently in patients treated with REVLIMID® (lenalidomide)/dexamethasone combination.
 The number of patients experiencing a thrombotic event in the combination arm were 43/346 (12%) compared with those in the placebo/dexamethasone arm 14/345 (4%).

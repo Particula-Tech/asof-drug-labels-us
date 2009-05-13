@@ -68,7 +68,7 @@ REVLIMID® (lenalidomide) should be used in females of childbearing potential on
 
 Male Patients
 
-REVLIMID®(lenalidomide) should be used in sexually active males when the PATIENT MEETS ALL OF THE FOLLOWING CONDITIONS:
+REVLIMID® (lenalidomide) should be used in sexually active males when the PATIENT MEETS ALL OF THE FOLLOWING CONDITIONS:
 
 - he understands and can reliably carry out instructions.
 - he is capable of complying with the mandatory contraceptive measures that are appropriate for men, patient registration, and patient survey as described in the RevAssist® program.

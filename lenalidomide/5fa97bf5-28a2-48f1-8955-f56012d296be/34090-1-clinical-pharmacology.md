@@ -41,9 +41,18 @@ Half‑life of elimination is approximately 3 hours.
 
 #### Special Populations:
 
-Patients with Renal Insufficiency: The pharmacokinetics of lenalidomide in MDS patients with renal dysfunction has not been determined.
-In multiple myeloma patients, those with mild renal impairment had an AUC 56% greater than those with normal renal function.
-(See PRECAUTIONS: Renal Impairment)
+Patients with Renal Insufficiency: The pharmacokinetics of lenalidomide were studied in patients with renal impairment due to nonmalignant conditions.
+In this study, 5 patients with mild renal function impairment (creatinine clearance 57-74 mL/min), 6 patients with moderate renal function impairment (creatinine clearance 33-46 mL/min), 6 patients with severe renal function impairment (creatinine clearance 17-29 mL/min), and 6 patients with end stage renal disease requiring dialysis were administered a single oral 25-mg dose of REVLIMID® (lenalidomide).
+As a control group comparator, 7 healthy subjects of similar age with normal renal function (creatinine clearance 83-145 mL/min) were also administered a single oral 25-mg dose of REVLIMID® (lenalidomide).
+As creatinine clearance decreased from mild to severe impairment, half-life increased and drug clearance decreased linearly.
+Patients with moderate and severe renal impairment had a 3-fold increase in half-life and a 66% to 75% decrease in drug clearance compared to healthy subjects.
+Patients on hemodialysis (n=6) given a single, 25-mg dose of lenalidomide had an approximate 4.5-fold increase in half-life and an 80% decrease in drug clearance compared to healthy subjects.
+Approximately 40% of the administered dose was removed from the body during a single dialysis session.
+
+Adjustment of the starting dose of REVLIMID® (lenalidomide) is recommended in patients with moderate or severe (CLcr < 60 mL/min) renal impairment and in patients on dialysis.
+See DOSAGE AND ADMINISTRATION.
+
+In multiple myeloma patients, those patients with mild renal impairment had an AUC 56% greater than those with normal renal function.
 
 Patients with Hepatic Disease: The pharmacokinetics of lenalidomide in patients with hepatic impairment have not been studied.
 

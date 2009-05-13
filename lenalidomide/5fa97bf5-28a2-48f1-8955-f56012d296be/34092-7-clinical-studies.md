@@ -14,36 +14,36 @@ Baseline patient and disease-related characteristics are summarized in Table 1.
 
 Table 1: Baseline Demographic and Disease-Related Characteristics
 
-|  | Overall (N=148) |
-| --- | --- |
-| Age (years) |  |
-| Median | 71.0 |
-| Min, Max | 37.0, 95.0 |
-| Gender | n (%) |
-| Male | 51 (34.5) |
-| Female | 97 (65.5) |
-| Race | n (%) |
-| White | 143 (96.6) |
-| Other | 5 (3.4) |
-| Duration of MDS (years) |  |
-| Median | 2.5 |
-| Min, Max | 0.1, 20.7 |
-| Del 5 (q31-33) Cytogenetic Abnormality | n (%) |
-| Yes | 148 (100.0) |
-| Other cytogenetic abnormalities | 37 (25.2) |
-| IPSS Score [a] | n (%) |
-| Low (0) | 55 (37.2) |
-| Intermediate-1 (0.5-1.0) | 65 (43.9) |
-| Intermediate-2 (1.5-2.0) | 6 (4.1) |
-| High (>=2.5) | 2 (1.4) |
-| Missing | 20 (13.5) |
-| FAB Classification [b] from central review | n (%) |
-| RA | 77 (52.0) |
-| RARS | 16 (10.8) |
-| RAEB | 30 (20.3) |
-| CMML | 3 (2.0) |
-| [a] IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score) |  |
-| [b] French-American-British (FAB) classification of MDS. |  |
+|  | Overall (N=148) |  |
+| --- | --- | --- |
+| Age (years) |  |  |
+| Median | 71.0 |  |
+| Min, Max | 37.0, 95.0 |  |
+| Gender | n | (%) |
+| Male | 51 | (34.5) |
+| Female | 97 | (65.5) |
+| Race | n | (%) |
+| White | 143 | (96.6) |
+| Other | 5 | (3.4) |
+| Duration of MDS (years) |  |  |
+| Median | 2.5 |  |
+| Min, Max | 0.1, 20.7 |  |
+| Del 5 (q31-33) Cytogenetic Abnormality | n | (%) |
+| Yes | 148 | (100.0) |
+| Other cytogenetic abnormalities | 37 | (25.2) |
+| IPSS Score [a] | n | (%) |
+| Low (0) | 55 | (37.2) |
+| Intermediate-1 (0.5-1.0) | 65 | (43.9) |
+| Intermediate-2 (1.5-2.0) | 6 | (4.1) |
+| High (≥2.5) | 2 | (1.4) |
+| Missing | 20 | (13.5) |
+| FAB Classification [b] from central review | n | (%) |
+| RA | 77 | (52.0) |
+| RARS | 16 | (10.8) |
+| RAEB | 30 | (20.3) |
+| CMML | 3 | (2.0) |
+| [a] IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score) |  |  |
+| [b] French-American-British (FAB) classification of MDS. |  |  |
 
 The frequency of RBC-transfusion independence was assessed using criteria modified from the International Working Group (IWG) response criteria for MDS.
 RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive “rolling” 56 days (8 weeks) during the treatment period.
@@ -80,7 +80,7 @@ Sequential dose reductions to 15 mg daily, 10 mg daily and 5 mg daily were allow
 Table 2 summarizes the baseline patient and disease characteristics in the two studies.
 In both studies, baseline demographic and disease-related characteristics were comparable between the REVLIMID® (lenalidomide)/dexamethasone and placebo/dexamethasone groups.
 
-Table 2 Baseline Demographic and Disease-Related Characteristics - Studies 1 and 2
+Table 2: Baseline Demographic and Disease-Related Characteristics - Studies 1 and 2
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -139,7 +139,7 @@ Table 3: Summary of Efficacy Analysis — Studies 1 and 2
 | Log-rank Test p-value 3 | <0.0001 |  | <0.0001 |  |
 | Response |  |  |  |  |
 | Complete Response (CR) n (%) | 14 (8) | 1 (1) | 14 (8) | 1 (1) |
-| Partial Responses (RR/PR) n (%) | 76 (44) | 27 (16) | 76 (43) | 33 (19) |
+| Partial Response (RR/PR) n (%) | 76 (44) | 27 (16) | 76 (43) | 33 (19) |
 | Overall Response n (%) | 90 (53) | 28 (16) | 90 (51) | 34 (19) |
 | p-value | <0.0001 |  | <0.0001 |  |
 | Odds Ratio [95% CI] | 5.5 [3.3, 9.1] |  | 4.3 [2.7, 7.0] |  |

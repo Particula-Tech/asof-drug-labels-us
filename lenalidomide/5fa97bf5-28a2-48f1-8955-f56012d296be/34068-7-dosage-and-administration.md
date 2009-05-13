@@ -84,7 +84,7 @@ Patients should not break, chew or open the capsules.
 The recommended dose of dexamethasone is 40 mg/day on Days 1‑4, 9‑12, and 17‑20 of each 28‑day cycle for the first 4 cycles of therapy and then 40 mg/day orally on Days 1‑4 every 28 days.
 Dosing is continued or modified based upon clinical and laboratory findings.
 
-The effect of substituting lesser strengths of REVLIMID®(lenalidomide) to achieve a 25 mg capsule dose is unknown.
+The effect of substituting lesser strengths of REVLIMID® (lenalidomide) to achieve a 25 mg capsule dose is unknown.
 
 ### Dose Adjustments During Treatment
 
@@ -112,6 +112,24 @@ Neutropenia
 | Return to ≥1,000/mcL and if other toxicity | Resume REVLIMID® at 15 mg daily |
 | For each subsequent drop <1,000/mcL | Interrupt REVLIMID® treatment |
 | Return to ≥1,000/mcL | Resume REVLIMID® at 5 mg less than the previous dose. Do not dose below 5 mg daily |
+
+Starting Dose Adjustment for Renal Impairment:
+
+Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID® (lenalidomide) are recommended to provide appropriate drug exposure in patients with moderate or severe renal impairment and in patients on dialysis.
+Based on a pharmacokinetic study in patients with renal impairment due to nonmalignant conditions, lenalidomide starting dose adjustment is recommended for patients with CLcr < 60 mL/min.
+Non-dialysis patients with creatinine clearances less than 11 mL/min, and dialysis patients with creatinine clearances less than 7 mL/min, have not been studied.
+The recommendations for initial starting doses for patients with multiple myeloma (MM) and myelodysplastic syndromes (MDS) are as follows:
+
+Starting Dose Adjustment for Renal Impairment
+
+| Category | Renal Function (Cockcroft-Gault CLcr) | Disease |  |
+| --- | --- | --- | --- |
+|  |  | Multiple Myeloma | Myelodysplastic Syndromes |
+| Moderate Renal Impairment | 30 ≤ CLcr < 60 mL/min | 10 mg Every 24 hours | 5 mg Every 24 hours |
+| Severe Renal Impairment | CLcr < 30 ml/min (not requiring dialysis) | 15 mg Every 48 hours | 5 mg Every 48 hours |
+| End Stage Renal Disease | CLcr < 30 mL/min (requiring dialysis) | 5 mg Once daily. On dialysis days the dose should be administered following dialysis | 5 mg 3 times a week following each dialysis |
+
+After initiation of REVLIMID® (lenalidomide) therapy, subsequent REVLIMID® (lenalidomide) dose modification should be based on individual patient treatment tolerance, as described elsewhere in this section.
 
 Other Grade 3/4 Toxicities
 

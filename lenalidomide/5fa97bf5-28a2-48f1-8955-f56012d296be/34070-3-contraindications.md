@@ -2,7 +2,7 @@
 
 ## Pregnancy Category X: (See BOXED WARNINGS)
 
-Due to its structural similarities to thalidomide, a known human teratogen, lenalidomide is contraindicated in pregnant women and women capable of becoming pregnant.
+Due to its structural similarities to thalidomide, a known human teratogen, and data from an embryofetal development study showing treatment with lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, lenalidomide is contraindicated in pregnant women and women capable of becoming pregnant.
 (See BOXED WARNINGS.)
 When there is no alternative, females of childbearing potential may be treated with lenalidomide provided adequate precautions are taken to avoid pregnancy.
 Females must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control, including at least one highly effective method (e.g., IUD, hormonal contraception, tubal ligation, or partner’s vasectomy) and one additional effective method (e.g., latex condom, diaphragm, or cervical cap), beginning 4 weeks prior to initiating treatment with REVLIMID® (lenalidomide), during therapy with REVLIMID® (lenalidomide), during therapy delay, and continuing for 4 weeks following discontinuation of REVLIMID® (lenalidomide) therapy.
