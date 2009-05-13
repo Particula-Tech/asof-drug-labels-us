@@ -1,9 +1,5 @@
-RX only
+For Oral Use
 
-Distributed by
+Rx only
 
-Pfizer Labs
-
-Division of Pfizer Inc, NY, NY 10017
-
-LAB-0212-2.0
+LAB-0212-3.0 March 2009

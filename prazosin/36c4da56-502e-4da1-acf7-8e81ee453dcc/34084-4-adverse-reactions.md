@@ -2,7 +2,7 @@
 
 Clinical trials were conducted on more than 900 patients.
 During these trials and subsequent marketing experience, the most frequent reactions associated with MINIPRESS therapy are: dizziness 10.3%, headache 7.8%, drowsiness 7.6%, lack of energy 6.9%, weakness 6.5%, palpitations 5.3%, and nausea 4.9%.
-In most instances side effects have disappeared with continued therapy or have been tolerated with no decrease in dose of drug.
+In most instances, side effects have disappeared with continued therapy or have been tolerated with no decrease in dose of drug.
 
 Less frequent adverse reactions which are reported to occur in 1–4% of patients are:
 
@@ -61,3 +61,5 @@ Skin/Appendages: urticaria.
 Vascular (Extracardiac): vasculitis.
 
 Vision: eye pain.
+
+Special Senses: During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha-1 blocker therapy (see PRECAUTIONS).

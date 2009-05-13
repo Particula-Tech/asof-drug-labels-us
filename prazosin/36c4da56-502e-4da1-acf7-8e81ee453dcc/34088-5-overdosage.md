@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Accidental ingestion of at least 50 mg of MINIPRESS (prazosin hydrochloride) in a two year old child resulted in profound drowsiness and depressed reflexes.
+Accidental ingestion of at least 50 mg of MINIPRESS in a two year old child resulted in profound drowsiness and depressed reflexes.
 No decrease in blood pressure was noted.
 Recovery was uneventful.
 

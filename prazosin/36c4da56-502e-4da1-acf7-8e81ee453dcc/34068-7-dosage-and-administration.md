@@ -5,8 +5,7 @@ The following is a guide to its administration:
 
 ## Initial Dose
 
-1 mg two or three times a day.
-(See WARNINGS.)
+1 mg two or three times a day (see WARNINGS.)
 
 ## Maintenance Dose
 

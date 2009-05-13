@@ -11,7 +11,7 @@ Hemodynamic studies have been carried out in man following acute single dose adm
 The results confirm that the therapeutic effect is a fall in blood pressure unaccompanied by a clinically significant change in cardiac output, heart rate, renal blood flow and glomerular filtration rate.
 There is no measurable negative chronotropic effect.
 
-In clinical studies to date, MINIPRESS (prazosin hydrochloride) has not increased plasma renin activity.
+In clinical studies to date, prazosin hydrochloride has not increased plasma renin activity.
 
 In man, blood pressure is lowered in both the supine and standing positions.
 This effect is most pronounced on the diastolic blood pressure.
@@ -19,7 +19,7 @@ This effect is most pronounced on the diastolic blood pressure.
 Following oral administration, human plasma concentrations reach a peak at about three hours with a plasma half-life of two to three hours.
 The drug is highly bound to plasma protein.
 Bioavailability studies have demonstrated that the total absorption relative to the drug in a 20% alcoholic solution is 90%, resulting in peak levels approximately 65% of that of the drug in solution.
-Animal studies indicate that MINIPRESS (prazosin hydrochloride) is extensively metabolized, primarily by demethylation and conjugation, and excreted mainly via bile and feces.
+Animal studies indicate that prazosin hydrochloride is extensively metabolized, primarily by demethylation and conjugation, and excreted mainly via bile and feces.
 Less extensive human studies suggest similar metabolism and excretion in man.
 
 In clinical studies in which lipid profiles were followed, there were generally no adverse changes noted between pre- and post-treatment lipid levels.

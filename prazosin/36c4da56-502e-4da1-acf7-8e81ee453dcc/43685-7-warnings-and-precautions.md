@@ -1,8 +1,8 @@
 # WARNINGS
 
-As with all alpha-blockers, MINIPRESS (prazosin hydrochloride) may cause syncope with sudden loss of consciousness.
-In most cases this is believed to be due to an excessive postural hypotensive effect, although occasionally the syncopal episode has been preceded by a bout of severe tachycardia with heart rates of 120–160 beats per minute.
-Syncopal episodes have usually occurred within 30 to 90 minutes of the initial dose of the drug; occasionally they have been reported in association with rapid dosage increases or the introduction of another antihypertensive drug into the regimen of a patient taking high doses of MINIPRESS (prazosin hydrochloride).
+As with all alpha-blockers, MINIPRESS may cause syncope with sudden loss of consciousness.
+In most cases, this is believed to be due to an excessive postural hypotensive effect, although occasionally the syncopal episode has been preceded by a bout of severe tachycardia with heart rates of 120–160 beats per minute.
+Syncopal episodes have usually occurred within 30 to 90 minutes of the initial dose of the drug; occasionally, they have been reported in association with rapid dosage increases or the introduction of another antihypertensive drug into the regimen of a patient taking high doses of MINIPRESS.
 The incidence of syncopal episodes is approximately 1% in patients given an initial dose of 2 mg or greater.
 Clinical trials conducted during the investigational phase of this drug suggest that syncopal episodes can be minimized by limiting the initial dose of the drug to 1 mg, by subsequently increasing the dosage slowly, and by introducing any additional antihypertensive drugs into the patient's regimen with caution (see DOSAGE AND ADMINISTRATION).
 Hypotension may develop in patients given MINIPRESS who are also receiving a beta-blocker such as propranolol.
@@ -10,20 +10,27 @@ Hypotension may develop in patients given MINIPRESS who are also receiving a bet
 If syncope occurs, the patient should be placed in the recumbent position and treated supportively as necessary.
 This adverse effect is self-limiting and in most cases does not recur after the initial period of therapy or during subsequent dose titration.
 
-Patients should always be started on the 1 mg capsules of MINIPRESS (prazosin hydrochloride).
+Patients should always be started on the 1 mg capsules of MINIPRESS.
 The 2 and 5 mg capsules are not indicated for initial therapy.
 
 More common than loss of consciousness are the symptoms often associated with lowering of the blood pressure, namely, dizziness and lightheadedness.
 The patient should be cautioned about these possible adverse effects and advised what measures to take should they develop.
-The patient should also be cautioned to avoid situations where injury could result should syncope occur during the initiation of MINIPRESS (prazosin hydrochloride) therapy.
+The patient should also be cautioned to avoid situations where injury could result should syncope occur during the initiation of MINIPRESS therapy.
 
 # PRECAUTIONS
 
-## Information For Patients
+## General
+
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers.
+This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
+The patient's ophthalmologist should be prepared for possible modifications to the surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+There does not appear to be a benefit of stopping alpha-1 blocker therapy prior to cataract surgery.
+
+## Information for Patients
 
 Dizziness or drowsiness may occur after the first dose of this medicine.
 Avoid driving or performing hazardous tasks for the first 24 hours after taking this medicine or when the dose is increased.
-Dizziness, lightheadedness or fainting may occur, especially when rising from a lying or sitting position.
+Dizziness, lightheadedness, or fainting may occur, especially when rising from a lying or sitting position.
 Getting up slowly may help lessen the problem.
 These effects may also occur if you drink alcohol, stand for long periods of time, exercise, or if the weather is hot.
 While taking MINIPRESS, be careful in the amount of alcohol you drink.
@@ -32,12 +39,12 @@ Check with your physician if you have any questions.
 
 ## Drug Interactions
 
-MINIPRESS (prazosin hydrochloride) has been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides–digitalis and digoxin; (2) hypoglycemics–insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives–chlordiazepoxide, diazepam, and phenobarbital; (4) antigout–allopurinol, colchicine, and probenecid; (5) antiarrhythmics–procainamide, propranolol (see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories–propoxyphene, aspirin, indomethacin, and phenylbutazone.
+MINIPRESS has been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides–digitalis and digoxin; (2) hypoglycemics–insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives–chlordiazepoxide, diazepam, and phenobarbital; (4) antigout–allopurinol, colchicine, and probenecid; (5) antiarrhythmics–procainamide, propranolol (see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories–propoxyphene, aspirin, indomethacin, and phenylbutazone.
 
 Addition of a diuretic or other antihypertensive agent to MINIPRESS has been shown to cause an additive hypotensive effect.
-This effect can be minimized by reducing the MINIPRESS dose to 1 to 2 mg three times a day, by introducing additional antihypertensive drugs cautiously and then by retitrating MINIPRESS based on clinical response.
+This effect can be minimized by reducing the MINIPRESS dose to 1 to 2 mg three times a day, by introducing additional antihypertensive drugs cautiously, and then by retitrating MINIPRESS based on clinical response.
 
-## Drug/Laboratory test Interactions
+## Drug/Laboratory Test Interactions
 
 In a study on five patients given from 12 to 24 mg of prazosin per day for 10 to 14 days, there was an average increase of 42% in the urinary metabolite of norepinephrine and an average increase in urinary VMA of 17%.
 Therefore, false positive results may occur in screening tests for pheochromocytoma in patients who are being treated with prazosin.
@@ -47,11 +54,11 @@ If an elevated VMA is found, prazosin should be discontinued and the patient ret
 
 In clinical studies in which lipid profiles were followed, there were generally no adverse changes noted between pre- and post-treatment lipid levels.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No carcinogenic potential was demonstrated in an 18 month study in rats with MINIPRESS at dose levels more than 225 times the usual maximum recommended human dose of 20 mg per day.
 MINIPRESS was not mutagenic in in vivo genetic toxicology studies.
-In a fertility and general reproductive performance study in rats, both males and females, treated with 75 mg/kg (225 times the usual maximum recommended human dose), demonstrated decreased fertility while those treated with 25 mg/kg (75 times the usual maximum recommended human dose) did not.
+In a fertility and general reproductive performance study in rats, both males and females, treated with 75 mg/kg (225 times the usual maximum recommended human dose), demonstrated decreased fertility, while those treated with 25 mg/kg (75 times the usual maximum recommended human dose) did not.
 
 In chronic studies (one year or more) of MINIPRESS in rats and dogs, testicular changes consisting of atrophy and necrosis occurred at 25 mg/kg/day (75 times the usual maximum recommended human dose).
 No testicular changes were seen in rats or dogs at 10 mg/kg/day (30 times the usual maximum recommended human dose).
@@ -62,7 +69,7 @@ In addition, 27 males on MINIPRESS for up to 51 months did not have changes in s
 
 Pregnancy Category C. MINIPRESS has been shown to be associated with decreased litter size at birth, 1, 4, and 21 days of age in rats when given doses more than 225 times the usual maximum recommended human dose.
 No evidence of drug-related external, visceral, or skeletal fetal abnormalities were observed.
-No drug-related external, visceral, or skeletal abnormalities were observed in fetuses of pregnant rabbits and pregnant monkeys at doses more than 225 times and 12 times the usual maximum recommended human dose respectively.
+No drug-related external, visceral, or skeletal abnormalities were observed in fetuses of pregnant rabbits and pregnant monkeys at doses more than 225 times and 12 times the usual maximum recommended human dose, respectively.
 
 The use of prazosin and a beta-blocker for the control of severe hypertension in 44 pregnant women revealed no drug-related fetal abnormalities or adverse effects.
 Therapy with prazosin was continued for as long as 14 weeks.1
@@ -70,7 +77,7 @@ Therapy with prazosin was continued for as long as 14 weeks.1
 Prazosin has also been used alone or in combination with other hypotensive agents in severe hypertension of pregnancy by other investigators.
 No fetal or neonatal abnormalities have been reported with the use of prazosin.2
 
-There are no adequate and well controlled studies which establish the safety of MINIPRESS (prazosin HCl) in pregnant women.
+There are no adequate and well controlled studies which establish the safety of MINIPRESS in pregnant women.
 MINIPRESS should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
 
 ## Nursing Mothers
