@@ -1,9 +1,9 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Adverse reactions seen during continuous epidural clonidine infusion are dose-dependent and typical for a compound of this pharmacologic class.
 The adverse events most frequently reported in the pivotal controlled clinical trial of continuous epidural clonidine administration consisted of hypotension, postural hypotension, decreased heart rate, rebound hypertension, dry mouth, nausea, confusion, dizziness, somnolence, and fever.
 Hypotension is the adverse event that most frequently requires treatment.
-The hypotension is usually responsive to intravenous fluids and, if necessary, parenterally-administered ephedrine.
+The hypotension is usually responsive to intravenous fluids and, if necessary, appropriate parenterally-administered pressor agents.
 Hypotension was observed more frequently in women and in lower weight patients, but no dose-related response was established.
 
 Implantable epidural catheters are associated with a risk of catheter-related infections, including meningitis and/or epidural abscess.

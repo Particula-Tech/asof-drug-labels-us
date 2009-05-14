@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Hypertension may develop early and may be followed by hypotension, bradycardia, respiratory depression, hypothermia, drowsiness, decreased or absent reflexes, irritability, and miosis.
 With large oral overdoses, reversible cardiac conduction defects or arrhythmias, apnea, coma, and seizures have been reported.

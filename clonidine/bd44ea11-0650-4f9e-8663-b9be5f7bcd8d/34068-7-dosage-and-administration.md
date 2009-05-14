@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 The recommended starting dose of Duraclon for continuous epidural infusion is 30 μg/hr.
 Although dosage may be titrated up or down depending on pain relief and occurrence of adverse events, experience with dosage rates above 40 μg/hr is limited.

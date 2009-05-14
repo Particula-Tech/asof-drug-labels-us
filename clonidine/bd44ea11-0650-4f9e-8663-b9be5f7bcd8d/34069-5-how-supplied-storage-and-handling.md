@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 NDC 66479-520-01, 100 μg/mL solution in 10 mL vials, packaged individually.
 
@@ -11,4 +11,6 @@ Discard unused portion.
 
 Duraclon® is a licensed registered trademark.
 
-Marketed by: Xanodyne® pharmaceuticals, inc. Newport, KY 41071 45632E Revised: February 2006
+Marketed by: Xanodyne® pharmaceuticals, inc. Newport, KY 41071 PI-520/521-A Revised: 04/2009
+
+To request medical information or to report suspected adverse reactions, contact Xanodyne Medical Affairs at 1-877-773-7793.

@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Duraclon is indicated in combination with opiates for the treatment of severe pain in cancer patients that is not adequately relieved by opioid analgesics alone.
 Epidural clonidine is more likely to be effective in patients with neuropathic pain than somatic or visceral pain (see Clinical Trials).

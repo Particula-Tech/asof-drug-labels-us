@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Duraclon (clonidine hydrochloride injection) is a centrally-acting analgesic solution for use in continuous epidural infusion devices.
 

@@ -34,7 +34,7 @@ Epidurally administered clonidine readily partitions into plasma via the epidura
 Following an intravenous dose of 14C-clonidine, 72% of the administered dose was excreted in urine in 96 hours of which 40-50% was unchanged clonidine.
 Renal clearance for clonidine was determined to be 133±66 mL/min.
 In a study where 14C-clonidine was given to subjects with varying degrees of kidney function, elimination half-lives varied (17.5 to 41 hours) as a function of creatinine clearance.
-In subjects undergoing hemodialysis only 5% of body clonidine stores was removed.
+In subjects undergoing hemodialysis only 5% of body clonidine stores were removed.
 
 ## Metabolism
 

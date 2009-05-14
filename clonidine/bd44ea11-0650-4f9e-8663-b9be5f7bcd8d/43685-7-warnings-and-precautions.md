@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 ## Use in Postoperative or Obstetrical Analgesia
 
@@ -51,7 +51,7 @@ If therapy is to be discontinued in patients receiving a beta-blocker and clonid
 Infections related to implantable epidural catheters pose a serious risk.
 Evaluation of fever in a patient receiving epidural clonidine should include the possibility of a catheter-related infection such as meningitis or epidural abscess.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
