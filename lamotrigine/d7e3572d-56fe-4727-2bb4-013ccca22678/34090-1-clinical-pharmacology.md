@@ -35,12 +35,8 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
-### Accumulation in Kidneys
-
 Lamotrigine was found to accumulate in the kidney of the male rat, causing chronic progressive nephrosis, necrosis, and mineralization.
 These findings are attributed to α-2 microglobulin, a species- and sex-specific protein that has not been detected in humans or other animal species.
-
-### Melanin Binding
 
 Lamotrigine binds to melanin-containing tissues, e.g., in the eye and pigmented skin.
 It has been found in the uveal tract up to 52 weeks after a single dose in rodents.
@@ -76,11 +72,11 @@ Mean* Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients With E
 | Single-dose LAMICTAL | 24 | 2.3(0.5-5.0) | 14.4(6.4-30.4) | 1.10(0.51-2.22) |
 | Multiple-dose LAMICTAL | 17 | 2.0(0.75-5.93) | 12.6(7.5-23.1) | 1.21(0.66-1.82) |
 
-*The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
+* The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.
 
-†Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
+† Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and rifampin have also been shown to increase the apparent clearance of lamotrigine (see CLINICAL PHARMACOLOGY: Drug Interactions and PRECAUTIONS: Drug Interactions).
 
 ### Absorption
@@ -173,7 +169,7 @@ Forty-three patients received concomitant therapy with other AEDs and 12 patient
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 2.
 
 Population pharmacokinetic analyses involving patients aged 2 to 18 years demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
-The oral clearanceof lamotrigine was higher, on a body weight basis, in pediatric patients than in adults.
+The oral clearance of lamotrigine was higher, on a body weight basis, in pediatric patients than in adults.
 Weight-normalized lamotrigine clearance was higher in those subjects weighing less than 30 kg, compared with those weighing greater than 30 kg.
 Accordingly, patients weighing less than 30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing more than 30 kg being administered the same AEDs (see DOSAGE AND ADMINISTRATION).
 These analyses also revealed that, after accounting for body weight, lamotrigine clearance was not significantly influenced by age.

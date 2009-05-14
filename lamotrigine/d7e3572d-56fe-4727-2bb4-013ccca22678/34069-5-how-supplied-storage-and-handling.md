@@ -22,7 +22,7 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Con
 
 LAMICTAL Chewable Dispersible Tablets, 2-mg
 
-White to off-white, round tablets debossed with “LTG” over“2”, bottles of 30 (NDC 0173-0699-00).
+White to off-white, round tablets debossed with “LTG” over “2”, bottles of 30 (NDC 0173-0699-00).
 ORDER DIRECTLY FROM GlaxoSmithKline 1-800-334-4153.
 
 LAMICTAL Chewable Dispersible Tablets, 5-mg
@@ -49,6 +49,6 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Con
 
 LAMICTAL Starter Kit for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, Rifampin, or Valproate
 
-25-mg, white, scored, shield-shaped tablets debossed with "LAMICTAL" and "25" and 100-mg, peach, scored, shield-shaped tablets debossed with "LAMICTAL" and“100”, blisterpack of 42, 25-mg tablets and 7, 100-mg tablets (NDC 0173-0594-02).
+25-mg, white, scored, shield-shaped tablets debossed with "LAMICTAL" and "25" and 100-mg, peach, scored, shield-shaped tablets debossed with "LAMICTAL" and “100”, blisterpack of 42, 25-mg tablets and 7, 100-mg tablets (NDC 0173-0594-02).
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place and protect from light.

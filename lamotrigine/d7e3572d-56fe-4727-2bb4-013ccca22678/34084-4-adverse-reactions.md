@@ -39,17 +39,17 @@ The adverse events most commonly associated with discontinuation were rash (4.4%
 
 ### Incidence in Controlled Clinical Studies of Epilepsy
 
-The prescriber should be aware that the figures in Tables 4, 5, 6, and 7 cannot be used to predict the frequency of adverse experiences in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
+The prescriber should be aware that the figures in Tables 5, 6, 7, and 8 cannot be used to predict the frequency of adverse experiences in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescriber with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.
 
 #### Incidence in Controlled Adjunctive Clinical Studies in Adults With Epilepsy
 
-Table 4 lists treatment-emergent signs and symptoms that occurred in at least 2% of adult patients with epilepsy treated with LAMICTAL in placebo-controlled trials and were numerically more common in the patients treated with LAMICTAL.
+Table 5 lists treatment-emergent signs and symptoms that occurred in at least 2% of adult patients with epilepsy treated with LAMICTAL in placebo-controlled trials and were numerically more common in the patients treated with LAMICTAL.
 In these studies, either LAMICTAL or placebo was added to the patient's current AED therapy.
 Adverse events were usually mild to moderate in intensity.
 
-Table 4.
+Table 5.
 Treatment-Emergent Adverse Event Incidence in Placebo-Controlled Adjunctive Trials in Adult Patients With Epilepsy* (Events in at least 2% of patients treated with LAMICTAL and numerically more frequent than in the placebo group.)
 
 | Body System/Adverse Experience† | Percent of Patients Receiving Adjunctive LAMICTAL(n = 711) | Percent of Patients Receiving Adjunctive Placebo(n = 419) |
@@ -60,7 +60,7 @@ Treatment-Emergent Adverse Event Incidence in Placebo-Controlled Adjunctive Tria
 | Fever | 6 | 4 |
 | Abdominal pain | 5 | 4 |
 | Neck pain | 2 | 1 |
-| Reaction aggravated(seizure exacerbation) | 2 | 1 |
+| Reaction aggravated (seizure exacerbation) | 2 | 1 |
 | Digestive |  |  |
 | Nausea | 19 | 10 |
 | Vomiting | 9 | 4 |
@@ -101,14 +101,14 @@ Treatment-Emergent Adverse Event Incidence in Placebo-Controlled Adjunctive Tria
 | Vaginitis | 4 | 1 |
 | Amenorrhea | 2 | 1 |
 
-*Patients in these adjunctive studies were receiving 1 to 3 of the following concomitant AEDs (carbamazepine, phenytoin, phenobarbital, or primidone) in addition to LAMICTAL or placebo.
+* Patients in these adjunctive studies were receiving 1 to 3 of the following concomitant AEDs (carbamazepine, phenytoin, phenobarbital, or primidone) in addition to LAMICTAL or placebo.
 Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category.
 
-†Adverse experiences reported by at least 2% of patients treated with LAMICTAL are included.
+† Adverse experiences reported by at least 2% of patients treated with LAMICTAL are included.
 
-In a randomized, parallel study comparing placebo and 300 and 500 mg/day of LAMICTAL, some of the more common drug-related adverse events were dose related (see Table 5).
+In a randomized, parallel study comparing placebo and 300 and 500 mg/day of LAMICTAL, some of the more common drug-related adverse events were dose related (see Table 6).
 
-Table 5.
+Table 6.
 Dose-Related Adverse Events From a Randomized, Placebo-Controlled Trial in Adults With Epilepsy
 
 |  | Percent of Patients Experiencing Adverse Experiences |  |  |
@@ -135,12 +135,12 @@ There was little difference between females and males in the rates of discontinu
 
 #### Incidence in a Controlled Monotherapy Trial in Adults With Partial Seizures
 
-Table 6 lists treatment-emergent signs and symptoms that occurred in at least 5% of patients with epilepsy treated with monotherapy with LAMICTAL in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
+Table 7 lists treatment-emergent signs and symptoms that occurred in at least 5% of patients with epilepsy treated with monotherapy with LAMICTAL in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
 
-Table 6.
+Table 7.
 Treatment-Emergent Adverse Event Incidence in Adults With Partial Seizures in a Controlled Monotherapy Trial* (Events in at least 5% of patients treated with LAMICTAL and numerically more frequent than in the valproate group.)
 
-| Body System/Adverse Experience† | Percent of Patients Receiving LAMICTAL Monotherapy‡(n = 43) | Percent of Patients Receiving Low-Dose Valproate§Monotherapy(n = 44) |
+| Body System/Adverse Experience† | Percent of Patients Receiving LAMICTAL Monotherapy‡(n = 43) | Percent of Patients Receiving Low-Dose Valproate§ Monotherapy(n = 44) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Pain | 5 | 0 |
@@ -162,14 +162,14 @@ Treatment-Emergent Adverse Event Incidence in Adults With Partial Seizures in a 
 | Urogenital (female patients only) | (n = 21) | (n = 28) |
 | Dysmenorrhea | 5 | 0 |
 
-*Patients in these studies were converted to LAMICTAL or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin.
+* Patients in these studies were converted to LAMICTAL or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin.
 Patients may have reported multiple adverse experiences during the study; thus, patients may be included in more than one category.
 
-†Adverse experiences reported by at least 5% of patients are included.
+† Adverse experiences reported by at least 5% of patients are included.
 
-‡Up to 500 mg/day.
+‡ Up to 500 mg/day.
 
-§1,000 mg/day.
+§ 1,000 mg/day.
 
 Adverse events that occurred with a frequency of less than 5% and greater than 2% of patients receiving LAMICTAL and numerically more frequent than placebo were:
 
@@ -187,7 +187,7 @@ Peripheral edema.
 
 ### Nervous System
 
-Amnesia, ataxia, depression, hypesthesia, libido increase, decreased reflexes, increased reflexes, nystagmus, irritability, suicidal ideation.
+Amnesia, ataxia, depression, hypesthesia, libido increase, decreased reflexes, increased reflexes, nystagmus, irritability.
 
 ### Respiratory
 
@@ -203,10 +203,10 @@ Vision abnormality.
 
 #### Incidence in Controlled Adjunctive Trials in Pediatric Patients With Epilepsy
 
-Table 7 lists adverse events that occurred in at least 2% of 339 pediatric patients with partial seizures or generalized seizures of Lennox-Gastaut syndrome, who received LAMICTAL up to 15 mg/kg per day or a maximum of 750 mg per day.
+Table 8 lists adverse events that occurred in at least 2% of 339 pediatric patients with partial seizures or generalized seizures of Lennox-Gastaut syndrome, who received LAMICTAL up to 15 mg/kg per day or a maximum of 750 mg per day.
 Reported adverse events were classified using COSTART terminology.
 
-Table 7.
+Table 8.
 Treatment-Emergent Adverse Event Incidence in Placebo-Controlled Adjunctive Trials in Pediatric Patients With Epilepsy (Events in at least 2% of patients treated with LAMICTAL and numerically more frequent than in the placebo group.)
 
 | Body System/Adverse Experience | Percent of Patients Receiving LAMICTAL(n = 168) | Percent of Patients Receiving Placebo(n = 171) |
@@ -266,18 +266,18 @@ Treatment-Emergent Adverse Event Incidence in Placebo-Controlled Adjunctive Tria
 | Male patients only | n = 93 | n = 92 |
 | Penis disorder | 2 | 0 |
 
-Bipolar Disorder: The most commonly observed (≥5%) adverse experiences seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in Bipolar Disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration, and numerically more frequent than in placebo-treated patients are included in Table 8.
+Bipolar Disorder: The most commonly observed (≥5%) adverse experiences seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in Bipolar Disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration, and numerically more frequent than in placebo-treated patients are included in Table 9.
 Adverse events that occurred in at least 5% of patients and were numerically more common during the dose escalation phase of LAMICTAL in these trials (when patients may have been receiving concomitant medications) compared to the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
 
-During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse experience.
+During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse experience.
 The adverse events which most commonly led to discontinuation of LAMICTAL were rash (3%) and mania/hypomania/mixed mood adverse events (2%).
 Approximately 16% of 2,401 patients who received LAMICTAL (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse experience; most commonly due to rash (5%) and mania/hypomania/mixed mood adverse events (2%).
 
 ### Incidence in Controlled Clinical Studies of LAMICTAL for the Maintenance Treatment of Bipolar I Disorder
 
-Table 8 lists treatment-emergent signs and symptoms that occurred in at least 5% of patients with Bipolar Disorder treated with LAMICTAL monotherapy (100 to 400 mg/day), following the discontinuation of other psychotropic drugs, in 2 double-blind, placebo-controlled trials of 18 months’ duration and were numerically more frequent than in the placebo group.
+Table 9 lists treatment-emergent signs and symptoms that occurred in at least 5% of patients with Bipolar Disorder treated with LAMICTAL monotherapy (100 to 400 mg/day), following the discontinuation of other psychotropic drugs, in 2 double-blind, placebo-controlled trials of 18 months’ duration and were numerically more frequent than in the placebo group.
 
-Table 8.
+Table 9.
 Treatment-Emergent Adverse Event Incidence in 2 Placebo-Controlled Trials in Adults With Bipolar I Disorder* (Events in at least 5% of patients treated with LAMICTAL monotherapy and numerically more frequent than in the placebo group.)
 
 | Body System/Adverse Experience† | Percent of Patients Receiving LAMICTALn = 227 | Percent of Patients Receiving Placebon = 190 |
@@ -364,7 +364,7 @@ The overall adverse event profile for LAMICTAL was similar between females and m
 LAMICTAL has been administered to 6,694 individuals for whom complete adverse event data was captured during all clinical trials, only some of which were placebo controlled.
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals having adverse events, similar types of events were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology.
-The frequencies presentedrepresent the proportion of the 6,694 individuals exposed to LAMICTAL who experienced an event of the type cited on at least one occasion while receiving LAMICTAL.
+The frequencies presented represent the proportion of the 6,694 individuals exposed to LAMICTAL who experienced an event of the type cited on at least one occasion while receiving LAMICTAL.
 All reported events are included except those already listed in the previous tables or elsewhere in the labeling, those too general to be informative, and those not reasonably associated with the use of the drug.
 
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare adverse events are those occurring in fewer than 1/1,000 patients.
@@ -395,7 +395,8 @@ Rare: Goiter and hypothyroidism.
 
 ### Hematologic and Lymphatic System
 
-Infrequent: Ecchymosis and leukopenia.Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, and thrombocytopenia.
+Infrequent: Ecchymosis and leukopenia.
+Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, and thrombocytopenia.
 
 ### Metabolic and Nutritional Disorders
 
@@ -409,7 +410,8 @@ Rare: Bursitis, joint disorder, muscle atrophy, pathological fracture, and tendi
 
 ### Nervous System
 
-Frequent: Confusion and paresthesia.Infrequent: Akathisia, apathy, aphasia, CNS depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
+Frequent: Confusion and paresthesia.
+Infrequent: Akathisia, apathy, aphasia, CNS depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
 Rare: Cerebellar syndrome, cerebrovascular accident, cerebral sinus thrombosis, choreoathetosis, CNS stimulation, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, and peripheral neuritis.
 
 ### Respiratory System
@@ -425,7 +427,8 @@ Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus,
 
 ### Urogenital System
 
-Infrequent: Abnormal ejaculation, breast pain, hematuria, impotence, menorrhagia, polyuria, urinary incontinence, and urine abnormality.Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, urinary urgency, and vaginal moniliasis.
+Infrequent: Abnormal ejaculation, breast pain, hematuria, impotence, menorrhagia, polyuria, urinary incontinence, and urine abnormality.
+Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, urinary urgency, and vaginal moniliasis.
 
 ## Postmarketing and Other Experience
 

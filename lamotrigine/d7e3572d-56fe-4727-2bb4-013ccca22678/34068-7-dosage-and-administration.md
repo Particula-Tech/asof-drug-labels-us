@@ -19,7 +19,7 @@ The effectiveness of LAMICTAL in the acute treatment of mood episodes has not be
 
 ## General Dosing Considerations for Epilepsy and Bipolar Disorder Patients
 
-The risk of nonserious rash is increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL is exceeded.
+The risk of nonserious rash is increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
 There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL with valproate, (2) exceeding the recommended initial dose of LAMICTAL, or (3) exceeding the recommended dose escalation for LAMICTAL.
 However, cases have been reported in the absence of these factors (see BOX WARNING).
 Therefore, it is important that the dosing recommendations be followed closely.
@@ -50,7 +50,7 @@ See also DOSAGE AND ADMINISTRATION: Special Populations.
 #### Starting LAMICTAL in Women Taking Oral Contraceptives
 
 Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine (see PRECAUTIONS: Drug Interactions), no adjustments to the recommended dose escalation guidelines for LAMICTAL should be necessary solely based on the use of estrogen-containing oral contraceptives.
-Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on the concomitant AED (see Table 11).
+Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on the concomitant AED (see Table 12).
 See below for adjustments to maintenance doses of LAMICTAL in women taking estrogen-containing oral contraceptives.
 
 ### Adjustments to the Maintenance Dose of LAMICTAL
@@ -58,7 +58,7 @@ See below for adjustments to maintenance doses of LAMICTAL in women taking estro
 (1) Taking Estrogen-Containing Oral Contraceptives: For women not taking carbamazepine, phenytoin, phenobarbital, primidone, or rifampin, the maintenance dose of LAMICTAL will in most cases need to be increased by as much as 2–fold over the recommended target maintenance dose, in order to maintain a consistent lamotrigine plasma level (see PRECAUTIONS: Drug Interactions).
 (2) Starting Estrogen-Containing Oral Contraceptives:In women taking a stable dose of LAMICTAL and not taking carbamazepine, phenytoin, phenobarbital, primidone, or rifampin, the maintenance dose will in most cases need to be increased by as much as 2–fold, in order to maintain a consistent lamotrigine plasma level.
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
-Dose increases should not exceed the recommended rate unless lamotrigine plasma levels or clinical response support larger increases (see Table 11, column 2).
+Dose increases should not exceed the recommended rate unless lamotrigine plasma levels or clinical response support larger increases (see Table 12, column 2).
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (“pill-free” week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
 Increased lamotrigine plasma levels could result in additional adverse events, such as dizziness, ataxia, and diplopia (see PRECAUTIONS: Drug Interactions).
 If adverse events attributable to LAMICTAL consistently occur during the “pill-free” week, dose adjustments to the overall maintenance dose may be necessary.
@@ -93,14 +93,14 @@ Because there is inadequate experience in this population, LAMICTAL should be us
 ### Adjunctive Therapy With LAMICTAL for Epilepsy
 
 This section provides specific dosing recommendations for patients 2 to 12 years of age and patients greater than 12 years of age.
-Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AED (Table 9 for patients 2 to 12 years of age and Table 11 for patients greater than 12 years of age).
-A weight-based dosing guide for pediatric patients on concomitant valproate is provided in Table 10.
+Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AED (Table 10 for patients 2 to 12 years of age and Table 12 for patients greater than 12 years of age).
+A weight-based dosing guide for pediatric patients on concomitant valproate is provided in Table 11.
 
 #### Patients 2 to 12 Years of Age
 
-Recommended dosing guidelines are summarized in Table 9.
+Recommended dosing guidelines are summarized in Table 10.
 
-Note that some of the starting doses and dose escalations listed in Table 9 are different than those used in clinical trials; however, the maintenance doses are the same as in clinical trials.
+Note that some of the starting doses and dose escalations listed in Table 10 are different than those used in clinical trials; however, the maintenance doses are the same as in clinical trials.
 Smaller starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestions that the risk of rash may be decreased by smaller starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
@@ -109,13 +109,13 @@ Maintenance doses in patients weighing less than 30 kg, regardless of age or con
 The smallest available strength of LAMICTAL Chewable Dispersible Tablets is 2 mg, and only whole tablets should be administered.
 If the calculated dose cannot be achieved using whole tablets, the dose should be rounded down to the nearest whole tablet (see HOW SUPPLIED and PATIENT INFORMATION for a description of the available sizes of LAMICTAL Chewable Dispersible Tablets).
 
-Table 9.
+Table 10.
 Escalation Regimen for LAMICTAL in Patients 2 to 12 Years of Age With Epilepsy
 
-|  | For Patients Taking Valproate (see Table 10 for weight-based dosing guide) | For Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone* or Valproate | For Patients Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone* and Not Taking Valproate |
+|  | For Patients Taking Valproate (see Table 11 for weight-based dosing guide) | For Patients Taking AEDs Other Than Carbamazepine, Phenytoin, Phenobarbital, Primidone* or Valproate | For Patients Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone* and Not Taking Valproate |
 | --- | --- | --- | --- |
-| Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 10 for weight-based dosing guide). | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet. | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet. |
-| Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 10 for weight-based dosing guide). | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet. | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet. |
+| Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 11 for weight-based dosing guide). | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet. | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet. |
+| Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 11 for weight-based dosing guide). | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet. | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet. |
 | Weeks 5 onwards to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose |
 | Usual Maintenance Dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses).1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day(maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
 | Maintenance dose in patients less than 30 kg | May need to be increased by as much as 50%, based on clinical response | May need to be increased by as much as 50%, based on clinical response | May need to be increased by as much as 50%, based on clinical response |
@@ -124,7 +124,7 @@ Note: Only whole tablets should be used for dosing
 
 * Rifampin and estrogen-containing contraceptives have also been shown to increase the apparent clearance of lamotrigine (see PRECAUTIONS: Drug Interactions).
 
-Table 10.
+Table 11.
 The Initial Weight-Based Dosing Guide for Patients 2 to 12 Years Taking Valproate (Weeks 1 to 4) With Epilepsy
 
 | If the patient’s weight is |  | Give this daily dose, using the most appropriate combination of LAMICTAL 2-mg and 5-mg tablets |  |
@@ -137,17 +137,17 @@ The Initial Weight-Based Dosing Guide for Patients 2 to 12 Years Taking Valproat
 
 #### Patients Over 12 Years of Age
 
-Recommended dosing guidelines are summarized in Table 11.
+Recommended dosing guidelines are summarized in Table 12.
 
-Table 11.
+Table 12.
 Escalation Regimen for LAMICTAL in Patients Over 12 Years of Age With Epilepsy
 
-|  | For Patients Taking Valproate | For Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone* and Not taking Valproate | For Patients Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone* and Not Taking Valproate |
+|  | For Patients Taking Valproate | For Patients Taking ADEs Other Than Carbamazepine, Phenytoin, Phenobarbital, Primidone* and Not taking Valproate | For Patients Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone* and Not Taking Valproate |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day (in 2 divided doses) |
 | Weeks 5 onwards to maintenance | Increase by 25 to 50 mg/day every 1 to 2 weeks | Increase by 50 mg/day every 1 to 2 weeks | Increase by 100 mg/day every 1 to 2 weeks. |
-| Usual Maintenance Dose | 100 to 400 mg/day(1 or 2 divided doses)100 to 200 mg/daywith valproate alone | 225 to 375 mg/day(in 2 divided doses). | 300 to 500 mg/day(in 2 divided doses). |
+| Usual Maintenance Dose | 100 to 400 mg/day(1 or 2 divided doses)100 to 200 mg/day with valproate alone | 225 to 375 mg/day(in 2 divided doses). | 300 to 500 mg/day(in 2 divided doses). |
 
 * Rifampin and estrogen-containing oral contraceptives have also been shown to increase the apparent clearance of lamotrigine (see PRECAUTIONS: Drug Interactions).
 
@@ -161,33 +161,33 @@ To avoid an increased risk of rash, the recommended initial dose and subsequent 
 
 #### Conversion From Adjunctive Therapy With Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy With LAMICTAL
 
-After achieving a dose of 500 mg/day of LAMICTAL according to the guidelines in Table 11, the concomitant AED should be withdrawn by 20% decrements each week over a 4-week period.
+After achieving a dose of 500 mg/day of LAMICTAL according to the guidelines in Table 12, the concomitant AED should be withdrawn by 20% decrements each week over a 4-week period.
 The regimen for the withdrawal of the concomitant AED is based on experience gained in the controlled monotherapy clinical trial.
 
 #### Conversion from Adjunctive Therapy With Valproate to Monotherapy With LAMICTAL
 
-The conversion regimen involves 4 steps (see Table 12).
+The conversion regimen involves 4 steps (see Table 13).
 
-Table 12.
+Table 13.
 Conversion From Adjunctive Therapy With Valproate to Monotherapy With LAMICTAL in Patients ≥16 Years of Age With Epilepsy
 
 |  | LAMICTAL | Valproate |
 | --- | --- | --- |
-| Step 1 | Achieve a dose of 200 mg/day according to guidelines in Table 11 (if not already on 200 mg/day). | Maintain previous stable dose. |
+| Step 1 | Achieve a dose of 200 mg/day according to guidelines in Table 12 (if not already on 200 mg/day). | Maintain previous stable dose. |
 | Step 2 | Maintain at 200 mg/day. | Decrease to 500 mg/day by decrements no greater than 500 mg/day per week and then maintain the dose of 500 mg/day for 1 week. |
 | Step 3 | Increase to 300 mg/day and maintain for 1 week. | Simultaneously decrease to 250 mg/day and maintain for 1 week. |
 | Step 4 | Increase by 100 mg/day every week to achieve maintenance dose of 500 mg/day. | Discontinue. |
 
-### Conversion from Adjunctive Therapy With Antiepileptic Drugs Other Than Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate to Monotherapy With LAMICTAL
+### Conversion From Adjunctive Therapy With Antiepileptic Drugs Other Than Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate to Monotherapy With LAMICTAL
 
 No specific dosing guidelines can be provided for conversion to monotherapy with LAMICTAL with AEDs other than carbamazepine, phenobarbital, phenytoin, primidone, or valproate.
 
 ### Usual Maintenance Dose for Epilepsy
 
-The usual maintenance doses identified in Tables 9-11 are derived from dosing regimens employed in the placebo-controlled adjunctive studies in which the efficacy of LAMICTAL was established.
+The usual maintenance doses identified in Tables 10-12 are derived from dosing regimens employed in the placebo-controlled adjunctive studies in which the efficacy of LAMICTAL was established.
 In patients receiving multidrug regimens employing carbamazepine, phenytoin, phenobarbital, or primidone without valproate, maintenance doses of adjunctive LAMICTAL as high as 700 mg/day have been used.
 In patients receiving valproate alone, maintenance doses of adjunctive LAMICTAL as high as 200 mg/day have been used.
-The advantage of using doses above those recommended in Tables 9-12 has not been established in controlled trials.
+The advantage of using doses above those recommended in Tables 10-13 has not been established in controlled trials.
 
 ### Discontinuation Strategy for Patients With Epilepsy
 
@@ -203,10 +203,10 @@ The goal of maintenance treatment with LAMICTAL is to delay the time to occurren
 The target dose of LAMICTAL is 200 mg/day (100 mg/day in patients taking valproate, which decreases the apparent clearance of lamotrigine, and 400 mg/day in patients not taking valproate and taking either carbamazepine, phenytoin, phenobarbital, primidone, or rifampin, which increase the apparent clearance of lamotrigine).
 In the clinical trials, doses up to 400 mg/day as monotherapy were evaluated, however, no additional benefit was seen at 400 mg/day compared to 200 mg/day (see CLINICAL STUDIES: Bipolar Disorder).
 Accordingly, doses above 200 mg/day are not recommended.
-Treatment with LAMICTAL is introduced, based on concurrent medications, according to the regimen outlined in Table 13.
+Treatment with LAMICTAL is introduced, based on concurrent medications, according to the regimen outlined in Table 14.
 If other psychotropic medications are withdrawn following stabilization, the dose of LAMICTAL should be adjusted.
-For patients discontinuing valproate, the dose of LAMICTAL should be doubled over a 2-week period in equal weekly increments (see Table 14).
-For patients discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or rifampin, the dose of LAMICTAL should remain constant for the first week and then should be decreased by half over a 2-week period in equal weekly decrements (see Table 14).
+For patients discontinuing valproate, the dose of LAMICTAL should be doubled over a 2-week period in equal weekly increments (see Table 15).
+For patients discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or rifampin, the dose of LAMICTAL should remain constant for the first week and then should be decreased by half over a 2-week period in equal weekly decrements (see Table 15).
 The dose of LAMICTAL may then be further adjusted to the target dose (200 mg) as clinically indicated.
 
 Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL (see DOSAGE AND ADMINISTRATION: Special Populations: Women and Oral Contraceptives: Adjustments to the Maintenance Dose of LAMICTAL).
@@ -216,7 +216,7 @@ In particular, the introduction of valproate requires reduction in the dose of L
 
 To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations of LAMICTAL should not be exceeded (see BOX WARNING).
 
-Table 13.
+Table 14.
 Escalation Regimen for LAMICTAL for Patients With Bipolar Disorder*
 
 |  | For Patients Taking Valproate‡ | For Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Rifampin† and Not Taking Valproate‡ | For Patients Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Rifampin† and Not Taking Valproate‡ |
@@ -233,7 +233,7 @@ Escalation Regimen for LAMICTAL for Patients With Bipolar Disorder*
 
 ‡Valproate has been shown to decrease the apparent clearance of lamotrigine.
 
-Table 14.
+Table 15.
 Adjustments to LAMICTAL Dosing for Patients With Bipolar Disorder Following Discontinuation of Psychotropic Medications*
 
 |  | Discontinuation of Psychotropic Drugs (excluding Carbamazepine, Phenytoin, Phenobarbital, Primidone, Rifampin†, or Valproate‡) | After Discontinuation of Valproate‡ | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Rifampin† |

@@ -62,6 +62,43 @@ All patients subsequently recovered with supportive care after treatment with LA
 There have been reports of blood dyscrasias that may or may not be associated with the hypersensitivity syndrome.
 These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytopenia, and, rarely, aplastic anemia and pure red cell aplasia.
 
+## Suicidal Behavior and Ideation:
+
+Antiepileptic drugs (AEDs), including LAMICTAL, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
+There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as 1 week after starting treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanism of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
+
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 3.
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+
+| Indication | Placebo Patients With Events Per 1,000 Patients | Drug Patients With Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients With Events Per 1,000 Patients |
+| --- | --- | --- | --- | --- |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing LAMICTAL or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
 ## Withdrawal Seizures
 
 As with other AEDs, LAMICTAL should not be abruptly discontinued.
@@ -92,6 +129,8 @@ Rashes associated with LAMICTAL do not appear to have unique identifying feature
 Typically, rash occurs in the first 2 to 8 weeks following treatment initiation.
 However, isolated cases have been reported after prolonged treatment (e.g., 6 months).
 Accordingly, duration of therapy cannot be relied upon as a means to predict the potential risk heralded by the first appearance of a rash.
+
+Caution should be used when treating patients with a history of allergy or rash to other antiepileptic drugs, as the frequency of nonserious rash after treatment with LAMICTAL was approximately 3 times higher in these patients than in those without such history.
 
 Although most rashes resolved even with continuation of treatment with LAMICTAL, it is not possible to predict reliably which rashes will prove to be serious or life threatening.
 ACCORDINGLY, LAMICTAL SHOULD ORDINARILY BE DISCONTINUED AT THE FIRST SIGN OF RASH, UNLESS THE RASH IS CLEARLY NOT DRUG RELATED.
@@ -132,14 +171,14 @@ Safety and effectiveness of LAMICTAL in the acute treatment of mood episodes has
 ### Children and Adolescents (less than 18 years of age)
 
 Treatment with antidepressants is associated with an increased risk of suicidal thinking and behavior in children and adolescents with major depressive disorder and other psychiatric disorders.
-It is not known whether LAMICTAL is associated with a similar risk in this population (see PRECAUTIONS: Clinical Worsening and Suicide Risk Associated With Bipolar Disorder).
+It is not known whether LAMICTAL is associated with a similar risk in this population (see WARNINGS: Suicidal Behavior and Ideation and PRECAUTIONS: Clinical Worsening and Suicide Risk Associated With Bipolar Disorder).
 
 Safety and effectiveness of LAMICTAL in patients below the age of 18 years with mood disorders have not been established.
 
 ### Clinical Worsening and Suicide Risk Associated With Bipolar Disorder
 
 Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
-Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment, or at the time of dose changes.
+Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment, or at the time of dose changes (also see WARNINGS: Suicidal Behavior and Ideation).
 
 In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults, are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment.
 
@@ -180,11 +219,20 @@ Accordingly, although there are no specific recommendations for periodic ophthal
 Prior to initiation of treatment with LAMICTAL, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 In addition, the patient should notify his or her physician if worsening of seizure control occurs.
 
+Patients, their caregivers, and families should be counseled that AEDs, including LAMICTAL, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
 Patients should be advised that LAMICTAL may cause dizziness, somnolence, and other symptoms and signs of central nervous system (CNS) depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL to gauge whether or not it adversely affects their mental and/or motor performance.
 
+Patients should be advised of the possibility of blood dyscrasias and/or acute multiorgan failure and to contact their physician immediately if they experience any signs or symptoms of these conditions (see WARNINGS: Blood Dyscrasias and Acute Multiorgan Failure).
+
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 Patients should be advised to notify their physicians if they intend to breastfeed or are breastfeeding an infant.
+
+Patients should also be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll-free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
 Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
 Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill free” week) may significantly increase lamotrigine plasma levels (see PRECAUTIONS: Drug Interactions).
@@ -192,18 +240,18 @@ Women should also be advised to promptly notify their physician if they experien
 
 Patients should be advised to notify their physician if they stop taking LAMICTAL for any reason and not to resume LAMICTAL without consulting their physician.
 
-Patients should be informed of the availability of a patient information leaflet, and they should be instructed to read the leaflet prior to taking LAMICTAL.
-See PATIENT INFORMATION at the end of this labeling for the text of the leaflet provided for patients.
+Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide prior to taking LAMICTAL.
+See PATIENT INFORMATION at the end of this labeling for the text of the Medication Guide provided for patients.
 
 ## Laboratory Tests
 
 The value of monitoring plasma concentrations of LAMICTAL has not been established.
-Because of the possible pharmacokinetic interactions between LAMICTAL and other drugs including AEDs (see Table 3), monitoring of the plasma levels of LAMICTAL and concomitant drugs may be indicated, particularly during dosage adjustments.
+Because of the possible pharmacokinetic interactions between LAMICTAL and other drugs including AEDs (see Table 4), monitoring of the plasma levels of LAMICTAL and concomitant drugs may be indicated, particularly during dosage adjustments.
 In general, clinical judgment should be exercised regarding monitoring of plasma levels of LAMICTAL and other drugs and whether or not dosage adjustments are necessary.
 
 ## Drug Interactions
 
-The net effects of drug interactions with LAMICTAL are summarized in Table 3 (see also DOSAGE AND ADMINISTRATION).
+The net effects of drug interactions with LAMICTAL are summarized in Table 4 (see also DOSAGE AND ADMINISTRATION).
 
 ### Oral Contraceptives
 
@@ -294,7 +342,7 @@ The addition of phenytoin decreases lamotrigine steady-state concentrations by a
 ### Pregabalin
 
 Steady-state trough plasma concentrations of lamotrigine were not affected by concomitant pregabalin (200 mg 3 times daily) administration.
-There are no pharmacokinetic interactions between LAMICTAL and pregabalin
+There are no pharmacokinetic interactions between LAMICTAL and pregabalin.
 
 ### Rifampin
 
@@ -328,7 +376,7 @@ Results of in vitro experiments suggest that clearance of lamotrigine is unlikel
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6 (see CLINICAL PHARMACOLOGY).
 
-Table 3.
+Table 4.
 Summary of Drug Interactions With LAMICTAL
 
 | Drug | Drug Plasma Concentration With Adjunctive LAMICTAL* | Lamotrigine Plasma Concentration With Adjunctive Drugs† |
@@ -355,7 +403,7 @@ Summary of Drug Interactions With LAMICTAL
 
 * From adjunctive clinical trials and volunteer studies.
 
-†Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteers studies.
+† Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteers studies.
 
 ‡The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, and the effect may not be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
 
@@ -424,8 +472,12 @@ Dosage adjustments may be necessary to maintain clinical response.
 
 ## Pregnancy Exposure Registry
 
-To facilitate monitoring fetal outcomes of pregnant women exposed to lamotrigine, physicians are encouraged to register patients, before fetal outcome (e.g., ultrasound, results of amniocentesis, birth, etc.) is known, and can obtain information by calling the Lamotrigine Pregnancy Registry at (800) 336-2176 (toll-free).
-Patients can enroll themselves in the North American Antiepileptic Drug Pregnancy Registry by calling (888) 233-2334 (toll-free).
+To provide information regarding the effects of in utero exposure to LAMICTAL, physicians are advised to recommend that pregnant patients taking LAMICTAL enroll in the NAAED Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+Physicians are also encouraged to register patients in the Lamotrigine Pregnancy Registry; enrollment in this registry must be done prior to any prenatal diagnostic tests and before fetal outcome is known.
+Physicians can obtain information by calling the Lamotrigine Pregnancy Registry at 1-800-336-2176 (toll-free).
 
 ## Labor and Delivery
 
