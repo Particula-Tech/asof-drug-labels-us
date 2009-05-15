@@ -165,5 +165,3 @@ There have been reports of depressed mood, agitation, changes in behavior, suici
 Smoking cessation with or without treatment is associated with nicotine withdrawal symptoms and the exacerbation of underlying psychiatric illness.
 Not all patients had known pre-existing psychiatric illness and not all had discontinued smoking.
 The role of Chantix in these reports is not known (see WARNINGS).
-
-There have been reports of hypersensitivity reactions, such as angioedema and facial swelling.
