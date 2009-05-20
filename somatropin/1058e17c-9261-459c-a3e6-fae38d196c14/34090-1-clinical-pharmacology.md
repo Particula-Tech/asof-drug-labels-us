@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Somatropin (as well as endogenous GH) binds to a dimeric GH receptor in the cell membrane of target cells resulting in intracellular signal transduction and a host of pharmacodynamic effects.
 Some of these pharmacodynamic effects are primarily mediated by IGF-I produced in the liver and also locally (e.g., skeletal growth, protein synthesis), while others are primarily a consequence of the direct effects of somatropin (e.g., lipolysis) [see Clinical Pharmacology (12.2)].

@@ -1,15 +1,28 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021148"
+  ],
   "inn": "somatropin",
-  "labeler": "Novo Nordisk Inc.",
+  "labeler": "Novo Nordisk",
   "package_ndcs": [
+    "0169-7703-11",
+    "0169-7703-91",
     "0169-7704-11",
+    "0169-7704-91",
     "0169-7705-11",
+    "0169-7705-91",
     "0169-7708-11",
+    "0169-7708-91",
     "0169-7768-11",
     "0169-7770-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "somatropin",
+      "name": "Norditropin"
+    }
+  ],
   "setid": "1058e17c-9261-459c-a3e6-fae38d196c14",
   "source": "dailymed"
 }

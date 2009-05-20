@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 For subcutaneous injection.
 
@@ -67,9 +67,9 @@ Norditropin® Cartridges 5 mg/1.5 mL and 15 mg/1.5 mL:
 Each cartridge of Norditropin must be inserted into its corresponding NordiPen delivery system.
 Instructions for delivering the dosage are provided in the NordiPen INSTRUCTION booklet.
 
-Norditropin NordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
+Norditropin NordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
 
-Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin NordiFlex prefilled pen.
+Instructions for delivering the dosage are provided in the PATIENT_INFORMATION and INSTRUCTION FOR USE leaflets enclosed with the Norditropin NordiFlex prefilled pen.
 
 Parenteral drug products should always be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Norditropin MUST NOT BE INJECTED if the solution is cloudy or contains particulate matter.

@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Norditropin Cartridges [somatropin (rDNA origin) injection] 5 mg/1.5 mL and 15 mg/1.5 mL:
 
@@ -21,13 +21,14 @@ Discard unused portion.
 After a Norditropin cartridge (15 mg/1.5 mL) has been inserted into its NordiPen delivery system (NordiPen 15), it must be stored in the pen in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
 Discard unused portion after 4 weeks.
 
-Norditropin NordiFlex prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
+Norditropin NordiFlex prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
 
-Norditropin NordiFlex is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, or 15 mg/1.5 mL prefilled pens.
+Norditropin NordiFlex is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL or 30 mg/3 mL prefilled pens.
 
 - Norditropin NordiFlex 5 mg/1.5 mL (orange) NDC 0169-7704-11
 - Norditropin NordiFlex 10 mg/1.5 mL (blue) NDC 0169-7705-11
 - Norditropin NordiFlex 15 mg/1.5 mL (green) NDC 0169-7708-11
+- Norditropin NordiFlex 30 mg/3 mL (purple) NDC 0169-7703-11
 
 Unused Norditropin NordiFlex prefilled pens must be stored at 2-8oC/36-46oF (refrigerator).
 Do not freeze.
@@ -38,9 +39,9 @@ Avoid direct light.
 After the initial injection, a Norditropin NordiFlex (5 mg/1.5 mL or 10 mg/1.5 mL) prefilled pen may be EITHER stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks OR stored for up to 3 weeks at not more than 25ºC (77ºF).
 Discard unused portion.
 
-15 mg/1.5 mL (green) prefilled pens:
+15 mg/1.5 mL (green) and 30 mg/3 mL (purple) prefilled pens:
 
-After the initial injection, a Norditropin NordiFlex 15 mg/1.5 mL prefilled pen must be stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
+After the initial injection, a Norditropin NordiFlex (15 mg/1.5 mL or 30 mg/3 mL) prefilled pen must be stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks.
 Discard unused portion after 4 weeks.
 
 Table 10 - Storage Options
@@ -51,3 +52,4 @@ Table 10 - Storage Options
 | 5 mg | 2-8 ºC/36-46 ºF Until exp date | 2-8 ºC/36-46 ºF4 weeks | Up to 25ºC/77ºF3 weeks |
 | 10 mg | 2-8 ºC/36-46 ºF4 weeks | Up to 25ºC/77ºF3 weeks |  |
 | 15 mg | 2-8 ºC/36-46 ºF4 weeks | Does Not Apply |  |
+| 30 mg | 2-8 ºC/36-46 ºF4 weeks | Does Not Apply |  |
