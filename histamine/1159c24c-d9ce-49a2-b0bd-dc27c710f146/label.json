@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "BLA103754"
+  ],
+  "inn": "histamine",
+  "labeler": "ALK-Abello, Inc.",
+  "package_ndcs": [
+    "0268-0247-05",
+    "0268-0248-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "histamine phosphate",
+      "name": "Histamine Positive"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "histamine phosphate",
+      "name": "histamine positive"
+    }
+  ],
+  "setid": "1159c24c-d9ce-49a2-b0bd-dc27c710f146",
+  "source": "dailymed"
+}
