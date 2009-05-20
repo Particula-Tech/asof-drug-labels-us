@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# Overdosage
 
 The signs and symptoms of overdosage are those of hyperthyroidism (see PRECAUTIONS and ADVERSE REACTIONS).
 In addition, confusion and disorientation may occur.
