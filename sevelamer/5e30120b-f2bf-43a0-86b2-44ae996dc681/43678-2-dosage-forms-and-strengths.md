@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+800 mg and 400 mg Tablets.
