@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA125274"
+  ],
+  "inn": "botulinum-toxin-type-a",
+  "labeler": "Medicis Pharmaceutical Corp",
+  "package_ndcs": [
+    "99207-500-01",
+    "99207-500-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "botulinum toxin type a",
+      "name": "Dysport"
+    }
+  ],
+  "setid": "195ebbc0-eaac-4015-97fd-3653b815a758",
+  "source": "dailymed"
+}
