@@ -1,0 +1,38 @@
+{
+  "application_numbers": [
+    "ANDA078250",
+    "ANDA078314"
+  ],
+  "inn": "naproxen",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-178-01",
+    "68462-178-05",
+    "68462-179-01",
+    "68462-179-05",
+    "68462-188-01",
+    "68462-188-05",
+    "68462-189-01",
+    "68462-189-05",
+    "68462-189-60",
+    "68462-190-01",
+    "68462-190-05",
+    "68462-190-30",
+    "68462-190-50",
+    "68462-190-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "naproxen",
+      "name": "Naproxen"
+    },
+    {
+      "form": "TABLET",
+      "generic": "naproxen sodium",
+      "name": "Naproxen Sodium"
+    }
+  ],
+  "setid": "6c5bb008-e66f-4ef0-bf84-aca7eb5983e9",
+  "source": "dailymed"
+}
