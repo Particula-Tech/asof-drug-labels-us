@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA077662"
+  ],
+  "inn": "gabapentin",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-126-01",
+    "68462-126-05",
+    "68462-127-01",
+    "68462-127-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "gabapentin",
+      "name": "Gabapentin"
+    }
+  ],
+  "setid": "3865a6e3-112c-490c-82ac-35401336b16e",
+  "source": "dailymed"
+}
