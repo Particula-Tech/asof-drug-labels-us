@@ -30,13 +30,12 @@ Binding of dasatinib and its active metabolite to human plasma proteins in vitro
 Dasatinib is extensively metabolized in humans, primarily by the cytochrome P450 enzyme 3A4.
 CYP3A4 was the primary enzyme responsible for the formation of the active metabolite.
 Flavin-containing monooxygenase 3 (FMO-3) and uridine diphosphate-glucuronosyltransferase (UGT) enzymes are also involved in the formation of dasatinib metabolites.
-In human liver microsomes, dasatinib was a weak time-dependent inhibitor of CYP3A4.
 
 The exposure of the active metabolite, which is equipotent to dasatinib, represents approximately 5% of the dasatinib AUC.
 This indicates that the active metabolite of dasatinib is unlikely to play a major role in the observed pharmacology of the drug.
 Dasatinib also had several other inactive oxidative metabolites.
 
-Dasatinib is a time-dependent inhibitor of CYP3A4.
+Dasatinib is a weak time-dependent inhibitor of CYP3A4.
 At clinically relevant concentrations, dasatinib does not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, or 2E1.
 Dasatinib is not an inducer of human CYP enzymes.
 
@@ -49,3 +48,13 @@ Unchanged dasatinib accounted for 0.1% and 19% of the administered dose in urine
 ### Effects of Age and Gender
 
 Pharmacokinetic analyses of demographic data indicate that there are no clinically relevant effects of age and gender on the pharmacokinetics of dasatinib.
+
+### Hepatic Impairment
+
+Dasatinib doses of 50 mg and 20 mg were evaluated in eight patients with moderate (Child-Pugh class B) and seven patients with severe (Child-Pugh class C) hepatic impairment, respectively.
+Matched controls with normal hepatic function (n=15) were also evaluated and received a dasatinib dose of 70 mg.
+Compared to subjects with normal liver function, patients with moderate hepatic impairment had decreases in dose normalized Cmax and AUC by 47% and 8%, respectively.
+Patients with severe hepatic impairment had dose normalized Cmax decreased by 43% and AUC decreased by 28% compared to the normal controls.
+
+These differences in Cmax and AUC are not clinically relevant.
+Dose adjustment is not necessary in patients with hepatic impairment.

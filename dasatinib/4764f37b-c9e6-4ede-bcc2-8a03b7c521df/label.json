@@ -1,14 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021986",
+    "NDA022072"
+  ],
   "inn": "dasatinib",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0003-0524-11",
     "0003-0527-11",
     "0003-0528-11",
-    "0003-0852-22"
+    "0003-0852-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dasatinib",
+      "name": "SPRYCEL"
+    }
+  ],
   "setid": "4764f37b-c9e6-4ede-bcc2-8a03b7c521df",
   "source": "dailymed"
 }

@@ -21,7 +21,7 @@ If antacid therapy is needed, the antacid dose should be administered at least 2
 
 H2 Antagonists/Proton Pump Inhibitors: Long-term suppression of gastric acid secretion by H2 antagonists or proton pump inhibitors (eg, famotidine and omeprazole) is likely to reduce dasatinib exposure.
 In a study of 24 healthy subjects, administration of a single 50-mg dose of SPRYCEL 10 hours following famotidine reduced the AUC and Cmax of dasatinib by 61% and 63%, respectively.
-The concomitant use of H2 antagonistsor proton pump inhibitors with SPRYCEL is not recommended.
+The concomitant use of H2 antagonists or proton pump inhibitors with SPRYCEL is not recommended.
 The use of antacids should be considered in place of H2 antagonists or proton pump inhibitors in patients receiving SPRYCEL therapy.
 
 ## 7.3 Drugs That May Have Their Plasma Concentration Altered By Dasatinib
