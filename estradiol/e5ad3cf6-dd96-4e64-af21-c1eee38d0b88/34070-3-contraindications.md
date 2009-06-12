@@ -1,4 +1,4 @@
-# Contraindications
+# CONTRAINDICATIONS
 
 The use of VAGIFEM is contraindicated in women who exhibit one or more of the following:
 

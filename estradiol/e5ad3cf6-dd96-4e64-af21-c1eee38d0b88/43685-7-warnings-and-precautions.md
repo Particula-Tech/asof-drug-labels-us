@@ -1,4 +1,4 @@
-# Warnings
+# WARNINGS
 
 1.
 Induction of malignant neoplasms.
@@ -57,9 +57,9 @@ If this occurs, the drug should be stopped and appropriate measures taken to red
 5.
 Rare Event: Trauma induced by the VAGIFEM® applicator may occur, especially in patients with severely atrophic vaginal mucosa.
 
-# Precautions
+# PRECAUTIONS
 
-## General
+## A. General Precautions
 
 1.
 A complete medical and family history should be taken prior to the initiation of any estrogen therapy.
@@ -76,9 +76,7 @@ Familial Hyperlipoproteinemia - Estrogen therapy may be associated with massive 
 Certain patients may develop undesirable manifestations of excessive estrogenic stimulation, such as abnormal or excessive uterine bleeding, mastodynia, etc.
 
 5.
-Prolonged administration of unopposed estrogen therapy has been reported to increase the risk
-
-of endometrial hyperplasia in some patients.
+Prolonged administration of unopposed estrogen therapy has been reported to increase the risk of endometrial hyperplasia in some patients.
 
 6.
 Preexisting uterine leiomyomata may increase in size during estrogen use.
@@ -107,15 +105,11 @@ After gynecological surgery, any vaginal applicator should be used with caution 
 Vaginal infection - Vaginal infection is generally more common in postmenopausal women due to the lack of normal flora seen in fertile women, especially lactobacilla; hence the subsequent higher pH.
 Vaginal infections should be treated with appropriate antimicrobial therapy before initiation of VAGIFEM therapy.
 
-## Information for patients
+## B. Information for the Patient
 
-See text of patient Package Insert which appears above (Information for the Patient).
+See text of Patient Package Insert which appears below.
 
-## Laboratory tests
-
-## Interactions
-
-### Drug/laboratory test interactions
+## C. Drug/Laboratory Test Interactions
 
 Certain endocrine and liver function tests may be affected by estrogen-containing oral contraceptives.
 The following similar changes may be expected with larger doses of estrogens:
@@ -133,9 +127,29 @@ e. Reduced serum folate concentration.
 
 f. Increased serum triglyceride and phospholipid concentration.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## D. Carcinogenesis, Mutagenesis and Impairment of Fertility
 
-Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, vagina and liver.
-(See Contraindications and Warnings)
+Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, vagina and liver (See CONTRAINDICATIONS and WARNINGS).
 
-## Pregnancy
+## E. Pregnancy Category X
+
+Estrogens are not indicated for use during pregnancy or the immediate postpartum period.
+Estrogens are ineffective for the prevention or treatment of threatened or habitual abortion.
+Treatment with diethylstilbesterol (DES) during pregnancy has been associated with an increased risk of congenital defects and cancer in the reproductive organs of the fetus, and possibly other birth defects.
+The use of DES during pregnancy has also been associated with a subsequent increased risk of breast cancer in the mothers.
+
+## F. Nursing Mothers
+
+As a general principle, administration of any drug to nursing mothers should be done only when clearly necessary since many drugs are excreted in human milk.
+In addition, estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
+Estrogens are not indicated for the prevention of postpartum breast engorgement.
+
+## G. Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+## H. Geriatric Use
+
+Clinical studies of VAGIFEM® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

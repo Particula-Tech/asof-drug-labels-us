@@ -1,4 +1,4 @@
-# How Supplied
+# HOW SUPPLIED
 
 Each VAGIFEM® (estradiol vaginal tablets), 25µg is contained in a disposable, single-use applicator, packaged in a blister pack.
 Cartons contain 8 or 18 applicators with inset tablets.
@@ -7,7 +7,7 @@ Cartons contain 8 or 18 applicators with inset tablets.
 
 18 applicators: NDC 0169-5173-04
 
-Storage: Store at 25ºC (77ºF);
+STORAGE: Store at 25ºC (77ºF);
 
 excursions permitted to 15ºC-30ºC (59ºF-86ºF).
 [See USP Controlled Room Temperature.]

@@ -1,4 +1,4 @@
-# Information for the Patient
+# PATIENT PACKAGE INSERT
 
 Introduction
 
@@ -175,7 +175,7 @@ If you want more information, ask your health care provider or pharmacist to sho
 The professional labeling is also published in a book called the “Physicians’ Desk Reference” which is available in book stores and public libraries.
 Generic drugs carry virtually the same labeling information as their brand name versions.
 
-How Supplied
+HOW SUPPLIED
 
 Each VAGIFEM® (estradiol vaginal tablets), 25µg is contained in a disposable, single-use applicator, packaged in a blister pack.
 Cartons contain 8 or 18 applicators with inset tablets.
@@ -204,3 +204,17 @@ Manufactured by
 Novo Nordisk A/S
 
 2880 Bagsvaerd, Denmark
+
+Package Label Principal Display Panel
+
+NDC 0169-5173-04
+
+Vagifem®
+
+estradiol vaginal tablets
+
+25µg
+
+18 vaginal tablets
+
+Novo Nordisk®

@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY
 
 In vivo estrogens diffuse through cell membranes, distribute throughout the cell, bind to and activate the estrogen receptors, thereby eliciting their biological effects.
 Estrogen receptors have been identified in tissue of the reproductive tract, breast, pituitary, hypothalamus, liver and bone of women.

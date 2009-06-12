@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION
 
 VAGIFEM is gently inserted into the vagina as far as it can comfortably go without force, using the supplied applicator.
 

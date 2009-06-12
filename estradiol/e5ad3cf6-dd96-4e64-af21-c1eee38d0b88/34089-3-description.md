@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 VAGIFEM® (estradiol vaginal tablets) are small, white, film-coated tablets containing 25.8µg of estradiol hemihydrate equivalent to 25µg of estradiol.
 

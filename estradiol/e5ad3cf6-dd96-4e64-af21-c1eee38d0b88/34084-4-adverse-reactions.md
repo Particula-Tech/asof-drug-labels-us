@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE EVENTS
 
 Adverse events generally have been mild: vaginal spotting, vaginal discharge, allergic reaction and skin rash.
 Adverse events with an incidence of 5% or greater are reported for two comparative trials.

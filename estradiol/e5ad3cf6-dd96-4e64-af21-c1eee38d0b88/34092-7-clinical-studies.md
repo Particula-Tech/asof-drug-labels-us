@@ -1,4 +1,4 @@
-# Clinical Studies
+# CLINICAL STUDIES
 
 A placebo-controlled comparison study was done in the U.S., in which 230 patients were randomized to receive either placebo, VAGIFEM, or 10µg estradiol vaginal tablets.
 Patients inserted one tablet intravaginally each day for 14 days, then one tablet twice weekly for the remaining 10 weeks.
@@ -39,7 +39,7 @@ Table 3: ENDOMETRIAL BIOPSY RESULTS COMPARING VAGIFEM WITH PLACEBO OVER 12 WEEKS
 
 Table 4: ENDOMETRIAL BIOPSY RESULTS COMPARING VAGIFEM TO COMPARATOR GIVEN OVER 24 WEEKS
 
-|  | VAGIFEM | Placebo |
+|  | VAGIFEM | Comparator |
 | --- | --- | --- |
 | Total Number ofPatients enrolled | 80 | 79 |
 | Patients with uterus(non- hysterectomized) | 80 | 79 |

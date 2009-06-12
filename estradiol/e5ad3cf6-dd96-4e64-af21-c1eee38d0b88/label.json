@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020908"
+  ],
   "inn": "estradiol",
-  "labeler": "Novo Nordisk Pharmaceuticals, Inc.",
+  "labeler": "Novo Nordisk",
   "package_ndcs": [
     "0169-5173-03",
-    "0169-5173-04"
+    "0169-5173-04",
+    "0169-5173-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "estradiol",
+      "name": "Vagifem"
+    }
+  ],
   "setid": "e5ad3cf6-dd96-4e64-af21-c1eee38d0b88",
   "source": "dailymed"
 }

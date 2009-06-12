@@ -1,4 +1,4 @@
-ESTROGENS HAVE BEEN REPORTED TO INCREASE THE RISK OF ENDOMETRIAL CARCINOMA.
+# ESTROGENS HAVE BEEN REPORTED TO INCREASE THE RISK OF ENDOMETRIAL CARCINOMA.
 
 Three independent, case controlled studies have reported an increased risk of endometrial cancer in post-menopausal women exposed to exogenous estrogens for more than one year.
 This risk was independent of the other known risk factors for endometrial cancer.
