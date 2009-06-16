@@ -15,13 +15,13 @@ Treatment-Emergent Adverse Events Reported by at Least 2% of Patients in 2 Contr
 
 | Adverse Event | Percent of Patients Reporting |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| TREXIMET(n = 737) | Placebo(n = 752) | Sumatriptan85 mg(n = 735) | Naproxen sodium500 mg(n = 732) |  |  |
+| TREXIMET(n = 737) | Placebo(n = 752) | Sumatriptan85 mg(n = 735) | Naproxen Sodium500 mg(n = 732) |  |  |
 | Nervous system disorders |  |  |  |  |  |
-| Dizziness Somnolence Paresthesia | 432 | 22<1 | 222 | 22<1 |  |
+| DizzinessSomnolenceParesthesia | 432 | 22<1 | 222 | 22<1 |  |
 | Gastrointestinal disorders |  |  |  |  |  |
-| Nausea Dyspepsia Dry mouth | 322 | 111 | 322 | <11<1 |  |
+| NauseaDyspepsiaDry mouth | 322 | 111 | 322 | <11<1 |  |
 | Pain and other pressure sensations |  |  |  |  |  |
-| Chest discomfort/chest pain Neck/throat/jaw pain/tightness/pressure | 33 | <11 | 23 | 11 |  |
+| Chest discomfort/chest painNeck/throat/jaw pain/tightness/pressure | 33 | <11 | 23 | 11 |  |
 | * Events that occurred at a frequency of 2% or more in the group treated with TREXIMET and that occurred more frequently in the group treated with TREXIMET than in the placebo group. |  |  |  |  |  |
 
 Other events that occurred in more than 1% of patients receiving TREXIMET and occurred at a frequency greater than the placebo group included asthenia, feeling hot, muscle tightness, and palpitations.

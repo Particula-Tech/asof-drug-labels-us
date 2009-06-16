@@ -34,7 +34,7 @@ The percentage of patients achieving initial headache pain relief within 2 hours
 Compared with placebo, there was a decreased incidence of photophobia, phonophobia, and nausea 2 hours after the administration of TREXIMET.
 The estimated probability of taking a rescue medication over the first 24 hours is shown in Figure 2.
 
-* Kaplan-Meier plot based on data obtained in the 2 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+*Kaplan-Meier plot based on data obtained in the 2 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
 Plot also includes patients who had no response to the initial dose.
 No rescue medication was allowed within 2 hours postdose.
 

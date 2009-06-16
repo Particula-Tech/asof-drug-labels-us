@@ -1,12 +1,12 @@
 # WARNINGS
 
-## Cardiovascular Risk
+Cardiovascular Risk
 
 TREXIMET may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
 This risk may increase with duration of use.
 Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS: Cardiovascular Effects).
 
-## Gastrointestinal Risk
+Gastrointestinal Risk
 
 TREXIMET contains a nonsteroidal anti-inflammatory drug (NSAID).
 NSAID-containing products cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.

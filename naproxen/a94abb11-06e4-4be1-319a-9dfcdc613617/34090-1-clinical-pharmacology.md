@@ -22,7 +22,8 @@ TREXIMET is a formulation of 85 mg of sumatriptan (as sumatriptan succinate) and
 Cmax for sumatriptan following administration of TREXIMET occurs at approximately 1 hour (median, range 0.3 to 4.0 hours).
 Cmax for naproxen following administration of TREXIMET occurs at approximately 5 hours (median, range 0.3 to 12 hours).
 The sumatriptan half-life is approximately 2 hours (15% to 43% CV) and the naproxen half-life is approximately 19 hours (13% to 15% CV).
-The mean Cmax for sumatriptan when given as TREXIMET is similar to that of sumatriptan when given as IMITREX Tablets 100 mg alone.The median sumatriptan Tmax is only slightly different (1 hour for TREXIMET and 1.5 hours for IMITREX).
+The mean Cmax for sumatriptan when given as TREXIMET is similar to that of sumatriptan when given as IMITREX Tablets 100 mg alone.
+The median sumatriptan Tmax is only slightly different (1 hour for TREXIMET and 1.5 hours for IMITREX).
 The Cmax for naproxen is approximately 36% lower, and the Tmax occurs approximately 4 hours later from TREXIMET than from ANAPROX® DS (naproxen sodium tablets) 550 mg.
 AUC values for sumatriptan and for naproxen are similar for TREXIMET compared to IMITREX or ANAPROX DS, respectively.
 In a crossover study in 16 patients, the pharmacokinetics of both components administered as TREXIMET were similar during a migraine attack and during a migraine-free period.

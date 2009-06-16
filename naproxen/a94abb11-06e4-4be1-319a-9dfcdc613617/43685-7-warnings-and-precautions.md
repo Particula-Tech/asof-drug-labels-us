@@ -28,7 +28,7 @@ In cases, however, where there has been known underlying coronary artery disease
 
 ### Cardiovascular Thrombotic Events and Fatalities Associated With Nonsteroidal Anti-inflammatory Drugs
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to 3 years of duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to 3 years' duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
 All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
 Patients with known cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
 To minimize the potential risk for an adverse cardiovascular event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
@@ -80,9 +80,9 @@ Since each TREXIMET tablet contains 61.2 mg of sodium (about 2.7 mEq/500 mg of n
 
 The development of a potentially life-threatening serotonin syndrome may occur with triptans, including treatment with TREXIMET, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
 If concomitant treatment with TREXIMET and an SSRI (e.g., fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomicinstability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea) (see PRECAUTIONS: Drug Interactions).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea) (see PRECAUTIONS: Drug Interactions).
 
-## Risk of Gastrointestinal Ulceration, Bleeding, and Perforation With Nonsteroidal Anti-inflammatory Drug Therapy:
+## Risk of Gastrointestinal Ulceration, Bleeding, and Perforation With Nonsteroidal Anti-inflammatory Drug Therapy
 
 TREXIMET contains an NSAID.
 NSAID-containing products can cause serious gastrointestinal adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
@@ -179,6 +179,11 @@ Notable (3 times the upper limit of normal) elevations of SGPT (ALT) or SGOT (AS
 In addition, cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis, and hepatic failure, some of them with fatal outcomes, have been reported with NSAIDs.
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TREXIMET.
 If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash), TREXIMET should be discontinued.
+
+## Overuse
+
+Overuse of acute migraine treatments has been associated with the exacerbation of headache (medication overuse headache) in susceptible patients.
+Withdrawal of the treatment may be necessary.
 
 ## Binding to Melanin-Containing Tissues
 
@@ -322,8 +327,8 @@ Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (
 
 The carcinogenic potential of TREXIMET has not been studied.
 
-The carcinogenic potential of sumatriptan was evaluated in oral carcinogenicity studies in mice (78 weeks)and rats (104 weeks).
-The highest dose administered to mice and rats (160 mg/kg/day) is approximately 9 and 18 times, respectively, the recommended human oral daily dose of 85 mg sumatriptan on a mg/m2 basis.
+The carcinogenic potential of sumatriptan was evaluated in oral carcinogenicity studies in mice (78 weeks) and rats (104 weeks).
+The highest dose administered to mice and rats (160 mg/kg/day) is approximately 9 and 18 times, respectively, the recommended human oral daily dose of 85 mg sumatriptan on a mg/m basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.
 
 The carcinogenic potential of naproxen sodium was evaluated in a 2-year oral carcinogenicity study in rats at doses of 8, 16, and 24 mg/kg/day and in another 2-year oral carcinogenicity study in rats at a dose of 8 mg/kg/day.

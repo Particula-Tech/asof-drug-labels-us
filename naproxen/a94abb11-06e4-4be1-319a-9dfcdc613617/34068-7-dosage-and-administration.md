@@ -3,7 +3,7 @@
 TREXIMET is a fixed combination containing doses of sumatriptan (85 mg) and naproxen sodium (500 mg) within the approved dosage ranges of the individual components (25 to 100 mg of sumatriptan and 220 to 825 mg of naproxen sodium).
 TREXIMET contains a dose of sumatriptan higher than the lowest effective dose.
 Individuals may vary in response to doses of sumatriptan.
-The choice of the dose of sumatriptan, and of the use of a fixed dose combination such as in TREXIMET should therefore be made on an individual basis, weighing the possible benefit of a higher dose of sumatriptan with the potential for a greater risk of adverse events.
+The choice of the dose of sumatriptan, and of the use of a fixed combination such as in TREXIMET should therefore be made on an individual basis, weighing the possible benefit of a higher dose of sumatriptan with the potential for a greater risk of adverse events.
 Carefully consider the potential benefits and risks of TREXIMET and other treatment options when deciding to use TREXIMET.
 
 The recommended dose is 1 tablet.
