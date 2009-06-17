@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-AZOR™.
-AZOR™ is a combination of two antihypertensive drugs: a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker), amlodipine besylate, and an angiotensin II receptor blocker, olmesartan medoxomil.
-The amlodipine component of AZOR™ inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle, and the olmesartan medoxomil component of AZOR™ blocks the vasoconstrictor effects of angiotensin II.
+Azor.
+Azor is a combination of two antihypertensive drugs: a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker), amlodipine besylate, and an angiotensin II receptor blocker, olmesartan medoxomil.
+The amlodipine component of Azor inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle, and the olmesartan medoxomil component of Azor blocks the vasoconstrictor effects of angiotensin II.
 
 Amlodipine.
 Experimental data suggests that amlodipine binds to both dihydropyridine and nonhydropyridine binding sites.
@@ -61,7 +61,7 @@ Repeated administration of up to 80 mg olmesartan medoxomil had minimal influenc
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of amlodipine and olmesartan medoxomil from AZOR™ are equivalent to the pharmacokinetics of amlodipine and olmesartan medoxomil when administered separately.
+The pharmacokinetics of amlodipine and olmesartan medoxomil from Azor are equivalent to the pharmacokinetics of amlodipine and olmesartan medoxomil when administered separately.
 The bioavailability of both components is well below 100%, but neither component is affected by food.
 The effective half-lives of amlodipine (45±11 hours) and olmesartan (7±1 hours) result in a 2- to 3- fold accumulation for amlodipine and negligible accumulation for olmesartan with once-daily dosing.
 
@@ -107,7 +107,7 @@ Steady-state levels of olmesartan are achieved within 3 to 5 days and no accumul
 
 Geriatric
 
-The pharmacokinetic properties of AZOR™ in the elderly are similar to those of the individual components.
+The pharmacokinetic properties of Azor in the elderly are similar to those of the individual components.
 
 Amlodipine.
 Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%, and a lower initial dose may be required.
@@ -145,6 +145,7 @@ Olmesartan medoxomil.
 In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 The pharmacokinetics of olmesartan medoxomil in patients undergoing hemodialysis has not been studied.
+No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min).
 
 Hepatic Insufficiency
 

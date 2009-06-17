@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-There is no information on overdosage with AZOR™ in humans.
+There is no information on overdosage with Azor in humans.
 
 Amlodipine.
 Single oral doses of amlodipine maleate equivalent to 40 mg amlodipine/kg and 100 mg amlodipine/kg in mice and rats, respectively, caused deaths.

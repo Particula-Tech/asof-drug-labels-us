@@ -1,10 +1,10 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drug Interactions with AZOR™
+## 7.1 Drug Interactions with Azor
 
 The pharmacokinetics of amlodipine and olmesartan medoxomil are not altered when the drugs are co-administered.
 
-No drug interaction studies have been conducted with AZOR™ and other drugs, although studies have been conducted with the individual amlodipine and olmesartan medoxomil components of AZOR™, as described below, and no significant drug interactions have been observed.
+No drug interaction studies have been conducted with Azor and other drugs, although studies have been conducted with the individual amlodipine and olmesartan medoxomil components of Azor, as described below, and no significant drug interactions have been observed.
 
 ## 7.2 Drug Interactions with Amlodipine
 
@@ -30,6 +30,7 @@ In clinical trials, amlodipine has been safely administered with thiazide diuret
 ## 7.3 Drug Interactions with Olmesartan Medoxomil
 
 No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+
 The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
 
 Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.

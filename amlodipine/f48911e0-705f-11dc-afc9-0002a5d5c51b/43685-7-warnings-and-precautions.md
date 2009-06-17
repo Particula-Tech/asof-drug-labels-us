@@ -1,13 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-The adverse reactions of AZOR™ are generally related to those of each of its components.
-
 ## 5.1 Fetal/Neonatal Morbidity and Mortality
 
 Olmesartan medoxomil.
 Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
 There have been several dozen cases reported in the world literature of patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, AZOR™ should be discontinued as soon as possible.
+When pregnancy is detected, discontinue Azor as soon as possible.
 
 During the second and third trimesters of pregnancy, these drugs have been associated with fetal injury that includes hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
@@ -15,13 +13,13 @@ Prematurity, intrauterine growth retardation, and patent ductus arteriosus have 
 
 These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
 Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of AZOR™ as soon as possible.
+Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of Azor as soon as possible.
 
 Rarely (probably less often than once in every thousand pregnancies), no alternative to a drug acting on the renin-angiotensin system will be found.
 In these rare cases, the mothers should be apprised of the potential hazards to their fetuses and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
 
-If oligohydramnios is observed, AZOR™ should be discontinued unless it is considered life-saving for the mother.
-Contraction stress testing (CST), a nonstress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
+If oligohydramnios is observed, discontinue Azor unless it is considered life-saving for the mother.
+Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
 Infants with histories of in utero exposure to an angiotensin II receptor antagonist should be closely observed for hypotension, oliguria, and hyperkalemia.
@@ -35,17 +33,17 @@ The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day,
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
 Olmesartan medoxomil.
-Symptomatic hypotension may occur after initiation of treatment with olmesartan medoxomil.
+Symptomatic hypotension may be anticipated after initiation of treatment with olmesartan medoxomil.
 Patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics) may be particularly vulnerable.
-Treatment with AZOR™ should start under close medical supervision.
-If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
+Initiate treatment with Azor under close medical supervision.
+If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
 ## 5.3 Vasodilation
 
 Amlodipine.
-Since the vasodilation attributable to amlodipine in AZOR™ is gradual in onset, acute hypotension has rarely been reported after oral administration.
-Nonetheless, caution, as with any other peripheral vasodilator, should be exercised when administering AZOR™, particularly in patients with severe aortic stenosis.
+Since the vasodilation attributable to amlodipine in Azor is gradual in onset, acute hypotension has rarely been reported after oral administration.
+Nonetheless, exercise caution, as with any other peripheral vasodilator, when administering Azor, particularly in patients with severe aortic stenosis.
 
 ## 5.4 Patients with Severe Obstructive Coronary Artery Disease
 
@@ -64,22 +62,29 @@ In these studies, there was no evidence of worsening of heart failure based on m
 
 ## 5.6 Patients with Impaired Renal Function
 
+Azor.
+There are no studies of Azor in patients with renal impairment.
+
 Olmesartan medoxomil.
 Changes in renal function may be anticipated in susceptible individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar effects may occur in patients treated with AZOR™ due to the olmesartan medoxomil component [See Clinical Pharmacology (12.3)].
+Similar effects may occur in patients treated with Azor because of the olmesartan medoxomil component [See Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
-There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar effects would be expected with AZOR™ because of the olmesartan medoxomil component.
+There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar effects would be expected with olmesartan medoxomil and Azor.
 
 ## 5.7 Patients with Hepatic Impairment
 
 Amlodipine.
-Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function, caution should be exercised when administering AZOR™ to patients with severe hepatic impairment.
+Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function, exercise caution when administering Azor to patients with severe hepatic impairment.
+
+Patients with hepatic impairment have decreased clearance of amlodipine.
+Starting amlodipine or adding amlodipine at 2.5 mg in hepatically impaired patients is recommended.
+The lowest dose of Azor is 5/20 mg; therefore, initial therapy with Azor is not recommended in hepatically impaired patients [See Use in Specific Populations (8.6)].
 
 ## 5.8 Laboratory Tests
 
-AZOR™.
+Azor.
 There was a greater decrease in hemoglobin and hematocrit in the combination product compared to either component.
 Other laboratory changes can usually be attributed to either monotherapy component.
 

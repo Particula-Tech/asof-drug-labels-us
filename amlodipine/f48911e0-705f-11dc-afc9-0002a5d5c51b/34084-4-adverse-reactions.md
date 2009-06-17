@@ -4,16 +4,16 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-### AZOR™
+### Azor
 
-The data described below reflect exposure to AZOR™ in more than 1600 patients including more than 1000 exposed for at least 6 months and more than 700 exposed for 1 year.
-AZOR™ was studied in one placebo-controlled factorial trial (see Section 14.1).
+The data described below reflect exposure to Azor in more than 1600 patients including more than 1000 exposed for at least 6 months and more than 700 exposed for 1 year.
+Azor was studied in one placebo-controlled factorial trial (see Section 14.1).
 The population had a mean age of 54 years and included approximately 55% males.
 Seventy-one percent were Caucasian and 25% were Black.
 Patients received doses ranging from 5/20 mg to 10/40 mg orally once daily.
 
-The overall incidence of adverse reactions on therapy with AZOR™ was similar to that seen with corresponding doses of the individual components of AZOR™, and to placebo.
-The reported adverse reactions were generally mild and seldom led to discontinuation of treatment (2.6% for AZOR™ and 6.8% for placebo).
+The overall incidence of adverse reactions on therapy with Azor was similar to that seen with corresponding doses of the individual components of Azor, and to placebo.
+The reported adverse reactions were generally mild and seldom led to discontinuation of treatment (2.6% for Azor and 6.8% for placebo).
 
 Edema
 
@@ -27,17 +27,33 @@ Placebo-Subtracted Incidence of Edema during the Double-Blind Treatment Period
 |  |  | Olmesartan Medoxomil |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Placebo | 20 mg | 40 mg |  |
-| Amlodipine | Placebo | 0%* | (-2.4%) | 6.2% |  |
+| Amlodipine | Placebo | －%* | -2.4% | 6.2% |  |
 | 5mg | 0.7% | 5.7% | 6.2% |  |  |
 | 10 mg | 24.5% | 13.3% | 11.2% |  |  |
 | *12.3%=actual placebo incidence |  |  |  |  |  |
 
 Across all treatment groups, the frequency of edema was generally higher in women than men, as has been observed in previous studies of amlodipine.
 
-Adverse reactions seen at lower rates during the double-blind period also occurred in the patients treated with AZOR™ at about the same or greater incidence as in patients receiving placebo.
+Adverse reactions seen at lower rates during the double-blind period also occurred in the patients treated with Azor at about the same or greater incidence as in patients receiving placebo.
 These included hypotension, orthostatic hypotension, rash, pruritus, palpitation, urinary frequency, and nocturia.
 
 The adverse event profile obtained from 44 weeks of open-label combination therapy with amlodipine plus olmesartan medoxomil was similar to that observed during the 8-week, double-blind, placebo-controlled period.
+
+Initial Therapy
+
+Analyzing the data described above specifically for initial therapy, it was observed that higher doses of Azor caused slightly more hypotension and orthostatic symptoms, but not at the recommended starting dose of Azor 5/20 mg.
+No increase in the incidence of syncope or near syncope was observed.
+The incidences of discontinuation because of any treatment emergent adverse events in the double blind phase are summarized in the table below.
+
+Discontinuation for any Treatment Emergent Adverse Event1
+
+|  |  | Olmesartan Medoxomil |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Placebo | 10 mg | 20 mg | 40 mg |
+| Amlodipine | Placebo | 4.9% | 4.3% | 5.6% | 3.1% |
+| 5mg | 3.7% | 0.0% | 1.2% | 3.7% |  |
+| 10 mg | 5.5% | 6.8% | 2.5% | 5.6% |  |
+| *1Hypertension is counted as treatment failure and not as treatment emergent adverse event. N=160-163 subjects per treatment group. |  |  |  |  |  |
 
 Amlodipine
 
@@ -78,7 +94,7 @@ In placebo-controlled trials, the only adverse event that occurred in more than 
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of the individual components of AZOR™.
+The following adverse reactions have been identified during post-approval use of the individual components of Azor.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Amlodipine.

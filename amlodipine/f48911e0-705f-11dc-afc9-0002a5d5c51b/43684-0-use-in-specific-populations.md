@@ -16,12 +16,12 @@ Amlodipine should be used during pregnancy only if the potential benefit justifi
 
 ## 8.3 Nursing Mothers
 
-It is not known whether the amlodipine or olmesartan medoxomil components of AZOR™ are excreted in human milk, but olmesartan is secreted at low concentration in the milk of lactating rats.
+It is not known whether the amlodipine or olmesartan medoxomil components of Azor are excreted in human milk, but olmesartan is secreted at low concentration in the milk of lactating rats.
 Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of AZOR™ in pediatric patients have not been established.
+The safety and effectiveness of Azor in pediatric patients have not been established.
 
 Amlodipine.
 The effect of amlodipine on blood pressure in patients less than 6 years of age is not known.
@@ -31,8 +31,12 @@ Safety and effectiveness of olmesartan medoxomil in pediatric patients have not 
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in the double-blind clinical study of AZOR™, 20% (384/1940) were 65 years of age or older and 3% (62/1940) were 75 years or older.
+Of the total number of subjects in the double-blind clinical study of Azor, 20% (384/1940) were 65 years of age or older and 3% (62/1940) were 75 years or older.
 No overall differences in safety or effectiveness were observed between subjects 65 years of age or older and younger subjects.
+
+Elderly patients have decreased clearance of amlodipine.
+Starting amlodipine or adding amlodipine at 2.5 mg in patients ≥75 years old is recommended.
+The lowest dose of Azor is 5/20 mg; therefore, initial therapy with Azor is not recommended in patients ≥75 years old.
 
 Amlodipine.
 Reported clinical experience has not identified differences in responses between the elderly and younger patients.
@@ -46,12 +50,16 @@ Other reported clinical experience has not identified differences in responses b
 
 ## 8.6 Hepatic Impairment
 
-There are no studies of AZOR™ in patients with hepatic insufficiency, but both amlodipine and olmesartan medoxomil show moderate increases in exposure in patients with hepatic impairment.
-Use caution when administering AZOR™ to patients with severe hepatic impairment.
+There are no studies of Azor in patients with hepatic insufficiency, but both amlodipine and olmesartan medoxomil show moderate increases in exposure in patients with hepatic impairment.
+Use caution when administering Azor to patients with severe hepatic impairment.
+
+Patients with hepatic impairment have decreased clearance of amlodipine.
+Starting amlodipine or adding amlodipine at 2.5 mg in patients with hepatic impairment is recommended.
+The lowest dose of Azor is 5/20 mg; therefore, initial therapy with Azor is not recommended in hepatically impaired patients.
 
 ## 8.7 Renal Impairment
 
-There are no studies of AZOR™ in patients with renal impairment.
+There are no studies of Azor in patients with renal impairment.
 
 Amlodipine.
 The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
@@ -64,5 +72,5 @@ No initial dosage adjustment is recommended for patients with moderate to marked
 
 ## 8.8 Black Patients
 
-Of the total number of subjects in the double-blind clinical study of AZOR™, 25% (481/1940) were black patients.
-AZOR™ was effective in treating black patients (usually a low-renin population), and the magnitude of blood pressure reduction in black patients approached that observed for non-black patients.
+Of the total number of subjects in the double-blind clinical study of Azor, 25% (481/1940) were black patients.
+Azor was effective in treating black patients (usually a low-renin population), and the magnitude of blood pressure reduction in black patients approached that observed for non-black patients.

@@ -1,1 +1,1 @@
-AZOR™ (amlodipine and olmesartan medoxomil) tablets
+AZOR® (amlodipine and olmesartan medoxomil) tablets

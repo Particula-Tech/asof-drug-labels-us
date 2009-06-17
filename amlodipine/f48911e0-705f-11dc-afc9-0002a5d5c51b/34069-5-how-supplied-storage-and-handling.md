@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AZOR™ tablets contain amlodipine besylate at a dose equivalent to 5 or 10 mg amlodipine and olmesartan medoxomil in the strengths described below.
+Azor tablets contain amlodipine besylate at a dose equivalent to 5 or 10 mg amlodipine and olmesartan medoxomil in the strengths described below.
 
-AZOR™ tablets are differentiated by tablet color/size and are debossed with an individual product tablet code on one side.
-AZOR™ tablets are supplied for oral administration in the following strength and package configurations:
+Azor tablets are differentiated by tablet color/size and are debossed with an individual product tablet code on one side.
+Azor tablets are supplied for oral administration in the following strength and package configurations:
 
 | Tablet Strength(amlodipine equivalent/olmesartan medoxomil) mg | Package Configuration | NDC# | Product Code | Tablet Color |
 | --- | --- | --- | --- | --- |
