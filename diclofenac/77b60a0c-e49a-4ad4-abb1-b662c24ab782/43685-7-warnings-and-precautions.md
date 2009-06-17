@@ -12,13 +12,13 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see GI WARNINGS).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see GI WARNINGS, GI Effects).
 
 Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
 ### Hypertension
 
-NSAIDs, including diclofenac potassium tablets, can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
 NSAIDs, including diclofenac potassium tablets, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
@@ -28,12 +28,12 @@ Blood pressure (BP) should be monitored closely during the initiation of NSAID t
 Fluid retention and edema have been observed in some patients taking NSAIDs.
 Diclofenac potassium tablets should be used with caution in patients with fluid retention or heart failure.
 
-## Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
+## Gastrointestinal (GI) Effects: Risk of GI Ulceration, Bleeding, and Perforation
 
 NSAIDs, including diclofenac potassium tablets, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3 to 6 months, and in about 2 to 4% of patients treated for one year.
+Upper GI ulcers, gross bleeding or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
 These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 
@@ -54,14 +54,46 @@ Caution should be used when initiating treatment with diclofenac potassium table
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of a non-steroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE-inhibitors, and the elderly.
-Discontinuation of non-steroidal anti-inflammatory drug therapy is usually followed by recovery to the pretreatment state.
+Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 ## Advanced Renal Disease
 
 No information is available from controlled clinical studies regarding the use of diclofenac in patients with advanced renal disease.
 Therefore, treatment with diclofenac potassium tablets is not recommended in these patients with advanced renal disease.
 If diclofenac potassium tablet therapy must be initiated, close monitoring of the patient's renal function is advisable.
+
+## Hepatic Effects
+
+Elevations of one or more liver tests may occur during therapy with diclofenac potassium.
+These laboratory abnormalities may progress, may remain unchanged, or may be transient with continued therapy.
+Borderline elevations (i.e., less than 3 times the ULN [ULN = the upper limit of the normal range]) or greater elevations of transaminases occurred in about 15% of diclofenac-treated patients.
+Of the markers of hepatic function, ALT (SGPT) is recommended for the monitoring of liver injury.
+
+In clinical trials, meaningful elevations (i.e., more than 3 times the ULN) of AST (GOT) (ALT was not measured in all studies) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment.
+In a large, open-label, controlled trial of 3,700 patients treated for 2 to 6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (i.e., more than 8 times the ULN) in about 1% of the 3,700 patients.
+In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3 to 8 times the ULN), and marked (> 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
+Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
+
+Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
+Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
+
+In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy, but can occur at any time during treatment with diclofenac.
+Postmarketing surveillance has reported cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant hepatitis with and without jaundice, and liver failure.
+Some of these reported cases resulted in fatalities or liver transplantation.
+
+Physicians should measure transaminases periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
+The optimum times for making the first and subsequent transaminase measurements are not known.
+Based on clinical trial data and postmarketing experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac.
+However, severe hepatic reactions can occur at any time during treatment with diclofenac.
+
+If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), diclofenac potassium should be discontinued immediately.
+
+To minimize the possibility that hepatic injury will become severe between transaminase measurements, physicians should inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
+
+To minimize the potential risk for an adverse liver related event in patients treated with diclofenac potassium, the lowest effective dose should be used for the shortest duration possible.
+Caution should be exercised in prescribing diclofenac potassium with concomitant drugs that are known to be potentially hepatotoxic (e.g., antibiotics, anti-epileptics).
 
 ## Anaphylactoid Reactions
 
@@ -90,21 +122,10 @@ Patients on prolonged corticosteroid therapy should have their therapy tapered s
 
 The pharmacological activity of diclofenac potassium tablets in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
 
-## Hepatic Effects
-
-Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including diclofenac potassium tablets.
-These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
-Based on this experience, in patients on chronic treatment with diclofenac potassium tablets, periodic monitoring of transaminases is recommended (see PRECAUTIONS, Laboratory Tests).
-Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 2% to 4% of patients, including marked elevations (eight or more times the upper limit of normal) in about 1% of patients in clinical trials with diclofenac.
-In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
-
-A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with diclofenac potassium tablets.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), diclofenac potassium tablets should be discontinued.
-
 ## Hematological Effects
 
 Anemia is sometimes seen in patients receiving NSAIDs, including diclofenac potassium tablets.
-This may be due to fluid retention, occult or gross GI loss, or an incompletely described effect upon erythropoiesis.
+This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
 Patients on long-term treatment with NSAIDs, including diclofenac potassium tablets, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
 
 NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
@@ -133,15 +154,15 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy (see WARNINGS, Hepatic Effects).
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, diclofenac potassium tablets should be avoided because they may cause premature closure of the ductus arteriosus.
+7. In late pregnancy, as with other NSAIDs, diclofenac potassium tablets should be avoided because they will cause premature closure of the ductus arteriosus.
 
 ## Laboratory Tests
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-In patients on long-term treatment with NSAIDs, including diclofenac potassium tablets, the CBC and a chemistry profile (including transaminase levels) should be checked periodically.
+In patients on long-term treatment with NSAIDs, including diclofenac potassium tablets, CBC and a chemistry profile (including transaminase levels) should be checked periodically.
 If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, diclofenac potassium tablets should be discontinued.
 
 ## Drug Interactions
@@ -163,16 +184,16 @@ Diclofenac potassium tablets, like other NSAIDs, may affect renal prostaglandins
 Therefore, concomitant therapy with diclofenac potassium tablets may increase cyclosporine’s nephrotoxicity.
 Caution should be used when diclofenac potassium tablets are administered concomitantly with cyclosporine.
 
-### ACE-inhibitors
+### ACE Inhibitors
 
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
+Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
+This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.
 
-### Diuretics
+### Furosemide
 
 Clinical studies, as well as postmarketing observations, have shown that diclofenac can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see PRECAUTIONS, Renal Effects), as well as to assure diuretic efficacy.
+During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 
 ### Lithium
 
@@ -194,7 +215,6 @@ The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that use
 Reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities.
 However, animal reproduction studies are not always predictive of human response.
 There are no adequate and well-controlled studies in pregnant women.
-Diclofenac potassium tablets should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ### Nonteratogenic Effects
 

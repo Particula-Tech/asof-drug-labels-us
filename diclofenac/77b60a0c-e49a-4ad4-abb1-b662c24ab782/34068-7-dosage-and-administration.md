@@ -12,4 +12,4 @@ For the relief of osteoarthritis the recommended dosage is 100 to 150 mg/day in 
 
 For the relief of rheumatoid arthritis the recommended dosage is 150 to 200 mg/day in divided doses, 50 mg t.i.d. or q.i.d.
 
-Different formulations of diclofenac [diclofenac potassium enteric-coated tablets; diclofenac potassium extended-release tablets; diclofenac potassium tablets] are not necessarily bioequivalent even if the milligram strength is the same.
+Different formulations of diclofenac [diclofenac sodium enteric-coated tablets; diclofenac sodium extended-release tablets; diclofenac potassium tablets] are not necessarily bioequivalent even if the milligram strength is the same.

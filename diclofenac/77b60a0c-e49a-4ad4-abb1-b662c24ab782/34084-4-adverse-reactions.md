@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 In 718 patients treated for shorter periods, i.e., 2 weeks or less, with diclofenac potassium tablets, adverse reactions were reported one-half to one-tenth as frequently as by patients treated for longer periods.
-In a 6 month, double-blind trial comparing diclofenac potassium tablets (N = 196) versus diclofenac sodium delayed-release tablets) (N = 197) versus ibuprofen (N = 197), adverse reactions were similar in nature and frequency.
+In a 6 month, double-blind trial comparing diclofenac potassium tablets (N = 196) versus diclofenac sodium delayed-release tablets (N = 197) versus ibuprofen (N = 197), adverse reactions were similar in nature and frequency.
 
 In patients taking diclofenac potassium tablets or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
 
