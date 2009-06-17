@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 (CAD-oo-et)
 
@@ -205,3 +205,9 @@ Active ingredients: amlodipine besylate, atorvastatin calcium
 Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline cellulose, pregelatinized starch, polysorbate 80, hydroxypropyl cellulose, purified water, colloidal silicon dioxide (anhydrous), magnesium stearate
 
 Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000 and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
+
+Rx only
+
+Manufactured by Pfizer Ireland Pharmaceuticals Dublin, Ireland
+
+LAB-0347-2.0 August 2006

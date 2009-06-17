@@ -270,9 +270,11 @@ Effects in various subgroups are shown in Figure 2.
 
 In a angiographic substudy (n=274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
 
-Figure 1: Kaplan-Meier analysis of composite clinical outcomes for amlodipine versus placebo
+| Figure 1: Kaplan-Meier analysis of composite clinical outcomes for amlodipine versus placebo |
+| --- |
 
-Figure 2 – Effects on primary endpoint of amlodipine versus placebo across sub-groups
+| Figure 2 – Effects on primary endpoint of amlodipine versus placebo across sub-groups |
+| --- |
 
 Table 2 below summarizes the significant clinical outcomes from the composites of the primary endpoint.
 The other components of the primary endpoint including cardiovascular death, resuscitated cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease did not demonstrate a significant difference between amlodipine and placebo.
@@ -313,7 +315,8 @@ The risk reduction was consistent regardless of age, smoking status, obesity or 
 The effect of atorvastatin was seen regardless of baseline LDL levels.
 Due to the small number of events, results for women were inconclusive.
 
-Figure 3: Effect of Atorvastatin 10 mg/day on Cumulative Incidence of Nonfatal Myocardial Infarction or Coronary Heart Disease Death (in ASCOT-LLA)
+| Figure 3: Effect of Atorvastatin 10 mg/day on Cumulative Incidence of Nonfatal Myocardial Infarction or Coronary Heart Disease Death (in ASCOT-LLA) |
+| --- |
 
 Atorvastatin also significantly decreased the relative risk for revascularization procedures by 42%.
 Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p 0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for atorvastatin and 2.3% for placebo).
@@ -333,8 +336,8 @@ The effect of atorvastatin 10 mg/ day on lipid levels was similar to that seen i
 Atorvastatin significantly reduced the rate of major cardiovascular events (primary endpoint events) (83 events in the atorvastatin group vs 127 events in the placebo group) with a relative risk reduction of 37%, HR 0.63, 95% CI (0.48,0.83) (p=0.001) (see Figure 4).
 An effect of atorvastatin was seen regardless of age, sex, or baseline lipid levels.
 
-Figure 4.
-Effect of Atorvastatin 10 mg/day on Time to Occurrence of Major Cardiovascular Events (myocardial infarction, acute CHD death, unstable angina, coronary revascularization, or stroke) in CARDS.
+| Figure 4. Effect of Atorvastatin 10 mg/day on Time to Occurrence of Major Cardiovascular Events (myocardial infarction, acute CHD death, unstable angina, coronary revascularization, or stroke) in CARDS. |
+| --- |
 
 Atorvastatin significantly reduced the risk of stroke by 48% (21 events in the atorvastatin group vs 39 events in the placebo group), HR 0.52, 95% CI (0.31,0.89) (p=0.016) and reduced the risk of MI by 42% (38 events in the atorvastatin group vs 64 events in the placebo group), HR 0.58, 95.1% CI (0.39, 0.86) (p=0.007).
 There was no significant difference between the treatment groups for angina, revascularization procedures, and acute CHD death.
@@ -349,8 +352,8 @@ The mean LDL-C, TC, TG, non-HDL and HDL cholesterol levels at 12 weeks were 73, 
 Treatment with LIPITOR 80 mg/day significantly reduced the rate of MCVE (434 events in the 80mg/day group vs 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69,0.89), p=0.0002 (see Figure5 and Table 3).
 The overall risk reduction was consistent regardless of age (<65, ≥65) or gender.
 
-Figure 5.
-Effect of LIPITOR 80 mg/day vs.10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
+| Figure 5. Effect of LIPITOR 80 mg/day vs.10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT) |
+| --- |
 
 TABLE 3.
 Overview of Efficacy Results in TNT
