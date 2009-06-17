@@ -6,5 +6,4 @@ NDC 0121-0646-10 (Unit dose cups of 100 mg/10 mL, 10 unit dose cups per tray, 10
 
 Dispense in a tight container as defined in the USP, with a child-resistant closure (as required).
 
-Store at controlled room temperature, 20°-25°C (68°-77°F).
-[See USP]
+Store at 20° to 25° C (68° to 77° F) [see USP Controlled Room Temperature].

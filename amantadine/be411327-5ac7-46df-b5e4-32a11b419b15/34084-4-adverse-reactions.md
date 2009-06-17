@@ -6,25 +6,25 @@ Less frequently (1-5%) reported adverse reactions are: depression, anxiety and i
 
 Infrequently (0.1-1%) occurring adverse reactions are: congestive heart failure, psychosis, urinary retention, dyspnea, skin rash, vomiting, weakness, slurred speech, euphoria, thinking abnormality, amnesia, hyperkinesia, hypertension, decreased libido, and visual disturbance, including punctate subepithelial or other corneal opacity, corneal edema, decreased visual acuity, sensitivity to light, and optic nerve palsy.
 
-Rare (less than 0.1%) occurring adverse reactions are: instances of convulsion, leukopenia, neutropenia, eczematoid dermatitis, oculogyric episodes, suicidal attempt, suicide, and suicidal ideation (seeWARNINGS).
+Rare (less than 0.1%) occurring adverse reactions are: instances of convulsion, leukopenia, neutropenia, eczematoid dermatitis, oculogyric episodes, suicidal attempt, suicide, and suicidal ideation (see WARNINGS).
 
-Other adverse reactions reported during postmarketing experience with amantadine usage included:
+Other adverse reactions reported during postmarketing experience with amantadine usage include:
 
-Nervous System/Psychiatric- coma, stupor, delirium, hypokinesia, hypertonia, delusions, aggressive behavior, paranoid reaction, manic reaction, involuntary muscle contractions, gait abnormalities, paresthesia, EEG changes, and tremor.
+Nervous System/Psychiatric coma, stupor, delirium, hypokinesia, hypertonia, delusions, aggressive behavior, paranoid reaction, manic reaction, involuntary muscle contractions, gait abnormalities, paresthesia, EEG changes, and tremor.
 Abrupt discontinuation may also precipitate delirium, agitation, delusions, hallucinations, paranoid reaction, stupor, anxiety, depression and slurred speech;
 
-Cardiovascular - cardiac arrest, arrhythmias including malignant arrhythmias, hypotension, and tachycardia;
+Cardiovascular cardiac arrest, arrhythmias including malignant arrhythmias, hypotension, and tachycardia;
 
-Respiratory - acute respiratory failure, pulmonary edema, and tachypnea;
+Respiratory acute respiratory failure, pulmonary edema, and tachypnea;
 
-Gastrointestinal - dysphagia;
+Gastrointestinal dysphagia;
 
-Hematologic – leukocytosis and agranulocytosis;
+Hematologic leukocytosis and agranulocytosis;
 
-Special Senses - keratitis and mydriasis;
+Special Senses keratitis and mydriasis;
 
-Skin and Appendages - pruritus and diaphoresis;
+Skin and Appendages pruritus and diaphoresis;
 
-Miscellaneous - neuroleptic malignant syndrome (seeWARNINGS), allergic reactions including anaphylactic reactions, edema, and fever;
+Miscellaneous neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anaphylactic reactions, edema, fever, pathological gambling, increased libido including hypersexuality, and impulse control symptoms.
 
-Laboratory Tests - elevated: CPK, BUN, serum creatinine, alkaline phosphatase, LDH, bilirubin, GGT, SGOT, and SGPT.
+Laboratory Tests elevated: CPK, BUN, serum creatinine, alkaline phosphatase, LDH, bilirubin, GGT, SGOT, and SGPT.

@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 The dose of amantadine hydrochloride may need reduction in patients with congestive heart failure, peripheral edema, orthostatic hypotension, or impaired renal function.
-(seeDosage for Impaired Renal Function).
+(see Dosage for Impaired Renal Function).
 
 ## Dosage for Prophylaxis and Treatment of Uncomplicated Influenza A Virus Illness
 

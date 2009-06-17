@@ -6,7 +6,7 @@ Deaths have been reported from overdose with amantadine.
 The lowest reported acute lethal dose was 1 gram.
 Acute toxicity may be attributable to the anticholinergic effects of amantadine.
 Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity.
-Cardiac dysfunction includes arrhythmia, tachycardia and hypertension (seeOVERDOSAGE).
+Cardiac dysfunction includes arrhythmia, tachycardia and hypertension (see OVERDOSAGE).
 
 ## Suicide Attempts
 
@@ -62,6 +62,14 @@ Thus, the dose of amantadine should be reduced in patients with renal impairment
 Care should be exercised when administering amantadine to patients with liver disease.
 Rare instances of reversible elevation of liver enzymes have been reported in patients receiving amantadine, though a specific relationship between the drug and such changes has not been established.
 
+## Melanoma
+
+Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
+
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using amantadine hydrochloride for any indication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
+
 ## Other
 
 The dose of amantadine may need careful adjustment in patients with congestive heart failure, peripheral edema, or orthostatic hypotension.
@@ -91,6 +99,12 @@ If there is no improvement in a few days, or if medication appears less effectiv
 Consult physician before discontinuing medication.
 
 Seek medical attention immediately if it is suspected that an overdose of medication has been taken.
+
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson's disease, including amantadine hydrochloride.
+Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
+Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with amantadine hydrochloride.
+Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges or other intense urges while taking amantadine hydrochloride.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking amantadine hydrochloride.
 
 ## Drug Interactions
 
@@ -130,7 +144,6 @@ However, in two non-GLP studies in rats in which females were dosed from 5 days 
 In the non-GLP rat study in which females were dosed on Days 7-14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m2 basis).
 The no-effect dose for teratogenicity was 37 mg/kg (equal to the maximum recommended human dose on a mg/m2 basis).
 The safety margins reported may not accurately reflect the risk considering the questionable quality of the study on which they are based.
-
 There are no adequate and well-controlled studies in pregnant women.
 Human data regarding teratogenicity after maternal use of amantadine is scarce.
 Tetralogy of Fallot and tibial hemimelia (normal karyotype) occurred in an infant exposed to amantadine during the first trimester of pregnancy (100 mg P.O. for 7 days during the 6th and 7th week of gestation).
@@ -150,4 +163,4 @@ The safety and efficacy of amantadine hydrochloride in newborn infants and infan
 
 Because amantadine is primarily excreted in the urine, it accumulates in the plasma and in the body when renal function declines.
 Thus, the dose of amantadine should be reduced in patients with renal impairment and in individuals who are 65 years of age or older.
-The dose of amantadine may need reduction in patients with congestive heart failure, peripheral edema, or orthostatic hypotension (seeDOSAGE AND ADMINISTRATION).
+The dose of amantadine may need reduction in patients with congestive heart failure, peripheral edema, or orthostatic hypotension (see DOSAGE AND ADMINISTRATION).

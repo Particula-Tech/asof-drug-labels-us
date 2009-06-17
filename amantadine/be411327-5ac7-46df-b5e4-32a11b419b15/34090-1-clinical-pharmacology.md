@@ -11,7 +11,7 @@ It does not appear to interfere with the immunogenicity of inactivated influenza
 
 #### Antiviral Activity
 
-Amantadine inhibits the replication of influenza A virus isolates from each of the subtypes, i.e. H1N1, H2N2 and H3N2.
+Amantadine inhibits the replication of influenza A virus isolates from each of the subtypes, i.e., H1N1, H2N2 and H3N2.
 It has very little or no activity against influenza B virus isolates.
 A quantitative relationship between the in vitro susceptibility of influenza A virus to amantadine and the clinical response to therapy has not been established in man.
 Sensitivity test results, expressed as the concentration of amantadine required to inhibit by 50% the growth of virus (ED50) in tissue culture vary greatly (from 0.1 µg/mL to 25.0 µg/mL) depending upon the assay protocol used, size of virus inoculum, isolates of influenza A virus strains tested, and the cell type used.
@@ -53,7 +53,7 @@ The half-life was 17 ± 4 hours (range: 10 to 25 hours).
 Across other studies, amantadine plasma half-life has averaged 16 ± 6 hours (range: 9 to 31 hours) in 19 healthy volunteers.
 
 After oral administration of a single dose of 100 mg amantadine syrup to five healthy volunteers, the mean ± SD maximum plasma concentration Cmax was 0.24 ± 0.04 µg/mL and ranged from 0.18 to 0.28 µg/mL.
-After 15 days of amantadine 100 mg b.i.d. the Cmax was 0.47 ± 0.11 µg/mL in four of the five volunteers.
+After 15 days of amantadine 100 mg b.i.d., the Cmax was 0.47 ± 0.11 µg/mL in four of the five volunteers.
 The administration of amantadine tablets as a 200 mg single dose to 6 healthy subjects resulted in a Cmax of 0.51 ± 0.14 µg/mL.
 Across studies, the time to Cmax (Tmax) averaged about 2 to 4 hours.
 
