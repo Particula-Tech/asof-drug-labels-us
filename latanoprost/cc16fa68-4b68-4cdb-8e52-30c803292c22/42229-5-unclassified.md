@@ -1,5 +1,7 @@
 Rx only
 
-Manufactured By: Cardinal Health Woodstock, IL 60098, USA
+Manufactured By: Catalent Pharma Solutions Woodstock, IL 60098, USA
 
-LAB-0137-2.0
+Pfizer Manufacturing Belgium NV Puurs, Belgium
+
+LAB-0137-6.0 January 2009
