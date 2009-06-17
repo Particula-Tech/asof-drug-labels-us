@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
-Serious adverse reactions are uncommon when Calan therapy is initiated with upward dose titration within the recommended single and total daily dose.
-See Warnings for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.
+Serious adverse reactions are uncommon when CALAN therapy is initiated with upward dose titration within the recommended single and total daily dose.
+See WARNINGS for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.
 Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil.
 The following reactions to orally administered verapamil occurred at rates greater than 1.0% or occurred at lower rates but appeared clearly drug-related in clinical trials in 4,954 patients:
 
@@ -14,7 +14,7 @@ The following reactions to orally administered verapamil occurred at rates great
 | Edema | 1.9% | Flushing | 0.6% |
 | CHF, Pulmonary edema | 1.8% |  |  |
 | Fatigue | 1.7% |  |  |
-| Elevated liver enzymes (see Warnings) |  |  |  |
+| Elevated liver enzymes (see WARNINGS) |  |  |  |
 
 In clinical trials related to the control of ventricular response in digitalized patients who had atrial fibrillation or flutter, ventricular rates below 50 at rest occurred in 15% of patients and asymptomatic hypotension occurred in 5% of patients.
 

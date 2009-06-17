@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Treat all verapamil overdoses as serious and maintain observation for at least 48 hours (especially Calan SR), preferably under continuous hospital care.
+Treat all verapamil overdoses as serious and maintain observation for at least 48 hours (especially CALAN SR), preferably under continuous hospital care.
 Delayed pharmacodynamic consequences may occur with the sustained-release formulation.
 Verapamil is known to decrease gastrointestinal transit time.
 

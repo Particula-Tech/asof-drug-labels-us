@@ -12,7 +12,7 @@ Dosage may be increased at daily (eg, patients with unstable angina) or weekly i
 
 ## Arrhythmias
 
-The dosage in digitalized patients with chronic atrial fibrillation (see Precautions) ranges from 240 to 320 mg/day in divided (t.i.d. or q.i.d.) doses.
+The dosage in digitalized patients with chronic atrial fibrillation (see PRECAUTIONS) ranges from 240 to 320 mg/day in divided (t.i.d. or q.i.d.) doses.
 The dosage for prophylaxis of PSVT (non-digitalized patients) ranges from 240 to 480 mg/day in divided (t.i.d. or q.i.d.) doses.
 In general, maximum effects for any given dosage will be apparent during the first 48 hours of therapy.
 
@@ -22,5 +22,5 @@ Dose should be individualized by titration.
 The usual initial monotherapy dose in clinical trials was 80 mg three times a day (240 mg/day).
 Daily dosages of 360 and 480 mg have been used but there is no evidence that dosages beyond 360 mg provided added effect.
 Consideration should be given to beginning titration at 40 mg three times per day in patients who might respond to lower doses, such as the elderly or people of small stature.
-The antihypertensive effects of Calan are evident within the first week of therapy.
+The antihypertensive effects of CALAN are evident within the first week of therapy.
 Upward titration should be based on therapeutic efficacy, assessed at the end of the dosing interval.

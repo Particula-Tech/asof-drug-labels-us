@@ -4,9 +4,9 @@
 
 Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema.
-Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see Drug interactions).
+Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug interactions).
 Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment.
-(Note interactions with digoxin under Precautions.)
+(Note interactions with digoxin under PRECAUTIONS)
 
 ## Hypotension
 
@@ -25,9 +25,10 @@ Periodic monitoring of liver function in patients receiving verapamil is therefo
 ## Accessory bypass tract (Wolff-Parkinson-White or Lown-Ganong-Levine)
 
 Some patients with paroxysmal and/or chronic atrial fibrillation or atrial flutter and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis).
-Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated (see Contraindications).
+
+Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated (see CONTRAINDICATIONS).
 Treatment is usually DC-cardioversion.
-Cardioversion has been used safely and effectively after oral Calan.
+Cardioversion has been used safely and effectively after oral CALAN.
 
 ## Atrioventricular block
 
@@ -41,7 +42,7 @@ Marked first-degree block or progressive development to second- or third-degree 
 In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
 Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction.
 Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (greater than 20 mm Hg) pulmonary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
-Concomitant administration of quinidine (see Drug interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
+Concomitant administration of quinidine (see PRECAUTIONS, Drug interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
 Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4%, and sinus arrest in 2%.
 It must be appreciated that this group of patients had a serious disease with a high mortality rate.
 Most adverse effects responded well to dose reduction, and only rarely did verapamil use have to be discontinued.
@@ -53,8 +54,8 @@ Most adverse effects responded well to dose reduction, and only rarely did verap
 ### Use in patients with impaired hepatic function
 
 Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function.
-Severe liver dysfunction prolongs the elimination halflife of verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients.
-Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see Overdosage) should be carried out.
+Severe liver dysfunction prolongs the elimination half-life of verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients.
+Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see OVERDOSAGE) should be carried out.
 
 ### Use in patients with attenuated (decreased) neuromuscular transmission
 
@@ -66,7 +67,7 @@ It may be necessary to decrease the dosage of verapamil when it is administered 
 About 70% of an administered dose of verapamil is excreted as metabolites in the urine.
 Verapamil is not removed by hemodialysis.
 Until further data are available, verapamil should be administered cautiously to patients with impaired renal function.
-These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see Overdosage).
+These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see OVERDOSAGE).
 
 ## Drug interactions
 
@@ -76,15 +77,15 @@ Verapamil may increase blood alcohol concentrations and prolong its effects.
 
 ### Beta-blockers
 
-Controlled studies in small numbers of patients suggest that the concomitant use of Calan and oral beta-adrenergic blocking agents may be beneficial in certain patients with chronic stable angina or hypertension, but available information is not sufficient to predict with confidence the effects of concurrent treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
+Controlled studies in small numbers of patients suggest that the concomitant use of CALAN and oral beta-adrenergic blocking agents may be beneficial in certain patients with chronic stable angina or hypertension, but available information is not sufficient to predict with confidence the effects of concurrent treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
 Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility.
 
-In one study involving 15 patients treated with high doses of propranolol (median dose, 480 mg/day; range, 160 to 1,280 mg/day) for severe angina, with preserved left ventricular function (ejection fraction greater than 35%), the hemodynamic effects of additional therapy with verapamil HCl were assessed using invasive methods.
+In one study involving 15 patients treated with high doses of propranolol (median dose: 480 mg/day; range: 160 to 1,280 mg/day) for severe angina, with preserved left ventricular function (ejection fraction greater than 35%), the hemodynamic effects of additional therapy with verapamil HCl were assessed using invasive methods.
 The addition of verapamil to high-dose beta-blockers induced modest negative inotropic and chronotropic effects that were not severe enough to limit short-term (48 hours) combination therapy in this study.
 These modest cardiodepressant effects persisted for greater than 6 but less than 30 hours after abrupt withdrawal of beta-blockers and were closely related to plasma levels of propranolol.
 The primary verapamil/beta-blocker interaction in this study appeared to be hemodynamic rather than electrophysiologic.
 
-In other studies verapamil did not generally induce significant negative inotropic, chronotropic, or dromotropic effects in patients with preserved left ventricular function receiving low or moderate doses of propranolol (less than or equal to 320 mg/day); in some patients, however, combined therapy did produce such effects.
+In other studies, verapamil did not generally induce significant negative inotropic, chronotropic, or dromotropic effects in patients with preserved left ventricular function receiving low or moderate doses of propranolol (less than or equal to 320 mg/day); in some patients, however, combined therapy did produce such effects.
 Therefore, if combined therapy is used, close surveillance of clinical status should be carried out.
 Combined therapy should usually be avoided in patients with atrioventricular conduction abnormalities and those with depressed left ventricular function.
 
@@ -97,11 +98,11 @@ A variable effect has been seen when verapamil and atenolol were given together.
 
 Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted.
 However, chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
-In patients with hepatic cirrhosis the influence of verapamil on digoxin kinetics is magnified.
+In patients with hepatic cirrhosis, the influence of verapamil on digoxin kinetics is magnified.
 Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively.
-Maintenance and digitalization doses should be reduced when verapamil is administered, and the patient should be reassessed to avoid over- or underdigitalization.
-Whenever overdigitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued.
-On discontinuation of Calan use, the patient should be reassessed to avoid underdigitalization.
+Maintenance and digitalization doses should be reduced when verapamil is administered, and the patient should be reassessed to avoid over- or under-digitalization.
+Whenever over-digitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued.
+On discontinuation of CALAN use, the patient should be reassessed to avoid under-digitalization.
 
 ### Antihypertensive agents
 
@@ -130,7 +131,7 @@ The electrophysiologic effects of quinidine and verapamil on AV conduction were 
 Verapamil significantly counteracted the effects of quinidine on AV conduction.
 There has been a report of increased quinidine levels during verapamil therapy.
 
-### Other
+### Other agents
 
 #### Nitrates
 
@@ -177,6 +178,10 @@ When used concomitantly, inhalation anesthetics and calcium antagonists, such as
 
 Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing).
 It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
+
+#### Telithromycin
+
+Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 

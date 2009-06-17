@@ -1,12 +1,12 @@
 # HOW SUPPLIED
 
-Calan 40-mg tablets are round, pink, film coated, with CALAN debossed on one side and 40 on the other, supplied as:
+CALAN 40 mg tablets are round, pink, film coated, with CALAN debossed on one side and 40 on the other, supplied as:
 
 | NDC Number | Size |
 | --- | --- |
 | 0025-1771-31 | bottle of 100 |
 
-Calan 80-mg tablets are oval, peach colored, scored, film coated, with CALAN debossed on one side and 80 on the other, supplied as:
+CALAN 80 mg tablets are oval, peach colored, scored, film coated, with CALAN debossed on one side and 80 on the other, supplied as:
 
 | NDC Number | Size |
 | --- | --- |
@@ -14,7 +14,7 @@ Calan 80-mg tablets are oval, peach colored, scored, film coated, with CALAN deb
 | 0025-1851-51 | bottle of 500 |
 | 0025-1851-52 | bottle of 1,000 |
 
-Calan 120-mg tablets are oval, brown, scored, film coated, with CALAN 120 debossed on one side, supplied as:
+CALAN 120 mg tablets are oval, brown, scored, film coated, with CALAN 120 debossed on one side, supplied as:
 
 | NDC Number | Size |
 | --- | --- |
