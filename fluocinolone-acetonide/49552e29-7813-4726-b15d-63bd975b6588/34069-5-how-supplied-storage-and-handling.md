@@ -7,6 +7,6 @@ Fluocinolone Acetonide Ointment USP, 0.025%
 
 Store at controlled room temperature 15°-30°C (59°-86°F).
 
-E. FOUGERA & CO. a division of Altana Inc. MELVILLE, NEW YORK 11747
+E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
 
-I26415B #296 R8/98
+I26415D R10/08
