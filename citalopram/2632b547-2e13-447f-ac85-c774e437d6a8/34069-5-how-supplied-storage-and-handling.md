@@ -1,9 +1,9 @@
 # HOW SUPPLIED
 
 Citalopram tablets are supplied as: 10 mg Tablets – Peach coloured, biconvex, round shaped film coated tablets debossed with ‘A’ on one side and ‘05’ on the other side.
-Bottles of 30 NDC 65682-005-30 Bottles of 60 NDC 65682-005-60 Bottles of 90 NDC 65682-005-90 Bottles of 100 NDC 65682-005-01 Bottles of 500 NDC 65682-005-60 10 x 10 Unit Dose NDC 65682-005-10 30 Unit-of-use packaging NDC 65862-005-32 20 mg Tablets – Light pink coloured, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘0’ and ‘6’ on other side.
-Bottles of 30 NDC 65682-006-30 Bottles of 60 NDC 65682-006-60 Bottles of 90 NDC 65682-006-90 Bottles of 100 NDC 65682-006-01 Bottles of 500 NDC 65682-006-60 10 x 10 Unit Dose NDC 65682-006-10 30 Unit-of-use packaging NDC 65862-006-32 40 mg Tablets – White coloured, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘0’ and ‘7’ on other side.
-Bottles of 30 NDC 65682-007-30 Bottles of 60 NDC 65682-007-60 Bottles of 90 NDC 65682-007-90 Bottles of 100 NDC 65682-007-01 Bottles of 500 NDC 65682-007-60 10 x 10 Unit Dose NDC 65682-007-10 30 Unit-of-use packaging NDC 65862-007-32 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Bottles of 30 NDC 65862-005-30 Bottles of 60 NDC 65862-005-60 Bottles of 90 NDC 65862-005-90 Bottles of 100 NDC 65862-005-01 Bottles of 500 NDC 65862-005-05 10 x 10 Unit Dose NDC 65862-005-10 30 Unit-of-use packaging NDC 65862-005-32 20 mg Tablets – Light pink coloured, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘0’ and ‘6’ on other side.
+Bottles of 30 NDC 65862-006-30 Bottles of 60 NDC 65862-006-60 Bottles of 90 NDC 65862-006-90 Bottles of 100 NDC 65862-006-01 Bottles of 500 NDC 65862-006-05 10 x 10 Unit Dose NDC 65862-006-10 30 Unit-of-use packaging NDC 65862-006-32 40 mg Tablets – White coloured, biconvex, capsule shaped film coated tablets debossed with ‘A’ on one side and with a score line in between ‘0’ and ‘7’ on other side.
+Bottles of 30 NDC 65862-007-30 Bottles of 60 NDC 65862-007-60 Bottles of 90 NDC 65862-007-90 Bottles of 100 NDC 65862-007-01 Bottles of 500 NDC 65862-007-05 10 x 10 Unit Dose NDC 65862-007-10 30 Unit-of-use packaging NDC 65862-007-32 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 ## ANIMAL TOXICOLOGY
 

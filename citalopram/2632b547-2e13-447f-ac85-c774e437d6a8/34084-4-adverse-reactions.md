@@ -51,7 +51,7 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | --- | --- | --- |
 | (Percentage of Patients Reporting Event) |  |  |
 | Autonomic Nervous System Disorders |  |  |
-| Dry mouth | 20% | 14% |
+| Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
 | Central & Peripheral Nervous System Disorders |  |  |
 | Tremor | 8% | 6% |
@@ -98,7 +98,7 @@ Jonckheere’s trend test revealed a positive dose response (p<0.05) for the fol
 ### Male and Female Sexual Dysfunction with SSRIs
 
 Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
-In particular, some evidence suggests that selective serotonin reuptake inhibitors (SSRIs) can cause such untoward sexual experiences.
+In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
 The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram tablets in a pool of placebo-controlled clinical trials in patients with depression.
@@ -126,7 +126,7 @@ Patients treated with citalopram tablets in controlled trials experienced a weig
 
 ### Laboratory Changes
 
-Citalopram tablets and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
+Citalopram tablets and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses revealed no clinically important changes in laboratory test parameters associated with citalopram tablets treatment.
 
 ### ECG Changes
@@ -180,4 +180,4 @@ Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal p
 ## Other Events Observed During the Postmarketing Evaluation of Citalopram Tablets
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, serotonin syndrome, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.

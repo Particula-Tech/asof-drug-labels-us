@@ -30,7 +30,7 @@ If adverse reactions are bothersome, a decrease in dose to 20 mg/day can be cons
 
 ## Discontinuation of Treatment with Citalopram Tablets
 
-Symptoms associated with discontinuation of citalopram and other SSRIs and SNRIs, have been reported (see PRECAUTIONS ).
+Symptoms associated with discontinuation of citalopram and other SSRIs and SNRIs have been reported (see PRECAUTIONS ).
 Patients should be monitored for these symptoms when discontinuing treatment.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
@@ -39,4 +39,4 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 ## Switching Patients To or From a Monoamine Oxidase Inhibitor
 
 At least 14 days should elapse between discontinuation of an MAOI and initiation of citalopram tablets therapy.
-Similarly, at least 14 days should be allowed after stopping citalopram tablets before starting a MAOI (see CONTRAINDICATIONS and WARNINGS ).
+Similarly, at least 14 days should be allowed after stopping citalopram tablets before starting an MAOI (see CONTRAINDICATIONS and WARNINGS ).
