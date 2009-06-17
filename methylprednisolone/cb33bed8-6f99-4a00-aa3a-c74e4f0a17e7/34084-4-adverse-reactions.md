@@ -1,52 +1,35 @@
 # ADVERSE REACTIONS
 
-Fluid and electrolyte disturbances
+The following adverse reactions have been reported with Depo-Medrol or other corticosteroids:
 
-Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension
+Allergic reactions: Allergic or hypersensitivity reactions, anaphylactoid reaction, anaphylaxis, angioedema
 
-Musculoskeletal
+Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopthy in premature infants, myocardial rupture following recent mycocardial infarction (see WARNINGS), pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis.
 
-Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Tendon rupture, particularly of the Achilles tendon Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Pathologic fracture of long bones
+Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scaly skin, ecchymoses and petechiae, edema, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increase sweating, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria.
 
-Gastrointestinal
+Endocrine: Decreased carbohydrate and glucose tolerance, development of cushingoid state, glycosuria, hirsutism, hypertrichosis, increased requirements for insulin or oral hypoglycemic agents in diabetes, manifestations of latent diabetes mellitus, menstrual irregularities, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery, or illness), suppression of growth in pediatric patients.
 
-Peptic ulcer with possible subsequent perforation and hemorrhage Pancreatitis Abdominal distention Ulcerative esophagitis Increases in alanine transaminase (ALT, SGPT), aspartate transaminase (AST, SGOT), and alkaline phosphatase have been observed following corticosteroid treatment.
-These changes are usually small, not associated with any clinical syndrome and are reversible upon discontinuation.
+Fluid and electrolyte disturbances: Congestive heart failure in susceptible patients, Fluid retention, hypokalemic alkalosis, potassium loss, sodium retention.
 
-Dermatologic
+Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzymes levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible subsequent perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
 
-Impaired wound healing Thin fragile skin Petechiae and ecchymoses Facial erythema Increased sweating May suppress reactions to skin tests
+Metabolic: Negative nitrogen balance due to protein catabolism.
 
-Neurological
+Musculoskeletal: Aseptic necrosis of femoral and humeral heads, calcinosis (following intra-articular or intra-lesional use), Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
 
-Convulsions Increased intracranial pressure with papilledema (pseudotumor cerebri) usually after treatment Vertigo Headache
+Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
 
-Endocrine
+Ophthalmic: Exophthalmoses, glaucoma, increased intraocular pressure, posterior subcapsular cataracts.
 
-Menstrual irregularities Development of Cushingoid state Suppression of growth in children Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetes
+Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non-sterile administration (see WARNINGS), malaise, moon face, weight gain.
 
-Ophthalmic
+The following adverse reactions have been reported with the following routes of administration:
 
-Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos
+Intrathecal/Epidural: Arachnoiditis, bowel/bladder dysfunction, headache, meningitis, parapareisis/paraplegia, seizures, sensory disturbances.
 
-Metabolic
+Intranasal: Allergic reactions, rhinitis, temporary/permanent visual impairment including blindness.
 
-Negative nitrogen balance due to protein catabolism
+Ophthalmic: Increased intraocular pressure, infection, ocular and periocular inflammation including allergic reactions, residue or slough at injection site, temporary/permanent visual impairment including blindness.
 
-The following additional adverse reactions are related to parenteral corticosteroid therapy:
-
-Anaphylactic reaction Allergic or hypersensitivity reactions Urticaria Hyperpigmentation or hypopigmentation Subcutaneous and cutaneous atrophy Sterile abscess Injection site infections following non-sterile administration (see WARNINGS) Postinjection flare, following intrasynovial use Charcot-like arthropathy
-
-## Adverse Reactions Reported with the Following Routes of Administration
-
-Intrathecal/Epidural Arachnoiditis Meningitis Paraparesis/paraplegia Sensory disturbances Bowel/bladder dysfunction Headache Seizures
-
-Intranasal
-
-Temporary/permanent visual impairment including blindness Allergic reactions Rhinitis
-
-Ophthalmic
-
-Temporary/permanent visual impairment including blindness Increased intraocular pressure Ocular and periocular inflammation including allergic reactions Infection Residue or slough at injection site
-
-Miscellaneous injection sites (scalp, tonsillar fauces, sphenopalatine ganglion)-blindness
+Miscellaneous injection sites: (scalp, tonsillar fauces, sphenopalatine ganglion): Blindness
