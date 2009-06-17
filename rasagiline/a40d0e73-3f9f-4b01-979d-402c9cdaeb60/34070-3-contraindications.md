@@ -13,7 +13,7 @@ For similar reasons, AZILECT should not be administered with the analgesic agent
 
 AZILECT should not be used with the antitussive agent dextromethorphan.
 The combination of MAO inhibitors and dextromethorphan has been reported to cause brief episodes of psychosis or bizarre behavior.
-AZILECT is also contraindicated for use with St. John’s wort, mirtazapine (a tetracyclic antidepressant), and cyclobenzaprine (a tricyclic muscle relaxant).
+AZILECT is also contraindicated for use with St. John's wort, mirtazapine (a tetracyclic antidepressant), and cyclobenzaprine (a tricyclic muscle relaxant).
 
 ## Sympathomimetic Amines
 

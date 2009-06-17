@@ -2,16 +2,16 @@
 
 Need for Restriction of Dietary Tyramine and Amines Contained in Medications
 
-AZILECT treatment at any dose may be associated with a hypertensive crisis/“cheese reaction” if the patient ingests tyramine-rich foods, beverages, or dietary supplements or amines (from over-the-counter medications).
+AZILECT treatment at any dose may be associated with a hypertensive crisis/"cheese reaction" if the patient ingests tyramine-rich foods, beverages, or dietary supplements or amines (from over-the-counter medications).
 Hypertensive crisis, which in some cases may be fatal, consists of marked systemic blood pressure elevation and requires immediate treatment/hospitalization.
 
-MAO in the gastrointestinal tract and liver (primarily type A) is thought to provide vital protection from exogenous amines (e.g., tyramine) that have the capacity, if absorbed intact, to cause a hypertensive crisis the so-called “cheese reaction.”
+MAO in the gastrointestinal tract and liver (primarily type A) is thought to provide vital protection from exogenous amines (e.g., tyramine) that have the capacity, if absorbed intact, to cause a hypertensive crisis, the so-called "cheese reaction."
 If significant amounts of certain exogenous amines gain access to the systemic circulation – e.g., tyramine from fermented cheese, red wine, herring, or amines contained in over-the-counter cough/cold medications – they can cause release of norepinephrine, which may significantly increase systemic blood pressure.
-MAO inhibitors that selectively inhibit MAO-B are generally devoid of the potential to cause a hypertensive crisis/“cheese reaction” at defined relatively low doses at which tyramine sensitivity has been characterized.
+MAO inhibitors that selectively inhibit MAO-B are generally devoid of the potential to cause a hypertensive crisis/"cheese reaction" at defined relatively low doses at which tyramine sensitivity has been characterized.
 The selectivity of rasagiline for inhibiting MAO-B (and not MAO-A) in humans has not been sufficiently characterized to permit rasagiline treatment without restriction of dietary tyramine or amines contained in medications.
-Even for “selective” MAO-B inhibitors, the selectivity for inhibiting MAO-B typically diminishes and is ultimately lost as the dose is increased beyond particular dose levels.
+Even for "selective" MAO-B inhibitors, the selectivity for inhibiting MAO-B typically diminishes and is ultimately lost as the dose is increased beyond particular dose levels.
 
-Patients receiving rasagiline should be instructed about the tyramine content of foods and beverages(see table below) and amine containing medications that should be avoided.
+Patients receiving rasagiline should be instructed about the tyramine content of foods and beverages (see table below) and amine containing medications that should be avoided.
 Sympathomimetic amines found in over-the-counter medicines to be avoided include pseudoephedrine, phenylephrine, phenylpropanolamine, and ephedrine.
 
 It is also necessary to maintain this dietary tyramine restriction and avoidance of exogenous amines contained in medications for 2 weeks following discontinuation of rasagiline because of the irreversible inhibition of the MAO enzyme and the need for new MAO enzyme synthesis.
@@ -20,16 +20,16 @@ Patients should also be instructed about the signs and symptoms of marked blood 
 These include severe headache, blurred vision/visual disturbances, difficulty thinking, stupor/coma, seizures, chest pain, unexplained nausea or vomiting, or signs or symptoms of a stroke.
 
 Patients should be told to immediately contact a medical provider to report any severe headache or other atypical or unusual symptoms not previously experienced that could be due to a hypertensive crisis.
-(SeePRECAUTIONS-Information for Patients, OVERDOSE, DOSAGE AND ADMINISTRATION).
+(See PRECAUTIONS-Information for Patients, OVERDOSE, DOSAGE AND ADMINISTRATION).
 
 | Beverage | Avoid | Little Tyramine |
 | --- | --- | --- |
 | Class of Food or | Tyramine-rich Foods and Beverages to | Acceptable Foods, Containing No or |
-| Meat, Poultry and Fish | Air dried, aged and fermented meats, sausages and salamis (including cacciatore, hard salami and mortadella); pickled herring; and any spoiled or improperly stored meat, poultry and fish (e.g., foods that have undergone changes in coloration, odor, or become moldy); spoiled or improperly stored animal livers | Little Tyramine Fresh meat, poultry and fish, including fresh processed meats (e.g. lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
+| Meat, Poultry and Fish | Air dried, aged and fermented meats, sausages and salamis (including cacciatore, hard salami and mortadella); pickled herring; and any spoiled or improperly stored meat, poultry and fish (e.g., foods that have undergone changes in coloration, odor, or become moldy); spoiled or improperly stored animal livers | Fresh meat, poultry and fish, including fresh processed meats (e.g. lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
 | Vegetables | Broad bean pods (fava bean pods) | All other vegetables |
 | Dairy | Aged cheeses | Processed cheeses, mozzarella, ricotta cheese, cottage cheese and yogurt |
 | Beverages | All varieties of tap beer and beers that have not been pasteurized so as to allow for ongoing fermentation, red wines | Bottled and canned beers and white wines contain little or no tyramine |
-| Miscellaneous | Concentrated yeast extract (e.g., Marmite), sauerkraut, most soybean products (including soy sauce and tofu), OTC supplements containing tyramine | Brewer’s yeast, baker’s yeast, soy milk, commercial chain restaurant pizzas prepared with cheeses low in tyramine |
+| Miscellaneous | Concentrated yeast extract (e.g., Marmite), sauerkraut, most soybean products (including soy sauce and tofu), OTC supplements containing tyramine | Brewer's yeast, baker's yeast, soy milk, commercial chain restaurant pizzas prepared with cheeses low in tyramine |
 | Adapted from K. I. Shulman, S.E. Walker, Psychiatric Annals 2001; 31:378-384 |  |  |
 
 ## Coadministration with Antidepressants
@@ -46,19 +46,19 @@ Although a small number of rasagiline-treated patients were concomitantly expose
 Furthermore, because the mechanisms of these reactions are not fully understood, it seems prudent, in general, to avoid the combination of AZILECT with tricyclic, SSRI, or SNRI (serotonin-norepinephrine reuptake inhibitor) antidepressants.
 At least 14 days should elapse between discontinuation of AZILECT and initiation of treatment with a tricyclic, SSRI, or SNRI antidepressant.
 Because of the long half lives of fluoxetine and its active metabolite, at least five weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should elapse between discontinuation of fluoxetine and initiation of AZILECT.
-(SeePRECAUTIONS, Drug Interactions, Selective Serotonin ReuptakeIinhibitors (SSRIs), Tricyclic and Tetracyclic Antidepressants).
+(See PRECAUTIONS, Drug Interactions, Selective Serotonin Reuptake Inhibitors (SSRIs), Tricyclic and Tetracyclic Antidepressants).
 
 ### Ciprofloxacin and Other CYP1A2 Inhibitors
 
 Rasagiline plasma concentrations may increase up to 2 fold in patients using concomitant ciprofloxacin and other CYP1A2 inhibitors.
-(SeeCLINICAL PHARMACOLOGY, Drug-Drug Interactions andDOSAGE AND ADMINISTRATION, Patients Taking Ciprofloxacin and Other CYP1A2 Inhibitors).
+(See CLINICAL PHARMACOLOGY, Drug-Drug Interactions and DOSAGE AND ADMINISTRATION, Patients Taking Ciprofloxacin and Other CYP1A2 Inhibitors).
 
 ### Hepatic Insufficiency
 
 Rasagiline plasma concentration may increase in patients with mild (up to 2 fold, Child-Pugh score 5-6), moderate (up to 7 fold, Child-Pugh score 7-9), and severe (Child-Pugh score 10-15) hepatic impairment.
 Patients with mild hepatic impairment should be given the dose of 0.5 mg/day.
 AZILECT should not be used in patients with moderate or severe hepatic impairment.
-(SeeCLINICAL PHARMACOLOGY, Special Populations).
+(See CLINICAL PHARMACOLOGY, Special Populations).
 
 # PRECAUTIONS
 
@@ -67,8 +67,8 @@ AZILECT should not be used in patients with moderate or severe hepatic impairmen
 ### Melanoma
 
 Comparison of the rates of melanoma in the AZILECT development program with rates in age- and sex-matched populations from two epidemiologic data bases (Surveillance, Epidemiology, and End Results Registry of the National Cancer Institute and the American Academy of Dermatology Skin Cancer Screening Program) showed a risk of melanoma that was greater in patients treated with rasagiline than in the general population.
-Some epidemiological studies, however, have shown that patients with Parkinson’s disease have a higher risk (perhaps 2- to 4-fold higher) of developing melanoma than the general population, although it was unclear whether the observed increased risk was due to Parkinson’s disease itself or to drugs used to treat Parkinson’s disease.
-The increased incidence of melanoma in the AZILECT development program was comparable to the increased risk observed in the Parkinson’s disease populations examined in these epidemiological studies.
+Some epidemiological studies, however, have shown that patients with Parkinson's disease have a higher risk (perhaps 2- to 4-fold higher) of developing melanoma than the general population, although it was unclear whether the observed increased risk was due to Parkinson's disease itself or to drugs used to treat Parkinson's disease.
+The increased incidence of melanoma in the AZILECT development program was comparable to the increased risk observed in the Parkinson's disease populations examined in these epidemiological studies.
 
 For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
@@ -107,7 +107,7 @@ The tyramine content of any protein-rich food may be increased if stored for lon
 
 Patients and caregivers should be informed of the signs and symptoms associated with hypertensive crisis, including severe headache, blurred vision, difficulty thinking, seizures, chest pain, unexplained nausea or vomiting, or signs or symptoms of a stroke.
 Patients and caregivers should seek immediate medical attention for patients who develop any severe headache or other atypical or unusual symptoms not previously experienced.
-(SeeWARNINGS).
+(See WARNINGS).
 
 Patients should inform their physician if they are taking, or planning to take, any prescription or over-the-counter drugs, especially antidepressants and over-the-counter cold medications, since there is a potential for interaction with AZILECT.
 Patients should not use meperidine with AZILECT.
@@ -126,45 +126,46 @@ The next dose should be taken at the usual time on the following day.
 ### Meperidine
 
 Serious, sometimes fatal reactions have been precipitated with concomitant use of meperidine (e.g., Demerol and other tradenames) and MAO inhibitors including selective MAO-B inhibitors.
-(SeeCONTRAINDICATIONS).
+(See CONTRAINDICATIONS).
 
 ### Dextromethorphan
 
 The concomitant use of AZILECT and dextromethorphan was not allowed in clinical studies.
 The combination of MAO inhibitors and dextromethorphan has been reported to cause brief episodes of psychosis or bizarre behavior.
-Therefore, in view of AZILECT’s MAO inhibitory activity, dextromethorphan should not be used concomitantly with AZILECT.
-(SeeCONTRAINDICATIONS).
+Therefore, in view of AZILECT's MAO inhibitory activity, dextromethorphan should not be used concomitantly with AZILECT.
+(See CONTRAINDICATIONS).
 
 ### Sympathomimetic Medications
 
 The concomitant use of AZILECT and sympathomimetic medications was not allowed in clinical studies.
 Severe hypertensive reactions have followed the administration of sympathomimetics and non-selective MAO inhibitors.
 One case of hypertensive crisis has been reported in a patient taking the recommended doses of a selective MAO-B inhibitor and a sympathomimetic medication (ephedrine).
-Therefore, in view of AZILECT’s MAO inhibitory activity, AZILECT should not be used concomitantly with sympathomimetics including nasal and oral decongestants and cold remedies.
-(SeeCONTRAINDICATIONS andWARNINGS, Need for Restriction of Dietary Tyramine and Amines Contained in Medications).
+Therefore, in view of AZILECT's MAO inhibitory activity, AZILECT should not be used concomitantly with sympathomimetics including nasal and oral decongestants and cold remedies.
+(See CONTRAINDICATIONS and WARNINGS, Need for Restriction of Dietary Tyramine and Amines Contained in Medications).
 
 ### MAO Inhibitors
 
 AZILECT should not be administered along with other MAO inhibitors because of the increased risk of non-selective MAO inhibition that may lead to a hypertensive crisis.
-(SeeCONTRAINDICATIONS).
+(See CONTRAINDICATIONS).
 
 ### Selective Serotonin Reuptake Inhibitors (SSRIs), Tricyclic and Tetracyclic Antidepressants
 
-Concomitant use of SSRI, tricyclic, and tetracyclic antidepressants with AZILECT is not recommended (SeeWARNINGS).
+Concomitant use of SSRI, tricyclic, and tetracyclic antidepressants with AZILECT is not recommended.
+(See WARNINGS).
 
 ### Levodopa/carbidopa
 
-(SeeCLINICAL PHARMACOLOGY, Drug-Drug Interactions; PRECAUTIONS, General, Dyskinesias Due to Levodopa Treatment).
+(See CLINICAL PHARMACOLOGY, Drug-Drug Interactions; PRECAUTIONS, General, Dyskinesias Due to Levodopa Treatment).
 
 ### Ciprofloxacin and Other CYP1A2 Inhibitors
 
 Rasagiline plasma concentrations may increase up to 2 fold in patients using concomitant ciprofloxacin and other CYP1A2 inhibitors.
 This could result in increased adverse events.
-(SeeCLINICAL PHARMACOLOGY, Drug-Drug Interactions andWARNINGS, Ciprofloxacin and Other CYP1A2 Inhibitors).
+(See CLINICAL PHARMACOLOGY, Drug-Drug Interactions and WARNINGS, Ciprofloxacin and Other CYP1A2 Inhibitors).
 
 ### Theophylline
 
-(SeeCLINICAL PHARMACOLOGY, Drug-Drug Interactions).
+(See CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
 
 ## Laboratory Tests
 
@@ -201,7 +202,7 @@ Effects on embryo-fetal development in rabbit have not been adequately assessed.
 
 In a study in which pregnant rats were dosed with rasagiline (0.1, 0.3, 1 mg/kg/day) orally, from the beginning of organogenesis to day 20 post-partum, offspring survival was decreased and offspring body weight was reduced at doses of 0.3 mg/kg/day and 1 mg/kg/day (10 and 16 times the expected plasma rasagiline exposure [AUC] at the MRHD).
 No plasma data were available at the no-effect dose (0.1 mg/kg); however, that dose is 1 times the MRHD on a mg/m2 basis.
-Rasagiline’s effect on physical and behavioral development was not adequately assessed in this study.
+Rasagiline's effect on physical and behavioral development was not adequately assessed in this study.
 
 Rasagiline may be given as an adjunct therapy to levodopa/carbidopa treatment.
 In a study in which pregnant rats were dosed with rasagiline (0.1, 0.3, 1 mg/kg/day) and levodopa/carbidopa (80/20 mg/kg/day) (alone and in combination) throughout the period of organogenesis, there was an increased incidence of wavy ribs in fetuses from rats treated with rasagiline in combination with levodopa/carbidopa at 1/80/20 mg/kg/day (approximately 8 times the plasma AUC expected in humans at the MRHD and 1/1 times the MRHD of levodopa/carbidopa [800/200 mg/day] on a mg/m2 basis).

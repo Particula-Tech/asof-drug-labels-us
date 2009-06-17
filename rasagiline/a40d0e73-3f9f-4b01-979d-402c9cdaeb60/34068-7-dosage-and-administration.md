@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-Tyramine-rich foods, beverages, or dietary supplements and amines (from over-the-counter cough/cold medications) should be avoided to prevent a possible hypertensive crisis/“cheese reaction” during rasagiline treatment.
-(SeeWARNINGS, Need for Restriction of Dietary Tyramine and Amines Contained in Medications).
+Tyramine-rich foods, beverages, or dietary supplements and amines (from over-the-counter cough/cold medications) should be avoided to prevent a possible hypertensive crisis/"cheese reaction" during rasagiline treatment.
+(See WARNINGS, Need for Restriction of Dietary Tyramine and Amines Contained in Medications).
 
 ## Monotherapy
 
-The recommended AZILECT dose for the treatment of Parkinson’s disease patients is 1 mg administered once daily.
+The recommended AZILECT dose for the treatment of Parkinson's disease patients is 1 mg administered once daily.
 
 ## Adjunctive Therapy
 
@@ -26,10 +26,10 @@ In patients who had their levodopa dosage reduced, the dose was reduced on avera
 
 AZILECT plasma concentrations will increase in patients with hepatic impairment.
 Patients with mild hepatic impairment should use 0.5 mg daily of AZILECT.
-AZILECT should not be used in patients with moderate or severe hepatic impairment (SeeCLINICAL PHARMACOLOGY, Special Populations, Hepatic Insufficiency andWARNINGS, Hepatic Insufficiency).
+AZILECT should not be used in patients with moderate or severe hepatic impairment (See CLINICAL PHARMACOLOGY, Special Populations, Hepatic Insufficiency and WARNINGS, Hepatic Insufficiency).
 
 ### Patients Taking Ciprofloxacin and Other CYP1A2 Inhibitors
 
 Rasagiline plasma concentrations are expected to double in patients taking concomitant ciprofloxacin and other CYP1A2 inhibitors.
 Therefore, patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should use 0.5 mg daily of AZILECT.
-(SeeCLINICAL PHARMACOLOGY, Drug-Drug Interactions, Ciprofloxacin andEffect of other drugs on the metabolism of AZILECT; andWARNINGS, Ciprofloxacin and Other CYP1A2 Inhibitors).
+(See CLINICAL PHARMACOLOGY, Drug-Drug Interactions, Ciprofloxacin and Effect of other drugs on the metabolism of AZILECT; and WARNINGS, Ciprofloxacin and Other CYP1A2 Inhibitors).

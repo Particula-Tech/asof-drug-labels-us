@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-During the clinical development of AZILECT, 1361 Parkinson’s disease patients received rasagiline as initial monotherapy or as adjunct therapy to levodopa.
+During the clinical development of AZILECT, 1361 Parkinson's disease patients received rasagiline as initial monotherapy or as adjunct therapy to levodopa.
 As these two populations differ, not only in the adjunct use of levodopa during rasagiline treatment, but also in the severity and duration of their disease, they may have differential risks for various adverse events.
 Therefore, most of the adverse events data in this section are presented separately for each population.
 
@@ -19,7 +19,7 @@ The most commonly observed adverse events that occurred in ≥ 5% of patients re
 Table 6 lists treatment-emergent adverse events that occurred in ≥ 2% of patients receiving AZILECT as monotherapy participating in the double-blind, placebo-controlled trial and were numerically more frequent than in the placebo group.
 
 Table 6.
-Treatment-Emergent* Adverse Events in AZILECT 1 mg-Treated Monotherapy Patients
+Treatment-EmergentIncidence ≥ 2% in AZILECT 1 mg group and numerically more frequent than in placebo group Adverse Events in AZILECT 1 mg-Treated Monotherapy Patients
 
 |  | % of Patients | % of Patients |
 | --- | --- | --- |
@@ -41,7 +41,6 @@ Treatment-Emergent* Adverse Events in AZILECT 1 mg-Treated Monotherapy Patients
 | Neck Pain | 2 | 0 |
 | Paresthesia | 2 | 1 |
 | Vertigo | 2 | 1 |
-| *Incidence ≥ 2% in AZILECT 1 mg group and numerically more frequent than in placebo group |  |  |
 
 Other events of potential clinical importance reported by 1% or more of patients receiving AZILECT as monotherapy, and at least as frequent as in the placebo group, in descending order of frequency include: dizziness, diarrhea, chest pain, albuminuria, allergic reaction, alopecia, angina pectoris, anorexia, asthma, hallucinations, impotence, leukopenia, libido decreased, liver function tests abnormal, skin carcinoma, syncope, vesiculobullous rash, vomiting.
 
@@ -55,7 +54,7 @@ In a double-blind, placebo-controlled trial (Study 1) conducted in patients trea
 The AEs that led to discontinuation of more than one rasagiline-treated patient were: diarrhea, weight loss, hallucination, and rash.
 Adverse event reporting was considered more reliable for Study 1 than for the second controlled trial (Study 2); therefore only the adverse event data from Study 1 are presented in this section of labeling.
 
-Adverse Eevent Incidence in Controlled Clinical Studies:
+Adverse Event Incidence in Controlled Clinical Studies:
 
 The most commonly observed adverse events that occurred in ≥ 5% of patients receiving AZILECT 1 mg (n=149) as adjunct to levodopa therapy participating in the double-blind, placebo-controlled trial (Study 1) and that were at least 1.5 times the incidence in the placebo group (n=159) in descending order of difference in incidence were dyskinesia, accidental injury, weight loss, postural hypotension, vomiting, anorexia, arthralgia, abdominal pain, nausea, constipation, dry mouth, rash, ecchymosis, somnolence and paresthesia.
 
@@ -63,7 +62,7 @@ Table 7 lists treatment-emergent adverse events that occurred in ≥ 2% of patie
 The table also shows the rates for the 0.5 mg group in Study 1.
 
 Table 7.
-Incidence of Treatment-Emergent* Adverse Events in Patients Receiving AZILECT as Adjunct to Levodopa Therapy in Study 1
+Incidence of Treatment-EmergentIncidence ≥ 2% in AZILECT 1 mg group and numerically more frequent than in placebo group Adverse Events in Patients Receiving AZILECT as Adjunct to Levodopa Therapy in Study 1
 
 |  | % of patients | % of patients | % of patients |
 | --- | --- | --- | --- |
@@ -103,7 +102,6 @@ Incidence of Treatment-Emergent* Adverse Events in Patients Receiving AZILECT as
 | Hemorrhage | 2 | 1 | 1 |
 | Hernia | 2 | 1 | 1 |
 | Myasthenia | 2 | 2 | 1 |
-| *Incidence ≥ 2% in AZILECT 1 mg group and numerically more frequent than in placebo group |  |  |  |
 
 Several of the more common adverse events seemed dose-related, including weight loss, postural hypotension, and dry mouth.
 

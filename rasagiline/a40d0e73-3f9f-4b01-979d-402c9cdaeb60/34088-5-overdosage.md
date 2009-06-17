@@ -1,14 +1,12 @@
 # OVERDOSE
 
-No cases of AZILECT overdose were reported in clinical trials.
+Symptoms reported following overdose of AZILECT in doses ranging from 3 mg to 100 mg include dysphoria, hypomania, hypertensive crisis, and serotonin syndrome.
 
 Rasagiline was well tolerated in a single-dose study in healthy volunteers receiving 20 mg/day and in a ten-day study in healthy volunteers receiving 10 mg/day.
 Adverse events were mild or moderate.
 In a dose escalation study in patients on chronic levodopa therapy treated with 10 mg of rasagiline there were three reports of cardiovascular side effects (including hypertension and postural hypotension) which resolved following treatment discontinuation.
 
-Symptoms of overdosage, although not observed with rasagiline during clinical development, may resemble those observed with non-selective MAO inhibitors.
-
-Although no cases of overdose have been observed with rasagiline, the following description of presenting symptoms and clinical course is based upon overdose descriptions of non-selective MAO inhibitors.
+The following description of presenting symptoms and clinical course is based upon overdose descriptions of non-selective MAO inhibitors.
 
 Characteristically, signs and symptoms of non-selective MAOI overdose may not appear immediately.
 Delays of up to 12 hours between ingestion of drug and the appearance of signs may occur.
