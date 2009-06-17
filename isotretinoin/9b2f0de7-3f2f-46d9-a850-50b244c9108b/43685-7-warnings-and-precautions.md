@@ -122,7 +122,7 @@ Registered and activated pharmacies must receive Accutane only from wholesalers 
 
 iPLEDGE program requirements for wholesalers, prescribers, and pharmacists are described below:
 
-## Wholesalers
+## Wholesalers:
 
 For the purpose of the iPLEDGE program, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
 To distribute Accutane, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
@@ -139,7 +139,7 @@ These include:
 - Returning to the manufacturer (or delegate) any undistributed product if registration is revoked by the manufacturer or if the wholesaler chooses to not re-register annually
 - Providing product flow data to manufacturer (or delegate) as detailed in the wholesalers agreement
 
-## Prescribers
+## Prescribers:
 
 To prescribe isotretinoin, the prescriber must be registered and activated with the pregnancy risk management program iPLEDGE.
 Prescribers can register by signing and returning the completed registration form.
@@ -230,7 +230,7 @@ In addition to the requirements for all patients described above, female patient
 - Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and 1 month after the last dose to answer questions on the program requirements and to enter the patient's two chosen forms of contraception
 - Must have been informed of the purpose and importance of providing information to the iPLEDGE program should she become pregnant while taking isotretinoin or within 1 month of the last dose
 
-## Pharmacists
+## Pharmacists:
 
 To dispense isotretinoin, pharmacies must be registered and activated with the pregnancy risk management program iPLEDGE.
 
@@ -364,7 +364,7 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
   Therefore, it is critically important for female patients of childbearing potential to select and commit to use 2 forms of effective contraception simultaneously, at least 1 of which must be a primary form (see PRECAUTIONS).
 - Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving OrthoNovum® 7/7/7 Tablets as an oral contraceptive agent, Accutane at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
   Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
-- St. John's Wort: Accutane use is associated with depression in some patients (seeWARNINGS: Psychiatric Disorders and ADVERSE REACTIONS: Psychiatric).
+- St. John's Wort: Accutane use is associated with depression in some patients (see WARNINGS: Psychiatric Disorders and ADVERSE REACTIONS: Psychiatric).
   Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John's Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John's Wort.
   Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John's Wort.
 - Phenytoin: Accutane has not been shown to alter the pharmacokinetics of phenytoin in a study in seven healthy volunteers.
@@ -448,5 +448,5 @@ In a separate open-label extension study of 10 patients, ages 13 to 18 years, wh
 
 ## Geriatric Use
 
-Clinical studies of isotretinoin did not includesufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
+Clinical studies of isotretinoin did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
 Although reported clinical experience has not identified differences in responses between elderly and younger patients, effects of aging might be expected to increase some risks associated with isotretinoin therapy (see WARNINGS and PRECAUTIONS).

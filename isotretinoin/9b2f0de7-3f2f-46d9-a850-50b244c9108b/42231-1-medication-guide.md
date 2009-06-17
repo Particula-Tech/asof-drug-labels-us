@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-ACCUTANE® (ACK-U-TANE) (isotretinoin capsules)
+ACCUTANE (ACK-U-TANE) (isotretinoin capsules)
 
 Read the Medication Guide that comes with Accutane before you start taking it and each time you get a prescription.
 There may be new information.
@@ -230,6 +230,8 @@ What are the possible side effects of Accutane?
 
 These are not all of the possible side effects with Accutane.
 Your doctor or pharmacist can give you more detailed information.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088 or Roche at 1-800-526-6367.
 
 How should I store Accutane?
 
@@ -254,7 +256,7 @@ What are the ingredients in Accutane?
 Active Ingredient: Isotretinoin
 
 Inactive Ingredients: beeswax, butylated hydroxyanisole, edetate disodium, hydrogenated soybean oil flakes, hydrogenated vegetable oil, and soybean oil.
-Gelatin capsules contain glycerin and parabens (methyl and propyl), with the following dye systems: 10 mg — iron oxide (red) and titanium dioxide; 20 mg — FD&C Red No. 3, FD&C Blue No. 1, and titanium dioxide; 40 mg — FD&C Yellow No. 6, D&C Yellow No. 10, and titanium dioxide.
+Gelatin capsules contain glycerin and parabens (methyl and propyl), with the following dyesystems: 10 mg — iron oxide (red) and titanium dioxide; 20 mg — FD&C Red No. 3, FD&C Blue No. 1, and titanium dioxide; 40 mg — FD&C Yellow No. 6, D&C Yellow No. 10, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

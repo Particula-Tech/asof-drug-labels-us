@@ -76,7 +76,7 @@ glomerulonephritis (see PRECAUTIONS: Hypersensitivity), nonspecific urogenital f
 
 Elevation of plasma triglycerides (see WARNINGS: Lipids), decrease in serum high-density lipoprotein (HDL) levels, elevations of serum cholesterol during treatment
 
-Increased alkaline phosphatase, SGOT (AST), SGPT (ALT), GGTP or LDH(see WARNINGS: Hepatotoxicity)
+Increased alkaline phosphatase, SGOT (AST), SGPT (ALT), GGTP or LDH (see WARNINGS: Hepatotoxicity)
 
 Elevation of fasting blood sugar, elevations of CPK (see PRECAUTIONS: Laboratory Tests), hyperuricemia
 

@@ -17,13 +17,14 @@ If pregnancy does occur during treatment of a female patient who is taking Accut
 
 Special Prescribing Requirements
 
-Because of Accutane's teratogenicity and to minimize fetal exposure, Accutane is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.This program is called iPLEDGE™.
+Because of Accutane's teratogenicity and to minimize fetal exposure, Accutane is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
+This program is called iPLEDGE™.
 Accutane must only be prescribed by prescribers who are registered and activated with the iPLEDGE program.
 Accutane must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).
 
 # INFORMATION FOR PHARMACISTS
 
-Access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the"do not dispense to patient after"date.
+Access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the "do not dispense to patient after" date.
 Accutane must only be dispensed in no more than a 30-day supply.
 
 REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.

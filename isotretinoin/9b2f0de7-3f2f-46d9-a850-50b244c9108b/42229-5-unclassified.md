@@ -2,7 +2,7 @@ CAUSES BIRTH DEFECTS
 
 DO NOT GET PREGNANT
 
-Table 1Monthly Required iPLEDGE Interactions
+Table 1 Monthly Required iPLEDGE Interactions
 
 |  | Female Patients of Childbearing Potential | Male Patients, And Female Patients Not of Childbearing Potential |
 | --- | --- | --- |
@@ -16,6 +16,8 @@ Table 1Monthly Required iPLEDGE Interactions
 | PHARMACIST |  |  |
 | Contacts system to get an authorization | X | X |
 
-27899434 PI Revised: October 2007
+27899639 AEC_43780_PI_062008_N(1) Rev: November 2008
 
 Distributed by: Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110–1199
+
+Copyright © 2000-2008 by Roche Laboratories Inc. All rights reserved.
