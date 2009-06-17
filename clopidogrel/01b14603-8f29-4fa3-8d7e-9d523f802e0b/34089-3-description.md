@@ -11,7 +11,7 @@ It is practically insoluble in water at neutral pH but freely soluble at pH 1.
 It also dissolves freely in methanol, dissolves sparingly in methylene chloride, and is practically insoluble in ethyl ether.
 It has a specific optical rotation of about +56°.
 
-PLAVIX for oral administration is provided as pink, round, biconvex, debossed film-coated tablets containing 97.875 mg of clopidogrel bisulfate which is the molar equivalent of 75 mg of clopidogrel base.
+PLAVIX for oral administration is provided as either pink, round, biconvex, debossed, film-coated tablets containing 97.875 mg of clopidogrel bisulfate which is the molar equivalent of 75 mg of clopidogrel base or pink, oblong, debossed film-coated tablets containing 391.5 mg of clopidogrel bisulfate which is the molar equivalent of 300 mg of clopidogrel base.
 
 Each tablet contains hydrogenated castor oil, hydroxypropylcellulose, mannitol, microcrystalline cellulose and polyethylene glycol 6000 as inactive ingredients.
 The pink film coating contains ferric oxide, hypromellose 2910, lactose monohydrate, titanium dioxide and triacetin.

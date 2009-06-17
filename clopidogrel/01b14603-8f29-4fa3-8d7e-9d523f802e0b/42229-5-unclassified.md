@@ -1,9 +1,5 @@
-Distributed by:
+Distributed by: Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership Bridgewater, NJ 08807
 
-Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership
+PLAVIX® is a registered trademark.
 
-New York, NY 10016
-
-PLAVIX® is a registered trademark of Sanofi-Synthelabo.
-
-Rev August 2006
+Revised May 2009
