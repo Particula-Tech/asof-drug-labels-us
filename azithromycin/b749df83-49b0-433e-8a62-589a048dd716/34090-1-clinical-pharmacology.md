@@ -81,7 +81,6 @@ Over the course of a week, approximately 6% of the administered dose appears as 
 Azithromycin pharmacokinetics was investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), the mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 increased 61% and 35%, respectively in subjects with end-stage renal disease (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
-Based upon the pharmacokinetic data for azithromycin in subjects with renal impairment, no dose adjustment for Zmax is recommended in patients with GFR >10 mL/min.
 (See DOSAGE AND ADMINISTRATION.)
 
 ### Hepatic Insufficiency

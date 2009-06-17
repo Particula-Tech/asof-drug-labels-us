@@ -1,7 +1,7 @@
 # WARNINGS
 
-Rare serious allergic reactions, including angioedema and anaphylaxis, have been reported rarely in patients on azithromycin therapy.
-(See CONTRAINDICATIONS.)
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens Johnson Syndrome and toxic epidermal necrolysis have been reported rarely in patients on azithromycin therapy.
+Although rare, fatalities have been reported (see CONTRAINDICATIONS).
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
 These patients required prolonged periods of observation and symptomatic treatment.
 The relationship of these episodes to the long tissue half-life of azithromycin and subsequent prolonged exposure to antigen is unknown at present.
@@ -9,12 +9,16 @@ The relationship of these episodes to the long tissue half-life of azithromycin 
 If an allergic reaction occurs, the drug should be discontinued and appropriate therapy should be instituted.
 Physicians should be aware that reappearance of the allergic symptoms may occur when symptomatic therapy is discontinued.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of "antibiotic-associated colitis."
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -26,6 +30,8 @@ Due to the limited data in subjects with GFR<10 mL/min, caution should be exerci
 
 Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with other macrolides.
 A similar effect with azithromycin cannot be completely ruled out in patients at increased risk for prolonged cardiac repolarization.
+
+Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
 Prescribing Zithromax (azithromycin) in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -44,6 +50,10 @@ Patients should be counseled that antibacterial drugs including Zithromax (azith
 They do not treat viral infections (e.g., the common cold).
 When Zithromax (azithromycin) is prescribed to treat bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Zithromax (azithromycin) or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Drug Interactions
 
@@ -80,9 +90,8 @@ The effect of azithromycin on the plasma levels or pharmacokinetics of theophyll
 However, concurrent use of macrolides and theophylline has been associated with increases in the serum concentrations of theophylline.
 Therefore, until further data are available, prudent medical practice dictates careful monitoring of plasma theophylline levels in patients receiving azithromycin and theophylline concomitantly.
 
-Azithromycin (500 mg Day 1, 250 mg Days 2–5) did not affect the prothrombin time response to a single dose of warfarin.
-However, prudent medical practice dictates careful monitoring of prothrombin time in all patients treated with azithromycin and warfarin concomitantly.
-Concurrent use of macrolides and warfarin in clinical practice has been associated with increased anticoagulant effects.
+Although, in a study of 22 healthy men, a 5-day course of azithromycin did not affect the prothrombin time from a subsequently administered dose of warfarin, spontaneous post-marketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants.
+Prothrombin times should be carefully monitored while patients are receiving azithromycin and oral anticoagulants concomitantly.
 
 Dose adjustments are not indicated when azithromycin and zidovudine are coadministered.
 When zidovudine (100 mg q3h ×5) was coadministered with daily azithromycin (600 mg, n=5 or 1200 mg, n=7), mean Cmax, AUC and Clr increased by 26% (CV 54%), 10% (CV 26%) and 38% (CV 114%), respectively.

@@ -55,7 +55,7 @@ Liver/Biliary: Abnormal liver function including hepatitis and cholestatic jaund
 Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
 Psychiatric: Aggressive reaction and anxiety.
 Skin/Appendages: Pruritus, rarely serious skin reactions including erythema multiforme, Stevens Johnson Syndrome, and toxic epidermal necrolysis.
-Special Senses: Hearing disturbances including hearing loss, deafness, and/or tinnitus, rare reports of taste/smell perversion and/or loss.
+Special Senses: Hearing disturbances including hearing loss, deafness, and/or tinnitus, reports of taste/smell perversion and/or loss.
 
 ## Laboratory Abnormalities
 
