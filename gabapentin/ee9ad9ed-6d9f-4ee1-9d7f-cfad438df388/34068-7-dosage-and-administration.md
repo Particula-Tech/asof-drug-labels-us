@@ -50,7 +50,7 @@ where age is in years, weight is in kilograms and SCr is serum creatinine in mg/
 
 Dosage adjustment in patients ≥12 years of age with compromised renal function or undergoing hemodialysis is recommended as follows (see dosing recommendations above for effective doses in each indication).
 
-TABLE 5.
+TABLE 6.
 Neurontin Dosage Based on Renal Function
 
 | Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range (mg/day) | Dose Regimen (mg) |  |  |  |  |

@@ -20,7 +20,7 @@ White elliptical film-coated scored tablets debossed with "NT" and "16" on one s
 
 800 mg tablets;
 
-White elliptical film-coated scored tablets debossed with "NT" and"26" on one side; available in: Bottles of 100: N 0071-0401-24
+White elliptical film-coated scored tablets debossed with "NT" and "26" on one side; available in: Bottles of 100: N 0071-0401-24
 
 250 mg/5 mL oral solution;
 
@@ -28,11 +28,11 @@ Clear colorless to slightly yellow solution; each 5 mL of oral solution contains
 
 Storage (Capsules)
 
-Store at 25°C (77°F); excursions permitted to 15°– 30°C (59°– 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° – 30°C (59° – 86°F) [see USP Controlled Room Temperature].
 
 Storage (Tablets)
 
-Store at 25°C (77°F); excursions permitted to 15°– 30°C (59°– 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° – 30°C (59° – 86°F) [see USP Controlled Room Temperature].
 
 Storage (Oral Solution)
 

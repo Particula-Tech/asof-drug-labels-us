@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Neurontin® (gabapentin) Capsules, Neurontin® (gabapentin) Tablets, and Neurontin® (gabapentin) Oral Solution are supplied as imprinted hard shell capsules containing 100 mg, 300 mg, and 400 mg of gabapentin, elliptical film–coated tablets containing 600 mg and 800 mg of gabapentin or an oral solution containing 250 mg/5 mL of gabapentin.
+Neurontin® (gabapentin) Capsules, Neurontin® (gabapentin) Tablets, and Neurontin® (gabapentin) Oral Solution are supplied as imprinted hard shell capsules containing 100 mg, 300 mg, and 400 mg of gabapentin, elliptical film-coated tablets containing 600 mg and 800 mg of gabapentin or an oral solution containing 250 mg/5 mL of gabapentin.
 
 The inactive ingredients for the capsules are lactose, cornstarch, and talc.
 The 100 mg capsule shell contains gelatin and titanium dioxide.

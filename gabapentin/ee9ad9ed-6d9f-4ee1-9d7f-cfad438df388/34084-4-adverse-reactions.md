@@ -9,10 +9,10 @@ The adverse events that most frequently led to withdrawal in Neurontin-treated p
 
 ### Incidence in Controlled Clinical Trials
 
-Table 2 lists treatment-emergent signs and symptoms that occurred in at least 1% of Neurontin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the Neurontin group than in the placebo group.
+Table 3 lists treatment-emergent signs and symptoms that occurred in at least 1% of Neurontin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the Neurontin group than in the placebo group.
 Adverse events were usually mild to moderate in intensity.
 
-TABLE 2.
+TABLE 3.
 Treatment-Emergent Adverse Event Incidence in Controlled Trials in Postherpetic Neuralgia (Events in at least 1% of Neurontin-Treated Patients and Numerically More Frequent Than in the Placebo Group)
 
 | Preferred Term | N=336 % | N=227 % |
@@ -70,7 +70,7 @@ The adverse events most commonly associated with withdrawal in pediatric patient
 
 ### Incidence in Controlled Clinical Trials
 
-Table 3 lists treatment-emergent signs and symptoms that occurred in at least 1% of Neurontin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the Neurontin group.
+Table 4 lists treatment-emergent signs and symptoms that occurred in at least 1% of Neurontin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the Neurontin group.
 In these studies, either Neurontin or placebo was added to the patient's current antiepileptic drug therapy.
 Adverse events were usually mild to moderate in intensity.
 
@@ -78,7 +78,7 @@ The prescriber should be aware that these figures, obtained when Neurontin was a
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.
 
-TABLE 3.
+TABLE 4.
 Treatment-Emergent Adverse Event Incidence in Controlled Add-On Trials In Patients >12 years of age (Events in at least 1% of Neurontin patients and numerically more frequent than in the placebo group)
 
 | Adverse Event | N=543 % | N=378 % |
@@ -138,10 +138,10 @@ The overall incidence of adverse events and the types of adverse events seen wer
 The incidence of adverse events increased slightly with increasing age in patients treated with either Neurontin or placebo.
 Because only 3% of patients (28/921) in placebo-controlled studies were identified as nonwhite (black or other), there are insufficient data to support a statement regarding the distribution of adverse events by race.
 
-Table 4 lists treatment-emergent signs and symptoms that occurred in at least 2% of Neurontin-treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the Neurontin group.
+Table 5 lists treatment-emergent signs and symptoms that occurred in at least 2% of Neurontin-treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the Neurontin group.
 Adverse events were usually mild to moderate in intensity.
 
-TABLE 4.
+TABLE 5.
 Treatment-Emergent Adverse Event Incidence in Pediatric Patients Age 3 to 12 Years in a Controlled Add-On Trial (Events in at least 2% of Neurontin patients and numerically more frequent than in the placebo group)
 
 | Adverse Event | N=119 % | N=128 % |
@@ -175,7 +175,7 @@ During these trials, all adverse events were recorded by the clinical investigat
 To provide a meaningful estimate of the proportion of individuals having adverse events, similar types of events were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology.
 These categories are used in the listing below.
 The frequencies presented represent the proportion of the 4717 patients >12 years of age exposed to Neurontin who experienced an event of the type cited on at least one occasion while receiving Neurontin.
-All reported events are included except those already listed in Table 3, those too general to be informative, and those not reasonably associated with the use of the drug.
+All reported events are included except those already listed in Table 4, those too general to be informative, and those not reasonably associated with the use of the drug.
 
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
@@ -183,7 +183,7 @@ Body As A Whole: Frequent: asthenia, malaise, face edema; Infrequent: allergy, g
 
 Cardiovascular System: Frequent: hypertension; Infrequent: hypotension, angina pectoris, peripheral vascular disorder, palpitation, tachycardia, migraine, murmur; Rare: atrial fibrillation, heart failure, thrombophlebitis, deep thrombophlebitis, myocardial infarction, cerebrovascular accident, pulmonary thrombosis, ventricular extrasystoles, bradycardia, premature atrial contraction, pericardial rub, heart block, pulmonary embolus, hyperlipidemia, hypercholesterolemia, pericardial effusion, pericarditis.
 
-Digestive System: Frequent: anorexia, flatulence, gingivitis; Infrequent: glossitis, gum hemorrhage, thirst, stomatitis, increased salivation, gastroenteritis, hemorrhoids, bloody stools, fecal incontinence, hepatomegaly; Rare: dysphagia, eructation, pancreatitis, peptic ulcer, colitis, blisters in mouth, tooth discolor, perlèche, salivary gland enlarged, lip hemorrhage, esophagitis, hiatal hernia, hematemesis, proctitis, irritable bowel syndrome, rectal hemorrhage, esophageal spasm
+Digestive System: Frequent: anorexia, flatulence, gingivitis; Infrequent: glossitis, gum hemorrhage, thirst, stomatitis, increased salivation, gastroenteritis, hemorrhoids, bloody stools, fecal incontinence, hepatomegaly; Rare: dysphagia, eructation, pancreatitis, peptic ulcer, colitis, blisters in mouth, tooth discolor, perlèche, salivary gland enlarged, lip hemorrhage, esophagitis, hiatal hernia, hematemesis, proctitis, irritable bowel syndrome, rectal hemorrhage, esophageal spasm.
 
 Endocrine System: Rare: hyperthyroid, hypothyroid, goiter, hypoestrogen, ovarian failure, epididymitis, swollen testicle, cushingoid appearance.
 
@@ -191,7 +191,7 @@ Hematologic and Lymphatic System: Frequent: purpura most often described as brui
 
 Musculoskeletal System: Frequent: arthralgia; Infrequent: tendinitis, arthritis, joint stiffness, joint swelling, positive Romberg test; Rare: costochondritis, osteoporosis, bursitis, contracture.
 
-Nervous System: Frequent: vertigo, hyperkinesia, paresthesia, decreased or absent reflexes, increased reflexes, anxiety, hostility; Infrequent: CNS tumors, syncope, dreaming abnormal, aphasia, hypesthesia, intracranial hemorrhage, hypotonia, dysesthesia, paresis, dystonia, hemiplegia, facial paralysis, stupor, cerebellar dysfunction, positive Babinski sign, decreased position sense, subdural hematoma, apathy, hallucination, decrease or loss of libido, agitation, paranoia, depersonalization, euphoria, feeling high, doped-up sensation, suicide attempt, psychosis; Rare: choreoathetosis, orofacial dyskinesia, encephalopathy, nerve palsy, personality disorder, increased libido, subdued temperament, apraxia, fine motor control disorder, meningismus, local myoclonus, hyperesthesia, hypokinesia, mania, neurosis, hysteria, antisocial reaction, suicide.
+Nervous System: Frequent: vertigo, hyperkinesia, paresthesia, decreased or absent reflexes, increased reflexes, anxiety, hostility; Infrequent: CNS tumors, syncope, dreaming abnormal, aphasia, hypesthesia, intracranial hemorrhage, hypotonia, dysesthesia, paresis, dystonia, hemiplegia, facial paralysis, stupor, cerebellar dysfunction, positive Babinski sign, decreased position sense, subdural hematoma, apathy, hallucination, decrease or loss of libido, agitation, paranoia, depersonalization, euphoria, feeling high, doped-up sensation, psychosis; Rare: choreoathetosis, orofacial dyskinesia, encephalopathy, nerve palsy, personality disorder, increased libido, subdued temperament, apraxia, fine motor control disorder, meningismus, local myoclonus, hyperesthesia, hypokinesia, mania, neurosis, hysteria, antisocial reaction.
 
 Respiratory System: Frequent: pneumonia; Infrequent: epistaxis, dyspnea, apnea; Rare: mucositis, aspiration pneumonia, hyperventilation, hiccup, laryngitis, nasal obstruction, snoring, bronchospasm, hypoventilation, lung edema.
 
@@ -221,7 +221,7 @@ Respiratory System: pseudocroup, hoarseness
 
 Safety information was obtained in 1173 patients during double-blind and open-label clinical trials including neuropathic pain conditions for which efficacy has not been demonstrated.
 Adverse events reported by investigators were grouped into standardized categories using modified COSTART IV terminology.
-Listed below are all reported events except those already listed in Table 2 and those not reasonably associated with the use of the drug.
+Listed below are all reported events except those already listed in Table 3 and those not reasonably associated with the use of the drug.
 
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
@@ -239,7 +239,7 @@ Metabolic and Nutritional: Infrequent: edema, gout, hypoglycemia, weight loss; R
 
 Musculoskeletal: Infrequent: arthritis, arthralgia, myalgia, arthrosis, leg cramps, myasthenia; Rare: shin bone pain, joint disorder, tendon disorder.
 
-Nervous System: Frequent: confusion, depression; Infrequent: vertigo, nervousness, paresthesia, insomnia, neuropathy, libido decreased, anxiety, depersonalization, reflexes decreased, speech disorder, abnormal dreams, dysarthria, emotional lability, nystagmus, stupor, circumoral paresthesia, euphoria, hyperesthesia, hypokinesia, suicide attempt; Rare: agitation, hypertonia, libido increased, movement disorder, myoclonus, vestibular disorder.
+Nervous System: Frequent: confusion, depression; Infrequent: vertigo, nervousness, paresthesia, insomnia, neuropathy, libido decreased, anxiety, depersonalization, reflexes decreased, speech disorder, abnormal dreams, dysarthria, emotional lability, nystagmus, stupor, circumoral paresthesia, euphoria, hyperesthesia, hypokinesia; Rare: agitation, hypertonia, libido increased, movement disorder, myoclonus, vestibular disorder.
 
 Respiratory System: Infrequent: cough increased, bronchitis, rhinitis, sinusitis, pneumonia, asthma, lung disorder, epistaxis; Rare: hemoptysis, voice alteration.
 
