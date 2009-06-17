@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022332"
+  ],
+  "inn": "tadalafil",
+  "labeler": "United Therapeutics Corporation",
+  "package_ndcs": [
+    "66302-467-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tadalafil",
+      "name": "ADCIRCA"
+    }
+  ],
+  "setid": "ff61b237-be8e-461b-8114-78c52a8ad0ae",
+  "source": "dailymed"
+}
