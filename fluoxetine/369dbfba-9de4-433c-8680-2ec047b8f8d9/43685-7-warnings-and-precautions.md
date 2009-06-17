@@ -12,17 +12,17 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug versus placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
-|  | Drug-Related Increases |
+|  | Increases Compared to Placebo |
 | < 18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
-|  | Drug-Related Decreases |
+|  | Decreases Compared to Placebo |
 | 25 to 64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
@@ -39,7 +39,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION, Discontinuation of Treatment withFluoxetine Capsules, for a description of the risks of discontinuation of fluoxetine capsules.
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION, Discontinuation of Treatment WithFluoxetine Capsules, for a description of the risks of discontinuation of fluoxetine capsules).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine capsules should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
@@ -78,18 +78,22 @@ Whether these systemic events and rash have a common underlying cause or are due
 Furthermore, a specific underlying immunologic basis for these events has not been identified.
 Upon the appearance of rash or of other possibly allergic phenomena for which an alternative etiology cannot be identified, fluoxetine should be discontinued.
 
-## Serotonin Syndrome
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur with fluoxetine treatment, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+The development of a potentially life-threatening serotonin syndrome, or Neuroleptic Malignant Syndrome (NMS)-like reactions, has been reported with SNRIs and SSRIs alone, including fluoxetine treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of fluoxetine with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and Drug Interactions under PRECAUTIONS).
+The concomitant use of fluoxetine with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions).
 
-If concomitant treatment of fluoxetine with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see Drug Interactions under PRECAUTIONS).
+If concomitant treatment of fluoxetine with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
 
-The concomitant use of fluoxetine with serotonin precursors (such as tryptophan) is not recommended (see Drug Interactions under PRECAUTIONS).
+The concomitant use of fluoxetine with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS, Drug Interactions).
 
-## Potential Interaction with Thioridazine
+Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
+## Potential Interaction With Thioridazine
 
 In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4 fold higher Cmax and a 4.5 fold higher AUC for thioridazine in the slow hydroxylators compared to the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of cytochrome CYP2D6 isozyme activity.
@@ -104,11 +108,12 @@ This risk is expected to increase with fluoxetine-induced inhibition of thiorida
 
 ### Abnormal Bleeding
 
-Published case reports have documented the occurrence of bleeding episodes in patients treated with psychotropic drugs that interfere with serotonin reuptake.
-Subsequent epidemiological studies, both of the case control and cohort design, have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
-In two studies, concurrent use of a nonsteroidal anti-inflammatory drug (NSAID) or aspirin potentiated the risk of bleeding (see Drug Interactions).
-Although these studies focused on upper gastrointestinal bleeding, there is reason to believe that bleeding at other sites may be similarly potentiated.
-Patients should be cautioned regarding the risk of bleeding associated with the concomitant use of fluoxetine with NSAIDs, aspirin, or other drugs that affect coagulation.
+SSRIs and SNRIs, including fluoxetine, may increase the risk of bleeding events.
+Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, or other drugs that affect coagulation (see Drug Interactions).
 
 ### Anxiety and Insomnia
 
@@ -120,7 +125,7 @@ Anxiety was reported in 14% of patients treated with fluoxetine and in 7% of pat
 In U.S. placebo-controlled clinical trials for bulimia nervosa, insomnia was reported in 33% of patients treated with fluoxetine 60 mg, and 13% of patients treated with placebo.
 Anxiety and nervousness were reported, respectively, in 15% and 11% of patients treated with fluoxetine 60 mg, and in 9% and 5% of patients treated with placebo.
 
-Among the most common adverse events associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary event associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in major depressive disorder) (see TABLE 4).
+Among the most common adverse events associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary event associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in major depressive disorder) (see Table 4).
 
 ### Altered Appetite and Weight
 
@@ -128,10 +133,10 @@ Significant weight loss, especially in underweight depressed or bulimic patients
 
 In U.S. placebo-controlled clinical trials for major depressive disorder, 11% of patients treated with fluoxetine and 2% of patients treated with placebo reported anorexia (decreased appetite).
 Weight loss was reported in 1.4% of patients treated with fluoxetine and in 0.5% of patients treated with placebo.
-However, only rarely have patients discontinued treatment with fluoxetine because of anorexia or weight loss (see also Pediatric Use under PRECAUTIONS).
+However, only rarely have patients discontinued treatment with fluoxetine because of anorexia or weight loss (see also PRECAUTIONS, Pediatric Use).
 
 In U.S. placebo-controlled clinical trials for OCD, 17% of patients treated with fluoxetine and 10% of patients treated with placebo reported anorexia (decreased appetite).
-One patient discontinued treatment with fluoxetine because of anorexia (see also Pediatric Use under PRECAUTIONS).
+One patient discontinued treatment with fluoxetine because of anorexia (see also PRECAUTIONS, Pediatric Use).
 
 In U.S. placebo-controlled clinical trials for bulimia nervosa, 8% of patients treated with fluoxetine 60 mg and 4% of patients treated with placebo reported anorexia (decreased appetite).
 Patients treated with fluoxetine 60 mg on average lost 0.45 kg compared with a gain of 0.16 kg by patients treated with placebo in the 16 week double-blind trial.
@@ -140,21 +145,23 @@ Weight change should be monitored during therapy.
 ### Activation of Mania/Hypomania
 
 In U.S. placebo-controlled clinical trials for major depressive disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
-Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of major depressive disorder (see also Pediatric Use under PRECAUTIONS).
+Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of major depressive disorder (see also PRECAUTIONS, Pediatric Use).
 
 In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
 No patients reported mania/hypomania in U.S. placebo-controlled clinical trials for bulimia.
-In all U.S. fluoxetine clinical trials as of May 8, 1995, 0.7% of 10,782 patients reported mania/hypomania (see also Pediatric Use under PRECAUTIONS).
+In all U.S. fluoxetine clinical trials as of May 8, 1995, 0.7% of 10,782 patients reported mania/hypomania (see also PRECAUTIONS, Pediatric Use).
 
 ### Hyponatremia
 
-Cases of hyponatremia (some with serum sodium lower than 110 mmol/L) have been reported.
-The hyponatremia appeared to be reversible when fluoxetine was discontinued.
-Although these cases were complex with varying possible etiologies, some were possibly due to the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
-The majority of these occurrences have been in older patients and in patients taking diuretics or who were otherwise volume depleted.
-In two 6 week controlled studies in patients ≥ 60 years of age, 10 of 323 fluoxetine patients and 6 of 327 placebo recipients had a lowering of serum sodium below the reference range; this difference was not statistically significant.
-The lowest observed concentration was 129 mmol/L.
-The observed decreases were not clinically significant.
+Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including fluoxetine.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Cases with serum sodium lower than 110 mmol/L have been reported and appeared to be reversible when fluoxetine was discontinued.
+Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
+Discontinuation of fluoxetine should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ### Seizures
 
@@ -168,7 +175,7 @@ Fluoxetine should be introduced with care in patients with a history of seizures
 
 Because of the long elimination half-lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-### Use in Patients with Concomitant Illness
+### Use in Patients With Concomitant Illness
 
 Clinical experience with fluoxetine in patients with concomitant systemic illness is limited.
 Caution is advisable in using fluoxetine in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -181,18 +188,18 @@ The mean heart rate was reduced by approximately 3 beats/min.
 In subjects with cirrhosis of the liver, the clearances of fluoxetine and its active metabolite, norfluoxetine, were decreased, thus increasing the elimination half-lives of these substances.
 A lower or less frequent dose should be used in patients with cirrhosis.
 
-Studies in depressed patients on dialysis did not reveal excessive accumulation of fluoxetine or norfluoxetine in plasma (see Renal Disease under CLINICAL PHARMACOLOGY).
+Studies in depressed patients on dialysis did not reveal excessive accumulation of fluoxetine or norfluoxetine in plasma (see CLINICAL PHARMACOLOGY, Renal Disease).
 Use of a lower or less frequent dose for renally impaired patients is not routinely necessary (see DOSAGE AND ADMINISTRATION).
 
 In patients with diabetes, fluoxetine may alter glycemic control.
 Hypoglycemia has occurred during therapy with fluoxetine, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued.
 
-### Interference with Cognitive and Motor Performance
+### Interference With Cognitive and Motor Performance
 
 Any psychoactive drug may impair judgment, thinking, or motor skills, and patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
 
-### Discontinuation of Treatment with Fluoxetine
+### Discontinuation of Treatment With Fluoxetine
 
 During marketing of fluoxetine and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -221,17 +228,19 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ### Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and triptans, tramadol, or other serotonergic agents.
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and triptans, tramadol or other serotonergic agents.
 
 Because fluoxetine may impair judgment, thinking, or motor skills, patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected.
 
 Patients should be advised to inform their physician if they are taking or plan to take any prescription or over-the-counter drugs, or alcohol.
 
-Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding.
+### Abnormal Bleeding
+
+Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding (see PRECAUTIONS, General, Abnormal Bleeding).
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 
-Patients should be advised to notify their physician if they are breast feeding an infant.
+Patients should be advised to notify their physician if they are breast-feeding an infant.
 
 Patients should be advised to notify their physician if they develop a rash or hives.
 
@@ -241,16 +250,15 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-As with all drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic drug inhibition or enhancement, etc.) is a possibility (see Accumulation and Slow Elimination under CLINICAL PHARMACOLOGY).
+As with all drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic drug inhibition or enhancement, etc.) is a possibility (see CLINICAL PHARMACOLOGY, Accumulation and slow elimination).
 
 ### Drugs Metabolized by CYP2D6
 
-Fluoxetine inhibits the activity of CYP2D6, and thus may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizers.
+Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
 Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6, including certain antidepressants (e.g., TCAs), antipsychotics (e.g., phenothiazines and most atypicals), and antiarrhythmics (e.g., propafenone, flecainide, and others) should be approached with caution.
-Therapy with medications that are predominantly metabolized by the CYP2D6 system and that have a relatively narrow therapeutic index (see list below), should be initiated at the low end of the dose range if a patient is receiving fluoxetine concurrently or has taken it in the previous 5 weeks.
-Thus, his/her dosing requirements resemble those of "poor metabolizers."
+Therapy with medications that are predominantly metabolized by the CYP2D6 system and that have a relatively narrow therapeutic index (see list below) should be initiated at the low end of the dose range if a patient is receiving fluoxetine concurrently or has taken it in the previous 5 weeks.
+Thus, his/her dosing requirements resemble those of poor metabolizers.
 If fluoxetine is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need for decreased dose of the original medication should be considered.
-
 Drugs with a narrow therapeutic index represent the greatest concern (e.g., flecainide, propafenone, vinblastine, and TCAs).
 Due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued (see CONTRAINDICATIONS and WARNINGS).
 
@@ -264,7 +272,7 @@ These data indicate that fluoxetine's extent of inhibition of cytochrome CYP3A4 
 
 The risk of using fluoxetine in combination with other CNS active drugs has not been systematically evaluated.
 Nonetheless, caution is advised if the concomitant administration of fluoxetine and such drugs is required.
-In evaluating individual cases, consideration should be given to using lower initial doses of the concomitantly administered drugs, using conservative titration schedules, and monitoring of clinical status (see Accumulation and Slow Elimination under CLINICAL PHARMACOLOGY).
+In evaluating individual cases, consideration should be given to using lower initial doses of the concomitantly administered drugs, using conservative titration schedules, and monitoring of clinical status (see CLINICAL PHARMACOLOGY, Accumulation and slow elimination).
 
 ### Anticonvulsants
 
@@ -281,7 +289,7 @@ For thioridazine, see CONTRAINDICATIONS and WARNINGS.
 
 ### Benzodiazepines
 
-The half-life of concurrently administered diazepam may be prolonged in some patients (see Accumulation and Slow Elimination under CLINICAL PHARMACOLOGY).
+The half-life of concurrently administered diazepam may be prolonged in some patients (see CLINICAL PHARMACOLOGY, Accumulation and slow elimination).
 Coadministration of alprazolam and fluoxetine has resulted in increased alprazolam plasma concentrations and in further psychomotor performance decrement due to increased alprazolam levels.
 
 ### Lithium
@@ -302,33 +310,29 @@ See CONTRAINDICATIONS.
 
 In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2 to 10 fold when fluoxetine has been administered in combination.
 This influence may persist for 3 weeks or longer after fluoxetine is discontinued.
-Thus, the dose of TCA may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued (see Accumulation and Slow Elimination under CLINICAL PHARMACOLOGY and Drugs Metabolized by CYP2D6 under Drug Interactions).
+Thus, the dose of TCA may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued (see CLINICAL PHARMACOLOGY, Accumulation and slow elimination and Drug Interactions, Drugs Metabolized by CYP2D6).
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of fluoxetine and the potential for serotonin syndrome, caution is advised when fluoxetine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John’s Wort (see Serotonin Syndrome under WARNINGS).
+Based on the mechanism of action of SNRIs and SSRIs, including fluoxetine, and the potential for serotonin syndrome, caution is advised when fluoxetine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
 The concomitant use of fluoxetine with other SSRIs, SNRIs or tryptophan is not recommended (see Tryptophan).
 
 ### Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of fluoxetine with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see Serotonin Syndrome under WARNINGS).
+If concomitant treatment of fluoxetine with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
 ### Potential Effects of Coadministration of Drugs Tightly Bound to Plasma Proteins
 
 Because fluoxetine is tightly bound to plasma protein, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., warfarin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect.
-Conversely, adverse effects may result from displacement of protein-bound fluoxetine by other tightly bound drugs (see Accumulation and Slow Elimination under CLINICAL PHARMACOLOGY).
+Conversely, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs (see CLINICAL PHARMACOLOGY, Accumulation and slow elimination).
 
-### Drugs that Interfere with Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
+### Drugs That Interfere With Hemostasis (e.g., NSAIDs, Aspirin, Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin potentiated the risk of bleeding.
-Thus, patients should be cautioned about the use of such drugs concurrently with fluoxetine.
-
-### Warfarin
-
-Altered anticoagulant effects, including increased bleeding, have been reported when fluoxetine is coadministered with warfarin.
-Patients receiving warfarin therapy should receive careful coagulation monitoring when fluoxetine is initiated or stopped.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when fluoxetine is initiated or discontinued.
 
 ### Electroconvulsive Therapy (ECT)
 
@@ -342,7 +346,7 @@ Impairment of fertility in adult animals at doses up to 12.5 mg/kg/day (approxim
 
 ### Carcinogenicity
 
-The dietary administration of fluoxetine to rats and mice for 2 years at doses of up to 10 and 12 mg/kg/day, respectively (approximately 1.2 and 0.7 times, respectively, the maximum recommended human dose [MRHD] of 80 mg on a mg/m2 basis), produced no evidence of carcinogenicity.
+The dietary administration of fluoxetine to rats and mice for 2 years at doses of up to 10 and 12 mg/kg/day, respectively [approximately 1.2 and 0.7 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis], produced no evidence of carcinogenicity.
 
 ### Mutagenicity
 
@@ -370,7 +374,7 @@ Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine r
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see Monoamine Oxidase Inhibitors under CONTRAINDICATIONS).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see CONTRAINDICATIONS, Monoamine Oxidase Inhibitors).
 
 Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 to 2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
@@ -389,8 +393,8 @@ However, because fluoxetine crosses the placenta and because of the possibility 
 ## Nursing Mothers
 
 Because fluoxetine is excreted in human milk, nursing while on fluoxetine is not recommended.
-In one breast milk sample, the concentration of fluoxetine plus norfluoxetine was 70.4 ng/mL.
-The concentration in the mother's plasma was 295 ng/mL.
+In one breast-milk sample, the concentration of fluoxetine plus norfluoxetine was 70.4 ng/mL.
+The concentration in the mother's plasma was 295.0 ng/mL.
 No adverse effects on the infant were reported.
 In another case, an infant nursed by a mother on fluoxetine developed crying, sleep disturbance, vomiting, and watery stools.
 The infant's plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of norfluoxetine on the second day of feeding.
@@ -403,7 +407,7 @@ The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13 w
 
 The safety and effectiveness in pediatric patients < 8 years of age in major depressive disorder and < 7 years of age in OCD have not been established.
 
-Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (ages 6 to ≤ 18) with major depressive disorder or OCD (see Pharmacokinetics under CLINICAL PHARMACOLOGY).
+Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (ages 6 to ≤ 18) with major depressive disorder or OCD (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 The acute adverse event profiles observed in the 3 studies (N = 418 randomized; 228 fluoxetine-treated, 190 placebo-treated) were generally similar to that observed in adult studies with fluoxetine.
 The longer-term adverse event profile observed in the 19 week major depressive disorder study (N = 219 randomized; 109 fluoxetine-treated, 110 placebo-treated) was also similar to that observed in adult trials with fluoxetine (see ADVERSE REACTIONS).
@@ -441,13 +445,13 @@ In another mouse study, administration of fluoxetine (10 mg/kg intraperitoneal) 
 The dose used in this study is approximately equal to the pediatric MRD on a mg/m2 basis.
 Because of the early dosing period in this study, the significance of these findings to the approved pediatric use in humans is uncertain.
 
-Fluoxetine is approved for use in pediatric patients with MDD and OCD (see BOXED WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
+Fluoxetine is approved for use in pediatric patients with MDD and OCD (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
 Anyone considering the use of fluoxetine in a child or adolescent must balance the potential risks with the clinical need.
 
 ## Geriatric Use
 
-U.S. fluoxetine clinical trials as of May 8, 1995 (10,782 patients) included 687 patients ≥ 65 years of age and 93 patients ≥ 75 years of age.
+U.S. fluoxetine clinical trials included 687 patients ≥ 65 years of age and 93 patients ≥ 75 years of age.
 The efficacy in geriatric patients has been established (see CLINICAL TRIALS).
-For pharmacokinetic information in geriatric patients see Age under CLINICAL PHARMACOLOGY.
+For pharmacokinetic information in geriatric patients, see CLINICAL PHARMACOLOGY, Age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-As with other SSRIs, fluoxetine has been associated with cases of clinically significant hyponatremia in elderly patients (see Hyponatremia under PRECAUTIONS).
+SSRIs and SNRIs, including fluoxetine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).

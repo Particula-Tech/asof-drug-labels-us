@@ -2,7 +2,9 @@
 
 ## Major Depressive Disorder
 
-### Adult
+### Daily Dosing
+
+#### Adult
 
 The efficacy of fluoxetine for the treatment of patients with major depressive disorder (≥ 18 years of age) has been studied in 5 and 6 week placebo-controlled trials.
 Fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale (HAM-D).
@@ -12,11 +14,11 @@ Two 6 week controlled studies (N = 671, randomized) comparing fluoxetine 20 mg a
 In these studies, fluoxetine produced a significantly higher rate of response and remission as defined, respectively, by a 50% decrease in the HAM-D score and a total endpoint HAM-D score of ≤ 8.
 Fluoxetine was well tolerated and the rate of treatment discontinuations due to adverse events did not differ between fluoxetine (12%) and placebo (9%).
 
-A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤ 7 during each of the last 3 weeks of open-label treatment and absence of major depressive disorder by DSM-III-R criteria) by the end of an initial 12 week open treatment phase on fluoxetine 20 mg/day.
+A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤ 7 during each of the last 3 weeks of open-label treatment and absence of major depressive disorder by DSM-III-R criteria) by the end of an initial 12 week open-treatment phase on fluoxetine 20 mg/day.
 These patients (N = 298) were randomized to continuation on double-blind fluoxetine 20 mg/day or placebo.
 At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of major depressive disorder for 2 weeks or a modified HAMD-17 score of ≥ 14 for 3 weeks) was observed for patients taking fluoxetine compared to those on placebo.
 
-### Pediatric (Children and Adolescents)
+#### Pediatric (children and adolescents)
 
 The efficacy of fluoxetine 20 mg/day for the treatment of major depressive disorder in pediatric outpatients (N = 315 randomized; 170 children ages 8 to < 13, 145 adolescents ages 13 to ≤ 18) has been studied in two 8 to 9 week placebo-controlled clinical trials.
 
@@ -63,9 +65,9 @@ Patients in the 8 week studies received either 20 or 60 mg/day of fluoxetine or 
 Patients in the 16 week study received a fixed fluoxetine dose of 60 mg/day (once a day) or placebo.
 Patients in these 3 studies had moderate to severe bulimia with median binge-eating and vomiting frequencies ranging from 7 to 10 per week and 5 to 9 per week, respectively.
 In these 3 studies, fluoxetine 60 mg, but not 20 mg, was statistically significantly superior to placebo in reducing the number of binge-eating and vomiting episodes per week.
-The statistically significantly superior effect of 60 mg vs. placebo was present as early as Week 1 and persisted throughout each study.
+The statistically significantly superior effect of 60 mg versus placebo was present as early as Week 1 and persisted throughout each study.
 The fluoxetine-related reduction in bulimic episodes appeared to be independent of baseline depression as assessed by the Hamilton Depression Rating Scale.
-In each of these 3 studies, the treatment effect, as measured by differences between fluoxetine 60 mg, and placebo on median reduction from baseline in frequency of bulimic behaviors at endpoint, ranged from 1 to 2 episodes per week for binge-eating and 2 to 4 episodes per week for vomiting.
+In each of these 3 studies, the treatment effect, as measured by differences between fluoxetine 60 mg and placebo on median reduction from baseline in frequency of bulimic behaviors at endpoint, ranged from 1 to 2 episodes per week for binge-eating and 2 to 4 episodes per week for vomiting.
 The size of the effect was related to baseline frequency, with greater reductions seen in patients with higher baseline frequencies.
 Although some patients achieved freedom from binge-eating and purging as a result of treatment, for the majority, the benefit was a partial reduction in the frequency of binge-eating and purging.
 
@@ -80,8 +82,8 @@ The effectiveness of fluoxetine in the treatment of panic disorder was demonstra
 
 Study 1 (N = 180 randomized) was a 12 week flexible-dose study.
 Fluoxetine was initiated at 10 mg/day for the first week, after which patients were dosed in the range of 20 to 60 mg/day on the basis of clinical response and tolerability.
-A statistically significantly greater percentage of fluoxetine-treated patients were free from panic attacks at endpoint than placebo-treated patients, 42% vs. 28%, respectively.
+A statistically significantly greater percentage of fluoxetine-treated patients were free from panic attacks at endpoint than placebo-treated patients, 42% versus 28%, respectively.
 
 Study 2 (N = 214 randomized) was a 12 week flexible-dose study.
 Fluoxetine was initiated at 10 mg/day for the first week, after which patients were dosed in a range of 20 to 60 mg/day on the basis of clinical response and tolerability.
-A statistically significantly greater percentage of fluoxetine-treated patients were free from panic attacks at endpoint than placebo-treated patients, 62% vs. 44%, respectively.
+A statistically significantly greater percentage of fluoxetine-treated patients were free from panic attacks at endpoint than placebo-treated patients, 62% versus 44%, respectively.

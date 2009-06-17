@@ -8,7 +8,7 @@ Fluoxetine is indicated for the treatment of major depressive disorder.
 
 The efficacy of fluoxetine was established in 5 and 6 week trials with depressed adult and geriatric outpatients (≥ 18 years of age) whose diagnoses corresponded most closely to the DSM-III (currently DSM-IV) category of major depressive disorder (see CLINICAL TRIALS).
 
-A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least 5 of the following 9 symptoms: depressed mood; loss of interest in usual activities; significant change in weight and/or appetite; insomnia or hypersomnia; psychomotor agitation or retardation; increased fatigue; feelings of guilt or worthlessness; slowed thinking or impaired concentration; a suicide attempt or suicidal ideation.
+A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least 5 of the following 9 symptoms: depressed mood, loss of interest in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt or suicidal ideation.
 
 The effects of fluoxetine in hospitalized depressed patients have not been adequately studied.
 

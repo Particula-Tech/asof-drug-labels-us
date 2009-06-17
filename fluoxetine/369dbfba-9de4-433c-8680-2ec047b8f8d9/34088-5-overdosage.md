@@ -16,7 +16,7 @@ Six patients died, 127 patients completely recovered, 1 patient experienced rena
 One of the six fatalities was a 9-year-old boy who had a history of OCD, Tourette’s syndrome with tics, attention deficit disorder, and fetal alcohol syndrome.
 He had been receiving 100 mg of fluoxetine daily for 6 months in addition to clonidine, methylphenidate, and promethazine.
 Mixed-drug ingestion or other methods of suicide complicated all 6 overdoses in children that resulted in fatalities.
-The largest ingestion in pediatric patients was 3 grams which was non-lethal.
+The largest ingestion in pediatric patients was 3 grams which was nonlethal.
 
 Other important adverse events reported with fluoxetine overdose (single or multiple drugs) include coma, delirium, ECG abnormalities (such as QT interval prolongation and ventricular tachycardia, including torsade de pointes-type arrhythmias), hypotension, mania, neuroleptic malignant syndrome-like events, pyrexia, stupor, and syncope.
 
@@ -45,14 +45,14 @@ Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion or in symptomatic patients.
+Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
 
 Activated charcoal should be administered.
 Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
 No specific antidotes for fluoxetine are known.
 
 A specific caution involves patients who are taking or have recently taken fluoxetine and might ingest excessive quantities of a TCA.
-In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see Other Drugs Effective in the Treatment of Major Depressive Disorder under PRECAUTIONS).
+In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see PRECAUTIONS, Other Drugs Effective in the Treatment of Major Depressive Disorder).
 
 Based on experience in animals, which may not be relevant to humans, fluoxetine-induced seizures that fail to remit spontaneously may respond to diazepam.
 

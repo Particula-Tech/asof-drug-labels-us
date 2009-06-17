@@ -14,15 +14,15 @@ The prescriber should be aware that the figures in the tables and tabulations ca
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
-## Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials (Excluding Data from Extensions of Trials)
+## Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials (Excluding Data From Extensions of Trials)
 
-TABLE 2 enumerates the most common treatment-emergent adverse events associated with the use of fluoxetine (incidence of at least 5% for fluoxetine and at least twice that for placebo within at least 1 of the indications) for the treatment of major depressive disorder, OCD, and bulimia in U.S. controlled clinical trials and panic disorder in U.S. plus non-U.S. controlled trials.
-TABLE 3 enumerates treatment-emergent adverse events that occurred in 2% or more patients treated with fluoxetine and with incidence greater than placebo who participated in U.S. major depressive disorder, OCD, and bulimia controlled clinical trials and U.S. plus non-U.S. panic disorder controlled clinical trials.
-TABLE 3 provides combined data for the pool of studies that are provided separately by indication in TABLE 2.
+Table 2 enumerates the most common treatment-emergent adverse events associated with the use of fluoxetine (incidence of at least 5% for fluoxetine and at least twice that for placebo within at least 1 of the indications) for the treatment of major depressive disorder, OCD, and bulimia in U.S. controlled clinical trials and panic disorder in U.S. plus non-U.S. controlled trials.
+Table 3 enumerates treatment-emergent adverse events that occurred in 2% or more patients treated with fluoxetine and with incidence greater than placebo who participated in U.S. major depressive disorder, OCD, and bulimia controlled clinical trials and U.S. plus non-U.S. panic disorder controlled clinical trials.
+Table 3 provides combined data for the pool of studies that are provided separately by indication in Table 2.
 
-TABLE 2: MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN MAJOR DEPRESSIVE DISORDER, OCD, BULIMIA, AND PANIC DISORDER PLACEBO-CONTROLLED CLINICAL TRIALS1
+Table 2: Most Common Treatment-Emergent Adverse Events: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1
 
-|  | Percentage of patients reporting event |  |  |  |  |  |  |  |
+|  | Percentage of Patients Reporting Event |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Major Depressive Disorder |  | OCD |  | Bulimia |  | Panic Disorder |  |  |
 | Body System/Adverse Event | Fluoxetine (N = 1728) | Placebo (N = 975) | Fluoxetine (N = 266) | Placebo (N = 89) | Fluoxetine (N = 450) | Placebo (N = 267) | Fluoxetine (N = 425) | Placebo (N = 342) |
@@ -57,7 +57,7 @@ TABLE 2: MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN MAJOR DEPRE
 | Abnormal ejaculation2 | -- | -- | 7 | -- | 7 | -- | 2 | 1 |
 | 1 Includes U.S. data for major depressive disorder, OCD, bulimia, and panic disorder clinical trials, plus non-U.S. data for panic disorder clinical trials.2 Denominator used was for males only (N = 690 fluoxetine major depressive disorder; N = 410 placebo major depressive disorder; N = 116 fluoxetine OCD; N = 43 placebo OCD; N = 14 fluoxetine bulimia; N = 1 placebo bulimia; N = 162 fluoxetine panic; N = 121 placebo panic).-- Incidence less than 1%. |  |  |  |  |  |  |  |  |
 
-TABLE 3: TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN MAJOR DEPRESSIVE DISORDER, OCD, BULIMIA, AND PANIC DISORDER PLACEBO-CONTROLLED CLINICAL TRIALS1
+Table 3: Treatment-Emergent Adverse Events: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -100,13 +100,13 @@ TABLE 3: TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN MAJOR DEPRESSIVE DISORD
 | Abnormal vision | 2 | 1 |
 | 1 Includes U.S. data for major depressive disorder, OCD, bulimia, and panic disorder clinical trials, plus non-U.S. data for panic disorder clinical trials.2 Included are events reported by at least 2% of patients taking fluoxetine, except the following events, which had an incidence on placebo ≥ fluoxetine (major depressive disorder, OCD, bulimia, and panic disorder combined): abdominal pain, abnormal dreams, accidental injury, back pain, cough increased, major depressive disorder (includes suicidal thoughts), dysmenorrhea, infection, myalgia, pain, paresthesia, pharyngitis, rhinitis, sinusitis.-- Incidence less than 1%. |  |  |
 
-## Associated with Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials (Excluding Data from Extensions of Trials)
+## Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials (Excluding Data From Extensions of Trials)
 
-TABLE 4 lists the adverse events associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary event associated with discontinuation) in major depressive disorder, OCD, bulimia, and panic disorder clinical trials, plus non-U.S. panic disorder clinical trials.
+Table 4 lists the adverse events associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary event associated with discontinuation) in major depressive disorder, OCD, bulimia, and panic disorder clinical trials, plus non-U.S. panic disorder clinical trials.
 
-TABLE 4: MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN MAJOR DEPRESSIVE DISORDER, OCD, BULIMIA, AND PANIC DISORDER PLACEBO-CONTROLLED CLINICAL TRIALS1
+Table 4: Most Common Adverse Events Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1
 
-| Major Depressive Disorder, OCD, bulimia, and panic disorder combined (N = 1533) | Major Depressive Disorder (N = 392) | OCD (N = 266) | Bulimia (N = 450) | Panic Disorder (N = 425) |
+| Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined (N = 1533) | Major Depressive Disorder (N = 392) | OCD (N = 266) | Bulimia (N = 450) | Panic Disorder (N = 425) |
 | --- | --- | --- | --- | --- |
 | Anxiety (1%) | -- | Anxiety (2%) | -- | Anxiety (2%) |
 | -- | -- | -- | Insomnia (2%) | -- |
@@ -117,13 +117,13 @@ TABLE 4: MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN MAJOR DEP
 ## Other Adverse Events in Pediatric Patients (Children and Adolescents)
 
 Treatment-emergent adverse events were collected in 322 pediatric patients (180 fluoxetine-treated, 142 placebo-treated).
-The overall profile of adverse events was generally similar to that seen in adult studies, as shown in TABLES 2 and 3.
-However, the following adverse events (excluding those which appear in the body or footnotes of TABLES 2 and 3 and those for which the COSTART terms were uninformative or misleading) were reported at an incidence of at least 2% for fluoxetine and greater than placebo: thirst, hyperkinesia, agitation, personality disorder, epistaxis, urinary frequency, and menorrhagia.
+The overall profile of adverse events was generally similar to that seen in adult studies, as shown in Tables 2 and 3.
+However, the following adverse events (excluding those which appear in the body or footnotes of Tables 2 and 3 and those for which the COSTART terms were uninformative or misleading) were reported at an incidence of at least 2% for fluoxetine and greater than placebo: thirst, hyperkinesia, agitation, personality disorder, epistaxis, urinary frequency, and menorrhagia.
 
 The most common adverse event (incidence at least 1% for fluoxetine and greater than placebo) associated with discontinuation in 3 pediatric placebo-controlled trials (N = 418 randomized; 228 fluoxetine-treated; 190 placebo-treated) was mania/hypomania (1.8% for fluoxetine-treated, 0% for placebo-treated).
 In these clinical trials, only a primary event associated with discontinuation was collected.
 
-## Male and Female Sexual Dysfunction with SSRIs
+## Male and Female Sexual Dysfunction With SSRIs
 
 Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
@@ -140,33 +140,33 @@ While it is difficult to know the precise risk of sexual dysfunction associated 
 
 ## Other Events Observed In Clinical Trials
 
-Following is a list of all treatment-emergent adverse events reported at anytime by individuals taking fluoxetine in U.S. clinical trials as of May 8, 1995 (10,782 patients) except (1) those listed in the body or footnotes of TABLES 2 or 3 above or elsewhere in labeling; (2) those for which the COSTART terms were uninformative or misleading; (3) those events for which a causal relationship to fluoxetine use was considered remote; and (4) events occurring in only 1 patient treated with fluoxetine and which did not have a substantial probability of being acutely life-threatening.
+Following is a list of all treatment-emergent adverse events reported at anytime by individuals taking fluoxetine in U.S. clinical trials as of May 8, 1995 (10,782 patients) except (1) those listed in the body or footnotes of Tables 2 or 3 above or elsewhere in labeling; (2) those for which the COSTART terms were uninformative or misleading; (3) those events for which a causal relationship to fluoxetine use was considered remote; and (4) events occurring in only 1 patient treated with fluoxetine and which did not have a substantial probability of being acutely life-threatening.
 
-Events are classified within body system categories using the following definitions: frequent adverse events are defined as those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in less than 1/1,000 patients.
+Events are classified within body system categories using the following definitions: frequent adverse events are defined as those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in less than 1/1000 patients.
 
-Body as a Whole—Frequent: chest pain, chills; Infrequent: chills and fever, face edema, intentional overdose, malaise, pelvic pain, suicide attempt; Rare: acute abdominal syndrome, hypothermia, intentional injury, neuroleptic malignant syndrome1, photosensitivity reaction.
+Body as a Whole — Frequent: chest pain, chills; Infrequent: chills and fever, face edema, intentional overdose, malaise, pelvic pain, suicide attempt; Rare: acute abdominal syndrome, hypothermia, intentional injury, neuroleptic malignant syndrome1, photosensitivity reaction.
 
-Cardiovascular System—Frequent: hemorrhage, hypertension, palpitation; Infrequent: angina pectoris, arrhythmia, congestive heart failure, hypotension, migraine, myocardial infarct, postural hypotension, syncope, tachycardia, vascular headache; Rare: atrial fibrillation, bradycardia, cerebral embolism, cerebral ischemia, cerebrovascular accident, extrasystoles, heart arrest, heart block, pallor, peripheral vascular disorder, phlebitis, shock, thrombophlebitis, thrombosis, vasospasm, ventricular arrhythmia, ventricular extrasystoles, ventricular fibrillation.
+Cardiovascular System — Frequent: hemorrhage, hypertension, palpitation; Infrequent: angina pectoris, arrhythmia, congestive heart failure, hypotension, migraine, myocardial infarct, postural hypotension, syncope, tachycardia, vascular headache; Rare: atrial fibrillation, bradycardia, cerebral embolism, cerebral ischemia, cerebrovascular accident, extrasystoles, heart arrest, heart block, pallor, peripheral vascular disorder, phlebitis, shock, thrombophlebitis, thrombosis, vasospasm, ventricular arrhythmia, ventricular extrasystoles, ventricular fibrillation.
 
-Digestive System—Frequent: increased appetite, nausea and vomiting; Infrequent: aphthous stomatitis, cholelithiasis, colitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, glossitis, gum hemorrhage, hyperchlorhydria, increased salivation, liver function tests abnormal, melena, mouth ulceration, nausea/vomiting/diarrhea, stomach ulcer, stomatitis, thirst; Rare: biliary pain, bloody diarrhea, cholecystitis, duodenal ulcer, enteritis, esophageal ulcer, fecal incontinence, gastrointestinal hemorrhage, hematemesis, hemorrhage of colon, hepatitis, intestinal obstruction, liver fatty deposit, pancreatitis, peptic ulcer, rectal hemorrhage, salivary gland enlargement, stomach ulcer hemorrhage, tongue edema.
+Digestive System — Frequent: increased appetite, nausea and vomiting; Infrequent: aphthous stomatitis, cholelithiasis, colitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, glossitis, gum hemorrhage, hyperchlorhydria, increased salivation, liver function tests abnormal, melena, mouth ulceration, nausea/vomiting/diarrhea, stomach ulcer, stomatitis, thirst; Rare: biliary pain, bloody diarrhea, cholecystitis, duodenal ulcer, enteritis, esophageal ulcer, fecal incontinence, gastrointestinal hemorrhage, hematemesis, hemorrhage of colon, hepatitis, intestinal obstruction, liver fatty deposit, pancreatitis, peptic ulcer, rectal hemorrhage, salivary gland enlargement, stomach ulcer hemorrhage, tongue edema.
 
-Endocrine System—Infrequent: hypothyroidism; Rare: diabetic acidosis, diabetes mellitus.
+Endocrine System — Infrequent: hypothyroidism; Rare: diabetic acidosis, diabetes mellitus.
 
-Hemic and Lymphatic System—Infrequent: anemia, ecchymosis; Rare: blood dyscrasia, hypochromic anemia, leukopenia, lymphedema, lymphocytosis, petechia, purpura, thrombocythemia, thrombocytopenia.
+Hemic and Lymphatic System — Infrequent: anemia, ecchymosis; Rare: blood dyscrasia, hypochromic anemia, leukopenia, lymphedema, lymphocytosis, petechia, purpura, thrombocythemia, thrombocytopenia.
 
-Metabolic and Nutritional—Frequent: weight gain; Infrequent: dehydration, generalized edema, gout, hypercholesteremia, hyperlipemia, hypokalemia, peripheral edema; Rare: alcohol intolerance, alkaline phosphatase increased, BUN increased, creatine phosphokinase increased, hyperkalemia, hyperuricemia, hypocalcemia, iron deficiency anemia, SGPT increased.
+Metabolic and Nutritional — Frequent: weight gain; Infrequent: dehydration, generalized edema, gout, hypercholesteremia, hyperlipemia, hypokalemia, peripheral edema; Rare: alcohol intolerance, alkaline phosphatase increased, BUN increased, creatine phosphokinase increased, hyperkalemia, hyperuricemia, hypocalcemia, iron deficiency anemia, SGPT increased.
 
-Musculoskeletal System—Infrequent: arthritis, bone pain, bursitis, leg cramps, tenosynovitis; Rare: arthrosis, chondrodystrophy, myasthenia, myopathy, myositis, osteomyelitis, osteoporosis, rheumatoid arthritis.
+Musculoskeletal System — Infrequent: arthritis, bone pain, bursitis, leg cramps, tenosynovitis; Rare: arthrosis, chondrodystrophy, myasthenia, myopathy, myositis, osteomyelitis, osteoporosis, rheumatoid arthritis.
 
-Nervous System—Frequent: agitation, amnesia, confusion, emotional lability, sleep disorder; Infrequent: abnormal gait, acute brain syndrome, akathisia, apathy, ataxia, buccoglossal syndrome, CNS depression, CNS stimulation, depersonalization, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, hypesthesia, incoordination, libido increased, myoclonus, neuralgia, neuropathy, neurosis, paranoid reaction, personality disorder2, psychosis, vertigo; Rare: abnormal electroencephalogram, antisocial reaction, circumoral paresthesia, coma, delusions, dysarthria, dystonia, extrapyramidal syndrome, foot drop, hyperesthesia, neuritis, paralysis, reflexes decreased, reflexes increased, stupor.
+Nervous System — Frequent: agitation, amnesia, confusion, emotional lability, sleep disorder; Infrequent: abnormal gait, acute brain syndrome, akathisia, apathy, ataxia, buccoglossal syndrome, CNS depression, CNS stimulation, depersonalization, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, hypesthesia, incoordination, libido increased, myoclonus, neuralgia, neuropathy, neurosis, paranoid reaction, personality disorder2, psychosis, vertigo; Rare: abnormal electroencephalogram, antisocial reaction, circumoral paresthesia, coma, delusions, dysarthria, dystonia, extrapyramidal syndrome, foot drop, hyperesthesia, neuritis, paralysis, reflexes decreased, reflexes increased, stupor.
 
-Respiratory System—Infrequent: asthma, epistaxis, hiccup, hyperventilation; Rare: apnea, atelectasis, cough decreased, emphysema, hemoptysis, hypoventilation, hypoxia, larynx edema, lung edema, pneumothorax, stridor.
+Respiratory System — Infrequent: asthma, epistaxis, hiccup, hyperventilation; Rare: apnea, atelectasis, cough decreased, emphysema, hemoptysis, hypoventilation, hypoxia, larynx edema, lung edema, pneumothorax, stridor.
 
-Skin and Appendages—Infrequent: acne, alopecia, contact dermatitis, eczema, maculopapular rash, skin discoloration, skin ulcer, vesiculobullous rash; Rare: furunculosis, herpes zoster, hirsutism, petechial rash, psoriasis, purpuric rash, pustular rash, seborrhea.
+Skin and Appendages — Infrequent: acne, alopecia, contact dermatitis, eczema, maculopapular rash, skin discoloration, skin ulcer, vesiculobullous rash; Rare: furunculosis, herpes zoster, hirsutism, petechial rash, psoriasis, purpuric rash, pustular rash, seborrhea.
 
-Special Senses—Frequent: ear pain, taste perversion, tinnitus; Infrequent: conjunctivitis, dry eyes, mydriasis, photophobia; Rare: blepharitis, deafness, diplopia, exophthalmos, eye hemorrhage, glaucoma, hyperacusis, iritis, parosmia, scleritis, strabismus, taste loss, visual field defect.
+Special Senses — Frequent: ear pain, taste perversion, tinnitus; Infrequent: conjunctivitis, dry eyes, mydriasis, photophobia; Rare: blepharitis, deafness, diplopia, exophthalmos, eye hemorrhage, glaucoma, hyperacusis, iritis, parosmia, scleritis, strabismus, taste loss, visual field defect.
 
-Urogenital System—Frequent: urinary frequency; Infrequent: abortion3, albuminuria, amenorrhea3, anorgasmia, breast enlargement, breast pain, cystitis, dysuria, female lactation3, fibrocystic breast3, hematuria, leukorrhea3, menorrhagia3, metrorrhagia3, nocturia, polyuria, urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhage3; Rare: breast engorgement, glycosuria, hypomenorrhea3, kidney pain, oliguria, priapism3, uterine hemorrhage3, uterine fibroids enlarged3.
+Urogenital System — Frequent: urinary frequency; Infrequent: abortion3, albuminuria, amenorrhea3, anorgasmia, breast enlargement, breast pain, cystitis, dysuria, female lactation3, fibrocystic breast3, hematuria, leukorrhea3, menorrhagia3, metrorrhagia3, nocturia, polyuria, urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhage3; Rare: breast engorgement, glycosuria, hypomenorrhea3, kidney pain, oliguria, priapism3, uterine hemorrhage3, uterine fibroids enlarged3.
 
 1 Neuroleptic malignant syndrome is the COSTART term which best captures serotonin syndrome.
 2 Personality disorder is the COSTART term for designating non-aggressive objectionable behavior.
@@ -174,4 +174,4 @@ Urogenital System—Frequent: urinary frequency; Infrequent: abortion3, albuminu
 
 ## Postintroduction Reports
 
-Voluntary reports of adverse events temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation, cataract, cerebral vascular accident, cholestatic jaundice, confusion, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, misuse/abuse, movement disorders developing in patients with risk factors including drugs associated with such events and worsening of preexisting movement disorders, neuroleptic malignant syndrome-like events, optic neuritis, pancreatitis, pancytopenia, priapism, pulmonary embolism, pulmonary hypertension, QT prolongation, serotonin syndrome (a range of signs and symptoms that can rarely, in its most severe form, resemble neuroleptic malignant syndrome), Stevens-Johnson syndrome, sudden unexpected death, suicidal ideation, thrombocytopenia, thrombocytopenic purpura, vaginal bleeding after drug withdrawal, ventricular tachycardia (including torsade de pointes-type arrhythmias), and violent behaviors.
+Voluntary reports of adverse events temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation, cataract, cerebral vascular accident, cholestatic jaundice, confusion, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, misuse/abuse, movement disorders developing in patients with risk factors including drugs associated with such events and worsening of preexisting movement disorders, optic neuritis, pancreatitis, pancytopenia, priapism, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, sudden unexpected death, suicidal ideation, thrombocytopenia, thrombocytopenic purpura, vaginal bleeding after drug withdrawal, ventricular tachycardia (including torsade de pointes-type arrhythmias), and violent behaviors.

@@ -2,6 +2,8 @@
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
+Rx only
+
 Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your, or your family member’s, healthcare provider about:
@@ -12,7 +14,7 @@ Talk to your, or your family member’s, healthcare provider about:
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
 1.
-Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults when the medicine is first started.
+Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 
 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 Some people may have a particularly high risk of having suicidal thoughts or actions.
@@ -22,7 +24,7 @@ These include people who have (or have a family history of) bipolar illness (als
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is first started or when the dose is changed.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
 - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
 - Keep all follow-up visits with the healthcare provider as scheduled.
   Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
@@ -58,4 +60,22 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+
+Manufactured In Canada By:
+
+NOVOPHARMLIMITED
+
+Toronto, Canada M1B 2K9
+
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA
+
+Sellersville, PA 18960
+
+Rev.
+E 5/2008

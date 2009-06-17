@@ -1,9 +1,8 @@
-Manufactured In Israel By:
+Manufactured In Canada By:
 
-TEVA PHARMACEUTICAL IND.
-LTD.
+NOVOPHARM LIMITED
 
-Jerusalem, 91010, Israel
+Toronto, Canada M1B 2K9
 
 Manufactured For:
 
@@ -12,4 +11,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-M 5/2007
+T 2/2009

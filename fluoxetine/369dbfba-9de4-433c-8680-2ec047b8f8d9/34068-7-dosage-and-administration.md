@@ -11,7 +11,7 @@ Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 m
 Consequently, a dose of 20 mg/day, administered in the morning, is recommended as the initial dose.
 
 A dose increase may be considered after several weeks if insufficient clinical improvement is observed.
-Doses above 20 mg/day may be administered on a once a day (morning) or b.i.d. schedule (i.e., morning and noon) and should not exceed a maximum dose of 80 mg/day.
+Doses above 20 mg/day may be administered on a once-a-day (morning) or BID schedule (i.e., morning and noon) and should not exceed a maximum dose of 80 mg/day.
 
 #### Pediatric (children and adolescents)
 
@@ -27,8 +27,8 @@ A dose increase to 20 mg/day may be considered after several weeks if insufficie
 As with other drugs effective in the treatment of major depressive disorder, the full effect may be delayed until 4 weeks of treatment or longer.
 
 As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver Disease and Renal Disease under CLINICAL PHARMACOLOGY and Use in Patients with Concomitant Illness under PRECAUTIONS).
+A lower or less frequent dosage should also be considered for the elderly (see PRECAUTIONS, Geriatric Use), and for patients with concurrent disease or on multiple concomitant medications.
+Dosage adjustments for renal impairment are not routinely necessary (see CLINICAL PHARMACOLOGY, Liver Disease and Renal Disease and PRECAUTIONS, Use in Patients With Concomitant Illness).
 
 ### Maintenance/Continuation/Extended Treatment
 
@@ -41,9 +41,9 @@ Systematic evaluation of fluoxetine has shown that its efficacy in major depress
 
 ### Switching Patients to a Tricyclic Antidepressant (TCA)
 
-Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued (see Other Drugs Effective in the Treatment of Major Depressive Disorder under PRECAUTIONS, Drug Interactions).
+Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued (see PRECAUTIONS, Drug Interactions, Other Drugs Effective in the Treatment of Major Depressive Disorder).
 
-### Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI)
+### Switching Patients to or From a Monoamine Oxidase Inhibitor (MAOI)
 
 At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with fluoxetine.
 In addition, at least 5 weeks, perhaps longer, should be allowed after stopping fluoxetine before starting an MAOI (see CONTRAINDICATIONS and PRECAUTIONS).
@@ -60,8 +60,8 @@ Consequently, a dose of 20 mg/day, administered in the morning, is recommended a
 Since there was a suggestion of a possible dose-response relationship for effectiveness in the second study, a dose increase may be considered after several weeks if insufficient clinical improvement is observed.
 The full therapeutic effect may be delayed until 5 weeks of treatment or longer.
 
-Doses above 20 mg/day may be administered on a once-a-day (i.e., morning) or b.i.d. schedule (i.e., morning and noon).
-A dose range of 20 to 60 mg/day is recommended, however, doses of up to 80 mg/day have been well tolerated in open studies of OCD.
+Doses above 20 mg/day may be administered on a once-a-day (i.e., morning) or BID schedule (i.e., morning and noon).
+A dose range of 20 to 60 mg/day is recommended; however, doses of up to 80 mg/day have been well tolerated in open studies of OCD.
 The maximum fluoxetine dose should not exceed 80 mg/day.
 
 #### Pediatric (children and adolescents)
@@ -81,8 +81,8 @@ Experience with daily doses greater than 20 mg is very minimal, and there is no 
 #### All patients
 
 As with the use of fluoxetine in the treatment of major depressive disorder, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver Disease and Renal Disease under CLINICAL PHARMACOLOGY and Use in Patients with Concomitant Illness under PRECAUTIONS).
+A lower or less frequent dosage should also be considered for the elderly (see PRECAUTIONS, Geriatric Use), and for patients with concurrent disease or on multiple concomitant medications.
+Dosage adjustments for renal impairment are not routinely necessary (see CLINICAL PHARMACOLOGY, Liver Disease and Renal Disease and PRECAUTIONS, Use in Patients With Concomitant Illness).
 
 ### Maintenance/Continuation Treatment
 
@@ -101,8 +101,8 @@ For some patients it may be advisable to titrate up to this target dose over sev
 Fluoxetine doses above 60 mg/day have not been systematically studied in patients with bulimia.
 
 As with the use of fluoxetine in the treatment of major depressive disorder and OCD, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver Disease and Renal Disease under CLINICAL PHARMACOLOGY and Use in Patients with Concomitant Illness under PRECAUTIONS).
+A lower or less frequent dosage should also be considered for the elderly (see PRECAUTIONS, Geriatric Use), and for patients with concurrent disease or on multiple concomitant medications.
+Dosage adjustments for renal impairment are not routinely necessary (see CLINICAL PHARMACOLOGY, Liver Disease and Renal Disease and PRECAUTIONS, Use in Patients With Concomitant Illness).
 
 ### Maintenance/Continuation Treatment
 
@@ -122,8 +122,8 @@ A dose increase may be considered after several weeks if no clinical improvement
 Fluoxetine doses above 60 mg/day have not been systematically evaluated in patients with panic disorder.
 
 As with the use of fluoxetine in other indications, a lower or less frequent dosage should be used in patients with hepatic impairment.
-A lower or less frequent dosage should also be considered for the elderly (see Geriatric Use under PRECAUTIONS), and for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver Disease and Renal Disease under CLINICAL PHARMACOLOGY and Use in Patients with Concomitant Illness under PRECAUTIONS).
+A lower or less frequent dosage should also be considered for the elderly (see PRECAUTIONS, Geriatric Use), and for patients with concurrent disease or on multiple concomitant medications.
+Dosage adjustments for renal impairment are not routinely necessary (see CLINICAL PHARMACOLOGY, Liver Disease and Renal Disease and PRECAUTIONS, Use in Patients With Concomitant Illness).
 
 ### Maintenance/Continuation Treatment
 
@@ -138,7 +138,7 @@ Neonates exposed to fluoxetine and other SSRIs or SNRIs, late in the third trime
 When treating pregnant women with fluoxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering fluoxetine in the third trimester.
 
-## Discontinuation of Treatment with Fluoxetine Capsules
+## Discontinuation of Treatment With Fluoxetine Capsules
 
 Symptoms associated with discontinuation of fluoxetine and other SSRIs and SNRIs, have been reported (see PRECAUTIONS).
 Patients should be monitored for these symptoms when discontinuing treatment.

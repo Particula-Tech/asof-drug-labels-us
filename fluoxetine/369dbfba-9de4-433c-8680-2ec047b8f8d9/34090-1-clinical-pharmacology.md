@@ -42,7 +42,7 @@ The primary route of elimination appears to be hepatic metabolism to inactive me
 
 The complexity of the metabolism of fluoxetine has several consequences that may potentially affect fluoxetine's clinical use.
 
-### Variability in Metabolism
+#### Variability in metabolism
 
 A subset (about 7%) of the population has reduced activity of the drug metabolizing enzyme cytochrome P450 2D6 (CYP2D6).
 Such individuals are referred to as "poor metabolizers" of drugs such as debrisoquin, dextromethorphan, and the TCAs.
@@ -54,9 +54,9 @@ Thus, the net pharmacodynamic activities were essentially the same.
 Alternative, nonsaturable pathways (non-2D6) also contribute to the metabolism of fluoxetine.
 This explains how fluoxetine achieves a steady-state concentration rather than increasing without limit.
 
-Because fluoxetine's metabolism, like that of a number of other compounds including TCAs and other selective serotonin reuptake inhibitors (SSRIs), involves the CYP2D6 system, concomitant therapy with drugs also metabolized by this enzyme system (such as the TCAs) may lead to drug interactions (see Drug Interactions under PRECAUTIONS).
+Because fluoxetine's metabolism, like that of a number of other compounds including TCAs and other selective serotonin reuptake inhibitors (SSRIs), involves the CYP2D6 system, concomitant therapy with drugs also metabolized by this enzyme system (such as the TCAs) may lead to drug interactions (see PRECAUTIONS, Drug Interactions).
 
-### Accumulation and Slow Elimination
+#### Accumulation and slow elimination
 
 The relatively slow elimination of fluoxetine (elimination half-life of 1 to 3 days after acute administration and 4 to 6 days after chronic administration) and its active metabolite, norfluoxetine (elimination half-life of 4 to 16 days after acute and chronic administration), leads to significant accumulation of these active species in chronic use and delayed attainment of steady state, even when a fixed dose is used.
 After 30 days of dosing at 40 mg/day, plasma concentrations of fluoxetine in the range of 91 to 302 ng/mL and norfluoxetine in the range of 72 to 258 ng/mL have been observed.
@@ -71,14 +71,14 @@ This is of potential consequence when drug discontinuation is required or when d
 ### Liver Disease
 
 As might be predicted from its primary site of metabolism, liver impairment can affect the elimination of fluoxetine.
-The elimination half-life of fluoxetine was prolonged in a study of cirrhotic patients, with a mean of 7.6 days compared to the range of 2 to 3 days seen in subjects without liver disease; norfluoxetine elimination was also delayed, with a mean duration of 12 days for cirrhotic patients compared to the range of 7 to 9 days in normal subjects.
+The elimination half-life of fluoxetine was prolonged in a study of cirrhotic patients, with a mean of 7.6 days compared with the range of 2 to 3 days seen in subjects without liver disease; norfluoxetine elimination was also delayed, with a mean duration of 12 days for cirrhotic patients compared with the range of 7 to 9 days in normal subjects.
 This suggests that the use of fluoxetine in patients with liver disease must be approached with caution.
 If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ### Renal Disease
 
-In depressed patients on dialysis (N = 12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable to those seen in patients with normal renal function.
-While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction, use of a lower or less frequent dose is not routinely necessary in renally impaired patients (see Use in Patients With Concomitant Illness under PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+In depressed patients on dialysis (N = 12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
+While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction, use of a lower or less frequent dose is not routinely necessary in renally impaired patients (see PRECAUTIONS, Use in Patients With Concomitant Illness and DOSAGE AND ADMINISTRATION).
 
 ### Age
 
