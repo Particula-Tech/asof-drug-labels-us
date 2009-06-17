@@ -5,17 +5,53 @@
 Since Klonopin produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
 They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during Klonopin therapy (see PRECAUTIONS: Drug Interactions and Information for Patients).
 
+## Suicidal Behavior and Ideation
+
+Antiepileptic drugs (AEDs), including Klonopin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43% compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+
+Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| --- | --- | --- | --- | --- |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing Klonopin or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
 ## Pregnancy Risks
 
 Data from several sources raise concerns about the use of Klonopin during pregnancy.
 
-## Animal Findings
+### Animal Findings
 
 In three studies in which Klonopin was administered orally to pregnant rabbits at doses of 0.2, 1, 5 or 10 mg/kg/day (low dose approximately 0.2 times the maximum recommended human dose of 20 mg/day for seizure disorders and equivalent to the maximum dose of 4 mg/day for panic disorder, on a mg/m2 basis) during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed in a low, non-dose-related incidence in exposed litters from all dosage groups.
 Reductions in maternal weight gain occurred at dosages of 5 mg/kg/day or greater and reduction in embryo-fetal growth occurred in one study at a dosage of 10 mg/kg/day.
 No adverse maternal or embryo-fetal effects were observed in mice and rats following administration during organogenesis of oral doses up to 15 mg/kg/day or 40 mg/kg/day, respectively (4 and 20 times the maximum recommended human dose of 20 mg/day for seizure disorders and 20 and 100 times the maximum dose of 4 mg/day for panic disorder, respectively, on a mg/m2 basis).
 
-## General Concerns and Considerations About Anticonvulsants
+### General Concerns and Considerations About Anticonvulsants
 
 Recent reports suggest an association between the use of anticonvulsant drugs by women with epilepsy and an elevated incidence of birth defects in children born to these women.
 Data are more extensive with respect to diphenylhydantoin and phenobarbital, but these are also the most commonly prescribed anticonvulsants; less systematic or anecdotal reports suggest a possible similar association with the use of all known anticonvulsant drugs.
@@ -26,15 +62,15 @@ The great majority of mothers on anticonvulsant medication deliver normal infant
 It is important to note that anticonvulsant drugs should not be discontinued in patients in whom the drug is administered to prevent seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 In individual cases where the severity and frequency of the seizure disorder are such that the removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy; however, it cannot be said with any confidence that even mild seizures do not pose some hazards to the developing embryo or fetus.
 
-## General Concerns About Benzodiazepines
+### General Concerns About Benzodiazepines
 
 An increased risk of congenital malformations associated with the use of benzodiazepine drugs has been suggested in several studies.
 
 There may also be non-teratogenic risks associated with the use of benzodiazepines during pregnancy.
 There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
-In addition, children born to mothers receiving benzodiazepines late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
+In addition, children born to mothers receiving benzodiazepines late in pregnancy may beat some risk of experiencing withdrawal symptoms during the postnatal period.
 
-## Advice Regarding the Use of Klonopin in Women of Childbearing Potential
+### Advice Regarding the Use of Klonopin in Women of Childbearing Potential
 
 In general, the use of Klonopin in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
 
@@ -82,6 +118,7 @@ Because of this and the possibility of respiratory depression, Klonopin should b
 
 ## Information for Patients
 
+Patients should be instructed to take Klonopin only as prescribed.
 Physicians are advised to discuss the following issues with patients for whom they prescribe Klonopin:
 
 ### Dose Changes
@@ -92,9 +129,17 @@ To assure the safe and effective use of benzodiazepines, patients should be info
 
 Because benzodiazepines have the potential to impair judgment, thinking or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Klonopin therapy does not affect them adversely.
 
+### Suicidal Thinking and Behavior
+
+Patients, their caregivers, and families should be counseled that AEDs, including Klonopin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Klonopin (see WARNINGS).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Klonopin (see WARNINGS: Pregnancy Risks).
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
 ### Nursing
 
@@ -141,7 +186,11 @@ In a two-generation fertility study in which clonazepam was given orally to rats
 
 ### Teratogenic Effects
 
-Pregnancy Category D (see WARNINGS).
+Pregnancy Category D (see WARNINGS: Pregnancy Risks).
+
+To provide information regarding the effects of in utero exposure to Klonopin, physicians are advised to recommend that pregnant patients taking Klonopin enroll in the NAAED Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on this registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## Labor and Delivery
 

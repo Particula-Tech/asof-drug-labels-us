@@ -11,7 +11,7 @@ Others, listed by system, are:
 
 Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, "glassy-eyed" appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
-Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis, suicidal attempt (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
+Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
 The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
 
 Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
@@ -48,6 +48,8 @@ An event was considered treatment-emergent if it occurred for the first time or 
 Overall, the incidence of discontinuation due to adverse events was 17% in Klonopin compared to 9% for placebo in the combined data of two 6- to 9-week trials.
 The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for Klonopin than that of placebo included the following:
 
+Table 2Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
+
 | Adverse Event | Klonopin (N=574) | Placebo (N=294) |
 | --- | --- | --- |
 | Somnolence | 7% | 1% |
@@ -59,14 +61,14 @@ The most common events (≥1%) associated with discontinuation and a dropout rat
 
 ### Adverse Events Occurring at an Incidence of 1% or More Among Klonopin-Treated Patients
 
-Table 1 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6- to 9-week trials.
+Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6- to 9-week trials.
 Events reported in 1% or more of patients treated with Klonopin (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
 
-The prescriber should be aware that the figures in Table 1 cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
+The prescriber should be aware that the figures in Table 3 cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence in the population studied.
 
-Table 1 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with Klonopin and for which the incidence was greater than that for placebo.
+Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with Klonopin and for which the incidence was greater than that for placebo.
 
 | Adverse Event by Body System | <1mg n=96 % | 1-<2mg n=129 % | 2-<3mg n=113 % | ≥3mg n=235 % | All Klonopin Groups N=574 % | Placebo N=294 % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -108,7 +110,7 @@ Table 1 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 | Urinary Tract Infection | 0 | 0 | 2 | 2 | 1 | 0 |
 | Vision Disorders |  |  |  |  |  |  |
 | Blurred Vision | 1 | 2 | 3 | 0 | 1 | 1 |
-| Reproductive DisordersDenominators for events in gender-specific systems are: n= 240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |
+| Reproductive DisordersDenominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |
 | Female |  |  |  |  |  |  |
 | Dysmenorrhea | 0 | 6 | 5 | 2 | 3 | 2 |
 | Colpitis | 4 | 0 | 2 | 1 | 1 | 1 |
@@ -118,7 +120,7 @@ Table 1 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 
 ### Commonly Observed Adverse Events
 
-Table 2 Incidence of Most Commonly Observed Adverse EventsTreatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients. in Acute Therapy in Pool of 6- to 9-Week Trials
+Table 4 Incidence of Most Commonly Observed Adverse EventsTreatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients. in Acute Therapy in Pool of 6- to 9-Week Trials
 
 | Adverse Event (Roche Preferred Term) | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
@@ -136,7 +138,7 @@ While these findings are noteworthy, Hamilton Depression Rating Scale (HAM-D) da
 ### Other Adverse Events Observed During the Premarketing Evaluation of Klonopin in Panic Disorder
 
 Following is a list of modified CIGY terms that reflect treatment-emergent adverse events reported by patients treated with Klonopin at multiple doses during clinical trials.
-All reported events are included except those already listed in Table 1 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and events reported only once and which did not have a substantial probability of being acutely life-threatening.
+All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and events reported only once and which did not have a substantial probability of being acutely life-threatening.
 It is important to emphasize that, although the events occurred during treatment with Klonopin, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency.
