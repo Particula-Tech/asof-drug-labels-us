@@ -671,10 +671,10 @@ Manufactured by GE Healthcare Ireland Cork, Ireland
 OMNIPAQUE is a trademark of GE Healthcare.
 GE and the GE Monogram are trademarks of General Electric Company.
 
-Revised January 2007
+Revised May 2008
 
-115479 USA
+1163498 USA
 
-Copyright, GE Healthcare Inc., 2007
+© 2008 General Electric Company - All rights reserved.
 
-ONC-1M-CORK
+ONC-10-CORK
