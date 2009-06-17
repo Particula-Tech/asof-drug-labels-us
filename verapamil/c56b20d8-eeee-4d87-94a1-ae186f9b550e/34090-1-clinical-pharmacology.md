@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Covera-HS has a unique delivery system, designed for bedtime dosing, incorporating a 4 to 5-hour delay in drug delivery.
+COVERA-HS has a unique delivery system, designed for bedtime dosing, incorporating a 4 to 5-hour delay in drug delivery.
 The unique controlled-onset, extended-release (COER) delivery system, which is designed for bedtime dosing, results in a maximum plasma concentration (Cmax) of verapamil in the morning hours.
 
 Verapamil is a calcium ion influx inhibitor (L-type calcium channel blocker or calcium channel antagonist).
@@ -21,25 +21,25 @@ Although they share a similar mechanism of action, calcium channel blockers repr
 
 Verapamil produces its antihypertensive effect by a combination of vascular and cardiac effects.
 It acts as a vasodilator with selectivity for the arterial portion of the peripheral vasculature.
-As a result the systemic vascular resistance is reduced and usually without orthostatic hypotension or reflex tachycardia.
-Bradycardia (rate less than 50 beats/min) is uncommon (<1% with Covera-HS as assessed by ECG).
-During isometric or dynamic exercise Covera-HS does not alter systolic cardiac function in patients with normal ventricular function.
+As a result, the systemic vascular resistance is reduced and usually without orthostatic hypotension or reflex tachycardia.
+Bradycardia (rate less than 50 beats/min) is uncommon (<1% with COVERA-HS as assessed by ECG).
+During isometric or dynamic exercise COVERA-HS does not alter systolic cardiac function in patients with normal ventricular function.
 
-Covera-HS does not alter total serum calcium levels.
+COVERA-HS does not alter total serum calcium levels.
 However, one report has suggested that calcium levels above the normal range may alter the therapeutic effect of verapamil.
 
-Covera-HS regularly reduces the total systemic resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles.
+COVERA-HS regularly reduces the total systemic resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles.
 
 ### Effects in hypertension
 
-Covera-HS was evaluated in two placebo-controlled, parallel design, double-blind studies of 382 patients with mild to moderate hypertension.
+COVERA-HS was evaluated in two placebo-controlled, parallel design, double-blind studies of 382 patients with mild to moderate hypertension.
 
 In a clinical trial, 287 patients were randomized to placebo, 120 mg, 180 mg, 360 mg, or 540 mg and treated for 8 weeks (the two higher doses were titrated from low doses and maintained for 6 and 4 weeks, respectively).
-Covera-HS or placebo was given once daily at 10 pm and blood pressure changes were measured with 36-hour ambulatory blood pressure monitoring (ABPM).
-The results of these studies demonstrate that Covera-HS, at 180–540 mg, is a consistently and significantly more effective antihypertensive agent than placebo in reducing ambulatory blood pressures.
+COVERA-HS or placebo was given once daily at 10 pm and blood pressure changes were measured with 36-hour ambulatory blood pressure monitoring (ABPM).
+The results of these studies demonstrate that COVERA-HS, at 180–540 mg, is a consistently and significantly more effective antihypertensive agent than placebo in reducing ambulatory blood pressures.
 Over this dose range, the placebo-subtracted net decreases in diastolic BP at trough (averaged over 6–10 pm) were dose-related, ranged from 4.5 to 11.2 mm Hg after 4–8 weeks of therapy, and correlated well with sitting cuff blood pressures.
 
-These studies demonstrate that clinically and statistically significant blood pressure reductions are achieved with Covera-HS throughout the 24-hour dosing period.
+These studies demonstrate that clinically and statistically significant blood pressure reductions are achieved with COVERA-HS throughout the 24-hour dosing period.
 
 There were no significant treatment differences between patient subgroups of different age (older or younger than 65 years), sex, race (Caucasian and non-Caucasian) and severity of hypertension at baseline (cuff BP below and above 105 mm Hg).
 
@@ -54,15 +54,15 @@ Verapamil regularly reduces the total systemic resistance (afterload) against wh
 
 ### Effect in chronic stable angina
 
-Covera-HS was evaluated in two placebo-controlled, parallel design, double-blind studies of 453 patients with chronic stable angina.
+COVERA-HS was evaluated in two placebo-controlled, parallel design, double-blind studies of 453 patients with chronic stable angina.
 
-In the first clinical trial 277 patients were randomized to placebo, 180 mg, 360 mg, or 540 mg and treated for 4 weeks (the two higher doses were titrated from low doses and maintained for 3 and 2 weeks, respectively).
+In the first clinical trial, 277 patients were randomized to placebo, 180 mg, 360 mg, or 540 mg and treated for 4 weeks (the two higher doses were titrated from low doses and maintained for 3 and 2 weeks, respectively).
 A single dose of 240 mg was compared to placebo in a separate study of 176 patients.
-In these studies Covera-HS was significantly more effective than placebo in improvement of exercise tolerance.
+In these studies COVERA-HS was significantly more effective than placebo in improvement of exercise tolerance.
 Placebo-adjusted net increases in median exercise times at the end of the dosing interval were 0.1 to 1.0 minute for symptom limited duration, 0.3 to 1.4 minutes for time to angina, and 0.1 to 1.1 minutes for time to ST change.
 Increases in exercise tolerance were in general greater at higher doses, but dose-response relationship was not well defined due to shorter treatment duration for high doses.
 
-In addition, in the first study, 24 to 34% of patients treated with Covera-HS did not experience exercise-limiting angina on exercise treadmill testing (ETT) versus 12% of patients on placebo.
+In addition, in the first study, 24% to 34% of patients treated with COVERA-HS did not experience exercise-limiting angina on exercise treadmill testing (ETT) versus 12% of patients on placebo.
 
 ### Electrophysiologic effects
 
@@ -70,11 +70,11 @@ Electrical activity through the AV node depends, to a significant degree, upon t
 By decreasing the influx of calcium, verapamil prolongs the effective refractory period within the AV node and slows AV conduction in a rate-related manner.
 
 Normal sinus rhythm is usually not affected, but in patients with sick sinus syndrome, verapamil may interfere with sinus-node impulse generation and may induce sinus arrest or sinoatrial block.
-Atrioventricular block can occur in patients without preexisting conduction defects (see Warnings).
+Atrioventricular block can occur in patients without preexisting conduction defects (see WARNINGS).
 
-Covera-HS does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization, and conduction in depressed atrial fibers.
+COVERA-HS does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization, and conduction in depressed atrial fibers.
 Verapamil may shorten the antegrade effective refractory period of the accessory bypass tract.
-Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil (see Warnings).
+Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil (see WARNINGS).
 
 Verapamil has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis.
 It is not known whether this action is important at the doses used in man.
@@ -107,7 +107,7 @@ Pharmacokinetic Characteristics of Verapamil Enantiomers After Administration of
 | Cmax (ng/ml) | R S | 59.4 11.7 | 90.5 21.2 |
 | AUC (0–24h) (ng∙hr/ml) | R S | 644 111 | 1,223 266 |
 
-Racemic verapamil is released from Covera-HS at a constant rate following solubilization and release of the delay coat through the tablet orifices.
+Racemic verapamil is released from COVERA-HS at a constant rate following solubilization and release of the delay coat through the tablet orifices.
 This delay coat produces a lag period in drug release for approximately 4–5 hours.
 The drug release phase is prolonged with the peak plasma concentration (Cmax) occurring approximately 11 hours after administration.
 Trough concentrations occur approximately 4 hours after bedtime dosing while the patient is sleeping.
@@ -122,9 +122,9 @@ Steady-State Pharmacokinetics of Verapamil Enantiomers in Healthy Humans
 | Mean Cmax (ng/ml) | R S | 90.5 21.2 | 120 28.7 |
 | AUC (0–24h) (ng∙hr/ml) | R S | 1,223 266 | 1,470 322 |
 
-Consumption of a high fat meal just prior to dosing at night had no effect on the pharmacokinetics of Covera-HS.
+Consumption of a high fat meal just prior to dosing at night had no effect on the pharmacokinetics of COVERA-HS.
 The pharmacokinetics were also not affected by whether the volunteers were supine or ambulatory for the 8 hours following dosing.
-Administering Covera-HS in the morning led to a slower rate of absorption and/or elimination, but did not affect the extent of absorption or extent of metabolism to norverapamil.
+Administering COVERA-HS in the morning led to a slower rate of absorption and/or elimination, but did not affect the extent of absorption or extent of metabolism to norverapamil.
 
 Orally administered verapamil undergoes extensive metabolism in the liver.
 Thirteen metabolites have been identified in urine.
@@ -134,18 +134,18 @@ Approximately 70% of an administered dose is excreted as metabolites in the urin
 About 3% to 4% is excreted in the urine as unchanged drug.
 R-verapamil is 94% bound to plasma albumin, while S-verapamil is 88% bound.
 In addition, R-verapamil is 92% and S-verapamil 86% bound to alpha-1 acid glycoprotein.
-In patients with hepatic insufficiency, metabolism of immediate-release verapamil is delayed and elimination half-life prolonged up to 14 to 16 hours because of the extensive hepatic metabolism (see Precautions).
-In addition, in these patients there is a reduced first pass effect, and verapamil is more bioavailable.
+In patients with hepatic insufficiency, metabolism of immediate-release verapamil is delayed and elimination half-life prolonged up to 14 to 16 hours because of the extensive hepatic metabolism (see PRECAUTIONS).
+In addition, in these patients there is a reduced first-pass effect, and verapamil is more bioavailable.
 Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function.
 
 After four weeks of oral dosing of immediate release verapamil (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.
 
 ## Geriatric use
 
-The pharmacokinetics of Covera-HS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19–43 years) versus 30 healthy elderly (65–80 years) male and female subjects.
+The pharmacokinetics of COVERA-HS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19–43 years) versus 30 healthy elderly (65–80 years) male and female subjects.
 Older subjects had significantly higher mean verapamil Cmax, Cmin, and AUC(0–24h) compared to younger subjects.
-Older subjects had mean AUCs that were approximately 1.7–2.0 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs 13 hr). These results were typical of the age-related differences seen with many drug products in clinical medicine.
-Lean body mass was inversely related to AUC, but no gender difference was observed in the clinical trials of Covera-HS.
+Older subjects had mean AUCs that were approximately 1.7–2.0 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs. 13 hr). These results were typical of the age-related differences seen with many drug products in clinical medicine.
+Lean body mass was inversely related to AUC, but no gender difference was observed in the clinical trials of COVERA-HS.
 However, there are conflicting data in the literature suggesting that verapamil clearance may decrease with age in women to a greater degree than in men.
 Mean Tmax was similar in young and elderly subjects.
 
@@ -154,8 +154,8 @@ Mean Tmax was similar in young and elderly subjects.
 Verapamil reduces afterload and myocardial contractility.
 In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload and cardiac index remains unchanged.
 During isometric or dynamic exercise, verapamil does not alter systolic cardiac function in patients with normal ventricular function.
-Improved left ventricular diastolic function in patients with IHSS and those with coronary heart disease has also been observed with verapamil.
-In patients with severe left ventricular dysfunction (eg, pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see Drug interactions).
+Improved left ventricular diastolic function in patients with Idiopathic Hypertrophic Subaortic Stenosis (IHSS) and those with coronary heart disease has also been observed with verapamil.
+In patients with severe left ventricular dysfunction (eg, pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see PRECAUTIONS, Drug interactions).
 
 ## Pulmonary function
 

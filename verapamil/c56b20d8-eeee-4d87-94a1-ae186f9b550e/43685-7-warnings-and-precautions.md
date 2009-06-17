@@ -4,15 +4,15 @@
 
 Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In previous clinical experience with 4,954 patients primarily with immediate-release verapamil, 1.8% developed congestive heart failure or pulmonary edema.
-Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see Drug interactions).
+Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug interactions).
 Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment is started.
-(Note interactions with digoxin under Precautions.)
+(Note interactions with digoxin under PRECAUTIONS.)
 
 ## Hypotension
 
 Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels, which may result in dizziness or symptomatic hypotension.
 In previous verapamil clinical trials the incidence observed in 4,954 patients was 2.5%.
-In clinical studies of Covera-HS, 0.4% of hypertensive patients and 1.0% of angina patients developed significant hypotension.
+In clinical studies of COVERA-HS, 0.4% of hypertensive patients and 1.0% of angina patients developed significant hypotension.
 In hypertensive patients, decreases in blood pressure below normal are unusual.
 Tilt-table testing (60 degrees) was not able to induce orthostatic hypotension.
 
@@ -26,7 +26,7 @@ Periodic monitoring of liver function in patients receiving verapamil is therefo
 ## Accessory bypass tract (Wolff-Parkinson-White or Lown-Ganong-Levine)
 
 Some patients with paroxysmal and/or chronic atrial fibrillation or atrial flutter and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis).
-Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated (see Contraindications).
+Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated (see CONTRAINDICATIONS).
 Treatment is usually DC-cardioversion.
 Cardioversion has been used safely and effectively after oral verapamil.
 
@@ -42,7 +42,7 @@ Marked first-degree block or progressive development to second- or third-degree 
 In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
 Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction.
 Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (greater than 20 mm Hg) pulmonary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
-Concomitant administration of quinidine (see Drug interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
+Concomitant administration of quinidine (see PRECAUTIONS, Drug interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
 Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4%, and sinus arrest in 2%.
 It must be appreciated that this group of patients had a serious disease with a high mortality rate.
 Most adverse effects responded well to dose reduction, and only rarely did verapamil use have to be discontinued.
@@ -53,14 +53,14 @@ Most adverse effects responded well to dose reduction, and only rarely did verap
 
 ### Formulation specific
 
-As with any other non-deformable dosage form caution should be used when administering Covera-HS in patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
+As with any other non-deformable dosage form caution should be used when administering COVERA-HS in patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
 In patients with extremely short GI transit time (<7 hrs), pharmacokinetic data are not available and dosage adjustment may be required.
 
 ### Use in patients with impaired hepatic function
 
 Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function.
 Severe liver dysfunction prolongs the elimination half-life of immediate-release verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients.
-Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see Overdosage) should be carried out.
+Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see OVERDOSAGE) should be carried out.
 
 ### Use in patients with attenuated (decreased) neuromuscular transmission
 
@@ -72,12 +72,12 @@ It may be necessary to decrease the dosage of verapamil when it is administered 
 About 70% of an administered dose of verapamil is excreted as metabolites in the urine.
 Verapamil is not removed by hemodialysis.
 Until further data are available, verapamil should be administered cautiously to patients with impaired renal function.
-These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see Overdosage).
+These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see OVERDOSAGE).
 
 ## Information for patients
 
-Covera-HS tablets should be swallowed whole; do not break, crush, or chew.
-The medication in the Covera-HS tablet is released slowly through an outer shell that does not dissolve.
+COVERA-HS tablets should be swallowed whole; do not break, crush, or chew.
+The medication in the COVERA-HS tablet is released slowly through an outer shell that does not dissolve.
 The patient should not be concerned if they occasionally observe this outer shell in their stool as it passes from the body.
 
 ## Drug-Drug Interactions
@@ -122,11 +122,11 @@ A variable effect has been seen when verapamil and atenolol were given together.
 
 Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted.
 However, chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
-In patients with hepatic cirrhosis the influence of verapamil on digoxin kinetics is magnified.
+In patients with hepatic cirrhosis, the influence of verapamil on digoxin kinetics is magnified.
 Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively.
-Maintenance and digitalization doses should be reduced when verapamil is administered, and the patient should be reassessed to avoid over- to underdigitalization.
-Whenever overdigitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued.
-On discontinuation of verapamil use, the patient should be reassessed to avoid underdigitalization.
+Maintenance and digitalization doses should be reduced when verapamil is administered, and the patient should be reassessed to avoid over- to under-digitalization.
+Whenever over-digitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued.
+On discontinuation of verapamil use, the patient should be reassessed to avoid under-digitalization.
 In previous clinical trials with other verapamil formulations related to the control of ventricular response in digitalized patients who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients.
 
 ### Antihypertensive agents
@@ -156,7 +156,7 @@ The electrophysiologic effects of quinidine and verapamil on AV conduction were 
 Verapamil significantly counteracted the effects of quinidine on AV conduction.
 There has been a report of increased quinidine levels during verapamil therapy.
 
-### Other
+### Other agents
 
 #### Nitrates
 
@@ -204,6 +204,10 @@ When used concomitantly, inhalation anesthetics and calcium channel blocking age
 Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing).
 It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
 
+#### Telithromycin
+
+Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.
+
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
 An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, not the maximum tolerated dose, did not suggest a tumorigenic potential.
@@ -241,11 +245,11 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric use
 
-Clinical studies of Covera-HS did not include sufficient numbers of subjects aged under 65 to determine whether they responded differently from older subjects.
+Clinical studies of COVERA-HS did not include sufficient numbers of subjects under age 65 to determine whether they responded differently from older subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## Animal pharmacology and/or animal toxicology
 
-In chronic animal toxicology studies verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater, and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not in the rat.
+In chronic animal toxicology studies, verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater, and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not in the rat.
 Development of cataracts due to verapamil has not been reported in man.

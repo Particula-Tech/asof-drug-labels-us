@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
 Serious adverse reactions are uncommon when verapamil therapy is initiated with upward dose titration within the recommended single and total daily dose.
-See Warnings for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.
+See WARNINGS for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.
 Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil.
-The following reactions to orally administered Covera-HS occurred at rates greater than 2.0% or occurred at lower rates but appeared drug-related in clinical trials in hypertension and angina:
+The following reactions to orally administered COVERA-HS occurred at rates greater than 2.0% or occurred at lower rates but appeared drug-related in clinical trials in hypertension and angina:
 
 |  | Placebo n=261 % | All doses studied n=572 % |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ The following reactions to orally administered Covera-HS occurred at rates great
 | Edema | 3.1 | 3.0 |
 | Nausea | 1.9 | 2.1 |
 | AV block (1°) | 0.0 | 1.7 |
-| Elevated liver enzymes (see Warnings) | 0.8 | 1.4 |
+| Elevated liver enzymes (see WARNINGS) | 0.8 | 1.4 |
 | Bradycardia | 0.4 | 1.4 |
 | Paresthesia | 0.0 | 1.0 |
 | Flushing | 0.3 | 0.8 |
@@ -34,7 +34,7 @@ In previous experience with other formulations of verapamil, the following react
 | CHF/Pulmonary |  | 2° and 3° | 0.8% |
 | Edema | 1.8% | Rash | 1.2% |
 | Fatigue | 1.7% | Flushing | 0.6% |
-| Elevated liver enzymes (see Warnings) |  |  |  |
+| Elevated liver enzymes (see WARNINGS) |  |  |  |
 
 The following reactions, reported with orally administered verapamil in 2% or less of patients, occurred under conditions (open trials, marketing experience) where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship:
 
