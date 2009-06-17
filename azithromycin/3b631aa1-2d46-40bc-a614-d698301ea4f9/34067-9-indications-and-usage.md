@@ -1,7 +1,7 @@
 # INDICATIONS AND USAGE
 
 ZITHROMAX (azithromycin for injection) is indicated for the treatment of patients with infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
-As recommended dosages, durations of therapy, and applicable patient populations vary among these infections, please seeDOSAGE AND ADMINISTRATION for dosing recommendations.
+As recommended dosages, durations of therapy, and applicable patient populations vary among these infections, please see DOSAGE AND ADMINISTRATION for dosing recommendations.
 
 Community-acquired pneumonia due to Chlamydia pneumoniae, Haemophilus influenzae, Legionella pneumophila, Moraxella catarrhalis, Mycoplasma pneumoniae, Staphylococcus aureus, or Streptococcus pneumoniae in patients who require initial intravenous therapy.
 

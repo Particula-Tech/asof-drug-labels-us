@@ -2,7 +2,7 @@
 
 ## Pharmacokinetics
 
-In patients hospitalized with community-acquired pneumonia receiving single daily one-hour intravenous infusions for 2 to 5 days of 500 mg azithromycin at a concentration of 2 mg/mL, the mean Cmax± S.D. achieved was 3.63 ± 1.60 µg/mL, while the 24-hour trough level was 0.20 ± 0.15 µg/mL, and the AUC24 was 9.60 ± 4.80 µg∙h/mL.
+In patients hospitalized with community-acquired pneumonia receiving single daily one-hour intravenous infusions for 2 to 5 days of 500 mg azithromycin at a concentration of 2 mg/mL, the mean Cmax ± S.D. achieved was 3.63 ± 1.60 µg/mL, while the 24-hour trough level was 0.20 ± 0.15 µg/mL, and the AUC24 was 9.60 ± 4.80 µg∙h/mL.
 
 The mean Cmax, 24-hour trough and AUC24 values were 1.14 ± 0.14 µg/mL, 0.18 ± 0.02 µg/mL, and 8.03 ±0.86 µg∙ h/mL, respectively, in normal volunteers receiving a 3-hour intravenous infusion of 500 mg azithromycin at a concentration of 1 mg/mL.
 Similar pharmacokinetic values were obtained in patients hospitalized with community-acquired pneumonia that received the same 3-hour dosage regimen for 2–5 days.
@@ -113,7 +113,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 |  |  |  |  | Mean Cmax | Mean AUC |
 | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
-| Atorvastatin | 10 mg/day× 8 days | 500 mg/day PO on days 6–8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
+| Atorvastatin | 10 mg/day × 8 days | 500 mg/day PO on days 6–8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
 | Carbamazepine | 200 mg/day × 2 days, then 200 mg BID × 18 days | 500 mg/day PO for days 16–18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
 | Cetirizine | 20 mg/day × 11 days | 500 mg PO on day 7, then 250 mg/day on days 8–11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
 | Didanosine | 200 mg PO BID × 21 days | 1,200 mg/day PO on days 8–21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
