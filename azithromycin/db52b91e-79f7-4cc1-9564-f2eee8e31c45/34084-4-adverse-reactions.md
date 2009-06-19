@@ -127,7 +127,7 @@ Psychiatric: Aggressive reaction and anxiety.
 
 Skin/Appendages: Pruritus, rarely serious skin reactions including erythema multiforme, Stevens Johnson Syndrome and toxic epidermal necrolysis.
 
-Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and rare reports of taste/smell perversion and/or loss.
+Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
 
 ## Laboratory Abnormalities
 

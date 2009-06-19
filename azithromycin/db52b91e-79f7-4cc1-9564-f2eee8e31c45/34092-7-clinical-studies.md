@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-(SeeINDICATIONS AND USAGE and Pediatric Use.)
+(See INDICATIONS AND USAGE and Pediatric Use.)
 
 ## Pediatric Patients
 

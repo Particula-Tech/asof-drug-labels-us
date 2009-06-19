@@ -1,10 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-(SeeINDICATIONS AND USAGE and CLINICAL PHARMACOLOGY.)
+(See INDICATIONS AND USAGE and CLINICAL PHARMACOLOGY.)
 
 ## Adults
 
-| InfectionDUE TO THE INDICATED ORGANISMS (SeeINDICATIONS AND USAGE.) | Recommended Dose/Duration of Therapy |
+| InfectionDUE TO THE INDICATED ORGANISMS (See INDICATIONS AND USAGE.) | Recommended Dose/Duration of Therapy |
 | --- | --- |
 | Community-aquired pneumonia (mild severity) Pharyngitis/tonsillitis (second line therapy) Skin/skin structure (uncomplicated) | 500 mg as a single dose on Day 1, followed by 250 mg once daily on Days 2 through 5. |
 | Acute bacterial exacerbations of chronic obstructive pulmonary disease (mild to moderate) | 500 mg QD × 3 days OR 500 mg as a single dose on Day 1, followed by 250 mg once daily on Days 2 through 5. |
