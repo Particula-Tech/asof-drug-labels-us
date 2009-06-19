@@ -86,17 +86,14 @@ Some observations have suggested a plasma concentration, dose, or dose/duration 
 Predicting the effectiveness of any antiarrhythmic agent in long-term prevention of recurrent ventricular tachycardia and ventricular fibrillation is difficult and controversial, with highly qualified investigators recommending use of ambulatory monitoring, programmed electrical stimulation with various stimulation regimens, or a combination of these, to assess response.
 There is no present consensus on many aspects of how best to assess effectiveness, but there is a reasonable consensus on some aspects:
 
-1.
-If a patient with a history of cardiac arrest does not manifest a hemodynamically unstable arrhythmia during electrocardiographic monitoring prior to treatment, assessment of the effectiveness of amiodarone requires some provocative approach, either exercise or programmed electrical stimulation (PES).
-
-2.
-Whether provocation is also needed in patients who do manifest their life-threatening arrhythmia spontaneously is not settled, but there are reasons to consider PES or other provocation in such patients.
-In the fraction of patients whose PES-inducible arrhythmia can be made noninducible by amiodarone (a fraction that has varied widely in various series from less than 10% to almost 40%, perhaps due to different stimulation criteria), the prognosis has been almost uniformly excellent, with very low recurrence (ventricular tachycardia or sudden death) rates.
-More controversial is the meaning of continued inducibility.
-There has been an impression that continued inducibility in amiodarone patients may not foretell a poor prognosis but, in fact, many observers have found greater recurrence rates in patients who remain inducible than in those who do not.
-A number of criteria have been proposed, however, for identifying patients who remain inducible but who seem likely nonetheless to do well on amiodarone.
-These criteria include increased difficulty of induction (more stimuli or more rapid stimuli), which has been reported to predict a lower rate of recurrence, and ability to tolerate the induced ventricular tachycardia without severe symptoms, a finding that has been reported to correlate with better survival but not with lower recurrence rates.
-While these criteria require confirmation and further study in general, easier inducibility or poorer tolerance of the induced arrhythmia should suggest consideration of a need to revise treatment.
+1. If a patient with a history of cardiac arrest does not manifest a hemodynamically unstable arrhythmia during electrocardiographic monitoring prior to treatment, assessment of the effectiveness of amiodarone requires some provocative approach, either exercise or programmed electrical stimulation (PES).
+2. Whether provocation is also needed in patients who do manifest their life-threatening arrhythmia spontaneously is not settled, but there are reasons to consider PES or other provocation in such patients.
+   In the fraction of patients whose PES-inducible arrhythmia can be made noninducible by amiodarone (a fraction that has varied widely in various series from less than 10% to almost 40%, perhaps due to different stimulation criteria), the prognosis has been almost uniformly excellent, with very low recurrence (ventricular tachycardia or sudden death) rates.
+   More controversial is the meaning of continued inducibility.
+   There has been an impression that continued inducibility in amiodarone patients may not foretell a poor prognosis but, in fact, many observers have found greater recurrence rates in patients who remain inducible than in those who do not.
+   A number of criteria have been proposed, however, for identifying patients who remain inducible but who seem likely nonetheless to do well on amiodarone.
+   These criteria include increased difficulty of induction (more stimuli or more rapid stimuli), which has been reported to predict a lower rate of recurrence, and ability to tolerate the induced ventricular tachycardia without severe symptoms, a finding that has been reported to correlate with better survival but not with lower recurrence rates.
+   While these criteria require confirmation and further study in general, easier inducibility or poorer tolerance of the induced arrhythmia should suggest consideration of a need to revise treatment.
 
 Several predictors of success not based on PES have also been suggested, including complete elimination of all nonsustained ventricular tachycardia on ambulatory monitoring and very low premature ventricular-beat rates (less than 1 VPB/1,000 normal beats).
 

@@ -36,29 +36,19 @@ Gastrointestinal: Nausea and vomiting.
 The following side effects were each reported in 4 to 9% of patients:
 
 Dermatologic: Solar dermatitis/photosensitivity.
-
 Neurologic: Malaise and fatigue, tremor/abnormal involuntary movements, lack of coordination, abnormal gait/ataxia, dizziness, paresthesias.
-
 Gastrointestinal: Constipation, anorexia.
-
 Ophthalmologic: Visual disturbances.
-
 Hepatic: Abnormal liver-function tests.
-
 Respiratory: Pulmonary inflammation or fibrosis.
 
 The following side effects were each reported in 1 to 3% of patients:
 
 Thyroid: Hypothyroidism, hyperthyroidism.
-
 Neurologic: Decreased libido, insomnia, headache, sleep disturbances.
-
 Cardiovascular: Congestive heart failure, cardiac arrhythmias, SA node dysfunction.
-
 Gastrointestinal: Abdominal pain.
-
 Hepatic: Nonspecific hepatic disorders.
-
 Other: Flushing, abnormal taste and smell, edema, abnormal salivation, coagulation abnormalities.
 
 The following side effects were each reported in less than 1% of patients:
@@ -70,4 +60,4 @@ Other symptoms causing discontinuations less often included visual disturbances,
 
 ## Postmarketing Reports
 
-In postmarketing surveillance, hypotension (sometimes fatal), sinus arrest, anaphylactic/anaphylactoid reaction (including shock), angioedema, hepatitis, cholestatic hepatitis, cirrhosis, pancreatitis, renal impairment, renal insufficiency, acute renal failure, bronchospasm, possibly fatal respiratory disorders (including distress, failure, arrest, and ARDS), bronchiolitis obliterans organizing pneumonia (possibly fatal), fever, dyspnea, cough, hemoptysis, wheezing, hypoxia, pulmonary infiltrates and/or mass, pulmonary alveolar hemorrhage, pleuritis, pseudotumor cerebri, parkinsonian symptoms such as akinesia and bradykinesia (sometimes reversible with discontinuation of therapy), syndrome of inappropriate antidiuretic hormone secretion (SIADH), thyroid nodules/thyroid cancer, toxic epidermal necrolysis (sometimes fatal), erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, skin cancer, vasculitis, pruritus, hemolytic anemia, aplastic anemia, pancytopenia, neutropenia, thrombocytopenia, agranulocytosis, granuloma, myopathy, muscle weakness, rhabdomyolysis, hallucination, confusional state, disorientation, delirium, epididymitis, and impotence, also have been reported with amiodarone therapy.
+In postmarketing surveillance, hypotension (sometimes fatal), sinus arrest, anaphylactic/anaphylactoid reaction (including shock), angioedema, urticaria, hepatitis, cholestatic hepatitis, cirrhosis, pancreatitis, renal impairment, renal insufficiency, acute renal failure, bronchospasm, possibly fatal respiratory disorders (including distress, failure, arrest, and ARDS), bronchiolitis obliterans organizing pneumonia (possibly fatal), fever, dyspnea, cough, hemoptysis, wheezing, hypoxia, pulmonary infiltrates and/or mass, pulmonary alveolar hemorrhage, pleuritis, pseudotumor cerebri, parkinsonian symptoms such as akinesia and bradykinesia (sometimes reversible with discontinuation of therapy), syndrome of inappropriate antidiuretic hormone secretion (SIADH), thyroid nodules/thyroid cancer, toxic epidermal necrolysis (sometimes fatal), erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, skin cancer, vasculitis, pruritus, hemolytic anemia, aplastic anemia, pancytopenia, neutropenia, thrombocytopenia, agranulocytosis, granuloma, myopathy, muscle weakness, rhabdomyolysis, hallucination, confusional state, disorientation, delirium, epididymitis, and impotence, also have been reported with amiodarone therapy.

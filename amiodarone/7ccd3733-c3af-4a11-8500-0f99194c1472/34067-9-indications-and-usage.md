@@ -2,11 +2,8 @@
 
 Because of its life-threatening side effects and the substantial management difficulties associated with its use (see "WARNINGS" below), amiodarone is indicated only for the treatment of the following documented, life-threatening recurrent ventricular arrhythmias when these have not responded to documented adequate doses of other available antiarrhythmics or when alternative agents could not be tolerated.
 
-1.
-Recurrent ventricular fibrillation.
-
-2.
-Recurrent hemodynamically unstable ventricular tachycardia.
+1. Recurrent ventricular fibrillation.
+2. Recurrent hemodynamically unstable ventricular tachycardia.
 
 As is the case for other antiarrhythmic agents, there is no evidence from controlled trials that the use of amiodarone HCl tablets favorably affects survival.
 

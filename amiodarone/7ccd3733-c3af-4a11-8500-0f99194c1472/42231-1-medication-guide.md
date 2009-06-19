@@ -1,4 +1,6 @@
-## Medication Guide Amiodarone HCl Tablets
+# Medication Guide
+
+Amiodarone HCl Tablets
 
 Rx only
 
@@ -7,6 +9,7 @@ There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 
 What is the most important information I should know about amiodarone HCl tablets?
+
 Amiodarone HCl tablets can cause serious side effects that can lead to death including:
 
 - lung damage
@@ -24,7 +27,7 @@ Call your doctor or get medical help right away if you have any symptoms such as
 Because of these possible side effects, amiodarone HCl tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
 
 Amiodarone HCl tablets can cause other serious side effects.
-See "What are the possible or reasonably likely side effects of amiodarone HCl tablets?" for more information.
+See "What are the possible or reasonably likely side effects of Amiodarone HCl tablets?" for more information.
 
 If you get serious side effects during treatment with amiodarone HCl tablets you may need to stop amiodarone HCl tablets, have your dose changed, or get medical treatment.
 Talk with your doctor before you stop taking amiodarone HCl tablets.
@@ -78,7 +81,7 @@ Especially, tell your doctor if you are taking:
 - blood thinner medicines
 - HIV or AIDS medicines
 - cimetidine (Tagamet®), a medicine for stomach ulcers or indigestion
-- loratadine (for example: Claritin®, Alavert®), a medicine for allergy symptoms.
+- loratadine (for example: Claritin®, Alavert®), a medicine for allergy symptoms
 - seizure medicines
 - diabetes medicines
 - cyclosporine, an immunosuppressive medicine
@@ -136,11 +139,11 @@ Some other serious side effects of amiodarone HCl tablets include:
 - nerve problems.
   Amiodarone HCl tablets can cause a feeling of "pins and needles" or numbness in the hands, legs, or feet, muscle weakness, uncontrolled movements, poor coordination, and trouble walking.
 - thyroid problems.
-  Amiodarone tablets can cause thyroid problems, including low thyroid function or overactive thyroid function.
+  Amiodarone HCl tablets can cause thyroid problems, including low thyroid function or overactive thyroid function.
   Your doctor may arrange regular blood tests to check your thyroid function during treatment with amiodarone HCl.
   Call your doctor if you have weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor.
 - skin problems.
-  Amiodarone HCl tablets can cause your skin to be more sensitive to the sun or to turn a bluish-gray color.
+  Amiodarone HCl tablets can cause your skin to be more sensitive to the sun or to turn a bluishgray color.
   In most patients, skin color slowly returns to normal after stopping amiodarone HCl tablets.
   In some patients, skin color does not return to normal.
 
@@ -184,14 +187,3 @@ Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Rx only
-
-Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Last Revised: June, 2008
-
-Please see package insert for full prescribing information.
-
-Tagamet® is a registered trademark of SmithKline Beecham Pharmaceuticals Co. Claritin® is a registered trademark of Schering Corporation.
-Alavert® is a registered trademark of Wyeth.
-
-88570-0608-5
