@@ -6,7 +6,7 @@ Eyelash changes (increased length, thickness, pigmentation, and number of lashes
 
 ## Controlled Clinical Trials
 
-The ocular adverse events and ocular signs and symptoms reported in 5 to 15% of the patients on XALATAN Sterile Ophthalmic Solution in the three 6-month, multi-center, double-masked, active-controlled trials were blurred vision, burning and stinging, conjunctival hyperemia, foreign body sensation, itching, increased pigmentation of the iris, and punctate epithelial keratopathy.
+The ocular adverse events and ocular signs and symptoms reported in 5 to 15% of the patients on XALATAN Sterile Ophthalmic Solution in the three 6-month, multi-center, double-masked, active-controlled trials were blurred vision, burning and stinging, conjunctival hyperemia, foreign body sensation, itching, increased pigmentation of the iris, and punctuate epithelial keratopathy.
 
 Local conjunctival hyperemia was observed; however, less than 1% of the patients treated with XALATAN required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
@@ -23,4 +23,4 @@ Chest pain/angina pectoris, muscle/joint/back pain, and rash/allergic skin react
 
 The following events have been identified during postmarketing use of XALATAN in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to XALATAN, or a combination of these factors, include: asthma and exacerbation of asthma; corneal edema and erosions; dyspnea; eyelash and vellus hair changes (increased length, thickness, pigmentation, and number); eyelid skin darkening; herpes keratitis; intraocular inflammation (iritis/uveitis); keratitis; macular edema, including cystoid macular edema; misdirected eyelashes sometimes resulting in eye irritation; and toxic epidermal necrolysis.
+The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to XALATAN, or a combination of these factors, include: asthma and exacerbation of asthma; corneal edema and erosions; dyspnea; eyelash and vellus hair changes (increased length, thickness, pigmentation, and number); eyelid skin darkening; herpes keratitis; intraocular inflammation (iritis/uveitis); keratitis; macular edema, including cystoid macular edema; misdirected eyelashes sometimes resulting in eye irritation; dizziness, headache, and toxic epidermal necrolysis.
