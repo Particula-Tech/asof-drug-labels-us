@@ -13,14 +13,14 @@ With metformin therapy, insulin secretion remains unchanged while fasting insuli
 ### Absorption and Bioavailability
 
 The absolute bioavailability of a GLUCOPHAGE 500 mg tablet given under fasting conditions is approximately 50% to 60%.
-Studies using single oral doses of GLUCOPHAGE 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+Studies using single oral doses of GLUCOPHAGE 500 to 1500 mg, and 850 to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
 
-Following a single oral dose of GLUCOPHAGE XR, Cmax is achieved with a median value of 7 hours and a range of 4 hours to 8 hours.
+Following a single oral dose of GLUCOPHAGE XR, Cmax is achieved with a median value of 7 hours and a range of 4 to 8 hours.
 Peak plasma levels are approximately 20% lower compared to the same dose of GLUCOPHAGE, however, the extent of absorption (as measured by AUC) is similar to GLUCOPHAGE.
 
-At steady state, the AUC and Cmax are less than dose proportional for GLUCOPHAGE XR within the range of 500 mg to 2000 mg administered once daily.
+At steady state, the AUC and Cmax are less than dose proportional for GLUCOPHAGE XR within the range of 500 to 2000 mg administered once daily.
 Peak plasma levels are approximately 0.6, 1.1, 1.4, and 1.8 µg/mL for 500, 1000, 1500, and 2000 mg once-daily doses, respectively.
 The extent of metformin absorption (as measured by AUC) from GLUCOPHAGE XR at a 2000 mg once-daily dose is similar to the same total daily dose administered as GLUCOPHAGE tablets 1000 mg twice daily.
 After repeated administration of GLUCOPHAGE XR, metformin did not accumulate in plasma.
@@ -64,7 +64,7 @@ No pharmacokinetic studies of metformin have been conducted in patients with hep
 
 Limited data from controlled pharmacokinetic studies of GLUCOPHAGE in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1).
-GLUCOPHAGE (metformin hydrochloride tablets) and GLUCOPHAGE XR (metformin hydrochloride extended-release tablets) treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced (see WARNINGS and DOSAGE AND ADMINISTRATION).
+GLUCOPHAGE (metformin hydrochloride) Tablets and GLUCOPHAGE XR (metformin hydrochloride) Extended-Release Tablets treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Table 1: Select Mean (±S.D.)
 Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of GLUCOPHAGE
@@ -95,7 +95,7 @@ Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of 
 
 ### Pediatrics
 
-After administration of a single oral GLUCOPHAGE 500 mg tablet with food, geometric mean metformin Cmax and AUC differed less than 5% between pediatric type 2 diabetic patients (12 to 16 years of age) and gender- and weight-matched healthy adults (20 to 45 years of age), all with normal renal function.
+After administration of a single oral GLUCOPHAGE 500 mg tablet with food, geometric mean metformin Cmax and AUC differed less than 5% between pediatric type 2 diabetic patients (12-16 years of age) and gender- and weight-matched healthy adults (20-45 years of age), all with normal renal function.
 
 ### Gender
 
@@ -111,27 +111,27 @@ In controlled clinical studies of GLUCOPHAGE in patients with type 2 diabetes, t
 
 ### GLUCOPHAGE
 
-In a double-blind, placebo-controlled, multicenter U.S. clinical trial involving obese patients with type 2 diabetes whose hyperglycemia was not adequately controlled with dietary management alone (baseline fasting plasma glucose [FPG] of approximately 240 mg/dL), treatment with GLUCOPHAGE (up to 2550 mg/day) for 29 weeks resulted in significant mean net reductions in fasting and postprandial plasma glucose (PPG) and hemoglobin A1c (HbA1c) of 59 mg/dL, 83 mg/dL, and 1.8%, respectively, compared to the placebo group (see Table 2).
+In a double-blind, placebo-controlled, multicenter US clinical trial involving obese patients with type 2 diabetes whose hyperglycemia was not adequately controlled with dietary management alone (baseline fasting plasma glucose [FPG] of approximately 240 mg/dL), treatment with GLUCOPHAGE (up to 2550 mg/day) for 29 weeks resulted in significant mean net reductions in fasting and postprandial plasma glucose (PPG) and hemoglobin A1c (HbA1c) of 59 mg/dL, 83 mg/dL, and 1.8%, respectively, compared to the placebo group (see Table 2).
 
 Table 2: GLUCOPHAGE vs Placebo Summary of Mean Changes from Baseline* in Fasting Plasma Glucose, HbA1c, and Body Weight, at Final Visit (29-week study)
 
-|  | GLUCOPHAGE (n=141) | Placebo (n=145) | p–Value |
+|  | GLUCOPHAGE (n=141) | Placebo (n=145) | p-Value |
 | --- | --- | --- | --- |
 | FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 –53.0 | 237.7 6.3 | NS** 0.001 |
 | Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 –1.4 | 8.2 0.4 | NS** 0.001 |
 | Body Weight (lbs) Baseline Change at FINAL VISIT | 201.0 –1.4 | 206.0 –2.4 | NS** NS** |
-| * All patients on diet therapy at Baseline |  | **Not statistically significant |  |
+| * All patients on diet therapy at Baseline |  | ** Not statistically significant |  |
 
 A 29-week, double-blind, placebo-controlled study of GLUCOPHAGE and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL) (see Table 3).
 Patients randomized to the combination arm started therapy with GLUCOPHAGE 500 mg and glyburide 20 mg.
-At the end of each week of the first four weeks of the trial, these patients had their dosages of GLUCOPHAGE increased by 500 mg if they had failed to reach target fasting plasma glucose.
-After week four, such dosage adjustments were made monthly, although no patient was allowed to exceed GLUCOPHAGE 2500 mg.
+At the end of each week of the first 4 weeks of the trial, these patients had their dosages of GLUCOPHAGE increased by 500 mg if they had failed to reach target fasting plasma glucose.
+After week 4, such dosage adjustments were made monthly, although no patient was allowed to exceed GLUCOPHAGE 2500 mg.
 Patients in the GLUCOPHAGE only arm (metformin plus placebo) followed the same titration schedule.
 At the end of the trial, approximately 70% of the patients in the combination group were taking GLUCOPHAGE 2000 mg/glyburide 20 mg or GLUCOPHAGE 2500 mg/glyburide 20 mg.
 Patients randomized to continue on glyburide experienced worsening of glycemic control, with mean increases in FPG, PPG, and HbA1c of 14 mg/dL, 3 mg/dL, and 0.2%, respectively.
 In contrast, those randomized to GLUCOPHAGE (up to 2500 mg/day) experienced a slight improvement, with mean reductions in FPG, PPG, and HbA1c of 1 mg/dL, 6 mg/dL, and 0.4%, respectively.
 The combination of GLUCOPHAGE and glyburide was effective in reducing FPG, PPG, and HbA1c levels by 63 mg/dL, 65 mg/dL, and 1.7%, respectively.
-Compared to results of glyburide treatment alone, the net differences with combination treatment were –77 mg/dL,–68 mg/dL, and –1.9%, respectively (see Table 3).
+Compared to results of glyburide treatment alone, the net differences with combination treatment were –77 mg/dL, –68 mg/dL, and –1.9%, respectively (see Table 3).
 
 Table 3: Combined GLUCOPHAGE/Glyburide (Comb) vs Glyburide (Glyb) or GLUCOPHAGE (GLU) Monotherapy: Summary of Mean Changes from Baseline* in Fasting Plasma Glucose, HbA1c, and Body Weight, at Final Visit (29-week study)
 
@@ -144,12 +144,12 @@ Table 3: Combined GLUCOPHAGE/Glyburide (Comb) vs Glyburide (Glyb) or GLUCOPHAGE 
 | Baseline Change at FINAL VISIT | 8.8 –1.7 | 8.5 0.2 | 8.9 –0.4 | NS** 0.001 | NS** 0.001 | 0.007 0.001 |
 | Body Weight (lbs) |  |  |  |  |  |  |
 | Baseline Change at FINAL VISIT | 202.2 0.9 | 203.0 –0.7 | 204.0 –8.4 | NS** 0.011 | NS** 0.001 | NS** 0.001 |
-| * All patients on glyburide, 20 mg/day, at Baseline |  |  |  | **Not statistically significant |  |  |
+| * All patients on glyburide, 20 mg/day, at Baseline |  |  |  | ** Not statistically significant |  |  |
 
-The magnitude of the decline in fasting blood glucose concentration following the institution of GLUCOPHAGE (metformin hydrochloride tablets) therapy was proportional to the level of fasting hyperglycemia.
+The magnitude of the decline in fasting blood glucose concentration following the institution of GLUCOPHAGE (metformin hydrochloride) Tablets therapy was proportional to the level of fasting hyperglycemia.
 Patients with type 2 diabetes with higher fasting glucose concentrations experienced greater declines in plasma glucose and glycosylated hemoglobin.
 
-In clinical studies, GLUCOPHAGE, alone or in combination with a sulfonylurea, lowered mean fasting serum triglycerides, total cholesterol, and LDL cholesterol levels and had no adverse effects on other lipid levels (see Table 4).
+In clinical studies, GLUCOPHAGE, alone or in combination with a sulfonylurea, lowered mean fasting serum triglycerides, total cholesterol, and LDL cholesterol levels, and had no adverse effects on other lipid levels (see Table 4).
 
 Table 4: Summary of Mean Percent Change From Baseline of Major Serum Lipid Variables at Final Visit (29-week studies)
 
@@ -182,18 +182,18 @@ Table 5: Combined GLUCOPHAGE/Insulin vs Placebo/Insulin Summary of Mean Changes 
 | a Statistically significant using analysis of covariance with baseline as covariate (p=0.04) Not significant using analysis of variance (values shown in table) |  |  |  |
 | b Statistically significant for insulin (p=0.04) |  |  |  |
 
-A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA1c of 7.46 ± 0.97%, the addition of GLUCOPHAGE maintained similar glycemic control (HbA1c 7.15 ± 0.61 versus 6.97 ± 0.62 for GLUCOPHAGE plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68 ± 30.22 versus an increase of 0.43 ± 25.20 units for GLUCOPHAGE plus insulin and placebo plus insulin, p<0.01).
+A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA1c of 7.46 ± 0.97%, the addition of GLUCOPHAGE maintained similar glycemic control (HbA1c 7.15 ± 0.61 vs 6.97 ± 0.62 for GLUCOPHAGE plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68 ± 30.22 vs an increase of 0.43 ± 25.20 units for GLUCOPHAGE plus insulin and placebo plus insulin, p<0.01).
 In addition, this study demonstrated that the combination of GLUCOPHAGE plus insulin resulted in reduction in body weight of 3.11 ± 4.30 lbs, compared to an increase of 1.30 ± 6.08 lbs for placebo plus insulin, p=0.01.
 
 ### GLUCOPHAGE XR
 
-A 24-week, double-blind, placebo-controlled study of GLUCOPHAGE XR, taken once daily with the evening meal, was conducted in patients with type 2 diabetes who had failed to achieve glycemic control with diet and exercise (HbA1c 7.0-10.0%, FPG 126-270 mg/dL).
+A 24-week, double-blind, placebo-controlled study of GLUCOPHAGE XR, taken once daily with the evening meal, was conducted in patients with type 2 diabetes who had failed to achieve glycemic control with diet and exercise (HbA1c 7.0%-10.0%, FPG 126-270 mg/dL).
 Patients entering the study had a mean baseline HbA1c of 8.0% and a mean baseline FPG of 176 mg/dL.
 After 12 weeks treatment, mean HbA1c had increased from baseline by 0.1% and mean FPG decreased from baseline by 2 mg/dL in the placebo group, compared with a decrease in mean HbA1c of 0.6% and a decrease in mean FPG of 23 mg/dL in patients treated with GLUCOPHAGE XR 1000 mg once daily.
 Subsequently, the treatment dose was increased to 1500 mg once daily if HbA1c was≥7.0% but <8.0% (patients with HbA1c ≥8.0% were discontinued from the study).
 At the final visit (24-week), mean HbA1c had increased 0.2% from baseline in placebo patients and decreased 0.6% with GLUCOPHAGE XR.
 
-A 16-week, double-blind, placebo-controlled, dose-response study of GLUCOPHAGE XR, taken once daily with the evening meal or twice daily with meals, was conducted in patients with type 2 diabetes who had failed to achieve glycemic control with diet and exercise (HbA1c 7.0-11.0%, FPG 126-280 mg/dL).
+A 16-week, double-blind, placebo-controlled, dose-response study of GLUCOPHAGE XR, taken once daily with the evening meal or twice daily with meals, was conducted in patients with type 2 diabetes who had failed to achieve glycemic control with diet and exercise (HbA1c 7.0%-11.0%, FPG 126-280 mg/dL).
 Changes in glycemic control and body weight are shown in Table 6.
 
 Table 6: Summary of Mean Changes from Baseline* in HbA1c, Fasting Plasma Glucose, and Body Weight at Final Visit (16-week study)
@@ -217,9 +217,9 @@ Table 6: Summary of Mean Changes from Baseline* in HbA1c, Fasting Plasma Glucose
 | a All comparisons versus Placebo |  |  |  |  |  |  |
 | ** Not statistically significant |  |  |  |  |  |  |
 
-Compared with placebo, improvement in glycemic control was seen at all dose levels of GLUCOPHAGE XR (metformin hydrochloride extended-release tablets) and treatment was not associated with any significant change in weight (see DOSAGE AND ADMINISTRATION for dosing recommendations for GLUCOPHAGE and GLUCOPHAGE XR).
+Compared with placebo, improvement in glycemic control was seen at all dose levels of GLUCOPHAGE XR (metformin hydrochloride) Extended-Release Tablets and treatment was not associated with any significant change in weight (see DOSAGE AND ADMINISTRATION for dosing recommendations for GLUCOPHAGE and GLUCOPHAGE XR).
 
-A 24-week, double-blind, randomized study of GLUCOPHAGE XR, taken once daily with the evening meal, and GLUCOPHAGE (metformin hydrochloride tablets), taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes who had been treated with GLUCOPHAGE 500 mg twice daily for at least 8 weeks prior to study entry.
+A 24-week, double-blind, randomized study of GLUCOPHAGE XR, taken once daily with the evening meal, and GLUCOPHAGE (metformin hydrochloride) Tablets, taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes who had been treated with GLUCOPHAGE 500 mg twice daily for at least 8 weeks prior to study entry.
 The GLUCOPHAGE dose had not necessarily been titrated to achieve a specific level of glycemic control prior to study entry.
 Patients qualified for the study if HbA1c was≤8.5% and FPG was ≤200 mg/dL.
 Changes in glycemic control and body weight are shown in Table 7.
@@ -277,9 +277,9 @@ Changes in lipid parameters in the previously described study of GLUCOPHAGE and 
 
 Table 9: Summary of Mean Percent Changes from Baseline* in Major Lipid Variables at Final Visit (24-week study)
 
-|  | 1000 mg Once Daily | 1500 mg Once Daily |  |
+|  | 500 mg Twice Daily | 1000 mg Once Daily | 1500 mg Once Daily |
 | --- | --- | --- | --- |
-|  | GLUCOPHAGE 500 mg Twice Daily | GLUCOPHAGE XR |  |
+|  | GLUCOPHAGE | GLUCOPHAGE XR |  |
 | Total Cholesterol (mg/dL) | (n=68) | (n=70) | (n=66) |
 | Baseline | 199.0 | 201.9 | 201.6 |
 | Mean % Change at FINAL VISIT | 0.1% | 1.3% | 0.1% |

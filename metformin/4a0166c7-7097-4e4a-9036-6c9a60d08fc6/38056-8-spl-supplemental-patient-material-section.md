@@ -1,6 +1,6 @@
 Patient Information
 
-GLUCOPHAGE® (metformin hydrochloride tablets) and GLUCOPHAGE® XR (metformin hydrochloride extended-release tablets)
+GLUCOPHAGE® (metformin hydrochloride) Tablets and GLUCOPHAGE® XR (metformin hydrochloride) Extended-Release Tablets
 
 Read this information carefully before you start taking this medicine and each time you refill your prescription.
 There may be new information.
@@ -61,7 +61,7 @@ You should also discuss your choices with your doctor if you are nursing a child
 
 Can GLUCOPHAGE or GLUCOPHAGE XR be used in children?
 
-GLUCOPHAGE has been shown to effectively lower glucose levels in children (ages 10 to 16 years) with type 2 diabetes.
+GLUCOPHAGE has been shown to effectively lower glucose levels in children (ages 10-16 years) with type 2 diabetes.
 GLUCOPHAGE has not been studied in children younger than 10 years old.
 GLUCOPHAGE has not been studied in combination with other oral glucose-control medicines or insulin in children.
 If you have any questions about the use of GLUCOPHAGE in children, talk with your doctor or other healthcare provider.
@@ -156,10 +156,8 @@ Do not share your medicine with other people.
 
 GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
 Licensed to Bristol-Myers Squibb Company.
-
-METAGLIP™ is a trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
-Licensed to Bristol-Myers Squibb Company.
+Other brands listed are the trademarks of their respective owners.
 
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1125493A8 Rev August 2008
+1125493A8 Rev January 2009

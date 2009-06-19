@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-GLUCOPHAGE® (metformin hydrochloride tablets) and GLUCOPHAGE® XR (metformin hydrochloride extended-release tablets) are oral antihyperglycemic drugs used in the management of type 2 diabetes.
+GLUCOPHAGE® (metformin hydrochloride) Tablets and GLUCOPHAGE® XR (metformin hydrochloride) Extended-Release Tablets are oral antihyperglycemic drugs used in the management of type 2 diabetes.
 Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 The structural formula is as shown:
 
@@ -19,7 +19,7 @@ GLUCOPHAGE XR 500 mg tablets contain the inactive ingredients sodium carboxymeth
 
 GLUCOPHAGE XR 750 mg tablets contain the inactive ingredients sodium carboxymethyl cellulose, hypromellose, and magnesium stearate.
 
-System Components and Performance - GLUCOPHAGE XR comprises a dual hydrophilic polymer matrix system.
+System Components and Performance–GLUCOPHAGE XR comprises a dual hydrophilic polymer matrix system.
 Metformin hydrochloride is combined with a drug release controlling polymer to form an "inner" phase, which is then incorporated as discrete particles into an "external" phase of a second polymer.
 After administration, fluid from the gastrointestinal (GI) tract enters the tablet, causing the polymers to hydrate and swell.
 Drug is released slowly from the dosage form by a process of diffusion through the gel matrix that is essentially independent of pH.

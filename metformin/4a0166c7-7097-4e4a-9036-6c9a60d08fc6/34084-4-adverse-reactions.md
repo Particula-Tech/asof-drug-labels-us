@@ -18,7 +18,7 @@ Table 11: Most Common Adverse Reactions (>5.0 Percent) in a Placebo-Controlled C
 | * Reactions that were more common in GLUCOPHAGE- than placebo-treated patients. |  |  |
 
 Diarrhea led to discontinuation of study medication in 6% of patients treated with GLUCOPHAGE.
-Additionally, the following adverse reactions were reported in ≥1.0 - ≤5.0% of GLUCOPHAGE patients and were more commonly reported with GLUCOPHAGE than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
+Additionally, the following adverse reactions were reported in ≥1.0% to ≤5.0% of GLUCOPHAGE patients and were more commonly reported with GLUCOPHAGE than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
 
 In worldwide clinical trials over 900 patients with type 2 diabetes have been treated with GLUCOPHAGE XR in placebo- and active-controlled studies.
 In placebo-controlled trials, 781 patients were administered GLUCOPHAGE XR and 195 patients received placebo.
@@ -26,15 +26,15 @@ Adverse reactions reported in greater than 5% of the GLUCOPHAGE XR patients, and
 
 Table 12: Most Common Adverse Reactions (>5.0 Percent) in Placebo-Controlled Studies of GLUCOPHAGE XR*
 
-| Adverse Reaction | % of Patients |  |
+|  | % of Patients |  |
 | --- | --- | --- |
-|  | GLUCOPHAGE XR (n=781) | Placebo (n=195) |
+| Adverse Reaction | GLUCOPHAGE XR (n=781) | Placebo (n=195) |
 | Diarrhea | 9.6 | 2.6 |
 | Nausea/Vomiting | 6.5 | 1.5 |
 | * Reactions that were more common in GLUCOPHAGE XR- than placebo-treated patients. |  |  |
 
 Diarrhea led to discontinuation of study medication in 0.6% of patients treated with GLUCOPHAGE XR.
-Additionally, the following adverse reactions were reported in ≥1.0% - ≤5.0% of GLUCOPHAGE XR patients and were more commonly reported with GLUCOPHAGE XR than placebo: abdominal pain, constipation, distention abdomen, dyspepsia/heartburn, flatulence, dizziness, headache, upper respiratory infection, taste disturbance.
+Additionally, the following adverse reactions were reported in ≥1.0% to ≤5.0% of GLUCOPHAGE XR patients and were more commonly reported with GLUCOPHAGE XR than placebo: abdominal pain, constipation, distention abdomen, dyspepsia/heartburn, flatulence, dizziness, headache, upper respiratory infection, taste disturbance.
 
 ## Pediatric Patients
 

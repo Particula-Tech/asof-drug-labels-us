@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-GLUCOPHAGE® (metformin hydrochloride tablets)
+GLUCOPHAGE® (metformin hydrochloride) Tablets
 
 | 500 mg | Bottles of 100 | NDC 0087-6060-05 |
 | --- | --- | --- |
@@ -8,13 +8,13 @@ GLUCOPHAGE® (metformin hydrochloride tablets)
 | 850 mg | Bottles of 100 | NDC 0087-6070-05 |
 | 1000 mg | Bottles of 100 | NDC 0087-6071-11 |
 
-GLUCOPHAGE 500 mg tablets are round, white to off-white, film coated tablets debossed with "BMS 6060" around the periphery of the tablet on one side and "500" debossed across the face of the other side.
+GLUCOPHAGE 500 mg tablets are round, white to off-white, film-coated tablets debossed with "BMS 6060" around the periphery of the tablet on one side and "500" debossed across the face of the other side.
 
-GLUCOPHAGE 850 mg tablets are round, white to off-white, film coated tablets debossed with "BMS 6070" around the periphery of the tablet on one side and "850" debossed across the face of the other side.
+GLUCOPHAGE 850 mg tablets are round, white to off-white, film-coated tablets debossed with "BMS 6070" around the periphery of the tablet on one side and "850" debossed across the face of the other side.
 
-GLUCOPHAGE1000 mg tablets are white, oval, biconvex, film coated tablets with "BMS 6071" debossed on one side and "1000" debossed on the opposite side and with a bisect line on both sides.
+GLUCOPHAGE 1000 mg tablets are white, oval, biconvex, film-coated tablets with "BMS 6071" debossed on one side and "1000" debossed on the opposite side and with a bisect line on both sides.
 
-GLUCOPHAGE® XR (metformin hydrochloride extended-release tablets)
+GLUCOPHAGE® XR (metformin hydrochloride) Extended-Release Tablets
 
 | 500 mg | Bottles of 100 | NDC 0087-6063-13 |
 | --- | --- | --- |

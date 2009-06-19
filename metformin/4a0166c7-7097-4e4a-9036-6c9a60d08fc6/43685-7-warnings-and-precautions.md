@@ -4,7 +4,7 @@
 
 ## General
 
-Macrovascular Outcomes—There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLUCOPHAGE or GLUCOPHAGE XR or any other anti-diabetic drug.
+Macrovascular Outcomes—There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLUCOPHAGE or GLUCOPHAGE XR or any other antidiabetic drug.
 
 Monitoring of renal function—Metformin is known to be substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
 Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive GLUCOPHAGE or GLUCOPHAGE XR.
@@ -34,7 +34,7 @@ Such decrease, possibly due to interference with B12 absorption from the B12-int
 Measurement of hematologic parameters on an annual basis is advised in patients on GLUCOPHAGE or GLUCOPHAGE XR and any apparent abnormalities should be appropriately investigated and managed (see PRECAUTIONS: Laboratory Tests).
 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
+In these patients, routine serum vitamin B12 measurements at 2- to 3-year intervals may be useful.
 
 Change in clinical status of patients with previously controlled type 2 diabetes—A patient with type 2 diabetes previously well controlled on GLUCOPHAGE or GLUCOPHAGE XR who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
 Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels.
@@ -80,7 +80,7 @@ Thereafter, both glucose and glycosylated hemoglobin should be monitored.
 Measurements of glycosylated hemoglobin may be especially useful for evaluating long-term control (see also DOSAGE AND ADMINISTRATION).
 
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
-While megaloblastic anemia has rarely been seen with GLUCOPHAGE therapy, if this is suspected, vitamin B12 deficiency should be excluded.
+While megaloblasticanemia has rarely been seen with GLUCOPHAGE therapy, if this is suspected, vitamin B12 deficiency should be excluded.
 
 ## Drug Interactions (Clinical Evaluation of Drug Interactions Conducted with GLUCOPHAGE)
 
@@ -116,7 +116,7 @@ Metformin is negligibly bound to plasma proteins and is, therefore, less likely 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1500 mg/kg/day, respectively.
-These doses are both approximately four times the maximum recommended human daily dose of 2000 mg based on body surface area comparisons.
+These doses are both approximately 4 times the maximum recommended human daily dose of 2000 mg based on body surface area comparisons.
 No evidence of carcinogenicity with metformin was found in either male or female mice.
 Similarly, there was no tumorigenic potential observed with metformin in male rats.
 There was, however, an increased incidence of benign stromal uterine polyps in female rats treated with 900 mg/kg/day.
@@ -124,7 +124,7 @@ There was, however, an increased incidence of benign stromal uterine polyps in f
 There was no evidence of a mutagenic potential of metformin in the following in vitro tests: Ames test (S. typhimurium), gene mutation test (mouse lymphoma cells), or chromosomal aberrations test (human lymphocytes).
 Results in the in vivo mouse micronucleus test were also negative.
 
-Fertility of male or female rats was unaffected by metformin when administered at doses as high as 600 mg/kg/day, which is approximately three times the maximum recommended human daily dose based on body surface area comparisons.
+Fertility of male or female rats was unaffected by metformin when administered at doses as high as 600 mg/kg/day, which is approximately 3 times the maximum recommended human daily dose based on body surface area comparisons.
 
 ## Pregnancy
 
@@ -136,7 +136,7 @@ Because animal reproduction studies are not always predictive of human response,
 
 There are no adequate and well-controlled studies in pregnant women with GLUCOPHAGE or GLUCOPHAGE XR.
 Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
-This represents an exposure of about two and six times the maximum recommended human daily dose of 2000 mg based on body surface area comparisons for rats and rabbits, respectively.
+This represents an exposure of about 2 and 6 times the maximum recommended human daily dose of 2000 mg based on body surface area comparisons for rats and rabbits, respectively.
 Determination of fetal concentrations demonstrated a partial placental barrier to metformin.
 
 ## Nursing Mothers
