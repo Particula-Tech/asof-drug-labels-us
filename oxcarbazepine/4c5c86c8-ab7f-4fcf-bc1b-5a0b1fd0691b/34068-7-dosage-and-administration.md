@@ -74,7 +74,7 @@ Patients not currently being treated with antiepileptic drugs may have monothera
 In these patients, Trileptal should be initiated at a dose of 8-10 mg/kg/day given in a BID regimen.
 The dose should be increased by 5 mg/kg/day every third day to the recommended daily dose shown in the table below.
 
-Table 7: Range of Maintenance Doses of Trileptal® for Children by Weight During Monotherapy
+Table8: Range of Maintenance Doses of Trileptal® for Children by Weight During Monotherapy
 
 |  | From | To |
 | --- | --- | --- |

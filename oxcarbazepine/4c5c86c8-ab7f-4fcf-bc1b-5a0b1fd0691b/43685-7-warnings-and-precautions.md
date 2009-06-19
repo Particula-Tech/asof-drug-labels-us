@@ -36,6 +36,41 @@ The reporting rate of TEN and SJS associated with Trileptal use, which is genera
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking Trileptal, consideration should be given to discontinuing Trileptal use and prescribing another antiepileptic medication.
 
+## Suicidal Behavior and Ideation
+
+Antiepileptic drugs (AEDs), including Trileptal, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 2 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| --- | --- | --- | --- | --- |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing Trileptal or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
 ## Withdrawal of AEDs
 
 As with all antiepileptic drugs, Trileptal should be withdrawn gradually to minimize the potential of increased seizure frequency.
@@ -83,15 +118,10 @@ Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient d
 Multi-organ hypersensitivity reactions have occurred in close temporal association (median time to detection 13 days: range 4-60) to the initiation of Trileptal therapy in adult and pediatric patients.
 Although there have been a limited number of reports, many of these cases resulted in hospitalization and some were considered life threatening.
 Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
-Other organ systems and manifestations included hemic and lymphatic (e.g., eosinophilia, thrombocytopenia, lymphadenopathy, leukopenia, neutropenia, splenomegaly), hepatobiliary (e.g., hepatitis, liver function test abnormalities), renal (e.g., proteinuria, nephritis, oliguria, renal failure), muscles and joints (e.g., joint swelling, myalgia, arthralgia, asthenia), nervous system (e.g., hepatic encephalopathy), respiratory (e.g., dyspnea, pulmonary edema, asthma, bronchospasm, interstitial lung disease), hepatorenal syndrome, pruritus, and angioedema.
+Other associated manifestations included lymphadenopathy, hepatitis, liver function test abnormalities, hematological abnormalities (e.g., eosinophilia, thrombocytopenia, neutropenia), pruritis, nephritis, oliguria, hepatorenal syndrome, arthralgia and asthenia.
 Because the disorder is variable in its expression, other organ system symptoms and signs, not noted here, may occur.
 If this reaction is suspected, Trileptal should be discontinued and an alternative treatment started.
 Although there are no case reports to indicate cross sensitivity with other drugs that produce this syndrome, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility (see WARNINGS, Patients with a Past History of Hypersensitivity Reaction to Carbamazepine subsection).
-
-## Hematologic Events
-
-Very rare reports of agranulocytosis, aplastic anemia and pancytopenia have been seen in patients treated with Trileptal during post-marketing experience.
-Discontinuation of the drug should be considered if any evidence of these hematologic events develop.
 
 ## Information for Patients
 
@@ -106,16 +136,20 @@ In the event a skin reaction should occur while taking Trileptal, patients shoul
 
 Patients should be instructed that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug related and should be reported to the physician immediately (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
 
-Patients should be advised that there have been very rare reports of blood disorders reported in patients treated with Trileptal.
-Patients should be instructed to immediately consult with their physician if they experience symptoms suggestive of blood disorders (see PRECAUTIONS, Hematologic Events subsection).
-
 Female patients of childbearing age should be warned that the concurrent use of Trileptal with hormonal contraceptives may render this method of contraception less effective (see Drug Interactions subsection).
 Additional non-hormonal forms of contraception are recommended when using Trileptal.
+
+Patients, their caregivers, and families should be counseled that AEDs, including Trileptal, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
 
 Caution should be exercised if alcohol is taken in combination with Trileptal therapy, due to a possible additive sedative effect.
 
 Patients should be advised that Trileptal may cause dizziness and somnolence.
 Accordingly, patients should be advised not to drive or operate machinery until they have gained sufficient experience on Trileptal to gauge whether it adversely affects their ability to drive or operate machinery.
+
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy Category C subsection).
 
 ## Laboratory Tests
 
@@ -138,16 +172,16 @@ In vitro, the UDP-glucuronyl transferase level was increased, indicating inducti
 Increases of 22% with MHD and 47% with oxcarbazepine were observed.
 As MHD, the predominant plasma substrate, is only a weak inducer of UDP-glucuronyl transferase, it is unlikely to have an effect on drugs that are mainly eliminated by conjugation through UDP-glucuronyl transferase (e.g., valproic acid, lamotrigine).
 
-In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists, oral contraceptives and cyclosporine resulting in a lower plasma concentration of these drugs.
+In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists, oral contraceptives, resulting in a lower plasma concentration of these drugs.
 
 As binding of MHD to plasma proteins is low (40%), clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 
 ### Antiepileptic Drugs
 
 Potential interactions between Trileptal and other AEDs were assessed in clinical studies.
-The effect of these interactions on mean AUCs and Cmin are summarized in Table 2.
+The effect of these interactions on mean AUCs and Cmin are summarized in Table3.
 
-Table 2: Summary of AED Interactions with Trileptal®
+Table3: Summary of AED Interactions with Trileptal®
 
 | AED Coadministered | Dose of AED (mg/day) | Trileptal Dose (mg/day) | Influence of Trileptal on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
 | --- | --- | --- | --- | --- |
@@ -224,6 +258,10 @@ Oral administration of MHD (25, 75, or 250 mg/kg) to rats during gestation and l
 There are no adequate and well-controlled clinical studies of Trileptal in pregnant women; however, Trileptal is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
 Given this fact, and the results of the animal studies described, it is likely that Trileptal is a human teratogen.
 Trileptal should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+To provide information regarding the effects of in utero exposure to Trileptal, physicians are advised to recommend that pregnant patients taking Trileptal enroll in the NAAED Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## Labor and Delivery
 

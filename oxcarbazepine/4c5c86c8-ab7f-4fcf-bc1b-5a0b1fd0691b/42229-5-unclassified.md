@@ -1,6 +1,4 @@
-T2007-78
-
-TRILEPTAL ®
+TRILEPTAL®
 
 (oxcarbazepine)
 
