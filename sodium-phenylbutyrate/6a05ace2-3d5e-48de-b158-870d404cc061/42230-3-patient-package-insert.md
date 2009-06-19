@@ -1,4 +1,4 @@
-## PATIENT PACKAGE INSERT: BUPHENYL® (sodium phenylbutyrate) Tablets BUPHENYL® (sodium phenylbutyrate) Powder
+# PATIENT PACKAGE INSERT: BUPHENYL® (sodium phenylbutyrate) Tablets BUPHENYL® (sodium phenylbutyrate) Powder
 
 What is the most important information I should know about BUPHENYL®?
 
@@ -86,5 +86,5 @@ BUPHENYL® should be stored in a tightly closed bottle at room temperature.
 
 This leaflet provides a brief summary of the information available on BUPHENYL®.
 The information here is incomplete and is not designed to take the place of your doctor's instructions.
-For more complete information, consult your physician or call or write Ucyclyd Pharma, Inc. at 8125 N. Hayden Road, Scottsdale, AZ 85258.
+For more complete information, consult your physician or call or write Ucyclyd Pharma, Inc. at 7720 N. Dobson Road, Scottsdale, AZ 85256.
 (888) 829-2593.

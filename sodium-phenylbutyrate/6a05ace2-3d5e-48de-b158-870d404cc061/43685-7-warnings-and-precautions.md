@@ -51,5 +51,5 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-The use of tablets for neonates, infants and children under the weight of 20 kg is not recommended.
+The use of tablets for neonates, infants and children to the weight of 20 kg is not recommended.
 (See Dosage and Administration.)
