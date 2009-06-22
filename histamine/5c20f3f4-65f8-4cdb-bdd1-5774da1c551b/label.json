@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA103891"
+  ],
+  "inn": "histamine",
+  "labeler": "Hollister-Stier Laboratories LLC",
+  "package_ndcs": [
+    "65044-9998-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "histamine",
+      "name": "Positive Skin Test Control - Histamine"
+    }
+  ],
+  "setid": "5c20f3f4-65f8-4cdb-bdd1-5774da1c551b",
+  "source": "dailymed"
+}
