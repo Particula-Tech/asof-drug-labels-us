@@ -38,7 +38,7 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Ter
 
 ### Adverse Events Occurring at an Incidence of 2% or More Among Citalopram-Treated Patients
 
-Table 3 enumerates the incidence, rounded to the nearest percent, of treatment emergent adverse events that occurred among 1063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
+Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 1063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
 Events included are those occurring in 2% or more of patients treated with citalopram and for which the incidence in patients treated with citalopram hydrobromide was greater than the incidence in placebo-treated patients.
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
@@ -51,7 +51,7 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | --- | --- | --- |
 | (Percentage of Patients Reporting Event) |  |  |
 | Autonomic Nervous System Disorders |  |  |
-| Dry mouth | 20% | 14% |
+| Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
 | Central & Peripheral Nervous System Disorders |  |  |
 | Tremor | 8% | 6% |
@@ -96,9 +96,9 @@ Jonckheere’s trend test revealed a positive dose response (p<0.05) for the fol
 
 ### Male and Female Sexual Dysfunction with SSRIs
 
-Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
+Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
-Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
+Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
 The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram in a pool of placebo-controlled clinical trials in patients with depression.
 
@@ -125,12 +125,12 @@ Patients treated with citalopram in controlled trials experienced a weight loss 
 
 ### Laboratory Changes
 
-Citalopram and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
+Citalopram and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses revealed no clinically important changes in laboratory test parameters associated with citalopram treatment.
 
 ### ECG Changes
 
-Electrocardiograms from citalopram (N=802) and placebo (N=241) groups were compared with respect to (1) mean change from baseline in various ECG parameters and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
+Electrocardiograms from citalopram (N=802) and placebo (N=241) groups were compared with respect to (1) mean change from baseline in various ECG parameters, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 The only statistically significant drug-placebo difference observed was a decrease in heart rate for citalopram of 1.7 bpm compared to no change in heart rate for placebo.
 There were no observed differences in QT or other ECG intervals.
 
@@ -143,7 +143,8 @@ Events are further categorized by body system and listed in order of decreasing 
 Cardiovascular - Frequent: tachycardia, postural hypotension, hypotension.
 Infrequent: hypertension, bradycardia, edema (extremities), angina pectoris, extrasystoles, cardiac failure, flushing, myocardial infarction, cerebrovascular accident, myocardial ischemia.
 Rare: transient ischemic attack, phlebitis, atrial fibrillation, cardiac arrest, bundle branch block.
-Central and Peripheral Nervous System Disorders - Frequent: paresthesia, migraine, Infrequent: hyperkinesia, vertigo, hypertonia, extrapyramidal disorder, leg cramps, involuntary muscle contractions, hypokinesia, neuralgia, dystonia, abnormal gait, hypesthesia, ataxia.
+Central and Peripheral Nervous System Disorders - Frequent: paresthesia, migraine.
+Infrequent: hyperkinesia, vertigo, hypertonia, extrapyramidal disorder, leg cramps, involuntary muscle contractions, hypokinesia, neuralgia, dystonia, abnormal gait, hypesthesia, ataxia.
 Rare: abnormal coordination, hyperesthesia, ptosis, stupor.
 Endocrine Disorders - Rare: hypothyroidism, goiter, gynecomastia.
 Gastrointestinal Disorders - Frequent: saliva increased, flatulence.
@@ -151,7 +152,7 @@ Infrequent: gastritis, gastroenteritis, stomatitis, eructation, hemorrhoids, dys
 Rare: colitis, gastric ulcer, cholecystitis, cholelithiasis, duodenal ulcer, gastroesophageal reflux, glossitis, jaundice, diverticulitis, rectal hemorrhage, hiccups.
 General - Infrequent: hot flushes, rigors, alcohol intolerance, syncope, influenza-like symptoms.
 Rare: hayfever.
-Hemic and Lymphatic Disorders - Infrequent: Purpura, anemia, epistaxis, leukocytosis, leucopenia, lymphadenopathy.
+Hemic and Lymphatic Disorders - Infrequent: purpura, anemia, epistaxis, leukocytosis, leucopenia, lymphadenopathy.
 Rare: pulmonary embolism, granulocytopenia, lymphocytosis, lymphopenia, hypochromic anemia, coagulation disorder, gingival bleeding.
 Metabolic and Nutritional Disorders - Frequent: decreased weight, increased weight.
 Infrequent: increased hepatic enzymes, thirst, dry eyes, increased alkaline phosphatase, abnormal glucose tolerance.
@@ -177,4 +178,4 @@ Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal p
 ## Other Events Observed During the Postmarketing Evaluation of Citalopram Hydrobromide.
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, serotonin syndrome, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, serotonin syndrome, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.

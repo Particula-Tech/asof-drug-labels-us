@@ -17,7 +17,7 @@ In a one-year toxicology study, 5 of 10 beagle dogs receiving oral doses of 8 mg
 Although appropriate data from that study are not available to directly compare plasma levels of citalopram (CT) and its metabolites, demethylcitalopram (DCT) and didemethylcitalopram (DDCT), to levels that have been achieved in humans, pharmacokinetic data indicate that the relative dog-to-human exposure was greater for the metabolites than for citalopram.
 Sudden deaths were not observed in rats at doses up to 120 mg/kg/day, which produced plasma levels of CT, DCT, and DDCT similar to those observed in dogs at doses of 8 mg/kg/day.
 A subsequent intravenous dosing study demonstrated that in beagle dogs, DDCT caused QT prolongation, a known risk factor for the observed outcome in dogs.
-This effect occurred in dogs at doses producing peak DDCT plasma levels of 810 to 3250 nM (39-155 times the mean steady state DDCT plasma level measured at the maximum recommended human daily dose of 60 mg).
+This effect occurred in dogs at doses producing peak DDCT plasma levels of 810 to 3250 nM (39 to 155 times the mean steady state DDCT plasma level measured at the maximum recommended human daily dose of 60 mg).
 In dogs, peak DDCT plasma concentrations are approximately equal to peak CT plasma concentrations, whereas in humans, steady state DDCT plasma concentrations are less than 10% of steady state CT plasma concentrations.
 Assays of DDCT plasma concentrations in 2020 citalopram-treated individuals demonstrated that DDCT levels rarely exceeded 70 nM; the highest measured level of DDCT in human overdose was 138 nM.
 While DDCT is ordinarily present in humans at lower levels than in dogs, it is unknown whether there are individuals who may achieve higher DDCT levels.

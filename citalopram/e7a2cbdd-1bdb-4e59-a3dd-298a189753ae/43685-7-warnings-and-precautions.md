@@ -7,16 +7,16 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1 .
 
-Table 1
+TABLE 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -82,16 +82,17 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ### Abnormal Bleeding
 
-Published case reports have documented the occurrence of bleeding episodes in patients treated with psychotropic drugs that interfere with serotonin reuptake.
-Subsequent epidemiological studies, both of the case-control and cohort design, have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
-In two studies, concurrent use of a nonsteroidal anti-inflammatory drug (NSAID) or aspirin potentiated the risk of bleeding (see Drug Interactions ).
-Although these studies focused on upper gastrointestinal bleeding, there is reason to believe that bleeding at other sites may be similarly potentiated.
-Patients should be cautioned regarding the risk of bleeding associated with the concomitant use of citalopram with NSAIDS, aspirin, or other drugs that affect coagulation.
+SSRIs and SNRIs, including citalopram, may increase the risk of bleeding events.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
+Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of citalopram and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including citalopram.
-In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH), and was reversible when citalopram was discontinued.
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
@@ -109,14 +110,14 @@ As with all antidepressants, citalopram should be used cautiously in patients wi
 ### Seizures
 
 Although anticonvulsant effects of citalopram have been observed in animal studies, citalopram has not been systematically evaluated in patients with a seizure disorder.
-These patients were excluded from clinical studies during the products premarketing testing.
+These patients were excluded from clinical studies during the product's premarketing testing.
 In clinical trials of citalopram, seizures occurred in 0.3% of patients treated with citalopram (a rate of one patient per 98 years of exposure) and 0.5% of patients treated with placebo (a rate of one patient per 50 years of exposure).
 Like other antidepressants, citalopram should be introduced with care in patients with a history of seizure disorder.
 
 ### Interference with Cognitive and Motor Performance
 
 In studies in normal volunteers, citalopram in doses of 40 mg/day did not produce impairment of intellectual function or psychomotor performance.
-Because any psychoactive drug may impair judgement, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
+Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
 
 ### Use in Patients with Concomitant Illness
 
@@ -128,16 +129,16 @@ However, the electrocardiograms of 1116 patients who received citalopram in clin
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of citalopram in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION ).
 Because citalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
-Until adequate number of patients with severe renal impairment have been evaluated during chronic treatment with citalopram, however, it should be used with caution in such patients (see DOSAGE AND ADMINISTRATION ).
+Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with citalopram, however, it should be used with caution in such patients (see DOSAGE AND ADMINISTRATION ).
 
 ## Information for Patients
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe citalopram.
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of citalopram and triptans, tramadol or other serotonergic agents.
-Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking or motor skills, and so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
+Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
 Patients should be told that, although citalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of citalopram and alcohol in depressed patients is not advised.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
-Patients should be cautioned about the concomitant use of citalopram and NSAIDs, aspirin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents had been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of citalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Patients should be advised to notify their physician if they are breastfeeding an infant.
 While patients may notice improvement with citalopram therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
@@ -173,21 +174,24 @@ If concomitant treatment of citalopram with a triptan is clinically warranted, c
 
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 Alcohol - Although citalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by depressed patients taking citalopram is not recommended.
-Monoamine Oxidase Inhibitors (MAOI’s) - See CONTRAINDICATIONS and WARNINGS .
+Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS and WARNINGS .
+
 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) - Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin potentiated the risk of bleeding.
-Thus, patients should be cautioned about the use of such drugs concurrently with citalopram.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when citalopram is initiated or discontinued.
+
 Cimetidine - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and C max of 43% and 39%, respectively.
-The clinical significance of these finding is unknown.
+The clinical significance of these findings is unknown.
 Digoxin - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of citalopram and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.
 Lithium - Coadministration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
 Because lithium may enhance the serotonergic effects of citalopram, caution should be exercised when citalopram and lithium are coadministered.
 Pimozide – In a controlled study, a single dose of pimozide 2 mg co-administered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
-Citalopram do not alter the mean AUC or C max of pimozide.
+Citalopram did not alter the mean AUC or C max of pimozide.
 The mechanism of this pharmacodynamic interaction is not known.
 Theophylline - Combined administration of citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did not affect the pharmacokinetics of theophylline.
-The effect of theophylline on the phamacokinetics of citalopram was not evaluated.
+The effect of theophylline on the pharmacokinetics of citalopram was not evaluated.
 Sumatriptan - There have been rare postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of a SSRI and sumatriptan.
 If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram) is clinically warranted, appropriate observation of the patient is advised.
 Warfarin - Administration of 40 mg/day citalopram for 21 days did not affect the pharmacokinetics of warfarin, a CYP3A4 substrate.
@@ -199,11 +203,11 @@ Ketoconazole - Combined administration of citalopram (40 mg) and ketoconazole (2
 CYP3A4 and 2C19 Inhibitors - In vitro studies indicated that CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram.
 However, coadministration of citalopram (40 mg) and ketoconazole (200 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of citalopram.
 Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
-Metoprolol - Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increasein the plasma levels of the beta-adrenergic blocker metoprolol.
+Metoprolol - Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
 Imipramine and Other Tricyclic Antidepressants (TCAs) - In vitro studies suggest that citalopram is a relatively weak inhibitor of CYP2D6.
-Coadministration of citalopram (40 mg/day for 10 days) with the TAC imipramine (single dose of 100 mg), a substrate for CYP2D6, did not significantly affect the plasma concentrations of imipramine or citalopram.
+Coadministration of citalopram (40 mg/day for 10 days) with the TCA imipramine (single dose of 100 mg), a substrate for CYP2D6, did not significantly affect the plasma concentrations of imipramine or citalopram.
 However, the concentration of the imipramine metabolite desipramine was increased by approximately 50%.
 The clinical significance of the desipramine change is unknown.
 Nevertheless, caution is indicated in the coadministration of TCAs with citalopram.
@@ -237,7 +241,7 @@ Pregnancy Category C- In animal reproduction studies, citalopram has been shown 
 In two rat embryo/fetal development studies, oral administration of citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m 2 ) basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
 The developmental, no-effect dose of 56 mg/kg/day is approximately 9 times the MRHD on a mg/m 2 basis.
-In a rabbit study no adverse effects on embryo/fetal development were observed at doses of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m 2 basis.
+In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m 2 basis.
 Thus, teratogenic effects were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
 When female rats were treated with citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD on a mg/m 2 basis.
 The no-effect dose of 12.8 mg/kg/day is approximately 2 times the MRHD on a mg/m 2 basis.
@@ -257,7 +261,7 @@ PPHN occurs in 1—2 per 1000 live births in the general population and is assoc
 In a retrospective, case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
 There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
 The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
-When treating a pregnant woman with citalopram during the third trimester, the physician should carefully consider the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION ).
+When treating a pregnant woman with citalopram during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION ).
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
 ## Labor and Delivery
@@ -267,21 +271,22 @@ The effect of citalopram on labor and delivery in humans is unknown.
 ## Nursing Mothers
 
 As has been found to occur with many other drugs, citalopram is excreted in human breast milk.
-There have been two reports of infants experiencing excessive somnolence, decreased feeding, and weight loss in association with breast feeding from a citalopram-treated mother; in one case, the infant was reported to recover completely upon discontinuation of citalopram by its mother, and in the second case, no follow up information was available.
+There have been two reports of infants experiencing excessive somnolence, decreased feeding, and weight loss in association with breastfeeding from a citalopram-treated mother; in one case, the infant was reported to recover completely upon discontinuation of citalopram by its mother and in the second case, no follow up information was available.
 The decision whether to continue or discontinue either nursing or citalopram therapy should take into account the risks of citalopram exposure for the infant and the benefits of citalopram treatment for the mother.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric population have not been established (see BOX WARNING and WARNINGS – Clinical Worsening and Suicide Risk ).
-Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram, and the data was not sufficient to support a claim for use in pediatric patients.
-Any one considering the use of citalopram in a child or adolescent must balance the potential risks with the clinical need.
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS – Clinical Worsening and Suicide Risk ).
+Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram, and the data were not sufficient to support a claim for use in pediatric patients.
+Anyone considering the use of citalopram in a child or adolescent must balance the potential risks with the clinical need.
 
 ## Geriatric Use
 
 Of 4422 patients in clinical studies of citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Most elderly patients treated with citalopram in clinical trials received daily doses between 20 and 40 mg (see DOSAGE AND ADMINISTRATION ).
-In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in elderly subjects as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY ).
-20 mg/day is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION ).
 
 SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
+
+In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in elderly subjects as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY ).
+20 mg/day is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION ).

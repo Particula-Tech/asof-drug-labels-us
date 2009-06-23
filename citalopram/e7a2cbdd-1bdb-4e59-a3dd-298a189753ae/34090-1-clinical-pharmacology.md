@@ -4,14 +4,14 @@
 
 The mechanism of action of citalopram hydrobromide as an antidepressant is presumed to be linked to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
 In vitro and in vivo studies in animals suggest that citalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine (NE) and dopamine (DA) neuronal reuptake.
-Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14 day) treatment of rats with citalopram.
+Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14-day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50), and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
 Citalopram has no or very low affinity for 5-HT 1A, 5-HT 2A , dopamine D 1 and D 2, α 1 -, α 2 -, and β-adrenergic, histamine H 1 , gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
 Antagonism of muscarinic, histaminergic and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative and cardiovascular effects of other psychotropic drugs.
 
 ## Pharmacokinetics
 
-The single- and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10-60 mg/day.
+The single- and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10 to 60 mg/day.
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
 With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
@@ -29,7 +29,7 @@ The systemic clearance of citalopram was 330 mL/min, with approximately 20% of t
 Citalopram is metabolized to demethylcitalopram (DCT), didemethylcitalopram (DDCT), citalopram-N-oxide and a deaminated propionic acid derivative.
 In humans, unchanged citalopram is the predominant compound in plasma.
 At steady state, the concentrations of citalopram’s metabolites, DCT and DDCT, in plasma are approximately one-half and one-tenth, respectively, that of the parent drug.
-In vitro studies show that citalopram is at least 8 times more potent than its metabolites in the inhibition of serotonin reuptake, suggesting that the metabolities evaluated do not likely contribute significantly to the antidepressant actions of citalopram.
+In vitro studies show that citalopram is at least 8 times more potent than its metabolites in the inhibition of serotonin reuptake, suggesting that the metabolites evaluated do not likely contribute significantly to the antidepressant actions of citalopram.
 In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 are the primary isozymes involved in the N-demethylation of citalopram.
 
 ### Population Subgroups
@@ -67,7 +67,7 @@ This study showed no clear effect of the 10 and 20 mg/day doses, and the 60 mg/d
 In study 2, a 4-week, placebo-controlled trial in depressed patients, of whom 85% met criteria for melancholia, the initial dose was 20 mg/day, followed by titration to the maximum tolerated dose or a maximum dose of 80 mg/day.
 Patients treated with citalopram showed significantly greater improvement than placebo patients on the HAMD total score, HAMD item 1, and the CGI Severity score.
 In three additional placebo-controlled depression trials, the difference in response to treatment between patients receiving citalopram and patients receiving placebo was not statistically significant, possibly due to high spontaneous response rate, smaller sample size, or, in the case of one study, too low a dose.
-In two long-term studies, depressed patients who had responded to citalopram during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 or 40 mg/day in one study and flexible doses of 20-60 mg/day in the second study) were randomized to continuation of citalopram or to placebo.
+In two long-term studies, depressed patients who had responded to citalopram during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 or 40 mg/day in one study and flexible doses of 20 to 60 mg/day in the second study) were randomized to continuation of citalopram or to placebo.
 In both studies, patients receiving continued citalopram treatment experienced significantly lower relapse rates over the subsequent 6 months compared to those receiving placebo.
 In the fixed-dose study, the decreased rate of depression relapse was similar in patients receiving 20 or 40 mg/day of citalopram.
 Analyses of the relationship between treatment outcome and age, gender, and race did not suggest any differential responsiveness on the basis of these patient characteristics.
