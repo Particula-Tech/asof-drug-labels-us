@@ -13,7 +13,7 @@ However, the rate of valproate ion absorption may vary with the formulation used
 These differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy.
 
 Administration of DEPAKOTE (divalproex sodium) tablets and IV valproate (given as a one hour infusion), 250 mg every 6 hours for 4 days to 18 healthy male volunteers resulted in equivalent AUC, Cmax, Cmin at steady state, as well as after the first dose.
-The Tmax after IV DEPACON occurs at the end of the one hour infusion, while the Tmax after oraldosing with DEPAKOTE occurs at approximately 4 hours.
+The Tmax after IV DEPACON occurs at the end of the one hour infusion, while the Tmax after oral dosing with DEPAKOTE occurs at approximately 4 hours.
 Because the kinetics of unbound valproate are linear, bioequivalence between DEPACON and DEPAKOTE up to the maximum recommended dose of 60 mg/kg/day can be assumed.
 The AUC and Cmax resulting from administration of IV valproate 500 mg as a single one hour infusion and a single 500 mg dose of DEPAKENE syrup to 17 healthy male volunteers were also equivalent.
 
@@ -111,7 +111,7 @@ The relationship between plasma concentration and clinical response is not well 
 One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug.
 Thus, monitoring of total serum valproate cannot provide a reliable index of the bioactive valproate species.
 
-For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40 µg/mL to 18.5% at 130 µg/mL.
+For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40µg/mL to 18.5% at 130 µg/mL.
 Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases.
 
 ### Epilepsy

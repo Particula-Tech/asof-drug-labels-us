@@ -6,6 +6,8 @@ Recommended storage: Store vials at controlled room temperature 15-30Â°C (59-86Â
 No preservatives have been added.
 Unused portion of container should be discarded.
 
+Manufactured at Hospira, Inc. McPherson, KS 67460 USA
+
 Manufactured by Hospira, Inc. Lake Forest, IL 60045 USA
 
 For

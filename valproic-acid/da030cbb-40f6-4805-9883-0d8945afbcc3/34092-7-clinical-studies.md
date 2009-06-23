@@ -16,13 +16,13 @@ Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 | --- | --- | --- | --- |
 | DEPAKOTE | 75 | 16.0 | 8.9* |
 | Placebo | 69 | 14.5 | 11.5 |
-| * Reduction from baseline statistically significantly greater for DEPAKOTE than placebo at p ≤ 0.05 level. |  |  |  |
+| * Reduction from baseline statistically significantly greater for DEPAKOTE than placebo at p≤ 0.05 level. |  |  |  |
 
 Figure 1 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
 A positive percent reduction indicates an improvement (i.e., a decrease in seizure frequency), while a negative percent reduction indicates worsening.
 Thus, in a display of this type, the curve for an effective treatment is shifted to the left of the curve for placebo.
 This figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for DEPAKOTE than for placebo.
-For example, 45% of patients treated with DEPAKOTE had a ≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
+For example, 45% of patients treated with DEPAKOTE had a≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
 
 Figure 1.
 

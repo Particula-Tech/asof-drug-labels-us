@@ -40,6 +40,12 @@ Hyperammonemic encephalopathy, sometimes fatal, has been reported following init
 Prior to the initiation of valproate therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
 Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders (see CONTRAINDICATIONS and PRECAUTIONS).
 
+## Interaction with Carbapenem Antibiotics
+
+Carbapenem antibiotics (ertapenem, imipenem, meropenem) may reduce serum valproic acid concentrations to subtherapeutic levels, resulting in loss of seizure control.
+Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates (see Drug Interactions).
+
 ## Somnolence in the Elderly
 
 In a double-blind, multicenter trial of valproate in elderly patients with dementia (mean age = 83 years), doses were increased by 125 mg/day to a target dose of 20 mg/kg/day.
@@ -133,18 +139,25 @@ This dose resulted in peak maternal plasma valproate levels of approximately 280
 
 ## Hepatic Dysfunction
 
-See BOXED WARNING, CONTRAINDICATIONSand WARNINGS.
+See BOXED WARNING, CONTRAINDICATIONS and WARNINGS.
 
 ## Pancreatitis
 
 See BOXED WARNING and WARNINGS.
 
+## Hypothermia
+
+Hypothermia, defined as an unintentional drop in body core temperature to <35°C (95°F), has been reported in association with valproate therapy both in conjunction with and in the absence of hyperammonemia.
+This adverse reaction can also occur in patients using concomitant topiramate with valproate after starting topiramate treatment or after increasing the daily dose of topiramate (see Drug Interactions - Topiramate).
+Consideration should be given to stopping valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalitites including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
+Clinical management and assessment should include examination of blood ammonia levels.
+
 ## Hyperammonemia
 
 Hyperammonemia has been reported in association with valproate therapy and may be present despite normal liver function tests.
 In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
-If ammonia is increased, valproate therapy should be discontinued.
-Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders (see CONTRAINDICATIONS and WARNINGS - Urea Cycle Disorders and PRECAUTIONS - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
+Hyperammonemia should also be considered in patients who present with hypothermia (see PRECAUTIONS - Hypothermia).If ammonia is increased, valproate therapy should be discontinued.
+Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders (see CONTRAINDICATIONS and WARNINGS - Urea Cycle Disorders (UCD) and PRECAUTIONS - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
 
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
@@ -153,6 +166,7 @@ If the elevation persists, discontinuation of valproate therapy should be consid
 
 Concomitant administration of topiramate and valproic acid has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
+Hypothermia can also be a manifestation of hyperammonemia (see PRECAUTIONS – Hypothermia).
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse event is not due to a pharmacokinetic interaction.
 It is not known if topiramate monotherapy is associated with hyperammonemia.
@@ -198,7 +212,7 @@ Although the existence of cross sensitivity with other drugs that produce this s
 
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis and, therefore, require further medical evaluation promptly.
 
-Patients should be informed of the signs and symptoms associated with hyperammonemic encephalopathy (see PRECAUTIONS– Hyperammonemia) and be told to inform the prescriber if any of these symptoms occur.
+Patients should be informed of the signs and symptoms associated with hyperammonemic encephalopathy (see PRECAUTIONS – Hyperammonemia) and be told to inform the prescriber if any of these symptoms occur.
 
 Since DEPACON may produce CNS depression, especially when combined with another CNS depressant (e.g., alcohol), patients should be advised not to engage in hazardous activities, such as driving an automobile or operating dangerous machinery, until it is known that they do not become drowsy from the drug.
 
@@ -237,9 +251,12 @@ A study involving the co-administration of 1200 mg/day of felbamate with valproa
 Increasing the felbamate dose to 2400 mg/day increased the mean valproate peak concentration to 133 µg/mL (another 16% increase).
 A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
-#### Meropenem
+#### Carbapenem Antibiotics
 
-Subtherapeutic valproic acid levels have been reported when meropenem was co-administered.
+A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (ertapenem, imipenem, meropenem) and may result in loss of seizure control.
+The mechanism of this interaction is not well understood.
+Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates (See WARNINGS).
 
 #### Rifampin
 
@@ -339,6 +356,8 @@ The clinical relevance of this displacement is unknown.
 #### Topiramate
 
 Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy (see CONTRAINDICATIONS and WARNINGS - Urea Cycle Disorders and PRECAUTIONS - Hyperammonemia and - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
+Concomitant administration of topiramate with valproic acid has also been associated with hypothermia in patients who have tolerated either drug alone.
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported (see PRECAUTIONS – Hypothermia and Hyperammonemia).
 
 #### Warfarin
 
@@ -429,7 +448,7 @@ They were not seen at 90 mg/kg, or 40% of the maximum human daily dose on a mg/m
 No patients above the age of 65 years were enrolled in double-blind prospective clinical trials of mania associated with bipolar illness.
 In a case review study of 583 patients, 72 patients (12%) were greater than 65 years of age.
 A higher percentage of patients above 65 years of age reported accidental injury, infection, pain, somnolence, and tremor.
-Discontinuation of valproate was occasionally associated with the latter two events.
+Discontinuation of valproate was occasionally associated with thelatter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
 A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence (see WARNINGS - Somnolence in the Elderly).
