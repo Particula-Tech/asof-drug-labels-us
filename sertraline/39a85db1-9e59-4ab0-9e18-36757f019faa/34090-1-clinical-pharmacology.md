@@ -17,7 +17,10 @@ In man, following oral once-daily dosing over the range of 50 to 200 mg for 14 d
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
 Based on this pharmacokinetic parameter, steady-state sertraline plasma levels should be achieved after approximately one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the C max and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
-Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation, compared to a single dose, of sertraline with repeated dosing over a 50 to 200 mg dose range.
+Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation, compared to a single dose, of sertraline with repeated dosing over a 50 to 200 mg dose range.The single dose bioavailability of sertraline tablets is approximately equal to an equivalent dose of solution.
+
+In a relative bioavailability study comparing the pharmacokinetics of 100 mg sertraline as the oral solution to a 100 mg sertraline tablet in 16 healthy adults, the solution to tablet ratio of geometric mean AUC and Cmax values were 114.8% and 120.6%, respectively.
+90% confidence intervals (CI) were within the range of 80 to 125% with the exception of the upper 90% CI limit for Cmax which was 126.5%.
 
 The effects of food on the bioavailability of the sertraline tablet were studied in subjects administered a single dose with and without food.
 For the tablet, AUC was slightly increased when drug was administered with food but the Cmax was 25% greater, while the time to reach peak plasma concentration (Tmax) decreased from 8 hours post-dosing to 5.5 hours.

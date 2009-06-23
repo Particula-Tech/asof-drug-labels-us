@@ -62,14 +62,20 @@ Similarly, at least 14 days should be allowed after stopping sertraline hydrochl
 
 The concomitant use of sertraline hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS - Potential for Interaction with Monoamine Oxidase Inhibitors.)
 
-## Serotonin Syndrome
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur in treatment with SNRIs and SSRIs, including sertraline hydrochloride, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including sertraline hydrochloride tablets treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-If concomitant treatment of SNRIs and SSRIs, including sertraline hydrochloride, with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS - Drug Interactions).
+The concomitant use of sertraline hydrochloride tablets with MAOIs intended to treat depression is contraindicated.
 
-The concomitant use of SNRIs and SSRIs, including sertraline hydrochloride, with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS - Drug Interactions).
+If concomitant treatment of sertraline hydrochloride tablets with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+
+The concomitant use of sertraline hydrochloride tablets with serotonin precursors (such as tryptophan) is not recommended.
+
+Treatment with sertraline hydrochloride tablets and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -307,8 +313,6 @@ There are no clinical studies establishing the risks or benefits of the combined
 
 Although sertraline hydrochloride tablets did not potentiate the cognitive and psychomotor effects of alcohol in experiments with normal subjects, the concomitant use of sertraline hydrochloride tablets and alcohol are not recommended.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
 ### Carcinogenesis
 
 Lifetime carcinogenicity studies were carried out in CD-1 mice and Long-Evans rats at doses up to 40 mg/kg/day.
@@ -329,7 +333,7 @@ A decrease in fertility was seen in one of two rat studies at a dose of 80 mg/kg
 
 ## Pregnancy
 
-Pregnancy Category C- Reproduction studies have been performed in rats and rabbits at doses up to 80 mg/kg/day and 40 mg/kg/day, respectively.
+Pregnancy Category C Reproduction studies have been performed in rats and rabbits at doses up to 80 mg/kg/day and 40 mg/kg/day, respectively.
 These doses correspond to approximately 4 times the maximum recommended human dose (MRHD) on a mg/m 2 basis.
 There was no evidence of teratogenicity at any dose level.
 When pregnant rats and rabbits were given sertraline during the period of organogenesis, delayed ossification was observed in fetuses at doses of 10 mg/kg (0.5 times the MRHD on a mg/m 2 basis) in rats and 40 mg/kg (4 times the MRHD on a mg/m 2 basis) in rabbits.
@@ -342,7 +346,7 @@ The clinical significance of these effects is unknown.
 There are no adequate and well-controlled studies in pregnant women.
 Sertraline hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic effects
+### Pregnancy-Nonteratogenic effects
 
 Neonates exposed to sertraline hydrochloride tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 These findings are based on post marketing reports.

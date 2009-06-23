@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance
+## Controlled Substance Class
 
 Sertraline hydrochloride is not a controlled substance.
 

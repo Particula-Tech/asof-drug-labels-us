@@ -38,7 +38,10 @@ If sertraline is administered to patients with liver impairment, a lower or less
 Treatment of Pregnant Women During the Third Trimester –Neonates exposed to sertraline hydrochloride tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS ).
 When treating pregnant women with sertraline hydrochloride tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering sertraline hydrochloride tablets in the third trimester.
-Discontinuation of Treatment with Sertraline Hydrochloride Tablets Symptoms associated with discontinuation of sertraline hydrochloride tablets and other SSRIs and SNRIs, have been reported (see PRECAUTIONS ).
+
+## Discontinuation of Treatment with Sertraline Hydrochloride Tablets
+
+Symptoms associated with discontinuation of sertraline hydrochloride tablets and other SSRIs and SNRIs, have been reported (see PRECAUTIONS).
 Patients should be monitored for these symptoms when discontinuing treatment.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
