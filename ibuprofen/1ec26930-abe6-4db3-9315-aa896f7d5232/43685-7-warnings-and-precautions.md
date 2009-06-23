@@ -141,7 +141,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 3. MOTRIN Suspension, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
    Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
    Patients should be advised to stop the drug immediately if they develop any type of rash or contact their physicians as soon as possible.
-4. Patients should promptly reports signs and symptoms of unexplained weight gain or edema to their physicians.
+4. Patients should promptly report signs and symptoms of unexplained weight gain or edema to their physicians.
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritis, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g. difficulty breathing, swelling of the face or throat).
