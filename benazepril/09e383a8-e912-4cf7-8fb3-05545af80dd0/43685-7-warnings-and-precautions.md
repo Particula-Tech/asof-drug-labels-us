@@ -171,6 +171,10 @@ Increased serum lithium levels and symptoms of lithium toxicity have been report
 These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.
 If a diuretic is also used, the risk of lithium toxicity may be increased.
 
+### Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
+
 ### Anti-diabetics
 
 In rare cases, diabetic patients receiving an ACE inhibitor (including benazepril) concomitantly with insulin or oral anti-diabetics may develop hypoglycemia.

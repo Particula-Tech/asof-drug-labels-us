@@ -36,9 +36,6 @@ The kinetics of benazepril are approximately dose-proportional within the dosage
 In adults, the effective half-life of accumulation of benazeprilat following multiple dosing of benazepril hydrochloride is 10 to 11 hours.
 Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril hydrochloride given once daily.
 
-The effective half-life of accumulation of benazeprilat following multiple dosing of benazepril hydrochloride is 10 to 11 hours.
-Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril hydrochloride given once daily.
-
 The kinetics did not change, and there was no significant accumulation during chronic administration (28 days) of once-daily doses between 5 mg and 20 mg.
 Accumulation ratios based on AUC and urinary recovery of benazeprilat were 1.19 and 1.27, respectively.
 
