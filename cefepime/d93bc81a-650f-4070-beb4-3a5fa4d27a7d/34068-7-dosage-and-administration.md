@@ -3,69 +3,69 @@
 The recommended adult and pediatric dosages and routes of administration are outlined in the following table.
 MAXIPIME should be administered intravenously over approximately 30 minutes.
 
-Table 12: Recommended Dosage Schedule for MAXIPIME in Patients with CrCL >60 mL/min
+Table 12: Recommended Dosage Schedule for MAXIPIME in Patients with CrCL Greater Than 60 mL/min
 
 | Adults |  |  |  |
 | --- | --- | --- | --- |
 | Site and Type of Infection | Dose | Frequency | Duration (days) |
-| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa, K. pneumoniae, or Enterobacter species | 1–2 g IV | q12h | 10 |
-| Empiric therapy for febrile neutropenic patients (See INDICATIONS AND USAGE and CLINICAL STUDIES.) | 2 g IV | q8h | 7** |
-| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* | 0.5–1 g IV/IM*** | q12h | 7–10 |
-| Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae* | 2 g IV | q12h | 10 |
-| Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes | 2 g IV | q12h | 10 |
-| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis. (See CLINICAL STUDIES.) | 2 g IV | q12h | 7–10 |
-| Pediatric Patients (2 months up to 16 years) The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg/kg/dose, administered q12h (50 mg/kg/dose, q8h for febrile neutropenic patients), for durations as given above. |  |  |  |
+| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa, K. pneumoniae, or Enterobacter species | 1–2 g IV | Every 12 hours | 10 |
+| Empiric therapy for febrile neutropenic patients (See INDICATIONS AND USAGE and CLINICAL STUDIES.) | 2 g IV | Every 8 hours | 7** |
+| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* | 0.5–1 g IV/IM*** | Every 12 hours | 7–10 |
+| Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae* | 2 g IV | Every 12 hours | 10 |
+| Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes | 2 g IV | Every 12 hours | 10 |
+| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis. (See CLINICAL STUDIES.) | 2 g IV | Every 12 hours | 7–10 |
+| Pediatric Patients (2 months up to 16 years) The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg per kg per dose, administered every 12 hours (50 mg per kg per dose, every 8 hours for febrile neutropenic patients), for durations as given above. |  |  |  |
 | *including cases associated with concurrent bacteremia |  |  |  |
 | **or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. |  |  |  |
-| ***IM route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli when the IM route is considered to be a more appropriate route of drug administration. |  |  |  |
+| ***Intramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli when the intramuscular route is considered to be a more appropriate route of drug administration. |  |  |  |
 
-## Impaired Hepatic Function
+## Patients with Hepatic Impairment
 
-No adjustment is necessary for patients with impaired hepatic function.
+No adjustment is necessary for patients with hepatic impairment.
 
-## Impaired Renal Function
+## Patients with Renal Impairment
 
-In patients with impaired renal function (creatinine clearance≤60 mL/min), the dose of MAXIPIME should be adjusted to compensate for the slower rate of renal elimination.
+In patients with creatinine clearance less than or equal to 60 mL/min, the dose of MAXIPIME should be adjusted to compensate for the slower rate of renal elimination.
 The recommended initial dose of MAXIPIME should be the same as in patients with normal renal function except in patients undergoing hemodialysis.
-The recommended doses of MAXIPIME in patients with renal insufficiency are presented in Table 13.
+The recommended doses of MAXIPIME in patients with renal impairment are presented in Table 13.
 
 When only serum creatinine is available, the following formula (Cockcroft and Gault equation)3 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
 Males: Creatinine Clearance (mL/min) = Weight (kg) × (140–age) —————————————— 72× serum creatinine (mg/dL) Females: 0.85 × above value
 
-Table 13: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Renal Function, Renal Insufficiency, and Hemodialysis)
+Table 13: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
 
 | Creatinine Clearance (mL/min) | Recommended Maintenance Schedule |  |  |  |
 | --- | --- | --- | --- | --- |
-| >60 Normal recommended dosing schedule | 500 mg q12h | 1 g q12h | 2 g q12h | 2 g q8h |
-| 30–60 | 500 mg q24h | 1 g q24h | 2 g q24h | 2 g q12h |
-| 11–29 | 500 mg q24h | 500 mg q24h | 1 g q24h | 2 g q24h |
-| <11 | 250 mg q24h | 250 mg q24h | 500 mg q24h | 1 g q24h |
-| CAPD | 500 mg q48h | 1 g q48h | 2 g q48h | 2g q48h |
-| Hemodialysis* | 1 g on day 1, then 500 mg q24h thereafter |  |  | 1 g q24h |
+| Greater than 60 Normal recommended dosing schedule | 500 mg every 12 hours | 1 g every 12 hours | 2 g every 12 hours | 2 g every 8 hours |
+| 30–60 | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours | 2 g every 12 hours |
+| 11–29 | 500 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours |
+| Less than 11 | 250 mg every 24 hours | 250 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours |
+| CAPD | 500 mg every 48 hours | 1 g every 48 hours | 2 g every 48 hours | 2g every 48 hours |
+| Hemodialysis* | 1 g on day 1, then 500 mg every 24 hours thereafter |  |  | 1 g every 24 hours |
 | *On hemodialysis days, cefepime should be administered following hemodialysis. Whenever possible, cefepime should be administered at the same time each day. |  |  |  |  |
 
 In patients undergoing continuous ambulatory peritoneal dialysis, MAXIPIME may be administered at normally recommended doses at a dosage interval of every 48 hours (see Table 13).
 
 In patients undergoing hemodialysis, approximately 68% of the total amount of cefepime present in the body at the start of dialysis will be removed during a 3-hour dialysis period.
-The dosage of MAXIPIME for hemodialysis patients is 1 g on Day 1 followed by 500 mg q24h for the treatment of all infections except febrile neutropenia, which is 1 g q24h.
+The dosage of MAXIPIME for hemodialysis patients is 1 g on Day 1 followed by 500 mg every 24 hours for the treatment of all infections except febrile neutropenia, which is 1 g every 24 hours.
 MAXIPIME should be administered at the same time each day and following the completion of hemodialysis on hemodialysis days (see Table 13).
 
 Data in pediatric patients with impaired renal function are not available; however, since cefepime pharmacokinetics are similar in adults and pediatric patients (see CLINICAL PHARMACOLOGY), changes in the dosing regimen proportional to those in adults (see Tables 12 and 13) are recommended for pediatric patients.
 
 ## Administration
 
-For Intravenous Infusion, constitute the 500 mg, 1 g, or 2 g vial, and add an appropriate quantity of the resulting solution to an IV container with one of the compatible IV fluids listed in the Compatibility and Stability subsection.
+For Intravenous Infusion, constitute the 500 mg, 1 g, or 2 g vial, and add an appropriate quantity of the resulting solution to an intravenous container with one of the compatible intravenous fluids listed in the Compatibility and Stability subsection.
 THE RESULTING SOLUTION SHOULD BE ADMINISTERED OVER APPROXIMATELY 30 MINUTES.
 
-Intermittent IV infusion with a Y-type administration set can be accomplished with compatible solutions.
+Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
 However, during infusion of a solution containing cefepime, it is desirable to discontinue the other solution.
 
 ADD-Vantage® vials are to be constituted only with 50 mL or 100 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection in Abbott ADD-Vantage® flexible diluent containers.
 (See ADD-Vantage® Vial Instructions for Use.)
 
-Intramuscular Administration: For IM administration, MAXIPIME (cefepime hydrochloride) should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1.0% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 14).
+Intramuscular Administration: For intramuscular administration, MAXIPIME (cefepime hydrochloride) should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1.0% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 14).
 
 Preparation of MAXIPIME solutions is summarized in Table 14.
 
@@ -73,19 +73,20 @@ Table 14: Preparation of Solutions of MAXIPIME
 
 | Single-Dose Vials for Intravenous/Intramuscular Administration | Amount of Diluent to be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration (mg/mL) |
 | --- | --- | --- | --- |
-| cefepime vial content 500 mg (IV) 500 mg (IM) 1 g (IV) 1 g (IM) 2 g (IV) | 5.0 1.3 10.0 2.4 10.0 | 5.6 1.8 11.3 3.6 12.5 | 100 280 100 280 160 |
+| cefepime vial content 500 mg (IV) 500 mg (IM) 1 g (IV) 1 g (IM) 2 g (IV) | 5 1.3 10 2.4 10 | 5.6 1.8 11.3 3.6 12.5 | 100 280 100 280 160 |
 | ADD-Vantage® 1 g vial 1 g vial 2 g vial 2 g vial | 50 100 50 100 | 50 100 50 100 | 20 10 40 20 |
 
 ## Compatibility and Stability
 
-Intravenous: MAXIPIME is compatible at concentrations between 1 mg/mL and 40 mg/mL with the following IV infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol-R™, and Normosol-M™ in 5% Dextrose Injection.
-These solutions may be stored up to 24 hours at controlled room temperature 20°–25° C (68°–77° F) or 7 days in a refrigerator 2°–8° C (36°–46° F). MAXIPIME in ADD-Vantage® vials is stable at concentrationsof 10–40 mg/mL in 5% Dextrose Injection or 0.9% Sodium Chloride Injection for 24 hours at controlled room temperature 20°–25° C or 7 days in a refrigerator 2°–8° C.
+Intravenous: MAXIPIME is compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol-R™, and Normosol-M™ in 5% Dextrose Injection.
+These solutions may be stored up to 24 hours at controlled room temperature 20°–25°C (68°–77°F) or 7 days in a refrigerator 2°–8°C (36°–46°F).
+MAXIPIME in ADD-Vantage® vials is stable at concentrations of 10–40 mg per mL in 5% Dextrose Injection or 0.9% Sodium Chloride Injection for 24 hours at controlled room temperature 20°–25°C or 7 days in a refrigerator 2°–8°C.
 
 MAXIPIME admixture compatibility information is summarized in Table 15.
 
 Table 15: Cefepime Admixture Stability
 
-| MAXIPIME Concentration | Admixture and Concentration | IV Infusion Solutions | RT/L (20°–25° C) | Refrigeration (2°–8° C) |
+| MAXIPIME Concentration | Admixture and Concentration | IV Infusion Solutions | RT/L (20°–25°C) | Refrigeration (2°–8°C) |
 | --- | --- | --- | --- | --- |
 |  |  |  | Stability Time for |  |
 | 40 mg/mL | Amikacin 6 mg/mL | NS or D5W | 24 hours | 7 days |
@@ -105,10 +106,10 @@ Table 15: Cefepime Admixture Stability
 | na = not applicable |  |  |  |  |
 | RT/L = Ambient room temperature and light |  |  |  |  |
 
-Solutions of MAXIPIME, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg/mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate or aminophylline because of potential interaction.
+Solutions of MAXIPIME, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
 However, if concurrent therapy with MAXIPIME is indicated, each of these antibiotics can be administered separately.
 
-Intramuscular: MAXIPIME (cefepime hydrochloride) constituted as directed is stable for 24 hours at controlled room temperature 20°–25° C (68°–77° F) or for 7 days in a refrigerator 2°–8° C (36°–46° F) with the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride Injection, 5% Dextrose Injection, Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol, or 0.5% or 1% Lidocaine Hydrochloride.
+Intramuscular: MAXIPIME (cefepime hydrochloride) constituted as directed is stable for 24 hours at controlled room temperature 20°–25°C (68°–77°F) or for 7 days in a refrigerator 2°–8°C (36°–46°F) with the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride Injection, 5% Dextrose Injection, Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol, or 0.5% or 1% Lidocaine Hydrochloride.
 
 NOTE: PARENTERAL DRUGS SHOULD BE INSPECTED VISUALLY FOR PARTICULATE MATTER BEFORE ADMINISTRATION.
 

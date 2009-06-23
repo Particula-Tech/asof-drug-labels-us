@@ -2,7 +2,7 @@
 
 ## Febrile Neutropenic Patients
 
-The safety and efficacy of empiric cefepime monotherapy of febrile neutropenic patients have been assessed in two multicenter, randomized trials, comparing cefepime monotherapy (at a dose of 2 g IV q8h) to ceftazidime monotherapy (at a dose of 2 g IV q8h).
+The safety and efficacy of empiric cefepime monotherapy of febrile neutropenic patients have been assessed in two multicenter, randomized trials comparing cefepime monotherapy (at a dose of 2 g intravenously every 8 hours) to ceftazidime monotherapy (at a dose of 2 g intravenously every 8 hours).
 These studies comprised 317 evaluable patients.
 Table 8 describes the characteristics of the evaluable patient population.
 
@@ -17,12 +17,12 @@ Table 8: Demographics of Evaluable Patients (First Episodes Only)
 | Leukemia | 65 (40%) | 52 (34%) |
 | Other hematologic malignancies | 43 (26%) | 36 (24%) |
 | Solid tumor | 54 (33%) | 56 (37%) |
-| Median ANC nadir (cells/µL) | 20.0 (range, 0–500) | 20.0 (range, 0–500) |
-| Median duration of neutropenia (days) | 6.0 (range, 0–39) | 6.0 (range, 0–32) |
+| Median ANC nadir (cells/microliter) | 20 (range, 0–500) | 20 (range, 0–500) |
+| Median duration of neutropenia (days) | 6 (range, 0–39) | 6 (range, 0–32) |
 | Indwelling venous catheter | 97 (59%) | 86 (56%) |
 | Prophylactic antibiotics | 62 (38%) | 64 (42%) |
 | Bone marrow graft | 9 (5%) | 7 (5%) |
-| SBP <90 mm Hg at entry | 7 (4%) | 2 (1%) |
+| SBP less than 90 mm Hg at entry | 7 (4%) | 2 (1%) |
 | ANC = absolute neutrophil count; SBP = systolic blood pressure |  |  |
 
 Table 9 describes the clinical response rates observed.
@@ -44,9 +44,9 @@ No data are available in patients with septic shock.
 
 ## Complicated Intra-Abdominal Infections
 
-Patients hospitalized with complicated intra-abdominal infections participated in a randomized, double-blind, multicenter trial comparing the combination of cefepime (2 g q12h) plus intravenous metronidazole (500 mg q6h) versus imipenem/cilastatin (500 mg q6h) for a maximum duration of 14 days of therapy.
+Patients hospitalized with complicated intra-abdominal infections participated in a randomized, double-blind, multicenter trial comparing the combination of cefepime (2 g every 12 hours) plus intravenous metronidazole (500 mg every 6 hours) versus imipenem/cilastatin (500 mg every 6 hours) for a maximum duration of 14 days of therapy.
 The study was designed to demonstrate equivalence of the two therapies.
-The primary analyses were conducted on the protocol-valid population, which consisted of those with a surgically confirmed complicated infection, at least one pathogen isolated pretreatment, at least 5 days of treatment, and a 4-6 week follow-up assessment for cured patients.
+The primary analyses were conducted on the protocol-valid population, which consisted of those with a surgically confirmed complicated infection, at least one pathogen isolated pretreatment, at least 5 days of treatment, and a 4 to 6 week follow-up assessment for cured patients.
 Subjects in the imipenem/cilastatin arm had higher APACHE II scores at baseline.
 The treatment groups were otherwise generally comparable with regard to their pretreatment characteristics.
 The overall clinical cure rate among the protocol-valid patients was 81% (51 cured/63 evaluable patients) in the cefepime plus metronidazole group and 66% (62/94) in the imipenem/cilastatin group.

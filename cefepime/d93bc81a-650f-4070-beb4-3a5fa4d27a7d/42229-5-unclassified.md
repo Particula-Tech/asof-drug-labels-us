@@ -10,4 +10,4 @@ Inpersol™ is a trademark of Abbott Laboratories.
 Clinitest® and Clinistix® are registered trademarks of Bayer HealthCare LLC.
 
 Manufactured for: Bristol-Myers Squibb Company Princeton, NJ 08543 USA Manufactured by: Bristol-Myers Squibb, S.r.l.
-04013 Sermoneta, Latina, ITALY Or Patheon UK Limited Wiltshire SN3 5BZ, ENGLAND Distributed by: Elan Pharmaceuticals, Inc. South San Francisco, CA 94080 USA 51-032444-02 MXE90251 6001704/02 1115163A7 6001713/02 Rev March 2008
+04013 Sermoneta, Latina, ITALY Or Patheon UK Limited Wiltshire SN3 5BZ, ENGLAND Distributed by: Elan Pharmaceuticals, Inc. South San Francisco, CA 94080 USA 1256488A1 MXE90252 6001704/03 1115163A8 6001713/03 Rev March 2009

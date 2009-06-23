@@ -5,8 +5,8 @@ IF THIS PRODUCT IS TO BE GIVEN TO PENICILLIN-SENSITIVE PATIENTS, CAUTION SHOULD 
 IF AN ALLERGIC REACTION TO MAXIPIME OCCURS, DISCONTINUE THE DRUG.
 SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES INCLUDING OXYGEN, CORTICOSTEROIDS, INTRAVENOUS FLUIDS, INTRAVENOUS ANTIHISTAMINES, PRESSOR AMINES, AND AIRWAY MANAGEMENT, AS CLINICALLY INDICATED.
 
-In patients with impaired renal function (creatinine clearance≤60 mL/min), the dose of MAXIPIME (cefepime hydrochloride) should be adjusted to compensate for the slower rate of renal elimination.
-Because high and prolonged serum antibiotic concentrations can occur from usual dosages in patients with renal insufficiency or other conditions that may compromise renal function, the maintenance dosage should be reduced when cefepime is administered to such patients.
+In patients with creatinine clearance less than or equal to 60 mL/min, the dose of MAXIPIME (cefepime hydrochloride) should be adjusted to compensate for the slower rate of renal elimination.
+Because high and prolonged serum antibiotic concentrations can occur from usual dosages in patients with renal impairment or other conditions that may compromise renal function, the maintenance dosage should be reduced when cefepime is administered to such patients.
 Continued dosage should be determined by degree of renal impairment, severity of infection, and susceptibility of the causative organisms.
 (See specific recommendations for dosing adjustment in DOSAGE AND ADMINISTRATION.)
 During postmarketing surveillance, serious adverse events have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures (see ADVERSE REACTIONS: Postmarketing Experience).
@@ -58,6 +58,9 @@ Diarrhea is a common problem caused by antibiotics, which usually ends when the 
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
+Patients should be advised of neurological adverse events that could occur with MAXIPIME use.
+Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures, for immediate treatment, dosage adjustment, or discontinuation of MAXIPIME.
+
 ## Drug Interactions
 
 Renal function should be monitored carefully if high doses of aminoglycosides are to be administered with MAXIPIME because of the increased potential of nephrotoxicity and ototoxicity of aminoglycoside antibiotics.
@@ -68,25 +71,26 @@ Nephrotoxicity has been reported following concomitant administration of other c
 The administration of cefepime may result in a false-positive reaction for glucose in the urine when using Clinitest® tablets.
 It is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix®) be used.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No long-term animal carcinogenicity studies have been conducted with cefepime.
-A battery of in vivo and in vitro genetic toxicity tests, including the Ames Salmonella reverse mutation assay, CHO/HGPRT mammalian cell forward gene mutation assay, chromosomal aberration and sister chromatid exchange assays in human lymphocytes, CHO fibroblast clastogenesis assay, and cytogenetic and micronucleus assays in mice were conducted.
-The overall conclusion of these tests indicated no definitive evidence of genotoxic potential.
-No untoward effects on fertility or reproduction have been observed in rats, mice, and rabbits when cefepime is administered subcutaneously at 1 to 4 times the recommended maximum human dose calculated on a mg/m2 basis.
+No animal carcinogenicity studies have been conducted with cefepime.
+In chromosomal aberration studies, cefepime was positive for clastogenicity in primary human lymphocytes, but negative in Chinese hamster ovary cells.
+In other in vitro assays (bacterial and mammalian cell mutation, DNA repair in primary rat hepatocytes, and sister chromatid exchange in human lymphocytes), cefepime was negative for genotoxic effects.
+Moreover, in vivo assessments of cefepime in mice (2 chromosomal aberration and 2 micronucleus studies) were negative for clastogenicity.
+No untoward effects on fertility were observed in rats when cefepime was administered subcutaneously at doses up to 1000 mg/kg/day (1.6 times the recommended maximum human dose calculated on a mg/m2 basis).
 
 ## Pregnancy
 
 ### Teratogenic Effects: Pregnancy Category B
 
-Cefepime was not teratogenic or embryocidal when administered during the period of organogenesis to rats at doses up to 1000 mg/kg/day (4 times the recommended maximum human dose calculated on a mg/m2 basis) or to mice at doses up to 1200 mg/kg (2 times the recommended maximum human dose calculated on a mg/m2 basis) or to rabbits at a dose level of 100 mg/kg (approximately equal to the recommended maximum human dose calculated on a mg/m2 basis).
+Cefepime was not teratogenic or embryocidal when administered during the period of organogenesis to rats at doses up to 1000 mg/kg/day (1.6 times the recommended maximum human dose calculated on a mg/m2 basis) or to mice at doses up to 1200 mg/kg (approximately equal to the recommended maximum human dose calculated on a mg/m2 basis) or to rabbits at a dose level of 100 mg/kg (0.3 times the recommended maximum human dose calculated on a mg/m2 basis).
 
 There are, however, no adequate and well-controlled studies of cefepime use in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
 
-Cefepime is excreted in human breast milk in very low concentrations (0.5 µg/mL).
+Cefepime is excreted in human breast milk in very low concentrations (0.5 mcg/mL).
 Caution should be exercised when cefepime is administered to a nursing woman.
 
 ## Labor and Delivery
