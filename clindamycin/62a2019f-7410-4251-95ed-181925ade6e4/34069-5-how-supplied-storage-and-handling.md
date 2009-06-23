@@ -17,6 +17,8 @@ Store at 20°-25°C (68° to 77°F).
 Protect from freezing.
 Keep all liquid dosage forms in containers tightly closed.
 
-E. FOUGERA & CO. a division of Altana Inc. MELVILLE, NEW YORK 11747
+November 2007
 
-I201/IF201 R2/05 #90
+E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
+
+IFI201A
