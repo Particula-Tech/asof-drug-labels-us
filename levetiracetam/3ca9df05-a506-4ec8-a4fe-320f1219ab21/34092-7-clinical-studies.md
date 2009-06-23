@@ -97,9 +97,9 @@ Table 4: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Sei
 | Percent reduction in partial seizure frequency over placebo | – | 26.8%* |
 | * statistically significant versus placebo |  |  |
 
-The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
+The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
 
-Figure 4: Responder Rate (≥50% Reduction From Baseline) * statistically significant versus placebo
+Figure 4: Responder Rate (≥ 50% Reduction From Baseline) * statistically significant versus placebo
 
 ## Effectiveness In Myoclonic Seizures In Patients ≥12 Years Of Age With Juvenile Myoclonic Epilepsy (JME)
 
@@ -123,7 +123,7 @@ Table 5: Responder Rate (≥50% Reduction From Baseline) In Myoclonic Seizure Da
 
 The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in patients 6 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 50 sites in 8 countries.
 Eligible patients on a stable dose of 1 or 2 antiepileptic drugs (AEDs) experiencing at least 3 PGTC seizures during the 8-week combined baseline period (at least one PGTC seizure during the 4 weeks prior to the prospective baseline period and at least one PGTC seizure during the 4-week prospective baseline period) were randomized to either KEPPRA or placebo.
-The 8-week combined baseline period is referred to as “baseline” in the remainder of this section.
+The 8-week combined baseline period is referred to as "baseline" in the remainder of this section.
 The population included 164 patients (KEPPRA N=80, placebo N=84) with idiopathic generalized epilepsy (predominately juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening) experiencing primary generalized tonic-clonic seizures.
 Each of these syndromes of idiopathic generalized epilepsy was well represented in this patient population.
 Patients were titrated over 4 weeks to a target dose of 3000 mg/day for adults or a pediatric target dose of 60 mg/kg/day and treated at a stable dose of 3000 mg/day (or 60 mg/kg/day for children) over 20 weeks (evaluation period).

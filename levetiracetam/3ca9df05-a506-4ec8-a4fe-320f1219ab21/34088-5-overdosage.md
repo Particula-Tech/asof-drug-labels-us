@@ -10,7 +10,7 @@ Cases of somnolence, agitation, aggression, depressed level of consciousness, re
 
 There is no specific antidote for overdose with KEPPRA.
 If indicated, elimination of unabsorbed drug should be attempted by emesis or gastric lavage; usual precautions should be observed to maintain airway.
-General supportive care of the patient is indicated including monitoring of vital signs and observation of the patient’s clinical status.
+General supportive care of the patient is indicated including monitoring of vital signs and observation of the patient's clinical status.
 A Certified Poison Control Center should be contacted for up to date information on the management of overdose with KEPPRA.
 
 ## Hemodialysis

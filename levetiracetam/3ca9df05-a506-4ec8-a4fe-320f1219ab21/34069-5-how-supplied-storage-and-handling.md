@@ -9,7 +9,7 @@ They are supplied in white HDPE bottles containing 120 tablets (NDC 50474-595-40
 KEPPRA 750 mg tablets are orange, oblong-shaped, scored, film-coated tablets debossed with "ucb 750" on one side.
 They are supplied in white HDPE bottles containing 120 tablets (NDC 50474-596-40).
 
-KEPPRA 1000 mg tablets are white, oblong-shaped, scored, film-coated tablets debossed with “ucb 1000” on one side.
+KEPPRA 1000 mg tablets are white, oblong-shaped, scored, film-coated tablets debossed with "ucb 1000" on one side.
 They are supplied in white HDPE bottles containing 60 tablets (NDC 50474-597-66).
 
 KEPPRA 100 mg/mL oral solution is a clear, colorless, grape-flavored liquid.

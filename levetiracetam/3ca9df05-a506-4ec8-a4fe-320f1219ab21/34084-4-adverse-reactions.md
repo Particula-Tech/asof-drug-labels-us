@@ -9,12 +9,12 @@ An inspection of these frequencies, however, does provide the prescriber with on
 In well-controlled clinical studies in adults with partial onset seizures, the most frequently reported adverse events associated with the use of KEPPRA in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence, asthenia, infection and dizziness.
 In the well-controlled pediatric clinical study in children 4 to 16 years of age with partial onset seizures, the adverse events most frequently reported with the use of KEPPRA in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence, accidental injury, hostility, nervousness, and asthenia.
 
-Table 7 lists treatment-emergent adverse events that occurred in at least 1% of adult epilepsy patients treated with KEPPRA participating in placebo-controlled studies and were numerically more common than in patients treated with placebo.
-Table 8 lists treatment-emergent adverse events that occurred in at least 2% of pediatric epilepsy patients (ages 4-16 years) treated with KEPPRA participating in the placebo-controlled study and were numerically more common than in pediatric patients treated with placebo.
+Table 8 lists treatment-emergent adverse events that occurred in at least 1% of adult epilepsy patients treated with KEPPRA participating in placebo-controlled studies and were numerically more common than in patients treated with placebo.
+Table 9 lists treatment-emergent adverse events that occurred in at least 2% of pediatric epilepsy patients (ages 4-16 years) treated with KEPPRA participating in the placebo-controlled study and were numerically more common than in pediatric patients treated with placebo.
 In these studies, either KEPPRA or placebo was added to concurrent AED therapy.
 Adverse events were usually mild to moderate in intensity.
 
-Table 7: Incidence (%) Of Treatment-Emergent Adverse Events In Placebo-Controlled, Add-On Studies In Adults Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 1% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 8: Incidence (%) Of Treatment-Emergent Adverse Events In Placebo-Controlled, Add-On Studies In Adults Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 1% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
 
 | Body System/ Adverse Event | KEPPRA (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Table 7: Incidence (%) Of Treatment-Emergent Adverse Events In Placebo-Controlle
 
 Other events reported by at least 1% of adult KEPPRA-treated patients but as or more frequent in the placebo group were the following: abdominal pain, accidental injury, amblyopia, arthralgia, back pain, bronchitis, chest pain, confusion, constipation, convulsion, diarrhea, drug level increased, dyspepsia, ecchymosis, fever, flu syndrome, fungal infection, gastroenteritis, gingivitis, grand mal convulsion, insomnia, nausea, otitis media, rash, thinking abnormal, tremor, urinary tract infection, vomiting and weight gain.
 
-Table 8: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Pediatric Patients Ages 4-16 Years Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 2% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 9: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Pediatric Patients Ages 4-16 Years Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 2% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
 
 | Body System/ Adverse Event | KEPPRA (N=101) % | Placebo (N=97) % |
 | --- | --- | --- |
@@ -107,11 +107,11 @@ The adverse event pattern for patients with JME is expected to be essentially th
 
 In the well-controlled clinical study that included both adolescent (12 to 16 years of age) and adult patients with myoclonic seizures, the most frequently reported adverse events associated with the use of KEPPRA in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence, neck pain, and pharyngitis.
 
-Table 9 lists treatment-emergent adverse events that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with KEPPRA and were numerically more common than in patients treated with placebo.
+Table 10 lists treatment-emergent adverse events that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with KEPPRA and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA or placebo was added to concurrent AED therapy.
 Adverse events were usually mild to moderate in intensity.
 
-Table 9: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Patients 12 Years Of Age And Older With Myoclonic Seizures By Body System (Adverse Events Occurred In At Least 5% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 10: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Patients 12 Years Of Age And Older With Myoclonic Seizures By Body System (Adverse Events Occurred In At Least 5% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
 
 | Body System / MedDRA preferred term | KEPPRA (N=60) % | Placebo (N=60) % |
 | --- | --- | --- |
@@ -136,11 +136,11 @@ The adverse event pattern for patients with PGTC seizures is expected to be esse
 
 In the well-controlled clinical study that included patients 4 years of age and older with primary generalized tonic-clonic (PGTC) seizures, the most frequently reported adverse event associated with the use of KEPPRA in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, was nasopharyngitis.
 
-Table 10 lists treatment-emergent adverse events that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with KEPPRA and were numerically more common than in patients treated with placebo.
+Table 11 lists treatment-emergent adverse events that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with KEPPRA and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA or placebo was added to concurrent AED therapy.
 Adverse events were usually mild to moderate in intensity.
 
-Table 10: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Patients 4 Years Of Age And Older With PGTC Seizures By MedDRA System Organ Class (Adverse Events Occurred In At Least 5% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 11: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Patients 4 Years Of Age And Older With PGTC Seizures By MedDRA System Organ Class (Adverse Events Occurred In At Least 5% Of KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
 
 | MedDRA System Organ Class/ Preferred Term | KEPPRA (N=79) % | Placebo (N=84) % |
 | --- | --- | --- |
@@ -165,9 +165,9 @@ Of the most frequently reported adverse events in adults experiencing partial on
 ### Partial Onset Seizures
 
 In well-controlled adult clinical studies, 15.0% of patients receiving KEPPRA and 11.6% receiving placebo either discontinued or had a dose reduction as a result of an adverse event.
-Table 11 lists the most common (>1%) adverse events that resulted in discontinuation or dose reduction.
+Table 12 lists the most common (>1%) adverse events that resulted in discontinuation or dose reduction.
 
-Table 11: Adverse Events That Most Commonly Resulted In Discontinuation Or Dose Reduction In Placebo-Controlled Studies In Adult Patients Experiencing Partial Onset Seizures
+Table 12: Adverse Events That Most Commonly Resulted In Discontinuation Or Dose Reduction In Placebo-Controlled Studies In Adult Patients Experiencing Partial Onset Seizures
 
 |  | KEPPRA (N=769) | Placebo (N=439) |
 | --- | --- | --- |
@@ -179,9 +179,9 @@ Table 11: Adverse Events That Most Commonly Resulted In Discontinuation Or Dose 
 | Somnolence | 34 (4.4%) | 7 (1.6%) |
 
 In the well-controlled pediatric clinical study, 16.8% of patients receiving KEPPRA and 20.6% receiving placebo either discontinued or had a dose reduction as a result of an adverse event.
-The adverse events most commonly associated (≥3% in patients receiving KEPPRA) with discontinuation or dose reduction in the well-controlled study are presented in Table 12.
+The adverse events most commonly associated (≥3% in patients receiving KEPPRA) with discontinuation or dose reduction in the well-controlled study are presented in Table 13.
 
-Table 12: Adverse Events Most Commonly Associated With Discontinuation Or Dose Reduction In The Placebo-Controlled Study In Pediatric Patients Ages 4-16 Years Experiencing Partial Onset Seizures
+Table 13: Adverse Events Most Commonly Associated With Discontinuation Or Dose Reduction In The Placebo-Controlled Study In Pediatric Patients Ages 4-16 Years Experiencing Partial Onset Seizures
 
 |  | KEPPRA (N=101) | Placebo (N=97) |
 | --- | --- | --- |
@@ -193,9 +193,9 @@ Table 12: Adverse Events Most Commonly Associated With Discontinuation Or Dose R
 ### Myoclonic Seizures
 
 In the placebo-controlled study, 8.3% of patients receiving KEPPRA and 1.7% receiving placebo either discontinued or had a dose reduction as a result of an adverse event.
-The adverse events that led to discontinuation or dose reduction in the well-controlled study are presented in Table 13.
+The adverse events that led to discontinuation or dose reduction in the well-controlled study are presented in Table 14.
 
-Table 13: Adverse Events That Resulted In Discontinuation Or Dose Reduction In The Placebo-Controlled Study In Patients With Juvenile Myoclonic Epilepsy
+Table 14: Adverse Events That Resulted In Discontinuation Or Dose Reduction In The Placebo-Controlled Study In Patients With Juvenile Myoclonic Epilepsy
 
 | Body System/ MedDRA preferred term | KEPPRA (N=60) n (%) | Placebo (N=60) n (%) |
 | --- | --- | --- |
@@ -214,7 +214,7 @@ Table 13: Adverse Events That Resulted In Discontinuation Or Dose Reduction In T
 In the placebo-controlled study, 5.1% of patients receiving KEPPRA and 8.3% receiving placebo either discontinued or had a dose reduction during the treatment period as a result of a treatment-emergent adverse event.
 
 This study was too small to adequately characterize the adverse events leading to discontinuation.
-It is expected that the adverse events that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see tables 11 - 13).
+It is expected that the adverse events that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see tables 12 - 14).
 
 ## Comparison Of Gender, Age And Race
 
@@ -226,5 +226,4 @@ There are insufficient data to support a statement regarding the distribution of
 In addition to the adverse experiences listed above, the following have been reported in patients receiving marketed KEPPRA worldwide.
 The listing is alphabetized: abnormal liver function test, hepatic failure, hepatitis, leukopenia, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia, and weight loss.
 Alopecia has been reported with KEPPRA use; recovery was observed in majority of cases where KEPPRA was discontinued.
-There have been reports of suicidal behavior (including completed suicide, suicide attempt and suicidal ideation) with marketed KEPPRA (see PRECAUTIONS, Information For Patients).
 These adverse experiences have not been listed above, and data are insufficient to support an estimate of their incidence or to establish causation.

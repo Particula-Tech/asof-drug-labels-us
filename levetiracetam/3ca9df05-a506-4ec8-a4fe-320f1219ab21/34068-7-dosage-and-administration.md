@@ -24,14 +24,14 @@ Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (
 The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg BID).
 If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced.
 In the clinical trial, the mean daily dose was 52 mg/kg.
-Patients with body weight ≤20 kg should be dosed with oral solution.
+Patients with body weight ≤ 20 kg should be dosed with oral solution.
 Patients with body weight above 20 kg can be dosed with either tablets or oral solution.
-Table 14 below provides a guideline for tablet dosing based on weight during titration to 60 mg/kg/day.
+Table 15 below provides a guideline for tablet dosing based on weight during titration to 60 mg/kg/day.
 Only whole tablets should be administered.
 
 KEPPRA is given orally with or without food.
 
-Table 14: KEPPRA Tablet Weight-Based Dosing Guide For Children
+Table 15: KEPPRA Tablet Weight-Based Dosing Guide For Children
 
 | Patient Weight | 20 mg/kg/day (BID dosing) | 40 mg/kg/day (BID dosing) | 60 mg/kg/day (BID dosing) |
 | --- | --- | --- | --- |
@@ -77,7 +77,7 @@ Only whole tablets should be administered.
 ## Adult Patients With Impaired Renal Function
 
 KEPPRA dosing must be individualized according to the patient's renal function status.
-Recommended doses and adjustment for dose for adults are shown in Table 15.
+Recommended doses and adjustment for dose for adults are shown in Table 16.
 To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination using the following formula:
 
@@ -86,7 +86,7 @@ CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination usin
 | - - - - - - - - - - - - - - - - - - - - - - |  |  |
 | 72 x serum creatinine (mg/dL) |  |  |
 
-Table 15: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
+Table 16: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
 
 | Group | Creatinine Clearance (mL/min) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |

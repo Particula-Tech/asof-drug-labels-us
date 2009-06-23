@@ -1,5 +1,40 @@
 # WARNINGS
 
+## Suicidal Behavior and Ideation
+
+Antiepileptic drugs (AEDs), including KEPPRA, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+Table 7 shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 7 Risk by indication for antiepileptic drugs in the pooled analysis
+
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| --- | --- | --- | --- | --- |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing KEPPRA or any other AED must balance the risk of suicidal thoughts or behaviors with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
 ## Neuropsychiatric Adverse Events
 
 ### Partial Onset Seizures
@@ -30,17 +65,11 @@ Two (0.3%) KEPPRA-treated patients were hospitalized and their treatment was dis
 Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 Two other events, reported as hallucinations, occurred after 1-5 months and resolved within 2-7 days while the patients remained on treatment.
 In one patient experiencing psychotic depression occurring within a month, symptoms resolved within 45 days while the patient continued treatment.
-
 A total of 13.3% of KEPPRA patients experienced other behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, irritability, etc.) compared to 6.2% of placebo patients.
 Approximately half of these patients reported these events within the first 4 weeks.
 A total of 1.7% of treated patients discontinued treatment due to these events, compared to 0.2% of placebo patients.
 The treatment dose was reduced in 0.8% of treated patients and in 0.5% of placebo patients.
 A total of 0.8% of treated patients had a serious behavioral event (compared to 0.2% of placebo patients) and were hospitalized.
-
-In addition, 4 (0.5%) of treated patients attempted suicide compared to 0% of placebo patients.
-One of these patients completed suicide.
-In the other 3 patients, the events did not lead to discontinuation or dose reduction.
-The events occurred after patients had been treated for between 4 weeks and 6 months (see PRECAUTIONS, Information For Patients).
 
 #### Pediatric Patients
 
@@ -58,8 +87,6 @@ A total of 37.6% of the KEPPRA-treated patients experienced behavioral symptoms 
 Hostility was reported in 11.9% of KEPPRA-treated patients, compared to 6.2% of placebo patients.
 Nervousness was reported in 9.9% of KEPPRA-treated patients, compared to 2.1% of placebo patients.
 Depression was reported in 3.0% of KEPPRA-treated patients, compared to 1.0% of placebo patients.
-
-One KEPPRA-treated patient experienced suicidal ideation (see PRECAUTIONS, Information For Patients).
 
 A total of 3.0% of KEPPRA-treated patients discontinued treatment due to psychotic and nonpsychotic adverse events, compared to 4.1% of placebo patients.
 Overall, 10.9% of KEPPRA-treated patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of placebo patients.
@@ -91,9 +118,8 @@ In patients 6 years of age and older experiencing primary generalized tonic-clon
 In the double-blind, controlled trial in patients with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures, irritability was the most frequently reported psychiatric adverse event occurring in 6.3% of KEPPRA-treated patients compared to 2.4% of placebo patients.
 Additionally, non-psychotic behavioral disorders (reported as abnormal behavior, aggression, conduct disorder, and irritability) occurred in 11.4% of the KEPPRA-treated patients compared to 3.6% of placebo patients.
 Of the KEPPRA-treated patients experiencing non-psychotic behavioral disorders, one patient discontinued treatment due to aggression.
-Non-psychotic mood disorders (reported as anger, apathy, depression, mood altered, mood swings, negativism, suicidal ideation (see PRECAUTIONS, Information For Patients), and tearfulness) occurred in 12.7% of KEPPRA-treated patients compared to 8.3% of placebo patients.
+Non-psychotic mood disorders (including anger, apathy, depression, mood altered, mood swings, negativism, and tearfulness) occurred in 12.7% of KEPPRA-treated patients compared to 8.3% of placebo patients.
 No KEPPRA-treated patients discontinued or had a dose reduction as a result of these events.
-One KEPPRA-treated patient experienced suicidal ideation (see PRECAUTIONS, Information For Patients).
 One patient experienced delusional behavior that required the lowering of the dose of KEPPRA.
 
 In a long-term open label study that examined patients with various forms of primary generalized epilepsy, along with the non-psychotic behavioral disorders, 2 of 192 patients studied exhibited psychotic-like behavior.
@@ -139,18 +165,24 @@ No adult or pediatric patients were discontinued from controlled trials for LFT 
 
 ## Information For Patients
 
+Patients and caregivers should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking KEPPRA.
+The Medication Guide may also be found in the full prescribing information for KEPPRA posted on http://www.ucb-usa.com or by calling 1-866-822-0068.
 Patients should be instructed to take KEPPRA only as prescribed.
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-
-Patients should be advised that KEPPRA may cause dizziness and somnolence.
-Accordingly, patients should be advised not to drive or operate machinery or engage in other hazardous activities until they have gained sufficient experience on KEPPRA to gauge whether it adversely affects their performance of these activities.
+Patients, their caregivers, and families should be counseled that AEDs, including KEPPRA, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
 
 Patients should be advised that KEPPRA may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases patients may experience psychotic symptoms.
 
-Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician as suicide, suicide attempt and suicidal ideation have been reported in patients treated with levetiracetam.
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334.
+UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes associated with pregnant women being treated with all UCB antiepileptic drugs, including KEPPRA.
+To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling (888) 537-7734 (toll free) (See Pregnancy Section).
 
-Physicians should advise patients and caregivers to read the patient information leaflet which appears as the last section of the labeling.
+Patients should be advised that KEPPRA may cause dizziness and somnolence.
+Accordingly, patients should be advised not to drive or operate machinery or engage in other hazardous activities until they have gained sufficient experience on KEPPRA to gauge whether it adversely affects their performance of these activities.
 
 ## Laboratory Tests
 
@@ -259,8 +291,11 @@ As with other antiepileptic drugs, physiological changes during pregnancy may af
 There have been reports of decreased levetiracetam concentration during pregnancy.
 Discontinuation of antiepileptic treatments may result in disease worsening, which can be harmful to the mother and the fetus.
 
-### UCB AED Pregnancy Registry
+### Pregnancy Registries
 
-UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes associated with pregnant women being treated with all UCB antiepileptic drugs including KEPPRA.
+To provide information regarding the effects of in utero exposure to KEPPRA, physicians are advised to recommend that pregnant patients taking KEPPRA enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes associated with pregnant women being treated with all UCB antiepileptic drugs, including KEPPRA.
 To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling (888) 537-7734 (toll free).
-Patients may also enroll in the North American Antiepileptic Drug Pregnancy Registry by calling (888) 233-2334 (toll free).
