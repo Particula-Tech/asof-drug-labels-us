@@ -13,4 +13,4 @@ Each mL of ALPHAGAN® P contains:
 
 Active ingredient: brimonidine tartrate 0.1% (1.0 mg/mL) or 0.15% (1.5 mg/mL)
 
-Inactives: sodium carboxymethylcellulose; sodium borate; boric acid; sodium chloride; potassium chloride; calcium chloride; magnesium chloride; Purite® 0.005% (0.05mg/mL) as a preservative; purified water; with hydrochloric acid and/or sodium hydroxide to adjust pH.
+Inactives: sodium carboxymethylcellulose; sodium borate; boric acid; sodium chloride; potassium chloride; calcium chloride; magnesium chloride; PURITE® 0.005% (0.05 mg/mL) as a preservative; purified water; with hydrochloric acid and/or sodium hydroxide to adjust pH.
