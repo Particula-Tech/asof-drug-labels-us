@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-Mechanism of Action: Antiviral The mechanism by which amantadine exerts its antiviral activity is not clearly understood.
+Mechanism of Action: Antiviral- The mechanism by which amantadine exerts its antiviral activity is not clearly understood.
 It appears to mainly prevent the release of infectious viral nucleic acid into the host cell by interfering with the function of the transmembrane domain of the viral M2 protein.
 In certain cases, amantadine is also known to prevent virus assembly during virus replication.
 It does not appear to interfere with the immunogenicity of inactivated influenza A virus vaccine.
@@ -17,9 +17,9 @@ Drug Resistance: Influenza A variants with reduced in vitro sensitivity to amant
 Influenza viruses with reduced in vitro sensitivity have been shown to be transmissible and to cause typical influenza illness.
 The quantitative relationship between the in vitro sensitivity of influenza A variants to amantadine and the clinical response to therapy has not been established.
 
-Mechanism of Action: Parkinson's Disease The mechanism of action of amantadine in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
+Mechanism of Action: Parkinson's Disease- The mechanism of action of amantadine in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
 Data from earlier animal studies suggest that amantadine may have direct and indirect effects on dopamine neurons.
-More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (K1 = 10μM).
+More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (Ki = 10μM).
 Although amantadine has not been shown to possess direct anticholinergic activity in animal studies, clinically, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation.
 
 ## Pharmacokinetics

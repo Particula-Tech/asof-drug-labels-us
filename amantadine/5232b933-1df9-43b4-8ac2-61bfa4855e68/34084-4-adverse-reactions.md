@@ -4,7 +4,7 @@ The adverse reactions reported most frequently at the recommended dose of amanta
 
 Less frequently (1 - 5%) reported adverse reactions are: depression, anxiety and irritability, hallucinations, confusion, anorexia, dry mouth, constipation, ataxia, livedo reticularis, peripheral edema, orthostatic hypotension, headache, somnolence, nervousness, dream abnormality, agitation, dry nose, diarrhea and fatigue.
 
-Infrequently (0.1 - 1%) occurring adverse reactions are: congestive heart failure, psychosis, urinary retention, dyspnea, skin rash, vomiting, weakness, slurred speech, euphoria, thinking abnormality, amnesia, hyperkinesias, hypertension, decreased libido, and visual disturbance, including punctate subepithelial or other corneal opacity, corneal edema, decreased visual acuity, sensitivity to light, and optic nerve palsy.
+Infrequently (0.1 - 1%) occurring adverse reactions are: congestive heart failure, psychosis, urinary retention, dyspnea, skin rash, vomiting, weakness, slurred speech, euphoria, thinking abnormality, amnesia, hyperkinesia, hypertension, decreased libido, and visual disturbance, including punctate subepithelial or other corneal opacity, corneal edema, decreased visual acuity, sensitivity to light, and optic nerve palsy.
 
 Rare (less than 0.1%) occurring adverse reactions are: instances of convulsion, leukopenia, neutropenia, eczematoid determatitis, oculogyric episodes, suicidal attempt, suicide, and suicidal ideation (see WARNINGS).
 
@@ -19,12 +19,12 @@ Respiratory – acute respiratory failure, pulmonary edema, and tachypnea;
 
 Gastrointestinal – dysphagia;
 
-Hematologic – leukocytosis; agranulocytosis
+Hematologic – leukocytosis, agranulocytosis;
 
 Special Senses – keratitis and mydriasis;
 
 Skin and Appendages – pruritus and diaphoresis;
 
-Miscellaneous - neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anaphylactic reactions, edema, and fever;
+Miscellaneous - neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anaphylactic reactions, edema, and fever, pathological gambling, increased libido including hypersexuality, and impulse control symptoms;
 
 Laboratory Test – elevated: CPK, BUN, serum creatinine, alkaline phosphatase, LDH, bilirubin, GGT, SGOT, and SGPT.

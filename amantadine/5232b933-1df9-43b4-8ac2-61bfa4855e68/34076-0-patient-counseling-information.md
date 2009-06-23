@@ -20,12 +20,18 @@ Consult physician before discontinuing medication.
 
 Seek medical attention immediately if it is suspected that an overdose of medication has been taken.
 
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson's disease, including amantadine.
+Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
+Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with amantadine.
+Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges or other intense urges while taking Amantadine Hydrochloride Capsules, USP.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking Amantadine Hydrochloride Capsules, USP.
+
 Drug Interactions: Careful observation is required when amantadine is administered concurrently with central nervous system stimulants.
 
 Agents with anticholinergic properties may potentiate the anticholinergic-like side effects of amantadine.
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
-Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine 100 mg TID for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
+Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine 100 mg t.i.d. for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine was shown to reduce the renal clearance of amantadine by about 30%.
 

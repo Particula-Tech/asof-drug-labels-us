@@ -21,7 +21,7 @@ Other: Patients with a history of congestive heart failure or peripheral edema s
 
 Patients with Parkinson's disease improving on Amantadine Hydrochloride Capsules, USP should resume normal activities gradually and cautiously, consistent with other medical considerations such as the presence of osteoporosis or phlebothrombosis.
 
-Because Amantadine Hydrochloride Capsules, USP has anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
+Because Amantadine Hydrochloride Capsules, USP have anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
 
 # PRECAUTIONS
 
@@ -47,6 +47,12 @@ Thus, the dose of amantadine should be reduced in patients with renal impairment
 
 Liver disease: Care should be exercised when administering amantadine to patients with liver disease.
 Rare instances of reversible elevation of liver enzymes have been reported in patients receiving amantadine, though a specific relationship between the drug and such changes has not been established.
+
+Melanoma: Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
+
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using Amantadine Hydrochloride Capsules, USP for any indication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 Other: The dose of amantadine may need careful adjustment in patients with congestive heart failure, peripheral edema, or orthostatic hypotension.
 Care should be exercised when administering amantadine to patients with a history of recurrent eczematoid rash, or to patients with psychosis or severe psychoneurosis not controlled by chemotherapeutic agents.

@@ -16,7 +16,7 @@ The 100 mg dose is recommended for persons who have demonstrated intolerance to 
 
 Pediatric Patients: 1 yr.-9 yrs. of age: The total daily dose should be calculated on the basis of 2 to 4 mg/lb/day (4.4 to 8.8 mg/kg/day), but not to exceed 150 mg per day.
 
-9 yrs. - 12 yrs. of age: The total daily dose is 200 mg given as one capsule of 100 mg twice a day.
+9 yrs.-12 yrs. of age: The total daily dose is 200 mg given as one capsule of 100 mg twice a day.
 The 100 mg daily dose has not been studied in this pediatric population.
 Therefore, there are no data which demonstrate that this dose is as effective as or is safer than the 200 mg daily dose in this patient population.
 
@@ -31,7 +31,7 @@ Treatment of influenza A virus illness should be started as soon as possible, pr
 ## Dosage for Parkinsonism:
 
 Adult: The usual dose of Amantadine Hydrochloride Capsules, USP is 100 mg twice a day when used alone.
-Amantadine Hydrochloride Capsules, USP has an onset of action usually within 48 hours.
+Amantadine Hydrochloride Capsules, USP have an onset of action usually within 48 hours.
 
 The initial dose of Amantadine Hydrochloride Capsules, USP is 100 mg daily for patients with serious associated medical illnesses or who are receiving high doses of other antiparkinson drugs.
 After one to several weeks at 100 mg once daily, the dose may be increased to 100 mg twice daily, if necessary.
@@ -64,7 +64,7 @@ Depending upon creatinine clearance, the following dosage adjustments are recomm
 
 | CREATININE CLEARANCE | AMANTADINE HYDROCHLORIDE |
 | --- | --- |
-| (mL/min/1.73m2) | CAPSULES, USP DOSAGE |
+| (mL/min/1.73 m2) | CAPSULES, USP DOSAGE |
 | 30-50 | 200 mg 1st day and 100 mg each day thereafter |
 | 15-29 | 200 mg 1st day followed by 100 mg on alternate days |
 | <15 | 200 mg every 7 days |

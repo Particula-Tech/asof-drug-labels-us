@@ -1,2 +1,1 @@
-Rx only REV.
-07-07 102540
+Rx only
