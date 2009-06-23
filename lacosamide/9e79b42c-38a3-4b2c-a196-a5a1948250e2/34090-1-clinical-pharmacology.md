@@ -133,7 +133,7 @@ Since <15% of lacosamide is bound to plasma proteins, a clinically relevant inte
 
 #### In Vivo Assessment of Drug Interactions
 
-#### Drug interaction studies with AEDs
+Drug interaction studies with AEDs
 
 Effect of VIMPAT on concomitant AEDs: VIMPAT 400 mg/day had no influence on the pharmacokinetics of 600 mg/day valproic acid and 400 mg/day carbamazepine in healthy subjects.
 
@@ -143,7 +143,7 @@ Effect of concomitant AEDs on VIMPAT: Drug-drug interaction studies in healthy s
 Likewise, 400 mg/day carbamazepine had no influence on the pharmacokinetics of VIMPAT in a healthy subject study.
 Population pharmacokinetics results in patients with partial-onset seizures showed small reductions (15% to 20% lower) in lacosamide plasma concentrations when VIMPAT was coadministered with carbamazepine, phenobarbital or phenytoin.
 
-#### Drug-drug interaction studies with other drugs
+Drug-drug interaction studies with other drugs
 
 Digoxin
 

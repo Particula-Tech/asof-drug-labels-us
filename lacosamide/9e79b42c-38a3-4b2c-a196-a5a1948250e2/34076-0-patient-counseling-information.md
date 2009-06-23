@@ -94,13 +94,13 @@ This Medication Guide summarizes the most important information about VIMPAT.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about VIMPAT that is written for health professionals.
 
-| For more information, go to www.vimpat.com or call 1-800-477-7877. Issued 10/08 This Medication Guide has been approved by the U.S. Food and Drug Administration |
+| For more information, go to www.vimpat.com or call 1-800-477-7877. Issued 01/2009 This Medication Guide has been approved by the U.S. Food and Drug Administration |
 | --- |
 
 VIMPAT tablets and VIMPAT injection
 
 Manufactured for UCB, Inc. Smyrna, GA 30080
 
-Revised:10/08 UCB, Inc.
+Revised:01/2009 UCB, Inc.
 
 VIMPAT® is a registered trademark under license from Harris FRC Corporation and covered by one or more claims of U.S. Patent 38,551.

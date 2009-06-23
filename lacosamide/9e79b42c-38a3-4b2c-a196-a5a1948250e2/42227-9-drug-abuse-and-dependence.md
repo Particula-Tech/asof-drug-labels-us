@@ -1,5 +1,9 @@
 # 9 DRUG ABUSE AND DEPENDENCE
 
+## 9.1 Controlled Substance
+
+VIMPAT is a Schedule V controlled substance.
+
 ## 9.2 Abuse
 
 In a human abuse potential study, single doses of 200 mg and 800 mg lacosamide produced euphoria-type subjective responses that differentiated statistically from placebo; at 800 mg, these euphoria-type responses were statistically indistinguishable from those produced by alprazolam, a Schedule IV drug.
