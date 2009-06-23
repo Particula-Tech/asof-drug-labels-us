@@ -9,7 +9,7 @@ It is recommended that clinicians administering neuromuscular blocking agents su
 ## 5.2 Anaphylaxis
 
 Severe anaphylactic reactions to neuromuscular blocking agents, including ZEMURON, have been reported.
-These reactions have, in some cases (including cases with ZEMURON) been life threatening.
+These reactions have, in some cases (including cases with ZEMURON), been life threatening.
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
 
 ## 5.3 Need for Adequate Anesthesia
@@ -32,7 +32,7 @@ It is strongly recommended that neuromuscular transmission be monitored continuo
 Additional doses of ZEMURON or any other neuromuscular blocking agent should not be given until there is a definite response (one twitch of the train-of-four) to nerve stimulation.
 Prolonged paralysis and/or skeletal muscle weakness may be noted during initial attempts to wean from the ventilator patients who have chronically received neuromuscular blocking drugs in the ICU.
 
-Myopathy after long term administration of other non-depolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
+Myopathy after long-term administration of other non-depolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
 Therefore, for patients receiving both neuromuscular blocking agents and corticosteroids, the period of use of the neuromuscular blocking agent should be limited as much as possible and only used in the setting where in the opinion of the prescribing physician, the specific advantages of the drug outweigh the risk.
 
 ## 5.6 Malignant Hyperthermia (MH)
@@ -52,23 +52,17 @@ The overall analysis of ECG data in pediatric patients indicates that the concom
 
 ## 5.9 Conditions/Drugs Causing Potentiation of, or Resistance to, Neuromuscular Block
 
-Potentiation
-
-Nondepolarizing neuromuscular blocking agents have been found to exhibit profound neuromuscular blocking effects in cachectic or debilitated patients, patients with neuromuscular diseases, and patients with carcinomatosis.
+Potentiation: Nondepolarizing neuromuscular blocking agents have been found to exhibit profound neuromuscular blocking effects in cachectic or debilitated patients, patients with neuromuscular diseases, and patients with carcinomatosis.
 
 Certain inhalation anesthetics, particularly enflurane and isoflurane, antibiotics, magnesium salts, lithium, local anesthetics, procainamide, and quinidine have been shown to increase the duration of neuromuscular block and decrease infusion requirements of neuromuscular blocking agents [see Drug Interactions (7.3)].
 
 In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of ZEMURON should be considered [see Dosage and Administration (2.5)].
 
-Resistance
-
-Resistance to nondepolarizing agents, consistent with up-regulation of skeletal muscle acetylcholine receptors, is associated with burns, disuse atrophy, denervation, and direct muscle trauma.
+Resistance: Resistance to nondepolarizing agents, consistent with up-regulation of skeletal muscle acetylcholine receptors, is associated with burns, disuse atrophy, denervation, and direct muscle trauma.
 Receptor up-regulation may also contribute to the resistance to nondepolarizing muscle relaxants which sometimes develops in patients with cerebral palsy, patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin or with chronic exposure to nondepolarizing agents.
 When ZEMURON is administered to these patients, shorter durations of neuromuscular block may occur and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
 
-Potentiation or Resistance
-
-Severe acid-base and/or electrolyte abnormalities may potentiate or cause resistance to the neuromuscular blocking action of ZEMURON.
+Potentiation or Resistance: Severe acid-base and/or electrolyte abnormalities may potentiate or cause resistance to the neuromuscular blocking action of ZEMURON.
 No data are available in such patients and no dosing recommendations can be made.
 
 ZEMURON-induced neuromuscular blockade was modified by alkalosis and acidosis in experimental pigs.

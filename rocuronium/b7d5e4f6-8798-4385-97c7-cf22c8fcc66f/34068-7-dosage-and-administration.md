@@ -7,7 +7,7 @@ Doses of ZEMURON injection should be individualized and a peripheral nerve stimu
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight.
 It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with ZEMURON.
 
-In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9, 5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
+In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9, 5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
 
 ## 2.1 Dose for Tracheal Intubation
 
@@ -38,14 +38,14 @@ A clinically insignificant cumulation of effect with repetitive maintenance dosi
 ## 2.4 Use by Continuous Infusion
 
 Infusion at an initial rate of 10 to 12 mcg/kg/min of ZEMURON should be initiated only after early evidence of spontaneous recovery from an intubating dose.
-Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T1), may necessitate additional bolus doses to maintain adequate block for surgery.
+Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T1) may necessitate additional bolus doses to maintain adequate block for surgery.
 
 Upon reaching the desired level of neuromuscular block, the infusion of ZEMURON must be individualized for each patient.
 The rate of administration should be adjusted according to the patient's twitch response as monitored with the use of a peripheral nerve stimulator.
 In clinical trials, infusion rates have ranged from 4 to 16 mcg/kg/min.
 
 Inhalation anesthetics, particularly enflurane and isoflurane, may enhance the neuromuscular blocking action of nondepolarizing muscle relaxants.
-In the presence of steady-state concentrations of enflurane or isoflurane, it may be necessary to reduce the rate of infusion by 30 to 50%, at 45 to 60 minutes after the intubating dose.
+In the presence of steady-state concentrations of enflurane or isoflurane, it may be necessary to reduce the rate of infusion by 30% to 50%, at 45 to 60 minutes after the intubating dose.
 
 Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of ZEMURON infusion may be expected to proceed at rates comparable to that following comparable total doses administered by repetitive bolus injections [see Clinical Pharmacology (12.2)].
 
@@ -57,7 +57,7 @@ Infusion rates of ZEMURON can be individualized for each patient using the follo
 
 TABLE 1: Infusion Rates Using ZEMURON Injection (0.5 mg/mL)50 mg ZEMURON in 100 mL solution
 
-| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
@@ -75,7 +75,7 @@ TABLE 1: Infusion Rates Using ZEMURON Injection (0.5 mg/mL)50 mg ZEMURON in 100 
 
 TABLE 2: Infusion Rates Using ZEMURON Injection (1 mg/mL)100 mg ZEMURON in 100 mL solution
 
-| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
@@ -93,7 +93,7 @@ TABLE 2: Infusion Rates Using ZEMURON Injection (1 mg/mL)100 mg ZEMURON in 100 m
 
 TABLE 3: Infusion Rates Using ZEMURON Injection (5 mg/mL)500 mg ZEMURON in 100 mL solution
 
-| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
@@ -111,9 +111,7 @@ TABLE 3: Infusion Rates Using ZEMURON Injection (5 mg/mL)500 mg ZEMURON in 100 m
 
 ## 2.5 Dosage in Specific Populations
 
-Pediatric Patients
-
-The recommended initial intubation dose of ZEMURON is 0.6 mg/kg, however, a lower dose of 0.45 mg/kg may be used depending on anesthetic technique and the age of the patient.
+Pediatric Patients: The recommended initial intubation dose of ZEMURON is 0.6 mg/kg; however, a lower dose of 0.45 mg/kg may be used depending on anesthetic technique and the age of the patient.
 
 For sevoflurane (induction) ZEMURON doses of 0.45 mg/kg and 0.6 mg/kg in general produce excellent to good intubating conditions within 75 seconds.
 When halothane is used, a 0.6 mg/kg dose of ZEMURON resulted in excellent to good intubating conditions within 60 seconds.
@@ -122,10 +120,10 @@ The time to maximum block for an intubating dose was shortest in infants (28 day
 The duration of clinical relaxation following an intubating dose is shortest in children (greater than 2 years up to 11 years) and longest in infants.
 
 When sevoflurane is used for induction and isoflurane/nitrous oxide for maintenance of general anesthesia, maintenance dosing of ZEMURON can be administered as bolus doses of 0.15 mg/kg at reappearance of T3 in all pediatric age groups.
-Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7–10 mcg/kg/min with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
+Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7–10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
 
 When halothane is used for general anesthesia, patients ranging from 3 months old through adolescence can be administered ZEMURON maintenance doses of 0.075 to 0.125 mg/kg upon return of T1 to 0.25% to provide clinical relaxation for 7 to 10 minutes.
-Alternatively, a continuous infusion of ZEMURON initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-four), may also be used to maintain neuromuscular blockade in pediatric patients.
+Alternatively, a continuous infusion of ZEMURON initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-four) may also be used to maintain neuromuscular blockade in pediatric patients.
 
 Additional information for administration to pediatric patients of all age groups is presented elsewhere in the label [see Clinical Pharmacology (12.2)].
 
@@ -135,44 +133,29 @@ Spontaneous recovery and reversal of neuromuscular blockade following discontinu
 
 ZEMURON is not recommended for rapid sequence intubation in pediatric patients.
 
-Geriatric Patients
+Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22–73), 62 (49–75), and 94 (64–138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
+No differences in duration of neuromuscular blockade following maintenance doses of ZEMURON were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2, 12.3)].
 
-Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22–73), 62 (49–75), and 94 (64–138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
-No differences in duration of neuromuscular blockade following maintenance doses of ZEMURON were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-[see Clinical Pharmacology (12.2, 12.3)]
-
-Patients with Renal or Hepatic Impairment
-
-No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg ZEMURON.
+Patients with Renal or Hepatic Impairment: No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg ZEMURON.
 When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
 Patients with renal failure may have a greater variation in duration of effect [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3)].
 
-Obese Patients
-
-In obese patients, the initial dose of ZEMURON 0.6 mg/kg should be based upon the patient's actual body weight [see Clinical Studies (14.1)].
+Obese Patients: In obese patients, the initial dose of ZEMURON 0.6 mg/kg should be based upon the patient's actual body weight [see Clinical Studies (14.1)].
 
 An analysis across all US controlled clinical studies indicates that the pharmacodynamics of ZEMURON are not different between obese and non-obese patients when dosed based upon their actual body weight.
 
-Patients with Reduced Plasma Cholinesterase Activity
+Patients with Reduced Plasma Cholinesterase Activity: Rocuronium metabolism does not depend on plasma cholinesterase so dosing adjustments are not needed in patients with reduced plasma cholinesterase activity.
 
-Rocuronium metabolism does not depend on plasma cholinesterase so dosing adjustments are not needed in patients with reduced plasma cholinesterase activity.
+Patients with Prolonged Circulation Time: Because higher doses of ZEMURON produce a longer duration of action, the initial dosage should usually not be increased in these patients to reduce onset time; instead, in these situations, when feasible, more time should be allowed for the drug to achieve onset of effect [see Warnings and Precautions (5.7)].
 
-Patients withProlonged Circulation Time
-
-Because higher doses of ZEMURON produce a longer duration of action, the initial dosage should usually not be increased in these patients to reduce onset time; instead, in these situations, when feasible, more time should be allowed for the drug to achieve onset of effect [see Warnings and Precautions (5.7)].
-
-Patients with Drugs or Conditions Causing Potentiation of Neuromuscular Block
-
-The neuromuscular blocking action of ZEMURON is potentiated by isoflurane and enflurane anesthesia.
+Patients with Drugs or Conditions Causing Potentiation of Neuromuscular Block: The neuromuscular blocking action of ZEMURON is potentiated by isoflurane and enflurane anesthesia.
 Potentiation is minimal when administration of the recommended dose of ZEMURON occurs prior to the administration of these potent inhalation agents.
 The median clinical duration of a dose of 0.57 to 0.85 mg/kg was 34, 38, and 42 minutes under opioid/nitrous oxide/oxygen, enflurane and isoflurane maintenance anesthesia, respectively.
 During 1 to 2 hours of infusion, the infusion rate of ZEMURON required to maintain about 95% block was decreased by as much as 40% under enflurane and isoflurane anesthesia [see Drug Interactions (7.3)].
 
 ## 2.6 Preparation for Administration of ZEMURON
 
-Diluent Compatibility
-
-ZEMURON is compatible in solution with:
+Diluent Compatibility: ZEMURON is compatible in solution with:
 
 | 0.9% NaCl solution | sterile water for injection |
 | --- | --- |
@@ -181,21 +164,16 @@ ZEMURON is compatible in solution with:
 
 ZEMURON is compatible in the above solutions at concentrations up to 5 mg/mL for 24 hours at room temperature in plastic bags, glass bottles, and plastic syringe pumps.
 
-Drug Admixture Incompatibility
+Drug Admixture Incompatibility: ZEMURON is physically incompatible when mixed with the following drugs:
 
-ZEMURON is physically incompatible when mixed with the following drugs:
-
-| amphotericin | hydrocortisone sodium succinate |
-| --- | --- |
-| amoxicillin | insulin |
-| azathioprine | intralipid |
-| cefazolin | ketorolac |
-| cloxacillin | lorazepam |
-| dexamethasone | methohexital |
-| diazepam | methylprednisolone |
-| erythromycin | thiopental |
-| famotidine | trimethoprim |
-| furosemide | vancomycin |
+| amphotericin | erythromycin | lorazepam |
+| --- | --- | --- |
+| amoxicillin | famotidine | methohexital |
+| azathioprine | furosemide | methylprednisolone |
+| cefazolin | hydrocortisone sodium succinate | thiopental |
+| cloxacillin | insulin | trimethoprim |
+| dexamethasone | intralipid | vancomycin |
+| diazepam | ketorolac |  |
 
 If ZEMURON is administered via the same infusion line that is also used for other drugs, it is important that this infusion line is adequately flushed between administration of ZEMURON and drugs for which incompatibility with ZEMURON has been demonstrated or for which compatibility with ZEMURON has not been established.
 
@@ -204,7 +182,5 @@ Unused portions of infusion solutions should be discarded.
 
 ZEMURON should not be mixed with alkaline solutions [see Warnings and Precautions (5.10)].
 
-Visual Inspection
-
-Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
+Visual Inspection: Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
 Do not use solution if particulate matter is present.

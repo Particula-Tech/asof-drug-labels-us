@@ -9,8 +9,7 @@ If these antibiotics are used in conjunction with ZEMURON, prolongation of neuro
 
 In 2 of 4 patients receiving chronic anticonvulsant therapy, apparent resistance to the effects of ZEMURON was observed in the form of diminished magnitude of neuromuscular block, or shortened clinical duration.
 As with other nondepolarizing neuromuscular blocking drugs, if ZEMURON is administered to patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin, shorter durations of neuromuscular block may occur and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
-While the mechanism for development of this resistance is not known, receptor up-regulation may be a contributing factor.
-[See Warnings and Precautions (5.9)].
+While the mechanism for development of this resistance is not known, receptor up-regulation may be a contributing factor [see Warnings and Precautions (5.9)].
 
 ## 7.3 Inhalation Anesthetics
 
@@ -20,13 +19,12 @@ Isoflurane and enflurane may also prolong the duration of action of initial and 
 No definite interaction between ZEMURON and halothane has been demonstrated.
 In one study, use of enflurane in 10 patients resulted in a 20% increase in mean clinical duration of the initial intubating dose, and a 37% increase in the duration of subsequent maintenance doses, when compared in the same study to 10 patients under opioid/nitrous oxide/oxygen anesthesia.
 The clinical duration of initial doses of ZEMURON of 0.57 to 0.85 mg/kg under enflurane or isoflurane anesthesia, as used clinically, was increased by 11% and 23%, respectively.
-The duration of maintenance doses was affected to a greater extent, increasing by 30 to 50% under either enflurane or isoflurane anesthesia.
+The duration of maintenance doses was affected to a greater extent, increasing by 30% to 50% under either enflurane or isoflurane anesthesia.
 
 Potentiation by these agents is also observed with respect to the infusion rates of ZEMURON required to maintain approximately 95% neuromuscular block.
 Under isoflurane and enflurane anesthesia, the infusion rates are decreased by approximately 40% compared to opioid/nitrous oxide/oxygen anesthesia.
-The median spontaneous recovery time (from 25 to 75% of control T1) is not affected by halothane, but is prolonged by enflurane (15% longer) and isoflurane (62% longer).
-Reversal-induced recovery of ZEMURON neuromuscular block is minimally affected by anesthetic technique.
-[See Dosage and Administration (2.5) and Warnings and Precautions (5.9)].
+The median spontaneous recovery time (from 25% to 75% of control T1) is not affected by halothane, but is prolonged by enflurane (15% longer) and isoflurane (62% longer).
+Reversal-induced recovery of ZEMURON neuromuscular block is minimally affected by anesthetic technique [see Dosage and Administration (2.5) and Warnings and Precautions (5.9)].
 
 ## 7.4 Lithium Carbonate
 
@@ -56,7 +54,7 @@ The use of propofol for induction and maintenance of anesthesia does not alter t
 ## 7.10 Quinidine
 
 Injection of quinidine during recovery from use of muscle relaxants is associated with recurrent paralysis.
-This possibility must also be considered for ZEMURON [See Warnings and Precautions (5.9)]
+This possibility must also be considered for ZEMURON [see Warnings and Precautions (5.9)].
 
 ## 7.11 Succinylcholine
 
