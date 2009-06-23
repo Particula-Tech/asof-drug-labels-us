@@ -22,7 +22,7 @@ Figure 1 presents the proportion of patients (X axis) whose percentage reduction
 A positive percent reduction indicates an improvement (i.e., a decrease in seizure frequency), while a negative percent reduction indicates worsening.
 Thus, in a display of this type, the curve for an effective treatment is shifted to the left of the curve for placebo.
 This figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for DEPAKOTE than for placebo.
-For example, 45% of patients treated with DEPAKOTE had a≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
+For example, 45% of patients treated with DEPAKOTE had a ≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
 
 Figure 1.
 

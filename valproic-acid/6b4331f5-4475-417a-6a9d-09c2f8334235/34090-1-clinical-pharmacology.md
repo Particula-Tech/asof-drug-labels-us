@@ -109,7 +109,7 @@ The relationship between plasma concentration and clinical response is not well 
 One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug.
 Thus, monitoring of total serum valproate cannot provide a reliable index of the bioactive valproate species.
 
-For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40µg/mL to 18.5% at 130 µg/mL.
+For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40 µg/mL to 18.5% at 130 µg/mL.
 Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases.
 
 ### Epilepsy

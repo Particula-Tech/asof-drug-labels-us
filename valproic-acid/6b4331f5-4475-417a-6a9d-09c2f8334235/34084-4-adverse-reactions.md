@@ -7,10 +7,10 @@ The data described in the following section were obtained using DEPAKOTE (divalp
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, DEPAKOTE was generally well tolerated with most adverse events rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the DEPAKOTE-treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 1 lists treatment-emergent adverse events which were reported by ≥ 5% of DEPAKOTE-treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for the treatment of complex partial seizures.
+Table 2 lists treatment-emergent adverse events which were reported by ≥ 5% of DEPAKOTE-treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for the treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse events can be ascribed to DEPAKOTE alone, or the combination of DEPAKOTE and other antiepilepsy drugs.
 
-Table 1.
+Table 2.
 Adverse Events Reported by ≥ 5% of Patients Treated with DEPAKOTE During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
 | Body System/Event | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
@@ -47,10 +47,10 @@ Adverse Events Reported by ≥ 5% of Patients Treated with DEPAKOTE During Place
 | Alopecia | 6 | 1 |
 | Weight Loss | 6 | 0 |
 
-Table 2 lists treatment-emergent adverse events which were reported by ≥ 5% of patients in the high dose DEPAKOTE group, and for which the incidence was greater than in the low dose group, in a controlled trial of DEPAKOTE monotherapy treatment of complex partial seizures.
+Table 3 lists treatment-emergent adverse events which were reported by ≥ 5% of patients in the high dose DEPAKOTE group, and for which the incidence was greater than in the low dose group, in a controlled trial of DEPAKOTE monotherapy treatment of complex partial seizures.
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse events can be ascribed to DEPAKOTE alone, or the combination of DEPAKOTE and other antiepilepsy drugs.
 
-Table 2.
+Table 3.
 Adverse Events Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of DEPAKOTE Monotherapy for Complex Partial Seizures1
 
 | Body System/Event | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
@@ -162,7 +162,7 @@ Several reports have noted reversible cerebral atrophy and dementia in associati
 ### Dermatologic
 
 Transient hair loss, skin rash, photosensitivity, generalized pruritus, erythema multiforme, and Stevens-Johnson syndrome.
-Rare cases of toxic epidermal necrolysis have been reported including a fatal case in a 6 monthold infant taking valproate and several other concomitant medications.
+Rare cases of toxic epidermal necrolysis have been reported including a fatal case in a 6 month old infant taking valproate and several other concomitant medications.
 An additional case of toxic epidermal necrosis resulting in death was reported in a 35 year old patient with AIDS taking several concomitant medications and with a history of multiple cutaneous drug reactions.
 Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate (see PRECAUTIONS - Drug Interactions).
 
