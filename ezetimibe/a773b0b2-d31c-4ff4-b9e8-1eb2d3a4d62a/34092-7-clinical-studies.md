@@ -5,9 +5,7 @@
 ZETIA reduces total-C, LDL-C, Apo B, and TG, and increases HDL-C in patients with hyperlipidemia.
 Maximal to near maximal response is generally achieved within 2 weeks and maintained during chronic therapy.
 
-Monotherapy
-
-In two multicenter, double-blind, placebo-controlled, 12-week studies in 1719 patients with primary hyperlipidemia, ZETIA significantly lowered total-C, LDL-C, Apo B, and TG, and increased HDL-C compared to placebo (see Table 6).
+Monotherapy: In 2 multicenter, double-blind, placebo-controlled, 12-week studies in 1719 patients with primary hyperlipidemia, ZETIA significantly lowered total-C, LDL-C, Apo B, and TG, and increased HDL-C compared to placebo (see Table 6).
 Reduction in LDL-C was consistent across age, sex, and baseline LDL-C.
 
 TABLE 6: Response to ZETIA in Patients with Primary Hyperlipidemia (MeanFor triglycerides, median % change from baseline % Change from Untreated BaselineBaseline - on no lipid-lowering drug)
@@ -21,29 +19,22 @@ TABLE 6: Response to ZETIA in Patients with Primary Hyperlipidemia (MeanFor trig
 | Pooled Data (Studies 1 & 2) | Placebo | 431 | 0 | +1 | -2 | 0 | -2 |
 | Ezetimibe | 1288 | -13 | -18 | -16 | -8 | +1 |  |
 
-Combination with Statins
-
-ZETIA Added to On-going Statin Therapy
-
-In a multicenter, double-blind, placebo-controlled, 8-week study, 769 patients with primary hyperlipidemia, known coronary heart disease or multiple cardiovascular risk factors who were already receiving statin monotherapy, but who had not met their NCEP ATP II target LDL-C goal were randomized to receive either ZETIA or placebo in addition to their on-going statin.
+Combination with Statins: ZETIA Added to On-going Statin Therapy: In a multicenter, double-blind, placebo-controlled, 8-week study, 769 patients with primary hyperlipidemia, known coronary heart disease, or multiple cardiovascular risk factors who were already receiving statin monotherapy, but who had not met their NCEP ATP II target LDL-C goal, were randomized to receive either ZETIA or placebo in addition to their on-going statin.
 
 ZETIA, added to on-going statin therapy, significantly lowered total-C, LDL-C, Apo B, and TG, and increased HDL-C compared with a statin administered alone (see Table 7).
 LDL-C reductions induced by ZETIA were generally consistent across all statins.
 
-TABLE 7: Response to Addition of ZETIA to On-Going Statin TherapyPatients receiving each statin: 40% atorvastatin, 31% simvastatin, 29% others (pravastatin, fluvastatin, cerivastatin, lovastatin) in Patients with Hyperlipidemia (MeanFor triglycerides, median % change from baseline % Change from Treated BaselineBaseline - on a statin alone.)
+TABLE 7: Response to Addition of ZETIA to On-Going Statin TherapyPatients receiving each statin: 40% atorvastatin, 31% simvastatin, 29% others (pravastatin, fluvastatin, cerivastatin, lovastatin) in Patients with Hyperlipidemia (MeanFor triglycerides, median % change from baseline % Change from Treated BaselineBaseline - on a statin alone)
 
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- |
 | On-going Statin + PlaceboZETIA + statin significantly reduced total-C, LDL-C, Apo B, and TG, and increased HDL-C compared to statin alone. | 390 | -2 | -4 | -3 | -3 | +1 |
 | On-going Statin + ZETIA | 379 | -17 | -25 | -19 | -14 | +3 |
 
-ZETIA Initiated Concurrently with a Statin
-
-In four multicenter, double-blind, placebo-controlled, 12-week trials, in 2382 hyperlipidemic patients, ZETIA or placebo was administered alone or with various doses of atorvastatin, simvastatin, pravastatin, or lovastatin.
+ZETIA Initiated Concurrently with a Statin: In 4 multicenter, double-blind, placebo-controlled, 12-week trials in 2382 hyperlipidemic patients, ZETIA or placebo was administered alone or with various doses of atorvastatin, simvastatin, pravastatin, or lovastatin.
 
 When all patients receiving ZETIA with a statin were compared to all those receiving the corresponding statin alone, ZETIA significantly lowered total-C, LDL-C, Apo B, and TG, and, with the exception of pravastatin, increased HDL-C compared to the statin administered alone.
-LDL-C reductions induced by ZETIA were generally consistent across all statins.
-(See footnote, Tables 8 to 11.)
+LDL-C reductions induced by ZETIA were generally consistent across all statins (see footnote, Tables 8–11).
 
 TABLE 8: Response to ZETIA and Atorvastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (MeanFor triglycerides, median % change from baseline % Change from Untreated BaselineBaseline - on no lipid-lowering drug)
 
@@ -109,9 +100,7 @@ TABLE 11: Response to ZETIA and Lovastatin Initiated Concurrently in Patients wi
 | Pooled data (All Lovastatin Doses)ZETIA + all doses of lovastatin pooled (10–40 mg) significantly reduced total-C, LDL-C, Apo B, and TG, and increased HDL-C compared to all doses of lovastatin pooled (10–40 mg). | 220 | -18 | -25 | -21 | -12 | +4 |
 | Pooled data (All ZETIA + Lovastatin Doses) | 192 | -29 | -40 | -33 | -25 | +9 |
 
-Combination with Fenofibrate
-
-In a multicenter, double-blind, placebo-controlled, clinical study in patients with mixed hyperlipidemia, 625 patients were treated for up to 12 weeks and 576 for up to an additional 48 weeks.
+Combination with Fenofibrate: In a multicenter, double-blind, placebo-controlled, clinical study in patients with mixed hyperlipidemia, 625 patients were treated for up to 12 weeks and 576 for up to an additional 48 weeks.
 Patients were randomized to receive placebo, ZETIA alone, 160 mg fenofibrate alone, or ZETIA and 160 mg fenofibrate in the 12-week study.
 After completing the 12-week study, eligible patients were assigned to ZETIA co-administered with fenofibrate or fenofibrate monotherapy for an additional 48 weeks.
 
@@ -133,7 +122,7 @@ The changes in lipid endpoints after an additional 48 weeks of treatment with ZE
 
 A study was conducted to assess the efficacy of ZETIA in the treatment of HoFH.
 This double-blind, randomized, 12-week study enrolled 50 patients with a clinical and/or genotypic diagnosis of HoFH, with or without concomitant LDL apheresis, already receiving atorvastatin or simvastatin (40 mg).
-Patients were randomized to one of three treatment groups, atorvastatin or simvastatin (80 mg), ZETIA administered with atorvastatin or simvastatin (40 mg), or ZETIA administered with atorvastatin or simvastatin (80 mg).
+Patients were randomized to 1 of 3 treatment groups, atorvastatin or simvastatin (80 mg), ZETIA administered with atorvastatin or simvastatin (40 mg), or ZETIA administered with atorvastatin or simvastatin (80 mg).
 Due to decreased bioavailability of ezetimibe in patients concomitantly receiving cholestyramine [see Drug Interactions (7.1)], ezetimibe was dosed at least 4 hours before or after administration of resins.
 Mean baseline LDL-C was 341 mg/dL in those patients randomized to atorvastatin 80 mg or simvastatin 80 mg alone and 316 mg/dL in the group randomized to ZETIA plus atorvastatin 40 or 80 mg or simvastatin 40 or 80 mg.
 ZETIA, administered with atorvastatin or simvastatin (40 and 80 mg statin groups, pooled), significantly reduced LDL-C (21%) compared with increasing the dose of simvastatin or atorvastatin monotherapy from 40 to 80 mg (7%).
@@ -142,15 +131,13 @@ In those treated with ZETIA plus 80 mg atorvastatin or with ZETIA plus 80 mg sim
 ## 14.3 Homozygous Sitosterolemia (Phytosterolemia)
 
 A study was conducted to assess the efficacy of ZETIA in the treatment of homozygous sitosterolemia.
-In this multicenter, double-blind, placebo-controlled, 8-week trial, 37 patients with homozygous sitosterolemia with elevated plasma sitosterol levels (>5 mg/dL) on their current therapeutic regimen (diet, bile-acid-binding resins, statins, ileal bypass surgery and/or LDL apheresis), were randomized to receive ZETIA (n=30) or placebo (n=7).
+In this multicenter, double-blind, placebo-controlled, 8-week trial, 37 patients with homozygous sitosterolemia with elevated plasma sitosterol levels (>5 mg/dL) on their current therapeutic regimen (diet, bile-acid-binding resins, statins, ileal bypass surgery, and/or LDL apheresis) were randomized to receive ZETIA (n=30) or placebo (n=7).
 Due to decreased bioavailability of ezetimibe in patients concomitantly receiving cholestyramine [see Drug Interactions (7.1)], ezetimibe was dosed at least 2 hours before or 4 hours after resins were administered.
-Excluding the one subject receiving LDL apheresis, ZETIA significantly lowered plasma sitosterol and campesterol, by 21% and 24% from baseline, respectively.
+Excluding the 1 subject receiving LDL apheresis, ZETIA significantly lowered plasma sitosterol and campesterol, by 21% and 24% from baseline, respectively.
 In contrast, patients who received placebo had increases in sitosterol and campesterol of 4% and 3% from baseline, respectively.
 For patients treated with ZETIA, mean plasma levels of plant sterols were reduced progressively over the course of the study.
 The effects of reducing plasma sitosterol and campesterol on reducing the risks of cardiovascular morbidity and mortality have not been established.
 
 Reductions in sitosterol and campesterol were consistent between patients taking ZETIA concomitantly with bile acid sequestrants (n=8) and patients not on concomitant bile acid sequestrant therapy (n=21).
 
-Limitations of Use
-
-The effect of ZETIA on cardiovascular morbidity and mortality has not been determined.
+Limitations of Use: The effect of ZETIA on cardiovascular morbidity and mortality has not been determined.

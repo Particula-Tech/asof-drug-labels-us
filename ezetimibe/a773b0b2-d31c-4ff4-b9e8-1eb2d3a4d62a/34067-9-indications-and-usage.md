@@ -5,18 +5,12 @@ Drug therapy is indicated as an adjunct to diet when the response to a diet rest
 
 ## 1.1 Primary Hyperlipidemia
 
-Monotherapy
-
-ZETIACOPYRIGHT © 2001, 2002, 2005, 2007, 2008 Merck/Schering-Plough Pharmaceuticals.
+Monotherapy: ZETIACOPYRIGHT © 2001, 2002, 2005, 2007, 2008 Merck/Schering-Plough Pharmaceuticals.
 All rights reserved., administered alone, is indicated as adjunctive therapy to diet for the reduction of elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), and apolipoprotein B (Apo B) in patients with primary (heterozygous familial and non-familial) hyperlipidemia.
 
-Combination Therapy with HMG-CoA Reductase Inhibitors (Statins)
+Combination Therapy with HMG-CoA Reductase Inhibitors (Statins): ZETIA, administered in combination with a 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitor (statin), is indicated as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, and Apo B in patients with primary (heterozygous familial and non-familial) hyperlipidemia.
 
-ZETIA, administered in combination with a 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitor (statin), is indicated as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, and Apo B in patients with primary (heterozygous familial and non-familial) hyperlipidemia.
-
-Combination Therapy with Fenofibrate
-
-ZETIA, administered in combination with fenofibrate, is indicated as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, Apo B, and non-high-density lipoprotein cholesterol (non-HDL-C) in adult patients with mixed hyperlipidemia.
+Combination Therapy with Fenofibrate: ZETIA, administered in combination with fenofibrate, is indicated as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, Apo B, and non-high-density lipoprotein cholesterol (non-HDL-C) in adult patients with mixed hyperlipidemia.
 
 ## 1.2 Homozygous Familial Hypercholesterolemia (HoFH)
 

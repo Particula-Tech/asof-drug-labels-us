@@ -17,7 +17,7 @@ Should an increase in ALT or AST ≥3 × ULN persist, consider withdrawal of ZET
 
 In clinical trials, there was no excess of myopathy or rhabdomyolysis associated with ZETIA compared with the relevant control arm (placebo or statin alone).
 However, myopathy and rhabdomyolysis are known adverse reactions to statins and other lipid-lowering drugs.
-In clinical trials, the incidence of creatine phosphokinase (CPK) >10 × ULN was 0.2% for ZETIA vs 0.1% for placebo, and 0.1% for ZETIA co-administered with a statin vs 0.4% for statins alone.
+In clinical trials, the incidence of creatine phosphokinase (CPK) >10 × ULN was 0.2% for ZETIA vs. 0.1% for placebo, and 0.1% for ZETIA co-administered with a statin vs. 0.4% for statins alone.
 Risk for skeletal muscle toxicity increases with higher doses of statin, advanced age (>65), hypothyroidism, renal impairment, and depending on the statin used, concomitant use of other drugs.
 
 In post-marketing experience with ZETIA, cases of myopathy and rhabdomyolysis have been reported.
@@ -28,5 +28,4 @@ The presence of muscle symptoms and a CPK level >10 × the ULN indicates myopath
 
 ## 5.4 Hepatic Impairment
 
-Due to the unknown effects of the increased exposure to ezetimibe in patients with moderate to severe hepatic impairment, ZETIA is not recommended in these patients.
-[See Clinical Pharmacology (12.3).]
+Due to the unknown effects of the increased exposure to ezetimibe in patients with moderate to severe hepatic impairment, ZETIA is not recommended in these patients [see Clinical Pharmacology (12.3)].

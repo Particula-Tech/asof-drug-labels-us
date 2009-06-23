@@ -6,7 +6,7 @@ Patients should be advised to adhere to their National Cholesterol Education Pro
 
 ## 17.1 Muscle Pain
 
-All patients starting therapy with ezetimibe should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness or weakness.
+All patients starting therapy with ezetimibe should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness.
 The risk of this occurring is increased when taking certain types of medication.
 Patients should discuss all medication, both prescription and over-the-counter, with their physician.
 
@@ -27,9 +27,9 @@ Patients who have a lipid disorder and are breastfeeding should be advised to di
 
 ## 17.5 FDA-approved Patient Labeling
 
-32147020T REV 18
+32147046T REV 20
 
-Issued January 2009 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
+Issued May 2009 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA By: Schering Corporation Kenilworth, NJ 07033, USA or Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
@@ -61,7 +61,7 @@ Who should not take ZETIA?
 - Do not take ZETIA if you are allergic to ezetimibe, the active ingredient in ZETIA, or to the inactive ingredients.
   For a list of inactive ingredients, see the "Inactive ingredients" section that follows.
 - If you have active liver disease, do not take ZETIA while taking cholesterol-lowering medicines called statins.
-- If you are pregnant or breast-feeding, do not take ZETIA while taking a statin.
+- If you are pregnant or breastfeeding, do not take ZETIA while taking a statin.
 - If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using ZETIA added to statin therapy.
 
 ZETIA has not been studied in children under age 10.
@@ -78,7 +78,7 @@ Tell your doctor if you:
   ZETIA may not be right for you.
 - are pregnant or plan to become pregnant.
   Your doctor will discuss with you whether ZETIA is right for you.
-- are breast-feeding.
+- are breastfeeding.
   We do not know if ZETIA can pass to your baby through your milk.
   Your doctor will discuss with you whether ZETIA is right for you.
 - experience unexplained muscle pain, tenderness, or weakness.
@@ -107,7 +107,7 @@ Patients have experienced severe muscle problems while taking ZETIA, usually whe
 If you experience unexplained muscle pain, tenderness, or weakness while taking ZETIA, contact your doctor immediately.
 You need to do this promptly, because on rare occasions, these muscle problems can be serious, with muscle breakdown resulting in kidney damage.
 
-Additionally, the following side effects have been reported in general use: allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing, rash, and hives; joint pain; muscle aches; alterations in some laboratory blood tests; liver problems; stomach pain; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; headache; gallstones; inflammation of the gallbladder.
+Additionally, the following side effects have been reported in general use: allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing, rash, and hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle aches; alterations in some laboratory blood tests; liver problems; stomach pain; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; headache; gallstones; inflammation of the gallbladder.
 
 Tell your doctor if you are having these or any other medical problems while on ZETIA.
 For a complete list of side effects, ask your doctor or pharmacist.
@@ -141,9 +141,9 @@ Inactive ingredients:
 
 Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 
-29480850 T REV 18
+29480877T REV 20
 
-Issued January 2009 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
+Issued May 2009 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA By: Schering Corporation Kenilworth, NJ 07033, USA or Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
