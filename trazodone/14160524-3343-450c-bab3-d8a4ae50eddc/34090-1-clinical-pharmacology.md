@@ -20,7 +20,7 @@ Other metabolic pathways that may be involved in metabolism of trazodone have no
 
 ### Elimination
 
-In some patients DESYREL may accumulate in the plasma.
+In some patients, DESYREL may accumulate in the plasma.
 
 ## Drug-Drug Interactions
 
@@ -31,8 +31,8 @@ The Cmax of trazodone increased by 34%, the AUC increased 2.4-fold, the half-lif
 Adverse effects including nausea, hypotension, and syncope were observed when ritonavir and trazodone were co-administered.
 
 Carbamazepine induces CYP3A4.
-Following co-administration of carbamazepine 400 mg/day with trazodone 100 mg to 300 mg daily, carbamazepine reduced plasma concentrations of trazodone (as well as mCPP) by 76 and 60%, respectively, compared to pre-carbamazepine values.
+Following co-administration of carbamazepine 400 mg/day with trazodone 100 mg to 300 mg daily, carbamazepine reduced plasma concentrations of trazodone (as well as mCPP) by 76% and 60%, respectively, compared to pre-carbamazepine values.
 
 For those patients who responded to DESYREL, one-third of the inpatients and one-half of the outpatients had a significant therapeutic response by the end of the first week of treatment.
 Three-fourths of all responders demonstrated a significant therapeutic effect by the end of the second week.
-One-fourth of responders required 2–4 weeks for a significant therapeutic response.
+One-fourth of responders required 2 to 4 weeks for a significant therapeutic response.

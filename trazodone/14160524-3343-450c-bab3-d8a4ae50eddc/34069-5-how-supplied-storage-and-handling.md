@@ -13,6 +13,6 @@ NDC 0087-0796-41 Bottles of 100
 ## Storage
 
 Store at room temperature.
-Protect from temperatures above 104° F (40° C).
+Protect from temperatures above 104°F (40°C).
 
 Dispense in tight, light-resistant container (USP).

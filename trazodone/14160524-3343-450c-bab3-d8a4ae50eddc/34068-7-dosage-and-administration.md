@@ -11,7 +11,7 @@ Twenty-five percent of those who respond to DESYREL require more than two weeks 
 An initial dose of 150 mg/day in divided doses is suggested.
 The dose may be increased by 50 mg/day every three to four days.
 The maximum dose for outpatients usually should not exceed 400 mg/day in divided doses.
-Inpatients (i.e., more severely depressed patients) may be given up to but not in excess of 600 mg/day in divided doses.
+Inpatients (ie, more severely depressed patients) may be given up to but not in excess of 600 mg/day in divided doses.
 
 ## Maintenance
 

@@ -11,7 +11,7 @@ The average risk of such events in patients receiving antidepressants was 4%, tw
 There was considerable variation in risk among drugs, but a tendency toward an increase for almost all drugs studied.
 The risk of suicidality was most consistently observed in the MDD trials, but there were signals of risk arising from some trials in other psychiatric indications (obsessive compulsive disorder and social anxiety disorder) as well.
 No suicides occurred in any of these trials.
-It is unknown whether the suicidality risk in pediatric patients extends to longer-term use, i.e., beyond several months.
+It is unknown whether the suicidality risk in pediatric patients extends to longer-term use, ie, beyond several months.
 It is also unknown whether the suicidality risk extends to adults.
 
 All pediatric patients being treated with antidepressants for any indication should be observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
@@ -42,13 +42,13 @@ TRAZODONE HAS BEEN ASSOCIATED WITH THE OCCURRENCE OF PRIAPISM.
 IN MANY OF THE CASES REPORTED, SURGICAL INTERVENTION WAS REQUIRED AND, IN A SOME OF THESE CASES, PERMANENT IMPAIRMENT OF ERECTILE FUNCTION OR IMPOTENCE RESULTED.
 MALE PATIENTS WITH PROLONGED OR INAPPROPRIATE ERECTIONS SHOULD IMMEDIATELY DISCONTINUE THE DRUG AND CONSULT THEIR PHYSICIAN.
 
-The detumescence of priapism and drug-induced penile erections has been accomplished by both pharmacologic, e.g., the intracavernosal injection of alpha-adrenergic stimulants such as epinephrine and norepinephrine, as well as surgical procedures.b-g Any pharmacologic or surgical procedure utilized in the treatment of priapism should be performed under the supervision of a urologist or a physician familiar with the procedure and should not be initiated without urologic consultation if the priapism has persisted for more than 24 hours.
+The detumescence of priapism and drug-induced penile erections has been accomplished by both pharmacologic, eg, the intracavernosal injection of alpha-adrenergic stimulants such as epinephrine and norepinephrine, as well as surgical procedures.2-7 Any pharmacologic or surgical procedure utilized in the treatment of priapism should be performed under the supervision of a urologist or a physician familiar with the procedure and should not be initiated without urologic consultation if the priapism has persisted for more than 24 hours.
 
 DESYREL (trazodone hydrochloride) is not recommended for use during the initial recovery phase of myocardial infarction.
 
 Caution should be used when administering DESYREL to patients with cardiac disease, and such patients should be closely monitored, since antidepressant drugs (including DESYREL) have been associated with the occurrence of cardiac arrhythmias.
 Recent clinical studies in patients with pre-existing cardiac disease indicate that DESYREL may be arrhythmogenic in some patients in that population.
-Arrhythmias identified include isolated PVCs, ventricular couplets, and in two patients short episodes (3–4 beats) of ventricular tachycardia.
+Arrhythmias identified include isolated PVCs, ventricular couplets, and in two patients, short episodes (3–4 beats) of ventricular tachycardia.
 
 # PRECAUTIONS
 
@@ -74,7 +74,7 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking DESYREL.
 
-### Clinical Worsening and Suicide Risk:
+### Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
@@ -125,8 +125,8 @@ No drug- or dose-related occurrence of carcinogenesis was evident in rats receiv
 
 ## Pregnancy Category C
 
-DESYREL has been shown to cause increased fetal resorption and other adverse effects on the fetus in two studies using the rat when given at dose levels approximately 30–50 times the proposed maximum human dose.
-There was also an increase in congenital anomalies in one of three rabbit studies at approximately 15–50 times the maximum human dose.
+DESYREL has been shown to cause increased fetal resorption and other adverse effects on the fetus in two studies using the rat when given at dose levels approximately 30 to 50 times the proposed maximum human dose.
+There was also an increase in congenital anomalies in one of three rabbit studies at approximately 15 to 50 times the maximum human dose.
 There are no adequate and well-controlled studies in pregnant women.
 DESYREL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -137,6 +137,6 @@ Caution should be exercised when DESYREL is administered to a nursing woman.
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS—Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 
 Anyone considering the use of DESYREL in a child or adolescent must balance the potential risks with the clinical need.

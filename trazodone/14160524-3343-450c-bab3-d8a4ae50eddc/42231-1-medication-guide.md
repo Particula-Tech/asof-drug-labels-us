@@ -1,8 +1,6 @@
 DESYREL® (Trazodone Hydrochloride) TABLETS
 
-Medication Guide
-
-About Using Antidepressants in Children and Teenagers
+Medication Guide About Using Antidepressants in Children and Teenagers
 
 What is the most important information I should know if my child is being prescribed an antidepressant?
 
@@ -41,7 +39,7 @@ If any of these are present, make sure you tell your healthcare provider before 
 How to Try to Prevent Suicidal Thoughts and Actions
 
 To try to prevent suicidal thought and actions in your child, pay close attention to changes in her or his moods or actions, especially if the changes occur suddenly.
-Other important people in your child’s life can help by paying attention as well (e.g., your child, brothers and sisters, teachers, and other important people).
+Other important people in your child’s life can help by paying attention as well (eg, your child, brothers and sisters, teachers, and other important people).
 The changes to look out for are listed in Section 3, on what to watch for.
 
 Whenever an antidepressant is started or its dose is changed, pay close attention to your child.
@@ -50,14 +48,14 @@ After starting an antidepressant, your child should generally see his or her hea
 
 - Once a week for the first 4 weeks
 - Every 2 weeks for the next 4 weeks
-- After taking the antidepressant for 12th weeks
+- After taking the antidepressant for 12 weeks
 - After 12 weeks, follow your healthcare provider’s advice about how often to come back
 - More often if problems or questions arise (see Section 3)
 
 You should call your child’s healthcare provider between visits if needed.
 
 3.
-You Should Watch For Certain Signs If Your Child is Taking an Antidepressant
+You Should Watch For Certain Signs if Your Child is Taking an Antidepressant
 
 Contact your child’s healthcare provider right away if your child exhibits any of the following signs for the first time, or if they seem worse, or worry you, your child, or your child’s teacher:
 
@@ -102,6 +100,9 @@ Be sure to ask your healthcare provider to explain all the side effects of the p
 Also ask about drugs to avoid when taking an antidepressant.
 Ask your healthcare provider or pharmacist where to find more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 Prozac® is a registered trademark of Eli Lilly and Company
 
 Zoloft® is a registered trademark of Pfizer Pharmaceuticals
@@ -110,4 +111,4 @@ Anafranil® is a registered trademark of Mallinckrodt Inc.
 
 This Medication Guide has been approved by the U. S. Food and Drug Administration for all antidepressants.
 
-Revised January 26, 2005
+Rev February 2009

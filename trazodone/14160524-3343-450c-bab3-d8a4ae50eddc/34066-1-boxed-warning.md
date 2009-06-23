@@ -1,4 +1,4 @@
-# Suicidality in Children and Adolescents
+# SUICIDALITY IN CHILDREN AND ADOLESCENTS
 
 Antidepressants increase the risk of suicidal thinking and behavior (suicidality) in short-term studies in children and adolescents with Major Depressive Disorder (MDD) and other psychiatric disorders.
 Anyone considering the use of DESYREL or any other antidepressant in a child or adolescent must balance this risk with the clinical need.
