@@ -18,7 +18,7 @@ Ciprofloxacin tablets should be administered orally to adults as described in th
 The determination of dosage for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative organism, the integrity of the patient’s host-defense mechanisms, and the status of renal function and hepatic function.
 The duration of treatment depends upon the severity of infection.
 The usual duration is 7 to 14 days; however, for severe and complicated infections more prolonged therapy may be required.
-Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, or sucralfate, Videx ® (didanosine) chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
+Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, or sucralfate, didanosine chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
 
 | Infection | Severity | Dose | Frequency | Usual Durations† |
 | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ PEDIATRIC DOSAGE GUIDELINES
 
 | Infection | Route of Administration | Dose (mg/kg) | Frequency | Total Duration |
 | --- | --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis | Intravenous | 6 to 10 mg/kg (maximum 400 mg perdose; not to be exceededeven in patients weighing > 51 kg) | Every 8 hours | 10-21 days* |
+| Complicated Urinary Tract or Pyelonephritis | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 days* |
 | (patients from 1 to 17 years of age) | Oral | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |
 | Inhalational Anthrax (Post-Exposure)** | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
 | Oral | 15 mg/kg(maximum 500 mg per dose) | Every 12 hours |  |  |

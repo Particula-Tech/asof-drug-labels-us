@@ -1,5 +1,17 @@
 # WARNINGS
 
+## Tendinopathy and Tendon Rupture
+
+Fluoroquinolones, including ciprofloxacin, are associated with an increased risk of tendinitis and tendon rupture in all ages.
+This adverse reaction most frequently involves the Achilles tendon, and rupture of the Achilles tendon may require surgical repair.
+Tendinitis and tendon rupture in the rotater cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites have also been reported.
+The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+Factors, in addition to age and corticosteroid use, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
+Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
+Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
+Ciprofloxacin should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
+
 ## Pregnant Women
 
 THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
@@ -56,7 +68,7 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (SeePRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
+The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
 
 ## Pseudomembranous Colitis
 
@@ -75,14 +87,6 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
 Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
-
-## Tendon Effects
-
-Ruptures of the shoulder, hand, Achilles tendon or other tendons that required surgical repair or resulted in prolonged disability have been reported in patients receiving quinolones, including ciprofloxacin.
-Post-marketing surveillance reports indicate that this risk may be increased in patients receiving concomitant corticosteroids, especially the elderly.
-Ciprofloxacin should be discontinued if the patient experiences pain, inflammation, or rupture of a tendon.
-Patients should rest and refrain from exercise until the diagnosis of tendinitis or tendon rupture has been excluded.
-Tendon rupture can occur during or after therapy with quinolones, including ciprofloxacin.
 
 ## Syphilis
 
@@ -106,7 +110,7 @@ Renal Impairment Alteration of the dosage regimen is necessary for patients with
 (See DOSAGE AND ADMINISTRATION .)
 Photosensitivity/Phototoxicity Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if photosensitivity/phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Events ).
+Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS and ADVERSE REACTIONS/Post-Marketing Adverse Events) .
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -114,26 +118,25 @@ Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspect
 
 Patients should be advised:
 
+- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin treatment.
+  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - that antibacterial drugs including ciprofloxacin tablets should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When ciprofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
   Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ciprofloxacin tablets or other antibacterial drugs in the future.
 - that ciprofloxacin may be taken with or without meals and to drink fluids liberally.
-  As with other quinolones, concurrent administration of ciprofloxacin with magnesium/aluminum antacids, or sucralfate, Videx® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, or with other products containing calcium, iron or zinc should be avoided.
+  As with other quinolones, concurrent administration of ciprofloxacin with magnesium/aluminum antacids, or sucralfate, didanosine chewable/buffered tablets or pediatric powder, other highly buffered drugs, or with other products containing calcium, iron or zinc should be avoided.
   Ciprofloxacin may be taken two hours before or six hours after taking these products.
   Ciprofloxacin should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin may be taken with a meal that contains these products.
 - that ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
-- that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
+- that photosensitivity/phototoxicity has been reported in patients receiving quinolone antibiotics.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
 - that peripheral neuropathies have been associated with ciprofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
-- to discontinue ciprofloxacin treatment; rest and refrain from exercise; and inform their physician if they experience pain, inflammation, or rupture of a tendon.
-  The risk of serious tendon disorders with quinolones is higher in those over 65 years of age, especially those on corticosteroids.
-- to discontinue treatment; rest and refrain from exercise; and inform their physician if they experience pain, inflammation, or rupture of a tendon.
 - that ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
-- that ciprofloxacin increase the effects of tizanidine (Zanaflex®).
+- that ciprofloxacin increase the effects of tizanidine.
   Patients should not use ciprofloxacin if they are already taking tizanidine.
 - that ciprofloxacin may increase the effects of theophylline and caffeine.
   There is a possibility of caffeine accumulation when products containing caffeine are consumed while taking quinolones.
@@ -141,7 +144,7 @@ Patients should be advised:
 - that ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
   Parents should inform their child’s physician if the child has a history of joint-related problems before taking this drug.
   Parents of pediatric patients should also notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy.
-  (See WARNINGS, PRECAUTIONS, Pediatric Use andADVERSE REACTIONS.)
+  (See WARNINGS, PRECAUTIONS, Pediatric Use and ADVERSE REACTIONS.)
 - that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
@@ -157,7 +160,7 @@ This may result in increased risk of theophylline-related adverse reactions.
 If concomitant use cannot be avoided, serum levels of theophylline should be monitored and dosage adjustments made as appropriate.
 Some quinolones, including ciprofloxacin, have also been shown to interfere with the metabolism of caffeine.
 This may lead to reduced clearance of caffeine and a prolongation of its serum half-life.
-Concurrent administration of a quinolone, including ciprofloxacin, with multivalent cation-containing products such as magnesium/aluminum antacids, sucralfate, Videx ® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, or products containing calcium, iron, or zinc may substantially decrease its absorption, resulting in serum and urine levels considerably lower than desired.
+Concurrent administration of a quinolone, including ciprofloxacin, with multivalent cation-containing products such as magnesium/aluminum antacids, sucralfate, didanosine chewable/buffered tablets or pediatric powder, other highly buffered drugs, or products containing calcium, iron, or zinc may substantially decrease its absorption, resulting in serum and urine levels considerably lower than desired.
 (See DOSAGE AND ADMINISTRATION for concurrent administration of these agents with ciprofloxacin.)
 Histamine H 2 -receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin.
 Altered serum levels of phenytoin (increased and decreased) have been reported in patients receiving concomitant ciprofloxacin.
@@ -258,6 +261,12 @@ However, the relationship of this event to the patient’s course of ciprofloxac
 
 ## Geriatric Use
 
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin.
+This risk is further increased in patients receiving concomitant corticosteroid therapy.
+Tendinitis or tendon rupture can involves the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
+Caution should be used when prescribing ciprofloxacin to elderly patients especially those on corticosteroids.
+Patients should be informed of this potential side effect and advised to discontinue ciprofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See Boxed Warning, WARNINGS and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
+
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
@@ -267,9 +276,3 @@ However, since some older individuals experience reduced renal function by virtu
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ciprofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g., class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia).
-
-Patients over 65 years of age are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin.
-This risk is further increased in patients receiving concomitant corticosteroid therapy.
-Tendon rupture usually involves the Achilles, hand, or shoulder tendons and can occur during therapy or up to a few months post completion of therapy.
-Caution should be used when prescribing ciprofloxacin to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue therapy and inform their physicians if any tendon symptoms occur.

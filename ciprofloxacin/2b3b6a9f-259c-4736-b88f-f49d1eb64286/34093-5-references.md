@@ -38,5 +38,4 @@ Evaluation of a case registry of the European network of teratology information 
 Eur J Obstet Gynecol Reprod Biol.
 1996;69:83-89.
 
-All brands listed are the trademarks of their respective owners and are not trade marks of Aurobindo Pharma Limited.
 Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India

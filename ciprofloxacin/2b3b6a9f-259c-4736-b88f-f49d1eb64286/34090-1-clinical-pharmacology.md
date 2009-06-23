@@ -21,7 +21,7 @@ A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produ
 
 | Steady-state Pharmacokinetic Parameters Following Multiple Oral and I.V. Doses |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Parameters AUC (mcg•hr/mL) Cmax (mcg/mL) | 500 mg q12h, P.O. 13.7a 2.97 | 400 mg q12h, I.V. 12.7a 4.56 | 750 mg q12h, P.O. 31.6a 3.59 | 400 mg q8h, I.V. 32.9c 4.07 |
+| Parameters AUC (mcg•hr/mL) Cmax (mcg/mL) | 500 mg q12h, P.O. 13.7a 2.97 | 400 mg q12h, I.V. 12.7a 4.56 | 750 mg q12h, P.O. 31.6b 3.59 | 400 mg q8h, I.V. 32.9c 4.07 |
 
 a AUC 0-12h b AUC 24h=AUC 0-12h x 2 c AUC 24h=AUC 0-8h x 3
 
@@ -40,7 +40,7 @@ Low levels of the drug have been detected in the aqueous and vitreous humors of 
 Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (See CONTRAINDICATIONS; WARNINGS; PRECAUTIONS: Drug Interactions ).
+Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (See CONTRAINDICATIONS ; WARNINGS; PRECAUTIONS: Drug Interactions ).
 
 ## Excretion
 
@@ -66,7 +66,7 @@ Concurrent administration of antacids containing magnesium hydroxide or aluminum
 (See PRECAUTIONS .)
 The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
 Concomitant administration with tizanidine is contraindicated.
-(See CONTRAINDICATIONS .)
+(See CONTRAINDICATIONS ).
 Concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
 Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
 (See WARNINGS: PRECAUTIONS .)
@@ -130,7 +130,7 @@ Quantitative methods are used to determine antimicrobial minimum inhibitory conc
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method 1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of ciprofloxacin powder.
-The MIC values should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus saprophyticus , penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
+The MIC values should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -148,7 +148,7 @@ For testing Haemophilus influenzae and Haemophilus parainfluenzae b :
 b This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium 1 .
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
-For testing Neisseria gonorrhoeaec:
+For testing Neisseria gonorrhoeae c :
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -174,14 +174,14 @@ Standard ciprofloxacin powder should provide the following MIC values:
 | P. aeruginosa | ATCC 27853 | 0.25 – 1 |
 | S. aureus | ATCC 29213 | 0.12 – 0.5 |
 
-a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM) 1 . b This quality control range is applicable to only N. gonorrhoeae ATCC 49226 tested by an agardilution procedure using GC agar base and 1% defined growth supplement.
+a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM) 1 . b This quality control range is applicable to only N. gonorrhoeae ATCC 49226 tested by an agar dilution procedure using GC agar base and 1% defined growth supplement.
 
 ### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure 2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of microorganisms to ciprofloxacin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg ciprofloxacin disk should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus saprophyticus , penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg ciprofloxacin disk should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -199,7 +199,7 @@ For testing Haemophilus influenzae and Haemophilus parainfluenzae b :
 b This zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM) 2 .
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
-For testing Neisseria gonorrhoeaec :
+For testing Neisseria gonorrhoeae c :
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
