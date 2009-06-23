@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Signs and Symptoms: There have been no reports of accidental overdosage.
+There have been no reports of accidental overdosage.
 In the event of overdosage it is expected that diarrhea and abdominal cramps would be the major symptoms.
 Medication should be terminated.
 

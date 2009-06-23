@@ -1,21 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
-Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portal-systemic encephalopathy.
-These actions are considered to be results of the following:
+Lactulose is poorly absorbed from the gastrointestinal tract and no enzyme capable of hydrolysis of this disaccharide is present in human gastrointestinal tissue.
+As a result, oral doses of Lactulose reach the colon virtually unchanged.
+In the colon, Lactulose is broken down primarily to lactic acid, and also to small amounts of formic and acetic acids, by the action of colonic bacteria, which results in an increase in osmotic pressure and slight acidification of the colonic contents.
+This in turn causes an increase in stool water content and softens the stool.
 
-Bacterial degradation of lactulose in the colon acidifies the colonic contents.
+Since Lactulose does not exert its effect until it reaches the colon, and since transit time through the colon may be slow, 24 to 48 hours may be required to produce the desired bowel movement.
 
-This acidification of colonic contents results in the retention of ammonia in the colon as the ammonium ion.
-Since the colonic contents are then more acid than the blood, ammonia can be expected to migrate from the blood into the colon to form the ammonium ion.
-
-The acid colonic contents convert NH3 to the ammonium ion (NH4)+, trapping it and preventing its absorption.
-
-The laxative action of the metabolites of lactulose then expels the trapped ammonium ion from the colon.
-
-Experimental data indicate that lactulose is poorly absorbed.
 Lactulose given orally to man and experimental animals resulted in only small amounts reaching the blood.
 Urinary excretion has been determined to be 3% or less and is essentially complete within 24 hours.
-
-When incubated with extracts of human small intestinal mucosa, lactulose was not hydrolyzed during a 24-hour period and did not inhibit the activity of these extracts on lactose.
-Lactulose reaches the colon essentially unchanged.
-There it is metabolized by bacteria with the formation of low molecular weight acids that acidify the colon contents.
