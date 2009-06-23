@@ -177,9 +177,9 @@ You can ask your doctor or pharmacist for information about Pacerone® Tablets t
 
 What are the ingredients in Pacerone®Tablets?
 
-Active Ingredient: amiodarone HCl, 200 mg
+Active Ingredient: amiodarone HCl, 100 mg and 200 mg
 
-Inactive Ingredients: lactose monohydrate, magnesium stearate, povidone, pregelatinized corn starch, sodium starch glycolate, stearic acid, FD&C Red 40 and FD&C Yellow 6.
+Inactive Ingredients: lactose monohydrate, magnesium stearate, povidone, pregelatinized corn starch, sodium starch glycolate, stearic acid, FD&C Red 40 (200 mg only) and FD&C Yellow 6.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -187,12 +187,10 @@ Rx only
 
 Manufactured by UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
 
-US Patent 5,785,995
-
 Tagamet is a registered trademark of SmithKline Beecham Pharmaceuticals Co.
 
 Claritin is a registered trademark of Schering Corporation.
 
 Alavert is a registered trademark of Wyeth.
 
-Revised 0508
+103003-00 R1208
