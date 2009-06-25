@@ -1,17 +1,39 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021411"
+  ],
   "inn": "atomoxetine",
   "labeler": "Eli Lilly and Company",
   "package_ndcs": [
+    "0002-3227-07",
     "0002-3227-30",
+    "0002-3228-07",
     "0002-3228-30",
+    "0002-3229-07",
     "0002-3229-30",
+    "0002-3238-07",
     "0002-3238-30",
+    "0002-3239-07",
     "0002-3239-30",
+    "0002-3250-07",
     "0002-3250-30",
-    "0002-3251-30"
+    "0002-3251-30",
+    "0002-5800-35",
+    "0002-5801-35",
+    "0002-5802-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "atomoxetine hydrochloride",
+      "name": "Strattera"
+    },
+    {
+      "form": "KIT",
+      "generic": "atomoxetine hydrochloride",
+      "name": "Strattera"
+    }
+  ],
   "setid": "309de576-c318-404a-bc15-660c2b1876fb",
   "source": "dailymed"
 }

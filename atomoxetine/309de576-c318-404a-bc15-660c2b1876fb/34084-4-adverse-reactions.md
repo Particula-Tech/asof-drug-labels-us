@@ -140,9 +140,7 @@ Cardiovascular system — QT prolongation, syncope.
 
 General disorders and administration site conditions — Lethargy.
 
-Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents.
-
-Psychiatric disorders — Sensory disturbances including hallucinations.
+Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory disturbances.
 
 Seizures — Seizures have been reported in the postmarketing period.
 The postmarketing seizure cases include patients with pre–existing seizure disorders and those with identified risk factors for seizures, as well as patients with neither a history of nor identified risk factors for seizures.

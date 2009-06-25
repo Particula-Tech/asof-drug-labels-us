@@ -26,10 +26,11 @@ Such monitoring should include daily observation by families and caregivers.
 
 ## 5.2 Severe Liver Injury
 
-Postmarketing reports indicate that STRATTERA can cause severe liver injury in rare cases.
+Postmarketing reports indicate that STRATTERA can cause severe liver injury.
 Although no evidence of liver injury was detected in clinical trials of about 6000 patients, there have been rare cases of clinically significant liver injury that were considered probably or possibly related to STRATTERA use in postmarketing experience.
 Because of probable underreporting, it is impossible to provide an accurate estimate of the true incidence of these reactions.
-In one patient, liver injury, manifested by elevated hepatic enzymes [up to 40 X upper limit of normal (ULN)] and jaundice (bilirubin up to 12 X ULN), recurred upon rechallenge, and was followed by recovery upon drug discontinuation, providing evidence that STRATTERA likely caused the liver injury.
+Reported cases of liver injury occurred within 120 days of initiation of atomoxetine in the majority of cases and some patients presented with markedly elevated liver enzymes [>20 X upper limit of normal (ULN)], and jaundice with significantly elevated bilirubin levels (>2 X ULN), followed by recovery upon atomoxetine discontinuation.
+In one patient, liver injury, manifested by elevated hepatic enzymes up to 40 X upper limit of normal ULN and jaundice with bilirubin up to 12 X ULN, recurred upon rechallenge, and was followed by recovery upon drug discontinuation, providing evidence that STRATTERA likely caused the liver injury.
 Such reactions may occur several months after therapy is started, but laboratory abnormalities may continue to worsen for several weeks after drug is stopped.
 The patient described above recovered from his liver injury, and did not require a liver transplant.
 However, severe liver injury due to any drug may potentially progress to acute liver failure resulting in death or the need for a liver transplant.

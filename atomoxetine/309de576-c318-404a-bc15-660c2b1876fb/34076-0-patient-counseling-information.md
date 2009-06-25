@@ -21,8 +21,8 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ## 17.3 Severe Liver Injury
 
-Patients initiating STRATTERA should be cautioned that severe liver injury may develop rarely.
-Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu–like” symptoms.
+Patients initiating STRATTERA should be cautioned that severe liver injury may develop.
+Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu–like” symptoms [see Warnings and Precautions (5.2)].
 
 ## 17.4 Aggression or Hostility
 
