@@ -22,7 +22,8 @@ SEP Question 2 asks, “Were you able to insert your penis into the partner's va
 SEP Question 3 asks, “Did your erection last long enough for you to have successful intercourse?”
 The overall percentage of successful attempts to insert the penis into the vagina (SEP2) and to maintain the erection for successful intercourse (SEP3) is derived for each patient.
 
-Results in ED Population in US Trials — The 2 primary US efficacy and safety trials included White, 14% Black, 7% Hispanic, and 1% of other ethnicities, and included patients with ED of various severities, etiologies (organic, psychogenic, mixed), and with multiple co-morbid conditions, including diabetes mellitus, hypertension, and other cardiovascular disease.
+Results in ED Population in US Trials — The 2 primary US efficacy and safety trials included a total of 402 men with erectile dysfunction, with a mean age of 59 years (range 27 to 87 years).
+The population was 78% White, 14% Black, 7% Hispanic, and 1% of other ethnicities, and included patients with ED of various severities, etiologies (organic, psychogenic, mixed), and with multiple co-morbid conditions, including diabetes mellitus, hypertension, and other cardiovascular disease.
 Most (>90%) patients reported ED of at least 1-year duration.
 Study A was conducted primarily in academic centers.
 Study B was conducted primarily in community-based urology practices.

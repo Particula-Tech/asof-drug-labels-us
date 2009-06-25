@@ -11,6 +11,7 @@ Four strengths of film-coated, almond-shaped tablets (not scored) are available 
 | Blisters of 2 x 15 | NDC 0002-4465-34 |
 | 5-mg tablets debossed with “C 5” |  |
 | Bottles of 10 | NDC 0002-4462-10 |
+| Bottles of 30 | NDC 0002-4462-30 |
 | Blisters of 2 x 15 | NDC 0002-4462-34 |
 | 10-mg tablets debossed with “C 10” |  |
 | Bottles of 30 | NDC 0002-4463-30 |

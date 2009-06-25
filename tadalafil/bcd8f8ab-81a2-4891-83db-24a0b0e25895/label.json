@@ -1,15 +1,30 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021368"
+  ],
   "inn": "tadalafil",
   "labeler": "Eli Lilly and Company",
   "package_ndcs": [
+    "0002-4462-01",
     "0002-4462-10",
+    "0002-4462-30",
     "0002-4462-34",
+    "0002-4462-79",
+    "0002-4463-01",
     "0002-4463-30",
+    "0002-4464-01",
     "0002-4464-30",
-    "0002-4465-34"
+    "0002-4465-01",
+    "0002-4465-34",
+    "0002-4465-79"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tadalafil",
+      "name": "Cialis"
+    }
+  ],
   "setid": "bcd8f8ab-81a2-4891-83db-24a0b0e25895",
   "source": "dailymed"
 }
