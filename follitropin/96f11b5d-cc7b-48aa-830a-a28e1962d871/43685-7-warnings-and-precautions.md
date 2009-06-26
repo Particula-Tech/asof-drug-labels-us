@@ -10,13 +10,16 @@ Accordingly, a lower starting dose for gonadotropin stimulation and dose adjustm
 In order to minimize the hazards associated with the occasional abnormal ovarian enlargement that may occur with Follistim® AQ Cartridge therapy, the lowest effective dose should be used (see DOSAGE AND ADMINISTRATION).
 Use of ultrasound monitoring of ovarian response and/or measurement of serum estradiol levels can further minimize the risk of overstimulation.
 
-If the ovaries are abnormally enlarged on the last day of treatment with Follistim® AQ Cartridge, hCG should not be administered in this course of treatment, to reduce the chances of developing Ovarian Hyperstimulation Syndrome (OHSS).
+If the ovaries are abnormally enlarged on the last day of treatment with Follistim®AQ Cartridge, hCG should not be administered in this course of treatment, to reduce the chances of developing Ovarian Hyperstimulation Syndrome (OHSS).
 
-Ovarian Hyperstimulation Syndrome (OHSS): OHSS is a medical entity distinct from uncomplicated ovarian enlargement and may progress rapidly to become a serious medical event.
+### Ovarian Hyperstimulation Syndrome (OHSS)
+
+OHSS is a medical entity distinct from uncomplicated ovarian enlargement and may progress rapidly to become a serious medical event.
 OHSS is characterized by a dramatic increase in vascular permeability, which can result in a rapid accumulation of fluid in the peritoneal cavity, thorax, and potentially, the pericardium.
 The early warning signs of OHSS developing are severe pelvic pain, nausea, vomiting, and weight gain.
 The following symptoms have been reported in cases of OHSS: abdominal pain, abdominal distension, gastrointestinal symptoms including nausea, vomiting and diarrhea, severe ovarian enlargement, weight gain, dyspnea, and oliguria.
 Clinical evaluation may reveal hypovolemia, hemoconcentration, electrolyte imbalances, ascites, hemoperitoneum, pleural effusions, hydrothorax, acute pulmonary distress, and thromboembolic events (see WARNINGS-Pulmonary and Vascular Complications).
+Transient liver function test abnormalities suggestive of hepatic dysfunction, which may be accompanied by morphologic changes on liver biopsy, have been reported in association with Ovarian Hyperstimulation Syndrome (OHSS).
 
 During clinical trials with Follistim® and Follistim® AQ Cartridge therapy, OHSS occurred in 60 (5.3%) of the 1132 women treated and of these 33 (2.9%) were hospitalized.
 Cases of OHSS are more common, more severe, and more protracted if pregnancy occurs; therefore, patients should be followed for at least two weeks after hCG administration.
@@ -38,16 +41,22 @@ Intercourse should be prohibited in patients with significant ovarian enlargemen
 The management of OHSS may be divided into three phases: an acute, a chronic, and a resolution phase.
 Because the use of diuretics can accentuate the diminished intravascular volume, diuretics should be avoided except in the late phase of resolution as described below.
 
-Acute Phase: Management during the acute phase should be directed at preventing hemoconcentration due to loss of intravascular volume to the third space and minimizing the risk of thromboembolic phenomena and kidney damage.
+### Acute Phase
+
+Management during the acute phase should be directed at preventing hemoconcentration due to loss of intravascular volume to the third space and minimizing the risk of thromboembolic phenomena and kidney damage.
 Treatment is intended to normalize electrolytes while maintaining an acceptable but somewhat reduced intravascular volume.
 Full correction of the intravascular volume deficit may lead to an unacceptable increase in the amount of third space fluid accumulation.
 
 Management includes administration of limited intravenous fluids, electrolytes, human serum albumin, and strict monitoring of fluid intake and output.
 Monitoring for the development of hyperkalemia is recommended.
 
-Chronic Phase: After stabilizing the patient during the acute phase, excessive fluid accumulation in the third space should be limited by instituting severe potassium, sodium, and fluid restriction.
+### Chronic Phase
 
-Resolution Phase: A fall in hematocrit and an increasing urinary output without an increased intake are observed due to the return of the third space fluid to the intravascular compartment.
+After stabilizing the patient during the acute phase, excessive fluid accumulation in the third space should be limited by instituting severe potassium, sodium, and fluid restriction.
+
+### Resolution Phase
+
+A fall in hematocrit and an increasing urinary output without an increased intake are observed due to the return of the third space fluid to the intravascular compartment.
 Peripheral and/or pulmonary edema may result if the kidneys are unable to excrete third space fluid as rapidly as it is mobilized.
 Diuretics may be indicated during the resolution phase, if necessary, to combat pulmonary edema.
 
@@ -91,29 +100,31 @@ The clinical evaluation of estrogenic activity (changes in vaginal cytology, cha
 The clinical confirmation of ovulation is obtained by direct and indirect indices of progesterone production.
 The indices most generally used are as follows:
 
-1. A rise in basal body temperature
-2. Increase in serum progesterone
-3. Menstruation following the shift in basal body temperature
+1. a)A rise in basal body temperature
+2. b)Increase in serum progesterone
+3. c)Menstruation following the shift in basal body temperature
 
 When used in conjunction with indices of progesterone production, sonographic visualization of the ovaries will assist in determining if ovulation has occurred.
 Sonographic evidence of ovulation may include the following:
 
-1. Fluid in the cul-de-sac
-2. Follicle showing marked decrease in size
-3. Collapsed follicle
+1. a)Fluid in the cul-de-sac
+2. b)Follicle showing marked decrease in size
+3. c)Collapsed follicle
 
 ## Drug Interactions
 
 No drug-drug interaction studies have been performed.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis and Mutagenesis, Impairment of Fertility
 
 Long-term toxicity studies in animals have not been performed with Follistim® AQ Cartridge (follitropin beta injection) to evaluate the carcinogenic potential of the drug.
 Follistim® (follitropin beta for injection) was not mutagenic in the Ames test using S. typhimurium and E. coli tester strains and did not produce chromosomal aberrations in an in vitro assay using human lymphocytes.
 
 ## Pregnancy
 
-Pregnancy Category X: (See CONTRAINDICATIONS).
+### Pregnancy Category X
+
+(See CONTRAINDICATIONS).
 
 ## Nursing Mothers
 
@@ -126,4 +137,4 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Clinical Studies did not include subjects aged 65 and over.
+Clinical studies did not include subjects aged 65 and over.

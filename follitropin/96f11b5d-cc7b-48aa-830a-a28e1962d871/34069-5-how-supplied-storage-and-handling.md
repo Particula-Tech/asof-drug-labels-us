@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Follistim® AQ Cartridge (follitropin beta injection) is supplied in a box containing disposable, 29 gauge, ultra-fine, 1/2-inch, sterile BD Micro-Fine™ Pen Needles (for use with Follistim Pen® available separately) and one disposable, blister packed, prefilled 1.5 mL colorless glass cartridge, with grey rubber piston and an aluminum crimp-cap with black rubber inlay and in the following presentations:
+Follistim® AQ Cartridge (follitropin beta injection) is supplied in a box containing disposable, 29 gauge, ultra-fine, ½-inch, sterile BD Micro-Fine™ Pen Needles (for use with Follistim Pen® available separately) and one disposable, blister packed, prefilled 1.5 mL colorless glass cartridge, with grey rubber piston and an aluminum crimp-cap with black rubber inlay and in the following presentations:
 
 | NDC 0052-0303-01 | Follistim® AQ Cartridge 175 IU/0.210 mL (delivering 150 IU) with orange crimp-caps and 3 BD Micro-Fine™ Pen Needles |
 | --- | --- |
@@ -15,16 +15,3 @@ Upon dispensing, the product may be stored by the patient at 2–8°C (36–46°
 Once the rubber inlay of the Follistim® AQ Cartridge has been pierced by a needle, the product can only be stored for a maximum of 28 days at 2–25°C (36–77°F).
 Protect from light.
 Do not freeze.
-
-For more information, call 1-866-836-5633
-
-Follistim® and Follistim Pen® are registered trademarks of N.V.
-Organon
-
-BD Micro-Fine™ is a trademark of Becton, Dickinson and Company
-
-Rx only
-
-Manufactured for Organon USA Inc. West Orange, NJ 07052 by Vetter Pharma-Fertigung GmbH & Co. KG Ravensburg, Germany and packaged by Organon (Ireland) Ltd., Swords Co. Dublin, Ireland
-
-©2005 Organon USA Inc.

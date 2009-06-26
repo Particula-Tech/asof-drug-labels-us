@@ -6,7 +6,7 @@ Rates of adverse events from an open-label, non-controlled, multicenter study in
 
 TABLE 4: Incidence of Adverse Clinical Experiences (≥5%)
 
-| Adverse Event | Follistim® AQ Cartridge (n=60) |
+| Adverse Event | Follistim® AQ Cartridge n=60 |
 | --- | --- |
 | Abdominal pain | 28% |
 | Flatulence | 27% |
@@ -26,7 +26,7 @@ Rates of adverse events from an open-label, non-controlled, multicenter study in
 
 TABLE 5: Incidence of Adverse Clinical Experiences (≥5%)
 
-| Adverse Event | Follistim® AQ Cartridge (n=43) |
+| Adverse Event | Follistim® AQ Cartridge n=43 |
 | --- | --- |
 | Ovarian hyperstimulation syndrome | 9% |
 | Abdominal pain | 5% |
