@@ -21,8 +21,8 @@ The clinical relevance of these decreases is unknown.
 
 The apparent volume of distribution (V/F) of metformin following single oral doses of metformin hydrochloride tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
 Metformin partitions into erythrocytes, most likely as a function of time.
-At usual clinical doses and dosing schedules of metformin hydrochloride tablets, steady state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 µg/mL.
-During controlled clinical trials of metformin hydrochloride tablets, maximum metformin plasma levels did not exceed 5 µg/mL, even at maximum doses.
+At usual clinical doses and dosing schedules of metformin hydrochloride tablets, steady state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
+During controlled clinical trials of metformin hydrochloride tablets, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
 
 ### Metabolism and Elimination
 
@@ -54,13 +54,13 @@ Metformin hydrochloride tablets treatment should not be initiated in patients �
 Table 1: Select Mean (±S.D.)
 Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of Metformin Hydrochloride Tablets
 
-| Subject Groups: Metformin Hydrochloride Tablets dosea (number of subjects) | Cmaxb (µg/mL) | Tmaxc (hrs) | Renal Clearance (mL/min) |
+| Subject Groups: Metformin Hydrochloride Tablets dosea (number of subjects) | Cmaxb (mcg/mL) | Tmaxc (hrs) | Renal Clearance (mL/min) |
 | --- | --- | --- | --- |
-| Healthy, nondiabetic adults: 500 mg single dose (24) 850 mg single dose (74)d 850 mg three times daily for 19 dosese (9) | 1.03 (±0.33) 1.60 (±0.38) 2.01 (±0.42) | 2.75 (±0.81) 2.64 (±0.82) 1.79 (±0.94) | 600 (±132) 552 (±139) 642 (±173) |
-| Adults with type 2 diabetes: 850 mg single dose (23) 850 mg three times daily for 19 dosese (9) | 1.48 (±0.5) 1.90 (±0.62) | 3.32 (±1.08) 2.01 (±1.22) | 491 (±138) 550 (±160) |
-| Elderlyf, healthy nondiabetic adults: 850 mg single dose (12) | 2.45 (±0.70) | 2.71 (±1.05) | 412 (±98) |
-| Renal-impaired adults: 850 mg single dose Mild (CLcrg 61-90 mL/min) (5) Moderate (CLcr 31-60 mL/min) (4) Severe (CLcr 10-30 mL/min) (6) | 1.86 (±0.52) 4.12 (±1.83) 3.93 (±0.92) | 3.20 (±0.45) 3.75 (±0.50) 4.01 (±1.10) | 384 (±122) 108 (±57) 130 (±90) |
-| a All doses given fasting except the first 18 doses of the multiple dose studies b Peak plasma concentration c Time to peak plasma concentration d Combined results (average means) of five studies: mean age 32 years (range 23-59 years) e Kinetic study done following dose 19, given fasting f Elderly subjects, mean age 71 years (range 65-81 years) g CLcr = creatinine clearance normalized to body surface area of 1.73 m2 |  |  |  |
+| Healthy, nondiabetic adults: 500 mg single dose (24) 850 mg single dose (74)d 850 mg three times daily for 19 dosese (9) | 1.03 (±0.33) 1.6 (±0.38) 2.01 (±0.42) | 2.75 (±0.81) 2.64 (±0.82) 1.79 (±0.94) | 600 (±132) 552 (±139) 642 (±173) |
+| Adults with type 2 diabetes: 850 mg single dose (23) 850 mg three times daily for 19 dosese (9) | 1.48 (±0.5) 1.9 (±0.62) | 3.32 (±1.08) 2.01 (±1.22) | 491 (±138) 550 (±160) |
+| Elderlyf, healthy nondiabetic adults: 850 mg single dose (12) | 2.45 (±0.7) | 2.71 (±1.05) | 412 (±98) |
+| Renal-impaired adults: 850 mg single dose Mild (CLcrg 61 to 90 mL/min) (5) Moderate (CLcr 31 to 60 mL/min) (4) Severe (CLcr 10 to 30 mL/min) (6) | 1.86 (±0.52) 4.12 (±1.83) 3.93 (±0.92) | 3.2 (±0.45) 3.75 (±0.5) 4.01 (±1.1) | 384 (±122) 108 (±57) 130 (±90) |
+| a All doses given fasting except the first 18 doses of the multiple dose studies b Peak plasma concentration c Time to peak plasma concentration d Combined results (average means) of five studies: mean age 32 years (range 23 to 59 years) e Kinetic study done following dose 19, given fasting f Elderly subjects, mean age 71 years (range 65 to 81 years) g CLcr = creatinine clearance normalized to body surface area of 1.73 m2 |  |  |  |
 
 ### Pediatrics
 
@@ -86,9 +86,9 @@ Table 2: Metformin Hydrochloride Tablets vs Placebo Summary of Mean Changes from
 
 |  | Metformin Hydrochloride Tablets (n = 141) | Placebo (n = 145) | p–Value |
 | --- | --- | --- | --- |
-| FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 -53.0 | 237.7 6.3 | NS ** 0.001 |
+| FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 -53 | 237.7 6.3 | NS ** 0.001 |
 | Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 -1.4 | 8.2 0.4 | NS ** 0.001 |
-| Body Weight (lbs) Baseline Change at FINAL VISIT | 201.0 -1.4 | 206.0 -2.4 | NS ** NS ** |
+| Body Weight (lbs) Baseline Change at FINAL VISIT | 201 -1.4 | 206 -2.4 | NS ** NS ** |
 | *All patients on diet therapy at Baseline **Not statistically significant |  |  |  |
 
 A 29-week, double-blind, placebo-controlled study of metformin hydrochloride tablets and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL) (see Table 3 ).
@@ -109,7 +109,7 @@ Table 3: Combined Metformin Hydrochloride Tablets/Glyburide (Comb) vs Glyburide 
 |  | Comb (n = 213) | Glyb (n = 209) | MET (n =210) | p-values |  |  |
 | Fasting Plasma Glucose (mg/dL) Baseline Change at FINAL VISIT | 250.5 -63.5 | 247.5 13.7 | 253.9 -0.9 | NS** 0.001 | NS** 0.001 | NS** 0.025 |
 | Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.8 -1.7 | 8.5 0.2 | 8.9 -0.4 | NS** 0.001 | NS** 0.001 | 0.007 0.001 |
-| Body Weight (lbs) Baseline Change at FINAL VISIT | 202.2 0.9 | 203.0 -0.7 | 204.0 -8.4 | NS** 0.011 | NS** 0.001 | NS** 0.001 |
+| Body Weight (lbs) Baseline Change at FINAL VISIT | 202.2 0.9 | 203 -0.7 | 204 -8.4 | NS** 0.011 | NS** 0.001 | NS** 0.001 |
 | * All patients on glyburide, 20 mg/day, at Baseline ** Not statistically significant |  |  |  |  |  |  |
 
 The magnitude of the decline in fasting blood glucose concentration following the institution of metformin hydrochloride tablets therapy was proportional to the level of fasting hyperglycemia.
@@ -121,26 +121,26 @@ Table 4: Summary of Mean Percent Change From Baseline of Major Serum Lipid Varia
 |  | Metformin Hydrochloride Tablets vs Placebo |  | Combined Metformin Hydrochloride Tablets/Glyburide vs Monotherapy |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Metformin Hydrochloride Tablets (n = 141) | Placebo (n = 145) | Metformin Hydrochloride Tablets (n = 210) | Metformin Hydrochloride Tablets/ Glyburide (n = 213) | Glyburide (n = 209) |
-| Total Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 211.0 -5% | 212.3 1% | 213.1 -2% | 215.6 -4% | 219.6 1% |
-| Total Triglycerides (mg/dL) Baseline Mean % Change at FINAL VISIT | 236.1 -16% | 203.5 1% | 242.5 -3% | 215.0 -8% | 266.1 4% |
-| LDL-Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 135.4 -8% | 138.5 1% | 134.3 -4% | 136.0 -6% | 137.5 3% |
-| HDL Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 39.0 2% | 40.5 -1% | 37.2 5% | 39.0 3% | 37.0 1% |
+| Total Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 211 -5% | 212.3 1% | 213.1 -2% | 215.6 -4% | 219.6 1% |
+| Total Triglycerides (mg/dL) Baseline Mean % Change at FINAL VISIT | 236.1 -16% | 203.5 1% | 242.5 -3% | 215 -8% | 266.1 4% |
+| LDL-Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 135.4 -8% | 138.5 1% | 134.3 -4% | 136 -6% | 137.5 3% |
+| HDL Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 39 2% | 40.5 -1% | 37.2 5% | 39 3% | 37 1% |
 
 In contrast to sulfonylureas, body weight of individuals on metformin hydrochloride tablets tended to remain stable or even decrease somewhat (see Tables 2 and 3 ).
 A 24-week, double-blind, placebo-controlled study of metformin hydrochloride tablets plus insulin versus insulin plus placebo was conducted in patients with type 2 diabetes who failed to achieve adequate glycemic control on insulin alone (see Table 5 ).
-Patients randomized to receive metformin hydrochloride tablets plus insulin achieved a reduction in HbA 1c of 2.10%, compared to a 1.56% reduction in HbA 1c achieved by insulin plus placebo.
-The improvement in glycemic control was achieved at the final study visit with 16% less insulin, 93.0 U/day vs 110.6 U/day, metformin hydrochloride tablets plus insulin versus insulin plus placebo, respectively, p=0.04.
+Patients randomized to receive metformin hydrochloride tablets plus insulin achieved a reduction in HbA 1c of 2.1%, compared to a 1.56% reduction in HbA 1c achieved by insulin plus placebo.
+The improvement in glycemic control was achieved at the final study visit with 16% less insulin, 93 U/day vs 110.6 U/day, metformin hydrochloride tablets plus insulin versus insulin plus placebo, respectively, p=0.04.
 
 Table 5: Combined Metformin Hydrochloride Tablets/Insulin vs Placebo/Insulin Summary of Mean Changes from Baseline in HbA1c and Daily Insulin Dose
 
 |  | Metformin Hydrochloride Tablets/Insulin (n=26) | Placebo/ Insulin (n=28) | Treatment Difference Mean ± SE |
 | --- | --- | --- | --- |
-| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.95 -2.10 | 9.32 -1.56 | -0.54 ± 0.43a |
+| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.95 -2.1 | 9.32 -1.56 | -0.54 ± 0.43a |
 | Insulin Dose (U/day) Baseline Change at FINAL VISIT | 93.12 -0.15 | 94.64 15.93 | -16.08 ± 7.77b |
 | a Statistically significant using analysis of covariance with baseline as covariate (p=0.04) Not significant using analysis of variance (values shown in table) b Statistically significant for insulin (p=0.04) |  |  |  |
 
-A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA 1c of 7.46 ± 0.97%, the addition of metformin hydrochloride tablets maintained similar glycemic control (HbA 1c 7.15 ± 0.61 versus 6.97 ± 0.62 for metformin hydrochloride tablets plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68 ± 30.22 versus an increase of 0.43 ± 25.20 units for metformin hydrochloride tablets plus insulin and placebo plus insulin, p<0.01).
-In addition, this study demonstrated that the combination of metformin hydrochloride tablets plus insulin resulted in reduction in body weight of 3.11 ± 4.30 lbs, compared to an increase of 1.30 ± 6.08 lbs for placebo plus insulin, p=0.01.
+A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA 1c of 7.46 ± 0.97%, the addition of metformin hydrochloride tablets maintained similar glycemic control (HbA 1c 7.15 ± 0.61 versus 6.97 ± 0.62 for metformin hydrochloride tablets plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68 ± 30.22 versus an increase of 0.43 ± 25.2 units for metformin hydrochloride tablets plus insulin and placebo plus insulin, p<0.01).
+In addition, this study demonstrated that the combination of metformin hydrochloride tablets plus insulin resulted in reduction in body weight of 3.11 ± 4.3 lbs, compared to an increase of 1.3 ± 6.08 lbs for placebo plus insulin, p=0.01.
 
 ## Pediatric Clinical Studies
 
@@ -151,5 +151,5 @@ Table 6: Metformin Hydrochloride Tablets vs Placebo (Pediatricsa) Summary of Mea
 |  | Metformin Hydrochloride Tablets | Placebo | p-Value |
 | --- | --- | --- | --- |
 | FPG (mg/dL) Baseline Change at FINAL VISIT | (n=37) 162.4 -42.9 | (n=36) 192.3 21.4 | <0.001 |
-| Body Weight (lbs) Baseline Change at FINAL VISIT | (n=39) 205.3 -3.3 | (n=38) 189.0 -2.0 | NS** |
-| a Pediatric patients mean age 13.8 years (range 10 -16 years) * All patients on diet therapy at Baseline ** Not statistically significant |  |  |  |
+| Body Weight (lbs) Baseline Change at FINAL VISIT | (n=39) 205.3 -3.3 | (n=38) 189 -2 | NS** |
+| a Pediatric patients mean age 13.8 years (range 10 to 16 years) * All patients on diet therapy at Baseline ** Not statistically significant |  |  |  |

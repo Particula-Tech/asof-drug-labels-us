@@ -1,6 +1,6 @@
 # SUPPLEMENTAL PATIENT MATERIAL
 
-Patient Information Metformin Hydrochloride Tablets, USP Read this information carefully before you start taking this medicine and each time you refill your prescription.
+Patient Information Metformin Hydrochloride Tablets, USP Rx only Read this information carefully before you start taking this medicine and each time you refill your prescription.
 There may be new information.
 This information does not take the place of your doctor’s advice.
 Ask your doctor or pharmacist if you do not understand some of this information or if you want to know more about this medicine.
@@ -17,7 +17,7 @@ The main goal of treating diabetes is to lower your blood sugar to a normal leve
 High blood sugar can be lowered by diet and exercise, by a number of medicines taken by mouth, and by insulin shots.
 Before you take metformin, try to control your diabetes by exercise and weight loss.
 While you take your diabetes medicine, continue to exercise and follow the diet advised for your diabetes.
-No matter what your recommended diabetes management plan is, studies have shown that maintaining good blood sugar control can prevent or dela y complications of diabetes, such as blindness.
+No matter what your recommended diabetes management plan is, studies have shown that maintaining good blood sugar control can prevent or delay complications of diabetes, such as blindness.
 Metformin help control your blood sugar in a number of ways.
 These include helping your body respond better to the insulin it makes naturally, decreasing the amount of sugar your liver makes, and decreasing the amount of sugar your intestines absorb.
 Metformin do not cause your body to make more insulin.
@@ -37,7 +37,7 @@ Do not take metformin if you:
 
 - have kidney problems
 - have liver problems
-- have heart failure that is treated with medicines, such as Lanoxin® (digoxin)or Lasix® (furosemide)
+- have heart failure that is treated with medicines, such as Lanoxin® (digoxin) or Lasix® (furosemide)
 - drink a lot of alcohol.
   This means you binge drink for short periods or drink all the time
 - are seriously dehydrated (have lost a lot of water from your body)
@@ -92,7 +92,7 @@ Alcohol can increase the chance of getting lactic acidosis.
 Lactic Acidosis.
 In rare cases, metformin can cause a serious side effect called lactic acidosis.
 This is caused by a buildup of lactic acid in your blood.
-This build-up can cause serious damage.
+This buildup can cause serious damage.
 Lactic acidosis caused by metformin is rare and has occurred mostly in people whose kidneys were not working normally.
 Lactic acidosis has been reported in about one in 33,000 patients taking metformin hydrochloride tablets over the course of a year.
 Although rare, if lactic acidosis does occur, it can be fatal in up to half the people who develop it.
@@ -128,4 +128,4 @@ You can ask your doctor or pharmacist for the information about metformin that i
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use metformin for a condition for which it was not prescribed.
 Do not share your medicine with other people.
-Manufactured for: Aurobindo Pharma USA, Inc, 2400 Route 130 North, Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India

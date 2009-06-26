@@ -5,7 +5,7 @@
 Lactic acidosis is a rare, but serious, metabolic complication that can occur due to metformin accumulation during treatment with metformin; when it occurs, it is fatal in approximately 50% of cases.
 Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
 Lactic acidosis is characterized by elevated blood lactate levels (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 µg/mL are generally found.
+When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 mcg/mL are generally found.
 The reported incidence of lactic acidosis in patients receiving metformin hydrochloride is very low (approximately 0.03 cases/1000 patient-years, with approximately 0.015 fatal cases/1000 patient-years).
 In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
 Reported cases have occurred primarily in diabetic patients with significant renal insufficiency, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
@@ -38,6 +38,7 @@ Such management often results in prompt reversal of symptoms and recovery.
 
 ## General
 
+Macrovascular Outcomes— There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with metformin hydrochloride tablets or any other anti-diabetic drug.
 Monitoring of renal function — Metformin is known to be substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
 Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive metformin.
 In patients with advanced age, metformin should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renalfunction.
@@ -94,9 +95,9 @@ Measurements of glycosylated hemoglobin may be especially useful for evaluating 
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin hydrochloride tablets therapy, if this is suspected, vitamin B 12 deficiency should be excluded.
 
-## Drug Interactions
+## Drug Interactions (Clinical Evaluation of Drug Interactions Conducted With Metformin Hydrochloride Tablets)
 
-(Clinical Evaluation of Drug Interactions Conducted With Metformin Hydrochloride Tablets) Glyburide— In a single-dose interaction study in type 2 diabetes patients, coadministration of metformin and glyburide did not result in any changes in either metformin pharmacokinetics or pharmacodynamics.
+Glyburide— In a single-dose interaction study in type 2 diabetes patients, coadministration of metformin and glyburide did not result in any changes in either metformin pharmacokinetics or pharmacodynamics.
 Decreases in glyburide AUC and C max were observed, but were highly variable.
 The single-dose nature of this study and the lack of correlation between glyburide blood levels and pharmacodynamic effects, makes the clinical significance of this interaction uncertain (see DOSAGE AND ADMINISTRATION: Concomitant Metformin and Oral Sulfonylurea Therapy in Adult Patients ).
 Furosemide— A single-dose, metformin-furosemide drug interaction study in healthy subjects demonstrated that pharmacokinetic parameters of both compounds were affected by coadministration.

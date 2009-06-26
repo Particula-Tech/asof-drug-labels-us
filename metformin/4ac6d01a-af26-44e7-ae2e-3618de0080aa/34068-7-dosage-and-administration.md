@@ -2,7 +2,7 @@
 
 There is no fixed dosage regimen for the management of hyperglycemia in patients with type 2 diabetes with metformin or any other pharmacologic agent.
 Dosage of metformin must be individualized on the basis of both effectiveness and tolerance, while not exceeding the maximum recommended daily doses.
-The maximum recommended daily dose of metformin hydrochloride tablets is 2550 mg in adults and 2000 mg in pediatric patients (10-16 years of age).
+The maximum recommended daily dose of metformin hydrochloride tablets is 2550 mg in adults and 2000 mg in pediatric patients (10 to 16 years of age).
 Metformin hydrochloride tablets should be given in divided doses with meals and should be started at a low dose, with gradual dose escalation, to reduce gastrointestinal side effects and to permit identification of the minimum dose required for adequate glycemic control of the patient.
 During treatment initiation and dose titration (see Recommended Dosing Schedule ), fasting plasma glucose should be used to determine the therapeutic response to metformin and identify the minimum effective dose for the patient.
 Thereafter, glycosylated hemoglobin should be measured at intervals of approximately three months.
