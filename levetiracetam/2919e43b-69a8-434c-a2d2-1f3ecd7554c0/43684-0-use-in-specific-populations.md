@@ -7,6 +7,9 @@
 There are no adequate and well-controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
 KEPPRA XR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+As with other antiepileptic drugs, physiological changes during pregnancy may affect levetiracetam concentration.
+There have been reports of decreased levetiracetam concentration during pregnancy.
+Discontinuation of antiepileptic treatments may result in disease worsening, which can be harmful to the mother and the fetus.
 
 Oral administration of levetiracetam to female rats throughout pregnancy and lactation led to increased incidences of minor fetal skeletal abnormalities and retarded offspring growth pre- and/or postnatally at doses ≥350 mg/kg/day (approximately equivalent to the maximum recommended human dose of 3000 mg [MRHD] on a mg/m2 basis) and with increased pup mortality and offspring behavioral alterations at a dose of 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
 The developmental no effect dose was 70 mg/kg/day (0.2 times the MRHD on a mg/m2 basis).
@@ -22,11 +25,14 @@ There was no evidence of maternal toxicity in this study.
 
 Treatment of rats with levetiracetam during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at oral doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
 
-### UCB AED Pregnancy Registry
+### Pregnancy Registries
+
+To provide information regarding the effects of in utero exposure to KEPPRA XR, physicians are advised to recommend that pregnant patients taking KEPPRA XR enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes in pregnant women being treated with all UCB antiepileptic drugs including KEPPRA XR.
 To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling (888) 537-7734 (toll free).
-Patients may also enroll in the North American Antiepileptic Drug Pregnancy Registry by calling (888) 233-2334 (toll free).
 
 ## 8.2 Labor And Delivery
 
