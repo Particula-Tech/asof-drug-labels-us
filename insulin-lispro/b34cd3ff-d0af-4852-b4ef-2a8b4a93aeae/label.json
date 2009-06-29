@@ -1,15 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021018"
+  ],
   "inn": "insulin-lispro",
   "labeler": "Eli Lilly and Company",
   "package_ndcs": [
     "0002-7512-01",
+    "0002-7512-99",
     "0002-8793-01",
     "0002-8793-59",
     "0002-8798-01",
-    "0002-8798-59"
+    "0002-8798-59",
+    "0002-8798-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "insulin lispro",
+      "name": "Humalog"
+    }
+  ],
   "setid": "b34cd3ff-d0af-4852-b4ef-2a8b4a93aeae",
   "source": "dailymed"
 }

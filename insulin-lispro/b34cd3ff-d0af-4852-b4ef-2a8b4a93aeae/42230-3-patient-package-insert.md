@@ -1,6 +1,4 @@
-# Supplement Patient Material Section
-
-## Patient Information Humalog® (HU-ma-log) Mix50/50TM 50% insulin lispro protamine suspension and 50% insulin lispro injection (rDNA origin)
+# Patient Information Humalog® (HU-ma-log) Mix50/50TM 50% insulin lispro protamine suspension and 50% insulin lispro injection (rDNA origin)
 
 | Important:Know your insulin. Do not change the type of insulin you use unless told to do so by your healthcare provider. Your insulin dose and the time you take your dose can change with different types of insulin. Make sure you have the right type and strength of insulin prescribed for you. |
 | --- |
@@ -148,11 +146,13 @@ Active ingredients: insulin lispro protamine suspension and insulin lispro.
 
 Inactive ingredients: protamine sulfate, glycerin, dibasic sodium phosphate, metacresol, zinc oxide (zinc ion), phenol and water for injection.
 
-Patient Information issued September 6, 2007
+Patient Information revised March 16, 2009
 
-KwikPens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Pens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France for Eli Lilly and Company, Indianapolis, IN 46285, USA
+KwikPens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Pens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France for Eli Lilly and Company, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, Eli Lilly and Company.
+Copyright © 2007, 2009, Eli Lilly and Company.
 All rights reserved.
+
+PV 5571 AMP
