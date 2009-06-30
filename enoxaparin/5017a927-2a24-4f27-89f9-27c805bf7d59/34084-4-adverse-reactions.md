@@ -57,11 +57,11 @@ Table 6 Major Bleeding Episodes in Unstable Angina and Non-Q-Wave Myocardial Inf
 | LovenoxThe rates represent major bleeding on study medication up to 12 hours after dose. 1 mg/kg q12h SC | Heparin aPTT Adjusted IV Therapy |  |  |
 | --- | --- | --- | --- |
 | Indication | Dosing Regimen |  |  |
-| Unstable Angina and Non-Q-Wave MIAspirin therapy was administered concurrently (100 to 325 mg per day)., Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease by ≥ 3 g/dL or transfusion of 2 or more units of blood products. Intraocular, retroperitoneal, and intracranial hemorrhages were always considered major. | n = 1578 17 (1%) | n = 1529 18 (1%) |  |
+| Unstable Angina and Non-Q-Wave MIAspirin therapy was administered concurrently (100 to 325 mg per day).,Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease by ≥ 3 g/dL or transfusion of 2 or more units of blood products. Intraocular, retroperitoneal, and intracranial hemorrhages were always considered major. | n = 1578 17 (1%) | n = 1529 18 (1%) |  |
 
 Table 7 Major Bleeding Episodes in acute ST-segment Elevation Myocardial Infarction
 
-| Indication | Lovenox The rates represent major bleeding (including ICH) up to 30 days Initial 30-mg IV bolus followed by 1 mg/kg q12h SC | Heparin aPTT Adjusted IV Therapy |
+| Indication | LovenoxThe rates represent major bleeding (including ICH) up to 30 days Initial 30-mg IV bolus followed by 1 mg/kg q12h SC | Heparin aPTT Adjusted IV Therapy |
 | --- | --- | --- |
 |  | Dosing Regimen |  |
 | acute ST-segment Elevation Myocardial Infarction, | n = 10176 n (%) | n = 10151 n (%) |
@@ -159,13 +159,15 @@ Adverse Reactions in Lovenox-Treated Patients With acute ST-segment Elevation My
 
 In a clinical trial in patients with acute ST-segment elevation myocardial infarction, the only additional possibly related adverse reaction that occurred at a rate of at least 0.5% in the Lovenox group was thrombocytopenia (1.5%)
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 There have been reports of epidural or spinal hematoma formation with concurrent use of Lovenox and spinal/epidural anesthesia or spinal puncture.
 The majority of patients had a post-operative indwelling epidural catheter placed for analgesia or received additional drugs affecting hemostasis such as NSAIDs.
 Many of the epidural or spinal hematomas caused neurologic injury, including long-term or permanent paralysis.
 
-Local reactions at the injection site (e.g. nodules, inflammation, oozing), systemic allergic reactions (e.g. pruritus, urticaria, anaphylactic/anaphylactoid reactions), vesiculobullous rash, rare cases of hypersensitivity cutaneous vasculitis, hyperkalemia, purpura, skin necrosis (usually occurring at injection site), thrombocytosis, and thrombocytopenia with thrombosis [see Warnings and Precautions (5.5)] have been reported.
+Local reactions at the injection site (e.g. nodules, inflammation, oozing), systemic allergic reactions (e.g. pruritus, urticaria, anaphylactic/anaphylactoid reactions), vesiculobullous rash, rare cases of hypersensitivity cutaneous vasculitis, purpura, skin necrosis (occurring at either the injection site or distant from the injection site), thrombocytosis, and thrombocytopenia with thrombosis [see Warnings and Precautions (5.5)] have been reported.
+Cases of hyperkalemia have been reported.
+Most of these reports occurred in patients who also had conditions that tend toward the development of hyperkalemia (e.g., renal dysfunction, concomitant potassium-sparing drugs, administration of potassium, hematoma in body tissues).
 Very rare cases of hyperlipidemia have also been reported, with one case of hyperlipidemia, with marked hypertriglyceridemia, reported in a diabetic pregnant woman; causality has not been determined.
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.

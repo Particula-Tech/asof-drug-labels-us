@@ -24,7 +24,7 @@ The site of the procedure should be observed for signs of bleeding or hematoma f
 
 ## 5.3 Use of Lovenox with Concomitant Medical Conditions
 
-Lovenox should be used with care in patients with a bleeding diathesis, uncontrolled arterial hypertension or a history of recent gastrointestinal ulceration, diabetic retinopathy, and hemorrhage.
+Lovenox should be used with care in patients with a bleeding diathesis, uncontrolled arterial hypertension or a history of recent gastrointestinal ulceration, diabetic retinopathy, renal dysfunction and hemorrhage.
 
 ## 5.4 History of Heparin-induced Thrombocytopenia
 

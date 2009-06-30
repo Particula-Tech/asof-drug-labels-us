@@ -1,4 +1,4 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Lovenox is available in two concentrations [see Tables 26 and 27]:
 
@@ -6,7 +6,7 @@ Table 26 100 mg/mL Concentration
 
 | Dosage Unit / StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Lovenox 30 and 40 mg prefilled syringes, and 60, 80, and 100 mg graduated prefilled syringes each contain 10 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa ActivityApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. | Package Size (per carton) | Label Color | NDC # 0075- |
 | --- | --- | --- | --- | --- |
-| Prefilled SyringesEach Lovenox syringe is affixed with a 27 gauge× 1/2 inch needle. |  |  |  |  |
+| Prefilled SyringesEach Lovenox syringe is affixed with a 27 gauge × 1/2 inch needle. |  |  |  |  |
 | 30 mg / 0.3 mL | 3000 IU | 10 syringes | Medium Blue | 0624-30 |
 | 40 mg / 0.4 mL | 4000 IU | 10 syringes | Yellow | 0620-40 |
 | Graduated Prefilled Syringes |  |  |  |  |

@@ -91,8 +91,9 @@ Pregnant women with mechanical prosthetic heart valves may be at higher risk for
 
 In patients with renal impairment, there is an increase in exposure of enoxaparin sodium.
 All such patients should be observed carefully for signs and symptoms of bleeding.
-Because exposure of enoxaparin sodium is significantly increased in patients with severe renal impairment (creatinine clearance<30 mL/min), a dosage adjustment is recommended for therapeutic and prophylactic dosage ranges.
+Because exposure of enoxaparin sodium is significantly increased in patients with severe renal impairment (creatinine clearance <30 mL/min), a dosage adjustment is recommended for therapeutic and prophylactic dosage ranges.
 No dosage adjustment is recommended in patients with moderate (creatinine clearance 30–50 mL/min) and mild (creatinine clearance 50–80 mL/min) renal impairment [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+In patients with renal failure, treatment with enoxaparin has been associated with the development of hyperkalemia [see Adverse Reactions (6.2)].
 
 ## 8.8 Hepatic Impairment
 
