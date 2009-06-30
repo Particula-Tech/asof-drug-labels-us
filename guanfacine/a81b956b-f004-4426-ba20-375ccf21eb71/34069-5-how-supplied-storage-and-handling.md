@@ -8,10 +8,12 @@ Guanfacine Hydrochloride Tablets 2 mg, are peach, round tablets, debossed with W
 
 Bottles of 100 tablets are supplied with child-resistant closures.
 
-Store at controlled room temperature 15°-30°C (59°-86°F).
-
+Store at 20°-25°C (68°-77°F).
+[See USP controlled room temperature.]
 Dispense in a tight, light-resistant container.
 
-Watson Laboratories, Inc. Corona, CA 92880 USA
+Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
-12580-3 Revised: April 2003
+Distributed by: Watson Pharma, Inc.
+
+14749 Revised: October 2007 1007B

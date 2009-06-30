@@ -5,7 +5,7 @@ While the reactions are common, most are mild and tend to disappear on continued
 
 Skin rash with exfoliation has been reported in a few cases; although clear cause and effect relationships to guanfacine could not be established, should a rash occur, guanfacine should be discontinued and the patient monitored appropriately.
 
-In the dose-response monotherapy study described under CLINICAL PHARMACOLOGY, the frequency of the most commonly observed adverse reactions showed a dose relationship from 0.5 to 3 mg as follows:
+In the dose-response monotherapy study described underCLINICAL PHARMACOLOGY, the frequency of the most commonly observed adverse reactions showed a dose relationship from 0.5 to 3 mg as follows:
 
 | Reaction | n=59 | n=60 | n=61 | n=60 | n=59 |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ The most common reasons for dropouts among patients who received guanfacine were
 
 In the 12-week placebo-controlled, dose-response study of guanfacine administered with 25 mg chlorthalidone at bedtime, the frequency of the most commonly observed adverse reactions showed a clear dose relationship from 0.5 to 3 mg as follows:
 
-| Adverse Reaction | n=73 | n=72 | n=72 | n=72 | n=72 |
+| Adverse Reaction | n = 73 | n = 72 | n = 72 | n = 72 | n = 72 |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg |
 | Dry mouth | 5 (7%) | 4 (5%) | 6 (8%) | 8 (11%) | 20 (28%) |
@@ -54,7 +54,7 @@ In a second 12-week placebo-controlled combination therapy study in which the do
 
 Reasons for dropouts among patients who received guanfacine were: somnolence, dry mouth, dizziness, impotence, constipation, confusion, depression, and palpitations.
 
-In the clonidine/guanfacine comparison described in CLINICAL PHARMACOLOGY, the most common adverse reactions noted were as follows:
+In the clonidine/guanfacine comparison described inCLINICAL PHARMACOLOGY, the most common adverse reactions noted were as follows:
 
 | Adverse Reactions | (n=279) | (n=278) |
 | --- | --- | --- |
@@ -90,13 +90,12 @@ Urogenital - testicular disorder, urinary incontinence
 Other - malaise, paresthesia, paresis
 
 Adverse reaction reports tend to decrease over time.
-In an open-label trial of one year's duration, 580 hypertensive subjects were given guanfacine, titrated to achieve goal blood pressure, alone (51%), with diuretic (38%), with beta blocker (3%), with diuretic plus beta blocker (6%), or with diuretic plus vasodilator (2%).
+In an open-label trial of one year’s duration, 580 hypertensive subjects were given guanfacine, titrated to achieve goal blood pressure, alone (51%), with diuretic (38%), with beta blocker (3%), with diuretic plus beta blocker (6%), or with diuretic plus vasodilator (2%).
 The mean daily dose of guanfacine reached was 4.7 mg.
 
 |  | n=580 | n=580 |
 | --- | --- | --- |
-| Adverse Reaction | Incidence of adverse reactions | Incidence of adverse reactions |
-|  | at any time during the study | at end of one year |
+| Adverse Reaction | Incidence of adverse reactions at any time during the study | Incidence of adverse reactions at end of one year |
 | Dry Mouth | 60% | 15% |
 | Drowsiness | 33% | 6% |
 | Dizziness | 15% | 1% |

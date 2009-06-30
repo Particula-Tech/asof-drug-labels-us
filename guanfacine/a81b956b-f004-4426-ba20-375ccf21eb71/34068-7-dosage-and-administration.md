@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 The recommended initial dose of guanfacine (as the hydrochloride) when given alone or in combination with another antihypertensive drug is 1 mg daily given at bedtime to minimize somnolence.
-If after 3 to 4 weeks of therapy, 1 mg does not give a satisfactory result, a dose of 2 mg may be given, although most of the effect of guanfacine is seen at 1 mg (see CLINICAL PHARMACOLOGY).
+If after 3 to 4 weeks of therapy, 1 mg does not give a satisfactory result, a dose of 2 mg may be given, although most of the effect of guanfacine is seen at 1 mg (seeCLINICAL PHARMACOLOGY).
 Higher daily doses have been used, but adverse reactions increase significantly with doses above 3 mg/day.
 
 The frequency of rebound hypertension is low, but it can occur.

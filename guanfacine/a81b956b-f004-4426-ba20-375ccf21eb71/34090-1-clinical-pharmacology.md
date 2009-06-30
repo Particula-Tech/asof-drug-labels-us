@@ -10,11 +10,9 @@ Results are shown in the following table.
 A useful effect was not observed overall until doses of 2 mg were reached, although responses in white patients were seen at 1 mg; 24 hour effectiveness of 1 mg to 3 mg doses was documented using 24 hour ambulatory monitoring.
 While the 5 mg dose added an increment of effectiveness, it caused an unacceptable increase in adverse reactions.
 
-Mean Changes (mm Hg) from Baseline in Seated Systolic and Diastolic Blood Pressure for Patients Completing 4 to 8 Weeks of Treatment with Guanfacine Monotherapy
-
-| S/D* Seated | (range) | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg | 5 mg |
+| Mean Change S/D* Seated | n= (range) | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg | 5 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mean Change | n= |  |  |  |  |  |  |
+| Mean Changes (mm Hg) from Baseline in Seated Systolic and Diastolic Blood Pressure for Patients Completing 4 to 8 Weeks of Treatment with Guanfacine Monotherapy |  |  |  |  |  |  |  |
 | White Patients | 11-30 | -1/-5 | -6/-8 | -8/-9 | -12/-11 | -15/-12 | -18/-16 |
 | Black Patients | 8-28 | -3/-5 | 0/-2 | -3/-5 | -7/-7 | -8/-9 | -19/-15 |
 | *S/D = Systolic/diastolic blood pressure |  |  |  |  |  |  |  |
@@ -25,17 +23,15 @@ The observed mean changes from baseline, tabulated below, indicate the similarit
 Doses of 1, 2, and 3 mg resulted in decreased blood pressure in the sitting position with no real differences among the three doses.
 In the standing position there was some increase in response with dose.
 
-Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treated with Guanfacine in Combination with Chlorthalidone
-
-| Mean Change | n= | 63 | 63 | 64 | 58 | 59 |
+| Mean Change | n= | Placebo 63 | 0.5 mg 63 | 1 mg 64 | 2 mg 58 | 3 mg 59 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg |
+| Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treated with Guanfacine in Combination with Chlorthalidone |  |  |  |  |  |  |
 | S/D* Seated |  | -5/-7 | -5/-6 | -14/-13 | -12/-13 | -16/-13 |
 | S/D* Standing |  | -3/-5 | -5/-4 | -11/-9 | -9/-10 | -15/-12 |
 | *S/D = Systolic/diastolic blood pressure |  |  |  |  |  |  |
 
 While most of the effectiveness of guanfacine in combination (and as monotherapy in white patients) was present at 1 mg, adverse reactions at this dose were not clearly distinguishable from those associated with placebo.
-Adverse reactions were clearly present at 2 and 3 mg (see ADVERSE REACTIONS).
+Adverse reactions were clearly present at 2 and 3 mg (seeADVERSE REACTIONS).
 
 In a second 12-week placebo-controlled study 1, 2, or 3 mg of guanfacine hydrochloride administered with 25 mg chlorthalidone once daily, a significant decrease in blood pressure was maintained for a full 24 hours after dosing.
 While there was no significant difference between the 12 and 24 hour blood pressure readings, the fall in blood pressure at 24 hours was numerically smaller, suggesting possible escape of blood pressure in some patients and the need for individualization of therapy.
@@ -45,7 +41,7 @@ Results showed equal degrees of blood pressure reduction with the two drugs and 
 Sign and symptoms of rebound phenomena were infrequent upon discontinuation of either drug.
 Abrupt withdrawal of clonidine produced a rapid return of diastolic and especially, systolic blood pressure to approximately pretreatment levels, with occasional values significantly greater than baseline, whereas guanfacine withdrawal produced a more gradual increase to pretreatment levels, but also with occasional values significantly greater than baseline.
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 Hemodynamic studies in man showed that the decrease in blood pressure observed after single-dose or long-term oral treatment with guanfacine was accompanied by a significant decrease in peripheral resistance and a slight reduction in heart rate (5 beats/min).
 Cardiac output under conditions of rest or exercise was not altered by guanfacine.
@@ -59,7 +55,7 @@ Guanfacine had no effect on plasma aldosterone.
 A slight but insignificant decrease in plasma volume occurred after one month of guanfacine therapy.
 There were no changes in mean body weight or electrolytes.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Relative to an intravenous dose of 3 mg, the absolute oral bioavailability of guanfacine is about 80%.
 Peak plasma concentrations occur from 1 to 4 hours with an average of 2.6 hours after single oral doses or at steady state.
