@@ -4,7 +4,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Newly Diagnosed Glioblastoma Multiforme: During the concomitant phase (TEMODAR + radiotherapy), adverse reactions including thrombocytopenia, nausea, vomiting, anorexia, and constipation were more frequent in the TEMODAR + RT arm.
+Newly Diagnosed Glioblastoma Multiforme:
+
+During the concomitant phase (TEMODAR+radiotherapy), adverse reactions including thrombocytopenia, nausea, vomiting, anorexia, and constipation were more frequent in the TEMODAR+RT arm.
 The incidence of other adverse reactions was comparable in the two arms.
 The most common adverse reactions across the cumulative TEMODAR experience were alopecia, nausea, vomiting, anorexia, headache, and constipation (see Table 7).
 Forty-nine percent (49%) of patients treated with TEMODAR reported one or more severe or life-threatening reactions, most commonly fatigue (13%), convulsions (6%), headache (5%), and thrombocytopenia (5%).
@@ -14,7 +16,7 @@ TABLE 7: Number (%) of Patients with Adverse Reactions: All and Severe/Life Thre
 
 |  | All |  | Grade ≥3 |  | All |  | Grade ≥3 |  | All |  | Grade ≥3 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Concomitant Phase RT Alone (n=285) |  |  |  | Concomitant Phase RT+TMZ (n=288)One patient who was randomized to RT only arm received RT + temozolomide. |  |  |  | Maintenance Phase TMZ (n=224) |  |  |  |
+|  | Concomitant Phase RT Alone (n=285) |  |  |  | Concomitant Phase RT+TMZ (n=288)One patient who was randomized to RT only arm received RT+temozolomide. |  |  |  | Maintenance Phase TMZ (n=224) |  |  |  |
 | Subjects Reporting any Adverse Reaction | 258 | (91) | 74 | (26) | 266 | (92) | 80 | (28) | 206 | (92) | 82 | (37) |
 | Body as a Whole - General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
 | Anorexia | 25 | (9) | 1 | (<1) | 56 | (19) | 2 | (1) | 61 | (27) | 3 | (1) |
@@ -56,13 +58,15 @@ TABLE 7: Number (%) of Patients with Adverse Reactions: All and Severe/Life Thre
 | Rash | 42 | (15) | 0 |  | 56 | (19) | 3 | (1) | 29 | (13) | 3 | (1) |
 | Special Senses Other, Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
 | Taste Perversion | 6 | (2) | 0 |  | 18 | (6) | 0 |  | 11 | (5) | 0 |  |
-| RT+TMZ = radiotherapy plus temozolomide; NOS = not otherwise specified. |  |  |  |  |  |  |  |  |  |  |  |  |
+| RT+TMZ=radiotherapy plus temozolomide; NOS=not otherwise specified. |  |  |  |  |  |  |  |  |  |  |  |  |
 | Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Myelosuppression (neutropenia and thrombocytopenia), which is a known dose-limiting toxicity for most cytotoxic agents, including TEMODAR, was observed.
 When laboratory abnormalities and adverse reactions were combined, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic reactions were observed in 8% of the patients, and Grade 3 or Grade 4 platelet abnormalities, including thrombocytopenic reactions, were observed in 14% of the patients treated with TEMODAR.
 
-Refractory Anaplastic Astrocytoma: Tables 8 and 9 show the incidence of adverse reactions in the 158 patients in the anaplastic astrocytoma study for whom data are available.
+Refractory Anaplastic Astrocytoma:
+
+Tables 8 and 9 show the incidence of adverse reactions in the 158 patients in the anaplastic astrocytoma study for whom data are available.
 In the absence of a control group, it is not clear in many cases whether these reactions should be attributed to temozolomide or the patients' underlying conditions, but nausea, vomiting, fatigue, and hematologic effects appear to be clearly drug related.
 The most frequently occurring adverse reactions were nausea, vomiting, headache, and fatigue.
 The adverse reactions were usually NCI Common Toxicity Criteria (CTC) Grade 1 or 2 (mild to moderate in severity) and were self-limiting, with nausea and vomiting readily controlled with antiemetics.
@@ -75,7 +79,7 @@ The median nadirs occurred at 26 days for platelets (range: 21–40 days) and 28
 Only 14% (22/158) of patients had a neutrophil nadir and 20% (32/158) of patients had a platelet nadir, which may have delayed the start of the next cycle.
 Less than 10% of patients required hospitalization, blood transfusion, or discontinuation of therapy due to myelosuppression.
 
-In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC < 500 cells/µL) and thrombocytopenia (< 20,000 cells/µL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
+In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC<500 cells/µL) and thrombocytopenia (<20,000 cells/µL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
 
 In the entire safety database for which hematologic data exist (N=932), 7% (4/61) and 9.5% (6/63) of patients over age 70 experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 For patients less than or equal to age 70, 7% (62/871) and 5.5% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
@@ -168,4 +172,5 @@ TEMODAR Capsules: allergic reactions, including anaphylaxis, have been reported.
 Erythema multiforme has been reported, which resolved after discontinuation of TEMODAR and, in some cases, recurred upon rechallenge.
 Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been reported.
 Opportunistic infections including Pneumocystis carinii pneumonia (PCP) have also been reported.
+Cases of interstitial pneumonitis/pneumonitis have been reported.
 Prolonged pancytopenia, which may result in aplastic anemia, has been reported, and in some cases has resulted in a fatal outcome.

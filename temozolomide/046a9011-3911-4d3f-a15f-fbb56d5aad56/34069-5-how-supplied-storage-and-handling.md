@@ -11,7 +11,9 @@ Several guidelines on this subject have been published.
 
 ## 16.2 How Supplied
 
-TEMODAR Capsules: TEMODAR (temozolomide) Capsules are supplied in amber glass bottles with child-resistant polypropylene caps containing the following capsule strengths:
+TEMODAR Capsules:
+
+TEMODAR (temozolomide) Capsules are supplied in amber glass bottles with child-resistant polypropylene caps containing the following capsule strengths:
 
 TEMODAR Capsules 5 mg: have opaque white bodies with green caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
@@ -43,15 +45,19 @@ The capsule body is imprinted with two stripes, the dosage strength, and the Sch
 The cap is imprinted with "TEMODAR".
 They are supplied as follows: 5-count - NDC 0085-1417-01
 
-TEMODAR for Injection: TEMODAR (temozolomide) for Injection is supplied in single-use glass vials containing 100 mg temozolomide.
+TEMODAR for Injection:
+
+TEMODAR (temozolomide) for Injection is supplied in single-use glass vials containing 100 mg temozolomide.
 The lyophilized powder is white to light tan/light pink.
 
 TEMODAR for Injection 100 mg: NDC 0085-1381-01
 
 ## 16.3 Storage
 
-Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F)
 
-Store TEMODAR for Injection refrigerated at 2°C–8°C (36°F–46°F).
+[see USP Controlled Room Temperature].
+
+Store TEMODAR for Injection refrigerated at 2°–8°C (36°–46°F).
 After reconstitution, store reconstituted product at room temperature (25°C [77°F]).
 Reconstituted product must be used within 14 hours, including infusion time.

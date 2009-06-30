@@ -19,8 +19,7 @@ TEMODAR for Injection manufactured for Schering Corporation, a subsidiary of Sch
 © 1999, 2008 Schering Corporation.
 All rights reserved.
 U.S. Patent Nos. 5,260,291 and 6,987,108.
-
-31850908T
+XXXXXXXXT
 
 Tear patient package insert at perforation and give to patient.
 
@@ -119,7 +118,7 @@ TEMODAR Capsules:
 - Call your doctor right away if you take more than the prescribed amount of TEMODAR.
   It is important that you do not take more than the amount of TEMODAR prescribed for you.
 
-TEMODAR for Injection
+TEMODAR for Injection:
 
 - You will receive TEMODAR as an infusion directly into your vein.
   Your treatment will take about 90 minutes.
@@ -291,7 +290,7 @@ Dosing for Patients with Refractory Anaplastic Astrocytoma [See Full Prescribing
 
 Dosage of TEMODAR must be adjusted according to nadir neutrophil and platelet counts in the previous cycle and neutrophil and platelet counts at the time of initiating the next cycle.
 The initial dose is 150 mg/m2 orally once daily for 5 consecutive days per 28-day treatment cycle.
-If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are ≥ 1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are ≥ 100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/ day for 5 consecutive days per 28-day treatment cycle.
+If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are ≥1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are ≥100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/ day for 5 consecutive days per 28-day treatment cycle.
 During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of TEMODAR should not be started until the ANC and platelet count exceed these levels.
 If the ANC falls to <1.0 × 109/L (1000/µL) or the platelet count is <50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose [see Table 4 in the Full Prescribing Information Recommended Dosing and Dose Modification Guidelines (2.1)].
@@ -305,7 +304,7 @@ Concomitant Phase Treatment Schedule
 
 TEMODAR is administered at 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions), followed by maintenance TEMODAR for 6 cycles.
 No dose reductions are recommended; however, dose interruptions may occur based on patient tolerance.
-The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 × 109/L, platelet count ≥ 100 ×109/L, common toxicity criteria (CTC) non-hematological toxicity ≤ Grade 1 (except for alopecia, nausea, and vomiting).
+The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 × 109/L, platelet count ≥100 ×109/L, common toxicity criteria (CTC) non-hematological toxicity ≤ Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and non-hematological toxicity criteria as noted in Table 1 of the Full Prescribing Information under 2.1 Recommended Dosing and Dose Modification Guidelines.
 PCP prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade ≤1).
