@@ -1,3 +1,5 @@
+WARNING
+
 Adult and Pediatric: Intravenous midazolam hydrochloride has been associated with respiratory depression and respiratory arrest, especially when used for sedation in noncritical care settings.
 In some cases, where this was not recognized promptly and treated effectively, death or hypoxic encephalopathy has resulted.
 Intravenous midazolam hydrochloride should be used only in hospital or ambulatory care settings, including physicians’ and dental offices, that provide for continuous monitoring of respiratory and cardiac function, ie, pulse oximetry.

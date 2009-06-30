@@ -2,21 +2,22 @@
 
 Package configurations containing midazolam hydrochloride equivalent to 1 mg midazolam/mL:
 
-| List Number | Container Description | Fill Volume | Total Midazolam (per container) |
+| NDC | Container Description | Fill Volume | Total Midazolam (per container) |
 | --- | --- | --- | --- |
-| 2587 | Fliptop Vial | 10 mL | 10 mg |
+| 0409–2587–05 | Fliptop Vial | 10 mL | 10 mg |
 
 Package configurations containing midazolam hydrochloride equivalent to 5 mg midazolam/mL:
 
-| List Number | Container Description | Fill Volume | Total Midazolam (per container) |
+| NDC | Container Description | Fill Volume | Total Midazolam (per container) |
 | --- | --- | --- | --- |
-| 2596 | Fliptop Vial | 5 mL | 25 mg |
-| 2596 | Fliptop Vial | 10 mL | 50 mg |
+| 0409–2596–03 | Fliptop Vial | 5 mL | 25 mg |
+| 0409–2596–05 | Fliptop Vial | 10 mL | 50 mg |
 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-| ©Hospira 2005 | EN-0979 | Printed in USA |
-| --- | --- | --- |
+Revised: February, 2009
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+| Printed in USA |  | EN-2012 |
+| --- | --- | --- |
+| Hospira, Inc., Lake Forest, IL 60045 USA |  |  |

@@ -125,7 +125,7 @@ In a study of chronic renal failure patients (n=15) receiving a single IV dose, 
 Metabolite levels were not studied.
 
 Plasma Concentration-Effect Relationship: Concentration-effect relationships (after an IV dose) have been demonstrated for a variety of pharmacodynamic measures (eg, reaction time, eye movement, sedation) and are associated with extensive intersubject variability.
-Logistic regression analysis of sedation scores and steady-state plasma concentration indicated that at plasma concentrationsgreater than 100 ng/mL there was at least a 50% probability that patients would be sedated, but respond to verbal commands (sedation score = 3).
+Logistic regression analysis of sedation scores and steady-state plasma concentration indicated that at plasma concentrations greater than 100 ng/mL there was at least a 50% probability that patients would be sedated, but respond to verbal commands (sedation score = 3).
 At 200 ng/mL there was at least a 50% probability that patients would be asleep, but respond to glabellar tap (sedation score = 4).
 
 Drug Interactions: For information concerning pharmacokinetic drug interactions with midazolam, see PRECAUTIONS.

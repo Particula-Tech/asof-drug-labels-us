@@ -4,7 +4,7 @@ Midazolam hydrochloride injection is a potent sedative agent that requires slow 
 Clinical experience has shown midazolam hydrochloride to be 3 to 4 times as potent per mg as diazepam.
 BECAUSE SERIOUS AND LIFE-THREATENING CARDIORESPIRATORY ADVERSE EVENTS HAVE BEEN REPORTED, PROVISION FOR MONITORING, DETECTION AND CORRECTION OF THESE REACTIONS MUST BE MADE FOR EVERY PATIENT TO WHOM MIDAZOLAM HYDROCHLORIDE INJECTION IS ADMINISTERED, REGARDLESS OF AGE OR HEALTH STATUS.
 Excessive single doses or rapid intravenous administration may result in respiratory depression, airway obstruction and/or arrest.
-The potential for these latter effects is increased in debilitated patients, those receiving concomitant medications capable of depressing the CNS, and patients without an endotracheal tube but undergoing a procedure involving the upper airway such as endoscopy or dental (see Boxed WARNING and WARNINGS).
+The potential for these latter effects is increased in debilitated patients, those receiving concomitant medications capable of depressing the CNS, and patients without an endotracheal tube but undergoing a procedure involving the upper airway such as endoscopy or dental (see BOXED WARNING and WARNINGS).
 
 Reactions such as agitation, involuntary movements, hyperactivity and combativeness have been reported in adult and pediatric patients.
 Should such reactions occur, caution should be exercised before continuing administration of midazolam hydrochloride (see WARNINGS).
@@ -17,7 +17,7 @@ Midazolam Hydrochloride Injection may be mixed in the same syringe with the foll
 Midazolam, at a concentration of 0.5 mg/mL, is compatible with 5% dextrose in water and 0.9% sodium chloride for up to 24 hours and with lactated Ringer's solution for up to 4 hours.
 Both the 1 mg/mL and 5 mg/mL formulations of midazolam may be diluted with 0.9% sodium chloride or 5% dextrose in water.
 
-MONITORING:Patient response to sedative agents, and resultant respiratory status, is variable.
+MONITORING: Patient response to sedative agents, and resultant respiratory status, is variable.
 Regardless of the intended level of sedation or route of administration, sedation is a continuum; a patient may move easily from light to deep sedation, with potential loss of protective reflexes.
 This is especially true in pediatric patients.
 Sedative doses should be individually titrated, taking into account patient age, clinical status and concomitant use of other CNS depressants.
@@ -62,7 +62,7 @@ Intravenous access is not thought to be necessary for all pediatric patients sed
 | CONTINUOUS INFUSION |  |
 | For continuous infusion, midazolam hydrochloride 5 mg/mL formulation is recommended diluted to a concentration of 0.5 mg/mL with 0.9% sodium chloride or 5% dextrose in water. | Usual Adult Dose: If a loading dose is necessary to rapidly initiate sedation, 0.01 to 0.05 mg/kg (approximately 0.5 to 4 mg for a typical adult) may be given slowly or infused over several minutes. This dose may be repeated at 10 to 15 minute intervals until adequate sedation is achieved. For maintenance of sedation, the usual initial infusion rate is 0.02 to 0.1 mg/kg/hr (1 to 7 mg/hr). Higher loading or maintenance infusion rates may occasionally be required in some patients. The lowest recommended doses should be used in patients with residual effects from anesthetic drugs, or in those concurrently receiving other sedatives or opioids. |
 |  | Individual response to midazolam is variable. The infusion rate should be titrated to the desired level of sedation, taking into account the patient’s age, clinical status and current medications. In general, midazolam should be infused at the lowest rate that produces the desired level of sedation. Assessment of sedation should be performed at regular intervals and the midazolam infusion rate adjusted up or down by 25% to 50% of the initial infusion rate so as to assure adequate titration of sedation level. Larger adjustments or even a small incremental dose may be necessary if rapid changes in the level of sedation are indicated. In addition, the infusion rate should be decreased by 10% to 25% every few hours to find the minimum effective infusion rate. Finding the minimum effective infusion rate decreases the potential accumulation of midazolam and provides for the most rapid recovery once the infusion is terminated. Patients who exhibit agitation, hypertension, or tachycardia in response to noxious stimulation, but who are otherwise adequately sedated, may benefit from concurrent administration of an opioid analgesic. Addition of an opioid will generally reduce the minimum effective midazolam hydrochloride infusion rate. |
-| PEDIATRIC PATIENTS | UNLIKE ADULT PATIENTS, PEDIATRIC PATIENTS GENERALLY RECEIVE INCREMENTS OF MIDAZOLAM HYDROCHLORIDE ON A MG/KG BASIS. As a group, pediatric patients generally require higher dosages of midazolam hydrochloride (mg/kg) than do adults. Younger (less than six years) pediatric patients may require higher dosages (mg/kg) than older pediatric patients, and may require close monitoring (see tables below). In obese PEDIATRIC PATIENTS, the dose should be calculated based on ideal body weight. When midazolam is given in conjunction with opioids or other sedatives, the potential for respiratory depression, airway obstruction, or hypoventilation is increased. For appropriate patient monitoring, see Boxed WARNING, WARNINGS, and DOSAGE AND ADMINISTRATION, MONITORING. The health care practitioner who uses this medication in pediatric patients should be aware of and follow accepted professional guidelines for pediatric sedation appropriate to their situation. |
+| PEDIATRIC PATIENTS | UNLIKE ADULT PATIENTS, PEDIATRIC PATIENTS GENERALLY RECEIVE INCREMENTS OF MIDAZOLAM HYDROCHLORIDE ON A MG/KG BASIS. As a group, pediatric patients generally require higher dosages of midazolam hydrochloride (mg/kg) than do adults. Younger (less than six years) pediatric patients may require higher dosages (mg/kg) than older pediatric patients, and may require close monitoring (see tables below). In obese PEDIATRIC PATIENTS, the dose should be calculated based on ideal body weight. When midazolam is given in conjunction with opioids or other sedatives, the potential for respiratory depression, airway obstruction, or hypoventilation is increased. For appropriate patient monitoring, see BOXED WARNING, WARNINGS, and DOSAGE AND ADMINISTRATION, MONITORING. The health care practitioner who uses this medication in pediatric patients should be aware of and follow accepted professional guidelines for pediatric sedation appropriate to their situation. |
 
 | OBSERVER’S ASSESSMENT OF ALERTNESS/SEDATION (OAA/S) |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -74,9 +74,9 @@ Intravenous access is not thought to be necessary for all pediatric patients sed
 | Responds only after mild prodding or shaking | few recognizable words | — | — | 2 |
 | Does not respond to mild prodding or shaking | — | — | — | 1 (deep sleep) |
 
-| FREQUENCY OF OBSERVER’S ASSESSMENT OF ALERTNESS/SEDATION COMPOSITE SCORES IN ONESTUDY OF CHILDREN UNDERGOING PROCEDURES WITH INTRAVENOUS MIDAZOLAM FOR SEDATION |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | Age Range(years) | n |  | OAA/S Score |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| FREQUENCY OF OBSERVER’S ASSESSMENT OF ALERTNESS/SEDATION COMPOSITE SCORES IN ONESTUDY OF CHILDREN UNDERGOING PROCEDURES WITH INTRAVENOUS MIDAZOLAM FOR SEDATION |  |  |  |  |  |  |
 |  |  | 1 (deep sleep) | 2 | 3 | 4 | 5 (alert) |
 | 1-2 | 16 | 6(38%) | 4(25%) | 3(19%) | 3(19%) | 0 |
 | >2-5 | 22 | 9(41%) | 5(23%) | 8(36%) | 0 | 0 |

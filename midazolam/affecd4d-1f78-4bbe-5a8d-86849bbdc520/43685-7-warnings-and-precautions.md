@@ -76,7 +76,7 @@ Midazolam does not protect against the increase in intracranial pressure or agai
 
 Use with Other CNS Depressants: The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
 Anticipated effects range from mild sedation to deep levels of sedation virtually equivalent to a state of general anesthesia where the patient may require external support of vital functions.
-Care must be taken to individualize and carefully titrate the dose of midazolam hydrochloride to the patient's underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam hydrochloride and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION sections).
+Care must be taken to individualize and carefully titrate the dose of midazolam hydrochloride to the patient's underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam hydrochloride and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see BOXED WARNING, WARNINGS and DOSAGE AND ADMINISTRATION sections).
 Practitioners administering midazolam hydrochloride must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
 For information regarding withdrawal see DRUG ABUSE AND DEPENDENCE section.
 
@@ -108,9 +108,14 @@ No change in choice reaction time or sedation index was detected after dosing wi
 In a placebo-controlled study, erythromycin administered as a 500 mg dose, tid, for 1 week (n=6), reduced the clearance of midazolam following a single 0.5 mg/kg IV dose.
 The half-life was approximately doubled.
 
+Caution is advised when midazolam is administered to patients receiving erythromycin since this may result in a decrease in the plasma clearance of midazolam.
+
 The effects of diltiazem (60 mg tid) and verapamil (80 mg tid) on the pharmacokinetics and pharmacodynamics of midazolam were investigated in a three-way crossover study (n=9).
 The half-life of midazolam increased from 5 to 7 hours when midazolam was taken in conjunction with verapamil or diltiazem.
 No interaction was observed in healthy subjects between midazolam and nifedipine.
+
+In a placebo-controlled study, saquinavir administered as a 1200 mg dose, tid, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single 0.05 mg/kg IV dose was observed.
+The half-life was approximately doubled.
 
 A moderate reduction in induction dosage requirements of thiopental (about 15%) has been noted following use of intramuscular midazolam hydrochloride for premedication in adults.
 
@@ -124,8 +129,6 @@ Midazolam does not cause a clinically significant change in dosage, onset or dur
 No significant adverse interactions with commonly used premedications or drugs used during anesthesia and surgery (including atropine, scopolamine, glycopyrrolate, diazepam, hydroxyzine, d-tubocurarine, succinylcholine and other nondepolarizing muscle relaxants) or topical local anesthetics (including lidocaine, dyclonine HCl and Cetacaine) have been observed in adults or pediatric patients.
 In neonates, however, severe hypotension has been reported with concomitant administration of fentanyl.
 This effect has been observed in neonates on an infusion of midazolam who received a rapid injection of fentanyl and in patients on an infusion of fentanyl who have received a rapid injection of midazolam.
-
-Caution is advised when midazolam is administered to patients receiving erythromycin since this may result in a decrease in the plasma clearance of midazolam.
 
 ## Drug/Laboratory Test Interactions:
 
@@ -169,7 +172,7 @@ Caution should be exercised when midazolam hydrochloride is administered to a nu
 ## Pediatric Use:
 
 The safety and efficacy of midazolam for sedation/anxiolysis/amnesia following single dose intramuscular administration, intravenously by intermittent injections and continuous infusion have been established in pediatric and neonatal patients.
-For specific safety monitoring and dosage guidelines see Boxed WARNING, CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION sections.
+For specific safety monitoring and dosage guidelines see BOXED WARNING, CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION sections.
 UNLIKE ADULT PATIENTS, PEDIATRIC PATIENTS GENERALLY RECEIVE INCREMENTS OF MIDAZOLAM ON A MG/KG BASIS.
 As a group, pediatric patients generally require higher dosages of midazolam (mg/kg) than do adults.
 Younger (less than six years) pediatric patients may require higher dosages (mg/kg) than older pediatric patients, and may require closer monitoring.
