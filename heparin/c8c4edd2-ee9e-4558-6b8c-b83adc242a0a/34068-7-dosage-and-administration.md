@@ -1,5 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Slight discoloration does not alter potency.
+
+Confirm the choice of the correct Heparin Sodium Injection vial or cartridge prior to administration of the drug to a patient (see WARNINGS, Fatal Medication Errors).
+Heparin Sodium Injection products must not be confused with “catheter lock flush” products.
+To lessen this risk for a cartridge, a red cautionary statement has been added to the cartridge and box/bin.
+Read the cautionary statement and confirm that you have selected the correct medication and strength.
+
 When heparin is added to an infusion solution for continuous intravenous administration, the container should be inverted at least six times to insure adequate mixing and prevent pooling of the heparin in the solution.
 
 Heparin sodium is not effective by oral administration and should be given by intermittent intravenous injection, intravenous infusion, or deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer) injection.
@@ -12,8 +20,6 @@ Dosage is considered adequate when the activated partial thromboplastin time (AP
 After deep subcutaneous (intrafat) injections, tests for adequacy of dosage are best performed on samples drawn 4 to 6 hours after the injections.
 
 Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration.
-
-Heparin Sodium Injection should not be mixed with doxorubicin, droperidol, ciprofloxacin, or mitoxantrone, since it has been reported that these drugs are incompatible with heparin and a precipitate may form.
 
 Converting to Oral Anticoagulant
 
@@ -32,11 +38,11 @@ Although dosage must be adjusted for the individual patient according to the res
 | METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDED DOSE [Based on 150 lb (68 kg) patient] |
 | --- | --- | --- |
 | Deep, Subcutaneous (Intrafat) Injection | Initial Dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
-| A different site should be used for each injection to prevent the development of massive hematoma. | Every 8 hour orEvery 12 hours | 8,000 to 10,000 units of a concentrated solution |
-| 15,000 to 20,000 units of a concentrated solution |  |  |
+| A different site should be used for each injection to prevent the development of massive hematoma. | Every 8 hours or | 8,000 to 10,000 units of a concentrated solution |
+| Every 12 hours | 15,000 to 20,000 units of a concentrated solution |  |
 | Intermittent Intravenous Injection | Initial Dose | 10,000 units, either undiluted or in 50 or 100 mL of 0.9% Sodium Chloride Injection, USP |
-|  | Every 4 to 6 hours | 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
-| Continuous Intravenous Infusion | Initial Dose | 5,000 units by IV injection |
+| Every 4 to6 hours | 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |  |
+| Intravenous Infusion | Initial Dose | 5,000 units by IV injection |
 | Continuous | 20,000 to 40,000 units/24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |  |
 
 Pediatric Use
@@ -47,6 +53,10 @@ In general, the following dosage schedule may be used as a guideline:
 | Initial Dose: | 50 units/kg (IV drip) |
 | --- | --- |
 | Maintenance Dose: | 100 units/kg (IV drip) every four hours, or 20,000 units/m2/24 hours continuously. |
+
+Geriatric Use
+
+Patients over 60 years of age may require lower doses of heparin.
 
 Surgery of the Heart and Blood Vessels
 
@@ -65,11 +75,11 @@ The value of such prophylaxis in hip surgery has not been established.
 The possibility of increased bleeding during surgery or postoperatively should be borne in mind.
 If such bleeding occurs, discontinuance of heparin and neutralization with protamine sulfate is advisable.
 If clinical evidence of thromboembolism develops despite low-dose prophylaxis, full therapeutic doses of anticoagulants should be given unless contraindicated.
-All patients should be screened prior to heparinization to rule out bleeding disorders by appropriate history and laboratory tests, and monitoring should be performed with appropriate coagulation tests just prior to surgery.
+All patients should be screened prior to heparinization to rule out bleeding disorders, and monitoring should be performed with appropriate coagulation tests just prior to surgery.
 Coagulation-test values should be normal or only slightly elevated at these times.
 There is usually no need for daily monitoring of the effect of low-dose heparin in patients with normal coagulation parameters.
 
-Extracorporeal Dialysis Use
+Extracorporeal Dialysis
 
 Follow equipment manufacturers’ operating directions carefully.
 
