@@ -7,8 +7,8 @@ In both studies, patients were randomized to either placebo, FLOMAX capsules 0.4
 Patients in FLOMAX capsules 0.8 mg once daily treatment groups received a dose of 0.4 mg once daily for one week before increasing to the 0.8 mg once daily dose.
 The primary efficacy assessments included: 1) total American Urological Association (AUA) Symptom Score questionnaire, which evaluated irritative (frequency, urgency, and nocturia), and obstructive (hesitancy, incomplete emptying, intermittency, and weak stream) symptoms, where a decrease in score is consistent with improvement in symptoms; and 2) peak urine flow rate, where an increased peak urine flow rate value over baseline is consistent with decreased urinary obstruction.
 
-Mean changes from baseline to week 13 in total AUA Symptom Score were significantly greater for groups treated with FLOMAX capsules 0.4 mg and 0.8 mg once daily compared to placebo in both U.S. studies (Table 2, Figures 2A and 2B).
-The changes from baseline to week 13 in peak urine flow rate were also significantly greater for the FLOMAX capsules 0.4 mg and 0.8 mg once daily groups compared to placebo in Study 1, and for the FLOMAX capsules 0.8 mg once daily group in Study 2 (Table 2, Figures 3A and 3B).
+Mean changes from baseline to Week 13 in total AUA Symptom Score were significantly greater for groups treated with FLOMAX capsules 0.4 mg and 0.8 mg once daily compared to placebo in both U.S. studies (Table 2, Figures 2A and 2B).
+The changes from baseline to Week 13 in peak urine flow rate were also significantly greater for the Flomax® (tamsulosin hydrochloride) capsules 0.4 mg and 0.8 mg once daily groups compared to placebo in Study 1, and for the FLOMAX capsules 0.8 mg once daily group in Study 2 (Table 2, Figures 3A and 3B).
 Overall there were no significant differences in improvement observed in total AUA Symptom Scores or peak urine flow rates between the 0.4 mg and the 0.8 mg dose groups with the exception that the 0.8 mg dose in Study 1 had a significantly greater improvement in total AUA Symptom Score compared to the 0.4 mg dose.
 
 Table 2 Mean (±S.D.)
@@ -25,16 +25,12 @@ Changes from Baseline to Week 13 in Total AUA Symptom Score ** and Peak Urine Fl
 | FLOMAX capsules 0.8 mg once daily | 18.2 ± 5.6 n=244 | -5.8* ± 6.4 n=238 | 9.96 ± 3.16 n=244 | 1.79* ± 3.36 n=237 |
 | FLOMAX capsules 0.4 mg once daily | 17.9 ± 5.8 n=248 | -5.1* ± 6.4 n=244 | 9.94 ± 3.14 n=248 | 1.52 ± 3.64 n=244 |
 | Placebo | 19.2 ± 6.0 n=239 | -3.6 ± 5.7 n=235 | 9.95 ± 3.12 n=239 | 0.93 ± 3.28 n=235 |
-| * Statistically significant difference from placebo (p-value≤0.050;Bonferroni-Holm multiple test procedure); |  |  |  |  |
-| ** Total AUA Symptom Scores ranged from 0 to 35. |  |  |  |  |
-| † Peak urine flow rate measured 4 to 8 hours post dose at Week 13. |  |  |  |  |
-| ‡ Peak urine flow rate measured 24 to 27 hours post dose at Week 13. |  |  |  |  |
-| Week 13: For patients not completing the 13 week study the last observation was carried forward. |  |  |  |  |
+| * Statistically significant difference from placebo (p-value ≤0.050; Bonferroni-Holm multiple test procedure). ** Total AUA Symptom Scores ranged from 0 to 35. † Peak urine flow rate measured 4 to 8 hours post dose at Week 13. ‡ Peak urine flow rate measured 24 to 27 hours post dose at Week 13. Week 13: For patients not completing the 13-week study, the last observation was carried forward. |  |  |  |  |
 
-Mean total AUA Symptom Scores for both Flomax® (tamsulosin hydrochloride) capsules 0.4 mg and 0.8 mg once daily groups showed a rapid decrease starting at one week after dosing and remained decreased through 13 weeks in both studies (Figures 2A and 2B).
+Mean total AUA Symptom Scores for both FLOMAX capsules 0.4 mg and 0.8 mg once daily groups showed a rapid decrease starting at one week after dosing and remained decreased through 13 weeks in both studies (Figures 2A and 2B).
 
 In Study 1, 400 patients (53% of the originally randomized group) elected to continue in their originally assigned treatment groups in a double-blind, placebo controlled, 40 week extension trial (138 patients on 0.4 mg, 135 patients on 0.8 mg and 127 patients on placebo).
-Three hundred and twenty-three patients (43% of the originally randomized group) completed one year.
+Three hundred twenty-three patients (43% of the originally randomized group) completed one year.
 Of these, 81% (97 patients) on 0.4 mg, 74% (75 patients) on 0.8 mg and 56% (57 patients) on placebo had a response ≥25% above baseline in total AUA Symptom Score at one year.
 
 Figure 2A Mean Change from Baseline in Total AUA Symptom Score (0-35) Study 1
@@ -42,7 +38,7 @@ Figure 2A Mean Change from Baseline in Total AUA Symptom Score (0-35) Study 1
 * indicates significant difference from placebo (p-value ≤0.050).
 B = Baseline determined approximately one week prior to the initial dose of double-blind medication at Week 0.
 Subsequent values are observed cases.
-LOCF= Last observation carried forward for patients not completing the 13-week study.
+LOCF = Last observation carried forward for patients not completing the 13-week study.
 Note: Patients in the 0.8 mg treatment group received 0.4 mg for the first week.
 Note: Total AUA Symptom Scores range from 0 to 35.
 
@@ -51,7 +47,7 @@ Figure 2B Mean Change from Baseline in Total AUA Symptom Score (0-35) Study 2
 * indicates significant difference from placebo (p-value ≤0.050).
 Baseline measurement was taken Week 0.
 Subsequent values are observed cases.
-LOCF= Last observation carried forward for patients not completing the 13-week study.
+LOCF = Last observation carried forward for patients not completing the 13-week study.
 Note: Patients in the 0.8 mg treatment group received 0.4 mg for the first week.
 Note: Total AUA Symptom Scores range from 0 to 35.
 
@@ -60,9 +56,9 @@ Figure 3A Mean Increase in Peak Urine Flow Rate (mL/Sec) Study 1
 * indicates significant difference from placebo (p-value ≤0.050).
 B = Baseline determined approximately one week prior to the initial dose of double-blind medication at Week 0.
 Subsequent values are observed cases.
-LOCF= Last observation carried forward for patients not completing the 13-week study.
-Note: The uroflowmetry assessments at week 0 were recorded 4-8 hours after patients received the first dose of double-blind medication.
-Measurements at each visit were scheduled 4-8 hours after dosing (approximately peak plasma tamsulosin concentration).
+LOCF = Last observation carried forward for patients not completing the 13-week study.
+Note: The uroflowmetry assessments at Week 0 were recorded 4-8 hours after patients received the first dose of double-blind medication.
+Measurements at each visit were scheduled 4-8 hours after dosing (approximate peak plasma tamsulosin concentration).
 Note: Patients in the 0.8 mg treatment groups received 0.4 for the first week.
 
 Figure 3B Mean Increase in Peak Urine Flow Rate (mL/Sec) Study 2
@@ -70,7 +66,7 @@ Figure 3B Mean Increase in Peak Urine Flow Rate (mL/Sec) Study 2
 * indicates significant difference from placebo (p-value ≤0.050).
 Baseline measurement was taken Week 0.
 Subsequent values are observed cases.
-LOCF= Last observation carried forward for patients not completing the 13-week study.
+LOCF = Last observation carried forward for patients not completing the 13-week study.
 Note: Patients in the 0.8 mg treatment group received 0.4 mg for the first week.
 Note: Week 1 and Week 2 measurements were scheduled 4-8 hours after dosing (approximate peak plasma tamsulosin concentration).
 All other visits were scheduled 24-27 hours after dosing (approximate trough tamsulosin concentration).

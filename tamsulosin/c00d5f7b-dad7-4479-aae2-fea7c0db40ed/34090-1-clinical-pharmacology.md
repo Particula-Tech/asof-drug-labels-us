@@ -32,7 +32,7 @@ Figure 1 Mean Plasma Tamsulosin Hydrochloride Concentrations Following Single-Do
 The effects of food on the pharmacokinetics of tamsulosin hydrochloride are consistent regardless of whether a Flomax® (tamsulosin hydrochloride) capsule is taken with a light breakfast or a high-fat breakfast (Table 1).
 
 Table 1 Mean (± S.D.)
-Pharmacokinetic Parameters Following FLOMAX capsules 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
+Pharmacokinetic Parameters Following FLOMAX Capsules 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
 
 |  | Light Breakfast | Fasted | Light Breakfast | High-Fat Breakfast | Fasted |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Pharmacokinetic Parameters Following FLOMAX capsules 0.4 mg Once Daily or 0.8 mg
 
 ### Distribution
 
-The mean steady-state apparent volume of distribution of tamsulosin hydrochloride after intravenous administration to ten healthy male adults was 16L, which is suggestive of distribution into extracellular fluids in the body.
+The mean steady-state apparent volume of distribution of tamsulosin hydrochloride after intravenous administration to ten healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
 
 Tamsulosin hydrochloride is extensively bound to human plasma proteins (94% to 99%), primarily alpha-1 acid glycoprotein (AAG), with linear binding over a wide concentration range (20 to 600 ng/mL).
 The results of two-way in vitro studies indicate that the binding of tamsulosin hydrochloride to human plasma proteins is not affected by amitriptyline, diclofenac, glyburide, simvastatin plus simvastatin-hydroxy acid metabolite, warfarin, diazepam, propranolol, trichlormethiazide, or chlormadinone.
@@ -63,7 +63,7 @@ There is no enantiomeric bioconversion from tamsulosin hydrochloride [R(-) isome
 Tamsulosin hydrochloride is extensively metabolized by cytochrome P450 enzymes in the liver and less than 10% of the dose is excreted in urine unchanged.
 However, the pharmacokinetic profile of the metabolites in humans has not been established.
 In vitro results indicate that CYP3A4 and CYP2D6 are involved in metabolism of tamsulosin as well as some minor participation of other CYP isoenzymes.
-Inhibition of hepatic drug metabolizing enzymes may lead to increased exposure to tamsulosin (see Drug-Drug Interactions,Cytochrome P450 Inhibition).
+Inhibition of hepatic drug-metabolizing enzymes may lead to increased exposure to tamsulosin (see Drug-Drug Interactions, Cytochrome P450 Inhibition).
 The metabolites of tamsulosin hydrochloride undergo extensive conjugation to glucuronide or sulfate prior to renal excretion.
 
 Incubations with human liver microsomes showed no evidence of clinically significant metabolic interactions between tamsulosin hydrochloride and amitriptyline, albuterol (beta agonist), glyburide (glibenclamide) and finasteride (5alpha-reductase inhibitor for treatment of BPH).
@@ -73,16 +73,16 @@ However, results of the in vitro testing of the tamsulosin hydrochloride interac
 
 On administration of the radiolabeled dose of tamsulosin hydrochloride to four healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared to feces (21%) over 168 hours.
 
-Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin hydrochloride in plasma range from five to seven hours.
+Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin hydrochloride in plasma ranged from five to seven hours.
 Because of absorption rate-controlled pharmacokinetics with Flomax® (tamsulosin hydrochloride) capsules, the apparent half-life of tamsulosin hydrochloride is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.
 
 Tamsulosin hydrochloride undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/h).
 
 ### Special Populations
 
-#### Geriatrics(Age)
+#### Geriatrics (Age)
 
-Cross-study comparison of FLOMAX capsules overall exposure (AUC) and half-life indicate that the pharmacokinetic disposition of tamsulosin hydrochloride may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
+Cross-study comparison of FLOMAX capsules overall exposure (AUC) and half-life indicates that the pharmacokinetic disposition of tamsulosin hydrochloride may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
 Intrinsic clearance is independent of tamsulosin hydrochloride binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects of age 55 to 75 years compared to subjects of age 20 to 32 years.
 
 #### Renal Dysfunction
@@ -95,7 +95,7 @@ However, patients with endstage renal disease (CLcr <10 mL/min/1.73m2) have not 
 #### Hepatic Dysfunction
 
 The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic dysfunction (Child-Pugh’s classification: Grades A and B) and 8 normal subjects.
-While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride does not change significantly with only a modest (32%) change in intrinsic clearance of unbound tamsulosin hydrochloride.
+While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride does not change significantly, with only a modest (32%) change in intrinsic clearance of unbound tamsulosin hydrochloride.
 Therefore, patients with moderate hepatic dysfunction do not require an adjustment in FLOMAX capsules dosage.
 FLOMAX has not been studied in patients with severe hepatic dysfunction.
 
@@ -128,9 +128,16 @@ While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cm
 Cimetidine
 
 The effects of cimetidine at the highest recommended dose (400 mg every six hours for six days) on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in ten healthy volunteers (age range 21-38 years).
-Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
+Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
 Therefore, FLOMAX capsules should be used with caution in combination with cimetidine, particularly at doses higher than 0.4 mg.
 
-Strong and Moderate Inhibitors of CYP2D6 or CYP3A4
+Strong Inhibitors of CYP3A4 or CYP2D6
 
-No studies have been conducted to examine the effect of concomitant administration of a strong or moderate inhibitor of CYP2D6 or CYP3A4 on the pharmacokinetics of tamsulosin.
+The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg every day on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range from 23 to 47 years).
+Treatment with ketoconazole resulted in a Cmax and AUC that increased by a factor of 2.2 and 2.8, respectively.
+Therefore, FLOMAX 0.4 mg capsules should be used with caution in combination with strong inhibitors of CYP3A4.
+Doses above 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole).
+
+The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg every day on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 23 healthy volunteers (age range from 23 to 48 years).
+Treatment with paroxetine resulted in a Cmax and AUC that increased by a factor of 1.3 and 1.6, respectively.
+Therefore, FLOMAX capsules should be used with caution in combination with strong inhibitors of CYP2D6, particularly at doses higher than 0.4 mg (e.g., 0.8 mg).

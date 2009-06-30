@@ -4,7 +4,7 @@ The incidence of treatment-emergent adverse events has been ascertained from six
 These studies evaluated safety in 1783 patients treated with FLOMAX capsules and 798 patients administered placebo.
 Table 3 summarizes the treatment-emergent adverse events that occurred in ≥2% of patients receiving either FLOMAX capsules 0.4 mg, or 0.8 mg and at an incidence numerically higher than that in the placebo group during two 13-week U.S. trials (US92-03A and US93-01) conducted in 1487 men.
 
-Table 3 Treatment Emergent1 Adverse Events Occurring in ≥2% of Flomax® (tamsulosin hydrochloride) capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
+Table 3 Treatment-Emergent1 Adverse Events Occurring in ≥2% of Flomax® (tamsulosin hydrochloride) Capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
 
 |  | 0.4 mg n=502 | 0.8 mg n=492 | n=493 |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Table 3 Treatment Emergent1 Adverse Events Occurring in ≥2% of Flomax® (tamsu
 | Abnormal Ejaculation | 42 (8.4%) | 89 (18.1%) | 1 (0.2%) |
 | SPECIAL SENSES |  |  |  |
 | Blurred vision | 1 (0.2%) | 10 (2.0%) | 2 (0.4%) |
-| 1 A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication.The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. 2 Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. 3 Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. |  |  |  |
+| 1A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication.The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. 2Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms.3Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. |  |  |  |
 
 Signs and Symptoms of Orthostasis: In the two U.S. studies, symptomatic postural hypotension was reported by 0.2% of patients (1 of 502) in the 0.4 mg group, 0.4% of patients (2 of 492) in the 0.8 mg group, and by no patients in the placebo group.
 Syncope was reported by 0.2% of patients (1 of 502) in the 0.4 mg group, 0.4% of patients (2 of 492) in the 0.8 mg group and 0.6% of patients (3 of 493) in the placebo group.

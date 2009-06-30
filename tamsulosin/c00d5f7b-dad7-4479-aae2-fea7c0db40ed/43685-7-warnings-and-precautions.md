@@ -1,18 +1,20 @@
 # WARNINGS
 
-The signs and symptoms of orthostasis (postural hypotension, dizziness and vertigo) were detected more frequently in FLOMAX capsule treated patients than in placebo recipients.
+The signs and symptoms of orthostasis (postural hypotension, dizziness and vertigo) were detected more frequently in FLOMAX capsule-treated patients than in placebo recipients.
 As with other alpha-adrenergic blocking agents there is a potential risk of syncope (see ADVERSE REACTIONS).
 
 Patients beginning treatment with FLOMAX capsules should be cautioned to avoid situations where injury could result should syncope occur.
 
-Rarely (probably less than one in fifty thousand patients), tamsulosin, like other alpha1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
+Doses of FLOMAX higher than 0.4 mg (e.g., 0.8 mg) should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole).
+
+Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
 Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition (see PRECAUTIONS, Information for Patients).
 
 # PRECAUTIONS
 
 ## General
 
-1. Carcinoma of the prostate: Carcinoma of the prostate and BPH cause many of the same symptoms.
+1. Carcinoma of the Prostate: Carcinoma of the prostate and BPH cause many of the same symptoms.
    These two diseases frequently co-exist.
    Patients should be evaluated prior to the start of FLOMAX capsules therapy to rule out the presence of carcinoma of the prostate.
 2. Intraoperative Floppy Iris Syndrome: Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers, including FLOMAX capsules.
@@ -22,22 +24,24 @@ Because this condition can lead to permanent impotence if not properly treated, 
    The patient's ophthalmologist should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
    The benefit of stopping alpha-1 blocker therapy prior to cataract surgery has not been established.
 3. Sulfa Allergy: In patients with sulfa allergy, allergic reaction to Flomax® (tamsulosin hydrochloride) capsules has been rarely reported.
-   If a patient reports a serious or life threatening sulfa allergy, caution is warranted when administering FLOMAX capsules.
+   If a patient reports a serious or life-threatening sulfa allergy, caution is warranted when administering FLOMAX capsules.
 4. Drug-Drug Interactions: The pharmacokinetic and pharmacodynamic interactions between FLOMAX capsules and other alpha-adrenergic blocking agents have not been determined.
    However, interactions may be expected and FLOMAX capsules should NOT be used in combination with other alpha-adrenergic blocking agents.
-   The pharmacokinetic interaction between cimetidine, a mild inhibitor of several CYP enzymes, and FLOMAX capsules was investigated in 10 subjects (see CLINICAL PHARMACOLOGY,Drug-Drug Interactions).
+   The pharmacokinetic interaction between cimetidine, a mild inhibitor of several CYP enzymes, and FLOMAX capsules was investigated in 10 subjects (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
    The results indicate significant changes in both tamsulosin hydrochloride clearance (26% decrease) and exposure (44% increase in AUC).
    Therefore, FLOMAX capsules should be used with caution in combination with cimetidine, particularly at doses higher than 0.4 mg.
-   Additional pharmacokinetic interactions between strong or moderate CYP2D6 or CYP3A4 inhibitors with FLOMAX have not been examined.
-   As FLOMAX is extensively metabolized (mainly by CYP2D6 and CYP3A4) and as concomitant administration with cimetidine caused 44% increase in FLOMAX exposure, concomitant administration of FLOMAX and an inhibitor of CYP2D6 or CYP3A4 may lead to increased FLOMAX plasma exposure.
-   FLOMAX capsules should be used with caution in combination with moderate or strong inhibitors of CYP2D6 (e.g., fluoxetine) or CYP3A4 (e.g., ketoconazole), particularly at doses higher than 0.4 mg.
+   Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6.
+   When co-administered with 0.4 mg FLOMAX capsules, ketoconazole (a strong CYP3A4 inhibitor) caused an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively.
+   FLOMAX capsules 0.4 mg should therefore be used with caution in combination with strong inhibitors of CYP3A4.
+   Daily doses of FLOMAX higher than 0.4 mg (e.g., 0.8 mg) should not be used in combination with strong inhibitors of CYP3A4 (see WARNINGS).When co-administered with 0.4 mg FLOMAX capsules, paroxetine (a strong CYP2D6 inhibitor) caused an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively.
+   FLOMAX capsules should therefore be used with caution in combination with strong inhibitors of CYP2D6, particularly at doses higher than 0.4 mg (e.g., 0.8 mg).
    Results from limited in vitro and in vivo drug-drug interaction studies between tamsulosin hydrochloride and warfarin are inconclusive.
    Therefore, caution should be exercised with concomitant administration of warfarin and FLOMAX capsules.
    See also Drug-Drug Interactions studies in CLINICAL PHARMACOLOGY, Pharmacokinetics subsection.
 
-Information for Patients (see PATIENT INFORMATION ABOUT FLOMAX CAPSULES)
+Information for Patients (see PATIENT INFORMATION)
 
-Patients should be told about the possible occurrence of symptoms related to postural hypotension such as dizziness when taking FLOMAX capsules, and they should be cautioned about driving, operating machinery or performing hazardous tasks.
+Patients should be told about the possible occurrence of symptoms related to postural hypotension, such as dizziness, when taking FLOMAX capsules, and they should be cautioned about driving, operating machinery or performing hazardous tasks.
 
 Patients should be advised not to crush, chew or open the FLOMAX capsules.
 
@@ -61,7 +65,7 @@ FLOMAX capsules are not indicated for use in women.
 
 ## Geriatric Use
 
-Of the total number of subjects (1,783) in clinical studies of tamsulosin, 36% were 65 years of age and over.
+Of the total number of subjects (1783) in clinical studies of tamsulosin, 36% were 65 years of age and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and the other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Geriatrics (Age)).
 
 ## Nursing Mothers
@@ -74,7 +78,7 @@ FLOMAX capsules are not indicated for use in pediatric populations.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Rats administered doses up to 43 mg/kg/day in males and 52 mg/kg/day in females had no increases in tumor incidence with the exception of a modest increase in the frequency of mammary gland fibroadenomas in female rats receiving doses ≥5.4 mg/kg (P <0.015).
+Rats administered doses up to 43 mg/kg/day in males and 52 mg/kg/day in females had no increases in tumor incidence, with the exception of a modest increase in the frequency of mammary gland fibroadenomas in female rats receiving doses ≥5.4 mg/kg (P <0.015).
 The highest doses of tamsulosin hydrochloride evaluated in the rat carcinogenicity study produced systemic exposures (AUC) in rats 3 times the exposures in men receiving the maximum therapeutic dose of 0.8 mg/day.
 
 Mice were administered doses up to 127 mg/kg/day in males and 158 mg/kg/day in females.

@@ -1,97 +1,140 @@
-Flomax® (tamsulosin hydrochloride) Capsules, 0.4 mg
+PATIENT INFORMATION
 
-PATIENT INFORMATION ABOUT FLOMAX CAPSULES
+Flomax® (Flō-max) (tamsulosin hydrochloride) Capsules, 0.4 mg
 
-FLOMAX capsules are for use by men only.
-FLOMAX capsules are not indicated for use in women.
+Read the Patient Information that comes with FLOMAX capsules before you start taking it and each time you refill your prescription.
+The information may have changed.
+This leaflet does not take the place of discussions with your doctor about your medical condition or your treatment.
 
-Please read this leaflet before you start taking FLOMAX capsules.
-Also, read it each time you renew your prescription, just in case new information has been added.
-Remember, this leaflet does not take the place of careful discussions with your doctor.
-You and your doctor should discuss FLOMAX capsules when you start taking your medication and at regular checkups.
+What is FLOMAX?
 
-Why has your doctor prescribed FLOMAX capsules?
+FLOMAX is a prescription alpha-blocker medicine used to treat the signs and symptoms of benign prostatic hyperplasia (BPH), a condition your doctor may refer to as an enlarged prostate.
 
-Your doctor has prescribed FLOMAX capsules because you have a medical condition called benign prostatic hyperplasia (BPH) also commonly referred to as enlarged prostate.
-This occurs only in men.
+- FLOMAX is not for women.
+- FLOMAX is not for children.
 
-What is BPH?
+Who should not take FLOMAX?
 
-Benign prostatic hyperplasia is an enlargement of the prostate gland.
-After age 50, most men develop enlarged prostates.
-The prostate is located below the bladder.
-As the prostate enlarges, it may slowly restrict the flow of urine.
-This can lead to symptoms such as:
+Do not take FLOMAX if you are allergic to any of its ingredients.
+See the end of this leaflet for a complete list of ingredients in FLOMAX.
 
-- a weak or interrupted urinary stream
-- a feeling that you cannot empty your bladder completely
-- a feeling of delay or hesitation when you start to urinate
-- a need to urinate often, especially at night
-- a feeling that you must urinate right away
+What Should I Tell My Doctor Before Using FLOMAX?
 
-Since cancer of the prostate may cause similar symptoms, you should be evaluated by your doctor to rule out prostate cancer.
-Your doctor will likely examine your prostate gland manually to detect abnormalities and may measure prostate-specific antigen (PSA) in your blood to help in evaluating for the presence of prostate cancer.
-FLOMAX capsules do not affect PSA levels.
+- Before taking FLOMAX, tell your doctor about all your medical conditions including:
+  - any kidney or liver problems.
+  - any history of low blood pressure.
+  - any allergies to sulfa or any other medicines.
+  - if you are planning to have cataract surgery.
+- Tell your doctor about all the medicines you take including:
+  - any prescription medicines, including blood pressure medicines
+  - any non-prescription medicines, including vitamins and herbal supplements.
+- Some of your other medicines may affect the way FLOMAX works.
+  Especially tell your doctor if you take a medicine for high blood pressure.
+  You should not take FLOMAX if you are already taking certain blood pressure medicines.
+- 
+- 
 
-Treatment Options for BPH
+Know the medicines you take.
+Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
-There are three main treatment options for BPH:
+How should I take FLOMAX?
 
-- Program of monitoring or “Watchful Waiting”.
-  Some men have an enlarged prostate gland, but no symptoms, or symptoms that are not bothersome.
-  If this applies, you and your doctor may decide on a program of monitoring, including regular checkups, instead of medication or surgery.
-- There are different kinds of medication used to treat BPH.
-  Your doctor has prescribed Flomax® (tamsulosin hydrochloride) capsules for you (see What a FLOMAX capsule does to treat BPH) below.
-- Surgery.
-  Some patients may need surgery.
-  Your doctor can describe several different surgical procedures to treat BPH.
-  Which procedure is best depends on your symptoms and medical condition.
+- Take FLOMAX exactly as prescribed by your doctor.
+- Do not crush, chew, or open FLOMAX capsules.
+- Take FLOMAX one time each day, about 30 minutes after the same meal each day.
+  For example, you may take FLOMAX 30 minutes after dinner each day.
+- If you miss a dose of FLOMAX, take it as soon as you remember.
+  If you miss your dose for the whole day, continue with your next dose on your regular schedule.
+  Do not take two doses at the same time.
+- If you stop or forget to take FLOMAX for several days, talk with your doctor before starting again.
+- If you take more FLOMAX capsules than prescribed, call your doctor right away.
 
-What a FLOMAX capsule does to treat BPH
+What are the side effects of FLOMAX?
 
-FLOMAX capsules act by relaxing muscles in the prostate and bladder neck at the site of the obstruction, resulting in improved urine flow and reduced BPH symptoms.
+Possible side effects of FLOMAX may include:
 
-What you need to know while taking FLOMAX capsules
+- Decreased blood pressure when changing positions.
+  FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
+  Symptoms may include:
+  - fainting
+  - dizziness
+  - lightheadedness
 
-- You must see your doctor regularly.
-  While taking FLOMAX capsules, you must have regular checkups.
-  Follow your doctor's advice about when to have these checkups.
-- It is important for you to recognize that FLOMAX capsules can cause a sudden drop in blood pressure especially following the first dose or when changing doses of FLOMAX capsules.
-  Such a drop in blood pressure, although rare in occurrence, may be associated with fainting, dizziness, or lightheadedness.
-  Therefore, get up slowly from a chair or bed at any time until you learn how you react to FLOMAX capsules.
-  You should not drive or do any hazardous tasks until you are used to the side effects of FLOMAX capsules.
-  If you begin to feel dizzy, sit down until you feel better.
-  Although these symptoms are unlikely, you should avoid driving or hazardous tasks for 12 hours after the initial dose or after your doctor recommends an increase in dose.
-  If you interrupt your treatment for several days or more, resume treatment at one capsule a day, after consulting with your physician.
-  Other side effects may include sleeplessness, runny nose, or ejaculatory problems.
-  In some cases, side effects may decrease or disappear when you continue to take FLOMAX capsules.
-- Extremely rarely, FLOMAX capsules and similar medications have caused prolonged, painful erection of the penis, which is unrelieved by sexual intercourse or masturbation.
-  This condition, if untreated, can lead to permanent inability to have an erection.
-  If you have a prolonged erection, call your doctor or go to an Emergency Room as soon as possible.
-- If you are contemplating cataract surgery, make certain to advise your eye surgeon that you have taken Flomax® (tamsulosin hydrochloride) capsules.
+- Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to FLOMAX capsules.
+  If you begin to feel dizzy, sit or lie down until you feel better.
+  If the symptoms are severe or do not improve, call your doctor.
 
-You should discuss side effects with your doctor before taking FLOMAX capsules and anytime you think you are having a side effect.
+- Allergic reactions.
+  Make your doctor aware of any allergic reactions you may experience while taking FLOMAX.
+  Allergic reactions may include: Rare and more serious allergic reactions may also include:Get medical help right away if you have swelling of the face, tongue or throat, or difficulty breathing.
+  - rash
+  - itching
+  - hives
+  - 
+  - swelling of face, tongue, or throat
+  - difficulty breathing
+- A painful erection that will not go away.
+  FLOMAX capsules can cause a painful erection (priapism), which cannot be relieved by having sex.
+  If this happens, get medical help right away.
+  If priapism is not treated, you may not be able to get an erection in the future.
+- Eye problems during cataract surgery.
+  During cataract surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken FLOMAX.
+  If you need to have cataract surgery, be sure to tell your surgeon if you take or have taken FLOMAX.
 
-How to take FLOMAX capsules
+Common side effects of FLOMAX may include:
 
-Follow your doctor's advice about how to take FLOMAX capsules.
-You should take it approximately 30 minutes following the same meal every day.
+- runny nose
+- dizziness
+- decreased semen
 
-Do not share FLOMAX capsules with anyone else; it was prescribed only for you.
+These are not all the possible side effects with FLOMAX.
+Tell your doctor if you have any side effect that bothers you or that does not go away.
 
-Do not crush, chew, or open FLOMAX capsules.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088, or by visiting www.fda.gov/medwatch.
 
-Keep FLOMAX capsules and all medicines out of reach of children.
+What should I avoid while taking FLOMAX?
 
-FOR MORE INFORMATION ABOUT FLOMAX CAPSULES AND BPH, TALK WITH YOUR DOCTOR.
-IN ADDITION, TALK TO YOUR PHARMACIST OR OTHER HEALTHCARE PROVIDER.
+Avoid driving, operating machinery, or other dangerous activities, until you know how FLOMAX affects you.
+FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
+See "What are the side effects of FLOMAX?"
+
+How Do I Store FLOMAX capsules?
+
+Store FLOMAX capsules at Room Temperature [77°F (25°C)].
+Short-term exposure to higher or lower temperatures [from 59°F (15°C) to 86°F (30°C)] is acceptable.
+Ask your doctor or pharmacist if you have any questions about storing your capsules.
+
+Keep FLOMAX capsules and all medicines out of the reach of children.
+
+General information about FLOMAX
+
+This medicine was prescribed for you by your doctor for your condition.
+Do not use it for another condition.
+Do not give FLOMAX to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+While taking FLOMAX, you must have regular checkups.
+Follow your doctor's advice about when to have these checkups.
+
+This patient information leaflet summarizes the most important information about FLOMAX.
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about FLOMAX that is written for health professionals.
+For more information call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+
+What are the Ingredients in FLOMAX?
+
+- Active Ingredient: tamsulosin hydrochloride
+- Inactive Ingredients: methacrylic acid copolymer dispersion NF, microcrystalline cellulose, triacetin, calcium stearate, talc, FD&C blue No. 2, titanium dioxide, ferric oxide, gelatin, and trace amounts of black edible ink.
 
 Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Astellas Pharma US, Inc. Deerfield, IL 60015 USA
 
-Manufactured by: Astellas Pharma Inc. Tokyo 103-8411, JAPAN or Astellas Pharma Inc. Norman, OK 73072
+Manufactured by: Astellas Pharma Inc. Tokyo 103-8411 JAPAN or Astellas Pharma Technologies, Inc. Norman, OK 73072 USA
 
 Licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-Copyright©2007, ALL RIGHTS RESERVED
+Copyright©2009, ALL RIGHTS RESERVED
 
-IT8004DJ1907 PRT42/US/1 Rev: October 2007 Printed in USA
+IT8004ID0909 PRT59/US/1 Rev: April 2009
+
+Printed in USA
