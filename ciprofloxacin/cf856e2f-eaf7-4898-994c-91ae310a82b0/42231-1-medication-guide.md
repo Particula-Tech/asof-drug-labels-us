@@ -346,9 +346,9 @@ CIPRO is a registered trademark of Bayer Aktiengesellschaft and is used under li
 
 Rx Only
 
-81532304, R.010/08 Bay o 9867 5202-2-A-U.S.-2614210
+81532304, R.1 04/09 Bay o 9867 5202-2-A-U.S.-2614210
 
-©2008 Bayer HealthCare Pharmaceuticals Inc.Printed in U.S.A.
+©2009 Bayer HealthCare Pharmaceuticals Inc.Printed in U.S.A.
 
 CIPRO (ciprofloxacin*) 5% and 10% Oral Suspension Made in Italy
 

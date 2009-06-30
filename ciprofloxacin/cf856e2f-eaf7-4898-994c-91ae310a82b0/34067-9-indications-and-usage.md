@@ -18,7 +18,7 @@ NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of firs
 
 Acute Sinusitis caused by Haemophilus influenzae, penicillin-susceptible Streptococcus pneumoniae, or Moraxella catarrhalis.
 
-Skin and Skin Structure Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus. methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
+Skin and Skin Structure Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
 
 Bone and Joint Infections caused by Enterobacter cloacae, Serratia marcescens, or Pseudomonas aeruginosa.
 
@@ -45,7 +45,7 @@ Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and h
 
 Inhalational anthrax (post-exposure): To reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
-Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.4 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
+Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.5 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
 (See also, INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION).
 
 †Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.

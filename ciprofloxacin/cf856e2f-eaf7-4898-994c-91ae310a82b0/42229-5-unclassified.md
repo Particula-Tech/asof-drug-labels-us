@@ -92,21 +92,20 @@ A report of “Resistant” indicates that the pathogen is not likely to be inhi
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard ciprofloxacin powder should provide the following MIC values:
 
-| Organism |  | MIC (μg/mL) |  |  |
-| --- | --- | --- | --- | --- |
-| E. faecalis | ATCC 29212 | 0.25 – 2 |  |  |
-| E. coli | ATCC 25922 | 0.004 – 0.015 |  |  |
-| H. influenzaea | ATCC 49247 | 0.004 – 0.03 |  |  |
-| N. gonorrhoeaeb | ATCC 49226 | 0.001 – 0.008 |  |  |
-| P. aeruginosa | ATCC 27853 | 0.25 – 1 |  |  |
-| S. aureus | ATCC 29213 | 0.12 – 0.5 |  |  |
-| aThis quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)1. |  |  |  |  |
-| bThis quality control range is applicable to only N. gonorrhoeae ATCC 49226 tested by an agar dilution procedure using GC agar base and 1% defined growth supplement. |  |  |  |  |
+| Organism |  | MIC (μg/mL) |
+| --- | --- | --- |
+| E. faecalis | ATCC 29212 | 0.25 – 2 |
+| E. coli | ATCC 25922 | 0.004 – 0.015 |
+| H. influenzaeThis quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)1. | ATCC 49247 | 0.004 – 0.03 |
+| P. aeruginosa | ATCC 27853 | 0.25 – 1 |
+| S. aureus | ATCC 29213 | 0.12 – 0.5 |
+| C. jejuniC. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5-5% lysed horse blood in a microaerophilic environment at 36-37oC for 48 hours and for 42oC at 24 hours2, respectively. | ATCC 33560 | 0.06 – 0.25 and 0.03–0.12 |
+| N. gonorrhoeaeN. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO2 environment at 35-37oC for 20-24 hours3. | ATCC 49226 | 0.001-0.008 |
 
 ### Diffusion Techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
+One such standardized procedure3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5-μg ciprofloxacin to test the susceptibility of microorganisms to ciprofloxacin.
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5-μg ciprofloxacin disk should be interpreted according to the following criteria:
@@ -125,7 +124,7 @@ For testing Haemophilus influenzae and Haemophilus parainfluenzaeb:
 | Zone Diameter (mm) | Interpretation |  |
 | --- | --- | --- |
 | ≥ 21 | Susceptible (S) |  |
-| bThis zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)2. |  |  |
+| bThis zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)3. |  |  |
 
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
@@ -152,7 +151,7 @@ For the diffusion technique, the 5-μg ciprofloxacin disk should provide the fol
 | N. gonorrhoeaeb | ATCC 49226 | 48 – 58 |
 | P. aeruginosa | ATCC 27853 | 25 – 33 |
 | S. aureus | ATCC 25923 | 22 – 30 |
-| a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)2. |  |  |
+| a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)3. |  |  |
 | b These quality control limits are applicable only to tests conducted with N. gonorrhoeae ATCC 49226 performed by disk diffusion using GC agar base and 1% defined growth supplement. |  |  |
 
 # INHALATIONAL ANTHRAX IN ADULTS AND PEDIATRICS – ADDITIONAL INFORMATION
@@ -166,14 +165,13 @@ In a study of 10 pediatric patients between 6 and 16 years of age, the mean peak
 After the second intravenous infusion patients switched to 15 mg/kg orally every 12 hours achieve a mean peak concentration of 3.6 μg/mL after the initial oral dose.
 Long-term safety data, including effects on cartilage, following the administration of ciprofloxacin to pediatric patients are limited.
 (For additional information, see PRECAUTIONS, Pediatric Use.)
-Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.4
+Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.5
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 x 105 spores (range 5-30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 μg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 to 1.69 μg/mL.
-Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 to 0.19 μg/mL5.
-Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
-The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.6
+Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 to 0.19 μg/mL.6 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
+The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.7
 
 More than 9300 persons were recommended to complete a minimum of 60 days of antibiotic prophylaxis against possible inhalational exposure to B. anthracis during 2001.
 Ciprofloxacin was recommended to most of those individuals for all or part of the prophylaxis regimen.
@@ -205,6 +203,6 @@ Appropriate Dosing Volumes of the Oral Suspensions:
 
 Preparation of the suspension:
 
-CIPRO Oral Suspension should not be administered through feeding tubes due to its physical characteristics.
+CIPRO Oral Suspension should not be administered through feeding or NG (nasogastric)tubes due to its physical characteristics.
 
 Instruct the patient to shake CIPRO Oral Suspension vigorously each time before use for approximately 15 seconds and not to chew the microcapsules.
