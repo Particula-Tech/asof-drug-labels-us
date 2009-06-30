@@ -9,7 +9,7 @@ AzaSite is indicated for topical ophthalmic use only, and should not be administ
 
 In patients receiving systemically administered azithromycin, serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens Johnson Syndrome and toxic epidermal necrolysis have been reported rarely in patients on azithromycin therapy.
 Although rare, fatalities have been reported.
-While these reactions have not been observed with topical ophthalmic use of AzaSite, the potential for anaphylaxis or other hypersensitivity reactions should be considered since patients with a known hypersensitivity to azithromycin or erythromycin were excluded from study.
+The potential for anaphylaxis or other hypersensitivity reactions should be considered since patients with a known hypersensitivity to azithromycin or erythromycin were excluded from study.
 
 ## 5.3 Growth of Resistant Organisms with Prolonged Use
 
