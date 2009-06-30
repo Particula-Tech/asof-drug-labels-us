@@ -51,7 +51,7 @@ These latter tests include both semiquantitative and quantitative techniques for
 
 Prolongation of the template bleeding time has been reported during continuous intravenous infusion of Aminocaproic Acid Injection at dosages exceeding 24 g/day.
 Platelet function studies in these patients have not demonstrated any significant platelet dysfunction.
-However, in vitro studies have shown that at high concentrations (7.4 mMol/L or 0.97 mg/mL and greater) aminocaproic acid inhibits ADP and collagen-induced platelet aggregation, the release of ATP and serotonin, and the binding of fibrinogen to the platelets in a concentration-response manner.
+However, in vitro studies have shown that at high concentrations (7.4 mMol/L or 0.97 mg/mL and greater) EACA inhibits ADP and collagen-induced platelet aggregation, the release of ATP and serotonin, and the binding of fibrinogen to the platelets in a concentration-response manner.
 Following a 10 g bolus of Aminocaproic Acid Injection, transient peak plasma concentrations of 4.6 mMol/L or 0.60 mg/mL have been obtained.
 The concentration of aminocaproic acid necessary to maintain inhibition of fibrinolysis is 0.99 mMol/L or 0.13 mg/mL.
 Administration of a 5 g bolus followed by 1 to 1.25 g/hr should achieve and sustain plasma levels of 0.13 mg/mL.

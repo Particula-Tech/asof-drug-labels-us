@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Aminocaproic Acid Injection, USP is a 6-aminohexanoic acid, which acts as an inhibitor of fibrinolysis and is a white to pale yellow powder soluble in water.
+Aminocaproic Acid Injection, USP is a 6-aminohexanoic acid, which acts as an inhibitor of fibrinolysis.
 
 Aminocaproic Acid is soluble in water, acid and alkaline solutions; it is sparingly soluble in methanol and practically insoluble in chloroform.
 

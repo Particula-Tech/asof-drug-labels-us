@@ -5,7 +5,8 @@
 Grune and Stratton, pp.
 510-514, 1962.
 
-| ©Hospira 2005 | EN-0857 | Printed in USA |
-| --- | --- | --- |
+Revised: March, 2007
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+| Printed in USA | EN-1485 |
+| --- | --- |
+| Hospira, Inc., Lake Forest, IL 60045 USA |  |
