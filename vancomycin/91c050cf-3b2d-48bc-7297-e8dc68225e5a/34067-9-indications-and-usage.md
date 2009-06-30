@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Vancomycin hydrochloride is indicated for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (β-lactam-resistant) staphylococci.
+Vancomycin hydrochloride is indicated for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (ß-lactam-resistant) staphylococci.
 It is indicated for penicillin-allergic patients, for patients who cannot receive or who have failed to respond to other drugs, including the penicillins or cephalosporins, and for infections caused by vancomycin-susceptible organisms that are resistant to other antimicrobial drugs.
 Vancomycin hydrochloride is indicated for initial therapy when methicillin-resistant staphylococci are suspected, but after susceptibility data are available, therapy should be adjusted accordingly.
 

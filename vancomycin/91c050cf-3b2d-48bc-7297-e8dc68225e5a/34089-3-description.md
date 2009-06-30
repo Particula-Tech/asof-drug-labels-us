@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Sterile Vancomycin Hydrochloride, USP, intravenous, is a chromatographically purified tricyclic glycopeptide antibiotic derived from Amycolatopsis orientalis (formerly Nocardia orientalis) and has the molecular formula C66H75Cl2N9O24• HCl.
+Sterile Vancomycin Hydrochloride, USP, intravenous, is a chromatographically purified tricyclic glycopeptide antibiotic derived from Amycolatopsis orientalis (formerly Nocardia orientalis) and has the molecular formula C66H75Cl2N9O24 • HCl.
 The molecular weight is 1485.74; 500 mg of the base is equivalent to 0.34 mmol and 1 g of the base is equivalent to 0.67 mmol.
 
 Vancomycin HCl has the following structural formula:
