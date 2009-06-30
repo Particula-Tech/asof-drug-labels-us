@@ -2,14 +2,14 @@
 
 Status Epilepticus
 
-The most important adverse clinical event caused by the use of Lorazepam Injection is respiratory depression (see “WARNINGS”).
+The most important adverse clinical event caused by the use of Lorazepam Injection is respiratory depression (see WARNINGS).
 
 The adverse clinical events most commonly observed with the use of Lorazepam Injection in clinical trials evaluating its use in status epilepticus were hypotension, somnolence, and respiratory failure.
 
 Incidence in Controlled Clinical Trials
 
 All adverse events were recorded during the trials by the clinical investigators using terminology of their own choosing.
-Similar types of events were grouped into standardized categoriesusing modified COSTART dictionary terminology.
+Similar types of events were grouped into standardized categories using modified COSTART dictionary terminology.
 These categories are used in the table and listings below with the frequencies representing the proportion of individuals exposed to Lorazepam Injection or to comparative therapy.
 
 The prescriber should be aware that these figures cannot be used to predict the frequency of adverse events in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
@@ -18,46 +18,39 @@ An inspection of these frequencies, however, does provide the prescribing physic
 
 Commonly Observed Adverse Events in a Controlled Dose-Comparison Clinical Trial
 
-Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam Injection in a dose-comparison trial of Lorazepam Injection 1 mg, 2 mg, and 4 mg.
+Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam Injection in a dose-comparison trial of lorazepam 1 mg, 2 mg, and 4 mg.
 
 | TABLE 1. NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL |  |
 | --- | --- |
-| Body System Event | Lorazepam Injection(n=130)a |
+| Body SystemEvent | Lorazepam Injection(n=130)a |
 | Any Study Event (1 or more)b | 16 (12.3%) |
-| Body as a whole Infection | 1 (<1%) |
-| Cardiovascular system Hypotension | 2 (1.5%) |
-| Digestive system Liver function tests abnormal Nausea Vomiting | 1 (<1%)1 (<1%)1 (<1%) |
-| Metabolic and Nutritional Acidosis | 1 (<1%) |
-| Nervous system Brain edema Coma Convulsion Somnolence Thinking abnormal | 1 (<1%)1 (<1%)1 (<1%)2 (1.5%)1 (<1%) |
-| Respiratory system Hyperventilation Hypoventilation Respiratory failure | 1 (<1%)1 (<1%)2 (1.5%) |
-| Terms not classifiable Injection site reaction | 1 (<1%) |
-| Urogenital system Cystitis | 1 (<1%) |
-
-a: One hundred and thirty (130) patients received Lorazepam Injection.
-
-b: Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system.
+| Body as a wholeInfection | 1 (<1%) |
+| Cardiovascular systemHypotension | 2 (1.5%) |
+| Digestive systemLiver function tests abnormalNauseaVomiting | 1 (<1%)1 (<1%)1 (<1%) |
+| Metabolic and NutritionalAcidosis | 1 (<1%) |
+| Nervous systemBrain edemaComaConvulsionSomnolenceThinking abnormal | 1 (<1%)1 (<1%)1 (<1%)2 (1.5%)1 (<1%) |
+| Respiratory systemHyperventilationHypoventilationRespiratory failure | 1 (<1%)1 (<1%)2 (1.5%) |
+| Terms not classifiableInjection site reaction | 1 (<1%) |
+| Urogenital SystemCystitis | 1 (<1%) |
+| a One hundred and thirty (130) patients received Lorazepam Injection.b Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  |
 
 Commonly Observed Adverse Events in Active-Controlled Clinical Trials
 
 In two studies, patients who completed the course of treatment for status epilepticus were permitted to be reenrolled and to receive treatment for a second status episode, given that there was a sufficient interval between the two episodes.
-Safety was determined from all treatment episodes for all intent-to-treat patients, i.e., from all “patient-episodes.”
+Safety was determined from all treatment episodes for all intent-to-treat patients, i.e., from all“patient-episodes.”
 Table 2 lists the treatment emergent adverse events that occurred in at least 1% of the patient-episodes in which Lorazepam Injection or diazepam was given.
 The table represents the pooling of results from the two controlled trials.
 
 | TABLE 2. NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL |  |  |
 | --- | --- | --- |
-| Body System Event | Lorazepam Injection(n=85)a | Diazepam(n=80)a |
+| Body SystemEvent | Lorazepam Injection(n=85)a | Diazepam(n=80)a |
 | Any Study Event (1 or more)b | 14 (16.5%) | 11 (13.8%) |
-| Body as a whole Headache | 1 (1.2%) | 1 (1.3%) |
-| Cardiovascular system Hypotension | 2 (2.4%) | 0 |
-| Hemic and lymphatic system Hypochromic anemia Leukocytosis Thrombocythemia | 000 | 1 (1.3%)1 (1.3%)1 (1.3%) |
-| Nervous system Coma Somnolence Stupor | 1 (1.2%)3 (3.5%)1 (1.2%) | 1 (1.3%)3 (3.8%)0 |
-| Respiratory system Hypoventilation Apnea Respiratory failure Respiratory disorder | 1 (1.2%)1 (1.2%)2 (2.4%)1 (1.2%) | 2 (2.5%)1 (1.3%)1 (1.3%)0 |
-
-a: The number indicates the number of “patient-episodes.”
-Patient-episodes were used rather than “patients” because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam Injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions.
-
-b: Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system.
+| Body as a wholeHeadache | 1 (1.2%) | 1 (1.3%) |
+| Cardiovascular systemHypotension | 2 (2.4%) | 0 |
+| Hemic and lymphatic systemHypochromic anemiaLeukocytosisThrombocythemia | 000 | 1 (1.3%)1 (1.3%)1 (1.3%) |
+| Nervous systemComa SomnolenceStupor | 1 (1.2%)3 (3.5%)1 (1.2%) | 1 (1.3%)3 (3.8%)0 |
+| Respiratory systemHypoventilationApneaRespiratory failureRespiratory disorder | 1 (1.2%)1 (1.2%)2 (2.4%)1 (1.2%) | 2 (2.5%)1 (1.3%)1 (1.3%)0 |
+| a The number indicates the number of “patient-episodes.” Patient-episodes were used rather than “patients” because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam Injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions.b Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  |  |
 
 These trials were not designed or intended to demonstrate the comparative safety of the two treatments.
 
@@ -78,24 +71,24 @@ Study events were classified by body system in descending frequency by using the
 
 Frequent and Infrequent Study Events
 
-| BODY AS A WHOLE- | Infrequent: asthenia, chills, headache, infection. |
+| BODY AS A WHOLE - | Infrequent: asthenia, chills, headache, infection. |
 | --- | --- |
-| DIGESTIVE SYSTEM- | Infrequent: abnormal liver function test, increased salivation, nausea, vomiting. |
-| METABOLIC AND NUTRITIONAL- | Infrequent: acidosis, alkaline phosphatase increased. |
-| NERVOUS SYSTEM- | Infrequent: agitation, ataxia, brain edema, coma, confusion, convulsion, hallucinations, myoclonus, stupor, thinking abnormal, tremor. |
-| RESPIRATORY SYSTEM- | Frequent: apnea; Infrequent: hyperventilation, hypoventilation, respiratory disorder. |
-| TERMS NOT CLASSIFIABLE- | Infrequent: injection site reaction. |
-| UROGENITAL SYSTEM- | Infrequent: cystitis. |
+| DIGESTIVE SYSTEM - | Infrequent: abnormal liver function test, increased salivation, nausea, vomiting. |
+| METABOLIC AND NUTRITIONAL - | Infrequent: acidosis, alkaline phosphatase increased. |
+| NERVOUS SYSTEM - | Infrequent: agitation, ataxia, brain edema, coma, confusion, convulsion, hallucinations, myoclonus, stupor, thinking abnormal, tremor. |
+| RESPIRATORY SYSTEM - | Frequent: apnea; Infrequent: hyperventilation, hypoventilation, respiratory disorder. |
+| TERMS NOT CLASSIFIABLE - | Infrequent: injection site reaction. |
+| UROGENITAL SYSTEM - | Infrequent: cystitis. |
 
 Preanesthetic
 
 Central Nervous System
 
-The most frequent adverse effects seen with injectable lorazepam are an extension of the central-nervous-system depressant effects of the drug.
+The most frequent adverse drug event reported with injectable lorazepam is central-nervous-system depression.
 The incidence varied from one study to another, depending on the dosage, route of administration, use of other central-nervous-system depressants, and the investigator’s opinion concerning the degree and duration of desired sedation.
-Excessive sleepiness and drowsiness were the main side effects.
-This interfered with patient cooperation in approximately 6% (25/446) of patients undergoing regional anesthesia in that they were unable to assess levels of anesthesia in regional blocks or with caudal anesthesia.
-Patients over 50 years of age had a higher incidence of excessive sleepiness or drowsiness when compared with those under 50 (21/106 vs 24/245) when lorazepam was given intravenously (see “DOSAGE AND ADMINISTRATION”).
+Excessive sleepiness and drowsiness were the most common consequences of CNS depression.
+This interfered with patient cooperation in approximately 6% (25/446) of patients undergoing regional anesthesia, causing difficulty in assessing levels of anesthesia.
+Patients over 50 years of age had a higher incidence of excessive sleepiness or drowsiness when compared with those under 50 (21/106 versus 24/245) when lorazepam was given intravenously (see DOSAGE AND ADMINISTRATION).
 On rare occasion (3/1580) the patient was unable to give personal identification in the operating room on arrival, and one patient fell when attempting premature ambulation in the postoperative period.
 
 Symptoms such as restlessness, confusion, depression, crying, sobbing, and delirium occurred in about 1.3% (20/1580).
@@ -121,7 +114,7 @@ Reactions at the injection site (redness) occurred in approximately 2% (17/859) 
 Intravenous administration of lorazepam resulted in painful responses in 13/771 patients or approximately 1.6% in the immediate postinjection period, and 24 hours later 4/771 patients or about 0.5% still complained of pain.
 Redness did not occur immediately following intravenous injection but was noted in 19/771 patients at the 24-hour observation period.
 This incidence is similar to that observed with an intravenous infusion before lorazepam is given.
-Intra-arterial injection may produce arteriospasm resulting in gangrene which may require amputation (see “CONTRAINDICATIONS”).
+Intra-arterial injection may produce arteriospasm resulting in gangrene which may require amputation (see CONTRAINDICATIONS).
 
 Cardiovascular System
 
@@ -129,9 +122,9 @@ Hypertension (0.1%) and hypotension (0.1%) have occasionally been observed after
 
 Respiratory System
 
-Five patients (5/446) who underwent regional anesthesia were observed to have partial airway obstruction.
+Five patients (5/446) who underwent regional anesthesia were observed to have airway obstruction.
 This was believed due to excessive sleepiness at the time of the procedure and resulted in temporary hypoventilation.
-In this instance, appropriate airway management may become necessary (see also “CLINICAL PHARMACOLOGY,”“WARNINGS,” and “PRECAUTIONS”).
+In this instance, appropriate airway management may become necessary (see also CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
 Other Adverse Experiences
 
@@ -140,7 +133,7 @@ Skin rash, nausea, and vomiting have occasionally been noted in patients who hav
 Paradoxical Reactions
 
 As with all benzodiazepines, paradoxical reactions such as stimulation, mania, irritability, restlessness, agitation, aggression, psychosis, hostility, rage, or hallucinations may occur in rare instances and in an unpredictable fashion.
-In these instances, further use of the drug in these patients should be considered with caution (see “PRECAUTIONS”, General).
+In these instances, further use of the drug in these patients should be considered with caution (see PRECAUTIONS: General).
 
 Postmarketing Reports
 

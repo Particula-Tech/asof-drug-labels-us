@@ -4,18 +4,18 @@ Lorazepam interacts with the γ-aminobutyric acid (GABA)-benzodiazepine receptor
 This interaction is presumed to be responsible for lorazepam’s mechanism of action.
 Lorazepam exhibits relatively high and specific affinity for its recognition site but does not displace GABA.
 Attachment to the specific binding site enhances the affinity of GABA for its receptor site on the same receptor complex.
-The pharmacodynamic consequences of benzodiazepine agonist actions include antianxiety effects and sedation.
+The pharmacodynamic consequences of benzodiazepine agonist actions include antianxiety effects, sedation, and reduction of seizure activity.
 The intensity of action is directly related to the degree of benzodiazepine receptor occupancy.
 
 Effects in Pre-Operative Patients
 
-Intravenous or intramuscular administration of the recommended dose of 2 mg to 4 mg of Lorazepam Injection to adult patients is followed by dose-related effects of sedation (sleepiness or drowsiness), relief of preoperative anxiety, and lack of recall of events related to the day of surgery in the majority of patients.
+Intravenous or intramuscular administration of the recommended dose of 2 mg to 4 mg of lorazepam injection to adult patients is followed by dose-related effects of sedation (sleepiness or drowsiness), relief of preoperative anxiety, and lack of recall of events related to the day of surgery in the majority of patients.
 The clinical sedation (sleepiness or drowsiness) thus noted is such that the majority of patients are able to respond to simple instructions whether they give the appearance of being awake or asleep.
 The lack of recall is relative rather than absolute, as determined under conditions of careful patient questioning and testing, using props designed to enhance recall.
 The majority of patients under these reinforced conditions had difficulty recalling perioperative events or recognizing props from before surgery.
 The lack of recall and recognition was optimum within 2 hours following intramuscular administration and 15 to 20 minutes after intravenous injection.
 
-The intended effects of the recommended adult dose of Lorazepam Injection usually last 6 to 8 hours.
+The intended effects of the recommended adult dose of lorazepam injection usually last 6 to 8 hours.
 In rare instances and where patients received greater than the recommended dose, excessive sleepiness and prolonged lack of recall were noted.
 As with other benzodiazepines, unsteadiness, enhanced sensitivity to CNS-depressant effects of ethyl alcohol and other drugs were noted in isolated and rare cases for greater than 24 hours.
 
@@ -23,12 +23,12 @@ Physiologic Effects in Healthy Adults
 
 Studies in healthy adult volunteers reveal that intravenous lorazepam in doses up to 3.5 mg/70 kg does not alter sensitivity to the respiratory stimulating effect of carbon dioxide and does not enhance the respiratory depressant effects of doses of meperidine up to 100 mg/70 kg (also determined by carbon dioxide challenge) as long as patients remain sufficiently awake to undergo testing.
 Upper airway obstruction has been observed in rare instances where the patient received greater than the recommended dose and was excessively sleepy and difficult to arouse.
-(See “WARNINGS” and “ADVERSE REACTIONS.”)
+(See WARNINGS and ADVERSE REACTIONS.)
 
-Clinically employed doses of Lorazepam Injection do not greatly affect the circulatory system in the supine position or employing a 70-degree tilt test.
-Doses of 8 to 10 mg of intravenous lorazepam (2 to 2-1/2 times the maximum recommended dosage) will produce loss of lid reflexes within 15 minutes.
+Clinically employed doses of lorazepam injection do not greatly affect the circulatory system in the supine position or employing a 70-degree tilt test.
+Doses of 8 mg to 10 mg of intravenous lorazepam (2 to 2-1/2 times the maximum recommended dosage) will produce loss of lid reflexes within 15 minutes.
 
-Studies in six (6) healthy young adults who received Lorazepam Injection and no other drugs revealed that visual tracking (the ability to keep a moving line centered) was impaired for a mean of eight (8) hours following administration of 4 mg of intramuscular lorazepam and four (4) hours following administration of 2 mg intramuscularly with considerable subject variation.
+Studies in six (6) healthy young adults who received lorazepam injection and no other drugs revealed that visual tracking (the ability to keep a moving line centered) was impaired for a mean of eight (8) hours following administration of 4 mg of intramuscular lorazepam and four (4) hours following administration of 2 mg intramuscularly with considerable subject variation.
 Similar findings were noted with pentobarbital, 150 and 75 mg.
 Although this study showed that both lorazepam and pentobarbital interfered with eye-hand coordination, the data are insufficient to predict when it would be safe to operate a motor vehicle or engage in a hazardous occupation or sport.
 
@@ -44,7 +44,7 @@ Intramuscular
 
 Following intramuscular administration, lorazepam is completely and rapidly absorbed reaching peak concentrations within 3 hours.
 A 4-mg dose provides a Cmax of approximately 48 ng/mL.
-Following administration of 1.5 to 5.0 mg of lorazepam IM, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
+Following administration of 1.5 to 5 mg of lorazepam IM, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
 
 Distribution/Metabolism/Elimination
 
@@ -63,7 +63,7 @@ Special Populations
 
 Effect of Age
 
-Pediatrics:
+Pediatrics
 
 Neonates (Birth to 1 month)
 
@@ -96,7 +96,7 @@ Gender has no effect on the pharmacokinetics of lorazepam.
 Effect of Race
 
 Young Americans (n=15) and Japanese subjects (n=7) had very comparable mean total clearance value of 1.0 mL/min/kg.
-However, elderly Japanese subjects had a 20% lower mean total clearance than elderly Americans; 0.59 mL/min/kg vs 0.77 mL/min/kg, respectively.
+However, elderly Japanese subjects had a 20% lower mean total clearance than elderly Americans, 0.59 mL/min/kg vs 0.77 mL/min/kg, respectively.
 
 Patients with Renal Insufficiency
 
@@ -104,13 +104,13 @@ Because the kidney is the primary route of elimination of lorazepam-glucuronide,
 This should have no direct effect on the glucuronidation (and inactivation) of lorazepam.
 There is a possibility that the enterohepatic circulation of lorazepam-glucuronide leads to a reduced efficiency of the net clearance of lorazepam in this population.
 
-Six normal subjects, six patients with renal impairment (CIcr of 22± 9 mL/min), and four patients on chronic maintenance hemodialysis were given single 1.5 to 3.0 mg intravenous doses of lorazepam.
-Mean volume of distribution and terminal half-life values of lorazepam were 40% and 25% higher, respectively, in renally impaired patients then in normal subjects.
+Six normal subjects, six patients with renal impairment (Clcr of 22 ± 9 mL/min), and four patients on chronic maintenance hemodialysis were given single 1.5 to 3.0 mg intravenous doses of lorazepam.
+Mean volume of distribution and terminal half-life values of lorazepam were 40% and 25% higher, respectively, in renally impaired patients than in normal subjects.
 Both parameters were 75% higher in patients undergoing hemodialysis than in normal subjects.
 Overall, though, in this group of subjects the mean total clearance of lorazepam did not change.
 About 8% of the administered intravenous dose was removed as intact lorazepam during the 6-hour dialysis session.
 
-The kinetics of lorazepam-glucuronide were markedly affected by renal dysfunction.
+The kinetics of lorazepam-glucuronide were markedly affectedby renal dysfunction.
 The mean terminal half-life was prolonged by 55% and 125% in renally impaired patients and patients under hemodialysis, respectively, as compared to normal subjects.
 The mean metabolic clearance decreased by 75% and 90% in renally impaired patients and patients under hemodialysis, respectively, as compared to normal subjects.
 About 40% of the administered lorazepam intravenous dose was removed as glucuronide conjugate during the 6-hour dialysis session.
