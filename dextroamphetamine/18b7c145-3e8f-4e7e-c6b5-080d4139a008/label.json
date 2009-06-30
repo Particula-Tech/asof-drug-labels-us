@@ -3,11 +3,9 @@
   "inn": "dextroamphetamine",
   "labeler": "GlaxoSmithKline",
   "package_ndcs": [
-    "0007-3512-20",
     "0007-3512-59",
     "0007-3513-59",
-    "0007-3514-59",
-    "0007-3519-20"
+    "0007-3514-59"
   ],
   "products": [],
   "setid": "18b7c145-3e8f-4e7e-c6b5-080d4139a008",

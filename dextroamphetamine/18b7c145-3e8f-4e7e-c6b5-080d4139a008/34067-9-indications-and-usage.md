@@ -4,8 +4,27 @@ DEXEDRINE is indicated in:
 
 ## Narcolepsy
 
-## Attention Deficit Disorder with Hyperactivity:
+## Attention Deficit Disorder with Hyperactivity
 
-As an integral part of a total treatment program that typically includes other remedial measures (psychological, educational, social) for a stabilizing effect in pediatric patients (ages 3 years to 16 years) with a behavioral syndrome characterized by the following group of developmentally inappropriate symptoms: Moderate to severe distractibility, short attention span, hyperactivity, emotional lability, and impulsivity.
-The diagnosis of this syndrome should not be made with finality when these symptoms are only of comparatively recent origin.
-Nonlocalizing (soft) neurological signs, learning disability, and abnormal EEG may or may not be present, and a diagnosis of central nervous system dysfunction may or may not be warranted.
+As an integral part of a total treatment program that typically includes other measures (psychological, educational, social) for patients (ages 6 years to 16 years) with this syndrome.
+A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV) implies the presence of hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
+The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in 2 or more settings, e.g., school (or work) and at home.
+The symptoms must not be better accounted for by another mental disorder.
+For the Inattentive Type, at least 6 of the following symptoms must have persisted for at least 6 months: lack of attention to details/careless mistakes; lack of sustained attention; poor listener; failure to follow through on tasks; poor organization; avoids tasks requiring sustained mental effort; loses things; easily distracted; forgetful.
+For the Hyperactive-Impulsive Type, at least 6 of the following symptoms must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; “on the go”; excessive talking; blurting answers; can't wait turn; intrusive.
+The Combined Type requires both inattentive and hyperactive-impulsive criteria to be met.
+
+### Special Diagnostic Considerations
+
+Specific etiology of this syndrome is unknown, and there is no single diagnostic test.
+Adequate diagnosis requires the use of medical and special psychological, educational, and social resources.
+Learning may or may not be impaired.
+The diagnosis must be based upon a complete history and evaluation of the patient and not solely on the presences of the required number of DSM-IV characteristics.
+
+### Need for Comprehensive Treatment Program
+
+DEXEDRINE is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social) for patients with this syndrome.
+Drug treatment may not be indicated for all patients with this syndrome.
+Stimulants are not intended for use in patients who exhibit symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
+Appropriate educational placement is essential and psychosocial intervention is often helpful.
+When remedial measures alone are insufficient, the decision to prescribe stimulant medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
