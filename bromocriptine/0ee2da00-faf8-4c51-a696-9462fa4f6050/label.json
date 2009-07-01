@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA077646"
+  ],
+  "inn": "bromocriptine",
+  "labeler": "Paddock Laboratories, Inc.",
+  "package_ndcs": [
+    "0574-0106-01",
+    "0574-0106-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine mesylate"
+    }
+  ],
+  "setid": "0ee2da00-faf8-4c51-a696-9462fa4f6050",
+  "source": "dailymed"
+}
