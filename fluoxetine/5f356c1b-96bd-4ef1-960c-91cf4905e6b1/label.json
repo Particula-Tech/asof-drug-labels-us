@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020592"
+  ],
+  "inn": "fluoxetine",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-3004-75"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "fluoxetine hydrochloride",
+      "name": "Prozac Weekly"
+    }
+  ],
+  "setid": "5f356c1b-96bd-4ef1-960c-91cf4905e6b1",
+  "source": "dailymed"
+}
