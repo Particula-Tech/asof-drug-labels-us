@@ -24,3 +24,6 @@ ADALAT® CC Tablets are supplied in:
 
 The tablets should be protected from light and moisture and stored below 86°F (30°C).
 Dispense in tight, light-resistant containers.
+
+The following are representative examples of ADALAT labeling.
+See the "How Supplied" section for a complete listing of all components.

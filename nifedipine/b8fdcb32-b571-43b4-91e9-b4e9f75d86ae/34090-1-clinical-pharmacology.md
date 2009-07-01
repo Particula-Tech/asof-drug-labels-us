@@ -65,7 +65,7 @@ The mean trough (24 hours post-dose) blood pressure results from these studies a
 | MEAN REDUCTIONS IN TROUGH SUPINE BLOOD PRESSURE (mmHg) |  |  |
 |  | STUDY 1 |  |
 | ADALAT CC | N | MEAN TROUGH |
-| DOSE |  | REDUCTION* |
+| DOSE |  | REDUCTIONPlacebo response subtracted. |
 | 30 MG | 60 | 5.3/2.9 |
 | 60 MG | 57 | 8.0/4.1 |
 | 90 MG | 55 | 12.5/8.1 |
@@ -75,16 +75,19 @@ The mean trough (24 hours post-dose) blood pressure results from these studies a
 | 30 MG | 58 | 7.6/3.8 |
 | 60 MG | 63 | 10.1/5.3 |
 | 90 MG | 62 | 10.2/5.8 |
-| *Placebo response subtracted. |  |  |
 
 The trough/peak ratios estimated from 24 hour blood pressure monitoring ranged from 41%-78% for diastolic and 46%-91% for systolic blood pressure.
 
-Hemodynamics: Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.
+### Hemodynamics:
+
+Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.
 This is rarely, if ever, seen in intact animals or man, probably because of reflex responses to its vasodilating effects.
 In man, nifedipine decreases peripheral vascular resistance which leads to a fall in systolic and diastolic pressures, usually minimal in normotensive volunteers (less than 5-10 mm Hg systolic), but sometimes larger.
 With ADALAT CC, these decreases in blood pressure are not accompanied by any significant change in heart rate.
 Hemodynamic studies of the immediate release nifedipine formulation in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end-diastolic pressure (LVEDP) or volume (LVEDV).
 In patients with impaired ventricular function, most acute studies have shown some increase in ejection fraction and reduction in left ventricular filling pressure.
 
-Electrophysiologic Effects: Although, like other members of its class, nifedipine causes a slight depression of sinoatrial node function and atrioventricular conduction in isolated myocardial preparations, such effects have not been seen in studies in intact animals or in man.
+### Electrophysiologic Effects:
+
+Although, like other members of its class, nifedipine causes a slight depression of sinoatrial node function and atrioventricular conduction in isolated myocardial preparations, such effects have not been seen in studies in intact animals or in man.
 In formal electrophysiologic studies, predominantly in patients with normal conduction systems, nifedipine administered as the immediate release capsule has had no tendency to prolong atrioventricular conduction or sinus node recovery time, or to slow sinus rate.

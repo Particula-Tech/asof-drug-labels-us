@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020198"
+  ],
   "inn": "nifedipine",
-  "labeler": "Bayer Pharmaceuticals Corporation",
+  "labeler": "Schering Plough",
   "package_ndcs": [
     "0085-1701-01",
     "0085-1701-02",
@@ -12,7 +14,13 @@
     "0085-1722-01",
     "0085-1722-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "nifedipine",
+      "name": "Adalat CC"
+    }
+  ],
   "setid": "b8fdcb32-b571-43b4-91e9-b4e9f75d86ae",
   "source": "dailymed"
 }
