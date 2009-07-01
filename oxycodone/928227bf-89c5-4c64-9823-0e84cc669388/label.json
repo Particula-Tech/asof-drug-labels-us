@@ -1,14 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076758",
+    "ANDA078206"
+  ],
   "inn": "oxycodone",
-  "labeler": "Mallinckrodt Inc.",
+  "labeler": "Mallinckrodt, Inc.",
   "package_ndcs": [
     "0406-0552-01",
     "0406-0552-62",
     "0406-8515-01",
     "0406-8530-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxycodone hydrochloride",
+      "name": "OXYCODONE HYDROCHLORIDE"
+    }
+  ],
   "setid": "928227bf-89c5-4c64-9823-0e84cc669388",
   "source": "dailymed"
 }

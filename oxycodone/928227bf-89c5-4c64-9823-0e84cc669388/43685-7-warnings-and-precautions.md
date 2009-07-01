@@ -25,7 +25,7 @@ Furthermore, narcotics produce adverse reactions which may obscure the clinical 
 ## General
 
 Oxycodone hydrochloride tablets are intended for use in patients who require oral pain therapy with an opioid agonist.
-As with any opioid analgesic, it is critical to adjust the dosing regimen individually for each patient (seeDOSAGE AND ADMINISTRATION).
+As with any opioid analgesic, it is critical to adjust the dosing regimen individually for each patient (see DOSAGE AND ADMINISTRATION).
 
 Selection of patients for treatment with oxycodone hydrochloride tablets should be governed by the same principles that apply to the use of other potent opioid analgesics.
 Opioid analgesics given on a fixed-dosage schedule have a narrow therapeutic index in certain patient populations, especially when combined with other drugs, and should be reserved for cases where the benefits of opioid analgesia outweigh the known risks of respiratory depression, altered mental state, and postural hypotension.
@@ -46,7 +46,7 @@ Tolerance to the analgesic effects of opioids is usually paralleled by tolerance
 
 Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug or may be precipitated through the administration of drugs with opioid antagonist activity.
 If oxycodone hydrochloride tablets are abruptly discontinued in a physically dependent patient, an abstinence syndrome may occur (see DRUG ABUSE AND DEPENDENCE).
-If signs and symptoms of withdrawal occur, patients should be treated by reinstitution of opioid therapy followed by gradual tapered dose reduction of oxycodone hydrochloride tablets combined with symptomatic support (see DOSAGE AND ADMINISTRATION - Cessation of Therapy).
+If signs and symptoms of withdrawal occur, patients should be treated by reinstitution of opioid therapy followed by gradual tapered dose reduction of oxycodone hydrochloride tablets combined with symptomatic support (see DOSAGE AND ADMINISTRATION, Cessation of Therapy).
 
 ## Use in Pancreatic/Biliary Tract Disease
 

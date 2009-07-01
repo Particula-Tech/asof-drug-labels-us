@@ -55,17 +55,17 @@ Table 1 Pharmacokinetic Parameters (Mean±SD)
 
 | Dose/Parameters | AUC (ngxhr/mL) | Cmax (ng/mL) | Tmax (hr) | Cmin (ng/mL) | Cavg (ng/mL) | Half-Life (hr) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Single Dose Pharmacokinetics |  |  |  |  |  |  |
+| Single-Dose Pharmacokinetics |  |  |  |  |  |  |
 | Oxycodone Hydrochloride Tablets 5 mg tabs x 3 | 133.2±33 | 22.3±8.2 | 1.8±1.8 | n/a | n/a | 3.73±0.9 |
 | Oxycodone Hydrochloride Tablets 15 mg tab | 128.2±35.1 | 22.2±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |
 | Oxycodone Hydrochloride Oral Concentrate Solution 15 mg oral solution | 130.6±34.7 | 21.1±6.1 | 1.9±1.5 | n/a | n/a | 3.7±0.8 |
 | Oxycodone Hydrochloride Tablets 30 mg tab | 268.2±60.7 | 39.3±14.0 | 2.6±3.0 | n/a | n/a | 3.85±1.3 |
-| Food-Effect, Single Dose |  |  |  |  |  |  |
-| Oxycodone Hydrochloride Oral Solution, USP 10 mg/10 mL oral sol'n (fasted) | 105±6.2 | 19.0±3.7 | 1.25±0.5 | n/a | n/a | 2.9±0.4 |
-| Oxycodone Hydrochloride Oral Solution, USP 10 mg/10 mL oral sol'n (fed) | 133±25.2 | 17.7±3.0 | 2.54±1.2 | n/a | n/a | 3.3±0.5 |
+| Food-Effect, Single-Dose |  |  |  |  |  |  |
+| Oxycodone Hydrochloride Oral Solution USP 10 mg/10 mL oral solution (fasted) | 105±6.2 | 19.0±3.7 | 1.25±0.5 | n/a | n/a | 2.9±0.4 |
+| Oxycodone Hydrochloride Oral Solution USP 10 mg/10 mL oral solution (fed) | 133±25.2 | 17.7±3.0 | 2.54±1.2 | n/a | n/a | 3.3±0.5 |
 | Multiple-Dose Studies | AUC(72-84) |  |  |  |  |  |
 | Oxycodone Hydrochloride Tablets 5 mg tabs q6h x 14 doses | 113.3±24.0 | 15.7±3.2 | 1.3±0.3 | 7.4±1.8 | 9.4±2.0 | n/a |
-| Oxycodone Hydrochloride Oral Solution, USP 3.33 mg (3.33 mL) oral sol'n. q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
+| Oxycodone Hydrochloride Oral Solution USP 3.33 mg (3.33 mL) oral solution q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
 
 Absorption – About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
 This high oral bioavailability (compared to other oral opioids) is due to lower pre-systemic and/or first-pass metabolism of oxycodone.
@@ -74,21 +74,21 @@ Oxycodone hydrochloride tablets 15 mg tablets and 30 mg tablets are bioequivalen
 Dose proportionality of oxycodone has been established using the oxycodone hydrochloride tablets 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone hydrochloride tablets.
 
-Food Effect – A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
+Food-Effect – A single-dose food-effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
 The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 1).
 In addition, food caused a delay in Tmax (1.25 to 2.54 hour).
 Similar effects of food are expected with the 15 mg and 30 mg tablets.
 
 Distribution – Following intravenous administration, the volume of distribution (Vss) for oxycodone was 2.6 L/kg.
 Plasma protein binding of oxycodone at 37°C and a pH of 7.4 was about 45%.
-Oxycodone has been found in breast milk (seePRECAUTIONS - Nursing Mothers).
+Oxycodone has been found in breast milk (see PRECAUTIONS, Nursing Mothers).
 
 Metabolism – Oxycodone hydrochloride is extensively metabolized to noroxycodone, oxymorphone, and their glucuronides.
 The major circulating metabolite is noroxycodone with an AUC ratio of 0.6 relative to that of oxycodone.
 Oxymorphone is present in the plasma only in low concentrations.
 The analgesic activity profile of other metabolites is not known at present.
 
-The formation of oxymorphone, but not noroxycodone, is mediated by CYP2D6 and as such its formation can, in theory, be affected by other drugs (seePRECAUTIONS - Drug Interactions).
+The formation of oxymorphone, but not noroxycodone, is mediated by CYP2D6 and as such its formation can, in theory, be affected by other drugs (see PRECAUTIONS, Drug Interactions).
 
 Elimination – Oxycodone and its metabolites are excreted primarily via the kidney.
 The amounts measured in the urine have been reported as follows: free oxycodone up to 19%; conjugated oxycodone up to 50%; free oxymorphone 0%; conjugated oxymorphone ≤14%; both free and conjugated noroxycodone have been found in the urine but not quantified.

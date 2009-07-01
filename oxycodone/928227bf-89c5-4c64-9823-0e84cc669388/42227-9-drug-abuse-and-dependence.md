@@ -19,7 +19,7 @@ As such, physicians should take appropriate care in prescribing oxycodone hydroc
 
 Opioid analgesics may cause psychological and physical dependence.
 Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug after long term administration.
-Also, symptoms of withdrawal may be precipitated through the administration of drugs with mu-opioid antagonist activity, e.g., naloxone or mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine, dezocine) (see also OVERDOSAGE section).
+Also, symptoms of withdrawal may be precipitated through the administration of drugs with mu-opioid antagonist activity, e.g., naloxone or mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine, dezocine) (see OVERDOSAGE).
 Physical dependence usually does not occur to a clinically significant degree, until after several weeks of continued opioid usage.
 Tolerance, in which increasingly larger doses are required to produce the same degree of analgesia, is initially manifested by a shortened duration of an analgesic effect and subsequently, by decreases in the intensity of analgesia.
 

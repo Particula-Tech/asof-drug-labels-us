@@ -25,12 +25,10 @@ Protect from light.
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-is a registered trademark of Mallinckrodt Inc.
+is a trademark of Mallinckrodt Inc.
 
-Mallinckrodt Inc. St. Louis, MO 63134 U.S.A.
+Mallinckrodt Inc., Hazelwood, MO 63042 USA.
 
-tyco Healthcare
+COVIDIEN™ Mallinckrodt
 
-Mallinckrodt
-
-Printed in U.S.A. Rev 081007
+Printed in U.S.A. Rev 122308
