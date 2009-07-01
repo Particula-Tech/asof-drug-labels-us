@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA020592"
+  ],
+  "inn": "fluoxetine",
+  "labeler": "Dista Products Company",
+  "package_ndcs": [
+    "0777-3104-02",
+    "0777-3105-02",
+    "0777-3105-07",
+    "0777-3105-30",
+    "0777-3107-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fluoxetine hydrochloride",
+      "name": "Prozac"
+    }
+  ],
+  "setid": "c88f33ed-6dfb-4c5e-bc01-d8e36dd97299",
+  "source": "dailymed"
+}
