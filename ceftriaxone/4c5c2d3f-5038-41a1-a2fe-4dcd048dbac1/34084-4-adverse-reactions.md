@@ -32,3 +32,31 @@ Other rarely observed adverse reactions (<0.1%) include abdominal pain, agranulo
 
 Cases of fatal reactions with ceftriaxone-calcium precipitates in lung and kidneys in neonates have been described.
 In some cases the infusion lines and times of administration of ceftriaxone and calcium-containing solutions differed (see CONTRAINDICATIONS).
+
+## Postmarketing Experience
+
+In addition to the adverse reactions reported during clinical trials, the following adverse experiences have been reported during clinical practice in patients treated with ceftriaxone.
+Data are generally insufficient to allow an estimate of incidence or to establish causation.
+
+GASTROINTESTINAL – stomatitis and glossitis.
+
+GENITOURINARY – oliguria.
+
+DERMATOLOGIC – exanthema, allergic dermatitis, urticaria, edema.
+As with many medications, isolated cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis) have been reported.
+
+## Cephalosporin Class Adverse Reactions
+
+In addition to the adverse reactions listed above which have been observed in patients treated with ceftriaxone, the following adverse reactions and altered laboratory test results have been reported for cephalosporin class antibiotics:
+
+### Adverse Reactions
+
+Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction, toxic nephropathy, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, hemorrhage, and superinfection.
+
+### Altered Laboratory Tests
+
+Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH.
+
+Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see DOSAGE AND ADMINISTRATION).
+If seizures associated with drug therapy occur, the drug should be discontinued.
+Anticonvulsant therapy can be given if clinically indicated.

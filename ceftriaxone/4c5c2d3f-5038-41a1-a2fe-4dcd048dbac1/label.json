@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065224"
+  ],
   "inn": "ceftriaxone",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "0338-5002-41",
     "0338-5003-41"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ceftriaxone sodium",
+      "name": "Ceftriaxone"
+    }
+  ],
   "setid": "4c5c2d3f-5038-41a1-a2fe-4dcd048dbac1",
   "source": "dailymed"
 }

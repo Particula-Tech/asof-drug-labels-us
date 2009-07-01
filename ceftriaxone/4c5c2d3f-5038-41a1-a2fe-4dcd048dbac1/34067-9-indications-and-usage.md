@@ -19,7 +19,7 @@ The potentially lower clinical cure rate of ceftriaxone should be balanced again
 
 SKIN AND SKIN STRUCTURE INFECTIONS caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Morganella morganii,* Pseudomonas aeruginosa, Serratia marcescens, Acinetobacter calcoaceticus, Bacteroides fragilis* or Peptostreptococcus species.
 
-URINARY TRACT INFECTIONS (complicated and uncomplicated) caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganella morganii or Klebsiella pneumoniae.
+URINARY TRACT INFECTIONS (complicated and uncomplicated)caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganella morganii or Klebsiella pneumoniae.
 
 UNCOMPLICATED GONORRHEA (cervical/urethral and rectal) caused by Neisseria gonorrhoeae, including both penicillinase- and nonpenicillinase-producing strains, and pharyngeal gonorrhea caused by nonpenicillinase-producing strains of Neisseria gonorrhoeae.
 
@@ -33,7 +33,8 @@ BONE AND JOINT INFECTIONS caused by Staphylococcus aureus, Streptococcus pneumon
 
 INTRA-ABDOMINAL INFECTIONS caused by Escherichia coli, Klebsiella pneumoniae, Bacteroides fragilis, Clostridium species (Note: most strains of Clostridium difficile are resistant) or Peptostreptococcus species.
 
-MENINGITIS caused by Haemophilus influenzae, Neisseria meningitidis or Streptococcus pneumoniae.Ceftriaxone has also been used successfully in a limited number of cases of meningitis and shunt infection caused by Staphylococcus epidermidis* and Escherichia coli.*
+MENINGITIS caused by Haemophilus influenzae, Neisseria meningitidis or Streptococcus pneumoniae.
+Ceftriaxone has also been used successfully in a limited number of cases of meningitis and shunt infection caused by Staphylococcus epidermidis* and Escherichia coli.*
 
 *Efficacy for this organism in this organ system was studied in fewer than ten infections.
 

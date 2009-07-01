@@ -14,6 +14,8 @@ However, the theoretical possibility exists for an interaction between ceftriaxo
 Therefore, Ceftriaxone Injection, USP and calcium-containing solutions, including continuous calcium-containing infusions such as parenteral nutrition, should not be mixed or co-administered to any patient irrespective of age, even via different infusion lines at different sites.
 As a further theoretical consideration and based on 5 half-lives of ceftriaxone, Ceftriaxone Injection, USP and IV calcium-containing solutions should not be administered within 48 hours of each other in any patient (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
+No data are available on potential interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).
+
 ## Clostridium difficile
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ceftriaxone Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
@@ -33,7 +35,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Prescribing Ceftriaxone Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of ceftriaxone is similar to that of other cephalosporins.
+Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of Ceftriaxone Injection, USP is similar to that of other cephalosporins.
 
 Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
 Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of Ceftriaxone Injection, USP are administered, but concentrations of drug in the serum should be monitored periodically.
@@ -51,9 +53,19 @@ If superinfection occurs during therapy, appropriate measures should be taken.
 
 Ceftriaxone Injection, USP should be prescribed with caution in individuals with a history of gastrointestinal disease, especially colitis.
 
-There have been reports of sonographic abnormalities in the gallbladder of patients treated with ceftriaxone; some of these patients also had symptoms of gallbladder disease.These abnormalities appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones.
+There have been reports of sonographic abnormalities in the gallbladder of patients treated with ceftriaxone; some of these patients also had symptoms of gallbladder disease.
+These abnormalities appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones.
 The chemical nature of the sonographically detected material has been determined to be predominantly a ceftriaxone-calcium salt.
-The condition appears to be transient and reversible upon discontinuation of ceftriaxone and institution of conservative management.Therefore, Ceftriaxone Injection, USP should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
+The condition appears to be transient and reversible upon discontinuation of ceftriaxone and institution of conservative management.
+Therefore, Ceftriaxone Injection, USP should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
+
+Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported rarely in patients treated with ceftriaxone.
+Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition).
+A cofactor role of ceftriaxone related biliary precipitation cannot be ruled out.
+
+The elimination of ceftriaxone is not altered by probenecid.
+
+As with other cephalosporins, anaphylactic shock cannot be ruled out even if a thorough patient history is taken.
 
 ## Information for Patients
 
@@ -108,3 +120,12 @@ Caution should be exercised when Ceftriaxone Injection, USP is administered to a
 Safety and effectiveness of Ceftriaxone Injection, USP in neonates, infants and pediatric patients have been established for the dosages described in the DOSAGE AND ADMINISTRATION section.
 In vitro studies have shown that ceftriaxone, like some other cephalosporins, can displace bilirubin from serum albumin.
 Ceftriaxone Injection, USP should not be administered to hyperbilirubinemic neonates, especially prematures (see CONTRAINDICATIONS).
+
+## Geriatric Use
+
+Of the total number of subjects in clinical studies of ceftriaxone, 32% were 60 and over.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day (see CLINICAL PHARMACOLOGY).
+
+No dosage adjustment is necessary for patients with impairment of renal or hepatic function; however, blood levels should be monitored in patients with severe renal impairment (e.g., dialysis patients) and in patients with both renal and hepatic dysfunctions.

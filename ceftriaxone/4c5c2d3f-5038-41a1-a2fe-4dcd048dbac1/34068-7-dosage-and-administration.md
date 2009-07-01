@@ -2,7 +2,7 @@
 
 Ceftriaxone Injection, USP is administered intravenously.
 
-Ceftriaxone Injection, USP and calcium-containing solutions, including continuous calcium-containing infusions such as parenteral nutrition, should not be mixed or co-administered to any patient irrespective of age, even via different infusion lines at different sites (seeCONTRAINDICATIONS andWARNINGS).
+Ceftriaxone Injection, USP and calcium-containing solutions, including continuous calcium-containing infusions such as parenteral nutrition, should not be mixed or co-administered to any patient irrespective of age, even via different infusion lines at different sites (see CONTRAINDICATIONS and WARNINGS).
 
 ## Neonates
 
@@ -71,12 +71,7 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ### Preparation for Intravenous Administration:
 
-1.
-Suspend container from eyelet support.
-
-2.
-Remove protector from outlet port at bottom of container.
-
-3.
-Attach administration set.
-Refer to complete directions accompanying set.
+1. Suspend container from eyelet support.
+2. Remove protector from outlet port at bottom of container.
+3. Attach administration set.
+   Refer to complete directions accompanying set.
