@@ -1,6 +1,4 @@
-# Supplement Patient Material Section
-
-## Patient Information Humalog® (HU-ma-log) Mix75/25TM 75% insulin lispro protamine suspension and 25% insulin lispro injection (rDNA origin)
+# Patient Information Humalog® (HU-ma-log) Mix75/25TM 75% insulin lispro protamine suspension and 25% insulin lispro injection (rDNA origin)
 
 | Important:Know your insulin. Do not change the type of insulin you use unless told to do so by your healthcare provider. Your insulin dose and the time you take your dose can change with different types of insulin. Make sure you have the right type and strength of insulin prescribed for you. |
 | --- |
