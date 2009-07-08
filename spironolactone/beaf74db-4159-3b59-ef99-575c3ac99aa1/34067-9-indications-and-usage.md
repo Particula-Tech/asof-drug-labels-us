@@ -1,0 +1,56 @@
+# INDICATIONS AND USAGE
+
+Spironolactone tablets are indicated in the management of:
+
+## Primary Hyperaldosteronism for
+
+Establishing the diagnosis of primary hyperaldosteronism by therapeutic trial.
+
+Short-term preoperative treatment of patients with primary hyperaldosteronism.
+
+Long-term maintenance therapy for patients with discrete aldosterone-producing adrenal adenomas who are judged to be poor operative risks or who decline surgery.
+
+Long-term maintenance therapy for patients with bilateral micro- or macronodular adrenal hyperplasia (idiopathic hyperaldosteronism).
+
+## Edematous Conditions for Patients with
+
+### Congestive Heart Failure
+
+For the management of edema and sodium retention when the patient is only partially responsive to, or is intolerant of, other therapeutic measures.
+Spironolactone tablets are also indicated for patients with congestive heart failure taking digitalis when other therapies are considered inappropriate.
+
+### Cirrhosis of the Liver Accompanied by Edema and/or Ascites
+
+Aldosterone levels may be exceptionally high in this condition.
+Spironolactone tablets are indicated for maintenance therapy together with bed rest and the restriction of fluid and sodium.
+
+### The Nephrotic Syndrome
+
+For nephrotic patients when treatment of the underlying disease, restriction of fluid and sodium intake, and the use of other diuretics do not provide an adequate response.
+
+## Essential Hypertension
+
+Usually in combination with other drugs, spironolactone tablets are indicated for patients who cannot be treated adequately with other agents or for whom other agents are considered inappropriate.
+
+## Hypokalemia
+
+For the treatment of patients with hypokalemia when other measures are considered inappropriate or inadequate.
+Spironolactone tablets are also indicated for the prophylaxis of hypokalemia in patients taking digitalis when other measures are considered inadequate or inappropriate.
+
+## Severe Heart Failure (NYHA Class III to IV)
+
+To increase survival, and to reduce the need for hospitalization for heart failure when used in addition to standard therapy.
+
+## Usage in Pregnancy
+
+The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes the mother and fetus to unnecessary hazard.
+Diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developing toxemia.
+
+Edema during pregnancy may arise from pathologic causes or from the physiologic and mechanical consequences of pregnancy.
+
+Spironolactone tablets are indicated in pregnancy when edema is due to pathologic causes just as it is in the absence of pregnancy (however, see PRECAUTIONS: Pregnancy).
+Dependent edema in pregnancy, resulting from restriction of venous return by the expanded uterus, is properly treated through elevation of the lower extremities and use of support hose; use of diuretics to lower intravascular volume in this case is unsupported and unnecessary.
+There is hypervolemia during normal pregnancy which is not harmful to either the fetus or the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema, in the majority of pregnant women.
+If this edema produces discomfort, increased recumbency will often provide relief.
+In rare instances, this edema may cause extreme discomfort which is not relieved by rest.
+In these cases, a short course of diuretics may provide relief and may be appropriate.
