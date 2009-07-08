@@ -1,0 +1,8 @@
+# INDICATIONS AND USAGE
+
+Haloperidol is indicated for use in the management of manifestations of psychotic disorders.
+
+Haloperidol is indicated for the control of tics and vocal utterances of Tourette's Disorder in children and adults.
+Haloperidol is effective for the treatment of severe behavior problems in children of combative, explosive hyperexcitability (which cannot be accounted for by immediate provocation).
+Haloperidol is also effective in the short-term treatment of hyperactive children who show excessive motor activity with accompanying conduct disorders consisting of some or all of the following symptoms: impulsivity, difficulty sustaining attention, aggressivity, mood lability, and poor frustration tolerance.
+Haloperidol should be reserved for these two groups of children only after failure to respond to psychotherapy or medications other than antipsychotics.
