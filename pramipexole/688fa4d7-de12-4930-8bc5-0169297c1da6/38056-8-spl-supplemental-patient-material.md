@@ -2,7 +2,7 @@ Mirapex® (pramipexole dihydrochloride) 0.125 mg, 0.25 mg, 0.5 mg, 0.75 mg, 1 mg
 
 Patient Information
 
-Mirapex® [mîr′-ah-pěx] (pramipexole dihydrochloride) tablets
+Mirapex®[mîr′-ah-pěx] (pramipexole dihydrochloride) tablets
 
 Read the Patient Information that comes with MIRAPEX before you start taking it and each time you get a refill.
 There may be some new information.
@@ -99,9 +99,9 @@ For more information ask your doctor or pharmacist.
 
 Be sure to talk to your doctor about any side effects that bother you or that do not go away.
 
-Other Information about Mirapex Studies of people with Parkinson’s disease show that they may be at an increased risk of developing melanoma, a form of skin cancer, when compared to people without Parkinson’s disease.
+Other Information about MIRAPEX Studies of people with Parkinson’s disease show that they may be at an increased risk of developing melanoma, a form of skin cancer, when compared to people without Parkinson’s disease.
 It is not known if this problem is associated with Parkinson’s disease or the medicines used to treat Parkinson’s disease.
-Mirapex is one of the medicines used to treat Parkinson’s disease, therefore, patients being treated with Mirapex should have periodic skin examinations.
+MIRAPEX is one of the medicines used to treat Parkinson’s disease, therefore, patients being treated with MIRAPEX should have periodic skin examinations.
 
 There have been reports of patients taking certain medicines to treat Parkinson’s disease or RLS, including MIRAPEX, that have reported problems with gambling, compulsive eating, and increased sex drive.
 It is not possible to reliably estimate how often these behaviors occur or to determine which factors may contribute to them.
@@ -109,7 +109,7 @@ If you or your family members notice that you are developing unusual behaviors, 
 
 How should I store MIRAPEX?
 
-- Store MIRAPEX tablets at Room Temperature [77°F (25°C)].
+- Store MIRAPEX tablets at room temperature [77°F (25°C)].
   Short-term exposure to higher or lower temperatures [from 59°F (15°C) to 86°F (30°C)] is acceptable.
   Ask your doctor or pharmacist if you have any questions about storing your tablets.
 - Keep MIRAPEX out of light.
@@ -142,8 +142,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 U.S. Patent Nos. 4,886,812; 6,001,861; and 6,194,445
 
-©2008, Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+©2009, Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: August 2008
+Rev: January 2009
 
-OT1317KG1608 10003128/06 10003129/05 2001/03
+OT1317NA1409 10003128/07 10003129/06 2001/04

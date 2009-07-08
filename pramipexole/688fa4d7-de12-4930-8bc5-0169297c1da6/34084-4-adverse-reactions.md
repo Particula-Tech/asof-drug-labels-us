@@ -181,6 +181,8 @@ Table 5 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Con
 | Somnolence | 6 | 3 |
 | *Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category. |  |  |
 
+Other events reported by 2% or more of RLS patients treated with Mirapex® (pramipexole dihydrochloride) tablets but equally or more frequently in the placebo group, were: vomiting, nasopharyngitis, back pain, pain in extremity, dizziness, and insomnia.
+
 Table 6 summarizes data for adverse events that appeared to be dose related in the 12-week fixed dose study.
 
 Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥ 5% of all Patients in the Treatment Phase)
@@ -202,8 +204,6 @@ Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlle
 | Nasal congestion | 0 | 3 | 6 | 1 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Pain in extremity | 3 | 3 | 7 | 1 |
-
-Other events reported by 2% or more of RLS patients treated with Mirapex® (pramipexole dihydrochloride) tablets but equally or more frequently in the placebo group, were: vomiting, nasopharyngitis, back pain, pain in extremity, dizziness, and insomnia.
 
 ## General
 

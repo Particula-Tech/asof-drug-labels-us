@@ -39,6 +39,13 @@ Nonrenal routes may contribute to a small extent to pramipexole elimination, alt
 The renal clearance of pramipexole is approximately 400 mL/min (CV=25%), approximately three times higher than the glomerular filtration rate.
 Thus, pramipexole is secreted by the renal tubules, probably by the organic cation transport system.
 
+## Pharmacodynamics
+
+In a clinical trial with healthy volunteers, where pramipexole was titrated faster than recommended (every 3 days) up to 4.5 mg per day, an increase in blood pressure and heart rate was observed.
+Although mean values remained within normal reference ranges throughout the study, supine systolic blood pressure (SBP), diastolic blood pressure (DBP), and pulse rate for subjects treated with pramipexole generally increased during the up-titration phase, up to 10 mmHg, 7 mmHg, and 10 bpm higher than placebo, respectively.
+Higher SBP, DBP, and pulse rates compared to placebo were maintained until the pramipexole doses were tapered; values on the last day of tapering were generally similar to baseline values.
+Such effects have not been observed in clinical studies with Parkinson’s disease patients, and are most likely due to the forced up-titration every 3 days.
+
 ## Pharmacokinetics in Special Populations
 
 Because therapy with MIRAPEX tablets is initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, or age is not necessary.

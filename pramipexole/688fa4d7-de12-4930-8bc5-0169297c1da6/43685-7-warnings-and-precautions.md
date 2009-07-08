@@ -87,16 +87,11 @@ While the evidence is not sufficient to establish a causal relationship between 
 
 Melanoma
 
-Some epidemiologic studies have shown that patients with Parkinson’s disease have a higher risk (perhaps 2- to 4-fold higher) of developing melanoma than the general population.
-Whether the observed increased risk was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, was unclear.
-MIRAPEX tablets are one of the dopamine agonists used to treat Parkinson’s disease.
-Although MIRAPEX tablets have not been associated with an increased risk of melanoma specifically, its potential role as a risk factor has not been systematically studied.
-Patients using MIRAPEX tablets for any indication should be made aware of these results and should undergo periodic dermatologic screening.
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
 
-Impulse Control/Compulsive Behaviors
-
-Cases of pathological gambling, hypersexuality, and compulsive eating (including binge eating) have been reported in patients treated with dopamine agonist therapy, including pramipexole therapy.
-As described in the literature, such behaviors are generally reversible upon dose reduction or treatment discontinuation.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using MIRAPEX tablets for any indication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 Rebound and Augmentation in RLS
 
@@ -119,9 +114,11 @@ Because of possible additive effects, caution should be advised when patients ar
 Patients should be informed that hallucinations can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease.
 In clinical trials, patients with RLS treated with pramipexole rarely reported hallucinations.
 
-Patients and caregivers should be informed that impulse control disorders/compulsive behaviors may occur while taking medicines to treat Parkinson's disease or RLS, including MIRAPEX tablets.
-These include pathological gambling, hypersexuality, and compulsive eating (including binge eating).
-If such behaviors are observed with MIRAPEX tablets, dose reduction or treatment discontinuation should be considered.
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone, that are generally used for the treatment of Parkinson’s disease, including MIRAPEX tablets.
+Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
+Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other urges while being treated with MIRAPEX tablets.
+Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges or other intense urges while taking MIRAPEX tablets.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking MIRAPEX tablets.
 
 Patients may develop postural (orthostatic) hypotension, with or without symptoms such as dizziness, nausea, fainting or blackouts, and sometimes, sweating.
 Hypotension may occur more frequently during initial therapy.
