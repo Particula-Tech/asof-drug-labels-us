@@ -24,7 +24,7 @@ Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculiti
 
 ## Metabolic
 
-Electrolyte imbalance (seePRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia
+Electrolyte imbalance (see PRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia
 
 ## Musculoskeletal
 
@@ -36,7 +36,7 @@ Vertigo, paresthesias, dizziness, headache, restlessness.
 
 ## Renal
 
-Renal failure, renal dysfunction, interstitial nephritis (seeWARNINGS)
+Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS)
 
 ## Skin
 

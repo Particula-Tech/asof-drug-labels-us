@@ -1,34 +1,24 @@
 # HOW SUPPLIED
 
-Hydrochlorothiazide Tablets USP are available as round, light orange, bisected tablets, debossed with company logo and 2083, containing 25 mg of hydrochlorothiazide USP, packaged in bottles of 90, 100, 1000, 5000 and unit-dose boxes of 100 tablets.
+Hydrochlorothiazide Tablets USP, 25 mg are available as round, light orange, bisected tablets, debossed with company logo and 2083, containing 25 mg of hydrochlorothiazide USP, packaged in bottles of 100, 1000 tablets; unit-of-use shellpaks each containing 30 tablets, packaged in boxes of 6 and 12 shellpaks, and unit-dose boxes of 100 tablets.
 
-Hydrochlorothiazide Tablets USP are available as round, light orange, bisected tablets, debossed with company logo and 2089, containing 50 mg of hydrochlorothiazide USP, packaged in bottles of 100, 1000, 5000 and unit-dose boxes of 100 tablets.
+Hydrochlorothiazide Tablets USP, 50 mg are available as round, light orange, bisected tablets, debossed with company logo and 2089, containing 50 mg of hydrochlorothiazide USP, packaged in bottles of 100, 1000, 5000 tablets; unit-of-use shellpaks each containing 30 tablets, packaged in boxes of 6 and 12 shellpaks, and unit-dose boxes of 100 tablets.
 
-PHARMACIST: Dispense in a well closed container as defined in the USP.
-Use child-resistant closure (as required).
+PHARMACIST: Dispense in a well closed container as defined in the USP, with a child-resistant closure (as required).
 
-Store at 20° to 25°C(68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-PE1802
+Rev.
+C 11/2008
 
-Manufactured In Ireland By: 0172
+Manufactured In Ireland By:
 
-IVAX PHARMACEUTICALS IRELAND 06/06
+IVAX PHARMACEUTICALS IRELAND
 
-Waterford, Ireland B18
+Waterford, Ireland
 
 Manufactured For:
-
-IVAX PHARMACEUTICALS, INC.
-
-Miami, FL 33137
-
-Distributed By:
 
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
-
-74327IN-2800 Rev.
-00 Iss.
-6/2006

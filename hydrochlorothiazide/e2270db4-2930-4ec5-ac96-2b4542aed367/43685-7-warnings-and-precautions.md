@@ -12,7 +12,7 @@ Sensitivity reactions may occur in patients with or without a history of allergy
 
 The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
 
-Lithium generally should not be given with diuretics (seePRECAUTIONS, Drug Interactions).
+Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Interactions).
 
 # PRECAUTIONS
 
@@ -98,15 +98,15 @@ Therefore, when hydrochlorothiazide and non-steroidal anti-inﬂammatory agents 
 
 ## Drug/Laboratory Test Interactions
 
-Thiazides should be discontinued before carrying out tests for parathyroid function (seePRECAUTIONS, General).
+Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS, General).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
-Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay ofSalmonella typhimuriumstrains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, orin vivoin assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and theDrosophilasex-linked recessive lethal trait gene.
-Positive test results were obtained only in thein vitroCHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 µg/mL, and in theAspergillus nidulansnon-disjunction assay at an unspeciﬁed concentration.
+Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in viv oin assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and theDrosophila sex-linked recessive lethal trait gene.
+Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus nidulan snon-disjunction assay at an unspeciﬁed concentration.
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to conception and throughout gestation.
 
@@ -135,4 +135,4 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 There are no well-controlled clinical trials in pediatric patients.
 Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients.
-(SeeDOSAGE AND ADMINISTRATION, Infants and Children).
+(See DOSAGE AND ADMINISTRATION, Infants and Children).
