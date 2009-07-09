@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA022115"
+  ],
+  "inn": "lamotrigine",
+  "labeler": "SmithKline Beecham Corporation",
+  "package_ndcs": [
+    "0173-0754-00",
+    "0173-0755-00",
+    "0173-0756-00",
+    "0173-0757-00",
+    "0173-0758-00",
+    "0173-0758-60",
+    "0173-0759-00",
+    "0173-0759-60",
+    "0173-0760-00",
+    "0173-0760-60"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "lamotrigine",
+      "name": "LAMICTAL"
+    },
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "lamotrigine",
+      "name": "LAMICTAL"
+    }
+  ],
+  "setid": "3e2c9a35-6a39-41d7-ad84-3c0bb8894b09",
+  "source": "dailymed"
+}
