@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077494"
+  ],
+  "inn": "risperidone",
+  "labeler": "Par Pharmaceutical Companies, Inc.",
+  "package_ndcs": [
+    "49884-212-55",
+    "49884-402-91",
+    "49884-403-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "risperidone",
+      "name": "Risperidone"
+    }
+  ],
+  "setid": "d0ef6df3-67e5-47b1-bcf7-f67aa030caca",
+  "source": "dailymed"
+}
