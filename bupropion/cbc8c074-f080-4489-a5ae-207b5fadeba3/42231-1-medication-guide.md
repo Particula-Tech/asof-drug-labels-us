@@ -9,8 +9,8 @@ There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about WELLBUTRIN SR, ask your doctor or pharmacist.
 
-IMPORTANT: Be sure to read both sections of this Medication Guide.
-The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is entitled “What other important information should I know about WELLBUTRIN SR?”
+IMPORTANT: Be sure to read the three sections of this Medication Guide.
+The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About WELLBUTRIN SR?”
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
@@ -43,7 +43,7 @@ What else do I need to know about antidepressant medicines?
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
-  It is importantto discuss all the risks of treating depression and also the risks of not treating it.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 - Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
@@ -56,20 +56,50 @@ What else do I need to know about antidepressant medicines?
 
 WELLBUTRIN SR has not been studied in children under the age of 18 and is not approved for use in children and teenagers.
 
-What other important information should I know about WELLBUTRIN SR?
+Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
 
-There is a chance of having a seizure (convulsion, fit) with WELLBUTRIN SR, especially in people:
+This section of the Medication Guide is only about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with drugs used to quit smoking.
 
-- with certain medical problems.
-- who take certain medicines.
+Although WELLBUTRIN SR is not a treatment for quitting smoking, it contains the same active ingredient (bupropion hydrochloride) as ZYBAN® which is used to help patients quit smoking.
+
+Some people have had changes in behavior, hostility, agitation, depression, suicidal thoughts or actions while taking bupropion to help them quit smoking.
+These symptoms can develop during treatment with bupropion or after stopping treatment with bupropion.
+
+If you, your family member, or your caregiver notice agitation, hostility, depression, or changes in thinking or behavior that are not typical for you, or you have any of the following symptoms, stop taking bupropion and call your healthcare provider right away:
+
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania) abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
+| --- | --- |
+
+When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
+Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
+Sometimes quitting smoking can lead to worsening of mental health problems that you already have, such as depression.
+
+Before taking bupropion, tell your healthcare provider if you have ever had depression or other mental illnesses.
+You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without bupropion.
+
+What Other Important Information Should I Know About WELLBUTRIN SR?
+
+- Seizures: There is a chance of having a seizure (convulsion, fit) with WELLBUTRIN SR, especially in people:
+  - with certain medical problems.
+  - who take certain medicines.
 
 The chance of having seizures increases with higher doses of WELLBUTRIN SR.
-For more information, see the sections“Who should not take WELLBUTRIN SR?” and “What should I tell my doctor before using WELLBUTRIN SR?”
+For more information, see the sections “Who should not take WELLBUTRIN SR?” and “What should I tell my doctor before using WELLBUTRIN SR?”
 Tell your doctor about all of your medical conditions and all the medicines you take.
 Do not take any other medicines while you are using WELLBUTRIN SR unless your doctor has said it is okay to take them.
 
 If you have a seizure while taking WELLBUTRIN SR, stop taking the tablets and call your doctor right away.
 Do not take WELLBUTRIN SR again if you have a seizure.
+
+- High blood pressure (hypertension).Some people get high blood pressure, that can be severe, while taking WELLBUTRIN SR.
+  The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
+- Severe allergic reactions.
+  Some people have severe allergic reaction to WELLBUTRIN SR.
+  Stop taking WELLBUTRIN SR and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
+  These could be signs of a serious allergic reaction.
+- Unusual thoughts or behaviors.
+  Some patients have unusual thoughts or behaviors while taking WELLBUTRIN SR, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
+  If this happens to you, call your doctor.
 
 What is WELLBUTRIN SR?
 
@@ -90,11 +120,12 @@ Do not take WELLBUTRIN SR if you
 
 What should I tell my doctor before using WELLBUTRIN SR?
 
-- Tell your doctor about your medical conditions.
-  Tell your doctor if you:
+Tell your doctor if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
+See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions.”
+
+- Tell your doctor about your other medical conditions including if you:
   - are pregnant or plan to become pregnant.
     It is not known if WELLBUTRIN SR can harm your unborn baby.
-    If you can use WELLBUTRIN SR while you are pregnant, talk to your doctor about how you can be on the Bupropion Pregnancy Registry.
   - are breastfeeding.
     WELLBUTRIN SR passes through your milk.
     It is not known if WELLBUTRIN SR can harm your baby.
@@ -108,16 +139,15 @@ What should I tell my doctor before using WELLBUTRIN SR?
   - are a diabetic taking insulin or other medicines to control your blood sugar.
   - drink a lot of alcohol.
   - abuse prescription medicines or street drugs.
-- Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins,and herbal supplements.
+- Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
   Many medicines increase your chances of having seizures or other serious side effects if you take them while you are using WELLBUTRIN SR.
 
 How should I take WELLBUTRIN SR?
 
 - Take WELLBUTRIN SR exactly as prescribed by your doctor.
-- Do not chew, cut, or crush WELLBUTRIN SR tablets.
-  If you do, the medicine will be released into your body too quickly.
-  If this happens you may be more likely to get side effects including seizures.
-  You must swallow the tablets whole.Tell your doctor if you cannot swallow medicine tablets.
+- Do not chew, cut, or crush WELLBUTRIN SR Tablets.
+  You must swallow the tablets whole.
+  Tell your doctor if you cannot swallow medicine tablets.
 - Take WELLBUTRIN SR at the same time each day.
 - Take your doses of WELLBUTRIN SR at least 8 hours apart.
 - You may take WELLBUTRIN SR with or without food.
@@ -142,22 +172,12 @@ What should I avoid while taking WELLBUTRIN SR?
 
 What are possible side effects of WELLBUTRIN SR?
 
-- Seizures.
-  Some patients get seizures while taking WELLBUTRIN SR.
-  If you have a seizure while taking WELLBUTRIN SR, stop taking the tablets and call your doctor right away.
-  Do not take WELLBUTRIN SR again if you have a seizure.
-- Hypertension (high blood pressure).
-  Some patients get high blood pressure, sometimes severe, while taking WELLBUTRIN SR.
-  The chance of high blood pressure may be increased if you also use nicotine replacement therapy (for example, a nicotine patch) to help you stop smoking.
-- Severe allergic reactions: Stop taking WELLBUTRIN SR and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
-  These could be signs of a serious allergic reaction.
-- Unusual thoughts or behaviors.
-  Some patients have unusual thoughts or behaviors while taking WELLBUTRIN SR, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
-  If this happens to you, call your doctor.
+WELLBUTRIN SR can cause serious side effects.
+Read this entire Medication Guide for more information about these serious side effects.
 
 The most common side effects of WELLBUTRIN SR are loss of appetite, dry mouth, skin rash, sweating, ringing in the ears, shakiness, stomach pain, agitation, anxiety, dizziness, trouble sleeping, muscle pain, nausea, fast heartbeat, sore throat, and urinating more often.
 
-If you have nausea, you may want to take your medicine with food.
+If you have nausea, take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
 
 These are not all the side effects of WELLBUTRIN SR.
@@ -175,11 +195,11 @@ How should I store WELLBUTRIN SR?
 
 General Information about WELLBUTRIN SR.
 
-- Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-  Do not use WELLBUTRIN SR for a condition for which it was not prescribed.
-  Do not give WELLBUTRIN SR to other people, even if they have the same symptoms you have.
-  It may harm them.
-  Keep WELLBUTRIN SR out of the reach of children.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use WELLBUTRIN SR for a condition for which it was not prescribed.
+Do not give WELLBUTRIN SR to other people, even if they have the same symptoms you have.
+It may harm them.
+Keep WELLBUTRIN SR out of the reach of children.
 
 This Medication Guide summarizes important information about WELLBUTRIN SR.
 For more information, talk with your doctor.
@@ -193,19 +213,17 @@ Inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnes
 In addition, the 100-mg tablet contains FD&C Blue No. 1 Lake, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake, and the 200-mg tablet contains FD&C Red No. 40 Lake.
 The tablets are printed with edible black ink.
 
-WELLBUTRIN SR® and PARNATE® are registered trademarks of GlaxoSmithKline
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, ZYBAN, and PARNATE are registered trademarks of GlaxoSmithKline.
+
+*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
 
 Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-August 2008
+July 2009
 
 WLS:5MG
-
-WELLBUTRIN XL®, WELLBUTRIN SR®, WELLBUTRIN®, ZYBAN®, and PARNATE® are registered trademarks of GlaxoSmithKline.
-
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.; *KALETRA®/Abbott Laboratories.
 
 Distributed by:
 
@@ -223,9 +241,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-August 2008
+July 2009
 
-WLS:3PI
+WLS:4PI

@@ -10,7 +10,7 @@ This study demonstrated the effectiveness of the immediate-release formulation o
 
 Although there are not as yet independent trials demonstrating the antidepressant effectiveness of the sustained-release formulation of bupropion, studies have demonstrated the bioequivalence of the immediate-release and sustained-release forms of bupropion under steady-state conditions, i.e., bupropion sustained-release 150 mg twice daily was shown to be bioequivalent to 100 mg 3 times daily of the immediate-release formulation of bupropion, with regard to both rate and extent of absorption, for parent drug and metabolites.
 
-In a longer-term study, outpatients meeting DSM-IV criteria for major depressive disorder, recurrent type, who had responded during an 8-week open trial on WELLBUTRIN SR (150 mg twice daily) were randomized to continuation of their same dose of WELLBUTRIN SR or placebo, for up to 44 weeks of observation for relapse.
+In a longer-term study, outpatients meeting DSM-IV criteria for major depressive disorder, recurrent type, who had responded during an 8-week open trial on WELLBUTRIN SR (150 mg twice daily) were randomized to continuation of their same WELLBUTRIN SR dose or placebo, for up to 44 weeks of observation for relapse.
 Response during the open phase was defined as CGI Improvement score of 1 (very much improved) or 2 (much improved) for each of the final 3 weeks.
 Relapse during the double-blind phase was defined as the investigator’s judgment that drug treatment was needed for worsening depressive symptoms.
-Patients receiving continued treatment with WELLBUTRIN SR experienced significantly lower relapse rates over the subsequent 44 weeks compared to those receiving placebo.
+Patients receiving continued WELLBUTRIN SR treatment experienced significantly lower relapse rates over the subsequent 44 weeks compared to those receiving placebo.
