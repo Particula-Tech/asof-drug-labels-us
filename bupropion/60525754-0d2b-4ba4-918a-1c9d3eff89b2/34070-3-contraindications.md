@@ -11,4 +11,4 @@ WELLBUTRIN is contraindicated in patients undergoing abrupt discontinuation of a
 The concurrent administration of WELLBUTRIN and a monoamine oxidase (MAO) inhibitor is contraindicated.
 At least 14 days should elapse between discontinuation of an MAO inhibitor and initiation of treatment with WELLBUTRIN.
 
-WELLBUTRIN is contraindicated in patients who have shown an allergic response to bupropion or the other ingredients that make up WELLBUTRIN.
+WELLBUTRIN is contraindicated in patients who have shown an allergic response to bupropion or the other ingredients that make up WELLBUTRIN Tablets.

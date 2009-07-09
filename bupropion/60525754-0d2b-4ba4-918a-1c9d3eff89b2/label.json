@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018644"
+  ],
   "inn": "bupropion",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0177-55",
     "0173-0178-55"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bupropion hydrochloride",
+      "name": "WELLBUTRIN"
+    }
+  ],
   "setid": "60525754-0d2b-4ba4-918a-1c9d3eff89b2",
   "source": "dailymed"
 }

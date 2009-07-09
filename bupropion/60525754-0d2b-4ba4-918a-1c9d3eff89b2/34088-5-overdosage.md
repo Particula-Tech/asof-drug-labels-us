@@ -3,7 +3,7 @@
 ## Human Overdose Experience
 
 Overdoses of up to 30 g or more of bupropion have been reported.
-Seizure was reported in approximately one third of all cases.
+Seizure was reported in approximately one-third of all cases.
 Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, sinus tachycardia, and ECG changes such as conduction disturbances (including QRS prolongation) or arrhythmias.
 Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respiratory failure have been reported mainly when bupropion was part of multiple drug overdoses.
 

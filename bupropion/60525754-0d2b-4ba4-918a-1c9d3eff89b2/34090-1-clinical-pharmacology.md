@@ -21,7 +21,7 @@ Plasma bupropion concentrations are dose-proportional following single doses of 
 
 ### Absorption
 
-The absolute bioavailability of WELLBUTRIN in humans has not been determined because an intravenous formulation for human use is not available.
+The absolute bioavailability of WELLBUTRIN Tablets in humans has not been determined because an intravenous formulation for human use is not available.
 However, it appears likely that only a small proportion of any orally administered dose reaches the systemic circulation intact.
 
 ### Distribution
@@ -36,22 +36,13 @@ Three metabolites have been shown to be active: hydroxybupropion, which is forme
 In vitro findings suggest that cytochrome P450IIB6 (CYP2B6) is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 isoenzymes are not involved in the formation of threohydrobupropion.
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
 The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.
-However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
+However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance because their plasma concentrations are as high or higher than those of bupropion.
 
-Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir.
-In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
-The AUC and Cmax of the metabolites of bupropion were decreased by 0 to 44%.
-
-In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and Cmax of bupropion by 66% and 62%, respectively.
-The AUC and Cmax of the metabolites of bupropion were decreased by 42% to 78%.
-
-In another healthy volunteer study, KALETRA® * (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
-The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively (see PRECAUTIONS: Drug Interactions).
-
+Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by the cytochrome P450IIB6 (CYP2B6) isoenzyme.
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
-Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 3 hours after administration of WELLBUTRIN.
+Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 3 hours after administration of WELLBUTRIN Tablets.
 Peak plasma concentrations of hydroxybupropion are approximately 10 times the peak level of the parent drug at steady state.
 The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 17 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite.
@@ -78,7 +69,7 @@ The differences in half-life for bupropion and the other metabolites in the 2 pa
 
 The second study showed that there were no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 patients with mild-to-moderate hepatic cirrhosis compared to 8 healthy volunteers.
 However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in patients with mild-to-moderate hepatic cirrhosis.
-In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-lifewas also longer (29 hours in patients with severe hepatic cirrhosis vs. 19 hours in healthy subjects).
+In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in patients with severe hepatic cirrhosis vs. 19 hours in healthy subjects).
 For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
@@ -88,8 +79,8 @@ The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were in
 ### Renal
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
-An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
-A second study, comparing normal subjects and patients with moderate-to-severe renal impairment showed that exposure to sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
+An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3– and 2.8–fold increase, respectively, in AUC for patients with end-stage renal failure.
+A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150-mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 The elimination of bupropion and/or the major metabolites of bupropion may be reduced by impaired renal function (see PRECAUTIONS: Renal Impairment).
 
 ### Left Ventricular Dysfunction

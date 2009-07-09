@@ -1,6 +1,4 @@
-# ADVERSE REACTIONS
-
-(See also WARNINGS and PRECAUTIONS.)
+# ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
 
 Adverse events commonly encountered in patients treated with WELLBUTRIN are agitation, dry mouth, insomnia, headache/migraine, nausea/vomiting, constipation, and tremor.
 
@@ -17,7 +15,7 @@ Finally, it is important to emphasize that the tabulation does not reflect the r
 A better perspective on the serious adverse events associated with the use of WELLBUTRIN is provided in WARNINGS and PRECAUTIONS.
 
 Table 2.
-Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials* (Percent of Patients Reporting)
+Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trialsa (Percent of Patients Reporting)
 
 | Adverse Experience | WELLBUTRIN Patients(n = 323) | Placebo Patients(n = 185) |
 | --- | --- | --- |
@@ -82,7 +80,7 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 | Blurred vision | 14.6 | 10.3 |
 | Gustatory disturbance | 3.1 | 1.1 |
 
-*Events reported by at least 1% of patients receiving WELLBUTRIN are included.
+a Events reported by at least 1% of patients receiving WELLBUTRIN are included.
 
 ## Other Events Observed During the Development of WELLBUTRIN
 
@@ -178,7 +176,7 @@ arthralgia, myalgia, muscle rigidity/fever/rhabdomyolysis, muscle weakness
 
 ### Nervous
 
-aggression, coma, delirium, dream abnormalities, paranoid ideation, paresthesia, restlessness, unmasking of tardive dyskinesia
+aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, restlessness, suicide attempt, unmasking of tardive dyskinesia
 
 ### Skin and Appendages
 
