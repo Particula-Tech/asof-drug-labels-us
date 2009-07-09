@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077574"
+  ],
+  "inn": "paclitaxel",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-763-05",
+    "63323-763-16",
+    "63323-763-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "paclitaxel",
+      "name": "Paclitaxel Injection,"
+    }
+  ],
+  "setid": "a6c24189-293f-42ca-b969-75870bb55af0",
+  "source": "dailymed"
+}
