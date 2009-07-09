@@ -8,21 +8,22 @@ There has been a long standing concern, however, that antidepressants may have a
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short‑term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short‑term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-| Table 1 |  |
-| --- | --- |
+Table 1
+
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18‑24 | 5 additional cases |
+| 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25‑64 | 1 fewer case |
+| 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -64,16 +65,20 @@ These reactions have also been reported in patients who have recently discontinu
 Therefore, it is recommended that Effexor not be used in combination with an MAOI, or within at least 14 days of discontinuing treatment with an MAOI.
 Based on the half-life of Effexor, at least 7 days should be allowed after stopping Effexor before starting an MAOI.
 
-## Serotonin Syndrome
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur with Effexor treatment, particularly with concomitant use of serotonergic drugs (including SSRIs, SNRIs and triptans) and with drugs that impair metabolism of serotonin (including MAOIs).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting diarrhea) (see PRECAUTIONS, Drug Interactions).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Effexor treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting diarrhea] (see PRECAUTIONS, Drug Interactions).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
 The concomitant use of Effexor with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS, Potential for Interaction with Monoamine Oxidase Inhibitors).
 
-If concomitant treatment of Effexor with an SSRI, an SNRI or a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
+If concomitant treatment of Effexor with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
 
-The concomitant use of Effexor with serotonin precursors (such as tryptophan supplements) is not recommended (see PRECAUTIONS, Drug Interactions).
+The concomitant use of Effexor with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS, Drug Interactions).
+
+Treatment with Effexor and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Sustained Hypertension
 
@@ -81,9 +86,9 @@ Venlafaxine treatment is associated with sustained increases in blood pressure i
 (1) In a premarketing study comparing three fixed doses of venlafaxine (75, 225, and 375 mg/day) and placebo, a mean increase in supine diastolic blood pressure (SDBP) of 7.2 mm Hg was seen in the 375 mg/day group at week 6 compared to essentially no changes in the 75 and 225 mg/day groups and a mean decrease in SDBP of 2.2 mm Hg in the placebo group.
 (2) An analysis for patients meeting criteria for sustained hypertension (defined as treatment-emergent SDBP ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for 3 consecutive visits) revealed a dose-dependent increase in the incidence of sustained hypertension for venlafaxine:
 
-| Treatment Group | Incidence of Sustained Elevation in SDBP |
-| --- | --- |
 | Probability of Sustained Elevation in SDBP (Pool of Premarketing Venlafaxine Studies) |  |
+| --- | --- |
+| Treatment Group | Incidence of Sustained Elevation in SDBP |
 | Venlafaxine |  |
 | < 100 mg/day | 3% |
 | 101-200 mg/day | 5% |
@@ -126,7 +131,9 @@ Treatment-emergent anxiety, nervousness, and insomnia were more commonly reporte
 
 | Symptom | Venlafaxine n = 1033 | Placebo n = 609 |
 | --- | --- | --- |
-| Anxiety Nervousness Insomnia | 6% 13% 18% | 3% 6% 10% |
+| Anxiety | 6% | 3% |
+| Nervousness | 13% | 6% |
+| Insomnia | 18% | 10% |
 
 Anxiety, nervousness, and insomnia led to drug discontinuation in 2%, 2%, and 3%, respectively, of the patients treated with venlafaxine in the Phase 2 and Phase 3 depression studies.
 
@@ -317,7 +324,7 @@ The mechanism explaining this finding is unknown.
 ### Lithium
 
 The steady-state pharmacokinetics of venlafaxine administered at 150 mg/day were not affected when a single 600 mg oral dose of lithium was administered to 12 healthy male subjects.
-O‑desmethylvenlafaxine (ODV) also was unaffected.
+O-desmethylvenlafaxine (ODV) also was unaffected.
 Venlafaxine had no effect on the pharmacokinetics of lithium (see also CNS-Active Drugs, below).
 
 ### Drugs Highly Bound to Plasma Protein
@@ -339,7 +346,7 @@ However, although imipramine partially inhibited the CYP2D6-mediated metabolism 
 Additionally, in a clinical study involving CYP2D6-poor and -extensive metabolizers, the total concentration of active compounds (venlafaxine plus ODV), was similar in the two metabolizer groups.
 Therefore, no dosage adjustment is required when venlafaxine is coadministered with a CYP2D6 inhibitor.
 
-Ketoconazole: A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n = 14) and 25 mg in poor metabolizers (PM; n = 6) of CYP2D6 resulted in higher plasma concentrations of both venlafaxine and O‑desvenlafaxine (ODV) in most subjects following administration of ketoconazole.
+Ketoconazole: A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n = 14) and 25 mg in poor metabolizers (PM; n = 6) of CYP2D6 resulted in higher plasma concentrations of both venlafaxine and O-desvenlafaxine (ODV) in most subjects following administration of ketoconazole.
 Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
 Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
@@ -366,7 +373,7 @@ The 2-OH-desipramine AUCs increased by at least 2.5 fold (with venlafaxine 37.5 
 Imipramine did not affect the pharmacokinetics of venlafaxine and ODV.
 The clinical significance of elevated 2-OH-desipramine levels is unknown.
 
-Metoprolol—Concomitant administration of venlafaxine (50 mg every 8 hours for 5 days) and metoprolol (100 mg every 24 hours for 5 days) to 18 healthy male subjects in a pharmacokinetic interaction study for both drugs resulted in an increase of plasma concentrations of metoprolol by approximately 30-40% without altering the plasma concentrations of its active metabolite, α‑hydroxymetoprolol.
+Metoprolol—Concomitant administration of venlafaxine (50 mg every 8 hours for 5 days) and metoprolol (100 mg every 24 hours for 5 days) to 18 healthy male subjects in a pharmacokinetic interaction study for both drugs resulted in an increase of plasma concentrations of metoprolol by approximately 30-40% without altering the plasma concentrations of its active metabolite, α-hydroxymetoprolol.
 Metoprolol did not alter the pharmacokinetic profile of venlafaxine or its active metabolite, O-desmethylvenlafaxine.
 
 Venlafaxine appeared to reduce the blood pressure lowering effect of metoprolol in this study.

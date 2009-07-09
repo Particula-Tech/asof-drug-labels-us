@@ -7,7 +7,20 @@ The more common events (≥ 1%) associated with discontinuation and considered t
 
 | CNS | Venlafaxine | Placebo |
 | --- | --- | --- |
-| Somnolence Insomnia Dizziness Nervousness Dry mouth Anxiety Gastrointestinal Nausea Urogenital Abnormal ejaculation* Other Headache Asthenia Sweating | 3% 3% 3% 2% 2% 2% 6% 3% 3% 2% 2% | 1% 1% — — — 1% 1% — 1% — — |
+| Somnolence | 3% | 1% |
+| Insomnia | 3% | 1% |
+| Dizziness | 3% | — |
+| Nervousness | 2% | — |
+| Dry mouth | 2% | — |
+| Anxiety | 2% | 1% |
+| Gastrointestinal |  |  |
+| Nausea | 6% | 1% |
+| Urogenital |  |  |
+| Abnormal ejaculation* | 3% | — |
+| Other |  |  |
+| Headache | 3% | 1% |
+| Asthenia | 2% | — |
+| Sweating | 2% | — |
 | * Percentages based on the number of males. — Less than 1% |  |  |
 
 ## Incidence in Controlled Trials
@@ -30,15 +43,55 @@ TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4- to 8-Week Placebo-
 
 | Body System | Preferred Term | Effexor (n=1033) | Placebo (n=609) |
 | --- | --- | --- | --- |
-| Body as a Whole | Headache Asthenia Infection Chills Chest pain Trauma | 25% 12% 6% 3% 2% 2% | 24% 6% 5% — 1% 1% |
-| Cardiovascular | Vasodilatation Increased blood pressure/hypertension Tachycardia Postural hypotension | 4% 2% 2% 1% | 3% — — — |
-| Dermatological | Sweating Rash Pruritus | 12% 3% 1% | 3% 2% — |
-| Gastrointestinal | Nausea Constipation Anorexia Diarrhea Vomiting Dyspepsia Flatulence | 37% 15% 11% 8% 6% 5% 3% | 11% 7% 2% 7% 2% 4% 2% |
+| Body as a Whole | Headache | 25% | 24% |
+|  | Asthenia | 12% | 6% |
+|  | Infection | 6% | 5% |
+|  | Chills | 3% | — |
+|  | Chest pain | 2% | 1% |
+|  | Trauma | 2% | 1% |
+| Cardiovascular | Vasodilatation | 4% | 3% |
+|  | Increased blood pressure/hypertension | 2% | — |
+|  | Tachycardia | 2% | — |
+|  | Postural hypotension | 1% | — |
+| Dermatological | Sweating | 12% | 3% |
+|  | Rash | 3% | 2% |
+|  | Pruritus | 1% | — |
+| Gastrointestinal | Nausea | 37% | 11% |
+|  | Constipation | 15% | 7% |
+|  | Anorexia | 11% | 2% |
+|  | Diarrhea | 8% | 7% |
+|  | Vomiting | 6% | 2% |
+|  | Dyspepsia | 5% | 4% |
+|  | Flatulence | 3% | 2% |
 | Metabolic | Weight loss | 1% | — |
-| Nervous System | Somnolence Dry mouth Dizziness Insomnia Nervousness Anxiety Tremor Abnormal dreams Hypertonia Paresthesia Libido decreased Agitation Confusion Thinking abnormal Depersonalization Depression Urinary retention Twitching | 23% 22% 19% 18% 13% 6% 5% 4% 3% 3% 2% 2% 2% 2% 1% 1% 1% 1% | 9% 11% 7% 10% 6% 3% 1% 3% 2% 2% — — 1% 1% — — — — |
+| Nervous System | Somnolence | 23% | 9% |
+|  | Dry mouth | 22% | 11% |
+|  | Dizziness | 19% | 7% |
+|  | Insomnia | 18% | 10% |
+|  | Nervousness | 13% | 6% |
+|  | Anxiety | 6% | 3% |
+|  | Tremor | 5% | 1% |
+|  | Abnormal dreams | 4% | 3% |
+|  | Hypertonia | 3% | 2% |
+|  | Paresthesia | 3% | 2% |
+|  | Libido decreased | 2% | — |
+|  | Agitation | 2% | — |
+|  | Confusion | 2% | 1% |
+|  | Thinking abnormal | 2% | 1% |
+|  | Depersonalization | 1% | — |
+|  | Depression | 1% | — |
+|  | Urinary retention | 1% | — |
+|  | Twitching | 1% | — |
 | Respiration | Yawn | 3% | — |
-| Special Senses | Blurred vision Taste perversion Tinnitus Mydriasis | 6% 2% 2% 2% | 2% — — — |
-| Urogenital System | Abnormal ejaculation/ orgasm Impotence Urinary frequency Urination impaired Orgasm disturbance | 12%2 6%2 3% 2% 2%3 | —2 —2 2% — —3 |
+| Special Senses | Blurred vision | 6% | 2% |
+|  | Taste perversion | 2% | — |
+|  | Tinnitus | 2% | — |
+|  | Mydriasis | 2% | — |
+| Urogenital System | Abnormal ejaculation/ orgasm | 12%2 | —2 |
+|  | Impotence | 6%2 | —2 |
+|  | Urinary frequency | 3% | 2% |
+|  | Urination impaired | 2% | — |
+|  | Orgasm disturbance | 2%3 | —3 |
 | 1 Events reported by at least 1% of patients treated with Effexor (venlafaxine hydrochloride) are included, and are rounded to the nearest %. Events for which the Effexor incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea3. — Incidence less than 1%. 2 Incidence based on number of male patients. 3 Incidence based on number of female patients. |  |  |  |
 
 ### Dose Dependency of Adverse Events
@@ -54,13 +107,27 @@ TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Tri
 |  |  | Effexor (mg/day) |  |  |
 | Body System/ Preferred Term |  |  |  |  |
 | Body as a Whole |  |  |  |  |
-| Abdominal pain Asthenia Chills Infection | 3.3% 3.3% 1.1% 2.2% | 3.4% 16.9% 2.2% 2.2% | 2.2% 14.6% 5.6% 5.6% | 8.0% 14.8% 6.8% 2.3% |
+| Abdominal pain | 3.3% | 3.4% | 2.2% | 8.0% |
+| Asthenia | 3.3% | 16.9% | 14.6% | 14.8% |
+| Chills | 1.1% | 2.2% | 5.6% | 6.8% |
+| Infection | 2.2% | 2.2% | 5.6% | 2.3% |
 | Cardiovascular System |  |  |  |  |
-| Hypertension Vasodilatation | 1.1% 0.0% | 1.1% 4.5% | 2.2% 5.6% | 4.5% 2.3% |
+| Hypertension | 1.1% | 1.1% | 2.2% | 4.5% |
+| Vasodilatation | 0.0% | 4.5% | 5.6% | 2.3% |
 | Digestive System |  |  |  |  |
-| Anorexia Dyspepsia Nausea Vomiting | 2.2% 2.2% 14.1% 1.1% | 14.6% 6.7% 32.6% 7.9% | 13.5% 6.7% 38.2% 3.4% | 17.0% 4.5% 58.0% 6.8% |
+| Anorexia | 2.2% | 14.6% | 13.5% | 17.0% |
+| Dyspepsia | 2.2% | 6.7% | 6.7% | 4.5% |
+| Nausea | 14.1% | 32.6% | 38.2% | 58.0% |
+| Vomiting | 1.1% | 7.9% | 3.4% | 6.8% |
 | Nervous System |  |  |  |  |
-| Agitation Anxiety Dizziness Insomnia Libido decreased Nervousness Somnolence Tremor | 0.0% 4.3% 4.3% 9.8% 1.1% 4.3% 4.3% 0.0% | 1.1% 11.2% 19.1% 22.5% 2.2% 21.3% 16.9% 1.1% | 2.2% 4.5% 22.5% 20.2% 1.1% 13.5% 18.0% 2.2% | 4.5% 2.3% 23.9% 13.6% 5.7% 12.5% 26.1% 10.2% |
+| Agitation | 0.0% | 1.1% | 2.2% | 4.5% |
+| Anxiety | 4.3% | 11.2% | 4.5% | 2.3% |
+| Dizziness | 4.3% | 19.1% | 22.5% | 23.9% |
+| Insomnia | 9.8% | 22.5% | 20.2% | 13.6% |
+| Libido decreased | 1.1% | 2.2% | 1.1% | 5.7% |
+| Nervousness | 4.3% | 21.3% | 13.5% | 12.5% |
+| Somnolence | 4.3% | 16.9% | 18.0% | 26.1% |
+| Tremor | 0.0% | 1.1% | 2.2% | 10.2% |
 | Respiratory System |  |  |  |  |
 | Yawn | 0.0% | 4.5% | 5.6% | 8.0% |
 | Skin and Appendages |  |  |  |  |
@@ -69,7 +136,8 @@ TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Tri
 | Abnormality of accommodation | 0.0% | 9.1% | 7.9% | 5.6% |
 | Urogenital System |  |  |  |  |
 | Abnormal ejaculation/orgasm | 0.0% | 4.5% | 2.2% | 12.5% |
-| Impotence (Number of men) | 0.0% (n=63) | 5.8% (n=52) | 2.1% (n=48) | 3.6% (n=56) |
+| Impotence | 0.0% | 5.8% | 2.1% | 3.6% |
+| (Number of men) | (n=63) | (n=52) | (n=48) | (n=56) |
 
 ### Adaptation to Certain Adverse Events
 
@@ -142,7 +210,7 @@ Urogenital system—Frequent: metrorrhagia*, prostatic disorder (prostatitis and
 
 ## Postmarketing Reports
 
-Voluntary reports of other adverse events temporally associated with the use of venlafaxine that have been received since market introduction and that may have no causal relationship with the use of venlafaxine include the following: agranulocytosis, anaphylaxis, aplastic anemia, catatonia, congenital anomalies, impaired coordination and balance, CPK increased, deep vein thrombophlebitis, delirium, EKG abnormalities such as QT prolongation; cardiac arrhythmias including atrial fibrillation, supraventricular tachycardia, ventricular extrasystole, and rare reports of ventricular fibrillation and ventricular tachycardia, including torsade de pointes; toxic epidermal necrolysis/Stevens-Johnson Syndrome, erythema multiforme, extrapyramidal symptoms (including dyskinesia and tardive dyskinesia), angle-closure glaucoma, hemorrhage (including eye and gastrointestinal bleeding), hepatic events (including GGT elevation; abnormalities of unspecified liver function tests; liver damage, necrosis, or failure; and fatty liver), interstitial lung disease, involuntary movements, LDH increased, neuroleptic malignant syndrome-like events (including a case of a 10-year-old who may have been taking methylphenidate, was treated and recovered), neutropenia, night sweats, pancreatitis, pancytopenia, panic, prolactin increased, renal failure, rhabdomyolysis, serotonin syndrome, shock-like electrical sensations or tinnitus (in some cases, subsequent to the discontinuation of venlafaxine or taperingof dose), and syndrome of inappropriate antidiuretic hormone secretion (usually in the elderly).
+Voluntary reports of other adverse events temporally associated with the use of venlafaxine that have been received since market introduction and that may have no causal relationship with the use of venlafaxine include the following: agranulocytosis, anaphylaxis, angioedema, aplastic anemia, catatonia, congenital anomalies, impaired coordination and balance, CPK increased, deep vein thrombophlebitis, delirium, EKG abnormalities such as QT prolongation; cardiac arrhythmias including atrial fibrillation, supraventricular tachycardia, ventricular extrasystole, and rare reports of ventricular fibrillation and ventricular tachycardia, including torsade de pointes; toxic epidermal necrolysis/Stevens-Johnson Syndrome, erythema multiforme, extrapyramidal symptoms (including dyskinesia and tardive dyskinesia), angle-closure glaucoma, hemorrhage (including eye and gastrointestinal bleeding), hepatic events (including GGT elevation; abnormalities of unspecified liver function tests; liver damage, necrosis, or failure; and fatty liver), interstitial lung disease, involuntary movements, LDH increased, neutropenia, night sweats, pancreatitis, pancytopenia, panic, prolactin increased, renal failure, rhabdomyolysis, shock-like electrical sensations or tinnitus (in some cases, subsequent to the discontinuation of venlafaxine or tapering of dose), and syndrome of inappropriate antidiuretic hormone secretion (usually in the elderly).
 
 There have been reports of elevated clozapine levels that were temporally associated with adverse events, including seizures, following the addition of venlafaxine.
 There have been reports of increases in prothrombin time, partial thromboplastin time, or INR when venlafaxine was given to patients receiving warfarin therapy.
