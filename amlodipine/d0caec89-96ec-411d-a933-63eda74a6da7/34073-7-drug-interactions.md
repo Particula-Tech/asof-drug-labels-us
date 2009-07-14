@@ -1,0 +1,60 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Drug/Drug Interactions
+
+No drug interaction studies have been conducted with Exforge and other drugs, although studies have been conducted with the individual amlodipine and valsartan components, as described below:
+
+Studies with Amlodipine
+
+In clinical trials, amlodipine has been safely administered with thiazide diuretics, beta-blockers, angiotensin-converting enzyme inhibitors, long-acting nitrates, sublingual nitroglycerin, digoxin, warfarin, non-steroidal anti-inflammatory drugs, antibiotics, and oral hypoglycemic drugs.
+
+Cimetidine: Co-administration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
+
+Grapefruit juice: Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+
+Maalox® (antacid): Co-administration of the antacid Maalox with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+
+Sildenafil: A single 100 mg dose of sildenafil (Viagra®**) in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
+When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+
+Atorvastatin: Co-administration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
+
+Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
+
+Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+
+Studies with Valsartan
+
+No clinically significant pharmacokinetic interactions were observed when valsartan was co-administered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
+The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+
+Warfarin: Co-administration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+
+## 7.2 CYP 450 Interactions
+
+The enzyme(s) responsible for valsartan metabolism have not been identified but do not seem to be CYP 450 isozymes.
+The inhibitory or induction potential of valsartan on CYP 450 is also unknown.
+
+As with other drugs that block angiotensin II or its effects, concomitant use of potassium sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+
+## 7.3 Drug/Food Interactions
+
+Studies with Exforge
+
+The bioavailabilities of amlodipine and valsartan are not altered by the co-administration of food.
+
+## 7.4 Clinical Laboratory Findings
+
+Creatinine: In hypertensive patients, greater than 50% increases in creatinine occurred in 0.4% of patients receiving Exforge and 0.6% receiving placebo.
+In heart failure patients, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
+In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
+
+Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Exforge-treated patients.
+
+Serum Potassium: In hypertensive patients, greater than 20% increases in serum potassium were observed in 2.8% of Exforge-treated patients compared to 3.4% of placebo-treated patients.
+In heart failure patients, greater than 20% increases in serum potassium were observed in 10% of valsartan-treated patients compared to 5.1% of placebo-treated patients.
+
+Blood Urea Nitrogen (BUN): In hypertensive patients, greater than 50% increases in BUN were observed in 5.5% of Exforge-treated patients compared to 4.7% of placebo-treated patients.
+In heart failure patients, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
+
+Neutropenia: Neutropenia was observed in 1.9% of patients treated with Diovan and 0.8% of patients treated with placebo.

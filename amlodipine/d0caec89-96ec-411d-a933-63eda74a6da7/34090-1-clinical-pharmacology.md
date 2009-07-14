@@ -1,8 +1,8 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-### Amlodipine
+Amlodipine
 
 Amlodipine is a dihydropyridine calcium channel blocker that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle.
 Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites.
@@ -14,7 +14,7 @@ Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), an
 
 Amlodipine is a peripheral arterial vasodilator that acts directly on vascular smooth muscle to cause a reduction in peripheral vascular resistance and reduction in blood pressure.
 
-### Valsartan
+Valsartan
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
@@ -34,78 +34,9 @@ Valsartan does not bind to or block other hormone receptors or ion channels know
 
 Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and angiotensin II circulating levels do not overcome the effect of valsartan on blood pressure.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-### Amlodipine
-
-Peak plasma concentrations of amlodipine are reached 6-12 hours after administration of amlodipine alone.
-Absolute bioavailability has been estimated to be between 64% and 90%.
-The bioavailability of amlodipine is not altered by the presence of food.
-
-The apparent volume of distribution of amlodipine is 21 L. Approximately 93% of circulating amlodipine is bound to plasma proteins in hypertensive patients.
-
-Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine.
-
-Elimination of amlodipine from the plasma is biphasic with a terminal elimination half-life of about 30-50 hours.
-Steady state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing.
-
-### Valsartan
-
-Following oral administration of valsartan alone peak plasma concentrations of valsartan are reached in 2 to 4 hours.
-Absolute bioavailability is about 25% (range 10%-35%).
-Food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
-
-The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
-Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
-
-Valsartan shows bi-exponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
-The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
-The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
-The enzyme(s) responsible for valsartan metabolism have not been identified but do not seem to be CYP 450 isoenzymes.
-
-Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
-Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
-
-### Exforge
-
-Following oral administration of Exforge® (amlodipine and valsartan) in normal healthy adults, peak plasma concentrations of valsartan and amlodipine are reached in 3 and 6-8 hours, respectively.
-The rate and extent of absorption of valsartan and amlodipine from Exforge are the same as when administered as individual tablets.
-
-### Special Populations
-
-#### Geriatric
-
-Studies with amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40%-60%; therefore a lower initial dose of amlodipine may be required.
-
-Studies with valsartan: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-No dosage adjustment is necessary.
-
-#### Gender
-
-Studies with valsartan: Pharmacokinetics of valsartan does not differ significantly between males and females.
-
-#### Renal Insufficiency
-
-Studies with amlodipine: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
-Patients with renal failure may therefore receive the usual initial dose.
-
-Studies with valsartan: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
-Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
-No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
-Valsartan is not removed from the plasma by hemodialysis.
-In the case of severe renal disease, exercise care with dosing of valsartan.
-
-#### Hepatic Insufficiency
-
-Studies with amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%; therefore, a lower initial dose of amlodipine may be required.
-
-Studies with valsartan: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
-In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
-Care should be exercised in patients with liver disease.
-
-## Pharmacodynamics
-
-### Amlodipine
+Amlodipine
 
 Following administration of therapeutic doses to patients with hypertension, amlodipine produces vasodilation resulting in a reduction of supine and standing blood pressures.
 These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.
@@ -128,9 +59,9 @@ Similar results were obtained in patients receiving amlodipine and concomitant b
 In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects of electrocardiographic parameters were observed.
 In clinical trials with angina patients alone, amlodipine therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
 
-Amlodipine has indications other than hypertension which can be found in the Norvasc®* package insert.
+Amlodipine has indications other than hypertension which can be found in the Norvasc* package insert.
 
-### Valsartan
+Valsartan
 
 Valsartan inhibits the pressor effect of angiotensin II infusions.
 An oral dose of 80 mg inhibits the pressor effect by about 80% at peak with approximately 30% inhibition persisting for 24 hours.
@@ -145,9 +76,77 @@ Administration of valsartan to patients with essential hypertension results in a
 
 Valsartan has indications other than hypertension which can be found in the Diovan® package insert.
 
-### Exforge
+Exforge
 
-Exforge® (amlodipine and valsartan) has been shown to be effective in lowering blood pressure.
+Exforge has been shown to be effective in lowering blood pressure.
 Both amlodipine and valsartan lower blood pressure by reducing peripheral resistance, but calcium influx blockade and reduction of angiotensin II vasoconstriction are complementary mechanisms.
 
-Exforge has not been studied in indications other than hypertension.
+## 12.3 Pharmacokinetics
+
+Amlodipine
+
+Peak plasma concentrations of amlodipine are reached 6-12 hours after administration of amlodipine alone.
+Absolute bioavailability has been estimated to be between 64% and 90%.
+The bioavailability of amlodipine is not altered by the presence of food.
+
+The apparent volume of distribution of amlodipine is 21 L/kg.
+Approximately 93% of circulating amlodipine is bound to plasma proteins in hypertensive patients.
+
+Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine.
+
+Elimination of amlodipine from the plasma is biphasic with a terminal elimination half-life of about 30-50 hours.
+Steady state plasma levels of amlodipine are reached after 7-8 days of consecutive daily dosing.
+
+Valsartan
+
+Following oral administration of valsartan alone peak plasma concentrations of valsartan are reached in 2-4 hours.
+Absolute bioavailability is about 25% (range 10%-35%).
+Food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
+
+The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
+Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
+
+Valsartan shows bi-exponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
+The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
+The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
+The enzyme(s) responsible for valsartan metabolism have not been identified but do not seem to be CYP 450 isoenzymes.
+
+Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
+Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
+
+Exforge
+
+Following oral administration of Exforge in normal healthy adults, peak plasma concentrations of valsartan and amlodipine are reached in 3 and 6-8 hours, respectively.
+The rate and extent of absorption of valsartan and amlodipine from Exforge are the same as when administered as individual tablets.
+
+Special Populations
+
+Geriatric
+
+Studies with Amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40%-60%; therefore a lower initial dose of amlodipine may be required.
+
+Studies with Valsartan: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
+No dosage adjustment is necessary.
+
+Gender
+
+Studies with Valsartan: Pharmacokinetics of valsartan does not differ significantly between males and females.
+
+Renal Insufficiency
+
+Studies with Amlodipine: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
+Patients with renal failure may therefore receive the usual initial dose.
+
+Studies with Valsartan: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
+Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
+No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
+Valsartan is not removed from the plasma by hemodialysis.
+In the case of severe renal disease, exercise care with dosing of valsartan.
+
+Hepatic Insufficiency
+
+Studies with Amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%; therefore, a lower initial dose of amlodipine may be required.
+
+Studies with Valsartan: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
+In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
+Care should be exercised in patients with liver disease.

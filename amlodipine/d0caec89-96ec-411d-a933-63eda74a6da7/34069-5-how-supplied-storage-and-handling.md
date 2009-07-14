@@ -1,6 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Exforge® (amlodipine and valsartan) is available as tablets containing amlodipine besylate equivalent to 5 mg, or 10 mg of amlodipine free-base with valsartan 160 mg or 320 mg, providing for the following available combinations: 5/160 mg, 10/160 mg, 5/320 mg and 10/320 mg.
+Exforge is available as non-scored tablets containing amlodipine besylate equivalent to 5 mg, or 10 mg of amlodipine free-base with valsartan 160 mg or 320 mg, providing for the following available combinations: 5/160 mg, 10/160 mg, 5/320 mg and 10/320 mg.
 
 All strengths are packaged in bottles of 30 and 90 count, and unit dose blister packages.
 
@@ -36,22 +36,6 @@ Bottles of 90 NDC # 0078-0491-34
 
 Unit Dose 100 tablets (10 X 10 tablets blister cards) NDC # 0078-0491-35
 
-## Storage
-
 Store at 25oC (77oF); excursions permitted to 15-30oC (59-86oF).
 [See USP Controlled Room Temperature.]
 Protect from moisture.
-
-*Norvasc® is a registered trademark of Pfizer, Inc.
-
-**Viagra® is a registered trademark of Pfizer, Inc.
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-©Novartis
-
-April 2007

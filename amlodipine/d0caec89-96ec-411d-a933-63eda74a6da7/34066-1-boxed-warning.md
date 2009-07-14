@@ -1,6 +1,5 @@
-# USE IN PREGNANCY
+# WARNING: AVOID USE IN PREGNANCY
 
-When used in pregnancy, drugs that act directly on the renin-angiotensin system can cause injury and even death to the developing fetus.
-When pregnancy is detected, Exforge® (amlodipine and valsartan) should be discontinued as soon as possible.
-
-See WARNINGS: Fetal/Neonatal Morbidity and Mortality
+When pregnancy is detected, discontinue Exforge® as soon as possible.
+Drugs that act directly on the renin-angiotensin system can cause injury and even death to the developing fetus.
+[See Warnings and Precautions (5.1)]
