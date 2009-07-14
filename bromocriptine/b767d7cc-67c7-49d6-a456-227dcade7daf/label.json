@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA017962"
+  ],
+  "inn": "bromocriptine",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0017-05",
+    "0078-0017-15",
+    "0078-0102-05",
+    "0078-0102-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bromocriptine mesylate",
+      "name": "Parlodel"
+    },
+    {
+      "form": "TABLET",
+      "generic": "bromocriptine mesylate",
+      "name": "Parlodel"
+    }
+  ],
+  "setid": "b767d7cc-67c7-49d6-a456-227dcade7daf",
+  "source": "dailymed"
+}
