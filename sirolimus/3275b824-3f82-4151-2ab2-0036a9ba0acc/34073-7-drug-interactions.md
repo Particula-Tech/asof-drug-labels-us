@@ -23,9 +23,9 @@ Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, i
 Exercise caution when using sirolimus with drugs or agents that are modulators of CYP3A4 and P-gp.
 The dosage of Rapamune and/or the co-administered drug may need to be adjusted [see Clinical Pharmacology (12.3)].
 
-- Drugs that could increase sirolimus blood concentrations: Bromocriptione, cimetidine, cisapride, clotrimazole, danazol, diltiazem, fluconazole, HIV‑protease inhibitors (e.g., ritonavir, indinavir), metoclopramide, nicardipine, troleandomycin, verapamil
-- Drugs and other agents that could decrease sirolimus concentrations: Carbamazepine, phenobarbital, phenytoin, rifapentine, St. John's Wort (Hypericum perforatum)
-- Drugs with concentrations that could increase when given with Rapamune: Verapamil
+- Drugs that could increase sirolimus blood concentrations:Bromocriptione, cimetidine, cisapride, clotrimazole, danazol, diltiazem, fluconazole, HIV‑protease inhibitors (e.g., ritonavir, indinavir), metoclopramide, nicardipine, troleandomycin, verapamil
+- Drugs and other agents that could decrease sirolimus concentrations:Carbamazepine, phenobarbital, phenytoin, rifapentine, St. John's Wort (Hypericum perforatum)
+- Drugs with concentrations that could increase when given with Rapamune:Verapamil
 
 ## 7.5 Vaccination
 

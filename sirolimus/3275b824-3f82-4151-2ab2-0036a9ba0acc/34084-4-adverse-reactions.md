@@ -82,7 +82,7 @@ Less frequently (< 3%) occurring adverse reactions included: lymphoma/post-trans
 
 The use of Rapamune in renal transplant patients was associated with increased serum cholesterol and triglycerides that may require treatment.
 
-In Studies 1 and 2, in de novo renal transplant patients who began the study with fasting, total serum cholesterol< 200 mg/dL or fasting, total serum triglycerides < 200 mg/dL, there was an increased incidence of hypercholesterolemia (fasting serum cholesterol > 240 mg/dL) or hypertriglyceridemia (fasting serum triglycerides > 500 mg/dL), respectively, in patients receiving both Rapamune 2 mg and Rapamune 5 mg compared with azathioprine and placebo controls.
+In Studies 1 and 2, in de novo renal transplant patients who began the study with fasting, total serum cholesterol < 200 mg/dL or fasting, total serum triglycerides < 200 mg/dL, there was an increased incidence of hypercholesterolemia (fasting serum cholesterol > 240 mg/dL) or hypertriglyceridemia (fasting serum triglycerides > 500 mg/dL), respectively, in patients receiving both Rapamune 2 mg and Rapamune 5 mg compared with azathioprine and placebo controls.
 
 Treatment of new-onset hypercholesterolemia with lipid-lowering agents was required in 42‑52% of patients enrolled in the Rapamune arms of Studies 1 and 2 compared with 16% of patients in the placebo arm and 22% of patients in the azathioprine arm.
 
@@ -98,9 +98,9 @@ At 24 months (Study 1) and 36 months (Study 2), there were no significant differ
 
 INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTa,b
 
-| Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | Malignancy | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2-3 mg/kg/day | Placebo |
+| --- | --- | --- | --- | --- | --- | --- |
+| Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
 | Lymphoma/ lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
 | Skin Carcinoma |  |  |  |  |  |  |
 | Any Squamous Cellc | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |

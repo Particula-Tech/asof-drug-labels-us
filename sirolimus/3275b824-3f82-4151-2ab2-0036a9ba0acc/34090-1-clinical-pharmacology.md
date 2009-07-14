@@ -86,14 +86,14 @@ The following sirolimus concentrations (chromatographic equivalent) were observe
 
 SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
 
-| Mean (ng/mL) | 10th – 90th percentiles (ng/mL) | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Patient Population(Study number) | Treatment | Year 1 |  | Year 3 |  |
+| --- | --- | --- | --- | --- | --- |
+| Mean (ng/mL) | 10th – 90th percentiles (ng/mL) | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) |  |  |
 | Low-to-moderate risk(Studies 1 & 2) | Rapamune (2 mg/day) + CsA | 7.2 | 3.6 – 11 | – | – |
 | Rapamune (5 mg/day) + CsA | 14 | 8 – 22 | – | – |  |
 | Low-to-moderate risk(Study 3) | Rapamune + CsA | 8.6 | 5 – 13a | 9.1 | 5.4 – 14 |
 | Rapamune alone | 19 | 14 – 22a | 16 | 11 – 22 |  |
-| High risk(Study 4) | Rapamune + CsA | 15.7 11.8 11.5 | 5.4 – 27.3b 6.2 – 16.9c 6.3 – 17.3d | – | – |
+| High risk (Study 4) | Rapamune + CsA | 15.7 11.8 11.5 | 5.4 – 27.3b 6.2 – 16.9c 6.3 – 17.3d | – | – |
 | a: Months 4 through 12 b: Up to Week 2; observed CsA Cmin was 217 (56 – 432) ng/mL c: Week 2 to Week 26; observed CsA Cmin range was 174 (71 – 288) ng/mL d: Week 26 to Week 52; observed CsA Cmin was 136 (54.5 – 218) ng/mL |  |  |  |  |  |
 
 The withdrawal of cyclosporine and concurrent increases in sirolimus trough concentrations to steady-state required approximately 6 weeks.
@@ -122,7 +122,7 @@ The loading and the maintenance doses of Rapamune need not be adjusted in patien
 Sirolimus pharmacokinetic data were collected in concentration-controlled trials of pediatric renal transplant patients who were also receiving cyclosporine and corticosteroids.
 The target ranges for trough concentrations were either 10-20 ng/mL for the 21 children receiving tablets, or 5-15 ng/mL for the one child receiving oral solution.
 The children aged 6-11 years (n = 8) received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2).
-The children aged 12-18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86± 0.61 mg/m2).
+The children aged 12-18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
 At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the Rapamune dose at 16 hours after the once-daily cyclosporine dose.
 
 SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)a,b
@@ -135,7 +135,7 @@ SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT 
 
 The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
+SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE) *
 
 | Age Group (y) | n | tmax (h) | t1/2 (h) | CL/F/WT (mL/h/kg) |
 | --- | --- | --- | --- | --- |
@@ -216,7 +216,21 @@ The Cmax and AUC of the pharmacologically active S(-) enantiomer of verapamil we
 Clinically significant pharmacokinetic drug-drug interactions were not observed in studies of drugs listed below.
 Sirolimus and these drugs may be co-administered without dose adjustments.
 
-Acyclovir Atorvastatin Digoxin Glyburide Nifedipine Norgestrel/ethinyl estradiol (Lo/Ovral®) Prednisolone Sulfamethoxazole/trimethoprim (Bactrim®)
+Acyclovir
+
+Atorvastatin
+
+Digoxin
+
+Glyburide
+
+Nifedipine
+
+Norgestrel/ethinyl estradiol (Lo/Ovral®)
+
+Prednisolone
+
+Sulfamethoxazole/trimethoprim (Bactrim®)
 
 ### Other Drug-Drug Interactions
 
@@ -227,14 +241,19 @@ Care should be exercised when drugs or other substances that are substrates and/
 Other drugs that have the potential to increase sirolimus blood concentrations include (but are not limited to):
 
 Calcium channel blockers: nicardipine.
+
 Antifungal agents: clotrimazole, fluconazole.
+
 Antibiotics: troleandomycin.
+
 Gastrointestinal prokinetic agents: cisapride, metoclopramide.
+
 Other drugs: bromocriptine, cimetidine, danazol, HIV-protease inhibitors (e.g., ritonavir, indinavir).
 
 Other drugs that have the potential to decrease sirolimus concentrations include (but are not limited to):
 
 Anticonvulsants: carbamazepine, phenobarbital, phenytoin.
+
 Antibiotics: rifapentine.
 
 ### Other Drug-Food Interactions

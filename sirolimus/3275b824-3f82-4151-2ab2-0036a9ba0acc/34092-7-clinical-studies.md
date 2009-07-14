@@ -15,20 +15,20 @@ In both studies, the primary efficacy endpoint was the rate of efficacy failure 
 Efficacy failure was defined as the first occurrence of an acute rejection episode (confirmed by biopsy), graft loss, or death.
 
 The tables below summarize the results of the primary efficacy analyses from these trials.
-Rapamune Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the< 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
+Rapamune Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
 
 INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 284) | Rapamune Oral Solution 5 mg/day (n = 274) | Azathioprine 2-3 mg/kg/day (n = 161) |
 | --- | --- | --- | --- |
-| Efficacy failure at 6 monthsc | 18.7 | 16.8 | 32.3 |
-| Components of efficacy failure |  |  |  |
+| Efficacy failureat 6 monthsc | 18.7 | 16.8 | 32.3 |
+| Componentsof efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 16.5 | 11.3 | 29.2 |
 | Graft loss | 1.1 | 2.9 | 2.5 |
 | Death | 0.7 | 1.8 | 0 |
 | Lost to follow-up | 0.4 | 0.7 | 0.6 |
-| Efficacy failure at 24 months | 32.8 | 25.9 | 36.0 |
-| Components of efficacy failure |  |  |  |
+| Efficacy failureat 24 months | 32.8 | 25.9 | 36.0 |
+| Componentsof efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 23.6 | 17.5 | 32.3 |
 | Graft loss | 3.9 | 4.7 | 3.1 |
 | Death | 4.2 | 3.3 | 0 |
@@ -39,14 +39,14 @@ INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 227) | Rapamune Oral Solution 5 mg/day (n = 219) | Placebo (n = 130) |
 | --- | --- | --- | --- |
-| Efficacy failure at 6 monthsc | 30.0 | 25.6 | 47.7 |
-| Components of efficacy failure |  |  |  |
+| Efficacy failureat 6 monthsc | 30.0 | 25.6 | 47.7 |
+| Componentsof efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 24.7 | 19.2 | 41.5 |
 | Graft loss | 3.1 | 3.7 | 3.9 |
 | Death | 2.2 | 2.7 | 2.3 |
 | Lost to follow-up | 0 | 0 | 0 |
-| Efficacy failure at 36 months | 44.1 | 41.6 | 54.6 |
-| Components of efficacy failure |  |  |  |
+| Efficacy failureat 36 months | 44.1 | 41.6 | 54.6 |
+| Componentsof efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 32.2 | 27.4 | 43.9 |
 | Graft loss | 6.2 | 7.3 | 4.6 |
 | Death | 5.7 | 5.9 | 5.4 |
@@ -178,7 +178,7 @@ CALCULATED GLOMERULAR FILTRATION RATES (mL/min) BY NANKIVELL EQUATION AT 12, 24,
 | Month 24 |  |  |
 | Mean ± SEM | 48.4 ± 1.7 (n = 203) | 58.4 ± 1.6 (n = 201) |
 | Month 36 |  |  |
-| Mean± SEM | 47.0 ± 1.8 (n = 196) | 58.5 ± 1.9 (n = 199) |
+| Mean ± SEM | 47.0 ± 1.8 (n = 196) | 58.5 ± 1.9 (n = 199) |
 | a: Includes patients who prematurely discontinued treatment. b: Patients who had a graft loss were included in the analysis and had their GFR set to 0.0. c: All patients received corticosteroids. |  |  |
 
 The mean GFR at 12, 24, and 36 months, calculated by the Nankivell equation, was significantly higher for patients receiving Rapamune as a maintenance regimen following cyclosporine withdrawal than for those in the Rapamune with cyclosporine therapy group.
@@ -193,7 +193,7 @@ Fifty-two percent (112/215) of the patients in the Rapamune with cyclosporine wi
 
 Rapamune was studied in a one-year, clinical trial in high risk patients (Study 4) who were defined as Black transplant recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reasons and/or patients with high panel-reactive antibodies (PRA; peak PRA level > 80%).
 Patients received concentration-controlled sirolimus and cyclosporine (MODIFIED), and corticosteroids per local practice.
-The Rapamune dose was adjusted to achieve target whole blood trough sirolimus concentrationsof 10-15 ng/mL (chromatographic method) throughout the 12-month study period.
+The Rapamune dose was adjusted to achieve target whole blood trough sirolimus concentrations of 10-15 ng/mL (chromatographic method) throughout the 12-month study period.
 The cyclosporine dose was adjusted to achieve target whole blood trough concentrations of 200-300 ng/mL through week 2, 150-200 ng/mL from week 2 to week 26, and 100-150 ng/mL from week 26 to week 52 [see Clinical Pharmacology (12.3)] for the observed trough concentrations ranges.
 Antibody induction was allowed per protocol as prospectively defined at each transplant center, and was used in 88.4% of patients.
 The study was conducted at 35 centers in the United States.
@@ -207,7 +207,7 @@ EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTION RATES (
 | --- | --- |
 | Efficacy Failure (%) | 23.2 |
 | Graft Loss or Death (%) | 9.8 |
-| Renal Function (mean± SEM)a,b | 52.6 ± 1.6 (n = 222) |
+| Renal Function (mean ± SEM)a,b | 52.6 ± 1.6 (n = 222) |
 | a: Calculated glomerular filtration rate by Nankivell equation. b: Patients who had graft loss were included in this analysis with GFR set to 0. |  |
 
 Patient survival at 12 months was 94.6%.

@@ -15,4 +15,4 @@ The inactive ingredients in Rapamune Oral Solution are Phosal 50 PG® (phosphati
 Rapamune Oral Solution contains 1.5% - 2.5% ethanol.
 
 The inactive ingredients in Rapamune Tablets include sucrose, lactose, polyethylene glycol 8000, calcium sulfate, microcrystalline cellulose, pharmaceutical glaze, talc, titanium dioxide, magnesium stearate, povidone, poloxamer 188, polyethylene glycol 20,000, glyceryl monooleate, carnauba wax, dl-alpha tocopherol, and other ingredients.
-The 2 mg dosage strength also contains iron oxide yellow 10 and iron oxide brown 70.
+The 2 mg dosage strength also contains yellow iron oxide and brown iron oxide.

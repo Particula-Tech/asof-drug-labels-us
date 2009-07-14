@@ -1,21 +1,3 @@
-# 17 PATIENT COUNSELING INFORMATION
-
-See FDA-Approved Patient Labeling (17.4).
-
-## 17.1 Dosage
-
-Patients should be given complete dosage instructions [see Patient Counseling Information (17.4)].
-
-## 17.2 Skin Cancer Events
-
-Patients should be told that exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor because of the increased risk for skin cancer [see Warnings and Precautions (5.15)].
-
-## 17.3 Pregnancy Risks
-
-Women of childbearing potential should be informed of the potential risks during pregnancy and told that they should use effective contraception prior to initiation of Rapamune therapy, during Rapamune therapy, and for 12 weeks after Rapamune therapy has been stopped [see Use in Specific Populations (8.1)].
-
-## 17.4 FDA-Approved Patient Labeling
-
 PATIENT INSTRUCTIONS FOR RAPAMUNE (SIROLIMUS) ORAL SOLUTION
 
 Bottles
@@ -40,14 +22,24 @@ For Rapamune Oral Tablets:
 
 Wyeth®
 
-Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
+Wyeth Pharmaceuticals Inc.
+
+Philadelphia, PA 19101
 
 For Rapamune Oral Solution:
 
 Wyeth®
 
-Manufactured for: Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
+Manufactured for:
+
+Wyeth Pharmaceuticals Inc.
+
+Philadelphia, PA 19101
 
 MADE IN CANADA
 
-W10431C034 ET01 Rev 07/08
+W10431C036
+
+ET02
+
+Rev 06/09
