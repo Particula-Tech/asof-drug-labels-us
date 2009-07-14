@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020998"
+  ],
   "inn": "celecoxib",
-  "labeler": "Pfizer Inc.",
+  "labeler": "G.D. Searle LLC Division of Pfizer Inc",
   "package_ndcs": [
     "0025-1515-01",
     "0025-1520-31",
@@ -13,7 +15,13 @@
     "0025-1530-01",
     "0025-1530-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "celecoxib",
+      "name": "CELEBREX"
+    }
+  ],
   "setid": "8d52185d-421f-4e34-8db7-f7676db2a226",
   "source": "dailymed"
 }
