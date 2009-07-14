@@ -1,0 +1,9 @@
+# OVERDOSE
+
+Symptoms which may occur in case of overdose include, but are not limited to, muscular weakness and alterations in the state of consciousness (e.g. lethargy, coma), vomiting, diarrhea, and crystalluria.
+For acute overdose, general supportive measures should be employed along with immediate gastric lavage.
+
+Intravenous fluids should be administered in fairly large quantities to avert the possibility of crystalluria.
+An adequate airway should be maintained and artificial resuscitation equipment should be at hand.
+Electrocardiographic monitoring should be instituted, and the patient carefully observed.
+To date, no experience has been reported with dialysis and its value in Dantrium overdose is not known.

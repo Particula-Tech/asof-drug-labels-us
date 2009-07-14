@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017443"
+  ],
+  "inn": "dantrolene",
+  "labeler": "JHP Pharmaceuticals LLC",
+  "package_ndcs": [
+    "42023-124-01",
+    "42023-125-01",
+    "42023-126-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dantrolene sodium",
+      "name": "Dantrium"
+    }
+  ],
+  "setid": "57b4eec1-49e1-432c-95ae-0fe36e32d64b",
+  "source": "dailymed"
+}

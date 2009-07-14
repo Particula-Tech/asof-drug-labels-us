@@ -1,0 +1,47 @@
+# PRINCIPAL DISPLAY PANEL - 25 mg bottle
+
+NDC 42023-124-01
+
+25 mg
+
+Dantrium® (dantrolene sodium)
+
+PERIPHERAL SKELETAL MUSCLE RELAXANT
+
+100 Capsules
+
+Rx Only
+
+JHP PHARMACEUTICALS
+
+# PRINCIPAL DISPLAY PANEL - 50 mg bottle
+
+NDC 42023-125-01
+
+50 mg
+
+Dantrium® (dantrolene sodium)
+
+PERIPHERAL SKELETAL MUSCLE RELAXANT
+
+100 Capsules
+
+Rx Only
+
+JHP PHARMACEUTICALS
+
+# PRINCIPAL DISPLAY PANEL - 100 mg bottle
+
+NDC 42023-126-01
+
+100 mg
+
+Dantrium® (dantrolene sodium)
+
+PERIPHERAL SKELETAL MUSCLE RELAXANT
+
+100 Capsules
+
+Rx Only
+
+JHP PHARMACEUTICALS
