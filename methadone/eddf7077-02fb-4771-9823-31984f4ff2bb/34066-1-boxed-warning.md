@@ -1,23 +1,22 @@
-# CONDITIONS FOR DISTRIBUTION AND USE OF METHADONE PRODUCTS:
+Deaths, cardiac and respiratory, have been reported during initiation and conversion of pain patients to methadone treatment from treatment with other opioid agonists.
+It is critical to understand the pharmacokinetics of methadone when converting patients from other opioids (see DOSAGE AND ADMINISTRATION).
+Particular vigilance is necessary during treatment initiation, during conversion from one opioid to another, and during dose titration.
 
-Code of Federal Regulations,
+Respiratory depression is the chief hazard associated with methadone hydrochloride administration.
+Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects, particularly in the early dosing period.
+These characteristics can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
 
-Title 21, Sec. 291.505
+In addition, cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
+Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
 
-METHADONE PRODUCTS, WHEN USED FOR TREATMENT OF NARCOTIC ADDICTION IN DETOXIFICATION OR MAINTENANCE PROGRAMS, SHALL BE DISPENSED ONLY BY APPROVED HOSPITAL PHARMACIES, APPROVED COMMUNITY PHARMACIES, AND MAINTENANCE PROGRAMS APPROVED BY THE FOOD AND DRUG ADMINISTRATION AND THE DESIGNATED STATE AUTHORITY.
-APPROVED MAINTENANCE PROGRAMS SHALL DISPENSE AND USE METHADONE IN ORAL FORM ONLY AND ACCORDING TO THE TREATMENT REQUIREMENTS STIPULATED IN THE FEDERAL METHADONE REGULATIONS (21 CFR 291.505).
-FAILURE TO ABIDE BY THE REQUIREMENTS IN THESE REGULATIONS MAY RESULT IN CRIMINAL PROSECUTION, SEIZURE OF THE DRUG SUPPLY, REVOCATION OF THE PROGRAM APPROVAL, AND INJUNCTION PRECLUDING OPERATION OF THE PROGRAM.
-A METHADONE PRODUCT, WHEN USED AS AN ANALGESIC, MAY BE DISPENSED IN ANY LICENSED PHARMACY.
+Methadone treatment for analgesic therapy in patients with acute or chronic pain should only be initiated if the potential analgesic or palliative care benefit of treatment with methadone is considered and outweighs the risks.
 
-# NOTE
+## Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction
 
-If methadone is administered for treatment of heroin dependence for more than 3 weeks, the procedure passes from treatment of the acute withdrawal syndrome (detoxification) to maintenance therapy.
-Maintenance treatment is permitted to be undertaken only by approved methadone programs.
-This does not preclude the maintenance treatment of an addict who is hospitalized for medical conditions other than addiction and who requires temporary maintenance during the critical period of his/her stay or whose enrollment has been verified in a program approved for maintenance treatment with methadone.
+Code of Federal Regulations, Title 42, Sec 8
 
-# NOTE
+Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
+Certified treatment programs shall dispense and use methadone in oral form only and according to the treatment requirements stipulated in the Federal Opioid Treatment Standards (42 CFR 8.12).
+See below for important regulatory exceptions to the general requirement for certification to provide opioid agonist treatment.
 
-IN AN INDIVIDUAL PHYSICALLY DEPENDENT ON NARCOTICS, THE ADMINISTRATION OF THE USUAL DOSE OF A NARCOTIC ANTAGONIST WILL PRECIPITATE AN ACUTE WITHDRAWAL SYNDROME.
-THE SEVERITY OF THIS SYNDROME WILL DEPEND ON THE DEGREE OF PHYSICAL DEPENDENCE AND THE DOSE OF THE ANTAGONIST ADMINISTERED.
-THE USE OF A NARCOTIC ANTAGONIST IN SUCH A PERSON SHOULD BE AVOIDED IF POSSIBLE.
-IF IT MUST BE USED TO TREAT SERIOUS RESPIRATORY DEPRESSION IN THE PHYSICALLY DEPENDENT PATIENT, THE ANTAGONIST SHOULD BE ADMINISTERED WITH EXTREME CARE AND BY TITRATION WITH SMALLER THAN USUAL DOSES OF THE ANTAGONIST.
+Failure to abide by the requirements in these regulations may result in criminal prosecution, seizure of the drug supply, revocation of the program approval, and injunction precluding operation of the program.

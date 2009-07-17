@@ -1,11 +1,14 @@
 # DESCRIPTION
 
-Methadone Hydrochloride Tablets, USP are provided in tablet form for oral administration.
-Methadone Hydrochloride, USP 6-(dimethylamino)-4, 4-diphenyl-3-heptanone hydrochloride, is a white, essentially odorless, bitter-tasting powder.
-It is very soluble in water, soluble in isopropanol and in chloroform, and practically insoluble in ether and in glycerine.
-Methadone hydrochloride has a pKa of 8.25 in water at 20°C.
-Its molecular weight is 345.91 and it has the following structural formula.
+Methadone Hydrochloride Tablets USP for oral administration, each contain 5 mg or 10 mg of methadone hydrochloride.
 
-Each tablet contains 5 mg (0.015 mmol) or 10 mg (0.029 mmol) methadone hydrochloride.
+Methadone hydrochloride is a white, crystalline material that is water-soluble.
 
-The tablets also contain Lactose Monohydrate NF, Magnesium Stearate NF, Microcrystalline Cellulose NF and Silicon Dioxide NF.
+Methadone hydrochloride is chemically described as 6-(dimethylamino)-4,4-diphenyl-3-heptanone hydrochloride.
+Methadone hydrochloride has a melting point of 235°C, and a pKa of 8.25 in water at 20°C.
+Its octanol/water partition coefficient at pH 7.4 is 117.
+A solution (1:100) in water has a pH between 4.5 and 6.5.
+
+It has the following structural formula:
+
+The tablets also contain lactose monohydrate, magnesium stearate, microcrystalline cellulose and silicon dioxide.

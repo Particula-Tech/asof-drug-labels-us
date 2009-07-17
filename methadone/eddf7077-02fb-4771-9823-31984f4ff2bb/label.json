@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040517"
+  ],
   "inn": "methadone",
   "labeler": "Mallinckrodt Inc.",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0406-5771-01",
     "0406-5771-62"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methadone hydrochloride",
+      "name": "METHADONE HYDROCHLORIDE"
+    }
+  ],
   "setid": "eddf7077-02fb-4771-9823-31984f4ff2bb",
   "source": "dailymed"
 }
