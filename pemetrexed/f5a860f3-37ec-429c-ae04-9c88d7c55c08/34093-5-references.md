@@ -8,7 +8,7 @@
 3. American Society of Health-System Pharmacists.
    ASHP guidelines on handling hazardous drugs.
    Am J Health-Syst Pharm.
-   2006;63:1172-1193.
+   2006; 63:1172-1193.
 4. Polovich, M., White, J. M., & Kelleher, L. O. (eds.)
    2005.
    Chemotherapy and biotherapy guidelines and recommendations for practice (2nd. ed.)

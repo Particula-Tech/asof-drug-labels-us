@@ -14,9 +14,11 @@ ALIMTA is a treatment for:
 - Malignant pleural mesothelioma.
   This cancer affects the inside lining of the chest cavity.
   ALIMTA is given with cisplatin, another anti-cancer medicine (chemotherapy).
-- Non-small cell lung cancer.
+- Nonsquamous non-small cell lung cancer.
   This cancer is a disease in which malignant (cancer) cells form in the tissues of the lung.
+  If you are having initial treatment for your lung cancer, ALIMTA may be given alone or in combination with another chemotherapy drug.
   If this is the first time you have been treated for your lung cancer, ALIMTA may be given with another anti-cancer drug called cisplatin.
+  If you have completed initial treatment for your lung cancer, ALIMTA may be given alone immediately following your initial treatment.
   If you are being treated because your cancer has come back or you had trouble tolerating a prior treatment, ALIMTA may be given alone.
   Your doctor will speak to you about whether ALIMTA is appropriate for your specific type of non-small cell lung cancer.
 
@@ -47,6 +49,7 @@ How is ALIMTA given?
   The injection or infusion will last about 10 minutes.
   You will usually receive ALIMTA once every 21 days (3 weeks).
 - If you are being treated with ALIMTA and cisplatin for the initial treatment of either mesothelioma or non-small cell lung cancer, ALIMTA will be given first as a 10 minute infusion into your vein and cisplatin (another anti-cancer drug) will also be given through your vein starting about 30 minutes after ALIMTA and ending about 2 hours later.
+- If you have completed initial treatment for your non-small cell lung cancer, you may receive ALIMTA alone, given as a 10 minute infusion into your vein.
 - If you are being treated because your non-small cell lung cancer has returned, you may receive ALIMTA alone, given as a 10 minute infusion into your vein.
 - Your doctor will prescribe a medicine called a “corticosteroid” to take for 3 days during your treatment with ALIMTA.
   Corticosteroid medicines lower your chances for getting skin reactions with ALIMTA.
@@ -120,10 +123,10 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Patient information revised September 26, 2008
+Patient information revised July 2, 2009
 
 Eli Lilly and Company Indianapolis, IN 46285, USA www.ALIMTA.com
 
-| Copyright © 2004, 2008, Eli Lilly and Company. All rights reserved. |  |
+| Copyright © 2004, 2009, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 6750 AMP |  |
+| PV 6751 AMP |  |

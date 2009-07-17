@@ -68,16 +68,80 @@ Incidence Less than 1%
 - Metabolism and Nutrition — increased GGT
 - Neurology — motor neuropathy
 
-Non-Small Cell Lung Cancer (NSCLC) — Single-Agent
+Non-Small Cell Lung Cancer (NSCLC) — Maintenance
 
-Table 5 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
+Table 5 provides the frequency and severity of adverse reactions that have been reported in >5% of 438 patients with NSCLC who received ALIMTA and 218 patients with NSCLC who received placebo.
+All patients received study therapy immediately following 4 cycles of platinum-based treatment for locally advanced or metastatic NSCLC.
+Patients in both study arms were fully supplemented with folic acid and vitamin B12.
+
+Table 5: Adverse Reactions in Patients Receiving ALIMTA versus Placebo in NSCLC a
+
+|  | ALIMTA (N=438) |  | Placebo (N=218) |  |
+| --- | --- | --- | --- | --- |
+| Reaction b | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) |
+| All Adverse Reactions | 66 | 16 | 37 | 4 |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 15 | 3 | 6 | 1 |
+| Neutropenia | 6 | 3 | 0 | 0 |
+| Leukopenia | 6 | 2 | 1 | 1 |
+| Hepatic |  |  |  |  |
+| Increased ALT | 10 | 0 | 4 | 0 |
+| Increased AST | 8 | 0 | 4 | 0 |
+| Clinical |  |  |  |  |
+| Constitutional Symptoms |  |  |  |  |
+| Fatigue | 25 | 5 | 11 | 1 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 19 | 1 | 6 | 1 |
+| Anorexia | 19 | 2 | 5 | 0 |
+| Vomiting | 9 | 0 | 1 | 0 |
+| Mucositis/stomatitis | 7 | 1 | 2 | 0 |
+| Diarrhea | 5 | 1 | 3 | 0 |
+| Infection | 5 | 2 | 2 | 0 |
+| Neurology |  |  |  |  |
+| Neuropathy-sensory | 9 | 1 | 4 | 0 |
+| Dermatology/Skin |  |  |  |  |
+| Rash/Desquamation | 10 | 0 | 3 | 0 |
+| a For the purpose of this table a cut off of 5% was used for inclusion of all events where the reporter considered a possible relationship to ALIMTA. |  |  |  |  |
+| b Refer to NCI CTCAE Criteria version 3.0 for each Grade of toxicity. |  |  |  |  |
+
+No clinically relevant differences in Grade 3/4 adverse reactions were seen in patients based on age, gender, ethnic origin, or histology except a higher incidence of Grade 3/4 fatigue for Caucasian patients compared to non-Caucasian patients (6.5% versus 0.6%).
+
+Safety was assessed by exposure for patients who received at least one dose of ALIMTA (N=438).
+The incidence of adverse reactions was evaluated for patients who received ≤6 cycles of ALIMTA, and compared to patients who received >6 cycles of ALIMTA.
+Increases in adverse reactions (all grades) were observed with longer exposure; however no clinically relevant differences in Grade 3/4 adverse reactions were seen.
+
+Consistent with the higher incidence of anemia (all grades) on the ALIMTA arm, use of transfusions (mainly RBC) and erythropoiesis stimulating agents (ESAs; erythropoietin and darbepoetin) were higher in the ALIMTA arm compared to the placebo arm (transfusions 9.5% versus 3.2%, ESAs 5.9% versus 1.8%).
+
+The following additional adverse reactions were observed in patients with non-small cell lung cancer who received ALIMTA.
+
+Incidence 1% to 5%
+
+- Dermatology/Skin — alopecia, pruritis/itching
+- Gastrointestinal — constipation
+- General Disorders — edema, fever (in the absence of neutropenia)
+- Hematologic — thrombocytopenia
+- Renal — decreased creatinine clearance, increased creatinine, decreased glomerular filtration rate
+- Special Senses — ocular surface disease (including conjunctivitis), increased lacrimation
+
+Incidence Less than 1%
+
+- Cardiovascular — supraventricular arrhythmia
+- Dermatology/Skin — erythema multiforme
+- General Disorders — febrile neutropenia, allergic reaction/hypersensitivity
+- Neurology — motor neuropathy
+- Renal — renal failure
+
+Non-Small Cell Lung Cancer (NSCLC) – After Prior Chemotherapy
+
+Table 6 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B 12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
 All patients were diagnosed with locally advanced or metastatic NSCLC and received prior chemotherapy.
 
-Table 5: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA versus Docetaxel in NSCLCa
+Table 6: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA versus Docetaxel in NSCLCa
 
-| Reactionb | ALIMTA (N=265) |  | Docetaxel (N=276) |  |
+|  | ALIMTA (N=265) |  | Docetaxel (N=276) |  |
 | --- | --- | --- | --- | --- |
-|  | All Grades Toxicity (%) | Grades 3-4 Toxicity (%) | All Grades Toxicity (%) | Grades 3-4 Toxicity (%) |
+| Reactionb | All Grades Toxicity (%) | Grades 3-4 Toxicity (%) | All Grades Toxicity (%) | Grades 3-4 Toxicity (%) |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
 | Anemia | 19 | 4 | 22 | 4 |
@@ -125,14 +189,14 @@ Incidence Less than 1%
 
 Malignant Pleural Mesothelioma (MPM)
 
-Table 6 provides the frequency and severity of adverse reactions that have been reported in >5% of 168 patients with mesothelioma who were randomly assigned to receive cisplatin and ALIMTA and 163 patients with mesothelioma randomly assigned to receive single-agent cisplatin.
+Table 7 provides the frequency and severity of adverse reactions that have been reported in >5% of 168 patients with mesothelioma who were randomly assigned to receive cisplatin and ALIMTA and 163 patients with mesothelioma randomly assigned to receive single-agent cisplatin.
 In both treatment arms, these chemonaive patients were fully supplemented with folic acid and vitamin B12.
 
-Table 6: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA plus Cisplatin in MPMa
+Table 7: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA plus Cisplatin in MPMa
 
-| Reactionb | ALIMTA/cisplatin (N=168) |  | Cisplatin (N=163) |  |
+|  | ALIMTA/cisplatin (N=168) |  | Cisplatin (N=163) |  |
 | --- | --- | --- | --- | --- |
-|  | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) |
+| Reactionb | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
 | Neutropenia | 56 | 23 | 13 | 3 |
@@ -184,9 +248,9 @@ Incidence Less than 1%
 
 Effects of Vitamin Supplementations
 
-Table 7 compares the incidence (percentage of patients) of CTC Grade 3/4 toxicities in patients who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in the study (fully supplemented) with the incidence in patients who never received vitamin supplementation (never supplemented) during the study in the ALIMTA plus cisplatin arm.
+Table 8 compares the incidence (percentage of patients) of CTC Grade 3/4 toxicities in patients who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in the study (fully supplemented) with the incidence in patients who never received vitamin supplementation (never supplemented) during the study in the ALIMTA plus cisplatin arm.
 
-Table 7: Selected Grade 3/4 Adverse Events Comparing Fully Supplemented versus Never Supplemented Patients in the ALIMTA plus Cisplatin arm (% incidence)
+Table 8: Selected Grade 3/4 Adverse Events Comparing Fully Supplemented versus Never Supplemented Patients in the ALIMTA plus Cisplatin arm (% incidence)
 
 | Adverse Eventa (%) | Fully Supplemented Patients (N=168) | Never Supplemented Patients (N=32) |
 | --- | --- | --- |
@@ -203,11 +267,6 @@ The following adverse events were greater in the fully supplemented group compar
 Subpopulations
 
 No relevant effect for ALIMTA safety due to gender or race was identified, except an increased incidence of rash in men (24%) compared to women (16%).
-
-Phase 2 Studies
-
-Clinically relevant Grade 3 and Grade 4 laboratory toxicities were similar between integrated Phase 2 results from three single-agent ALIMTA studies (N=164) and the Phase 3 single- agent ALIMTA study described above, with the exception of neutropenia (12.8% versus 5.3%, respectively) and alanine transaminase elevation (15.2% versus 1.9%, respectively).
-These differences were likely due to differences in the patient population, since the Phase 2 studies included chemonaive and heavily pretreated breast cancer patients with pre-existing liver metastases and/or abnormal baseline liver function tests.
 
 ## 6.2 Post-Marketing Experience
 

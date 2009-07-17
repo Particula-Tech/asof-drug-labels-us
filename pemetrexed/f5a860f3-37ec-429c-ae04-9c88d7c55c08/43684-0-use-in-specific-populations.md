@@ -6,7 +6,7 @@ Teratogenic Effects — Pregnancy Category D [see Warnings and Precautions (5.6)
 
 Based on its mechanism of action, ALIMTA can cause fetal harm when administered to a pregnant woman.
 There are no adequate and well controlled studies of ALIMTA in pregnant women.
-Pemetrexed was embryotoxic, fetotoxic and teratogenic in mice.
+Pemetrexed was embryotoxic, fetotoxic, and teratogenic in mice.
 In mice, repeated intraperitoneal doses of pemetrexed when given during organogenesis caused fetal malformations (incomplete ossification of talus and skull bone; about 1/833rd the recommended intravenous human dose on a mg/m2 basis), and cleft palate (1/33rd the recommended intravenous human dose on a mg/m2 basis).
 Embryotoxicity was characterized by increased embryo-fetal deaths and reduced litter sizes.
 If ALIMTA is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -29,9 +29,12 @@ Renal function monitoring is recommended with administration of ALIMTA.
 No dose reductions other than those recommended for all patients are necessary for patients 65 years of age or older [see Dosage and Administration (2.4)].
 
 In the initial treatment non-small cell lung cancer clinical trial, 37.7% of patients treated with ALIMTA plus cisplatin were ≥65 years and Grade 3/4 neutropenia was greater as compared to patients <65 years (19.9% versus 12.2%).
-For patients ≥65 years, the HR for overall survival was 0.96 (95% CI: 0.83, 1.10) and for patients ≥65 years the HR was 0.88 (95% CI: 0.74, 1.06) in the intent to treat population.
+For patients <65 years, the HR for overall survival was 0.96 (95% CI: 0.83, 1.10) and for patients ≥65 years the HR was 0.88 (95% CI: 0.74, 1.06) in the intent to treat population.
 
-In the previously treated non-small cell lung cancer trial, 29.7% patients treated with ALIMTA were ≥65 years and Grade 3/4 hypertension was greater as compared to patients <65 years.
+In the maintenance non-small cell lung cancer trial 33.3% of patients treated with ALIMTA were ≥65 years and no differences were seen in Grade 3/4 adverse reactions as compared to patients <65 years.
+For patients <65 years, the HR for overall survival was 0.74 (95% CI: 0.58, 0.93) and for patients ≥65 years the HR was 0.88 (95% CI: 0.65, 1.21) in the intent to treat population.
+
+In the non-small cell lung cancer trial after prior chemotherapy, 29.7% patients treated with ALIMTA were ≥65 years and Grade 3/4 hypertension was greater as compared to patients <65 years.
 For patients <65 years, the HR for overall survival was 0.95 (95% CI: 0.76, 1.19), and for patients ≥65 years the HR was 1.15 (95% CI: 0.79, 1.68) in the intent to treat population.
 
 The mesothelioma trial included 36.7% patients treated with ALIMTA plus cisplatin that were ≥65 years, and Grade 3/4 fatigue, leukopenia, neutropenia, and thrombocytopenia were greater as compared to patients <65 years.
@@ -51,10 +54,13 @@ Cisplatin coadministration with ALIMTA has not been studied in patients with mod
 
 ## 8.8 Gender
 
-In the previously untreated non-small cell lung cancer trial, 70% of patients were males and 30% females.
+In the initial treatment non-small cell lung cancer trial, 70% of patients were males and 30% females.
 For males the HR for overall survival was 0.97 (95% CI: 0.85, 1.10) and for females the HR was 0.86 (95% CI: 0.70, 1.06) in the intent to treat population.
 
-In the previously treated non-small cell lung cancer trial, 72% of patients were males and 28% females.
+In the maintenance non-small cell lung cancer trial, 73% of patients were males and 27% females.
+For males the HR for overall survival was 0.78 (95% CI: 0.63, 0.96) and for females the HR was 0.83 (95% CI: 0.56, 1.21) in the intent to treat population.
+
+In the non-small cell lung cancer trial after prior chemotherapy, 72% of patients were males and 28% females.
 For males the HR for overall survival was 0.95 (95% CI: 0.76, 1.19) and for females the HR was 1.28 (95% CI: 0.86, 1.91) in the intent to treat population.
 
 In the mesothelioma trial, 82% of patients were males and 18% females.
@@ -62,10 +68,13 @@ For males the HR for overall survival was 0.85 (95% CI: 0.66, 1.09) and for fema
 
 ## 8.9 Race
 
-In the previously untreated non-small cell lung cancer trial, 78% of patients were Caucasians, 13% East/Southeast Asians, and 9% others.
+In the initial treatment non-small cell lung cancer trial, 78% of patients were Caucasians, 13% East/Southeast Asians, and 9% others.
 For Caucasians, the HR for overall survival was 0.92 (95% CI: 0.82, 1.04), for East/Southeast Asians the HR was 0.86 (95% CI: 0.61, 1.21), and for others the HR was 1.24 (95% CI: 0.84, 1.84) in the intent to treat population.
 
-In the previously treated non-small cell lung cancer trial, 71% of patients were Caucasians and 29% others.
+In the maintenance non-small cell lung cancer trial, 65% of patients were Caucasians, 23% East Asian, and 12% others.
+For Caucasians the HR for overall survival was 0.77 (95% CI: 0.62, 0.97), for East Asians was 1.05 (95% CI: 0.70, 1.59) and for others the HR was 0.46 (95% CI: 0.26, 0.79) in the intent to treat population.
+
+In the non-small cell lung cancer trial after prior chemotherapy, 71% of patients were Caucasians and 29% others.
 For Caucasians the HR for overall survival was 0.91 (95% CI: 0.73, 1.15) and for others the HR was 1.27 (95% CI: 0.87, 1.87) in the intent to treat population.
 
 In the mesothelioma trial, 92% of patients were Caucasians and 8% others.

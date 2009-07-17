@@ -4,7 +4,7 @@
 
 ALIMTA, pemetrexed for injection, is a folate analog metabolic inhibitor that exerts its action by disrupting folate-dependent metabolic processes essential for cell replication.
 In vitro studies have shown that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.
-Pemetrexed is taken into cells by membrane carriers such as the reduced folate carrier, membrane folate binding protein transport systems.
+Pemetrexed is taken into cells by membrane carriers such as the reduced folate carrier and membrane folate binding protein transport systems.
 Once in the cell, pemetrexed is converted to polyglutamate forms by the enzyme folylpolyglutamate synthetase.
 The polyglutamate forms are retained in cells and are inhibitors of TS and GARFT.
 Polyglutamation is a time- and concentration-dependent process that occurs in tumor cells and, is thought to occur to a lesser extent, in normal tissues.

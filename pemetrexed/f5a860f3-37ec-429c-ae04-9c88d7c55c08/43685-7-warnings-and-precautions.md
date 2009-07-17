@@ -33,7 +33,7 @@ Other NSAIDs should also be used with caution [see Drug Interactions (7.1)].
 
 ## 5.5 Required Laboratory Monitoring
 
-Patients should not begin a new cycle of treatment unless the ANC is ≥1500 cells/mm3, the platelet count is ≥100,000 cells/mm3, and creatinine clearance is ≥45 mL/min [see Dosing and Administration (2.4)].
+Patients should not begin a new cycle of treatment unless the ANC is ≥1500 cells/mm3, the platelet count is ≥100,000 cells/mm3, and creatinine clearance is ≥45 mL/min [see Dosage and Administration (2.4)].
 
 ## 5.6 Pregnancy Category D
 
@@ -41,8 +41,7 @@ Based on its mechanism of action, ALIMTA can cause fetal harm when administered 
 Pemetrexed administered intraperitoneally to mice during organogenesis was embryotoxic, fetotoxic and teratogenic in mice at greater than 1/833rd the recommended human dose.
 If ALIMTA is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant.
-Women should be advised to use effective contraceptive measures to prevent pregnancy during treatment with ALIMTA.
-[see Pregnancy (8.1)]
+Women should be advised to use effective contraceptive measures to prevent pregnancy during treatment with ALIMTA [see Use in Specific Populations (8.1)].
 
 ## 5.7 Third Space Fluid
 

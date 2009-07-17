@@ -2,7 +2,7 @@
 
 ## 2.1 Combination Use with Cisplatin
 
-Non-Small Cell Lung Cancer and Malignant Pleural Mesothelioma
+Nonsquamous Non-Small Cell Lung Cancer and Malignant Pleural Mesothelioma
 
 The recommended dose of ALIMTA is 500 mg/m2 administered as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle.
 The recommended dose of cisplatin is 75 mg/m2 infused over 2 hours beginning approximately 30 minutes after the end of ALIMTA administration.
@@ -11,7 +11,7 @@ See cisplatin package insert for more information.
 
 ## 2.2 Single-Agent Use
 
-Non-Small Cell Lung Cancer
+Nonsquamous Non-Small Cell Lung Cancer
 
 The recommended dose of ALIMTA is 500 mg/m2 administered as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle.
 
@@ -49,10 +49,10 @@ Upon recovery, patients should be retreated using the guidelines in Tables 1-3, 
 
 Table 1: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplatin - Hematologic Toxicities
 
-| Nadir ANC <500/mm3 and nadir platelets ≥50,000/mm3. | 75% of previous dose (both drugs). |
+| Nadir ANC <500/mm3 and nadir platelets ≥50,000/mm3. | 75% of previous dose (pemetrexed and cisplatin). |
 | --- | --- |
-| Nadir platelets <50,000/mm3 without bleeding regardless of nadir ANC. | 75% of previous dose (both drugs). |
-| Nadir platelets <50,000/mm3 with bleedinga, regardless of nadir ANC. | 50% of previous dose (both drugs). |
+| Nadir platelets <50,000/mm3 without bleeding regardless of nadir ANC. | 75% of previous dose (pemetrexed and cisplatin). |
+| Nadir platelets <50,000/mm3 with bleedinga, regardless of nadir ANC. | 50% of previous dose (pemetrexed and cisplatin). |
 | a These criteria meet the CTC version 2.0 (NCI 1998) definition of ≥CTC Grade 2 bleeding. |  |
 
 If patients develop nonhematologic toxicities (excluding neurotoxicity) ≥Grade 3, treatment should be withheld until resolution to less than or equal to the patient's pre-therapy value.
@@ -62,12 +62,11 @@ Table 2: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplati
 
 |  | Dose of ALIMTA (mg/m2) | Dose of Cisplatin (mg/m2) |
 | --- | --- | --- |
-| Any Grade 3c or 4 toxicities except mucositis | 75% of previous dose | 75% of previous dose |
+| Any Grade 3 or 4 toxicities except mucositis | 75% of previous dose | 75% of previous dose |
 | Any diarrhea requiring hospitalization (irrespective of Grade) or Grade 3 or 4 diarrhea | 75% of previous dose | 75% of previous dose |
 | Grade 3 or 4 mucositis | 50% of previous dose | 100% of previous dose |
 | a NCI Common Toxicity Criteria (CTC). |  |  |
 | b Excluding neurotoxicity (see Table 3). |  |  |
-| c Except Grade 3 transaminase elevation, for which no dose reduction is needed. |  |  |
 
 In the event of neurotoxicity, the recommended dose adjustments for ALIMTA and cisplatin are described in Table 3.
 Patients should discontinue therapy if Grade 3 or 4 neurotoxicity is experienced.
@@ -82,7 +81,7 @@ Table 3: Dose Reduction for ALIMTA (single-agent or in combination) and Cisplati
 
 Discontinuation Recommendation
 
-ALIMTA therapy should be discontinued if a patient experiences any hematologic or nonhematologic Grade 3 or 4 toxicity after 2 dose reductions (except Grade 3 transaminase elevations) or immediately if Grade 3 or 4 neurotoxicity is observed.
+ALIMTA therapy should be discontinued if a patient experiences any hematologic or nonhematologic Grade 3 or 4 toxicity after 2 dose reductions or immediately if Grade 3 or 4 neurotoxicity is observed.
 
 Renally Impaired Patients
 
@@ -117,7 +116,7 @@ ALIMTA extravasation should be managed with local standard practice for extravas
    Vials contain either 100 mg or 500 mg of ALIMTA.
    The vials contain an excess of ALIMTA to facilitate delivery of label amount.
 3. Reconstitute each 100-mg vial with 4.2 ml of 0.9% Sodium Chloride Injection (preservative free).
-   Reconstitute 500-mg vial with 20 mL of 0.9% Sodium Chloride Injection (preservative free).
+   Reconstitute each 500-mg vial with 20 mL of 0.9% Sodium Chloride Injection (preservative free).
    Reconstitution of either size vial gives a solution containing 25 mg/mL ALIMTA.
    Gently swirl each vial until the powder is completely dissolved.
    The resulting solution is clear and ranges in color from colorless to yellow or green-yellow without adversely affecting product quality.
