@@ -1,11 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076855",
+    "ANDA078273"
+  ],
   "inn": "hydromorphone",
   "labeler": "Mallinckrodt Inc.",
   "package_ndcs": [
+    "0406-3243-01",
+    "0406-3244-01",
     "0406-3249-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydromorphone hydrochloride",
+      "name": "HYDROMORPHONE HYDROCHLORIDE"
+    }
+  ],
   "setid": "4c5c1cc8-c42b-46e3-ad68-8e22f57101f2",
   "source": "dailymed"
 }

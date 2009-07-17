@@ -28,13 +28,3 @@ Misuse or abuse of hydromorphone hydrochloride tablets pose a risk of overdose a
 This risk is increased with concurrent abuse of alcohol and other CNS depressants.
 Parenteral drug abuse can potentially result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
 In addition, parenteral abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
-
-## Safety and Handling Instructions
-
-Hydromorphone hydrochloride tablets pose little risk of direct exposure to health care personnel and should be handled and disposed of prudently in accordance with hospital or institutional policy.
-Significant absorption from dermal exposure is unlikely.
-Patients and their families should be instructed to flush any hydromorphone hydrochloride tablets that are no longer needed.
-
-Access to abuseable drugs such as hydromorphone hydrochloride tablets presents an occupational hazard for addiction in the health care industry.
-Routine procedures for handling controlled substances developed to protect the public may not be adequate to protect health care workers.
-Implementation of more effective accounting procedures and measures to restrict access to drugs of this class (appropriate to the practice setting) may minimize the risk of self-administration by health care providers.
