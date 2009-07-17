@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078981"
+  ],
+  "inn": "dorzolamide",
+  "labeler": "Falcon Pharmaceuticals, LTD",
+  "package_ndcs": [
+    "61314-019-05",
+    "61314-019-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dorzolamide hydrochloride ophthalmic solution",
+      "name": "Dorzolamide Hydrochloride Ophthalmic Solution"
+    }
+  ],
+  "setid": "29157995-fa61-4425-86a5-5bd0e4718cd8",
+  "source": "dailymed"
+}
