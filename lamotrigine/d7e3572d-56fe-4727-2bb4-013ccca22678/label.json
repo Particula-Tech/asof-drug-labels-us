@@ -1,19 +1,62 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020241",
+    "NDA020764",
+    "NDA022251"
+  ],
   "inn": "lamotrigine",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0526-00",
     "0173-0527-00",
-    "0173-0594-01",
     "0173-0594-02",
+    "0173-0594-03",
+    "0173-0633-02",
+    "0173-0633-06",
+    "0173-0633-09",
     "0173-0633-10",
     "0173-0642-55",
     "0173-0643-60",
     "0173-0644-60",
-    "0173-0699-00"
+    "0173-0699-00",
+    "0173-0699-02",
+    "0173-0772-02",
+    "0173-0772-61",
+    "0173-0772-62",
+    "0173-0774-02",
+    "0173-0774-61",
+    "0173-0776-02",
+    "0173-0776-61",
+    "0173-0777-02",
+    "0173-0778-00",
+    "0173-0778-61",
+    "0173-0779-00",
+    "0173-0779-61",
+    "0173-0780-00",
+    "0173-0780-61"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "lamotrigine",
+      "name": "LAMICTAL"
+    },
+    {
+      "form": "TABLET",
+      "generic": "lamotrigine",
+      "name": "LAMICTAL"
+    },
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "lamotrigine",
+      "name": "LAMICTAL"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "lamotrigine",
+      "name": "LAMICTAL"
+    }
+  ],
   "setid": "d7e3572d-56fe-4727-2bb4-013ccca22678",
   "source": "dailymed"
 }

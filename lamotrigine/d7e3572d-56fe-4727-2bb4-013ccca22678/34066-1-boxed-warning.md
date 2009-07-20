@@ -1,17 +1,19 @@
-SERIOUS RASHES REQUIRING HOSPITALIZATION AND DISCONTINUATION OF TREATMENT HAVE BEEN REPORTED IN ASSOCIATION WITH THE USE OF LAMICTAL.
-THE INCIDENCE OF THESE RASHES, WHICH HAVE INCLUDED STEVENS-JOHNSON SYNDROME, IS APPROXIMATELY 0.8% (8 PER 1,000) IN PEDIATRIC PATIENTS (AGE <16 YEARS) RECEIVING LAMICTAL AS ADJUNCTIVE THERAPY FOR EPILEPSY AND 0.3% (3 PER 1,000) IN ADULTS ON ADJUNCTIVE THERAPY FOR EPILEPSY.
-IN CLINICAL TRIALS OF BIPOLAR AND OTHER MOOD DISORDERS, THE RATE OF SERIOUS RASH WAS 0.08% (0.8 PER 1,000) IN ADULT PATIENTS RECEIVING LAMICTAL AS INITIAL MONOTHERAPY AND 0.13% (1.3 PER 1,000) IN ADULT PATIENTS RECEIVING LAMICTAL AS ADJUNCTIVE THERAPY.
-IN A PROSPECTIVELY FOLLOWED COHORT OF 1,983 PEDIATRIC PATIENTS WITH EPILEPSY TAKING ADJUNCTIVE LAMICTAL, THERE WAS 1 RASH-RELATED DEATH.
-IN WORLDWIDE POSTMARKETING EXPERIENCE, RARE CASES OF TOXIC EPIDERMAL NECROLYSIS AND/OR RASH-RELATED DEATH HAVE BEEN REPORTED IN ADULT AND PEDIATRIC PATIENTS, BUT THEIR NUMBERS ARE TOO FEW TO PERMIT A PRECISE ESTIMATE OF THE RATE.
+WARNING: SERIOUS SKIN RASHES
 
-OTHER THAN AGE, THERE ARE AS YET NO FACTORS IDENTIFIED THAT ARE KNOWN TO PREDICT THE RISK OF OCCURRENCE OR THE SEVERITY OF RASH ASSOCIATED WITH LAMICTAL.
-THERE ARE SUGGESTIONS, YET TO BE PROVEN, THAT THE RISK OF RASH MAY ALSO BE INCREASED BY (1) COADMINISTRATION OF LAMICTAL WITH VALPROATE (INCLUDES VALPROIC ACID AND DIVALPROEX SODIUM), (2) EXCEEDING THE RECOMMENDED INITIAL DOSE OF LAMICTAL, OR (3) EXCEEDING THE RECOMMENDED DOSE ESCALATION FOR LAMICTAL.
-HOWEVER, CASES HAVE BEEN REPORTED IN THE ABSENCE OF THESE FACTORS.
+LAMICTAL® can cause serious rashes requiring hospitalization and discontinuation of treatment.
+The incidence of these rashes, which have included Stevens-Johnson syndrome, is approximately 0.8% (8 per 1,000) in pediatric patients (2 to 16 years of age) receiving LAMICTAL as adjunctive therapy for epilepsy and 0.3% (3 per 1,000) in adults on adjunctive therapy for epilepsy.
+In clinical trials of bipolar and other mood disorders, the rate of serious rash was 0.08% (0.8 per 1,000) in adult patients receiving LAMICTAL as initial monotherapy and 0.13% (1.3 per 1,000) in adult patients receiving LAMICTAL as adjunctive therapy.
+In a prospectively followed cohort of 1,983 pediatric patients (2 to 16 years of age) with epilepsy taking adjunctive LAMICTAL, there was 1 rash-related death.
+In worldwide postmarketing experience, rare cases of toxic epidermal necrolysis and/or rash-related death have been reported in adult and pediatric patients, but their numbers are too few to permit a precise estimate of the rate.
 
-NEARLY ALL CASES OF LIFE-THREATENING RASHES ASSOCIATED WITH LAMICTAL HAVE OCCURRED WITHIN 2 TO 8 WEEKS OF TREATMENT INITIATION.
-HOWEVER, ISOLATED CASES HAVE BEEN REPORTED AFTER PROLONGED TREATMENT (E.G., 6 MONTHS).
-ACCORDINGLY, DURATION OF THERAPY CANNOT BE RELIED UPON AS A MEANS TO PREDICT THE POTENTIAL RISK HERALDED BY THE FIRST APPEARANCE OF A RASH.
+Other than age, there are as yet no factors identified that are known to predict the risk of occurrence or the severity of rash caused by LAMICTAL.
+There are suggestions, yet to be proven, that the risk of rash may also be increased by (1) coadministration of LAMICTAL with valproate (includes valproic acid and divalproex sodium), (2) exceeding the recommended initial dose of LAMICTAL, or (3) exceeding the recommended dose escalation for LAMICTAL.
+However, cases have occurred in the absence of these factors.
 
-ALTHOUGH BENIGN RASHES ALSO OCCUR WITH LAMICTAL, IT IS NOT POSSIBLE TO PREDICT RELIABLY WHICH RASHES WILL PROVE TO BE SERIOUS OR LIFE THREATENING.
-ACCORDINGLY, LAMICTAL SHOULD ORDINARILY BE DISCONTINUED AT THE FIRST SIGN OF RASH, UNLESS THE RASH IS CLEARLY NOT DRUG RELATED.
-DISCONTINUATION OF TREATMENT MAY NOT PREVENT A RASH FROM BECOMING LIFE THREATENING OR PERMANENTLY DISABLING OR DISFIGURING.
+Nearly all cases of life-threatening rashes caused by LAMICTAL have occurred within 2 to 8 weeks of treatment initiation.
+However, isolated cases have occurred after prolonged treatment (e.g., 6 months).
+Accordingly, duration of therapy cannot be relied upon as means to predict the potential risk heralded by the first appearance of a rash.
+
+Although benign rashes are also caused by LAMICTAL, it is not possible to predict reliably which rashes will prove to be serious or life-threatening.
+Accordingly, LAMICTAL should ordinarily be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
+Discontinuation of treatment may not prevent a rash from becoming life-threatening or permanently disabling or disfiguring [see Warnings and Precautions (5.1)].

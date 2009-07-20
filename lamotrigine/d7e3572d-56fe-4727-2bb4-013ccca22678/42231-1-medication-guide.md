@@ -1,16 +1,8 @@
-# PATIENT INFORMATION
+# MEDICATION GUIDE
 
-The following wording is contained in a separate leaflet accompanying the product.
+LAMICTAL® (la-MIK-tal) (lamotrigine) Tablets and Chewable Dispersible Tablets
 
-MEDICATION GUIDE
-
-LAMICTAL (la-MIK-tal)
-
-(lamotrigine)
-
-Tablets
-
-Chewable Dispersible Tablets
+LAMICTAL® ODT™ (lamotrigine) Orally Disintegrating Tablets
 
 Read this Medication Guide before you start taking LAMICTAL and each time you get a refill.
 There may be new information.
@@ -29,7 +21,7 @@ Children between 2 to 16 years of age have a higher chance of getting this serio
 
 The risk of getting a rash is higher if you:
 
-- take LAMICTAL while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)).
+- take LAMICTAL while taking valproate (DEPAKENE* (valproic acid) or DEPAKOTE* (divalproex sodium)).
 - take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
 - increase your dose of LAMICTAL faster than prescribed.
 
@@ -98,7 +90,7 @@ When your healthcare provider gives you a prescription for LAMICTAL:
 - Talk to your pharmacist to check that you are given the correct medicine.
 - Each time you fill your prescription, check the tablets you receive against the pictures of the tablets below.
 
-These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets and Chewable Dispersible Tablets.
+These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
 Immediately call your pharmacist if you receive a LAMICTAL tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
 LAMICTAL (lamotrigine) Tablets
@@ -110,6 +102,11 @@ LAMICTAL (lamotrigine) Chewable Dispersible Tablets
 
 | 2 mg, whiteImprinted withLTG 2 | 5 mg, whiteImprinted withGX CL2 | 25 mg, whiteImprinted withGX CL5 |
 | --- | --- | --- |
+
+LAMICTAL ODT (lamotrigine) Orally Disintegrating Tablets
+
+| 25 mg, white to off-white Imprinted with LMT on one side25 on the other | 50 mg, white to off-whiteImprinted withLMT on one side50 on the other | 100 mg,white to off-whiteImprinted withLAMICTAL on one side100 on the other | 200 mg, white to off-whiteImprinted withLAMICTAL on one side200 on the other |
+| --- | --- | --- | --- |
 
 What is LAMICTAL?
 
@@ -167,10 +164,15 @@ How should I take LAMICTAL?
 - You may not feel the full effect of LAMICTAL for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow LAMICTAL tablets whole.
+- If you have trouble swallowing LAMICTAL Tablets, there may be another form of LAMICTAL you can take.
+- LAMICTAL ODT should be placed on the tongue and moved around the mouth.
+  The tablet will rapidly disintegrate, can be swallowed with or without water, and can be taken with or without food.
 - LAMICTAL Chewable Dispersible tablets may be swallowed whole, chewed, or mixed in water or diluted fruit juice.
   If the tablets are chewed, drink a small amount of water or diluted fruit juice to help in swallowing.
   To break up LAMICTAL Chewable Dispersible tablets, add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medicine) in a glass or spoon.
   Wait at least 1 minute or until the tablets are completely broken up, mix the solution together and take the whole amount right away.
+- If you receive LAMICTAL in a blisterpack, examine the blister pack before use.
+  Do not use if blisters are torn, broken, or missing.
 
 What should I avoid while taking LAMICTAL?
 
@@ -231,25 +233,27 @@ Active ingredient: lamotrigine.
 
 Inactive ingredients: blackcurrant flavor, calcium carbonate, low-substituted hydroxypropylcellulose, magnesium aluminum silicate, magnesium stearate, povidone, saccharin sodium, and sodium starch glycolate.
 
+LAMICTAL ODT Orally Disintegrating Tablets
+
+Active ingredient: lamotrigine
+
+Inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, magnesium stearate, mannitol, polyethylene, and sucralose.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-April 2009
-
-LMT:1MG
-
-Manufactured for
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-by DSM Pharmaceuticals, Inc.
+LAMICTAL Tablets and Chewable Dispersible Tablets are manufactured by
 
-Greenville, NC 27834 or
+DSM Pharmaceuticals, Inc., Greenville, NC 27834 or
 
-GlaxoSmithKline
+GlaxoSmithKline, Research Triangle Park, NC 27709
 
-Research Triangle Park, NC 27709
+LAMICTAL Orally Disintegrating Tablets are manufactured by
+
+Eurand, Inc., Vandalia, OH 45377
 
 LAMICTAL is a registered trademark of GlaxoSmithKline.
 
@@ -258,6 +262,6 @@ LAMICTAL is a registered trademark of GlaxoSmithKline.
 ©2009, GlaxoSmithKline.
 All rights reserved.
 
-April 2009
+May 2009
 
-LMT:1PI
+LMT:2MG
