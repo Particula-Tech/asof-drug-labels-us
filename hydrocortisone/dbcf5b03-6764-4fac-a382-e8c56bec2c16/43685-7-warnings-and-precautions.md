@@ -1,0 +1,89 @@
+# WARNINGS
+
+Neomycin can induce permanent sensorineural hearing loss due to cochlear damage, mainly destruction of hair cells in the organ of Corti.
+The risk is greater with prolonged use.
+Therapy should be limited to 10 consecutive days.
+(See PRECAUTIONS-General.)
+Patients being treated with eardrops containing neomycin should be under close clinical observation.
+Cortisporin®-TC Otic Suspension should be used cautiously in any patient with a perforated tympanic membrane.
+
+Neomycin sulfate may cause cutaneous sensitization.
+A precise incidence of hypersensitivity reactions (primarily skin rash) due to topical neomycin is not known.
+Discontinue promptly if sensitivity or irritation occurs.
+
+When using neomycin-containing products to control secondary infection in the chronic dermatoses, such as chronic otitis externa or stasis dermatitis, it should be borne in mind that the skin in these conditions is more liable than is normal skin to become sensitized to many substances, including neomycin.
+The manifestation of sensitization to neomycin is ususally a low-grade reddening with swelling, dry scaling, and itching; it may be manifest simply as a failure to heal.
+Periodic examination for such signs is advisable, and the patient should be told to discontinue the product if they are observed.
+These symptoms regress quickly on withdrawing the medication.
+Neomycin-containing applications should be avoided for the patient thereafter.
+
+# PRECAUTIONS
+
+## General
+
+As with any other antibiotic preparation, prolonged treatment may result in overgrowth of nonsusceptible organisms and fungi.
+If the infection is not improved after one week, cultures should be repeated to verify the identity of the organism and to determine whether therapy should be changed.
+
+Treatment should not be continued for longer than ten days.
+
+Allergic cross-reactions may occur which could prevent the use of any or all of the aminoglycoside antibiotics for the treatment of future infections.
+
+## Information for Patients
+
+Avoid contaminating the dropper with material from the ear, fingers, or other source.
+This caution is necessary if the sterility of the drops is to be preserved.
+
+If sensitization or irritation occurs, discontinue use immediately and contact your physician.
+
+Do not use in the eyes.
+
+If you prefer to warm the medication before using it, do not heat the suspension above body temperature in order to avoid loss of potency.
+
+SHAKE WELL BEFORE USING.
+
+## Laboratory Tests
+
+Systemic effects of excessive levels of hydrocortisone may include a reduction in the number of circulating eosinophils and a decrease in urinary excretion of 17-hydroxycorticosteroids.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term animal carcinogenicity studies have not been performed with colistin or neomycin, or Cortisporin®-TC Otic Suspension.
+An increased incidence of chromosome aberrations in human lymphocytes has been reported following in vitro exposure to colistin or neomycin.
+
+Fertility studies have not been performed with neomycin, but reports from the scientific literature suggest that it may decrease spermatogenesis in rats.
+No adverse effects on fertility were observed in male or female rats given intramuscular doses of colistimethate sodium, the methanesulfonate salt of colistin, up to 20 mg/kg (equivalent to 9.3 mg/kg of colistin base).
+This is approximately 30 times the clinical daily dose based on body surface area, assuming 100% absorption from the ear; however, significant systemic levels of colistin or neomycin would not be anticipated in humans when Cortisporin®-TC Otic Suspension is used as directed.
+
+Long term studies in rodents showed no evidence of carcinogenicity attributable to oral administration of corticosteroids.
+Mutagenicity studies with hydrocortisone were negative.
+Studies have not been performed to evaluate the effect on fertility of topical corticosteroids.
+
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category C
+
+There are no adequate and well controlled studies of Cortisporin®-TC Otic Suspension in pregnant women.
+It is not known whether Cortisporin®-TC Otic Suspension can cause fetal harm when administered to a pregnant woman.
+
+Colistimethate sodium, the methanesulfonate salt of colistin, was not teratogenic in rats or rabbits given intramuscular doses up to 20 mg/kg (equivalent to 9.3 mg/kg of colisitin base, approximately 30 times (rats) or 55 times (rabbits) the clinical daily dose based on body suface area and assuming 100% absorption from the ear).
+Increased resorptions were observed in rabbits at 20 mg/kg, but not 10 mg/kg (equivalent to 4.15 mg/kg of colistin base).
+Decreased pup survival at weaning was observed in rats at 20 mg/kg, a maternally toxic dose of colistin, but not 10 mg/kg.
+Colistin has not been shown to have any adverse effects on the developing embryo or fetus at doses relevant to the amount that will be delivered ototopically at the recommended clinical doses.
+
+Although aminoglycosides can cause congenital deafness in humans if administered during pregnancy, significant systemic levels of neomycin would not be anticipated when Cortisporin®-TC Otic Suspension is used as directed.
+
+Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
+
+Cortisporin®-TC Otic Suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+## Nursing Mothers
+
+Hydrocortisone and colistin sulfate appear in human milk following oral administration of the drugs.
+Since systemic absorption of these drugs may occur when they are used topically, caution should be exercised when Cortisporin®-TC Otic Suspension is used by a nursing woman.
+
+## Pediatric Use
+
+See DOSAGE AND ADMINISTRATION.

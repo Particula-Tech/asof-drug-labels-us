@@ -1,0 +1,19 @@
+# DOSAGE AND ADMINISTRATION
+
+Therapy with this product should be limited to 10 days.
+(See WARNINGS.)
+
+The external auditory canal should be thoroughly cleansed and dried with a sterile cotton applicator.
+
+When using the calibrated dropper:
+
+For adults, 5 drops of the suspension should be instilled into the affected ear 3 or 4 times daily using the provided dropper.
+For pediatric patients, 4 drops (using the provided dropper) are suggested because of the smaller capacity of the ear canal.
+
+The patient should lie with the affected ear upward and then the drops should be instilled.
+This position should be maintained for 5 minutes to facilitate penetration of the drops into the ear canal.
+Repeat, if necessary, for the opposite ear.
+
+If preferred, a cotton wick may be inserted into the canal and then the cotton may be saturated with the suspension.
+This wick should be kept moist by adding further solution every 4 hours.
+The wick should be replaced at least once every 24 hours.

@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050356"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "JHP Pharmaceuticals LLC",
+  "package_ndcs": [
+    "42023-109-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "colistin sulfate, neomycin sulfate, thonzonium bromide, and hydrocortisone acetate",
+      "name": "Cortisporin-TC"
+    }
+  ],
+  "setid": "dbcf5b03-6764-4fac-a382-e8c56bec2c16",
+  "source": "dailymed"
+}
