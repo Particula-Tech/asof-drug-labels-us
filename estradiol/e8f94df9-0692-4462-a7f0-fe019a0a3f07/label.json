@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA009402"
+  ],
+  "inn": "estradiol",
+  "labeler": "JHP Pharmaceuticals LLC",
+  "package_ndcs": [
+    "42023-110-01",
+    "42023-111-01",
+    "42023-112-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "estradiol valerate",
+      "name": "Delestrogen"
+    }
+  ],
+  "setid": "e8f94df9-0692-4462-a7f0-fe019a0a3f07",
+  "source": "dailymed"
+}
