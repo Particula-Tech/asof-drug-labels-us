@@ -18,14 +18,12 @@
 
 Manuf for: Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-By: Laboratories Merck Sharp & Dohme-Chibret
-
-63963 Clermont-Ferrand Cedex 9, France
+By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
 US Patent Nos.: 5,478,820; 5,952,323; 5,652,233
 
-Issued February 2008
+Issued May 2009
 
-9709706
+9709707
 
-123A-02/08 515016Z
+047A-03/09 515045Z

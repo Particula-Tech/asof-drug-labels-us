@@ -191,7 +191,9 @@ The following post-marketing adverse experiences have been reported:
 
 Immune System: anaphylaxis including anaphylactoid reactions
 
-Nervous System & Psychiatric: hallucinations
+Psychiatric Disorders: altered mental status (including aggression, delirium)
+
+Nervous System & Psychiatric: dyskinesia, hallucinations, myoclonus, tremor
 
 ## Adverse Laboratory Changes
 
