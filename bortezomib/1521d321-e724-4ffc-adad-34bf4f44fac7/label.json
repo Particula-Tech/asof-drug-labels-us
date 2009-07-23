@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021602"
+  ],
   "inn": "bortezomib",
   "labeler": "Millennium Pharmaceuticals, Inc.",
   "package_ndcs": [
     "63020-049-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bortezomib",
+      "name": "VELCADE"
+    }
+  ],
   "setid": "1521d321-e724-4ffc-adad-34bf4f44fac7",
   "source": "dailymed"
 }
