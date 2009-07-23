@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA089424"
+  ],
   "inn": "spironolactone",
-  "labeler": "MUTUAL PHARMACEUTICAL COMPANY, INC.",
+  "labeler": "Mutual Pharmaceutical Company, Inc.",
   "package_ndcs": [
     "53489-143-01",
     "53489-143-05",
@@ -21,7 +23,18 @@
     "53489-329-07",
     "53489-329-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "spironolactone",
+      "name": "Spironolactone"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "spironolactone",
+      "name": "Spironolactone"
+    }
+  ],
   "setid": "c23b6b9b-aec3-48a8-a518-76e4097f6479",
   "source": "dailymed"
 }

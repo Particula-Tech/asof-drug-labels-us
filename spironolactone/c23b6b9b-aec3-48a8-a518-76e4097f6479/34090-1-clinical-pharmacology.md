@@ -1,8 +1,8 @@
-# CLINICAL PHARMACOLOGY
+# ACTIONS / CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## Mechanism of action
 
-Spironolactone is a specific pharmacologic antagonist of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule.
+Spironolactone is a specific pharmacologic antagonist of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodiumpotassium exchange site in the distal convoluted renal tubule.
 Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained.
 Spironolactone acts both as a diuretic and as an antihypertensive drug by this mechanism.
 It may be given alone or with other diuretic agents which act more proximally in the renal tubule.
@@ -16,7 +16,6 @@ Spironolactone counteracts secondary aldosteronism induced by the volume depleti
 
 Spironolactone is effective in lowering the systolic and diastolic blood pressure in patients with primary hyperaldosteronism.
 It is also effective in most cases of essential hypertension, despite the fact that aldosterone secretion may be within normal limits in benign essential hypertension.
-
 Through its action in antagonizing the effect of aldosterone, spironolactone inhibits the exchange of sodium for potassium in the distal renal tubule and helps to prevent potassium loss.
 
 Spironolactone has not been demonstrated to elevate serum uric acid, to precipitate gout, or to alter carbohydrate metabolism.
@@ -26,9 +25,9 @@ Spironolactone has not been demonstrated to elevate serum uric acid, to precipit
 Spironolactone is rapidly and extensively metabolized.
 Sulfur-containing products are the predominant metabolites and are thought to be primarily responsible, together with spironolactone, for the therapeutic effects of the drug.
 The following pharmacokinetic data were obtained from 12 healthy volunteers following the administration of 100 mg of spironolactone (as tablets) daily for 15 days.
-On the 15th day, spironolactone was taken immediately after a low-fat breakfast and blood was drawn thereafter.
+On the 15th day, spironolactone was given immediately after a low-fat breakfast and blood was drawn thereafter.
 
-|  | Accumulation Factor: AUC (0-24 hr, day 15)/AUC (0-24 hr, day 1) | Mean Peak Serum Concentration | Mean (SD) Post-Steady State Half-Life |
+|  | Accumulation Factor: AUC (0-24 hr, day 15)/ AUC (0-24 hr, day 1) | Mean Peak Serum Concentration | Mean (SD) Post-Steady State Half-Life |
 | --- | --- | --- | --- |
 | 7-α-(thiomethyl) spirolactone (TMS) | 1.25 | 391 ng/mL at 3.2 hr | 13.8 hr (6.4) (terminal) |
 | 6-β-hydroxy-7-α-(thiomethyl) spirolactone (HTMS) | 1.50 | 125 ng/mL at 5.1 hr | 15.0 hr (4.0) (terminal) |
@@ -42,9 +41,9 @@ Relative to spironolactone, their binding affinities to the aldosterone receptor
 In humans the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were 0.33 and 0.26, respectively, relative to spironolactone.
 However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities.
 
-Both spironolactone and its metabolites are more than 90% bound to plasma proteins.
+Spironolactone and its metabolites are more than 90% bound to plasma proteins.
 The metabolites are excreted primarily in the urine and secondarily in bile.
 
-The effect of food on spironolactone absorption (two 100-mg spironolactone tablets) was assessed in a single dose study of 9 healthy, drug-free volunteers.
+The effect of food on spironolactone absorption (two 100 mg spironolactone tablets) was assessed in a single-dose study of 9 healthy, drug-free volunteers.
 Food increased the bioavailability of unmetabolized spironolactone by almost 100%.
 The clinical importance of this finding is not known.
