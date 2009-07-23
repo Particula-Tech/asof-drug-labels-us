@@ -1,17 +1,17 @@
 # ADVERSE REACTIONS
 
 Adverse reactions have been very common in virtually all series of patients treated with amiodarone HCl for ventricular arrhythmias with relatively large doses of drug (400 mg/day and above), occurring in about three-fourths of all patients and causing discontinuation in 7 to 18%.
-The most serious reactions are pulmonary toxicity, exacerbation of arrhythmia and rare serious liver injury (see “WARNINGS”), but other adverse effects constitute important problems.
+The most serious reactions are pulmonary toxicity, exacerbation of arrhythmia and rare serious liver injury (see "WARNINGS"), but other adverse effects constitute important problems.
 They are often reversible with dose reduction or cessation of amiodarone treatment.
 Most of the adverse effects appear to become more frequent with continued treatment beyond six months, although rates appear to remain relatively constant beyond one year.
 The time and dose relationships of adverse effects are under continued study.
 
-Neurologic problems are extremely common, occurring in 20 to 40% of patients and including malaise and fatigue, tremor and involuntary movements, poor coordination and gait, and peripheral neuropathy; they are rarely a reason to stop therapy and may respond to dose reductions or discontinuation (see “PRECAUTIONS”).
+Neurologic problems are extremely common, occurring in 20 to 40% of patients and including malaise and fatigue, tremor and involuntary movements, poor coordination and gait, and peripheral neuropathy; they are rarely a reason to stop therapy and may respond to dose reductions or discontinuation (see "PRECAUTIONS").
 
 Gastrointestinal complaints, most commonly nausea, vomiting, constipation and anorexia, occur in about 25% of patients but rarely require discontinuation of drug.
 These commonly occur during high-dose administration (i.e., loading dose) and usually respond to dose reduction or divided doses.
 
-Ophthalmic abnormalities including optic neuropathy and/or optic neuritis, in some cases progressing to permanent blindness, papilledema, corneal degeneration, photosensitivity, eye discomfort, scotoma, lens opacities and macular degeneration have been reported (see “WARNINGS”).
+Ophthalmic abnormalities including optic neuropathy and/or optic neuritis, in some cases progressing to permanent blindness, papilledema, corneal degeneration, photosensitivity, eye discomfort, scotoma, lens opacities and macular degeneration have been reported (see "WARNINGS").
 
 Asymptomatic corneal microdeposits are present in virtually all adult patients who have been on drug for more than 6 months.
 Some patients develop eye symptoms of halos, photophobia and dry eyes.

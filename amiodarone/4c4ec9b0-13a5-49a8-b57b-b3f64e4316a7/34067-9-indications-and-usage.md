@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Because of its life-threatening side effects and the substantial management difficulties associated with amiodarone use (see “WARNINGS” below), Pacerone® (Amiodarone HCl) Tablets are indicated only for the treatment of the following documented, life-threatening recurrent ventricular arrhythmias when these have not responded to documented adequate doses of other available antiarrhythmics or when alternative agents could not be tolerated.
+Because of its life-threatening side effects and the substantial management difficulties associated with amiodarone use (see "WARNINGS" below), Pacerone® (Amiodarone HCl) Tablets are indicated only for the treatment of the following documented, life-threatening recurrent ventricular arrhythmias when these have not responded to documented adequate doses of other available antiarrhythmics or when alternative agents could not be tolerated.
 
 1. Recurrent ventricular fibrillation.
 2. Recurrent hemodynamically unstable ventricular tachycardia.

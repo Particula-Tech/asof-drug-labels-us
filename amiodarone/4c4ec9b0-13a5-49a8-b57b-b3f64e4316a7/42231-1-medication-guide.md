@@ -1,4 +1,4 @@
-## Medication Guide Pacerone® (PĀS-ər-ōn) Tablets (Amiodarone HCl)
+# Medication Guide Pacerone® (PĀS-ər-ōn) Tablets (Amiodarone HCl)
 
 Rx only
 
@@ -25,7 +25,7 @@ Call your doctor or get medical help right away if you have any symptoms such as
 Because of these possible side effects, Pacerone®Tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
 
 Pacerone® Tablets can cause other serious side effects.
-See “What are the possible or reasonably likely side effects of Pacerone® Tablets?” for more information.
+See "What are the possible or reasonably likely side effects of Pacerone® Tablets?" for more information.
 
 If you get serious side effects during treatment with Pacerone® Tablets you may need to stop Pacerone® Tablets, have your dose changed, or get medical treatment.
 Talk with your doctor before you stop taking Pacerone® Tablets.
@@ -127,7 +127,7 @@ What should I avoid while taking Pacerone®Tablets?
 What are the possible or reasonably likely side effects of Pacerone®Tablets?
 
 Pacerone®Tablets can cause serious side effects that lead to death including lung damage, liver damage, worse heartbeat problems and thyroid problems.
-See “What is the most important information I should know about Pacerone® Tablets?”
+See "What is the most important information I should know about Pacerone® Tablets?"
 
 Some other serious side effects of Pacerone®Tablets include:
 
@@ -135,7 +135,7 @@ Some other serious side effects of Pacerone®Tablets include:
   You should have regular eye exams before and during treatment with Pacerone® Tablets.
   Call your doctor if you have blurred vision, see halos, or your eyes become sensitive to light.
 - nerve problems.
-  Pacerone® Tablets can cause a feeling of “pins and needles” or numbness in the hands, legs, or feet, muscle weakness, uncontrolled movements, poor coordination, and trouble walking.
+  Pacerone® Tablets can cause a feeling of "pins and needles" or numbness in the hands, legs, or feet, muscle weakness, uncontrolled movements, poor coordination, and trouble walking.
 - thyroid problems.
   Pacerone® Tablets can cause thyroid problems, including low thyroid function or overactive thyroid function.
   Your doctor may arrange regular blood tests to check your thyroid function during treatment with Pacerone® Tablets.

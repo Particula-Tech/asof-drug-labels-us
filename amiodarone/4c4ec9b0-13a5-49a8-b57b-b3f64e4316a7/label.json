@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075135"
+  ],
   "inn": "amiodarone",
-  "labeler": "UPSHER-SMITH LABORATORIES, INC.",
+  "labeler": "Upsher-Smith Laboratories, Inc.",
   "package_ndcs": [
     "0245-0144-01",
     "0245-0144-11",
@@ -13,7 +15,13 @@
     "0245-0147-89",
     "0245-0147-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amiodarone hydrochloride",
+      "name": "Pacerone"
+    }
+  ],
   "setid": "4c4ec9b0-13a5-49a8-b57b-b3f64e4316a7",
   "source": "dailymed"
 }

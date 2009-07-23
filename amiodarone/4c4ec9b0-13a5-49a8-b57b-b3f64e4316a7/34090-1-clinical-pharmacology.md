@@ -14,7 +14,7 @@ The refractory period is prolonged in all cardiac tissues.
 Amiodarone increases the cardiac refractory period without influencing resting membrane potential, except in automatic cells where the slope of the prepotential is reduced, generally reducing automaticity.
 These electrophysiologic effects are reflected in a decreased sinus rate of 15 to 20%, increased PR and QT intervals of about 10%, the development of U-waves and changes in T-wave contour.
 These changes should not require discontinuation of Pacerone® Tablets as they are evidence of its pharmacological action, although amiodarone can cause marked sinus bradycardia or sinus arrest and heart block.
-On rare occasions, QT prolongation has been associated with worsening of arrhythmia (see “WARNINGS”).
+On rare occasions, QT prolongation has been associated with worsening of arrhythmia (see "WARNINGS").
 
 ## Hemodynamics
 
@@ -64,7 +64,7 @@ For the metabolite, the mean plasma-elimination half-life was approximately 61 d
 These data probably reflect an initial elimination of drug from well-perfused tissue (the 2.5- to 10-day half-life phase), followed by a terminal phase representing extremely slow elimination from poorly perfused tissue compartments such as fat.
 
 The considerable intersubject variation in both phases of elimination, as well as uncertainty as to what compartment is critical to drug effect, requires attention to individual responses once arrhythmia control is achieved with loading doses because the correct maintenance dose is determined, in part, by the elimination rates.
-Daily maintenance doses of Pacerone® Tablets should be based on individual patient requirements (see “DOSAGE AND ADMINISTRATION”).
+Daily maintenance doses of Pacerone® Tablets should be based on individual patient requirements (see "DOSAGE AND ADMINISTRATION").
 
 Amiodarone and its metabolite have a limited transplacental transfer of approximately 10 to 50%.
 The parent drug and its metabolite have been detected in breast milk.
