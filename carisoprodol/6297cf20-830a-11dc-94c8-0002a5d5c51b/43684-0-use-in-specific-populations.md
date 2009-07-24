@@ -1,8 +1,8 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1 Pregnancy: Pregnancy Category C.
 
-Pregnancy Category C. There are no data on the use of SOMA during human pregnancy.
+There are no data on the use of SOMA during human pregnancy.
 Animal studies indicate that carisoprodol crosses the placenta and results in adverse effects on fetal growth and postnatal survival.
 The primary metabolite of carisoprodol, meprobamate, is an approved anxiolytic.
 Retrospective, post-marketing studies do not show a consistent association between maternal use of meprobamate and an increased risk for particular congenital malformations.

@@ -14,7 +14,7 @@ In these two studies, 2.7%, 2%, and 5.4%, of patients treated with placebo, 250 
 Table 1 displays adverse reactions reported with frequencies greater than 2% and more frequently than placebo in patients treated with SOMA in the two trials described above.
 
 Table 1.
-Percent of Patients with Adverse Reactions in Controlled Studies
+Patients with Adverse Reactions in Controlled Studies
 
 | Adverse Reaction | Placebo (n=560) n (%) | SOMA 250 mg (n=548) n (%) | SOMA 350 mg (n=279) n (%) |
 | --- | --- | --- | --- |
