@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022204"
+  ],
   "inn": "oxybutynin",
-  "labeler": "Watson Pharmaceuticals, Inc.",
+  "labeler": "Watson Pharma, Inc.",
   "package_ndcs": [
     "52544-084-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "oxybutynin chloride",
+      "name": "GELNIQUE"
+    }
+  ],
   "setid": "acf0324b-2fac-4403-bac8-131b3e1cf5cd",
   "source": "dailymed"
 }
