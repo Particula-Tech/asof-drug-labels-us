@@ -22,7 +22,7 @@ Excess administration of potassium-free solutions may result in significant hypo
 ## General
 
 Avoid bolus administration of dopamine hydrochloride.
-See DOSAGE AND ADMINISTRATION.
+See Dosage and Administration.
 
 ## Avoid Hypovolemia
 
@@ -61,7 +61,7 @@ Less suitable infusion sites should be used only if the patient’s condition re
 The physician should switch to more suitable sites as rapidly as possible.
 The infusion site should be continuously monitored for free flow.
 
-| IMPORTANT – Antidote for Peripheral Ischemia: To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP containing from 5 to 10 mg phentolamine, an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockage with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. |
+| IMPORTANT - Antidote for Peripheral Ischemia To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP containing from 5 to 10 mg phentolamine, an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockage with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. |
 | --- |
 
 ## Weaning
@@ -107,7 +107,7 @@ The concomitant use of vasopressors, vasoconstrictor agents (such as ergonovine)
 Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia.
 It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis and Mutagenesis and Impairment of Fertility
 
 Long term animal studies have not been performed to evaluate the carcinogenic potential of dopamine HCl.
 
@@ -119,9 +119,9 @@ No clear evidence of clastogenic potential was reported in the in vivo mouse or 
 
 ## Pregnancy
 
-### Pregnancy Category C
+### Teratogenic Effects
 
-#### Teratogenic Effects
+#### Pregnancy Category C
 
 Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats.
 In a published study, dopamine HCl administered at 10 mg/kg subcutaneously for 30 days, markedly prolonged metestrus and increased mean pituitary and ovary weights in female rats.
@@ -148,4 +148,10 @@ Newborn infants may be more sensitive to the vasoconstrictive effects of dopamin
 The most consistent effects of dopamine in 57 publications (between the years 1966 through 1997) were increases in systolic and mean arterial pressure.
 Renal function was variably affected, except that in a single publication renal function was preserved in the face of treatment with indomethacin.
 No consistent effect on heart rate was described.
-Because of the variability of clearance, especially in the neonate and newborn, low doses of dopamine and slow deliberate titration should be employed (seeDOSAGE AND ADMINISTRATION).
+Because of the variability of clearance, especially in the neonate and newborn, low doses of dopamine and slow deliberate titration should be employed (see DOSAGE and ADMINISTRATION).
+
+## Geriatric Use
+
+Clinical studies of dopamine injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

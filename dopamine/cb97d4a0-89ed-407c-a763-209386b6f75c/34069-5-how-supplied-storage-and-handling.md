@@ -11,7 +11,7 @@
 Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.
 Protect from freezing.
-It is recommended the product be stored at room temperature (25◦C); brief exposure up to 40◦C does not adversely affect the product.
+It is recommended the product be stored at room temperature (25°C); brief exposure up to 40°C does not adversely affect the product.
 
 Avoid contact with alkalies (including sodium bicarbonate), oxidizing agents or iron salts.
 

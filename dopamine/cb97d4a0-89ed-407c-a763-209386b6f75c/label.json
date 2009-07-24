@@ -1,15 +1,17 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019615"
+  ],
   "inn": "dopamine",
   "labeler": "Baxter Healthcare Corporation",
-  "package_ndcs": [
-    "0338-1005-02",
-    "0338-1005-03",
-    "0338-1007-02",
-    "0338-1007-03",
-    "0338-1009-02"
+  "package_ndcs": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dopamine hydrochloride",
+      "name": "Dopamine Hydrochloride and Dextrose"
+    }
   ],
-  "products": [],
   "setid": "cb97d4a0-89ed-407c-a763-209386b6f75c",
   "source": "dailymed"
 }
