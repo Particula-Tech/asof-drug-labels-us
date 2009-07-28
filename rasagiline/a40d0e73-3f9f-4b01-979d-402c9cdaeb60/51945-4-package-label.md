@@ -1,0 +1,9 @@
+# PRINCIPAL DISPLAY PANEL - 1mg 30 Tablet Bottle
+
+NDC 68546-229-56
+
+AZILECT® (rasagiline tablets) 1 mg 30 Tablets Rx only
+
+TEVA® NEUROSCIENCE
+
+U.S. Patent Nos. 5387612, 5453446, 5457133, 5532415, 5786390, 6126968

@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021641"
+  ],
   "inn": "rasagiline",
   "labeler": "Teva Neuroscience, Inc.",
   "package_ndcs": [
     "68546-142-56",
     "68546-229-56"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rasagiline mesylate",
+      "name": "AZILECT"
+    }
+  ],
   "setid": "a40d0e73-3f9f-4b01-979d-402c9cdaeb60",
   "source": "dailymed"
 }
