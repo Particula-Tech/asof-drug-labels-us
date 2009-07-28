@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021272"
+  ],
   "inn": "treprostinil",
-  "labeler": "United Therapeutics Corp.",
+  "labeler": "United Therapeutics Corporation",
   "package_ndcs": [
     "66302-101-01",
     "66302-102-01",
     "66302-105-01",
     "66302-110-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "treprostinil sodium",
+      "name": "Remodulin"
+    }
+  ],
   "setid": "6c80bb38-e8db-4138-9f0d-dbbf9c673185",
   "source": "dailymed"
 }
