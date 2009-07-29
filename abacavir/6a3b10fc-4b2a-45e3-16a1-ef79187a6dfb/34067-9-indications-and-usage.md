@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-ZIAGEN Tablets and Oral Solution, in combination with other antiretroviral agents, are indicated for the treatment of HIV-1 infection.
+ZIAGEN Tablets and Oral Solution, in combination with other antiretroviral agents, are indicated for the treatment of human immunodeficiency virus (HIV-1) infection.
 
 Additional important information on the use of ZIAGEN for treatment of HIV-1 infection:
 

@@ -5,9 +5,7 @@ See Medication Guide.
 
 ## 17.1 Information About Therapy With ZIAGEN
 
-Hypersensitivity Reaction
-
-Inform patients:
+Hypersensitivity Reaction: Inform patients:
 
 - that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of ZIAGEN, and encourage the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about ZIAGEN.
   (The complete text of the Medication Guide is reprinted at the end of this document.)
@@ -22,19 +20,13 @@ Inform patients:
 - to not restart ZIAGEN or any other abacavir-containing product without medical consultation and that restarting abacavir needs to be undertaken only if medical care can be readily accessed by the patient or others.
 - ZIAGEN should not be coadministered with EPZICOM® or TRIZIVIR®.
 
-Lactic Acidosis/Hepatomegaly
+Lactic Acidosis/Hepatomegaly: Inform patients that some HIV medicines, including ZIAGEN, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly).
 
-Inform patients that some HIV medicines, including ZIAGEN, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly).
+Redistribution/Accumulation of Body Fat: Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time.
 
-Redistribution/Accumulation of Body Fat
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time.
-
-Information About HIV Infection
-
-ZIAGEN is not a cure for HIV infection and patients may continue to experience illnesses associated with HIV infection, including opportunistic infections.
+Information About HIV-1 Infection: ZIAGEN is not a cure for HIV -1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 Patients should remain under the care of a physician when using ZIAGEN.
-Advise patients that the use of ZIAGEN has not been shown to reduce the risk of transmission of HIV to others through sexual contact or blood contamination.
+Advise patients that the use of ZIAGEN has not been shown to reduce the risk of transmission of HIV-1 to others through sexual contact or blood contamination.
 Patients should be informed to take all HIV medications exactly as prescribed.
 
 ## 17.2 FDA Approved Patient Labeling

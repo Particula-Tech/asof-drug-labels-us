@@ -10,17 +10,15 @@ In the rabbit, no developmental toxicity and no increases in fetal malformations
 There are no adequate and well-controlled studies in pregnant women.
 ZIAGEN should be used during pregnancy only if the potential benefits outweigh the risk.
 
-Antiretroviral Pregnancy Registry
-
-To monitor maternal-fetal outcomes of pregnant women exposed to ZIAGEN, an Antiretroviral Pregnancy Registry has been established.
+Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to ZIAGEN, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV infection.
+The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 
 Although it is not known if abacavir is excreted in human milk, abacavir is secreted into the milk of lactating rats.
-Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving ZIAGEN.
+Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving ZIAGEN.
 
 ## 8.4 Pediatric Use
 

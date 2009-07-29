@@ -13,7 +13,8 @@ Be sure to carry your ZIAGEN Warning Card with you at all times.
 What is the most important information I should know about ZIAGEN?
 
 - Serious Allergic Reaction to Abacavir.
-  ZIAGEN contains abacavir (also contained in EPZICOM® and TRIZIVIR®).Patients taking ZIAGEN may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
+  ZIAGEN contains abacavir (also contained in EPZICOM® and TRIZIVIR®).
+  Patients taking ZIAGEN may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
   Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701 than if you do not.
   Your doctor can determine with a blood test if you have this gene variation.
   If you get a symptom from 2 or more of the following groups while taking ZIAGEN, call your doctor right away to determine if you should stop taking this medicine.
@@ -37,7 +38,7 @@ Taking ZIAGEN again can cause a serious allergic or life-threatening reaction, e
 If your doctor tells you that you can take ZIAGEN again, start taking it when you are around medical help or people who can call a doctor if you need one.
 
 - Lactic Acidosis.
-  Some HIV medicines, including ZIAGEN, can cause a rare but serious condition called lactic acidosis with liver enlargement (hepatomegaly).
+  Some human immunodeficiency virus (HIV) medicines, including ZIAGEN, can cause a rare but serious condition called lactic acidosis with liver enlargement (hepatomegaly).
   Nausea and tiredness that don't get better may be symptoms of lactic acidosis.
   In some cases this condition can cause death.
   Women, overweight people, and people who have taken HIV medicines like ZIAGEN for a long time have a higher chance of getting lactic acidosis and liver enlargement.
@@ -77,7 +78,7 @@ Do not take ZIAGEN if you:
 
 Before starting ZIAGEN, tell your doctor about all of your medical conditions, including if you:
 
-- have been tested and know whether or not you have a particular gene variation called HLA B*5701.
+- have been tested and know whether or not you have a particular gene variation called HLA-B*5701.
 - are pregnant or planning to become pregnant.
   We do not know if ZIAGEN will harm your unborn child.
   You and your doctor will need to decide if ZIAGEN is right for you.
@@ -100,6 +101,9 @@ How should I take ZIAGEN?
   Your doctor will tell you the right dose to take.
   The usual doses are 1 tablet twice a day or 2 tablets once a day.
   Do not skip doses.
+- Children aged 3 months and older can also take ZIAGEN.
+  The child's healthcare professional will decide the right dose and formulation based on the child's weight.
+  The dose should not exceed the recommended adult dose.
 - You can take ZIAGEN with or without food.
 - If you miss a dose of ZIAGEN, take the missed dose right away.
   Then, take the next dose at the usual time.
@@ -178,13 +182,11 @@ Oral Solution: Each milliliter (1 mL) of ZIAGEN Oral Solution contains abacavir 
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-GlaxoSmithKline
+GlaxoSmithKline Research Triangle Park, NC 27709
 
-Research Triangle Park, NC 27709
-
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-July 2008
+January 2009
 
-ZGN:1MG
+ZGN:2MG

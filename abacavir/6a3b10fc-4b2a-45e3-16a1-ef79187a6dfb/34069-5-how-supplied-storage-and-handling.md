@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZIAGEN Tablets, containing abacavir sulfate equivalent to 300 mg abacavir are yellow, biconvex, capsule-shaped, film-coated, and imprinted with “GX 623” on one side with no marking on the reverse side.
+ZIAGEN Tablets, containing abacavir sulfate equivalent to 300 mg abacavir are yellow, biconvex, scored, capsule-shaped, film-coated, and imprinted with “GX 623” on both sides.
 They are packaged as follows:
 
 Bottles of 60 tablets (NDC 0173-0661-01).

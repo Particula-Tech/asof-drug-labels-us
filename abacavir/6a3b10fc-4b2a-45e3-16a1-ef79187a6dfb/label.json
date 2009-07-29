@@ -1,13 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020977",
+    "NDA020978"
+  ],
   "inn": "abacavir",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0661-00",
     "0173-0661-01",
     "0173-0664-00"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "abacavir sulfate",
+      "name": "ZIAGEN"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "abacavir sulfate",
+      "name": "ZIAGEN"
+    }
+  ],
   "setid": "6a3b10fc-4b2a-45e3-16a1-ef79187a6dfb",
   "source": "dailymed"
 }
