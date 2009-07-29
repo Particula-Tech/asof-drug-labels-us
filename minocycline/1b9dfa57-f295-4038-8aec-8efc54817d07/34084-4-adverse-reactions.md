@@ -3,11 +3,11 @@
 Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trial may not reflect the rates observed in practice.
 However, adverse reaction information from clinical trials provides a basis for identifying the adverse events that appear to be related to drug use.
 
-Adverse events reported in clinical trials for SOLODYN™ are described below in Table 2.
+Adverse events reported in clinical trials for SOLODYN® are described below in Table 2.
 
 Table 2 – Selected Treatment-Emergent Adverse Events in at least 1% of Clinical Trial Subjects
 
-| Adverse Event | SOLODYN™ (1 mg/kg) N = 674 (%) | PLACEBO N = 364 (%) |
+| Adverse Event | SOLODYN® (1 mg/kg) N = 674 (%) | PLACEBO N = 364 (%) |
 | --- | --- | --- |
 | At least one treatment-emergent event | 379 (56) | 197 (54) |
 | Headache | 152 (23) | 83 (23) |

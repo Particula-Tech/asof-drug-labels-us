@@ -2,14 +2,14 @@
 
 ## Pharmacokinetics
 
-SOLODYN™ tablets are not bioequivalent to minocycline products.
-Based on pharmacokinetic studies in healthy adults, SOLODYN™ tablets produce a delayed Tmax at 3.5–4.0 hours as compared to a non-modified release reference minocycline product (Tmax at 2.25–3 hours).
-At steady-state (Day 6), the mean AUC(0–24) and Cmax were 33.32 µg×hr/mL and 2.63 µg/mL for SOLODYN™ tablets and 46.35 µg×hr/mL and 2.92 µg/mL for Minocin® capsules, respectively.
+SOLODYN® Tablets are not bioequivalent to minocycline products.
+Based on pharmacokinetic studies in healthy adults, SOLODYN® Tablets produce a delayed Tmax at 3.5–4.0 hours as compared to a non-modified release reference minocycline product (Tmax at 2.25–3 hours).
+At steady-state (Day 6), the mean AUC(0–24) and Cmax were 33.32 µg×hr/mL and 2.63 µg/mL for SOLODYN® Tablets and 46.35 µg×hr/mL and 2.92 µg/mL for Minocin® capsules, respectively.
 These parameters are based on dose adjusted to 135 mg per day for both products.
 
-A single-dose, four-way crossover study demonstrated that all strengths of SOLODYN™ tablets (45 mg, 90 mg, 135 mg) exhibited dose-proportional pharmacokinetics.
+A single-dose, four-way crossover study demonstrated that all strengths of SOLODYN® Tablets (45 mg, 90 mg, and 135 mg) exhibited dose-proportional pharmacokinetics.
 
-When SOLODYN™ tablets were administered concomitantly with a meal that included dairy products, the extent and timing of absorption of minocycline did not differ from that of administration under fasting conditions.
+When SOLODYN® Tablets were administered concomitantly with a meal that included dairy products, the extent and timing of absorption of minocycline did not differ from that of administration under fasting conditions.
 
 ## Microbiology
 

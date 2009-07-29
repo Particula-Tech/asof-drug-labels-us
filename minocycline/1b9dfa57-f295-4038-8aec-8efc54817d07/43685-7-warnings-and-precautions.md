@@ -5,7 +5,7 @@
 1) MINOCYCLINE, LIKE OTHER TETRACYCLINE-CLASS ANTIBIOTICS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
 IF ANY TETRACYCLINE IS USED DURING PREGNANCY OR IF THE PATIENT BECOMES PREGNANT WHILE TAKING THESE DRUGS, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS.
 
-SOLODYN™ should not be used during pregnancy nor by individuals of either gender who are attempting to conceive a child (see PRECAUTIONS: Impairment of Fertility & Pregnancy).
+SOLODYN® should not be used during pregnancy nor by individuals of either gender who are attempting to conceive a child (see PRECAUTIONS: Impairment of Fertility & Pregnancy).
 
 2) THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY, AND CHILDHOOD UP TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
 
@@ -71,13 +71,13 @@ If patients need to be outdoors while using minocycline, they should wear loose-
 
 ## General
 
-Safety of SOLODYN™ beyond 12 weeks of use has not been established.
+Safety of SOLODYN® beyond 12 weeks of use has not been established.
 
-As with other antibiotic preparations, use of SOLODYN™ may result in overgrowth of nonsusceptible organisms, including fungi.
+As with other antibiotic preparations, use of SOLODYN® may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, the antibiotic should be discontinued and appropriate therapy instituted.
 
-Bacterial resistance to the tetracyclines may develop in patients using SOLODYN™, therefore the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
-Because of the potential for drug-resistant bacteria to develop during the use of SOLODYN™, it should be used only as indicated.
+Bacterial resistance to the tetracyclines may develop in patients using SOLODYN®, therefore the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
+Because of the potential for drug-resistant bacteria to develop during the use of SOLODYN®, it should be used only as indicated.
 
 ## Autoimmune Syndromes
 
@@ -114,10 +114,10 @@ Skin pigmentation includes diffuse pigmentation as well as over sites of scars o
    Symptoms may be manifested by arthralgia, fever, rash and malaise.
    Patients who experience such symptoms should be cautioned to stop the drug immediately and seek medical help.
 5. Patients should be counseled about discoloration of skin, scars, teeth or gums that can arise from minocycline therapy.
-6. Take SOLODYN™ exactly as directed.
+6. Take SOLODYN® exactly as directed.
    Skipping doses or not completing the full course of therapy may decrease the effectiveness of the current treatment course and increase the likelihood that bacteria will develop resistance and will not be treatable by other antibacterial drugs in the future.
-7. SOLODYN™ should not be used by pregnant women or women attempting to conceive a child (See Pregnancy, Carcinogenesis and Mutagenesis sections).
-8. It is recommended that SOLODYN™ not be used by men who are attempting to father a child (See Impairment of Fertility section).
+7. SOLODYN® should not be used by pregnant women or women attempting to conceive a child (See Pregnancy, Carcinogenesis and Mutagenesis sections).
+8. It is recommended that SOLODYN® not be used by men who are attempting to father a child (See Impairment of Fertility section).
 
 ## Laboratory Tests
 
@@ -139,7 +139,7 @@ The concurrent use of tetracycline and methoxyflurane has been reported to resul
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium or magnesium and iron-containing preparations.
 
 5.
-In a multi-center study to evaluate the effect of SOLODYN™ on low dose oral contraceptives, hormone levels over one menstrual cycle with and without SOLODYN™ 1 mg/kg once-daily were measured.
+In a multi-center study to evaluate the effect of SOLODYN® on low dose oral contraceptives, hormone levels over one menstrual cycle with and without SOLODYN® 1 mg/kg once-daily were measured.
 
 Based on the results of this trial, minocycline-related changes in estradiol, progestinic hormone, FSH and LH plasma levels, of breakthrough bleeding, or of contraceptive failure, can not be ruled out.
 To avoid contraceptive failure, female patients are advised to use a second form of contraceptive during treatment with minocycline.
@@ -162,14 +162,14 @@ Minocycline was not clastogenic in vitro using human peripheral blood lymphocyte
 
 ### Impairment of Fertility
 
-Male and female reproductive performance in rats was unaffected by oral doses of minocycline of up to 300 mg/kg/day (which resulted in up to approximately 40 times the level of systemic exposure to minocycline observed in patients as a result of use of SOLODYN™).
-However, oral administration of 100 or 300 mg/kg/day of minocycline to male rats (resulting in approximately 15 to 40 times the level of systemic exposure to minocycline observed in patients as a result of use of SOLODYN™) adversely affected spermatogenesis.
+Male and female reproductive performance in rats was unaffected by oral doses of minocycline of up to 300 mg/kg/day (which resulted in up to approximately 40 times the level of systemic exposure to minocycline observed in patients as a result of use of SOLODYN®).
+However, oral administration of 100 or 300 mg/kg/day of minocycline to male rats (resulting in approximately 15 to 40 times the level of systemic exposure to minocycline observed in patients as a result of use of SOLODYN®) adversely affected spermatogenesis.
 Effects observed at 300 mg/kg/day included a reduced number of sperm cells per gram of epididymis, an apparent reduction in the percentage of sperm that were motile, and (at 100 and 300 mg/kg/day) increased numbers of morphologically abnormal sperm cells.
 Morphological abnormalities observed in sperm samples included absent heads, misshapen heads, and abnormal flagella.
 
 Limited human studies suggest that minocycline may have a deleterious effect on spermatogenesis.
 
-SOLODYN™ should not be used by individuals of either gender who are attempting to conceive a child.
+SOLODYN® should not be used by individuals of either gender who are attempting to conceive a child.
 
 ## Pregnancy
 
@@ -185,10 +185,10 @@ Minocycline, like other tetracycline-class antibiotics, crosses the placenta and
 Rare spontaneous reports of congenital anomalies including limb reduction have been reported with minocycline use in pregnancy in post-marketing experience.
 Only limited information is available regarding these reports; therefore, no conclusion on causal association can be established.
 
-Minocycline induced skeletal malformations (bent limb bones) in fetuses when administered to pregnant rats and rabbits in doses of 30 mg/kg/day and 100 mg/kg/day, respectively, (resulting in approximately 3 times and 2 times, respectively, the systemic exposure to minocycline observed in patients as a result of use of SOLODYN™).
-Reduced mean fetal body weight was observed in studies in which minocycline was administered to pregnant rats at a dose of 10 mg/kg/day (which resulted in approximately the same level of systemic exposure to minocycline as that observed in patients who use SOLODYN™).
+Minocycline induced skeletal malformations (bent limb bones) in fetuses when administered to pregnant rats and rabbits in doses of 30 mg/kg/day and 100 mg/kg/day, respectively, (resulting in approximately 3 times and 2 times, respectively, the systemic exposure to minocycline observed in patients as a result of use of SOLODYN®).
+Reduced mean fetal body weight was observed in studies in which minocycline was administered to pregnant rats at a dose of 10 mg/kg/day (which resulted in approximately the same level of systemic exposure to minocycline as that observed in patients who use SOLODYN®).
 
-SOLODYN™ should not be used during pregnancy.
+SOLODYN® should not be used during pregnancy.
 If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus and stop treatment immediately.
 
 ## Nursing Mothers
@@ -198,13 +198,13 @@ Because of the potential for serious adverse effects on bone and tooth developme
 
 ## Pediatric Use
 
-SOLODYN™ is indicated to treat only inflammatory lesions of non-nodular moderate to severe acne vulgaris in patients 12 years and older.
+SOLODYN® is indicated to treat only inflammatory lesions of non-nodular moderate to severe acne vulgaris in patients 12 years and older.
 Safety and effectiveness in pediatric patients below the age of 12 has not been established.
 
 Use of tetracycline-class antibiotics below the age of 8 is not recommended due to the potential for tooth discoloration (see WARNINGS).
 
 ## Geriatric Use
 
-Clinical studies of SOLODYN™ did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of SOLODYN® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease or other drug therapy.
