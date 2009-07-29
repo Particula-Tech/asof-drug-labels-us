@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-COMBIVIR Tablets are contraindicated in patients with previously demonstrated clinically significant hypersensitivity to any of the components of the product.
+COMBIVIR Tablets are contraindicated in patients with previously demonstrated clinically significant hypersensitivity (e.g., anaphylaxis, Stevens-Johnson syndrome) to any of the components of the product.

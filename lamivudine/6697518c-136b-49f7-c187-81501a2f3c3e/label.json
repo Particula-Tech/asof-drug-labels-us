@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020857"
+  ],
   "inn": "lamivudine",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0595-00",
     "0173-0595-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine and zidovudine",
+      "name": "Combivir"
+    }
+  ],
   "setid": "6697518c-136b-49f7-c187-81501a2f3c3e",
   "source": "dailymed"
 }

@@ -1,13 +1,25 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Lamivudine Plus Zidovudine Administered As Separate Formulations
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected clinical and laboratory adverse events were observed (see Tables 4 and 5).
+- Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
+- Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
+- Lactic acidosis and hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
+- Acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)].
+- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.6)].
+- Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.6)].
+- Pancreatitis [see Warnings and Precautions (5.7)].
 
-Table 4.
-Selected Clinical Adverse Events (≥5% Frequency) in 4 Controlled Clinical Trials With EPIVIR 300 mg/day and RETROVIR 600 mg/day
+## 6.1 Clinical Trials Experience
 
-| Adverse Event | EPIVIR plus RETROVIR(n = 251) |
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Lamivudine Plus Zidovudine Administered As Separate Formulations: In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (see Tables 1 and 2).
+
+Table 1.
+Selected Clinical Adverse Reactions (≥5% Frequency) in 4 Controlled Clinical Trials With EPIVIR 300 mg/day and RETROVIR 600 mg/day
+
+| Adverse Reaction | EPIVIR plus RETROVIR(n = 251) |
 | --- | --- |
 | Body as a whole |  |
 | Headache | 35% |
@@ -36,9 +48,12 @@ Selected Clinical Adverse Events (≥5% Frequency) in 4 Controlled Clinical Tria
 | Myalgia | 8% |
 | Arthralgia | 5% |
 
-Pancreatitis was observed in 3 of the 656 adult patients (<0.5%) who received EPIVIR in controlled clinical trials.
+Pancreatitis was observed in 9 of the 2,613 adult patients (0.3%) who received EPIVIR in controlled clinical trials [see Warnings and Precautions (5.7)].
 
-Selected laboratory abnormalities observed during therapy are listed in Table 5.
+Selected laboratory abnormalities observed during therapy are listed in Table 2.
+
+Table 2.
+Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg/day plus RETROVIR 600 mg/day*
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR% (n) |
 | --- | --- |
@@ -49,65 +64,37 @@ Selected laboratory abnormalities observed during therapy are listed in Table 5.
 | AST (>5.0 x ULN) | 1.7% (241) |
 | Bilirubin (>2.5 x ULN) | 0.8% (241) |
 | Amylase (>2.0 x ULN) | 4.2% (72) |
+| ULN = Upper limit of normal. |  |
+| ANC = Absolute neutrophil count. |  |
+| n = Number of patients assessed. |  |
+| * Frequencies of these laboratory abnormalities were higher in patients with mild laboratory abnormalities at baseline. |  |
 
-ULN = Upper limit of normal.
+## 6.2 Postmarketing Experience
 
-ANC = Absolute neutrophil count.
-
-n = Number of patients assessed.
-
-* Frequencies of these laboratory abnormalities were higher in patients with mild laboratory abnormalities at baseline.
-
-## Observed During Clinical Practice
-
-In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of EPIVIR, RETROVIR, and/or COMBIVIR.
+In addition to adverse reactions reported from clinical trials, the following reactions have been identified during post-approval use of EPIVIR, RETROVIR, and/or COMBIVIR.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to EPIVIR, RETROVIR, and/or COMBIVIR.
 
-### Body as a Whole
+Body as a Whole: Redistribution/accumulation of body fat [see Warnings and Precautions (5.9)].
 
-Redistribution/accumulation of body fat (see PRECAUTIONS: Fat Redistribution).
+Cardiovascular: Cardiomyopathy.
 
-### Cardiovascular
+Endocrine and Metabolic: Gynecomastia, hyperglycemia.
 
-Cardiomyopathy.
+Gastrointestinal: Oral mucosal pigmentation, stomatitis.
 
-### Endocrine and Metabolic
+General: Vasculitis, weakness.
 
-Gynecomastia, hyperglycemia.
+Hemic and Lymphatic: Anemia, (including pure red cell aplasia and anemias progressing on therapy), lymphadenopathy, splenomegaly.
 
-### Gastrointestinal
+Hepatic and Pancreatic: Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbation of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3), (5.4), (5.7)].
 
-Oral mucosal pigmentation, stomatitis.
+Hypersensitivity: Sensitization reactions (including anaphylaxis), urticaria.
 
-### General
+Musculoskeletal: Muscle weakness, CPK elevation, rhabdomyolysis.
 
-Vasculitis, weakness.
+Nervous: Paresthesia, peripheral neuropathy, seizures.
 
-### Hemic and Lymphatic
+Respiratory: Abnormal breath sounds/wheezing.
 
-Anemia, (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
-
-### Hepatic and Pancreatic
-
-Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbation of hepatitis B (see WARNINGS).
-
-### Hypersensitivity
-
-Sensitization reactions (including anaphylaxis), urticaria.
-
-### Musculoskeletal
-
-Muscle weakness, CPK elevation, rhabdomyolysis.
-
-### Nervous
-
-Paresthesia, peripheral neuropathy, seizures.
-
-### Respiratory
-
-Abnormal breath sounds/wheezing.
-
-### Skin
-
-Alopecia, erythema multiforme, Stevens-Johnson syndrome.
+Skin: Alopecia, erythema multiforme, Stevens-Johnson syndrome.
