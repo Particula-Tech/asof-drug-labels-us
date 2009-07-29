@@ -158,10 +158,12 @@ Infrequent: Hypotension, Peripheral ischemia, Thrombosis.
 
 ## Post-Marketing Experience
 
-The following adverse events have been reported during post-approval use of Chantix.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse events have been reported during post-approval use of CHANTIX Because these events are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-There have been reports of depressed mood, agitation, changes in behavior, suicidal ideation and suicide in patients attempting to quit smoking while taking Chantix.
+There have been reports of depression, mania, psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide in patients attempting to quit smoking while taking CHANTIX (See Boxed Warning, WARNINGS/Neuropsychiatric Symptoms and Suicidality, PRECAUTIONS/Information for Patients).
 Smoking cessation with or without treatment is associated with nicotine withdrawal symptoms and the exacerbation of underlying psychiatric illness.
 Not all patients had known pre-existing psychiatric illness and not all had discontinued smoking.
-The role of Chantix in these reports is not known (see WARNINGS).
+
+There have been reports of hypersensitivity reactions, including angioedema (See WARNINGS and PRECAUTIONS).
+
+There have also been reports of serious skin reactions, including Stevens Johnson Syndrome and Erythema Multiforme in patients taking CHANTIX (See WARNINGS and PRECAUTIONS).

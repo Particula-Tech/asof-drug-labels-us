@@ -1,4 +1,4 @@
-## MEDICATION GUIDE CHANTIX® (varenicline) Tablets
+# MEDICATION GUIDE CHANTIX® (varenicline) Tablets
 
 Read the Medication Guide that comes with CHANTIX before you start taking it and each time you get a refill.
 There may be new information.
@@ -6,11 +6,25 @@ This information does not take the place of talking with your doctor about your 
 
 What is the most important information I should know about CHANTIX?
 
-Some patients have had changes in behavior, agitation, depressed mood, and suicidal thoughts or actions while using CHANTIX to help them quit smoking.
+Some people have had changes in behavior, hostility, agitation, depressed mood, and suicidal thoughts or actions while using CHANTIX to help them quit smoking.
 Some people had these symptoms when they began taking CHANTIX, and others developed them after several weeks of treatment or after stopping CHANTIX.
-If either you, your family or caregiver notice agitation, depressed mood, or changes in behavior that are not typical for you, or if you develop suicidal thoughts or actions, stop taking CHANTIX and call your doctor right away.
+
+If you, your family, or caregiver notice agitation, hostility, depression or changes in behavior or thinking that are not typical for you, or you develop any of the following symptoms, stop taking CHANTIX and call your healthcare provider right away:
+
+- thoughts about suicide or dying, or attempts to commit suicide
+- new or worse depression, anxiety or panic attacks
+- feeling very agitated or restless
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- abnormal thoughts or sensations
+- seeing or hearing things that are not there (hallucinations)
+- feeling people are against you (paranoia)
+- feeling confused
+- other unusual changes in behavior or mood
 
 When you try to quit smoking, with or without CHANTIX, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
+Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
 Sometimes quitting smoking can lead to worsening of mental health problems that you already have, such as depression.
 
 Before taking CHANTIX, tell your doctor if you have ever had depression or other mental health problems.
@@ -18,15 +32,24 @@ You should also tell your doctor about any symptoms you had during other times y
 
 See "What are the possible side effects of CHANTIX?"
 
+Some people can have allergic reactions to CHANTIX.
+Some of these allergic reactions can be life-threatening and include: swelling of the face, mouth, and throat that can cause trouble breathing.
+If you have these symptoms, stop taking CHANTIX and get medical attention right away.
+
+Some people can have serious skin reactions while taking CHANTIX.
+These can include rash, swelling, redness, and peeling of the skin.
+Some of these reactions can become life-threatening.
+If you have a rash with peeling skin or blisters in your mouth, stop taking CHANTIX and see your doctor right away.
+
 What is CHANTIX?
 
 CHANTIX is a prescription medicine to help adults stop smoking.
 
 Quitting smoking can lower your chances of having lung disease, heart disease or getting certain types of cancer that are related to smoking.
 
-CHANTIX is not recommended for children under 18 years of age.
+CHANTIX is not recommended for people under 18 years of age.
 
-CHANTIX has not been studied along with other treatments for stopping smoking.
+CHANTIX has not been studied with other treatments for stopping smoking.
 
 What should I tell my doctor before taking CHANTIX?
 
@@ -55,7 +78,7 @@ Especially, tell your doctor if you take:
 
 When you stop smoking, there may be a change in how these and other medicines work for you.
 
-You should not use CHANTIX while using other treatments to quit smoking.
+You should not use CHANTIX while using other medicines to quit smoking.
 Tell your doctor if you use other treatments to quit smoking.
 
 Know the medicines you take.
@@ -93,7 +116,8 @@ How should I take CHANTIX?
 
 What should I avoid while taking CHANTIX?
 
-Use caution driving or operating machinery until you know how quitting smoking with CHANTIX may affect you.
+Use caution driving or operating machinery until you know how CHANTIX may affect you.
+Some people who use CHANTIX may feel sleepy, dizzy, or have trouble concentrating, that can make it hard to drive or perform other activities safely.
 
 What are the possible side effects of CHANTIX?
 
@@ -141,8 +165,8 @@ Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phos
 
 Rx only
 
-LAB-0328-6.0
+LAB-0328-8.0
 
-May 2008
+July 2009
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

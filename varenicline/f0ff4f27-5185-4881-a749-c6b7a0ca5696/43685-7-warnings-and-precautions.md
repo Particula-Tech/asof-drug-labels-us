@@ -1,14 +1,37 @@
 # WARNINGS
 
-## Neuropsychiatric Symptoms
+## Neuropsychiatric Symptoms and Suicidality
 
-Serious neuropsychiatric symptoms have occurred in patients being treated with CHANTIX.
-Some cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking; however, some of these symptoms have occurred in patients who continued to smoke.
-All patients being treated with CHANTIX should be observed for neuropsychiatric symptoms including changes in behavior, agitation, depressed mood, suicidal ideation and suicidal behavior.
-These symptoms, as well as worsening of pre-existing psychiatric illness, have been reported in some patients attempting to quit smoking while taking CHANTIX in the post-marketing experience.
+Serious neuropsychiatric symptoms have been reported in patients being treated with CHANTIX (See Boxed Warning, PRECAUTIONS/Information for patients, and ADVERSE REACTIONS/Post-Marketing Experience).
+These post-marketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide.
+Some reported cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking.
+Depressed mood may be a symptom of nicotine withdrawal.
+Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
+However, some of these symptoms have occurred in patients taking CHANTIX who continued to smoke.
+When symptoms were reported, most were during CHANTIX treatment, but some were following discontinuation of CHANTIX therapy.
+
+These events have occurred in patients with and without pre-existing psychiatric disease; some patients have experienced worsening of their psychiatric illnesses.
+All patients being treated with CHANTIX should be observed for neuropsychiatric symptoms or worsening of pre-existing psychiatric illness.
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of CHANTIX and the safety and efficacy of CHANTIX in such patients has not been established.
 
-Advise patients and caregivers that the patient should stop taking CHANTIX and contact a health care provider immediately if agitation, depressed mood, or changes in behavior that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+Advise patients and caregivers that the patient should stop taking CHANTIX and contact a health care provider immediately if agitation, depressed mood, changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+In many post-marketing cases, resolution of symptoms after discontinuation of CHANTIX was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
+
+The risks of CHANTIX should be weighed against the benefits of its use.
+CHANTIX has been demonstrated to increase the likelihood of abstinence from smoking for as long as one year compared to treatment with placebo.
+The health benefits of quitting smoking are immediate and substantial.
+
+## Angioedema and Hypersensitivity Reactions
+
+There have been post-marketing reports of hypersensitivity reactions including angioedema in patients treated with CHANTIX (See ADVERSE REACTIONS/Post-Marketing Experience).
+Clinical signs included swelling of the face, mouth (tongue, lips, and gums), extremities, and neck (throat and larynx).
+There were infrequent reports of life-threatening angioedema requiring emergent medical attention due to respiratory compromise.
+Patients should be instructed to discontinue CHANTIX and immediately seek medical care if they experience these symptoms.
+
+## Serious Skin Reactions
+
+There have been post-marketing reports of rare but serious skin reactions, including Stevens-Johnson Syndrome and Erythema Multiforme in patients using CHANTIX (See ADVERSE REACTIONS/Post-Marketing Experience).
+As these skin reactions can be life-threatening, patients should be instructed to stop taking CHANTIX and contact their healthcare provider immediately at the first appearance of a skin rash with mucosal lesions or any other signs of hypersensitivity.
 
 # PRECAUTIONS
 
@@ -22,6 +45,12 @@ Nausea was reported by approximately 30% of patients treated with CHANTIX 1 mg B
 In patients taking CHANTIX 0.5 mg BID, the incidence of nausea was 16% following initial titration.
 Approximately 3% of subjects treated with CHANTIX 1 mg BID in studies involving 12 weeks of treatment discontinued treatment prematurely because of nausea.
 For patients with intolerable nausea, dose reduction should be considered.
+
+### Accidental Injury
+
+There have been post-marketing reports of traffic accidents, near-miss incidents in traffic, or other accidental injuries in patients taking CHANTIX.
+In some cases, the patients reported somnolence, dizziness, loss of consciousness or difficulty concentrating that resulted in impairment, or concern about potential impairment, in driving or operating machinery.
+Patients should be advised to use caution driving or operating machinery or engaging in other potentially hazardous activities until they know how CHANTIX may affect them.
 
 ### Effect of smoking cessation
 
@@ -101,10 +130,14 @@ No dosage adjustment is recommended for elderly patients (see DOSAGE AND ADMINIS
 - Patients should also be provided with educational materials and necessary counseling to support an attempt at quitting smoking.
 - Patients should be informed that nausea and insomnia are side effects of CHANTIX and are usually transient; however, patients should be advised that if they are persistently troubled by these symptoms, they should notify the prescribing physician so that a dose reduction can be considered.
 - Patients should be informed that they may experience vivid, unusual or strange dreams during treatment with CHANTIX.
-- Patients should be informed that quitting smoking, with or without CHANTIX, may be associated with nicotine withdrawal symptoms (depression, agitation) or exacerbation of pre-existing psychiatric illness.
-  Some patients have experienced depressed mood, agitation, changes in behavior, suicidal ideation and suicide when attempting to quit smoking while taking CHANTIX.
-  If patients develop agitation, depressed mood, or changes in behavior that are not typical for them, or if patients develop suicidal ideation or suicidal behavior, they should be urged to discontinue CHANTIX and report symptoms to their health care providers.
+- Patients should be informed that quitting smoking, with or without CHANTIX, may be associated with nicotine withdrawal symptoms (including depression or agitation) or exacerbation of pre-existing psychiatric illness.
+  Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking CHANTIX.
+  If patients develop agitation, hostility, depressed mood, or changes in behavior or thinking that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to discontinue CHANTIX and report these symptoms to their healthcare provider immediately.
 - Patients should be encouraged to reveal any history of psychiatric illness prior to initiating treatment.
 - Patients should be informed that some medications may require dose adjustment after quitting smoking.
 - Patients intending to become pregnant or planning to breast-feed an infant should be advised of the risks of smoking and risks and benefits of smoking cessation with CHANTIX.
 - Patients should be advised to use caution driving or operating machinery until they know how quitting smoking with varenicline may affect them.
+- Patients should be informed that there have been reports of angioedema, with swelling of the face, mouth (lip, gum, tongue) and neck (larynx and pharynx) that can lead to life-threatening respiratory compromise.
+  Patients should be instructed to discontinue CHANTIX and immediately seek medical care if they experience these symptoms.
+- Patients should be informed that serious skin reactions, such as Stevens Johnson Syndrome and Erythema Multiforme, were reported by some patients taking CHANTIX.
+  They should be advised to stop taking CHANTIX at the first sign of rash with mucosal lesions or skin reaction and contact a health care provider immediately.
