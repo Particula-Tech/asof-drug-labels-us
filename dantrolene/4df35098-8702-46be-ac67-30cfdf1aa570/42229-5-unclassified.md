@@ -1,4 +1,4 @@
-RX only.
+Rx only.
 
 Prescribing Information as of November 2008
 

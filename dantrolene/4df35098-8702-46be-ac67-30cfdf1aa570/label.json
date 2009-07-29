@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018264"
+  ],
   "inn": "dantrolene",
-  "labeler": "JHP Pharmaceuticals, LLC",
+  "labeler": "JHP Pharmaceuticals LLC",
   "package_ndcs": [
     "42023-123-06"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dantrolene sodium",
+      "name": "Dantrium"
+    }
+  ],
   "setid": "4df35098-8702-46be-ac67-30cfdf1aa570",
   "source": "dailymed"
 }
