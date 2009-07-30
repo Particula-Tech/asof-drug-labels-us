@@ -1,5 +1,3 @@
-T2006-84
-
 Lotensin HCT®
 
 benazepril hydrochloride and hydrochlorothiazide USP

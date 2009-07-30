@@ -79,7 +79,9 @@ Hematologic: Aplastic anemia, agranulocytosis, leukopenia, and thrombocytopenia.
 
 Metabolic: Hyperglycemia, glycosuria, and hyperuricemia.
 
-Hypersensitivity: Necrotizing angiitis, Stevens-Johnson syndrome, respiratory distress (including pneumonitis and pulmonary edema), purpura, urticaria, rash, and photosensitivity.
+Hypersensitivity: Necrotizing angiitis, respiratory distress (including pneumonitis and pulmonary edema), purpura, urticaria, rash, and photosensitivity.
+
+Skin: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis.
 
 ## Clinical Laboratory Test Findings
 

@@ -179,6 +179,8 @@ Lithium: Increased serum lithium levels and symptoms of lithium toxicity have be
 Because renal clearance of lithium is reduced by thiazides, the risk of lithium toxicity is presumably raised further when, as in therapy with Lotensin HCT, a thiazide diuretic is coadministered with the ACE inhibitor.
 Lotensin HCT and lithium should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.
 
+Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
+
 Other: Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-blocking agents, cimetidine, diuretics, digoxin, hydralazine, and naproxen without evidence of clinically important adverse interactions.
 Other ACE inhibitors have had less than additive effects with beta-adrenergic blockers, presumably because drugs of both classes lower blood pressure by inhibiting parts of the renin-angiotensin system.
 
