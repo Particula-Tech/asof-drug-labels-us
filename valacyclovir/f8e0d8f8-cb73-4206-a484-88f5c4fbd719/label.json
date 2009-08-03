@@ -1,15 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020487"
+  ],
   "inn": "valacyclovir",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
+    "0173-0565-03",
     "0173-0565-04",
     "0173-0565-10",
+    "0173-0933-05",
     "0173-0933-08",
     "0173-0933-10",
     "0173-0933-56"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valacyclovir hydrochloride",
+      "name": "VALTREX"
+    }
+  ],
   "setid": "f8e0d8f8-cb73-4206-a484-88f5c4fbd719",
   "source": "dailymed"
 }

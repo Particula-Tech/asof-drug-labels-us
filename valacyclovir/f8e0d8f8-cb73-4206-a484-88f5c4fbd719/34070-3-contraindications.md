@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-VALTREX is contraindicated in patients with a known hypersensitivity or intolerance to valacyclovir, acyclovir, or any component of the formulation.
+VALTREX is contraindicated in patients who have had a demonstrated clinically significant hypersensitivity reaction (e.g., anaphylaxis) to valacyclovir, acyclovir, or any component of the formulation [see Adverse Reactions (6.3)].
