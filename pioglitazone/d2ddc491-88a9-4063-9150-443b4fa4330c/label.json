@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021073"
+  ],
   "inn": "pioglitazone",
   "labeler": "Takeda Pharmaceuticals America, Inc.",
   "package_ndcs": [
@@ -13,7 +15,13 @@
     "64764-451-25",
     "64764-451-26"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pioglitazone hydrochloride",
+      "name": "Actos"
+    }
+  ],
   "setid": "d2ddc491-88a9-4063-9150-443b4fa4330c",
   "source": "dailymed"
 }
