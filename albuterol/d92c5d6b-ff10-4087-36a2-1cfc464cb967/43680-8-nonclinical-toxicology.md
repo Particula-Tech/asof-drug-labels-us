@@ -14,9 +14,7 @@ Reproduction studies in rats demonstrated no evidence of impaired fertility at o
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Preclinical
-
-Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5.0% of the plasma concentrations.
+Preclinical: Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5.0% of the plasma concentrations.
 In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain.
 
 Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
@@ -28,9 +26,7 @@ These are similar to effects produced by the structurally related CFCs, which ha
 In animals and humans, propellant HFA-134a was found to be rapidly absorbed and rapidly eliminated, with an elimination half-life of 3 to 27 minutes in animals and 5 to 7 minutes in humans.
 Time to maximum plasma concentration (Tmax) and mean residence time are both extremely short, leading to a transient appearance of HFA-134a in the blood with no evidence of accumulation.
 
-Reproductive Toxicology Studies
-
-A study in CD-1 mice given albuterol sulfate subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m2 basis) and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately 8 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
+Reproductive Toxicology Studies: A study in CD-1 mice given albuterol sulfate subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m2 basis) and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately 8 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
 The drug did not induce cleft palate formation at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
 Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with 2.5 mg/kg of isoproterenol (positive control).
 

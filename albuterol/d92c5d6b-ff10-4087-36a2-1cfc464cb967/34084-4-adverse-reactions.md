@@ -28,7 +28,7 @@ Overall Adverse Reactions With ≥3% Incidence in 2 Large 12-Week Clinical Trial
 
 | Adverse Reaction | Percent of Patients |  |  |
 | --- | --- | --- | --- |
-| VENTOLIN HFA(n = 202)% | CFC 11/12-PropelledAlbuterol Inhaler(n = 207)% | Placebo HF-134a(n = 201)% |  |
+| VENTOLIN HFA(n = 202)% | CFC 11/12-PropelledAlbuterol Inhaler(n = 207)% | Placebo HFA-134a(n = 201)% |  |
 | Ear, nose, and throat |  |  |  |
 | Throat irritation | 10 | 6 | 7 |
 | Upper respiratory inflammation | 5 | 5 | 2 |
@@ -37,7 +37,7 @@ Overall Adverse Reactions With ≥3% Incidence in 2 Large 12-Week Clinical Trial
 | Cough | 5 | 2 | 2 |
 | Musculoskeletal |  |  |  |
 | Musculoskeletal pain | 5 | 5 | 4 |
-| * This table includes all adverse reactions (whether considered by the investigator to be drug-related or unrelated to drug) that occurred at an incidence rate of at least 3.0% in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group. |  |  |  |
+| *This table includes all adverse reactions (whether considered by the investigator to be drug-related or unrelated to drug) that occurred at an incidence rate of at least 3.0% in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group. |  |  |  |
 
 Adverse reactions reported by less than 3% of the adolescent and adult patients receiving VENTOLIN HFA and by a greater proportion of patients receiving VENTOLIN HFA than receiving HFA-134a placebo inhaler and that have the potential to be related to VENTOLIN HFA include diarrhea, laryngitis, oropharyngeal edema, cough, lung disorders, tachycardia, and extrasystoles.
 Palpitation and dizziness have also been observed with VENTOLIN HFA.

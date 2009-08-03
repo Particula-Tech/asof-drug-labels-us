@@ -20,5 +20,6 @@ The inhaler should be primed before using it for the first time, when it has not
 After priming, each actuation of the inhaler delivers 120 mcg of albuterol sulfate, USP in 75 mg of suspension from the valve and 108 mcg of albuterol sulfate, USP from the mouthpiece (equivalent to 90 mcg of albuterol base from the mouthpiece).
 
 Each 18-g canister provides 200 inhalations.
+Each 8-g canister provides 60 inhalations.
 
 This product does not contain chlorofluorocarbons (CFCs) as the propellant.

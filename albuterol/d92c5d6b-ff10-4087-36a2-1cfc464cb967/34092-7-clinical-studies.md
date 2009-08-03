@@ -16,9 +16,7 @@ Results from the 2 clinical trials are described below.
 In a 12-week, randomized, double-blind study, VENTOLIN HFA (101 patients) was compared to CFC 11/12-propelled albuterol (99 patients) and an HFA-134a placebo inhaler (97 patients) in adolescent and adult patients 12 to 76 years of age with mild to moderate asthma.
 Serial FEV1 measurements [shown below as percent change from test-day baseline at Day 1 (n = 297) and at Week 12 (n = 249)] demonstrated that 2 inhalations of VENTOLIN HFA produced significantly greater improvement in FEV1 over the pretreatment value than placebo.
 
-Day 1
-
-Week 12
+FEV1 as Percent Change From Predose in a Large, 12-Week Clinical Trial
 
 In the responder population (≥15% increase in FEV1 within 30 minutes postdose) treated with VENTOLIN HFA, the mean time to onset of a 15% increase in FEV1 over the pretreatment value was 5.4 minutes, and the mean time to peak effect was 56 minutes.
 The mean duration of effect as measured by a 15% increase in FEV1 over the pretreatment value was approximately 4 hours.

@@ -1,11 +1,24 @@
 {
-  "application_numbers": [],
-  "inn": "albuterol",
-  "labeler": "GlaxoSmithKline",
-  "package_ndcs": [
-    "0173-0682-20"
+  "application_numbers": [
+    "NDA020983"
   ],
-  "products": [],
+  "inn": "albuterol",
+  "labeler": "SmithKline Beecham Corporation",
+  "package_ndcs": [
+    "0173-0682-20",
+    "0173-0682-21",
+    "0173-0682-22",
+    "0173-0682-23",
+    "0173-0682-24",
+    "0173-0682-81"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate",
+      "name": "VENTOLIN"
+    }
+  ],
   "setid": "d92c5d6b-ff10-4087-36a2-1cfc464cb967",
   "source": "dailymed"
 }
