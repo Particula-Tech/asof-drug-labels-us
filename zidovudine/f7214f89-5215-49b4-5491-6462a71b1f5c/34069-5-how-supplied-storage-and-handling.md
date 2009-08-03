@@ -1,6 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-RETROVIR Tablets 300 mg (biconvex, white, round, film-coated) containing 300 mg zidovudine, one side engraved“GX CW3” and “300” on the other side.
+RETROVIR Tablets 300 mg (biconvex, white, round, film-coated) containing 300 mg zidovudine, one side engraved “GX CW3” and “300” on the other side.
 
 Bottle of 60 (NDC 0173-0501-00).
 
@@ -19,11 +19,3 @@ RETROVIR Syrup (colorless to pale yellow, strawberry-flavored) containing 50 mg 
 Bottle of 240 mL (NDC 0173-0113-18) with child-resistant cap.
 
 Store at 15° to 25°C (59° to 77°F).
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-©2006, GlaxoSmithKline.
-All rights reserved.
-November 2006RL-2325

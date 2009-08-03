@@ -1,50 +1,52 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Adults
+## 2.1 Treatment of HIV-1 Infection
 
-The recommended oral dose of RETROVIR is 600 mg per day in divided doses in combination with other antiretroviral agents.
+Adults: The recommended oral dose of RETROVIR is 600 mg/day in divided doses in combination with other antiretroviral agents.
 
-## Pediatrics
+Pediatric Patients (6 weeks to <18 years of age): Healthcare professionals should pay special attention to accurate calculation of the dose of RETROVIR, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 
-The recommended dose in pediatric patients 6 weeks to 12 years of age is 160 mg/m2 every 8 hours (480 mg/m2/day up to a maximum of 200 mg every 8 hours) in combination with other antiretroviral agents.
+Prescribers should calculate the appropriate dose of RETROVIR for each child based on body weight (kg) and should not exceed the recommended adult dose.
 
-## Maternal-Fetal HIV Transmission
+Before prescribing RETROVIR capsules or tablets, children should be assessed for the ability to swallow capsules or tablets.
+If a child is unable to reliably swallow a RETROVIR capsule or tablet, the RETROVIR syrup formulation should be prescribed.
 
-The recommended dosing regimen for administration to pregnant women (>14 weeks of pregnancy) and their neonates is:
+The recommended dosage in pediatric patients 6 weeks of age and older and weighing ≥4 kg is provided in Table 1.
+RETROVIR Syrup should be used to provide accurate dosage when whole tablets or capsules are not appropriate.
 
-### Maternal Dosing
+Table 1: Recommended Pediatric Dosage of RETROVIR
 
-100 mg orally 5 times per day until the start of labor (see INDICATIONS AND USAGE: Description of Clinical Studies).
+| Body Weight(kg) | Total Daily Dose | Dosage Regimen and Dose |  |
+| --- | --- | --- | --- |
+| b.i.d. | t.i.d. |  |  |
+| 4 to <9 | 24 mg/kg/day | 12 mg/kg | 8 mg/kg |
+| ≥9 to <30 | 18 mg/kg/day | 9 mg/kg | 6 mg/kg |
+| ≥30 | 600 mg/day | 300 mg | 200 mg |
+
+Alternatively, dosing for RETROVIR can be based on body surface area (BSA) for each child.
+The recommended oral dose of RETROVIR is 480 mg/m2/day in divided doses (240 mg/m2 twice daily or 160 mg/m2 three times daily).
+In some cases the dose calculated by mg/kg will not be the same as that calculated by BSA.
+
+## 2.2 Prevention of Maternal-Fetal HIV-1 Transmission
+
+The recommended dosage regimen for administration to pregnant women (>14 weeks of pregnancy) and their neonates is:
+
+Maternal Dosing: 100 mg orally 5 times per day until the start of labor [see Clinical Studies(14.3)].
 During labor and delivery, intravenous RETROVIR should be administered at 2 mg/kg (total body weight) over 1 hour followed by a continuous intravenous infusion of 1 mg/kg/hour (total body weight) until clamping of the umbilical cord.
 
-### Neonatal Dosing
-
-2 mg/kg orally every 6 hours starting within 12 hours after birth and continuing through 6 weeks of age.
+Neonatal Dosing: 2 mg/kg orally every 6 hours starting within 12 hours after birth and continuing through 6 weeks of age.
 Neonates unable to receive oral dosing may be administered RETROVIR intravenously at 1.5 mg/kg, infused over 30 minutes, every 6 hours.
-(See PRECAUTIONS if hepatic disease or renal insufficiency is present.)
 
-## Monitoring of Patients
+## 2.3 Patients With Severe Anemia and/or Neutropenia
 
-Hematologic toxicities appear to be related to pretreatment bone marrow reserve and to dose and duration of therapy.
-In patients with poor bone marrow reserve, particularly in patients with advanced symptomatic HIV disease, frequent monitoring of hematologic indices is recommended to detect serious anemia or neutropenia (see WARNINGS).
-In patients who experience hematologic toxicity, reduction in hemoglobin may occur as early as 2 to 4 weeks, and neutropenia usually occurs after 6 to 8 weeks.
-
-## Dose Adjustment
-
-### Anemia
-
-Significant anemia (hemoglobin of <7.5 g/dL or reduction of >25% of baseline) and/or significant neutropenia (granulocyte count of<750 cells/mm3 or reduction of >50% from baseline) may require a dose interruption until evidence of marrow recovery is observed (see WARNINGS).
+Significant anemia (hemoglobin <7.5 g/dL or reduction >25% of baseline) and/or significant neutropenia (granulocyte count <750 cells/mm3 or reduction >50% from baseline) may require a dose interruption until evidence of marrow recovery is observed [see Warnings and Precautions (5.1)].
 In patients who develop significant anemia, dose interruption does not necessarily eliminate the need for transfusion.
 If marrow recovery occurs following dose interruption, resumption in dose may be appropriate using adjunctive measures such as epoetin alfa at recommended doses, depending on hematologic indices such as serum erythropoetin level and patient tolerance.
 
-For patients experiencing pronounced anemia while receiving chronic coadministration of zidovudine and some of the drugs (e.g., fluconazole, valproic acid) listed in Table 4, zidovudine dose reduction may be considered.
+## 2.4 Patients With Renal Impairment:
 
-### End-Stage Renal Disease
+End-Stage Renal Disease: In patients maintained on hemodialysis or peritoneal dialysis, the recommended dosage is 100 mg every 6 to 8 hours [see Clinical Pharmacology (12.3)].
 
-In patients maintained on hemodialysis or peritoneal dialysis, recommended dosing is 100 mg every 6 to 8 hours (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
-
-### Hepatic Impairment
+## 2.5 Patients With Hepatic Impairment:
 
 There are insufficient data to recommend dose adjustment of RETROVIR in patients with mild to moderate impaired hepatic function or liver cirrhosis.
-Since RETROVIR is primarily eliminated by hepatic metabolism, a reduction in the daily dose may be necessary in these patients.
-Frequent monitoring for hematologic toxicities is advised (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: General).

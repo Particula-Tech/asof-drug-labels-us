@@ -1,14 +1,34 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019655",
+    "NDA019910",
+    "NDA020518"
+  ],
   "inn": "zidovudine",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0108-55",
     "0173-0108-56",
     "0173-0113-18",
     "0173-0501-00"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    },
+    {
+      "form": "SYRUP",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    }
+  ],
   "setid": "f7214f89-5215-49b4-5491-6462a71b1f5c",
   "source": "dailymed"
 }
