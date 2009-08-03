@@ -1,0 +1,5 @@
+# INDICATIONS
+
+HALDOL (haloperidol) is indicated for use in the treatment of schizophrenia.
+
+HALDOL is indicated for the control of tics and vocal utterances of Tourette's Disorder.

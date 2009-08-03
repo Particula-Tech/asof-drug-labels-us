@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA015923"
+  ],
+  "inn": "haloperidol",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-255-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "haloperidol",
+      "name": "Haldol"
+    }
+  ],
+  "setid": "27cfe684-7d11-4f37-9c8b-b2bdd6b5348e",
+  "source": "dailymed"
+}
