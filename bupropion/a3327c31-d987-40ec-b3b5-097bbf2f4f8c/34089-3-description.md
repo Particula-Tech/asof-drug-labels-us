@@ -11,6 +11,6 @@ Bupropion hydrochloride powder is white, crystalline, and highly soluble in wate
 It has a bitter taste and produces the sensation of local anesthesia on the oral mucosa.
 The structural formula is:
 
-ZYBAN is supplied for oral administration as 150-mg (purple), film-coated, sustained-release tablets.
+ZYBAN Tablets are supplied for oral administration as 150-mg (purple), film-coated, sustained-release tablets.
 Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients carnauba wax, cysteine hydrochloride, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80 and titanium dioxide and is printed with edible black ink.
 In addition, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake.

@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020711"
+  ],
   "inn": "bupropion",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0556-01",
     "0173-0556-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bupropion hydrochloride",
+      "name": "ZYBAN"
+    }
+  ],
   "setid": "a3327c31-d987-40ec-b3b5-097bbf2f4f8c",
   "source": "dailymed"
 }

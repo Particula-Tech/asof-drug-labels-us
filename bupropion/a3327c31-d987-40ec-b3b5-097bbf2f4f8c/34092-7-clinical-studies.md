@@ -11,7 +11,7 @@ Results of this dose-response trial with ZYBAN demonstrated a dose-dependent inc
 Treatment with ZYBAN at both 150 and 300 mg/day was significantly more effective than placebo in this study.
 
 Table 1 presents quit rates over time in the multicenter trial by treatment group.
-The quit rates are the proportions of all persons initially enrolled (i.e., intent to treat analysis) who abstained from week 4 of the study through the specified week.
+The quit rates are the proportions of all persons initially enrolled (i.e., intent-to-treat analysis) who abstained from week 4 of the study through the specified week.
 Treatment with ZYBAN (150 or 300 mg/day) was more effective than placebo in helping patients achieve 4-week abstinence.
 In addition, treatment with ZYBAN (7 weeks at 300 mg/day) was more effective than placebo in helping patients maintain continuous abstinence through week 26 (6 months) of the study.
 
@@ -21,11 +21,11 @@ Dose-Response Trial: Quit Rates by Treatment Group
 | Abstinence From Week 4 Through Specified Week | Treatment Groups |  |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo (n = 151)%(95% CI) | ZYBAN 100 mg/day (n = 153)%(95% CI) | ZYBAN 150 mg/day(n = 153)%(95% CI) | ZYBAN 300 mg/day (n = 156)%(95% CI) |  |
-| Week 7 (4-week quit) | 17%(11-23) | 22%(15-28) | 27%*(20-35) | 36%*(28-43) |
-| Week 12 | 14%(8-19) | 20%(13-26) | 20%(14-27) | 25%*(18-32) |
+| Week 7 (4-week quit) | 17%(11-23) | 22%(15-28) | 27%a(20-35) | 36%a(28-43) |
+| Week 12 | 14%(8-19) | 20%(13-26) | 20%(14-27) | 25%a(18-32) |
 | Week 26 | 11%(6-16) | 16%(11-22) | 18%(12-24) | 19%*(13-25) |
 
-*Significantly different from placebo (p≤0.05).
+aSignificantly different from placebo (P≤0.05).
 
 The second study was a comparative trial conducted at 4 clinical centers.
 Four treatments were evaluated: ZYBAN 300 mg/day, nicotine transdermal system (NTS) 21 mg/day, combination of ZYBAN 300 mg/day plus NTS 21 mg/day, and placebo.
@@ -50,7 +50,7 @@ Comparative Trial: Quit Rates by Treatment Group
 When patients in this study were followed out to one year, the superiority of ZYBAN and the combination of ZYBAN and NTS over placebo in helping patients to achieve abstinence from smoking was maintained.
 The continuous abstinence rate was 30% (95% CI 24-35) in the patients treated with ZYBAN, and 33% (95% CI 27-39) for patients treated with the combination at 26 weeks compared with 13% (95% CI 7-18) in the placebo group.
 At 52 weeks, the continuous abstinence rate was 23% (95% CI 18-28) in the patients treated with ZYBAN, and 28% (95% CI 23-34) for patients treated with the combination, compared with 8% (95% CI 3-12) in the placebo group.
-Although the treatment combination of ZYBAN and NTS displayed the highest rates of continuous abstinence throughout the study, the quit rates for the combination were not significantly higher (p>0.05) than for ZYBAN alone.
+Although the treatment combination of ZYBAN and NTS displayed the highest rates of continuous abstinence throughout the study, the quit rates for the combination were not significantly higher (P>0.05) than for ZYBAN alone.
 
 The comparisons between ZYBAN, NTS, and combination treatment in this study have not been replicated, and, therefore should not be interpreted as demonstrating the superiority of any of the active treatment arms over any other.
 
@@ -58,7 +58,7 @@ The third study was a long-term maintenance trial conducted at 5 clinical center
 Patients in this study received open-label ZYBAN 300 mg/day for 7 weeks.
 Patients who quit smoking while receiving ZYBAN (n = 432) were then randomized to ZYBAN 300 mg/day or placebo for a total study duration of 1 year.
 Abstinence from smoking was determined by patient self-report and verified by expired air carbon monoxide levels.
-This trial demonstrated that at 6 months, continuous abstinence rates were significantly higher for patients continuing to receive ZYBAN than for those switched to placebo (p<0.05; 55% versus 44%).
+This trial demonstrated that at 6 months, continuous abstinence rates were significantly higher for patients continuing to receive ZYBAN than for those switched to placebo (P<0.05; 55% versus 44%).
 
 Quit rates in clinical trials are influenced by the population selected.
 Quit rates in an unselected population may be lower than the above rates.
@@ -72,7 +72,7 @@ Depending on the study and the measure used, treatment with ZYBAN showed evidenc
 
 ZYBAN was evaluated in a randomized, double-blind, comparative study of 404 patients with mild-to-moderate COPD, defined as FEV1≥35%, FEV1/FVC≤70% and a diagnosis of chronic bronchitis, emphysema and/or small airways disease.
 Patients aged 36 to 76 years were randomized to ZYBAN 300 mg/day (n = 204) or placebo (n = 200) and treated for 12 weeks.
-Treatment with ZYBAN was initiated at 150 mg/day for 3 days while the patient was still smoking and increased to 150 mg twice daily for the remaining treatmentperiod.
+Treatment with ZYBAN was initiated at 150 mg/day for 3 days while the patient was still smoking and increased to 150 mg twice daily for the remaining treatment period.
 Abstinence from smoking was determined by patient daily diaries and verified by carbon monoxide levels in expired air.
 Quitters are defined as subjects who were abstinent during the last 4 weeks of treatment.
 Table 3 shows quit rates in the COPD Trial.
@@ -83,6 +83,6 @@ COPD Trial: Quit Rates by Treatment Group
 | 4-Week Abstinence Period | Treatment Groups |  |
 | --- | --- | --- |
 | Placebo(n = 200)%(95% CI) | ZYBAN 300 mg/day(n = 204)%(95% CI) |  |
-| Weeks 9 through 12 | 12%(8-16) | 22%*(17-27) |
+| Weeks 9 through 12 | 12%(8-16) | 22%a(17-27) |
 
-*Significantly different from placebo (p<0.05).
+aSignificantly different from placebo (P<0.05).

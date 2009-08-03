@@ -6,7 +6,7 @@ The recommended and maximum dose of ZYBAN is 300 mg/day, given as 150 mg twice d
 Dosing should begin at 150 mg/day given every day for the first 3 days, followed by a dose increase for most patients to the recommended usual dose of 300 mg/day.
 There should be an interval of at least 8 hours between successive doses.
 Doses above 300 mg/day should not be used (see WARNINGS).
-ZYBAN should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
+ZYBAN should be swallowed whole and not crushed, divided, or chewed.
 Treatment with ZYBAN should be initiated while the patient is still smoking, since approximately 1 week of treatment is required to achieve steady-state blood levels of bupropion.
 Patients should set a “target quit date” within the first 2 weeks of treatment with ZYBAN, generally in the second week.
 Treatment with ZYBAN should be continued for 7 to 12 weeks; longer treatment should be guided by the relative benefits and risks for individual patients.
@@ -21,7 +21,7 @@ Patients are more likely to quit smoking and remain abstinent if they are seen f
 It is important to ensure that patients read the instructions provided to them and have their questions answered.
 Physicians should review the patient’s overall smoking cessation program that includes treatment with ZYBAN.
 Patients should be advised of the importance of participating in the behavioral interventions, counseling, and/or support services to be used in conjunction with ZYBAN.
-See information for patients at the end of the package insert.
+See Medication Guide at the end of the prescribing information.
 
 The goal of therapy with ZYBAN is complete abstinence.
 If a patient has not made significant progress towards abstinence by the seventh week of therapy with ZYBAN, it is unlikely that he or she will quit during that attempt, and treatment should probably be discontinued.
@@ -53,7 +53,3 @@ ZYBAN should be used with caution in patients with hepatic impairment (including
 ## Dosage Adjustment for Patients with Impaired Renal Function
 
 ZYBAN should be used with caution in patients with renal impairment and a reduced frequency of dosing should be considered (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
-
-## Dosage Adjustment for Elderly Patients
-
-Greater sensitivity of some elderly individuals to ZYBAN cannot be ruled out, thus a reduced frequency and/or dose may be required (see PRECAUTIONS: Geriatric Use).

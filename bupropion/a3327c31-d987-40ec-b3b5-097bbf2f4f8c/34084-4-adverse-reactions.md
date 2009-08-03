@@ -1,6 +1,4 @@
-# ADVERSE REACTIONS
-
-(See also WARNINGS and PRECAUTIONS.)
+# ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
 
 The information included under ADVERSE REACTIONS is based primarily on data from the dose-response trial and the comparative trial that evaluated ZYBAN for smoking cessation (see CLINICAL TRIALS).
 Information on additional adverse events associated with the sustained-release formulation of bupropion in depression trials, as well as the immediate-release formulation of bupropion, is included in a separate section (see Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion).
@@ -28,7 +26,7 @@ Table 6 enumerates selected treatment-emergent adverse events from the comparati
 Reported adverse events were classified using a COSTART-based dictionary.
 
 Table 5.
-Treatment-Emergent Adverse Event Incidence in the Dose-Response Trial*
+Treatment-Emergent Adverse Event Incidence in the Dose-Response Triala
 
 | Body System/Adverse Experience | ZYBAN 100 to 300 mg/day(n = 461)% | Placebo(n = 150)% |
 | --- | --- | --- |
@@ -48,10 +46,10 @@ Treatment-Emergent Adverse Event Incidence in the Dose-Response Trial*
 | Pruritus Rash Dry skin Urticaria | 3321 | <1<100 |
 | Special senses |  |  |
 | Taste perversion | 2 | <1 |
-| * Selected adverse events with an incidence of at least 1% of patients treated with ZYBAN and more frequent than in the placebo group. |  |  |
+| a Selected adverse events with an incidence of at least 1% of patients treated with ZYBAN and more frequent than in the placebo group. |  |  |
 
 Table 6.
-Treatment-Emergent Adverse Event Incidence in the Comparative Trial*
+Treatment-Emergent Adverse Event Incidence in the Comparative Triala
 
 | Adverse Experience(COSTART Term) | ZYBAN300 mg/day(n = 243)% | Nicotine Transdermal System (NTS)21 mg/day(n = 243)% | ZYBANand NTS(n = 244)% | Placebo(n = 159)% |
 | --- | --- | --- | --- | --- |
@@ -68,20 +66,20 @@ Treatment-Emergent Adverse Event Incidence in the Comparative Trial*
 | Respiratory |  |  |  |  |
 | Rhinitis Increased cough Pharyngitis Sinusitis Dyspnea Epistaxis | 1233212 | 1152201 | 9<13221 | 810110 |
 | Skin |  |  |  |  |
-| Application site reaction† Rash Pruritus Urticaria | 11432 | 17310 | 15352 | 7210 |
+| Application site reactionb Rash Pruritus Urticaria | 11432 | 17310 | 15352 | 7210 |
 | Special Senses |  |  |  |  |
 | Taste perversion Tinnitus | 31 | 10 | 3<1 | 20 |
-| * Selected adverse events with an incidence of at least 1% of patients treated with either ZYBAN, NTS, or the combination of ZYBAN and NTS and more frequent than in the placebo group. |  |  |  |  |
-| † Patients randomized to ZYBAN or placebo received placebo patches. |  |  |  |  |
+| aSelected adverse events with an incidence of at least 1% of patients treated with either ZYBAN, NTS, or the combination of ZYBAN and NTS and more frequent than in the placebo group. |  |  |  |  |
+| b Patients randomized to ZYBAN or placebo received placebo patches. |  |  |  |  |
 
-ZYBAN was well-tolerated in the long-term maintenance trial that evaluated chronic administration of ZYBAN for up to 1 year and in the COPD trial that evaluated patients with mild-to-moderate COPD for a 12-week period.
+ZYBAN was well tolerated in the long-term maintenance trial that evaluated chronic administration of ZYBAN for up to 1 year and in the COPD trial that evaluated patients with mild-to-moderate COPD for a 12-week period.
 Adverse events in both studies were quantitatively and qualitatively similar to those observed in the dose-response and comparative trials.
 
 ## Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion
 
 In addition to the adverse events noted above, the following events have been reported in clinical trials and postmarketing experience with the sustained-release formulation of bupropion in depressed patients and in nondepressed smokers, as well as in clinical trials and postmarketing clinical experience with the immediate-release formulation of bupropion.
 
-Adverse events for which frequencies are provided below occurred in clinical trials with bupropion sustained-release.
+Adverse events for which frequencies are provided below occurred in clinical trials with the sustained-release formulation of bupropion.
 The frequencies represent the proportion of patients who experienced a treatment-emergent adverse event on at least one occasion in placebo-controlled studies for depression (n = 987) or smoking cessation (n = 1,013), or patients who experienced an adverse event requiring discontinuation of treatment in an open-label surveillance study with bupropion sustained-release tablets (n = 3,100).
 All treatment-emergent adverse events are included except those listed in Tables 5 and 6, those events listed in other safety-related sections of the insert, those adverse events subsumed under COSTART terms that are either overly general or excessively specified so as to be uninformative, those events not reasonably associated with the use of the drug, and those events that were not serious and occurred in fewer than 2 patients.
 
@@ -138,7 +136,7 @@ Also observed were arthritis and muscle rigidity/fever/rhabdomyolysis, and muscl
 Frequent were agitation, depression, and irritability.
 Infrequent were abnormal coordination, CNS stimulation, confusion, decreased libido, decreased memory, depersonalization, emotional lability, hostility, hyperkinesia, hypertonia, hypesthesia, paresthesia, suicidal ideation, and vertigo.
 Rare were amnesia, ataxia, derealization, and hypomania.
-Also observed were abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, and unmasking tardive dyskinesia.
+Also observed were abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
 
 ### Respiratory
 

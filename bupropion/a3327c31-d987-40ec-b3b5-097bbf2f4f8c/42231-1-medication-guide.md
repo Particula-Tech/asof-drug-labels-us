@@ -9,15 +9,34 @@ There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about ZYBAN, ask your doctor or pharmacist.
 
-IMPORTANT: Be sure to read both sections of this Medication Guide.
-The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is entitled “What other important information should I know about ZYBAN?”
+IMPORTANT: Be sure to read the three sections of this Medication Guide.
+The first section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; the second section is about the risk of suicidal thoughts and actions with antidepressant medicines; and the third section is entitled “What Other Important Information Should I Know About ZYBAN?”
+
+Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
+
+This section of the Medication Guide is only about the risk of changes in thinking and behavior depression and suicidal thoughts or actions with drugs used to quit smoking.
+
+Some people have had changes in behavior, hostility, agitation, depression, suicidal thoughts or actions while taking ZYBAN to help them quit smoking.
+These symptoms can develop during treatment with ZYBAN or after stopping treatment with ZYBAN.
+
+If you, your family member, or your caregiver notice agitation, hostility, depression, or changes in thinking or behavior that are not typical for you, or you have any of the following symptoms, stop taking ZYBAN and call your healthcare provider right away:
+
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania) abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
+| --- | --- |
+
+When you try to quit smoking, with or without ZYBAN, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
+Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
+Sometimes quitting smoking can lead to worsening of mental health problems that you already have, such as depression.
+
+Before taking ZYBAN, tell your healthcare provider if you have ever had depression or other mental health problems.
+You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without ZYBAN.
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Although ZYBAN is not a treatment for depression, it contains the same active ingredient as the antidepressant medications WELLBUTRIN®, WELLBUTRIN SR®, and WELLBUTRIN XL®.
+Although ZYBAN is not a treatment for depression, it contains bupropion, the same active ingredient as the antidepressant medications WELLBUTRIN®, WELLBUTRIN SR®, and WELLBUTRIN XL®.
 
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your, or your family member’s, healthcare provider about:
+Talk to your doctor, or your family member’s healthcare provider about:
 
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illness
@@ -44,7 +63,7 @@ What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicinesused to treat depression and other illnesses.
+- Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 - Antidepressant medicines have other side effects.
@@ -58,12 +77,11 @@ What else do I need to know about antidepressant medicines?
 
 ZYBAN has not been studied in children under the age of 18 and is not approved for use in children and teenagers.
 
-What other important information should I know about ZYBAN?
+What Other Important Information Should I Know About ZYBAN?
 
-There is a chance of having a seizure (convulsion, fit) with ZYBAN, especially in people:
-
-- with certain medical problems.
-- who take certain medicines.
+- Seizures: There is a chance of having a seizure (convulsion, fit) with ZYBAN, especially in people:
+  - with certain medical problems.
+  - who take certain medicines.
 
 The chance of having seizures increases with higher doses of ZYBAN.
 For more information, see the sections “Who should not take ZYBAN?” and “What should I tell my doctor before using ZYBAN?”
@@ -72,6 +90,12 @@ Do not take any other medicines while you are using ZYBAN unless your doctor has
 
 If you have a seizure while taking ZYBAN, stop taking the tablets and call your doctor right away.
 Do not take ZYBAN again if you have a seizure.
+
+- High blood pressure (hypertension): Some people get high blood pressure that can be severe, while taking ZYBAN.
+  The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see “Can ZYBAN be used at the same time as nicotine patches?”).
+- Severe allergic reactions: Some people have severe allergic reactions to ZYBAN.
+  Stop taking ZYBAN and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in your mouth or around your eyes, swelling of your lips or tongue, chest pain, or have trouble breathing.
+  These could be signs of a serious allergic reaction.
 
 What is ZYBAN?
 
@@ -94,40 +118,36 @@ Do not take ZYBAN if you:
 - are allergic to the active ingredient in ZYBAN, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in ZYBAN.
 
-Can I take ZYBAN if I have mild-to-moderate chronic bronchitis and/or emphysema (also called chronic obstructive pulmonary disease or COPD)?
-
-Yes, ZYBAN combined with a behavior modification program has been shown to help people with COPD quit smoking.
-It is important to participate in the behavior program, counseling, or other support program your healthcare professional recommends.
-
 What should I tell my doctor before using ZYBAN?
 
-- Tell your doctor about your medical conditions.
-  Tell your doctor if you:
-  - are pregnant or plan to become pregnant.
-    It is not known if ZYBAN can harm your unborn baby.
-    If you can use ZYBAN while you are pregnant, talk to your doctor about how you can be on the Bupropion Pregnancy Registry.
-  - are breastfeeding.
-    ZYBAN passes through your milk.
-    It is not known if ZYBAN can harm your baby.
-  - have liver problems, especially cirrhosis of the liver.
-  - have kidney problems.
-  - have an eating disorder such as anorexia nervosa or bulimia.
-  - have had a head injury.
-  - have had a seizure (convulsion, fit).
-  - have a tumor in your nervous system (brain or spine).
-  - have had a heart attack, heart problems, or high blood pressure.
-  - are a diabetic taking insulin or other medicines to control your blood sugar.
-  - drink a lot of alcohol.
-  - abuse prescription medicines or street drugs.
+Tell your doctor if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
+You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without ZYBAN.
+See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
+
+- Tell your doctor about your other medical conditions, including if you
+  - 
+    - are pregnant or plan to become pregnant.
+      It is not known if ZYBAN can harm your unborn baby.
+    - are breastfeeding.
+      ZYBAN passes through your milk.
+      It is not known if ZYBAN can harm your baby.
+    - have liver problems, especially cirrhosis of the liver.
+    - have kidney problems.
+    - have an eating disorder such as anorexia nervosa or bulimia.
+    - have had a head injury.
+    - have had a seizure (convulsion, fit).
+    - have a tumor in your nervous system (brain or spine).
+    - have had a heart attack, heart problems, or high blood pressure.
+    - are a diabetic taking insulin or other medicines to control your blood sugar.
+    - drink a lot of alcohol.
+    - abuse prescription medicines or street drugs.
 - Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
   Many medicines increase your chances of getting seizures or other serious side effects if you take them while you are using ZYBAN.
 
 How should I take ZYBAN?
 
 - Take ZYBAN exactly as prescribed by your doctor.
-- Do not chew, cut, or crush ZYBAN tablets.
-  If you do, the medicine will be released into your body too quickly.
-  If this happens you may be more likely to get side effects including seizures.
+- Do not chew, cut, or crush ZYBAN Tablets.
   You must swallow the tablets whole.
   Tell your doctor if you cannot swallow medicine tablets.
 - Take ZYBAN at the same time each day.
@@ -148,22 +168,22 @@ Follow your doctor’s instructions.
 
 When should I stop smoking?
 
-It takes about 1 week for ZYBAN to reach the right levels in your body to be effective.
-So, to maximize your chance of quitting, you should not stop smoking until you have been taking ZYBAN for 1 week.
-You should set a date to stop smoking during the second week you’re taking ZYBAN.
+It takes about 1 week for ZYBAN to start working.
+For your best chance of quitting, you should not stop smoking until you have been taking ZYBAN for 1 week.
+You should set a date to stop smoking during the second week you're taking ZYBAN.
 
 Can I smoke while taking ZYBAN?
 
 It is not physically dangerous to smoke and use ZYBAN at the same time.
-However, continuing to smoke after the date you set to stop smoking will seriously reduce your chance of breaking your smoking habit.
+But you will seriously lower your chance of breaking your smoking habit if you smoke after the date you set to stop smoking.
 
 Can ZYBAN be used at the same time as nicotine patches?
 
 Yes, ZYBAN and nicotine patches can be used at the same time but should only be used together under the supervision of your doctor.
 Using ZYBAN and nicotine patches together may raise your blood pressure, sometimes severely.
-Tell your doctor if you are planning to use nicotine replacement therapy because your doctor will probably want to check your blood pressure regularly to make sure that it stays within acceptable levels.
+Tell your doctor if you are planning to use nicotine replacement therapy because your doctor should check your blood pressure regularly.
 
-DO NOT SMOKE AT ANY TIME if you are using a nicotine patch or any other nicotine product along with ZYBAN.
+Do not smoke at any time if you are using a nicotine patch or any other nicotine product along with ZYBAN.
 It is possible to get too much nicotine and have serious side effects.
 
 What should I avoid while taking ZYBAN?
@@ -172,26 +192,16 @@ What should I avoid while taking ZYBAN?
   If you usually drink a lot of alcohol, talk with your doctor before suddenly stopping.
   If you suddenly stop drinking alcohol, you may increase your chance of having seizures.
 - Do not drive a car or use heavy machinery until you know how ZYBAN affects you.
-  ZYBAN can impair your ability to perform these tasks.
+  ZYBAN can affect your ability to do these things safely.
 
 What are possible side effects of ZYBAN?
 
-- Seizures.
-  Some patients get seizures while taking ZYBAN.
-  If you have a seizure while taking ZYBAN, stop taking the tablets and call your doctor right away.
-  Do not take ZYBAN again if you have a seizure.
-- Hypertension (high blood pressure).
-  Some patients get high blood pressure, sometimes severe, while taking ZYBAN.
-  The chance of high blood pressure may be increased if you also use nicotine replacement therapy (for example, a nicotine patch) to help you stop smoking (see “Can ZYBAN be used at the same time as nicotine patches?”).
-- Severe allergic reactions: Stop taking ZYBAN and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
-  These could be signs of a serious allergic reaction.
-- Unusual thoughts or behaviors.
-  Some patients have unusual thoughts or behaviors while taking ZYBAN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
-  If this happens to you, call your doctor.
+ZYBAN can cause serious side effects.
+Read this entire Medication Guide for more information about these serious side effects.
 
-The most common side effects of ZYBAN are dry mouth and difficulty sleeping.
+The most common side effects of ZYBAN are dry mouth and trouble sleeping.
 These side effects are generally mild and often disappear after a few weeks.
-If you have difficulty sleeping, do not take your medicine too close to bedtime.
+If you have trouble sleeping, do not take ZYBAN too close to bedtime.
 
 These are not all the side effects of ZYBAN.
 For a complete list, ask your doctor or pharmacist.
@@ -226,17 +236,17 @@ Inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnes
 The tablets are printed with edible black ink.
 In addition, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake.
 
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and PARNATE are registered trademarks of GlaxoSmithKline.
+
+*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
+
 Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-August 2008
+July 2009
 
 ZYB:5MG
-
-WELLBUTRIN XL®, WELLBUTRIN SR®, WELLBUTRIN®, ZYBAN®, and PARNATE® are registered trademarks of GlaxoSmithKline.
-
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.; KALETRA®/Abbott Laboratories.
 
 Distributed by:
 
@@ -254,9 +264,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-August 2008
+July 2009
 
-ZYB:3PI
+ZYB:4PI
