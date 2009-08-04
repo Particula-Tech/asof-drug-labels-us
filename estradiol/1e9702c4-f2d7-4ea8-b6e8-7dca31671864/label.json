@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020375"
+  ],
   "inn": "estradiol",
-  "labeler": "Bayer",
+  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
   "package_ndcs": [
     "50419-451-04",
     "50419-452-04",
@@ -10,7 +12,13 @@
     "50419-456-04",
     "50419-459-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "estradiol",
+      "name": "Climara"
+    }
+  ],
   "setid": "1e9702c4-f2d7-4ea8-b6e8-7dca31671864",
   "source": "dailymed"
 }

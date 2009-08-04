@@ -1,6 +1,6 @@
-# Adverse Reactions
+# ADVERSE REACTIONS
 
-See Boxed Warnings, Warnings and PRECAUTIONS.
+See Boxed Warnings, WARNINGS and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
@@ -17,6 +17,9 @@ Summary of Most Frequently Reported Adverse Experiences/Medical Events (≥5%) b
 | ReproductiveBreast PainLeukorrhea | 12%5%1% | 18%8%6% | 41%29%7% | 11%4%1% |
 | RespiratoryURTIPharyngitisSinusitisRhinitis | 15%6%0.5%4%2% | 26%17%3%4%4% | 29%17%7%5%6% | 14%8%3%3%1% |
 | Skin and AppendagesPruritus | 19%0.5% | 12%6% | 12%3% | 15%6% |
+
+Postmarketing Experience: The following adverse reactions have been identified during post approval use of Climara: a few cases in which there were a combination of the symptoms of generalized hives or rash with swelling of the throat or eyelid edema.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
 
@@ -51,5 +54,3 @@ Headache; migraine; dizziness; mental depression; chorea; nervousness; mood dist
 ## 8. Miscellaneous
 
 Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; anaphylactoid/anaphylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
-
-In women with hereditary angioderma, exogenoous estrogens may induce or exacerbate symptoms of angioderma.

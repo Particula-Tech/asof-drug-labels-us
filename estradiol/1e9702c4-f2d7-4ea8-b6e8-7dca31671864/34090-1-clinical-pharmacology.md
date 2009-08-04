@@ -163,7 +163,7 @@ A second active-control trial of 193 randomized subjects was supportive of the p
 
 ### Effects on bone mineral density
 
-A two-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (i.e., lumbar spine bone mineral density> 0.9 gm/cm2) women at 10 study centers in the United States.
+A two-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (i.e., lumbar spine bone mineral density>0.9 gm/cm2) women at 10 study centers in the United States.
 129 subjects were allocated to receive active treatment with 4 different doses of estradiol patches (6.5, 12.5, 15, 25 cm2) and 46 subjects were allocated to receive placebo patches.
 77% of the randomized subjects (100 on active drug and 34 on placebo) contributed data to the analysis of percent change of A-P spine bone mineral density (BMD), the primary efficacy variable (see Figure 3).
 A statistically significant overall treatment effect at each timepoint was noted, implying bone preservation for all active treatment groups at all timepoints, as opposed to bone loss for placebo at all timepoints.
@@ -183,9 +183,9 @@ The study did not evaluate the effects of CE or CE/MPA on menopausal symptoms.
 The CE/MPA substudy was stopped early because, according to the predefined stopping rule, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the "global index."
 Results of the CE/MPA substudy, which included 16,608 women (average age of 63 years, range 50 to 79; 83.9% White, 6.5% Black, 5.5% Hispanic), after an average follow-up of 5.2 years are presented in Table 3 below:
 
-Table 3 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHI adapted from JAMA, 2002; 288:321-333
+Table 3 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHIadapted from JAMA, 2002; 288:321-333
 
-| Eventc | Relative Risk CE/MPA vs placebo at 5.2 Years(95% CI** nominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPAn = 8506 |
+| Eventc | Relative Risk CE/MPA vs placebo at 5.2 Years(95% CI nominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPAn = 8506 |
 | --- | --- | --- | --- |
 | Absolute Risk per 10,000 Person-years |  |  |  |
 | CHD events | 1.29 (1.02-1.63) | 30 | 37 |
@@ -206,14 +206,14 @@ Table 3 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHI adapted fr
 For those outcomes included in the "global index," the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
-(See Boxed Warnings, Warnings, and PRECAUTIONS.).
+(See Boxed Warnings, WARNINGS, and PRECAUTIONS.).
 
 ### Women's Health Initiative Memory Study
 
 The Women's Health Initiative Memory Study (WHIMS), a substudy of WHI, enrolled 4,532 predominantly postmenopausal women 65 years of age and older (47% were age 65 to 69 years, 35% were 70 to 74 years, and 18% were 75 years of age and older) to evaluate the effects of CE/MPA (0.625 mg conjugated estrogens plus 2.5 mg medroxyprogesterone acetate) on the incidence of probable dementia (primary outcome) compared with placebo.
 
-After an average follow-up of 4 years, 40 women in the estrogen/progestin group (45 per 10, 000 women-years) and 21 in the placebo group (22 per 10,000 women-years) were diagnosed with probable dementia.
+After an average follow-up of 4 years, 40 women in the estrogen/progestin group (45 per 10,000 women-years) and 21 in the placebo group (22 per 10,000 women-years) were diagnosed with probable dementia.
 The relative risk of probable dementia in the hormone therapy group was 2.05 (95% CI, 1.21 to 3.48) compared to placebo.
 Differences between groups became apparent in the first year of treatment.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See Boxed Warnings and Warnings, Dementia and PRECAUTIONS, Geriatric use.)
+(See Boxed Warnings and WARNINGS, Dementia and PRECAUTIONS, Geriatric use.)

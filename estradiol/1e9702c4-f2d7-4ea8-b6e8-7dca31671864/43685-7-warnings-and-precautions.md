@@ -2,14 +2,14 @@
 
 See Boxed Warnings.
 
-## Cardiovascular disorders
+## 1. Cardiovascular disorders
 
 Estrogen and estrogen/progestin therapy has been associated with an increased risk of cardiovascular events such as myocardial infarction and stroke, as well as venous thrombosis and pulmonary embolism (venous thromboembolism or VTE).
 Should any of these occur or be suspected, estrogens should be discontinued immediately.
 
 Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
 
-### Coronary heart disease and stroke
+### a. Coronary heart disease and stroke
 
 In the Women's Health Initiative (WHI) study, an increased risk of stroke was observed in women receiving oral CE compared to placebo.
 
@@ -27,20 +27,20 @@ Two thousand three hundred and twenty one women from the original HERS trial agr
 Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
 Rates of CHD events were comparable among women in the CE/MPA group and the placebo group in HERS, HERS II, and overall.
 
-### Venous thromboembolism (VTE)
+### b. Venous thromboembolism (VTE)
 
 In the Women's Health Initiative (WHI) study, an increased risk of deep vein thrombosis was observed in women receiving CE compared to placebo.
 
 In the CE/MPA substudy of WHI, a 2-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
 The rate of VTE was 34 per 10,000 women-years in the CE/MPA group compared to 16 per 10,000 women-years in the placebo group.
 The increase in VTE risk was observed during the first year and persisted.
-(See Clinical Pharmacology, Clinical Studies.)
+(See CLINICAL PHARMACOLOGY, Clinical Studies.)
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
-## Malignant neoplasms
+## 2. Malignant neoplasms
 
-### Endometrial cancer
+### a. Endometrial cancer
 
 The use of unopposed estrogens in women with intact uteri has been associated with an increased risk of endometrial cancer.
 The reported endometrial cancer risk among unopposed estrogen users is about 2- to 12-fold greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
@@ -52,7 +52,7 @@ Adequate diagnostic measures, including endometrial sampling when indicated, sho
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-### Breast cancer
+### b. Breast cancer
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
 The most important randomized clinical trial providing information about this issue is the Women's Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
@@ -76,25 +76,25 @@ The use of estrogen plus progestin has been reported to result in an increase in
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
-## Dementia
+## 3. Dementia
 
 In the Women's Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied, of whom 35% were 70 to 74 years of age and 18% were 75 or older.
 After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n=2,229) and 21 women in the placebo group (0.9%, n=2,303) received diagnoses of probable dementia.
 The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 - 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See Clinical Pharmacology, Clinical Studies and PRECAUTIONS, Geriatric use.)
+(See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric use.)
 
-## Gallbladder disease
+## 4. Gallbladder disease
 
 A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
-## Hypercalcemia
+## 5. Hypercalcemia
 
 Estrogen administration may lead to severe hypercalcemia in patients with breast cancer and bone metastases.
 If hypercalcemia occurs, use of the drug should be stopped and appropriate measures taken to reduce the serum calcium level.
 
-## Visual abnormalities
+## 6. Visual abnormalities
 
 Retinal vascular thrombosis has been reported in patients receiving estrogens.
 Discontinue medication pending examination if there is sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia, or migraine.
@@ -102,7 +102,7 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 
 # PRECAUTIONS
 
-## General
+## A. General
 
 ### 1. Addition of a progestin when a woman has not had a hysterectomy.
 
@@ -162,15 +162,15 @@ Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migr
 
 In women with hereditary angioderma, exogenoous estrogens may induce or exacerbate symptoms of angioderma.
 
-## PATIENT INFORMATION
+## B. PATIENT INFORMATION
 
 Physicians are advised to discuss the PATIENT INFORMATION leaflet with patients for whom they prescribe Climara.
 
-## LABORATORY TESTS
+## C. LABORATORY TESTS
 
 Estrogen administration should be initiated at the lowest dose approved for the indication and then guided by clinical response rather than by serum hormone levels (e.g. estradiol, FSH).
 
-## DRUG/LABORATORY TEST INTERACTIONS
+## D. DRUG/LABORATORY TEST INTERACTIONS
 
 1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 2. Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
@@ -184,25 +184,25 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 5. Impaired glucose tolerance.
 6. Reduced response to metyrapone test.
 
-## CARCINOGENESES, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
+## E. CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
 
 Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See Boxed Warnings, Warnings and PRECAUTIONS.)
+(See Boxed Warnings, WARNINGS and PRECAUTIONS.)
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
-## Pregnancy
+## F. PREGNANCY
 
 Climara should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
 
-## Nursing mothers
+## G. NURSING MOTHERS
 
 Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
 Detectable amounts of estrogens have been identified in the milk of mothers receiving this drug.
 Caution should be exercised when Climara is administered to a nursing woman.
 
-## Pediatric use
+## H. PEDIATRIC USE
 
 Estrogen replacement therapy has been used for the induction of puberty in adolescents with some forms of pubertal delay.
 Safety and effectiveness in pediatric patients have not otherwise been established.
@@ -212,7 +212,7 @@ Estrogen treatment of prepubertal girls also induces premature breast developmen
 In boys, estrogen treatment may modify the normal pubertal process and induce gynecomastia.
 (See INDICATIONS AND USAGE and Dosage and Administration.)
 
-## Geriatric use
+## I. GERIATRIC USE
 
 There have not been sufficient numbers of geriatric patients involved in clinical studies utilizing Climara to determine whether those over 65 years of age differ from younger subjects in their response to Climara.
 
@@ -221,4 +221,4 @@ Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer's disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
 Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70.
-(See Boxed Warnings and Warnings, Dementia.)
+(See Boxed Warnings and WARNINGS, Dementia.)

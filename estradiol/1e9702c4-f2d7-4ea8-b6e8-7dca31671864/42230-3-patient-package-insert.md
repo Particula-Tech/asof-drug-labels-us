@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION Updated June 2005
 
 Climara®
 
@@ -51,10 +51,10 @@ Do not start using Climara if you:
 
 - currently have or have had blood clots.
 
-- currently have or have had liver problems
+- currently have or have had liver problems.
 
 - are allergic to Climara or any of its ingredients.
-  See the end of this leaflet for a list of ingredients in Climara
+  See the end of this leaflet for a list of ingredients in Climara.
 
 - think you may be pregnant
 
@@ -137,13 +137,11 @@ your healthcare provider or pharmacist.
 
 What can I do to lower my chances of a serious side effect with Climara?
 
-Talk with your healthcare provider regularly about whether you should continue using Climara
+Talk with your healthcare provider regularly about whether you should continue using Climara:
 
 - If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
 
-- See your healthcare provider right away if you get vaginal bleeding while using
-
-Climara.
+- See your healthcare provider right away if you get vaginal bleeding while using Climara.
 
 - Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
   If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
@@ -217,14 +215,10 @@ Do not apply two patches at the same time.
 Estrogens should be used only as long as needed.
 You and your health care provider should talk regularly (for example, every 3 to 6 months) about whether you still need treatment with Climara.
 
-© 2007, Bayer HealthCare Pharmaceuticals Inc.
+© 2007, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
 
-Manufactured for:
+Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 
-:
+Manufactured by: 3M Drug Delivery Systems Northridge, CA 93124
 
-Manufactured by
-
-3M Drug Delivery Systems
-
-Northridge, CA 91324
+6705601 3M 679001 December 2007

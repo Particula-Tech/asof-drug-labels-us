@@ -11,4 +11,4 @@ Climara should not be used in women with any of the following conditions:
 7. Climara should not be used in patients with known hypersensitivity to its ingredients.
 8. Known or suspected pregnancy.
    There is no indication for Climara in pregnancy.
-   There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy (See PRECAUTIONS).
+   There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy (see PRECAUTIONS).

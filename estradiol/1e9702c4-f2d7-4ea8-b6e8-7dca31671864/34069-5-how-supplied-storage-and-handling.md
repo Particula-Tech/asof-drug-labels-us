@@ -7,21 +7,16 @@
 | Individual Carton of 4 systems |  |
 | Climara (estradiol transdermal system), 0.05 mg/day — each 12.5 cm2 system contains 3.8 mg of estradiol USP | NDC 50419-451-04 |
 | Individual Carton of 4 systems |  |
-| Climara (estradiol transdermal system), 0.060 mg/day — each 15 cm2 system contains 4.55 mg of estradiol USP | NDC 50419-459-04 |
+| Climara (estradiol transdermal system), 0.06 mg/day — each 15 cm2 system contains 4.55 mg of estradiol USP | NDC 50419-459-04 |
 | Individual Carton of 4 systems |  |
 | Climara (estradiol transdermal system), 0.075 mg/day — each 18.75 cm2 system contains 5.7 mg of estradiol USP | NDC 50419-453-04 |
 | Individual Carton of 4 systems |  |
-| Climara (estradiol transdermal system), 0.1 mg/day — each 25.0 cm2 system contains 7.6 mg of estradiol USP | NDC 50419-452-04 |
+| Climara (estradiol transdermal system), 0.1 mg/day — each 25 cm2 system contains 7.6 mg of estradiol USP | NDC 50419-452-04 |
 | Individual Carton of 4 systems |  |
 
 Do not store above 86°F (30°C).
 Do not store unpouched.
 Apply immediately upon removal from the protective pouch.
 
-Manufactured for:
-
-Manufactured by 3M Drug Delivery Systems
-
-Northridge, CA 91324
-
-Copyright 2007, Bayer HeathCare Pharmaceuticals Inc.
+The following are representative examples of Climara labeling.
+See the "How Supplied" section for a complete listing of all components.
