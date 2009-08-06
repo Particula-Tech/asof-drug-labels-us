@@ -7,7 +7,7 @@ These risks can occur at any dose level, but are increased at the highest dose (
 
 CRESTOR should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
 
-The risk of myopathy during treatment with CRESTOR may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, or lopinavir/ritonavir.
+The risk of myopathy during treatment with CRESTOR may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, orlopinavir/ritonavir.
 [see Dosage and Administration (2) and Drug Interactions (7)].
 
 CRESTOR therapy should be discontinued if markedly elevated creatinine kinase levels occur or myopathy is diagnosed or suspected.
@@ -34,14 +34,14 @@ Active liver disease, which may include unexplained persistent transaminase elev
 
 ## 5.3 Concomitant Coumarin Anticoagulants
 
-Caution should be exercised when anticoagulants are given in conjunction with CRESTOR because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/INR.
+Caution should be exercised when anticoagulants are given in conjunction with CRESTOR because of its potentiation of the effect of coumarin-type anti-coagulants in prolonging the prothrombin time/INR.
 In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should be determined before starting CRESTOR and frequently enough during early therapy to ensure that no significant alteration of INR occurs.
 [see Drug Interactions (7.4)]
 
 ## 5.4 Proteinuria and Hematuria
 
 In the CRESTOR clinical trial program, dipstick-positive proteinuria and microscopic hematuria were observed among CRESTOR treated patients.
-This finding was more frequent in patients taking CRESTOR 40 mg, when compared to lower doses of CRESTOR or comparator HMG-CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
+These findings were more frequent in patients taking CRESTOR 40 mg, when compared to lower doses of CRESTOR or comparator HMG-CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
 Although the clinical significance of this finding is unknown, a dose reduction should be considered for patients on CRESTOR therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
 
 ## 5.5 Endocrine Effects

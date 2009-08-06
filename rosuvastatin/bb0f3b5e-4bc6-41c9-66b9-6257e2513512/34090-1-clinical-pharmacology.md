@@ -1,6 +1,6 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 CRESTOR is a selective and competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3- methylglutaryl coenzyme A to mevalonate, a precursor of cholesterol.
 In vivo studies in animals, and in vitro studies in cultured animal and human cells have shown rosuvastatin to have a high uptake into, and selectivity for, action in the liver, the target organ for cholesterol lowering.
@@ -28,7 +28,7 @@ Second, rosuvastatin inhibits hepatic synthesis of VLDL, which reduces the total
   However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2-fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a Caucasian control group.
 - Gender: There were no differences in plasma concentrations of rosuvastatin between men and women.
 - Geriatric: There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years).
-- Renal Impairment: Mild to moderate renal impairment (CL cr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
+- Renal Impairment: Mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
   However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3-fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not receiving hemodialyis compared with healthy subjects (CLcr > 80 mL/min/1.73 m2).
 - Hemodialysis: Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
 - Hepatic Impairment: In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased.
@@ -47,12 +47,11 @@ Effect of Co-administered Drugs on Rosuvastatin Systemic Exposure
 | Co-administered drug and dosing regimen | Rosuvastatin |  |  |
 | --- | --- | --- | --- |
 |  | Dose (mg)Single dose unless otherwise noted | Change in AUC | Change in Cmax |
-| Cyclosporine – stable dose required (75 mg – 200 mg BID) | 10 mg QD for 10 days | ↑ 7-foldClinically Significant [see Dosage and Administration (2) and Warnings and Precautions (5) | ↑ 11-fold |
+| Cyclosporine – stable dose required (75 mg – 200 mg BID) | 10 mg QD for 10 days | ↑ 7-foldClinically significant [see Dosage and Administration (2) and Warnings and Precautions (5) | ↑ 11-fold |
 | Gemfibrozil 600 mg BID for 7 days | 80 mg | ↑ 1.9-fold | ↑ 2.2-fold |
-| Lopinavir/ritonavir combination 400 mg/100 mg BID for 10 days | 20 mg QD for 7 days | ↑ 5-fold | ↑ 2-fold |
+| Lopinavir/ritonavir combination 400 mg/100 mg BID for 10 days | 20 mg QD for 7 days | ↑ 2-fold | ↑ 5-fold |
 | Fenofibrate 67 mg TID for 7 days | 10 mg | ↑ 7% | ↑ 21% |
-| Aluminum & magnesium hydroxide combination antacid Administered simultaneously | 40 mg | ↓ 54% | ↓ 50% |
-| Aluminum & magnesium hydroxide combination antacid Administered 2 hours apart | 40 mg | ↓ 22% | ↓ 16% |
+| Aluminum & magnesium hydroxide combination antacid Administered simultaneously Administered 2 hours apart | 40 mg40 mg | ↓ 54%↓ 22% | ↓ 50%↓ 16% |
 | Erythromycin 500 mg QID for 7 days | 80 mg | ↓ 20% | ↓ 31% |
 | Ketoconazole 200 mg BID for 7 days | 80 mg | ↑ 2% | ↓ 5% |
 | Itraconazole 200 mg QD for 5 days | 10 mg80 mg | ↑ 39% ↑ 28% | ↑ 36%↑ 15% |
@@ -61,7 +60,7 @@ Effect of Co-administered Drugs on Rosuvastatin Systemic Exposure
 Table 4.
 Effect of Rosuvastatin Co-Administration on Systemic Exposure To Other Drugs
 
-|  | Name and Dose | Changes in AUC | Changes in Cmax |
+|  | Name and Dose | Change in AUC | Change in Cmax |
 | --- | --- | --- | --- |
 | Rosuvastatin Dosage Regimen | Co-administered Drug |  |  |
 | 40 mg QD for 10 days | Warfarin Clinically significant pharmacodynamic effects [See Warnings and Precautions (5.4)]25 mg single dose | R- Warfarin ↑ 4%S-Warfarin ↑6% | R-Warfarin ↓ 1%S-Warfarin 0% |

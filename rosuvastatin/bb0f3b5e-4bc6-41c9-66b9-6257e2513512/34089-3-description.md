@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 CRESTOR (rosuvastatin calcium) is a synthetic lipid-lowering agent for oral administration.
 
@@ -8,4 +8,4 @@ The empirical formula for rosuvastatin calcium is (C22H27FN3O6S)2Ca and the mole
 Rosuvastatin calcium is a white amorphous powder that is sparingly soluble in water and methanol, and slightly soluble in ethanol.
 Rosuvastatin calcium is a hydrophilic compound with a partition coefficient (octanol/water) of 0.13 at pH of 7.0.
 
-Inactive Ingredients: Each tablet contains microcrystalline cellulose NF, lactose monohydrate NF, tribasic calcium phosphate NF, crospovidone NF, magnesium stearate NF, hypromellose NF, triacetin NF, titanium dioxide USP, yellow ferric oxide, and red ferric oxide NF.
+Inactive Ingredients: Each tablet contains: microcrystalline cellulose NF, lactose monohydrate NF, tribasic calcium phosphate NF, crospovidone NF, magnesium stearate NF, hypromellose NF, triacetin NF, titanium dioxide USP, yellow ferric oxide, and red ferric oxide NF.

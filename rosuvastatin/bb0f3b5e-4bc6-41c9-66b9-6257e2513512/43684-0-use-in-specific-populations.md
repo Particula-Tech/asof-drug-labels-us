@@ -1,8 +1,8 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1Pregnancy
+## 8.1 Pregnancy
 
-Teratogenic effects: Pregnancy Category X.
+### Teratogenic effects: Pregnancy Category X.
 
 CRESTOR is contraindicated in women who are or may become pregnant.
 Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol products are essential for fetal development.
@@ -24,12 +24,12 @@ In rabbits, pup viability decreased and maternal mortality increased at doses eq
 CRESTOR may cause fetal harm when administered to a pregnant woman.
 If the patient becomes pregnant while taking CRESTOR, the patient should be apprised of the potential risks to the fetus and the lack of known clinical benefit with continued use during pregnancy.
 
-## 8.3Nursing Mothers
+## 8.3 Nursing Mothers
 
 It is not known whether rosuvastatin is excreted in human milk, but a small amount of another drug in this class does pass into breast milk.
 In rats, breast milk concentrations of rosuvastatin are three times higher than plasma levels; however, animal breast milk drug levels may not accurately reflect human breast milk levels.
-Because another drug in this class passes into human milk and because HMG-Co A reductase inhibitors have a potential to cause serious adverse reactions in nursing infants, women who require CRESTOR treatment should be advised not to nurse their infants.
-[see Contraindication (4)]
+Because another drug in this class passes into human milk and because HMG-CoA reductase inhibitors have a potential to cause serious adverse reactions in nursing infants, women who require CRESTOR treatment should be advised not to nurse their infants.
+[see Contraindications (4)]
 
 ## 8.4 Pediatric Use
 
@@ -41,7 +41,7 @@ None of these patients was below 8 years of age.
 In a pharmacokinetic study, 18 patients (9 boys and 9 girls) 10 to 17 years of age with heterozygous FH received single and multiple oral doses of CRESTOR.
 Both Cmax and AUC of rosuvastatin were similar to values observed in adult subjects administered the same doses.
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 Of the 10,275 patients in clinical studies with CRESTOR, 3,159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

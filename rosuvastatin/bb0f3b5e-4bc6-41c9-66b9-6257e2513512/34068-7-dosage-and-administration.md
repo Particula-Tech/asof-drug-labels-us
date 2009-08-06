@@ -1,4 +1,4 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 General Dosing Information
 
@@ -10,7 +10,7 @@ When initiating CRESTOR therapy or switching from another HMG-CoA reductase inhi
 
 The 40 mg dose of CRESTOR should be used only for those patients who have not achieved their LDL-C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
 
-## 2.2 Hyperlipidemia, Mixed Dyslipidemia, Hypertriglyceridemia and Slowing of the Progression of Atherosclerosis
+## 2.2 Hyperlipidemia, Mixed Dyslipidemia, Hypertriglyceridemia, Primary Dysbetalipoproteinemia (Type III Hyperlipoproteinemia), and Slowing of the Progression of Atherosclerosis
 
 The recommended starting dose of CRESTOR is 10 mg once daily.
 For patients with marked hyperlipidemia (LDL-C > 190 mg/dL) and aggressive lipid targets, a 20 mg starting dose may be considered.
@@ -27,15 +27,15 @@ Response to therapy should be estimated from pre-apheresis LDL-C levels.
 Initiation of CRESTOR therapy with 5 mg once daily should be considered for Asian patients.
 [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
 
-## 2.5 Use with Cyclosporine or Lopinavir/Ritonavir
+## 2.5 Use with Cyclosporine, or Lopinavir/Ritonavir
 
 In patients taking cyclosporine, the dose of CRESTOR should be limited to 5 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
-In patients taking a combination of lopinavir and ritonavir, the dose of CRESTOR should be limited to 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
+In patients taking a combination of lopinavir and ritonavir the dose of CRESTOR should be limited to 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
 
 ## 2.6 Concomitant Lipid-Lowering Therapy
 
 The risk of skeletal muscle effects may be enhanced when CRESTOR is used in combination with niacin or fenofibrate; a reduction in CRESTOR dosage should be considered in this setting.
-[see Warnings and Precuations(5.1) and see Drug Interactions (7.5, 7.6)]
+[see Warnings and Precuations (5.1) and see Drug Interactions (7.5, 7.6)]
 
 Combination therapy with gemfibrozil should be avoided because of an increase in CRESTOR exposure with concomitant use; if CRESTOR is used in combination with gemfibrozil, the dose of CRESTOR should be limited to 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.2)].
 

@@ -1,10 +1,10 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis).
   [see Warnings and Precautions (5.1)]
-- Liver Enzyme Abnormalities [see Warning and Precautions (5.2)]
+- Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 In the CRESTOR controlled clinical trials database (placebo or active-controlled) of 5,394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were:
@@ -59,11 +59,11 @@ Reported by ≥ 2% of Patients Treated with CRESTOR and ≥ Placebo in the METEO
 | Arthralgia | 10.1 | 7.1 |
 | Headache | 6.4 | 5.3 |
 | Dizziness | 4.0 | 2.8 |
-| Blood CPK | 2.6 | 0.7 |
-| Abdominal Pain | 2.4 | 1.8 |
+| Increased CPK | 2.6 | 0.7 |
+| Abdominal pain | 2.4 | 1.8 |
 | ALT > 3x ULN | 2.2 | 0.7 |
 
-## 6.2Postmarketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of CRESTOR: arthralgia, hepatitis, jaundice and memory loss.
+The following adverse reactions have been identified during post-approval use of CRESTOR: arthralgia, hepatic failure, hepatitis, jaundice and memory loss.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
