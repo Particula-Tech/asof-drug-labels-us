@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA018553"
+  ],
+  "inn": "propranolol",
+  "labeler": "Akrimax Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "24090-470-88",
+    "24090-471-88",
+    "24090-473-88",
+    "24090-479-88"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "propranolol hydrochloride",
+      "name": "Inderal"
+    }
+  ],
+  "setid": "fce692df-1e68-465e-8dda-0cb01320608c",
+  "source": "dailymed"
+}
