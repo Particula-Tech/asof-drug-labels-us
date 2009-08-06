@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## MECHANISM OF ACTION
 
 Many breast cancers have estrogen receptors (ER), and the growth of these tumors can be stimulated by estrogen.
 Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol.
@@ -19,7 +19,7 @@ Fulvestrant showed no agonist-type effects in in vivo uterotropic assays in imma
 In in vivo studies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotrophic action of estradiol.
 In postmenopausal women, the absence of changes in plasma concentrations of FSH and LH in response to fulvestrant treatment (250 mg monthly) suggests no peripheral steroidal effects.
 
-## Pharmacokinetics
+## PHARMACOKINETICS
 
 Following intravenous administration, fulvestrant is rapidly cleared at a rate approximating hepatic blood flow (about 10.5 mL plasma/min/Kg).
 After an intramuscular injection plasma concentrations are maximal at about 7 days and are maintained over a period of at least one month, with trough concentration about one-third of Cmax.
@@ -49,7 +49,7 @@ Studies using human liver preparations and recombinant human enzymes indicate th
 Fulvestrant was rapidly cleared by the hepatobiliary route with excretion primarily via the feces (approximately 90%).
 Renal elimination was negligible (less than 1%).
 
-## Special Populations:
+## SPECIFIC POPULATIONS:
 
 ### Geriatric:
 
@@ -84,7 +84,7 @@ Safety and efficacy have not been evaluated in patients with moderate to severe 
 
 The pharmacokinetics of fulvestrant have not been evaluated in pediatric patients.
 
-## Drug-Drug Interactions:
+## Drug-Drug Interactions
 
 There are no known drug-drug interactions.
 Fulvestrant does not significantly inhibit any of the major CYP isoenzymes, including CYP 1A2, 2C9, 2C19, 2D6, and 3A4 in vitro, and studies of co-administration of fulvestrant with midazolam indicate that therapeutic doses of fulvestrant have no inhibitory effects on CYP 3A4 or alter blood levels of drug metabolized by that enzyme.
