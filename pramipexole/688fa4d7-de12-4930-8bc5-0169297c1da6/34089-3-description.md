@@ -11,4 +11,4 @@ Melting occurs in the range of 296°C to 301°C, with decomposition.
 Pramipexole dihydrochloride is more than 20% soluble in water, about 8% in methanol, about 0.5% in ethanol, and practically insoluble in dichloromethane.
 
 MIRAPEX tablets, for oral administration, contain 0.125 mg, 0.25 mg, 0.5 mg, 0.75 mg, 1 mg, or 1.5 mg of pramipexole dihydrochloride monohydrate.
-Inactive ingredients consist of mannitol, corn starch, colloidal silicon dioxide, povidone, and magnesium stearate.
+Inactive ingredients consist of mannitol, cornstarch, colloidal silicon dioxide, povidone, and magnesium stearate.

@@ -79,7 +79,7 @@ What should I avoid while taking MIRAPEX?
 
 What are the possible side effects of MIRAPEX?
 
-MIRAPEX can cause serious side effects, including
+MIRAPEX may cause serious side effects, including
 
 - falling asleep during normal daily activities.
   See “What is the most important information I should know about MIRAPEX?”
@@ -103,7 +103,7 @@ Other Information about MIRAPEX Studies of people with Parkinson’s disease sho
 It is not known if this problem is associated with Parkinson’s disease or the medicines used to treat Parkinson’s disease.
 MIRAPEX is one of the medicines used to treat Parkinson’s disease, therefore, patients being treated with MIRAPEX should have periodic skin examinations.
 
-There have been reports of patients taking certain medicines to treat Parkinson’s disease or RLS, including MIRAPEX, that have reported problems with gambling, compulsive eating, and increased sex drive.
+There have been reports of patients taking certain medicines to treat Parkinson’s disease or RLS, including MIRAPEX, that have reported problems with gambling, compulsive eating, compulsive shopping, and increased sex drive.
 It is not possible to reliably estimate how often these behaviors occur or to determine which factors may contribute to them.
 If you or your family members notice that you are developing unusual behaviors, talk to your doctor.
 
@@ -132,7 +132,7 @@ What are the ingredients in MIRAPEX?
 
 Active Ingredient: pramipexole dihydrochloride monohydrate
 
-Inactive Ingredients: mannitol, corn starch, colloidal silicon dioxide, povidone, and magnesium stearate
+Inactive Ingredients: mannitol, cornstarch, colloidal silicon dioxide, povidone, and magnesium stearate
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
@@ -144,6 +144,10 @@ U.S. Patent Nos. 4,886,812; 6,001,861; and 6,194,445
 
 ©2009, Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: January 2009
+Rev: April 2009
 
-OT1317NA1409 10003128/07 10003129/06 2001/04
+OT1317PC2409 2001/05
+
+OT1338H 10003128/08
+
+IT1322G 10003129/07

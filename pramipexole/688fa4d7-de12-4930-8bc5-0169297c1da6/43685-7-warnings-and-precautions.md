@@ -93,6 +93,11 @@ Whether the increased risk observed was due to Parkinson’s disease or other fa
 For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using MIRAPEX tablets for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
+Impulse Control/Compulsive Behaviors
+
+Cases of pathological gambling, hypersexuality, and compulsive eating (including binge eating), and compulsive shopping have been reported in patients treated with dopamine agonist therapy, including pramipexole therapy.
+As described in the literature, such behaviors are generally reversible upon dose reduction or treatment discontinuation.
+
 Rebound and Augmentation in RLS
 
 Reports in the literature indicate treatment of RLS with dopaminergic medications can result in a shifting of symptoms to the early morning hours, referred to as rebound.

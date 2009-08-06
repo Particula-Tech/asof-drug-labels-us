@@ -185,7 +185,7 @@ Other events reported by 2% or more of RLS patients treated with Mirapex® (pram
 
 Table 6 summarizes data for adverse events that appeared to be dose related in the 12-week fixed dose study.
 
-Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥ 5% of all Patients in the Treatment Phase)
+Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
 
 | Body System/ Adverse Event | MIRAPEX 0.25 mg (N=88) % | MIRAPEX 0.5 mg (N=80) % | MIRAPEX 0.75 mg (N=90) % | Placebo (n=86) % |
 | --- | --- | --- | --- | --- |
