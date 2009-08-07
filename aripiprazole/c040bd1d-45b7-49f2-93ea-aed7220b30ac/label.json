@@ -1,15 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021436",
+    "NDA021713",
+    "NDA021729",
+    "NDA021866"
+  ],
   "inn": "aripiprazole",
-  "labeler": "Otsuka Pharmaceutical Co, Ltd",
+  "labeler": "Otsuka America Pharmaceuticals Inc",
   "package_ndcs": [
     "59148-006-13",
+    "59148-006-90",
     "59148-007-13",
     "59148-007-35",
+    "59148-007-93",
     "59148-008-13",
     "59148-008-35",
+    "59148-008-94",
     "59148-009-13",
     "59148-009-35",
+    "59148-009-93",
     "59148-010-13",
     "59148-010-35",
     "59148-011-13",
@@ -17,9 +26,32 @@
     "59148-013-15",
     "59148-016-65",
     "59148-640-23",
-    "59148-641-23"
+    "59148-640-90",
+    "59148-641-23",
+    "59148-641-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aripiprazole",
+      "name": "ABILIFY"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "aripiprazole",
+      "name": "ABILIFY"
+    },
+    {
+      "form": "TABLET",
+      "generic": "aripiprazole",
+      "name": "ABILIFY"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "aripiprazole",
+      "name": "ABILIFY"
+    }
+  ],
   "setid": "c040bd1d-45b7-49f2-93ea-aed7220b30ac",
   "source": "dailymed"
 }

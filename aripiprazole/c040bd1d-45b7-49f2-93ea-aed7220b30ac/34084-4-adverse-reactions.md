@@ -10,12 +10,13 @@ The following are discussed in more detail in other sections of the labeling:
 - Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.4)]
 - Hyperglycemia and Diabetes Mellitus [see WARNINGS AND PRECAUTIONS (5.5)]
 - Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.6)]
-- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.7)]
-- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.8)]
-- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.9)]
-- Suicide [see WARNINGS AND PRECAUTIONS (5.10)]
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.11)]
-- Use in Patients with Concomitant Illness [see WARNINGS AND PRECAUTIONS (5.12)]
+- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.7)]
+- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.8)]
+- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.9)]
+- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.10)]
+- Suicide [see WARNINGS AND PRECAUTIONS (5.11)]
+- Dysphagia [see WARNINGS AND PRECAUTIONS (5.12)]
+- Use in Patients with Concomitant Illness [see WARNINGS AND PRECAUTIONS (5.13)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -456,7 +457,7 @@ Other Adverse Reactions Observed During the Premarketing Evaluation of Aripipraz
 Following is a list of MedDRA terms that reflect adverse reactions as defined in ADVERSE REACTIONS (6.1) reported by patients treated with oral aripiprazole at multiple doses ≥2 mg/day during any phase of a trial within the database of 13,543 adult patients.
 All events assessed as possible adverse drug reactions have been included with the exception of more commonly occurring events.
 In addition, medically/clinically meaningful adverse reactions, particularly those that are likely to be useful to the prescriber or that have pharmacologic plausibility, have been included.
-Events already listed in other parts of ADVERSE REACTIONS (6), or those considered in WARNINGS AND PRECAUTIONS(5) or OVERDOSAGE(10) have been excluded.
+Events already listed in other parts of ADVERSE REACTIONS (6), or those considered in WARNINGS AND PRECAUTIONS (5) or OVERDOSAGE (10) have been excluded.
 Although the reactions reported occurred during treatment with aripiprazole, they were not necessarily caused by it.
 
 Events are further categorized by MedDRA system organ class and listed in order of decreasing frequency according to the following definitions: those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); those occurring in 1/100 to 1/1000 patients; and those occurring in fewer than 1/1000 patients.

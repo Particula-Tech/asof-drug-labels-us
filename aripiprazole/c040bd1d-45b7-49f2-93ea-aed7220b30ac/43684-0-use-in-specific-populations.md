@@ -10,7 +10,7 @@ Pregnant rats were treated with oral doses of 3 mg/kg/day, 10 mg/kg/day, and 30 
 Gestation was slightly prolonged at 30 mg/kg.
 Treatment caused a slight delay in fetal development, as evidenced by decreased fetal weight (30 mg/kg), undescended testes (30 mg/kg), and delayed skeletal ossification (10 mg/kg and 30 mg/kg).
 There were no adverse effects on embryofetal or pup survival.
-Delivered offspring had decreased bodyweights (10 mg/kg and 30 mg/kg), and increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia at 30 mg/kg (the other dose groups were not examined for these findings).
+Delivered offspring had decreased body weights (10 mg/kg and 30 mg/kg), and increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia at 30 mg/kg (the other dose groups were not examined for these findings).
 A low incidence of diaphragmatic hernia was also seen in the fetuses exposed to 30 mg/kg.
 Postnatally, delayed vaginal opening was seen at 10 mg/kg and 30 mg/kg and impaired reproductive performance (decreased fertility rate, corpora lutea, implants, live fetuses, and increased post-implantation loss, likely mediated through effects on female offspring) was seen at 30 mg/kg.
 Some maternal toxicity was seen at 30 mg/kg; however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.

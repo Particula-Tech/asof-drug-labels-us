@@ -136,14 +136,25 @@ Aripiprazole should be used with caution in patients with known cardiovascular d
 
 If parenteral benzodiazepine therapy is deemed necessary in addition to aripiprazole injection treatment, patients should be monitored for excessive sedation and for orthostatic hypotension [see DRUG INTERACTIONS (7.3)].
 
-## 5.7 Seizures/Convulsions
+## 5.7 Leukopenia, Neutropenia, and Agranulocytosis
+
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including ABILIFY.
+Agranulocytosis has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of ABILIFY should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue ABILIFY and have their WBC followed until recovery.
+
+## 5.8 Seizures/Convulsions
 
 In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.1% (3/2467) of adult patients treated with oral aripiprazole, in 0.3% (1/399) of pediatric patients (10 to 17 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, eg, Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.8 Potential for Cognitive and Motor Impairment
+## 5.9 Potential for Cognitive and Motor Impairment
 
 ABILIFY, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
 For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 10 to 17 (21%, 5%), and in adult patients on ABILIFY Injection (9%, 6%).
@@ -151,25 +162,25 @@ Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY does not affect them adversely.
 
-## 5.9 Body Temperature Regulation
+## 5.10 Body Temperature Regulation
 
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (eg, exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.3)].
 
-## 5.10 Suicide
+## 5.11 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses, Bipolar Disorder, and Major Depressive Disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ABILIFY should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.2, 6.3)].
 
 In two 6-week placebo-controlled studies of aripiprazole as adjunctive treatment of Major Depressive Disorder, the incidences of suicidal ideation and suicide attempts were 0% (0/371) for aripiprazole and 0.5% (2/366) for placebo.
 
-## 5.11 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including ABILIFY.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.
 Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.3)].
 
-## 5.12 Use in Patients with Concomitant Illness
+## 5.13 Use in Patients with Concomitant Illness
 
 Clinical experience with ABILIFY in patients with certain concomitant systemic illnesses is limited [see USE IN SPECIFIC POPULATIONS (8.6, 8.7)].
 
