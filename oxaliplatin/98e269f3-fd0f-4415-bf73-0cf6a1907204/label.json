@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021759"
+  ],
+  "inn": "oxaliplatin",
+  "labeler": "Aventis Pharma Ltd.",
+  "package_ndcs": [
+    "12516-0592-4"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "oxaliplatin",
+      "name": "ELOXATIN"
+    }
+  ],
+  "setid": "98e269f3-fd0f-4415-bf73-0cf6a1907204",
+  "source": "dailymed"
+}
