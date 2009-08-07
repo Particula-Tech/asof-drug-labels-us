@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022291"
+  ],
   "inn": "eltrombopag",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0007-4640-13",
     "0007-4641-13"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "eltrombopag olamine",
+      "name": "PROMACTA"
+    }
+  ],
   "setid": "616224ff-a925-4b38-9ca2-00fbf669380f",
   "source": "dailymed"
 }

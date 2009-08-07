@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Eltrombopag is an orally bioavailable, small-molecule TPO-receptor agonist that interacts with the transmembrane domain of the human TPO-receptor and initiates signaling cascades that induce proliferation and differentiation of megakaryocytes from bone marrow progenitor cells.
 

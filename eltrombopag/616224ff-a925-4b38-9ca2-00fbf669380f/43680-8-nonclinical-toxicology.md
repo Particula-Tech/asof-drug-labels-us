@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Eltrombopag does not stimulate platelet production in rats, mice, or dogs because of unique TPO receptor specificity.
 Data from these animals do not fully model effects in humans.

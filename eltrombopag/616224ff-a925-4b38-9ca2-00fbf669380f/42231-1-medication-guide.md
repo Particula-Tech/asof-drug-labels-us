@@ -200,3 +200,14 @@ For more information you can call toll-free 1-888-825-5249.
 PROMACTA is a registered trademark of GlaxoSmithKline.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2008, GlaxoSmithKline.
+All rights reserved.
+
+Revised: October 2008
+
+PRM:1MG
