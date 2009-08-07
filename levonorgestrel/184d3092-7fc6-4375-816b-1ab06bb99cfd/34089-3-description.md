@@ -15,4 +15,4 @@ Proceeding from the visible surface towards the surface attached to the skin, th
 The protective liner is attached to the adhesive surface and must be removed before the system can be used.
 
 The active components of the system are estradiol and levonorgestrel.
-The remaining components of the system (acrylate copolymer adhesive and polyvinylpyrrolidone/ vinyl acetate copolymer) are pharmacologically inactive.
+The remaining components of the system (acrylate copolymer adhesive and polyvinylpyrrolidone/vinyl acetate copolymer) are pharmacologically inactive.

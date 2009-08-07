@@ -88,13 +88,13 @@ In the estrogen plus progestin substudy, after an average follow-up of 4 years, 
 The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 - 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL STUDIES and PRECAUTIONS, Geriatric use.)
+(See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use.)
 
 In the estrogen-alone substudy, after an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for estrogen alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
 The absolute risk of probable dementia for estrogen alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL STUDIES and PRECAUTIONS, Geriatric use)
+(See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use)
 
 ## 4. Gallbladder disease
 
@@ -199,22 +199,22 @@ Long-term continuous administration of estrogen, with and without progestin, in 
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
-## F. Preganacy
+## F. Pregnancy
 
 Climara Pro should not be used during pregnancy.
 (See CONTRAINDICATIONS)
 
-## G. Nursing mothers
+## G. Nursing Mothers
 
 Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
 Detectable amounts of estrogens and progestins have been identified in the milk of mothers receiving this drug.
 Caution should be exercised when Climara Pro is administered to a nursing woman.
 
-## H. Pediatric use
+## H. Pediatric Use
 
 Climara Pro is not indicated in children.
 
-## I. Geriatric use
+## I. Geriatric Use
 
 There have not been sufficient numbers of geriatric patients involved in studies utilizing Climara Pro to determine whether those over 65 years of age differ from younger subjects in their response to Climara Pro.
 
@@ -230,6 +230,6 @@ There was a higher relative risk (CE versus placebo) of stroke in women less tha
 In the estrogen-alone substudy of the WHIMS, a population of 2,947 hysterectomized women, aged 65 to 79 years, was randomized to estrogen alone (CE 0.625 mg) or placebo.
 In the estrogen-alone group, after an average follow-up of 5.2 years, the relative risk (CE versus placebo) of probable dementia was 1.49 (95 percent CI, 0.83-2.66).
 
-Pooling the events in women receiving CE or CE/MPA in comparison to those in women on placebo, the overall relative risk of probable dementia was 1.76 (95 percent CI, 1.19-2.60).
+Pooling the events in women receiving CE or CE/MPA in comparison to those in women on placebo, the overall relative risk of probable dementia was 1.76 (95 percent CI, 1.19-2.6).
 Since both substudies were conducted in women aged 65 to 79 years, it is unknown whether these findings apply to younger postmenopausal women.
 (See BOXED WARNINGS and WARNINGS, Dementia.)

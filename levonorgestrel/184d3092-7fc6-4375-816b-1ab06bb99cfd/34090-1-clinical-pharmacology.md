@@ -73,13 +73,13 @@ In postmenopausal women, a significant proportion of the circulating estrogens e
 
 The most important metabolic pathway for levonorgestrel occurs in the reduction of the Δ4- and the 3-oxo-group as well as hydroxylations at positions 2α, 1β, and 16β, followed by conjugation.
 Most of the metabolites that circulate in the blood are sulfates of 3α, 5β -tetrahydro-levonorgestrel, while excretion occurs predominantly in the form of glucuronides.
-Some of the parent levonorgestrel also circulates as the 17β -sulfate.
+Some of the parent levonorgestrel also circulates as the 17β-sulfate.
 In-vitro studies on the biotransformation of levonorgestrel in human skin did not indicate any significant metabolism of levonorgestrel during skin penetration.
 
 ## D. Excretion
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
-Following patch removal, serum estradiol concentrations decline rapidly with a mean (± SD) terminal half-life of 3± 0.67 hours.
+Following patch removal, serum estradiol concentrations decline rapidly with a mean (± SD) terminal half-life of 3 ± 0.67 hours.
 
 Levonorgestrel and its metabolites are primarily excreted in the urine.
 Mean (± SD) terminal half-life for levonorgestrel was determined to be 28 ± 6.4 hours.
