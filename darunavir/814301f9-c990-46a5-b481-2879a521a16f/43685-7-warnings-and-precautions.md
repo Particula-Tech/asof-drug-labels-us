@@ -40,8 +40,8 @@ In clinical studies with PREZISTA/rtv, the incidence and severity of rash was si
 
 ## 5.5 Drug Interactions
 
-See Table 1 for a listing of drugs that are contraindicated for use with PREZISTA/rtv due to potentially life-threatening adverse events, significant drug-drug interactions, or loss of therapeutic effect to PREZISTA [see Contraindications (4)].
-Please refer to Table 6 for established and other potentially significant drug-drug interactions [see Drug Interactions (7.3)].
+See Table 2 for a listing of drugs that are contraindicated for use with PREZISTA/rtv due to potentially life-threatening adverse events, significant drug-drug interactions, or loss of therapeutic effect to PREZISTA [see Contraindications (4)].
+Please refer to Table 7 for established and other potentially significant drug-drug interactions [see Drug Interactions (7.3)].
 
 ## 5.6 Diabetes Mellitus / Hyperglycemia
 
@@ -70,4 +70,9 @@ A causal relationship between PI therapy and these episodes has not been establi
 
 ## 5.10 Resistance/Cross-Resistance
 
-Because the potential for HIV cross-resistance among PIs has not been fully explored in PREZISTA/rtv treated patients, the effect therapy with PREZISTA will have on the activity of subsequently administered PIs is unknown.
+Because the potential for HIV cross-resistance among PIs has not been fully explored in PREZISTA/rtv treated patients, the effect therapy with PREZISTA will have on the activity of subsequently administered PIs is unknown [see Microbiology (12.4)].
+
+## 5.11 Pediatric Patients
+
+Do not administer PREZISTA/rtv in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].
+The safety and efficacy of PREZISTA/rtv in pediatric patients 3 to < 6 years of age have not been established.

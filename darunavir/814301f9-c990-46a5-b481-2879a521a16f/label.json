@@ -1,13 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021976"
+  ],
   "inn": "darunavir",
-  "labeler": "Ortho Biotech Products, L.P.",
+  "labeler": "CENTOCOR ORTHO BIOTECH PRODUCTS, L.P.",
   "package_ndcs": [
     "59676-560-01",
     "59676-561-01",
-    "59676-562-01"
+    "59676-562-01",
+    "59676-563-01",
+    "59676-564-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavir ethanolate",
+      "name": "PREZISTA"
+    }
+  ],
   "setid": "814301f9-c990-46a5-b481-2879a521a16f",
   "source": "dailymed"
 }

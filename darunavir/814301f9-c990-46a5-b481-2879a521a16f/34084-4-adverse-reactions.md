@@ -4,9 +4,9 @@ The safety assessment is based on all safety data from the Phase 2b studies (Stu
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Due to the need for co-administration of PREZISTA with 100 mg of ritonavir, please refer to ritonavir prescribing information for ritonavir-associated adverse reactions.
+Due to the need for co-administration of PREZISTA with ritonavir, please refer to ritonavir prescribing information for ritonavir-associated adverse reactions.
 
-## 6.1 Antiretroviral Treatment-Naïve Adult Subjects
+## 6.1 Clinical Trials Experience: Treatment-Naïve Adults
 
 Study TMC114-C211
 
@@ -17,9 +17,9 @@ The majority of the adverse drug reactions (ADRs) reported during treatment with
 The most common ADRs to PREZISTA/rtv 800/100 mg once daily (≥ 5%) of at least moderate intensity (≥ Grade 2) were diarrhea and headache.
 2% of subjects in the PREZISTA/rtv arm discontinued treatment due to ADRs.
 
-ADRs to PREZISTA/rtv 800/100 mg once daily of at least moderate intensity (≥ Grade 2) in antiretroviral treatment naïve HIV-1-infected adult subjects are presented in Table 2.
+ADRs to PREZISTA/rtv 800/100 mg once daily of at least moderate intensity (≥ Grade 2) in antiretroviral treatment naïve HIV-1-infected adult subjects are presented in Table 3.
 
-Table 2: Selected Adverse Drug Reactions to PREZISTA/rtv 800/100 mg Once DailyExcluding laboratory abnormalities reported as ADRs of At Least Moderate Intensity (≥ Grade 2) in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects
+Table 3: Selected Adverse Drug Reactions to PREZISTA/rtv 800/100 mg Once DailyExcluding laboratory abnormalities reported as ADRs of At Least Moderate Intensity (≥ Grade 2) in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects
 
 | System Organ Class, Preferred Term, % | PREZISTA/rtv 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
 | --- | --- | --- |
@@ -54,9 +54,9 @@ Table 2: Selected Adverse Drug Reactions to PREZISTA/rtv 800/100 mg Once DailyEx
 
 Laboratory abnormalities:
 
-The percentages of antiretroviral treatment-naïve HIV-1-infected adult subjects treated with PREZISTA/rtv 800/100 mg once daily with Grade 2 to 4 laboratory abnormalities, considered ADRs, are presented in Table 3.
+The percentages of antiretroviral treatment-naïve HIV-1-infected adult subjects treated with PREZISTA/rtv 800/100 mg once daily with Grade 2 to 4 laboratory abnormalities, considered ADRs, are presented in Table 4.
 
-Table 3: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
+Table 4: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
 
 | Laboratory Parameter Preferred Term, % | Limit | PREZISTA/rtv 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
 | --- | --- | --- | --- |
@@ -102,7 +102,7 @@ Table 3: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Grade 4 | > 5.0 × ULN | 0% | < 1% |
 | N=total number of subjects per treatment group TDF = tenofovir disoproxil fumarate FTC = emtricitabine |  |  |  |
 
-## 6.2 Antiretroviral Treatment-Experienced Adult Subjects
+## 6.2 Clinical Trials Experience: Treatment-Experienced Adults
 
 Study TMC114-C214
 
@@ -113,9 +113,9 @@ The majority of the ADRs reported during treatment with PREZISTA/rtv 600/100 mg 
 The most common ADRs to PREZISTA/rtv 600/100 mg twice daily (≥ 5%) of at least moderate intensity (≥ Grade 2) were diarrhea, nausea, rash, and abdominal pain.
 3.7% of subjects in the PREZISTA/rtv arm discontinued treatment due to ADRs.
 
-ADRs to PREZISTA/rtv 600/100 mg twice daily of at least moderate intensity (≥ Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 4.
+ADRs to PREZISTA/rtv 600/100 mg twice daily of at least moderate intensity (≥ Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 5.
 
-Table 4: Selected Adverse Drug Reactions to PREZISTA/rtv 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of At Least Moderate Intensity (≥ Grade 2) in Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects
+Table 5: Selected Adverse Drug Reactions to PREZISTA/rtv 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of At Least Moderate Intensity (≥ Grade 2) in Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects
 
 | System Organ Class, Preferred Term, % | PREZISTA/rtv 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
 | --- | --- | --- |
@@ -147,9 +147,9 @@ Table 4: Selected Adverse Drug Reactions to PREZISTA/rtv 600/100 mg Twice DailyE
 
 Laboratory abnormalities:
 
-The percentages of antiretroviral treatment-experienced HIV-1-infected adult subjects treated with PREZISTA/rtv 600/100 mg twice daily with Grade 2 to 4 laboratory abnormalities, considered ADRs, are presented in Table 5.
+The percentages of antiretroviral treatment-experienced HIV-1-infected adult subjects treated with PREZISTA/rtv 600/100 mg twice daily with Grade 2 to 4 laboratory abnormalities, considered ADRs, are presented in Table 6.
 
-Table 5: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
+Table 6: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
 
 | Laboratory Parameter Preferred Term, % | Limit | PREZISTA/rtv 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
 | --- | --- | --- | --- |
@@ -199,7 +199,7 @@ Table 5: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 
 The following serious ADRs of at least moderate intensity (≥ Grade 2) occurred in the Phase 2b studies (Studies TMC114-C213, TMC114-C202, TMC114-C215, and TMC114-C208) and Phase 3 studies (TMC114-C211, TMC114-C214, TMC114-C209, DUET-1 (TMC125-C206), and DUET-2 (TMC125-C216)) with PREZISTA/rtv: abdominal pain, acute hepatitis, acute pancreatitis, anorexia, asthenia, diabetes mellitus, diarrhea, fatigue, headache, hepatic enzyme increased, hypercholesterolemia, hyperglycemia, hypertriglyceridemia, immune reconstitution syndrome, low density lipoprotein increased, nausea, pancreatic enzyme increased, rash, Stevens-Johnson Syndrome, and vomiting.
 
-## 6.4 Additional ADRs to PREZISTA/rtv identified in other clinical trials
+## 6.4 Additional ADRs to PREZISTA/rtv identified in adult subjects in other clinical trials
 
 In Studies TMC114-C213, TMC114-C202, TMC114-C215, TMC114-C208, TMC114-C209, DUET-1, and DUET-2, the only additional ADR of interest identified was lipodystrophy.
 
@@ -208,7 +208,16 @@ In Studies TMC114-C213, TMC114-C202, TMC114-C215, TMC114-C208, TMC114-C209, DUET
 In subjects co-infected with hepatitis B or C virus receiving PREZISTA/rtv, the incidence of adverse events and clinical chemistry abnormalities was not higher than in subjects receiving PREZISTA/rtv who were not co-infected, except for increased hepatic enzymes [see Warnings and Precautions (5.2)].
 The pharmacokinetic exposure in co-infected subjects was comparable to that in subjects without co-infection.
 
-## 6.6 Postmarketing Experience
+## 6.6 Clinical Trials Experience: Pediatric Patients
+
+PREZISTA/rtv has been studied in 80 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 6 to < 18 years of age and weighing at least 44 lbs (20 kg) in combination with other antiretroviral agents [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
+
+Frequency, type, and severity of ADRs in pediatric subjects were comparable to those observed in adults.
+ADRs to PREZISTA/rtv (all grades, ≥ 3%), excluding laboratory abnormalities reported as ADRs, were vomiting (13%), diarrhea (11%), abdominal pain (10%), headache (9%), rash (5%), nausea (4%) and fatigue (3%).
+
+Grade 3 or 4 laboratory abnormalities were ALT increased (Grade 3: 3%; Grade 4: 1%), AST increased (Grade 3: 1%), pancreatic amylase increased (Grade 3: 4%, Grade 4: 1%), pancreatic lipase increased (Grade 3: 1%), total cholesterol increased (Grade 3: 1%), and LDL increased (Grade 3: 3%).
+
+## 6.7 Postmarketing Experience
 
 The following events have been identified during postmarketing use of PREZISTA.
 Because these events are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

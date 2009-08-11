@@ -5,20 +5,20 @@ See also Contraindications (4) and Clinical Pharmacology (12.3).
 ## 7.1 Potential for PREZISTA/rtv to Affect Other Drugs
 
 PREZISTA co-administered with ritonavir is an inhibitor of CYP3A and CYP2D6.
-Co-administration of PREZISTA and ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (see Table 6).
+Co-administration of PREZISTA and ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (see Table 7).
 
 ## 7.2 Potential for Other Drugs to Affect Darunavir
 
 Darunavir and ritonavir are metabolized by CYP3A.
 Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir and ritonavir, resulting in lowered plasma concentrations of darunavir and ritonavir.
-Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir (see Table 6).
+Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir (see Table 7).
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
-Table 6 provides dosing recommendations as a result of drug interactions with PREZISTA/rtv.
+Table 7 provides dosing recommendations as a result of drug interactions with PREZISTA/rtv.
 These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
 
-Table 6: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 8 and 9]
+Table 7: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 10 and 11]
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Darunavir or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
@@ -26,8 +26,8 @@ Table 6: Established and Other Potentially Significant Drug Interactions: Altera
 | didanosine | ↔ darunavir ↔ didanosine | Didanosine should be administered one hour before or two hours after PREZISTA/rtv (which are administered with food). |
 | HIV-Antiviral Agents: HIV-Protease Inhibitors (PIs) |  |  |
 | indinavir (The reference regimen for indinavir was indinavir/ritonavir 800/100 mg twice daily.) | ↑ darunavir ↑ indinavir | The appropriate dose of indinavir in combination with PREZISTA/rtv has not been established. |
-| lopinavir/ritonavir | ↓ darunavir ↔ lopinavir | Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer lopinavir/ritonavir and PREZISTA, with or without an additional low-dose of ritonavir. |
-| saquinavir | ↓ darunavir ↔ saquinavir | Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer saquinavir and PREZISTA, with or without low-dose ritonavir. |
+| lopinavir/ritonavir | ↓ darunavir ↔ lopinavir | Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer lopinavir/ritonavir and PREZISTA, with or without ritonavir. |
+| saquinavir | ↓ darunavir ↔ saquinavir | Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer saquinavir and PREZISTA, with or without ritonavir. |
 | Other Agents |  |  |
 | Antiarrhythmics: bepridil, lidocaine (systemic), quinidine, amiodarone, flecainide, propafenone | ↑ antiarrhythmics | Concentrations of these drugs may be increased when co-administered with PREZISTA/rtv. Caution is warranted and therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when co-administered with PREZISTA/rtv. |
 | digoxin | ↑ digoxin | The lowest dose of digoxin should initially be prescribed. The serum digoxin concentrations should be monitored and used for titration of digoxin dose to obtain the desired clinical effect. |
@@ -48,13 +48,13 @@ Table 6: Established and Other Potentially Significant Drug Interactions: Altera
 | Corticosteroid: Inhaled/Nasal: fluticasone propionate | ↑ fluticasone propionate | Concomitant use of inhaled fluticasone propionate and PREZISTA/rtv may increase plasma concentrations of fluticasone propionate. Alternatives should be considered, particularly for long term use. |
 | HMG-CoA Reductase Inhibitors: pravastatin, atorvastatin, rosuvastatin | ↑ pravastatin ↑ atorvastatin ↑ rosuvastatin | Use the lowest possible dose of atorvastatin, pravastatin or rosuvastatin with careful monitoring, or consider other HMG-CoA reductase inhibitors such as fluvastatin in combination with PREZISTA/rtv. |
 | Immunosuppressants: cyclosporine, tacrolimus, sirolimus | ↑ immunosuppressants | Plasma concentrations of cyclosporine, tacrolimus or sirolimus may be increased when co-administered with PREZISTA/rtv. Therapeutic concentration monitoring of the immunosuppressive agent is recommended when co-administered with PREZISTA/rtv. |
-| Narcotic Analgesic: methadone | ↓ methadone | No adjustment of methadone dosage is required when initiating co-administration of PREZISTA/rtv. However, clinical monitoring is recommended as the dose of methadone during maintenance therapy may need to be adjusted in some patients. |
+| Narcotic Analgesic/Treatment of Opioid Dependence: methadone, buprenorphine, buprenorphine/naloxone | ↓ methadone ↔ buprenorphine, naloxone ↑ norbuprenorphine (metabolite) | No adjustment of methadone dosage is required when initiating co-administration of PREZISTA/rtv. However, clinical monitoring is recommended as the dose of methadone during maintenance therapy may need to be adjusted in some patients. No dose adjustment for buprenorphine or buprenorphine/naloxone is required with concurrent administration of PREZISTA/rtv. Clinical monitoring is recommended if PREZISTA/rtv and buprenorphine or buprenorphine/naloxone are coadministered. |
 | Neuroleptics: risperidone, thioridazine | ↑ neuroleptics | A dose decrease may be needed for these drugs when co-administered with PREZISTA/rtv. |
 | Oral Contraceptives/estrogen: ethinyl estradiol, norethindrone | ↓ ethinyl estradiol ↓ norethindrone | Plasma concentrations of ethinyl estradiol are decreased due to induction of its metabolism by ritonavir. Alternative methods of nonhormonal contraception are recommended. |
 | PDE-5 inhibitors: sildenafil, vardenafil, tadalafil | ↑ PDE-5 inhibitors | Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg dose in 72 hours, or tadalafil at a single dose not exceeding 10 mg dose in 72 hours can be used with increased monitoring for PDE-5 inhibitor-associated adverse events. |
 | Selective Serotonin Reuptake Inhibitors (SSRIs): sertraline, paroxetine | ↔ darunavir ↓ sertraline ↓ paroxetine | If sertraline or paroxetine is co-administered with PREZISTA/rtv, the recommended approach is a careful dose titration of the SSRI based on a clinical assessment of antidepressant response. In addition, patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA/rtv should be monitored for antidepressant response. |
 
-In addition to the drugs included in Table 6, the interaction between PREZISTA/rtv and the following drugs were evaluated in clinical studies and no dose adjustments are needed for either drug [see Clinical Pharmacology (12.3)]: atazanavir, efavirenz, etravirine, nevirapine, omeprazole, ranitidine, and tenofovir disoproxil fumarate.
+In addition to the drugs included in Table 7, the interaction between PREZISTA/rtv and the following drugs were evaluated in clinical studies and no dose adjustments are needed for either drug [see Clinical Pharmacology (12.3)]: atazanavir, efavirenz, etravirine, nevirapine, omeprazole, ranitidine, and tenofovir disoproxil fumarate.
 
 Other nucleoside reverse transcriptase inhibitors (NRTIs):
 
