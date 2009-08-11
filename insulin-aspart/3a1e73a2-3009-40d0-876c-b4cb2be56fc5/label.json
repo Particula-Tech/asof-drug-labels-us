@@ -1,13 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020986"
+  ],
   "inn": "insulin-aspart",
-  "labeler": "Novo Nordisk Inc.",
+  "labeler": "Novo Nordisk",
   "package_ndcs": [
     "0169-3303-12",
+    "0169-3303-91",
     "0169-6339-10",
-    "0169-7501-11"
+    "0169-6339-97",
+    "0169-7501-11",
+    "0169-7501-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin aspart",
+      "name": "NovoLog"
+    }
+  ],
   "setid": "3a1e73a2-3009-40d0-876c-b4cb2be56fc5",
   "source": "dailymed"
 }

@@ -4,7 +4,7 @@
 
 NovoLog is an insulin analog with an earlier onset of action than regular human insulin.
 The dosage of NovoLog must be individualized.
-NovoLog given by subcutaneous injection should generally be used in regimens with an intermediate or long-acting insulin [see Warnings and Precautions (5),How Supplied/Storage and Handling (16.2)].
+NovoLog given by subcutaneous injection should generally be used in regimens with an intermediate or long-acting insulin [see Warnings and Precautions (5), How Supplied/Storage and Handling (16.2)].
 The total daily insulin requirement may vary and is usually between 0.5 to 1.0 units/kg/day.
 When used in a meal-related subcutaneous injection treatment regimen, 50 to 70% of total insulin requirements may be provided by NovoLog and the remainder provided by an intermediate-acting or long-acting insulin.
 Because of NovoLog’s comparatively rapid onset and short duration of glucose lowering activity, some patients may require more basal insulin and more total insulin to prevent pre-meal hyperglycemia when using NovoLog than when using human regular insulin.
@@ -31,7 +31,15 @@ Because NovoLog has a more rapid onset and a shorter duration of activity than h
 Infusion sites should be rotated within the same region to reduce the risk of lipodystrophy.
 The initial programming of the external insulin infusion pump should be based on the total daily insulin dose of the previous regimen.
 Although there is significant interpatient variability, approximately 50% of the total dose is usually given as meal-related boluses of NovoLog and the remainder is given as a basal infusion.
-Change the NovoLog in the reservoir, the infusion sets and the infusion set insertion site at least every 48 hours.
+Change the NovoLog in the reservoir at least every 6 days, change the infusion sets and the infusion set insertion site at least every 3 days.
+
+The following insulin pumps† have been used in NovoLog clinical or in vitro studies conducted by Novo Nordisk, the manufacturer of NovoLog:
+
+- Medtronic Paradigm® 512 and 712
+- MiniMed 508
+- Disetronic® D-TRON® and H-TRON®
+
+Before using a different insulin pump with NovoLog, read the pump label to make sure the pump has been evaluated with NovoLog.
 
 ## 2.4 Intravenous Use
 

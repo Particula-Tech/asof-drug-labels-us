@@ -6,4 +6,4 @@ NovoLog is available in the following package sizes: each presentation contains 
 
 - 3 mL PenFill cartridges for the 3 mL PenFill cartridge delivery device (with or without the addition of a NovoPen® 3 PenMate®) with NovoFine® disposable needles
 
-- 3 mL NovoLog FlexPen Prefilled Syringe
+- 3 mL NovoLog FlexPen

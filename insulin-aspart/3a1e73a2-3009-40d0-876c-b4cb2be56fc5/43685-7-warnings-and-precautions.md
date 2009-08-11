@@ -83,17 +83,5 @@ This is especially pertinent for rapid-acting insulin analogs that are more rapi
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
 Interim therapy with subcutaneous injection may be required [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17)].
 
-NovoLog is recommended for use in pump systems suitable for insulin infusion as listed below.
-
-Pumps:
-
-MiniMed 500 series and other equivalent pumps.
-
-Reservoirs and infusion sets:
-
-NovoLog is recommended for use in reservoir and infusion sets that are compatible with insulin and the specific pump.
-In-vitro studies have shown that pump malfunction, loss of metacresol, and insulin degradation, may occur when NovoLog is maintained in a pump system for longer than 48 hours.
-Reservoirs and infusion sets should be changed at least every 48 hours.
-
 NovoLog should not be exposed to temperatures greater than 37°C (98.6°F).
 NovoLog that will be used in a pump should not be mixed with other insulin or with a diluent [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), and How Supplied/Storage and Handling (16.2), Patient Counseling Information (17)].

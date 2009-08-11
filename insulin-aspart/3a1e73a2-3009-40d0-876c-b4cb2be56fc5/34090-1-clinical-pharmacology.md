@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 The primary activity of NovoLog is the regulation of glucose metabolism.
 Insulins, including NovoLog, bind to the insulin receptors on muscle and fat cells and lower blood glucose by facilitating the cellular uptake of glucose and simultaneously inhibiting the output of glucose from the liver.

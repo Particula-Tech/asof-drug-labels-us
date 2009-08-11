@@ -30,6 +30,8 @@ Use of NovoLog is compatible with breastfeeding, but women with diabetes who are
 ## 8.4 Pediatric Use
 
 NovoLog is approved for use in children for subcutaneous daily injections and for subcutaneous continuous infusion by external insulin pump.
+NovoLog has not been studied in pediatric patients younger than 2 years of age.
+NovoLog has not been studied in pediatric patients with type 2 diabetes.
 Please see Section 14 CLINICAL STUDIES for summaries of clinical studies.
 
 ## 8.5 Geriatric Use
