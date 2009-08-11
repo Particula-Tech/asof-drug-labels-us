@@ -13,7 +13,7 @@ Rare cases of death due to anaphylaxis have been reported (See PRECAUTIONS).
 ## General
 
 Caution is to be exercised in patients with a history of allergy or bronchial asthma.
-An emergency tray should be available in the event of possible reaction to FLUORESCITE®(fluorescein injection, USP) 10%.
+An emergency tray should be available in the event of possible reaction to FLUORESCITE® (fluorescein injection, USP) 10%.
 Use only if the container is undamaged.
 
 ## Information for Patients
