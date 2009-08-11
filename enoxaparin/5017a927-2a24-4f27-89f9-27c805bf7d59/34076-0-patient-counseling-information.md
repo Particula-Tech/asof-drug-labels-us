@@ -1,7 +1,16 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be told that it may take them longer than usual to stop bleeding, that they may bruise and/or bleed more easily when they are treated with Lovenox, and that they should report any unusual bleeding or bruising to their physician [see Warnings and Precautions (5.1, 5.5)].
+If patients have had neuraxial anesthesia or spinal puncture, and particularly, if they are taking concomitant NSAIDs, platelet inhibitors, or other anticoagulants, they should be informed to watch for signs and symptoms of spinal or epidural hematoma, such as tingling, numbness (especially in the lower limbs) and muscular weakness.
+If any of these symptoms occur the patient should contact his or her physician immediately.
 
-Patients should inform physicians and dentists that they are taking Lovenox and/or any other product known to affect bleeding before any surgery is scheduled and before any new drug is taken [see Warnings and Precautions (5.3)].
+Additionally, the use of aspirin and other NSAIDs may enhance the risk of hemorrhage.
+Their use should be discontinued prior to enoxaparin therapy whenever possible; if co-administration is essential, the patient's clinical and laboratory status should be closely monitored [see Drug Interactions (7)].
 
-Patients should inform their physicians and dentists of all medications they are taking, including those obtained without a prescription [see Drug Interactions (7)].
+Patients should also be informed:
+
+- of the instructions for injecting Lovenox if their therapy is to continue after discharge from the hospitals.
+- it may take them longer than usual to stop bleeding.
+- they may bruise and/or bleed more easily when they are treated with Lovenox.
+- they should report any unusual bleeding, bruising, or signs of thrombocytopenia (such as a rash of dark red spots under the skin) to their physician [see Warnings and Precautions (5.1, 5.5)].
+- to tell their physicians and dentists they are taking Lovenox and/or any other product known to affect bleeding before any surgery is scheduled and before any new drug is taken [see Warnings and Precautions (5.3)].
+- to tell their physicians and dentists of all medications they are taking, including those obtained without a prescription, such as aspirin or other NSAIDs [see Drug Interactions (7)].

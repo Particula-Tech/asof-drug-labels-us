@@ -29,5 +29,4 @@ Lovenox 150 mg/mL Concentration contains 15 mg enoxaparin sodium (approximate an
 First International Low Molecular Weight Heparin Reference Standard]) per 0.1 mL Water for Injection.
 
 The Lovenox prefilled syringes and graduated prefilled syringes are preservative-free and intended for use only as a single-dose injection.
-The multiple-dose vial contains 15 mg benzyl alcohol per 1 mL as a preservative.
-[See Dosage and Administration (2) and How Supplied (16) for dosage unit descriptions].
+The multiple-dose vial contains 15 mg benzyl alcohol per 1 mL as a preservative [see Dosage and Administration (2) and How Supplied (16)].

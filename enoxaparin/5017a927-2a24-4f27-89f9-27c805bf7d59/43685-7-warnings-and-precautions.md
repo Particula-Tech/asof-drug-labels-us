@@ -3,7 +3,7 @@
 ## 5.1 Increased Risk of Hemorrhage
 
 Cases of epidural or spinal hematomas have been reported with the associated use of Lovenox and spinal/epidural anesthesia or spinal puncture resulting in long-term or permanent paralysis.
-The risk of these events is higher with the use of post-operative indwelling epidural catheters or by the concomitant use of additional drugs affecting hemostasis such as NSAIDs [see boxed Warning, Adverse Reactions (6.2) and Drug Interactions (7)].
+The risk of these events is higher with the use of post-operative indwelling epidural catheters or by the concomitant use of additional drugs affecting hemostasis such as NSAIDs [see Boxed Warning, Adverse Reactions (6.2) and Drug Interactions (7)].
 
 Lovenox should be used with extreme caution in conditions with increased risk of hemorrhage, such as bacterial endocarditis, congenital or acquired bleeding disorders, active ulcerative and angiodysplastic gastrointestinal disease, hemorrhagic stroke, or shortly after brain, spinal, or ophthalmological surgery, or in patients treated concomitantly with platelet inhibitors.
 
@@ -26,7 +26,7 @@ The site of the procedure should be observed for signs of bleeding or hematoma f
 
 Lovenox should be used with care in patients with a bleeding diathesis, uncontrolled arterial hypertension or a history of recent gastrointestinal ulceration, diabetic retinopathy, renal dysfunction and hemorrhage.
 
-## 5.4 History of Heparin-induced Thrombocytopenia
+## 5.4 History of Heparin-Induced Thrombocytopenia
 
 Lovenox should be used with extreme caution in patients with a history of heparin-induced thrombocytopenia.
 
@@ -61,7 +61,7 @@ Therefore, frequent monitoring of peak and trough anti-Factor Xa levels, and adj
 ## 5.8 Benzyl Alcohol
 
 Lovenox multiple-dose vials contain benzyl alcohol as a preservative.
-The administration of medications containing benzyl alcohol as a preservative to premature neonates has been associated with a fatal "Gasping Syndrome".
+The administration of medications containing benzyl alcohol as a preservative to premature neonates has been associated with a fatal "gasping syndrome".
 Because benzyl alcohol may cross the placenta, Lovenox multiple-dose vials, preserved with benzyl alcohol, should be used with caution in pregnant women and only if clearly needed [see Use in Specific Populations (8.1)].
 
 ## 5.9 Laboratory Tests

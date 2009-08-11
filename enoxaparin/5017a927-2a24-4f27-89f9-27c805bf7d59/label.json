@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020164"
+  ],
   "inn": "enoxaparin",
   "labeler": "sanofi-aventis U.S. LLC",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "0075-2912-01",
     "0075-2915-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "enoxaparin sodium",
+      "name": "Lovenox"
+    }
+  ],
   "setid": "5017a927-2a24-4f27-89f9-27c805bf7d59",
   "source": "dailymed"
 }

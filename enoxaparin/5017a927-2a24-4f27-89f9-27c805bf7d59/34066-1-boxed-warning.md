@@ -1,4 +1,4 @@
-# WARNING: SPINAL / EPIDURAL HEMATOMAS
+# WARNING: SPINAL/EPIDURAL HEMATOMAS
 
 When neuraxial anesthesia (epidural/spinal anesthesia) or spinal puncture is employed, patients anticoagulated or scheduled to be anticoagulated with low molecular weight heparins or heparinoids for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis.
 

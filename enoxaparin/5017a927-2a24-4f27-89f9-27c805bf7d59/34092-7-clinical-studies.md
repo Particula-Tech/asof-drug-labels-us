@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Prophylaxis of Deep Vein Thrombosis (DVT) Following Abdominal Surgery in Patients at Risk for Thromboembolic Complications
+## 14.1 Prophylaxis of Deep Vein Thrombosis Following Abdominal Surgery in Patients at Risk for Thromboembolic Complications
 
-Abdominal surgery patients at risk include those who are over 40 years of age, obese, undergoing surgery under general anesthesia lasting longer than 30 minutes or who have additional risk factors such as malignancy or a history of DVT or pulmonary embolism.
+Abdominal surgery patients at risk include those who are over 40 years of age, obese, undergoing surgery under general anesthesia lasting longer than 30 minutes or who have additional risk factors such as malignancy or a history of deep vein thrombosis (DVT) or pulmonary embolism (PE).
 
 In a double-blind, parallel group study of patients undergoing elective cancer surgery of the gastrointestinal, urological, or gynecological tract, a total of 1116 patients were enrolled in the study, and 1115 patients were treated.
 Patients ranged in age from 32 to 97 years (mean age 67 years) with 52.7% men and 47.3% women.
@@ -10,14 +10,14 @@ Patients were 98% Caucasian, 1.1% Black, 0.4% Asian and 0.4% others.
 Lovenox 40 mg SC, administered once a day, beginning 2 hours prior to surgery and continuing for a maximum of 12 days after surgery, was comparable to heparin 5000 U every 8 hours SC in reducing the risk of DVT.
 The efficacy data are provided below [see Table 14].
 
-Table 14 Efficacy of Lovenox in the Prophylaxis of DVT Following Abdominal Surgery
+Table 14 Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis Following Abdominal Surgery
 
 | Lovenox 40 mg q.d. SC n (%) | Heparin 5000 U q8h SC n (%) |  |
 | --- | --- | --- |
 | Indication | Dosing Regimen |  |
 | All Treated Abdominal Surgery Patients | 555 (100) | 560 (100) |
 | Treatment Failures |  |  |
-| Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 56 (10.1) (95% CICI = Confidence Interval: 8 to 13) | 63 (11.3) (95% CI: 9 to 14) |
+| Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin (%) | 56 (10.1) (95% CICI = Confidence Interval: 8 to 13) | 63 (11.3) (95% CI: 9 to 14) |
 | DVT Only (%) | 54 (9.7) (95% CI: 7 to 12) | 61 (10.9) (95% CI: 8 to 13) |
 
 In a second double-blind, parallel group study, Lovenox 40 mg SC once a day was compared to heparin 5000 U every 8 hours SC in patients undergoing colorectal surgery (one-third with cancer).
@@ -33,10 +33,10 @@ Table 15 Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis Followin
 | Indication | Dosing Regimen |  |
 | All Treated Colorectal Surgery Patients | 673 (100) | 674 (100) |
 | Treatment Failures |  |  |
-| Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 48 (7.1) (95% CICI = Confidence Interval: 5 to 9) | 45 (6.7) (95% CI: 5 to 9) |
+| Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin (%) | 48 (7.1) (95% CICI = Confidence Interval: 5 to 9) | 45 (6.7) (95% CI: 5 to 9) |
 | DVT Only (%) | 47 (7.0) (95% CI: 5 to 9) | 44 (6.5) (95% CI: 5 to 8) |
 
-## 14.2 Prophylaxis of Deep Vein Thrombosis (DVT) Following Hip or Knee Replacement Surgery
+## 14.2 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 Lovenox has been shown to reduce the risk of post-operative deep vein thrombosis (DVT) following hip or knee replacement surgery.
 
@@ -123,9 +123,9 @@ A total of 262 patients were randomized in the study double-blind phase and all 
 Patients ranged in age from 44 to 87 years (mean age 68.5 years) with 43.1% men and 56.9% women.
 Similar to the first study the incidence of DVT during extended prophylaxis was significantly lower for Lovenox compared to placebo, with a statistically significant difference in both total DVT (Lovenox 21 [16%] versus placebo 45 [34%]; p = 0.001) and proximal DVT (Lovenox 8 [6%] versus placebo 28 [21%]; p = <0.001).
 
-## 14.3 Prophylaxis of Deep Vein Thrombosis (DVT) In Medical Patients with Severely Restricted Mobility During Acute Illness
+## 14.3 Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility During Acute Illness
 
-In a double blind multicenter, parallel group study, Lovenox 20 mg or 40 mg once a day SC was compared to placebo in the prophylaxis of DVT in medical patients with severely restricted mobility during acute illness (defined as walking distance of <10 meters for ≤3 days).
+In a double blind multicenter, parallel group study, Lovenox 20 mg or 40 mg once a day SC was compared to placebo in the prophylaxis of deep vein thrombosis (DVT) in medical patients with severely restricted mobility during acute illness (defined as walking distance of <10 meters for ≤3 days).
 This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency (not requiring ventilatory support): acute infection (excluding septic shock); or acute rheumatic disorder [acute lumbar or sciatic pain, vertebral compression (due to osteoporosis or tumor), acute arthritic episodes of the lower extremities].
 A total of 1102 patients were enrolled in the study, and 1073 patients were treated.
 Patients ranged in age from 40 to 97 years (mean age 73 years) with equal proportions of men and women.
@@ -133,22 +133,22 @@ Treatment continued for a maximum of 14 days (median duration 7 days).
 When given at a dose of 40 mg once a day SC, Lovenox significantly reduced the incidence of DVT as compared to placebo.
 The efficacy data are provided below [see Table 20].
 
-Table 20 Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis in Medical Patients With Severely Restricted Mobility During Acute Illness
+Table 20 Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility During Acute Illness
 
 | Lovenox 20 mg q.d. SC n (%) | Lovenox 40 mg q.d. SC n (%) | Placebo n (%) |  |
 | --- | --- | --- | --- |
 | Indication | Dosing Regimen |  |  |
 | All Treated Medical Patients During Acute Illness | 351 (100) | 360 (100) | 362 (100) |
-| Treatment FailureTreatment failures during therapy, between Days 1 and 14. |  |  |  |
-| Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
+| Treatment FailureTreatment failures during therapy, between Days 1 and 14 |  |  |  |
+| Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
 | Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval 8.8 to 15.7) | 16 (4.4) (95% CI 2.3 to 6.6) | 41 (11.3) (95% CI 8.1 to 14.6) |
 | Proximal DVT (%) | 13 (3.7) | 5 (1.4) | 14 (3.9) |
 
 At approximately 3 months following enrollment, the incidence of venous thromboembolism remained significantly lower in the Lovenox 40 mg treatment group versus the placebo treatment group.
 
-## 14.4 Treatment of Deep Vein Thrombosis (DVT) with or without Pulmonary Embolism (PE)
+## 14.4 Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
 
-In a multicenter, parallel group study, 900 patients with acute lower extremity DVT with or without PE were randomized to an inpatient (hospital) treatment of either (i) Lovenox 1.5 mg/kg once a day SC, (ii) Lovenox 1 mg/kg every 12 hours SC, or (iii) heparin IV bolus (5000 IU) followed by a continuous infusion (administered to achieve an aPTT of 55 to 85 seconds).
+In a multicenter, parallel group study, 900 patients with acute lower extremity deep vein thrombosis (DVT) with or without pulmonary embolism (PE) were randomized to an inpatient (hospital) treatment of either (i) Lovenox 1.5 mg/kg once a day SC, (ii) Lovenox 1 mg/kg every 12 hours SC, or (iii) heparin IV bolus (5000 IU) followed by a continuous infusion (administered to achieve an aPTT of 55 to 85 seconds).
 A total of 900 patients were randomized in the study and all patients were treated.
 Patients ranged in age from 18 to 92 years (mean age 60.7 years) with 54.7% men and 45.3% women.
 All patients also received warfarin sodium (dose adjusted according to PT to achieve an International Normalization Ratio [INR] of 2.0 to 3.0), commencing within 72 hours of initiation of Lovenox or standard heparin therapy, and continuing for 90 days.
@@ -156,14 +156,14 @@ Lovenox or standard heparin therapy was administered for a minimum of 5 days and
 Both Lovenox regimens were equivalent to standard heparin therapy in reducing the risk of recurrent venous thromboembolism (DVT and/or PE).
 The efficacy data are provided below [see Table 21].
 
-Table 21 Efficacy of Lovenox in Treatment of Deep Vein Thrombosis With or Without Pulmonary Embolism
+Table 21 Efficacy of Lovenox in Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
 
 | Lovenox 1.5 mg/kg q.d. SC n (%) | Lovenox 1 mg/kg q12h SC n (%) | Heparin aPTT Adjusted IV Therapy n (%) |  |
 | --- | --- | --- | --- |
 | Indication | Dosing RegimenAll patients were also treated with warfarin sodium commencing within 72 hours of Lovenox or standard heparin therapy. |  |  |
 | All Treated DVT Patients with or without PE | 298 (100) | 312 (100) | 290 (100) |
 | Patient Outcome |  |  |  |
-| Total VTEVTE = venous thromboembolic event (DVT and/or PE). (%) | 13 (4.4)The 95% Confidence Intervals for the treatment differences for total VTE were: Lovenox once a day versus heparin (-3.0 to 3.5) Lovenox every 12 hours versus heparin (-4.2 to 1.7). | 9 (2.9) | 12 (4.1) |
+| Total VTEVTE = venous thromboembolic event (DVT and/or PE) (%) | 13 (4.4)The 95% Confidence Intervals for the treatment differences for total VTE were: Lovenox once a day versus heparin (-3.0 to 3.5) Lovenox every 12 hours versus heparin (-4.2 to 1.7). | 9 (2.9) | 12 (4.1) |
 | DVT Only (%) | 11 (3.7) | 7 (2.2) | 8 (2.8) |
 | Proximal DVT (%) | 9 (3.0) | 6 (1.9) | 7 (2.4) |
 | PE (%) | 2 (0.7) | 2 (0.6) | 4 (1.4) |
@@ -236,15 +236,15 @@ In a survey one year following treatment, with information available for 92% of 
 
 Urgent revascularization procedures were performed less frequently in the Lovenox group as compared to the heparin group, 6.3% compared to 8.2% at 30 days (p = 0.047).
 
-## 14.6 Treatment of acute ST-segment Elevation Myocardial Infarction (STEMI)
+## 14.6 Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
-In a multicenter, double-blind, double-dummy, parallel group study, patients with STEMI who were to be hospitalized within 6 hours of onset and were eligible to receive fibrinolytic therapy were randomized in a 1:1 ratio to receive either Lovenox or unfractionated heparin.
+In a multicenter, double-blind, double-dummy, parallel group study, patients with acute ST-segment elevation myocardial infarction (STEMI) who were to be hospitalized within 6 hours of onset and were eligible to receive fibrinolytic therapy were randomized in a 1:1 ratio to receive either Lovenox or unfractionated heparin.
 
 Study medication was initiated between 15 minutes before and 30 minutes after the initiation of fibrinolytic therapy.
 Unfractionated heparin was administered beginning with an IV bolus of 60 U/kg (maximum 4000 U) and followed with an infusion of 12 U/kg per hour (initial maximum 1000 U per hour) that was adjusted to maintain an aPTT of 1.5 to 2 times the control value.
 The IV infusion was to be given for at least 48 hours.
 The enoxaparin dosing strategy was adjusted according to the patient's age and renal function.
-For patients younger than 75 years of age, enoxaparin was given as a single 30-mg intravenous bolus plus a 1 mg/kg SC dose followed by an SC injection of 1 mg/kg every 12 hours.
+For patients younger than 75 years of age, enoxaparin was given as a single 30 mg intravenous bolus plus a 1 mg/kg SC dose followed by an SC injection of 1 mg/kg every 12 hours.
 For patients at least 75 years of age, the IV bolus was not given and the SC dose was reduced to 0.75 mg/kg every 12 hours.
 For patients with severe renal insufficiency (estimated creatinine clearance of less than 30 mL per minute), the dose was to be modified to 1 mg/kg every 24 hours.
 The SC injections of enoxaparin were given until hospital discharge or for a maximum of eight days (whichever came first).
@@ -252,7 +252,7 @@ The mean treatment duration for enoxaparin was 6.6 days.
 The mean treatment duration of unfractionated heparin was 54 hours.
 
 When percutaneous coronary intervention was performed during study medication period, patients received antithrombotic support with blinded study drug.
-For patients on enoxaparin, the PCI was to be performed on enoxaparin (no switch) using the regimen established in previous studies, i.e. no additional dosing, if the last SC administration was less than 8 hours before balloon inflation, IV bolus of 0.3 mg/kg enoxaparin if the last SC administration was more than 8 hours before balloon inflation
+For patients on enoxaparin, the PCI was to be performed on enoxaparin (no switch) using the regimen established in previous studies, i.e. no additional dosing, if the last SC administration was less than 8 hours before balloon inflation, IV bolus of 0.3 mg/kg enoxaparin if the last SC administration was more than 8 hours before balloon inflation.
 
 All patients were treated with aspirin for a minimum of 30 days.
 Eighty percent of patients received a fibrin-specific agent (19% tenecteplase, 5% reteplase and 55% alteplase) and 20% received streptokinase.
@@ -266,10 +266,9 @@ The MI at entry was anterior in 43%, non-anterior in 56%, and both in 1%.
 The primary efficacy end point was the composite of death from any cause or myocardial re-infarction in the first 30 days after randomization.
 Total follow-up was one year.
 
-The rate of the primary efficacy end point (death or myocardial re-infarction) was 9.9% in the enoxaparin group, and 12.0% in the unfractionated heparin group, a 17% reduction in the relative risk, (P=0.000003).
-[see Table 25]
+The rate of the primary efficacy end point (death or myocardial re-infarction) was 9.9% in the enoxaparin group, and 12.0% in the unfractionated heparin group, a 17% reduction in the relative risk, (P=0.000003) [see Table 25].
 
-Table 25 Efficacy of Lovenox Injection in the treatment of acute ST-segment Elevation Myocardial Infarction
+Table 25 Efficacy of Lovenox in the Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
 |  | Enoxaparin (N=10,256) | UFH (N=10,223) | Relative Risk (95% CI) | P Value |
 | --- | --- | --- | --- | --- |
@@ -296,16 +295,13 @@ Table 25 Efficacy of Lovenox Injection in the treatment of acute ST-segment Elev
 
 The beneficial effect of enoxaparin on the primary end point was consistent across key subgroups including age, gender, infarct location, history of diabetes, history of prior myocardial infarction, fibrinolytic agent administered, and time to treatment with study drug (see Figure 1); however, it is necessary to interpret such subgroup analyses with caution.
 
-Figure 1.
-Relative Risks of and Absolute Event Rates for the Primary End Point at 30 Days in Various SubgroupsThe primary efficacy end point was the composite of death from any cause or myocardial re-infarction in the first 30 days.
-The overall treatment effect of enoxaparin as compared to the unfractionated heparin is shown at the bottom of the figure.
-For each subgroup, the circle is proportional to the number and represents the point estimate of the treatment effect and the horizontal lines represent the 95 percent confidence intervals.
-Fibrin-specific fibrinolytic agents included alteplase, tenecteplase and reteplase.
-Time to treatment indicates the time from the onset of symptoms to the administration of study drug (median, 3.2 hours).
+| Figure 1. Relative Risks of and Absolute Event Rates for the Primary End Point at 30 Days in Various Subgroups The primary efficacy end point was the composite of death from any cause or myocardial re-infarction in the first 30 days. The overall treatment effect of enoxaparin as compared to the unfractionated heparin is shown at the bottom of the figure. For each subgroup, the circle is proportional to the number and represents the point estimate of the treatment effect and the horizontal lines represent the 95 percent confidence intervals. Fibrin-specific fibrinolytic agents included alteplase, tenecteplase and reteplase. Time to treatment indicates the time from the onset of symptoms to the administration of study drug (median, 3.2 hours). |
+| --- |
 
 The beneficial effect of enoxaparin on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period (see Figure 2).
 
-Figure 2 - Kaplan-Meier plot - death or myocardial re-infarction at 30 days - ITT population
+| Figure 2 - Kaplan-Meier plot - death or myocardial re-infarction at 30 days - ITT population |
+| --- |
 
 There is a trend in favor of enoxaparin during the first 48 hours, but most of the treatment difference is attributed to a step increase in the event rate in the UFH group at 48 hours (seen in Figure 2), an effect that is more striking when comparing the event rates just prior to and just subsequent to actual times of discontinuation.
 These results provide evidence that UFH was effective and that it would be better if used longer than 48 hours.

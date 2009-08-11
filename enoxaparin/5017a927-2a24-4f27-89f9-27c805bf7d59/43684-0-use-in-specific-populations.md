@@ -4,30 +4,31 @@
 
 Pregnancy Category B
 
-All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
-The fetal risk summary below describes the potential of Lovenox to increase the risk of developmental abnormalities above background risk.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcome regardless of drug exposure.
+The fetal risk summary below describes the potential of Lovenox to increase the risk of developmental abnormalities above the background risk.
 
 Fetal Risk Summary
 
-Lovenox is not predicted to increase the risk of developmental abnormalities.
-Lovenox does not cross the placenta, based on human and animal studies, and shows no evidence of teratogenic effects or fetotoxicity.
-
-Cases of "Gasping Syndrome" have occurred in premature infants when large amounts of benzyl alcohol have been administered (99–405 mg/kg/day).
-The multiple-dose vial of Lovenox contains 15 mg benzyl alcohol per 1 mL as a preservative [see Warnings and Precautions (5.8)].
+Lovenox does not cross the placenta, and is not expected to result in fetal exposure to the drug.
+Human data from a retrospective cohort study, which included 693 live births, suggest that Lovenox does not increase the risk of major developmental abnormalities.
+Based on animal data, enoxaparin is not predicted to increase the risk of major developmental abnormalities (see Data).
 
 Clinical Considerations
-
-It is not known if either dose adjustment or monitoring of anti-Xa activity of enoxaparin are necessary during pregnancy.
 
 Pregnancy alone confers an increased risk for thromboembolism that is even higher for women with thromboembolic disease and certain high risk pregnancy conditions.
 While not adequately studied, pregnant women with mechanical prosthetic heart valves may be at even higher risk for thrombosis [see Warnings and Precautions (5.7) and Use in Specific Populations (8.6)].
 Pregnant women with thromboembolic disease, including those with mechanical prosthetic heart valves and those with inherited or acquired thrombophilias, have an increased risk of other maternal complications and fetal loss regardless of the type of anticoagulant used.
 
-All patients receiving anticoagulants such as enoxaparin, including pregnant women, are at risk for bleeding.
+All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
 Pregnant women receiving enoxaparin should be carefully monitored for evidence of bleeding or excessive anticoagulation.
 Consideration for use of a shorter acting anticoagulant should be specifically addressed as delivery approaches [see Boxed Warning].
 Hemorrhage can occur at any site and may lead to death of mother and/or fetus.
 Pregnant women should be apprised of the potential hazard to the fetus and the mother if enoxaparin is administered during pregnancy.
+
+It is not known if monitoring of anti-Factor Xa activity and dose adjustment (by weight or anti-Factor Xa activity) of Lovenox affect the safety and the efficacy of the drug during pregnancy.
+
+Cases of "gasping syndrome" have occurred in premature infants when large amounts of benzyl alcohol have been administered (99–405 mg/kg/day).
+The multiple-dose vial of Lovenox contains 15 mg benzyl alcohol per 1 mL as a preservative [see Warnings and Precautions (5.8)].
 
 Data
 
@@ -45,14 +46,14 @@ Insufficient data, the underlying disease, and the possibility of inadequate ant
 
 A clinical study using enoxaparin in pregnant women with mechanical prosthetic heart valves has been conducted [see Warnings and Precautions (5.7)].
 
-- Animal Data - Teratology studies have been conducted in pregnant rats and rabbits at SC doses of enoxaparin up to 30 mg/kg/day or 211 mg/m2/day and 410 mg/m2/day, respectively.
+- Animal Data - Teratology studies have been conducted in pregnant rats and rabbits at SC doses of enoxaparin up to 15 times the recommended human dose (by comparison with 2 mg/kg as the maximum recommended daily dose).
   There was no evidence of teratogenic effects or fetotoxicity due to enoxaparin.
   Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## 8.3 Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Lovenox is administered to nursing women.
+It is not known whether Lovenox is excreted in human milk.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Lovenox, a decision should be made whether to discontinue nursing or discontinue Lovenox, taking into account the importance of Lovenox to the mother and the known benefits of nursing.
 
 ## 8.4 Pediatric Use
 
@@ -60,23 +61,23 @@ Safety and effectiveness of Lovenox in pediatric patients have not been establis
 
 ## 8.5 Geriatric Use
 
-Prevention of DVT in hip, knee and abdominal surgery; Treatment of DVT, Prevention of ischemic complications of unstable angina and non-Q-Wave myocardial infarction
+Prevention of Deep Vein Thrombosis in Hip, Knee and Abdominal Surgery; Treatment of Deep Vein Thrombosis, Prevention of Ischemic Complications of Unstable Angina and Non-Q-wave Myocardial Infarction
 
 Over 2800 patients, 65 years and older, have received Lovenox in pivotal clinical trials.
 The efficacy of Lovenox in the geriatric (≥65 years) was similar to that seen in younger patients (<65 years).
 The incidence of bleeding complications was similar between geriatric and younger patients when 30 mg every 12 hours or 40 mg once a day doses of Lovenox were employed.
 The incidence of bleeding complications was higher in geriatric patients as compared to younger patients when Lovenox was administered at doses of 1.5 mg/kg once a day or 1 mg/kg every 12 hours.
-The risk of Lovenox -associated bleeding increased with age.
+The risk of Lovenox-associated bleeding increased with age.
 Serious adverse events increased with age for patients receiving Lovenox.
 Other clinical experience (including postmarketing surveillance and literature reports) has not revealed additional differences in the safety of Lovenox between geriatric and younger patients.
 Careful attention to dosing intervals and concomitant medications (especially antiplatelet medications) is advised.
 Lovenox should be used with care in geriatric patients who may show delayed elimination of enoxaparin.
 Monitoring of geriatric patients with low body weight (<45 kg) and those predisposed to decreased renal function should be considered [see Warnings and Precautions (5.9) and Clinical Pharmacology (12.3)].
 
-Treatment of acute ST-segment Elevation Myocardial Infarction (STEMI)
+Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
-In the clinical study for treatment of acute STEMI, there was no evidence of difference in efficacy between patients ≥75 years of age (n = 1241) and patients less than 75 years of age (n=9015).
-Patients ≥75 years of age did not receive a 30-mg IV bolus prior to the normal dosage regimen and had their SC dose adjusted to 0.75 mg/kg every 12 hours [see Dosage and Administration (2.3)].
+In the clinical study for treatment of acute ST-segment elevation myocardial infarction, there was no evidence of difference in efficacy between patients ≥75 years of age (n = 1241) and patients less than 75 years of age (n=9015).
+Patients ≥75 years of age did not receive a 30 mg IV bolus prior to the normal dosage regimen and had their SC dose adjusted to 0.75 mg/kg every 12 hours [see Dosage and Administration (2.3)].
 The incidence of bleeding complications was higher in patients ≥65 years of age as compared to younger patients (<65 years).
 
 ## 8.6 Patients with Mechanical Prosthetic Heart Valves

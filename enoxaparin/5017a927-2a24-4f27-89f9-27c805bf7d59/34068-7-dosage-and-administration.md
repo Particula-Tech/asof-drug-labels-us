@@ -16,13 +16,13 @@ The usual duration of administration is 7 to 10 days; up to 12 days administrati
 Hip or Knee Replacement Surgery: In patients undergoing hip or knee replacement surgery, the recommended dose of Lovenox is 30 mg every 12 hours administered by SC injection.
 Provided that hemostasis has been established, the initial dose should be given 12 to 24 hours after surgery.
 For hip replacement surgery, a dose of 40 mg once a day SC, given initially 12 (±3) hours prior to surgery, may be considered.
-Following the initial phase of thromboprophylaxis in hip replacement surgery patients, it is recommended that continued prophylaxis with Lovenox 40 mg once a day is administered by SC injection for 3 weeks.
+Following the initial phase of thromboprophylaxis in hip replacement surgery patients, it is recommended that continued prophylaxis with Lovenox 40 mg once a day be administered by SC injection for 3 weeks.
 The usual duration of administration is 7 to 10 days; up to 14 days administration has been administered in clinical trials.
 
 Medical Patients During Acute Illness: In medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness, the recommended dose of Lovenox is 40 mg once a day administered by SC injection.
 The usual duration of administration is 6 to 11 days; up to 14 days of Lovenox has been administered in the controlled clinical trial.
 
-Treatment of Deep Vein Thrombosis With or Without Pulmonary Embolism: In outpatient treatment, patients with acute deep vein thrombosis without pulmonary embolism who can be treated at home, the recommended dose of Lovenox is 1 mg/kg every 12 hours administered SC.
+Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism: In outpatient treatment, patients with acute deep vein thrombosis without pulmonary embolism who can be treated at home, the recommended dose of Lovenox is 1 mg/kg every 12 hours administered SC.
 In inpatient (hospital) treatment, patients with acute deep vein thrombosis with pulmonary embolism or patients with acute deep vein thrombosis without pulmonary embolism (who are not candidates for outpatient treatment), the recommended dose of Lovenox is 1 mg/kg every 12 hours administered SC or 1.5 mg/kg once a day administered SC at the same time every day.
 In both outpatient and inpatient (hospital) treatments, warfarin sodium therapy should be initiated when appropriate (usually within 72 hours of Lovenox).
 Lovenox should be continued for a minimum of 5 days and until a therapeutic oral anticoagulant effect has been achieved (International Normalization Ratio 2.0 to 3.0).
@@ -30,18 +30,17 @@ The average duration of administration is 7 days; up to 17 days of Lovenox admin
 
 Unstable Angina and Non-Q-Wave Myocardial Infarction: In patients with unstable angina or non-Q-wave myocardial infarction, the recommended dose of Lovenox is 1 mg/kg administered SC every 12 hours in conjunction with oral aspirin therapy (100 to 325 mg once daily).
 Treatment with Lovenox should be prescribed for a minimum of 2 days and continued until clinical stabilization.
-The usual duration of treatment is 2 to 8 days; up to 12.5 days of Lovenox has been administered in clinical trials.
-[See Warnings and Precautions (5.2) and Clinical Studies (14.5)].
+The usual duration of treatment is 2 to 8 days; up to 12.5 days of Lovenox has been administered in clinical trials [see Warnings and Precautions (5.2) and Clinical Studies (14.5)].
 
-Treatment of acute ST-segment Elevation Myocardial Infarction: In patients with acute ST-segment Elevation Myocardial Infarction, the recommended dose of Lovenox is a single IV bolus of 30 mg plus a 1 mg/kg SC dose followed by 1 mg/kg administered SC every 12 hours (maximum 100 mg for the first two doses only, followed by 1 mg/kg dosing for the remaining doses).
+Treatment of Acute ST-Segment Elevation Myocardial Infarction: In patients with acute ST-segment elevation myocardial infarction, the recommended dose of Lovenox is a single IV bolus of 30 mg plus a 1 mg/kg SC dose followed by 1 mg/kg administered SC every 12 hours (maximum 100 mg for the first two doses only, followed by 1 mg/kg dosing for the remaining doses).
 Dosage adjustments are recommended in patients ≥75 years of age [see Dosage and Administration (2.3)].
+All patients should receive aspirin as soon as they are identified as having STEMI and maintained with 75 to 325 mg once daily unless contraindicated.
 
 When administered in conjunction with a thrombolytic (fibrin-specific or non-fibrin specific), Lovenox should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
-All patients should receive acetylsalicylic acid (ASA) as soon as they are identified as having STEMI and maintained with 75 to 325 mg once daily unless contraindicated.
 In the pivotal clinical study, the Lovenox treatment duration was 8 days or until hospital discharge, whichever came first.
 An optimal duration of treatment is not known, but it is likely to be longer than 8 days.
 
-For patients managed with Percutaneous Coronary Intervention (PCI): If the last Lovenox SC administration was given less than 8 hours before balloon inflation, no additional dosing is needed.
+For patients managed with percutaneous coronary intervention (PCI): If the last Lovenox SC administration was given less than 8 hours before balloon inflation, no additional dosing is needed.
 If the last Lovenox SC administration was given more than 8 hours before balloon inflation, an IV bolus of 0.3 mg/kg of Lovenox should be administered [see Warnings and Precautions (5.2)].
 
 ## 2.2 Renal Impairment
@@ -61,13 +60,13 @@ Table 1
 | Inpatient treatment of acute deep vein thrombosis with or without pulmonary embolism, when administered in conjunction with warfarin sodium | 1 mg/kg administered SC once daily |
 | Outpatient treatment of acute deep vein thrombosis without pulmonary embolism, when administered in conjunction with warfarin sodium | 1 mg/kg administered SC once daily |
 | Prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin | 1 mg/kg administered SC once daily |
-| Treatment of acute ST-segment Elevation Myocardial Infarction in patients <75 years of age | 30-mg single IV bolus plus a 1 mg/kg SC dose followed by 1 mg/kg administered SC once daily. |
-| Treatment of acute ST-segment Elevation Myocardial Infarction in geriatric patients ≥75 years of age | 1 mg/kg administered SC once daily (no initial bolus) |
+| Treatment of acute ST-segment elevation myocardial infarction in patients <75 years of age, when administered in conjunction with aspirin | 30 mg single IV bolus plus a 1 mg/kg SC dose followed by 1 mg/kg administered SC once daily. |
+| Treatment of acute ST-segment elevation myocardial infarction in geriatric patients ≥75 years of age, when administered in conjunction with aspirin | 1 mg/kg administered SC once daily (no initial bolus) |
 
-## 2.3 Geriatric patients with acute ST-segment Elevation Myocardial Infarction
+## 2.3 Geriatric Patients with Acute ST-Segment Elevation Myocardial Infarction
 
-For treatment of acute ST-segment Elevation Myocardial Infarction in geriatric patients ≥75 years of age, do not use an initial IV bolus.
-Initiate dosing with 0.75 mg/kg SC every 12 hours (maximum 75 mg for the first two doses only, followed by 0.75 mg/kg dosing for the remaining doses)[see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
+For treatment of acute ST-segment elevation myocardial infarction in geriatric patients ≥75 years of age, do not use an initial IV bolus.
+Initiate dosing with 0.75 mg/kg SC every 12 hours (maximum 75 mg for the first two doses only, followed by 0.75 mg/kg dosing for the remaining doses) [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 
 No dose adjustment is necessary for other indications in geriatric patients unless kidney function is impaired [see Dosage and Administration (2.2)].
 
@@ -89,7 +88,7 @@ Administration should be alternated between the left and right anterolateral and
 The whole length of the needle should be introduced into a skin fold held between the thumb and forefinger; the skin fold should be held throughout the injection.
 To minimize bruising, do not rub the injection site after completion of the injection.
 
-Lovenox prefilled syringes and graduated prefilled syringes are available with a system that shields the needle after injection.
+Lovenox prefilled syringes and graduated prefilled syringes are for single, one-time use only and are available with a system that shields the needle after injection.
 
 1. Remove the needle shield by pulling it straight off the syringe (see Figure A). If adjusting the dose is required, the dose adjustment must be done prior to injecting the prescribed dose to the patient.
    Figure A

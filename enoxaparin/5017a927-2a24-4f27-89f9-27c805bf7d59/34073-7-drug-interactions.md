@@ -1,5 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-Unless really needed, agents which may enhance the risk of hemorrhage should be discontinued prior to initiation of Lovenox therapy.
+Whenever possible, agents which may enhance the risk of hemorrhage should be discontinued prior to initiation of Lovenox therapy.
 These agents include medications such as: anticoagulants, platelet inhibitors including acetylsalicylic acid, salicylates, NSAIDs (including ketorolac tromethamine), dipyridamole, or sulfinpyrazone.
 If co-administration is essential, conduct close clinical and laboratory monitoring [see Warnings and Precautions (5.9)].
