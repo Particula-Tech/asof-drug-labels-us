@@ -11,6 +11,11 @@ The safety and pharmacokinetic properties of ivermectin were further assessed in
 Subjects received oral doses of 30 to 120 mg (333 to 2000 mcg/kg) ivermectin in a fasted state or 30 mg (333 to 600 mcg/kg) ivermectin following a standard high-fat (48.6 g of fat) meal.
 Administration of 30 mg ivermectin following a high-fat meal resulted in an approximate 2.5-fold increase in bioavailability relative to administration of 30 mg ivermectin in the fasted state.
 
+## Metabolism
+
+In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4.
+Depending on the in vitro method used, CYP2D6 and CYP2E1 were also shown to be involved in the metabolism of ivermectin but to a significantly lower extent compared to CYP3A4.
+
 ## Microbiology
 
 Ivermectin is a member of the avermectin class of broad-spectrum antiparasitic agents which have a unique mode of action.
