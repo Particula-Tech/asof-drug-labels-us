@@ -36,7 +36,7 @@ Special Populations:
 
 Hepatic Impairment: Following oral administration, pharmacokinetic parameters were not influenced by hepatic impairment.
 
-Renal Impairment: Based on oral, single-dose studies, renal insufficiency (creatinine clearance<50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to healthy subjects.
+Renal Impairment: Based on oral, single-dose studies, renal insufficiency (creatinine clearance <50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to healthy subjects.
 Time to maximum concentration was unchanged.
 
 Age: Following oral administration, pharmacokinetic parameters were not influenced by age.

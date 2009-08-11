@@ -14,7 +14,7 @@ For the primary efficacy endpoint, morning (AM) and evening (PM) rTNSS scores we
 (Table 2)
 
 Table 2.
-Mean Change from Baseline in Reflective TNSS Over 2 Weeks* in Adults and Children≥ 12 years with Seasonal Allergic Rhinitis
+Mean Change from Baseline in Reflective TNSS Over 2 Weeks* in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
 
 | Treatment (sprays per nostril twice daily) | n | Baseline LS Mean | Change from Baseline | Difference From Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

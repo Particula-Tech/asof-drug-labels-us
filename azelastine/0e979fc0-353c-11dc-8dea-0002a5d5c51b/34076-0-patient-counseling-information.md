@@ -14,7 +14,7 @@ Patients should be cautioned against engaging in hazardous occupations requiring
 
 ## 17.3 Concurrent Use of Alcohol and other Central Nervous System Depressants
 
-Concurrent use of ASTEPRO Nasal Spray with alcohol or other central nervous system depressants should be avoided because additional reductions in alertness and additional impairment of central nervous system performance may occur [See Warnings and Precautions(5.1)].
+Concurrent use of ASTEPRO Nasal Spray with alcohol or other central nervous system depressants should be avoided because additional reductions in alertness and additional impairment of central nervous system performance may occur [See Warnings and Precautions (5.1)].
 
 ## 17.4 Priming
 

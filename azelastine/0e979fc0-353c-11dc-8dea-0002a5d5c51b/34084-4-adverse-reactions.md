@@ -21,7 +21,7 @@ Overall, less than 1% of patients discontinued due to adverse reactions and with
 Table 1 contains adverse reactions reported with frequencies greater than 2% and more frequently than placebo in patients treated with ASTEPRO Nasal Spray in the controlled clinical trial described above.
 
 Table 1.
-Adverse Reactions Reported in>2% Patients in a 2 Week Controlled Trial in Adult and Adolescent Patients with Seasonal Allergic Rhinitis
+Adverse Reactions Reported in >2% Patients in a 2 Week Controlled Trial in Adult and Adolescent Patients with Seasonal Allergic Rhinitis
 
 |  | 1 spray twice daily |  |  | 2 sprays twice daily |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
