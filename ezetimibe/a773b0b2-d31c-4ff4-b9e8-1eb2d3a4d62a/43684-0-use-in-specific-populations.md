@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate and well-controlled studies of ezetimibe in pregnant women.
+Pregnancy Category C:
+
+There are no adequate and well-controlled studies of ezetimibe in pregnant women.
 Ezetimibe should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
 
 In oral (gavage) embryo-fetal development studies of ezetimibe conducted in rats and rabbits during organogenesis, there was no evidence of embryolethal effects at the doses tested (250, 500, 1000 mg/kg/day).
@@ -14,7 +16,8 @@ Multiple-dose studies of ezetimibe given in combination with statins in rats and
 Reproductive findings occur at lower doses in combination therapy compared to monotherapy.
 
 All statins are contraindicated in pregnant and nursing women.
-When ZETIA is administered with a statin in a woman of childbearing potential, refer to the pregnancy category and product labeling for the statin [see Contraindications (4)].
+When ZETIA is administered with a statin in a woman of childbearing potential, refer to the pregnancy category and product labeling for the statin.
+[See Contraindications (4).]
 
 ## 8.3 Nursing Mothers
 
@@ -43,8 +46,8 @@ TABLE 3: Mean Percent Difference at Week 6 Between the Pooled ZETIA Co-Administe
 
 From the start of the trial to the end of Week 33, discontinuations due to an adverse reaction occurred in 7 (6%) patients in the ZETIA co-administered with simvastatin group and in 2 (2%) patients in the simvastatin monotherapy group.
 
-During the trial, hepatic transaminase elevations (two consecutive measurements for ALT and/or AST ≥3 × ULN) occurred in 4 (3%) individuals in the ZETIA co-administered with simvastatin group and in 2 (2%) individuals in the simvastatin monotherapy group.
-Elevations of CPK (≥10 × ULN) occurred in 2 (2%) individuals in the ZETIA co-administered with simvastatin group and in zero individuals in the simvastatin monotherapy group.
+During the trial, hepatic transaminase elevations (two consecutive measurements for ALT and/or AST ≥3 × ULN) occurred in four (3%) individuals in the ZETIA co-administered with simvastatin group and in two (2%) individuals in the simvastatin monotherapy group.
+Elevations of CPK (≥10 × ULN) occurred in two (2%) individuals in the ZETIA co-administered with simvastatin group and in zero individuals in the simvastatin monotherapy group.
 
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
 
@@ -56,9 +59,13 @@ Pharmacokinetic data in the pediatric population <10 years of age are not availa
 
 ## 8.5 Geriatric Use
 
-Monotherapy Studies: Of the 2396 patients who received ZETIA in clinical studies, 669 (28%) were 65 and older, and 111 (5%) were 75 and older.
+Monotherapy Studies
 
-Statin Co-Administration Studies: Of the 11,308 patients who received ZETIA + statin in clinical studies, 3587 (32%) were 65 and older, and 924 (8%) were 75 and older.
+Of the 2396 patients who received ZETIA in clinical studies, 669 (28%) were 65 and older, and 111 (5%) were 75 and older.
+
+Statin Co-Administration Studies
+
+Of the 11,308 patients who received ZETIA + statin in clinical studies, 3587 (32%) were 65 and older, and 924 (8%) were 75 and older.
 
 No overall differences in safety and effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 
@@ -66,4 +73,4 @@ No overall differences in safety and effectiveness were observed between these p
 
 ZETIA is not recommended in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
-ZETIA given concomitantly with a statin is contraindicated in patients with active liver disease or unexplained persistent elevations of hepatic transaminase levels [see Contraindications (4), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+ZETIA given concomitantly with a statin is contraindicated in patients with active liver disease or unexplained persistent elevations of hepatic transaminase levels [see Contraindications (4); Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].

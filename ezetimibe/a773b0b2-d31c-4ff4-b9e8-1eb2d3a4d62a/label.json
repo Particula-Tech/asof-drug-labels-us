@@ -1,16 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021445"
+  ],
   "inn": "ezetimibe",
-  "labeler": "Merck/Schering-Plough Pharmaceuticals",
+  "labeler": "MSP Distribution Services (C) LLC",
   "package_ndcs": [
+    "66582-414-15",
     "66582-414-28",
     "66582-414-29",
+    "66582-414-30",
     "66582-414-31",
     "66582-414-54",
     "66582-414-74",
     "66582-414-76"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "Zetia"
+    }
+  ],
   "setid": "a773b0b2-d31c-4ff4-b9e8-1eb2d3a4d62a",
   "source": "dailymed"
 }
