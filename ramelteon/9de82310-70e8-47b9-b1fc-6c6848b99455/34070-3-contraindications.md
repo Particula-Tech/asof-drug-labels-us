@@ -1,3 +1,5 @@
-# CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
-ROZEREM is contraindicated in patients with a hypersensitivity to ramelteon or any components of the ROZEREM formulation.
+Patients who develop angioedema after treatment with ROZEREM should not be rechallenged with the drug.
+
+Patients should not take ROZEREM in conjunction with fluvoxamine (Luvox) [see Drug Interactions (7)].

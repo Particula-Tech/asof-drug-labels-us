@@ -1,37 +1,34 @@
-# ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## Overview
+The following serious adverse reactions are discussed in greater detail in other sections:
 
-The data described in this section reflect exposure to ROZEREM in 4251 subjects, including 346 exposed for 6 months or longer, and 473 subjects for one year.
+- Severe anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.1)]
+- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
+- CNS effects [see Warnings and Precautions (5.4)]
 
-## Adverse Reactions Resulting in Discontinuation of Treatment
+## 6.1Clinical Trials Experience
 
-Six percent of the 3594 individual subjects exposed to ROZEREM in clinical studies discontinued treatment owing to an adverse event, compared with 2% of the 1370 subjects receiving placebo.
-The most frequent adverse events leading to discontinuation in subjects receiving ROZEREM were somnolence (0.8%), dizziness (0.5%), nausea (0.3%), fatigue (0.3%), headache (0.3%), and insomnia (0.3%).
+Adverse Reactions Resulting in Discontinuation of Treatment
 
-## ROZEREM Most Commonly Observed Adverse Events in Phase 1-3 trials
+The data described in this section reflect exposure to ROZEREM in 5373 subjects, including 722 exposed for 6 months or longer, and 448 subjects for one year.
 
-Table 1 displays the incidence of adverse events during the Phase 1 through 3 trials.
+Six percent of the 5373 individual subjects exposed to ROZEREM in clinical studies discontinued treatment owing to an adverse event, compared with 2% of the 2279 subjects receiving placebo.
+The most frequent adverse events leading to discontinuation in subjects receiving ROZEREM were somnolence, dizziness, nausea, fatigue, headache, and insomnia; all of which occurred in 1% of the patients or less.
+
+ROZEREM Most Commonly Observed Adverse Events
+
+Table 1 displays the incidence of adverse events reported by the 2861 patients with chronic insomnia who participated in placebo-controlled trials of ROZEREM.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of other drugs, and may not reflect the rates observed in practice.
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
 Table 1.
-Incidence (% of subjects) of Treatment-Emergent Adverse Events in Phase 1-3 Studies
+Incidence (% of subjects) of Treatment-Emergent Adverse Events
 
-| MedDRA Preferred Term | Placebo (n=1370) | Ramelteon 8 mg (n=1250) |
+| MedDRA Preferred Term | Placebo (n=1456) | Ramelteon 8 mg (n=1405) |
 | --- | --- | --- |
-| Headache NOS | 7% | 7% |
-| Somnolence | 3% | 5% |
-| Fatigue | 2% | 4% |
-| Dizziness | 3% | 5% |
+| Somnolence | 2% | 3% |
+| Fatigue | 2% | 3% |
+| Dizziness | 3% | 4% |
 | Nausea | 2% | 3% |
 | Insomnia exacerbated | 2% | 3% |
-| Upper respiratory tract infection NOS | 2% | 3% |
-| Diarrhea NOS | 2% | 2% |
-| Myalgia | 1% | 2% |
-| Depression | 1% | 2% |
-| Dysgeusia | 1% | 2% |
-| Arthralgia | 1% | 2% |
-| Influenza | 0 | 1% |
-| Blood cortisol decreased | 0 | 1% |
