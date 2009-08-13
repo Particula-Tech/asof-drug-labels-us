@@ -30,4 +30,4 @@ There were no deaths of pediatric patients.
 None of the pediatric patients receiving I.V. acetylcysteine developed hepatotoxicity while two patients not receiving I.V. acetylcysteine developed hepatotoxicity.
 The number of pediatric patients is too small to provide a statistically significant finding of efficacy, however the results appear to be consistent to those observed for adults.
 
-Postmarketing Safety Study[see 6.1 Clinical Studies Experience]
+Postmarketing Safety Study [see 6.1 Clinical Studies Experience]

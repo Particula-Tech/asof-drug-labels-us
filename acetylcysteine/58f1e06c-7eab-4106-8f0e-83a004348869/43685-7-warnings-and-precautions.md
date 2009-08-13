@@ -19,7 +19,7 @@ Acetadote should be used with caution in patients with asthma, or where there is
 ## 5.3 Volume Adjustment: Patients <40kg and Requiring Fluid Restriction
 
 The total volume administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction.
-To avoid fluid overload, the volume of 5% dextrose should be reduced as needed [see Dosage and Administration (2)].
-If volume is not adjusted fluid overload can occur, potentially resulting in hyponatremia, seizure, and death.
+To avoid fluid overload, the volume of diluent should be reduced as needed [see Dosage and Administration (2)].
+If volume is not adjusted fluid overload can occur, potentially resulting in hyponatremia, seizure and death.
 
 For specific treatment information regarding the clinical management of acetaminophen overdose, please contact your regional poison center at 1-800-222-1222, or alternatively, a special health professional assistance line for acetaminophen overdose at 1-800-525-6115.

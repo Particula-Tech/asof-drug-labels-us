@@ -27,7 +27,7 @@ The steady-state volume of distribution (Vdss) and the protein binding for acety
 
 Metabolism:
 
-Acetylcysteine may form cysteine, disulfides, and conjugates in vivo (N, N'-diacetylcysteine, N-acetylcysteine-cysteine, N-acetylcysteine-glutathione, N-acetylcysteine-protein, etc). Based on published data, it was reported that after an oral dose of 35S-acetylcysteine, about 22% of total radioactivity was excreted in urine after 24 hours.
+Acetylcysteine may form cysteine, disulfides and conjugates in vivo (N, N'-diacetylcysteine, N-acetylcysteine-cysteine, N-acetylcysteine-glutathione, N-acetylcysteine-protein, etc). Based on published data, it was reported that after an oral dose of 35S-acetylcysteine, about 22% of total radioactivity was excreted in urine after 24 hours.
 No metabolites were identified.
 
 Elimination:
@@ -43,8 +43,7 @@ Pediatric: The mean elimination T1/2 of acetylcysteine is longer in newborns (11
 Pharmacokinetic information is not available in other age groups.
 
 Pregnant Women: In four pregnant women with acetaminophen toxicity, oral or I.V. acetylcysteine was administered at the time of delivery.
-Acetylcysteine was detected in the cord blood of 3 viable infants and in cardiac blood of a fourth infant sampled at autopsy.
-[see Pregnancy (8.1)]
+Acetylcysteine was detected in the cord blood of 3 viable infants and in cardiac blood of a fourth infant sampled at autopsy [see Pregnancy (8.1)].
 
 Hepatic Impairment: In subjects with severe liver damage, i.e., cirrhosis due to alcohol (with Child-Pugh score of 7-13), or primary and/or secondary biliary cirrhosis (with Child-Pugh score of 5-7), mean T1/2 increased by 80% while mean CL decreased by 30% compared to the control group.
 

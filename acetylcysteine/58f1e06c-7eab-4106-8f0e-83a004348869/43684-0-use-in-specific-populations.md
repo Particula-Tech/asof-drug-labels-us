@@ -5,15 +5,14 @@
 Pregnancy Category B
 
 There are no adequate and well-controlled studies of Acetadote in pregnant women.
-However, limited case reports of pregnant women exposed to acetylcysteine during various trimesters did not report any adverse maternal, fetal, or neonatal outcomes.
+However, limited case reports of pregnant women exposed to acetylcysteine during various trimesters did not report any adverse maternal, fetal or neonatal outcomes.
 
 There are published reports on four pregnant women with acetaminophen toxicity, who were treated with oral or intravenous acetylcysteine at the time of delivery.
 Acetylcysteine crossed the placenta and was measurable following delivery in serum and cord blood of three viable infants and in cardiac blood of a fourth infant at autopsy (22 weeks gestational age who died 3 hours after birth).
 No adverse sequelae developed in the three viable infants.
 All mothers recovered and none of the infants had evidence of acetaminophen poisoning.
 
-Reproductive and developmental toxicity studies performed in rats at oral doses up to 6.7 times the recommended human intravenous dose and in rabbits at doses up to 3.3 times the recommended human intravenous dose revealed no evidence of impaired fertility or embryofetal toxicity.
-[see Reproductive and Developmental Toxicology (13.3)]
+Reproductive and developmental toxicity studies performed in rats at oral doses up to 6.7 times the recommended human intravenous dose and in rabbits at doses up to 3.3 times the recommended human intravenous dose revealed no evidence of impaired fertility or embryofetal toxicity [see Reproductive and Developmental Toxicology (13.3)].
 
 ## 8.3 Nursing mothers
 

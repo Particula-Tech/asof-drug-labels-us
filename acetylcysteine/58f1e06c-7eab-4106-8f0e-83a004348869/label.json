@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021539"
+  ],
   "inn": "acetylcysteine",
   "labeler": "Cumberland Pharmaceuticals Inc.",
   "package_ndcs": [
     "66220-107-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetylcysteine",
+      "name": "Acetadote"
+    }
+  ],
   "setid": "58f1e06c-7eab-4106-8f0e-83a004348869",
   "source": "dailymed"
 }
