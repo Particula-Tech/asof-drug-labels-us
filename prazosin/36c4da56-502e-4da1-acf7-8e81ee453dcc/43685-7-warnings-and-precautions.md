@@ -44,6 +44,8 @@ MINIPRESS has been administered without any adverse drug interaction in limited 
 Addition of a diuretic or other antihypertensive agent to MINIPRESS has been shown to cause an additive hypotensive effect.
 This effect can be minimized by reducing the MINIPRESS dose to 1 to 2 mg three times a day, by introducing additional antihypertensive drugs cautiously, and then by retitrating MINIPRESS based on clinical response.
 
+Concomitant administration of MINIPRESS with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension (see DOSAGE AND ADMINISTRATION).
+
 ## Drug/Laboratory Test Interactions
 
 In a study on five patients given from 12 to 24 mg of prazosin per day for 10 to 14 days, there was an average increase of 42% in the urinary metabolite of norepinephrine and an average increase in urinary VMA of 17%.

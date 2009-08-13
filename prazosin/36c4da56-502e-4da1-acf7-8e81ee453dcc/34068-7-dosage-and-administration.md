@@ -17,3 +17,5 @@ After initial titration some patients can be maintained adequately on a twice da
 ## Use With Other Drugs
 
 When adding a diuretic or other antihypertensive agent, the dose of MINIPRESS should be reduced to 1 mg or 2 mg three times a day and retitration then carried out.
+
+Concomitant administration of MINIPRESS with a PDE-5 inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension; therefore, PDE-5 inhibitor therapy should be initiated at the lowest dose in patients taking MINIPRESS.
