@@ -115,9 +115,9 @@ CIALIS is metabolized predominantly by CYP3A4 in the liver.
 The dose of CIALIS should be limited to 10 mg no more than once every 72 hours in patients taking potent inhibitors of CYP3A4 such as ritonavir, ketoconazole, and itraconazole [see Drug Interactions (7.2)].
 In patients taking potent inhibitors of CYP3A4 and CIALIS for once daily use, the dose of CIALIS should not exceed 2.5 mg [see Dosage and Administration (2.4)].
 
-## 5.11 Combination With Other Erectile Dysfunction Therapies
+## 5.11 Combination With Other PDE5 Inhibitors or Erectile Dysfunction Therapies
 
-The safety and efficacy of combinations of CIALIS and other treatments for erectile dysfunction have not been studied.
+The safety and efficacy of combinations of CIALIS and other PDE5 inhibitors or treatments for erectile dysfunction have not been studied.
 Therefore, the use of such combinations is not recommended.
 
 ## 5.12 Effects on Bleeding

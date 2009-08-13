@@ -28,7 +28,7 @@ Tell all of your healthcare providers that you take CIALIS.
 If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took CIALIS.
 
 After taking a single tablet, some of the active ingredient of CIALIS remains in your body for more than 2 days.
-The active ingredient can remain longer if you have problems with your kidneys or liver, or you are taking certain other medications (See “Can Other Medicines Affect CIALIS?”).
+The active ingredient can remain longer if you have problems with your kidneys or liver, or you are taking certain other medications (see “Can Other Medicines Affect CIALIS?”).
 
 Stop sexual activity and get medical help right away if you get symptoms such as chest pain, dizziness, or nausea during sex.
 Sexual activity can put an extra strain on your heart, especially if your heart is already weak from a heart attack or heart disease.
@@ -74,7 +74,7 @@ CIALIS is not right for everyone.
 Only your healthcare provider and you can decide if CIALIS is right for you.
 Before taking CIALIS, tell your healthcare provider about all your medical problems, including if you:
 
-- are allergic to CIALIS or any of its ingredients.
+- are allergic to CIALIS or ADCIRCA any of its ingredients.
   See the end of this leaflet for a complete list of ingredients in CIALIS.
 - have heart problems such as angina, heart failure, irregular heartbeats, or have had a heart attack.
   Ask your healthcare provider if it is safe for you to have sexual activity.
@@ -98,7 +98,7 @@ CIALIS and other medicines may affect each other.
 Always check with your healthcare provider before starting or stopping any medicines.
 Especially tell your healthcare provider if you take any of the following:*
 
-- medicines called nitrates (See “What Is The Most Important Information I Should Know About CIALIS?”)
+- medicines called nitrates (see “What Is The Most Important Information I Should Know About CIALIS?”)
 - medicines called alpha blockers.
   These include Hytrin® (terazosin HCl), Flomax® (tamsulosin HCl), Cardura® (doxazosin mesylate), Minipress® (prazosin HCl) or Uroxatral® (alfuzosin HCl).
   Alpha blockers are sometimes prescribed for prostate problems or high blood pressure.
@@ -110,6 +110,9 @@ Especially tell your healthcare provider if you take any of the following:*
 - itraconazole (Sporanox®)
 - erythromycin
 - other medicines or treatments for ED.
+- CIALIS is also marketed as ADCIRCA for the treatment of pulmonary arterial hypertension.
+  Do not take both CIALIS and ADCIRCA.
+  Do not take Revatio® with CIALIS.
 
 How Should I Take CIALIS?
 
@@ -210,10 +213,10 @@ CIALIS® (tadalafil) is a registered trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Literature revised January 7, 2008
+Literature revised July 28, 2009
 
 | Eli Lilly and Company Indianapolis, IN 46285, USA |  |
 | --- | --- |
 | www.cialis.com |  |
-| Copyright © 2003, 2008, Eli Lilly and Company. All rights reserved. |  |
-| PV 5225 AMP |  |
+| Copyright © 2003, 2009, Eli Lilly and Company. All rights reserved. |  |
+| PV 5226 AMP |  |
