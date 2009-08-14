@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 PROVERA® (medroxyprogesterone acetate tablets, USP)
 

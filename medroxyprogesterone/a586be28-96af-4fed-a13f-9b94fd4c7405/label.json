@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA011839"
+  ],
   "inn": "medroxyprogesterone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -9,7 +11,13 @@
     "0009-0064-06",
     "0009-0286-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "medroxyprogesterone acetate",
+      "name": "Provera"
+    }
+  ],
   "setid": "a586be28-96af-4fed-a13f-9b94fd4c7405",
   "source": "dailymed"
 }
