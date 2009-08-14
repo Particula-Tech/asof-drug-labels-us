@@ -10,3 +10,5 @@ In these conditions oral therapy is recommended.
 The text of the patient insert for progestational drugs is set forth below.
 
 Rx only
+
+LAB-0143-3.0 May 2006

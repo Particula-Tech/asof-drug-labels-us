@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA012541"
+  ],
   "inn": "medroxyprogesterone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-0626-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "medroxyprogesterone acetate",
+      "name": "Depo-Provera"
+    }
+  ],
   "setid": "0ceb4952-5af3-4b80-b8b5-cea4e9a5486d",
   "source": "dailymed"
 }

@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 DEPO-PROVERA Sterile Aqueous Suspension is a progestational drug.
 The information below is required by the U.S. Food and Drug Administration to be provided to all patients taking such products.
