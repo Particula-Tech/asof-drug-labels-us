@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA011839"
+  ],
   "inn": "medroxyprogesterone",
-  "labeler": "Greenstone Ltd",
+  "labeler": "Greenstone LLC",
   "package_ndcs": [
     "59762-3740-1",
     "59762-3740-4",
@@ -15,7 +17,13 @@
     "59762-3742-7",
     "59762-3742-8"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "medroxyprogesterone acetate",
+      "name": "medroxyprogesterone acetate"
+    }
+  ],
   "setid": "2627eb11-06bf-4a45-9172-094468e3ca07",
   "source": "dailymed"
 }
