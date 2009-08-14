@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022427"
+  ],
+  "inn": "ketorolac",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-3507-05",
+    "0023-3507-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ketorolac tromethamine",
+      "name": "ACUVAIL"
+    }
+  ],
+  "setid": "3cea5803-a446-4d2c-9747-f3fb034332c8",
+  "source": "dailymed"
+}
