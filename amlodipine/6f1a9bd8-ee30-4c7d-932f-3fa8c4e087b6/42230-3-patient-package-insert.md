@@ -20,12 +20,15 @@ Norvasc is used to treat:
 - Blocked arteries of the heart (coronary artery disease)
 
 Lipitor is used to lower the levels of "bad" cholesterol and triglycerides in your blood.
-It can also raise the levels of "good " cholesterol.
+It can also raise the levels of "good" cholesterol.
 
-Lipitor is also used to lower the risk for heart attack or stroke in patients who have risk factors for heart disease such as:
+Lipitor is also used to lower the risk for heart attack, stroke, certain types of heart surgery, and chest pain in patients who have heart disease or risk factors for heart disease such as:
 
-- age, smoking, high blood pressure, low HDL-C, heart disease in the family, or
-- diabetes with risk factor such as eye problems, kidney problems, smoking, or high blood pressure
+- age, smoking, high blood pressure, low HDL-C, heart disease in the family
+
+Lipitor can lower the risk for heart attack or stroke in patients with diabetes and risk factors such as:
+
+- diabetic eye or kidney problems, smoking, or high blood pressure.
 
 CADUET has not been studied in children.
 
@@ -115,10 +118,12 @@ These serious side effects include:
 Call your doctor right away if:
 
 - you have muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual
+- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away.
 - you have nausea and vomiting, stomach pain
 - you are passing brown or dark-colored urine
 - you feel more tired than usual
 - your skin and white of your eyes get yellow
+- allergic skin reactions.
 
 - Chest pain that does not go away or gets worse.
   Sometimes, when you start CADUET or increase your dose, chest pain can get worse or a heart attack can happen.
@@ -129,18 +134,19 @@ Common side effects of CADUET include:
 - headache
 - tiredness
 - stomach pain
-- gas
-- constipation
+- upset stomach
 - swelling of your legs or ankles (edema)
 - hot or warm feeling in your face (flushing)
 - irregular heartbeat (arrhythmia)
 - very fast heartbeat (heart palpitations)
 - muscle and joint pain
+- alterations in some laboratory blood tests
 - dizziness
 - extreme sleepiness
 - nausea
-- rash
 - diarrhea
+
+Additional side effects have been reported: tendon problems.
 
 Talk to your doctor or pharmacist about side effects that bother you or do not go away.
 
@@ -210,4 +216,4 @@ Rx only
 
 Manufactured by Pfizer Ireland Pharmaceuticals Dublin, Ireland
 
-LAB-0347-2.0 August 2006
+LAB-0347-3.0 July 2009

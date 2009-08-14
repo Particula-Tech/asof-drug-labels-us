@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021540"
+  ],
   "inn": "amlodipine",
-  "labeler": "Pfizer Labs",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-2150-30",
     "0069-2160-30",
@@ -15,7 +17,13 @@
     "0069-2970-30",
     "0069-2980-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amlodipine besylate and atorvastatin calcium",
+      "name": "Caduet"
+    }
+  ],
   "setid": "6f1a9bd8-ee30-4c7d-932f-3fa8c4e087b6",
   "source": "dailymed"
 }

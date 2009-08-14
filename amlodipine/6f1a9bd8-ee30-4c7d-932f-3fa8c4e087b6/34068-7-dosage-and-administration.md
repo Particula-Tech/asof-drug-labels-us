@@ -23,29 +23,23 @@ In clinical studies the majority of patients required 10 mg (see CLINICAL PHARMA
 ### Children
 
 The effective antihypertensive oral dose of amlodipine in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily.
-Doses in excess of 5 mg daily have not been studied in pediatric patients.
-See CLINICAL PHARMACOLOGY.
+Doses in excess of 5 mg daily have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY).
 
 ## Atorvastatin (Hyperlipidemia)
 
-The patient should be placed on a standard cholesterol-lowering diet before receiving atorvastatin and should continue on this diet during treatment with atorvastatin.
-
-### Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
+### Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
 
 The recommended starting dose of atorvastatin is 10 or 20 mg once daily.
 Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily.
 The dosage range of atorvastatin is 10 to 80 mg once daily.
 Atorvastatin can be administered as a single dose at any time of the day, with or without food.
-The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response (see NCEP Guidelines, summarized in Table 9).
+The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response (see current NCEP Guidelines).
 After initiation and/or upon titration of atorvastatin, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
-
-Since the goal of treatment is to lower LDL-C, the NCEP recommends that LDL-C levels be used to initiate and assess treatment response.
-Only if LDL-C levels are not available, should total-C be used to monitor therapy.
 
 ### Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10–17 years of age)
 
 The recommended starting dose of atorvastatin is 10 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population).
-Doses should be individualized according to the recommended goal of therapy (see NCEP Pediatric Panel GuidelinesNational Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children Adolescents.
+Doses should be individualized according to the recommended goal of therapy (see current NCEP Pediatric Panel GuidelinesNational Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children Adolescents.
 Pediatrics.
 89(3):495–501.
 1992., CLINICAL PHARMACOLOGY, and INDICATIONS AND USAGE).
@@ -60,17 +54,17 @@ Management of patients needing a 2.5/80 mg combination requires individual asses
 
 ### Concomitant Lipid Lowering Therapy
 
-Atorvastatin may be used in combination with a bile acid binding resin for additive effect.
-The combination of HMG-CoA reductase inhibitors and fibrates should generally be avoided (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions for other drug-drug interactions).
+Atorvastatin may be used with bile acid resins.
+The combination of statins and fibrates should generally be used with caution (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions).
 
-### Dosage in Patients With Renal Insufficiency
+### Dosage in Patients With Renal Impairment
 
-Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin; thus, dosage adjustment in patients with renal dysfunction is not necessary (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin; thus, dosage adjustment in patients with renal dysfunction is not necessary (see WARNINGS, Skeletal Muscle, and CLINICAL PHARMACOLOGY, Specific Populations).
 
-### Dosage in Patients Taking Cyclosporine, Clarithromycin or A Combination of Ritonavir plus Saquinavir or Lopinavir plus Ritonavir
+### Dosage in Patients Taking Cyclosporine, Clarithromycin, Itraconazole, or a Combination of Ritonavir plus Saquinavir or Lopinavir plus Ritonavir
 
 In patients taking cyclosporine, therapy should be limited to LIPITOR 10 mg once daily.
-In patients taking clarithromycin or in patients with HIV taking a combination of ritonavir plus saquinavir or lopinavir plus ritonavir, for doses of atorvastatin exceeding 20 mg appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is employed (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions).
+In patients taking clarithromycin, itraconazole or in patients with HIV taking a combination of ritonavir plus saquinavir or lopinavir plus ritonavir, for doses of atorvastatin exceeding 20 mg, appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is employed (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions).
 
 ## CADUET
 
