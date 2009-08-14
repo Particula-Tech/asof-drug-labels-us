@@ -1,4 +1,4 @@
-## Patient Information About
+# Patient Information About
 
 depo-subQ provera 104™ medroxyprogesterone acetate injectable suspension 104 mg/0.65 mL
 

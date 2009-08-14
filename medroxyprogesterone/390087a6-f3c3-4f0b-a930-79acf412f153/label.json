@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021583"
+  ],
   "inn": "medroxyprogesterone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-4709-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "medroxyprogesterone acetate",
+      "name": "Depo-SubQ Provera"
+    }
+  ],
   "setid": "390087a6-f3c3-4f0b-a930-79acf412f153",
   "source": "dailymed"
 }
