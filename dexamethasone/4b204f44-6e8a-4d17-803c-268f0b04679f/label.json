@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022315"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-3348-07"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "dexamethasone intravitreal implant",
+      "name": "OZURDEX"
+    }
+  ],
+  "setid": "4b204f44-6e8a-4d17-803c-268f0b04679f",
+  "source": "dailymed"
+}
