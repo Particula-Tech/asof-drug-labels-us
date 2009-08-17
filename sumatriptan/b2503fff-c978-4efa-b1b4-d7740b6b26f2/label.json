@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA078327"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-146-36",
+    "65862-147-36",
+    "65862-148-36"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sumatriptan succinate",
+      "name": "Sumatriptan Succinate"
+    }
+  ],
+  "setid": "b2503fff-c978-4efa-b1b4-d7740b6b26f2",
+  "source": "dailymed"
+}
