@@ -92,7 +92,7 @@ Mean change in absolute CD4+ cell counts by Week 48 was +4 cells/mm3 for the VIR
 
 Through Week 24, one patient in the VIREAD group and no patients in the placebo arm experienced a new CDC Class C event.
 
-## 14.2 Clinical Efficacy In Patients with Chronic Hepatitis B
+## 14.2 Clinical Efficacy in Patients with Chronic Hepatitis B
 
 HBeAg-Negative Chronic Hepatitis B
 
