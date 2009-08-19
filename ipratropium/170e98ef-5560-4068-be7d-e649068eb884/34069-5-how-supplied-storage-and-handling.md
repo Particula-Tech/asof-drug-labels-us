@@ -29,8 +29,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-©Copyright Boehringer Ingelheim International GmbH 2007, ALL RIGHTS RESERVED
+©Copyright Boehringer Ingelheim International GmbH 2008, ALL RIGHTS RESERVED
 
-Rev: July 2007
+U.S. Patent No. 6,739,333
 
-IT1902CG0507 10003001/US/4 10003001/US/4 U.S. Patent No. 6,739,333
+Rev: April 2008
+
+IT1902DC0708 10003001/05

@@ -42,7 +42,7 @@ Caution is therefore advised in the co-administration of ATROVENT HFA Inhalation
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In two-year oral carcinogenicity studies in rats and mice, ipratropium bromide at oral doses up to 6 mg/kg (approximately 240 and 120 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis) showed no carcinogenic activity.
+Two-year oral carcinogenicity studies in rats and mice have revealed no carcinogenic activity at doses up to 6 mg/kg (approximately 240 and 120 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
 Results of various mutagenicity studies (Ames test, mouse dominant lethal test, mouse micronucleus test and chromosome aberration of bone marrow in Chinese hamsters) were negative.
 
 Fertility of male or female rats at oral doses up to 50 mg/kg (approximately 2000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis) was unaffected by ipratropium bromide administration.
@@ -50,7 +50,7 @@ At an oral dose of 500 mg/kg (approximately 20,000 times the maximum recommended
 
 ## Pregnancy
 
-### Teratogenic Effects:Pregnancy Category B.
+### Teratogenic Effects: Pregnancy Category B.
 
 Oral reproduction studies were performed at doses of 10 mg/kg/day in mice, 1,000 mg/kg in rats and 125 mg/kg/day in rabbits.
 These doses correspond in each species, respectively, to approximately 200, 40000, and 10000 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis.

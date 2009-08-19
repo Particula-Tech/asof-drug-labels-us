@@ -11,25 +11,25 @@ TABLE 1 Adverse Experiences Reported in ≥ 3% of Patients in any Ipratropium Br
 |  | Placebo-controlled 12 week Study 244.1405 and Active-controlled 12 week Study 244.1408 |  |  | Active-controlled 1-year Study 244.2453 |  |
 | Total With Any Adverse Event | 63 | 68 | 72 | 91 | 87 |
 | BODY AS A WHOLE - GENERAL DISORDERS |  |  |  |  |  |
-| back pain | 2 | 3 | 2 | 7 | 3 |
-| headache | 6 | 9 | 8 | 7 | 5 |
-| influenza-like symptoms | 4 | 2 | 2 | 8 | 5 |
+| Back pain | 2 | 3 | 2 | 7 | 3 |
+| Headache | 6 | 9 | 8 | 7 | 5 |
+| Influenza-like symptoms | 4 | 2 | 2 | 8 | 5 |
 | CENTRAL & PERIPHERAL NERVOUS SYSTEM DISORDERS |  |  |  |  |  |
-| dizziness | 3 | 3 | 2 | 3 | 1 |
+| Dizziness | 3 | 3 | 2 | 3 | 1 |
 | GASTROINTESTINAL SYSTEM DISORDERS |  |  |  |  |  |
-| dyspepsia | 1 | 3 | 1 | 5 | 3 |
-| mouth dry | 4 | 2 | 2 | 2 | 3 |
-| nausea | 4 | 1 | 2 | 4 | 4 |
+| Dyspepsia | 1 | 3 | 1 | 5 | 3 |
+| Mouth dry | 4 | 2 | 2 | 2 | 3 |
+| Nausea | 4 | 1 | 2 | 4 | 4 |
 | RESPIRATORY SYSTEM DISORDERS |  |  |  |  |  |
-| bronchitis | 10 | 11 | 6 | 23 | 19 |
+| Bronchitis | 10 | 11 | 6 | 23 | 19 |
 | COPD exacerbation | 8 | 14 | 13 | 23 | 23 |
-| coughing | 3 | 4 | 6 | 5 | 5 |
-| dyspnea | 8 | 8 | 4 | 7 | 4 |
-| rhinitis | 4 | 2 | 4 | 6 | 2 |
-| sinusitis | 1 | 4 | 3 | 11 | 14 |
-| upper respiratory tract infection | 9 | 10 | 16 | 34 | 34 |
+| Coughing | 3 | 4 | 6 | 5 | 5 |
+| Dyspnea | 8 | 8 | 4 | 7 | 4 |
+| Rhinitis | 4 | 2 | 4 | 6 | 2 |
+| Sinusitis | 1 | 4 | 3 | 11 | 14 |
+| Upper respiratory tract infection | 9 | 10 | 16 | 34 | 34 |
 | URINARY SYSTEM DISORDERS |  |  |  |  |  |
-| urinary tract infection | 2 | 3 | 1 | 10 | 8 |
+| Urinary tract infection | 2 | 3 | 1 | 10 | 8 |
 
 In the one open label controlled study in 456 COPD patients, the overall incidence of adverse events was also similar between Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol and Atrovent® (ipratropium bromide) Inhalation Aerosol CFC formulations.
 
@@ -45,6 +45,5 @@ Allergic-type reactions such as skin rash, pruritus, angioedema of tongue, lips 
 In a 5-year placebo-controlled trial, hospitalizations for supraventricular tachycardia and/or atrial fibrillation occurred with an incidence rate of 0.5% in COPD patients receiving ATROVENT Inhalation Aerosol CFC.
 
 Allergic-type reactions such as skin rash, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported, with positive rechallenge in some cases.
-Many of the patients had a history of allergies to other drugs and/or foods, including soybean.
 
 Additionally, urinary retention, mydriasis, gastrointestinal distress (diarrhea, nausea, vomiting), and bronchospasm, including paradoxical bronchospasm, have been reported during the post-marketing period with use of ATROVENT Inhalation Aerosol CFC.

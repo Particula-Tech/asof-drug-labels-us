@@ -9,7 +9,7 @@ Anticholinergics prevent the increases in intracellular concentration of cyclic 
 
 Controlled clinical studies have demonstrated that Atrovent® (ipratropium bromide) Inhalation Aerosol CFC does not alter either mucociliary clearance or the volume or viscosity of respiratory secretions.
 
-## Pharmacokinetics and Metabolism
+## Pharmacokinetics
 
 Most of an administered dose is swallowed as shown by fecal excretion studies.
 Ipratropium bromide is a quaternary amine.
