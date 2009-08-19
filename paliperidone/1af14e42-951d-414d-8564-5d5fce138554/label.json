@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA022264"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-560-01",
+    "50458-561-01",
+    "50458-562-01",
+    "50458-563-01",
+    "50458-564-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "paliperidone palmitate",
+      "name": "INVEGA SUSTENNA"
+    }
+  ],
+  "setid": "1af14e42-951d-414d-8564-5d5fce138554",
+  "source": "dailymed"
+}

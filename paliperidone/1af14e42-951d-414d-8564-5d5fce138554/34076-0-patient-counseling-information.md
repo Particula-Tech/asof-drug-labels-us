@@ -1,0 +1,32 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Physicians are advised to discuss the following issues with patients for whom they prescribe INVEGA® SUSTENNA™.
+See FDA-approved patient labeling.
+
+## 17.1 Orthostatic Hypotension
+
+Patients should be advised that there is risk of orthostatic hypotension, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.9)].
+
+## 17.2 Interference with Cognitive and Motor Performance
+
+As INVEGA® SUSTENNA™ has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA® SUSTENNA™ therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+
+## 17.3 Pregnancy
+
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with INVEGA® SUSTENNA™ [see Use in Specific Populations (8.1)].
+
+## 17.4 Nursing
+
+Patients should be advised not to breast-feed an infant during treatment with INVEGA® SUSTENNA™ [see Use in Specific Populations (8.3)].
+
+## 17.5 Concomitant Medication
+
+Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)].
+
+## 17.6 Alcohol
+
+Patients should be advised to avoid alcohol while taking INVEGA® SUSTENNA™ [see Drug Interactions (7.1)].
+
+## 17.7 Heat Exposure and Dehydration
+
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.17)].
