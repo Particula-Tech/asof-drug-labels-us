@@ -1,13 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020850"
+  ],
   "inn": "telmisartan",
-  "labeler": "",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
     "0597-0039-37",
     "0597-0040-37",
-    "0597-0041-37"
+    "0597-0040-70",
+    "0597-0041-37",
+    "0597-0041-70"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Micardis"
+    }
+  ],
   "setid": "cfb9309f-e0df-4a55-9542-0e869fce05fb",
   "source": "dailymed"
 }
