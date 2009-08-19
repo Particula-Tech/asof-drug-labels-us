@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 AVELOX® (AV-eh-locks) (moxifloxacin hydrochloride) Tablets
 
@@ -9,7 +9,7 @@ Read the Medication Guide that comes with AVELOX® before you start taking it an
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-## What is the most important information I should know about AVELOX?
+What is the most important information I should know about AVELOX?
 
 AVELOX belongs to a class of antibiotics called fluoroquinolones.
 AVELOX can cause side effects that may be serious or even cause death.
@@ -43,7 +43,7 @@ Talk with your healthcare provider about whether you should continue to take AVE
 - unable to move the affected area or bear weight
 - See the section “What are the possible side effects of AVELOX?” for more information about side effects.
 
-## What is AVELOX?
+What is AVELOX?
 
 AVELOX is a fluoroquinolone antibiotic medicine used to treat certain types of infections caused by certain germs called bacteria in adults 18 years or older.
 It is not known if AVELOX is safe and works in people under 18 years of age.
@@ -55,17 +55,17 @@ Antibiotics, including AVELOX, do not kill viruses.
 
 Call your healthcare provider if you think your condition is not getting better while you are taking AVELOX.
 
-## Who should not take AVELOX?
+Who should not take AVELOX?
 
 Do not take AVELOX if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to any of the ingredients in AVELOX.
 Ask your healthcare provider if you are not sure.
 See the list of ingredients in AVELOX at the end of this Medication Guide.
 
-## What should I tell my healthcare provider before taking AVELOX?
+What should I tell my healthcare provider before taking AVELOX?
 
 See “What is the most important information I should know about AVELOX?”
 
-## Tell your healthcare provider about all your medical conditions, including if you:
+Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
 - have central nervous system problems (such as epilepsy)
@@ -105,12 +105,12 @@ Especially tell your healthcare provider if you take:
 - sucralfate (Carafate)
 - didanosine (Videx®, Videx EC®)
 
-## Ask your healthcare provider if you are not sure if any of your medicines are listed above.
+Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-## How should I take AVELOX?
+How should I take AVELOX?
 
 - Take AVELOX once a day exactly as prescribed by your healthcare provider.
 - Take AVELOX at about the same time each day.
@@ -127,7 +127,7 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
   Do not take more than 1 dose of AVELOX in one day.
 - If you take too much, call your healthcare provider or get medical help immediately.
 
-## What should I avoid while taking AVELOX?
+What should I avoid while taking AVELOX?
 
 - AVELOX can make you feel dizzy and lightheaded.
   Do not drive, operate machinery, or do other activities that require mental alertness or coordination until you know how AVELOX affects you.
@@ -137,7 +137,7 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
   If you get any of these symptoms while taking AVELOX, call your healthcare provider right away.
   You should use a sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
 
-## What are the possible side effects of AVELOX?
+What are the possible side effects of AVELOX?
 
 AVELOX can cause side effects that may be serious or even cause death.
 See “What is the most important information I should know about AVELOX?”
@@ -228,7 +228,7 @@ Tell your healthcare provider about any side effect that bothers you or that doe
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## How should I store AVELOX?
+How should I store AVELOX?
 
 AVELOX Tablets
 
@@ -237,7 +237,7 @@ AVELOX Tablets
 
 Keep AVELOX and all medicines out of the reach of children.
 
-## General Information about AVELOX
+General Information about AVELOX
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use AVELOX for a condition for which it is not prescribed.
@@ -249,7 +249,7 @@ If you would like more information about AVELOX, talk with your healthcare provi
 You can ask your healthcare provider or pharmacist for information about AVELOX that is written for healthcare professionals.
 For more information go to www.AVELOX.com or call 1-800-526-4099.
 
-## What are the ingredients in AVELOX?
+What are the ingredients in AVELOX?
 
 - AVELOX Tablets:
 - Active ingredient: moxifloxacin hydrochloride

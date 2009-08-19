@@ -1,14 +1,28 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021085",
+    "NDA021277"
+  ],
   "inn": "moxifloxacin",
-  "labeler": "Bayer HealthCare Pharmaceuticals Inc",
+  "labeler": "Schering Plough Corporation",
   "package_ndcs": [
     "0085-1733-01",
     "0085-1733-02",
     "0085-1733-03",
     "0085-1737-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "Avelox"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "Avelox"
+    }
+  ],
   "setid": "56b4f979-bf20-4908-9d7c-5536221d77f8",
   "source": "dailymed"
 }

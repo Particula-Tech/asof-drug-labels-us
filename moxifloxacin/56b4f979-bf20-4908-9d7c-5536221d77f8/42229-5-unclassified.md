@@ -18,8 +18,78 @@ Gram-positive bacteria resistant to other fluoroquinolones may, however, still b
 
 Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
+Aerobic Gram-positive microorganisms
+
+Enterococcus faecalis (many strains are only moderately susceptible)
+
+Staphylococcus aureus (methicillin-susceptible strains only)
+
+Streptococcus anginosus
+
+Streptococcus constellatus
+
+Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]*)
+
+Streptococcus pyogenes
+
+* MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 µg/mL), 2nd generation cephalosporins (e.g., cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
+
+Aerobic Gram-negative microorganisms
+
+Enterobacter cloacae
+
+Escherichia coli
+
+Haemophilus influenzae
+
+Haemophilus parainfluenzae
+
+Klebsiella pneumoniae
+
+Moraxella catarrhalis
+
+Proteus mirabilis
+
+Anaerobic microorganisms
+
+Bacteroides fragilis
+
+Bacteroides thetaiotaomicron
+
+Clostridium perfringens
+
+Peptostreptococcus species
+
+Other microorganisms
+
+Chlamydia pneumoniae
+
+Mycoplasma pneumoniae
+
 The following in vitro data are available, but their clinical significance is unknown.
 Moxifloxacin exhibits in vitro minimum inhibitory concentrations (MICs) of 2 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of moxifloxacin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+
+Aerobic Gram-positive microorganisms
+
+Staphylococcus epidermidis (methicillin-susceptible strains only)
+
+Streptococcus agalactiae
+
+Streptococcus viridans group
+
+Aerobic Gram-negative microorganisms
+
+Citrobacter freundii
+
+Klebsiella oxytoca
+
+Legionella pneumophila
+
+Anaerobic microorganisms
+
+Fusobacterium species
+
+Prevotella species
 
 ## Susceptibility Tests
 
