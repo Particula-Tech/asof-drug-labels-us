@@ -1,18 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075022"
+  ],
   "inn": "buspirone",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
-    "0093-0053-01",
-    "0093-0053-05",
-    "0093-0054-01",
-    "0093-0054-05",
-    "0093-1003-01",
-    "0093-1003-05",
     "0093-5200-05",
     "0093-5200-06"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buspirone hydrochloride",
+      "name": "Buspirone Hydrochloride"
+    }
+  ],
   "setid": "6fac36b4-b223-479e-913f-f8c9cdb9e119",
   "source": "dailymed"
 }

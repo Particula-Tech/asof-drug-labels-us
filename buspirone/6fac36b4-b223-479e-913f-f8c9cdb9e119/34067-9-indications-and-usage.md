@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Buspirone Hydrochloride Tablets are indicated for the management of anxiety disorders or the short-term relief of the symptoms of anxiety.
+Buspirone hydrochloride tablets are indicated for the management of anxiety disorders or the short-term relief of the symptoms of anxiety.
 Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
 
 The efficacy of buspirone has been demonstrated in controlled clinical trials of outpatients whose diagnosis roughly corresponds to Generalized Anxiety Disorder (GAD).

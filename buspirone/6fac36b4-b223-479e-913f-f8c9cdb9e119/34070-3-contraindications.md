@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Buspirone Hydrochloride Tablets are contraindicated in patients hypersensitive to buspirone hydrochloride.
+Buspirone hydrochloride tablets are contraindicated in patients hypersensitive to buspirone hydrochloride.
