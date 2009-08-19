@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA080198"
+  ],
   "inn": "lidocaine",
-  "labeler": "E. FOUGERA and CO.",
+  "labeler": "E. FOUGERA & CO. A division of Nycomed US Inc.",
   "package_ndcs": [
     "0168-0204-37"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "lidocaine",
+      "name": "Lidocaine"
+    }
+  ],
   "setid": "88ca9cba-0c4a-482f-b502-ceefdb1bfbcd",
   "source": "dailymed"
 }
