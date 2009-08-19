@@ -105,7 +105,7 @@ Table 8 Adverse Reactions Occurring at ≥2% Incidence in Lovenox-Treated Patien
 | Anemia | <1 | 3 | <1 | 3 |
 | Ecchymosis | 0 | 3 | 0 | 3 |
 
-Table 9 Adverse Reactions Occurring at ≥2% Incidence in Lovenox-Treated Patients Undergoing Abdominal or Colorectal Surgery
+Table 9 Adverse Reactions Occurring at ≥2% Incidence in Lovenox-Treated Patients Undergoing Hip or Knee Replacement Surgery
 
 | Severe Total |  | Severe Total |  | Severe Total |  | Severe Total |  | Severe Total |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
