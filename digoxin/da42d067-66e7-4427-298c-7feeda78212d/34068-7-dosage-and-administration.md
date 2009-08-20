@@ -78,7 +78,7 @@ Digitalization may be accomplished by either of two general approaches that vary
    Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
    Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
 
-#### Rapid Digitalization with a Loading Dose
+#### Rapid Digitalization With a Loading Dose
 
 LANOXIN Injection Pediatric can be used to achieve rapid digitalization, with conversion to an oral formulation of LANOXIN for maintenance therapy.
 If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosages (see Table 1 in CLINICAL PHARMACOLOGY: Pharmacokinetics and dosing Table 5).
@@ -86,7 +86,7 @@ If patients are switched from intravenous to oral digoxin formulations, allowanc
 Intramuscular injection of digoxin is extremely painful and offers no advantages unless other routes of administration are contraindicated.
 
 Peak digoxin body stores of 8 to 12 mcg/kg should provide therapeutic effect with minimum risk of toxicity in most patients with heart failure and normal sinus rhythm.
-Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) [see PRECAUTIONS].
+Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) (see PRECAUTIONS).
 
 Digitalizing and daily maintenance doses for each age group are given in Table 5 and should provide therapeutic effect with minimum risk of toxicity in most patients with heart failure and normal sinus rhythm.
 These recommendations assume the presence of normal renal function.
@@ -96,22 +96,22 @@ Additional fractions of this planned total dose may be given at 4- to 8-hour int
 If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given.
 
 Table 5.
-Usual Digitalization and Maintenance Doses for LANOXIN®Injection Pediatric in Children with Normal Renal Function Based on Lean Body Weight
+Usual Digitalizing and Maintenance Dosages for LANOXIN®Injection Pediatric in Children With Normal Renal Function Based on Lean Body Weight
 
-| Age | IV Digitalizing* Dose (mcg/kg) | DailyIV Maintenance Dose†(mcg/kg) |
+| Age | IV Digitalizinga Dose (mcg/kg) | Daily IV Maintenance Doseb(mcg/kg) |
 | --- | --- | --- |
-| Premature | 15 to 25 | 20% to 30% of the IV digitalizing dose‡ |
+| Premature | 15 to 25 | 20% to 30% of the IV digitalizing dosec |
 | Full-Term | 20 to 30 |  |
 | 1 to 24 Months | 30 to 50 |  |
-| 2 to 5 Years | 25 to 35 | 25% to 35% of the IV digitalizing dose‡ |
+| 2 to 5 Years | 25 to 35 | 25% to 35% of the IV digitalizing dosec |
 | 5 to 10 Years | 15 to 30 |  |
 | Over 10 Years | 8 to 12 |  |
 
-*IV digitalizing doses are 80% of oral digitalizing doses.
+aIV digitalizing doses are 80% of oral digitalizing doses.
 
-†Divided daily dosing is recommended for children under 10 years of age.
+bDivided daily dosing is recommended for children under 10 years of age.
 
-‡Projected or actual digitalizing dose providing clinical response.
+cProjected or actual digitalizing dose providing clinical response.
 
 In children with renal disease, digoxin dosing must be carefully titrated based on clinical response.
 
@@ -131,6 +131,4 @@ Data are not available to establish the appropriate resting or exercise target r
 
 ## Dosage Adjustment When Changing Preparations
 
-The differences in bioavailability between injectable LANOXIN or LANOXICAPS and LANOXIN Elixir Pediatric or LANOXIN Tablets must be considered when changing patients from one dosage form to another.
-
-Doses of 100 mcg (0.1 mg) and 200 mcg (0.2 mg) of LANOXICAPS are approximately equivalent to 125 mcg (0.125 mg) and 250 mcg (0.25 mg) doses of LANOXIN Tablets and Elixir Pediatric, respectively (see Table 1 in CLINICAL PHARMACOLOGY: Pharmacokinetics).
+The differences in bioavailability between injectable LANOXIN or LANOXIN Tablets must be considered when changing patients from one dosage form to another.

@@ -35,14 +35,14 @@ Digoxin can produce visual disturbances (blurred or yellow vision), headache, we
 Gynecomastia has been occasionally observed following the prolonged use of digoxin.
 Thrombocytopenia and maculopapular rash and other skin reactions have been rarely observed.
 
-The following table summarizes the incidence of those adverse experiences listed above for patients treated with LANOXIN Tablets or placebo from two randomized, double-blind, placebo-controlled withdrawal trials.
+Table 4 summarizes the incidence of those adverse experiences listed above for patients treated with LANOXIN Tablets or placebo from 2 randomized, double-blind, placebo-controlled withdrawal trials.
 Patients in these trials were also receiving diuretics with or without angiotensin-converting enzyme inhibitors.
 These patients had been stable on digoxin, and were randomized to digoxin or placebo.
 The results shown in Table 4 reflect the experience in patients following dosage titration with the use of serum digoxin concentrations and careful follow-up.
 These adverse experiences are consistent with results from a large, placebo-controlled mortality trial (DIG trial) wherein over half the patients were not receiving digoxin prior to enrollment.
 
 Table 4.
-Adverse Experiences In Two Parallel, Double-Blind, Placebo-Controlled Withdrawal Trials (Number of Patients Reporting)
+Adverse Experiences In 2 Parallel, Double-Blind, Placebo-Controlled Withdrawal Trials (Number of Patients Reporting)
 
 | Adverse Experience | Digoxin Patients(n = 123) | Placebo Patients(n = 125) |
 | --- | --- | --- |
