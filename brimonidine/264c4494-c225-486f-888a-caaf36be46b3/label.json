@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021262",
+    "NDA021770"
+  ],
   "inn": "brimonidine",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
@@ -10,7 +13,13 @@
     "0023-9321-10",
     "0023-9321-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "brimonidine tartrate",
+      "name": "ALPHAGAN P"
+    }
+  ],
   "setid": "264c4494-c225-486f-888a-caaf36be46b3",
   "source": "dailymed"
 }
