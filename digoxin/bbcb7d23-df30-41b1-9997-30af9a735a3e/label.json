@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA009330"
+  ],
   "inn": "digoxin",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKlineBeecham Corporation",
   "package_ndcs": [
     "0173-0260-10",
     "0173-0260-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "digoxin",
+      "name": "LANOXIN"
+    }
+  ],
   "setid": "bbcb7d23-df30-41b1-9997-30af9a735a3e",
   "source": "dailymed"
 }

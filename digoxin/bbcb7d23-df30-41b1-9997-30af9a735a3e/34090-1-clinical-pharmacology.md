@@ -22,14 +22,12 @@ Comparisons of the systemic availability and equivalent doses for preparations o
 Table 1.
 Comparisons of the Systemic Availability and Equivalent Doses for Preparations of LANOXIN
 
-| Product | Absolute Bioavailability | Equivalent Doses (mcg)*Among Dosage Forms |  |  |  |
+| Product | Absolute Bioavailability | Equivalent Doses (mcg)aAmong Dosage Forms |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | LANOXIN Tablets | 60 - 80% | 62.5 | 125 | 250 | 500 |
-| LANOXIN Elixir Pediatric | 70 - 85% | 62.5 | 125 | 250 | 500 |
-| LANOXICAPS® | 90 - 100% | 50 | 100 | 200 | 400 |
 | LANOXIN Injection/IV | 100% | 50 | 100 | 200 | 400 |
 
-* For example, 125 mcg LANOXIN Tablets equivalent to 125 mcg LANOXIN Elixir Pediatric equivalent to 100 mcg LANOXICAPS equivalent to 100 mcg LANOXIN Injection/IV.
+a For example, 125 mcg LANOXIN Tablets equivalent to 100 mcg LANOXIN Injection/IV.
 
 ### Distribution
 
@@ -78,16 +76,14 @@ The times to onset of pharmacologic effect and to peak effect of preparations of
 Table 2.
 Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of LANOXIN
 
-| Product | Time to Onset of Effect* | Time to Peak Effect* |
+| Product | Time to Onset of Effecta | Time to Peak Effecta |
 | --- | --- | --- |
 | LANOXIN Tablets | 0.5 - 2 hours | 2 - 6 hours |
-| LANOXIN Elixir Pediatric | 0.5 - 2 hours | 2 - 6 hours |
-| LANOXICAPS | 0.5 - 2 hours | 2 - 6 hours |
-| LANOXIN Injection/IV | 5 - 30 minutes† | 1 - 4 hours |
+| LANOXIN Injection/IV | 5 - 30 minutesb | 1 - 4 hours |
 
-* Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.
+a Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.
 
-† Depending upon rate of infusion.
+b Depending upon rate of infusion.
 
 ### Hemodynamic Effects
 
@@ -108,18 +104,18 @@ At randomization, 67% were NYHA class I or II, 71% had heart failure of ischemic
 Patients were randomized to placebo or LANOXIN Tablets, the dose of which was adjusted for the patient’s age, sex, lean body weight, and serum creatinine (see DOSAGE AND ADMINISTRATION), and followed for up to 58 months (median 37 months).
 The median daily dose prescribed was 0.25 mg.
 Overall all-cause mortality was 35% with no difference between groups (95% confidence limits for relative risk of 0.91 to 1.07).
-LANOXIN was associated with a 25% reduction in the number of hospitalizations for heart failure, a 28% reduction in the risk of a patient having at least one hospitalization for heart failure, and a 6.5% reduction in total hospitalizations (for any cause).
+LANOXIN was associated with a 25% reduction in the number of hospitalizations for heart failure, a 28% reduction in the risk of a patient having at least 1 hospitalization for heart failure, and a 6.5% reduction in total hospitalizations (for any cause).
 
 Use of LANOXIN was associated with a trend to increase time to all-cause death or hospitalization.
 The trend was evident in subgroups of patients with mild heart failure as well as more severe disease, as shown in Table 3.
 Although the effect on all-cause death or hospitalization was not statistically significant, much of the apparent benefit derived from effects on mortality and hospitalization attributed to heart failure.
 
 Table 3.
-Subgroup Analyses of Mortality and Hospitalization During the First Two Years Following Randomization
+Subgroup Analyses of Mortality and Hospitalization During the First 2 Years Following Randomization
 
-|  | n | Risk of All-Cause Mortality or All-Cause Hospitalization* |  |  | Risk of HF-Related Mortality or HF-Related Hospitalization* |  |  |
+|  | n | Risk of All-Cause Mortality or All-Cause Hospitalizationa |  |  | Risk of HF-Related Mortality or HF-Related Hospitalizationa |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Placebo | LANOXIN | Relative risk† | Placebo | LANOXIN | Relative risk† |  |  |
+| Placebo | LANOXIN | Relative riskb | Placebo | LANOXIN | Relative riskb |  |  |
 | All patients (EF ≤0.45) | 6,801 | 604 | 593 | 0.94 (0.88-1.00) | 294 | 217 | 0.69(0.63-0.76) |
 | NYHA I/II | 4,571 | 549 | 541 | 0.96 (0.89-1.04) | 242 | 178 | 0.70(0.62-0.80) |
 | EF 0.25-0.45 | 4,543 | 568 | 571 | 0.99(0.91-1.07) | 244 | 190 | 0.74(0.66-0.84) |
@@ -127,13 +123,13 @@ Subgroup Analyses of Mortality and Hospitalization During the First Two Years Fo
 | NYHA III/IV | 2,224 | 719 | 696 | 0.88(0.80-0.97) | 402 | 295 | 0.65(0.57-0.75) |
 | EF <0.25 | 2,258 | 677 | 637 | 0.84(0.76-0.93) | 394 | 270 | 0.61(0.53-0.71) |
 | CTR >0.55 | 2,346 | 687 | 650 | 0.85(0.77-0.94) | 398 | 287 | 0.65(0.57-0.75) |
-| EF >0.45‡ | 987 | 571 | 585 | 1.04(0.88-1.23) | 179 | 136 | 0.72(0.53-0.99) |
+| EF >0.45c | 987 | 571 | 585 | 1.04(0.88-1.23) | 179 | 136 | 0.72(0.53-0.99) |
 
-*Number of patients with an event during the first 2 years per 1,000 randomized patients.
+aNumber of patients with an event during the first 2 years per 1,000 randomized patients.
 
-†Relative risk (95% confidence interval).
+bRelative risk (95% confidence interval).
 
-‡DIG Ancillary Study.
+cDIG Ancillary Study.
 
 In situations where there is no statistically significant benefit of treatment evident from a trial’s primary endpoint, results pertaining to a secondary endpoint should be interpreted cautiously.
 

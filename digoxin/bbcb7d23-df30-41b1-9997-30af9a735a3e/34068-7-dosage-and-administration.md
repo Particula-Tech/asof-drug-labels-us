@@ -35,7 +35,7 @@ In selecting a dose of digoxin, the following factors must be considered:
 
 In general, the dose of digoxin used should be determined on clinical grounds.
 However, measurement of serum digoxin concentrations can be helpful to the clinician in determining the adequacy of digoxin therapy and in assigning certain probabilities to the likelihood of digoxin intoxication.
-About two-thirds of adults considered adequately digitalized (without evidence of toxicity) have serum digoxin concentrations ranging from 0.8 to 2.0 ng/mL.
+About two-thirds of adults considered adequately digitalized (without evidence of toxicity) have serum digoxin concentrations ranging from 0.8 to 2.0 ng/mL (lower serum trough concentrations of 0.5 to 1 ng/mL may be appropriate in some adult patients, see Maintenance Dosing).
 However, digoxin may produce clinical benefits even at serum concentrations below this range.
 About two-thirds of adult patients with clinical toxicity have serum digoxin concentrations greater than 2.0 ng/mL.
 However, since one-third of patients with clinical toxicity have concentrations less than 2.0 ng/mL, values below 2.0 ng/mL do not rule out the possibility that a certain sign or symptom is related to digoxin therapy.
@@ -59,23 +59,23 @@ If a discrepancy exists between the reported serum concentration and the observe
 
 ### Adults
 
-Digitalization may be accomplished by either of two general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
+Digitalization may be accomplished by either of 2 general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
 
 1. If rapid digitalization is considered medically appropriate, it may be achieved by administering a loading dose based upon projected peak digoxin body stores.
    Maintenance dose can be calculated as a percentage of the loading dose.
 2. More gradual digitalization may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
-   Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
+   Steady-state serum digoxin concentrations will be achieved in approximately 5 half-lives of the drug for the individual patient.
    Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
 
-#### Rapid Digitalization with a Loading Dose
+#### Rapid Digitalization With a Loading Dose
 
-LANOXIN Injection is frequently used to achieve rapid digitalization, with conversion to LANOXIN Tablets or LANOXICAPS for maintenance therapy.
+LANOXIN Injection is frequently used to achieve rapid digitalization, with conversion to LANOXIN Tablets for maintenance therapy.
 If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosages (see Table 1, CLINICAL PHARMACOLOGY: Pharmacokinetics and dosing Table 5).
 
 Intramuscular injection of digoxin is extremely painful and offers no advantages unless other routes of administration are contraindicated.
 
 Peak digoxin body stores of 8 to 12 mcg/kg should provide therapeutic effect with minimum risk of toxicity in most patients with heart failure and normal sinus rhythm.
-Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) [see PRECAUTIONS].
+Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) (see PRECAUTIONS).
 
 The loading dose should be administered in several portions, with roughly half the total given as the first dose.
 Additional fractions of this planned total dose may be given at 6- to 8-hour intervals, with careful assessment of clinical response before each additional dose.
@@ -93,6 +93,8 @@ Therapy is generally initiated at a dose of 250 mcg (0.25 mg) once daily in pati
 Doses may be increased every 2 weeks according to clinical response.
 
 In a subset of approximately 1,800 patients enrolled in the DIG trial (wherein dosing was based on an algorithm similar to that in Table 5) the mean (± SD) serum digoxin concentrations at 1 month and 12 months were 1.01 ± 0.47 ng/mL and 0.97 ± 0.43 ng/mL, respectively.
+There are no rigid guidelines as to the range of serum concentrations that are most efficacious.
+Several post hoc analyses of heart failure patients in the DIG trial suggest that the optimal trough digoxin serum level may be 0.5 ng/mL to 1 ng/mL.
 
 The maintenance dose should be based upon the percentage of the peak body stores lost each day through elimination.
 The following formula has had wide clinical use:
@@ -106,13 +108,13 @@ Where: % Daily Loss = 14 + Ccr/5
 Table 5 provides average daily maintenance dose requirements of LANOXIN Injection for patients with heart failure based upon lean body weight and renal function:
 
 Table 5.
-Usual Daily Maintenance Dose Requirements (mcg) of LANOXIN Injection for Estimated Peak Body Stores of 10 mcg/kg*
+Usual Daily Maintenance Dose Requirements (mcg) of LANOXIN Injection for Estimated Peak Body Stores of 10 mcg/kga
 
-| Corrected Ccr(mL/min per 70 kg)† | Lean Body Weight |  |  |  |  |  |  | Number of Days |
+| Corrected Ccr(mL/min per 70 kg)b | Lean Body Weight |  |  |  |  |  |  | Number of Days |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| kg | 50 | 60 | 70 | 80 | 90 | 100 | Before Steady State Achieved‡ |  |
+| kg | 50 | 60 | 70 | 80 | 90 | 100 | Before Steady State Achievedc |  |
 | lb | 110 | 132 | 154 | 176 | 198 | 220 |  |  |
-| 0 |  | 75§ | 75 | 100 | 100 | 125 | 150 | 22 |
+| 0 |  | 75d | 75 | 100 | 100 | 125 | 150 | 22 |
 | 10 |  | 75 | 100 | 100 | 125 | 150 | 150 | 19 |
 | 20 |  | 100 | 100 | 125 | 150 | 150 | 175 | 16 |
 | 30 |  | 100 | 125 | 150 | 150 | 175 | 200 | 14 |
@@ -124,16 +126,16 @@ Usual Daily Maintenance Dose Requirements (mcg) of LANOXIN Injection for Estimat
 | 90 |  | 150 | 200 | 225 | 250 | 300 | 325 | 8 |
 | 100 |  | 175 | 200 | 250 | 275 | 300 | 350 | 7 |
 
-* Daily maintenance doses have been rounded to the nearest 25-mcg increment.
+a Daily maintenance doses have been rounded to the nearest 25-mcg increment.
 
-† Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.
+b Ccr is creatinine clearance, corrected to 70-kg body weight or 1.73 m2 body surface area.
 For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 - Age)/Scr.
 For women, this result should be multiplied by 0.85.
 Note: This equation cannot be used for estimating creatinine clearance in infants or children.
 
-‡ If no loading dose administered.
+c If no loading dose administered.
 
-§ 75mcg = 0.075 mg
+d 75mcg = 0.075 mg.
 
 Example: Based on the above table, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 175 mcg (0.175 mg) daily of LANOXIN Injection.
 If no loading dose is administered, steady-state serum concentrations in this patient should be anticipated at approximately 11 days.
@@ -153,6 +155,4 @@ Data are not available to establish the appropriate resting or exercise target r
 
 ## Dosage Adjustment When Changing Preparations
 
-The difference in bioavailability between LANOXIN Injection or LANOXICAPS and LANOXIN Elixir Pediatric or LANOXIN Tablets must be considered when changing patients from one dosage form to another.
-
-Doses of 100 mcg (0.1 mg) and 200 mcg (0.2 mg) of LANOXICAPS are approximately equivalent to 125-mcg (0.125-mg) and 250-mcg (0.25-mg) doses of LANOXIN Tablets and Elixir Pediatric, respectively (see Table 1 in CLINICAL PHARMACOLOGY: Pharmacokinetics).
+The difference in bioavailability between LANOXIN Injection or LANOXIN Tablets must be considered when changing patients from one dosage form to the other.
