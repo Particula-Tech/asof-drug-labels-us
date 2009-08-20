@@ -12,21 +12,22 @@ After intravenous digoxin therapy, some patients with paroxysmal atrial fibrilla
 Unless conduction down the accessory pathway has been blocked (either pharmacologically or by surgery), digoxin should not be used in such patients.
 The treatment of paroxysmal supraventricular tachycardia in such patients is usually direct-current cardioversion.
 
-## Use in Patients with Preserved Left Ventricular Systolic Function
+## Use in Patients With Preserved Left Ventricular Systolic Function
 
 Patients with certain disorders involving heart failure associated with preserved left ventricular ejection fraction may be particularly susceptible to toxicity of the drug.
 Such disorders include restrictive cardiomyopathy, constrictive pericarditis, amyloid heart disease, and acute cor pulmonale.
 Patients with idiopathic hypertrophic subaortic stenosis may have worsening of the outflow obstruction due to the inotropic effects of digoxin.
+Digoxin should generally be avoided in these patients, although it has been used for ventricular rate control in the subgroup of patients with atrial fibrillation.
 
 # PRECAUTIONS
 
-## Use in Patients with Impaired Renal Function
+## Use in Patients With Impaired Renal Function
 
 Digoxin is primarily excreted by the kidneys; therefore, patients with impaired renal function require smaller than usual maintenance doses of digoxin (see DOSAGE AND ADMINISTRATION).
 Because of the prolonged elimination half-life, a longer period of time is required to achieve an initial or new steady-state serum concentration in patients with renal impairment than in patients with normal renal function.
 If appropriate care is not taken to reduce the dose of digoxin, such patients are at high risk for toxicity, and toxic effects will last longer in such patients than in patients with normal renal function.
 
-## Use in Patients with Electrolyte Disorders
+## Use in Patients With Electrolyte Disorders
 
 In patients with hypokalemia or hypomagnesemia, toxicity may occur despite serum digoxin concentrations below 2.0 ng/mL, because potassium or magnesium depletion sensitizes the myocardium to digoxin.
 Therefore, it is desirable to maintain normal serum potassium and magnesium concentrations in patients being treated with digoxin.
@@ -44,7 +45,7 @@ Heart failure and/or atrial arrhythmias resulting from hypermetabolic or hyperdy
 Atrial arrhythmias associated with hypermetabolic states are particularly resistant to digoxin treatment.
 Care must be taken to avoid toxicity if digoxin is used.
 
-## Use in Patients with Acute Myocardial Infarction
+## Use in Patients With Acute Myocardial Infarction
 
 Digoxin should be used with caution in patients with acute myocardial infarction.
 The use of inotropic drugs in some patients in this setting may result in undesirable increases in myocardial oxygen demand and ischemia.
@@ -54,6 +55,14 @@ The use of inotropic drugs in some patients in this setting may result in undesi
 It may be desirable to reduce the dose of digoxin for 1 to 2 days prior to electrical cardioversion of atrial fibrillation to avoid the induction of ventricular arrhythmias, but physicians must consider the consequences of increasing the ventricular response if digoxin is withdrawn.
 If digitalis toxicity is suspected, elective cardioversion should be delayed.
 If it is not prudent to delay cardioversion, the lowest possible energy level should be selected to avoid provoking ventricular arrhythmias.
+
+### Use in Patients With Myocarditis
+
+Digoxin can rarely precipitate vasoconstriction and therefore should be avoided in patients with myocarditis.
+
+### Use in Patients With Beri Beri Heart Disease
+
+Patients with beri beri heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
 
 ## Laboratory Test Monitoring
 
@@ -69,11 +78,15 @@ Erythromycin and clarithromycin (and possibly other macrolide antibiotics) and t
 Propantheline and diphenoxylate, by decreasing gut motility, may increase digoxin absorption.
 Antacids, kaolin-pectin, sulfasalazine, neomycin, cholestyramine, certain anticancer drugs, and metoclopramide may interfere with intestinal digoxin absorption, resulting in unexpectedly low serum concentrations.
 Rifampin may decrease serum digoxin concentration, especially in patients with renal dysfunction, by increasing the non-renal clearance of digoxin.
-There have been inconsistent reports regarding the effects of other drugs [e.g., quinine, penicillamine] on serum digoxin concentration.
+There have been inconsistent reports regarding the effects of other drugs (e.g., quinine, penicillamine) on serum digoxin concentration.
 Thyroid administration to a digitalized, hypothyroid patient may increase the dose requirement of digoxin.
 Concomitant use of digoxin and sympathomimetics increases the risk of cardiac arrhythmias.
 Succinylcholine may cause a sudden extrusion of potassium from muscle cells, and may thereby cause arrhythmias in digitalized patients.
-Although beta-adrenergic blockers or calcium channel blockers and digoxin may be useful in combination to control atrial fibrillation, their additive effects on AV node conduction can result in advanced or complete heart block.
+Although calcium channel blockers and digoxin may be useful in combination to control atrial fibrillation, their additive effects on AV node conduction can result in advanced or complete heart block.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
+Digoxin concentrations are increased by about 15% when digoxin and carvedilol are administered concomitantly.
+Therefore, increased monitoring of digoxin is recommended when initiating, adjusting, or discontinuing carvedilol.
 
 Due to the considerable variability of these interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently.
 Furthermore, caution should be exercised when combining digoxin with any drug that may cause a significant deterioration in renal function, since a decline in glomerular filtration or tubular secretion may impair the excretion of digoxin.
@@ -99,7 +112,7 @@ Digoxin should be given to a pregnant woman only if clearly needed.
 ## Nursing Mothers
 
 Studies have shown that digoxin concentrations in the mother’s serum and milk are similar.
-However, the estimated exposure of a nursing infant to digoxin via breast feeding will be far below the usual infant maintenance dose.
+However, the estimated exposure of a nursing infant to digoxin via breastfeeding will be far below the usual infant maintenance dose.
 Therefore, this amount should have no pharmacologic effect upon the infant.
 Nevertheless, caution should be exercised when digoxin is administered to a nursing woman.
 

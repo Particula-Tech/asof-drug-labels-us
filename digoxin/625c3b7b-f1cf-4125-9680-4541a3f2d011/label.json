@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020405"
+  ],
   "inn": "digoxin",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0242-55",
     "0173-0242-56",
@@ -11,7 +13,13 @@
     "0173-0249-75",
     "0173-0249-80"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "digoxin",
+      "name": "LANOXIN"
+    }
+  ],
   "setid": "625c3b7b-f1cf-4125-9680-4541a3f2d011",
   "source": "dailymed"
 }
