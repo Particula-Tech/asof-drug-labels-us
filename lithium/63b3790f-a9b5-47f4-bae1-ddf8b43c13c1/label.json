@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA079139"
+  ],
+  "inn": "lithium",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-220-01",
+    "68462-220-10",
+    "68462-220-11",
+    "68462-220-30",
+    "68462-221-01",
+    "68462-221-10",
+    "68462-221-11",
+    "68462-221-30",
+    "68462-222-01",
+    "68462-222-10",
+    "68462-222-11",
+    "68462-222-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    }
+  ],
+  "setid": "63b3790f-a9b5-47f4-bae1-ddf8b43c13c1",
+  "source": "dailymed"
+}
