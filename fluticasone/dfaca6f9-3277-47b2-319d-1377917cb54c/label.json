@@ -1,13 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021254"
+  ],
   "inn": "fluticasone",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0715-20",
+    "0173-0715-62",
     "0173-0716-20",
+    "0173-0716-62",
     "0173-0717-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "ADVAIR HFA"
+    }
+  ],
   "setid": "dfaca6f9-3277-47b2-319d-1377917cb54c",
   "source": "dailymed"
 }

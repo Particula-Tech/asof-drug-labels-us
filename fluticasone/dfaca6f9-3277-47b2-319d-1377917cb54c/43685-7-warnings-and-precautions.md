@@ -134,7 +134,8 @@ If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
 13.
-Pneumonia: Lower respiratory tract infections, including pneumonia, have been reported in patients with COPD following the inhaled administration of corticosteroids, including fluticasone propionate and ADVAIR DISKUS.
+Pneumonia.
+Lower respiratory tract infections, including pneumonia, have been reported in patients with COPD following the inhaled administration of corticosteroids, including fluticasone propionate and ADVAIR DISKUS.
 In 2 replicate 12-month studies of 1,579 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 250/50 (7%) than in those receiving salmeterol 50 mcg (3%).
 The incidence of pneumonia in the patients treated with ADVAIR DISKUS was higher in patients over 65 years of age (9%) compared with the incidence in patients less than 65 years of age (4%).
 
@@ -297,7 +298,7 @@ Fluticasone propionate and salmeterol are substrates of cytochrome P450 3A4.
 
 #### Fluticasone propionate
 
-A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong potent cytochrome P450 3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions).
+A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong cytochrome P450 3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions).
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
 Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
 
@@ -308,7 +309,7 @@ In a placebo-controlled, crossover study in 8 healthy adult volunteers, coadmini
 In a drug interaction study in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
 Three (3) subjects were withdrawn due to beta2-agonist side effects (2 with prolonged QTc and 1 with palpitations and sinus tachycardia).
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
-Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate:Drug Interactions).
+Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -361,7 +362,7 @@ No teratogenicity was seen in the rat at inhalation doses up to 68.7 mcg/kg (les
 
 In the rabbit, fetal weight reduction and cleft palate were observed at a subcutaneous dose of 4 mcg/kg (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis).
 However, no teratogenic effects were reported at oral doses up to 300 mcg/kg (approximately 5 times the maximum recommended human daily inhalation dose on a mcg/m2 basis) of fluticasone propionate.
-No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration (see CLINICAL PHARMACOLOGY: Pharmacokinetcs: Fluticasone Propionate: Absorption).
+No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Absorption).
 
 Fluticasone propionate crossed the placenta following administration of a subcutaneous dose of 100 mcg/kg to mice (less than the maximum recommended human daily inhalation dose on a mcg/m2 basis), a subcutaneous or an oral dose of 100 mcg/kg to rats (equivalent to the maximum recommended human daily inhalation dose on a mcg/m2 basis), and an oral dose of 300 mcg/kg to rabbits (approximately 5 times the maximum recommended human daily inhalation dose on a mcg/m2 basis).
 
