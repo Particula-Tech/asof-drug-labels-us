@@ -11,3 +11,16 @@ Triamterene occasionally causes increases in serum potassium which can result in
 It does not produce alkalosis, because it does not cause excessive excretion of titratable acid and ammonium.
 
 Triamterene has been shown to cross the placental barrier and appear in the cord blood of animals.
+
+## Pharmacokinetics
+
+Onset of action is 2 to 4 hours after ingestion.
+In normal volunteers the mean peak serum levels were 30 ng/mL at 3 hours.
+The average percent of drug recovered in the urine (0 to 48 hours) was 21%.
+Triamterene is primarily metabolized to the sulfate conjugate of hydroxytriamterene.
+Both the plasma and urine levels of this metabolite greatly exceed triamterene levels.
+Triamterene is rapidly absorbed, with somewhat less than 50% of the oral dose reaching the urine.
+Most patients will respond to Dyrenium (triamterene) during the first day of treatment.
+
+Maximum therapeutic effect, however, may not be seen for several days.
+Duration of diuresis depends on several factors, especially renal function, but it generally tapers off 7 to 9 hours after administration.
