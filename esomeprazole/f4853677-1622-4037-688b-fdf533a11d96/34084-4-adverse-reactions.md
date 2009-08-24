@@ -1,41 +1,109 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Safety Experience with Intravenous NEXIUM
+## 6.1 Clinical Studies Experience
 
-The safety of intravenous esomeprazole is based on results from clinical trials conducted in three different populations including patients having symptomatic GERD with or without a history of erosive esophagitis (n=206), patients with erosive esophagitis (n=246) and healthy subjects (n=204).
-Adverse experiences occurring in >1% of patients treated with intravenous esomeprazole (n=359) in trials irrespective of the relationship to NEXIUM are listed below by body system:
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Skin and appendages disorders:pruritus (1.1%);Central and peripheral nervous system disorders:dizziness (2.5%), headache (10.9%);Gastrointestinal system disorders:abdominal pain (5.8%), constipation (2.5%), diarrhea (3.9%), dyspepsia (6.4%), flatulence (10.3%), mouth dry (3.9%), nausea (6.4%);Respiratory system disorders:respiratory infection (1.1%), sinusitis (1.7%); Body as a whole − general disorders:AE associated with test procedure (23.1%); and Application site disorders: application site reaction (1.7%) (including mild focal erythema and pruritus at IV insertion site).
-
-Intravenous treatment with esomeprazole 20 and 40 mg administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole 20 and 40 mg.
-
-## Safety Experience with Oral NEXIUM
-
-The safety of oral NEXIUM was evaluated in over 15,000 patients (aged 18-84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
+The safety of NEXIUM was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
 Over 2,900 patients were treated in long-term studies for up to 6-12 months.
+In general, NEXIUM was well tolerated in both short and long-term clinical trials.
+
+The safety of NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
+In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
+In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
+No new safety concerns were identified in pediatric patients.
 
 The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on NEXIUM 20 mg, 2,434 patients on NEXIUM 40 mg, and 3,008 patients on omeprazole 20 mg daily.
-The most frequently occurring adverse events (≥1%) in all three groups was headache (5.5, 5.0, and 3.8, respectively) and diarrhea (no difference among the three groups).
+The most frequently occurring adverse reactions (≥1%) in all three groups were headache (5.5, 5.0, and 3.8, respectively) and diarrhea (no difference among the three groups).
 Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or omeprazole.
 
-Additional adverse events that were reported as possibly or probably related to NEXIUM with an incidence < 1% are listed below by body system:
+Additional adverse reactions that were reported as possibly or probably related to NEXIUM with an incidence < 1% are listed below by body system:
 
-Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, chest pain, chest pain substernal, facial edema, peripheral edema, hot flushes, fatigue, fever, flu-like disorder, generalized edema, leg edema, malaise, pain, rigors; Cardiovascular: flushing, hypertension, tachycardia; Endocrine: goiter; Gastrointestinal: bowel irregularity, constipation aggravated, dyspepsia, dysphagia, dysplasia GI, epigastric pain, eructation, esophageal disorder, frequent stools, gastroenteritis, GI hemorrhage, GI symptoms not otherwise specified, hiccup, melena, mouth disorder, pharynx disorder, rectal disorder, serum gastrin increased, tongue disorder, tongue edema, ulcerative stomatitis, vomiting; Hearing:earache, tinnitus; Hematologic: anemia, anemia hypochromic, cervical lymphoadenopathy, epistaxis, leukocytosis, leukopenia, thrombocytopenia; Hepatic: bilirubinemia, hepatic function abnormal, SGOT increased, SGPT increased; Metabolic/Nutritional:glycosuria, hyperuricemia, hyponatremia, increased alkaline phosphatase, thirst, vitamin B12 deficiency, weight increase, weight decrease; Musculoskeletal: arthralgia, arthritis aggravated, arthropathy, cramps, fibromyalgia syndrome, hernia, polymyalgia rheumatica; Nervous System/Psychiatric: anorexia, apathy, appetite increased, confusion, depression aggravated, dizziness, hypertonia, nervousness, hypoesthesia, impotence, insomnia, migraine, migraine aggravated, paresthesia, sleep disorder, somnolence, tremor, vertigo, visual field defect; Reproductive: dysmenorrhea, menstrual disorder, vaginitis; Respiratory: asthma aggravated, coughing, dyspnea, larynx edema, pharyngitis, rhinitis, sinusitis; Skin and Appendages: acne, angioedema, dermatitis, pruritus, pruritus ani, rash, rash erythematous, rash maculopapular, skin inflammation, sweating increased, urticaria; Special Senses:otitis media, parosmia, taste loss, taste perversion; Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, hematuria, micturition frequency, moniliasis, genital moniliasis, polyuria; Visual: conjunctivitis, vision abnormal.
+Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, chest pain, substernal chest pain, facial edema, peripheral edema, hot flushes, fatigue, fever, flu-like disorder, generalized edema, leg edema, malaise, pain, rigors;
 
-Endoscopic findings that were reported as adverse events include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
+Cardiovascular: flushing, hypertension, tachycardia;
 
-The incidence of treatment-related adverse events during 6-month maintenance treatment was similar to placebo.
-There were no differences in types of related adverse events seen during maintenance treatment up to 12 months compared to short-term treatment.
+Endocrine: goiter;
+
+Gastrointestinal: bowel irregularity, constipation aggravated, dyspepsia, dysphagia, dysplasia GI, epigastric pain, eructation, esophageal disorder, frequent stools, gastroenteritis, GI hemorrhage, GI symptoms not otherwise specified, hiccup, melena, mouth disorder, pharynx disorder, rectal disorder, serum gastrin increased, tongue disorder, tongue edema, ulcerative stomatitis, vomiting;
+
+Hearing: earache, tinnitus;
+
+Hematologic: anemia, anemia hypochromic, cervical lymphadenopathy, epistaxis, leukocytosis, leukopenia, thrombocytopenia;
+
+Hepatic: bilirubinemia, hepatic function abnormal, SGOT increased, SGPT increased;
+
+Metabolic/Nutritional: glycosuria, hyperuricemia, hyponatremia, increased alkaline phosphatase, thirst, vitamin B12 deficiency, weight increase, weight decrease;
+
+Musculoskeletal: arthralgia, arthritis aggravated, arthropathy, cramps, fibromyalgia syndrome, hernia, polymyalgia rheumatica;
+
+Nervous System/Psychiatric: anorexia, apathy, appetite increased, confusion, depression aggravated, dizziness, hypertonia, nervousness, hypoesthesia, impotence, insomnia, migraine, migraine aggravated, paresthesia, sleep disorder, somnolence, tremor, vertigo, visual field defect;
+
+Reproductive: dysmenorrhea, menstrual disorder, vaginitis;
+
+Respiratory: asthma aggravated, coughing, dyspnea, larynx edema, pharyngitis, rhinitis, sinusitis;
+
+Skin and Appendages: acne, angioedema, dermatitis, pruritus, pruritus ani, rash, rash erythematous, rash maculo-papular, skin inflammation, sweating increased, urticaria;
+
+Special Senses: otitis media, parosmia, taste loss, taste perversion;
+
+Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, hematuria, micturition frequency, moniliasis, genital moniliasis, polyuria;
+
+Visual: conjunctivitis, vision abnormal.
+
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12) for further information on thyroid effects].
+Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
+
+Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
+
+The incidence of treatment-related adverse reactions during 6-month maintenance treatment was similar to placebo.
+There were no differences in types of related adverse reactions seen during maintenance treatment up to 12 months compared to short-term treatment.
 
 Two placebo-controlled studies were conducted in 710 patients for the treatment of symptomatic gastroesophageal reflux disease.
-The most common adverse events that were reported as possibly or probably related to NEXIUM were diarrhea (4.3%), headache (3.8%), and abdominal pain (3.8%).
+The most common adverse reactions that were reported as possibly or probably related to NEXIUM were diarrhea (4.3%), headache (3.8%), and abdominal pain (3.8%).
 
-Postmarketing Reports – There have been spontaneous reports of adverse events with postmarketing use of esomeprazole.
-These reports have included rare cases of anaphylactic reaction and severe dermatologic reactions, including toxic epidermal necrolysis (TEN, some fatal), Stevens-Johnson syndrome, and erythema multiforme, and pancreatitis.
+## 6.2 Combination Treatment with Amoxicillin and Clarithromycin
 
-Other adverse events not observed with NEXIUM, but occurring with omeprazole can be found in the omeprazole package insert, ADVERSE REACTIONS section.
+In clinical trials using combination therapy with NEXIUM plus amoxicillin and clarithromycin, no additional adverse reactions specific to these drug combinations were observed.
+Adverse reactions that occurred were limited to those observed when using NEXIUM, amoxicillin, or clarithromycin alone.
 
-## Laboratory Events
+The most frequently reported drug-related adverse reactions for patients who received triple therapy for 10 days were diarrhea (9.2%), taste perversion (6.6%), and abdominal pain (3.7%).
+No treatment-emergent adverse reactions were observed at higher rates with triple therapy than were observed with NEXIUM alone.
 
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone (see CLINICAL PHARMACOLOGY, Endocrine Effects for further information on thyroid effects).
-Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
+For more information on adverse reactions with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions sections.
+
+In clinical trials using combination therapy with NEXIUM plus amoxicillin and clarithromycin, no additional increased laboratory abnormalities particular to these drug combinations were observed.
+
+For more information on laboratory changes with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions section.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of NEXIUM.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These reports are listed below by body system:
+
+Blood And Lymphatic: agranulocytosis, pancytopenia;
+
+Eye: blurred vision;
+
+Gastrointestinal: pancreatitis; stomatitis;
+
+Hepatobiliary: hepatic failure, hepatitis with or without jaundice;
+
+Immune System: anaphylactic reaction/shock;
+
+Infections and Infestations: GI candidiasis;
+
+Musculoskeletal and Connective Tissue: muscular weakness, myalgia;
+
+Nervous System: hepatic encephalopathy, taste disturbance;
+
+Psychiatric: aggression, agitation, depression, hallucination;
+
+Renal and Urinary: interstitial nephritis;
+
+Reproductive System and Breast: gynecomastia;
+
+Respiratory, Thoracic, and Mediastinal: bronchospasm;
+
+Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal).

@@ -1,12 +1,36 @@
 {
-  "application_numbers": [],
-  "inn": "esomeprazole",
-  "labeler": "AstraZeneca",
-  "package_ndcs": [
-    "0186-6020-01",
-    "0186-6040-01"
+  "application_numbers": [
+    "NDA021153",
+    "NDA021957",
+    "NDA022101"
   ],
-  "products": [],
+  "inn": "esomeprazole",
+  "labeler": "AstraZeneca LP",
+  "package_ndcs": [
+    "0186-4010-01",
+    "0186-4020-01",
+    "0186-4040-01",
+    "0186-5020-31",
+    "0186-5020-54",
+    "0186-5020-82",
+    "0186-5022-28",
+    "0186-5040-31",
+    "0186-5040-54",
+    "0186-5040-82",
+    "0186-5042-28"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "esomeprazole magnesium",
+      "name": "NEXIUM"
+    },
+    {
+      "form": "GRANULE, DELAYED RELEASE",
+      "generic": "esomeprazole magnesium",
+      "name": "NEXIUM"
+    }
+  ],
   "setid": "f4853677-1622-4037-688b-fdf533a11d96",
   "source": "dailymed"
 }

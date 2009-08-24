@@ -1,27 +1,41 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NEXIUM I.V. for Injection is supplied as a freeze-dried powder containing 20 mg or 40 mg of esomeprazole per single-use vial.
+NEXIUM Delayed-Release Capsules, 20 mg, are opaque, hard gelatin, amethyst colored capsules with two radial bars in yellow on the cap and NEXIUM 20 mg in yellow on the body.
+They are supplied as follows:
 
-NDC 0186-6020-01 one carton containing 10 vials of NEXIUM I.V. for Injection (each vial contains 20 mg of esomeprazole).
+NDC 0186-5020-31 unit of use bottles of 30
 
-NDC 0186-6040-01 one carton containing 10 vials of NEXIUM I.V. for Injection (each vial contains 40 mg of esomeprazole).
+NDC 0186-5022-28 unit dose packages of 100
 
-## Storage
+NDC 0186-5020-54 bottles of 90
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
+NDC 0186-5020-82 bottles of 1000
+
+NEXIUM Delayed-Release Capsules, 40 mg, are opaque, hard gelatin, amethyst colored capsules with three radial bars in yellow on the cap and NEXIUM 40 mg in yellow on the body.
+They are supplied as follows:
+
+NDC 0186-5040-31 unit of use bottles of 30
+
+NDC 0186-5042-28 unit dose packages of 100
+
+NDC 0186-5040-54 bottles of 90
+
+NDC 0186-5040-82 bottles of 1000
+
+NEXIUM For Delayed-Release Oral Suspension is supplied as a unit dose packet containing a fine yellow powder, consisting of white to pale brownish esomeprazole granules and pale yellow inactive granules.
+NEXIUM unit dose packets are supplied as follows:
+
+NDC 0186-4010–01 unit dose packages of 30: 10 mg packets
+
+NDC 0186-4020–01 unit dose packages of 30: 20 mg packets
+
+NDC 0186-4040–01 unit dose packages of 30: 40 mg packets
+
+Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F).
 [See USP Controlled Room Temperature].
-Protect from light.
-Store in carton until time of use.
+Keep NEXIUM Delayed-Release Capsules container tightly closed.
+Dispense in a tight container if the NEXIUM Delayed-Release Capsules product package is subdivided.
 
-NEXIUM is a registered trademark of the AstraZeneca group of companies
+NEXIUM and the color purple as applied to the capsule are registered trademarks of the AstraZeneca group of companies.
 
-©AstraZeneca 2005
-
-AstraZeneca LP
-
-Wilmington, DE 19850
-
-808628-00
-
-Rev.
-03/05
+©AstraZeneca 2006, 2007, 2008
