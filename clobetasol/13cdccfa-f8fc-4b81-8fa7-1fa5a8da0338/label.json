@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021644"
+  ],
+  "inn": "clobetasol",
+  "labeler": "DPT Laboratories, Ltd.",
+  "package_ndcs": [
+    "63094-3847-4",
+    "63094-3847-5"
+  ],
+  "products": [
+    {
+      "form": "SHAMPOO",
+      "generic": "clobetasol propionate",
+      "name": "Clobex"
+    }
+  ],
+  "setid": "13cdccfa-f8fc-4b81-8fa7-1fa5a8da0338",
+  "source": "dailymed"
+}
