@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-No drug interaction studies have been performed with sevelamer carbonate.
+Sevelamer carbonate has been studied in human drug-drug interaction studies with warfarin and digoxin.
 Sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, has been studied in human drug-drug interaction studies with ciprofloxacin, digoxin, warfarin, enalapril, metoprolol and iron.
 
 ## 7.1 Ciprofloxacin
@@ -11,9 +11,13 @@ In a study of 15 healthy subjects, a co-administered single dose of 2.8 grams of
 
 In 19 healthy subjects receiving 2.4 grams of sevelamer hydrochloride three times a day with meals for 2 days, sevelamer did not alter the pharmacokinetics of a single dose of digoxin.
 
+In 18 healthy subjects receiving 9.6 grams of sevelamer carbonate once daily, sevelamer did not alter the pharmacokinetics of a single dose of digoxin.
+
 ## 7.3 Warfarin
 
-In 14 healthy subjects receiving 2.4 grams of sevelamer hydrochloride three times a day with meals for 2 days, sevelamer did not alter the pharmacokinetics of a single dose of warfarin.
+In 14 healthy subjects receiving 2.4 g of sevelamer hydrochloride three times a day with meals, sevelamer did not alter the pharmacokinetics of a single dose of warfarin.
+
+In 14 healthy subjects receiving 9.6 grams of sevelamer carbonate once daily with meal, sevelamer did not alter the pharmacokinetics of a single dose of warfarin.
 
 ## 7.4 Enalapril
 
@@ -31,8 +35,8 @@ In 23 healthy subjects, a single 2.8 gram dose of sevelamer hydrochloride did no
 
 There are no empirical data on avoiding drug interactions between Renvela and most concomitant drugs.
 During postmarketing experience, very rare cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
-Closer monitoring of TSH levels is therefore recommended in patients receiving both medications.
+Monitor TSH levels and signs of hypothyroidism in patients receiving both medications.
 
-When administering an oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, the drug should be administered at least one hour before or three hours after Renvela, or the physician should consider monitoring blood levels of the drug.
+When administering an oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, there is no information that suggests a dosing regimen that would be universally appropriate for all drugs.
+One may, however, administer the drug one hour before or three hours after Renvela, and when important, monitor blood levels of the drug.
 Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from the clinical trials.
-Special precautions should be taken when prescribing Renvela to patients also taking these medications.

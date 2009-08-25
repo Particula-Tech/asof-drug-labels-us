@@ -6,7 +6,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 There are limited data on the safety of Renvela.
 However, based on the fact that it contains the same active ingredient as the hydrochloride salt, the adverse event profiles of the two salts should be similar.
-In a cross-over study in hemodialysis patients with treatment durations of eight weeks each and no washout the adverse reactions on sevelamer carbonate were similar to those reported for sevelamer hydrochloride.
+In a cross-over study in hemodialysis patients with treatment durations of eight weeks each and no washout the adverse reactions on sevelamer carbonate tablets were similar to those reported for sevelamer hydrochloride.
+In another cross-over study in hemodialysis patients, with treatment durations of four weeks each and no washout between treatment periods, the adverse reactions on sevelamer carbonate powder were similar to those reported for sevelamer hydrochloride.
 
 In a parallel design study of sevelamer hydrochloride with treatment duration of 52 weeks, adverse reactions reported for sevelamer hydrochloride (n=99) were similar to those reported for the active-comparator group (n=101).
 Overall adverse reactions among those treated with sevelamer hydrochloride occurring in > 5% of patients included: vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%), abdominal pain (9%), flatulence (8%) and constipation (8%).
@@ -21,7 +22,7 @@ Patients on peritoneal dialysis should be closely monitored to ensure the reliab
 
 ## 6.2 Postmarketing Experience
 
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
+
 The following adverse reactions have been identified during post-approval use of sevelamer hydrochloride, which has the same active moiety as sevelamer carbonate: pruritus, rash, abdominal pain, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation.
 Appropriate medical management should be given to patients who develop constipation or have worsening of existing constipation to avoid severe complications.
-
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or to establish a causal relationship to drug exposure.

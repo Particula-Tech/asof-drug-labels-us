@@ -3,7 +3,7 @@
 ## 5.1 Use Caution in Patients with Gastrointestinal Disorders
 
 The safety of Renvela has not been established in patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders including severe constipation, or major GI tract surgery.
-Use caution in patients with these GI disorders.
+Uncommon cases of bowel obstruction and perforation have been reported.
 
 ## 5.2 Monitor Serum Chemistries
 

@@ -1,12 +1,32 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022127",
+    "NDA022318"
+  ],
   "inn": "sevelamer",
   "labeler": "Genzyme Corporation",
   "package_ndcs": [
     "58468-0130-1",
-    "58468-0130-2"
+    "58468-0130-2",
+    "58468-0131-1",
+    "58468-0131-2",
+    "58468-0131-3",
+    "58468-0131-4",
+    "58468-0132-1",
+    "58468-0132-2"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "sevelamer carbonate",
+      "name": "Renvela"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sevelamer carbonate",
+      "name": "Renvela"
+    }
+  ],
   "setid": "e6328460-a57b-450b-a48c-6dcd4b476360",
   "source": "dailymed"
 }

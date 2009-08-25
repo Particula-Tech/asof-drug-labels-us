@@ -12,11 +12,11 @@ Sevelamer carbonate taken with meals has been shown to control serum phosphorus 
 Renvela contains sevelamer carbonate, a non-absorbed phosphate binding crosslinked polymer, free of metal and calcium.
 It contains multiple amines separated by one carbon from the polymer backbone.
 These amines exist in a protonated form in the intestine and interact with phosphate molecules through ionic and hydrogen bonding.
-By binding phosphate in the dietary tract and decreasing absorption, sevelamer carbonate lowers the phosphate concentration in the serum.
+By binding phosphate in the gastrointestinal tract and decreasing absorption, sevelamer carbonate lowers the phosphate concentration in the serum (serum phosphorus).
 
 ## 12.2 Pharmacodynamics
 
-In addition to effects on serum phosphate levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models.
+In addition to effects on serum phosphorus levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models.
 Bile acid binding by ion exchange resins is a well-established method of lowering blood cholesterol.
 Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15-31%.
 This effect is observed after 2 weeks.
@@ -42,4 +42,6 @@ Sevelamer hydrochloride was not mutagenic in the Ames bacterial mutation assay.
 Sevelamer hydrochloride did not impair the fertility of male or female rats in a dietary administration study in which the females were treated from 14 days prior to mating through gestation and the males were treated for 28 days prior to mating.
 The highest dose in this study was 4.5 g/kg/day (human equivalent dose 3 times the maximum clinical trial dose of 13 g).
 
-In pregnant rats given dietary doses of 0.5, 1.5 or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid- and high-dose groups (human equivalent doses less than the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500 or 1000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose).
+## 13.2 Developmental Toxicity
+
+In pregnant rats given dietary doses of 0.5, 1.5 or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid- and high-dose groups (human equivalent doses approximately equal to and 3.4 times the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500 or 1000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose).
