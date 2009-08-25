@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019389"
+  ],
   "inn": "beclomethasone",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0388-79"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SPRAY, SUSPENSION",
+      "generic": "beclomethasone dipropionate monohydrate",
+      "name": "BECONASE"
+    }
+  ],
   "setid": "a44782cf-4ab5-4c8a-79b7-221f21e40a34",
   "source": "dailymed"
 }
