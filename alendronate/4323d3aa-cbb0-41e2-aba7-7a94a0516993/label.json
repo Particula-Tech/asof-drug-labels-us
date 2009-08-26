@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA090124"
+  ],
+  "inn": "alendronate",
+  "labeler": "NorthStar Rx LLC",
+  "package_ndcs": [
+    "16714-631-01",
+    "16714-631-02",
+    "16714-631-10",
+    "16714-631-11",
+    "16714-632-01",
+    "16714-632-02",
+    "16714-632-10",
+    "16714-632-11",
+    "16714-633-01",
+    "16714-633-02",
+    "16714-633-10",
+    "16714-633-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alendronate sodium",
+      "name": "Alendronate Sodium"
+    }
+  ],
+  "setid": "4323d3aa-cbb0-41e2-aba7-7a94a0516993",
+  "source": "dailymed"
+}

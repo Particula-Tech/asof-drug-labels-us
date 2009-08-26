@@ -1,0 +1,121 @@
+# ADVERSE REACTIONS
+
+## Clinical Studies
+
+In clinical studies of up to five years in duration adverse experiences associated with alendronate sodium usually were mild, and generally did not require discontinuation of therapy.
+Alendronate sodium has been evaluated for safety in approximately 8000 postmenopausal women in clinical studies.
+
+### Treatment of osteoporosis
+
+#### Postmenopausal women
+
+In two identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational; n=994), discontinuation of therapy due to any clinical adverse experience occurred in 4.1% of 196 patients treated with alendronate sodium 10 mg/day and 6% of 397 patients treated with placebo.
+In the Fracture Intervention Trial (n=6459), discontinuation of therapy due to any clinical adverse experience occurred in 9.1% of 3236 patients treated with alendronate sodium 5 mg/day for 2 years and 10 mg/day for either one or two additional years and 10.1% of 3223 patients treated with placebo.
+Discontinuations due to upper gastrointestinal adverse experiences were: alendronate sodium, 3.2%; placebo, 2.7%.
+In these study populations, 49 to 54% had a history of gastrointestinal disorders at baseline and 54 to 89% used nonsteroidal anti-inflammatory drugs or aspirin at some time during the studies.
+Adverse experiences from these studies considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either alendronate sodium or placebo are presented in the following table.
+
+Osteoporosis Treatment Studies in Postmenopausal Women Adverse Experiences Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+
+|  | Alendronate Sodium* % (n=196) | Placebo % (n=397) | Alendronate Sodium** % (n=3236) | Placebo % (n=3223) |
+| --- | --- | --- | --- | --- |
+|  | United States/Multinational Studies |  | Fracture Intervention Trial |  |
+| Gastrointestinal abdominal pain nausea dyspepsia constipation diarrhea flatulence acid regurgitation esophageal ulcer vomiting dysphagia abdominal distention gastritis Musculoskeletal musculoskeletal (bone, muscle or joint) pain muscle cramp Nervous System/Psychiatric headache dizziness Special Senses taste perversion | 6.6 3.6 3.6 3.1 3.1 2.6 2 1.5 1 1 1 0.5 4.1 0 2.6 0 0.5 | 4.8 4 3.5 1.8 1.8 0.5 4.3 0 1.5 0 0.8 1.3 2.5 1 1.5 1 1 | 1.5 1.1 1.1 0 0.6 0.2 1.1 0.1 0.2 0.1 0 0.6 0.4 0.2 0.2 0 0.1 | 1.5 1.5 1.2 0.2 0.3 0.3 0.9 0.1 0.3 0.1 0 0.7 0.3 0.1 0.2 0.1 0 |
+| *10 mg/day for three years **5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years |  |  |  |  |
+
+Rarely, rash and erythema have occurred.
+One patient treated with alendronate sodium (10 mg/day), who had a history of peptic ulcer disease and gastrectomy and who was taking concomitant aspirin developed an anastomotic ulcer with mild hemorrhage, which was considered drug related.
+Aspirin and alendronate sodium were discontinued and the patient recovered.
+The adverse experience profile was similar for the 401 patients treated with either 5 or 20 mg doses of alendronate sodium in the United States and Multinational studies.
+The adverse experience profile for the 296 patients who received continued treatment with either 5 or 10 mg doses of alendronate sodium in the two-year extension of these studies (treatment years 4 and 5) was similar to that observed during the three-year placebo-controlled period.
+During the extension period, of the 151 patients treated with alendronate sodium 10 mg/day, the proportion of patients who discontinued therapy due to any clinical adverse experience was similar to that during the first three years of the study.
+In a one-year, double-blind, multicenter study, the overall safety and tolerability profiles of once weekly alendronate sodium 70 mg and alendronate sodium 10 mg daily were similar.
+The adverse experiences considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients in either treatment group are presented in the following table.
+
+Osteoporosis Treatment Studies in Postmenopausal Women Adverse Experiences Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+
+|  | Once Weekly Alendronate Sodium 70 mg % (n=519) | Alendronate Sodium 10 mg/day % (n=370) |
+| --- | --- | --- |
+| Gastrointestinal abdominal pain dyspepsia acid regurgitation nausea abdominal distention constipation flatulence gastritis gastric ulcer | 3.7 2.7 1.9 1.9 1 0.8 0.4 0.2 0 | 3 2.2 2.4 2.4 1.4 1.6 1.6 1.1 1.1 |
+| Musculoskeletal musculoskeletal (bone, muscle, joint) pain muscle cramp | 2.9 0.2 | 3.2 1.1 |
+
+#### Men
+
+In two placebo-controlled, double-blind, multicenter studies in men (a two-year study of alendronate sodium 10 mg/day and a one-year study of once weekly alendronate sodium 70 mg) the rates of discontinuation of therapy due to any clinical adverse experience were 2.7% for alendronate sodium 10 mg/day vs. 10.5% for placebo, and 6.4% for once weekly alendronate sodium 70 mg vs. 8.6% for placebo.
+The adverse experiences considered by the investigators as possibly, probably, or definitely drug related in ≥2% of patients treated with either alendronate sodium or placebo are presented in the following table.
+
+Osteoporosis Studies in Men Adverse Experiences Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥2% of Patients
+
+|  | Alendronate Sodium 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly Alendronate Sodium 70 mg % (n=109) | Placebo % (n=58) |
+| --- | --- | --- | --- | --- |
+|  | Two-year Study |  | One-year Study |  |
+| Gastrointestinal acid regurgitation flatulence gastroesophageal reflux disease dyspepsia diarrhea abdominal pain nausea | 4.1 4.1 0.7 3.4 1.4 2.1 2.1 | 3.2 1.1 3.2 0 1.1 1.1 0 | 0 0 2.8 2.8 2.8 0.9 0 | 0 0 0 1.7 0 3.4 0 |
+
+### Prevention of osteoporosis in postmenopausal women
+
+The safety of alendronate sodium 5 mg/day in postmenopausal women 40 to 60 years of age has been evaluated in three double-blind, placebo-controlled studies involving over 1,400 patients randomized to receive alendronate sodium for either two or three years.
+In these studies the overall safety profiles of alendronate sodium 5 mg/day and placebo were similar.
+Discontinuation of therapy due to any clinical adverse experience occurred in 7.5% of 642 patients treated with alendronate sodium 5 mg/day and 5.7% of 648 patients treated with placebo.
+In a one-year, double-blind, multicenter study, the overall safety and tolerability profiles of once weekly alendronate sodium 35 mg and alendronate sodium 5 mg daily were similar.
+The adverse experiences from these studies considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either once weekly alendronate sodium 35 mg, alendronate sodium 5 mg/day or placebo are presented in the following table.
+
+Osteoporosis Prevention Studies in Postmenopausal Women Adverse Experiences Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+
+|  | Two/Three-Year Studies |  | One-Year Study |  |
+| --- | --- | --- | --- | --- |
+| Alendronate Sodium 5 mg/day % (n=642) | Placebo % (n=648) | Alendronate Sodium 5 mg/day % (n=361) | Once Weekly Alendronate Sodium 35 mg % (n=362) |  |
+| Gastrointestinal dyspepsia abdominal pain acid regurgitation nausea diarrhea constipation abdominal distention Musculoskeletal musculoskeletal (bone, muscle or joint) pain | 1.9 1.7 1.4 1.4 1.1 0.9 0.2 0.8 | 1.4 3.4 2.5 1.4 1.7 0.5 0.3 0.9 | 2.2 4.2 4.2 2.5 1.1 1.7 1.4 1.9 | 1.7 2.2 4.7 1.4 0.6 0.3 1.1 2.2 |
+
+### Concomitant use with estrogen/hormone replacement therapy
+
+In two studies (of one and two years’ duration) of postmenopausal osteoporotic women (total: n=853), the safety and tolerability profile of combined treatment with alendronate sodium 10 mg once daily and estrogen ± progestin (n=354) was consistent with those of the individual treatments.
+
+### Treatment of glucocorticoid-induced osteoporosis
+
+In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of alendronate sodium 5 and 10 mg/day were generally similar to that of placebo.
+The adverse experiences considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either alendronate sodium 5 or 10 mg/day or placebo are presented in the following table.
+
+One-Year Studies in Glucocorticoid-Treated Patients Adverse Experiences Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
+
+|  | Alendronate Sodium 10 mg/day % (n=157) | Alendronate Sodium 5 mg/day % (n=161) | Placebo % (n=159) |
+| --- | --- | --- | --- |
+| Gastrointestinal abdominal pain acid regurgitation constipation melena nausea diarrhea Nervous System/Psychiatric headache | 3.2 2.5 1.3 1.3 0.6 0 0.6 | 1.9 1.9 0.6 0 1.2 0 0 | 0 1.3 0 0 0.6 1.3 1.3 |
+
+The overall safety and tolerability profile in the glucocorticoid-induced osteoporosis population that continued therapy for the second year of the studies (alendronate sodium: n=147) was consistent with that observed in the first year.
+
+### Paget’s disease of bone
+
+In clinical studies (osteoporosis and Paget's disease), adverse experiences reported in 175 patients taking alendronate sodium 40 mg/day for 3 to 12 months were similar to those in postmenopausal women treated with alendronate sodium 10 mg/day.
+However, there was an apparent increased incidence of upper gastrointestinal adverse experiences in patients taking alendronate sodium 40 mg/day (17.7% alendronate sodium vs. 10.2% placebo).
+One case of esophagitis and two cases of gastritis resulted in discontinuation of treatment.
+Additionally, musculoskeletal (bone, muscle or joint) pain, which has been described in patients with Paget's disease treated with other bisphosphonates, was considered by the investigators as possibly, probably, or definitely drug related in approximately 6% of patients treated with alendronate sodium 40 mg/day versus approximately 1% of patients treated with placebo, but rarely resulted in discontinuation of therapy.
+Discontinuation of therapy due to any clinical adverse experience occurred in 6.4% of patients with Paget's disease treated with alendronate sodium 40 mg/day and 2.4% of patients treated with placebo.
+
+### Osteogenesis Imperfecta
+
+Alendronate sodium tablets are not indicated for use in children.
+The overall safety profile of alendronate sodium in OI patients treated for up to 24 months was generally similar to that of adults with osteoporosis treated with alendronate sodium.
+However, there was an increased occurrence of vomiting in OI patients treated with alendronate sodium compared to placebo.
+During the 24-month treatment period, vomiting was observed in 32 of 109 (29.4%) patients treated with alendronate sodium and 3 of 30 (10%) patients treated with placebo.
+In a pharmacokinetic study, 6 of 24 pediatric OI patients who received a single oral dose of alendronate sodium 35 or 70 mg developed fever, flu-like symptoms, and/or mild lymphocytopenia within 24 to 48 hours after administration.
+These events, lasting no more than 2 to 3 days and responding to acetaminophen, are consistent with an acute-phase response that has been reported in patients receiving bisphosphonates, including alendronate sodium.
+See ADVERSE REACTIONS, Post-Marketing Experience, Body as a Whole .
+
+## Laboratory Test Findings
+
+In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking alendronate sodium versus approximately 12% and 3% of those taking placebo.
+However, the incidences of decreases in serum calcium to <8 mg/dL (2 mM) and serum phosphate to ≤2 mg/dL (0.65 mM) were similar in both treatment groups.
+
+## Post-Marketing Experience
+
+The following adverse reactions have been reported in post-marketing use: Body as a Whole: hypersensitivity reactions including urticaria and rarely angioedema.
+Transient symptoms of myalgia, malaise, asthenia and rarely, fever have been reported with alendronate sodium, typically in association with initiation of treatment.
+Rarely, symptomatic hypocalcemia has occurred, generally in association with predisposing conditions.
+Rarely, peripheral edema.
+Gastrointestinal: esophagitis, esophageal erosions, esophageal ulcers, rarely esophageal stricture or perforation, and oropharyngeal ulceration.
+Gastric or duodenal ulcers, some severe and with complications have also been reported (see WARNINGS, PRECAUTIONS, Information for Patients , and DOSAGE AND ADMINISTRATION ).
+Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection, often with delayed healing, has been reported rarely (see PRECAUTIONS, Dental ).
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating (see PRECAUTIONS, Musculoskeletal Pain ); joint swelling.
+Nervous system: dizziness and vertigo.
+Skin: rash (occasionally with photosensitivity), pruritus, alopecia, rarely severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis.
+Special Senses: rarely uveitis, scleritis or episcleritis.
