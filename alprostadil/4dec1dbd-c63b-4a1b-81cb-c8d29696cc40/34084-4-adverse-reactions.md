@@ -1,0 +1,76 @@
+# ADVERSE REACTIONS
+
+## Local Adverse Reactions
+
+The following local adverse reaction information was derived from controlled and uncontrolled studies of CAVERJECT Sterile Powder, including an uncontrolled 18-month safety study.
+
+Local Adverse Reactions Reported by ≥ 1% of Patients Treated with CAVERJECT Sterile Powder for up to 18 MonthsExcept for penile pain (2%), no significant local adverse reactions were reported by 294 patients who received 1 to 3 injections of placebo.
+
+| Event | CAVERJECT N = 1861 |
+| --- | --- |
+| Penile pain | 37% |
+| Prolonged erection | 4% |
+| Penile fibrosisSee General Precautions. | 3% |
+| Injection site hematoma | 3% |
+| Penis disorderIncludes numbness, yeast infection, irritation, sensitivity, phimosis, pruritus, erythema, venous leak, penile skin tear, strange feeling of penis, discoloration of penile head, itch at tip of penis. | 3% |
+| Injection site ecchymosis | 2% |
+| Penile rash | 1% |
+| Penile edema | 1% |
+
+## Penile Pain
+
+Penile pain after intracavernosal administration of CAVERJECT was reported at least once by 37% of patients in clinical studies of up to 18 months in duration.
+In the majority of the cases, penile pain was rated mild or moderate in intensity.
+Three percent of patients discontinued treatment because of penile pain.
+The frequency of penile pain was 2% in 294 patients who received 1 to 3 injections of placebo.
+
+## Prolonged Erection/Priapism
+
+In clinical trials, prolonged erection was defined as an erection that lasted for 4 to 6 hours; priapism was defined as erection that lasted 6 hours or longer.
+The frequency of prolonged erection after intracavernosal administration of CAVERJECT was 4%, while the frequency of priapism was 0.4% (see WARNINGS).
+
+## Hematoma/Ecchymosis
+
+The frequency of hematoma and ecchymosis was 3% and 2%, respectively.
+In most cases, hematoma/ecchymosis was judged to be a complication of a faulty injection technique.
+Accordingly, proper instruction of the patient in self-injection is of importance to minimize the potential of hematoma/ecchymosis (see DOSAGE AND ADMINISTRATION).
+
+The following local adverse reactions were reported by fewer than 1% of patients after injection of CAVERJECT: balanitis, injection site hemorrhage, injection site inflammation, injection site itching, injection site swelling, injection site edema, urethral bleeding, penile warmth, numbness, yeast infection, irritation, sensitivity, phimosis, pruritus, erythema, venous leak, painful erection, and abnormal ejaculation.
+
+## Systemic Adverse Events
+
+The following systemic adverse event information was derived from controlled and uncontrolled studies of CAVERJECT Sterile Powder, including an uncontrolled 18-month safety study.
+
+Systemic Adverse Events Reported by ≥ 1% of Patients Treated with CAVERJECT Sterile Powder for up to 18 MonthsNo significant adverse events were reported by 294 patients who received 1 to 3 injections of placebo.
+
+| Body System/Reaction | CAVERJECT N = 1861 |
+| --- | --- |
+| Cardiovascular System |  |
+| Hypertension | 2% |
+| Central Nervous System |  |
+| Headache | 2% |
+| Dizziness | 1% |
+| Musculoskeletal System |  |
+| Back pain | 1% |
+| Respiratory System |  |
+| Upper respiratory infection | 4% |
+| Flu syndrome | 2% |
+| Sinusitis | 2% |
+| Nasal congestion | 1% |
+| Cough | 1% |
+| Urogenital System |  |
+| Prostatic DisorderProstatitis, pain, hypertrophy, enlargement | 2% |
+| Miscellaneous |  |
+| Localized painPain in various anatomical structures other than injection site | 2% |
+| TraumaInjuries, fractures, abrasions, lacerations, dislocations | 2% |
+
+The following systemic events, which were reported for < 1% of patients in clinical studies, were judged by investigators to be possibly related to use of CAVERJECT: testicular pain, scrotal disorder, scrotal edema, hematuria, testicular disorder, impaired urination, urinary frequency, urinary urgency, pelvic pain, hypotension, vasodilation, peripheral vascular disorder, supraventricular extrasystoles, vasovagal reactions, hypesthesia, non-generalized weakness, diaphoresis, rash, non-application site pruritus, skin neoplasm, nausea, dry mouth, increased serum creatinine, leg cramps, and mydriasis.
+
+Hemodynamic changes, manifested as decreases in blood pressure and increases in pulse rate, were observed during clinical studies, principally at doses above 20 mcg and above 30 mcg of alprostadil, respectively, and appeared to be dose-dependent.
+However, these changes were usually clinically unimportant; only three patients discontinued the treatment because of symptomatic hypotension.
+
+CAVERJECT had no clinically important effect on serum or urine laboratory tests.
+
+The safety of CAVERJECT IMPULSE was evaluated in a study that compared the formulation of alprostadil for injection contained in CAVERJECT IMPULSE with the formulation contained in CAVERJECT Sterile Powder.
+The doses used by the 87 patients in this crossover study were the same for both formulations.
+The number and type of events reported for CAVERJECT IMPULSE were consistent between formulations in this study and in other controlled and uncontrolled studies with CAVERJECT Sterile Powder.
