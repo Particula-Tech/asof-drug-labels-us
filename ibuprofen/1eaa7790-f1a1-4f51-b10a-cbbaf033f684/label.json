@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022348"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "Cumberland Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "66220-247-04",
+    "66220-287-08"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ibuprofen",
+      "name": "Caldolor"
+    }
+  ],
+  "setid": "1eaa7790-f1a1-4f51-b10a-cbbaf033f684",
+  "source": "dailymed"
+}
