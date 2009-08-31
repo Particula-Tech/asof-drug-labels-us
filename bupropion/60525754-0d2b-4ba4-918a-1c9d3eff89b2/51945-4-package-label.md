@@ -38,7 +38,9 @@ Greenville, NC 27834 for GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-10000000049275
+Made in Germany
+
+10000000071898
 
 Rev.
-11/07
+8/09
