@@ -1,14 +1,29 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021087",
+    "NDA021246"
+  ],
   "inn": "oseltamivir",
-  "labeler": "Roche Laboratories Inc.",
+  "labeler": "Hoffmann-La Roche Inc",
   "package_ndcs": [
     "0004-0800-85",
+    "0004-0800-98",
     "0004-0801-85",
     "0004-0802-85",
     "0004-0810-95"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "oseltamivir phosphate",
+      "name": "Tamiflu"
+    },
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "oseltamivir phosphate",
+      "name": "Tamiflu"
+    }
+  ],
   "setid": "ee3c9555-60f2-4f82-a760-11983c86e97b",
   "source": "dailymed"
 }

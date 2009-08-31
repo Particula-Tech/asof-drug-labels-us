@@ -60,3 +60,5 @@ Licensor: Gilead Sciences, Inc. Foster City, California 94404
 
 PPI Rev.
 January 2008
+
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
