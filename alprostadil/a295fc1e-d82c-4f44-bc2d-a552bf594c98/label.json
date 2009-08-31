@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020379"
+  ],
+  "inn": "alprostadil",
+  "labeler": "Pharmacia and Upjohn Company",
+  "package_ndcs": [
+    "0009-3701-05",
+    "0009-3778-05",
+    "0009-5131-02",
+    "0009-7686-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "alprostadil",
+      "name": "Caverject"
+    }
+  ],
+  "setid": "a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+  "source": "dailymed"
+}
