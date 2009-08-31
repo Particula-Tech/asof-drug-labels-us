@@ -8,7 +8,7 @@ Adverse events reported for each of these patient populations are provided below
 Excluded are adverse events considered too general to be informative, and those not reasonably associated with the use of the drug because they were associated with the condition being treated or are very common in the treated population.
 Rates of adverse events were generally similar across demographic subsets (men and women, elderly and non-elderly, blacks and non-blacks).
 
-Heart Failure
+### Heart Failure
 
 COREG has been evaluated for safety in heart failure in more than 4,500 patients worldwide of whom more than 2,100 participated in placebo-controlled clinical trials.
 Approximately 60% of the total treated population in placebo-controlled clinical trials received COREG for at least 6 months and 30% received COREG for at least 12 months.
@@ -24,10 +24,10 @@ The adverse event profile of COREG observed in the long-term COMET study was gen
 Table 1.
 Adverse Events (%) Occurring More Frequently With COREG Than With Placebo in Patients With Mild-to-Moderate Heart Failure (HF) Enrolled in US Heart Failure Trials or in Patients With Severe Heart Failure in the COPERNICUS Trial (Incidence >3% in Patients Treated With Carvedilol, Regardless of Causality)
 
-|  | (n = 765) | (n = 437) | (n = 1,156) | (n = 1,133) |
-| --- | --- | --- | --- | --- |
 |  | Mild-to-Moderate HF |  | Severe HF |  |
+| --- | --- | --- | --- | --- |
 |  | COREG | Placebo | COREG | Placebo |
+|  | (n = 765) | (n = 437) | (n = 1,156) | (n = 1,133) |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 7 | 7 | 11 | 9 |
 | Fatigue | 24 | 22 | — | — |
@@ -91,7 +91,7 @@ Special Senses: Blurred vision.
 
 Urinary System: Renal insufficiency, albuminuria, hematuria.
 
-Left Ventricular Dysfunction Following Myocardial Infarction
+### Left Ventricular Dysfunction Following Myocardial Infarction
 
 COREG has been evaluated for safety in survivors of an acute myocardial infarction with left ventricular dysfunction in the CAPRICORN trial which involved 969 patients who received COREG and 980 who received placebo.
 Approximately 75% of the patients received COREG for at least 6 months and 53% received COREG for at least 12 months.
@@ -103,7 +103,7 @@ The following adverse events were reported with a frequency of >1% but ≤3% and
 The overall rates of discontinuations due to adverse events were similar in both groups of patients.
 In this database, the only cause of discontinuation >1%, and occurring more often on carvedilol was hypotension (1.5% on carvedilol, 0.2% on placebo).
 
-Hypertension
+### Hypertension
 
 COREG has been evaluated for safety in hypertension in more than 2,193 patients in US clinical trials and in 2,976 patients in international clinical trials.
 Approximately 36% of the total treated population received COREG for at least 6 months.
@@ -134,7 +134,8 @@ Adverse Events (%) Occurring in US Placebo-Controlled Hypertension Trials (Incid
 | Thrombocytopenia | 1 | — |
 | Metabolic |  |  |
 | Hypertriglyceridemia | 1 | — |
-| * Shown are events with rate >1% rounded to nearest integer. |  |  |
+
+* Shown are events with rate >1% rounded to nearest integer.
 
 Dyspnea and fatigue were also reported in these studies, but the rates were equal or greater in patients who received placebo.
 

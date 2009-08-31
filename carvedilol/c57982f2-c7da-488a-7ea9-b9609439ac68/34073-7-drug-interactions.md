@@ -32,12 +32,18 @@ Therefore, increased monitoring of digoxin is recommended when initiating, adjus
 Rifampin reduced plasma concentrations of carvedilol by about 70% [see Clinical Pharmacology (12.5)].
 Cimetidine increased AUC by about 30% but caused no change in Cmax [see Clinical Pharmacology (12.5)].
 
-## 7.6 Calcium Channel Blockers
+## 7.6 Amiodarone
+
+Amiodarone, and its metabolite desethyl amiodarone, inhibitors of CYP2C9 and P-glycoprotein, increased concentrations of the S(-)-enantiomer of carvedilol by at least 2-fold [see Clinical Pharmacology (12.5)].
+The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with COREG may enhance the β-blocking properties of carvedilol resulting in further slowing of the heart rate or cardiac conduction.
+Patients should be observed for signs of bradycardia or heart block, particularly when one agent is added to pre-existing treatment with the other.
+
+## 7.7 Calcium Channel Blockers
 
 Conduction disturbance (rarely with hemodynamic compromise) has been observed when COREG is co-administered with diltiazem.
 As with other agents with β-blocking properties, if COREG is to be administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
 
-## 7.7 Insulin or Oral Hypoglycemics
+## 7.8 Insulin or Oral Hypoglycemics
 
 Agents with β-blocking properties may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
 Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended [see Warnings and Precautions (5.6)].

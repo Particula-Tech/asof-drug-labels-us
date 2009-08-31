@@ -4,7 +4,7 @@
 
 A total of 6,975 patients with mild to severe heart failure were evaluated in placebo-controlled studies of carvedilol.
 
-Mild-to-Moderate Heart Failure
+### Mild-to-Moderate Heart Failure
 
 Carvedilol was studied in 5 multicenter, placebo-controlled studies, and in 1 active-controlled study (COMET study) involving patients with mild-to-moderate heart failure.
 
@@ -39,7 +39,7 @@ However, patients’ and investigators’ global assessments showed significant 
 Mortality: Death was not a pre-specified end point in any study, but was analyzed in all studies.
 Overall, in these 4 US trials, mortality was reduced, nominally significantly so in 2 studies.
 
-COMET Trial
+#### COMET Trial
 
 In this double-blind trial, 3,029 patients with NYHA class II-IV heart failure (left ventricular ejection fraction≤35%) were randomized to receive either carvedilol (target dose: 25 mg twice daily) or immediate-release metoprolol tartrate (target dose: 50 mg twice daily).
 The mean age of the patients was approximately 62 years, 80% were males, and the mean left ventricular ejection fraction at baseline was 26%.
@@ -71,7 +71,7 @@ Results of COMET
 It is not known whether this formulation of metoprolol at any dose or this low dose of metoprolol in any formulation has any effect on survival or hospitalization in patients with heart failure.
 Thus, this trial extends the time over which carvedilol manifests benefits on survival in heart failure, but it is not evidence that carvedilol improves outcome over the formulation of metoprolol (TOPROL-XL®) with benefits in heart failure.
 
-Severe Heart Failure (COPERNICUS)
+### Severe Heart Failure (COPERNICUS)
 
 In a double-blind study (COPERNICUS), 2,289 patients with heart failure at rest or with minimal exertion and left ventricular ejection fraction <25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%) were randomized to placebo or carvedilol.
 Carvedilol was titrated from a starting dose of 3.125 mg twice daily to the maximum tolerated dose or up to 25 mg twice daily over a minimum of 6 weeks.
@@ -93,7 +93,8 @@ Results of COPERNICUS Trial in Patients With Severe Heart Failure
 | Mortality + all hospitalization | 507 | 425 | 0.76(0.67 – 0.87) | 24 | 0.00004 |
 | Mortality + CV hospitalization | 395 | 314 | 0.73(0.63 – 0.84) | 27 | 0.00002 |
 | Mortality + HF hospitalization | 357 | 271 | 0.69(0.59 – 0.81) | 31 | 0.000004 |
-| Cardiovascular = CV; Heart failure = HF. |  |  |  |  |  |
+
+Cardiovascular = CV; Heart failure = HF.
 
 The effect on mortality was principally the result of a reduction in the rate of sudden death among patientswithout worsening heart failure.
 
@@ -104,9 +105,6 @@ The protocol also specified that hospitalizations would be assessed.
 Fewer patients on COREG than on placebo were hospitalized for any reason (372 versus 432, p = 0.0029), for cardiovascular reasons (246 versus 314, p = 0.0003), or for worsening heart failure (198 versus 268, p = 0.0001).
 
 COREG had a consistent and beneficial effect on all-cause mortality as well as the combined end points of all-cause mortality plus hospitalization (total, CV, or for heart failure) in the overall study population and in all subgroups examined, including men and women, elderly and non-elderly, blacks and non-blacks, and diabetics and non-diabetics (see Figure 2).
-
-Figure 2.
-Effects on Mortality for Subgroups in COPERNICUS
 
 ## 14.2 Left Ventricular Dysfunction Following Myocardial Infarction
 

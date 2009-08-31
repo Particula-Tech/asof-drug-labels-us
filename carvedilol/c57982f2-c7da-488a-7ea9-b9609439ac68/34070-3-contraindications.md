@@ -10,4 +10,4 @@ COREG is contraindicated in the following conditions:
 - Patients with cardiogenic shock or who have decompensated heart failure requiring the use of intravenous inotropic therapy.
   Such patients should first be weaned from intravenous therapy before initiating COREG.
 - Patients with severe hepatic impairment
-- Patients with a history of a serious hypersensitivity reaction (e.g., Stevens-Johnson syndrome, anaphylactic reaction, angioedema) to carvedilol, any of the components of COREG, or to COREG CR
+- Patients with a history of a serious hypersensitivity reaction (e.g., Stevens-Johnson syndrome, anaphylactic reaction, angioedema) to any component of this medication or other medications containing carvedilol.

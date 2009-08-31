@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020297"
+  ],
   "inn": "carvedilol",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0007-4139-20",
     "0007-4140-20",
     "0007-4141-20",
     "0007-4142-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "carvedilol",
+      "name": "COREG"
+    }
+  ],
   "setid": "c57982f2-c7da-488a-7ea9-b9609439ac68",
   "source": "dailymed"
 }
