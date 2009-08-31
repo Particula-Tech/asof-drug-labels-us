@@ -52,7 +52,7 @@ Atovaquone is highly protein bound (>99%) but does not displace other highly pro
 
 Potential interactions between proguanil or cycloguanil and other drugs that are CYP2C19 substrates or inhibitors are unknown.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 ### Atovaquone
 

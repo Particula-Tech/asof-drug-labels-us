@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021078"
+  ],
   "inn": "atovaquone",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0675-01",
     "0173-0675-02",
     "0173-0676-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "atovaquone and proguanil hydrochloride",
+      "name": "MALARONE"
+    }
+  ],
   "setid": "fc22e8d8-3bfb-4f70-a599-dd81262a4887",
   "source": "dailymed"
 }

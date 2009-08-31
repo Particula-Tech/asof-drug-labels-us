@@ -48,8 +48,10 @@ Adverse Experiences in Placebo-Controlled Clinical Trials of MALARONE for Prophy
 | Vomiting | 2 | (<1) | 1 | (<1) | <1 | (<1) | 6 | (6) | 7 | (7) |
 | Flu syndrome | 1 | (0) | 2 | (0) | 4 | (0) | 6 | (0) | 9 | (0) |
 | Any adverse experience | 65 | (32) | 54 | (17) | 49 | (17) | 62 | (41) | 60 | (42) |
-| * Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in placebo-controlled trials. |  |  |  |  |  |  |  |  |  |  |
-| † Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in any trial. |  |  |  |  |  |  |  |  |  |  |
+
+* Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in placebo-controlled trials.
+
+† Subjects receiving the recommended dose of atovaquone and proguanil hydrochloride in any trial.
 
 In an additional placebo-controlled study of malaria prophylaxis with MALARONE involving 330 pediatric patients in a malaria-endemic area (see CLINICAL STUDIES), the safety profile of MALARONE was consistent with that described above.
 The most common treatment-emergent adverse events with MALARONE were abdominal pain (13%), headache (13%), and cough (10%).
@@ -88,7 +90,8 @@ Adverse Experiences in Active-Controlled Clinical Trials of MALARONE for Prophyl
 | Any adverse experience | 64 | (30) | 69 | (42) | 58 | (22) | 66 | (28) |
 | Any neuropsychiatric event | 20 | (14) | 37 | (29) | 16 | (10) | 20 | (10) |
 | Any GI event | 49 | (16) | 50 | (19) | 43 | (12) | 54 | (20) |
-| * Adverse experiences that started while receiving active study drug. |  |  |  |  |  |  |  |  |
+
+* Adverse experiences that started while receiving active study drug.
 
 In a third active-controlled study, MALARONE (n = 110) was compared with chloroquine/proguanil (n = 111) for the prophylaxis of malaria in 221 non-immune pediatric patients (see CLINICAL STUDIES).
 The mean duration of exposure was 23 days for MALARONE, 46 days for chloroquine, and 43 days for proguanil, reflecting the different recommended dosage regimens for these products.

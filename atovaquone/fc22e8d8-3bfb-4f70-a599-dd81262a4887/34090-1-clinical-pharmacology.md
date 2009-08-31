@@ -70,7 +70,8 @@ Apparent Clearance for Atovaquone and Proguanil in Patients as a Function of Bod
 | 21-30 kg | 117 | 1.87 ± 0.81(0.52-5.38) | 113 | 40.0 ± 7.5(15.9-62.7) |
 | 31-40 kg | 95 | 2.76 ± 2.07(0.97-12.5) | 91 | 49.5 ± 8.30(25.8-71.5) |
 | >40 kg | 368 | 6.61 ± 3.92(1.32-20.3) | 282 | 67.9 ± 19.9(14.0-145) |
-| * SD = standard deviation. |  |  |  |  |
+
+* SD = standard deviation.
 
 The pharmacokinetics of atovaquone and proguanil in patients with body weight below 11 kg have not been adequately characterized.
 
@@ -110,9 +111,12 @@ Point Estimates (90% CI) for Proguanil and Cycloguanil Parameters in Subjects Wi
 | AUC(0-inf)* | moderate:healthy | 1.64 (1.14, 2.34) | ND |
 | Cmax* | moderate:healthy | 0.97 (0.69, 1.36) | ND |
 | t1/2† | moderate:healthy | 1.46 (1.05, 2.05) | ND |
-| ND = not determined due to lack of quantifiable data. |  |  |  |
-| * Ratio of geometric means. |  |  |  |
-| † Mean difference. |  |  |  |
+
+ND = not determined due to lack of quantifiable data.
+
+* Ratio of geometric means.
+
+† Mean difference.
 
 ### Renal Impairment
 
