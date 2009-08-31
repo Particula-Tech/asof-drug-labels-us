@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021813"
+  ],
+  "inn": "estradiol",
+  "labeler": "Azur Pharma Inc.",
+  "package_ndcs": [
+    "18860-490-02"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "estradiol",
+      "name": "Elestrin"
+    }
+  ],
+  "setid": "8e1a3641-25ca-41bd-a940-51ae0ec64ed9",
+  "source": "dailymed"
+}
