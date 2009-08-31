@@ -58,9 +58,9 @@ The pharmacokinetic properties of lamivudine have been determined in healthy sub
 Table 1.
 Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Oral Dose of Lamivudine in Patients With Varying Degrees of Renal Function
 
-|  | Creatinine Clearance Criterion(Number of Subjects) |  |  |
+| Parameter | Creatinine Clearance Criterion(Number of Subjects) |  |  |
 | --- | --- | --- | --- |
-| Parameter | ≥80 mL/min(n = 9) | 20-59 mL/min(n = 8) | <20 mL/min(n = 6) |
+| ≥80 mL/min(n = 9) | 20-59 mL/min(n = 8) | <20 mL/min(n = 6) |  |
 | Creatinine clearance (mL/min) | 97(range 82-117) | 39(range 25-49) | 15(range 13-19) |
 | Cmax (mcg/mL) | 1.31 ± 0.35 | 1.85 ± 0.40 | 1.55 ± 0.31 |
 | AUC∞ (mcg•hr/mL) | 5.28 ± 1.01 | 14.67 ± 3.74 | 27.33 ± 6.56 |

@@ -102,7 +102,7 @@ Hepatitis B virus sometimes becomes resistant to EPIVIR-HBV during treatment, an
 Some people also have worsening of hepatitis after stopping EPIVIR-HBV.
 You should discuss any change in treatment with your doctor.
 
-In studies, the most common side effects seen during treatment with EPIVIR-HBV were ear, nose, and throat infections; malaise and fatigue (feeling tired and run down); headache; abdominal discomfortand pain; nausea and vomiting; diarrhea; muscle pain; sore throat; joint pain; fever or chills; and skin rash.
+In studies, the most common side effects seen during treatment with EPIVIR-HBV were ear, nose, and throat infections; malaise and fatigue (feeling tired and run down); headache; abdominal discomfort and pain; nausea and vomiting; diarrhea; muscle pain; sore throat; joint pain; fever or chills; and skin rash.
 
 This list of possible side effects is not complete.
 Your doctor or pharmacist can discuss with you a more complete list of possible side effects with EPIVIR-HBV.
@@ -150,15 +150,11 @@ In case of overdose, get medical help or contact a Poison Control Center right a
 
 COMBIVIR, EPIVIR, EPIVIR-HBV, EPZICOM, and TRIZIVIR are registered trademarks of GlaxoSmithKline.
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline Research Triangle Park, NC 27709
 
 Manufactured under agreement from
 
-Shire Pharmaceuticals Group plc
-
-Basingstoke, UK
+Shire Pharmaceuticals Group plc Basingstoke, UK
 
 ©2007, GlaxoSmithKline.All rights reserved.
 

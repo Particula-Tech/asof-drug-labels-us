@@ -1,12 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021003",
+    "NDA021004"
+  ],
   "inn": "lamivudine",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0662-00",
     "0173-0663-00"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lamivudine",
+      "name": "EPIVIR"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine",
+      "name": "EPIVIR"
+    }
+  ],
   "setid": "2df7349c-f5d7-47b5-d29b-1b6b31985591",
   "source": "dailymed"
 }

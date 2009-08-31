@@ -40,12 +40,12 @@ Frequencies of Specified Laboratory Abnormalities in 3 Placebo-Controlled Trials
 | --- | --- | --- |
 | EPIVIR-HBV | Placebo |  |
 | ALT >3 x baseline† | 37/331 (11%) | 26/199 (13%) |
-| Albumin<2.5 g/dL | 0/331 (0%) | 2/199 (1%) |
+| Albumin <2.5 g/dL | 0/331 (0%) | 2/199 (1%) |
 | Amylase >3 x baseline | 2/259 (<1%) | 4/167 (2%) |
 | Serum Lipase ≥2.5 x ULN‡ | 19/189 (10%) | 9/127 (7%) |
-| CPK≥7 x baseline | 31/329 (9%) | 9/198 (5%) |
-| Neutrophils<750/mm3 | 0/331 (0%) | 1/199 (<1%) |
-| Platelets<50,000/mm3 | 10/272 (4%) | 5/168 (3%) |
+| CPK ≥7 x baseline | 31/329 (9%) | 9/198 (5%) |
+| Neutrophils <750/mm3 | 0/331 (0%) | 1/199 (<1%) |
+| Platelets <50,000/mm3 | 10/272 (4%) | 5/168 (3%) |
 | * Includes patients treated for 52 to 68 weeks. |  |  |
 | † See Table 7 for posttreatment ALT values. |  |  |
 | ‡ Includes observations during and after treatment in the 2 placebo-controlled trials that collected this information. |  |  |
@@ -57,13 +57,13 @@ A comparison of ALT elevations between Weeks 52 and 68 in patients who discontin
 Table 7.
 Posttreatment ALT Elevations in 2 Placebo-Controlled Studies in Adults With No-Active-Treatment Follow-up (Studies 1 and 3)
 
-|  | Patients With ALT Elevation/Patients With Observations* |  |
+| Abnormal Value | Patients With ALT Elevation/Patients With Observations* |  |
 | --- | --- | --- |
-| Abnormal Value | EPIVIR-HBV | Placebo |
-| ALT≥2 x baseline value | 37/137 (27%) | 22/116 (19%) |
-| ALT≥3 x baseline value† | 29/137 (21%) | 9/116 (8%) |
-| ALT≥2 x baseline value and absolute ALT >500 IU/L | 21/137 (15%) | 8/116 (7%) |
-| ALT≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 1/137 (0.7%) | 1/116 (0.9%) |
+| EPIVIR-HBV | Placebo |  |
+| ALT ≥2 x baseline value | 37/137 (27%) | 22/116 (19%) |
+| ALT ≥3 x baseline value† | 29/137 (21%) | 9/116 (8%) |
+| ALT ≥2 x baseline value and absolute ALT >500 IU/L | 21/137 (15%) | 8/116 (7%) |
+| ALT ≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 1/137 (0.7%) | 1/116 (0.9%) |
 | *Each patient may be represented in one or more category. |  |  |
 | †Comparable to a Grade 3 toxicity in accordance with modified WHO criteria. |  |  |
 | ULN = Upper limit of normal. |  |  |
