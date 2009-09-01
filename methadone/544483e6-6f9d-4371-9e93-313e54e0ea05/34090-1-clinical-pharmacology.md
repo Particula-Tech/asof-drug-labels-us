@@ -14,7 +14,7 @@ Other NMDA receptor antagonists have been shown to produce neurotoxic effects in
 
 ### Absorption
 
-Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
+Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 and 7.5 hours.
 Dose proportionality of methadone pharmacokinetics is not known.
 However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1255 ng/mL.
 Effect of food on the bioavailability of methadone has not been evaluated.
@@ -46,7 +46,7 @@ Elimination of methadone was significantly changed in pregnancy.
 Total body clearance of methadone was increased in pregnant patients compared to the same patients postpartum or to non-pregnant opioid-dependent women.
 The terminal half-life of methadone is decreased during 2nd and 3rd trimesters.
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
-The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone (see PRECAUTIONS: Pregnancy, Labor and Delivery, and DOSAGE AND ADMINISTRATION).
+The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone (see PRECAUTIONS, Pregnancy, Labor and Delivery, and DOSAGE AND ADMINISTRATION).
 
 ### Renal Impairment
 
@@ -79,11 +79,11 @@ The pharmacokinetics of methadone have not been evaluated in the pediatric popul
 
 ### Drug Interactions
 
-(see PRECAUTIONS: Drug Interactions)
+(see PRECAUTIONS, Drug Interactions)
 
 Methadone undergoes hepatic N-demethylation by cytochrome P-450 isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
 Coadministration of methadone with inducers of these enzymes may result in more rapid methadone metabolism, and potentially, decreased effects of methadone.
 Conversely, administration with CYP inhibitors may reduce metabolism and potentiate methadone's effects.
 Pharmacokinetics of methadone may be unpredictable when coadministered with drugs that are known to both induce and inhibit CYP enzymes.
-Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
+Although anti-retroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
 Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential; clinicians are advised to evaluate individual response to drug therapy before making a dosage adjustment.

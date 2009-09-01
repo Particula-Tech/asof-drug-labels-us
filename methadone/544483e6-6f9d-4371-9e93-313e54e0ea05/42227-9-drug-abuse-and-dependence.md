@@ -14,4 +14,4 @@ Proper assessment of the patient, proper prescribing practices, periodic re-eval
 
 Methadone, when used for the treatment of opioid addiction in detoxification or maintenance programs, may be dispensed only by opioid treatment programs certified by the Substance Abuse and Mental Health Services Administration (and agencies, practitioners or institutions by formal agreement with the program sponsor).
 
-Infants born to mothers physically dependent on opioids may also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see PRECAUTIONS: Pregnancy, Labor and Delivery).
+Infants born to mothers physically dependent on opioids may also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see PRECAUTIONS, Pregnancy, Labor and Delivery).

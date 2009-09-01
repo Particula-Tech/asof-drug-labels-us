@@ -1,12 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074184",
+    "ANDA077142"
+  ],
   "inn": "methadone",
   "labeler": "Mallinckrodt Inc.",
   "package_ndcs": [
-    "0405-2540-01",
-    "0406-0540-34"
+    "0406-0540-34",
+    "0406-2540-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methadone hydrochloride",
+      "name": "METHADONE HYDROCHLORIDE"
+    },
+    {
+      "form": "TABLET",
+      "generic": "methadone hydrochloride",
+      "name": "METHADOSE Dispersible"
+    }
+  ],
   "setid": "544483e6-6f9d-4371-9e93-313e54e0ea05",
   "source": "dailymed"
 }

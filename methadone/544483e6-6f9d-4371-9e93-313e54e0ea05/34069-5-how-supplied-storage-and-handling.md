@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Each methadone hydrochloride tablet for oral suspension USP contains 40 mg of methadone hydrochloride USP.
+Each Methadone Hydrochloride Tablet for Oral Suspension USP contains 40 mg of methadone hydrochloride USP.
 
-METHADOSE® Dispersible Tablets, 40 mg:
+METHADOSE™ Dispersible Tablets, 40 mg:
 
 Available as a white, round tablet, debossed with “METHADOSE 40” on one side, a quadrisect on the other.
 
@@ -19,10 +19,10 @@ Methadone hydrochloride tablets for oral suspension, if dispensed, must be packa
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-METHADOSE is a registered trademark of Mallinckrodt Inc.
+METHADOSE is a trademark of Mallinckrodt Inc.
 
-Mallinckrodt Inc. Hazelwood, MO 63042
+COVIDIEN™ Mallinckrodt
 
-tyco Healthcare Mallinckrodt
+Mallinckrodt Inc., Hazelwood, MO 63042 USA Printed in U.S.A.
 
-Printed in U.S.A. Rev 041107
+Rev 05/2009

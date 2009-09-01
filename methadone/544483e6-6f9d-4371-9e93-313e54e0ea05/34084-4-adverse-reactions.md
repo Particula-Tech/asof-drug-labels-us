@@ -21,7 +21,7 @@ Other adverse reactions include the following: (listed alphabetically under each
 
 Body as a Whole – asthenia (weakness), edema, headache
 
-Cardiovascular (also see WARNINGS: Cardiac Conduction Effects) – arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
+Cardiovascular (also see WARNINGS, Cardiac Conduction Effects) – arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
 
 Digestive – abdominal pain, anorexia, biliary tract spasm, constipation, dry mouth, glossitis
 
@@ -31,7 +31,7 @@ Metabolic and Nutritional – hypokalemia, hypomagnesemia, weight gain
 
 Nervous – agitation, confusion, disorientation, dysphoria, euphoria, insomnia, seizures
 
-Respiratory – pulmonary edema, respiratory depression (see WARNINGS: Respiratory Depression)
+Respiratory – pulmonary edema, respiratory depression (see WARNINGS, Respiratory Depression)
 
 Skin and Appendages – pruritis, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
 

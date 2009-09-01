@@ -89,7 +89,7 @@ Methadone hydrochloride tablets for oral suspension should be used with caution 
 
 In vitro results suggest that methadone undergoes hepatic N-demethylation by cytochrome P450 enzymes, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
 Coadministration of methadone with inducers of these enzymes may result in a more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone's effects.
-Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
+Although anti-retroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
 Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential; clinicians are advised to evaluate individual response to drug therapy.
 
 ## Opioid Antagonists, Mixed Agonist/Antagonists, and Partial Agonists
@@ -100,7 +100,7 @@ Examples of such agents are naloxone, naltrexone, pentazocine, nalbuphine, butor
 ## Anti-Retroviral Agents
 
 Abacavir, Amprenavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Lopinavir+Ritonavir Combination – Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone.
-Methadone-maintained patients beginning treatment with these antiretroviral drugs should be monitored for evidence of withdrawal effects and methadone dose should be adjusted accordingly.
+Methadone-maintained patients beginning treatment with these anti-retroviral drugs should be monitored for evidence of withdrawal effects and methadone dose should be adjusted accordingly.
 
 Didanosine and Stavudine – Experimental evidence demonstrated that methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered.
@@ -138,7 +138,7 @@ Monoamine Oxidase (MAO) Inhibitors – Therapeutic doses of meperidine have prec
 Similar reactions thus far have not been reported with methadone.
 However, if the use of methadone is necessary in such patients, a sensitivity test should be performed in which repeated small, incremental doses of methadone are administered over the course of several hours while the patient's condition and vital signs are under careful observation.
 
-Desipramine– Blood levels of desipramine have increased with concurrent methadone administration.
+Desipramine – Blood levels of desipramine have increased with concurrent methadone administration.
 
 ## Potentially Arrhythmogenic Agents
 
@@ -153,7 +153,7 @@ These drugs include diuretics, laxatives, and, in rare cases, mineralocorticoid 
 Methadone may be expected to have additive effects when used in conjunction with alcohol, other opioids or CNS depressants, or with illicit drugs that cause central nervous system depression.
 Deaths have been reported when methadone has been abused in conjunction with benzodiazepines.
 
-Anxiety – Since methadone as used by tolerant patients at a constant maintenance dosage does not act as a tranquilizer, patients who are maintained on this drug will react to life problems and stresses with the same symptoms of anxiety as do other individuals.
+Anxiety – Since methadone is used by tolerant patients at a constant maintenance dosage does not act as a tranquilizer, patients who are maintained on this drug will react to life problems and stresses with the same symptoms of anxiety as do other individuals.
 The physician should not confuse such symptoms with those of narcotic abstinence and should not attempt to treat anxiety by increasing the dose of methadone.
 The action of methadone in maintenance treatment is limited to the control of narcotic withdrawal symptoms and is ineffective for relief of general anxiety.
 
@@ -169,9 +169,9 @@ Physical dependence is expected during opioid agonist therapy of opioid addictio
 If a physically dependent patient abruptly discontinues use of methadone, or the dose of methadone does not adequately “cover” the patient, an opioid abstinence or withdrawal syndrome may develop and is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other symptoms may also develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Infants born to mothers physically dependent on opioids may also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see PRECAUTIONS: Pregnancy, Labor and Delivery).
+Infants born to mothers physically dependent on opioids may also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see PRECAUTIONS, Pregnancy, Labor and Delivery).
 
-In general, opioids should not be abruptly discontinued (see DOSAGE AND ADMINISTRATION: For Medically Supervised Withdrawal After a Period of Maintenance Treatment).
+In general, opioids should not be abruptly discontinued (see DOSAGE AND ADMINISTRATION, For Medically Supervised Withdrawal After a Period of Maintenance Treatment).
 
 ## Special-Risk Patients
 
@@ -189,7 +189,7 @@ The usual precautions should be observed and the possibility of respiratory depr
 - Patients should be instructed to keep methadone in a secure place out of the reach of children and other household members.
   Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
 - Patients should be advised not to change the dose of methadone without consulting their physician.
-- Women of childbearing potential who become or are planning to become pregnant should be advised to consult their physician regarding the effects of methadone use during pregnancy on themselves and their unborn child.
+- Women of childbearing potential who become or are planning to become pregnant should be advised to consult their physician regarding the effects of methadone use during pregnancy.
 - If a physically dependent patient abruptly discontinues use of methadone, an opioid abstinence or withdrawal syndrome may develop.
   If cessation of therapy is indicated, it may be appropriate to taper the methadone dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
   Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
@@ -198,130 +198,14 @@ The usual precautions should be observed and the possibility of respiratory depr
   They should protect it from theft, and it should never be given to anyone other than the individual for whom it was prescribed.
 - Methadone hydrochloride tablets for oral suspension is for oral administration only and must be initially dispersed in liquid before use.
   After dispersion in liquid, the preparation must not be injected.
+- Breastfeeding:
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Carcinogenesis – The results of carcinogenicity assessment in B6C2F1 mice and Fischer 344 rats following dietary administration of two doses of methadone HCl have been published.
-Mice consumed 15 mg/kg/day or 60 mg/kg/day methadone for two years.
-These doses were approximately 0.6 and 2.5 times a human daily oral dose of 120 mg/day on a body surface area basis (mg/m2).
-There was a significant increase in pituitary adenomas in female mice treated with 15 mg/kg/day but not with 60 mg/kg/day.
-Under the conditions of the assay, there was no clear evidence for a treatment-related increase in the incidence of neoplasms in male rats.
-Due to decreased food consumption in males at the high dose, male rats consumed 16 mg/kg/day and 28 mg/kg/day of methadone for two years.
-These doses were approximately 1.3 and 2.3 times a human daily oral dose of 120 mg/day, based on body surface area comparison.
-In contrast, female rats consumed 46 mg/kg/day or 88 mg/kg/day for two years.
-These doses were approximately 3.7 and 7.1 times a human daily oral dose of 120 mg/day, based on body surface area comparison.
-Under the conditions of the assay, there was no clear evidence for a treatment-related increase in the incidence of neoplasms in either male or female rats.
-
-Mutagenesis – There are several published reports on the potential genetic toxicity of methadone.
-Methadone tested negative in tests for chromosome breakage and disjunction and sex-linked recessive lethal gene mutations in germ cells of Drosophila using feeding and injection procedures.
-In contrast, methadone tested positive in the in vivo mouse dominant lethal assay and the in vivo mammalian spermatogonial chromosome aberration test.
-Additionally, methadone tested positive in the E. coli DNA repair system and Neurospora crassa and mouse lymphoma forward mutation assays.
-
-Fertility – Reproductive function in human males may be decreased by methadone treatment.
-Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.
-In addition, reductions in serum testosterone levels and sperm motility, and abnormalities in sperm morphology have been reported.
-Published animal studies provide additional data indicating that methadone treatment of males can alter reproductive function.
-Methadone produces a significant regression of sex accessory organs and testes of male mice and rats.
-Additional data have been published indicating that methadone treatment of male rats (once a day for three consecutive days) increased embryolethality and neonatal mortality.
-Examination of uterine contents of methadone-naive female mice bred to methadone-treated mice indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic states.
-
-## Pregnancy
-
-Teratogenic Effects.
-Pregnancy Category C – There are no controlled studies of methadone use in pregnant women that can be used to establish safety.
-However, an expert review of published data on experiences with methadone use during pregnancy by the Teratogen Information System (TERIS) concluded that maternal use of methadone during pregnancy as part of a supervised, therapeutic regimen is unlikely to pose a substantial teratogenic risk (quantity and quality of data assessed as “limited to fair”).
-However, the data are insufficient to state that there is no risk (TERIS, last reviewed October, 2002).
-Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care leading to significantly reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
-Several factors complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
-These include the maternal use of illicit drugs, other maternal factors such as nutrition, infection, and psychosocial circumstances, limited information regarding dose and duration of methadone use during pregnancy, and the fact that most maternal exposure appears to occur after the first trimester of pregnancy.
-Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs.
-
-Methadone has been detected in amniotic fluid and cord plasma at concentrations proportional to maternal plasma and in newborn urine at lower concentrations than corresponding maternal urine.
-
-A retrospective series of 101 pregnant, opiate-dependent women who underwent inpatient opiate detoxification with methadone did not demonstrate any increased risk of miscarriage in the second trimester or premature delivery in the third trimester.
-
-Several studies have suggested that infants born to narcotic-addicted women treated with methadone during all or part of pregnancy have been found to have decreased fetal growth with reduced birth weight, length, and/or head circumference compared to controls.
-This growth deficit does not appear to persist into later childhood.
-However, children born to women treated with methadone during pregnancy have been shown to demonstrate mild but persistent deficits in performance on psychometric and behavioral tests.
-
-Additional information on the potential risks of methadone may be derived from animal data.
-Methadone does not appear to be teratogenic in the rat or rabbit models.
-However, following large doses, methadone produced teratogenic effects in the guinea pig, hamster and mouse.
-One published study in pregnant hamsters indicated that a single subcutaneous dose of methadone ranging from 31 to 185 mg/kg (the 31 mg/kg dose is approximately 2 times a human daily oral dose of 120 mg/day on a mg/m2 basis) on day 8 of gestation resulted in a decrease in the number of fetuses per litter and an increase in the percentage of fetuses exhibiting congenital malformations described as exencephaly, cranioschisis, and “various other lesions”.
-The majority of the doses tested also resulted in maternal death.
-In another study, a single subcutaneous dose of 22 to 24 mg/kg methadone (estimated exposure was approximately equivalent to a human daily oral dose of 120 mg/day on a mg/m2 basis) administered on day 9 of gestation in mice also produced exencephaly in 11% of the embryos.
-However, no effects were reported in rats and rabbits at oral doses up to 40 mg/kg (estimated exposure was approximately 3 and 6 times, respectively, a human daily oral dose of 120 mg/day on a mg/m2 basis) administered during days 6 to 15 and 6 to 18, respectively.
-
-Nonteratogenetic Effects – Babies born to mothers who have been taking opioids regularly prior to delivery may be physically dependent.
-Onset of withdrawal symptoms in infants is usually in the first days after birth.
-Withdrawal signs in the newborn include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
-The intensity of the syndrome does not always correlate with the maternal dose or the duration of maternal exposure.
-The duration of the withdrawal signs may vary from a few days to weeks or even months.
-There is no consensus on the appropriate management of infant withdrawal.
-
-There are conflicting reports on whether SIDS occurs with an increased incidence in infants born to women treated with methadone during pregnancy.
-
-Abnormal fetal nonstress tests (NSTs) have been reported to occur more frequently when the test is performed 1 to 2 hours after a maintenance dose of methadone in late pregnancy compared to controls.
-
-Published animal data have reported increased neonatal mortality in the offspring of male rodents that were treated with methadone prior to mating.
-In these studies, the female rodents were not treated with methadone, indicating paternally-mediated developmental toxicity.
-Specifically, methadone administered to the male rat prior to mating with methadone-naïve females resulted in decreased weight gain in progeny after weaning.
-The male progeny demonstrated reduced thymus weights, whereas the female progeny demonstrated increased adrenal weights.
-Furthermore, behavioral testing of these male and female progeny revealed significant differences in behavioral tests compared to control animals, suggesting that paternal methadone exposure can produce physiological and behavioral changes in progeny in this model.
-Other animal studies have reported that perinatal exposure to opioids including methadone alters neuronal development and behavior in the offspring.
-Perinatal methadone exposure in rats has been linked to alterations in learning ability, motor activity, thermal regulation, nociceptive responses and sensitivity to drugs.
-Additional animal data demonstrates evidence for neurochemical changes in the brains of methadone-treated offspring, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems.
-Additional studies demonstrated that methadone treatment of male rats for 21 to 32 days prior to mating with methadone-naïve females did not produce any adverse effects, suggesting that prolonged methadone treatment of the male rat resulted in tolerance to the developmental toxicities noted in the progeny.
-Mechanistic studies in this rat model suggest that the developmental effects of “paternal” methadone on the progeny appear to be due to decreased testosterone production.
-These animal data mirror the reported clinical findings of decreased testosterone levels in human males on methadone maintenance therapy for opioid addiction and in males receiving chronic intraspinal opioids.
-
-Clinical Pharmacology for Pregnancy – Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery.
-Dosage adjustment using higher doses or administering the daily dose in divided doses may be necessary in pregnant women treated with methadone (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
-
-Methadone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-## Labor and Delivery
-
-As with all opioids, administration of this product to the mother shortly before delivery may result in some degree of respiratory depression in the newborn, especially if higher doses are used.
-Methadone is not recommended for obstetric analgesia because its long duration of action increases the probability of respiratory depression in the newborn.
-Narcotics with mixed agonist-antagonist properties should not be used for pain control during labor in patients chronically treated with methadone as they may precipitate acute withdrawal.
-
-## Nursing Mothers
-
-Methadone is secreted into human milk.
-The safety of breast-feeding while taking oral methadone is controversial.
-At maternal oral doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk have been reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
-Peak methadone levels in milk occur approximately 4 to 5 hours after an oral dose.
-Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2 to 3% of the oral maternal dose.
-Methadone has been detected in very low plasma concentrations in some infants whose mothers were taking methadone.
-Women on high dose methadone maintenance, who are already breast-feeding, should be counseled to wean breast-feeding gradually in order to prevent neonatal abstinence syndrome.
-
-Methadone-treated mothers considering nursing an opioid-naïve infant should be counseled regarding the presence of methadone in breast milk.
-
-Because of the potential for serious adverse reactions in nursing infants from methadone, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother, and weighing the risk of methadone against the risk of maternal illicit drug use.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients below the age of 18 years have not been established.
-
-Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
-Patients and caregivers should be instructed to keep methadone in a secure place out of the reach of children and to discard unused methadone in such a way that individuals other than the patient for whom it was originally prescribed will not come in contact with the drug.
-
-## Geriatric Use
-
-Clinical studies of methadone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently compared to younger subjects.
-Other reported clinical experience has not identified differences in responses between elderly and younger patients.
-In general, dose selection for elderly patients should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
-
-## Renal Impairment
-
-The use of methadone has not been extensively evaluated in patients with renal insufficiency.
-
-## Hepatic Impairment
-
-The use of methadone has not been extensively evaluated in patients with hepatic insufficiency.
-Methadone is metabolized in the liver and patients with liver impairment may be at risk of accumulating methadone after multiple dosing.
-
-## Gender
-
-The use of methadone has not been evaluated for gender specificity.
+1. Methadone use is usually compatible with breastfeeding.
+   Pregnant mothers using methadone should be counseled about the benefits and risks of breastfeeding while using methadone.
+   Counseling should include the following information:
+   - The baby receives a small amount of methadone through breastmilk.
+   - The baby may experience methadone withdrawal if breastfeeding is discontinued suddenly.
+     Patients discontinuing breastfeeding should develop a plan to wean with the baby’s healthcare team.
+   - Use of other substances of abuse during breastfeeding will expose the baby to additional risks.
+     Patients who use other substances of abuse should not breastfeed.
+2. When starting methadone for the first time or increasing the dose, breastfeeding patients should watch their babies closely for changes in behavior or breathing patterns.

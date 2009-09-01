@@ -22,7 +22,7 @@ Deaths have been reported during conversion to methadone from chronic, high-dose
 Methadone hydrochloride tablets for oral suspension is intended for dispersion in a liquid immediately prior to oral administration of the prescribed dose.
 The tablets should not be chewed or swallowed before dispersing in liquid.
 Methadone hydrochloride tablets for oral suspension are cross-scored, allowing for flexible dosage adjustment.
-Each tablet may be broken or cut in half to yield two 20-mg doses, or in quarters to yield four 10-mg doses.
+Each tablet may be broken or cut in half to yield two 20 mg doses, or in quarters to yield four 10 mg doses.
 
 Prior to administration, the desired dose of methadone hydrochloride tablets for oral suspension should be dispersed in approximately 120 mL (4 ounces) of water, orange juice, Tang®, citrus flavors of Kool-Aid® or other acidic fruit beverage prior to taking.
 Methadone hydrochloride is very soluble in water, but there are some insoluble excipients that will not entirely dissolve.
