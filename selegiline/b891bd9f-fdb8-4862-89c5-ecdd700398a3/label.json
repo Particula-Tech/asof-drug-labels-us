@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA021336"
+  ],
+  "inn": "selegiline",
+  "labeler": "Dey, L.P.",
+  "package_ndcs": [
+    "49502-900-01",
+    "49502-900-05",
+    "49502-900-11",
+    "49502-900-30",
+    "49502-901-01",
+    "49502-901-30",
+    "49502-902-01",
+    "49502-902-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "selegiline",
+      "name": "EMSAM"
+    }
+  ],
+  "setid": "b891bd9f-fdb8-4862-89c5-ecdd700398a3",
+  "source": "dailymed"
+}
