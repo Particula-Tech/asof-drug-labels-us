@@ -1,0 +1,54 @@
+{
+  "application_numbers": [
+    "ANDA018304",
+    "ANDA070554",
+    "ANDA070966",
+    "ANDA070967",
+    "ANDA070968"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-460-30",
+    "63323-461-50",
+    "63323-462-10",
+    "63323-462-30",
+    "63323-462-31",
+    "63323-463-50",
+    "63323-464-30",
+    "63323-464-31",
+    "63323-464-33",
+    "63323-465-50",
+    "63323-466-30",
+    "63323-466-31",
+    "63323-466-33",
+    "63323-467-50",
+    "63323-468-30",
+    "63323-472-10",
+    "63323-472-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "SENSORCAINE"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride,epinephrine bitartrate",
+      "name": "SENSORCAINE"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "SENSORCAINE-MPF"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride,epinephrine bitartrate",
+      "name": "SENSORCAINE-MPF"
+    }
+  ],
+  "setid": "eb6d8fee-def4-4c96-9972-695e8cea8ea8",
+  "source": "dailymed"
+}
