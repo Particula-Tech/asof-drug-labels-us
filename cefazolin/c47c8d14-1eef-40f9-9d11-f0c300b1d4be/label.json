@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA065303"
+  ],
+  "inn": "cefazolin",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-236-10",
+    "63323-237-10"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "cefazolin sodium",
+      "name": "CEFAZOLIN"
+    }
+  ],
+  "setid": "c47c8d14-1eef-40f9-9d11-f0c300b1d4be",
+  "source": "dailymed"
+}
