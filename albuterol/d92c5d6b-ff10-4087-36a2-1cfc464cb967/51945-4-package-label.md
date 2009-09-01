@@ -38,6 +38,7 @@ If difficulty in breathing persists, get immediate medical help.
 Contents Under Pressure: Do not puncture.
 Do not use or store near heat or open flame.
 Keep out of reach of children.
+
 Shake the inhaler well before each spray.
 
 Store and use between 15o and 25oC (59o and 77oF).
