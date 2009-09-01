@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077744"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-5630-01",
+    "0378-5630-59",
+    "0378-5631-01",
+    "0378-5631-59",
+    "0378-5632-01",
+    "0378-5632-59"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sumatriptan succinate",
+      "name": "Sumatriptan Succinate"
+    }
+  ],
+  "setid": "1d2cd01c-05e7-44cf-a71d-0f474e826b7e",
+  "source": "dailymed"
+}
