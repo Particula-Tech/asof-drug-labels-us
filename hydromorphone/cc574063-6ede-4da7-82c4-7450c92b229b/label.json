@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA074597"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Roxane Laboratories, Inc",
+  "package_ndcs": [
+    "0054-0264-24",
+    "0054-0264-25",
+    "0054-0265-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Hydromorphone Hydrochloride"
+    }
+  ],
+  "setid": "cc574063-6ede-4da7-82c4-7450c92b229b",
+  "source": "dailymed"
+}
