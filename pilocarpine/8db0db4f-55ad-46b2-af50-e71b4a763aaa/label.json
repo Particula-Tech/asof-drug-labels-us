@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077220"
+  ],
   "inn": "pilocarpine",
   "labeler": "Lannett Company, Inc.",
   "package_ndcs": [
-    "0527-1313-01"
+    "0527-1313-01",
+    "0527-1407-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pilocarpine hydrochloride",
+      "name": "Pilocarpine Hydrochloride"
+    }
+  ],
   "setid": "8db0db4f-55ad-46b2-af50-e71b4a763aaa",
   "source": "dailymed"
 }

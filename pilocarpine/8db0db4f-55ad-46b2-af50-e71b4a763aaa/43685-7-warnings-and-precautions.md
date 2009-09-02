@@ -50,11 +50,11 @@ Child-Pugh scoring system for Hepatic Impairment
 | Bilirubin (mg. Per 100 ml.) | 1-2 | 2-3 | >3 |
 | Albumin (g. per 100 ml.) | 3-5 | 2.8-3.5 | <2.8 |
 | Prothrombin time (sec. Prolonged) | 1-4 | 4-6 | >6 |
-| For primary biliary cirrhosis:- Bilirubin (mg. per 100 ml.) | 1-4 | 4-10 | >10 |
+| For primary biliary cirrhosis:- Bilirubin (mg. Per 100 ml.) | 1-4 | 4-10 | >10 |
 
-Reference: Pugh, R.N.H., Murray-Lyon, I.M., Dawson, J.L.
-Pietroni, M.C., Williams, R. 1973, Transection of the Oesophagus for Bleeding Oesophageal Varices, Brit.
-J. Surg., 60:646-9.
+Reference: Pugh, RNH, Murray-Lyon, IM, Dawson, JL Pietroni, MC, Williams, R. Transection of the oesophagus for bleeding oesophageal varices, Brit.
+J. Surg.
+1973;60:646-9.
 
 ## Information for Patients
 
@@ -67,6 +67,7 @@ Dehydration may develop.
 
 Pilocarpine should be administered with caution to patients taking beta adrenergic antagonists because of the possibility of conduction disturbances.
 Drugs with parasympathomimetic effects administered concurrently with pilocarpine would be expected to result in additive pharmacologic effects.
+
 Pilocarpine might antagonize the anticholinergic effects of drugs used concomitantly.
 These effects should be considered when anticholinergic properties may be contributing to the therapeutic effect of concomitant medication (e.g., atropine, inhaled ipratropium).
 
@@ -76,7 +77,7 @@ While no formal drug interaction studies have been performed, the following conc
 
 Lifetime oral carcinogenicity studies were conducted in CD-1 mice and Sprague-Dawley rats.
 Pilocarpine did not induce tumors in mice at any dosage studied (up to 30 mg/kg/day, which yielded a systemic exposure approximately 50 times larger than the maximum systemic exposure observed clinically).
-In rats, a dosage of 18mg/kg/day, which yielded a systemic exposure approximately 100 times larger than the maximum systemic exposure observed clinically, resulted in a statistically significant increase in the incidence of benign pheochromocytomas in both males and females, and a statistically significant increase in the incidence of hepatocellular adenomas in female rats.
+In rats, a dosage of 18 mg/kg/day, which yielded a systemic exposure approximately 100 times larger than the maximum systemic exposure observed clinically, resulted in a statistically significant increase in the incidence of benign pheochromocytomas in both males and females, and a statistically significant increase in the incidence of hepatocellular adenomas in female rats.
 The tumorigenicity observed in rats was observed only at a large multiple of the maximum labeled clinical dose, and may not be relevant to clinical use.
 
 No evidence that pilocarpine has the potential to cause genetic toxicity was obtained in a series of studies that included: 1) bacterial assays (Salmonella and E. coli) for reverse gene mutations; 2) an in vitro chromosome aberration assay in a Chinese hamster ovary cell line; 3) an in vivo chromosome aberration assay (micronucleus test) in mice; and 4) a primary DNA damage assay (unscheduled DNA synthesis) in rat hepatocyte primary cultures.

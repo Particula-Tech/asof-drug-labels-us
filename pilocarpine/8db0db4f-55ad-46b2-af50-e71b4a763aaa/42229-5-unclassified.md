@@ -1,5 +1,5 @@
-Rx only
+Rx Only
 
 Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
 
-Revised December 2006
+Revised 06/09

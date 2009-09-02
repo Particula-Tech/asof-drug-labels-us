@@ -9,8 +9,10 @@ The majority of patients were between 50 and 64 years (51%), 33% were 65 years a
 
 The most frequent adverse experiences associated with pilocarpine hydrochloride tablets were a consequence of the expected pharmacologic effects of pilocarpine.
 
-| Adverse Event | Pilocarpine HCl 10 mg t.i.d. (30 mg/day) n=121 | 5 mg t.i.d. (15 mg/day) n=141 | Placebo (t.i.d.) n=152 |
+|  | N=121 | N=141 | N=152 |
 | --- | --- | --- | --- |
+| Adverse Event | Pilocarpine HCl |  | Placebo |
+|  | 10 mg t.i.d. (30 mg/day) | 5 mg t.i.d. (15 mg/day) | (t.i.d.) |
 | Sweating | 68% | 29% | 9% |
 | Nausea | 15 | 6 | 4 |
 | Rhinitis | 14 | 5 | 7 |
@@ -23,8 +25,10 @@ The most frequent adverse experiences associated with pilocarpine hydrochloride 
 
 In addition, the following adverse events (≥3% incidence) were reported at dosages of 15-30 mg/day in the controlled clinical trials:
 
-| Adverse Event | Pilocarpine HCl 5-10 mg t.i.d. (15-30 mg/day) n=212 | Placebo (t.i.d.) n=152 |
+|  | N=212 | N=152 |
 | --- | --- | --- |
+| Adverse Event | Pilocarpine HCl | Placebo |
+|  | 5-10 mg t.i.d. (15-30 mg/day) | (t.i.d.) |
 | Headache | 11% | 8% |
 | Dyspepsia | 7 | 5 |
 | Lacrimation | 6 | 8 |
@@ -47,7 +51,7 @@ Digestive: anorexia, increased appetite, esophagitis, gastrointestinal disorder,
 
 Hematologic: leukopenia, lymphadenopathy
 
-Nervous: anxiety, confusion, depression, abnormal dreams, hyperkinesia, hypesthesia, nervousness, paresthesias, speech disorder, twitching
+Nervous: anxiety, confusion, depression, abnormal dreams, hyperkinesia, hypesthesia, nervousness, parethesias, speech disorder, twitching
 
 Respiratory: increased sputum, stridor, yawning
 
@@ -57,7 +61,7 @@ Special senses: deafness, eye pain, glaucoma
 
 Urogenital: dysuria, metrorrhagia, urinary impairment
 
-In long-term treatment were two patients with underlying cardiovascular disease of whom one experienced a myocardial infarct and another an episode of syncope.
+In long-term treatment were two patients with underlying cardiovascular disease of whom one experienced a myocardial infarct and another episode of syncope.
 The association with drug is uncertain.
 
 ## Sjogren's Syndrome Patients
@@ -75,8 +79,10 @@ In the 2 placebo-controlled studies, the most common adverse events related to d
 The most commonly reported reason for patient discontinuation of treatment was sweating.
 Expected pharmacologic effects of pilocarpine include the following adverse experiences associated with pilocarpine hydrochloride tablets:
 
-| Adverse Event | Pilocarpine HCl 5 mg q.i.d. (20 mg/day) n=255 | Placebo (q.i.d.) n=253 |
+|  | N=255 | N=253 |
 | --- | --- | --- |
+| Adverse Event | Pilocarpine HCl | Placebo |
+|  | 5 mg q.i.d. (20 mg/day) | (q.i.d.) |
 | Sweating | 40% | 7% |
 | Urinary Frequency | 10 | 4 |
 | Nausea | 9 | 9 |
@@ -89,8 +95,10 @@ Expected pharmacologic effects of pilocarpine include the following adverse expe
 
 In addition, the following adverse events (≥3% incidence) were reported at dosages of 20 mg/day in the controlled clinical trials:
 
-| Adverse Event | Pilocarpine HCl 5 mg q.i.d. (20 mg/day) n=255 | Placebo (q.i.d.) n=253 |
+|  | N=255 | N=253 |
 | --- | --- | --- |
+| Adverse Event | Pilocarpine HCl | Placebo |
+|  | 5 mg q.i.d. (20 mg/day) | (q.i.d.) |
 | Headache | 13% | 19% |
 | Flu Syndrome | 9 | 9 |
 | Dyspepsia | 7 | 7 |
@@ -115,11 +123,11 @@ Digestive: anorexia, bilirubinemia, cholelithiasis, colitis, dry mouth, eructati
 
 Hematologic: hematuria, lymphadenopathy, abnormal platelets, thrombocythemia, thrombocytopenia, thrombosis, abnormal WBC
 
-Metabolic and Nutritional: peripheral edema, hypoglycemia
+Metabolic and Nutritional: peripheral edema, Hypoglycemia
 
 Musculoskeletal: arthralgia, arthritis, bone disorder, spontaneous bone fracture, pathological fracture, myasthenia, tendon disorder, tenosynovitis
 
-Nervous: aphasia, confusion, depression, abnormal dreams, emotional lability, hyperkinesia, hypesthesia, insomnia, leg cramps, nervousness, paresthesias, abnormal thinking, tremor
+Nervous: aphasia, confusion, depression, abnormal dreams, emotional lability, hyperkinesia, hypesthesia, insomnia, leg cramps, nervousness, parethesias, abnormal thinking, tremor
 
 Respiratory: bronchitis, dyspnea, hiccup, laryngismus, laryngitis, pneumonia, viral infection, voice alteration
 
@@ -130,3 +138,11 @@ Special senses: cataract, conjunctivitis, dry eyes, ear disorder, ear pain, eye 
 Urogenital: breast pain, dysuria, mastitis, menorrhagia, metrorrhagia, ovarian disorder, pyuria, salpingitis, urethral pain, urinary urgency, vaginal hemorrhage, vaginal moniliasis
 
 The following adverse experiences have been reported rarely with ocular pilocarpine: A-V block, agitation, ciliary congestion, confusion, delusion, depression, dermatitis, middle ear disturbance, eyelid twitching, malignant glaucoma, iris cysts, macular hole, shock, and visual hallucination.
+
+## Management of Overdose
+
+Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg in two hospitalized patients.
+100 mg of pilocarpine is considered potentially fatal.
+Overdosage should be treated with atropine titration (0.5 mg to 1.0 mg given subcutaneously or intravenously) and supportive measures to maintain respiration and circulation.
+Epinephrine (0.3 mg to 1.0 mg, subcutaneously or intramuscularly) may also be of value in the presence of severe cardiovascular depression or bronchoconstriction.
+It is not known if pilocarpine is dialyzable.
