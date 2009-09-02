@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075252"
+  ],
+  "inn": "azathioprine",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-502-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "azathioprine",
+      "name": "Azathioprine"
+    }
+  ],
+  "setid": "ceab8e8b-d022-4d0c-a552-cc5782446248",
+  "source": "dailymed"
+}
