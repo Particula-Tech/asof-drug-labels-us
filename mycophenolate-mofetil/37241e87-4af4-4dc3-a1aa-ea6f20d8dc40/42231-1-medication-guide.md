@@ -1,12 +1,16 @@
 # MEDICATION GUIDE
 
-CellCept® [SEL-sept] (mycophenolate mofetil capsules) (mycophenolate mofetil tablets) CellCept® Oral Suspension (mycophenolate mofetil for oral suspension) CellCept® Intravenous (mycophenolate mofetil hydrochloride for injection)
+CellCept® [SEL-sept] (mycophenolate mofetil capsules) (mycophenolate mofetil tablets)
+
+CellCept® Oral Suspension (mycophenolate mofetil for oral suspension)
+
+CellCept® Intravenous (mycophenolate mofetil hydrochloride for injection)
 
 Read the Medication Guide that comes with CellCept before you start taking it and each time you refill your prescription.
 There may be new information.
 This Medication Guide does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-## What is the most important information I should know about CellCept?
+What is the most important information I should know about CellCept?
 
 CellCept can cause serious side effects:
 
@@ -22,12 +26,12 @@ CellCept can cause serious side effects:
 
 - If you get pregnant while taking CellCept, do not stop taking CellCept.
   Call your healthcare provider right away.
-  You and your healthcare provider should report any cases of pregnancies to
+  You and your healthcare provider should report any cases of pregnancies to Talk to your healthcare provider about joining the National Transplantation Pregnancy Registry at 1-877-955-6877.
   - FDA MedWatch at 1-800-FDA-1088
-  - Roche Professional Drug Safety at 1-800-526-6367 Talk to your healthcare provider about joining the National Transplantation Pregnancy Registry at 1-877-955-6877.
+  - Roche Professional Drug Safety at 1-800-526-6367
 
 - Increased risk of getting serious infections.
-  CellCept weakens the body’s immune system and affects your ability to fight infections.
+  CellCept weakens the body's immune system and affects your ability to fight infections.
   Serious infections can happen with CellCept and can lead to death.
   Types of infections can include:
   - Viral infections.
@@ -42,7 +46,7 @@ CellCept can cause serious side effects:
     - You are confused or have problems thinking
     - You can not control your muscles
   - Fungal infections.
-    Yeasts and other types of fungal infections can happen with CellCept and can cause serious tissue and blood infections (see “What are the possible side effects of CellCept?”)
+    Yeasts and other types of fungal infections can happen with CellCept and can cause serious tissue and blood infections (see "What are the possible side effects of CellCept?")
 
 Call your healthcare provider right away if you have any of the following signs and symptoms of infection:
 
@@ -54,6 +58,7 @@ Call your healthcare provider right away if you have any of the following signs 
 - White patches in the mouth or throat
 - Unexpected bruising or bleeding
 - Cuts, scrapes or incisions that are red, warm and oozing pus
+
 - Increased risk of getting certain cancers.
   People who take CellCept have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
   Tell your healthcare provider if you have:
@@ -63,38 +68,38 @@ Call your healthcare provider right away if you have any of the following signs 
   - a new skin lesion or bump
   - any other changes to your health
 
-See the section “What are the possible side effects of CellCept?” for information about other serious side effects.
+See the section "What are the possible side effects of CellCept?" for information about other serious side effects.
 
-## What is CellCept?
+What is CellCept?
 
 CellCept is a prescription medicine to prevent rejection (antirejection medicine) in people who have received a kidney, heart or liver transplant.
-Rejection is when the body’s immune system perceives the new organ as a “foreign” threat and attacks it.
+Rejection is when the body's immune system perceives the new organ as a "foreign" threat and attacks it.
 
-CellCept is used with other medicines called cyclosporines (Sandimmune®, Gengraf®, Neoral®) and corticosteroids.
+CellCept is used with other medicines called cyclosporine (Sandimmune®, Gengraf®, Neoral®) and corticosteroids.
 These medicines work together to prevent rejection to your transplanted organ.
 
 CellCept has been used safely and works in children who received a kidney transplant as it does in adults.
 It is not known if CellCept is safe and works in children who receive a heart or liver transplant.
 
-## Who should not take CellCept?
+Who should not take CellCept?
 
 Do not take CellCept if you are allergic to mycophenolate mofetil or any of the ingredients in CellCept.
 See the end of this Medication Guide for a complete list of ingredients in CellCept.
 
-## What should I tell my healthcare provider before taking CellCept?
+What should I tell my healthcare provider before taking CellCept?
 
 Tell your healthcare provider about all of your medical conditions, if you:
 
 - have any digestive problems, such as ulcers
 - have Phenylketonuria (PKU).
-  CellCept contains aspartame (a source of phenylalanine)
+  CellCept oral suspension contains aspartame (a source of phenylalanine)
 - have Lesch-Nyhan or Kelley-Seegmiller syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase (HGPRT).
   You should not take CellCept if you have one of these disorders
 - plan to receive any vaccines.
   People taking CellCept should not take live vaccines.
   Some vaccines may not work as well during treatment with CellCept
 - are pregnant or are planning to become pregnant.
-  See “What is the most important information I should know about CellCept?”
+  See "What is the most important information I should know about CellCept?"
 - are breastfeeding.
   It is not known if CellCept passes into breast milk.
   You and your healthcare provider will decide if you will take CellCept or breastfeed.
@@ -105,14 +110,15 @@ Some medicines may affect the way CellCept works, and CellCept may affect how so
 Especially tell your healthcare provider if you take:
 
 - birth control pills (oral contraceptives).
-  See “What is the most important information I should know about CellCept?”
-- sevelamer (Renagel®, RenvelaTM).
+  See "What is the most important information I should know about CellCept?"
+- sevelamer (Renagel®, Renvela™).
   These products should be taken 2 hours after taking CellCept
-- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Valcyte®)
+- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Vitrasert®), valganciclovir (Valcyte®)
 - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
 - antacids that contain magnesium and aluminum (CellCept and the antacid should not be taken at the same time)
-- sulfamethoxazole/trimethoprim (BactrimTM, Bactrim DSTM)
-- norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, PyleraTM)
+- sulfamethoxazole/trimethoprim (Bactrim™, Bactrim DS™)
+- norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, Pylera™)
+- ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR™)
 - azathioprine (Azasan®, Imuran®)
 - cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
 
@@ -120,7 +126,7 @@ Know the medicines you take.
 Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
 Do not take any new medicine without talking with your healthcare provider.
 
-## How should I take CellCept?
+How should I take CellCept?
 
 - Take CellCept exactly as prescribed
 - Do not stop taking CellCept or change the dose unless your healthcare provider tells you to
@@ -130,7 +136,7 @@ Do not take any new medicine without talking with your healthcare provider.
   Call your healthcare provider if you are not sure what to do
 - Take CellCept capsules, tablets and oral suspension on an empty stomach, either 1 hour before or 2 hours after a meal, unless your healthcare provider tells you otherwise.
   With the approval of your healthcare provider, in stable kidney transplant patients, CellCept can be taken with food if necessary
-- Most people take CellCept by mouth either as blue and orange capsules or lavender tablets.
+- Most people take CellCept by mouth either as blue and brown capsules or lavender tablets.
   Some people may get CellCept soon after their transplant surgery as an infusion into a vein
 - Do not crush CellCept tablets.
   Do not open or crush CellCept capsules
@@ -140,34 +146,35 @@ Do not take any new medicine without talking with your healthcare provider.
 - Do not mix CellCept Oral Suspension with any other medicine
 - If you take too much CellCept, call your healthcare provider or the poison control center right away
 
-## What should I avoid while taking CellCept?
+What should I avoid while taking CellCept?
 
 - Avoid pregnancy.
-  See “What is the most important information I should know about CellCept?”
+  See "What is the most important information I should know about CellCept?"
 - Limit the amount of time you spend in sunlight.
   Avoid using tanning beds or sunlamps.
   People who take CellCept have a higher risk of getting skin cancer.
-  (See “What is the most important information I should know about CellCept?”)
+  (See "What is the most important information I should know about CellCept?")
   Wear protective clothing when you are in the sun and use a sunscreen with a high protection factor (SPF 30 and above).
   This is especially important if your skin is very fair or if you have a family history of skin cancer
 
-## What are the possible side effects of CellCept?
+What are the possible side effects of CellCept?
 
 CellCept can cause serious side effects:
 
-- See “What is the most important information I should know about CellCept?”
+- See "What is the most important information I should know about CellCept?"
 - Low blood cell counts.
-  People taking high doses of CellCept each day may have a decrease in blood counts, including
+  People taking high doses of CellCept each day may have a decrease in blood counts, including Your healthcare provider will do blood tests before you start taking CellCept and during treatment with CellCept to check your blood cell counts.
+  Tell your healthcare provider right away if you have any signs of infection (see "What is the most important information I should know about CellCept?"), or any unexpected bruising or bleeding.
+  Also, tell your healthcare provider if you have unusual tiredness, lack of energy, dizziness or fainting.
   - white blood cells, especially neutrophils.
     Neutrophils fight against bacterial infections.
     You have a higher chance of getting an infection when your white blood cell count is low.
     This is most common from 3 months to 6 months after your transplant
   - red blood cells.
-    Red blood cells carry oxygen to your body tissues
+    Red blood cells carry oxygen to your body tissues.
+    You have a higher chance of getting severe anemia when your red blood cell count is low
   - platelets.
-    Platelets help with blood clotting Your healthcare provider will do blood tests before you start taking CellCept and during treatment with CellCept to check your blood cell counts.
-    Tell your healthcare provider right away if you have any signs of infection (see “What is the most important information I should know about CellCept?”).
-    Also, tell your healthcare provider about any unexpected bruising or bleeding.
+    Platelets help with blood clotting
 - Stomach problems.
   Stomach and intestinal bleeding can happen in people who take high doses of CellCept.
   Bleeding can be severe and you may have to be hospitalized for treatment
@@ -185,26 +192,16 @@ Common side effects include:
 
 Side effects that happen more often in children than in adults taking CellCept include:
 
-- stomach area pain
-- fever
-- infection
-- pain
-- blood infection (sepsis)
-- diarrhea
-- vomiting
-- sore throat
-- colds (respiratory tract infections)
-- high blood pressure
-- low white blood cell count
-- low red blood cell count
+| stomach area painfeverinfectionpainblood infection (sepsis)diarrheavomiting | sore throatcolds (respiratory tract infections)high blood pressurelow white blood cell countlow red blood cell count |
+| --- | --- |
 
 These are not all of the possible side effects of CellCept.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088.
+You may report side effects to the FDA at 1-800-FDA-1088 or to Roche Professional Drug Safety at 1-800-526-6367.
 
-## How should I store CellCept?
+How should I store CellCept?
 
 - Store CellCept capsules and tablets at room temperature, between 59°F to 86°F (15°C to 30°C).
   Keep the container closed tightly
@@ -213,7 +210,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
   Do not freeze CellCept Oral Suspension
 - Keep CellCept and all medicines out of the reach of children
 
-## General Information about CellCept
+General Information about CellCept
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use CellCept for a condition for which it was not prescribed.
@@ -223,9 +220,9 @@ It may harm them.
 This Medication Guide summarizes the most important information about CellCept.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about CellCept that is written for healthcare professionals.
-For more information, go to www.rocheusa.com/products/CellCept or call 1-800-526-6367.
+For more information, call 1-800-526-6367 or visit www.rocheusa.com/products/cellcept.
 
-## What are the ingredients in CellCept?
+What are the ingredients in CellCept?
 
 Active Ingredient: mycophenolate mofetil
 
@@ -245,14 +242,14 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 CellCept, Cytovene-IV, and Valcyte are registered trademarks of Hoffmann-La Roche Inc. Bactrim and Bactrim DS are trademarks of Hoffmann-La Roche Inc. Any other trademarks in this document are the property of their respective owners.
 
-Distributed by:
+Distributed by: Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
 
-Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
+MG Revised: June 2009
 
-MG Issued: December 2008
+For additional copies of this Medication Guide, please call 1-800-617-8191 or visit www.rocheusa.com/products/cellcept.
 
-27899564
+CTCTIO_1061443_PI/MG_062009_N CTCTIO_1061443_PI/MG_062009_K 27899687
 
-Copyright© 1998-2008 by Roche Laboratories Inc. All rights reserved.
+Copyright © 1998-2009 by Roche Laboratories Inc. All rights reserved.
 
-For additional copies of this Medication Guide, please call 1-800-526-6367 or visit www.rocheusa.com/products/CellCept.
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

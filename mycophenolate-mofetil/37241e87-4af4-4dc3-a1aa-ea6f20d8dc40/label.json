@@ -1,7 +1,12 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050722",
+    "NDA050723",
+    "NDA050758",
+    "NDA050759"
+  ],
   "inn": "mycophenolate-mofetil",
-  "labeler": "Roche Laboratories, Inc.",
+  "labeler": "Hoffmann-La Roche Inc",
   "package_ndcs": [
     "0004-0259-01",
     "0004-0259-05",
@@ -11,7 +16,28 @@
     "0004-0261-29",
     "0004-0298-09"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "CellCept"
+    },
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "mycophenolate mofetil",
+      "name": "CellCept"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "mycophenolate mofetil",
+      "name": "CellCept"
+    },
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "mycophenolate mofetil hydrochloride",
+      "name": "CellCept"
+    }
+  ],
   "setid": "37241e87-4af4-4dc3-a1aa-ea6f20d8dc40",
   "source": "dailymed"
 }

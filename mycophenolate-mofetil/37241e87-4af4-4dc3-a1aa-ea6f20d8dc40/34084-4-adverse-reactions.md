@@ -33,7 +33,7 @@ Table 8 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or 
 | Chest pain | – | – | – | 26.3 | 26.0 | – | – |
 | Back pain | – | – | – | 34.6 | 28.4 | 46.6 | 47.4 |
 | Ascites | – | – | – | – | – | 24.2 | 22.6 |
-| Hemic and Lymphatic |  |  |  |  |  |  |  |
+| Hematologic and Lymphatic |  |  |  |  |  |  |  |
 | Anemia | 25.6 | 25.8 | 23.6 | 42.9 | 43.9 | 43.0 | 53.0 |
 | Leukopenia | 23.2 | 34.5 | 24.8 | 30.4 | 39.1 | 45.8 | 39.0 |
 | Thrombocytopenia | – | – | – | 23.5 | 27.0 | 38.3 | 42.2 |
@@ -134,14 +134,14 @@ In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention
 
 In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with CellCept than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with CellCept.
 
-The following adverse events were reported with 3% to<20% incidence in renal, cardiac, and hepatic transplant patients treated with CellCept, in combination with cyclosporine and corticosteroids.
+The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with CellCept, in combination with cyclosporine and corticosteroids.
 
 Table 10 Adverse Events Reported in 3% to <20% of Patients Treated With CellCept in Combination With Cyclosporine and Corticosteroids
 
 | Body System |  |
 | --- | --- |
 | Body as a Whole | abdomen enlarged, abscess, accidental injury, cellulitis, chills occurring with fever, cyst, face edema, flu syndrome, hemorrhage, hernia, lab test abnormal, malaise, neck pain, pelvic pain, peritonitis |
-| Hemic and Lymphatic | coagulation disorder, ecchymosis, pancytopenia, petechia, polycythemia, prothrombin time increased, thromboplastin time increased |
+| Hematologic and Lymphatic | coagulation disorder, ecchymosis, pancytopenia, petechia, polycythemia, prothrombin time increased, thromboplastin time increased |
 | Urogenital | acute kidney failure, albuminuria, dysuria, hydronephrosis, hematuria, impotence, kidney failure, kidney tubular necrosis, nocturia, oliguria, pain, prostatic disorder, pyelonephritis, scrotal edema, urine abnormality, urinary frequency, urinary incontinence, urinary retention, urinary tract disorder |
 | Cardiovascular | angina pectoris, arrhythmia, arterial thrombosis, atrial fibrillation, atrial flutter, bradycardia, cardiovascular disorder, congestive heart failure, extrasystole, heart arrest, heart failure, hypotension, pallor, palpitation, pericardial effusion, peripheral vascular disorder, postural hypotension, pulmonary hypertension, supraventricular tachycardia, supraventricular extrasystoles, syncope, tachycardia, thrombosis, vasodilatation, vasospasm, ventricular extrasystole, ventricular tachycardia, venous pressure increased |
 | Metabolic and Nutritional | abnormal healing, acidosis, alkaline phosphatase increased, alkalosis, bilirubinemia, creatinine increased, dehydration, gamma glutamyl transpeptidase increased, generalized edema, gout, hypercalcemia, hypercholesteremia, hyperlipemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypochloremia, hypoglycemia, hyponatremia, hypophosphatemia, hypoproteinemia, hypovolemia, hypoxia, lactic dehydrogenase increased, respiratory acidosis, SGOT increased, SGPT increased, thirst, weight gain, weight loss |
@@ -169,20 +169,24 @@ The safety profile of intravenous CellCept was similar to that of intravenous az
 
 ## Postmarketing Experience
 
-### Congenital Disorders:
+Congenital Disorders
 
 Congenital malformations including ear malformations have been reported in offspring of patients exposed to mycophenolate mofetil during pregnancy (see WARNINGS: Pregnancy).
 
-### Digestive:
+Digestive
 
 Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 
-### Resistance Mechanism Disorders:
+Hematologic and Lymphatic
+
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept in combination with other immunosuppressive agents.
+
+Resistance Mechanism Disorders
 
 Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
 
-### Respiratory:
+Respiratory
 
 Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving CellCept.

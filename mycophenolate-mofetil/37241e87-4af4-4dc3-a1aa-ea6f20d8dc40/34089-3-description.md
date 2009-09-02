@@ -6,7 +6,7 @@ The chemical name for mycophenolate mofetil (MMF) is 2-morpholinoethyl (E)-6-(1,
 It has an empirical formula of C23H31NO7, a molecular weight of 433.50, and the following structural formula:
 
 Mycophenolate mofetil is a white to off-white crystalline powder.
-It is slightly soluble in water (43µg/mL at pH 7.4); the solubility increases in acidic medium (4.27 mg/mL at pH 3.6).
+It is slightly soluble in water (43 µg/mL at pH 7.4); the solubility increases in acidic medium (4.27 mg/mL at pH 3.6).
 It is freely soluble in acetone, soluble in methanol, and sparingly soluble in ethanol.
 The apparent partition coefficient in 1-octanol/water (pH 7.4) buffer solution is 238.
 The pKa values for mycophenolate mofetil are 5.6 for the morpholino group and 8.5 for the phenolic group.

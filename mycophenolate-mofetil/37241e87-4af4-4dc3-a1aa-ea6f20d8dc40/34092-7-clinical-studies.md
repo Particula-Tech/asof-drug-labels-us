@@ -6,7 +6,7 @@ The safety and efficacy of CellCept in combination with corticosteroids and cycl
 
 ## Renal Transplant
 
-### Adults
+Adults
 
 The three renal studies compared two dose levels of oral CellCept (1 g bid and 1.5 g bid) with azathioprine (2 studies) or placebo (1 study) when administered in combination with cyclosporine (Sandimmune®) and corticosteroids to prevent acute rejection episodes.
 One study also included antithymocyte globulin (ATGAM®) induction therapy.
@@ -24,14 +24,15 @@ Patients who prematurely discontinued treatment were not followed for the occurr
 More patients receiving CellCept discontinued without prior biopsy-proven rejection, death or graft loss than discontinued in the control groups, with the highest rate in the CellCept 3 g/day group.
 Therefore, the acute rejection rates may be underestimates, particularly in the CellCept 3 g/day group.
 
-Table 4 Renal Transplant Studies Incidence of Treatment Failure (Biopsy-proven Rejection or Early Termination for Any Reason)
+Table 4 Renal Transplant Studies
 
-| USA StudyAntithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids. (N=499 patients) | CellCept 2 g/day (n=167 patients) | CellCept 3 g/day (n=166 patients) | Azathioprine 1 to 2 mg/kg/day (n=166 patients) |
+| Incidence of Treatment Failure (Biopsy-proven Rejection or Early Termination for Any Reason) |  |  |  |
 | --- | --- | --- | --- |
+| USA StudyAntithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids. (N=499 patients) | CellCept 2 g/day (n=167 patients) | CellCept 3 g/day (n=166 patients) | Azathioprine 1 to 2 mg/kg/day (n=166 patients) |
 | All treatment failures | 31.1% | 31.3% | 47.6% |
 | Early termination without prior acute rejectionDoes not include death and graft loss as reason for early termination. | 9.6% | 12.7% | 6.0% |
 | Biopsy-proven rejection episode on treatment | 19.8% | 17.5% | 38.0% |
-| Europe/Canada/Australia StudyMMF or azathioprine/cyclosporine/corticosteroids. (N=503 patients) | CellCept 2 g/day (n=173 patients) | CellCept 3 g/day (n=164 patients) | Azathioprine 100 to 150 mg/kg/day (n=166 patients) |
+| Europe/Canada/ Australia StudyMMF or azathioprine/cyclosporine/corticosteroids. (N=503 patients) | CellCept 2 g/day (n=173 patients) | CellCept 3 g/day (n=164 patients) | Azathioprine 100 to 150 mg/day (n=166 patients) |
 | All treatment failures | 38.2% | 34.8% | 50.0% |
 | Early termination without prior acute rejection | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven rejection episode on treatment | 19.7% | 15.9% | 35.5% |
@@ -45,15 +46,16 @@ No advantage of CellCept with respect to graft loss or patient death was establi
 Numerically, patients receiving CellCept 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving CellCept 2 g/day experienced a better outcome than CellCept 3 g/day in two of the three studies.
 Patients in all treatment groups who terminated treatment early were found to have a poor outcome with respect to graft loss or patient death at 1 year.
 
-Table 5 Renal Transplant Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
+Table 5 Renal Transplant Studies
 
 | Study | CellCept 2 g/day | CellCept 3 g/day | Control (Azathioprine or Placebo) |
 | --- | --- | --- | --- |
+| Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months |  |  |  |
 | USA | 8.5% | 11.5% | 12.2% |
 | Europe/Canada/Australia | 11.7% | 11.0% | 13.6% |
 | Europe | 8.5% | 10.0% | 11.5% |
 
-### Pediatrics
+Pediatrics
 
 One open-label, safety and pharmacokinetic study of CellCept oral suspension 600 mg/m2 bid (up to 1 g bid) in combination with cyclosporine and corticosteroids was performed at centers in the US (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
 CellCept was well tolerated in pediatric patients (see ADVERSE REACTIONS), and the pharmacokinetics profile was similar to that seen in adult patients dosed with 1 g bid CellCept capsules (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
@@ -69,8 +71,9 @@ Patients received CellCept 1.5 g bid (n=289) or azathioprine 1.5 to 3 mg/kg/day 
 The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy-proven rejection with hemodynamic compromise, or were retransplanted or died, within the first 6 months, and (2) the proportion of patients who died or were retransplanted during the first 12 months following transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 
-1. Rejection: No difference was established between CellCept and azathioprine (AZA) with respect to biopsy-proven rejection with hemodynamic compromise.
-2. Survival: CellCept was shown to be at least as effective as AZA in preventing death or retransplantation at 1 year (see Table 6).
+(1) Rejection: No difference was established between CellCept and azathioprine (AZA) with respect to biopsy-proven rejection with hemodynamic compromise.
+
+(2) Survival: CellCept was shown to be at least as effective as AZA in preventing death or retransplantation at 1 year (see Table 6).
 
 Table 6 Rejection at 6 Months/Death or Retransplantation at 1 Year
 

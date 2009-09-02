@@ -32,17 +32,21 @@ In immunosuppressed patients, physicians should consider PML in the differential
 Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
 In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
 
-## Pregnancy: Teratogenic Effects: Pregnancy Category D
+## Pregnancy
+
+Teratogenic Effects
+
+Pregnancy Category D
 
 Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant woman.
 Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney.
-In the National Transplantation Pregnancy Registry (NTPR), there were data on 33 MMF–exposed pregnancies in 24 transplant patients; there were 15 spontaneous abortions (45%) and 18 live-born infants.
+In the National Transplantation Pregnancy Registry (NTPR), there were data on 33 MMF-exposed pregnancies in 24 transplant patients; there were 15 spontaneous abortions (45%) and 18 live-born infants.
 Four of these 18 infants had structural malformations (22%).
-In postmarketing data (collected 1995–2007) on 77 women exposed to systemic MMF during pregnancy, 25 had spontaneous abortions and 14 had a malformed infant or fetus.
+In postmarketing data (collected 1995-2007) on 77 women exposed to systemic MMF during pregnancy, 25 had spontaneous abortions and 14 had a malformed infant or fetus.
 Six of 14 malformed offspring had ear abnormalities.
 Because these postmarketing data are reported voluntarily, it is not always possible to reliably estimate the frequency of particular adverse outcomes.
 These malformations seen in offspring were similar to findings in animal reproductive toxicology studies.
-For comparison, the background rate for congenital anomalies in the United States is about 3%, and NTPR data show a rate of 4–5% among babies born to organ transplant patients using other immunosuppressive drugs.
+For comparison, the background rate for congenital anomalies in the United States is about 3%, and NTPR data show a rate of 4-5% among babies born to organ transplant patients using other immunosuppressive drugs.
 
 In animal reproductive toxicology studies, there were increased rates of fetal resorptions and malformations in the absence of maternal toxicity.
 Female rats and rabbits received mycophenolate mofetil (MMF) doses equivalent to 0.02 to 0.9 times the recommended human dose for renal and cardiac transplant patients, based on body surface area conversions.
@@ -65,13 +69,20 @@ Patients should be aware that CellCept reduces blood levels of the hormones in t
 
 ## Neutropenia
 
-Severe neutropenia [absolute neutrophil count (ANC)<0.5 × 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
+Severe neutropenia [absolute neutrophil count (ANC) <0.5 × 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see ADVERSE REACTIONS).
 Patients receiving CellCept should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
 The development of neutropenia may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 If neutropenia develops (ANC <1.3 × 103/µL), dosing with CellCept should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
 Neutropenia has been observed most frequently in the period from 31 to 180 days posttransplant in patients treated for prevention of renal, cardiac, and hepatic rejection.
 
 Patients receiving CellCept should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
+
+## Pure Red Cell Aplasia (PRCA)
+
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept in combination with other immunosuppressive agents.
+The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative contribution of other immunosuppressants and their combinations in an immunosuppression regimen are also unknown.
+In some cases, PRCA was found to be reversible with dose reduction or cessation of CellCept therapy.
+In transplant patients, however, reduced immunosuppression may place the graft at risk.
 
 CAUTION: CELLCEPT INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 
@@ -94,7 +105,7 @@ Doses of CellCept greater than 1 g administered twice a day to renal transplant 
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 CellCept may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 
-In patients with delayed renal graft function posttransplant, mean MPA AUC(0–12h) was comparable, but MPAG AUC(0–12h) was 2-fold to 3-fold higher, compared to that seen in posttransplant patients without delayed renal graft function.
+In patients with delayed renal graft function posttransplant, mean MPA AUC(0-12h) was comparable, but MPAG AUC(0-12h) was 2-fold to 3-fold higher, compared to that seen in posttransplant patients without delayed renal graft function.
 In the three controlled studies of prevention of renal rejection, there were 298 of 1483 patients (20%) with delayed graft function.
 Although patients with delayed graft function have a higher incidence of certain adverse events (anemia, thrombocytopenia, hyperkalemia) than patients without delayed graft function, these events were not more frequent in patients receiving CellCept than azathioprine or placebo.
 No dose adjustment is recommended for these patients; however, they should be carefully observed (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
@@ -122,8 +133,8 @@ Therefore, care should be taken if CellCept Oral Suspension is administered to p
 - Inform patients that they need repeated appropriate laboratory tests while they are taking CellCept.
 - Inform women of childbearing potential that use of CellCept in pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of birth defects, and that they must use effective contraception.
 - Discuss pregnancy plans with female patients of childbearing potential.
-  - Any female of childbearing potential must use highly effective (two methods) contraception 4 weeks prior to starting CellCept therapy and continue contraception until 6 weeks after stopping CellCept treatment, unless abstinence is the chosen method (see WARNINGS: Pregnancy).
-  - A patient who is planning a pregnancy should not use CellCept unless she cannot be successfully treated with other immunosuppressant drugs.
+  - ♦Any female of childbearing potential must use highly effective (two methods) contraception 4 weeks prior to starting CellCept therapy and continue contraception until 6 weeks after stopping CellCept treatment, unless abstinence is the chosen method (see WARNINGS: Pregnancy).
+  - ♦A patient who is planning a pregnancy should not use CellCept unless she cannot be successfully treated with other immunosuppressant drugs.
 
 ## Laboratory Tests
 
@@ -144,7 +155,7 @@ Because MPAG plasma concentrations are increased in the presence of renal impair
 ### Antacids With Magnesium and Aluminum Hydroxides
 
 Absorption of a single dose of mycophenolate mofetil (2 g) was decreased when administered to ten rheumatoid arthritis patients also taking Maalox® TC (10 mL qid).
-The Cmax and AUC(0–24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
+The Cmax and AUC(0-24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
 CellCept may be administered to patients who are also taking antacids containing magnesium and aluminum hydroxides; however, it is recommended that CellCept and the antacid not be administered simultaneously.
 
 ### Cholestyramine
@@ -157,7 +168,7 @@ Therefore, CellCept is not recommended to be given with cholestyramine or other 
 ### Cyclosporine
 
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
-The mean (±SD) AUC(0–12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng∙h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng∙h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
+The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng∙h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng∙h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
 
 In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30-50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
@@ -174,7 +185,7 @@ In patients with renal impairment in which MMF and ganciclovir or its prodrug (e
 ### Oral Contraceptives
 
 A study of coadministration of CellCept (1 g bid) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.20 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) was conducted in 18 women with psoriasis over 3 consecutive menstrual cycles.
-Mean AUC(0–24h) was similar for ethinylestradiol and 3-keto desogestrel; however, mean levonorgestrel AUC(0–24h) significantly decreased by about 15%.
+Mean AUC(0-24h) was similar for ethinylestradiol and 3-keto desogestrel; however, mean levonorgestrel AUC(0-24h) significantly decreased by about 15%.
 There was large inter-patient variability (%CV in the range of 60% to 70%) in the data, especially for ethinylestradiol.
 Mean serum levels of LH, FSH and progesterone were not significantly affected.
 CellCept may not have any influence on the ovulation-suppressing action of the studied oral contraceptives.
@@ -196,7 +207,15 @@ The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (
 Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p<0.05).
 Therefore, CellCept is not recommended to be given with the combination of norfloxacin and metronidazole.
 There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
-The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (±24) µg•h/mL and 42.7 (±23) µg•h/mL, respectively, compared with 56.2 (±24) µg•h/mL after administration of mycophenolate mofetil alone.
+The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (±24) µg∙h/mL and 42.7 (±23) µg∙h/mL, respectively, compared with 56.2 (±24) µg∙h/mL after administration of mycophenolate mofetil alone.
+
+### Ciprofloxacin and Amoxicillin plus Clavulanic Acid
+
+A total of 64 CellCept-treated renal transplant recipients received either oral ciprofloxacin 500 mg bid or amoxicillin plus clavulanic acid 375 mg tid for 7 or at least 14 days.
+Approximately 50% reductions in median trough MPA concentrations (pre-dose) from baseline (CellCept alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
+These reductions in trough MPA concentrations tended to diminish within 14 days of antibiotic therapy and ceased within 3 days after discontinuation of antibiotics.
+The postulated mechanism for this interaction is an antibiotic-induced reduction in glucuronidase-possessing enteric organisms leading to a decrease in enterohepatic recirculation of MPA.
+The change in trough level may not accurately represent changes in overall MPA exposure; therefore, clinical relevance of these observations is unclear.
 
 ### Rifampin
 
@@ -238,7 +257,11 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category D. See WARNINGS section.
+Teratogenic Effects
+
+Pregnancy Category D
+
+See WARNINGS section.
 
 ## Nursing Mothers
 
