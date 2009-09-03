@@ -16,7 +16,7 @@ J. Urol.
 Drugs & Aging.
 1995; 6 (3): 243-262.
 
-Rev.
-02-08
+102770-01 Rev.
+0809
 
-Manufactured by: UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
+Manufactured by UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
