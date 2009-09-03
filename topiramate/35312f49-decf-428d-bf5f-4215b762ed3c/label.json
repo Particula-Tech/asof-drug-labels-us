@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA077627"
+  ],
+  "inn": "topiramate",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-108-10",
+    "68462-108-60",
+    "68462-109-10",
+    "68462-109-60",
+    "68462-110-10",
+    "68462-110-60",
+    "68462-153-10",
+    "68462-153-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "topiramate",
+      "name": "Topiramate"
+    }
+  ],
+  "setid": "35312f49-decf-428d-bf5f-4215b762ed3c",
+  "source": "dailymed"
+}
