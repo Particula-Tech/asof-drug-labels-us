@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA087335"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "SAVAGE LABORATORIES, A division of Nycomed US Inc.",
+  "package_ndcs": [
+    "0281-0326-08",
+    "0281-0326-30",
+    "0281-0326-60"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "nitroglycerin",
+      "name": "NITRO-BID"
+    }
+  ],
+  "setid": "e464e9bb-48e8-4b9f-9fff-e220cfbac0c5",
+  "source": "dailymed"
+}

@@ -1,0 +1,3 @@
+FOR TOPICAL USE ONLY
+
+Rx Only
