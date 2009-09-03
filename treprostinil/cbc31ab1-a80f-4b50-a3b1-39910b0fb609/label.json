@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022387"
+  ],
+  "inn": "treprostinil",
+  "labeler": "United Therapeutics Corp.",
+  "package_ndcs": [
+    "66302-206-01",
+    "66302-206-02",
+    "66302-206-03"
+  ],
+  "products": [
+    {
+      "form": "INHALANT",
+      "generic": "treprostinil",
+      "name": "Tyvaso"
+    }
+  ],
+  "setid": "cbc31ab1-a80f-4b50-a3b1-39910b0fb609",
+  "source": "dailymed"
+}
