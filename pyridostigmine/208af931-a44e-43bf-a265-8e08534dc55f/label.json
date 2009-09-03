@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017398"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3040-72",
+    "0781-3040-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pyridostigmine bromide",
+      "name": "Regonol"
+    }
+  ],
+  "setid": "208af931-a44e-43bf-a265-8e08534dc55f",
+  "source": "dailymed"
+}
