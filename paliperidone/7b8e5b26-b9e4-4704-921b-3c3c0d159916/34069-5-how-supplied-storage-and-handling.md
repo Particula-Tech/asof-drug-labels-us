@@ -11,7 +11,7 @@ All tablets are capsule-shaped.
 
 Storage and Handling
 
-Store up to 25°C (77°F); excursions permitted to 15 – 30°C (59 – 86°F) [see USP Controlled Room Temperature].
+Store up to 25ºC (77ºF); excursions permitted to 15 – 30ºC (59 – 86ºF) [see USP Controlled Room Temperature].
 Protect from moisture.
 
 Keep out of reach of children.

@@ -1,6 +1,8 @@
 # 14 CLINICAL STUDIES
 
-The short-term efficacy of INVEGA® (3 mg to 15 mg once daily) was established in three placebo-controlled and active-controlled (olanzapine), 6-week, fixed-dose trials in non-elderly adult subjects (mean age of 37) who met DSM-IV criteria for schizophrenia.
+## 14.1 Schizophrenia
+
+The acute efficacy of INVEGA® (3 mg to 15 mg once daily) was established in three placebo-controlled and active-controlled (olanzapine), 6-week, fixed-dose trials in non-elderly adult subjects (mean age of 37) who met DSM-IV criteria for schizophrenia.
 Studies were carried out in North America, Eastern Europe, Western Europe, and Asia.
 The doses studied among these three trials included 3 mg/day, 6 mg/day, 9 mg/day, 12 mg/day, and 15 mg/day.
 Dosing was in the morning without regard to meals.
@@ -20,3 +22,27 @@ In a longer-term trial, adult outpatients meeting DSM-IV criteria for schizophre
 After the stabilization phase, patients were randomized in a double-blind manner to either continue on INVEGA® at their achieved stable dose, or to placebo, until they experienced a relapse of schizophrenia symptoms.
 Relapse was pre-defined as significant increase in PANSS (or pre-defined PANSS subscales), hospitalization, clinically significant suicidal or homicidal ideation, or deliberate injury to self or others.
 An interim analysis of the data showed a significantly longer time to relapse in patients treated with INVEGA® compared to placebo, and the trial was stopped early because maintenance of efficacy was demonstrated.
+
+## 14.2 Schizoaffective Disorder
+
+The acute efficacy of INVEGA® (3 mg to 12 mg once daily) in the treatment of schizoaffective disorder was established in two placebo-controlled, 6‑week trials in non-elderly adult subjects.
+Enrolled subjects 1) met DSM-IV criteria for schizoaffective disorder, as confirmed by the Structured Clinical Interview for DSM-IV Disorders, 2) had a Positive and Negative Syndrome Scale (PANSS) total score of at least 60, and 3) had prominent mood symptoms as confirmed by a score of at least 16 on the Young Mania Rating Scale and/or Hamilton Rating Scale for Depression.
+The population included subjects with schizoaffective bipolar and depressive types.
+In one of these trials, efficacy was assessed in 211 subjects who received flexible doses of INVEGA® (3-12 mg once daily).
+In the other study, efficacy was assessed in 203 subjects who were assigned to one of two dose levels of INVEGA®: 6 mg with the option to reduce to 3 mg (n = 105) or 12 mg with the option to reduce to 9 mg (n = 98) once daily.
+Both studies included subjects who received INVEGA® either as monotherapy [no mood stabilizers and/or antidepressants (55%)] or as an adjunct to mood stabilizers and/or antidepressants (45%).
+The most commonly used mood stabilizers were valproate and lithium.
+The most commonly used antidepressants were SSRIs and SNRIs.
+INVEGA® was dosed in the morning without regard to meals.
+Studies were carried out in the United States, Eastern Europe, Russia, and Asia.
+
+Efficacy was evaluated using the PANSS, a validated multi-item inventory composed of five factors to evaluate positive symptoms, negative symptoms, disorganized thoughts, uncontrolled hostility/excitement, and anxiety/depression.
+As secondary outcomes, mood symptoms were evaluated using the Hamilton Depression Rating Scale (HAM-D-21) and the Young Mania Rating Scale (YMRS).
+
+The INVEGA® group in the flexible-dose study (dosed between 3 and 12 mg/day, mean modal dose of 8.6 mg/day) and the higher dose group of INVEGA® in the 2 dose-level study (12 mg/day with option to reduce to 9 mg/day) were each superior to placebo in the PANSS.
+Numerical improvements in mood symptoms were also observed, as measured by the HAM-D-21 and YMRS.
+In the lower dose group of the 2 dose-level study (6 mg/day with option to reduce to 3 mg/day), INVEGA® was not significantly different from placebo as measured by the PANSS.
+
+Taking the results of both studies together, INVEGA® improved the symptoms of schizoaffective disorder at endpoint relative to placebo when administered either as monotherapy or as an adjunct to mood stabilizers and/or antidepressants.
+An examination of population subgroups did not reveal any evidence of differential responsiveness on the basis of gender, age, or geographic region.
+There were insufficient data to explore differential effects based on race.

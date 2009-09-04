@@ -1,19 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021999"
+  ],
   "inn": "paliperidone",
-  "labeler": "Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
-    " 50458-552-01",
     "50458-550-01",
     "50458-550-02",
     "50458-550-10",
     "50458-551-01",
     "50458-551-02",
     "50458-551-10",
+    "50458-552-01",
     "50458-552-02",
     "50458-552-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "paliperidone",
+      "name": "INVEGA"
+    }
+  ],
   "setid": "7b8e5b26-b9e4-4704-921b-3c3c0d159916",
   "source": "dailymed"
 }

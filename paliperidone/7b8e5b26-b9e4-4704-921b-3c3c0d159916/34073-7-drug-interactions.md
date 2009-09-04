@@ -2,7 +2,7 @@
 
 ## 7.1 Potential for INVEGA® to Affect Other Drugs
 
-Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1)], INVEGA® should be used with caution in combination with other centrally acting drugs and alcohol.
+Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1, 6.2)], INVEGA® should be used with caution in combination with other centrally acting drugs and alcohol.
 Paliperidone may antagonize the effect of levodopa and other dopamine agonists.
 
 Because of its potential for inducing orthostatic hypotension, an additive effect may be observed when INVEGA® is administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.9)].
@@ -14,6 +14,10 @@ Paliperidone is also not expected to have enzyme inducing properties.
 
 Paliperidone is a weak inhibitor of P-glycoprotein (P-gp) at high concentrations.
 No in vivo data are available and the clinical relevance is unknown.
+
+Pharmacokinetic interaction between lithium and INVEGA® is unlikely.
+
+In a clinical study, subjects on a stable dose of valproate showed comparable valproate average plasma concentrations when 3–15 mg of INVEGA® was added to their existing valproate treatment.
 
 ## 7.2 Potential for Other Drugs to Affect INVEGA®
 
@@ -31,3 +35,8 @@ Paliperidone is metabolized to a limited extent by CYP2D6 [see Clinical Pharmaco
 In an interaction study in healthy subjects in which a single 3 mg dose of INVEGA® was administered concomitantly with 20 mg per day of paroxetine (a potent CYP2D6 inhibitor), paliperidone exposures were on average 16% (90% CI: 4, 30) higher in CYP2D6 extensive metabolizers.
 Higher doses of paroxetine have not been studied.
 The clinical relevance is unknown.
+
+Co-administration of a single dose of INVEGA® 12 mg with divalproex sodium extended-release tablets (two 500 mg tablets once daily) resulted in an increase of approximately 50% in the Cmax and AUC of paliperidone.
+Dosage reduction for INVEGA® should be considered when INVEGA® is co-administered with valproate after clinical assessment.
+
+Pharmacokinetic interaction between lithium and INVEGA® is unlikely.

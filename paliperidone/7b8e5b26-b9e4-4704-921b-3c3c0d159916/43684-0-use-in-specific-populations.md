@@ -15,10 +15,6 @@ In animal reproduction studies, there were no increases in fetal abnormalities w
 
 In rat reproduction studies with risperidone, which is extensively converted to paliperidone in rats and humans, there were increases in pup deaths seen at oral doses which are less than the maximum recommended human dose of risperidone on a mg/m2 basis (see risperidone package insert).
 
-## 8.2 Labor and Delivery
-
-The effect of INVEGA® on labor and delivery in humans is unknown.
-
 ## 8.3 Nursing Mothers
 
 Paliperidone is 9-hydroxyrisperidone, the active metabolite of risperidone.
@@ -36,16 +32,17 @@ Safety and effectiveness of INVEGA® in patients < 18 years of age have not been
 The safety, tolerability, and efficacy of INVEGA® were evaluated in a 6-week placebo-controlled study of 114 elderly subjects with schizophrenia (65 years of age and older, of whom 21 were 75 years of age and older).
 In this study, subjects received flexible doses of INVEGA® (3 mg to 12 mg once daily).
 In addition, a small number of subjects 65 years of age and older were included in the 6-week placebo-controlled studies in which adult schizophrenic subjects received fixed doses of INVEGA® (3 mg to 15 mg once daily) [see Clinical Studies (14)].
+There were no subjects ≥ 65 years of age in the schizoaffective disorder studies.
 
-Overall, of the total number of subjects in clinical studies of INVEGA® (n = 1796), including those who received INVEGA® or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
+Overall, of the total number of subjects in schizophrenia clinical studies of INVEGA® (n = 1796), including those who received INVEGA® or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney and clearance is decreased in patients with moderate to severe renal impairment [see Clinical Pharmacology (12.3)], who should be given reduced doses.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.4)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.5)].
 
 ## 8.6 Renal Impairment
 
-Dosing must be individualized according to the patient's renal function status [see Dosage and Administration (2.4)].
+Dosing must be individualized according to the patient's renal function status [see Dosage and Administration (2.5)].
 
 ## 8.7 Hepatic Impairment
 

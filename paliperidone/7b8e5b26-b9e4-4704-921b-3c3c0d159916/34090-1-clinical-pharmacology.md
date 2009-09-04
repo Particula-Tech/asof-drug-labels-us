@@ -8,7 +8,7 @@ The mechanism of action of paliperidone, as with other drugs having efficacy in 
 ## 12.2 Pharmacodynamics
 
 Paliperidone is a centrally active dopamine Type 2 (D2) antagonist and with predominant serotonin Type 2 (5HT2A) activity.
-Paliperidone is also active as an antagonist at α1 andα2 adrenergic receptors and H1 histaminergic receptors, which may explain some of the other effects of the drug.
+Paliperidone is also active as an antagonist at α1 and α2 adrenergic receptors and H1 histaminergic receptors, which may explain some of the other effects of the drug.
 Paliperidone has no affinity for cholinergic muscarinic or β1- and β2-adrenergic receptors.
 The pharmacological activity of the (+)- and (-)- paliperidone enantiomers is qualitatively and quantitatively similar in vitro.
 
@@ -23,19 +23,15 @@ The mean steady-state peak:trough ratio for an INVEGA® dose of 9 mg was 1.7 wit
 
 Following administration of INVEGA®, the (+) and (-) enantiomers of paliperidone interconvert, reaching an AUC (+) to (-) ratio of approximately 1.6 at steady state.
 
-### Absorption and Distribution
-
 Absorption and Distribution
 
 The absolute oral bioavailability of paliperidone following INVEGA® administration is 28%.
 
 Administration of a 12 mg paliperidone extended-release tablet to healthy ambulatory subjects with a standard high-fat/high-caloric meal gave mean Cmax and AUC values of paliperidone that were increased by 60% and 54%, respectively, compared with administration under fasting conditions.
 Clinical trials establishing the safety and efficacy of INVEGA® were carried out in subjects without regard to the timing of meals.
-While INVEGA® can be taken without regard to food, the presence of food at the time of INVEGA® administration may increase exposure to paliperidone [see Dosage and Administration (2.2)].
+While INVEGA® can be taken without regard to food, the presence of food at the time of INVEGA® administration may increase exposure to paliperidone [see Dosage and Administration (2.3)].
 
 Based on a population analysis, the apparent volume of distribution of paliperidone is 487 L. The plasma protein binding of racemic paliperidone is 74%.
-
-### Metabolism and Elimination
 
 Metabolism and Elimination
 
@@ -47,13 +43,11 @@ Four primary metabolic pathways have been identified in vivo, none of which coul
 
 Population pharmacokinetic analyses found no difference in exposure or clearance of paliperidone between extensive metabolizers and poor metabolizers of CYP2D6 substrates.
 
-### Special Populations
-
 Special Populations
 
 Renal Impairment
 
-The dose of INVEGA® should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
+The dose of INVEGA® should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.5)].
 The disposition of a single dose paliperidone 3 mg extended-release tablet was studied in subjects with varying degrees of renal function.
 Elimination of paliperidone decreased with decreasing estimated creatinine clearance.
 Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% on average in mild (CrCl = 50 mL/min to < 80 mL/min), 64% in moderate (CrCl = 30 mL/min to < 50 mL/min), and 71% in severe (CrCl = 10 mL/min to < 30 mL/min) renal impairment, corresponding to an average increase in exposure (AUCinf) of 1.5 fold, 2.6 fold, and 4.8 fold, respectively, compared to healthy subjects.
@@ -68,7 +62,8 @@ INVEGA® has not been studied in patients with severe hepatic impairment.
 Elderly
 
 No dosage adjustment is recommended based on age alone.
-However, dose adjustment may be required because of age-related decreases in creatinine clearance [see Renal Impairment above and Dosage and Administration (2.1.2.4)].
+However, dose adjustment may be required because of age-related decreases in creatinine clearance [see Renal Impairment above and Dosage and Administration (2.1.
+2.5)].
 
 Race
 
