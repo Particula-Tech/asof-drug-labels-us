@@ -1,0 +1,55 @@
+{
+  "application_numbers": [
+    "NDA020272",
+    "NDA020588",
+    "NDA021444"
+  ],
+  "inn": "risperidone",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-590-10",
+    "50458-590-50",
+    "50458-590-60",
+    "50458-591-10",
+    "50458-591-50",
+    "50458-591-60",
+    "50458-592-10",
+    "50458-592-50",
+    "50458-592-60",
+    "50458-593-10",
+    "50458-593-50",
+    "50458-593-60",
+    "50458-594-10",
+    "50458-594-50",
+    "50458-594-60",
+    "50458-595-10",
+    "50458-595-60",
+    "50458-596-01",
+    "50458-601-28",
+    "50458-601-30",
+    "50458-602-28",
+    "50458-602-30",
+    "50458-603-28",
+    "50458-604-28",
+    "50458-605-28"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "risperidone",
+      "name": "risperidone"
+    },
+    {
+      "form": "TABLET",
+      "generic": "risperidone",
+      "name": "risperidone"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "risperidone",
+      "name": "risperidone M-TAB"
+    }
+  ],
+  "setid": "701e1cd8-2868-4d29-85a9-a2212c88165f",
+  "source": "dailymed"
+}
