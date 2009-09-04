@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021121"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-585-01",
+    "50458-586-01",
+    "50458-587-01",
+    "50458-588-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "CONCERTA"
+    }
+  ],
+  "setid": "1a88218c-5b18-4220-8f56-526de1a276cd",
+  "source": "dailymed"
+}
