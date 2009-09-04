@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA077253"
+  ],
+  "inn": "fluconazole",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-101-10",
+    "68462-101-30",
+    "68462-102-10",
+    "68462-102-30",
+    "68462-103-40",
+    "68462-104-10",
+    "68462-104-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fluconazole",
+      "name": "Fluconazole"
+    }
+  ],
+  "setid": "3da5f41d-5200-45ac-b89d-00881237ec85",
+  "source": "dailymed"
+}
