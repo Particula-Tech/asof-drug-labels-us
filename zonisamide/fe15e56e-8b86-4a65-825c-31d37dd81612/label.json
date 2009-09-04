@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077651"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-128-01",
+    "68462-128-05",
+    "68462-129-01",
+    "68462-129-05",
+    "68462-130-01",
+    "68462-130-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zonisamide",
+      "name": "Zonisamide"
+    }
+  ],
+  "setid": "fe15e56e-8b86-4a65-825c-31d37dd81612",
+  "source": "dailymed"
+}
