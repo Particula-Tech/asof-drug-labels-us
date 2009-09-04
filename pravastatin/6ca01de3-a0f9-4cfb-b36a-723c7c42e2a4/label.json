@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA077987"
+  ],
+  "inn": "pravastatin",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-195-05",
+    "68462-195-90",
+    "68462-196-05",
+    "68462-196-90",
+    "68462-197-05",
+    "68462-197-90",
+    "68462-198-05",
+    "68462-198-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pravastatin sodium",
+      "name": "Pravastatin Sodium"
+    }
+  ],
+  "setid": "6ca01de3-a0f9-4cfb-b36a-723c7c42e2a4",
+  "source": "dailymed"
+}
