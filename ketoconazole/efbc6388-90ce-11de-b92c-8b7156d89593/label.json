@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019927"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "50458-680-08"
+  ],
+  "products": [
+    {
+      "form": "SHAMPOO",
+      "generic": "ketoconazole",
+      "name": "NIZORAL"
+    }
+  ],
+  "setid": "efbc6388-90ce-11de-b92c-8b7156d89593",
+  "source": "dailymed"
+}
