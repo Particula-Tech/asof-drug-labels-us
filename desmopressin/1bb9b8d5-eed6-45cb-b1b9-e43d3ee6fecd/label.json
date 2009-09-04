@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019955"
+  ],
   "inn": "desmopressin",
   "labeler": "sanofi-aventis U.S. LLC",
   "package_ndcs": [
     "0075-0016-00",
     "0075-0026-00"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "desmopressin acetate",
+      "name": "DDAVP"
+    }
+  ],
   "setid": "1bb9b8d5-eed6-45cb-b1b9-e43d3ee6fecd",
   "source": "dailymed"
 }
