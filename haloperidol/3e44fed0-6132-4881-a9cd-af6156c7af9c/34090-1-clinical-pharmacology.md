@@ -1,0 +1,3 @@
+# CLINICAL PHARMACOLOGY
+
+The precise mechanism of action has not been clearly established.

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA073364"
+  ],
+  "inn": "haloperidol",
+  "labeler": "Silarx Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "54838-501-15",
+    "54838-501-40"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "haloperidol",
+      "name": "Haloperidol"
+    }
+  ],
+  "setid": "3e44fed0-6132-4881-a9cd-af6156c7af9c",
+  "source": "dailymed"
+}
