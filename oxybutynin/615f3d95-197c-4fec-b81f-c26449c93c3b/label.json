@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074520"
+  ],
+  "inn": "oxybutynin",
+  "labeler": "Silarx Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "54838-510-80"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "oxybutynin chloride",
+      "name": "Oxybutynin Chloride"
+    }
+  ],
+  "setid": "615f3d95-197c-4fec-b81f-c26449c93c3b",
+  "source": "dailymed"
+}
