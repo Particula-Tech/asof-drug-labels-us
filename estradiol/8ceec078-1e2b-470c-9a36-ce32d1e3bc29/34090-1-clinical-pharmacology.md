@@ -26,7 +26,7 @@ In a 14-day, Phase 1, multiple-dose study, Divigel® demonstrated linear and app
 
 Table 1: Mean (%CV) Pharmacokinetic Parameters for Estradiol (uncorrected for baseline) on Day 14 Following Multiple Daily Doses of Divigel® 0.1%
 
-| Parameter (units) | Divigel®0.25 g | Divigel®0.5 g | Divigel®1.0 g |
+| Parameter (units) | Divigel® 0.25 g | Divigel® 0.5 g | Divigel® 1.0 g |
 | --- | --- | --- | --- |
 | AUC0-24 (pg•h/mL) | 236 (94) | 504 (149) | 732 (81) |
 | Cmax (pg/mL) | 14.7 (84) | 28.4 (139) | 51.5 (86) |

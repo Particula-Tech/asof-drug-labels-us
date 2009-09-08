@@ -14,7 +14,7 @@ The estrogen-alone substudy of the Women's Health Initiative (WHI) reported incr
 (See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders.)
 
 The estrogen-plus-progestin substudy of the WHI reported increased risk of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) per day, relative to placebo.
-(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders and Malignant neoplasms,Breast cancer.)
+(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders and Malignant neoplasms, Breast cancer.)
 
 The Women's Health Initiative Memory Study (WHIMS), a substudy of the WHI, reported an increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 5.2 years of treatment with CE 0.625 mg alone and during 4 years of treatment with CE 0.625 mg combined with MPA 2.5 mg, relative to placebo.
 It is unknown whether this finding applies to younger postmenopausal women.

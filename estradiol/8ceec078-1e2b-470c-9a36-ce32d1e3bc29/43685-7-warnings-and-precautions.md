@@ -53,7 +53,7 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 
 ## 2. Malignant Neoplasms
 
-### a. Endometrial Cancer
+### a. Endometrial cancer
 
 The use of unopposed estrogens in women with intact uteri has been associated with an increased risk of endometrial cancer.
 The reported endometrial cancer risk among unopposed estrogen users is about 2 to 12 times greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.

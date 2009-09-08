@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 (Updated June 2007)
 
@@ -10,7 +10,7 @@ Read this PATIENT INFORMATION leaflet before you start using Divigel® and read 
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Divigel®(AN ESTROGEN HORMONE)? Estrogens increase the chance of getting cancer of the uterus. Report any unusual vaginal bleeding right away while you are taking estrogens. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogens, with or without progestins, to prevent heart disease, heart attacks, or strokes. Using estrogens, with or without progestins, may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.Do not use estrogens, with or without progestins, to prevent dementia. Using estrogens, with or without progestins, may increase your risk of dementia. You and your healthcare provider should talk regularly about whether you still need treatment with Divigel®. |
+| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Divigel® (AN ESTROGEN HORMONE)? Estrogens increase the chance of getting cancer of the uterus. Report any unusual vaginal bleeding right away while you are taking estrogens. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. Do not use estrogens, with or without progestins, to prevent heart disease, heart attacks, or strokes. Using estrogens, with or without progestins, may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots. Do not use estrogens, with or without progestins, to prevent dementia. Using estrogens, with or without progestins, may increase your risk of dementia. You and your healthcare provider should talk regularly about whether you still need treatment with Divigel®. |
 | --- |
 
 What is Divigel®?
@@ -48,7 +48,7 @@ If you have or have had cancer, talk with your healthcare provider about whether
 - Had a stroke or heart attack in the past year
 - Currently have or have had blood clots
 - Currently have or have had liver problems
-- Are allergic to Divigel®or any of its ingredients
+- Are allergic to Divigel® or any of its ingredients
 
 See the next section of this leaflet for a list of ingredients in Divigel®.
 
@@ -98,7 +98,7 @@ Important things to remember when using Divigel®
   However, if this is necessary, the individual should wear a disposable plastic glove to avoid direct contact with Divigel®
 - Do not apply Divigel® to your face, breast, or irritated skin.
 - Never apply Divigel® in or around the vagina.
-- Divigel®contains alcohol.
+- Divigel® contains alcohol.
   Alcohol based gels are flammable.
   Avoid fire, flame or smoking until the gel has dried.
 
@@ -118,7 +118,7 @@ If someone else is exposed to Divigel® by direct contact with the wet gel, that
 This is especially important for men and children.
 The longer the gel is in contact with the skin before washing, the chance is greater that the other person will absorb some of the estrogen hormone.
 
-What should I do if I get Divigel®in my eyes?
+What should I do if I get Divigel® in my eyes?
 
 If you get Divigel® in your eyes, flush your eyes right away with lukewarm tap water.
 If you have concerns, contact your healthcare provider.
@@ -157,7 +157,7 @@ Common side effects include:
 - Breast pain
 - Irregular vaginal bleeding or spotting
 - Stomach/abdominal cramps, bloating
-- Nausea and vomiting
+- Nausea and Vomiting
 - Hair loss
 
 Other side effects include:
@@ -199,7 +199,7 @@ If you would like more information, talk with your healthcare provider or pharma
 You can ask for information about Divigel® that is written for health professionals.
 You can get more information by calling the toll free number 1-800-654-2299.
 
-How should Divigel®be applied?
+How should Divigel® be applied?
 
 - Divigel® should be applied once a day, around the same time each day.
 - Apply Divigel® to clean, dry, and unbroken (without cuts or scrapes) skin.
@@ -220,11 +220,11 @@ TO APPLY:
 7. Dispose of the empty Divigel® packet in the trash.
 8. Wash your hands with soap and water immediately after applying Divigel® to remove any remaining gel and reduce the chance of transferring Divigel® to other people.
 
-HOW IS Divigel®SUPPLIED?
+HOW IS Divigel® SUPPLIED?
 
 Divigel® is supplied in individual foil packets, each one containing a single day's dose.
 
-Store Divigel®packets at 20 to 25°C (68 to 77°F).
+Store Divigel® packets at 20 to 25°C (68 to 77°F).
 Excursions permitted to 15 to 30°C (59 to 86°F).
 [See USP Controlled Room Temperature.]
 
