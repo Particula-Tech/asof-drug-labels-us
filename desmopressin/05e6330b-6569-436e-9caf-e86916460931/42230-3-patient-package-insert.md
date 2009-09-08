@@ -1,4 +1,4 @@
-## PATIENT INSTRUCTION GUIDE
+# PATIENT INSTRUCTION GUIDE
 
 DDAVP® Nasal Spray (desmopressin acetate)
 
