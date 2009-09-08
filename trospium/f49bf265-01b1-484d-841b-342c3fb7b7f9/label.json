@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021595"
+  ],
+  "inn": "trospium",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-3513-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trospium chloride",
+      "name": "SANCTURA"
+    }
+  ],
+  "setid": "f49bf265-01b1-484d-841b-342c3fb7b7f9",
+  "source": "dailymed"
+}
