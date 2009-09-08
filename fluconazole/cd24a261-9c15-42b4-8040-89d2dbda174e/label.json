@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076766"
+  ],
   "inn": "fluconazole",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "0338-6045-37",
     "0338-6046-48"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fluconazole",
+      "name": "Fluconazole"
+    }
+  ],
   "setid": "cd24a261-9c15-42b4-8040-89d2dbda174e",
   "source": "dailymed"
 }

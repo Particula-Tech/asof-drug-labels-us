@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## In Patients Receiving Multiple Doses for Infections:
+## In Patients Receiving Multiple Doses:
 
 Sixteen percent of over 4000 patients treated with fluconazole in clinical trials of 7 days or more experienced adverse events.
 Treatment was discontinued in 1.5% of patients due to adverse clinical events and in 1.3% of patients due to laboratory test abnormalities.
@@ -9,8 +9,6 @@ Clinical adverse events were reported more frequently in HIV infected patients (
 The proportions of patients discontinuing therapy due to clinical adverse events were similar in the two groups (1.5%).
 
 The following treatment-related clinical adverse events occurred at an incidence of 1% or greater in 4048 patients receiving fluconazole for 7 or more days in clinical trials: nausea 3.7%, headache 1.9%, skin rash 1.8%, vomiting 1.7%, abdominal pain 1.7%, and diarrhea 1.5%.
-
-The following adverse events have occurred under conditions where a causal association is probable:
 
 Hepatobiliary: In combined clinical trials and marketing experience, there have been rare cases of serious hepatic reactions during treatment with fluconazole.
 (See WARNINGS.)
@@ -24,17 +22,26 @@ The overall rate of serum transaminase elevations of more than 8 times the upper
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
 The incidence of abnormally elevated serum transaminases was greater in patients taking fluconazole concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
-Immunologic: In rare cases, anaphylaxis has been reported.
+Post-Marketing Experience
 
-The following adverse events have occurred under conditions where a causal association is uncertain:
+In addition, the following adverse events have occurred during postmarketing experience.
 
-Central Nervous System: Seizures.
+Immunologic: In rare cases, anaphylaxis (including angioedema, face edema and pruritus) has been reported.
+
+Cardiovascular: QT prolongation, torsade de pointes.
+(See PRECAUTIONS.)
+
+Central Nervous System: Seizures, dizziness.
 
 Dermatologic: Exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
 
 Hematopoietic and Lymphatic: Leukopenia, including neutropenia and agranulocytosis, thrombocytopenia.
 
 Metabolic: Hypercholesterolemia, hypertriglyceridemia, hypokalemia.
+
+Gastrointestinal: Dyspepsia, vomiting.
+
+Other senses: Taste perversion.
 
 ## Adverse Reactions in Children:
 
