@@ -1,6 +1,5 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The acute oral LD50 doses in male and female mice and male and female rats are over 8,000 mg/kg.
 Overdosage may cause severe hypotension, bradycardia, cardiac insufficiency, cardiogenic shock, and cardiac arrest.
 Respiratory problems, bronchospasms, vomiting, lapses of consciousness, and generalized seizures may also occur.
 
@@ -8,9 +7,9 @@ The patient should be placed in a supine position and, where necessary, kept und
 Gastric lavage or pharmacologically induced emesis may be used shortly after ingestion.
 The following agents may be administered:
 
-For excessive bradycardia: atropine, 2 mg IV.
+for excessive bradycardia: atropine, 2 mg IV.
 
-To support cardiovascular function: glucagon, 5 to 10 mg IV rapidly over 30 seconds, followed by a continuous infusion of 5 mg/hour; sympathomimetics (dobutamine, isoprenaline, adrenaline) at doses according to body weight and effect.
+to support cardiovascular function: glucagon, 5 to 10 mg IV rapidly over 30 seconds, followed by a continuous infusion of 5 mg/hour; sympathomimetics (dobutamine, isoprenaline, adrenaline) at doses according to body weight and effect.
 
 If peripheral vasodilation dominates, it may be necessary to administer adrenaline or noradrenaline with continuous monitoring of circulatory conditions.
 For therapy-resistant bradycardia, pacemaker therapy should be performed.

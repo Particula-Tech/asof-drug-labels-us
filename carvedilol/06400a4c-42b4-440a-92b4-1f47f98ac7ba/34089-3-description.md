@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Carvedilol phosphate is a nonselective β-adrenergic blocking agent with α1-blocking activity.
 It is (2RS)-1-(9H-Carbazol-4-yloxy)-3-[[2-(2-methoxyphenoxy)ethyl]amino]propan-2-ol phosphate salt (1:1) hemihydrate.

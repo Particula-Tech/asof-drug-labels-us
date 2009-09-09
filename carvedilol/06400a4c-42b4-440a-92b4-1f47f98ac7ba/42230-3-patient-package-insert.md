@@ -1,4 +1,4 @@
-# PATIENT INFORMATION LEAFLET
+PATIENT INFORMATION LEAFLET
 
 COREG CR® (Co-REG)
 
@@ -91,8 +91,7 @@ What are possible side effects of COREG CR?
 
 Serious side effects of COREG CR include:
 
-- chest pain and heart attack if you suddenly stop taking COREG CR.
-  See “What is the most important information I should know about COREG CR?”
+- chest pain and heart attack if you suddenly stop taking COREG CR.See “What is the most important information I should know about COREG CR?”
 - slow heart beat.
 - low blood pressure (which may cause dizziness or fainting when you stand up).
   If these happen, sit or lie down, and tell your doctor right away.
@@ -108,12 +107,12 @@ Serious side effects of COREG CR include:
 - masking the symptoms of hyperthyroidism (overactive thyroid), such as a fast heartbeat.
 - worsening of severe allergic reactions.
   Medicines to treat a severe allergic reaction may not work as well while you are taking COREG CR.
+- rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on COREG or COREG CR.
+  These reactions can be life-threatening.
+  In some cases, these reactions happened in patients who had been on COREG before taking COREG CR.
 
 Common side effects of COREG CR include shortness of breath, weight gain, diarrhea, and tiredness.
 If you wear contact lenses, you may have fewer tears or dry eyes that can become bothersome.
-
-Rare serious allergic reactions have happened in patients who were on COREG CR.
-In some cases, these reactions happened in patients who had been on COREG® before taking COREG CR.
 
 Call your doctor if you have any side effects that bother you or don’t go away.
 
@@ -152,7 +151,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-April 2008 CCR:3PIL
+June 2009
+
+CCR:4PIL

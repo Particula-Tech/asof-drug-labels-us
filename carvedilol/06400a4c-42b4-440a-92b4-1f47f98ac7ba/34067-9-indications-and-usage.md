@@ -1,14 +1,14 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Heart Failure
+## 1.1 Heart Failure
 
-COREG CR is indicated for the treatment of mild-to-severe heart failure of ischemic or cardiomyopathic origin, usually in addition to diuretics, ACE inhibitor, and digitalis, to increase survival and, also, to reduce the risk of hospitalization (see CLINICAL TRIALS and PRECAUTIONS, Drug Interactions).
+COREG CR is indicated for the treatment of mild-to-severe chronic heart failure of ischemic or cardiomyopathic origin, usually in addition to diuretics, ACE inhibitors, and digitalis, to increase survival and, also, to reduce the risk of hospitalization [see Clinical Studies (14.1)].
 
-## Left Ventricular Dysfunction Following Myocardial Infarction
+## 1.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
-COREG CR is indicated to reduce cardiovascular mortality in clinically stable patients who have survived the acute phase of a myocardial infarction and have a left ventricular ejection fraction of ≤40% (with or without symptomatic heart failure) (see CLINICAL TRIALS).
+COREG CR is indicated to reduce cardiovascular mortality in clinically stable patients who have survived the acute phase of a myocardial infarction and have a left ventricular ejection fraction of ≤40% (with or without symptomatic heart failure) [see Clinical Studies (14.2)].
 
-## Hypertension
+## 1.3 Hypertension
 
-COREG CR is indicated for the treatment of essential hypertension.
-It can be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics (see PRECAUTIONS, Drug Interactions).
+COREG CR is indicated for the management of essential hypertension [see Clinical Studies (14.3, 14.4)].
+It can be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics [see Drug Interactions (7.2)].
