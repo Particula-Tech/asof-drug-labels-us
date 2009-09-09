@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076387"
+  ],
+  "inn": "clotrimazole",
+  "labeler": "Roxane Laboratories, Inc",
+  "package_ndcs": [
+    "0054-4146-22",
+    "0054-4146-23",
+    "0054-8146-22"
+  ],
+  "products": [
+    {
+      "form": "LOZENGE",
+      "generic": "clotrimazole troche",
+      "name": "Clotrimazole Troche"
+    }
+  ],
+  "setid": "0bc4b876-ddee-4f03-b44f-544348739a26",
+  "source": "dailymed"
+}
