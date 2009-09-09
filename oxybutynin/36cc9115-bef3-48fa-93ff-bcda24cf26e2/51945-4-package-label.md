@@ -1,0 +1,9 @@
+# PRINCIPAL DISPLAY PANEL - 5 mg 100 tablet bottle
+
+NDC 50458-805-01 100 tablets
+
+DITROPAN XL® (oxybutynin chloride) Extended-release tablets 5 mg
+
+Rx only
+
+ORTHO WOMEN'S HEALTH & UROLOGY™ DIVISION OF ORTHO-MCNEIL-JANSSEN PHARMACEUTICALS, INC.
