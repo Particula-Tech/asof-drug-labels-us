@@ -1,12 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021500",
+    "NDA021896"
+  ],
   "inn": "emtricitabine",
   "labeler": "Gilead Sciences, Inc.",
   "package_ndcs": [
     "61958-0601-1",
     "61958-0602-1"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "emtricitabine",
+      "name": "EMTRIVA"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "emtricitabine",
+      "name": "EMTRIVA"
+    }
+  ],
   "setid": "d6599395-3944-44f9-97f2-e0424c6b6a1f",
   "source": "dailymed"
 }
