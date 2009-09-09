@@ -1,11 +1,26 @@
 {
-  "application_numbers": [],
-  "inn": "valganciclovir",
-  "labeler": "Roche Pharmaceuticals",
-  "package_ndcs": [
-    "0004-0038-22"
+  "application_numbers": [
+    "NDA021304",
+    "NDA022257"
   ],
-  "products": [],
+  "inn": "valganciclovir",
+  "labeler": "Hoffmann-La Roche Inc",
+  "package_ndcs": [
+    "0004-0038-22",
+    "0004-0039-09"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "valganciclovir hydrochloride",
+      "name": "Valcyte"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valganciclovir hydrochloride",
+      "name": "Valcyte"
+    }
+  ],
   "setid": "dc548ff9-e8ea-4d6e-b9b4-e31f53ac4078",
   "source": "dailymed"
 }

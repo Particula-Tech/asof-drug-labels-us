@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Valcyte tablets are contraindicated in patients with hypersensitivity to valganciclovir or ganciclovir.
+Valcyte is contraindicated in patients who have had a demonstrated clinically significant hypersensitivity reaction (e.g., anaphylaxis) to valganciclovir, ganciclovir, or any component of the formulation [see Adverse Reactions (6.1)].

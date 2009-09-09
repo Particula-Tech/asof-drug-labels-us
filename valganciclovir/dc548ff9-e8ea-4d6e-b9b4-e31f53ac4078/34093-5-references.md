@@ -1,13 +1,17 @@
-# REFERENCES
+# 15 REFERENCES
 
-1. Recommendations for the Safe Handling of Cytotoxic Drugs.
-   US Department of Health and Human Services, National Institutes of Health, Bethesda, MD, September 1992.
-   NIH Publication No. 92-2621
-2. American Society of Hospital Pharmacists technical assistance bulletin on handling cytotoxic and hazardous drugs.
-   Am J Hosp Pharm.
-   1990; 47:1033-1049
-3. Controlling Occupational Exposures to Hazardous Drugs.
-   US Department of Labor.
-   Occupational Health and Safety Administration.
-   OSHA Technical Manual.
-   Section VI - Chapter 2, January 20, 1999
+- NIOSH Alert: Preventing occupational exposures to antineoplastic and other hazardous drugs in healthcare settings.
+  2004.
+  U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No. 2004-165.
+- OSHA Technical Manual, TED 1-0.15A, Section VI: Chapter 2.
+  Controlling Occupational Exposure to Hazardous Drugs.
+  OSHA, 1999. http://www.osha.gov/dts/osta/otm/otm_vi/otm_vi_2.html
+- American Society of Health-System Pharmacists.
+  ASHP guidelines on handling hazardous drugs.
+  Am J Health-Syst Pharm.
+  2006; 63:1172-1193.
+- Polovich, M., White, J. M., & Kelleher, L.O.
+  (eds.)
+  2005.
+  Chemotherapy and biotherapy guidelines and recommendations for practice (2nd. ed.)
+  Pittsburgh, PA: Oncology Nursing Society.

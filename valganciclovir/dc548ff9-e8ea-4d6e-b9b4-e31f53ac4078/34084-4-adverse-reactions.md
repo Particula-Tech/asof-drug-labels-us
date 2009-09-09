@@ -1,34 +1,35 @@
-# ADVERSE EVENTS
+# 6 ADVERSE REACTIONS
 
-## Experience With Valcyte Tablets
+The following serious adverse events are discussed in greater detail in other sections of the labeling:
+
+- Hematologic adverse events [see Boxed Warning, Warnings and Precautions (5.1)]
+- Acute renal failure [see Warnings and Precautions (5.5)]
+
+The most common adverse events and laboratory abnormalities reported in at least one indication by ≥ 20% of adult patients treated with Valcyte tablets are diarrhea, pyrexia, nausea, tremor, neutropenia, anemia, graft rejection, thrombocytopenia, and vomiting.
+The most common reported adverse events and laboratory abnormalities reported in > 10% of pediatric solid organ transplant recipients treated with Valcyte for oral solution or tablets are diarrhea, pyrexia, hypertension, upper respiratory tract infection, vomiting, anemia, neutropenia, constipation, nausea, and cough.
+
+## 6.1 Clinical Trial Experience in Adult Patients
 
 Valganciclovir, a prodrug of ganciclovir, is rapidly converted to ganciclovir after oral administration.
-Adverse events known to be associated with ganciclovir usage can therefore be expected to occur with Valcyte tablets.
+Adverse events known to be associated with ganciclovir usage can therefore be expected to occur with Valcyte.
 
-## Treatment of CMV Retinitis in AIDS Patients
+Because clinical trials are conducted under widely varying conditions, adverse event rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect rates observed in practice.
 
-As shown in Table 8, the safety profiles of Valcyte tablets and intravenous ganciclovir during 28 days of randomized therapy (21 days induction dose and 7 days maintenance dose) in 158 patients were comparable, with the exception of catheter-related infection, which occurred with greater frequency in patients randomized to receive IV ganciclovir.
+Treatment of CMV Retinitis in AIDS Patients: In a clinical study for the treatment of CMV retinitis in HIV-infected patients, the adverse events reported by patients receiving Valcyte tablets (n=79) or intravenous ganciclovir (n=79) for 28 days of randomized therapy (21 days induction dose and 7 days maintenance dose), respectively, included diarrhea (16%, 10%), nausea (8%, 14%), headache (9%, 5%), and catheter-related infections (3%, 11%).
+The incidence of adverse events was similar between the group who received Valcyte tablets and the group who received intravenous ganciclovir, with the exception of catheter-related infections, which occurred with greater frequency in patients randomized to receive intravenous ganciclovir.
+The frequencies of neutropenia (ANC < 500/µL) were 11% for patients receiving Valcyte tablets compared with 13% for patients receiving intravenous ganciclovir.
+Anemia (Hgb < 8 g/dL) occurred in 8% of patients in each group.
+Other laboratory abnormalities occurred with similar frequencies in the two groups.
 
-Table 8 Percentage of Selected Adverse Events Occurring During the Randomized Phase of Study WV15376
-
-| Adverse Event | Valcyte Arm N=79 | Intravenous Ganciclovir Arm N=79 |
-| --- | --- | --- |
-| Diarrhea | 16% | 10% |
-| Neutropenia | 11% | 13% |
-| Nausea | 8% | 14% |
-| Headache | 9% | 5% |
-| Anemia | 8% | 8% |
-| Catheter-related infection | 3% | 11% |
-
-Tables 9 and 10 show the pooled adverse event data and abnormal laboratory values from two single arm, open-label clinical trials, WV15376 and WV15705.
-A total of 370 patients received maintenance therapy with Valcyte tablets 900 mg once daily.
+Adverse events and abnormal laboratory values data are available for 370 patients who received maintenance therapy with Valcyte tablets 900 mg once daily in two open-label clinical trials.
 Approximately 252 (68%) of these patients received Valcyte tablets for more than nine months (maximum duration was 36 months).
+Table 2 and Table 3 show the pooled adverse event data and abnormal laboratory values from these patients.
 
-Table 9 Pooled Selected Adverse Events Reported in ≥5% of Patients in Two Clinical Studies in CMV Retinitis
+Table 2 Pooled Selected Adverse Events Reported in ≥ 5% of Patients who Received Valcyte Tablets Maintenance Therapy for CMV Retinitis
 
-| Adverse Events According to Body System | Valcyte (N=370) % |
+| Adverse Events According to Body System | Valcyte Tablets (N=370) % |
 | --- | --- |
-|  | Patients with CMV Retinitis (Studies WV15376 and WV15705) |
+|  | Patients with CMV Retinitis |
 | Gastrointestinal system |  |
 | Diarrhea | 41 |
 | Nausea | 30 |
@@ -37,10 +38,6 @@ Table 9 Pooled Selected Adverse Events Reported in ≥5% of Patients in Two Clin
 | Body as a whole |  |
 | Pyrexia | 31 |
 | Headache | 22 |
-| Hemic and lymphatic system |  |
-| Neutropenia | 27 |
-| Anemia | 26 |
-| Thrombocytopenia | 6 |
 | Central and peripheral nervous system |  |
 | Insomnia | 16 |
 | Peripheral neuropathy | 9 |
@@ -48,35 +45,22 @@ Table 9 Pooled Selected Adverse Events Reported in ≥5% of Patients in Two Clin
 | Special senses |  |
 | Retinal detachment | 15 |
 
-Table 10 Pooled Laboratory Abnormalities Reported in Two Clinical Studies in the Treatment of CMV Retinitis
+Table 3 Pooled Laboratory Abnormalities Reported in Patients Who Received Valcyte Tablets Maintenance Therapy for the Treatment of CMV Retinitis
 
-| Laboratory Abnormalities | Valcyte (N=370) % |
+| Laboratory Abnormalities | Valcyte Tablets (N=370) % |
 | --- | --- |
-|  | CMV Retinitis Patients (Studies WV15376 and WV15705) |
-| Neutropenia: ANC/µL |  |
-| <500 | 19 |
-| 500 –<750 | 17 |
-| 750 –<1000 | 17 |
-| Anemia: Hemoglobin g/dL |  |
-| <6.5 | 7 |
-| 6.5 –<8.0 | 13 |
-| 8.0 –<9.5 | 16 |
-| Thrombocytopenia: Platelets/µL |  |
-| <25000 | 4 |
-| 25000 –<50000 | 6 |
-| 50000 –<100000 | 22 |
-| Serum Creatinine: mg/dL |  |
-| >2.5 | 3 |
-| >1.5 – 2.5 | 12 |
+|  | Patients with CMV Retinitis |
+| Neutropenia: ANC/µL < 500 500 – < 750 750 – < 1000 | 19 17 17 |
+| Anemia: Hemoglobin g/dL < 6.5 6.5 – < 8.0 8.0 – < 9.5 | 7 13 16 |
+| Thrombocytopenia: Platelets/µL < 25000 25000 – < 50000 50000 – < 100000 | 4 6 22 |
+| Serum Creatinine: mg/dL > 2.5 > 1.5 – 2.5 | 3 12 |
 
-## Prevention of CMV Disease in Selected Solid Organ Transplantation
-
-Table 11 shows selected adverse events regardless of severity and drug relationship with an incidence of ≥5% from a clinical trial, PV16000 (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received Valcyte (N=244) or oral ganciclovir (N=126).
+Prevention of CMV Disease in Selected Solid Organ Transplantation: Table 4 shows selected adverse events regardless of severity and drug relationship with an incidence of ≥ 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received Valcyte tablets (N=244) or oral ganciclovir (N=126).
 The majority of the adverse events were of mild or moderate intensity.
 
-Table 11 Percentage of Selected Grades 1-4 Adverse Events Reported in ≥5% of Selected Solid Organ Transplant Patients in Study PV16000
+Table 4 Percentage of Selected Grades 1-4 Adverse Events Reported in ≥ 5% of Patients From a Study of Selected Solid Organ Transplant Patients
 
-| Adverse Event | Valcyte (N=244) % | Oral Ganciclovir (N=126) % |
+| Adverse Event | Valcyte Tablets (N=244) % | Oral Ganciclovir (N=126) % |
 | --- | --- | --- |
 | Diarrhea | 30 | 29 |
 | Tremors | 28 | 25 |
@@ -86,12 +70,9 @@ Table 11 Percentage of Selected Grades 1-4 Adverse Events Reported in ≥5% of S
 | Insomnia | 20 | 16 |
 | Hypertension | 18 | 15 |
 | Vomiting | 16 | 14 |
-| Leukopenia | 14 | 7 |
 | Pyrexia | 13 | 14 |
 
-Laboratory adverse events are those reported by investigators.
-
-Adverse events not included in Table 11, which either occurred at a frequency of ≥5% in clinical study PV16000, or were selected serious adverse events reported in studies WV15376, WV15705, or PV16000 with a frequency of<5% are listed below.
+Adverse events not included in Table 4, which either occurred at a frequency of ≥ 5% in a clinical study with solid organ transplant patients, or were selected serious adverse events reported in studies with patients with CMV retinitis or in studies with solid organ transplant patients with a frequency of < 5% are listed below.
 
 Allergic reactions: valganciclovir hypersensitivity
 
@@ -109,7 +90,7 @@ Hepatobiliary disorders: abnormal hepatic function
 
 Infections and infestations: pharyngitis/nasopharyngitis, upper respiratory tract infection, urinary tract infection, local and systemic infections and sepsis, postoperative wound infection
 
-Injury, poisoning and procedural complications: postoperative complications, postoperative pain, increased wound drainage, wound dehiscence
+Injury, poisoning, and procedural complications: postoperative complications, postoperative pain, increased wound drainage, wound dehiscence
 
 Metabolism and nutrition disorders: hyperkalemia, hypokalemia, hypomagnesemia, hyperglycemia, appetite decreased, dehydration, hypophosphatemia, hypocalcemia
 
@@ -125,30 +106,24 @@ Skin and subcutaneous tissue disorders: dermatitis, pruritus, acne
 
 Vascular disorders: hypotension
 
-Laboratory abnormalities reported with Valcyte tablets in one study in solid organ transplant patients are listed in Table 12.
+Laboratory abnormalities reported with Valcyte tablets in one study in solid organ transplant patients are listed in Table 5.
 
-Table 12 Laboratory Abnormalities Reported in Selected Solid Organ Transplant Patients in Study PV16000
+Table 5 Laboratory Abnormalities Reported in a Study of Selected Solid Organ Transplant PatientsLaboratory abnormalities are those reported by investigators.
 
-| Laboratory Abnormalities | Valcyte (N=244) % | Ganciclovir Capsules (N=126) % |
+| Laboratory Abnormalities | Valcyte Tablets (N=244) % | Ganciclovir Capsules (N=126) % |
 | --- | --- | --- |
-| Neutropenia: ANC/µL |  |  |
-| <500 | 5 | 3 |
-| 500 –<750 | 3 | 2 |
-| 750 –<1000 | 5 | 2 |
-| Anemia: Hemoglobin g/dL |  |  |
-| <6.5 | 1 | 2 |
-| 6.5 –<8.0 | 5 | 7 |
-| 8.0 –<9.5 | 31 | 25 |
-| Thrombocytopenia: Platelets/µL |  |  |
-| <25000 | 0 | 2 |
-| 25000 –<50000 | 1 | 3 |
-| 50000 –<100000 | 18 | 21 |
-| Serum Creatinine: mg/dL |  |  |
-| >2.5 | 14 | 21 |
-| >1.5 – 2.5 | 45 | 47 |
+| Neutropenia: ANC/µL < 500 500 – < 750 750 – < 1000 | 5 3 5 | 3 2 2 |
+| Anemia: Hemoglobin g/dL < 6.5 6.5 – < 8.0 8.0 – < 9.5 | 1 5 31 | 2 7 25 |
+| Thrombocytopenia: Platelets/µL < 25000 25000 – < 50000 50000 – < 100000 | 0 1 18 | 2 3 21 |
+| Serum Creatinine: mg/dL > 2.5 > 1.5 – 2.5 | 14 45 | 21 47 |
 
-## Experience With Ganciclovir
+## 6.2 Clinical Trial Experience in Pediatric Patients
 
-Valganciclovir is rapidly converted to ganciclovir upon oral administration.
-Adverse events reported with Valcyte in general were similar to those reported with ganciclovir.
-Please refer to the Cytovene-IV product information and ganciclovir capsule product information for more information on postmarketing adverse events associated with ganciclovir.
+Valcyte for oral solution and tablets have been studied in 109 pediatric solid organ transplant patients who were at risk for developing CMV disease (aged 4 months to 16 years) and in 24 neonates with symptomatic congenital CMV disease (aged 8 to 34 days), with duration of ganciclovir exposure ranging from 2 to 100 days.
+The overall safety profile was similar in pediatric patients as compared to adult patients.
+However, the rates of certain adverse events and laboratory abnormalities, such as upper respiratory tract infection, pyrexia, nasopharyngitis, anemia, and neutropenia, were reported more frequently in pediatric patients than in adults [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
+
+## 6.3 Postmarketing Experience
+
+In general, the adverse events reported during the postmarketing use of Valcyte were similar to those identified during the clinical trials and to those reported during the postmarketing use of ganciclovir.
+Please also refer to the intravenous ganciclovir product information and ganciclovir capsule product information for more information on postmarketing adverse events associated with ganciclovir.

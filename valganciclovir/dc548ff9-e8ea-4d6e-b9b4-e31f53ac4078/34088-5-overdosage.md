@@ -1,18 +1,14 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Overdose Experience With Valcyte Tablets
+Experience With Valcyte Tablets: One adult developed fatal bone marrow depression (medullary aplasia) after several days of dosing that was at least 10-fold greater than recommended for the patient's estimated degree of renal impairment.
 
-One adult developed fatal bone marrow depression (medullary aplasia) after several days of dosing that was at least 10-fold greater than recommended for the patient's estimated degree of renal impairment.
+An overdose of Valcyte could also possibly result in increased renal toxicity [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
 
-It is expected that an overdose of Valcyte tablets could also possibly result in increased renal toxicity (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION: Renal Impairment).
-
-Since ganciclovir is dialyzable, dialysis may be useful in reducing serum concentrations in patients who have received an overdose of Valcyte tablets (see CLINICAL PHARMACOLOGY: Special Populations: Hemodialysis).
+Because ganciclovir is dialyzable, dialysis may be useful in reducing serum concentrations in patients who have received an overdose of Valcyte [see Clinical Pharmacology (12.3)].
 Adequate hydration should be maintained.
-The use of hematopoietic growth factors should be considered (see CLINICAL PHARMACOLOGY: Special Populations: Hemodialysis).
+The use of hematopoietic growth factors should be considered [see Clinical Pharmacology (12.3)].
 
-## Overdose Experience With Intravenous Ganciclovir
-
-Reports of overdoses with intravenous ganciclovir have been received from clinical trials and during postmarketing experience.
+Experience With Intravenous Ganciclovir: Reports of overdoses with intravenous ganciclovir have been received from clinical trials and during postmarketing experience.
 The majority of patients experienced one or more of the following adverse events:
 
 Hematological toxicity: pancytopenia, bone marrow depression, medullary aplasia, leukopenia, neutropenia, granulocytopenia
