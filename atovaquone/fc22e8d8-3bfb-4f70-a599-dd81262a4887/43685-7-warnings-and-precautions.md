@@ -70,6 +70,9 @@ No evidence of genotoxicity was observed in the in vivo Mouse Micronucleus assay
 Cycloguanil, the active metabolite of proguanil, was also negative in the Ames test, but was positive in the Mouse Lymphoma assay and the Mouse Micronucleus assay.
 These positive effects with cycloguanil, a dihydrofolate reductase inhibitor, were significantly reduced or abolished with folinic acid supplementation.
 
+A fertility study in Sprague-Dawley rats revealed no adverse effects at doses up to 16 mg/kg/day of proguanil hydrochloride (up to 0.2-times the average human exposure based on AUC comparisons.)
+Fertility studies of proguanil in animals at exposures similar to or greater than those observed in humans have not been conducted.
+
 Genotoxicity studies have not been performed with atovaquone in combination with proguanil.
 Effects of MALARONE on male and female reproductive performance are unknown.
 
@@ -84,6 +87,9 @@ Following single-dose administration of 14C-labeled atovaquone to pregnant rats,
 In rabbits, atovaquone caused maternal toxicity at plasma concentrations that were approximately 0.6 to 1.3 times the estimated human exposure during treatment of malaria.
 Adverse fetal effects in rabbits, including decreased fetal body lengths and increased early resorptions and post-implantation losses, were observed only in the presence of maternal toxicity.
 Concentrations of atovaquone in rabbit fetuses averaged 30% of the concurrent maternal plasma concentrations.
+
+A pre- and post-natal study in Sprague-Dawley rats revealed no adverse effects at doses up to 16 mg/kg/day of proguanil hydrochloride (up to 0.2-times the average human exposure based on AUC comparisons).
+Pre- and post-natal studies of proguanil in animals at exposures similar to or greater than those observed in humans have not been conducted.
 
 The combination of atovaquone and proguanil hydrochloride was not teratogenic in rats at plasma concentrations up to 1.7 and 0.10 times, respectively, the estimated human exposure during treatment of malaria.
 In rabbits, the combination of atovaquone and proguanil hydrochloride was not teratogenic or embryotoxic to rabbit fetuses at plasma concentrations up to 0.34 and 0.82 times, respectively, the estimated human exposure during treatment of malaria.
