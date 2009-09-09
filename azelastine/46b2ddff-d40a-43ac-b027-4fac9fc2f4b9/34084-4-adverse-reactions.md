@@ -1,14 +1,16 @@
 # ADVERSE REACTIONS
 
+To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-800-526-3840 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 ## Seasonal Allergic Rhinitis
 
-### Astelin® Nasal Spray Two Sprays Per Nostril Twice Daily
+Astelin® Nasal Spray Two Sprays Per Nostril Twice Daily
 
 Adverse experience information for Astelin® Nasal Spray is derived from six well-controlled, 2-day to 8-week clinical studies which included 391 patients who received Astelin® Nasal Spray at a dose of 2 sprays per nostril twice daily.
 In placebo-controlled efficacy trials, the incidence of discontinuation due to adverse reactions in patients receiving Astelin® Nasal Spray was not different from vehicle placebo (2.2% vs 2.8%, respectively).
 In these clinical studies, adverse events that occurred more often in patients treated with Astelin® Nasal Spray versus vehicle placebo included bitter taste (19.7% vs. 0.6%), somnolence (11.5% vs. 5.4%), weight increase (2.0% vs. 0%), and myalgia (1.5% vs. 0%).
 
-The following table contains adverse events that were reported with frequencies >2% in the Astelin® Nasal Spray 2 sprays per nostril twice daily treatment group and more frequently than placebo in short-term (<2 days) and long-term (2-8 weeks) clinical trials.
+The following table contains adverse events that were reported with frequencies ≥2% in the Astelin® Nasal Spray 2 sprays per nostril twice daily treatment group and more frequently than placebo in short-term (≤2 days) and long-term (2-8 weeks) clinical trials.
 
 | ADVERSE EVENT | Astelin® Nasal Spray n = 391 | Vehicle Placebo n = 353 |
 | --- | --- | --- |
@@ -26,7 +28,7 @@ The following table contains adverse events that were reported with frequencies 
 | Epistaxis | 2.0 | 1.4 |
 | Weight Increase | 2.0 | 0.0 |
 
-### Astelin® Nasal Spray One Spray Per Nostril Twice Daily
+Astelin® Nasal Spray One Spray Per Nostril Twice Daily
 
 Adverse experience information for Astelin® Nasal Spray at a dose of one spray per nostril twice daily is derived from two placebo-controlled 2-week clinical studies which included 276 patients.
 None of the patients receiving Astelin® Nasal Spray were discontinued from these studies due to adverse reactions.
@@ -61,14 +63,14 @@ Urogenital: albuminuria, amenorrhea, breast pain, hematuria, increased urinary f
 
 Whole Body: allergic reaction, back pain, herpes simplex, viral infection, malaise, pain in extremities, abdominal pain, pyrexia.
 
-# ADVERSE REACTIONS
+## ADVERSE REACTIONS
 
-## Vasomotor Rhinitis
+Vasomotor Rhinitis
 
 Adverse experience information for Astelin® Nasal Spray is derived from two placebo-controlled clinical studies which included 216 patients who received Astelin® Nasal Spray at a dose of 2 sprays per nostril twice daily for up to 28 days.
 The incidence of discontinuation due to adverse reactions in patients receiving Astelin® Nasal Spray was not different from vehicle placebo (2.8% vs 2.9%, respectively).
 
-The following adverse events were reported with frequencies >2% in the Astelin® Nasal Spray treatment group and more frequently than placebo.
+The following adverse events were reported with frequencies ≥ 2% in the Astelin® Nasal Spray treatment group and more frequently than placebo.
 
 | ADVERSE EVENT | Astelin® Nasal Spray n = 216 | Vehicle Placebo n = 210 |
 | --- | --- | --- |

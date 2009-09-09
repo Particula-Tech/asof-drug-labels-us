@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020114"
+  ],
   "inn": "azelastine",
-  "labeler": "MedPointe Pharmaceuticals",
+  "labeler": "Meda Pharmaceuticals Inc.",
   "package_ndcs": [
+    "0037-0241-05",
     "0037-0241-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "azelastine hydrochloride",
+      "name": "Astelin"
+    }
+  ],
   "setid": "46b2ddff-d40a-43ac-b027-4fac9fc2f4b9",
   "source": "dailymed"
 }
