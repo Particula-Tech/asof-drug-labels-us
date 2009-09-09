@@ -1,18 +1,29 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021922",
+    "NDA021992"
+  ],
   "inn": "desvenlafaxine",
-  "labeler": "Wyeth Pharmaceuticals Inc.",
+  "labeler": "Wyeth Pharmaceuticals Company",
   "package_ndcs": [
     "0008-1211-01",
     "0008-1211-14",
     "0008-1211-30",
+    "0008-1211-40",
     "0008-1211-50",
+    "0008-1211-80",
     "0008-1222-01",
     "0008-1222-14",
     "0008-1222-30",
     "0008-1222-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desvenlafaxine succinate",
+      "name": "Pristiq"
+    }
+  ],
   "setid": "0f43610c-f290-46ea-d186-4f998ed99fce",
   "source": "dailymed"
 }

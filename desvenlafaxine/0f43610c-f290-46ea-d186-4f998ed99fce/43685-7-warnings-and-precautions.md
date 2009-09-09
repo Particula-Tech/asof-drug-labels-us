@@ -39,11 +39,11 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.9) and Dosage and Administration (2.3)] for a description of the risks of discontinuation of Pristiq.
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.9) and Dosage and Administration (2.3) for a description of the risks of discontinuation of PRISTIQ].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for Pristiq should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for PRISTIQ should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ### Screening patients for bipolar disorder
 
@@ -51,31 +51,36 @@ A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled studies) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that Pristiq is not approved for use in treating bipolar depression.
+It should be noted that PRISTIQ is not approved for use in treating bipolar depression.
 
-## 5.2 Serotonin Syndrome
+## 5.2 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur with Pristiq treatment, particularly with concomitant use of other serotonergic drugs (including SSRIs, SNRIs and triptans) and with drugs that impair metabolism of serotonin (including MAOIs).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, and hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, and diarrhea).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including PRISTIQ treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of Pristiq and MAOIs is contraindicated [see Contraindications (4.2)].
+The concomitant use of PRISTIQ with MAOIs intended to treat depression is contraindicated [see Contraindications (4.2)].
 
-If concomitant treatment with Pristiq and an SSRI, another SNRI or a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-The concomitant use of Pristiq with serotonin precursors (such as tryptophan supplements) is not recommended.
+If concomitant treatment of PRISTIQ with a 5‑hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+
+The concomitant use of PRISTIQ with serotonin precursors (such as tryptophan) is not recommended.
+
+Treatment with PRISTIQ and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Elevated Blood Pressure
 
-Patients receiving Pristiq should have regular monitoring of blood pressure since sustained increases in blood pressure were observed in clinical studies.
-Pre-existing hypertension should be controlled before initiating treatment with Pristiq.
+Patients receiving PRISTIQ should have regular monitoring of blood pressure since sustained increases in blood pressure were observed in clinical studies.
+Pre-existing hypertension should be controlled before initiating treatment with PRISTIQ.
 Caution should be exercised in treating patients with pre-existing hypertension or other underlying conditions that might be compromised by increases in blood pressure.
-Cases of elevated blood pressure requiring immediate treatment have been reported with Pristiq.
+Cases of elevated blood pressure requiring immediate treatment have been reported with PRISTIQ.
 
 ### Sustained hypertension
 
 Sustained blood pressure increases could have adverse consequences.
-For patients who experience a sustained increase in blood pressure while receiving Pristiq, either dose reduction or discontinuation should be considered [see Adverse Reactions (6.1)].
-Treatment with Pristiq at all doses from 50 mg/day to 400 mg/day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 2).
-Analyses of patients in Pristiq controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
+For patients who experience a sustained increase in blood pressure while receiving PRISTIQ, either dose reduction or discontinuation should be considered [see Adverse Reactions (6.1)].
+Treatment with PRISTIQ at all doses from 50 mg/day to 400 mg/day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 2).
+Analyses of patients in PRISTIQ controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
 This was seen at all doses with a suggestion of a higher rate at 400 mg/day.
 
 Table 2: Proportion of Patients with Sustained Elevation of Supine Diastolic Blood Pressure
@@ -83,77 +88,77 @@ Table 2: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 | Treatment Group | Proportion of Patients with Sustained Hypertension |
 | --- | --- |
 | Placebo | 0.5% |
-| Pristiq 50 mg/day | 1.3% |
-| Pristiq 100 mg/day | 0.7% |
-| Pristiq 200 mg/day | 1.1% |
-| Pristiq 400 mg/day | 2.3% |
+| PRISTIQ 50 mg/day | 1.3% |
+| PRISTIQ 100 mg/day | 0.7% |
+| PRISTIQ 200 mg/day | 1.1% |
+| PRISTIQ 400 mg/day | 2.3% |
 
 ## 5.4 Abnormal Bleeding
 
-SSRIs and SNRIs, including Pristiq, may increase the risk of bleeding events.
+SSRIs and SNRIs, including PRISTIQ, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of Pristiq and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of PRISTIQ and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
 
 ## 5.5 Narrow-angle Glaucoma
 
-Mydriasis has been reported in association with Pristiq; therefore, patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored.
+Mydriasis has been reported in association with PRISTIQ; therefore, patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored.
 
 ## 5.6 Activation of Mania/Hypomania
 
-During all MDD and VMS (vasomotor symptoms) phase 2 and phase 3 studies, mania was reported for approximately 0.1% of patients treated with Pristiq.
+During all MDD and VMS (vasomotor symptoms) phase 2 and phase 3 studies, mania was reported for approximately 0.1% of patients treated with PRISTIQ.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorder who were treated with other marketed antidepressants.
-As with all antidepressants, Pristiq should be used cautiously in patients with a history or family history of mania or hypomania.
+As with all antidepressants, PRISTIQ should be used cautiously in patients with a history or family history of mania or hypomania.
 
 ## 5.7 Cardiovascular/Cerebrovascular Disease
 
-Caution is advised in administering Pristiq to patients with cardiovascular, cerebrovascular, or lipid metabolism disorders [see Adverse Reactions (6.1)].
-Increases in blood pressure and small increases in heart rate were observed in clinical studies with Pristiq.
-Pristiq has not been evaluated systematically in patients with a recent history of myocardial infarction, unstable heart disease, uncontrolled hypertension, or cerebrovascular disease.
+Caution is advised in administering PRISTIQ to patients with cardiovascular, cerebrovascular, or lipid metabolism disorders [see Adverse Reactions (6.1)].
+Increases in blood pressure and small increases in heart rate were observed in clinical studies with PRISTIQ.
+PRISTIQ has not been evaluated systematically in patients with a recent history of myocardial infarction, unstable heart disease, uncontrolled hypertension, or cerebrovascular disease.
 Patients with these diagnoses, except for cerebrovascular disease, were excluded from clinical studies.
 
 ## 5.8 Serum Cholesterol and Triglyceride Elevation
 
 Dose-related elevations in fasting serum total cholesterol, LDL (low density lipoprotein) cholesterol, and triglycerides were observed in the controlled studies.
-Measurement of serum lipids should be considered during treatment with Pristiq [see Adverse Reactions (6.1)].
+Measurement of serum lipids should be considered during treatment with PRISTIQ [see Adverse Reactions (6.1)].
 
-## 5.9 Discontinuation of Treatment with Pristiq
+## 5.9 Discontinuation of Treatment with PRISTIQ
 
-Discontinuation symptoms have been systematically and prospectively evaluated in patients treated with Pristiq during clinical studies in Major Depressive Disorder.
+Discontinuation symptoms have been systematically and prospectively evaluated in patients treated with PRISTIQ during clinical studies in Major Depressive Disorder.
 Abrupt discontinuation or dose reduction has been associated with the appearance of new symptoms that include dizziness, nausea, headache, irritability, insomnia, diarrhea, anxiety, fatigue, abnormal dreams, and hyperhidrosis.
 In general, discontinuation events occurred more frequently with longer duration of therapy.
 
 During marketing of SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), and SSRIs (Selective Serotonin Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 
-Patients should be monitored for these symptoms when discontinuing treatment with Pristiq.
+Patients should be monitored for these symptoms when discontinuing treatment with PRISTIQ.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose, but at a more gradual rate [see Dosage and Administration (2.4) and Adverse Reactions (6.1)].
 
 ## 5.10 Renal Impairment
 
-In patients with moderate or severe renal impairment or end-stage renal disease (ESRD) the clearance of Pristiq was decreased, thus prolonging the elimination half-life of the drug.
-As a result, there were potentially clinically significant increases in exposures to Pristiq [see Clinical Pharmacology (12.6)].
+In patients with moderate or severe renal impairment or end-stage renal disease (ESRD) the clearance of PRISTIQ was decreased, thus prolonging the elimination half-life of the drug.
+As a result, there were potentially clinically significant increases in exposures to PRISTIQ [see Clinical Pharmacology (12.6)].
 Dosage adjustment (50 mg every other day) is necessary in patients with severe renal impairment or ESRD.
 The doses should not be escalated in patients with moderate or severe renal impairment or ESRD [see Dosage and Administration (2.2)].
 
 ## 5.11 Seizure
 
-Cases of seizure have been reported in pre-marketing clinical studies with Pristiq.
-Pristiq has not been systematically evaluated in patients with a seizure disorder.
+Cases of seizure have been reported in pre-marketing clinical studies with PRISTIQ.
+PRISTIQ has not been systematically evaluated in patients with a seizure disorder.
 Patients with a history of seizures were excluded from pre-marketing clinical studies.
-Pristiq should be prescribed with caution in patients with a seizure disorder.
+PRISTIQ should be prescribed with caution in patients with a seizure disorder.
 
 ## 5.12 Hyponatremia
 
-Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including Pristiq.
+Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including PRISTIQ.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted can be at greater risk [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.6)].
-Discontinuation of Pristiq should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Discontinuation of PRISTIQ should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
@@ -161,10 +166,10 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 ## 5.13 Co-administration of Drugs Containing Desvenlafaxine and Venlafaxine
 
 Desvenlafaxine is the major active metabolite of venlafaxine.
-Products containing desvenlafaxine and products containing venlafaxine should not be used concomitantly with Pristiq.
+Products containing desvenlafaxine and products containing venlafaxine should not be used concomitantly with PRISTIQ.
 
 ## 5.14 Interstitial Lung Disease and Eosinophilic Pneumonia
 
-Interstitial lung disease and eosinophilic pneumonia associated with venlafaxine (the parent drug of Pristiq) therapy have been rarely reported.
-The possibility of these adverse events should be considered in patients treated with Pristiq who present with progressive dyspnea, cough, or chest discomfort.
-Such patients should undergo a prompt medical evaluation, and discontinuation of Pristiq should be considered.
+Interstitial lung disease and eosinophilic pneumonia associated with venlafaxine (the parent drug of PRISTIQ) therapy have been rarely reported.
+The possibility of these adverse events should be considered in patients treated with PRISTIQ who present with progressive dyspnea, cough, or chest discomfort.
+Such patients should undergo a prompt medical evaluation, and discontinuation of PRISTIQ should be considered.

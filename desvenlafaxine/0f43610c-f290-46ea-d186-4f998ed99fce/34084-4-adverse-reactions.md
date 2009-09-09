@@ -12,28 +12,28 @@ The following adverse reactions are discussed in greater detail in other section
 
 ## 6.1 Clinical Studies Experience
 
-The most commonly observed adverse reactions in Pristiq-treated MDD patients in short-term fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
+The most commonly observed adverse reactions in PRISTIQ treated MDD patients in short-term fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
 
 ### Adverse reactions reported as reasons for discontinuation of treatment
 
-Combined across 8-week placebo-controlled pre-marketing studies for major depressive disorder, 12% of the 1,834 patients who received Pristiq (50-400 mg) discontinued treatment due to an adverse experience, compared with 3% of the 1,116 placebo-treated patients in those studies.
-At the recommended dose of 50 mg, the discontinuation rate due to an adverse experience for Pristiq (4.1%) was similar to the rate for placebo (3.8%).
-For the 100 mg dose of Pristiq the discontinuation rate due to an adverse experience was 8.7%.
+Combined across 8-week placebo-controlled pre-marketing studies for major depressive disorder, 12% of the 1,834 patients who received PRISTIQ (50-400 mg) discontinued treatment due to an adverse experience, compared with 3% of the 1,116 placebo-treated patients in those studies.
+At the recommended dose of 50 mg, the discontinuation rate due to an adverse experience for PRISTIQ (4.1%) was similar to the rate for placebo (3.8%).
+For the 100 mg dose of PRISTIQ the discontinuation rate due to an adverse experience was 8.7%.
 
-The most common adverse reactions leading to discontinuation in at least 2% of the Pristiq-treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each); in the long-term study, up to 9 months, the most common was vomiting (2%).
+The most common adverse reactions leading to discontinuation in at least 2% of the PRISTIQ treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each); in the long-term study, up to 9 months, the most common was vomiting (2%).
 
 ### Patient exposure
 
-Pristiq was evaluated for safety in 3,292 patients diagnosed with major depressive disorder who participated in multiple-dose pre-marketing studies, representing 1,289 patient-years of exposure.
-Among these 3,292 Pristiq-treated patients, 1,834 patients were exposed to Pristiq in 8-week, placebo-controlled studies at doses ranging from 50 to 400 mg/day.
-Out of the 1,834 patients, 687 Pristiq-treated patients continued into a 10-month open-label study.
-Of the total 3,292 patients exposed to at least one dose of Pristiq, 1,070 were exposed to Pristiq for 6 months, representing 842 patient-years of exposure, and 274 were exposed for one year, representing 241 patient-years of exposure.
+PRISTIQ was evaluated for safety in 3,292 patients diagnosed with major depressive disorder who participated in multiple-dose pre-marketing studies, representing 1,289 patient-years of exposure.
+Among these 3,292 PRISTIQ treated patients, 1,834 patients were exposed to PRISTIQ in 8-week, placebo-controlled studies at doses ranging from 50 to 400 mg/day.
+Out of the 1,834 patients, 687 PRISTIQ treated patients continued into a 10-month open-label study.
+Of the total 3,292 patients exposed to at least one dose of PRISTIQ, 1,070 were exposed to PRISTIQ for 6 months, representing 842 patient-years of exposure, and 274 were exposed for one year, representing 241 patient-years of exposure.
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 ### Common adverse reactions in placebo-controlled MDD studies
 
-Table 3 shows the incidence of common adverse reactions that occurred in ≥ 2% of Pristiq-treated MDD patients at any dose in the 8-week, placebo-controlled, fixed dose, pre-marketing clinical studies.
+Table 3 shows the incidence of common adverse reactions that occurred in ≥ 2% of PRISTIQ treated MDD patients at any dose in the 8-week, placebo-controlled, fixed dose, pre-marketing clinical studies.
 In general, the adverse reactions were most frequent in the first week of treatment.
 
 Table 3: Common Adverse Reactions: Percentage of Patients (≥ 2% in any Fixed-Dose Group) in MDD 8‑Week Placebo-Controlled Studiesa
@@ -41,7 +41,7 @@ Table 3: Common Adverse Reactions: Percentage of Patients (≥ 2% in any Fixed-D
 | System Organ Class Preferred Term | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | --- | --- | --- | --- | --- | --- |
 |  | Percentage of Patients Reporting Reaction |  |  |  |  |
-|  |  | Pristiq |  |  |  |
+|  |  | PRISTIQ |  |  |  |
 | Cardiac disorders |  |  |  |  |  |
 | Palpitations | 2 | 1 | 3 | 2 | 3 |
 | Tachycardia | 1 | 1 | <1 | 1 | 2 |
@@ -87,17 +87,17 @@ Table 3: Common Adverse Reactions: Percentage of Patients (≥ 2% in any Fixed-D
 | Dysgeusia | 1 | 1 | 1 | 1 | 2 |
 | Vascular disorders |  |  |  |  |  |
 | Hot flush | <1 | 1 | 1 | 2 | 2 |
-| a: Percentage based on the number of patients (placebo, n = 636; Pristiq 50 mg, n = 317; Pristiq 100 mg, n = 424; Pristiq 200 mg, n = 307; Pristiq 400 mg, n = 317). |  |  |  |  |  |
+| a: Percentage based on the number of patients (placebo, n = 636; PRISTIQ 50 mg, n = 317; PRISTIQ 100 mg, n = 424; PRISTIQ 200 mg, n = 307; PRISTIQ 400 mg, n = 317). |  |  |  |  |  |
 
 ### Sexual function adverse reactions
 
-Table 4 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of Pristiq-treated MDD patients in any fixed-dose group (8-week, placebo-controlled, fixed and flexible-dose, pre-marketing clinical studies).
+Table 4 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of PRISTIQ treated MDD patients in any fixed-dose group (8-week, placebo-controlled, fixed and flexible-dose, pre-marketing clinical studies).
 
-Table 4: Sexual Function Disorders: Adverse Reactions (≥ 2% in Mena or Womenb in any Pristiq Group) During the On-Therapy Period
+Table 4: Sexual Function Disorders: Adverse Reactions (≥ 2% in Mena or Womenb in any PRISTIQ Group) During the On-Therapy Period
 
 | System Organ Class Preferred Term | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Pristiq |  |  |  |
+|  |  | PRISTIQ |  |  |  |
 | Men only |  |  |  |  |  |
 | Anorgasmia | 0 | 0 | 3 | 5 | 8 |
 | Libido decreased | 1 | 4 | 5 | 6 | 3 |
@@ -109,11 +109,11 @@ Table 4: Sexual Function Disorders: Adverse Reactions (≥ 2% in Mena or Womenb 
 | Sexual dysfunction | 0 | 1 | 0 | 0 | 2 |
 | Women only |  |  |  |  |  |
 | Anorgasmia | 0 | 1 | 1 | 0 | 3 |
-| a: Percentage based on the number of men (placebo, n = 239; Pristiq 50 mg, n = 108; Pristiq 100 mg, n = 157; Pristiq 200 mg, n = 131; Pristiq 400 mg, n = 154). b: Percentage based on the number of women (placebo, n = 397; Pristiq 50 mg, n = 209; Pristiq 100 mg, n = 267; Pristiq 200 mg, n = 176; Pristiq 400 mg, n = 163). |  |  |  |  |  |
+| a: Percentage based on the number of men (placebo, n = 239; PRISTIQ 50 mg, n = 108; PRISTIQ 100 mg, n = 157; PRISTIQ 200 mg, n = 131; PRISTIQ 400 mg, n = 154). b: Percentage based on the number of women (placebo, n = 397; PRISTIQ 50 mg, n = 209; PRISTIQ 100 mg, n = 267; PRISTIQ 200 mg, n = 176; PRISTIQ 400 mg, n = 163). |  |  |  |  |  |
 
 ### Other adverse reactions observed in pre-marketing clinical studies
 
-Other infrequent adverse reactions, not described elsewhere, occurring at an incidence of < 2% in MDD patients treated with Pristiq were:
+Other infrequent adverse reactions, not described elsewhere, occurring at an incidence of < 2% in MDD patients treated with PRISTIQ were:
 
 Immune system disorders – Hypersensitivity.
 
@@ -123,12 +123,12 @@ Nervous system disorders – Convulsion, syncope, extrapyramidal disorder.
 
 Psychiatric disorders – Depersonalization, hypomania.
 
-Respiratory, thoracic and mediastinal disorders– Epistaxis.
+Respiratory, thoracic and mediastinal disorders – Epistaxis.
 
 Vascular disorders – Orthostatic hypotension.
 
 In clinical studies, there were uncommon reports of ischemic cardiac adverse events, including myocardial ischemia, myocardial infarction, and coronary occlusion requiring revascularization; these patients had multiple underlying cardiac risk factors.
-More patients experienced these events during Pristiq treatment as compared to placebo [see Warnings and Precautions (5.7)].
+More patients experienced these events during PRISTIQ treatment as compared to placebo [see Warnings and Precautions (5.7)].
 
 ### Discontinuation events
 
@@ -137,7 +137,7 @@ In general, discontinuation events occurred more frequently with longer duration
 
 ### Laboratory, ECG and vital sign changes observed in MDD clinical studies
 
-The following changes were observed in placebo-controlled, short-term, pre-marketing MDD studies with Pristiq.
+The following changes were observed in placebo-controlled, short-term, pre-marketing MDD studies with PRISTIQ.
 
 #### Lipids
 
@@ -150,7 +150,7 @@ Table 5: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinica
 
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Pristiq |  |  |  |
+|  |  | PRISTIQ |  |  |  |
 | Total Cholesterol *(Increase of ≥ 50 mg/dl and an absolute value of ≥ 261 mg/dl) | 2 | 3 | 4 | 4 | 10 |
 | LDL Cholesterol *(Increase ≥ 50 mg/dl and an absolute value of ≥ 190 mg/dl) | 0 | 1 | 0 | 1 | 2 |
 | Triglycerides, fasting *(Fasting: ≥ 327 mg/dl) | 3 | 2 | 1 | 4 | 6 |
@@ -164,25 +164,25 @@ Table 6: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical S
 
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Pristiq |  |  |  |
+|  |  | PRISTIQ |  |  |  |
 | Proteinuria | 4 | 6 | 8 | 5 | 7 |
 
 #### ECG changes
 
-Electrocardiograms were obtained from 1,492 Pristiq-treated patients with major depressive disorder and 984 placebo-treated patients in clinical studies lasting up to 8 weeks.
-No clinically relevant differences were observed between Pristiq-treated and placebo-treated patients for QT, QTc, PR, and QRS intervals.
+Electrocardiograms were obtained from 1,492 PRISTIQ treated patients with major depressive disorder and 984 placebo-treated patients in clinical studies lasting up to 8 weeks.
+No clinically relevant differences were observed between PRISTIQ treated and placebo-treated patients for QT, QTc, PR, and QRS intervals.
 In a thorough QTc study with prospectively determined criteria, desvenlafaxine did not cause QT prolongation.
 No difference was observed between placebo and desvenlafaxine treatments for the QRS interval.
 
 #### Vital sign changes
 
-Table 7 summarizes the changes that were observed in placebo-controlled, short-term, pre-marketing studies with Pristiq in patients with MDD (doses 50 to 400 mg).
+Table 7 summarizes the changes that were observed in placebo-controlled, short-term, pre-marketing studies with PRISTIQ in patients with MDD (doses 50 to 400 mg).
 
 Table 7: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fixed-dose Controlled Studies
 
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Pristiq |  |  |  |
+|  |  | PRISTIQ |  |  |  |
 | Blood pressure |  |  |  |  |  |
 | Supine systolic bp (mm Hg) | -1.4 | 1.2 | 2.0 | 2.5 | 2.1 |
 | Supine diastolic bp (mm Hg) | -0.6 | 0.7 | 0.8 | 1.8 | 2.3 |
@@ -190,8 +190,8 @@ Table 7: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fix
 | Supine pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
 | Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
-At the final on-therapy assessment in the 6-month, double-blind, placebo-controlled phase of a long-term study in patients who had responded to Pristiq during the initial 12-week, open-label phase, there was no statistical difference in mean weight change between Pristiq- and placebo-treatedpatients.
+At the final on-therapy assessment in the 6-month, double-blind, placebo-controlled phase of a long-term study in patients who had responded to PRISTIQ during the initial 12-week, open-label phase, there was no statistical difference in mean weight change between PRISTIQ and placebo-treated patients.
 
 #### Orthostatic hypotension
 
-In the short-term, placebo-controlled clinical studies with doses of 50-400 mg, systolic orthostatic hypotension (decrease≥ 30 mm Hg from supine to standing position) occurred more frequently in patients ≥ 65 years of age receiving Pristiq (8.0%, 7/87) versus placebo (2.5%, 1/40), compared to patients < 65 years of age receiving Pristiq (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
+In the short-term, placebo-controlled clinical studies with doses of 50-400 mg, systolic orthostatic hypotension (decrease ≥ 30 mm Hg from supine to standing position) occurred more frequently in patients ≥ 65 years of age receiving PRISTIQ (8.0%, 7/87) versus placebo (2.5%, 1/40), compared to patients < 65 years of age receiving PRISTIQ (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).

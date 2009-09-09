@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Pristiq™ (desvenlafaxine) Extended-Release Tablets are available as follows:
+PRISTIQ® (desvenlafaxine) Extended-Release Tablets are available as follows:
 
-50 mg, light pink, square pyramid tablet debossed with “W” (over)“50” on the flat side
+50 mg, light pink, square pyramid tablet debossed with “W” (over) “50” on the flat side
 
 - NDC 0008-1211-14, bottle of 14 tablets in unit-of-use package
 - NDC 0008-1211-30, bottle of 30 tablets in unit-of-use package

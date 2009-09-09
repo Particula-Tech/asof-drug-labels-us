@@ -8,7 +8,7 @@ The clinical efficacy of desvenlafaxine succinate is thought to be related to th
 ## 12.2 Pharmacodynamics
 
 Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H1-histaminergic, or α1-adrenergic receptors in vitro.
-Pristiq also lacked monoamine oxidase (MAO) inhibitory activity.
+PRISTIQ also lacked monoamine oxidase (MAO) inhibitory activity.
 
 ## 12.3 Pharmacokinetics
 
@@ -19,11 +19,11 @@ At steady-state, multiple-dose accumulation of desvenlafaxine is linear and pred
 
 ## 12.4 Absorption and Distribution
 
-The absolute oral bioavailability of Pristiq after oral administration is about 80%.
+The absolute oral bioavailability of PRISTIQ after oral administration is about 80%.
 Mean time to peak plasma concentrations (Tmax) is about 7.5 hours after oral administration.
 
-A food-effect study involving administration of Pristiq to healthy subjects under fasting and fed conditions (high-fat meal) indicated that the Cmax was increased about 16% in the fed state, while the AUCs were similar.
-This difference is not clinically significant; therefore, Pristiq can be taken without regard to meals [see Dosage and Administration (2.1)].
+A food-effect study involving administration of PRISTIQ to healthy subjects under fasting and fed conditions (high-fat meal) indicated that the Cmax was increased about 16% in the fed state, while the AUCs were similar.
+This difference is not clinically significant; therefore, PRISTIQ can be taken without regard to meals [see Dosage and Administration (2.1)].
 
 The plasma protein binding of desvenlafaxine is low (30%) and is independent of drug concentration.
 The desvenlafaxine volume of distribution at steady-state following intravenous administration is 3.4 L/kg, indicating distribution into nonvascular compartments.
@@ -50,7 +50,7 @@ No adjustment of dosage on the basis of gender is needed.
 
 ### Race
 
-Pharmacokinetic analysis showed that race (White, n = 466; Black, n = 97; Hispanic, n = 39; Other, n = 33) had no apparent effect on the pharmacokinetics of Pristiq.
+Pharmacokinetic analysis showed that race (White, n = 466; Black, n = 97; Hispanic, n = 39; Other, n = 33) had no apparent effect on the pharmacokinetics of PRISTIQ.
 No adjustment of dosage on the basis of race is needed.
 
 ### Hepatic insufficiency

@@ -14,8 +14,8 @@ The cause of these deaths is not known.
 The no-effect dose for rat pup mortality was 10 times a human dose of 100 mg/day (on a mg/m2 basis).
 Post-weaning growth and reproductive performance of the progeny were not affected by maternal treatment with desvenlafaxine at a dose 29 times a human dose of 100 mg/day (on a mg/m2 basis).
 
-There are no adequate and well-controlled studies of Pristiq in pregnant women.
-Therefore, Pristiq should be used during pregnancy only if the potential benefits justify the potential risks.
+There are no adequate and well-controlled studies of PRISTIQ in pregnant women.
+Therefore, PRISTIQ should be used during pregnancy only if the potential benefits justify the potential risks.
 
 ### Non-teratogenic effects
 
@@ -24,39 +24,39 @@ Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
-When treating a pregnant woman with Pristiq during the third trimester, the physician should carefully consider the potential risks and benefits of treatment [see Dosage and Administration (2.2)].
+When treating a pregnant woman with PRISTIQ during the third trimester, the physician should carefully consider the potential risks and benefits of treatment [see Dosage and Administration (2.2)].
 
 ## 8.2 Labor and Delivery
 
-The effect of Pristiq on labor and delivery in humans is unknown.
-Pristiq should be used during labor and delivery only if the potential benefits justify the potential risks.
+The effect of PRISTIQ on labor and delivery in humans is unknown.
+PRISTIQ should be used during labor and delivery only if the potential benefits justify the potential risks.
 
 ## 8.3 Nursing Mothers
 
 Desvenlafaxine (O-desmethylvenlafaxine) is excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from Pristiq, a decision should be made whether or not to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-Only administer Pristiq to breastfeeding women if the expected benefits outweigh any possible risk.
+Because of the potential for serious adverse reactions in nursing infants from PRISTIQ, a decision should be made whether or not to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Only administer PRISTIQ to breastfeeding women if the expected benefits outweigh any possible risk.
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established [see Box Warning and Warnings and Precautions (5.1)].
-Anyone considering the use of Pristiq in a child or adolescent must balance the potential risks with the clinical need.
+Anyone considering the use of PRISTIQ in a child or adolescent must balance the potential risks with the clinical need.
 
 ## 8.5 Geriatric Use
 
-Of the 3,292 patients in clinical studies with Pristiq, 5% were 65 years of age or older.
-No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term, placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients ≥ 65 years of age compared to patients < 65 years of age treated with Pristiq [see Adverse Reactions (6)].
+Of the 3,292 patients in clinical studies with PRISTIQ, 5% were 65 years of age or older.
+No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term, placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients ≥ 65 years of age compared to patients < 65 years of age treated with PRISTIQ [see Adverse Reactions (6)].
 For elderly patients, possible reduced renal clearance of desvenlafaxine should be considered when determining dose [see Dosage and Administration (2.2) and Clinical Pharmacology (12.6)].
-If Pristiq is poorly tolerated, every other day dosing can be considered.
+If PRISTIQ is poorly tolerated, every other day dosing can be considered.
 
-SSRIs and SNRIs, including Pristiq, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.12)].
+SSRIs and SNRIs, including PRISTIQ, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.12)].
 
 Greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-In subjects with renal impairment the clearance of Pristiq was decreased.
-In subjects with severe renal impairment (24-hr CrCl < 30 mL/min) and end-stage renal disease, elimination half-lives were significantly prolonged, increasing exposures to Pristiq; therefore, dosage adjustment is recommended in these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.6)].
+In subjects with renal impairment the clearance of PRISTIQ was decreased.
+In subjects with severe renal impairment (24-hr CrCl < 30 mL/min) and end-stage renal disease, elimination half-lives were significantly prolonged, increasing exposures to PRISTIQ; therefore, dosage adjustment is recommended in these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.6)].
 
 ## 8.7 Hepatic Impairment
 
