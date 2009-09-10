@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021642"
+  ],
+  "inn": "cyanocobalamin",
+  "labeler": "Par Pharmaceutical , Inc",
+  "package_ndcs": [
+    "49884-270-14"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "cyanocobalamin",
+      "name": "Nascobal"
+    }
+  ],
+  "setid": "0a6178f6-48af-4a1d-9b35-c3c2663d0b10",
+  "source": "dailymed"
+}
