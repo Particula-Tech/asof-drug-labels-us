@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040847"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-648-01",
+    "55111-648-05",
+    "55111-649-01",
+    "55111-649-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "glycopyrrolate",
+      "name": "Glycopyrrolate"
+    }
+  ],
+  "setid": "725529e8-9c4b-4108-690a-e4f391439736",
+  "source": "dailymed"
+}
