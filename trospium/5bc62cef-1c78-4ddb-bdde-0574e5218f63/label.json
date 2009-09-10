@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022103"
+  ],
+  "inn": "trospium",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-9350-07",
+    "0023-9350-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "trospium chloride",
+      "name": "SANCTURA XR"
+    }
+  ],
+  "setid": "5bc62cef-1c78-4ddb-bdde-0574e5218f63",
+  "source": "dailymed"
+}
