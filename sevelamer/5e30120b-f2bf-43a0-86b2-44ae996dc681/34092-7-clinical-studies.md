@@ -20,8 +20,7 @@ Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 |  | Renagel® (N=81) | Active-Control (N=83) |
 | --- | --- | --- |
 | Baseline at End of Washout | 8.4 | 8.0 |
-| Change from Baseline at Endpoint (95% Confidence Interval) | -2.0* (-2.5, -1.5) | -2.1* (-2.6, -1.7) |
-| *p<0.0001, within treatment group comparison |  |  |
+| Change from Baseline at Endpoint(95% Confidence Interval) | -2.0p<0.0001, within treatment group comparison(-2.5, -1.5) | -2.1(-2.6, -1.7) |
 
 Figure 2 shows that the proportion of patients achieving a given level of serum phosphorus lowering is similar in the two treatment groups.
 Median decrease in phosphorus was 2 mg/dL on each treatment.
@@ -43,8 +42,8 @@ Mean Serum Phosphorus (mg/dL) and Ion Product at Baseline and Change from Baseli
 
 |  | Renagel® (N=94) | Active-Control (N=98) |
 | --- | --- | --- |
-| Phosphorus Baseline Change from Baseline at Endpoint | 7.5 -2.1 | 7.3 -1.8 |
-| Ca x Phosphorus Ion Product Baseline Change from Baseline at Endpoint | 70.5 -19.4 | 68.4 -14.2 |
+| PhosphorusBaselineChange from Baseline at Endpoint | 7.5-2.1 | 7.3-1.8 |
+| Ca x Phosphorus Ion ProductBaselineChange from Baseline at Endpoint | 70.5 -19.4 | 68.4 -14.2 |
 
 Sixty-one percent of Renagel patients and 73% of the control patients completed the full 52 weeks of treatment.
 
