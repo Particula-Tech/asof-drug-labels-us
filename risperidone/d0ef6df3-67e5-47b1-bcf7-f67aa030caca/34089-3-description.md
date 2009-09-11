@@ -8,5 +8,5 @@ The structural formula is:
 Risperidone is a white to slightly beige powder.
 It is practically insoluble in water, freely soluble in methylene chloride, and soluble in methanol and 0.1 N HCI.
 
-Risperidone Orally Disintegrating Tablets are available in 0.25 mg, 3 mg and 4 mg strengths and are white in color.
+Risperidone Orally Disintegrating Tablets are available in 0.25 mg, 0.5 mg, 2 mg, 3 mg and 4 mg strengths and are white in color.
 Risperidone Orally Disintegrating Tablets contain the following inactive ingredients: aspartame, croscarmellose sodium, crospovidone, magnesium stearate, malodextrin, mannitol, methacrylic acid polymer with divinylbenzene, modified food starch, silicon dioxide, sorbital, talc, tartaric acid, and natural grapefruit flavor.

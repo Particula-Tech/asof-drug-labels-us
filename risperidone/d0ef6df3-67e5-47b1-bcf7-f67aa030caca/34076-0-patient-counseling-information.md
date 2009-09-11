@@ -29,7 +29,7 @@ Patients should be advised to avoid alcohol while taking risperidone [see DRUG I
 ## 17.7 Phenylketonurics
 
 Phenylalanine is a component of aspartame.
-Each 4 mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanine; each 3 mg risperidone orally disintegrating tablet contains 5.04 mg phenylalanine; and each 0.25 mg risperidone orally disintegrating tablet contains 0.42 mg phenylalanine.
+Each 4 mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanine; each 3 mg risperidone orally disintegrating tablet contains 5.04 mg phenylalanine; each 2 mg risperidone orally disintegrating tablet contains 3.36 mg phehylalanine, each 0.5 mg risperidone orally disintegrating tablet contains 0.84 mg phenylalanine and each 0.25 mg risperidone orally disintegrating tablet contains 0.42 mg phenylalanine.
 
 Rx only
 
