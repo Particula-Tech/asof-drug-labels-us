@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019796"
+  ],
+  "inn": "mometasone",
+  "labeler": "Schering Corporation",
+  "package_ndcs": [
+    "0085-0854-01",
+    "0085-0854-02"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "mometasone furoate",
+      "name": "ELOCON"
+    }
+  ],
+  "setid": "64bd8ed7-1cc2-4cdd-94bc-9f646a88a6f0",
+  "source": "dailymed"
+}
