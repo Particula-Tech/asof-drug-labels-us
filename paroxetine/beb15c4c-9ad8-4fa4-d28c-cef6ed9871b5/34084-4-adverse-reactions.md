@@ -159,9 +159,7 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PA
 | Rhinitis | 4% | 1% |
 | Cough Increased | 2% | 1% |
 | Bronchitis | 1% | 0% |
-
 | Skin and Appendages |  |  |
-| --- | --- | --- |
 | Sweating | 6% | 2% |
 | Photosensitivity | 2% | 0% |
 | Special Senses |  |  |
@@ -378,7 +376,7 @@ These events are: Dysmenorrhea, flatulence, gastroenteritis, hypertonia, infecti
 9 Mostly anorgasmia or difficulty achieving orgasm.
 
 Table 6.
-Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PAXIL CR in a Pool of 3 Premenstrual Dysphoric Disorder Studies with Continuous Dosing or in 1 Premenstrual Dysphoric Disorder Study with Luteal Phase Dosing1,2,3
+Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With PAXIL CR in a Pool of 3 Premenstrual Dysphoric Disorder Studies With Continuous Dosing or in 1 Premenstrual Dysphoric Disorder Study With Luteal Phase Dosing1,2,3
 
 | Body System/Adverse Event | % Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -596,6 +594,6 @@ Frequent were dysmenorrhea*; infrequent were albuminuria, amenorrhea*, breast pa
 
 ## Postmarketing Reports
 
-Voluntary reports of adverse events in patients taking immediate-release paroxetine hydrochloride that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea, neuroleptic malignant syndrome–like events, serotonin syndrome; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch-Schönlein purpura).
+Voluntary reports of adverse events in patients taking immediate-release paroxetine hydrochloride that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch-Schönlein purpura).
 There has been a case report of an elevated phenytoin level after 4 weeks of immediate-release paroxetine and phenytoin coadministration.
 There has been a case report of severe hypotension when immediate-release paroxetine was added to chronic metoprolol treatment.

@@ -39,7 +39,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment With PAXIL CR), for a description of the risks of discontinuation of PAXIL CR.
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment With PAXIL CR, for a description of the risks of discontinuation of PAXIL CR).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -62,16 +62,20 @@ While there are no human data showing such an interaction with paroxetine hydroc
 Therefore, it is recommended that PAXIL CR not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible non-selective MAOI), or within 14 days of discontinuing treatment with an MAOI (see CONTRAINDICATIONS).
 At least 2 weeks should be allowed after stopping PAXIL CR before starting an MAOI.
 
-## Serotonin Syndrome
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur with SNRIs and SSRIs, including PAXIL CR, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including treatment with PAXIL CR, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of PAXIL CR with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS—Potential for Interaction With Monoamine Oxidase Inhibitors).
+The concomitant use of PAXIL CR with MAOIs intended to treat depression is contraindicated.
 
-If concomitant treatment with PAXIL CR with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS—Drug Interactions).
+If concomitant treatment of PAXIL CR with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
-The concomitant use of PAXIL CR with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS—Drug Interactions).
+The concomitant use of PAXIL CR with serotonin precursors (such as tryptophan) is not recommended.
+
+Treatment with PAXIL CR and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Potential Interaction With Thioridazine
 
@@ -85,28 +89,34 @@ Therefore, it is recommended that paroxetine not be used in combination with thi
 
 ### Teratogenic Effects
 
-Epidemiological studies have shown that infants born to women who had first trimester paroxetine exposure had an increased risk of cardiovascular malformations, primarily ventricular and atrial septal defects (VSDs and ASDs).
-In general, septal defects range from those that are symptomatic and may require surgery to those that are asymptomatic and may resolve spontaneously.
+Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
+The findings from these studies are summarized below:
+
+- A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
+  No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
+  The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
+  Septal defects range in severity from those that resolve spontaneously to those which require surgery.
+
+- A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
+  This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
+  Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
+  This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
+- Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
+  In one study the OR was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the OR was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
+
+Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
+A meta-analysis of epidemiological data over a 16-year period (1992 to 2008) on first trimester paroxetine use in pregnancy and congenital malformations included the above-noted studies in addition to others (n = 17 studies that included overall malformations and n = 14 studies that included cardiovascular malformations; n = 20 distinct studies).
+While subject to limitations, this meta-analysis suggested an increased occurrence of cardiovascular malformations (prevalence odds ratio [POR] 1.5; 95% confidence interval 1.2 to 1.9) and overall malformations (POR 1.2; 95% confidence interval 1.1 to 1.4) with paroxetine use during the first trimester.
+It was not possible in this meta-analysis to determine the extent to which the observed prevalence of cardiovascular malformations might have contributed to that of overall malformations, nor was it possible to determine whether any specific types of cardiovascular malformations might have contributed to the observed prevalence of all cardiovascular malformations.
+
 If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
-Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuation of Treatment with PAXIL CR).
+Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuation of Treatment With PAXIL CR).
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
-
-A study based on Swedish national registry data evaluated infants of 6,896 women exposed to antidepressants in early pregnancy (5,123 women exposed to SSRIs; including 815 for paroxetine).
-Infants exposed to paroxetine in early pregnancy had an increased risk of cardiovascular malformations (primarily VSDs and ASDs) compared to the entire registry population (OR 1.8; 95% confidence interval 1.1-2.8).
-The rate of cardiovascular malformations following early pregnancy paroxetine exposure was 2% vs. 1% in the entire registry population.
-Among the same paroxetine exposed infants, an examination of the data showed no increase in the overall risk for congenital malformations.
-
-A separate retrospective cohort study using US United Healthcare data evaluated 5,956 infants of mothers dispensed paroxetine or other antidepressants during the first trimester (n = 815 for paroxetine).
-This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine compared to other antidepressants (OR 1.5; 95% confidence interval 0.8-2.9).
-The prevalence of cardiovascular malformations following first trimester dispensing was 1.5% for paroxetine vs. 1% for other antidepressants.
-Nine out of 12 infants with cardiovascular malformations whose mothers were dispensed paroxetine in the first trimester had VSDs.
-This study also suggested an increased risk of overall major congenital malformations (inclusive of the cardiovascular defects) for paroxetine compared to other antidepressants (OR 1.8; 95% confidence interval 1.2-2.8).
-The prevalence of all congenital malformations following first trimester exposure was 4% for paroxetine vs. 2% for other antidepressants.
 
 ### Animal Findings
 
 Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis.
-These doses are approximately 8 (rat) and 2 (rabbit) times the maximum recommended human dose(MRHD) on an mg/m2 basis.
+These doses are approximately 8 (rat) and 2 (rabbit) times the maximum recommended human dose (MRHD) on an mg/m2 basis.
 These studies have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in pup deaths during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation.
 This effect occurred at a dose of 1 mg/kg/day or approximately one-sixth of the MRHD on an mg/m2 basis.
