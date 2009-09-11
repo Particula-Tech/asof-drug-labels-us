@@ -1,7 +1,10 @@
 For Dermatologic Use Only Not for Ophthalmic Use
 
-Schering Corporation Kenilworth, NJ 07033 USA
+PRODUCT INFORMATION
 
 Rev.
-11/02 18724235T Copyright © 1987, 2003, Schering Corporation.
+9/08 18724243T
+
+Copyright © 1987, 2008, Schering Corporation.
 All rights reserved.
+The trademarks depicted in this piece are owned by their respective companies.
