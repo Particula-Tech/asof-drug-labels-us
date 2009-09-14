@@ -82,7 +82,7 @@ KwikPenTM
 
 25% insulin lispro injection (rDNA origin)
 
-disposable insulin delivery device
+prefilled insulin delivery device
 
 HP-8797
 
@@ -102,8 +102,6 @@ For subcutaneous use only.
 
 5 x 3 mL Prefilled Pens
 
-New Disposable Prefilled Pen
-
 Read User Manual for instructions
 
 PACKAGE CARTON – HUMALOG Mix75/25 KwikPen 3 mL 1ct – sample
@@ -116,7 +114,7 @@ KwikPenTM
 
 25%% insulin lispro injection (rDNA origin)
 
-disposable insulin delivery device
+prefilled insulin delivery device
 
 HP-8797-001
 
@@ -139,8 +137,6 @@ insulin pen needles
 For subcutaneous use only.
 
 1 x 3 mL Prefilled Pen
-
-New Disposable Prefilled Pen
 
 Read User Manual for instructions
 

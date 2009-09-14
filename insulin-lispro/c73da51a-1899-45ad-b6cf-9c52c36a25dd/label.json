@@ -17,17 +17,7 @@
     {
       "form": "INJECTION, SUSPENSION",
       "generic": "insulin lispro",
-      "name": "Humalog Mix75/25"
-    },
-    {
-      "form": "INJECTION, SUSPENSION",
-      "generic": "insulin lispro",
-      "name": "Humalog Mix75/25 KwikPen"
-    },
-    {
-      "form": "INJECTION, SUSPENSION",
-      "generic": "insulin lispro",
-      "name": "Humalog Mix75/25 Pen"
+      "name": "Humalog"
     }
   ],
   "setid": "c73da51a-1899-45ad-b6cf-9c52c36a25dd",
