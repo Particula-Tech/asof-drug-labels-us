@@ -14,9 +14,9 @@ VL-7512
 
 100 units per mL
 
-Humalog
+Humalog®
 
-Mix50/50
+Mix50/50TM
 
 50% insulin lispro
 
@@ -46,9 +46,9 @@ VL-7512
 
 100 units per mL
 
-Humalog
+Humalog®
 
-Mix50/50
+Mix50/50TM
 
 50% insulin lispro
 
@@ -74,15 +74,15 @@ PACKAGE CARTON – HUMALOG Mix50/50 3 mL KwikPen 5ct
 
 NDC 0002-8798-59
 
-Humalog Mix50/50
+Humalog® Mix50/50 TM
 
-KwikPen
+KwikPenTM
 
 50% insulin lispro protamine suspension
 
 50% insulin lispro injection (rDNA origin)
 
-disposable insulin delivery device
+prefilled insulin delivery device
 
 HP-8798
 
@@ -102,21 +102,19 @@ For subcutaneous use only.
 
 5 x 3 mL Prefilled Pens
 
-New Disposable Prefilled Pen
-
 Read User Manual for instructions
 
 PACKAGE CARTON – HUMALOG Mix50/50 3 mL KwikPen 1ct – sample
 
-Humalog Mix50/50
+Humalog® Mix50/50 TM
 
-KwikPen
+KwikPenTM
 
 50% insulin lispro protamine suspension
 
 50% insulin lispro injection (rDNA origin)
 
-disposable insulin delivery device
+prefilled insulin delivery device
 
 HP-8798-001
 
@@ -140,8 +138,6 @@ For subcutaneous use only.
 
 1 x 3 mL Prefilled Pen
 
-New Disposable Prefilled Pen
-
 Read User Manual for instructions
 
 PACKAGE CARTON – HUMALOG Mix50/50 3 mL Pen 5ct
@@ -156,7 +152,7 @@ HP-8793
 
 U-100
 
-Humalog Mix50/50 Pen
+Humalog® Mix50/50TM Pen
 
 50% insulin lispro protamine
 
