@@ -7,4 +7,4 @@ www.humalog.com
 Copyright © 2007, 2009, Eli Lilly and Company.
 All rights reserved.
 
-PA 5531 AMP
+PV 5531 AMP
