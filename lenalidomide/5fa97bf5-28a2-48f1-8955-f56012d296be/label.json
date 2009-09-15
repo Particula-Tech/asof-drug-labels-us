@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021880"
+  ],
   "inn": "lenalidomide",
   "labeler": "Celgene Corporation",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "59572-425-00",
     "59572-425-21"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lenalidomide",
+      "name": "Revlimid"
+    }
+  ],
   "setid": "5fa97bf5-28a2-48f1-8955-f56012d296be",
   "source": "dailymed"
 }
