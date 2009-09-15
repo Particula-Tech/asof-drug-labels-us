@@ -62,7 +62,7 @@ Patients should be monitored for the emergence of serotonin syndrome or NMS-like
 
 The concomitant use of PRISTIQ with MAOIs intended to treat depression is contraindicated [see Contraindications (4.2)].
 
-If concomitant treatment of PRISTIQ with a 5‑hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant treatment of PRISTIQ with a 5 hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
 The concomitant use of PRISTIQ with serotonin precursors (such as tryptophan) is not recommended.
 
@@ -70,7 +70,7 @@ Treatment with PRISTIQ and any concomitant serotonergic or antidopaminergic agen
 
 ## 5.3 Elevated Blood Pressure
 
-Patients receiving PRISTIQ should have regular monitoring of blood pressure since sustained increases in blood pressure were observed in clinical studies.
+Patients receiving PRISTIQ should have regular monitoring of blood pressure since increases in blood pressure were observed in clinical studies.
 Pre-existing hypertension should be controlled before initiating treatment with PRISTIQ.
 Caution should be exercised in treating patients with pre-existing hypertension or other underlying conditions that might be compromised by increases in blood pressure.
 Cases of elevated blood pressure requiring immediate treatment have been reported with PRISTIQ.

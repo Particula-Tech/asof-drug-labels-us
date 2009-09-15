@@ -56,7 +56,7 @@ Call a healthcare provider right away if you or your family member has any of th
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-### Important Information about PRISTIQ®Extended-Release Tablets
+### Important Information about PRISTIQ® Extended-Release Tablets
 
 Read the patient information that comes with PRISTIQ before you take PRISTIQ and each time you refill your prescription.
 There may be new information.
@@ -261,8 +261,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C006
+W10529C008
 
 ET01
 
-Rev 07/09
+Rev 08/09

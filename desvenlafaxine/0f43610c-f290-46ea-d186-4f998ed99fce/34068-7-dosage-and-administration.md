@@ -3,6 +3,7 @@
 ## 2.1 Initial Treatment of Major Depressive Disorder
 
 The recommended dose for PRISTIQ is 50 mg once daily, with or without food.
+
 In clinical studies, doses of 50-400 mg/day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg/day and adverse events and discontinuations were more frequent at higher doses.
 
 When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.9)].
@@ -24,12 +25,13 @@ No dosage adjustment is necessary in patients with mild renal impairment (24‑h
 
 The recommended dose in patients with moderate renal impairment (24‑hr CrCl = 30‑50 mL/min) is 50 mg per day.
 The recommended dose in patients with severe renal impairment (24-hr CrCl < 30 mL/min) or end-stage renal disease (ESRD) is 50 mg every other day.
-Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.6)].
+Supplemental doses should not be given to patients after dialysis.
+The doses should not be escalated in patients with moderate or severe renal impairment, or ESRD [see Warnings and Precautions (5.10),Use in Specific Populations (8.6) and Clinical Pharmacology (12.6)].
 
 ### Patients with hepatic impairment
 
-No adjustment of the starting dosage is necessary for patients with hepatic impairment.
-However, dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.6)].
+The recommended dose in patients with hepatic impairment is 50 mg/day.
+Dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.6)].
 
 ### Elderly patients
 
@@ -45,7 +47,7 @@ Patients should be periodically reassessed to determine the need for continued t
 
 Symptoms associated with discontinuation of PRISTIQ, other SNRIs and SSRIs have been reported [see Warnings and Precautions (5.9)].
 Patients should be monitored for these symptoms when discontinuing treatment.
-A gradual reduction in the dose (by giving 50 mg of PRISTIQ less frequently) rather than abrupt cessation is recommended whenever possible.
+A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.
 

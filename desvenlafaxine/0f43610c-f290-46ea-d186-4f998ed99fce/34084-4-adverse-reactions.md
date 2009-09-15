@@ -16,9 +16,9 @@ The most commonly observed adverse reactions in PRISTIQ treated MDD patients in 
 
 ### Adverse reactions reported as reasons for discontinuation of treatment
 
-Combined across 8-week placebo-controlled pre-marketing studies for major depressive disorder, 12% of the 1,834 patients who received PRISTIQ (50-400 mg) discontinued treatment due to an adverse experience, compared with 3% of the 1,116 placebo-treated patients in those studies.
-At the recommended dose of 50 mg, the discontinuation rate due to an adverse experience for PRISTIQ (4.1%) was similar to the rate for placebo (3.8%).
-For the 100 mg dose of PRISTIQ the discontinuation rate due to an adverse experience was 8.7%.
+Combined across 8-week placebo-controlled pre-marketing studies for major depressive disorder, 12% of the 1,834 patients who received PRISTIQ (50-400 mg) discontinued treatment due to an adverse event, compared with 3% of the 1,116 placebo-treated patients in those studies.
+At the recommended dose of 50 mg, the discontinuation rate due to an adverse event for PRISTIQ (4.1%) was similar to the rate for placebo (3.8%).
+For the 100 mg dose of PRISTIQ the discontinuation rate due to an adverse event was 8.7%.
 
 The most common adverse reactions leading to discontinuation in at least 2% of the PRISTIQ treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each); in the long-term study, up to 9 months, the most common was vomiting (2%).
 
@@ -113,13 +113,15 @@ Table 4: Sexual Function Disorders: Adverse Reactions (≥ 2% in Mena or Womenb 
 
 ### Other adverse reactions observed in pre-marketing clinical studies
 
-Other infrequent adverse reactions, not described elsewhere, occurring at an incidence of < 2% in MDD patients treated with PRISTIQ were:
+Other infrequent adverse reactions, not described elsewhere in section 6.1, occurring at an incidence of < 2% in MDD patients treated with PRISTIQ were:
 
 Immune system disorders – Hypersensitivity.
 
-Investigations – Liver function test abnormal, blood prolactin increased.
+Investigations – Weight increased, liver function test abnormal, blood prolactin increased.
 
 Nervous system disorders – Convulsion, syncope, extrapyramidal disorder.
+
+Musculoskeletal and connective tissue disorders – Musculoskeletal stiffness.
 
 Psychiatric disorders – Depersonalization, hypomania.
 

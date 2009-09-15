@@ -61,4 +61,5 @@ In subjects with severe renal impairment (24-hr CrCl < 30 mL/min) and end-stage 
 ## 8.7 Hepatic Impairment
 
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
-No adjustment in starting dosage is necessary for patients with hepatic impairment.
+The recommended dose in patients with hepatic impairment is 50 mg/day.
+Dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.6)].

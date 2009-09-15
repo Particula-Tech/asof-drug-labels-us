@@ -130,7 +130,7 @@ desvenlafaxine
 
 Extended-Release Tablets
 
-100 mg
+100 mg*
 
 Note: Give attached Medication Guide when dispensing Pristiq™.
 

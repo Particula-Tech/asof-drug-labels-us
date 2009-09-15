@@ -64,7 +64,8 @@ Systemic clearance (CL/F) was decreased by approximately 20% and 36% in patients
 CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5% difference).
 
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
-No adjustment in starting dosage is necessary for patients with hepatic impairment.
+The recommended dose in patients with hepatic impairment is 50 mg/day.
+Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.7)].
 
 ### Renal insufficiency
 
@@ -75,4 +76,6 @@ Increases in AUCs of about 42% in mild renal impairment (24‑hr CrCl = 50‑80 
 The mean terminal half-life (t1/2) was prolonged from 11.1 hours in the control subjects to approximately 13.5, 15.5, 17.6, and 22.8 hours in mild, moderate, severe renal impairment and ESRD subjects, respectively.
 Less than 5% of the drug in the body was cleared during a standard 4-hour hemodialysis procedure.
 
-Dosage adjustment (every other day dosing) is recommended in patients with significant impairment of renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+The recommended dose in patients with moderate renal impairment is 50 mg per day.
+Dosage adjustment (50 mg every other day) is recommended in patients with severe renal impairment or ESRD.
+Doses should not be escalated in patients with moderate or severe renal impairment, or ESRD [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
