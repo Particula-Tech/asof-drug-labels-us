@@ -9,7 +9,8 @@ It is to be emphasized that in pediatric patients with acute lymphatic leukemia 
 PURINETHOL should rarely be relied upon as a single agent for the maintenance of remissions induced in acute leukemia.
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.
+1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
 ## Dosage with Concomitant Allopurinol
 

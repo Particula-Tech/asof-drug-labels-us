@@ -1,9 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA009053"
+  ],
   "inn": "mercaptopurine",
-  "labeler": "TEVA Pharmaceuticals USA",
-  "package_ndcs": [],
-  "products": [],
+  "labeler": "Gate Pharmaceuticals",
+  "package_ndcs": [
+    "57844-522-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "mercaptopurine",
+      "name": "Purinethol"
+    }
+  ],
   "setid": "f9af557d-37bf-4078-888e-37c086dfc6e9",
   "source": "dailymed"
 }

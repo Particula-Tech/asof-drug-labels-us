@@ -49,7 +49,7 @@ The concomitant administration of mercaptopurine with other hepatotoxic agents r
 Combination therapy involving mercaptopurine with other drugs not felt to be hepatotoxic should nevertheless be approached with caution.
 The combination of mercaptopurine with doxorubicin was reported to be hepatotoxic in 19 of 20 patients undergoing remission-induction therapy for leukemia resistant to previous therapy.
 
-## Immunosuppresion
+## Immunosuppression
 
 Mercaptopurine recipients may manifest decreased cellular hypersensitivities and decreased allograft rejection.
 Induction of immunity to infectious agents or vaccines will be subnormal in these patients; the degree of immunosuppression will depend on antigen dose and temporal relationship to drug.
