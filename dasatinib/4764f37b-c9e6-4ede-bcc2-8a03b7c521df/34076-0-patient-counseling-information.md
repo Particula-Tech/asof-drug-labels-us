@@ -48,4 +48,4 @@ Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1237674A5 Rev May 2009
+1237674A6 Rev June 2009

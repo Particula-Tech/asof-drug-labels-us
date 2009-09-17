@@ -89,7 +89,7 @@ You should report any unusual symptoms to your healthcare provider.
   Your healthcare provider will check your blood counts regularly during treatment with SPRYCEL and may adjust your dose of SPRYCEL or withhold the drug temporarily in the event your blood counts drop too low.
   Notify your healthcare provider immediately if you develop a fever while taking SPRYCEL.
 - Bleeding: SPRYCEL may cause bleeding.
-  The most serious bleeding events observed in clinical studies included bleeding into the brain leading to death in fewer than 1% of patients, and bleeding from the gastrointestinal tract.
+  The most serious bleeding events observed in clinical studies included bleeding into the brain leading to death in 1% of patients, and bleeding from the gastrointestinal tract.
   Less severe events included bleeding from the nose, the gums, bruising of the skin, and excessive menstrual bleeding.
   Tell your healthcare provider immediately if you have any bleeding or bruising while taking SPRYCEL.
 - Fluid Retention: SPRYCEL may cause fluid to accumulate in your legs and around your eyes.
@@ -135,7 +135,7 @@ Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1237674A5 Rev May 2009
+1237674A6 Rev June 2009
 
 REPRESENTATIVE PACKAGING
 
