@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021346"
+  ],
   "inn": "risperidone",
-  "labeler": "Janssen, L.P.",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
     "50458-306-01",
     "50458-306-11",
@@ -12,7 +14,13 @@
     "50458-309-01",
     "50458-309-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "risperidone",
+      "name": "RISPERDAL CONSTA"
+    }
+  ],
   "setid": "bb34ee82-d2c2-43b8-ba21-2825c0954691",
   "source": "dailymed"
 }
