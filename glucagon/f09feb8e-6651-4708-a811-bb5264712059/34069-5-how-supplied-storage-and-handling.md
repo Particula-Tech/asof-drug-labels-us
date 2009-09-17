@@ -26,4 +26,4 @@ The GlucaGen® 10-pack includes:
 
 NDC 55390-004-10
 
-Edition: December 2004
+Edition: November 2005

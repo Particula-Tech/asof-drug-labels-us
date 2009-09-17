@@ -14,7 +14,7 @@
 6. Aynsley-Green AS, Eyre JA, and Soltesz G, Hypoglycaemia in diabetic children.
    In: Frier BM and Fisher BM, eds Hypoglycaemia and Diabetes, Edward Arnold, 1993; 237-238.
 
-Novo Nordisk® and GlucaGen® are registered trademarks of NovoNordisk A/S
+Novo Nordisk® and GlucaGen® are registered trademarks of Novo Nordisk A/S
 
 For information contact:
 
