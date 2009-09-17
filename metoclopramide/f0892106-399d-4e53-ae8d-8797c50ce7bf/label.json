@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022246"
+  ],
+  "inn": "metoclopramide",
+  "labeler": "Salix Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "65649-431-02",
+    "65649-432-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "metoclopramide hydrochloride",
+      "name": "METOZOLV"
+    }
+  ],
+  "setid": "f0892106-399d-4e53-ae8d-8797c50ce7bf",
+  "source": "dailymed"
+}
