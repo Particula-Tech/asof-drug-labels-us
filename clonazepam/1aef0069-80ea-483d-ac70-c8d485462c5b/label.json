@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA077171"
+  ],
+  "inn": "clonazepam",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-306-02",
+    "49884-307-02",
+    "49884-308-02",
+    "49884-309-02",
+    "49884-310-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "clonzaepam",
+      "name": "Clonazepam"
+    }
+  ],
+  "setid": "1aef0069-80ea-483d-ac70-c8d485462c5b",
+  "source": "dailymed"
+}
