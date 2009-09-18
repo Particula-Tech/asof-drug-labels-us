@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA012104"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Ranbaxy Laboratories Inc.",
+  "package_ndcs": [
+    "10631-093-62"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, SPRAY",
+      "generic": "triamcinolone acetonide",
+      "name": "Kenalog"
+    }
+  ],
+  "setid": "cdf6c80c-ddbd-498f-8897-3c0feebafe31",
+  "source": "dailymed"
+}
