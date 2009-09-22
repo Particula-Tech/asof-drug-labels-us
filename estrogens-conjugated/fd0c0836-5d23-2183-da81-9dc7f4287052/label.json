@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA020257",
+    "NDA020527"
+  ],
+  "inn": "estrogens-conjugated",
+  "labeler": "Wyeth Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0046-0875-05",
+    "0046-0875-06",
+    "0046-0875-11",
+    "0046-0975-05",
+    "0046-0975-06",
+    "0046-0975-11",
+    "0046-1105-11",
+    "0046-1106-11",
+    "0046-2579-11"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "conjugated estrogens and medroxyprogesterone acetate",
+      "name": "Premphase"
+    },
+    {
+      "form": "TABLET, SUGAR COATED",
+      "generic": "conjugated estrogens and medroxyprogesterone acetate",
+      "name": "Prempro"
+    }
+  ],
+  "setid": "fd0c0836-5d23-2183-da81-9dc7f4287052",
+  "source": "dailymed"
+}
