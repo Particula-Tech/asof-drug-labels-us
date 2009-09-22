@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "ANDA078895"
+  ],
+  "inn": "clonidine",
+  "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+  "package_ndcs": [
+    "29300-135-01",
+    "29300-135-05",
+    "29300-135-10",
+    "29300-135-50",
+    "29300-135-90",
+    "29300-136-01",
+    "29300-136-05",
+    "29300-136-10",
+    "29300-136-50",
+    "29300-137-01",
+    "29300-137-05",
+    "29300-137-10",
+    "29300-137-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonidine hydrochloride",
+      "name": "clonidine hydrochloride tablets"
+    }
+  ],
+  "setid": "21bfa28f-20df-43fd-bb80-b720d3b40696",
+  "source": "dailymed"
+}
