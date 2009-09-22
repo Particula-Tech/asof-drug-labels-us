@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078635"
+  ],
+  "inn": "bisoprolol",
+  "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+  "package_ndcs": [
+    "29300-126-01",
+    "29300-126-13",
+    "29300-127-01",
+    "29300-127-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bisoprolol fumarate",
+      "name": "Bisoprolol Fumarate Tablets"
+    }
+  ],
+  "setid": "4f20df45-3f9c-4a91-b394-e93a08111ec3",
+  "source": "dailymed"
+}
