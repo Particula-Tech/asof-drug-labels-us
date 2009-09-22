@@ -1,0 +1,197 @@
+# WARNINGS
+
+## Cardiac Failure
+
+Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta-blockade may precipitate more severe failure.
+Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
+Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
+
+## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
+
+In general, patients with bronchospastic lung disease should not receive beta-blockers.
+Propranolol should be administered with caution in this setting since it may block bronchodilation produced by endogenous and exogenous catecholamine stimulation of beta-receptors.
+
+## Major Surgery
+
+The necessity or desirability of withdrawal of beta-blocking therapy prior to major surgery is controversial.
+It should be noted, however, that the impaired ability of the heart to respond to reflex adrenergic stimuli in propranolol-treated patients may augment the risks of general anesthesia and surgical procedures.
+
+Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
+However, such patients may be subject to protracted severe hypotension.
+
+## Diabetes and Hypoglycemia
+
+Beta-adrenergic blockade may prevent the appearance of certain premonitory signs and symptoms (pulse rate and blood pressure changes) of acute hypoglycemia, especially in labile insulin-dependent diabetics.
+In these patients, it may be more difficult to adjust the dosage of insulin.
+
+Propranolol therapy, particularly in infants and children, diabetic or not, has been associated with hypoglycemia especially during fasting, as in preparation for surgery.
+Hypoglycemia has been reported with propranolol use after prolonged physical exertion and in patients with renal insufficiency.
+
+## Thyrotoxicosis
+
+Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism.
+Therefore, abrupt withdrawal of propranolol may be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
+Propranolol may change thyroid-function tests, increasing T4 and reversing T3, and decreasing T3.
+
+## Wolff-Parkinson-White Syndrome
+
+Beta-adrenergic blockade in patients with Wolf-Parkinson-White syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker.
+In one case, this resulted after an initial dose of 5-mg propranolol.
+
+# PRECAUTIONS
+
+## General
+
+Propranolol should be used with caution in patients with impaired hepatic or renal function.
+INNOPRAN XL is not indicated for the treatment of hypertensive emergencies.
+
+Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
+Patients should be told that INNOPRAN XL may interfere with the glaucoma screening test.
+Withdrawal may lead to a return of intraocular pressure.
+
+## Risk of Anaphylactic Reaction
+
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+## Clinical Laboratory Tests
+
+In patients with hypertension, use of propranolol has been associated with elevated levels of serum potassium, and serum transaminases and alkaline phosphatase.
+In severe heart failure, the use of propranolol has been associated with increases in blood urea nitrogen.
+
+## Drug Interactions
+
+Caution should be exercised when INNOPRAN XL is administered with drugs that have an effect on CYP2D6, 1A2 or 2C19 metabolic pathways.
+Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see DRUG INTERACTIONS in CLINICAL PHARMACOLOGY).
+
+## Cardiovascular Drugs
+
+### ACE Inhibitors
+
+When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infraction.
+
+Certain ACE inhibitors have been reported to increase bronchial hyperreactivity when administered with propranolol.
+
+The antihypertensive effects of clonidine may be antagonized by beta-blockers.
+INNOPRAN XL should be administered cautiously to patients withdrawing from clonidine.
+
+### Alpha Blockers
+
+Prazosin has been associated with prolongation of first dose hypotension in the presence of beta-blockers.
+
+Postural hypotension has been reported in patients taking both beta-blockers and terazosin or doxazosin.
+
+### Antiarrhythmics
+
+Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol.
+
+Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension.
+
+Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects and has been associated with severe bradycardia, asystole, and heart failure when administered with propranolol.
+
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with propranolol.
+
+The clearance of lidocaine is reduced with administration of propranolol.
+Lidocaine toxicity has been reported following coadministration with propranolol.
+(see also PRECAUTIONS, Drug Interactions, Non-Cardiovascular Drugs, Anesthetic Agents)
+
+Caution should be exercised when administering INNOPRAN XL with drugs that slow A-V nodal conduction, e.g. digitalis, lidocaine, and calcium channel blockers.
+
+### Calcium Channel Blockers
+
+Caution should be exercised when patients receiving a beta-blocker are administered a calcium-channel-blocking drug with negative inotropic and/or chronotropic effects.
+Both agents may depress myocardial contractility or atrioventricular conduction.
+
+There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.
+
+Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
+
+### Digitalis Glycosides
+
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
+
+### Inotropic Agents
+
+Patients on long-term therapy with propranolol may experience uncontrolled hypertension if administered epinephrine as a consequence of unopposed alpha-receptor stimulation.
+Epinephrine is therefore not indicated in the treatment of propranolol overdose (see OVERDOSAGE).
+
+### Isoproterenol and Dobutamine
+
+Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
+Also, propranolol may reduce sensitivity to dobutamine stress echocardiography in patients undergoing evaluation for myocardial ischemia.
+
+### Reserpine
+
+Patients receiving catecholamine-depleting drugs, such as reserpine and INNOPRAN XL, should be closely observed for excessive reduction of resting sympathetic nervous activity, which may result in hypotension, marked bradycardia, vertigo, syncopal attacks, or orthostatic hypotension.
+Administration of reserpine with propranolol may also potentiate depression.
+
+## Non-Cardiovascular Drugs
+
+### Anesthetic Agents
+
+Methoxyflurane and trichloroethylene may depress myocardial contractility when administered with propranolol.
+
+The clearance of local amide anesthetics (e.g., lidocaine, bupivacaine, mepivacaine) is reduced with administration of propranolol.
+Lidocaine and bupivacaine toxicity has been reported following coadministration with propranolol.
+Caution should be exercised when amide anesthetic agents are administered concomitantly with propanolol.
+
+### Antidepressants
+
+The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta-blocking activity of propranolol.
+
+### Neuroleptic Drugs
+
+Hypotension and cardiac arrest have been reported with the concomitant use of propranolol and haloperidol.
+
+### Non-Steroidal Anti-Inflammatory Drugs
+
+Nonsteroidal anti-inflammatory drugs (NSAIDS) have been reported to blunt the antihypertensive effect of beta-adrenoreceptor blocking agents.
+
+Administration of indomethacin with propranolol may reduce the efficacy of propranolol in reducing blood pressure and heart rate.
+
+### Thyroxine
+
+Thyroxine may result in a lower than expected T3 concentration when used concomitantly with propranolol.
+
+### Warfarin
+
+Propranolol when administered with warfarin increases the concentration of warfarin.
+Prothrombin time, therefore, should be monitored.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In dietary administration studies in which mice and rats were treated with propranolol HCl for up to 18 months at doses of up to 150 mg/kg/day, there was no evidence of drug-related tumorigenesis.
+On a body surface area basis, this dose in the mouse and rat is, respectively, about equal to and about twice the maximum recommended human oral daily dose (MRHD) of 640 mg propranolol HCl.
+In a study in which both male and female rats were exposed to propranolol HCl in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for 2 generations, there were no effects on fertility.
+Based on differing results from Ames Tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol HCl in bacteria (S. typhimurium strain TA 1538).
+
+## Pregnancy
+
+### Pregnancy Category C
+
+In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
+At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
+Propranolol HCI also was administered (in the feed) to rabbits (throughout pregnancy and lactation) at doses as high as 150 mg/kg/day (about 5 times the maximum recommended human oral daily dose).
+No evidence of embryo or neonatal toxicity was noted.
+
+There are no adequate and well-controlled studies in pregnant women.
+Intrauterine growth retardation has been reported for neonates whose mothers received propranolol HCl during pregnancy.
+Neonates whose mothers received propranolol HCl at parturition have exhibited bradycardia, hypoglycemia, and respiratory depression.
+Adequate facilities for monitoring such infants at birth should be available.
+INNOPRAN XL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+## Nursing mothers
+
+Propranolol is excreted in human milk.
+Caution should be exercised when INNOPRAN XL is administered to a nursing woman.
+
+## Pediatric use
+
+Safety and effectiveness of propranolol in pediatric patients have not been established.
+
+## Geriatric use
+
+Clinical studies of INNOPRAN XL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

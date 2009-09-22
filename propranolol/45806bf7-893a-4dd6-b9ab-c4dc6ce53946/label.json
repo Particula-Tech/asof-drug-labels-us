@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021438"
+  ],
+  "inn": "propranolol",
+  "labeler": "SmithKline Beecham Corporation",
+  "package_ndcs": [
+    "0173-0790-01",
+    "0173-0790-02",
+    "0173-0791-01",
+    "0173-0791-02"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "INNOPRAN"
+    }
+  ],
+  "setid": "45806bf7-893a-4dd6-b9ab-c4dc6ce53946",
+  "source": "dailymed"
+}
