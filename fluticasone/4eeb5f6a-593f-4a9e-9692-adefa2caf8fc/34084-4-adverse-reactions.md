@@ -1,32 +1,36 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Long-acting beta2-adrenergic agonists, such as salmeterol, may increase the risk of asthma-related death.
-Data from a large, placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol (see WARNINGS).
+Data from a large, placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol [see Warnings and Precautions (5.1)].
 Salmeterol is a component of ADVAIR DISKUS.
-However, the data from this study are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other component of ADVAIR DISKUS, or other asthma controller therapy modifies the risk of asthma-related death.
+However, the data from this study are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other component of ADVAIR DISKUS, or other asthma-controller therapy modifies the risk of asthma-related death.
 
-## Asthma
+Systemic and local corticosteroid use may result in the following:
 
-### Adult and Adolescent Patients 12 Years of Age and Older
+- Candida albicans infection [see Warnings and Precautions (5.4)]
+- Pneumonia in patients with COPD [see Warnings and Precautions (5.5)]
+- Immunosuppression [see Warnings and Precautions (5.6)]
+- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
+- Growth effects [see Warnings and Precautions (5.14)]
+- Glaucoma and cataracts [see Warnings and Precautions (5.15)]
 
-The incidence of common adverse events in Table 4 is based upon 2 placebo-controlled, 12-week, US clinical studies (Studies 1 and 2).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+## 6.1 Clinical Trials Experience in Asthma
+
+Adult and Adolescent Patients Aged 12 Years and Older: The incidence of adverse reactions associated with ADVAIR DISKUS in Table 2 is based upon 2 placebo-controlled, 12-week, US clinical studies (Studies 1 and 2).
 A total of 705 adolescent and adult patients (349 females and 356 males) previously treated with salmeterol or inhaled corticosteroids were treated twice daily with ADVAIR DISKUS (100/50- or 250/50-mcg doses), fluticasone propionate inhalation powder (100- or 250-mcg doses), salmeterol inhalation powder 50 mcg, or placebo.
+The average duration of exposure was 60 to 79 days in the active treatment groups compared with 42 days in the placebo group.
 
-Table 4.
-Overall Adverse Events With≥3% Incidence in US Controlled Clinical Trials With ADVAIR DISKUS in Patients With Asthma
+Table 2.
+Adverse Reactions With ≥3% Incidence With ADVAIR DISKUS in Adult and Adolescent Patients With Asthma
 
-|  | ADVAIR | ADVAIR | Fluticasone | Fluticasone |  |  |
+| Adverse Event | ADVAIRDISKUS100/50(N = 92)% | ADVAIRDISKUS250/50(N = 84)% | FluticasonePropionate100 mcg(N = 90)% | FluticasonePropionate250 mcg(N = 84)% | Salmeterol50 mcg(N = 180)% | Placebo(N = 175)% |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | DISKUS | DISKUS | Propionate | Propionate | Salmeterol | Placebo |
-|  | 100/50 | 250/50 | 100 mcg | 250 mcg | 50 mcg | (N = |
-|  | (N = 92) | (N = 84) | (N = 90) | (N = 84) | (N = 180) | 175) |
-| Adverse Event | % | % | % | % | % | % |
 | Ear, nose, & throat |  |  |  |  |  |  |
-| Upper respiratory tract | 27 | 21 | 29 | 25 | 19 | 14 |
-| infection |  |  |  |  |  |  |
+| Upper respiratory tractinfection | 27 | 21 | 29 | 25 | 19 | 14 |
 | Pharyngitis | 13 | 10 | 7 | 12 | 8 | 6 |
-| Upper respiratory | 7 | 6 | 7 | 8 | 8 | 5 |
-| inflammation |  |  |  |  |  |  |
+| Upper respiratory inflammation | 7 | 6 | 7 | 8 | 8 | 5 |
 | Sinusitis | 4 | 5 | 6 | 1 | 3 | 4 |
 | Hoarseness/dysphonia | 5 | 2 | 2 | 4 | <1 | <1 |
 | Oral candidiasis | 1 | 4 | 2 | 2 | 0 | 0 |
@@ -38,126 +42,40 @@ Overall Adverse Events With≥3% Incidence in US Controlled Clinical Trials With
 | Headaches | 12 | 13 | 14 | 8 | 10 | 7 |
 | Gastrointestinal |  |  |  |  |  |  |
 | Nausea & vomiting | 4 | 6 | 3 | 4 | 1 | 1 |
-| Gastrointestinal discomfort | 4 | 1 | 0 | 2 | 1 | 1 |
-| & pain |  |  |  |  |  |  |
+| Gastrointestinal discomfort& pain | 4 | 1 | 0 | 2 | 1 | 1 |
 | Diarrhea | 4 | 2 | 2 | 2 | 1 | 1 |
-| Viral gastrointestinal | 3 | 0 | 3 | 1 | 2 | 2 |
-| infections |  |  |  |  |  |  |
+| Viral gastrointestinal infections | 3 | 0 | 3 | 1 | 2 | 2 |
 | Non-site specific |  |  |  |  |  |  |
 | Candidiasis unspecified site | 3 | 0 | 1 | 4 | 0 | 1 |
 | Musculoskeletal |  |  |  |  |  |  |
 | Musculoskeletal pain | 4 | 2 | 1 | 5 | 3 | 3 |
-| Average duration of exposure (days) | 77.3 | 78.7 | 72.4 | 70.1 | 60.1 | 42.3 |
 
-Table 4 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in either of the groups receiving ADVAIR DISKUS and were more common than in the placebo group.
-In considering these data, differences in average duration of exposure should be taken into account.
-Rare cases of immediate and delayed hypersensitivity reactions, including rash and other rare events of angioedema and bronchospasm, have been reported.
+The types of adverse reactions and events reported in Study 3, a 28-week, non-US clinical study of 503 patients previously treated with inhaled corticosteroids who were treated twice daily with ADVAIR DISKUS 500/50, fluticasone propionate inhalation powder 500 mcg and salmeterol inhalation powder 50 mcg used concurrently, or fluticasone propionate inhalation powder 500 mcg, were similar to those reported in Table 2.
 
-These adverse reactions were mostly mild to moderate in severity.
+Additional Adverse Reactions: Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by patients with asthma treated with ADVAIR DISKUS compared with patients treated with placebo include the following: lymphatic signs and symptoms; muscle injuries; fractures; wounds and lacerations; contusions and hematomas; ear signs and symptoms; nasal signs and symptoms; nasal sinus disorders; keratitis and conjunctivitis; dental discomfort and pain; gastrointestinal signs and symptoms; oral ulcerations; oral discomfort and pain; lower respiratory signs and symptoms; pneumonia; muscle stiffness, tightness, and rigidity; bone and cartilage disorders; sleep disorders; compressed nerve syndromes; viral infections; pain; chest symptoms; fluid retention; bacterial infections; unusual taste; viral skin infections; skin flakiness and acquired ichthyosis; disorders of sweat and sebum.
 
-Other adverse events that occurred in the groups receiving ADVAIR DISKUS in these studies with an incidence of 1% to 3% and that occurred at a greater incidence than with placebo were:
+Pediatric Patients Aged 4 to 11 Years: The safety data for pediatric patients aged 4 to 11 years is based upon 1 US trial of 12 weeks’ treatment duration.
+A total of 203 patients (74 females and 129 males) who were receiving inhaled corticosteroids at study entry were randomized to either ADVAIR DISKUS 100/50 or fluticasone propionate inhalation powder 100 mcg twice daily.
+Common adverse reactions (≥3% and greater than placebo) seen in the pediatric patients but not reported in the adult and adolescent clinical trials include: throat irritation and ear, nose, and throat infections.
 
-#### Blood and Lymphatic
+Laboratory Test Abnormalities: Elevation of hepatic enzymes was reported in ≥1% of patients in clinical trials.
+The elevations were transient and did not lead to discontinuation from the studies.
+In addition, there were no clinically relevant changes noted in glucose or potassium.
 
-Lymphatic signs and symptoms.
+## 6.2 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
 
-#### Cardiovascular
+Short-Term (6 Months to 1 Year) Trials: The short-term safety data are based on exposure to ADVAIR DISKUS 250/50 twice daily in one 6-month and two 1-year clinical trials.
+In the 6-month trial, a total of 723 adult patients (266 females and 457 males) were treated twice daily with ADVAIR DISKUS 250/50, fluticasone propionate inhalation powder 250 mcg, salmeterol inhalation powder, or placebo.
+The mean age of the patients was 64, and the majority (93%) was Caucasian.
+In this trial, 70% of the patients treated with ADVAIR DISKUS reported an adverse reaction compared with 64% on placebo.
+The average duration of exposure to ADVAIR DISKUS 250/50 was 141.3 days compared with 131.6 days for placebo.
+The incidence of adverse reactions in the 6-month study is shown in Table 3.
 
-Palpitations.
+Table 3.
+Overall Adverse Reactions With ≥3% Incidence With ADVAIR DISKUS 250/50 in Patients With Chronic Obstructive Pulmonary Disease Associated With Chronic Bronchitis
 
-#### Drug Interaction, Overdose, and Trauma
-
-Muscle injuries, fractures, wounds and lacerations, contusions and hematomas, burns.
-
-#### Ear, Nose, and Throat
-
-Rhinorrhea/postnasal drip; ear, nose, and throat infections; ear signs and symptoms; nasal signs and symptoms; nasal sinus disorders; rhinitis; sneezing; nasal irritation; blood in nasal mucosa.
-
-#### Eye
-
-Keratitis and conjunctivitis, viral eye infections, eye redness.
-
-#### Gastrointestinal
-
-Dental discomfort and pain, gastrointestinal signs and symptoms, gastrointestinal infections, gastroenteritis, gastrointestinal disorders, oral ulcerations, oral erythema and rashes, constipation, appendicitis, oral discomfort and pain.
-
-#### Hepatobiliary Tract and Pancreas
-
-Abnormal liver function tests.
-
-#### Lower Respiratory
-
-Lower respiratory signs and symptoms, pneumonia, lower respiratory infections.
-
-#### Musculoskeletal
-
-Arthralgia and articular rheumatism; muscle stiffness, tightness, and rigidity; bone and cartilage disorders.
-
-#### Neurology
-
-Sleep disorders, tremors, hypnagogic effects, compressed nerve syndromes.
-
-#### Non-Site Specific
-
-Allergies and allergic reactions, congestion, viral infections, pain, chest symptoms, fluid retention, bacterial infections, wheeze and hives, unusual taste.
-
-#### Skin
-
-Viral skin infections, urticaria, skin flakiness and acquired ichthyosis, disorders of sweat and sebum, sweating.
-
-The incidence of common adverse events reported in Study 3, a 28-week, non-US clinical study of 503 patients previously treated with inhaled corticosteroids who were treated twice daily with ADVAIR DISKUS 500/50, fluticasone propionate inhalation powder 500 mcg and salmeterol inhalation powder 50 mcg used concurrently, or fluticasone propionate inhalation powder 500 mcg was similar to the incidences reported in Table 4.
-
-### Pediatric Patients
-
-#### Pediatric Study
-
-ADVAIR DISKUS 100/50 was well tolerated in clinical trials conducted in children with asthma aged 4 to 11 years.
-The incidence of common adverse events in Table 5 is based upon a 12-week US study in 203 patients with asthma aged 4 to 11 years (74 females and 129 males) who were receiving inhaled corticosteroids at study entry and were randomized to either ADVAIR DISKUS 100/50 or fluticasone propionate inhalation powder 100 mcg twice daily.
-
-Table 5.
-Overall Adverse Events With ≥3% Incidence With ADVAIR DISKUS 100/50 in Patients 4 to 11 Years of Age With Asthma
-
-|  | ADVAIR DISKUS | Fluticasone Propionate |
-| --- | --- | --- |
-|  | 100/50 | 100 mcg |
-|  | (N = 101) | (N = 102) |
-| Adverse Event | % | % |
-| Ear, nose, & throat |  |  |
-| Upper respiratory tract infection | 10 | 17 |
-| Throat irritation | 8 | 7 |
-| Ear, nose, & throat infections | 4 | <1 |
-| Epistaxis | 4 | <1 |
-| Pharyngitis/throat infection | 3 | 2 |
-| Ear signs & symptoms | 3 | <1 |
-| Sinusitis | 3 | 0 |
-| Neurology |  |  |
-| Headache | 20 | 20 |
-| Gastrointestinal |  |  |
-| Gastrointestinal discomfort & | 7 | 5 |
-| pain |  |  |
-| Nausea & vomiting | 5 | 3 |
-| Candidiasis mouth/throat | 4 | <1 |
-| Non-site specific |  |  |
-| Fever | 5 | 13 |
-| Chest symptoms | 3 | <1 |
-| Average duration of exposure (days) | 74.8 | 78.8 |
-
-Table 5 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving ADVAIR DISKUS 100/50.
-
-## Chronic Obstructive Pulmonary Disease Associated With Chronic Bronchitis
-
-The incidence of common adverse events in Table 6 is based upon 1 placebo-controlled, 24-week, US clinical trial in patients with COPD associated with chronic bronchitis.
-A total of 723 adult patients (266 females and 457 males) were treated twice daily with ADVAIR DISKUS 250/50, fluticasone propionate inhalation powder 250 mcg, salmeterol inhalation powder 50 mcg, or placebo.
-
-Table 6.
-Overall Adverse Events With ≥3% Incidence With ADVAIR DISKUS 250/50 in Patients With Chronic Obstructive Pulmonary Disease Associated With Chronic Bronchitis
-
-|  | ADVAIR | Fluticasone |  |  |
+| Adverse Event | ADVAIRDISKUS250/50(N = 178)% | FluticasonePropionate250 mcg(N = 183)% | Salmeterol50 mcg(N = 177)% | Placebo(N = 185)% |
 | --- | --- | --- | --- | --- |
-|  | DISKUS | Propionate | Salmeterol |  |
-|  | 250/50 | 250 mcg | 50 mcg | Placebo |
-|  | (N = 178) | (N = 183) | (N = 177) | (N = 185) |
-| Adverse Event | % | % | % | % |
 | Ear, nose, & throat |  |  |  |  |
 | Candidiasis mouth/throat | 10 | 6 | 3 | 1 |
 | Throat irritation | 8 | 5 | 4 | 7 |
@@ -174,117 +92,61 @@ Overall Adverse Events With ≥3% Incidence With ADVAIR DISKUS 250/50 in Patient
 | Musculoskeletal |  |  |  |  |
 | Musculoskeletal pain | 9 | 8 | 12 | 9 |
 | Muscle cramps & spasms | 3 | 3 | 1 | 1 |
-| Average duration of exposure (days) | 141.3 | 138.5 | 136.1 | 131.6 |
 
-Table 6 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving ADVAIR DISKUS 250/50 and were more common than in the placebo group.
+In the two 1-year studies, ADVAIR DISKUS 250/50 was compared with salmeterol in 1,579 patients (863 males and 716 females).
+The mean age of the patients was 65, and the majority (94%) was Caucasian.
+To be enrolled, all of the patients had to have had a COPD exacerbation in the previous 12 months.
+In this trial, 88% of the patients treated with ADVAIR DISKUS and 86% of the patients treated with salmeterol reported an adverse event.
+The most common events that occurred with a frequency of >5% and more frequently in the patients treated with ADVAIR DISKUS were nasopharyngitis, upper respiratory tract infection, nasal congestion, back pain, sinusitis, dizziness, nausea, pneumonia, candidiasis, and dysphonia.
+Overall, 55 (7%) of the patients treated with ADVAIR DISKUS and 25 (3%) of the patients treated with salmeterol developed pneumonia.
 
-These adverse reactions were mostly mild to moderate in severity.
+The incidence of pneumonia was higher in patients over 65 years of age, 9% in the patients treated with ADVAIR DISKUS compared with 4% in the patients treated with ADVAIR DISKUS less than 65 years of age.
+In the patients treated with salmeterol, the incidence of pneumonia was the same (3%) in both age-groups.
+[See Warnings and Precautions (5.5), Use in Specific Populations (8.5).]
 
-Other adverse events that occurred in the groups receiving ADVAIR DISKUS 250/50 with an incidence of 1% to 3% and that occurred at a greater incidence than with placebo were:
+Long-Term (3-Year) Trial: The safety of ADVAIR DISKUS 500/50 was evaluated in a randomized, double-blind, placebo-controlled, multicenter, international, 3-year study in 6,184 adult patients with COPD (4,684 males and 1,500 females).
+The mean age of the patients was 65, and the majority (82%) was Caucasian.
+The distribution of adverse events was similar to that seen in the 1-year trials with ADVAIR DISKUS 250/50.
+In addition, pneumonia was reported in a significantly increased number of patients treated with ADVAIR DISKUS 500/50 and fluticasone propionate 500 mcg (16% and 14%, respectively) compared with patients treated with salmeterol 50 mcg or placebo (11% and 9%, respectively).
+When adjusted for time on treatment, the rates of pneumonia were 84 and 88 events per 1,000 treatment-years in the groups treated with fluticasone propionate 500 mcg and with ADVAIR DISKUS 500/50, respectively, compared with 52 events per 1,000 treatment-years in the salmeterol and placebo groups.
+Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 vs. 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 vs. 8% with placebo).
+[See Warnings and Precautions (5.5), Use in Specific Populations (8.5).]
 
-### Cardiovascular
+Additional Adverse Reactions: Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by patients with COPD treated with ADVAIR DISKUS compared with patients treated with placebo include the following: syncope; ear, nose, and throat infections; ear signs and symptoms; laryngitis; nasal congestion/blockage; nasal sinus disorders; pharyngitis/throat infection; hypothyroidism; dry eyes; eye infections; gastrointestinal signs and symptoms; oral lesions; abnormal liver function tests; bacterial infections; edema and swelling; viral infections.
 
-Syncope.
+Laboratory Abnormalities: There were no clinically relevant changes in these trials.
+Specifically, no increased reporting of neutrophilia or changes in glucose or potassium was noted.
 
-### Drug Interaction, Overdose, and Trauma
-
-Postoperative complications.
-
-### Ear, Nose, and Throat
-
-Ear, nose, and throat infections; ear signs and symptoms; laryngitis; nasal congestion/blockage; nasal sinus disorders; pharyngitis/throat infection.
-
-### Endocrine and Metabolic
-
-Hypothyroidism.
-
-### Eye
-
-Dry eyes, eye infections.
-
-### Gastrointestinal
-
-Constipation, gastrointestinal signs and symptoms, oral lesions.
-
-### Hepatobiliary Tract and Pancreas
-
-Abnormal liver function tests.
-
-### Lower Respiratory
-
-Breathing disorders, lower respiratory signs and symptoms.
-
-### Non-Site Specific
-
-Bacterial infections, candidiasis unspecified site, edema and swelling, nonspecific conditions, viral infections.
-
-### Psychiatry
-
-Situational disorders.
-
-## Observed During Clinical Practice
+## 6.3 Postmarketing Experience
 
 In addition to adverse events reported from clinical trials, the following events have been identified during worldwide use of any formulation of ADVAIR, fluticasone propionate, and/or salmeterol regardless of indication.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to ADVAIR DISKUS, fluticasone propionate, and/or salmeterol or a combination of these factors.
 
-In extensive US and worldwide postmarketing experience with salmeterol, a component of ADVAIR DISKUS, serious exacerbations of asthma, including some that have been fatal, have been reported.
-In most cases, these have occurred in patients with severe asthma and/or in some patients in whom asthma has been acutely deteriorating (see WARNINGS), but they have also occurred in a few patients with less severe asthma.
-It was not possible from these reports to determine whether salmeterol contributed to these events.
+Cardiac Disorders: Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tachycardia), ventricular tachycardia.
 
-### Cardiovascular
+Endocrine Disorders: Cushing syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism.
 
-Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tachycardia), ventricular tachycardia.
+Eye Disorders: Glaucoma.
 
-### Ear, Nose, and Throat
+Gastrointestinal Disorders: Abdominal pain, dyspepsia, xerostomia.
 
-Aphonia, earache, facial and oropharyngeal edema, paranasal sinus pain, throat soreness.
-
-### Endocrine and Metabolic
-
-Cushing syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism, hyperglycemia, weight gain, osteoporosis.
-
-### Eye
-
-Cataracts, glaucoma.
-
-### Gastrointestinal
-
-Abdominal pain, dyspepsia, xerostomia.
-
-### Musculoskeletal
-
-Back pain, cramps, muscle spasm, myositis.
-
-### Neurology
-
-Paresthesia, restlessness.
-
-### Non-Site Specific
-
-Immediate and delayed hypersensitivity reaction (including very rare anaphylactic reaction), pallor.
+Immune System Disorders: Immediate and delayed hypersensitivity reaction (including very rare anaphylactic reaction).
 Very rare anaphylactic reaction in patients with severe milk protein allergy.
 
-### Psychiatry
+Metabolic and Nutrition Disorders: Hyperglycemia, weight gain.
 
-Agitation, aggression, depression.
+Musculoskeletal, Connective Tissue, and Bone Disorders: Arthralgia, cramps, myositis, osteoporosis.
 
-### Respiratory
+Nervous System Disorders: Paresthesia, restlessness.
 
-Chest congestion; chest tightness; dyspnea; immediate bronchospasm; influenza; paradoxical bronchospasm; tracheitis; wheezing; reports of upper respiratory symptoms of laryngeal spasm, irritation, or swelling such as stridor or choking.
+Psychiatric Disorders: Agitation, aggression, depression.
+Behavioral changes, including hyperactivity and irritability, have been reported very rarely and primarily in children.
 
-### Skin
+Reproductive System and Breast Disorders: Dysmenorrhea.
 
-Contact dermatitis, contusions, ecchymoses, photodermatitis.
+Respiratory, Thoracic, and Mediastinal Disorders: Chest congestion; chest tightness; dyspnea; facial and oropharyngeal edema, immediate bronchospasm; paradoxical bronchospasm; tracheitis; wheezing; reports of upper respiratory symptoms of laryngeal spasm, irritation, or swelling such as stridor or choking.
 
-### Urogenital
+Skin and Subcutaneous Tissue Disorders: Ecchymoses, photodermatitis.
 
-Dysmenorrhea, irregular menstrual cycle, pelvic inflammatory disease, vaginal candidiasis, vaginitis, vulvovaginitis.
-
-### Eosinophilic Conditions
-
-In rare cases, patients on inhaled fluticasone propionate, a component of ADVAIR DISKUS, may present with systemic eosinophilic conditions, with some patients presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
-These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of fluticasone propionate.
-Cases of serious eosinophilic conditions have also been reported with other inhaled corticosteroids in this clinical setting.
-While ADVAIR DISKUS should not be used for transferring patients from systemic corticosteroid therapy, physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
-A causal relationship between fluticasone propionate and these underlying conditions has not been established (see PRECAUTIONS: General: Eosinophilic Conditions).
+Vascular Disorders: Pallor.

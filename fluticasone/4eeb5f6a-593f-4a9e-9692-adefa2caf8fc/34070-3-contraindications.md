@@ -1,5 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-ADVAIR DISKUS is contraindicated in the primary treatment of status asthmaticus or other acute episodes of asthma or COPD where intensive measures are required.
+The use of ADVAIR DISKUS is contraindicated in the following conditions:
 
-Hypersensitivity to any of the ingredients of these preparations contraindicates their use (see DESCRIPTION and ADVERSE REACTIONS: Observed During Clinical Practice: Non-Site Specific).
+- Primary treatment of status asthmaticus or other acute episodes of asthma or COPD where intensive measures are required.
+- Severe hypersensitivity to milk proteins [see Warnings and Precautions (5.11), Description (11)].
