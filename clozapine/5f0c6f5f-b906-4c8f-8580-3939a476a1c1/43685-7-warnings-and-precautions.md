@@ -4,7 +4,7 @@
 
 INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
-ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ATYPICAL ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH COMPARED TO PLACEBO.
+ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH.
 CLOZARIL® (clozapine) IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS (SEE BOXED WARNING).
 
 AGRANULOCYTOSIS
@@ -17,7 +17,7 @@ CLOZARIL® (clozapine) IS AVAILABLE ONLY THROUGH A DISTRIBUTION SYSTEM THAT ENSU
 
 AS DESCRIBED IN TABLE 1, PATIENTS WHO ARE BEING TREATED WITH CLOZARIL® (clozapine) MUST HAVE A BASELINE WBC COUNT AND ANC BEFORE INITIATION OF TREATMENT, AND A WBC COUNT AND ANC EVERY WEEK FOR THE FIRST 6 MONTHS.
 THEREAFTER, IF ACCEPTABLE WBC COUNTS AND ANC (WBC ≥3500/mm3 and ANC ≥2000/mm3) HAVE BEEN MAINTAINED DURING THE FIRST 6 MONTHS OF CONTINUOUS THERAPY, WBC COUNTS AND ANC CAN BE MONITORED EVERY 2 WEEKS FOR THE NEXT 6 MONTHS.
-THEREAFTER, IF ACEPTABLE WBC COUNTS AND ANC (WBC ≥3500/mm3 and ANC ≥2000/mm3) HAVE BEEN MAINTAINED DURING THE SECOND 6 MONTHS OF CONTINUOUS THERAPY, WBC COUNT AND ANC CAN BE MONITORED EVERY 4 WEEKS.
+THEREAFTER, IF ACCEPTABLE WBC COUNTS AND ANC (WBC ≥3500/mm3 and ANC ≥2000/mm3) HAVE BEEN MAINTAINED DURING THE SECOND 6 MONTHS OF CONTINUOUS THERAPY, WBC COUNT AND ANC CAN BE MONITORED EVERY 4 WEEKS.
 
 WHEN TREATMENT WITH CLOZARIL® (clozapine) IS DISCONTINUED (REGARDLESS OF THE REASON), WBC COUNT AND ANC MUST BE MONITORED WEEKLY FOR AT LEAST 4 WEEKS FROM THE DAY OF DISCONTINUATION OR UNTIL WBC ≥3500/mm3 AND ANC ≥2000/mm3.
 
@@ -65,11 +65,11 @@ Frequency of Monitoring based on Stage of Therapy or Results from WBC Count and 
 | 12 months of therapy | All results for WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
 | Discontinuation of Therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥3500/mm3 and ANC >2000/mm3 |
-| Substantial drop in WBC or ANC | Single Drop or cumulative drop within 3 weeks of WBC ≥3000/mm3 or ANC ≥1500/mm3 | Repeat WBC and ANC If repeat values are 3000/mm3 ≤WBC ≤3500/mm3 and ANC <2000/mm3, then monitor twice weekly |
+| Substantial drop in WBC or ANC | Single Drop or cumulative drop within 3 weeks of WBC ≥3000/mm3 or ANC ≥1500/mm3 | 1. Repeat WBC and ANC 2. If repeat values are 3000/mm3 ≤WBC ≤3500/mm3 and ANC <2000/mm3, then monitor twice weekly |
 | Mild Leukopenia -------------------------- Mild Granulocytopenia | 3500/mm3 >WBC ≥3000/mm3 and/or 2000/mm3 >ANC ≥1500/mm3 | Twice-weekly until WBC >3500/mm3 and ANC >2000/mm3 then return to previous monitoring frequency |
-| Moderate Leukopenia --------------------------- Moderate Granulocytopenia | 3000/mm3 >WBC ≥2000/mm3 and/or 1500/mm3 > ANC ≥1000/mm3 | Interrupt therapy Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice-weekly until WBC >3500/mm3 and ANC >2000/mm3 May rechallenge when WBC >3500/mm3 and ANC >2000/mm3 If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
-| Severe Leukopenia ------------------------ Severe Granulocytopenia | WBC <2000/mm3 and/or ANC <1000/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
-| Agranulocytosis | ANC ≤500/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
+| Moderate Leukopenia --------------------------- Moderate Granulocytopenia | 3000/mm3 >WBC ≥2000/mm3 and/or 1500/mm3 > ANC ≥1000/mm3 | 1. Interrupt therapy 2. Daily until WBC >3000/mm3 and ANC >1500/mm3 3. Twice-weekly until WBC >3500/mm3 and ANC >2000/mm3 4. May rechallenge when WBC >3500/mm3 and ANC >2000/mm3 5. If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
+| Severe Leukopenia ------------------------ Severe Granulocytopenia | WBC <2000/mm3 and/or ANC <1000/mm3 | 1. Discontinue treatment and do not rechallenge patient 2. Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
+| Agranulocytosis | ANC ≤500/mm3 | 1. Discontinue treatment and do not rechallenge patient 2. Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
 | *WBC=white blood cell count; ANC=absolute neutrophil count |  |  |
 
 Decrements in WBC Count and/or ANC
@@ -89,7 +89,7 @@ To reduce the chances of rechallenge occurring in patients who have experienced 
 Treatment of Rechallengeable Patients
 
 Patients may be rechallenged with CLOZARIL® (clozapine) if their WBC count does not fall below 2000/mm3 and the ANC does not fall below 1000/mm3.
-However, analysis of data from the Clozaril® National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3>WBC≥2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged compared to the full cohort of patients treated with CLOZARIL® (clozapine).
+However, analysis of data from the Clozaril® National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3 >WBC ≥2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged compared to the full cohort of patients treated with CLOZARIL® (clozapine).
 Although CLOZARIL® (clozapine) therapy may be resumed if no symptoms of infection develop, and when the WBC count rises above 3500/mm3 and the ANC rises above 2000/mm3, prescribers are strongly advised to consider whether the benefit of continuing CLOZARIL® (clozapine) treatment outweighs the increased risk of agranulocytosis.
 
 Analyses of the Clozaril® National Registry have shown an increased risk of having a subsequent episode of granulopoietic suppression up to a year after recovery from the initial episode.

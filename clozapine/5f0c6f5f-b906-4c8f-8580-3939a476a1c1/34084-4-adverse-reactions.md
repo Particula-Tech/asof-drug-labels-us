@@ -170,7 +170,7 @@ Urogenital System: acute interstitial nephritis and priapism.
 
 Integumentary (Skin): hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
 
-Metabolic and Nutritional Disorders: hypercholesterolemia (very rare); and hypertriglyceridemia (very rare).
+Metabolic and Nutritional Disorders: hypercholesterolemia; and hypertriglyceridemia.
 
 Musculoskeletal System: myasthenic syndrome and rhabdomyolysis.
 

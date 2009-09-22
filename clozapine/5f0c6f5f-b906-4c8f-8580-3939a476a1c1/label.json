@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019758"
+  ],
   "inn": "clozapine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0078-0127-06",
     "0078-0127-08"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clozapine",
+      "name": "Clozaril"
+    }
+  ],
   "setid": "5f0c6f5f-b906-4c8f-8580-3939a476a1c1",
   "source": "dailymed"
 }
