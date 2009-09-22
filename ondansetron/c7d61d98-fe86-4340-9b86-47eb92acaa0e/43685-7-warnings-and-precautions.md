@@ -14,8 +14,10 @@ Rarely and predominantly with intravenous ondansetron, transient ECG changes inc
 
 ## Information for Patients
 
-Phenylketonurics: Phenylketonuric patients should be informed that ZOFRAN ODT Orally Disintegrating Tablets contain phenylalanine (a component of aspartame).
-Each 4-mg and 8-mg orally disintegrating tablet contains <0.03 mg phenylalanine.
+### Phenylketonurics
+
+Phenylketonuric patients should be informed that ZOFRAN ODT Orally Disintegrating Tablets contain phenylalanine (a component of aspartame).
+Each 4-mg and 8-mg orally disintegrating tablet contains < 0.03 mg phenylalanine.
 
 Patients should be instructed not to remove ZOFRAN ODT Tablets from the blister until just prior to dosing.
 The tablet should not be pushed through the foil.

@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020103",
+    "NDA020605",
+    "NDA020781"
+  ],
   "inn": "ondansetron",
-  "labeler": "",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0446-00",
     "0173-0446-02",
@@ -14,7 +18,23 @@
     "0173-0570-00",
     "0173-0570-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ondansetron hydrochloride",
+      "name": "ZOFRAN"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ondansetron hydrochloride",
+      "name": "ZOFRAN"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "ondansetron hydrochloride",
+      "name": "ZOFRAN"
+    }
+  ],
   "setid": "c7d61d98-fe86-4340-9b86-47eb92acaa0e",
   "source": "dailymed"
 }

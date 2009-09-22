@@ -56,7 +56,7 @@ Pharmacokinetics in Normal Volunteers: Single 8-mg ZOFRAN Tablet Dose
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 18-40 MF | 69.062.7 | 65 | 26.242.7 | 2.01.7 | 3.13.5 | 0.4030.354 | 0.4830.663 |
 | 61-74 MF | 77.560.2 | 66 | 24.152.4 | 2.11.9 | 4.14.9 | 0.3840.255 | 0.5850.643 |
-| 75 MF | 78.067.6 | 56 | 37.046.1 | 2.22.1 | 4.56.2 | 0.2770.249 | 0.6190.747 |
+| ≥ 75 MF | 78.067.6 | 56 | 37.046.1 | 2.22.1 | 4.56.2 | 0.2770.249 | 0.6190.747 |
 
 Table 2.
 Pharmacokinetics in Normal Volunteers: Single 24-mg ZOFRAN Tablet Dose
@@ -66,7 +66,7 @@ Pharmacokinetics in Normal Volunteers: Single 24-mg ZOFRAN Tablet Dose
 | 18-43 MF | 84.171.8 | 88 | 125.8194.4 | 1.91.6 | 4.75.8 |
 
 A reduction in clearance and increase in elimination half-life are seen in patients over 75 years of age.
-In clinical trials with cancer patients, safety and efficacy was similar in patients over 65 years of age and those under 65 years of age; there was an insufficient number of patients over 75 years of age to permit conclusions in that age-group.
+In clinical trials with cancer patients, safety and efficacy were similar in patients over 65 years of age and those under 65 years of age; there was an insufficient number of patients over 75 years of age to permit conclusions in that age-group.
 No dosage adjustment is recommended in the elderly.
 
 In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared to 5.7 hours in normals.
@@ -74,7 +74,7 @@ In patients with severe hepatic impairment (Child-Pugh2 score of 10 or greater),
 In patients with severe hepatic impairment, a total daily dose of 8 mg should not be exceeded.
 
 Due to the very small contribution (5%) of renal clearance to the overall clearance, renal impairment was not expected to significantly influence the total clearance of ondansetron.
-However, ondansetron oral mean plasma clearance was reduced by about 50% in patients with severe renal impairment (creatinine clearance <30 mL/min).
+However, ondansetron oral mean plasma clearance was reduced by about 50% in patients with severe renal impairment (creatinine clearance < 30 mL/min).
 This reduction in clearance is variable and was not consistent with an increase in half-life.
 No reduction in dose or dosing frequency in these patients is warranted.
 

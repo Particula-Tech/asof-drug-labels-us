@@ -5,8 +5,8 @@ A causal relationship to therapy with ZOFRAN has been unclear in many cases.
 
 ## Chemotherapy-Induced Nausea and Vomiting
 
-The adverse events in Table 5 have been reported in ≥5% of adult patients receiving a single 24-mg ZOFRAN Tablet in 2 trials.
-These patients were receiving concurrent highly emetogenic cisplatin-based chemotherapy regimens (cisplatin dose ≥50 mg/m2).
+The adverse events in Table 5 have been reported in ≥ 5% of adult patients receiving a single 24-mg ZOFRAN Tablet in 2 trials.
+These patients were receiving concurrent highly emetogenic cisplatin-based chemotherapy regimens (cisplatin dose ≥ 50 mg/m2).
 
 Table 5.
 Principal Adverse Events in US Trials: Single Day Therapy With 24-mg ZOFRAN Tablets (Highly Emetogenic Chemotherapy)
@@ -16,7 +16,7 @@ Principal Adverse Events in US Trials: Single Day Therapy With 24-mg ZOFRAN Tabl
 | Headache | 33 (11%) | 16 (13%) | 17 (15%) |
 | Diarrhea | 13 (4%) | 9 (7%) | 3 (3%) |
 
-The adverse events in Table 6 have been reported in ≥5% of adults receiving either 8 mg of ZOFRAN Tablets 2 or 3 times a day for 3 days or placebo in 4 trials.
+The adverse events in Table 6 have been reported in ≥ 5% of adults receiving either 8 mg of ZOFRAN Tablets 2 or 3 times a day for 3 days or placebo in 4 trials.
 These patients were receiving concurrent moderately emetogenic chemotherapy, primarily cyclophosphamide-based regimens.
 
 Table 6.
@@ -60,7 +60,7 @@ The most frequently reported adverse events were headache, constipation, and dia
 
 ## Postoperative Nausea and Vomiting
 
-The adverse events in Table 7 have been reported in ≥5% of patients receiving ZOFRAN Tablets at a dosage of 16 mg orally in clinical trials.
+The adverse events in Table 7 have been reported in ≥ 5% of patients receiving ZOFRAN Tablets at a dosage of 16 mg orally in clinical trials.
 With the exception of headache, rates of these events were not significantly different in the ondansetron and placebo groups.
 These patients were receiving multiple concomitant perioperative and postoperative medications.
 
@@ -83,6 +83,8 @@ Frequency of Adverse Events From Controlled Studies With ZOFRAN Tablets (Postope
 | Hypotension | 27 (5%) | 32 (6%) |
 | Pruritus | 27 (5%) | 20 (4%) |
 
+Preliminary observations in a small number of subjects suggest a higher incidence of headache when ZOFRAN ODT Orally Disintegrating Tablets are taken with water, when compared to without water.
+
 ## Observed During Clinical Practice
 
 In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of oral formulations of ZOFRAN.
@@ -99,13 +101,25 @@ Flushing.
 Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylaxis/anaphylactoid reactions, angioedema, bronchospasm, shortness of breath, hypotension, laryngeal edema, stridor) have also been reported.
 Laryngospasm, shock, and cardiopulmonary arrest have occurred during allergic reactions in patients receiving injectable ondansetron.
 
-Hepatobiliary: Liver enzyme abnormalities
+### Hepatobiliary
 
-Lower Respiratory: Hiccups
+Liver enzyme abnormalities
 
-Neurology: Oculogyric crisis, appearing alone, as well as with other dystonic reactions
+### Lower Respiratory
 
-Skin: Urticaria
+Hiccups
 
-Special Senses: Eye Disorders: Cases of transient blindness, predominantly during intravenous administration, have been reported.
+### Neurology:
+
+Oculogyric crisis, appearing alone, as well as with other dystonic reactions
+
+### Skin
+
+Urticaria
+
+### Special Senses
+
+#### Eye Disorders
+
+Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.
