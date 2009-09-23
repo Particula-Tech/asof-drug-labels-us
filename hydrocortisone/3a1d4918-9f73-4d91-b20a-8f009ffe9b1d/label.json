@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018726"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Ranbaxy Laboratories Inc.",
+  "package_ndcs": [
+    "10631-105-15",
+    "10631-105-45",
+    "10631-105-60"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "hydrocortisone valerate",
+      "name": "Westcort"
+    }
+  ],
+  "setid": "3a1d4918-9f73-4d91-b20a-8f009ffe9b1d",
+  "source": "dailymed"
+}
