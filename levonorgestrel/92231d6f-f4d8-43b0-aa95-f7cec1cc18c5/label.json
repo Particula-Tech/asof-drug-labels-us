@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021225"
+  ],
   "inn": "levonorgestrel",
   "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
   "package_ndcs": [
     "50419-421-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INTRAUTERINE DEVICE",
+      "generic": "levonorgestrel",
+      "name": "Mirena"
+    }
+  ],
   "setid": "92231d6f-f4d8-43b0-aa95-f7cec1cc18c5",
   "source": "dailymed"
 }

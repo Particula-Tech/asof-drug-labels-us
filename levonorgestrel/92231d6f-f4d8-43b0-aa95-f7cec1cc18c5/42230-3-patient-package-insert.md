@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
 Mirena® (Mur-ā-nah)
 
@@ -89,7 +89,7 @@ Tell your health care provider if you
 - have problems with blood clotting or take medicine to reduce clotting
 - have high blood pressure
 
-## How is Mirena placed?
+How is Mirena placed?
 
 First, your health care provider will examine your pelvis to find the exact position of your uterus.
 Your health care provider will then clean your vagina and cervix with an antiseptic solution, and slide a thin plastic tube containing Mirena into your uterus.
@@ -101,7 +101,7 @@ Some women may experience pain, bleeding and/or dizziness during and after place
 If these symptoms do not pass within half an hour while in a resting position, Mirena may not have been correctly placed.
 If necessary, your health care provider will examine you to determine if Mirena needs to be removed.
 
-## Should I check that Mirena is in the proper position?
+Should I check that Mirena is in the proper position?
 
 Yes, you should check that Mirena is in proper position by feeling the removal threads.
 You should do this after each period.
@@ -114,16 +114,16 @@ Call your health care provider to have it removed.
 If you cannot feel the threads at all, ask your healthcare provider to check that Mirena is still in the right place.
 In either case, use a non-hormonal birth control method (such as condoms or spermicide) until otherwise advised by your health care provider.
 
-## How soon after placement of Mirena should I return to my health care provider?
+How soon after placement of Mirena should I return to my health care provider?
 
 Call your health care provider if you have any question or concerns (see ”When to call your health care provider”).
 Otherwise, you should return to your health care provider for a follow-up visit 4 to 12 weeks after Mirena is placed to make sure that Mirena is in the right position.
 
-## Can I use tampons with Mirena?
+Can I use tampons with Mirena?
 
 Tampons may be used with Mirena.
 
-## What if I become pregnant while using Mirena?
+What if I become pregnant while using Mirena?
 
 Call your health care provider right away if you think you are pregnant.
 If you get pregnant while using Mirena, you may have an ectopic pregnancy.
@@ -144,24 +144,24 @@ These may be signs of infection.
 
 We do not know if Mirena can cause long-term effects on the fetus if it stays in place during a pregnancy.
 
-## How will Mirena change my periods?
+How will Mirena change my periods?
 
 For the first 3 to 6 months, your monthly period may become irregular.
 You may also have frequent spotting or light bleeding.
 A few women have heavy bleeding during this time.
 After your body adjusts, the number of bleeding days is likely to decrease, and you may even find that your periods stop altogether.
 
-## Is it safe to breast-feed while using Mirena?
+Is it safe to breast-feed while using Mirena?
 
 You may use Mirena when you are breastfeeding if more than six weeks have passed since you had your baby.
 If you are breastfeeding, Mirena is not likely to affect the quality or amount of your breast milk or the health of your nursing baby.
 
-## Will Mirena interfere with sexual intercourse?
+Will Mirena interfere with sexual intercourse?
 
 Neither you nor your partner should feel Mirena during intercourse, as Mirena is placed in the uterus, not in the vagina.
 Sometimes male partners feel the threads.
 
-## What are the possible side effects of using Mirena?
+What are the possible side effects of using Mirena?
 
 The following are serious but uncommon side effects of Mirena:
 
@@ -307,4 +307,4 @@ Manufactured in Finland
 
 © 2008, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
 
-6705102 July 2008
+6705103 July 2008
