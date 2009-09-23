@@ -104,7 +104,7 @@ If chickenpox develops, treatment with antiviral agents may be considered.
 
 Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
-## 5.7 Transferring Patients from Systemic Corticosteroid Therapy
+## 5.7 Transferring Patients From Systemic Corticosteroid Therapy
 
 Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.

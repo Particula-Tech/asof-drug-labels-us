@@ -15,7 +15,7 @@ Adult and Adolescent Patients Aged 12 Years and Older
 
 For patients aged 12 years and older, the dosage is 1 inhalation twice daily (morning and evening, approximately 12 hours apart).
 
-The recommended starting dosages for ADVAIR DISKUS for patients 12 years of age and older are based upon patients’ asthma severity.
+The recommended starting dosages for ADVAIR DISKUS for patients aged 12 years and older are based upon patients’ asthma severity.
 For patients not currently on inhaled corticosteroids whose disease severity clearly warrants initiation of treatment with 2 maintenance therapies, or patients inadequately controlled on an inhaled corticosteroid, the recommended starting dosage is ADVAIR DISKUS 100/50 or 250/50 twice daily.
 
 The maximum recommended dosage is ADVAIR DISKUS 500/50 twice daily.

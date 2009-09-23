@@ -260,7 +260,7 @@ The “Use by” date is 1 month from date of opening the pouch.
 - The dose indicator on the top of the DISKUS tells you how many doses are left.
   The dose indicator number will decrease each time you use the DISKUS.
   After you have used 55 doses from the DISKUS, the numbers 5 to 0 will appear in red to warn you that there are only a few doses left (see Figure 1).
-  If you are using a “sample” DISKUS, the numbers 5 to 0 will appear in red after 23 doses.
+  If you are using a “sample” DISKUS, the numbers 5 to 0 will appear in red after 9 doses.
 
 Taking a dose from the DISKUS requires the following 3 simple steps: Open, Click, Inhale.
 
@@ -327,7 +327,7 @@ Remember:
 - Always keep the DISKUS in a dry place.
 - Never take an extra dose, even if you did not taste or feel the medicine.
 
-April 2008 ADD:4MG
+October 2008 ADD:5MG
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
