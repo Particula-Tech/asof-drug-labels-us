@@ -1,19 +1,37 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022253",
+    "NDA022254"
+  ],
   "inn": "lacosamide",
-  "labeler": "UCB, Inc.",
+  "labeler": "Schwarz Pharma Manufacturing, Inc.",
   "package_ndcs": [
     "0131-1810-67",
+    "0131-2470-99",
     "0131-2477-35",
-    "0131-2477-47",
+    "0131-2477-99",
     "0131-2478-35",
-    "0131-2478-47",
+    "0131-2478-99",
     "0131-2479-35",
-    "0131-2479-47",
-    "0131-2480-35",
-    "0131-2480-47"
+    "0131-2480-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "lacosamide",
+      "name": "VIMPAT"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lacosamide",
+      "name": "VIMPAT"
+    },
+    {
+      "form": "KIT",
+      "generic": "lacosamide",
+      "name": "Vimpat"
+    }
+  ],
   "setid": "9e79b42c-38a3-4b2c-a196-a5a1948250e2",
   "source": "dailymed"
 }
