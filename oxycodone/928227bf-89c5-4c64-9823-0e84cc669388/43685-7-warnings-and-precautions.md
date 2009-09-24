@@ -57,16 +57,16 @@ Opioids like oxycodone hydrochloride tablets may cause increases in the serum am
 
 If clinically advisable, patients (or their caregivers) receiving oxycodone hydrochloride tablets should be given the following information by the physician, nurse, pharmacist or caregiver:
 
-- Patients should be advised to report episodes of breakthrough pain and adverse experiences occurring during therapy.
-  Individualization of dosage is essential to make optimal use of this medication.
-- Patients should be advised not to adjust the dose of oxycodone hydrochloride tablets without consulting the prescribing professional.
-- Patients should be advised that oxycodone hydrochloride tablets may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating heavy machinery).
-- Patients should not combine oxycodone hydrochloride tablets with alcohol or other central nervous system depressants (sleep aids, tranquilizers) except by the orders of the prescribing physician, because additive effects may occur.
-- Women of childbearing potential who become, or are planning to become, pregnant should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child.
-- Patients should be advised that oxycodone hydrochloride tablets are a potential drug of abuse.
-  They should protect them from theft, and they should never be given to anyone other than the individual for whom they were prescribed.
-- Patients should be advised that if they have been receiving treatment with oxycodone hydrochloride tablets for more than a few weeks and cessation of therapy is indicated, it may be appropriate to taper the oxycodone hydrochloride tablets dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
-  Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
+1. Patients should be advised to report episodes of breakthrough pain and adverse experiences occurring during therapy.
+   Individualization of dosage is essential to make optimal use of this medication.
+2. Patients should be advised not to adjust the dose of oxycodone hydrochloride tablets without consulting the prescribing professional.
+3. Patients should be advised that oxycodone hydrochloride tablets may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g. driving, operating heavy machinery).
+4. Patients should not combine oxycodone hydrochloride tablets with alcohol or other central nervous system depressants (sleep aids, tranquilizers) except by the orders of the prescribing physician, because additive effects may occur.
+5. Women of childbearing potential who become, or are planning to become, pregnant should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child.
+6. Patients should be advised that oxycodone hydrochloride tablets are a potential drug of abuse.
+   They should protect them from theft, and they should never be given to anyone other than the individual for whom they were prescribed.
+7. Patients should be advised that if they have been receiving treatment with oxycodone hydrochloride tablets for more than a few weeks and cessation of therapy is indicated, it may be appropriate to taper the oxycodone hydrochloride tablets dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
+   Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
 
 ## Drug Interactions
 
@@ -90,6 +90,9 @@ The use of oxycodone hydrochloride tablets is not recommended for patients takin
 
 Long-term studies have not been performed in animals to evaluate the carcinogenic potential of oxycodone hydrochloride tablets or oxycodone.
 The possible effects on male or female fertility have not been studied in animals.
+
+Oxycodone hydrochloride was genotoxic in an in vitro mouse lymphoma assay in the presence of metabolic activation.
+There was no evidence of genotoxic potential in an in vitro bacterial reverse mutation assay (Salmonella typhimurium and Escherichia coli) or in an assay for chromosomal aberrations (in vivo mouse bone marrow micronucleus assay).
 
 ## Pregnancy
 

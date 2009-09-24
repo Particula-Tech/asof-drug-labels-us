@@ -18,12 +18,14 @@ NDC 0406-8530-01
 
 ## DEA Order Form Required
 
-Dispense in tight, light-resistant container with child-resistant closure.
+Dispense in a tight, light-resistant container with child-resistant closure.
 
 Protect from moisture.
 Protect from light.
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
+To request medical information or to report suspected adverse reactions, contact Product Monitoring at 1-800-778-7898.
 
 is a trademark of Mallinckrodt Inc.
 
@@ -31,4 +33,4 @@ Mallinckrodt Inc., Hazelwood, MO 63042 USA.
 
 COVIDIEN™ Mallinckrodt
 
-Printed in U.S.A. Rev 122308
+Printed in U.S.A. Rev 05/2009

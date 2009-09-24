@@ -14,7 +14,7 @@ For control of severe chronic pain, oxycodone hydrochloride tablets should be ad
 As with any potent opioid, it is critical to adjust the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience.
 Although it is not possible to list every condition that is important to the selection of the initial dose of oxycodone hydrochloride tablets, attention should be given to: 1) the daily dose, potency, and characteristics of a pure agonist or mixed agonist/antagonist the patient has been taking previously, 2) the reliability of the relative potency estimate to calculate the dose of oxycodone needed, 3) the degree of opioid tolerance, 4) the general condition and medical status of the patient, and 5) the balance between pain control and adverse experiences.
 
-## Conversion From Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs
+## Conversion from Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs
 
 When converting patients from fixed ratio opioid/non-opioid drug regimens a decision should be made whether or not to continue the non-opioid analgesic.
 If a decision is made to discontinue the use of non-opioid analgesic, it may be necessary to titrate the dose of oxycodone hydrochloride tablets in response to the level of analgesia and adverse effects afforded by the dosing regimen.
