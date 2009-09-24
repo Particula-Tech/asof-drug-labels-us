@@ -9,6 +9,6 @@ Storage conditions: STORE AT CONTROLLED ROOM
 TEMPERATURE: 15°-30°C (59°-86°F).
 (See USP)
 
-E. FOUGERA & CO. a division of Altana Inc. MELVILLE, NEW YORK 11747
+E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
 
-I2323 R5/03 #29
+I2323A R12/07 #29

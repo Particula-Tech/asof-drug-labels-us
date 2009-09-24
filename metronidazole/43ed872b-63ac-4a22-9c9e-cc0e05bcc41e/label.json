@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076408"
+  ],
   "inn": "metronidazole",
-  "labeler": "E. FOUGERA and CO.",
+  "labeler": "E.FOUGERA & COMPANY A division of Nycomed US Inc.",
   "package_ndcs": [
     "0168-0323-46"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "metronidazole",
+      "name": "Metronidazole"
+    }
+  ],
   "setid": "43ed872b-63ac-4a22-9c9e-cc0e05bcc41e",
   "source": "dailymed"
 }
