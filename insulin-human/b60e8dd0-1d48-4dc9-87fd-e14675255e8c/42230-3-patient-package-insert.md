@@ -1,6 +1,4 @@
-# Supplement Patient Material Section
-
-## INFORMATION FOR THE PATIENT 10 mL Vial
+# INFORMATION FOR THE PATIENT HUMULIN® R REGULAR U–500 (CONCENTRATED) INSULIN HUMAN INJECTION, USP (rDNA ORIGIN)
 
 WARNINGS
 
@@ -9,7 +7,7 @@ THIS LILLY HUMAN INSULIN PRODUCT DIFFERS FROM ANIMAL–SOURCE INSULINS BECAUSE I
 ANY CHANGE OF INSULIN SHOULD BE MADE CAUTIOUSLY AND ONLY UNDER MEDICAL SUPERVISION.
 CHANGES IN PURITY, STRENGTH, BRAND (MANUFACTURER), TYPE (REGULAR, NPH, E.G., LENTE), SPECIES (BEEF, PORK, BEEF–PORK, HUMAN), AND/OR METHOD OF MANUFACTURE (rDNA VERSUS ANIMAL–SOURCE INSULIN) MAY RESULT IN THE NEED FOR A CHANGE IN DOSAGE.
 
-SOME PATIENTS TAKING HUMULIN®(HUMAN INSULIN, rDNA ORIGIN, LILLY) MAY REQUIRE A CHANGE IN DOSAGE FROM THAT USED WITH ANIMAL–SOURCE INSULINS.
+SOME PATIENTS TAKING HUMULIN® (HUMAN INSULIN, rDNA ORIGIN, LILLY) MAY REQUIRE A CHANGE IN DOSAGE FROM THAT USED WITH ANIMAL–SOURCE INSULINS.
 IF AN ADJUSTMENT IS NEEDED, IT MAY OCCUR WITH THE FIRST DOSE OR DURING THE FIRST SEVERAL WEEKS OR MONTHS.
 
 This insulin preparation contains 500 units of insulin in each milliliter.
@@ -156,7 +154,7 @@ If you are planning to have a baby, are pregnant, or are nursing a baby, consult
 Medication
 
 Insulin requirements may be increased if you are taking other drugs with blood–glucose–raising activity, such as oral contraceptives, corticosteroids, or thyroid replacement therapy.
-Insulin requirements may be reduced in the presence of drugs that lower blood glucose or affecthow your body responds to insulin, such as oral antidiabetic agents, salicylates (for example, aspirin), sulfa antibiotics, alcohol, certain antidepressants and some kidney and blood pressure medicines.
+Insulin requirements may be reduced in the presence of drugs that lower blood glucose or affect how your body responds to insulin, such as oral antidiabetic agents, salicylates (for example, aspirin), sulfa antibiotics, alcohol, certain antidepressants and some kidney and blood pressure medicines.
 Your Health Care Professional may be aware of other medications that may affect your diabetes control.
 Therefore, always discuss any medications you are taking with your doctor.
 
@@ -279,3 +277,5 @@ Additional information about Humulin can be obtained by calling The Lilly Answer
 Patient Information revised September 10, 2007
 
 Eli Lilly and Company, Indianapolis, IN 46285, USA
+
+PA 3053 AMP

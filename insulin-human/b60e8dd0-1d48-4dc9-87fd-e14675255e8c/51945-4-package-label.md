@@ -1,0 +1,1 @@
+PACKAGE CARTON – HUMULIN R U-500 Vial 20 mL 1ct Lilly NDC 0002-8501-01 20 mL HI-500 (Concentrated) U-500 Humulin® R REGULAR insulin human injection, USP (rDNA origin) Rx 500 units per mL Warning—High Potency Not For Ordinary Use Rx only
