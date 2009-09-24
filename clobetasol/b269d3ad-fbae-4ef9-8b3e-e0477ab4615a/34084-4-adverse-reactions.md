@@ -1,0 +1,11 @@
+# ADVERSE REACTIONS
+
+TEMOVATE® Scalp Application is generally well tolerated when used for 2-week treatment periods.
+
+The most frequent adverse events reported for TEMOVATE® Scalp Application have been local and have included burning and/or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients.
+Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients.
+
+The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended.
+These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.
+Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients.
+In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended.

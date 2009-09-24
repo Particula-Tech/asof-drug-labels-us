@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075391"
+  ],
+  "inn": "clobetasol",
+  "labeler": "PharmaDerm®, A division of Nycomed US Inc.",
+  "package_ndcs": [
+    "0462-0269-50"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "clobetasol propionate",
+      "name": "Temovate"
+    }
+  ],
+  "setid": "b269d3ad-fbae-4ef9-8b3e-e0477ab4615a",
+  "source": "dailymed"
+}
