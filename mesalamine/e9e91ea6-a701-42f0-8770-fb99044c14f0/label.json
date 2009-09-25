@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "mesalamine",
-  "labeler": "Procter & Gamble Pharmaceuticals",
-  "package_ndcs": [
-    "0149-0783-01"
+  "application_numbers": [
+    "NDA021830"
   ],
-  "products": [],
+  "inn": "mesalamine",
+  "labeler": "Procter & Gamble Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0149-0783-01",
+    "0149-0783-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "Asacol HD"
+    }
+  ],
   "setid": "e9e91ea6-a701-42f0-8770-fb99044c14f0",
   "source": "dailymed"
 }
