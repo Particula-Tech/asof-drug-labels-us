@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019967"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Ranbaxy Laboratories Inc.",
+  "package_ndcs": [
+    "10631-103-15",
+    "10631-103-50"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "halobetasol propionate",
+      "name": "Ultravate"
+    }
+  ],
+  "setid": "f1b22c22-6ee4-4e3e-8de4-8627a8c4c368",
+  "source": "dailymed"
+}
