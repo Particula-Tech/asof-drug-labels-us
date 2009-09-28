@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020533"
+  ],
+  "inn": "ropivacaine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-286-37"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ropivacaine hydrochloride monohydrate",
+      "name": "NAROPIN"
+    }
+  ],
+  "setid": "cb8b926d-cf66-bc7e-c940-e820fd4e877c",
+  "source": "dailymed"
+}
