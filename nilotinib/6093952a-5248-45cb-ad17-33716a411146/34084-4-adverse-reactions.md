@@ -1,6 +1,7 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of the package insert [See Boxed Warning and Warnings and Precautions (5)].
+The following serious adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of the package insert.
+[See Boxed Warning and Warnings and Precautions (5)].
 
 QT prolongation and Sudden Deaths [See Boxed Warning, Warnings and Precautions (5.2, 5.3)]
 
@@ -37,7 +38,7 @@ Discontinuation for drug-related adverse reactions was observed in 11% of CML-CP
 Table 4 shows the percentage of patients experiencing treatment-emergent adverse reactions (excluding laboratory abnormalities) regardless of relationship to study drug.
 Adverse reactions reported in at least 10% of patients who received at least one dose of Tasigna are listed.
 
-Table 4 Treatment-Emergent Adverse Reactions Reported in ≥10% of Patients in the Clinical Studya
+Table 4: Treatment-Emergent Adverse Reactions Reported in ≥10% of Patients in the Clinical Studya
 
 |  |  | CML-CP n=318 |  | CML-AP n=120 |  |
 | --- | --- | --- | --- | --- | --- |
@@ -70,11 +71,11 @@ b NCI Common Terminology Criteria for Adverse Events, Version 3.0
 
 Table 5 shows the percentage of patients experiencing treatment-emergent Grade 3/4 laboratory abnormalities in patients who received at least one dose of Tasigna.
 
-Table 5 Incidence of Clinically Relevant Grade 3/4 Laboratory Abnormalities
+Table 5: Incidence of Clinically Relevant Grade 3/4 Laboratory Abnormalities
 
 |  | CML-CP N=318 | CML-AP N=120 |
 | --- | --- | --- |
-|  | Grades 3/4 * | Grades 3/4 * |
+|  | Grades 3/4* | Grades 3/4* |
 | Hematologic Parameters |  |  |
 | -Thrombocytopenia | 28%1 | 37%2 |
 | -Neutropenia2 | 28% | 37%3 |
@@ -132,7 +133,7 @@ Uncommon: depression, anxiety.
 
 Unknown frequency: disorientation, confusional state.
 
-Nervous System Disorders: Common: dizziness, paresthesia
+Nervous System Disorders: Common: dizziness, paresthesia.
 
 Uncommon: intracranial hemorrhage, migraine, tremor, hypoesthesia, hyperesthesia.
 
@@ -150,7 +151,7 @@ Cardiac Disorders: Common: palpitations, electrocardiogram QT prolonged.
 
 Uncommon: cardiac failure, angina pectoris, atrial fibrillation, pericardial effusion, coronary artery disease, cardiomegaly, cardiac murmur, bradycardia.
 
-Unknown frequency: myocardial infarction, ventricular dysfunction, pericarditis, cardiac flutter, extrasysoles,
+Unknown frequency: myocardial infarction, ventricular dysfunction, pericarditis, cardiac flutter, extrasysoles.
 
 Vascular Disorders: Common: hypertension, flushing.
 

@@ -4,6 +4,21 @@
 
 Pregnancy Category D [See Warnings and Precautions (5.11)]
 
+Nilotinib was studied for effects on embryo-fetal development in pregnant rats and rabbits given oral doses of 10, 30, 100 mg/kg/day, and 30, 100, 300 mg/kg/day, respectively, during organogenesis.
+In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the recommended dose) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
+Nilotinib at doses ≥30 mg/kg/day (approximately 2 times the AUC in patients at the recommended dose) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day a decrease in viable fetuses.
+In rabbits, maternal toxicity at 300 mg/kg/day (approximately one-half the human exposure based on AUC) was associated with mortality, abortion, decreased gestation weights and decreased food consumption.
+Embryonic toxicity (increased resorption) and minor skeletal anomalies were observed at a dose of 300 mg/kg/day.
+Nilotinib is not considered teratogenic.
+
+When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 360 mg/m2 (approximately 0.7 times the clinical dose based on body surface area).
+At doses up to 120 mg/m2 (approximately 0.25 times the clinical dose based on body surface area) no adverse effects were seen in the maternal animals or the pups.
+
+There are no adequate and well controlled studies with Tasigna in pregnant women.
+Women should be advised to avoid becoming pregnant while on Tasigna.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+[See Warnings and Precautions (5.11)].
+
 ## 8.3 Nursing Mothers
 
 It is not known whether nilotinib is excreted in human milk.
@@ -12,24 +27,49 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Tasigna in pediatric patients have not been established.
+The safety and effectiveness of Tasigna in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
 In the single clinical study of Tasigna, approximately 30% of patients were 65 or over.
-CML-CP: There was no difference in major cytogenetic response rate between patients aged <65 years and those > 65 years.
-CML-AP: The major hematologic response rate was 31% in patients < 65 years of age and 15% in patients > 65 years.
+CML-CP: There was no difference in major cytogenetic response rate between patients aged <65 years and those >65 years.
+CML-AP: The major hematologic response rate was 31% in patients <65 years of age and 15% in patients >65 years.
 
-No major differences were observed for safety in patients ≥ 65 years of age as compared to patients < 65 years.
+No major differences were observed for safety in patients ≥65 years of age as compared to patients <65 years.
 
 ## 8.6 Cardiac Disorders
 
-In the single clinical trial, patients with a history of uncontrolled or significant cardiovascular disease were excluded [See Boxed Warning and Warnings and Precautions (5.2)].
+In the single clinical trial, patients with a history of uncontrolled or significant cardiovascular disease, including recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia were excluded.
+Caution should be exercised in patients with relevant cardiac disorders.
+[See Boxed Warning and Warnings and Precautions (5.2)].
 
 ## 8.7 Hepatic Impairment
 
-Tasigna has not been investigated in patients with hepatic impairment.
-Caution is recommended in patients with hepatic impairment [See Boxed Warning, Dosage and Administration (2) and Warnings and Precautions (5.9)].
+Nilotinib exposure is increased in patients with impaired hepatic function.
+In a study of subjects with mild to severe hepatic impairment following a single dose administration of 200 mg of Tasigna, the mean AUC values were increased on average of 35%, 35% and 56% in subjects with mild (Child-Pugh class A, score 5-6), moderate (Child-Pugh class B, score 7-9) and severe hepatic impairment (Child-Pugh class C, score 10-15), respectively, compared to a control group of subjects with normal hepatic function.
+Table 6 summarizes the Child-Pugh Liver Function Classification applied in this study.
+A lower starting dose is recommended in patients with hepatic impairment and QT interval should be monitored closely for these patients.
+[See Boxed Warning, Dosage and Administration (2) and Warnings and Precautions (5.9)].
+
+Table 6: Child-Pugh Liver Function Classification
+
+| Assessment | Degree of Abnormality | Score |
+| --- | --- | --- |
+| Encephalopathy Grade | None | 1 |
+|  | 1 or 2 | 2 |
+|  | 3 or 4 | 3 |
+| Ascites | Absent | 1 |
+|  | Slight | 2 |
+|  | Moderate | 3 |
+| Total Bilirubin (mg/dL) | <2 | 1 |
+|  | 2 - 3 | 2 |
+|  | >3 | 3 |
+| Serum Albumin (g/dL) | >3.5 | 1 |
+|  | 2.8 - 3.5 | 2 |
+|  | <2.8 | 3 |
+| Protrombin Time (seconds prolonged) | <4 | 1 |
+|  | 4 - 6 | 2 |
+|  | >6 | 3 |
 
 ## 8.8 Renal Impairment
 

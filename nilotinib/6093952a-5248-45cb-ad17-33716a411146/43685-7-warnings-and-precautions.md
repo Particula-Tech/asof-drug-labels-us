@@ -10,13 +10,18 @@ Myelosuppression was generally reversible and usually managed by withholding Tas
 ## 5.2 QT Prolongation
 
 Tasigna has been shown to prolong cardiac ventricular repolarization as measured by the QT interval on the surface ECG in a concentration-dependent manner.
+[See Clinical Pharmacology (12.4)].
 Prolongation of the QT interval can result in a type of ventricular tachycardia called Torsade de pointes, which may result in syncope, seizure, and/or death.
+ECGs should be performed at baseline, seven days after initiation, periodically as clinically indicated and following dose adjustments.
 
 Tasigna should not be used in patients who have hypokalemia, hypomagnesemia or long QT syndrome.
 Hypokalemia or hypomagnesemia must be corrected prior to initiating Tasigna and these electrolytes should be monitored periodically during therapy.
-Avoid drugs known to prolong the QT interval and strong CYP3A4 inhibitors.
-ECGs should be performed at baseline, seven days after initiation, periodically as clinically indicated and following dose adjustments.
-[See Clinical Pharmacology (12.4)].
+
+Significant prolongation of the QT interval may occur when Tasigna is inappropriately taken with food, and/or strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT.
+Therefore, co-administration with food must be avoided and concomitant use with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT should be avoided.
+[See Drug Interactions (5.7) and Food Effects (5.8)].
+The presence of hypokalaemia and hypomagnesaemia may further enhance this effect.
+[See Electrolyte Abnormalities (5.6), Monitoring Laboratory Tests (5.12), and Warnings and Precautions (5.8)].
 
 ## 5.3 Sudden Deaths
 
@@ -28,12 +33,12 @@ The relative early occurrence of some of these deaths relative to the initiation
 
 The use of Tasigna can cause increases in serum lipase.
 Caution is recommended in patients with a previous history of pancreatitis.
-Serum lipase should be checked periodically.
+Serum lipase levels should be tested monthly or as clinically indicated.
 
 ## 5.5 Hepatotoxicity
 
 The use of Tasigna may result in elevations in bilirubin, AST/ALT, and alkaline phosphatase.
-Hepatic function tests should be checked periodically.
+Hepatic function tests should be checked monthly or as clinically indicated.
 
 ## 5.6 Electrolyte Abnormalities
 
@@ -42,7 +47,7 @@ Electrolyte abnormalities must be corrected prior to initiating Tasigna and thes
 
 ## 5.7 Drug Interactions
 
-The administration of Tasigna with agents that are strong CYP3A4 inhibitors or prolong QT should be avoided.
+The administration of Tasigna with agents that are strong CYP3A4 inhibitors or anti-arrhythmic drugs (including, but not limited to amiodarone, disopyramide, procainamide, quinidine and sotalol) and other drugs that may prolong QT interval (including, but not limited to chloroquine, halofantrine, clarithromycin, haloperidol, methadone, moxifloxacin, bepridil and pimozide) should be avoided.
 Should treatment with any of these agents be required, it is recommended that therapy with Tasigna be interrupted.
 If interruption of treatment with Tasigna is not possible, patients who require treatment with a drug that prolongs QT or strongly inhibits CYP3A4 should be closely monitored for prolongation of the QT interval.
 [See Boxed Warning, Dosage and Administration (2), and Drug Interactions (7.2)].
@@ -50,44 +55,33 @@ If interruption of treatment with Tasigna is not possible, patients who require 
 ## 5.8 Food Effects
 
 The bioavailability of nilotinib is increased with food.
-Tasigna should not be taken with food.
+Tasigna must not be taken with food.
 No food should be taken at least 2 hours before and at least one hour after the dose is taken.
 Grapefruit products and other foods that are known to inhibit CYP3A4 should be avoided.
 [See Boxed Warning, Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 5.9 Hepatic Impairment
 
-Tasigna has not been investigated in patients with hepatic impairment.
-Clinical studies have excluded patients with ALT and/or AST >2.5 (or >5, if related to disease) times the upper limit of the normal range and/or total bilirubin >1.5 times the upper limit of the normal range.
-Metabolism of nilotinib is mainly hepatic.
-Caution is recommended in patients with hepatic impairment.
-These patients should be closely monitored for QT interval prolongation.
+Nilotinib exposure is increased in patients with impaired hepatic function.
+A lower starting dose is recommended for patients with mild to severe hepatic impairment and QT interval should be monitored closely.
 [See Boxed Warning, Dosage and Administration (2) and Use in Specific Populations (8.7)].
 
 ## 5.10 Lactose
 
-Since the capsules contain lactose, Tasigna is not recommended for patients with rare hereditary problems of galactose intolerance, severe lactase deficiency or of glucose-galactose malabsorption.
+Since the capsules contain lactose, Tasigna is not recommended for patients with rare hereditary problems of galactose intolerance, severe lactase deficiency with a severe degree of intolerance to lactose-containing products or of glucose-galactose malabsorption.
 
-## 5.11 Pregnancy
+## 5.11 Use in Pregnancy
 
-Pregnancy Category D
-
-Tasigna can cause fetal harm when administered to a pregnant woman.
-
-Nilotinib was studied for effects on embryo-fetal development in pregnant rats (GD 6-17) and rabbits (GD 7-20) given oral doses of 10, 30, 100 mg/kg/day, and 30, 100, 300 mg/kg/day, respectively.
-In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 fold the AUC in patients at the recommended human dose) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
-Nilotinib at doses ≥ 30 mg/kg/day resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day a decrease in viable fetuses.
-In rabbits, maternal toxicity at 300 mg/kg/day (approximately one-half the human exposure based on AUC) was associated with mortality, abortion, decreased gestation weights and decreased food consumption.
-Embryonic toxicity (increased resorption) and minor skeletal anomalies were observed at a dose of 300 mg/kg/day.
-Nilotinib is not considered teratogenic.
-
-There are no adequate and well controlled studies with Tasigna in pregnant women.
-Women should be advised to avoid becoming pregnant.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+There are no adequate and well controlled studies of Tasigna in pregnant women.
+However, Tasigna may cause fetal harm when administered to a pregnant woman.
+Nilotinib caused embryo-fetal toxicities in laboratory animals at maternal exposures that were lower than the expected human exposure at the recommended dose of 400 mg BID.
+Women of child-bearing potential should avoid becoming pregnant while taking Tasigna and should be advised of the potential hazard to the fetus if they do.
+[See Use in Specific Populations (8.1)]
 
 ## 5.12 Monitoring Laboratory Tests
 
 Complete blood counts should be performed every two weeks for the first two months and then monthly thereafter.
 Chemistry panels should be checked periodically.
-ECGs should be obtained at baseline, seven days after initiation and periodically thereafter, as well as following dose adjustments [See Warnings and Precautions (5.2)].
+ECGs should be obtained at baseline, seven days after initiation and periodically thereafter, as well as following dose adjustments.
+[See Warnings and Precautions (5.2)].
 Laboratory monitoring for patients receiving Tasigna may need to be performed more or less frequently at the physician’s discretion.

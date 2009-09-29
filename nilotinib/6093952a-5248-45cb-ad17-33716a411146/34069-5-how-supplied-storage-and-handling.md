@@ -9,4 +9,4 @@ Blisters of 28 capsules……………………………………….…….NDC 
 
 Each blister pack contains one folded blister card of 28 capsules each, for dosing two in the morning and two in the evening at 12 hour intervals over a 7 day period.
 
-Tasigna (nilotinib) Capsules, 200 mg, should be stored at 25º C (77º F); excursions permitted between 15°–30° C (59º–86º F) [see USP Controlled Room Temperature].
+Tasigna (nilotinib) Capsules, 200 mg, should be stored at 25°C (77°F); excursions permitted between 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
