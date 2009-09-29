@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075635"
+  ],
+  "inn": "etoposide",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-3266-94"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "etoposide",
+      "name": "Etoposide"
+    }
+  ],
+  "setid": "508a418e-985f-4208-9324-2230655bb5c2",
+  "source": "dailymed"
+}
