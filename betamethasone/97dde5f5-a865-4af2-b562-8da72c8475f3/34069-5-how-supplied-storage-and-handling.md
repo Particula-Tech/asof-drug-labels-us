@@ -10,6 +10,6 @@
 Store at 25°C, excursions permitted between 15° and 30°C.
 Protect from light and freezing.
 
-E. FOUGERA & CO. a division of Altana Inc. MELVILLE, NEW YORK 11747
+E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
 
-I255G R7/06 #74
+I255H R1/08 #74

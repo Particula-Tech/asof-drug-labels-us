@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA019137",
+    "ANDA019141",
+    "ANDA070275"
+  ],
   "inn": "betamethasone",
-  "labeler": "E. FOUGERA and CO",
+  "labeler": "E. FOUGERA & CO. A division of Nycomed US Inc.",
   "package_ndcs": [
     "0168-0055-15",
     "0168-0055-46",
@@ -9,7 +13,23 @@
     "0168-0056-46",
     "0168-0057-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "betamethasone dipropionate",
+      "name": "Betamethasone Dipropionate"
+    },
+    {
+      "form": "LOTION",
+      "generic": "betamethasone dipropionate",
+      "name": "Betamethasone Dipropionate"
+    },
+    {
+      "form": "OINTMENT",
+      "generic": "betamethasone dipropionate",
+      "name": "Betamethasone Dipropionate"
+    }
+  ],
   "setid": "97dde5f5-a865-4af2-b562-8da72c8475f3",
   "source": "dailymed"
 }
