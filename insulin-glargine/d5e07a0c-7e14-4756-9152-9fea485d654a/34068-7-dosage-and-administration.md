@@ -1,56 +1,42 @@
-# DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
-LANTUS is a recombinant human insulin analog.
-Its potency is approximately the same as human insulin.
-It exhibits a relatively constant glucose-lowering profile over 24 hours that permits once-daily dosing.
+## 2.1 Dosing
+
+LANTUS is a recombinant human insulin analog for once daily subcutaneous administration with potency that is approximately the same as the potency of human insulin.
+LANTUS exhibits a relatively constant glucose-lowering profile over 24 hours that permits once-daily dosing.
 
 LANTUS may be administered at any time during the day.
 LANTUS should be administered subcutaneously once a day at the same time every day.
-For patients adjusting timing of dosing with LANTUS, see WARNINGS and PRECAUTIONS, Hypoglycemia.
-LANTUS is not intended for intravenous administration (see PRECAUTIONS).
-Intravenous administration of the usual subcutaneous dose could result in severe hypoglycemia.
-The desired blood glucose levels as well as the doses and timing of antidiabetes medications must be determined individually.
-Blood glucose monitoring is recommended for all patients with diabetes.
-The prolonged duration of activity of LANTUS is dependent on injection into subcutaneous space.
+The dose of LANTUS must be individualized based on clinical response.
+Blood glucose monitoring is essential in all patients receiving insulin therapy.
 
-As with all insulins, injection sites within an injection area (abdomen, thigh, or deltoid) must be rotated from one injection to the next.
+Patients adjusting the amount or timing of dosing with LANTUS, should only do so under medical supervision with appropriate glucose monitoring [see Warnings and Precautions (5.1).]
 
-In clinical studies, there was no relevant difference in insulin glargine absorption after abdominal, deltoid, or thigh subcutaneous administration.
-As for all insulins, the rate of absorption, and consequently the onset and duration of action, may be affected by exercise and other variables.
+In patients with type 1 diabetes, LANTUS must be used in regimens with short-acting insulin.
 
-LANTUS is not the insulin of choice for the treatment of diabetes ketoacidosis.
-Intravenous short-acting insulin is the preferred treatment.
+The intended duration of activity of LANTUS is dependent on injection into subcutaneous tissue [see Clinical pharmacology (12.2)].
+LANTUS should not be administered intravenously or via an insulin pump.
+Intravenous administration of the usual subcutaneous dose could result in severe hypoglycemia [see Warnings and Precautions (5.3)].
 
-## Pediatric Use
+As with all insulins, injection sites should be rotated within the same region (abdomen, thigh, or deltoid) from one injection to the next to reduce the risk of lipodystrophy [See Adverse Reactions (6.1)].
 
-LANTUS can be safely administered to pediatric patients ≥6 years of age.
-Administration to pediatric patients <6 years has not been studied.
-Based on the results of a study in pediatric patients, the dose recommendation for changeover to LANTUS is the same as described for adults in DOSAGE AND ADMINISTRATION, Changeover to LANTUS.
+In clinical studies, there was no clinically relevant difference in insulin glargine absorption after abdominal, deltoid, or thigh subcutaneous administration.
+As for all insulins, the rate of absorption, and consequently the onset and duration of action, may be affected by exercise and other variables, such as stress, intercurrent illness, or changes in co-administered drugs or meal patterns.
 
-## Initiation of LANTUS Therapy
+## 2.2 Initiation of LANTUS therapy
 
-In a clinical study with insulin naïve patients with type 2 diabetes already treated with oral antidiabetes drugs, LANTUS was started at an average dose of 10 IU once daily, and subsequently adjusted according to the patient's need to a total daily dose ranging from 2 to 100 IU.
+The recommended starting dose of LANTUS in patients with type 1 diabetes should be approximately one-third of the total daily insulin requirements.
+Short-acting, premeal insulin should be used to satisfy the remainder of the daily insulin requirements.
 
-## Changeover to LANTUS
+The recommended starting dose of LANTUS in patients with type 2 diabetes who are not currently treated with insulin is 10 units (or 0.2 Units/kg) once daily, which should subsequently be adjusted to the patient's needs.
 
-If changing from a treatment regimen with an intermediate- or long-acting insulin to a regimen with LANTUS, the amount and timing of short-acting insulin or fast-acting insulin analog or the dose of any oral antidiabetes drug may need to be adjusted.
-In clinical studies, when patients were transferred from once-daily NPH human insulin or ultralente human insulin to once-daily LANTUS, the initial dose was usually not changed.
-However, when patients were transferred from twice-daily NPH human insulin to LANTUS once daily, to reduce the risk of hypoglycemia, the initial dose (IU) was usually reduced by approximately 20% (compared to total daily IU of NPH human insulin) and then adjusted based on patient response (see PRECAUTIONS, Hypoglycemia).
+The dose of LANTUS should be adjusted according to blood glucose measurements.
+The dosage of LANTUS should be individualized under the supervision of a healthcare provider in accordance with the needs of the patient.
 
-A program of close metabolic monitoring under medical supervision is recommended during transfer and in the initial weeks thereafter.
-The amount and timing of short-acting insulin or fast-acting insulin analog may need to be adjusted.
-This is particularly true for patients with acquired antibodies to human insulin needing high-insulin doses and occurs with all insulin analogs.
-Dose adjustment of LANTUS and other insulins or oral antidiabetes drugs may be required; for example, if the patient's timing of dosing, weight or lifestyle changes, or other circumstances arise that increase susceptibility to hypoglycemia or hyperglycemia (see PRECAUTIONS, Hypoglycemia).
+## 2.3 Converting to LANTUS from other insulin therapies
 
-The dose may also have to be adjusted during intercurrent illness (see PRECAUTIONS, Intercurrent Conditions).
+If changing from a treatment regimen with an intermediate- or long-acting insulin to a regimen with LANTUS, the amount and timing of shorter-acting insulins and doses of any oral anti-diabetic drugs may need to be adjusted.
 
-## Preparation and Handling
-
-Parenteral drug products should be inspected visually prior to administration whenever the solution and the container permit.
-LANTUS must only be used if the solution is clear and colorless with no particles visible.
-
-Mixing and diluting: LANTUS must NOT be diluted or mixed with any other insulin or solution (see PRECAUTIONS, General).
-
-Vial: The syringes must not contain any other medicinal product or residue.
-
-Cartridge system: If OptiClik®, the Insulin Delivery Device for LANTUS, malfunctions, LANTUS may be drawn from the cartridge system into a U-100 syringe and injected.
+- If transferring patients from once-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is the same as the dose of NPH that is being discontinued.
+- If transferring patients from twice-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is 80% of the total NPH dose that is being discontinued.
+  This dose reduction will lower the likelihood of hypoglycemia [see Warnings and Precautions (5.3)].

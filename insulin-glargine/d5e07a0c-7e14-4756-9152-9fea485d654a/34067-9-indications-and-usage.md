@@ -1,3 +1,8 @@
-# INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
-LANTUS is indicated for once-daily subcutaneous administration for the treatment of adult and pediatric patients with type 1 diabetes mellitus or adult patients with type 2 diabetes mellitus who require basal (long-acting) insulin for the control of hyperglycemia.
+LANTUS is indicated to improve glycemic control in adults and children with type 1 diabetes mellitus and in adults with type 2 diabetes mellitus.
+
+Important Limitations of Use:
+
+- LANTUS is not recommended for the treatment of diabetic ketoacidosis.
+  Intravenous short-acting insulin is the preferred treatment for this condition.

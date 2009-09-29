@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
-LANTUS is contraindicated in patients hypersensitive to insulin glargine or the excipients.
+LANTUS is contraindicated in patients with hypersensitivity to LANTUS or one of its excipients.
