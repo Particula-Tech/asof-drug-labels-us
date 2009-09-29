@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022202"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Xanodyne Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "66479-592-10",
+    "66479-592-88"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "diclofenac pottasium",
+      "name": "Zipsor"
+    }
+  ],
+  "setid": "fa385cd1-c221-11dd-ad8b-0800200c9a66",
+  "source": "dailymed"
+}
