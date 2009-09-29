@@ -1,10 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040419"
+  ],
   "inn": "codeine",
-  "labeler": "Mallinckrodt Inc.",
+  "labeler": "Mallinckrodt, Inc.",
   "package_ndcs": [
     "0406-0483-01",
-    "0406-0483-10",
     "0406-0484-01",
     "0406-0484-03",
     "0406-0484-10",
@@ -14,7 +15,13 @@
     "0406-0485-01",
     "0406-0485-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "acetaminophen and codeine phosphate",
+      "name": "ACETAMINOPHEN AND CODEINE PHOSPHATE"
+    }
+  ],
   "setid": "eadc80fa-13c3-471a-a22f-6fe7e1ab290f",
   "source": "dailymed"
 }

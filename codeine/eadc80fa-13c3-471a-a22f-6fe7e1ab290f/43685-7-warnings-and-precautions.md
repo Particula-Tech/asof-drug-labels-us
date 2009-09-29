@@ -12,7 +12,7 @@ Consequently, the extended use of this product is not recommended.
 
 ## General
 
-Acetaminophen and codeine phosphate tablets should be prescribed with caution in certain special-risk patients, such as the elderly or debilitated, and those with severe impairment of renal or hepatic function, head injuries, elevated intracranial pressure, acute abdominal conditions, hypothyroidism, urethral stricture, Addison's disease, or prostatic hypertrophy.
+Acetaminophen and codeine phosphate tablets should be prescribed with caution in certain special risk patients, such as the elderly or debilitated, and those with severe impairment of renal or hepatic function, head injuries, elevated intracranial pressure, acute abdominal conditions, hypothyroidism, urethral stricture, Addison's disease, or prostatic hypertrophy.
 
 Ultra-rapid Metabolizers of Codeine - Some individuals may be ultra-rapid metabolizers due to a specific CYP2D6*2x2 genotype.
 These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
@@ -49,13 +49,13 @@ In patients with severe hepatic or renal disease, effects of therapy should be m
 
 ## Drug Interactions
 
-This drug may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression.
+This drug may enhance the effects of other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression.
 
 ## Drug/Laboratory Test Interactions
 
 Codeine may increase serum amylase levels.
 
-Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
+Acetaminophen may produce false positive test results for urinary 5-hydroxyindoleacetic acid.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -68,7 +68,7 @@ Acetaminophen and codeine have been found to have no mutagenic potential using t
 
 ### Teratogenic Effects. Pregnancy Category C
 
-Codeine - A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of organogenesis in doses ranging from 5 to 120 mg/kg.
+Codeine – A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of organogenesis in doses ranging from 5 to 120 mg/kg.
 In the rat, doses at the 120 mg/kg level, in the toxic range for the adult animal, were associated with an increase in embryo resorption at the time of implantation.
 In another study a single 100 mg/kg dose of codeine administered to pregnant mice reportedly resulted in delayed ossification in the offspring.
 
@@ -92,8 +92,8 @@ The effect of codeine, if any, on the later growth, development, and functional 
 
 ## Nursing Mothers
 
-Acetaminophen and codeine are excreted in breast milk in small amounts, but the significance of their effects on nursing infants is not known.
-Because of their potential for serious adverse reactions in nursing infants from acetaminophen and codeine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Acetaminophen is excreted in breast milk in small amounts, but the significance of its effects on nursing infants is not known.
+Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother.
 
 Codeine is secreted into human milk.
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
@@ -110,4 +110,4 @@ Caution should be exercised when codeine is administered to a nursing woman.
 If a codeine containing product is selected, the lowest dose should be prescribed for the shortest period of time to achieve the desired clinical effect.
 Mothers using codeine should be informed about when to seek immediate medical care and how to identify the signs and symptoms of neonatal toxicity, such as drowsiness or sedation, difficulty breastfeeding, breathing difficulties, and decreased tone, in their baby.
 Nursing mothers who are ultra-rapid metabolizers may also experience overdose symptoms such as extreme sleepiness, confusion or shallow breathing.
-Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding (see PRECAUTIONS: General, Ultra-rapid Metabolizers of Codeine).
+Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding (see PRECAUTIONS, General, Ultra-rapid Metabolizers of Codeine).

@@ -4,13 +4,13 @@ Following an acute overdosage, toxicity may result from codeine or acetaminophen
 
 ## Signs and Symptoms
 
-Codeine - Toxicity from codeine poisoning includes the opioid triad of: pinpoint pupils, depression of respiration, and loss of consciousness.
+Codeine – Toxicity from codeine poisoning includes the opioid triad of pinpoint pupils, depression of respiration, and loss of consciousness.
 Convulsions may occur.
 
-Acetaminophen - In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
+Acetaminophen – In acetaminophen overdosage, dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necrosis, hypoglycemic coma and thrombocytopenia may also occur.
 
-Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis and general malaise.
+Early symptoms following a potentially hepatotoxic overdose may include nausea, vomiting, diaphoresis and general malaise.
 Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post-ingestion.
 
 In adults hepatic toxicity has rarely been reported with acute overdoses of less than 10 grams, or fatalities with less than 15 grams.
@@ -26,7 +26,7 @@ The first dose should be accompanied by an appropriate cathartic.
 If repeated doses are used, the cathartic might be included with alternate doses as required.
 Hypotension is usually hypovolemic and should respond to fluids.
 Vasopressors and other supportive measures should be employed as indicated.
-A cuffed endo-tracheal tube should be inserted before gastric lavage of the unconscious patient and, when necessary, to provide assisted respiration.
+A cuffed endotracheal tube should be inserted before gastric lavage of the unconscious patient and, when necessary, to provide assisted respiration.
 
 Meticulous attention should be given to maintaining adequate pulmonary ventilation.
 In severe cases of intoxication, peritoneal dialysis, or preferably hemodialysis may be considered.
@@ -46,6 +46,6 @@ Methemoglobinemia over 30% should be treated with methylene blue by slow intrave
 
 ## Toxic Doses (For Adults)
 
-Acetaminophen - toxic dose 10 g
+Acetaminophen – toxic dose 10 g
 
-Codeine - toxic dose 240 mg
+Codeine – toxic dose 240 mg

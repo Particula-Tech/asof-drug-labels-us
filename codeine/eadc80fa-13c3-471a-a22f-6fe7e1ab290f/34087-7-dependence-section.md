@@ -2,7 +2,7 @@
 
 ## Controlled Substance
 
-Acetaminophen and Codeine Phosphate tablets are classified as a Schedule III controlled substance.
+Acetaminophen and codeine phosphate tablets are classified as a Schedule III controlled substance.
 
 ## Abuse and Dependence
 
