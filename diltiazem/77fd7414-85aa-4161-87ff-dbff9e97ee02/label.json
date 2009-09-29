@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020401"
+  ],
   "inn": "diltiazem",
-  "labeler": "Forest Pharmaceuticals, Inc.",
+  "labeler": "Forest Laboratories, Inc.",
   "package_ndcs": [
     "0456-2612-00",
     "0456-2612-07",
@@ -33,7 +35,13 @@
     "0456-2617-30",
     "0456-2617-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride",
+      "name": "Tiazac Extended Release"
+    }
+  ],
   "setid": "77fd7414-85aa-4161-87ff-dbff9e97ee02",
   "source": "dailymed"
 }
