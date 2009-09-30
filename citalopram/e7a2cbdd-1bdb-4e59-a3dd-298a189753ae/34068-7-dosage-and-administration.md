@@ -15,7 +15,7 @@ Citalopram should be used with caution in patients with severe renal impairment.
 
 ## Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to citalopram and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS ).
+Neonates exposed to citalopram and other SSRIs or SNRIs, late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS ).
 When treating pregnant women with citalopram during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering citalopram in the third trimester.
 

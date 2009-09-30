@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077812"
+  ],
   "inn": "citalopram",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-074-24"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "citalopram hydrobromide",
+      "name": "Citalopram Hydrobromide"
+    }
+  ],
   "setid": "e7a2cbdd-1bdb-4e59-a3dd-298a189753ae",
   "source": "dailymed"
 }

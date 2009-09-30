@@ -2,12 +2,11 @@
 
 ## Human Experience
 
-In clinical trials of citalopram, there were reports of citaloprim overdose, including overdoses of up to 2000 mg, with no associated fatalities.
+In clinical trials of citalopram, there were reports of citalopram overdose, including overdoses of up to 2000 mg, with no associated fatalities.
 During the postmarketing evaluation of citalopram, citalopram overdoses, including overdoses of up to 6000 mg, have been reported.
 As with other SSRIs, a fatal outcome in a patient who has taken an overdose of citalopram has been rarely reported.
 Symptoms most often accompanying citalopram overdose, alone or in combination with other drugs and/or alcohol, included dizziness, sweating, nausea, vomiting, tremor, somnolence, and sinus tachycardia.
-In more rare cases, observed symptoms included amnesia, confusion, coma, convulsions, hyperventilation, cyanosis, rhabdomyolysis, and ECG changes (including QTc prolongation, nodal rhythm, ventricular arrhythmia, and very rare cases of torsade de pointes).
-Acute renal failure has been very rarely reported accompanying overdose.
+In more rare cases, observed symptoms included amnesia, confusion, coma, convulsions, hyperventilation, cyanosis, rhabdomyolysis, and ECG changes (including QTc prolongation, nodal rhythm, ventricular arrhythmia, and very rare cases of torsade de pointes).Acute renal failure has been very rarely reported accompanying overdose.
 
 ## Management of Overdose
 

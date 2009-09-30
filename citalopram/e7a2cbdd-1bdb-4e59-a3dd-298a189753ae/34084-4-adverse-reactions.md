@@ -2,7 +2,7 @@
 
 The premarketing development program for citalopram included citalopram exposures in patients and/or normal subjects from 3 different groups of studies: 429 normal subjects in clinical pharmacology/pharmacokinetic studies; 4422 exposures from patients in controlled and uncontrolled clinical trials, corresponding to approximately 1370 patient-exposure years.
 There were, in addition, over 19,000 exposures from mostly open-label, European postmarketing studies.
-The conditions and duration of treatment with citalopram varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed-dose and dose-titration studies, and short-termand long-term exposure.
+The conditions and duration of treatment with citalopram varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed-dose and dose-titration studies, and short-term and long-term exposure.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
@@ -67,7 +67,7 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | Musculoskeletal System Disorders |  |  |
 | Arthralgia | 2% | 1% |
 | Myalgia | 2% | 1% |
-| Psychiatric Disorder |  |  |
+| Psychiatric Disorders |  |  |
 | Somnolence | 18% | 10% |
 | Insomnia | 15% | 14% |
 | Anxiety | 4% | 3% |
@@ -83,15 +83,11 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | Urogenital |  |  |
 | Ejaculation Disorder2,3 | 6% | 1% |
 | Impotence3 | 3% | <1% |
-
-* Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
-1 Denominator used was for females only (N=638 citalopram; N=252 placebo).
-2 Primarily ejaculatory delay.
-3 Denominator used was for males only (N=425 citalopram; N=194 placebo).
+| * Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. 1 Denominator used was for females only (N=638 citalopram; N=252 placebo). 2 Primarily ejaculatory delay. 3 Denominator used was for males only (N=425 citalopram; N=194 placebo). |  |  |
 
 ### Dose Dependency of Adverse Events
 
-The potential relationship between the dose of citalopram administered and the incidence of adverse events was examined in a fixed dose study in depressed patients receiving placebo or citalopram 10, 20, 40, and 60 mg.
+The potential relationship between the dose of citalopram administered and the incidence of adverse events was examined in a fixed-dose study in depressed patients receiving placebo or citalopram 10, 20, 40, and 60 mg.
 Jonckheere’s trend test revealed a positive dose response (p<0.05) for the following adverse events: fatigue, impotence, insomnia, sweating increased, somnolence, and yawning.
 
 ### Male and Female Sexual Dysfunction with SSRIs
@@ -115,7 +111,7 @@ While it is difficult to know the precise risk of sexual dysfunction associated 
 
 ### Vital Sign Changes
 
-Citalopram and placebo groups were compared with respect to (1) mean change from baseline invital signs (pulse, systolic blood pressure, and diastolic blood pressure) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
+Citalopram and placebo groups were compared with respect to (1) mean change from baseline in vital signs (pulse, systolic blood pressure, and diastolic blood pressure) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses did not reveal any clinically important changes in vital signs associated with citalopram treatment.
 In addition, a comparison of supine and standing vital sign measures for citalopram and placebo treatments indicated that citalopram treatment is not associated with orthostatic changes.
 
@@ -157,14 +153,15 @@ Rare: pulmonary embolism, granulocytopenia, lymphocytosis, lymphopenia, hypochro
 Metabolic and Nutritional Disorders - Frequent: decreased weight, increased weight.
 Infrequent: increased hepatic enzymes, thirst, dry eyes, increased alkaline phosphatase, abnormal glucose tolerance.
 Rare: bilirubinemia, hypokalemia, obesity, hypoglycemia, hepatitis, dehydration.
-Musculoskeletal System Disorders - Infrequent: arthritis, muscle weakness, skeletal pain.
+Musculoskeletal System Disorders - Infrequent : arthritis, muscle weakness, skeletal pain.
 Rare: bursitis, osteoporosis.
 Psychiatric Disorders - Frequent: impaired concentration, amnesia, apathy, depression, increased appetite, aggravated depression, suicide attempt, confusion.
 Infrequent: increased libido, aggressive reaction, paroniria, drug dependence, depersonalization, hallucination, euphoria, psychotic depression, delusion, paranoid reaction, emotional lability, panic reaction, psychosis.
 Rare: catatonic reaction, melancholia.
 Reproductive Disorders/Female* - Frequent: amenorrhea.
-Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage. * % based on female subjects only: 2955 Respiratory System Disorders - Frequent: coughing.
-Infrequent: bronchitis, dyspnea, pneumonia Rare: asthma, laryngitis, bronchospasm, pneumonitis, sputum increased.
+Infrequent : galactorrhea, breast pain, breast enlargement, vaginal hemorrhage. * % based on female subjects only: 2955 Respiratory System Disorders - Frequent: coughing.
+Infrequent: bronchitis, dyspnea, pneumonia.
+Rare: asthma, laryngitis, bronchospasm, pneumonitis, sputum increased.
 Skin and Appendages Disorders - Frequent: rash, pruritus.
 Infrequent: photosensitivity reaction, urticaria, acne, skin discoloration, eczema, alopecia, dermatitis, skin dry, psoriasis.
 Rare: hypertrichosis, decreased sweating, melanosis, keratitis, cellulitis, pruritus ani.
@@ -175,7 +172,7 @@ Urinary System Disorders - Frequent: polyuria.
 Infrequent: micturition frequency, urinary incontinence, urinary retention, dysuria.
 Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal pain.
 
-## Other Events Observed During the Postmarketing Evaluation of Citalopram Hydrobromide.
+## Other Events Observed During the Postmarketing Evaluation of Citalopram Hydrobromide
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, serotonin syndrome, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.
