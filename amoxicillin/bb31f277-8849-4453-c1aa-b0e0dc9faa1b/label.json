@@ -1,25 +1,30 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA062216",
+    "ANDA062226",
+    "NDA050760"
+  ],
   "inn": "amoxicillin",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0029-6007-32",
     "0029-6009-22",
     "0029-6009-23",
     "0029-6038-39",
-    "0029-6044-12",
-    "0029-6045-12",
-    "0029-6045-20",
-    "0029-6046-20",
-    "0029-6047-20",
-    "0029-6048-54",
-    "0029-6048-55",
-    "0029-6048-59",
-    "0029-6049-54",
-    "0029-6049-55",
     "0029-6049-59"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "amoxicillin",
+      "name": "AMOXIL"
+    },
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "amoxicillin",
+      "name": "AMOXIL"
+    }
+  ],
   "setid": "bb31f277-8849-4453-c1aa-b0e0dc9faa1b",
   "source": "dailymed"
 }

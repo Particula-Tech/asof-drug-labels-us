@@ -18,15 +18,15 @@ Orally administered doses of amoxicillin suspension, 125 mg/5 mL and 250 mg/5 mL
 
 Oral administration of single doses of 400-mg chewable tablets and 400 mg/5 mL suspension of AMOXIL to 24 adult volunteers yielded comparable pharmacokinetic data:
 
-| Dose* | AUC0-∞ (mcg•hr/mL) | Cmax (mcg/mL)† |
+| Dosea | AUC0-∞ (mcg•hr/mL) | Cmax (mcg/mL)b |
 | --- | --- | --- |
 | Amoxicillin | Amoxicillin(±S.D.) | Amoxicillin(±S.D.) |
 | 400 mg (5 mL of suspension) | 17.1 (3.1) | 5.92 (1.62) |
 | 400 mg (1 chewable tablet) | 17.9 (2.4) | 5.18 (1.64) |
 
-*Administered at the start of a light meal.
+a Administered at the start of a light meal.
 
-†Mean values of 24 normal volunteers.
+b Mean values of 24 normal volunteers.
 Peak concentrations occurred approximately 1 hour after the dose.
 
 Detectable serum levels are observed up to 8 hours after an orally administered dose of amoxicillin.
@@ -43,24 +43,24 @@ Amoxicillin has been shown to be active against most strains of the following mi
 
 Enterococcus faecalis
 
-Staphylococcus spp.* (β-lactamase−negative strains only)
+Staphylococcus spp.* (β-lactamase–negative strains only)
 
 Streptococcus pneumoniae
 
 Streptococcus spp.
 (α- and β-hemolytic strains only)
 
-* Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
+*Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
 
 ### Aerobic Gram-Negative Microorganisms
 
-Escherichia coli (β-lactamase−negative strains only)
+Escherichia coli (β-lactamase–negative strains only)
 
-Haemophilus influenzae (β-lactamase−negative strains only)
+Haemophilus influenzae (β-lactamase–negative strains only)
 
-Neisseria gonorrhoeae (β-lactamase−negative strains only)
+Neisseria gonorrhoeae (β-lactamase–negative strains only)
 
-Proteus mirabilis (β-lactamase−negative strains only)
+Proteus mirabilis (β-lactamase–negative strains only)
 
 ### Helicobacter
 
@@ -78,29 +78,29 @@ Ampicillin is sometimes used to predict susceptibility of S. pneumoniae to amoxi
 Therefore, S. pneumoniae susceptibility should be tested using amoxicillin powder.
 The MIC values should be interpreted according to the following criteria:
 
-## For Gram-Positive Aerobes
+For Gram-Positive Aerobes:
 
 Enterococcus
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤8 | Susceptible(S) |
-| ≥16 | Resistant(R) |
+| ≤ 8 | Susceptible (S) |
+| ≥ 16 | Resistant (R) |
 
 Staphylococcusa
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤0.25 | Susceptible(S) |
-| ≥0.5 | Resistant(R) |
+| ≤ 0.25 | Susceptible (S) |
+| ≥ 0.5 | Resistant (R) |
 
 Streptococcus (except S. pneumoniae)
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤0.25 | Susceptible(S) |
-| 0.5 to 4 | Intermediate(I) |
-| ≥8 | Resistant(R) |
+| ≤ 0.25 | Susceptible (S) |
+| 0.5 to 4 | Intermediate (I) |
+| ≥ 8 | Resistant (R) |
 
 S. pneumoniaeb from non-meningitis sources.
 
@@ -108,35 +108,35 @@ S. pneumoniaeb from non-meningitis sources.
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤2 | Susceptible(S) |
-| 4 | Intermediate(I) |
-| ≥8 | Resistant(R) |
+| ≤ 2 | Susceptible (S) |
+| 4 | Intermediate (I) |
+| ≥ 8 | Resistant (R) |
 
 NOTE: These interpretive criteria are based on the recommended doses for respiratory tract infections.
 
-## For Gram-Negative Aerobes
+For Gram-Negative Aerobes:
 
 Enterobacteriaceae
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤8 | Susceptible(S) |
-| 16 | Intermediate(I) |
-| ≥32 | Resistant(R) |
+| ≤ 8 | Susceptible (S) |
+| 16 | Intermediate (I) |
+| ≥ 32 | Resistant (R) |
 
 H. influenzaec
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤1 | Susceptible(S) |
-| 2 | Intermediate(I) |
-| ≥4 | Resistant(R) |
+| ≤ 1 | Susceptible (S) |
+| 2 | Intermediate (I) |
+| ≥ 4 | Resistant (R) |
 
-a.Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
+a Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
 
-b. These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.
+b These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.
 
-c. These interpretive standards are applicable only to broth microdilution test with H. influenzae using Haemophilus Test Medium (HTM).1
+c These interpretive standards are applicable only to broth microdilution test with H. influenzae using Haemophilus Test Medium (HTM).1
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -152,7 +152,7 @@ Standard ampicillin powder should provide the following MIC values:
 | E. coli ATCC 25922 | 2 to 8 |
 | E. faecalis ATCC 29212 | 0.5 to 2 |
 | H. influenzae ATCC 49247d | 2 to 8 |
-| S. aureusATCC 29213 | 0.25 to 1 |
+| S. aureus ATCC 29213 | 0.25 to 1 |
 
 Using amoxicillin to determine susceptibility:
 
@@ -160,9 +160,9 @@ Using amoxicillin to determine susceptibility:
 | --- | --- |
 | S. pneumoniae ATCC 49619e | 0.03 to 0.12 |
 
-d.This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using HTM.1
+d This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using HTM.1
 
-e. This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by the broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.
+e This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by the broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.
 
 ### Diffusion Techniques
 
@@ -173,59 +173,59 @@ Interpretation involves correlation of the diameter obtained in the disk test wi
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10-mcg ampicillin disk should be interpreted according to the following criteria:
 
-## For Gram-Positive Aerobes
+For Gram-Positive Aerobes:
 
 Enterococcus
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥17 | Susceptible(S) |
-| ≤16 | Resistant(R) |
+| ≥ 17 | Susceptible (S) |
+| ≤ 16 | Resistant (R) |
 
 Staphylococcusf
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥29 | Susceptible(S) |
-| ≤28 | Resistant(R) |
+| ≥ 29 | Susceptible (S) |
+| ≤ 28 | Resistant (R) |
 
 β-hemolytic streptococci
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥26 | Susceptible(S) |
-| 19 to 25 | Intermediate(I) |
-| ≤18 | Resistant(R) |
+| ≥ 26 | Susceptible (S) |
+| 19 to 25 | Intermediate (I) |
+| ≤ 18 | Resistant (R) |
 
 NOTE: For streptococci (other than β-hemolytic streptococci and S. pneumoniae), an ampicillin MIC should be determined.
 
 S. pneumoniae
 
 S. pneumoniae should be tested using a 1-mcg oxacillin disk.
-Isolates with oxacillin zone sizes of ≥20 mm are susceptible to amoxicillin.
-An amoxicillin MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤19 mm.
+Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin.
+An amoxicillin MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤ 19 mm.
 
-## For Gram-Negative Aerobes
+For Gram-Negative Aerobes:
 
 Enterobacteriaceae
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥17 | Susceptible(S) |
-| 14 to 16 | Intermediate(I) |
-| ≤13 | Resistant(R) |
+| ≥ 17 | Susceptible (S) |
+| 14 to 16 | Intermediate (I) |
+| ≤ 13 | Resistant (R) |
 
 H. influenzaeg
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥22 | Susceptible(S) |
-| 19 to 21 | Intermediate(I) |
-| ≤18 | Resistant(R) |
+| ≥ 22 | Susceptible (S) |
+| 19 to 21 | Intermediate (I) |
+| ≤ 18 | Resistant (R) |
 
-f.Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
+f Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
 
-g. These interpretive standards are applicable only to disk diffusion susceptibility tests with H. influenzae using Haemophilus Test Medium (HTM).2
+g These interpretive standards are applicable only to disk diffusion susceptibility tests with H. influenzae using Haemophilus Test Medium (HTM).2
 
 Interpretation should be as stated above for results using dilution techniques.
 
@@ -244,9 +244,9 @@ Using 1-mcg oxacillin disk:
 | --- | --- | --- |
 | S. pneumoniae | ATCC 49619i | 8 to 12 |
 
-h.This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using HTM.2
+h This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using HTM.2
 
-i.This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
+i This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
 
 ## Susceptibility Testing for Helicobacter pylori
 

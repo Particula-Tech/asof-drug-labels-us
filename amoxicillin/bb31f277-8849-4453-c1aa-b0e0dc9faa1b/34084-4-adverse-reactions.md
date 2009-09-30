@@ -19,7 +19,7 @@ Onset of pseudomembranous colitis symptoms may occur during or after antibiotic 
 
 Anaphylaxis (See WARNING)
 
-Serum sickness−like reactions, erythematous maculopapular rashes, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis and urticaria have been reported.
+Serum sickness–like reactions, erythematous maculopapular rashes, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis and urticaria have been reported.
 
 NOTE: These hypersensitivity reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
 Whenever such reactions occur, amoxicillin should be discontinued unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to amoxicillin therapy.

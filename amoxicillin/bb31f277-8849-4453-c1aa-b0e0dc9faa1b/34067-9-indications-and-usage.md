@@ -1,19 +1,19 @@
 # INDICATIONS AND USAGE
 
-AMOXIL is indicated in the treatment of infections due to susceptible (ONLY β-lactamase−negative) strains of the designated microorganisms in the conditions listed below:
+AMOXIL is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) strains of the designated microorganisms in the conditions listed below:
 
-Infections of the ear, nose, and throat − due to Streptococcus spp.
+Infections of the ear, nose, and throat – due to Streptococcus spp.
 (α- and β-hemolytic strains only), S. pneumoniae, Staphylococcus spp., or H. influenzae.
 
-Infections of the genitourinary tract − due to E. coli, P. mirabilis, or E. faecalis.
+Infections of the genitourinary tract – due to E. coli, P. mirabilis, or E. faecalis.
 
-Infections of the skin and skin structure − due to Streptococcus spp.
+Infections of the skin and skin structure – due to Streptococcus spp.
 (α- and β-hemolytic strains only), Staphylococcus spp., or E. coli.
 
-Infections of the lower respiratory tract − due to Streptococcus spp.
+Infections of the lower respiratory tract – due to Streptococcus spp.
 (α- and β-hemolytic strains only), S. pneumoniae,Staphylococcus spp., or H. influenzae.
 
-Gonorrhea, acute uncomplicated (ano-genital and urethral infections) −due to N. gonorrhoeae (males and females).
+Gonorrhea, acute uncomplicated (ano-genital and urethral infections) – due to N. gonorrhoeae (males and females).
 
 H. pylori eradication to reduce the risk of duodenal ulcer recurrence
 

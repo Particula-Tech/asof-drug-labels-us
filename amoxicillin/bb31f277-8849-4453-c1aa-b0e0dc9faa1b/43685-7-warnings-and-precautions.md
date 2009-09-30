@@ -49,6 +49,10 @@ Patients treated with amoxicillin should have a follow-up serologic test for syp
 Probenecid decreases the renal tubular secretion of amoxicillin.
 Concurrent use of amoxicillin and probenecid may result in increased and prolonged blood levels of amoxicillin.
 
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported rarely in patients receiving amoxicillin and oral anticoagulants.
+Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently.
+Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.
+
 Chloramphenicol, macrolides, sulfonamides, and tetracyclines may interfere with the bactericidal effects of penicillin.
 This has been demonstrated in vitro; however, the clinical significance of this interaction is not well documented.
 
@@ -95,13 +99,14 @@ Caution should be exercised when amoxicillin is administered to a nursing woman.
 ## Pediatric Use
 
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
-Dosing of AMOXIL should be modified in pediatric patients 12 weeks or younger (≤3 months).
+Dosing of AMOXIL should be modified in pediatric patients 12 weeks or younger (≤ 3 months).
 (See DOSAGE AND ADMINISTRATION: Neonates and Infants.)
 
 ## Geriatric Use
 
 An analysis of clinical studies of AMOXIL was conducted to determine whether subjects aged 65 and over respond differently from younger subjects.
-Of the 1,811 subjects treated with capsules of AMOXIL, 85% were <60 years old, 15% were ≥61 years old and 7% were ≥71 years old.This analysis and other reported clinical experience have not identified differences in responses between the elderly and younger patients, but a greater sensitivity of some older individuals cannot be ruled out.
+Of the 1,811 subjects treated with capsules of AMOXIL, 85% were < 60 years old, 15% were ≥ 61 years old and 7% were ≥ 71 years old.
+This analysis and other reported clinical experience have not identified differences in responses between the elderly and younger patients, but a greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
