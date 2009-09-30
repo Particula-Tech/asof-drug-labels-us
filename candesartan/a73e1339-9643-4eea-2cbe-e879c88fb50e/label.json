@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA020838"
+  ],
+  "inn": "candesartan",
+  "labeler": "AstraZeneca LP",
+  "package_ndcs": [
+    "0186-0004-31",
+    "0186-0008-31",
+    "0186-0016-28",
+    "0186-0016-31",
+    "0186-0016-54",
+    "0186-0032-28",
+    "0186-0032-31",
+    "0186-0032-54"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil",
+      "name": "ATACAND"
+    }
+  ],
+  "setid": "a73e1339-9643-4eea-2cbe-e879c88fb50e",
+  "source": "dailymed"
+}
