@@ -6,7 +6,7 @@ CARDIZEM prolongs AV node refractory periods without significantly prolonging si
 This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (13 of 3290 patients or 0.40%).
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
 A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem.
-(See ADVERSE REACTIONS section.)
+(see ADVERSE REACTIONS).
 
 2.
 Congestive Heart Failure.
@@ -27,7 +27,7 @@ Such elevations were usually transient and frequently resolved even with continu
 In rare instances, significant elevations in enzymes such as alkaline phosphatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted.
 These reactions tended to occur early after therapy initiation (1 to 8 weeks) and have been reversible upon discontinuation of drug therapy.
 The relationship to CARDIZEM is uncertain in some cases, but probable in some.
-(See PRECAUTIONS.)
+(see PRECAUTIONS).
 
 # PRECAUTIONS
 
@@ -40,16 +40,16 @@ In subacute and chronic dog and rat studies designed to produce toxicity, high d
 In special subacute hepatic studies, oral doses of 125 mg/kg and higher in rats were associated with histological changes in the liver which were reversible when the drug was discontinued.
 In dogs, doses of 20 mg/kg were also associated with hepatic changes; however, these changes were reversible with continued dosing.
 
-Dermatological events (see ADVERSE REACTIONS section) may be transient and may disappear despite continued use of CARDIZEM.
+Dermatological events (see ADVERSE REACTIONS) may be transient and may disappear despite continued use of CARDIZEM.
 However, skin eruptions progressing to erythema multiforme and/or exfoliative dermatitis have also been infrequently reported.
 Should a dermatologic reaction persist, the drug should be discontinued.
 
 ## Drug Interactions
 
 Due to the potential for additive effects, caution and careful titration are warranted in patients receiving CARDIZEM concomitantly with other agents known to affect cardiac contractility and/or conduction.
-(See WARNINGS.)
+(see WARNINGS).
 Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with CARDIZEM.
-(See WARNINGS.)
+(see WARNINGS).
 
 As with all drugs, care should be exercised when treating patients with multiple medications.
 Diltiazem is both a substrate and an inhibitor of the cytochrome P-450 3A4 enzyme system.
@@ -61,8 +61,8 @@ The depression of cardiac contractility, conductivity, and automaticity as well 
 When used concomitantly, anesthetics and calcium blockers should be titrated carefully.
 
 Benzodiazepines.
-Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3-4 fold and the Cmax by 2-fold, compared to placebo.
-The elimination half-life of midazolam and triazolam also increased (1.5-2.5 fold) during coadministration with diltiazem.
+Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
+The elimination half-life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
 These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sedation) of both midazolam and triazolam.
 
 Beta-blockers.
@@ -71,10 +71,10 @@ Controlled and uncontrolled domestic studies suggest that concomitant use of CAR
 Administration of CARDIZEM (diltiazem hydrochloride) concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects and bioavailability of propranolol was increased approximately 50%.
 In vitro, propranolol appears to be displaced from its binding sites by diltiazem.
 If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted.
-(See WARNINGS.)
+(see WARNINGS).
 
 Buspirone.
-In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5 fold and Cmax 4.1 fold compared to placebo.
+In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5 fold and Cmax 4.1-fold compared to placebo.
 The T1/2 and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
 Subsequent dose adjustments may be necessary during co-administration, and should be based on clinical assessment.
@@ -101,10 +101,10 @@ Digitalis.
 Administration of CARDIZEM with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
 Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
 Since there have been conflicting results regarding the effect of digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing CARDIZEM therapy to avoid possible over- or under-digitalization.
-(See WARNINGS.)
+(see WARNINGS).
 
 Lovastatin.
-In a ten-subject study, coadministration of diltiazem (120 mg bid, diltiazem SR) with lovastatin resulted in 3-4 times increase in mean lovastatin AUC and Cmax versus lovastatin alone; no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.
+In a ten-subject study, coadministration of diltiazem (120 mg bid, diltiazem SR) with lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone; no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
 Quinidine.

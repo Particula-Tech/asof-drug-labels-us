@@ -15,19 +15,19 @@ The following table presents the most common adverse reactions reported in place
 | ECG Abnormality | 1.6% | 2.3% |
 | Asthenia | 1.8% | 1.7% |
 
-In clinical trials of CARDIZEM CD capsules, CARDIZEM tablets, and CARDIZEM SR capsules involving over 3200 patients, the most common events (ie, greater than 1%) were edema (4.6%), headache (4.6%), dizziness (3.5%), asthenia (2.6%), first-degree AV block (2.4%), bradycardia (1.7%), flushing (1.4%), nausea (1.4%), and rash (1.2%).
+In clinical trials of CARDIZEM CD capsules, CARDIZEM tablets, and CARDIZEM SR capsules involving over 3200 patients, the most common events (i.e., greater than 1%) were edema (4.6%), headache (4.6%), dizziness (3.5%), asthenia (2.6%), first-degree AV block (2.4%), bradycardia (1.7%), flushing (1.4%), nausea (1.4%), and rash (1.2%).
 
 In addition, the following events were reported infrequently (less than 1%) in angina or hypertension trials:
 
-Cardiovascular: Angina, arrhythmia, AV block (second- or third-degree), bundle branch block, congestive heart failure, ECG abnormalities, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles
+Cardiovascular: Angina, arrhythmia, AV block (second- or third-degree), bundle branch block, congestive heart failure, ECG abnormalities, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles.
 
-Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor
+Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
 
-Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see hepatic warnings), thirst, vomiting, weight increase
+Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase.
 
-Dermatological: Petechiae, photosensitivity, pruritus, urticaria
+Dermatological: Petechiae, photosensitivity, pruritus, urticaria.
 
-Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties
+Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
 
 The following postmarketing events have been reported infrequently in patients receiving CARDIZEM: allergic reactions, alopecia, angioedema (including facial or periorbital edema), asystole, erythema multiforme (including Stevens-Johnson syndrome, toxic epidermal necrolysis), exfoliative dermatitis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, purpura, retinopathy, myopathy, and thrombocytopenia.
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.

@@ -35,6 +35,6 @@ Fixed high-degree AV block should be treated with cardiac pacing.
 
 Cardiac Failure: Administer inotropic agents (isoproterenol, dopamine, or dobutamine) and diuretics.
 
-Hypotension: Vasopressors (eg, dopamine or levarterenol bitartrate).
+Hypotension: Vasopressors (eg, dopamine or norepinephrine).
 
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.

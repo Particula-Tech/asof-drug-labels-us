@@ -1,0 +1,69 @@
+# PRINCIPAL DISPLAY PANEL - 120 mg Label
+
+NDC 64455-795-30
+
+Cardizem® CD (diltiazem HCl) ONCE-A-DAY DOSAGE
+
+120 mg
+
+30 Capsules
+
+Rx ONLY
+
+BIOVAIL
+
+# PRINCIPAL DISPLAY PANEL - 180 mg Label
+
+NDC 64455-796-30
+
+Cardizem® CD (diltiazem HCl) ONCE-A-DAY DOSAGE
+
+180 mg
+
+30 Capsules
+
+Rx ONLY
+
+BIOVAIL
+
+# PRINCIPAL DISPLAY PANEL - 240 mg Label
+
+NDC 64455-797-30
+
+Cardizem® CD (diltiazem HCl) ONCE-A-DAY DOSAGE
+
+240 mg
+
+30 Capsules
+
+Rx ONLY
+
+BIOVAIL
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Label
+
+NDC 64455-798-30
+
+Cardizem® CD (diltiazem HCl) ONCE-A-DAY DOSAGE
+
+300 mg
+
+30 Capsules
+
+Rx ONLY
+
+BIOVAIL
+
+# PRINCIPAL DISPLAY PANEL - 360 mg Label
+
+NDC 64455-799-42
+
+Cardizem® CD (diltiazem HCl) ONCE-A-DAY DOSAGE
+
+360 mg
+
+90 Capsules
+
+Rx ONLY
+
+BIOVAIL

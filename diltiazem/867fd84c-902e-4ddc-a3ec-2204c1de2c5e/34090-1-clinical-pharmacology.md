@@ -33,9 +33,9 @@ Resting heart rate is usually slightly reduced by diltiazem.
 
 In hypertensive patients, CARDIZEM CD produces antihypertensive effects both in the supine and standing positions.
 In a double-blind, parallel, dose-response study utilizing doses ranging from 90 to 540 mg once daily, CARDIZEM CD lowered supine diastolic blood pressure in an apparent linear manner over the entire dose range studied.
-The changes in diastolic blood pressure, measured at trough, for placebo, 90 mg, 180 mg, 360 mg, and 540 mg were–2.9, –4.5, –6.1, –9.5, and –10.5 mm Hg, respectively.
+The changes in diastolic blood pressure, measured at trough, for placebo, 90 mg, 180 mg, 360 mg, and 540 mg were –2.9, –4.5, –6.1, –9.5, and –10.5 mm Hg, respectively.
 Postural hypotension is infrequently noted upon suddenly assuming an upright position.
-No reflex tachycardia is associated with the chronic antihypertensive effects.
+No reflex tachycardia is associated with the chronic anti-hypertensive effects.
 CARDIZEM CD decreases vascular resistance, increases cardiac output (by increasing stroke volume), and produces a slight decrease or no change in heart rate.
 During dynamic exercise, increases in diastolic pressure are inhibited, while maximum achievable systolic pressure is usually reduced.
 Chronic therapy with CARDIZEM CD produces no change or an increase in plasma catecholamines.
@@ -56,7 +56,7 @@ Diltiazem-associated prolongation of the AH interval is not more pronounced in p
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 
 Chronic oral administration of CARDIZEM to patients in doses of up to 540 mg/day has resulted in small increases in PR interval, and on occasion produces abnormal prolongation.
-(See WARNINGS.)
+(see WARNINGS).
 
 ## Pharmacokinetics and Metabolism
 

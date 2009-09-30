@@ -30,8 +30,7 @@ Prophylactic Nitrate Therapy.
 CARDIZEM CD may be safely coadministered with short- and long-acting nitrates.
 
 3.
-Beta-blockers.
-(See WARNINGS and PRECAUTIONS.)
+Beta-blockers (see WARNINGS and PRECAUTIONS).
 
 4.
 Antihypertensives.

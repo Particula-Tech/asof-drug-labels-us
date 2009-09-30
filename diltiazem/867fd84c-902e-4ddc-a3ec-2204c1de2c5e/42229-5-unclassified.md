@@ -1,9 +1,12 @@
-Prescribing Information as of August 2001
+Rx only
 
-® Cardizem is a registered trademark of Biovail Laboratories Incorporated
+Cardizem® is a registered trademark of Biovail Laboratories International, SRL
 
-Manufactured by: Aventis Pharmaceuticals Inc. Kansas City, MO, 64137, USA
+Manufactured by: sanofi-aventis U.S. LLC Kansas City, MO, 64137, USA
 
-Distributed by: Biovail Pharmaceuticals, Inc. Bridgewater, NJ, 08807, USA
+For: BTA Pharmaceuticals, Inc. Bridgewater, NJ, 08807, USA
 
-50070835
+LB 0070-02
+
+Rev.
+12/08
