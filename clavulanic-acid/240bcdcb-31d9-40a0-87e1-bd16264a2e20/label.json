@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA065191"
+  ],
+  "inn": "clavulanic-acid",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9981-01",
+    "0143-9981-50",
+    "0143-9981-75",
+    "0143-9982-01",
+    "0143-9982-50",
+    "0143-9982-75"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "Amoxicillin and Clavulanate Potassium"
+    }
+  ],
+  "setid": "240bcdcb-31d9-40a0-87e1-bd16264a2e20",
+  "source": "dailymed"
+}
