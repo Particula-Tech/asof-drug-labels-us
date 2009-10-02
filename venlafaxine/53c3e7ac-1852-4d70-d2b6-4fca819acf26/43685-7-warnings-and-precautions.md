@@ -15,9 +15,10 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-| Table 1 |  |
-| --- | --- |
+Table 1
+
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
@@ -65,16 +66,20 @@ The effects of combined use of venlafaxine and MAOIs have not been evaluated in 
 Therefore, because venlafaxine is an inhibitor of both norepinephrine and serotonin reuptake, it is recommended that Effexor XR (venlafaxine hydrochloride) extended-release capsules not be used in combination with an MAOI, or within at least 14 days of discontinuing treatment with an MAOI.
 Based on the half-life of venlafaxine, at least 7 days should be allowed after stopping venlafaxine before starting an MAOI.
 
-## Serotonin Syndrome
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur with Effexor XR treatment, particularly with concomitant use of serotonergic drugs (including SSRIs, SNRIs and triptans) and with drugs that impair metabolism of serotonin (including MAOIs).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea) (see PRECAUTIONS, Drug Interactions).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Effexor XR treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting, diarrhea] (see PRECAUTIONS, Drug Interactions).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
 The concomitant use of Effexor XR with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS, Potential for Interaction with Monoamine Oxidase Inhibitors).
 
-If concomitant treatment of Effexor XR with an SSRI, an SNRI or a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
+If concomitant treatment of Effexor XR with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
 
-The concomitant use of Effexor XR with serotonin precursors (such as tryptophan supplements) is not recommended (see PRECAUTIONS, Drug Interactions).
+The concomitant use of Effexor XR with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS, Drug Interactions).
+
+Treatment with Effexor XR and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Sustained Hypertension
 
@@ -86,10 +91,10 @@ An insufficient number of patients received mean doses of Effexor XR over 300 mg
 
 Table 2 Number (%) of Sustained Elevations in SDBP in Effexor XR Premarketing Studies by Indication
 
-| MDD (75-375 mg/day) | GAD (37.5-225 mg/day) | Social Anxiety Disorder (75-225 mg/day) |  | Panic Disorder (75-225 mg/day) |
-| --- | --- | --- | --- | --- |
-| 19/705 (3) | 5/1011 (0.5) | 5/771 (0.6) |  | 9/973 (0.9) |
-| MDD = major depressive disorder GAD = generalized anxiety disorder |  |  |  |  |
+| MDD (75-375 mg/day) | GAD (37.5-225 mg/day) | Social Anxiety Disorder (75-225 mg/day) | Panic Disorder (75-225 mg/day) |
+| --- | --- | --- | --- |
+| 19/705 (3) | 5/1011 (0.5) | 5/771 (0.6) | 9/973 (0.9) |
+| MDD = major depressive disorderGAD = generalized anxiety disorder |  |  |  |
 
 Table 3 Incidence (%) of Sustained Elevations in SDBP in Effexor Immediate Release Studies
 
@@ -104,7 +109,7 @@ In premarketing major depressive disorder studies, 0.7% (5/705) of the Effexor X
 Among these patients, most of the blood pressure increases were in a modest range (12 to 16 mm Hg, SDBP).
 In premarketing GAD studies up to 8 weeks and up to 6 months, 0.7% (10/1381) and 1.3% (7/535) of the Effexor XR-treated patients, respectively, discontinued treatment because of elevated blood pressure.
 Among these patients, most of the blood pressure increases were in a modest range (12 to 25 mm Hg, SDBP up to 8 weeks; 8 to 28 mm Hg up to 6 months).
-In premarketing Social Anxiety Disorder studies up to 6 months, 0.6% (5/771) of the Effexor XR‑treated patients discontinued treatment because of elevated blood pressure.
+In premarketing Social Anxiety Disorder studies up to 6 months, 0.6% (5/771) of the Effexor XR-treated patients discontinued treatment because of elevated blood pressure.
 In these patients, the blood pressure increases were modest (1-24 mm Hg, SDBP).
 In premarketing panic disorder studies up to 12 weeks, 0.5% (5/1001) of the Effexor XR-treated patients discontinued treatment because of elevated blood pressure.
 In these patients, the blood pressure increases were in a modest range (7 to 19 mm Hg, SDBP).
@@ -122,10 +127,10 @@ Across most indications, a dose-related increase in supine systolic and diastoli
 
 Table 4 Final On-Therapy Mean Changes from Baseline in Supine Systolic and Diastolic Blood Pressure (mm Hg) Results by Indication, Study Duration, and Dose in Placebo-Controlled Trials
 
-|  | SSBP1 | SDBP2 | SSBP | SDBP | SSBP | SDBP |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Effexor XR mg/day |  |  |  | Placebo |  |
+| --- | --- | --- | --- | --- | --- | --- |
 |  | ≤75 |  | >75 |  |  |  |
+|  | SSBP1 | SDBP2 | SSBP | SDBP | SSBP | SDBP |
 | Major Depressive Disorder |  |  |  |  |  |  |
 | 8-12 weeks | -0.28 | 0.37 | 2.93 | 3.56 | -1.08 | -0.10 |
 | Generalized Anxiety Disorder |  |  |  |  |  |  |
@@ -136,7 +141,7 @@ Table 4 Final On-Therapy Mean Changes from Baseline in Supine Systolic and Diast
 | 6 months | -0.98 | -0.49 | 2.51 | 1.96 | -1.84 | -0.65 |
 | Panic Disorder |  |  |  |  |  |  |
 | 10-12 weeks | -1.15 | 0.97 | -0.36 | 0.16 | -1.29 | -0.99 |
-| 1 Supine Systolic Blood Pressure 2 Supine Diastolic Blood Pressure |  |  |  |  |  |  |
+| 1 Supine Systolic Blood Pressure2 Supine Diastolic Blood Pressure |  |  |  |  |  |  |
 
 Across all clinical trials in MDD, GAD, Social Anxiety Disorder and panic disorder, 1.4% of patients in the Effexor XR-treated groups experienced a ≥15 mm Hg increase in supine diastolic blood pressure with blood pressure ≥105 mm Hg compared to 0.9% of patients in the placebo groups.
 Similarly, 1% of patients in the Effexor XR-treated groups experienced a ≥20 mm Hg increase in supine systolic blood pressure with blood pressure ≥180 mm Hg compared to 0.3% of patients in the placebo groups.
@@ -153,7 +158,7 @@ Mydriasis has been reported in association with venlafaxine; therefore patients 
 
 Discontinuation symptoms have been systematically evaluated in patients taking venlafaxine, to include prospective analyses of clinical trials in Generalized Anxiety Disorder and retrospective surveys of trials in major depressive disorder, and Social Anxiety Disorder.
 Abrupt discontinuation or dose reduction of venlafaxine at various doses has been found to be associated with the appearance of new symptoms, the frequency of which increased with increased dose level and with longer duration of treatment.
-Reported symptoms include agitation, anorexia, anxiety, confusion, impaired coordination and balance, diarrhea, dizziness, dry mouth, dysphoric mood, fasciculation, fatigue, flu-like symptoms, headaches, hypomania, insomnia, nausea, nervousness, nightmares, sensory disturbances (including shock‑like electrical sensations), somnolence, sweating, tremor, vertigo, and vomiting.
+Reported symptoms include agitation, anorexia, anxiety, confusion, impaired coordination and balance, diarrhea, dizziness, dry mouth, dysphoric mood, fasciculation, fatigue, flu-like symptoms, headaches, hypomania, insomnia, nausea, nervousness, nightmares, sensory disturbances (including shock-like electrical sensations), somnolence, sweating, tremor, vertigo, and vomiting.
 
 During marketing of Effexor XR, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), and SSRIs (Selective Serotonin Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g. paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -169,10 +174,11 @@ Treatment-emergent insomnia and nervousness were more commonly reported for pati
 
 Table 5 Incidence of Insomnia and Nervousness in Placebo-Controlled Major Depressive Disorder, GAD, Social Anxiety Disorder, and Panic Disorder Trials
 
-| Symptom | Effexor XR n = 357 | Placebo n = 285 | Effexor XR n = 1381 | Placebo n = 555 | Effexor XR n = 819 | Placebo n = 695 | Effexor XR n = 1001 | Placebo n = 662 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Major Depressive Disorder |  | GAD |  | Social Anxiety Disorder |  | Panic Disorder |  |
-| Insomnia Nervousness | 17% 10% | 11% 5% | 15% 6% | 10% 4% | 24% 10% | 8% 5% | 17% 4% | 9% 6% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Symptom | Effexor XR n = 357 | Placebo n = 285 | Effexor XR n = 1381 | Placebo n = 555 | Effexor XR n = 819 | Placebo n = 695 | Effexor XR n = 1001 | Placebo n = 662 |
+| Insomnia | 17% | 11% | 15% | 10% | 24% | 8% | 17% | 9% |
+| Nervousness | 10% | 5% | 6% | 4% | 10% | 5% | 4% | 6% |
 
 Insomnia and nervousness each led to drug discontinuation in 0.9% of the patients treated with Effexor XR in major depressive disorder studies.
 
@@ -190,7 +196,7 @@ In placebo-controlled GAD studies, a loss of 7% or more of body weight occurred 
 The discontinuation rate for weight loss was 0.3% for patients receiving Effexor XR in GAD studies for up to eight weeks.
 In placebo-controlled Social Anxiety Disorder trials, 4% of the Effexor XR-treated and 1% of the placebo-treated patients sustained a loss of 7% or more of body weight during up to 6 months of treatment.
 None of the patients receiving Effexor XR in Social Anxiety Disorder studies discontinued for weight loss.
-In placebo-controlled panic disorder trials, 3% of the Effexor XR-treated and 2% of the placebo‑treated patients sustained a loss of 7% or more of body weight during up to 12 weeks of treatment.
+In placebo-controlled panic disorder trials, 3% of the Effexor XR-treated and 2% of the placebo-treated patients sustained a loss of 7% or more of body weight during up to 12 weeks of treatment.
 None of the patients receiving Effexor XR in panic disorder studies discontinued for weight loss.
 
 The safety and efficacy of venlafaxine therapy in combination with weight loss agents, including phentermine, have not been established.
@@ -214,18 +220,18 @@ Pediatric Patients: During the eight-week, placebo-controlled GAD studies, Effex
 This difference in height increase was most notable in patients younger than twelve.
 During the eight-week placebo-controlled MDD studies, Effexor XR-treated patients grew an average of 0.8 cm (n = 146), while placebo-treated patients grew an average of 0.7 cm (n = 147).
 During the 16-week, placebo-controlled Social Anxiety Disorder study, both the Effexor XR-treated (n = 109) and the placebo-treated (n = 112) patients each grew an average of 1.0 cm.
-In the six-month, open-label MDD study, children and adolescents had height increases that were less than expected based on data from age- and sex‑matched peers.
+In the six-month, open-label MDD study, children and adolescents had height increases that were less than expected based on data from age- and sex-matched peers.
 The difference between observed growth rates and expected growth rates was larger for children (<12 years old) than for adolescents (≥12 years old).
 
 ### Changes in Appetite
 
-Adult Patients: Treatment-emergent anorexia was more commonly reported for Effexor XR‑treated (8%) than placebo-treated patients (4%) in the pool of short-term, double‑blind, placebo‑controlled major depressive disorder studies.
+Adult Patients: Treatment-emergent anorexia was more commonly reported for Effexor XR-treated (8%) than placebo-treated patients (4%) in the pool of short-term, double-blind, placebo-controlled major depressive disorder studies.
 The discontinuation rate for anorexia associated with Effexor XR was 1.0% in major depressive disorder studies.
-Treatment-emergent anorexia was more commonly reported for Effexor XR-treated (8%) than placebo‑treated patients (2%) in the pool of short-term, double-blind, placebo‑controlled GAD studies.
+Treatment-emergent anorexia was more commonly reported for Effexor XR-treated (8%) than placebo-treated patients (2%) in the pool of short-term, double-blind, placebo-controlled GAD studies.
 The discontinuation rate for anorexia was 0.9% for patients receiving Effexor XR for up to 8 weeks in GAD studies.
-Treatment-emergent anorexia was more commonly reported for Effexor XR‑treated (17%) than placebo‑treated patients (2%) in the pool of short-term, double-blind, placebo-controlled Social Anxiety Disorder studies.
+Treatment-emergent anorexia was more commonly reported for Effexor XR-treated (17%) than placebo-treated patients (2%) in the pool of short-term, double-blind, placebo-controlled Social Anxiety Disorder studies.
 The discontinuation rate for anorexia was 0.6% for patients receiving Effexor XR for up to 12 weeks in Social Anxiety Disorder studies; no patients discontinued for anorexia between week 12 and month 6.
-Treatment-emergent anorexia was more commonly reported for Effexor XR‑treated (8%) than placebo-treated patients (3%) in the pool of short-term, double-blind, placebo-controlled panic disorder studies.
+Treatment-emergent anorexia was more commonly reported for Effexor XR-treated (8%) than placebo-treated patients (3%) in the pool of short-term, double-blind, placebo-controlled panic disorder studies.
 The discontinuation rate for anorexia was 0.4% for patients receiving Effexor XR for up to 12 weeks in panic disorder studies.
 
 Pediatric Patients: Decreased appetite has been observed in pediatric patients receiving Effexor XR.
@@ -290,10 +296,10 @@ Caution is advised in administering Effexor XR to patients with diseases or cond
 
 Venlafaxine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were systematically excluded from many clinical studies during venlafaxine's premarketing testing.
-The electrocardiograms were analyzed for 275 patients who received Effexor XR and 220 patients who received placebo in 8- to 12-week double-blind, placebo-controlled trials in major depressive disorder, for 610 patients who received Effexor XR and 298 patients who received placebo in 8-week double-blind, placebo-controlled trials in GAD, for 593 patients who received Effexor XR and 534 patients who received placebo in 12-week double-blind, placebo-controlled trials in Social Anxiety Disorder, and for 661 patients who received Effexor XR and 395 patients who received placebo in three 10- to 12-week double-blind, placebo‑controlled trials in panic disorder.
+The electrocardiograms were analyzed for 275 patients who received Effexor XR and 220 patients who received placebo in 8- to 12-week double-blind, placebo-controlled trials in major depressive disorder, for 610 patients who received Effexor XR and 298 patients who received placebo in 8-week double-blind, placebo-controlled trials in GAD, for 593 patients who received Effexor XR and 534 patients who received placebo in 12-week double-blind, placebo-controlled trials in Social Anxiety Disorder, and for 661 patients who received Effexor XR and 395 patients who received placebo in three 10- to 12-week double-blind, placebo-controlled trials in panic disorder.
 The mean change from baseline in corrected QT interval (QTc) for Effexor XR-treated patients in major depressive disorder studies was increased relative to that for placebo-treated patients (increase of 4.7 msec for Effexor XR and decrease of 1.9 msec for placebo).
 The mean change from baseline in QTc interval for Effexor XR-treated patients in the GAD studies did not differ significantly from that with placebo.
-The mean change from baseline in QTc interval for Effexor XR‑treated patients in the Social Anxiety Disorder studies was increased relative to that for placebo-treated patients (increase of 3.4 msec for Effexor XR and decrease of 1.6 msec for placebo).
+The mean change from baseline in QTc interval for Effexor XR-treated patients in the Social Anxiety Disorder studies was increased relative to that for placebo-treated patients (increase of 3.4 msec for Effexor XR and decrease of 1.6 msec for placebo).
 The mean change from baseline in QTc interval for Effexor XR-treated patients in the panic disorder studies was increased relative to that for placebo-treated patients (increase of 1.5 msec for Effexor XR and decrease of 0.7 msec for placebo).
 
 In these same trials, the mean change from baseline in heart rate for Effexor XR-treated patients in the major depressive disorder studies was significantly higher than that for placebo (a mean increase of 4 beats per minute for Effexor XR and 1 beat per minute for placebo).
@@ -371,7 +377,7 @@ As with all drugs, the potential for interaction by a variety of mechanisms is a
 
 ### Alcohol
 
-A single dose of ethanol (0.5 g/kg) had no effect on the pharmacokinetics of venlafaxine or O‑desmethylvenlafaxine (ODV) when venlafaxine was administered at 150 mg/day in 15 healthy male subjects.
+A single dose of ethanol (0.5 g/kg) had no effect on the pharmacokinetics of venlafaxine or O-desmethylvenlafaxine (ODV) when venlafaxine was administered at 150 mg/day in 15 healthy male subjects.
 Additionally, administration of venlafaxine in a stable regimen did not exaggerate the psychomotor and psychometric effects induced by ethanol in these same subjects when they were not receiving venlafaxine.
 
 ### Cimetidine
@@ -418,12 +424,12 @@ Therefore, the potential exists for a drug interaction between drugs that inhibi
 CYP2D6 inhibitors such as quinidine would be expected to do this, but the effect would be similar to what is seen in patients who are genetically CYP2D6 poor metabolizers (see Metabolism and Excretion under CLINICAL PHARMACOLOGY).
 Therefore, no dosage adjustment is required when venlafaxine is coadministered with a CYP2D6 inhibitor.
 
-Ketoconazole: A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n = 14) and 25 mg in poor metabolizers (PM; n = 6) of CYP2D6 resulted in higher plasma concentrations of both venlafaxine and O‑desmethylvenlafaxine (ODV) in most subjects following administration of ketoconazole.
+Ketoconazole: A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n = 14) and 25 mg in poor metabolizers (PM; n = 6) of CYP2D6 resulted in higher plasma concentrations of both venlafaxine and O-desmethylvenlafaxine (ODV) in most subjects following administration of ketoconazole.
 Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
 Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
-Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PMs - 2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM (range in PMs - 38% to 105%) subjects, respectively.
-Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMs and 53% in PMs (range in PMs - 4% to 134%).
+Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PMs -2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM (range in PMs -38% to 105%) subjects, respectively.
+Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMs and 53% in PMs (range in PMs 4% to 134%).
 
 Concomitant use of CYP3A4 inhibitors and venlafaxine may increase levels of venlafaxine and ODV.
 Therefore, caution is advised if a patient's therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
@@ -433,13 +439,13 @@ Therefore, caution is advised if a patient's therapy includes a CYP3A4 inhibitor
 CYP2D6: In vitro studies indicate that venlafaxine is a relatively weak inhibitor of CYP2D6.
 These findings have been confirmed in a clinical drug interaction study comparing the effect of venlafaxine with that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
 
-Imipramine - Venlafaxine did not affect the pharmacokinetics of imipramine and 2‑OH‑imipramine.
+Imipramine - Venlafaxine did not affect the pharmacokinetics of imipramine and 2-OH-imipramine.
 However, desipramine AUC, Cmax, and Cmin increased by about 35% in the presence of venlafaxine.
 The 2-OH-desipramine AUC's increased by at least 2.5 fold (with venlafaxine 37.5 mg q12h) and by 4.5 fold (with venlafaxine 75 mg q12h).
 Imipramine did not affect the pharmacokinetics of venlafaxine and ODV.
-The clinical significance of elevated 2‑OH‑desipramine levels is unknown.
+The clinical significance of elevated 2-OH-desipramine levels is unknown.
 
-Metoprolol - Concomitant administration of venlafaxine (50 mg every 8 hours for 5 days) and metoprolol (100 mg every 24 hours for 5 days) to 18 healthy male subjects in a pharmacokinetic interaction study for both drugs resulted in an increase of plasma concentrations of metoprolol by approximately 30-40% without altering the plasma concentrations of its active metabolite, α‑hydroxymetoprolol.
+Metoprolol - Concomitant administration of venlafaxine (50 mg every 8 hours for 5 days) and metoprolol (100 mg every 24 hours for 5 days) to 18 healthy male subjects in a pharmacokinetic interaction study for both drugs resulted in an increase of plasma concentrations of metoprolol by approximately 30-40% without altering the plasma concentrations of its active metabolite, α-hydroxymetoprolol.
 Metoprolol did not alter the pharmacokinetic profile of venlafaxine or its active metabolite, O-desmethylvenlafaxine.
 
 Venlafaxine appeared to reduce the blood pressure lowering effect of metoprolol in this study.
@@ -520,7 +526,7 @@ However, in rats, there was a decrease in pup weight, an increase in stillborn p
 The cause of these deaths is not known.
 These effects occurred at 2.5 times (mg/m2) the maximum human daily dose.
 The no effect dose for rat pup mortality was 0.25 times the human dose on a mg/m2 basis.
-There are no adequate and well‑controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ### Non-teratogenic Effects
@@ -544,11 +550,11 @@ Because of the potential for serious adverse reactions in nursing infants from E
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
-Two placebo‑controlled trials in 766 pediatric patients with MDD and two placebo-controlled trials in 793 pediatric patients with GAD have been conducted with Effexor XR, and the data were not sufficient to support a claim for use in pediatric patients.
+Two placebo-controlled trials in 766 pediatric patients with MDD and two placebo-controlled trials in 793 pediatric patients with GAD have been conducted with Effexor XR, and the data were not sufficient to support a claim for use in pediatric patients.
 
 Anyone considering the use of Effexor XR in a child or adolescent must balance the potential risks with the clinical need.
 
-Although no studies have been designed to primarily assess Effexor XR's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that Effexor XR may adverselyaffect weight and height (see PRECAUTIONS, General, Changes in Height and Changes in Weight).
+Although no studies have been designed to primarily assess Effexor XR's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that Effexor XR may adversely affect weight and height (see PRECAUTIONS, General, Changes in Height and Changes in Weight).
 Should the decision be made to treat a pediatric patient with Effexor XR, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
 The safety of Effexor XR treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 
@@ -557,7 +563,7 @@ Consequently, the precautions for adults apply to pediatric patients (see WARNIN
 
 ## Geriatric Use
 
-Approximately 4% (14/357), 6% (77/1381), 1% (10/819), and 2% (16/1001) of Effexor XR‑treated patients in placebo-controlled premarketing major depressive disorder, GAD, Social Anxiety Disorder trials, and panic disorder trials, respectively, were 65 years of age or over.
+Approximately 4% (14/357), 6% (77/1381), 1% (10/819), and 2% (16/1001) of Effexor XR-treated patients in placebo-controlled premarketing major depressive disorder, GAD, Social Anxiety Disorder trials, and panic disorder trials, respectively, were 65 years of age or over.
 Of 2,897 Effexor-treated (immediate release) patients in premarketing phase major depressive disorder studies, 12% (357) were 65 years of age or over.
 No overall differences in effectiveness or safety were observed between geriatric patients and younger patients, and other reported clinical experience generally has not identified differences in response between the elderly and younger patients.
 However, greater sensitivity of some older individuals cannot be ruled out.

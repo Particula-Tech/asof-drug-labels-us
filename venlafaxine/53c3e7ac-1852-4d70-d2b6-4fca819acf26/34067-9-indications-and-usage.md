@@ -4,7 +4,7 @@
 
 Effexor XR (venlafaxine hydrochloride) extended-release capsules is indicated for the treatment of major depressive disorder.
 
-The efficacy of Effexor XR in the treatment of major depressive disorder was established in 8‑ and 12-week controlled trials of adult outpatients whose diagnoses corresponded most closely to the DSM-III-R or DSM-IV category of major depressive disorder (see Clinical Trials).
+The efficacy of Effexor XR in the treatment of major depressive disorder was established in 8- and 12-week controlled trials of adult outpatients whose diagnoses corresponded most closely to the DSM-III-R or DSM-IV category of major depressive disorder (see Clinical Trials).
 
 A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed mood or the loss of interest or pleasure in nearly all activities, representing a change from previous functioning, and includes the presence of at least five of the following nine symptoms during the same two-week period: depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt or suicidal ideation.
 
@@ -34,7 +34,7 @@ Effexor XR is indicated for the treatment of Social Anxiety Disorder, also known
 Social Anxiety Disorder (DSM-IV) is characterized by a marked and persistent fear of 1 or more social or performance situations in which the person is exposed to unfamiliar people or to possible scrutiny by others.
 Exposure to the feared situation almost invariably provokes anxiety, which may approach the intensity of a panic attack.
 The feared situations are avoided or endured with intense anxiety or distress.
-The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with the person's normal routine, occupationalor academic functioning, or social activities or relationships, or there is a marked distress about having the phobias.
+The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with the person's normal routine, occupational or academic functioning, or social activities or relationships, or there is a marked distress about having the phobias.
 Lesser degrees of performance anxiety or shyness generally do not require psychopharmacological treatment.
 
 The efficacy of Effexor XR in the treatment of Social Anxiety Disorder was established in four 12-week and one 6-month placebo-controlled trials in adult outpatients with Social Anxiety Disorder (DSM-IV) (see Clinical Trials).
@@ -43,7 +43,7 @@ Although the effectiveness of Effexor XR has been demonstrated in a 6-month clin
 
 ## Panic Disorder
 
-Effexor XR is indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM‑IV.
+Effexor XR is indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM-IV.
 Panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks, worry about the implications or consequences of the attacks, and/or a significant change in behavior related to the attacks.
 
 Panic disorder (DSM-IV) is characterized by recurrent, unexpected panic attacks, ie, a discrete period of intense fear or discomfort, in which four (or more) of the following symptoms develop abruptly and reach a peak within 10 minutes: 1) palpitations, pounding heart, or accelerated heart rate; 2) sweating; 3) trembling or shaking; 4) sensations of shortness of breath or smothering; 5) feeling of choking; 6) chest pain or discomfort; 7) nausea or abdominal distress; 8) feeling dizzy, unsteady, lightheaded, or faint; 9) derealization (feelings of unreality) or depersonalization (being detached from oneself); 10) fear of losing control; 11) fear of dying; 12) paresthesias (numbness or tingling sensations); 13) chills or hot flushes.

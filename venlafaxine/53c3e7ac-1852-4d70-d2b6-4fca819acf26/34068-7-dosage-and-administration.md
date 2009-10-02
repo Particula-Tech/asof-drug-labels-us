@@ -9,7 +9,7 @@ This drug/food mixture should be swallowed immediately without chewing and follo
 ### Major Depressive Disorder
 
 For most patients, the recommended starting dose for Effexor XR is 75 mg/day, administered in a single dose.
-In the clinical trials establishing the efficacy of Effexor XR in moderately depressed outpatients,the initial dose of venlafaxine was 75 mg/day.
+In the clinical trials establishing the efficacy of Effexor XR in moderately depressed outpatients, the initial dose of venlafaxine was 75 mg/day.
 For some patients, it may be desirable to start at 37.5 mg/day for 4 to 7 days, to allow new patients to adjust to the medication before increasing to 75 mg/day.
 While the relationship between dose and antidepressant response for Effexor XR has not been adequately explored, patients not responding to the initial 75 mg/day dose may benefit from dose increases to a maximum of approximately 225 mg/day.
 Dose increases should be in increments of up to 75 mg/day, as needed, and should be made at intervals of not less than 4 days, since steady state plasma levels of venlafaxine and its major metabolites are achieved in most patients by day 4.
@@ -38,13 +38,13 @@ There was no evidence that higher doses confer any additional benefit.
 
 It is recommended that initial single doses of 37.5 mg/day of Effexor XR be used for 7 days.
 In clinical trials establishing the efficacy of Effexor XR in outpatients with panic disorder, initial doses of 37.5 mg/day for 7 days were followed by doses of 75 mg/day and subsequent weekly dose increases of 75 mg/day to a maximum dose of 225 mg/day.
-Although a dose-response relationship for effectiveness in patients with panic disorder was not clearly established in fixed‑dose studies, certain patients not responding to 75 mg/day may benefit from dose increases to a maximum of approximately 225 mg/day.
+Although a dose-response relationship for effectiveness in patients with panic disorder was not clearly established in fixed-dose studies, certain patients not responding to 75 mg/day may benefit from dose increases to a maximum of approximately 225 mg/day.
 Dose increases should be in increments of up to 75 mg/day, as needed, and should be made at intervals of not less than 7 days.
 (See the Use in Patients with Concomitant Illness section of PRECAUTIONS.)
 
 ## Switching Patients from Effexor Tablets
 
-Depressed patients who are currently being treated at a therapeutic dose with Effexor (immediate release) may be switched to Effexor XR at the nearest equivalent dose (mg/day), eg, 37.5 mg venlafaxine two‑times-a-day to 75 mg Effexor XR once daily.
+Depressed patients who are currently being treated at a therapeutic dose with Effexor (immediate release) may be switched to Effexor XR at the nearest equivalent dose (mg/day), eg, 37.5 mg venlafaxine two-times-a-day to 75 mg Effexor XR once daily.
 However, individual dosage adjustments may be necessary.
 
 ## Special Populations
@@ -77,15 +77,15 @@ When individualizing the dosage, extra care should be taken when increasing the 
 There is no body of evidence available from controlled trials to indicate how long patients with major depressive disorder, Generalized Anxiety Disorder, Social Anxiety Disorder, or panic disorder, should be treated with Effexor XR.
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
-In one study, in which patients responding during 8 weeks of acute treatment with Effexor XR were assigned randomly to placebo or to the same dose of Effexor XR (75, 150, or 225 mg/day, qAM) during 26 weeks of maintenance treatment as they had received during the acute stabilization phase,longer-term efficacy was demonstrated.
+In one study, in which patients responding during 8 weeks of acute treatment with Effexor XR were assigned randomly to placebo or to the same dose of Effexor XR (75, 150, or 225 mg/day, qAM) during 26 weeks of maintenance treatment as they had received during the acute stabilization phase, longer-term efficacy was demonstrated.
 A second longer-term study has demonstrated the efficacy of Effexor in maintaining a response in patients with recurrent major depressive disorder who had responded and continued to be improved during an initial 26 weeks of treatment and were then randomly assigned to placebo or Effexor for periods of up to 52 weeks on the same dose (100 to 200 mg/day, on a b.i.d. schedule) (see Clinical Trials under CLINICAL PHARMACOLOGY).
 Based on these limited data, it is not known whether or not the dose of Effexor/Effexor XR needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
-In patients with Generalized Anxiety Disorder, Effexor XR has been shown to be effective in 6‑month clinical trials.
+In patients with Generalized Anxiety Disorder, Effexor XR has been shown to be effective in 6-month clinical trials.
 The need for continuing medication in patients with GAD who improve with Effexor XR treatment should be periodically reassessed.
 
-In patients with Social Anxiety Disorder, Effexor XR has been shown to be effective in a 6‑month clinical trial.
+In patients with Social Anxiety Disorder, Effexor XR has been shown to be effective in a 6-month clinical trial.
 The need for continuing medication in patients with Social Anxiety Disorder who improve with Effexor XR treatment should be periodically reassessed.
 
 In a study of panic disorder in which patients responding during 12 weeks of acute treatment with Effexor XR were assigned randomly to placebo or to the same dose of Effexor XR (75, 150, or 225 mg/day), patients continuing Effexor XR experienced a significantly longer time to relapse than patients randomized to placebo.

@@ -1,17 +1,16 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-## Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
+Read the Medication Guide that comes with your or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 
-Talk to your, or your family member’s, healthcare provider about:
+Talk to your, or your family member's, healthcare provider about:
 
-• all risks and benefits of treatment with antidepressant medicines
+- all risks and benefits of treatment with antidepressant medicines
+- all treatment choices for depression or other serious mental illness
 
-• all treatment choices for depression or other serious mental illness
-
-## What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
+What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
 1.
 Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
@@ -24,43 +23,40 @@ These include people who have (or have a family history of) bipolar illness (als
 3.
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
-• Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-This is very important when an antidepressant medicine is started or when the dose is changed.
-
-• Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-
-• Keep all follow-up visits with the healthcare provider as scheduled.
-Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- Keep all follow-up visits with the healthcare provider as scheduled.
+  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-| • thoughts about suicide or dying | • trouble sleeping (insomnia) |
+| thoughts about suicide or dying | trouble sleeping (insomnia) |
 | --- | --- |
-| • attempts to commit suicide | • new or worse irritability |
-| • new or worse depression | • acting aggressive, being angry, or violent |
-| • new or worse anxiety | • acting on dangerous impulses |
-| • feeling very agitated or restless | • an extreme increase in activity and talking (mania) |
-| • panic attacks | • other unusual changes in behavior or mood |
+| attempts to commit suicide | new or worse irritability |
+| new or worse depression | acting aggressive, being angry, or violent |
+| new or worse anxiety | acting on dangerous impulses |
+| feeling very agitated or restless | an extreme increase in activity and talking (mania) |
+| panic attacks | other unusual changes in behavior or mood |
 
-## What else do I need to know about antidepressant medicines?
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-• Never stop an antidepressant medicine without first talking to a healthcare provider.
-Stopping an antidepressant medicine suddenly can cause other symptoms.
+What else do I need to know about antidepressant medicines?
 
-• Antidepressants are medicines used to treat depression and other illnesses.
-It is important to discuss all the risks of treating depression and also the risks of not treating it.
-Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-
-• Antidepressant medicines have other side effects.
-Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-
-•Antidepressant medicines can interact with other medicines.
-Know all of the medicines that you or your family member takes.
-Keep a list of all medicines to show the healthcare provider.
-Do not start new medicines without first checking with your healthcare provider.
-
-• Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-Talk to your child’s healthcare provider for more information.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Antidepressants are medicines used to treat depression and other illnesses.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
+- Antidepressant medicines have other side effects.
+  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.
+  Know all of the medicines that you or your family member takes.
+  Keep a list of all medicines to show the healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+  Talk to your child's healthcare provider for more information.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
@@ -69,6 +65,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Wyeth®
 
-Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
+Wyeth Pharmaceuticals Inc.
 
-W10404C037 ET01 Rev 11/08
+Philadelphia, PA 19101
+
+W10404C040
+
+ET01
+
+Rev 07/09

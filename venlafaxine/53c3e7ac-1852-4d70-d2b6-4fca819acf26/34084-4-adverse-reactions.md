@@ -1,13 +1,13 @@
 # ADVERSE REACTIONS
 
-The information included in the Adverse Findings Observed in Short-Term, Placebo‑Controlled Studies with Effexor XR subsection is based on data from a pool of three 8- and 12‑week controlled clinical trials in major depressive disorder (includes two U.S. trials and one European trial), on data up to 8 weeks from a pool of five controlled clinical trials in GAD with Effexor XR®, on data up to 12 weeks from a pool of five controlled clinical trials in Social Anxiety Disorder, and on data up to 12 weeks from a pool of four controlled clinical trials in panic disorder.
+The information included in the Adverse Findings Observed in Short-Term, Placebo-Controlled Studies with Effexor XR subsection is based on data from a pool of three 8- and 12-week controlled clinical trials in major depressive disorder (includes two U.S. trials and one European trial), on data up to 8 weeks from a pool of five controlled clinical trials in GAD with Effexor XR®, on data up to 12 weeks from a pool of five controlled clinical trials in Social Anxiety Disorder, and on data up to 12 weeks from a pool of four controlled clinical trials in panic disorder.
 Information on additional adverse events associated with Effexor XR in the entire development program for the formulation and with Effexor (immediate release) is included in the Other Adverse Events Observed During the Premarketing Evaluation of Effexor and Effexor XR subsection (see also WARNINGS and PRECAUTIONS).
 
 ## Adverse Findings Observed in Short-Term, Placebo-Controlled Studies with Effexor XR
 
 ### Adverse Events Associated with Discontinuation of Treatment
 
-Approximately 11% of the 357 patients who received Effexor XR® (venlafaxine hydrochloride) extended-release capsules in placebo-controlled clinical trials for major depressive disorder discontinued treatment due to an adverse experience, compared with 6% of the 285 placebo‑treated patients in those studies.
+Approximately 11% of the 357 patients who received Effexor XR® (venlafaxine hydrochloride) extended-release capsules in placebo-controlled clinical trials for major depressive disorder discontinued treatment due to an adverse experience, compared with 6% of the 285 placebo-treated patients in those studies.
 Approximately 18% of the 1381 patients who received Effexor XR capsules in placebo-controlled clinical trials for GAD discontinued treatment due to an adverse experience, compared with 12% of the 555 placebo-treated patients in those studies.
 Approximately 15% of the 819 patients who received Effexor XR capsules in placebo-controlled clinical trials for Social Anxiety Disorder discontinued treatment due to an adverse experience, compared with 5% of the 695 placebo-treated patients in those studies.
 Approximately 7% of the 1,001 patients who received Effexor XR capsules in placebo-controlled clinical trials for panic disorder discontinued treatment due to an adverse experience, compared with 6% of the 662 placebo-treated patients in those studies.
@@ -15,21 +15,29 @@ The most common events leading to discontinuation and considered to be drug-rela
 
 Table 6 Common Adverse Events Leading to Discontinuation of Treatment in Placebo-Controlled Trials1
 
-|  | Effexor XR n = 357 |  | Placebo n = 285 | Effexor XR n = 1381 | Placebo n = 555 | Effexor XR n = 819 | Placebo n = 695 | Effexor XR n = 1001 | Placebo n = 662 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Percentage of Patients Discontinuing Due to Adverse Event |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event | Major Depressive Disorder Indication2 |  |  | GAD Indication3,4 |  | Social Anxiety Disorder Indication5 |  | Panic Disorder Indication |  |
+|  | Effexor XR n = 357 |  | Placebo n = 285 | Effexor XR n = 1381 | Placebo n = 555 | Effexor XR n = 819 | Placebo n = 695 | Effexor XR n = 1001 | Placebo n = 662 |
 | Body as a Whole |  |  |  |  |  |  |  |  |  |
-| Asthenia Headache | -- -- |  | -- -- | 3% -- | <1% -- | 2% 1% | <1% <1% | 1% -- | 0% -- |
+| Asthenia | -- |  | -- | 3% | <1% | 2% | <1% | 1% | 0% |
+| Headache | -- |  | -- | -- | -- | 1% | <1% | -- | -- |
 | Digestive System |  |  |  |  |  |  |  |  |  |
-| Nausea Anorexia Dry Mouth Vomiting | 4% 1% 1% -- |  | <1% <1% 0% -- | 8% -- 2% 1% | <1% -- <1% <1% | 3% -- -- -- | <1% -- -- -- | 2% -- -- -- | <1% -- -- -- |
+| Nausea | 4% |  | <1% | 8% | <1% | 3% | <1% | 2% | <1% |
+| Anorexia | 1% |  | <1% | -- | -- | -- | -- | -- | -- |
+| Dry Mouth | 1% |  | 0% | 2% | <1% | -- | -- | -- | -- |
+| Vomiting | -- |  | -- | 1% | <1% | -- | -- | -- | -- |
 | Nervous System |  |  |  |  |  |  |  |  |  |
-| Dizziness Insomnia Somnolence Nervousness Tremor | 2% 1% 2% -- -- |  | 1% <1% <1% -- -- | -- 3% 3% 2% 1% | -- <1% <1% <1% 0% | 2% 2% 2% -- -- | <1% <1% <1% -- -- | -- 1% -- -- -- | -- <1% -- -- -- |
+| Dizziness | 2% |  | 1% | -- | -- | 2% | <1% | -- | -- |
+| Insomnia | 1% |  | <1% | 3% | <1% | 2% | <1% | 1% | 1% |
+| Somnolence | 2% |  | <1% | 3% | <1% | 2% | <1% | -- | -- |
+| Nervousness | -- |  | -- | 2% | <1% | -- | -- | -- | -- |
+| Tremor | -- |  | -- | 1% | 0% | -- | -- | -- | -- |
 | Skin |  |  |  |  |  |  |  |  |  |
 | Sweating | -- |  | -- | 2% | <1% | -- | -- | -- | -- |
 | Urogenital System |  |  |  |  |  |  |  |  |  |
 | Impotence6 | -- |  | -- | -- | -- | 2% | 0% | -- | -- |
-| 1 Two of the major depressive disorder studies were flexible dose and one was fixed dose. Four of the GAD studies were fixed dose and one was flexible dose. Four of the Social Anxiety Disorder studies were flexible dose and one was fixed/flexible dose. Two of the panic disorder studies were flexible dose and two were fixed dose. 2 In U.S. placebo-controlled trials for major depressive disorder, the following were also common events leading to discontinuation and were considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 192], % Placebo [n = 202]): hypertension (1%, <1%); diarrhea (1%, 0%); paresthesia (1%, 0%); tremor (1%, 0%); abnormal vision, mostly blurred vision (1%, 0%); and abnormal, mostly delayed, ejaculation (1%, 0%). 3 In two short-term U.S. placebo-controlled trials for GAD, the following were also common events leading to discontinuation and were considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 476]), % Placebo [n = 201]: headache (4%, <1%); vasodilatation (1%, 0%); anorexia (2%, <1%); dizziness (4%, 1%); thinking abnormal (1%, 0%); and abnormal vision (1%, 0%). 4 In long-term placebo-controlled trials for GAD, the following was also a common event leading to discontinuation and was considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 535], % Placebo [n = 257]): decreased libido (1%, 0%). 5 In a 6-month placebo-controlled trial for Social Anxiety Disorder, the following was also a common event leading to discontinuation and was considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 257], % Placebo [n = 129]: depression (5%, 0%), libido decrease (1%, 0%), and nervousness (3%, 0%). 6 Incidence is based on the number of men (Effexor XR = 454, placebo = 357). |  |  |  |  |  |  |  |  |  |
+| 1 Two of the major depressive disorder studies were flexible dose and one was fixed dose. Four of the GAD studies were fixed dose and one was flexible dose. Four of the Social Anxiety Disorder studies were flexible dose and one was fixed/flexible dose. Two of the panic disorder studies were flexible dose and two were fixed dose.2 In U.S. placebo-controlled trials for major depressive disorder, the following were also common events leading to discontinuation and were considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 192], % Placebo [n = 202]): hypertension (1%, <1%); diarrhea (1%, 0%); paresthesia (1%, 0%); tremor (1%, 0%); abnormal vision, mostly blurred vision (1%, 0%); and abnormal, mostly delayed, ejaculation (1%, 0%). 3 In two short-term U.S. placebo-controlled trials for GAD, the following were also common events leading to discontinuation and were considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 476]), % Placebo [n = 201]: headache (4%, <1%); vasodilatation (1%, 0%); anorexia (2%, <1%); dizziness (4%, 1%); thinking abnormal (1%, 0%); and abnormal vision (1%, 0%). 4 In long-term placebo-controlled trials for GAD, the following was also a common event leading to discontinuation and was considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 535], % Placebo [n = 257]): decreased libido (1%, 0%). 5 In a 6-month placebo-controlled trial for Social Anxiety Disorder, the following was also a common event leading to discontinuation and was considered to be drug-related for Effexor XR-treated patients (% Effexor XR [n = 257], % Placebo [n = 129]: depression (5%, 0%), libido decrease (1%, 0%), and nervousness (3%, 0%). 6 Incidence is based on the number of men (Effexor XR = 454, placebo = 357). |  |  |  |  |  |  |  |  |  |
 
 ### Adverse Events Occurring at an Incidence of 2% or More Among Effexor XR-Treated Patients
 
@@ -64,42 +72,73 @@ Note in particular the following adverse events that occurred in at least 5% of 
 
 Table 7 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Controlled Effexor XR Clinical Trials in Patients with Major Depressive Disorder1,2
 
-| Body System Preferred Term | Effexor XR (n = 357) | Placebo (n = 285) |
-| --- | --- | --- |
 |  | % Reporting Event |  |
+| --- | --- | --- |
+| Body System Preferred Term | Effexor XR (n = 357) | Placebo (n = 285) |
 | Body as a Whole |  |  |
 | Asthenia | 8% | 7% |
 | Cardiovascular System |  |  |
-| Vasodilatation3 Hypertension | 4% 4% | 2% 1% |
+| Vasodilatation3 | 4% | 2% |
+| Hypertension | 4% | 1% |
 | Digestive System |  |  |
-| Nausea Constipation Anorexia Vomiting Flatulence | 31% 8% 8% 4% 4% | 12% 5% 4% 2% 3% |
+| Nausea | 31% | 12% |
+| Constipation | 8% | 5% |
+| Anorexia | 8% | 4% |
+| Vomiting | 4% | 2% |
+| Flatulence | 4% | 3% |
 | Metabolic/Nutritional |  |  |
 | Weight Loss | 3% | 0% |
 | Nervous System |  |  |
-| Dizziness Somnolence Insomnia Dry Mouth Nervousness Abnormal Dreams4 Tremor Depression Paresthesia Libido Decreased Agitation | 20% 17% 17% 12% 10% 7% 5% 3% 3% 3% 3% | 9% 8% 11% 6% 5% 2% 2% <1% 1% <1% 1% |
+| Dizziness | 20% | 9% |
+| Somnolence | 17% | 8% |
+| Insomnia | 17% | 11% |
+| Dry Mouth | 12% | 6% |
+| Nervousness | 10% | 5% |
+| Abnormal Dreams4 | 7% | 2% |
+| Tremor | 5% | 2% |
+| Depression | 3% | <1% |
+| Paresthesia | 3% | 1% |
+| Libido Decreased | 3% | <1% |
+| Agitation | 3% | 1% |
 | Respiratory System |  |  |
-| Pharyngitis Yawn | 7% 3% | 6% 0% |
+| Pharyngitis | 7% | 6% |
+| Yawn | 3% | 0% |
 | Skin |  |  |
 | Sweating | 14% | 3% |
 | Special Senses |  |  |
 | Abnormal Vision5 | 4% | <1% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation (male)6,7 Impotence7 Anorgasmia (female)8,9 | 16% 4% 3% | <1% <1% <1% |
-| 1 Incidence, rounded to the nearest %, for events reported by at least 2% of patients treated with Effexor XR, except the following events which had an incidence equal to or less than placebo: abdominal pain, accidental injury, anxiety, back pain, bronchitis, diarrhea, dysmenorrhea, dyspepsia, flu syndrome, headache, infection, pain, palpitation, rhinitis, and sinusitis. 2 <1% indicates an incidence greater than zero but less than 1%. 3 Mostly “hot flashes.” 4 Mostly“vivid dreams,” “nightmares,” and “increased dreaming.” 5 Mostly “blurred vision” and “difficulty focusing eyes.” 6 Mostly“delayed ejaculation.” 7 Incidence is based on the number of male patients. 8 Mostly “delayed orgasm” or “anorgasmia.” 9 Incidence is based on the number of female patients. |  |  |
+| Abnormal Ejaculation | 16% | <1% |
+| (male)6,7 |  |  |
+| Impotence7 | 4% | <1% |
+| Anorgasmia (female)8,9 | 3% | <1% |
+| 1 Incidence, rounded to the nearest %, for events reported by at least 2% of patients treated with Effexor XR, except the following events which had an incidence equal to or less than placebo: abdominal pain, accidental injury, anxiety, back pain, bronchitis, diarrhea, dysmenorrhea, dyspepsia, flu syndrome, headache, infection, pain, palpitation, rhinitis, and sinusitis.2 <1% indicates an incidence greater than zero but less than 1%. 3 Mostly “hot flashes.” 4 Mostly “vivid dreams,” “nightmares,” and “increased dreaming.” 5 Mostly “blurred vision” and “difficulty focusing eyes.” 6 Mostly “delayed ejaculation.” 7 Incidence is based on the number of male patients. 8 Mostly “delayed orgasm” or “anorgasmia.” 9 Incidence is based on the number of female patients. |  |  |
 
 Table 8 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Controlled Effexor XR Clinical Trials in GAD Patients1,2
 
-| Body System Preferred Term | Effexor XR (n = 1381) | Placebo (n = 555) |
-| --- | --- | --- |
 |  | % Reporting Event |  |
+| --- | --- | --- |
+| Body System Preferred Term | Effexor XR (n = 1381) | Placebo (n = 555) |
 | Body as a Whole |  |  |
 | Asthenia | 12% | 8% |
 | Cardiovascular System |  |  |
 | Vasodilatation3 | 4% | 2% |
 | Digestive System |  |  |
-| Nausea Constipation Anorexia Vomiting | 35% 10% 8% 5% | 12% 4% 2% 3% |
+| Nausea | 35% | 12% |
+| Constipation | 10% | 4% |
+| Anorexia | 8% | 2% |
+| Vomiting | 5% | 3% |
 | Nervous System |  |  |
-| Dizziness Dry Mouth Insomnia Somnolence Nervousness Libido Decreased Tremor Abnormal Dreams4 Hypertonia Paresthesia | 16% 16% 15% 14% 6% 4% 4% 3% 3% 2% | 11% 6% 10% 8% 4% 2% <1% 2% 2% 1% |
+| Dizziness | 16% | 11% |
+| Dry Mouth | 16% | 6% |
+| Insomnia | 15% | 10% |
+| Somnolence | 14% | 8% |
+| Nervousness | 6% | 4% |
+| Libido Decreased | 4% | 2% |
+| Tremor | 4% | <1% |
+| Abnormal Dreams4 | 3% | 2% |
+| Hypertonia | 3% | 2% |
+| Paresthesia | 2% | 1% |
 | Respiratory System |  |  |
 | Yawn | 3% | <1% |
 | Skin |  |  |
@@ -107,24 +146,46 @@ Table 8 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Control
 | Special Senses |  |  |
 | Abnormal Vision5 | 5% | <1% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation6,7 Impotence7 Orgasmic Dysfunction (female)8,9 | 11% 5% 2% | <1% <1% 0% |
-| 1 Adverse events for which the Effexor XR reporting rate was less than or equal to the placebo rate are not included. These events are: abdominal pain, accidental injury, anxiety, back pain, diarrhea, dysmenorrhea, dyspepsia, flu syndrome, headache, infection, myalgia, pain, palpitation, pharyngitis, rhinitis, tinnitus, and urinary frequency. 2 <1% means greater than zero but less than 1%. 3 Mostly “hot flashes.” 4 Mostly “vivid dreams,” “nightmares,” and “increased dreaming.” 5 Mostly “blurred vision” and “difficulty focusing eyes.” 6 Includes “delayed ejaculation” and “anorgasmia.” 7 Percentage based on the number of males (Effexor XR = 525, placebo = 220). 8 Includes “delayed orgasm,” “abnormal orgasm,” and “anorgasmia.” 9 Percentage based on the number of females (Effexor XR = 856, placebo = 335). |  |  |
+| Abnormal Ejaculation6,7 | 11% | <1% |
+| Impotence7 | 5% | <1% |
+| Orgasmic Dysfunction (female)8,9 | 2% | 0% |
+| 1 Adverse events for which the Effexor XR reporting rate was less than or equal to the placebo rate are not included. These events are: abdominal pain, accidental injury, anxiety, back pain, diarrhea, dysmenorrhea, dyspepsia, flu syndrome, headache, infection, myalgia, pain, palpitation, pharyngitis, rhinitis, tinnitus, and urinary frequency.2 <1% means greater than zero but less than 1%. 3 Mostly “hot flashes.” 4 Mostly “vivid dreams,” “nightmares,” and “increased dreaming.” 5 Mostly “blurred vision” and “difficulty focusing eyes.” 6 Includes “delayed ejaculation” and “anorgasmia.” 7 Percentage based on the number of males (Effexor XR = 525, placebo = 220). 8 Includes “delayed orgasm,” “abnormal orgasm,” and “anorgasmia.” 9 Percentage based on the number of females (Effexor XR = 856, placebo = 335). |  |  |
 
 Table 9 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Controlled Effexor XR Clinical Trials in Social Anxiety Disorder Patients1,2
 
-| Body System Preferred Term | Effexor XR (n = 819) | Placebo (n = 695) |
-| --- | --- | --- |
 |  | % Reporting Event |  |
+| --- | --- | --- |
+| Body System Preferred Term | Effexor XR (n = 819) | Placebo (n = 695) |
 | Body as a Whole |  |  |
-| Headache Asthenia Abdominal Pain Accidental Injury | 38% 19% 6% 4% | 34% 9% 4% 3% |
+| Headache | 38% | 34% |
+| Asthenia | 19% | 9% |
+| Abdominal Pain | 6% | 4% |
+| Accidental Injury | 4% | 3% |
 | Cardiovascular System |  |  |
-| Hypertension Vasodilatation3 Palpitation | 5% 3% 3% | 3% 2% 1% |
+| Hypertension | 5% | 3% |
+| Vasodilatation3 | 3% | 2% |
+| Palpitation | 3% | 1% |
 | Digestive System |  |  |
-| Nausea Anorexia4 Constipation Diarrhea Dyspepsia Vomiting | 31% 17% 9% 8% 7% 3% | 9% 2% 3% 6% 6% 2% |
+| Nausea | 31% | 9% |
+| Anorexia4 | 17% | 2% |
+| Constipation | 9% | 3% |
+| Diarrhea | 8% | 6% |
+| Dyspepsia | 7% | 6% |
+| Vomiting | 3% | 2% |
 | Metabolic/Nutritional |  |  |
 | Weight Loss | 2% | <1% |
 | Nervous System |  |  |
-| Insomnia Somnolence Dry Mouth Dizziness Nervousness Libido Decreased Anxiety Tremor Agitation Abnormal Dreams5 Twitching | 24% 20% 17% 16% 10% 8% 5% 5% 3% 3% 3% | 8% 8% 4% 8% 5% 2% 4% 2% 1% <1% <1% |
+| Insomnia | 24% | 8% |
+| Somnolence | 20% | 8% |
+| Dry Mouth | 17% | 4% |
+| Dizziness | 16% | 8% |
+| Nervousness | 10% | 5% |
+| Libido Decreased | 8% | 2% |
+| Anxiety | 5% | 4% |
+| Tremor | 5% | 2% |
+| Agitation | 3% | 1% |
+| Abnormal Dreams5 | 3% | <1% |
+| Twitching | 3% | <1% |
 | Respiratory System |  |  |
 | Yawn | 5% | <1% |
 | Skin |  |  |
@@ -132,33 +193,45 @@ Table 9 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Control
 | Special Senses |  |  |
 | Abnormal Vision6 | 4% | 2% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation7,8 Impotence8 Orgasmic Dysfunction9,10 | 19% 6% 5% | <1% <1% <1% |
-| 1 Adverse events for which the Effexor XR reporting rate was less than or equal to the placebo rate are not included. These events are: arthralgia, back pain, dysmenorrhea, flu syndrome, infection, pain, pharyngitis, rhinitis, and upper respiratory infection. 2 <1% means greater than zero but less than 1%. 3 Mostly “hot flashes.” 4 Mostly “decreased appetite” and “loss of appetite.” 5 Mostly “vivid dreams,” “nightmares,” and “increased dreaming.” 6 Mostly “blurred vision.” 7 Includes “delayed ejaculation” and “anorgasmia.” 8 Percentage based on the number of males (Effexor XR = 454, placebo = 357). 9 Includes “abnormal orgasm” and “anorgasmia.” 10 Percentage based on the number of females (Effexor XR = 365, placebo = 338). |  |  |
+| Abnormal Ejaculation7,8 | 19% | <1% |
+| Impotence8 | 6% | <1% |
+| Orgasmic Dysfunction9,10 | 5% | <1% |
+| 1 Adverse events for which the Effexor XR reporting rate was less than or equal to the placebo rate are not included. These events are: arthralgia, back pain, dysmenorrhea, flu syndrome, infection, pain, pharyngitis, rhinitis, and upper respiratory infection.2 <1% means greater than zero but less than 1%. 3 Mostly “hot flashes.” 4 Mostly “decreased appetite” and “loss of appetite.” 5 Mostly “vivid dreams,” “nightmares,” and “increased dreaming.” 6 Mostly “blurred vision.” 7 Includes “delayed ejaculation” and “anorgasmia.” 8 Percentage based on the number of males (Effexor XR = 454, placebo = 357). 9 Includes “abnormal orgasm” and “anorgasmia.” 10 Percentage based on the number of females (Effexor XR = 365, placebo = 338). |  |  |
 
 Table 10 Treatment-Emergent Adverse Event Incidence in Short-Term Placebo-Controlled Effexor XR Clinical Trials in Panic Disorder Patients1,2
 
-| Body System Preferred Term | Effexor XR (n = 1001) | Placebo (n = 662) |
-| --- | --- | --- |
-|  | % Reporting Event |  |
-| Body as a Whole |  |  |
-| Asthenia | 10% | 8% |
-| Cardiovascular System |  |  |
-| Hypertension Vasodilatation3 | 4% 3% | 3% 2% |
-| Digestive System |  |  |
-| Nausea Dry mouth Constipation Anorexia4 | 21% 12% 9% 8% | 14% 6% 3% 3% |
-| Nervous System |  |  |
-| Insomnia Somnolence Dizziness Tremor Libido Decreased | 17% 12% 11% 5% 4% | 9% 6% 10% 2% 2% |
-| Skin |  |  |
-| Sweating | 10% | 2% |
-| Urogenital System |  |  |
-| Abnormal Ejaculation5,6 Impotence6 Orgasmic Dysfunction7,8 | 8% 4% 2% | <1% <1% <1% |
-| 1 Adverse events for which the Effexor XR reporting rate was less than or equal to the placebo rate are not included. These events are: abdominal pain, abnormal vision, accidental injury, anxiety, back pain, diarrhea, dysmenorrhea, dyspepsia, flu syndrome, headache, infection, nervousness, pain, paresthesia, pharyngitis, rash, rhinitis, and vomiting. 2 <1% means greater than zero but less than 1%. 3 Mostly “hot flushes.” 4 Mostly “decreased appetite” and “loss of appetite.” 5 Includes “delayed or retarded ejaculation” and “anorgasmia.” 6 Percentage based on the number of males (Effexor XR = 335, placebo = 238). 7 Includes “anorgasmia” and “delayed orgasm.” 8 Percentage based on the number of females (Effexor XR = 666, placebo = 424). |  |  |
+|  | % Reporting Event |  |  |
+| --- | --- | --- | --- |
+| Body System Preferred Term | Effexor XR (n = 1001) |  | Placebo (n = 662) |
+| Body as a Whole |  |  |  |
+| Asthenia | 10% |  | 8% |
+| Cardiovascular System |  |  |  |
+| Hypertension | 4% |  | 3% |
+| Vasodilatation3 | 3% |  | 2% |
+| Digestive System |  |  |  |
+| Nausea | 21% |  | 14% |
+| Dry mouth | 12% |  | 6% |
+| Constipation | 9% |  | 3% |
+| Anorexia4 | 8% |  | 3% |
+| Nervous System |  |  |  |
+| Insomnia | 17% |  | 9% |
+| Somnolence | 12% |  | 6% |
+| Dizziness | 11% |  | 10% |
+| Tremor | 5% |  | 2% |
+| Libido Decreased | 4% |  | 2% |
+| Skin |  |  |  |
+| Sweating | 10% |  | 2% |
+| Urogenital System |  |  |  |
+| Abnormal Ejaculation5,6 | 8% |  | <1% |
+| Impotence6 | 4% |  | <1% |
+| Orgasmic Dysfunction7,8 | 2% |  | <1% |
+| 1 Adverse events for which the Effexor XR reporting rate was less than or equal to the placebo rate are not included. These events are: abdominal pain, abnormal vision, accidental injury, anxiety, back pain, diarrhea, dysmenorrhea, dyspepsia, flu syndrome, headache, infection, nervousness, pain, paresthesia, pharyngitis, rash, rhinitis, and vomiting.2 <1% means greater than zero but less than 1%. 3 Mostly “hot flushes.” 4 Mostly “decreased appetite” and “loss of appetite.” 5 Includes “delayed or retarded ejaculation” and “anorgasmia.” 6 Percentage based on the number of males (Effexor XR = 335, placebo = 238). 7 Includes “anorgasmia” and “delayed orgasm.” 8 Percentage based on the number of females (Effexor XR = 666, placebo = 424). |  |  |  |
 
 ## Vital Sign Changes
 
 Effexor XR (venlafaxine hydrochloride) extended-release capsules treatment for up to 12 weeks in premarketing placebo-controlled major depressive disorder trials was associated with a mean final on-therapy increase in pulse rate of approximately 2 beats per minute, compared with 1 beat per minute for placebo.
 Effexor XR treatment for up to 8 weeks in premarketing placebo-controlled GAD trials was associated with a mean final on-therapy increase in pulse rate of approximately 2 beats per minute, compared with less than 1 beat per minute for placebo.
-Effexor XR treatment for up to 12 weeks in premarketing placebo‑controlled Social Anxiety Disorder trials was associated with a mean final on-therapy increase in pulse rate of approximately 3 beats per minute, compared with an increase of 1 beat per minute for placebo.
+Effexor XR treatment for up to 12 weeks in premarketing placebo-controlled Social Anxiety Disorder trials was associated with a mean final on-therapy increase in pulse rate of approximately 3 beats per minute, compared with an increase of 1 beat per minute for placebo.
 Effexor XR treatment for up to 12 weeks in premarketing placebo-controlled panic disorder trials was associated with a mean final on-therapy increase in pulse rate of approximately 1 beat per minute, compared with a decrease of less than 1 beat per minute for placebo.
 (See the Sustained Hypertension and Elevations in Systolic and Diastolic Blood Pressure sections of WARNINGS for effects on blood pressure.)
 
@@ -175,7 +248,7 @@ Effexor XR treatment for up to 12 weeks in premarketing placebo-controlled panic
 
 Patients treated with Effexor (immediate release) for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
 This increase was duration dependent over the study period and tended to be greater with higher doses.
-Clinically relevant increases in serum cholesterol, defined as 1) a final on‑therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, or 2) an average on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
+Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, or 2) an average on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
 
 ### Serum Triglycerides
 
@@ -238,7 +311,7 @@ Urogenital system - Frequent: albuminuria, urination impaired; Infrequent: ameno
 
 ### Adverse Events
 
-Voluntary reports of other adverse events temporally associated with the use of venlafaxine that have been received since market introduction and that may have no causal relationship with the use of venlafaxine include the following: agranulocytosis, anaphylaxis, aplastic anemia, catatonia, congenital anomalies, impaired coordination and balance, CPK increased, deep vein thrombophlebitis, delirium, EKG abnormalities such as QT prolongation; cardiac arrhythmias including atrial fibrillation, supraventricular tachycardia, ventricular extrasystoles, and rare reports of ventricular fibrillation and ventricular tachycardia, including torsade de pointes; toxic epidermal necrolysis/Stevens-Johnson Syndrome, erythema multiforme, extrapyramidal symptoms (including dyskinesia and tardive dyskinesia), angle-closure glaucoma, hemorrhage (including eye and gastrointestinal bleeding), hepatic events (including GGT elevation; abnormalities of unspecified liver function tests; liver damage, necrosis, or failure; and fatty liver), interstitial lung disease, involuntary movements, LDH increased, neuroleptic malignant syndrome-like events (including a case of a 10-year-old who may have been taking methylphenidate, was treated and recovered), neutropenia, night sweats, pancreatitis, pancytopenia, panic, prolactin increased, renal failure, rhabdomyolysis, serotonin syndrome, shock-like electrical sensations or tinnitus (in some cases, subsequent to the discontinuation of venlafaxine or tapering of dose), and syndrome of inappropriate antidiuretic hormone secretion (usually in the elderly).
+Voluntary reports of other adverse events temporally associated with the use of venlafaxine that have been received since market introduction and that may have no causal relationship with the use of venlafaxine include the following: agranulocytosis, anaphylaxis, angioedema, aplastic anemia, catatonia, congenital anomalies, impaired coordination and balance, CPK increased, deep vein thrombophlebitis, delirium, EKG abnormalities such as QT prolongation; cardiac arrhythmias including atrial fibrillation, supraventricular tachycardia, ventricular extrasystoles, and rare reports of ventricular fibrillation and ventricular tachycardia, including torsade de pointes; toxic epidermal necrolysis/Stevens-Johnson Syndrome, erythema multiforme, extrapyramidal symptoms (including dyskinesia and tardive dyskinesia), angle-closure glaucoma, hemorrhage (including eye and gastrointestinal bleeding), hepatic events (including GGT elevation; abnormalities of unspecified liver function tests; liver damage, necrosis, or failure; and fatty liver), interstitial lung disease, involuntary movements, LDH increased, neutropenia, night sweats, pancreatitis, pancytopenia, panic, prolactin increased, renal failure, rhabdomyolysis, shock-like electrical sensations or tinnitus (in some cases, subsequent to the discontinuation of venlafaxine or tapering of dose), and syndrome of inappropriate antidiuretic hormone secretion (usually in the elderly).
 
 ### Drug Interactions
 

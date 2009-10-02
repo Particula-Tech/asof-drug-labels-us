@@ -1,22 +1,33 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020699"
+  ],
   "inn": "venlafaxine",
-  "labeler": "Wyeth Pharmaceuticals Inc.",
+  "labeler": "Wyeth Pharmaceuticals Company",
   "package_ndcs": [
+    "0008-0833-02",
     "0008-0833-03",
     "0008-0833-20",
     "0008-0833-21",
     "0008-0833-22",
+    "0008-0836-02",
     "0008-0836-03",
     "0008-0836-20",
     "0008-0836-21",
     "0008-0836-22",
+    "0008-0837-02",
     "0008-0837-03",
     "0008-0837-20",
     "0008-0837-21",
     "0008-0837-22"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "venlafaxine hydrochloride",
+      "name": "Effexor"
+    }
+  ],
   "setid": "53c3e7ac-1852-4d70-d2b6-4fca819acf26",
   "source": "dailymed"
 }

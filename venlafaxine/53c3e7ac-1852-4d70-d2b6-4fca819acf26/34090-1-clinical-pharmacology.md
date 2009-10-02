@@ -4,7 +4,7 @@
 
 The mechanism of the antidepressant action of venlafaxine in humans is believed to be associated with its potentiation of neurotransmitter activity in the CNS.
 Preclinical studies have shown that venlafaxine and its active metabolite, O-desmethylvenlafaxine (ODV), are potent inhibitors of neuronal serotonin and norepinephrine reuptake and weak inhibitors of dopamine reuptake.
-Venlafaxine and ODV have no significant affinity for muscarinic cholinergic, H1‑histaminergic, orα1-adrenergic receptors in vitro.
+Venlafaxine and ODV have no significant affinity for muscarinic cholinergic, H1-histaminergic, or α1-adrenergic receptors in vitro.
 Pharmacologic activity at these receptors is hypothesized to be associated with the various anticholinergic, sedative, and cardiovascular effects seen with other psychotropic drugs.
 Venlafaxine and ODV do not possess monoamine oxidase (MAO) inhibitory activity.
 
@@ -91,7 +91,7 @@ Patients receiving continued Effexor treatment experienced significantly lower r
 
 ### Generalized Anxiety Disorder
 
-The efficacy of Effexor XR capsules as a treatment for Generalized Anxiety Disorder (GAD) was established in two 8-week, placebo‑controlled, fixed-dose studies, one 6-month, placebo-controlled, fixed-dose study, and one 6-month, placebo-controlled, flexible-dose study in adult outpatients meeting DSM‑IV criteria for GAD.
+The efficacy of Effexor XR capsules as a treatment for Generalized Anxiety Disorder (GAD) was established in two 8-week, placebo-controlled, fixed-dose studies, one 6-month, placebo-controlled, fixed-dose study, and one 6-month, placebo-controlled, flexible-dose study in adult outpatients meeting DSM-IV criteria for GAD.
 
 One 8-week study evaluating Effexor XR doses of 75, 150, and 225 mg/day, and placebo showed that the 225 mg/day dose was more effective than placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score, both the HAM-A anxiety and tension items, and the Clinical Global Impressions (CGI) scale.
 While there was also evidence for superiority over placebo for the 75 and 150 mg/day doses, these doses were not as consistently effective as the highest dose.
@@ -105,7 +105,7 @@ Examination of gender subsets of the population studied did not reveal any diffe
 
 ### Social Anxiety Disorder (Social Phobia)
 
-The efficacy of Effexor XR capsules as a treatment for Social Anxiety Disorder (also known as Social Phobia) was established in four double-blind, parallel‑group, 12-week, multicenter, placebo-controlled, flexible-dose studies and one double-blind, parallel-group, 6-month, placebo‑controlled, fixed/flexible-dose study in adult outpatients meeting DSM-IV criteria for Social Anxiety Disorder.
+The efficacy of Effexor XR capsules as a treatment for Social Anxiety Disorder (also known as Social Phobia) was established in four double-blind, parallel-group, 12-week, multicenter, placebo-controlled, flexible-dose studies and one double-blind, parallel-group, 6-month, placebo-controlled, fixed/flexible-dose study in adult outpatients meeting DSM-IV criteria for Social Anxiety Disorder.
 Patients received doses in a range of 75 to 225 mg/day.
 Efficacy was assessed with the Liebowitz Social Anxiety Scale (LSAS).
 In these five trials, Effexor XR was significantly more effective than placebo on change from baseline to endpoint on the LSAS total score.
