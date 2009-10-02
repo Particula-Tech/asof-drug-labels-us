@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019962"
+  ],
   "inn": "metoprolol",
   "labeler": "AstraZeneca LP",
   "package_ndcs": [
@@ -11,7 +13,13 @@
     "0186-1092-39",
     "0186-1094-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "metoprolol succinate",
+      "name": "TOPROL"
+    }
+  ],
   "setid": "4a5762c6-d7a2-4e4c-10b7-8832b36fa5f4",
   "source": "dailymed"
 }

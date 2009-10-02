@@ -17,8 +17,9 @@ On the basis of the pharmacologic actions of metoprolol, the following general m
 
 Elimination of the Drug: Gastric lavage should be performed.
 
-Bradycardia: Atropine should be administered.
-If there is no response to vagal blockade, isoproterenol should be administered cautiously.
+Bradycardia: Atropine should be given intravenously.
+If the response, is inadequate, isoproterenol or any other agent with positive chronotropic properties may be given cautiously.
+Under some circumstances, transvenous pacemaker insertion may be necessary.
 
 Hypotension: A vasopressor should be administered, eg, levarterenol or dopamine.
 

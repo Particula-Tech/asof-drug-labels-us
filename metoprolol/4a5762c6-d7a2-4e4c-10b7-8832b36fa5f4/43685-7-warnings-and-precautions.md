@@ -4,7 +4,12 @@ Bronchospastic Diseases: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERA
 Because of its relative beta1-selectivity, however, TOPROL-XL may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
 Since beta1-selectivity is not absolute, a beta2-stimulating agent should be administered concomitantly, and the lowest possible dose of TOPROL-XL should be used (see DOSAGE AND ADMINISTRATION).
 
+Pheochromocytoma: If TOPROL-XL is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
+Administration of beta blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
 Major Surgery: The necessity or desirability of withdrawing beta-blocking therapy prior to major surgery is controversial; the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Acute initiation of high-dose metoprolol in patients undergoing non-cardiac surgery should be avoided, since it has been associated with bradycardia, hypotension and stroke, including fatal outcomes in patients with cardiovascular risk factors.
 
 TOPROL-XL, like other beta-blockers, is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, eg, dobutamine or isoproterenol.
 However, such patients may be subject to protracted severe hypotension.
@@ -26,7 +31,7 @@ Calcium Channel Blockers: Because of significant inotropic and chronotropic effe
 ## General
 
 TOPROL-XL should be used with caution in patients with impaired hepatic function.
-In patients with pheochromocytoma, an alpha-blocking agent should be initiated prior to the use of any beta-blocking agent.
+In patients with pheochromocytoma, an alpha-blocking agent should be initiated prior to the use of any beta-blocking agent (see WARNINGS).
 
 Worsening cardiac failure may occur during up-titration of TOPROL-XL.
 If such symptoms occur, diuretics should be increased and the dose of TOPROL-XL should not be advanced until clinical stability is restored (see DOSAGE AND ADMINISTRATION).
@@ -49,7 +54,7 @@ Clinical laboratory findings may include elevated levels of serum transaminase, 
 
 ## Drug Interactions
 
-Catecholamine-depleting drugs (eg, reserpine, mono amine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents.
+Catecholamine-depleting drugs (eg, reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents.
 Patients treated with TOPROL-XL plus a catecholamine depletor should therefore be closely observed for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
 
 Drugs that inhibit CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone are likely to increase metoprolol concentration.
@@ -95,9 +100,9 @@ Caution should be exercised when TOPROL-XL is administered to a nursing woman.
 
 One hundred forty-four hypertensive pediatric patients aged 6 to 16 years were randomized to placebo or to one of three dose levels of TOPROL-XL (0.2, 1.0 or 2.0 mg/kg once daily) and followed for 4 weeks.
 The study did not meet its primary endpoint (dose response for reduction in SBP).
-Some pre-specified secondary end points demonstrated effectiveness including:
+Some pre-specified secondary endpoints demonstrated effectiveness including:
 
-● Dose-response for reduction in DBP
+● Dose-response for reduction in DBP,
 
 ● 1.0 mg/kg vs. placebo for change in SBP, and
 

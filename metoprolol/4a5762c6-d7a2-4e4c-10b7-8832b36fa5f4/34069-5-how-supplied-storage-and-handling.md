@@ -14,11 +14,12 @@ Store at 25°C (77°F).
 Excursions permitted to 15-30°C (59-86°F).
 (See USP Controlled Room Temperature.)
 
-TOPROL-XL is a trademark of the AstraZeneca group of companies.
+TOPROL-XL and PLENDIL are trademarks of the AstraZeneca group of companies.
 
-© AstraZeneca 2007
+© AstraZeneca 2009
 
-30015-04Rev 07/07
+30015-05 Rev.
+05/09
 
 Manufactured for: AstraZeneca LP
 

@@ -47,7 +47,7 @@ In the MERIT-HF study comparing TOPROL-XL in daily doses up to 200 mg (mean dose
 
 The table below lists adverse events in the MERIT-HF study that occurred at an incidence of equal to or greater than 1% in the TOPROL-XL group and greater than placebo by more than 0.5%, regardless of the assessment of causality.
 
-Adverse Events Occurring in the MERIT-HF Study at an Incidence ≥ 1% in the TOPROL-XL Group and Greather Than Placebo by More Than 0.5%
+Adverse Events Occurring in the MERIT-HF Study at an Incidence ≥ 1% in the TOPROL-XL Group and Greater Than Placebo by More Than 0.5%
 
 |  | % of patients | % of patients |
 | --- | --- | --- |
