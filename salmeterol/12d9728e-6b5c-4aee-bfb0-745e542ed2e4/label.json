@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020692"
+  ],
   "inn": "salmeterol",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0520-00",
     "0173-0521-00"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "salmeterol xinafoate",
+      "name": "SEREVENT"
+    }
+  ],
   "setid": "12d9728e-6b5c-4aee-bfb0-745e542ed2e4",
   "source": "dailymed"
 }

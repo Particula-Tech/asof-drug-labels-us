@@ -52,7 +52,7 @@ In 4 clinical trials in adult and adolescent patients with asthma (N = 1,922), t
 The studies utilized the inhalation aerosol formulation of salmeterol xinafoate for a treatment period of 6 months.
 They compared the addition of salmeterol therapy to an increase (at least doubling) of the inhaled corticosteroid dose.
 
-Two randomized, double-blind, controlled, parallel-group clinical trials (N = 997) enrolled patients (ages 18 to 82 years) with persistent asthma who were previouslymaintained but not adequately controlled on inhaled corticosteroid therapy.
+Two randomized, double-blind, controlled, parallel-group clinical trials (N = 997) enrolled patients (ages 18 to 82 years) with persistent asthma who were previously maintained but not adequately controlled on inhaled corticosteroid therapy.
 During the 2-week run-in period, all patients were switched to beclomethasone dipropionate 168 mcg twice daily.
 Patients still not adequately controlled were randomized to either the addition of SEREVENT Inhalation Aerosol 42 mcg twice daily or an increase of beclomethasone dipropionate to 336 mcg twice daily.
 As compared to the doubled dose of beclomethasone dipropionate, the addition of SEREVENT Inhalation Aerosol resulted in statistically significantly greater improvements in pulmonary function and asthma symptoms, and statistically significantly greater reduction in supplemental albuterol use.
@@ -76,10 +76,14 @@ Results of 2 Exercise-Induced Bronchospasm Studies in Adolescents and Adults
 | --- | --- | --- | --- | --- | --- |
 | n | % Total | n | % Total |  |  |
 | 0.5-Hour postdose exercise challenge | % Fall in FEV1 |  |  |  |  |
-|  | <10%≥10%, <20%≥20% | 15334 | 29665 | 311110 | 602119 |
-| Mean maximal % fall in FEV1 (SE) |  | -25% (1.8) |  | -11% (1.9 |  |
-| 8.5–Hour postdose exercise challenge | % Fall in FEV1 |  |  |  |  |
-|  | <10%≥10%, <20%≥20% | 12733 | 231363 | 261214 | 502327 |
+| <10% | 15 | 29 | 31 | 60 |  |
+| ≥10%, <20% | 3 | 6 | 11 | 21 |  |
+| ≥20% | 34 | 65 | 10 | 19 |  |
+| Mean maximal % fall in FEV1 (SE) |  | -25% (1.8) |  | -11% (1.9) |  |
+| 8.5-Hour postdose exercise challenge | % Fall in FEV1 |  |  |  |  |
+| <10% | 12 | 23 | 26 | 50 |  |
+| ≥10%, <20% | 7 | 13 | 12 | 23 |  |
+| ≥20% | 33 | 63 | 14 | 27 |  |
 | Mean maximal % fall in FEV1 (SE) |  | -27% (1.5) |  | -16% (2.0) |  |
 
 In 2 randomized studies in children 4 to 11 years old with asthma and EIB (N = 50), a single 50-mcg dose of SEREVENT DISKUS prevented EIB when dosed 30 minutes prior to exercise, with protection lasting up to 11.5 hours in repeat testing following this single dose in many patients.
@@ -89,7 +93,7 @@ In 2 randomized studies in children 4 to 11 years old with asthma and EIB (N = 5
 The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized, double-blind study that enrolled long-acting beta2-agonist–naive patients with asthma (average age of 39 years, 71% Caucasian, 18% African American, 8% Hispanic) to assess the safety of salmeterol (SEREVENT Inhalation Aerosol) 42 mcg twice daily over 28 weeks compared to placebo when added to usual asthma therapy.
 
 A planned interim analysis was conducted when approximately half of the intended number of patients had been enrolled (N = 26,355), which led to premature termination of the study.
-The results of the interim analysis showed that patients receiving salmeterol were at increased risk for fatal asthma events(see Table 3 and Figure 2).
+The results of the interim analysis showed that patients receiving salmeterol were at increased risk for fatal asthma events (see Table 3 and Figure 2).
 In the total population, a higher rate of asthma-related death occurred in patients treated with salmeterol than those treated with placebo (0.10% vs. 0.02%; relative risk 4.37 [95% CI 1.25, 15.34]).
 
 Post-hoc subpopulation analyses were performed.
@@ -104,8 +108,8 @@ Table 3: Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Res
 |  | Salmeteroln (%*) | Placebon (%*) | Relative Risk† (95% Confidence Interval) | Excess Deaths Expressed per 10,000 Patients‡ (95% Confidence Interval) |
 | --- | --- | --- | --- | --- |
 | Total Population§ |  |  |  |  |
-| Salmeterol: N = 1,3176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |
-| Placebo: N = 1,3179 |  | 3 (0.02%) |  |  |
+| Salmeterol: N = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |
+| Placebo: N = 13,179 |  | 3 (0.02%) |  |  |
 | Caucasian |  |  |  |  |
 | Salmeterol: N = 9,281 | 6 (0.07%) |  | 5.82 (0.70, 48.37) | 6 (1, 10) |
 | Placebo: N = 9,361 |  | 1 (0.01%) |  |  |

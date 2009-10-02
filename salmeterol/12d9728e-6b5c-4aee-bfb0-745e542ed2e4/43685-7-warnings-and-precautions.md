@@ -64,7 +64,7 @@ Any change in corticosteroid dosage should be made ONLY after clinical evaluatio
 The recommended dosage should not be exceeded.
 As with other inhaled beta2-adrenergic drugs, SEREVENT DISKUS should not be used more often or at higher doses than recommended.
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
-Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventriculararrhythmias.
+Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
 
 7.
 Paradoxical bronchospasm.
