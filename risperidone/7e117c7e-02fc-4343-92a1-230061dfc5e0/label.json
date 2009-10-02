@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020272",
+    "NDA020588",
+    "NDA021444"
+  ],
   "inn": "risperidone",
-  "labeler": "Janssen, L.P.",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
     "50458-300-01",
     "50458-300-06",
@@ -29,7 +33,23 @@
     "50458-395-28",
     "50458-395-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "risperidone",
+      "name": "RISPERDAL"
+    },
+    {
+      "form": "TABLET",
+      "generic": "risperidone",
+      "name": "RISPERDAL"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "risperidone",
+      "name": "RISPERDAL M-TAB"
+    }
+  ],
   "setid": "7e117c7e-02fc-4343-92a1-230061dfc5e0",
   "source": "dailymed"
 }

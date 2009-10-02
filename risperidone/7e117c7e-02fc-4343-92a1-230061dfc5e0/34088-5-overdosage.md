@@ -1,17 +1,18 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Experience
+## 10.1 Human Experience
 
-Premarketing experience included eight reports of acute RISPERDAL® (risperidone) overdosage with estimated doses ranging from 20 to 300 mg and no fatalities.
+Premarketing experience included eight reports of acute RISPERDAL® overdosage with estimated doses ranging from 20 to 300 mg and no fatalities.
 In general, reported signs and symptoms were those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension, and extrapyramidal symptoms.
 One case, involving an estimated overdose of 240 mg, was associated with hyponatremia, hypokalemia, prolonged QT, and widened QRS.
 Another case, involving an estimated overdose of 36 mg, was associated with a seizure.
 
 Postmarketing experience includes reports of acute RISPERDAL® overdosage, with estimated doses of up to 360 mg.
 In general, the most frequently reported signs and symptoms are those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness, sedation, tachycardia, hypotension, and extrapyramidal symptoms.
-Other adverse events reported since market introduction which were temporally (but not necessarily causally) related to RISPERDAL® overdose, include torsade de pointes, prolonged QT interval, convulsions, cardiopulmonary arrest, and rare fatality associated with multiple drug overdose.
+Other adverse reactions reported since market introduction related to RISPERDAL® overdose include prolonged QT interval and convulsions.
+Torsade de pointes has been reported in association with combined overdose of RISPERDAL® and paroxetine.
 
-## Management of Overdosage
+## 10.2 Management of Overdosage
 
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation.
 Gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.

@@ -1,13 +1,6 @@
-7503233
+Revised July 2009 © Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2007
 
-December 2006 ©Janssen 2003
+RISPERDAL® Tablets are manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778 RISPERDAL® Oral Solution is manufactured by: Janssen Pharmaceutica N.V.
+Beerse, Belgium RISPERDAL® M-TAB® Orally Disintegrating Tablets are manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778
 
-RISPERDAL® Tablets are manufactured by: JOLLC, Gurabo, Puerto Rico or Janssen-Cilag, SpA, Latina, Italy
-
-RISPERDAL® Oral Solution is manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
-
-RISPERDAL® M-TAB® Orally Disintegrating Tablets are manufactured by: JOLLC, Gurabo, Puerto Rico
-
-RISPERDAL® Tablets, RISPERDAL® M-TAB® Orally Disintegrating Tablets, and Oral Solution are distributed by: Janssen, L.P.
-Titusville, NJ 08560
+RISPERDAL® Tablets, RISPERDAL® M-TAB® Orally Disintegrating Tablets, and RISPERDAL® Oral Solution are manufactured for: Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560

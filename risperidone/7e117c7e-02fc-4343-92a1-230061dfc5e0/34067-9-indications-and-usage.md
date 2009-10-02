@@ -1,35 +1,27 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Schizophrenia
+## 1.1 Schizophrenia
 
-RISPERDAL® (risperidone) is indicated for the treatment of schizophrenia.
+Adults
 
-The efficacy of RISPERDAL® in schizophrenia was established in short-term (6- to 8-weeks) controlled trials of schizophrenic inpatients (see CLINICAL PHARMACOLOGY).
+RISPERDAL® (risperidone) is indicated for the acute and maintenance treatment of schizophrenia [see Clinical Studies (14.1)].
 
-The efficacy of RISPERDAL® in delaying relapse was demonstrated in schizophrenic patients who had been clinically stable for at least 4 weeks before initiation of treatment with RISPERDAL® or an active comparator and who were then observed for relapse during a period of 1 to 2 years (see CLINICAL PHARMACOLOGY - Clinical Trials).
-Nevertheless, the physician who elects to use RISPERDAL® for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+Adolescents
 
-## Bipolar Mania
+RISPERDAL® is indicated for the treatment of schizophrenia in adolescents aged 13–17 years [see Clinical Studies (14.1)].
 
-### Monotherapy
+## 1.2 Bipolar Mania
 
-RISPERDAL® is indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder.
+Monotherapy - Adults and Pediatrics
 
-The efficacy of RISPERDAL® was established in two placebo-controlled trials (3-week) with patients meeting DSM-IV criteria for Bipolar I Disorder who currently displayed an acute manic or mixed episode with or without psychotic features (see CLINICAL PHARMACOLOGY).
+RISPERDAL® is indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in adults and in children and adolescents aged 10–17 years [see Clinical Studies (14.2)].
 
-### Combination Therapy
+Combination Therapy – Adults
 
-The combination of RISPERDAL® with lithium or valproate is indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder.
+The combination of RISPERDAL® with lithium or valproate is indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder [see Clinical Studies (14.3)].
 
-The efficacy of RISPERDAL® in combination with lithium or valproate was established in one placebo-controlled (3-week) trial with patients meeting DSM-IV criteria for Bipolar I Disorder who currently displayed an acute manic or mixed episode with or without psychotic features (see CLINICAL PHARMACOLOGY).
+## 1.3 Irritability Associated with Autistic Disorder
 
-The effectiveness of RISPERDAL® for longer-term use, that is, for more than 3 weeks of treatment of an acute episode, and for prophylactic use in mania, has not been systematically evaluated in controlled clinical trials.
-Therefore, physicians who elect to use RISPERDAL® for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+Pediatrics
 
-## Irritability Associated with Autistic Disorder
-
-RISPERDAL® is indicated for the treatment of irritability associated with autistic disorder in children and adolescents, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
-
-The efficacy of RISPERDAL® was established in two 8-week, placebo controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
-The benefit of maintaining patients with irritability associated with autistic disorder on therapy with RISPERDAL® after achieving a responder status for an average duration of about 140 days was demonstrated in a controlled trial (see CLINICAL PHARMACOLOGY - Clinical Trials.)
-Physicians who elect to use RISPERDAL® for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+RISPERDAL® is indicated for the treatment of irritability associated with autistic disorder in children and adolescents aged 5–16 years, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods [see Clinical Studies (14.4)].

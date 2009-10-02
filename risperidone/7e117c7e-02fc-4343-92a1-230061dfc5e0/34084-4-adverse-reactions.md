@@ -1,419 +1,466 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following findings are based on the short-term, placebo-controlled, North American, premarketing trials for schizophrenia and acute bipolar mania, and are followed by a description of adverse events and other safety measures in short-term, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder.
-In patients with Bipolar I Disorder, treatment-emergent adverse events are presented separately for risperidone as monotherapy and as adjunctive therapy to mood stabilizers.
+The following are discussed in more detail in other sections of the labeling:
 
-Certain portions of the discussion below relating to objective or numeric safety parameters, namely dose-dependent adverse events, vital sign changes, weight gain, laboratory changes, and ECG changes are derived from studies in patients with schizophrenia.
-However, this information is also generally applicable to bipolar mania and pediatric patients with autistic disorder.
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
+- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
+- Tardive dyskinesia [see Warnings and Precautions (5.4)]
+- Hyperglycemia and diabetes mellitus [see Warnings and Precautions (5.5)]
+- Hyperprolactinemia [see Warnings and Precautions (5.6)]
+- Orthostatic hypotension [see Warnings and Precautions (5.7)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
+- Dysphagia [see Warnings and Precautions (5.11)]
+- Priapism [see Warnings and Precautions (5.12)]
+- Thrombotic Thrombocytopenic Purpura (TTP) [see Warnings and Precautions (5.13)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- Antiemetic effect [see Warnings and Precautions (5.15)]
+- Suicide [see Warnings and Precautions (5.16)]
+- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.17)]
+- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.17)]
 
-## Associated With Discontinuation of Treatment
+The most common adverse reactions in clinical trials (≥ 10%) were somnolence, appetite increased, fatigue, rhinitis, upper respiratory tract infection, vomiting, coughing, urinary incontinence, saliva increased, constipation, fever, Parkinsonism, dystonia, abdominal pain, anxiety, nausea, dizziness, dry mouth, tremor, rash, akathisia, and dyspepsia.
 
-### Schizophrenia
+The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were somnolence, nausea, abdominal pain, dizziness, vomiting, agitation, and akathisia [see Adverse Reactions (6.5)].
 
-Approximately 9% (244/2607) of RISPERDAL® (risperidone)-treated patients in Phase 2 and 3 studies discontinued treatment due to an adverse event, compared with about 7% on placebo and 10% on active control drugs.
-The more common events (≥0.3%) associated with discontinuation and considered to be possibly or probably drug-related included:
+The data described in this section are derived from a clinical trial database consisting of 9712 adult and pediatric patients exposed to one or more doses of RISPERDAL® for the treatment of schizophrenia, bipolar mania, autistic disorder, and other psychiatric disorders in pediatrics and elderly patients with dementia.
+Of these 9712 patients, 2626 were patients who received RISPERDAL® while participating in double-blind, placebo-controlled trials.
+The conditions and duration of treatment with RISPERDAL® varied greatly and included (in overlapping categories) double-blind, fixed- and flexible-dose, placebo- or active-controlled studies and open-label phases of studies, inpatients and outpatients, and short-term (up to 12 weeks) and longer-term (up to 3 years) exposures.
+Safety was assessed by collecting adverse events and performing physical examinations, vital signs, body weights, laboratory analyses, and ECGs.
 
-| Adverse Event | RISPERDAL® | Placebo |
-| --- | --- | --- |
-| Extrapyramidal symptoms | 2.1% | 0% |
-| Dizziness | 0.7% | 0% |
-| Hyperkinesia | 0.6% | 0% |
-| Somnolence | 0.5% | 0% |
-| Nausea | 0.3% | 0% |
+Adverse events during exposure to study treatment were obtained by general inquiry and recorded by clinical investigators using their own terminology.
+Consequently, to provide a meaningful estimate of the proportion of individuals experiencing adverse events, events were grouped in standardized categories using WHOART terminology.
 
-Suicide attempt was associated with discontinuation in 1.2% of RISPERDAL®-treated patients compared to 0.6% of placebo patients, but, given the almost 40-fold greater exposure time in RISPERDAL® compared to placebo patients, it is unlikely that suicide attempt is a RISPERDAL®-related adverse event (see PRECAUTIONS).
-Discontinuation for extrapyramidal symptoms was 0% in placebo patients, but 3.8% in active-control patients in the Phase 2 and 3 trials.
+Throughout this section, adverse reactions are reported.
+Adverse reactions are adverse events that were considered to be reasonably associated with the use of RISPERDAL® (adverse drug reactions) based on the comprehensive assessment of the available adverse event information.
+A causal association for RISPERDAL® often cannot be reliably established in individual cases.
+Further, because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-### Bipolar Mania
+The majority of all adverse reactions were mild to moderate in severity.
 
-In the US placebo-controlled trial with risperidone as monotherapy, approximately 8% (10/134) of RISPERDAL®-treated patients discontinued treatment due to an adverse event, compared with approximately 6% (7/125) of placebo-treated patients.
-The adverse events associated with discontinuation and considered to be possibly, probably, or very likely drug-related included paroniria, somnolence, dizziness, extrapyramidal disorder, and muscle contractions involuntary.
-Each of these events occurred in one RISPERDAL®-treated patient (0.7%) and in no placebo-treated patients (0%).
+## 6.1 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia
 
-In the US placebo-controlled trial with risperidone as adjunctive therapy to mood stabilizers, there was no overall difference in the incidence of discontinuation due to adverse events (4% for RISPERDAL® vs. 4% for placebo).
+Adult Patients with Schizophrenia
 
-## Incidence in Controlled Trials
-
-### Commonly Observed Adverse Events in Controlled Clinical Trials
-
-#### Schizophrenia
-
-In two 6- to 8-week placebo-controlled trials, spontaneously-reported, treatment-emergent adverse events with an incidence of 5% or greater in at least one of the RISPERDAL® groups and at least twice that of placebo were anxiety, somnolence, extrapyramidal symptoms, dizziness, constipation, nausea, dyspepsia, rhinitis, rash, and tachycardia.
-
-Adverse events were also elicited in one of these two trials (i.e., in the fixed-dose trial comparing RISPERDAL® at doses of 2, 6, 10, and 16 mg/day with placebo) utilizing a checklist for detecting adverse events, a method that is more sensitive than spontaneous reporting.
-By this method, the following additional common and drug-related adverse events occurred at an incidence of at least 5% and twice the rate of placebo: increased dream activity, increased duration of sleep, accommodation disturbances, reduced salivation, micturition disturbances, diarrhea, weight gain, menorrhagia, diminished sexual desire, erectile dysfunction, ejaculatory dysfunction, and orgastic dysfunction.
-
-#### Bipolar Mania
-
-In the US placebo-controlled trial with risperidone as monotherapy, the most commonly observed adverse events associated with the use of RISPERDAL® (incidence of 5% or greater and at least twice that of placebo) were somnolence, dystonia, akathisia, dyspepsia, nausea, parkinsonism, vision abnormal, and saliva increased.
-In the US placebo-controlled trial with risperidone as adjunctive therapy to mood stabilizers, the most commonly observed adverse events associated with the use of RISPERDAL® were somnolence, dizziness, parkinsonism, saliva increased, akathisia, abdominal pain, and urinary incontinence.
-
-### Adverse Events Occurring at an Incidence of 1% or More Among RISPERDAL®-Treated Patients - Schizophrenia
-
-The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent among RISPERDAL®-treated patients treated at doses of ≤10 mg/day than among placebo-treated patients in the pooled results of two 6- to 8-week controlled trials.
-Patients received RISPERDAL® doses of 2, 6, 10, or 16 mg/day in the dose comparison trial, or up to a maximum dose of 10 mg/day in the titration study.
-This table shows the percentage of patients in each dose group (≤10 mg/day or 16 mg/day) who spontaneously reported at least one episode of an event at some time during their treatment.
-Patients given doses of 2, 6, or 10 mg did not differ materially in these rates.
-Reported adverse events were classified using the World Health Organization preferred terms.
-
-The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in this clinical trial.
-Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence rate in the population studied.
+Table 1 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
 
 Table 1.
-Incidence of Treatment-Emergent Adverse Events in 6- to 8-Week Controlled Clinical Trials in SchizophreniaEvents reported by at least 1% of patients treated with RISPERDAL®≤10 mg/day are included, and are rounded to the nearest %.
-Comparative rates for RISPERDAL® 16 mg/day and placebo are provided as well.
-Events for which the RISPERDAL® incidence (in both dose groups) was equal to or less than placebo are not listed in the table, but included the following: nervousness, injury, and fungal infection.
+Adverse Reactions in ≥1% of RISPERDAL®-Treated Adult Patients with Schizophrenia in Double-Blind, Placebo-Controlled Trials
 
-| Body System/ Preferred Term | ≤10mg/day (N=324) | 16 mg/day (N=77) | Placebo (N=142) |
+| Body System Adverse Reaction | 2–8 mg per day (N=366) | >8–16 mg per day (N=198) | Placebo (N=225) |
 | --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Event |  |  |
 |  | RISPERDAL® |  |  |
-| Psychiatric |  |  |  |
-| Insomnia | 26% | 23% | 19% |
-| Agitation | 22% | 26% | 20% |
-| Anxiety | 12% | 20% | 9% |
-| Somnolence | 3% | 8% | 1% |
-| Aggressive reaction | 1% | 3% | 1% |
-| Central & peripheral nervous system |  |  |  |
-| Extrapyramidal symptomsIncludes tremor, dystonia, hypokinesia, hypertonia, hyperkinesia, oculogyric crisis, ataxia, abnormal gait, involuntary muscle contractions, hyporeflexia, akathisia, and extrapyramidal disorders. Although the incidence of 'extrapyramidal symptoms' does not appear to differ for the '10 mg/day' group and placebo, the data for individual dose groups in fixed dose trials do suggest a dose/response relationship (see ADVERSE REACTIONS– Dose Dependency of Adverse Events). | 17% | 34% | 16% |
-| Headache | 14% | 12% | 12% |
-| Dizziness | 4% | 7% | 1% |
-| Gastrointestinal |  |  |  |
-| Constipation | 7% | 13% | 3% |
-| Nausea | 6% | 4% | 3% |
-| Dyspepsia | 5% | 10% | 4% |
-| Vomiting | 5% | 7% | 4% |
-| Abdominal pain | 4% | 1% | 0% |
-| Saliva increased | 2% | 0% | 1% |
-| Toothache | 2% | 0% | 0% |
-| Respiratory system |  |  |  |
-| Rhinitis | 10% | 8% | 4% |
-| Coughing | 3% | 3% | 1% |
-| Sinusitis | 2% | 1% | 1% |
-| Pharyngitis | 2% | 3% | 0% |
-| Dyspnea | 1% | 0% | 0% |
-| Body as a whole – general |  |  |  |
-| Back pain | 2% | 0% | 1% |
-| Chest pain | 2% | 3% | 1% |
-| Fever | 2% | 3% | 0% |
-| Dermatological |  |  |  |
-| Rash | 2% | 5% | 1% |
-| Dry skin | 2% | 4% | 0% |
-| Seborrhea | 1% | 0% | 0% |
-| Infections |  |  |  |
-| Upper respiratory | 3% | 3% | 1% |
-| Visual |  |  |  |
-| Abnormal vision | 2% | 1% | 1% |
-| Musculo-Skeletal |  |  |  |
-| Arthralgia | 2% | 3% | 0% |
-| Cardiovascular |  |  |  |
-| Tachycardia | 3% | 5% | 0% |
+| Body as a whole - general disorders |  |  |  |
+| Back pain | 3 | 2 | <1 |
+| Fatigue | 3 | 1 | 0 |
+| Chest pain | 3 | 1 | 2 |
+| Fever | 2 | 1 | 1 |
+| Asthenia | 1 | 1 | <1 |
+| Syncope | <1 | 1 | <1 |
+| Edema | <1 | 1 | 0 |
+| Cardiovascular disorders, general |  |  |  |
+| Hypotension postural | 2 | <1 | 0 |
+| Hypotension | <1 | 1 | 0 |
+| Central and peripheral nervous system disorders |  |  |  |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, hypokinesia, and bradycardia. Dystonia includes dystonia, hypertonia, oculogyric crisis, muscle contractions involuntary, tetany, laryngismus, tongue paralysis, and torticollis. Akathisia includes hyperkinesia and akathisia. | 12 | 17 | 6 |
+| Dizziness | 10 | 4 | 2 |
+| Dystonia | 5 | 5 | 2 |
+| Akathisia | 5 | 5 | 2 |
+| Dyskinesia | 1 | 1 | <1 |
+| Gastrointestinal system disorders |  |  |  |
+| Dyspepsia | 10 | 7 | 6 |
+| Nausea | 9 | 4 | 4 |
+| Constipation | 8 | 9 | 7 |
+| Abdominal pain | 4 | 3 | 0 |
+| Mouth dry | 4 | <1 | <1 |
+| Saliva increased | 3 | 1 | <1 |
+| Diarrhea | 2 | <1 | 1 |
+| Hearing and vestibular disorders |  |  |  |
+| Earache | 1 | 1 | 0 |
+| Heart rate and rhythm disorders |  |  |  |
+| Tachycardia | 2 | 5 | 0 |
+| Arrhythmia | 0 | 1 | 0 |
+| Metabolic and nutritional disorders |  |  |  |
+| Weight increase | 1 | <1 | 0 |
+| Creatine phosphokinase increased | <1 | 2 | <1 |
+| Musculoskeletal system disorders |  |  |  |
+| Arthralgia | 2 | 3 | <1 |
+| Myalgia | 1 | 0 | 0 |
+| Platelet, bleeding and clotting disorders |  |  |  |
+| Epistaxis | <1 | 2 | 0 |
+| Psychiatric disorders |  |  |  |
+| Anxiety | 16 | 12 | 11 |
+| Somnolence | 14 | 5 | 4 |
+| Anorexia | 2 | 0 | <1 |
+| Red blood cell disorders |  |  |  |
+| Anemia | <1 | 1 | 0 |
+| Reproductive disorders, male |  |  |  |
+| Ejaculation failure | <1 | 1 | 0 |
+| Respiratory system disorders |  |  |  |
+| Rhinitis | 7 | 11 | 6 |
+| Coughing | 3 | 3 | 3 |
+| Upper respiratory tract infection | 2 | 3 | <1 |
+| Dyspnea | 2 | 2 | 0 |
+| Skin and appendages disorders |  |  |  |
+| Rash | 2 | 4 | 2 |
+| Seborrhea | <1 | 2 | 0 |
+| Urinary system disorders |  |  |  |
+| Urinary tract infection | <1 | 3 | 0 |
+| Vision disorders |  |  |  |
+| Vision abnormal | 3 | 1 | <1 |
 
-### Adverse Events Occurring at an Incidence of 2% or More Among RISPERDAL®-Treated Patients - Bipolar Mania
+Pediatric Patients with Schizophrenia
 
-Tables 2 and 3 display adverse events that occurred at an incidence of 2% or more, and were more frequent among patients treated with flexible doses of RISPERDAL® (1–6 mg daily as monotherapy and as adjunctive therapy to mood stabilizers, respectively) than among patients treated with placebo.
-Reported adverse events were classified using the World Health Organization preferred terms.
+Table 2 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients with schizophrenia in a 6-week double-blind, placebo-controlled trial.
 
 Table 2.
-Incidence of Treatment-Emergent Adverse Events in a 3-Week, Placebo-Controlled Trial - Monotherapy in Bipolar ManiaEvents reported by at least 2% of patients treated with RISPERDAL® are included and are rounded to the nearest %.
-Events reported by at least 2% of patients treated with RISPERDAL® that were less than the incidence reported by patients treated with placebo are not listed in the table, but included the following: headache, tremor, insomnia, constipation, back pain, upper respiratory tract infection, pharyngitis, and arthralgia.
+Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients with Schizophrenia in a Double-Blind Trial
 
-| Body System/ Preferred Term | RISPERDAL® (N=134) | Placebo (N=125) |
-| --- | --- | --- |
-| Central & peripheral nervous system |  |  |
-| Dystonia | 18% | 6% |
-| Akathisia | 16% | 6% |
-| Dizziness | 11% | 9% |
-| Parkinsonism | 6% | 3% |
-| Hypoaesthesia | 2% | 1% |
-| Psychiatric |  |  |
-| Somnolence | 28% | 7% |
-| Agitation | 8% | 6% |
-| Manic reaction | 8% | 6% |
-| Anxiety | 4% | 2% |
-| Concentration impaired | 2% | 1% |
-| Gastrointestinal system |  |  |
-| Dyspepsia | 11% | 6% |
-| Nausea | 11% | 2% |
-| Saliva increased | 5% | 1% |
-| Mouth dry | 3% | 2% |
-| Body as a whole – general |  |  |
-| Pain | 5% | 3% |
-| Fatigue | 4% | 2% |
-| Injury | 2% | 0% |
-| Respiratory system |  |  |
-| Sinusitis | 4% | 1% |
-| Rhinitis | 3% | 2% |
-| Coughing | 2% | 2% |
-| Skin and appendages |  |  |
-| Acne | 2% | 0% |
-| Pruritus | 2% | 1% |
-| Musculo-Skeletal |  |  |
-| Myalgia | 5% | 2% |
-| Skeletal pain | 2% | 1% |
-| Metabolic and nutritional |  |  |
-| Weight increase | 2% | 0% |
-| Vision disorders |  |  |
-| Vision abnormal | 6% | 2% |
-| Cardiovascular, general |  |  |
-| Hypertension | 3% | 1% |
-| Hypotension | 2% | 0% |
-| Heart rate and rhythm |  |  |
-| Tachycardia | 3% | 2% |
+| Body System Adverse Reaction | 1–3 mg per day (N=55) | 4–6 mg per day (N=51) | Placebo (N=54) |
+| --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Event |  |  |
+|  | RISPERDAL® |  |  |
+| Central and peripheral nervous system disorders |  |  |  |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, hypokinesia, and bradykinesia. Dystonia includes dystonia, hypertonia, oculogyric crisis, muscle contractions involuntary, tetany, laryngismus, tongue paralysis, and torticollis. Akathisia includes hyperkinesia and akathisia. | 13 | 16 | 6 |
+| Tremor | 11 | 10 | 6 |
+| Dystonia | 9 | 18 | 7 |
+| Dizziness | 7 | 14 | 2 |
+| Akathisia | 7 | 10 | 6 |
+| Gastrointestinal system disorders |  |  |  |
+| Saliva increased | 0 | 10 | 2 |
+| Psychiatric disorders |  |  |  |
+| Somnolence | 24 | 12 | 4 |
+| Anxiety | 7 | 6 | 0 |
+
+## 6.2 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Bipolar Mania
+
+Adult Patients with Bipolar Mania
+
+Table 3 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 3.
-Incidence of Treatment-Emergent Adverse Events in a 3-Week, Placebo-Controlled Trial - Adjunctive Therapy in Bipolar ManiaEvents reported by at least 2% of patients treated with RISPERDAL® are included and are rounded to the nearest %.
-Events reported by at least 2% of patients treated with RISPERDAL® that were less than the incidence reported by patients treated with placebo are not listed in the table, but included the following: dyspepsia, nausea, vomiting, headache, tremor, insomnia, chest pain, fatigue, pain, skeletal pain, hypertension, and vision abnormal.
+Adverse Reactions in ≥1% of RISPERDAL®-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
 
-| Body System/ Preferred Term | (N=52) | (N=51) |
+| Body System Adverse Reaction | RISPERDAL® 1–6 mg per day (N=448) | Placebo (N=424) |
 | --- | --- | --- |
-|  | RISPERDAL® + Mood Stabilizer | Placebo + Mood Stabilizer |
-| Gastrointestinal system |  |  |
-| Saliva increased | 10% | 0% |
-| Diarrhea | 8% | 4% |
-| Abdominal pain | 6% | 0% |
-| Constipation | 6% | 4% |
-| Mouth dry | 6% | 4% |
-| Tooth ache | 4% | 0% |
-| Tooth disorder | 4% | 0% |
-| Central & peripheral nervous system |  |  |
-| Dizziness | 14% | 2% |
-| Parkinsonism | 14% | 4% |
-| Akathisia | 8% | 0% |
-| Dystonia | 6% | 4% |
-| Psychiatric |  |  |
-| Somnolence | 25% | 12% |
-| Anxiety | 6% | 4% |
-| Confusion | 4% | 0% |
-| Respiratory system |  |  |
-| Rhinitis | 8% | 4% |
-| Pharyngitis | 6% | 4% |
-| Coughing | 4% | 0% |
-| Body as a whole - general |  |  |
-| Asthenia | 4% | 2% |
-| Urinary system |  |  |
-| Urinary incontinence | 6% | 2% |
-| Heart rate and rhythm |  |  |
-| Tachycardia | 4% | 2% |
-| Metabolic and nutritional |  |  |
-| Weight increase | 4% | 2% |
-| Skin and appendages |  |  |
-| Rash | 4% | 2% |
+|  | Percentage of Patients Reporting Event |  |
+| Body as a whole - general disorders |  |  |
+| Fatigue | 2 | <1 |
+| Fever | 1 | <1 |
+| Asthenia | 1 | <1 |
+| Edema | 1 | <1 |
+| Central and peripheral nervous system disorders |  |  |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, hypokinesia, and bradycardia. Dystonia includes dystonia, hypertonia, oculogyric crisis, muscle contractions involuntary, tetany, laryngismus, tongue paralysis, and torticollis. Akathisia includes hyperkinesia and akathisia. | 20 | 6 |
+| Dystonia | 11 | 3 |
+| Akathisia | 9 | 3 |
+| Tremor | 6 | 4 |
+| Dizziness | 5 | 5 |
+| Gastrointestinal system disorders |  |  |
+| Nausea | 5 | 2 |
+| Dyspepsia | 4 | 2 |
+| Saliva increased | 3 | <1 |
+| Diarrhea | 3 | 2 |
+| Mouth dry | 1 | 1 |
+| Heart rate and rhythm disorders |  |  |
+| Tachycardia | 1 | <1 |
+| Liver and biliary system disorders |  |  |
+| SGOT increased | 1 | <1 |
+| Musculoskeletal disorders |  |  |
+| Myalgia | 2 | 2 |
+| Psychiatric disorders |  |  |
+| Somnolence | 12 | 4 |
+| Anxiety | 2 | 2 |
+| Reproductive disorders, female |  |  |
+| Lactation nonpuerperal | 1 | 0 |
+| Respiratory disorders |  |  |
+| Rhinitis | 2 | 2 |
+| Skin and appendages disorders |  |  |
+| Acne | 1 | 0 |
+| Vision disorders |  |  |
+| Vision abnormal | 2 | <1 |
 
-### Dose Dependency of Adverse Events
+Table 4 lists the adverse reactions reported in 2% or more of RISPERDAL®-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
 
-#### Extrapyramidal Symptoms
+Table 4.
+Adverse Reactions in ≥2% of RISPERDAL®-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Adjuvant Therapy Trials
 
-Data from two fixed-dose trials provided evidence of dose-relatedness for extrapyramidal symptoms associated with risperidone treatment.
+| Body System Adverse Reaction | RISPERDAL® + Mood Stabilizer (N=127) | Placebo + Mood Stabilizer (N=126) |
+| --- | --- | --- |
+|  | Percentage of Patients Reporting Event |  |
+| Body as a whole – general disorders |  |  |
+| Chest pain | 2 | 2 |
+| Fatigue | 2 | 2 |
+| Central and peripheral nervous system disorders |  |  |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Dystonia includes dystonia, hypertonia, oculogyric crisis, muscle contractions involuntary, tetany, laryngismus, tongue paralysis, and torticollis. Akathisia includes hyperkinesia and akathisia. | 9 | 4 |
+| Dizziness | 8 | 2 |
+| Dystonia | 6 | 3 |
+| Akathisia | 6 | 0 |
+| Tremor | 5 | 2 |
+| Gastrointestinal system disorders |  |  |
+| Nausea | 6 | 5 |
+| Diarrhea | 6 | 4 |
+| Saliva increased | 4 | 0 |
+| Abdominal pain | 2 | 0 |
+| Heart rate and rhythm disorders |  |  |
+| Palpitation | 2 | 0 |
+| Metabolic and nutritional disorders |  |  |
+| Weight increase | 2 | 2 |
+| Psychiatric disorders |  |  |
+| Somnolence | 12 | 5 |
+| Anxiety | 4 | 2 |
+| Respiratory disorders |  |  |
+| Pharyngitis | 5 | 2 |
+| Coughing | 3 | 1 |
+| Skin and appendages disorders |  |  |
+| Rash | 2 | 2 |
+| Urinary system disorders |  |  |
+| Urinary incontinence | 2 | 1 |
+| Urinary tract infection | 2 | 1 |
 
-Two methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 4 fixed doses of risperidone (2, 6, 10, and 16 mg/day), including (1) a parkinsonism score (mean change from baseline) from the Extrapyramidal Symptom Rating Scale, and (2) incidence of spontaneous complaints of EPS:
+Pediatric Patients with Bipolar Mania
 
-| Dose Groups | Placebo | Ris 2 | Ris 6 | Ris 10 | Ris 16 |
+Table 5 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients with bipolar mania in a 3-week double-blind, placebo-controlled trial.
+
+Table 5.
+Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Trials
+
+| Body System Adverse Reaction | 0.5–2.5 mg per day (N=50) | 3–6 mg per day (N=61) | Placebo (N=58) |
+| --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Event |  |  |
+|  | RISPERDAL ® |  |  |
+| Body as a whole - general disorders |  |  |  |
+| Fatigue | 18 | 30 | 3 |
+| Central and peripheral nervous system disorders |  |  |  |
+| Dizziness | 16 | 13 | 5 |
+| Dystonia | 8 | 13 | 2 |
+| ParkinsonismDystonia includes dystonia, hypertonia, oculogyric crisis, muscle contractions involuntary, tetany, laryngismus, tongue paralysis, and torticollis. Parkinsonism includes extrapyramidal disorder, hypokinesia, and bradykinesia. Akathisia includes hyperkinesia and akathisia. | 2 | 7 | 2 |
+| Akathisia | 0 | 7 | 2 |
+| Gastrointestinal system disorders |  |  |  |
+| Abdominal pain | 18 | 15 | 5 |
+| Dyspepsia | 16 | 5 | 3 |
+| Nausea | 16 | 13 | 7 |
+| Vomiting | 12 | 10 | 7 |
+| Diarrhea | 8 | 7 | 2 |
+| Heart rate and rhythm disorders |  |  |  |
+| Tachycardia | 0 | 5 | 2 |
+| Psychiatric disorders |  |  |  |
+| Somnolence | 42 | 56 | 19 |
+| Appetite increased | 4 | 7 | 2 |
+| Anxiety | 0 | 8 | 3 |
+| Reproductive disorders, female |  |  |  |
+| Lactation nonpuerperal | 2 | 5 | 0 |
+| Respiratory system disorders |  |  |  |
+| Rhinitis | 14 | 13 | 10 |
+| Dyspnea | 2 | 5 | 0 |
+| Skin and appendages disorders |  |  |  |
+| Rash | 0 | 7 | 2 |
+| Urinary system disorders |  |  |  |
+| Urinary incontinence | 0 | 5 | 0 |
+| Vision disorders |  |  |  |
+| Vision abnormal | 4 | 7 | 0 |
+
+## 6.3 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder
+
+Table 6 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients treated for irritability associated with autistic disorder in two 8-week, double-blind, placebo-controlled trials.
+
+Table 6.
+Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients Treated for Irritability Associated with Autistic Disorder in Double-Blind, Placebo-Controlled Trials
+
+| Body System Adverse Reaction | RISPERDAL® 0.5–4.0 mg per day (N=76) | Placebo (N=80) |
+| --- | --- | --- |
+|  | Percentage of Patients Reporting Event |  |
+| Body as a whole - general disorders |  |  |
+| Fatigue | 42 | 13 |
+| Fever | 20 | 19 |
+| Central and peripheral nervous system disorders |  |  |
+| DystoniaDystonia includes dystonia, hypertonia, oculogyric crisis, muscle contractions involuntary, tetany, laryngismus, tongue paralysis, and torticollis. Parkinsonism includes extrapyramidal disorder, hypokinesia, and bradycardia. | 12 | 6 |
+| Tremor | 12 | 1 |
+| Dizziness | 9 | 3 |
+| Parkinsonism | 8 | 0 |
+| Automatism | 7 | 1 |
+| Dyskinesia | 7 | 0 |
+| Gastrointestinal system disorders |  |  |
+| Vomiting | 25 | 21 |
+| Saliva increased | 22 | 6 |
+| Constipation | 21 | 8 |
+| Mouth dry | 13 | 6 |
+| Nausea | 8 | 8 |
+| Heart rate and rhythm disorders |  |  |
+| Tachycardia | 7 | 0 |
+| Metabolic and nutritional disorders |  |  |
+| Weight increase | 5 | 0 |
+| Psychiatric disorders |  |  |
+| Somnolence | 67 | 23 |
+| Appetite increased | 49 | 19 |
+| Anxiety | 16 | 15 |
+| Anorexia | 8 | 8 |
+| Confusion | 5 | 0 |
+| Respiratory system disorders |  |  |
+| Rhinitis | 36 | 23 |
+| Upper respiratory tract infection | 34 | 15 |
+| Coughing | 24 | 18 |
+| Skin and appendages disorders |  |  |
+| Rash | 11 | 8 |
+| Urinary system disorders |  |  |
+| Urinary incontinence | 22 | 20 |
+
+## 6.4 Other Adverse Reactions Observed During the Premarketing Evaluation of RISPERDAL®
+
+The following adverse reactions occurred in < 1% of the adult patients and in < 5% of the pediatric patients treated with RISPERDAL® in the above double-blind, placebo-controlled clinical trial data sets.
+In addition, the following also includes adverse reactions reported in RISPERDAL®-treated patients who participated in other studies, including double-blind, active-controlled and open-label studies in schizophrenia and bipolar mania studies in pediatric patients with psychiatric disorders other than schizophrenia, bipolar mania, or autistic disorder, and studies in elderly patients with dementia.
+
+Body as a Whole, General Disorders: edema peripheral, pain, influenza-like symptoms, leg pain, malaise, allergy, crying abnormal, allergic reaction, rigors, allergy aggravated, anaphylactoid reaction, hypothermia
+
+Central Nervous System Disorders: gait abnormal, speech disorder, coma, ataxia, dysphonia, stupor, cramps legs, vertigo, hypoesthesia, tardive dyskinesia, neuroleptic malignant syndrome
+
+Endocrine Disorders: hyperprolactinemia, gynecomastia
+
+Gastrointestinal System Disorders: dysphagia, flatulence
+
+Heart Rate and Rhythm Disorders: AV block, bundle branch block
+
+Liver and Biliary Disorders: SGPT increased, hepatic enzymes increased
+
+Metabolic and Nutritional Disorders: thirst, hyperglycemia, xerophthalmia, generalized edema, diabetes mellitus aggravated, diabetic coma
+
+Musculoskeletal Disorders: muscle weakness, rhabdomyolysis
+
+Platelet, Bleeding, and Clotting Disorders: purpura
+
+Psychiatric Disorders: insomnia, agitation, emotional lability, apathy, nervousness, concentration impaired, impotence, decreased libido
+
+Reproductive Disorders, Female: amenorrhea, menstrual disorder, leukorrhea
+
+Reproductive Disorders, Male: ejaculation disorder, abnormal sexual function, priapism
+
+Resistance Mechanism Disorders: otitis media, viral infection
+
+Respiratory Disorders: respiratory disorder
+
+Skin and Appendages Disorders: skin ulceration, skin discoloration, rash erythematous, skin exfoliation, rash maculopapular, erythema multiforme
+
+Urinary Disorders: micturition frequency
+
+Vascular Disorders: cerebrovascular disorder
+
+Vision Disorders: conjunctivitis
+
+White Cell Disorders: leucopenia, granulocytopenia
+
+## 6.5 Discontinuations Due to Adverse Reactions
+
+Schizophrenia - Adults
+
+Approximately 7% (39/564) of RISPERDAL®-treated patients in double-blind, placebo-controlled trials discontinued treatment due to an adverse event, compared with 4% (10/225) who were receiving placebo.
+The adverse reactions associated with discontinuation in 2 or more RISPERDAL®-treated patients were:
+
+Table 7.
+Adverse Reactions Associated With Discontinuation in 2 or More RISPERDAL®-Treated Adult Patients in Schizophrenia Trials
+
+| Adverse Reaction | 2–8 mg/day (N=366) | >8–16 mg/day (N=198) | Placebo (N=225) |
+| --- | --- | --- | --- |
+|  | RISPERDAL® |  |  |
+| Dizziness | 1.4% | 1.0% | 0% |
+| Nausea | 1.4% | 0% | 0% |
+| Agitation | 1.1% | 1.0% | 0% |
+| Parkinsonism | 0.8% | 0% | 0% |
+| Somnolence | 0.8% | 0.5% | 0% |
+| Dystonia | 0.5% | 0% | 0% |
+| Abdominal pain | 0.5% | 0% | 0% |
+| Hypotension postural | 0.3% | 0.5% | 0% |
+| Tachycardia | 0.3% | 0.5% | 0% |
+| Akathisia | 0% | 1.0% | 0% |
+
+Discontinuation for extrapyramidal symptoms (including Parkinsonism, akathisia, dystonia, and tardive dyskinesia) was 1% in placebo-treated patients, and 3.4% in active control-treated patients in a double-blind, placebo- and active-controlled trial.
+
+Schizophrenia - Pediatrics
+
+Approximately 7% (7/106), of RISPERDAL®-treated patients discontinued treatment due to an adverse event in a double-blind, placebo-controlled trial, compared with 4% (2/54) placebo-treated patients.
+The adverse reactions associated with discontinuation for at least one RISPERDAL®-treated patient were somnolence (2%), dizziness (2%), anorexia (1%), anxiety (1%), ataxia (1%), hypotension (1%), and palpitation (1%).
+
+Bipolar Mania - Adults
+
+In double-blind, placebo-controlled trials with RISPERDAL® as monotherapy, approximately 6% (25/448) of RISPERDAL®-treated patients discontinued treatment due to an adverse event, compared with approximately 5% (19/424) of placebo-treated patients.
+The adverse reactions associated with discontinuation in RISPERDAL®-treated patients were:
+
+Table 8.
+Adverse Reactions Associated With Discontinuation in 2 or More RISPERDAL®-Treated Adult Patients in Bipolar Mania Clinical Trials
+
+| Adverse Reaction | RISPERDAL® 1–6 mg/day (N=448) | Placebo (N=424) |
+| --- | --- | --- |
+| Parkinsonism | 0.4% | 0% |
+| Somnolence | 0.2% | 0% |
+| Dizziness | 0.2% | 0% |
+| Dystonia | 0.2% | 0% |
+| SGOT increased | 0.2% | 0.2% |
+| SGPT increased | 0.2% | 0.2% |
+
+Bipolar Mania - Pediatrics
+
+In a double-blind, placebo-controlled trial 12% (13/111) of RISPERDAL®-treated patients discontinued due to an adverse event, compared with 7% (4/58) of placebo-treated patients.
+The adverse reactions associated with discontinuation in more than one RISPERDAL®-treated pediatric patient were somnolence (5%), nausea (3%), abdominal pain (2%), and vomiting (2%).
+
+Autistic Disorder - Pediatrics
+
+In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n = 156), one RISPERDAL®-treated patient discontinued due to an adverse reaction (Parkinsonism), and one placebo-treated patient discontinued due to an adverse event.
+
+## 6.6 Dose Dependency of Adverse Reactions in Clinical Trials
+
+Extrapyramidal Symptoms
+
+Data from two fixed-dose trials in adults with schizophrenia provided evidence of dose-relatedness for extrapyramidal symptoms associated with RISPERDAL® treatment.
+
+Two methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 4 fixed doses of RISPERDAL® (2, 6, 10, and 16 mg/day), including (1) a Parkinsonism score (mean change from baseline) from the Extrapyramidal Symptom Rating Scale, and (2) incidence of spontaneous complaints of EPS:
+
+| Dose Groups | Placebo | RISPERDAL® 2 mg | RISPERDAL® 6 mg | RISPERDAL® 10 mg | RISPERDAL® 16 mg |
 | --- | --- | --- | --- | --- | --- |
 | Parkinsonism | 1.2 | 0.9 | 1.8 | 2.4 | 2.6 |
-| EPS Incidence | 13% | 13% | 16% | 20% | 31% |
+| EPS Incidence | 11% | 15% | 16% | 20% | 31% |
 
-Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 5 fixed doses of risperidone (1, 4, 8, 12, and 16 mg/day):
+Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 5 fixed doses of RISPERDAL® (1, 4, 8, 12, and 16 mg/day):
 
-| Dose Groups | Ris 1 | Ris 4 | Ris 8 | Ris 12 | Ris 16 |
+| Dose Groups | RISPERDAL® 1 mg | RISPERDAL® 4 mg | RISPERDAL® 8 mg | RISPERDAL® 12 mg | RISPERDAL® 16 mg |
 | --- | --- | --- | --- | --- | --- |
 | Parkinsonism | 0.6 | 1.7 | 2.4 | 2.9 | 4.1 |
-| EPS Incidence | 7% | 12% | 18% | 18% | 21% |
+| EPS Incidence | 7% | 11% | 17% | 18% | 20% |
 
-### Other Adverse Events
+Dystonia
+
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+An elevated risk of acute dystonia is observed in males and younger age groups.
+
+Other Adverse Reactions
 
 Adverse event data elicited by a checklist for side effects from a large study comparing 5 fixed doses of RISPERDAL® (1, 4, 8, 12, and 16 mg/day) were explored for dose-relatedness of adverse events.
-A Cochran-Armitage Test for trend in these data revealed a positive trend (p<0.05) for the following adverse events: sleepiness, increased duration of sleep, accommodation disturbances, orthostatic dizziness, palpitations, weight gain, erectile dysfunction, ejaculatory dysfunction, orgastic dysfunction, asthenia/lassitude/increased fatigability, and increased pigmentation.
+A Cochran-Armitage Test for trend in these data revealed a positive trend (p<0.05) for the following adverse reactions: somnolence, vision abnormal, dizziness, palpitations, weight increase, erectile dysfunction, ejaculation disorder, sexual function abnormal, fatigue, and skin discoloration.
 
-### Vital Sign Changes
+## 6.7 Changes in Body Weight
 
-RISPERDAL® is associated with orthostatic hypotension and tachycardia (see PRECAUTIONS).
+The proportions of RISPERDAL® and placebo-treated adult patients with schizophrenia meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of 6- to 8-week, placebo-controlled trials, revealing a statistically significantly greater incidence of weight gain for RISPERDAL® (18%) compared to placebo (9%).
+In a pool of placebo-controlled 3-week studies in adult patients with acute mania, the incidence of weight increase of ≥ 7% at endpoint was comparable in the RISPERDAL® (2.5%) and placebo (2.4%) groups, and was slightly higher in the active-control group (3.5%).
 
-### Weight Changes
+Changes in body weight were also evaluated in pediatric patients [see Use in Specific Populations (8.4)]
 
-The proportions of RISPERDAL® and placebo-treated patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of 6- to 8-week, placebo-controlled trials, revealing a statistically significantly greater incidence of weight gain for RISPERDAL® (18%) compared to placebo (9%).
+## 6.8 Changes in ECG
 
-### Laboratory Changes
-
-A between-group comparison for 6- to 8-week placebo-controlled trials revealed no statistically significant RISPERDAL®/placebo differences in the proportions of patients experiencing potentially important changes in routine serum chemistry, hematology, or urinalysis parameters.
-Similarly, there were no RISPERDAL®/placebo differences in the incidence of discontinuations for changes in serum chemistry, hematology, or urinalysis.
-However, RISPERDAL® administration was associated with increases in serum prolactin (see PRECAUTIONS).
-
-### ECG Changes
-
-Between-group comparisons for pooled placebo-controlled trials revealed no statistically significant differences between risperidone and placebo in mean changes from baseline in ECG parameters, including QT, QTc, and PR intervals, and heart rate.
+Between-group comparisons for pooled placebo-controlled trials in adults revealed no statistically significant differences between risperidone and placebo in mean changes from baseline in ECG parameters, including QT, QTc, and PR intervals, and heart rate.
 When all RISPERDAL® doses were pooled from randomized controlled trials in several indications, there was a mean increase in heart rate of 1 beat per minute compared to no change for placebo patients.
 In short-term schizophrenia trials, higher doses of risperidone (8–16 mg/day) were associated with a higher mean increase in heart rate compared to placebo (4–6 beats per minute).
+In pooled placebo-controlled acute mania trials in adults, there were small decreases in mean heart rate, similar among all treatment groups.
 
-## Adverse Events and Other Safety Measures in Pediatric Patients With Autistic Disorder
+In the two placebo-controlled trials in children and adolescents with autistic disorder (aged 5 – 16 years) mean changes in heart rate were an increase of 8.4 beats per minute in the RISPERDAL® groups and 6.5 beats per minute in the placebo group.
+There were no other notable ECG changes.
 
-In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n=156), two patients (one treated with RISPERDAL® and one treated with placebo) discontinued treatment due to an adverse event.
+In a placebo-controlled acute mania trial in children and adolescents (aged 10 – 17 years), there were no significant changes in ECG parameters, other than the effect of RISPERDAL® to transiently increase pulse rate (< 6 beats per minute).
+In two controlled schizophrenia trials in adolescents (aged 13 – 17 years), there were no clinically meaningful changes in ECG parameters including corrected QT intervals between treatment groups or within treatment groups over time.
 
-In addition to spontaneous reporting, in one of the studies, adverse events were also elicited from a checklist for detecting selected events, a method that is more sensitive than spontaneous reporting.
+## 6.9 Postmarketing Experience
 
-The most common adverse events with RISPERDAL® that occurred at an incidence equal to or greater than 5% and at a rate of at least twice that of placebo are shown in Table 4.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetic ketoacidosis in patients with impaired glucose metabolism, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, QT prolongation, sleep apnea, thrombocytopenia, and water intoxication.
 
-Table 4 Incidence of Treatment-Emergent Adverse Events in Two 8-Week, Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
-
-| Body System Preferred Term | RISPERDAL® (n=76) | Placebo (n=80) |
-| --- | --- | --- |
-| Psychiatric |  |  |
-| Somnolence | 67% | 23% |
-| Appetite increased | 49% | 19% |
-| Confusion | 5% | 0% |
-| Gastrointestinal |  |  |
-| Saliva increased | 22% | 6% |
-| Constipation | 21% | 8% |
-| Dry mouth | 13% | 6% |
-| Body as a whole-general |  |  |
-| Fatigue | 42% | 13% |
-| Central & peripheral nervous system |  |  |
-| Tremor | 12% | 1% |
-| Dystonia | 12% | 6% |
-| Dizziness | 9% | 3% |
-| Automatism | 7% | 1% |
-| Dyskinesia | 7% | 0% |
-| Parkinsonism | 8% | 0% |
-| Respiratory |  |  |
-| Upper respiratory tract infection | 34% | 15% |
-| Metabolic and nutritional |  |  |
-| Weight increase | 5% | 0% |
-| Heart rate and rhythm |  |  |
-| Tachycardia | 7% | 0% |
-
-Weight increase was reported more frequently with RISPERDAL® than with placebo.
-The average weight increase over 8 weeks was 2.6 kg in patients treated with RISPERDAL® compared with 0.9 kg in patients treated with placebo.
-(See also PRECAUTIONS– Pediatric Use – Weight Gain.)
-
-There was a higher incidence of adverse events reflecting extrapyramidal symptoms (EPS) in the RISPERDAL® group (27.6%) compared with the placebo group (10.0%).
-In addition, between-group comparison of the severity of EPS were assessed objectively by the following rating instruments: the Simpson-Angus Rating Scale (SARS) and the Abnormal Involuntary Movement Scale (AIMS) in one study, and the Extrapyramidal Symptom Rating Scale (ESRS) in the other study.
-The mean changes between baseline and endpoint in the total ESRS score were –0.3 in the RISPERDAL® group and –0.4 in the placebo group.
-The median change from baseline to endpoint was 0 in both treatment groups for each EPS rating scale.
-
-Somnolence was the most frequent adverse event, and was reported at a higher incidence in the RISPERDAL® group compared with the placebo group.
-The vast majority of cases (96%) were either mild or moderate in severity.
-These events were most often of early onset with peak incidence occurring during the first 2 weeks of treatment, and median duration was 16 days.
-Patients experiencing persistent somnolence may benefit from a change in dosing regimen (see DOSAGE AND ADMINISTRATION– Irritability Associated with Autistic Disorder – Pediatrics [Children and Adolescents]).
-
-## Other Events Observed During the Premarketing Evaluation of RISPERDAL®
-
-During its premarketing assessment, multiple doses of RISPERDAL® were administered to 2607 adult patients with schizophrenia and 1923 pediatric patients in Phase 2 and 3 studies.
-The conditions and duration of exposure to RISPERDAL® varied greatly, and included (in overlapping categories) open-label and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed-dose and titration studies, and short-term or longer-term exposure.
-In most studies, untoward events associated with this exposure were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
-In two large studies, adverse events were also elicited utilizing the UKU (direct questioning) side effect rating scale, and these events were not further categorized using standard terminology.
-(Note: These events are marked with an asterisk in the listings that follow.)
-
-In the listings that follow, spontaneously reported adverse events were classified using World Health Organization (WHO) preferred terms.
-The frequencies presented, therefore, represent the proportion of the 2607 adult or 1923 pediatric patients exposed to multiple doses of RISPERDAL® who experienced an event of the type cited on at least one occasion while receiving RISPERDAL®.
-All reported events are included, except those already listed in Table 1, those events for which a drug cause was remote, and those event terms which were so general as to be uninformative.
-It is important to emphasize that, although the events reported occurred during treatment with RISPERDAL®, they were not necessarily caused by it.
-Serious adverse reactions experienced by the pediatric population were similar to those seen in the adult population (see WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
-
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
-
-### Psychiatric Disorders
-
-Frequent: increased dream activityIncidence based on elicited reports., diminished sexual desire, nervousness.
-Infrequent: impaired concentration, depression, apathy, catatonic reaction, euphoria, increased libido, amnesia.
-Rare: emotional lability, nightmares, delirium, withdrawal syndrome, yawning.
-
-### Central and Peripheral Nervous System Disorders
-
-Frequent: increased sleep duration.
-Infrequent: dysarthria, vertigo, stupor, paraesthesia, confusion.
-Rare: aphasia, cholinergic syndrome, hypoesthesia, tongue paralysis, leg cramps, torticollis, hypotonia, coma, migraine, hyperreflexia, choreoathetosis.
-
-### Gastrointestinal Disorders
-
-Frequent: anorexia, reduced salivation.
-Infrequent: flatulence, diarrhea, increased appetite, stomatitis, melena, dysphagia, hemorrhoids, gastritis.
-Rare: fecal incontinence, eructation, gastroesophageal reflux, gastroenteritis, esophagitis, tongue discoloration, cholelithiasis, tongue edema, diverticulitis, gingivitis, discolored feces, GI hemorrhage, hematemesis.
-
-### Body as a Whole/General Disorders
-
-Frequent: fatigue.
-Infrequent: edema, rigors, malaise, influenza-like symptoms.
-Rare: pallor, enlarged abdomen, allergic reaction, ascites, sarcoidosis, flushing.
-
-### Respiratory System Disorders
-
-Infrequent: hyperventilation, bronchospasm, pneumonia, stridor.
-Rare: asthma, increased sputum, aspiration.
-
-### Skin and Appendage Disorders
-
-Frequent: increased pigmentation, photosensitivity Infrequent: increased sweating, acne, decreased sweating, alopecia, hyperkeratosis, pruritus, skin exfoliation.
-Rare: bullous eruption, skin ulceration, aggravated psoriasis, furunculosis, verruca, dermatitis lichenoid, hypertrichosis, genital pruritus, urticaria.
-
-### Cardiovascular Disorders
-
-Infrequent: palpitation, hypertension, hypotension, AV block, myocardial infarction.
-Rare: ventricular tachycardia, angina pectoris, premature atrial contractions, T wave inversions, ventricular extrasystoles, ST depression, myocarditis.
-
-### Vision Disorders
-
-Infrequent: abnormal accommodation, xerophthalmia.
-Rare: diplopia, eye pain, blepharitis, photopsia, photophobia, abnormal lacrimation.
-
-### Metabolic and Nutritional Disorders
-
-Infrequent: hyponatremia, weight increase, creatine phosphokinase increase, thirst, weight decrease, diabetes mellitus.
-Rare: decreased serum iron, cachexia, dehydration, hypokalemia, hypoproteinemia, hyperphosphatemia, hypertriglyceridemia, hyperuricemia, hypoglycemia.
-
-### Urinary System Disorders
-
-Frequent: polyuria/polydipsia.
-Infrequent: urinary incontinence, hematuria, dysuria.
-Rare: urinary retention, cystitis, renal insufficiency.
-
-### Musculo-Skeletal System Disorders
-
-Infrequent: myalgia.
-Rare: arthrosis, synostosis, bursitis, arthritis, skeletal pain.
-
-### Reproductive Disorders, Female
-
-Frequent: menorrhagia, orgastic dysfunction, dry vagina Infrequent: nonpuerperal lactation, amenorrhea, female breast pain, leukorrhea, mastitis, dysmenorrhea, female perineal pain, intermenstrual bleeding, vaginal hemorrhage.
-
-### Liver and Biliary System Disorders
-
-Infrequent: increased SGOT, increased SGPT.
-Rare: hepatic failure, cholestatic hepatitis, cholecystitis, cholelithiasis, hepatitis, hepatocellular damage.
-
-### Platelet, Bleeding, and Clotting Disorders
-
-Infrequent: epistaxis, purpura.
-Rare: hemorrhage, superficial phlebitis, thrombophlebitis, thrombocytopenia.
-
-### Hearing and Vestibular Disorders
-
-Rare: tinnitus, hyperacusis, decreased hearing.
-
-### Red Blood Cell Disorders
-
-Infrequent: anemia, hypochromic anemia.
-Rare: normocytic anemia.
-
-### Reproductive Disorders, Male
-
-Frequent: erectile dysfunction Infrequent: ejaculation failure.
-
-### White Cell and Resistance Disorders
-
-Infrequent: granulocytopenia Rare: leukocytosis, lymphadenopathy, leucopenia, Pelger-Huet anomaly.
-
-### Endocrine Disorders
-
-Rare: gynecomastia, male breast pain, antidiuretic hormone disorder.
-
-### Special Senses
-
-Rare: bitter taste.
-
-## Postintroduction Reports
-
-Adverse events reported since market introduction which were temporally (but not necessarily causally) related to RISPERDAL® therapy, include the following: anaphylactic reaction, angioedema, apnea, atrial fibrillation, cerebrovascular disorder, including cerebrovascular accident, diabetes mellitus aggravated, including diabetic ketoacidosis, hyperglycemia, intestinal obstruction, jaundice, mania, pancreatitis, Parkinson's disease aggravated, pituitary adenomas, pulmonary embolism, precocious puberty, and QT prolongation.
-There have been rare reports of sudden death and/or cardiopulmonary arrest in patients receiving RISPERDAL®.
-A causal relationship with RISPERDAL® has not been established.
-It is important to note that sudden and unexpected death may occur in psychotic patients whether they remain untreated or whether they are treated with other antipsychotic drugs.
+Other adverse events reported since market introduction, which were temporally related to risperidone but not necessarily causally related, include the following: pituitary adenoma, pulmonary embolism, precocious puberty, cardiopulmonary arrest, and sudden death.
