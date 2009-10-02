@@ -62,7 +62,7 @@ Both peripheral vascular ischemia and colonic ischemia with abdominal pain and b
 Very rare reports of transient and permanent blindness and significant partial vision loss have been reported with the use of sumatriptan.
 Visual disorders may also be part of a migraine attack.
 
-## Selective Serotonin
+## Serotonin Syndrome
 
 The development of a potentially life-threatening serotonin syndrome may occur with triptans, including treatment with IMITREX, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
 If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
@@ -123,6 +123,8 @@ While patients were not systematically evaluated for these changes in clinical t
 ## Information for Patients
 
 See PATIENT INFORMATION at the end of this labeling for the text of the separate leaflet provided for patients.
+
+Patients should be cautioned about the risk of serotonin syndrome with the use of sumatriptan or other triptans, especially during combined use with SSRIs or SNRIs.
 
 ## Laboratory Tests
 

@@ -27,8 +27,8 @@ The decision to use IMITREX Tablets is one that you and your healthcare provider
 
 Talk with your healthcare provider before taking IMITREX Tablets
 
-1. Risk factors for heart disease to tell your healthcare provider: Tell your healthcare provider if you have risk factors for heart disease such as: If you do have risk factors for heart disease, your healthcare provider should check you for heart disease to see if IMITREX is right for you.Although most of the peoplewho have taken IMITREX have not had any serious side effects, some have had serious heart problems.
-   Deaths have been reported, but these were rare considering the extensive worldwide use of IMITREX.
+1. Risk factors for heart disease to tell your healthcare provider: Tell your healthcare provider if you have risk factors for heart disease such as: If you do have risk factors for heart disease, your healthcare provider should check you for heart disease to see if IMITREX is right for you.Although most of the people who have taken IMITREX have not had any serious side effects, some have had serious heart problems.
+   Deaths have been reported, but these were rare considering the extensive worldwide use of IMITREX Tablets.
    Usually, serious problems happened in people with known heart disease.
    It was not clear whether IMITREX had anything to do with these deaths.
    - high blood pressure
@@ -51,7 +51,7 @@ Talk with your healthcare provider before taking IMITREX Tablets
    - Have you had a stroke, a mini-stroke (also called a transient ischemic attack or TIA), or Raynaud syndrome?
    - Do you have high blood pressure?
    - Have you ever had to stop taking this or any other medicine because of an allergy or other problems?
-   - Are you taking any other migraine medicines, including other tiptans?
+   - Are you taking any other migraine medicines, including other triptans?
      Are you taking any medicines containing ergotamine, dihydroergotamine, or methysergide?
    - Are you taking any medicine for depression or other health problems such as a monoamine oxidase inhibitor, selective serotonin reuptake inhibitor (SSRI), or serotonin norepinephrine reuptake inhibitor (SNRI)?
      Common SSRIs are citalopram HBr (CELEXA®), escitalopram oxalate (LEXAPRO®), paroxetine (PAXIL®), fluoxetine (PROZAC®/SARAFEM®), olanzapine/fluoxetine (SYMBYAX®), sertraline (ZOLOFT®), and fluvoxamine.
@@ -79,10 +79,10 @@ Important points about IMITREX Tablets
    If your medicine has expired, throw it away.
    If your healthcare provider decides to stop your treatment, do not keep any leftover medicine unless your healthcare provider tells you to.
 
-Some possible side effects of MITREX Tablets
+Some possible side effects of IMITREX Tablets
 
 - Some patients feel pain or tightness in the chest or throat when using IMITREX Tablets.
-  If this happens to you, then tell your healthcare provider before taking any more IMITREX Tablets.
+  If this happens to you, tell your healthcare provider before taking any more IMITREX Tablets.
   If the chest pain, tightness, or pressure is severe or does not go away, call your healthcare provider right away.
 - Call your healthcare provider right away if you have sudden and/or severe abdominal pain after you take IMITREX Tablets.
 - Some people may have a reaction called serotonin syndrome when they take certain kinds of medicines for depression called SSRIs or SNRIs while they are taking IMITREX Tablets.
@@ -92,11 +92,11 @@ Some possible side effects of MITREX Tablets
   If it happens to you, then tell your healthcare provider right away.
   Do not take any more IMITREX Tablets unless your healthcare provider tells you to.
 - Some people may feel tingling, heat, flushing (redness of face lasting a short time), heaviness, or pressure after taking IMITREX Tablets.
-  A few people may feel drowsy, dizzy, tired, sick.
+  A few people may feel drowsy, dizzy, tired, or sick.
   If you have any of these symptoms, tell your healthcare provider at your next visit.
 - If you feel unwell in any other way or have any symptoms that you do not understand, you should contact your healthcare provider right away.
 
-October 2007IMT:1PIL
+October 2007 IMT:1PIL
 
 IMITREX and PAXIL are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
@@ -109,4 +109,4 @@ Research Triangle Park, NC 27709
 ©2007, GlaxoSmithKline.
 All rights reserved.
 
-October 2007IMT:1PI
+October 2007 IMT:1PI
