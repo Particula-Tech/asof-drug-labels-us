@@ -1,5 +1,14 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040084",
+    "ANDA040201",
+    "ANDA040400",
+    "ANDA040405",
+    "ANDA040409",
+    "ANDA040468",
+    "ANDA089160",
+    "ANDA089725"
+  ],
   "inn": "hydrocodone",
   "labeler": "Mallinckrodt Inc.",
   "package_ndcs": [
@@ -29,7 +38,13 @@
     "0406-0367-05",
     "0406-0367-62"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrocodone bitartrate and acetaminophen",
+      "name": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN"
+    }
+  ],
   "setid": "73c1059b-0c7d-42ef-9827-f018858fc447",
   "source": "dailymed"
 }

@@ -1,59 +1,60 @@
 # WARNINGS
 
-Respiratory Depression– At high doses or in sensitive patients, hydrocodone may produce dose-related respiratory depression by acting directly on the brain stem respiratory center.
+Respiratory Depression – At high doses or in sensitive patients, hydrocodone may produce dose-related respiratory depression by acting directly on the brain stem respiratory center.
 Hydrocodone also affects the center that controls respiratory rhythm, and may produce irregular and periodic breathing.
 
-Head Injury and Increased Intracranial Pressure– The respiratory depressant effects of narcotics and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a pre-existing increase in intracranial pressure.
+Head Injury and Increased Intracranial Pressure – The respiratory depressant effects of narcotics and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a pre-existing increase in intracranial pressure.
 Furthermore, narcotics produce adverse reactions which may obscure the clinical course of patients with head injuries.
 
-Acute Abdominal Conditions– The administration of narcotics may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
+Acute Abdominal Conditions – The administration of narcotics may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
 # PRECAUTIONS
 
 ## General
 
-Special Risk Patients– As with any narcotic analgesic agent, hydrocodone bitartrate and acetaminophen tablets should be used with caution in elderly or debilitated patients, and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy or urethral stricture.
+Special Risk Patients – As with any narcotic analgesic agent, hydrocodone bitartrate and acetaminophen tablets should be used with caution in elderly or debilitated patients, and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy or urethral stricture.
 The usual precautions should be observed and the possibility of respiratory depression should be kept in mind.
 
-Cough Reflex– Hydrocodone suppresses the cough reflex; as with all narcotics, caution should be exercised when hydrocodone bitartrate and acetaminophen tablets are used post-operatively and in patients with pulmonary disease.
+Cough Reflex – Hydrocodone suppresses the cough reflex; as with all narcotics, caution should be exercised when hydrocodone bitartrate and acetaminophen tablets are used post-operatively and in patients with pulmonary disease.
 
-Information for Patients– Hydrocodone, like all narcotics, may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
+Information for Patients – Hydrocodone, like all narcotics, may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
 
 Alcohol and other CNS depressants may produce an additive CNS depression, when taken with this combination product, and should be avoided.
 
 Hydrocodone may be habit-forming.
 Patients should take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed.
 
-Laboratory Tests– In patients with severe hepatic or renal disease, effects of therapy should be monitored with serial liver and/or renal function tests.
+Laboratory Tests – In patients with severe hepatic or renal disease, effects of therapy should be monitored with serial liver and/or renal function tests.
 
-Drug Interactions– Patients receiving narcotics, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone bitartrate and acetaminophen tablets may exhibit an additive CNS depression.
+Drug Interactions – Patients receiving narcotics, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone bitartrate and acetaminophen tablets may exhibit an additive CNS depression.
 When combined therapy is contemplated, the dose of one or both agents should be reduced.
 
 The use of MAO inhibitors or tricyclic antidepressants with hydrocodone preparations may increase the effect of either the antidepressant or hydrocodone.
 
-Drug/Laboratory Test Interactions– Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
+Drug/Laboratory Test Interactions – Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility– No adequate studies have been conducted in animals to determine whether hydrocodone or acetaminophen have a potential for carcinogenesis, mutagenesis, or impairment of fertility.
+Carcinogenesis, Mutagenesis, Impairment of Fertility – No adequate studies have been conducted in animals to determine whether hydrocodone or acetaminophen have a potential for carcinogenesis, mutagenesis, or impairment of fertility.
 
 ## Pregnancy
 
-Teratogenic Effects.Pregnancy Category C– There are no adequate and well-controlled studies in pregnant women.
+Teratogenic Effects.
+Pregnancy Category C – There are no adequate and well-controlled studies in pregnant women.
 Hydrocodone bitartrate and acetaminophen tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nonteratogenic Effects– Babies born to mothers who have been taking opioids regularly prior to delivery will be physically dependent.
+Nonteratogenic Effects – Babies born to mothers who have been taking opioids regularly prior to delivery will be physically dependent.
 The withdrawal signs include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
 The intensity of the syndrome does not always correlate with the duration of maternal opioid use or dose.
 There is no consensus on the best method of managing withdrawal.
 
-Labor and Delivery– As with all narcotics, administration of this product to the mother shortly before delivery may result in some degree of respiratory depression in the newborn, especially if higher doses are used.
+Labor and Delivery – As with all narcotics, administration of this product to the mother shortly before delivery may result in some degree of respiratory depression in the newborn, especially if higher doses are used.
 
-Nursing Mothers– Acetaminophen is excreted in breast milk in small amounts, but the significance of its effects on nursing infants is not known.
+Nursing Mothers – Acetaminophen is excreted in breast milk in small amounts, but the significance of its effects on nursing infants is not known.
 It is not known whether hydrocodone is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from hydrocodone and acetaminophen, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use– Safety and effectiveness in pediatric patients have not been established.
+Pediatric Use – Safety and effectiveness in pediatric patients have not been established.
 
-Geriatric Use– Clinical studies of hydrocodone bitartrate and acetaminophen tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Geriatric Use – Clinical studies of hydrocodone bitartrate and acetaminophen tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 

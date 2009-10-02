@@ -26,7 +26,7 @@ Each Hydrocodone Bitartrate and Acetaminophen Tablet USP contains:
 | 10 mg/660 mg | 10 mg | 660 mg |
 | 10 mg/750 mg | 10 mg | 750 mg |
 
-In addition, each tablet contains the following inactive ingredients: crospovidone NF, magnesium stearate NF, microcrystalline cellulose NF, povidone USP, pregelatinized starch NF, silicon dioxide NF, and stearic acid NF.
+In addition, each tablet contains the following inactive ingredients: crospovidone, magnesium stearate, microcrystalline cellulose, povidone, pregelatinized starch, silicon dioxide, and stearic acid.
 
 The 10 mg/650 mg tablet also contains FD & C Blue No. 1 Aluminum Lake 12%.
 

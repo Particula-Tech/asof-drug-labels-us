@@ -4,10 +4,10 @@ Following an acute overdosage, toxicity may result from hydrocodone or acetamino
 
 ## Signs and Symptoms
 
-Hydrocodone– Serious overdose with hydrocodone is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, and sometimes bradycardia and hypotension.
+Hydrocodone – Serious overdose with hydrocodone is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, and sometimes bradycardia and hypotension.
 In severe overdosage, apnea, circulatory collapse, cardiac arrest and death may occur.
 
-Acetaminophen– In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
+Acetaminophen – In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necrosis, hypoglycemic coma, and thrombocytopenia may also occur.
 
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis and general malaise.
@@ -15,7 +15,7 @@ Clinical and laboratory evidence of hepatic toxicity may not be apparent until 4
 
 In adults, hepatic toxicity has rarely been reported with acute overdoses of less than 10 grams and fatalities with less than 15 grams.
 
-Treatment– A single or multiple overdose with hydrocodone and acetaminophen is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
+Treatment – A single or multiple overdose with hydrocodone and acetaminophen is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
 
 Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
 Vomiting should be induced mechanically, or with syrup of ipecac, if the patient is alert (adequate pharyngeal and laryngeal reflexes).

@@ -1,8 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance– Hydrocodone Bitartrate and Acetaminophen Tablets are classified as a Schedule III controlled substance.
+Controlled Substance – Hydrocodone bitartrate and acetaminophen tablets are classified as a Schedule III controlled substance.
 
-Abuse and Dependence– Psychic dependence, physical dependence, and tolerance may develop upon repeated administration of narcotics; therefore, this product should be prescribed and administered with caution.
+Abuse and Dependence – Psychic dependence, physical dependence, and tolerance may develop upon repeated administration of narcotics; therefore, this product should be prescribed and administered with caution.
 However, psychic dependence is unlikely to develop when hydrocodone bitartrate and acetaminophen tablets are used for a short time for the treatment of pain.
 
 Physical dependence, the condition in which continued administration of the drug is required to prevent the appearance of a withdrawal syndrome, assumes clinically significant proportions only after several weeks of continued narcotic use, although some mild degree of physical dependence may develop after a few days of narcotic therapy.
