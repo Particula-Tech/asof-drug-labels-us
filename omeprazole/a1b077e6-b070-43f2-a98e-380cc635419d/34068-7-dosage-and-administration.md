@@ -47,7 +47,7 @@ Some patients with Zollinger-Ellison syndrome have been treated continuously wit
 
 ## 2.7 Pediatric Patients
 
-For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients 1 to 16 years of age is as follows:
+For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients– 1 to 16 years of age is as follows:
 
 | Patient Weight | Omeprazole Daily Dose |
 | --- | --- |

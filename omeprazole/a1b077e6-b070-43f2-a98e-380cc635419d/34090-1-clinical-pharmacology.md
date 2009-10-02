@@ -143,7 +143,7 @@ Table 3
 
 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing /Parameter | ChildrenData from single and repeated dose studies ≤ 20 kg 2-5 years | Children > 20 kg 6-16 years | AdultsData from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules(mean 76 kg) 23-29 years(n=12) |
+| Single or Repeated Oral Dosing /Parameter | ChildrenData from single and repeated dose studies ≤ 20 kg 2-5 years | Children > 20 kg 6-16 years | AdultsData from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules(mean 76 kg) 23-29 years (n=12) |
 | --- | --- | --- | --- |
 |  | 10 mg | 20 mg |  |
 | Single Dosing |  |  |  |
@@ -173,7 +173,7 @@ Asian Population
 In pharmacokinetic studies of single 20 mg omeprazole doses, an increase in AUC of approximately four-fold was noted in Asian subjects compared with Caucasians.
 Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for Asian subjects should be considered.
 
-## 12.4 Microbiology Information in H. pylori
+## 12.4 Microbiology
 
 Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the Indications and Usage section (1.1).
 
@@ -196,11 +196,11 @@ Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 | Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |
 |  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
 |  | SSusceptible (S) MIC ≤ 0.25 µg/mL, Intermediate (I) MIC 0.5 – 1.0 µg/mL, Resistant (R) MIC ≥ 2 µg/mL | I | R | No MIC |  |
-| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies M93-067, M93-100) |  |  |  |  |  |
+| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4,5) |  |  |  |  |  |
 | Susceptible 108 | 72 | 1 |  | 26 | 9 |
 | Intermediate 1 |  |  |  | 1 |  |
 | Resistant 4 |  |  |  | 4 |  |
-| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 126, 127, M96-446; followed by omeprazole 20 mg once daily for another 18 days – Studies 126, 127) |  |  |  |  |  |
+| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |
 | Susceptible 171 | 153 | 7 |  | 3 | 8 |
 | Intermediate |  |  |  |  |  |
 | Resistant 14 | 4 | 1 |  | 6 | 3 |
@@ -240,3 +240,8 @@ Standard clarithromycin and amoxicillin powders should provide the following MIC
 | --- | --- | --- |
 | H. pylori ATCC 43504 | Clarithromycin | 0.016- 0.12 (µg/mL) |
 | H. pylori ATCC 43504 | Amoxicillin | 0.016- 0.12 (µg/mL) |
+
+Effects on Gastrointestinal Microbial Ecology
+
+Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter.

@@ -5,10 +5,11 @@
 Pregnancy Category C
 
 Reproductive studies in rats and rabbits with omeprazole and multiple cohort studies in pregnant women with omeprazole use during the first trimester do not show an increased risk of congenital anomalies or adverse pregnancy outcomes.
-There are no adequate and well controlled studies on the use of omeprazole in pregnant women.
+There are no adequate and well-controlled studies on the use of omeprazole in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 The vast majority of reported experience with omeprazole during human pregnancy is first trimester exposure and the duration of use is rarely specified, e.g., intermittent vs. chronic.
 An expert review of published data on experiences with omeprazole use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as fair).
+
 Three epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2–receptor antagonists or other controls.
 A population-based prospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
 In utero exposure to omeprazole was not associated with increased risk of any malformation (odds ratio 0.82, 95% CI 0.50–1.34), low birth weight or low Apgar score.

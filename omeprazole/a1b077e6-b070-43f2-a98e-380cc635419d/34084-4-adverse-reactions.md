@@ -15,7 +15,8 @@ The clinical trial safety profile in patients greater than 65 years of age was s
 
 The clinical trial safety profile in pediatric patients who received PRILOSEC Delayed-Release Capsules was similar to that in adult patients.
 Unique to the pediatric population, however, adverse reactions of the respiratory system were most frequently reported in both the 1 to <2 and 2 to 16 year age groups (75.0% and 18.5%, respectively).
-Similarly, fever was frequently reported in the 1 to 2 year age group (33.0%) and accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).[See Use in Specific Populations (8.4)]
+Similarly, fever was frequently reported in the 1 to 2 year age group (33.0%) and accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).
+[See Use in Specific Populations (8.4)]
 
 ## 6.2 Clinical Trials Experience with PRILOSEC in Combination Therapy for H. pylori Eradication
 

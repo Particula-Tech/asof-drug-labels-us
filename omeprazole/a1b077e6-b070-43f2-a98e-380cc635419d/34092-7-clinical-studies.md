@@ -176,7 +176,7 @@ The table below provides the results of this study for maintenance of healing of
 
 Life Table Analysis
 
-|  | PRILOSEC20 mg once daily(n=131) | PRILOSEC10 mg once daily(n=133) | ranitidine150 mg twice daily(n=128) |
+|  | PRILOSEC20 mg once daily(n=131) | PRILOSEC10 mg once daily(n=133) | Ranitidine150 mg twice daily(n=128) |
 | --- | --- | --- | --- |
 | Percent in endoscopic remission at 12 months | (p = 0.01) PRILOSEC 20 mg once daily, versus PRILOSEC 10 mg- once daily or Ranitidine77 | (p= 0.03) PRILOSEC 10 mg once daily, versus Ranitidine58 | 46 |
 

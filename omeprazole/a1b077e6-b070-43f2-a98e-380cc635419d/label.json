@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019810",
+    "NDA022056"
+  ],
   "inn": "omeprazole",
-  "labeler": "",
+  "labeler": "AstraZeneca LP",
   "package_ndcs": [
     "0186-0606-31",
     "0186-0606-82",
@@ -13,7 +16,18 @@
     "0186-0743-68",
     "0186-0743-82"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "omeprazole magnesium",
+      "name": "PRILOSEC"
+    },
+    {
+      "form": "GRANULE, DELAYED RELEASE",
+      "generic": "omeprazole magnesium",
+      "name": "PRILOSEC"
+    }
+  ],
   "setid": "a1b077e6-b070-43f2-a98e-380cc635419d",
   "source": "dailymed"
 }
