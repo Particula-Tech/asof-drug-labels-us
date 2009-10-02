@@ -1,6 +1,4 @@
-# SUMMARY OF INFORMATION ABOUT
-
-## Amlodipine Besylate Tablets
+# SUMMARY OF INFORMATION ABOUT Amlodipine Besylate Tablets
 
 Read this information carefully before you start amlodipine besylate tablets and each time you refill your prescription.
 There may be new information.

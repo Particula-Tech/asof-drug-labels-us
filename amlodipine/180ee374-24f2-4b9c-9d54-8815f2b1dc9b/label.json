@@ -1,21 +1,32 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019787"
+  ],
   "inn": "amlodipine",
   "labeler": "Greenstone LLC",
   "package_ndcs": [
     "59762-1520-1",
     "59762-1520-2",
+    "59762-1520-4",
     "59762-1530-1",
     "59762-1530-2",
     "59762-1530-3",
     "59762-1530-4",
     "59762-1530-5",
+    "59762-1530-7",
     "59762-1540-1",
     "59762-1540-2",
     "59762-1540-3",
-    "59762-1540-4"
+    "59762-1540-4",
+    "59762-1540-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amlodipine besylate",
+      "name": "amlodipine besylate"
+    }
+  ],
   "setid": "180ee374-24f2-4b9c-9d54-8815f2b1dc9b",
   "source": "dailymed"
 }
