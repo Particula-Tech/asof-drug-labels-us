@@ -24,4 +24,6 @@ Rev October 2006
 
 © RLI, 2006
 
-Boehringer Ingelheim Roxane Laboratories
+Boehringer Ingelheim
+
+Roxane Laboratories
