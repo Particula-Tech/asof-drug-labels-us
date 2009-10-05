@@ -16,7 +16,7 @@ Risk factors for arterial vascular disease (for example, hypertension, diabetes 
 
 ### a. Stroke
 
-In the Women’s Health Initiative (WHI), estrogen alone substudy, a statistically significant increased risk of stroke was reported in women receiving daily conjugated estrogens (CE 0.625 mg) compared to placebo (45 versus 33 per 10,000 women-years).
+In the Women's Health Initiative (WHI), estrogen alone substudy, a statistically significant increased risk of stroke was reported in women receiving daily conjugated estrogens (CE 0.625 mg) compared to placebo (45 versus 33 per 10,000 women-years).
 The increase in risk was demonstrated in year one and persisted.
 (See CLINICAL STUDIES.)
 
@@ -102,7 +102,7 @@ Other epidemiologic studies have not found these associations.
 
 ## 3. Dementia
 
-In the estrogen alone Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, a population of 2,947 hysterectomized women aged 65 to 79 years was randomized to daily conjugated estrogens (CE 0.625 mg) or placebo.
+In the estrogen alone Women's Health Initiative Memory Study (WHIMS), a substudy of WHI, a population of 2,947 hysterectomized women aged 65 to 79 years was randomized to daily conjugated estrogens (CE 0.625 mg) or placebo.
 In the estrogen plus progestin WHIMS substudy, a population of 4,532 postmenopausal women aged 65 to 79 years was randomized to daily CE 0.625 mg plus medroxyprogesterone acetate (MPA 2.5 mg) or placebo.
 
 In the estrogen alone substudy, after an average follow-up of 5.2 years, 28 women in the CE alone group and 19 women in the placebo group were diagnosed with probable dementia.

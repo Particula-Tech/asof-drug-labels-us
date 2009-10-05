@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020472"
+  ],
   "inn": "estradiol",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0013-2150-36"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "estradiol",
+      "name": "Estring"
+    }
+  ],
   "setid": "aa530dfd-3a48-46b9-9678-a7bc48316e41",
   "source": "dailymed"
 }

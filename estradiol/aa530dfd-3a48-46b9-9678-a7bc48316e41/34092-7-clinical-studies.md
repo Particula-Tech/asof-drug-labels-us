@@ -60,13 +60,12 @@ Estrogen alone increased the risk for ischemic stroke, and this excess risk was 
 
 The estrogen plus progestin substudy was also stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.2 years of treatment, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the "global index."
-The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years (relative risk [RR] 1.15, 95 percent nCI 1.03–1.28).
+The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years (relative risk [RR] 1.15, 95 percent nCI 1.03–1.28).
 
 For those outcomes included in the WHI "global index" that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 6 more CHD events, 7 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 7 fewer colorectal cancers and 5 fewer hip fractures.
 (See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
 
-Results of the estrogen plus progestin substudy, which included 16,608 women (average of 63 years, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent.
-Other), are presented in Table 3.
+Results of the estrogen plus progestin substudy, which included 16,608 women (average of 63 years, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other), are presented in Table 3.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 TABLE 3: RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI AT AN AVERAGE OF 5.6 YEARSResults are based on centrally adjudicated data.
@@ -93,7 +92,7 @@ Mortality data was not part of the adjudicated data; however, data at 5.2 years 
 
 ## Women's Health Initiative Memory Study
 
-The estrogen alone Women’s Health Initiative Memory Study (WHIMS), a substudy of the WHI, enrolled 2,947 predominantly healthy postmenopausal women 65 years of age and older (45 percent were 65 to 69 years of age, 36 percent were 70 to 74 years of age, and 19 percent were 75 years of age and older) to evaluate the effects of daily conjugated estrogens (CE 0.625 mg) on the incidence of probable dementia (primary outcome) compared with placebo.
+The estrogen alone Women's Health Initiative Memory Study (WHIMS), a substudy of the WHI, enrolled 2,947 predominantly healthy postmenopausal women 65 years of age and older (45 percent were 65 to 69 years of age, 36 percent were 70 to 74 years of age, and 19 percent were 75 years of age and older) to evaluate the effects of daily conjugated estrogens (CE 0.625 mg) on the incidence of probable dementia (primary outcome) compared with placebo.
 
 After an average follow-up of 5.2 years, 28 women in the estrogen alone group (37 per 10,000 women-years) and 19 in the placebo group (25 per 10,000 women-years) were diagnosed with probable dementia.
 The relative risk of probable dementia in the estrogen alone group was 1.49 (95 percent CI, 0.83–2.66) compared to placebo.
