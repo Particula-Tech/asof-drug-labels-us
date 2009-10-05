@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019221"
+  ],
   "inn": "enalapril",
-  "labeler": "BTA Pharmaceuticals, Inc.",
+  "labeler": "BTA Pharmaceuticals Inc.",
   "package_ndcs": [
     "64455-146-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate and hydrochlorothiazide",
+      "name": "Vaseretic"
+    }
+  ],
   "setid": "c96cd85b-6caa-4527-9c82-4ef206e6eb58",
   "source": "dailymed"
 }
