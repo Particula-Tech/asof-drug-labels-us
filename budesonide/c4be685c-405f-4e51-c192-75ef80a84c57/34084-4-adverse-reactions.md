@@ -17,8 +17,8 @@ A similar adverse event profile was observed in the subgroup of pediatric patien
 Two to three percent (2-3%) of patients in clinical trials discontinued because of adverse events.
 Systemic corticosteroid side effects were not reported during controlled clinical studies with RHINOCORT AQUA Nasal Spray.
 
-If recommended doses are exceeded, however, or if individuals are particularly sensitive, symptoms of hypercorticism, ie, Cushing’s Syndrome, could occur.
+If recommended doses are exceeded, however, or if individuals are particularly sensitive, symptoms of hypercorticism, ie, Cushing’s Syndrome, and adrenal suppression could occur.
 
-Rare adverse events reported from post-marketing experience include: nasal septum perforation, pharynx disorders (throat irritation, throat pain, swollen throat, burning throat, and itchy throat), angioedema, anosmia, and palpitations.
+Adverse events reported from post-marketing experience include: immediate and delayed hypersensitivity reactions (including anaphylactic reaction, urticaria, rash, dermatitis, angioedema and pruritus), glaucoma, increased intraocular pressure, cataracts, nasal septum perforation, pharynx disorders (throat irritation, throat pain, swollen throat, burning throat, and itchy throat), anosmia, and palpitations.
 
 Cases of growth suppression have been reported for intranasal corticosteroids including RHINOCORT AQUA Nasal Spray (see PRECAUTIONS, Pediatric Use).

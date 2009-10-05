@@ -5,7 +5,8 @@ In standard in vitro and animal models, budesonide has approximately a 200-fold 
 As a measure of systemic activity, budesonide is 40 times more potent than cortisol when administered subcutaneously and 25 times more potent when administered orally in the rat thymus involution assay.
 In glucocorticoid receptor affinity studies, the 22R form was twice as active as the 22S epimer.
 
-The precise mechanism of corticosteroid actions in seasonal and perennial allergic rhinitis is not known.
+Inflammation is an important component in the pathogenesis of seasonal and perennial allergic rhinitis.
+Corticosteroids act on multiple sites of the inflammatory cascade resulting in a decrease of inflammation.
 Corticosteroids have been shown to have a wide range of inhibitory activities against multiple cell types (eg, mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (eg, histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic mediated inflammation.
 
 Corticosteroids affect the delayed (6 hour) response to an allergen challenge more than the histamine-associated immediate response (20 minute).
@@ -28,7 +29,7 @@ While budesonide is well absorbed from the GI tract, the oral bioavailability of
 
 Budesonide has a volume of distribution of approximately 2-3 L/kg.
 The volume of distribution for the 22R epimer is almost twice that of the 22S epimer.
-Protein binding of budesonide in vitro is constant (85-90%) over a concentration range (1-100 nmol/L) which exceeded that achieved after administration of recommended doses.
+Protein binding of budesonide in vitro is constant (85-90%) over a concentration range (1-100 nmol/L), which exceeded that achieved after administration of recommended doses.
 Budesonide shows little to no binding to glucocorticosteroid binding globulin.
 It rapidly equilibrates with red blood cells in a concentration independent manner with a blood/plasma ratio of about 0.8.
 
@@ -41,7 +42,7 @@ In vitro studies on the binding of the two primary metabolites to the glucocorti
 In vitro studies have evaluated sites of metabolism and showed negligible metabolism in skin, lung, and serum.
 No qualitative difference between the in vitro and in vivo metabolic patterns could be detected.
 
-### Elimination
+### Excretion/Elimination
 
 Budesonide is excreted in the urine and feces in the form of metabolites.
 After intranasal administration of a radiolabeled dose, 2/3 of the radioactivity was found in the urine and the remainder in the feces.
@@ -53,21 +54,41 @@ The terminal half-life, 2 to 3 hours, was similar for both epimers and it appear
 
 ### Special Populations
 
-Geriatric : No specific pharmacokinetic study has been undertaken in subjects >65 years of age.
+#### Geriatric:
 
-Pediatric: After administration of RHINOCORT AQUA Nasal Spray, the time to reach peak drug concentrations and plasma half-life were similar in children and in adults.
+No specific pharmacokinetic study has been undertaken in subjects >65 years of age.
+
+#### Pediatric:
+
+After administration of RHINOCORT AQUA Nasal Spray, the time to reach peak drug concentrations and plasma half-life were similar in children and in adults.
 Children had plasma concentrations approximately twice those observed in adults due primarily to differences in weight between children and adults.
 
-Gender: No specific pharmacokinetic study has been conducted to evaluate the effect of gender on budesonide pharmacokinetics.
+#### Gender:
+
+No specific pharmacokinetic study has been conducted to evaluate the effect of gender on budesonide pharmacokinetics.
 However, following administration of 400 mcg of RHINOCORT AQUA Nasal Spray to 7 male and 8 female volunteers in a pharmacokinetic study, no major gender differences in the pharmacokinetic parameters were found.
 
-Race: No specific study has been undertaken to evaluate the effect of race on budesonide pharmacokinetics.
+#### Race:
 
-Renal Insufficiency: The pharmacokinetics of budesonide have not been investigated in patients with renal insufficiency.
+No specific study has been undertaken to evaluate the effect of race on budesonide pharmacokinetics.
 
-Hepatic Insufficiency: Reduced liver function may affect the elimination of corticosteroids.
+#### Renal Insufficiency:
+
+The pharmacokinetics of budesonide have not been investigated in patients with renal insufficiency.
+
+#### Hepatic Insufficiency:
+
+Reduced liver function may affect the elimination of corticosteroids.
 The pharmacokinetics of orally administered budesonide were affected by compromised liver function as evidenced by a doubled systemic availability.
 The relevance of this finding to intranasally administered budesonide has not been established.
+
+#### Nursing Mothers:
+
+The disposition of budesonide when delivered by oral inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum.
+Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
+Breast milk obtained over an 8–hour period post-dose revealed that the maximum concentration of budesonide for the 400 and 800 mcg total daily doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after dosing.
+The estimated oral daily dose of budesonide from breast milk to the infant was approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
+Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breastfeeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant) (see PRECAUTIONS, Nursing Mothers).
 
 ## Pharmacodynamics
 
@@ -93,7 +114,7 @@ The patients were predominantly Caucasian.
 Overall, the results of these clinical trials showed that RHINOCORT AQUA Nasal Spray administered once daily provides statistically significant reduction in the severity of nasal symptoms of seasonal and perennial allergic rhinitis including runny nose, sneezing, and nasal congestion.
 
 An improvement in nasal symptoms may be noted in patients within 10 hours of first using RHINOCORT AQUA Nasal Spray.
-This time to onset is supported by an environmental exposure unit study in seasonal allergic rhinitis patients which demonstrated that RHINOCORT AQUA Nasal Spray led to a statistically significant improvement in nasal symptoms compared to placebo by 10 hours.
+This time to onset is supported by an environmental exposure unit study in seasonal allergic rhinitis patients that demonstrated that RHINOCORT AQUA Nasal Spray led to a statistically significant improvement in nasal symptoms compared to placebo by 10 hours.
 Further support comes from a clinical study of patients with perennial allergic rhinitis which demonstrated a statistically significant improvement in nasal symptoms for both RHINOCORT AQUA Nasal Spray and for the active comparator (mometasone furoate) compared to placebo by 8 hours.
 Onset was also assessed in this study with peak nasal inspiratory flow rate and this endpoint failed to show efficacy for either active treatment.
 Although statistically significant improvements in nasal symptoms compared to placebo were noted within 8-10 hours in these studies, about one half to two thirds of the ultimate clinical improvement with RHINOCORT AQUA Nasal Spray occurs over the first 1-2 days, and maximum benefit may not be achieved until approximately 2 weeks after initiation of treatment.

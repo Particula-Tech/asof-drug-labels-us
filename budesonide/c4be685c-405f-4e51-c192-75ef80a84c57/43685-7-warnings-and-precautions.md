@@ -1,27 +1,36 @@
 # WARNINGS
 
-The replacement of a systemic corticosteroid with a topical corticosteroid can be accompanied by signs of adrenal insufficiency, and in addition some patients may experience symptoms of corticosteroid withdrawal, eg, joint and/or muscular pain, lassitude, and depression.
-Patients previously treated for prolonged periods with systemic corticosteroids and transferred to topical corticosteroids should be carefully monitored for acute adrenal insufficiency in response to stress.
+The replacement of a systemic corticosteroid with a topical corticosteroid can be accompanied by signs of adrenal insufficiency, and in addition some patients may experience symptoms of corticosteroid withdrawal, e.g., joint and/or muscular pain, fatigue, weakness, nausea, vomiting, hypotension, lassitude, and depression.
+Patients previously treated for prolonged periods with systemic corticosteroids should be weaned off slowly when transferred to topical corticosteroids and carefully monitored for acute adrenal insufficiency in response to stress.
 In those patients who have asthma or other clinical conditions requiring long-term systemic corticosteroid treatment, too rapid a decrease in systemic corticosteroids may cause a severe exacerbation of their symptoms.
 
-Patients who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
-Chicken pox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on immunosuppressant doses of corticosteroids.
-In such children or adults who have not had these diseases, particular care should be taken to avoid exposure.
-How the dose, route, and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
+Transfer of patients from systemic corticosteroid therapy to RHINOCORT AQUA may unmask allergic or other immunologic conditions previously suppressed by the systemic corticosteroid therapy, e.g., rhinitis, conjunctivitis, eosinophilic conditions, eczema, and arthritis.
+
+Patients who are on drugs that suppress the immune system are more susceptible to infections than healthy individuals.
+Chicken pox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
+In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
+How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+If exposed to chicken pox, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
 (See the respective package inserts for complete VZIG and IG prescribing information).
 If chicken pox develops, treatment with antiviral agents may be considered.
+
+The clinical course of chicken pox or measles infection in patients on intranasal or inhaled corticosteroids has not been studied.
+While there is no data with intranasal corticosteroids, a clinical study has examined the immune responsiveness to the varicella vaccine in asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension (see PRECAUTIONS, Drug Interactions).
 
 # Precautions
 
 ## General
 
-Intranasal corticosteroids may cause a reduction in growth velocity when administered to pediatric patients (see PRECAUTIONS, Pediatric Use).
+Intranasal corticosteroids, including budesonide may cause a reduction in growth velocity when administered to pediatric patients.
+Monitor the growth routinely of pediatric patients receiving long-term treatment with RHINOCORT AQUA.
+To minimize the systemic effects of intranasal corticosteroids, including RHINOCORT AQUA, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms.
+(see PRECAUTIONS, Pediatric Use).
 
 Rarely, immediate and/or delayed hypersensitivity reactions may occur after the intranasal administration of budesonide.
-Rare instances of wheezing, nasal septum perforation, and increased intraocular pressure have been reported following the intranasal application of corticosteroids, including budesonide.
+
+Rare instances of glaucoma, increased intraocular pressure, cataracts, wheezing and nasal septum perforation, and have been reported following the intranasal application of corticosteroids, including budesonide (see ADVERSE REACTIONS).
 
 Although systemic effects have been minimal with recommended doses of RHINOCORT AQUA Nasal Spray, any such effect is dose dependent.
 Therefore, larger than recommended doses of RHINOCORT AQUA Nasal Spray should be avoided and the minimal effective dose for the patient should be used (see DOSAGE AND ADMINISTRATION).
@@ -41,12 +50,26 @@ Hepatic dysfunction influences the pharmacokinetics of budesonide, similar to th
 ## Information for Patients
 
 Patients being treated with RHINOCORT AQUA Nasal Spray should receive the following information and instructions.
-Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chicken pox or measles and, if exposed, to obtain medical advice.
+
+This information is intended to aid the patient in the safe and effective use of the medication.
+It is not a disclosure of all possible adverse or intended effects.
+For proper use of RHINOCORT AQUA and to attain maximum improvement, the patient should read and follow the accompanying Patient Instructions for Use.
+
+Patients should be warned to avoid exposure to chicken pox or measles and, if they are exposed, to consult their physicians without delay (see WARNINGS, and PRECAUTIONS, Drug Interactions).
 
 Patients should use RHINOCORT AQUA Nasal Spray at regular intervals since its effectiveness depends on its regular use (see DOSAGE AND ADMINISTRATION).
 
+Do not take extra doses or stop taking RHINOCORT AQUA without telling your healthcare provider.
+
+Patients or their parents/guardians should inform their physician if they are allergic to any of the ingredients of RHINOCORT AQUA or any other intranasal corticosteroid.
+
+Patients should inform their physician of other medications they are taking as RHINOCORT AQUA may not be suitable in some circumstances and the physician may wish to use a different medicine.
+
+Long-term use of intranasal corticosteroids, including budesonide, may increase the risk of some eye problems (cataracts or glaucoma).
+Regular eye examinations should be considered.
+
 An improvement in nasal symptoms may be noted in patients within 10 hours of first using RHINOCORT AQUA Nasal Spray.
-This time to onset is supported by an environmental exposure unit study in seasonal allergic rhinitis patients which demonstrated that RHINOCORT AQUA Nasal Spray led to a statistically significant improvement in nasal symptoms compared to placebo by 10 hours.
+This time to onset is supported by an environmental exposure unit study in seasonal allergic rhinitis patients that demonstrated that RHINOCORT AQUA Nasal Spray led to a statistically significant improvement in nasal symptoms compared to placebo by 10 hours.
 Further support comes from a clinical study of patients with perennial allergic rhinitis which demonstrated a statistically significant improvement in nasal symptoms for both RHINOCORT AQUA Nasal Spray and for the active comparator (mometasone furoate) compared to placebo by 8 hours.
 Onset was also assessed in this study with peak nasal inspiratory flow rate and this endpoint failed to show efficacy for either active treatment.
 Although statistically significant improvements in nasal symptoms compared to placebo were noted within 8-10 hours in these studies, about one half to two thirds of the ultimate clinical improvement with RHINOCORT AQUA Nasal Spray occurs over the first 1-2 days, and maximum benefit may not be achieved until approximately 2 weeks after initiation of treatment.
@@ -71,6 +94,10 @@ Care should be exercised when budesonide is coadministered with long-term ketoco
 
 Omeprazole, an inhibitor of CYP2C19, did not have effects on the pharmacokinetics of oral budesonide, while cimetidine, primarily an inhibitor of CYP1A2, caused a slight decrease in budesonide clearance and corresponding increase in its oral bioavailability.
 
+Although there is no data with intranasal corticosteroids, an open-label non-randomized clinical study examined the immune responsiveness of varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension 0.25 mg to 1 mg daily (n=151) or non-corticosteroid asthma therapy (n=92) (ie, beta2-agonists, leukotriene receptor antagonists, cromones).
+The percentage of patients developing a seroprotective antibody titer ≥5.0 (gpELISA value) in response to the vaccination was similar in patients treated with budesonide inhalation suspension (85%) compared to patients treated with non-corticosteroids asthma therapy (90%).
+No patient treated with budesonide inhalation suspension developed chicken pox as a result of vaccination.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a two-year study in Sprague-Dawley rats, budesonide caused a statistically significant increase in the incidence of gliomas in the male rats receiving an oral dose of 50 mcg/kg (approximately twice the maximum recommended daily intranasal dose in adults and children on a mcg/m2 basis).
@@ -86,9 +113,11 @@ Budesonide was not mutagenic or clastogenic in six different test systems: Ames 
 In rats, budesonide caused a decrease in prenatal viability and viability of the pups at birth and during lactation, along with a decrease in maternal body-weight gain, at subcutaneous doses of 20 mcg/kg and above (less than the maximum recommended daily intranasal dose in adults on a mcg/m2 basis).
 No such effects were noted at 5 mcg/kg (less than the maximum recommended daily intranasal dose in adults on a mcg/m2 basis).
 
-## Pregnancy:
+## Pregnancy
 
-Teratogenic Effects: Pregnancy Category B. The impact of budesonide on human pregnancy outcomes has been evaluated through assessments of birth registries linked with maternal usage of inhaled budesonide (ie, PULMICORT TURBUHALER) and intranasally administered budesonide (ie, RHINOCORT AQUA Nasal Spray).
+### Teratogenic Effects: Pregnancy category B
+
+The impact of budesonide on human pregnancy outcomes has been evaluated through assessments of birth registries linked with maternal usage of inhaled budesonide (ie, PULMICORT TURBUHALER) and intranasally administered budesonide (ie, RHINOCORT AQUA Nasal Spray).
 The results from population-based prospective cohort epidemiological studies reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995- 2001 (ie, Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for overall congenital malformations from the use of inhaled or intranasal budesonide during early pregnancy.
 
 Congenital malformations were studied in 2,014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10-12 weeks after the last menstrual period), the period when most major organ malformations occur.Kallen B, Rydhstroem H, Aberg A. Congenital malformations after the use of inhaled budesonide in early pregnancy.
@@ -111,18 +140,24 @@ Budesonide produced fetal loss, decreased pup weights, and skeletal abnormalitie
 In another study in rats, no teratogenic or embryocidal effects were seen at inhalation doses up to 250 mcg/kg (approximately 8 times the maximum recommended daily intranasal dose in adults on a mcg/m2 basis).
 
 Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
-In addition, because there is an increase in corticosteroid production during pregnancy, most women will require a lower exogenous corticosteroid dose and many will not need corticosteroid treatment during pregnancy.
 
 Despite the animal findings, it would appear that the possibility of fetal harm is remote if the drug is used during pregnancy.
 Nevertheless, because the studies in humans cannot rule out the possibility of harm, RHINOCORT AQUA should be used during pregnancy only if clearly needed.
 
-Nonteratogenic Effects: Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
+### Nonteratogenic Effects:
+
+Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully observed.
 
 ## Nursing Mothers
 
-It is not known whether budesonide is excreted in human milk.
-Because other corticosteroids are excreted in human milk, caution should be exercised when RHINOCORT AQUA Nasal Spray is administered to nursing women.
+Budesonide, like other corticosteroids, is secreted in human milk.
+Data with budesonide delivered orally via dry powder inhaler to women with asthma indicates that the total daily oral dose of budesonide in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Nursing Mothers).
+No studies have been conducted in breastfeeding women specifically with RHINOCORT AQUA; however, the dose of budesonide available to the infant in breast milk, as a percentage of the maternal dose, would be expected to be similar.
+RHINOCORT AQUA should be used in nursing women only if clinically appropriate.
+Prescribers should weigh the known benefits of breastfeeding for the mother and infant against the potential risks of minimal budesonide exposure in the infant.
+Dosing considerations include prescription or titration to the lowest clinically effective dose and use of RHINOCORT AQUA immediately after breastfeeding to maximize the time interval between dosing and breastfeeding to minimize infant exposure.
+However, in general, RHINOCORT AQUA use should not delay or interfere with infant feeding.
 
 ## Pediatric Use
 
@@ -132,12 +167,21 @@ Controlled clinical studies have shown that intranasal corticosteroids may cause
 This effect has been observed in the absence of laboratory evidence of hypothalamic-pituitary-adrenal (HPA)-axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA-axis function.
 The long-term effects of this reduction in growth velocity associated with intranasal corticosteroids, including the impact on final adult height, are unknown.
 The potential for "catch-up" growth following discontinuation of treatment with intranasal corticosteroids has not been adequately studied.
+
 The growth of pediatric patients receiving intranasal corticosteroids, including RHINOCORT AQUA Nasal Spray, should be monitored routinely (eg, via stadiometry).
-The potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of safe and effective noncorticosteroid treatment alternatives.
+The potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the risks and benefits associated with alternative therapies.
 To minimize the systemic effects of intranasal corticosteroids, including RHINOCORT AQUA Nasal Spray, each patient should be titrated to the lowest dose that effectively controls his/her symptoms.
 
 A one-year placebo-controlled clinical growth study was conducted in 229 pediatric patients (ages 4 through 8 years of age) to assess the effect of RHINOCORT AQUA (single-daily dose of 64 mcg, the recommended starting dose for children ages 6 years and above) on growth velocity.
 From a population of 141 patients receiving RHINOCORT AQUA Nasal Spray and 67 receiving placebo, the point estimate for growth velocity with RHINOCORT AQUA Nasal Spray was 0.25 cm/year lower than that noted with placebo (95% confidence interval ranging from 0.59 cm/year lower than placebo to 0.08 cm/year higher than placebo).
+
+In a study of asthmatic children 5-12 years of age, those treated with budesonide administered via a dry powder inhaler 200 mcg twice daily (n=311) had a 1.1-centimeter (0.433 inch) reduction in growth compared with those receiving placebo (n=418) at the end of one year; the difference between these two treatment groups did not increase further over three years of additional treatment.
+By the end of four years, children treated with budesonide dry powder inhaler and children treated with placebo had similar growth velocities.
+Conclusions drawn from this study may be confounded by the unequal use of corticosteroids in the treatment groups and inclusion of data from patients attaining puberty during the course of the study.
+
+The systemic effects of inhaled corticosteroids are related to the systemic exposure to such drugs.
+Pharmacokinetic studies have demonstrated that in both adults and children, systemic exposure to budesonide at the highest recommended doses of RHINOCORT AQUA would be expected to be no greater than exposure at the lowest recommended doses via a dry powder inhaler.
+Therefore, the systemic effects (HPA axis and growth) of budesonide delivered from RHINOCORT AQUA would be expected to be no greater than what is reported for inhaled budesonide when administered via the dry powder inhaler.
 
 The potential for RHINOCORT AQUA to cause growth suppression in susceptible patients or when given at doses above 64 mcg daily cannot be ruled out.
 The recommended dosage range in patients 6 to 11 years of age is 64 to 128 mcg per day (see DOSAGE AND ADMINISTRATION).
@@ -145,5 +189,5 @@ The recommended dosage range in patients 6 to 11 years of age is 64 to 128 mcg p
 ## Geriatric Use
 
 Of the 2,461 patients in clinical studies of RHINOCORT AQUA Nasal Spray, 5% were 60 years of age and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, except for an adverse event reporting frequency of epistaxis which increased with age.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, except for an adverse event reporting frequency of epistaxis that increased with age.
 Further, other reported clinical experience has not identified any other differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

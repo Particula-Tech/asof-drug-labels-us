@@ -17,13 +17,13 @@ Protect from light.
 Shake gently before use.
 Do not spray in eyes.
 
-All trademarks are the property of the AstraZeneca group
+All trademarks are the property of the AstraZeneca group of companies
 
-©AstraZeneca 2001, 2004
+©AstraZeneca 2008
 
 Distributed by:
 
 AstraZeneca LP, Wilmington, DE 19850
 
 Rev.
-1/05 30516-00
+10/08 30516-XX

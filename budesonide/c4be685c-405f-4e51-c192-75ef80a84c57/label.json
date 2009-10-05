@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020746"
+  ],
   "inn": "budesonide",
   "labeler": "AstraZeneca LP",
   "package_ndcs": [
     "0186-1070-08"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "budesonide",
+      "name": "RHINOCORT AQUA"
+    }
+  ],
   "setid": "c4be685c-405f-4e51-c192-75ef80a84c57",
   "source": "dailymed"
 }

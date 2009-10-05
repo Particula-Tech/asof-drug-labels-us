@@ -17,7 +17,7 @@ The maximum daily dose is 256 mcg for adults and 128 mcg for pediatric patients 
 When the maximum benefit has been achieved and symptoms have been controlled, reducing the dose may be effective in maintaining control of the allergic rhinitis symptoms in patients who were initially controlled on higher doses.
 
 An improvement in nasal symptoms may be noted in patients within 10 hours of first using RHINOCORT AQUA Nasal Spray.
-This time to onset is supported by an environmental exposure unit study in seasonal allergic rhinitis patients which demonstrated that RHINOCORT AQUA Nasal Spray led to a statistically significant improvement in nasal symptoms compared to placebo by 10 hours.
+This time to onset is supported by an environmental exposure unit study in seasonal allergic rhinitis patients that demonstrated that RHINOCORT AQUA Nasal Spray led to a statistically significant improvement in nasal symptoms compared to placebo by 10 hours.
 Further support comes from a clinical study of patients with perennial allergic rhinitis which demonstrated a statistically significant improvement in nasal symptoms for both RHINOCORT AQUA Nasal Spray and for the active comparator (mometasone furoate) compared to placebo by 8 hours.
 Onset was also assessed in this study with peak nasal inspiratory flow rate and this endpoint failed to show efficacy for either active treatment.
 Although statistically significant improvements in nasal symptoms compared to placebo were noted within 8-10 hours in these studies, about one half to two thirds of the ultimate clinical improvement with RHINOCORT AQUA Nasal Spray occurs over the first 1-2 days, and maximum benefit may not be achieved until approximately 2 weeks after initiation of treatment.
