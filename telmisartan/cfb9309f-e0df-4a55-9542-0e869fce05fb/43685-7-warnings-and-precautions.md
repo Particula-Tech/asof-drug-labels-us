@@ -55,7 +55,14 @@ In studies of ACE inhibitors in patients with unilateral or bilateral renal arte
 There has been no long term use of MICARDIS tablets in patients with unilateral or bilateral renal artery stenosis but an effect similar to that seen with ACE inhibitors should be anticipated.
 
 Dual Blockade of the Renin-angiotensin-aldosterone System: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported.
-Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should be used with caution and should include close monitoring of renal function.
+Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should include close monitoring of renal function.
+
+The ONTARGET trial enrolled 25,620 patients >55 years old with atherosclerotic disease or diabetes with end-organ damage, randomized them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months.
+Patients receiving the combination of telmisartan and ramipril did not obtain any additional benefit on the composite endpoint of cardiovascular death, myocardial infarction, stroke and heart failure hospitalization compared to monotherapy, but experienced an increased incidence of clinically important renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
+
+Co-administration of telmisartan and ramipril increases the exposure to both ramipril and ramiprilat by a factor of about 2 (see PRECAUTIONS, Drug Interactions).
+
+Concomitant use of telmisartan and ramipril is not recommended.
 
 ## Information for Patients
 
@@ -66,6 +73,14 @@ These patients should be asked to report pregnancies to their physicians as soon
 
 Digoxin: When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 It is, therefore, recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing telmisartan to avoid possible over- or under-digitalization.
+
+Lithium: Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
+Cases have also been reported with angiotensin II receptor antagonists including Micardis® (telmisartan) tablets.
+Therefore, serum lithium level monitoring is advisable during concomitant use.
+
+Ramipril and Ramiprilat:Co-administration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3 and 2.1 fold, respectively, and Cmax and AUC of ramiprilat 2.4 and 1.5 fold, respectively.
+In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively.
+When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan.
 
 Warfarin: Telmisartan administered for 10 days slightly decreased the mean warfarin trough plasma concentration; this decrease did not result in a change in International Normalized Ratio (INR).
 

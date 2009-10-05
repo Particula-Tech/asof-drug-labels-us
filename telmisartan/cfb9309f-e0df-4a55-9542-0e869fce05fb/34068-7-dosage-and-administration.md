@@ -8,7 +8,7 @@ Blood pressure response is dose related over the range of 20-80 mg (see CLINICAL
   Patients with biliary obstructive disorders or hepatic insufficiency should have treatment started under close medical supervision (see PRECAUTIONS, General, Impaired Hepatic Function and Impaired Renal Function).
 
 Most of the antihypertensive effect is apparent within two weeks and maximal reduction is generally attained after four weeks.
-When additional blood pressure reduction beyond that achieved with 80 mg MICARDIS tablets is required, a diuretic may be added.
+When additional blood pressure reduction beyond that achieved with 80 mg Micardis® (telmisartan) tablets is required, a diuretic may be added.
 
 No initial dosing adjustment is necessary for elderly patients or patients with renal impairment, including those on hemodialysis.
 Patients on dialysis may develop orthostatic hypotension; their blood pressure should be closely monitored.
