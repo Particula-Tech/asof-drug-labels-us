@@ -1,27 +1,21 @@
 # HOW SUPPLIED
 
-Isordil® (isosorbide dinitrate) Oral Titradose® Tablets are available as follows:
+Isordil® (isosorbide dinitrate) Oral Titradose™ Tablets are available as follows:
 
-5 mg, round, pink tablets imprinted "Wyeth 4152" on one side and deeply scored on reverse side:
+5 mg, round, pink tablets imprinted "BPI 152" on one side and deeply scored on reverse side:
 
-NDC 0008-4152-01, bottles of 100.
+NDC 64455-152-01, bottles of 100.
 
-Store at controlled room temperature, 20° to 25°C (68° to 77°F).
-
-Protect from light.
-
-Keep bottles tightly closed.
-
-Dispense in a light-resistant, tight container.
-
-40 mg, round, light green tablets imprinted "Wyeth 4192" on one side and deeply scored on reverse side:
+40 mg, round, light green tablets imprinted "BPI 192" on one side and deeply scored on reverse side:
 
 NDC 64455-192-01, bottles of 100.
 
-Store at controlled room temperature, 20° to 25°C (68° to 77°F).
+Store at controlled room temperature, 25°C (77°F); excursions permitted to 15 -30° (59-86°F)
 
 Protect from light.
 
 Keep bottles tightly closed.
 
 Dispense in a light-resistant, tight container.
+
+Isordil® is a registered trade mark of Biovail Laboratories International SRL.

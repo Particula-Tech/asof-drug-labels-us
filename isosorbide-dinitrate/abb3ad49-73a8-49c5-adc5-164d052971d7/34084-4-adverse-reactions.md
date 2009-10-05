@@ -10,4 +10,4 @@ Syncope, crescendo angina, and rebound hypertension have been reported but are u
 Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients.
 Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see "OVERDOSAGE").
 
-Data are not available to allow estimation of the frequency of adverse reactions during treatment with Isordil® Titradose® tablets.
+Data are not available to allow estimation of the frequency of adverse reactions during treatment with Isordil Titradose tablets.

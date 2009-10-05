@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA012093"
+  ],
   "inn": "isosorbide-dinitrate",
-  "labeler": "Biovail Pharmaceuticals, Inc.",
+  "labeler": "BTA Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "0008-4152-01",
+    "64455-152-01",
     "64455-192-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "isosorbide dinitrate",
+      "name": "Isordil"
+    }
+  ],
   "setid": "abb3ad49-73a8-49c5-adc5-164d052971d7",
   "source": "dailymed"
 }

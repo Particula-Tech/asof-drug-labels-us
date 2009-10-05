@@ -1,9 +1,10 @@
 # Rx only
 
-Manufactured by: Wyeth Pharmaceuticals, Inc. Philadelphia, PA, 19101, USA
+Manufactured by: MEDA Manufacturing GmbH Cologne, Germany D-51063
 
-Distributed by: Biovail Pharmaceuticals, Inc. Bridgewater, NJ, 08807, USA
+For: BTA Pharmaceuticals, Inc. Bridgewater, NJ, 08807, USA
 
-Made and Printed in USA
+Tablets made in Germany.
 
-CI7874-2
+LB0058-02 Rev.
+09/08
