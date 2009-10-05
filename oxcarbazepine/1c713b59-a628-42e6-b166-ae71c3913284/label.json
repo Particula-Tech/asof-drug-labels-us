@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077802"
+  ],
+  "inn": "oxcarbazepine",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-137-01",
+    "68462-137-05",
+    "68462-138-01",
+    "68462-138-05",
+    "68462-139-01",
+    "68462-139-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "oxcarbazepine",
+      "name": "Oxcarbazepine"
+    }
+  ],
+  "setid": "1c713b59-a628-42e6-b166-ae71c3913284",
+  "source": "dailymed"
+}
