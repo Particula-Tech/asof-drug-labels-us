@@ -16,13 +16,13 @@ Keep out of the reach of children.
 
 All trademarks are the property of the AstraZeneca group of companies
 
-© AstraZeneca 2007
+© AstraZeneca 2007, 2008
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
 By: AstraZeneca AB, Södertälje, Sweden
 
-33023–02
+33023–05
 
 Rev.
-08/07
+04/09

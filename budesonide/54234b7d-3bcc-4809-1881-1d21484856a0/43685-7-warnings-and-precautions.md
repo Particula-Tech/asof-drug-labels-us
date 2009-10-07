@@ -17,14 +17,16 @@ In addition to monitoring asthma signs and symptoms, patients should be observed
 Transfer of patients from systemic corticosteroid therapy to PULMICORT FLEXHALER may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy, eg, rhinitis, conjunctivitis, arthritis, eosinophilic conditions, and eczema.
 
 Patients who are on drugs that suppress the immune system are more susceptible to infection than healthy individuals.
-Chicken pox and measles, for example, can have a more serious or even fatal course in susceptible pediatric patients or adults on immunosuppressant doses of corticosteroids.
-In pediatric or adult patients who have not had these diseases, particular care should be taken to avoid exposure.
+Chicken pox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
+In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chicken pox develops, treatment with antiviral agents may be considered.
+The immune responsiveness to varicella vaccine was evaluated in pediatric patients with asthma ages 12 months to 8 years with budesonide inhalation suspension.
+(see PRECAUTIONS, Drug Interactions).
 
 PULMICORT FLEXHALER is not a bronchodilator and is not indicated for rapid relief of bronchospasm or other acute episodes of asthma.
 
@@ -38,6 +40,9 @@ During such episodes, patients may require therapy with oral corticosteroids.
 # PRECAUTIONS
 
 ## General
+
+PULMICORT FLEXHALER contains small amounts of lactose, which contains trace levels of milk proteins.
+It is possible that cough, wheezing, or bronchospasm may occur in patients who have a severe milk protein allergy (see CONTRAINDICATIONS and ADVERSE REACTIONS, Adverse Event Reports from Other Sources).
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal, eg, joint and/or muscular pain, lassitude, and depression, despite maintenance or even improvement of respiratory function (see DOSAGE AND ADMINISTRATION).
 
@@ -80,11 +85,11 @@ For proper use of PULMICORT FLEXHALER and to attain maximum improvement, the pat
 
 - PULMICORT FLEXHALER must be in the upright position (mouthpiece on top) during loading in order to provide the correct dose.
 - PULMICORT FLEXHALER must be primed before the unit is used for the very first time.
-  To prime your PULMICORT FLEXHALER, follow the steps below:YOU DO NOT HAVE TO PRIME IT ANY OTHER TIME AFTER THIS, EVEN IF YOU PUT IT ASIDE FOR A PROLONGED PERIOD OF TIME.
+  To prime your PULMICORT FLEXHALER, follow the steps below:You do not have to prime it any other time after this, even if you put it aside for a prolonged period of time.
   1. Hold the unit so that the white cover points upward, grasp the inhaler by the brown grip in one hand and with the other hand, turn the white cover and lift it off.
   2. Hold PULMICORT FLEXHALER by the brown grip, in the upright position (with mouthpiece up) in one hand.
      Using the thumb and index finger of your other hand, grasp the inhaler in the middle.
-     DO NOT HOLD THE INHALER AT THE TOP OF THE MOUTHPIECE.
+     Do not hold the inhaler at the top of the mouthpiece.
   3. Twist the brown grip as far as it will go in one direction and then fully back again in the other direction until it stops (it does not matter which way you turn it first).
      You will hear a click during one of the twisting movements.
   4. Repeat Step 3.
@@ -127,7 +132,10 @@ For proper use of PULMICORT FLEXHALER and to attain maximum improvement, the pat
 - Long-term use of inhaled corticosteroids, including budesonide, may increase the risk of some eye problems (cataracts or glaucoma).
   Regular eye examinations should be considered.
 - Women considering the use of PULMICORT FLEXHALER should consult with their physician if they are pregnant or intend to become pregnant, or if they are breast-feeding a baby.
-- Patients considering use of PULMICORT FLEXHALER should consult with their physician if they are allergic to budesonide or any other orally inhaled corticosteroid.
+- Patients considering use of PULMICORT FLEXHALER should consult with their physician if they are allergic to budesonide, milk proteins or any other orally inhaled corticosteroid.
+- PULMICORT FLEXHALER contains small amounts of lactose, which contains trace levels of milk proteins.
+  It is possible that cough, wheezing, or bronchospasm may occur in patients who have a severe milk protein allergy.
+  (see CONTRAINDICATIONS and ADVERSE REACTIONS, Adverse Event Reports from Other Sources).
 - Patients should inform their physician of other medications they are taking as PULMICORT FLEXHALER may not be suitable in some circumstances and the physician may wish to use a different medicine.
 
 ## Drug Interactions
@@ -137,6 +145,10 @@ The main route of metabolism of budesonide, as well as other corticosteroids, is
 After oral administration of ketoconazole, a potent inhibitor of CYP3A4, the mean plasma concentration of orally administered budesonide increased.
 Concomitant administration of other known inhibitors of CYP3A4 (eg, itraconazole, clarithromycin, erythromycin, etc.) may inhibit the metabolism of, and increase the systemic exposure to, budesonide.
 Care should be exercised when budesonide is coadministered with long-term ketoconazole and other known CYP3A4 inhibitors.
+
+Varicella Vaccine: An open-label, nonrandomized clinical study examined the immune responsiveness to varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension 0.25 mg to 1 mg daily (n=151) or noncorticosteroid asthma therapy (n=92) (i.e., beta2-agonists, leukotriene receptor antagonists, cromones).
+The percentage of patients developing a seroprotective antibody titer of ≥5.0 (gpELISA value) in response to the vaccination was similar in patients treated with budesonide inhalation suspension (85%), compared to patients treated with noncorticosteroid asthma therapy (90%).
+No patient treated with budesonide inhalation suspension developed chicken pox as a result of vaccination.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

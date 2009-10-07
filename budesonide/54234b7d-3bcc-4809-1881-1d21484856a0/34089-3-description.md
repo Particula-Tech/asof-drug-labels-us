@@ -8,7 +8,7 @@ Its structural formula is:
 Budesonide is a white to off-white, tasteless, odorless powder that is practically insoluble in water and in heptane, sparingly soluble in ethanol, and freely soluble in chloroform.
 Its partition coefficient between octanol and water at pH 7.4 is 1.6 x 103.
 
-PULMICORT FLEXHALER is an inhalation-driven multi-dose dry powder inhaler containing a formulation of 1 mg per actuation of micronized budesonide and micronized lactose (which may contain trace or residual levels of milk proteins).
+PULMICORT FLEXHALER is an inhalation-driven multi-dose dry powder inhaler containing a formulation of 1 mg per actuation of micronized budesonide and micronized lactose monohydrate which contains trace levels of milk proteins (see CONTRAINDICATIONS and ADVERSE REACTIONS, Adverse Event Reports from Other Sources).
 Each actuation of PULMICORT FLEXHALER 180 mcg delivers 160 mcg budesonide from the mouthpiece and each actuation of PULMICORT FLEXHALER 90 mcg delivers 80 mcg budesonide from the mouthpiece (based on in vitro testing at 60 L/min for 2 sec). Each PULMICORT FLEXHALER 180 mcg contains 120 actuations and each PULMICORT FLEXHALER 90 mcg contains 60 actuations.
 
 In vitro testing has shown that the dose delivery for PULMICORT FLEXHALER is dependent on airflow through the device, as evidenced by a decrease in the fine particle dose at a flow rate of 30 L/min to a value that is approximately 40-50% of that produced at 60 L/min.
