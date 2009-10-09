@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity, mutagenicity and impairment of fertility testing of ZIANA Gel have not been performed in any species.
+Carcinogenicity, mutagenicity and impairment of fertility testing of ZIANA® Gel have not been performed in any species.
 
 Clindamycin
 

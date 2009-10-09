@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of once daily use of ZIANA Gel for treatment of acne vulgaris were assessed in three 12-week prospective, multi-center, randomized, blinded studies in patients 12 years and older.
+The safety and efficacy of once daily use of ZIANA® Gel for treatment of acne vulgaris were assessed in three 12-week prospective, multi-center, randomized, blinded studies in patients 12 years and older.
 Studies 1 and 2 were of identical design, and compared ZIANA Gel to clindamycin in the vehicle gel, tretinoin in the vehicle gel, and the vehicle gel alone.
 Patients with mild, moderate, or severe acne were enrolled in the studies.
 The co-primary efficacy variables were:
@@ -27,10 +27,10 @@ The combined results are presented in Table 3.
 
 Table 3: Efficacy Results at Week 12 in Studies 1 and 2.
 
-|  | ZIANA Gel N=845 | Clindamycin N=426 | Tretinoin N=846 | Vehicle N=423 |
+|  | ZIANA® Gel N=845 | Clindamycin N=426 | Tretinoin N=846 | Vehicle N=423 |
 | --- | --- | --- | --- | --- |
 | Evaluator's Global Severity: N (%) |  |  |  |  |
-| Patients achieving successSuccess was defined as cleared or almost cleared at Week 12 | 180 (21%) | 70 (16%) | 122 (14%) | 34 (8%) |
+| Patients achieving successSuccess was defined as cleared or almost cleared at Week 12. | 180 (21%) | 70 (16%) | 122 (14%) | 34 (8%) |
 | Inflammatory Lesion Count (% reduction from baseline) |  |  |  |  |
 | Mean | 48% | 42% | 39% | 26% |
 | Non-inflammatory Lesion Count (% reduction from baseline) |  |  |  |  |
@@ -38,13 +38,13 @@ Table 3: Efficacy Results at Week 12 in Studies 1 and 2.
 | Total Lesion Count (% reduction from baseline) |  |  |  |  |
 | Mean | 41% | 34% | 34% | 20% |
 
-In Study 3, ZIANA Gel was compared to clindamycin gel in a total of 2,010 patients with moderate or severe acne vulgaris (see Table 3).
+In Study 3, ZIANA® Gel was compared to clindamycin gel in a total of 2,010 patients with moderate or severe acne vulgaris (see Table 3).
 As with Studies 1 and 2, the co-primary endpoints were mean percent reduction in lesion counts (inflammatory, non-inflammatory and total) and the Evaluator's Global Severity score.
 In Study 3, success on the EGS score was assessed by the percentage of subjects who had at least 2 grades of improvement from Baseline to Week 12.
 
 Table 4: Efficacy Results at Week 12 in Study 3
 
-|  | ZIANA Gel N = 1008 | Clindamycin N = 1002 |
+|  | ZIANA® Gel N = 1008 | Clindamycin N = 1002 |
 | --- | --- | --- |
 | Evaluator's Global Severity: N (%) |  |  |
 | Patients achieving successSuccess was defined as at least a 2-grade improvement at Week 12 from baseline. | 415 (41%) | 345 (34%) |

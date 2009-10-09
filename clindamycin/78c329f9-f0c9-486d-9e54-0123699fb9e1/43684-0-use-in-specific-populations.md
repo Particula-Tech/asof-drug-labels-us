@@ -2,10 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no well-controlled trials in pregnant women treated with ZIANA Gel.
+Pregnancy Category C. There are no well-controlled trials in pregnant women treated with ZIANA® Gel.
 ZIANA Gel should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 ZIANA Gel was tested for maternal and developmental toxicity in New Zealand White Rabbits with topical doses of 60, 180 and 600 mg/kg/day.
-ZIANA Gel at 600 mg/kg/day (approximately 12 times the recommended clinical dose assuming 100% absorption and based on body surface area comparison) was considered to be the no-observed-adverse-effect level (NOAEL) for maternal and developmental toxicity following dermal administration of ZIANA Gel for two weeks prior to artificial insemination and continuing until gestation day 18, inclusive.
+ZIANA® Gel at 600 mg/kg/day (approximately 12 times the recommended clinical dose assuming 100% absorption and based on body surface area comparison) was considered to be the no-observed-adverse-effect level (NOAEL) for maternal and developmental toxicity following dermal administration of ZIANA Gel for two weeks prior to artificial insemination and continuing until gestation day 18, inclusive.
 For purposes of comparisons of the animal exposure to human exposure, the recommended clinical dose is defined as 1 g of ZIANA Gel applied daily to a 60 kg person.
 
 Clindamycin
@@ -26,7 +26,7 @@ Oral tretinoin has been shown to be fetotoxic in rats when administered in doses
 
 ## 8.3 Nursing Mothers
 
-It is not known whether clindamycin is excreted in human milk following use of ZIANA Gel.
+It is not known whether clindamycin is excreted in human milk following use of ZIANA® Gel.
 However, orally and parenterally administered clindamycin has been reported to appear in breast milk.
 Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 It is not known whether tretinoin is excreted in human milk.
@@ -34,11 +34,11 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of ZIANA Gel in pediatric patients under the age of 12 have not been established.
+Safety and effectiveness of ZIANA® Gel in pediatric patients under the age of 12 have not been established.
 
 Clinical trials of ZIANA Gel included patients 12–17 years of age.
 [See Clinical Studies (14)]
 
 ## 8.5 Geriatric Use
 
-Clinical studies of ZIANA Gel did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of ZIANA® Gel did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

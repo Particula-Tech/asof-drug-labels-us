@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050802"
+  ],
   "inn": "clindamycin",
-  "labeler": "Medicis, The Dermatology Company",
+  "labeler": "Medicis Pharmaceutical Corp",
   "package_ndcs": [
     "99207-300-02",
     "99207-300-30",
     "99207-300-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate and tretinoin",
+      "name": "ZIANA"
+    }
+  ],
   "setid": "78c329f9-f0c9-486d-9e54-0123699fb9e1",
   "source": "dailymed"
 }

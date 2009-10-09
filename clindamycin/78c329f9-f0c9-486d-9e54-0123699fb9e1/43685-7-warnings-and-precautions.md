@@ -4,7 +4,7 @@
 
 Systemic absorption of clindamycin has been demonstrated following topical use of this product.
 Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical clindamycin.
-When significant diarrhea occurs, ZIANA Gel should be discontinued.
+When significant diarrhea occurs, ZIANA® Gel should be discontinued.
 
 Severe colitis has occurred following oral or parenteral administration of clindamycin with an onset of up to several weeks following cessation of therapy.
 Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen severe colitis.
@@ -16,7 +16,7 @@ Stool cultures for Clostridium difficile and stool assay for C. difficile toxin 
 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
-Exposure to sunlight, including sunlamps, should be avoided during the use of ZIANA Gel, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
+Exposure to sunlight, including sunlamps, should be avoided during the use of ZIANA® Gel, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
 Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
 Daily use of sunscreen products and protective apparel (e.g., a hat) are recommended.
 Weather extremes, such as wind or cold, also may be irritating to patients under treatment with ZIANA Gel.
