@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0947-55
 
@@ -18,8 +18,6 @@ Twice-A-Day
 
 Rx only
 
-open here
-
 Each sustained-release tablet contains 100 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
@@ -34,5 +32,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-10000000052586 Rev.
-2/08
+Made in Germany
+
+10000000071918 Rev.
+8/09
