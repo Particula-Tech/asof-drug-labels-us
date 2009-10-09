@@ -440,7 +440,7 @@ Very rare cases of cholestatic or mixed liver injury have also been reported in 
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
-Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.14)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.15)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
 
 Given the concern about neutropenia associated with other psychotropic compounds and the finding of leukopenia associated with the administration of olanzapine in several animal models [see Nonclinical Toxicology (13.2)], careful attention was given to examination of hematologic parameters in premarketing studies with olanzapine.
 There was no indication of a risk of clinically significant neutropenia associated with olanzapine treatment in the premarketing database for this drug.

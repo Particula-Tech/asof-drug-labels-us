@@ -11,7 +11,7 @@ However, doses above 10 mg/day were not demonstrated to be more efficacious than
 An increase to a dose greater than the target dose of 10 mg/day (i.e., to a dose of 15 mg/day or greater) is recommended only after clinical assessment.
 Olanzapine is not indicated for use in doses above 20 mg/day.
 
-Dosing in Specific Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Dosing in Specific Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 When indicated, dose escalation should be performed with caution in these patients.
 
 Maintenance Treatment — While there is no body of evidence available to answer the question of how long the patient treated with olanzapine should remain on it, the effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on ZYPREXA for approximately 8 weeks and were then followed for a period of up to 8 months has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
@@ -35,7 +35,7 @@ Usual Dose in Combination with Lithium or Valproate — When administered in com
 Short-term (6 weeks) antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials [see Clinical Studies (14.2)].
 The safety of doses above 20 mg/day has not been evaluated in clinical trials.
 
-Dosing in Specific Populations — Dosage and Administration (2.1).
+Dosing in Specific Populations — See Dosage and Administration (2.1).
 
 ## 2.3 Administration of ZYPREXA ZYDIS (olanzapine orally disintegrating tablets)
 
@@ -59,7 +59,7 @@ The administration of an additional dose to a patient with a clinically signific
 If ongoing olanzapine therapy is clinically indicated, oral olanzapine may be initiated in a range of 5-20 mg/day as soon as clinically appropriate [see Dosage and Administration (2.1, 2.2)].
 
 Intramuscular Dosing in Specific Populations — A dose of 5 mg/injection should be considered for geriatric patients or when other clinical factors warrant.
-A lower dose of 2.5 mg/injection should be considered for patients who otherwise might be debilitated, be predisposed to hypotensive reactions, or be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+A lower dose of 2.5 mg/injection should be considered for patients who otherwise might be debilitated, be predisposed to hypotensive reactions, or be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Administration of ZYPREXA IntraMuscular — ZYPREXA IntraMuscular is intended for intramuscular use only.
 Do not administer intravenously or subcutaneously.
@@ -143,4 +143,4 @@ ZYPREXA monotherapy is not indicated for treatment of treatment resistant depres
 The starting dose of oral olanzapine 2.5-5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-ZYPREXA and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients <18 years of age [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+ZYPREXA and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients <18 years of age [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].

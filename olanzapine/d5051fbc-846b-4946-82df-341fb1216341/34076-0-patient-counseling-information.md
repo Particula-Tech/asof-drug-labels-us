@@ -50,12 +50,12 @@ Patients should be advised to call their doctor if they experience any of the fo
 
 ## 17.8 Potential for Cognitive and Motor Impairment
 
-Because ZYPREXA has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ZYPREXA therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+Because ZYPREXA has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ZYPREXA therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
 ## 17.9 Body Temperature Regulation
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
-Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.12)].
+Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.13)].
 
 ## 17.10 Concomitant Medication
 

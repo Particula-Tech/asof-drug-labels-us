@@ -4,8 +4,8 @@ When using ZYPREXA and fluoxetine in combination, also refer to the Warnings and
 
 ## 5.1 Elderly Patients with Dementia-Related Psychosis
 
-Increased Mortality— Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-ZYPREXA is not approved for the treatment of patients with dementia-related psychosis[see Boxed Warning, Warnings and Precautions (5.13), and Patient Counseling Information (17.2)].
+Increased Mortality — Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+ZYPREXA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.14), and Patient Counseling Information (17.2)].
 
 In placebo-controlled clinical trials of elderly patients with dementia-related psychosis, the incidence of death in olanzapine-treated patients was significantly greater than placebo-treated patients (3.5% vs 1.5%, respectively).
 
@@ -279,13 +279,24 @@ Caution is necessary in patients who receive treatment with other drugs having e
 Concomitant administration of intramuscular olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended.
 If use of intramuscular olanzapine in combination with parenteral benzodiazepines is considered, careful evaluation of clinical status for excessive sedation and cardiorespiratory depression is recommended.
 
-## 5.9 Dysphagia
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
+
+Class Effect — In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including ZYPREXA.
+Agranulocytosis has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of ZYPREXA should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue ZYPREXA and have their WBC followed until recovery.
+
+## 5.10 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's disease.
 Olanzapine is not approved for the treatment of patients with Alzheimer's disease.
 
-## 5.10 Seizures
+## 5.11 Seizures
 
 During premarketing testing, seizures occurred in 0.9% (22/2500) of olanzapine-treated patients.
 There were confounding factors that may have contributed to the occurrence of seizures in many of these cases.
@@ -293,7 +304,7 @@ Olanzapine should be used cautiously in patients with a history of seizures or w
 Olanzapine is not approved for the treatment of patients with Alzheimer's disease.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction associated with olanzapine treatment, occurring at an incidence of 26% in olanzapine patients compared to 15% in placebo patients.
 This adverse reaction was also dose related.
@@ -301,13 +312,13 @@ Somnolence led to discontinuation in 0.4% (9/2500) of patients in the premarketi
 
 Since olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Patient Counseling Information (17.8)].
 
-## 5.12 Body Temperature Regulation
+## 5.13 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing olanzapine for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 [See Patient Counseling Information (17.9)].
 
-## 5.13 Use in Patients with Concomitant Illness
+## 5.14 Use in Patients with Concomitant Illness
 
 Clinical experience with olanzapine in patients with certain concomitant systemic illnesses is limited [see Clinical Pharmacology (12.3)].
 
@@ -324,7 +335,7 @@ Olanzapine has not been evaluated or used to any appreciable extent in patients 
 Patients with these diagnoses were excluded from premarketing clinical studies.
 Because of the risk of orthostatic hypotension with olanzapine, caution should be observed in cardiac patients [see Warnings and Precautions (5.8)].
 
-## 5.14 Hyperprolactinemia
+## 5.15 Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and a modest elevation persists during chronic administration.
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -342,13 +353,13 @@ In a pooled analysis from clinical studies including 8136 adults treated with ol
 In placebo-controlled olanzapine monotherapy studies in adolescent patients with Schizophrenia or Bipolar I Disorder (manic or mixed episodes), elevated prolactin concentrations compared to baseline occurred in 47.4% of olanzapine-treated patients compared to 6.8% of placebo-treated patients.
 In long-term clinical trials of olanzapine in adolescents, gynecomastia occurred in 2.4% of males (7/286) and galactorrhea occurred in 1.8% of females (3/168) [see Use in Specific Populations (8.4)].
 
-## 5.15 Use in Combination with Fluoxetine, Lithium, or Valproate
+## 5.16 Use in Combination with Fluoxetine, Lithium, or Valproate
 
 [See Drug Interactions (7)].
 
 When using ZYPREXA and fluoxetine in combination, the prescriber should also refer to the Warnings and Precautions section of the package insert for Symbyax.
 When using ZYPREXA in combination with lithium or valproate, the prescriber should refer to the Warnings and Precautions sections of the package inserts for lithium or valproate.
 
-## 5.16 Laboratory Tests
+## 5.17 Laboratory Tests
 
 Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.4, 5.5) and Patient Counseling Information (17.4, 17.5)].
