@@ -213,14 +213,14 @@ Federal law prohibits the transfer of this drug to any person other than the pat
 
 Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304
 
-For questions of a medical nature or to order Xyrem call the Xyrem Patient Success Program at 1‑866‑XYREM88 (1‑866‑997‑3688).
+For questions of a medical nature or to order Xyrem call the Xyrem Patient Success Program at 1-866-XYREM88 (1-866-997-3688).
 
 Protected by US Patent Numbers 6780889, 6472431; additional patents pending.
 
 PSMG-01
 
-Rev 1105
+Rev 0907
 
-Part No. 002982
+Part No. 70016158
 
 This Medication Guide has been approved by the US Food and Drug Administration.

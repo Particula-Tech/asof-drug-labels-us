@@ -103,6 +103,13 @@ Table 4 Daytime Sleepiness as Evaluated in Trial 4
 
 This trial was not capable by design of comparing the effects of sodium oxybate to modafinil, because patients receiving modafinil were not titrated to a maximally effective dose.
 
+# STORAGE
+
+Store at 25°C (77°F); excursions permitted up to 15°-30°C (59°-86°F).
+See USP Controlled Room Temperature.
+
+Solutions prepared following dilution should be consumed within 24 hours to minimize bacterial growth and contamination.
+
 # HANDLING AND DISPOSAL
 
 Xyrem is a Schedule III drug under the Controlled Substances Act.
@@ -125,4 +132,6 @@ For questions of a medical nature or to order Xyrem call the Xyrem Success Progr
 
 Protected by US Patent Numbers 6780889, 6472431; Additional US Patents Pending
 
-Rev 1105
+PI-Fold 1
+
+Rev 1007

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021196"
+  ],
   "inn": "sodium-oxybate",
   "labeler": "Jazz Pharmaceuticals, Inc.",
   "package_ndcs": [
     "68727-100-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sodium oxybate",
+      "name": "Xyrem"
+    }
+  ],
   "setid": "926eb076-a4a8-45e4-91ef-411f0aa4f3ca",
   "source": "dailymed"
 }
