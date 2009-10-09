@@ -100,7 +100,10 @@ There was no increase in malignant or total (benign plus malignant) lung tumors,
 This 21-month study was repeated in CD-1 mice, and no statistically or biologically significant differences were observed between treated and control mice of either sex for any type of tumor.
 All mutagenicity tests performed (a dominant lethal study in mice, chromosome studies in somatic cells, a Salmonella/mammalian-microsome mutagenicity test, and a nucleus anomaly test in somatic interphase nuclei) were negative.
 No evidence of impaired fertility due to metoprolol was observed in a study performed in rats at doses up to 55.5 times the maximum daily human dose of 450 mg.
-Pregnancy Category C Metoprolol has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 55.5 times the maximum daily human dose of 450 mg.
+
+## Pregnancy Category C
+
+Metoprolol has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 55.5 times the maximum daily human dose of 450 mg.
 Distribution studies in mice confirm exposure of the fetus when metoprolol is administered to the pregnant animal.
 These studies have revealed no evidence of impaired fertility or teratogenicity.
 There are no adequate and well-controlled studies in pregnant women.

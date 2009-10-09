@@ -1,15 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077739"
+  ],
   "inn": "metoprolol",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-062-01",
+    "65862-062-99",
     "65862-063-01",
     "65862-063-99",
     "65862-064-01",
     "65862-064-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "metoprolol tartrate",
+      "name": "Metoprolol Tartrate"
+    }
+  ],
   "setid": "2b705cb6-cb75-4c2a-907a-4bd45d18bc2c",
   "source": "dailymed"
 }
