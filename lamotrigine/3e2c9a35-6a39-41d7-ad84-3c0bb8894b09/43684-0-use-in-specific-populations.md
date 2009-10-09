@@ -17,7 +17,7 @@ Lamotrigine did not affect fertility, teratogenesis, or postnatal development wh
 When pregnant rats were orally dosed at 0.1, 0.14, or 0.3 times the highest human maintenance dose (on a mg/m2 basis) during the latter part of gestation (days 15 to 20), maternal toxicity and fetal death were seen.
 In dams, food consumption and weight gain were reduced, and the gestation period was slightly prolonged (22.6 vs. 22.0 days in the control group).
 Stillborn pups were found in all 3 drug-treated groups with the highest number in the high-dose group.
-Postnatal death was also seen, but only in the 2 highest doses, and occurred between day 1 and 20.
+Postnatal death was also seen, but only in the 2 highest doses, and occurred between days 1 and 20.
 Some of these deaths appear to be drug-related and not secondary to the maternal toxicity.
 A no-observed-effect level (NOEL) could not be determined for this study.
 
@@ -29,7 +29,7 @@ Non-Teratogenic Effects: As with other AEDs, physiological changes during pregna
 There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-partum concentrations after delivery.
 Dosage adjustments may be necessary to maintain clinical response.
 
-Pregnancy Exposure Registry: To provide information regarding the effects of in utero exposure to LAMCITAL XR, physicians are advised to recommend that pregnant patients taking LAMICTAL XR enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+Pregnancy Exposure Registry: To provide information regarding the effects of in utero exposure to LAMICTAL XR, physicians are advised to recommend that pregnant patients taking LAMICTAL XR enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
@@ -54,7 +54,7 @@ The immediate-release formulation of LAMICTAL is indicated for adjunctive therap
 
 Safety and efficacy of the immediate-release formulation of LAMICTAL, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
 The immediate-release formulation of LAMICTAL was associated with an increased risk for infectious adverse reactions (LAMICTAL 37%, Placebo 5%), and respiratory adverse reactions (LAMICTAL 26%, Placebo 5%).
-Infectious adverse reactions included: bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
+Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
 ## 8.5 Geriatric Use
@@ -65,7 +65,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Patients With Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study with the immediate-release formulation of LAMICTAL in 24 patients with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.4)], the following general recommendations can be made.
+Based on a clinical pharmacology study with the immediate-release formulation of LAMICTAL in 24 patients with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response [see Dosage and Administration (2.1)].

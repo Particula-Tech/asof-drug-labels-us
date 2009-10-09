@@ -11,7 +11,7 @@ The following adverse reactions are described in more detail in the Warnings and
 - Status epilepticus [see Warnings and Precautions (5.9)]
 - Sudden unexplained death in epilepsy [see Warnings and Precautions (5.10)]
 
-## 6.1 Clinical Trial Experience with LAMICTAL XR for Treatment of Partial Onset Seizures
+## 6.1 Clinical Trial Experience With LAMICTAL XR for Treatment of Partial Onset Seizures
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -66,12 +66,12 @@ Treatment-Emergent Adverse Reaction Incidence in a Double-Blind, Placebo-Control
 | Epistaxis | 2 | 1 |
 | Sinus congestion | 2 | 0 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash* | 2 | 1 |
+| Rasha | 2 | 1 |
 | Alopecia | 2 | 1 |
 | Vascular Disorder |  |  |
 | Hot flush | 3 | 0 |
 
-* All types of rash.
+a All types of rash.
 In clinical trials evaluating the immediate-release formulation of LAMICTAL, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning].
 
 Adverse reactions were also analyzed to assess the incidence of the onset of an event in the titration period, and in the maintenance period, and if adverse reactions occurring in the titration phase persisted in the maintenance phase.
@@ -148,15 +148,15 @@ Special Senses: Frequent: Amblyopia.
 Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, and tinnitus.
 Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, and visual field defect.
 
-Urogenital System:Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinence.
-Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, urinary urgency.
+Urogenital System:Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, and urinary incontinence.
+Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, and urinary urgency.
 
 ## 6.3 Postmarketing Experience with the Immediate-Release Formulation of LAMICTAL
 
 The following adverse events (not listed above in clinical trials or other sections of the prescribing information) have been identified during postapproval use of the immediate-release formulation of LAMICTAL.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic: Agranulocytosis, hemolytic anemia.
+Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
 
 Gastrointestinal: Esophagitis.
 
@@ -167,6 +167,8 @@ Immunologic: Lupus-like reaction, vasculitis.
 Lower Respiratory: Apnea.
 
 Musculoskeletal: Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
+
+Nervous System: Aseptic meningitis.
 
 Neurology: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, tics.
 

@@ -65,11 +65,11 @@ Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotr
 
 | Concomitant AED | AUC (0-24ss) | Cmax | Cmin |
 | --- | --- | --- | --- |
-| EIAEDs* | 0.79 (0.69, 0.90) | 0.71 (0.61, 0.82) | 0.99 (0.89, 1.09) |
+| EIAEDsa | 0.79 (0.69, 0.90) | 0.71 (0.61, 0.82) | 0.99 (0.89, 1.09) |
 | VPA | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |
-| AEDs other than EIAEDs* or VPA | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
+| AEDs other than EIAEDsa or VPA | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
 
-* EIAEDs include carbamazepine, phenytoin, phenobarbital, and primidone.
+a EIAEDs include carbamazepine, phenytoin, phenobarbital, and primidone.
 
 Dose Proportionality: In healthy volunteers not receiving any other medications and given LAMICTAL XR once daily, the systemic exposure to lamotrigine increased in direct proportion to the dose administered over the range of 50 to 200 mg.
 At doses between 25 and 50 mg, the increase was less than dose proportional, with a 2-fold increase in dose resulting in an approximately 1.6-fold increase in systemic exposure.
@@ -80,7 +80,7 @@ Vd/F is independent of dose and is similar following single and multiple doses i
 Protein Binding: Data from in vitro studies indicate that lamotrigine is approximately 55% bound to human plasma proteins at plasma lamotrigine concentrations from 1 to 10 mcg/mL (10 mcg/mL is 4 to 6 times the trough plasma concentration observed in the controlled efficacy trials).
 Because lamotrigine is not highly bound to plasma proteins, clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 The binding of lamotrigine to plasma proteins did not change in the presence of therapeutic concentrations of phenytoin, phenobarbital, or valproate.
-Lamotrigine did not displace other AEDs (carbamazepine, phenytoin, phenobarbital) from protein binding sites.
+Lamotrigine did not displace other AEDs (carbamazepine, phenytoin, phenobarbital) from protein-binding sites.
 
 Metabolism: Lamotrigine is metabolized predominantly by glucuronic acid conjugation; the major metabolite is an inactive 2-N-glucuronide conjugate.
 After oral administration of 240 mg of 14C-lamotrigine (15 μCi) to 6 healthy volunteers, 94% was recovered in the urine and 2% was recovered in the feces.
@@ -97,7 +97,7 @@ Half-life and apparent oral clearance vary depending on concomitant AEDs.
 Since the half-life of lamotrigine following administration of single doses of immediate-release lamotrigine is comparable to that observed following administration of LAMICTAL XR, similar changes in the half-life of lamotrigine would be expected for LAMICTAL XR.
 
 Table 6.
-Mean* Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Volunteers and Adult Patients With Epilepsy
+Meana Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Volunteers and Adult Patients With Epilepsy
 
 | Adult Study Population | Number of Subjects | t½: Elimination Half-life(hr) | Cl/F:Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- |
@@ -109,18 +109,18 @@ Mean* Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Vol
 | Multiple-dose lamotrigine | 18 | 70.3(41.9-113.5) | 0.18(0.12-0.33) |
 | Patients with epilepsy taking valproate only: |  |  |  |
 | Single-dose lamotrigine | 4 | 58.8(30.5-88.8) | 0.28(0.16-0.40) |
-| Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone† plus valproate: |  |  |  |
+| Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidoneb plus valproate: |  |  |  |
 | Single-dose lamotrigine | 25 | 27.2(11.2-51.6) | 0.53(0.27-1.04) |
-| Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone†: |  |  |  |
+| Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone:b |  |  |  |
 | Single-dose lamotrigine | 24 | 14.4(6.4-30.4) | 1.10(0.51-2.22) |
 | Multiple-dose lamotrigine | 17 | 12.6(7.5-23.1) | 1.21(0.66-1.82) |
 
-* The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
+a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.
 
-† Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
-Estrogen-containing oral contraceptives and other drugs that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
+b Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
+Estrogen-containing oral contraceptives and other drugs such as rifampin that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.7, 5.11), Drug Interactions (7)].
 
@@ -130,43 +130,43 @@ Details of the drug interaction studies, which were done using immediate-release
 Table 7.
 Summary of Drug Interactions With Lamotrigine
 
-| Drug | Drug Plasma Concentration With Adjunctive Lamotrigine* | Lamotrigine Plasma Concentration With Adjunctive Drugs† |
+| Drug | Drug Plasma Concentration With Adjunctive Lamotriginea | Lamotrigine Plasma Concentration With Adjunctive Drugsb |
 | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel‡) | ↔§ | ↓ |
+| Oral contraceptives (e.g., ethinylestradiol/levonorgestrelc) | ↔d | ↓ |
 | Bupropion | Not assessed | ↔ |
 | Carbamazepine (CBZ) | ↔ | ↓ |
-| CBZ epoxide║ | ? |  |
+| CBZ epoxidee | ? |  |
 | Felbamate | Not assessed | ↔ |
 | Gabapentin | Not assessed | ↔ |
 | Levetiracetam | ↔ | ↔ |
 | Lithium | ↔ | Not assessed |
-| Olanzapine | ↔ | ↔¶ |
+| Olanzapine | ↔ | ↔f |
 | Oxcarbazepine | ↔ | ↔ |
-| 10-monohydroxy oxcarbazepine metabolite# | ↔ |  |
+| 10-monohydroxy oxcarbazepine metaboliteg | ↔ |  |
 | Phenobarbital/primidone | ↔ | ↓ |
 | Phenytoin (PHT) | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
 | Rifampin | Not assessed | ↓ |
-| Topiramate | ↔** | ↔ |
+| Topiramate | ↔h | ↔ |
 | Valproate | ↓ | ↑ |
 | Valproate + PHT and/or CBZ | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
 
-* From adjunctive clinical trials and volunteer studies.
+a From adjunctive clinical trials and volunteer studies.
 
-† Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies.
+b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies.
 
-‡ The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
+c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
 
-§ Modest decrease in levonorgestrel.
+d Modest decrease in levonorgestrel.
 
-║ Not administered, but an active metabolite of carbamazepine.
+e Not administered, but an active metabolite of carbamazepine.
 
-¶ Slight decrease, not expected to be clinically relevant.
+f Slight decrease, not expected to be clinically relevant.
 
-# Not administered, but an active metabolite of oxcarbazepine.
+g Not administered, but an active metabolite of oxcarbazepine.
 
-** Slight increase not expected to be clinically relevant.
+h Slight increase not expected to be clinically relevant.
 
 ↔ = No significant effect.
 
@@ -175,9 +175,9 @@ Summary of Drug Interactions With Lamotrigine
 Estrogen-Containing Oral Contraceptives: In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
-Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (“pill-free” week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs that induce lamotrigine glucuronidation [see Drug Interactions (7)].
+Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (“pill-free” week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)]).
 The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL XR is increased in the few days before or during the “pill-free” week.
-Increases in lamotrigine plasma levels could result in dose-dependent adverse effects.
+Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 
 In the same study, coadministration of lamotrigine (300 mg/day) in 16 female volunteers did not affect the pharmacokinetics of the ethinylestradiol component of the oral contraceptive preparation.
 There were mean decreases in the AUC and Cmax of the levonorgestrel component of 19% and 12%, respectively.

@@ -96,7 +96,7 @@ Medication errors involving LAMICTAL have occurred.
 In particular, the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL XR clearly.
-Depictions of the LAMICTAL XR Extended-Release Tablets can be found in the Medication Guide [see Patient Counseling Information (17.10)].
+Depictions of the LAMICTAL XR Extended-Release Tablets can be found in the Medication Guide.
 Each LAMICTAL XR tablet has a distinct color and white center, and is printed with “LAMICTAL XR” and the tablet strength.
 These distinctive features serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 LAMICTAL XR is supplied in round, unit-of-use bottles with orange caps containing 30 tablets.

@@ -1,4 +1,4 @@
-# Medication Guide
+Medication Guide
 
 LAMICTAL® (la-MIK-tal) XR™ (lamotrigine) Extended-Release Tablets
 
@@ -94,7 +94,7 @@ Immediately call your pharmacist if you receive a LAMICTAL XR tablet that does n
 
 LAMICTAL XR (lamotrigine) Extended-Release Tablets
 
-| 25 mg, yellow with white centerImprinted withLAMICTAL XR 25 | 50 mg, green with white centerImprinted withLAMICTALXR 50 | Imprinted withLAMICTALXR 100 | 200 mg, blue with white centerImprinted withLAMICTAL XR 200 |
+| 25 mg, yellow with white centerImprinted withLAMICTAL XR 25 | 50 mg, green with white centerImprinted withLAMICTALXR 50 | 100 mg, orange with white center Imprinted withLAMICTALXR 100 | 200 mg, blue with white centerImprinted withLAMICTAL XR 200 |
 | --- | --- | --- | --- |
 
 What is LAMICTAL XR?
