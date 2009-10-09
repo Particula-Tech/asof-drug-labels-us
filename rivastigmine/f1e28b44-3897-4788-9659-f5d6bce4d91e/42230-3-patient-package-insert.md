@@ -1,4 +1,4 @@
-Exelon® (rivastigmine tartrate) Oral Solution Instructions for Use
+# EXELON® (RIVASTIGMINE TARTRATE) ORAL SOLUTION INSTRUCTIONS FOR USE
 
 |  | 1. Remove oral dosing syringe from its protective case. Push down and twist child-resistant closure to open bottle. |
 | --- | --- |
