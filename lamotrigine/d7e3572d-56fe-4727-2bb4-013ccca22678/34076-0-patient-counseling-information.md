@@ -26,10 +26,10 @@ Patients should be advised of the possibility of blood dyscrasias and/or acute m
 
 ## 17.6 Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-Patients should be advised to notify their physician if they intend to breastfeed or are breastfeeding an infant.
+Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
+Patients should be advised to notify their physicians if they intend to breastfeed or are breastfeeding an infant.
 
-Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+Patients should also be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
@@ -37,7 +37,7 @@ To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Spe
 
 Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
 Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
-Women should also be advised to promptly notify their physician if they experience adverse events or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL in combination with these medications.
+Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL in combination with these medications.
 
 ## 17.8 Discontinuing LAMICTAL
 
@@ -46,7 +46,7 @@ Patients should be advised to notify their physician if they stop taking LAMICTA
 ## 17.9 Potential Medication Errors
 
 Medication errors involving LAMICTAL have occurred.
-In particular the name LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
+In particular the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL clearly.
 Depictions of the LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
@@ -68,7 +68,7 @@ Eurand, Inc., Vandalia, OH 45377
 
 LAMICTAL is a registered trademark of GlaxoSmithKline
 
-*Microcaps and AdvaTab are registered trademarks of Eurand, Inc.
+Microcaps and AdvaTab are registered trademarks of Eurand, Inc.
 
 ©2009, GlaxoSmithKline.
 All rights reserved.

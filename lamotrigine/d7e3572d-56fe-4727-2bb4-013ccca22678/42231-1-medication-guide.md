@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 LAMICTAL® (la-MIK-tal) (lamotrigine) Tablets and Chewable Dispersible Tablets
 
@@ -21,9 +21,9 @@ Children between 2 to 16 years of age have a higher chance of getting this serio
 
 The risk of getting a rash is higher if you:
 
-- take LAMICTAL while taking valproate (DEPAKENE* (valproic acid) or DEPAKOTE* (divalproex sodium)).
-- take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
-- increase your dose of LAMICTAL faster than prescribed.
+- take LAMICTAL while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium))
+- take a higher starting dose of LAMICTAL than your healthcare provider prescribed
+- increase your dose of LAMICTAL faster than prescribed
 
 LAMICTAL can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
 You may or may not have a rash with these types of reactions.
@@ -171,7 +171,7 @@ How should I take LAMICTAL?
   If the tablets are chewed, drink a small amount of water or diluted fruit juice to help in swallowing.
   To break up LAMICTAL Chewable Dispersible tablets, add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medicine) in a glass or spoon.
   Wait at least 1 minute or until the tablets are completely broken up, mix the solution together and take the whole amount right away.
-- If you receive LAMICTAL in a blisterpack, examine the blister pack before use.
+- If you receive LAMICTAL in a blisterpack, examine the blisterpack before use.
   Do not use if blisters are torn, broken, or missing.
 
 What should I avoid while taking LAMICTAL?
@@ -257,7 +257,7 @@ Eurand, Inc., Vandalia, OH 45377
 
 LAMICTAL is a registered trademark of GlaxoSmithKline.
 
-*DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 
 ©2009, GlaxoSmithKline.
 All rights reserved.

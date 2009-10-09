@@ -53,7 +53,7 @@ Adjunctive Therapy With LAMICTAL in Pediatric Patients With Partial Seizures
 The effectiveness of LAMICTAL as adjunctive therapy in pediatric patients with partial seizures was established in a multicenter, double-blind, placebo-controlled trial in 199 patients 2 to 16 years of age (n = 98 on LAMICTAL, n = 101 on placebo).
 Following an 8-week baseline phase, patients were randomized to 18 weeks of treatment with LAMICTAL or placebo added to their current AED regimen of up to 2 drugs.
 Patients were dosed based on body weight and valproate use.
-Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose, 250 mg/day) and 15 mg/kg/day for the patients not taking valproate (maximum dose, 750 mg/day).
+Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose: 250 mg/day) and 15 mg/kg/day for the patients not taking valproate (maximum dose: 750 mg/day).
 The primary efficacy endpoint was percentage change from baseline in all partial seizures.
 For the intent-to-treat population, the median reduction of all partial seizures was 36% in patients treated with LAMICTAL and 7% on placebo, a difference that was statistically significant (p<0.01).
 
@@ -62,7 +62,7 @@ Adjunctive Therapy With LAMICTAL in Pediatric and Adult Patients With Lennox-Gas
 The effectiveness of LAMICTAL as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients 3 to 25 years of age (n = 79 on LAMICTAL, n = 90 on placebo).
 Following a 4-week single-blind, placebo phase, patients were randomized to 16 weeks of treatment with LAMICTAL or placebo added to their current AED regimen of up to 3 drugs.
 Patients were dosed on a fixed-dose regimen based on body weight and valproate use.
-Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose, 200 mg/day) and 15 mg/kg/day for patients not taking valproate (maximum dose, 400 mg/day).
+Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose: 200 mg/day) and 15 mg/kg/day for patients not taking valproate (maximum dose: 400 mg/day).
 The primary efficacy endpoint was percentage change from baseline in major motor seizures (atonic, tonic, major myoclonic, and tonic-clonic seizures).
 For the intent-to-treat population, the median reduction of major motor seizures was 32% in patients treated with LAMICTAL and 9% on placebo, a difference that was statistically significant (p<0.05).
 Drop attacks were significantly reduced by LAMICTAL (34%) compared with placebo (9%), as were tonic-clonic seizures (36% reduction versus 10% increase for LAMICTAL and placebo, respectively).

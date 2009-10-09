@@ -1,4 +1,4 @@
-WARNING: SERIOUS SKIN RASHES
+# WARNING: SERIOUS SKIN RASHES
 
 LAMICTAL® can cause serious rashes requiring hospitalization and discontinuation of treatment.
 The incidence of these rashes, which have included Stevens-Johnson syndrome, is approximately 0.8% (8 per 1,000) in pediatric patients (2 to 16 years of age) receiving LAMICTAL as adjunctive therapy for epilepsy and 0.3% (3 per 1,000) in adults on adjunctive therapy for epilepsy.
@@ -16,4 +16,4 @@ Accordingly, duration of therapy cannot be relied upon as means to predict the p
 
 Although benign rashes are also caused by LAMICTAL, it is not possible to predict reliably which rashes will prove to be serious or life-threatening.
 Accordingly, LAMICTAL should ordinarily be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
-Discontinuation of treatment may not prevent a rash from becoming life-threatening or permanently disabling or disfiguring [see Warnings and Precautions (5.1)].
+Discontinuation of treatment may not prevent a rash from becoming life-threatening or permanently disabling or disfiguring [(see Warnings and Precautions (5.1)].

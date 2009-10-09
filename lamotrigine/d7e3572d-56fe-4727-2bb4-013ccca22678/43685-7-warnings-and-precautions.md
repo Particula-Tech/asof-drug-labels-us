@@ -64,7 +64,7 @@ The increased risk of suicidal thoughts or behavior with AEDs was observed as ea
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
-The findings of increased risk with AEDs of varying mechanism of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The finding of increased risk with AEDs of varying mechanism of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
 Table 7 shows absolute and relative risk by indication for all evaluated AEDs.
@@ -81,7 +81,7 @@ Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing LAMICTAL or any other AED must balance the risk of suicidal thoughts or behaviors with the risk of untreated illness.
+Anyone considering prescribing LAMICTAL or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
@@ -95,7 +95,7 @@ Acute Treatment of Mood Episodes: Safety and effectiveness of LAMICTAL in the ac
 Children and Adolescents (less than 18 years of age): Safety and effectiveness of LAMICTAL in patients below the age of 18 years with mood disorders have not been established [see Suicidal Behavior and Ideation (5.5)].
 
 Clinical Worsening and Suicide Risk Associated With Bipolar Disorder: Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
-Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment, or at the time of dose changes.
+Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment or at the time of dose changes.
 
 In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment [see Suicidal Behavior and Ideation (5.5)].
 
@@ -107,7 +107,7 @@ Overdoses have been reported for LAMICTAL, some of which have been fatal [see Ov
 ## 5.7 Potential Medication Errors
 
 Medication errors involving LAMICTAL have occurred.
-In particular, the name LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
+In particular, the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL clearly.
 Depictions of the LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
@@ -124,8 +124,7 @@ Adverse reactions consistent with elevated levels of lamotrigine, such as dizzin
 
 As with other AEDs, LAMICTAL should not be abruptly discontinued.
 In patients with epilepsy there is a possibility of increasing seizure frequency.
-In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL.
-However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
+In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL; however, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
 Unless safety concerns require a more rapid withdrawal, the dose of LAMICTAL should be tapered over a period of at least 2 weeks (approximately 50% reduction per week) [see Dosage and Administration (2.1)].
 
 ## 5.10 Status Epilepticus

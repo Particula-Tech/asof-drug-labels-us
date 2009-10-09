@@ -43,7 +43,7 @@ The effect of LAMICTAL on labor and delivery in humans is unknown.
 ## 8.3 Nursing Mothers
 
 Preliminary data indicate that lamotrigine passes into human milk.
-Because the effects on the infant exposed to LAMICTAL by this route are unknown, breastfeeding while taking LAMICTAL is not recommended.
+Because the effects on the infant exposed to lamotrigine by this route are unknown, breastfeeding while taking LAMICTAL is not recommended.
 
 ## 8.4 Pediatric Use
 
@@ -51,10 +51,10 @@ LAMICTAL is indicated for adjunctive therapy in patients ≥2 years of age for p
 
 Safety and efficacy of LAMICTAL, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
 LAMICTAL was associated with an increased risk for infectious adverse reactions (LAMICTAL 37%, Placebo 5%), and respiratory adverse reactions (LAMICTAL 26%, Placebo 5%).
-Infectious adverse events included: bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
-Respiratory adverse events included nasal congestion, cough, and apnea.
+Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
+Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Safety and effectiveness in patients below the age of 18 years with Bipolar Disorder has not been established.
+Safety and effectiveness in patients below the age of 18 years with Bipolar Disorder have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -74,6 +74,6 @@ Escalation and maintenance doses may be adjusted according to clinical response 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was significantly longer in the patients with renal impairment [see Clinical Pharmacology (12.3)].
 
-Initial doses of LAMICTAL should be based on patients' AED regimen; reduced maintenance doses may be effective for patients with significant renal impairment.
+Initial doses of LAMICTAL should be based on patients' AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
 Few patients with severe renal impairment have been evaluated during chronic treatment with LAMICTAL.
 Because there is inadequate experience in this population, LAMICTAL should be used with caution in these patients [see Dosage and Administration (2.1)].
