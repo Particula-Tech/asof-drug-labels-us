@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040481"
+  ],
+  "inn": "digoxin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3059-72",
+    "0781-3059-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "digoxin",
+      "name": "Digoxin"
+    }
+  ],
+  "setid": "58f45aba-ff6f-43cc-bb88-be40a9f7beda",
+  "source": "dailymed"
+}
