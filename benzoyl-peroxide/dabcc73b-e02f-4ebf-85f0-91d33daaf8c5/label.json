@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050819"
+  ],
   "inn": "benzoyl-peroxide",
-  "labeler": "ARCUTIS Pharmaceuticals",
+  "labeler": "Dow Pharmaceuticals Sciences",
   "package_ndcs": [
     "59987-101-24",
     "59987-101-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "clindamycin phosphate and benzoyl peroxide",
+      "name": "ACANYA"
+    }
+  ],
   "setid": "dabcc73b-e02f-4ebf-85f0-91d33daaf8c5",
   "source": "dailymed"
 }
