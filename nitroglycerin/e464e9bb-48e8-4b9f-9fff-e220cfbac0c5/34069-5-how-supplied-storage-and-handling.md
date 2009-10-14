@@ -3,10 +3,10 @@
 NITRO-BID® (Nitroglycerin Ointment USP, 2%), is a pale yellow ointment.
 (Package includes a supply of ruled applicators for convenient application.)
 
-| NDC 0168-0326-08 | foilpac® Box of 48 x 1 gram |
+| NDC 0281-0326-08 | foilpac® Box of 48 x 1 gram |
 | --- | --- |
-| NDC 0168-0326-30 | 30 gram tubes |
-| NDC 0168-0326-60 | 60 gram tubes |
+| NDC 0281-0326-30 | 30 gram tubes |
+| NDC 0281-0326-60 | 60 gram tubes |
 
 Close tightly, immediately after each use.
 
