@@ -154,10 +154,8 @@ Do not take PRISTIQ with other medicines containing venlafaxine or desvenlafaxin
 
 - See the beginning of this Medication Guide - Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
 - Serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions.
-  See “What should I tell my healthcare provider before taking PRISTIQ?”
-
-Get medical help right away if you think that you have these syndromes.
-Signs and symptoms of these syndromes may include one or more of the following:
+  See “What should I tell my healthcare provider before taking PRISTIQ?”Get medical help right away if you think that you have these syndromes.
+  Signs and symptoms of these syndromes may include one or more of the following:
 
 | • restlessness | • increase in blood pressure |
 | --- | --- |
@@ -261,8 +259,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C008
+W10529C009
 
 ET01
 
-Rev 08/09
+Rev 09/09

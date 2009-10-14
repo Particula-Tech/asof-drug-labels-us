@@ -82,8 +82,6 @@ NDC 0008-1211-40
 
 SAMPLE – NOT FOR SALE
 
-Rx only
-
 One Week Sample Pack
 
 Pristiq™
@@ -100,13 +98,13 @@ One Card Containing 7 Tablets
 
 PLEASE SEE ENCLOSED MEDICATION GUIDE
 
+Rx only
+
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE CARTON
 
 NDC 0008-1211-40
 
 SAMPLE – NOT FOR SALE
-
-Rx only
 
 10 Patient Sample Packs
 
@@ -120,6 +118,8 @@ Extended-Release Tablets
 
 *Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine.
 
+Rx only
+
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 MG LABEL
 
 NDC 0008-1222-14
@@ -130,7 +130,7 @@ desvenlafaxine
 
 Extended-Release Tablets
 
-100 mg*
+100 mg
 
 Note: Give attached Medication Guide when dispensing Pristiq™.
 

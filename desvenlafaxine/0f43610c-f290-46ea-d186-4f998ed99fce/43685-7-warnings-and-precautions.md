@@ -62,7 +62,7 @@ Patients should be monitored for the emergence of serotonin syndrome or NMS-like
 
 The concomitant use of PRISTIQ with MAOIs intended to treat depression is contraindicated [see Contraindications (4.2)].
 
-If concomitant treatment of PRISTIQ with a 5 hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant treatment of PRISTIQ with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
 The concomitant use of PRISTIQ with serotonin precursors (such as tryptophan) is not recommended.
 

@@ -26,7 +26,7 @@ No dosage adjustment is necessary in patients with mild renal impairment (24‑h
 The recommended dose in patients with moderate renal impairment (24‑hr CrCl = 30‑50 mL/min) is 50 mg per day.
 The recommended dose in patients with severe renal impairment (24-hr CrCl < 30 mL/min) or end-stage renal disease (ESRD) is 50 mg every other day.
 Supplemental doses should not be given to patients after dialysis.
-The doses should not be escalated in patients with moderate or severe renal impairment, or ESRD [see Warnings and Precautions (5.10),Use in Specific Populations (8.6) and Clinical Pharmacology (12.6)].
+The doses should not be escalated in patients with moderate or severe renal impairment, or ESRD [see Warnings and Precautions (5.10), Use in Specific Populations (8.6) and Clinical Pharmacology (12.6)].
 
 ### Patients with hepatic impairment
 

@@ -109,7 +109,7 @@ Table 4: Sexual Function Disorders: Adverse Reactions (≥ 2% in Mena or Womenb 
 | Sexual dysfunction | 0 | 1 | 0 | 0 | 2 |
 | Women only |  |  |  |  |  |
 | Anorgasmia | 0 | 1 | 1 | 0 | 3 |
-| a: Percentage based on the number of men (placebo, n = 239; PRISTIQ 50 mg, n = 108; PRISTIQ 100 mg, n = 157; PRISTIQ 200 mg, n = 131; PRISTIQ 400 mg, n = 154). b: Percentage based on the number of women (placebo, n = 397; PRISTIQ 50 mg, n = 209; PRISTIQ 100 mg, n = 267; PRISTIQ 200 mg, n = 176; PRISTIQ 400 mg, n = 163). |  |  |  |  |  |
+| a: Percentage based on the number of men (placebo, n = 239; PRISTIQ 50 mg, n = 108; PRISTIQ 100 mg, n = 157; PRISTIQ 200 mg, n = 131; PRISTIQ 400 mg, n = 154).b: Percentage based on the number of women (placebo, n = 397; PRISTIQ 50 mg, n = 209; PRISTIQ 100 mg, n = 267; PRISTIQ 200 mg, n = 176; PRISTIQ 400 mg, n = 163). |  |  |  |  |  |
 
 ### Other adverse reactions observed in pre-marketing clinical studies
 
@@ -197,3 +197,10 @@ At the final on-therapy assessment in the 6-month, double-blind, placebo-control
 #### Orthostatic hypotension
 
 In the short-term, placebo-controlled clinical studies with doses of 50-400 mg, systolic orthostatic hypotension (decrease ≥ 30 mm Hg from supine to standing position) occurred more frequently in patients ≥ 65 years of age receiving PRISTIQ (8.0%, 7/87) versus placebo (2.5%, 1/40), compared to patients < 65 years of age receiving PRISTIQ (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
+
+## 6.2 Adverse Reactions Identified During Post-Approval Use
+
+The following adverse reaction has been identified during post-approval use of PRISTIQ.
+Because post-approval reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+Skin and subcutaneous tissue disorders – Angioedema.
