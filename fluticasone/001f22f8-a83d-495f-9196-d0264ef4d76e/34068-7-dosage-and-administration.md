@@ -26,7 +26,7 @@ Recommended Dosages of FLOVENT DISKUS*
 
 *Starting dosages above 100 mcg twice daily for adults and adolescents and 50 mcg twice daily for children 4 to 11 years of age may be considered for patients with poorer asthma control or those who have previously required doses of inhaled corticosteroids that are in the higher range for that specific agent.
 
-†For Patients Currently Receiving Chronic Oral Corticosteroid Therapy: Prednisone should be reduced no faster than 2.5 mg/day on a weekly basis, beginning after at least 1 week of therapy with FLOVENT DISKUS.
+† For Patients Currently Receiving Chronic Oral Corticosteroid Therapy: Prednisone should be reduced no faster than 2.5 mg/day on a weekly basis, beginning after at least 1 week of therapy with FLOVENT DISKUS.
 Patients should be carefully monitored for signs of asthma instability, including serial objective measures of airflow, and for signs of adrenal insufficiency (see WARNINGS).
 Once prednisone reduction is complete, the dosage of fluticasone propionate should be reduced to the lowest effective dosage.
 

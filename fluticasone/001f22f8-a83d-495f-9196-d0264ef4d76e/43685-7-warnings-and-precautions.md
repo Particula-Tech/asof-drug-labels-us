@@ -65,7 +65,7 @@ In particular, the effects resulting from chronic use of fluticasone propionate 
 Some patients have received inhaled fluticasone propionate on a continuous basis for periods of 3 years or longer.
 In clinical studies with patients treated for 2 years with inhaled fluticasone propionate, no apparent differences in the type or severity of adverse reactions were observed after long- versus short-term treatment.
 
-Rare instances of glaucoma, increased intraocular pressure, and cataracts have been reported in patients following the long term administration of inhaled corticosteroids, including fluticasone propionate.
+Rare instances of glaucoma, increased intraocular pressure, and cataracts have been reported in patients following the long-term administration of inhaled corticosteroids, including fluticasone propionate.
 
 In clinical studies with inhaled fluticasone propionate, the development of localized infections of the pharynx with Candida albicans has occurred.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while remaining on treatment with FLOVENT DISKUS, but at times therapy with FLOVENT DISKUS may need to be interrupted.
@@ -106,7 +106,7 @@ Patients should be given the following information:
    - Never wash the mouthpiece or any part of the DISKUS.
      KEEP IT DRY.
    - Always keep the DISKUS in a dry place.
-   - Discard 6 weeks after removal from the moisture-protective foil overwrap pouch or after all blisters have been used (when the dose indicator reads “0”), whichever comes first.
+   - Discard 6 weeks (50-mcg strength) or 2 months (100- and 250-mcg strengths) after removal from the moisture-protective foil pouch or after all blisters have been used (when the dose indicator reads “0”), whichever comes first.
 6. Patients should be warned to avoid exposure to chickenpox or measles and, if they are exposed, to consult their physicians without delay.
 7. For the proper use of FLOVENT DISKUS and to attain maximum improvement, the patient should read and carefully follow the Patient’s Instructions for Use leaflet accompanying the product.
 
@@ -188,6 +188,6 @@ The safety and effectiveness of FLOVENT DISKUS in children below 4 years of age 
 ## Geriatric Use
 
 Safety data have been collected on 280 patients (FLOVENT DISKUS n = 83, FLOVENT ROTADISK n = 197) 65 years of age or older and 33 patients (FLOVENT DISKUS n = 14, FLOVENT ROTADISK n = 19) 75 years of age or older who have been treated with fluticasone propionate inhalation powder in US and non-US clinical trials.
-There were no differences in adverse reactions compared to those reported by younger patients.
+There were no differences in adverse reactions compared with those reported by younger patients.
 In addition, there were no apparent differences in efficacy between patients 65 years of age or older and younger patients.
 Fifteen patients 65 years of age or older and 1 patient 75 years of age or older were included in the efficacy evaluation of US clinical studies.

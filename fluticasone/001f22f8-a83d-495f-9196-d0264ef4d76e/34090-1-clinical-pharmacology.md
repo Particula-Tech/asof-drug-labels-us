@@ -91,7 +91,7 @@ In another multiple-dose drug interaction study, coadministration of orally inha
 
 In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL assessed by radioimmunoassay) were noted both in patients receiving fluticasone propionate and in patients receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
-In a 2-year study carried out with the DISKHALER® inhalation device in 64 patients with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no patient receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol<18 mcg/dL).
+In a 2-year study carried out with the DISKHALER® inhalation device in 64 patients with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no patient receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
 With a peak cortisol threshold <35 mcg/dL, 1 patient receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
 Another patient receiving fluticasone propionate (5%) had an abnormal response at 2 years.
 No patient on placebo had an abnormal response at 1 or 2 years.
@@ -100,14 +100,14 @@ In a placebo-controlled clinical study conducted in patients 4 to 11 years of ag
 One patient receiving fluticasone propionate via DISKUS had a prestimulation plasma cortisol concentration <5 mcg/dL, and 2 patients had a rise in cortisol of <7 mcg/dL.
 However, all poststimulation values were >18 mcg/dL.
 
-The potential systemic effects of inhaled fluticasone propionate on the hypothalamic-pituitary­adrenal (HPA) axis were also studied in patients with asthma.
+The potential systemic effects of inhaled fluticasone propionate on the hypothalamic­pituitary-adrenal (HPA) axis were also studied in patients with asthma.
 Fluticasone propionate given by inhalation aerosol at dosages of 220, 440, 660, or 880 mcg twice daily was compared with placebo or oral prednisone 10 mg given once daily for 4 weeks.
 For most patients, the ability to increase cortisol production in response to stress, as assessed by 6-hour cosyntropin stimulation, remained intact with inhaled fluticasone propionate treatment.
 No patient had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing with placebo or fluticasone propionate 220 mcg twice daily.
-For patients treated with 440, 660, and 880 mcg twice daily, 10%, 16%, and 12%, respectively, had an abnormal response as compared to 29% of patients treated with prednisone.
+For patients treated with 440, 660, and 880 mcg twice daily, 10%, 16%, and 12%, respectively, had an abnormal response as compared with 29% of patients treated with prednisone.
 
 To confirm that systemic absorption does not play a role in the clinical response to inhaled fluticasone propionate, a double-blind clinical study comparing inhaled fluticasone propionate powder and oral fluticasone propionate was conducted.
-Inhaled fluticasone propionate powder in dosages of 100 and 500 mcg twice daily was compared to oral fluticasone propionate 20,000 mcg once daily and placebo for 6 weeks.
+Inhaled fluticasone propionate powder in dosages of 100 and 500 mcg twice daily was compared with oral fluticasone propionate 20,000 mcg once daily and placebo for 6 weeks.
 Plasma levels of fluticasone propionate were detectable in all 3 active groups, but the mean values were highest in the oral group.
 Both doses of inhaled fluticasone propionate were effective in maintaining asthma stability and improving lung function, while oral fluticasone propionate and placebo were ineffective.
 This demonstrates that the clinical effectiveness of inhaled fluticasone propionate is due to its direct local effect and not to an indirect effect through systemic absorption.

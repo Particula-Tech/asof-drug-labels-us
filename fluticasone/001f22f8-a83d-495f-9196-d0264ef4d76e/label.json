@@ -1,11 +1,24 @@
 {
-  "application_numbers": [],
-  "inn": "fluticasone",
-  "labeler": "GlaxoSmithKline",
-  "package_ndcs": [
-    "0173-0600-02"
+  "application_numbers": [
+    "NDA020833"
   ],
-  "products": [],
+  "inn": "fluticasone",
+  "labeler": "SmithKline Beecham Corporation",
+  "package_ndcs": [
+    "0173-0600-00",
+    "0173-0600-01",
+    "0173-0600-02",
+    "0173-0601-02",
+    "0173-0602-01",
+    "0173-0602-02"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "fluticasone propionate",
+      "name": "FLOVENT"
+    }
+  ],
   "setid": "001f22f8-a83d-495f-9196-d0264ef4d76e",
   "source": "dailymed"
 }
