@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018998"
+  ],
   "inn": "enalapril",
-  "labeler": "BTA Pharmaceuticals, Inc.",
+  "labeler": "BTA Pharmaceuticals Inc.",
   "package_ndcs": [
     "64455-140-30",
     "64455-140-90",
@@ -15,7 +17,13 @@
     "64455-143-30",
     "64455-143-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate",
+      "name": "Vasotec"
+    }
+  ],
   "setid": "5d181743-a0fc-4d17-953d-b17a936f9ecc",
   "source": "dailymed"
 }
