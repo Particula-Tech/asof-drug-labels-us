@@ -21,6 +21,7 @@ Studies to assess the effects on children whose mothers took zolpidem during pre
 There is a published case report documenting the presence of zolpidem in human umbilical cord blood.
 Children born of mothers taking sedative/hypnotic drugs may be at some risk for withdrawal symptoms from the drug during the postnatal period.
 In addition, neonatal flaccidity has been reported in infants born of mothers who received sedative/hypnotic drugs during pregnancy.
+Cases of severe neonatal respiratory depression have been reported when zolpidem was used with other CNS depressants at the end of pregnancy.
 
 ## 8.2 Labor and delivery
 
@@ -38,7 +39,7 @@ Safety and effectiveness of zolpidem have not been established in pediatric pati
 
 In an 8-week controlled study, 201 pediatric patients (aged 6-17 years) with insomnia associated with attention-deficit/hyperactivity disorder (90% of the patients were using psychoanaleptics) were treated with an oral solution of zolpidem (n=136), or placebo (n=65).
 Zolpidem did not significantly decrease latency to persistent sleep, compared to placebo, as measured by polysomnography after 4 weeks of treatment.
-Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations (7.4% vs. 0%) [see Warnings and Precautions (5.6)].
+Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations (7.4% vs. 0%) [see Warnings and Precautions(5.6)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
 ## 8.5 Geriatric use

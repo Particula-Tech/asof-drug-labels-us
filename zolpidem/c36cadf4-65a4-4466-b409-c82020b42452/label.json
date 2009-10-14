@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019908"
+  ],
   "inn": "zolpidem",
   "labeler": "sanofi-aventis U.S. LLC",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0024-5421-34",
     "0024-5421-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zolpidem tartrate",
+      "name": "Ambien"
+    }
+  ],
   "setid": "c36cadf4-65a4-4466-b409-c82020b42452",
   "source": "dailymed"
 }

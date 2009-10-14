@@ -28,21 +28,21 @@ These results suggest that, for faster sleep onset, Ambien should not be adminis
 
 Special Populations
 
-Elderly:
+Elderly
 
 In the elderly, the dose for Ambien should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
 This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
 In one study of eight elderly subjects (> 70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Ambien did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
-Hepatic Impairment:
+Hepatic Impairment
 
 The pharmacokinetics of Ambien in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
-Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically compromised patients.
+Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically -compromised patients.
 Tmax did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2) and Warnings and Precautions (5.6)].
 
-Renal Impairment:
+Renal Impairment
 
 The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.

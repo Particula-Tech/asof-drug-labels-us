@@ -21,8 +21,8 @@ Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI
 
 ### Most commonly observed adverse reactions in controlled trials:
 
-During short-term treatment (up to 10 nights) with Ambien at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
-During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
+During short-term treatment (up to 10 nights) with Ambien at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
+During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo treated patients were dizziness (5%) and drugged feelings (3%).
 
 ### Adverse reactions observed at an incidence of ≥ 1% in controlled trials:
 
@@ -37,7 +37,7 @@ The table is limited to data from doses up to and including 10 mg, the highest d
 
 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of patients reporting)
 
-| Body System/ Adverse EventReactions reported by at least 1% of patients treated with Ambien patients and at a greater frequency than placebo. | Zolpidem (≤10mg) (N=685) | Placebo (N=473) |
+| Body System/ Adverse EventReactions reported by at least 1% of patients treated with Ambien and at a greater frequency than placebo. | Zolpidem (≤10mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -129,14 +129,14 @@ Rare: bilirubinemia, increased SGOT.
 Metabolic and nutritional: Infrequent: hyperglycemia, thirst.
 Rare: gout, hypercholesteremia, hyperlipidemia, increased alkaline phosphatase, increased BUN, periorbital edema.
 
-Musculoskeletal system:Frequent: arthralgia, myalgia.
+Musculoskeletal system: Frequent: arthralgia, myalgia.
 Infrequent: arthritis.
 Rare: arthrosis, muscle weakness, sciatica, tendinitis.
 
 Reproductive system: Infrequent: menstrual disorder, vaginitis.
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
-Respiratory system:Frequent: upper respiratory infection.
+Respiratory system: Frequent: upper respiratory infection.
 Infrequent: bronchitis, coughing, dyspnea, rhinitis.
 Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
 
