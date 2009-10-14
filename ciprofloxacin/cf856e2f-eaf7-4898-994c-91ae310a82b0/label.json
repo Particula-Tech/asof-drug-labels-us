@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019537",
+    "NDA020780"
+  ],
   "inn": "ciprofloxacin",
-  "labeler": "Schering-Plough Corporation",
+  "labeler": "Schering Plough Corporation",
   "package_ndcs": [
     "0085-1754-01",
     "0085-1754-02",
@@ -12,7 +15,18 @@
     "0085-1773-01",
     "0085-1777-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "ciprofloxacin",
+      "name": "Cipro"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ciprofloxacin hydrochloride",
+      "name": "Cipro"
+    }
+  ],
   "setid": "cf856e2f-eaf7-4898-994c-91ae310a82b0",
   "source": "dailymed"
 }
