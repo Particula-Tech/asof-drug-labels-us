@@ -23,11 +23,11 @@ If contact occurs, rinse eyes thoroughly with water.
 
 # PRECAUTIONS
 
-## General:
+## General
 
 Evoclin should be prescribed with caution in atopic individuals.
 
-## Drug Interactions:
+## Drug Interactions
 
 Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be used with caution in patients receiving such agents.
@@ -40,12 +40,12 @@ No significant increase in tumors was noted in the treated animals.
 
 A 1% clindamycin phosphate gel similar to Evoclin caused a statistically significant shortening of the median time to tumor onset in a study in hairless mice in which tumors were induced by exposure to simulated sunlight.
 
-Genotoxicity tests performed included a rat micronucleus test and an Ames Salmonella reversion test.
+Genotoxicity tests performed included a rat micronucleus test and an Ames Salmonella revision test.
 Both tests were negative.
 
 Reproduction studies in rats using oral doses of clindamycin hydrochloride and clindamycin palmitate hydrochloride have revealed no evidence of impaired fertility.
 
-## Pregnancy:
+## Pregnancy
 
 ### Teratogenic effects
 
@@ -54,20 +54,20 @@ Reproduction studies in rats using oral doses of clindamycin hydrochloride and c
 Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride and clindamycin palmitate hydrochloride.
 These studies revealed no evidence of fetal harm.
 The highest dose used in the rat and mouse teratogenicity studies was equivalent to a clindamycin phosphate dose of 432 mg/kg.
-For a rat, this dose is 84 fold higher, and for a mouse 42 fold higher, than the anticipated human dose of clindamycin phosphate from Evoclin based on a mg/m2 comparison.
+For a rat, that dose is 84 fold higher, and for a mouse 42 fold higher, than the anticipated human dose of clindamycin phosphate from Evoclin based on a mg/m2 comparison.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 It is not known whether clindamycin is excreted in human milk following use of Evoclin.
 However, orally and parenterally administered clindamycin has been reported to appear in breast milk.
 Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use:
+## Pediatric Use
 
 Safety and effectiveness of Evoclin in children under the age of 12 have not been studied.
 
-## Geriatric Use:
+## Geriatric Use
 
 The clinical study with Evoclin did not include sufficient numbers of patients aged 65 and over to determine if they respond differently than younger patients.

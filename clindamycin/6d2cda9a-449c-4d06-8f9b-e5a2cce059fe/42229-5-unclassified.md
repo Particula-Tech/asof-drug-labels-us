@@ -1,15 +1,41 @@
+# Evoclin® (clindamycin phosphate) Foam, 1%
+
+Rx Only
+
+For Topical Use Only.
+
+Not for Ophthalmic, Oral, or Intravaginal Use.
+
+# FLAMMABLE. AVOID FIRE, FLAME OR SMOKING DURING AND IMMEDIATELY FOLLOWING APPLICATION.
+
+Contents under pressure.
+Do not puncture or incinerate.
+Do not expose to heat or store at temperature above 120oF (49oC).
+
+Keep out of reach of children.
+
 Manufactured for
 
-Connetics Corporation Palo Alto, CA 94304 USA
+Stiefel Laboratories, Inc.
 
-For additional information: 1-888-500-DERM or visit www.evoclin.com
+Coral Gables, FL 33134
 
-AW No: AW-0507
+USA
 
-P/N: 128456-0706
+For additional information:
 
-U.S. Patent Pending
+1-888-500-DERM or visit
 
-The wisp logo and the VersaFoam-HF are trademarks, and Evoclin, the V logo, the interlocking C design and Connetics are registered trademarks of Connetics Corporation.
+www.evoclin.com
 
-© 2004–2006 Connetics Corporation
+AW No: AW-0668 P/N: 128598-0807
+
+U.S. Patent No. 7,141,237
+
+STIEFEL®
+
+The wisp logo and VersaFoam-HF are trademarks, and Evoclin, the V logo and Stiefel are registered trademarks of Stiefel Laboratories, Inc.
+
+© 2007 Stiefel Laboratories, Inc.
+
+February 2007
