@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA125261"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Centocor",
+  "package_ndcs": [
+    "57894-060-02",
+    "57894-061-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab",
+      "name": "STELARA"
+    }
+  ],
+  "setid": "c77a9664-e3bb-4023-b400-127aa53bca2b",
+  "source": "dailymed"
+}
