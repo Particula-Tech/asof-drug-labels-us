@@ -30,7 +30,7 @@ Experience with further doses of ATIVAN is very limited.
 The usual precautions in treating status epilepticus should be employed.
 An intravenous infusion should be started, vital signs should be monitored, an unobstructed airway should be maintained, and artificial ventilation equipment should be available.
 
-## Intramuscular Injection
+### Intramuscular Injection
 
 IM ATIVAN is not preferred in the treatment of status epilepticus because therapeutic lorazepam levels may not be reached as quickly as with IV administration.
 However, when an intravenous port is not available, the IM route may prove useful (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
@@ -72,7 +72,7 @@ No dosage adjustments are needed in elderly patients and in patients with hepati
 For acute dose administration, adjustment is not needed for patients with renal disease.
 However, in patients with renal disease, caution should be exercised if frequent doses are given over relatively short periods of time (see also CLINICAL PHARMACOLOGY).
 
-## Dose Adjustment Due to Drug Interactions
+### Dose Adjustment Due to Drug Interactions
 
 The dose of ATIVAN should be reduced by 50% when coadministered with probenecid or valproate (see PRECAUTIONS, Drug Interactions).
 

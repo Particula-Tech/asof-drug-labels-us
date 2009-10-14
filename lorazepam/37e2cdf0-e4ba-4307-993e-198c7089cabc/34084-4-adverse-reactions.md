@@ -153,7 +153,7 @@ Hypertension (0.1%) and hypotension (0.1%) have occasionally been observed after
 
 Five patients (5/446) who underwent regional anesthesia were observed to have airway obstruction.
 This was believed due to excessive sleepiness at the time of the procedure and resulted in temporary hypoventilation.
-In this instance, appropriate airway management may become necessary (see alsoCLINICAL PHARMACOLOGY, WARNINGS and PRECAUTIONS).
+In this instance, appropriate airway management may become necessary (see also CLINICAL PHARMACOLOGY, WARNINGS and PRECAUTIONS).
 
 ### Other Adverse Experiences
 

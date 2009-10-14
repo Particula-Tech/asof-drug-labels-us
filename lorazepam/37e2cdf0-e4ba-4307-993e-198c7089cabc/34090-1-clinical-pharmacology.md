@@ -121,6 +121,8 @@ This prediction is supported by the observation that following a single 2 mg int
 
 ### Effect of Smoking
 
+Administration of a single 2 mg intravenous dose of lorazepam showed that there was no difference in any of the pharmacokinetic parameters of lorazepam between cigarette smokers (n=10, mean=31 cigarettes per day) and nonsmoking subjects (n=10) who were matched for age, weight and gender.
+
 ## Clinical Studies
 
 The effectiveness of ATIVAN Injection in status epilepticus was established in two multi-center controlled trials in 177 patients.
