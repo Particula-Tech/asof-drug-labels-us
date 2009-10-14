@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA020700"
+  ],
+  "inn": "alprostadil",
+  "labeler": "VIVUS, Inc.",
+  "package_ndcs": [
+    "62541-110-01",
+    "62541-110-06",
+    "62541-120-01",
+    "62541-120-06",
+    "62541-130-01",
+    "62541-130-06",
+    "62541-140-01",
+    "62541-140-06"
+  ],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "alprostadil",
+      "name": "MUSE"
+    }
+  ],
+  "setid": "fe00d612-9273-493a-adce-d97f71f441b8",
+  "source": "dailymed"
+}
