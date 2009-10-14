@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021011"
+  ],
   "inn": "oxycodone",
   "labeler": "Xanodyne Pharmaceuticals, Inc.",
   "package_ndcs": [
+    "66479-580-10",
+    "66479-580-25",
     "66479-581-10",
     "66479-582-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxycodone hydrochloride",
+      "name": "Roxicodone"
+    }
+  ],
   "setid": "7ff22143-2093-4233-ac99-0116ee2fb7c5",
   "source": "dailymed"
 }

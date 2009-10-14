@@ -14,7 +14,7 @@ For control of severe chronic pain, ROXICODONE® should be administered on a reg
 As with any potent opioid, it is critical to adjust the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience.
 Although it is not possible to list every condition that is important to the selection of the initial dose of ROXICODONE®, attention should be given to: 1) the daily dose, potency, and characteristics of a pure agonist or mixed agonist/antagonist the patient has been taking previously, 2) the reliability of the relative potency estimate to calculate the dose of oxycodone needed, 3) the degree of opioid tolerance, 4) the general condition and medical status of the patient, and 5) the balance between pain control and adverse experiences.
 
-## Conversion from Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs:
+## Conversion From Fixed-Ratio Opioid/Acetaminophen, Opioid/Aspirin, or Opioid/Nonsteroidal Combination Drugs:
 
 When converting patients from fixed ratio opioid/non-opioid drug regimens a decision should be made whether or not to continue the non-opioid analgesic.
 If a decision is made to discontinue the use of non-opioid analgesic, it may be necessary to titrate the dose of ROXICODONE® in response to the level of analgesia and adverse effects afforded by the dosing regimen.
@@ -38,6 +38,6 @@ During chronic therapy, especially for non-cancer-related pain (or pain associat
 ## Cessation of Therapy:
 
 When a patient no longer requires therapy with ROXICODONE® or other opioid analgesics for the treatment of their pain, it is important that therapy be gradually discontinued over time to prevent the development of an opioid abstinence syndrome (narcotic withdrawal).
-In general, therapy can be decreased by 25% to 50% per day with careful monitoring for signs and symptoms of withdrawal (see Drug Abuse and Dependence section for description of the signs and symptoms of withdrawal).
+In general, therapy can be decreased by 25% to 50% per day with careful monitoring for signs and symptoms of withdrawal (see DRUG ABUSE AND DEPENDENCE section for description of the signs and symptoms of withdrawal).
 If the patient develops these signs or symptoms, the dose should be raised to the previous level and titrated down more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
 It is not known at what dose of ROXICODONE® that treatment may be discontinued without risk of the opioid abstinence syndrome.

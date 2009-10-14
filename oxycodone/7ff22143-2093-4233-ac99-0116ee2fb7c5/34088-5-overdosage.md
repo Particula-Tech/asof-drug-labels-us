@@ -16,8 +16,7 @@ If needed the appropriate dose of naloxone hydrochloride or nalmefene should be 
 Since the duration of action of oxycodone may exceed that of the antagonist, the patient should be kept under continued surveillance and repeated doses of the antagonist should be administered as needed to maintain adequate respiration.
 Gastric emptying may be useful in removing unabsorbed drug.
 
-Opioid antagonists should be administered cautiously to persons who are suspected to be physically dependent on any opioid agonist, including oxycodone.
-(see Opioid-Tolerant Individuals)
+Opioid antagonists should be administered cautiously to persons who are suspected to be physically dependent on any opioid agonist, including oxycodone (see Opioid-Tolerant Individuals).
 
 Opioid-Tolerant Individuals: In an individual physically dependent on opioids, administration of a usual dose of antagonist will precipitate an acute withdrawal.
 The severity of the withdrawal syndrome produced will depend on the degree of physical dependence and the dose of the antagonist administered.

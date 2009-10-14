@@ -1,26 +1,26 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance
+## Controlled Substance:
 
-Roxicodone contains oxycodone, a mu-agonist opioid of the morphine type and is a Schedule II controlled substance.
-Roxicodone, like other opioids used in analgesia, can be abused and is subject to criminal diversion.
+ROXICODONE® contains oxycodone, a mu-agonist opioid of the morphine type and is a Schedule II controlled substance.
+ROXICODONE®, like other opioids used in analgesia, can be abused and is subject to criminal diversion.
 
-## Abuse
+## Abuse:
 
 Drug addiction is characterized by compulsive use, use for non-medical purposes, and continued use despite harm or risk of harm.
 Drug addiction is a treatable disease, utilizing a multi-disciplinary approach, but relapse is common.
 
-"Drug-seeking" behavior is very common in addicts and drug abusers.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated "loss" of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-"Doctor shopping" to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
+“Drug-seeking” behavior is very common in addicts and drug abusers.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
+“Doctor shopping” to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
 Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence.
 In addition, abuse of opioids can occur in the absence of true addiction and is characterized by misuse for nonmedical purposes, often in combination with other psychoactive substances.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
 
-Roxicodone is intended for oral use only.
-Abuse of Roxicodone poses a risk of overdose and death.
+ROXICODONE® is intended for oral use only.
+Abuse of ROXICODONE® poses a risk of overdose and death.
 The risk is increased with concurrent abuse of alcohol and other substances.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
@@ -28,7 +28,7 @@ Proper assessment of the patient, proper prescribing practices, periodic re-eval
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms.
 
-## Dependence
+## Dependence:
 
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
 Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.

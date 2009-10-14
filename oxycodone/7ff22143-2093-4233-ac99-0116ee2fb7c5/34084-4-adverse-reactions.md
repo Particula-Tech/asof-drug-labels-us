@@ -38,4 +38,4 @@ Skin and Appendages: herpes simplex, rash, sweating, and urticaria.
 
 Special Senses: amblyopia.
 
-Urogenital: urinary tract infection
+Urogenital: urinary tract infection.

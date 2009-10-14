@@ -89,27 +89,24 @@ Absorption: About 60% to 87% of an oral dose of oxycodone reaches the systemic c
 This high oral bioavailability (compared to other oral opioids) is due to lower pre-systemic and/or first-pass metabolism of oxycodone.
 The relative oral bioavailability of ROXICODONE® 15 mg and 30 mg tablets, compared to the 5 mg ROXICODONE® tablets, is 96% and 101% respectively.
 ROXICODONE® 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg ROXICODONE® tablet (see Table 1 for pharmacokinetic parameters).
-Dose proportionality of oxycodone has been established using the ROXICODONE® 5mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
+Dose proportionality of oxycodone has been established using the ROXICODONE® 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with ROXICODONE®.
 
 Food Effect: A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
-The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution.
-(See Table 1).
+The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 1).
 In addition, food caused a delay in Tmax (1.25 to 2.54 hour).
 Similar effects of food are expected with the 15 mg and 30 mg tablets.
 
 Distribution: Following intravenous administration, the volume of distribution (Vss) for oxycodone was 2.6 L/kg.
 Plasma protein binding of oxycodone at 37°C and a pH of 7.4 was about 45%.
-Oxycodone has been found in breast milk.
-(See PRECAUTIONS-Nursing Mothers.)
+Oxycodone has been found in breast milk (see PRECAUTIONS-Nursing Mothers).
 
 Metabolism: Oxycodone hydrochloride is extensively metabolized to noroxycodone, oxymorphone, and their glucuronides.
 The major circulating metabolite is noroxycodone with an AUC ratio of 0.6 relative to that of oxycodone.
 Oxymorphone is present in the plasma only in low concentrations.
 The analgesic activity profile of other metabolites is not known at present.
 
-The formation of oxymorphone, but not noroxycodone, is mediated by CYP2D6 and as such its formation can, in theory, be affected by other drugs.
-(See PRECAUTIONS-Drug Interactions.)
+The formation of oxymorphone, but not noroxycodone, is mediated by CYP2D6 and as such its formation can, in theory, be affected by other drugs (see PRECAUTIONS-Drug Interactions).
 
 Elimination: Oxycodone and its metabolites are excreted primarily via the kidney.
 The amounts measured in the urine have been reported as follows: free oxycodone up to 19%; conjugated oxycodone up to 50%; free oxymorphone 0%; conjugated oxymorphone ≤ 14%; both free and conjugated noroxycodone have been found in the urine but not quantified.

@@ -45,7 +45,7 @@ The dosage should be selected according to the patient's individual analgesic re
 Tolerance to the analgesic effects of opioids is usually paralleled by tolerance to side effects except for constipation.
 
 Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug or may be precipitated through the administration of drugs with opioid antagonist activity.
-If ROXICODONE® is abruptly discontinued in a physically dependent patient, an abstinence syndrome may occur (See DRUG ABUSE AND DEPENDENCE).
+If ROXICODONE® is abruptly discontinued in a physically dependent patient, an abstinence syndrome may occur (see DRUG ABUSE AND DEPENDENCE).
 If signs and symptoms of withdrawal occur, patients should be treated by reinstitution of opioid therapy followed by gradual tapered dose reduction of ROXICODONE® combined with symptomatic support (see DOSAGE AND ADMINISTRATION: Cessation of Therapy).
 
 ## Use In Pancreatic/Biliary Tract Disease:
@@ -60,9 +60,9 @@ If clinically advisable, patients (or their caregivers) receiving ROXICODONE® (
 1. Patients should be advised to report episodes of breakthrough pain and adverse experiences occurring during therapy.
    Individualization of dosage is essential to make optimal use of this medication.
 2. Patients should be advised not to adjust the dose of ROXICODONE® without consulting the prescribing professional.
-3. Patients should be advised that ROXICODONE® may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g. driving, operating heavy machinery).
+3. Patients should be advised that ROXICODONE® may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating heavy machinery).
 4. Patients should not combine ROXICODONE® with alcohol or other central nervous system depressants (sleep aids, tranquilizers) except by the orders of the prescribing physician, because additive effects may occur.
-5. Women of childbearing potential who become, or are planning to become, pregnant should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child.
+5. Women of childbearing potential who become, or are planning to become pregnant, should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child.
 6. Patients should be advised that ROXICODONE® is a potential drug of abuse.
    They should protect it from theft, and it should never be given to anyone other than the individual for whom it was prescribed.
 7. Patients should be advised that if they have been receiving treatment with ROXICODONE® for more than a few weeks and cessation of therapy is indicated, it may be appropriate to taper the ROXICODONE® dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
