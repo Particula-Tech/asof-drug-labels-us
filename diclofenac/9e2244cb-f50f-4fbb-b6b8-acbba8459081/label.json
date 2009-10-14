@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020254"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0446-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "diclofenac sodium extended release tablets",
+      "name": "Voltaren"
+    }
+  ],
+  "setid": "9e2244cb-f50f-4fbb-b6b8-acbba8459081",
+  "source": "dailymed"
+}

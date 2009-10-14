@@ -1,0 +1,49 @@
+# ADVERSE REACTIONS
+
+In patients taking Voltaren®-XR (diclofenac sodium extended-release) tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
+
+Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
+
+Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes and tinnitus.
+
+Additional adverse experiences reported occasionally include:
+
+Body as a Whole: fever, infection, sepsis
+
+Cardiovascular System: congestive heart failure, hypertension, tachycardia, syncope
+
+Digestive System: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, gastrointestinal bleeding, glossitis, hematemesis, hepatitis, jaundice
+
+Hemic and Lymphatic System: ecchymosis, eosinophilia, leukopenia, melena, purpura, rectal bleeding, stomatitis, thrombocytopenia
+
+Metabolic and Nutritional: weight changes
+
+Nervous System: anxiety, asthenia, confusion, depression, dream abnormalities, drowsiness, insomnia, malaise, nervousness, paresthesia, somnolence, tremors, vertigo
+
+Respiratory System: asthma, dyspnea
+
+Skin and Appendages: alopecia, photosensitivity, sweating increased
+
+Special Senses: blurred vision
+
+Urogenital System: cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure.
+
+Other adverse reactions, which occur rarely are:
+
+Body as a Whole: anaphylactic reactions, appetite changes, death
+
+Cardiovascular System: arrhythmia, hypotension, myocardial infarction, palpitations, vasculitis
+
+Digestive System: colitis, eructation, liver failure, pancreatitis
+
+Hemic and Lymphatic System: agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia
+
+Metabolic and Nutritional: hyperglycemia
+
+Nervous System: convulsions, coma, hallucinations, meningitis
+
+Respiratory System: respiratory depression, pneumonia
+
+Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
+
+Special Senses: conjunctivitis, hearing impairment.
