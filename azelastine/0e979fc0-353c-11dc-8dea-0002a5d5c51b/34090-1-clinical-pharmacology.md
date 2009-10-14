@@ -8,17 +8,17 @@ The major metabolite, desmethylazelastine, also possesses H1 -receptor antagonis
 
 ## 12.2 Pharmacodynamics
 
-Cardiac Effects: In a placebo-controlled study (95 patients with allergic rhinitis), there was no evidence of an effect of azelastine hydrochloride nasal spray (2 sprays per nostril twice daily for 56 days) on cardiac repolarization as represented by the corrected QT interval (QTc) of the electrocardiogram.
-Following multiple dose oral administration of azelastine 4 mg or 8mg twice daily, the mean change in QTc was 7.2 msec and 3.6 msec, respectively.
+Cardiac Effects: In a placebo-controlled trial (95 patients with allergic rhinitis), there was no evidence of an effect of azelastine hydrochloride nasal spray (2 sprays per nostril twice daily for 56 days) on cardiac repolarization as represented by the corrected QT interval (QTc) of the electrocardiogram.
+Following multiple dose oral administration of azelastine 4 mg or 8 mg twice daily, the mean change in QTc was 7.2 msec and 3.6 msec, respectively.
 
 Interaction studies investigating the cardiac repolarization effects of concomitantly administered oral azelastine hydrochloride and erythromycin or ketoconazole were conducted.
 Oral erythromycin had no effect on azelastine pharmacokinetics or QTc based on analysis of serial electrocardiograms.
-Ketoconazole interfered with the measurement of azelastine plasma levels; however, no effects on QTc were observed [see Drug Interactions (7)].
+Ketoconazole interfered with the measurement of azelastine plasma levels; however, no effects on QTc were observed [see Drug Interactions (7.2)].
 
 ## 12.3 Pharmacokinetics
 
-Absorption: After intranasal administration of 2 sprays per nostril (548 mcg total dose) of ASTEPRO, the mean azelastine peak plasma concentration (Cmax) is 200 pg/mL, the mean extent of systemic exposure (AUC) is 5122 pg•hr/ml and the median time to reach Cmax (tmax) is 3 hours.
-Azelastine hydrochloride administered intranasally at doses above two sprays per nostril twice daily for 29 days resulted in greater than proportional increases in Cmax and AUC for azelastine.
+Absorption: After intranasal administration of 2 sprays per nostril (548 mcg total dose) of ASTEPRO Nasal Spray 0.1%, the mean azelastine peak plasma concentration (Cmax) is 200 pg/mL, the mean extent of systemic exposure (AUC) is 5122 pg•hr/mL and the median time to reach Cmax (tmax) is 3 hours.
+After intranasal administration of 2 sprays per nostril (822 mcg total dose) of ASTEPRO Nasal Spray 0.15%, the mean azelastine peak plasma concentration (Cmax) is 409 pg/mL, the mean extent of systemic exposure (AUC) is 9312 pg•hr/mL and the median time to reach Cmax (tmax) is 4 hours.
 The systemic bioavailability of azelastine hydrochloride is approximately 40% after intranasal administration.
 
 Distribution: Based on intravenous and oral administration, the steady-state volume of distribution of azelastine is 14.5 L/kg.
@@ -26,10 +26,12 @@ In vitro studies with human plasma indicate that the plasma protein binding of a
 
 Metabolism: Azelastine is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
 The specific P450 isoforms responsible for the biotransformation of azelastine have not been identified.
-After a single-dose, intranasal administration of ASTEPRO Nasal Spray, the mean desmethylazelastine Cmax is 23 pg/mL, the AUC is 2131 pg•hr/mL and the median tmax is 24 hours.
+After a single-dose, intranasal administration of ASTEPRO Nasal Spray 0.1% (548 mcg total dose), the mean desmethylazelastine Cmax is 23 pg/mL, the AUC is 2131 pg•hr/mL and the median tmax is 24 hours.
+After a single-dose, intranasal administration of ASTEPRO Nasal Spray 0.15% (822 mcg total dose), the mean desmethylazelastine Cmax is 38 pg/mL, the AUC is 3824 pg•hr/mL and the median tmax is 24 hours.
 After intranasal dosing of azelastine to steady-state, plasma concentrations of desmethylazelastine range from 20-50% of azelastine concentrations.
 
-Elimination: Following intranasal administration of ASTEPRO Nasal Spray, the elimination half-life of azelastine is 22 hours while that of desmethylazelastine is 52 hours.
+Elimination: Following intranasal administration of ASTEPRO Nasal Spray 0.1%, the elimination half-life of azelastine is 22 hours while that of desmethylazelastine is 52 hours.
+Following intranasal administration of ASTEPRO Nasal Spray 0.15%, the elimination half-life of azelastine is 25 hours while that of desmethylazelastine is 57 hours.
 Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was excreted in the feces with less than 10% as unchanged azelastine.
 
 Special Populations:
@@ -47,9 +49,9 @@ Race: The effect of race has not been evaluated.
 
 Drug-Drug Interactions:
 
-Erythromycin: Clinical interaction studies with a moderate CYP3A4 inhibitor erythromycin failed to demonstrate a pharmacokinetic interaction.
+Erythromycin: Co-administration of orally administered azelastine (4 mg twice daily) with erythromycin (500 mg three times daily for 7 days) resulted in Cmax of 5.36 ± 2.6 ng/mL and AUC of 49.7 ± 24 ng•h/mL for azelastine, whereas, administration of azelastine alone resulted in Cmax of 5.57 ± 2.7 ng/mL and AUC of 48.4 ± 24 ng•h/mL for azelastine [see Drug Interactions (7.2)].
 
-Cimetidine and Ranitidine: In a multiple-dose, steady-state drug interaction study in healthy subjects, cimetidine (400 mg twice daily), a nonspecific P450 inhibitor, raised orally administered mean azelastine (4 mg twice daily) concentrations by approximately 65%.
-Ranitidine hydrochloride (150 mg twice daily) had no effects on azelastine pharmacokinetics.
+Cimetidine and Ranitidine: In a multiple-dose, steady-state drug interaction trial in healthy subjects, cimetidine (400 mg twice daily) increased orally administered mean azelastine (4 mg twice daily) concentrations by approximately 65%.
+Co-administration of orally administered azelastine (4 mg twice daily) with ranitidine hydrochloride (150 mg twice daily) resulted in Cmax of 8.89 ±3.28 ng/mL and AUC of 88.22 ± 40.43 ng•h/mL for azelastine, whereas, administration of azelastine alone resulted in Cmax of 7.83 ±± 4.06 ng/mL and AUC of 80.09 ± 43.55 ng•h/mL for azelastine [see Drug Interactions (7.3)].
 
-Theophylline: No significant pharmacokinetic interaction was observed with the coadministration of an oral 4-mg dose of azelastine hydrochloride twice daily and theophylline 300 mg or 400 mg twice daily.
+Theophylline: No significant pharmacokinetic interaction was observed with the co-administration of an oral 4 mg dose of azelastine hydrochloride twice daily and theophylline 300 mg or 400 mg twice daily.

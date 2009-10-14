@@ -1,12 +1,12 @@
 # 10 OVERDOSAGE
 
 There have been no reported overdosages with ASTEPRO Nasal Spray.
-Acute overdosage by adults with this dosage form is unlikely to result in clinically significant adverse events, other than increased somnolence, since one bottle of ASTEPRO Nasal Spray contains 30 mg of azelastine hydrochloride.
-Clinical studies in adults with single doses of the oral formulation of azelastine hydrochloride (up to 16 mg) have not resulted in increased incidence of serious adverse events.
+Acute overdosage by adults with this dosage form is unlikely to result in clinically significant adverse events, other than increased somnolence, since one 30-mL bottle of ASTEPRO Nasal Spray 0.1% contains up to 30 mg of azelastine hydrochloride and one 30-mL bottle of ASTEPRO Nasal Spray 0.15% contains up to 45 mg of azelastine hydrochloride.
+Clinical trials in adults with single doses of the oral formulation of azelastine hydrochloride (up to 16 mg) have not resulted in increased incidence of serious adverse events.
 General supportive measures should be employed if overdosage occurs.
 There is no known antidote to ASTEPRO Nasal Spray.
 Oral ingestion of antihistamines has the potential to cause serious adverse effects in children.
 Accordingly, ASTEPRO Nasal Spray should be kept out of the reach of children.
-Oral doses of 120 mg/kg and greater (approximately 460 times the maximum recommended daily intranasal dose (MRDID) in adults and children on a mg/m2 basis) were lethal in mice.
+Oral doses of 120 mg/kg and greater (approximately 300 times the maximum recommended human daily intranasal dose [MRHDID] in adults and children on a mg/m2 basis) were lethal in mice.
 Responses seen prior to death were tremor, convulsions, decreased muscle tone, and salivation.
-In dogs, single oral doses as high as 10 mg/kg (approximately 260 times the MRDID in adults and children on a mg/m2 basis) were well tolerated, but single oral doses of 20 mg/kg were lethal.
+In dogs, single oral doses as high as 10 mg/kg (approximately 160 times the MRHDID in adults and children on a mg/m2 basis) were well tolerated, but single oral doses of 20 mg/kg were lethal.
