@@ -16,7 +16,7 @@ Fluids and vasopressors were used to maintain blood pressure and in cases of car
 In addition, some patients received treatment with ventilatory support, gastric lavage, activated charcoal, and/or intravenous calcium.
 
 The effectiveness of intravenous calcium administration to reverse the pharmacological effects of diltiazem overdose has been inconsistent.
-In a few reported cases, overdose with calcium channel blockers associated with hypotension and bradycardia that was initially refractory to atropine became more responsive to after the patients received intravenous calcium.
+In a few reported cases, overdose with calcium channel blockers associated with hypotension and bradycardia that was initially refractory to atropine became more responsive to atropine after the patients received intravenous calcium.
 In some cases intravenous calcium has been administered (1 g calcium chloride or 3 g calcium gluconate) over 5 minutes, and repeated every 10-20 minutes as necessary.
 Calcium gluconate has also been administered as a continuous infusion at a rate of 2 g per hour for 10 hours.
 Infusions of calcium for 24 hours or more may be required.
@@ -35,6 +35,6 @@ Fixed high-degree AV block should be treated with cardiac pacing.
 
 Cardiac Failure: Administer inotropic agents (isoproterenol, dopamine, or dobutamine) and diuretics.
 
-Hypotension: Vasopressors (eg, dopamine or levarterenol bitartrate).
+Hypotension: Vasopressors (e.g., dopamine or norepinephrine).
 
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.

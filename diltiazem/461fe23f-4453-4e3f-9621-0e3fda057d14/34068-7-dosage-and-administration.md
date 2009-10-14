@@ -14,4 +14,4 @@ Concomitant Use With Other Cardiovascular Agents
 - 2.Prophylactic Nitrate Therapy.
   CARDIZEM may be safely coadministered with short- and long-acting nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
 - 3.Beta-blockers.
-  (See WARNINGS and PRECAUTIONS.)
+  (See WARNINGS and PRECAUTIONS).
