@@ -8,7 +8,7 @@ Dosage should be increased more gradually in debilitated or emaciated patients.
 In continued therapy, gradually reduce dosage to the lowest effective maintenance level, after symptoms have been controlled for a reasonable period.
 
 Increase parenteral dosage only if hypotension has not occurred.
-Before using IM, see Important Notes On Injection.
+Before using IM, see Important Notes on Injection.
 
 ### Elderly Patients
 

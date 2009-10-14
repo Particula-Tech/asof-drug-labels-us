@@ -60,23 +60,12 @@ Note: Sudden death, apparently due to cardiac arrest, has been reported.
 Neuromuscular reactions include dystonias, motor restlessness, pseudo-parkinsonism and tardive dyskinesia, and appear to be dose-related.
 They are discussed in the following paragraphs:
 
-#### Dystonias
+#### Dystonia
 
-Symptoms may include spasm of the neck muscles, sometimes progressing to acute, reversible torticollis; extensor rigidity of back muscles, sometimes progressing to opisthotonos; carpopedal spasm, trismus, swallowing difficulty, oculogyric crisis and protrusion of the tongue.
-
-These usually subside within a few hours, and almost always within 24 to 48 hours after the drug has been discontinued.
-
-In mild cases, reassurance or a barbiturate is often sufficient.
-In moderate cases, barbiturates will usually bring rapid relief.
-In more severe adult cases, the administration of an anti-parkinsonism agent, except levodopa, usually produces rapid reversal of symptoms.
-In children (1 to 12 years of age), reassurance and barbiturates will usually control symptoms.
-(Or, parenteral diphenhydramine may be useful.
-See diphenhydramine prescribing information for appropriate children’s dosage.)
-If appropriate treatment with anti-parkinsonism agents or diphenhydramine fails to reverse the signs and symptoms, the diagnosis should be reevaluated.
-
-Suitable supportive measures such as maintaining a clear airway and adequate hydration should be employed when needed.
-If therapy is reinstituted, it should be at a lower dosage.
-Should these symptoms occur in children or pregnant patients, the drug should not be reinstituted.
+Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+An elevated risk of acute dystonia is observed in males and younger age groups.
 
 #### Motor Restlessness
 

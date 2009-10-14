@@ -24,4 +24,4 @@ Deerfield, IL 60015 USA
 
 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
-MLT-19/1.0
+MLT00096,D

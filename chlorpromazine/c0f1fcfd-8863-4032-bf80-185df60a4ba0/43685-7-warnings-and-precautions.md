@@ -1,5 +1,10 @@
 # WARNINGS
 
+Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Chlorpromazine Hydrochloride Injection, USP is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
+
 The extrapyramidal symptoms which can occur secondary to chlorpromazine may be confused with the central nervous system signs of an undiagnosed primary disease responsible for the vomiting, e.g., Reye’s syndrome or other encephalopathy.
 The use of chlorpromazine and other potential hepatotoxins should be avoided in children and adolescents whose signs and symptoms suggest Reye’s syndrome.
 
@@ -28,7 +33,7 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
 
-For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections onPRECAUTIONS and ADVERSE REACTIONS.
+For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONSand ADVERSE REACTIONS.
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -76,6 +81,16 @@ There is evidence that chlorpromazine is excreted in the breast milk of nursing 
 Because of the potential for serious adverse reactions in nursing infants from chlorpromazine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 # PRECAUTIONS
+
+## Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
+
+Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Chlorpromazine Hydrochloride Injection USP at the first sign of a decline in WBC in the absence of other causative factors.
+
+Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Chlorpromazine Hydrochloride Injection USP and have their WBC followed until recovery.
 
 ## General
 

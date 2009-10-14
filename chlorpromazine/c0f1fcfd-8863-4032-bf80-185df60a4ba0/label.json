@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA083329"
+  ],
   "inn": "chlorpromazine",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0641-1398-31",
     "0641-1398-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "chlorpromazine hydrochloride",
+      "name": "Chlorpromazine Hydrochloride"
+    }
+  ],
   "setid": "c0f1fcfd-8863-4032-bf80-185df60a4ba0",
   "source": "dailymed"
 }
