@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-CIPRO I.V.
+CIPRO® I.V.
 (ciprofloxacin) is a synthetic broad-spectrum antimicrobial agent for intravenous (I.V.) administration.
 Ciprofloxacin, a fluoroquinolone, is 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1piperazinyl)-3-quinolinecarboxylic acid.
 Its empirical formula is C17H18FN3O3 and its chemical structure is:

@@ -43,7 +43,7 @@ Levels of the drug in the aqueous and vitreous chambers of the eye are lower tha
 After I.V. administration, three metabolites of ciprofloxacin have been identified in human urine which together account for approximately 10% of the intravenous dose.
 The binding of ciprofloxacin to serum proteins is 20 to 40%.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (see CONTRAINDICATIONS; WARNINGS;PRECAUTIONS: Drug Interactions).
+Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (see CONTRAINDICATIONS; WARNINGS; PRECAUTIONS: Drug Interactions).
 
 ## Excretion
 

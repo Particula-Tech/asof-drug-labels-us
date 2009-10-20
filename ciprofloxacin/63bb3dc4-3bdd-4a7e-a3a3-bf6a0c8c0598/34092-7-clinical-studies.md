@@ -33,9 +33,9 @@ Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post
 | Randomized Patients | 337 | 352 |  |
 | Per Protocol Patients | 211 | 231 |  |
 | Clinical Response at 5 to 9 Days Post-Treatment | 95.7% (202/211) | 92.6% (214/231) |  |
-|  | 95% CI [-1.3%, 7.3%] |  |  |
+|  |  | 95% CI [-1.3%, 7.3%] |  |
 | Bacteriologic Eradication by Patient at 5 to 9 Days Post-TreatmentPatients with baseline pathogen(s) eradicated and no new infections or superinfections/total number of patients. There were 5.5% (6/211) ciprofloxacin and 9.5% (22/231) comparator patients with superinfections or new infections. | 84.4% (178/211) | 78.3% (181/231) |  |
-|  | 95% CI [-1.3%, 13.1%] |  |  |
+|  |  | 95% CI [-1.3%, 13.1%] |  |
 | Bacteriologic Eradication of the Baseline Pathogen at 5 to 9 Days Post-Treatment |  |  |  |
 | Escherichia coli | 156/178 (88%) | 161/179 (90%) |  |
 
@@ -61,3 +61,6 @@ Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post
    Evaluation of a case registry of the European network of teratology information services (ENTIS).
    Eur J Obstet Gynecol Reprod Biol.
    1996;69:83-89.
+
+The following are representative examples of Cipro I.V. labeling.
+See the "How Supplied" section for a complete listing of all components.
