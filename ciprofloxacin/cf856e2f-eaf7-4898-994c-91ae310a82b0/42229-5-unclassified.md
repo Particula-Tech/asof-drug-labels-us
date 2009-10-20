@@ -203,6 +203,6 @@ Appropriate Dosing Volumes of the Oral Suspensions:
 
 Preparation of the suspension:
 
-CIPRO Oral Suspension should not be administered through feeding or NG (nasogastric)tubes due to its physical characteristics.
+CIPRO Oral Suspension should not be administered through feeding or NG (nasogastric) tubes due to its physical characteristics.
 
 Instruct the patient to shake CIPRO Oral Suspension vigorously each time before use for approximately 15 seconds and not to chew the microcapsules.

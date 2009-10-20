@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION - ADULTS
+# DOSAGE AND ADMINISTRATION—ADULTS
 
 CIPRO Tablets and Oral Suspension should be administered orally to adults as described in the Dosage Guidelines table.
 
@@ -31,7 +31,7 @@ ADULT DOSAGE GUIDELINES
 | Gonococcal Infections |  |  |  |  |
 | Inhalational anthrax |  | 500 mg | q 12 h | 60 days |
 | (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure.** |  |  |  |  |
-| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. |  |  |  |  |
+| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX—–ADDITIONAL INFORMATION. |  |  |  |  |
 
 ## Conversion of I.V. to Oral Dosing in Adults:
 
@@ -72,7 +72,7 @@ The serum creatinine should represent a steady state of renal function.
 In patients with severe infections and severe renal impairment, a unit dose of 750 mg may be administered at the intervals noted above.
 Patients should be carefully monitored.
 
-## DOSAGE AND ADMINISTRATION - PEDIATRICS
+## DOSAGE AND ADMINISTRATION—PEDIATRICS
 
 CIPRO Tablets and Oral Suspension should be administered orally as described in the Dosage Guidelines table.
 An increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues, has been observed.
@@ -87,7 +87,7 @@ PEDIATRIC DOSAGE GUIDELINES
 | --- | --- | --- | --- | --- |
 | Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 daysThe total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |
 | Oral | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |  |
-| Inhalational Anthrax (Post- Exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
+| Inhalational Anthrax (Post- Exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX—ADDITIONAL INFORMATION. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
 | Oral | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours |  |  |
 
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of complicated urinary tract infection and pyelonephritis.

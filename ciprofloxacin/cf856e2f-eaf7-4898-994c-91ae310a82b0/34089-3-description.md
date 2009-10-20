@@ -18,8 +18,8 @@ Ciprofloxacin Oral Suspension is a white to slightly yellowish suspension with s
 It is composed of ciprofloxacin microcapsules and diluent which are mixed prior to dispensing (See Instructions for Use/Handling).
 The components of the suspension have the following compositions:
 
-Microcapsules - ciprofloxacin, povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20.
+Microcapsules – ciprofloxacin, povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20.
 
-Diluent - medium-chain triglycerides, sucrose, lecithin, water, and strawberry flavor.
+Diluent – medium-chain triglycerides, sucrose, lecithin, water, and strawberry flavor.
 
 * Does not comply with USP with regard to “loss on drying” and “residue on ignition”.
