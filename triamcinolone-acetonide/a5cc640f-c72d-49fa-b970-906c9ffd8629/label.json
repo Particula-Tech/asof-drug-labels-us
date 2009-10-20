@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA085691"
+  ],
   "inn": "triamcinolone-acetonide",
-  "labeler": "E. FOUGERA and CO.",
+  "labeler": "E. Fougera & CO., A division of Nycomed US Inc.",
   "package_ndcs": [
     "0168-0005-80",
     "0168-0006-15",
     "0168-0006-16",
     "0168-0006-80"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "triamcinolone acetonide",
+      "name": "triamcinolone acetonide"
+    }
+  ],
   "setid": "a5cc640f-c72d-49fa-b970-906c9ffd8629",
   "source": "dailymed"
 }
