@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018086"
+  ],
+  "inn": "timolol",
+  "labeler": "Aton Pharma, Inc.",
+  "package_ndcs": [
+    "25010-812-56",
+    "25010-813-16",
+    "25010-813-56"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "timolol maleate",
+      "name": "Timoptic"
+    }
+  ],
+  "setid": "98d81fc6-4482-45e5-8106-4dfd56f3433b",
+  "source": "dailymed"
+}
