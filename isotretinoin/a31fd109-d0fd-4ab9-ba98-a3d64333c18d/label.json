@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA076135",
+    "ANDA076356"
+  ],
+  "inn": "isotretinoin",
+  "labeler": "Barr Laboratories Inc.",
+  "package_ndcs": [
+    "0555-1054-56",
+    "0555-1054-86",
+    "0555-1055-56",
+    "0555-1055-86",
+    "0555-1056-86",
+    "0555-1057-56",
+    "0555-1057-86"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "isotretinoin",
+      "name": "Claravis"
+    }
+  ],
+  "setid": "a31fd109-d0fd-4ab9-ba98-a3d64333c18d",
+  "source": "dailymed"
+}
