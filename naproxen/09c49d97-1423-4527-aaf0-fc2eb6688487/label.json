@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020353"
+  ],
+  "inn": "naproxen",
+  "labeler": "Victory Pharma, Inc.",
+  "package_ndcs": [
+    "68453-375-10",
+    "68453-777-03",
+    "68453-850-75",
+    "68453-900-02"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "naproxen sodium",
+      "name": "NAPRELAN"
+    },
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "naproxen sodium",
+      "name": "NAPRELAN"
+    }
+  ],
+  "setid": "09c49d97-1423-4527-aaf0-fc2eb6688487",
+  "source": "dailymed"
+}
