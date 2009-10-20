@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020873"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "The Medicines Company",
+  "package_ndcs": [
+    "65293-001-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bivalirudin",
+      "name": "Angiomax"
+    }
+  ],
+  "setid": "911cd48f-01ea-4dec-b30c-95e7e0ea9d2a",
+  "source": "dailymed"
+}
