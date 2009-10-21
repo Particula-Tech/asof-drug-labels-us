@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050753"
+  ],
   "inn": "tobramycin",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0494-61",
     "0078-0494-71"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin",
+      "name": "TOBI"
+    }
+  ],
   "setid": "94f9e516-6bf6-4e30-8dde-8833c25c2560",
   "source": "dailymed"
 }

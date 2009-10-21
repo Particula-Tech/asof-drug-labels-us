@@ -53,7 +53,5 @@ Table 1: Percent of Patients With Treatment Emergent Adverse Experiences Occurri
 | Dizziness | 5.8 | 7.6 |
 | Hyperventilation | 5.4 | 9.9 |
 | Rash | 5.4 | 6.1 |
-
-1 Includes subjective complaints of fever.
-
-2 Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration.
+| 1 Includes subjective complaints of fever. |  |  |
+| 2 Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. |  |  |

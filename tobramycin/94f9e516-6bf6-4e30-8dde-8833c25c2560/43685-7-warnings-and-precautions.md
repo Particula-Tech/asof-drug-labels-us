@@ -249,7 +249,7 @@ Compressor: 1-800-333-4000
 
 TOBI®: 1-888-NOW-NOVA (1-888-669-6682)
 
-Laboratory Tests
+## Laboratory Tests
 
 Audiograms
 
@@ -283,7 +283,7 @@ The clinical formulation of the drug was used for this carcinogenicity study.
 Serum levels of tobramycin of up to 35 mcg/mL were measured in rats, in contrast to the average 1 mcg/mL levels observed in cystic fibrosis patients in clinical trials.
 There was no drug-related increase in the incidence of any variety of tumor.
 
-Additionally, TOBI® as been evaluated for genotoxicity in a battery of in-vitro and in-vivo tests.
+Additionally, TOBI® has been evaluated for genotoxicity in a battery of in-vitro and in-vivo tests.
 The Ames bacterial reversion test, conducted with 5 tester strains, failed to show a significant increase in revertants with or without metabolic activation in all strains.
 Tobramycin was negative in the mouse lymphoma forward mutation assay, did not induce chromosomal aberrations in Chinese hamster ovary cells, and was negative in the mouse micronucleus test.
 
@@ -291,7 +291,7 @@ Subcutaneous administration of up to 100 mg/kg of tobramycin did not affect mati
 
 ## Pregnancy
 
-Teratogenic Effects – Pregnancy Category D
+### Teratogenic Effects – Pregnancy Category D
 
 (See WARNINGS.)
 
