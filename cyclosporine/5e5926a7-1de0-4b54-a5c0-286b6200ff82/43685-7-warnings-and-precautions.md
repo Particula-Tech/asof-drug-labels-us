@@ -83,6 +83,14 @@ The increased risk appears related to the intensity and duration of immunosuppre
 Because of the danger of oversuppression of the immune system, which can also increase susceptibility to infection, Sandimmune® (cyclosporine) should not be administered with other immunosuppressive agents except adrenal corticosteroids.
 The efficacy and safety of cyclosporine in combination with other immunosuppressive agents have not been determined.
 
+## Latent Viral Infections
+
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include BK virus-associated nephropathy which has been observed in patients receiving immunosuppressants, including Sandimmune.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
+Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
+
 There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high-dose methylprednisolone.
 
 Encephalopathy has been described both in postmarketing reports and in the literature.
@@ -148,7 +156,7 @@ Renal and liver functions should be assessed repeatedly by measurement of BUN, s
 All of the individual drugs cited below are well substantiated to interact with cyclosporine.
 In addition, concomitant nonsteroidal anti-inflammatory drugs, particularly in the setting of dehydration, may potentiate renal dysfunction.
 
-### Drugs That May Potentiate Renal Dysfunction
+Drugs That May Potentiate Renal Dysfunction
 
 | Antibiotics | Antineoplastic | Antifungals | Anti-Inflammatory Drugs | Gastrointestinal Agents | Immunosuppressives | Other Drugs |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -167,7 +175,7 @@ Substances that are inducers of cytochrome P-450 activity could increase metabol
 Monitoring of circulating cyclosporine concentrations and appropriate Sandimmune® (cyclosporine) dosage adjustment are essential when these drugs are used concomitantly.
 (See Blood Level Monitoring.)
 
-### Drugs That Increase Cyclosporine Concentrations
+Drugs That Increase Cyclosporine Concentrations
 
 | Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
 | --- | --- | --- | --- | --- |
@@ -185,7 +193,7 @@ Care should be exercised when these drugs are administered concomitantly.
 
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
 
-### Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
+Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
 | Antibiotics | Anticonvulsants | Other Drugs / Dietary Supplements |  |
 | --- | --- | --- | --- |

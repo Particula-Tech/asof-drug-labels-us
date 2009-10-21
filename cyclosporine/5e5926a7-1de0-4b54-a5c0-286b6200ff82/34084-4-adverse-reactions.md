@@ -86,3 +86,8 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 
 Cremophor® EL (polyoxyethylated castor oil) is known to cause hyperlipemia and electrophoretic abnormalities of lipoproteins.
 These effects are reversible upon discontinuation of treatment but are usually not a reason to stop treatment.
+
+## Postmarketing Experience
+
+BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Sandimmune.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS).

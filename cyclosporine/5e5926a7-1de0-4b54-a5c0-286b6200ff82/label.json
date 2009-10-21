@@ -1,5 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050573",
+    "NDA050574",
+    "NDA050625"
+  ],
   "inn": "cyclosporine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -8,7 +12,23 @@
     "0078-0240-15",
     "0078-0241-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "cyclosporine",
+      "name": "Sandimmune"
+    },
+    {
+      "form": "INJECTION",
+      "generic": "cyclosporine",
+      "name": "Sandimmune"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "cyclosporine",
+      "name": "Sandimmune"
+    }
+  ],
   "setid": "5e5926a7-1de0-4b54-a5c0-286b6200ff82",
   "source": "dailymed"
 }
