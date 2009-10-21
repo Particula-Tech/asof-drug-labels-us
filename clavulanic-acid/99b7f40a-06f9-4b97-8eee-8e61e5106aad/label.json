@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065358"
+  ],
+  "inn": "clavulanic-acid",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-6139-48",
+    "0781-6139-54",
+    "0781-6139-57"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "Amoxicillin and Clavulanate Potassium"
+    }
+  ],
+  "setid": "99b7f40a-06f9-4b97-8eee-8e61e5106aad",
+  "source": "dailymed"
+}
