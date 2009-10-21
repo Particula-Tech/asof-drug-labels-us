@@ -23,7 +23,10 @@ The efficacy and safety of the use of CellCept in combination with other immunos
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections, fatal infections, and sepsis.
 In patients receiving CellCept (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
 
-## Progressive Multifocal Leukoencephalopathy (PML)
+## Latent Viral Infections
+
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include cases of progressive multifocal leukoencephalopathy (PML) and BK virus-associated nephropathy (BKVAN) which have been observed in patients receiving immunosuppressants, including CellCept.
 
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
 Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
@@ -31,6 +34,10 @@ The reported cases generally had risk factors for PML, including treatment with 
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
 Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
 In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
+
+BKVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS: Postmarketing Experience).
+Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
+Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
 ## Pregnancy
 

@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions associated with the administration of CellCept include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS: Infections and WARNINGS: Progressive Multifocal Leukoencephalopathy (PML)).
+The principal adverse reactions associated with the administration of CellCept include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS: Infections and WARNINGS: Latent Viral Infections).
 The adverse event profile associated with the administration of CellCept Intravenous has been shown to be similar to that observed after administration of oral dosage forms of CellCept.
 
 ## CellCept Oral
@@ -107,7 +107,7 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving CellCept 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION).
 
 All transplant patients are at increased risk of opportunistic infections.
-The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Progressive Multifocal Leukoencephalopathy (PML)).
+The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Latent Viral Infections).
 Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
 Table 9 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
@@ -181,11 +181,13 @@ Hematologic and Lymphatic
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept in combination with other immunosuppressive agents.
 
-Resistance Mechanism Disorders
+Infections
 
 Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
+BK virus-associated nephropathy has been observed in patients receiving immunosuppressants, including CellCept.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
 
 Respiratory
 

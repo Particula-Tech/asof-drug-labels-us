@@ -35,8 +35,12 @@ CellCept can cause serious side effects:
   Serious infections can happen with CellCept and can lead to death.
   Types of infections can include:
   - Viral infections.
-    Viral infections, including shingles, other herpes infections, and cytomegalovirus (CMV), can happen with CellCept.
-    CMV can cause serious tissue and blood infections
+    Certain viruses can live in your body and cause active infections when your immune system is weak.
+    Viral infections that can happen with CellCept include:
+    - Shingles, other herpes infections, and cytomegalovirus (CMV).
+      CMV can cause serious tissue and blood infections.
+    - BK virus.
+      BK virus can affect how your kidney works and cause your transplanted kidney to fail.
   - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
     In some patients, CellCept may cause an infection of the brain that may cause death.
     You are at risk for this brain infection because you have a weakened immune system.
@@ -244,11 +248,11 @@ CellCept, Cytovene-IV, and Valcyte are registered trademarks of Hoffmann-La Roch
 
 Distributed by: Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
 
-MG Revised: June 2009
+MG Revised: October 2009
 
 For additional copies of this Medication Guide, please call 1-800-617-8191 or visit www.rocheusa.com/products/cellcept.
 
-CTCTIO_1061443_PI/MG_062009_N CTCTIO_1061443_PI/MG_062009_K 27899687
+CTCTIO_1061443_PI/MG_082009_N CTCTIO_1061443_PI/MG_082009_K 27899732
 
 Copyright © 1998-2009 by Roche Laboratories Inc. All rights reserved.
 
