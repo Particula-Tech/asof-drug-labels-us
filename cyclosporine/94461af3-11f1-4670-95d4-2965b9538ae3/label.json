@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050715",
+    "NDA050716"
+  ],
   "inn": "cyclosporine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -7,7 +10,18 @@
     "0078-0248-15",
     "0078-0274-22"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "cyclosporine",
+      "name": "Neoral"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "cyclosporine",
+      "name": "Neoral"
+    }
+  ],
   "setid": "94461af3-11f1-4670-95d4-2965b9538ae3",
   "source": "dailymed"
 }

@@ -9,8 +9,8 @@ Neoral®, a systemic immunosuppressant, may increase the susceptibility to infec
 In kidney, liver, and heart transplant patients Neoral® may be administered with other immunosuppressive agents.
 Increased susceptibility to infection and the possible development of lymphoma and other neoplasms may result from the increase in the degree of immunosuppression in transplant patients.
 
-Neoral® Soft Gelatin Capsules (cyclosporine capsules, USP) MODIFIED and Neoral®Oral Solution (cyclosporine oral solution, USP) MODIFIED have increased bioavailability in comparison to Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP) and Sandimmune® Oral Solution (cyclosporine oral solution, USP).
-Neoral®and Sandimmune® are not bioequivalent and cannot be used interchangeably without physician supervision.
+Neoral® Soft Gelatin Capsules (cyclosporine capsules, USP) MODIFIED and Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED have increased bioavailability in comparison to Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP) and Sandimmune® Oral Solution (cyclosporine oral solution, USP).
+Neoral® and Sandimmune® are not bioequivalent and cannot be used interchangeably without physician supervision.
 For a given trough concentration, cyclosporine exposure will be greater with Neoral® than with Sandimmune®.
 If a patient who is receiving exceptionally high doses of Sandimmune® is converted to Neoral®, particular caution should be exercised.
 Cyclosporine blood concentrations should be monitored in transplant and rheumatoid arthritis patients taking Neoral® to avoid toxicity due to high concentrations.

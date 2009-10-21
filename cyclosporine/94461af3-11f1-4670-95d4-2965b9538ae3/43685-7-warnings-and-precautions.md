@@ -44,7 +44,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 | Parameter | Nephrotoxicity | Rejection |
 | History | Donor >50 years old or hypotensive Prolonged kidney preservation Prolonged anastomosis time Concomitant nephrotoxic drugs | Anti-donor immune response Retransplant patient |
 | Clinical | Often >6 weeks postopb Prolonged initial nonfunction (acute tubular necrosis) | Often < 4 weeks postopb Fever > 37.5°C Weight gain > 0.5 kg Graft swelling and tenderness Decrease in daily urine volume > 500 mL (or 50%) |
-| Laboratory | CyA serum trough level > 200 ng/mL Gradual rise in Cr (< 0.15 mg/dl/day)a Cr plateau < 25% above baseline BUN/Cr ≥ 20 | CyA serum trough level < 150 ng/mL Rapid rise in Cr (> 0.3 mg/dl/day) a Cr > 25% above baseline BUN/Cr < 20 |
+| Laboratory | CyA serum trough level > 200 ng/mL Gradual rise in Cr (< 0.15 mg/dl/day)a Cr plateau < 25% above baseline BUN/Cr ≥ 20 | CyA serum trough level < 150 ng/mL Rapid rise in Cr (> 0.3 mg/dl/day)a Cr > 25% above baseline BUN/Cr < 20 |
 | Biopsy | Arteriolopathy (medial hypertrophy a, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) Tubular atrophy, isometric vacuolization, isolated calcifications Minimal edema Mild focal infiltratesc Diffuse interstitial fibrosis, often striped form | Endovasculitisc (proliferationa, intimal arteritisb, necrosis, sclerosis) Tubulitis with RBCb and WBCb casts, some irregular vacuolization Interstitial edemac and hemorrhageb Diffuse moderate to severe mononuclear infiltratesd Glomerulitis (mononuclear cells)c |
 | Aspiration Cytology | CyA deposits in tubular and endothelial cells Fine isometric vacuolization of tubular cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells These strongly express HLA-DR antigens |
 | Urine Cytology | Tubular cells with vacuolization and granularization | Degenerative tubular cells, plasma cells, and lymphocyturia > 20% of sediment |
@@ -52,8 +52,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 | Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling image intensity of parachyma approaching that of psoas, loss of hilar fat |
 | Radionuclide Scan | Normal or generally decreased perfusion Decrease in tubular function (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Patchy arterial flow Decrease in perfusion > decrease in tubular function Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
 | Therapy | Responds to decreased cyclosporine | Responds to increased steroids or antilymphocyte globulin |
-
-ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001
+| ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001 |  |  |
 
 A form of a cyclosporine-associated nephropathy is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
 From 5%-15% of transplant recipients who have received cyclosporine will fail to show a reduction in rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
@@ -83,8 +82,19 @@ This was usually noted during the first month of therapy when high doses of cycl
 The chemistry elevations usually decreased with a reduction in dosage.
 
 As in patients receiving other immunosuppressants, those patients receiving cyclosporine are at increased risk for development of lymphomas and other malignancies, particularly those of the skin.
+Patients taking cyclosporine should be warned to avoid excess ultraviolet light exposure.
 The increased risk appears related to the intensity and duration of immunosuppression rather than to the use of specific agents.
 Because of the danger of oversuppression of the immune system resulting in increased risk of infection or malignancy, a treatment regimen containing multiple immunosuppressants should be used with caution.
+Some malignancies may be fatal.
+Transplant patients receiving cyclosporine are at increased risk for serious infection with fatal outcome.
+
+Latent Viral Infections
+
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include BK virus-associated nephropathy which has been observed in patients receiving immunosuppressants, including Neoral.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
+Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
 There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high dose methylprednisolone.
 
@@ -254,16 +264,15 @@ In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in 
 | --- | --- | --- | --- | --- | --- | --- |
 | ciprofloxacin | melphalan | amphotericin B | azapropazon | cimetidine | tacrolimus | fibric acid derivatives |
 | gentamicin |  | ketoconazole | colchicine | ranitidine |  | (e.g., bezafibrate, fenofibrate) |
-| tobramycin |  |  | diclofenac |  |  |  |
+| tobramycin |  |  | diclofenac |  |  | methotrexate |
 | vancomycin |  |  | naproxen |  |  |  |
 | trimethoprim with sulfamethoxazole |  |  | sulindac |  |  |  |
 
 ### Drugs That Alter Cyclosporine Concentrations
 
+Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
+Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Cyclosporine is extensively metabolized by cytochrome P-450 3A.
-Substances that inhibit this enzyme could decrease metabolism and increase cyclosporine concentrations.
-Substances that are inducers of cytochrome P-450 activity could increase metabolism and decrease cyclosporine concentrations.
 Monitoring of circulating cyclosporine concentrations and appropriate Neoral® dosage adjustment are essential when these drugs are used concomitantly.
 (See Blood Concentration Monitoring)
 
@@ -271,13 +280,14 @@ Monitoring of circulating cyclosporine concentrations and appropriate Neoral® d
 
 | Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
 | --- | --- | --- | --- | --- |
-| diltiazem | fluconazole | azithromycin | methylprednisolone | allopurinol |
-| nicardipine | itraconazole | clarithromycin |  | amiodarone |
-| verapamil | ketoconazole | erythromycin |  | bromocriptine |
-|  |  | quinupristin/ dalfopristin |  | colchicine |
+| diltiazem | fluconazole | azithromycin | methylprednisolone | Allopurinol |
+| nicardipine | itraconazole | clarithromycin |  | Amiodarone |
+| verapamil | ketoconazole | erythromycin |  | Bromocriptine |
+|  | voriconazole | quinupristin/ dalfopristin |  | colchicine |
 |  |  |  |  | danazol |
 |  |  |  |  | imatinib |
 |  |  |  |  | metoclopramide |
+|  |  |  |  | nefazodone |
 |  |  |  |  | oral contraceptives |
 
 The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
@@ -289,8 +299,9 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 
 | Antibiotics | Anticonvulsants | Other Drugs/Dietary Supplements |  |
 | --- | --- | --- | --- |
-| nafcillin | carbamazepine | octreotide | St. John’s Wort |
-| rifampin | phenobarbital | orlistat |  |
+| nafcillin | carbamazepine | bosentan | St. John’s Wort |
+| rifampin | oxcarbazepine | octreotide |  |
+|  | phenobarbital | orlistat |  |
 |  | phenytoin | sulfinpyrazone |  |
 |  |  | terbinafine |  |
 |  |  | ticlopidine |  |
@@ -319,7 +330,9 @@ Cyclosporine concentrations do not appear to have been altered (N=6).
 
 ### Other Drug Interactions
 
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone and HMG-CoA reductase inhibitors (statins).
+Cyclosporine is an inhibitor of CYP3A4 and of the multidrug efflux transporter P-glycoprotein and may increase plasma concentrations of comedications that are substrates of CYP3A4 or P-glycoprotein or both.
+
+Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins) and etoposide.
 Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin.
 There are also reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
 If digoxin or colchicine are used concurrently with cyclosporine, close clinical observation is required in order to enable early detection of toxic manifestations of digoxin or colchicine, followed by reduction of dosage or its withdrawal.
@@ -327,6 +340,10 @@ If digoxin or colchicine are used concurrently with cyclosporine, close clinical
 Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and, rarely fluvastatin.
 When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
 Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
+
+Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
+In 12 healthy male subjects who received two doses of 100mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25mg repaglinide tablet (one half of a 0.5mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
+Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
 Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur.
 Caution is also required when cyclosporine is co-administered with potassium sparing drugs (e.g. angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium containing drugs as well as in patients on a potassium rich diet.

@@ -47,6 +47,12 @@ The following reactions occurred in 2% or less of Sandimmune®-treated patients:
 
 The following reactions occurred rarely: anxiety, chest pain, constipation, depression, hair breaking, hematuria, joint pain, lethargy, mouth sores, myocardial infarction, night sweats, pancreatitis, pruritus, swallowing difficulty, tingling, upper GI bleeding, visual disturbance, weakness, weight loss.
 
+Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
+Both generalized and localized infections can occur.
+Pre-existing infections may also be aggravated.
+Fatal outcomes have been reported.
+(see Warnings)
+
 | Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune® |  |  |
 | --- | --- | --- |
 |  | Cyclosporine Treatment | Azathioprine with Steroids* |
@@ -61,8 +67,13 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Urinary Tract Infections | 21.1 | 20.2 |
 | Wound and Skin Infections | 7.0 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
+| *Some patients also received ALG. |  |  |
 
-*Some patients also received ALG.
+## Postmarketing Experience, Kidney, Liver and Heart Transplantation
+
+BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Neoral.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+(see WARNINGS, Kidney, Liver and Heart Transplant).
 
 ## Rheumatoid Arthritis
 
@@ -154,8 +165,7 @@ The following adverse events occurred in controlled clinical trials:
 |  | Urinary Tract Infection | 0% | 3% |  | 5% |  | 4% |  | 3% | 0% |
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |  |  |  |
 |  | Purpura | 3% | 4% |  | 1% |  | 1% |  | 2% | 0% |
-
-† Includes patients in 2.5 mg/kg/day dose group only. *NOS = Not Otherwise Specified.
+| † Includes patients in 2.5 mg/kg/day dose group only. *NOS = Not Otherwise Specified. |  |  |  |  |  |  |  |  |  |  |
 
 In addition, the following adverse events have been reported in 1% to <3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
@@ -213,7 +223,7 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 | Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials |  |  |  |
 | --- | --- | --- | --- |
-| Body System* | Preferred Term | Neoral® (N=182) | Sandimmune®(N=185) |
+| Body System* | Preferred Term | Neoral® (N=182) | Sandimmune® (N=185) |
 | Infection or Potential Infection |  | 24.7% | 24.3% |
 |  | Influenza-Like Symptoms | 9.9% | 8.1% |
 |  | Upper Respiratory Tract Infections | 7.7% | 11.3% |
@@ -243,8 +253,7 @@ These elevations are likely to become more pronounced and may result in irrevers
 |  | Gum Hyperplasia | 3.8% | 6.0% |
 |  | Nausea | 5.5% | 5.9% |
 | White cell and RES |  | 4.4% | 2.7% |
-
-*Total percentage of events within the system **Newly occurring hypertension = SBP≥160 mm Hg and/or DBP≥90 mm Hg
+| *Total percentage of events within the system **Newly occurring hypertension = SBP≥160 mm Hg and/or DBP≥90 mm Hg |  |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 

@@ -13,15 +13,15 @@ Chemically, cyclosporine is designated as [R-[R*,R*-(E)]]-cyclic-(L-alanyl-D-ala
 
 Each 25 mg capsule contains:
 
-cyclosporine……………………………………………………………………………...25 mg
+cyclosporine………………………………………………………………………………25 mg
 
-alcohol, USP dehydrated……..............................................................11.9% v/v (9.5% wt/vol.)
+alcohol, USP dehydrated......................................................................11.9% v/v (9.5% wt/vol.)
 
 Each 100 mg capsule contains:
 
 cyclosporine……………………………………………………………………………...100 mg
 
-alcohol, USP dehydrated……...............................................................11.9% v/v (9.5% wt/vol.)
+alcohol, USP dehydrated.......................................................................11.9% v/v (9.5% wt/vol.)
 
 Inactive Ingredients: Corn oil-mono-di-triglycerides, polyoxyl 40 hydrogenated castor oil NF, DL-α-tocopherol USP, gelatin NF, glycerol, iron oxide black, propylene glycol USP, titanium dioxide USP, carmine, and other ingredients.
 
@@ -31,9 +31,9 @@ Inactive Ingredients: Corn oil-mono-di-triglycerides, polyoxyl 40 hydrogenated c
 
 Each mL contains:
 
-cyclosporine…………………………………………………………………………100 mg/mL
+cyclosporine……………………...............................................................................100 mg/mL
 
-alcohol, USP dehydrated......................................................................11.9% v/v (9.5% wt/vol.)
+alcohol, USP dehydrated.....................................................................11.9% v/v (9.5% wt/vol.)
 
 Inactive Ingredients: Corn oil-mono-di-triglycerides, polyoxyl 40 hydrogenated castor oil NF, DL-α -tocopherol USP, propylene glycol USP.
 

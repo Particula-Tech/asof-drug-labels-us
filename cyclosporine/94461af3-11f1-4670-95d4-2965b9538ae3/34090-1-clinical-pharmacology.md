@@ -63,18 +63,7 @@ When the patients were administered Neoral® with and without T-tube diversion o
 | (N=23) |  |  |  |  |  |  |  |
 | De novo psoriasis6 | 189±69.8 | 2.48±0.65 | 2324±1048 | 655±186 | 74.9±46.7 | 723±186 | 10.2±3.9 |
 | Week 4 (N=18) |  |  |  |  |  |  |  |
-
-1Total daily dose was divided into two doses administered every 12 hours
-
-2AUC was measured over one dosing interval
-
-3Trough concentration was measured just prior to the morning Neoral® dose, approximately 12 hours after the previous dose
-
-4Assay: TDx specific monoclonal fluorescence polarization immunoassay
-
-5Assay: Cyclo-trac specific monoclonal radioimmunoassay
-
-6Assay: INCSTAR specific monoclonal radioimmunoassay
+| 1Total daily dose was divided into two doses administered every 12 hours 2AUC was measured over one dosing interval 3Trough concentration was measured just prior to the morning Neoral® dose, approximately 12 hours after the previous dose 4Assay: TDx specific monoclonal fluorescence polarization immunoassay 5Assay: Cyclo-trac specific monoclonal radioimmunoassay 6Assay: INCSTAR specific monoclonal radioimmunoassay |  |  |  |  |  |  |  |
 
 ## Distribution
 
@@ -132,8 +121,7 @@ In 7 liver de novo transplant patients aged 1.4-10 years, the absolute bioavaila
 | Age 8-15, Dosed BID (N=5) | 158±55 | 5.51±1.91 | 4452±2475 | 1013±635 | 328±121 | 11.0±1.9 |
 | Stable renal transplant3 |  |  |  |  |  |  |
 | Age 7-15, Dosed BID (N=5) | 328±83 | 7.37±4.11 | 6922±1988 | 1827±487 | 418±143 | 8.7±2.9 |
-
-1AUC was measured over one dosing interval 2Assay: Cyclo-trac specific monoclonal radioimmunoassay 3Assay: TDx specific monoclonal fluorescence polarization immunoassay
+| 1AUC was measured over one dosing interval 2Assay: Cyclo-trac specific monoclonal radioimmunoassay 3Assay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |
 
 ### Geriatric Population
 
