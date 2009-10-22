@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA070730"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1335-5"
+  ],
+  "products": [
+    {
+      "form": "PASTE ",
+      "generic": "triamcinolone acetonide",
+      "name": "Oralone"
+    }
+  ],
+  "setid": "ac1e2116-795e-4c20-974d-11fa07cf0fa7",
+  "source": "dailymed"
+}
