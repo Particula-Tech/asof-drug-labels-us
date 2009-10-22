@@ -65,7 +65,7 @@ In addition to the adverse events listed above, the following events have been r
 Because many of these events were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to their seriousness or potential causal connection to mesalamine:
 
-Body as a Whole: Neck pain, facial edema, edema, lupus-like syndrome.
+Body as a Whole: Neck pain, facial edema, edema, lupus-like syndrome, drug fever (rare).
 
 Cardiovascular: Pericarditis (rare), myocarditis (rare).
 
@@ -87,6 +87,7 @@ Skin: Alopecia, psoriasis (rare), pyoderma gangrenosum (rare), dry skin, erythem
 
 Special Senses: Eye pain, taste perversion, blurred vision, tinnitus.
 
-Urogenital: Interstitial nephritis (See also Renal subsection in PRECAUTIONS), minimal change nephropathy (See also Renal subsection in PRECAUTIONS), dysuria, urinary urgency, hematuria, epididymitis, menorrhagia.
+Urogenital: Renal Failure (rare), interstitial nephritis, minimal change nephropathy (See also Renal subsection in PRECAUTIONS).
+Dysuria, urinary urgency, hematuria, epididymitis, menorrhagia.
 
 Laboratory Abnormalities: Elevated AST (SGOT) or ALT (SGPT), elevated alkaline phosphatase, elevated GGT, elevated LDH, elevated bilirubin, elevated serum creatinine and BUN.

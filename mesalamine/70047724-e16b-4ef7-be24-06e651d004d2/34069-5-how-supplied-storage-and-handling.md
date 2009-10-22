@@ -5,10 +5,3 @@ Asacol tablets are available as red-brown, capsule-shaped tablets containing 400
 NDC 0149-0752-15 Bottle of 180
 
 Store at controlled room temperature 20°- 25°C (68°- 77°F) [See USP].
-
-Procter & Gamble Pharmaceuticals,Inc Cincinnati, OH 45202 under license from Medeva Pharma Schweiz AG registered trademark owner.
-Made in Germany, D-64331 Weiterstadt
-
-U.S. Patent Nos. 5,541,170 and 5,541,171
-
-REVISED October 2007
