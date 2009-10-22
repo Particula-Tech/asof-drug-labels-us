@@ -7,25 +7,25 @@ Sandostatin Injection is available as: sterile 1-mL ampuls in 3 strengths, conta
 
 Each ampul also contains:
 
-lactic acid, USP…………………………………………………………………3.4 mg
+lactic acid, USP 3.4 mg
 
-mannitol, USP……………………………………………………………………45 mg
+mannitol, USP 45 mg
 
-sodium bicarbonate, USP……………………………………………qs to pH 4.2 ± 0.3
+sodium bicarbonate, USP qs to pH 4.2 ± 0.3
 
-water for injection, USP……………………………………………………..qs to 1 mL
+water for injection, USP qs to 1 mL
 
 Each mL of the multi-dose vials also contains:
 
-lactic acid, USP………………………………………………………………....3.4 mg
+lactic acid, USP 3.4 mg
 
-mannitol, USP……………………………………………………………………45 mg
+mannitol, USP 45 mg
 
-phenol, USP……………………………………………………………………..5.0 mg
+phenol, USP 5.0 mg
 
-sodium bicarbonate, USP……………………………………………qs to pH 4.2 ± 0.3
+sodium bicarbonate, USP qs to pH 4.2 ± 0.3
 
-water for injection, USP……………………………………………………..qs to 1 mL
+water for injection, USP qs to 1 mL
 
 Lactic acid and sodium bicarbonate are added to provide a buffered solution, pH to 4.2 ± 0.3.
 

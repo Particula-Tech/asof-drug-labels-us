@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019667"
+  ],
   "inn": "octreotide",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -9,7 +11,13 @@
     "0078-0183-25",
     "0078-0184-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "octreotide acetate",
+      "name": "Sandostatin"
+    }
+  ],
   "setid": "4e2c9856-1836-49f0-9472-4dbeeb408f39",
   "source": "dailymed"
 }

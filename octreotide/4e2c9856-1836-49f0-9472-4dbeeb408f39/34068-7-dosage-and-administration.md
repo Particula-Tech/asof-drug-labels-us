@@ -24,7 +24,7 @@ Dosage information for patients with specific tumors follows.
 Dosage may be initiated at 50 mcg t.i.d.
 Beginning with this low dose may permit adaptation to adverse gastrointestinal effects for patients who will require higher doses.
 IGF-I (somatomedin C) levels every 2 weeks can be used to guide titration.
-Alternatively, multiple growth hormone levels at 0-8 hours after Sandostatin administration permit more rapid titration of dose.
+Alternatively, multiple growth hormone levels at 0-8 hours after Sandostatin® (octreotide acetate) administration permit more rapid titration of dose.
 The goal is to achieve growth hormone levels less than 5 ng/mL or IGF-I (somatomedin C) levels less than 1.9 U/mL in males and less than 2.2 U/mL in females.
 The dose most commonly found to be effective is 100 mcg t.i.d., but some patients require up to 500 mcg t.i.d. for maximum effectiveness.
 Doses greater than 300 mcg/day seldom result in additional biochemical benefit, and if an increase in dose fails to provide additional benefit, the dose should be reduced.

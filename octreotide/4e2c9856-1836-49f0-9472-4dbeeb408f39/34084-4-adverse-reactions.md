@@ -6,7 +6,7 @@ Gallbladder abnormalities, especially stones and/or biliary sludge, frequently d
 
 ## Cardiac
 
-In acromegalics, sinus bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during Sandostatin therapy (see PRECAUTIONS - General).
+In acromegalics, sinus bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during Sandostatin therapy (see PRECAUTIONS – General).
 
 ## Gastrointestinal
 
@@ -16,7 +16,7 @@ These symptoms were seen in 5%-10% of patients with other disorders.
 The frequency of these symptoms was not dose-related, but diarrhea and abdominal discomfort generally resolved more quickly in patients treated with 300 mcg/day than in those treated with 750 mcg/day.
 Vomiting, flatulence, abnormal stools, abdominal distention, and constipation were each seen in less than 10% of patients.
 
-In rare instances, gastrointestinal side effects may resemble acute intestinal obstruction, with progressive abdominal distention, severe epigastric pain, abdominal tenderness and guarding.
+In rare instances, gastrointestinal side effects may resemble acute intestinal obstruction, with progressive abdominal distension, severe epigastric pain, abdominal tenderness and guarding.
 
 ## Hypo/Hyperglycemia
 
@@ -25,7 +25,7 @@ Symptoms of hypoglycemia were noted in approximately 2% of patients.
 
 ## Hypothyroidism
 
-In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during Sandostatin therapy (see PRECAUTIONS - General).
+In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during Sandostatin therapy (see PRECAUTIONS – General).
 In patients without acromegaly, hypothyroidism has only been reported in several isolated patients and goiter has not been reported.
 
 ## Other Adverse Events

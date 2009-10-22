@@ -20,6 +20,12 @@ Cardiac conduction abnormalities have also occurred during treatment with Sandos
 However, the incidence of these adverse events during long-term therapy was determined vigorously only in acromegaly patients who, due to their underlying disease and/or the subsequent treatment they receive, are at an increased risk for the development of diabetes mellitus, hypothyroidism, and cardiovascular disease.
 Although the degree to which these abnormalities are related to Sandostatin therapy is not clear, new abnormalities of glycemic control, thyroid function and ECG developed during Sandostatin therapy as described below.
 
+Risk of Pregnancy with Normalization of IGF-1 and GH
+
+Although acromegaly may lead to infertility, there are reports of pregnancy in acromegalic women.
+In women with active acromegaly who have been unable to become pregnant, normalization of GH and IGF-1 may restore fertility.
+Female patients of childbearing potential should be advised to use adequate contraception during treatment with octreotide.
+
 The hypoglycemia or hyperglycemia which occurs during Sandostatin therapy is usually mild, but may result in overt diabetes mellitus or necessitate dose changes in insulin or other hypoglycemic agents.
 Hypoglycemia and hyperglycemia occurred on Sandostatin in 3% and 16% of acromegalic patients, respectively.
 Severe hyperglycemia, subsequent pneumonia, and death following initiation of Sandostatin therapy was reported in one patient with no history of hyperglycemia.
@@ -63,7 +69,7 @@ Carcinoid: 5-HIAA (urinary 5-hydroxyindole acetic acid), plasma serotonin, plasm
 
 VIPoma: VIP (plasma vasoactive intestinal peptide)
 
-Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS - General).
+Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS – General).
 
 ## Drug Interactions
 
@@ -92,18 +98,22 @@ There have been no reports of injection site tumors in patients treated with San
 There was also a 15% incidence of uterine adenocarcinomas in the 1250 mcg/kg/day females compared to 7% in the saline-control females and 0% in the vehicle-control females.
 The presence of endometritis coupled with the absence of corpora lutea, the reduction in mammary fibroadenomas, and the presence of uterine dilatation suggest that the uterine tumors were associated with estrogen dominance in the aged female rats which does not occur in humans.
 
-Sandostatin did not impair fertility in rats at doses up to 1000 mcg/kg/day, which represents 7 x the human exposure based on body surface area.
+Sandostatin did not impair fertility in rats at doses up to 1000 mcg/kg/day, which represents 7x the human exposure based on body surface area.
 
 ## Pregnancy Category B
 
-Reproduction studies have been performed in rats and rabbits at doses up to 16 times the highest human dose based on body surface area and have revealed no evidence of impaired fertility or harm to the fetus due to Sandostatin.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+There are no adequate and well-controlled studies of octreotide use in pregnant women.
+Reproduction studies have been performed in rats and rabbits at doses up to 16 times the highest recommended human dose based on body surface area and revealed no evidence of harm to the fetus due to octreotide.
+However, because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+In postmarketing data, a limited number of exposed pregnancies have been reported in patients with acromegaly.
+Most women were exposed to octreotide during the first trimester of pregnancy at doses ranging from 100-300 mcg/day of Sandostatin s.c. or 20-30 mg/month of Sandostatin LAR, however some women elected to continue octreotide therapy throughout pregnancy.
+In cases with a known outcome, no congenital malformations were reported.
 
 ## Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in milk, caution should be exercised when Sandostatin is administered to a nursing woman.
+It is not known whether octreotide is excreted into human milk.
+Because many drugs are excreted in human milk, caution should be exercised when octreotide is administered to a nursing woman.
 
 ## Pediatric Use
 

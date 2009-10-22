@@ -37,7 +37,7 @@ The mean percent of the drug bound was 41.2%.
 The disposition and elimination half-lives were similar to normals.
 
 In patients with renal impairment the elimination of octreotide from plasma was prolonged and total body clearance reduced.
-In mild renal impairment (ClCR 40-60 mL/min) octreotide t1/2 was 2.4 hours and total body clearance was 8.8 L/hr, in moderate impairment (ClCR 10-39 mL/min) t1/2 was 3.0 hours and total body clearance 7.3 L/hr, and in severely renally impaired patients not requiring dialysis (ClCR<10 mL/min) t1/2 was 3.1 hours and total body clearance was 7.6 L/hr.
+In mild renal impairment (ClCR 40-60 mL/min) octreotide t1/2 was 2.4 hours and total body clearance was 8.8 L/hr, in moderate impairment (ClCR 10-39 mL/min) t1/2 was 3.0 hours and total body clearance 7.3 L/hr, and in severely renally impaired patients not requiring dialysis (ClCR <10 mL/min) t1/2 was 3.1 hours and total body clearance was 7.6 L/hr.
 In patients with severe renal failure requiring dialysis, total body clearance was reduced to about half that found in healthy subjects (from approximately 10 L/hr to 4.5 L/hr).
 
 Patients with liver cirrhosis showed prolonged elimination of drug, with octreotide t1/2 increasing to 3.7 hr and total body clearance decreasing to 5.9 L/hr, whereas patients with fatty liver disease showed t1/2 increased to 3.4 hr and total body clearance of 8.2 L/hr.

@@ -1,12 +1,13 @@
 # OVERDOSAGE
 
-No frank overdose has occurred in any patient to date.
-Intravenous bolus doses of 1 mg (1000 mcg) given to healthy volunteers and of 30 mg (30,000 mcg) IV over 20 minutes and of 120 mg (120,000 mcg) IV over eight hours to research patients have not resulted in serious ill effects.
+A limited number of accidental overdoses of Sandostatin® in adults have been reported.
+In adults, the doses ranged from 2,400–6,000 micrograms/day administered by continuous infusion (100-250 micrograms/hour) or subcutaneously (1,500 micrograms t.i.d.).
+Adverse events in some patients included arrhythmia, hypotension, cardiac arrest, brain hypoxia, pancreatitis, hepatitis steatosis, hepatomegaly, lactic acidosis, flushing, diarrhea, lethargy, weakness, and weight loss.
 
-Up-to-date information about the treatment of overdose can often be obtained from a certified Regional Poison Control Center.
-Telephone numbers of certified Regional Poison Control Centers are listed in the Physicians’ Desk Reference®.*
+Sandostatin Injection given in intravenous boluses of 1 mg (1000 mcg) to healthy volunteers did not result in serious ill effects, nor did doses of 30 mg (30,000 mcg) given intravenously over 20 minutes and of 120 mg (120,000 mcg) given intravenously over 8 hours to research patients.
 
-Mortality occurred in mice and rats given 72 mg/kg and 18 mg/kg IV, respectively.
+If overdose occurs, symptomatic management is indicated.
+Up-to-date information about the treatment of overdose can often be obtained from the National Poison Control Center at 1-800-222-1222.
 
 ## Drug Abuse and Dependence
 
