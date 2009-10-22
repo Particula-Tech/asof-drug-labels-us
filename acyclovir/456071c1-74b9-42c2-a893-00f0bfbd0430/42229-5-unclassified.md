@@ -1,6 +1,6 @@
 # VIROLOGY
 
-## Mechanism of Antiviral Action
+## Mechanism of Antiviral Action:
 
 Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV).
 
@@ -11,7 +11,7 @@ In vitro, acyclovir triphosphate stops replication of herpes viral DNA.
 This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared to VZV is due to its more efficient phosphorylation by the viral TK.
 
-## Antiviral Activities
+## Antiviral Activities:
 
 The quantitative relationship between the in vitro susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (IC50), vary greatly depending upon a number of factors.
@@ -19,7 +19,7 @@ Using plaque-reduction assays, the IC50 against herpes simplex virus isolates ra
 The IC50 for acyclovir against most laboratory strains and clinical isolates of VZV ranges from 0.12 to 10.8 mcg/mL.
 Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean IC50 of 1.35 mcg/mL.
 
-## Drug Resistance
+## Drug Resistance:
 
 Resistance of HSV and VZV to acyclovir can result from qualitative and quantitative changes in the viral TK and/or DNA polymerase.
 Clinical isolates of HSV and VZV with reduced susceptibility to acyclovir have been recovered from immunocompromised patients, especially with advanced HIV infection.

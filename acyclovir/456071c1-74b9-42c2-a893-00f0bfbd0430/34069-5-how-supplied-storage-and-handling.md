@@ -9,17 +9,13 @@ Store at 15° to 25°C (59° to 77°F) in a dry place.
 
 Manufactured by
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline Research Triangle Park, NC 27709
 
 for
 
-BIOVAIL Pharmaceuticals, Inc.
+BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation) Bridgewater, NJ 08807
 
-Bridgewater, NJ 08807
-
-©2006, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-April 2006 RL-2277
+July 2009 ZVO:2PI
