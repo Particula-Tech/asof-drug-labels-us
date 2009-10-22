@@ -1,15 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020080"
+  ],
   "inn": "sumatriptan",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0449-02",
     "0173-0478-00",
     "0173-0479-00",
+    "0173-0486-00",
     "0173-0739-00",
-    "0173-0739-02"
+    "0173-0739-02",
+    "0173-0739-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "sumatriptan succinate",
+      "name": "IMITREX"
+    }
+  ],
   "setid": "fee7d073-0b99-48f2-7985-0d8cf970894b",
   "source": "dailymed"
 }

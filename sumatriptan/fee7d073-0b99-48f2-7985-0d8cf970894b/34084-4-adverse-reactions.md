@@ -18,7 +18,7 @@ Treatment Emergent Adverse Experience Incidence in 2 Large Placebo-Controlled Mi
 
 | Adverse Event | Percent of Patients Reporting |  |
 | --- | --- | --- |
-| IMITREX Injection 6 mg Subcutaneous (n = 547) | Placebo(n = 370) |  |
+| IMITREX Injection6 mg Subcutaneous(n = 547) | Placebo(n = 370) |  |
 | Atypical sensations | 42 | 9 |
 | Tingling | 14 | 3 |
 | Warm/hot sensation | 11 | 4 |
@@ -51,7 +51,7 @@ Treatment Emergent Adverse Experience Incidence in 2 Large Placebo-Controlled Mi
 | Skin |  |  |
 | Sweating | 2 | 1 |
 
-* The sum of the percentages cited is greater than 100% because patients may experience more than 1 type of adverse event.
+*The sum of the percentages cited is greater than 100% because patients may experience more than 1 type of adverse event.
 Only events that occurred at a frequency of 2% or more in groups treated with IMITREX Injection and occurred at a frequency greater than the placebo groups are included.
 
 The incidence of adverse events in controlled clinical trials was not affected by gender or age of the patients.

@@ -2,9 +2,9 @@
 
 ## Mechanism of Action
 
-Sumatriptan has been demonstrated to be a selective agonist for a vascular 5-hydroxytryptamine1 receptor subtype (probably a member of the 5-HT1D family) with no significantaffinity (as measured using standard radioligand binding assays) or pharmacological activity at 5-HT2, 5-HT3 receptor subtypes or at alpha1-, alpha2-, or beta-adrenergic; dopamine1; dopamine2; muscarinic; or benzodiazepine receptors.
+Sumatriptan is a selective agonist for a vascular 5-hydroxytryptamine1 receptor subtype (probably a member of the 5-HT1D family) with no significant affinity (as measured using standard radioligand binding assays) or pharmacological activity at 5-HT2, 5-HT3 receptor subtypes or at alpha1-, alpha2-, or beta-adrenergic; dopamine1; dopamine2; muscarinic; or benzodiazepine receptors.
 
-The vascular 5-HT1 receptor subtype to which sumatriptan binds selectively, and through which it presumably exerts its antimigrainous effect, has been shown to be present on cranial arteries in both dog and primate, on the human basilar artery, and in the vasculature of the isolated dura mater of humans.
+The vascular 5-HT1 receptor subtype to which sumatriptan binds selectively, and through which it presumably exerts its antimigrainous effect, is present on cranial arteries in both dog and primate, on the human basilar artery, and in the vasculature of the isolated dura mater of humans.
 In these tissues, sumatriptan activates this receptor to cause vasoconstriction, an action in humans correlating with the relief of migraine and cluster headache.
 In the anesthetized dog, sumatriptan selectively reduces the carotid arterial blood flow with little or no effect on arterial blood pressure or total peripheral resistance.
 In the cat, sumatriptan selectively constricts the carotid arteriovenous anastomoses while having little effect on blood flow or resistance in cerebral or extracerebral tissues.
@@ -28,7 +28,7 @@ Of this dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 3
 
 After a single 6-mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age, 24 ± 6 years; weight, 70 kg), the maximum serum concentration (Cmax) was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range, 5 to 20 minutes).
 In this study, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
-The Tmaxoramount absorbed was not significantly altered by either the site or technique of injection.
+The Tmax or amount absorbed was not significantly altered by either the site or technique of injection.
 
 The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
 Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
@@ -43,14 +43,14 @@ The effect of renal impairment on the pharmacokinetics of sumatriptan has not be
 ### Hepatic Impairment
 
 The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated.
-There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared to healthy controls.
+There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared with healthy controls.
 However, the liver plays an important role in the presystemic clearance of orally administered sumatriptan.
 Accordingly, the bioavailability of sumatriptan following oral administration may be markedly increased in patients with liver disease.
-In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared to the healthy subjects.
+In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared with the healthy subjects.
 
 ### Age
 
-The pharmacokinetics of sumatriptan in the elderly (mean age, 72 years, 2 males and 4 females) and in patients with migraine (mean age, 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years)(see PRECAUTIONS: Geriatric Use).
+The pharmacokinetics of sumatriptan in the elderly (mean age, 72 years, 2 males and 4 females) and in patients with migraine (mean age, 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years) (see PRECAUTIONS: Geriatric Use).
 
 ### Race
 
@@ -71,9 +71,9 @@ No significant effect was seen with an MAO-B inhibitor.
 
 #### Blood Pressure
 
-(see WARNINGS: Increase in Blood Pressure)
+See WARNINGS: Increase in Blood Pressure.
 
-#### Peripheral (small) Arteries
+#### Peripheral (Small) Arteries
 
 In healthy volunteers (N = 18), a study evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
 

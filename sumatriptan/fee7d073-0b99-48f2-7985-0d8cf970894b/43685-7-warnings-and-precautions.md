@@ -10,8 +10,8 @@ It is strongly recommended that sumatriptan not be given to patients in whom unr
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
 If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia, sumatriptan should not be administered (see CONTRAINDICATIONS).
 
-For patients with risk factors predictive of CAD who aredetermined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of sumatriptan injection take place in the setting of a physician’s office or similar medically staffed and equipped facility.
-Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following IMITREX Injection, in these patients with risk factors.
+For patients with risk factors predictive of CAD who are determined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of sumatriptan injection take place in the setting of a physician’s office or similar medically staffed and equipped facility.
+Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining an electrocardiogram (ECG) during the interval immediately following the first dose, in these patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of sumatriptan and who have or acquire risk factors predictive of CAD, as described above, undergo periodic interval cardiovascular evaluation as they continue to use sumatriptan.
 In considering this recommendation for periodic cardiovascular evaluation, it is noted that patients with cluster headache are predominantly male and over 40 years of age, which are risk factors for CAD.
@@ -23,7 +23,7 @@ The systematic approach described above is intended to reduce the likelihood tha
 Serious adverse cardiac events, including acute myocardial infarction, life-threatening disturbances of cardiac rhythm, and death have been reported within a few hours following the administration of IMITREX Injection or IMITREX® (sumatriptan succinate) Tablets.
 Considering the extent of use of sumatriptan in patients with migraine, the incidence of these events is extremely low.
 
-The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patientswith no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
+The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
 In many cases, however, where there has been known underlying CAD, the relationship is uncertain.
 
 ### Premarketing Experience With Sumatriptan
@@ -64,10 +64,10 @@ Both peripheral vascular ischemia and colonic ischemia with abdominal pain and b
 Very rare reports of transient and permanent blindness and significant partial vision loss have been reported with the use of sumatriptan.
 Visual disorders may also be part of a migraine attack.
 
-## Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
+## Serotonin Syndrome
 
-Cases of life threatening serotonin syndrome have been reported during combined use of selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs) and triptans.
-If concomitant treatment with IMITREX Injection is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+The development of a potentially life-threatening serotonin syndrome may occur with triptans, including treatment with IMITREX, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
+If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
 ## Increase in Blood Pressure
@@ -84,7 +84,7 @@ If such therapy is clinically warranted, however, suitable dose adjustment and a
 
 ## Use in Women of Childbearing Potential
 
-(see PRECAUTIONS: Pregnancy)
+See PRECAUTIONS: Pregnancy.
 
 ## Hypersensitivity
 
@@ -111,6 +111,9 @@ Care should be taken to exclude other potentially serious neurologic conditions 
 There have been rare reports where patients received sumatriptan for severe headaches that were subsequently shown to have been secondary to an evolving neurologic lesion (see WARNINGS: Drug-Associated Cerebrovascular Events and Fatalities).
 For a given attack, if a patient does not respond to the first dose of sumatriptan, the diagnosis of migraine or cluster headache should be reconsidered before administration of a second dose.
 
+Overuse of acute migraine treatments has been associated with the exacerbation of headache (medication overuse headache) in susceptible patients.
+Withdrawal of the treatment may be necessary.
+
 ## Binding to Melanin-Containing Tissues
 
 Because sumatriptan binds to melanin, it could accumulate in melanin-rich tissues (such as the eye) over time.
@@ -132,6 +135,8 @@ Since the injection is intended to be given subcutaneously, intramuscular or int
 Patients should be directed to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle.
 See PATIENT INFORMATION at the end of this labeling for the text of the separate leaflet provided for patients.
 
+Patients should be cautioned about the risk of serotonin syndrome with the use of sumatriptan or other triptans, especially during combined use with SSRIs or SNRIs.
+
 ## Laboratory Tests
 
 No specific laboratory tests are recommended for monitoring patients prior to and/or after treatment with sumatriptan.
@@ -145,7 +150,7 @@ Cases of life-threatening serotonin syndrome have been reported during combined 
 ### Migraine Prophylactic Medications
 
 There is no evidence that concomitant use of migraine prophylactic medications has any effect on the efficacy of sumatriptan.
-In 2 Phase III trials in the US, a retrospective analysis of 282 patients who had been using prophylactic drugs (verapamil n = 63, amitriptyline n = 57, propranolol n = 94, for 45 other drugs n = 123) were compared to those who had not used prophylaxis (N = 452).
+In 2 Phase III trials in the US, a retrospective analysis of 282 patients who had been using prophylactic drugs (verapamil n = 63, amitriptyline n = 57, propranolol n = 94, for 45 other drugs n = 123) were compared with those who had not used prophylaxis (N = 452).
 There were no differences in relief rates at 60 minutes postdose for IMITREX Injection, whether or not prophylactic medications were used.
 
 ### Ergot-Containing Drugs
@@ -217,12 +222,12 @@ Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12
 
 Safety and effectiveness of IMITREX Injection in pediatric patients under 18 years of age have not been established; therefore, IMITREX Injection is not recommended for use in patients under 18 years of age.
 
-Two controlled clinical trials evaluating sumatriptan nasal spray (5 to 20 mg) in pediatric patients aged 12 to 17 years enrolled a total of 1,248 adolescent migraineurs who treated a single attack.
-The studies did not establish the efficacy of sumatriptan nasal spray compared to placebo in the treatment of migraine in adolescents.
+Two controlled clinical trials evaluated sumatriptan nasal spray (5 to 20 mg) in 1,248 adolescent migraineurs aged 12 to 17 years who treated a single attack.
+The studies did not establish the efficacy of sumatriptan nasal spray compared with placebo in the treatment of migraine in adolescents.
 Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
 
 Five controlled clinical trials (2 single-attack studies, 3 multiple-attack studies) evaluating oral sumatriptan (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 adolescent migraineurs.
-These studies did not establish the efficacy of oral sumatriptan compared to placebo in the treatment of migraine in adolescents.
+These studies did not establish the efficacy of oral sumatriptan compared with placebo in the treatment of migraine in adolescents.
 Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
 The frequency of all adverse events in these patients appeared to be both dose- and age-dependent, with younger patients reporting events more commonly than older adolescents.
 

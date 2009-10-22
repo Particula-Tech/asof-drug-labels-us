@@ -5,7 +5,7 @@
 In US controlled clinical trials enrolling more than 1,000 patients during migraine attacks who were experiencing moderate or severe pain and 1 or more of the symptoms enumerated in Table 2, onset of relief began as early as 10 minutes following a 6-mg IMITREX Injection.
 Smaller doses of sumatriptan may also prove effective, although the proportion of patients obtaining adequate relief is decreased and the latency to that relief is greater.
 
-In 1 well-controlled study where placebo (n = 62) was compared to 6 different doses of IMITREX Injection (n = 30 each group) in a single-attack, parallel-group design, the dose response relationship was found to be as shown in Table 1.
+In 1 well-controlled study where placebo (n = 62) was compared with 6 different doses of IMITREX Injection (n = 30 each group) in a single-attack, parallel-group design, the dose response relationship was found to be as shown in Table 1.
 
 Table 1.
 Dose Response Relationship for Efficacy
@@ -20,7 +20,7 @@ Dose Response Relationship for Efficacy
 | 6 | 10 | 63 | 73 | 70 | 83 |
 | 8 | 23 | 57 | 80 | 83 | 93 |
 
-* Relief is defined as the reduction of moderate or severe pain to no or mild pain after dosing without use of rescue medication.
+*Relief is defined as the reduction of moderate or severe pain to no or mild pain after dosing without use of rescue medication.
 
 In 2 US well-controlled clinical trials in 1,104 migraine patients with moderate or severe migraine pain, the onset of relief was rapid (less than 10 minutes) with IMITREX Injection 6 mg.
 Headache relief, as evidenced by a reduction in pain from severe or moderately severe to mild or no headache, was achieved in 70% of the patients within 1 hour of a single 6-mg subcutaneous dose of IMITREX Injection.
@@ -47,13 +47,13 @@ Efficacy Data From US Phase III Trials
 | Patients without photophobia | 31% | 72%* | 35% | 71%* |
 | Patients with little or no clinical disability† | 42% | 85%* | 49% | 84%* |
 
-* p<0.05 versus placebo.
+*p<0.05 versus placebo.
 
-† A successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally.
+†A successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally.
 
-‡ Includes patients that may have received an additional placebo injection 1 hour after the initial injection.
+‡Includes patients that may have received an additional placebo injection 1 hour after the initial injection.
 
-§ Includes patients that may have received an additional 6 mg of IMITREX Injection 1 hour after the initial injection.
+§Includes patients that may have received an additional 6 mg of IMITREX Injection 1 hour after the initial injection.
 
 IMITREX Injection also relieved photophobia, phonophobia (sound sensitivity), nausea, and vomiting associated with migraine attacks.
 Similar efficacy was seen when patients self-administered IMITREX Injection using an autoinjector.
@@ -65,7 +65,7 @@ The efficacy of IMITREX Injection is unaffected by whether or not migraine is as
 The efficacy of IMITREX Injection in the acute treatment of cluster headache was demonstrated in 2 randomized, double-blind, placebo-controlled, 2-period crossover trials.
 Patients age 21 to 65 were enrolled and were instructed to treat a moderate to very severe headache within 10 minutes of onset.
 Headache relief was defined as a reduction in headache severity to mild or no pain.
-In both trials, the proportion of individuals gaining relief at 10 or 15 minutes was significantly greater among patients receiving 6 mg of IMITREX Injection compared to those who received placebo (see Table 3).
+In both trials, the proportion of individuals gaining relief at 10 or 15 minutes was significantly greater among patients receiving 6 mg of IMITREX Injection compared with those who received placebo (see Table 3).
 One study evaluated a 12-mg dose; there was no statistically significant difference in outcome between patients randomized to the 6- and 12-mg doses.
 
 Table 3.
@@ -85,12 +85,9 @@ Efficacy Data From the Pivotal Cluster Headache Studies
 
 The Kaplan-Meier (product limit) Survivorship Plot (Figure 1) provides an estimate of the cumulative probability of a patient with a cluster headache obtaining relief after being treated with either sumatriptan or placebo.
 
-Figure 1.
-Time to Relief From Time of Injection*
-
 *Patients taking rescue medication were censored at 15 minutes.
 
 The plot was constructed with data from patients who either experienced relief or did not require (request) rescue medication within a period of 2 hours following treatment.
 As a consequence, the data in the plot are derived from only a subset of the 258 headaches treated (rescue medication was required in 52 of the 127 placebo-treated headaches and 18 of the 131 sumatriptan-treated headaches).
 
-Other data suggest that sumatriptan treatment is not associated with an increase in early recurrence of headache, and that treatment with sumatriptan has little effect on the incidence of latter-occurring headaches (i.e., those occurring after 2, but before 18 or 24 hours).
+Other data suggest that treatment with sumatriptan is not associated with an increase in early recurrence of headache and has little effect on the incidence of latter-occurring headaches (i.e., those occurring after 2, but before 18 or 24 hours).
