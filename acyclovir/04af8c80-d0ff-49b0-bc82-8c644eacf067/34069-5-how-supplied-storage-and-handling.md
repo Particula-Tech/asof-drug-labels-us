@@ -11,15 +11,13 @@ Store at or below 25°C (77°F); excursions permitted to 15° to 30°C (59° to 
 
 Manufactured by
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline Research Triangle Park, NC 27709
 
 for
 
-Bridgewater, NJ 08807
+BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation) Bridgewater, NJ 08807
 
-©2004, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-January 2004 RL-2061
+July 2009 ZVC:2PI

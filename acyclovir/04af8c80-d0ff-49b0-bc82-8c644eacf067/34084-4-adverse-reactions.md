@@ -14,16 +14,16 @@ The sensitizing ingredient(s) has not been identified.
 
 The safety profile in patients 12 to 17 years of age was similar to that observed in adults.
 
-## Observed During Clinical Practice
+## Observed During Clinical Practice:
 
 In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of acyclovir cream.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to acyclovir cream.
 
-### General
+### General:
 
 Angioedema, anaphylaxis.
 
-### Skin
+### Skin:
 
 Contact dermatitis, eczema, application site reactions including signs and symptoms of inflammation.
