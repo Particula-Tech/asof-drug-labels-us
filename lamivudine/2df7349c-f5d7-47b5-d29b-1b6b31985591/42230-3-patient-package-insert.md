@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-EPIVIR -HBV® (lamivudine) Tablets
+EPIVIR-HBV® (lamivudine) Tablets
 
 EPIVIR-HBV® (lamivudine) Oral Solution
 
