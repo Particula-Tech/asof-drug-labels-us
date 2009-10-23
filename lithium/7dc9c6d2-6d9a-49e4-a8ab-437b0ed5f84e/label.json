@@ -1,0 +1,42 @@
+{
+  "application_numbers": [
+    "ANDA018558",
+    "NDA017812",
+    "NDA018421"
+  ],
+  "inn": "lithium",
+  "labeler": "Roxane Laboratories, Inc",
+  "package_ndcs": [
+    "0054-2526-25",
+    "0054-2527-25",
+    "0054-2527-31",
+    "0054-2531-25",
+    "0054-3527-63",
+    "0054-4527-25",
+    "0054-4527-31",
+    "0054-8526-25",
+    "0054-8527-25",
+    "0054-8528-25",
+    "0054-8529-04",
+    "0054-8531-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lithium",
+      "name": "Lithium"
+    },
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    },
+    {
+      "form": "TABLET",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    }
+  ],
+  "setid": "7dc9c6d2-6d9a-49e4-a8ab-437b0ed5f84e",
+  "source": "dailymed"
+}
