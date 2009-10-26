@@ -10,7 +10,7 @@ To minimize dose-independent side effects, it is usually appropriate to begin co
 The side effects (see WARNINGS) of telmisartan are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter.
 Therapy with any combination of telmisartan and hydrochlorothiazide will be associated with both sets of dose-independent side effects.
 
-MICARDIS HCT tablets may be administered with other antihypertensive agents.
+Micardis® HCT (telmisartan and hydrochlorothiazide) tablets may be administered with other antihypertensive agents.
 
 MICARDIS HCT tablets may be administered with or without food.
 
@@ -20,7 +20,7 @@ The combination may be substituted for the titrated components.
 
 ## Dose Titration by Clinical Effect
 
-Micardis® HCT (telmisartan and hydrochlorothiazide) tablets are available as tablets containing either telmisartan 40 mg and hydrochlorothiazide 12.5 mg, or telmisartan 80 mg and hydrochlorothiazide 12.5 mg or 25 mg.
+MICARDIS HCT tablets are available as tablets containing either telmisartan 40 mg and hydrochlorothiazide 12.5 mg, or telmisartan 80 mg and hydrochlorothiazide 12.5 mg or 25 mg.
 A patient whose blood pressure is not adequately controlled with telmisartan monotherapy 80 mg (see above) may be switched to MICARDIS HCT tablets, telmisartan 80 mg/hydrochlorothiazide 12.5 mg once daily, and finally titrated up to 160/25 mg, if necessary.
 
 A patient whose blood pressure is inadequately controlled by 25 mg once daily of hydrochlorothiazide may be switched to MICARDIS HCT (telmisartan 80 mg/hydrochlorothiazide 12.5 mg or telmisartan 80 mg/hydrochlorothiazide 25 mg) tablets once daily.

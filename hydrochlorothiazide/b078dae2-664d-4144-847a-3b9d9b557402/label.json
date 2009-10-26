@@ -1,13 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021162"
+  ],
   "inn": "hydrochlorothiazide",
-  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
     "0597-0042-37",
+    "0597-0042-70",
     "0597-0043-37",
-    "0597-0044-37"
+    "0597-0043-70",
+    "0597-0044-37",
+    "0597-0044-70"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan and hydrochlorothiazide",
+      "name": "Micardis HCT"
+    }
+  ],
   "setid": "b078dae2-664d-4144-847a-3b9d9b557402",
   "source": "dailymed"
 }

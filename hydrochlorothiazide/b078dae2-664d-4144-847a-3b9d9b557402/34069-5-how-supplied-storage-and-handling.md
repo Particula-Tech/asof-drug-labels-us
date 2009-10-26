@@ -3,11 +3,11 @@
 MICARDIS HCT tablets are available in three strengths as biconvex two-layered, oblong-shaped, uncoated tablets in three combinations of 40 mg/12.5 mg, 80 mg/12.5 mg and 80 mg/25 mg telmisartan and hydrochlorothiazide, respectively.
 The hydrochlorothiazide layer is red in the 40 mg/12.5 mg and 80 mg/12.5 mg tablets, and yellow in the 80 mg/25 mg tablets, and all are unmarked.
 The telmisartan layer for all three strengths is white, but may contain red specks in the 40 mg/12.5 mg and 80 mg/12.5 mg tablets and yellow specks in the 80 mg/25 mg tablets.
-The telmisartan layer is marked with the BOEHRINGER INGELHEIM logo and H4 for the 40 mg/12.5 mg dose strength, H8 for the 80 mg/12.5 mg dose strength and H9 for the 80 mg/25 mg dose strength.
+The telmisartan layer is marked with the Boehringer Ingelheim logo and H4 for the 40 mg/12.5 mg dose strength, H8 for the 80 mg/12.5 mg dose strength and H9 for the 80 mg/25 mg dose strength.
 
 Tablets are provided as follows:
 
-MICARDIS HCT tablets 40 mg/12.5 mg are individually blister-sealed in cartons of 30 tablets as 3 x 10 cards (NDC 0597-0043-37).
+Micardis® HCT (telmisartan and hydrochlorothiazide) tablets 40 mg/12.5 mg are individually blister-sealed in cartons of 30 tablets as 3 x 10 cards (NDC 0597-0043-37).
 
 MICARDIS HCT tablets 80 mg/12.5 mg are individually blister-sealed in cartons of 30 tablets as 3 x 10 cards (NDC 0597-0044-37).
 
@@ -24,12 +24,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-©Copyright 2009, Boehringer Ingelheim International GmbH, ALL RIGHTS RESERVED
+©Copyright 2009 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Micardis® HCT (telmisartan and hydrochlorothiazide) tablets are covered by U.S. Patent 5,591,762
+MICARDIS HCT tablets are covered by U.S. Patent 5,591,762
 
-Rev: January 2009
+Rev: September 2009
 
-IT1105DL1208 090340139/06
-
-IT13006C 10004142/04
+IT13006FI0109 10004142/05
