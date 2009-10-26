@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
-  "inn": "brimonidine",
-  "labeler": "Alcon",
-  "package_ndcs": [
-    "61314-143-05",
-    "61314-143-10",
-    "61314-143-15"
+  "application_numbers": [
+    "NDA021764"
   ],
-  "products": [],
+  "inn": "brimonidine",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
+  "package_ndcs": [
+    "61314-144-05",
+    "61314-144-10",
+    "61314-144-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "brimonidine tartrate",
+      "name": "Brimonidine Tartrate"
+    }
+  ],
   "setid": "b1e7ebd4-d0d2-40a5-aa11-5f68bc5972bd",
   "source": "dailymed"
 }
