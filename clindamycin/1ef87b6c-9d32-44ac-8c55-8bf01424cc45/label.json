@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA061722"
+  ],
   "inn": "clindamycin",
-  "labeler": "Pharmacia and Upjohn Co.",
+  "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-0760-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GRANULE, FOR SOLUTION",
+      "generic": "clindamycin palmitate hydrochloride",
+      "name": "Cleocin Pediatric"
+    }
+  ],
   "setid": "1ef87b6c-9d32-44ac-8c55-8bf01424cc45",
   "source": "dailymed"
 }

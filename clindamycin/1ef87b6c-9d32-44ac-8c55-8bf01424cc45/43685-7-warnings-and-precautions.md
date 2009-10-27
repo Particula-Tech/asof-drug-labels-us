@@ -2,15 +2,16 @@
 
 See WARNING box.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including clindamycin, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PEDIATRIC (Clindamycin Palmitate HCL)), and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis".
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
 
@@ -40,12 +41,16 @@ However, periodic liver enzyme determinations should be made when treating patie
 
 Prescribing CLEOCIN PEDIATRIC in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## Information For Patients
+## Information for Patients
 
 Patients should be counseled that antibacterial drugs including CLEOCIN PEDIATRIC should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When CLEOCIN PEDIATRIC is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by CLEOCIN PEDIATRIC or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
 
@@ -59,7 +64,7 @@ Therefore, it should be used with caution in patients receiving such agents.
 Antagonism has been demonstrated between clindamycin and erythromycin in vitro.
 Because of possible clinical significance, these two drugs should not be administered concurrently.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long term studies in animals have not been performed with clindamycin to evaluate carcinogenic potential.
 Genotoxicity tests performed included a rat micronucleus test and an Ames Salmonella reversion test.

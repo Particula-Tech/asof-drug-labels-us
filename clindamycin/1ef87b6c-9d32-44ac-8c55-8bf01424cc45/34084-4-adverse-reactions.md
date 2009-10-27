@@ -2,7 +2,7 @@
 
 The following reactions have been reported with the use of clindamycin.
 
-Gastrointestinal: Abdominal pain, pseudomembraneous colitis, esophagitis, nausea, vomiting and diarrhea (see WARNING box).
+Gastrointestinal: Abdominal pain, pseudomembranous colitis, esophagitis, nausea, vomiting and diarrhea (see WARNING box).
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).
 
 Hypersensitivity Reactions: Generalized mild to moderate morbilliform-like (maculopapular) skin rashes are the most frequently reported adverse reactions.
