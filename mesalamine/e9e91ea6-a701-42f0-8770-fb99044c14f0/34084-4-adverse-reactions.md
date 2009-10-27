@@ -47,7 +47,7 @@ Adverse Reactions Occurring in 1% or More of All Treated Patients (Three studies
 | Pyrexia | 1.2 % | 0.7 % |
 | Cough | 1.4 % | 0.3 % |
 | N = number of patients within specified treatment group |  |  |
-| % =percentage of patients in category and treatment group |  |  |
+| % = percentage of patients in category and treatment group |  |  |
 | *One Asacol HD 800 mg tablet has not been shown to be bioequivalent to two Asacol 400 mg tablets [see Clinical Pharmacology (12.3)]. |  |  |
 
 ## 6.2 Adverse Reaction Information from Other Sources

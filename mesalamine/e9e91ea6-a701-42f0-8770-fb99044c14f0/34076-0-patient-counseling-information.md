@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-- Instruct patients to swallow the Asacol HD tablets whole, taking care not to break, cut, or chew the tablets, because the outer coating is an important part of the delayed-release formulation.
+- Instruct patients to swallow the Asacol HD tablets whole, taking care not to break, cut, or chew the tablets, because the coating is an important part of the delayed-release formulation.
 - Inform patients that if they are switching from a previous oral mesalamine therapy to Asacol HD they should discontinue their previous oral mesalamine therapy and follow the dosing instructions for Asacol HD.
   Inform patients that they should not substitute one Asacol HD tablet with two Asacol 400 mg tablets [see Dosage Forms and Strengths (3) and Clinical Pharmacology (12.3)].
 - Inform patients that intact, partially intact, and/or tablet shells have been reported in the stool.
