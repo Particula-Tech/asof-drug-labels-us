@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021172"
+  ],
   "inn": "insulin-aspart",
-  "labeler": "Novo Nordisk Inc.",
+  "labeler": "Novo Nordisk",
   "package_ndcs": [
     "0169-3685-12",
-    "0169-3696-19"
+    "0169-3685-92",
+    "0169-3696-19",
+    "0169-3696-97"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "insulin aspart",
+      "name": "NovoLog Mix 70/30"
+    }
+  ],
   "setid": "1861fcee-7673-4afe-a206-08fa05c0add2",
   "source": "dailymed"
 }

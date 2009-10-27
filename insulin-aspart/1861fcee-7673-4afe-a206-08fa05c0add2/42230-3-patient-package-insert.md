@@ -431,9 +431,71 @@ Do not refill your FlexPen.
 - Δ Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
 - Δ Keep your NovoLog Mix 70/30 FlexPen and needles out of the reach of children.
 - Δ Use NovoLog Mix 70/30 FlexPen as directed to treat your diabetes.
-  Do not share it with anyone else even if they also have diabetes.
+  Needles and NovoLog Mix 70/30 FlexPen must not be shared.
 - Δ Always use a new needle for each injection.
 - Δ Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
 - Δ As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog Mix 70/30 FlexPen is lost or damaged.
 - Δ Remember to keep the disposable NovoLog Mix 70/30 FlexPen with you.
   Do not leave it in a car or other location where it can get too hot or too cold.
+
+PACKAGE LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 0169-3696-19
+
+List 369619
+
+NovoLog® Mix 70/30
+
+FlexPen® Prefilled syringe
+
+70% insulin aspart protamine suspension and
+
+30% insulin aspart injection, (rDNA origin)
+
+100 units/mL (U-100)
+
+5x3mL Prefilled Insulin Syringes
+
+Rx only
+
+Single patient use only
+
+Shake carefully before using.
+See
+
+enclosed insert for proper technique.
+
+For use with NovoFine® disposable needles.
+
+Keep in a cold place.
+
+Avoid freezing.
+
+Protect from light.
+
+novo nordisk®
+
+NovoLog® Mix 70/30
+
+NDC 0169-3685-12
+
+List 368512
+
+70% insulin aspart protamine
+
+suspension and 30% insulin
+
+aspart injection, (rDNA origin)
+
+100 units/mL 10mL
+
+Shake carefully before using.
+See
+
+enclosed insert for proper technique.
+
+Rx only
+
+U-100
+
+novo nordisk®

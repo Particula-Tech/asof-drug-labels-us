@@ -16,6 +16,8 @@ Glucose monitoring is recommended for all patients with diabetes.
 Any change of insulin dose should be made cautiously and only under medical supervision.
 Changes in insulin strength, manufacturer, type (e.g., regular, NPH, analog), species (animal, human), or method of manufacture (rDNA versus animal-source insulin) may result in the need for a change in dosage.
 
+Needles and NovoLog Mix 70/30 FlexPen must not be shared.
+
 # PRECAUTIONS
 
 ## General

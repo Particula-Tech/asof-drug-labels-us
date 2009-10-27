@@ -5,13 +5,13 @@ Raskin R, Allen E, Hollander P, et al. Initiating insulin therapy in type 2 diab
 Diabetes Care.
 2005; 28:260-265.
 
-Date of issue: October 2007
+Date of issue: July 15, 2009
 
-Version: 7
+Version: 8
 
 Novo Nordisk®, NovoLog®, FlexPen®, Novolin® and NovoFine® are trademarks owned by Novo Nordisk® A/S.
 
-© 2002-2007 Novo Nordisk A/S
+© 2002-2009 Novo Nordisk A/S
 
 NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
 
