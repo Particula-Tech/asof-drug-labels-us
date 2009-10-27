@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 No specific information is available on the treatment of overdosage with ISENTRESS.
 Doses as high as 1600-mg single dose and 800-mg twice-daily multiple doses were studied in healthy volunteers without evidence of toxicity.

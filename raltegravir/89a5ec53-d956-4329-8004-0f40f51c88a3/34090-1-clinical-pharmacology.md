@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Raltegravir is an HIV-1 antiviral drug [see Clinical Pharmacology (12.4)].
 
@@ -38,7 +38,7 @@ For observed C12hr in Protocols 018 and 019, the coefficient of variation (CV) f
 Effect of Food on Oral Absorption
 
 ISENTRESS may be administered with or without food.
-Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-infected patients.
+Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-1-infected patients.
 The effect of consumption of low-, moderate- and high-fat meals on steady-state raltegravir pharmacokinetics was assessed in healthy volunteers.
 Administration of multiple doses of raltegravir following a moderate-fat meal (600 Kcal, 21 g fat) did not affect raltegravir AUC to a clinically meaningful degree with an increase of 13% relative to fasting.
 Raltegravir C12hr was 66% higher and Cmax was 5% higher following a moderate-fat meal compared to fasting.
@@ -105,9 +105,9 @@ UGT1A1 Polymorphism
 There is no evidence that common UGT1A1 polymorphisms alter raltegravir pharmacokinetics to a clinically meaningful extent.
 In a comparison of 30 subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
 
-Drug Interactions [see Drug Interactions (7).]
+Drug Interactions [see Drug Interactions (7)]
 
-Table 4: Effect of Other Agents on the Pharmacokinetics of Raltegravir
+Table 7: Effect of Other Agents on the Pharmacokinetics of Raltegravir
 
 | n | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -135,7 +135,8 @@ Raltegravir did not significantly inhibit human phosphoryltransferases including
 Antiviral Activity in Cell Culture
 
 Raltegravir at concentrations of 31 ± 20 nM resulted in 95% inhibition (EC95) of viral spread (relative to an untreated virus-infected culture) in human T-lymphoid cell cultures infected with the cell-line adapted HIV-1 variant H9IIIB.
-In addition, raltegravir at concentrations of 6 to 50 nM resulted in 95% inhibition of viral spread in cultures of mitogen-activated human peripheral blood mononuclear cells infected with diverse, primary clinical isolates of HIV-1, including isolates resistant to reverse transcriptase inhibitors and protease inhibitors.
+In addition, 5 clinical isolates of HIV-1 subtype B had EC95 values ranging from 9 to 19 nM in cultures of mitogen-activated human peripheral blood mononuclear cells.
+In a single-cycle infection assay, raltegravir inhibited infection of 23 HIV-1 isolates representing 5 non-B subtypes (A, C, D, F, and G) and 5 circulating recombinant forms (AE, AG, BF, BG, and cpx) with EC50 values ranging from 5 to 12 nM.
 Raltegravir also inhibited replication of an HIV-2 isolate when tested in CEMx174 cells (EC95 value = 6 nM).
 Additive to synergistic antiretroviral activity was observed when human T-lymphoid cells infected with the H9IIIB variant of HIV-1 were incubated with raltegravir in combination with non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, or nevirapine); nucleoside analog reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, tenofovir, zalcitabine, or zidovudine); protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, or saquinavir); or the entry inhibitor enfuvirtide.
 
@@ -143,5 +144,8 @@ Resistance
 
 The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R and D232N).
 Amino acid substitution at Y143C/H/R is another pathway to raltegravir resistance.
-By Week 48 in the BENCHMRK trials, at least one of the 3 primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 63 (64.3%) of the 98 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
-Some (n=18) of those HIV isolates harboring one or more of the 3 primary raltegravir resistance-associated substitutions were evaluated for raltegravir susceptibility yielding a median decrease of 47.3-fold (mean 73.1 ± 60.8-fold decrease, ranging from 0.9- to 200-fold) compared to baseline isolates.
+
+Treatment-Naïve Subjects: By Week 48 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 3 (1 with Y143R and 2 with Q148H/R) of the 6 virologic failure subjects with evaluable paired genotypic data.
+
+Treatment-Experienced Subjects: By Week 48 in the BENCHMRK trials, at least one of the 3 primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 63 (64.3%) of the 98 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
+Some (n=18) of those HIV-1 isolates harboring one or more of the 3 primary raltegravir resistance-associated substitutions were evaluated for raltegravir susceptibility yielding a median decrease of 47.3-fold (mean 73.1 ± 60.8-fold decrease, ranging from 0.9- to 200-fold) compared to baseline isolates.

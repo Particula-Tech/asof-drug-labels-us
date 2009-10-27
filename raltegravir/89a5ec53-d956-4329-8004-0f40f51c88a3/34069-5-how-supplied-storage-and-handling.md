@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ISENTRESS tablets 400 mg are pink, oval-shaped, film-coated tablets with “227” on one side.
 They are supplied as follows:

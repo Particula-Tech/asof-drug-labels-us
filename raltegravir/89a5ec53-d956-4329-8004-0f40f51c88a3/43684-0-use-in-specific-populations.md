@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -27,7 +27,7 @@ Physicians are encouraged to register patients by calling 1-800-258-4263.
 ## 8.3 Nursing Mothers
 
 Breast-feeding is not recommended while taking ISENTRESS.
-In addition, it is recommended that HIV-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV.
+In addition, it is recommended that HIV-1-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
 
 It is not known whether raltegravir is secreted in human milk.
 However, raltegravir is secreted in the milk of lactating rats.
@@ -36,7 +36,7 @@ There were no effects in rat offspring attributable to exposure of ISENTRESS thr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of ISENTRESS in pediatric patients less than 16 years of age have not been established.
+Safety and effectiveness of ISENTRESS in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 

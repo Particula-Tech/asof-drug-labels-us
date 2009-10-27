@@ -1,8 +1,99 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Treatment-Naïve Studies
+
+The following safety assessment of ISENTRESS in treatment-naïve subjects is based on the randomized double-blind active controlled study of treatment-naïve subjects, STARTMRK (Protocol 021) with ISENTRESS 400 mg twice daily in combination with a fixed dose of emtricitabine 200 mg (+) tenofovir 300 mg, (N=281) versus efavirenz (EFV) 600 mg at bedtime in combination with emtricitabine (+) tenofovir, (N=282).
+During double-blind treatment, the total follow-up for subjects receiving ISENTRESS 400 mg twice daily + emtricitabine (+) tenofovir was 247 patient-years and 241 patient-years for subjects receiving efavirenz 600 mg at bedtime + emtricitabine (+) tenofovir.
+
+In Protocol 021, the rate of discontinuation of therapy due to adverse reactions was 3% in subjects receiving ISENTRESS + emtricitabine (+) tenofovir and 6% in subjects receiving efavirenz + emtricitabine (+) tenofovir.
+
+The clinical adverse drug reactions (ADRs) listed below were considered by investigators to be causally related to ISENTRESS + emtricitabine (+) tenofovir or efavirenz + emtricitabine (+) tenofovir.
+Clinical ADRs of moderate to severe intensity occurring in ≥2% of treatment-naïve subjects treated with ISENTRESS and occurring at a higher rate than efavirenz are presented in Table 1.
+
+Table 1: Adverse ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
+Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS and at a Higher Rate Compared to Efavirenz (48 Week Analysis)
+
+| ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir (n = 281)n = total number of subjects per treatment group % | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir (n = 282) % |  |
+| --- | --- | --- |
+| System Organ Class, Preferred Term | Randomized Study Protocol 021 |  |
+| Psychiatric Disorders |  |  |
+| Insomnia | 4 | 3 |
+
+Less Common Adverse Reactions
+
+The following ADRs occurred in <2% of subjects receiving ISENTRESS + emtricitabine (+) tenofovir.
+These events have been included because of their seriousness, increased frequency on ISENTRESS compared with efavirenz or investigator's assessment of potential causal relationship.
+
+General Disorders and Administration Site Conditions: fatigue
+
+Psychiatric Disorders: abnormal dreams
+
+Laboratory Abnormalities
+
+The percentages of adult subjects treated with ISENTRESS 400 mg twice daily or efavirenz in Protocol 021 with selected Grades 2 to 4 laboratory abnormalities that represent a worsening from baseline are presented in Table 2.
+
+Table 2: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Naïve Subjects (48 Week Analysis)
+
+| Laboratory Parameter Preferred Term (Unit) | Limit | ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir (N = 281) | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir (N = 282) |
+| --- | --- | --- | --- |
+|  |  | Randomized Study Protocol 021 |  |
+| Hematology |  |  |  |
+| Absolute neutrophil count (103/μL) |  |  |  |
+| Grade 2 | 0.75 - 0.999 | 3% | 3% |
+| Grade 3 | 0.50 - 0.749 | 1% | <1% |
+| Grade 4 | <0.50 | <1% | 0% |
+| Hemoglobin (gm/dL) |  |  |  |
+| Grade 2 | 7.5 - 8.4 | <1% | <1% |
+| Grade 3 | 6.5 - 7.4 | <1% | <1% |
+| Grade 4 | <6.5 | 0% | 0% |
+| Platelet count (103/μL) |  |  |  |
+| Grade 2 | 50 - 99.999 | 2% | 0% |
+| Grade 3 | 25 - 49.999 | 0% | <1% |
+| Grade 4 | <25 | 0% | .0% |
+| Blood chemistry |  |  |  |
+| Fasting (non-random) serum glucose test (mg/dL) |  |  |  |
+| Grade 2 | 126 - 250 | 2% | 3% |
+| Grade 3 | 251 - 500 | <1% | 0% |
+| Grade 4 | >500 | 0% | 0% |
+| Total serum bilirubin |  |  |  |
+| Grade 2 | 1.6 - 2.5 x ULN | 4% | 0% |
+| Grade 3 | 2.6 - 5.0 x ULN | <1% | 0% |
+| Grade 4 | >5.0 x ULN | 0% | 0% |
+| Serum aspartate aminotransferase |  |  |  |
+| Grade 2 | 2.6 - 5.0 x ULN | 3% | 4% |
+| Grade 3 | 5.1 - 10.0 x ULN | 1% | 1% |
+| Grade 4 | >10.0 x ULN | <1% | <1% |
+| Serum alanine aminotransferase |  |  |  |
+| Grade 2 | 2.6 - 5.0 x ULN | 4% | 6% |
+| Grade 3 | 5.1 - 10.0 x ULN | <1% | 2% |
+| Grade 4 | >10.0 x ULN | <1% | <1% |
+| Serum alkaline phosphatase |  |  |  |
+| Grade 2 | 2.6 - 5.0 x ULN | <1% | 2% |
+| Grade 3 | 5.1 - 10.0 x ULN | 0% | <1% |
+| Grade 4 | >10.0 x ULN | 0% | 0% |
+| ULN = Upper limit of normal range |  |  |  |
+
+Lipids, Change from Baseline
+
+Changes from baseline in fasting lipids are shown in Table 3.
+
+Table 3: Lipid Values, Mean Change from Baseline, Protocol 021
+
+|  | Baseline Mean(mg/dL) | Week 48 Mean(mg/dL) | Mean Change (mg/dL) | Baseline Mean(mg/dL) | Week 48 Mean(mg/dL) | Mean Change (mg/dL) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Laboratory Parameter Preferred Term | ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir N = 281 |  |  | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir N = 282 |  |  |
+|  |  |  | Change from Baseline at Week 48 |  |  | Change from Baseline at Week 48 |
+| LDL-CholesterolFasting (non-random) laboratory tests. | 97 | 103 | 6 | 92 | 108 | 16 |
+| HDL-Cholesterol | 38 | 42 | 4 | 38 | 48 | 10 |
+| Total Cholesterol | 159 | 169 | 10 | 156 | 188 | 33 |
+| Triglyceride | 125 | 122 | -3 | 136 | 174 | 37 |
+| Notes: |  |  |  |  |  |  |
+| N = Number of subjects in the treatment group. The analysis is based on all available data. |  |  |  |  |  |  |
+| If subjects initiated or increased serum lipid-reducing agents, the last available lipid values prior to the change in therapy were used in the analysis. If the missing data was due to other reasons, subjects were censored thereafter for the analysis. At baseline, serum lipid-reducing agents were used in 5% of subjects in the group receiving ISENTRESS and 3% in the efavirenz group. Through Week 48, serum lipid-reducing agents were used in 6% of subjects in the group receiving ISENTRESS and 6% in the efavirenz group. |  |  |  |  |  |  |
 
 Treatment-Experienced Studies
 
@@ -12,10 +103,10 @@ The median duration of therapy in these trials was 48 weeks for subjects receivi
 The total exposure to ISENTRESS was 387 patient-years versus 156 patient-years on placebo.
 The rates of discontinuation due to adverse events were 2% in subjects receiving ISENTRESS and 3% in subjects receiving placebo.
 
-Clinical adverse drug reactions (ADRs) were considered by investigators to be causally related to ISENTRESS + OBT or placebo + OBT.
-Clinical ADRs of moderate to severe intensity occurring in ≥2% of subjects treated with ISENTRESS and occurring at a higher exposure adjusted rate compared to placebo are presented in Table 1.
+Clinical ADRs were considered by investigators to be causally related to ISENTRESS + OBT or placebo + OBT.
+Clinical ADRs of moderate to severe intensity occurring in ≥2% of subjects treated with ISENTRESS and occurring at a higher exposure adjusted rate compared to placebo are presented in Table 4.
 
-Table 1: Adverse Drug ReactionsIncludes adverse reactions at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
+Table 4: Adverse Drug ReactionsIncludes adverse reactions at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Experienced Adult Subjects Receiving ISENTRESS and at a Higher Exposure Adjusted Rate Compared to Placebo (48 Week Analysis, Exposure Adjusted Incidence Rates)
 
 |  | Rate per 100 Patient-Years | Rate per 100 Patient-Years |
@@ -47,25 +138,11 @@ Nervous System Disorders: dizziness
 
 Renal and Urinary Disorders: renal failure
 
-Adverse Events
-
-Regardless of Drug Relationship
-
-Cancers were reported in treatment-experienced subjects who initiated ISENTRESS with OBT; several were recurrent.
-The types and rates of specific cancers were those expected in a highly immunodeficient population (many had CD4+ cell counts below 50 cells/mm3 and most had prior AIDS diagnoses).
-The cancers included Kaposi’s sarcoma, lymphoma, squamous cell carcinoma, hepatocellular carcinoma and anal cancer.
-Most subjects had other risk factors for cancer including tobacco use, papillomavirus and active hepatitis B virus infection.
-It is unknown if these cancer diagnoses were related to ISENTRESS use.
-
-Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS (see Table 2).
-Myopathy and rhabdomyolysis have been reported; however, the relationship of ISENTRESS to these events is not known.
-Use with caution in patients at increased risk of myopathy or rhabdomyolysis, such as patients receiving concomitant medications known to cause these conditions.
-
 Laboratory Abnormalities
 
-The percentages of adult subjects treated with ISENTRESS 400 mg twice daily or placebo in Protocols 018 and 019 with selected Grade 2 to 4 laboratory abnormalities representing a worsening from baseline are presented in Table 2.
+The percentages of adult subjects treated with ISENTRESS 400 mg twice daily or placebo in Protocols 018 and 019 with selected Grade 2 to 4 laboratory abnormalities representing a worsening from baseline are presented in Table 5.
 
-Table 2: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Experienced Subjects (48 Week Analysis)
+Table 5: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Experienced Subjects (48 Week Analysis)
 
 | Laboratory Parameter Preferred Term (Unit) | Limit | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
 | --- | --- | --- | --- |
@@ -115,23 +192,35 @@ Table 2: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Ex
 | Serum creatine kinase |  |  |  |
 | Grade 2 | 6.0 - 9.9 x ULN | 2% | 2% |
 | Grade 3 | 10.0 - 19.9 x ULN | 3% | 3% |
-| Grade 4 | >10.0 x ULN | 2% | 1% |
+| Grade 4 | ≥20.0 x ULN | 2% | 1% |
 | ULN = Upper limit of normal range |  |  |  |
+
+Selected Adverse Events
+
+Regardless of Drug Relationship
+
+Cancers were reported in treatment-experienced subjects who initiated ISENTRESS or placebo, both with OBT, and in treatment-naïve subjects who initiated ISENTRESS or efavirenz, both with emtricitabine (+) tenofovir; several were recurrent.
+The types and rates of specific cancers were those expected in a highly immunodeficient population (many had CD4+ counts below 50 cells/mm3 and most had prior AIDS diagnoses).
+The risk of developing cancer in these studies was similar in the group receiving ISENTRESS and the group receiving the comparator.
+
+Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS (see Table 5).
+Myopathy and rhabdomyolysis have been reported; however, the relationship of ISENTRESS to these events is not known.
+Use with caution in patients at increased risk of myopathy or rhabdomyolysis, such as patients receiving concomitant medications known to cause these conditions.
 
 Patients with Co-existing Conditions
 
 Patients Co-infected with Hepatitis B and/or Hepatitis C Virus
 
-In the clinical studies, P018 and P019, subjects with chronic (but not acute) active hepatitis B and/or hepatitis C virus co-infection (N = 114/699 or 16%) were permitted to enroll provided that baseline liver function tests did not exceed 5 times the upper limit of normal (ULN).
-The rates of AST and ALT abnormalities were higher in the subgroup of subjects with hepatitis B and/or hepatitis C virus co-infection for both treatment groups.
-In general the safety profile of ISENTRESS in subjects with hepatitis B and/or hepatitis C virus co-infection was similar to subjects without hepatitis B and/or hepatitis C virus co-infection.
-Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 25%, 31% and 12%, respectively, of co-infected subjects treated with ISENTRESS as compared to 8%, 7% and 8% of all other subjects treated with ISENTRESS.
+In the randomized, double-blind, placebo-controlled trials, treatment-experienced subjects (N = 114/699 or 16%) and treatment-naïve subjects (N = 34/563 or 6%) with chronic (but not acute) active hepatitis B and/or hepatitis C virus co-infection were permitted to enroll provided that baseline liver function tests did not exceed 5 times the upper limit of normal (ULN).
+In general the safety profile of ISENTRESS in subjects with hepatitis B and/or hepatitis C virus co-infection was similar to that in subjects without hepatitis B and/or hepatitis C virus co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis B and/or hepatitis C virus co-infection for all treatment groups.
+In treatment-experienced subjects, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 25%, 31% and 12%, respectively, of co-infected subjects treated with ISENTRESS as compared to 8%, 7% and 8% of all other subjects treated with ISENTRESS.
+In treatment-naïve subjects, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 17%, 22% and 11%, respectively, of co-infected subjects treated with ISENTRESS as compared to 4%, 4% and 3% of all other subjects treated with ISENTRESS.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of ISENTRESS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Psychiatric Disorders: depression (particularly in patients with a pre-existing history of psychiatric illness), including suicidal ideation and behaviors
+Psychiatric Disorders: anxiety, depression (particularly in patients with a pre-existing history of psychiatric illness), including suicidal ideation and behaviors, paranoia
 
 Skin and Subcutaneous Tissue Disorders: rash, Stevens-Johnson syndrome

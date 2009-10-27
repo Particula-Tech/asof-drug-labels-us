@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity studies of raltegravir in mice did not show any carcinogenic potential.
 At the highest dose levels, 400 mg/kg/day in females and 250 mg/kg/day in males, systemic exposure was 1.8-fold (females) or 1.2-fold (males) greater than the AUC (54 µM●hr) at the 400-mg twice daily human dose.

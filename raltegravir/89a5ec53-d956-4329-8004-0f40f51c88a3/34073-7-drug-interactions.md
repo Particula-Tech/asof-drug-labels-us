@@ -1,14 +1,14 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Effect of Raltegravir on the Pharmacokinetics of Other Agents
 
 Raltegravir does not inhibit (IC50>100 µM) CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A in vitro.
-Moreover, in vitro, raltegravir did not induce CYP3A4.
+Moreover, in vitro, raltegravir did not induce CYP1A2, CYP2B6 or CYP3A4.
 A midazolam drug interaction study confirmed the low propensity of raltegravir to alter the pharmacokinetics of agents metabolized by CYP3A4 in vivo by demonstrating a lack of effect of raltegravir on the pharmacokinetics of midazolam, a sensitive CYP3A4 substrate.
 Similarly, raltegravir is not an inhibitor (IC50>50 µM) of the UDP-glucuronosyltransferases (UGT) tested (UGT1A1, UGT2B7), and raltegravir does not inhibit P-glycoprotein-mediated transport.
-Based on these data, ISENTRESS is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or P-glycoprotein (e.g., protease inhibitors, NNRTIs, methadone, opioid analgesics, statins, azole antifungals, proton pump inhibitors and anti-erectile dysfunction agents).
+Based on these data, ISENTRESS is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or P-glycoprotein (e.g., protease inhibitors, NNRTIs, opioid analgesics, statins, azole antifungals, proton pump inhibitors and anti-erectile dysfunction agents).
 
-In drug interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of the following: hormonal contraceptives, lamivudine, tenofovir, etravirine.
+In drug interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of the following: hormonal contraceptives, methadone, lamivudine, tenofovir, etravirine.
 
 ## 7.2 Effect of Other Agents on the Pharmacokinetics of Raltegravir
 
@@ -21,13 +21,13 @@ The impact of other inducers of drug metabolizing enzymes, such as phenytoin and
 
 Coadministration of ISENTRESS with drugs that inhibit UGT1A1 may increase plasma levels of raltegravir.
 
-Selected drug interactions are presented in Table 3 [see Clinical Pharmacology (12.3)].
+Selected drug interactions are presented in Table 6 [see Clinical Pharmacology (12.3)].
 
-Table 3: Selected Drug Interactions
+Table 6: Selected Drug Interactions
 
 | Concomitant Drug Class:Drug Name | Effect on Concentrationof Raltegravir | Clinical Comment |
 | --- | --- | --- |
-| HIV-Antiviral Agents |  |  |
+| HIV-1-Antiviral Agents |  |  |
 | atazanavir | ↑ | Atazanavir, a strong inhibitor of UGT1A1, increases plasma concentrations of raltegravir. However, since concomitant use of ISENTRESS with atazanavir/ritonavir did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended. |
 | atazanavir/ritonavir | ↑ | Atazanavir/ritonavir increases plasma concentrations of raltegravir. However, since concomitant use of ISENTRESS with atazanavir/ritonavir did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended. |
 | efavirenz | ↓ | Efavirenz reduces plasma concentrations of raltegravir. The clinical significance of this interaction has not been directly assessed. |

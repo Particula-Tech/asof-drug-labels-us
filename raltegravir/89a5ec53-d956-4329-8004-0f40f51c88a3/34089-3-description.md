@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 ISENTRESS contains raltegravir potassium, a human immunodeficiency virus integrase strand transfer inhibitor.
 The chemical name for raltegravir potassium is N-[(4-Fluorophenyl)methyl]-1,6-dihydro-5-hydroxy-1-methyl-2-[1-methyl-1-[[(5-methyl-1,3,4-oxadiazol-2-yl)carbonyl]amino]ethyl]-6-oxo-4-pyrimidinecarboxamide monopotassium salt.
