@@ -44,7 +44,7 @@ Nonrenal (i.e., biliary) excretion accounts for approximately 11%-12% of benazep
 In patients with renal failure, biliary clearance may compensate to an extent for deficient renal clearance.
 
 In patients with renal insufficiency, the disposition of benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance >30 mL/min) is similar to that in patients with normal renal function.
-In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady state may be delayed (see DOSAGE AND ADMINISTRATION).
+In patients with creatinine clearance ≤30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady state may be delayed (see DOSAGE AND ADMINISTRATION).
 
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.
@@ -54,7 +54,7 @@ The pharmacokinetics of benazepril and benazeprilat do not appear to be influenc
 
 In pediatric patients, (N=45) hypertensive, age 6 to 16 years, given multiple daily doses of Lotensin (0.1 to 0.5 mg/kg), the clearance of benazeprilat for children 6 to 12 years old was 0.35 L/hr/kg, more than twice that of healthy adults receiving a single dose of 10 mg (0.13 L/hr/kg).
 In adolescents, it was 0.17 L/hr/kg, 27% higher than that of healthy adults.
-The terminal elimination half-life of benazeprilat in pediatric patients was around 5 hours, one- third that observed in adults.
+The terminal elimination half-life of benazeprilat in pediatric patients was around 5 hours, one-third that observed in adults.
 
 ## Pharmacodynamics
 
@@ -63,14 +63,14 @@ Pressor responses to exogenous angiotensin I were inhibited by 60%-90% (up to 4 
 
 ## Hypertension
 
-### Adult
+Adult
 
 Administration of Lotensin to patients with mild-to-moderate hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
 Symptomatic postural hypotension is infrequent, although it can occur in patients who are salt- and/or volume-depleted (see WARNINGS).
 
 In single-dose studies, Lotensin lowered blood pressure within 1 hour, with peak reductions achieved 2-4 hours after dosing.
 The antihypertensive effect of a single dose persisted for 24 hours.
-In multiple-dose studies, once-daily doses of 20-80 mg decreased seated pressure (systolic/diastolic) 24 hours after dosing by about 6 -12 /4-7 mmHg.
+In multiple-dose studies, once-daily doses of 20-80 mg decreased seated pressure (systolic/diastolic) 24 hours after dosing by about 6-12/4-7 mmHg.
 The trough values represent reductions of about 50% of that seen at peak.
 
 Four dose-response studies using once-daily dosing were conducted in 470 mild-to-moderate hypertensive patients not using diuretics.
@@ -91,7 +91,7 @@ In normal human volunteers, single doses of benazepril caused an increase in ren
 Use of Lotensin in combination with thiazide diuretics gives a blood-pressure-lowering effect greater than that seen with either agent alone.
 By blocking the renin-angiotensin-aldosterone axis, administration of Lotensin tends to reduce the potassium loss associated with the diuretic.
 
-### Pediatric
+Pediatric
 
 In a clinical study of 107 pediatric patients, 7 to 16 years of age, with either systolic or diastolic pressure above the 95th percentile, patients were given 0.1 or 0.2 mg/kg then titrated up to 0.3 or 0.6 mg/kg with a maximum dose of 40 mg once daily.
 After four weeks of treatment, the 85 patients whose blood pressure was reduced on therapy were then randomized to either placebo or benazepril and were followed up for an additional two weeks.

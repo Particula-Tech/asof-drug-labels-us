@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019851"
+  ],
   "inn": "benazepril",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0078-0449-05",
     "0078-0450-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "benazepril hydrochloride",
+      "name": "Lotensin"
+    }
+  ],
   "setid": "4d954024-a191-46e3-ba71-2a7d5b0c65d5",
   "source": "dailymed"
 }

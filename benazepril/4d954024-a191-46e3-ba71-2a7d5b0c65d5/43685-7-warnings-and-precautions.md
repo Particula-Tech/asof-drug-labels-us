@@ -52,7 +52,7 @@ Prematurity, intrauterine growth retardation, and patent ductus arteriosus have 
 
 In addition, use of ACE inhibitors during the first trimester of pregnancy has been associated with a potentially increased risk of birth defects.
 In women planning to become pregnant, ACE inhibitors (including Lotensin) should not be used.
-Women of child-bearing age should be made aware of the potential risk and ACE inhibitors (including Lotensin) should only be given after careful counseling and consideration of individual risks and benefits..
+Women of childbearing age should be made aware of the potential risk and ACE inhibitors (including Lotensin) should only be given after careful counseling and consideration of individual risks and benefits.
 
 Rarely (probably less often than once in every thousand pregnancies), no alternative to ACE inhibitors will be found.
 In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intraamniotic environment.
@@ -103,7 +103,8 @@ Hypotension that occurs as a result of this mechanism can be corrected by volume
 
 ## Information for Patients
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors..Discuss other treatment options with women planning to become pregnant.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors.
+Discuss other treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 Angioedema: Angioedema, including laryngeal edema, can occur at any time with treatment with ACE inhibitors.
@@ -133,6 +134,8 @@ Oral Anticoagulants: Interaction studies with warfarin and acenocoumarol failed 
 Lithium: Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors (including benazepril) during therapy with lithium.
 These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.
 If a diuretic is also used, the risk of lithium toxicity may be increased.
+
+Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
 
 Anti-diabetics: In rare cases, diabetic patients receiving an ACE inhibitor (including benazepril) concomitantly with insulin or oral anti-diabetics may develop hypoglycemia.
 Such patients should therefore be advised about the possibility of hypoglycemic reactions and should be monitored accordingly.
@@ -174,5 +177,5 @@ The pharmacokinetics of Lotensin have been evaluated in pediatric patients 6 to 
 Lotensin was generally well tolerated and adverse effects were similar to those described in adults.
 (See ADVERSE REACTIONS: Pediatric Patients).
 
-Treatment with Lotensin is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rat <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
+Treatment with Lotensin is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients and DOSAGE AND ADMINISTRATION.)

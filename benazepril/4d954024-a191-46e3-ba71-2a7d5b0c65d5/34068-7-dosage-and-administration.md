@@ -2,7 +2,7 @@
 
 ## Hypertension
 
-### Adults
+Adults
 
 The recommended initial dose for patients not receiving a diuretic is 10 mg once a day.
 The usual maintenance dosage range is 20-40 mg per day administered as a single dose or in two equally divided doses.
@@ -22,7 +22,7 @@ Then, if blood pressure is not controlled with Lotensin alone, diuretic therapy 
 
 If the diuretic cannot be discontinued, an initial dose of 5 mg Lotensin should be used to avoid excessive hypotension.
 
-### Pediatrics
+Pediatrics
 
 In children, doses of Lotensin between 0.1 and 0.6 mg/kg once daily have been studied, and doses greater than 0.1 mg/kg were shown to reduce blood pressure (see Pharmacodynamics).
 Based on this, the recommended starting dose of Lotensin is 0.2 mg/kg once per day as monotherapy.
@@ -32,17 +32,17 @@ For pediatric patients who cannot swallow tablets, or for whom the calculated do
 
 Treatment with Lotensin is not advised for children below the age of 6 years (see PRECAUTIONS, Pediatric Use) and in pediatric patients with glomerular filtration rate <30 mL, as there are insufficient data available to support a dosing recommendation in these groups.
 
-### For Hypertensive Patients with Renal Impairment
+For Hypertensive Patients with Renal Impairment
 
 For patients with a creatinine clearance <30 mL/min/1.73 m2 (serum creatinine >3 mg/dL), the recommended initial dose is 5 mg Lotensin once daily.
 Dosage may be titrated upward until blood pressure is controlled or to a maximum total daily dose of 40 mg (see WARNINGS).
 
-### Preparation of Suspension (for 150 mL of a 2 mg/mL suspension)
+Preparation of Suspension (for 150 mL of a 2 mg/mL suspension)
 
-Add 75 mL of Ora-Plus®*oral suspending vehicle to an amber polyethylene terephthalate (PET) bottle containing fifteen Lotensin 20 mg tablets, and shake for at least 2 minutes.
+Add 75 mL of Ora-Plus®* oral suspending vehicle to an amber polyethylene terephthalate (PET) bottle containing fifteen Lotensin 20 mg tablets, and shake for at least 2 minutes.
 Allow the suspension to stand for a minimum of 1 hour.
 After the standing time, shake the suspension for a minimum of 1 additional minute.
-Add 75 mL of Ora-Sweet®*oral syrup vehicle to the bottle and shake the suspension to disperse the ingredients.
+Add 75 mL of Ora-Sweet®* oral syrup vehicle to the bottle and shake the suspension to disperse the ingredients.
 The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 30 days in the PET bottle with a child-resistant screw-cap closure.
 Shake the suspension before each use.
 

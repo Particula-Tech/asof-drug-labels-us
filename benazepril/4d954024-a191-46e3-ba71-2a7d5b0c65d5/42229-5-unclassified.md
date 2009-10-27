@@ -1,5 +1,3 @@
-T2007-104
-
 Lotensin®
 
 (benazepril hydrochloride)

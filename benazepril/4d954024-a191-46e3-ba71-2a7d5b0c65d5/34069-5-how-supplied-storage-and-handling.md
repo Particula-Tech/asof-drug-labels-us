@@ -19,18 +19,10 @@ Protect from moisture.
 
 Dispense in tight container (USP).
 
-T2007-104 REV: November 2007
+T2009-60 REV: MAY 2009
 
-Manufactured by:
+Manufactured by: Novartis Pharmaceuticals Corporation Suffern, New York 10901
 
-Novartis Pharmaceuticals Corporation
-
-Suffern, New York 10901
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
