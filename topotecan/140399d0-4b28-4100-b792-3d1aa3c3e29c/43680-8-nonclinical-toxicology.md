@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity testing of topotecan has not been done.
 Nevertheless, topotecan is known to be genotoxic to mammalian cells and is a probable carcinogen.

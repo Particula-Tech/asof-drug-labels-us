@@ -7,7 +7,7 @@ Neutropenia is not cumulative over time.
 The following data on myelosuppression are based on an integrated safety database from 4 thoracic malignancy studies (N = 682) using HYCAMTIN capsules at 2.3 mg/m2/day for 5 consecutive days.
 The median day for neutrophil, red blood cell, and platelet nadirs occurred on day 15.
 
-Neutropenia
+### Neutropenia
 
 Grade 4 neutropenia (<500 cells/mm3) occurred in 32% of patients with a median duration of 7 days and was most common during course 1 of treatment (20% of patients).
 Infection, sepsis, and febrile neutropenia occurred in 17%, 2%, and 4% of patients, respectively.
@@ -19,15 +19,15 @@ Fatalities due to neutropenic colitis have been reported.
 In patients presenting with fever, neutropenia, and a compatible pattern of abdominal pain, the possibility of neutropenic colitis should be considered.
 [See Dosage and Administration (2.3).]
 
-Thrombocytopenia
+### Thrombocytopenia
 
 Grade 4 thrombocytopenia (<10,000 cells/mm3) occurred in 6% of patients, with a median duration of 3 days.
 
-Anemia
+### Anemia
 
 Grade 3 or 4 anemia (<8 g/dL) occurred in 25% of patients.
 
-Monitoring of Bone Marrow Function
+### Monitoring of Bone Marrow Function
 
 HYCAMTIN should be administered only in patients with adequate bone marrow reserves, including a baseline neutrophil count of ≥1,500 cells/mm3 and a platelet count ≥100,000 cells/mm3.
 Frequent monitoring of peripheral blood cell counts should be instituted during treatment with HYCAMTIN.

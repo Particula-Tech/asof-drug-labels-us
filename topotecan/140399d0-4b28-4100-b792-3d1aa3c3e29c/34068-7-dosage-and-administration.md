@@ -12,7 +12,7 @@ If your patient vomits after taking the dose of HYCAMTIN, the patient should not
 
 ## 2.2 Adjustment of Dose in Special Populations
 
-Renal Function Impairment
+### Renal Function Impairment
 
 No dosage adjustment of HYCAMTIN capsules appears to be required for treating patients with mild renal impairment (CLcr = 50-80 mL/min).
 A dose adjustment of HYCAMTIN capsules to 1.8 mg/m2/day is predicted to adjust the area under the curve (AUC) to the normal range for patients with moderate renal impairment (CLcr = 30-49 mL/min).

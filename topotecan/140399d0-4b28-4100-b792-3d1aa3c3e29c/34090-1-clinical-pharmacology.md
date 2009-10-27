@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Topoisomerase I relieves torsional strain in DNA by inducing reversible single strand breaks.
 Topotecan binds to the topoisomerase I-DNA complex and prevents religation of these single strand breaks.
@@ -20,7 +20,7 @@ Topotecan exhibits biexponential pharmacokinetics with a mean terminal half-life
 Total exposure (AUC) increases approximately proportionally with dose.
 Plasma protein binding of topotecan is about 35%.
 
-Absorption
+### Absorption
 
 Topotecan is rapidly absorbed with peak plasma concentrations occurring between 1 to 2 hours following oral administration.
 The oral bioavailability of topotecan was about 40%.
@@ -32,7 +32,7 @@ Following coadministration of the ABCG2 (BCRP) and ABCB1 (P-gp) inhibitor elacri
 Administration of oral cyclosporine A (15 mg/kg), an inhibitor of transporters ABCB1 (P-gp) and ABCC1 (MRP-1) as well as the metabolizing enzyme CYP3A4, within 4 hours of oral topotecan increased the dose-normalized AUC0-24 of topotecan lactone and total topotecan to 2.0- to 3-fold of control.
 [See Drug Interactions (7.1).]
 
-Metabolism and Elimination
+### Metabolism and Elimination
 
 Topotecan undergoes a reversible pH-dependent hydrolysis of its lactone moiety; it is the lactone form that is pharmacologically active.
 At pH ≤4, the lactone is exclusively present, whereas the ring-opened hydroxy-acid form predominates at physiologic pH.
@@ -44,7 +44,7 @@ Fecal elimination of total topotecan accounted for 33% while fecal elimination o
 Overall, the N-desmethyl metabolite contributed a mean of <6% (range 4 to 8%) of the total drug-related material accounted for in the urine and feces.
 O-glucuronides of both topotecan and N-desmethyl topotecan have been identified in the urine.
 
-Age, Gender, and Race
+### Age, Gender, and Race
 
 A cross-study analysis in 217 patients with advanced solid tumors indicated that age and gender did not significantly affect the pharmacokinetics of oral topotecan.
 There are insufficient data to determine an effect of race on pharmacokinetics of oral topotecan.

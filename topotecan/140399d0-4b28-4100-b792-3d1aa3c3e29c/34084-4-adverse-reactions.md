@@ -35,7 +35,7 @@ N = total number of patients treated.
 
 Adverse reactions were graded using NCI Common Toxicity Criteria.
 
-Diarrhea Adverse Reactions
+### Diarrhea Adverse Reactions
 
 Of the 70 patients who received HYCAMTIN capsules plus BSC, the incidence of drug-related diarrhea was 14%, with 4% Grade 3 and 1% Grade 4.
 
@@ -44,7 +44,7 @@ The overall incidence of drug-related diarrhea was more frequent in patients ≥
 The incidence of Grade 3 or 4 diarrhea proximate (within 5 days) to Grade 3 or 4 neutropenia events in the HYCAMTIN capsules treatment group was 5%.
 The median time to onset of Grade 2 or worse diarrhea was 9 days in the HYCAMTIN capsules group.
 
-Deaths Occurring Within 30 Days Following the Last Dose of Study Medication
+### Deaths Occurring Within 30 Days Following the Last Dose of Study Medication
 
 In the 682 patients who received HYCAMTIN capsules in the 4 thoracic cancer studies, 39 deaths occurred within 30 days after the last dose of study medication for a reason other than progressive disease; 13 of these deaths were attributed to hematologic toxicity, 5 were attributed to non-hematologic toxicity, and 21 were attributed to other causes.
 One patient death (68 years of age) was attributed to treatment-related diarrhea and one death (68 years of age) attributed diarrhea as a contributory event; both patients received HYCAMTIN capsules.
