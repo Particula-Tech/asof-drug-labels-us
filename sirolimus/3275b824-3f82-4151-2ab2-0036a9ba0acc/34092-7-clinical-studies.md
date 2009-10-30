@@ -21,14 +21,14 @@ INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 284) | Rapamune Oral Solution 5 mg/day (n = 274) | Azathioprine 2-3 mg/kg/day (n = 161) |
 | --- | --- | --- | --- |
-| Efficacy failureat 6 monthsc | 18.7 | 16.8 | 32.3 |
-| Componentsof efficacy failure |  |  |  |
+| Efficacy failure at 6 monthsc | 18.7 | 16.8 | 32.3 |
+| Components of efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 16.5 | 11.3 | 29.2 |
 | Graft loss | 1.1 | 2.9 | 2.5 |
 | Death | 0.7 | 1.8 | 0 |
 | Lost to follow-up | 0.4 | 0.7 | 0.6 |
-| Efficacy failureat 24 months | 32.8 | 25.9 | 36.0 |
-| Componentsof efficacy failure |  |  |  |
+| Efficacy failure at 24 months | 32.8 | 25.9 | 36.0 |
+| Components of efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 23.6 | 17.5 | 32.3 |
 | Graft loss | 3.9 | 4.7 | 3.1 |
 | Death | 4.2 | 3.3 | 0 |
@@ -39,14 +39,14 @@ INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 227) | Rapamune Oral Solution 5 mg/day (n = 219) | Placebo (n = 130) |
 | --- | --- | --- | --- |
-| Efficacy failureat 6 monthsc | 30.0 | 25.6 | 47.7 |
-| Componentsof efficacy failure |  |  |  |
+| Efficacy failure at 6 monthsc | 30.0 | 25.6 | 47.7 |
+| Components of efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 24.7 | 19.2 | 41.5 |
 | Graft loss | 3.1 | 3.7 | 3.9 |
 | Death | 2.2 | 2.7 | 2.3 |
 | Lost to follow-up | 0 | 0 | 0 |
-| Efficacy failureat 36 months | 44.1 | 41.6 | 54.6 |
-| Componentsof efficacy failure |  |  |  |
+| Efficacy failure at 36 months | 44.1 | 41.6 | 54.6 |
+| Components of efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 32.2 | 27.4 | 43.9 |
 | Graft loss | 6.2 | 7.3 | 4.6 |
 | Death | 5.7 | 5.9 | 5.4 |
@@ -257,7 +257,18 @@ MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN T
 The above information should be taken into account when considering conversion from calcineurin inhibitors to Rapamune in stable renal transplant patients due to the lack of evidence showing that renal function improves following conversion, and the finding of a greater increment in urinary protein excretion, and an increased incidence of treatment-emergent nephrotic range proteinuria following conversion to Rapamune.
 This was particularly true among patients with existing abnormal urinary protein excretion prior to conversion.
 
-## 14.5 Pediatrics
+## 14.5 Conversion from a CNI-based Regimen to a Sirolimus-based Regimen in Liver Transplant Patients
+
+Conversion from a CNI-based regimen to a Rapamune-based regimen was assessed in stable liver transplant patients 6-144 months post-transplant.
+The clinical study was a 2:1 randomized, multi-center, controlled trial conducted at 82 centers globally, including the US and Europe, and was intended to show that renal function was improved by conversion from a CNI to Rapamune without adversely impacting efficacy or safety.
+A total of 607 patients were enrolled.
+
+The study failed to demonstrate superiority of conversion to a Rapamune-based regimen compared to continuation of a CNI-based regimen in baseline-adjusted GFR, as estimated by Cockcroft-Gault, at 12 months (62 mL/min in the Rapamune conversion group and 63 mL/min in the CNI continuation group).
+The study also failed to demonstrate non-inferiority, with respect to the composite endpoint consisting of graft loss and death (including patients with missing survival data) in the Rapamune conversion group compared to the CNI continuation group (6.6% versus 5.6%).
+The number of deaths in the Rapamune conversion group (15/393, 3.8%) was higher than in the CNI continuation group (3/214, 1.4%), although the difference was not statistically significant.
+The rates of premature study discontinuation (primarily due to adverse events or lack of efficacy), adverse events overall (infections, specifically), and biopsy-proven acute liver graft rejection at 12 months were all significantly greater in the Rapamune conversion group compared to the CNI continuation group.
+
+## 14.6 Pediatrics
 
 Rapamune was evaluated in a 36-month, open-label, randomized, controlled clinical trial at 14 North American centers in pediatric (aged 3 to < 18 years) renal transplant patients considered to be at high-immunologic risk for developing chronic allograft nephropathy, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy.
 Seventy-eight (78) subjects were randomized in a 2:1 ratio to Rapamune (sirolimus target concentrations of 5 to 15 ng/mL, by chromatographic assay, n = 53) in combination with a calcineurin inhibitor and corticosteroids or to continue calcineurin-inhibitor-based immunosuppressive therapy (n = 25).

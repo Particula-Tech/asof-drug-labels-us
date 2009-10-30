@@ -11,12 +11,15 @@ The physician responsible for maintenance therapy should have complete informati
 
 ## 5.2 Liver Transplantation – Excess Mortality, Graft Loss, and Hepatic Artery Thrombosis (HAT)
 
-The use of Rapamune in combination with tacrolimus was associated with excess mortality and graft loss in a study in de novo liver transplant patients (22% in combination versus 9% on tacrolimus alone).
+The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver transplant patients; therefore, such use is not recommended.
+The use of Rapamune has been associated with adverse outcomes in patients following liver transplantation, including excess mortality, graft loss and Hepatic Artery Thrombosis (HAT).
+
+In a study in de novo liver transplant patients, the use of Rapamune in combination with tacrolimus was associated with excess mortality and graft loss (22% in combination versus 9% on tacrolimus alone).
 Many of these patients had evidence of infection at or near the time of death.
 
 In this and another study in de novo liver transplant patients, the use of Rapamune in combination with cyclosporine or tacrolimus was associated with an increase in HAT (7% in combination versus 2% in the control arm); most cases of HAT occurred within 30 days post-transplantation, and most led to graft loss or death.
 
-The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver transplant patients; therefore, such use is not recommended.
+In a clinical study in stable liver transplant patients 6-144 months post-liver transplantation and receiving a CNI-based regimen, an increased number of deaths was observed in the group converted to a Rapamune-based regimen compared to the group who was continued on a CNI-based regimen, although the difference was not statistically significant (3.8% versus 1.4%) [see Clinical Studies (14.5)].
 
 ## 5.3 Lung Transplantation – Bronchial Anastomotic Dehiscence
 
@@ -77,41 +80,49 @@ Nephrotic range proteinuria (defined as urinary protein to creatinine ratio > 3.
 In some patients, reduction in the degree of urinary protein excretion was observed for individual patients following discontinuation of Rapamune.
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established.
 
-## 5.10 Interstitial Lung Disease
+## 5.10 Latent Viral Infections
+
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include BK virus-associated nephropathy, which has been observed in patients receiving immunosuppressants, including Rapamune.
+This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see Adverse Reactions (6.6)].
+Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
+Reduction in immunosupression should be considered for patients who develop evidence of BK virus-associated nephropathy.
+
+## 5.11 Interstitial Lung Disease
 
 Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
 In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
 The risk may be increased as the trough sirolimus concentration increases [see Adverse Reactions (6.6)].
 
-## 5.11 De Novo Use Without Cyclosporine
+## 5.12 De Novo Use Without Cyclosporine
 
 The safety and efficacy of de novo use of Rapamune without cyclosporine is not established in renal transplant patients.
 In a multicenter clinical study, de novo renal transplant patients treated with Rapamune, mycophenolate mofetil (MMF), steroids, and an IL-2 receptor antagonist had significantly higher acute rejection rates and numerically higher death rates compared to patients treated with cyclosporine, MMF, steroids, and IL-2 receptor antagonist.
 A benefit, in terms of better renal function, was not apparent in the treatment arm with de novo use of Rapamune without cyclosporine.
 These findings were also observed in a similar treatment group of another clinical trial.
 
-## 5.12 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/Thrombotic Thrombocytopenic Purpura/Thrombotic Microangiopathy (HUS/TTP/TMA)
+## 5.13 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/Thrombotic Thrombocytopenic Purpura/Thrombotic Microangiopathy (HUS/TTP/TMA)
 
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Adverse Reactions (6.6)].
 
-## 5.13 Antimicrobial Prophylaxis
+## 5.14 Antimicrobial Prophylaxis
 
 Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
 Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for 1 year following transplantation.
 
 Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantation, particularly for patients at increased risk for CMV disease.
 
-## 5.14 Assay for Sirolimus Therapeutic Drug Monitoring
+## 5.15 Assay for Sirolimus Therapeutic Drug Monitoring
 
 The label-recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies.
 These concentration values are not interchangeable [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
-## 5.15 Skin Cancer Events
+## 5.16 Skin Cancer Events
 
 Patients on immunosuppressive therapy are at increased risk for skin cancer.
 Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
-## 5.16 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
+## 5.17 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
 Co-administration of Rapamune with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) is not recommended [see Drug Interactions (7)].

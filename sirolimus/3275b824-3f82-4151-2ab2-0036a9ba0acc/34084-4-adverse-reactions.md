@@ -12,8 +12,8 @@ The following adverse reactions are discussed in greater detail in other section
 - Hypertriglyceridemia, hypercholesterolemia [see Warnings and Precautions (5.7)]
 - Decline in renal function in long-term combination of cyclosporine with Rapamune [see Warnings and Precautions (5.8)]
 - Proteinuria [see Warnings and Precautions (5.9)]
-- Interstitial lung disease [see Warnings and Precautions (5.10)]
-- Increased risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Warnings and Precautions (5.12)].
+- Interstitial lung disease [see Warnings and Precautions (5.11)]
+- Increased risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Warnings and Precautions (5.13)].
 
 The most common (≥ 30%) adverse reactions observed with Rapamune in clinical studies are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
@@ -101,7 +101,7 @@ INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POS
 | Malignancy | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2-3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
-| Lymphoma/ lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
+| Lymphoma/lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
 | Skin Carcinoma |  |  |  |  |  |  |
 | Any Squamous Cellc | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |
 | Any Basal Cellc | 0.7 | 2.2 | 1.5 | 1.8 | 2.5 | 5.3 |
@@ -109,7 +109,7 @@ INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POS
 | Miscellaneous/Not Specified | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.8 |
 | Total | 1.1 | 4.4 | 3.3 | 4.1 | 4.3 | 7.7 |
 | Other Malignancy | 1.1 | 2.2 | 1.5 | 1.4 | 0.6 | 2.3 |
-| a: Patients received cyclosporine and corticosteroids. b: Includes patients who prematurely discontinued treatment. c: Patients may be counted in more than one category. |  |  |  |  |  |  |
+| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Patients may be counted in more than one category. |  |  |  |  |  |  |
 
 ## 6.2 Rapamune Following Cyclosporine Withdrawal
 
@@ -134,7 +134,7 @@ INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 M
 
 | Malignancy | Nonrandomized (n = 95) | Rapamune with Cyclosporine Therapy (n = 215) | Rapamune Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- | --- |
-| Lymphoma/ lymphoproliferative disease | 1.1 | 1.4 | 0.5 |
+| Lymphoma/lymphoproliferative disease | 1.1 | 1.4 | 0.5 |
 | Skin Carcinoma |  |  |  |
 | Any Squamous Cellc | 3.2 | 3.3 | 2.3 |
 | Any Basal Cellc | 3.2 | 6.5 | 2.3 |
@@ -142,7 +142,7 @@ INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 M
 | Miscellaneous/Not Specified | 1.1 | 0.9 | 0.0 |
 | Total | 4.2 | 7.9 | 3.7 |
 | Other Malignancy | 3.2 | 3.3 | 1.9 |
-| a: Patients received cyclosporine and corticosteroids. b: Includes patients who prematurely discontinued treatment. c: Patients may be counted in more than one category. |  |  |  |
+| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Patients may be counted in more than one category. |  |  |  |
 
 ## 6.3 High-Immunologic Risk Patients
 
@@ -165,7 +165,7 @@ Overall in this study, a 5-fold increase in the reports of tuberculosis among si
 
 ## 6.5 Pediatrics
 
-Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.5)].
+Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
 The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with a higher incidence of deterioration of renal function (creatinine increased) compared to calcineurin inhibitor-based therapy, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections.
 
 ## 6.6 Postmarketing Experience
@@ -175,14 +175,16 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Body as a Whole – Lymphedema.
 - Cardiovascular – Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults).
-- Hematological/Lymphatic – The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA (see Warnings and Precautions (5.12)]; pancytopenia, neutropenia.
+- Hematological/Lymphatic – The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)]; pancytopenia, neutropenia.
 - Hepatobiliary Disorders – Hepatotoxicity, including fatal hepatic necrosis, with elevated sirolimus trough concentrations.
 - Immune System – Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see Warnings and Precautions (5.4)].
 - Infections – Tuberculosis.
+  BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Rapamune.
+  This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see Warnings and Precautions (5.10)].
 - Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
-  The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.10)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
+  The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
 - Skin – Exfoliative dermatitis [see Warnings and Precautions (5.4)].
 - Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis.
   Azoospermia has been reported with the use of Rapamune and has been reversible upon discontinuation of Rapamune in most cases.

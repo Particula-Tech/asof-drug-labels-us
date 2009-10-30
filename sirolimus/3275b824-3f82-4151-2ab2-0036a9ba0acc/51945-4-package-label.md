@@ -20,6 +20,8 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 Rx only
 
+Wyeth®
+
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG/ML ORAL SOLUTION – LABEL
 
 NDC 0008-1030-04
@@ -48,7 +50,7 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG/ML ORAL SOLUTION – CARTON
 
 NDC 0008-1030-04
 
-Rapamune
+Rapamune®
 
 (sirolimus)
 
@@ -96,7 +98,7 @@ Rapamune®
 
 (sirolimus)
 
-Tablet, 1mg
+Tablet, 1 mg
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS – CARTON
 
@@ -109,6 +111,10 @@ Rapamune®
 1 mg Tablets
 
 For oral use only.
+
+Rx only
+
+Wyeth®
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 2 MG TABLETS – LABEL
 

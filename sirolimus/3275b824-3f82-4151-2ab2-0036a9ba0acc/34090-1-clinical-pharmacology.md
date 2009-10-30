@@ -89,12 +89,12 @@ SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENT
 | Patient Population(Study number) | Treatment | Year 1 |  | Year 3 |  |
 | --- | --- | --- | --- | --- | --- |
 | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) |  |  |
-| Low-to-moderate risk(Studies 1 & 2) | Rapamune (2 mg/day) + CsA | 7.2 | 3.6 – 11 | – | – |
+| Low-to-moderate risk (Studies 1 & 2) | Rapamune (2 mg/day) + CsA | 7.2 | 3.6 – 11 | – | – |
 | Rapamune (5 mg/day) + CsA | 14 | 8 – 22 | – | – |  |
-| Low-to-moderate risk(Study 3) | Rapamune + CsA | 8.6 | 5 – 13a | 9.1 | 5.4 – 14 |
+| Low-to-moderate risk (Study 3) | Rapamune + CsA | 8.6 | 5 – 13a | 9.1 | 5.4 – 14 |
 | Rapamune alone | 19 | 14 – 22a | 16 | 11 – 22 |  |
 | High risk (Study 4) | Rapamune + CsA | 15.7 11.8 11.5 | 5.4 – 27.3b 6.2 – 16.9c 6.3 – 17.3d | – | – |
-| a: Months 4 through 12 b: Up to Week 2; observed CsA Cmin was 217 (56 – 432) ng/mL c: Week 2 to Week 26; observed CsA Cmin range was 174 (71 – 288) ng/mL d: Week 26 to Week 52; observed CsA Cmin was 136 (54.5 – 218) ng/mL |  |  |  |  |  |
+| a: Months 4 through 12b: Up to Week 2; observed CsA Cmin was 217 (56 – 432) ng/mL c: Week 2 to Week 26; observed CsA Cmin range was 174 (71 – 288) ng/mL d: Week 26 to Week 52; observed CsA Cmin was 136 (54.5 – 218) ng/mL |  |  |  |  |  |
 
 The withdrawal of cyclosporine and concurrent increases in sirolimus trough concentrations to steady-state required approximately 6 weeks.
 Following cyclosporine withdrawal, larger Rapamune doses were required due to the absence of the inhibition of sirolimus metabolism and transport by cyclosporine and to achieve higher target sirolimus trough concentrations during concentration-controlled administration [see Dosage and Administration (2.1), Drug Interactions (7.1)].
@@ -131,11 +131,11 @@ SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6-11 | 8 | 27 ± 10 | 22.1 ± 8.9 | 5.88 ± 4.05 | 10.6 ± 4.3 | 356 ± 127 | 214 ± 129 | 5.4 ± 2.8 |
 | 12-18 | 14 | 52 ± 15 | 34.5 ± 12.2 | 2.7 ± 1.5 | 14.7 ± 8.6 | 466 ± 236 | 136 ± 57 | 4.7 ± 1.9 |
-| a: Rapamune co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules). b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS). c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2). |  |  |  |  |  |  |  |  |
+| a: Rapamune co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules).b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS)c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2). |  |  |  |  |  |  |  |  |
 
 The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE) *
+SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
 
 | Age Group (y) | n | tmax (h) | t1/2 (h) | CL/F/WT (mL/h/kg) |
 | --- | --- | --- | --- | --- |
@@ -203,7 +203,7 @@ However, the terminal t½ of sirolimus was not changed.
 Single-dose sirolimus did not affect steady-state 12-hour plasma ketoconazole concentrations.
 
 Rifampin: Rifampin is a strong inducer of CYP3A4 and P-gp; co-administration of Rapamune oral solution or tablets and rifampin is not recommended.
-In patients where rifampin is indicated, alternative therapeutic agents with less enzyme induction potential should be considered [see Warnings and Precautions (5.16), Drug Interactions (7.2)].
+In patients where rifampin is indicated, alternative therapeutic agents with less enzyme induction potential should be considered [see Warnings and Precautions (5.17), Drug Interactions (7.2)].
 Pretreatment of 14 healthy volunteers with multiple doses of rifampin, 600 mg daily for 14 days, followed by a single 20-mg dose of sirolimus oral solution, greatly decreased sirolimus AUC and Cmax by about 82% and 71%, respectively.
 
 Verapamil: Verapamil is a substrate and inhibitor of CYP3A4 and P-gp; sirolimus concentrations should be monitored and a dose adjustment may be necessary; [see Drug Interactions (7.4)].
@@ -234,7 +234,7 @@ Sulfamethoxazole/trimethoprim (Bactrim®)
 
 ### Other Drug-Drug Interactions
 
-Co-administration of Rapamune with other known strong inhibitors of CYP3A4 and/or P-gp (such as voriconazole, itraconazole, telithromycin, or clarithromycin) or other known strong inducers of CYP3A4 and/or P-gp (such as rifabutin) is not recommended [see Warnings and Precautions (5.16), Drug Interactions (7.2)].
+Co-administration of Rapamune with other known strong inhibitors of CYP3A4 and/or P-gp (such as voriconazole, itraconazole, telithromycin, or clarithromycin) or other known strong inducers of CYP3A4 and/or P-gp (such as rifabutin) is not recommended [see Warnings and Precautions (5.17), Drug Interactions (7.2)].
 In patients in whom strong inhibitors or inducers of CYP3A4 are indicated, alternative therapeutic agents with less potential for inhibition or induction of CYP3A4 should be considered.
 
 Care should be exercised when drugs or other substances that are substrates and/or inhibitors or inducers of CYP3A4 are administered concomitantly with Rapamune.

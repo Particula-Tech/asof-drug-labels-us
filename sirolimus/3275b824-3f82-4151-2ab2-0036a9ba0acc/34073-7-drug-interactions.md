@@ -12,7 +12,7 @@ If cyclosporine is withdrawn from combination therapy with Rapamune, higher dose
 ## 7.2 Strong Inducers and Strong Inhibitors of CYP3A4 and P-gp
 
 Avoid concomitant use of sirolimus with strong inducers (e.g., rifampin, rifabutin) and strong inhibitors (e.g., ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, clarithromycin) of CYP3A4 and P-gp.
-Alternative agents with lesser interaction potential with sirolimus should be considered [see Warnings and Precautions (5.16), Clinical Pharmacology (12.3)].
+Alternative agents with lesser interaction potential with sirolimus should be considered [see Warnings and Precautions (5.17), Clinical Pharmacology (12.3)].
 
 ## 7.3 Grapefruit Juice
 
