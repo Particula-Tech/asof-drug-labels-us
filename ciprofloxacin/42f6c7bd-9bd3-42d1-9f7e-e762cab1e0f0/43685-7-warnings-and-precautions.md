@@ -25,7 +25,7 @@ Ciprofloxacin may also cause central nervous system (CNS) events including: dizz
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving ciprofloxacin, the drug should be discontinued and appropriate measures instituted.
 As with all quinolones, ciprofloxacin should be used with caution in patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (e.g. severe cerebral arteriosclerosis, epilepsy), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (e.g. certain drug therapy, renal dysfunction).
-(See PRECAUTIONS: General,Information for Patients,Drug Interactions and ADVERSE REACTIONS.)
+(See PRECAUTIONS: General, Information for Patients, Drug Interactions and ADVERSE REACTIONS.)
 
 SERIOUS AND FATAL REACTIONS HAVE BEEN REPORTED IN PATIENTS RECEIVING CONCURRENT ADMINISTRATION OF CIPROFLOXACIN AND THEOPHYLLINE.
 These reactions have included cardiac arrest, seizure, status epilepticus, and respiratory failure.
@@ -76,13 +76,13 @@ Alkalinity of the urine should be avoided in patients receiving ciprofloxacin.
 Patients should be well hydrated to prevent the formation of highly concentrated urine.
 
 Quinolones, including ciprofloxacin, may also cause central nervous system (CNS) events, including: nervousness, agitation, insomnia, anxiety, nightmares or paranoia.
-(See WARNINGS,Information for Patients, and Drug Interactions.)
+(See WARNINGS, Information for Patients, and Drug Interactions.)
 
 ## Photosensitivity/Phototoxicity:
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS.
+Drug therapy should be discontinued if phototoxicity occurs (see ADVERSE REACTIONS).
 
 Prescribing CIPRO XR in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -101,7 +101,7 @@ Patients should be advised:
   CIPRO XR may be taken two hours before or six hours after taking these products.
   (See CLINICAL PHARMACOLOGY, Drug-drug Interactions,DOSAGE AND ADMINISTRATION, and PRECAUTIONS, Drug Interactions.)
   CIPRO XR should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, CIPRO XR may be taken with a meal that contains these products.
-  (See CLINICAL PHARMACOLOGY, Drug-drug Interactions,DOSAGE AND ADMINISTRATION, and PRECAUTIONS, Drug Interactions.)
+  (See CLINICAL PHARMACOLOGY, Drug-drug Interactions, DOSAGE AND ADMINISTRATION, and PRECAUTIONS, Drug Interactions.)
 - if the patient should forget to take CIPRO XR at the usual time, he/she may take the dose later in the day.
   Do not take more than one CIPRO XR tablet per day even if a patient misses a dose.
   Swallow the CIPRO XR tablet whole.
@@ -139,7 +139,7 @@ This may lead to reduced clearance of caffeine and a prolongation of its serum h
 
 Concurrent administration of a quinolone, including ciprofloxacin, with multivalent cation-containing products such as magnesium/aluminum antacids, sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, or products containing calcium, iron, or zinc may substantially interfere with the absorption of the quinolone, resulting in serum and urine levels considerably lower than desired.
 CIPRO XR should be administered at least 2 hours before or 6 hours after antacids containing magnesium or aluminum, as well as sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, metal cations such as iron, and multivitamin preparations with zinc.
-(See CLINICAL PHARMACOLOGY, Drug-drug Interactions,PRECAUTIONS, Information for Patients, and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY, Drug-drug Interactions, PRECAUTIONS, Information for Patients, and DOSAGE AND ADMINISTRATION.)
 
 Histamine H2-receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin.
 
@@ -197,7 +197,7 @@ In this model, mice treated with ciprofloxacin alone did not develop skin or sys
 There are no data from similar models using pigmented mice and/or fully haired mice.
 The clinical significance of these findings to humans is unknown.
 
-Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/kg (1.0 times the highest recommended daily human dose of 1000 mg based upon body surface area) revealed no evidence of impairment.
+Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/kg (1 times the highest recommended daily human dose of 1000 mg based upon body surface area) revealed no evidence of impairment.
 
 ## Pregnancy
 

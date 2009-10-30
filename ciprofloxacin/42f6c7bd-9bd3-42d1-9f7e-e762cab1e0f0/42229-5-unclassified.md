@@ -1,4 +1,4 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO XR and other antibacterial drugs, CIPRO XR should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO® XR and other antibacterial drugs, CIPRO XR should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # MICROBIOLOGY
 
@@ -57,7 +57,7 @@ Standard ciprofloxacin powder should provide the following MIC values:
 
 | Microorganism |  | MIC Range (μg/mL) |
 | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 -2.0 |
+| Enterococcus faecalis | ATCC 29212 | 0.25 -2 |
 | Escherichia coli | ATCC 25922 | 0.004 -0.015 |
 | Staphylococcus aureus | ATCC 29213 | 0.12 -0.5 |
 | Pseudomonas aeruginosa | ATCC 27853 | 0.25 -1 |

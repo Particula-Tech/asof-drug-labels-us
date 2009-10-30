@@ -37,7 +37,7 @@ Other minor metabolites are desethylene ciprofloxacin (M1), and formylciprofloxa
 The relative proportion of drug and metabolite in serum corresponds to the composition found in urine.
 Excretion of these metabolites was essentially complete by 24 hours after dosing.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (seeCONTRAINDICATIONS; WARNINGS; PRECAUTIONS: Drug Interactions).
+Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (see CONTRAINDICATIONS; WARNINGS; PRECAUTIONS: Drug Interactions).
 
 ## Elimination
 
@@ -76,7 +76,7 @@ Concomitant administration with tizanidine is contraindicated.
 Previous studies with immediate-release ciprofloxacin have shown that concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
 Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
 Absorption of ciprofloxacin is significantly reduced by concomitant administration of multivalent cation-containing products such as magnesium/aluminum antacids, sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, or products containing calcium, iron, or zinc.
-(See WARNINGS:PRECAUTIONS, Drug Interactions and Information for Patients, and DOSAGE AND ADMINISTRATION.)
+(See WARNINGS: PRECAUTIONS, Drug Interactions and Information for Patients, and DOSAGE AND ADMINISTRATION.)
 
 Antacids: When CIPRO XR given as a single 1000 mg dose was administered two hours before, or four hours after a magnesium/aluminum-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 18 healthy volunteers, there was a 4% and 19% reduction, respectively, in the mean Cmax of ciprofloxacin.
 The reduction in the mean AUC was 24% and 26%, respectively.

@@ -4,9 +4,9 @@ CIPRO XR is indicated only for the treatment of urinary tract infections, includ
 CIPRO XR and ciprofloxacin immediate-release tablets are not interchangeable.
 Please see DOSAGE AND ADMINISTRATION for specific recommendations.
 
-Uncomplicated Urinary Tract Infections (Acute Cystitis) caused by Escherichia coli, Proteus mirabilis, Enterococcus faecalis, or Staphylococcus saprophyticusa.
+Uncomplicated Urinary Tract Infections (Acute Cystitis) caused by Escherichia coli, Proteus mirabilis, Enterococcus faecalis, or Staphylococcus saprophyticus.a
 
-Complicated Urinary Tract Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterococcus faecalis, Proteus mirabilis, or Pseudomonas aeruginosaa.
+Complicated Urinary Tract Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterococcus faecalis, Proteus mirabilis, or Pseudomonas aeruginosa.a
 
 Acute Uncomplicated Pyelonephritis caused by Escherichia coli.
 

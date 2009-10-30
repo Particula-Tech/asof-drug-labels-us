@@ -18,10 +18,10 @@ The eradication and clinical success rates and their corresponding 95% confidenc
 |  | CI [-3.5%, 5.1%] |  |
 | Bacteriologic Eradication (by organism) at TOC (n/N)n/N =patients with specified baseline organism eradicated/patients with specified baseline organism |  |  |
 | E. coli | 156/160 (97.5%) | 176/181 (97.2%) |
-| E. faecalis | 10/11 (90.9%) | 17/21 (81.0%) |
+| E. faecalis | 10/11 (90.9%) | 17/21 (81%) |
 | P. mirabilis | 11/12 (91.7%) | 7/7 (100%) |
 | S. saprophyticus | 6/7 (85.7%) | 9/9 (100%) |
-| Clinical Response at TOC (n/N)n/N = patients with clinical success /total number of patients | 189/199 (95.0%) | 204/223 (91.5%) |
+| Clinical Response at TOC (n/N)n/N = patients with clinical success /total number of patients | 189/199 (95%) | 204/223 (91.5%) |
 |  | CI [-1.1%, 8.1%] |  |
 
 Complicated Urinary Tract Infections and Acute Uncomplicated Pyelonephritis
@@ -36,7 +36,7 @@ Reasons for exclusion with the greatest discrepancy between the two arms were no
 
 An analysis of all patients with a causative organism(s) isolated at baseline and who received study medication, defined as the MITT population, included 342 patients in the CIPRO XR arm and 324 patients in the control arm.
 Patients with missing responses were counted as failures in this analysis.
-In the MITT analysis of cUTI patients, bacteriologic eradication was 160/271 (59.0%) versus 156/248 (62.9%) in CIPRO XR and control arm, respectively [97.5% CI* (-13.5%, 5.7%)].
+In the MITT analysis of cUTI patients, bacteriologic eradication was 160/271 (59%) versus 156/248 (62.9%) in CIPRO XR and control arm, respectively [97.5% CI* (-13.5%, 5.7%)].
 Clinical cure was 184/271 (67.9%) for CIPRO XR and 182/248 (73.4%) for control arm, respectively [97.5% CI* (-14.4%, 3.5%)].
 Bacterial eradication in the MITT analysis of patients with AUP at TOC was 47/71 (66.2%) and 58/76 (76.3%) for CIPRO XR and control arm, respectively [97.5% CI* (-26.8%, 6.5%)].
 Clinical cure at TOC was 50/71 (70.4%) for CIPRO XR and 58/76 (76.3%) for the control arm [97.5% CI* (-22.0%, 10.4%)].

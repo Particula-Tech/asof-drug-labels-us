@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NADA021473",
+    "NDA021473"
+  ],
   "inn": "ciprofloxacin",
-  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+  "labeler": "Schering Plough Corporation",
   "package_ndcs": [
     "0085-1775-01",
     "0085-1775-02",
@@ -9,7 +12,13 @@
     "0085-1778-02",
     "0085-1778-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ciprofloxacin",
+      "name": "Cipro"
+    }
+  ],
   "setid": "42f6c7bd-9bd3-42d1-9f7e-e762cab1e0f0",
   "source": "dailymed"
 }

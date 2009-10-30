@@ -19,7 +19,7 @@ Although CIPRO XR may be taken with meals that include milk, concomitant adminis
 A 2-hour window between substantial calcium intake (> 800 mg) and dosing with CIPRO XR is recommended.
 CIPRO XR should be swallowed whole.
 DO NOT SPLIT, CRUSH, OR CHEW THE TABLET.
-(See CLINICAL PHARMACOLOGY, Drug-drug Interactions,PRECAUTIONS, Drug Interactions and Information for Patients.)
+(See CLINICAL PHARMACOLOGY, Drug-drug Interactions, PRECAUTIONS, Drug Interactions and Information for Patients.)
 
 ## Impaired Renal Function:
 
@@ -28,7 +28,7 @@ These alternate pathways of drug elimination appear to compensate for the reduce
 No dosage adjustment is required for patients with uncomplicated urinary tract infections receiving 500 mg CIPRO XR.
 In patients with complicated urinary tract infections and acute uncomplicated pyelonephritis, who have a creatinine clearance of < 30 mL/min, the dose of CIPRO XR should be reduced from 1000 mg to 500 mg daily.
 For patients on hemodialysis or peritoneal dialysis, administer CIPRO XR after the dialysis procedure is completed.
-(SeeCLINICAL PHARMACOLOGY, Special Populations and PRECAUTIONS, Geriatric Use.)
+(See CLINICAL PHARMACOLOGY, Special Populations and PRECAUTIONS, Geriatric Use.)
 
 ## Impaired Hepatic Function:
 

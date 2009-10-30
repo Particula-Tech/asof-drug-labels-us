@@ -5,8 +5,8 @@ CIPRO XR tablets are coated, bilayer tablets consisting of an immediate-release 
 The tablets contain a combination of two types of ciprofloxacin drug substance, ciprofloxacin hydrochloride and ciprofloxacin betaine (base).
 Ciprofloxacin hydrochloride is 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7- (1-piperazinyl)-3-quinolinecarboxylic acid hydrochloride.
 It is provided as a mixture of the monohydrate and the sesquihydrate.
-The empirical formula of the monohydrate is C17H18FN3O3• HCl • H2O and its molecular weight is 385.8.
-The empirical formula of the sesquihydrate is C17H18FN3O3• HCl • 1.5 H2O and its molecular weight is 394.8.
+The empirical formula of the monohydrate is C17H18FN3O3 • HCl • H2O and its molecular weight is 385.8.
+The empirical formula of the sesquihydrate is C17H18FN3O3 • HCl • 1.5 H2O and its molecular weight is 394.8.
 The drug substance is a faintly yellowish to light yellow crystalline substance.
 The chemical structure of the monohydrate is as follows:
 

@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 CIPRO® (Sip-row) (ciprofloxacin hydrochloride) TABLETS
 
@@ -13,7 +13,7 @@ Read the Medication Guide that comes with CIPRO® before you start taking it and
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-## What is the most important information I should know about CIPRO?
+What is the most important information I should know about CIPRO?
 
 CIPRO belongs to a class of antibiotics called fluoroquinolones.
 CIPRO can cause side effects that may be serious or even cause death.
@@ -47,7 +47,7 @@ Talk with your healthcare provider about whether you should continue to take CIP
 - unable to move the affected area or bear weight
 - See the section “What are the possible side effects of CIPRO?” for more information about side effects.
 
-## What is CIPRO?
+What is CIPRO?
 
 CIPRO is a fluoroquinolone antibiotic medicine used to treat certain infections caused by certain germs called bacteria.
 
@@ -63,7 +63,7 @@ Antibiotics, including CIPRO, do not kill viruses.
 
 Call your healthcare provider if you think your condition is not getting better while you are taking CIPRO.
 
-## Who should not take CIPRO?
+Who should not take CIPRO?
 
 Do not take CIPRO if you:
 
@@ -73,11 +73,11 @@ Do not take CIPRO if you:
 - also take a medicine called tizanidine (Zanaflex®).
   Serious side effects from tizanidine are likely to happen.
 
-## What should I tell my healthcare provider before taking CIPRO?
+What should I tell my healthcare provider before taking CIPRO?
 
 See “What is the most important information I should know about CIPRO?”
 
-## Tell your healthcare provider about all your medical conditions, including if you:
+Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
 - have central nervous system problems (such as epilepsy)
@@ -127,12 +127,12 @@ Especially tell your healthcare provider if you take:
 - sucralfate (Carafate®)
 - didanosine (Videx®, Videx EC®)
 
-## Ask your healthcare provider if you are not sure if any of your medicines are listed above.
+Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-## How should I take CIPRO?
+How should I take CIPRO?
 
 - Take CIPRO exactly as prescribed by your healthcare provider.
 - Take CIPRO Tablets in the morning and evening at about the same time each day.
@@ -172,7 +172,7 @@ If you have been prescribed CIPRO Tablets, CIPRO Oral Suspension or CIPRO I.V. a
   When taking your CIPRO to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping CIPRO too soon are more important than the risks of side effects with CIPRO.
 - If you are pregnant, or plan to become pregnant while taking CIPRO, you and your healthcare provider should decide whether the benefits of taking CIPRO Tablets, Oral Suspension or I.V. for anthrax are more important than the risks.
 
-## What should I avoid while taking CIPRO?
+What should I avoid while taking CIPRO?
 
 CIPRO can make you feel dizzy and lightheaded.
 Do not drive, operate machinery, or do other activities that require mental alertness or coordination until you know how CIPRO affects you.
@@ -183,7 +183,7 @@ You could get severe sunburn, blisters or swelling of your skin.
 If you get any of these symptoms while taking CIPRO, call your healthcare provider right away.
 You should use a sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
 
-## What are the possible side effects of CIPRO?
+What are the possible side effects of CIPRO?
 
 CIPRO can cause side effects that may be serious or even cause death.
 See “What is the most important information I should know about CIPRO?”
@@ -293,7 +293,7 @@ Tell your healthcare provider about any side effect that bothers you, or that do
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## How should I store CIPRO?
+How should I store CIPRO?
 
 - CIPRO Tablets
 - Store CIPRO below 86°F (30°C)
@@ -306,7 +306,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 Keep CIPRO and all medicines out of the reach of children.
 
-## General Information about CIPRO
+General Information about CIPRO
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use CIPRO for a condition for which it is not prescribed.
@@ -318,13 +318,13 @@ If you would like more information about CIPRO, talk with your healthcare provid
 You can ask your healthcare provider or pharmacist for information about CIPRO that is written for healthcare professionals.
 For more information go to www.CIPRO.com or call 1-800-526-4099.
 
-## What are the ingredients in CIPRO?
+What are the ingredients in CIPRO?
 
 - CIPRO Tablets:
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
 - CIPRO Oral Suspension:
-- Active ingredient: ciproflxacin
+- Active ingredient: ciprofloxacin
 - Inactive ingredients: The components of the suspension have the following compositions: Microcapsules—ciprofloxacin, povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20.
   Diluent—medium-chain triglycerides, sucrose, lecithin, water, and strawberry flavor.
 - CIPRO XR:
