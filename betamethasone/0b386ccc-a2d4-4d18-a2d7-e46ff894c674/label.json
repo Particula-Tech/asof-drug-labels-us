@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA018861",
+    "ANDA018865",
+    "ANDA018866"
+  ],
   "inn": "betamethasone",
-  "labeler": "E. FOUGERA and CO.",
+  "labeler": "E. FOUGERA & CO., A division of Nycomed US Inc.",
   "package_ndcs": [
     "0168-0033-15",
     "0168-0033-46",
@@ -9,7 +13,23 @@
     "0168-0040-46",
     "0168-0041-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "betamethasone valerate",
+      "name": "Betamethasone Valerate"
+    },
+    {
+      "form": "LOTION",
+      "generic": "betamethasone valerate",
+      "name": "Betamethasone Valerate"
+    },
+    {
+      "form": "OINTMENT",
+      "generic": "betamethasone valerate",
+      "name": "Betamethasone Valerate"
+    }
+  ],
   "setid": "0b386ccc-a2d4-4d18-a2d7-e46ff894c674",
   "source": "dailymed"
 }
