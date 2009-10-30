@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021738"
+  ],
   "inn": "ketoconazole",
-  "labeler": "Stiefel Laboratories, Inc.",
+  "labeler": "Stiefel Laboratories Inc",
   "package_ndcs": [
     "63032-051-00",
+    "63032-051-10",
     "63032-051-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "ketoconazole",
+      "name": "EXTINA"
+    }
+  ],
   "setid": "eb9ee667-17b5-4b0c-89f3-a4a813cb0758",
   "source": "dailymed"
 }

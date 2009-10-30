@@ -1,8 +1,8 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term animal studies have not been performed to evaluate the carcinogenic or photo-carcinogenic potential of Extina Foam.
+Long-term animal studies have not been performed to evaluate the carcinogenic or photo-carcinogenic potential of EXTINA® Foam.
 
 In oral carcinogenicity studies in mice (18-months) and rats (24-months) at dose levels of 5, 20 and 80 mg/kg/day ketoconazole was not carcinogenic.
 The high dose in these studies was approximately 2.4 to 4.8 times the expected topical dose in humans based on a mg/m2 comparison.

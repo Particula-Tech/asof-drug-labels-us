@@ -1,16 +1,16 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 The mechanism of action of ketoconazole in the treatment of seborrheic dermatitis is not known.
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamics of Extina Foam has not been established.
+The pharmacodynamics of EXTINA® Foam has not been established.
 
 ## 12.3 Pharmacokinetics
 
-In a bioavailability study, 12 subjects with moderate to severe seborrheic dermatitis applied 3 g of Extina Foam twice daily for 4 weeks.
+In a bioavailability study, 12 subjects with moderate to severe seborrheic dermatitis applied 3 g of EXTINA® Foam twice daily for 4 weeks.
 Circulating plasma levels of ketoconazole were < 6 ng/mL for a majority of subjects (75%), with a maximum level of 11 ng/mL observed in one subject.
 
 ## 12.4 Microbiology
