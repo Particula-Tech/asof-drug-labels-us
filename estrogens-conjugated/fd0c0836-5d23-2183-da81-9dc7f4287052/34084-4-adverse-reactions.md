@@ -119,7 +119,7 @@ Deep and superficial venous thrombosis, pulmonary embolism, thrombophlebitis, my
 
 ## 4. Gastrointestinal
 
-Nausea, cholestatic jaundice, changes in appetite, vomiting, abdominal cramps, bloating, increased incidence of gallbladder disease, pancreatitis, enlargement of hepatic hemangiomas.
+Nausea, cholestatic jaundice, changes in appetite, vomiting, abdominal cramps, bloating, increased incidence of gallbladder disease, pancreatitis, enlargement of hepatic hemangiomas, ischemic colitis.
 
 ## 5. Skin
 
@@ -131,7 +131,7 @@ Neuro-ocular lesions, for example, retinal vascular thrombosis and optic neuriti
 
 ## 7. Central Nervous System (CNS)
 
-Headache, dizziness, mental depression, mood disturbances, anxiety, irritability, nervousness, migraine, exacerbation of chorea, insomnia, somnolence, exacerbation of epilepsy, dementia.
+Headache, dizziness, mental depression, mood disturbances, anxiety, irritability, nervousness, migraine, exacerbation of chorea, insomnia, somnolence, exacerbation of epilepsy, dementia, growth potentiation of benign meningioma.
 
 ## 8. Miscellaneous
 
