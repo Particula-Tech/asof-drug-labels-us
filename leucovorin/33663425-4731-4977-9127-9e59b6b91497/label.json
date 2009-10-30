@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA072733",
+    "ANDA072734",
+    "ANDA072735",
+    "ANDA072736"
+  ],
+  "inn": "leucovorin",
+  "labeler": "Roxane Laboratories, Inc",
+  "package_ndcs": [
+    "0054-4496-13",
+    "0054-4496-25",
+    "0054-4497-05",
+    "0054-4497-10",
+    "0054-4498-10",
+    "0054-4499-11",
+    "0054-8496-19"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "leucovorin calcium",
+      "name": "Leucovorin Calcium"
+    }
+  ],
+  "setid": "33663425-4731-4977-9127-9e59b6b91497",
+  "source": "dailymed"
+}
