@@ -1,7 +1,12 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA018823",
+    "ANDA070086",
+    "ANDA070433",
+    "ANDA070434"
+  ],
   "inn": "furosemide",
-  "labeler": "Roxane Laboratories",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-3294-46",
     "0054-3294-50",
@@ -17,7 +22,18 @@
     "0054-8299-25",
     "0054-8301-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    },
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
   "setid": "9e493331-dddd-496e-abf8-61747fb67aba",
   "source": "dailymed"
 }

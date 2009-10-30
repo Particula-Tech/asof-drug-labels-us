@@ -2,25 +2,26 @@
 
 Adverse reactions are categorized below by organ system and listed by decreasing severity.
 
-## Gastrointestinal System Reactions:
+Gastrointestinal System Reactions
 
-1. pancreatitis
-2. jaundice (intrahepatic cholestatic jaundice)
-3. anorexia
-4. oral and gastric irritation
-5. cramping
-6. diarrhea
-7. constipation
-8. nausea
-9. vomiting
+1. hepatic encephalopathy in patients with hepatocellular insufficiency
+2. pancreatitis
+3. jaundice (intrahepatic cholestatic jaundice)
+4. anorexia
+5. oral and gastric irritation
+6. cramping
+7. diarrhea
+8. constipation
+9. nausea
+10. vomiting
 
-## Systemic Hypersensitivity Reactio ns:
+Systemic Hypersensitivity Reactions
 
 1. systemic vasculitis
 2. interstitial nephritis
 3. necrotizing angiitis
 
-## Central Nervous System Reactions:
+Central Nervous System Reactions
 
 1. tinnitus and hearing loss
 2. paresthesias
@@ -30,7 +31,7 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 6. blurred vision
 7. xanthopsia
 
-## Hematologic Reactions:
+Hematologic Reactions
 
 1. aplastic anemia (rare)
 2. thrombocytopenia
@@ -39,29 +40,30 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 5. leukopenia
 6. anemia
 
-## Dermatologic-Hypersensitivity Reactions:
+Dermatologic-Hypersensitivity Reactions
 
 1. exfoliative dermatitis
-2. erythema multiforme
-3. purpura
-4. photosensitivity
-5. urticaria
-6. rash
-7. pruritus
+2. bullous pemphigoid
+3. erythema multiforme
+4. purpura
+5. photosensitivity
+6. urticaria
+7. rash
+8. pruritus
 
-## Cardiovascular Reaction:
+Cardiovascular Reaction
 
 Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics.
 
-## Other Reactions:
+Other Reactions
 
 1. hyperglycemia
 2. glycosuria
-3. hyperuricemia spasm
+3. hyperuricemia
 4. muscle spasm
 5. weakness
 6. restlessness
-7. urinary bladder
+7. urinary bladder spasm
 8. thrombophlebitis
 9. fever
 
