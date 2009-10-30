@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA071258"
+  ],
+  "inn": "trazodone",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-2653-0",
+    "60505-2653-1",
+    "60505-2653-5",
+    "60505-2654-0",
+    "60505-2654-1",
+    "60505-2654-5",
+    "60505-2655-0",
+    "60505-2655-1",
+    "60505-2655-5",
+    "60505-2659-0",
+    "60505-2659-1",
+    "60505-2659-5"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trazodone hydrochloride",
+      "name": "Trazodone Hydrochloride"
+    }
+  ],
+  "setid": "71961ab1-951d-1493-f76c-2ff25cca2a85",
+  "source": "dailymed"
+}
