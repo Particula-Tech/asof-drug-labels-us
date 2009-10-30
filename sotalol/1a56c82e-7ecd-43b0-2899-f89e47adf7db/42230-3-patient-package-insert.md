@@ -151,26 +151,8 @@ Your doctor or pharmacist has a longer leaflet written for healthcare profession
 Sotalol hydrochloride tablets (AF) was prescribed for your particular condition.
 Do not use it for another condition or give it to others.
 
-APOTEX INC.
+APOTEX INC. SOTALOL HYDROCHLORIDE TABLETS (AF) 80 mg, 120 mg and 160 mg
 
-SOTALOL HYDROCHLORIDE TABLETS (AF)
-
-80 mg, 120 mg and 160 mg
-
-Manufactured by:
-
-Apotex Inc.
-
-Toronto, Ontario
-
-Canada M9L 1T9
-
-Manufactured for:
-
-Apotex Corp.
-
-Weston, Florida
-
-33326
+Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
 Revised: December 2003

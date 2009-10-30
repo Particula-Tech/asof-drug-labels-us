@@ -8,3 +8,12 @@ Sotalol Hydrochloride Tablets (AF) 160 mg are available for oral administration 
 
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light resistant container [see USP].
+
+APOTEX INC. SOTALOL HYDROCHLORIDE TABLETS (AF) 80 mg, 120 mg and 160 mg
+
+Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
+
+Revised: May 2004
+
+Rev.
+0

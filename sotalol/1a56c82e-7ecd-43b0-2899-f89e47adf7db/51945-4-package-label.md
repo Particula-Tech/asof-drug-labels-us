@@ -1,0 +1,39 @@
+# PRINCIPAL DISPLAY PANEL
+
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+
+PRINCIPAL DISPLAY PANEL - 80 mg Bottle Label
+
+APOTEX CORP. NDC 60505-0222-1
+
+SOTALOL HYDROCHLORIDETABLETS (AF)
+
+80 mg
+
+Rx only
+
+100 Tablets
+
+PRINCIPAL DISPLAY PANEL - 120 mg Bottle Label
+
+APOTEX CORP. NDC 60505-0223-1
+
+SOTALOL HYDROCHLORIDETABLETS (AF)
+
+120 mg
+
+Rx only
+
+100 Tablets
+
+PRINCIPAL DISPLAY PANEL - 160 mg Bottle Label
+
+APOTEX CORP. NDC 60505-0224-1
+
+SOTALOL HYDROCHLORIDETABLETS (AF)
+
+160 mg
+
+Rx only
+
+100 Tablets
