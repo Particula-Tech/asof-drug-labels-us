@@ -1,4 +1,8 @@
-# Medication Guide Cordarone® ′KOR-DU-RŌN Tablets (amiodarone HCl)
+MEDICATION GUIDE
+
+Cordarone® ′KOR-DU-RŌN Tablets
+
+(amiodarone HCl)
 
 Rx only
 
@@ -126,6 +130,9 @@ Do not take any new medicines while you are taking Cordarone Tablets unless you 
 
 ## What are the possible or reasonably likely side effects of Cordarone Tablets?
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1‑800‑FDA-1088.
+
 Cordarone Tablets can cause serious side effects that lead to death including lung damage, liver damage, worse heartbeat problems, and thyroid problems.
 See “What is the most important information I should know about Cordarone Tablets?”
 
@@ -189,9 +196,15 @@ Manufactured for
 
 Wyeth®
 
-Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
+Wyeth Pharmaceuticals Inc.
 
-by Sanofi Winthrop Industrie 1, rue de la Vierge 33440 Ambares, France
+Philadelphia, PA 19101
+
+by Sanofi Winthrop Industrie
+
+1, rue de la Vierge
+
+33440 Ambares, France
 
 Cordarone is a registered trademark of Sanofi-Synthelabo.
 
@@ -204,4 +217,8 @@ Alavert is a registered trademark of Wyeth.
 ©2004, Wyeth Pharmaceuticals.
 All rights reserved.
 
-(Update W10427C017) (Update ET01) (Update Rev Date)
+W10427C020
+
+ET01
+
+Rev 08/09

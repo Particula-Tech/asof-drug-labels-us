@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018972"
+  ],
   "inn": "amiodarone",
-  "labeler": "Wyeth Pharmaceuticals Inc.",
+  "labeler": "Wyeth Pharmaceuticals Company",
   "package_ndcs": [
     "0008-4188-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amiodarone hydrochloride",
+      "name": "Cordarone"
+    }
+  ],
   "setid": "51be39a2-9134-402c-95ad-defe47406ff8",
   "source": "dailymed"
 }

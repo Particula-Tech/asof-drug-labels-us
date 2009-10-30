@@ -35,11 +35,11 @@ The area under the plasma concentration-time curve (AUC) and the peak plasma con
 Food also increased the rate of absorption of amiodarone, decreasing the time to peak plasma concentration (Tmax) by 37%.
 The mean AUC and mean Cmax of desethylamiodarone increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the Tmax in the presence of food.
 
-Cordarone has a very large but variable volume of distribution, averaging about 60 L/kg, because of extensive accumulation in various sites, especially adipose tissue and highly perfused organs, such as the liver, lung,and spleen.
+Cordarone has a very large but variable volume of distribution, averaging about 60 L/kg, because of extensive accumulation in various sites, especially adipose tissue and highly perfused organs, such as the liver, lung, and spleen.
 One major metabolite of Cordarone, desethylamiodarone (DEA), has been identified in man; it accumulates to an even greater extent in almost all tissues.
 No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself.
 DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain.
-The development of maximal ventricular Class III effects after oral Cordarone administration in humans correlatesmore closely with DEA accumulation over time than with amiodarone accumulation.
+The development of maximal ventricular Class III effects after oral Cordarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
 
 Amiodarone is metabolized to desethylamiodarone by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P450 3A4 (CYP3A4) and CYP2C8.
 The CYP3A4 isoenzyme is present in both the liver and intestines.

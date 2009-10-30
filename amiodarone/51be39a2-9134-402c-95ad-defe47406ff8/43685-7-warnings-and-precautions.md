@@ -14,15 +14,15 @@ Intent-to-treat all-cause mortality results were as follows:
 |  | Placebo |  | Amiodarone |  | Relative Risk |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | N | Deaths | N | Deaths |  | 95%CI |
-| EMIAT | 743 | 102 | 743 | 103 | 0.99 | 0.76-1.31 |
-| CAMIAT | 596 | 68 | 606 | 57 | 0.88 | 0.58-1.16 |
+| EMIAT | 743 | 102 | 743 | 103 | 0.99 | 0.76‑1.31 |
+| CAMIAT | 596 | 68 | 606 | 57 | 0.88 | 0.58‑1.16 |
 
 These data are consistent with the results of a pooled analysis of smaller, controlled studies involving patients with structural heart disease (including myocardial infarction).
 
 ## Pulmonary Toxicity
 
 There have been post-marketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral Cordarone with or without initial I.V. therapy.
-Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
+Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, pleural effusion, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
 Some cases have progressed to respiratory failure and/or death.
 Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of Cordarone; however, reports suggest that the use of lower loading and maintenance doses of Cordarone are associated with a decreased incidence of Cordarone-induced pulmonary toxicity.
 
@@ -30,7 +30,7 @@ Cordarone Tablets may cause a clinical syndrome of cough and progressive dyspnea
 Therefore, when Cordarone therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
 The patient should return for a history, physical exam, and chest X-ray every 3 to 6 months.
 
-Pulmonary toxicity secondary to Cordarone seems to result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis or interstitial/alveolar pneumonitis, respectively.
+Pulmonary toxicity secondary to Cordarone seems to result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis (including eosinophilic pneumonia) or interstitial/alveolar pneumonitis, respectively.
 
 Patients with preexisting pulmonary disease have a poorer prognosis if pulmonary toxicity develops.
 
@@ -170,7 +170,7 @@ Hyperthyroidism is best identified by relevant clinical symptoms and signs, acco
 The finding of a flat TSH response to TRH is confirmatory of hyperthyroidism and may be sought in equivocal cases.
 Since arrhythmia breakthroughs may accompany Cordarone-induced hyperthyroidism, aggressive medical treatment is indicated, including, if possible, dose reduction or withdrawal of Cordarone.
 
-The institution of antithyroid drugs,β-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
+The institution of antithyroid drugs, β-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
 The action of antithyroid drugs may be especially delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
 Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism.
 Cordarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism (see “WARNINGS, Thyrotoxicosis”).
