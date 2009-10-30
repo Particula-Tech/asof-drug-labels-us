@@ -15,7 +15,7 @@ Response rates, response duration, and time to progression are shown in Table 1.
 Table 1.
 Efficacy of HYCAMTIN Versus Paclitaxel in Ovarian Cancer
 
-| Parameter | HYCAMTIN (n = 112) | Paclitaxel (n = 114) |
+| Parameter | HYCAMTIN(n = 112) | Paclitaxel(n = 114) |
 | --- | --- | --- |
 | Complete response rate | 5% | 3% |
 | Partial response rate | 16% | 11% |
@@ -41,7 +41,7 @@ Efficacy of HYCAMTIN Versus Paclitaxel in Ovarian Cancer
 | (HYCAMTIN:paclitaxel) | 0.97 |  |
 | (p-value) | (0.87) |  |
 
-*The calculation for duration of response was based on the interval between first response and time to progression.
+* The calculation for duration of response was based on the interval between first response and time to progression.
 
 The median time to response was 7.6 weeks (range 3.1 to 21.7) with HYCAMTIN compared to 6.0 weeks (range 2.4 to 18.1) with paclitaxel.
 Consequently, the efficacy of HYCAMTIN may not be achieved if patients are withdrawn from treatment prematurely.
@@ -73,13 +73,13 @@ Response rates, response duration, time to progression, and survival are shown i
 Table 2.
 Efficacy of HYCAMTIN Versus CAV (cyclophosphamide-doxorubicin-vincristine) in Small Cell Lung Cancer Patients Sensitive to First-Line Chemotherapy
 
-| Parameter | HYCAMTIN (n = 107) | CAV (n = 104) |
+| Parameter | HYCAMTIN(n = 107) | CAV(n = 104) |
 | --- | --- | --- |
 | Complete response rate | 0% | 1% |
 | Partial response rate | 24% | 17% |
 | Overall response rate | 24% | 18% |
 | Difference in overall response rates | 6% |  |
-| 95% Confidence interval of the difference | (−6 to 18%) |  |
+| 95% Confidence interval of the difference | (–6 to 18%) |  |
 | Response duration* (weeks) | n = 26 | n = 19 |
 | Median | 14.4 | 15.3 |
 | 95% Confidence interval | 13.1 to 18.0 | 13.1 to 23.1 |
@@ -99,7 +99,7 @@ Efficacy of HYCAMTIN Versus CAV (cyclophosphamide-doxorubicin-vincristine) in Sm
 | (HYCAMTIN:CAV) (95% CI) | 1.04 (0.78 to 1.39) |  |
 | (p-value) | (0.80) |  |
 
-*The calculation for duration of response was based on the interval between first response and time to progression.
+* The calculation for duration of response was based on the interval between first response and time to progression.
 
 The time to response was similar in both arms: HYCAMTIN median of 6 weeks (range 2.4 to 15.7) versus CAV median 6 weeks (range 5.1 to 18.1).
 
@@ -109,11 +109,11 @@ Each symptom was rated on a 4-category scale with an improvement defined as a ch
 Limitations in interpretation of the rating scale and responses preclude formal statistical analysis.
 
 Table 3.
-Percentage of Patients With Symptom Improvement∗: HYCAMTIN Versus CAV in Patients With Small Cell Lung Cancer
+Percentage of Patients With Symptom Improvement*: HYCAMTIN Versus CAV in Patients With Small Cell Lung Cancer
 
-| Symptom | HYCAMTIN (n = 107) |  | CAV (n = 104) |  |
+| Symptom | HYCAMTIN(n = 107) |  | CAV(n = 104) |  |
 | --- | --- | --- | --- | --- |
-| n † | (%) | n † | (%) |  |
+| n† | (%) | n† | (%) |  |
 | Shortness of breath | 68 | (28) | 61 | (7) |
 | Interference with daily activity | 67 | (27) | 63 | (11) |
 | Fatigue | 70 | (23) | 65 | (9) |
@@ -124,9 +124,9 @@ Percentage of Patients With Symptom Improvement∗: HYCAMTIN Versus CAV in Patie
 | Chest pain | 44 | (25) | 41 | (17) |
 | Hemoptysis | 15 | (27) | 12 | (33) |
 
-*Defined as improvement sustained over at least 2 courses compared to baseline.
+* Defined as improvement sustained over at least 2 courses compared to baseline.
 
-†Number of patients with baseline and at least 1 post-baseline assessment.
+† Number of patients with baseline and at least 1 post-baseline assessment.
 
 ### Single-Arm Studies
 
@@ -143,6 +143,3 @@ Fifty-six percent (56%) of patients treated with HYCAMTIN plus cisplatin and 56%
 
 Median survival of eligible patients in the HYCAMTIN plus cisplatin treatment arm was 9.4 months (95% CI: 7.9 to 11.9) compared to 6.5 months (95% CI: 5.8 to 8.8) among patients randomized to cisplatin alone with a log rank p-value of 0.033 (significance level was 0.044 after adjusting for the interim analysis).
 The unadjusted hazard ratio for overall survival was 0.76 (95% CI: 0.59 to 0.98).
-
-Figure 1.
-Overall Survival Curves Comparing HYCAMTIN plus Cisplatin versus Cisplatin Monotherapy in Cervical Cancer Patients

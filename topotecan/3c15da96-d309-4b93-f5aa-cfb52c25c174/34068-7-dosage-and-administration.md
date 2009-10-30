@@ -38,7 +38,8 @@ Dosage adjustment of HYCAMTIN to 0.75 mg/m2 is recommended for patients with mod
 Insufficient data are available in patients with severe renal impairment to provide a dosage recommendation for HYCAMTIN.
 
 HYCAMTIN in combination with cisplatin for the treatment of cervical cancer should only be initiated in patients with serum creatinine≤1.5 mg/dL.
-In the clinical trial, cisplatin was discontinued for a serum creatinine >1.5 mg/dL.Insufficient data are available regarding continuing monotherapy with HYCAMTIN after cisplatin discontinuation in patients with cervical cancer.
+In the clinical trial, cisplatin was discontinued for a serum creatinine >1.5 mg/dL.
+Insufficient data are available regarding continuing monotherapy with HYCAMTIN after cisplatin discontinuation in patients with cervical cancer.
 
 ### Elderly Patients
 

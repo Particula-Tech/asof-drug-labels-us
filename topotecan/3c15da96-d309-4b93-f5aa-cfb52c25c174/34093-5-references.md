@@ -32,7 +32,7 @@ Research Triangle Park, NC 27709
 
 HYCAMTIN is a registered trademark of GlaxoSmithKline.
 
-©2007, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-August 2007HYJ:18PI
+February 2009 HYJ:19PI

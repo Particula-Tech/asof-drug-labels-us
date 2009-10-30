@@ -41,6 +41,12 @@ Frequent monitoring of peripheral blood cell counts should be instituted during 
 Patients should not be treated with subsequent courses of HYCAMTIN until neutrophils recover to >1,000 cells/mm3, platelets recover to >100,000 cells/mm3, and hemoglobin levels recover to 9.0 g/dL (with transfusion if necessary).
 Severe myelotoxicity has been reported when HYCAMTIN is used in combination with cisplatin (see Drug Interactions).
 
+## Interstitial Lung Disease
+
+HYCAMTIN has been associated with reports of interstitial lung disease (ILD), some of which have been fatal (see ADVERSE REACTIONS).
+Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic exposure to radiation, and use of pneumotoxic drugs and/or colony stimulating factors.
+Patients should be monitored for pulmonary symptoms indicative of interstitial lung disease (e.g., cough, fever, dyspnea, and/or hypoxia), and HYCAMTIN should be discontinued if a new diagnosis of ILD is confirmed.
+
 ## Pregnancy
 
 HYCAMTIN may cause fetal harm when administered to a pregnant woman.
@@ -95,7 +101,8 @@ Pregnancy Category D. (See WARNINGS.)
 
 ## Nursing Mothers
 
-HYCAMTIN is contraindicated during breastfeeding (see CONTRAINDICATIONS).
+It is not known whether the drug is excreted in human milk.
+Breastfeeding should be discontinued when women are receiving HYCAMTIN (see CONTRAINDICATIONS).
 
 ## Pediatric Use
 

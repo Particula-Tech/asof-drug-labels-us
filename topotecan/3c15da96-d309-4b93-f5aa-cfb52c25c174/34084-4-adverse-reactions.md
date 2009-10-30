@@ -8,7 +8,7 @@ Table 4 lists the principal hematologic toxicities, and Table 5 lists non-hemato
 Table 4.
 Summary of Hematologic Adverse Events in Patients Receiving HYCAMTIN
 
-| Hematologic Adverse Event | Patients n = 879 % Incidence | Courses n = 4124 % Incidence |
+| Hematologic Adverse Event | Patientsn = 879% Incidence | Coursesn = 4124% Incidence |
 | --- | --- | --- |
 | Neutropenia |  |  |
 | <1,500 cells/mm3 | 97 | 81 |
@@ -28,7 +28,7 @@ Summary of Hematologic Adverse Events in Patients Receiving HYCAMTIN
 Table 5.
 Summary of Non-hematologic Adverse Events in Patients Receiving HYCAMTIN
 
-| Non-hematologic Adverse Event | All Grades % Incidence |  | Grade 3 % Incidence |  | Grade 4 % Incidence |  |
+| Non-hematologicAdverse Event | All Grades% Incidence |  | Grade 3% Incidence |  | Grade 4% Incidence |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | n = 879 | n = 4124 | n = 879 | n = 4124 | n = 879 | n = 4124 |  |
 | Patients | Courses | Patients | Courses | Patients | Courses |  |
@@ -61,11 +61,11 @@ NA = Not applicable
 
 NR = Not reported separately
 
-*Does not include Grade 1 sepsis or pyrexia.
+* Does not include Grade 1 sepsis or pyrexia.
 
-†Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
+† Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
 
-‡Pain includes body pain, back pain, and skeletal pain.
+‡ Pain includes body pain, back pain, and skeletal pain.
 
 Premedications were not routinely used in these clinical studies.
 
@@ -84,7 +84,7 @@ The incidence of grade 3/4 dyspnea was 4% in ovarian cancer patients and 12% in 
 
 ## Gastrointestinal Disorders
 
-The incidence of nausea was 64% (8% grade 3/4), and vomiting occurred in 45% (6% grade 3/4) of patients (see Table 4).
+The incidence of nausea was 64% (8% grade 3/4), and vomiting occurred in 45% (6% grade 3/4) of patients (see Table 5).
 The prophylactic use of antiemetics was not routine in patients treated with HYCAMTIN.
 Thirty-two percent of patients had diarrhea (4% grade 3/4), 29% constipation (2% grade 3/4), and 22% had abdominal pain (4% grade 3/4).
 Grade 3/4 abdominal pain was 6% in ovarian cancer patients and 2% in small cell lung cancer patients.
@@ -145,11 +145,11 @@ Comparative Toxicity Profiles for Ovarian Cancer Patients Randomized to Receive 
 | Myalgia | 0 | 0 | 3 | 2 |
 | Pain‡ | 5 | 1 | 7 | 2 |
 
-*Increased hepatic enzymes includes increased SGOT/AST, increased SGPT/ALT, and increased hepatic enzymes.
+* Increased hepatic enzymes includes increased SGOT/AST, increased SGPT/ALT, and increased hepatic enzymes.
 
-†Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
+† Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
 
-‡Pain includes body pain, skeletal pain, and back pain.
+‡ Pain includes body pain, skeletal pain, and back pain.
 
 Premedications were not routinely used in patients randomized to HYCAMTIN, whereas patients receiving paclitaxel received routine pretreatment with corticosteroids, diphenhydramine, and histamine receptor type 2 blockers.
 
@@ -195,11 +195,11 @@ Comparative Toxicity Profiles for Small Cell Lung Cancer Patients Randomized to 
 | Asthenia | 9 | 4 | 7 | 2 |
 | Pain‡ | 5 | 2 | 7 | 4 |
 
-*Increased hepatic enzymes includes increased SGOT/AST, increased SGPT/ALT, and increased hepatic enzymes.
+* Increased hepatic enzymes includes increased SGOT/AST, increased SGPT/ALT, and increased hepatic enzymes.
 
-†Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
+† Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
 
-‡Pain includes body pain, skeletal pain, and back pain.
+‡ Pain includes body pain, skeletal pain, and back pain.
 
 Premedications were not routinely used in patients randomized to HYCAMTIN, whereas patients receiving CAV received routine pretreatment with corticosteroids, diphenhydramine, and histamine receptor type 2 blockers.
 
@@ -209,9 +209,9 @@ In the HYCAMTIN plus cisplatin versus cisplatin comparative trial in cervical ca
 Table 8 shows the hematologic adverse events and Table 9 shows the non-hematologic adverse events in cervical cancer patients.
 
 Table 8.
-Hematologic Adverse Events in Cervical Cancer Patients Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapy∗
+Hematologic Adverse Events in Cervical Cancer Patients Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapy*
 
-| Hematologic Adverse Event | HYCAMTIN Plus Cisplatin (n = 140) | Cisplatin (n = 144) |
+| Hematologic Adverse Event | HYCAMTIN Plus Cisplatin (n = 140) | Cisplatin(n = 144) |
 | --- | --- | --- |
 | Anemia |  |  |
 | All grades (Hgb <12 g/dL) | 131 (94%) | 130 (90%) |
@@ -230,15 +230,15 @@ Hematologic Adverse Events in Cervical Cancer Patients Treated with HYCAMTIN Plu
 | Grade 3 (<50,000-10,000 cells/mm3) | 36 (26%) | 5 (3%) |
 | Grade 4 (<10,000 cells/mm3) | 10 (7%) | 0 (0%) |
 
-*Includes patients who were eligible and treated.
+* Includes patients who were eligible and treated.
 
 Table 9.
-Non-hematologic Adverse Events Experienced by ≥5% of Cervical Cancer Patients Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapy∗
+Non-hematologic Adverse Events Experienced by ≥5% of Cervical Cancer Patients Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapy*
 
 |  | HYCAMTIN Plus Cisplatin |  |  | Cisplatin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | n = 140 |  |  | n = 144 |  |  |
-| Adverse Event | All Grades † | Grade 3 | Grade 4 | All Grades † | Grade 3 | Grade 4 |
+| Adverse Event | All Grades† | Grade 3 | Grade 4 | All Grades† | Grade 3 | Grade 4 |
 | General disorders and administrative site conditions |  |  |  |  |  |  |
 | Constitutional‡ | 96 (69%) | 11 (8%) | 0 | 89 (62%) | 17 (12%) | 0 |
 | Pain§ | 82 (59%) | 28 (20%) | 3 (2%) | 72 (50%) | 18 (13%) | 5 (3%) |
@@ -268,17 +268,17 @@ Non-hematologic Adverse Events Experienced by ≥5% of Cervical Cancer Patients 
 
 Data were collected using NCI Common Toxicity Criteria, v. 2.0.
 
-*Includes patients who were eligible and treated.
+* Includes patients who were eligible and treated.
 
-†Grades 1 through 4 only.
+† Grades 1 through 4 only.
 There were 3 patients who experienced grade 5 deaths with investigator-designated attribution.
 One was a grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event.
 A second patient experienced bowel obstruction, cardiac arrest, pleural effusion and respiratory failure which were not treatment related but probably aggravated by treatment.
 A third patient experienced a pulmonary embolism and adult respiratory distress syndrome, the latter was indirectly treatment-related.
 
-‡Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
+‡ Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
 
-§Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain.
+§ Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain.
 
 ## Postmarketing Reports of Adverse Events
 
@@ -295,6 +295,10 @@ Infrequent: Allergic manifestations; rare: Anaphylactoid reactions.
 ### Gastrointestinal Disorders
 
 Abdominal pain potentially associated with neutropenic colitis (see WARNINGS).
+
+### Pulmonary Disorders
+
+Interstitial lung disease.
 
 ### Skin and Subcutaneous Tissue Disorders
 
