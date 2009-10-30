@@ -1,0 +1,13 @@
+# DESCRIPTION
+
+Etodolac is a member of the pyranocarboxylic acid group of nonsteroidal anti-inflammatory drugs (NSAIDs).
+Etodolac is a racemic mixture of [+]S and [-]R-enantiomers.
+Etodolac is a white crystalline compound, insoluble in water but soluble in alcohols, chloroform, dimethyl sulfoxide, and aqueous polyethylene glycol.
+
+The chemical name is (±) 1,8-diethyl-1,3,4,9-tetrahydropyrano-[3,4-b]indole-1-acetic acid.
+The molecular weight of the base is 287.37.
+It has a pKa of 4.65 and an n-octanol:water partition coefficient of 11.4 at pH 7.4.
+The molecular formula for etodolac is C17H21NO3, and it has the following structural formula:
+
+Each tablet, for oral administration, contains 400 mg or 500 mg of etodolac.
+In addition, each tablet contains the following inactive ingredients: crospovidone, hydroxypropyl cellulose, hypromellose, magnesium stearate, methylcellulose, polyethylene glycol and titanium dioxide.

@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076004"
+  ],
+  "inn": "etodolac",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0041-1",
+    "60505-0041-2",
+    "60505-0102-1",
+    "60505-0102-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "etodolac",
+      "name": "Etodolac"
+    }
+  ],
+  "setid": "4d682f98-1e8a-4c2b-6df3-169d2ed10dc1",
+  "source": "dailymed"
+}

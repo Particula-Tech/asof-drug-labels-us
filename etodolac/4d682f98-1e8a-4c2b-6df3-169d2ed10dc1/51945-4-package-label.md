@@ -1,0 +1,27 @@
+# PRINCIPAL DISPLAY PANEL
+
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
+
+PRINCIPAL DISPLAY PANEL - 400 mg BOTTLE LABEL
+
+APOTEX CORP. NDC 60505-0041-1
+
+ETODOLAC TABELTS USP
+
+400 mg
+
+Rx only
+
+100 Tablets
+
+PRINCIPAL DISPLAY PANEL - 500 mg BOTTLE LABEL
+
+APOTEX CORP. NDC 60505-0102-1
+
+ETODOLAC TABELTS USP
+
+500 mg
+
+Rx only
+
+100 Tablets
