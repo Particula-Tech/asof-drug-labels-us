@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 Luxíq Foam contains betamethasone valerate, USP, a synthetic corticosteroid, for topical dermatologic use.
 The corticosteroids constitute a class of primarily synthetic steroids used topically as anti-inflammatory agents.

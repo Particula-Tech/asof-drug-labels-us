@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020934"
+  ],
   "inn": "betamethasone",
-  "labeler": "Connetics Corporation",
+  "labeler": "Stiefel Laboratories Inc",
   "package_ndcs": [
     "63032-021-00",
-    "63032-021-01",
+    "63032-021-12",
     "63032-021-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "betamethasone valerate",
+      "name": "LUXIQ"
+    }
+  ],
   "setid": "f08efff4-861d-43ef-9eb3-92608b32d24e",
   "source": "dailymed"
 }

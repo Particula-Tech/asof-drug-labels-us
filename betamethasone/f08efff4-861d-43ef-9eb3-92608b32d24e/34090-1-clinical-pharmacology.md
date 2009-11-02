@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY
 
 Like other topical corticosteroids, betamethasone valerate foam has anti-inflammatory, antipruritic, and vasoconstrictive properties.
 The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear.

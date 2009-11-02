@@ -15,7 +15,7 @@ Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur 
 For information on systemic supplementation, see prescribing information for those products.
 
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios.
-(See PRECAUTIONS-Pediatric Use)
+(See PRECAUTIONS-Pediatric Use.)
 
 If irritation develops, Luxíq should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation, as with most topical products not containing corticosteroids.
@@ -47,7 +47,7 @@ A.M. plasma cortisol test
 
 Urinary free cortisol test
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of betamethasone valerate.
 
@@ -85,10 +85,30 @@ Chronic corticosteroid therapy may interfere with the growth and development of 
 # WARNING
 
 FLAMMABLE.
-AVOID FIRE, FLAME OR SMOKING
-
-DURING AND IMMEDIATELY FOLLOWING APPLICATION.
+AVOID FIRE, FLAME OR SMOKING DURING AND IMMEDIATELY FOLLOWING APPLICATION.
 Keep out of reach of children.
 Contents under pressure.
 Do not puncture or incinerate container.
 Do not expose to heat or store at temperatures above 120°F (49°C).
+
+Manufactured for
+
+Stiefel Laboratories, Inc.
+
+Coral Gables, FL 33134
+
+USA
+
+For additional information:
+
+1-888-500-DERM or visit
+
+www.luxiq.com
+
+AW No.: AW-0685
+
+P/N: 182812ZZ
+
+VersaFoam-HF is a trademark, and the V logo, Luxíq, the foam dollop and Stiefel are registered trademarks of Stiefel Laboratories, Inc.
+
+©2007 Stiefel Laboratories, Inc.
