@@ -31,7 +31,7 @@ Do not take NovoLog if:
   See the end of this leaflet for a complete list of ingredients in NovoLog.
   Check with your healthcare provider if you are not sure.
 
-Tell your health care provider:
+Tell your healthcare provider:
 
 - about all of your medical conditions.
   Medical conditions can affect your insulin needs and your dose of NovoLog.
@@ -324,7 +324,7 @@ How do I use NovoLog in a pump?
 
 Patients who develop local skin reactions may need to change infusion sites more often than every 3 days.
 
-Use only insulin pumps that have been specifically tested with NovoLog.
+Use only insulin pumps that have been specially tested with NovoLog.
 Follow your healthcare provider or pharmacist instructions for which insulin pumps may be used.
 
 Check with your healthcare provider or pharmacist to see if your pump and infusion set can be used with NovoLog.
@@ -369,7 +369,7 @@ Change the infusion site and infusion set at least every 3 days, and change the 
 This will help ensure that NovoLog and the pump work well.
 
 11.
-Change the infusion site, the infusion set, the insulin reservoir, and the insulin if you experience a pump alarm, catheter blockage, high blood sugars, or if your pump insulin has been exposed to heat greater than 98.6oF (37oC).
+Change the infusion site, the infusion set, the insulin reservoir and the insulin if you experience a pump alarm, catheter blockage, high blood sugars, or if your pump insulin has been exposed to heat greater than 98.6oF (37oC).
 
 12.
 If you have high blood sugar (hyperglycemia) when you check your blood sugar, this may be the first sign of a problem with the pump, infusion set, or NovoLog.
@@ -595,83 +595,21 @@ You can clean the outside of your FlexPen by wiping it with a damp cloth.
 Do not soak or wash your FlexPen as it may damage it.
 Do not refill your FlexPen.
 
-- Δ Remove the needle from the NovoLog FlexPen after each injection.
-  This helps to ensure sterility, prevent leakage of insulin, and will help to make sure you inject the right dose of insulin for future injections.
-- Δ Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
-- Δ Keep your NovoLog FlexPen and needles out of the reach of children.
-- Δ Use NovoLog FlexPen as directed to treat your diabetes.
-  Do not share it with anyone else even if they also have diabetes.
-- Δ Always use a new needle for each injection.
-- Δ Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
-- Δ As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog FlexPen is lost or damaged.
-- Δ Remember to keep the disposable NovoLog FlexPen with you.
-  Do not leave it in a car or other location where it can get too hot or too cold.
+Δ Remove the needle from the NovoLog FlexPen after each injection.
+This helps to ensure sterility, prevent leakage of insulin, and will help to make sure you inject the right dose of insulin for future injections.
 
-Display Panel - NovoLog®
+Δ Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
 
-NDC 0169-7501-11
+Δ Keep your NovoLog FlexPen and needles out of the reach of children.
 
-List 750111
+Δ Use NovoLog FlexPen as directed to treat your diabetes.
+Needles and NovoLog FlexPen must not be shared.
 
-NovoLog®
+Δ Always use a new needle for each injection.
 
-Insulin aspart Injection
+Δ Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
 
-(rDNA origin)
+Δ As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog FlexPen is lost or damaged.
 
-10 mL 100 units/mL
-
-Rx only
-
-U-100
-
-Display Panel - NovoLog® PenFill®
-
-NDC 0169-3303-12 List 330312
-
-NovoLog®
-
-PenFill®
-
-Insulin aspart Injection (rDNA origin)
-
-3 mL cartridges
-
-100 units/mL (U-100)
-
-5 cartridges per package
-
-For use with Novo Nordisk 3mL PenFill cartridge compatible delivery devices, with or without the addition of a NovoPen® 3 PenMate®, and NovoFine® disposable needles.
-
-Keep in a cold place.
-
-Avoid freezing.
-
-Protect from light.
-
-Rx only
-
-Display Panel - NovoLog® FlexPen®
-
-NDC 0169-6339-10
-
-List 633910
-
-NovoLog® FlexPen®
-
-Prefilled Syringe
-
-Insulin aspart Injection (rDNA origin)
-
-100 units/mL (U-100)
-
-5 x 3 mL Prefilled Insulin Syringes
-
-Rx only
-
-For use with NovoFine® disposable needles or other products specifically recommended by Novo Nordisk.
-
-Keep in a cold place.
-Avoid freezing.
-
-Protect from light.
+Δ Remember to keep the disposable NovoLog FlexPen with you.
+Do not leave it in a car or other location where it can get too hot or too cold.

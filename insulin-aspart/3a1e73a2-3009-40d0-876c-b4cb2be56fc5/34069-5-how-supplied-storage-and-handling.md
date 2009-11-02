@@ -22,7 +22,7 @@ Opened vials may be refrigerated.
 Unpunctured vials can be used until the expiration date printed on the label if they are stored in a refrigerator.
 Keep unused vials in the carton so they will stay clean and protected from light.
 
-PenFill cartridges or NovoLog FlexPen
+PenFill cartridges or NovoLog FlexPen:
 
 Once a cartridge or a NovoLog FlexPen is punctured, it should be kept at temperatures below 30°C (86°F) for up to 28 days, but should not be exposed to excessive heat or sunlight.
 A NovoLog FlexPen or cartridge in use must NOT be stored in the refrigerator.

@@ -15,13 +15,15 @@ Insulin requirements may be altered during illness, emotional disturbances, or o
 
 Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
 
+Needles and NovoLog FlexPen must not be shared.
+
 ## 5.2 Hypoglycemia
 
 Hypoglycemia is the most common adverse effect of all insulin therapies, including NovoLog.
 Severe hypoglycemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or death.
 Severe hypoglycemia requiring the assistance of another person and/or parenteral glucose infusion or glucagon administration has been observed in clinical trials with insulin, including trials with NovoLog.
 
-The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulations [see Clincal Pharmacology (12)].
+The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulations [see Clinical Pharmacology (12)].
 Other factors such as changes in food intake (e.g., amount of food or timing of meals), injection site, exercise, and concomitant medications may also alter the risk of hypoglycemia [see Drug Interactions (7)].
 As with all insulins, use caution in patients with hypoglycemia unawareness and in patients who may be predisposed to hypoglycemia (e.g., patients who are fasting or have erratic food intake).
 The patient’s ability to concentrate and react may be impaired as a result of hypoglycemia.
@@ -81,7 +83,7 @@ When using NovoLog in an external insulin pump, the NovoLog-specific information
 Pump or infusion set malfunctions or insulin degradation can lead to a rapid onset of hyperglycemia and ketosis because of the small subcutaneous depot of insulin.
 This is especially pertinent for rapid-acting insulin analogs that are more rapidly absorbed through skin and have a shorter duration of action.
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
-Interim therapy with subcutaneous injection may be required [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17)].
+Interim therapy with subcutaneous injection may be required [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17.2)].
 
 NovoLog should not be exposed to temperatures greater than 37°C (98.6°F).
-NovoLog that will be used in a pump should not be mixed with other insulin or with a diluent [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), and How Supplied/Storage and Handling (16.2), Patient Counseling Information (17)].
+NovoLog that will be used in a pump should not be mixed with other insulin or with a diluent [see Dosage and Administration (2.3), Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17.2)].

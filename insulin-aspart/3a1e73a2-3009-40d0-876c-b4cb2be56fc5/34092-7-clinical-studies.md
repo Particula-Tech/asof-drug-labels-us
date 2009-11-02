@@ -17,7 +17,7 @@ Subcutaneous NovoLog Administration in Type 1 Diabetes (24 weeks; n=882)
 | N | 596 | 286 |
 | Baseline HbA1c (%)Values are Mean ± SD | 7.9 ±1.1 | 8.0 ± 1.2 |
 | Change from Baseline HbA1c (%) | -0.1 ± 0.8 | 0.0 ± 0.8 |
-| Treatment Difference in HbA1c,Mean (95% confidence interval) | -0.2 (-0.3, -0.1) |  |
+| Treatment Difference in HbA1c, Mean (95% confidence interval) | -0.2 (-0.3, -0.1) |  |
 | Baseline insulin dose (IU/kg/24 hours) | 0.7 ± 0.2 | 0.7 ± 0.2 |
 | End-of-Study insulin dose (IU/kg/24 hours) | 0.7 ± 0.2 | 0.7 ± 0.2 |
 | Patients with severe hypoglycemia (n, %)Severe hypoglycemia refers to hypoglycemia associated with central nervous system symptoms and requiring the intervention of another person or hospitalization. | 104 (17%) | 54 (19%) |
@@ -117,4 +117,4 @@ Pump Therapy in Type 2 Diabetes (16 weeks; n=127)
 
 ## 14.3 Intravenous Administration of NovoLog
 
-See Section 12.2 Clinical Pharmacology/Pharmacodynamics.
+See Section 12.2 CLINICAL PHARMACOLOGY/Pharmacodynamics.
