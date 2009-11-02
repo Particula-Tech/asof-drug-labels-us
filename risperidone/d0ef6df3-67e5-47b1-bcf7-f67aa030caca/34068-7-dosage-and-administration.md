@@ -95,9 +95,9 @@ The dose of risperidone needs to be titrated accordingly when fluoxetine or paro
 
 Risperidone Orally Disintegrating Tablets 0.25 mg are supplied in cartons of 30 tablets with 5 blister packs of 6 (3 x 2) tablets.
 
-#### Risperidone Orally Disintegrating Tablets 0.5 mg
+#### Risperidone Orally Disintegrating Tablets 0.5 mg and 1 mg
 
-Risperidone Orally Disintegrating Tablets 0.5 mg are supplied in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets, and in cartons of 30 tablets with 5 blister packs of 6 (3x2) tablets.
+Risperidone Orally Disintegrating Tablets 0.5 mg and 1 mg are supplied in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets, and in cartons of 30 tablets with 5 blister packs of 6 (3x2) tablets.
 
 #### Risperidone Orally Disintegrating Tablets 2 mg, 3 mg and 4 mg
 

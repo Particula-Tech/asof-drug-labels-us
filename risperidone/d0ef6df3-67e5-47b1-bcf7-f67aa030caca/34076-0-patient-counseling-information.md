@@ -8,7 +8,7 @@ Patients should be advised of the risk of orthostatic hypotension, especially du
 
 ## 17.2 Interference with Cognitive and Motor Performance
 
-Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.8)].
+Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.9)].
 
 ## 17.3 Pregnancy
 
@@ -29,7 +29,7 @@ Patients should be advised to avoid alcohol while taking risperidone [see DRUG I
 ## 17.7 Phenylketonurics
 
 Phenylalanine is a component of aspartame.
-Each 4 mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanine; each 3 mg risperidone orally disintegrating tablet contains 5.04 mg phenylalanine; each 2 mg risperidone orally disintegrating tablet contains 3.36 mg phehylalanine, each 0.5 mg risperidone orally disintegrating tablet contains 0.84 mg phenylalanine and each 0.25 mg risperidone orally disintegrating tablet contains 0.42 mg phenylalanine.
+Each 4 mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanine; each 3 mg risperidone orally disintegrating tablet contains 5.04 mg phenylalanine; each 2 mg risperidone orally disintegrating tablet contains 3.36 mg phenylalanine, each 1 mg risperidone orally disintegrating tablet contains 1.68 mg phenylalanine; each 0.5 mg risperidone orally disintegrating tablet contains 0.84 mg phenylalanine and each 0.25 mg risperidone orally disintegrating tablet contains 0.42 mg phenylalanine.
 
 Rx only
 
@@ -39,4 +39,4 @@ Par Pharmaceutical Companies, Inc.
 
 Spring Valley, NY 10977
 
-Issued: 08/08
+Issued: 10/09

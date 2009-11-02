@@ -9,11 +9,11 @@ The following are discussed in more detail in other sections of the labeling:
 - Hyperglycemia and diabetes mellitus [see WARNINGS AND PRECAUTIONS (5.5)]
 - Hyperprolactinemia [see WARNINGS AND PRECAUTIONS (5.6)]
 - Orthostatic hypotension [see WARNINGS AND PRECAUTIONS (5.7)]
-- Potential for cognitive and motor impairment [see WARNINGS AND PRECAUTIONS (5.8)]
-- Seizures [see WARNINGS AND PRECAUTIONS (5.9)]
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.10)]
-- Priapism [see WARNINGS AND PRECAUTIONS (5.11)]
-- Thrombotic Thrombocytopenic Purpura (TTP) [see WARNINGS AND PRECAUTIONS (5.12)]
+- Leukopenia, neutropenia, and agranulocytosis [see WARNINGS AND PRECAUTIONS (5.8)]
+- Potential for cognitive and motor impairment [see WARNINGS AND PRECAUTIONS (5.9)]
+- Seizures [see WARNINGS AND PRECAUTIONS (5.10)]
+- Dysphagia [see WARNINGS AND PRECAUTIONS (5.11)]
+- Priapism [see WARNINGS AND PRECAUTIONS (5.12)]
 - Disruption of body temperature regulation [see WARNINGS AND PRECAUTIONS (5.13)]
 - Antiemetic effect [see WARNINGS AND PRECAUTIONS (5.14)]
 - Suicide [see WARNINGS AND PRECAUTIONS (5.15)]
@@ -427,13 +427,6 @@ Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8 week 
 | --- | --- | --- | --- | --- | --- |
 | Parkinsonism | 0.6 | 1.7 | 2.4 | 2.9 | 4.1 |
 | EPS Incidence | 7% | 11% | 17% | 18% | 20% |
-
-### Dystonia
-
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
-Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
-While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
-An elevated risk of acute dystonia is observed in males and younger age groups.
 
 ### Other Adverse Reactions
 

@@ -87,36 +87,41 @@ A dose reduction should be considered if hypotension occurs.
 Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia.
 Clinically significant hypotension has been observed with concomitant use of risperidone and antihypertensive medication.
 
-## 5.8 Potential for Cognitive and Motor Impairment
+## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropinia have been reported temporally related to antipsychotic agents, including risperidone.
+Agranulocytosis has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or a drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of risperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue risperidone and have their WBC followed until recovery.
+
+## 5.9 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse event associated with risperidone treatment, especially when ascertained by direct questioning of patients.
 This adverse event is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
 Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of risperidone 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse event.
 Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely.
 
-## 5.9 Seizures
+## 5.10 Seizures
 
 During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2607) of risperidone-treated patients, two in association with hyponatremia.
 Risperidone should be used cautiously in patients with a history of seizures.
 
-## 5.10 Dysphagia
+## 5.11 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer’s dementia.
 Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 [See also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1).]
 
-## 5.11 Priapism
+## 5.12 Priapism
 
 Rare cases of priapism have been reported.
 While the relationship of the events to risperidone use has not been established, other drugs with alpha-adrenergic blocking effects have been reported to induce priapism, and it is possible that risperidone may share this capacity.
 Severe priapism may require surgical intervention.
-
-## 5.12 Thrombotic Thrombocytopenic Purpura (TTP)
-
-A single case of TTP was reported in a 28 year-old female patient receiving oral risperidone in a large, open premarketing experience (approximately 1300 patients).
-She experienced jaundice, fever, and bruising, but eventually recovered after receiving plasmapheresis.
-The relationship to risperidone therapy is unknown.
 
 ## 5.13 Body Temperature Regulation
 
