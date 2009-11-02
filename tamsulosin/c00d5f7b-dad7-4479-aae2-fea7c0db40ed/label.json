@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020579"
+  ],
   "inn": "tamsulosin",
   "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "0597-0058-01"
+    "0597-0058-01",
+    "0597-0058-07"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tamsulosin hydrochloride",
+      "name": "Flomax"
+    }
+  ],
   "setid": "c00d5f7b-dad7-4479-aae2-fea7c0db40ed",
   "source": "dailymed"
 }

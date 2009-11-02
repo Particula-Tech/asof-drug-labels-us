@@ -14,23 +14,23 @@ Table 3 Treatment-Emergent1 Adverse Events Occurring in ≥2% of Flomax® (tamsu
 | Infection2 | 45 (9.0%) | 53 (10.8%) | 37 (7.5%) |
 | Asthenia | 39 (7.8%) | 42 (8.5%) | 27 (5.5%) |
 | Back pain | 35 (7.0%) | 41 (8.3%) | 27 (5.5%) |
-| Chest Pain | 20 (4.0%) | 20 (4.1%) | 18 (3.7%) |
+| Chest pain | 20 (4.0%) | 20 (4.1%) | 18 (3.7%) |
 | NERVOUS SYSTEM |  |  |  |
 | Dizziness | 75 (14.9%) | 84 (17.1%) | 50 (10.1%) |
 | Somnolence | 15 (3.0%) | 21 (4.3%) | 8 (1.6%) |
 | Insomnia | 12 (2.4%) | 7 (1.4%) | 3 (0.6%) |
-| Libido Decreased | 5 (1.0%) | 10 (2.0%) | 6 (1.2%) |
+| Libido decreased | 5 (1.0%) | 10 (2.0%) | 6 (1.2%) |
 | RESPIRATORY SYSTEM |  |  |  |
 | Rhinitis3 | 66 (13.1%) | 88 (17.9%) | 41 (8.3%) |
 | Pharyngitis | 29 (5.8%) | 25 (5.1%) | 23 (4.7%) |
-| Cough Increased | 17 (3.4%) | 22 (4.5%) | 12 (2.4%) |
+| Cough increased | 17 (3.4%) | 22 (4.5%) | 12 (2.4%) |
 | Sinusitis | 11 (2.2%) | 18 (3.7%) | 8 (1.6%) |
 | DIGESTIVE SYSTEM |  |  |  |
 | Diarrhea | 31 (6.2%) | 21 (4.3%) | 22 (4.5%) |
 | Nausea | 13 (2.6%) | 19 (3.9%) | 16 (3.2%) |
-| Tooth Disorder | 6 (1.2%) | 10 (2.0%) | 7 (1.4%) |
+| Tooth disorder | 6 (1.2%) | 10 (2.0%) | 7 (1.4%) |
 | UROGENITAL SYSTEM |  |  |  |
-| Abnormal Ejaculation | 42 (8.4%) | 89 (18.1%) | 1 (0.2%) |
+| Abnormal ejaculation | 42 (8.4%) | 89 (18.1%) | 1 (0.2%) |
 | SPECIAL SENSES |  |  |  |
 | Blurred vision | 1 (0.2%) | 10 (2.0%) | 2 (0.4%) |
 | 1A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication.The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. 2Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms.3Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. |  |  |  |

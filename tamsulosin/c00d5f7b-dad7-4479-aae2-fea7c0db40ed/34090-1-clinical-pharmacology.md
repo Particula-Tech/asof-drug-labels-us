@@ -47,7 +47,7 @@ Pharmacokinetic Parameters Following FLOMAX Capsules 0.4 mg Once Daily or 0.8 mg
 | Cmax = observed maximum tamsulosin hydrochloride plasma concentration |  |  |  |  |  |
 | Tmax = median time-to-maximum concentration |  |  |  |  |  |
 | T1/2 = observed half-life |  |  |  |  |  |
-| AUCτ = Area under the tamsulosin hydrochloride plasma time curve over the dosing interval |  |  |  |  |  |
+| AUCτ = area under the tamsulosin hydrochloride plasma time curve over the dosing interval |  |  |  |  |  |
 
 ### Distribution
 
