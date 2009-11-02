@@ -156,7 +156,7 @@ The estrogen plus progestin Women's Health Initiative Memory Study (WHIMS) subst
 After an average follow-up of four years, 40 women in the estrogen-plus-progestin group (45 per 10,000 women-years) and 21 in the placebo group (22 per 10,000 women-years) were diagnosed with probable dementia.
 The relative risk of probable dementia in the hormone therapy group was 2.05 (95% CI 1.21-3.48) compared to placebo.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See BOXED WARNINGS,WARNINGS, Dementia, and PRECAUTIONS, Geriatric Use.).
+(See BOXED WARNINGS, WARNINGS, Dementia, and PRECAUTIONS, Geriatric Use.)
 
 The estrogen-alone WHIMS, a substudy of the WHI study, enrolled 2,947 predominantly healthy postmenopausal women 65 years of age and older (45%, age 65 to 69 years, 36%, age 70 to 74 years, 19%, 75 years of age and older) to evaluate the effects of conjugated estrogens (CE 0.625 mg) on the incidence of probable dementia (primary outcome) compared with placebo.
 

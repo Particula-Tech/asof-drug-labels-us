@@ -1,7 +1,7 @@
 # CARDIOVASCULAR AND OTHER RISKS
 
 Estrogens with or without progestins should not be used for the prevention of cardiovascular disease or dementia.
-(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders andDementia.)
+(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders and Dementia.)
 
 The estrogen plus progestin substudy of the Women’s Health Initiative (WHI) reported increased risks of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) per day, relative to placebo.
 (See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders and Malignant neoplasms, Breast cancer.)

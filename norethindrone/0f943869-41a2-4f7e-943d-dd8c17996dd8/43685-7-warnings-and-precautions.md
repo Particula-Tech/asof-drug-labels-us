@@ -15,7 +15,7 @@ Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitu
 
 In the estrogen plus progestin substudy of the Women's Health Initiative (WHI), a statistically significant increased risk of stroke was reported in women receiving CE/MPA 0.625 mg/2.5 mg daily compared to woman receiving placebo (31 vs. 24 per 10,000 women-years).
 The increase in risk was demonstrated after the first year and persisted.
-(SeeCLINICAL STUDIES.).
+(See CLINICAL STUDIES.)
 
 In the estrogen-alone substudy of the WHI, a statistically significant increased risk of stroke was reported in women receiving CE 0.625 mg daily compared to women receiving placebo (44 vs. 32 per 10,000 women-years).
 The increase in risk was demonstrated in year one and persisted.
@@ -24,7 +24,7 @@ The increase in risk was demonstrated in year one and persisted.
 
 In the estrogen-plus progestin sub-study of WHI, no statistically significant increase in CHD events (defined as non-fatal, MI, silent MI, or death, due to CHD) was reported in women receiving CE/MPA compared to women receiving placebo (39 vs. 33 per 10,000 women-years).
 An increase in relative risk was demonstrated in year one, and a trend toward decreasing relative risk was reported in years 2 through 5.
-(SeeCLINICAL STUDIES.)
+(See CLINICAL STUDIES.)
 
 In the estrogen-alone substudy of WHI, no overall effect on coronary disease (CHD) events was reported in women receiving estrogen alone compared to placebo.
 (See CLINICAL STUDIES.)

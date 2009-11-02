@@ -27,4 +27,4 @@ Known hypersensitivity to the ingredients of Activella 1.0 mg/0.5 mg or Activell
 Known or suspected pregnancy.
 There is no indication for Activella in pregnancy.
 There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy.
-(SeePRECAUTIONS.)
+(See PRECAUTIONS.)
