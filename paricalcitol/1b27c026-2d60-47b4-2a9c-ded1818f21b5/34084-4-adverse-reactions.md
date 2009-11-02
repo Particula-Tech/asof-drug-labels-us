@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+## CKD Stages 3 and 4
+
 The safety of Zemplar Capsules has been evaluated in three 24-week (approximately six-month), double-blind, placebo-controlled, multicenter clinical studies involving 220 CKD Stage 3 and 4 patients.
 Six percent (6%) of Zemplar Capsules treated patients and 4% of placebo treated patients discontinued from clinical studies due to an adverse event.
 All reported adverse events occurring in at least 2% in either treatment group are presented in Table 3.
@@ -89,13 +91,46 @@ Treatment-Emergent Adverse Events by Body System Occurring in ≥ 2% of Subjects
 | Kidney Function Abnormal | 2 | (2%) | 1 | (1%) |
 | a. Includes all patients with events in that body system. |  |  |  |  |
 
-Potential adverse effects of Zemplar Capsules are, in general, similar to those encountered with excessive vitamin D intake.
-The early and late signs and symptoms of hypercalcemia associated with vitamin D overdoses include:
+## CKD Stage 5
 
-## Early
+The safety of Zemplar Capsules has been evaluated in one 12-week, double-blind, placebo-controlled, multicenter clinical study involving 88 CKD Stage 5 patients.
+Sixty-one patients received Zemplar Capsules and 27 patients received placebo.
 
-Weakness, headache, somnolence, nausea, vomiting, dry mouth, constipation, muscle pain, bone pain, and metallic taste.
+The proportion of patients who terminated prematurely from the study due to adverse events was 7% for Zemplar Capsules treated patients and 7% for placebo patients.
 
-## Late
+Adverse events occurring in the Zemplar Capsules group at a frequency of 2% or greater and more frequently than in the placebo group are as follows:
 
-Anorexia, weight loss, conjunctivitis (calcific), pancreatitis, photophobia, rhinorrhea, pruritus, hyperthermia, decreased libido, elevated BUN, hypercholesterolemia, elevated AST and ALT, ectopic calcification, hypertension, cardiac arrhythmias, somnolence, death, and, rarely, overt psychosis.
+Table 4.
+Treatment-Emergent Adverse Events by Body System Occurring in ≥ 2% of Subjects in the Zemplar-Treated Group, Double-Blind, Placebo-Controlled, Phase 3, CKD Stage 5 Study; All Treated Patients
+
+| Body Systema COSTART V Term | Zemplar Capsules (n=61) |  | Placebo (n = 27) |  |
+| --- | --- | --- | --- | --- |
+|  | Number (%) of Subjects |  |  |  |
+| Overall | 43 | (70%) | 19 | (70%) |
+| Body as a Whole | 27 | (44%) | 8 | (30%) |
+| Infection | 9 | (15%) | 3 | (11%) |
+| Asthenia | 3 | (5%) | 0 | (0%) |
+| Peritonitis | 3 | (5%) | 0 | (0%) |
+| Accidental Injury | 2 | (3%) | 0 | (0%) |
+| Headache | 2 | (3%) | 0 | (0%) |
+| Digestive | 18 | (30%) | 4 | (15%) |
+| Diarrhea | 7 | (11%) | 3 | (11%) |
+| Constipation | 3 | (5%) | 0 | (0%) |
+| Nausea and Vomiting | 3 | (5%) | 0 | (0%) |
+| Dyspepsia | 2 | (3%) | 0 | (0%) |
+| Hemic and Lymphatic System | 6 | (10%) | 0 | (0%) |
+| Hypervolemia | 3 | (5%) | 0 | (0%) |
+| Ecchymosis | 2 | (3%) | 0 | (0%) |
+| Metabolic and Nutritional Disorders | 7 | (11%) | 0 | (0%) |
+| Hypoglycemia | 2 | (3%) | 0 | (0%) |
+| Peripheral Edema | 2 | (3%) | 0 | (0%) |
+| Uremia | 2 | (3%) | 0 | (0%) |
+| Nervous | 12 | (20%) | 2 | (7%) |
+| Dizziness | 4 | (7%) | 0 | (0%) |
+| Insomnia | 3 | (5%) | 0 | (0%) |
+| Anxiety | 2 | (3%) | 0 | (0%) |
+| Respiratory | 8 | (13%) | 4 | (15%) |
+| Sinusitis | 2 | (3%) | 0 | (0%) |
+| Urogenital System | 6 | (10%) | 4 | (15%) |
+| Urinary Tract Infection | 2 | (3%) | 0 | (0%) |
+| a. Includes all patients with events in that body system. |  |  |  |  |

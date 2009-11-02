@@ -65,7 +65,8 @@ In the nursing patient, a decision should be made whether to discontinue nursing
 
 ## Geriatric Use
 
-Of the total number (n = 220) of patients in clinical studies of Zemplar Capsules, 49% were 65 and over, while 17% were 75 and over.
+Of the total number (n = 220) of CKD Stages 3 and 4 patients in clinical studies of Zemplar Capsules, 49% were age 65 and over, while 17% were age 75 and over.
+Of the total number (n = 88) of CKD Stage 5 patients in the pivotal study of Zemplar Capsules, 28% were age 65 and over, while 6% were age 75 and over.
 No overall differences in safety and effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## Pediatric Use

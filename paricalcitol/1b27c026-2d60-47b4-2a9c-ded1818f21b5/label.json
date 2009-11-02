@@ -1,13 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021606"
+  ],
   "inn": "paricalcitol",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
     "0074-4314-30",
     "0074-4315-30",
-    "0074-4317-30"
+    "0074-4317-30",
+    "0074-4317-72",
+    "0074-4317-73"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "paricalcitol",
+      "name": "Zemplar"
+    }
+  ],
   "setid": "1b27c026-2d60-47b4-2a9c-ded1818f21b5",
   "source": "dailymed"
 }

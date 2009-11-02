@@ -14,12 +14,26 @@ Paricalcitol is a synthetic, biologically active vitamin D analog of calcitriol 
 Preclinical and in vitro studies have demonstrated that paricalcitol's biological actions are mediated through binding of the VDR, which results in the selective activation of vitamin D responsive pathways.
 Vitamin D and paricalcitol have been shown to reduce parathyroid hormone levels by inhibiting PTH synthesis and secretion.
 
+## Pharmacodynamics
+
+Paricalcitol decreases serum intact parathyroid hormone (iPTH) and increases serum calcium and serum phosphorous in both hemodialysis (HD) and peritoneal dialysis (PD) patients.
+This observed relationship was quantified using a mathematical model for HD and PD patient populations separately.
+Computer-based simulations of 100 trials in HD or PD patients (N = 100) using these relationships predict slightly lower efficacy (at least two consecutive ≥ 30% reductions from baseline iPTH) with lower hypercalcemia rates (at least two consecutive serum calcium ≥ 10.5 mg/dL) for lower iPTH-based dosing regimens.
+Further lowering of hypercalcemia rates was predicted if the treatment with paricalcitol is initiated in patients with lower serum calcium levels at screening.
+
+Based on these simulations, a dosing regimen of iPTH/80 with a screening serum calcium ≤ 9.5 mg/dL, approximately 76.5% (95% CI: 75.6% – 77.3%) of HD patients are predicted to achieve at least two consecutive ≥ 30% reductions from baseline iPTH over a duration of 12 weeks.
+The predicted incidence of hypercalcemia is 0.8% (95% CI: 0.7% – 1.0%).
+In PD patients, with this dosing regimen, approximately 83.3% (95% CI: 82.6% – 84.0%) of patients are predicted to achieve at least two consecutive ≥ 30% reductions from baseline iPTH.
+The predicted incidence of hypercalcemia is 12.4% (95% CI: 11.7% - 13.0%).
+(see CLINICAL STUDIES; CKD Stage 5 and DOSAGE AND ADMINISTRATION; CKD Stage 5)
+
 ## Pharmacokinetics
 
 ### Absorption
 
 Paricalcitol is well absorbed.
 In healthy subjects, following oral administration of paricalcitol at 0.24 mcg/kg, the mean absolute bioavailability was approximately 72%; the mean maximum plasma concentration (Cmax), time to Cmax (Tmax), and area under the concentration time curve (AUC0-∞) were 0.630 ng/mL, 3 hours and 5.25 ng•h/mL, respectively.
+The mean absolute bioavailability of paricalcitol in CKD Stage 5 patients on hemodialysis (HD) or peritoneal dialysis (PD) was 79% or 86%, respectively.
 A food effect study in healthy subjects indicated that the Cmax and AUC0-∞ were unchanged when paricalcitol was administered with a high fat meal compared to fasting.
 Food delays Tmax about 2 hours.
 The AUC0-∞ of paricalcitol increased proportionally over the dose range of 0.06 to 0.48 mcg/kg in healthy subjects.
@@ -44,7 +58,7 @@ The identified metabolites include the product of 24(R)-hydroxylation, 24,26- an
 
 ### Elimination
 
-Paricalcitol is eliminated primarily via hepatobiliary excretion; approximately 70% of the radiolabeled dose is recovered in thefeces and 18% is recovered in the urine.
+Paricalcitol is eliminated primarily via hepatobiliary excretion; approximately 70% of the radiolabeled dose is recovered in the feces and 18% is recovered in the urine.
 In healthy subjects, the mean elimination half-life of paricalcitol is 4 to 6 hours over the studied dose range of 0.06 to 0.48 mcg/kg.
 The pharmacokinetics of paricalcitol capsule have been studied in patients with chronic kidney disease (CKD) Stage 3 and 4 patients.
 After administration of 4 mcg paricalcitol capsule in CKD Stage 3 patients, the mean elimination half-life of paricalcitol is 17 hours.
