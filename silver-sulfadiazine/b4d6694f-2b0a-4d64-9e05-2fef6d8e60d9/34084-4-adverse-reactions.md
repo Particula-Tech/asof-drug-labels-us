@@ -1,0 +1,15 @@
+Several cases of transient leucopenia have been reported in patients receiving silver sulfadiazine therapy.
+Leucopenia associated with silver sulfadiazine administration is primarily characterized by decreased neutrophil count.
+Maximal white blood cell depression occurs within two to four days of initiation of therapy.
+Rebound to normal leukocyte levels follows onset within two to three days.
+Recovery is not influenced by continuation of silver sulfadiazine therapy.
+The incidence of leucopenia in various reports averages about 20%.
+A higher incidence has been seen in patients treated concurrently with cimetidine.
+
+Other infrequently occurring events include skin necrosis, erythema multiforme, skin discoloration, burning sensation, rashes, and interstitial nephritis.
+Reduction in bacterial growth after application of topical antibacterial agents has been reported to permit spontaneous healing of deep partial thickness burns by preventing conversion of the partial thickness to full thickness by sepsis.
+However, reduction in bacterial colonization has caused delayed separation, in some cases necessitating escharotomy in order to prevent contracture.
+
+Absorption of silver sulfadiazine varies depending upon the percent of body surface area and the extent of the tissue damage.
+Although few have been reported, it is possible that any adverse reaction associated with sulfonamides may occur.
+Some of the reactions which have been associated with sulfonamides are as follows: blood dyscrasias, agranulocytosis, aplastic anemia, thrombocytopenia, leucopenia, hemolytic anemia, dermatologic reactions, allergic reactions, Stevens-Johnson syndrome, exfoliative dermatitis, gastrointestinal reactions, hepatitis, hepatocellular necrosis, CNS reactions, and toxic nephrosis.
