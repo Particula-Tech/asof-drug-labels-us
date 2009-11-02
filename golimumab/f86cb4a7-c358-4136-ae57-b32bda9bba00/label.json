@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA125289"
+  ],
+  "inn": "golimumab",
+  "labeler": "Centocor Ortho Biotech Inc.",
+  "package_ndcs": [
+    "57894-070-01",
+    "57894-070-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "golimumab",
+      "name": "SIMPONI"
+    }
+  ],
+  "setid": "f86cb4a7-c358-4136-ae57-b32bda9bba00",
+  "source": "dailymed"
+}
