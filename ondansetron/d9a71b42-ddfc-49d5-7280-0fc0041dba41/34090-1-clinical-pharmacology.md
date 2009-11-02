@@ -47,7 +47,7 @@ Pharmacokinetics in Normal Adult Volunteers
 | --- | --- | --- | --- | --- |
 | 19-40 | 11 | 102 | 3.5 | 0.381 |
 | 61-74 | 12 | 106 | 4.7 | 0.319 |
-| ≥75 | 11 | 170 | 5.5 | 0.262 |
+| ≥ 75 | 11 | 170 | 5.5 | 0.262 |
 
 A reduction in clearance and increase in elimination half-life are seen in patients over 75 years of age.
 In clinical trials with cancer patients, safety and efficacy were similar in patients over 65 years of age and those under 65 years of age; there was an insufficient number of patients over 75 years of age to permit conclusions in that age-group.
@@ -58,7 +58,7 @@ In patients with severe hepatic impairment (Child-Pugh2 score of 10 or greater),
 In patients with severe hepatic impairment, a total daily dose of 8 mg should not be exceeded.
 
 Due to the very small contribution (5%) of renal clearance to the overall clearance, renal impairment was not expected to significantly influence the total clearance of ondansetron.
-However, ondansetron mean plasma clearance was reduced by about 41% in patients with severe renal impairment (creatinine clearance <30 mL/min).
+However, ondansetron mean plasma clearance was reduced by about 41% in patients with severe renal impairment (creatinine clearance < 30 mL/min).
 This reduction in clearance is variable and was not consistent with an increase in half-life.
 No reduction in dose or dosing frequency in these patients is warranted.
 
@@ -79,9 +79,9 @@ Pharmacokinetics in Pediatric Cancer Patients 1 Month to 18 Years of Age
 | --- | --- | --- | --- | --- |
 |  |  | Geometric Mean |  | Mean |
 | Pediatric Cancer Patients4 to 18 years of age | N = 21 | 0.599 | 1.9 | 2.8 |
-| Population PK Patients*1 month to 48 months of age | N = 115 | 0.582 | 3.65 | 4.9 |
+| Population PK Patientsa1 month to 48 months of age | N = 115 | 0.582 | 3.65 | 4.9 |
 
-* Population PK (Pharmacokinetic) Patients: 64% cancer patients and 36% surgery patients.
+a Population PK (Pharmacokinetic) Patients: 64% cancer patients and 36% surgery patients.
 
 Based on the population pharmacokinetic analysis, cancer patients 6 to 48 months of age who receive a dose of 0.15 mg/kg of I.V. ondansetron every 4 hours for 3 doses would be expected to achieve a systemic exposure (AUC) consistent with the exposure achieved in previous pediatric studies in cancer patients (4 to 18 years of age) at similar doses.
 

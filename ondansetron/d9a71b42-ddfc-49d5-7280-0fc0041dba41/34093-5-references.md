@@ -4,7 +4,8 @@
    Clin Pharmacol Ther.
    1997;61:228.
 2. Pugh RNH, Murray-Lyon IM, Dawson JL, Pietroni MC, Williams R. Transection of the oesophagus for bleeding oesophageal varices.
-   Brit J Surg.1973;60:646-649.
+   Brit J Surg.
+   1973;60:646-649.
 3. Villikka K, Kivisto KT, Neuvonen PJ.
    The effect of rifampin on the pharmacokinetics of oral and intravenous ondansetron.
    Clin Pharmacol Ther.
@@ -18,15 +19,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-ZOFRAN® Injection Premixed:
-
-Manufactured for GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-by Hospira, Inc., Lake Forest, IL 60045
-
-©2006, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-February 2006 RL-2236
+October 2009 ZFJ:1PI

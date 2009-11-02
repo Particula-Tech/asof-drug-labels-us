@@ -1,13 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020007"
+  ],
   "inn": "ondansetron",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0173-0442-00",
-    "0173-0442-02",
-    "0173-0461-00"
+    "0173-0442-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ondansetron hydrochloride",
+      "name": "ZOFRAN"
+    }
+  ],
   "setid": "d9a71b42-ddfc-49d5-7280-0fc0041dba41",
   "source": "dailymed"
 }

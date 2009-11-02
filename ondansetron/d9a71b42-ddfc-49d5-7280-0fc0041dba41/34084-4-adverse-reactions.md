@@ -16,9 +16,9 @@ Principal Adverse Events in Comparative Trials in Adults
 | Headache | 17% | 25% | 7% | 15% |
 | Fever | 8% | 7% | 5% | 3% |
 | Akathisia | 0% | 0% | 6% | 0% |
-| Acute dystonic reactions* | 0% | 0% | 5% | 0% |
+| Acute dystonic reactionsa | 0% | 0% | 5% | 0% |
 
-* See Neurological.
+a See Neurological.
 
 The following have been reported during controlled clinical trials:
 
@@ -53,12 +53,12 @@ The relationship to ZOFRAN Injection was unclear.
 
 ## Postoperative Nausea and Vomiting
 
-The adverse events in Table 13 have been reported in ≥2% of adults receiving ondansetron at a dosage of 4 mg I.V. over 2 to 5 minutes in clinical trials.
+The adverse events in Table 13 have been reported in ≥ 2% of adults receiving ondansetron at a dosage of 4 mg I.V. over 2 to 5 minutes in clinical trials.
 Rates of these events were not significantly different in the ondansetron and placebo groups.
 These patients were receiving multiple concomitant perioperative and postoperative medications.
 
 Table 13.
-Adverse Events in ≥2% of Adults Receiving Ondansetron at a Dosage of 4 mg I.V. over 2 to 5 Minutes in Clinical Trials
+Adverse Events in ≥ 2% of Adults Receiving Ondansetron at a Dosage of 4 mg I.V. over 2 to 5 Minutes in Clinical Trials
 
 |  | ZOFRAN Injection4 mg I.V.n = 547 patients | Placebon = 547 patients |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ Adverse Events in ≥2% of Adults Receiving Ondansetron at a Dosage of 4 mg I.V.
 | Malaise/fatigue | 25 (5%) | 30 (5%) |
 | Injection site reaction | 21 (4%) | 18 (3%) |
 | Urinary retention | 17 (3%) | 15 (3%) |
-| Postoperative CO2-related pain* | 12 (2%) | 16 (3%) |
+| Postoperative CO2-related paina | 12 (2%) | 16 (3%) |
 | Chest pain (unspecified) | 12 (2%) | 15 (3%) |
 | Anxiety/agitation | 11 (2%) | 16 (3%) |
 | Dysuria | 11 (2%) | 9 (2%) |
@@ -80,11 +80,11 @@ Adverse Events in ≥2% of Adults Receiving Ondansetron at a Dosage of 4 mg I.V.
 | Pruritus | 9 (2%) | 3 (<1%) |
 | Paresthesia | 9 (2%) | 2 (<1%) |
 
-* Sites of pain included abdomen, stomach, joints, rib cage, shoulder.
+a Sites of pain included abdomen, stomach, joints, rib cage, shoulder.
 
 ### Pediatric Use
 
-The adverse events in Table 14were the most commonly reported adverse events in pediatric patients receiving ondansetron (a single 0.1-mg/kg dose for pediatric patients weighing 40 kg or less, or 4 mg for pediatric patients weighing more than40 kg) administered intravenously over at least 30 seconds.
+The adverse events in Table 14 were the most commonly reported adverse events in pediatric patients receiving ondansetron (a single 0.1-mg/kg dose for pediatric patients weighing 40 kg or less, or 4 mg for pediatric patients weighing more than40 kg) administered intravenously over at least 30 seconds.
 Rates of these events were not significantly different in the ondansetron and placebo groups.
 These patients were receiving multiple concomitant perioperative and postoperative medications.
 
@@ -109,9 +109,9 @@ Frequency of Adverse Events (Greater Than or Equal to 2% in Either Treatment Gro
 | Adverse Event | Ondansetronn = 336 Patients | Placebon = 334 Patients |
 | --- | --- | --- |
 | Pyrexia | 14 (4%) | 14 (4%) |
-| Bronchospasm | 2 (<1%) | 6 (2%) |
+| Bronchospasm | 2 (< 1%) | 6 (2%) |
 | Post-procedural pain | 4 (1%) | 6 (2%) |
-| Diarrhea | 6 (2%) | 3 (<1%) |
+| Diarrhea | 6 (2%) | 3 (< 1%) |
 
 ## Observed During Clinical Practice
 

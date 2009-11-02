@@ -62,7 +62,7 @@ Little information is available about the use of ondansetron in pediatric cancer
 (See CLINICAL TRIALS section for studies of ondansetron in chemotherapy-induced nausea and vomiting in pediatric patients 6 months of age and older.)
 (See DOSAGE AND ADMINISTRATION.)
 
-The clearance of ondansetron in pediatric patients 1 month to 4 months of age is slower and the half-life is ~2.5 fold longer than patients who are >4 to 24 months of age.
+The clearance of ondansetron in pediatric patients 1 month to 4 months of age is slower and the half-life is ~2.5 fold longer than patients who are > 4 to 24 months of age.
 As a precaution, it is recommended that patients less than 4 months of age receiving this drug be closely monitored.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics).
 
