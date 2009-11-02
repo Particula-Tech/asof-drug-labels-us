@@ -15,4 +15,4 @@ NDC 0149-0477-01 dose pack of 2
 150 mg film-coated, oval, blue tablets with RSN on 1 face and 150 mg on the other.
 NDC 0149-0478-01 dose pack of 1 NDC 0149-0478-03 dose pack of 3
 
-Store at controlled room temperature 20° to 25°C (68° to 77°F) [See USP].
+Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].

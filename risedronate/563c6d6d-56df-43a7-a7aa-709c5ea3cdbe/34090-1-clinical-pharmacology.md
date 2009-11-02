@@ -42,10 +42,13 @@ In pagetic patients treated with ACTONEL 30 mg daily for 2 months, bone turnover
 
 Absorption
 
-Based on simultaneous modeling of serum and urine data, absorption after an oral dose is relatively rapid (tmax ~1 hour) and occurs throughout the upper gastrointestinal tract.
+Based on simultaneous modeling of serum and urine data, peak absorption after an oral dose is achieved at ~ 1 hour (Tmax) and occurs throughout the upper gastrointestinal tract.
 The fraction of the dose absorbed is independent of dose over the range studied (single dose, from 2.5 mg to 30 mg; multiple dose, from 2.5 mg to 5 mg).
 Steady-state conditions in the serum are observed within 57 days of daily dosing.
 Mean absolute oral bioavailability of the 30 mg tablet is 0.63% (90% CI: 0.54% to 0.75%) and is comparable to a solution.
+
+Food Effect
+
 The extent of absorption of a 30 mg dose (three 10 mg tablets) when administered 0.5 hours before breakfast is reduced by 55% compared to dosing in the fasting state (no food or drink for 10 hours prior to or 4 hours after dosing).
 Dosing 1 hour prior to breakfast reduces the extent of absorption by 30% compared to dosing in the fasting state.
 Dosing either 0.5 hours prior to breakfast or 2 hours after dinner (evening meal) results in a similar extent of absorption.
@@ -63,7 +66,7 @@ Metabolism
 
 There is no evidence of systemic metabolism of risedronate.
 
-Elimination
+Excretion
 
 In young healthy subjects, approximately half of the absorbed dose of risedronate was excreted in urine within 24 hours, and 85% of an intravenous dose was recovered in the urine over 28 days.
 Based on simultaneous modeling of serum and urine data, mean renal clearance was 105 mL/min (CV = 34%) and mean total clearance was 122 mL/min (CV = 19%), with the difference primarily reflecting nonrenal clearance or clearance due to adsorption to bone.
@@ -71,9 +74,9 @@ The renal clearance is not concentration dependent, and there is a linear relati
 Unabsorbed drug is eliminated unchanged in feces.
 In osteopenic postmenopausal women, the terminal exponential half-life was 561 hours, mean renal clearance was 52 mL/min (CV=25%), and mean total clearance was 73 mL/min (CV=15%).
 
-Special Populations
+Specific Populations
 
-Pediatric: Risedronate pharmacokinetics have not been studied in pediatric patients (<18 years of age).
+Pediatric: ACTONEL is not indicated for use in pediatric patients (see Pediatric Use [8.4]).
 
 Gender: Bioavailability and pharmacokinetics following oral administration are similar in men and women.
 
@@ -82,12 +85,15 @@ No dosage adjustment is necessary.
 
 Race: Pharmacokinetic differences due to race have not been studied.
 
-Renal Insufficiency: Risedronate is excreted unchanged primarily via the kidney.
+Renal Impairment: Risedronate is excreted unchanged primarily via the kidney.
 As compared to persons with normal renal function, the renal clearance of risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
 ACTONEL is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance ≥30 mL/min.
 
-Hepatic Insufficiency: No studies have been performed to assess risedronate's safety or efficacy in patients with hepatic impairment.
+Hepatic Impairment: No studies have been performed to assess risedronate's safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in rat, dog, and human liver preparations.
 Insignificant amounts (<0.1% of intravenous dose) of drug are excreted in the bile in rats.
 Therefore, dosage adjustment is unlikely to be needed in patients with hepatic impairment.
+
+Drug Interactions: No specific drug-drug interaction studies were performed.
+Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (Cytochrome P450) [see Drug Interactions (7)].

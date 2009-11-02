@@ -14,12 +14,16 @@ Adequate intake of calcium and vitamin D is important in all patients, especiall
 
 ## 5.3 Jaw Osteonecrosis
 
-Osteonecrosis, primarily in the jaw, has been reported in patients treated with bisphosphonates [see Adverse Reactions (6.2)].
-Most cases have been in cancer patients undergoing dental procedures such as tooth extraction, but some have occurred in patients with postmenopausal osteoporosis or other diagnoses.
-Most reported cases have been in patients treated with bisphosphonates intravenously but some have been in patients treated orally.
+Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including ACTONEL.
+Known risk factors for osteonecrosis of the jaw include invasive dental procedures (e.g., tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (e.g., chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g., periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 
-For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment, prior to the procedure, reduces the risk of osteonecrosis of the jaw.
-Clinical judgment should guide the management plan of each patient based on individual benefit/risk assessment [see Adverse Reactions (6.2)].
+For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
+Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
+
+Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy should receive care by an oral surgeon.
+In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
+Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.
+[see Adverse Reactions (6.2)]
 
 ## 5.4 Musculoskeletal Pain
 

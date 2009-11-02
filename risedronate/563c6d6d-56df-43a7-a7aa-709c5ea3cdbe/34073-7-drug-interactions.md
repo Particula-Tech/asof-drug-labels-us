@@ -1,7 +1,8 @@
 # 7 DRUG INTERACTIONS
 
 No specific drug-drug interaction studies were performed.
-Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (Cytochrome P450).
+Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (e.g.
+Cytochrome P450).
 
 ## 7.1 Calcium Supplements/Antacids
 
@@ -9,7 +10,7 @@ Co-administration of ACTONEL and calcium, antacids, or oral medications containi
 
 ## 7.2 Hormone Replacement Therapy
 
-One study of about 500 early postmenopausal women has been conducted to date in which treatment with ACTONEL (5 mg daily) plus estrogen replacement therapy was compared to estrogen replacement therapy alone.
+One study of about 500 early postmenopausal women has been conducted to date in which treatment with ACTONEL 5 mg daily plus estrogen replacement therapy was compared to estrogen replacement therapy alone.
 Exposure to study drugs was approximately 12 to 18 months and the primary endpoint was change in BMD.
 If considered appropriate, ACTONEL may be used concomitantly with hormone replacement therapy.
 

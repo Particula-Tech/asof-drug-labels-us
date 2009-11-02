@@ -8,5 +8,5 @@ In cases of substantial overdose, gastric lavage may be considered to remove una
 Standard procedures that are effective for treating hypocalcemia, including the administration of calcium intravenously, would be expected to restore physiologic amounts of ionized calcium and to relieve signs and symptoms of hypocalcemia.
 
 Lethality after single oral doses was seen in female rats at 903 mg/kg and male rats at 1703 mg/kg.
-The minimum lethal dose in mice and rabbits was 4000 mg/kg and 1000 mg/kg.
+The minimum lethal dose in mice and rabbits was 4000 mg/kg and 1000 mg/kg, respectively.
 These values represent 320 to 620 times the 30 mg human dose based on surface area (mg/m2).

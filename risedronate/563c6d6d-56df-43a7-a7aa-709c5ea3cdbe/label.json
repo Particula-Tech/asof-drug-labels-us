@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020835"
+  ],
   "inn": "risedronate",
   "labeler": "Procter & Gamble Pharmaceuticals, Inc.",
   "package_ndcs": [
@@ -7,10 +9,20 @@
     "0149-0471-01",
     "0149-0471-03",
     "0149-0472-01",
+    "0149-0472-02",
     "0149-0472-04",
-    "0149-0477-01"
+    "0149-0477-01",
+    "0149-0478-01",
+    "0149-0478-02",
+    "0149-0478-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risedronate sodium",
+      "name": "Actonel"
+    }
+  ],
   "setid": "563c6d6d-56df-43a7-a7aa-709c5ea3cdbe",
   "source": "dailymed"
 }

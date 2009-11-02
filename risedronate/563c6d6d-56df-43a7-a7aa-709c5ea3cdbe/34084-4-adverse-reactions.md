@@ -109,7 +109,7 @@ Monthly Dosing
 Two Consecutive Days per Month
 
 The safety of ACTONEL 75 mg administered on two consecutive days per month for the treatment of postmenopausal osteoporosis was assessed in a double-blind, multicenter study in postmenopausal women aged 50 to 86 years.
-The duration of the trial was two years; 613 patients were exposed to Actonel 5 mg daily and 616 were exposed to ACTONEL 75 mg two consecutive days per month.
+The duration of the trial was two years; 613 patients were exposed to ACTONEL 5 mg daily and 616 were exposed to ACTONEL 75 mg two consecutive days per month.
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
 All women received 1000 mg of elemental calcium plus 400 to 800 IU of vitamin D supplementation per day.
 
@@ -118,7 +118,7 @@ The incidence of serious adverse events was 10.8% in the ACTONEL 5 mg daily grou
 The percentage of patients who withdrew from treatment due to adverse events was 14.2% in the ACTONEL 5 mg daily group and 13.0% in the ACTONEL 75 mg two consecutive days per month group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
-Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphate use.
+Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
 The overall incidence of acute phase reaction was 3.6% of patients on ACTONEL 5 mg daily and 7.6% of patients on ACTONEL 75 mg two consecutive days per month.
 These incidence rates are based on reporting of any of 33 acute phase reaction-like symptoms within 5 days of the first dose.
 Fever or influenza-like illness with onset within the same period were reported by 0.0% of patients on ACTONEL 5 mg daily and 0.6% of patients on ACTONEL 75 mg two consecutive days per month.
@@ -139,15 +139,15 @@ The duration of the trial was one year, with 642 patients exposed to ACTONEL 5 m
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
 All women received 1000 mg of elemental calcium plus up to 1000 IU of vitamin D supplementation per day.
 
-The incidence of all-cause mortality was 0.5% for the ACTONEL 5 mg daily group and 0.0 % for the ACTONEL 150 mg once-a-month group.
+The incidence of all-cause mortality was 0.5% for the ACTONEL 5 mg daily group and 0.0% for the ACTONEL 150 mg once-a-month group.
 The incidence of serious adverse events was 4.2% in the ACTONEL 5 mg daily group and 6.2% in the ACTONEL 150 mg once-a-month group.
 The percentage of patients who withdrew from treatment due to adverse events was 9.5% in the ACTONEL 5 mg daily group and 8.6% in the ACTONEL 150 mg once-a-month group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
-Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphate use.
+Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
 The overall incidence of acute phase reaction was 1.1% in the ACTONEL 5 mg daily group and 5.2% in the ACTONEL 150 mg once-a-month group.
 These incidence rates are based on reporting of any of 33 acute phase reaction-like symptoms within 3 days of the first dose and for a duration of 7 days or less.
-Fever or influenza-like illness with onset within the same period were reported by 0.2% of patient on ACTONEL 5 mg daily and 1.4% of patients on ACTONEL 150 mg once-a-month.
+Fever or influenza-like illness with onset within the same period were reported by 0.2% of patients on ACTONEL 5 mg daily and 1.4% of patients on ACTONEL 150 mg once-a-month.
 
 Gastrointestinal Adverse Events: A greater percentage of patients experienced diarrhea with ACTONEL 150 mg once-a-month compared to 5 mg daily (8.2% vs. 4.7%, respectively).
 The ACTONEL 150 mg once-a-month group resulted in a higher incidence of discontinuation due to abdominal pain upper (2.5% vs. 1.4%) and diarrhea (0.8% vs. 0.0%) compared to the ACTONEL 5 mg daily regimen.
@@ -157,7 +157,7 @@ The incidence of vomiting that led to discontinuation was the same in both group
 Ocular Adverse Events: None of the patients treated with ACTONEL 150 mg once-a-month reported ocular inflammation such as uveitis, scleritis, or iritis; 2 patients treated with ACTONEL 5 mg daily reported iritis.
 
 Laboratory Test Findings: When ACTONEL 5 mg daily and ACTONEL 150 mg once-a-month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 12 months were 0.1% and 0.3% for serum calcium, -2.3% and -2.3% for phosphate, and 8.3% and 4.8% for PTH, respectively.
-Compared to the ACTONEL 5 mg daily regimen, ACTONEL 150 mg once-a-month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (0.2% vs. 2.2).
+Compared to the ACTONEL 5 mg daily regimen, ACTONEL 150 mg once-a-month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (0.2% vs. 2.2%).
 Thereafter, the incidence of hypocalcemia with these regimens was similar at approximately 2%.
 
 Prevention of Postmenopausal Osteoporosis
@@ -188,17 +188,17 @@ More treated subjects on ACTONEL reported arthralgia (placebo 7.8%; ACTONEL 13.9
 
 Treatment to Increase Bone Mass in Men with Osteoporosis
 
-In a 2-year, double-blind, multicenter study, 284 men with osteoporosis were treated with placebo (n = 93) or ACTONEL 35 mg once-a-week (n = 191).
+In a 2-year, double-blind, multicenter study, 284 men with osteoporosis were treated with placebo (N = 93) or ACTONEL 35 mg once-a-week (N = 191).
 The overall safety and tolerability profile of ACTONEL in men with osteoporosis was similar to the adverse events reported in the ACTONEL postmenopausal osteoporosis clinical trials, with the addition of benign prostatic hyperplasia (placebo 3%; ACTONEL 35 mg 5%), nephrolithiasis (placebo 0%; ACTONEL 35 mg 3%), and arrhythmia (placebo 0%; ACTONEL 35 mg 2%).
 
-Treatment and Prevention of Glucocorticoid-induced Osteoporosis
+Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
-The safety of ACTONEL 5 mg daily in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in two randomized, double-blind, placebo-controlled multinational trials of 349 women aged 18 to 85 years with postmenopausal osteoporosis.
-The duration of the trials was one year, with 173 patients exposed to placebo and 176 patients exposed to ACTONEL 5 mg daily.
+The safety of ACTONEL 5 mg daily in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in two randomized, double-blind, placebo-controlled multinational trials of 344 patients [male (123) and female (221)] aged 18 to 85 years who had recently initiated oral glucocorticoid therapy (≤ 3 months, prevention study) or were on long-term oral glucocorticoid therapy (≥ 6 months, treatment study).
+The duration of the trials was one year, with 170 patients exposed to placebo and 174 patients exposed to ACTONEL 5 mg daily.
 Patients in one study received 1000 mg elemental calcium plus 400 IU of vitamin D supplementation per day; patients in the other study received 500 mg calcium supplementation per day.
 
 The incidence of all-cause mortality was 2.9% in the placebo group and 1.1% in the ACTONEL 5 mg daily group.
-The incidence of serious adverse events was 33.5% in the placebo group and 30.5 % in the ACTONEL 5 mg daily group.
+The incidence of serious adverse events was 33.5% in the placebo group and 30.5% in the ACTONEL 5 mg daily group.
 The percentage of patients who withdrew from the study due to adverse events was 8.8% in the placebo group and 7.5% in the ACTONEL 5 mg daily group.
 Back pain was reported in 8.8% of patients in the placebo group and 17.8% of patients in the ACTONEL 5 mg daily group.
 Arthralgia was reported in 14.7% of patients in the placebo group and 24.7% of patients in the ACTONEL 5 mg daily group.
@@ -208,15 +208,15 @@ Treatment of Paget's Disease
 ACTONEL has been studied in 392 patients with Paget's disease of bone.
 As in trials of ACTONEL for other indications, the adverse experiences reported in the Paget's disease trials have generally been mild or moderate, have not required discontinuation of treatment, and have not appeared to be related to patient age, gender, or race.
 
-The safety of ACTONEL was assessed in a randomized, double-blind, active-controlled study of 122 patients aged 34 to 85.
+The safety of ACTONEL was assessed in a randomized, double-blind, active-controlled study of 122 patients aged 34 to 85 years.
 The duration of the trial was 540 days, with 61 patients exposed to ACTONEL and 61 patients exposed to Didronel.
 The adverse event profile was similar for ACTONEL and Didronel: 6.6% (4/61) of patients treated with ACTONEL 30 mg daily for 2 months discontinued treatment due to adverse events, compared to 8.2% (5/61) of patients treated with Didronel 400 mg daily for 6 months.
 Table 2 lists adverse events reported in ≥5% of ACTONEL-treated patients in Phase 3 Paget's disease trials.
 Adverse events shown are considered to be possibly or probably causally related in at least one patient.
 
-Table 2 Adverse Events Reported in≥5% of ACTONEL-Treated Patients* in Phase 3 Paget's Disease Trials
+Table 2 Adverse Events Reported in ≥5% of ACTONEL-Treated Patients* in Phase 3 Paget's Disease Trials
 
-| Body System | 30 mg/day x 2 months ACTONEL % (n = 61) | 400 mg/day x 6 months DIDRONEL % (n = 61) |
+| Body System | 30 mg/day x 2 months ACTONEL % (N = 61) | 400 mg/day x 6 months DIDRONEL % (N = 61) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Flu Syndrome | 9.8 | 1.6 |
@@ -254,7 +254,7 @@ Hypersensitivity and skin reactions have been reported rarely, including angioed
 
 Gastrointestinal Adverse Events
 
-Events involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported.
+Events involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported [see Warnings and Precautions (5.1)].
 
 Musculoskeletal Pain
 
