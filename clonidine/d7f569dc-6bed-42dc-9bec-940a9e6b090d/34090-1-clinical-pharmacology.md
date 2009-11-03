@@ -2,7 +2,7 @@
 
 Clonidine stimulates alpha-adrenoreceptors in the brain stem.
 This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure.
-Catapres (clonidine hydrochloride USP) acts relatively rapidly.
+CATAPRES tablets act relatively rapidly.
 The patient’s blood pressure declines within 30 to 60 minutes after an oral dose, the maximum decrease occurring within 2 to 4 hours.
 Renal blood flow and glomerular filtration rate remain essentially unchanged.
 Normal postural reflexes are intact; therefore, orthostatic symptoms are mild and infrequent.

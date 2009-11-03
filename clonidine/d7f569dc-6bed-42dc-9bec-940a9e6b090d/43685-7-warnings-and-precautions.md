@@ -6,10 +6,10 @@ Patients should be instructed not to discontinue therapy without consulting thei
 Sudden cessation of clonidine treatment has, in some cases, resulted in symptoms such as nervousness, agitation, headache, and tremor accompanied or followed by a rapid rise in blood pressure and elevated catecholamine concentrations in the plasma.
 The likelihood of such reactions to discontinuation of clonidine therapy appears to be greater after administration of higher doses or continuation of concomitant beta-blocker treatment and special caution is therefore advised in these situations.
 Rare instances of hypertensive encephalopathy, cerebrovascular accidents and death have been reported after clonidine withdrawal.
-When discontinuing therapy with Catapres®, the physician should reduce the dose gradually over 2 to 4 days to avoid withdrawal symptomatology.
+When discontinuing therapy with Catapres® (clonidine hydrochloride, USP) tablets, the physician should reduce the dose gradually over 2 to 4 days to avoid withdrawal symptomatology.
 
-An excessive rise in blood pressure following discontinuation of Catapres therapy can be reversed by administration of oral clonidine hydrochloride or by intravenous phentolamine.
-If therapy is to be discontinued in patients receiving a beta-blocker and clonidine concurrently, the beta-blocker should be withdrawn several days before the gradual discontinuation of Catapres.
+An excessive rise in blood pressure following discontinuation of CATAPRES tablets therapy can be reversed by administration of oral clonidine hydrochloride or by intravenous phentolamine.
+If therapy is to be discontinued in patients receiving a beta-blocker and clonidine concurrently, the beta-blocker should be withdrawn several days before the gradual discontinuation of CATAPRES tablets.
 
 Because children commonly have gastrointestinal illnesses that lead to vomiting, they may be particularly susceptible to hypertensive episodes resulting from abrupt inability to take medication.
 
@@ -21,28 +21,30 @@ In patients who have developed localized contact sensitization to Catapres-TTS®
 
 In patients who develop an allergic reaction to Catapres-TTS, substitution of oral clonidine hydrochloride may also elicit an allergic reaction (including generalized rash, urticaria, or angioedema).
 
-Catapres® (clonidine hydrochloride) should be used with caution in patients with severe coronary insufficiency, conduction disturbances, recent myocardial infarction, cerebrovascular disease or chronic renal failure.
+CATAPRES tablets should be used with caution in patients with severe coronary insufficiency, conduction disturbances, recent myocardial infarction, cerebrovascular disease or chronic renal failure.
 
 ## Perioperative Use
 
-Administration of Catapres should be continued to within four hours of surgery and resumed as soon as possible thereafter.
+Administration of CATAPRES tablets should be continued to within four hours of surgery and resumed as soon as possible thereafter.
 Blood pressure should be carefully monitored during surgery and additional measures to control blood pressure should be available if required.
 
 ## Information for Patients
 
-Patients should be cautioned against interruption of Catapres therapy without their physician's advice.
+Patients should be cautioned against interruption of CATAPRES tablets therapy without their physician's advice.
 
 Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of a possible sedative effect of clonidine.
 They should also be informed that this sedative effect may be increased by concomitant use of alcohol, barbiturates, or other sedating drugs.
+
+Patients who wear contact lenses should be cautioned that treatment with Catapres® (clonidine hydrochloride, USP) tablets may cause dryness of eyes.
 
 ## Drug Interactions
 
 Clonidine may potentiate the CNS-depressive effects of alcohol, barbiturates or other sedating drugs.
 If a patient receiving clonidine hydrochloride is also taking tricyclic antidepressants, the hypotensive effect of clonidine may be reduced, necessitating an increase in the clonidine dose.
 
-Due to a potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction, e.g. digitalis, calcium channel blockers and beta-blockers.
+Due to a potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers and beta-blockers.
 
-Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (See TOXICOLOGY).
+Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see Toxicology).
 
 ## Toxicology
 
@@ -63,11 +65,11 @@ There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse
 Fertility of male or female rats was unaffected by clonidine doses as high as 150 mcg/kg (approximately 3 times MRDHD).
 In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 mcg/kg (10 to 40 times the oral MRDHD on a mg/kg basis; 2 to 8 times the MRDHD on a mg/m2 basis.)
 
-## Usage in Pregnancy
+## Pregnancy
 
-### TERATOGENlC EFFECTS Pregnancy Category C
+### Teratogenic Effects: Pregnancy Category C.
 
-Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of Catapres (clonidine hydrochloride) produced no evidence of a teratogenic or embryotoxic potential in rabbits.
+Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of Catapres® (clonidine hydrochloride, USP) tablets produced no evidence of a teratogenic or embryotoxic potential in rabbits.
 In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment at the same time or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6-15.
 Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1-14 (lowest dose employed in the study was 500 mcg/kg).
@@ -77,8 +79,8 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## Nursing Mothers
 
-As clonidine hydrochloride is excreted in human milk, caution should be exercised when Catapres® (clonidine hydrochloride USP) is administered to a nursing woman.
+As clonidine hydrochloride is excreted in human milk, caution should be exercised when Catapres® (clonidine hydrochloride, USP) tablets are administered to a nursing woman.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of twelve have not been established (See Warnings on Withdrawal).
+Safety and effectiveness in pediatric patients have not been established in adequate and well-controlled trials (see WARNINGS, Withdrawal).

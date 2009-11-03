@@ -1,17 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017407"
+  ],
   "inn": "clonidine",
-  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
     "0597-0006-01",
-    "0597-0006-10",
-    "0597-0006-61",
     "0597-0007-01",
-    "0597-0007-10",
-    "0597-0007-61",
     "0597-0011-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonidine hydrochloride",
+      "name": "Catapres"
+    }
+  ],
   "setid": "d7f569dc-6bed-42dc-9bec-940a9e6b090d",
   "source": "dailymed"
 }

@@ -2,7 +2,7 @@
 
 ## Adults
 
-The dose of Catapres® (clonidine hydrochloride USP) must be adjusted according to the patient's individual blood pressure response.
+The dose of Catapres® (clonidine hydrochloride, USP) tablets must be adjusted according to the patient's individual blood pressure response.
 The following is a general guide to its administration.
 
 ## Initial Dose
