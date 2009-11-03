@@ -1,3 +1,4 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-There is no information about dependence associated with the use of Plan B®.
+Levonorgestrel is not a controlled substance.
+There is no information about dependence associated with the use of Plan B.

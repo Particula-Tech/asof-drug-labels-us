@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021045"
+  ],
   "inn": "levonorgestrel",
   "labeler": "Duramed Pharmaceuticals, Inc.",
   "package_ndcs": [
     "51285-769-93"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levonorgestrel",
+      "name": "Plan B"
+    }
+  ],
   "setid": "62aace29-36a3-4a2a-aae0-61f7480095c1",
   "source": "dailymed"
 }

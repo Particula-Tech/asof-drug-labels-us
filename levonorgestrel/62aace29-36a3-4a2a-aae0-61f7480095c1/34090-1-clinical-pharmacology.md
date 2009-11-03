@@ -1,40 +1,60 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Emergency contraceptives are not effective if the woman is already pregnant.
-Plan B® is believed to act as an emergency contraceptive principally by preventing ovulation or fertilization (by altering tubal transport of sperm and/or ova).
+## 12.1 Mechanism of Action
+
+Emergency contraceptive pills are not effective if a woman is already pregnant.
+Plan B is believed to act as an emergency contraceptive principally by preventing ovulation or fertilization (by altering tubal transport of sperm and/or ova).
 In addition, it may inhibit implantation (by altering the endometrium).
 It is not effective once the process of implantation has begun.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-### Absorption:
+Absorption
 
-No specific investigation of the absolute bioavailability of Plan B® in humans has been conducted.
+No specific investigation of the absolute bioavailability of Plan B in humans has been conducted.
 However, literature indicates that levonorgestrel is rapidly and completely absorbed after oral administration (bioavailability about 100%) and is not subject to first pass metabolism.
-After a single dose of Plan B® (0.75 mg) administered to 16 women under fasting conditions, maximum serum concentrations of levonorgestrel are 14.1 + 7.7 ng/mL (mean + SD) at an average of 1.6 + 0.7 hours.
-No formal study of the effect of food on the absorption of levonorgestrel has been undertaken.
 
-Table 1: Pharmacokinetic Parameter Values Following Single Dose Administration of Plan B® (Levonorgestrel) Tablets 0.75 mg to Healthy Female Volunteers
+After a single dose of Plan B (0.75 mg) administered to 16 women under fasting conditions, maximum serum concentrations of levonorgestrel were 14.1 + 7.7 ng/mL (mean + SD) at an average of 1.6 + 0.7 hours.
 
-| N | Mean (± S.D.) |  |  |  |  |  |
+Table 2: Pharmacokinetic Parameter Values Following Single Dose Administration of Plan B (Levonorgestrel) Tablets 0.75 mg to Healthy Female Volunteers under Fasting Conditions
+
+|  | Mean (± SD) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | Tmax (h) | CL (L/h) | Vd (L) | T½ (h) | AUC0-∞ (ng/mL/h) |  |
-| 16 | 14.1 ± 7.7 | 1.6 ± 0.7 | 7.7 ± 2.7 | 260.0 | 24.4 ± 5.3 | 123.1 ± 50.1 |
+| Cmax (ng/mL) | Tmax (h) | CL (L/h) | Vd (L) | t½ (h) | AUCinf (ng/mL.h) |  |
+| Levonorgestrel | 14.1 (7.7) | 1.6 (0.7) | 7.7 (2.7) | 260.0 | 24.4 (5.3) | 123.1 (50.1) |
+| Cmax = maximum concentrationTmax = time to maximum concentrationCL = clearanceVd = volume of distributiont1/2 = elimination half lifeAUCinf = area under the drug concentration curve from time 0 to infinity |  |  |  |  |  |  |
 
-### Distribution:
+Effect of Food: The effect of food on the rate and the extent of levonorgestrel absorption following single oral administration of Plan B has not been evaluated.
 
-Levonorgestrel in serum is primarily protein bound.
-Approximately 50% is bound to albumin and 47.5% is bound to sex hormone binding globulin (SHBG).
+Distribution
 
-### Metabolism:
+The apparent volume of distribution of levonorgestrel is reported to be approximately 1.8 L/kg.
+It is about 97.5 to 99% protein-bound, principally to sex hormone binding globulin (SHBG) and, to a lesser extent, serum albumin.
 
-Following a single oral dosage, levonorgestrel does not appear to be extensively metabolized by the liver.
-The primary metabolites are 3α,5β- and 3α,5α-tetrahydrolevonorgestrel with 16β-hydroxynorgestrel also identified.
-Together, these account for less than 10% of parent plasma levels.
-Urinary metabolites hydroxylated at the 2α and 16β positions have also been identified.
-Small amounts of the metabolites are present in plasma as sulfate and glucuronide conjugates.
+Metabolism
 
-### Excretion:
+Following absorption, levonorgestrel is conjugated at the 17β-OH position to form sulfate conjugates and, to a lesser extent, glucuronide conjugates in plasma.
+Significant amounts of conjugated and unconjugated 3α, 5β-tetrahydrolevonorgestrel are also present in plasma, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16βhydroxylevonorgestrel.
+Levonorgestrel and its phase I metabolites are excreted primarily as glucuronide conjugates.
+Metabolic clearance rates may differ among individuals by several-fold, and this may account in part for the wide variation observed in levonorgestrel concentrations among users.
 
-The elimination half-life of levonorgestrel following single dose administration as Plan B® (0.75 mg) is 24.4 + 5.3 hours.
-Excretion following single dose administration as emergency contraception is unknown, but based on chronic, low-dose contraceptive use, levonorgestrel and its metabolites are primarily excreted in the urine, with smaller amounts recovered in the feces.
+Excretion
+
+About 45% of levonorgestrel and its metabolites are excreted in the urine and about 32% are excreted in feces, mostly as glucuronide conjugates.
+
+Specific Populations
+
+Pediatric: This product is not intended for use in the pediatric (pre-menarcheal) population, and pharmacokinetic data are not available for this population.
+
+Geriatric: This product is not intended for use in postmenopausal women and pharmacokinetic data are not available for this population.
+
+Race: No formal studies have evaluated the effect of race on pharmacokinetics of Plan B. However, clinical trials demonstrated a higher pregnancy rate in Chinese women with both Plan B and the Yuzpe regimen (another form of emergency contraception).
+The reason for this apparent increase in the pregnancy rate with emergency contraceptives in Chinese women is unknown [see USE IN SPECIFIC POPULATIONS (8.6)].
+
+Hepatic Impairment: No formal studies were conducted to evaluate the effect of hepatic disease on the disposition of Plan B.
+
+Renal Impairment: No formal studies were conducted to evaluate the effect of renal disease on the disposition of Plan B.
+
+Drug-Drug Interactions
+
+No formal drug-drug interaction studies were conducted with Plan B [see DRUG INTERACTIONS (7)].
