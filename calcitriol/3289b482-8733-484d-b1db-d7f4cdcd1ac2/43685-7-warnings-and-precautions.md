@@ -65,7 +65,7 @@ During the titration period of treatment with calcitriol, serum calcium levels s
 
 ### Cholestyramine:
 
-Cholestyramine has been reported to reduce intestinal absorption of fat-soluble vitamins; as such it may impair intestinal absorption of calcitriol (see WARNINGS and PRECAUTIONS: General).
+Cholestyramine has been reported to reduce intestinal absorption of fat-soluble vitamins; as such it may impair intestinal absorption of calcitriol (see WARNINGS and General: General).
 
 ### Phenytoin/Phenobarbital:
 
@@ -80,7 +80,7 @@ Therefore, precaution should be taken when coadministration is necessary.
 
 ### Digitalis:
 
-Calcitriol dosage must be determined with care in patients undergoing treatment with digitalis, as hypercalcemia in such patients may precipitate cardiac arrhythmias (see PRECAUTIONS: General).
+Calcitriol dosage must be determined with care in patients undergoing treatment with digitalis, as hypercalcemia in such patients may precipitate cardiac arrhythmias (see General: General).
 
 ### Ketoconazole:
 
@@ -102,7 +102,7 @@ Since calcitriol is the most potent active metabolite of vitamin D3, pharmacolog
 
 ### Calcium Supplements:
 
-Uncontrolled intake of additional calcium-containing preparations should be avoided (see PRECAUTIONS: General).
+Uncontrolled intake of additional calcium-containing preparations should be avoided (see General: General).
 
 ### Magnesium:
 
@@ -116,7 +116,7 @@ No significant effects of calcitriol on fertility and/or general reproductive pe
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C.
+## Teratogenic Effects: Pregnancy Category C.
 
 Calcitriol has been found to be teratogenic in rabbits when given at doses of 0.08 and 0.3 mcg/kg (approximately 2 and 6 times the maximum recommended dose based on mg/m2).
 All 15 fetuses in 3 litters at these doses showed external and skeletal abnormalities.
@@ -126,7 +126,7 @@ Teratogenicity studies in rats at doses up to 0.45 mcg/kg (approximately 5 times
 There are no adequate and well-controlled studies in pregnant women.
 Calcitriol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects:
+## Nonteratogenic Effects:
 
 In the rabbit, dosages of 0.3 mcg/kg/day (approximately 6 times maximum recommended dose based on surface area) administered on days 7 to 18 of gestation resulted in 19% maternal mortality, a decrease in mean fetal body weight and a reduced number of newborn surviving to 24 hours.
 A study of perinatal and postnatal development in rats resulted in hypercalcemia in the offspring of dams given calcitriol at doses of 0.08 or 0.3 mcg/kg/day (approximately 1 and 3 times the maximum recommended dose based on mg/m2), hypercalcemia and hypophosphatemia in dams given calcitriol at a dose of 0.08 or 0.3 mcg/kg/day, and increased serum urea nitrogen in dams given calcitriol at a dose of 0.3 mcg/kg/day.
@@ -142,7 +142,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 Safety and effectiveness of calcitriol in pediatric patients undergoing dialysis have not been established.
 The safety and effectiveness of calcitriol in pediatric predialysis patients is based on evidence from adequate and well-controlled studies of calcitriol in adults with predialysis chronic renal failure and additional supportive data from non-placebo controlled studies in pediatric patients.
-Dosing guidelines have not been established for pediatric patients under 1 year of age with hypoparathyroidism or for pediatric patients less than 6 years of age with pseudohypoparathyroidism (see DOSAGE AND ADMINISTRATION: Hypoparathyroidism).
+Dosing guidelines have not been established for pediatric patients under 1 year of age with hypoparathyroidism or for pediatric patients less than 6 years of age with pseudohypoparathyroidism (see Hypoparathyroidism: Hypoparathyroidism).
 
 Oral doses of calcitriol ranging from 10 to 55 ng/kg/day have been shown to improve calcium homeostasis and bone disease in pediatric patients with chronic renal failure for whom hemodialysis is not yet required (predialysis).
 Long-term calcitriol therapy is well-tolerated by pediatric patients.
@@ -153,3 +153,24 @@ The most common safety issues are mild, transient episodes of hypercalcemia, hyp
 Clinical studies of calcitriol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+## ADVERSE REACTIONS
+
+Since calcitriol is believed to be the active hormone which exerts vitamin D activity in the body, adverse effects are, in general, similar to those encountered with excessive vitamin D intake, i.e., hypercalcemia syndrome or calcium intoxication (depending on the severity and duration of hypercalcemia) (see WARNINGS).
+Because of the short biological half-life of calcitriol, pharmacokinetic investigations have shown normalization of elevated serum calcium within a few days of treatment withdrawal, i.e., much faster than in treatment with vitamin D3 preparations.
+
+The early and late signs and symptoms of vitamin D intoxication associated with hypercalcemia include:
+
+Early: weakness, headache, somnolence, nausea, vomiting, dry mouth, constipation, muscle pain, bone pain, metallic taste, and anorexia, abdominal pain or stomach ache.
+
+Late: polyuria, polydipsia, anorexia, weight loss, nocturia, conjunctivitis (calcific), pancreatitis, photophobia, rhinorrhea, pruritus, hyperthermia, decreased libido, elevated BUN, albuminuria, hypercholesterolemia, elevated SGOT (AST) and SGPT (ALT), ectopic calcification, nephrocalcinosis, hypertension, cardiac arrhythmias, dystrophy, sensory disturbances, dehydration, apathy, arrested growth, urinary tract infections, and, rarely, overt psychosis.
+
+In clinical studies on hypoparathyroidism and pseudohypoparathyroidism, hypercalcemia was noted on at least one occasion in about 1 in 3 patients and hypercalciuria in about 1 in 7 patients.
+Elevated serum creatinine levels were observed in about 1 in 6 patients (approximately one half of whom had normal levels at baseline).
+
+In concurrent hypercalcemia and hyperphosphatemia, soft-tissue calcification may occur, this can be seen radiographically (see WARNINGS).
+
+In patients with normal renal function, chronic hypercalcemia may be associated with an increase in serum creatinine (see General: General).
+
+Hypersensitivity reactions (pruritus, rash, uticaria, and very rarely severe erythematous skin disorders) may occur in susceptible individuals.
+One case of erythema multiforme and one case of allergic reaction (swelling of lips and hives all over body) were confirmed by rechallenge.

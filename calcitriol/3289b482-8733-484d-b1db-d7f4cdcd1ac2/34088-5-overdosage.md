@@ -27,7 +27,7 @@ If hypercalcemia is persistent at the reduced dosage, serum PTH should be measur
 If serum PTH is normal, discontinue calcitriol therapy and monitor patient in 3 months’ time.
 
 Treatment of Hyperphosphatemia in Predialysis Patients: If serum phosphorus levels exceed 5 mg/dL to 5.5 mg/dL, a calcium-containing phosphate binding agent (i.e., calcium carbonate or calcium acetate) should be taken with meals.
-Serum phosphorus levels should be determined as described earlier (see PRECAUTIONS: Laboratory Tests).
+Serum phosphorus levels should be determined as described earlier (see Laboratory Tests: Laboratory Tests).
 Aluminum-containing gels should be used with caution as phosphate binding agents because of the risk of slow aluminum accumulation.
 
 ## Treatment of Accidental Overdosage of Calcitriol

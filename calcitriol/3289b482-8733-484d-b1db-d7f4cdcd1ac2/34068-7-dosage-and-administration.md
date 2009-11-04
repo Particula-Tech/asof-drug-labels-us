@@ -20,7 +20,7 @@ Samples for serum calcium estimation should be taken without a tourniquet.
 
 The recommended initial dose of calcitriol is 0.25 mcg/day.
 If a satisfactory response in the biochemical parameters and clinical manifestations of the disease state is not observed, dosage may be increased by 0.25 mcg/day at 4 to 8 week intervals.
-During this titration period, serum calcium levels should be obtained at least twice weekly, and if hypercalcemia is noted, the drug should be immediately discontinued until normocalcemia ensues (see PRECAUTIONS: General).
+During this titration period, serum calcium levels should be obtained at least twice weekly, and if hypercalcemia is noted, the drug should be immediately discontinued until normocalcemia ensues (see General: General).
 
 Phosphorus, magnesium, and alkaline phosphatase should be determined periodically.
 
@@ -34,7 +34,7 @@ In these individuals with autonomous parathyroid hyperfunction, oral calcitriol 
 
 The recommended initial dosage of calcitriol is 0.25 mcg/day given in the morning.
 If a satisfactory response in the biochemical parameters and clinical manifestations of the disease is not observed, the dose may be increased at 2 to 4 week intervals.
-During the dosage titration period, serum calcium levels should be obtained at least twice weekly and, if hypercalcemia is noted, calcitriol should be immediately discontinued until normocalcemia ensues (see PRECAUTIONS: General).
+During the dosage titration period, serum calcium levels should be obtained at least twice weekly and, if hypercalcemia is noted, calcitriol should be immediately discontinued until normocalcemia ensues (see General: General).
 Careful consideration should also be given to lowering the dietary calcium intake.
 Serum calcium, phosphorus, and 24 hour urinary calcium should be determined periodically.
 
