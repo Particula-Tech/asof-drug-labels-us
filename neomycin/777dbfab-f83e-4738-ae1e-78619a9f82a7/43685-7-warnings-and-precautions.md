@@ -14,7 +14,7 @@ If neomycin is used during pregnancy, or if the patient becomes pregnant while t
 
 ## General
 
-Prescribing Neomycin Sulfate Tablets USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing neomycin sulfate tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 As with other antibiotics, use of oral neomycin may result in overgrowth of nonsusceptible organisms, particularly fungi.
 If this occurs, appropriate therapy should be instituted.
@@ -35,12 +35,12 @@ An oral neomycin dose of 12 grams per day produces a malabsorption syndrome for 
 
 Orally administered neomycin increases fecal bile acid excretion and reduces intestinal lactase activity.
 
-## Information for the patient
+## Information for The Patient
 
-Patients should be counseled that antibacterial drugs including Neomycin Sulfate Tablets USP should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including neomycin sulfate tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Neomycin Sulfate Tablets USP are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Neomycin Sulfate Tablets USP or other antibacterial drugs in the future.
+When neomycin sulfate tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by neomycin sulfate tablets or other antibacterial drugs in the future.
 
 Before administering the drug, patients or members of their families should be informed of possible toxic effects on the eighth nerve.
 The possibility of acute toxicity increases in premature infants and neonates.
@@ -54,7 +54,7 @@ To avoid nephrotoxicity and eighth nerve damage associated with high doses and p
 Serial, vestibular and audiometric tests should be performed (especially in high-risk patients).
 Since elderly patients may have reduced renal function which may not be evident in the results of routine screening tests such as BUN or serum creatinine, a creatinine clearance determination may be more useful.
 
-## Drug interactions
+## Drug Interactions
 
 Caution should be taken in concurrent or serial use of other neurotoxic and/or nephrotoxic drugs because of possible enhancement of the nephrotoxicity and/or ototoxicity of neomycin (see boxed WARNINGS).
 
@@ -66,13 +66,13 @@ Therefore, digoxin serum levels should be monitored.
 
 Oral neomycin sulfate may enhance the effect of coumarin in anticoagulants by decreasing vitamin K availability.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No long-term animal studies have been performed with neomycin sulfate to evaluate carcinogenic or mutagenic potential or impairment of fertility.
 
 ## Pregnancy Category D
 
-(See Warnings section.)
+See WARNINGS section.
 
 ## Nursing Mothers
 

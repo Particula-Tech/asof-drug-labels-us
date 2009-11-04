@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA060304"
+  ],
   "inn": "neomycin",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-1177-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "neomycin sulfate",
+      "name": "Neomycin Sulfate"
+    }
+  ],
   "setid": "777dbfab-f83e-4738-ae1e-78619a9f82a7",
   "source": "dailymed"
 }

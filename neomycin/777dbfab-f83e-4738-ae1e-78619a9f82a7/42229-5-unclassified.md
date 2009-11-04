@@ -1,1 +1,1 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Neomycin Sulfate Tablets USP and other antibacterial drugs, Neomycin Sulfate Tablets USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of neomycin sulfate tablets and other antibacterial drugs, neomycin sulfate tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.

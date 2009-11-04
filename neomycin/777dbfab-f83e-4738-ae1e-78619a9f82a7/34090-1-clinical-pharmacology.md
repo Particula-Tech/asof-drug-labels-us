@@ -4,7 +4,7 @@ Neomycin sulfate is poorly absorbed from the normal gastrointestinal tract.
 The small absorbed fraction is rapidly distributed in the tissues and is excreted by the kidney in keeping with the degree of kidney function.
 The unabsorbed portion of the drug (approximately 97%) is eliminated unchanged in the feces.
 
-Growth of most intestinal bacteria is rapidly suppressed following oral administration of neomycin sulfate, with the suppression persisting for 48-72 hours.
+Growth of most intestinal bacteria is rapidly suppressed following oral administration of neomycin sulfate, with the suppression persisting for 48 to 72 hours.
 Nonpathogenic yeasts and occasionally resistant strains of Enterobacter aerogenes (formerly Aerobacter aerogenes) replace the intestinal bacteria.
 
 As with other aminoglycosides, the amount of systemically absorbed neomycin transferred to the tissues increases cumulatively with each repeated dose administered until a steady state is achieved.

@@ -3,14 +3,14 @@
 To minimize the risk of toxicity, use the lowest possible dose and the shortest possible treatment period to control the condition.
 Treatment for periods longer than two weeks is not recommended.
 
-## Hepatic coma
+## Hepatic Coma
 
-For use as an adjunct in the management of hepatic coma, the recommended dose is 4-12 grams per day given in the following regimen:
+For use as an adjunct in the management of hepatic coma, the recommended dose is 4 to 12 grams per day given in the following regimen:
 
 1. Withdraw protein from diet.
    Avoid use of diuretic agents.
 2. Give supportive therapy, including blood products, as indicated.
-3. Give Neomycin Sulfate Tablets in doses of 4-12 grams of neomycin sulfate per day (eight to 24 tablets) in divided doses.
+3. Give neomycin sulfate tablets in doses of 4 to 12 grams of neomycin sulfate per day (eight to 24 tablets) in divided doses.
    Treatment should be continued over a period of five to six days, during which time protein should be returned incrementally to the diet.
 4. If less potentially toxic drugs cannot be used for chronic hepatic insufficiency, neomycin in doses of up to four grams daily (eight tablets per day) may be necessary.
    The risk for the development of neomycin-induced toxicity progressively increases when treatment must be extended to preserve the life of a patient with hepatic encephalopathy who has failed to fully respond.
