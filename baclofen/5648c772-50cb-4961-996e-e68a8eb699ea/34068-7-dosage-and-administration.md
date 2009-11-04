@@ -16,4 +16,4 @@ The following dosage titration schedule is suggested:
 Thereafter additional increases may be necessary but the total daily dose should not exceed a maximum of 80 mg daily (20 mg q.i.d.).
 
 The lowest dose compatible with an optimal response is recommended.
-If benefits are not evident after a reasonable trial period, patients should be slowly withdrawn from the drug (see WARNINGS Abrupt Drug Withdrawal).
+If benefits are not evident after a reasonable trial period, patients should be slowly withdrawn from the drug (see WARNINGS, Abrupt Drug Withdrawal).

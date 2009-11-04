@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA072234",
+    "ANDA072235"
+  ],
   "inn": "baclofen",
   "labeler": "IVAX Pharmaceuticals, Inc.",
   "package_ndcs": [
@@ -8,7 +11,13 @@
     "0172-4097-60",
     "0172-4097-80"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "baclofen",
+      "name": "Baclofen"
+    }
+  ],
   "setid": "5648c772-50cb-4961-996e-e68a8eb699ea",
   "source": "dailymed"
 }

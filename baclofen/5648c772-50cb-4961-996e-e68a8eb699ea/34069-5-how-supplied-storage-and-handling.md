@@ -1,10 +1,8 @@
 # HOW SUPPLIED
 
-Baclofen Tablets USP are available as a white to off-white, round, flat tablet with beveled edge debossed with company logo and 4096 on one side and on opposite side debossed 10 with score, containing 10 mg Baclofen USP.
+Baclofen Tablets USP are available as a white, round, flat-faced, beveled-edged tablet debossed with company logo and “4096” on one side and debossed “10” with a score on the other side, containing 10 mg Baclofen USP packaged in bottles of 100 and 1000 tablets.
 
-Baclofen Tablets USP are available as a white to off-white, round, flat tablet with beveled edge debossed with company logo and 4097 on one side and on opposite side debossed 20 with score, containing 20 mg Baclofen USP.
-
-Both strengths are packaged in bottles of 100, and 1000 tablets.
+Baclofen Tablets USP are available as a white, round, flat-faced, beveled-edged tablet debossed with company logo and “4097” on one side and debossed “20” with a score on the other side, containing 20 mg Baclofen USP packaged in bottles of 100 and 1000 tablets.
 
 PHARMACIST: Dispense in a well closed container as defined in the USP.
 Use child-resistant closure.
@@ -30,8 +28,8 @@ Sellersville, PA 18960
 
 0172
 
-08/06
+1/08
 
-B10
+B11
 
 BACLOFEN TABLETS USP
