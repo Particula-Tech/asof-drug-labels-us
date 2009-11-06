@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065461"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-2102-01",
+    "0781-2103-01",
+    "0781-2104-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tacrolimus",
+      "name": "Tacrolimus"
+    }
+  ],
+  "setid": "46ac55cf-d85e-4c34-bb33-f49e078c4a03",
+  "source": "dailymed"
+}
