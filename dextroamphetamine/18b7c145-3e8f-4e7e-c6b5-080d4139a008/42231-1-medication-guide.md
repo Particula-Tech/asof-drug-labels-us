@@ -8,42 +8,6 @@ Read the Medication Guide that comes with DEXEDRINE before you or your child sta
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with DEXEDRINE.
 
-What is the most important information I should know about DEXEDRINE?
-
-The following have been reported with use of DEXEDRINE and other stimulant medicines.
-
-1.
-Heart-related problems:
-
-- Sudden death in patients who have heart problems or heart defects
-- Stroke and heart attack in adults
-- Increased blood pressure and heart rate
-
-Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
-
-Your doctor should check you or your child carefully for heart problems before starting DEXEDRINE.
-
-Your doctor should check you or your child’s blood pressure and heart rate regularly during treatment with DEXEDRINE.
-
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking DEXEDRINE.
-
-2.
-Mental (Psychiatric) problems:
-
-All Patients
-
-- new or worse behavior and thought problems
-- new or worse bipolar illness
-- new or worse aggressive behavior or hostility
-
-Children and Teenagers
-
-- new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
-
-Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
-
-Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking DEXEDRINE, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
-
 What Is DEXEDRINE?
 
 DEXEDRINE is a central nervous system stimulant prescription medicine.
@@ -84,9 +48,7 @@ Tell your doctor if you or your child is pregnant, planning to become pregnant, 
 
 Can DEXEDRINE be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
-
-DEXEDRINE and some medicines may interact with each other and cause serious side effects.
+Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.DEXEDRINE and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking DEXEDRINE
 
 Your doctor will decide whether DEXEDRINE can be taken with other medicines.
@@ -139,7 +101,7 @@ Common side effects include:
 - Weight loss
 - Dry mouth
 
-DEXEDRINE may affect you or your child’s ability to drive or do other dangerous activities.
+DEXEDRINE may affect your or your child’s ability to drive or do other dangerous activities.
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
@@ -177,11 +139,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 July 2008 DXD:3MG
 
+Manufactured by Catalent Pharma Solutions
+
+Winchester, KY 40391 for
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-July 2008 DXD:60PI
+September 2009 DXD:61PI

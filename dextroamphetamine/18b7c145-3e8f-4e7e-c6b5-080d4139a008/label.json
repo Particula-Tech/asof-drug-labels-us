@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017078"
+  ],
   "inn": "dextroamphetamine",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "SmithKline Beecham Corporation",
   "package_ndcs": [
     "0007-3512-59",
     "0007-3513-59",
     "0007-3514-59"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dextroamphetamine sulfate",
+      "name": "DEXEDRINE"
+    }
+  ],
   "setid": "18b7c145-3e8f-4e7e-c6b5-080d4139a008",
   "source": "dailymed"
 }
