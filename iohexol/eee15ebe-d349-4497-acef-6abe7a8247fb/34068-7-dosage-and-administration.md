@@ -40,7 +40,7 @@ Adults: The usual recommended total doses for use in lumbar, thoracic, cervical,
 | Total Columnar Myelography (via lumbar injection) | OMNIPAQUE 240 | 240 | 6-12.5 | 1.4-3.0 |
 | OMNIPAQUE 300 | 300 | 6-10 | 1.8-3.0 |  |
 
-Pediatrics: The usual recommended total doses for lumbar, thoracic, cervical, and/or total columnar myelography by lumbar puncture in children are 0.36 gI to 2.94 gI (see table below).
+Pediatrics: The usual recommended total doses for lumbar, thoracic, cervical, and/or total columnar myelography by lumbar puncture in children are 0.36 gI to 2.7 gI (see table below).
 Actual volumes administered depend largely on patient age and the following guidelines are recommended.
 
 | Age | Conc. (mgI/mL) | Volume (mL) | Dose (gI) |
