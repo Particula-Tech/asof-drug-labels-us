@@ -42,7 +42,7 @@ Laboratory evaluation of renal and hepatic function should be performed prior to
 Long–term animal studies to evaluate the carcinogenic potential of Gemzar have not been conducted.
 Gemcitabine induced forward mutations in vitro in a mouse lymphoma (L5178Y) assay and was clastogenic in an in vivo mouse micronucleus assay.
 Gemcitabine was negative when tested using the Ames, in vivo sister chromatid exchange, and in vitro chromosomal aberration assays, and did not cause unscheduled DNA synthesis in vitro.
-Gemcitabine IP doses of 0.5 mg/kg/day (about 1/700 the human dose on a mg/m2 basis)in male mice had an effect on fertility with moderate to severe hypospermatogenesis, decreased fertility, and decreased implantations.
+Gemcitabine IP doses of 0.5 mg/kg/day (about 1/700 the human dose on a mg/m2 basis) in male mice had an effect on fertility with moderate to severe hypospermatogenesis, decreased fertility, and decreased implantations.
 In female mice, fertility was not affected but maternal toxicities were observed at 1.5 mg/kg/day IV (about 1/200 the human dose on a mg/m2 basis) and fetotoxicity or embryolethality was observed at 0.25 mg/kg/day IV (about 1/1300 the human dose on a mg/m2 basis).
 
 ## Pregnancy
@@ -67,7 +67,7 @@ Overall, there were no substantial differences in toxicity profile of Gemzar plu
 ## Gender
 
 Gemzar clearance is affected by gender (see CLINICAL PHARMACOLOGY).
-In the single–agent safety database (N=979 patients), however, there is no evidence that unusual dose adjustments (i.e., other than those already recommended in the DOSAGE AND ADMINISTRATION section) are necessary in women.
+In the single–agent safety database (N=979 patients), however, there is no evidence that unusual dose adjustments (i.e., other than those already recommended in DOSAGE AND ADMINISTRATION) are necessary in women.
 In general, in single–agent studies of Gemzar, adverse reaction rates were similar in men and women, but women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3/4 neutropenia and thrombocytopenia.
 
 ## Pediatric Patients

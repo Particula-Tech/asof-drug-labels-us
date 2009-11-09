@@ -111,7 +111,7 @@ In both studies no significant differences were observed in QOL between the Gemz
 
 Table 5: Randomized Trials of Combination Therapy With Gemzar Plus Cisplatin in NSCLC
 
-| Trial | 28–day Schedule28–day schedule — Gemzar plus cisplatin: Gemzar 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single–agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. |  |  | 21–day Schedule21–day schedule — Gemzar plus cisplatin: Gemzar 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and I.V. etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |
+| Trial | 28–day Schedule28–day schedule — Gemzar plus cisplatin: Gemzar 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single–agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. |  |  | 21–day Schedule21–day schedule — Gemzar plus cisplatin: Gemzar 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and IV etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Treatment Arm | Gemzar/ Cisplatin | Cisplatin |  | Gemzar/ Cisplatin | Cisplatin/ Etoposide |  |
 | Number of patients | 260 | 262 |  | 69 | 66 |  |
@@ -119,7 +119,7 @@ Table 5: Randomized Trials of Combination Therapy With Gemzar Plus Cisplatin in 
 | Female | 78 | 76 |  | 5 | 5 |  |
 | Median age, years | 62 | 63 |  | 58 | 60 |  |
 | Range | 36 to 88 | 35 to 79 |  | 33 to 76 | 35 to 75 |  |
-| Stage IIIA | 7% | 7% |  | N/AN/A Not applicable | N/A |  |
+| Stage IIIA | 7% | 7% |  | N/AN/A Not applicable. | N/A |  |
 | Stage IIIB | 26% | 23% |  | 48% | 52% |  |
 | Stage IV | 67% | 70% |  | 52% | 49% |  |
 | Baseline KPSKarnofsky Performance Status. 70 to 80 | 41% | 44% |  | 45% | 52% |  |

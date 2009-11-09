@@ -49,7 +49,7 @@ Gemcitabine half–life for short infusions ranged from 42 to 94 minutes, and th
 The lower clearance in women and the elderly results in higher concentrations of gemcitabine for any given dose.
 
 The volume of distribution was increased with infusion length.
-Volume of distribution of gemcitabine was 50 L/m2 following infusions lasting<70 minutes, indicating that gemcitabine, after short infusions, is not extensively distributed into tissues.
+Volume of distribution of gemcitabine was 50 L/m2 following infusions lasting <70 minutes, indicating that gemcitabine, after short infusions, is not extensively distributed into tissues.
 For long infusions, the volume of distribution rose to 370 L/m2, reflecting slow equilibration of gemcitabine within the tissue compartment.
 
 The maximum plasma concentrations of dFdU (inactive metabolite) were achieved up to 30 minutes after discontinuation of the infusions and the metabolite is excreted in urine without undergoing further biotransformation.
