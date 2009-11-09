@@ -4,29 +4,17 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to empiric selection of therapy.
 
-## Urinary Tract Infections
-
-For the treatment of urinary tract infections due to susceptible strains of the following organisms: Escherichia coli, Klebsiella species, Enterobacter species, Morganella morganii, Proteus mirabilis and Proteus vulgaris.
+Urinary Tract Infections: For the treatment of urinary tract infections due to susceptible strains of the following organisms: Escherichia coli, Klebsiella species, Enterobacter species, Morganella morganii, Proteus mirabilis and Proteus vulgaris.
 It is recommended that initial episodes of uncomplicated urinary tract infections be treated with a single effective antibacterial agent rather than the combination.
 
-## Acute Otitis Media
-
-For the treatment of acute otitis media in pediatric patients due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician sulfamethoxazole and trimethoprim offers some advantage over the use of other antimicrobial agents.
+Acute Otitis Media: For the treatment of acute otitis media in pediatric patients due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician sulfamethoxazole and trimethoprim offers some advantage over the use of other antimicrobial agents.
 To date, there are limited data on the safety of repeated use of BACTRIM in pediatric patients under two years of age.
 BACTRIM is not indicated for prophylactic or prolonged administration in otitis media at any age.
 
-## Acute Exacerbations of Chronic Bronchitis in Adults
+Acute Exacerbations of Chronic Bronchitis in Adults: For the treatment of acute exacerbations of chronic bronchitis due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician BACTRIM offers some advantage over the use of a single antimicrobial agent.
 
-For the treatment of acute exacerbations of chronic bronchitis due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician BACTRIM offers some advantage over the use of a single antimicrobial agent.
+Shigellosis: For the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei when antibacterial therapy is indicated.
 
-## Shigellosis
+Pneumocystis Carinii Pneumonia: For the treatment of documented Pneumocystis carinii pneumonia and for prophylaxis against Pneumocystis carinii pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing Pneumocystis carinii pneumonia.
 
-For the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei when antibacterial therapy is indicated.
-
-## Pneumocystis Carinii Pneumonia
-
-For the treatment of documented Pneumocystis carinii pneumonia and for prophylaxis against Pneumocystis carinii pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing Pneumocystis carinii pneumonia.
-
-## Traveler's Diarrhea in Adults
-
-For the treatment of traveler's diarrhea due to susceptible strains of enterotoxigenic E. coli.
+Traveler's Diarrhea in Adults: For the treatment of traveler's diarrhea due to susceptible strains of enterotoxigenic E. coli.

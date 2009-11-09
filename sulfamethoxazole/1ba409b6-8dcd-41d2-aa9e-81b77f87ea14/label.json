@@ -1,14 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017377"
+  ],
   "inn": "sulfamethoxazole",
-  "labeler": "AR SCIENTIFIC",
+  "labeler": "AR Scientific Inc.",
   "package_ndcs": [
     "13310-145-01",
     "13310-145-05",
     "13310-146-01",
     "13310-146-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "BACTRIM"
+    },
+    {
+      "form": "TABLET",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "BACTRIM DS"
+    }
+  ],
   "setid": "1ba409b6-8dcd-41d2-aa9e-81b77f87ea14",
   "source": "dailymed"
 }
