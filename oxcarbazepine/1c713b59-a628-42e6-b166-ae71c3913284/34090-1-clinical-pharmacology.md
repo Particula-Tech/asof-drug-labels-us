@@ -71,6 +71,9 @@ Dose adjustment for oxcarbazepine is recommended in these patients (see PRECAUTI
 #### Pediatric Use
 
 Weight-adjusted MHD clearance decreases as age and weight increases approaching that of adults.
+The mean weight-adjusted clearance in children 2 years-<4 years of age is approximately 80% higher on average than that of adults.
+Therefore, MHD exposure in these children is expected to be about one-half that of adults when treated with a similar weight-adjusted dose.
+The mean weight-adjusted clearance in children 4–12 years of age is approximately 40% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about three-quarters that of adults when treated with a similar weight-adjusted dose.
 As weight increases, for patients 13 years of age and above, the weight-adjusted MHD clearance is expected to reach that of adults.
 
