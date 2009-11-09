@@ -7,11 +7,9 @@ In such patients, thiazides may precipitate azotemia.
 
 # PRECAUTIONS
 
-## Electrolyte and Fluid Balance Status
-
-In published studies, clinically significant hypokalemia has been consistently less common in patients who received 12.5 mg of hydrochlorothiazide than in patients who received higher doses.
+Electrolyte and Fluid Balance Status: In published studies, clinically significant hypokalemia has been consistently less common in patients who received 12.5 mg of hydrochlorothiazide than in patients who received higher doses.
 Nevertheless, periodic determination of serum electrolytes should be performed in patients who may be at risk for the development of hypokalemia.
-Patients should be observed for signs of fluid or electrolyte disturbances, i.e. hyponatremia, hypochloremic alkalosis, and hypokalemia and hypomagnesemia.
+Patients should be observed for signs of fluid or electrolyte disturbances, i.e., hyponatremia, hypochloremic alkalosis, and hypokalemia and hypomagnesemia.
 
 Warning signs or symptoms of fluid and electrolyte imbalance include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
 
@@ -23,22 +21,14 @@ Hypokalemia may be avoided or treated by potassium supplementation or increased 
 Dilutional hyponatremia is life-threatening and may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than salt administration, except in rare instances when the hyponatremia is life-threatening.
 In actual salt depletion, appropriate replacement is the therapy of choice.
 
-## Hyperuricemia
+Hyperuricemia: Hyperuricemia or acute gout may be precipitated in certain patients receiving thiazide diuretics.
 
-Hyperuricemia or acute gout may be precipitated in certain patients receiving thiazide diuretics.
-
-## Impaired Hepatic Function
-
-Thiazides should be used with caution in patients with impaired hepatic function.
+Impaired Hepatic Function: Thiazides should be used with caution in patients with impaired hepatic function.
 They can precipitate hepatic coma in patients with severe liver disease.
 
-## Parathyroid Disease
+Parathyroid Disease: Calcium excretion is decreased by thiazides, and pathologic changes in the parathyroid glands, with hypercalcemia and hypophosphatemia, have been observed in a few patients on prolonged thiazide therapy.
 
-Calcium excretion is decreased by thiazides, and pathologic changes in the parathyroid glands, with hypercalcemia and hypophosphatemia, have been observed in a few patients on prolonged thiazide therapy.
-
-## Drug Interactions
-
-When given concurrently the following drugs may interact with thiazide diuretics:
+Drug Interactions: When given concurrently the following drugs may interact with thiazide diuretics:
 
 Alcohol, barbiturates, or narcotics - potentiation of orthostatic hypotension may occur.
 
@@ -61,42 +51,40 @@ Refer to the package insert for lithium preparations before use of such preparat
 Non-steroidal anti-inflammatory drugs - In some patients, the administration of a nonsteroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 When MICROZIDE and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.
 
-Drug/Laboratory Test Interactions - Thiazides should be discontinued before carrying out tests for parathyroid function (seePRECAUTIONS, General).
+Drug/Laboratory Test Interactions - Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS, General).
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of approximately 100 mg/kg/day).
+Carcinogenesis, Mutagenesis, Impairment of Fertility: Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
 Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to conception and throughout gestation.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic Effects
+### Teratogenic Effects:
 
 Pregnancy Category B: Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-### Nonteratogenic Effects
+### Nonteratogenic Effects:
 
 Thiazides cross the placental barrier and appear in cord blood.
 There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
-## Nursing Mothers
+### Nursing Mothers:
 
 Thiazides are excreted in breast milk.
 Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue hydrochlorothiazide, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Elderly Use
+## Elderly Use:
 
-A greater blood pressure reduction and an increase in side effects may be observed in the elderly (i.e.>65 years) with hydrochlorothiazide.
+A greater blood pressure reduction and an increase in side effects may be observed in the elderly (i.e,.> 65 years) with hydrochlorothiazide.
 Starting treatment with the lowest available dose of hydrochlorothiazide (12.5 mg) is therefore recommended.
 If further titration is required, 12.5 mg increments should be utilized.

@@ -6,7 +6,7 @@ With continued use of hydrochlorothiazide and depletion of sodium, compensatory 
 Hydrochlorothiazide also decreases the excretion of calcium and uric acid, may increase the excretion of iodide and may reduce glomerular filtration rate.
 Metabolic toxicities associated with excessive electrolyte changes caused by hydrochlorothiazide have been shown to be dose-related.
 
-## Pharmacokinetics and Metabolism
+## Pharmacokinetics and Metabolism:
 
 Hydrochlorothiazide is well absorbed (65% to 75%) following oral administration.
 Absorption of hydrochlorothiazide is reduced in patients with congestive heart failure.
@@ -22,12 +22,16 @@ In patients with renal disease, plasma concentrations of hydrochlorothiazide are
 
 When MICROZIDE is administered with food, its bioavailability is reduced by 10%, the maximum plasma concentration is reduced by 20%, and the time to maximum concentration increases from 1.6 to 2.9 hours.
 
-Pharmacodynamics: Acute antihypertensive effects of thiazides are thought to result from a reduction in blood volume and cardiac output, secondary to a natriuretic effect, although a direct vasodilatory mechanism has also been proposed.
+## Pharmacodynamics:
+
+Acute antihypertensive effects of thiazides are thought to result from a reduction in blood volume and cardiac output, secondary to a natriuretic effect, although a direct vasodilatory mechanism has also been proposed.
 With chronic administration, plasma volume returns toward normal, but peripheral vascular resistance is decreased.
 The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not known.
 
 Thiazides do not affect normal blood pressure.
 Onset of action occurs within 2 hours of dosing, peak effect is observed at about 4 hours, and activity persists for up to 24 hours.
 
-Clinical Studies: In an 87 patient 4-week double-blind, placebo controlled, parallel group trial, patients who received MICROZIDE had reductions in seated systolic and diastolic blood pressure that were significantly greater than those seen in patients who received placebo.
+## Clinical Studies:
+
+In an 87 patient 4-week double-blind, placebo controlled, parallel group trial, patients who received MICROZIDE had reductions in seated systolic and diastolic blood pressure that were significantly greater than those seen in patients who received placebo.
 In published placebo-controlled trials comparing 12.5 mg of hydrochlorothiazide to 25 mg, the 12.5 mg dose preserved most of the placebo-corrected blood pressure reduction seen with 25 mg.
