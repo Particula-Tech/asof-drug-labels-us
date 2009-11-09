@@ -1,0 +1,7 @@
+# PRINCIPAL DISPLAY PANEL
+
+15mg
+
+45 mg
+
+60mg

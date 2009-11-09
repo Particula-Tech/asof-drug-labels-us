@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020769"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Triax Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "14290-313-15",
+    "14290-313-45",
+    "14290-313-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "hydrocortisone butyrate",
+      "name": "Locoid Lipocream"
+    }
+  ],
+  "setid": "7c9ded05-460f-4bb3-85a3-8dd26f15f941",
+  "source": "dailymed"
+}
