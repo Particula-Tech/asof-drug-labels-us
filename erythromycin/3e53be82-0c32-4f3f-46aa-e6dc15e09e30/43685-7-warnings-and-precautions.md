@@ -5,15 +5,16 @@ There have been reports of hepatic dysfunction, including increased liver enzyme
 There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis.
 Infants born to women treated during pregnancy with oral erythromycin for early syphilis should be treated with an appropriate penicillin regimen.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including erythromycin, and may range in severity from mild to life threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including E.E.S., and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of “antibiotic-associated colitis”.
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin.
 Therefore, patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase (CK) and serum transaminase levels.
@@ -28,7 +29,7 @@ Prescribing E.E.S. in the absence of a proven or strongly suspected bacterial in
 Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
 (See CLINICAL PHARMACOLOGY and WARNINGS sections.)
 
-Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome has been reported in patients receiving erythromycin therapy.
+Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome have been reported in patients receiving erythromycin therapy.
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
@@ -46,6 +47,10 @@ Patients should be counseled that antibacterial drugs including E.E.S. should on
 They do not treat viral infections (e.g., the common cold).
 When E.E.S. is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by E.E.S. or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Drug Interactions
 
@@ -134,3 +139,24 @@ Caution should be exercised when erythromycin is administered to a nursing woman
 ## Pediatric Use
 
 See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
+
+## Geriatric Use
+
+Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss.
+(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+
+Elderly patients may be more susceptible to the development of torsades de pointes arrhythmias than younger patients.
+(See ADVERSE REACTIONS).
+
+Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
+(See PRECAUTIONS - Drug Interactions).
+
+E.E.S.® Granules contains 25.9 mg (1.1 mEq) of sodium per individual dose.
+
+E.E.S.® 200 Liquid and E.E.S.® 400 Liquid contain 23.7 mg/mL or 1.0 mEq/mL of sodium.
+
+The geriatric population may respond with a blunted natriuresis to salt loading.
+This may be clinically important with regard to such diseases as congestive heart failure.
+
+E.E.S.
+400 Filmtab contains 47 mg (2 mEq) of sodium per tablet and 10.0 mg (0.3 mEq) of potassium per tablet.

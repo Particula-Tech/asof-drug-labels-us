@@ -1,5 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA061639",
+    "ANDA061905",
+    "NDA050207"
+  ],
   "inn": "erythromycin",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
@@ -14,7 +18,23 @@
     "0074-6373-13",
     "0074-6373-16"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GRANULE, FOR SUSPENSION",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "E.E.S."
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "E.E.S."
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "E.E.S."
+    }
+  ],
   "setid": "3e53be82-0c32-4f3f-46aa-e6dc15e09e30",
   "source": "dailymed"
 }
