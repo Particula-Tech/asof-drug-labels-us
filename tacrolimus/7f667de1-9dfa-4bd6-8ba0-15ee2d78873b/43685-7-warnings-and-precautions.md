@@ -1,6 +1,8 @@
 # WARNINGS
 
-(See boxed Warning)
+(See boxed WARNING)
+
+## Post-Transplant Diabetes Mellitus
 
 Insulin-dependent post-transplant diabetes mellitus (PTDM) was reported in 20% of Prograf-treated kidney transplant patients without pretransplant history of diabetes mellitus in the Phase III study (See Tables Below).
 The median time to onset of PTDM was 68 days.
@@ -52,7 +54,9 @@ Incidence of Post Transplant Diabetes Mellitus and Insulin Use at 1 Year in Hear
 | New Onset PTDM | 21 (25%) | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
 | Patients still on insulin at 1 year7-12 months for the US Study. | 10 (12%) | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
 
-Prograf can cause neurotoxicity and nephrotoxicity, particularly when used in high doses.
+## Nephrotoxicity
+
+Prograf can cause nephrotoxicity, particularly when used in high doses.
 Nephrotoxicity was reported in approximately 52% of kidney transplantation patients and in 40% and 36% of liver transplantation patients receiving Prograf in the U.S. and European randomized trials, respectively, and in 59% of heart transplantation patients in a European randomized trial (see ADVERSE REACTIONS).
 Use of Prograf with sirolimus in heart transplantation patients in a US study was associated with increased risk of renal function impairment, and is not recommended (See CLINICAL STUDIES).
 More overt nephrotoxicity is seen early after transplantation, characterized by increasing serum creatinine and a decrease in urine output.
@@ -63,9 +67,14 @@ In particular, to avoid excess nephrotoxicity, Prograf should not be used simult
 Prograf or cyclosporine should be discontinued at least 24 hours prior to initiating the other.
 In the presence of elevated Prograf or cyclosporine concentrations, dosing with the other drug usually should be further delayed.
 
+## Hyperkalemia
+
 Mild to severe hyperkalemia was reported in 31% of kidney transplant recipients and in 45% and 13% of liver transplant recipients treated with Prograf in the U.S. and European randomized trials, respectively, and in 8% of heart transplant recipients in a European randomized trial and may require treatment (see ADVERSE REACTIONS).
 Serum potassium levels should be monitored and potassium-sparing diuretics should not be used during Prograf therapy (see PRECAUTIONS).
 
+## Neurotoxicity
+
+Prograf can cause neurotoxicity, particularly when used in high doses.
 Neurotoxicity, including tremor, headache, and other changes in motor function, mental status, and sensory function were reported in approximately 55% of liver transplant recipients in the two randomized studies.
 Tremor occurred more often in Prograf-treated kidney transplant patients (54%) and heart transplant patients (15%) compared to cyclosporine-treated patients.
 The incidence of other neurological events in kidney transplant and heart transplant patients was similar in the two treatment groups (see ADVERSE REACTIONS).
@@ -73,11 +82,31 @@ Tremor and headache have been associated with high whole-blood concentrations of
 Seizures have occurred in adult and pediatric patients receiving Prograf (see ADVERSE REACTIONS).
 Coma and delirium also have been associated with high plasma concentrations of tacrolimus.
 
+Patients treated with tacrolimus have been reported to develop posterior reversible encephalopathy syndrome (PRES).
+Symptoms indicating PRES include headache, altered mental status, seizures, visual disturbances and hypertension.
+Diagnosis may be confirmed by radiological procedure.
+If PRES is suspected or diagnosed, blood pressure control should be maintained and immediate reduction of immunosuppression is advised.
+This syndrome is characterized by reversal of symptoms upon reduction or discontinuation of immunosuppression.
+
+## Malignancy and Lymphoproliferative Disorders
+
 As in patients receiving other immunosuppressants, patients receiving Prograf are at increased risk of developing lymphomas and other malignancies, particularly of the skin.
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 A lymphoproliferative disorder (LPD) related to Epstein-Barr Virus (EBV) infection has been reported in immunosuppressed organ transplant recipients.
 The risk of LPD appears greatest in young children who are at risk for primary EBV infection while immunosuppressed or who are switched to Prograf following long-term immunosuppression therapy.
 Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution.
+
+## Latent Viral Infections
+
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include BK virus associated nephropathy and JC virus associated progressive multifocal leukoencephalopathy (PML) which have been observed in patients receiving tacrolimus.
+These infections may lead to serious, including fatal, outcomes.
+
+## Prograf in Combination with Sirolimus
+
+The use of full-dose Prograf with sirolimus (2 mg per day) in heart transplant recipients was associated with increased risk of wound healing complications, renal function impairment, and insulin-dependent post-transplant diabetes mellitus, and is not recommended (see CLINICAL STUDIES).
+
+## Anaphylactic Reactions
 
 A few patients receiving Prograf injection have experienced anaphylactic reactions.
 Although the exact cause of these reactions is not known, other drugs with castor oil derivatives in the formulation have been associated with anaphylaxis in a small percentage of patients.
@@ -87,7 +116,7 @@ Patients receiving Prograf injection should be under continuous observation for 
 If signs or symptoms of anaphylaxis occur, the infusion should be stopped.
 An aqueous solution of epinephrine should be available at the bedside as well as a source of oxygen.
 
-# Precautions
+# PRECAUTIONS
 
 ## General
 
@@ -201,6 +230,9 @@ The safety and efficacy of tacrolimus used in combination with sirolimus for the
 Immunosuppressants may affect vaccination.
 Therefore, during treatment with Prograf, vaccination may be less effective.
 The use of live vaccines should be avoided; live vaccines may include, but are not limited to measles, mumps, rubella, oral polio, BCG, yellow fever, and TY 21a typhoid.1
+
+At a given MMF dose, mycophenolic acid (MPA) exposure is higher with Prograf co-administration than with cyclosporine co-administration due to the differences in the interruption of the enterohepatic recirculation of MPA.
+Clinicians should be aware that there is also a potential for increased MPA exposure after crossover from cyclosporine to tacrolimus in patients concomitantly receiving MMF or MPA.
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility
 

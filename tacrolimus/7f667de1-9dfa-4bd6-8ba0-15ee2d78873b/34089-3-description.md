@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 Prograf is available for oral administration as capsules (tacrolimus capsules) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus.
 Inactive ingredients include lactose, hydroxypropyl methylcellulose, croscarmellose sodium, and magnesium stearate.

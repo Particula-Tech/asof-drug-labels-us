@@ -63,14 +63,14 @@ When administered 1.5 hours following the meal, mean Cmax was reduced 63%, and m
 
 In 11 liver transplant patients, Prograf administered 15 minutes after a high fat (400 kcal, 34% fat) breakfast, resulted in decreased AUC (27±18%) and Cmax (50±19%), as compared to a fasted state.
 
-### Distribution
+## Distribution
 
 The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
 The distribution of tacrolimus between whole blood and plasma depends on several factors, such as hematocrit, temperature at the time of plasma separation, drug concentration, and plasma protein concentration.
 In a U.S. study, the ratio of whole blood concentration to plasma concentration averaged 35 (range 12 to 67).
 
-### Metabolism
+## Metabolism
 
 Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
 A metabolic pathway leading to the formation of 8 possible metabolites has been proposed.
@@ -78,7 +78,7 @@ Demethylation and hydroxylation were identified as the primary mechanisms of bio
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.
 In in vitro studies, a 31-demethyl metabolite has been reported to have the same activity as tacrolimus.
 
-### Excretion
+## Excretion
 
 The mean clearance following IV administration of tacrolimus is 0.040, 0.083, and 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
 In man, less than 1% of the dose administered is excreted unchanged in urine.
@@ -119,7 +119,7 @@ The pharmacokinetic parameters obtained were similar for both groups.
 
 The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (see previous table).
 
-Hepatic Insufficiency:Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
+Hepatic Insufficiency: Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic dysfunction (mean Pugh score: >10).
 The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration.

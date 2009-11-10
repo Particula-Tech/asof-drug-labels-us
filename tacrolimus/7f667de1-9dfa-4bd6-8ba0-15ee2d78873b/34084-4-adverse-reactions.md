@@ -26,11 +26,11 @@ LIVER TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 15% OF PROGRAF-TREATED PA
 | Gastrointestinal |  |  |  |  |
 | DiarrheaNauseaConstipationLFT AbnormalAnorexiaVomiting | 72%46%24%36%34%27% | 47%37%27%30%24%15% | 37%32%23%6%7%14% | 27%27%21%5%5%11% |
 | Cardiovascular |  |  |  |  |
-| Hypertension (seePRECAUTIONS) | 47% | 56% | 38% | 43% |
+| Hypertension (see PRECAUTIONS) | 47% | 56% | 38% | 43% |
 | Urogenital |  |  |  |  |
-| Kidney Function Abnormal (seeWARNINGS)Creatinine Increased (seeWARNINGS)BUN Increased (see WARNINGS)Urinary Tract InfectionOliguria | 40%39%30%16%18% | 27%25%22%18%15% | 36%24%12%21%19% | 23%19%9%19%12% |
+| Kidney Function Abnormal (see WARNINGS)Creatinine Increased (see WARNINGS)BUN Increased (see WARNINGS)Urinary Tract InfectionOliguria | 40%39%30%16%18% | 27%25%22%18%15% | 36%24%12%21%19% | 23%19%9%19%12% |
 | Metabolic and Nutritional |  |  |  |  |
-| Hyperkalemia (see WARNINGS)HypokalemiaHyperglycemia (seeWARNINGS)Hypomagnesemia | 45%29%47%48% | 26%34%38%45% | 13%13%33%16% | 9%16%22%9% |
+| Hyperkalemia (see WARNINGS)HypokalemiaHyperglycemia (see WARNINGS)Hypomagnesemia | 45%29%47%48% | 26%34%38%45% | 13%13%33%16% | 9%16%22%9% |
 | Hemic and Lymphatic |  |  |  |  |
 | AnemiaLeukocytosis Thrombocytopenia | 47%32%24% | 38%26%20% | 5%8%14% | 1%8%19% |
 | Miscellaneous |  |  |  |  |
@@ -46,14 +46,14 @@ Less frequently observed adverse reactions in both liver transplantation and kid
 
 The most common adverse reactions reported were infection, tremor, hypertension, abnormal renal function, constipation, diarrhea, headache, abdominal pain and insomnia.
 
-Adverse events that occurred in ≥15% of Prograf-treated kidney transplant patients are presented below:
+Adverse events that occurred in ≥ 15% of kidney transplant patients treated with Prograf in conjunction with azathioprine are presented below:
 
-KIDNEY TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 15% OF PROGRAF-TREATED PATIENTS
+KIDNEY TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 15% OF PATIENTS TREATED WITH PROGRAF IN CONJUNCTION WITH AZATHIOPRINE
 
 |  | Prograf(N=205) | CBIR(N=207) |
 | --- | --- | --- |
 | Nervous System |  |  |
-| Tremor (seeWARNINGS)Headache (see WARNINGS)InsomniaParesthesiaDizziness | 54%44%32%23%19% | 34%38%30%16%16% |
+| Tremor (see WARNINGS)Headache (see WARNINGS)InsomniaParesthesiaDizziness | 54%44%32%23%19% | 34%38%30%16%16% |
 | Gastrointestinal |  |  |
 | DiarrheaNauseaConstipationVomitingDyspepsia | 44%38%35%29%28% | 41%36%43%23%20% |
 | Cardiovascular |  |  |
@@ -61,7 +61,7 @@ KIDNEY TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 15% OF PROGRAF-TREATED P
 | Urogenital |  |  |
 | Creatinine Increased (see WARNINGS)Urinary Tract Infection | 45%34% | 42%35% |
 | Metabolic and Nutritional |  |  |
-| HypophosphatemiaHypomagnesemiaHyperlipemiaHyperkalemia (see WARNINGS)Diabetes Mellitus (seeWARNINGS)HypokalemiaHyperglycemia (see WARNINGS)Edema | 49%34%31%31%24%22%22%18% | 53%17%38%32%9%25%16%19% |
+| HypophosphatemiaHypomagnesemiaHyperlipemiaHyperkalemia (see WARNINGS)Diabetes Mellitus (see WARNINGS)HypokalemiaHyperglycemia (see WARNINGS)Edema | 49%34%31%31%24%22%22%18% | 53%17%38%32%9%25%16%19% |
 | Hemic and Lymphatic |  |  |
 | AnemiaLeukopenia | 30%15% | 24%17% |
 | Miscellaneous |  |  |
@@ -73,15 +73,66 @@ KIDNEY TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 15% OF PROGRAF-TREATED P
 | Skin |  |  |
 | RashPruritus | 17%15% | 12%7% |
 
+Adverse events that occurred in ≥ 10% of kidney transplant patients treated with Prograf in conjunction with MMF in Study 1* are presented below:
+
+| KIDNEY TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 10% OF PROGRAF-TREATED PATIENTS |  |  |  |
+| --- | --- | --- | --- |
+|  | Prograf (Group C) | Cyclosporine (Group A) | Cyclosporine (Group B) |
+|  | (N=403) | (N=384) | (N=408) |
+| Anemia | 17% | 19% | 17% |
+| Leucopenia | 13% | 10% | 10% |
+| Diarrhea | 25% | 16% | 13% |
+| Edema peripheral | 11% | 12% | 13% |
+| Urinary tract infection | 24% | 28% | 24% |
+| Hyperlipidemia | 10% | 15% | 13% |
+| Hypertension (see PRECAUTIONS) | 13% | 14% | 12% |
+| *Study 1 was conducted entirely outside of the United States. Such studies often report a lower incidence of adverse events in comparison to US studies. |  |  |  |
+
+Adverse events that occurred in ≥15% of kidney transplant patients treated with Prograf in conjunction with MMF in Study 2 are presented below:
+
+| KIDNEY TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 15% OF PROGRAF-TREATED PATIENTS |  |  |
+| --- | --- | --- |
+|  | Prograf | Cyclosporine |
+|  | (N=212) | (N=212) |
+| Gastrointestinal Disorders |  |  |
+| Diarrhea | 44% | 26% |
+| Nausea | 39% | 47% |
+| Constipation | 36% | 41% |
+| Vomiting | 26% | 25% |
+| Dyspepsia | 18% | 15% |
+| Injury, Poisoning, and Procedural Complications |  |  |
+| Post Procedural Pain | 29% | 27% |
+| Incision Site Complication | 28% | 23% |
+| Graft Dysfunction | 24% | 18% |
+| Metabolism and Nutrition Disorders |  |  |
+| Hypomagnesemia | 28% | 22% |
+| Hypophosphatemia | 28% | 21% |
+| Hyperkalemia (see WARNINGS) | 26% | 19% |
+| Hyperglycemia (see WARNINGS) | 21% | 15% |
+| Hyperlipidemia | 18% | 25% |
+| Hypokalemia | 16% | 18% |
+| Nervous System Disorders |  |  |
+| Tremor | 34% | 20% |
+| Headache | 24% | 25% |
+| Blood and Lymphatic System Disorders |  |  |
+| Anemia | 30% | 28% |
+| Leukopenia | 16% | 12% |
+| Miscellaneous |  |  |
+| Edema Peripheral | 35% | 46% |
+| Hypertension (see PRECAUTIONS) | 32% | 35% |
+| Insomnia | 30% | 21% |
+| Urinary Tract Infection | 26% | 22% |
+| Blood creatinine increased | 23% | 23% |
+
 Less frequently observed adverse reactions in both liver transplantation and kidney transplantation patients are described under the subsection Less Frequently Reported Adverse Reactions shown below.
 
-Heart Transplantation
+## Heart Transplantation
 
 The more common adverse reactions in Prograf-treated heart transplant recipients were abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, and hyperlipemia.
 
 Adverse events in heart transplant patients in the European trial are presented below:
 
-HEART TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥15% OF PROGRAF-TREATED PATIENTS
+HEART TRANSPLANTATION: ADVERSE EVENTS OCCURRING IN ≥ 15% OF PROGRAF-TREATED PATIENTS
 
 | COSTART Body SystemCOSTART Term | Prograf+Azathioprine (n=157) | CsA + Azathioprine(n=157) |
 | --- | --- | --- |
@@ -117,7 +168,9 @@ Other targeted treatment-emergent adverse events in Prograf-treated patients occ
 
 The following adverse events were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
-### Nervous System (see WARNINGS)
+### Nervous System
+
+(see WARNINGS)
 
 Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, dizziness, elevated mood, emotional lability, encephalopathy, haemorrhagic stroke, hallucinations, headache, hypertonia, incoordination, insomnia, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paresthesia, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
 
@@ -133,15 +186,19 @@ Anorexia, cholangitis, cholestatic jaundice, diarrhea, duodenitis, dyspepsia, dy
 
 Abnormal ECG, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, bradycardia, cardiac fibrillation, cardiopulmonary failure, cardiovascular disorder, chest pain, congestive heart failure, deep thrombophlebitis, echocardiogram abnormal, electrocardiogram QRS complex abnormal, electrocardiogram ST segment abnormal, heart failure, heart rate decreased, hemorrhage, hypotension, peripheral vascular disorder, phlebitis, postural hypotension, syncope, tachycardia, thrombosis, vasodilatation
 
-### Urogenital (see WARNINGS)
+### Urogenital
 
-Acute kidney failure, albuminuria, bladder spasm, cystitis, dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, oliguria, pyuria, toxic nephropathy, urge incontinence, urinary frequency, urinary incontinence, urinary retention, vaginitis
+(see WARNINGS)
+
+Acute kidney failure, albuminuria, BK nephropathy, bladder spasm, cystitis, dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, oliguria, pyuria, toxic nephropathy, urge incontinence, urinary frequency, urinary incontinence, urinary retention, vaginitis
 
 ### Metabolic/Nutritional
 
 Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased, bicarbonate decreased, bilirubinemia, BUN increased, dehydration, edema, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia, hyperkalemia, hyperlipemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hypokalemia, hypomagnesemia, hyponatremia, hypophosphatemia, hypoproteinemia, lactic dehydrogenase increase, peripheral edema, weight gain
 
-### Endocrine (see PRECAUTIONS)
+### Endocrine
+
+(see PRECAUTIONS)
 
 Cushing’s syndrome, diabetes mellitus
 
@@ -199,11 +256,11 @@ Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary
 
 ### Nervous System
 
-Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, quadriplegia, speech disorder, syncope
+Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES), progressive multifocal leukoencephalopathy (PML), quadriplegia, speech disorder, syncope
 
 ### Respiratory
 
-Acute respiratory distress syndrome, lung infiltration, respiratory distress, respiratory failure
+Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 
 ### Skin
 

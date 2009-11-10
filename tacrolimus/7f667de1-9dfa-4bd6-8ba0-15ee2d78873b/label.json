@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050708",
+    "NDA050709"
+  ],
   "inn": "tacrolimus",
   "labeler": "Astellas Pharma US, Inc.",
   "package_ndcs": [
@@ -10,7 +13,18 @@
     "0469-0657-73",
     "0469-3016-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "tacrolimus",
+      "name": "Prograf"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tacrolimus",
+      "name": "Prograf"
+    }
+  ],
   "setid": "7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
   "source": "dailymed"
 }

@@ -5,7 +5,7 @@
 For IV Infusion Only
 
 NOTE: Anaphylactic reactions have occurred with injectables containing castor oil derivatives.
-See WARNINGS.
+SeeWARNINGS.
 
 In patients unable to take oral Prograf capsules, therapy may be initiated with Prograf injection.
 The initial dose of Prograf should be administered no sooner than 6 hours after transplantation.
@@ -25,11 +25,11 @@ Due to the chemical instability of tacrolimus in alkaline media, Prograf injecti
 
 ## Prograf capsules (tacrolimus capsules)
 
-Summary of Initial Oral Dosage Recommendations and Typical Whole Blood Trough Concentrations
+Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations
 
-| Patient Population | Recommended Initial Oral DoseNote: two divided doses, q12h | Typical Whole Blood Trough Concentrations |
+| Patient Population | Recommended Initial Oral DosageNote: two divided doses, q12h | Observed Whole Blood Trough Concentrations |
 | --- | --- | --- |
-| Adult kidney transplant patients | 0.2 mg/kg/day | month 1-3: 7-20 ng/mLmonth 4-12: 5-15 ng/mL |
+| Adult kidney transplant patients In combination with azathioprine In combination with MMF/IL-2 receptor antagonist In a second smaller study, the initial dose of tacrolimus was 0.15-0.2 mg/kg/day and observed tacrolimus concentrations were 6-16 ng/mL during month 1-3 and 5-12 ng/mL during month 4-12 (see CLINICAL STUDIES). | 0.2 mg/kg/day0.1 mg/kg/day | month 1-3: 7-20 ng/mLmonth 4-12: 5-15 ng/mLmonth 1-12: 4-11 ng/mL |
 | Adult liver transplant patients | 0.10-0.15 mg/kg/day | month 1-12: 5-20 ng/mL |
 | Pediatric liver transplant patients | 0.15-0.20 mg/kg/day | month 1-12: 5-20 ng/mL |
 | Adult heart transplant patients | 0.075 mg/kg/day | month 1-3: 10-20 ng/mLmonth ≥4: 5-15 ng/mL |
@@ -53,7 +53,7 @@ Dosage and typical tacrolimus whole blood trough concentrations are shown in the
 
 ## Kidney Transplantation
 
-The recommended starting oral dose of Prograf is 0.2 mg/kg/day administered every 12 hours in two divided doses.
+The recommended starting oral dose of Prograf (administered every 12 hours in two divided doses) is 0.2 mg/kg/day when used in combination with azathioprine or 0.1 mg/kg/day when used in combination with MMF and IL-2 receptor antagonist (see CLINICAL STUDIES).
 The initial dose of Prograf may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered (as indicated for example by a serum creatinine ≤ 4 mg/dL).
 Black patients may require higher doses to achieve comparable blood concentrations.
 Dosage and typical tacrolimus whole blood trough concentrations are shown in the table above; blood concentration details are described in Blood Concentration Monitoring: Kidney Transplantation below.
@@ -81,7 +81,7 @@ Dosing should be titrated based on clinical assessments of rejection and tolerab
 Lower Prograf dosages may be sufficient as maintenance therapy.
 Adjunct therapy with adrenal corticosteroids is recommended early post transplant.
 
-Dosage and typical tacrolimus whole blood trough concentrations are shown in the table above; blood concentration details are described in Blood Concentration Monitoring: Heart Transplantation below.
+Dosage and typical tacrolimus whole blood trough concentrations are shown in the table above; blood concentration details are described in Blood Concentration Monitoring: Heart Transplantationbelow.
 
 ## Pediatric Patients
 
@@ -132,11 +132,15 @@ Refer to these manuscripts for further discussions of tacrolimus monitoring.
 
 ## Kidney Transplantation
 
-Data from the Phase 3 study indicate that trough concentrations of tacrolimus in whole blood, as measured by IMx® were most variable during the first week of dosing.
-During the first three months, 80% of the patients maintained trough concentrations between 7-20 ng/mL, and then between 5-15 ng/mL, through 1 year.
+Data from a Phase 3 study of Prograf in conjunction with azathioprine indicate that trough concentrations of tacrolimus in whole blood, as measured by IMx® were most variable during the first week of dosing.
+During the first three months of that trial, 80% of the patients maintained trough concentrations between 7-20 ng/mL, and then between 5-15 ng/mL, through 1 year.
 
-The relative risk of toxicity is increased with higher trough concentrations.
-Therefore, monitoring of whole blood trough concentrations is recommended to assist in the clinical evaluation of toxicity.
+In a separate clinical trial of Prograf in conjunction with MMF and daclizumab, approximately 80% of patients maintained tacrolimus whole blood concentrations between 4-11 ng/mL through 1 year post-transplant.
+
+In another clinical trial of Prograf in conjunction with MMF and basiliximab, approximately 80% of patients maintained tacrolimus whole trough blood concentrations between 6-16 ng/mL during month 1-3 and, then, between 5-12 ng/mL from month 4 through 1 year.
+
+The relative risks of toxicity and efficacy failure are related to tacrolimus whole blood trough concentrations.
+Therefore, monitoring of whole blood trough concentrations is recommended to assist in the clinical evaluation of toxicity and efficacy failure.
 
 ## Heart Transplantation
 
