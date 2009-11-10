@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020607"
+  ],
   "inn": "diclofenac",
-  "labeler": "G.D. Searle, LLC",
+  "labeler": "G.D. Searle LLC Division of Pfizer Inc",
   "package_ndcs": [
     "0025-1411-34",
     "0025-1411-60",
@@ -9,7 +11,13 @@
     "0025-1421-34",
     "0025-1421-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "diclofenac sodium and misoprostol",
+      "name": "ARTHROTEC"
+    }
+  ],
   "setid": "600fe842-45d9-4d68-9ef2-456dbbebaa11",
   "source": "dailymed"
 }

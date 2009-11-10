@@ -72,43 +72,47 @@ If ARTHROTEC therapy must be initiated, close monitoring of the patient's renal 
 
 ## Hepatic effects
 
-Elevations of one or more liver tests may occur during therapy with diclofenac.
+In clinical trials with ARTHROTEC, meaningful elevation of ALT (SGPT, more than 3 times the ULN) occurred in 1.6% of 2,184 patients treated with ARTHROTEC and in 1.4% of 1,691 patients treated with diclofenac sodium.
+These increases were generally transient, and enzyme levels returned to within the normal range upon discontinuation of therapy with ARTHROTEC.
+The misoprostol component of ARTHROTEC does not appear to exacerbate the hepatic effects caused by the diclofenac sodium component.
+
+Elevations of one or more liver tests may occur during therapy with diclofenac, a component of ARTHROTEC.
 These laboratory abnormalities may progress, may remain unchanged, or may be transient with continued therapy.
 Borderline elevations (i.e., less than 3 times the ULN [ULN = the upper limit of the normal range]), or greater elevations of transaminases occurred in about 15% of diclofenac-treated patients.
-Of the hepatic enzymes, ALT (SGPT) is the one recommended for the monitoring of liver injury.
+Of the markers of hepatic function, ALT (SGPT) is recommended for the monitoring of liver injury.
 
 In clinical trials, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) (ALT was not measured in all studies) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment.
-In a large, open, controlled trial, meaningful elevations of ALT and/or AST occurred in about 4% of 3,700 patients treated for 2–6 months, including marked elevations (ie, more than 8 times the ULN) in about 1% of the 3,700 patients.
+In a large, open-label, controlled trial of 3,700 patients treated for 2–6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (i.e., more than 8 times the ULN) in about 1% of the 3,700 patients.
 In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
-Transaminase elevations were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
+Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
 
-In addition to the borderline elevations of one or more liver tests that may occur in up to 15% of patients taking NSAIDs including ARTHROTEC, in clinical trials of diclofenac of up to 3 years in duration, notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in 1–5% of patients including elevations of more than 8 times the ULN.
-In addition to enzyme elevations seen in clinical trials, post marketing surveillance has found rare cases of severe hepatic reactions, including liver necrosis, jaundice, and fulminant fatal hepatitis with and without jaundice, and liver failure with rates generally higher than for other NSAIDs.
+Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
+Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
+
+In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy, but can occur at any time during treatment with diclofenac.
+Postmarketing surveillance has reported cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant hepatitis with and without jaundice, and liver failure.
 Some of these reported cases resulted in fatalities or liver transplantation.
 
 Physicians should measure transaminases periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
 The optimum times for making the first and subsequent transaminase measurements are not known.
-In the largest U.S. trial (open-label) that involved 3,700 patients monitored first at 8 weeks and 1,200 patients monitored again at 24 weeks, almost all meaningful elevations in transaminases were detected before patients became symptomatic.
-In 42 of the 51 patients in all trials who developed marked transaminase elevations, abnormal tests occurred during the first 2 months of therapy with diclofenac.
-Post marketing experience has shown severe hepatic reactions can occur at any time during treatment with diclofenac.
-Cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy.
-Based on these experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac.
+Based on clinical trial data and postmarketing experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac.
+However, severe hepatic reactions can occur at any time during treatment with diclofenac.
 
-In clinical trials with ARTHROTEC, meaningful elevation of ALT (SGPT, more than 3 times the ULN) occurred in 1.6% of 2,184 patients treated with ARTHROTEC and in 1.4% of 1,691 patients treated with diclofenac sodium.
-These increases were generally transient, and enzyme levels returned to within the normal range upon discontinuation of therapy with ARTHROTEC.
-The misoprostol component of ARTHROTEC does not appear to exacerbate the hepatic effects caused by the diclofenac sodium component.
-A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of more severe hepatic reaction while on therapy with ARTHROTEC.
-
-If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ARTHROTEC should be discontinued immediately.
+If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), ARTHROTEC should be discontinued immediately.
 
 To minimize the possibility that hepatic injury will become severe between transaminase measurements, physicians should inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
 
-## Anaphylactoid reactions
+To minimize the potential risk for an adverse liver related event in patients treated with ARTHROTEC, the lowest effective dose should be used for the shortest duration possible.
+Caution should be exercised in prescribing ARTHROTEC with concomitant drugs that are known to be potentially hepatotoxic (e.g., antibiotics, anti-epileptics).
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to ARTHROTEC.
+## Anaphylactic reactions
+
+As with other NSAIDs, anaphylactic reactions may occur in patients without known prior exposure to ARTHROTEC.
 ARTHROTEC should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS—Preexisting asthma).
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
+Anaphylactic reactions may also occur to the misoprostol component of ARTHROTEC.
+Emergency help should be sought in cases where an anaphylactic reaction occurs.
 Allergic reactions have been reported by less than 0.1% of patients who received ARTHROTEC in clinical trials, and there have been rare reports of anaphylaxis in the marketed use of ARTHROTEC outside of the United States.
 
 ## Skin Reactions
@@ -189,9 +193,10 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 - Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 - Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness and "flu-like" symptoms).
   If these occur, patients should be instructed to stop therapy and seek immediate medical attention.
-- Patients should be informed of the signs of an anaphylactoid reaction (e.g. difficulty breathing, swelling of the face or throat).
-  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactoid reactions).
+- Patients should be informed of the signs of an anaphylactic reaction (e.g. difficulty breathing, swelling of the face or throat).
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic reactions).
 - In late pregnancy, as with other NSAIDs, ARTHROTEC should be avoided because it may cause premature closure of the ductus arteriosus.
+- Arthrotec should not be taken by nursing mothers.
 
 See PATIENT INFORMATION at the end of this labeling for important information to discuss with the patient.
 
@@ -346,7 +351,8 @@ There are no adequate and well-controlled studies in pregnant women.
 
 Diclofenac sodium has been found in the milk of nursing mothers.
 Misoprostol is rapidly metabolised in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
-ARTHROTEC should not be administered to nursing mothers because the excretion of misoprostol acid could cause undesirable effects such as diarrhea in nursing infants.
+There are no published reports of adverse effects of misoprostol in breast-feeding infants of mothers taking misoprostol.
+Caution should be exercised when ARTHROTEC is administered to a nursing woman.
 
 ## Labor and Delivery
 

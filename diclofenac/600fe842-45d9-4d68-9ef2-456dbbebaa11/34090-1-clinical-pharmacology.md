@@ -80,7 +80,7 @@ Table 1
 | ARTHROTEC 75 | 304 (110) | 0.26 (0.09) | 177 (49) |
 | Cytotec | 290 (130) | 0.35 (0.12) | 176 (58) |
 | DICLOFENAC Mean (SD) |  |  |  |
-| Treatment (n=36) | Cmax(ng/mL) | tmax (hr) | AUC (0–12h) (ng∙hr/mL) |
+| Treatment (n=36) | Cmax (ng/mL) | tmax (hr) | AUC (0–12h) (ng∙hr/mL) |
 | ARTHROTEC 50 | 1207 (364) | 2.4 (1.0) | 1380 (272) |
 | Voltaren® | 1298 (441) | 2.4 (1.0) | 1357 (290) |
 | ARTHROTEC 75 | 2025 (2005) | 2.0 (1.4) | 2773 (1347) |
@@ -107,6 +107,9 @@ In patients with biopsy-confirmed cirrhosis or chronic active hepatitis (variabl
 Pharmacokinetic studies with misoprostol in patients with varying degrees of renal impairment showed an approximate doubling of t1/2, Cmax and AUC compared to healthy people.
 In people over 64 years of age, the AUC for misoprostol acid is increased.
 
-Misoprostol does not affect the hepatic mixed function oxidase (cytochrome P-450) enzyme system in animals.
 In a study of people with mild to moderate hepatic impairment, mean misoprostol acid AUC and Cmax showed approximately double the mean values obtained in healthy people.
 Three people who had the lowest antipyrine and lowest indocyanine green clearance values had the highest misoprostol acid AUC and Cmax values.
+
+After a single oral dose of misoprostol to nursing mothers, misoprostol acid was excreted in breast milk.
+The maximum concentration of misoprostol acid in expressed breast milk was achieved within 1 hour after dosing and was 7.6 pg/mL (CV 37%) and 20.9 pg/mL (CV 77%) after single 200 µg and 600 µg misoprostol administration, respectively.
+The misoprostol acid concentrations in breast milk declined to < 1 pg/mL at 5 hours post-dose.

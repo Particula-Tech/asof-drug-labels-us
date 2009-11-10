@@ -37,7 +37,7 @@ Overall, there were no significant differences in the safety profile of ARTHROTE
 
 Other adverse experiences reported occasionally or rarely with ARTHROTEC, diclofenac or other NSAIDs, or misoprostol are:
 
-Body as a whole: Asthenia, death, fatigue, fever, infection, malaise, sepsis.
+Body as a whole: Asthenia, death, fatigue, fever, infection, malaise, sepsis, chills.
 
 Cardiovascular system: Arrhythmia, atrial fibrillation, congestive heart failure, hypertension, hypotension, increased CPK, increased LDH, myocardial infarction, palpitations, phlebitis, premature ventricular contractions, syncope, tachycardia, vasculitis.
 
