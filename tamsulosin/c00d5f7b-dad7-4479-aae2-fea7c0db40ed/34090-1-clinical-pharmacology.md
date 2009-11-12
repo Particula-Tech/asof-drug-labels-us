@@ -114,12 +114,12 @@ Therefore, caution should be exercised with concomitant administration of warfar
 
 #### Digoxin and Theophylline
 
-In two studies in healthy volunteers (n=10 per study; age range 19-39 years) receiving FLOMAX capsules 0.4 mg/day for two days, followed by FLOMAX capsules 0.8 mg/day for five to eight days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
+In two studies in healthy volunteers (n=10 per study; age range 19 to 39 years) receiving FLOMAX capsules 0.4 mg/day for two days, followed by FLOMAX capsules 0.8 mg/day for five to eight days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
 Therefore, dosage adjustments are not necessary when a FLOMAX capsule is administered concomitantly with digoxin or theophylline.
 
 #### Furosemide
 
-The pharmacokinetic and pharmacodynamic interaction between Flomax® (tamsulosin hydrochloride) capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in ten healthy volunteers (age range 21-40 years).
+The pharmacokinetic and pharmacodynamic interaction between Flomax® (tamsulosin hydrochloride) capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in ten healthy volunteers (age range 21 to 40 years).
 FLOMAX capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
 While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the FLOMAX capsules dosage.
 
@@ -127,17 +127,22 @@ While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cm
 
 Cimetidine
 
-The effects of cimetidine at the highest recommended dose (400 mg every six hours for six days) on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in ten healthy volunteers (age range 21-38 years).
-Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
-Therefore, FLOMAX capsules should be used with caution in combination with cimetidine, particularly at doses higher than 0.4 mg.
+The effects of cimetidine at the highest recommended dose (400 mg every six hours for six days) on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in ten healthy volunteers (age range 21 to 38 years).
+Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) (see PRECAUTIONS, General).
 
-Strong Inhibitors of CYP3A4 or CYP2D6
+Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6.
 
-The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg every day on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range from 23 to 47 years).
-Treatment with ketoconazole resulted in a Cmax and AUC that increased by a factor of 2.2 and 2.8, respectively.
-Therefore, FLOMAX 0.4 mg capsules should be used with caution in combination with strong inhibitors of CYP3A4.
-Doses above 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole).
+The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range from 23 to 47 years).
+Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively (see WARNINGS).
+The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of FLOMAX have not been evaluated (see PRECAUTIONS, General).
 
-The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg every day on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 23 healthy volunteers (age range from 23 to 48 years).
-Treatment with paroxetine resulted in a Cmax and AUC that increased by a factor of 1.3 and 1.6, respectively.
-Therefore, FLOMAX capsules should be used with caution in combination with strong inhibitors of CYP2D6, particularly at doses higher than 0.4 mg (e.g., 0.8 mg).
+The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range from 23 to 47 years).
+Concomitant treatment with paroxetine resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively (see PRECAUTIONS, General).
+A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
+A fraction of the population (about 7% of Caucasians and 2% of African Americans) are CYP2D6 PMs.
+Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when FLOMAX 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, FLOMAX 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) (see WARNINGS).
+
+The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of FLOMAX have not been evaluated (see PRECAUTIONS, General).
+
+The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with FLOMAX capsules have not been evaluated.
+However, there is a potential for significant increase in tamsulosin exposure when FLOMAX 0.4 mg is co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors (see WARNINGS and PRECAUTIONS, General).

@@ -5,7 +5,7 @@ As with other alpha-adrenergic blocking agents there is a potential risk of sync
 
 Patients beginning treatment with FLOMAX capsules should be cautioned to avoid situations where injury could result should syncope occur.
 
-Doses of FLOMAX higher than 0.4 mg (e.g., 0.8 mg) should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole).
+FLOMAX capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
 
 Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
 Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition (see PRECAUTIONS, Information for Patients).
@@ -27,14 +27,15 @@ Because this condition can lead to permanent impotence if not properly treated, 
    If a patient reports a serious or life-threatening sulfa allergy, caution is warranted when administering FLOMAX capsules.
 4. Drug-Drug Interactions: The pharmacokinetic and pharmacodynamic interactions between FLOMAX capsules and other alpha-adrenergic blocking agents have not been determined.
    However, interactions may be expected and FLOMAX capsules should NOT be used in combination with other alpha-adrenergic blocking agents.
+   Caution is advised when alpha-adrenergic blocking agents including FLOMAX are co-administered with PDE5 inhibitors.
+   Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
+   Concomitant use of these two drug classes can potentially cause symptomatic hypotension.
    The pharmacokinetic interaction between cimetidine, a mild inhibitor of several CYP enzymes, and FLOMAX capsules was investigated in 10 subjects (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
    The results indicate significant changes in both tamsulosin hydrochloride clearance (26% decrease) and exposure (44% increase in AUC).
-   Therefore, FLOMAX capsules should be used with caution in combination with cimetidine, particularly at doses higher than 0.4 mg.
+   Therefore, FLOMAX capsules should be used with caution in combination with cimetidine, particularly at a dose higher than 0.4 mg (e.g., 0.8 mg).
    Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6.
-   When co-administered with 0.4 mg FLOMAX capsules, ketoconazole (a strong CYP3A4 inhibitor) caused an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively.
-   FLOMAX capsules 0.4 mg should therefore be used with caution in combination with strong inhibitors of CYP3A4.
-   Daily doses of FLOMAX higher than 0.4 mg (e.g., 0.8 mg) should not be used in combination with strong inhibitors of CYP3A4 (see WARNINGS).When co-administered with 0.4 mg FLOMAX capsules, paroxetine (a strong CYP2D6 inhibitor) caused an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively.
-   FLOMAX capsules should therefore be used with caution in combination with strong inhibitors of CYP2D6, particularly at doses higher than 0.4 mg (e.g., 0.8 mg).
+   FLOMAX capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) (see WARNINGS).
+   FLOMAX capsules should be used with caution in combination with moderate inhibitors of CYP3A4 (e.g., erythromycin), in combination with strong (e.g., paroxetine) or moderate (e.g., terbinafine) inhibitors of CYP2D6, or in patients known to be CYP2D6 poor metabolizers, particularly at a dose higher than 0.4 mg (e.g., 0.8 mg) (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
    Results from limited in vitro and in vivo drug-drug interaction studies between tamsulosin hydrochloride and warfarin are inconclusive.
    Therefore, caution should be exercised with concomitant administration of warfarin and FLOMAX capsules.
    See also Drug-Drug Interactions studies in CLINICAL PHARMACOLOGY, Pharmacokinetics subsection.

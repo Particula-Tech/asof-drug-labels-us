@@ -17,11 +17,11 @@ Changes from Baseline to Week 13 in Total AUA Symptom Score ** and Peak Urine Fl
 |  | Mean Baseline Value | Mean Change | Mean Baseline Value | Mean Change |
 | --- | --- | --- | --- | --- |
 |  | Total AUA Symptom Score |  | Peak Urine Flow Rate |  |
-| Study 1 † |  |  |  |  |
+| Study 1† |  |  |  |  |
 | FLOMAX capsules 0.8 mg once daily | 19.9 ± 4.9 n=247 | -9.6* ± 6.7 n=237 | 9.57 ± 2.51 n=247 | 1.78* ± 3.35 n=247 |
 | FLOMAX capsules 0.4 mg once daily | 19.8 ± 5.0 n=254 | -8.3* ± 6.5 n=246 | 9.46 ± 2.49 n=254 | 1.75* ± 3.57 n=254 |
 | Placebo | 19.6 ± 4.9 n=254 | -5.5 ± 6.6 n=246 | 9.75 ± 2.54 n=254 | 0.52 ± 3.39 n=253 |
-| Study 2 ‡ |  |  |  |  |
+| Study 2‡ |  |  |  |  |
 | FLOMAX capsules 0.8 mg once daily | 18.2 ± 5.6 n=244 | -5.8* ± 6.4 n=238 | 9.96 ± 3.16 n=244 | 1.79* ± 3.36 n=237 |
 | FLOMAX capsules 0.4 mg once daily | 17.9 ± 5.8 n=248 | -5.1* ± 6.4 n=244 | 9.94 ± 3.14 n=248 | 1.52 ± 3.64 n=244 |
 | Placebo | 19.2 ± 6.0 n=239 | -3.6 ± 5.7 n=235 | 9.95 ± 3.12 n=239 | 0.93 ± 3.28 n=235 |
@@ -29,7 +29,7 @@ Changes from Baseline to Week 13 in Total AUA Symptom Score ** and Peak Urine Fl
 
 Mean total AUA Symptom Scores for both FLOMAX capsules 0.4 mg and 0.8 mg once daily groups showed a rapid decrease starting at one week after dosing and remained decreased through 13 weeks in both studies (Figures 2A and 2B).
 
-In Study 1, 400 patients (53% of the originally randomized group) elected to continue in their originally assigned treatment groups in a double-blind, placebo controlled, 40 week extension trial (138 patients on 0.4 mg, 135 patients on 0.8 mg and 127 patients on placebo).
+In Study 1, 400 patients (53% of the originally randomized group) elected to continue in their originally assigned treatment groups in a double-blind, placebo-controlled, 40-week extension trial (138 patients on 0.4 mg, 135 patients on 0.8 mg and 127 patients on placebo).
 Three hundred twenty-three patients (43% of the originally randomized group) completed one year.
 Of these, 81% (97 patients) on 0.4 mg, 74% (75 patients) on 0.8 mg and 56% (57 patients) on placebo had a response ≥25% above baseline in total AUA Symptom Score at one year.
 

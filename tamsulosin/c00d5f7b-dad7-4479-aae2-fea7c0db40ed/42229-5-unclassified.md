@@ -16,7 +16,7 @@ Licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
 Copyright©2009, ALL RIGHTS RESERVED
 
-IT8004ID0909 PRT59/US/1 Rev: April 2009 Printed in USA
+IT8004LJ0609 PRT61 Rev: October 2009 Printed in USA
 
 PATIENT INFORMATION
 
@@ -155,6 +155,6 @@ Licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
 Copyright©2009, ALL RIGHTS RESERVED
 
-IT8004ID0909 PRT59/US/1 Rev: April 2009
+IT8004LJ0609 PRT61 Rev: October 2009
 
 Printed in USA
