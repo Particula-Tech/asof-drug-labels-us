@@ -76,8 +76,7 @@ Benzodiazapines — The half-life of concurrently administered diazepam may be p
 Coadministration of alprazolam and fluoxetine has resulted in increased alprazolam plasma concentrations and in further psychomotor performance decrement due to increased alprazolam levels.
 
 Antipsychotics — Some clinical data suggests a possible pharmacodynamic and/or pharmacokinetic interaction between SSRIs and antipsychotics.
-Elevation of blood levels of haloperidol and clozapine has been observed in patients receiving concomitant fluoxetine.
-[see Contraindications (4)].
+Elevation of blood levels of haloperidol and clozapine has been observed in patients receiving concomitant fluoxetine [see Contraindications (4)].
 
 Anticonvulsants — Patients on stable doses of phenytoin and carbamazepine have developed elevated plasma anticonvulsant concentrations and clinical anticonvulsant toxicity following initiation of concomitant fluoxetine treatment.
 
@@ -85,8 +84,7 @@ Lithium — There have been reports of both increased and decreased lithium leve
 Cases of lithium toxicity and increased serotonergic effects have been reported.
 Lithium levels should be monitored when these drugs are administered concomitantly.
 
-Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma protein, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., Coumadin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect.
-[see Clinical Pharmacology (12.3)].
+Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma protein, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., Coumadin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect [see Clinical Pharmacology (12.3)].
 
 Drugs Metabolized by CYP3A4 — In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine (a CYP3A4 substrate), no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine.
 
