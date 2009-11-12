@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065068"
+  ],
   "inn": "penicillin-g",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
+    "0781-6153-94",
     "0781-6153-95",
     "0781-6153-97"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "penicillin g sodium",
+      "name": "Penicillin G Sodium"
+    }
+  ],
   "setid": "23b6d4a3-b273-4e10-9da9-1376933fdbdf",
   "source": "dailymed"
 }

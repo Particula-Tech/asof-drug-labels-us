@@ -13,7 +13,7 @@ Appropriate culture and susceptibility tests should be done before treatment in 
 | Botulism (adjunctive therapy to antitoxin), gas gangrene, and tetanus (adjunctive therapy to human tetanus immune globulin) | Clostridium species |
 | Diphtheria (adjunctive therapy to antitoxin and prevention of the carrier state) | Corynebacterium diphtheriae |
 | Erysipelothrix endocarditis | Erysipelothrix rhusiopthiae |
-| Fusospirochetosis (severe infections of the oropharynx [Vincent's], lower respiratory tract and genital area) | Fusobacterium species and spirochetes |
+| Fusospirochetosis (severe infections of the oropharynx [Vincents], lower respiratory tract and genital area) | Fusobacterium species and spirochetes |
 | Listeria infections including meningitis and endocarditis | Listeria monocytogenes |
 | Pasteurella infections including bacteremia and meningitis | Pasteurella multocida |
 | Haverhill fever | Streptobacillus moniliformis |

@@ -35,7 +35,7 @@ Reactions include neutropenia, which resolves after penicillin therapy is discon
 
 ## Metabolic
 
-Penicillin G Sodium for lnjection, USP (1 million units contains 1.68 mEq of sodium ion) may cause serious and even fatal electrolyte disturbances when given intravenously in large doses.
+Penicillin G Sodium for Injection, USP (1 million units contains 1.68 mEq of sodium ion) may cause serious and even fatal electrolyte disturbances when given intravenously in large doses.
 
 ## Cardiovascular system
 

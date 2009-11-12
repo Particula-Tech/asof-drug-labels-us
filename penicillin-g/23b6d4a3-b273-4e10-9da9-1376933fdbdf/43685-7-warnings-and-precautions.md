@@ -8,15 +8,16 @@ IF AN ALLERGIC REACTION OCCURS, PENICILLIN G SHOULD BE DISCONTINUED AND APPROPRI
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including penicillin G, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including penicillin G sodium, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficila is one primary cause of "antibiotic-associated colitis".
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug effective against C. difficila.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -25,8 +26,8 @@ In moderate to severe cases, consideration should be given to management with fl
 Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see WARNINGS).
 Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to penicillin therapy.
 
-Penicillin G Sodium for lnjection, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the sodium content of the penicillin.
-Penicillin G Sodium for lnjection, USP contains 1.68 mEq of sodium per million units of penicillin G.
+Penicillin G Sodium for Injection, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the sodium content of the penicillin.
+Penicillin G Sodium for Injection, USP contains 1.68 mEq of sodium per million units of penicillin G.
 
 The use of antibiotics may promote overgrowth of nonsusceptible organisms, including fungi.
 Indwelling intravenous catheters encourage superinfections.
@@ -62,7 +63,7 @@ These drugs include: aspirin, phenylbutazone, sulfonamides, indomethacin, thiazi
 
 ## Drug/Laboratory Test Interactions
 
-After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix® and Tes-Tape®.
+After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedicts solution, Fehlings solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix® and Tes-Tape®.
 
 Penicillin G has been associated with pseudoproteinuria by certain test methods.
 
@@ -95,12 +96,13 @@ Recommended guidelines for pediatric dosages are presented in DOSAGE AND ADMINIS
 
 The potential for toxic effects in children from chemicals that may leach from the single dose premixed intravenous preparation in plastic containers has not been evaluated.
 
-## Information for patients
+## Information for Patients
 
 Patients should be counseled that antibacterial drugs including penicillin G sodium should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When penicillin G sodium is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may:
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by penicillin G sodium or other antibacterial drugs in the future.
 
-- (1) decrease the effectiveness of the immediate treatment, and
-- (2) increase the likelihood that bacteria will develop resistance and will not be treatable by penicillin G sodium or other antibacterial drugs in the future.
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.

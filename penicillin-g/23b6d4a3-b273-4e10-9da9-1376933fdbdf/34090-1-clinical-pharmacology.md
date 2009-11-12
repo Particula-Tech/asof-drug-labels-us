@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 After an intravenous infusion of penicillin G, peak serum concentrations are attained immediately after completion of the infusion.
-In a study of ten patients administered a single 5 million unit dose of penicillin G intravenously over 3 to 5 minutes, the mean serum concentrations were 400 mcg/mL, 273 mcg/mL and 3.0 mcg/mL at 5 to 6 minutes, 10 minutes and 4 hours after completion of the injection, respectively.
+In a study of ten patients administered a single 5 million unit dose of penicillin G intravenously over 3 to 5 minutes, the mean serum concentrations were 400 mcg/mL, 273 mcg/mL and 3 mcg/mL at 5 to 6 minutes, 10 minutes and 4 hours after completion of the injection, respectively.
 In a separate study, five healthy adults were administered one million units of penicillin G intravenously, either as a bolus over 4 minutes or as an infusion over 60 minutes.
 The mean serum concentration eight minutes after completion of the bolus was 45 mcg/mL and eight minutes after completion of the infusion was 14.4 mcg/mL.
 
@@ -37,7 +37,7 @@ Hemodialysis has been shown to reduce penicillin G serum levels.
 
 ## Microbiology
 
-Penicillin G is bactericidal against penicillinsusceptible microorganisms during the stage of active multiplication.
+Penicillin G is bactericidal against penicillin-susceptible microorganisms during the stage of active multiplication.
 It acts by inhibiting biosynthesis of cell-wall mucopeptide.
 It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci.
 Penicillin G is highly active in vitro against staphylococci (except penicillinase-producing strains), streptococci (groups A, B, C, G, H, L and M), pneumococci and Neisseria meningitidis.
@@ -58,16 +58,16 @@ Reports from the laboratory giving results of the standard single-disk susceptib
 
 Table 1 Zone Diameter Interpretive Standards (nearest whole mm)
 
-|  | Susceptible | Moderately Susceptible | Resistant |
+|  | Susceptible | ModeratelySusceptible | Resistant |
 | --- | --- | --- | --- |
 | Staphylococci | ≥ 29 | - | ≤ 28 |
 | N. gonorrhoeae | ≥ 20 | - | ≤ 19 |
 | L. monocytogenes | ≥ 20 | - | ≤ 19 |
 | Non-enterococcal streptococci | ≥ 28 | 20-27 | ≤ 19 |
 
-A report of "susceptible" indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of "moderately susceptible" suggests that the organism would be susceptible if high dosage is used or if the infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
-A report of "resistant" indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
+A report of susceptible indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
+A report of moderately susceptible suggests that the organism would be susceptible if high dosage is used or if the infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
+A report of resistant indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
 
 Standardized procedures require the use of laboratory control organisms.
 The 10 U penicillin G disk should give the following zone diameters:
@@ -85,10 +85,10 @@ Table 2 MIC Interpretive Standards (mcg/mL)
 |  | Susceptible | Moderately Susceptible | Resistant |
 | --- | --- | --- | --- |
 | Staphylococci | ≤ 0.12 | - | ≥ 0.25 |
-| N. gonorrhoeae | ≤ 0.12 | 0.25 - 2.0 | ≥ 4 |
+| N. gonorrhoeae | ≤ 0.12 | 0.25 - 2 | ≥ 4 |
 | L. monocytogenes | ≤ 2 | - | ≥ 4 |
-| Non-enterococcal streptococci | ≤ 0.12 | 0.25 - 2.0 | ≥ 4 |
-| Pneumococci | ≤ 0.06 | 0.12 - 1.0 | ≥ 2 |
+| Non-enterococcal streptococci | ≤ 0.12 | 0.25 - 2 | ≥ 4 |
+| Pneumococci | ≤ 0.06 | 0.12 - 1 | ≥ 2 |
 
 MIC test results should be interpreted according to the concentration of penicillin G that can be attained in blood (serum), tissue, and body fluids.
 
@@ -97,7 +97,7 @@ Standard penicillin G powder should provide the following MIC values:
 
 | Organism | MIC |
 | --- | --- |
-| S. aureus ATCC 29213 | 0.2 - 1.0 mcg/mL |
-| Enterococcus faecalis ATCC 29212 | 1.0 - 4.0 mcg/mL |
+| S. aureus ATCC 29213 | 0.2 - 1 mcg/mL |
+| Enterococcus faecalis ATCC 29212 | 1 - 4 mcg/mL |
 
 For anaerobic bacteria the MIC of penicillin G can be determined by agar or broth dilution (including microdilution) techniques3.
