@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020500"
+  ],
   "inn": "atovaquone",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0173-0547-00",
     "0173-0665-18"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "atovaquone",
+      "name": "MEPRON"
+    }
+  ],
   "setid": "b426b6bf-f07e-4580-97ae-dfca1ddf5b8f",
   "source": "dailymed"
 }

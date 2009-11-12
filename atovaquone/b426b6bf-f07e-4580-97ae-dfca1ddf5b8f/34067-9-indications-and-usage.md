@@ -19,14 +19,14 @@ There was no significant difference in mortality rates between the groups.
 
 ### Aerosolized Pentamidine Comparative Study
 
-This randomized, open-label trial enrolled a total of 549 patients at35 study centers.
+This randomized, open-label trial enrolled a total of 549 patients at 35 study centers.
 Patients were randomized to receive 1,500 mg MEPRON Suspension once daily (n = 175), 750 mg MEPRON Suspension once daily (n = 188), or 300 mg aerosolized pentamidine once monthly (n = 186).
 Median follow-up was 11.3 months.
 The results of the PCP event rates appear in Table 3.
 There were no significant differences in mortality rates among the groups.
 
 Table 3.
-Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)*
+Confirmed or Presumed/Probable PCP Events(As-Treated Analysis)*
 
 | Assessment | Study 115-211 |  | Study 115-213 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -36,11 +36,11 @@ Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)*
 
 * Those events occurring during or within 30 days of stopping assigned treatment.
 
-†Relative risk <1 favors atovaquone and values >1 favor comparator.
+† Relative risk <1 favors atovaquone and values >1 favor comparator.
 These trials were designed to show superiority of atovaquone to the comparator.
 This was not shown.
 
-‡The confidence level of the interval for the dapsone comparative study was 95% and for the pentamidine comparative study was 97.5%.
+‡ The confidence level of the interval for the dapsone comparative study was 95% and for the pentamidine comparative study was 97.5%.
 
 An analysis of all PCP events (intent-to-treat analysis) showed results similar to those above.
 
@@ -110,7 +110,7 @@ There was no difference in mortality rates between the treatment groups.
 Among the 135 patients with confirmed PCP, 10 of 70 (14%) patients randomized to MEPRON and 9 of 65 (14%) patients randomized to pentamidine died during the 21-day treatment course or 8-week follow-up period.
 In the intent-to-treat analysis for all randomized patients, there were 11 (12.5%) deaths in the arm treated with MEPRON and 12 (14%) deaths in the pentamidine arm.
 For those patients for whom day 4 plasma atovaquone concentrations are available, 3 of 5 (60%) patients with concentrations <5 mcg/mL died during participation in the study.
-However, only 2 of 21 (9%) patients with day 4 plasma concentrations≥5 mcg/mL died.
+However, only 2 of 21 (9%) patients with day 4 plasma concentrations ≥5 mcg/mL died.
 
 The therapeutic outcomes for the 134 patients who received study medication in this trial are presented in Table 5.
 

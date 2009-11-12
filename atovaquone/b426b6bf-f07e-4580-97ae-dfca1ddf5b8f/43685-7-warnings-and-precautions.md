@@ -18,6 +18,10 @@ Based upon the spectrum of in vitro antimicrobial activity, atovaquone is not ef
 Clinical deterioration in patients may be due to infections with other pathogens, as well as progressive PCP.
 All patients with acute PCP should be carefully evaluated for other possible causes of pulmonary disease and treated with additional agents as appropriate.
 
+Rare cases of hepatitis, elevated liver function tests and one case of fatal liver failure have been reported in patients treated with atovaquone.
+A causal relationship between atovaquone use and these events could not be established because of numerous confounding medical conditions and concomitant drug therapies.
+(See ADVERSE REACTIONS.)
+
 If it is necessary to treat patients with severe hepatic impairment, caution is advised and administration should be closely monitored.
 
 ## Information for Patients
@@ -31,7 +35,9 @@ Atovaquone is highly bound to plasma protein (>99.9%).
 Therefore, caution should be used when administering MEPRON concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices, as competition for binding sites may occur.
 The extent of plasma protein binding of atovaquone in human plasma is not affected by the presence of therapeutic concentrations of phenytoin (15 mcg/mL), nor is the binding of phenytoin affected by the presence of atovaquone.
 
-Rifampin:Coadministration of rifampin and MEPRON Suspension results in a significant decrease in average steady-state plasma atovaquone concentrations (see CLINICAL PHARMACOLOGY: Drug Interactions).
+### Rifampin
+
+Coadministration of rifampin and MEPRON Suspension results in a significant decrease in average steady-state plasma atovaquone concentrations (see CLINICAL PHARMACOLOGY: Drug Interactions).
 Alternatives to rifampin should be considered during the course of PCP treatment with MEPRON.
 
 Rifabutin, another rifamycin, is structurally similar to rifampin and may possibly have some of the same drug interactions as rifampin.
@@ -43,7 +49,7 @@ It is not known if MEPRON interferes with clinical laboratory test or assay resu
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies in rats were negative; 24-month studies in mice showed treatment-related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested which ranged from 1.4 to 3.6 times the average steady-state plasma concentrations in humans during acute treatment of Pneumocystis cariniipneumonia.
+Carcinogenicity studies in rats were negative; 24-month studies in mice showed treatment-related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested which ranged from 1.4 to 3.6 times the average steady-state plasma concentrations in humans during acute treatment of Pneumocystis carinii pneumonia.
 Atovaquone was negative with or without metabolic activation in the Ames Salmonella mutagenicity assay, the Mouse Lymphoma mutagenesis assay, and the Cultured Human Lymphocyte cytogenetic assay.
 No evidence of genotoxicity was observed in the in vivo Mouse Micronucleus assay.
 

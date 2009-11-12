@@ -51,10 +51,10 @@ The average steady-state plasma atovaquone concentrations in the 24 patients wit
 Table 1.
 Average Steady-State Plasma Atovaquone Concentrations in Pediatric Patients
 
-|  | Dose of MEPRON Suspension |  |  |
+| Age | Dose of MEPRON Suspension |  |  |
 | --- | --- | --- | --- |
-|  | 10 mg/kg | 30 mg/kg | 45 mg/kg |
-| Age | Average Css in mcg/mL (mean ± SD) |  |  |
+| 10 mg/kg | 30 mg/kg | 45 mg/kg |  |
+| Average Css in mcg/mL (mean ± SD) |  |  |  |
 | 1-3 months | 5.9(n = 1) | 27.8 ± 5.8(n = 4) | ______ |
 | >3-24 months | 5.7 ± 5.1(n = 4) | 9.8 ± 3.2(n = 4) | 15.4 ± 6.6(n = 4) |
 | >2-13 years | 16.8 ± 6.4(n = 4) | 37.1 ± 10.9(n = 3) | ______ |

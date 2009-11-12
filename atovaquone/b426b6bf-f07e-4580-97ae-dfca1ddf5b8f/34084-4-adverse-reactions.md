@@ -7,7 +7,8 @@ There were no life-threatening or fatal adverse experiences caused by MEPRON.
 
 In the dapsone comparative study of MEPRON Suspension, adverse experience data were collected only for treatment-limiting events.
 Among the entire population (n = 1,057), treatment-limiting events occurred at similar frequencies in patients treated with MEPRON Suspension or dapsone (Table 6).
-Among patients who were taking neither dapsone nor atovaquone at enrollment (n = 487), treatment-limiting events occurred in 43% of patients treated with dapsone and 20% of patients treated with MEPRON Suspension (P <0.001).In both populations, the type of treatment-limiting events differed between the 2 treatment arms.
+Among patients who were taking neither dapsone nor atovaquone at enrollment (n = 487), treatment-limiting events occurred in 43% of patients treated with dapsone and 20% of patients treated with MEPRON Suspension (P <0.001).
+In both populations, the type of treatment-limiting events differed between the 2 treatment arms.
 Hypersensitivity reactions (rash, fever, allergic reaction) and anemia were more common in patients treated with dapsone, while gastrointestinal events (nausea, diarrhea, and vomiting) were more common in patients treated with MEPRON Suspension.
 
 Table 6.
@@ -30,7 +31,7 @@ Table 7 summarizes the clinical adverse experiences reported by ≥20% of patien
 The incidence of adverse experiences at the recommended dose was similar to that seen with aerosolized pentamidine.
 Rash was the only individual adverse experience that occurred significantly more commonly in patients treated with both dosages of MEPRON Suspension (39% to 46%) than in patients treated with aerosolized pentamidine (28%).
 Among patients treated with MEPRON Suspension, there was no evidence of a dose-related increase in the incidence of adverse experiences.
-Treatment-limiting adverse experiences occurred less often in patients treated with aerosolized pentamidine (7%)than in patients treated with 1,500 mg MEPRON Suspension once daily (25%, P≤0.001) or 750 mg MEPRON Suspension once daily (16%, P = 0.004).
+Treatment-limiting adverse experiences occurred less often in patients treated with aerosolized pentamidine (7%) than in patients treated with 1,500 mg MEPRON Suspension once daily (25%, P ≤0.001) or 750 mg MEPRON Suspension once daily (16%, P = 0.004).
 The most common adverse experiences requiring discontinuation of dosing in the group receiving 1,500 mg MEPRON Suspension once daily were rash (6%), diarrhea (4%), and nausea (3%).
 The most common adverse experience requiring discontinuation of dosing in the group receiving aerosolized pentamidine was bronchospasm (2%).
 
@@ -119,7 +120,7 @@ LLN = lower limit of normal range.
 
 Table 10 summarizes the clinical adverse experiences reported by ≥5% of the primary therapy study population (n = 144) during the comparative trial of MEPRON and intravenous pentamidine, regardless of attribution.
 A slightly lower percentage of patients who received MEPRON reported occurrence of adverse events than did those who received pentamidine (63% vs 72%).
-However, only 7% of patients discontinued treatment with MEPRON due to adverse events, while 41% of patients who received pentamidine discontinued treatment for this reason (P<0.001).
+However, only 7% of patients discontinued treatment with MEPRON due to adverse events, while 41% of patients who received pentamidine discontinued treatment for this reason (P <0.001).
 Of the 5 patients who discontinued therapy with MEPRON, 3 reported rash (4%).
 Rash was not severe in any patient.
 No other reason for discontinuation of MEPRON was cited more than once.
@@ -182,7 +183,7 @@ ULN = upper limit of normal range.
 
 LLN = lower limit of normal range.
 
-## Observed During Clinical Practice
+## Postmarketing Experience
 
 In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of MEPRON.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
@@ -194,14 +195,24 @@ Methemoglobinemia, thrombocytopenia.
 
 ### Immune System Disorders
 
-Hypersensitivity reactions including angioedema, bronchospasm, and throat tightness.
+Hypersensitivity reactions including angioedema, bronchospasm, throat tightness, and urticaria.
 
 ### Eye Disorders
 
 Vortex keratopathy.
 
-Gastrointestinal Disorders: Pancreatitis.
+### Gastrointestinal Disorders
 
-Skin and Subcutaneous Tissue Disorders: Erythema multiforme.
+Pancreatitis.
 
-Renal and Urinary Disorders: Acute renal impairment.
+### Hepatobiliary Disorders
+
+Rare cases of hepatitis, and one case of fatal liver failure have been reported with atovaquone usage.
+
+### Skin and Subcutaneous Tissue Disorders
+
+Erythema multiforme, Stevens-Johnson syndrome, and skin desquamation have been reported in patients receiving multiple drug therapy including atovaquone.
+
+### Renal and Urinary Disorders
+
+Acute renal impairment.
