@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Although the exact mechanism of PROZAC is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin
+Although the exact mechanism of PROZAC is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin.
 
 ## 12.2 Pharmacodynamics
 
