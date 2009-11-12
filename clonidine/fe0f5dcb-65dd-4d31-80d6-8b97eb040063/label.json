@@ -1,13 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018891"
+  ],
   "inn": "clonidine",
-  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
+    "0597-0031-12",
+    "0597-0031-31",
     "0597-0031-34",
+    "0597-0032-12",
+    "0597-0032-31",
     "0597-0032-34",
     "0597-0033-34"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "clonidine",
+      "name": "Catapres"
+    }
+  ],
   "setid": "fe0f5dcb-65dd-4d31-80d6-8b97eb040063",
   "source": "dailymed"
 }

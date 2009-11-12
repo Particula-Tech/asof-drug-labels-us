@@ -40,10 +40,12 @@ Because the CATAPRES-TTS PATCH contains aluminum, it is recommended to remove th
 
 ## Information for Patients
 
-Patients should be cautioned against interruption of CATAPRES-TTS transdermal therapeutic system therapy without their physician's advice.
+Patients should be cautioned against interruption of CATAPRES-TTS transdermal therapeutic system therapy without their physician’s advice.
 
 Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of a possible sedative effect of clonidine.
 They should also be informed that this sedative effect may be increased by concomitant use of alcohol, barbiturates, or other sedating drugs.
+
+Patients who wear contact lenses should be cautioned that treatment with CATAPRES-TTS transdermal therapeutic system may cause dryness of eyes.
 
 Patients should be instructed to consult their physicians promptly about the possible need to remove the patch if they observe moderate to severe localized erythema and/or vesicle formation at the site of application or generalized skin rash.
 
@@ -53,7 +55,7 @@ If the system should begin to loosen from the skin after application, the patien
 
 Used CATAPRES-TTS PATCHES contain a substantial amount of their initial drug content which may be harmful to infants and children if accidentally applied or ingested.
 THEREFORE, PATIENTS SHOULD BE CAUTIONED TO KEEP BOTH USED AND UNUSED CATAPRES-TTS PATCHES OUT OF THE REACH OF CHILDREN.
-After use, CATAPRES-TTS should be folded in half with the adhesive sides together and discarded away from children's reach.
+After use, CATAPRES-TTS should be folded in half with the adhesive sides together and discarded away from children’s reach.
 
 Instructions for use, storage and disposal of the system are provided at the end of this monograph.
 These instructions are also included in each box of CATAPRES-TTS transdermal therapeutic system.
@@ -65,7 +67,7 @@ If a patient receiving clonidine is also taking tricyclic antidepressants, the h
 
 Due to a potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction e.g., digitalis, calcium channel blockers and beta-blockers.
 
-Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see TOXICOLOGY).
+Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see Toxicology).
 
 ## Toxicology
 
@@ -88,20 +90,20 @@ In a separate experiment, fertility of female rats appeared to be affected at do
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C
+Teratogenic Effects: Pregnancy Category C.
 
 Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of CATAPRES® (clonidine hydrochloride) produced no evidence of a teratogenic or embryotoxic potential in rabbits.
 In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment at the same or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6–15.
-Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1–14 (lowest dose employed in the study was 500 mcg/kg).
+Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1–14 (lowest dose employed in the study was 500 mcg/kg).
 
 No adequate well-controlled studies have been conducted in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
 
-As clonidine is excreted in human milk, caution should be exercised when CATAPRES-TTS® (clonidine) transdermal therapeutic system is administered to a nursing woman.
+As clonidine is excreted in human milk, caution should be exercised when Catapres-TTS® (clonidine) transdermal therapeutic system is administered to a nursing woman.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of twelve have not been established (see WARNINGS Withdrawal).
+Safety and effectiveness in pediatric patients have not been established in adequate and well-controlled trials (see WARNINGS, Withdrawal).

@@ -3,7 +3,7 @@
 ## Clinical trial experience with CATAPRES-TTS
 
 Most systemic adverse effects during Catapres-TTS® (clonidine) transdermal therapeutic system therapy have been mild and have tended to diminish with continued therapy.
-In a 3-month multiclinic trial of CATAPRES-TTS transdermal therapeutic system in 101 hypertensive patients, the systemic adverse reactions were, dry mouth (25 patients) and drowsiness (12), fatigue (6), headache (5), lethargy and sedation (3 each), insomnia, dizziness, impotence/sexual dysfunction, dry throat (2 each) and constipation, nausea, change in taste and nervousness (1 each).
+In a 3-month multi-clinic trial of CATAPRES-TTS transdermal therapeutic system in 101 hypertensive patients, the systemic adverse reactions were, dry mouth (25 patients) and drowsiness (12), fatigue (6), headache (5), lethargy and sedation (3 each), insomnia, dizziness, impotence/sexual dysfunction, dry throat (2 each) and constipation, nausea, change in taste and nervousness (1 each).
 
 In the above mentioned 3-month controlled clinical trial, as well as other uncontrolled clinical trials, the most frequent adverse reactions were dermatological and are described below.
 
@@ -19,15 +19,15 @@ In a large-scale clinical acceptability and safety study by 451 physicians in a 
 
 ## Marketing Experience with CATAPRES-TTS
 
-Other adverse effects reported since the drug has been marketed are listed below by body system.
-In this setting, an incidence or causal relationship cannot always be accurately determined.
-However, none of the events listed below occurred in a frequency greater than 0.5%.
+The following adverse reactions have been identified during post-approval use of CATAPRES-TTS transdermal therapeutic system.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to CATAPRES-TTS transdermal therapeutic system.
 
 Body as a Whole: Fever; malaise; weakness; pallor; and withdrawal syndrome.
 
-Cardiovascular: Congestive heart failure; cerebrovascular accident; electrocardiographic abnormalities (i.e., bradycardia, sick sinus syndrome disturbances and arrhythmias); chest pain; orthostatic symptoms; syncope, increases in blood pressure; sinus bradycardia and atrioventricular block with and without the use of concomitant digitalis; Raynaud's phenomenon; tachycardia; bradycardia; and palpitations.
+Cardiovascular: Congestive heart failure; cerebrovascular accident; electrocardiographic abnormalities (i.e., bradycardia, sick sinus syndrome disturbances and arrhythmias); chest pain; orthostatic symptoms; syncope; increases in blood pressure; sinus bradycardia and atrioventricular (AV) block with and without the use of concomitant digitalis; Raynaud’s phenomenon; tachycardia; bradycardia; and palpitations.
 
-Central and Peripheral Nervous System/Psychiatric: Delirium; mental depression; visual and auditory hallucinations; localized numbness; vivid dreams or nightmares; restlessness; anxiety; agitation; irritability; other behavioral changes; and drowsiness.
+Central and Peripheral Nervous System/Psychiatric: Delirium; mental depression; hallucinations (including visual and auditory); localized numbness; vivid dreams or nightmares; restlessness; anxiety; agitation; irritability; other behavioral changes; and drowsiness.
 
 Dermatological: Angioneurotic edema; localized or generalized rash; hives; urticaria; contact dermatitis; pruritus; alopecia; and localized hypo or hyper pigmentation.
 
@@ -43,30 +43,28 @@ Ophthalmological: Blurred vision; burning of the eyes and dryness of the eyes.
 
 Adverse Events Associated with Oral CATAPRES Therapy: Most adverse effects are mild and tend to diminish with continued therapy.
 The most frequent (which appear to be dose-related) are dry mouth, occurring in about 40 of 100 patients; drowsiness, about 33 in 100; dizziness, about 16 in 100; constipation and sedation, each about 10 in 100.
-The following less frequent adverse experiences have also been reported in patients receiving CATAPRES (clonidine hydrochloride USP), but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
+The following less frequent adverse experiences have also been reported in patients receiving CATAPRES (clonidine hydrochloride, USP) tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
 
-Body as a Whole: Weakness, about 10 in 100 patients; fatigue, about 4 in 100; headache and withdrawal syndrome each about 1 in 100.
-Also reported were pallor; a weakly positive Coombs' test; increased sensitivity to alcohol; and fever.
+Body as a Whole: Fatigue, fever, headache, pallor, weakness, and withdrawal syndrome.
+Also reported were a weakly positive Coombs’ test and increased sensitivity to alcohol.
 
-Cardiovascular: Orthostatic symptoms, about 3 in 100 patients; palpitations and tachycardia, and bradycardia, each about 5 in 1000.
-Syncope, Raynaud's phenomenon, congestive heart failure, and electrocardiographic abnormalities (i.e., sinus node arrest, functional bradycardia, high degree AV block and arrhythmias) have been reported rarely.
-Rare cases of sinus bradycardia and AV block have been reported, both with and without the use of concomitant digitalis.
+Cardiovascular: Bradycardia, congestive heart failure, electrocardiographic abnormalities (i.e., sinus node arrest, junctional bradycardia, high degree AV block and arrhythmias), orthostatic symptoms, palpitations, Raynaud’s phenomenon, syncope, and tachycardia.
+Cases of sinus bradycardia and AV block have been reported, both with and without the use of concomitant digitalis.
 
-Central Nervous System: Nervousness and agitation, about 3 in 100 patients, mental depression, about 1 in 100 and insomnia, about 5 in 1000.
-Other behavioral changes, vivid dreams or nightmares, restlessness, anxiety, visual and auditory hallucinations and delirium have rarely been reported.
+Central Nervous System: Agitation, anxiety, delirium, delusional perception, hallucinations (including visual and auditory), insomnia, mental depression, nervousness, other behavioral changes, paresthesia, restlessness, sleep disorder, and vivid dreams or nightmares.
 
-Dermatological: Rash, about 1 in 100 patients; pruritus, about 7 in 1000; hives, angioneurotic edema and urticaria, about 5 in 1000; alopecia, about 2 in 1000.
+Dermatological: Alopecia, angioneurotic edema, hives, pruritus, rash, and urticaria.
 
-Gastrointestinal: Nausea and vomiting, about 5 in 100 patients; anorexia and malaise, each about 1 in 100; mild transient abnormalities in liver function tests, about 1 in 100; hepatitis, parotitis, constipation, pseudo-obstruction, and abdominal pain, rarely.
+Gastrointestinal: Abdominal pain, anorexia, constipation, hepatitis, malaise, mild transient abnormalities in liver function tests, nausea, parotitis, pseudo-obstruction (including colonic pseudo-obstruction), salivary gland pain, and vomiting.
 
-Genitourinary: Decreased sexual activity, impotence and loss of libido, about 3 in 100 patients; nocturia, about 1 in 100; difficulty in micturition, about 2 in 1000; urinary retention, about 1 in 1000.
+Genitourinary: Decreased sexual activity, difficulty in micturition, erectile dysfunction, loss of libido, nocturia, and urinary retention.
 
-Hematologic: Thrombocytopenia, rarely.
+Hematologic: Thrombocytopenia.
 
-Metabolic: Weight gain, about 1 in 100 patients; gynecomastia, about 1 in 1000; transient elevation of blood glucose or serum creatine phosphokinase, rarely.
+Metabolic: Gynecomastia, transient elevation of blood glucose or serum creatine phosphokinase, and weight gain.
 
-Musculoskeletal: Muscle or joint pain, about 6 in 1000 and leg cramps, about 3 in 1000.
+Musculoskeletal: Leg cramps and muscle or joint pain.
 
-Oro-otolaryngeal: Dryness of the nasal mucosa was rarely reported.
+Oro-otolaryngeal: Dryness of the nasal mucosa.
 
-Ophthalmological: Dryness of the eyes, burning of the eyes and blurred vision were reported.
+Ophthalmological: Accommodation disorder, blurred vision, burning of the eyes, decreased lacrimation, and dryness of the eyes.

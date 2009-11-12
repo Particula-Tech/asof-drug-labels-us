@@ -6,7 +6,7 @@ Large overdoses may result in reversible cardiac conduction defects or dysrhythm
 Signs and symptoms of overdose generally occur within 30 minutes to two hours after exposure.
 As little as 0.1 mg of clonidine has produced signs of toxicity in children.
 
-If symptoms of poisoning occur following dermal exposure, remove all Catapres TTS® (clonidine) transdermal therapeutic systems.
+If symptoms of poisoning occur following dermal exposure, remove all Catapres-TTS® (clonidine) transdermal therapeutic systems.
 After their removal, the plasma clonidine levels will persist for about 8 hours, then decline slowly over a period of several days.
 Rare cases of CATAPRES-TTS poisoning due to accidental or deliberate mouthing or ingestion of the patch have been reported, many of them involving children.
 
@@ -22,4 +22,4 @@ The largest overdose reported to date, involved a 28-year old male who ingested 
 This patient developed hypertension followed by hypotension, bradycardia, apnea, hallucinations, semicoma, and premature ventricular contractions.
 The patient fully recovered after intensive treatment.
 Plasma clonidine levels were 60 ng/mL after 1 hour, 190 ng/mL after 1.5 hours, 370 ng/mL after 2 hours, and 120 ng/mL after 5.5 and 6.5 hours.
-In mice and rats, the oral LD50of clonidine is 206 and 465 mg/kg, respectively.
+In mice and rats, the oral LD50 of clonidine is 206 and 465 mg/kg, respectively.

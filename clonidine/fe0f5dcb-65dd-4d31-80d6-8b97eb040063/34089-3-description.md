@@ -9,7 +9,7 @@ CATAPRES
 ## System Structure and Components
 
 CATAPRES-TTS transdermal therapeutic system is a multi-layered film, 0.2 mm thick, containing clonidine as the active agent.
-The system areas are 3.5 cm 2 (CATAPRES-TTS-1), 7.0 cm2 (CATAPRES-TTS-2) and 10.5 cm2 (CATAPRES-TTS-3) and the amount of drug released is directly proportional to the area (see Release Rate Concept).
+The system areas are 3.5 cm2 (CATAPRES-TTS-1), 7.0 cm2 (CATAPRES-TTS-2) and 10.5 cm2 (CATAPRES-TTS-3) and the amount of drug released is directly proportional to the area (see Release Rate Concept).
 The composition per unit area is the same for all three doses.
 
 Proceeding from the visible surface towards the surface attached to the skin, there are four consecutive layers: 1) a backing layer of pigmented polyester and aluminum film; 2) a drug reservoir of clonidine, mineral oil, polyisobutylene, and colloidal silicon dioxide; 3) a microporous polypropylene membrane that controls the rate of delivery of clonidine from the system to the skin surface; 4) an adhesive formulation of clonidine, mineral oil, polyisobutylene, and colloidal silicon dioxide.
@@ -19,7 +19,7 @@ Cross Section of the System:
 
 ## Release Rate Concept
 
-CATAPRES-TTS® (clonidine) transdermal therapeutic system is programmed to release clonidine at an approximately constant rate for 7 days.
+Catapres-TTS® (clonidine) transdermal therapeutic system is programmed to release clonidine at an approximately constant rate for 7 days.
 The energy for drug release is derived from the concentration gradient existing between a saturated solution of drug in the system and the much lower concentration prevailing in the skin.
 Clonidine flows in the direction of the lower concentration at a constant rate, limited by the rate-controlling membrane, so long as a saturated solution is maintained in the drug reservoir.
 
