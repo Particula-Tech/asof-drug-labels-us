@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA077255"
+  ],
+  "inn": "lansoprazole",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-7350-56",
+    "0093-7351-56"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Lansoprazole"
+    }
+  ],
+  "setid": "427cf924-be17-47dc-8f77-115fa2f3fe17",
+  "source": "dailymed"
+}
