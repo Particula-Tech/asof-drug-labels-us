@@ -13,10 +13,10 @@ Chemically, clavulanate potassium is potassium (Z)-(2R,5R)-3-(2-hydroxyethyliden
 
 ## Inactive Ingredients
 
-Powder for Oral Suspension—Colloidal silicon dioxide, flavorings (see HOW SUPPLIED), xanthan gum, and 1 or more of the following: Aspartame•, hypromellose, mannitol, silica gel, silicon dioxide, and sodium saccharin.
-Chewable Tablets—Colloidal silicon dioxide, flavorings (see HOW SUPPLIED), magnesium stearate, mannitol, and 1 or more of the following: Aspartame•, D&C Yellow No. 10, FD&C Red No. 40, glycine, sodium saccharin and succinic acid.
+Powder for Oral Suspension—Colloidal silicon dioxide, flavorings (see HOW SUPPLIED), xanthan gum, and 1 or more of the following: Aspartamea, hypromellose, mannitol, silica gel, silicon dioxide, and sodium saccharin.
+Chewable Tablets—Colloidal silicon dioxide, flavorings (see HOW SUPPLIED), magnesium stearate, mannitol, and 1 or more of the following: Aspartamea, D&C Yellow No. 10, FD&C Red No. 40, glycine, sodium saccharin and succinic acid.
 
-•See PRECAUTIONS—Information for the Patient.
+a See PRECAUTIONS—Information for the Patient.
 
 Each 125-mg chewable tablet and each 5 mL of reconstituted 125 mg/5 mL oral suspension of AUGMENTIN contains 0.16 mEq potassium.
 Each 250-mg chewable tablet and each 5 mL of reconstituted 250 mg/5 mL oral suspension of AUGMENTIN contains 0.32 mEq potassium.

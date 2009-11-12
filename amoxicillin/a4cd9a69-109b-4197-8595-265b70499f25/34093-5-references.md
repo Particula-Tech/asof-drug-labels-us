@@ -24,6 +24,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2006, GlaxoSmithKline All rights reserved.
+©2009, GlaxoSmithKline All rights reserved.
 
-December 2006 AG:PL17
+September 2009 AUP:18PI

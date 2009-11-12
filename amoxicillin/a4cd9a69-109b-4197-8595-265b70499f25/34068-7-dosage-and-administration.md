@@ -6,9 +6,9 @@
 
 Based on the amoxicillin component, AUGMENTIN should be dosed as follows:
 
-### Neonates and infants aged <12 weeks (3 months)
+### Neonates and infants aged < 12 weeks (3 months)
 
-Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended dose of AUGMENTIN is 30 mg/kg/day divided q12h, based on the amoxicillin component.
+Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended dose of AUGMENTIN is 30 mg/kg/day divided every 12 hours, based on the amoxicillin component.
 Clavulanate elimination is unaltered in this age group.
 Experience with the 200 mg/5 mL formulation in this age group is limited and, thus, use of the 125 mg/5 mL oral suspension is recommended.
 
@@ -16,18 +16,18 @@ Experience with the 200 mg/5 mL formulation in this age group is limited and, th
 
 | INFECTIONS | DOSING REGIMEN |  |
 | --- | --- | --- |
-| q12h∗ | q8h |  |
-|  | 200 mg/5 mL or 400 mg/5 mL oral suspension† | 125 mg/5 mL or 250 mg/5 mL oral suspension |
-| Otitis media‡, sinusitis, lower respiratory tract infections, and more severe infections | 45 mg/kg/day q12h | 40 mg/kg/day q8h |
+| q12ha | q8h |  |
+|  | 200 mg/5 mL or 400 mg/5 mL oral suspensionb | 125 mg/5 mL or 250 mg/5 mL oral suspension |
+| Otitis mediac, sinusitis, lower respiratory tract infections, and more severe infections | 45 mg/kg/day q12h | 40 mg/kg/day q8h |
 | Less severe infections | 25 mg/kg/day q12h | 20 mg/kg/day q8h |
 
-∗The q12h regimen is recommended as it is associated with significantly less diarrhea.
+a The q12h regimen is recommended as it is associated with significantly less diarrhea.
 (See CLINICAL STUDIES.)
 However, the q12h formulations (200 mg and 400 mg) contain aspartame and should not be used by phenylketonurics.
 
-† Each strength of suspension of AUGMENTIN is available as a chewable tablet for use by older children.
+b Each strength of suspension of AUGMENTIN is available as a chewable tablet for use by older children.
 
-‡Duration of therapy studied and recommended for acute otitis media is 10 days.
+c Duration of therapy studied and recommended for acute otitis media is 10 days.
 
 ### Pediatric Patients Weighing 40 kg and More
 
@@ -39,7 +39,7 @@ For detailed adult dosage recommendations, please see complete prescribing infor
 Hepatically impaired patients should be dosed with caution and hepatic function monitored at regular intervals.
 (See WARNINGS.)
 
-### Adults
+## Adults
 
 Adults who have difficulty swallowing may be given the 125 mg/5 mL or 250 mg/5 mL suspension in place of the 500-mg tablet.
 The 200 mg/5 mL suspension or the 400 mg/5 mL suspension may be used in place of the 875-mg tablet.
@@ -101,5 +101,7 @@ Note: SHAKE ORAL SUSPENSION WELL BEFORE USING.
 
 Reconstituted suspension must be stored under refrigeration and discarded after 10 days.
 
-Administration: AUGMENTIN may be taken without regard to meals; however, absorption of clavulanate potassium is enhanced when AUGMENTIN is administered at the start of a meal.
+## Administration
+
+AUGMENTIN may be taken without regard to meals; however, absorption of clavulanate potassium is enhanced when AUGMENTIN is administered at the start of a meal.
 To minimize the potential for gastrointestinal intolerance, AUGMENTIN should be taken at the start of a meal.

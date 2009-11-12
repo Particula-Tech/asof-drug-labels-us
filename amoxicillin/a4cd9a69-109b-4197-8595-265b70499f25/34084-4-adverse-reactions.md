@@ -6,7 +6,7 @@ From the original premarketing studies, where both pediatric and adult patients 
 The overall incidence of side effects, and in particular diarrhea, increased with the higher recommended dose.
 Other less frequently reported reactions include: Abdominal discomfort, flatulence, and headache.
 
-In pediatric patients (aged 2 months to 12 years), 1 US/Canadian clinical trial was conducted which compared 45/6.4 mg/kg/day (divided q12h) of AUGMENTIN for 10 days versus 40/10 mg/kg/day (divided q8h) of AUGMENTIN for 10 days in the treatment of acute otitis media.
+In pediatric patients (aged 2 months to 12 years), 1 US/Canadian clinical trial was conducted which compared 45/6.4 mg/kg/day (divided every 12 hours) of AUGMENTIN for 10 days versus 40/10 mg/kg/day (divided every 8 hours) of AUGMENTIN for 10 days in the treatment of acute otitis media.
 A total of 575 patients were enrolled, and only the suspension formulations were used in this trial.
 Overall, the adverse event profile seen was comparable to that noted above; however, there were differences in the rates of diarrhea, skin rashes/urticaria, and diaper area rashes.
 (See CLINICAL STUDIES.)

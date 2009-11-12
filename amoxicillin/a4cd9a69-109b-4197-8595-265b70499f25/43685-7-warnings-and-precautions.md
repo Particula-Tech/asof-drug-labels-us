@@ -75,6 +75,10 @@ Probenecid decreases the renal tubular secretion of amoxicillin.
 Concurrent use with AUGMENTIN may result in increased and prolonged blood levels of amoxicillin.
 Coadministration of probenecid cannot be recommended.
 
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported rarely in patients receiving amoxicillin and oral anticoagulants.
+Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently.
+Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.
+
 The concurrent administration of allopurinol and ampicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving ampicillin alone.
 It is not known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients.
 There are no data with AUGMENTIN and allopurinol administered concurrently.
@@ -103,7 +107,9 @@ All were negative apart from the in vitro mouse lymphoma assay where weak activi
 
 AUGMENTIN at oral doses of up to 1,200 mg/kg/day (5.7 times the maximum human dose, 1,480 mg/m2/day, based on body surface area) was found to have no effect on fertility and reproductive performance in rats, dosed with a 2:1 ratio formulation of amoxicillin:clavulanate.
 
-### Teratogenic effects
+## Pregnancy
+
+### Teratogenic Effects
 
 Pregnancy (Category B). Reproduction studies performed in pregnant rats and mice given AUGMENTIN at oral dosages up to 1,200 mg/kg/day, equivalent to 7,200 and 4,080 mg/m2/day, respectively (4.9 and 2.8 times the maximum human oral dose based on body surface area), revealed no evidence of harm to the fetus due to AUGMENTIN.
 There are, however, no adequate and well-controlled studies in pregnant women.

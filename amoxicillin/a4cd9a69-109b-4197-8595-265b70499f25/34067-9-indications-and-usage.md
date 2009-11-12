@@ -4,13 +4,13 @@ AUGMENTIN is indicated in the treatment of infections caused by susceptible stra
 
 Lower Respiratory Tract Infections − caused by β-lactamase−producing strains of H. influenzae and M. catarrhalis.
 
-Otitis Media− caused by β-lactamase−producing strains of H. influenzae and M. catarrhalis.
+Otitis Media − caused by β-lactamase−producing strains of H. influenzae and M. catarrhalis.
 
-Sinusitis− caused by β-lactamase−producing strains of H. influenzae and M. catarrhalis.
+Sinusitis − caused by β-lactamase−producing strains of H. influenzae and M. catarrhalis.
 
-Skin and Skin Structure Infections− caused by β-lactamase−producing strains of S. aureus, E. coli, and Klebsiella spp.
+Skin and Skin Structure Infections − caused by β-lactamase−producing strains of S. aureus, E. coli, and Klebsiella spp.
 
-Urinary Tract Infections− caused by β-lactamase−producing strains of E. coli, Klebsiella spp. and Enterobacter spp.
+Urinary Tract Infections − caused by β-lactamase−producing strains of E. coli, Klebsiella spp. and Enterobacter spp.
 
 While AUGMENTIN is indicated only for the conditions listed above, infections caused by ampicillin-susceptible organisms are also amenable to treatment with AUGMENTIN due to its amoxicillin content.
 Therefore, mixed infections caused by ampicillin-susceptible organisms and β-lactamase−producing organisms susceptible to AUGMENTIN should not require the addition of another antibiotic.
