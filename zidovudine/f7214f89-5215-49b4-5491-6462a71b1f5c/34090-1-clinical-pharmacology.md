@@ -18,11 +18,12 @@ Zidovudine Pharmacokinetic Parameters in Fasting Adult Patients
 | Oral bioavailability (%) | 64 ± 10(n = 5) |
 | Apparent volume of distribution (L/kg) | 1.6 ± 0.6(n = 8) |
 | Plasma protein binding (%) | <38 |
-| CSF:plasma ratio* | 0.6 [0.04 to 2.62](n = 39) |
+| CSF:plasma ratioa | 0.6 [0.04 to 2.62](n = 39) |
 | Systemic clearance (L/hr/kg) | 1.6 ± 0.6(n = 6) |
 | Renal clearance (L/hr/kg) | 0.34 ± 0.05(n = 9) |
-| Elimination half-life (hr)† | 0.5 to 3(n = 19) |
-| *Median [range]. †Approximate range. |  |
+| Elimination half-life (hr)b | 0.5 to 3(n = 19) |
+| a Median [range]. |  |
+| b Approximate range. |  |
 
 Distribution: The apparent volume of distribution of zidovudine, following oral administration, is 1.6 ± 0.6 L/kg; and binding to plasma protein is low, <38% (Table 6).
 
@@ -42,14 +43,14 @@ Plasma concentrations of AMT were not determined.
 A dose adjustment should not be necessary for patients with creatinine clearance (CrCl) ≥15 mL/min.
 
 Table 7.
-Zidovudine Pharmacokinetic Parameters in Patients With Severe Renal Impairment*
+Zidovudine Pharmacokinetic Parameters in Patients With Severe Renal Impairmenta
 
-| Parameter | Control Subjects(Normal Renal Function) (n = 6) | Patients With Renal Impairment (n = 14) |
+| Parameter | Control Subjects(Normal Renal Function)(n = 6) | Patients With Renal Impairment(n = 14) |
 | --- | --- | --- |
 | CrCl (mL/min) | 120 ± 8 | 18 ± 2 |
 | Zidovudine AUC (ng•hr/mL) | 1,400 ± 200 | 3,100 ± 300 |
 | Zidovudine half-life (hr) | 1.0 ± 0.2 | 1.4 ± 0.1 |
-| *Data are expressed as mean ± standard deviation. |  |  |
+| a Data are expressed as mean ± standard deviation. |  |  |
 
 Hemodialysis and Peritoneal Dialysis: The pharmacokinetics and tolerance of zidovudine were evaluated in a multiple-dose study in patients undergoing hemodialysis (n = 5) or peritoneal dialysis (n = 6) receiving escalating doses up to 200 mg 5 times daily for 8 weeks.
 Daily doses of 500 mg or less were well tolerated despite significantly elevated GZDV plasma concentrations.
@@ -75,15 +76,16 @@ In neonates ≤14 days old, bioavailability was greater, total body clearance wa
 For dose recommendations for neonates [see Dosage and Administration (2.2)].
 
 Table 8.
-Zidovudine Pharmacokinetic Parameters in Pediatric Patients*
+Zidovudine Pharmacokinetic Parameters in Pediatric Patientsa
 
 | Parameter | Birth to 14 Days of Age | 14 Days to 3 Months of Age | 3 Months to 12 Years of Age |
 | --- | --- | --- | --- |
 | Oral bioavailability (%) | 89 ± 19(n = 15) | 61 ± 19(n = 17) | 65 ± 24(n = 18) |
-| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]†(n = 38) |
+| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b(n = 38) |
 | CL (L/hr/kg) | 0.65 ± 0.29(n = 18) | 1.14 ± 0.24(n = 16) | 1.85 ± 0.47(n = 20) |
 | Elimination half-life (hr) | 3.1 ± 1.2(n = 21) | 1.9 ± 0.7(n = 18) | 1.5 ± 0.7(n = 21) |
-| *Data presented as mean ± standard deviation except where noted. †Median [range]. |  |  |  |
+| a Data presented as mean ± standard deviation except where noted. |  |  |  |
+| b Median [range]. |  |  |  |
 
 Pregnancy: Zidovudine pharmacokinetics have been studied in a Phase I study of 8 women during the last trimester of pregnancy.
 Zidovudine pharmacokinetics were similar to those of nonpregnant adults.
@@ -101,22 +103,24 @@ Gender: A pharmacokinetic study in healthy male (n = 12) and female (n = 12) sub
 Drug Interactions: [See Drug Interactions (7)].
 
 Table 9.
-Effect of Coadministered Drugs on Zidovudine AUC*
+Effect of Coadministered Drugs on Zidovudine AUCa
 
 | Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered | Zidovudine |  | Zidovudine Concentrations |  | Concentration of Coadministered |
-| Drug and Dose | Dose | n | AUC | Variability | Drug |
-| Atovaquone750 mg q 12 hr with food | 200 mg q 8 hr | 14 | ↑AUC 31% | Range 23% to 78%† | ↔ |
+| Coadministered Drug and Dose | Zidovudine Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
+| AUC | Variability |  |  |  |  |
+| Atovaquone750 mg q 12 hr with food | 200 mg q 8 hr | 14 | ↑AUC 31% | Range 23% to 78%b | ↔ |
 | Fluconazole 400 mg daily | 200 mg q 8 hr | 12 | ↑AUC 74% | 95% CI: 54% to 98% | Not Reported |
 | Lamivudine300 mg q 12 hr | single 200 mg | 12 | ↑AUC 13% | 90% CI: 2% to 27% | ↔ |
-| Methadone 30 to 90 mg daily | 200 mg q 4 hr | 9 | ↑AUC 43% | Range 16% to 64%† | ↔ |
+| Methadone 30 to 90 mg daily | 200 mg q 4 hr | 9 | ↑AUC 43% | Range 16% to 64%b | ↔ |
 | Nelfinavir750 mg q 8 hr x 7 to 10 days | single 200 mg | 11 | ↓AUC 35% | Range 28% to 41% | ↔ |
-| Probenecid 500 mg q 6 hr x 2 days | 2 mg/kg q 8 hr x 3 days | 3 | ↑AUC 106% | Range 100% to 170%† | Not Assessed |
+| Probenecid 500 mg q 6 hr x 2 days | 2 mg/kg q 8 hr x 3 days | 3 | ↑AUC 106% | Range 100% to 170%b | Not Assessed |
 | Rifampin600 mg daily x 14 days | 200 mg q 8 hr x 14 days | 8 | ↓AUC 47% | 90% CI: 41% to 53% | Not Assessed |
 | Ritonavir300 mg q 6 hr x 4 days | 200 mg q 8 hr x 4 days | 9 | ↓AUC 25% | 95% CI: 15% to 34% | ↔ |
-| Valproic acid 250 mg or 500 mg q 8 hr x 4 days | 100 mg q 8 hr x 4 days | 6 | ↑AUC 80% | Range 64% to 130%† | Not Assessed |
-| ↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. *This table is not all inclusive. †Estimated range of percent difference. |  |  |  |  |  |
+| Valproic acid 250 mg or 500 mg q 8 hr x 4 days | 100 mg q 8 hr x 4 days | 6 | ↑AUC 80% | Range 64% to 130%b | Not Assessed |
+| ↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. |  |  |  |  |  |
+| a This table is not all inclusive. |  |  |  |  |  |
+| b Estimated range of percent difference. |  |  |  |  |  |
 
 Phenytoin: Phenytoin plasma levels have been reported to be low in some patients receiving RETROVIR, while in one case a high level was documented.
 However, in a pharmacokinetic interaction study in which 12 HIV-1-positive volunteers received a single 300-mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.

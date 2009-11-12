@@ -16,20 +16,21 @@ Adults: The frequency and severity of adverse reactions associated with the use 
 Table 2 summarizes events reported at a statistically significant greater incidence for patients receiving RETROVIR in a monotherapy study.
 
 Table 2.
-Percentage (%) of Patients With Adverse Reactions* in Asymptomatic HIV-1 Infection (ACTG 019)
+Percentage (%) of Patients With Adverse Reactionsa in Asymptomatic HIV-1 Infection (ACTG 019)
 
 | Adverse Reaction | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |
 | --- | --- | --- |
 | Body as a whole |  |  |
-| Asthenia | 9%† | 6% |
+| Asthenia | 9%b | 6% |
 | Headache | 63% | 53% |
 | Malaise | 53% | 45% |
 | Gastrointestinal |  |  |
 | Anorexia | 20% | 11% |
-| Constipation | 6%† | 4% |
+| Constipation | 6%b | 4% |
 | Nausea | 51% | 30% |
 | Vomiting | 17% | 10% |
-| *Reported in ≥5% of study population. †Not statistically significant versus placebo. |  |  |
+| a Reported in ≥5% of study population. |  |  |
+| b Not statistically significant versus placebo. |  |  |
 
 In addition to the adverse reactions listed in Table 2, adverse reactions observed at an incidence of ≥5% in any treatment arm in clinical studies (NUCA3001, NUCA3002, NUCB3001, and NUCB3002) were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, insomnia, musculoskeletal pain, myalgia, and neuropathy.
 Additionally, in these studies hyperbilirubinemia was reported at an incidence of ≤0.8%.
@@ -69,12 +70,12 @@ Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in P
 | Cough | 15% | 18% |
 | Abnormal breath sounds/wheezing | 7% | 9% |
 | Ear, Nose, and Throat |  |  |
-| Signs or symptoms of ears* | 7% | 6% |
+| Signs or symptoms of earsa | 7% | 6% |
 | Nasal discharge or congestion | 8% | 11% |
 | Other |  |  |
 | Skin rashes | 12% | 14% |
 | Lymphadenopathy | 9% | 11% |
-| *Includes pain, discharge, erythema, or swelling of an ear. |  |  |
+| a Includes pain, discharge, erythema, or swelling of an ear. |  |  |
 
 Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 5.
 
@@ -90,7 +91,8 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Patien
 | AST (>10 x ULN) | 2% | 4% |
 | Lipase (>2.5 x ULN) | 3% | 3% |
 | Total amylase (>2.5 x ULN) | 3% | 3% |
-| ULN = Upper limit of normal. ANC = Absolute neutrophil count. |  |  |
+| ULN = Upper limit of normal. |  |  |
+| ANC = Absolute neutrophil count. |  |  |
 
 Macrocytosis was reported in the majority of pediatric patients receiving RETROVIR 180 mg/m2 every 6 hours in open-label studies.
 Additionally, adverse reactions reported at an incidence of <6% in these studies were congestive heart failure, decreased reflexes, ECG abnormality, edema, hematuria, left ventricular dilation, nervousness/irritability, and weight loss.

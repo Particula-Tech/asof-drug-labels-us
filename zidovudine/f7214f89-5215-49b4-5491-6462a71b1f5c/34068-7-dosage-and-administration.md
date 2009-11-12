@@ -4,14 +4,14 @@
 
 Adults: The recommended oral dose of RETROVIR is 600 mg/day in divided doses in combination with other antiretroviral agents.
 
-Pediatric Patients (6 weeks to <18 years of age): Healthcare professionals should pay special attention to accurate calculation of the dose of RETROVIR, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
+Pediatric Patients (4 weeks to <18 years of age): Healthcare professionals should pay special attention to accurate calculation of the dose of RETROVIR, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 
 Prescribers should calculate the appropriate dose of RETROVIR for each child based on body weight (kg) and should not exceed the recommended adult dose.
 
 Before prescribing RETROVIR capsules or tablets, children should be assessed for the ability to swallow capsules or tablets.
 If a child is unable to reliably swallow a RETROVIR capsule or tablet, the RETROVIR syrup formulation should be prescribed.
 
-The recommended dosage in pediatric patients 6 weeks of age and older and weighing ≥4 kg is provided in Table 1.
+The recommended dosage in pediatric patients 4 weeks of age and older and weighing ≥4 kg is provided in Table 1.
 RETROVIR Syrup should be used to provide accurate dosage when whole tablets or capsules are not appropriate.
 
 Table 1: Recommended Pediatric Dosage of RETROVIR
@@ -43,10 +43,10 @@ Significant anemia (hemoglobin <7.5 g/dL or reduction >25% of baseline) and/or s
 In patients who develop significant anemia, dose interruption does not necessarily eliminate the need for transfusion.
 If marrow recovery occurs following dose interruption, resumption in dose may be appropriate using adjunctive measures such as epoetin alfa at recommended doses, depending on hematologic indices such as serum erythropoetin level and patient tolerance.
 
-## 2.4 Patients With Renal Impairment:
+## 2.4 Patients With Renal Impairment
 
 End-Stage Renal Disease: In patients maintained on hemodialysis or peritoneal dialysis, the recommended dosage is 100 mg every 6 to 8 hours [see Clinical Pharmacology (12.3)].
 
-## 2.5 Patients With Hepatic Impairment:
+## 2.5 Patients With Hepatic Impairment
 
 There are insufficient data to recommend dose adjustment of RETROVIR in patients with mild to moderate impaired hepatic function or liver cirrhosis.

@@ -36,7 +36,7 @@ Hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patien
 Patients receiving interferon alfa with or without ribavirin and zidovudine should be closely monitored for treatment-associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
 
 Discontinuation of zidovudine should be considered as medically appropriate.
-Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Childs Pugh >6) (see the complete prescribing information for interferon and ribavirin).
+Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh >6) (see the complete prescribing information for interferon and ribavirin).
 
 ## 5.5 Use With Other Zidovudine-Containing Products
 
