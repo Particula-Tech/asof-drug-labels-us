@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 No lethality was observed in acute toxicity studies in mice, rats, and dogs given single oral doses of up to 2000 mg/kg of candesartan cilexetil.
 In mice given single oral doses of the primary metabolite, candesartan, the minimum lethal dose was greater than 1000 mg/kg but less than 2000 mg/kg.
