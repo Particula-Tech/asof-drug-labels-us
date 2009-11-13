@@ -3,7 +3,7 @@
 Acute overdose of Zemplar may cause hypercalcemia, and require emergency attention.
 During dose adjustment, serum calcium and phosphorus levels should be monitored closely (e.g., twice weekly).
 If clinically significant hypercalcemia develops, the dose should be reduced or interrupted.
-Chronic administration of Zemplar may place patients at risk of hypercalcemia, elevated Ca× P product, and metastatic calcification.
+Chronic administration of Zemplar may place patients at risk of hypercalcemia, elevated Ca × P product, and metastatic calcification.
 
 Treatment of patients with clinically significant hypercalcemia consists of immediate dose reduction or interruption of Zemplar therapy and includes a low calcium diet, withdrawal of calcium supplements, patient mobilization, attention to fluid and electrolyte imbalances, assessment of electrocardiographic abnormalities (critical in patients receiving digitalis), hemodialysis or peritoneal dialysis against a calcium-free dialysate, as warranted.
 Serum calcium levels should be monitored frequently until normocalcemia ensues.
@@ -83,7 +83,7 @@ Ten of the 15 (67%) Zemplar-treated patients and 2 of the 14 (14%) placebo-treat
 Ten of the placebo patients (71%) were discontinued due to excessive elevations in iPTH levels as defined by 2 consecutive iPTH levels > 700 pg/mL and greater than baseline after 4 weeks of treatment.
 
 In the primary efficacy analysis, 9 of 15 (60%) subjects in the Zemplar group had 2 consecutive 30% decreases from baseline iPTH compared with 3 of 14 (21%) patients in the placebo group (95% CI for the difference between groups –1%, 63%).
-Twenty-three percent of Zemplar vs. 31% of placebo patients had at least one serum calcium level> 10.3 mg/dL, and 40% vs. 14% of Zemplar vs. placebo subjects had at least one Ca x P ion product > 72 (mg/dL)2.
+Twenty-three percent of Zemplar vs. 31% of placebo patients had at least one serum calcium level > 10.3 mg/dL, and 40% vs. 14% of Zemplar vs. placebo subjects had at least one Ca x P ion product > 72 (mg/dL)2.
 The overall percentage of serum calcium measurements > 10.3 mg/dL was 7% in the Zemplar group and 7% in the placebo group; the overall percentage of patients with Ca x P product > 72 (mg/dL)2 was 8% in the Zemplar group and 7% in the placebo group.
 No subjects in either the Zemplar group or placebo group developed hypercalcemia (defined as at least one calcium value > 11.2 mg/dL) during the study.
 

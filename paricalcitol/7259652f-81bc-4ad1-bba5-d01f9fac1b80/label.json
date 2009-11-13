@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020819"
+  ],
   "inn": "paricalcitol",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
-    "0074-1658-01 ",
+    "0074-1658-01",
     "0074-1658-02",
     "0074-4637-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "paricalcitol",
+      "name": "ZEMPLAR"
+    }
+  ],
   "setid": "7259652f-81bc-4ad1-bba5-d01f9fac1b80",
   "source": "dailymed"
 }
