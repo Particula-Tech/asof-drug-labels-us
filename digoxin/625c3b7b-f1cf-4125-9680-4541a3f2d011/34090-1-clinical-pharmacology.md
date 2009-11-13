@@ -88,7 +88,10 @@ Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of LAN
 | --- | --- | --- |
 | LANOXIN Tablets | 0.5 - 2 hours | 2 - 6 hours |
 | LANOXIN Injection/IV | 5 - 30 minutesb | 1 - 4 hours |
-| aDocumented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.bDepending upon rate of infusion. |  |  |
+
+aDocumented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.
+
+bDepending upon rate of infusion.
 
 ### Hemodynamic Effects
 

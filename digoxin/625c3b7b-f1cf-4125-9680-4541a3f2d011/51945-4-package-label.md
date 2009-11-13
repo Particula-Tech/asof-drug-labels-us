@@ -1,6 +1,6 @@
 Principal Display Panel
 
-NDC 0137-0242-55
+NDC 0173-0242-55
 
 LANOXIN®
 
@@ -16,9 +16,9 @@ Each scored tablet contains
 
 Rx only
 
-See prescribing information for dosing information.
+See prescribing information for dosage information.
 
-Store at 25oC (77oF)in a dry place and protect from light (see insert).
+Store at 25oC (77oF) in a dry place and protect from light (see insert).
 
 Dispense in tight, light-resistant container as defined in the USP.
 
@@ -34,7 +34,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-10000000034544
+Made in Germany
+
+10000000060556
 
 Rev.
-11/06
+9/08
