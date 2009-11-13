@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050755"
+  ],
   "inn": "amoxicillin",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0029-6094-25",
     "0029-6094-40",
     "0029-6094-46"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AUGMENTIN"
+    }
+  ],
   "setid": "8a2dc960-64b2-4017-7fa9-25b400a030fd",
   "source": "dailymed"
 }

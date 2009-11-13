@@ -8,18 +8,19 @@ IF AN ALLERGIC REACTION OCCURS, AUGMENTIN ES-600 SHOULD BE DISCONTINUED AND THE 
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including amoxicillin/clavulanate potassium, and has ranged in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AUGMENTIN ES-600, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of“antibiotic-associated colitis.”
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, appropriate therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-AUGMENTIN ES-600should be used with caution in patients with evidence of hepatic dysfunction.
-Hepatic toxicity associated with the use of amoxicillin/clavulanate potassiumis usually reversible.
+AUGMENTIN ES-600 should be used with caution in patients with evidence of hepatic dysfunction.
+Hepatic toxicity associated with the use of amoxicillin/clavulanate potassium is usually reversible.
 On rare occasions, deaths have been reported (less than 1 death reported per estimated 4 million prescriptions worldwide).
 These have generally been cases associated with serious underlying diseases or concomitant medications.
 (See CONTRAINDICATIONS and ADVERSE REACTIONS—Liver.)
@@ -28,7 +29,7 @@ These have generally been cases associated with serious underlying diseases or c
 
 ## General
 
-Whileamoxicillin/clavulanate possesses the characteristic low toxicity of the penicillin group of antibiotics, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable if therapy is for longer than the drug is approved for administration.
+While amoxicillin/clavulanate possesses the characteristic low toxicity of the penicillin group of antibiotics, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable if therapy is for longer than the drug is approved for administration.
 
 A high percentage of patients with mononucleosis who receive ampicillin develop an erythematous skin rash.
 Thus, ampicillin-class antibiotics should not be administered to patients with mononucleosis.
@@ -40,14 +41,18 @@ Prescribing AUGMENTIN ES-600 in the absence of a proven or strongly suspected ba
 
 ## Information for the Patient
 
-AUGMENTIN ES-600should be taken every 12 hours with a meal or snack to reduce the possibility of gastrointestinal upset.
+AUGMENTIN ES-600 should be taken every 12 hours with a meal or snack to reduce the possibility of gastrointestinal upset.
 If diarrhea develops and is severe or lasts more than 2 or 3 days, call your doctor.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 Keep suspension refrigerated.
 Shake well before using.
 When dosing a child with the suspension (liquid) of AUGMENTIN ES-600, use a dosing spoon or medicine dropper.
 Be sure to rinse the spoon or dropper after each use.
-Bottles ofsuspension of AUGMENTIN ES-600 may contain more liquid than required.
+Bottles of suspension of AUGMENTIN ES-600 may contain more liquid than required.
 Follow your doctor’s instructions about the amount to use and the days of treatment your child requires.
 Discard any unused medicine.
 
@@ -66,9 +71,13 @@ Probenecid decreases the renal tubular secretion of amoxicillin.
 Concurrent use with AUGMENTIN ES-600 may result in increased and prolonged blood levels of amoxicillin.
 Co-administration of probenecid cannot be recommended.
 
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported rarely in patients receiving amoxicillin and oral anticoagulants.
+Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently.
+Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.
+
 The concurrent administration of allopurinol and ampicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving ampicillin alone.
 It is not known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients.
-There are no data with AUGMENTIN ES-600and allopurinol administered concurrently.
+There are no data with AUGMENTIN ES-600 and allopurinol administered concurrently.
 
 In common with other broad-spectrum antibiotics, amoxicillin/clavulanate may reduce the efficacy of oral contraceptives.
 
@@ -88,7 +97,9 @@ The mutagenic potential of AUGMENTIN was investigated in vitro with an Ames test
 All were negative apart from the in vitro mouse lymphoma assay where weak activity was found at very high, cytotoxic concentrations.
 AUGMENTIN at oral doses of up to 1,200 mg/kg/day (5.7 times the maximum adult human dose based on body surface area) was found to have no effect on fertility and reproductive performance in rats, dosed with a 2:1 ratio formulation of amoxicillin:clavulanate.
 
-## Teratogenic Effects
+## Pregnancy
+
+### Teratogenic Effects
 
 Pregnancy (Category B). Reproduction studies performed in pregnant rats and mice given AUGMENTIN at oral dosages up to 1,200 mg/kg/day (4.9 and 2.8 times the maximum adult human oral dose based on body surface area, respectively), revealed no evidence of harm to the fetus due to AUGMENTIN.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -107,8 +118,8 @@ Ampicillin-class antibiotics are excreted in human milk; therefore, caution shou
 
 ## Pediatric Use
 
-Safety and efficacy of AUGMENTIN ES-600in infants younger than 3 months have not been established.
-Safety and efficacy of AUGMENTIN ES-600have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years (see Description of Clinical Studies).
+Safety and efficacy of AUGMENTIN ES-600 in infants younger than 3 months have not been established.
+Safety and efficacy of AUGMENTIN ES-600 have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years (see Description of Clinical Studies).
 
 The safety and effectiveness of AUGMENTIN ES–600 have been established for the treatment of pediatric patients (3 months to 12 years) with acute bacterial sinusitis.
 This use is supported by evidence from adequate and well-controlled studies of AUGMENTIN XR™ Extended Release Tablets in adults with acute bacterial sinusitis, studies of AUGMENTIN ES-600 in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking AUGMENTIN ES-600 (see CLINICAL PHARMACOLOGY) and adults taking AUGMENTIN XR.

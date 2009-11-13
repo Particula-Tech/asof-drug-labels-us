@@ -1,20 +1,20 @@
 # CLINICAL PHARMACOLOGY
 
-The pharmacokinetics of amoxicillin and clavulanate were determined in a study of 19 pediatric patients, 8 months to 11 years, given AUGMENTIN ES-600 at an amoxicillin dose of 45 mg/kg q12h with a snack or meal.
-The mean plasma amoxicillin and clavulanate pharmacokinetic parameter values are listed in the following table.
+The pharmacokinetics of amoxicillin and clavulanate were determined in a study of 19 pediatric patients, 8 months to 11 years, given AUGMENTIN ES-600 at an amoxicillin dose of 45 mg/kg every 12 hours with a snack or meal.
+The mean plasma amoxicillin and clavulanate pharmacokinetic parameter values are listed in Table 1.
 
 Table 1.
 Mean (±SD) Plasma Amoxicillin and Clavulanate Pharmacokinetic Parameter Values Following Administration of 45 mg/kg of AUGMENTIN ES-600 Every 12 Hours to Pediatric Patients
 
-| Parameter* | Amoxicillin | Clavulanate |
+| Parametera | Amoxicillin | Clavulanate |
 | --- | --- | --- |
 | Cmax (mcg/mL) | 15.7 ± 7.7 | 1.7 ± 0.9 |
-| Tmax (hr) | 2.0 (1.0 − 4.0) | 1.1 (1.0 − 4.0) |
+| Tmax (hr) | 2.0 (1.0 – 4.0) | 1.1 (1.0 – 4.0) |
 | AUC0-t (mcg•hr/mL) | 59.8 ± 20.0 | 4.0 ± 1.9 |
 | T½ (hr) | 1.4 ± 0.3 | 1.1 ± 0.3 |
 | CL/F (L/hr/kg) | 0.9 ± 0.4 | 1.1 ± 1.1 |
 
-*Arithmetic mean ± standard deviation, except Tmax values which are medians (ranges).
+a Arithmetic mean ± standard deviation, except Tmax values which are medians (ranges).
 
 The effect of food on the oral absorption of AUGMENTIN ES-600 has not been studied.
 
@@ -24,16 +24,16 @@ Concurrent administration of probenecid delays amoxicillin excretion but does no
 
 Neither component in AUGMENTIN ES-600 is highly protein-bound; clavulanic acid has been found to be approximately 25% bound to human serum and amoxicillin approximately 18% bound.
 
-Oral administration of a single dose of AUGMENTIN ES-600 at 45 mg/kg (based on the amoxicillin component) to pediatric patients, 9 months to 8 years, yielded the following pharmacokinetic data for amoxicillin in plasma and middle ear fluid (MEF):
+Oral administration of a single dose of AUGMENTIN ES-600 at 45 mg/kg (based on the amoxicillin component) to pediatric patients, 9 months to 8 years, yielded the following pharmacokinetic data for amoxicillin in plasma and middle ear fluid (MEF) (Table 2).
 
 Table 2.
 Amoxicillin Concentrations in Plasma and Middle Ear Fluid Following Administration of 45 mg/kg of AUGMENTIN ES-600 to Pediatric Patients
 
 | Timepoint |  | Amoxicillin concentrationin plasma (mcg/mL) | Amoxicillin concentrationin MEF (mcg/mL) |
 | --- | --- | --- | --- |
-| 1 hour | MeanMedianrange | 7.79.31.5− 14.0(n = 5) | 3.23.50.2− 5.5(n = 4) |
-| 2 hour | MeanMedianrange | 15.713.011.0− 25.0(n = 7) | 3.32.41.9− 6(n = 5) |
-| 3 hour | MeanMedianrange | 13.012.05.5− 21.0(n = 5) | 5.86.53.9− 7.4(n = 5) |
+| 1 hour | MeanMedianrange | 7.79.31.5 – 14.0(n = 5) | 3.23.50.2 – 5.5(n = 4) |
+| 2 hour | mean median range | 15.713.011.0 – 25.0(n = 7) | 3.32.41.9 – 6(n = 5) |
+| 3 hour | mean median range | 13.012.05.5 – 21.0(n = 5) | 5.86.53.9 – 7.4(n = 5) |
 
 Dose administered immediately prior to eating.
 
@@ -45,7 +45,7 @@ The results of experiments involving the administration of clavulanic acid to an
 Amoxicillin is a semisynthetic antibiotic with a broad spectrum of bactericidal activity against many gram-positive and gram-negative microorganisms.
 Amoxicillin is, however, susceptible to degradation by β-lactamases, and therefore, its spectrum of activity does not include organisms which produce these enzymes.
 Clavulanic acid is a β-lactam, structurally related to penicillin, which possesses the ability to inactivate a wide range of β-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins.
-In particular, it has good activity against the clinically important plasmid-mediatedβ-lactamases frequently found responsible for transferred drug resistance.
+In particular, it has good activity against the clinically important plasmid-mediated β-lactamases frequently found responsible for transferred drug resistance.
 
 The clavulanic acid component of AUGMENTIN ES-600 protects amoxicillin from degradation by β-lactamase enzymes and effectively extends the antibiotic spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin and other β-lactam antibiotics.
 Thus, AUGMENTIN ES-600 possesses the distinctive properties of a broad-spectrum antibiotic and a β-lactamase inhibitor.
@@ -54,7 +54,7 @@ Amoxicillin/clavulanic acid has been shown to be active against most isolates of
 
 ### Aerobic Gram-Positive Microorganisms
 
-Streptococcus pneumoniae (including isolates with penicillin MICs ≤2mcg/mL)
+Streptococcus pneumoniae (including isolates with penicillin MICs ≤ 2 mcg/mL)
 
 ### Aerobic Gram-Negative Microorganisms
 
@@ -64,7 +64,8 @@ Moraxella catarrhalis (including β-lactamase−producing isolates)
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-At least 90% of the following microorganisms exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the susceptible breakpoint for amoxicillin/clavulanic acid.However, the safety and efficacyof amoxicillin/clavulanic acid in treating infections due to these microorganisms have not been established in adequate and well-controlled trials.
+At least 90% of the following microorganisms exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the susceptible breakpoint for amoxicillin/clavulanic acid.
+However, the safety and efficacy of amoxicillin/clavulanic acid in treating infections due to these microorganisms have not been established in adequate and well-controlled trials.
 
 ### Aerobic Gram-Positive Microorganisms
 
@@ -74,7 +75,7 @@ NOTE: Staphylococci which are resistant to methicillin/oxacillin must be conside
 
 Streptococcus pyogenes
 
-NOTE:S. pyogenes do not produce β-lactamase, and therefore, are susceptible to amoxicillin alone.
+NOTE: S. pyogenes do not produce β-lactamase, and therefore, are susceptible to amoxicillin alone.
 Adequate and well-controlled clinical trials have established the effectiveness of amoxicillin alone in treating certain clinical infections due to S. pyogenes.
 
 ## Susceptibility Test Methods
@@ -86,7 +87,7 @@ These reports should aid the physician in selecting the most effective antimicro
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.1,2 Standardized procedures are based on dilutionmethods (broth for S. pneumoniae and H. influenzae) or equivalent with standardized inoculum concentration and standardized concentrations of amoxicillin/clavulanate potassium powder.
+The MICs should be determined using a standardized procedure.1,2 Standardized procedures are based on dilution methods (broth for S. pneumoniae and H. influenzae) or equivalent with standardized inoculum concentration and standardized concentrations of amoxicillin/clavulanate potassium powder.
 
 The recommended dilution pattern utilizes a constant amoxicillin/clavulanate potassium ratio of 2 to 1 in all tubes with varying amounts of amoxicillin.
 MICs are expressed in terms of the amoxicillin concentration in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
@@ -104,14 +105,14 @@ Susceptibility Test Result Interpretive Criteria for Amoxicillin/Clavulanate Pot
 | Pathogen | Minimum Inhibitory Concentration(mcg/mL) |  |  | Disk Diffusion(Zone Diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | S | I | R | S | I | R |  |
-| Streptococcus pneumoniae | ≤2/1 | 4/2 | ≥8/4 | Not applicable (NA) |  |  |
-| Haemophilus influenzae | ≤4/2 | NA | ≥8/4 | ≥20 | NA | ≤19 |
+| Streptococcus pneumoniae | ≤ 2/1 | 4/2 | ≥ 8/4 | Not applicable (NA) |  |  |
+| Haemophilus influenzae | ≤ 4/2 | NA | ≥ 8/4 | ≥ 20 | NA | ≤ 19 |
 
 NOTE: Susceptibility of S. pneumoniae should be determined using a 1-mcg oxacillin disk.
-Isolates with oxacillin zone sizes of ≥20 mm are susceptible to amoxicillin/clavulanic acid.
-An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤19 mm.
+Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin/clavulanic acid.
+An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤ 19 mm.
 
-NOTE:β-lactamase−negative, ampicillin-resistant H. influenzae isolates must be considered resistant to amoxicillin/clavulanic acid.
+NOTE: β-lactamase−negative, ampicillin-resistant H. influenzae isolates must be considered resistant to amoxicillin/clavulanic acid.
 
 A report of S (“Susceptible”) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentration usually achievable.
 A report of I (“Intermediate”) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible antimicrobials, the test should be repeated.
@@ -127,10 +128,10 @@ Acceptable Quality Control Ranges for Amoxicillin/Clavulanate Potassium
 
 | Quality Control Organism | Minimum Inhibitory Concentration Range(mcg/mL) | Disk Diffusion(Zone Diameter Range in mm) |
 | --- | --- | --- |
-| Escherichia coliATCC®* 35218†(H. influenzae quality control) | 4/2 to 16/8 | 17 to 22 |
+| Escherichia coli ATCC®a 35218b (H. influenzae quality control) | 4/2 to 16/8 | 17 to 22 |
 | Haemophilus influenzae ATCC 49247 | 2/1 to 16/8 | 15 to 23 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03/0.016 to 0.12/0.06 | NA |
 
-*ATCC is a trademark of the American Type Culture Collection.
+a ATCC is a trademark of the American Type Culture Collection.
 
-†When using Haemophilus Test Medium (HTM).
+b When using Haemophilus Test Medium (HTM).

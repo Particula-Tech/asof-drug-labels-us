@@ -4,7 +4,7 @@
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically − Sixth Edition; Approved Standard, NCCLS Document M7-A6, Vol. 23, No. 2, NCCLS, Wayne, PA, January 2003.
 2. National Committee for Clinical Laboratory Standards for Antimicrobial Susceptibility Testing: Fourteenth Informational Supplement; Approved Standard, NCCLS Document 100-S14, Vol. 24, No. 1, NCCLS, Wayne, PA, January 2004.
 3. National Committee for Clinical Laboratory Standards.
-   Performance Standards for Antimicrobial Disk Susceptibility Tests− Eighth Edition; Approved Standard, NCCLS Document M2-A8, Vol. 23, No. 1, NCCLS, Wayne, PA, January 2003.
+   Performance Standards for Antimicrobial Disk Susceptibility Tests − Eighth Edition; Approved Standard, NCCLS Document M2-A8, Vol. 23, No. 1, NCCLS, Wayne, PA, January 2003.
 4. Swanson-Biearman B, Dean BS, Lopez G, Krenzelok EP.
    The effects of penicillin and cephalosporin ingestions in children less than six years of age.
    Vet Hum Toxicol.
@@ -24,5 +24,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2005, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
+
+September 2009 AUE:14PI
