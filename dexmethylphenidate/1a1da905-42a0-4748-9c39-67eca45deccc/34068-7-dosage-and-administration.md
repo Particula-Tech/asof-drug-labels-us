@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Focalin XR is for oral administration once daily in the morning.
 
@@ -9,21 +9,24 @@ The capsules may be carefully opened and the beads sprinkled over a spoonful of 
 The mixture of drug and applesauce should be consumed immediately in its entirety.
 The drug and applesauce mixture should not be stored for future use.
 
-Dosage should be individualized according to the needs and responses of the patients.
+Dosage should be individualized according to the needs and responses of the patient.
 
 ## 2.1 Patients New to Methylphenidate
 
 The recommended starting dose of Focalin XR for patients who are not currently taking dexmethylphenidate or racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg/day for pediatric patients and 10 mg/day for adult patients.
 
-Dosage may be adjusted in 5 mg increments to a maximum of 20 mg/day for pediatric patients and in 10 mg increments to a maximum of 20 mg/day for adult patients.
+Dosage may be adjusted in 5 mg increments for pediatric patients and in 10 mg increments for adult patients.
 In general, dosage adjustments may proceed at approximately weekly intervals.
 The patient should be observed for a sufficient duration at a given dose to ensure that a maximal benefit has been achieved before a dose increase is considered.
+In dose-response (fixed-dose) studies (pediatric from 10 to 30 mg/day and adult from 20 to 40 mg/day), all doses were effective vs. placebo.
+There was no clear finding, however, of greater average benefits for the higher doses compared to the lower doses.
+Adverse events and discontinuations, however, were dose-related.
+Doses above 30 mg/day in pediatrics and 40 mg/day in adults have not been studied and are not recommended.
 
 ## 2.2 Patients Currently Using Methylphenidate
 
 For patients currently using methylphenidate, the recommended starting dose of Focalin XR is half the total daily dose of racemic methylphenidate.
 Patients currently using Focalin (dexmethylphenidate) may be switched to the same daily dose of Focalin XR.
-The maximum recommended dose is 20 mg/day for pediatric and adult patients.
 
 ## 2.3 Maintenance/Extended Treatment
 

@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -92,4 +92,4 @@ Very little unchanged drug is excreted in the urine, thus renal insufficiency is
 
 Hepatic Insufficiency
 
-There is no experience with the use of Focalin XR in patients with hepatic insufficiency (see Drug Interactions (7)].
+There is no experience with the use of Focalin XR in patients with hepatic insufficiency (see Drug Interactions (7).

@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Focalin XR was administered to 46 children and 7 adolescents with ADHD for up to 7 weeks and 206 adults with ADHD in clinical studies.
 During the clinical studies, 101 adult patients were treated for at least 6 months.
@@ -23,8 +23,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
-Table 1.
-Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Pediatric Patients
+Table 1.Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Pediatric Patients
 
 |  | Focalin XR N=53 | Placebo N=47 |
 | --- | --- | --- |
@@ -43,6 +42,25 @@ Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Ped
 1Events, regardless of causality, for which the incidence for patients treated with Focalin XR was at least 5% and twice the incidence among placebo-treated patients.
 Incidence has been rounded to the nearest whole number.
 
+Table 2 below enumerates the incidence of dose-related adverse events that occurred during a fixed-dose, double-blind, placebo controlled trial of Focalin XR up to 30mg/day versus placebo in children and adolescents with ADHD.
+
+Table 2: Dose-related Adverse Events from a Fixed-dose Study of Double-Blind Treatment in Pediatric Patients By Organ-System and Preferred Term
+
+| ADVERSE EVENT | Focalin XR 10 mg/d N=64 | Focalin XR 20 mg/d N=60 | Focalin XR 30 mg/d N=58 | Placebo N=63 |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders | 22% | 23% | 29% | 24% |
+| Vomiting | 2% | 8% | 9% | 0 |
+| Metabolism and nutritional disorders | 16% | 17% | 22% | 5% |
+| Anorexia | 5% | 5% | 7% | 0 |
+| Psychiatric Disorders | 19% | 20% | 38% | 8% |
+| Insomnia | 5% | 8% | 17% | 3% |
+| Depression | 0 | 0 | 3% | 0 |
+| Mood swings | 0 | 0 | 3% | 2% |
+| Other Adverse events |  |  |  |  |
+| Irritability | 0 | 2% | 5% | 0 |
+| Nasal Congestion | 0 | 0 | 5% | 0 |
+| Pruritus | 0 | 0 | 3% | 0 |
+
 ## 6.3 Adverse Events Associated with Discontinuation of Treatment in Clinical Studies with Focalin XR - Adults
 
 In the adult placebo-controlled study, 10.7% of the Focalin XR-treated patients and 7.5% of the placebo-treated patients discontinued for adverse events.
@@ -50,13 +68,13 @@ Among Focalin XR-treated patients, insomnia (1.8%, n=3), feeling jittery (1.8%, 
 
 ## 6.4 Adverse Events Occurring at an Incidence of 5% or More Among Focalin XR-Treated Patients-Adults
 
-Table 2 enumerates treatment-emergent adverse events for the placebo-controlled, parallel-group study in adults with ADHD at fixed Focalin XR doses of 20, 30, and 40 mg/day.
+Table 3 enumerates treatment-emergent adverse events for the placebo-controlled, parallel-group study in adults with ADHD at fixed Focalin XR doses of 20, 30, and 40 mg/day.
 The table includes only those events that occurred in 5% or more of patients in a Focalin XR dose group and for which the incidences in patients treated with Focalin XR appeared to increase with dose.
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
-Table 2.
+Table 3.
 Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment–Adults
 
 |  | Focalin XR 20 mg N=57 | Focalin XR 30 mg N=54 | Focalin XR 40 mg N=54 | Placebo N=53 |
@@ -79,9 +97,9 @@ Incidence has been rounded to the nearest whole number.
 
 Two other adverse reactions occurring in clinical trials with Focalin XR at a frequency greater than placebo, but which were not dose related were: Feeling jittery (12% and 2%, respectively) and Dizziness (6% and 2%, respectively).
 
-Table 3 summarizes changes in vital signs and weight that were recorded in the adult study (N=218) of Focalin XR in the treatment of ADHD.
+Table 4 summarizes changes in vital signs and weight that were recorded in the adult study (N=218) of Focalin XR in the treatment of ADHD.
 
-Table 3.
+Table 4.
 Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose during Double-Blind Treatment – Adults
 
 |  | Focalin XR 20 mg (N=57) | Focalin XR 30 mg (N=54) | Focalin XR 40 mg (N=54) | Placebo (N=53) |

@@ -1,4 +1,4 @@
-# 15. REFERENCES
+# 15 REFERENCES
 
 American Psychiatric Association.
 Diagnosis and Statistical Manual of Mental Disorders.
