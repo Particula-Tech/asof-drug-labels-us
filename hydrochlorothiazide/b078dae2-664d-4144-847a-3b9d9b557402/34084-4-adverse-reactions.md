@@ -69,10 +69,6 @@ Special Senses: abnormal vision, conjunctivitis, tinnitus, earache
 
 A single case of angioedema was reported (among a total of 3781 patients treated with telmisartan).
 
-## Cardiovascular Risk Reduction Trials
-
-In clinical studies with patients at high risk of developing major cardiovascular events, cases of sepsis, including some with fatal outcomes, have been reported.
-
 ## Hydrochlorothiazide
 
 Other adverse experiences that have been reported with hydrochlorothiazide, without regard to causality, are listed below:

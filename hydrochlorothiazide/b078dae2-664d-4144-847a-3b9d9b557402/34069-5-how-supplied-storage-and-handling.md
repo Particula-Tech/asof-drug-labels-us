@@ -28,6 +28,6 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 MICARDIS HCT tablets are covered by U.S. Patent 5,591,762
 
-Rev: September 2009
+Rev: November 2009
 
-IT13006FI0109 10004142/05
+IT13006GK0309 10004142/06

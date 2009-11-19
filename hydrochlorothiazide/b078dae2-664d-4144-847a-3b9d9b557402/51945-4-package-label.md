@@ -1,46 +1,46 @@
-Micardis
+Micardis HCT
 
-80mg/25mg
+80 mg/25 mg
 
 30 Tablets
 
 NDC 0597-0042-37
 
-Micardis
+Micardis HCT
 
-80mg/25mg
+80 mg/25 mg
 
 7 Tablets
 
 NDC 0597-0042-70
 
-Micardis
+Micardis HCT
 
-40mg/12.5mg
+40 mg/12.5 mg
 
 30 Tablets
 
 NDC 0597-0043-37
 
-Micardis
+Micardis HCT
 
-40mg/12.5mg
+40 mg/12.5 mg
 
 7 Tablets
 
 NDC 0597-0043-70
 
-Micardis
+Micardis HCT
 
-80mg/12.5mg
+80 mg/12.5 mg
 
 30 Tablets
 
 NDC 0597-0044-37
 
-Micardis
+Micardis HCT
 
-80mg/12.5mg
+80 mg/12.5 mg
 
 7 Tablets
 
