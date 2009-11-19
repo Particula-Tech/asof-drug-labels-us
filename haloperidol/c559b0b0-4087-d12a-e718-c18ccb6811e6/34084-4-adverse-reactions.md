@@ -19,9 +19,9 @@ While all can occur at relatively low doses, they occur more frequently and with
 The symptoms may be controlled with dose reductions or administration of antiparkinson drugs such as benztropine mesylate, USP or trihexyphenidyl hydrochloride, USP.
 It should be noted that persistent EPS have been reported; the drug may have to be discontinued in such cases.
 
-### Dystonia
+#### Dystonia
 
-#### Class Effect
+##### Class Effect
 
 Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
@@ -32,7 +32,7 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 
 Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs.
 However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal.
-In certain of these cases the dyskinetic movements are indistinguishable from the syndrome described below under "Tardive Dyskinesia" except for duration.
+In certain of these cases the dyskinetic movements are indistinguishable from the syndrome described below under “Tardive Dyskinesia” except for duration.
 It is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs but until further evidence becomes available, it seems reasonable to gradually withdraw use of haloperidol.
 
 ### Tardive Dyskinesia
@@ -59,44 +59,26 @@ Tardive dystonia is characterized by delayed onset of choreic or dystonic moveme
 
 Insomnia, restlessness, anxiety, euphoria, agitation, drowsiness, depression, lethargy, headache, confusion, vertigo, grand mal seizures, exacerbation of psychotic symptoms including hallucinations and catatonic-like behavioral states which may be responsive to drug withdrawal and/or treatment with anticholinergic drugs.
 
-## Body as a Whole
-
-Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been reported with haloperidol.
+Body as a Whole: Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been reported with haloperidol.
 (See WARNINGS for further information concerning NMS.)
 
-## Hematologic Effects
-
-Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
+Hematologic Effects: Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
 Agranulocytosis has rarely been reported to have occurred with the use of haloperidol, and then only in association with other medication.
 
-## Liver Effects
+Liver Effects: Impaired liver function and/or jaundice have been reported.
 
-Impaired liver function and/or jaundice have been reported.
+Dermatologic Reactions: Maculopapular and acneiform skin reactions and isolated cases of photosensitivity and loss of hair.
 
-## Dermatologic Reactions
+Endocrine Disorders: Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia and hyponatremia.
 
-Maculopapular and acneiform skin reactions and isolated cases of photosensitivity and loss of hair.
+Gastrointestinal Effects: Anorexia, constipation, diarrhea, hypersalivation, dyspepsia, nausea and vomiting.
 
-## Endocrine Disorders
+Autonomic Reactions: Dry mouth, blurred vision, urinary retention, diaphoresis and priapism.
 
-Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia and hyponatremia.
+Respiratory Effects: Laryngospasm, bronchospasm and increased depth of respiration.
 
-## Gastrointestinal Effects
+Special Senses: Cataracts, retinopathy and visual disturbances.
 
-Anorexia, constipation, diarrhea, hypersalivation, dyspepsia, nausea and vomiting.
+### Post-marketing Events
 
-## Autonomic Reactions
-
-Dry mouth, blurred vision, urinary retention, diaphoresis and priapism.
-
-## Respiratory Effects
-
-Laryngospasm, bronchospasm and increased depth of respiration.
-
-## Special Senses
-
-Cataracts, retinopathy and visual disturbances.
-
-## Post-marketing Events
-
-Hyperammonemia has been reported in a 5½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.
+Hyperammonemia has been reported in a 51⁄2 year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.

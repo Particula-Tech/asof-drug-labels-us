@@ -6,7 +6,7 @@ In general, the symptoms of overdosage would be an exaggeration of known pharmac
 The patient would appear comatose with respiratory depression and hypotension which could be severe enough to produce a shock-like state.
 The extrapyramidal reaction would be manifest by muscular weakness or rigidity and a generalized or localized tremor as demonstrated by the akinetic or agitans types respectively.
 With accidental overdosage, hypertension rather than hypotension occurred in a 2 year old child.
-The risk of ECG changes associated with Torsade de pointes should be considered.
+The risk of ECG changes associated with Torsades de pointes should be considered.
 (For further information regarding Torsades de pointes, please refer to ADVERSE REACTIONS.)
 
 ## Treatment
@@ -17,6 +17,6 @@ A patent airway must be established by use of an oropharyngeal airway or endotra
 Respiratory depression may be counteracted by artificial respiration and mechanical respirators.
 Hypotension and circulatory collapse may be counteracted by use of intravenous fluids, plasma, or concentrated albumin, and vasopressor agents such as metaraminol, phenylephrine and norepinephrine.
 Epinephrine should not be used.
-In case of severe extrapyramidal reactions, antiparkinson medication should be administered.
+In case of seere extrapyramidal reactions, antiarkinson medication should be administered.
 ECG and vital signs should be monitored especially for signs of Q-T prolongation or dysrhythmias and monitoring should continue until the ECG is normal.
 Severe arrhythmias should be treated with appropriate anti-arrhythmic measures.

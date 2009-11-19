@@ -1,6 +1,8 @@
 # WARNINGS
 
-Increased Mortality in Elderly Patients with Dementia-Related Psychosis: Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Haloperidol is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
 ## Cardiovascular Effects
@@ -83,13 +85,16 @@ The use of alcohol with this drug should be avoided due to possible additive eff
 
 Haloperidol should be administered cautiously to patients:
 
-- with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
-  Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur.
-  Instead, metaraminol, phenylephrine or norepinephrine should be used.
-- receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
-  If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
-- with known allergies, or with a history of allergic reactions to drugs.
-- receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
+-with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
+Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur.
+Instead, metaraminol, phenylephrine or norepinephrine should be used.
+
+-receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
+If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
+
+-with known allergies, or with a history of allergic reactions to drugs.
+
+-receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates.
 If both are discontinued simultaneously, extrapyramidal symptoms may occur.

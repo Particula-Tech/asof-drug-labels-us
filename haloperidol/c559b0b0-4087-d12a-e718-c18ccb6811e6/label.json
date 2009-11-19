@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070278"
+  ],
   "inn": "haloperidol",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -9,10 +11,20 @@
     "0378-0257-10",
     "0378-0327-01",
     "0378-0327-10",
+    "0378-0334-01",
+    "0378-0334-10",
+    "0378-0335-01",
+    "0378-0335-10",
     "0378-0351-01",
     "0378-0351-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "haloperidol",
+      "name": "Haloperidol"
+    }
+  ],
   "setid": "c559b0b0-4087-d12a-e718-c18ccb6811e6",
   "source": "dailymed"
 }
