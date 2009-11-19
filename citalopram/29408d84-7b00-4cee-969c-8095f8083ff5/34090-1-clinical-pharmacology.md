@@ -2,17 +2,17 @@
 
 ## Pharmacodynamics
 
-The mechanism of action of citalopram hydrobromide as an antidepressant is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
+The mechanism of action of citalopram hydrobromide as an antidepressant is presumed to be linked to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
 In vitro and in vivo studies in animals suggest that citalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine (NE) and dopamine (DA) neuronal reuptake.
-Tolerance to the inhibition of 5-HT uptake is not induced by long term (14 day) treatment of rats with citalopram.
+Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14-day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50), and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
 
-Citalopram has no or very low affinity for 5-HT1A, 5-HT2A, dopamine D1 and D2, α1-, α 2-, and β-adrenergic, histamine H1, gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
-Antagonism of muscarinic, histaminergic and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative and cardiovascular effects of other psychotropic drugs.
+Citalopram has no or very low affinity for 5-HT1A, 5-HT2A, dopamine D1 and D2, α1-, α2-, and β-adrenergic, histamine H1, gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
+Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of other psychotropic drugs.
 
 ## Pharmacokinetics
 
-The single- and multiple-dose pharmacokinetics of citalopram are linear and dose proportional in a dose range of 10 to 60 mg/day.
+The single- and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10 to 60 mg/day.
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
 With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
@@ -20,7 +20,7 @@ At steady state, the extent of accumulation of citalopram in plasma, based on th
 ### Absorption and Distribution
 
 Following a single oral dose (40 mg tablet) of citalopram, peak blood levels occur at about 4 hours.
-The absolute bioavailability of citalopram was about 80% relative to an intravenous dose and absorption is not affected by food.
+The absolute bioavailability of citalopram was about 80% relative to an intravenous dose, and absorption is not affected by food.
 The volume of distribution of citalopram is about 12 L/kg and the binding of citalopram (CT), demethylcitalopram (DCT) and didemethylcitalopram (DDCT) to human plasma proteins is about 80%.
 
 ### Metabolism and Elimination
@@ -40,8 +40,8 @@ In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 
 #### Age
 
 Citalopram pharmacokinetics in subjects ≥60 years of age were compared to younger subjects in two normal volunteer studies.
-In a single dose study, citalopram AUC and half-life were increased in the elderly subjects by 30% and 50%, respectively, whereas in a multiple dose study they were increased by 23% and 30% respectively.
-20 mg is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION).
+In a single-dose study, citalopram AUC and half-life were increased in the elderly subjects by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
+20 mg is the recommended dose for most elderly patients (see Drug Interactions).
 
 #### Gender
 
@@ -60,18 +60,18 @@ Citalopram oral clearance was reduced by 37% and half-life was doubled in patien
 
 In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
 No adjustment of dosage for such patients is recommended.
-No information is available about the pharmacokinetics of citalopram in patients with severely reduced renal function (creatinine clearances <20 mL/min).
+No information is available about the pharmacokinetics of citalopram in patients with severely reduced renal function (creatinine clearance <20 mL/min).
 
 ### Drug-Drug Interactions
 
-In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, -2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP-1A2, -2D6, and -2C19.
+In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, -2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
 Citalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these cytochromes.
 However, in vivo data to address this question are limited.
 
-Since CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of 3A4, e.g., ketoconazole, itraconazole, and macrolide antibiotics, and potent inhibitors of CYP2C19, e.g., omeprazole, might decrease the clearance of citalopram.
+Since CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of 3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of CYP2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
 However, coadministration of citalopram and the potent 3A4 inhibitor ketoconazole did not significantly affect the pharmacokinetics of citalopram.
 Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
-Citalopram steady state levels were not significantly different in poor metabolizers and extensive 2D6 metabolizers after multiple dose administration of citalopram, suggesting that coadministration, with citalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on citalopram metabolism.
+Citalopram steady state levels were not significantly different in poor metabolizers and extensive 2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with citalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on citalopram metabolism.
 See Drug Interactions under PRECAUTIONS for more detailed information on available drug interaction data.
 
 ## Clinical Efficacy Trials
@@ -85,7 +85,7 @@ In three additional placebo-controlled depression trials, the difference in resp
 
 In two long-term studies, depressed patients who had responded to citalopram during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 or 40 mg/day in one study and flexible doses of 20 to 60 mg/day in the second study) were randomized to continuation of citalopram or to placebo.
 In both studies, patients receiving continued citalopram treatment experienced significantly lower relapse rates over the subsequent 6 months compared to those receiving placebo.
-In the fixed dose study, the decreased rate of depression relapse was similar in patients receiving 20 or 40 mg/day of citalopram.
+In the fixed-dose study, the decreased rate of depression relapse was similar in patients receiving 20 or 40 mg/day of citalopram.
 
 Analyses of the relationship between treatment outcome and age, gender, and race did not suggest any differential responsiveness on the basis of these patient characteristics.
 

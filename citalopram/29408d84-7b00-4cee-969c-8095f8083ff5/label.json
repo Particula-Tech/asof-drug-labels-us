@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065178"
+  ],
   "inn": "citalopram",
-  "labeler": "Roxane Laboratories, Inc.I",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-0062-58"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "citalopram hydrobromide",
+      "name": "Citalopram Hydrobromide"
+    }
+  ],
   "setid": "29408d84-7b00-4cee-969c-8095f8083ff5",
   "source": "dailymed"
 }

@@ -2,7 +2,7 @@
 
 Citalopram Hydrobromide Oral Solution is indicated for the treatment of depression.
 
-The efficacy of Citalopram Hydrobromide Oral Solution in the treatment of depression was established in 4 to 6 week controlled trials of outpatients whose diagnosis corresponded most closely to the DSM-III and DSM-III-R category of major depressive disorder (see CLINICAL PHARMACOLOGY).
+The efficacy of Citalopram Hydrobromide Oral Solution in the treatment of depression was established in 4 to 6 week, controlled trials of outpatients whose diagnosis corresponded most closely to the DSM-III and DSM-III-R category of major depressive disorder (see CLINICAL PHARMACOLOGY).
 
 A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least five of the following nine symptoms: depressed mood, loss of interest in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt or suicidal ideation.
 

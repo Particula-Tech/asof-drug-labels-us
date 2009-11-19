@@ -13,7 +13,7 @@ Citalopram should be administered once daily, in the morning or evening, with or
 20 mg/day is the recommended dose for most elderly patients and patients with hepatic impairment, with titration to 40 mg/day only for nonresponding patients.
 
 No dosage adjustment is necessary for patients with mild or moderate renal impairment.
-Citalopram should be used with caution in patients with severe real impairment.
+Citalopram should be used with caution in patients with severe renal impairment.
 
 ## Treatment of Pregnant Women During the Third Trimester
 
@@ -41,4 +41,4 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 ## Switching Patients To or From a Monoamine Oxidase lnhibitor
 
 At least 14 days should elapse between discontinuation of an MAOI and initiation of citalopram therapy.
-Similarly, at least 14 days should be allowed after stopping citalopram before starting a MAOI (see CONTRAINDICATIONS and WARNINGS).
+Similarly, at least 14 days should be allowed after stopping citalopram before starting an MAOI (see CONTRAINDICATIONS and WARNINGS).
