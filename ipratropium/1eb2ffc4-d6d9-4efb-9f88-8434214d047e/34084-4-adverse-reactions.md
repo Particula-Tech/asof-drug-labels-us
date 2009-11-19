@@ -52,7 +52,6 @@ There were no reports of allergic-type reactions in the controlled clinical comm
 ## Post-Marketing Experience
 
 Allergic-type reactions such as skin rash, angioedema of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with ATROVENT Nasal Spray 0.06% and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
-Many of the patients had a history of allergies to other drugs and/or foods (see CONTRAINDICATIONS).
 
 Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, and constipation.
 

@@ -1,4 +1,4 @@
-## Patient’s Instructions for Use
+# Patient’s Instructions for Use
 
 Atrovent® (ipratropium bromide) Nasal Spray 0.06%
 
@@ -61,7 +61,7 @@ If you have glaucoma or difficulty urinating due to an enlargement of the prosta
 
 If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using ATROVENT Nasal Spray 0.06%.
 
-Address medical inquiries to http://us.boehringer-ingelheim.com, (800) 542-6257 or (800) 459-9906 TTY.
+Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257 or (800) 459-9906 TTY.
 
 Store tightly closed at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 Avoid freezing.
@@ -71,6 +71,6 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-©Copyright Boehringer Ingelheim International GmbH 2007, ALL RIGHTS RESERVED
+©Copyright Boehringer Ingelheim International GmbH 2008, ALL RIGHTS RESERVED
 
-Rev: May 2007 IT5000E0107 4042182/US/5 4042182//05
+Rev: April 2008 IT5000BA0808 4042182/06

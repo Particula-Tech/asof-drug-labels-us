@@ -6,7 +6,7 @@ Ipratropium bromide is an anticholinergic (parasympatholytic) agent which, based
 In humans, ipratropium bromide has anti-secretory properties and, when applied locally, inhibits secretions from the serous and seromucous glands lining the nasal mucosa.
 Ipratropium bromide is a quaternary amine that minimally crosses the nasal and gastrointestinal membranes and the blood-brain barrier, resulting in a reduction of the systemic anticholinergic effects (e.g., neurologic, ophthalmic, cardiovascular, and gastrointestinal effects) that are seen with tertiary anticholinergic amines.
 
-## Pharmacokinetics and Metabolism
+## Pharmacokinetics
 
 Absorption: Ipratropium bromide is poorly absorbed into the systemic circulation following oral administration (2-3%).
 Less than 20% of an 84 mcg per nostril dose was absorbed from the nasal mucosa of normal volunteers, induced-cold adult volunteers, naturally acquired common cold pediatric patients, or perennial rhinitis adult patients.
