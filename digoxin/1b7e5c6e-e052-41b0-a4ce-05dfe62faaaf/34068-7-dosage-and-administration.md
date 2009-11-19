@@ -9,13 +9,12 @@ The recommended approach is to
 - monitor the patient for toxicity and for therapeutic effect, if possible; and
 - adjust the dose.
 
-## Table 2
+## Table 2: Estimate the Daily Maintenance Dose
 
-Estimate the Daily Maintenance Dose
+The recommended initial estimates for daily oral doses of digoxin are
 
-| The recommeneded initial estimates for daily oral doses of digoxin are |  |
-| --- | --- |
 | Age | Daily Oral Dose, mcg/kg/day |
+| --- | --- |
 | Children > 2 years | 10 |
 | Prepubertal children | 10 |
 | Adults | 3 |
@@ -24,11 +23,11 @@ These doses will, in uncomplicated patients, tend to produce steady-state post-a
 
 ## Adjust the Estimated Dose
 
-As noted in CLINICAL PHARMACOLOGY, Pharmacokinetics and in WARNINGS: Drug Interactions, the body’s handling of digoxin can be affected by many different patient-specific factors.
+As noted in CLINICAL PHARMACOLOGY: Pharmacokinetics and in PRECAUTIONS: Drug Interactions, the body’s handling of digoxin can be affected by many different patient-specific factors.
 Some of the possible effects are usually small, so anticipatory dose adjustment might not be required, but others should be considered before initial dosing.
 Patients with abnormal renal function need to have their doses of digoxin proportionately reduced.
 Normal developmental changes in pediatric renal function were factored into the table given in the previous subsection, but age-related (or other) changes in adult renal function were not.
-The effects of renal function on recommended digoxin doses in adults is shown in Table 3 below.
+The effects of renal function on recommended digoxin doses in adults is shown in Table 3: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimated Peak Body Stores of 10 mcg/kg in Adults below.
 For children with known or suspected renal dysfunction, lower starting doses should be considered combined with frequent monitoring of digoxin levels.
 
 Digoxin’s volume of distribution is proportional to lean body weight, and the table in the previous section assumes that patients are of average composition.
@@ -39,11 +38,9 @@ Concomitant drug use should be considered when adjusting the estimated digoxin d
 NOTE: The calibrated dropper supplied with the 60 mL bottle of digoxin oral solution is not appropriate to measure doses below 0.2 mL.
 Doses less than 0.2 mL require appropriate methods or measuring devices designed to administer an accurate amount to the patient.
 
-Table 3 provides average daily maintenance dose requirements of digoxin for patients with heart failure based upon lean body weight and renal function.
+Table 3: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimated Peak Body Stores of 10 mcg/kg in Adults provides average daily maintenance dose requirements of digoxin for patients with heart failure based upon lean body weight and renal function.
 
-## Table 3
-
-Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimated Peak Body Stores of 10 mcg/kg in Adults
+## Table 3: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimated Peak Body Stores of 10 mcg/kg in Adults
 
 | Corrected Ccr (mL/min/70 kg)Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area. Foradults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. Note: This equation cannot be used for estimating creatinine clearance in infants or children. | Lean Body Weight |  |  |  |  |  |  | Number of Days Before Steady State Achieved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -61,9 +58,7 @@ Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimated Peak Bo
 | 90 |  | 187.5 | 250 | 250 | 250 | 375 | 500 | 8 |
 | 100 |  | 250 | 250 | 250 | 375 | 375 | 500 | 7 |
 
-## Table 4
-
-Daily Dose in Milliliters
+## Table 4: Daily Dose in Milliliters
 
 |  |  | Target Dose in mcg/kg/day: |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -117,4 +112,4 @@ Additional monitoring, and in some cases anticipatory dose adjustment, may be in
 - normal development through childhood;
 - concomitant drug use should be considered when adjusting the estimated digoxin dose (see PRECAUTIONS: Drug Interactions);
 - new co-administration of an antibiotic, especially if the patient had required high doses of digoxin in order to achieve modest serum concentrations, raising the suspicion that a substantial fraction of administered digoxin was being destroyed by colonic bacteria; and
-- changes in renal function (see Table 3 above).
+- changes in renal function (see Table 3: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimated Peak Body Stores of 10 mcg/kg in Adults above).

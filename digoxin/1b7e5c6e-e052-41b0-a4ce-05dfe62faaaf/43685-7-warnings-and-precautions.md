@@ -258,7 +258,9 @@ The digoxin renal clearance remained unchanged.
 
 #### Herbal Products
 
-St. John’s Wort: Administration of St. John’s Wort extract to 8 healthy male volunteers during 14 days resulted in a 18% decrease in exposure (AUC) after a single digoxin dose (0.5 mg) due to 1.4-fold increase in duodenal P-glycoprotein activity.
+##### St. John’s Wort
+
+Administration of St. John’s Wort extract to 8 healthy male volunteers during 14 days resulted in a 18% decrease in exposure (AUC) after a single digoxin dose (0.5 mg) due to 1.4-fold increase in duodenal P-glycoprotein activity.
 
 #### Other Digoxin-Drug Interaction Information
 
@@ -271,15 +273,42 @@ There have been inconsistent reports regarding the effects of other drugs (e.g.,
 
 No significant changes in digoxin pharmacokinetics have been reported with acitretin, aprepitant, orlistat, raloxifene, sevelamer, or tegaserod.
 
-##### Pharmacodynamic Interactions
+### Pharmacodynamic Interactions
 
-###### Dofetilide
+#### Dofetilide
 
-###### Moricizine
+In patients, the concomitant administration of digoxin with dofetilide was associated with a higher rate of Torsade de pointes.
 
-###### Sotalol
+#### Moricizine
 
-###### Teriparatide
+Moricizine has been reported to increase the PR interval and QRS duration.
+There are reports of first-degree atrioventricular block or bundle branch block developing in patients with concomitant digitalis administration.
+The known effects of moricizine on calcium conductance may explain the effects on atrioventricular node conduction.
+
+#### Sotalol
+
+Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in the patients receiving digoxin.
+
+#### Teriparatide
+
+Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity.
+Because teriparatide transiently increases serum calcium, teriparatide should be used with caution in patients taking digitalis.
+
+Potassium-depleting corticosteroids and diuretics may be major contributing factors to digitalis toxicity.
+
+Calcium, particularly if administered rapidly by the intravenous route, may produce serious arrhythmias in digitalized patients.
+
+Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin.
+Thyroid administration to a digitalized, hypothyroid patient may increase the dose requirement of digoxin.
+
+Concomitant use of digoxin and sympathomimetics increases the risk of cardiac arrhythmias.
+
+Succinylcholine may cause a sudden extrusion of potassium from muscle cells, and may thereby cause arrhythmias in digitalized patients.
+
+Although β-adrenergic blockers or calcium-channel blockers and digoxin may be useful in combination to control atrial fibrillation, their additive effects on AV node conduction can result in complete heart block.
+
+Due to considerable variability of these interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently.
+Furthermore, caution should be exercised when combining digoxin with any drug that may cause significant deterioration in renal function, since a decline in glomerular filtration or tubular secretion may impair the excretion of digoxin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

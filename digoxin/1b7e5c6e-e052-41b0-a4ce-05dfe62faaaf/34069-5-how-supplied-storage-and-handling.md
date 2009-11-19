@@ -10,18 +10,12 @@ The National Drug Code designations of the various packages are
 
 NDC 0054-0057-16 2.5 mL Patient Cups
 
-NDC 0054-0057-55 5 mL Patient Cups
-
 NDC 0054-0057-46 60 mL bottle
 
 ## Storage
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature] and protect from light.
 
-10001143/02
+10001143/04 Revised June 2009
 
-Rev March 2005
-
-© RLI, 2005
-
-Boehringer Ingelheim Roxane Laboratories
+© RLI, 2009

@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021648"
+  ],
   "inn": "digoxin",
-  "labeler": "Roxane Laboratories",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-0057-16",
     "0054-0057-46",
     "0054-0057-55"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "digoxin",
+      "name": "Digoxin"
+    }
+  ],
   "setid": "1b7e5c6e-e052-41b0-a4ce-05dfe62faaaf",
   "source": "dailymed"
 }
