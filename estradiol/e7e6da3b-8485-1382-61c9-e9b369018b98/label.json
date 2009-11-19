@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075182"
+  ],
   "inn": "estradiol",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -16,7 +18,13 @@
     "0378-3361-16",
     "0378-3361-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "estradiol",
+      "name": "Estradiol"
+    }
+  ],
   "setid": "e7e6da3b-8485-1382-61c9-e9b369018b98",
   "source": "dailymed"
 }

@@ -1,12 +1,16 @@
-# PRESCRIBING INFORMATION
+PRESCRIBING INFORMATION Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP
 
-Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP
+# Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP PATIENT INFORMATION
 
-# What is Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
+Read this PATIENT INFORMATION before you start using Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP and read what you get each time you refill Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+What is Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
 
 Estradiol Transdermal System Continuous Delivery (Once-Weekly) is a medicine that contains estrogen hormones.
 
-## What is Estradiol Transdermal System Continuous Delivery (Once-Weekly) used for?
+What is Estradiol Transdermal System Continuous Delivery (Once-Weekly) used for?
 
 Estradiol Transdermal System Continuous Delivery (Once-Weekly) is used after menopause to:
 
@@ -15,8 +19,7 @@ Estradiol Transdermal System Continuous Delivery (Once-Weekly) is used after men
   The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
   This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
-  The sudden drop in estrogen levels causes “surgical menopause.”
-  When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
+  The sudden drop in estrogen levels causes “surgical menopause.”When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
   In some women, the symptoms are mild, and they will not need estrogens.
   In other women, symptoms can be more severe.
   You and your healthcare provider should talk regularly about whether you still need treatment with Estradiol Transdermal System Continuous Delivery (Once-Weekly).
@@ -27,11 +30,10 @@ Estradiol Transdermal System Continuous Delivery (Once-Weekly) is used after men
 - help reduce your chances of getting osteoporosis (thin weak bones).
   Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
   If you use Estradiol Transdermal System Continuous Delivery (Once-Weekly) only to prevent osteoporosis from menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
-  You and your healthcare provider should talk regularly about whether you should continue with Estradiol Transdermal System Continuous Delivery (Once-Weekly).
-  Weight bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances of getting postmenopausal osteoporosis.
+  You and your healthcare provider should talk regularly about whether you should continue with Estradiol Transdermal System Continuous Delivery (Once-Weekly).Weight bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances of getting postmenopausal osteoporosis.
   It is important to talk about exercise and supplements with your healthcare provider before starting them.
 
-## Who should not use Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
+Who should not use Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
 
 Do not start using Estradiol Transdermal System Continuous Delivery (Once-Weekly) if you:
 
@@ -59,7 +61,7 @@ Tell your healthcare provider:
 - if you are going to have surgery or will be on bed rest.
   You may need to stop taking estrogens.
 
-## How should I use Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
+How should I use Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
 
 Estradiol Transdermal System Continuous Delivery (Once-Weekly) is a patch that you wear on your skin.
 The estrogen in the Estradiol Transdermal System Continuous Delivery (Once-Weekly) passes through your skin.
@@ -70,7 +72,7 @@ See the end of this leaflet for complete instructions on how to use Estradiol Tr
 2. Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
    You and your healthcare provider should talk regularly (for example, every 3 months to 6 months) about the dose you are taking and whether you still need treatment with Estradiol Transdermal System Continuous Delivery (Once-Weekly).
 
-## What are the possible side effects of estrogens?
+What are the possible side effects of estrogens?
 
 Less common but serious side effects include:
 
@@ -119,7 +121,7 @@ Other side effects include:
 These are not all the possible side effects of Estradiol Transdermal System Continuous Delivery (Once-Weekly).
 For more information, ask your healthcare provider or pharmacist.
 
-## What can I do to lower my chances of a serious side effect with Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
+What can I do to lower my chances of a serious side effect with Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
 
 Talk with your healthcare provider regularly about whether you should continue using Estradiol Transdermal System Continuous Delivery (Once-Weekly).
 
@@ -130,7 +132,7 @@ Talk with your healthcare provider regularly about whether you should continue u
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
   Ask your healthcare provider for ways to lower your chances for getting heart disease.
 
-## General information about safe and effective use of Estradiol Transdermal System Continuous Delivery (Once-Weekly)
+General information about safe and effective use of Estradiol Transdermal System Continuous Delivery (Once-Weekly)
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not take Estradiol Transdermal System Continuous Delivery (Once-Weekly) for conditions for which it was not prescribed.
@@ -144,12 +146,12 @@ If you would like more information, talk with your healthcare provider or pharma
 You can ask for information about Estradiol Transdermal System Continuous Delivery (Once-Weekly) that is written for health professionals.
 You can get more information by calling the toll free number 1-877-446-3679 (1-877-4-INFO-RX).
 
-## What are the ingredients in Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
+What are the ingredients in Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
 
 The active ingredient of Estradiol Transdermal System Continuous Delivery (Once-Weekly) is estradiol.
 Estradiol Transdermal System Continuous Delivery (Once-Weekly) also contains propylene glycol, povidone, anhydrous colloidal silicon dioxide, pressure sensitive acrylic adhesive, copolymer foam, polyester film, and brown ink (yellow iron oxide pigment, red iron oxide pigment and carbon black pigment).
 
-## Instructions for Use
+Instructions for Use
 
 How and Where to Apply the Estradiol Transdermal System Continuous Delivery (Once-Weekly) Patch
 
@@ -173,7 +175,7 @@ Make sure that it sticks all over, especially around the edges.
 The Estradiol Transdermal System Continuous Delivery (Once-Weekly) patch should be worn continuously for one week.
 You may wish to try different sites when putting on a new patch, to find ones that are most comfortable for you and where clothing will not rub on the patch or loosen it.
 
-## When to Apply the Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
+When to Apply the Estradiol Transdermal System Continuous Delivery (Once-Weekly)?
 
 The Estradiol Transdermal System Continuous Delivery (Once-Weekly) patch should be changed once weekly.
 Remove the used patch.
