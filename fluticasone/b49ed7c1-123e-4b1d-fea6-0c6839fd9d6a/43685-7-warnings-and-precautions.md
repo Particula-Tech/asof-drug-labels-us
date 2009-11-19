@@ -15,7 +15,7 @@ Patients who have been previously maintained on 20 mg or more per day of prednis
 During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
 Although inhaled corticosteroids may provide control of asthma symptoms during these episodes, in recommended doses they supply less than normal physiological amounts of glucocorticoid (cortisol) systemically and do NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.
 
-During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oralcorticosteroids (in large doses) immediately and to contact their physicians for further instruction.
+During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
 These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress or a severe asthma attack.
 
 Transfer of patients from systemic corticosteroid therapy to FLOVENT HFA may unmask conditions previously suppressed by the systemic corticosteroid therapy, e.g., rhinitis, conjunctivitis, eczema, arthritis, and eosinophilic conditions.
@@ -33,7 +33,7 @@ During such episodes, patients may require therapy with oral corticosteroids.
 3.
 Immunosuppression.
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
-Chickenpox and measles, for example, can have a more serious or even fatal coursein susceptible children or adults using corticosteroids.
+Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
 In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
@@ -49,7 +49,7 @@ During postmarketing use, there have been reports of clinically significant drug
 Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
 
 5.
-FLOVENT HFA should not be used to treatacute symptoms.
+FLOVENT HFA should not be used to treat acute symptoms.
 FLOVENT HFA is not to be regarded as a bronchodilator and is not indicated for rapid relief of bronchospasm.
 
 # PRECAUTIONS
@@ -225,7 +225,7 @@ These data suggest that even at low flow rates and extended holding times potent
 
 Table 1: In Vitro Medication Delivery Through AeroChamber Plus® Valved Holding Chamber With a Facemask
 
-| Age | Facemask | FlowRate(L/min) | HoldingTime(seconds) | Mean MedicationDelivery ThroughAeroChamberPlus VHC(mcg/actuation) | BodyWeight50thPercentile(kg)* | MedicationDeliveredperActuation(mcg/kg)† |
+| Age | Facemask | Flow Rate(L/min) | Holding Time(seconds) | Mean Medication Delivery Through AeroChamber Plus VHC(mcg/actuation) | Body Weight50th Percentile(kg)* | Medication Delivered per Actuation(mcg/kg)† |
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 to 12 | Small | 4.9 | 0 | 8.3 | 7.5-9.9 | 0.8-1.1 |
 | Months |  |  | 2 | 6.7 |  | 0.7-0.9 |
@@ -239,12 +239,15 @@ Table 1: In Vitro Medication Delivery Through AeroChamber Plus® Valved Holding 
 | Years |  |  | 2 | 7.7 |  | 0.4-0.6 |
 |  |  |  | 5 | 8.1 |  | 0.5-0.7 |
 |  |  |  | 10 | 9.0 |  | 0.5-0.7 |
-| >5 Years | Medium | 12.0 | 0 | 12.3 | 18.0 | 0.7 |
-|  |  |  | 2 | 11.8 |  | 0.7 |
+| >5 | Medium | 12.0 | 0 | 12.3 | 18.0 | 0.7 |
+| Years |  |  | 2 | 11.8 |  | 0.7 |
 |  |  |  | 5 | 12.0 |  | 0.7 |
 |  |  |  | 10 | 10.1 |  | 0.6 |
-| * Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000). Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated. |  |  |  |  |  |  |
-| † A single inhalation of FLOVENT HFA in a 70-kg adult without use of a valved holding chamber and facemask delivers approximately 44 mcg, or 0.6 mcg/kg. |  |  |  |  |  |  |
+
+*Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000).
+Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated.
+
+†A single inhalation of FLOVENT HFA in a 70-kg adult without use of a valved holding chamber and facemask delivers approximately 44 mcg, or 0.6 mcg/kg.
 
 Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
 A reduction of growth velocity in children or teenagers may occur as a result of poorly controlled asthma or from use of corticosteroids including inhaled corticosteroids.

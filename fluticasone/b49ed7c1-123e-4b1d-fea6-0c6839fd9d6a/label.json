@@ -1,13 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021433"
+  ],
   "inn": "fluticasone",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0173-0718-20",
+    "0173-0718-60",
     "0173-0719-20",
     "0173-0720-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "fluticasone propionate",
+      "name": "FLOVENT"
+    }
+  ],
   "setid": "b49ed7c1-123e-4b1d-fea6-0c6839fd9d6a",
   "source": "dailymed"
 }

@@ -80,7 +80,7 @@ Types of adverse events in these pediatric patients were generally similar to th
 
 In addition to adverse events reported from clinical trials, the following events have been identified during postmarketing use of fluticasone propionate.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of heir seriousness, frequency of reporting, or potential causal connection to fluticasone propionate.
+These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to fluticasone propionate.
 
 ### Ear, Nose, and Throat
 

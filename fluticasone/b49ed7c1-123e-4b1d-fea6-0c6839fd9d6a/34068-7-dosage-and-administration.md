@@ -23,9 +23,9 @@ NOTE: In all patients, it is desirable to titrate to the lowest effective dosage
 | Oral corticosteroids† | 440 mcg twice daily | 880 mcg twice daily |
 | Pediatric patients (4 to 11 years)‡ | 88 mcg twice daily | 88 mcg twice daily |
 
-*For Patients Currently Receiving Inhaled Corticosteroid Therapy: Starting dosages above 88 mcg twice daily may be considered for patients with poorer asthma control or those who have previously required doses of inhaled corticosteroids that are in the higher range for that specific agent.
+* For Patients Currently Receiving Inhaled Corticosteroid Therapy: Starting dosages above 88 mcg twice daily may be considered for patients with poorer asthma control or those who have previously required doses of inhaled corticosteroids that are in the higher range for that specific agent.
 
-†For Patients Currently Receiving Chronic Oral Corticosteroid Therapy: Prednisone should be reduced no faster than 2.5 to 5 mg/day on a weekly basis, beginning after at least 1 week of therapy with FLOVENT HFA.
+† For Patients Currently Receiving Chronic Oral Corticosteroid Therapy: Prednisone should be reduced no faster than 2.5 to 5 mg/day on a weekly basis, beginning after at least 1 week of therapy with FLOVENT HFA.
 Patients should be carefully monitored for signs of asthma instability, including serial objective measures of airflow, and for signs of adrenal insufficiency (see WARNINGS).
 Once prednisone reduction is complete, the dosage of fluticasone propionate HFA should be reduced to the lowest effective dosage.
 
