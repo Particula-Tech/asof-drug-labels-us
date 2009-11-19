@@ -2,7 +2,7 @@
 
 ## AUGMENTIN 250-mg Tablets
 
-Each white oval filmcoated tablet, debossed with AUGMENTIN on 1 side and 250/125 on the other side, contains 250mg amoxicillin as the trihydrate and 125mg clavulanic acid as the potassium salt.
+Each white oval filmcoated tablet, debossed with AUGMENTIN on 1 side and 250/125 on the other side, contains 250 mg amoxicillin as the trihydrate and 125 mg clavulanic acid as the potassium salt.
 
 NDC 0029-6075-27 bottles of 30
 
@@ -10,7 +10,7 @@ NDC 0029-6075-31 Unit Dose (10x10) 100 tablets
 
 ## AUGMENTIN 500-mg Tablets
 
-Each white oval filmcoated tablet, debossed with AUGMENTIN on 1 side and 500/125 on the other side, contains 500mg amoxicillin as the trihydrate and 125mg clavulanic acid as the potassium salt.
+Each white oval filmcoated tablet, debossed with AUGMENTIN on 1 side and 500/125 on the other side, contains 500 mg amoxicillin as the trihydrate and 125 mg clavulanic acid as the potassium salt.
 
 NDC 0029-6080-12 bottles of 20
 
@@ -18,13 +18,13 @@ NDC 0029-6080-31 Unit Dose (10x10) 100 tablets
 
 ## AUGMENTIN 875-mg Tablets
 
-Each scored white capsule-shaped tablet, debossed with AUGMENTIN 875 on 1 side and scored on the other side, contains 875mg amoxicillin as the trihydrate and 125mg clavulanic acid as the potassium salt.
+Each scored white capsule-shaped tablet, debossed with AUGMENTIN 875 on 1 side and scored on the other side, contains 875 mg amoxicillin as the trihydrate and 125 mg clavulanic acid as the potassium salt.
 
 NDC 0029-6086-12 bottles of 20
 
 NDC 0029-6086-21 Unit Dose (10x10) 100 tablets
 
-## AUGMENTIN is Also Supplied as
+## AUGMENTIN is Also Supplied as:
 
 AUGMENTIN 125 mg/5 mL (125 mg amoxicillin/31.25 mg clavulanic acid) For Oral Suspension:
 

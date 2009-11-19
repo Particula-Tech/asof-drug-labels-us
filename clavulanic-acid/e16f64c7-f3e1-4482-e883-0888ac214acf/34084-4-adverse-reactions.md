@@ -16,7 +16,7 @@ Onset of pseudomembranous colitis symptoms may occur during or after antibiotic 
 
 ## Hypersensitivity Reactions
 
-Skin rashes, pruritus, urticaria, angioedema, serum sickness−like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme (rarely Stevens-Johnson syndrome), acute generalized exanthematous pustulosis, and an occasional case of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported.
+Skin rashes, pruritus, urticaria, angioedema, serum sickness−like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme (rarely Stevens-Johnson syndrome), acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and an occasional case of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported.
 These reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
 Whenever such reactions occur, the drug should be discontinued, unless the opinion of the physician dictates otherwise.
 Serious and occasional fatal hypersensitivity (anaphylactic) reactions can occur with oral penicillin.
@@ -25,7 +25,7 @@ Serious and occasional fatal hypersensitivity (anaphylactic) reactions can occur
 ## Liver
 
 A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibiotics but the significance of these findings is unknown.
-Hepatic dysfunction, including increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with AUGMENTIN.
+Hepatic dysfunction, including hepatitis and cholestatic jaundice, [see CONTRAINDICATIONS], increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with AUGMENTIN.
 It has been reported more commonly in the elderly, in males, or in patients on prolonged treatment.
 The histologic findings on liver biopsy have consisted of predominantly cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.

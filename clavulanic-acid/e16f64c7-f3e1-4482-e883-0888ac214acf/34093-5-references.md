@@ -19,13 +19,11 @@ CLINITEST is a registered trademark of Miles, Inc.
 
 CLINISTIX is a registered trademark of Bayer Corporation.
 
-INSERT GSK
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2005, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-August 2005 AG:AL14
+September 2009 AUT:17PI

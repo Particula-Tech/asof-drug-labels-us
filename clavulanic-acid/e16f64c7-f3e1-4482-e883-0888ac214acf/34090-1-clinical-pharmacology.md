@@ -6,20 +6,20 @@ While AUGMENTIN can be given without regard to meals, absorption of clavulanate 
 In 1 study, the relative bioavailability of clavulanate was reduced when AUGMENTIN was dosed at 30 and 150 minutes after the start of a high-fat breakfast.
 The safety and efficacy of AUGMENTIN have been established in clinical trials where AUGMENTIN was taken without regard to meals.
 
-Mean* amoxicillin and clavulanate potassium pharmacokinetic parameters are shown in the table below:
+Meana amoxicillin and clavulanate potassium pharmacokinetic parameters are shown in the table below:
 
-| Dose† and regimen | AUC0-24 (mcg•hr/mL) |  | Cmax (mcg/mL) |  |
+| Doseb and regimen | AUC0-24 (mcg•hr/mL) |  | Cmax (mcg/mL) |  |
 | --- | --- | --- | --- | --- |
-| amoxicillin/ clavulanate potassium | amoxicillin (±S.D.) | clavulanate potassium (±S.D.) | amoxicillin (±S.D.) | clavulanate potassium (±S.D.) |
+| amoxicillin/clavulanate potassium | amoxicillin (±S.D.) | clavulanate potassium (±S.D.) | amoxicillin (±S.D.) | clavulanate potassium (±S.D.) |
 | 250/125 mg q8h | 26.7 ± 4.56 | 12.6 ± 3.25 | 3.3 ± 1.12 | 1.5 ± 0.70 |
 | 500/125 mg q12h | 33.4 ± 6.76 | 8.6 ± 1.95 | 6.5 ± 1.41 | 1.8 ± 0.61 |
 | 500/125 mg q8h | 53.4 ± 8.87 | 15.7 ± 3.86 | 7.2 ± 2.26 | 2.4 ± 0.83 |
 | 875/125 mg q12h | 53.5 ± 12.31 | 10.2 ± 3.04 | 11.6 ± 2.78 | 2.2 ± 0.99 |
 
-* Mean values of 14 normal volunteers (n = 15 for clavulanate potassium in the low-dose regimens).
+a Mean values of 14 normal volunteers (n = 15 for clavulanate potassium in the low-dose regimens).
 Peak concentrations occurred approximately 1.5 hours after the dose.
 
-†Administered at the start of a light meal.
+b Administered at the start of a light meal.
 
 Amoxicillin serum concentrations achieved with AUGMENTIN are similar to those produced by the oral administration of equivalent doses of amoxicillin alone.
 The half-life of amoxicillin after the oral administration of AUGMENTIN is 1.3 hours and that of clavulanic acid is 1.0 hour.
@@ -37,7 +37,7 @@ The results of experiments involving the administration of clavulanic acid to an
 
 Amoxicillin is a semisynthetic antibiotic with a broad spectrum of bactericidal activity against many gram-positive and gram-negative microorganisms.
 Amoxicillin is, however, susceptible to degradation by β-lactamases, and therefore, the spectrum of activity does not include organisms which produce these enzymes.
-Clavulanic acid is a β-lactam, structurally related to the penicillins, which possesses the ability to inactivate a wide range ofβ-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins.
+Clavulanic acid is a β-lactam, structurally related to the penicillins, which possesses the ability to inactivate a wide range of β-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins.
 In particular, it has good activity against the clinically important plasmid-mediated β-lactamases frequently responsible for transferred drug resistance.
 
 The formulation of amoxicillin and clavulanic acid in AUGMENTIN protects amoxicillin from degradation by β-lactamase enzymes and effectively extends the antibiotic spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin and other β-lactam antibiotics.
@@ -47,13 +47,13 @@ Amoxicillin/clavulanic acid has been shown to be active against most strains of 
 
 ### Gram-Positive Aerobes
 
-Staphylococcus aureus (β-lactamase and non−β-lactamase−producing)‡
+Staphylococcus aureus (β-lactamase and non−β-lactamase−producing)c
 
-‡ Staphylococci which are resistant to methicillin/oxacillin must be considered resistant to amoxicillin/clavulanic acid.
+c Staphylococci which are resistant to methicillin/oxacillin must be considered resistant to amoxicillin/clavulanic acid.
 
 ### Gram-Negative Aerobes
 
-Enterobacter species (Although most strains of Enterobacterspecies are resistant in vitro, clinical efficacy has been demonstrated with AUGMENTIN in urinary tract infections caused by these organisms.)
+Enterobacter species (Although most strains of Enterobacter species are resistant in vitro, clinical efficacy has been demonstrated with AUGMENTIN in urinary tract infections caused by these organisms.)
 
 Escherichia coli (β-lactamase and non−β-lactamase−producing)
 
@@ -65,32 +65,32 @@ Moraxella catarrhalis (β-lactamase and non−β-lactamase−producing)
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-Amoxicillin/clavulanic acid exhibits in vitro minimal inhibitory concentrations (MICs) of 2 mcg/mL or less against most (≥90%) strains of Streptococcus pneumoniae §; MICs of 0.06 mcg/mL or less against most (≥90%) strains of Neisseria gonorrhoeae; MICs of 4 mcg/mL or less against most (≥90%) strains of staphylococci and anaerobic bacteria; and MICs of 8 mcg/mL or less against most (≥90%) strains of other listed organisms.
+Amoxicillin/clavulanic acid exhibits in vitro minimal inhibitory concentrations (MICs) of 2 mcg/mL or less against most (≥ 90%) strains of Streptococcus pneumoniae d; MICs of 0.06 mcg/mL or less against most (≥ 90%) strains of Neisseria gonorrhoeae; MICs of 4 mcg/mL or less against most (≥ 90%) strains of staphylococci and anaerobic bacteria; and MICs of 8 mcg/mL or less against most (≥ 90%) strains of other listed organisms.
 However, with the exception of organisms shown to respond to amoxicillin alone, the safety and effectiveness of amoxicillin/clavulanic acid in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
-§ Because amoxicillin has greater in vitro activity against S. pneumoniae than does ampicillin or penicillin, the majority of S. pneumoniae strains with intermediate susceptibility to ampicillin or penicillin are fully susceptible to amoxicillin.
+d Because amoxicillin has greater in vitro activity against S. pneumoniae than does ampicillin or penicillin, the majority of S. pneumoniae strains with intermediate susceptibility to ampicillin or penicillin are fully susceptible to amoxicillin.
 
 ### Gram-Positive Aerobes
 
-Enterococcus faecalis||
+Enterococcus faecalise
 
 Staphylococcus epidermidis (β-lactamase and non−β-lactamase−producing)
 
 Staphylococcus saprophyticus (β-lactamase and non−β-lactamase−producing)
 
-Streptococcus pneumoniae|| ¶
+Streptococcus pneumoniaee f
 
-Streptococcus pyogenes|| ¶
+Streptococcus pyogenese f
 
-viridans group Streptococcus|| ¶
+viridans group Streptococcuse f
 
 ### Gram-Negative Aerobes
 
 Eikenella corrodens (β-lactamase and non−β-lactamase−producing)
 
-Neisseria gonorrhoeae║ (β-lactamase and non–β-lactamase–producing)
+Neisseria gonorrhoeaee (β-lactamase and non–β-lactamase–producing)
 
-Proteus mirabilis║ (β-lactamase and non–β-lactamase–producing)
+Proteus mirabilise (β-lactamase and non–β-lactamase–producing)
 
 ### Anaerobic Bacteria
 
@@ -98,11 +98,11 @@ Bacteroides species, including Bacteroides fragilis (β-lactamase and non–β-l
 
 Fusobacterium species (β-lactamase and non–β-lactamase–producing)
 
-Peptostreptococcus species¶
+Peptostreptococcus speciesf
 
-║ Adequate and well-controlled clinical trials have established the effectiveness of amoxicillin alone in treating certain clinical infections due to these organisms.
+e Adequate and well-controlled clinical trials have established the effectiveness of amoxicillin alone in treating certain clinical infections due to these organisms.
 
-¶ These are non–β-lactamase−producing organisms, and therefore, are susceptible to amoxicillin alone.
+f These are non–β-lactamase−producing organisms, and therefore, are susceptible to amoxicillin alone.
 
 ## Susceptibility Testing
 
@@ -115,36 +115,34 @@ Standardized procedures are based on a dilution method1 (broth or agar) or equiv
 
 The recommended dilution pattern utilizes a constant amoxicillin/clavulanate potassium ratio of 2 to 1 in all tubes with varying amounts of amoxicillin.
 MICs are expressed in terms of the amoxicillin concentration in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
-The MIC values should be interpreted according to the following criteria:
+The MIC values should be interpreted according to the following criteria: RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
 
-RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
-
-## For Gram-Negative Enteric Aerobes
+For Gram-Negative Enteric Aerobes:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤8/4 | Susceptible (S) |
+| ≤ 8/4 | Susceptible (S) |
 | 16/8 | Intermediate (I) |
-| ≥32/16 | Resistant (R) |
+| ≥ 32/16 | Resistant (R) |
 
-## For Staphylococcus** and Haemophilus species
+For Staphylococcusg and Haemophilus species:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤4/2 | Susceptible (S) |
-| ≥8/4 | Resistant (R) |
+| ≤ 4/2 | Susceptible (S) |
+| ≥ 8/4 | Resistant (R) |
 
-** Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin/oxacillin must be considered as resistant.
+g Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin/oxacillin must be considered as resistant.
 
-## For S. pneumoniae from non-meningitis sources
+For S. pneumoniae from non-meningitis sources:
 
 Isolates should be tested using amoxicillin/clavulanic acid and the following criteria should be used:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤2/1 | Susceptible (S) |
+| ≤ 2/1 | Susceptible (S) |
 | 4/2 | Intermediate (I) |
-| ≥8/4 | Resistant (R) |
+| ≥ 8/4 | Resistant (R) |
 
 NOTE: These interpretive criteria are based on the recommended doses for respiratory tract infections.
 
@@ -157,21 +155,16 @@ A report of “Resistant” indicates that the pathogen is not likely to be inhi
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard amoxicillin/clavulanate potassium powder should provide the following MIC values:
 
-MicroorganismMIC Range (mcg/mL)††
+| Microorganism | MIC Range (mcg/mL)h |
+| --- | --- |
+| Escherichia coli ATCC 25922 | 2 to 8 |
+| Escherichia coli ATCC 35218 | 4 to 16 |
+| Enterococcus faecalis ATCC 29212 | 0.25 to 1.0 |
+| Haemophilus influenzae ATCC 49247 | 2 to 16 |
+| Staphylococcus aureus ATCC 29213 | 0.12 to 0.5 |
+| Streptococcus pneumoniae ATCC 49619 | 0.03 to 0.12 |
 
-Escherichia coli ATCC 25922 2 to 8
-
-Escherichia coli ATCC 35218 4 to 16
-
-Enterococcus faecalis ATCC 29212 0.25 to 1.0
-
-Haemophilus influenzae ATCC 49247 2 to 16
-
-Staphylococcus aureus ATCC 29213 0.12 to 0.5
-
-Streptococcus pneumoniae ATCC 49619 0.03 to 0.12
-
-†† Expressed as concentration of amoxicillin in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
+h Expressed as concentration of amoxicillin in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
 
 ### Diffusion Techniques
 
@@ -179,35 +172,33 @@ Quantitative methods that require measurement of zone diameters also provide rep
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 30 mcg of amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) to test the susceptibility of microorganisms to amoxicillin/clavulanic acid.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg amoxicillin/clavulanate acid (20 mcg amoxicillin plus 10 mcg clavulanate potassium) disk should be interpreted according to the following criteria:
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg amoxicillin/clavulanate acid (20 mcg amoxicillin plus 10 mcg clavulanate potassium) disk should be interpreted according to the following criteria: RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
 
-RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
-
-## For Staphylococcus ‡‡ species and H. influenzaea
+For Staphylococcusi species and H. influenzaej:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥20 | Susceptible (S) |
-| ≤19 | Resistant (R) |
+| ≥ 20 | Susceptible (S) |
+| ≤ 19 | Resistant (R) |
 
-## For Other Organisms Except S. pneumoniae and N. gonorrhoea
+For Other Organisms Except S. pneumoniaek and N. gonorrhoeael:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥18 | Susceptible (S) |
+| ≥ 18 | Susceptible (S) |
 | 14 to 17 | Intermediate (I) |
-| ≤13 | Resistant (R) |
+| ≤ 13 | Resistant (R) |
 
-‡‡ Staphylococci which are resistant to methicillin/oxacillin must be considered as resistant to amoxicillin/clavulanic acid.
+i Staphylococci which are resistant to methicillin/oxacillin must be considered as resistant to amoxicillin/clavulanic acid.
 
-a A broth microdilution method should be used for testing H. influenzae.
+j A broth microdilution method should be used for testing H. influenzae.
 Beta-lactamase−negative, ampicillin-resistant strains must be considered resistant to amoxicillin/clavulanic acid.
 
-b Susceptibility of S. pneumoniae should be determined using a 1-mcg oxacillin disk.
-Isolates with oxacillin zone sizes of ≥20 mm are susceptible to amoxicillin/clavulanic acid.
-An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤19 mm.
+k Susceptibility of S. pneumoniae should be determined using a 1-mcg oxacillin disk.
+Isolates with oxacillin zone sizes of ≥2 0 mm are susceptible to amoxicillin/clavulanic acid.
+An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤1 9 mm.
 
-c A broth microdilution method should be used for testing N. gonorrhoeae and interpreted according to penicillin breakpoints.
+l A broth microdilution method should be used for testing N. gonorrhoeae and interpreted according to penicillin breakpoints.
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for amoxicillin/clavulanic acid.
@@ -215,10 +206,8 @@ Interpretation involves correlation of the diameter obtained in the disk test wi
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
 For the diffusion technique, the 30-mcg amoxicillin/clavulanate potassium (20-mcg amoxicillin plus 10-mcg clavulanate potassium) disk should provide the following zone diameters in these laboratory quality control strains:
 
-MicroorganismZone Diameter (mm)
-
-Escherichia coli ATCC 25922 19 to 25
-
-Escherichia coli ATCC 35218 18 to 22
-
-Staphylococcus aureus ATCC 25923 28 to 36
+| Microorganism | Zone Diameter (mm) |
+| --- | --- |
+| Escherichia coli ATCC 25922 | 19 to 25 |
+| Escherichia coli ATCC 35218 | 18 to 22 |
+| Staphylococcus aureus ATCC 25923 | 28 to 36 |

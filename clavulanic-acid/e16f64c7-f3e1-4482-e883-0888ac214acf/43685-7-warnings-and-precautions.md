@@ -8,14 +8,16 @@ IF AN ALLERGIC REACTION OCCURS, AUGMENTIN SHOULD BE DISCONTINUED AND THE APPROPR
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including AUGMENTIN, and has ranged in severity from mild to life-threatening; therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AUGMENTIN, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of“antibiotic-associated colitis.”
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile. cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, appropriate therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile. may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 AUGMENTIN should be used with caution in patients with evidence of hepatic dysfunction.
 Hepatic toxicity associated with the use of AUGMENTIN is usually reversible.
@@ -43,6 +45,10 @@ Probenecid decreases the renal tubular secretion of amoxicillin.
 Concurrent use with AUGMENTIN may result in increased and prolonged blood levels of amoxicillin.
 Coadministration of probenecid cannot be recommended.
 
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported rarely in patients receiving amoxicillin and oral anticoagulants.
+Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently.
+Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.
+
 The concurrent administration of allopurinol and ampicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving ampicillin alone.
 It is not known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients.
 There are no data with AUGMENTIN and allopurinol administered concurrently.
@@ -65,6 +71,10 @@ They do not treat viral infections (e.g., the common cold).
 When AUGMENTIN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by AUGMENTIN or other antibacterial drugs in the future.
 
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals have not been performed to evaluate carcinogenic potential.
@@ -78,7 +88,9 @@ All were negative apart from the in vitro mouse lymphoma assay where weak activi
 
 AUGMENTIN at oral doses of up to 1,200 mg/kg/day (5.7 times the maximum human dose, 1,480 mg/m2/day, based on body surface area) was found to have no effect on fertility and reproductive performance in rats, dosed with a 2:1 ratio formulation of amoxicillin:clavulanate.
 
-### Teratogenic effects
+## Pregnancy
+
+### Teratogenic Effects
 
 Pregnancy (Category B). Reproduction studies performed in pregnant rats and mice given AUGMENTIN at oral dosages up to 1,200 mg/kg/day, equivalent to 7,200 and 4,080 mg/m2/day, respectively (4.9 and 2.8 times the maximum human oral dose based on body surface area), revealed no evidence of harm to the fetus due to AUGMENTIN.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -96,14 +108,15 @@ Ampicillin-class antibiotics are excreted in the milk; therefore, caution should
 
 ## Pediatric Use
 
-Pediatric patients weighing 40kg or more should be dosed according to the adult recommendations (see DOSAGE AND ADMINISTRATION: Pediatric Patients).
+Pediatric patients weighing 40 kg or more should be dosed according to the adult recommendations (see DOSAGE AND ADMINISTRATION: Pediatric Patients).
 Safety and effectiveness of AUGMENTIN Tablets in pediatric patients weighing less than 40 kg have not been established.
 (See prescribing information for AUGMENTIN Powder for Oral Suspension and Chewable Tablets.)
 
 ## Geriatric Use
 
 An analysis of clinical studies of AUGMENTIN was conducted to determine whether subjects aged 65 and over respond differently from younger subjects.
-Of the 3,119 patients in this analysis, 68% were <65 years old, 32% were ≥65 years old and 14% were ≥75 years old.This analysis and other reported clinical experience have not identified differences in responses between the elderly and younger patients, but a greater sensitivity of some older individuals cannot be ruled out.
+Of the 3,119 patients in this analysis, 68% were <65 years old, 32% were ≥65 years old and 14% were ≥75 years old.
+This analysis and other reported clinical experience have not identified differences in responses between the elderly and younger patients, but a greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

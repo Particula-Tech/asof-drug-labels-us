@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050564",
+    "NDA050720"
+  ],
   "inn": "clavulanic-acid",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0029-6075-27",
     "0029-6075-31",
@@ -10,7 +13,18 @@
     "0029-6086-12",
     "0029-6086-21"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AUGMENTIN"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AUGMENTIN"
+    }
+  ],
   "setid": "e16f64c7-f3e1-4482-e883-0888ac214acf",
   "source": "dailymed"
 }
