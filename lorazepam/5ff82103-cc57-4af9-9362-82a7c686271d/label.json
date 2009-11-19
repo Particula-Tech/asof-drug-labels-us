@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA073079"
+  ],
   "inn": "lorazepam",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-3532-44"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
   "setid": "5ff82103-cc57-4af9-9362-82a7c686271d",
   "source": "dailymed"
 }
