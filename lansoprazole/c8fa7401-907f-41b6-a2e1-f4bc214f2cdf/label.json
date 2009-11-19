@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA090763"
+  ],
+  "inn": "lansoprazole",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8015-01",
+    "0378-8015-10",
+    "0378-8015-93",
+    "0378-8030-05",
+    "0378-8030-77"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "lansoprazole",
+      "name": "Lansoprazole"
+    }
+  ],
+  "setid": "c8fa7401-907f-41b6-a2e1-f4bc214f2cdf",
+  "source": "dailymed"
+}
