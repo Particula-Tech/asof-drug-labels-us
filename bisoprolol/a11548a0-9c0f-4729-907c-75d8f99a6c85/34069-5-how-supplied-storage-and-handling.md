@@ -7,7 +7,7 @@ The 5 mg tablet is pink, heart-shaped, film-coated, vertically scored in half on
 | 30 Tablets | Unit-of-use | NDC 51285-060-01 |
 | --- | --- | --- |
 
-The 10 mg tablet is white, heart-shaped, biconvex, film-coated, with an engraved stylized b on one side and 61 on the reverse side, supplied as follows:
+The 10 mg tablet is white, heart-shaped, film-coated, with an engraved stylized b on one side and 61 on the reverse side, supplied as follows:
 
 | 30 Tablets | Unit-of-use | NDC 51285-061-01 |
 | --- | --- | --- |

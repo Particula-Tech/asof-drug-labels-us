@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019982"
+  ],
   "inn": "bisoprolol",
-  "labeler": "DURAMED PHARMACEUTICALS, INC.",
+  "labeler": "Duramed Pharmaceuticals, Inc.",
   "package_ndcs": [
     "51285-060-01",
     "51285-061-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bisoprolol fumarate",
+      "name": "Zebeta"
+    }
+  ],
   "setid": "a11548a0-9c0f-4729-907c-75d8f99a6c85",
   "source": "dailymed"
 }
