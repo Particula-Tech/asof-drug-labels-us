@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020142"
+  ],
   "inn": "diclofenac",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0436-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, SUGAR COATED",
+      "generic": "diclofenac potassium",
+      "name": "Cataflam"
+    }
+  ],
   "setid": "1582c050-925a-4af8-a44f-948017946ae6",
   "source": "dailymed"
 }
