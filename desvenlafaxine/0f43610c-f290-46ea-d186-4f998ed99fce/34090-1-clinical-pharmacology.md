@@ -71,7 +71,7 @@ Dose escalation above 100 mg/day is not recommended [see Use in Specific Populat
 
 The disposition of desvenlafaxine after administration of 100 mg was studied in subjects with mild (n = 9), moderate (n = 8), severe (n = 7) and end-stage renal disease [ESRD] (n = 9) requiring dialysis and in healthy, age-matched control subjects (n = 8).
 Elimination was significantly correlated with creatinine clearance.
-Increases in AUCs of about 42% in mild renal impairment (24‑hr CrCl = 50‑80 mL/min), about 46% in moderate renal impairment (24‑hr CrCl = 30‑50 mL/min), about 108% in severe renal impairment (24‑hr CrCl ≤ 30 mL/min), and about 116% in ESRD subjects were observed, compared with healthy, age-matched control subjects.
+Increases in AUCs of about 42% in mild renal impairment (24‑hr CrCl = 50‑80 mL/min), about 56% in moderate renal impairment (24‑hr CrCl = 30‑50 mL/min), about 108% in severe renal impairment (24‑hr CrCl ≤ 30 mL/min), and about 116% in ESRD subjects were observed, compared with healthy, age-matched control subjects.
 
 The mean terminal half-life (t1/2) was prolonged from 11.1 hours in the control subjects to approximately 13.5, 15.5, 17.6, and 22.8 hours in mild, moderate, severe renal impairment and ESRD subjects, respectively.
 Less than 5% of the drug in the body was cleared during a standard 4-hour hemodialysis procedure.

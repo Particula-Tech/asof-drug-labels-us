@@ -58,6 +58,56 @@ Wyeth®
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE LABEL
 
+NDC 0008-1211-70
+
+SAMPLE – NOT FOR SALE
+
+Patient Sample Pack
+
+Pristiq®
+
+desvenlafaxine
+
+Extended-Release Tablets
+
+50 mg*
+
+One Card Containing 7 Tablets
+
+*Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine.
+
+PLEASE SEE IMPORTANT SAFETY INFORMATION INSIDE
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – SAMPLE LABEL
+
+NDC 0008-1211-70
+
+Pristiq®
+
+desvenlafaxine
+
+Extended-Release Tablets
+
+Usual Dosage:
+
+See accompanying information.
+
+PLEASE SEE ENCLOSED FULL PRESCRIBING INFORMATION AND MEDICATION GUIDE for patients
+
+SAMPLE-NOT FOR SALE
+
+Store at 20º-25ºC (68º-77ºF); excursions permitted to 15º-30ºC (59º-86ºF).
+
+[See USP Controlled Room Temperature.]
+
+U.S. Patents: See package insert.
+
+Rx only
+
+Wyeth®
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE LABEL
+
 NDC 0008-1211-80
 
 Pristiq™
@@ -75,50 +125,6 @@ Unit of Use 30 Tablets
 Rx only
 
 Wyeth®
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE BLISTER
-
-NDC 0008-1211-40
-
-SAMPLE – NOT FOR SALE
-
-One Week Sample Pack
-
-Pristiq™
-
-desvenlafaxine
-
-Extended-Release Tablets
-
-50 mg*
-
-One Card Containing 7 Tablets
-
-*Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine.
-
-PLEASE SEE ENCLOSED MEDICATION GUIDE
-
-Rx only
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE CARTON
-
-NDC 0008-1211-40
-
-SAMPLE – NOT FOR SALE
-
-10 Patient Sample Packs
-
-Pristiq™
-
-desvenlafaxine
-
-Extended-Release Tablets
-
-50 mg*
-
-*Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine.
-
-Rx only
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 MG LABEL
 

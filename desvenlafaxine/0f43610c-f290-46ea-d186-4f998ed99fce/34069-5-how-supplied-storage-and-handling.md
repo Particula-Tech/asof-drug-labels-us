@@ -30,4 +30,4 @@ The unit-of-use package is intended to be dispensed as a unit.
 
 The appearance of these tablets is a trademark of Wyeth Pharmaceuticals.
 
-U.S. Patent No. 6,673,838.
+U.S. Patent No. 6,673,838; 7,291,347.
