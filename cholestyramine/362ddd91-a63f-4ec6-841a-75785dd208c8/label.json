@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA077203"
+  ],
+  "inn": "cholestyramine",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "49884-936-65",
+    "49884-936-66",
+    "49884-937-65",
+    "49884-937-67"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "cholestyramine",
+      "name": "QUESTRAN"
+    }
+  ],
+  "setid": "362ddd91-a63f-4ec6-841a-75785dd208c8",
+  "source": "dailymed"
+}

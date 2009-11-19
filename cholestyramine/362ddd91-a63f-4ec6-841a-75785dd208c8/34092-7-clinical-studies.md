@@ -1,0 +1,20 @@
+# CLINICAL STUDIES
+
+In a large, placebo-controlled, multi-clinic study, LRC-CPPT 1, hypercholesterolemic subjects treated with QUESTRAN had mean reductions in total and low-density lipoprotein cholesterol (LDL-C) which exceeded those for diet and placebo treatment by 7.2% and 10.4%, respectively.
+Over the seven-year study period the QUESTRAN group experienced a 19% reduction (relative to the incidence in the placebo group) in the combined rate of coronary heart disease death plus non-fatal myocardial infarction (cumulative incidences of 7% QUESTRAN and 8.6% placebo).
+The subjects included in the study were men aged 35 - 59 with serum cholesterol levels above 265 mg/dL and no previous history of heart disease.
+It is not clear to what extent these findings can be extrapolated to females and other segments of the hypercholesterolemic population.
+(See also PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility.)
+
+Two controlled clinical trials have examined the effects of QUESTRAN monotherapy upon coronary atherosclerotic lesions using coronary arteriography.
+In the NHLBI Type II Coronary Intervention Trial 2, 116 patients (80% male) with coronary artery disease (CAD) documented by arteriography were randomized to QUESTRAN or placebo for five years of treatment.
+Final study arteriography revealed progression of coronary artery disease in 49% of placebo patients compared to 32% of the QUESTRAN group (p<0.05).
+
+In the St. Thomas Atherosclerosis Regression Study (STARS) 3, 90 hypercholesterolemic men with CAD were randomized to three blinded treatments: usual care, lipid-lowering diet, and lipid-lowering diet plus QUESTRAN.
+After 36 months, follow-up coronary arteriography revealed progression of disease in 46% of usual care patients, 15% of patients on lipid-lowering diet and 12% of those receiving diet plus QUESTRAN (p<0.02).
+The mean absolute width of coronary segments decreased in the usual care group, increased slightly (0.003mm) in the diet group and increased by 0.103mm in the diet plus QUESTRAN group (p<0.05).
+Thus in these randomized controlled clinical trials using coronary arteriography, QUESTRAN monotherapy has been demonstrated to slow progression 2,3 and promote regression3 of atherosclerotic lesions in the coronary arteries of patients with coronary artery disease.
+
+The effect of intensive lipid-lowering therapy on coronary atherosclerosis has been assessed by arteriography in hyperlipidemic patients.
+In these randomized, controlled clinical trials, patients were treated for two to four years by either conventional measures (diet, placebo, or in some cases low dose resin), or intensive combination therapy using diet plus colestipol (an anion exchange resin with a mechanism of action and an effect on serum lipids similar to that of QUESTRAN and QUESTRAN LIGHT) plus either nicotinic acid or lovastatin.
+When compared to conventional measures, intensive lipid-lowering combination therapy significantly reduced the frequency of progression and increased the frequency of regression of coronary atherosclerotic lesions in patients with or at risk for coronary artery disease.
