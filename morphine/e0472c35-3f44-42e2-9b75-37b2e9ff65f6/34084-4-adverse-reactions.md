@@ -22,4 +22,4 @@ Genitourinary: Urine retention or hesitance, amenorrhea, reduced libido and/or p
 
 Dermatologic: Pruritus, urticaria, other skin rashes, edema, diaphoresis
 
-Other: Antidiuretic effect, paresthesia, bronchospasm, muscle tremor, blurred vision, nystagmus, diplopia, miosis, anaphylaxis
+Other: Antidiuretic effect, paresthesia, bronchospasm, muscle tremor, blurred vision, nystagmus, diplopia, miosis, anaphylaxis, malaise, thinking disturbances, vertigo

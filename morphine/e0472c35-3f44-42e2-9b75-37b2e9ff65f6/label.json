@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019516"
+  ],
   "inn": "morphine",
-  "labeler": "Purdue Pharma L.P.",
+  "labeler": "Purdue Pharma LP",
   "package_ndcs": [
     "59011-260-05",
     "59011-260-10",
@@ -13,7 +15,13 @@
     "59011-263-10",
     "59011-264-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "MS Contin"
+    }
+  ],
   "setid": "e0472c35-3f44-42e2-9b75-37b2e9ff65f6",
   "source": "dailymed"
 }
