@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA061395"
+  ],
+  "inn": "ampicillin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-9409-46",
+    "0781-9409-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ampicillin sodium",
+      "name": "Ampicillin"
+    }
+  ],
+  "setid": "5308ddfa-4a5b-4f7b-83ce-9d1b528e050d",
+  "source": "dailymed"
+}
