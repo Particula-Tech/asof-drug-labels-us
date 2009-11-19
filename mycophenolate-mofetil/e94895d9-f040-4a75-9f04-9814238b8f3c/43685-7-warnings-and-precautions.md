@@ -77,6 +77,13 @@ Neutropenia has been observed most frequently in the period from 31 to 180 days 
 
 Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
+## Pure Red Cell Aplasia (PRCA)
+
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative contribution of other immunosuppressants and their combinations in an immunosuppression regimen are also unknown.
+In some cases, PRCA was found to be reversible with dose reduction or cessation of mycophenolate mofetil therapy.
+In transplant patients, however, reduced immunosuppression may place the graft at risk.
+
 CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 
 # PRECAUTIONS
@@ -201,6 +208,14 @@ Following single-dose administration of mycophenolate mofetil (1 g) to 11 health
 Therefore, mycophenolate mofetil is not recommended to be given with the combination of norfloxacin and metronidazole.
 There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
 The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (±24) mcg·h/mL and 42.7 (±23) mcg·h/mL, respectively, compared with 56.2 (±24) mcg·h/mL after administration of mycophenolate mofetil alone.
+
+### Ciprofloxacin and Amoxicillin plus Clavulanic Acid
+
+A total of 64 mycophenolate mofetil-treated renal transplant recipients received either oral ciprofloxacin 500 mg bid or amoxicillin plus clavulanic acid 375 mg tid for 7 or at least 14 days.
+Approximately 50% reductions in median trough MPA concentrations (predose) from baseline (mycophenolate mofetil alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
+These reductions in trough MPA concentrations tended to diminish within 14 days of antibiotic therapy and ceased within 3 days after discontinuation of antibiotics.
+The postulated mechanism for this interaction is an antibiotic-induced reduction in glucuronidase-possessing enteric organisms leading to a decrease in enterohepatic recirculation of MPA.
+The change in trough level may not accurately represent changes in overall MPA exposure; therefore, clinical relevance of these observations is unclear.
 
 ### Rifampin
 

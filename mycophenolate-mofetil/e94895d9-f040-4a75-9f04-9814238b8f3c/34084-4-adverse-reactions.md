@@ -137,7 +137,7 @@ Table 10: Adverse Events Reported in 3% to <20% of Patients Treated with Mycophe
 | Body System |  |
 | --- | --- |
 | Body as a Whole | abdomen enlarged, abscess, accidental injury, cellulitis, chills occurring with fever, cyst, face edema, flu syndrome, hemorrhage, hernia, lab test abnormal, malaise, neck pain, pelvic pain, peritonitis |
-| Hemic and Lymphatic | coagulation disorder, ecchymosis, pancytopenia, petechia, polycythemia, prothrombin time increased, thromboplastin time increased |
+| Hematologic and Lymphatic | coagulation disorder, ecchymosis, pancytopenia, petechia, polycythemia, prothrombin time increased, thromboplastin time increased |
 | Urogenital | acute kidney failure, albuminuria, dysuria, hydronephrosis, hematuria, impotence, kidney failure, kidney tubular necrosis, nocturia, oliguria, pain, prostatic disorder, pyelonephritis, scrotal edema, urine abnormality, urinary frequency, urinary incontinence, urinary retention, urinary tract disorder |
 | Cardiovascular | angina pectoris, arrhythmia, arterial thrombosis, atrial fibrillation, atrial flutter, bradycardia, cardiovascular disorder, congestive heart failure, extrasystole, heart arrest, heart failure, hypotension, pallor, palpitation, pericardial effusion, peripheral vascular disorder, postural hypotension, pulmonary hypertension, supraventricular tachycardia, supraventricular extrasystoles, syncope, tachycardia, thrombosis, vasodilatation, vasospasm, ventricular extrasystole, ventricular tachycardia, venous pressure increased |
 | Metabolic and Nutritional | abnormal healing, acidosis, alkaline phosphatase increased, alkalosis, bilirubinemia, creatinine increased, dehydration, gamma glutamyl transpeptidase increased, generalized edema, gout, hypercalcemia, hypercholesteremia, hyperlipemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypochloremia, hypoglycemia, hyponatremia, hypophosphatemia, hypoproteinemia, hypovolemia, hypoxia, lactic dehydrogenase increased, respiratory acidosis, SGOT increased, SGPT increased, thirst, weight gain, weight loss |
@@ -172,6 +172,10 @@ Congenital malformations including ear malformations have been reported in offsp
 ### Digestive
 
 Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
+
+### Hematologic and Lymphatic
+
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 
 ### Resistance Mechanism Disorders
 

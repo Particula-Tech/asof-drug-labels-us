@@ -6,7 +6,6 @@ Mycophenolate Mofetil Tablets, 500 mg are supplied as white, modified oval table
 
 | 0054-0163-25 | 250 mg, caramel opaque/blue opaque capsules, bottle of 100 |
 | --- | --- |
-| 0054-0163-23 | 250 mg, caramel opaque/blue opaque capsules, bottle of 120 |
 | 0054-0163-29 | 250 mg, caramel opaque/blue opaque capsules, bottle of 500 |
 | 0054-0166-25 | 500 mg, white tablets, bottle of 100 |
 | 0054-0166-29 | 500 mg, white tablets, bottle of 500 |

@@ -1,15 +1,28 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065410",
+    "ANDA065413"
+  ],
   "inn": "mycophenolate-mofetil",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
-    "0054-0163-23",
     "0054-0163-25",
     "0054-0163-29",
     "0054-0166-25",
     "0054-0166-29"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate Mofetil"
+    },
+    {
+      "form": "TABLET",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate Mofetil"
+    }
+  ],
   "setid": "e94895d9-f040-4a75-9f04-9814238b8f3c",
   "source": "dailymed"
 }

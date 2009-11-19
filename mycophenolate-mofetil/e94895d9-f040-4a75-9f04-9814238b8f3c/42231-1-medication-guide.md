@@ -111,11 +111,12 @@ Especially tell your healthcare provider if you take:
     See “What is the most important information I should know about Mycophenolate Mofetil Capsules and Tablets?”
   - sevelamer (Renagel®, Renvela™).
     These products should be taken 2 hours after taking mycophenolate mofetil
-  - acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Valcyte®)
+  - acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Vitrasert®), valganciclovir (Valcyte®)
   - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
   - antacids that contain magnesium and aluminum (mycophenolate mofetil and the antacid should not be taken at the same time)
   - sulfamethoxazole/trimethoprim (Bactrim™, Bactrim DS™)
   - norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, Pylera™)
+  - ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR™)
   - azathioprine (Azasan®, Imuran®)
   - cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
 
@@ -167,14 +168,15 @@ Mycophenolate Mofetil Capsules and Tablets can cause serious side effects:
     You have a higher chance of getting an infection when your white blood cell count is low.
     This is most common from 3 months to 6 months after your transplant
   - red blood cells.
-    Red blood cells carry oxygen to your body tissues
+    Red blood cells carry oxygen to your body tissues.
+    You have a higher chance of getting severe anemia when your red blood cell count is low.
   - platelets.
     Platelets help with blood clotting
 
 Your healthcare provider will do blood tests before you start taking mycophenolate mofetil and during treatment with mycophenolate mofetil to check your blood cell counts.
 
-Tell your healthcare provider right away if you have any signs of infection (see “What is the most important information I should know about Mycophenolate Mofetil Capsules and Tablets?”).
-Also, tell your healthcare provider about any unexpected bruising or bleeding
+Tell your healthcare provider right away if you have any signs of infection (see “What is the most important information I should know about Mycophenolate Mofetil Capsules and Tablets?”), or any unexpected bruising or bleeding.
+Also, tell your healthcare provider if you have unusual tiredness, lack of energy, dizziness or fainting.
 
 - Stomach problems.
   Stomach and intestinal bleeding can happen in people who take high doses of mycophenolate mofetil.
@@ -235,9 +237,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about mycophenolate mofetil.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about mycophenolate mofetil that is written for healthcare professionals.
-For more information, go to www.Roxane.com or call 1-800-962-8364.
-
-What are the ingredients in Mycophenolate Mofetil Capsules and Tablets?
+For more information, go to www.Roxane.com or call 1-800-962-83
 
 Active Ingredient: mycophenolate mofetil
 
@@ -254,6 +254,6 @@ CellCept, Cytovene-IV, and Valcyte are registered trademarks of Hoffmann-La Roch
 
 Any other trademarks in this document are the property of their respective owners.
 
-10004767/01 Revised January 2009
+10004767/02 Revised July 2009
 
 © RLI, 2009

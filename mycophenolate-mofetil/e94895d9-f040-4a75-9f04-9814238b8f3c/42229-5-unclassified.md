@@ -138,6 +138,6 @@ If such contact occurs, wash thoroughly with soap and water; rinse eyes with pla
 
 5Maalox® is a registered trademark of Novartis Consumer Health, Inc.
 
-10004767/01 Revised January 2009
+10004767/02 Revised July 2009
 
 © RLI, 2009
