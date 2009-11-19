@@ -35,7 +35,7 @@ Patients should be cautioned against interruption of CATAPRES tablets therapy wi
 Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of a possible sedative effect of clonidine.
 They should also be informed that this sedative effect may be increased by concomitant use of alcohol, barbiturates, or other sedating drugs.
 
-Patients who wear contact lenses should be cautioned that treatment with Catapres® (clonidine hydrochloride, USP) tablets may cause dryness of eyes.
+Patients who wear contact lenses should be cautioned that treatment with CATAPRES tablets may cause dryness of eyes.
 
 ## Drug Interactions
 
@@ -45,6 +45,9 @@ If a patient receiving clonidine hydrochloride is also taking tricyclic antidepr
 Due to a potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers and beta-blockers.
 
 Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see Toxicology).
+
+Serious adverse events, including death, have been reported in concomitant use with methylphenidate in patients with underlying cardiovascular conditions, although no association for the combination has been established.
+The safety of using clonidine in combination with methylphenidate has not been systematically evaluated.
 
 ## Toxicology
 
