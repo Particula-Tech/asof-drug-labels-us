@@ -69,6 +69,9 @@ Due to a potential for additive effects such as bradycardia and AV block, cautio
 
 Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see Toxicology).
 
+Serious adverse events, including death, have been reported in concomitant use with methylphenidate in patients with underlying cardiovascular conditions, although no association for the combination has been established.
+The safety of using clonidine in combination with methylphenidate has not been systematically evaluated.
+
 ## Toxicology
 
 In several studies with oral clonidine hydrochloride, a dose-dependent increase in the incidence and severity of spontaneous retinal degeneration was seen in albino rats treated for six months or longer.
