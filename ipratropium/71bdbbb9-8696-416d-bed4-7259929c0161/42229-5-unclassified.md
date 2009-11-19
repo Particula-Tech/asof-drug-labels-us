@@ -1,4 +1,4 @@
-Rx only
+# Rx only
 
 Prescribing Information
 
@@ -82,8 +82,8 @@ Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
 
-10001010/02
+10001010/03
 
-Revised May 2007
+Revised September 2007
 
 © RLI, 2007
