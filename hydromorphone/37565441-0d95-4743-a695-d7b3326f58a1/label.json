@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA019892"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Rhodes Pharmaceuticals L.P.",
+  "package_ndcs": [
+    "42858-301-01",
+    "42858-301-25",
+    "42858-302-01",
+    "42858-302-25",
+    "42858-302-50",
+    "42858-303-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Hydromorphone Hydrochloride"
+    }
+  ],
+  "setid": "37565441-0d95-4743-a695-d7b3326f58a1",
+  "source": "dailymed"
+}
