@@ -1,0 +1,113 @@
+# DOSAGE AND ADMINISTRATION
+
+## Major Depressive Disorder
+
+### Usual Initial Dosage
+
+Paroxetine tablets should be administered as a single daily dose with or without food, usually in the morning.
+The recommended initial dose is 20 mg/day.
+Patients were dosed in a range of 20 to 50 mg/day in the clinical trials demonstrating the effectiveness of paroxetine tablets in the treatment of major depressive disorder.
+As with all drugs effective in the treatment of major depressive disorder, the full effect may be delayed.
+Some patients not responding to a 20 mg dose may benefit from dose increases, in 10 mg/day increments, up to a maximum of 50 mg/day.
+Dose changes should occur at intervals of at least one week.
+
+### Maintenance Therapy
+
+There is no body of evidence available to answer the question of how long the patient treated with paroxetine tablets should remain on it.
+It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
+Whether the dose needed to induce remission is identical to the dose needed to maintain and/or sustain euthymia is unknown.
+
+Systematic evaluation of the efficacy of paroxetine tablets has shown that efficacy is maintained for periods of up to one year with doses that averaged about 30 mg.
+
+## Obsessive Compulsive Disorder
+
+### Usual Initial Dosage
+
+Paroxetine tablets should be administered as a single daily dose with or without food, usually in the morning.
+The recommended dose of paroxetine tablets in the treatment of OCD is 40 mg daily.
+Patients should be started on 20 mg/day and the dose can be increased in 10 mg/day increments.
+Dose changes should occur at intervals of at least one week.
+Patients were dosed in a range of 20 to 60 mg/day in the clinical trials demonstrating the effectiveness of paroxetine tablets in the treatment of OCD.
+The maximum dosage should not exceed 60 mg/day.
+
+### Maintenance Therapy
+
+Long-term maintenance of efficacy was demonstrated in a 6-month relapse prevention trial.
+In this trial, patients with OCD assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
+OCD is a chronic condition, and it is reasonable to consider continuation for a responding patient.
+Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+
+## Panic Disorder
+
+### Usual Initial Dosage
+
+Paroxetine tablets should be administered as a single daily dose with or without food, usually in the morning.
+The target dose of paroxetine tablets in the treatment of panic disorder is 40 mg/day.
+Patients should be started on 10 mg/day.
+Dose changes should occur in 10 mg/day increments and at intervals of at least one week.
+Patients were dosed in a range of 10 to 60 mg/day in the clinical trials demonstrating the effectiveness of paroxetine tablets.
+The maximum dosage should not exceed 60 mg/day.
+
+### Maintenance Therapy
+
+Long-term maintenance of efficacy was demonstrated in a 3 month relapse prevention trial.
+In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
+Panic disorder is a chronic condition, and it is reasonable to consider continuation for a responding patient.
+Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+
+## Social Anxiety Disorder
+
+### Usual Initial Dosage
+
+Paroxetine tablets should be administered as a single daily dose with or without food, usually in the morning.
+The recommended and initial dosage is 20 mg/day.
+In clinical trials the effectiveness of paroxetine tablets was demonstrated in patients dosed in a range of 20 to 60 mg/day.
+While the safety of paroxetine tablets has been evaluated in patients with social anxiety disorder at doses up to 60 mg/day, available information does not suggest any additional benefit for doses above 20 mg/day (see CLINICAL PHARMACOLOGY: Clinical Trials).
+
+### Maintenance Therapy
+
+There is no body of evidence available to answer the question of how long the patient treated with paroxetine tablets should remain on it.
+Although the efficacy of paroxetine tablets beyond 12 weeks of dosing has not been demonstrated in controlled clinical trials, social anxiety disorder is recognized as a chronic condition, and it is reasonable to consider continuation of treatment for a responding patient.
+Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+
+## Generalized Anxiety Disorder
+
+### Usual Initial Dosage
+
+Paroxetine tablets should be administered as a single daily dose with or without food, usually in the morning.
+In clinical trials the effectiveness of paroxetine tablets was demonstrated in patients dosed in a range of 20 to 50 mg/day.
+The recommended starting dosage and the established effective dosage is 20 mg/day.
+There is not sufficient evidence to suggest a greater benefit to doses higher than 20 mg/day.
+Dose changes should occur in 10 mg/day increments and at intervals of at least one week.
+
+### Maintenance Therapy
+
+Systematic evaluation of continuing paroxetine tablets for periods of up to 24 weeks in patients with Generalized Anxiety Disorder who had responded while taking paroxetine tablets during an 8 week acute treatment phase has demonstrated a benefit of such maintenance (see CLINICAL PHARMACOLOGY: Clinical Trials).
+Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
+
+## Special Populations
+
+### Treatment of Pregnant Women During the Third Trimester
+
+Neonates exposed to paroxetine tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS).
+When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
+The physician may consider tapering paroxetine in the third trimester.
+
+### Dosage for Elderly or Debilitated Patients, and Patients With Severe Renal or Hepatic Impairment
+
+The recommended initial dose is 10 mg/day for elderly patients, debilitated patients, and/or patients with severe renal or hepatic impairment.
+Increases may be made if indicated.
+Dosage should not exceed 40 mg/day.
+
+## Switching Patients to or From a Monoamine Oxidase Inhibitor
+
+At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with paroxetine tablets.
+Similarly, at least 14 days should be allowed after stopping paroxetine tablets before starting an MAOI.
+
+## Discontinuation of Treatment with Paroxetine Tablets
+
+Symptoms associated with discontinuation of paroxetine tablets have been reported (see PRECAUTIONS).
+Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which paroxetine tablets is being prescribed.
+A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
+Subsequently, the physician may continue decreasing the dose but at a more gradual rate.

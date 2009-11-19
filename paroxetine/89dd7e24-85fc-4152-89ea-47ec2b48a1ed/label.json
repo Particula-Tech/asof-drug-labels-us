@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078902"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-7001-01",
+    "0378-7001-10",
+    "0378-7001-93",
+    "0378-7002-01",
+    "0378-7002-10",
+    "0378-7002-93",
+    "0378-7003-01",
+    "0378-7003-10",
+    "0378-7003-93",
+    "0378-7004-01",
+    "0378-7004-10",
+    "0378-7004-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "paroxetine hydrochloride hemihydrate",
+      "name": "Paroxetine"
+    }
+  ],
+  "setid": "89dd7e24-85fc-4152-89ea-47ec2b48a1ed",
+  "source": "dailymed"
+}
