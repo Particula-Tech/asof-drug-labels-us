@@ -1,17 +1,13 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# Medication Guide
 
-## Medication Guide
-
-### Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
-
-Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
+Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your, or your family member’s, healthcare provider about:
 
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illness
 
-### What is the most important information I should know about antidepressant medicines, depression, and other serious mental illnesses, and suicidal thoughts or actions?
+What is the most important information I should know about antidepressant medicines, depression, and other serious mental illnesses, and suicidal thoughts or actions?
 
 1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
@@ -25,7 +21,7 @@ Talk to your, or your family member’s, healthcare provider about:
 - Keep all follow-up visits with the healthcare provider as scheduled.
   Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-### Call a healthcare provider right away if you or your family member has any of the following symptoms especially if they are new, worse, or worry you:
+Call a healthcare provider right away if you or your family member has any of the following symptoms especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
 - attempts to commit suicide
@@ -40,7 +36,7 @@ Talk to your, or your family member’s, healthcare provider about:
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
-### What else do I need to know about antidepressant medicines?
+What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
@@ -56,6 +52,7 @@ Talk to your, or your family member’s, healthcare provider about:
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
-
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2009

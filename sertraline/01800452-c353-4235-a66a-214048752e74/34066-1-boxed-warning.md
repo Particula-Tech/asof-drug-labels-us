@@ -7,4 +7,4 @@ Depression and certain other psychiatric disorders are themselves associated wit
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Sertraline hydrochloride is not approved for the treatment of major depressive disorder in pediatric patients.
-(See WARNIGNS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients and PRECAUTIONS: Pediatric Use).
+(See WARNIGNS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use)

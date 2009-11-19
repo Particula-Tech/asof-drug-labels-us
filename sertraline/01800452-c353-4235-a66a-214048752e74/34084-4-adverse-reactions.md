@@ -14,20 +14,20 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 ## Incidence in Placebo-Controlled Trials
 
-Table 2 enumerates the most common treatment-emergent adverse events associated with the use of sertraline hydrochloride (incidence of at least 5% for sertraline hydrochloride and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other * in placebo-controlled clinical trials.
-Most patients in major depressive disorder/other * studies received doses of 50 to 200 mg/day.
+Table 2 enumerates the most common treatment-emergent adverse events associated with the use of sertraline hydrochloride (incidence of at least 5% for sertraline hydrochloride and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder / other * in placebo-controlled clinical trials.
+Most patients in major depressive disorder / other * studies received doses of 50 to 200 mg/day.
 
 TABLE 2 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS
 
 | Body System/Adverse Event | Sertraline Hydrochloride (N=861) | Placebo (N=853) |
 | --- | --- | --- |
 |  | Percentage of Patients Reporting Event |  |
-| Major Depressive Disorder/Other* |  |  |
+|  | Major Depressive Disorder/Other* |  |
 | Autonomic Nervous System Disorders |  |  |
 | Ejaculation Failure (1) | 7 | <1 |
 | Mouth Dry | 16 | 9 |
 | Sweating Increased | 8 | 3 |
-| Centr. & Periph. Nerv. System Disorders |  |  |
+| Center. & Periph. Nerv. System Disorders |  |  |
 | Somnolence | 13 | 6 |
 | Tremor | 11 | 3 |
 | Dizziness | 12 | 7 |
@@ -46,7 +46,7 @@ TABLE 2 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONT
 | Agitation | 6 | 4 |
 | Insomnia | 16 | 9 |
 | Libido Decreased | 1 | <1 |
-| (1) Primarily ejaculatory delay. Denominator used was for male patients only (N=271 sertraline hydrochloride major depressive disorder/other*; N=271 placebo major depressive disorder*). * Major depressive disorder and other premarketing controlled trials. |  |  |
+| (1) Primarily ejaculatory delay. Denominator used was for male patients only (N=271 sertraline hydrochloride major depressive disorder/other*; N=271 placebo major depressive disorder/other*). * Major depressive disorder and other premarketing controlled trials. |  |  |
 
 ## Associated with Discontinuation in Placebo-Controlled Clinical Trials
 
@@ -113,7 +113,7 @@ Autonomic Nervous System Disorders– Frequent: impotence; Infrequent: flushing,
 Body as a Whole–General Disorders– Rare: allergic reaction, allergy.
 Cardiovascular– Frequent: palpitations, chest pain; Infrequent: hypertension, tachycardia, postural dizziness, postural hypotension, periorbital edema, peripheral edema, hypotension, peripheral ischemia, syncope, edema, dependent edema; Rare: precordial chest pain, substernal chest pain, aggravated hypertension, myocardial infarction, cerebrovascular disorder.
 Central and Peripheral Nervous System Disorders– Frequent: hypertonia, hypoesthesia; Infrequent: twitching, confusion, hyperkinesia, vertigo, ataxia, migraine, abnormal coordination, hyperesthesia, leg cramps, abnormal gait, nystagmus, hypokinesia; Rare: dysphonia, coma, dyskinesia, hypotonia, ptosis, choreoathetosis, hyporeflexia.
-Disorders of Skin and Appendages– lnfrequent: pruritus, acne, urticaria, alopecia, dry skin, erythematous rash, photosensitivity reaction, maculopapular rash; Rare: follicular rash, eczema, dermatitis, contact dermatitis, bullous eruption, hypertrichosis, skin discoloration, pustular rash.
+Disorders of Skin and Appendages– Infrequent: pruritus, acne, urticaria, alopecia, dry skin, erythematous rash, photosensitivity reaction, maculopapular rash; Rare: follicular rash, eczema, dermatitis, contact dermatitis, bullous eruption, hypertrichosis, skin discoloration, pustular rash.
 Endocrine Disorders– Rare: exophthalmos, gynecomastia.
 Gastrointestinal Disorders– Frequent: appetite increased; Infrequent: dysphagia, tooth caries aggravated, eructation, esophagitis, gastroenteritis; Rare: melena, glossitis, gum hyperplasia, hiccup, stomatitis, tenesmus, colitis, diverticulitis, fecal incontinence, gastritis, rectum hemorrhage, hemorrhagic peptic ulcer, proctitis, ulcerative stomatitis, tongue edema, tongue ulceration.
 General– Frequent: back pain, asthenia, malaise, weight increase; Infrequent: fever, rigors, generalized edema; Rare: face edema, aphthous stomatitis.
@@ -126,11 +126,11 @@ Psychiatric Disorders– Frequent: yawning, other male sexual dysfunction, other
 Reproductive– Infrequent: menstrual disorder, dysmenorrhea, intermenstrual bleeding, vaginal hemorrhage, amenorrhea, leukorrhea; Rare: female breast pain, menorrhagia, balanoposthitis, breast enlargement, atrophic vaginitis, acute female mastitis.
 Respiratory System Disorders– Frequent: rhinitis; Infrequent: coughing, dyspnea, upper respiratory tract infection, epistaxis, bronchospasm, sinusitis; Rare: hyperventilation, bradypnea, stridor, apnea, bronchitis, hemoptysis, hypoventilation, laryngismus, laryngitis.
 Special Senses– Frequent: tinnitus; Infrequent: conjunctivitis, earache, eye pain, abnormal accommodation; Rare: xerophthalmia, photophobia, diplopia, abnormal lacrimation, scotoma, visual field defect.
-Urinary System Disorders– Infrequent: micturition frequency, polyuria, urinary retention, dysuria, nocturia, urinary incontinence; Rare: cystitis, oliguria, pyelonephritis, hematuria, renal pain, strangury.
-Laboratory Tests– In man, asymptomatic elevations in serum transaminases (SGOT [or AST] and SGPT [or ALT]) have been reported infrequently (approximately 0.8%) in association with sertraline hydrochloride administration.
+Urinary System Disorders – Infrequent: micturition frequency, polyuria, urinary retention, dysuria, nocturia, urinary incontinence; Rare: cystitis, oliguria, pyelonephritis, hematuria, renal pain, strangury.
+Laboratory Tests –In man, asymptomatic elevations in serum transaminases (SGOT [or AST] and SGPT [or ALT]) have been reported infrequently (approximately 0.8%) in association with sertraline hydrochloride administration.
 These hepatic enzyme elevations usually occurred within the first 1 to 9 weeks of drug treatment and promptly diminished upon drug discontinuation.
 Sertraline hydrochloride therapy was associated with small mean increases in total cholesterol (approximately 3%) and triglycerides (approximately 5%), and a small mean decrease in serum uric acid (approximately 7%) of no apparent clinical importance.
 
 ## Other Events Observed During the Post marketing Evaluation of Sertraline Hydrochloride
 
-Reports of adverse events temporally associated with sertraline hydrochloride that have been received since market introduction, that are not listed above and that may have no causal relationship with the drug, include the following: acute renal failure, anaphylactoid reaction, angioedema, blindness, optic neuritis, cataract, increased coagulation times, bradycardia, AV block, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including torsade de pointes-type arrhythmias), hypothyroidism, agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness, hyperglycemia, galactorrhea, hyperprolactinemia, neuroleptic malignant syndrome-like events, extrapyramidal symptoms, oculogyric crisis, serotonin syndrome, psychosis, pulmonary hypertension, severe skin reactions, which potentially can be fatal, such as Stevens-Johnson syndrome, vasculitis, photosensitivity and other severe cutaneous disorders, rare reports of pancreatitis, and liver events—clinical features (which in the majority of cases appeared to be reversible with discontinuation of sertraline hydrochloride) occurring in one or more patients include: elevated enzymes, increased bilirubin, hepatomegaly, hepatitis, jaundice, abdominal pain, vomiting, liver failure and death.
+Reports of adverse events temporally associated with sertraline hydrochloride that have been received since market introduction, that are not listed above and that may have no causal relationship with the drug, include the following: acute renal failure, anaphylactoid reaction, angioedema, blindness, optic neuritis, cataract, increased coagulation times, bradycardia, AV block, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including torsade de pointes-type arrhythmias), hypothyroidism, agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness, hyperglycemia, galactorrhea, hyperprolactinemia, extrapyramidal symptoms, oculogyric crisis, psychosis, pulmonary hypertension, severe skin reactions, which potentially can be fatal, such as Stevens-Johnson syndrome, vasculitis, photosensitivity and other severe cutaneous disorders, rare reports of pancreatitis, and liver events—clinical features (which in the majority of cases appeared to be reversible with discontinuation of sertraline hydrochloride) occurring in one or more patients include: elevated enzymes, increased bilirubin, hepatomegaly, hepatitis, jaundice, abdominal pain, vomiting, liver failure and death.

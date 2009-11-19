@@ -15,6 +15,5 @@ IMPORTANT: Please read these instructions before using sertraline hydrochloride 
    At times, a slight haze may appear after mixing; this is normal.
 6. Replace the plastic cap on the bottle by screwing it clockwise; rinse the empty dispensing syringe with water.
    And close the orifice of the dispensing syringe by fixing the secure tip (see Figure 6).
-   Dispensing Diagram
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India
+Dispensing Diagram Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2009
