@@ -6,9 +6,9 @@ Read the Medication Guide that comes with Pacerone® Tablets before you start ta
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 
-What is the most important information I should know about Pacerone®Tablets?
+What is the most important information I should know about Pacerone® Tablets?
 
-Pacerone®Tablets can cause serious side effects that can lead to death including:
+Pacerone® Tablets can cause serious side effects that can lead to death including:
 
 - lung damage
 - liver damage
@@ -19,10 +19,10 @@ Call your doctor or get medical help right away if you have any symptoms such as
 
 - shortness of breath, wheezing, or any other trouble breathing; coughing, chest pain, or spitting up of blood
 - nausea or vomiting; passing brown or dark-colored urine; feel more tired than usual; your skin and whites of your eyes get yellow; or have stomach pain
-- heart pounding, skipping a beat, beating very fast or very slowly; feel lightheaded or faint
+- heart pounding, skipping a beat, beating very fast or very slowly; feel light-headed or faint
 - weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor.
 
-Because of these possible side effects, Pacerone®Tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
+Because of these possible side effects, Pacerone® Tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
 
 Pacerone® Tablets can cause other serious side effects.
 See "What are the possible or reasonably likely side effects of Pacerone® Tablets?" for more information.
@@ -30,12 +30,12 @@ See "What are the possible or reasonably likely side effects of Pacerone® Table
 If you get serious side effects during treatment with Pacerone® Tablets you may need to stop Pacerone® Tablets, have your dose changed, or get medical treatment.
 Talk with your doctor before you stop taking Pacerone® Tablets.
 
-You may still have side effects after stopping Pacerone®Tablets because the medicine stays in your body months after treatment is stopped.
+You may still have side effects after stopping Pacerone® Tablets because the medicine stays in your body months after treatment is stopped.
 
 Tell all your healthcare providers that you take or took Pacerone® Tablets.
 This information is very important for other medical treatments or surgeries you may have.
 
-What are Pacerone®Tablets?
+What are Pacerone® Tablets?
 
 Amiodarone is a medicine used in adults to treat life-threatening heartbeat problems called ventricular arrhythmias, for which other treatment did not work or was not tolerated.
 Pacerone® Tablets have not been shown to help people with life-threatening heartbeat problems live longer.
@@ -44,15 +44,15 @@ You should have regular check-ups, blood tests, chest x-rays, and eye exams befo
 
 Pacerone® Tablets have not been studied in children.
 
-Whoshould not takePacerone®Tablets?
+Who should not take Pacerone® Tablets?
 
-Do not take Pacerone®Tablets if you:
+Do not take Pacerone® Tablets if you:
 
 - have certain heart conditions (heart block, very slow heart rate, or slow heart rate with dizziness or lightheadedness)
-- have an allergy to amiodarone, iodine, or any of the other ingredients in Pacerone®Tablets.
+- have an allergy to amiodarone, iodine, or any of the other ingredients in Pacerone® Tablets.
   See the end of this Medication Guide for a complete list of ingredients in Pacerone® Tablets.
 
-What should I tell my doctor before starting Pacerone®Tablets?
+What should I tell my doctor before starting Pacerone® Tablets?
 
 Tell your doctor about all of your medical conditions including if you:
 
@@ -94,9 +94,9 @@ Know the medicines you take.
 Keep a list of them with you at all times and show it to your doctor and pharmacist each time you get a new medicine.
 Do not take any new medicines while you are taking Pacerone® Tablets unless you have talked with your doctor.
 
-How should I take Pacerone®Tablets?
+How should I take Pacerone® Tablets?
 
-- Take Pacerone®Tablets exactly as prescribed by your doctor.
+- Take Pacerone® Tablets exactly as prescribed by your doctor.
 - The dose of Pacerone® Tablets you take has been specially chosen for you by your doctor and may change during treatment.
   Keep taking your medicine until your doctor tells you to stop.
   Do not stop taking it because you feel better.
@@ -104,7 +104,7 @@ How should I take Pacerone®Tablets?
   Talk with your doctor if you have side effects.
 - Your doctor will tell you to take your dose of Pacerone® Tablets with or without meals.
   Make sure you take Pacerone® Tablets the same way each time.
-- Do not drink grapefruit juice during treatment with Pacerone®Tablets.
+- Do not drink grapefruit juice during treatment with Pacerone® Tablets.
   Grapefruit juice affects how amiodarone is absorbed in the stomach.
 - Taking too many Pacerone® Tablets can be dangerous.
   If you take too many Pacerone® Tablets, call your doctor or go to the nearest hospital right away.
@@ -112,24 +112,24 @@ How should I take Pacerone®Tablets?
 - If you miss a dose, do not take a double dose to make up for the dose you missed.
   Continue with your next regularly scheduled dose.
 
-What should I avoid while taking Pacerone®Tablets?
+What should I avoid while taking Pacerone® Tablets?
 
-- Do not drink grapefruit juice during treatment with Pacerone®Tablets.
+- Do not drink grapefruit juice during treatment with Pacerone® Tablets.
   Grapefruit juice affects how amiodarone is absorbed in the stomach.
 - Avoid exposing your skin to the sun or sun lamps.
   Pacerone® Tablets can cause a photosensitive reaction.
   Wear sun-block cream or protective clothing when out in the sun.
-- Avoid pregnancy during treatment with Pacerone®Tablets.
+- Avoid pregnancy during treatment with Pacerone® Tablets.
   Amiodarone can harm your unborn baby.
-- Do not breastfeed while taking Pacerone®Tablets.
+- Do not breastfeed while taking Pacerone® Tablets.
   Amiodarone passes into your milk and can harm your baby.
 
-What are the possible or reasonably likely side effects of Pacerone®Tablets?
+What are the possible or reasonably likely side effects of Pacerone® Tablets?
 
-Pacerone®Tablets can cause serious side effects that lead to death including lung damage, liver damage, worse heartbeat problems and thyroid problems.
+Pacerone® Tablets can cause serious side effects that lead to death including lung damage, liver damage, worse heartbeat problems and thyroid problems.
 See "What is the most important information I should know about Pacerone® Tablets?"
 
-Some other serious side effects of Pacerone®Tablets include:
+Some other serious side effects of Pacerone® Tablets include:
 
 - vision problems that may lead to permanent blindness.
   You should have regular eye exams before and during treatment with Pacerone® Tablets.
@@ -151,16 +151,18 @@ Call your doctor about any side effect that bothers you.
 
 These are not all the side effects with Pacerone® Tablets.
 For more information, ask your doctor or pharmacist.
+You may report side effects to FDA at 1-800-FDA-1088.
+You may also report side effects to Upsher-Smith Laboratories at 1-888-650-3789.
 
-How should I store Pacerone®Tablets?
+How should I store Pacerone® Tablets?
 
 - Store Pacerone® Tablets at room temperature.
   Protect from light.
   Keep Pacerone® Tablets in a tightly closed container.
 - Safely dispose of Pacerone® Tablets that are out-of-date or no longer needed.
-- Keep Pacerone®Tablets and all medicines out of the reach of children.
+- Keep Pacerone® Tablets and all medicines out of the reach of children.
 
-General information about Pacerone®Tablets
+General information about Pacerone® Tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use Pacerone® Tablets for a condition for which it was not prescribed.
@@ -175,11 +177,11 @@ You can ask your doctor or pharmacist for information about Pacerone® Tablets t
 |  | This Medication Guide may have been revised after this copy was produced. For more information and the most current Medication Guide, please visit www.pacerone.com or www.upsher-smith.com or call our professional services department toll-free at 1-800-654-2299. |  |
 | --- | --- | --- |
 
-What are the ingredients in Pacerone®Tablets?
+What are the ingredients in Pacerone® Tablets?
 
-Active Ingredient: amiodarone HCl, 100 mg and 200 mg
+Active Ingredient: amiodarone HCl, 100 and 200 mg
 
-Inactive Ingredients: lactose monohydrate, magnesium stearate, povidone, pregelatinized corn starch, sodium starch glycolate, stearic acid, FD&C Red 40 (200 mg only) and FD&C Yellow 6.
+Inactive Ingredients: lactose monohydrate, magnesium stearate, povidone, pregelatinized corn starch, sodium starch glycolate, stearic acid, FD&C Red 40 (for 200 mg only) and FD&C Yellow 6.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -193,4 +195,4 @@ Claritin is a registered trademark of Schering Corporation.
 
 Alavert is a registered trademark of Wyeth.
 
-103003-00 R1208
+R1009

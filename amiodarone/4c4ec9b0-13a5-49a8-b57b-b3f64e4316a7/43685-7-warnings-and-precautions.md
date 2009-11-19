@@ -22,15 +22,15 @@ These data are consistent with the results of a pooled analysis of smaller, cont
 ## Pulmonary Toxicity
 
 There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral amiodarone with or without initial I.V. therapy.
-Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
+Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, pleural effusion, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
 Some cases have progressed to respiratory failure and/or death.
-Postmarketing reports describe cases of pulmonary toxicity in patients treated with low doses of amiodarone; however, reports suggest that the use of lower loading and maintenance doses of amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
+Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of amiodarone; however, reports suggest that the use of lower loading and maintenance doses of amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
 
 Amiodarone HCl Tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
 Therefore, when Pacerone® Tablets therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
 The patient should return for a history, physical exam and chest X-ray every 3 to 6 months.
 
-Pulmonary toxicity secondary to amiodarone seems to result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis or interstitial/alveolar pneumonitis, respectively.
+Pulmonary toxicity secondary to amiodarone seems to result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis (including eosinophilic pneumonia) or interstitial/alveolar pneumonitis, respectively.
 
 Patients with preexisting pulmonary disease have a poorer prognosis if pulmonary toxicity develops.
 
@@ -80,7 +80,7 @@ A careful assessment of the potential risks and benefits of administering Pacero
 ## Implantable Cardiac Devices
 
 In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may affect pacing or defibrillation thresholds.
-Therefore, at the inception of and during amiodarone treatment, pacing and defibrillation thresholds should be assessed.
+Therefore, at the inception of and during amiodarone treatment, pacing and defibrillating thresholds should be assessed.
 
 ## Thyrotoxicosis
 
@@ -278,7 +278,7 @@ These precautions probably should apply to digitoxin administration as well.
 Antiarrhythmics: Other antiarrhythmic drugs, such as quinidine, procainamide, disopyramide, and phenytoin, have been used concurrently with oral amiodarone.
 
 There have been case reports of increased steady-state levels of quinidine, procainamide and phenytoin during concomitant therapy with amiodarone.
-Phenyton decreases serum amiodarone levels.
+Phenytoin decreases serum amiodarone levels.
 Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
 Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
 Quinidine and procainamide doses should be reduced by one-third when either is administered with amiodarone.

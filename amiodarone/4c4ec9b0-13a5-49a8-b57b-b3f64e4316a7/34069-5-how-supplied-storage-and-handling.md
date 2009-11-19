@@ -15,5 +15,5 @@ Protect from light.
 
 Dispense in a tight, light-resistant container with a child-resistant closure.
 
-|  | This Medication Guide may have been revised after this copy was produced. For more information and the most current Medication Guide, please visit www.pacerone.com or www.upsher-smith.com or call our professional services department toll-free at 1-800-654-2299. |  |
+|  | This product’s label may have been revised after this insert was used in production. For further information and current package insert please visit www.pacerone.com or www.upsher-smith.com or call our professional services department toll-free at 1-800-654-2299. |  |
 | --- | --- | --- |
