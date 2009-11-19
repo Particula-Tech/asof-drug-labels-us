@@ -67,6 +67,12 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Other | 0 | 0 | 0.7 |
 | Sandimmune® (cyclosporine) was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
+Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
+Both generalized and localized infections can occur.
+Pre-existing infections may also be aggravated.
+Fatal outcomes have been reported.
+(see Warnings)
+
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
 |  | Sandimmune® Treatment | Standard Treatment* |

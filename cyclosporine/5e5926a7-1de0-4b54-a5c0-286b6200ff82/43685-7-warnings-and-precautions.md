@@ -82,6 +82,8 @@ As in patients receiving other immunosuppressants, those patients receiving Sand
 The increased risk appears related to the intensity and duration of immunosuppression rather than to the use of specific agents.
 Because of the danger of oversuppression of the immune system, which can also increase susceptibility to infection, Sandimmune® (cyclosporine) should not be administered with other immunosuppressive agents except adrenal corticosteroids.
 The efficacy and safety of cyclosporine in combination with other immunosuppressive agents have not been determined.
+Some malignancies may be fatal.
+Transplant patients receiving cyclosporine are at increased risk for serious infection with fatal outcome.
 
 ## Latent Viral Infections
 
@@ -168,10 +170,10 @@ Drugs That May Potentiate Renal Dysfunction
 
 ### Drugs That Alter Cyclosporine Concentrations
 
+Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
+Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Cyclosporine is extensively metabolized by cytochrome P-450 3A.
-Substances that inhibit this enzyme could decrease metabolism and increase cyclosporine concentrations.
-Substances that are inducers of cytochrome P-450 activity could increase metabolism and decrease cyclosporine concentrations.
+Cyclosporine is extensively metabolized by cytochrome P-450 3A..
 Monitoring of circulating cyclosporine concentrations and appropriate Sandimmune® (cyclosporine) dosage adjustment are essential when these drugs are used concomitantly.
 (See Blood Level Monitoring.)
 
@@ -182,10 +184,11 @@ Drugs That Increase Cyclosporine Concentrations
 | diltiazem | fluconazole | azithromycin | methylprednisolone | allopurinol |
 | nicardipine | itraconazole | clarithromycin |  | amiodarone |
 | verapamil | ketoconazole | erythromycin |  | bromocriptine |
-|  |  | quinupristin/ dalfopristin |  | colchicine |
+|  | voriconazole | quinupristin/ dalfopristin |  | colchicine |
 |  |  |  |  | danazol |
 |  |  |  |  | imatinib |
 |  |  |  |  | metoclopramide |
+|  |  |  |  | nefazodone |
 |  |  |  |  | oral contraceptives |
 
 The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
@@ -197,8 +200,9 @@ Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
 | Antibiotics | Anticonvulsants | Other Drugs / Dietary Supplements |  |
 | --- | --- | --- | --- |
-| nafcillin | carbamazepine | octreotide | St. John’s Wort |
-| rifampin | phenobarbital | orlistat |  |
+| nafcillin | carbamazepine | bosentan | St. John’s Wort |
+| rifampin | oxcarbazepine | octreotide |  |
+|  | phenobarbital | orlistat |  |
 |  | phenytoin | sulfinpyrazone |  |
 |  |  | terbinafine |  |
 |  |  | ticlopidine |  |
@@ -227,7 +231,9 @@ Cyclosporine concentrations do not appear to have been altered (N=6).
 
 ### Other Drug Interactions
 
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone and HMG-CoA reductase inhibitors (statins).
+Cyclosporine is an inhibitor of CYP3A4 and of the multidrug efflux transporter P-glycoprotein and may increase plasma concentrations of comedications that are substrates of CYP3A4 or P-glycoprotein or both.
+
+Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins) and etoposide.
 Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin.
 There are also reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
 If digoxin or colchicine are used concurrently with cyclosporine, close clinical observation is required in order to enable early detection of toxic manifestations of digoxin or colchicine, followed by reduction of dosage and its withdrawal.
@@ -238,6 +244,10 @@ Statin therapy needs to be temporarily withheld or discontinued in patients with
 Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur.
 Caution is also required when cyclosporine is coadministered with potassium-sparing drugs (e.g., angiotensin-converting enzyme inhibitors, angiotensin II receptor antagonists), potassium-containing drugs as well as in patients on a potassium-rich diet.
 Control of potassium levels in these situations is advisable.
+
+Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
+In 12 healthy male subjects who received two doses of 100mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25mg repaglinide tablet (one half of a 0.5mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
+Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
 Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
 This effect is often reversible with cyclosporine dose reduction.
