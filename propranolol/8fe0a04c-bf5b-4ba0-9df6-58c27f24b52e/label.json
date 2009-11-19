@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070690",
+    "ANDA070979"
+  ],
   "inn": "propranolol",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-3727-63",
     "0054-3730-63"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "propranolol hydrochloride",
+      "name": "Propranolol Hydrochloride"
+    }
+  ],
   "setid": "8fe0a04c-bf5b-4ba0-9df6-58c27f24b52e",
   "source": "dailymed"
 }
