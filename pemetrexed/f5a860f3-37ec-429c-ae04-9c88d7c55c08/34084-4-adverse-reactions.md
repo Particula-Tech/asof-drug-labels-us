@@ -74,11 +74,11 @@ Table 5 provides the frequency and severity of adverse reactions that have been 
 All patients received study therapy immediately following 4 cycles of platinum-based treatment for locally advanced or metastatic NSCLC.
 Patients in both study arms were fully supplemented with folic acid and vitamin B12.
 
-Table 5: Adverse Reactions in Patients Receiving ALIMTA versus Placebo in NSCLC a
+Table 5: Adverse Reactions in Patients Receiving ALIMTA versus Placebo in NSCLCa
 
 |  | ALIMTA (N=438) |  | Placebo (N=218) |  |
 | --- | --- | --- | --- | --- |
-| Reaction b | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) |
+| Reactionb | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) | All Grades Toxicity (%) | Grade 3-4 Toxicity (%) |
 | All Adverse Reactions | 66 | 16 | 37 | 4 |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
@@ -134,7 +134,7 @@ Incidence Less than 1%
 
 Non-Small Cell Lung Cancer (NSCLC) – After Prior Chemotherapy
 
-Table 6 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B 12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
+Table 6 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
 All patients were diagnosed with locally advanced or metastatic NSCLC and received prior chemotherapy.
 
 Table 6: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA versus Docetaxel in NSCLCa

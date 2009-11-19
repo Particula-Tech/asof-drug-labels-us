@@ -20,11 +20,3 @@ Patients should be instructed to contact their physician if persistent vomiting,
 ## 17.4 Concomitant Medications
 
 Patients should be instructed to inform the physician if they are taking any concomitant prescription or over-the-counter medications including those for pain or inflammation such as non-steroidal anti-inflammatory drugs [see Drug Interactions (7.1)].
-
-Literature revised July 2, 2009
-
-Eli Lilly and Company Indianapolis, IN 46285, USA
-
-| Copyright © 2004, 2009, Eli Lilly and Company. All rights reserved. |  |
-| --- | --- |
-| PV 5206 AMP |  |

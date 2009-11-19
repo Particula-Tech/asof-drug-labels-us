@@ -223,7 +223,7 @@ This difference in treatment effect for ALIMTA based on histology demonstrating 
 
 Table 17: Second Line Therapy: Overall Survival of ALIMTA versus Docetaxel in NSCLC by Histologic Subgroups
 
-| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR) a,b (95% CI) | Adjusted Hazard Ratio (HR) a,b,c (95% CI) |
+| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR) a,b,c (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |
 | ALIMTA |  | Docetaxel |  |  |  |  |
 | Nonsquamous NSCLC d (N=399) | 9.3 (7.8-9.7) | N=205 | 8.0 (6.3-9.3) | N=194 | 0.89 (0.71-1.13) | 0.78 (0.61-1.00) |
@@ -240,9 +240,9 @@ Table 17: Second Line Therapy: Overall Survival of ALIMTA versus Docetaxel in NS
 ## 14.4 Malignant Pleural Mesothelioma
 
 A multi-center, randomized, single-blind study in 448 chemonaive patients with malignant pleural mesothelioma (MPM) compared survival in patients treated with ALIMTA in combination with cisplatin to survival in patients receiving cisplatin alone.
-ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m 2 and cisplatin was administered intravenously over 2 hours at a dose of 75 mg/m 2 beginning approximately 30 minutes after the end of administration of ALIMTA.
+ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 and cisplatin was administered intravenously over 2 hours at a dose of 75 mg/m2 beginning approximately 30 minutes after the end of administration of ALIMTA.
 Both drugs were given on Day 1 of each 21-day cycle.
-After 117 patients were treated, white cell and GI toxicity led to a change in protocol whereby all patients were given folic acid and vitamin B 12 supplementation.
+After 117 patients were treated, white cell and GI toxicity led to a change in protocol whereby all patients were given folic acid and vitamin B12 supplementation.
 
 The primary analysis of this study was performed on the population of all patients randomly assigned to treatment who received study drug (randomized and treated).
 An analysis was also performed on patients who received folic acid and vitamin B 12 supplementation during the entire course of study therapy (fully supplemented), as supplementation is recommended [see Dosage and Administration (2.3)].
