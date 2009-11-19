@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019854"
+  ],
+  "inn": "penicillamine",
+  "labeler": "Meda Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0037-4401-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "penicillamine",
+      "name": "Depen"
+    }
+  ],
+  "setid": "38f8ae60-b354-11de-8a39-0800200c9a66",
+  "source": "dailymed"
+}
