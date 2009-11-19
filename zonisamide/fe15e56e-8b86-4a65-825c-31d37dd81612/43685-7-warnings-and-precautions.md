@@ -49,6 +49,42 @@ Caution should be used when zonisamide is prescribed with other drugs that predi
 
 The practitioner should be aware that the safety and effectiveness of zonisamide in pediatric patients have not been established, and that zonisamide is not approved for use in pediatric patients.
 
+## Suicidal Behavior and Ideation
+
+Antiepileptic drugs (AEDs), including zonisamide, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled, clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% Cl: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 3: Risk by indication for antiepileptic drugs in the pooled analysis
+
+| Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| --- | --- | --- | --- | --- |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing zonisamide or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thought, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Events subsection below).
+
 ## Seizures on Withdrawal:
 
 As with other AEDs, abrupt withdrawal of zonisamide in patients with epilepsy may precipitate increased seizure frequency or status epilepticus.
@@ -68,7 +104,7 @@ Zonisamide should be used during pregnancy only if the potential benefit justifi
 Use of zonisamide was frequently associated with central nervous system-related adverse events.
 The most significant of these can be classified into three general categories: 1) psychiatric symptoms, including depression and psychosis, 2) psychomotor slowing, difficulty with concentration, and speech or language problems, in particular, word-finding difficulties, and 3) somnolence or fatigue.
 
-In placebo-controlled trials, 2.2% of patients discontinued zonisamide or were hospitalized for depression compared to 0.4% of placebo patients, while 1.1% of zonisamide and 0.4% of placebo patients attempted suicide.
+In placebo-controlled trials, 2.2% of patients discontinued zonisamide or were hospitalized for depression compared to 0.4% of placebo patients.
 Among all epilepsy patients treated with zonisamide, 1.4% were discontinued and 1.0% were hospitalized because of reported depression or suicide attempts.
 In placebo-controlled trials, 2.2% of patients discontinued zonisamide or were hospitalized due to psychosis or psychosis-related symptoms compared to none of the placebo patients.
 Among all epilepsy patients treated with zonisamide, 0.9% were discontinued and 1.4% were hospitalized because of reported psychosis or related symptoms.
@@ -128,6 +164,9 @@ Among patients treated with zonisamide across all epilepsy studies (controlled a
 
 ## Information for patients
 
+Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking zonisamide.
+Patients should be instructed to take zonisamide only as prescribed.
+
 Patients should be advised as follows:
 
 1. Zonisamide may produce drowsiness, especially at higher doses.
@@ -137,8 +176,14 @@ Patients should be advised as follows:
    Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
 4. Patients should contact their physician immediately if a child has been taking zonisamide and is not sweating as usual with or without a fever.
 5. Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
-6. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during zonisamide therapy.
+6. Suicidal Thinking and Behavior – Patients, their caregivers, and families should be counseled that AEDs, including zonisamide, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+   Behaviors of concern should be reported immediately to healthcare providers.
+7. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during zonisamide therapy.
    Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant.
+   Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+   This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+   To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
+8. Patients should contact their physician immediately if they develop severe muscle pain and/or weakness.
 
 ## Laboratory tests
 
@@ -210,6 +255,10 @@ The no effect level of 30 mg/kg/day is approximately 0.7 times the MRHD on a mg/
 
 There are no adequate and well-controlled studies in pregnant women.
 Zonisamide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+To provide information regarding the effects of in utero exposure to zonisamide, physicians are advised to recommend that pregnant patients taking zonisamide enroll in the NAAED Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## Labor and delivery
 

@@ -11,7 +11,7 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-March 2008
+November 2009
 
 Manufactured by:
 
@@ -24,4 +24,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-March 2008
+November 2009

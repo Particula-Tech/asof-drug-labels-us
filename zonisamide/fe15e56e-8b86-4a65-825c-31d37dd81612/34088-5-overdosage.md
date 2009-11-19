@@ -14,6 +14,6 @@ Following a suspected recent overdose, emesis should be induced or gastric lavag
 General supportive care is indicated, including frequent monitoring of vital signs and close observation.
 
 Zonisamide has a long half-life (see CLINICAL PHARMACOLOGY section).
-Due to the low protein binding of zonisamide (40%), renal dialysis may not be effective.
+Due to the low protein binding of zonisamide (40%), renal dialysis may be effective.
 The effectiveness of renal dialysis as a treatment of overdose has not been formally studied.
 A poison control center should be contacted for information on the management of zonisamide overdosage.

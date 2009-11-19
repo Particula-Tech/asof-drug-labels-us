@@ -2,7 +2,7 @@
 
 Zonisamide capsules are recommended as adjunctive therapy for the treatment of partial seizures in adults.
 Safety and efficacy in pediatric patients below the age of 16 have not been established.
-Zonisamide capsules should be administered once or twice daily, using 25 mg, 50 mg or 100 mg capsules.
+Zonisamide capsules should be administered once or twice daily, using 25 mg or 100 mg capsules.
 Zonisamide capsules are given orally and can be taken with or without food.
 Capsules should be swallowed whole.
 
