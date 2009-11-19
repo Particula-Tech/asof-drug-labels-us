@@ -11,7 +11,7 @@ The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD
 ### Absorption
 
 Dexmethylphenidate hydrochloride is readily absorbed following oral administration of Focalin.
-In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 11/2 hours post-dose.
+In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1½ hours post-dose.
 No differences in the pharmacokinetics of Focalin were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 
 When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and AUC0-inf of dexmethylphenidate were proportional to dose.

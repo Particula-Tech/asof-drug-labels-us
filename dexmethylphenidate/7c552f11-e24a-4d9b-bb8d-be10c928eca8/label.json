@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021278"
+  ],
   "inn": "dexmethylphenidate",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0078-0381-05",
     "0078-0382-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Focalin"
+    }
+  ],
   "setid": "7c552f11-e24a-4d9b-bb8d-be10c928eca8",
   "source": "dailymed"
 }

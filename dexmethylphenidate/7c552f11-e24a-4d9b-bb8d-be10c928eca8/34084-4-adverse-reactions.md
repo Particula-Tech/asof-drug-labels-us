@@ -29,7 +29,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
-Table 1 Treatment-Emergent Adverse Events1 Occurring During Double-BlindTreatment in Clinical Trials of Focalin®
+Table 1 Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment in Clinical Trials of Focalin®
 
 | Body System | Preferred Term | Focalin (n=79) | Placebo (n=82) |
 | --- | --- | --- | --- |

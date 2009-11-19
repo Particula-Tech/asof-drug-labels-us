@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 FOCALIN®
 
@@ -122,11 +122,12 @@ Active Ingredient: dexmethylphenidate hydrochloride
 
 Inactive Ingredients: pregelatinized starch, lactose monohydrate, sodium starch glycolate, microcrystalline cellulose, magnesium stearate, and FD&C Blue No.1 #5516 aluminum lake (2.5 mg tablets), D&C Yellow Lake #10 (5 mg tablets); the 10 mg tablet contains no dye.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: APRIL 2007 T2007-39
-
-REV: APRIL 2007 Printed in U.S.A. T2007-21/T2007-39
+REV: APRIL 2009 T2009-25/T2009-26
 
 Manufactured for:
 
@@ -139,3 +140,5 @@ By:
 Mikart, Inc.
 
 Atlanta, GA 30318
+
+© Novartis
