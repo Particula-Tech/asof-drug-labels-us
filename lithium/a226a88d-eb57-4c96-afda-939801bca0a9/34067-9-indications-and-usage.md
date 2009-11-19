@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS
 
 Lithium Carbonate Extended Release Tablets USP are indicated in the treatment of manic episodes of manic-depressive illness.
 Maintenance therapy prevents or diminishes the intensity of subsequent episodes in those manic-depressive patients with a history of mania.

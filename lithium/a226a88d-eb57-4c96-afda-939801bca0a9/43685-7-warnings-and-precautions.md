@@ -86,7 +86,7 @@ In a study conducted in healthy subjects, mean steady-state lithium plasma level
 Concurrent use of metronidazole with lithium may provoke lithium toxicity due to reduced renal clearance.
 Patients receiving such combined therapy should be monitored closely.
 
-There is evidence that angiotensin-converting enzyme inhibitors, such as enalapril and captopril, may substantially increase steady-state plasma lithium levels, sometimes resulting in lithium toxicity.
+There is evidence that angiotensin-converting enzyme inhibitors, such as enalapril and captopril, and angiotension II receptor antagonists, such as losartan, may substantially increase steady-state plasma lithium levels, sometimes resulting in lithium toxicity.
 When such combinations are used, lithium dosage may need to be decreased, and plasma lithium levels should be measured more often.
 
 Concurrent use of calcium channel blocking agents with lithium may increase the risk of neurotoxicity in the form of ataxia, tremors, nausea, vomiting, diarrhea and/or tinnitus.
