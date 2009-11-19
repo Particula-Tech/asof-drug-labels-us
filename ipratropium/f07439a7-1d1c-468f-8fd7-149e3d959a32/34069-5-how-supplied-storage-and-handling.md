@@ -18,4 +18,4 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 ©Copyright Boehringer Ingelheim International GmbH 2007, ALL RIGHTS RESERVED
 
-Rev: December 2007 IT4000BL0507 10001900/US/4 10001900/04
+Rev: December 2007 IT4000BL0507 10001900/04

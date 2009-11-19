@@ -22,7 +22,7 @@ Patients should be reminded to carefully read and follow the accompanying Patien
 ## Drug Interactions
 
 No controlled clinical trials were conducted to investigate potential drug-drug interactions.
-ATROVENT Nasal Spray 0.03% is minimally absorbed into the systemic circulation; nonetheless, there is some potential for an additive interaction with other concomitantly administered medications with antichloinergic properties including ATROVENT for oral inhalation.
+ATROVENT Nasal Spray 0.03% is minimally absorbed into the systemic circulation; nonetheless, there is some potential for an additive interaction with other concomitantly administered medications with anticholinergic properties, including ATROVENT for oral inhalation.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

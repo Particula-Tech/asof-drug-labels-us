@@ -9,7 +9,7 @@ The majority (>86%) of patients treated for one year were maintained on 42 mcg p
 Table 1 shows adverse events, and the frequency that these adverse events led to the discontinuation of treatment, reported for patients who received ATROVENT Nasal Spray 0.03% at the recommended dose of 42 mcg per nostril, or vehicle two or three times daily for four or eight weeks.
 Only adverse events reported with an incidence of at least 2.0% in the ATROVENT group and higher in the ATROVENT group than in the vehicle group are shown.
 
-Table 1 % of Patients Reporting Events +
+Table 1 % of Patients Reporting Events+
 
 |  | Incidence % | Discontinued % | Incidence % | Discontinued % |
 | --- | --- | --- | --- | --- |
