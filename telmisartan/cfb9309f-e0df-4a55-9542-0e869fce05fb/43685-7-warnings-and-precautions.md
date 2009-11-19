@@ -1,23 +1,23 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Fetal/Neonatal Morbidity and Mortality
+## 5.1 Fetal/Neonatal Morbidity and Mortality
 
 Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature in patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, MICARDIS tablets should be discontinued as soon as possible.
+When pregnancy is detected, discontinue MICARDIS tablets as soon as possible [see Boxed Warning].
 
 The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to exposure to the drug.
+Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were related to exposure to the drug.
 
 These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of MICARDIS tablets as soon as possible.
+Inform mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester that most reports of fetal toxicity have been associated with second and third trimester exposure.
+Nonetheless, when patients become pregnant or are considering pregnancy, have the patient discontinue the use of MICARDIS tablets as soon as possible.
 
 Rarely (probably less often than once in every thousand pregnancies), no alternative to an angiotensin II receptor antagonist will be found.
 In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
 
-If oligohydramnios is observed, MICARDIS tablets should be discontinued unless they are considered life-saving for the mother.
+If oligohydramnios is observed, MICARDIS should be discontinued unless they are considered life-saving for the mother.
 Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
@@ -25,96 +25,38 @@ Infants with histories of in utero exposure to an angiotensin II receptor antago
 If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
 Exchange transfusion or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
-There is no clinical experience with the use of MICARDIS tablets in pregnant women.
-No teratogenic effects were observed when telmisartan was administered to pregnant rats at oral doses of up to 50 mg/kg/day and to pregnant rabbits at oral doses up to 45 mg/kg/day.
-In rabbits, embryolethality associated with maternal toxicity (reduced body weight gain and food consumption) was observed at 45 mg/kg/day [about 12 times the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis].
-In rats, maternally toxic (reduction in body weight gain and food consumption) telmisartan doses of 15 mg/kg/day (about 1.9 times the MRHD on a mg/m2 basis), administered during late gestation and lactation, were observed to produce adverse effects in neonates, including reduced viability, low birth weight, delayed maturation, and decreased weight gain.
-Telmisartan has been shown to be present in rat fetuses during late gestation and in rat milk.
-The no observed effect doses for developmental toxicity in rats and rabbits, 5 and 15 mg/kg/day, respectively, are about 0.64 and 3.7 times, on a mg/m2 basis, the maximum recommended human dose of telmisartan (80 mg/day).
+## 5.2 Hypotension
 
-## Hypotension in Volume-Depleted Patients
-
-In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with Micardis® (telmisartan) tablets.
-This condition should be corrected prior to administration of MICARDIS tablets, or treatment should start under close medical supervision with a reduced dose.
+In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with MICARDIS.
+Either correct this condition prior to administration of MICARDIS, or start treatment under close medical supervision with a reduced dose.
 
 If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
-# PRECAUTIONS
+## 5.3 Hyperkalemia
 
-## General
+Hyperkalemia may occur in patients on ARBs, particularly in patients with advanced renal impairment, heart failure, on renal replacement therapy, or on potassium supplements, potassium-sparing diuretics, potassium-containing salt substitutes or other drugs that increase potassium levels.
+Consider periodic determinations of serum electrolytes to detect possible electrolyte imbalances, particularly in patients at risk.
 
-Impaired Hepatic Function: As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance.
-MICARDIS tablets should be used with caution in these patients.
+## 5.4 Impaired Hepatic Function
 
-Impaired Renal Function: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar results may be anticipated in patients treated with MICARDIS tablets.
+As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance.
+Initiate telmisartan at low doses and titrate slowly in these patients [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+## 5.5 Impaired Renal Function
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, anticipate changes in renal function in susceptible individuals.
+In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure or renal dysfunction), treatment with angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
+Similar results have been reported with MICARDIS [see Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed.
-There has been no long term use of MICARDIS tablets in patients with unilateral or bilateral renal artery stenosis but an effect similar to that seen with ACE inhibitors should be anticipated.
+There has been no long term use of MICARDIS in patients with unilateral or bilateral renal artery stenosis, but anticipate an effect similar to that seen with ACE inhibitors.
 
-Dual Blockade of the Renin-angiotensin-aldosterone System: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported.
+## 5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported.
 Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should include close monitoring of renal function.
 
-The ONTARGET trial enrolled 25,620 patients >55 years old with atherosclerotic disease or diabetes with end-organ damage, randomized them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months.
-Patients receiving the combination of telmisartan and ramipril did not obtain any additional benefit on the composite endpoint of cardiovascular death, myocardial infarction, stroke and heart failure hospitalization compared to monotherapy, but experienced an increased incidence of clinically important renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
-
-Co-administration of telmisartan and ramipril increases the exposure to both ramipril and ramiprilat by a factor of about 2 (see PRECAUTIONS, Drug Interactions).
-
-Concomitant use of telmisartan and ramipril is not recommended.
-
-## Information for Patients
-
-Pregnancy: Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
-
-## Drug Interactions
-
-Digoxin: When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
-It is, therefore, recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing telmisartan to avoid possible over- or under-digitalization.
-
-Lithium: Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
-Cases have also been reported with angiotensin II receptor antagonists including Micardis® (telmisartan) tablets.
-Therefore, serum lithium level monitoring is advisable during concomitant use.
-
-Ramipril and Ramiprilat:Co-administration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3 and 2.1 fold, respectively, and Cmax and AUC of ramiprilat 2.4 and 1.5 fold, respectively.
-In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively.
-When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan.
-
-Warfarin: Telmisartan administered for 10 days slightly decreased the mean warfarin trough plasma concentration; this decrease did not result in a change in International Normalized Ratio (INR).
-
-Other Drugs: Co-administration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glibenclamide, simvastatin, hydrochlorothiazide or ibuprofen.
-Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19.
-Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes; it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-There was no evidence of carcinogenicity when telmisartan was administered in the diet to mice and rats for up to 2 years.
-The highest doses administered to mice (1000 mg/kg/day) and rats (100 mg/kg/day) are, on a mg/m2 basis, about 59 and 13 times, respectively, the maximum recommended human dose (MRHD) of telmisartan.
-These same doses have been shown to provide average systemic exposures to telmisartan >100 times and >25 times, respectively, the systemic exposure in humans receiving the MRHD (80 mg/day).
-
-Genotoxicity assays did not reveal any telmisartan-related effects at either the gene or chromosome level.
-These assays included bacterial mutagenicity tests with Salmonella and E. coli (Ames), a gene mutation test with Chinese hamster V79 cells, a cytogenetic test with human lymphocytes, and a mouse micronucleus test.
-
-No drug-related effects on the reproductive performance of male and female rats were noted at 100 mg/kg/day (the highest dose administered), about 13 times, on a mg/m2 basis, the MRHD of telmisartan.
-This dose in the rat resulted in an average systemic exposure (telmisartan AUC as determined on day 6 of pregnancy) at least 50 times the average systemic exposure in humans at the MRHD (80 mg/day).
-
-## Pregnancy
-
-Pregnancy Categories C (first trimester) and D (second and third trimesters).
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
-## Nursing Mothers
-
-It is not known whether telmisartan is excreted in human milk, but telmisartan was shown to be present in the milk of lactating rats.
-Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have not been established.
-
-## Geriatric Use
-
-Of the total number of patients receiving Micardis® (telmisartan) tablets in clinical studies, 551 (18.6%) were 65 to 74 years of age and 130 (4.4%) were 75 years or older.
-No overall differences in effectiveness and safety were observed in these patients compared to younger patients and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+The ONTARGET trial enrolled 25,620 patients ≥55 years old with atherosclerotic disease or diabetes with end-organ damage, randomizing them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months.
+Patients receiving the combination of MICARDIS and ramipril did not obtain any additional benefit compared to monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
+Concomitant use of MICARDIS and ramipril is not recommended.
