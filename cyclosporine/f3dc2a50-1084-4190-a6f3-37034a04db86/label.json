@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA065078"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "IVAX Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0172-7313-20"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cyclosporine",
+      "name": "Cyclosporine"
+    }
+  ],
+  "setid": "f3dc2a50-1084-4190-a6f3-37034a04db86",
+  "source": "dailymed"
+}
