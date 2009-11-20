@@ -10,8 +10,7 @@ MEPHYTON Summary of Dosage Guidelines (See circular text for details)
 ## Anticoagulant-Induced Prothrombin Deficiency in Adults
 
 To correct excessively prolonged prothrombin times caused by oral anticoagulant therapy – 2.5 to 10 mg or up to 25 mg initially is recommended.
-In rare instances 50 mg may be required.
-Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition.
+In rare instances 50 mg may be required, Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition.
 (See WARNINGS.)
 If, in 12 to 48 hours after oral administration, the prothrombin time has not been shortened satisfactorily, the dose should be repeated.
 

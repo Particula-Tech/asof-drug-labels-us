@@ -5,6 +5,7 @@ An immediate coagulant effect should not be expected after administration of phy
 Phytonadione will not counteract the anticoagulant action of heparin.
 
 When vitamin K1 is used to correct excessive anticoagulant-induced hypoprothrombinemia, anticoagulant therapy still being indicated, the patient is again faced with the clotting hazards existing prior to starting the anticoagulant therapy.
+
 Phytonadione is not a clotting agent, but overzealous therapy with vitamin K1 may restore conditions which originally permitted thromboembolic phenomena.
 Dosage should be kept as low as possible, and prothrombin time should be checked regularly as clinical conditions indicate.
 
@@ -55,4 +56,4 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Clinical studies of MEPHYTON did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.

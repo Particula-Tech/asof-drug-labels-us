@@ -7,5 +7,5 @@ It has a molecular weight of 450.70.
 Phytonadione is 2-methyl-3-phytyl-1, 4-naphthoquinone.
 Its empirical formula is C31H46O2 and its structural formula is:
 
-MEPHYTONRegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2007 ATON PHARMA, INC. All rights reserved (Phytonadione) tablets containing 5 mg of phytonadione are yellow, compressed tablets, scored on one side.
+MEPHYTONRegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2008 ATON PHARMA, INC. All rights reserved (Phytonadione) tablets containing 5 mg of phytonadione are yellow, compressed tablets, scored on one side.
 Inactive ingredients are acacia, calcium phosphate, colloidal silicon dioxide, lactose, magnesium stearate, starch, and talc.

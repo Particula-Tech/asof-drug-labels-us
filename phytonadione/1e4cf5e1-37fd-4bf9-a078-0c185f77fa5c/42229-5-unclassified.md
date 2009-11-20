@@ -1,9 +1,7 @@
-Vitamin K1
-
 Distributed by: ATON PHARMA Lawrenceville NJ 08648 USA
 
-Manufactured by: Merck and Co., Inc. West Point, PA 19486 USA
+Manufactured by: Draxis Specialty Pharmaceuticals, Inc. Kirkland, Quebec H9H 4J4
 
-Issued May 2007
+Issued January 2008
 
-201300
+201290

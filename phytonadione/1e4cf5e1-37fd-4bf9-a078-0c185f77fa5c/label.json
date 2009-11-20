@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA010104"
+  ],
   "inn": "phytonadione",
   "labeler": "Aton Pharma, Inc.",
   "package_ndcs": [
     "25010-405-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phytonadione",
+      "name": "Mephyton"
+    }
+  ],
   "setid": "1e4cf5e1-37fd-4bf9-a078-0c185f77fa5c",
   "source": "dailymed"
 }
