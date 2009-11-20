@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+Pregnancy Category B
 
 There are no adequate and well controlled studies of atazanavir use during pregnancy.
 Cases of lactic acidosis syndrome and symptomatic hyperlactatemia have occurred in pregnant women using REYATAZ in combination with nucleoside analogues.

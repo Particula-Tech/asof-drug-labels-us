@@ -6,28 +6,29 @@ Study AI424-138: a 96-week study comparing the antiviral efficacy and safety of 
 Study AI424-138 is a 96-week open-label, randomized, multicenter study, comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to lopinavir with ritonavir (400/100 mg twice daily), each in combination with fixed-dose tenofovir with emtricitabine (300/200 mg once daily), in 878 antiretroviral treatment-naive treated patients.
 Patients had a mean age of 36 years (range: 19–72), 49% were Caucasian, 18% Black, 9% Asian, 23% Hispanic/Mestizo/mixed race, and 68% were male.
 The median baseline plasma CD4+ cell count was 204 cells/mm3 (range: 2 to 810 cells/mm3) and the mean baseline plasma HIV-1 RNA level was 4.94 log10 copies/mL (range: 2.60 to 5.88 log10 copies/mL).
-Treatment response and outcomes through Week 48 are presented in Table 21.
+Treatment response and outcomes through Week 96 are presented in Table 21.
 
-Table 21: Outcomes of Treatment Through Week 48 (Study AI424-138)
+Table 21: Outcomes of Treatment Through Week 96 (Study AI424-138)
 
-| (n=441) | (n=437) |  |
+| 96 Weeks | 96 Weeks |  |
 | --- | --- | --- |
-| Outcome | REYATAZ 300 mg + ritonavir 100 mg (once daily) with tenofovir/emtricitabine (once daily)a | lopinavir 400 mg + ritonavir 100 mg (twice daily) with tenofovir/emtricitabine (once daily)a |
-| Responderb,c | 78% | 77% |
-| Virologic failured | 12% | 10% |
-| Rebound | 4% | 4% |
-| Never suppressed through Week 48 | 9% | 6% |
-| Death | 1% | <1% |
-| Discontinued due to adverse event | 2% | 3% |
-| Discontinued for other reasonse | 6% | 9% |
+| Outcome | REYATAZ 300 mg + ritonavir 100 mg (once daily) with tenofovir/emtricitabine (once daily)a (n=441) | lopinavir 400 mg + ritonavir 100 mg (twice daily) with tenofovir/emtricitabine (once daily)a (n=437) |
+| Responderb,c,d | 75% | 68% |
+| Virologic failuree | 17% | 19% |
+| Rebound | 8% | 10% |
+| Never suppressed through Week 96 | 9% | 9% |
+| Death | 1% | 1% |
+| Discontinued due to adverse event | 3% | 5% |
+| Discontinued for other reasonsf | 4% | 7% |
 | a As a fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |
-| b Patients achieved confirmed HIV RNA <50 copies/mL at Week 48. Roche Amplicor®, v1.5 ultra-sensitive assay. |  |  |
-| c Pre-specified ITT analysis using as-randomized cohort: ATV/RTV 78% and LPV/RTV 76% [difference estimate: 1.7 (95% confidence interval: −3.8, 7.1)]. |  |  |
-| d Includes viral rebound and failure to achieve confirmed HIV RNA <50 copies/mL through Week 48. |  |  |
-| e Includes lost to follow-up, patient’s withdrawal, noncompliance, protocol violation, and other reasons. |  |  |
+| b Patients achieved HIV RNA <50 copies/mL at Week 96. Roche Amplicor®, v1.5 ultra-sensitive assay. |  |  |
+| c Pre-specified ITT analysis at Week 48 using as-randomized cohort: ATV/RTV 78% and LPV/RTV 76% [difference estimate: 1.7% (95% confidence interval: −3.8%, 7.1%)]. |  |  |
+| d Pre-specified ITT analysis at Week 96 using as-randomized cohort: ATV/RTV 74% and LPV/RTV 68% [difference estimate: 6.1% (95% confidence interval: 0.3%, 12.0%)]. |  |  |
+| e Includes viral rebound and failure to achieve confirmed HIV RNA <50 copies/mL through Week 96. |  |  |
+| f Includes lost to follow-up, patient’s withdrawal, noncompliance, protocol violation, and other reasons. |  |  |
 
-Through 48 weeks of therapy, the proportion of responders among patients with high viral loads (ie, baseline HIV RNA ≥100,000 copies/mL) was comparable for the REYATAZ/ritonavir (164 of 223 patients, 74%) and lopinavir/ritonavir (161 of 222 patients, 73%) arms.
-The median increase from baseline in CD4+ cell count was 191 cells/mm3 for the REYATAZ/ritonavir arm and 200 cells/mm3 for the lopinavir/ritonavir arm.
+Through 96 weeks of therapy the proportion of responders among patients with high viral loads (ie, baseline HIV RNA ≥100,000 copies/mL) was comparable for the REYATAZ/ritonavir (165 of 223 patients, 74%) and lopinavir/ritonavir (148 of 222 patients, 67%) arms.
+At 96 weeks the median increase from baseline in CD4+ cell count was 261 cells/mm3 for the REYATAZ/ritonavir arm and 273 cells/mm3 for the lopinavir/ritonavir arm.
 
 Study AI424-034: REYATAZ once daily compared to efavirenz once daily, each in combination with fixed-dose lamivudine + zidovudine twice daily.
 Study AI424-034 was a randomized, double-blind, multicenter trial comparing REYATAZ (400 mg once daily) to efavirenz (600 mg once daily), each in combination with a fixed-dose combination of lamivudine (3TC) (150 mg) and zidovudine (ZDV) (300 mg) given twice daily, in 810 antiretroviral treatment-naive patients.
@@ -129,5 +130,5 @@ In this study, 182 patients (83 antiretroviral-naive and 99 antiretroviral-exper
 
 Ninety-nine patients (6 to less than 18 years of age) treated with the REYATAZ capsule formulation, with or without ritonavir, were evaluated.
 In this cohort, the overall proportions of antiretroviral-naive and -experienced patients with HIV RNA <400 copies/mL at week 24 were 68% (28/41) and 33% (19/58), respectively.
-The overall proportions of antiretroviral-naive and experienced patients with HIV RNA <50 copies/mL at week 24 were 59% (24/41) and 24% (14/58), respectively.
+The overall proportions of antiretroviral-naive and -experienced patients with HIV RNA <50 copies/mL at week 24 were 59% (24/41) and 24% (14/58), respectively.
 The median increase from baseline in absolute CD4 count at 20 weeks of therapy was 171 cells/mm3 in antiretroviral-naive patients and 116 cells/mm3 in antiretroviral-experienced patients.

@@ -6,7 +6,7 @@ Atazanavir is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-### Effects on Electrocardiogram
+Effects on Electrocardiogram
 
 Concentration- and dose-dependent prolongation of the PR interval in the electrocardiogram has been observed in healthy volunteers receiving atazanavir.
 In a placebo-controlled study (AI424-076), the mean (±SD) maximum change in PR interval from the predose value was 24 (±15) msec following oral dosing with 400 mg of atazanavir (n=65) compared to 13 (±11) msec following dosing with placebo (n=67).
@@ -53,13 +53,13 @@ Figure 1 displays the mean plasma concentrations of atazanavir at steady state a
 
 Figure 1: Mean (SD) Steady-State Plasma Concentrations of Atazanavir 400 mg (n=13) and 300 mg with Ritonavir (n=10) for HIV-Infected Adult Patients
 
-### Absorption
+Absorption
 
 Atazanavir is rapidly absorbed with a Tmax of approximately 2.5 hours.
 Atazanavir demonstrates nonlinear pharmacokinetics with greater than dose-proportional increases in AUC and Cmax values over the dose range of 200–800 mg once daily.
 Steady-state is achieved between Days 4 and 8, with an accumulation of approximately 2.3-fold.
 
-### Food Effect
+Food Effect
 
 Administration of REYATAZ with food enhances bioavailability and reduces pharmacokinetic variability.
 Administration of a single 400-mg dose of REYATAZ with a light meal (357 kcal, 8.2 g fat, 10.6 g protein) resulted in a 70% increase in AUC and 57% increase in Cmax relative to the fasting state.
@@ -71,14 +71,14 @@ Coadministration with a high-fat meal (951 kcal, 54.7 g fat, 35.9 g protein) did
 The 24-hour concentration following a high-fat meal was increased by approximately 33% due to delayed absorption; the median Tmax increased from 2.0 to 5.0 hours.
 Coadministration of REYATAZ with ritonavir with either a light or a high-fat meal decreased the coefficient of variation of AUC and Cmax by approximately 25% compared to the fasting state.
 
-### Distribution
+Distribution
 
 Atazanavir is 86% bound to human serum proteins and protein binding is independent of concentration.
 Atazanavir binds to both alpha-1-acid glycoprotein (AAG) and albumin to a similar extent (89% and 86%, respectively).
 In a multiple-dose study in HIV-infected patients dosed with REYATAZ 400 mg once daily with a light meal for 12 weeks, atazanavir was detected in the cerebrospinal fluid and semen.
 The cerebrospinal fluid/plasma ratio for atazanavir (n=4) ranged between 0.0021 and 0.0226 and seminal fluid/plasma ratio (n=5) ranged between 0.11 and 4.42.
 
-### Metabolism
+Metabolism
 
 Atazanavir is extensively metabolized in humans.
 The major biotransformation pathways of atazanavir in humans consisted of monooxygenation and dioxygenation.
@@ -87,15 +87,15 @@ Two minor metabolites of atazanavir in plasma have been characterized.
 Neither metabolite demonstrated in vitro antiviral activity.
 In vitro studies using human liver microsomes suggested that atazanavir is metabolized by CYP3A.
 
-### Elimination
+Elimination
 
 Following a single 400-mg dose of 14C-atazanavir, 79% and 13% of the total radioactivity was recovered in the feces and urine, respectively.
 Unchanged drug accounted for approximately 20% and 7% of the administered dose in the feces and urine, respectively.
 The mean elimination half-life of atazanavir in healthy volunteers (n=214) and HIV-infected adult patients (n=13) was approximately 7 hours at steady state following a dose of 400 mg daily with a light meal.
 
-### Special Populations
+Special Populations
 
-#### Pediatrics
+Pediatrics
 
 The pharmacokinetic data from pediatric patients receiving REYATAZ Capsules with ritonavir based on body surface area are presented in Table 15.
 
@@ -109,16 +109,16 @@ Table 15: Steady-State Pharmacokinetics of Atazanavir with ritonavir in HIV-Infe
 | Median | 200 | 400 |
 | [min-max] | [150–400] | [250–500] |
 | Cmax ng/mL |  |  |
-| Geometric Mean (CV%) | 4451 (33) | 3711 (46) |
-| AUC (ng•h/mL) |  |  |
-| Geometric Mean (CV%) | 42503 (36) | 44970 (34) |
+| Geometric mean (CV%) | 4451 (33) | 3711 (46) |
+| AUC ng•h/mL |  |  |
+| Geometric mean (CV%) | 42503 (36) | 44970 (34) |
 | Cmin ng/mL |  |  |
-| Geometric Mean (CV%) | 535 (62) | 1090 (60) |
+| Geometric mean (CV%) | 535 (62) | 1090 (60) |
 
-### Drug Interaction Data
+Drug Interaction Data
 
 Atazanavir is a metabolism-dependent CYP3A inhibitor, with a Kinact value of 0.05 to 0.06 min-1 and Ki value of 0.84 to 1.0 µM.
-Atazanavir is also a direct inhibitor for UGT1A1 (Ki=1.9µM) and CYP2C8 (Ki=2.1 µM).
+Atazanavir is also a direct inhibitor for UGT1A1 (Ki=1.9 µM) and CYP2C8 (Ki=2.1 µM).
 
 Atazanavir has been shown in vivo not to induce its own metabolism, nor to increase the biotransformation of some drugs metabolized by CYP3A.
 In a multiple-dose study, REYATAZ decreased the urinary ratio of endogenous 6β-OH cortisol to cortisol versus baseline, indicating that CYP3A production was not induced.
@@ -164,7 +164,7 @@ Table 16: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Pr
 | b All drugs were given under fasted conditions. |  |  |  |  |  |
 | c 400 mg ddI EC and REYATAZ were administered together with food on Days 8 and 19. |  |  |  |  |  |
 | d REYATAZ 300 mg plus ritonavir 100 mg once daily coadministered with famotidine 40 mg twice daily resulted in atazanavir geometric mean Cmax that was similar and AUC and Cmin values that were 1.79- and 4.46-fold higher relative to REYATAZ 400 mg once daily alone. |  |  |  |  |  |
-| e Similar results were noted when famotidine 20 mg BID was administered 2 hours afterand 10 hours before atazanavir 300 mg and ritonavir 100 mg plus tenofovir 300 mg. |  |  |  |  |  |
+| e Similar results were noted when famotidine 20 mg BID was administered 2 hours after and 10 hours before atazanavir 300 mg and ritonavir 100 mg plus tenofovir 300 mg. |  |  |  |  |  |
 | f Atazanavir/ritonavir/tenofovir was administered after a light meal. |  |  |  |  |  |
 | g Study was conducted in HIV-infected individuals. |  |  |  |  |  |
 | h Compared with atazanavir 400 mg historical data without nevirapine (n=13), the ratio of geometric means (90% confidence intervals) for Cmax, AUC, and Cmin were 1.42 (0.98, 2.05), 1.64 (1.11, 2.42), and 1.25 (0.66, 2.36), respectively, for atazanavir/ritonavir 300/100 mg; and 2.02 (1.42, 2.87), 2.28 (1.54, 3.38), and 1.80 (0.94, 3.45), respectively, for atazanavir/ritonavir 400/100 mg. |  |  |  |  |  |
@@ -193,10 +193,10 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | ethinyl estradiol & norethindroned | Ortho-Novum® 7/7/7 QD, d 1−29 (n=19) | 400 mg QD, d 16−29 (n=19) | ethinyl estradiol: 1.15 (0.99, 1.32) norethindrone: 1.67 (1.42, 1.96) | ethinyl estradiol: 1.48 (1.31, 1.68) norethindrone: 2.10 (1.68, 2.62) | ethinyl estradiol: 1.91 (1.57, 2.33) norethindrone: 3.62 (2.57, 5.09) |
 | ethinyl estradiol & norgestimatee | Ortho Tri-Cyclen® QD, d 1–28 (n=18), then Ortho Tri-Cyclen® LO QD, d 29–42f (n=14) | 300 mg QD/ritonavir 100 mg QD, d 29–42 (n=14) | ethinyl estradiol: 0.84 (0.74, 0.95) 17-deacetyl norgestimate:g 1.68 (1.51, 1.88) | ethinyl estradiol: 0.81 (0.75, 0.87) 17-deacetyl norgestimate:g 1.85 (1.67, 2.05) | ethinyl estradiol: 0.63 (0.55, 0.71) 17-deacetyl norgestimate:g 2.02 (1.77, 2.31) |
 | fluconazole | 200 mg QD, d 1−10 (n=11) and 200 mg QD, d 11−20 (n=29) | 300 mg QD/ritonavir 100 mg QD, d 11−20 (n=29) | 1.05 (0.99, 1.10) | 1.08 (1.02, 1.15) | 1.07 (1.00, 1.15) |
-| methadone | Stable maintenance dose, d 1−15 (n=16) | 400 mg QD, d 2−15 (n=16) | (R)-methadoneh 0.91 (0.84, 1.0) total:0.85 (0.78, 0.93) | (R)-methadoneh 1.03 (0.95, 1.10) total:0.94 (0.87, 1.02) | (R)-methadoneh 1.11 (1.02, 1.20) total:1.02 (0.93, 1.12) |
+| methadone | Stable maintenance dose, d 1−15 (n=16) | 400 mg QD, d 2−15 (n=16) | (R)- methadoneh 0.91 (0.84, 1.0) total:0.85 (0.78, 0.93) | (R)- methadoneh 1.03 (0.95, 1.10) total:0.94 (0.87, 1.02) | (R)- methadoneh 1.11 (1.02, 1.20) total:1.02 (0.93, 1.12) |
 | nevirapinei,j | 200 mg BID, d 1–23 (n=23) | 300 mg QD/ritonavir 100 mg QD, d 4–13, then 400 mg QD/ritonavir 100 mg QD, d 14–23 (n=23) | 1.17 (1.09, 1.25) 1.21 (1.11, 1.32) | 1.25 (1.17, 1.34) 1.26 (1.17, 1.36) | 1.32 (1.22, 1.43) 1.35 (1.25, 1.47) |
 | omeprazolek | 40 mg single dose, d 7 and d 20 (n=16) | 400 mg QD, d 1−12 (n=16) | 1.24 (1.04, 1.47) | 1.45 (1.20, 1.76) | NA |
-| rifabutin | 300 mg QD, d 1−10 then 150 mg QD, d 11−20 (n=3) | 600 mg QD,l d 11−20 (n=3) | 1.18 (0.94, 1.48) 25-O-desacetyl- rifabutin: 8.20 (5.90, 11.40) | 2.10 (1.57, 2.79) 25-O-desacetyl- rifabutin: 22.01 (15.97, 30.34) | 3.43 (1.98, 5.96) 25-O-desacetyl- rifabutin: 75.6 (30.1, 190.0) |
+| rifabutin | 300 mg QD, d 1−10 then 150 mg QD, d 11−20 (n=3) | 600 mg QD,l d 11−20 (n=3) | 1.18 (0.94, 1.48) 25-O- desacetyl- rifabutin: 8.20 (5.90, 11.40) | 2.10 (1.57, 2.79) 25-O- desacetyl- rifabutin: 22.01 (15.97, 30.34) | 3.43 (1.98, 5.96) 25-O- desacetyl- rifabutin: 75.6 (30.1, 190.0) |
 | rosiglitazonem | 4 mg single dose, d 1, 7, 17 (n=14) | 400 mg QD, d 2–7, then 300 mg QD/ritonavir 100 mg QD, d 8–17 (n=14) | 1.08 (1.03, 1.13) 0.97 (0.91, 1.04) | 1.35 (1.26, 1.44) 0.83 (0.77, 0.89) | NA NA |
 | saquinavirn (soft gelatin capsules) | 1200 mg QD, d 1−13 (n=7) | 400 mg QD, d 7−13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
 | tenofoviro | 300 mg QD, d 9−16 (n=33) and d 24−30 (n=33) | 400 mg QD, d 2−16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
@@ -222,19 +222,19 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 
 ## 12.4 Microbiology
 
-### Mechanism of Action
+Mechanism of Action
 
 Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI).
 The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1 infected cells, thus preventing formation of mature virions.
 
-### Antiviral Activity in Cell Culture
+Antiviral Activity in Cell Culture
 
 Atazanavir exhibits anti-HIV-1 activity with a mean 50% effective concentration (EC50) in the absence of human serum of 2 to 5 nM against a variety of laboratory and clinical HIV-1 isolates grown in peripheral blood mononuclear cells, macrophages, CEM-SS cells, and MT-2 cells.
 ATV has activity against HIV-1 Group M subtype viruses A, B, C, D, AE, AG, F, G, and J isolates in cell culture.
 ATV has variable activity against HIV-2 isolates (1.9 to 32 nM), with EC50 values above the EC50 values of failure isolates.
 Two-drug combination antiviral activity studies with ATV showed no antagonism in cell culture with NNRTIs (delavirdine, efavirenz, and nevirapine), PIs (amprenavir, indinavir, lopinavir, nelfinavir, ritonavir, and saquinavir), NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, and zidovudine), the HIV-1 fusion inhibitor enfuvirtide, and two compounds used in the treatment of viral hepatitis, adefovir and ribavirin, without enhanced cytotoxicity.
 
-### Resistance
+Resistance
 
 In Cell Culture: HIV-1 isolates with a decreased susceptibility to ATV have been selected in cell culture and obtained from patients treated with ATV or atazanavir/ritonavir (ATV/RTV).
 HIV-1 isolates with 93- to 183-fold reduced susceptibility to ATV from three different viral strains were selected in cell culture by 5 months.
@@ -260,11 +260,14 @@ Table 18: Summary of Virologic Failuresa at Week 96 in Study AI424-089: Comparis
 | b Percentage of Virologic Failure Isolates with genotypic and phenotypic data. |  |  |
 | c Mixture of I50I/L emerged in 2 other ATV 400 mg-treated patients. Neither isolate was phenotypically resistant to ATV. |  |  |
 
-Clinical Studies of Treatment-Naive Patients Receiving REYATAZ 300 mg With Ritonavir 100 mg: In Phase III study AI424-138, an as-treated genotypic and phenotypic analysis was conducted on samples from patients who experienced virologic failure ≥400 copies/mL or discontinued before achieving suppression on ATV/RTV (n=32; 7%) and LPV/RTV (n=33; 8%).
-In the ATV/RTV arm, 2 of the virologic failure isolates had 4- and 56-fold decreases in ATV susceptibility emerge on therapy with the development of PI substitutions M46I, V77V/I, and N88S (4-fold isolate); and L10F, V32I, K43T, M46I, A71I, G73S, I85I/V, and L90M (56-fold isolate).
-Four of the treatment failure isolates in the ATV/RTV arm developed emtricitabine resistance with the emergence of the M184V substitution on therapy.
-In the LPV/RTV arm, none of the virologic failure patient isolates developed LPV resistance (fold change:>10-fold) or had major PI substitutions emerge on therapy.
-Three of the failure isolates in the LPV/RTV arm developed emtricitabine resistance with the emergence of the M184V substitution.
+Clinical Studies of Treatment-Naive Patients Receiving REYATAZ 300 mg With Ritonavir 100 mg: In Phase III study AI424-138, an as-treated genotypic and phenotypic analysis was conducted on samples from patients who experienced virologic failure (HIV-1 RNA ≥400 copies/mL) or discontinued before achieving suppression on ATV/RTV (n=39; 9%) and LPV/RTV (n=39; 9%) through 96 weeks of treatment.
+In the ATV/RTV arm, one of the virologic failure isolates had a 56-fold decrease in ATV susceptibility emerge on therapy with the development of PI resistance-associated substitutions L10F, V32I, K43T, M46I, A71I, G73S, I85I/V, and L90M.
+The NRTI resistance-associated substitution M184V also emerged on treatment in this isolate conferring emtricitabine resistance.
+Two ATV/RTV-virologic failure isolates had baseline phenotypic ATV resistance and IAS-defined major PI resistance-associated substitutions at baseline.
+The 150L substitution emerged on study in one of these failure isolates and was associated with a 17-fold decrease in ATV susceptibility from baseline and the other failure isolate with baseline ATV resistance and PI substitutions (M46M/I and I84I/V) had additional IAS-defined major PI substitutions (V32I, M46I, and I84V) emerge on ATV treatment associated with a 3-fold decrease in ATV susceptibiity from baseline.
+Five of the treatment failure isolates in the ATV/RTV arm developed phenotypic emtricitabine resistance with the emergence of either the M184I (n=1) or the M184V (n=4) substitution on therapy and none developed phenotypic tenofovir disoproxil resistance.
+In the LPV/RTV arm, one of the virologic failure patient isolates had a 69-fold decrease in LPV susceptibility emerge on therapy with the development of PI substitutions L10V, V11I, I54V, G73S, and V82A in addition to baseline PI substitutions L10L/I, V32I, I54I/V, A71I, G73G/S, V82V/A, L89V, and L90M.
+Six LPV/RTV virologic failure isolates developed the M184V substitution and phenotypic emtricitabine resistance and two developed phenotypic tenofovir disoproxil resistance.
 
 Clinical Studies of Treatment-Naive Patients Receiving REYATAZ 400 mg Without Ritonavir: ATV-resistant clinical isolates from treatment-naive patients who experienced virologic failure on REYATAZ 400 mg treatment without ritonavir often developed an I50L substitution (after an average of 50 weeks of ATV therapy), often in combination with an A71V substitution, but also developed one or more other PI substitutions (eg, V32I, L33F, G73S, V82A, I85V, or N88S) with or without the I50L substitution.
 In treatment-naive patients, viral isolates that developed the I50L substitution, without other major PI substitutions, showed phenotypic resistance to ATV but retained in cell culture susceptibility to other PIs (amprenavir, indinavir, lopinavir, nelfinavir, ritonavir, and saquinavir); however, there are no clinical data available to demonstrate the effect of the I50L substitution on the efficacy of subsequently administered PIs.
@@ -276,7 +279,7 @@ Generally, if multiple PI resistance substitutions were present in the HIV-1 vir
 The I50L substitution has been detected in treatment-experienced patients experiencing virologic failure after long-term treatment.
 Protease cleavage site changes also emerged on ATV treatment but their presence did not correlate with the level of ATV resistance.
 
-### Cross-Resistance
+Cross-Resistance
 
 Cross-resistance among PIs has been observed.
 Baseline phenotypic and genotypic analyses of clinical isolates from ATV clinical trials of PI-experienced patients showed that isolates cross-resistant to multiple PIs were cross-resistant to ATV.
@@ -285,7 +288,7 @@ Greater than 60% of isolates containing L90M, G73S/T/C, A71V/T, I54V, M46I/L, or
 Isolates resistant to ATV were also cross-resistant to other PIs with >90% of the isolates resistant to indinavir, lopinavir, nelfinavir, ritonavir, and saquinavir, and 80% resistant to amprenavir.
 In treatment-experienced patients, PI-resistant viral isolates that developed the I50L substitution in addition to other PI resistance-associated substitution were also cross-resistant to other PIs.
 
-### Baseline Genotype/Phenotype and Virologic Outcome Analyses
+Baseline Genotype/Phenotype and Virologic Outcome Analyses
 
 Genotypic and/or phenotypic analysis of baseline virus may aid in determining ATV susceptibility before initiation of ATV/RTV therapy.
 An association between virologic response at 48 weeks and the number and type of primary PI resistance-associated substitutions detected in baseline HIV-1 isolates from antiretroviral-experienced patients receiving ATV/RTV once daily or lopinavir (LPV)/RTV twice daily in Study AI424-045 is shown in Table 19.

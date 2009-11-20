@@ -22,12 +22,12 @@ In a pharmacokinetic study between atazanavir 400 mg once daily and atenolol 50 
 Dose adjustment of atenolol is not required when used in combination with atazanavir.
 [See Drug Interactions (7) and Clinical Pharmacology (12.2).]
 Pharmacokinetic studies between atazanavir and other drugs that prolong the PR interval including beta blockers [other than atenolol, see Drug Interactions (7)], verapamil, and digoxin have not been performed.
-An additive effect of atazanavir and these drugs cannot be excluded; therefore, caution should be exercised when atazanavir is given concurrently with these drugs, especially those thatare metabolized by CYP3A (eg, verapamil).
+An additive effect of atazanavir and these drugs cannot be excluded; therefore, caution should be exercised when atazanavir is given concurrently with these drugs, especially those that are metabolized by CYP3A (eg, verapamil).
 
 ## 5.3 Rash
 
 In controlled clinical trials, rash (all grades, regardless of causality) occurred in approximately 20% of patients treated with REYATAZ.
-The median time to onset of rash in clinical studies was 7.1 weeks and the median duration of rash was 1.3 weeks.
+The median time to onset of rash in clinical studies was 7.3 weeks and the median duration of rash was 1.4 weeks.
 Rashes were generally mild-to-moderate maculopapular skin eruptions.
 Treatment-emergent adverse reactions of moderate or severe rash (occurring at a rate of ≥2%) are presented for the individual clinical studies [see Adverse Reactions (6.1)].
 Dosing with REYATAZ was often continued without interruption in patients who developed rash.

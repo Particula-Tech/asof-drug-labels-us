@@ -13,7 +13,7 @@ General Dosing Recommendations:
 
 ## 2.1 Recommended Adult Dosage
 
-### Dose Recommendations for Therapy-Naive Patients
+Dose Recommendations for Therapy-Naive Patients
 
 - For treatment-naive patients, the recommended dosage is REYATAZ 300 mg with ritonavir 100 mg once daily (all as a single dose with food).
 
@@ -32,7 +32,7 @@ Concomitant Therapy:
   - proton-pump inhibitors: The proton-pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg and must be taken approximately 12 hours prior to the REYATAZ 300 mg and ritonavir 100 mg dose.
   - If REYATAZ is combined with efavirenz, REYATAZ 400 mg (two 200-mg capsules) with ritonavir 100 mg should be administered once daily all as a single dose with food, and efavirenz should be administered on an empty stomach, preferably at bedtime.
 
-### Dose Recommendations for Therapy-Experienced Patients
+Dose Recommendations for Therapy-Experienced Patients
 
 REYATAZ 300 mg with ritonavir 100 mg once daily (all as a single dose with food).
 
@@ -52,7 +52,7 @@ The recommended dosage of REYATAZ for pediatric patients (6 to less than 18 year
 REYATAZ Capsules must be taken with food.
 The data are insufficient to recommend dosing of REYATAZ for any of the following: (1) patients less than 6 years of age, (2) without ritonavir in patients less than 13 years of age, and (3) treatment-experienced pediatric patients with body weight less than 25 kg.
 
-### Therapy-Naive Pediatric Patients
+Therapy-Naive Pediatric Patients
 
 The recommended dosage of REYATAZ with ritonavir in treatment-naive patients at least 6 years of age is shown in Table 1.
 
@@ -72,7 +72,7 @@ Table 1: Dosage for Treatment-Naive Pediatric Patients (6 to less than 18 years 
 | c Ritonavir liquid. |  |  |  |
 | d Ritonavir capsule or liquid. |  |  |  |
 
-### Therapy-Experienced Pediatric Patients
+Therapy-Experienced Pediatric Patients
 
 The recommended dosage of REYATAZ with ritonavir in treatment-experienced patients at least 6 years of age is shown in Table 2.
 

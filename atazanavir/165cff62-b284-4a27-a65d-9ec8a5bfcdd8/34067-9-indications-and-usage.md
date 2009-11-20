@@ -1,7 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
 REYATAZ® (atazanavir sulfate) is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection.
-This indication is based on analyses of plasma HIV-1 RNA levels and CD4+ cell counts from controlled studies of 48 weeks duration in antiretroviral-naive and antiretroviral-treatment-experienced adult and pediatric patients at least 6 years of age.
+This indication is based on analyses of plasma HIV-1 RNA levels and CD4+ cell counts from controlled studies of 96 weeks duration in antiretroviral-naive and 48 weeks duration in antiretroviral-treatment-experienced adult and pediatric patients at least 6 years of age.
 
 The following points should be considered when initiating therapy with REYATAZ:
 
