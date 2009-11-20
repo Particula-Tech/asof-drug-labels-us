@@ -154,8 +154,8 @@ If you have any questions, or are not sure about something, then you should ask 
 You may want to read this leaflet again.
 Please DO NOT THROW IT AWAY until you have finished your medicine.
 
-10002064/01
+10002064/02
 
-Revised February 2005
+Revised May 2008
 
-© RLI, 2005
+© RLI, 2008

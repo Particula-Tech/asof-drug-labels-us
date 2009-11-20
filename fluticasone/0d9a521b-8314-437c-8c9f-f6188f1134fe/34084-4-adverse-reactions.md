@@ -5,21 +5,21 @@ In general, adverse reactions in clinical studies have been primarily associated
 The complaints did not usually interfere with treatment.
 Less than 2% of patients in clinical trials discontinued because of adverse events; this rate was similar for vehicle placebo and active comparators.
 
-Systemic corticosteroid side effects were not reported during controlled clinical studies up to 6 months’ duration with Fluticasone Propionate Nasal Spray.
-If recommended doses are exceeded, however, or if individuals are particularly sensitive or taking Fluticasone Propionate Nasal Spray in conjunction with administration of other corticosteroids, symptoms of hypercorticism, e.g., Cushing syndrome, could occur.
+Systemic corticosteroid side effects were not reported during controlled clinical studies up to 6 months’ duration with fluticasone propionate nasal spray.
+If recommended doses are exceeded, however, or if individuals are particularly sensitive or taking fluticasone propionate nasal spray in conjunction with administration of other corticosteroids, symptoms of hypercorticism, e.g., Cushing syndrome, could occur.
 
-The following incidence of common adverse reactions (>3%, where incidence in fluticasone propionate-treated subjects exceeded placebo) is based upon seven controlled clinical trials in which 536 patients (57 girls and 108 boys aged 4 to 11 years, 137 female and 234 male adolescents and adults) were treated with Fluticasone Propionate Nasal Spray 200 mcg once daily over 2 to 4 weeks and two controlled clinical trials in which 246 patients (119 female and 127 male adolescents and adults) were treated with Fluticasone Propionate Nasal Spray 200 mcg once daily over 6 months.
-Also included in the table are adverse events from two studies in which 167 children (45 girls and 122 boys aged 4 to 11 years) were treated with Fluticasone Propionate Nasal Spray 100 mcg once daily for 2 to 4 weeks.
+The following incidence of common adverse reactions (>3%, where incidence in fluticasone propionate-treated subjects exceeded placebo) is based upon seven controlled clinical trials in which 536 patients (57 girls and 108 boys aged 4 to 11 years, 137 female and 234 male adolescents and adults) were treated with fluticasone propionate nasal spray 200 mcg once daily over 2 to 4 weeks and two controlled clinical trials in which 246 patients (119 female and 127 male adolescents and adults) were treated with fluticasone propionate nasal spray 200 mcg once daily over 6 months.
+Also included in the table are adverse events from two studies in which 167 children (45 girls and 122 boys aged 4 to 11 years) were treated with fluticasone propionate nasal spray 100 mcg once daily for 2 to 4 weeks.
 
 Overall Adverse Experiences With >3% Incidence on Fluticasone Propionate in Controlled Clinical Trials With Fluticasone Propionate Nasal Spray in Patients ≥ 4 Years With Seasonal or Perennial Allergic Rhinitis
 
 | Adverse Experience | Vehicle Placebo (N = 758) % | Fluticasone Propionate 100 mcg Once Daily (N = 167) % | Fluticasone Propionate 200 mcg Once Daily (N = 782) % |
 | --- | --- | --- | --- |
 | Headache | 14.6 | 6.6 | 16.1 |
-| Pharyngitis | 7.2 | 6.0 | 7.8 |
-| Epistaxis | 5.4 | 6.0 | 6.9 |
+| Pharyngitis | 7.2 | 6 | 7.8 |
+| Epistaxis | 5.4 | 6 | 6.9 |
 | Nasal burning/nasal irritation | 2.6 | 2.4 | 3.2 |
-| Nausea/vomiting | 2.0 | 4.8 | 2.6 |
+| Nausea/vomiting | 2 | 4.8 | 2.6 |
 | Asthma symptoms | 2.9 | 7.2 | 3.3 |
 | Cough | 2.8 | 3.6 | 3.8 |
 
@@ -43,4 +43,4 @@ Alteration or loss of sense of taste and/or smell and, rarely, nasal septal perf
 
 Dryness and irritation, conjunctivitis, blurred vision, glaucoma, increased intraocular pressure, and cataracts.
 
-Cases of growth suppression have been reported for intranasal corticosteroids, including Fluticasone Propionate Nasal Spray (see PRECAUTIONS: Pediatric Use).
+Cases of growth suppression have been reported for intranasal corticosteroids, including fluticasone propionate nasal spray (see PRECAUTIONS: Pediatric Use).

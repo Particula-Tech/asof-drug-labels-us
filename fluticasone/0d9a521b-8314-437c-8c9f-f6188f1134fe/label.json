@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076504"
+  ],
   "inn": "fluticasone",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-3270-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "fluticasone propionate",
+      "name": "Fluticasone Propionate"
+    }
+  ],
   "setid": "0d9a521b-8314-437c-8c9f-f6188f1134fe",
   "source": "dailymed"
 }
