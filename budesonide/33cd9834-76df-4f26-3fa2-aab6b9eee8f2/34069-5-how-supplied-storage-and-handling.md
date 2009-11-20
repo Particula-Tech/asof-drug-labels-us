@@ -4,11 +4,12 @@ PULMICORT RESPULES is supplied in sealed aluminum foil envelopes containing one 
 There are 30 RESPULES ampules in a carton.
 Each single-dose RESPULES ampule contains 2 mL of sterile liquid suspension.
 
-PULMICORT RESPULES is available in two strengths, each containing 2 mL:
+PULMICORT RESPULES is available in three strengths, each containing 2 mL:
 
 | NDC 0186-1988-04 | 0.25 mg/2 mL |
 | --- | --- |
 | NDC 0186-1989-04 | 0.5 mg/2 mL |
+| NDC 0186-1990-04 | 1 mg/2 mL |
 
 ## Storage
 
@@ -22,11 +23,15 @@ Do not freeze.
 
 All trademarks are the property of the AstraZeneca group of companies.
 
-©AstraZeneca 2001, 2003, 2005, 2007
+©AstraZeneca 2007, 2009
 
-AstraZeneca LP, Wilmington, DE 19850
+Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
-30552-02
+By: AstraZeneca AB, Sodertalje, Sweden
+
+Product of Sweden
+
+XXXXX–XX
 
 Rev.
-01/07
+XX/09

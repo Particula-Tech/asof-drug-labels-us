@@ -39,6 +39,11 @@ Treatment with PULMICORT RESPULES should be discontinued and alternate therapy i
 
 Patients should be instructed to contact their physician immediately when episodes of asthma not responsive to their usual doses of bronchodilators occur during treatment with PULMICORT RESPULES.
 
+Hypersensitivity Reactions Including Anaphylaxis
+
+Hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm have been reported with use of PULMICORT RESPULES.
+Discontinue PULMICORT RESPULES if such reactions occur (see CONTRAINDICATIONS and ADVERSE REACTIONS).
+
 # PRECAUTIONS
 
 ## General
@@ -145,7 +150,7 @@ Experience with oral corticosteroids since their introduction in pharmacologic, 
 Studies of pregnant women, however, have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
 The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (ie, Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
 Congenital malformations were studied in 2014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10-12 weeks after the last menstrual period), the period when most major organ malformations occur.
-The rate of recorded congenital malformations was similar compared to the general population rate (3.8 % vs. 3.5%, respectively).
+The rate of recorded congenital malformations was similar compared to the general population rate (3.8% vs. 3.5%, respectively).
 In addition, after exposure to inhaled budesonide, the number of infants born with orofacial clefts was similar to the expected number in the normal population (4 children vs. 3.3, respectively).
 
 These same data were utilized in a second study bringing the total to 2534 infants whose mothers were exposed to inhaled budesonide.
@@ -154,20 +159,23 @@ In this study, the rate of congenital malformations among infants whose mothers 
 Despite the animal findings, it would appear that the possibility of fetal harm is remote if the drug is used during pregnancy.
 Nevertheless, because the studies in humans cannot rule out the possibility of harm, PULMICORT RESPULES should be used during pregnancy only if clearly needed.
 
-### Nonteratogenic Effects
+### Non-teratogenic Effects:
 
 Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully observed.
 
 ## Nursing Mothers
 
-It is not known whether budesonide is excreted in human milk.
-Because other corticosteroids are excreted in human milk, caution should be exercised if budesonide is administered to nursing women.
+Budesonide, like other corticosteroids, is secreted in human milk.
+Data with budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Nursing Mothers).
+No studies have been conducted in breastfeeding women with PULMICORT RESPULES; however, the dose of budesonide available to the infant in breast milk, as a percentage of the maternal dose, would be expected to be similar.
+PULMICORT RESPULES should be used in nursing women only if clinically appropriate.
+Prescribers should weigh the known benefits of breastfeeding for the mother and the infant against the potential risks of minimal budesonide exposure in the infant.
 
 ## Pediatric Use
 
 Safety in children six months to 12 months of age has been evaluated.
-Safety and effectiveness in children 12 months to 8 years of age have been established (see CLINICAL PHARMACOLOGY, Pharmacodynamics, CLINICAL TRIALS and ADVERSE REACTIONS).
+Safety and effectiveness in children 12 months to 8 years of age have been established (see CLINICAL PHARMACOLOGY, Pharmacodynamics,CLINICAL TRIALSand ADVERSE REACTIONS).
 
 A 12-week study in 141 pediatric patients 6 to 12 months of age with mild to moderate asthma or recurrent/persistent wheezing was conducted.
 All patients were randomized to receive either 0.5 mg or 1 mg of PULMICORT RESPULES or placebo once daily.

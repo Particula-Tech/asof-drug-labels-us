@@ -25,7 +25,7 @@ The changes from baseline to Weeks 0-12 in nighttime asthma symptom scores are s
 Nighttime asthma symptom scores improved significantly in the patients treated with PULMICORT RESPULES compared to placebo.
 Similar improvements were also observed for daytime asthma symptom scores.
 
-Figure 1:A 12-Week Trial in Pediatric Patients Not on Inhaled Corticosteroid Therapy Prior to Study Entry.
+Figure 1: A 12-Week Trial in Pediatric Patients Not on Inhaled Corticosteroid Therapy Prior to Study Entry.
 
 Patients Previously Maintained on Inhaled Corticosteroids
 
@@ -36,7 +36,7 @@ Similar improvements were also observed for daytime asthma symptom scores.
 
 PULMICORT RESPULES at a dose of 0.5 mg twice daily significantly improved FEV1, and both doses (0.25 mg and 0.5 mg twice daily) significantly increased morning PEF, compared to placebo.
 
-Figure 2:A 12-Week Trial in Pediatric Patients Previously Maintained on Inhaled Corticosteroid Therapy Prior to Study Entry.
+Figure 2: A 12-Week Trial in Pediatric Patients Previously Maintained on Inhaled Corticosteroid Therapy Prior to Study Entry.
 
 Patients Receiving Once-Daily or Twice-Daily Dosing
 
@@ -51,4 +51,4 @@ PULMICORT RESPULES at a dose of 0.5 mg twice daily significantly improved FEV1, 
 The evidence supports the efficacy of the same nominal dose of PULMICORT RESPULES administered on either a once-daily or twice-daily schedule.
 However, when all measures are considered together, the evidence is stronger for twice-daily dosing (see DOSAGE AND ADMINISTRATION).
 
-Figure 3:A 12-Week Trial in Pediatric Patients Either Maintained on Bronchodilators Alone or Inhaled Corticosteroid Therapy Prior to Study Entry.
+Figure 3: A 12-Week Trial in Pediatric Patients Either Maintained on Bronchodilators Alone or Inhaled Corticosteroid Therapy Prior to Study Entry.

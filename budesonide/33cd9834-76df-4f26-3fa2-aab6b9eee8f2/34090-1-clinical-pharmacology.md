@@ -15,7 +15,7 @@ Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to have a wide range of inhibitory activities against multiple cell types (eg, mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (eg, histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic- and non-allergic-mediated inflammation.
 The anti-inflammatory actions of corticosteroids may contribute to their efficacy in asthma.
 
-Studies in asthmatic patients have shown a favorable ratio between topical anti-inflammatory activities and systemic corticosteroid effects over a wide dose range of inhaled budesonide in a variety of formulations and delivery systems including Pulmicort Turbuhaler® (an inhalation-driven, multi-dose dry powder inhaler) and the inhalation suspension for nebulization.
+Studies in asthmatic patients have shown a favorable ratio between topical anti-inflammatory activities and systemic corticosteroid effects over a wide dose range of inhaled budesonide in a variety of formulations and delivery systems including an inhalation-driven, multi-dose dry powder inhaler and the inhalation suspension for nebulization.
 This is explained by a combination of a relatively high local anti-inflammatory effect, extensive first pass hepatic degradation of orally absorbed drug (85-95%) and the low potency of metabolites (see below).
 
 ## Pharmacokinetics
@@ -61,6 +61,14 @@ Reduced liver function may affect the elimination of corticosteroids.
 The pharmacokinetics of budesonide were affected by compromised liver function as evidenced by a doubled systemic availability after oral ingestion.
 The intravenous pharmacokinetics of budesonide were, however, similar in cirrhotic patients and in healthy adults.
 
+#### Nursing Mothers:
+
+The disposition of budesonide when delivered by inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum.
+Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
+Breast milk obtained over eight hours post-dose revealed that the maximum concentration of budesonide for the 400 and 800 mcg doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after dosing.
+The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
+Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breast-feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant) (see PRECAUTIONS, Nursing Mothers).
+
 ## Pharmacodynamics
 
 The therapeutic effects of conventional doses of orally inhaled budesonide are largely explained by its direct local action on the respiratory tract.
@@ -69,10 +77,10 @@ The study demonstrated the efficacy of inhaled budesonide but not orally ingeste
 
 Improvement in the control of asthma symptoms following inhalation of PULMICORT RESPULES can occur within 2-8 days of beginning treatment, although maximum benefit may not be achieved for 4-6 weeks.
 
-Budesonide administered via Turbuhaler® has been shown in various challenge models (including histamine, methacholine, sodium metabisulfite, and adenosine monophosphate) to decrease bronchial hyperresponsiveness in asthmatic patients.
+Budesonide administered via a dry powder inhaler has been shown in various challenge models (including histamine, methacholine, sodium metabisulfite, and adenosine monophosphate) to decrease bronchial hyperresponsiveness in asthmatic patients.
 The clinical relevance of these models is not certain.
 
-Pre-treatment with budesonide administered via TURBUHALER 1600 mcg daily (800 mcg twice daily) for 2 weeks reduced the acute (early-phase reaction) and delayed (late-phase reaction) decrease in FEV1 following inhaled allergen challenge.
+Pre-treatment with budesonide administered as 1600 mcg daily (800 mcg twice daily) via a dry powder inhaler for 2 weeks reduced the acute (early-phase reaction) and delayed (late-phase reaction) decrease in FEV1 following inhaled allergen challenge.
 
 The effects of PULMICORT RESPULES on the hypothalamic-pituitary-adrenal (HPA) axis were studied in three, 12-week, double-blind, placebo-controlled studies in 293 pediatric patients, 6 months to 8 years of age, with persistent asthma.
 For most patients, the ability to increase cortisol production in response to stress, as assessed by the short cosyntropin (ACTH) stimulation test, remained intact with PULMICORT RESPULES treatment at recommended doses.

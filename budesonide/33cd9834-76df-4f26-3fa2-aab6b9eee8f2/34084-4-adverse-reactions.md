@@ -27,7 +27,7 @@ Adverse Events with ≥ 3% Incidence Reported by Patients on PULMICORT RESPULES
 | Abdominal Pain | 2 | 3 | 2 | 3 |
 | Hearing and Vestibular Disorders |  |  |  |  |
 | Ear Infection | 4 | 2 | 4 | 5 |
-| Platelet, Bleeding and ClottingDisorders |  |  |  |  |
+| Platelet, Bleeding and Clotting Disorders |  |  |  |  |
 | Epistaxis | 1 | 2 | 4 | 3 |
 | Vision Disorders |  |  |  |  |
 | Conjunctivitis | 2 | <1 | 4 | 2 |
@@ -70,4 +70,4 @@ The incidence of reported adverse events was similar between the 447 PULMICORT R
 
 Cases of growth suppression have been reported for inhaled corticosteroids including post-marketing reports for PULMICORT RESPULES (see PRECAUTIONS, Pediatric Use).
 
-Less frequent adverse events (<1%) reported in the published literature, long-term, open-label clinical trials, or from worldwide marketing experience with any formulation of inhaled budesonide include: immediate and delayed hypersensitivity reactions including rash, contact dermatitis, urticaria, angioedema, and bronchospasm; symptoms of hypocorticism and hypercorticism; glaucoma, cataracts; psychiatric symptoms including depression, aggressive reactions, irritability, anxiety, and psychosis; and bone disorders including avascular necrosis of the femoral head and osteoporosis.
+Less frequent adverse events (<1%) reported in the published literature, long-term, open-label clinical trials, or from worldwide marketing experience with any formulation of inhaled budesonide include: immediate and delayed hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm (see WARNINGS, Hypersensitivity Reactions Including Anaphylaxis); symptoms of hypocorticism and hypercorticism; glaucoma, cataracts; psychiatric symptoms including depression, aggressive reactions, irritability, anxiety, and psychosis; and bone disorders including avascular necrosis of the femoral head and osteoporosis.

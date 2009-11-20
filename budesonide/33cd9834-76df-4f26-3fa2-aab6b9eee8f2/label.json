@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020929"
+  ],
   "inn": "budesonide",
   "labeler": "AstraZeneca LP",
   "package_ndcs": [
     "0186-1988-04",
-    "0186-1989-04"
+    "0186-1989-04",
+    "0186-1990-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "budesonide",
+      "name": "PULMICORT RESPULES"
+    }
+  ],
   "setid": "33cd9834-76df-4f26-3fa2-aab6b9eee8f2",
   "source": "dailymed"
 }
