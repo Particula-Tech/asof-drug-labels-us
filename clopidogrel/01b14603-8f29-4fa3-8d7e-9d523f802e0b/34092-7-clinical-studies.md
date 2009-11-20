@@ -125,7 +125,11 @@ Such subgroup analyses should be interpreted very cautiously.
 
 | Figure 6: Effects of Adding PLAVIX to Aspirin on the Combined Primary Endpoint across Baseline and Concomitant Medication Subgroups for the COMMIT Study |
 | --- |
+
+*Three similar-sized prognostic index groups were based on absolute risk of primary composite outcome for each patient calculated from baseline prognostic variables (excluding allocated treatments) with a Cox regression model.
+
 | Figure 7: Effects of Adding PLAVIX to Aspirin in the Non-Prespecified Subgroups in the COMMIT Study |
+| --- |
 
 The randomized, double-blind, placebo-controlled CLARITY trial included 3,491 patients, 5% U.S., presenting within 12 hours of the onset of a ST elevation myocardial infarction and planned for thrombolytic therapy.
 Patients were randomized to receive PLAVIX (300-mg loading dose, followed by 75 mg/day) or placebo until angiography, discharge, or Day 8.

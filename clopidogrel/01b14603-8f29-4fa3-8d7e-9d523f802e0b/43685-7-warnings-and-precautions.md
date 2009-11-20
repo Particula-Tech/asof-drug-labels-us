@@ -1,5 +1,21 @@
 # WARNINGS
 
+## Reduced effectiveness due to impaired CYP2C19 function
+
+The inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
+Clopidogrel is metabolized to this active metabolite in part by CYP2C19.
+This metabolism can be impaired by genetic variations in CYP2C19 and by concomitant medications that interfere with CYP2C19.
+Avoid use of PLAVIX in patients with impaired CYP2C19 function due to known genetic variation or due to drugs that inhibit CYP2C19 activity.
+
+### Genetic variations
+
+Patients with genetically reduced CYP2C19 function have diminished antiplatelet responses and generally exhibit higher cardiovascular event rates following myocardial infarction than do patients with normal CYP2C19 function (see CLINICAL PHARMACOLOGY: Pharmacogenetics).
+
+### Drug interactions
+
+Co-administration of PLAVIX with omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of PLAVIX if given concomitantly or if given 12 hours apart.
+There is no evidence that other drugs that reduce stomach acid, such as most H2 blockers (except cimetidine, which is a CYP2C19 inhibitor) or antacids interfere with the antiplatelet activity of clopidogrel (see PRECAUTIONS: Drug Interactions).
+
 ## Thrombotic thrombocytopenic purpura (TTP)
 
 TTP has been reported rarely following use of PLAVIX, sometimes after a short exposure (<2 weeks).
@@ -16,8 +32,6 @@ Due to the risk of bleeding and undesirable hematological effects, blood cell co
 
 In patients with recent TIA or stroke who are at high risk of recurrent ischemic events, the combination of aspirin and PLAVIX has not been shown to be more effective than PLAVIX alone, but the combination has been shown to increase major bleeding.
 
-Pharmacogenetics: Based on literature data, patients with genetically reduced CYP2C19 function have lower systemic exposure to the active metabolite of clopidogrel and diminished antiplatelet responses, and generally exhibit higher cardiovascular event rates following myocardial infarction than do patients with normal CYP2C19 function (see CLINICAL PHARMACOLOGY: Pharmacogenetics).
-
 GI Bleeding: In CAPRIE, PLAVIX was associated with a rate of gastrointestinal bleeding of 2.0%, vs. 2.7% on aspirin.
 In CURE, the incidence of major gastrointestinal bleeding was 1.3% vs. 0.7% (PLAVIX + aspirin vs. placebo + aspirin, respectively).
 PLAVIX should be used with caution in patients who have lesions with a propensity to bleed (such as ulcers).
@@ -31,15 +45,28 @@ PLAVIX should be used with caution in this population.
 
 ## Information for Patients
 
-Patients should be told that it may take them longer than usual to stop bleeding, that they may bruise and/or bleed more easily when they take PLAVIX or PLAVIX combined with aspirin, and that they should report any unusual bleeding to their physician.
-Patients should inform physicians and dentists that they are taking PLAVIX and/or any other product known to affect bleeding before any surgery is scheduled and before any new drug is taken.
+Patients should be told that while taking PLAVIX or PLAVIX combined with aspirin:
+
+- it may take them longer than usual to stop bleeding;
+- they may bruise and/or bleed more easily;
+- they should report any unusual bleeding to their physician;
+- they should tell their physician about any other medications they are taking, including prescription or over-the-counter omeprazole;
+- they should inform physicians and dentists that they are taking PLAVIX and/or any other product known to affect bleeding before any surgery is scheduled and before any new drug is taken.
 
 ## Drug Interactions
 
-Since clopidogrel is metabolized to its active metabolite by CYP2C19, use of drugs that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel and a reduction in clinical efficacy.
-Concomitant use of drugs that inhibit CYP2C19 (e.g., omeprazole) should be discouraged.
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+Avoid concomitant use of drugs that inhibit CYP2C19, including omeprazole, esomeprazole, cimetidine, fluconazole, ketoconazole, voriconazole, etravirine, felbamate, fluoxetine, fluvoxamine, and ticlopidine (see WARNINGS).
 
-Study of specific drug interactions yielded the following results:
+Studies of specific drug interactions yielded the following results:
+
+### Omeprazole
+
+In a crossover clinical study, 72 healthy subjects were administered PLAVIX (300-mg loading dose followed by 75 mg/day) alone and with omeprazole (80 mg at the same time as PLAVIX) for 5 days.
+The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when PLAVIX and omeprazole were administered together.
+Mean inhibition of platelet aggregation (IPA) was diminished by 47% (24 hours) and 30% (Day 5) when PLAVIX and omeprazole were administered together.
+In another study 72 healthy subjects were given the same doses of PLAVIX and omeprazole but the drugs were administered 12 hours apart; the results were similar indicating that administering PLAVIX and omeprazole at different times does not prevent their interaction (see WARNINGS).
 
 ### Aspirin
 
@@ -66,7 +93,7 @@ Because of the increased risk of bleeding, the concomitant administration of war
 ### Other Concomitant Therapy
 
 No clinically significant pharmacodynamic interactions were observed when PLAVIX was coadministered with atenolol, nifedipine, or both atenolol and nifedipine.
-The pharmacodynamic activity of PLAVIX was also not significantly influenced by the coadministration of phenobarbital, cimetidine or estrogen.
+The pharmacodynamic activity of PLAVIX was also not significantly influenced by the coadministration of phenobarbital or estrogen.
 
 The pharmacokinetics of digoxin or theophylline were not modified by the coadministration of PLAVIX (clopidogrel bisulfate).
 

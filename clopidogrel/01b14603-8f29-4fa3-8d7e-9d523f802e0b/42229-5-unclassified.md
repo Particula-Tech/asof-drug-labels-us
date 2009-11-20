@@ -2,4 +2,4 @@ Distributed by: Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership Bridgewa
 
 PLAVIX® is a registered trademark.
 
-Revised May 2009
+Revised October 2009

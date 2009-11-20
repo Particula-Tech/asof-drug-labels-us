@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020839"
+  ],
   "inn": "clopidogrel",
   "labeler": "Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "63653-1332-2",
     "63653-1332-3"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "clopidogrel bisulfate",
+      "name": "Plavix"
+    }
+  ],
   "setid": "01b14603-8f29-4fa3-8d7e-9d523f802e0b",
   "source": "dailymed"
 }

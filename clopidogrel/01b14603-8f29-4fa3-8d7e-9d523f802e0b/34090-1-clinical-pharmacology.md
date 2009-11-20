@@ -43,7 +43,7 @@ In vitro and in vivo, clopidogrel is metabolized according to two main metabolic
 Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite.
 Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel.
 In vitro, this metabolic pathway is mediated by CYP3A4, CYP2C19, CYP1A2 and CYP2B6.
-The active thiol metabolite which has been isolated in vitro, binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation.
+The active thiol metabolite, which has been isolated in vitro, binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation.
 
 ### Elimination
 
@@ -81,11 +81,11 @@ The relative difference in antiplatelet response between genotype groups varies 
 The association between CYP2C19 genotype and clopidogrel treatment outcome was evaluated in 2 post-hoc clinical trial analyses (substudies of CLARITY-TIMI 28Mega JL, Thakuria JV, Cannon CP, Sabatine MS. Sequence variations in CYP metabolism genes and cardiovascular outcomes following treatment with clopidogrel: insights from the CLARITY-TIMI 28 genomic study.
 2008; ACC Meeting Abstract [n=465] and TRITON-TIMI 38Mega et al. Cytochrome P-450 polymorphisms and response to clopidogrel.
 N Engl J Med 2009; 360:354-62 [n=1,477]) and 5 cohort studies (total n=6,489).
-In CLARITY-TIMI 28 and one of the cohort studies (n=765; TrenkTrenk et al. Cytochrome P450 2C19 681G>A polymorphism and high on clopidogrel platelet reactivity associated with adverse 1-year clinical outcome of elective percutaneous coronary intervention with drug eluting or bare-metal stents.
+In CLARITY-TIMI 28 and one of the cohort studies (n=765; TrenkTrenk et al. Cytochrome P450 2C19 681G>A polymorphism and high on-clopidogrel platelet reactivity associated with adverse 1-year clinical outcome of elective percutaneous coronary intervention with drug-eluting or bare-metal stents.
 J Am Coll Cardiol 2008; 51, 20: 1952), cardiovascular event rates did not differ significantly by genotype.
 In TRITON-TIMI 38 and 3 of the cohort studies (n= 3,516; Collet,Collet JP et al. Cytochrome P450 2C19 polymorphism in young patients treated with clopidogrel after myocardial infarction: a cohort study.
 The Lancet 2009; 373: 309-317 Sibbing,Sibbing D et al. Cytochrome P450 2C19 loss-of-function polymorphism and stent thrombosis following percutaneous coronary intervention.
-Eur Heart J 2009: 1-7 GiustiGiusti et al. Relation of cytochrome P450 2C19 loss-of-function polymorphism to occurrence of drug-eluting coronary stent thrombosis.
+Eur Heart J 2009:1-7 GiustiGiusti et al. Relation of cytochrome P450 2C19 loss-of-function polymorphism to occurrence of drug-eluting coronary stent thrombosis.
 Am J Cardiol 2009; 103:806–811), patients with an impaired metabolizer status (intermediate and poor combined) had a higher rate of cardiovascular events (death, myocardial infarction, and stroke) or stent thrombosis compared to extensive metabolizers.
 In the fifth cohort study (n=2,208; SimonSimon et al. Genetic determinants of response to clopidogrel and cardiovascular events.
 N Engl J Med 2009; 360(4):363-75), the increased event rate was observed only in poor metabolizers.

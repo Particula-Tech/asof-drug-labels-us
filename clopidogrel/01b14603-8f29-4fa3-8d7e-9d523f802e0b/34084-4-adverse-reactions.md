@@ -21,7 +21,7 @@ Table 6: CURE Incidence of bleeding complications (% patients)
 
 | Event | PLAVIX (+ aspirin)Other standard therapies were used as appropriate. (n=6259) | Placebo (+ aspirin) (n=6303) | P-value |
 | --- | --- | --- | --- |
-| Major bleeding Life threatening and other major bleeding. | 3.7 Major bleeding event rate for PLAVIX + aspirin was dose-dependent on aspirin: <100 mg=2.6%; 100–200 mg= 3.5%; >200 mg=4.9% Major bleeding event rates for PLAVIX + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years 5.9% | 2.7 Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg=2.0%; 100–200 mg= 2.3%; >200 mg=4.0% Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years 3.6% | 0.001 |
+| Major bleeding Life threatening and other major bleeding. | 3.7 Major bleeding event rate for PLAVIX + aspirin was dose-dependent on aspirin: <100 mg=2.6%; 100–200 mg= 3.5%; >200 mg=4.9% Major bleeding event rates for PLAVIX + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9% | 2.7 Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg=2.0%; 100–200 mg= 2.3%; >200 mg=4.0% Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6% | 0.001 |
 | Life-threatening bleeding | 2.2 | 1.8 | 0.13 |
 | Fatal | 0.2 | 0.2 |  |
 | 5 g/dL hemoglobin drop | 0.9 | 0.9 |  |
@@ -50,7 +50,7 @@ Table 7: Number (%) of Patients with Bleeding Events in COMMIT
 
 | Type of bleeding | PLAVIX (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | P-value |
 | --- | --- | --- | --- |
-| MajorMajor bleeds are cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleedingThe relative rate of major noncerebral or cerebral bleeding was independent of age. Event rates for PLAVIX + aspirin by age were: <60 years = 0.3%, ≥60 to <70 years = 0.7%, ≥70 years 0.8%. Event rates for placebo + aspirin by age were: <60 years = 0.4%, ≥60 to <70 years = 0.6%, ≥70 years 0.7%. | 134 (0.6%) | 125 (0.5%) | 0.59 |
+| MajorMajor bleeds are cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleedingThe relative rate of major noncerebral or cerebral bleeding was independent of age. Event rates for PLAVIX + aspirin by age were: <60 years = 0.3%, ≥60 to <70 years = 0.7%, ≥70 years = 0.8%. Event rates for placebo + aspirin by age were: <60 years = 0.4%, ≥60 to <70 years = 0.6%, ≥70 years = 0.7%. | 134 (0.6%) | 125 (0.5%) | 0.59 |
 | Major noncerebral | 82 (0.4%) | 73 (0.3%) | 0.48 |
 | Fatal | 36 (0.2%) | 37 (0.2%) | 0.90 |
 | Hemorrhagic stroke | 55 (0.2%) | 56 (0.2%) | 0.91 |

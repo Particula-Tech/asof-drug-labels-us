@@ -7,7 +7,7 @@ The recommended daily dose of PLAVIX is 75 mg once daily.
 ## Acute Coronary Syndrome
 
 For patients with non-ST-segment elevation acute coronary syndrome (unstable angina/non-Q-wave MI), PLAVIX should be initiated with a single 300-mg loading dose and then continued at 75 mg once daily.
-Aspirin (75 mg–325 mg once daily) should be initiated and continued in combination with PLAVIX.
+Aspirin (75 mg-325 mg once daily) should be initiated and continued in combination with PLAVIX.
 In CURE, most patients with Acute Coronary Syndrome also received heparin acutely (see CLINICAL STUDIES).
 
 For patients with ST-segment elevation acute myocardial infarction, the recommended dose of PLAVIX is 75 mg once daily, administered in combination with aspirin, with or without thrombolytics.
