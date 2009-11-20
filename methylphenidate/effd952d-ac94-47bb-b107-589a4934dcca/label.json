@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021284"
+  ],
   "inn": "methylphenidate",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0078-0372-05",
     "0078-0424-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "Ritalin"
+    }
+  ],
   "setid": "effd952d-ac94-47bb-b107-589a4934dcca",
   "source": "dailymed"
 }

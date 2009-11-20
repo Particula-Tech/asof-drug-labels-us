@@ -1,9 +1,7 @@
-T2007-24
-
 Ritalin LA®
 
-| (methylphenidate hydrochloride) extended-release capsules CII |
-| --- |
+| (methylphenidate hydrochloride) extended-release capsules |  |
+| --- | --- |
 
 Rx only
 

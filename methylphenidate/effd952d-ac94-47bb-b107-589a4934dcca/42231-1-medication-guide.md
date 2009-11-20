@@ -1,16 +1,10 @@
-REV: APRIL 2007 T2007-24
-
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 RITALIN LA®
 
 (methylphenidate hydrochloride) extended-release capsules CII
 
-Read the Medication Guide that comes with RITALIN LA® before you or your child starts taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with RITALIN LA®.
-
-| What is the most important information I should know about RITALIN LA®? The following have been reported with use of methylphenidate hydrochloride and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting RITALIN LA®. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with RITALIN LA®. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking RITALIN LA®. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking RITALIN LA®, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| Read the Medication Guide that comes with RITALIN LA® before you or your child starts taking it and each time you get a refill. There may be new information. This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with RITALIN LA®. What is the most important information I should know about RITALIN LA®? The following have been reported with use of methylphenidate hydrochloride and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting RITALIN LA®. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with RITALIN LA®. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking RITALIN LA®. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking RITALIN LA®, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
 | --- |
 
 What Is RITALIN LA®?
@@ -30,7 +24,6 @@ RITALIN LA® should not be taken if you or your child:
 
 - are very anxious, tense, or agitated
 - have an eye problem called glaucoma
-
 - have tics or Tourette’s syndrome, or a family history of Tourette’s syndrome.
   Tics are hard to control repeated movements or sounds.
 - are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
@@ -101,9 +94,10 @@ Other serious side effects include:
 
 Common side effects include:
 
-- headache • decreased appetite
-
-- stomach ache • trouble sleeping
+- headache
+- stomach ache
+- decreased appetite
+- trouble sleeping
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
@@ -133,12 +127,13 @@ Active Ingredient: methylphenidate HCL
 
 Inactive Ingredients: ammonio methacrylate copolymer, black iron oxide (10 and 40 mg capsules only), gelatin, methacrylic acid copolymer, polyethylene glycol, red iron oxide (10 and 40 mg capsules only), sugar spheres, talc, titanium dioxide, triethyl citrate, and yellow iron oxide (10, 30, and 40 mg capsules).
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: APRIL 2007 T2007-36
-
-REV: APRIL 2007 PRINTED IN U.S.A. T2007-24/ T2007-36
+REV: APRIL 2009 T2009-49/T2009-50
 
 Manufactured for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 By ELAN HOLDINGS INC. Pharmaceutical Division Gainesville, GA 30504
 
-©Novartis
+© Novartis
