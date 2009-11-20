@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076583"
+  ],
+  "inn": "ketorolac",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
+  "package_ndcs": [
+    "61314-126-05",
+    "61314-126-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "keterolac tromethamine",
+      "name": "KETEROLAC TROMETHAMINE"
+    }
+  ],
+  "setid": "79e29a86-1b44-4d95-8d84-5a2e8f23ddcf",
+  "source": "dailymed"
+}
