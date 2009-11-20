@@ -11,7 +11,7 @@ Discontinuation of therapy due to adverse effects was required in 4.4% of patien
 
 Adverse experiences occurring in greater than one percent of patients treated with lisinopril plus hydrochlorothiazide in controlled clinical trials are shown below.
 
-Table Percent of Patients in Controlled Studies
+Percent of Patients in Controlled Studies
 
 |  | Lisinopril and Hydrochlorothiazide (n=930) Incidence (discontinuation) |  | Placebo (n=207) Incidence |
 | --- | --- | --- | --- |
@@ -44,14 +44,12 @@ Skin: Flushing, pruritus, skin inflammation, diaphoresis, cutaneous pseudolympho
 Special Senses: Blurred vision, tinnitus, otalgia.
 Urogenital: Urinary tract infection.
 
-Angioedema: Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported rarely.
-(See WARNINGS.)
+Angioedema: Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported (See WARNINGS).
 
 In rare cases, intestinal angioedema has been reported in post marketing experience.
 
 Hypotension: In clinical trials, adverse effects relating to hypotension occurred as follows: hypotension (1.4%), orthostatic hypotension (0.5%), other orthostatic effects (3.2%).
-In addition syncope occurred in 0.8% of patients.
-(See WARNINGS.)
+In addition syncope occurred in 0.8% of patients (See WARNINGS).
 
 Cough: See PRECAUTIONS - Cough.
 
@@ -60,8 +58,7 @@ Cough: See PRECAUTIONS - Cough.
 Serum Electrolytes: (See PRECAUTIONS.)
 
 Creatinine, Blood Urea Nitrogen: Minor reversible increases in blood urea nitrogen and serum creatinine were observed in patients with essential hypertension treated with ZESTORETIC.
-More marked increases have also been reported and were more likely to occur in patients with renal artery stenosis.
-(See PRECAUTIONS.)
+More marked increases have also been reported and were more likely to occur in patients with renal artery stenosis (See PRECAUTIONS).
 
 Serum Uric Acid, Glucose, Magnesium, Cholesterol, Triglycerides and Calcium: (See PRECAUTIONS).
 
@@ -74,7 +71,7 @@ Liver Function Tests: Rarely, elevations of liver enzymes and/or serum bilirubin
 Other adverse reactions that have been reported with the individual components are listed below:
 
 Lisinopril - In clinical trials adverse reactions which occurred with lisinopril were also seen with ZESTORETIC.
-In addition, and since lisinopril has been marketed, the following adverse reactions have been reported with lisinopril and should be considered potential adverse reactions for ZESTORETIC: Body as a Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid Reactions During Membrane Exposure), malaise, edema, facial edema, pain, pelvic pain, flank pain, chills; Cardiovascular: Cardiac arrest, myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension), pulmonary embolism and infarction, worsening of heart failure, arrhythmias (including tachycardia, ventricular tachycardia, atrial tachycardia, atrial fibrillation, bradycardia, and premature ventricular contractions), angina pectoris, transient ischemic attacks, paroxysmal nocturnal dyspnea, decreased blood pressure, peripheral edema, vasculitis; Digestive: Pancreatitis, hepatitis (hepatocellular or cholestatic jaundice) (see WARNINGS, Hepatic Failure), gastritis, anorexia, flatulence, increased salivation; Endocrine: Diabetes mellitus; Hematologic: Rare cases of bone marrow depression, hemolytic anemia, leukopenia/neutropenia, and thrombocytopenia have been reported in which a causal relationship to lisinopril cannot be excluded; Metabolic: Gout, weight loss, dehydration, fluid overload, weight gain; Musculoskeletal: Arthritis, arthralgia, neck pain, hip pain, joint pain, leg pain, arm pain, lumbago; Nervous System/Psychiatric: Ataxia, memory impairment, tremor, insomnia, stroke, nervousness, confusion, peripheral neuropathy (eg, paresthesia, dysesthesia), spasm, hypersomnia, irritability; Respiratory: Malignant lung neoplasms, hemoptysis, pulmonary edema, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngitis, rhinitis, rhinorrhea, chest sound abnormalities; Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, rare cases of other severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome (causal relationship has not been established); Special Senses: Visual loss, diplopia, photophobia, taste alteration; Urogenital: Acute renal failure, oliguria, anuria, uremia, progressive azotemia, renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION), pyelonephritis, dysuria, breast pain.
+In addition, and since lisinopril has been marketed, the following adverse reactions have been reported with lisinopril and should be considered potential adverse reactions for ZESTORETIC: Body as a Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid Reactions During Membrane Exposure), malaise, edema, facial edema, pain, pelvic pain, flank pain, chills; Cardiovascular: Cardiac arrest, myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension), pulmonary embolism and infarction, worsening of heart failure, arrhythmias (including tachycardia, ventricular tachycardia, atrial tachycardia, atrial fibrillation, bradycardia, and premature ventricular contractions), angina pectoris, transient ischemic attacks, paroxysmal nocturnal dyspnea, decreased blood pressure, peripheral edema, vasculitis; Digestive: Pancreatitis, hepatitis (hepatocellular or cholestatic jaundice) (see WARNINGS, Hepatic Failure), gastritis, anorexia, flatulence, increased salivation; Endocrine: Diabetes mellitus, inappropriate antidiuretic hormone secretion; Hematologic: Rare cases of bone marrow depression, hemolytic anemia, leukopenia/neutropenia, and thrombocytopenia have been reported in which a causal relationship to lisinopril can not be excluded; Metabolic: Gout, weight loss, dehydration, fluid overload, weight gain; Musculoskeletal: Arthritis, arthralgia, neck pain, hip pain, joint pain, leg pain, arm pain, lumbago; Nervous System/Psychiatric: Ataxia, memory impairment, tremor, insomnia, stroke, nervousness, confusion, peripheral neuropathy (eg, paresthesia, dysesthesia), spasm, hypersomnia, irritability; mood alterations (including depressive symptoms);Respiratory: Malignant lung neoplasms, hemoptysis, pulmonary edema, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngitis, rhinitis, rhinorrhea, chest sound abnormalities; Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, rare cases of other severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson Syndrome (causal relationship has not been established); Special Senses: Visual loss, diplopia, photophobia, taste alteration, olfactory disturbance; Urogenital: Acute renal failure, oliguria, anuria, uremia, progressive azotemia, renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION), pyelonephritis, dysuria, breast pain.
 
 Miscellaneous: A symptom complex has been reported which may include a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia, fever, vasculitis, eosinophilia and leukocytosis.
 Rash, photosensitivity or other dermatological manifestations may occur alone or in combination with these symptoms.
@@ -83,4 +80,4 @@ Rash, photosensitivity or other dermatological manifestations may occur alone or
 
 See WARNINGS - Pregnancy, Lisinopril, Fetal/Neonatal Morbidity and Mortality.
 
-Hydrochlorothiazide - Body as a Whole: Weakness; Digestive: Anorexia, gastric irritation, cramping, jaundice (intrahepatic cholestatic jaundice), (See WARNINGS, Hepatic Failure), pancreatitis, sialoadenitis, constipation; Hematologic: Leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia; Musculoskeletal: Muscle spasm; Nervous System/Psychiatric: Restlessness; Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS); Skin: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia; Special Senses: Xanthopsia; Hypersensitivity: Purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions.
+Hydrochlorothiazide - Body as a Whole: Weakness; Digestive: Anorexia, gastric irritation, cramping, jaundice (intrahepatic cholestatic jaundice) (See WARNINGS, Hepatic Failure), pancreatitis, sialoadenitis, constipation; Hematologic: Leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia; Musculoskeletal: Muscle spasm; Nervous System/Psychiatric: Restlessness; Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS); Skin: Erythema multiforme including Stevens-Johnson Syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia; Special Senses: Xanthopsia; Hypersensitivity: Purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions.

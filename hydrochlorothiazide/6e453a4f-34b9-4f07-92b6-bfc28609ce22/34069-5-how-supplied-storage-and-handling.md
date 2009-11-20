@@ -15,7 +15,7 @@ Protect from excessive light and humidity.
 
 ZESTORETIC is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2002, 2003, 2005, 2007
+© AstraZeneca 2009
 
 Manufactured for:
 
@@ -23,10 +23,13 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals, Inc.
+By: AstraZeneca UK Limited
 
-Carolina, PR 00984–1967
+Macclesfield, UK
 
-Rev 03/07
+Made in the United Kingdom
 
-PCC 660010
+SIC 35366–01
+
+Rev.
+11/2009

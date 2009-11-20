@@ -4,15 +4,14 @@
 
 Anaphylactoid and Possibly Related Reactions: Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including ZESTORETIC) may be subject to a variety of adverse reactions, some of them serious.
 
-Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported rarely in patients treated with angiotensin-converting enzyme inhibitors, including lisinopril.
+Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin-converting enzyme inhibitors, including lisinopril.
 This may occur at any time during treatment.
 ACE inhibitors have been associated with a higher rate of angioedema in black than in nonblack patients.
 ZESTORETIC should be promptly discontinued and the appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.
 Even in those instances where swelling of only the tongue is involved, without respiratory distress, patients may require prolonged observation since treatment with antihistamines and corticosteroids may not be sufficient.
 Very rarely, fatalities have been reported due to angioedema associated with laryngeal edema or tongue edema.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
-Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided.
-(See ADVERSE REACTIONS.)
+Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided (See ADVERSE REACTIONS).
 
 Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
@@ -21,7 +20,7 @@ Intestinal angioedema should be included in the differential diagnosis of patien
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
 
-Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life threatening anaphylactoid reactions.
+Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
 Anaphylactoid Reactions During Membrane Exposure: Thiazide-containing combination products are not recommended in patients with severe renal dysfunction.
@@ -31,13 +30,11 @@ Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
 
-Hypotension and Related Effects: Excessive hypotension was rarely seen in uncomplicated hypertensive patients but is a possible consequence of lisinopril use in salt/volume-depleted persons such as those treated vigorously with diuretics or patients on dialysis.
-(See PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS.)
+Hypotension and Related Effects: Excessive hypotension was rarely seen in uncomplicated hypertensive patients but is a possible consequence of lisinopril use in salt/volume-depleted persons such as those treated vigorously with diuretics or patients on dialysis (See PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
 
 Syncope has been reported in 0.8 percent of patients receiving ZESTORETIC.
 In patients with hypertension receiving lisinopril alone, the incidence of syncope was 0.1 percent.
-The overall incidence of syncope may be reduced by proper titration of the individual components.
-(See PRECAUTIONS, Drug Interactions, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
+The overall incidence of syncope may be reduced by proper titration of the individual components (See PRECAUTIONS, Drug Interactions, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 In patients with severe congestive heart failure, with or without associated renal insufficiency, excessive hypotension has been observed and may be associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death.
 Because of the potential fall in blood pressure in these patients, therapy should be started under very close medical supervision.
@@ -66,15 +63,17 @@ In rats decreased maternal weight gain and decreased fetal weight occurred down 
 Associated with the decreased fetal weight was a delay in fetal ossification.
 The decreased fetal weight and delay in fetal ossification were not seen in saline-supplemented animals given 90/10 mg/kg/day.
 
-When used in pregnancy during the second and third trimesters, ACE inhibitors can cause injury and even death to the developing fetus.
-When pregnancy is detected, ZESTORETIC should be discontinued as soon as possible.
-(See Lisinopril, Fetal/Neonatal Morbidity and Mortality below.)
+When used in pregnancy, during the second and third trimesters, ACE inhibitors can cause injury and even death to the developing fetus.
+When pregnancy is detected, ZESTORETIC should be discontinued as soon as possible (See Lisinopril, Fetal/Neonatal Morbidity and Mortality below).
 
 ### Lisinopril
 
 Fetal/Neonatal Morbidity and Mortality: ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature.
 When pregnancy is detected, ACE inhibitor therapy should be discontinued as soon as possible.
+
+In a published retrospective epidemiological study, infants whose mothers had taken an ACE inhibitor drug during the first trimester of pregnancy appeared to have an increased risk of major congenital malformations compared with infants whose mothers had not undergone first trimester exposure to ACE inhibitor drugs.
+The number of cases of birth defects is small and the findings of this study have not yet been repeated.
 
 The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
@@ -119,8 +118,7 @@ Sensitivity reactions may occur in patients with or without a history of allergy
 
 The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
 
-Lithium generally should not be given with thiazides.
-(See PRECAUTIONS, Drug Interactions, Lisinopril and Hydrochlorothiazide.)
+Lithium generally should not be given with thiazides (See PRECAUTIONS, Drug Interactions, Lisinopril and Hydrochlorothiazide).
 
 # PRECAUTIONS
 
@@ -141,16 +139,14 @@ Some hypertensive patients with no apparent pre-existing renal vascular disease 
 This is more likely to occur in patients with pre-existing renal impairment.
 Dosage reduction of lisinopril and/or discontinuation of the diuretic may be required.
 
-Evaluation of the hypertensive patient should always include assessment of renal function.
-(See DOSAGE and ADMINISTRATION.)
+Evaluation of the hypertensive patient should always include assessment of renal function (See DOSAGE AND ADMINISTRATION).
 
 Hyperkalemia: In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in approximately 1.4 percent of hypertensive patients treated with lisinopril plus hydrochlorothiazide.
 In most cases these were isolated values which resolved despite continued therapy.
 Hyperkalemia was not a cause of discontinuation of therapy.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes.
 Hyperkalemia can cause serious, sometimes fatal, arrhythmias.
-ZESTORETIC should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium.
-(See Drug Interactions.)
+ZESTORETIC should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium (See PRECAUTIONS, Drug Interactions).
 
 Cough: Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, almost always resolving after discontinuation of therapy.
 ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
@@ -170,8 +166,7 @@ Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis i
 
 Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
 Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (eg, increased ventricular irritability).
-Because lisinopril reduces the production of aldosterone, concomitant therapy with lisinopril attenuates the diuretic induced potassium loss.
-(See Drug Interactions, Agents Increasing Serum Potassium.)
+Because lisinopril reduces the production of aldosterone, concomitant therapy with lisinopril attenuates the diuretic-induced potassium loss (See PRECAUTIONS, Drug Interactions, Agents Increasing Serum Potassium).
 
 Although any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
 
@@ -199,7 +194,7 @@ Increases in cholesterol and triglyceride levels may be associated with thiazide
 
 ## Information for Patients
 
-Angioedema: Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin-converting enzyme inhibitors, including ZESTORETIC.
+Angioedema: Angioedema, including laryngeal edema may occur at any time during treatment with angiotensin-converting enzyme inhibitors, including ZESTORETIC.
 Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
 
 Symptomatic Hypotension: Patients should be cautioned to report lightheadedness especially during the first few days of therapy.
@@ -212,7 +207,7 @@ Hyperkalemia: Patients should be told not to use salt substitutes containing pot
 
 Leukopenia/Neutropenia: Patients should be told to report promptly any indication of infection (eg, sore throat, fever) which may be a sign of leukopenia/neutropenia.
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to ACE inhibitors, and they should also be told that these consequences do not appear to have resulted from intrauterine ACE-inhibitor exposure that has been limited to the first trimester.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors during pregnancy.
 These patients should be asked to report pregnancies to their physicians as soon as possible.
 
 NOTE: As with many other drugs, certain advice to patients being treated with ZESTORETIC is warranted.
@@ -221,16 +216,14 @@ It is not a disclosure of all possible adverse or intended effects.
 
 ## Drug Interactions
 
-## Lisinopril
+### Lisinopril
 
 Hypotension - Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with lisinopril.
 The possibility of hypotensive effects with lisinopril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with lisinopril.
-If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour.
-(See WARNINGS, and DOSAGE AND ADMINISTRATION.)
-When a diuretic is added to the therapy of a patient receiving lisinopril, an additional antihypertensive effect is usually observed.
-(See DOSAGE AND ADMINISTRATION.)
+If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS, and DOSAGE AND ADMINISTRATION).
+When a diuretic is added to the therapy of a patient receiving lisinopril, an additional antihypertensive effect is usually observed (See DOSAGE AND ADMINISTRATION).
 
-Non-steroidal Anti inflammatory Agents: In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of lisinopril may result in a further deterioration of renal function.
+Non-steroidal Anti-inflammatory Agents: In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of lisinopril may result in a further deterioration of renal function.
 These effects are usually reversible.
 In a study in 36 patients with mild to moderate hypertension where the antihypertensive effects of lisinopril alone were compared to lisinopril given concomitantly with indomethacin, the use of indomethacin was associated with a reduced effect, although the difference between the two regimens was not significant.
 
@@ -246,7 +239,7 @@ Lithium: Lithium toxicity has been reported in patients receiving lithium concom
 Lithium toxicity was usually reversible upon discontinuation of lithium and the ACE inhibitor.
 It is recommended that serum lithium levels be monitored frequently if lisinopril is administered concomitantly with lithium.
 
-## Hydrochlorothiazide
+### Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics.
 
@@ -272,7 +265,7 @@ Refer to the package insert for lithium preparations before use of such preparat
 Non-Steroidal Anti-inflammatory Drugs - In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when ZESTORETIC and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of ZESTORETIC is obtained.
 
-Gold - Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including ZESTORETIC.
+Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including ZESTORETIC.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

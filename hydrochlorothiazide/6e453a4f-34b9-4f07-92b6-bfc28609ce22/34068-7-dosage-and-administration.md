@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Lisinopril monotherapy is an effective treatment of hypertension in once-daily doses of 10-80 mg, while hydrochlorothiazide monotherapy is effective in doses of 12.5-50 mg per day.
+Lisinopril monotherapy is an effective treatment of hypertension in once-daily doses of 10-80 mg, while hydrochlorothiazide monotherapy is effective in doses of 12.5 - 50 mg per day.
 In clinical trials of lisinopril/hydrochlorothiazide combination therapy using lisinopril doses of 10-80 mg and hydrochlorothiazide doses of 6.25-50 mg, the antihypertensive response rates generally increased with increasing dose of either component.
 
 The side effects (see WARNINGS) of lisinopril are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (eg, pancreatitis), the former much more common than the latter.
@@ -19,11 +19,9 @@ The diuretic should, if possible, be discontinued for two to three days before b
 (See WARNINGS.)
 If the patient's blood pressure is not controlled with lisinopril alone, diuretic therapy may be resumed.
 
-If the diuretic cannot be discontinued, an initial dose of 5 mg of lisinopril should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour.
-(See WARNINGS and PRECAUTIONS, Drug Interactions.)
+If the diuretic cannot be discontinued, an initial dose of 5 mg of lisinopril should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS and PRECAUTIONS, Drug Interactions).
 
-Concomitant administration of ZESTORETIC with potassium supplements, potassium salt substitutes or potassium-sparing diuretics may lead to increases of serum potassium.
-(See PRECAUTIONS.)
+Concomitant administration of ZESTORETIC with potassium supplements, potassium salt substitutes or potassium-sparing diuretics may lead to increases of serum potassium (See PRECAUTIONS).
 
 Replacement Therapy: The combination may be substituted for the titrated individual components.
 

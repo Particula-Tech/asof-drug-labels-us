@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019888"
+  ],
   "inn": "hydrochlorothiazide",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0310-0142-10",
     "0310-0145-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril and hydrochlorothiazide",
+      "name": "ZESTORETIC"
+    }
+  ],
   "setid": "6e453a4f-34b9-4f07-92b6-bfc28609ce22",
   "source": "dailymed"
 }
