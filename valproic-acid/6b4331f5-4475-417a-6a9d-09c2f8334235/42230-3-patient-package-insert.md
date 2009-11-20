@@ -1,4 +1,4 @@
-# Patient Information Leaflet
+# PATIENT INFORMATION LEAFLET
 
 ## Important Information for Women Who Could Become Pregnant About the Use of DEPAKOTE®, DEPAKOTE® ER, DEPAKOTE® Sprinkle Capsules, and DEPAKENE®.
 

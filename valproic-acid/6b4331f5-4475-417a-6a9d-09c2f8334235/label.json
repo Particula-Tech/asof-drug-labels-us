@@ -1,12 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018081",
+    "NDA018082"
+  ],
   "inn": "valproic-acid",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
     "0074-5681-13",
     "0074-5682-16"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "valproic acid",
+      "name": "Depakene"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "valproic acid",
+      "name": "Depakene"
+    }
+  ],
   "setid": "6b4331f5-4475-417a-6a9d-09c2f8334235",
   "source": "dailymed"
 }

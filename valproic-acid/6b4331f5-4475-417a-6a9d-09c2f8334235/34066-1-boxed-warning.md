@@ -1,3 +1,5 @@
+# Boxed Warning
+
 BOX WARNING
 
 HEPATOTOXICITY
