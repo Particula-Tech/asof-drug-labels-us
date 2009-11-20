@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA010417"
+  ],
+  "inn": "lidocaine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-490-89"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lidocaine hydrochloride",
+      "name": "Xylocaine-MPF"
+    }
+  ],
+  "setid": "b1a780e7-c027-4c5e-95df-d9876efb7d43",
+  "source": "dailymed"
+}
