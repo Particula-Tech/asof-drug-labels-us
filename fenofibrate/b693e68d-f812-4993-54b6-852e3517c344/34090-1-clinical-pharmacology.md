@@ -12,7 +12,7 @@ The effects of fenofibric acid seen in clinical practice have been explained in 
 Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
 
 The resulting fall in triglycerides produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation), to large buoyant particles.
-These larger particles have a greateraffinity for cholesterol receptors and are catabolized rapidly.
+These larger particles have a greater affinity for cholesterol receptors and are catabolized rapidly.
 Activation of PPARα also induces an increase in the synthesis of apoproteins A-I, A-II and HDL-cholesterol.
 
 Fenofibrate also reduces serum uric acid levels in hyperuricemic and normal individuals by increasing the urinary excretion of uric acid.
@@ -100,7 +100,7 @@ Concomitant administration of a single dose of fenofibrate (equivalent to 145 mg
 
 A single dose of either pravastatin or fluvastatin had no clinically important effect on the pharmacokinetics of fenofibric acid.
 
-Concomitant administration of fenofibrate (equivalent to TRICOR 145 mg) with atorvastatin (20 mg) once daily for 10 days resulted in approximately 17% decrease (range from 67% decrease to 44% increase) in atorvastatin AUC valuesin 22 healthy males.
+Concomitant administration of fenofibrate (equivalent to TRICOR 145 mg) with atorvastatin (20 mg) once daily for 10 days resulted in approximately 17% decrease (range from 67% decrease to 44% increase) in atorvastatin AUC values in 22 healthy males.
 The atorvastatin Cmax values were not significantly affected by fenofibrate.
 The pharmacokinetics of fenofibric acid were not significantly affected by atorvastatin.
 

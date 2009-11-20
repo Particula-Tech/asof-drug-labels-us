@@ -6,7 +6,7 @@ The chemical name for fenofibrate is 2-[4-(4-chlorobenzoyl) phenoxy]-2-methyl-pr
 
 The empirical formula is C20H21O4Cl and the molecular weight is 360.83; fenofibrate is insoluble in water.
 The melting point is 79-82°C.
-Fenofibrate is a whitesolid which is stable under ordinary conditions.
+Fenofibrate is a white solid which is stable under ordinary conditions.
 
 ## Inactive Ingredients
 

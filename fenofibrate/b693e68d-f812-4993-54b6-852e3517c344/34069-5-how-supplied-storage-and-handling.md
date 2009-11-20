@@ -2,9 +2,9 @@
 
 TRICOR® (fenofibrate tablets) is available in two strengths:
 
-48 mg yellow tablets, imprinted with “Abbott“A” logo” and Abbo-Code identification letters "FI", available in bottles of 90 (NDC 0074-6122-90).
+48 mg yellow tablets, imprinted with “Abbott “A” logo” and Abbo-Code identification letters "FI", available in bottles of 90 (NDC 0074-6122-90).
 
-145 mg white tablets, imprinted with “Abbott“A” logo”and Abbo-Code identification letters "FO", available in bottles of 90 (NDC 0074-6123-90).
+145 mg white tablets, imprinted with “Abbott “A” logo”and Abbo-Code identification letters "FO", available in bottles of 90 (NDC 0074-6123-90).
 
 ## Storage
 
@@ -16,4 +16,4 @@ Protect from moisture.
 
 Manufactured for Abbott Laboratories, North Chicago, IL 60064, U.S.A.
 
-by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland. or Laboratories Fournier SA, Rue de Pres Potets, 21121 Fontaine-les-Dijon, France.
+by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.
