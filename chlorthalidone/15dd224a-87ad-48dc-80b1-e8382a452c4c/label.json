@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA086831"
+  ],
   "inn": "chlorthalidone",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
-    " 0378-0213-10",
-    " 0378-0222-10",
     "0378-0213-01",
-    "0378-0222-01"
+    "0378-0213-10",
+    "0378-0222-01",
+    "0378-0222-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "Chlorthalidone"
+    }
+  ],
   "setid": "15dd224a-87ad-48dc-80b1-e8382a452c4c",
   "source": "dailymed"
 }
