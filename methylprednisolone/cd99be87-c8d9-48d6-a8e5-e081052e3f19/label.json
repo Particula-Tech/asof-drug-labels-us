@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA011856"
+  ],
+  "inn": "methylprednisolone",
+  "labeler": "Pharmacia and Upjohn Company",
+  "package_ndcs": [
+    "0009-0003-02",
+    "0009-0018-20",
+    "0009-0039-28",
+    "0009-0047-22",
+    "0009-0698-01",
+    "0009-0758-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "methylprednisolone sodium succinate",
+      "name": "Solu-Medrol"
+    }
+  ],
+  "setid": "cd99be87-c8d9-48d6-a8e5-e081052e3f19",
+  "source": "dailymed"
+}
