@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2])
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)]
 - Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
 - Withdrawal effects [see Warnings and Precautions (5.4)]
 - CNS-depressant effects [see Warnings and Precautions (5.5)]
@@ -160,9 +160,7 @@ Dose relationship for adverse reactions: There is evidence from dose comparison 
 
 Other adverse reactions observed during the premarketing evaluation of Ambien CR: Other treatment-emergent adverse reactions associated with participation in Ambien CR studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
 
-Adverse Events Observed During the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate:
-
-Immediate-release zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
+Adverse Events Observed During the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate: Immediate-release zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
 

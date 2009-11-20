@@ -93,4 +93,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807
 
-June 2009
+September 2009
