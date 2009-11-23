@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0107-7.0
+LAB-0107-8.0
 
-November 2008
+September 2009

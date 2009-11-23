@@ -5,11 +5,11 @@ Because of chemical, pharmacological, and clinical similarities between gemfibro
 In the first of those studies, the Coronary Drug Project, 1000 subjects with previous myocardial infarction were treated for five years with clofibrate.
 There was no difference in mortality between the clofibrate-treated subjects and 3000 placebo-treated subjects, but twice as many clofibrate-treated subjects developed cholelithiasis and cholecystitis requiring surgery.
 In the other study, conducted by the World Health Organization (WHO), 5000 subjects without known coronary heart disease were treated with clofibrate for five years and followed one year beyond.
-There was a statistically significant, 44%, higher age-adjusted total mortality in the clofibrate-treated than in a comparable placebo-treated control group during the trial period.
+There was a statistically significant (44%) higher age-adjusted total mortality in the clofibrate-treated group than in a comparable placebo-treated control group during the trial period.
 The excess mortality was due to a 33% increase in non-cardiovascular causes, including malignancy, post-cholecystectomy complications, and pancreatitis.
 The higher risk of clofibrate-treated subjects for gallbladder disease was confirmed.
 
-Because of the more limited size of the Helsinki Heart Study, the observed difference in mortality from any cause between the LOPID and placebo group is not statistically significantly different from the 29% excess mortality reported in the clofibrate group in the separate WHO study at the nine year follow-up (see CLINICAL PHARMACOLOGY).
+Because of the more limited size of the Helsinki Heart Study, the observed difference in mortality from any cause between the LOPID and placebo groups is not statistically significantly different from the 29% excess mortality reported in the clofibrate group in the separate WHO study at the nine year follow-up (see CLINICAL PHARMACOLOGY).
 Noncoronary heart disease related mortality showed an excess in the group originally randomized to LOPID primarily due to cancer deaths observed during the open-label extension.
 
 During the five year primary prevention component of the Helsinki Heart Study, mortality from any cause was 44 (2.2%) in the LOPID group and 43 (2.1%) in the placebo group; including the 3.5 year follow-up period since the trial was completed, cumulative mortality from any cause was 101 (4.9%) in the LOPID group and 83 (4.1%) in the group originally randomized to placebo (hazard ratio 1:20 in favor of placebo).
@@ -17,18 +17,18 @@ Because of the more limited size of the Helsinki Heart Study, the observed diffe
 Noncoronary heart disease related mortality showed an excess in the group originally randomized to LOPID at the 8.5 year follow-up (65 LOPID versus 45 placebo noncoronary deaths).
 
 The incidence of cancer (excluding basal cell carcinoma) discovered during the trial and in the 3.5 years after the trial was completed was 51 (2.5%) in both originally randomized groups.
-In addition, there were 16 basal cell carcinomas in the group originally randomized to LOPID and 9 in the group randomized to placebo (p=0.22).
+In addition, there were 16 basal cell carcinomas in the group originally randomized to LOPID and 9 in the group originally randomized to placebo (p=0.22).
 There were 30 (1.5%) deaths attributed to cancer in the group originally randomized to LOPID and 18 (0.9%) in the group originally randomized to placebo (p=0.11).
 Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study (see CLINICAL PHARMACOLOGY).
 
-A comparative carcinogenicity study was also done in rats comparing three drugs in this class: fenofibrate (10 and 60 mg/kg; 0.3 and 1.6 times the human dose), clofibrate (400 mg/kg; 1.6 times the human dose), and gemfibrozil (250 mg/kg; 1.7 times the human dose).
+A comparative carcinogenicity study was also done in rats comparing three drugs in this class: fenofibrate (10 and 60 mg/kg; 0.3 and 1.6 times the human dose, respectively), clofibrate (400 mg/kg; 1.6 times the human dose), and gemfibrozil (250 mg/kg; 1.7 times the human dose).
 Pancreatic acinar adenomas were increased in males and females on fenofibrate; hepatocellular carcinoma and pancreatic acinar adenomas were increased in males and hepatic neoplastic nodules in females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with gemfibrozil while testicular interstitial cell (Leydig cell) tumors were increased in males on all three drugs.
 
 2.
-A gallstone prevalence substudy of 450 Helsinki Heart Study participants showed a trend toward a greater prevalence of gallstones during the study within the LOPID treatment group (7.5% vs 4.9% for the placebo group, a 55% excess for the gemfibrozil group).
-A trend toward a greater incidence of gallbladder surgery was observed for the LOPID group (17 vs 11 subjects, a 54% excess).
+A gallstone prevalence substudy of 450 Helsinki Heart Study participants showed a trend toward a greater prevalence of gallstones during the study within the LOPID treatment group (7.5% versus 4.9% for the placebo group, a 55% excess for the gemfibrozil group).
+A trend toward a greater incidence of gallbladder surgery was observed for the LOPID group (17 versus 11 subjects, a 54% excess).
 This result did not differ statistically from the increased incidence of cholecystectomy observed in the WHO study in the group treated with clofibrate.
-Both clofibrate and gemfibrozil may increase cholesterol excretion into the bile leading to cholelithiasis.
+Both clofibrate and gemfibrozil may increase cholesterol excretion into the bile, leading to cholelithiasis.
 If cholelithiasis is suspected, gallbladder studies are indicated.
 LOPID therapy should be discontinued if gallstones are found.
 Cases of cholelithiasis have been reported with gemfibrozil therapy.
@@ -38,19 +38,19 @@ Since a reduction of mortality from coronary heart disease has not been demonstr
 If a significant serum lipid response is not obtained, LOPID should be discontinued.
 
 4.
-Concomitant Anticoagulants–Caution should be exercised when anticoagulants are given in conjunction with LOPID.
+Concomitant Anticoagulants – Caution should be exercised when anticoagulants are given in conjunction with LOPID.
 The dosage of the anticoagulant should be reduced to maintain the prothrombin time at the desired level to prevent bleeding complications.
 Frequent prothrombin determinations are advisable until it has been definitely determined that the prothrombin level has stabilized.
 
 5.
-Concomitant therapy with LOPID and an HMG-CoA reductase inhibitor is associated with an increased risk of skeletal muscle toxicity manifested as rhabdomyolysis, markedly elevated creatine kinase (CPK) levels and myoglobinuria, leading in a high proportion of cases to acute renal failure and death.
+Concomitant therapy with LOPID and an HMG-CoA reductase inhibitor is associated with an increased risk of skeletal muscle toxicity manifested as rhabdomyolysis, markedly elevated creatine kinase (CPK) levels, and myoglobinuria, leading in a high proportion of cases to acute renal failure and death.
 IN PATIENTS WHO HAVE HAD AN UNSATISFACTORY LIPID RESPONSE TO EITHER DRUG ALONE, THE BENEFIT OF COMBINED THERAPY WITH LOPID AND an HMG-CoA REDUCTASE INHIBITOR DOES NOT OUTWEIGH THE RISKS OF SEVERE MYOPATHY, RHABDOMYOLYSIS, AND ACUTE RENAL FAILURE (see PRECAUTIONS, Drug Interactions).
 The use of fibrates alone, including LOPID, may occasionally be associated with myositis.
-Patients receiving LOPID and complaining of muscle pain, tenderness or weakness should have prompt medical evaluation for myositis, including serum creatine–kinase level determination.
+Patients receiving LOPID and complaining of muscle pain, tenderness, or weakness should have prompt medical evaluation for myositis, including serum creatine–kinase level determination.
 If myositis is suspected or diagnosed, LOPID therapy should be withdrawn.
 
 6.
-Cataracts–Subcapsular bilateral cataracts occurred in 10%, and unilateral in 6.3%, of male rats treated with gemfibrozil at 10 times the human dose.
+Cataracts – Subcapsular bilateral cataracts occurred in 10%, and unilateral in 6.3%, of male rats treated with gemfibrozil at 10 times the human dose.
 
 # PRECAUTIONS
 
@@ -65,7 +65,7 @@ Periodic determination of serum lipids should be obtained, and the drug withdraw
 
 ## 3. Drug Interactions
 
-### (A) HMG-CoA reductase inhibitors
+### (A) HMG-CoA Reductase Inhibitors
 
 The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy.
 Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (see WARNINGS).
@@ -79,8 +79,15 @@ FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY D
 
 ### (C) Repaglinide
 
-In healthy volunteers, co-administration with gemfibrozil increased the plasma concentration of repaglinide and prolonged its hypoglycemic effects.
-Co-administration of gemfibrozil and repaglinide increases the risk for severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
+In healthy volunteers, co-administration with gemfibrozil (600 mg twice daily for 3 days) resulted in an 8.1-fold (range 5.5- to 15.0- fold) higher repaglinide AUC and a 28.6-fold (range 18.5- to 80.1-fold) higher repaglinide plasma concentration 7 hours after the dose.
+In the same study, gemfibrozil (600 mg twice daily for 3 days) + itraconazole (200 mg in the morning and 100 mg in the evening at Day 1, then 100 mg twice daily at Day 2-3) resulted in a 19.4- (range 12.9- to 24.7-fold) higher repaglinide AUC and a 70.4-fold (range 42.9- to 119.2-fold) higher repaglinide plasma concentration 7 hours after the dose.
+In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypoglycemic effects of repaglinide.
+Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
+
+### (D) Bile Acid-Binding Resins
+
+Reduced bioavailability of gemfibrozil may result when given simultaneously with resin-granule drugs such as colestipol.
+Administration of the drugs two hours or more apart is recommended.
 
 ## 4. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -106,7 +113,7 @@ LOPID has been shown to produce adverse effects in rats and rabbits at doses bet
 There are no adequate and well-controlled studies in pregnant women.
 LOPID should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Administration of LOPID to female rats at 2 times the human dose (based on surface area) before and throughout gestation caused a dose-related decrease in conception rate and, an increase in stillborns and a slight reduction in pup weight during lactation.
+Administration of LOPID to female rats at 2 times the human dose (based on surface area) before and throughout gestation caused a dose-related decrease in conception rate, an increase in stillborns, and a slight reduction in pup weight during lactation.
 There were also dose-related increased skeletal variations.
 Anophthalmia occurred, but rarely.
 
@@ -128,7 +135,7 @@ Therefore, periodic blood counts are recommended during the first 12 months of L
 
 ## 8. Liver Function
 
-Abnormal liver function tests have been observed occasionally during LOPID administration, including elevations of AST (SGOT), ALT (SGPT), LDH, bilirubin, and alkaline phosphatase.
+Abnormal liver function tests have been observed occasionally during LOPID administration, including elevations of AST, ALT, LDH, bilirubin, and alkaline phosphatase.
 These are usually reversible when LOPID is discontinued.
 Therefore, periodic liver function studies are recommended and LOPID therapy should be terminated if abnormalities persist.
 

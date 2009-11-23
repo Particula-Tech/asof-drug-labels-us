@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-LOPID (gemfibrozil tablets, USP) is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol.
+LOPID is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol.
 While modest decreases in total and low density lipoprotein (LDL) cholesterol may be observed with LOPID therapy, treatment of patients with elevated triglycerides due to Type IV hyperlipoproteinemia often results in a rise in LDL-cholesterol.
 LDL-cholesterol levels in Type IIb patients with elevations of both serum LDL-cholesterol and triglycerides are, in general, minimally affected by LOPID treatment; however, LOPID usually raises HDL-cholesterol significantly in this group.
 LOPID increases levels of high density lipoprotein (HDL) subfractions HDL2 and HDL3, as well as apolipoproteins AI and AII.
@@ -32,7 +32,7 @@ After approximately 6.5 years following randomization, all patients were informe
 After further elective changes in LOPID treatment status, 61% of patients in the group originally randomized to LOPID were taking drug; in the group originally randomized to placebo, 65% were taking LOPID.
 The event rate per 1000 occurring during the open-label follow-up period is detailed in Table II.
 
-Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occurring During the 3.5 Year Open-Label Follow-up to the Helsinki HeartStudyThe six open-label groups are designated first by the original randomization (P = placebo, L = LOPID) and then by the drug taken in the follow-up period (N = Attend clinic but took no drug, L = LOPID, Drop = No attendance at clinic during open-label).
+Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occurring During the 3.5 Year Open-Label Follow-up to the Helsinki Heart StudyThe six open-label groups are designated first by the original randomization (P = placebo, L = LOPID) and then by the drug taken in the follow-up period (N = Attend clinic but took no drug, L = LOPID, Drop = No attendance at clinic during open-label).
 
 |  | N=215 | N=494 | N=1283 | N=221 | N=574 | N=1207 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -44,11 +44,11 @@ Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occur
 
 Cumulative mortality through 8.5 years showed a 20% relative excess of deaths in the group originally randomized to LOPID versus the originally randomized placebo group and a 20% relative decrease in cardiac events in the group originally randomized to LOPID versus the originally randomized placebo group (see Table III).
 This analysis of the originally randomized "intent-to-treat'' population neglects the possible complicating effects of treatment switching during the open-label phase.
-Adjustment of hazard ratios taking into account open-label treatment status from years 6.5 to 8.5 could change the reported hazard ratios for mortality toward unity.
+Adjustment of hazard ratios taking into account open-label treatment status from years 6.5 to 8.5, could change the reported hazard ratios for mortality toward unity.
 
-Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Mortality in the Helsinki Heart Study, Years 0–8.5Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.
+Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths, and All-Cause Mortality in the Helsinki Heart Study, Years 0–8.5Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.
 
-|  | Start | Start | RatioHazard ration for risk event in the group originally randomized to LOPID compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study condition. | Ratio95% confidence intervals of LOPID:placebo group hazard ratio |
+|  | Start | Start | RatioHazard ratio for risk event in the group originally randomized to LOPID compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study conditions. | Ratio95% confidence intervals of LOPID:placebo group hazard ratio |
 | --- | --- | --- | --- | --- |
 | Event | LOPID | Placebo | LOPID:Placebo |  |
 |  | at Study | at Study | Hazard | Cl Hazard |
@@ -63,7 +63,7 @@ Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Morta
 
 It is not clear to what extent the findings of the primary prevention component of the Helsinki Heart Study can be extrapolated to other segments of the dyslipidemic population not studied (such as women, younger or older males, or those with lipid abnormalities limited solely to HDL-cholesterol) or to other lipid-altering drugs.
 
-The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction or unexplained ECG changes.
+The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction, or unexplained ECG changes.
 The primary efficacy endpoint of the study was cardiac events (the sum of fatal and non-fatal myocardial infarctions and sudden cardiac deaths).
 The hazard ratio (LOPID:placebo) for cardiac events was 1.47 (95% confidence limits 0.88–2.48, p=0.14).
 Of the 35 patients in the LOPID group who experienced cardiac events, 12 patients suffered events after discontinuation from the study.
@@ -88,10 +88,11 @@ Peak plasma levels occur in 1 to 2 hours with a plasma half-life of 1.5 hours fo
 
 Gemfibrozil is completely absorbed after oral administration of LOPID tablets, reaching peak plasma concentrations 1 to 2 hours after dosing.
 Gemfibrozil pharmacokinetics are affected by the timing of meals relative to time of dosing.
-In one study, both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
+In one study (ref.
+4), both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
 Average AUC was reduced by 14–44% when LOPID was administered after meals compared to 0.5 hour before meals.
 In a subsequent study, rate of absorption of LOPID was maximum when administered 0.5 hour before meals with the Cmax 50–60% greater than when given either with meals or fasting.
-In this study, there were no significant effects on AUC of timing of dose relative to meals (seeDOSAGE AND ADMINISTRATION).
+In this study, there were no significant effects on AUC of timing of dose relative to meals (see DOSAGE AND ADMINISTRATION).
 
 LOPID mainly undergoes oxidation of a ring methyl group to successively form a hydroxymethyl and a carboxyl metabolite.
 Approximately seventy percent of the administered human dose is excreted in the urine, mostly as the glucuronide conjugate, with less than 2% excreted as unchanged gemfibrozil.

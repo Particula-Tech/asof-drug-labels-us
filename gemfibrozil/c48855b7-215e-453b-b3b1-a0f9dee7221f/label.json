@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018422"
+  ],
   "inn": "gemfibrozil",
-  "labeler": "Parke-Davis",
+  "labeler": "Parke-Davis Div of Pfizer Inc",
   "package_ndcs": [
     "0071-0737-20",
     "0071-0737-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gemfibrozil",
+      "name": "Lopid"
+    }
+  ],
   "setid": "c48855b7-215e-453b-b3b1-a0f9dee7221f",
   "source": "dailymed"
 }
