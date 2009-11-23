@@ -86,7 +86,7 @@ Immunosuppressed patients are at increased risk for opportunistic infections, in
 These include BK virus-associated nephropathy, which has been observed in patients receiving immunosuppressants, including Rapamune.
 This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see Adverse Reactions (6.6)].
 Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
-Reduction in immunosupression should be considered for patients who develop evidence of BK virus-associated nephropathy.
+Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
 ## 5.11 Interstitial Lung Disease
 

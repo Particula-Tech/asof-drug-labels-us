@@ -39,7 +39,7 @@ INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 227) | Rapamune Oral Solution 5 mg/day (n = 219) | Placebo (n = 130) |
 | --- | --- | --- | --- |
-| Efficacy failure at 6 monthsc | 30.0 | 25.6 | 47.7 |
+| Efficacy failure at 6 months c | 30.0 | 25.6 | 47.7 |
 | Components of efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 24.7 | 19.2 | 41.5 |
 | Graft loss | 3.1 | 3.7 | 3.9 |

@@ -42,7 +42,7 @@ MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE
 
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS in renal transplant patients, were significantly correlated with AUCτ,ss.
 Upon repeated, twice-daily administration without an initial loading dose in a multiple-dose study, the average trough concentration of sirolimus increases approximately 2- to 3-fold over the initial 6 days of therapy, at which time steady-state is reached.
-A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see Dosage and Administration (2, 2.3), Warning and Precautions (5.14)].
+A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see Dosage and Administration (2,2.3), Warning and Precautions (5.14)].
 
 ### Absorption
 
@@ -69,7 +69,7 @@ Sirolimus is extensively bound (approximately 92%) to human plasma proteins, mai
 Sirolimus is a substrate for both CYP3A4 and P-gp.
 Sirolimus is extensively metabolized in the intestinal wall and liver and undergoes counter-transport from enterocytes of the small intestine into the gut lumen.
 Inhibitors of CYP3A4 and P-gp increase sirolimus concentrations.
-Inducers of CYP3A4 and P-gp decrease sirolimus concentrations [see Warnings and Precautions (5.16) and Drug Interactions (7)].
+Inducers of CYP3A4 and P-gp decrease sirolimus concentrations [see Warnings and Precautions (5.17) and Drug Interactions (7)].
 Sirolimus is extensively metabolized by O‑demethylation and/or hydroxylation.
 Seven (7) major metabolites, including hydroxy, demethyl, and hydroxydemethyl, are identifiable in whole blood.
 Some of these metabolites are also detectable in plasma, fecal, and urine samples.
@@ -127,7 +127,7 @@ At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majo
 
 SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)a,b
 
-| Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/ml) | AUCτ,ss (ng•h/mL) | CL/Fc (mL/h/kg) | CL/Fc (L/h/m2) |
+| Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/ml) | AUCT,ss (ng●h/mL) | CL/Fc (mL/h/kg) | CL/Fc (L/h/m2) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6-11 | 8 | 27 ± 10 | 22.1 ± 8.9 | 5.88 ± 4.05 | 10.6 ± 4.3 | 356 ± 127 | 214 ± 129 | 5.4 ± 2.8 |
 | 12-18 | 14 | 52 ± 15 | 34.5 ± 12.2 | 2.7 ± 1.5 | 14.7 ± 8.6 | 466 ± 236 | 136 ± 57 | 4.7 ± 1.9 |
@@ -193,11 +193,11 @@ The simultaneous oral administration of 10 mg of sirolimus oral solution and 120
 Sirolimus Cmax, tmax, and AUC were increased 1.4-, 1.3-, and 1.6-fold, respectively.
 Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem.
 
-Erythromycin: Erythromycin is a substrate and inhibitor of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and erythromycin is not recommended [see Warnings and Precautions (5.16), Drug Interactions (7.2)].
+Erythromycin: Erythromycin is a substrate and inhibitor of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and erythromycin is not recommended [see Warnings and Precautions (5.17), Drug Interactions (7.2)].
 The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 800 mg q 8h of erythromycin as erythromycin ethylsuccinate tablets at steady state to 24 healthy volunteers significantly affected the bioavailability of sirolimus and erythromycin.
 Sirolimus Cmax and AUC were increased 4.4- and 4.2-fold respectively and tmax was increased by 0.4 hr. Erythromycin Cmax and AUC were increased 1.6- and 1.7-fold, respectively, and tmax was increased by 0.3 hr.
 
-Ketoconazole: Ketoconazole is a strong inhibitor of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and ketoconazole is not recommended [see Warnings and Precautions (5.16), Drug Interactions (7.2)].
+Ketoconazole: Ketoconazole is a strong inhibitor of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and ketoconazole is not recommended [see Warnings and Precautions (5.17), Drug Interactions (7.2)].
 Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure after administration of Rapamune Oral Solution, as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 38%, and 10.9-fold, respectively.
 However, the terminal t½ of sirolimus was not changed.
 Single-dose sirolimus did not affect steady-state 12-hour plasma ketoconazole concentrations.
