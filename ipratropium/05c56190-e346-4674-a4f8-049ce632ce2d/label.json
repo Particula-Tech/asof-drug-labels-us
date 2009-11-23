@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076664"
+  ],
   "inn": "ipratropium",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-0045-44"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "ipratropium bromide",
+      "name": "Ipratropium Bromide"
+    }
+  ],
   "setid": "05c56190-e346-4674-a4f8-049ce632ce2d",
   "source": "dailymed"
 }
