@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017058"
+  ],
+  "inn": "methadone",
+  "labeler": "Roxane Laboratories, Inc",
+  "package_ndcs": [
+    "0054-4538-25",
+    "64019-538-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methadone hcl",
+      "name": "DISKETS"
+    }
+  ],
+  "setid": "e6af84de-cbfc-4a3b-bd73-6bcf77337168",
+  "source": "dailymed"
+}

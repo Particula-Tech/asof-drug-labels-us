@@ -1,0 +1,5 @@
+# CONTRAINDICATIONS
+
+DISKETS are contraindicated in patients with a known hypersensitivity to methadone hydrochloride or any other ingredient in DISKETS.
+Methadone is contraindicated in any situation where opioids are contraindicated such as: patients with respiratory depression (in the absence of resuscitative equipment or in unmonitored settings), and in patients with acute bronchial asthma or hypercarbia.
+Methadone is contraindicated in any patient who has or is suspected of aving a paralytic ileus.
