@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Hypertension
 
@@ -66,8 +66,7 @@ These results are summarized in the table below.
 |  | (19.4%) | (19.7%) | (0.90-1.15) |  |
 | HF morbidity | 801 | 723 | 0.87 | 0.009 |
 |  | (32.1%) | (28.8%) | (0.79-0.97) |  |
-
-* CI = Confidence Interval
+| * CI = Confidence Interval |  |  |  |  |
 
 Although the overall morbidity result favored valsartan, this result was largely driven by the 7% of patients not receiving an ACE inhibitor, as shown in the following table.
 

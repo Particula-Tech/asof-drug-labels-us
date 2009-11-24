@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Studies Experience
 
@@ -112,6 +112,8 @@ Clinical Laboratory Tests: Hyperkalemia;
 Dermatologic: Alopecia.
 
 Blood and Lymphatic: There are very rare reports of thrombocytopenia.
+
+Vascular: Vasculitis.
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 

@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Diovan (valsartan) is available as tablets containing valsartan 40 mg, 80 mg, 160 mg, or 320 mg.
 All strengths are packaged in bottles and unit dose blister packages (10 strips of 10 tablets) as described below.
@@ -9,7 +9,7 @@ All strengths are packaged in bottles and unit dose blister packages (10 strips 
 | Tablet | Color | Deboss |  | NDC 0078-XXXX-XX |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Side 1 | Side 2 |  | Bottle of | Blister |
-|  |  |  |  | 30 | 90 |  |
+|  |  |  |  | 30 | 90 | Packages of 100 |
 | 40 mg | Yellow | NVR | DO | 0423-15 | – | 0423-06 |
 | 80 mg | Pale red | NVR | DV | – | 0358-34 | 0358-06 |
 | 160 mg | Grey-orange | NVR | DX | – | 0359-34 | 0359-06 |

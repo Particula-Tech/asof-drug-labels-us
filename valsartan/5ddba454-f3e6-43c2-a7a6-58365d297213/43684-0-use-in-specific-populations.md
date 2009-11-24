@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -13,7 +13,6 @@ In several dozen published cases, ACE inhibitor use during the second and third 
 Oligohydramnios was also reported, presumably from decreased fetal renal function.
 In this setting, oligohydramnios was associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
 Prematurity, intrauterine growth retardation, and patent ductus arteriosus were also reported, although it is not clear whether these occurrences were due to exposure to the drug.
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
 In a retrospective study, first trimester use of ACE inhibitors, a specific class of drugs acting on the renin angiotensin system, was associated with a potential risk of birth defects.
 
 When pregnancy occurs in a patient using Diovan, the physician should discontinue Diovan treatment as soon as possible.

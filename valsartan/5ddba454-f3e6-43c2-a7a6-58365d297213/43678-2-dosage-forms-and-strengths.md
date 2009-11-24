@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 40 mg are scored yellow ovaloid tablets with beveled edges, imprinted NVR/DO (Side 1/Side 2)
 

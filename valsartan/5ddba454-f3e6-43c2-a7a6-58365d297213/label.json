@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021283"
+  ],
   "inn": "valsartan",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "0078-0423-06",
     "0078-0423-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "valsartan",
+      "name": "Diovan"
+    }
+  ],
   "setid": "5ddba454-f3e6-43c2-a7a6-58365d297213",
   "source": "dailymed"
 }
