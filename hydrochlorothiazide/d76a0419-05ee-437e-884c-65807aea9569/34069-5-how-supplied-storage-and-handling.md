@@ -1,62 +1,57 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Diovan HCT® (valsartan and hydrochlorothiazide, USP) is available as tablets containing valsartan/hydrochlorothiazide 80/12.5 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg and 320/25 mg.
-All strengths are packaged in bottles of 90 tablets and unit dose blister packages.
+Diovan HCT (valsartan and hydrochlorothiazide, USP) is available as non-scored tablets containing valsartan/hydrochlorothiazide 80/12.5 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg and 320/25 mg. strengths are available as follows.
 
-80/12.5 mg Tablet– Light orange, ovaloid with slightly convex faces debossed CG on one side and HGH on the other side.
+80/12.5 mg Tablet - Light orange, ovaloid with slightly convex faces debossed CG on one side and HGH on the other side.
 
-Bottles of 90 …………………………………………………….NDC 0078-0314-34
+Bottles of 90 NDC 0078-0314-34
 
-Unit Dose (blister pack) ………………...………………...…….NDC 0078-0314-06
-
-Box of 100 (strips of 10)
-
-160/12.5 mg Tablet– Dark red, ovaloid with slightly convex faces debossed CG on one side and HHH on the other side.
-
-Bottles of 90 …………………………………………..……..…..NDC 0078-0315-34
-
-Unit Dose (blister pack) ………………………..…….…..……..NDC 0078-0315-06
+Unit Dose (blister pack) NDC 0078-0314-06
 
 Box of 100 (strips of 10)
 
-160/25 mg Tablet– Brown orange, ovaloid with slightly convex faces debossed NVR on one side and HXH on the other side.
+160/12.5 mg Tablet - Dark red, ovaloid with slightly convex faces debossed CG on one side and HHH on the other side.
 
-Bottles of 90……………………………………………………..NDC 0078-0383-34
+Bottles of 90 NDC 0078-0315-34
 
-Unit Dose (blister pack) ……………………….………………..NDC 0078-0383-06
-
-Box of 100 (strips of 10)
-
-320/12.5 mg Tablet – Pink, ovaloid with beveled edge, debossed NVR on one side and HIL on the other side.
-
-Bottles of 90 ………………………………………………….….NDC 0078-0471-34
-
-Unit Dose (blister pack) ……………..………………….………NDC 0078-0471-06
+Unit Dose (blister pack) NDC 0078-0315-06
 
 Box of 100 (strips of 10)
 
-320/25 mg Tablet– Yellow, ovaloid with beveled edge, debossed NVR on one side and CTI on the other side.
+Unit Dose (blister Pack of 30) NDC 0078-0315-15
 
-Bottles of 90 ………………………………….…………...……..NDC 0078-0472-34
+160/25 mg Tablet - Brown orange, ovaloid with slightly convex faces debossed NVR on one side and HXH on the other side.
 
-Unit Dose (blister pack) ……………..……….………….………NDC 0078-0472-06
+Bottles of 90 NDC 0078-0383-34
+
+Unit Dose (blister pack) NDC 0078-0383-06
 
 Box of 100 (strips of 10)
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Unit Dose (blister pack of 30) NDC 0078-0383-15
 
-[see USP Controlled Room Temperature.]
+320/12.5 mg Tablet - Pink, ovaloid with beveled edge, debossed NVR on one side and HIL on the other side.
+
+Bottles of 90 NDC 0078-0471-34
+
+Unit Dose (blister pack) NDC 0078-0471-06
+
+Box of 100 (strips of 10)
+
+Unit Dose (blister pack of 30) NDC 0078-0471-15
+
+320/25 mg Tablet - Yellow, ovaloid with beveled edge, debossed NVR on one side and CTI on the other side.
+
+Bottles of 90 NDC 0078-0472-34
+
+Unit Dose (blister pack) NDC 0078-0472-06
+
+Box of 100 (strips of 10)
+
+Unit Dose (blister pack of 30) NDC 0078-0472-15
+
+Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
 
 Protect from moisture.
 
 Dispense in tight container (USP).
-
-REV: OCTOBER2006 Printed in U.S.A.
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-NDA 20-818/labelT200628+preg.doc
