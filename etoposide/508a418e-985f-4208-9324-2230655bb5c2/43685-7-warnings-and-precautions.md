@@ -29,12 +29,12 @@ Carcinogenicity tests with etoposide have not been conducted in laboratory anima
 
 In all instances where the use of etoposide is considered for chemotherapy, the physician must evaluate the need and usefulness of the drug against the risk of adverse reactions.
 Most such adverse reactions are reversible if detected early.
-If severe reactions occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken according to the clinical judgment of the physician.
+If severe reactions occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken according to the clinical judgement of the physician.
 Reinstitution of etoposide therapy should be carried out with caution, and with adequate consideration of the further need for the drug and alertness as to possible recurrence of toxicity.
 
 Patients with low serum albumin may be at an increased risk for etoposide associated toxicities.
 
-## Laboratory tests
+## Laboratory Tests
 
 Periodic complete blood counts should be done during the course of etoposide treatment.
 They should be performed prior to each cycle of therapy and at appropriate intervals during and after therapy.
@@ -60,7 +60,7 @@ Data are not available in patients with creatinine clearances <15 mL/min and fur
 
 High-dose cyclosporin A resulting in concentrations above 2000 ng/mL administered with oral etoposide has led to an 80% increase in etoposide exposure with a 38% decrease in total body clearance of etoposide compared to etoposide alone.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Etoposide has been shown to be mutagenic in Ames assay.
 
@@ -73,16 +73,16 @@ Irreversible testicular atrophy was present in rats treated with etoposide intra
 
 Pregnancy “Category D” (see WARNINGS).
 
-## Nursing mothers
+## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from etoposide, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric use
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Geriatric use
+## Geriatric Use
 
 Of more than 600 patients in four clinical studies in the NDA databases who received etoposide or etoposide phosphate in combination with other chemotherapeutic agents for the treatment of small cell lung cancer (SCLC), about one third were older than 65 years.
 When advanced age was determined to be a prognostic factor for response or survival in these studies, comparisons between treatment groups were performed for the elderly subset.

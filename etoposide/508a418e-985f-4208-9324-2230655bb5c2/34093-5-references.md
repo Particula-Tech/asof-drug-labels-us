@@ -32,7 +32,10 @@ Am J Hosp Pharm.1990; 47:1033–1049.
 (OSHA Work-Practice Guidelines.).
 Am J Health-SystPharm.1996; 53:1669-1685.
 
-Manufactured by: R.P.
-Scherer GmbH & Co. KG D-69412 Eberbach/Baden Germany
+Manufactured by: R. P. Scherer GmbH & Co. KG D-69412 Eberbach/Baden Germany
 
-Manufactured for: GENPHARM ULC Toronto, Ontario Canada M8Z 2S6 Issued March 2006 006-430-05 (P1)
+Packaged by: Cardinal Health 3001 Red Lion Road Philadelphia, PA 19114-1123
+
+Distributed by: MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+
+009-032-02 September 2006

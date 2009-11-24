@@ -12,7 +12,7 @@ The predominant macromolecular effect of etoposide appears to be the induction o
 
 On intravenous administration, the disposition of etoposide is best described as a biphasic process with a distribution half-life of about 1.5 hours and terminal elimination half-life ranging from 4 to 11 hours.
 Total body clearance values range from 33 to 48 mL/min or 16 to 36 mL/min/m2 and, like the terminal elimination half-life, are independent of dose over a range 100-600 mg/m2.
-Over the same dose range, the areas under the plasma concentration vs. time curves (AUC) and the maximum plasma concentration (Cmax) values increase linearly with dose.
+Over the same dose range, the areas under the plasma concentration vs time curves (AUC) and the maximum plasma concentration (Cmax) values increase linearly with dose.
 Etoposide does not accumulate in the plasma following daily administration of 100 mg/m2 for 4 to 5 days.
 
 The mean volumes of distribution at steady state fall in the range of 18 to 29 liters or 7 to 17 L/m2.
