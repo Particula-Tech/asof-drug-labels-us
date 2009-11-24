@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078813"
+  ],
+  "inn": "oxaliplatin",
+  "labeler": "Hospira Worldwide, Inc.",
+  "package_ndcs": [
+    "61703-363-18",
+    "61703-363-22"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "oxaliplatin",
+      "name": "Oxaliplatin"
+    }
+  ],
+  "setid": "e51a62ba-d163-4c57-835c-8c86cf097e40",
+  "source": "dailymed"
+}
