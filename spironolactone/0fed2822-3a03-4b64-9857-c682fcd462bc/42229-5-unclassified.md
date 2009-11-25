@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0231-3.0
+LAB-0231-4.0
 
-June 2006
+January 2008

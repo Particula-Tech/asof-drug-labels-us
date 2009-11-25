@@ -10,7 +10,7 @@ Short-term preoperative treatment of patients with primary hyperaldosteronism.
 
 Long-term maintenance therapy for patients with discrete aldosterone-producing adrenal adenomas who are judged to be poor operative risks or who decline surgery.
 
-Long-term maintenance therapy for patients with bilateral micro- or macronodular adrenal hyperplasia (idiopathic hyperaldosteronism).
+Long-term maintenance therapy for patients with bilateral micro or macronodular adrenal hyperplasia (idiopathic hyperaldosteronism).
 
 Edematous conditions for patients with:
 
@@ -36,6 +36,10 @@ Usually in combination with other drugs, Aldactone is indicated for patients who
 
 For the treatment of patients with hypokalemia when other measures are considered inappropriate or inadequate.
 Aldactone is also indicated for the prophylaxis of hypokalemia in patients taking digitalis when other measures are considered inadequate or inappropriate.
+
+## Severe heart failure (NYHA class III – IV)
+
+To increase survival, and to reduce the need for hospitalization for heart failure when used in addition to standard therapy.
 
 ## Usage in Pregnancy
 

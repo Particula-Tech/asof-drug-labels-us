@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA012151"
+  ],
   "inn": "spironolactone",
-  "labeler": "G.D. Searle, LLC",
+  "labeler": "G.D. Searle, LLC Divison of Pfizer Inc",
   "package_ndcs": [
     "0025-1001-31",
     "0025-1001-51",
@@ -11,7 +13,13 @@
     "0025-1041-31",
     "0025-1041-34"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "spironolactone",
+      "name": "Aldactone"
+    }
+  ],
   "setid": "0fed2822-3a03-4b64-9857-c682fcd462bc",
   "source": "dailymed"
 }

@@ -23,8 +23,8 @@ Aldactone has not been demonstrated to elevate serum uric acid, to precipitate g
 
 ## Pharmacokinetics
 
-Spironolactone is rapidly and extensively metabolized.
-Sulfur-containing products are the predominant metabolites and are thought to be primarily responsible, together with spironolactone, for the therapeutic effects of the drug.
+Aldactone is rapidly and extensively metabolized.
+Sulfur-containing products are the predominant metabolites and are thought to be primarily responsible, together with Aldactone, for the therapeutic effects of the drug.
 The following pharmacokinetic data were obtained from 12 healthy volunteers following the administration of 100 mg of spironolactone (Aldactone film-coated tablets) daily for 15 days.
 On the 15th day, spironolactone was given immediately after a low-fat breakfast and blood was drawn thereafter.
 
@@ -45,6 +45,6 @@ However, since the serum concentrations of these steroids were not determined, t
 Spironolactone and its metabolites are more than 90% bound to plasma proteins.
 The metabolites are excreted primarily in the urine and secondarily in bile.
 
-The effect of food on spironolactone absorption (two 100-mg Aldactone tablets) was assessed in a single dose study of 9 healthy, drug-free volunteers.
+The effect of food on spironolactone absorption (two 100 mg Aldactone tablets) was assessed in a single-dose study of 9 healthy, drug-free volunteers.
 Food increased the bioavailability of unmetabolized spironolactone by almost 100%.
 The clinical importance of this finding is not known.
