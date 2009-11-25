@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 SEROQUEL® (quetiapine fumarate) is a psychotropic agent belonging to a chemical class, the dibenzothiazepine derivatives.
 The chemical designation is 2-[2-(4-dibenzo [b,f] [1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]-ethanol fumarate (2:1) (salt).
@@ -9,7 +9,7 @@ The structural formula is:
 
 Quetiapine fumarate is a white to off-white crystalline powder which is moderately soluble in water.
 
-SEROQUEL is supplied for oral administration as 25 mg (round, peach), 50 mg (round, white), 100 mg (round, yellow), 200 mg (round, white), 300 mg (capsule-shaped, white), and 400 mg (capsule shaped, yellow) tablets.
+SEROQUEL is supplied for oral administration as 25 mg (round, peach), 50 mg (round, white), 100 mg (round, yellow), 200 mg (round, white), 300 mg (capsule-shaped, white), and 400 mg (capsule-shaped, yellow) tablets.
 
 Inactive ingredients are povidone, dibasic dicalcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol and titanium dioxide.
 

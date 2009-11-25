@@ -1,13 +1,16 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Human experience:In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine.
-Most patients who overdosed experienced no adverse events or recovered fully from the reported events.
+## 10.1 Human Experience
+
+In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine.
+Most patients who overdosed experienced no adverse reactions or recovered fully from the reported reactions.
 Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone.
-In general, reported signs and symptoms were those resulting from an exaggeration of the drug’s known pharmacological effects, ie, drowsiness and sedation, tachycardia and hypotension.
-Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose (See PRECAUTIONS: Orthostatic Hypotension) One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block.
+In general, reported signs and symptoms were those resulting from an exaggeration of the drugs known pharmacological effects, ie, drowsiness and sedation, tachycardia and hypotension.
+Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [see Warnings and Precautions (5)].
+One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block.
 In post-marketing experience, there have been very rare reports of overdose of SEROQUEL alone resulting in death, coma, or QTc prolongation.
 
-## Management of Overdosage:
+## 10.2 Management of Overdosage
 
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation.
 Gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.
@@ -17,7 +20,7 @@ If antiarrhythmic therapy is administered, disopyramide, procainamide and quinid
 Similarly it is reasonable to expect that the alpha-adrenergic-blocking properties of bretylium might be additive to those of quetiapine, resulting in problematic hypotension.
 
 There is no specific antidote to SEROQUEL.
-Therefore appropriate supportive measures should be instituted.
+Therefore, appropriate supportive measures should be instituted.
 The possibility of multiple drug involvement should be considered.
 Hypotension and circulatory collapse should be treated with appropriate measures such as intravenous fluids and/or sympathomimetic agents (epinephrine and dopamine should not be used, since beta stimulation may worsen hypotension in the setting of quetiapine-induced alpha blockade).
 In cases of severe extrapyramidal symptoms, anticholinergic medication should be administered.

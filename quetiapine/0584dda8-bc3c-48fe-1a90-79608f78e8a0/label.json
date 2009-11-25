@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020639"
+  ],
   "inn": "quetiapine",
-  "labeler": "AstraZeneca Pharmaceuticals, LP",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
     "0310-0271-10",
     "0310-0271-39",
@@ -18,7 +20,13 @@
     "0310-0279-10",
     "0310-0279-39"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "quetiapine fumarate",
+      "name": "SEROQUEL"
+    }
+  ],
   "setid": "0584dda8-bc3c-48fe-1a90-79608f78e8a0",
   "source": "dailymed"
 }
