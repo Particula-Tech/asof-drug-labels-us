@@ -11,9 +11,9 @@ If recommended doses are exceeded, however, or if individuals are particularly s
 The following incidence of common adverse reactions (>3%, where incidence in fluticasone propionate-treated subjects exceeded placebo) is based upon 7 controlled clinical trials in which 536 patients (57 girls and 108 boys aged 4 to 11 years, 137 female and 234 male adolescents and adults) were treated with FLONASE Nasal Spray 200 mcg once daily over 2 to 4 weeks and 2 controlled clinical trials in which 246 patients (119 female and 127 male adolescents and adults) were treated with FLONASE Nasal Spray 200 mcg once daily over 6 months.
 Also included in the table are adverse events from 2 studies in which 167 children (45 girls and 122 boys aged 4 to 11 years) were treated with FLONASE Nasal Spray 100 mcg once daily for 2 to 4 weeks.
 
-Overall Adverse Experiences With >3% Incidence on Fluticasone Propionate in Controlled Clinical Trials With FLONASE Nasal Spray in Patients≥4 Years With Seasonal or Perennial Allergic Rhinitis
+Overall Adverse Experiences With >3% Incidence on Fluticasone Propionate in Controlled Clinical Trials With FLONASE Nasal Spray in Patients ≥4 Years With Seasonal or Perennial Allergic Rhinitis
 
-| Adverse Experience | Vehicle Placebo(n = 758)% | FLONASE 100 mcg Once Daily (n = 167)% | FLONASE 200 mcg Once Daily (n = 782)% |
+| Adverse Experience | Vehicle Placebo(n = 758)% | FLONASE100 mcg Once Daily(n = 167)% | FLONASE200 mcg Once Daily(n = 782)% |
 | --- | --- | --- | --- |
 | Headache | 14.6 | 6.6 | 16.1 |
 | Pharyngitis | 7.2 | 6.0 | 7.8 |
