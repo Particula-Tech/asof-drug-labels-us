@@ -18,7 +18,7 @@ The recommended pediatric dose of ARRANON is 650 mg/m2 administered intravenousl
 ARRANON is administered undiluted.
 
 The recommended duration of treatment for adult and pediatric patients has not been clearly established.
-In clinical trials, treatment was generally continued until there was evidence of disease progression, the patient experienced unacceptabletoxicity, the patient became a candidate for bone marrow transplant, or the patient no longer continued to benefit from treatment.
+In clinical trials, treatment was generally continued until there was evidence of disease progression, the patient experienced unacceptable toxicity, the patient became a candidate for bone marrow transplant, or the patient no longer continued to benefit from treatment.
 
 ## Supportive Care
 

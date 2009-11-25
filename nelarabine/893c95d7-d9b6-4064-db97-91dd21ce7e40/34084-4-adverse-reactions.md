@@ -116,7 +116,7 @@ Most Commonly Reported (≥5% Overall) Adverse Events Regardless of Causality in
 Grade 4+ = Grade 4 and Grade 5
 
 Five (5) patients had a fatal event.
-Fatal events included hypotension (n=1), respiratory arrest (n=1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1).
+Fatal events included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1).
 The cerebral hemorrhage/coma/leukoencephalopathy was thought to be related to treatment with ARRANON.
 All other fatal events were unrelated to treatment with ARRANON.
 
@@ -132,9 +132,7 @@ There have been reports of sometimes fatal opportunistic infections in patients 
 
 Nervous system events, regardless of drug relationship, were reported for 64% of patients across the Phase I and Phase II studies.
 
-### Pediatric
-
-The most common neurologic adverse events (≥2%), regardless of causality, including all grades (NCI Common Toxicity Criteria) are shown in Table 6 for pediatric patients.
+Pediatric: The most common neurologic adverse events (≥2%), regardless of causality, including all grades (NCI Common Toxicity Criteria) are shown in Table 6 for pediatric patients.
 
 Table 6.
 Neurologic Adverse Events (≥2%) Regardless of Causality in Pediatric Patients Treated with 650 mg/m2 of ARRANON Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
@@ -169,9 +167,7 @@ The additional grade 4+ events, regardless of causality, were 3rd nerve paralysi
 
 The other neurologic adverse events, regardless of causality, reported as grade 1, 2, or unknown in pediatric patients were dysarthria, encephalopathy, hydrocephalus, hyporeflexia, lethargy, mental impairment, paralysis, and sensory loss, each reported in 1 patient (1%).
 
-### Adults
-
-The most common neurologic adverse events (≥2%), regardless of causality, including all grades (NCI Common Toxicity Criteria) are shown in Table 7 for adult patients.
+Adults: The most common neurologic adverse events (≥2%), regardless of causality, including all grades (NCI Common Toxicity Criteria) are shown in Table 7 for adult patients.
 
 Table 7.
 Neurologic Adverse Events (≥2%) Regardless of Causality in Adult Patients Treated with 1,500 mg/m2 of ARRANON Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days

@@ -14,9 +14,9 @@ Pediatric Clinical Study - Patient Allocation
 
 | Patient Population | N |
 | --- | --- |
-| Patients treated at 650 mg/m2/dayx 5 days every 21 days. | 84 |
-| Patients with T-ALL or T-LBL with two or more prior induction treated at 650 mg/m2/dayx 5 days every 21 days. | 39 |
-| Patients with T-ALL or T-LBL with one prior induction treated at 650 mg/m2/dayx 5 days every 21 days. | 31 |
+| Patients treated at 650 mg/m2/day x 5 days every 21 days. | 84 |
+| Patients with T-ALL or T-LBL with two or more prior induction treated at 650 mg/m2/day x 5 days every 21 days. | 39 |
+| Patients with T-ALL or T-LBL with one prior induction treated at 650 mg/m2/day x 5 days every 21 days. | 31 |
 
 The 84 patients ranged in age from 2.5-21.7 years (overall mean, 11.9 years), 52% were 3 to 12 years of age and most were male (74%) and Caucasian (62%).
 The majority (77%) of patients had a diagnosis of T-ALL.

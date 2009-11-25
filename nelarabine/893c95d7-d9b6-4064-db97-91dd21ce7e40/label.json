@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021877"
+  ],
   "inn": "nelarabine",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0007-4401-01",
     "0007-4401-06"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "ARRANON"
+    }
+  ],
   "setid": "893c95d7-d9b6-4064-db97-91dd21ce7e40",
   "source": "dailymed"
 }
