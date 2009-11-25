@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019951"
+  ],
   "inn": "zidovudine",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0173-0107-93"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    }
+  ],
   "setid": "a524da34-b315-452c-5ab3-e86bd9615e92",
   "source": "dailymed"
 }

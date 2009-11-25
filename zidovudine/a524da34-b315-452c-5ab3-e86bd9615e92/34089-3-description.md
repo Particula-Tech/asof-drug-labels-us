@@ -8,4 +8,5 @@ RETROVIR IV Infusion contains no preservatives.
 
 The chemical name of zidovudine is 3′-azido-3′-deoxythymidine; it has the following structural formula:
 
-Zidovudine is a white to beige, odorless, crystalline solid with a molecular weight of 267.24 and a solubility of 20.1 mg/mL in water at 25°C.The molecular formula is C10H13N5O4.
+Zidovudine is a white to beige, odorless, crystalline solid with a molecular weight of 267.24 and a solubility of 20.1 mg/mL in water at 25°C.
+The molecular formula is C10H13N5O4.

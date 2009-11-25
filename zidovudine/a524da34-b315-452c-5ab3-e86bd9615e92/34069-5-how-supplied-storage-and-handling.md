@@ -6,9 +6,9 @@ RETROVIR IV Infusion, 10 mg zidovudine in each mL.
 
 Store vials at 15° to 25°C (59° to 77°F) and protect from light.
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline Research Triangle Park, NC 27709
 
 ©2006, GlaxoSmithKline.
-All rights reserved.October 2006 RL-2308
+All rights reserved.
+
+October 2006 RL-2308
