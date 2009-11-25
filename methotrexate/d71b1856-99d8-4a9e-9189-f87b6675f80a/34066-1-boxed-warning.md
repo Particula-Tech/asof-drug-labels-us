@@ -22,7 +22,7 @@ BECAUSE OF THE POSSIBILITY OF SERIOUS TOXIC REACTIONS (WHICH CAN BE FATAL):
    Liver biopsy after sustained use often shows histologic changes, and fibrosis and cirrhosis have been reported; these latter lesions may not be preceded by symptoms or abnormal liver function tests in the psoriasis population.
    For this reason, periodic liver biopsies are usually recommended for psoriatic patients who are under long-term treatment.
    Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in the rheumatoid arthritis population.
-   (See PRECAUTIONS; Organ System Toxicity: Hepatic)
+   (See PRECAUTIONS: Organ System Toxicity: Hepatic)
 5. Methotrexate-induced lung disease is a potentially dangerous lesion, which may occur acutely at any time during therapy and which has been reported at doses as low as 7.5 mg/week.
    It is not always fully reversible.
    Pulmonary symptoms (especially a dry, nonproductive cough) may require interruption of treatment and careful investigation.
@@ -34,6 +34,6 @@ BECAUSE OF THE POSSIBILITY OF SERIOUS TOXIC REACTIONS (WHICH CAN BE FATAL):
 9. Severe, occasionally fatal, skin reactions have been reported following single or multiple doses of methotrexate.
    Reactions have occurred within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.
    Recovery has been reported with discontinuation of therapy.
-   (See PRECAUTIONS; Organ System Toxicity: Skin.)
+   (See PRECAUTIONS: Organ System Toxicity: Skin.)
 10. Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
 11. Methotrexate given concomitantly with radiotherapy may increase the risk of soft tissue necrosis and osteonecrosis.

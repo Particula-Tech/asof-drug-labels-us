@@ -16,7 +16,7 @@ It is important to ensure that a psoriasis “flare” is not due to an undiagno
 
 ## Rheumatoid Arthritis including Polyarticular-Course Juvenile Rheumatoid Arthritis
 
-Methotrexate is indicated in the management of selected adults with severe, active, rheumatoid arthritis (ACR criteria), or children with active polyarticular-course juvenile rheumatoid arthritis, who have had an insufficient therapeutic response to, or are intolerant of, an adequate trial of first-line therapy including full dose nonsteroidal anti-inflammatory agents (NSAIDs).
+Methotrexate is indicated in the management of selected adults with severe, active, rheumatoid arthritis (ACR criteria), or children with active polyarticular-course juvenile rheumatoid arthritis, who have had an insufficient therapeutic response to, or are intolerant of, an adequate trial of first-line therapy including full dose non-steroidal anti-inflammatory agents (NSAIDs).
 
 Aspirin, NSAIDs, and/or low dose steroids may be continued, although the possibility of increased toxicity with concomitant use of NSAIDs including salicylates has not been fully explored.
 (See PRECAUTIONS, Drug Interactions.)

@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040054"
+  ],
   "inn": "methotrexate",
-  "labeler": "Roxane Laboratories, Inc.",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-4550-15",
     "0054-4550-25",
     "0054-8550-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methotrexate sodium",
+      "name": "Methotrexate Sodium"
+    }
+  ],
   "setid": "d71b1856-99d8-4a9e-9189-f87b6675f80a",
   "source": "dailymed"
 }

@@ -68,6 +68,7 @@ Although there is experience with doses up to 30 mg/m2/wk in children, there are
 Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1.0 mg/kg/wk) may have better absorption and fewer gastrointestional side effects if methotrexate is administered either intramuscularly or subcutaneously.
 
 Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
+
 The optimal duration of therapy is unknown.
 Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.

@@ -42,7 +42,7 @@ During initial or changing doses, or during periods of increased risk of elevate
 
 Transient liver function test abnormalities are observed frequently after methotrexate administration and are usually not cause for modification of methotrexate therapy.
 Persistent liver function test abnormalities, and/or depression of serum albumin may be indicators of serious liver toxicity and require evaluation.
-(See PRECAUTIONS; Organ System Toxicity: Hepatic.)
+(See PRECAUTIONS: Organ System Toxicity: Hepatic.)
 
 A relationship between abnormal liver function tests and fibrosis or cirrhosis of the liver has not been established for patients with psoriasis.
 Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in the rheumatoid arthritis population.
@@ -125,7 +125,7 @@ Methotrexate should be used with extreme caution in the presence of peptic ulcer
 
 Methotrexate can suppress hematopoiesis and cause anemia, aplastic anemia, leukopenia, and/or thrombocytopenia.
 In patients with malignancy and preexisting hematopoietic impairment, the drug should be used with caution, if at all.
-In controlled clinical trials in rheumatoid arthritis (n = 128), leukopenia (WBC <3000/mm3) was seen in 2 patients, thrombocytopenia (platelets <100,000/mm3) in 6 patients, and pancytopenia in 2 patients.
+In controlled clinical trials in rheumatoid arthritis (N=128), leukopenia (WBC <3000/mm3) was seen in 2 patients, thrombocytopenia (platelets <100,000/mm3) in 6 patients, and pancytopenia in 2 patients.
 
 In psoriasis and rheumatoid arthritis, methotrexate should be stopped immediately if there is a significant drop in blood counts.
 In the treatment of neoplastic diseases, methotrexate should be continued only if the potential benefit warrants the risk of severe myelosuppression.
