@@ -9,30 +9,24 @@ Treatment of the index infarction included aspirin (85%), IV or oral β-blockers
 Background treatment included ACE inhibitors or angiotensin receptor blockers (97%), anticoagulants (20%), lipid-lowering agents (23%), and diuretics (34%).
 Baseline population characteristics included an average age of 63 years, 74% male, 95% Caucasian, mean blood pressure 121/74 mm Hg, 22% with diabetes, and 54% with a history of hypertension.
 Mean dosage achieved of carvedilol was 20 mg twice daily; mean duration of follow-up was 15 months.
-
 All-cause mortality was 15% in the placebo group and 12% in the carvedilol group, indicating a 23% risk reduction in patients treated with carvedilol (95% CI 2 to 40%, p = 0.03), as shown in Figure 1.
 The effects on mortality in various subgroups are shown in Figure 2.
 Nearly all deaths were cardiovascular (which were reduced by 25% by carvedilol), and most of these deaths were sudden or related to pump failure (both types of death were reduced by carvedilol).
 Another study end point, total mortality and all-cause hospitalization, did not show a significant improvement.
-
 There was also a significant 40% reduction in fatal or non-fatal myocardial infarction observed in the group treated with carvedilol (95% CI 11% to 60%, p = 0.01).
 A similar reduction in the risk of myocardial infarction was also observed in a meta-analysis of placebo-controlled trials of carvedilol in heart failure.
-
 Figure 1.
-Survival Analysis for CAPRICORN (intent-to-treat)
-
-Figure 2.
+Survival Analysis for CAPRICORN (intent-to-treat) Figure 2.
 Effects on Mortality for Subgroups in CAPRICORN
 
 ## 14.3 Hypertension
 
-Carvedilol was studied in 2 placebo controlled trials that utilized twice-daily dosing, at total daily doses of 12.5 to 50 mg.
+Carvedilol was studied in 2 placebo-controlled trials that utilized twice-daily dosing, at total daily doses of 12.5 to 50 mg.
 In these and other studies, the starting dose did not exceed 12.5 mg.
 At 50 mg/day, carvedilol reduced sitting trough (12-hour) blood pressure by about 9/5.5 mm Hg; at 25 mg/day the effect was about 7.5/3.5 mm Hg.
 Comparisons of trough to peak blood pressure showed a trough to peak ratio for blood pressure response of about 65%.
 Heart rate fell by about 7.5 beats/minute at 50 mg/day.
-In general, as is true for other β-blockers, responses were smaller in black than non black patients.
+In general, as is true for other β-blockers, responses were smaller in black than non-black patients.
 There were no age- or gender-related differences in response.
-
 The peak antihypertensive effect occurred 1 to 2 hours after a dose.
-The dose-related blood pressure response was accompanied by a dose-related increase in adverse effects [see Adverse Reactions (6)].
+The dose-related blood pressure response was accompanied by a dose-related increase in adverse effects [see Adverse Reactions (6)] .

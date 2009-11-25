@@ -18,18 +18,16 @@ If pulse rate drops below 55 beats/minute, the dosage should be reduced.
 ## 5.3 Hypotension
 
 Postural hypotension occurred in 1.8% and syncope in 0.1% of hypertensive patients, primarily following the initial dose or at the time of dose increase and was a cause for discontinuation of therapy in 1% of patients.
-
-In the CAPRICORN study of survivors of an acute myocardial infarction, hypotension or postural hypotension occurred in 20.2%of patients receiving carvedilol compared to 12.6% of placebo patients.
+In the CAPRICORN study of survivors of an acute myocardial infarction, hypotension or postural hypotension occurred in 20.2% of patients receiving carvedilol compared to 12.6% of placebo patients.
 Syncope was reported in 3.9% and 1.9% of patients, respectively.
 These events were a cause for discontinuation of therapy in 2.5% of patients receiving carvedilol, compared to 0.2% of placebo patients.
-
-Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.2, 2.3)].
+Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.2, 2.3)] .
 During initiation of therapy, the patient should be cautioned to avoid situations such as driving or hazardous tasks, where injury could result should syncope occur.
 
 ## 5.4 Heart Failure/Fluid Retention
 
 Worsening heart failure or fluid retention may occur during up-titration of carvedilol.
-If such symptoms occur, diuretics should be increased and the carvedilol dose should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
+If such symptoms occur, diuretics should be increased and the carvedilol dose should not be advanced until clinical stability resumes [see Dosage and Administration (2)] .
 Occasionally it is necessary to lower the carvedilol dose or temporarily discontinue it.
 Such episodes do not preclude subsequent successful titration of, or a favorable response to, carvedilol.
 
@@ -38,7 +36,6 @@ Such episodes do not preclude subsequent successful titration of, or a favorable
 Patients with bronchospastic disease (e.g., chronic bronchitis and emphysema) should, in general, not receive β-blockers.
 Carvedilol may be used with caution, however, in patients who do not respond to, or cannot tolerate, other antihypertensive agents.
 It is prudent, if carvedilol is used, to use the smallest effective dose, so that inhibition of endogenous or exogenous β-agonists is minimized.
-
 In clinical trials, patients with bronchospastic disease were enrolled if they did not require oral or inhaled medication to treat their bronchospastic disease.
 In such patients, it is recommended that carvedilol be used with caution.
 The dosing recommendations should be followed closely and the dose should be lowered if any evidence of bronchospasm is observed during up-titration.
@@ -48,7 +45,6 @@ The dosing recommendations should be followed closely and the dose should be low
 In general, β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 Nonselective β-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
 Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities.
-
 Studies designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
 
 ## 5.7 Peripheral Vascular Disease

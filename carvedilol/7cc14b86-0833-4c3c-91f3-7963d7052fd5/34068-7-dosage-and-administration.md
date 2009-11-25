@@ -19,9 +19,8 @@ If this dose is tolerated, using standing systolic pressure measured about 1 hou
 This dose should also be maintained for 7 to 14 days and can then be adjusted upward to 25 mg twice daily if tolerated and needed.
 The full antihypertensive effect of carvedilol is seen within 7 to 14 days.
 Total daily dose should not exceed 50 mg.
-
 Concomitant administration with a diuretic can be expected to produce additive effects and exaggerate the orthostatic component of carvedilol action.
 
 ## 2.4 Hepatic Impairment
 
-Carvedilol should not be given to patients with severe hepatic impairment [see Contraindications (4)].
+Carvedilol should not be given to patients with severe hepatic impairment [see Contraindications (4)] .

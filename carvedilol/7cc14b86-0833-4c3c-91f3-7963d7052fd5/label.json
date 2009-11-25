@@ -1,18 +1,30 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078332"
+  ],
   "inn": "carvedilol",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-142-01",
+    "65862-142-05",
     "65862-142-99",
     "65862-143-01",
+    "65862-143-05",
     "65862-143-99",
     "65862-144-01",
+    "65862-144-05",
     "65862-144-99",
     "65862-145-01",
+    "65862-145-05",
     "65862-145-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "carvedilol",
+      "name": "Carvedilol"
+    }
+  ],
   "setid": "7cc14b86-0833-4c3c-91f3-7963d7052fd5",
   "source": "dailymed"
 }

@@ -1,0 +1,3 @@
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 12.5 mg (100 Tablet Bottle)
+
+NDC 65862-144-01 Carvedilol Tablets 12.5 mg Rx only 100 Tablets AUROBINDO
