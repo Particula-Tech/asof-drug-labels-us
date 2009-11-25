@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019594"
+  ],
   "inn": "ursodiol",
-  "labeler": "Watson Pharmaceuticals, Inc.",
+  "labeler": "Watson Pharma, Inc.",
   "package_ndcs": [
     "52544-930-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ursodiol",
+      "name": "Actigall"
+    }
+  ],
   "setid": "aeb6c8c8-4dec-4574-8f26-b6b701b04b25",
   "source": "dailymed"
 }

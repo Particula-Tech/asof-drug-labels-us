@@ -8,7 +8,6 @@ The chemical name for ursodiol is 3α,7β-Dihydroxy-5β-cholan-24-oic acid (C24H
 Ursodiol, USP has a molecular weight of 392.57.
 Its structure is shown below:
 
-Inactive Ingredients.
-Colloidal silicon dioxide, magnesium stearate, and starch (corn).
+Inactive Ingredients: Colloidal silicon dioxide, magnesium stearate, and starch (corn).
 Gelatin capsules contain ferric oxide, gelatin, and titanium dioxide.
 The capsules are printed with edible ink containing black iron oxide.

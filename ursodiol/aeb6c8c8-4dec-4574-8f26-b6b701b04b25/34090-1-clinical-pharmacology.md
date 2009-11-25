@@ -4,12 +4,12 @@ About 90% of a therapeutic dose of Actigall is absorbed in the small bowel after
 After absorption, ursodiol enters the portal vein and undergoes efficient extraction from portal blood by the liver (i.e., there is a large “first-pass” effect) where it is conjugated with either glycine or taurine and is then secreted into the hepatic bile ducts.
 Ursodiol in bile is concentrated in the gallbladder and expelled into the duodenum in gallbladder bile via the cystic and common ducts by gallbladder contractions provoked by physiologic responses to eating.
 Only small quantities of ursodiol appear in the systemic circulation and very small amounts are excreted into urine.
-The sites of the drug's therapeutic actions are in the liver, bile, and gut lumen.
+The sites of the drug’s therapeutic actions are in the liver, bile, and gut lumen.
 
 Beyond conjugation, ursodiol is not altered or catabolized appreciably by the liver or intestinal mucosa.
 A small proportion of orally administered drug undergoes bacterial degradation with each cycle of enterohepatic circulation.
 Ursodiol can be both oxidized and reduced at the 7-carbon, yielding either 7-keto-lithocholic acid or lithocholic acid, respectively.
-Further, there is some bacterially catalyzed deconjugation of glyco- and tauro- ursodeoxycholic acid in the small bowel.
+Further, there is some bacterially catalyzed deconjugation of glyco- and tauro-ursodeoxycholic acid in the small bowel.
 Free ursodiol, 7-keto-lithocholic acid, and lithocholic acid are relatively insoluble in aqueous media and larger proportions of these compounds are lost from the distal gut into the feces.
 Reabsorbed free ursodiol is reconjugated by the liver.
 Eighty percent of lithocholic acid formed in the small bowel is excreted in the feces, but the 20% that is absorbed is sulfated at the 3-hydroxyl group in the liver to relatively insoluble lithocholyl conjugates which are excreted into bile and lost in feces.
@@ -21,7 +21,7 @@ The 7-dehydroxylation reaction appears to be alpha-specific, i.e., chenodiol is 
 Man has the capacity to sulfate lithocholic acid.
 Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals, but such a deficiency has not yet been clearly demonstrated.
 
-Pharmacodynamics
+## Pharmacodynamics
 
 Ursodiol suppresses hepatic synthesis and secretion of cholesterol, and also inhibits intestinal absorption of cholesterol.
 It appears to have little inhibitory effect on synthesis and secretion into bile of endogenous bile acids, and does not appear to affect secretion of phospholipids into bile.
@@ -36,7 +36,7 @@ The various actions of ursodiol combine to change the bile of patients with gall
 
 After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5%-10% of its steady-state level in about 1 week.
 
-Clinical Results
+## Clinical Results
 
 Gallstone Dissolution
 
@@ -69,40 +69,3 @@ The second trial consisted of 312 obese patients (BMI ≥ 40) who underwent rapi
 The trial drug treatment period was for 6 months following this surgery.
 Results of this trial showed that gallstone formation occurred in 23% of the placebo group, while those patients on 300, 600, or 1200 mg/day of Actigall experienced a 9%, 1%, and 5% incidence of gallstone formation, respectively.
 The mean weight loss for this 6-month trial was 64 lb for the placebo group, and 67, 74, and 72 lb for the 300, 600, and 1200 mg/day Actigall groups, respectively.
-
-ALTERNATIVE THERAPIES
-
-Watchful Waiting
-
-Watchful waiting has the advantage that no therapy may ever be required.
-For patients with silent or minimally symptomatic stones, the rate of development of moderate-to-severe symptoms or gallstone complications is estimated to be between 2% and 6% per year, leading to a cumulative rate of 7%-27% in 5 years.
-Presumably the rate is higher for patients already having symptoms.
-
-Cholecystectomy
-
-For patients with symptomatic gallstones, surgery offers the advantage of immediate and permanent stone removal, but carries a high risk in some patients.
-About 5% of cholecystectomized patients have residual symptoms or retained common duct stones.
-The spectrum of surgical risk varies as a function of age and the presence of disease other than cholelithiasis.
-
-Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 1966; 197:775-8) 27,600 Cholecystectomies (Smoothed Rates) Deaths/1000 Operations***
-
-| Women | 0-49 | .54 | 2.13 |
-| --- | --- | --- | --- |
-| Low Risk Patients* | Age (Yrs) | Cholecystectomy | Cholecystectomy |
-|  |  |  | +Common Duct |
-|  |  |  | Exploration |
-|  | 50-69 | 2.80 | 10.10 |
-| Men | 0-49 | 1.04 | 4.12 |
-|  | 50-69 | 5.41 | 19.23 |
-| High Risk Patients** |  |  |  |
-| Women | 0-49 | 12.66 | 47.62 |
-|  | 50-69 | 17.24 | 58.82 |
-| Men | 0-49 | 24.39 | 90.91 |
-|  | 50-69 | 33.33 | 111.11 |
-| * In good health or with moderate systemic disease. |  |  |  |
-| ** With severe or extreme systemic disease. |  |  |  |
-| *** Includes both elective and emergency surgery. |  |  |  |
-
-Women in good health or who have only moderate systemic disease and are under 49 years of age have the lowest surgical mortality rate (0.054); men in all categories have a surgical mortality rate twice that of women.
-Common duct exploration quadruples the rates in all categories.
-The rates rise with each decade of life and increase tenfold or more in all categories with severe or extreme systemic disease.

@@ -11,8 +11,12 @@ Dispense in tight container (USP).
 
 Rx only
 
-Watson Pharmaceuticals, Inc. Corona, CA 92880 USA
+Keep out of reach of children.
 
-Revised: July 2007
+Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-ACTGL07/07 S0707
+Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
+
+Revised: August 2008
+
+2000698-00 S0808
