@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076832"
+  ],
   "inn": "lithium",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-0021-25",
     "0054-0021-29"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    }
+  ],
   "setid": "c612b6c5-eeb9-4fdd-8c85-bb3d2147cd1e",
   "source": "dailymed"
 }

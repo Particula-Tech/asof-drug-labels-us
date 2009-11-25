@@ -65,9 +65,8 @@ In addition to sweating and diarrhea, concomitant infection with elevated temper
 Previously existing thyroid disorders do not necessarily constitute a contraindication to lithium treatment.
 Where hypothyroidism preexists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters and/or adjustment of lithium doses, if any.
 If hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
-
 In general, the concomitant use of diuretics or angiotensin converting enzyme (ACE) inhibitors with lithium carbonate should be avoided.
-In those cases where concomitant use is necessary extreme caution is advised since sodium loss from these drugs may reduce the renal clearance of lithium resulting in increased serum lithium concentrations with the risk of lithium toxicity.
+In those cases where concomitant use is necessary, extreme caution is advised since sodium loss from these drugs may reduce the renal clearance of lithium resulting in increased serum lithium concentrations with the risk of lithium toxicity.
 When such combinations are used, the lithium dosage may need to be decreased, and more frequent monitoring of lithium serum concentrations is recommended.
 See WARNINGS for additional caution information.
 
@@ -85,10 +84,12 @@ Patients receiving such combined therapy should be monitored closely.
 Concurrent use of fluoxetine with lithium has resulted in both increased and decreased serum lithium concentrations.
 Patients receiving such combined therapy should be monitored closely.
 
-Nonsteroidal anti-inflammatory drugs (NSAIDS): Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
+## Nonsteroidal Anti-Inflammatory Drugs (NSAIDS)
+
+Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
 In some cases, lithium toxicity has resulted from interactions between an NSAID and lithium.
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
-There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX2) inhibitors, have the same effect.
+There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone.
 
 Lithium may impair mental and/or physical abilities.
@@ -98,18 +99,21 @@ Patients should be cautioned about activities requiring alertness (e.g., operati
 
 ### Pregnancy Category D
 
-see WARNINGS).
+(see WARNINGS: Usage in Pregnancy).
 
 ## Nursing Mothers
 
-Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS).
+Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS: Usage in Nursing Mothers).
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS).
+Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS: Pediatric Use).
 
 ## Geriatric Use
 
 Clinical studies of lithium carbonate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other therapy.
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

@@ -27,28 +27,28 @@ Lithium should be discontinued, if clinically possible, if this syndrome occurs.
 
 ## Cardiovascular
 
-cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope);
+cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction and severe bradycardia (which may result in syncope).
 
 ## Gastrointestinal
 
-anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion;
+anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 
 ## Genitourinary
 
-glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia;
+glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
 
 ## Dermatologic
 
-drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema;
+drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
 
 ## Autonomic Nervous System
 
-blurred vision, dry mouth, impotence/sexual dysfunction;
+blurred vision, dry mouth, impotence/sexual dysfunction.
 
 ## Thyroid Abnormalities
 
 euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
-131lodine uptake may be elevated (see PRECAUTIONS).
+131Iodine uptake may be elevated (see PRECAUTIONS).
 Paradoxically, rare cases of hyperthyroidism have been reported.
 
 ## EEG Changes
