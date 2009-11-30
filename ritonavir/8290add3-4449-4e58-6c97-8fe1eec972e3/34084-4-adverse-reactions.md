@@ -2,150 +2,219 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling.
 
-- Drug Interactions [see WARNINGS AND PRECAUTIONS (5.1)]
-- Pancreatitis [see WARNINGS AND PRECAUTIONS (5.2)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.3)]
+- PR Interval Prolongation, QT Interval Prolongation [see Warnings and Precautions (5.5, 5.6)]
+- Drug Interactions [see Warnings and Precautions (5.1)]
+- Pancreatitis [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 ## 6.1 Adults - Clinical Trials Experience
 
-The safety profile of KALETRA in adults is primarily based on 891 HIV-1 infected patients in clinical trials.
+The safety profile of KALETRA in adults is primarily based on 1555 HIV-1 infected patients in clinical trials.
 
 The most common adverse reaction was diarrhea, which was generally of mild to moderate severity.
-The incidence of diarrhea was greater for KALETRA capsules once-daily compared to KALETRA capsules twice-daily in Study 418 [See Table 4].
-Rates of discontinuation of randomized therapy due to adverse reactions were 3.4% in KALETRA-treated and 3.7% in nelfinavir-treated patients in Study 863.
+In study 730, the incidence of diarrhea of any severity during 48 weeks of therapy was 60% in patients receiving KALETRA tablets once daily compared to 57% in patients receiving KALETRA tablets twice daily.
+More patients receiving KALETRA tablets once daily (14, 4.2%) had ongoing diarrhea at the time of discontinuation as compared to patients receiving KALETRA tablets twice daily (6, 1.8%).
+In study 730, discontinuations due to any adverse reaction were 4.8% in patients receiving KALETRA tablets once daily as compared to 3% in patients receiving KALETRA tablets twice daily.
+In study 863, discontinuations of randomized therapy due to adverse reactions were 3.4% in KALETRA-treated and 3.7% in nelfinavir-treated patients.
 
-Treatment-emergent clinical adverse reactions of moderate or severe intensity in ≥ 2% of patients treated with combination therapy for up to 48 weeks (Study 863 and 418) and for up to 360 weeks (Study 720) are presented in Table 4 (treatment-naïve patients) and Table 5 (protease inhibitor experienced patients).
+Treatment-emergent clinical adverse reactions of moderate or severe intensity in ≥ 2% of patients treated with combination therapy for up to 48 weeks (Study 863 and 730) and for up to 360 weeks (Study 720) are presented in Table 4 (treatment-naïve patients); and for up to 48 weeks (Study 888), 84 weeks (Study 957) and 144 weeks (Study 765) in Table 5 (protease inhibitor experienced patients).
 
 Table 4.
 Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions of Moderate or Severe Intensity Reported in ≥ 2% of Adult Antiretroviral-Naïve Patients
 
-|  | KALETRA 400/100 mg BID + d4T + 3TC (N = 326) | Nelfinavir 750 mg TID + d4T + 3TC (N = 327) | KALETRA 800/200 mg QD + TDF + FTC (N = 115) | KALETRA 400/100 mg BID + TDF + FTC (N = 75) | KALETRA BID2 + d4T + 3TC (N = 100) |
+|  | KALETRA 400/100 mg Twice Daily + d4T + 3TC (N = 326) | Nelfinavir 750 mg Three Times Daily + d4T + 3TC (N = 327) | KALETRA Twice Daily2 + d4T + 3TC (N = 100) | KALETRA 800/200 mg Once Daily + TDF +FTC (N=333) | KALETRA 400/100 mg Twice Daily + TDF +FTC (N=331) |
 | --- | --- | --- | --- | --- | --- |
-|  | Study 863 (48 Weeks) |  | Study 418 (48 Weeks) |  | Study 720 (360 Weeks) |
-| Body as a Whole |  |  |  |  |  |
-| Abdominal Pain | 4% | 3% | 3% | 3% | 11% |
-| Asthenia | 4% | 3% | 0% | 0% | 9% |
-| Headache | 2% | 2% | 3% | 3% | 6% |
-| Cardiovascular System |  |  |  |  |  |
-| Vein distended | 0% | 0% | 0% | 0% | 3% |
-| Digestive System |  |  |  |  |  |
-| Diarrhea | 16% | 17% | 16% | 5% | 28% |
-| Nausea | 7% | 5% | 9% | 8% | 16% |
-| Vomiting | 2% | 2% | 3% | 4% | 6% |
-| Dyspepsia | 2% | < 1% | 0% | 1% | 6% |
-| Flatulence | 2% | 1% | 2% | 1% | 4% |
-| Anorexia | 1% | < 1% | < 1% | 1% | 2% |
-| Metabolic and Nutritional |  |  |  |  |  |
-| Weight loss | 1% | < 1% | 0% | 0% | 2% |
-| Musculoskeletal |  |  |  |  |  |
-| Myalgia | 1% | 1% | 0% | 0% | 2% |
-| Nervous System |  |  |  |  |  |
-| Insomnia | 2% | 1% | 0% | 0% | 3% |
-| Paresthesia | 1% | 1% | 0% | 0% | 2% |
-| Depression | 1% | 2% | 1% | 0% | 0% |
-| Libido decreased | < 1% | < 1% | 0% | 1% | 2% |
-| Respiratory |  |  |  |  |  |
-| Bronchitis | 0% | 0% | 0% | 0% | 2% |
-| Skin and Appendages |  |  |  |  |  |
-| Rash | 1% | 2% | 1% | 0% | 5% |
-| Urogenital |  |  |  |  |  |
-| Hypogonadism male | 0% | 0% | 0% | 0% | 2% |
-| Amenorrhea | 0% | 0% | 4.5% | 0% | 0% |
-| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from dose group I (200/100 mg BID [N = 16] and 400/100 mg BID [N = 16]) and dose group II (400/100 mg BID [N = 35] and 400/200 mg BID [N = 33]). Within dosing groups, moderate to severe nausea of probable/possible relationship to KALETRA occurred at a higher rate in the 400/200 mg dose arm compared to the 400/100 mg dose arm in group II.Definitions: d4T = Stavudine; 3TC = Lamivudine; TDF = Tenofovir Disoproxil Fumarate; FTC = Emtricitabine |  |  |  |  |  |
+|  | Study 863 (48 Weeks) |  | Study 720 (360 Weeks) | Study 730 (48 Weeks) |  |
+| Endocrine Disorders |  |  |  |  |  |
+| Hypogonadism | 0% | 0% | 2% | 0% | 0% |
+| Gastrointestinal Disorders |  |  |  |  |  |
+| Diarrhea | 16% | 17% | 28% | 17% | 15% |
+| Nausea | 7% | 5% | 16% | 7% | 5% |
+| Vomiting | 2% | 2% | 6% | 3% | 4% |
+| Abdominal Pain | 4% | 3% | 11% | 1% | 1% |
+| Dyspepsia | 2% | <1% | 6% | 0% | 0% |
+| Flatulence | 2% | 1% | 4% | 1% | 1% |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |
+| Asthenia | 4% | 3% | 9% | <1% | <1% |
+| Infections and Infestations |  |  |  |  |  |
+| Bronchitis | 0% | 0% | 2% | 0% | <1% |
+| Investigations |  |  |  |  |  |
+| Weight decreased | 1% | <1% | 2% | 0% | <1% |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |
+| Anorexia | 1% | <1% | 2% | <1% | 1% |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
+| Myalgia | 1% | 1% | 2% | 0% | 0% |
+| Nervous System Disorders |  |  |  |  |  |
+| Headache | 2% | 2% | 6% | 2% | 2% |
+| Paresthesia | 1% | 1% | 2% | 0% | 0% |
+| Psychiatric Disorders |  |  |  |  |  |
+| Insomnia | 2% | 1% | 3% | 1% | 0% |
+| Depression | 1% | 2% | 0% | 0% | 0% |
+| Libido decreased | <1% | <1% | 2% | 0% | <1% |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |
+| Rash | 1% | 2% | 5% | <1% | 1% |
+| Vascular Disorders |  |  |  |  |  |
+| Vasodilation | 0% | 0% | 3% | 0% | 0% |
+| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from dose group I (200/100 mg twice daily [N = 16] and 400/100 mg twice daily [N = 16]) and dose group II (400/100 mg twice daily [N = 35] and 400/200 mg twice daily [N = 33]). Within dosing groups, moderate to severe nausea of probable/possible relationship to KALETRA occurred at a higher rate in the 400/200 mg dose arm compared to the 400/100 mg dose arm in group II.Definitions: d4T = Stavudine; 3TC = Lamivudine; TDF = Tenofovir Disoproxil Fumarate; FTC = Emtricitabine |  |  |  |  |  |
 
 Table 5.
 Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions of Moderate or Severe Intensity Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
-|  | KALETRA 400/100 mg BID + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA BID + NNRTI + NRTIs (N = 127) |
+|  | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) |
 | --- | --- | --- | --- |
 |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) |
-| Body as a Whole |  |  |  |
-| Asthenia | 3% | 6% | 9% |
-| Abdominal Pain | 2% | 2% | 4% |
-| Fever | 2% | 1% | 2% |
-| Headache | 2% | 3% | 2% |
-| Chills | 2% | 0% | 0% |
-| Cardiovascular |  |  |  |
-| Hypertension | 0% | 0% | 2% |
-| Digestive System |  |  |  |
+| Gastrointestinal Disorders |  |  |  |
 | Diarrhea | 7% | 9% | 23% |
 | Nausea | 7% | 16% | 5% |
 | Vomiting | 4% | 12% | 2% |
+| Abdominal Pain | 2% | 2% | 4% |
 | Dyspepsia | 1% | 1% | 2% |
 | Flatulence | 1% | 2% | 2% |
-| Dysphagia | 2% | 1% | 0% |
+| Dysphasia | 2% | 1% | 0% |
+| General Disorders and Administration Site Conditions |  |  |  |
+| Asthenia | 3% | 6% | 9% |
+| Pyrexia | 2% | 1% | 2% |
+| Chills | 2% | 0% | 0% |
+| Investigations |  |  |  |
+| Weight decreased | 0% | 1% | 3% |
+| Metabolism and Nutrition Disorders |  |  |  |
 | Anorexia | 1% | 3% | 0% |
-| Metabolic and Nutritional |  |  |  |
-| Weight loss | 0% | 1% | 3% |
-| Musculoskeletal |  |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |
 | Myalgia | 1% | 1% | 2% |
-| Nervous System |  |  |  |
-| Depression | 1% | 2% | 2% |
+| Nervous System Disorders |  |  |  |
+| Headache | 2% | 3% | 2% |
 | Paresthesia | 1% | 0% | 2% |
+| Psychiatric Disorders |  |  |  |
+| Depression | 1% | 2% | 2% |
 | Insomnia | 0% | 2% | 2% |
-| Skin and Appendages |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 2% | 1% | 2% |
-| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from patients receiving 400/100 mg BID (n = 29) or 533/133 mg BID (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes adverse reaction data from patients receiving 400/100 mg BID (n = 36) or 400/200 mg BID (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine.Definitions: NVP = Nevirapine; NRTI = Nucleoside Reverse Transcriptase Inhibitors; NNRTI = Non-nucleoside Reverse Transcriptase Inhibitors |  |  |  |
+| Vascular Disorders |  |  |  |
+| Hypertension | 0% | 0% | 2% |
+| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg Twice Daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg Twice Daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine.Definitions: NVP = Nevirapine; NRTI = Nucleoside Reverse Transcriptase Inhibitors; NNRTI = Non-nucleoside Reverse Transcriptase Inhibitors |  |  |  |
 
 Less Common Adverse Reactions
 
-Treatment-emergent adverse reactions occurring in less than 2% of adult patients receiving KALETRA in the clinical trials supporting approval and of at least moderate intensity are listed below by body system.
+Treatment-emergent adverse reactions occurring in less than 2% of adult patients receiving KALETRA in the clinical trials supporting approval and of at least moderate intensity are listed below by system organ class.
 
-Body as a Whole Allergic reaction, back pain, chest pain, chest pain substernal, cyst, drug interaction, drug level increased, face edema, flu syndrome, hypertrophy, infection bacterial, malaise, neoplasm, and viral infection.
+Blood and Lymphatic System Disorders
 
-Cardiovascular System Atrial fibrillation, cerebral infarct, deep thrombophlebitis, deep vein thrombosis, migraine, myocardial infarct, palpitation, postural hypotension, thrombophlebitis, varicose vein, and vasculitis.
+Anemia, leukopenia, lymphadenopathy, and splenomegaly.
 
-Digestive System Cholangitis, cholecystitis, constipation, dry mouth, enteritis, enterocolitis, eructation, esophagitis, fecal incontinence, gastritis, gastroenteritis, hemorrhagic colitis, hepatitis, hepatomegaly, increased appetite, jaundice, liver fatty deposit, liver tenderness, mouth ulceration, pancreatitis, periodontitis, sialadenitis, stomatitis, and ulcerative stomatitis.
+Cardiac Disorders
 
-Endocrine System Cushing's syndrome, diabetes mellitus, and hypothyroidism.
+Atrial fibrillation, atrioventricular block, myocardial infarction, palpitation.
 
-Hemic and Lymphatic System Anemia, leukopenia, and lymphadenopathy.
+Ear and Labyrinth Disorders
 
-Metabolic and Nutritional Disorders Avitaminosis, dehydration, edema, glucose tolerance decreased, lactic acidosis, obesity, peripheral edema, and weight gain.
+Hyperacusis, tinnitus, and vertigo.
 
-Musculoskeletal System Arthralgia, arthrosis, bone necrosis, joint disorder, and myasthenia.
+Endocrine Disorders
 
-Nervous System Abnormal dreams, agitation, amnesia, anxiety, apathy, ataxia, confusion, convulsion, dizziness, dyskinesia, emotional lability, encephalopathy, extrapyramidal syndrome, facial paralysis, hypertonia, nervousness, neuropathy, peripheral neuritis, somnolence, thinking abnormal, tremor, and vertigo.
+Cushing's syndrome and hypothyroidism.
 
-Respiratory System Asthma, cough increased, dyspnea, lung edema, pharyngitis, rhinitis, and sinusitis.
+Eye Disorders
 
-Skin and Appendages Acne, alopecia, dry skin, eczema, exfoliative dermatitis, furunculosis, maculopapular rash, nail disorder, pruritis, seborrhea, skin benign neoplasm, skin discoloration, skin striae, skin ulcer, and sweating.
+Eye disorder and visual disturbance.
 
-Special Senses Abnormal vision, eye disorder, otitis media, taste loss, taste perversion, and tinnitus.
+Gastrointestinal Disorders
 
-Urogenital System Abnormal ejaculation, breast enlargement, gynecomastia, impotence, kidney calculus, nephritis, and urine abnormality.
+Abdominal distension, abdominal pain upper, constipation, dry mouth, enteritis, enterocolitis, enterocolitis hemorrhagic, eructation, esophagitis, fecal incontinence, gastric disorder, gastritis, gastroesophageal reflux disease, hemorrhoids, mouth ulceration, pancreatitis, periodontitis, stomach discomfort, and stomatitis.
+
+General Disorders and Administration Site Conditions
+
+Chest pain, cyst, drug interaction, edema, edema peripheral, face edema, fatigue, hypertrophy, and malaise.
+
+Hepatobiliary Disorders
+
+Cholangitis, cholecystitis, cytolytic hepatitis, hepatic steatosis, hepatitis, hepatomegaly, jaundice, and liver tenderness.
+
+Immune System Disorders
+
+Drug hypersensitivity, hypersensitivity, and immune reconstitution syndrome.
+
+Infections and Infestations
+
+Bacterial infection, cellulitis, folliculitis, furuncle, gastroenteritis, influenza, otitis media, perineal abscess, pharyngitis, rhinitis, sialoadenitis, sinusitis, and viral infection.
+
+Investigations
+
+Drug level increased, glucose tolerance decreased, and weight increased.
+
+Metabolism and Nutrition Disorders
+
+Decreased appetite, dehydration, diabetes mellitus, hypovitaminosis, increased appetite, lactic acidosis, lipomatosis, and obesity.
+
+Musculoskeletal and Connective Tissue Disorders
+
+Arthralgia, arthropathy, back pain, muscular weakness, osteoarthritis, osteonecrosis, and pain in extremity.
+
+Neoplasms Benign, Malignant and Unspecified (incl Cysts and Polyps)
+
+Benign neoplasm of skin, lipoma, and neoplasm.
+
+Nervous System Disorders
+
+Ageusia, amnesia, ataxia, cerebral infarction, convulsion, dizziness, dysgeusia, dyskinesia, encephalopathy, extrapyramidal disorder, facial palsy, hypertonia, migraine, neuropathy, neuropathy peripheral, somnolence, and tremor.
+
+Psychiatric Disorders
+
+Abnormal dreams, affect lability, agitation, anxiety, apathy, confusional state, nervousness, and thinking abnormal.
+
+Renal and Urinary Disorders
+
+Nephritis, nephrolithiasis, renal disorder, and urine abnormality.
+
+Reproductive System and Breast Disorders
+
+Breast enlargement, ejaculation disorder, erectile dysfunction, and gynecomastia.
+
+Respiratory, Thoracic and Mediastinal Disorders
+
+Asthma, cough, dyspnea, and pulmonary edema.
+
+Skin and Subcutaneous Tissue Disorders
+
+Acne, alopecia, dermatitis acneiform, dermatitis allergic, dermatitis exfoliative, dry skin, eczema, hyperhidrosis, idiopathic capillaritis, nail disorder, pruritis, rash generalized, rash maculo-papular, seborrhea, skin discoloration, skin hypertrophy, skin striae, skin ulcer, and swelling face.
+
+Vascular Disorders
+
+Deep vein thrombosis, orthostatic hypotension, thrombophlebitis, varicose vein, and vasculitis.
 
 Laboratory Abnormalities
 
 The percentages of adult patients treated with combination therapy with Grade 3-4 laboratory abnormalities are presented in Table 6 (treatment-naïve patients) and Table 7 (treatment-experienced patients).
 
 Table 6.
-Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-naïve Patients
+Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Naïve Patients
 
-| Variable | Limit1 | KALETRA 400/100 mg BID + d4T +3TC (N = 326) | Nelfinavir 750 mg TID + d4T + 3TC (N = 327) | KALETRA 800/200 mg QD + TDF + FTC (N = 115) | KALETRA 400/100 mg BID + TDF + FTC (N = 75) | KALETRA BID2 + d4T + 3TC (N = 100) |
+| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + d4T +3TC (N = 326) | Nelfinavir 750 mg Three Times Daily + d4T + 3TC (N = 327) | KALETRA Twice Daily + d4T + 3TC (N = 100) | KALETRA Once Daily + TDF +FTC (N=333) | KALETRA Twice Daily + TDF +FTC (N=331) |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Study 863 (48 Weeks) |  | Study 418 (48 Weeks) |  | Study 720 (360 Weeks) |
+|  |  | Study 863 (48 Weeks) |  | Study 720 (360 Weeks) | Study 730 (48 Weeks) |  |
 | Chemistry | High |  |  |  |  |  |
-| Glucose | > 250 mg/dL | 2% | 2% | 3% | 1% | 4% |
-| Uric Acid | > 12 mg/dL | 2% | 2% | 0% | 3% | 5% |
-| SGOT/ AST | > 180 U/L | 2% | 4% | 5% | 3% | 10% |
-| SGPT/ ALT | >215 U/L | 4% | 4% | 4% | 3% | 11% |
-| GGT | >300 U/L | N/A | N/A | N/A | N/A | 10% |
-| Total Cholesterol | >300 mg/dL | 9% | 5% | 3% | 3% | 27% |
-| Triglycerides | >750 mg/dL | 9% | 1% | 5% | 4% | 29% |
-| Amylase | >2 x ULN | 3% | 2% | 7% | 5% | 4% |
+| Glucose | > 250 mg/dL | 2% | 2% | 4% | 0% | <1% |
+| Uric Acid | > 12 mg/dL | 2% | 2% | 5% | <1% | 1% |
+| SGOT/ AST2 | > 180 U/L | 2% | 4% | 10% | 1% | 2% |
+| SGPT/ ALT2 | >215 U/L | 4% | 4% | 11% | 1% | 1% |
+| GGT | >300 U/L | N/A | N/A | 10% | N/A | N/A |
+| Total Cholesterol | >300 mg/dL | 9% | 5% | 27% | 4% | 3% |
+| Triglycerides | >750 mg/dL | 9% | 1% | 29% | 3% | 6% |
+| Amylase | >2 x ULN | 3% | 2% | 4% | N/A | N/A |
+| Lipase | >2 x ULN | N/A | N/A | N/A | 3% | 5% |
+| Chemistry | Low |  |  |  |  |  |
+| Calculated Creatinine Clearance | <50 mL/min | N/A | N/A | N/A | 2% | 2% |
 | Hematology | Low |  |  |  |  |  |
-| Neutrophils | <0.75 x 109/L | 1% | 3% | 5% | 1% | 5% |
-| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Includes adverse event data from dose group I (200/100 mg BID [N = 16] and 400/100 mg BID [N = 16]) and dose group II (400/100 mg BID [N = 35] and 400/200 mg BID [N = 33]). Within dosing groups, moderate to severe nausea of probable/possible relationship to KALETRA occurred at a higher rate in the 400/200 mg dose arm compared to the 400/100 mg dose arm in group II. |  |  |  |  |  |  |
+| Neutrophils | <0.75 x 109/L | 1% | 3% | 5% | 2% | 1% |
+| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Criterion for Study 730 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
 Table 7.
-Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibitor-experienced Patients
+Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
-| Variable | Limit1 | KALETRA 400/100 mg BID + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA BID + NNRTI + NRTIs (N = 127) |
+| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) |
 | --- | --- | --- | --- | --- |
-|  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653(84-144 Weeks) |
+|  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) |
 | Chemistry | High |  |  |  |
 | Glucose | >250 mg/dL | 1% | 2% | 5% |
 | Total Bilirubin | >3.48 mg/dL | 1% | 3% | 1% |
@@ -159,7 +228,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibito
 | Inorganic Phosphorus | <1.5 mg/dL | 1% | 0% | 2% |
 | Hematology | Low |  |  |  |
 | Neutrophils | <0.75 x 109/L | 1% | 2% | 4% |
-| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Includes clinical laboratory data from patients receiving 400/100 mg BID (n = 29) or 533/133 mg BID (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes clinical laboratory data from patients receiving 400/100 mg BID (n = 36) or 400/200 mg BID (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine. |  |  |  |  |
+| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine. |  |  |  |  |
 
 ## 6.2 Pediatric Patients - Clinical Trials Experience
 
@@ -189,7 +258,7 @@ The percentages of pediatric patients treated with combination therapy including
 Table 8.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Study 940
 
-| Variable | Limit1 | KALETRA BID+ RTIs (N = 100) |
+| Variable | Limit1 | KALETRA Twice Daily + RTIs (N = 100) |
 | --- | --- | --- |
 | Chemistry | High |  |
 | Sodium | > 149 mEq/L | 3% |
@@ -210,8 +279,9 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Stud
 The following adverse reactions have been reported during postmarketing use of KALETRA.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to KALETRA exposure.
 
-Body as a Whole Redistribution/accumulation of body fat has been reported [See WARNINGS AND PRECAUTIONS (5.6)].
+Body as a Whole Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.8)].
 
 Cardiovascular Bradyarrhythmias.
+First–degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.5,5.6)].
 
 Skin and Appendages Stevens Johnson Syndrome and erythema multiforme.

@@ -7,4 +7,4 @@ The following points should be considered when initiating therapy with KALETRA:
 - The use of other active agents with KALETRA is associated with a greater likelihood of treatment response [see Clinical Pharmacology (12.4) and Clinical Studies (14)].
 - Genotypic or phenotypic testing and/or treatment history should guide the use of KALETRA [see Clinical Pharmacology (12.4)].
   The number of baseline primary protease inhibitor mutations affects the virologic response to KALETRA [see Clinical Pharmacology (12.4)].
-- Once-daily administration of KALETRA is not recommended for therapy-experienced adult patients or any pediatric patients.
+- Once daily administration of KALETRA is not recommended for therapy-experienced adult patients or any pediatric patients.

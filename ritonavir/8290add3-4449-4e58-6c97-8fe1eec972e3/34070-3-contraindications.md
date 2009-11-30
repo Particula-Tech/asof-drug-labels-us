@@ -12,11 +12,11 @@ Drugs That Are Contraindicated With KALETRA
 
 | Drug Class | Drugs Within Class That Are Contraindicated With KALETRA | Clinical comments: |
 | --- | --- | --- |
-| Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents. [see DRUG INTERACTIONS (7)] |
+| Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents. [see Drug Interactions (7)] |
 | Ergot Derivatives | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI motility agent | Cisapride | Potential for cardiac arrhythmias. |
 | Herbal Products | St Johns wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for myopathy including rhabdomyolysis. |
 | Neuroleptic | Pimozide | Potential for cardiac arrhythmias. |
 | Sedative/Hypnotics | Triazolam; orally administered midazolama | Prolonged or increased sedation or respiratory depression. |
-| aSee Drug Interactions, Table 9 for parenterally administered midazolam |  |  |
+| asee Drug Interactions, Table 9 for parenterally administered midazolam |  |  |
