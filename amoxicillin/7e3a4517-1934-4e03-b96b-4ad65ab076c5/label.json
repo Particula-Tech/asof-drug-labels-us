@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065271"
+  ],
   "inn": "amoxicillin",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "65862-017-05",
     "65862-017-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    }
+  ],
   "setid": "7e3a4517-1934-4e03-b96b-4ad65ab076c5",
   "source": "dailymed"
 }

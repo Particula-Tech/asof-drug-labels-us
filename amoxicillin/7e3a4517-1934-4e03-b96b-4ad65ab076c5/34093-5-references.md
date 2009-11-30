@@ -11,7 +11,6 @@
    Vet Hum Toxicol.
    1988;30:66-67.
 
-AUGMENTIN is a registered trademark of GlaxoSmithKline.
 CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered trademark of Bayer Corporation.
 CLOtest is a registered trademark of Kimberly-Clark Corporation.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 11/2008

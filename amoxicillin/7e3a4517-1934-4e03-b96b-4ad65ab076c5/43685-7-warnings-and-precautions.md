@@ -48,15 +48,15 @@ Since this effect may also occur with amoxicillin, it is recommended that glucos
 Following administration of ampicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted.
 This effect may also occur with amoxicillin.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 Long-term studies in animals have not been performed to evaluate carcinogenic potential.
-Studies to detect mutagenic potential of amoxicillin alone have not been conducted; however, the following information is available from tests on a 4:1 mixture of amoxicillin and potassium clavulanate (AUGMENTIN).
-AUGMENTIN was non-mutagenic in the Ames bacterial mutation assay, and the yeast gene conversion assay.
-AUGMENTIN was weakly positive in the mouse lymphoma assay, but the trend toward increased mutation frequencies in this assay occurred at doses that were also associated with decreased cell survival.
-AUGMENTIN was negative in the mouse micronucleus test, and in the dominant lethal assay in mice.
+Studies to detect mutagenic potential of amoxicillin alone have not been conducted; however, the following information is available from tests on a 4:1 mixture of amoxicillin and potassium clavulanate.
+Amoxicillin and potassium clavulanate was non-mutagenic in the Ames bacterial mutation assay, and the yeast gene conversion assay.
+Amoxicillin and potassium clavulanate was weakly positive in the mouse lymphoma assay, but the trend toward increased mutation frequencies in this assay occurred at doses that were also associated with decreased cell survival.
+Amoxicillin and potassium clavulanate was negative in the mouse micronucleus test, and in the dominant lethal assay in mice.
 Potassium clavulanate alone was tested in the Ames bacterial mutation assay and in the mouse micronucleus test, and was negative in each of these assays.
-In a multi-generation reproduction study in rats, no impairment of fertility or other adverse reproductive effects were seen at doses up to 500 mg/kg (approximately 3 times the human dose in mg/m2).
+In a multi-generation reproduction study in rats, no impairment of fertility or other adverse reproductive effects were seen at doses up to 500 mg/kg (approximately 3 times the human dose in mg/m 2 ).
 
 ## Pregnancy
 
@@ -82,7 +82,7 @@ Caution should be exercised when amoxicillin is administered to a nursing woman.
 
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
 Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (≤3 months).
-(See DOSAGE AND ADMINISTRATION: Neonates and Infants.)
+(See DOSAGE AND ADMINISTRATION: Neonates and Infants .)
 
 ## Geriatric Use
 
