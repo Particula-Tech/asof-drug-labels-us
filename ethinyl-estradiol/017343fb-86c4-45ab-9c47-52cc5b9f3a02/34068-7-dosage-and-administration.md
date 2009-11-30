@@ -14,7 +14,7 @@ This means that the ring is removed three weeks later on the same day of the wee
 NuvaRing® can be removed by hooking the index finger under the forward rim or by grasping the rim between the index and middle finger and pulling it out.
 The used ring should be placed in the sachet (foil pouch) and discarded in a waste receptacle out of the reach of children and pets (do not flush in toilet).
 After a one-week break, during which a withdrawal bleed usually occurs, a new ring is inserted on the same day of the week as it was inserted in the previous cycle.
-The withdrawal bleed usually starts on day 2-3 after removal of the ring and may not have finished before the next ring is inserted.
+The withdrawal bleed usually starts on day 2–3 after removal of the ring and may not have finished before the next ring is inserted.
 In order to maintain contraceptive effectiveness, the new ring must be inserted one week after the previous one was removed even if menstrual bleeding has not finished.
 
 ## When to Start NuvaRing®
@@ -23,8 +23,8 @@ IMPORTANT: The possibility of ovulation and conception prior to the first use of
 
 ### No hormonal contraceptive use in the preceding cycle
 
-Insert NuvaRing® on the first day of the woman’s natural cycle (i.e., the first day of her menstrual bleeding).
-NuvaRing® may also be started on days 2-5 of the woman’s cycle, but in this case a barrier method, such as male condoms or spermicide, is recommended for the first seven days of NuvaRing® use in the first cycle.
+Insert NuvaRing® on the first day of the woman's natural cycle (i.e., the first day of her menstrual bleeding).
+NuvaRing® may also be started on days 2–5 of the woman's cycle, but in this case a barrier method, such as male condoms or spermicide, is recommended for the first seven days of NuvaRing® use in the first cycle.
 
 ### Changing from a combined hormonal contraceptive
 
@@ -39,7 +39,7 @@ In all of these cases, the woman should use an additional barrier method such as
 ### Following complete first trimester abortion
 
 The woman may start using NuvaRing® within the first five days following a complete first trimester abortion and does not need to use an additional method of contraception.
-If use of NuvaRing® is not started within five days following a first trimester abortion, the woman should follow the instructions for “No hormonal contraceptive use in the preceding cycle.”
+If use of NuvaRing® is not started within five days following a first trimester abortion, the woman should follow the instructions for "No hormonal contraceptive use in the preceding cycle."
 In the meantime she should be advised to use a non-hormonal contraceptive method.
 
 ### Following delivery or second trimester abortion
@@ -49,7 +49,7 @@ Women who are breast-feeding should be advised not to use NuvaRing® but to use 
 NuvaRing® use may be initiated four weeks after a second trimester abortion.
 When NuvaRing® is used postpartum or postabortion, the increased risk of thromboembolic disease must be considered.
 (See CONTRAINDICATIONS and WARNINGS concerning thromboembolic disease.
-See PRECAUTIONS for “Nursing Mothers”.)
+See PRECAUTIONS for "Nursing Mothers".)
 If a woman begins using NuvaRing® postpartum, she should be instructed to use an additional method of contraception, such as male condoms or spermicide, for the first seven days.
 If she has not yet had a period, the possibility of ovulation and conception occurring prior to initiation of NuvaRing® should be considered.
 

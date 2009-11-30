@@ -9,70 +9,20 @@ These are also likely to apply to combination vaginal hormonal contraceptives, s
 
 An increased risk of the following serious adverse reactions has been associated with the use of combination hormonal contraceptives (see CONTRAINDICATIONS and WARNINGS):
 
-- Thrombophlebitis and venous thrombosis with or without embolism
-- Cerebral hemorrhage
-- Cerebral thrombosis
-- Hypertension
-- Arterial thromboembolism
-- Gallbladder disease
-- Pulmonary embolism
-- Myocardial infarction
-- Hepatic adenomas or benign liver tumors
+| Thrombophlebitis and venous thrombosis with or without embolismArterial thromboembolismPulmonary embolismMyocardial infarction | Cerebral hemorrhageCerebral thrombosisHypertensionGallbladder diseaseHepatic adenomas or benign liver tumors |
+| --- | --- |
 
 There is evidence of an association between the following conditions and the use of combination hormonal contraceptives:
 
-- Mesenteric thrombosis
-- Retinal thrombosis
+| Mesenteric thrombosis | Retinal thrombosis |
+| --- | --- |
 
 The following additional adverse reactions have been reported in users of combination hormonal contraceptives and are believed to be drug-related:
 
-- Nausea
-- Change in weight or appetite (increase or decrease)
-- Vomiting
-- Change in cervical ectropion and secretion
-- Gastrointestinal symptoms (such as abdominal pain, cramps and bloating)
-- Possible diminution in lactation when given immediately postpartum
-- Breakthrough bleeding
-- Cholestatic jaundice
-- Spotting
-- Migraine headache
-- Change in menstrual flow
-- Rash (allergic)
-- Amenorrhea
-- Mood changes, including depression
-- Temporary infertility after discontinuation of treatment
-- Vaginitis, including candidiasis
-- Edema/fluid retention
-- Change in corneal curvature (steepening)
-- Melasma/chloasma which may persist
-- Breast changes: tenderness, pain enlargement, and secretion
-- Intolerance to contact lenses
-- Decrease in serum folate levels
-- Exacerbation of systemic lupus erythematosus
-- Exacerbation of porphyria
-- Exacerbation of chorea
-- Aggravation of varicose veins
-- Anaphylactic/anaphylactoid reactions, including urticaria, angioedema, and severe reactions with respiratory and circulatory symptoms
+| NauseaVomitingGastrointestinal symptoms (such as abdominal pain, cramps and bloating)Breakthrough bleedingSpottingChange in menstrual flowAmenorrheaTemporary infertility after discontinuation of treatmentEdema/fluid retentionMelasma/chloasma which may persistBreast changes: tenderness, pain, enlargement, and secretionDecrease in serum folate levelsExacerbation of porphyriaAggravation of varicose veins | Change in weight or appetite (increase or decrease)Change in cervical ectropion and secretionPossible diminution in lactation when given immediately postpartumCholestatic jaundiceMigraine headacheRash (allergic)Mood changes, including depressionVaginitis, including candidiasisChange in corneal curvature (steepening)Intolerance to contact lensesExacerbation of systemic lupus erythematosusExacerbation of choreaAnaphylactic/anaphylactoid reactions, including urticaria, angioedema, and severe reactions with respiratory and circulatory symptoms |
+| --- | --- |
 
 The following additional adverse reactions have been reported in users of combination hormonal contraceptives and a causal association has been neither confirmed nor refuted:
 
-- Pre-menstrual syndrome
-- Erythema nodosum
-- Cataracts
-- Hemorrhagic eruption
-- Cystitis-like syndrome
-- Headache
-- Impaired renal function
-- Nervousness
-- Hemolytic uremic syndrome
-- Dizziness
-- Acne
-- Hirsutism
-- Changes in libido
-- Loss of scalp hair
-- Colitis
-- Erythema multiforme
-- Budd-Chiari Syndrome
-- Dysmenorrhea
-- Optic neuritis, which may lead to partial or complete loss of vision
-- Pancreatitis
+| Pre-menstrual syndromeCataractsCystitis-like syndromeHeadacheNervousnessDizzinessHirsutismLoss of scalp hairErythema multiformeDysmenorrheaPancreatitis | Erythema nodosumHemorrhagic eruptionImpaired renal functionHemolytic uremic syndromeAcneChanges in libidoColitisBudd-Chiari SyndromeOptic neuritis, which may lead to partial or complete loss of vision |
+| --- | --- |

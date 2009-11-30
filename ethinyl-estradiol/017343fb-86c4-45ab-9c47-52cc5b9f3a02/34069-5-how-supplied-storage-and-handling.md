@@ -3,7 +3,9 @@
 Each NuvaRing® (etonogestrel/ethinyl estradiol vaginal ring) is individually packaged in a reclosable aluminum laminate sachet consisting of three layers, from outside to inside: polyester, aluminum foil, and low-density polyethylene.
 The ring should be replaced in this reclosable sachet after use for convenient disposal.
 
-Box of 3 sachets NDC 0052-0273-03 Box of 1 sachet NDC 0052-0273-01
+| Box of 3 sachets | NDC 0052-0273-03 |
+| --- | --- |
+| Box of 1 sachet | NDC 0052-0273-01 |
 
 ## Storage
 
@@ -12,5 +14,3 @@ After dispensing to the user, NuvaRing® can be stored for up to four months at 
 Avoid storing NuvaRing® in direct sunlight or at temperatures above 30°C (86°F).
 For the Dispenser: When NuvaRing® is dispensed to the user, place an expiration date on the label.
 The date should not exceed either four months from the date of dispensing or the expiration date, whichever comes first.
-
-Rx only

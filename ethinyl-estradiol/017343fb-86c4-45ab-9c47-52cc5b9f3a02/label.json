@@ -1,12 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021187"
+  ],
   "inn": "ethinyl-estradiol",
-  "labeler": "Organon USA, Inc.",
+  "labeler": "Organon Pharmaceuticals USA",
   "package_ndcs": [
     "0052-0273-01",
-    "0052-0273-03"
+    "0052-0273-03",
+    "0052-0273-12",
+    "0052-0273-81",
+    "0052-0273-85"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INSERT, EXTENDED RELEASE",
+      "generic": "etonogestrel and ethinyl estradiol",
+      "name": "NuvaRing"
+    }
+  ],
   "setid": "017343fb-86c4-45ab-9c47-52cc5b9f3a02",
   "source": "dailymed"
 }
