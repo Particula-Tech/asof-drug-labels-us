@@ -2,8 +2,8 @@ Rx Only
 
 (Patient Information Enclosed)
 
-Revised: August 2007
+Revised: September 2009
 
-ABRAXIS ONCOLOGY
+ABRAXIS BIOSCIENCE
 
-A Division of Abraxis BioScience, Inc. Los Angeles, CA 90049
+Distributed by Abraxis BioScience, LLC Bridgewater, NJ 08807

@@ -4,7 +4,22 @@ After failure of combination chemotherapy for metastatic breast cancer or relaps
 
 ## Hepatic Impairment
 
-The appropriate dose of ABRAXANE for patients with bilirubin greater than 1.5 mg/dL is not known.
+No dose adjustment is necessary for patients with mild hepatic impairment.
+Patients with moderate and severe hepatic impairment treated with ABRAXANE may be at increased risk of toxicities known to paclitaxel.
+Patients should not receive ABRAXANE if AST > 10 × ULN or bilirubin > 5.0 × ULN.
+Recommendations for dosage adjustment for the first course of therapy are shown in Table 4.
+The dose of ABRAXANE can be increased up to 200 mg/m2 in patients with severe hepatic impairment in subsequent cycles based on individual tolerance.
+Patients should be monitored closely.
+(see CLINICAL PHARMACOLOGY: Hepatic Impairment and PRECAUTIONS: Hepatic Impairment)
+
+Table 4: Recommendations for Starting Dose in Patients with Hepatic Impairment
+
+|  | SGOT (AST) Levels |  | Bilirubin Levels | ABRAXANEDosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |
+| --- | --- | --- | --- | --- |
+| Mild | <10 × ULN | AND | >ULN to ≤ 1.25 × ULN | 260 mg/m2 |
+| Moderate | <10 × ULN | 1.26 to 2.0 × ULN | 200 mg/m2 |  |
+| Severe | <10 × ULN | 2.01 to 5.0 × ULN | 130 mg/m2A dose increase to 200 mg/m2 in subsequent courses should be considered based on individual tolerance. |  |
+|  | > 10 × ULN | OR | > 5.0 × ULN | not eligible |
 
 ## Dose Reduction
 

@@ -33,6 +33,35 @@ In vitro studies with human liver microsomes and tissue slices showed that pacli
 In vitro, the metabolism of paclitaxel to 6α-hydroxypaclitaxel was inhibited by a number of agents (ketoconazole, verapamil, diazepam, quinidine, dexamethasone, cyclosporin, teniposide, etoposide, and vincristine), but the concentrations used exceeded those found in vivo following normal therapeutic doses.
 Testosterone, 17α-ethinyl estradiol, retinoic acid, and quercetin, a specific inhibitor of CYP2C8, also inhibited the formation of 6α-hydroxypaclitaxel in vitro.
 The pharmacokinetics of paclitaxel may also be altered in vivo as a result of interactions with compounds that are substrates, inducers, or inhibitors of CYP2C8 and/or CYP3A4 (see PRECAUTIONS: Drug Interactions).
-The effect of renal or hepatic dysfunction on the disposition of ABRAXANE® has not been investigated.
+
+The pharmacokinetic profile of ABRAXANE administered as a 30-minute infusion was evaluated in 15 out of 30 solid tumor patients with mild to severe hepatic impairment defined by serum bilirubin levels and AST levels.
+Patients with AST > 10 × ULN and bilirubin > 5.0 × ULN were not enrolled.
+ABRAXANE doses were assigned based on the degree of hepatic impairment as described:
+
+- Mild (bilirubin > ULN to ≤ 1.25 × ULN and AST > ULN and < 10 × ULN): 260 mg/m2
+- Moderate (bilirubin 1.26 to 2.0 × ULN and AST > ULN and < 10 × ULN): 200 mg/m2
+- Severe (bilirubin 2.01 to 5.0 × ULN and AST > ULN and < 10 × ULN): 130 mg/m2
+
+The 260 mg/m2 dose for mild impairment and the 200 mg/m2 dose for moderate hepatic impairment adjusted the paclitaxel exposure to the range seen in patients with normal hepatic function (mean AUC0-∞ = 14789 ± 6703).
+The 130 mg/m2 dose in patients with severe hepatic impairment resulted in lower paclitaxel exposures than those seen in normal subjects.
+In addition, patients with severe hepatic impairment had higher mean cycle 1 absolute neutrophil count (ANC) nadir values than those with mild and moderate hepatic impairment.
+
+Table 1: Exposure (AUC0-∞) of ABRAXANE administered IV over 30 minutes in patients with hepatic impairment.
+
+| AUCinf(hr*ng/mL) |  |  |  |
+| --- | --- | --- | --- |
+|  | Mild (n=5) | Moderate (n=5) | Severebilirubin 2.01 to 5.0 × ULN and AST > ULN and < 10 × ULN (n=5) |
+| Dose | 260 mg/m2 | 200 mg/m2 | 130 mg/m2 |
+| Mean ± SD | 17434 ± 11454 | 14159 ± 13346 | 9187 ± 6475 |
+| Median (range) | 13755 (7618, 35262) | 7866 (5919, 37613) | 6134 (5627, 20684) |
+
+A starting dose of 130 mg/m2 is recommended in patients with severe hepatic impairment.
+Escalation of the dose up to 200 mg/m2 should be considered for subsequent cycles in patients with severe hepatic impairment based on individual tolerance.
+The 200 mg/m2 dose has not been evaluated in patients with severe hepatic impairment, but it is predicted to adjust the paclitaxel AUC to the range observed in patients with normal hepatic function.
+A starting dose reduction is also needed for patients with moderate hepatic impairment.
+There are no data for patients with AST > 10 × ULN and bilirubin > 5.0 × ULN.
+(see DOSAGE and ADMINISTRATION: Hepatic Impairment).
+
+The effect of renal dysfunction on the disposition of ABRAXANE® has not been investigated.
 
 Possible interactions of paclitaxel with concomitantly administered medications have not been formally investigated.

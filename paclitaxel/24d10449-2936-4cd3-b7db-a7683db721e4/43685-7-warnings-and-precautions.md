@@ -5,7 +5,7 @@ ABRAXANE should not be administered to patients with baseline neutrophil counts 
 Frequent monitoring of blood counts should be instituted during ABRAXANE treatment.
 Patients should not be retreated with subsequent cycles of ABRAXANE until neutrophils recover to a level >1,500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
 
-The use of ABRAXANE has not been studied in patients with hepatic or renal dysfunction.
+The use of ABRAXANE has not been studied in patients with renal dysfunction.
 In the randomized controlled trial, patients were excluded for baseline serum bilirubin >1.5 mg/dL or baseline serum creatinine >2 mg/dL.
 
 ## Pregnancy
@@ -41,9 +41,8 @@ No cases of transmission of viral diseases or CJD have ever been identified for 
 No drug interaction studies have been conducted with ABRAXANE.
 
 The metabolism of paclitaxel is catalyzed by CYP2C8 and CYP3A4.
-In the absence of formal clinical drug interaction studies, caution should be exercised when administering ABRAXANE (paclitaxel protein-bound particles for injectable suspension) concomitantly with known substrates or inhibitors of CYP2C8 and CYP3A4 (see CLINICAL PHARMACOLOGY).
-
-Potential interactions between paclitaxel, a substrate of CYP3A4, and protease inhibitors (such as ritonavir, saquinavir, indinavir, and nelfinavir), which are substrates and/or inhibitors of CYP3A4, have not been evaluated in clinical trials.
+In the absence of formal clinical drug interaction studies, caution should be exercised when administering ABRAXANE concomitantly with medicines known to inhibit (e.g. ketoconazole and other imidazole antifungals, erythromycin, fluoxetine, gemfibrozil, cimetidine, ritonavir, saquinavir, indinavir, and nelfinavir) or induce (e.g. rifampicin, carbamazepine, phenytoin, efavirenz, nevirapine) either CYP2C8 or CYP3A4.
+(see CLINICAL PHARMACOLOGY).
 
 ## Hematology
 
@@ -57,6 +56,12 @@ In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during
 Sensory neuropathy occurs frequently with ABRAXANE.
 The occurrence of grade 1 or 2 sensory neuropathy does not generally require dose modification.
 If grade 3 sensory neuropathy develops, treatment should be withheld until resolution to grade 1 or 2 followed by a dose reduction for all subsequent courses of ABRAXANE (see DOSAGE and ADMINISTRATION).
+
+## Hepatic Impairment
+
+Because the exposure and toxicity of paclitaxel can be increased with hepatic impairment, administration of ABRAXANE in patients with hepatic impairment should be performed with caution.
+The starting dose should be reduced for patients with moderate and severe hepatic impairment.
+(See CLINICAL PHARMACOLOGY and DOSAGE and ADMINISTRATION, Hepatic Impairment).
 
 ## Injection Site Reaction
 
@@ -96,6 +101,10 @@ The safety and effectiveness of ABRAXANE in pediatric patients have not been eva
 
 Of the 229 patients in the randomized study who received ABRAXANE, 11% were at least 65 years of age and < 2% were 75 years or older.
 No toxicities occurred notably more frequently among elderly patients who received ABRAXANE.
+
+## Ability to Drive and Use Machines
+
+Adverse events such as fatigue, lethargy, and malaise may affect the ability to drive and use machines.
 
 ## Information for Patients
 

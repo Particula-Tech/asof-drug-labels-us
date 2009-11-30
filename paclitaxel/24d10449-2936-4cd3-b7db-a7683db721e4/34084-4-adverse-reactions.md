@@ -2,7 +2,7 @@
 
 The following table shows the frequency of important adverse events in the randomized comparative trial for the patients who received either single-agent ABRAXANE® or paclitaxel injection for the treatment of metastatic breast cancer.
 
-Table 2: FrequencyBased on worst grade. of Important Treatment Emergent Adverse Events in the Randomized Study on an Every-3-Weeks Schedule
+Table 3: FrequencyBased on worst grade. of Important Treatment Emergent Adverse Events in the Randomized Study on an Every-3-Weeks Schedule
 
 |  | ABRAXANE® 260/30minABRAXANE dose in mg/m2/duration in minutes. (n=229) | Paclitaxel Injection 175/3hpaclitaxel injection dose in mg/m2/duration in hours.,paclitaxel injection pts received premedication. (n=225) |
 | --- | --- | --- |
@@ -136,7 +136,7 @@ Of the 10 patients without documented improvement, 4 discontinued the study due 
 No incidences of grade 4 sensory neuropathies were reported in the clinical trial.
 Only one incident of motor neuropathy (grade 2) was observed in either arm of the controlled trial.
 
-Cranial nerve palsies have been reported during postmarketing surveillance of ABRAXANE.
+Cranial nerve palsies and vocal cord paresis have been reported during postmarketing surveillance of ABRAXANE.
 Because these events have been reported during clinical practice, true estimates of frequency cannot be made and a causal relationship to the events has not been established.
 
 Reports of autonomic neuropathy resulting in paralytic ileus have been received as part of the continuing surveillance of paclitaxel injection safety.

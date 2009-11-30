@@ -1,6 +1,7 @@
 # DESCRIPTION
 
 ABRAXANE for Injectable Suspension (paclitaxel protein-bound particles for injectable suspension) is an albumin-bound form of paclitaxel with a mean particle size of approximately 130 nanometers.
+Paclitaxel exists in the particles in a non-crystalline, amorphous state.
 ABRAXANE is supplied as a white to yellow, sterile, lyophilized powder for reconstitution with 20 mL of 0.9% Sodium Chloride Injection, USP prior to intravenous infusion.
 Each single-use vial contains 100 mg of paclitaxel and approximately 900 mg of human albumin.
 Each milliliter (mL) of reconstituted suspension contains 5 mg paclitaxel.

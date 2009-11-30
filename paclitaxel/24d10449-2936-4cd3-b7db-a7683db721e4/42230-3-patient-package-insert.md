@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 ABRAXANE® for Injectable Suspension [generic name = (paclitaxel protein-bound particles for injectable suspension) (albumin-bound)]
 
@@ -98,6 +98,8 @@ These reactions are usually caused by the I.V.
 (intravenous) fluid leaking into the surrounding area.
 If you notice anything unusual at the site of the injection (needle), either during or after treatment, tell your doctor right away.
 
+Ability to Drive and Use Machines: Adverse events may affect your ability to drive and use machines.
+
 Talk with your doctor or other healthcare professional to discuss ways to prevent or reduce some of these side effects.
 Because this leaflet does not include all possible side effects that can occur with ABRAXANE, it is important to talk with your doctor about other possible side effects.
 
@@ -120,12 +122,12 @@ If you have questions or concerns, or want more information about ABRAXANE, your
 You may want to read it and discuss it with your doctor.
 Remember, no written summary can replace careful discussion with your doctor.
 
-ABRAXIS ONCOLOGY
+ABRAXIS BIOSCIENCE
 
-A Division of Abraxis BioScience, Inc. Los Angeles, CA 90049
+Distributed by Abraxis BioScience, LLC Bridgewater, NJ 08807
 
 This Patient Information Leaflet has been approved by the U.S. Food and Drug Administration.
 
-Based on: ABRAXANE Package Insert 451031E/Revised: August 2007
+Based on: ABRAXANE Package Insert Revised: September 2009
 
-Revised: August 2007
+Revised: September 2009

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021660"
+  ],
   "inn": "paclitaxel",
-  "labeler": "Abraxis BioScience, LLC.",
+  "labeler": "Abraxis BioScience, LLC",
   "package_ndcs": [
     "68817-134-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "generic": "paclitaxel",
+      "name": "ABRAXANE"
+    }
+  ],
   "setid": "24d10449-2936-4cd3-b7db-a7683db721e4",
   "source": "dailymed"
 }

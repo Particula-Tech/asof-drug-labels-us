@@ -21,10 +21,10 @@ Fifty-nine percent received study drug as second or greater than second-line the
 Seventy-seven percent of the patients had been previously exposed to anthracyclines.
 
 In this trial, patients in the ABRAXANE® treatment arm had a statistically significantly higher reconciled target lesion response rate (the trial primary endpoint) of 21.5% (95% CI: 16.2% to 26.7%), compared to 11.1% (95% CI: 6.9% to 15.1%) for patients in the paclitaxel injection treatment arm.
-See Table 1.
+See Table 2.
 There was no statistically significant difference in overall survival between the two study arms.
 
-Table 1: Efficacy Results from Randomized Trial
+Table 2: Efficacy Results from Randomized Trial
 
 | Reconciled Target Lesion Response Rate (primary endpoint) Reconciled Target Lesion Response Rate (TLRR) was the prospectively defined protocol specific endpoint, based on independent radiologic assessment of tumor responses reconciled with investigator responses (which also included clinical information) for the first 6 cycles of therapy. The reconciled TLRR was lower than the investigator Reported Response Rates, which are based on all cycles of therapy. |  |  |  |
 | --- | --- | --- | --- |
