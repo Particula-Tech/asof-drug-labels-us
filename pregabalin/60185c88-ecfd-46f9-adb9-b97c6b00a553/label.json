@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021724"
+  ],
   "inn": "pregabalin",
-  "labeler": "Pfizer",
+  "labeler": "Parke-Davis Div of Pfizer Inc",
   "package_ndcs": [
     "0071-1012-68",
     "0071-1013-41",
@@ -16,7 +18,13 @@
     "0071-1018-68",
     "0071-1019-68"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "pregabalin",
+      "name": "Lyrica"
+    }
+  ],
   "setid": "60185c88-ecfd-46f9-adb9-b97c6b00a553",
   "source": "dailymed"
 }
