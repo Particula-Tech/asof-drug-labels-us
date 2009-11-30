@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA079096"
+  ],
+  "inn": "naproxen",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "53746-191-05",
+    "53746-191-24",
+    "53746-192-05",
+    "53746-192-24"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "naproxen sodium",
+      "name": "Naproxen Sodium (NSAID)"
+    }
+  ],
+  "setid": "0bb41b8c-6031-4e96-95e1-31adab811837",
+  "source": "dailymed"
+}
