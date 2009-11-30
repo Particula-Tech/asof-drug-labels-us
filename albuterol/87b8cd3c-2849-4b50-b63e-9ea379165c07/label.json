@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA072637"
+  ],
   "inn": "albuterol",
-  "labeler": "MUTUAL PHARMACEUTICAL CO., INC.",
+  "labeler": "Mutual Pharmaceutical Company, Inc.",
   "package_ndcs": [
     "53489-176-01",
     "53489-176-02",
@@ -14,7 +16,13 @@
     "53489-177-05",
     "53489-177-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "albuterol sulfate",
+      "name": "albuterol sulfate"
+    }
+  ],
   "setid": "87b8cd3c-2849-4b50-b63e-9ea379165c07",
   "source": "dailymed"
 }

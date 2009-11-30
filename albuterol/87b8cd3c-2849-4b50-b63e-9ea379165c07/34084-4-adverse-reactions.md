@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In clinical trials, the most frequent adverse reactions to albuterol sulfate tablets were:
+In clinical trials, the most frequent adverse reactions to albuterol tablets were:
 
 Percent Incidence of Adverse Reactions
 
@@ -32,5 +32,5 @@ Rare cases of urticaria, angioedema, rash, bronchospasm, and oropharyngeal edema
 
 In addition, albuterol, like other sympathomimetic agents, can cause adverse reactions such as hypertension, angina, vomiting, vertigo, central nervous system stimulation, unusual taste, and drying or irritation of the oropharynx.
 
-The reactions are generally transient in nature, and it is usually not necessary to discontinue treatment with albuterol sulfate tablets.
+The reactions are generally transient in nature, and it is usually not necessary to discontinue treatment with albuterol tablets.
 In selected cases, however, dosage may be reduced temporarily; after the reaction has subsided, dosage should be increased in small increments to the optimal dosage.

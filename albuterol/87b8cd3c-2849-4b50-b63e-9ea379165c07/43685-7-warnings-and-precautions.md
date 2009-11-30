@@ -2,21 +2,21 @@
 
 ## Paradoxical Bronchospasm
 
-Albuterol sulfate tablets can produce paradoxical bronchospasm, which may be life threatening.
-If paradoxical bronchospasm occurs, albuterol sulfate tablets should be discontinued immediately and alternative therapy instituted.
+Albuterol tablets can produce paradoxical bronchospasm, which may be life threatening.
+If paradoxical bronchospasm occurs, albuterol tablets should be discontinued immediately and alternative therapy instituted.
 
 ## Cardiovascular Effects
 
-Albuterol sulfate tablets, like all other beta-adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
-Although such effects are uncommon after administration of albuterol sulfate tablets at recommended doses, if they occur, the drug may need to be discontinued.
+Albuterol tablets, like all other beta-adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
+Although such effects are uncommon after administration of albuterol tablets at recommended doses, if they occur, the drug may need to be discontinued.
 In addition, beta-agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
 The clinical significance of these findings is unknown.
-Therefore, albuterol sulfate tablets, like all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
+Therefore, albuterol tablets, like all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
 ## Deterioration of Asthma
 
 Asthma may deteriorate acutely over a period of hours or chronically over several days or longer.
-If the patient needs more doses of albuterol sulfate tablets than usual, this may be a marker of destabilization of asthma and requires reevaluation of the patient and treatment regimen, giving special consideration to the possible need for anti-inflammatory treatment, e.g., corticosteroids.
+If the patient needs more doses of albuterol tablets than usual, this may be a marker of destabilization of asthma and requires reevaluation of the patient and treatment regimen, giving special consideration to the possible need for anti-inflammatory treatment, e.g., corticosteroids.
 
 ## Use of Anti-Inflammatory Agents
 
@@ -43,50 +43,50 @@ The decrease is usually transient, not requiring supplementation.
 
 ## Information for Patients
 
-The action of albuterol sulfate tablets may last up to 8 hours or longer.
-Albuterol sulfate tablets should not be taken more frequently than recommended.
-Do not increase the dose or frequency of albuterol sulfate tablets without consulting your physician.
-If you find that treatment with albuterol sulfate tablets becomes less effective for symptomatic relief, your symptoms get worse, and/or you need to take the product more frequently than usual, you should seek medical attention immediately.
-While you are taking albuterol sulfate tablets, other asthma medications and inhaled drugs should be taken only as directed by your physician.
+The action of albuterol tablets may last up to 8 hours or longer.
+Albuterol tablets should not be taken more frequently than recommended.
+Do not increase the dose or frequency of albuterol tablets without consulting your physician.
+If you find that treatment with albuterol tablets becomes less effective for symptomatic relief, your symptoms get worse, and/or you need to take the product more frequently than usual, you should seek medical attention immediately.
+While you are taking albuterol tablets, other asthma medications and inhaled drugs should be taken only as directed by your physician.
 Common adverse effects include palpitations, chest pain, rapid heart rate, and tremor or nervousness.
-If you are pregnant or nursing, contact your physician about use of albuterol sulfate tablets.
-Effective and safe use of albuterol sulfate tablets includes an understanding of the way that it should be administered.
+If you are pregnant or nursing, contact your physician about use of albuterol tablets.
+Effective and safe use of albuterol tablets includes an understanding of the way that it should be administered.
 
 ## Drug Interactions
 
-The concomitant use of albuterol sulfate tablets and other oral sympathomimetic agents is not recommended since such combined use may lead to deleterious cardiovascular effects.
-This recommendation does not preclude the judicious use of an aerosol bronchodilator of the adrenergic stimulant type in patients receiving albuterol sulfate tablets.
+The concomitant use of albuterol tablets and other oral sympathomimetic agents is not recommended since such combined use may lead to deleterious cardiovascular effects.
+This recommendation does not preclude the judicious use of an aerosol bronchodilator of the adrenergic stimulant type in patients receiving albuterol tablets.
 Such concomitant use, however, should be individualized and not given on a routine basis.
 If regular coadministration is required, then alternative therapy should be considered.
 
-### Monoamine Oxidase Inhibitors or Tricyclic Antidepressants
+Monoamine Oxidase Inhibitors or Tricyclic Antidepressants
 
 Albuterol should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of albuterol on the vascular system may be potentiated.
 
-### Beta-Blockers
+Beta-Blockers
 
-Beta-adrenergic receptor blocking agents not only block the pulmonary effect of beta-agonists, such as albuterol sulfate tablets, but may produce severe bronchospasm in asthmatic patients.
+Beta-adrenergic receptor blocking agents not only block the pulmonary effect of beta-agonists, such as albuterol tablets, but may produce severe bronchospasm in asthmatic patients.
 Therefore, patients with asthma should not normally be treated with beta-blockers.
 However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents in patients with asthma.
 In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution.
 
-### Diuretics
+Diuretics
 
 The ECG changes and/or hypokalemia that may result from the administration of nonpotassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
 Although the clinical significance of these effects is not known, caution is advised in the coadministration of beta-agonists with nonpotassium-sparing diuretics.
 
-### Digoxin
+Digoxin
 
 Mean decreases of 16% to 22% in serum digoxin levels were demonstrated after single-dose intravenous and oral administration of albuterol, respectively, to normal volunteers who had received digoxin for 10 days.
 The clinical significance of these findings for patients with obstructive airway disease who are receiving albuterol and digoxin on a chronic basis is unclear.
 Nevertheless, it would be prudent to carefully evaluate the serum digoxin levels in patients who are currently receiving digoxin and albuterol.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
-In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium at dietary doses of 2.0, 10, and 50 mg/kg (approximately ½, 3 and 15 times, respectively, the maximum recommended daily oral dose for adults on a mg/m2 basis, or, 2/5, 2, and 10 times, respectively, the maximum recommended daily oral dose for children on a mg/m2 basis).
+In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium at dietary doses of 2, 10, and 50 mg/kg (approximately 1/2, 3 and 15 times, respectively, the maximum recommended daily oral dose for adults on a mg/m2 basis, or, 2⁄5, 2 and 10 times, respectively, the maximum recommended daily oral dose for children on a mg/m2 basis).
 In another study this effect was blocked by the coadministration of propranolol, a non-selective beta-adrenergic antagonist.
 
-In an 18-month study in CD-1 mice albuterol sulfate, showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg, (approximately 65 times the maximum recommended daily oral dose for adults on a mg/m2 basis, or, approximately 50 times the maximum recommended daily oral dose for children on a mg/m2 basis).
+In an 18-month study in CD-1 mice albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg, (approximately 65 times the maximum recommended daily oral dose for adults on a mg/m2 basis, or, approximately 50 times the maximum recommended daily oral dose for children on a mg/m2 basis).
 In a 22-month study in the Golden hamster albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg, (approximately 8 times the maximum recommended daily oral dose for adults on a mg/m2 basis, or, approximately 7 times the maximum recommended daily oral dose for children on a mg/m2 basis).
 
 Albuterol sulfate was not mutagenic in the Ames test with or without metabolic activation using tester strains S. typhimurium TA1537, TA1538, and TA98 or E. Coli WP2, WP2uvrA, and WP67.
@@ -98,9 +98,7 @@ Reproduction studies in rats demonstrated no evidence of impaired fertility at o
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category C
+### Teratogenic Effects. Pregnancy Category C
 
 Albuterol has been shown to be teratogenic in mice.
 A study in CD-1 mice at subcutaneous (sc) doses of 0.025, 0.25, and 2.5 mg/kg, (approximately 3/1000, 3/100, and 3/10 times, respectively, the maximum recommended daily oral dose for adults on a mg/m2 basis), showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg.
@@ -116,14 +114,14 @@ During worldwide marketing experience, various congenital anomalies, including c
 Some of the mothers were taking multiple medications during their pregnancies.
 No consistent pattern of defects can be discerned, and a relationship between albuterol use and congenital anomalies has not been established.
 
-## Use in Labor and Delivery
+## Use In Labor And Delivery
 
-Because of the potential for beta-agonist interference with uterine contractility, use of albuterol sulfate tablets for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk.
+Because of the potential for beta-agonist interference with uterine contractility, use of albuterol tablets for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk.
 
 ## Tocolysis
 
 Albuterol has not been approved for the management of preterm labor.
-The benefit: risk ratio when albuterol is administered for tocolysis has not been established.
+The benefit/risk ratio when albuterol is administered for tocolysis has not been established.
 Serious adverse reactions, including maternal pulmonary edema, have been reported during or following treatment of premature labor with beta2-agonists, including albuterol.
 
 ## Nursing Mothers

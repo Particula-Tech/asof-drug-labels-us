@@ -1,5 +1,5 @@
 Rx only
 
-Manufactured by MUTUAL PHARMACEUTICAL CO., INC. Philadelphia, PA 19124 USA
+Manufactured by: MUTUAL PHARMACEUTICAL CO., INC. Philadelphia, PA 19124 USA
 
-April 2000NP
+Rev 01, July 2009

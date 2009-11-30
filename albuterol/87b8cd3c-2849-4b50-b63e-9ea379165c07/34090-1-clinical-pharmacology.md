@@ -13,7 +13,7 @@ Albuterol is longer acting than isoproterenol in most patients by any route of a
 
 ## Preclinical
 
-Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood brain barrier and reaches brain concentrations amounting to approximately 5.0% of the plasma concentrations.
+Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood brain barrier and reaches brain concentrations amounting to approximately 5% of the plasma concentrations.
 In structures outside the brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain.
 
 Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
@@ -21,7 +21,7 @@ The clinical significance of these findings is unknown.
 
 ## Pharmacokinetics
 
-Albuterol is rapidly absorbed after oral administration of 4-mg albuterol sulfate tablets in normal volunteers.
+Albuterol is rapidly absorbed after oral administration of one 4 mg albuterol tablet in normal volunteers.
 Maximum plasma concentrations of about 18 ng/mL of albuterol are achieved within 2 hours, and the drug is eliminated with a half-life of about 5 hours.
 
 In other studies, the analysis of urine samples of patients given 8 mg of tritiated albuterol orally showed that 76% of the dose was excreted over 3 days, with the majority of the dose being excreted within the first 24 hours.
@@ -30,7 +30,7 @@ Feces collected over this period contained 4% of the administered dose.
 
 ## Clinical Trials
 
-In controlled clinical trials in patients with asthma, the onset of improvement in pulmonary function, as measured by maximum midexpiratory flow rate (MMEF), was within 30 minutes after a dose of albuterol sulfate tablets, with peak improvement occurring between 2 and 3 hours.
+In controlled clinical trials in patients with asthma, the onset of improvement in pulmonary function, as measured by maximum midexpiratory flow rate (MMEF), was within 30 minutes after a dose of albuterol tablets, with peak improvement occurring between 2 and 3 hours.
 In controlled clinical trials in which measurements were conducted for 6 hours, clinically significant improvement (defined as maintaining a 15% or more increase in forced expiratory volume in 1 second [FEV1] and a 20% or more increase in MMEF over baseline values) was observed in 60% of patients at 4 hours and in 40% at 6 hours.
 In other single-dose, controlled clinical trials, clinically significant improvement was observed in at least 40% of the patients at 8 hours.
-No decrease in the effectiveness of albuterol sulfate tablets was reported in patients who received long-term treatment with the drug in uncontrolled studies for periods up to 6 months.
+No decrease in the effectiveness of albuterol tablets was reported in patients who received long-term treatment with the drug in uncontrolled studies for periods up to 6 months.
