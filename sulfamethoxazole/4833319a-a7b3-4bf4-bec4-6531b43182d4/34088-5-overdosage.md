@@ -1,8 +1,6 @@
 # OVERDOSAGE
 
-## Acute
-
-The amount of a single dose of sulfamethoxazole and trimethoprim that is either associated with symptoms of overdosage or is likely to be life-threatening has not been reported.
+Acute: The amount of a single dose of sulfamethoxazole and trimethoprim that is either associated with symptoms of overdosage or is likely to be life-threatening has not been reported.
 Signs and symptoms of overdosage reported with sulfonamides include anorexia, colic, nausea, vomiting, dizziness, headache, drowsiness and unconsciousness.
 Pyrexia, hematuria and crystalluria may be noted.
 Blood dyscrasias and jaundice are potential late manifestations of overdosage.
@@ -15,7 +13,5 @@ The patient should be monitored with blood counts and appropriate blood chemistr
 If a significant blood dyscrasia or jaundice occurs, specific therapy should be instituted for these complications.
 Peritoneal dialysis is not effective and hemodialysis is only moderately effective in eliminating sulfamethoxazole and trimethoprim.
 
-## Chronic
-
-Use of sulfamethoxazole and trimethoprim at high doses and/or for extended periods of time may cause bone marrow depression manifested as thrombocytopenia, leukopenia and/or megaloblastic anemia.
+Chronic: Use of sulfamethoxazole and trimethoprim at high doses and/or for extended periods of time may cause bone marrow depression manifested as thrombocytopenia, leukopenia and/or megaloblastic anemia.
 If signs of bone marrow depression occur, the patient should be given leucovorin 5 to 15 mg daily until normal hematopoiesis is restored.
