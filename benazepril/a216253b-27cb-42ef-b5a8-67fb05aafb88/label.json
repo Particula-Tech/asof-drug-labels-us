@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA076820"
+  ],
+  "inn": "benazepril",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-751-03",
+    "65162-751-10",
+    "65162-751-50",
+    "65162-752-03",
+    "65162-752-10",
+    "65162-752-50",
+    "65162-753-03",
+    "65162-753-10",
+    "65162-753-50",
+    "65162-754-03",
+    "65162-754-10",
+    "65162-754-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "benazepril hydrochloride",
+      "name": "Benazepril Hydrochloride"
+    }
+  ],
+  "setid": "a216253b-27cb-42ef-b5a8-67fb05aafb88",
+  "source": "dailymed"
+}
