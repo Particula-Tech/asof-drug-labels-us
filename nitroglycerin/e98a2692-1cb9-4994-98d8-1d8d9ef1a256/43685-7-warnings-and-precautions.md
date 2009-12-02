@@ -37,7 +37,7 @@ Daily headaches sometimes accompany treatment with nitroglycerin.
 In patients who get these headaches, the headaches may be a marker of the activity of the drug.
 Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with nitroglycerin, since loss of headache may be associated with simultaneous loss of antianginal efficacy.
 
-Treatment with nitroglycerin may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
+Treatment with nitroglycerin may be associated with light-headedness on standing, especially just after rising from a recumbent or seated position.
 This effect may be more frequent in patients who have also consumed alcohol.
 
 After normal use, there is enough residual nitroglycerin in discarded patches that they are a potential hazard to children and pets.
@@ -58,17 +58,17 @@ Dose adjustments of either class of agents may be necessary.
 
 Animal carcinogenesis studies with topically applied nitroglycerin have not been performed.
 
-Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
+Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
 At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls, and incidences of testicular tumors were 52% vs. 8% in controls.
 Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
 Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories.
 Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, p.o., or in in vitro cytogenetic tests in rat and dog tissues.
 
-In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for six months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations.
+In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations.
 The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings.
 No specific effect on the fertility of the F0 generation was seen.
-Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males.
+Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high dose males.
 In this three-generation study there was no clear evidence of teratogenicity.
 
 ## Pregnancy Category C
@@ -76,7 +76,7 @@ In this three-generation study there was no clear evidence of teratogenicity.
 Animal teratology studies have not been conducted with nitroglycerin transdermal systems.
 Teratology studies in rats and rabbits; however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively.
 No toxic effects on dams or fetuses were seen at any dose tested.
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and well controlled studies in pregnant women.
 Nitroglycerin should be given to a pregnant woman only if clearly needed.
 
 ## Nursing Mothers

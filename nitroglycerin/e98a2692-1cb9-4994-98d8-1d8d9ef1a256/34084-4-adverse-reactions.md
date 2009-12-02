@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
-Adverse reactions to nitroglycerin are generally dose-related, and almost all of these reactions are the result of nitroglycerin's activity as a vasodilator.
+Adverse reactions to nitroglycerin are generally dose related, and almost all of these reactions are the result of nitroglycerin’s activity as a vasodilator.
 Headache, which may be severe, is the most commonly reported side effect.
 Headache may be recurrent with each daily dose, especially at higher doses.
-Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur.
+Transient episodes of light-headedness, occasionally related to blood pressure changes, may also occur.
 Hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy.
 Syncope, crescendo angina, and rebound hypertension have been reported but are uncommon.
 
@@ -20,6 +20,6 @@ In two placebo-controlled trials of intermittent therapy with nitroglycerin patc
 |  | Placebo | Patch |
 | --- | --- | --- |
 | Headache | 18% | 63% |
-| Lightheadedness | 4% | 6% |
+| Light-headedness | 4% | 6% |
 | Hypotension, and/or syncope | 0% | 4% |
 | Increased angina | 2% | 2% |

@@ -1,14 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074559"
+  ],
   "inn": "nitroglycerin",
-  "labeler": "MYLAN PHARMACEUTICALS INC.",
+  "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
+    "0378-9102-16",
     "0378-9102-93",
+    "0378-9104-16",
     "0378-9104-93",
+    "0378-9112-16",
     "0378-9112-93",
+    "0378-9116-16",
     "0378-9116-93"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "nitroglycerin",
+      "name": "Nitroglycerin"
+    }
+  ],
   "setid": "e98a2692-1cb9-4994-98d8-1d8d9ef1a256",
   "source": "dailymed"
 }

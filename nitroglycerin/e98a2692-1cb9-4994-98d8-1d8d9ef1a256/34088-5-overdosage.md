@@ -2,7 +2,7 @@
 
 ## Hemodynamic Effects
 
-The ill effects of nitroglycerin overdose are generally the result of nitroglycerin's capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension.
+The ill effects of nitroglycerin overdose are generally the result of nitroglycerin’s capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension.
 These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death.
 
 Laboratory determinations of serum levels of nitroglycerin and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of nitroglycerin overdose.
@@ -12,7 +12,7 @@ Similarly, it is not known which, if any, of these substances can usefully be re
 
 No specific antagonist to the vasodilator effects of nitroglycerin is known, and no intervention has been subject to controlled study as a therapy of nitroglycerin overdose.
 Because the hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward an increase in central fluid volume.
-Passive elevation of the patient's legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary.
+Passive elevation of the patient’s legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary.
 
 The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good.
 

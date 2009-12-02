@@ -8,7 +8,7 @@ The relative importance of preload reduction, afterload reduction, and coronary 
 
 Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration.
 This strategy is inappropriate for organic nitrates.
-Several well-controlled clinical trials have used exercise testing to assess the antianginal efficacy of continuously-delivered nitrates.
+Several well controlled clinical trials have used exercise testing to assess the antianginal efficacy of continuously-delivered nitrates.
 In the large majority of these trials, active agents were indistinguishable from placebo after 24 hours (or less) of continuous therapy.
 Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed.
 Only after nitrates had been absent from the body for several hours was their antianginal efficacy restored.
@@ -23,16 +23,16 @@ The dinitrates are less effective vasodilators than nitroglycerin but they are l
 The dinitrates are further metabolized to (nonvasoactive) mononitrates and, ultimately, to glycerol and carbon dioxide.
 
 To avoid development of tolerance to nitroglycerin, drug-free intervals of 10 to 12 hours are known to be sufficient; shorter intervals have not been well studied.
-In one well-controlled clinical trial, subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect, so that their exercise tolerance at the end of the daily drug-free interval was less than that exhibited by the parallel group receiving placebo.
+In one well controlled clinical trial, subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect, so that their exercise tolerance at the end of the daily drug-free interval was less than that exhibited by the parallel group receiving placebo.
 
-In healthy volunteers, steady-state plasma concentrations of nitroglycerin are reached by about two hours after application of a patch and are maintained for the duration of wearing the system (observations have been limited to 24 hours).
+In healthy volunteers, steady-state plasma concentrations of nitroglycerin are reached by about 2 hours after application of a patch and are maintained for the duration of wearing the system (observations have been limited to 24 hours).
 Upon removal of the patch, the plasma concentration declines with a half-life of about an hour.
 
 ## Clinical Trials
 
-Regimens in which nitroglycerin patches were worn for 12 hours daily have been studied in well-controlled trials up to 4 weeks in duration.
+Regimens in which nitroglycerin patches were worn for 12 hours daily have been studied in well controlled trials up to 4 weeks in duration.
 Starting about 2 hours after application and continuing until 10 to 12 hours after application, patches that deliver at least 0.4 mg of nitroglycerin per hour have consistently demonstrated greater antianginal activity than placebo.
-Lower-dose patches have not been as well studied, but in one large, well-controlled trial in which higher-dose patches were also studied, patches delivering 0.2 mg/hr had significantly less antianginal activity than placebo.
+Lower dose patches have not been as well studied, but in one large, well controlled trial in which higher dose patches were also studied, patches delivering 0.2 mg/hr had significantly less antianginal activity than placebo.
 
 It is reasonable to believe that the rate of nitroglycerin absorption from patches may vary with the site of application, but this relationship has not been adequately studied.
 

@@ -8,7 +8,7 @@ The organic nitrates are vasodilators, active on both arteries and veins.
 The nitroglycerin transdermal system is a flat unit designed to provide continuous controlled release of nitroglycerin through intact skin.
 
 The rate of release of nitroglycerin is linearly dependent upon the area of the applied system; each cm2 of applied system delivers approximately 0.026 mg of nitroglycerin per hour.
-Thus, the 4-, 8-, 16- and 24 cm2 systems deliver approximately 0.1, 0.2, 0.4 and 0.6 mg of nitroglycerin per hour, respectively.
+Thus, the 4 cm2, 8 cm2, 16 cm2 and 24 cm2 systems deliver approximately 0.1 mg, 0.2 mg, 0.4 mg and 0.6 mg of nitroglycerin per hour, respectively.
 
 The remainder of the nitroglycerin in each system serves as a reservoir and is not delivered in normal use.
 After 12 hours, for example, each system has delivered approximately 11% of its original content of nitroglycerin.
