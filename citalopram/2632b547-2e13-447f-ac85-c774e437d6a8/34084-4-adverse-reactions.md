@@ -2,7 +2,7 @@
 
 The premarketing development program for citalopram tablets included citalopram exposures in patients and/or normal subjects from 3 different groups of studies: 429 normal subjects in clinical pharmacology/pharmacokinetic studies; 4422 exposures from patients in controlled and uncontrolled clinical trials, corresponding to approximately 1370 patient-exposure years.
 There were, in addition, over 19,000 exposures from mostly open-label, European postmarketing studies.
-The conditions and duration of treatment with citalopram tablets varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed-dose and dose-titration studies, and short-termand long-term exposure.
+The conditions and duration of treatment with citalopram tablets varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed-dose and dose-titration studies, and short-term and long-term exposure.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
@@ -20,9 +20,9 @@ It should be noted that one patient can report more than one reason for disconti
 
 TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials
 
-| Body System/Adverse Event | Citalopram (N=1063) | Placebo (N=446) |
+| Citalopram (N=1063) | Placebo (N=446) |  |
 | --- | --- | --- |
-| Percentage of Patients Discontinuing Due to Adverse Event |  |  |
+| Body System/Adverse Event | Percentage of Patients Discontinuing Due to Adverse Event |  |
 | General |  |  |
 | Asthenia | 1% | <1% |
 | Gastrointestinal Disorders |  |  |
@@ -47,9 +47,9 @@ The only commonly observed adverse event that occurred in citalopram patients wi
 
 TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clinical Trials*
 
-| Body System/Adverse Event | Citalopram Tablets (N=1063) | Placebo (N=446) |
+| Citalopram Tablets (N=1063) | Placebo (N=446) |  |
 | --- | --- | --- |
-| (Percentage of Patients Reporting Event) |  |  |
+| Body System/Adverse Event | (Percentage of Patients Reporting Event) |  |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
@@ -83,12 +83,7 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | Urogenital |  |  |
 | Ejaculation Disorder2,3 | 6% | 1% |
 | Impotence3 | 3% | <1% |
-
-*Events reported by at least 2% of patients treated with citalopram tablets are reported, except for the following events which had an incidence on placebo ≥ citalopram tablets: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
-
-1 Denominator used was for females only (N=638 citalopram tablets; N=252 placebo).
-2 Primarily ejaculatory delay.
-3 Denominator used was for males only (N=425 citalopram tablets; N=194 placebo).
+| * Events reported by at least 2% of patients treated with citalopram tablets are reported, except for the following events which had an incidence on placebo ≥ citalopram tablets: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. 1 Denominator used was for females only (N=638 citalopram tablets; N=252 placebo). 2 Primarily ejaculatory delay. 3 Denominator used was for males only (N=425 citalopram tablets; N=194 placebo). |  |  |
 
 ### Dose Dependency of Adverse Events
 
@@ -97,16 +92,16 @@ Jonckheere’s trend test revealed a positive dose response (p<0.05) for the fol
 
 ### Male and Female Sexual Dysfunction with SSRIs
 
-Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
+Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
-Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
+Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
 The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram tablets in a pool of placebo-controlled clinical trials in patients with depression.
 
 | Treatment | Citalopram Tablets (425 males) | Placebo (194 males) |
 | --- | --- | --- |
 | Abnormal Ejaculation (mostly ejaculatory delay) | 6.1% (males only) | 1% (males only) |
-| Decreased Libido | 3.8% (males only) | <1% (males only) |
+| Libido Decreased | 3.8% (males only) | <1% (males only) |
 | Impotence | 2.8% (males only) | <1% (males only) |
 
 In female depressed patients receiving citalopram tablets, the reported incidence of decreased libido and anorgasmia was 1.3% (n=638 females) and 1.1% (n=252 females), respectively.
@@ -131,7 +126,7 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ### ECG Changes
 
-Electrocardiograms from citalopram tablets (N=802) and placebo (N=241) groups were compared with respect to (1) mean change from baseline in various ECG parameters and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
+Electrocardiograms from citalopram tablets (N=802) and placebo (N=241) groups were compared with respect to (1) mean change from baseline in various ECG parameters, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 The only statistically significant drug-placebo difference observed was a decrease in heart rate for citalopram tablets of 1.7 bpm compared to no change in heart rate for placebo.
 There were no observed differences in QT or other ECG intervals.
 

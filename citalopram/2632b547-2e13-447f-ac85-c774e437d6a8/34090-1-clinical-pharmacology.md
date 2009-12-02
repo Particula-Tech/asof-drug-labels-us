@@ -20,7 +20,7 @@ At steady state, the extent of accumulation of citalopram in plasma, based on th
 
 Following a single oral dose (40 mg tablet) of citalopram, peak blood levels occur at about 4 hours.
 The absolute bioavailability of citalopram was about 80% relative to an intravenous dose, and absorption is not affected by food.
-The volume of distribution of citalopram is about 12 L/kgand the binding of citalopram (CT), demethylcitalopram (DCT) and didemethylcitalopram (DDCT) to human plasma proteins is about 80%.
+The volume of distribution of citalopram is about 12 L/kg and the binding of citalopram (CT), demethylcitalopram (DCT) and didemethylcitalopram (DDCT) to human plasma proteins is about 80%.
 
 ### Metabolism and Elimination
 
