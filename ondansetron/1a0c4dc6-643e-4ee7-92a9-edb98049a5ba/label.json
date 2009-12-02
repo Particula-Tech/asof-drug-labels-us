@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076960"
+  ],
   "inn": "ondansetron",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-0064-47"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ondansetron hydrochloride",
+      "name": "Ondansetron Hydrochloride"
+    }
+  ],
   "setid": "1a0c4dc6-643e-4ee7-92a9-edb98049a5ba",
   "source": "dailymed"
 }
