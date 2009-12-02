@@ -1,0 +1,7 @@
+# Directions
+
+| adults and children 6 years and over | one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. |
+| --- | --- |
+| adults 65 years and over | ask a doctor |
+| children under 6 years of age | ask a doctor |
+| consumers with liver or kidney disease | ask a doctor |

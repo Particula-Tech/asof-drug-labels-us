@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA019835"
+  ],
+  "inn": "cetirizine",
+  "labeler": "McNeil Consumer Healthcare Div McNeil-PPC, Inc",
+  "package_ndcs": [
+    "50580-729-01",
+    "50580-729-02",
+    "50580-729-03",
+    "50580-729-05",
+    "50580-729-13",
+    "50580-729-14",
+    "50580-729-30",
+    "50580-729-45",
+    "50580-729-50",
+    "50580-729-51",
+    "50580-729-70",
+    "50580-729-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cetirizine hydrochloride",
+      "name": "ZYRTEC"
+    }
+  ],
+  "setid": "573d0a6d-5228-475b-b645-f797a2f9e0a8",
+  "source": "dailymed"
+}
