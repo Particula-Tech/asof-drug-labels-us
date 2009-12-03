@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076008"
+  ],
   "inn": "buspirone",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -13,7 +15,13 @@
     "0378-1175-80",
     "0378-1175-91"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buspirone hydrochloride",
+      "name": "Buspirone Hydrochloride"
+    }
+  ],
   "setid": "7c9eafb9-9ce1-4b28-900c-8fcb4b23424e",
   "source": "dailymed"
 }
