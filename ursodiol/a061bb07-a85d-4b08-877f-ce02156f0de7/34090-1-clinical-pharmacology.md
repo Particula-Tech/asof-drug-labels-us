@@ -38,9 +38,7 @@ After ursodiol dosing is stopped, the concentration of the bile acid in bile fal
 
 ## Clinical Results
 
-Gallstone Dissolution
-
-On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6-78 months with ursodiol doses ranging from about 5-20 mg/kg/day, an ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
+Gallstone Dissolution On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6-78 months with ursodiol doses ranging from about 5-20 mg/kg/day, an ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
 With an ursodiol dose of about 10 mg/kg/day, complete stone dissolution can be anticipated in about 30% of unselected patients with uncalcified gallstones < 20 mm in maximal diameter treated for up to 2 years.
 Patients with calcified gallstones prior to treatment, or patients who develop stone calcification or gallbladder nonvisualization on treatment, and patients with stones > 20 mm in maximal diameter rarely dissolve their stones.
 The chance of gallstone dissolution is increased up to 50% in patients with floating or floatable stones (i.e., those with high cholesterol content), and is inversely related to stone size for those < 20 mm in maximal diameter.
@@ -58,9 +56,7 @@ Stone recurrence has been observed in up to 50% of patients within 5 years of co
 Serial ultrasonographic examinations should be obtained to monitor for recurrence of stones, bearing in mind that radiolucency of the stones should be established before another course of ursodiol is instituted.
 A prophylactic dose of ursodiol has not been established.
 
-Gallstone Prevention
-
-Two placebo-controlled, multicenter, double-blind, randomized, parallel group trials in a total of 1,316 obese patients were undertaken to evaluate ursodiol in the prevention of gallstone formation in obese patients undergoing rapid weight loss.
+Gallstone Prevention Two placebo-controlled, multicenter, double-blind, randomized, parallel group trials in a total of 1,316 obese patients were undertaken to evaluate ursodiol in the prevention of gallstone formation in obese patients undergoing rapid weight loss.
 The first trial consisted of 1,004 obese patients with a body mass index (BMI) ≥ 38 who underwent weight loss induced by means of a very low calorie diet for a period of 16 weeks.
 An intent-to-treat analysis of this trial showed that gallstone formation occurred in 23% of the placebo group, while those patients on 300, 600, or 1200 mg/day of ursodiol experienced a 6%, 3%, and 2% incidence of gallstone formation, respectively.
 The mean weight loss for this 16-week trial was 47 lb for the placebo group, and 47, 48, and 50 lb for the 300, 600, and 1200 mg/day ursodiol groups, respectively.
@@ -69,40 +65,3 @@ The second trial consisted of 312 obese patients (BMI ≥ 40) who underwent rapi
 The trial drug treatment period was for 6 months following this surgery.
 Results of this trial showed that gallstone formation occurred in 23% of the placebo group, while those patients on 300, 600, or 1200 mg/day of ursodiol experienced a 9%, 1%, and 5% incidence of gallstone formation, respectively.
 The mean weight loss for this 6-month trial was 64 lb for the placebo group, and 67, 74, and 72 lb for the 300, 600, and 1200 mg/day ursodiol groups, respectively.
-
-ALTERNATIVE THERAPIES
-
-## Watchful Waiting
-
-Watchful waiting has the advantage that no therapy may ever be required.
-For patients with silent or minimally symptomatic stones, the rate of development of moderate-to-severe symptoms or gallstone complications is estimated to be between 2% and 6% per year, leading to a cumulative rate of 7%-27% in 5 years.
-Presumably the rate is higher for patients already having symptoms.
-
-## Cholecystectomy
-
-For patients with symptomatic gallstones, surgery offers the advantage of immediate and permanent stone removal, but carries a high risk in some patients.
-About 5% of cholecystectomized patients have residual symptoms or retained common duct stones.
-The spectrum of surgical risk varies as a function of age and the presence of disease other than cholelithiasis.
-
-Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 1966; 197:775-8) 27,600 Cholecystectomies (Smoothed Rates) Deaths/1,000 Operations***
-
-|  |  |  | Exploration |
-| --- | --- | --- | --- |
-| Low Risk Patients* | Age (Yrs) | Cholecystectomy | Cholecystectomy |
-|  |  |  | + Common Duct |
-| Women | 0-49 | .54 | 2.13 |
-|  | 50-69 | 2.80 | 10.10 |
-| Men | 0-49 | 1.04 | 4.12 |
-|  | 50-69 | 5.41 | 19.23 |
-| High Risk Patients** |  |  |  |
-| Women | 0-49 | 12.66 | 47.62 |
-|  | 50-69 | 17.24 | 58.82 |
-| Men | 0-49 | 24.39 | 90.91 |
-|  | 50-69 | 33.33 | 111.11 |
-| * In good health or with moderate systemic disease. |  |  |  |
-| ** With severe or extreme systemic disease. |  |  |  |
-| *** Includes both elective and emergency surgery. |  |  |  |
-
-Women in good health or who have only moderate systemic disease and are under 49 years of age have the lowest surgical mortality rate (0.054); men in all categories have a surgical mortality rate twice that of women.
-Common duct exploration quadruples the rates in all categories.
-The rates rise with each decade of life and increase tenfold or more in all categories with severe or extreme systemic disease.
