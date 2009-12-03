@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019865"
+  ],
   "inn": "sotalol",
   "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "50419-106-10",
     "50419-109-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "Betapace"
+    }
+  ],
   "setid": "c4caf469-f684-4f6d-98e8-b6a2fff1de98",
   "source": "dailymed"
 }
