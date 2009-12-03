@@ -7,7 +7,7 @@ These doses are about 2.6 and 5.4 times the recommended human dose of granulated
 Mesalamine was negative in the Ames test, the mouse lymphoma cell (L5178Y/TK+/-) forward mutation test, the sister chromatid exchange assay in the Chinese hamster bone marrow test, and the mouse bone marrow micronucleus test.
 Mesalamine at oral doses up to 320 mg/kg (about 1.7 times the recommended human dose based on body surface area) was found to have no effect on fertility or reproductive performance in rats.
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.3 Animal Toxicology and/or Pharmacology
 
 Renal Toxicity
 

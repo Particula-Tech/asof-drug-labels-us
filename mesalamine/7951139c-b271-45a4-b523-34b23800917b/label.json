@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022301"
+  ],
   "inn": "mesalamine",
-  "labeler": "Salix Pharmaceuticals, Inc.",
+  "labeler": "Salix Pharmaceuticals, Inc",
   "package_ndcs": [
     "65649-103-01",
     "65649-103-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "mesalamine",
+      "name": "APRISO"
+    }
+  ],
   "setid": "7951139c-b271-45a4-b523-34b23800917b",
   "source": "dailymed"
 }

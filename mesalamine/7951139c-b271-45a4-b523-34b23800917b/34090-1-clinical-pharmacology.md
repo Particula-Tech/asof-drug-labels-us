@@ -25,7 +25,7 @@ Table 2: Single Dose and Multiple Dose Mean (±SD) Plasma Pharmacokinetic Parame
 | AUC0-24 (μg*h/mL) | 11 ± 5 | 17 ± 6 |
 | AUC0-inf (μg*h/mL) | 14 ± 5 | - |
 | Cmax (μg/mL) | 2.1 ± 1.1 | 2.7 ± 1.1 |
-| Tmax (h) a | 4 (2, 16) | 4 (2, 8) |
+| Tmax (h)a | 4 (2, 16) | 4 (2, 8) |
 | t½ (h)b | 9 ± 7 | 10 ± 8 |
 | N-Ac-5-ASA |  |  |
 | AUC0-24 (μg*h/mL) | 26 ± 6 | 37 ± 9 |

@@ -9,8 +9,12 @@
 - Instruct patients not to take APRISO capsules with antacids, because it could affect the way APRISO dissolves.
 - Instruct patients to contact a health care provider if they experience a worsening of ulcerative colitis symptoms, because it could be due to a reaction to APRISO.
 
-Manufactured by Catalent Pharma Solutions for Salix Pharmaceuticals, Inc., Morrisville, NC 27560 * APRISOTM is a trademark of Salix Pharmaceuticals, Inc. © 2008 Salix Pharmaceuticals, Inc.
+Manufactured by Catalent Pharma Solutions for Salix Pharmaceuticals, Inc., Morrisville, NC 27560
 
-Product protected by U.S. Patent No. 6,551,620
+* APRISOTM is a trademark of Salix Pharmaceuticals, Inc.
 
-VENART-113-0
+© 2008 Salix Pharmaceuticals, Inc.
+
+Product protected by U.S. Patent No. 6,551,620 and U.S. Patent No. 7,547,451
+
+VENART-113-1
