@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA078556"
+  ],
+  "inn": "digoxin",
+  "labeler": "Global Pharmaceuticals, Division of Impax Laboratories Inc.",
+  "package_ndcs": [
+    "0115-9811-01",
+    "0115-9811-02",
+    "0115-9811-03",
+    "0115-9822-01",
+    "0115-9822-02",
+    "0115-9822-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "digoxin",
+      "name": "Digoxin"
+    }
+  ],
+  "setid": "dfac7f13-28be-423d-9389-9089da29da17",
+  "source": "dailymed"
+}
