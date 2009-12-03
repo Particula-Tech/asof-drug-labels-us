@@ -1,13 +1,13 @@
 # INDICATIONS AND USAGE
 
-## Herpes Zoster Infections
+## Herpes Zoster Infections:
 
 ZOVIRAX is indicated for the acute treatment of herpes zoster (shingles).
 
-## Genital Herpes
+## Genital Herpes:
 
 ZOVIRAX is indicated for the treatment of initial episodes and the management of recurrent episodes of genital herpes.
 
-## Chickenpox
+## Chickenpox:
 
 ZOVIRAX is indicated for the treatment of chickenpox (varicella).
