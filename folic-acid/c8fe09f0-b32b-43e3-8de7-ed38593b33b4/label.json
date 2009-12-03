@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040765"
+  ],
+  "inn": "folic-acid",
+  "labeler": "Amneal Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "65162-361-01",
+    "65162-361-10",
+    "65162-361-11",
+    "65162-361-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "folic acid",
+      "name": "Folic Acid"
+    }
+  ],
+  "setid": "c8fe09f0-b32b-43e3-8de7-ed38593b33b4",
+  "source": "dailymed"
+}
