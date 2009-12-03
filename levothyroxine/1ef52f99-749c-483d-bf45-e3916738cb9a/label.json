@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA021402"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Caremark LLC",
+  "package_ndcs": [
+    "0339-6348-11",
+    "0339-6349-11",
+    "0339-6350-11",
+    "0339-6351-11",
+    "0339-6352-11",
+    "0339-6353-11",
+    "0339-6354-11",
+    "0339-6355-11",
+    "0339-6356-11",
+    "0339-6357-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levothyroxine sodium tablets",
+      "name": "SYNTHROID"
+    }
+  ],
+  "setid": "1ef52f99-749c-483d-bf45-e3916738cb9a",
+  "source": "dailymed"
+}
