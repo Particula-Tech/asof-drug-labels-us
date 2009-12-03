@@ -2,7 +2,7 @@
 
 ## Controlled Substance Class
 
-Mirtazapine Tablets are not a controlled substance.
+Mirtazapine tablets are not a controlled substance.
 
 ## Physical and Psychological Dependence
 

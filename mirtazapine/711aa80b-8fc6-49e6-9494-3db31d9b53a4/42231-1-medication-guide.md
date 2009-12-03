@@ -1,8 +1,8 @@
-## Medication Guide
+# Medication Guide
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Read the Medication Guide that comes with you or your family member's antidepressant medicine.
+Read the Medication Guide that comes with your or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your, or your family member's, healthcare provider about:
 
@@ -14,7 +14,7 @@ What is the most important information I should know about antidepressant medici
 1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness also called manic-depressive illness) or suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
    - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
      This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -25,8 +25,18 @@ What is the most important information I should know about antidepressant medici
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attackstrouble sleeping (insomnia) | new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or mood |
-| --- | --- |
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling very agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
@@ -44,6 +54,9 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child's healthcare provider for more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Revised 8/2007
+Revised 1/2008

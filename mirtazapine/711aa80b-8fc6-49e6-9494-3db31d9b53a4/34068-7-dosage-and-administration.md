@@ -2,7 +2,7 @@
 
 ## Initial Treatment
 
-The recommended starting dose for Mirtazapine Tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
+The recommended starting dose for mirtazapine tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
 In the controlled clinical trials establishing the efficacy of mirtazapine in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
 While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine has not been adequately explored, patients not responding to the initial 15 mg dose may benefit from dose increases up to a maximum of 45 mg/day.
 

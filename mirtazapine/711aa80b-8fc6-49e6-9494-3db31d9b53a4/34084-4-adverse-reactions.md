@@ -2,14 +2,14 @@
 
 ## Associated with Discontinuation of Treatment
 
-Approximately 16 percent of the 453 patients who received mirtazapine tablets in U.S. 6 week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of 361 placebo-treated patients in those studies.
+Approximately 16 percent of the 453 patients who received mirtazapine tablets in U.S. 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of 361 placebo-treated patients in those studies.
 The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
 
-Common Adverse Events Associated with Discontinuation of Treatment in 6 Week U.S. Mirtazapine Trials
+Common Adverse Events Associated with Discontinuation of Treatment in 6-Week U.S. Mirtazapine Trials
 
-| Adverse Event | Mirtazapine (n = 453) | Placebo (n = 361) |
+| Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
 | --- | --- | --- |
-|  | Percentage of Patients Discontinuing with Adverse Event |  |
+|  | Mirtazapine (n = 453) | Placebo (n = 361) |
 | Somnolence | 10.4% | 2.2% |
 | Nausea | 1.5% | 0% |
 
@@ -17,11 +17,11 @@ Common Adverse Events Associated with Discontinuation of Treatment in 6 Week U.S
 
 The most commonly observed adverse events associated with the use of mirtazapine (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine incidence at least twice that for placebo) were:
 
-Common Treatment Emergent Adverse Events Associated with the Use of Mirtazapine in 6 Week U.S. Trials
+Common Treatment Emergent Adverse Events Associated with the Use of Mirtazapine in 6-Week U.S. Trials
 
-| Adverse Event | Mirtazapine (n = 453) | Placebo (n = 361) |
+| Adverse Event | Percentage of Patients Reporting Adverse Event |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Adverse Event |  |
+| Mirtazapine (n = 453) | Placebo (n = 361) |  |
 | Somnolence | 54% | 18% |
 | Increased Appetite | 17% | 2% |
 | Weight Gain | 12% | 2% |
@@ -40,9 +40,8 @@ The cited figures, however, do provide the prescribing physician with some basis
 INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patients treated with mirtazapine are included, except the following events which had an incidence on placebo ≥ mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
 (≥ 1%) IN SHORT-TERM U.S. CONTROLLED STUDIES)
 
-| Adverse Clinical Experience | Mirtazapine (n = 453) | Placebo (n = 361) |
+| Body System Adverse Clinical Experience | Mirtazapine (n = 453) | Placebo (n = 361) |
 | --- | --- | --- |
-| Body System |  |  |
 | Body as a Whole |  |  |
 | Asthenia | 8% | 5% |
 | Flu Syndrome | 5% | 3% |
@@ -71,7 +70,7 @@ INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patie
 
 ## ECG Changes
 
-The electrocardiograms for 338 patients who received mirtazapine and 261 patients who received placebo in 6 week, placebo-controlled trials were analyzed.
+The electrocardiograms for 338 patients who received mirtazapine and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
 Prolongation in QTc ≥ 500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
 Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
 The clinical significance of these changes is unknown.

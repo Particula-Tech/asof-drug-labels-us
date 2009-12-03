@@ -1,17 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076122"
+  ],
   "inn": "mirtazapine",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
-    "  0378-3545-93",
-    " 0378-3515-01",
-    " 0378-3530-01",
-    " 0378-3530-93",
-    " 0378-3545-01",
-    " 0378-3545-05",
-    "0378-3515-93"
+    "0378-3515-01",
+    "0378-3515-10",
+    "0378-3515-93",
+    "0378-3530-01",
+    "0378-3530-05",
+    "0378-3530-93",
+    "0378-3545-01",
+    "0378-3545-05",
+    "0378-3545-93"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "mirtazapine",
+      "name": "Mirtazapine"
+    }
+  ],
   "setid": "711aa80b-8fc6-49e6-9494-3db31d9b53a4",
   "source": "dailymed"
 }

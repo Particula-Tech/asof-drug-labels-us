@@ -85,7 +85,7 @@ It is unclear whether or not tolerance develops to the dizziness observed in ass
 In U.S. controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo and 6% for amitriptyline.
 In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
 In a pool of premarketing U.S. studies, including many patients for long-term, open label treatment, 8% of patients receiving mirtazapine discontinued for weight gain.
-In an 8 week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
+In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
 
 ### Cholesterol/Triglycerides
 
@@ -126,7 +126,7 @@ Caution is indicated in administering mirtazapine to such patients (see CLINICAL
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with mirtazapine and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for mirtazapine.
+A patient Medication Guide about "Antidepressant MeIncidencedicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for mirtazapine.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -249,7 +249,7 @@ Safety and effectiveness in the pediatric population have not been established (
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of mirtazapine in a child or adolescent must balance the potential risks with the clinical need.
 
-In an 8 week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
+In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
 The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
 
 ## Geriatric Use

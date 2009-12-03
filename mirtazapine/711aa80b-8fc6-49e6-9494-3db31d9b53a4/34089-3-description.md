@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Mirtazapine Tablets, USP are an orally administered drug.
+Mirtazapine tablets, USP are an orally administered drug.
 Mirtazapine has a tetracyclic chemical structure and belongs to the piperazino-azepine group of compounds.
 It is designated 1,2,3,4,10,14b-hexahydro-2-methyl-pyrazino [2,1-a] pyrido [2,3-c] benzazepine and has the molecular formula of C17H19N3.
 Its molecular weight is 265.36.
