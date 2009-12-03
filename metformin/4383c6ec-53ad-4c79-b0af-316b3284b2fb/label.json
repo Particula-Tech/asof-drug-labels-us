@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021748"
+  ],
+  "inn": "metformin",
+  "labeler": "Depomed, Inc.",
+  "package_ndcs": [
+    "13913-002-13",
+    "13913-003-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "GLUMETZA"
+    }
+  ],
+  "setid": "4383c6ec-53ad-4c79-b0af-316b3284b2fb",
+  "source": "dailymed"
+}
