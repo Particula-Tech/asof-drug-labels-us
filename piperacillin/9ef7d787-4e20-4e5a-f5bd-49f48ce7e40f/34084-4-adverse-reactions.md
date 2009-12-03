@@ -32,15 +32,15 @@ Hypersensitivity—anaphylaxis
 
 Metabolic and Nutritional—symptomatic hypoglycemia, thirst
 
-Musculoskeletal —myalgia, arthralgia
+Musculoskeletal—myalgia, arthralgia
 
 Platelets, Bleeding, Clotting—mesenteric embolism, purpura, epistaxis, pulmonary embolism (See PRECAUTIONS, General.)
 
-Psychiatric —confusion, hallucination, depression
+Psychiatric—confusion, hallucination, depression
 
 Reproductive, Female—leukorrhea, vaginitis
 
-Respiratory —pharyngitis, pulmonary edema, bronchospasm, coughing
+Respiratory—pharyngitis, pulmonary edema, bronchospasm, coughing
 
 Skin and Appendages—genital pruritus, diaphoresis
 
@@ -48,7 +48,7 @@ Special senses—taste perversion
 
 Urinary—retention, dysuria, oliguria, hematuria, incontinence
 
-Vision —photophobia
+Vision—photophobia
 
 Vascular (extracardiac)—flushing
 
@@ -58,7 +58,7 @@ In a completed study of nosocomial lower respiratory tract infections, 222 patie
 In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin/tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
 Twenty-five (11.0%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
 
-In this study of ZOSYN in combination with an aminoglycoside, adverse events that occurred in more than 1% of patients and were considered by the investigator to be drug-related were: diarrhea (17.6%), fever (2.7%), vomiting (2.7%), urinary tract infection (2.7%), rash (2.3%), abdominal pain (1.8%), generalized edema (1.8%), moniliasis (1.8%), nausea (1.8%), oral moniliasis (1.8%), BUN increased (1.8%), creatinine increased (1.8%), peripheral edema (1.8%), abdomen enlarged (1.4%), headache(1.4%), constipation (1.4%), liver function tests abnormal (1.4%), thrombocythemia (1.4%), excoriations (1.4%), and sweating (1.4%).
+In this study of ZOSYN in combination with an aminoglycoside, adverse events that occurred in more than 1% of patients and were considered by the investigator to be drug-related were: diarrhea (17.6%), fever (2.7%), vomiting (2.7%), urinary tract infection (2.7%), rash (2.3%), abdominal pain (1.8%), generalized edema (1.8%), moniliasis (1.8%), nausea (1.8%), oral moniliasis (1.8%), BUN increased (1.8%), creatinine increased (1.8%), peripheral edema (1.8%), abdomen enlarged (1.4%), headache (1.4%), constipation (1.4%), liver function tests abnormal (1.4%), thrombocythemia (1.4%), excoriations (1.4%), and sweating (1.4%).
 
 Drug-related adverse events reported in 1% or less of patients in the nosocomial pneumonia study of ZOSYN with an aminoglycoside were: acidosis, acute kidney failure, agitation, alkaline phosphatase increased, anemia, asthenia, atrial fibrillation, chest pain, CNS depression, colitis, confusion, convulsion, cough increased, thrombocytopenia, dehydration, depression, diplopia, drug level decreased, dry mouth, dyspepsia, dysphagia, dyspnea, dysuria, eosinophilia, fungal dermatitis, gastritis, glossitis, grand mal convulsion, hematuria, hyperglycemia, hypernatremia, hypertension, hypertonia, hyperventilation, hypochromic anemia, hypoglycemia, hypokalemia, hyponatremia, hypophosphatemia, hypoxia, ileus, injection site edema, injection site pain, injection site reaction, kidney function abnormal, leukocytosis, leukopenia, local reaction to procedure, melena, pain, prothrombin decreased, pruritus, respiratory disorder, SGOT increased, SGPT increased, sinus bradycardia, somnolence, stomatitis, stupor, tremor, tachycardia, ventricular extrasystoles, and ventricular tachycardia.
 
@@ -101,22 +101,22 @@ Post-marketing experience with Zosyn in pediatric patients suggests a similar sa
 
 Of the studies reported, including that of nosocomial lower respiratory tract infections in which a higher dose of ZOSYN was used in combination with an aminoglycoside, changes in laboratory parameters, without regard to drug relationship, include:
 
-Hematologic —decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
+Hematologic—decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
 The leukopenia/neutropenia associated with ZOSYN administration appears to be reversible and most frequently associated with prolonged administration, ie, ≥ 21 days of therapy.
 These patients were withdrawn from therapy; some had accompanying systemic symptoms (eg, fever, rigors, chills).
 
-Coagulation —positive direct Coombs' test, prolonged prothrombin time, prolonged partial thromboplastin time
+Coagulation—positive direct Coombs' test, prolonged prothrombin time, prolonged partial thromboplastin time
 
-Hepatic —transient elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, bilirubin
+Hepatic—transient elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, bilirubin
 
 Renal—increases in serum creatinine, blood urea nitrogen
 
-Urinalysis —proteinuria, hematuria, pyuria
+Urinalysis—proteinuria, hematuria, pyuria
 
 Additional laboratory events include abnormalities in electrolytes (ie, increases and decreases in sodium, potassium and calcium), hyperglycemia, decreases in total protein or albumin, blood glucose decreased, gamma-glutamyltransferase increased, hypokalemia, and bleeding time prolonged.
 
 The following adverse reaction has also been reported for PIPRACIL® (piperacillin for injection):
 
-Skeletal —prolonged muscle relaxation (See PRECAUTIONS, Drug Interactions.)
+Skeletal—prolonged muscle relaxation (See PRECAUTIONS, Drug Interactions.)
 
 Piperacillin therapy has been associated with an increased incidence of fever and rash in cystic fibrosis patients.

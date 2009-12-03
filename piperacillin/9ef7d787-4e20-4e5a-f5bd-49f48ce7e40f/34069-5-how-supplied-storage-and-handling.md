@@ -19,7 +19,7 @@ Store at or below -20°C (-4°F).
 
 ## Also Available
 
-ZOSYN (piperacillin and tazobactam for injection) is also supplied as follows:
+ZOSYN (piperacillin and tazobactam for injection, USP) is also supplied as follows:
 
 2.25 g single-dose vial containing piperacillin sodium equivalent to 2 g of piperacillin and tazobactam sodium equivalent to 0.25 g of tazobactam.
 Each vial contains 5.58 mEq (128 mg) of sodium.
@@ -33,26 +33,12 @@ Supplied 10/box—NDC 0206-8854-16
 Each vial contains 11.17 mEq (256 mg) of sodium.
 Supplied 10/box—NDC 0206-8855-16
 
-ZOSYN (piperacillin and tazobactam for injection) is also supplied in the ADD-Vantage® Vial as follows:
-
-2.25 g ADD-Vantage® vial (piperacillin sodium equivalent to 2 g piperacillin and tazobactam sodium equivalent to 0.25 g of tazobactam).
-Each ADD-Vantage® vial contains 5.58 mEq (128 mg) of sodium.
-Supplied 10/box—NDC 0206-8852-18
-
-3.375 g ADD-Vantage® vial (piperacillin sodium equivalent to 3 g piperacillin and tazobactam sodium equivalent to 0.375 g of tazobactam).
-Each ADD-Vantage® vial contains 8.38 mEq (192 mg) of sodium.
-Supplied 10/box—NDC 0206-8854-18
-
-4.5 g ADD-Vantage® vial (piperacillin sodium equivalent to 4 g piperacillin and tazobactam sodium equivalent to 0.5 g of tazobactam).
-Each ADD-Vantage® vial contains 11.17 mEq (256 mg) of sodium.
-Supplied 10/box—NDC 0206-8855-18
-
 ## Also Available
 
-ZOSYN (piperacillin and tazobactam for injection) is also supplied as a powder in the pharmacy bulk vial as follows:
+ZOSYN (piperacillin and tazobactam for injection, USP) is also supplied as a powder in the pharmacy bulk vial as follows:
 
 40.5 g pharmacy-bulk vial containing piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 grams of tazobactam.
 Each pharmacy-bulk vial contains 100.4 mEq (2,304 mg) of sodium.
 NDC 0206-8859-10
 
-ZOSYN (piperacillin and tazobactam for injection) vials should be stored at controlled room temperature 20°C to 25°C (68°F to 77°F) prior to reconstitution.
+ZOSYN (piperacillin and tazobactam for injection, USP) vials should be stored at controlled room temperature 20°C to 25°C (68°F to 77°F) prior to reconstitution.

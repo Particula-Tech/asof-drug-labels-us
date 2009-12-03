@@ -41,20 +41,20 @@ However, this difference does not warrant dosage adjustment of ZOSYN due to hepa
 
 TABLE 2 STEADY STATE MEAN PLASMA CONCENTRATIONS IN ADULTS AFTER 30-MINUTE INTRAVENOUS INFUSION OF PIPERACILLIN/TAZOBACTAM EVERY 6 HOURS
 
-| Piperacillin/ Tazobactam Dosea | No. of Evaluable Subjects | 30 min | 1 hr | 2 hr | 3 hr | 4 hr | 6 hr | AUC0-6 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PIPERACILLIN |  |  |  |  |  |  |  |  |
-|  |  | Plasma Concentrations** (μg/mL) |  |  |  |  |  | AUC** (μg•hr/mL) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Plasma Concentrations** (µg/mL) |  |  |  |  |  | AUC** (μg•hr/mL) |
+| Piperacillin/ Tazobactam Dosea | No. of Evaluable Subjects | 30 min | 1 hr | 2 hr | 3 hr | 4 hr | 6 hr | AUC0-6 |
 | 2.25 g | 8 | 134 (14) | 57 (14) | 17.1 (23) | 5.2 (32) | 2.5 (35) | 0.9 (14)b | 131 (14) |
 | 3.375 g | 6 | 242 (12) | 106 (8) | 34.6 (20) | 11.5 (19) | 5.1 (22) | 1.0 (10) | 242 (10) |
 | 4.5 g | 8 | 298 (14) | 141 (19) | 46.6 (28) | 16.4 (29) | 6.9 (29) | 1.4 (30) | 322 (16) |
 | TAZOBACTAM |  |  |  |  |  |  |  |  |
-|  |  | Plasma Concentrations** (μg/mL) |  |  |  |  |  | AUC** (μg•hr/mL) |
+|  |  | Plasma Concentrations** (µg/mL) |  |  |  |  |  | AUC** (μg•hr/mL) |
 | Piperacillin/ Tazobactam Dosea | No. of Evaluable Subjects | 30 min | 1 hr | 2 hr | 3 hr | 4 hr | 6 hr | AUC0-6 |
 | 2.25 g | 8 | 14.8 (14) | 7.2 (22) | 2.6 (30) | 1.1 (35) | 0.7 (6)c | <0.5 | 16.0 (21) |
 | 3.375 g | 6 | 24.2 (14) | 10.7 (7) | 4.0 (18) | 1.4 (21) | 0.7 (16)b | <0.5 | 25.0 (8) |
 | 4.5 g | 8 | 33.8 (15) | 17.3 (16) | 6.8 (24) | 2.8 (25) | 1.3 (30) | <0.5 | 39.8 (15) |
-| ** Numbers in parentheses are coefficients of variation (CV%). a: Piperacillin and tazobactam were given in combination. b: N = 4 c: N = 3 |  |  |  |  |  |  |  |  |
+| ** Numbers in parentheses are coefficients of variation (CV%).a: Piperacillin and tazobactam were given in combination. b: N = 4 c: N = 3 |  |  |  |  |  |  |  |  |
 
 ## Pediatrics
 
@@ -83,7 +83,15 @@ Staphylococcus aureus (excluding methicillin and oxacillin-resistant isolates)
 
 ### Aerobic and facultative Gram-negative microorganisms:
 
-Acinetobacter baumanii Escherichia coli Haemophilus influenzae (excluding β-lactamase negative, ampicillin-resistant isolates) Klebsiella pneumoniae Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible)
+Acinetobacter baumanii
+
+Escherichia coli
+
+Haemophilus influenzae (excluding β-lactamase negative, ampicillin-resistant isolates)
+
+Klebsiella pneumoniae
+
+Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible)
 
 ### Gram-negative anaerobes:
 
@@ -96,11 +104,39 @@ However, the safety and effectiveness of piperacillin/tazobactam in treating cli
 
 ### Aerobic and facultative Gram-positive microorganisms:
 
-Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only) Staphylococcus epidermidis (excluding methicillin and oxacillin-resistant isolates) Streptococcus agalactiae† Streptococcus pneumoniae† (penicillin-susceptible isolates only) Streptococcus pyogenes† Viridans group streptococci†
+Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only)
+
+Staphylococcus epidermidis (excluding methicillin and oxacillin-resistant isolates)
+
+Streptococcus agalactiae†
+
+Streptococcus pneumoniae† (penicillin-susceptible isolates only)
+
+Streptococcus pyogenes†
+
+Viridans group streptococci†
 
 ### Aerobic and facultative Gram-negative microorganisms:
 
-Citrobacter koseri Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Serratia marcescens Providencia stuartii Providencia rettgeri Salmonella enterica
+Citrobacter koseri
+
+Moraxella catarrhalis
+
+Morganella morganii
+
+Neisseria gonorrhoeae
+
+Proteus mirabilis
+
+Proteus vulgaris
+
+Serratia marcescens
+
+Providencia stuartii
+
+Providencia rettgeri
+
+Salmonella enterica
 
 ### Gram-positive anaerobes:
 
@@ -108,7 +144,9 @@ Clostridium perfringens
 
 ### Gram-negative anaerobes:
 
-Bacteroides distasonis Prevotella melaninogenica
+Bacteroides distasonis
+
+Prevotella melaninogenica
 
 †These are not β-lactamase producing bacteria and, therefore, are susceptible to piperacillin alone.
 
@@ -138,12 +176,12 @@ For anaerobic bacteria, the susceptibility to piperacillin/tazobactam can be det
 
 TABLE 3 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM
 
-|  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
+| Susceptibility Test result Interpretive Criteria |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Minimal Inhibitory Concentration (MIC in μg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
+|  | Minimal Inhibitory Concentration (MIC in µg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
 | Enterobacteriaceae and Acinetobacter baumanii | ≤ 16 | 32 - 64 | ≥ 128 | ≥ 21 | 18 - 20 | ≤ 17 |
-| Haemophilus influenzae a | ≤ 1 | - | ≥ 2 | - | - | - |
+| Haemophilus influenzaea | ≤ 1 | - | ≥ 2 | - | - | - |
 | Pseudomonas aeruginosa | ≤ 64 | - | ≥ 128 | ≥ 18 | - | ≤ 17 |
 | Staphylococcus aureus | ≤ 8 | - | ≥ 16 | ≥ 20 | - | ≤ 19 |
 | Bacteroides fragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
@@ -160,10 +198,11 @@ A report of R (“Resistant”) indicates that the pathogen is not likely to be 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the procedures.1,2,3,4 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 4.
 Quality control microorganisms are specific strains of microorganisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within the microorganism; the specific strains used for microbiological quality control are not clinically significant.
 
-| QC Strain | Minimum Inhibitory Concentration Range (MIC in μg/mL) | Disk Diffusion Zone Diameter Ranges in mm |
+TABLE 4 ACCEPTABLE QUALITY CONTROL RANGES FOR PIPERACILLIN/TAZOBACTAM TO BE USED IN VALIDATION OF SUSCEPTIBILITY TEST RESULTS
+
+| Acceptable Quality Control Ranges |  |  |
 | --- | --- | --- |
-| TABLE 4 ACCEPTABLE QUALITY CONTROL RANGES FOR PIPERACILLIN/TAZOBACTAM TO BE USED IN VALIDATION OF SUSCEPTIBILITY TEST RESULTS |  |  |
-|  | Acceptable Quality Control Ranges |  |
+| QC Strain | Minimum Inhibitory Concentration Range (MIC in µg/mL) | Disk Diffusion Zone Diameter Ranges in mm |
 | Escherichia coli ATCC 25922 | 1 - 4 | 24 - 30 |
 | Escherichia coli ATCC 35218 | 0.5 - 2 | 24 - 30 |
 | Pseudomonas aeruginosa ATCC 27853 | 1 - 8 | 25 - 33 |

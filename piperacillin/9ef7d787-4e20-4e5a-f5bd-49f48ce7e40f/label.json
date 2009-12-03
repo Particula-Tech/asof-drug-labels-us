@@ -1,13 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050750"
+  ],
   "inn": "piperacillin",
-  "labeler": "Wyeth Pharmaceuticals, Inc.",
+  "labeler": "Wyeth Piperacillin Division of Wyeth Holdings Corporation",
   "package_ndcs": [
+    "0206-8860-01",
     "0206-8860-02",
+    "0206-8861-01",
     "0206-8861-02",
+    "0206-8862-01",
     "0206-8862-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "piperacillin sodium and tazobactam sodium",
+      "name": "Zosyn"
+    }
+  ],
   "setid": "9ef7d787-4e20-4e5a-f5bd-49f48ce7e40f",
   "source": "dailymed"
 }

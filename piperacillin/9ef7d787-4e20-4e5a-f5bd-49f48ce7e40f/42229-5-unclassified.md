@@ -2,6 +2,10 @@ Rx only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Zosyn (piperacillin and tazobactam) injection and other antibacterial drugs, Zosyn (piperacillin and tazobactam) should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
+# STORAGE
+
+Store in a freezer capable of maintaining a temperature of -20°C (-4°F).
+
 # THAWING OF PLASTIC CONTAINER
 
 Thaw frozen container at room temperature 20°C to 25°C [68°F to 77°F] or under refrigeration (2°C to 8°C [36°F to 46°F]).

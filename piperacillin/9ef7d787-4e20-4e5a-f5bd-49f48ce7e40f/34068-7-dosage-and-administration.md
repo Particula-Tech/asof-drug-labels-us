@@ -22,9 +22,9 @@ Refer to the package insert for Zosyn vials or bulk pharmacy containers for inst
 
 TABLE 5
 
-| Aminoglycoside | Zosyn Dose (grams) | Aminoglycoside Concentration Range* (mg/mL) | AcceptableDiluents |
+| Aminoglycoside | Zosyn Dose (grams) | Aminoglycoside Concentration Range* (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- |
-| Amikacin | 2.25, 3.375, 4.5 | 1.75– 7.5 | 0.9% Sodium Chloride or 5% Dextrose |
+| Amikacin | 2.25, 3.375, 4.5 | 1.75 – 7.5 | 0.9% Sodium Chloride or 5% Dextrose |
 | Gentamicin | 2.25 or 4.5 | 0.7 – 3.32 | 0.9% Sodium Chloride |
 | *The concentration ranges in Table 5 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with Zosyn containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. |  |  |  |
 

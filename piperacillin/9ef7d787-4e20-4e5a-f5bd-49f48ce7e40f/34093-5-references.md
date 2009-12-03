@@ -23,15 +23,23 @@ TES-TAPE® is a registered trademark of Eli Lilly and Company.
 
 Galaxy® is a registered trademark of Baxter International, Inc.
 
-ADD-Vantage® is a registered trademark of Abbott Laboratories.
-
 United States Patent Numbers: 6,900,184 and 6,207,661
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
-Manufactured for Wyeth Pharmaceuticals Inc. by Baxter Healthcare Corporation, Deerfield, IL 60015
+Manufactured for Wyeth Pharmaceuticals Inc.
 
-Wyeth® Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
+by Baxter Healthcare Corporation, Deerfield, IL 60015
 
-W10415C010 ET01 Rev 11/07
+Wyeth®
+
+Wyeth Pharmaceuticals Inc.
+
+Philadelphia, PA 19101
+
+W10415C011
+
+ET01
+
+Rev 09/09
