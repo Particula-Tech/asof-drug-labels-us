@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Two serious adverse reactions reported in patients treated with intravenous metronidazole have been convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
+The most serious adverse reactions reported in patients treated with metronidazole injection have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged oral administration of metronidazole, patients should be observed carefully if neurologic symptoms occur and a prompt evaluation made of the benefit/risk ratio of the continuation of therapy.
 
 The following reactions have also been reported during treatment with Metronidazole Injection, USP RTU®.
@@ -11,7 +11,9 @@ Hematopoietic: Reversible neutropenia (leukopenia).
 
 Dermatologic: Erythematous rash and pruritus.
 
-Central Nervous System: Headache, dizziness, syncope, ataxia and confusion.
+Central Nervous System: Encephalopathy, aseptic meningitis, optic neuropathy, headache, dizziness, syncope, ataxia, confusion and dysarthria.
+
+Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson Syndrome, flushing, nasal congestion, dryness of the mouth (or vagina or vulva) and fever.
 
 Local Reactions: Thrombophlebitis after intravenous infusion.
 This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters.
@@ -31,9 +33,9 @@ Hematopoietic: Reversible neutropenia (leukopenia); rarely, reversible thrombocy
 
 Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-Central Nervous System: Convulsive seizures, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, irritability, depression, weakness and insomnia.
+Central Nervous System: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness and insomnia.
 
-Hypersensitivity: Urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva) and fever.
+Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson Syndrome, flushing, nasal congestion, dryness of the mouth (or vagina or vulva) and fever.
 
 Renal: Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure and darkened urine.
 

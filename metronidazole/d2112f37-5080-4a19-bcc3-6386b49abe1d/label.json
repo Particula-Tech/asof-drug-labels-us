@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018657"
+  ],
   "inn": "metronidazole",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "0338-1055-48"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "metronidazole",
+      "name": "Flagyl"
+    }
+  ],
   "setid": "d2112f37-5080-4a19-bcc3-6386b49abe1d",
   "source": "dailymed"
 }

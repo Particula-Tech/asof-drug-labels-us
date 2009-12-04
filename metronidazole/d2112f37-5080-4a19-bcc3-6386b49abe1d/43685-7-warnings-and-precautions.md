@@ -1,9 +1,22 @@
 # WARNINGS
 
-## Convulsive Seizures and Peripheral Neuropathy
+## Central And Peripheral Nervous System Effects
 
-Convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
-The appearance of abnormal neurologic signs demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy.
+Encephalopathy and peripheral neuropathy: Cases of encephalopathy and peripheral neuropathy (including optic neuropathy) have been reported with metronidazole.
+
+Encephalopathy has been reported in association with cerebellar toxicity characterized by ataxia, dizziness, and dysarthria.
+CNS lesions seen on MRI have been described in reports of encephalopathy.
+CNS symptoms are generally reversible within days to weeks upon discontinuation of metronidazole.
+CNS lesions seen on MRI have also been described as reversible.
+
+Peripheral neuropathy, mainly of sensory type has been reported and is characterized by numbness or paresthesia of an extremity.
+
+Convulsive seizures have been reported in patients treated with metronidazole.
+
+Aseptic meningitis: Cases of aseptic meningitis have been reported with metronidazole.
+Symptoms can occur within hours of dose administration and generally resolve after metronidazole therapy is discontinued.
+
+The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy.
 
 # PRECAUTIONS
 
@@ -22,7 +35,7 @@ Prescribing Metronidazole Injection, USP RTU® in the absence of a proven or str
 ## Laboratory Tests
 
 Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia.
-A mild leukopenia has been observed during its administration; however, no persistent hemotologic abnormalities attributable to metronidazole have been observed in clinical studies.
+A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
 Total and differential leukocyte counts are recommended before and after therapy.
 
 ## Drug Interactions
@@ -46,7 +59,7 @@ Values of zero may be observed.
 All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotine adenine dinucleotide (NAD+ ⇌NADH).
 Interference is due to the similarity in absorbance peaks of NADH (340nm) and metronidazole (322nm) at pH 7.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Tumorigenicity in Rodents - Metronidazole has shown evidence of carcinogenic activity in studies involving chronic, oral administration in mice and rats, but similar studies in the hamster gave negative results.
 Also, metronidazole has shown mutagenic activity in a number of in vitro assay systems, but studies in mammals (in vivo) failed to demonstrate a potential for genetic damage.
@@ -70,7 +83,7 @@ Metronidazole is secreted in breast milk in concentrations similar to those foun
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established
+Safety and effectiveness in pediatric patients have not been established.
 
 ## Information for Patients
 

@@ -14,9 +14,3 @@
    BR.J.Clin.
    Pharmacol.
    6:430-432, 1978.
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
-
-Printed in USA
