@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022285"
+  ],
   "inn": "levetiracetam",
   "labeler": "UCB, Inc.",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "50474-599-04",
     "50474-599-66"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "levetiracetam",
+      "name": "KEPPRA"
+    }
+  ],
   "setid": "2919e43b-69a8-434c-a2d2-1f3ecd7554c0",
   "source": "dailymed"
 }
