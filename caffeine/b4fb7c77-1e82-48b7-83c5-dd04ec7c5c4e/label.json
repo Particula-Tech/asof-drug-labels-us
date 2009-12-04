@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078002"
+  ],
+  "inn": "caffeine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-406-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "caffeine citrate",
+      "name": "Caffeine Citrate"
+    }
+  ],
+  "setid": "b4fb7c77-1e82-48b7-83c5-dd04ec7c5c4e",
+  "source": "dailymed"
+}
