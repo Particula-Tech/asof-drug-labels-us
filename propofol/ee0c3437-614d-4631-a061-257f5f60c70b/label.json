@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA019627"
+  ],
+  "inn": "propofol",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-269-20",
+    "63323-269-50",
+    "63323-269-65"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "propofol",
+      "name": "Diprivan"
+    }
+  ],
+  "setid": "ee0c3437-614d-4631-a061-257f5f60c70b",
+  "source": "dailymed"
+}
