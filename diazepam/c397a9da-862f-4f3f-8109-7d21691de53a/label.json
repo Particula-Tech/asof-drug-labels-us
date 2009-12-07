@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070325"
+  ],
   "inn": "diazepam",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0378-0477-01",
     "0378-0477-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "diazepam",
+      "name": "Diazepam"
+    }
+  ],
   "setid": "c397a9da-862f-4f3f-8109-7d21691de53a",
   "source": "dailymed"
 }

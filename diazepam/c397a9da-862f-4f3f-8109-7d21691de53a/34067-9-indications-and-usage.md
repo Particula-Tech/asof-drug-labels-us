@@ -5,7 +5,7 @@ Anxiety or tension associated with the stress of everyday life usually does not 
 
 In acute alcohol withdrawal, diazepam may be useful in the symptomatic relief of acute agitation, tremor, impending or acute delirium tremens and hallucinosis.
 
-Diazepam is a useful adjunct for the relief of skeletal muscle spasm due to reflex spasm to local pathology (such as inflammation of the muscles or joints, or secondary to trauma); spasticity caused by upper motor neuron disorders (such as cerebral palsy and paraplegia); athetosis; and stiffman syndrome.
+Diazepam is a useful adjunct for the relief of skeletal muscle spasm due to reflex spasm to local pathology (such as inflammation of the muscles or joints, or secondary to trauma), spasticity caused by upper motor neuron disorders (such as cerebral palsy and paraplegia), athetosis, and stiff-man syndrome.
 
 Oral diazepam may be used adjunctively in convulsive disorders, although it has not proved useful as the sole therapy.
 
