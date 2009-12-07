@@ -66,20 +66,17 @@ An additional 1 to 2% of the dose is recovered from the bile in the form of meta
 Approximately 20 to 35% of an oral dose is recovered from the feces within 5 days after dosing.
 This may arise from either biliary clearance or transintestinal elimination.
 
-With oral administration, a 500 mg dose, given as 10 mL of the 5% CIPRO Suspension (containing 250 mg ciprofloxacin/5mL) is bioequivalent to the 500 mg tablet.
-A 10 mL volume of the 5% CIPRO Suspension (containing 250 mg ciprofloxacin/5mL) is bioequivalent to a 5 mL volume of the 10% CIPRO Suspension (containing 500 mg ciprofloxacin/5mL).
-
 ## Drug-drug Interactions:
 
-When Ciprofloxacin Tablets USP is given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
-The overall absorption of Ciprofloxacin Tablets USP, however, is not substantially affected.
-The pharmacokinetics of ciprofloxacin given as the suspension are also not affected by food.
+When ciprofloxacin hydrochloride tablets are given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
+The overall absorption of ciprofloxacin hydrochloride tablets, however, is not substantially affected.
 Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90%.
 (See PRECAUTIONS.)
 
 The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
 
 Concomitant administration with tizanidine is contraindicated (See CONTRAINDICATIONS.)
+
 Concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
 Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
 (See WARNINGS:PRECAUTIONS.)

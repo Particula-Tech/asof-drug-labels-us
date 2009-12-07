@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076794"
+  ],
   "inn": "ciprofloxacin",
-  "labeler": "Cobalt Laboratories",
+  "labeler": "Cobalt Laboratories Inc.",
   "package_ndcs": [
     "16252-514-01",
     "16252-515-01",
     "16252-516-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ciprofloxacin hydrochloride",
+      "name": "Ciprofloxacin"
+    }
+  ],
   "setid": "3e4402d4-e0d3-9846-3e81-ed46f34137fe",
   "source": "dailymed"
 }

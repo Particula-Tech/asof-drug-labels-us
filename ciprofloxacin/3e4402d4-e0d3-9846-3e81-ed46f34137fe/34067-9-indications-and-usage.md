@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-CIPROFLOXACIN is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions and patient populations listed below.
+Ciprofloxacin tablets, USP are indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions and patient populations listed below.
 Please see DOSAGE AND ADMINISTRATIONfor specific recommendations.
 
 ## Adult Patients:
@@ -45,17 +45,17 @@ Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and h
 
 Inhalational anthrax (post-exposure): To reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
-Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.4 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
+Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.5 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
 (See also, INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION)).
 
 †Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.
 
 If anaerobic organisms are suspected of contributing to the infection, appropriate therapy should be administered.
 Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to ciprofloxacin.
-Therapy with CIPROFLOXACIN may be initiated before results of these tests are known; once results become available appropriate therapy should be continued.
+Therapy with ciprofloxacin tablets, USP may be initiated before results of these tests are known; once results become available appropriate therapy should be continued.
 As with other drugs, some strains of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with ciprofloxacin.
 Culture and susceptibility testing performed periodically during therapy will provide information not only on the therapeutic effect of the antimicrobial agent but also on the possible emergence of bacterial resistance.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ciprofloxacin Tablets USP and other antibacterial drugs, Ciprofloxacin Tablets USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ciprofloxacin tablets, USP and other antibacterial drugs, ciprofloxacin tablets, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

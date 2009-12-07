@@ -4,9 +4,9 @@
 
 During clinical investigations with oral and parenteral ciprofloxacin, 49,038 patients received courses of the drug.
 Most of the adverse events reported were described as only mild or moderate in severity, abated soon after the drug was discontinued, and required no treatment.
-Ciprofloxacin was discontinued because of an adverse event in 1.0% of orally treated patients.
+Ciprofloxacin was discontinued because of an adverse event in 1% of orally treated patients.
 
-The most frequently reported drug related events, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1.0%), and rash (1.0%).
+The most frequently reported drug related events, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
 Additional medically important events that occurred in less than 1% of ciprofloxacin patients are listed below.
 
@@ -36,7 +36,7 @@ The primary objective of the study was to assess musculoskeletal and neurologica
 An Independent Pediatric Safety Committee (IPSC) reviewed all cases of musculoskeletal adverse events as well as all patients with an abnormal gait or abnormal joint exam (baseline or treatment-emergent).
 These events were evaluated in a comprehensive fashion and included such conditions as arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint.
 The affected joints included: knee, elbow, ankle, hip, wrist, and shoulder.
-Within 6 weeks of treatment initiation, the rates of these events were 9.3% (31/335) in the ciprofloxacin-treated group versus 6.0 % (21/349) in comparator-treated patients.
+Within 6 weeks of treatment initiation, the rates of these events were 9.3% (31/335) in the ciprofloxacin-treated group versus 6% (21/349) in comparator-treated patients.
 The majority of these events were mild or moderate in intensity.
 All musculoskeletal events occurring by 6 weeks resolved (clinical resolution of signs and symptoms), usually within 30 days of end of treatment.
 Radiological evaluations were not routinely used to confirm resolution of the events.
@@ -58,7 +58,7 @@ Findings Involving Joint or Peri-articular Tissues as Assessed by the IPSC
 | 95% Confidence Interval* | (-0.8%, +7.2%) |  |
 | Age Group |  |  |
 | ≥ 12 months < 24 months | 1/36 (2.8%) | 0/41 |
-| ≥ 2 years < 6 years | 5/124 (4.0%) | 3/118 (2.5%) |
+| ≥ 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |
 | ≥ 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
 | ≥ 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
 | All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
@@ -71,11 +71,11 @@ In this trial, the overall incidence rates of adverse events regardless of relat
 The most frequent events were gastrointestinal: 15% (50/335) of ciprofloxacin patients compared to 9% (31/349) of comparator patients.
 Serious adverse events were seen in 7.5% (25/335) of ciprofloxacin-treated patients compared to 5.7% (20/349) of control patients.
 Discontinuation of drug due to an adverse event was observed in 3% (10/335) of ciprofloxacin-treated patients versus 1.4% (5/349) of comparator patients.
-Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, accidental injury 3.0%, rhinitis 3.0%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
+Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, accidental injury 3%, rhinitis 3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
 In addition to the events reported in pediatric patients in clinical trials, it should be expected that events reported in adults during clinical trials or post-marketing experience may also occur in pediatric patients.
 
-## Post-Marketing Adverse Events:
+## Post-Marketing Adverse Event Reports:
 
 The following adverse events have been reported from worldwide marketing experience with quinolones, including ciprofloxacin.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
