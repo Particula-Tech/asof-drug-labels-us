@@ -1,7 +1,0 @@
-FOR IM USE ONLY
-
-Rx only
-
-LAB-0273-14.0
-
-August 2008

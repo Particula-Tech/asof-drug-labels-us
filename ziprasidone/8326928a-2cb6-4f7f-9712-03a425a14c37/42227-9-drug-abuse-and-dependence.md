@@ -1,10 +1,6 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class
-
-Ziprasidone is not a controlled substance.
-
-## Physical and Psychological Dependence
+## 9.3 Dependence
 
 Ziprasidone has not been systematically studied, in animals or humans, for its potential for abuse, tolerance, or physical dependence.
 While the clinical trials did not reveal any tendency for drug-seeking behavior, these observations were not systematic and it is not possible to predict on the basis of this limited experience the extent to which ziprasidone will be misused, diverted, and/or abused once marketed.

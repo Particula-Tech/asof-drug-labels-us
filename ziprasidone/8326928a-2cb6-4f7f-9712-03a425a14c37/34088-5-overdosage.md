@@ -1,17 +1,18 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Experience
+## 10.1 Human Experience
 
 In premarketing trials involving more than 5400 patients and/or normal subjects, accidental or intentional overdosage of oral ziprasidone was documented in 10 patients.
 All of these patients survived without sequelae.
-In the patient taking the largest confirmed amount, 3240 mg, the only symptoms reported were minimal sedation, slurring of speech, and transitory hypertension (200/95).
+In the patient taking the largest confirmed amount, 3,240 mg, the only symptoms reported were minimal sedation, slurring of speech, and transitory hypertension (200/95).
 
-In post-marketing use, adverse events reported in association with ziprasidone overdose generally included extrapyramidal symptoms, somnolence, tremor, and anxiety.
+Adverse reactions reported with ziprasidone overdose included extrapyramidal symptoms, somnolence, tremor, and anxiety.
+[see Adverse Reactions (6.2)]
 
-## Management of Overdosage
+## 10.2 Management of Overdosage
 
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation.
-Intravenous access should be established and gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.
+Intravenous access should be established, and gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.
 The possibility of obtundation, seizure, or dystonic reaction of the head and neck following overdose may create a risk of aspiration with induced emesis.
 
 Cardiovascular monitoring should commence immediately and should include continuous electrocardiographic monitoring to detect possible arrhythmias.

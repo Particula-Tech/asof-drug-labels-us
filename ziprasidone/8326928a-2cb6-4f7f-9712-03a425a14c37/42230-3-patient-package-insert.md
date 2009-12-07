@@ -1,6 +1,4 @@
-# PATIENT SUMMARY OF INFORMATION ABOUT
-
-GEODON® Capsules (ziprasidone HCl)
+PATIENT SUMMARY OF INFORMATION ABOUT GEODON® Capsules (ziprasidone HCl)
 
 Information for patients taking GEODON or their caregivers
 
@@ -13,11 +11,12 @@ What Is GEODON?
 
 GEODON is a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
 GEODON can be used to treat symptoms of schizophrenia and acute manic or mixed episodes associated with bipolar disorder.
+GEODON can also be used as maintenance treatment of bipolar disorder when added to lithium or valproate.
 
 Who Should Take GEODON?
 
 Only your doctor can know if GEODON is right for you.
-GEODON may be prescribed for you if you have schizophrenia or acute manic or mixed episodes associated with bipolar disorder.
+GEODON may be prescribed for you if you have schizophrenia or bipolar disorder.
 
 Symptoms of schizophrenia may include:
 
@@ -137,8 +136,8 @@ Signs of NMS include very high fever, rigid muscles, shaking, confusion, sweatin
 NMS is a rare but serious side effect that could be fatal.
 Therefore, tell your doctor if you experience any of these signs.
 
-Adverse events related to high blood sugar (hyperglycemia), sometimes serious, have been reported in patients treated with atypical antipsychotics.
-There have been few reports of hyperglycemia or diabetes in patients treated with GEODON, and it is not known if GEODON is associated with these events.
+Adverse reactions related to high blood sugar (hyperglycemia), sometimes serious, have been reported in patients treated with atypical antipsychotics.
+There have been few reports of hyperglycemia or diabetes in patients treated with GEODON, and it is not known if GEODON is associated with these reactions.
 Patients treated with an atypical antipsychotic should be monitored for symptoms of hyperglycemia.
 
 Dizziness caused by a drop in your blood pressure may occur with GEODON, especially when you first start taking this medication or when the dose is increased.
@@ -170,6 +169,4 @@ GEODON is a prescription medicine and only your doctor can decide if it is right
 If you have any questions or want more information about GEODON, talk with your doctor or pharmacist.
 You can also visit www.geodon.com.
 
-LAB-0272-3.0
-
-June 2008
+LAB-0273-16.0 November 2009
