@@ -4,15 +4,15 @@
 
 Adult
 
-The efficacy of ABILIFY (aripiprazole) in the treatment of Schizophrenia was evaluated in five short-term (4-week and 6-week), placebo-controlled trials of acutely relapsed inpatients who predominantly met DSM-III/IV criteria for Schizophrenia.
+The efficacy of ABILIFY (aripiprazole) in the treatment of schizophrenia was evaluated in five short-term (4-week and 6-week), placebo-controlled trials of acutely relapsed inpatients who predominantly met DSM-III/IV criteria for schizophrenia.
 Four of the five trials were able to distinguish aripiprazole from placebo, but one study, the smallest, did not.
 Three of these studies also included an active control group consisting of either risperidone (one trial) or haloperidol (two trials), but they were not designed to allow for a comparison of ABILIFY and the active comparators.
 
 In the four positive trials for ABILIFY, four primary measures were used for assessing psychiatric signs and symptoms.
-The Positive and Negative Syndrome Scale (PANSS) is a multi-item inventory of general psychopathology used to evaluate the effects of drug treatment in Schizophrenia.
-The PANSS positive subscale is a subset of items in the PANSS that rates seven positive symptoms of Schizophrenia (delusions, conceptual disorganization, hallucinatory behavior, excitement, grandiosity, suspiciousness/persecution, and hostility).
-The PANSS negative subscale is a subset of items in the PANSS that rates seven negative symptoms of Schizophrenia (blunted affect, emotional withdrawal, poor rapport, passive apathetic withdrawal, difficulty in abstract thinking, lack of spontaneity/flow of conversation, stereotyped thinking).
-The Clinical Global Impression (CGI) assessment reflects the impression of a skilled observer, fully familiar with the manifestations of Schizophrenia, about the overall clinical state of the patient.
+The Positive and Negative Syndrome Scale (PANSS) is a multi-item inventory of general psychopathology used to evaluate the effects of drug treatment in schizophrenia.
+The PANSS positive subscale is a subset of items in the PANSS that rates seven positive symptoms of schizophrenia (delusions, conceptual disorganization, hallucinatory behavior, excitement, grandiosity, suspiciousness/persecution, and hostility).
+The PANSS negative subscale is a subset of items in the PANSS that rates seven negative symptoms of schizophrenia (blunted affect, emotional withdrawal, poor rapport, passive apathetic withdrawal, difficulty in abstract thinking, lack of spontaneity/flow of conversation, stereotyped thinking).
+The Clinical Global Impression (CGI) assessment reflects the impression of a skilled observer, fully familiar with the manifestations of schizophrenia, about the overall clinical state of the patient.
 
 - In a 4-week trial (n=414) comparing two fixed doses of ABILIFY (15 mg/day or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, and CGI-severity score.
   In addition, the 15 mg dose was superior to placebo in the PANSS negative subscale.
@@ -27,14 +27,14 @@ Among these doses, there was no evidence that the higher dose groups offered any
 
 An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age, gender, or race.
 
-A longer-term trial enrolled 310 inpatients or outpatients meeting DSM-IV criteria for Schizophrenia who were, by history, symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
+A longer-term trial enrolled 310 inpatients or outpatients meeting DSM-IV criteria for schizophrenia who were, by history, symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
 These patients were discontinued from their antipsychotic medications and randomized to ABILIFY 15 mg/day or placebo for up to 26 weeks of observation for relapse.
 Relapse during the double-blind phase was defined as CGI-Improvement score of ≥5 (minimally worse), scores ≥5 (moderately severe) on the hostility or uncooperativeness items of the PANSS, or ≥20% increase in the PANSS total score.
 Patients receiving ABILIFY 15 mg/day experienced a significantly longer time to relapse over the subsequent 26 weeks compared to those receiving placebo.
 
 Pediatric Patients
 
-The efficacy of ABILIFY (aripiprazole) in the treatment of Schizophrenia in pediatric patients (13 to 17 years of age) was evaluated in one 6-week, placebo-controlled trial of outpatients who met DSM-IV criteria for Schizophrenia and had a PANSS score ≥70 at baseline.
+The efficacy of ABILIFY (aripiprazole) in the treatment of schizophrenia in pediatric patients (13 to 17 years of age) was evaluated in one 6-week, placebo-controlled trial of outpatients who met DSM-IV criteria for schizophrenia and had a PANSS score ≥70 at baseline.
 In this trial (n=302) comparing two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo, ABILIFY was titrated starting from 2 mg/day to the target dose in 5 days in the 10 mg/day treatment arm and in 11 days in the 30 mg/day treatment arm.
 Both doses of ABILIFY were superior to placebo in the PANSS total score, the primary outcome measure of the study.
 The 30 mg/day dosage was not shown to be more efficacious than the 10 mg/day dose.
@@ -46,7 +46,7 @@ Monotherapy
 
 Adults
 
-The efficacy of ABILIFY in the treatment of acute manic episodes was established in four 3-week, placebo-controlled trials in hospitalized patients who met the DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes.
+The efficacy of ABILIFY in the acute treatment of manic episodes was established in four 3-week, placebo-controlled trials in hospitalized patients who met the DSM-IV criteria for bipolar I disorder with manic or mixed episodes.
 These studies included patients with or without psychotic features and two of the studies also included patients with or without a rapid-cycling course.
 
 The primary instrument used for assessing manic symptoms was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
@@ -56,18 +56,18 @@ In the four positive, 3-week, placebo-controlled trials (n=268; n=248; n=480; n=
 In the two studies with a starting dose of 15 mg/day, 48% and 44% of patients were on 15 mg/day at endpoint.
 In the two studies with a starting dose of 30 mg/day, 86% and 85% of patients were on 30 mg/day at endpoint.
 
-A trial was conducted in patients meeting DSM-IV criteria for Bipolar I Disorder with a recent manic or mixed episode who had been stabilized on open-label ABILIFY and who had maintained a clinical response for at least 6 weeks.
+A trial was conducted in patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode who had been stabilized on open-label ABILIFY and who had maintained a clinical response for at least 6 weeks.
 The first phase of this trial was an open-label stabilization period in which inpatients and outpatients were clinically stabilized and then maintained on open-label ABILIFY (15 mg/day or 30 mg/day, with a starting dose of 30 mg/day) for at least 6 consecutive weeks.
 One hundred sixty-one outpatients were then randomized in a double-blind fashion, to either the same dose of ABILIFY they were on at the end of the stabilization and maintenance period or placebo and were then monitored for manic or depressive relapse.
 During the randomization phase, ABILIFY was superior to placebo on time to the number of combined affective relapses (manic plus depressive), the primary outcome measure for this study.
 The majority of these relapses were due to manic rather than depressive symptoms.
-There is insufficient data to know whether ABILIFY is effective in delaying the time to occurrence of depression in patients with Bipolar I Disorder.
+There is insufficient data to know whether ABILIFY is effective in delaying the time to occurrence of depression in patients with bipolar I disorder.
 
 An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age and gender; however, there were insufficient numbers of patients in each of the ethnic groups to adequately assess inter-group differences.
 
 Pediatric Patients
 
-The efficacy of ABILIFY in the treatment of Bipolar I Disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for Bipolar I Disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
+The efficacy of ABILIFY in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
 This double-blind, placebo-controlled trial compared two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo.
 The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days in the 30 mg/day treatment arm.
 Both doses of ABILIFY were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
@@ -75,7 +75,7 @@ Although maintenance efficacy in pediatric patients has not been systematically 
 
 Adjunctive Therapy
 
-The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes was established in a 6-week, placebo-controlled study (n=384) with a 2-week lead-in mood stabilizer monotherapy phase in adult patients who met DSM-IV criteria for Bipolar I Disorder.
+The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes was established in a 6-week, placebo-controlled study (n=384) with a 2-week lead-in mood stabilizer monotherapy phase in adult patients who met DSM-IV criteria for bipolar I disorder.
 This study included patients with manic or mixed episodes and with or without psychotic features.
 
 Patients were initiated on open-label lithium (0.6 mEq/L to 1.0 mEq/L) or valproate (50 µg/mL to 125 µg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
@@ -87,7 +87,9 @@ Although the efficacy of adjunctive ABILIFY with concomitant lithium or valproat
 
 ## 14.3 Adjunctive Treatment of Major Depressive Disorder
 
-The efficacy of ABILIFY (aripiprazole) in the adjunctive treatment of Major Depressive Disorder was demonstrated in two short-term (6-week), placebo-controlled trials of adult patients meeting DSM-IV criteria for Major Depressive Disorder who had had an inadequate response to prior antidepressant therapy (1 to 3 courses) in the current episode and who had also demonstrated an inadequate response to 8 weeks of prospective antidepressant therapy (paroxetine controlled-release, venlafaxine extended-release, fluoxetine, escitalopram, or sertraline).
+Adults
+
+The efficacy of ABILIFY (aripiprazole) in the adjunctive treatment of major depressive disorder (MDD) was demonstrated in two short-term (6-week), placebo-controlled trials of adult patients meeting DSM-IV criteria for MDD who had had an inadequate response to prior antidepressant therapy (1 to 3 courses) in the current episode and who had also demonstrated an inadequate response to 8 weeks of prospective antidepressant therapy (paroxetine controlled-release, venlafaxine extended-release, fluoxetine, escitalopram, or sertraline).
 Inadequate response for prospective treatment was defined as less than 50% improvement on the 17-item version of the Hamilton Depression Rating Scale (HAMD17), minimal HAMD17 score of 14, and a Clinical Global Impressions Improvement rating of no better than minimal improvement.
 Inadequate response to prior treatment was defined as less than 50% improvement as perceived by the patient after a minimum of 6 weeks of antidepressant therapy at or above the minimal effective dose.
 
@@ -105,10 +107,31 @@ The mean final dose at the end point for the two trials was 10.7 mg/day and 11.4
 An examination of population subgroups did not reveal evidence of differential response based on age, choice of prospective antidepressant, or race.
 With regard to gender, a smaller mean reduction on the MADRS total score was seen in males than in females.
 
-## 14.4 Agitation Associated with Schizophrenia or Bipolar Mania
+## 14.4 Irritability Associated with Autistic Disorder
 
-The efficacy of intramuscular aripiprazole for injection for the treatment of agitation was established in three short-term (24-hour), placebo-controlled trials in agitated inpatients from two diagnostic groups: Schizophrenia and Bipolar I Disorder (manic or mixed episodes, with or without psychotic features).
-Each of the trials included a single active comparator treatment arm of either haloperidol injection (Schizophrenia studies) or lorazepam injection (Bipolar Mania study).
+Pediatric Patients
+
+The efficacy of ABILIFY (aripiprazole) in the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in pediatric patients (6 to 17 years of age) who met the DSM-IV criteria for autistic disorder and demonstrated behaviors such as tantrums, aggression, self-injurious behavior, or a combination of these problems.
+Over 75% of these subjects were under 13 years of age.
+
+Efficacy was evaluated using two assessment scales: the Aberrant Behavior Checklist (ABC) and the Clinical Global Impression-Improvement (CGI-I) scale.
+The primary outcome measure in both trials was the change from baseline to endpoint in the Irritability subscale of the ABC (ABC-I).
+The ABC-I subscale measured the emotional and behavioral symptoms of irritability in autistic disorder, including aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+
+The results of these trials are as follows:
+
+- In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=98), aged 6 to 17 years, received daily doses of placebo or ABILIFY 2 mg/day to 15 mg/day.
+  ABILIFY, starting at 2 mg/day with increases allowed up to 15 mg/day based on clinical response, significantly improved scores on the ABC-I subscale and on the CGI-I scale compared with placebo.
+  The mean daily dose of ABILIFY at the end of 8-week treatment was 8.6 mg/day.
+- In the other 8-week, placebo-controlled trial in children and adolescents with autistic disorder (n=218), aged 6 to 17 years, three fixed doses of ABILIFY (5 mg/day, 10 mg/day, or 15 mg/day) were compared to placebo.
+  ABILIFY dosing started at 2 mg/day and was increased to 5 mg/day after one week.
+  After a second week, it was increased to 10 mg/day for patients in the 10 mg and 15 mg dose arms, and after a third week, it was increased to 15 mg/day in the 15 mg/day treatment arm.
+  All three doses of ABILIFY significantly improved scores on the ABC-I subscale compared with placebo.
+
+## 14.5 Agitation Associated with Schizophrenia or Bipolar Mania
+
+The efficacy of intramuscular aripiprazole for injection for the treatment of agitation was established in three short-term (24-hour), placebo-controlled trials in agitated inpatients from two diagnostic groups: schizophrenia and bipolar I disorder (manic or mixed episodes, with or without psychotic features).
+Each of the trials included a single active comparator treatment arm of either haloperidol injection (schizophrenia studies) or lorazepam injection (bipolar mania study).
 Patients could receive up to three injections during the 24-hour treatment periods; however, patients could not receive the second injection until after the initial 2-hour period when the primary efficacy measure was assessed.
 Patients enrolled in the trials needed to be: (1) judged by the clinical investigators as clinically agitated and clinically appropriate candidates for treatment with intramuscular medication, and (2) exhibiting a level of agitation that met or exceeded a threshold score of ≥15 on the five items comprising the Positive and Negative Syndrome Scale (PANSS) Excited Component (ie, poor impulse control, tension, hostility, uncooperativeness, and excitement items) with at least two individual item scores ≥4 using a 1-7 scoring system (1 = absent, 4 = moderate, 7 = extreme).
 In the studies, the mean baseline PANSS Excited Component score was 19, with scores ranging from 15 to 34 (out of a maximum score of 35), thus suggesting predominantly moderate levels of agitation with some patients experiencing mild or severe levels of agitation.
@@ -116,11 +139,11 @@ The primary efficacy measure used for assessing agitation signs and symptoms in 
 A key secondary measure was the Clinical Global Impression of Improvement (CGI-I) Scale.
 The results of the trials follow:
 
-- In a placebo-controlled trial in agitated inpatients predominantly meeting DSM-IV criteria for Schizophrenia (n=350), four fixed aripiprazole injection doses of 1 mg, 5.25 mg, 9.75 mg, and 15 mg were evaluated.
+- In a placebo-controlled trial in agitated inpatients predominantly meeting DSM-IV criteria for schizophrenia (n=350), four fixed aripiprazole injection doses of 1 mg, 5.25 mg, 9.75 mg, and 15 mg were evaluated.
   At 2 hours post-injection, the 5.25 mg, 9.75 mg, and 15 mg doses were statistically superior to placebo in the PANSS Excited Component and on the CGI-I Scale.
-- In a second placebo-controlled trial in agitated inpatients predominantly meeting DSM-IV criteria for Schizophrenia (n=445), one fixed aripiprazole injection dose of 9.75 mg was evaluated.
+- In a second placebo-controlled trial in agitated inpatients predominantly meeting DSM-IV criteria for schizophrenia (n=445), one fixed aripiprazole injection dose of 9.75 mg was evaluated.
   At 2 hours post-injection, aripiprazole for injection was statistically superior to placebo in the PANSS Excited Component and on the CGI-I Scale.
-- In a placebo-controlled trial in agitated inpatients meeting DSM-IV criteria for Bipolar I Disorder (manic or mixed) (n=291), two fixed aripiprazole injection doses of 9.75 mg and 15 mg were evaluated.
+- In a placebo-controlled trial in agitated inpatients meeting DSM-IV criteria for bipolar I disorder (manic or mixed) (n=291), two fixed aripiprazole injection doses of 9.75 mg and 15 mg were evaluated.
   At 2 hours post-injection, both doses were statistically superior to placebo in the PANSS Excited Component.
 
 Examination of population subsets (age, race, and gender) did not reveal any differential responsiveness on the basis of these subgroupings.

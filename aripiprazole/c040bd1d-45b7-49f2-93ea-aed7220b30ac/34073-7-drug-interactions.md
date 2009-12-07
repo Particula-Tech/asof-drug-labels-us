@@ -28,7 +28,7 @@ Coadministration of a 10 mg single dose of aripiprazole with quinidine (166 mg/d
 Aripiprazole dose should be reduced to one-half of its normal dose when quinidine is given concomitantly with aripiprazole.
 Other significant inhibitors of CYP2D6, such as fluoxetine or paroxetine, would be expected to have similar effects and should lead to similar dose reductions.
 When the CYP2D6 inhibitor is withdrawn from the combination therapy, the aripiprazole dose should be increased.
-When adjunctive ABILIFY is administered to patients with Major Depressive Disorder, ABILIFY should be administered without dosage adjustment as specified in DOSAGE AND ADMINISTRATION (2.3).
+When adjunctive ABILIFY is administered to patients with major depressive disorder, ABILIFY should be administered without dosage adjustment as specified in DOSAGE AND ADMINISTRATION (2.3).
 
 Carbamazepine and Other CYP3A4 Inducers
 
@@ -76,7 +76,7 @@ No dosage adjustment of lithium is required when administered concomitantly with
 
 Lamotrigine
 
-Coadministration of 10 mg/day to 30 mg/day oral doses of aripiprazole for 14 days to patients with Bipolar I Disorder had no effect on the steady-state pharmacokinetics of 100 mg/day to 400 mg/day lamotrigine, a UDP-glucuronosyltransferase 1A4 substrate.
+Coadministration of 10 mg/day to 30 mg/day oral doses of aripiprazole for 14 days to patients with bipolar I disorder had no effect on the steady-state pharmacokinetics of 100 mg/day to 400 mg/day lamotrigine, a UDP-glucuronosyltransferase 1A4 substrate.
 No dosage adjustment of lamotrigine is required when aripiprazole is added to lamotrigine.
 
 Dextromethorphan
@@ -113,7 +113,7 @@ No dosage adjustment of venlafaxine is required when aripiprazole is added to ve
 
 Fluoxetine, Paroxetine, and Sertraline
 
-A population pharmacokinetic analysis in patients with Major Depressive Disorder showed no substantial change in plasma concentrations of fluoxetine (20 mg/day or 40 mg/day), paroxetine CR (37.5 mg/day or 50 mg/day), or sertraline (100 mg/day or 150 mg/day) dosed to steady-state.
-The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively and concentrations of paroxetine decreased by about 27%.
+A population pharmacokinetic analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 mg/day or 40 mg/day), paroxetine CR (37.5 mg/day or 50 mg/day), or sertraline (100 mg/day or 150 mg/day) dosed to steady-state.
+The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
 The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were coadministered with aripiprazole.
 Aripiprazole dosing was 2 mg/day to 15 mg/day (when given with fluoxetine or paroxetine) or 2 mg/day to 20 mg/day (when given with sertraline).

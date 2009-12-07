@@ -1,5 +1,3 @@
-## 17.2 Medication Guide
-
 MEDICATION GUIDE
 
 ABILIFY® (a BIL ĭ fī)
@@ -72,6 +70,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550A5 0309L-2319 Rev July 2009
+1239550A7 0309L-2745C Rev November 2009
 
 © 2009, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

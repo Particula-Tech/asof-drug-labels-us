@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of aripiprazole, as with other drugs having efficacy in Schizophrenia, Bipolar Disorder, Major Depressive Disorder, and agitation associated with Schizophrenia or Bipolar Disorder, is unknown.
+The mechanism of action of aripiprazole, as with other drugs having efficacy in schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and agitation associated with schizophrenia or bipolar disorder, is unknown.
 However, it has been proposed that the efficacy of aripiprazole is mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (eg, the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
@@ -64,5 +64,5 @@ In two pharmacokinetic studies of aripiprazole injection administered intramuscu
 A 5 mg intramuscular injection of aripiprazole had an absolute bioavailability of 100%.
 The geometric mean maximum concentration achieved after an intramuscular dose was on average 19% higher than the Cmax of the oral tablet.
 While the systemic exposure over 24 hours was generally similar between aripiprazole injection given intramuscularly and after oral tablet administration, the aripiprazole AUC in the first 2 hours after an intramuscular injection was 90% greater than the AUC after the same dose as a tablet.
-In stable patients with Schizophrenia or Schizoaffective Disorder, the pharmacokinetics of aripiprazole after intramuscular administration were linear over a dose range of 1 mg to 45 mg.
+In stable patients with schizophrenia or schizoaffective disorder, the pharmacokinetics of aripiprazole after intramuscular administration were linear over a dose range of 1 mg to 45 mg.
 Although the metabolism of aripiprazole injection was not systematically evaluated, the intramuscular route of administration would not be expected to alter the metabolic pathways.

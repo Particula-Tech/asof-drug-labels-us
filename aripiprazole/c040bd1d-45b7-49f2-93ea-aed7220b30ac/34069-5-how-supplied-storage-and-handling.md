@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-ABILIFY® (aripiprazole) Tablets have markings on one side and are available in the strengths and packages listed in Table 14.
+ABILIFY® (aripiprazole) Tablets have markings on one side and are available in the strengths and packages listed in Table 15.
 
-Table 14: ABILIFY Tablet Presentations
+Table 15: ABILIFY Tablet Presentations
 
 | Tablet Strength | Tablet Color/Shape | Tablet Markings | Pack Size | NDC Code |
 | --- | --- | --- | --- | --- |
@@ -16,9 +16,9 @@ Table 14: ABILIFY Tablet Presentations
 | 30 mg | pink round | "A-011" and "30" | Bottle of 30 Blister of 100 | 59148-011-13 59148-011-35 |
 
 ABILIFY DISCMELT® (aripiprazole) Orally Disintegrating Tablets are round tablets with markings on either side.
-ABILIFY DISCMELT is available in the strengths and packages listed in Table 15.
+ABILIFY DISCMELT is available in the strengths and packages listed in Table 16.
 
-Table 15: ABILIFY DISCMELT Orally Disintegrating Tablet Presentations
+Table 16: ABILIFY DISCMELT Orally Disintegrating Tablet Presentations
 
 | Tablet Strength | Tablet Color | Tablet Markings | Pack Size | NDC Code |
 | --- | --- | --- | --- | --- |

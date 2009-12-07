@@ -2,109 +2,99 @@
 
 ## 2.1 Schizophrenia
 
-Usual Dose for Acute Treatment
-
 Adults
 
-The recommended starting and target dose for ABILIFY is 10 mg/day or 15 mg/day administered on a once-a-day schedule without regard to meals.
+Dose Selection: The recommended starting and target dose for ABILIFY is 10 mg/day or 15 mg/day administered on a once-a-day schedule without regard to meals.
 ABILIFY has been systematically evaluated and shown to be effective in a dose range of 10 mg/day to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 mg/day or 15 mg/day were not more effective than 10 mg/day or 15 mg/day.
-Dosage increases should not be made before 2 weeks, the time needed to achieve steady-state [see CLINICAL STUDIES (14.1)].
+Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see CLINICAL STUDIES (14.1)].
+
+Maintenance Treatment: Maintenance of efficacy in schizophrenia was demonstrated in a trial involving patients with schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
+These patients were discontinued from those medications and randomized to either ABILIFY 15 mg/day or placebo, and observed for relapse [see CLINICAL STUDIES (14.1)].
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 Adolescents
 
-The recommended target dose of ABILIFY is 10 mg/day.
-Aripiprazole was studied in pediatric patients 13 to 17 years of age with Schizophrenia at daily doses of 10 mg and 30 mg.
+Dose Selection: The recommended target dose of ABILIFY is 10 mg/day.
+Aripiprazole was studied in adolescent patients 13 to 17 years of age with schizophrenia at daily doses of 10 mg and 30 mg.
 The starting daily dose of the tablet formulation in these patients was 2 mg, which was titrated to 5 mg after 2 days and to the target dose of 10 mg after 2 additional days.
 Subsequent dose increases should be administered in 5 mg increments.
 The 30 mg/day dose was not shown to be more efficacious than the 10 mg/day dose.
 ABILIFY can be administered without regard to meals [see CLINICAL STUDIES (14.1)].
 
-Maintenance Therapy
-
-Adults
-
-While there is no body of evidence available to answer the question of how long a patient treated with aripiprazole should remain on it, systematic evaluation of patients with Schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer, were discontinued from those medications, and were then administered ABILIFY 15 mg/day and observed for relapse during a period of up to 26 weeks, has demonstrated a benefit of such maintenance treatment [see CLINICAL STUDIES (14.1)].
-Patients should be periodically reassessed to determine the need for maintenance treatment.
-
-Adolescents
-
-The efficacy of ABILIFY for the maintenance treatment of Schizophrenia in the pediatric population has not been evaluated.
-While there is no body of evidence available to answer the question of how long the adolescent patient treated with ABILIFY should be maintained, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+Maintenance Treatment: The efficacy of ABILIFY for the maintenance treatment of schizophrenia in the adolescent population has not been evaluated.
+While there is no body of evidence available to answer the question of how long the adolescent patient treated with ABILIFY should be maintained on the drug, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 Switching from Other Antipsychotics
 
-There are no systematically collected data to specifically address switching patients with Schizophrenia from other antipsychotics to ABILIFY or concerning concomitant administration with other antipsychotics.
-While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some patients with Schizophrenia, more gradual discontinuation may be most appropriate for others.
+There are no systematically collected data to specifically address switching patients with schizophrenia from other antipsychotics to ABILIFY or concerning concomitant administration with other antipsychotics.
+While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some patients with schizophrenia, more gradual discontinuation may be most appropriate for others.
 In all cases, the period of overlapping antipsychotic administration should be minimized.
 
-## 2.2 Bipolar Disorder
-
-Usual Dose for Acute Treatment
+## 2.2 Bipolar I Disorder
 
 Adults
 
-The recommended starting and target dose is 15 mg as monotherapy or as adjunctive therapy with lithium or valproate given once a day, without regard to meals.
-The dose can be increased to 30 mg/day based on clinical response.
+Dose Selection: The recommended starting and target dose is 15 mg given once daily as monotherapy or as adjunctive therapy with lithium or valproate.
+ABILIFY may be given without regard to meals.
+The dose may be increased to 30 mg/day based on clinical response.
 The safety of doses above 30 mg/day has not been evaluated in clinical trials [see CLINICAL STUDIES (14.2)].
+
+Maintenance Treatment: Maintenance of efficacy in bipolar I disorder was demonstrated in a trial involving patients who had been symptomatically stable on ABILIFY Tablets (15 mg/day or 30 mg/day, as monotherapy) for at least 6 consecutive weeks.
+These patients were discontinued from those medications and randomized to either ABILIFY, at the same dose they were stabilized on, or placebo, and observed for relapse [see CLINICAL STUDIES (14.2)].
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 Pediatric Patients
 
-The efficacy of aripiprazole has been established in the treatment of pediatric patients 10 to 17 years of age with Bipolar I Disorder at doses of 10 mg/day or 30 mg/day.
+Dose Selection: The efficacy of ABILIFY has been established in the treatment of pediatric patients 10 to 17 years of age with bipolar I disorder at doses of 10 mg/day or 30 mg/day.
 The recommended target dose of ABILIFY is 10 mg/day, as monotherapy or as adjunctive therapy with lithium or valproate.
 The starting daily dose of the tablet formulation in these patients was 2 mg/day, which was titrated to 5 mg/day after 2 days and to the target dose of 10 mg/day after 2 additional days.
 Subsequent dose increases should be administered in 5 mg/day increments.
 ABILIFY can be administered without regard to meals.
 [See CLINICAL STUDIES (14.2).]
 
-Maintenance Therapy
-
-Adults
-
-While there is no body of evidence available to answer the question of how long a patient treated with aripiprazole should remain on it, whether used as monotherapy or as adjunctive therapy, adult patients with Bipolar I Disorder who had been symptomatically stable on ABILIFY Tablets (15 mg/day or 30 mg/day as monotherapy with a starting dose of 30 mg/day) for at least 6 consecutive weeks and then randomized to ABILIFY Tablets (15 mg/day or 30 mg/day) or placebo and monitored for relapse, demonstrated a benefit of such maintenance treatment [see CLINICAL STUDIES (14.2)].
-While it is generally agreed that pharmacological treatment beyond an acute response in Mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of aripiprazole in such longer-term treatment (beyond 6 weeks).
-Physicians who elect to use ABILIFY for extended periods, that is, longer than 6 weeks, should periodically re-evaluate the long-term usefulness of the drug for the individual.
-
-Pediatric Patients
-
-The efficacy of ABILIFY for the maintenance treatment of Bipolar I Disorder in the pediatric population has not been evaluated.
+Maintenance Treatment: The efficacy of ABILIFY for the maintenance treatment of bipolar I disorder in the pediatric population has not been evaluated.
 While there is no body of evidence available to answer the question of how long the pediatric patient treated with ABILIFY should be maintained, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
-Patients should be periodically reassessed to determine the need for maintenance treatment.
+Thus, responding patients may be considered for continued treatment beyond the acute response at the lowest dose required to maintain remission.
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 ## 2.3 Adjunctive Treatment of Major Depressive Disorder
 
-Usual Dose for Acute Treatment
-
 Adults
 
-The recommended starting dose for ABILIFY as adjunctive treatment for patients already taking an antidepressant is 2 mg/day to 5 mg/day.
-The efficacy of ABILIFY as an adjunctive therapy for Major Depressive Disorder was established within a dose range of 2 mg/day to 15 mg/day.
+Dose Selection: The recommended starting dose for ABILIFY as adjunctive treatment for patients already taking an antidepressant is 2 mg/day to 5 mg/day.
+The efficacy of ABILIFY as an adjunctive therapy for major depressive disorder was established within a dose range of 2 mg/day to 15 mg/day.
 Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.3)].
+
+Maintenance Treatment: The efficacy of ABILIFY for the adjunctive maintenance treatment of major depressive disorder has not been evaluated.
+While there is no body of evidence available to answer the question of how long the patient treated with ABILIFY should be maintained, patients should be periodically reassessed to determine the continued need for maintenance treatment.
+
+## 2.4 Irritability Associated with Autistic Disorder
 
 Pediatric Patients
 
-The efficacy of ABILIFY for the adjunctive treatment of Major Depressive Disorder in the pediatric population has not been evaluated.
+Dose Selection: The efficacy of aripiprazole has been established in the treatment of pediatric patients 6 to 17 years of age with irritability associated with autistic disorder at doses of 5 mg/day to 15 mg/day.
+The dosage of ABILIFY should be individualized according to tolerability and response.
 
-Maintenance Therapy
+Dosing should be initiated at 2 mg/day.
+The dose should be increased to 5 mg/day, with subsequent increases to 10 mg/day or 15 mg/day if needed.
+Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.4)].
 
-The efficacy of ABILIFY for the adjunctive maintenance treatment of Major Depressive Disorder has not been evaluated.
-While there is no body of evidence available to answer the question of how long the patient treated with ABILIFY should be maintained, patients should be periodically reassessed to determine the need for maintenance treatment.
+Maintenance Treatment: The efficacy of ABILIFY for the maintenance treatment of irritability associated with autistic disorder has not been evaluated.
+While there is no body of evidence available to answer the question of how long the patient treated with ABILIFY should be maintained, patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
-## 2.4 Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
-
-Usual Dose
+## 2.5 Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
 
 Adults
 
-The recommended dose in these patients is 9.75 mg.
-The effectiveness of aripiprazole injection in controlling agitation in Schizophrenia and Bipolar Mania was demonstrated over a dose range of 5.25 mg to 15 mg.
+Dose Selection: The recommended dose in these patients is 9.75 mg.
+The effectiveness of aripiprazole injection in controlling agitation in schizophrenia and bipolar mania was demonstrated over a dose range of 5.25 mg to 15 mg.
 No additional benefit was demonstrated for 15 mg compared to 9.75 mg.
 A lower dose of 5.25 mg may be considered when clinical factors warrant.
 If agitation warranting a second dose persists following the initial dose, cumulative doses up to a total of 30 mg/day may be given.
 However, the efficacy of repeated doses of aripiprazole injection in agitated patients has not been systematically evaluated in controlled clinical trials.
-The safety of total daily doses greater than 30 mg or injections given more frequently than every 2 hours have not been adequately evaluated in clinical trials [see CLINICAL STUDIES (14.4)].
+The safety of total daily doses greater than 30 mg or injections given more frequently than every 2 hours have not been adequately evaluated in clinical trials [see CLINICAL STUDIES (14.5)].
 
 If ongoing aripiprazole therapy is clinically indicated, oral aripiprazole in a range of 10 mg/day to 30 mg/day should replace aripiprazole injection as soon as possible [see DOSAGE AND ADMINISTRATION (2.1 and 2.2)].
 
@@ -127,11 +117,7 @@ Inject slowly, deep into the muscle mass.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Pediatric Patients
-
-ABILIFY Intramuscular Injection has not been evaluated in pediatric patients.
-
-## 2.5 Dosage Adjustment
+## 2.6 Dosage Adjustment
 
 Dosage adjustments in adults are not routinely indicated on the basis of age, gender, race, or renal or hepatic impairment status [see USE IN SPECIFIC POPULATIONS (8.4-8.10)].
 
@@ -139,16 +125,16 @@ Dosage adjustments in adults are not routinely indicated on the basis of age, ge
   When the CYP3A4 inhibitor is withdrawn from the combination therapy, the aripiprazole dose should then be increased [see DRUG INTERACTIONS (7.1)].
 - Dosage adjustment for patients taking aripiprazole concomitantly with potential CYP2D6 inhibitors: When concomitant administration of potential CYP2D6 inhibitors such as quinidine, fluoxetine, or paroxetine with aripiprazole occurs, aripiprazole dose should be reduced at least to one-half of its normal dose.
   When the CYP2D6 inhibitor is withdrawn from the combination therapy, the aripiprazole dose should then be increased [see DRUG INTERACTIONS (7.1)].
-  When adjunctive ABILIFY is administered to patients with Major Depressive Disorder, ABILIFY should be administered without dosage adjustment as specified in DOSAGE AND ADMINISTRATION (2.3).
+  When adjunctive ABILIFY is administered to patients with major depressive disorder, ABILIFY should be administered without dosage adjustment as specified in DOSAGE AND ADMINISTRATION (2.3).
 - Dosage adjustment for patients taking potential CYP3A4 inducers: When a potential CYP3A4 inducer such as carbamazepine is added to aripiprazole therapy, the aripiprazole dose should be doubled.
   Additional dose increases should be based on clinical evaluation.
   When the CYP3A4 inducer is withdrawn from the combination therapy, the aripiprazole dose should be reduced to 10 mg to 15 mg [see DRUG INTERACTIONS (7.1)].
 
-## 2.6 Dosing of Oral Solution
+## 2.7 Dosing of Oral Solution
 
 The oral solution can be substituted for tablets on a mg-per-mg basis up to the 25 mg dose level.
 Patients receiving 30 mg tablets should receive 25 mg of the solution [see CLINICAL PHARMACOLOGY (12.3)].
 
-## 2.7 Dosing of Orally Disintegrating Tablets
+## 2.8 Dosing of Orally Disintegrating Tablets
 
-The dosing for ABILIFY Orally Disintegrating Tablets is the same as for the oral tablets [see DOSAGE AND ADMINISTRATION (2.1, 2.2, and 2.3)].
+The dosing for ABILIFY Orally Disintegrating Tablets is the same as for the oral tablets [see DOSAGE AND ADMINISTRATION (2.1, 2.2, 2.3, and 2.4)].

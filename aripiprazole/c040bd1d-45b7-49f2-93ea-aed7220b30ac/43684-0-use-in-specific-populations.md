@@ -47,35 +47,38 @@ It is recommended that women receiving aripiprazole should not breast-feed.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients with Major Depressive Disorder or agitation associated with Schizophrenia or Bipolar Mania have not been established.
+Safety and effectiveness in pediatric patients with major depressive disorder or agitation associated with schizophrenia or bipolar mania have not been established.
 
-Safety and effectiveness in pediatric patients with Schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see INDICATIONS AND USAGE (1.1), DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.1)].
+Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see INDICATIONS AND USAGE (1.1), DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
-Safety and effectiveness in pediatric patients with Bipolar Mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see INDICATIONS AND USAGE (1.2), DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.2)].
+Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see INDICATIONS AND USAGE (1.2), DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.2)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
 However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8 week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see INDICATIONS AND USAGE (1.4), DOSAGE AND ADMINISTRATION (2.4), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.4)].
+Maintenance efficacy in pediatric patients has not been systematically evaluated.
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
 
 ## 8.5 Geriatric Use
 
 In formal single-dose pharmacokinetic studies (with aripiprazole given in a single dose of 15 mg), aripiprazole clearance was 20% lower in elderly (≥65 years) subjects compared to younger adult subjects (18 to 64 years).
-There was no detectable age effect, however, in the population pharmacokinetic analysis in Schizophrenia patients.
+There was no detectable age effect, however, in the population pharmacokinetic analysis in schizophrenia patients.
 Also, the pharmacokinetics of aripiprazole after multiple doses in elderly patients appeared similar to that observed in young, healthy subjects.
 No dosage adjustment is recommended for elderly patients [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
 Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
 The majority (81%) of the 1073 patients were diagnosed with Dementia of the Alzheimer’s type.
 
-Placebo-controlled studies of oral aripiprazole in Schizophrenia, Bipolar Mania, or Major Depressive Disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Of the 749 patients treated with aripiprazole injection in clinical trials, 99 (13%) were ≥65 years old and 78 (10%) were ≥75 years old.
-Placebo-controlled studies of aripiprazole injection in patients with agitation associated with Schizophrenia or Bipolar Mania did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Placebo-controlled studies of aripiprazole injection in patients with agitation associated with schizophrenia or bipolar mania did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
-Studies of elderly patients with psychosis associated with Alzheimer’s disease have suggested that there may be a different tolerability profile in this population compared to younger patients with Schizophrenia [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Studies of elderly patients with psychosis associated with Alzheimer’s disease have suggested that there may be a different tolerability profile in this population compared to younger patients with schizophrenia [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with Alzheimer’s disease has not been established.
 If the prescriber elects to treat such patients with ABILIFY, vigilance should be exercised.
 

@@ -22,10 +22,10 @@ If the prescriber elects to treat such patients with ABILIFY, vigilance should b
 
 ## 5.2 Clinical Worsening of Depression and Suicide Risk
 
-Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with Major Depressive Disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with MDD and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -54,19 +54,19 @@ However, there is substantial evidence from placebo-controlled maintenance trial
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for Major Depressive Disorder as well as for other indications, both psychiatric and nonpsychiatric.
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for MDD as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for ABILIFY should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of Bipolar Disorder.
-It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder.
+Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
+It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
+However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 
 It should be noted that ABILIFY is not approved for use in treating depression in the pediatric population.
 
@@ -113,7 +113,7 @@ However, some patients may require treatment with ABILIFY despite the presence o
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
 There have been few reports of hyperglycemia in patients treated with ABILIFY [see ADVERSE REACTIONS (6.2, 6.3)].
 Although fewer patients have been treated with ABILIFY, it is not known if this more limited experience is the sole reason for the paucity of such reports.
-Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with Schizophrenia and the increasing incidence of diabetes mellitus in the general population.
+Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies which did not include ABILIFY suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics included in these studies.
 Because ABILIFY was not marketed at the time these studies were performed, it is not known if ABILIFY is associated with this increased risk.
@@ -128,9 +128,9 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 ## 5.6 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 10 to 17 years of age (n=399) on oral ABILIFY included orthostatic hypotension (1%, 0%), postural dizziness (0.5%, 0%), and syncope (0.3%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 17 years of age (n=611) on oral ABILIFY included orthostatic hypotension (0.5%, 0%), postural dizziness (0.3%, 0%), and syncope (0.2%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
 
-The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 10 to 17 years (0%, 0.5%), or in aripiprazole injection-treated patients (3%, 2%).
+The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 6 to 17 years (0.2%, 0.1%), or in aripiprazole injection-treated patients (3%, 2%).
 
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
@@ -149,7 +149,7 @@ Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should di
 
 ## 5.8 Seizures/Convulsions
 
-In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.1% (3/2467) of adult patients treated with oral aripiprazole, in 0.3% (1/399) of pediatric patients (10 to 17 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
+In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.1% (3/2467) of adult patients treated with oral aripiprazole, in 0.2% (1/611) of pediatric patients (6 to 17 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, eg, Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
@@ -157,8 +157,8 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 ## 5.9 Potential for Cognitive and Motor Impairment
 
 ABILIFY, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
-For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 10 to 17 (21%, 5%), and in adult patients on ABILIFY Injection (9%, 6%).
-Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 1% (4/399) of pediatric patients (10 to 17 years) on oral ABILIFY in short-term, placebo-controlled trials, but did not lead to discontinuation of any adult patients on ABILIFY Injection.
+For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%), and in adult patients (n=501) on ABILIFY Injection (9%, 6%).
+Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 3% (15/611) of pediatric patients (6 to 17 years) on oral ABILIFY in short-term, placebo-controlled trials, but did not lead to discontinuation of any adult patients on ABILIFY Injection.
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY does not affect them adversely.
 
@@ -169,10 +169,10 @@ Appropriate care is advised when prescribing aripiprazole for patients who will 
 
 ## 5.11 Suicide
 
-The possibility of a suicide attempt is inherent in psychotic illnesses, Bipolar Disorder, and Major Depressive Disorder, and close supervision of high-risk patients should accompany drug therapy.
+The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ABILIFY should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.2, 6.3)].
 
-In two 6-week placebo-controlled studies of aripiprazole as adjunctive treatment of Major Depressive Disorder, the incidences of suicidal ideation and suicide attempts were 0% (0/371) for aripiprazole and 0.5% (2/366) for placebo.
+In two 6-week placebo-controlled studies of aripiprazole as adjunctive treatment of major depressive disorder, the incidences of suicidal ideation and suicide attempts were 0% (0/371) for aripiprazole and 0.5% (2/366) for placebo.
 
 ## 5.12 Dysphagia
 

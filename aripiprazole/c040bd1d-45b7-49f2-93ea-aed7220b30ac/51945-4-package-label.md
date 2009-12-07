@@ -1,4 +1,6 @@
---------------------------------------------- REPRESENTATIVE COMPONENT IMAGE(S)
+--------------------------------------------- REPRESENTATIVE PACKAGING
+
+See How Supplied section for a complete list of available packages of ABILIFY®
 
 30 Tablets NDC 59148-008-13 ABILIFY® (aripiprazole) TABLETS 10 mg DISPENSE WITH MEDICATION GUIDE Rx only Otsuka America Pharmaceutical, Inc. Bristol-Myers Squibb
 

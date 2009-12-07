@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide (17.2)
+See Medication Guide
 
 ## 17.1 Information for Patients
 
@@ -22,7 +22,7 @@ Prescribers or other health professionals should inform patients, their families
 A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-It should be noted that ABILIFY is not approved as a single agent for treatment of depression and has not been evaluated in pediatric Major Depressive Disorder.
+It should be noted that ABILIFY is not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
 
 Use of Orally Disintegrating Tablet
 
@@ -80,6 +80,6 @@ US Patent Nos: 5,006,528; 6,977,257; and 7,115,587
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550A5 0309L-2319 Rev July 2009
+1239550A7 0309L-2745 Rev November 2009
 
 © 2009, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
