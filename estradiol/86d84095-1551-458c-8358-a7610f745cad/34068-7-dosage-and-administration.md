@@ -6,7 +6,7 @@ When estrogen is prescribed for a postmenopausal woman with a uterus, generally,
 A woman without a uterus does not need progestin.
 
 Use of estrogen, alone or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be re-evaluated periodically as clinically appropriate (for example at 3-month to 6-month intervals) to determine if treatment is still necessary.
+Postmenopausal women should be re-evaluated periodically as clinically appropriate (for example at 3-month to 6-month intervals) to determine if treatment is still necessary.
 
 ## 2.2 Treatment of Moderate to Severe Vasomotor Symptoms
 

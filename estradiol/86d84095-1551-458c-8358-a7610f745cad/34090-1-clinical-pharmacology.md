@@ -7,7 +7,7 @@ Although circulating estrogens exist in a dynamic equilibrium of metabolic inter
 
 The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle.
 After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone by peripheral tissues.
-Thus, estrone and the sulfate- conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
+Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
 
 ## 12.2 Pharmacodynamics
 
@@ -15,7 +15,7 @@ Estrogens act through binding to nuclear receptors in estrogen-responsive tissue
 To date, two estrogen receptors have been identified.
 These vary in proportions from tissue to tissue.
 
-Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH), through a negative feed back mechanism.
+Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH), through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
 
 ## 12.3 Pharmacokinetics
@@ -23,21 +23,17 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 Absorption
 
 In a multiple-dose study, 72 postmenopausal women were treated for 14 days with Evamist to the inner forearm.
-Serum concentrations of estradiol appeared to reach steady state after 7 to 8 days of application of one, two, or three 90 mcL sprays of Evamist per day (Figure 1).
+Serum concentrations of estradiol appeared to reach steady state after 7 to 8 days of application of one, two, or three 90-mcL sprays of Evamist per day (Figure 1).
 
-Pharmacokinetics parameters for estradiol from one, two, or three 90 mcL sprays of Evamist, as assessed on Day 14 of this study, are described in Table 2.
+Pharmacokinetics parameters for estradiol from one, two, or three 90-mcL sprays of Evamist, as assessed on Day 14 of this study, are described in Table 2.
 
 Table 2.
 Estradiol Pharmacokinetic Parameters on Day 14 (Unadjusted for Baseline)
 
-| PK Parameter | Number of Daily Sprays of Evamist |  |  |
+| 1 Spray (N = 24) | 2 Spray (N = 23) | 3 Spray (N = 24) |  |
 | --- | --- | --- | --- |
-|  | 1 Spray (N = 24) | 2 Spray (N = 23) | 3 Spray (N = 24) |
-| Cmax (pg/mL)1 | 36.4 (62) | 57.4 (94) | 54.1 (50) |
-| Cmin (pg/mL)1 | 11.3 (52) | 18.1 (51) | 19.6 (27) |
-| Cavg (pg/mL)1 | 19.6 (49) | 30.7 (43) | 30.9 (30) |
-| AUC0-24 (pg*hr/mL)1 | 471 (49) | 736 (43) | 742 (30) |
-| Tmax (hours)2 | 20 (0-24) | 18 (0-24) | 20 (0-24) |
+| PK Parameter | Number of Daily Sprays of Evamist |  |  |
+| Cmax (pg/mL)1 Cmin (pg/mL)1 Cavg (pg/mL)1 AUC0-24 (pg*hr/mL)1 Tmax (hours)2 | 36.4 (62) 11.3 (52) 19.6 (49) 471 (49) 20 (0-24) | 57.4 (94) 18.1 (51) 30.7 (43) 736 (43) 18 (0-24) | 54.1 (50) 19.6 (27) 30.9 (30) 742 (30) 20 (0-24) |
 | 1 Values expressed are arithmetic means (%CV) |  |  |  |
 | 2 Values expressed are medians (minimum-maximum) |  |  |  |
 
@@ -52,7 +48,7 @@ Metabolism
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
-Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is the major urinary metabolite.
+Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 

@@ -4,17 +4,17 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In a 12-week, randomized, placebo-controlled trial of Evamist in 454 women, 80-90% of women randomized to active drug received at least 70 days of therapy and 75-85% randomized to placebo received at least 70 days of therapy.
+In a 12-week, randomized, placebo-controlled trial of Evamist in 454 women, 80-90 percent of women randomized to active drug received at least 70 days of therapy and 75-85 percent randomized to placebo received at least 70 days of therapy.
 
-The adverse reactions that occurred in at least 5% of women in any treatment group are shown in Table 1.
+The adverse reactions that occurred in at least 5 percent of women in any treatment group are shown in Table 1.
 
 Table 1.
 Frequency of Adverse Reactions (≥ 5%) in Any Treatment Group in a Controlled Study of Evamist
 
-|  |  |  | Frequency n (%) |  |  |  |
+|  |  | Frequency n (%) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| System Organ Class | 1 Spray |  | 2 Sprays |  | 3 Sprays |  |
-| Preferred Term | Placebo (N=77) | Evamist (N=76) | Placebo (N=76) | Evamist (N=74) | Placebo (N=75) | Evamist (N=76) |
+| System Organ Class Preferred Term | 1 Spray |  | 2 Sprays |  | 3 Sprays |  |
+| Placebo (N = 77) | Evamist (N = 76) | Placebo (N = 76) | Evamist (N = 74) | Placebo (N = 75) | Evamist (N = 76) |  |
 | Reproductive System and Breast Disorders |  |  |  |  |  |  |
 | Breast tenderness | 0 (0) | 4 (5) | 4 (5) | 5 (7) | 0 (0) | 4 (5) |
 | Nipple pain | 0 (0) | 2 (3) | 0 (0) | 5 (7) | 0 (0) | 1 (1) |
@@ -30,7 +30,7 @@ Frequency of Adverse Reactions (≥ 5%) in Any Treatment Group in a Controlled S
 
 Application site reactions were reported in 3 out of 226 (1.3%) women treated with Evamist.
 
-## 6.2 Additional Adverse Reactions Reported With Estrogen and/or Progestin Therapy.
+## 6.2 Additional Adverse Reactions Reported With Estrogen and/or Progestin Therapy
 
 The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
 
