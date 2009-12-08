@@ -1,4 +1,4 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ROZEREM is available as round, pale orange-yellow, film-coated, 8 mg tablets, with “TAK” and “RAM-8” printed on one side, in the following quantities:
 

@@ -1,6 +1,6 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## 14.1Controlled Clinical Trials
+## 14.1 Controlled Clinical Trials
 
 Chronic Insomnia
 
@@ -34,7 +34,7 @@ Transient Insomnia
 In a randomized, double-blind, parallel-group trial using a first-night-effect model, healthy adults received placebo or ROZEREM before spending one night in a sleep laboratory and being evaluated with PSG.
 ROZEREM demonstrated a decrease in mean latency to persistent sleep as compared to placebo.
 
-## 14.2Studies Pertinent to Safety Concerns for Sleep-promoting Drugs
+## 14.2 Studies Pertinent to Safety Concerns for Sleep-promoting Drugs
 
 Results from Human Laboratory Abuse Liability Studies
 
@@ -71,7 +71,7 @@ Rebound Insomnia: Rebound insomnia was assessed in the 35-day studies by measuri
 One of these studies employed PSG in younger adult subjects receiving ROZEREM 8 mg or 16 mg; the other two studies employed subjective measures of sleep-onset insomnia in elderly subjects receiving ROZEREM 4 mg or 8 mg, and in younger adult subjects receiving ROZEREM 8 mg or 16 mg.
 There was no evidence that ROZEREM caused rebound insomnia during the post-treatment period.
 
-## 14.3Studies to Evaluate Effects on Endocrine Function
+## 14.3 Studies to Evaluate Effects on Endocrine Function
 
 Two controlled studies evaluated the effects of ROZEREM on endocrine function.
 

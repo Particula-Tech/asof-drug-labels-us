@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in greater detail in other sections:
 
@@ -6,7 +6,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)]
 - CNS effects [see Warnings and Precautions (5.4)]
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Adverse Reactions Resulting in Discontinuation of Treatment
 

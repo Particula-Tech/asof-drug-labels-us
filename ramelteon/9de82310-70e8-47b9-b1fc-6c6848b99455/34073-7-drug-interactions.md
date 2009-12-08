@@ -1,6 +1,6 @@
-# 7DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-## 7.1Effects of Other Drugs on ROZEREM
+## 7.1 Effects of Other Drugs on ROZEREM
 
 Fluvoxamine (strong CYP1A2 inhibitor): AUC0-inf for ramelteon increased approximately 190-fold, and the Cmax increased approximately 70-fold upon coadministration of fluvoxamine and ROZEREM, compared to ROZEREM administered alone.
 ROZEREM should not be used in combination with fluvoxamine [see Contraindications (4), Clinical Pharmacology (12.5)].
@@ -16,13 +16,13 @@ ROZEREM should be administered with caution in subjects taking strong CYP3A4 inh
 Fluconazole (strong CYP2C9 inhibitor): The AUC0-inf and Cmax of ramelteon was increased by approximately 150% when ROZEREM was coadministered with fluconazole.
 ROZEREM should be administered with caution in subjects taking strong CYP2C9 inhibitors such as fluconazole [see Clinical Pharmacology (12.5)].
 
-## 7.2Effect of Alcohol on ROZEREM
+## 7.2 Effect of Alcohol on ROZEREM
 
 Alcohol by itself impairs performance and can cause sleepiness.
 Since the intended effect of ROZEREM is to promote sleep, patients should be cautioned not to consume alcohol when using ROZEREM [see Clinical Pharmacology (12.5)].
 Use of the products in combination may have an additive effect.
 
-## 7.3Drug/Laboratory Test Interactions
+## 7.3 Drug/Laboratory Test Interactions
 
 ROZEREM is not known to interfere with commonly used clinical laboratory tests.
 In addition, in vitro data indicate that ramelteon does not cause false-positive results for benzodiazepines, opiates, barbiturates, cocaine, cannabinoids, or amphetamines in two standard urine drug screening methods in vitro.

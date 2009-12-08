@@ -1,4 +1,4 @@
-# 3DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 ROZEREM is available in an 8 mg strength tablet for oral administration.
 

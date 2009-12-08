@@ -14,22 +14,6 @@ Takeda
 
 Rx Only
 
-PRINCIPAL DISPLAY PANEL - 100 Tablets
-
-NDC 64764-805-10
-
-100 Tablets
-
-Rozerem® (ramelteon tablets) 8 mg
-
-Each film-coated tablet contains 8 mg of ramelteon.
-
-Dispense with Medication Guide in package insert or at www.rozerem.com
-
-Takeda
-
-Rx Only
-
 PRINCIPAL DISPLAY PANEL - 2 ct Sample Blister
 
 Professional Sample–Not for Sale

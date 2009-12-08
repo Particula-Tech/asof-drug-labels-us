@@ -1,6 +1,6 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 ROZEREM (ramelteon) is a melatonin receptor agonist with both high affinity for melatonin MT1 and MT2 receptors and selectivity over the MT3 receptor.
 Ramelteon demonstrates full agonist activity in vitro in cells expressing human MT1 or MT2 receptors.
@@ -17,7 +17,7 @@ Similar to ramelteon, M-II does not interfere with the activity of a number of e
 
 All other known metabolites of ramelteon are inactive.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 The pharmacokinetic profile of ROZEREM has been evaluated in healthy subjects as well as in subjects with hepatic or renal impairment.
 When administered orally to humans in doses ranging from 4 to 64 mg, ramelteon undergoes rapid, high first-pass metabolism, and exhibits linear pharmacokinetics.
@@ -64,7 +64,7 @@ Median Tmax was delayed by approximately 45 minutes when ROZEREM was administere
 Effects of food on the AUC values for M-II were similar.
 It is therefore recommended that ROZEREM not be taken with or immediately after a high-fat meal [see Dosage and Administration (2.1)].
 
-## 12.4Pharmacokinetics in Special Populations
+## 12.4 Pharmacokinetics in Special Populations
 
 Age: In a group of 24 elderly subjects aged 63 to 79 years administered a single ROZEREM 16 mg dose, the mean Cmax and AUC0-inf values were 11.6 ng/mL (SD, 13.8) and 18.7 ng·hr/mL (SD, 19.4), respectively.
 The elimination half-life was 2.6 hours (SD, 1.1).
@@ -83,7 +83,7 @@ However, no effects on Cmax or AUC0-t of parent drug or M-II were seen in any of
 These results are consistent with the negligible renal clearance of ramelteon, which is principally eliminated via hepatic metabolism.
 No adjustment of ROZEREM dosage is required in patients with renal impairment, including patients with severe renal impairment (creatinine clearance of ≤ 30 mL/min/1.73 m2) and patients who require chronic hemodialysis.
 
-## 12.5Drug-Drug Interactions
+## 12.5 Drug-Drug Interactions
 
 ROZEREM has a highly variable intersubject pharmacokinetic profile (approximately 100% coefficient of variation in Cmax and AUC).
 As noted above, CYP1A2 is the major isozyme involved in the metabolism of ROZEREM; the CYP2C subfamily and CYP3A4 isozymes are also involved to a minor degree.

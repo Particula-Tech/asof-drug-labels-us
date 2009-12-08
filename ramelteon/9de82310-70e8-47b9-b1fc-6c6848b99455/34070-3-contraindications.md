@@ -1,4 +1,4 @@
-# 4CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Patients who develop angioedema after treatment with ROZEREM should not be rechallenged with the drug.
 
