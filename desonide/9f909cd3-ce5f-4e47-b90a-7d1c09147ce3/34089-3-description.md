@@ -6,8 +6,6 @@ Chemically, desonide is (11β,16α)-11,21-dihydroxy-16,17-[(1-methylethylidene)-
 
 The structural formula of desonide is represented below:
 
-Figure 1: Structural Formula
-
 Desonide has a molecular formula of C24H32O6 and a molecular weight of 416.51.
 Desonide is a white powder or crystal that is practically insoluble in water, sparingly soluble in ethanol and in acetone, and soluble in chloroform.
 Each gram of Verdeso Foam contains 0.5 mg desonide.

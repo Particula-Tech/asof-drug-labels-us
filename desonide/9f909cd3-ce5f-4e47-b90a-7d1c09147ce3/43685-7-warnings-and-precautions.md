@@ -139,10 +139,12 @@ U.S. Patent No. 6,730,288
 
 U.S. Patent No. 7,029,659
 
-Verdeso and VersaFoam-EF are trademarks, and the V logo and Stiefel are registered trademarks of Stiefel Laboratories, Inc.
+STIEFEL® Verdeso and VersaFoam-EF are trademarks, and the V logo and Stiefel are registered trademarks of Stiefel Laboratories, Inc.
 
 ©2007 Stiefel Laboratories, Inc.
 
 Printed in: USA
 
 March 2007
+
+VERSAFOAM-EF®
