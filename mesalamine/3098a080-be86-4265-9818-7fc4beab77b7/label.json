@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022000"
+  ],
   "inn": "mesalamine",
-  "labeler": "Shire US Inc.",
+  "labeler": "Shire US Manufacturing Inc.",
   "package_ndcs": [
     "54092-476-12"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "Lialda"
+    }
+  ],
   "setid": "3098a080-be86-4265-9818-7fc4beab77b7",
   "source": "dailymed"
 }

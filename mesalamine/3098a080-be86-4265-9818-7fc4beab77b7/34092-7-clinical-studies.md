@@ -1,6 +1,6 @@
-# CLINICAL TRIALS
+# 14 CLINICAL STUDIES
 
-Active, Mild to Moderate Ulcerative Colitis
+## 14.1 Active, Mild to Moderate Ulcerative Colitis
 
 Two similarly designed, randomized, double blind, placebo-controlled trials were conducted in 517 adult patients with active, mild to moderate ulcerative colitis.
 The study population was primarily Caucasian (80%), had a mean age of 42 years (6% age 65 years or older), and was approximately 50% male.
@@ -8,16 +8,14 @@ Both studies used LIALDA doses of 2.4g/day and 4.8g/day administered once daily 
 The primary efficacy end-point in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the LIALDA treatment groups vs placebo.
 Remission was defined as an Ulcerative Colitis Disease Activity Index (UC-DAI) of ≤ 1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline.
 
-In both studies, the LIALDA doses of 2.4g/day and 4.8g/day demonstrated superiority over placebo in the primary efficacy endpoint (Table 2).
+In both studies, the LIALDA doses of 2.4g/day and 4.8g/day demonstrated superiority over placebo in the primary efficacy endpoint (Table 4).
 Both LIALDA doses also provided consistent benefit in secondary efficacy parameters, including clinical improvement, treatment failure, clinical remission, and sigmoidoscopic improvement.
 LIALDA 2.4g/day and 4.8g/day had similar efficacy profiles.
 
-Table 2: Patients in Remission at Week 8
+Table 4: Patients in Remission at Week 8
 
-|  | n/N (%) | n/N (%) |
+| Dose | Study 1 (n=262) n/N (%) | Study 2 (n=255) n/N (%) |
 | --- | --- | --- |
-| Dose | Study 1 | Study 2 |
-|  | (n=262) | (n=255) |
 | LIALDA 2.4g/day | 30/88 (34.1) | 34/84 (40.5) |
 | LIALDA 4.8g/day | 26/89 (29.2) | 35/85 (41.2) |
 | Placebo | 11/85 (12.9) | 19/86 (22.1) |
