@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- 
-- 
-- 
+- Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)].
+- Acute Renal Failure [see Warnings and Precautions (5.2)].
+- Central Nervous System Effects [see Warnings and Precautions (5.3)].
 
 The most common adverse reactions reported in at least 1 indication by > 10% of adult patients treated with valacyclovir hydrochloride and observed more frequently with valacyclovir hydrochloride compared to placebo are headache, nausea, and abdominal pain.
 The only adverse reaction reported in > 10% of pediatric patients < 18 years of age was headache.

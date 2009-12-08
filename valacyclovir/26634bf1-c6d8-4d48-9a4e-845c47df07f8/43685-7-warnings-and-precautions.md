@@ -9,8 +9,10 @@ Treatment with valacyclovir hydrochloride should be stopped immediately if clini
 
 Cases of acute renal failure have been reported in:
 
-- 
-- 
+- Elderly patients with or without reduced renal function.
+  Caution should be exercised when administering valacyclovir hydrochloride to geriatric patients, and dosage reduction is recommended for those with impaired renal function [see Dosage and Administration (2.4), Use in Specific Populations (8.5)].
+- Patients with underlying renal disease who received higher than recommended doses of valacyclovir hydrochloride for their level of renal function.
+  Dosage reduction is recommended when administering valacyclovir hydrochloride to patients with renal impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.6)].
 - Patients receiving other nephrotoxic drugs.
   Caution should be exercised when administering valacyclovir hydrochloride to patients receiving potentially nephrotoxic drugs.
 - Patients without adequate hydration.
