@@ -143,6 +143,11 @@ Do not take PRISTIQ with other medicines containing venlafaxine or desvenlafaxin
   If you take more PRISTIQ than the amount prescribed, contact your healthcare provider right away.
 - In case of an overdose of PRISTIQ, call your healthcare provider or poison control center, or go to the emergency room right away.
 
+### Switching from other antidepressants
+
+Side effects from discontinuing antidepressant medication have occurred when patients switched from other antidepressants, including venlafaxine, to PRISTIQ.
+Your doctor may gradually reduce the dose of your initial antidepressant medication to help to reduce these side effects.
+
 ### What should I avoid while taking PRISTIQ?
 
 - Do not drive a car or operate machinery until you know how PRISTIQ affects you.
@@ -259,7 +264,7 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C010
+W10529C011
 
 ET01
 

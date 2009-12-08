@@ -51,7 +51,12 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.
 
-## 2.5 Switching Patients To or From a Monoamine Oxidase Inhibitor (MAOI)
+## 2.5 Switching Patients From Other Antidepressants to PRISTIQ
+
+Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to PRISTIQ.
+Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms [see Contraindications (4.2)].
+
+## 2.6 Switching Patients To or From a Monoamine Oxidase Inhibitor (MAOI)
 
 At least 14 days must elapse between discontinuation of an MAOI and initiation of therapy with PRISTIQ.
 In addition, at least 7 days must be allowed after stopping PRISTIQ before starting an MAOI [see Contraindications (4.2)].

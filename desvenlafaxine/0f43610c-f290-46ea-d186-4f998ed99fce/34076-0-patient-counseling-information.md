@@ -47,27 +47,32 @@ Advise patients that elevations in total cholesterol, LDL and triglycerides may 
 Advise patients not to stop taking PRISTIQ without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping PRISTIQ [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
 
-## 17.11 Interference with Cognitive and Motor Performance
+## 17.11 Switching Patients From Other Antidepressants to PRISTIQ
+
+Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to PRISTIQ.
+Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.
+
+## 17.12 Interference with Cognitive and Motor Performance
 
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that PRISTIQ therapy does not adversely affect their ability to engage in such activities.
 
-## 17.12 Alcohol
+## 17.13 Alcohol
 
 Advise patients to avoid alcohol while taking PRISTIQ [see Drug Interactions (7.5)].
 
-## 17.13 Allergic Reactions
+## 17.14 Allergic Reactions
 
 Advise patients to notify their physician if they develop allergic phenomena such as rash, hives, swelling, or difficulty breathing.
 
-## 17.14 Pregnancy
+## 17.15 Pregnancy
 
 Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-## 17.15 Nursing
+## 17.16 Nursing
 
 Advise patients to notify their physician if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
 
-## 17.16 Residual Inert Matrix Tablet
+## 17.17 Residual Inert Matrix Tablet
 
 Patients receiving PRISTIQ may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
