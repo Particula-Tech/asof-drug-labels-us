@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0007-4640-13
 
@@ -28,5 +28,5 @@ RTP, NC 27709
 
 Made in England
 
-10000000057875 Rev.
-9/08
+10000000070831 Rev.
+10/09

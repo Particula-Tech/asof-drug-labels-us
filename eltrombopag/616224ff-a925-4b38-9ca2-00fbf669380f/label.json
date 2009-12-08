@@ -3,10 +3,11 @@
     "NDA022291"
   ],
   "inn": "eltrombopag",
-  "labeler": "SmithKline Beecham Corporation",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0007-4640-13",
-    "0007-4641-13"
+    "0007-4641-13",
+    "0007-4642-13"
   ],
   "products": [
     {
