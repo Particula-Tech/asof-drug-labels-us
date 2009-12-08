@@ -1,4 +1,6 @@
-## WARNINGS ENDOMETRIAL CANCER
+## WARNINGS
+
+ENDOMETRIAL CANCER
 
 Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
 (See WARNINGS, Malignant neoplasms, Endometrial cancer.)

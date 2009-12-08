@@ -1,6 +1,8 @@
 # PATIENT INFORMATION
 
-PREMARIN® (conjugated estrogens tablets, USP)
+PREMARIN®
+
+(conjugated estrogens tablets, USP)
 
 Read this PATIENT INFORMATION before you start taking PREMARIN and read what you get each time you refill your PREMARIN prescription.
 There may be new information.
@@ -34,7 +36,7 @@ PREMARIN is a medicine that contains a mixture of estrogen hormones.
 
 ## PREMARIN is also used to:
 
-- Treat certain conditions in women before menopause if their ovariesdo not make enough estrogen naturally.
+- Treat certain conditions in women before menopause if their ovaries do not make enough estrogen naturally.
 - Ease symptoms of certain cancers that have spread through the body, in men and women.
 
 ## Who should not take PREMARIN?
@@ -73,7 +75,9 @@ Do not start taking PREMARIN if you:
 - Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with PREMARIN.
 
-## What are the possible side effects of PREMARIN? Side effects are grouped by how serious they are and how often they happen when you are treated.
+## What are the possible side effects of PREMARIN?
+
+### Side effects are grouped by how serious they are and how often they happen when you are treated.
 
 ### Serious but less common side effects include:
 
@@ -173,6 +177,12 @@ Store at Controlled Room Temperature 20° – 25°C (68° – 77°F).
 
 Wyeth®
 
-Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
+Wyeth Pharmaceuticals Inc.
 
-W10405C023 ET01 Rev 05/08
+Philadelphia, PA 19101
+
+W10405C023
+
+ET02
+
+Rev 05/08

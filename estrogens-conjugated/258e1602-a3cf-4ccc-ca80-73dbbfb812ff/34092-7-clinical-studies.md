@@ -8,11 +8,11 @@ PREMARIN (0.3 mg, 0.45 mg, and 0.625 mg tablets) was shown to be statistically b
 Table 2 shows the adjusted mean number of hot flushes in the PREMARIN 0.3 mg, 0.45 mg, and 0.625 mg and placebo treatment groups over the initial 12-week period.
 
 TABLE 2.
-SUMMARY TABULATION OF THE NUMBER OF HOT FLUSHES PER DAY– MEAN VALUES AND COMPARISONS BETWEEN THE ACTIVE TREATMENT GROUPS AND THE PLACEBO GROUP: PATIENTS WITH AT LEAST 7 MODERATE TO SEVERE FLUSHES PER DAY OR AT LEAST 50 PER WEEK AT BASELINE, LAST OBSERVATION CARRIED FORWARD (LOCF)
+SUMMARY TABULATION OF THE NUMBER OF HOT FLUSHES PER DAY – MEAN VALUES AND COMPARISONS BETWEEN THE ACTIVE TREATMENT GROUPS AND THE PLACEBO GROUP: PATIENTS WITH AT LEAST 7 MODERATE TO SEVERE FLUSHES PER DAY OR AT LEAST 50 PER WEEK AT BASELINE, LAST OBSERVATION CARRIED FORWARD (LOCF)
 
-| Time Period (week) | Baseline Mean ± SD | Observed Mean ± SD | Mean Change ± SD | p-Values vs. Placeboa |
+| Treatment (No. of Patients) | -------------------No. of Hot Flushes/Day------------------ |  |  |  |
 | --- | --- | --- | --- | --- |
-| Treatment (No. of Patients) | --------------- No. of Hot Flushes/Day ------------------ |  |  |  |
+| Time Period (week) | Baseline Mean ± SD | Observed Mean ± SD | Mean Change ± SD | p-Values vs. Placeboa |
 | 0.625 mg CE (n = 27) |  |  |  |  |
 | 4 12 | 12.29 ± 3.89 12.29 ± 3.89 | 1.95 ± 2.77 0.75 ± 1.82 | -10.34 ± 4.73 -11.54 ± 4.62 | <0.001 <0.001 |
 | 0.45 mg CE (n = 32) |  |  |  |  |
@@ -107,7 +107,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN ALONE SUBSTUDY OF WHI
 | Death due to other causesc,e | 1.08 (0.88-1.32) | 50 | 53 |
 | Overall mortalityc,d | 1.04 (0.88-1.22) | 78 | 81 |
 | Global Indexc,f | 1.01 (0.91-1.12) | 190 | 192 |
-| aNominal confidence intervals unadjusted for multiple looks and multiple comparisons. bResults are based on centrally adjudicated data for an average follow-up of 7.1 years. cResults are based on an average follow-up of 6.8 years. dNot included in Global Index. eAll deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. fA subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| aNominal confidence intervals unadjusted for multiple looks and multiple comparisons.bResults are based on centrally adjudicated data for an average follow-up of 7.1 years.cResults are based on an average follow-up of 6.8 years.dNot included in Global Index.eAll deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease.fA subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
 For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE alone were 12 more strokes while the absolute risk reduction per 10,000 women-years was 6 fewer hip fractures.
 The absolute excess risk of events included in the “global index” was a nonsignificant 2 events per 10,000 women-years.
@@ -150,7 +150,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI A
 | Vertebral fractures | 0.65 (0.46-0.92) | 17 | 11 |
 | Lower arm/wrist fractures | 0.71 (0.59-0.85) | 62 | 44 |
 | Total fractures | 0.76 (0.69-0.83) | 199 | 152 |
-| aResults are based on centrally adjudicated data. Mortalitydata was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI 0.82-1.18). bNominal confidence intervals unadjusted for multiple looks and multiple comparisons. cIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
+| aResults are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCl 0.82-1.18).bNominal confidence intervals unadjusted for multiple looks and multiple comparisons.cIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
 
 ## Women's Health Initiative Memory Study
 
