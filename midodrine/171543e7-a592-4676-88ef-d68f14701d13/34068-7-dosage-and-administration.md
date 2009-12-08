@@ -9,7 +9,7 @@ In order to reduce the potential for supine hypertension during sleep, ProAmatin
 Total daily doses greater than 30 mg have been tolerated by some patients, but their safety and usefulness have not been studied systematically or established.
 Because of the risk of supine hypertension, ProAmatine® should be continued only in patients who appear to attain symptomatic improvement during initial treatment.
 
-The supine and standing blood pressure should be monitored regulary, and the administration of ProAmatine® should be stopped if supine blood pressure increases excessively.
+The supine and standing blood pressure should be monitored regularly, and the administration of ProAmatine® should be stopped if supine blood pressure increases excessively.
 
 Because desglymidodrine is excreted renally, dosing in patients with abnormal renal function should be cautious; although this has not been systematically studied, it is recommended that treatment of these patients be initiated using 2.5-mg doses.
 

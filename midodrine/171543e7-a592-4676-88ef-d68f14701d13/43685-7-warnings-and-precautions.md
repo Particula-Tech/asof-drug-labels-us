@@ -12,7 +12,7 @@ It is essential to monitor supine and sitting blood pressures in patients mainta
 
 ## General
 
-The potential for supine and sitting hypertension should be evaluated at the beginning of ProAmatine®therapy.
+The potential for supine and sitting hypertension should be evaluated at the beginning of ProAmatine® therapy.
 Supine hypertension can often be controlled by preventing the patient from becoming fully supine, i.e., sleeping with the head of the bed elevated.
 The patient should be cautioned to report symptoms of supine hypertension immediately.
 Symptoms may include cardiac awareness, pounding in the ears, headache, blurred vision, etc. The patient should be advised to discontinue the medication immediately if supine hypertension persists.
@@ -48,9 +48,7 @@ Since desglymidodrine is eliminated by the kidneys and the liver has a role in i
 
 When administered concomitantly with ProAmatine®, cardiac glycosides may enhance or precipitate bradycardia, A.V. block or arrhythmia.
 
-The use of drugs that stimulate alpha-adrenergic receptors (e.g., phenylephrine,
-
-pseudoephedrine, ephedrine, phenylpropanolamine or dihydroergotamine) may enhance or potentiate the pressor effects of ProAmatine®.
+The use of drugs that stimulate alpha-adrenergic receptors (e.g., phenylephrine, pseudoephedrine, ephedrine, phenylpropanolamine or dihydroergotamine) may enhance or potentiate the pressor effects of ProAmatine®.
 Therefore, caution should be used when ProAmatine® is administered concomitantly with agents that cause vasoconstriction.
 
 ProAmatine® has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., fludrocortisone acetate), with or without salt supplementation.

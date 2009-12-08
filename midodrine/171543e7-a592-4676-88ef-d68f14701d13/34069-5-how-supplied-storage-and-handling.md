@@ -13,7 +13,7 @@ The 10-mg is blue, round, and biplanar, with a bevelled edge, and is scored on o
 
 Store at 25°C (77°F)
 
-Excursions permitted to 15-30°C (59-86°F)
+Excursions permitted to 15-30 °C (59-86 °F)
 
 [see USP Controlled Room Temperature]
 
@@ -31,9 +31,3 @@ Rev.
 003 0107 006
 
 Rx only
-
-7802285
-
-0311 2
-
-Code 497
