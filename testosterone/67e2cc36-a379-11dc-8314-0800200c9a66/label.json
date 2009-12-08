@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA009165"
+  ],
   "inn": "testosterone",
-  "labeler": "Indevus Pharmaceuticals, Inc.",
+  "labeler": "Endo Pharmaceuticals Solutions Inc",
   "package_ndcs": [
     "67979-501-40"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "testosterone enanthate",
+      "name": "DELATESTRYL"
+    }
+  ],
   "setid": "67e2cc36-a379-11dc-8314-0800200c9a66",
   "source": "dailymed"
 }
