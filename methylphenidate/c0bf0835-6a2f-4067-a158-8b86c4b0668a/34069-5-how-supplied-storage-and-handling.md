@@ -2,15 +2,15 @@
 
 Tablets 5 mg - round, yellow (imprinted CIBA 7)
 
-Bottles of 100……………………………………………………………......NDC 0078-0439-05
+Bottles of 100 ……………………………......NDC 0078-0439-05
 
 Tablets 10 mg - round, pale green, scored (imprinted CIBA 3)
 
-Bottles of 100……………………………………………………………......NDC 0078-0440-05
+Bottles of 100 NDC 0078-0440-05
 
 Tablets 20 mg - round, pale yellow, scored (imprinted CIBA 34)
 
-Bottles of 100……………………………………………………………......NDC 0078-0441-05
+Bottles of 100 ………………………………………………………......NDC 0078-0441-05
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Protect from light.
@@ -27,5 +27,3 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Con
 Protect from moisture.
 
 Dispense in tight, light-resistant container (USP).
-
-REV: APRIL 2007 T2007-23

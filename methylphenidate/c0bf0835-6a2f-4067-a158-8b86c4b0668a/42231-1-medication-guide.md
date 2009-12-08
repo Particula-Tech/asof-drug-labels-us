@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 RITALIN®
 
@@ -94,7 +94,6 @@ Other serious side effects include:
 Common side effects include:
 
 - headache • decreased appetite
-
 - stomach ache • nervousness
 - trouble sleeping
 - nausea
@@ -127,11 +126,12 @@ Active Ingredient: methylphenidate HCL
 
 Inactive Ingredients: D&C Yellow No.10 (5-mg and 20-mg tablets), FD&C Green No.3 (10-mg tablets), lactose, magnesium stearate, polyethylene glycol, starch (5-mg and 10-mg tablets), sucrose, talc, and tragacanth (20-mg tablets).
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: APRIL 2007 T2007-38
-
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 RITALIN-SR®
 
@@ -263,12 +263,15 @@ Active Ingredient: methylphenidate HCL, USP
 
 Inactive Ingredients: cellulose compounds, cetostearyl alcohol, lactose, magnesium stearate, mineral oil, povidone, titanium dioxide, and zein
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: APRIL 2007 T2007-40
-
-REV: APRIL 2007 Printed in U.S.A. T2007-23/T2007-38/T2007-40
+REV: APRIL 2009 T2009-56/T2005-57/T2009-58
 
 Novartis Pharmaceuticals Corporation
 
-East Hanover, New Jersey 07936 © Novartis
+East Hanover, New Jersey 07936
+
+© Novartis
