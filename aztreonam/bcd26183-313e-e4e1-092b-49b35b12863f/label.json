@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050580"
+  ],
   "inn": "aztreonam",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "Elan Pharmaceuticals, Inc.",
   "package_ndcs": [
     "51479-041-15",
     "51479-042-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "aztreonam",
+      "name": "AZACTAM"
+    }
+  ],
   "setid": "bcd26183-313e-e4e1-092b-49b35b12863f",
   "source": "dailymed"
 }

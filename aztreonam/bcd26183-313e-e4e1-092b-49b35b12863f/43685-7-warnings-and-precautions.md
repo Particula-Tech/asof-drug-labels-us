@@ -1,6 +1,6 @@
 # WARNINGS
 
-Both animal and human data suggest that AZACTAM is rarely cross-reactive with other beta-lactam antibiotics and weakly immunogenic.
+Both animal and human data suggest that AZACTAM (aztreonam for injection, USP) is rarely cross-reactive with other beta-lactam antibiotics and weakly immunogenic.
 Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure.
 (See CONTRAINDICATIONS.)
 
@@ -23,7 +23,7 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy and other concomitantly administered drugs associated with toxic epidermal necrolysis.
+Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy, and other concomitantly administered drugs associated with toxic epidermal necrolysis.
 
 # PRECAUTIONS
 
@@ -35,7 +35,7 @@ In patients with impaired hepatic or renal function, appropriate monitoring is r
 
 If an aminoglycoside is used concurrently with aztreonam, especially if high dosages of the former are used or if therapy is prolonged, renal function should be monitored because of the potential nephrotoxicity and ototoxicity of aminoglycoside antibiotics.
 
-The use of antibiotics may promote the overgrowth of nonsusceptible organisms, including gram-positive organisms (Staphylococcus aureus and Streptococcus faecalis) and fungi.
+The use of antibiotics may promote the overgrowth of nonsusceptible organisms, including Gram-positive organisms (Staphylococcus aureus and Streptococcus faecalis) and fungi.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
 ## Information for Patients
@@ -46,7 +46,7 @@ When AZACTAM is prescribed to treat a bacterial infection, patients should be to
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by AZACTAM or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -55,8 +55,8 @@ Carcinogenicity studies in animals have not been performed.
 
 Genetic toxicology studies performed in vivo and in vitro with aztreonam in several standard laboratory models revealed no evidence of mutagenic potential at the chromosomal or gene level.
 
-Two-generation reproduction studies in rats at daily doses up to 20 times the maximum recommended human dose, prior to and during gestation and lactation, revealed no evidence of impaired fertility.
-There was a slightly reduced survival rate during the lactation period in the offspring of rats that received the highest dosage, but not in offspring of rats that received 5 times the maximum recommended human dose.
+Two-generation reproduction studies in rats at daily doses up to 20 times the maximum recommended human dose (MRHD), prior to and during gestation and lactation, revealed no evidence of impaired fertility.
+There was a slightly reduced survival rate during the lactation period in the offspring of rats that received the highest dosage, but not in offspring of rats that received 5 times the MRHD.
 
 ## Pregnancy
 
@@ -64,8 +64,8 @@ There was a slightly reduced survival rate during the lactation period in the of
 
 Aztreonam crosses the placenta and enters the fetal circulation.
 
-Studies in pregnant rats and rabbits, with daily doses up to 15 and 5 times, respectively, the maximum recommended human dose, revealed no evidence of embryo- or fetotoxicity or teratogenicity.
-No drug induced changes were seen in any of the maternal, fetal, or neonatal parameters that were monitored in rats receiving 15 times the maximum recommended human dose of aztreonam during late gestation and lactation.
+Studies in pregnant rats and rabbits, with daily doses up to 15 and 5 times, respectively, the MRHD, revealed no evidence of embryo- or fetotoxicity or teratogenicity.
+No drug induced changes were seen in any of the maternal, fetal, or neonatal parameters that were monitored in rats receiving 15 times the MRHD of aztreonam during late gestation and lactation.
 
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, aztreonam should be used during pregnancy only if clearly needed.
@@ -76,7 +76,7 @@ Aztreonam is excreted in human milk in concentrations that are less than 1% of c
 
 ## Pediatric Use
 
-The safety and effectiveness of intravenous AZACTAM (aztreonam for injection, USP) have been established in the age groups 9 months to 16 years.
+The safety and effectiveness of intravenous AZACTAM have been established in the age groups 9 months to 16 years.
 Use of AZACTAM in these age groups is supported by evidence from adequate and well-controlled studies of AZACTAM in adults with additional efficacy, safety, and pharmacokinetic data from non-comparative clinical studies in pediatric patients.
 Sufficient data are not available for pediatric patients under 9 months of age or for the following treatment indications/pathogens: septicemia and skin and skin-structure infections (where the skin infection is believed or known to be due to H. influenzae type b). In pediatric patients with cystic fibrosis, higher doses of AZACTAM may be warranted.
 (See CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION, and CLINICAL STUDIES.)

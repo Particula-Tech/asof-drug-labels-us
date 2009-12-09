@@ -1,17 +1,20 @@
 # CLINICAL PHARMACOLOGY
 
-Single 30-minute intravenous infusions of 500 mg, 1 g, and 2 g doses of AZACTAM (aztreonam for injection, USP) in healthy subjects produced aztreonam peak serum levels of 54 µg/mL, 90 µg/mL, and 204 µg/mL, respectively, immediately after administration; at 8 hours, serum levels were 1µg/mL, 3µg/mL, and 6 µg/mL, respectively (Figure 1).
-Single 3-minute intravenous injections of the same doses resulted in serum levels of 58 µg/mL, 125 µg/mL, and 242µg/mL at 5 minutes following completion of injection.
+Single 30-minute intravenous infusions of 500 mg, 1 g, and 2 g doses of AZACTAM in healthy subjects produced aztreonam peak serum levels of 54 mcg/mL, 90 mcg/mL, and 204 mcg/mL, respectively, immediately after administration; at 8 hours, serum levels were 1 mcg/mL, 3 mcg/mL, and 6 mcg/mL, respectively (Figure 1).
+Single 3-minute intravenous injections of the same doses resulted in serum levels of 58 mcg/mL, 125 mcg/mL, and 242 mcg/mL at 5 minutes following completion of injection.
 
 Serum concentrations of aztreonam in healthy subjects following completion of single intramuscular injections of 500 mg and 1 g doses are depicted in Figure 1; maximum serum concentrations occur at about 1 hour.
 After identical single intravenous or intramuscular doses of AZACTAM, the serum concentrations of aztreonam are comparable at 1 hour (1.5 hours from start of intravenous infusion) with similar slopes of serum concentrations thereafter.
 
-The serum levels of aztreonam following single 500 mg or 1 g (intramuscular or intravenous) or 2 g (intravenous) doses of AZACTAM exceed the MIC90 for Neisseria sp., Haemophilus influenzae and most genera of the Enterobacteriaceae for 8 hours (for Enterobacter sp., the 8-hour serum levels exceed the MIC for 80% of strains).
+| FIGURE 1 |
+| --- |
+
+The serum levels of aztreonam following single 500 mg or 1 g (intramuscular or intravenous) or 2 g (intravenous) doses of AZACTAM exceed the MIC90 for Neisseria sp., Haemophilus influenzae, and most genera of the Enterobacteriaceae for 8 hours (for Enterobacter sp., the 8-hour serum levels exceed the MIC for 80% of strains).
 For Pseudomonas aeruginosa, a single 2 g intravenous dose produces serum levels that exceed the MIC90 for approximately 4 to 6 hours.
 All of the above doses of AZACTAM result in average urine levels of aztreonam that exceed the MIC90 for the same pathogens for up to 12 hours.
 
 When aztreonam pharmacokinetics were assessed for adult and pediatric patients, they were found to be comparable (down to 9 months old).
-The serum half-life of aztreonam averaged 1.7 hours (1.5 to 2.0) in subjects with normal renal function, independent of the dose and route of administration.
+The serum half-life of aztreonam averaged 1.7 hours (1.5-2.0) in subjects with normal renal function, independent of the dose and route of administration.
 In healthy subjects, based on a 70 kg person, the serum clearance was 91 mL/min and renal clearance was 56 mL/min; the apparent mean volume of distribution at steady-state averaged 12.6 liters, approximately equivalent to extracellular fluid volume.
 
 In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.1-4 The dosage of AZACTAM should be adjusted accordingly (see DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients).
@@ -20,9 +23,9 @@ In patients with impaired renal function, the serum half-life of aztreonam is pr
 (See DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients.)
 The serum half-life of aztreonam is only slightly prolonged in patients with hepatic impairment since the liver is a minor pathway of excretion.
 
-Average urine concentrations of aztreonam were approximately 1100µg/mL, 3500 µg/mL, and 6600 µg/mL within the first 2 hours following single 500 mg, 1 g, and 2 g intravenous doses of AZACTAM (30-minute infusions), respectively.
-The range of average concentrations for aztreonam in the 8- to 12-hour urine specimens in these studies was 25 µg/mL to 120 µg/mL.
-After intramuscular injection of single 500 mg and 1 g doses of AZACTAM (aztreonam for injection, USP), urinary levels were approximately 500 µg/mL and 1200 µg/mL, respectively, within the first 2 hours, declining to 180 µg/mL and 470 µg/mL in the 6- to 8-hour specimens.
+Average urine concentrations of aztreonam were approximately 1100 mcg/mL, 3500 mcg/mL, and 6600 mcg/mL within the first 2 hours following single 500 mg, 1 g, and 2 g intravenous doses of AZACTAM (30-minute infusions), respectively.
+The range of average concentrations for aztreonam in the 8- to 12-hour urine specimens in these studies was 25 mcg/mL to 120 mcg/mL.
+After intramuscular injection of single 500 mg and 1 g doses of AZACTAM, urinary levels were approximately 500 mcg/mL and 1200 mcg/mL, respectively, within the first 2 hours, declining to 180 mcg/mL and 470 mcg/mL in the 6- to 8-hour specimens.
 In healthy subjects, aztreonam is excreted in the urine about equally by active tubular secretion and glomerular filtration.
 Approximately 60% to 70% of an intravenous or intramuscular dose was recovered in the urine by 8 hours.
 Urinary excretion of a single parenteral dose was essentially complete by 12 hours after injection.
@@ -32,14 +35,14 @@ Unchanged aztreonam and the inactive beta-lactam ring hydrolysis product of aztr
 Intravenous or intramuscular administration of a single 500 mg or 1 g dose of AZACTAM every 8 hours for 7 days to healthy subjects produced no apparent accumulation of aztreonam or modification of its disposition characteristics; serum protein binding averaged 56% and was independent of dose.
 An average of about 6% of a 1 g intramuscular dose was excreted as a microbiologically inactive open beta-lactam ring hydrolysis product (serum half-life approximately 26 hours) of aztreonam in the 0- to 8-hour urine collection on the last day of multiple dosing.
 
-Renal function was monitored in healthy subjects given aztreonam; standard tests (serum creatinine, creatinine clearance, BUN, urinalysis and total urinary protein excretion) as well as special tests (excretion of N-acetyl-β-glucosaminidase, alanine aminopeptidase and β2-microglobulin) were used.
+Renal function was monitored in healthy subjects given aztreonam; standard tests (serum creatinine, creatinine clearance, BUN, urinalysis, and total urinary protein excretion) as well as special tests (excretion of N-acetyl-β-glucosaminidase, alanine aminopeptidase, and β2-microglobulin) were used.
 No abnormal results were obtained.
 
 Aztreonam achieves measurable concentrations in the following body fluids and tissues:
 
 EXTRAVASCULAR CONCENTRATIONS OF AZTREONAM AFTER A SINGLE PARENTERAL DOSE1
 
-| Fluid or Tissue | Dose (g) | Route | Hours Post-injection | Number of Patients | Mean Concentration (µg/mL or µg/g) |
+| Fluid or Tissue | Dose (g) | Route | Hours Post-injection | Number of Patients | Mean Concentration (mcg/mL or mcg/g) |
 | --- | --- | --- | --- | --- | --- |
 | Fluids |  |  |  |  |  |
 | bile | 1 | IV | 2 | 10 | 39 |
@@ -66,28 +69,28 @@ EXTRAVASCULAR CONCENTRATIONS OF AZTREONAM AFTER A SINGLE PARENTERAL DOSE1
 | skeletal muscle | 2 | IV | 0.3-0.7 | 6 | 16 |
 | skin | 2 | IV | 0.0-1.0 | 8 | 25 |
 | sternum | 2 | IV | 1 | 6 | 6 |
-| 1Tissue penetration is regarded as essential to therapeutic efficacy, but specific tissue levels have not been correlated with specific therapeutic effects. |  |  |  |  |  |
+| 1 Tissue penetration is regarded as essential to therapeutic efficacy, but specific tissue levels have not been correlated with specific therapeutic effects. |  |  |  |  |  |
 
-The concentration of aztreonam in saliva at 30 minutes after a single 1 g intravenous dose (9 patients) was 0.2 µg/mL; in human milk at 2 hours after a single 1 g intravenous dose (6 patients), 0.2 µg/mL, and at 6 hours after a single 1 g intramuscular dose (6 patients), 0.3 µg/mL; in amniotic fluid at 6 to 8 hours after a single 1 g intravenous dose (5 patients), 2 µg/mL.
-The concentration of aztreonam in peritoneal fluid obtained 1 to 6 hours after multiple 2 g intravenous doses ranged between 12 µg/mL and 90µg/mL in 7 of 8 patients studied.
+The concentration of aztreonam in saliva at 30 minutes after a single 1 g intravenous dose (9 patients) was 0.2 mcg/mL; in human milk at 2 hours after a single 1 g intravenous dose (6 patients), 0.2 mcg/mL, and at 6 hours after a single 1 g intramuscular dose (6 patients), 0.3 mcg/mL; in amniotic fluid at 6 to 8 hours after a single 1 g intravenous dose (5 patients), 2 mcg/mL.
+The concentration of aztreonam in peritoneal fluid obtained 1 to 6 hours after multiple 2 g intravenous doses ranged between 12 mcg/mL and 90 mcg/mL in 7 of 8 patients studied.
 
 Aztreonam given intravenously rapidly reaches therapeutic concentrations in peritoneal dialysis fluid; conversely, aztreonam given intraperitoneally in dialysis fluid rapidly produces therapeutic serum levels.
 
 Concomitant administration of probenecid or furosemide and AZACTAM (aztreonam for injection, USP) causes clinically insignificant increases in the serum levels of aztreonam.
-Single-dose intravenous pharmacokinetic studies have not shown any significant interaction between aztreonam and concomitantly administered gentamicin, nafcillin sodium, cephradine, clindamycin or metronidazole.
+Single-dose intravenous pharmacokinetic studies have not shown any significant interaction between aztreonam and concomitantly administered gentamicin, nafcillin sodium, cephradine, clindamycin, or metronidazole.
 No reports of disulfiram-like reactions with alcohol ingestion have been noted; this is not unexpected since aztreonam does not contain a methyl-tetrazole side chain.
 
 ## Microbiology
 
-Aztreonam exhibits potent and specific activity in vitro against a wide spectrum of gram-negative aerobic pathogens including Pseudomonas aeruginosa.
+Aztreonam exhibits potent and specific activity in vitro against a wide spectrum of Gram-negative aerobic pathogens including Pseudomonas aeruginosa.
 The bactericidal action of aztreonam results from the inhibition of bacterial cell wall synthesis due to a high affinity of aztreonam for penicillin binding protein 3 (PBP3).
-Aztreonam, unlike the majority of beta-lactam antibiotics, does not induce beta-lactamase activity and its molecular structure confers a high degree of resistance to hydrolysis by beta-lactamases (ie, penicillinases and cephalosporinases) produced by most gram-negative and gram-positive pathogens; it is, therefore, usually active against gram-negative aerobic microorganisms that are resistant to antibiotics hydrolyzed by beta-lactamases.
+Aztreonam, unlike the majority of beta-lactam antibiotics, does not induce beta-lactamase activity and its molecular structure confers a high degree of resistance to hydrolysis by beta-lactamases (ie, penicillinases and cephalosporinases) produced by most Gram-negative and Gram-positive pathogens; it is, therefore, usually active against Gram-negative aerobic microorganisms that are resistant to antibiotics hydrolyzed by beta-lactamases.
 It is active against many strains that are multiply-resistant to other antibiotics, such as certain cephalosporins, penicillin, and aminoglycosides.
 Aztreonam maintains its antimicrobial activity over a pH range of 6 to 8 in vitro, as well as in the presence of human serum and under anaerobic conditions.
 
 Aztreonam has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Aerobic gram-negative microorganisms:
+Aerobic Gram-negative microorganisms:
 
 - Citrobacter species, including C. freundii
 - Enterobacter species, including E. cloacae
@@ -101,9 +104,9 @@ Aerobic gram-negative microorganisms:
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-Aztreonam exhibits in vitro minimal inhibitory concentrations (MICs) of 8 µg/mL or less against most (≥90%) strains of the following microorganisms; however, the safety and effectiveness of aztreonam in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Aztreonam exhibits in vitro minimal inhibitory concentrations (MICs) of 8 mcg/mL or less against most (≥90%) strains of the following microorganisms; however, the safety and effectiveness of aztreonam in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
-Aerobic gram-negative microorganisms:
+Aerobic Gram-negative microorganisms:
 
 - Aeromonas hydrophila
 - Morganella morganii
@@ -114,12 +117,12 @@ Aerobic gram-negative microorganisms:
 - Providencia rettgeri
 - Yersinia enterocolitica
 
-Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other gram-negative aerobic bacilli.
+Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
 
 Alterations of the anaerobic intestinal flora by broad spectrum antibiotics may decrease colonization resistance, thus permitting overgrowth of potential pathogens, eg, Candida and Clostridium species.
 Aztreonam has little effect on the anaerobic intestinal microflora in in vitro studies.
 Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam.
-(See ADVERSE REACTIONS:Gastrointestinal.)
+(See ADVERSE REACTIONS: Gastrointestinal.)
 
 ### Susceptibility Tests
 
@@ -131,15 +134,15 @@ The MIC values should be interpreted according to the following criteria:
 
 | For testing aerobic microorganisms other than Haemophilus influenzae: |  |
 | --- | --- |
-| MIC (µg/mL) | Interpretation |
+| MIC (mcg/mL) | Interpretation |
 | ≤8 | Susceptible (S) |
 | 16 | Intermediate (I) |
 | ≥32 | Resistant (R) |
 | When testing Haemophilus influenzaea: |  |
-| MIC (µg/mL) | Interpretationb |
+| MIC (mcg/mL) | Interpretationb |
 | ≤2 | Susceptible (S) |
-| a. Interpretative criteria applicable only to tests performed by broth microdilution method using Haemophilus Test Medium (HTM).5 |  |
-| b. The current absence of data on resistant strains precludes defining any categories other than “Susceptible.” Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |
+| a Interpretative criteria applicable only to tests performed by broth microdilution method using Haemophilus Test Medium (HTM).5 |  |
+| b The current absence of data on resistant strains precludes defining any categories other than “Susceptible.” Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -150,40 +153,40 @@ A report of “Resistant” indicates that the pathogen is not likely to be inhi
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard aztreonam powder should provide the following MIC values:
 
-| Microorganism | MIC (µg/mL) |
+| Microorganism | MIC (mcg/mL) |
 | --- | --- |
 | Escherichia coli ATCC 25922 | 0.06-0.25 |
 | Haemophilus influenzaea ATCC 49247 | 0.12-0.5 |
 | Pseudomonas aeruginosa ATCC 27853 | 2.0-8.0 |
-| a. Range applicable only to tests performed by broth microdilution method using Haemophilus Test Medium (HTM).5 |  |
+| a Range applicable only to tests performed by broth microdilution method using Haemophilus Test Medium (HTM).5 |  |
 
 Diffusion Techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure6 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 30 µg aztreonam to test the susceptibility of microorganisms to aztreonam.
+This procedure uses paper disks impregnated with 30 mcg aztreonam to test the susceptibility of microorganisms to aztreonam.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30 µg aztreonam disk should be interpreted accordingto the following criteria:
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg aztreonam disk should be interpreted according to the following criteria:
 
 | For testing aerobic microorganisms other than Haemophilus influenzae: |  |
 | --- | --- |
 | Zone diameter (mm) | Interpretation |
 | ≥22 | Susceptible (S) |
-| 16 - 21 | Intermediate (I) |
+| 16-21 | Intermediate (I) |
 | ≤15 | Resistant (R) |
 | When testing Haemophilus influenzaea: |  |
 | Zone diameter (mm) | Interpretationb |
 | ≥26 | Susceptible (S) |
-| a. Interpretative criteria applicable only to tests performed by disk diffusion method using Haemophilus Test Medium (HTM).6 |  |
-| b. The current absence of data on resistant strains precludes defining any categories other than “Susceptible.” Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |
+| a Interpretative criteria applicable only to tests performed by disk diffusion method using Haemophilus Test Medium (HTM).6 |  |
+| b The current absence of data on resistant strains precludes defining any categories other than “Susceptible.” Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for aztreonam.
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 30 µg aztreonam disk should provide the following zone diameters in these laboratory test quality control strains.
+For the diffusion technique, the 30-mcg aztreonam disk should provide the following zone diameters in these laboratory test quality control strains.
 
 | Microorganism | Zone diameter (mm) |
 | --- | --- |
 | Escherichia coli ATCC 25922 | 28-36 mm |
 | Haemophilus influenzaea ATCC 49247 | 30-38 mm |
 | Pseudomonas aeruginosa ATCC 27853 | 23-29 mm |
-| a. Range applicable only to tests performed by disk diffusion method using Haemophilus Test Medium (HTM).6 |  |
+| a Range applicable only to tests performed by disk diffusion method using Haemophilus Test Medium (HTM).6 |  |
