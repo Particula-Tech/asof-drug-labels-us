@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020911"
+  ],
   "inn": "beclomethasone",
-  "labeler": "IVAX Laboratories, Inc.",
+  "labeler": "Teva Specialty Pharmaceuticals LLC",
   "package_ndcs": [
     "59310-175-40",
-    "59310-177-80"
+    "59310-175-41",
+    "59310-177-80",
+    "59310-177-81"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "beclomethasone dipropionate",
+      "name": "QVAR"
+    }
+  ],
   "setid": "ccc8c882-e4d1-4ce6-9817-e212f4c9527f",
   "source": "dailymed"
 }

@@ -24,24 +24,3 @@ Exposure to temperatures above 49°C (120°F) may cause bursting.
 Never throw container into fire or incinerator.
 
 Keep out of reach of children.
-
-Rx only
-
-Distributed by: IVAX Laboratories, Inc. Miami, Fl 33137
-
-Developed and Manufactured by: 3M Pharmaceuticals Northridge, CA 91324 OR 3M Health Care, Ltd. Loughborough, UK
-
-AUGUST 2003 QVAR® is a registered trademark of 3M through its subsidiary, Riker Labs., Inc. and is used under license.
-
-628102 Rev.
-08/03
-
-QVAR®
-
-(beclomethasone dipropionate HFA)
-
-Inhalation Aerosol
-
-Attention Pharmacist:
-
-Detach “Patient's Instructions for Use” from package insert and dispense with the product

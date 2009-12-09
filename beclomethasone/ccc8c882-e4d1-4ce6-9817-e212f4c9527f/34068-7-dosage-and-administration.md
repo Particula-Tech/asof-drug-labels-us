@@ -6,7 +6,7 @@ QVAR is a solution aerosol, which does not require shaking.
 Consistent dose delivery is achieved, whether using the 40 or 80 mcg strengths, due to proportionality of the two products (i.e., two actuations of 40 mcg strength should provide a dose comparable to one actuation of the 80 mcg strength).
 
 QVAR should be administered by the oral inhaled route in patients 5 years of age and older.
-Use of QVAR with a spacer device in children less than 5 years of age is not recommended (See PRECAUTIONS, Pediatric Use).
+Use of QVAR with a spacer device in children less than 5 years of age is not recommended (see PRECAUTIONS, Pediatric Use).
 The onset and degree of symptom relief will vary in individual patients.
 Improvement in asthma symptoms should be expected within the first or second week of starting treatment, but maximum benefit should not be expected until 3-4 weeks of therapy.
 For patients who do not respond adequately to the starting dose after 3-4 weeks of therapy, higher doses may provide additional asthma control.
@@ -23,13 +23,9 @@ Recommended Dosage for QVAR:
 | Bronchodilators Alone | 40 mcg twice daily | 80 mcg twice daily |
 | Inhaled Corticosteroids | 40 mcg twice daily | 80 mcg twice daily |
 
-The recommended dosage of QVAR relative to CFC-based beclomethasone dipropionate (CFC-BDP) inhalation aerosols is lower due to differences in delivery characteristics between the products.
-Recognizing that a definitive comparative therapeutic ratio between QVAR and CFC-BDP has not been demonstrated, any patient who is switched from CFC-BDP to QVAR should be dosed appropriately, taking into account the dosing recommendations above, and should be monitored to ensure that the dose of QVAR selected is safe and efficacious.
 As with any inhaled corticosteroid, physicians are advised to titrate the dose of QVAR downward over time to the lowest level that maintains proper asthma control.
 This is particularly important in children since a controlled study has shown that QVAR has the potential to affect growth in children.
-
 Patients should be instructed on the proper use of their inhaler.
-Patients should be advised that QVAR may have a different taste and inhalation sensation than that of an inhaler containing CFC propellant.
 
 ## Patients Not Receiving Systemic Corticosteroids
 
@@ -52,3 +48,7 @@ Such patients should be encouraged to continue with the inhaler but should be mo
 If evidence of adrenal insufficiency occurs, the systemic corticosteroid doses should be increased temporarily and thereafter withdrawal should continue more slowly.
 
 During periods of stress or a severe asthma attack, transfer patients may require supplementary treatment with systemic corticosteroids.
+
+## DIRECTIONS FOR USE
+
+Illustrated Patient's Instructions for proper use accompany each package of QVAR.

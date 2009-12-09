@@ -6,7 +6,7 @@ In considering these data, difference in average duration of exposure and clinic
 
 Adverse Events Reported by at Least 3% of the Patients for Either QVAR or CFC-BDP by Treatment and Daily Dose
 
-| Placebo (N=289) % | Total (N=624) % | 80-160 mcg (N=233) % | 320 mcg (N=335) % | 640 mcg (N=56) % | Total (N::283) % | 84 mcg (N=59) % | 336 mcg (N=55) % | 672 mcg (N=169) % |  |
+| Placebo (N=289) % | Total (N=624) % | 80-160 mcg (N=233) % | 320 mcg (N=335) % | 640 mcg (N=56) % | Total (N=283) % | 84 mcg (N=59) % | 336 mcg (N=55) % | 672 mcg (N=169) % |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Events |  | QVAR |  |  |  | CFC-BDP |  |  |  |
 | HEADACHE | 9 | 12 | 15 | 8 | 25 | 15 | 14 | 11 | 17 |
@@ -27,6 +27,10 @@ No patients treated with QVAR in the clinical development program developed symp
 
 If such an infection develops, treatment with appropriate antifungal therapy or discontinuance of treatment with QVAR may be required.
 
-Pediatric Studies: In two 12-week placebo controlled studies in steroid naive pediatric patients 5 to 12 years of age, no clinically relevant differences were found in the pattern, severity, or frequency of adverse events compared with those reported in adults, with the exception of conditions which are more prevalent in a pediatric population generally.
+## Pediatric Studies
 
-Adverse Event Reports from Other Sources: Rare cases of immediate and delayed hypersensitivity reactions, including urticaria, angioedema, rash, and bronchospasm, have been reported following the oral and intranasal inhalation of beclomethasone dipropionate.
+In two 12-week placebo controlled studies in steroid naive pediatric patients 5 to 12 years of age, no clinically relevant differences were found in the pattern, severity, or frequency of adverse events compared with those reported in adults, with the exception of conditions which are more prevalent in a pediatric population generally.
+
+## Adverse Event Reports from Other Sources
+
+Rare cases of immediate and delayed hypersensitivity reactions, including urticaria, angioedema, rash, and bronchospasm, have been reported following the oral and intranasal inhalation of beclomethasone dipropionate.
