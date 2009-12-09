@@ -31,12 +31,14 @@ There is no evidence that doses greater than 60 mg/day confer additional benefit
 ## 2.2 Maintenance/Continuation/Extended Treatment
 
 Major Depressive Disorder — It is generally agreed that acute episodes of major depression require several months or longer of sustained pharmacologic therapy.
+Maintenance of efficacy in MDD was demonstrated with Cymbalta as monotherapy.
 Cymbalta should be administered at a total dose of 60 mg once daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.1)].
 
-Generalized Anxiety Disorder — Generalized anxiety disorder is recognized as a chronic condition.
-The efficacy of Cymbalta in the treatment of GAD, that is, beyond 10 weeks, has not been systematically studied.
-The physician who elects to use Cymbalta for extended periods should periodically evaluate the long-term usefulness of the drug for the individual patient.
+Generalized Anxiety Disorder — It is generally agreed that episodes of generalized anxiety disorder require several months or longer of sustained pharmacological therapy.
+Maintenance of efficacy in GAD was demonstrated with Cymbalta as monotherapy.
+Cymbalta should be administered in a dose range of 60-120 mg once daily.
+Patients should be periodically reassessed to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
 
 Diabetic Peripheral Neuropathic Pain — As the progression of diabetic peripheral neuropathy is highly variable and management of pain is empirical, the effectiveness of Cymbalta must be assessed individually.
 Efficacy beyond 12 weeks has not been systematically studied in placebo-controlled trials.
