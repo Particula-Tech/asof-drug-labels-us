@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 In studies with healthy volunteers of single doses up to 800 mg, adverse events were similar to those seen at lower doses but rates and severities were increased.
 

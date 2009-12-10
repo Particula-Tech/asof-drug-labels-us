@@ -1,21 +1,22 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose of REVATIO is 20 mg three times a day (t.i.d.).
+## 2.1 Pulmonary Arterial Hypertension (PAH)
+
+REVATIO Tablets
+
+The recommended dose of REVATIO is 20 mg three times a day (TID).
 REVATIO tablets should be taken approximately 4–6 hours apart, with or without food.
+
 In the clinical trial no greater efficacy was achieved with the use of higher doses.
-Treatment with doses higher than 20 mg t.i.d. is not recommended.
-Dosages lower than 20 mg t.i.d. were not tested.
-Whether dosages lower than 20 mg t.i.d. are effective is not known.
+Treatment with doses higher than 20 mg TID is not recommended.
+Dosages lower than 20 mg TID were not tested.
+Whether dosages lower than 20 mg TID are effective is not known.
 
-In general, dose selection for elderly patients should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see CLINICAL PHARMACOLOGY)
+REVATIO Injection
 
-No dose adjustments are required for renal impaired patients (including severe renal impairment, creatinine clearance <30 mL/min), or for hepatic impaired patients (Child Pugh class A and B).
+REVATIO injection is for the continued treatment of patients with pulmonary arterial hypertension (PAH) who are currently prescribed oral REVATIO and who are temporarily unable to take oral medication.
 
-No dose adjustments are required for the co-administration of REVATIO with erythromycin or saquinavir.
+The recommended dose is 10 mg (corresponding to 12.5 mL) administered as an intravenous bolus injection three times a day.
+The dose of REVATIO injection does not need to be adjusted for body weight.
 
-Co-administration of REVATIO with CYP3A4 inducers (including bosentan; and more potent inducers such as barbiturates, carbamazepine, phenytoin, efavirenz, nevirapine, rifampin, rifabutin) may alter plasma levels of either or both medications.
-Dosage adjustments may be necessary (see PRECAUTIONS: Drug Interactions).
-
-Co-administration of potent CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir) with REVATIO substantially increases serum concentrations of sildenafil and is therefore not recommended (see WARNINGS and PRECAUTIONS: Drug Interactions).
-
-Sildenafil was shown to potentiate the hypotensive effects of nitrates and its administration in patients who use nitric oxide donors, or nitrates in any form, is therefore contraindicated.
+A 10 mg dose of REVATIO injection is predicted to provide pharmacological effect of sildenafil and its N-desmethyl metabolite equivalent to that of a 20 mg oral dose.

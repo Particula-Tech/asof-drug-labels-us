@@ -1,49 +1,54 @@
-# PATIENT INFORMATION
-
-REVATIO® (re-VAH-tee-oh) (sildenafil citrate) tablets
+REVATIO® (re-VAH-tee-oh) (sildenafil) tablets
 
 Read the Patient Information that comes with REVATIO before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 If you have any questions about REVATIO, ask your doctor or pharmacist.
 
-What is the most important information I should know about REVATIO (sildenafil citrate)?
+What is the most important information I should know about REVATIO (sildenafil)?
 
-- Never take REVATIO with any nitrate medicines.
-  Your blood pressure could drop quickly.
-  It could fall to an unsafe level.
-  Nitrate medicines include:
-  - Medicines that treat chest pain (angina)
-  - Nitroglycerin in any form
-  - Isosorbide mononitrate or dinitrate
-  - Street drugs called "poppers" (amyl nitrate or nitrite)
+Never take REVATIO with any nitrate medicines.
+Your blood pressure could drop quickly.
+It could fall to an unsafe level.
+Nitrate medicines include:
+
+Medicines that treat chest pain (angina)
+
+Nitroglycerin in any form
+
+Isosorbide mononitrate or dinitrate
+
+Street drugs called "poppers" (amyl nitrate or nitrite)
 
 Ask your doctor or pharmacist if you are not sure if you are taking a nitrate medicine.
 
-What is REVATIO (sildenafil citrate)?
+What is REVATIO (sildenafil)?
 
 REVATIO is a prescription medicine used to treat pulmonary arterial hypertension (PAH).
-REVATIO improves the ability to exercise.
 With PAH, the blood pressure in your lungs is too high.
 Your heart has to work hard to pump blood into your lungs.
+
+REVATIO improves the ability to exercise and can help lessen symptoms and slow down worsening changes in your physical condition.
 
 REVATIO has not been studied
 
 - in children under 18 years old
 - in patients who are also taking a medicine called bosentan (Tracleer®)
 
-REVATIO contains the same medicine as VIAGRA® (sildenafil citrate), which is used to treat erectile dysfunction (impotence).
+REVATIO contains the same medicine as VIAGRA® (sildenafil), which is used to treat erectile dysfunction (impotence).
+Do not take REVATIO with VIAGRA or other PDE5 inhibitors.
 
-Who should not take REVATIO (sildenafil citrate)?
+Who should not take REVATIO (sildenafil)?
 
 Do not take REVATIO if you
 
 - take nitrate medicines.
   See "What is the most important information I should know about REVATIO?"
-- are allergic to sildenafil citrate or any other ingredient in REVATIO.
+- are allergic to sildenafil or any other ingredient in REVATIO.
   See "What are the ingredients in REVATIO?" at the end of this leaflet.
 
-What should I tell my doctor before taking REVATIO (sildenafil citrate)?
+What should I tell my doctor before taking REVATIO (sildenafil)?
+
 Tell your doctor about all of your medical conditions, including if you
 
 - have had a heart attack, stroke, or irregular heartbeats in the last 6 months
@@ -78,7 +83,7 @@ Especially tell your doctor if you
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
 
-How should I take REVATIO (sildenafil citrate)?
+How should I take REVATIO (sildenafil)?
 
 - Take REVATIO exactly as your doctor tells you.
 - REVATIO is a tablet you take by mouth.
@@ -91,10 +96,9 @@ How should I take REVATIO (sildenafil citrate)?
   Talk to your doctor first.
 - If you take too much REVATIO, call your doctor or poison control center, or go to an emergency room.
 
-What are the possible side effects of REVATIO (sildenafil citrate)?
+What are the possible side effects of REVATIO (sildenafil)?
 
-The following side effects were reported in patients taking REVATIO.
-Some of these were serious.
+The following side effects were reported in patients taking sildenafil.
 
 - low blood pressure.
   Low blood pressure may cause you to feel faint or dizzy.
@@ -102,9 +106,6 @@ Some of these were serious.
 - more shortness of breath than usual.
   Tell your doctor if you get more short of breath after you start REVATIO.
   More shortness of breath than usual may be due to your underlying medical condition.
-
-The following side effects were reported rarely in patients taking sildenafil:
-
 - decreased eyesight or loss of sight in one or both eyes (NAION).
   If you notice a sudden decrease or loss of eyesight, talk to your doctor right away.
   It is not possible to determine if these events are related to oral medicines for the treatment of erectile dysfunction, including sildenafil, or to other medical problems, or combination of these factors.
@@ -116,19 +117,19 @@ The following side effects were reported rarely in patients taking sildenafil:
 - erections that last several hours.
   Tell your doctor right away if you have an erection that lasts more than 4 hours.
 
-The most common side effects are nosebleed, headache, upset stomach, getting red or hot in the face (flushing), and trouble sleeping.
+The most common side effects with REVATIO include: Nosebleed, headache, upset stomach, getting red or hot in the face (flushing), and trouble sleeping.
 
-Tell your doctor if you have any side effect that bothers you or doesn’t go away.
+Tell your doctor if you have any side effect that bothers you or doesn't go away.
 
 These are not all the possible side effects of REVATIO.
 For more information, ask your doctor or pharmacist.
 
-How should I store REVATIO (sildenafil citrate)?
+How should I store REVATIO (sildenafil)?
 
 - Store REVATIO at room temperature, 59–86°F (15–30°C).
 - Keep REVATIO and all medicines away from children.
 
-General information about REVATIO (sildenafil citrate)
+General information about REVATIO (sildenafil)
 
 Medicines are sometimes prescribed for conditions that are not in the patient leaflet.
 Do not use REVATIO for a condition for which it was not prescribed.
@@ -141,12 +142,10 @@ If you would like more information about REVATIO:
 - Ask your doctor or pharmacist for information about REVATIO that is written for health professionals.
 - Go to www.REVATIO.com or call 1-800-879-3477.
 
-What are the ingredients in REVATIO (sildenafil citrate)?
+What are the ingredients in REVATIO (sildenafil)?
+
+REVATIO Tablets
 
 Active ingredients: sildenafil citrate
 
 Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, lactose monohydrate, and triacetin
-
-Rx only
-
-LAB-0335.3.0 December 2007
