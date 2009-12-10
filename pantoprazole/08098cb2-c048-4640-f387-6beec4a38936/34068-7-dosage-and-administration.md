@@ -1,60 +1,77 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Treatment of Erosive Esophagitis
+## 2.1 Recommended Dosing Schedule
 
-The recommended adult oral dose is 40 mg given once daily for up to 8 weeks.
-For those patients who have not healed after 8 weeks of treatment, an additional 8-week course of PROTONIX may be considered (see INDICATIONS AND USAGE).
+PROTONIX is supplied as delayed-release granules in packets for preparation of oral suspensions or as delayed-release tablets.
+The recommended dosages are outlined in Table 1.
 
-## Maintenance of Healing of Erosive Esophagitis
+Table 1: Recommended Dosing Schedule for PROTONIX
 
-The recommended adult oral dose is PROTONIX 40 mg, taken daily (see CLINICAL PHARMACOLOGY, Clinical Studies).
+| Indication | Dose | Frequency |
+| --- | --- | --- |
+| Short-Term Treatment of Erosive Esophagitis Associated With GERD |  |  |
+| Adults | 40 mg | Once daily for up to 8 weeks* |
+| Children (5 years and older) |  |  |
+| ≥ 15 kg to < 40 kg | 20 mg | Once daily for up to 8 weeks |
+| ≥ 40 kg | 40 mg |  |
+| Maintenance of Healing of Erosive Esophagitis |  |  |
+| Adults | 40 mg | Once daily |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome |  |  |
+| Adults | 40 mg | Twice daily** |
+| * For adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of PROTONIX may be considered.** Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated. Doses up to 240 mg daily have been administered. |  |  |
 
-## Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
+## 2.2 Administration Instructions
 
-The dosage of PROTONIXin patients with pathological hypersecretory conditions varies with the individual patient.
-The recommended adult starting dose is 40 mg twice daily.
-Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated.
-Doses up to 240 mg daily have been administered.
-Some patients have been treated continuously with PROTONIX for more than 2 years.
+Directions for method of administration for each dosage form are presented in Table 2.
 
-No dosage adjustment is necessary in patients with renal impairment, hepatic impairment, or for elderly patients.
-Doses higher than 40 mg/day have not been studied in hepatically-impaired patients.
-No dosage adjustment is necessary in patients undergoing hemodialysis.
+Table 2: Administration Instructions
+
+| Formulation | Route | Instructions* |
+| --- | --- | --- |
+| Delayed-Release Tablets | Oral | Swallowed whole, with or without food |
+| For Delayed-Release Oral Suspension | Oral | Administered in 1 teaspoonful of applesauce or apple juice approximately 30 minutes prior to a meal |
+| For Delayed-Release Oral Suspension | Nasogastric tube | See instructions below |
+| * Patients should be cautioned that PROTONIX Delayed-Release Tablets and PROTONIX For Delayed-Release Oral Suspension should not be split, chewed, or crushed. |  |  |
+
+### PROTONIX Delayed-Release Tablets
 
 PROTONIX Delayed-Release Tablets should be swallowed whole, with or without food in the stomach.
 If patients are unable to swallow a 40 mg tablet, two 20 mg tablets may be taken.
-Concomitant administration of antacids does not affect the absorption of PROTONIX Delayed-Release Tablets.
+Concomitant administration of antacids does not affect the absorption of PROTONIX Delayed‑Release Tablets.
 
-- PROTONIX For Delayed-Release Oral Suspension should be administered in applesauce or apple juice approximately 30 minutes prior to a meal.
-  See Administration Options subsection below.
-  Patients should be cautioned that PROTONIX Delayed-Release Tablets and PROTONIX For Delayed-Release Oral Suspension should not be split, chewed or crushed.
-- PROTONIX For Delayed-Release Oral Suspension should only be administered in apple juice or applesauce, not in water or other liquids, or foods.
+### PROTONIX For Delayed-Release Oral Suspension
 
-## Administration Options
+PROTONIX For Delayed-Release Oral Suspension should only be administered approximately 30 minutes prior to a meal via oral administration in apple juice or applesauce or nasogastric tube in apple juice only.
+Because proper pH is necessary for stability, do not administer PROTONIX For Delayed-Release Oral Suspension in liquids other than apple juice, or foods other than applesauce.
 
-### PROTONIX For Delayed-Release Oral Suspension - Oral Administration in Applesauce:
+Do not divide the 40 mg PROTONIX For Delayed-Release Oral Suspension packet to create a 20 mg dosage for pediatric patients who are unable to take the tablet formulation.
 
-- Open packet.
-- Sprinkle intact granules on one teaspoonful of applesauce.
-- Swallow within 10 minutes of preparation.
-
-### PROTONIX For Delayed-Release Oral Suspension - Oral Administration in Apple Juice:
+### PROTONIX For Delayed-Release Oral Suspension - Oral Administration in Applesauce
 
 - Open packet.
-- Empty intact granules into a small cup containing 5 mL of apple juice (approximately one teaspoonful).
-- Stir for 5 seconds and swallow immediately.
-- To ensure complete delivery of the dose, rinse the container once or twice with apple juice to remove any remaining granules and swallow immediately.
+- Sprinkle granules on one teaspoonful of applesauce.
+  DO NOT USE OTHER FOODS OR CRUSH OR CHEW THE GRANULES.
+- Take within 10 minutes of preparation.
+- Take sips of water to make sure granules are washed down into the stomach.
+  Repeat water sips as necessary.
 
-### PROTONIX For Delayed-Release Oral Suspension - Nasogastric Tube Administration
+### PROTONIX For Delayed-Release Oral Suspension - Oral Administration in Apple Juice
 
-For patients who have a nasogastric tube in place, PROTONIX For Delayed-Release Oral Suspension can be administered as follows:
+- Open packet.
+- Empty granules into a small cup or teaspoon containing one teaspoon of apple juice.
+- Stir for 5 seconds (granules will not dissolve) and swallow immediately.
+- To make sure that the entire dose is taken, rinse the container once or twice with apple juice to remove any remaining granules.
+  Swallow immediately.
 
-- Separate the plunger from the barrel of a 2 ounce (60 mL) catheter tip syringe.
-- Connect the catheter tip of the syringe to a 16 French (or larger) nasogastric tube.
-- Hold the syringe attached to the tubing as high as possible during application steps to prevent any bending of the tubing in order to provide smooth flow of contents under gravity.
+### PROTONIX For Delayed-Release Oral Suspension - Nasogastric (NG) Tube or Gastrostomy Tube Administration
+
+For patients who have a nasogastric tube or gastrostomy tube in place, PROTONIX For Delayed‑Release Oral Suspension can be given as follows:
+
+- Remove the plunger from the barrel of a 2 ounce (60 mL) catheter-tip syringe.
+  Discard the plunger.
+- Connect the catheter tip of the syringe to a 16 French (or larger) tube.
+- Hold the syringe attached to the tubing as high as possible while giving PROTONIX For Delayed-Release Oral Suspension to prevent any bending of the tubing.
 - Empty the contents of the packet into the barrel of the syringe.
-- Add 10 mL of apple juice and gently tap and/or shake the barrel of the syringe to help empty the syringe.
-- Add an additional 10 mL of apple juice and gently tap and/or shake the barrel of the syringe to help rinse the syringe and nasogastric tube.
-  Repeat with at least 2 additional 10 mL aliquots of apple juice.
+- Add 10 mL (2 teaspoonfuls) of apple juice and gently tap and/or shake the barrel of the syringe to help rinse the syringe and tube.
+  Repeat at least twice more using the same amount of apple juice (10 mL or 2 teaspoonfuls) each time.
   No granules should remain in the syringe.
-- Make sure the nasogastric tube is not clogged to ensure that patients receive the full dose.

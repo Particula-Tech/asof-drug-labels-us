@@ -1,8 +1,7 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Experience in patients taking very high doses of pantoprazole is limited.
-There have been spontaneous reports of overdosage with pantoprazole, including a suicide in which pantoprazole 560 mg and undetermined amounts of chloroquine and zopiclone were also ingested.
-There have also been spontaneous reports of patients taking similar amounts of pantoprazole (400 mg and 600 mg) with no adverse effects.
+Experience in patients taking very high doses of PROTONIX (> 240 mg) is limited.
+Spontaneous post-marketing reports of overdose are generally within the known safety profile of PROTONIX.
 
 Pantoprazole is not removed by hemodialysis.
 In case of overdosage, treatment should be symptomatic and supportive.

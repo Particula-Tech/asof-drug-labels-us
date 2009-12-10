@@ -1,101 +1,91 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Worldwide, more than 11,100 patients have been treated with pantoprazole in clinical trials involving various dosages and duration of treatment.
-In general, pantoprazole has been well tolerated in both short-term and long-term trials.
+The adverse reaction profiles for PROTONIX (pantoprazole sodium) For Delayed-Release Oral Suspension and PROTONIX (pantoprazole sodium) Delayed-Release Tablets are similar.
 
-The adverse reaction profile for PROTONIX® (pantoprazole sodium) For Delayed-Release Oral Suspension is similar to the established safety profile of PROTONIX® (pantoprazole sodium) Delayed-Release Tablets.
+## 6.1 Clinical Trial Experience
 
-In two U.S. controlled clinical trials involving PROTONIX 10-, 20-, or 40-mg doses for up to 8 weeks, there were no dose-related effects on the incidence of adverse events.
-The following adverse events considered by investigators to be possibly, probably, or definitely related to drug occurred in 1% or more in the individual studies of GERD patients on therapy with PROTONIX.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Most Frequent Adverse Events Reported as Drug Related in Short-term Domestic Trials
+### Adults
 
-| Study Event | PROTONIX (n = 521) | Placebo (n = 82) | PROTONIX (n = 161) | Nizatidine (n = 82) |
-| --- | --- | --- | --- | --- |
-|  | ––––––––––––––––––––––––%Incidence–––––––––––––––––––––––– |  |  |  |
-|  | Study 300-US |  | Study 301-US |  |
-| Headache Diarrhea Flatulence Abdominal pain Rash Eructation Insomnia Hyperglycemia | 6 4 2 1 <1 1 <1 1 | 6 1 2 2 0 1 2 0 | 9 6 4 4 2 0 1 <1 | 13 6 0 4 0 0 1 0 |
+Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral PROTONIX (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor, and 82 patients on placebo.
+The most frequently occurring adverse reactions are listed in Table 3.
 
-Note: Only adverse events with an incidence greater than or equal to the comparators are shown.
+Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
 
-In international short-term, double-blind or open-label clinical trials involving 20 mg to 80 mg per day, the following adverse events were reported to occurin 1% or more of 2805 GERD patients receiving pantoprazole for up to 8 weeks.
+|  | PROTONIX (n=1473) % | Comparators (n=345) % | Placebo (n=82) % |
+| --- | --- | --- | --- |
+| Headache | 12.2 | 12.8 | 8.5 |
+| Diarrhea | 8.8 | 9.6 | 4.9 |
+| Nausea | 7.0 | 5.2 | 9.8 |
+| Abdominal pain | 6.2 | 4.1 | 6.1 |
+| Vomiting | 4.3 | 3.5 | 2.4 |
+| Flatulence | 3.9 | 2.9 | 3.7 |
+| Dizziness | 3.0 | 2.9 | 1.2 |
+| Arthralgia | 2.8 | 1.4 | 1.2 |
 
-Adverse Events in GERD Patients in Short-term International Trials
+Additional adverse reactions that were reported for PROTONIX in clinical trials with a frequency of ≤ 2% are listed below by body system:
 
-| Study Event | Pantoprazole Total (N = 2805) | Ranitidine 300 mg (N = 594) | Omeprazole 20 mg (N = 474) | Famotidine 40 mg (N = 239) |
-| --- | --- | --- | --- | --- |
-|  | –––––––––––––––––––––––––% Incidence–––––––––––––––––––––– |  |  |  |
-| Headache Diarrhea Abdominal Pain | 2 2 1 | 3 2 1 | 2 2 <1 | 1 <1 <1 |
+Body as a Whole: allergic reaction, pyrexia, photosensitivity reaction, facial edema
 
-In two U.S. controlled clinical trials involving PROTONIX 10-, 20-, or 40-mg doses for up to 12 months, the following adverse events considered by investigators to be possibly, probably, or definitely related to drug occurred in 1% or more of GERD patients on long-term therapy.
+Gastrointestinal: constipation, dry mouth, hepatitis
 
-Most Frequent Adverse Events Reported as Drug Related in Long-term Domestic Trials
+Hematologic: leukopenia, thrombocytopenia
 
-| Study Event | PROTONIX (n = 536) | Ranitidine (n = 185) |
-| --- | --- | --- |
-|  | –––––––––––––––––––% Incidence––––––––––––––– |  |
-| Headache Abdominal pain Liver function tests abnormal Nausea Vomiting | 5 3 2 2 2 | 2 1 <1 2 2 |
-| Note: Only adverse events with an incidence greater than or equal to the comparators are shown. |  |  |
+Metabolic/Nutritional: elevated CK (creatine kinase), generalized edema, elevated triglycerides, liver enzymes elevated
 
-In addition, in these short- and long-term domestic and international trials, the following treatment-emergent events, regardless of causality, occurred at a rate of ≥ 1% in pantoprazole-treated patients: anxiety, arthralgia, asthenia, back pain, bronchitis, chest pain, constipation, cough increased, dizziness, dyspepsia, dyspnea, flu syndrome, gastroenteritis, gastrointestinal disorder, hyperlipemia, hypertonia, infection, liver function tests abnormal, migraine, nausea, neck pain, pain, pharyngitis, rectal disorder, rhinitis, SGPT increased, sinusitis, upper respiratory tract infection, urinary frequency, urinary tract infection, and vomiting.
+Musculoskeletal: myalgia
 
-Additional treatment-emergent adverse experiences occurring in < 1% of pantoprazole-treated patients from these trials are listed below by body system.
-In most instances the relationship to pantoprazole was unclear.
+Nervous: depression, vertigo
 
-BODY AS A WHOLE: abscess, allergic reaction, chills, cyst, face edema, fever, generalized edema, heat stroke, hernia, laboratory test abnormal, malaise, moniliasis, neoplasm, non-specified drug reaction, photosensitivity reaction.
+Skin and Appendages: urticaria, rash, pruritus
 
-CARDIOVASCULAR SYSTEM: abnormal electrocardiogram, angina pectoris, arrhythmia, atrial fibrillation/flutter, cardiovascular disorder, chest pain substernal, congestive heart failure, hemorrhage, hypertension, hypotension, myocardial infarction, myocardial ischemia, palpitation, retinal vascular disorder, syncope, tachycardia, thrombophlebitis, thrombosis, vasodilatation.
+Special Senses: blurred vision
 
-DIGESTIVE SYSTEM: anorexia, aphthous stomatitis, cardiospasm, colitis, dry mouth, duodenitis, dysphagia, enteritis, esophageal hemorrhage, esophagitis, gastrointestinal carcinoma, gastrointestinal hemorrhage, gastrointestinal moniliasis, gingivitis, glossitis, halitosis, hematemesis, increased appetite, melena, mouth ulceration, oral moniliasis, periodontal abscess, periodontitis, rectal hemorrhage, stomach ulcer, stomatitis, stools abnormal, tongue discoloration, ulcerative colitis.
+### Pediatric Patients
 
-ENDOCRINE SYSTEM: diabetes mellitus, glycosuria, goiter.
+Safety of PROTONIX in the treatment of Erosive Esophagitis (EE) associated with GERD was evaluated in pediatric patients ages 1 year through 16 years in three clinical trials.
+Safety trials involved pediatric patients with EE; however, as EE is uncommon in the pediatric population, 249 pediatric patients with endoscopically-proven or symptomatic GERD were also evaluated.
+All adult adverse reactions to PROTONIX are considered relevant to pediatric patients.
+In patients ages 1 year through 16 years, the most commonly reported (> 4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
 
-HEPATO-BILIARY SYSTEM: biliary pain, hyperbilirubinemia, cholecystitis, cholelithiasis, cholestatic jaundice, hepatitis, alkaline phosphatase increased, gamma glutamyl transpeptidase increased, SGOT increased.
+For safety information in patients less than 1 year of age see Use in Specific Populations (8.4).
 
-HEMIC AND LYMPHATIC SYSTEM: anemia, ecchymosis, eosinophilia, hypochromic anemia, iron deficiency anemia, leukocytosis, leukopenia, thrombocytopenia.
+Additional adverse reactions that were reported for PROTONIX in pediatric patients in clinical trials with a frequency of ≤ 4% are listed below by body system:
 
-METABOLIC AND NUTRITIONAL: dehydration, edema, gout, peripheral edema, thirst, weight gain, weight loss.
+Body as a Whole: allergic reaction, facial edema
 
-MUSCULOSKELETAL SYSTEM: arthritis, arthrosis, bone disorder, bone pain, bursitis, joint disorder, leg cramps, neck rigidity, myalgia, tenosynovitis.
+Gastrointestinal: constipation, flatulence, nausea
 
-NERVOUS SYSTEM: abnormal dreams, confusion, convulsion, depression, dry mouth, dysarthria, emotional lability, hallucinations, hyperkinesia, hypesthesia, libido decreased, nervousness, neuralgia, neuritis, neuropathy, paresthesia, reflexes decreased, sleep disorder, somnolence, thinking abnormal, tremor, vertigo.
+Metabolic/Nutritional: elevated triglycerides, elevated liver enzymes, elevated CK (creatine kinase)
 
-RESPIRATORY SYSTEM: asthma, epistaxis, hiccup, laryngitis, lung disorder, pneumonia, voice alteration.
+Musculoskeletal: arthralgia, myalgia
 
-SKIN AND APPENDAGES: acne, alopecia, contact dermatitis, dry skin, eczema, fungal dermatitis, hemorrhage, herpes simplex, herpes zoster, lichenoid dermatitis, maculopapular rash, pruritus, skin disorder, skin ulcer, sweating, urticaria.
+Nervous: dizziness, vertigo
 
-SPECIAL SENSES: abnormal vision, amblyopia, cataract specified, deafness, diplopia, ear pain, extraocular palsy, glaucoma, otitis externa, taste perversion, tinnitus.
+Skin and Appendages: urticaria
 
-UROGENITAL SYSTEM: albuminuria, balanitis, breast pain, cystitis, dysmenorrhea, dysuria, epididymitis, hematuria, impotence, kidney calculus, kidney pain, nocturia, prostatic disorder, pyelonephritis, scrotal edema, urethral pain, urethritis, urinary tract disorder, urination impaired, vaginitis.
+The following adverse reactions seen in adults in clinical trials were not reported in pediatric patients in clinical trials, but are considered relevant to pediatric patients: photosensitivity reaction, dry mouth, hepatitis, thrombocytopenia, generalized edema, depression, pruritus, leukopenia, and blurred vision.
 
-In an open-label US clinical trial conducted in 35 patients with pathological hypersecretory conditions treated with PROTONIX for up to 27 months, the adverse events reported were consistent with the safety profile of the drug in other populations.
+### Zollinger-Ellison Syndrome
 
-## Postmarketing Reports
+In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients taking PROTONIX 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 
-There have been spontaneous reports of adverse events with the postmarketing use of pantoprazole.
-These reports include the following:
+## 6.2 Postmarketing Experience
 
-BODY AS A WHOLE: anaphylaxis (including anaphylactic shock), angioedema (Quincke's edema).
+The following adverse reactions have been identified during postapproval use of PROTONIX.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-DIGESTIVE SYSTEM: increased salivation, nausea, pancreatitis.
+These adverse reactions are listed below by body system:
 
-HEMIC AND LYMPHATIC SYSTEM: pancytopenia.
+Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
-HEPATO-BILIARY SYSTEM: hepatocellular damage leading to jaundice and hepatic failure.
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema)
 
-MUSCULOSKELETAL SYSTEM: elevated CPK (creatine phosphokinase), rhabdomyolysis.
+Musculoskeletal Disorders: rhabdomyolysis
 
-NERVOUS SYSTEM: confusion, hypokinesia, speech disorder, vertigo.
+Renal and Urinary Disorders: interstitial nephritis
 
-SKIN AND APPENDAGES: severe dermatologic reactions, including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal).
+Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 
-SPECIAL SENSES: anterior ischemic optic neuropathy, blurred vision, tinnitus.
-
-UROGENITAL SYSTEM: interstitial nephritis.
-
-## Laboratory Values
-
-In two U.S. controlled, short-term trials in patients with erosive esophagitis associated with GERD, 0.4% of the patients on PROTONIX 40 mg experienced SGPT elevations of greater than three times the upper limit of normal at the final treatment visit.
-In two U.S. controlled, long-term trials in patients with erosive esophagitis associated with GERD, none of 178 patients (0%) on PROTONIX 40 mg and two of 181 patients (1.1%) on PROTONIX 20 mg experienced significant transaminase elevations at 12 months (or earlier if a patient discontinued prematurely).
-Significant elevations of SGOT or SGPT were defined as values at least three times the upper limit of normal that were non-sporadic and had no clear alternative explanation.
-The following changes in laboratory parameters were reported as adverse events: creatinine increased, hypercholesterolemia, and hyperuricemia.
+Psychiatric Disorders: hallucination, confusion
