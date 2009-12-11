@@ -46,7 +46,7 @@ Vial: REQUIRES NO DILUTION FOR ADMINISTRATION FOR POSTOPERATIVE NAUSEA AND VOMIT
 
 ### Pediatric Dosing:
 
-The recommended I.V. dosage of ondansetron injection, USP for pediatric patients (1 month to 12 years of age) is a single 0.1 mg/kg dose for patients weighing 40 kg or less, or a single 4 mg dose for patients weighing more than 40 kg.
+The recommended I.V. dosage of ondansetron injection, USP for pediatric surgical patients (1 month to 12 years of age) is a single 0.1 mg/kg dose for patients weighing 40 kg or less, or a single 4 mg dose for patients weighing more than 40 kg.
 The rate of administration should not be less than 30 seconds, preferably over 2 to 5 minutes immediately prior to or following anesthesia induction, or postoperatively if the patient experiences nausea and/or vomiting occurring shortly after surgery.
 Prevention of further nausea and vomiting was only studied in patients who had not received prophylactic ondansetron injection, USP.
 
@@ -91,8 +91,7 @@ USP, 2 mg/mL, is supplied as follows:
 
 ### STORAGE
 
-Store between 20° and 25°C (68° and 77°F).
-[See USP Controlled Room Temperature].
+Store between 20° and 25°C (68° and 77°F) [See USP Controlled Room Temperature].
 Protect from light.
 
 ## REFERENCES:
@@ -122,4 +121,5 @@ for:
 
 WEST-WARD PHARMACEUTICAL Corp. 465 Industrial Way West EATONTOWN NJ 07724 USA
 
-Iss.: Sept.2006
+Rev.: Jan.
+2009

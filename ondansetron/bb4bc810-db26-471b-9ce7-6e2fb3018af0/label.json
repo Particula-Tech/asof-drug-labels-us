@@ -1,14 +1,21 @@
 {
   "application_numbers": [
-    "ANDA076780"
+    "ANDA076780",
+    "ANDA076781"
   ],
   "inn": "ondansetron",
   "labeler": "West-ward Pharmaceutical Corp",
   "package_ndcs": [
     "0143-9890-01",
-    "0143-9890-05"
+    "0143-9890-05",
+    "0143-9891-05"
   ],
   "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ondansetron",
+      "name": "Ondansetron"
+    },
     {
       "form": "INJECTION",
       "generic": "ondansetron hydrochloride",

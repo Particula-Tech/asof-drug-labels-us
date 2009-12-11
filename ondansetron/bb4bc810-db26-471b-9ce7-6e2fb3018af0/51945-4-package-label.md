@@ -1,1 +1,7 @@
 # PRINCIPAL DISPLAY PANEL
+
+Ondansetron Injection, USP 40 mg in 20 mL NDC 0143-9890-01
+
+# PRINCIPAL DISPLAY PANEL
+
+Ondansetron Injection, USP 4 mg in 2 mL NDC 0143-9891-05

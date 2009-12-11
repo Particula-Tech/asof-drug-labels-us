@@ -19,7 +19,9 @@ On the basis of limited available data, no dosage adjustment is recommended for 
 ## Phenytoin, Carbamazepine, and Rifampicin:
 
 In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and rifampicin), the clearance of ondansetron was significantly increased and ondansetron blood concentrations were decreased.
-However, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs.1,3Tramadol: Although no pharmacokinetic drug interaction between ondansetron and tramadol has been observed, data from 2 small studies indicate that ondansetron may be associated with an increase in patient controlled administration of tramadol.4,5
+However, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs.1,3
+
+Tramadol: Although no pharmacokinetic drug interaction between ondansetron and tramadol has been observed, data from 2 small studies indicate that ondansetron may be associated with an increase in patient controlled administration of tramadol.4,5
 
 ## Chemotherapy:
 

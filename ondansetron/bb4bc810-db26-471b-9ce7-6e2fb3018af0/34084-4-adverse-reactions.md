@@ -86,13 +86,13 @@ Frequency of Adverse Events From Controlled Studies in Pediatric Patients 2 to 1
 | Pyrexia | 32 (4%) | 41 (6%) |
 
 Adverse events information reported in pediatric surgical patients 1 month to 24 months of age is approved for GlaxoSmithKline Corporation's ondansetron injection.
-However, due to GlaxoSmithKline's marketing exclusivity rights, this drug product is not labeled for use in this subpopulation of pediatric patients
+However, due to GlaxoSmithKline's marketing exclusivity rights, this drug product is not labeled for use in this subpopulation of pediatric patients.
 
 Observed During Clinical Practice: In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of intravenous formulations of ondansetron injection, USP.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 The events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to Ondansetron Injection, USP.
 
-Cardiovascular: Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block and ST segment depression, palpitations, and syncope.
+Cardiovascular: Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT interval prolongation, and ST segment depression), palpitations, and syncope.
 
 General: Flushing.
 Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylaxis/anaphylactoid reactions, angioedema, bronchospasm, cardiopulmunary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.

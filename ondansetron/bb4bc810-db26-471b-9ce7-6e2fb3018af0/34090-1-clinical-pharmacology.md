@@ -54,7 +54,7 @@ Pharmacokinetics in Normal Adult Volunteers
 
 A reduction in clearance and increase in elimination half-life are seen in patients over 75 years of age.
 In clinical trials with cancer patients, safety and efficacy were similar in patients over 65 years of age and those under 65 years of age; there was an insufficient number of patients over 75 years of age to permit conclusions in that age-group.
-No dosagee adjustment is recommended in the elderly.
+No dosage adjustment is recommended in the elderly.
 
 In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared to 5.7 hours in normals.
 In patients with severe hepatic impairment (Child-Pugh2 score of 10 or greater), clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours.
@@ -71,8 +71,6 @@ Patients 4 to 12 years of age generally showed higher clearance and somewhat lar
 Most pediatric patients younger than 15 years of age with cancer had a shorter (2.4 hours) ondansetron plasma half-life than patients older than 15 years of age.
 It is not known whether these differences in ondansetron plasma half-life may result in differences in efficacy between adults and some young pediatric patients (see CLINICAL TRIALS: Pediatric Studies).
 
-Based on the population pharmacokinetic analysis, cancer patients 6 to 48 months of age who receive a dose of 0.15 mg/kg of I.V. ondansetron every 4 hours for 3 doses would be expected to achieve a systemic exposure (AUC) consistent with the exposure achieved in previous pediatric studies in cancer patients (4 to 18 years of age) at similar doses.
-
 Pharmacokinetic information for pediatric cancer patients 6 months to 48 months of age is approved for GlaxoSmithKline Corporation's ondansetron injection.
 However, due to GlaxoSmithKline's marketing exclusivity rights, this drug product is not labeled for use in this subpopulations of pediatric patients.
 
@@ -86,9 +84,9 @@ Pharmacokinetics in Pediatric Surgery Patients 1 Month to 12 Years of Age
 | Subjects and Age-Group | N | CL (L/h/kg) | Vdss (L/kg) | T1/2 (h) |
 | --- | --- | --- | --- | --- |
 |  |  | Geometic Mean |  | Mean |
-| Pediatriac Surgery Patients 3 to 12 years of age | N = 21 | 0.439 | 1.65 | 2.9 |
-| Pediatiiac Surgery Patients 5 to 24 months of age | N = 22 | 0.581 | 2.3 | 2.9 |
-| Pediatriac Surgery Patients 1 month to 4 months of age | N = 19 | 0.401 | 3.5 | 6.7 |
+| Pediatric Surgery Patients 3 to 12 years of age | N = 21 | 0.439 | 1.65 | 2.9 |
+| Pediatric Surgery Patients 5 to 24 months of age | N = 22 | 0.581 | 2.3 | 2.9 |
+| Pediatric Surgery Patients 1 month to 4 months of age | N = 19 | 0.401 | 3.5 | 6.7 |
 
 In general, surgical and cancer pediatric patients younger than 18 years tend to have a higher ondansetron clearance compared to adults leading to a shorter half-life in most pediatric patients.
 In patients 1 month to 4 months of age, a longer half-life was observed due to the higher volume of distribution in this age group.

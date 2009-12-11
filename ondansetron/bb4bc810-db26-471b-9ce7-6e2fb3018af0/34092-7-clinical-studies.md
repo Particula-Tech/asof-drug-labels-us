@@ -4,7 +4,7 @@
 
 ### Adults Studies:
 
-In a double-blind study of three different dosing regimens of Ondanselron Injection, USP, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
+In a double-blind study of three different dosing regimens of Ondansetron Injection, USP, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 
 ## Cisplatin-Based Chemotherapy:
@@ -123,7 +123,7 @@ No emetic episodes occurred in 160 (59%), and two or fewer emetic episodes occur
 
 ## Pediatric Studies:
 
-Four open-label, noncomparative (one US, three foreign) trials have been performed with 209 pediatric cancer patients aged 4 to 18 years given a variety of cisplatin or noncisplatin regimens.
+Four open-label, noncomparative (one US, three foreign) trials have been performed with 209 pediatric cancer patients aged 4 to 18 years of age given a variety of cisplatin or noncisplatin regimens.
 In the three foreign trials, the initial Ondansetron Injection, USP dose ranged from 0.04 to 0.87 mg/kg for a total dose of 2.16 to 12 mg.
 This was followed by the oral administration of ondansetron ranging from 4 to 24 mg daily for 3 days.
 In the US trial, Ondansetron Injection, USP was administered intravenously (only) in three doses of 0.15 mg/kg each for a total daily dose of 7.2 to 39 mg.
@@ -187,25 +187,25 @@ The results of these studies are summarized in Table 8.
 Table 8.
 Prevention of Postoperative Nausea and Vomiting in Pediatric Patients 2 to 12 Years of Age
 
-| Treatment Response | Ondansetron n(%) | Placebo n(%) |  |
+| Treatment Response | Ondansetron n(%) | Placebo n(%) | P Value |
 | --- | --- | --- | --- |
 | Over 24 hours |  |  |  |
 | Study 1 |  |  |  |
 | Number of patients | 205 | 210 |  |
-| 0 Emetic episodes | 140 (68%) | 82 (39%) |  |
+| 0 Emetic episodes | 140 (68%) | 82 (39%) | <0.001 |
 | Failure* | 65 (32%) | 128 (61%) |  |
 | Study 2 |  |  |  |
 | Number of patients | 112 | 110 |  |
-| 0 Emetic episodes | 68 (61%) | 38 (35%) |  |
+| 0 Emetic episodes | 68 (61%) | 38 (35%) | <0.001 |
 | Failure* | 44 (39%) | 72 (65%) |  |
 | Study 3 |  |  |  |
 | Number of patients | 206 | 206 |  |
-| 0 Emetic episodes | 123 (60%) | 96 (47%) |  |
+| 0 Emetic episodes | 123 (60%) | 96 (47%) | <0.01 |
 | Failure* | 83 (40%) | 110 (53%) |  |
 | Nausea assessments†: |  |  |  |
 | Number of patients | 185 | 191 |  |
-| None | 119 (64%) | 99 (52%) |  |
-| * Failure was one or more emetic episodes, rescued, or withdrawn. † Nausea measured as none mild, or severe. |  |  |  |
+| None | 119 (64%) | 99 (52%) | <0.01 |
+| * Failure was one or more emetic episodes, rescued, or withdrawn. † Nausea measured as none, mild, or severe. |  |  |  |
 
 Clinical trial information in pediatric surgical patients 1 month to 24 months of age is approved for GlaxoSmithKline Corporation's ondansetron injection.
 However, due to GlaxoSmithKline's marketing exclusivity rights, this drug product is not labeled for use in this subpopulation of pediatric patients.
@@ -214,7 +214,7 @@ However, due to GlaxoSmithKline's marketing exclusivity rights, this drug produc
 
 ### Adult Studies:
 
-Adult surgical patients receiving general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) who received no prophylactic antiemetics and who experienced nausea and/or vomiting within 2 hours postoperatively were evaluated in two doudle-blind US studies involving 441 patients.
+Adult surgical patients receiving general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) who received no prophylactic antiemetics and who experienced nausea and/or vomiting within 2 hours postoperatively were evaluated in two double-blind US studies involving 441 patients.
 
 Patients who experienced an episode of postoperative nausea and/or vomiting were given Ondansetron Injection, USP (4 mg) I.V. over 2 to 5 minutes, and this was significantly more effective than placebo.
 The results of these studies are summarized in Table 9.
