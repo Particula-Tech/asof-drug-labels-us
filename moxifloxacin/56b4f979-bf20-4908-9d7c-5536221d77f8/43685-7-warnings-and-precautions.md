@@ -14,8 +14,6 @@ THE SAFETY AND EFFECTIVENESS OF MOXIFLOXACIN IN PEDIATRIC PATIENTS, ADOLESCENTS 
 (SEE PRECAUTIONS-PEDIATRIC USE, PREGNANCY AND NURSING MOTHERS SUBSECTIONS.)
 
 QT prolongation: Moxifloxacin has been shown to prolong the QT interval of the electrocardiogram in some patients.
-As women tend to have a longer baseline QTc interval compared with men, they may be more sensitive to QTc-prolonging medications.
-Elderly patients may also be more susceptible to drug-associated effects on the QTc interval.
 The drug should be avoided in patients with known prolongation of the QT interval, patients with uncorrected hypokalemia and patients receiving Class IA (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic agents, due to the lack of clinical experience with the drug in these patient populations.
 
 Pharmacokinetic studies between moxifloxacin and other drugs that prolong the QT interval such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants have not been performed.
