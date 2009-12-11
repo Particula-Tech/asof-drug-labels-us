@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019968"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Ranbaxy Laboratories Inc.",
+  "package_ndcs": [
+    "10631-110-01"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "halobetasol propionate",
+      "name": "Ultravate PAC"
+    }
+  ],
+  "setid": "736c1976-7448-4d04-8ca7-9455e4db96e8",
+  "source": "dailymed"
+}
