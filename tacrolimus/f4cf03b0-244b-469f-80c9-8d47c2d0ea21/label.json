@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050708"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Caremark L.L.C.",
+  "package_ndcs": [
+    "0339-6425-14"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "tacrolimus",
+      "name": "Prograf"
+    }
+  ],
+  "setid": "f4cf03b0-244b-469f-80c9-8d47c2d0ea21",
+  "source": "dailymed"
+}
