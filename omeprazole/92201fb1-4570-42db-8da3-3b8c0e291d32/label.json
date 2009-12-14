@@ -1,14 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075410"
+  ],
   "inn": "omeprazole",
   "labeler": "Kremers Urban, LLC",
   "package_ndcs": [
     "62175-114-32",
     "62175-114-37",
     "62175-118-32",
-    "62175-118-37"
+    "62175-118-37",
+    "62175-118-41",
+    "62175-118-43",
+    "62175-136-32",
+    "62175-136-37",
+    "62175-136-43"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "omeprazole",
+      "name": "Omeprazole"
+    }
+  ],
   "setid": "92201fb1-4570-42db-8da3-3b8c0e291d32",
   "source": "dailymed"
 }
