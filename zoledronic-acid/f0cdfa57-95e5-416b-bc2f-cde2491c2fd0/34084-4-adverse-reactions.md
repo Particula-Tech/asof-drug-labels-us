@@ -113,8 +113,9 @@ In most cases, no specific treatment is required and the symptoms subside after 
 
 Ocular Adverse Events
 
-Ocular inflammation such as uveitis and scleritis can occur with bisphosphonate use.
+Ocular inflammation such as uveitis and scleritis can occur with bisphosphonate use, including Zometa.
 No cases of iritis, scleritis or uveitis were reported during these clinical trials.
+However, cases have been seen in postmarketing use [see Adverse Reactions (6.2)].
 
 Multiple Myeloma and Bone Metastases of Solid Tumors
 
@@ -272,9 +273,8 @@ Severe and occasionally incapacitating bone, joint, and/or muscle pain has been 
 
 Ocular Adverse Events
 
-Cases of uveitis and episcleritis have been reported during postmarketing use.
-Bisphosphonates may be associated with ocular inflammation such as uveitis and scleritis.
-In some cases, these events did not resolve until the bisphosphonate was discontinued.
+Cases of uveitis, scleritis, episcleritis, conjunctivitis, iritis, and orbital inflammation including orbital edema have been reported during postmarketing use.
+In some cases, symptoms resolved with topical steroids.
 
 Hypersensitivity Reactions
 

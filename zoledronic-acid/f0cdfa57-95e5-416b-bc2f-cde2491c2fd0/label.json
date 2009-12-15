@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021223"
+  ],
   "inn": "zoledronic-acid",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0387-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "zoledronic acid",
+      "name": "Zometa"
+    }
+  ],
   "setid": "f0cdfa57-95e5-416b-bc2f-cde2491c2fd0",
   "source": "dailymed"
 }
