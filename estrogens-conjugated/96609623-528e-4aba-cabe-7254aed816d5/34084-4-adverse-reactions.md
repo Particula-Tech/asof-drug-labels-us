@@ -1,5 +1,10 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are discussed elsewhere in the labeling:
+
+- Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.2)]
+- Endometrial Cancer [see Boxed Warning, Warnings and Precautions (5.3)]
+
 ## 6.1 Clinical Study Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trial of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.

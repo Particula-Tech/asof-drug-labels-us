@@ -29,14 +29,14 @@ In the WHI estrogen plus progestin substudy, there was a higher relative risk of
 
 ### The Women's Health Initiative Memory Study
 
-In the Women's Health Initiative Memory Study (WHIMS) of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in the estrogen-alone and the estrogen plus progestin substudies when compared to placebo [see Clinical Studies (14.3)].
+In the Women's Health Initiative Memory Study (WHIMS) of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen-alone or estrogen plus progestin when compared to placebo [see Clinical Studies (14.3)].
 
-Since both substudies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Clinical Studies (14.3)].
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Clinical Studies (14.3)].
 
 ## 8.6 Renal Impairment
 
-The effect of renal impairment on PREMARIN Vaginal Cream pharmacokinetics has not been studied.
+The effect of renal impairment on the pharmacokinetics of PREMARIN Vaginal Cream has not been studied.
 
 ## 8.7 Hepatic Impairment
 
-The effect of hepatic impairment on PREMARIN Vaginal Cream pharmacokinetics has not been studied.
+The effect of hepatic impairment on the pharmacokinetics of PREMARIN Vaginal Cream has not been studied.

@@ -5,4 +5,4 @@ PREMARIN Vaginal Cream is applied intravaginally.
 
 PREMARIN Vaginal Cream contains a mixture of conjugated estrogens obtained exclusively from natural sources, occurring as the sodium salts of water-soluble estrogen sulfates blended to represent the average composition of material derived from pregnant mares' urine.
 It is a mixture of sodium estrone sulfate and sodium equilin sulfate.
-It contains as concomitant components, sodium sulfate conjugates, 17 α-dihydroequilin, 17 α-estradiol, and 17 β-dihydroequilin.
+It contains as concomitant components, sodium sulfate conjugates, 17 α-dihydroequilin, 17 α-estradiol, and 17 β‑dihydroequilin.

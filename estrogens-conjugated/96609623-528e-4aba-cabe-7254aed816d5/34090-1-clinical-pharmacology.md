@@ -34,17 +34,17 @@ The mean (SD) pharmacokinetic parameters for unconjugated estrone, unconjugated 
 | --- | --- | --- | --- |
 | Pharmacokinetic Profiles of Unconjugated Estrogens PREMARIN Vaginal Cream 0.5 g |  |  |  |
 | PK Parameters Arithmetic Mean ± SD | Cmax (pg/mL) | Tmax (hr) | AUCss (pg•hr/mL) |
-| Estrone | 42.0± 13.9 | 7.4 ± 6.2 | 826 ± 295 |
-| Baseline-adjusted estrone | 21.9± 13.1 | 7.4 ± 6.2 | 365 ± 255 |
-| Estradiol | 12.8± 16.6 | 8.5 ± 6.2 | 231 ± 285 |
-| Baseline-adjusted estradiol | 9.14± 14.7 | 8.5 ± 6.2 | 161 ± 252 |
+| Estrone | 42.0 ± 13.9 | 7.4 ± 6.2 | 826 ± 295 |
+| Baseline-adjusted estrone | 21.9 ± 13.1 | 7.4 ± 6.2 | 365 ± 255 |
+| Estradiol | 12.8 ± 16.6 | 8.5 ± 6.2 | 231 ± 285 |
+| Baseline-adjusted estradiol | 9.14 ± 14.7 | 8.5 ± 6.2 | 161 ± 252 |
 | Pharmacokinetic Profiles of Conjugated Estrogens PREMARIN Vaginal Cream 0.5 g |  |  |  |
 | PK Parameters Arithmetic Mean ± SD | Cmax (ng/mL) | Tmax (hr) | AUCss (ng•hr/mL) |
-| Total estrone | 0.60± 0.32 | 6.0 ± 4.0 | 9.75± 4.99 |
-| Baseline-adjusted total estrone | 0.40± 0.28 | 6.0 ± 4.0 | 5.79± 3.7 |
-| Total estradiol | 0.04± 0.04 | 7.7 ± 5.9 | 0.70± 0.42 |
-| Baseline-adjusted total estradiol | 0.04± 0.04 | 7.7 ± 6.0 | 0.49± 0.38 |
-| Total equilin | 0.12± 0.15 | 6.1 ± 4.7 | 3.09± 1.37 |
+| Total estrone | 0.60 ± 0.32 | 6.0 ± 4.0 | 9.75 ± 4.99 |
+| Baseline-adjusted total estrone | 0.40 ± 0.28 | 6.0 ± 4.0 | 5.79 ± 3.7 |
+| Total estradiol | 0.04 ± 0.04 | 7.7 ± 5.9 | 0.70 ± 0.42 |
+| Baseline-adjusted total estradiol | 0.04 ± 0.04 | 7.7 ± 6.0 | 0.49 ± 0.38 |
+| Total equilin | 0.12 ± 0.15 | 6.1 ± 4.7 | 3.09 ± 1.37 |
 
 ### Distribution
 

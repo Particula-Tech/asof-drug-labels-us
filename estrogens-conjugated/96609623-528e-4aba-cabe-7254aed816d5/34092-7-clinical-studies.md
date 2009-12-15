@@ -27,14 +27,14 @@ For the 155 subjects (83 on the 21/7 regimen, 72 on the twice-weekly regimen) co
 | n | 52 | 21 | 50 | 18 |
 | LS meand (SD)* | -1. 45 (0.16) | -0.69 (0.24) | -1.51 (0.17) | -0.36 (0.26) |
 | P-value vs. Placebo | 0.01e | -- | <0.001f | -- |
-| a Women at baseline had≤5 percent superficial cells on a vaginal smear, a vaginal pH >5.0, and who identified dyspareunia as the most bothersome symptom. b PVC 2x/wk = apply PVC twice a week c PVC 21/7 = apply PVC for 21 days and then 7 days of no therapy d Least square mean from ANCOVA adjusting for study site and baseline dyspareunia e Comparison of PVC 2x/wk with placebo 2x/wk f Comparison of PVC 21/7 with placebo 21/7 * Symptom Assessment Scale: 0 (none), 1 (mild), 2 (moderate), 3 (severe). |  |  |  |  |
+| a Women at baseline had ≤5 percent superficial cells on a vaginal smear, a vaginal pH >5.0, and who identified dyspareunia as the most bothersome symptom.b PVC 2x/wk = apply PVC twice a week c PVC 21/7 = apply PVC for 21 days and then 7 days of no therapyd Least square mean from ANCOVA adjusting for study site and baseline dyspareunia e Comparison of PVC 2x/wk with placebo 2x/wk f Comparison of PVC 21/7 with placebo 21/7 * Symptom Assessment Scale: 0 (none), 1 (mild), 2 (moderate), 3 (severe). |  |  |  |  |
 
 ## 14.2 Women's Health Initiative Studies
 
 The Women's Health Initiative (WHI) enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of coronary heart disease [(CHD) defined as nonfatal myocardial infarction (MI), silent MI and CHD death], with invasive breast cancer as the primary adverse outcome.
 A “global index” included the earliest occurrence of CHD, invasive breast cancer, stroke, pulmonary embolism (PE), endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other causes.
-The study did not evaluate the effects of CE or CE plus MPA on menopausal symptoms.
+These substudies did not evaluate the effects of CE or CE plus MPA on menopausal symptoms.
 
 ### WHI Estrogen-Alone Substudy
 
@@ -42,27 +42,27 @@ The WHI estrogen-alone substudy was stopped early because an increased risk of s
 
 Results of the estrogen-alone substudy, which included 10,739 women (average age of 63 years, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other) after an average follow-up of 7.1 years, are presented in Table 4.
 
-| Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHI |  |  |  |  |
+| Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIa |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Event | Relative Risk CE vs. Placebo (95% nCIa) | CE n = 5,310 | Placebo n = 5,429 |  |
+| Event | Relative Risk CE vs. Placebo (95% nCIb) | CE n = 5,310 | Placebo n = 5,429 |  |
 | Absolute Risk per 10,000 Women-Years |  |  |  |  |
-| CHD eventsb | 0.95 (0.78–1.16) | 54 |  | 57 |
-| Non-fatal MI b | 0.91 (0.73–1.14) | 40 |  | 43 |
-| CHD deathb | 1.01 (0.71–1.43) | 16 |  | 16 |
-| All Strokeb | 1.33 (1.05–1.68) | 45 |  | 33 |
-| Ischemicb | 1.55 (1.19–2.01) | 38 |  | 25 |
-| Deep vein thrombosisb,c | 1.47 (1.06–2.06) | 23 |  | 15 |
-| Pulmonary embolismb | 1.37 (0.90–2.07) | 14 |  | 10 |
-| Invasive breast cancerb | 0.80 (0.62–1.04) | 28 |  | 34 |
-| Colorectal cancerd | 1.08 (0.75–1.55) | 17 |  | 16 |
-| Hip fractureb | 0.65 (0.45–0.94) | 12 |  | 19 |
-| Vertebral fracturesb,c | 0.64 (0.44–0.93) | 11 |  | 18 |
-| Lower arm/wrist fracturesb,c | 0.58 (0.47–0.72) | 35 |  | 59 |
-| Total fracturesb,c | 0.71 (0.64–0.80) | 144 |  | 197 |
-| Death due to other causesd,e | 1.08 (0.88–1.32) | 53 |  | 50 |
-| Overall mortalityb,c | 1.04 (0.88–1.22) | 79 |  | 75 |
-| Global Indexf | 1.02 (0.92–1.13) | 206 |  | 201 |
-| a Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. b Results are based on centrally adjudicated data for an average follow-up of 7.1 years. c Not included in “global index.” d Results are based on an average follow-up of 6.8 years. e All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. f A subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |  |
+| CHD eventsc | 0.95 (0.78–1.16) | 54 |  | 57 |
+| Non-fatal MIc | 0.91 (0.73–1.14) | 40 |  | 43 |
+| CHD deathc | 1.01 (0.71–1.43) | 16 |  | 16 |
+| All Strokec | 1.33 (1.05–1.68) | 45 |  | 33 |
+| Ischemicc | 1.55 (1.19–2.01) | 38 |  | 25 |
+| Deep vein thrombosisc,d | 1.47 (1.06–2.06) | 23 |  | 15 |
+| Pulmonary embolismc | 1.37 (0.90–2.07) | 14 |  | 10 |
+| Invasive breast cancerc | 0.80 (0.62–1.04) | 28 |  | 34 |
+| Colorectal cancere | 1.08 (0.75–1.55) | 17 |  | 16 |
+| Hip fracturec | 0.65 (0.45–0.94) | 12 |  | 19 |
+| Vertebral fracturesc,d | 0.64 (0.44–0.93) | 11 |  | 18 |
+| Lower arm/wrist fracturesc,d | 0.58 (0.47–0.72) | 35 |  | 59 |
+| Total fracturesc,d | 0.71 (0.64–0.80) | 144 |  | 197 |
+| Death due to other causese,f | 1.08 (0.88–1.32) | 53 |  | 50 |
+| Overall mortalityc,d | 1.04 (0.88–1.22) | 79 |  | 75 |
+| Global Indexg | 1.02 (0.92–1.13) | 206 |  | 201 |
+| aAdapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi.b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.c Results are based on centrally adjudicated data for an average follow-up of 7.1 years. d Not included in “global index.”e Results are based on an average follow-up of 6.8 years. f All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. g A subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |  |
 
 For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the “global index” was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality [see Boxed Warnings, and Warnings and Precautions (5)].
@@ -86,28 +86,28 @@ For those outcomes included in the WHI “global index” that reached statistic
 Results of the estrogen plus progestin substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 5.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-| Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa |  |  |  |
+| Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b |  |  |  |
 | --- | --- | --- | --- |
-| Event | Relative Risk CE/MPA vs. Placebo (95% nCIb) | CE/MPA n = 8,506 | Placebo n = 8,102 |
+| Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA n = 8,506 | Placebo n = 8,102 |
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | CHD events | 1.23 (0.99–1.53) | 41 | 34 |
-| Non-fatal MIb | 1.28 (1.00–1.63) | 31 | 25 |
+| Non-fatal MI | 1.28 (1.00–1.63) | 31 | 25 |
 | CHD death | 1.10 (0.70–1.75) | 8 | 8 |
 | All Strokes | 1.31 (1.03–1.68) | 33 | 25 |
 | Ischemic stroke | 1.44 (1.09–1.90) | 26 | 18 |
-| Deep vein thrombosisc | 1.95 (1.43–2.67) | 26 | 13 |
+| Deep vein thrombosisd | 1.95 (1.43–2.67) | 26 | 13 |
 | Pulmonary embolism | 2.13 (1.45–3.11) | 18 | 8 |
-| Invasive breast cancerd | 1.24 (1.01–1.54) | 41 | 33 |
+| Invasive breast cancere | 1.24 (1.01–1.54) | 41 | 33 |
 | Colorectal cancer | 0.61 (0.42–0.87) | 10 | 16 |
-| Endometrial cancerc | 0.81 (0.48–1.36) | 6 | 7 |
-| Cervical cancerc | 1.44 (0.47–4.42) | 2 | 1 |
-| Hip fractureb | 0.67 (0.47–0.96) | 11 | 16 |
-| Vertebral fracturesc | 0.65 (0.46–0.92) | 11 | 17 |
-| Lower arm/wrist fracturesc | 0.71 (0.59–0.85) | 44 | 62 |
-| Total fracturesc | 0.76 (0.69–0.83) | 152 | 199 |
-| Overall Mortalitye | 1.00 (0.83–1.19) | 52 | 52 |
-| Global Indexf | 1.13 (1.02–1.25) | 184 | 165 |
-| a Results are based on centrally adjudicated data. b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. c Not included in “global index.” d Includes metastatic and non-metastatic breast cancer, with the exception of in situ cancer. e All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. f A subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| Endometrial cancerd | 0.81 (0.48–1.36) | 6 | 7 |
+| Cervical cancerd | 1.44 (0.47–4.42) | 2 | 1 |
+| Hip fracture | 0.67 (0.47–0.96) | 11 | 16 |
+| Vertebral fracturesd | 0.65 (0.46–0.92) | 11 | 17 |
+| Lower arm/wrist fracturesd | 0.71 (0.59–0.85) | 44 | 62 |
+| Total fracturesd | 0.76 (0.69–0.83) | 152 | 199 |
+| Overall Mortalityf | 1.00 (0.83–1.19) | 52 | 52 |
+| Global Indexg | 1.13 (1.02–1.25) | 184 | 165 |
+| aAdapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi.b Results are based on centrally adjudicated data.c Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. d Not included in “global index.”e Includes metastatic and non-metastatic breast cancer, with the exception of in situ cancer. f All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. gA subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
 Timing of the initiation of estrogen therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50‑59 years of age, a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI 0.44-1.07)].
@@ -120,13 +120,13 @@ After an average follow-up of 5.2 years, the relative risk of probable dementia 
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in this study included Alzheimer's disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in both the treatment and placebo groups was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.4), and Use in Specific Populations (8.3)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.5), and Use in Specific Populations (8.3)].
 
 The WHIMS estrogen plus progestin substudy enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were 65 to 69 years of age; 35 percent were 70 to 74 years; 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 
 After an average follow-up of 4 years, the relative risk of probable dementia for CE (0.625 mg) plus MPA (2.5 mg) versus placebo was 2.05 (95 percent CI 1.21-3.48).
 The absolute risk of probable dementia for CE (0.625 mg) plus MPA (2.5 mg) versus placebo was 45 versus 22 per 10,000 women-years.
-Probable dementia as defined in this study included Alzheimer's disease, vascular dementia and mixed types (having features of both AD and VaD).
+Probable dementia as defined in this study included AD, VaD and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in both the treatment and placebo groups was AD.
 Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.4), and Use in Specific Populations (8.5)].
 

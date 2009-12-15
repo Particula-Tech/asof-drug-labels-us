@@ -26,7 +26,7 @@ The increase in risk was demonstrated after the first year and persisted.1
 
 ### Coronary Heart Disease
 
-In the WHI estrogen-alone substudy, no overall effect on coronary heart disease (CHD) events (defined as nonfatal myocardial infarction [MI], silent MI, or CHD death) was reported in women receiving estrogen alone compared to placebo2[see Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy, no overall effect on coronary heart disease (CHD) events (defined as nonfatal myocardial infarction [MI], silent MI, or CHD death) was reported in women receiving estrogen-alone compared to placebo2 [see Clinical Studies (14.2)].
 
 Subgroup analyses of women 50 to 59 years of age suggest a statistically non-significant reduction in CHD events (CE 0.625 mg compared to placebo) in women with less than 10 years since menopause (8 versus 16 per 10,000 women-years).1
 
@@ -42,12 +42,12 @@ Rates of CHD events were comparable among women in the CE (0.625 mg) plus MPA (2
 ### Venous Thromboembolism (VTE)
 
 In the WHI estrogen-alone substudy, the risk of VTE (DVT and pulmonary embolism [PE]) was increased for women receiving daily CE (0.625 mg) compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
-The increase in VTE risk was demonstrated during the first 2 years3 [see Clinical Studies (14.2)].
+The increase in VTE risk was demonstrated during the first 2 years3[see Clinical Studies (14.2)].
 Should a VTE occur or be suspected, estrogens should be discontinued immediately.
 
 In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-The increase in VTE risk was observed during the first year and persisted4 [see Clinical Studies (14.2)].
+The increase in VTE risk was observed during the first year and persisted4[see Clinical Studies (14.2)].
 Should a VTE occur or be suspected, estrogens should be discontinued immediately.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -72,7 +72,7 @@ In a 52-week clinical trial using PREMARIN Vaginal Cream alone (0.5 g inserted t
 ### Breast Cancer
 
 The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the Women's Health Initiative (WHI) substudy of daily CE (0.625 mg).
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg) was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80)5 [see Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg) was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]5[see Clinical Studies (14.2)].
 
 The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
 After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of breast cancer in women who took daily CE plus MPA.
@@ -103,13 +103,14 @@ However, the duration of exposure associated with increased risk is not consiste
 ## 5.4 Probable Dementia
 
 In the estrogen-alone Women's Health Initiative Memory Study (WHIMS), an ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg) or placebo.
-In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 
 In the WHIMS estrogen-alone ancillary study, after an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent nCI 0.83-2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8 [see Use in Specific Populations (8.3), and Clinical Studies (14.3)].
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8 [see Use in Specific Populations (8.3) and Clinical Studies (14.3)].
 
-In the WHIMS estrogen plus progestin ancillary study, after an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
+In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
+
+After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent nCI 1.21-3.48).
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8 [see Use in Specific Populations (8.3), and Clinical Studies (14.3)].
 
@@ -188,7 +189,7 @@ The potential for PREMARIN Vaginal Cream to weaken and contribute to the failure
 
 Serum follicle stimulating hormone and estradiol levels have not been shown to be useful in the management of moderate to severe symptoms of vulvar and vaginal atrophy.
 
-## 5.19 Drug/Laboratory Test Interactions
+## 5.19 Drug-Laboratory Test Interactions
 
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
