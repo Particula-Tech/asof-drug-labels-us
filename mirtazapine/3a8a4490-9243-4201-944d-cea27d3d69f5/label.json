@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077376"
+  ],
   "inn": "mirtazapine",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
@@ -19,7 +21,13 @@
     "65862-023-60",
     "65862-023-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "mirtazapine",
+      "name": "Mirtazapine"
+    }
+  ],
   "setid": "3a8a4490-9243-4201-944d-cea27d3d69f5",
   "source": "dailymed"
 }

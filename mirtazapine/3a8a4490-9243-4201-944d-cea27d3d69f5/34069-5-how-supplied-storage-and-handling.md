@@ -7,4 +7,4 @@ Box of 30 5 x 6 Unit dosage forms NDC 65862-023-06 Bottles of 30 NDC 65862-023-3
 Protect from light and moisture.
 The tablet should be used immediately after removal from its blister or container.
 Keep the container tightly closed.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2009

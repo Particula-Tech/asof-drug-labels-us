@@ -7,8 +7,7 @@ Suicide is a known risk of depression and certain other psychiatric disorders, a
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
@@ -22,7 +21,7 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 | 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| >65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -219,11 +218,9 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 
 ## Pregnancy
 
-Pregnancy Category C-
-
 ### Teratogenic effects
 
-Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on a mg/m 2 basis, respectively], have revealed no evidence of teratogenic effects.
+Pregnancy Category C Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on a mg/m 2 basis, respectively], have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in post-implantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.
@@ -238,7 +235,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNINGS and WARNINGS—Clinical Worsening and Suicide Risk ).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNINGS and WARNINGS—Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine tablets, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of mirtazapine orally disintegrating tablets in a child or adolescent must balance the risks with the clinical need.
 In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.

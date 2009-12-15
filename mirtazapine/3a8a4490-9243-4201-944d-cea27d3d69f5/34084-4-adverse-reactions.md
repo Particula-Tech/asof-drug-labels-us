@@ -5,9 +5,10 @@
 Approximately 16 percent of the 453 patients who received mirtazapine tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of the 361 placebo-treated patients in those studies.
 The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
 
-| Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US Mirtazapine Trials |  |  |
-| --- | --- | --- |
+Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US Mirtazapine Trials
+
 | Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
+| --- | --- | --- |
 | Mirtazapine (n=453) | Placebo (n=361) |  |
 | Somnolence | 10.4% | 2.2% |
 | Nausea | 1.5% | 0% |
@@ -16,9 +17,10 @@ The most common events (≥ 1%) associated with discontinuation and considered t
 
 The most commonly observed adverse events associated with the use of mirtazapine tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine incidence at least twice that for placebo) were:
 
-| Common Treatment – Emergent Adverse Events Associated with the Use of Mirtazapinein 6-Week US Trials |  |  |
-| --- | --- | --- |
+Common Treatment –Emergent Adverse Events Associated with the Use of Mirtazapine in 6-Week US Trials
+
 | Adverse Event | Percentage of Patients Reporting Adverse Event |  |
+| --- | --- | --- |
 | Mirtazapine (n=453) | Placebo (n=361) |  |
 | Somnolence | 54% | 18% |
 | Increased Appetite | 17% | 2% |
@@ -36,35 +38,34 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 INCIDENCE OF ADVERSE CLINICAL EXPERIENCES1 (≥1%) IN SHORT-TERM US CONTROLLED STUDIES
 
-| Body System Adverse Clinical Experience | Mirtazapine (n=453) | Placebo (n=361) |  |
-| --- | --- | --- | --- |
-| Body as a Whole |  |  |  |
-| Asthenia | 8% |  | 5% |
-| Flu Syndrome | 5% |  | 3% |
-| Back Pain | 2% |  | 1% |
-| Digestive System |  |  |  |
-| Dry Mouth | 25% |  | 15% |
-| Increased Appetite | 17% |  | 2% |
-| Constipation | 13% |  | 7% |
-| Metabolic and Nutritional Disorders |  |  |  |
-| Weight Gain | 12% |  | 2% |
-| Peripheral Edema | 2% |  | 1% |
-| Edema | 1% |  | 0% |
-| Musculoskeletal System |  |  |  |
-| Myalgia | 2% |  | 1% |
-| Nervous System |  |  |  |
-| Somnolence | 54% |  | 18% |
-| Dizziness | 7% |  | 3% |
-| Abnormal Dreams | 4% |  | 1% |
-| Thinking Abnormal | 3% |  | 1% |
-| Tremor | 2% |  | 1% |
-| Confusion | 2% |  | 0% |
-| Respiratory System |  |  |  |
-| Dyspnea | 1% |  | 0% |
-| Urogenital System |  |  |  |
-| Urinary Frequency | 2% |  | 1% |
-
-1 Events reported by at least 1% of patients treated with mirtazapine are included, except the following events which had an incidence on placebo ≥ mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
+| Body System Adverse Clinical Experience | Mirtazapine (n=453) | Placebo (n=361) |
+| --- | --- | --- |
+| Body as a Whole |  |  |
+| Asthenia | 8% | 5% |
+| Flu Syndrome | 5% | 3% |
+| Back Pain | 2% | 1% |
+| Digestive System |  |  |
+| Dry Mouth | 25% | 15% |
+| Increased Appetite | 17% | 2% |
+| Constipation | 13% | 7% |
+| Metabolic and Nutritional Disorders |  |  |
+| Weight Gain | 12% | 2% |
+| Peripheral Edema | 2% | 1% |
+| Edema | 1% | 0% |
+| Musculoskeletal System |  |  |
+| Myalgia | 2% | 1% |
+| Nervous System |  |  |
+| Somnolence | 54% | 18% |
+| Dizziness | 7% | 3% |
+| Abnormal Dreams | 4% | 1% |
+| Thinking Abnormal | 3% | 1% |
+| Tremor | 2% | 1% |
+| Confusion | 2% | 0% |
+| Respiratory System |  |  |
+| Dyspnea | 1% | 0% |
+| Urogenital System |  |  |
+| Urinary Frequency | 2% | 1% |
+| 1Events reported by at least 1% of patients treated with mirtazapine are included, except the following events which had an incidence on placebo ≥ mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion. |  |  |
 
 ## ECG Changes
 
