@@ -75,4 +75,4 @@ Because of the potential for adverse reactions in nursing infants from BETAPACE 
 
 The safety and effectiveness of BETAPACE AF in children have not been established.
 However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old.
-(SeeCLINICAL PHARMACOLOGY.)
+(See CLINICAL PHARMACOLOGY.)

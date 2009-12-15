@@ -29,7 +29,7 @@ Twenty-five children in an unblinded, multicenter trial with supraventricular (S
 During steady-state, the respective average increases above baseline of the QTc interval, in msec (%), were 2(+1%), 14(+4%) and 29(+7%) msec at the 3 dose levels.
 The respective mean maximum increases above baseline of the QTc interval, in msec (%), were 23(+6%), 36(+9%) and 55(+14%) msec at the 3 dose levels.
 The steady-state percent increases in the RR interval were 3, 9 and 12%.
-The smallest children (BSA<0.33m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA≥.0.33m 2).
+The smallest children (BSA<0.33m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA≥.0.33m2).
 The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33m2).
 Both the Class III and beta-blocking effects of sotalol were linearly related with the plasma concentrations.
 
@@ -42,7 +42,7 @@ Exercise and isoproterenol induced tachycardia are antagonized by sotalol, and t
 
 In hypertensive patients, sotalol produces significant reductions in both systolic and diastolic blood pressures.
 Although sotalol is usually well-tolerated hemodynamically, caution should be exercised in patients with marginal cardiac compensation as deterioration in cardiac performance may occur.
-(See WARNINGS:Congestive Heart Failure.)
+(See WARNINGS: Congestive Heart Failure.)
 
 ## Clinical Studies:
 
@@ -58,7 +58,7 @@ The patient population in this trial was 64% male, and the mean age was 62 years
 No structural heart disease was present in 43% of the patients.
 Doses were administered once daily in 20% of the patients because of reduced creatinine clearance.
 
-BETAPACE AF was shown to prolong the time to the first symptomatic, ECG documented recurrence of AFIB/AFL, as well as to reduce the risk of such recurrence at both 6 and 12 months.
+BETAPACE AF was shown to prolong the time to the first symptomatic, ECG-documented recurrence of AFIB/AFL, as well as to reduce the risk of such recurrence at both 6 and 12 months.
 The 120 mg dose was more effective than 80 mg, but 160 mg did not appear to have an added benefit.
 Note that these doses were given twice or once daily, depending on renal function.
 The results are shown in Figure 1 and Tables 1 and 2.

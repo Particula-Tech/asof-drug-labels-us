@@ -27,10 +27,10 @@ If the baseline QT is greater than 450 msec (JT ≥330 msec if QRS over 100 msec
 Step 2.
 Calculation of creatinine clearance: Prior to the administration of the first dose, the patient's creatinine clearance should be calculated using the following formula:
 
-| creatinine clearance (male) = | (140-age)x body weight in kg |
+| creatinine clearance (male) = | (140-age) x body weight in kg |
 | --- | --- |
 | 72 x serum creatinine (mg/dL) |  |
-| creatinine clearance (female) = | (140-age)x body weight in kg x 0.85 |
+| creatinine clearance (female) = | (140-age) x body weight in kg x 0.85 |
 | 72 x serum creatinine (mg/dL) |  |
 
 When serum creatinine is given in μmol/L, divide the value by 88.4 (1 mg/dL = 88.4 μmol/L).
@@ -126,7 +126,7 @@ Since the half-life of sotalol decreases with decreasing age (below about 2 year
 Thus, in neonates the time to steady-state may be as long as a week or longer.
 
 In all children, individualization of dosage is required.
-As in adults BETAPACE (sotalol hydrochloride) should be used with particular caution in children if the QTc is greater than 500 msec on therapy and serious consideration should be given to reducing the dose or discontinuing therapy when QTc exceeds 550 msec.
+As in adults BETAPACE AF (sotalol hydrochloride) should be used with particular caution in children if the QTc is greater than 500 msec on therapy and serious consideration should be given to reducing the dose or discontinuing therapy when QTc exceeds 550 msec.
 
 The use of BETAPACE AF (sotalol hydrochloride) in children with renal impairment has not been investigated.
 Sotalol elimination is predominantly via the kidney in the unchanged form.
@@ -145,12 +145,12 @@ After discontinuation of amiodarone, BETAPACE AF should not be initiated until t
 
 #### Preparation of Extemporaneous Oral Solution
 
-BETAPACE Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
+BETAPACE AF Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
 
 1. Measure 120 mL of Simple Syrup
 2. Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
    NOTE: An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-3. Add five (5) BETAPACE 120 mg tablets to the bottle.
+3. Add five (5) BETAPACE AF 120 mg tablets to the bottle.
    These tablets are added intact; it is not necessary to crush the tablets.
    NOTE: The addition of the tablets can also be done first.
    The tablets can also be crushed if preferred.

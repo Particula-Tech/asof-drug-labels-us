@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
 What You Should Know About BETAPACE AF
 
@@ -153,14 +153,12 @@ Your doctor or pharmacist has a longer leaflet written for healthcare profession
 BETAPACE AF was prescribed for your particular condition.
 Do not use it for another condition or give it to others.
 
-© 2004 Berlex, Inc. All rights reserved.
+© 2009, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
 
-Manufactured for Berlex, Montville, NJ 07045
-
-6061401
+Manufactured for Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
+Wayne, NJ 07470
 
 Manufactured in Finland
 
-212983
-
-January 2004
+6700801 US 81819980 Rev.
+April 2007
