@@ -2,26 +2,25 @@
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
+Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your, or your family member’s, healthcare provider about:
+Talk to your, or your family member’s healthcare provider about:
 
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illness
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults when the medicine is first started.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults when the medicine is first started.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-
-- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is first started or when the dose is changed.
-- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- Keep all follow-up visits with the healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts or feelings.
+     This is very important when an antidepressant medicine is first started or when the dose is changed.
+   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - Keep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -55,15 +54,3 @@ What else do I need to know about antidepressant medicines?
   Talk to your child’s healthcare provider for more information.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
-
-Rx Only
-
-Manufactured by: Pharmaceutics International, Inc. Hunt Valley, MD 21031
-
-Manufactured for: Warner Chilcott Company, Inc. Fajardo, PR 00738
-
-Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 078661 1-800-521-8813
-
-0210G016
-
-Revised January 2008

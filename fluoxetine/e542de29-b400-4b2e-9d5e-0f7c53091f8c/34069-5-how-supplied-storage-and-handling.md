@@ -10,6 +10,6 @@ The 20 mg tablet is a yellow, round tablet embossed with S20 on one side: N 0430
 
 ________________
 
-1Equivalent to fluoxetine base.
+1 Equivalent to fluoxetine base.
 
 Store at 25˚ C (77˚ F); excursions permitted to 15˚ - 30˚ C (59˚ - 86˚ F) [see USP Controlled Room Temperature]

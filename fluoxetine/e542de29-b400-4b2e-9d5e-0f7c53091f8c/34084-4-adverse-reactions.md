@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
 In 1 of 3 placebo-controlled, continuous-dosing trials and 1 placebo-controlled, intermittent-dosing trial of fluoxetine in PMDD, treatment-emergent adverse events reporting rates were assessed.
-The information from Table 3: Most Common Treatment-Emergent Adverse Events: Incidence in PMDD Placebo-Controlled Clinical Trials included under ADVERSE REACTIONS is based on data from the continuous-dosing trial at the recommended dose of SARAFEM (SARAFEM 20 mg, N=104; placebo, N=108) and data from the intermittent-dosing trial of fluoxetine in PMDD (SARAFEM 20 mg, N=86; placebo, N=88).
-In addition, a broader set of information on treatment-emergent adverse events in the population of female patients, 18 to 45 years of age from the US placebo-controlled depression, OCD, and bulimia clinical trials, is presented for comparison (see Table 4: Treatment-Emergent Adverse Events: Incidence in Female Patients Ages 18 to 45 Years in US Depression, OCD, and Bulimia Placebo-Controlled Clinical Trials.
+The information from Table 3 included under ADVERSE REACTIONS is based on data from the continuous-dosing trial at the recommended dose of SARAFEM (SARAFEM 20 mg, N = 104; placebo, N = 108) and data from the intermittent-dosing trial of fluoxetine in PMDD (SARAFEM 20 mg, N = 86; placebo, N = 88).
+In addition, a broader set of information on treatment-emergent adverse events in the population of female patients, 18 to 45 years of age from the US placebo-controlled depression, OCD, and bulimia clinical trials, is presented for comparison (see Table 3).
 
 Adverse events were recorded by clinical investigators using descriptive terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a limited (i.e., reduced) number of standardized event categories.
@@ -22,7 +22,7 @@ Table 3: Most Common Treatment-Emergent Adverse Events: Incidence in PMDD Placeb
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
-| Body System/Adverse EventIncluded in the table are events reported by at least 5% of patients taking SARAFEM 20 mg either continuously or intermittently. For additional adverse event terms referenced in PRECAUTIONS, reporting rates for SARAFEM 20 mg continuous and intermittent were, respectively: anxiety 4.8%, 1.2% and anorexia 3.8%, 3.5% | SARAFEM 20 mg/day Continuously (N=104) | SARAFEM 20 mg/day Intermittently (N=86) | Placebo (Pooled) (N=196) |
+| Body System/Adverse EventIncluded in the table are events reported by at least 5% of patients taking SARAFEM 20 mg either continuously or intermittently. For additional adverse event terms referenced in PRECAUTIONS, reporting rates for SARAFEM 20 mg continuous and intermittent were, respectively: anxiety 4.8%, 1.2% and anorexia 3.8%, 3.5%. | SARAFEM 20 mg/day Continuously (N = 104) | SARAFEM 20 mg/day Intermittently (N = 86) | Placebo (Pooled) (N = 196) |
 | Body as a Whole |  |  |  |
 | Headache | 13 | 15 | 11 |
 | Asthenia | 12 | 8 | 4 |
@@ -49,7 +49,7 @@ Table 4: Treatment-Emergent Adverse Events: Incidence in Female Patients Ages 18
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
-| Body System/Adverse EventIncluded are events reported by at least 2% of patients taking fluoxetine, except the following events, which had an incidence on placebo > fluoxetine (depression, OCD, and bulimia combined): back pain, cough increased, depression (includes suicidal thoughts), dysmenorrhea, flatulence, infection, myalgia, pain, pruritus, rhinitis, sinusitis. | Fluoxetine (N=1145) | Placebo (N=553) |
+| Body System/Adverse EventIncluded are events reported by at least 2% of patients taking fluoxetine, except the following events, which had an incidence on placebo > fluoxetine (depression, OCD, and bulimia combined): back pain, cough increased, depression (includes suicidal thoughts), dysmenorrhea, flatulence, infection, myalgia, pain, pruritus, rhinitis, sinusitis. | Fluoxetine (N = 1145) | Placebo (N = 553) |
 | Body as a Whole |  |  |
 | Headache | 24 | 21 |
 | Asthenia | 14 | 6 |
@@ -91,11 +91,11 @@ Table 4: Treatment-Emergent Adverse Events: Incidence in Female Patients Ages 18
 | Urogenital System |  |  |
 | Urinary frequency | 2 | 1 |
 
-Associated with discontinuation in two placebo-controlled PMDD clinical trials — In a continuous-dosing PMDD placebo-controlled trial, the most common adverse event (incidence at least 2% for SARAFEM 20 mg and greater than placebo) associated with discontinuation was nausea (3% for SARAFEM 20 mg, N=104 and 1% for placebo, N=108).
+Associated with discontinuation in two placebo-controlled PMDD clinical trials — In a continuous-dosing PMDD placebo-controlled trial, the most common adverse event (incidence at least 2% for SARAFEM 20 mg and greater than placebo) associated with discontinuation was nausea (3% for SARAFEM 20 mg, N = 104 and 1% for placebo, N = 108).
 In an intermittent-dosing placebo-controlled trial, no events associated with discontinuation reached an incidence of 2% for SARAFEM 20 mg.
 In these clinical trials, more than one event may have been recorded as the cause of discontinuation.
 
-Associated with discontinuation in US depression, OCD, and bulimia placebo-controlled clinical trials (excluding data from extensions of trials) — In female patients age 18 to 45 years in US depression, OCD, and bulimia placebo-controlled clinical trials combined, which collected a single primary event associated with discontinuation (incidence at least 1% for fluoxetine and at least twice that for placebo), insomnia (1%, N=561) was the only event reported.
+Associated with discontinuation in US depression, OCD, and bulimia placebo-controlled clinical trials (excluding data from extensions of trials) — In female patients age 18 to 45 years in US depression, OCD, and bulimia placebo-controlled clinical trials combined, which collected a single primary event associated with discontinuation (incidence at least 1% for fluoxetine and at least twice that for placebo), insomnia (1%, N = 561) was the only event reported.
 
 Female sexual dysfunction with SSRIs — Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a mood-related disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
@@ -110,7 +110,7 @@ While it is difficult to know the precise risk of sexual dysfunction associated 
 
 ## Other Events Observed in US Clinical Trials
 
-Following is a list of all treatment-emergent adverse events reported at anytime by females and males taking fluoxetine in all US clinical trials for conditions other than PMDD as of May 8, 1995 (10,782 patients) except (1) those listed in the body or footnotes of Tables 3 or 4 above or elsewhere in labeling; (2) those for which the COSTART terms were uninformative or misleading; (3) those events for which a causal relationship to fluoxetine use was considered remote; (4) events occurring in only 1 patient treated with fluoxetine and which did not have a substantial probability of being acutely life-threatening; and (5) events that could only occur in males.
+Following is a list of all treatment-emergent adverse events reported at anytime by females and males taking fluoxetine in all US clinical trials for conditions other than PMDD as of May 8, 1995 (10,782 patients) except (1) those listed in the body or footnotes of Tables 2 or 3 above or elsewhere in labeling; (2) those for which the COSTART terms were uninformative or misleading; (3) those events for which a causal relationship to fluoxetine use was considered remote; (4) events occurring in only 1 patient treated with fluoxetine and which did not have a substantial probability of being acutely life-threatening; and (5) events that could only occur in males.
 
 Events are classified within body system categories using the following definitions: frequent adverse events are defined as those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in less than 1/1000 patients.
 
@@ -138,10 +138,10 @@ Special Senses — Frequent: ear pain, taste perversion, tinnitus; Infrequent: c
 
 Urogenital System — Infrequent: abortion2, albuminuria, amenorrhea2, anorgasmia, breast enlargement, breast pain, cystitis, dysuria, female lactation2, fibrocystic breast2, hematuria, leukorrhea2, menorrhagia2, metrorrhagia2, nocturia, polyuria, urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhage2; Rare: breast engorgement, glycosuria, hypomenorrhea2, kidney pain, oliguria, uterine hemorrhage2, uterine fibroids enlarged2.
 
-1Personality disorder is the COSTART term for designating non-aggressive objectionable behavior.
+1 Personality disorder is the COSTART term for designating non-aggressive objectionable behavior.
 
-2Adjusted for gender.
+2 Adjusted for gender.
 
 ## Postintroduction Reports
 
-Voluntary reports of adverse events temporally associated with fluoxetine that have been received since market introduction of fluoxetine and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation, cataract, cerebral vascular accident, cholestatic jaundice, confusion, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77 year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, misuse/abuse, movement disorders developing in patients with risk factors including drugs associated with such events and worsening of preexisting movement disorders, neuroleptic malignant syndrome-like events, optic neuritis, pancreatitis, pancytopenia, priapism, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, sudden unexpected death, suicidal ideation, thrombocytopenia, thrombocytopenic purpura, vaginal bleeding after drug withdrawal, ventricular tachycardia (including torsades de pointes-type arrhythmias), and violent behaviors.
+Voluntary reports of adverse events temporally associated with fluoxetine that have been received since market introduction of fluoxetine and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation, cataract, cerebral vascular accident, cholestatic jaundice, confusion, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77 year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, misuse/abuse, movement disorders developing in patients with risk factors including drugs associated with such events and worsening of preexisting movement disorders, optic neuritis, pancreatitis, pancytopenia, priapism, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, sudden unexpected death, suicidal ideation, thrombocytopenia, thrombocytopenic purpura, vaginal bleeding after drug withdrawal, ventricular tachycardia (including torsades de pointes-type arrhythmias), and violent behaviors.

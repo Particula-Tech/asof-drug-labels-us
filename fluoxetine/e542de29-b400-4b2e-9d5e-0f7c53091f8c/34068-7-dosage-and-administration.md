@@ -12,7 +12,7 @@ The maximum fluoxetine dose should not exceed 80 mg/day.
 
 As with many other medications, a lower or less frequent dosage should be considered in patients with hepatic impairment.
 A lower or less frequent dosage should also be considered for patients with concurrent disease or on multiple concomitant medications.
-Dosage adjustments for renal impairment are not routinely necessary (see Liver disease and Renal disease under CLINICAL PHARMACOLOGY, Special Populations, and Use in Patients with Concomitant Illness under PRECAUTIONS, General).
+Dosage adjustments for renal impairment are not routinely necessary (see Liver disease and Renal disease underCLINICAL PHARMACOLOGY, Special Populations, and Use in Patients with Concomitant Illness underPRECAUTIONS, General).
 
 ### Maintenance/Continuation Treatment
 
@@ -23,7 +23,7 @@ Patients should be periodically reassessed to determine the need for continued t
 
 ### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to fluoxetine and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see Nonteratogenic Effects under PRECAUTIONS, Pregnancy).
+Neonates exposed to fluoxetine and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see Nonteratogenic Effects underPRECAUTIONS, Pregnancy).
 When treating pregnant women with fluoxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering fluoxetine in the third trimester.
 
