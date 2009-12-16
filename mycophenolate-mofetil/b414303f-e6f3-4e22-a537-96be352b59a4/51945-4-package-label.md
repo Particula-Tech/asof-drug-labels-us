@@ -1,0 +1,84 @@
+# PRINCIPAL DISPLAY PANELS
+
+## 250 mg 100 Capsules Label Text
+
+NDC 0093-7334-01
+
+MYCOPHENOLATE
+
+MOFETIL
+
+Capsules
+
+250 mg
+
+PHARMACIST: PLEASE DISPENSE WITH
+
+ATTACHED MEDICATION GUIDE
+
+Rx only
+
+100 CAPSULES
+
+TEVA
+
+## 250 mg Capsules Blister Text
+
+NDC 0093-7334-19
+
+MYCOPHENOLATE MOFETIL
+
+Capsule, 250 mg
+
+Mfd in Israel For: TEVA Pharmaceuticals USA
+
+Sellersville, PA 18960 Iss.
+7/2008
+
+Lot: Exp:
+
+## 250 mg Capsules Box Text
+
+NDC 0093-7334-93
+
+MYCOPHENOLATE
+
+MOFETIL Capsules
+
+250 mg
+
+Each capsule contains:
+
+mycophenolate mofetil 250 mg
+
+PHARMACIST: PLEASE DISPENSE WITH
+
+ATTACHED MEDICATION GUIDE
+
+Rx only
+
+100 Unit-dose Capsules (10 x 10s)
+
+TEVA
+
+## 500 mg 100 Tablets Label Text
+
+NDC 0093-7477-01
+
+MYCOPHENOLATE
+
+MOFETIL
+
+Tablets
+
+500 mg
+
+PHARMACIST: PLEASE DISPENSE WITH
+
+ATTACHED MEDICATION GUIDE
+
+Rx only
+
+100 TABLETS
+
+TEVA
