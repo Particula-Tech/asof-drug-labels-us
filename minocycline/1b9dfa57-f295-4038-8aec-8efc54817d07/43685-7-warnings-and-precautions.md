@@ -76,8 +76,8 @@ Safety of SOLODYN® beyond 12 weeks of use has not been established.
 As with other antibiotic preparations, use of SOLODYN® may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, the antibiotic should be discontinued and appropriate therapy instituted.
 
-Bacterial resistance to the tetracyclines may develop in patients using SOLODYN®, therefore the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
-Because of the potential for drug-resistant bacteria to develop during the use of SOLODYN®, it should be used only as indicated.
+Bacterial resistance to the tetracyclines may develop in patients using SOLODYN,® therefore the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
+Because of the potential for drug-resistant bacteria to develop during the use of SOLODYN,® it should be used only as indicated.
 
 ## Autoimmune Syndromes
 
@@ -165,7 +165,7 @@ Minocycline was not clastogenic in vitro using human peripheral blood lymphocyte
 Male and female reproductive performance in rats was unaffected by oral doses of minocycline of up to 300 mg/kg/day (which resulted in up to approximately 40 times the level of systemic exposure to minocycline observed in patients as a result of use of SOLODYN®).
 However, oral administration of 100 or 300 mg/kg/day of minocycline to male rats (resulting in approximately 15 to 40 times the level of systemic exposure to minocycline observed in patients as a result of use of SOLODYN®) adversely affected spermatogenesis.
 Effects observed at 300 mg/kg/day included a reduced number of sperm cells per gram of epididymis, an apparent reduction in the percentage of sperm that were motile, and (at 100 and 300 mg/kg/day) increased numbers of morphologically abnormal sperm cells.
-Morphological abnormalities observed in sperm samples included absent heads, misshapen heads, and abnormal flagella.
+Morphological abnormailities observed in sperm samples included absent heads, misshapen heads, and abnormal flagella.
 
 Limited human studies suggest that minocycline may have a deleterious effect on spermatogenesis.
 

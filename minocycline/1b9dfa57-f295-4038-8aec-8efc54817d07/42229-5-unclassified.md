@@ -8,16 +8,18 @@ SOLODYN® is indicated to treat only inflammatory lesions of non-nodular moderat
 
 This formulation of minocycline has not been evaluated in the treatment of infections.
 
-U.S. Patent 5,908,838 and Patents Pending
+U.S. Patent 5,908,83890 mg is also covered by U.S. Patents 7,541,347 and 7,544,373 and Patents Pending
 
 Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256
 
-Manufactured by: Wellspring Pharmaceutical Canada Corp. Oakville, Ontario L6H 1M5
+Manufactured by: Wellspring Pharmaceutical Canada Corp. Oakville, Ontario L6H 1M5 Canada
 
 N4605A
 
-SOLODYN® is manufactured by Wellspring Pharmaceutical Canada Corp. for Medicis, The Dermatology Company, Scottsdale, Arizona, 85256.
+17100004
 
-July 2008
+SOLODYN® is manufactured by Wellspring Pharmaceutical Canada Corp. for Medicis, The Dermatology Company, Scottsdale, AZ, 85256.
 
-N4605A
+July 2009
+
+N4605A 17100004

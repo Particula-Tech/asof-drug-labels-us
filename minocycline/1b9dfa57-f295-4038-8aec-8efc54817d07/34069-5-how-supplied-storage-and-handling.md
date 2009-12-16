@@ -14,7 +14,6 @@ Each tablet contains minocycline hydrochloride equivalent to 65 mg minocycline, 
 
 | NDC 99207-463-30 | Bottle of 30 |
 | --- | --- |
-| NDC 99207-463-10 | Bottle of 100 |
 
 The 90 mg extended release tablets are yellow, unscored, coated, and debossed with "DYN-090" on one side.
 Each tablet contains minocycline hydrochloride equivalent to 90 mg minocycline, supplied as follows:
@@ -23,12 +22,11 @@ Each tablet contains minocycline hydrochloride equivalent to 90 mg minocycline, 
 | --- | --- |
 | NDC 99207-461-10 | Bottle of 100 |
 
-The 115 mg extended release tablets are green, unscored, coated and debossed with "DYN-115" on one side.
+The 115 mg extended release tablets are green, unscored, coated, and debossed with "DYN-115" on one side.
 Each tablet contains minocycline hydrochloride equivalent to 115 mg minocycline, supplied as follows:
 
 | NDC 99207-464-30 | Bottle of 30 |
 | --- | --- |
-| NDC 99207-464-10 | Bottle of 100 |
 
 The 135 mg extended release tablets are pink (orange-brown), unscored, coated, and debossed with "DYN-135" on one side.
 Each tablet contains minocycline hydrochloride equivalent to 135 mg minocycline, supplied as follows:

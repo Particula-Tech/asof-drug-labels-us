@@ -9,7 +9,7 @@ Table 3: Dosing Table for SOLODYN®
 
 | Patient's Weight (lbs.) | Patient's Weight (kg) | Tablet Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
-| 99 – 120 | 45 – 54 | 45 | 1– 0.83 |
+| 99 – 120 | 45 – 54 | 45 | 1 – 0.83 |
 | 121 – 170 | 55 – 77 | 65 | 1.18 – 0.84 |
 | 171 – 225 | 78 – 102 | 90 | 1.15 – 0.88 |
 | 226 – 276 | 103 – 125 | 115 | 1.12 – 0.92 |

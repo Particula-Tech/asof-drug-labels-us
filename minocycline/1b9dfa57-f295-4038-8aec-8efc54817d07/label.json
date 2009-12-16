@@ -3,26 +3,27 @@
     "NDA050808"
   ],
   "inn": "minocycline",
-  "labeler": "Medicis Pharmaceutical Corp",
+  "labeler": "Medicis Pharmaceutical Corp.",
   "package_ndcs": [
+    "99207-460-01",
     "99207-460-10",
     "99207-460-30",
+    "99207-461-01",
     "99207-461-10",
     "99207-461-30",
+    "99207-462-01",
     "99207-462-10",
     "99207-462-30",
     "99207-463-01",
-    "99207-463-10",
     "99207-463-30",
     "99207-464-01",
-    "99207-464-10",
     "99207-464-30"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED, EXTENDED RELEASE",
       "generic": "minocycline hydrochloride",
-      "name": "SOLODYN"
+      "name": "Solodyn"
     }
   ],
   "setid": "1b9dfa57-f295-4038-8aec-8efc54817d07",

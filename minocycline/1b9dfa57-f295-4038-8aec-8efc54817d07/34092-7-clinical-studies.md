@@ -5,7 +5,7 @@ The mean age of subjects was 20 years and subjects were from the following racia
 
 In two efficacy and safety trials, a total of 924 subjects with non-nodular moderate to severe acne vulgaris received SOLODYN® or placebo for a total of 12 weeks, according to the following dose assignments.
 
-| Subject's Weight (lbs) | Subject's Weight (kg) | Available Caplet Strength (mg) | Actual mg/kg Dose |
+| Subject's Weight (lbs.) | Subject's Weight (kg) | Available Caplet Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
 | 99 – 131 | 45.00 – 59.54 | 45 | 1.00 – 0.76 |
 | 132 – 199 | 60.00 – 90.45 | 90 | 1.50 – 1.00 |

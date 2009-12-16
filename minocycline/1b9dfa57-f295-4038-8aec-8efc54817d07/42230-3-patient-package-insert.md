@@ -21,7 +21,7 @@ Who should not take SOLODYN®?
 
 Do not take SOLODYN® if you are allergic to minocycline or any other tetracycline antibiotics.
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
-See the end of this leaflet for a complete list of ingredients in SOLODYN®.
+See the end of this leaflet for a complete list of ingredients in SOLODYN.®
 
 SOLODYN® should not be used by pregnant women, women attempting to conceive a child, or children up to 8 years old because:
 
@@ -52,7 +52,7 @@ Especially tell your doctor if you take:
 
 - birth control pills.
   SOLODYN® may make your birth control pills less effective.
-  You should use a second form of birth control while taking SOLODYN®.
+  You should use a second form of birth control while taking SOLODYN.®
 - a blood thinner medicine.
   The dose of your blood thinner may be lowered.
 - a penicillin antibiotic medicine.
@@ -74,12 +74,13 @@ How should I take SOLODYN®?
   Your esophagus is the tube that connects your mouth to your stomach.
 - Swallow SOLODYN® Tablets whole.
   Do not chew, crush, or split the tablets.
-- If you forget to take SOLODYN®, take it as soon as you remember.
+- If you forget to take SOLODYN,® take it as soon as you remember.
   Do not take more than one tablet of SOLODYN® in one day.
 - If you take too much SOLODYN® at a time, call your doctor.
-- If you do not notice an improvement in your acne after 12 weeks of treatment with SOLODYN®, call your doctor.
+- If you do not notice an improvement in your acne after 12 weeks of treatment with SOLODYN,® call your doctor.
 
-What are possible side effects of SOLODYN®?
+What are the possible side effects of SOLODYN®?
+
 SOLODYN® may cause serious side effects.
 
 Stop SOLODYN® and call your doctor if you have:
@@ -100,8 +101,7 @@ SOLODYN® may also cause:
   Symptoms include light-headedness, dizziness, and a spinning feeling (vertigo).
   You should not drive or operate dangerous machines if you have these symptoms.
 - sun sensitivity (photosensitivity).
-  You may get a worse sunburn with SOLODYN®.
-  Avoid sun exposure and the use of sunlamps or tanning beds.
+  You may get a worse sunburn with SOLODYN.® Avoid sun exposure and the use of sunlamps or tanning beds.
   Protect your skin while out in sunlight.
   Stop SOLODYN® and call your doctor at the first sign of redness or sunburn.
 - darkening of skin, scars, teeth, and gums.
@@ -118,8 +118,7 @@ The most common side effects with SOLODYN® include:
 
 Call your doctor if you have a side effect that bothers you or that does not go away.
 
-These are not all the side effects with SOLODYN®.
-Ask your doctor or pharmacist for more information.
+These are not all the side effects with SOLODYN.® Ask your doctor or pharmacist for more information.
 
 How should I store SOLODYN®?
 
@@ -134,12 +133,12 @@ Do not use SOLODYN® for a condition for which it was not prescribed.
 Do not give SOLODYN® to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This leaflet summarizes the most important information about SOLODYN®.
-If you would like more information, talk to your doctor.
+This leaflet summarizes the most important information about SOLODYN.® If you would like more information, talk to your doctor.
 You can ask your doctor or pharmacist for information about SOLODYN® that is written for health professionals.
 
 What are the Ingredients in SOLODYN®?
-Active Ingredient: minocycline HCl USP equivalent to 45 mg, 65mg, 90 mg, 115mg, or 135 mg of minocycline.
+
+Active Ingredient: minocycline HCl USP equivalent to 45 mg, 65 mg, 90 mg, 115 mg, or 135 mg of minocycline.
 
 Inactive Ingredients: lactose monohydrate NF, hypromellose type 2910 USP, magnesium stearate NF, colloidal silicon dioxide NF, and carnauba wax NF.
 The 45 mg tablets also contain opadry II gray which contains: lactose monohydrate NF, hypromellose type 2910 USP, titanium dioxide USP, triacetin USP, and iron oxide black JPE.
