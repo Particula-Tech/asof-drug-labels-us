@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
-Local reactions (e.g., phlebitis/thrombophlebitis; discomfort/swelling) following IV administration occurred at rates of approximately 1.9 percent.
+Local reactions (eg, phlebitis/thrombophlebitis; discomfort/swelling) following intravenous administration occurred at rates of approximately 1.9%.
 
-Systemic reactions (considered to be related to therapy or of uncertain etiology) occurring at an incidence of 1 to 1.3 percent include diarrhea, nausea and/or vomiting, and rash.
-Reactions occurring at an incidence of less than 1 percent are listed within each body system in order of decreasing severity:
+Systemic reactions (considered to be related to therapy or of uncertain etiology) occurring at an incidence of 1% to 1.3% include diarrhea, nausea and/or vomiting, and rash.
+Reactions occurring at an incidence of less than 1% are listed within each body system in order of decreasing severity:
 
 Hypersensitivity—anaphylaxis, angioedema, bronchospasm
 
@@ -38,19 +38,19 @@ The following systemic adverse events, regardless of drug relationship, occurred
 These adverse events were comparable to those observed in adult clinical trials.
 
 In 343 pediatric patients receiving intravenous therapy, the following local reactions were noted: pain (12%), erythema (2.9%), induration (0.9%), and phlebitis (2.1%).
-In the US patient population, pain occurred in 1.5% of patients, while each of the remaining three local reactions had an incidence of 0.5%.
+In the US patient population, pain occurred in 1.5% of patients, while each of the remaining 3 local reactions had an incidence of 0.5%.
 
 The following laboratory adverse events, regardless of drug relationship, occurred in at least 1% of treated patients: increased eosinophils (6.3%), increased platelets (3.6%), neutropenia (3.2%), increased AST (3.8%), increased ALT (6.5%), and increased serum creatinine (5.8%).
 
-In US pediatric clinical trials, neutropenia (absolute neutrophil count less than 1000/mm3) occurred in 11.3% of patients (8/71) younger than 2 years receiving 30 mg/kg q6h.
-AST and ALT elevations to greater than 3 times the upper limit of normal were noted in 15-20% of patients aged 2 years or above receiving 50 mg/kg q6h.
+In US pediatric clinical trials, neutropenia (absolute neutrophil count less than 1000/mm3) occurred in 11.3% of patients (8/71) younger than 2 years receiving 30 mg/kg every 6 hours.
+AST and ALT elevations to greater than 3 times the upper limit of normal were noted in 15% to 20% of patients aged 2 years or above receiving 50 mg/kg every 6 hours.
 The increased frequency of these reported laboratory adverse events may be due to either increased severity of illness treated or higher doses of AZACTAM administered.
 
 ## Adverse Laboratory Changes
 
 Adverse laboratory changes without regard to drug relationship that were reported during clinical trials were:
 
-Hepatic—elevations of AST (SGOT), ALT (SGPT), and alkaline phosphatase; signs or symptoms of hepatobiliary dysfunction occurred in less than 1 percent of recipients (see above).
+Hepatic—elevations of AST (SGOT), ALT (SGPT), and alkaline phosphatase; signs or symptoms of hepatobiliary dysfunction occurred in less than 1% of recipients (see above).
 
 Hematologic—increases in prothrombin and partial thromboplastin times, positive Coombs’ test.
 

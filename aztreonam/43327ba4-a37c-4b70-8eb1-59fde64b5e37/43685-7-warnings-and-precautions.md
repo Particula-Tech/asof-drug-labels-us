@@ -1,28 +1,29 @@
 # WARNINGS
 
-Both animal and human data suggest that AZACTAM is rarely cross-reactive with other beta-lactam antibiotics and weakly immunogenic.
+Both animal and human data suggest that AZACTAM (aztreonam injection) is rarely cross-reactive with other beta-lactam antibiotics and weakly immunogenic.
 Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure.
 (See CONTRAINDICATIONS.)
 
 Careful inquiry should be made to determine whether the patient has any history of hypersensitivity reactions to any allergens.
 
-While cross-reactivity of aztreonam with other beta-lactam antibiotics is rare, this drug should be administered with caution to any patient with a history of hypersensitivity to beta-lactams (e.g., penicillins, cephalosporins, and/or carbapenems).
+While cross-reactivity of aztreonam with other beta-lactam antibiotics is rare, this drug should be administered with caution to any patient with a history of hypersensitivity to beta-lactams (eg, penicillins, cephalosporins, and/or carbapenems).
 Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure to aztreonam.
-If an allergic reaction to aztreonam occurs, discontinue the drug and institute supportive treatment as appropriate (e.g., maintenance of ventilation, pressor amines, antihistamines, corticosteroids).
+If an allergic reaction to aztreonam occurs, discontinue the drug and institute supportive treatment as appropriate (eg, maintenance of ventilation, pressor amines, antihistamines, corticosteroids).
 Serious hypersensitivity reactions may require epinephrine and other emergency measures.
 (See ADVERSE REACTIONS.)
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including aztreonam, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AZACTAM, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of “antibiotic-associated colitis.”
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy and other concomitantly administered drugs associated with toxic epidermal necrolysis.
+Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy, and other concomitantly administered drugs associated with toxic epidermal necrolysis.
 
 # PRECAUTIONS
 
@@ -34,15 +35,19 @@ In patients with impaired hepatic or renal function, appropriate monitoring is r
 
 If an aminoglycoside is used concurrently with aztreonam, especially if high dosages of the former are used or if therapy is prolonged, renal function should be monitored because of the potential nephrotoxicity and ototoxicity of aminoglycoside antibiotics.
 
-The use of antibiotics may promote the overgrowth of nonsusceptible organisms, including gram-positive organisms (Staphylococcus aureus and Streptococcus faecalis) and fungi.
+The use of antibiotics may promote the overgrowth of nonsusceptible organisms, including Gram-positive organisms (Staphylococcus aureus and Streptococcus faecalis) and fungi.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
 ## Information for Patients
 
 Patients should be counseled that antibacterial drugs including AZACTAM should only be used to treat bacterial infections.
-They do not treat viral infections (e.g., the common cold).
+They do not treat viral infections (eg, the common cold).
 When AZACTAM is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by AZACTAM or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -50,8 +55,8 @@ Carcinogenicity studies in animals have not been performed.
 
 Genetic toxicology studies performed in vivo and in vitro with aztreonam in several standard laboratory models revealed no evidence of mutagenic potential at the chromosomal or gene level.
 
-Two-generation reproduction studies in rats at daily doses up to 20 times the maximum recommended human dose, prior to and during gestation and lactation, revealed no evidence of impaired fertility.
-There was a slightly reduced survival rate during the lactation period in the offspring of rats that received the highest dosage, but not in offspring of rats that received five times the maximum recommended human dose.
+Two-generation reproduction studies in rats at daily doses up to 20 times the maximum recommended human dose (MRHD), prior to and during gestation and lactation, revealed no evidence of impaired fertility.
+There was a slightly reduced survival rate during the lactation period in the offspring of rats that received the highest dosage, but not in offspring of rats that received 5 times the MRHD.
 
 ## Pregnancy
 
@@ -59,15 +64,15 @@ There was a slightly reduced survival rate during the lactation period in the of
 
 Aztreonam crosses the placenta and enters the fetal circulation.
 
-Studies in pregnant rats and rabbits, with daily doses up to 15 and 5 times, respectively, the maximum recommended human dose, revealed no evidence of embryo- or fetotoxicity or teratogenicity.
-No drug induced changes were seen in any of the maternal, fetal, or neonatal parameters that were monitored in rats receiving 15 times the maximum recommended human dose of aztreonam during late gestation and lactation.
+Studies in pregnant rats and rabbits, with daily doses up to 15 and 5 times, respectively, the MRHD, revealed no evidence of embryo- or fetotoxicity or teratogenicity.
+No drug induced changes were seen in any of the maternal, fetal, or neonatal parameters that were monitored in rats receiving 15 times the MRHD of aztreonam during late gestation and lactation.
 
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, aztreonam should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
 
-Aztreonam is excreted in human milk in concentrations that are less than 1 percent of concentrations determined in simultaneously obtained maternal serum; consideration should be given to temporary discontinuation of nursing and use of formula feedings.
+Aztreonam is excreted in human milk in concentrations that are less than 1% of concentrations determined in simultaneously obtained maternal serum; consideration should be given to temporary discontinuation of nursing and use of formula feedings.
 
 ## Pediatric Use
 
