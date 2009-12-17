@@ -1,4 +1,4 @@
-# MEDICATION GUIDE VYVANSE™ (lisdexamfetamine dimesylate) CII
+# MEDICATION GUIDE VYVANSE® (lisdexamfetamine dimesylate) CII
 
 Read the Medication Guide that comes with Vyvanse before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -48,7 +48,7 @@ Tell your doctor if you or your child is pregnant, planning to become pregnant, 
 
 Can Vyvanse be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines that you or your child take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Vyvanse and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking Vyvanse.
 
@@ -103,12 +103,15 @@ Common side effects include:
 - trouble sleeping
 - vomiting
 
-Vyvanse may affect you or your child's ability to drive or do other dangerous activities.
+Vyvanse may affect your or your child's ability to drive or do other dangerous activities.
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
 This is not a complete list of possible side effects.
 Ask your doctor or pharmacist for more information
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Vyvanse?
 
@@ -125,7 +128,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about Vyvanse.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Vyvanse that was written for healthcare professionals.
-For more information about Vyvanse, please contact Shire US Inc. at 1-800-828-2088 or visit www.Vyvanse.com.
+For more information about Vyvanse, please contact Shire US Inc. at 1-800-828-2088.
 
 What are the ingredients in Vyvanse?
 
@@ -136,6 +139,8 @@ The capsule shells contain gelatin, titanium dioxide, and one or more of the fol
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Rev 08/07
+© 2009 Shire US Inc.
 
-XXXXXX
+US Pat No. 7,105,486 and US Pat No. 7,223,735
+
+Last Modified: 12/2009

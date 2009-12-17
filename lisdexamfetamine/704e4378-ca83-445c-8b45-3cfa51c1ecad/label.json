@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021977"
+  ],
   "inn": "lisdexamfetamine",
-  "labeler": "Shire LLC.",
+  "labeler": "Shire LLC",
   "package_ndcs": [
     "59417-102-10",
     "59417-103-10",
@@ -10,7 +12,13 @@
     "59417-106-10",
     "59417-107-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lisdexamfetamine dimesylate",
+      "name": "Vyvanse"
+    }
+  ],
   "setid": "704e4378-ca83-445c-8b45-3cfa51c1ecad",
   "source": "dailymed"
 }
