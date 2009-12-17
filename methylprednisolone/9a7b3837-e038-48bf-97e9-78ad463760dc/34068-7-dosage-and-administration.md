@@ -2,6 +2,15 @@
 
 Because of possible physical incompatibilities, DEPO-MEDROL Sterile Aqueous Suspension should not be diluted or mixed with other solutions.
 
+The initial dosage of parenterally administered DEPO-MEDROL will vary from 4 to 120 mg depending on the specific disease entity being treated.
+However, in certain overwhelming, acute, life-threatening situations, administrations in dosages exceeding the usual dosages may be justified and may be in multiples of the oral doses.
+
+It Should Be Emphasized that Dosage Requirements are Variable and Must Be Individualized on the Basis of the Disease Under Treatment and the Response of the Patient.
+After a favorable response is noted, the proper maintenance dose should be determined by decreasing the initial drug dosage in small increments at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
+Situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient's individual drug responsiveness, and the effect of patient exposure to stressful situations not directly related to the disease entity under treatment.
+In this latter situation it may be necessary to increase the dosage of the corticosteroid for a period of time consistent with the patient's condition.
+If after long term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
+
 ## A. Administration for Local Effect
 
 Therapy with DEPO-MEDROL does not obviate the need for the conventional measures usually employed.
@@ -19,8 +28,10 @@ The doses in the following table are given as a general guide:
 | Medium | Elbows Wrists | 10 to 40 mg |
 | Small | Metacarpophalangeal Interphalangeal Sternoclavicular Acromioclavicular | 4 to 10 mg |
 
-Procedure: It is recommended that the anatomy of the joint involved be reviewed before attempting intra-articular injection.
-In order to obtain the full anti-inflammatory effect it is important that the injection be made into the synovial space.
+#### Procedure
+
+It is recommended that the anatomy of the joint involved be reviewed before attempting intra-articular injection.
+In order to obtain the full anti-inflammatory effect, it is important that the injection be made into the synovial space.
 Employing the same sterile technique as for a lumbar puncture, a sterile 20 to 24 gauge needle (on a dry syringe) is quickly inserted into the synovial cavity.
 Procaine infiltration is elective.
 The aspiration of only a few drops of joint fluid proves the joint space has been entered by the needle.
@@ -36,14 +47,6 @@ Joints not suitable for injection are those that are anatomically inaccessible s
 Treatment failures are most frequently the result of failure to enter the joint space.
 Little or no benefit follows injection into surrounding tissue.
 If failures occur when injections into the synovial spaces are certain, as determined by aspiration of fluid, repeated injections are usually futile.
-Local therapy does not alter the underlying disease process, and whenever possible comprehensive therapy including physiotherapy and orthopedic correction should be employed.
-
-Following intra-articular steroid therapy, care should be taken to avoid overuse of joints in which symptomatic benefit has been obtained.
-Negligence in this matter may permit an increase in joint deterioration that will more than offset the beneficial effects of the steroid.
-
-Unstable joints should not be injected.
-Repeated intra-articular injection may in some cases result in instability of the joint.
-X-ray follow-up is suggested in selected cases to detect deterioration.
 
 If a local anesthetic is used prior to injection of DEPO-MEDROL, the anesthetic package insert should be read carefully and all the precautions observed.
 
@@ -76,32 +79,36 @@ One to four injections are usually employed, the intervals between injections va
 ## B. Administration for Systemic Effect
 
 The intramuscular dosage will vary with the condition being treated.
-When employed as a temporary substitute for oral therapy, a single injection during each 24-hour period of a dose of the suspension equal to the total daily oral dose of MEDROL® Tablets (methylprednisolone) is usually sufficient.
+When employed as a temporary substitute for oral therapy, a single injection during each 24-hour period of a dose of the suspension equal to the total daily oral dose of MEDROL® Tablets (methylprednisolone tablets, USP) is usually sufficient.
 When a prolonged effect is desired, the weekly dose may be calculated by multiplying the daily oral dose by 7 and given as a single intramuscular injection.
 
+In pediatric patients, the initial dose of methylprednisolone may vary depending on the specific disease entity being treated.
 Dosage must be individualized according to the severity of the disease and response of the patient.
-For infants and children, the recommended dosage will have to be reduced, but dosage should be governed by the severity of the condition rather than by strict adherence to the ratio indicated by age or body weight.
-
-Hormone therapy is an adjunct to, and not a replacement for, conventional therapy.
-Dosage must be decreased or discontinued gradually when the drug has been administered for more than a few days.
-The severity, prognosis and expected duration of the disease and the reaction of the patient to medication are primary factors in determining dosage.
-If a period of spontaneous remission occurs in a chronic condition, treatment should be discontinued.
-Routine laboratory studies, such as urinalysis, two-hour postprandial blood sugar, determination of blood pressure and body weight, and a chest X-ray should be made at regular intervals during prolonged therapy.
-Upper GI X-rays are desirable in patients with an ulcer history or significant dyspepsia.
+The recommended dosage may be reduced for pediatric patients, but dosage should be governed by the severity of the condition rather than by strict adherence to the ratio indicated by age or body weight.
 
 In patients with the adrenogenital syndrome, a single intramuscular injection of 40 mg every two weeks may be adequate.
 For maintenance of patients with rheumatoid arthritis, the weekly intramuscular dose will vary from 40 to 120 mg.
 The usual dosage for patients with dermatologic lesions benefited by systemic corticoid therapy is 40 to 120 mg of methylprednisolone acetate administered intramuscularly at weekly intervals for one to four weeks.
 In acute severe dermatitis due to poison ivy, relief may result within 8 to 12 hours following intramuscular administration of a single dose of 80 to 120 mg.
-In chronic contact dermatitis repeated injections at 5 to 10 day intervals may be necessary.
+In chronic contact dermatitis, repeated injections at 5 to 10 day intervals may be necessary.
 In seborrheic dermatitis, a weekly dose of 80 mg may be adequate to control the condition.
 
 Following intramuscular administration of 80 to 120 mg to asthmatic patients, relief may result within 6 to 48 hours and persist for several days to two weeks.
-Similarly in patients with allergic rhinitis (hay fever) an intramuscular dose of 80 to 120 mg may be followed by relief of coryzal symptoms within six hours persisting for several days to three weeks.
+Similarly in patients with allergic rhinitis (hay fever), an intramuscular dose of 80 to 120 mg may be followed by relief of coryzal symptoms within six hours persisting for several days to three weeks.
 
 If signs of stress are associated with the condition being treated, the dosage of the suspension should be increased.
 If a rapid hormonal effect of maximum intensity is required, the intravenous administration of highly soluble methylprednisolone sodium succinate is indicated.
 
-### Multiple Sclerosis
+In treatment of acute exacerbations of multiple sclerosis, daily doses of 160 mg of methylprednisolone for a week followed by 64 mg every other day for 1 month have been shown to be effective.
 
-In treatment of acute exacerbations of multiple sclerosis daily doses of 200 mg of prednisolone for a week followed by 80 mg every other day for 1 month have been shown to be effective (4 mg of methylprednisolone is equivalent to 5 mg of prednisolone).
+For the purpose of comparison, the following is the equivalent milligram dose of the various glucocorticoids:
+
+| Cortisone, 25 | Triamcinolone, 4 |
+| --- | --- |
+| Hydrocortisone, 20 | Paramethasone, 2 |
+| Prednisolone, 5 | Netamethasone, 0.75 |
+| Prednisone, 5 | Dexamethasone, 0.75 |
+| Methylprednisolone, 4 |  |
+
+These dose relationships apply only to oral or intravenous administration of these compounds.
+When these substances or their derivatives are injected intramuscularly or into joint spaces, their relative properties may be greatly altered.
