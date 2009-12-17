@@ -15,7 +15,7 @@ Olanzapine is not approved for the treatment of patients with dementia-related p
 
 ## 5.2 Suicide
 
-The possibility of a suicide attempt is inherent in Schizophrenia and in Bipolar I Disorder, and close supervision of high-risk patients should accompany drug therapy.
+The possibility of a suicide attempt is inherent in schizophrenia and in bipolar I disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for olanzapine should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## 5.3 Neuroleptic Malignant Syndrome (NMS)
@@ -36,7 +36,7 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 ## 5.4 Hyperglycemia
 
-Physicians should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100-126 mg/dL, non-fasting 140-200 mg/dL).
+Physicians should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100-126 mg/dL, nonfasting 140-200 mg/dL).
 Patients taking olanzapine should be monitored regularly for worsening of glucose control.
 Patients starting treatment with olanzapine should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
@@ -75,8 +75,8 @@ Table 2: Changes in Fasting Glucose Levels from Adult Olanzapine Monotherapy Stu
 The mean change in fasting glucose for patients exposed at least 48 weeks was 4.2 mg/dL (N=487).
 In analyses of patients who completed 9-12 months of olanzapine therapy, mean change in fasting and nonfasting glucose levels continued to increase over time.
 
-Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 18 years.
-In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescent patients, including those with Schizophrenia (6 weeks) or Bipolar I Disorder (manic or mixed episodes) (3 weeks), olanzapine was associated with a greater mean change from baseline in fasting glucose levels compared to placebo (2.68 mg/dL versus -2.59 mg/dL).
+Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
+In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescent patients, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine was associated with a greater mean change from baseline in fasting glucose levels compared to placebo (2.68 mg/dL versus -2.59 mg/dL).
 The mean change in fasting glucose for adolescents exposed at least 24 weeks was 3.1 mg/dL (N=121).
 Table 3 shows short-term and long-term changes in fasting blood glucose from adolescent olanzapine monotherapy studies.
 
@@ -137,8 +137,8 @@ Table 4: Changes in Fasting Lipids Values from Adult Olanzapine Monotherapy Stud
 In phase 1 of the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE), over a median exposure of 9.2 months, the mean increase in triglycerides in patients taking olanzapine was 40.5 mg/dL.
 In phase 1 of CATIE, the mean increase in total cholesterol was 9.4 mg/dL.
 
-Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 18 years.
-In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescents, including those with Schizophrenia (6 weeks) or Bipolar I Disorder (manic or mixed episodes) (3 weeks), olanzapine-treated adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 12.9 mg/dL, 6.5 mg/dL, and 28.4 mg/dL, respectively, compared to increases from baseline in mean fasting total cholesterol and LDL cholesterol of 1.3 mg/dL and 1.0 mg/dL, and a decrease in triglycerides of 1.1 mg/dL for placebo-treated adolescents.
+Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
+In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescents, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine-treated adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 12.9 mg/dL, 6.5 mg/dL, and 28.4 mg/dL, respectively, compared to increases from baseline in mean fasting total cholesterol and LDL cholesterol of 1.3 mg/dL and 1.0 mg/dL, and a decrease in triglycerides of 1.1 mg/dL for placebo-treated adolescents.
 For fasting HDL cholesterol, no clinically meaningful differences were observed between olanzapine-treated adolescents and placebo-treated adolescents.
 
 In long-term studies (at least 24 weeks), adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 5.5 mg/dL, 5.4 mg/dL, and 20.5 mg/dL, respectively, and a mean decrease in fasting HDL cholesterol of 4.5 mg/dL.
@@ -174,7 +174,7 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Olanzapine Monotherapy
 Potential consequences of weight gain should be considered prior to starting olanzapine.
 Patients receiving olanzapine should receive regular monitoring of weight [see Patient Counseling Information (17.6)].
 
-Olanzapine Monotherapy in Adults — In an analysis of 13 placebo-controlled olanzapine monotherapy studies, olanzapine-treated patients gained an average of 2.6 kg (5.7 lb), compared to an average 0.3 kg (0.6 lb) weight loss in placebo-treated patients with a median exposure of 6 weeks; 22.2% of olanzapine-treated patients gained at least 7% of their baseline weight, compared to 3% of placebo-treated patients, with a median exposure of 8 weeks; 4.2% of olanzapine-treated patients gained at least 15% of their baseline weight, compared to 0.3% of placebo-treated patients, with a median exposure of 12 weeks.
+Olanzapine Monotherapy in Adults — In an analysis of 13 placebo-controlled olanzapine monotherapy studies, olanzapine-treated patients gained an average of 2.6 kg (5.7 lb) compared to an average 0.3 kg (0.6 lb) weight loss in placebo-treated patients with a median exposure of 6 weeks; 22.2% of olanzapine-treated patients gained at least 7% of their baseline weight, compared to 3% of placebo-treated patients, with a median exposure of 8 weeks; 4.2% of olanzapine-treated patients gained at least 15% of their baseline weight, compared to 0.3% of placebo-treated patients, with a median exposure of 12 weeks.
 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
 Discontinuation due to weight gain occurred in 0.2% of olanzapine-treated patients and in 0% of placebo-treated patients.
 
@@ -198,7 +198,7 @@ Table 6: Weight Gain with Olanzapine Use in Adults
 | >25 to ≤30 (55-66 lb) | 0 | 0.2 | 1.4 | 2.3 | 4.8 |
 | >30 (>66 lb) | 0 | 0.1 | 0.8 | 1.2 | 2 |
 
-Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 18 years.
+Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
 Mean increase in weight in adolescents was greater than in adults.
 In 4 placebo-controlled trials, discontinuation due to weight gain occurred in 1% of olanzapine-treated patients, compared to 0% of placebo-treated patients.
 
@@ -267,7 +267,7 @@ For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
 Hypotension, bradycardia with or without hypotension, tachycardia, and syncope were also reported during the clinical trials with intramuscular olanzapine for injection.
-In an open-label clinical pharmacology study in non-agitated patients with Schizophrenia in which the safety and tolerability of intramuscular olanzapine were evaluated under a maximal dosing regimen (three 10 mg doses administered 4 hours apart), approximately one-third of these patients experienced a significant orthostatic decrease in systolic blood pressure (i.e., decrease ≥30 mmHg) [see Dosage and Administration (2.4)].
+In an open-label clinical pharmacology study in nonagitated patients with schizophrenia in which the safety and tolerability of intramuscular olanzapine were evaluated under a maximal dosing regimen (three 10 mg doses administered 4 hours apart), approximately one-third of these patients experienced a significant orthostatic decrease in systolic blood pressure (i.e., decrease ≥30 mmHg) [see Dosage and Administration (2.4)].
 Syncope was reported in 0.6% (15/2500) of olanzapine-treated patients in phase 2-3 oral olanzapine studies and in 0.3% (2/722) of olanzapine-treated patients with agitation in the intramuscular olanzapine for injection studies.
 Three normal volunteers in phase 1 studies with intramuscular olanzapine experienced hypotension, bradycardia, and sinus pauses of up to 6 seconds that spontaneously resolved (in 2 cases the reactions occurred on intramuscular olanzapine, and in 1 case, on oral olanzapine).
 The risk for this sequence of hypotension, bradycardia, and sinus pause may be greater in nonpsychiatric patients compared to psychiatric patients who are possibly more adapted to certain effects of psychotropic drugs.
@@ -284,7 +284,7 @@ If use of intramuscular olanzapine in combination with parenteral benzodiazepine
 Class Effect — In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including ZYPREXA.
 Agranulocytosis has also been reported.
 
-Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
 Patients with a history of a clinically significant low WBC or drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of ZYPREXA should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
@@ -315,8 +315,7 @@ Since olanzapine has the potential to impair judgment, thinking, or motor skills
 ## 5.13 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing olanzapine for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
-[See Patient Counseling Information (17.9)].
+Appropriate care is advised when prescribing olanzapine for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17.9)].
 
 ## 5.14 Use in Patients with Concomitant Illness
 
@@ -327,7 +326,7 @@ In premarketing clinical trials with olanzapine, olanzapine was associated with 
 Such adverse reactions were not often the basis for discontinuations from olanzapine, but olanzapine should be used with caution in patients with clinically significant prostatic hypertrophy, narrow angle glaucoma, or a history of paralytic ileus or related conditions.
 
 In 5 placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis (n=1184), the following treatment-emergent adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
-The rate of discontinuation due to adverse reactions was significantly greater with olanzapine than placebo (13% vs 7%).
+The rate of discontinuation due to adverse reactions was greater with olanzapine than placebo (13% vs 7%).
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17.2)].
 
@@ -350,15 +349,13 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 In clinical studies, elevated plasma prolactin concentrations were observed in 34% of adults treated with olanzapine compared to 13.1% of placebo-treated patients.
 In a pooled analysis from clinical studies including 8136 adults treated with olanzapine, potentially associated clinical manifestations such as galactorrhea (14/8136; 0.2%), gynecomastia (8/4896; 0.2% of males), and breast enlargement (2/3240; 0.06% of females) were reported.
 
-In placebo-controlled olanzapine monotherapy studies in adolescent patients with Schizophrenia or Bipolar I Disorder (manic or mixed episodes), elevated prolactin concentrations compared to baseline occurred in 47.4% of olanzapine-treated patients compared to 6.8% of placebo-treated patients.
+In placebo-controlled olanzapine monotherapy studies in adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), elevated prolactin concentrations compared to baseline occurred in 47.4% of olanzapine-treated patients compared to 6.8% of placebo-treated patients.
 In long-term clinical trials of olanzapine in adolescents, gynecomastia occurred in 2.4% of males (7/286) and galactorrhea occurred in 1.8% of females (3/168) [see Use in Specific Populations (8.4)].
 
 ## 5.16 Use in Combination with Fluoxetine, Lithium, or Valproate
 
-[See Drug Interactions (7)].
-
 When using ZYPREXA and fluoxetine in combination, the prescriber should also refer to the Warnings and Precautions section of the package insert for Symbyax.
-When using ZYPREXA in combination with lithium or valproate, the prescriber should refer to the Warnings and Precautions sections of the package inserts for lithium or valproate.
+When using ZYPREXA in combination with lithium or valproate, the prescriber should refer to the Warnings and Precautions sections of the package inserts for lithium or valproate [see Drug Interactions (7)].
 
 ## 5.17 Laboratory Tests
 

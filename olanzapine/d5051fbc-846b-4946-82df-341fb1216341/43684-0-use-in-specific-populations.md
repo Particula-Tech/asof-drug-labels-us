@@ -28,15 +28,22 @@ It is recommended that women receiving olanzapine should not breast-feed.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of olanzapine in children and adolescent patients have not been established [see Patient Counseling Information (17.13)].
+The safety and effectiveness of oral ZYPREXA in the treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder were established in short-term studies in adolescents (ages 13 to 17 years).
+Use of ZYPREXA in adolescents is supported by evidence from adequate and well-controlled studies of ZYPREXA in which 268 adolescents received ZYPREXA in a range of 2.5 to 20 mg/day [see Clinical Studies (14.1, 14.2)].
+Recommended starting dose for adolescents is lower than that for adults [see Dosage and Administration (2.1, 2.2)].
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic transaminase levels [see Warnings and Precautions (5.5, 5.6, 5.15, 5.17) and Adverse Reactions (6.2)].
+When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and hyperlipidemia.
+Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Indications and Usage (1.1, 1.2)].
 
-Safety and effectiveness of ZYPREXA and fluoxetine in combination in children and adolescent patients have not been established.
+Safety and effectiveness of olanzapine in children <13 years of age have not been established [see Patient Counseling Information (17.13)].
+
+Safety and effectiveness of ZYPREXA and fluoxetine in combination in children and adolescents <18 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
 Of the 2500 patients in premarketing clinical studies with oral olanzapine, 11% (263) were 65 years of age or over.
-In patients with Schizophrenia, there was no indication of any different tolerability of olanzapine in the elderly compared to younger patients.
-Studies in elderly patients with dementia-related psychosis have suggested that there may be a different tolerability profile in this population compared to younger patients with Schizophrenia.
+In patients with schizophrenia, there was no indication of any different tolerability of olanzapine in the elderly compared to younger patients.
+Studies in elderly patients with dementia-related psychosis have suggested that there may be a different tolerability profile in this population compared to younger patients with schizophrenia.
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
 In placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis, there was a higher incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack) in patients treated with olanzapine compared to patients treated with placebo.
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis.

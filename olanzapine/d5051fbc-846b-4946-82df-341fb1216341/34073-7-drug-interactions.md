@@ -15,12 +15,14 @@ Higher daily doses of carbamazepine may cause an even greater increase in olanza
 Alcohol — Ethanol (45 mg/70 kg single dose) did not have an effect on olanzapine pharmacokinetics.
 The co-administration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
-Inhibitors of 1A2
+Inhibitors of CYP1A2
 
 Fluvoxamine: Fluvoxamine, a CYP1A2 inhibitor, decreases the clearance of olanzapine.
 This results in a mean increase in olanzapine Cmax following fluvoxamine of 54% in female nonsmokers and 77% in male smokers.
 The mean increase in olanzapine AUC is 52% and 108%, respectively.
 Lower doses of olanzapine should be considered in patients receiving concomitant treatment with fluvoxamine.
+
+Inhibitors of CYP2D6
 
 Fluoxetine: Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
@@ -28,7 +30,7 @@ When using ZYPREXA and fluoxetine in combination, also refer to the Drug Interac
 
 Warfarin — Warfarin (20 mg single dose) did not affect olanzapine pharmacokinetics [see Drug Interactions (7.2)].
 
-Inducers of CYP1A2 or Glucuronyl Transferase — Omeprazole and rifampin, may cause an increase in olanzapine clearance.
+Inducers of CYP1A2 or Glucuronyl Transferase — Omeprazole and rifampin may cause an increase in olanzapine clearance.
 
 Charcoal — The administration of activated charcoal (1 g) reduced the Cmax and AUC of oral olanzapine by about 60%.
 As peak olanzapine levels are not typically obtained until about 6 hours after dosing, charcoal may be a useful treatment for olanzapine overdose.

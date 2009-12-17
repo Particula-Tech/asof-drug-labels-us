@@ -2,40 +2,65 @@
 
 ## 2.1 Schizophrenia
 
-Usual Dose — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 5 to 10 mg initially, with a target dose of 10 mg/day within several days.
+Adults
+
+Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 5 to 10 mg initially, with a target dose of 10 mg/day within several days.
 Further dosage adjustments, if indicated, should generally occur at intervals of not less than 1 week, since steady state for olanzapine would not be achieved for approximately 1 week in the typical patient.
 When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
 
-Efficacy in Schizophrenia was demonstrated in a dose range of 10 to 15 mg/day in clinical trials.
+Efficacy in schizophrenia was demonstrated in a dose range of 10 to 15 mg/day in clinical trials.
 However, doses above 10 mg/day were not demonstrated to be more efficacious than the 10 mg/day dose.
 An increase to a dose greater than the target dose of 10 mg/day (i.e., to a dose of 15 mg/day or greater) is recommended only after clinical assessment.
 Olanzapine is not indicated for use in doses above 20 mg/day.
 
-Dosing in Specific Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Dosing in Special Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 When indicated, dose escalation should be performed with caution in these patients.
 
-Maintenance Treatment — While there is no body of evidence available to answer the question of how long the patient treated with olanzapine should remain on it, the effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on ZYPREXA for approximately 8 weeks and were then followed for a period of up to 8 months has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
-Patients should be periodically reassessed to determine the need for maintenance treatment with appropriate dose.
+Maintenance Treatment — The effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on ZYPREXA for approximately 8 weeks and were then followed for relapse has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
 The physician who elects to use ZYPREXA for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+
+Adolescents
+
+Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
+Efficacy in adolescents with schizophrenia was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 12.5 mg/day (mean dose of 11.1 mg/day).
+When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
+
+The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies (14.1)].
+
+Maintenance Treatment — The efficacy of ZYPREXA for the maintenance treatment of schizophrenia in the adolescent population has not been systematically evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
+Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
+Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 ## 2.2 Bipolar I Disorder (Manic or Mixed Episodes)
 
-Usual Monotherapy Dose — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 10 or 15 mg.
+Adults
+
+Dose Selection for Monotherapy — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 10 or 15 mg.
 Dosage adjustments, if indicated, should generally occur at intervals of not less than 24 hours, reflecting the procedures in the placebo-controlled trials.
 When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
 
 Short-term (3-4 weeks) antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials.
 The safety of doses above 20 mg/day has not been evaluated in clinical trials [see Clinical Studies (14.2)].
 
-Maintenance Monotherapy — The benefit of maintaining bipolar patients on monotherapy with oral ZYPREXA at a dose of 5 to 20 mg/day, after achieving a responder status for an average duration of 2 weeks, was demonstrated in a controlled trial [see Clinical Studies (14.2)].
+Maintenance Monotherapy — The benefit of maintaining bipolar I patients on monotherapy with oral ZYPREXA at a dose of 5 to 20 mg/day, after achieving a responder status for an average duration of 2 weeks, was demonstrated in a controlled trial [see Clinical Studies (14.2)].
 The physician who elects to use ZYPREXA for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
-Usual Dose in Combination with Lithium or Valproate — When administered in combination with lithium or valproate, oral olanzapine dosing should generally begin with 10 mg once-a-day without regard to meals.
+Dose Selection for Adjunctive Treatment — When administered as adjunctive treatment to lithium or valproate, oral olanzapine dosing should generally begin with 10 mg once-a-day without regard to meals.
 
-Short-term (6 weeks) antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials [see Clinical Studies (14.2)].
+Antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials [see Clinical Studies (14.2)].
 The safety of doses above 20 mg/day has not been evaluated in clinical trials.
 
-Dosing in Specific Populations — See Dosage and Administration (2.1).
+Adolescents
+
+Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
+Efficacy in adolescents with bipolar I disorder (manic or mixed episodes) was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 10.7 mg/day (mean dose of 8.9 mg/day).
+When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
+
+The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies (14.2)].
+
+Maintenance Treatment — The efficacy of ZYPREXA for the maintenance treatment of bipolar I disorder in the adolescent population has not been evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
+Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
+Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 ## 2.3 Administration of ZYPREXA ZYDIS (olanzapine orally disintegrating tablets)
 
@@ -46,7 +71,7 @@ Tablet disintegration occurs rapidly in saliva so it can be easily swallowed wit
 
 ## 2.4 ZYPREXA IntraMuscular: Agitation Associated with Schizophrenia and Bipolar I Mania
 
-Usual Dose for Agitated Patients with Schizophrenia or Bipolar I Mania — The efficacy of intramuscular olanzapine for injection in controlling agitation in these disorders was demonstrated in a dose range of 2.5 mg to 10 mg.
+Dose Selection for Agitated Adult Patients with Schizophrenia and Bipolar I Mania — The efficacy of intramuscular olanzapine for injection in controlling agitation in these disorders was demonstrated in a dose range of 2.5 mg to 10 mg.
 The recommended dose in these patients is 10 mg.
 A lower dose of 5 or 7.5 mg may be considered when clinical factors warrant [see Clinical Studies (14.3)].
 If agitation warranting additional intramuscular doses persists following the initial dose, subsequent doses up to 10 mg may be given.
@@ -58,7 +83,7 @@ The administration of an additional dose to a patient with a clinically signific
 
 If ongoing olanzapine therapy is clinically indicated, oral olanzapine may be initiated in a range of 5-20 mg/day as soon as clinically appropriate [see Dosage and Administration (2.1, 2.2)].
 
-Intramuscular Dosing in Specific Populations — A dose of 5 mg/injection should be considered for geriatric patients or when other clinical factors warrant.
+Intramuscular Dosing in Special Populations — A dose of 5 mg/injection should be considered for geriatric patients or when other clinical factors warrant.
 A lower dose of 2.5 mg/injection should be considered for patients who otherwise might be debilitated, be predisposed to hypotensive reactions, or be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Administration of ZYPREXA IntraMuscular — ZYPREXA IntraMuscular is intended for intramuscular use only.
@@ -92,7 +117,7 @@ When using ZYPREXA and fluoxetine in combination, also refer to the Clinical Stu
 
 Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 12.5 mg and fluoxetine 20 to 50 mg.
-Antidepressant efficacy was demonstrated with ZYPREXA and fluoxetine in combination with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
+Antidepressant efficacy was demonstrated with ZYPREXA and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
 
 Safety and efficacy of ZYPREXA and fluoxetine in combination was determined in clinical trials supporting approval of Symbyax (fixed dose combination of ZYPREXA and fluoxetine).
 Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
@@ -101,9 +126,10 @@ Dosage adjustments, if indicated, should be made with the individual components 
 
 Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of ZYPREXA and Fluoxetine
 
-| For Symbyax (mg/day) | Use in Combination |  |
+| For | Use in Combination |  |
 | --- | --- | --- |
-| ZYPREXA (mg/day) | Fluoxetine (mg/day) |  |
+| Symbyax | ZYPREXA | Fluoxetine |
+| (mg/day) | (mg/day) | (mg/day) |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
 | 6 mg olanzapine/25 mg fluoxetine | 5 | 20 |
 | 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
@@ -111,12 +137,12 @@ Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of
 | 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
 | a Symbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of ZYPREXA and fluoxetine. |  |  |
 
-While there is no body of evidence to answer the question of how long a patient treated with ZYPREXA and fluoxetine in combination should remain on it, it is generally accepted that Bipolar I Disorder, including the depressive episodes associated with Bipolar I Disorder, is a chronic illness requiring chronic treatment.
+While there is no body of evidence to answer the question of how long a patient treated with ZYPREXA and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The physician should periodically reexamine the need for continued pharmacotherapy.
 
 Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
-ZYPREXA monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
+ZYPREXA monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
 
 ## 2.6 ZYPREXA and Fluoxetine in Combination: Treatment Resistant Depression
 
@@ -124,21 +150,21 @@ When using ZYPREXA and fluoxetine in combination, also refer to the Clinical Stu
 
 Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 20 mg and fluoxetine 20 to 50 mg.
-Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
+Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
 
 Safety and efficacy of olanzapine in combination with fluoxetine was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
 Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
 Table 1 above demonstrates the appropriate individual component doses of ZYPREXA and fluoxetine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
-While there is no body of evidence to answer the question of how long a patient treated with ZYPREXA and fluoxetine in combination should remain on it, it is generally accepted that treatment resistant depression (Major Depressive Disorder in adult patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode) is a chronic illness requiring chronic treatment.
+While there is no body of evidence to answer the question of how long a patient treated with ZYPREXA and fluoxetine in combination should remain on it, it is generally accepted that treatment resistant depression (major depressive disorder in adult patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode) is a chronic illness requiring chronic treatment.
 The physician should periodically reexamine the need for continued pharmacotherapy.
 
 Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
-ZYPREXA monotherapy is not indicated for treatment of treatment resistant depression (Major Depressive Disorder in patients who do not respond to 2 antidepressants of adequate dose and duration in the current episode).
+ZYPREXA monotherapy is not indicated for treatment of treatment resistant depression (major depressive disorder in patients who do not respond to 2 antidepressants of adequate dose and duration in the current episode).
 
-## 2.7 ZYPREXA and Fluoxetine in Combination: Dosing in Specific Populations
+## 2.7 ZYPREXA and Fluoxetine in Combination: Dosing in Special Populations
 
 The starting dose of oral olanzapine 2.5-5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may slow metabolism.

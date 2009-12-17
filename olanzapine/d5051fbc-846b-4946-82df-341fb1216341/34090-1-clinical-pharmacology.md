@@ -2,15 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of olanzapine, as with other drugs having efficacy in Schizophrenia, is unknown.
-However, it has been proposed that this drug's efficacy in Schizophrenia is mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.
-The mechanism of action of olanzapine in the treatment of acute manic or mixed episodes associated with Bipolar I Disorder is unknown.
+The mechanism of action of olanzapine, as with other drugs having efficacy in schizophrenia, is unknown.
+However, it has been proposed that this drug's efficacy in schizophrenia is mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.
+The mechanism of action of olanzapine in the treatment of acute manic or mixed episodes associated with bipolar I disorder is unknown.
 
 ## 12.2 Pharmacodynamics
 
 Olanzapine binds with high affinity to the following receptors: serotonin 5HT2A/2C, 5HT6 (Ki=4, 11, and 5 nM, respectively), dopamine D1-4 (Ki=11-31 nM), histamine H1 (Ki=7 nM), and adrenergic α1 receptors (Ki=19 nM).
 Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT3 (Ki=57 nM) and muscarinic M1-5 (Ki=73, 96, 132, 32, and 48 nM, respectively).
-Olanzapine binds weakly to GABAA, BZD, and β adrenergic receptors (Ki>10 μM).
+Olanzapine binds weakly to GABAA, BZD, and β-adrenergic receptors (Ki>10 μM).
 
 Antagonism at receptors other than dopamine and 5HT2 may explain some of the other therapeutic and side effects of olanzapine.
 Olanzapine's antagonism of muscarinic M1-5 receptors may explain its anticholinergic-like effects.
@@ -58,7 +58,7 @@ The effect of renal impairment on metabolite elimination has not been studied.
 
 Hepatic Impairment — Although the presence of hepatic impairment may be expected to reduce the clearance of olanzapine, a study of the effect of impaired liver function in subjects (n=6) with clinically significant (Childs Pugh Classification A and B) cirrhosis revealed little effect on the pharmacokinetics of olanzapine.
 
-Geriatric — In a study involving 24 healthy subjects, the mean elimination half-life of olanzapine was about 1.5 times greater in elderly (≥65 years) than in non-elderly subjects (<65 years).
+Geriatric — In a study involving 24 healthy subjects, the mean elimination half-life of olanzapine was about 1.5 times greater in elderly (≥65 years) than in nonelderly subjects (<65 years).
 Caution should be used in dosing the elderly, especially if there are other factors that might additively influence drug metabolism and/or pharmacodynamic sensitivity [see Dosage and Administration (2)].
 
 Gender — Clearance of olanzapine is approximately 30% lower in women than in men.

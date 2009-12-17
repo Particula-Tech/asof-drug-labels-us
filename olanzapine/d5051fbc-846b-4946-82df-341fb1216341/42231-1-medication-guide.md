@@ -1,8 +1,16 @@
 Medication Guide
 
-ZYPREXA® (zy-PREX-a) (olanzapine) Tablet
+ZYPREXA® (zy-PREX-a)
 
-ZYPREXA® ZYDIS® (zy-PREX-a ZY-dis) (olanzapine) Tablet, Orally Disintegrating
+(olanzapine)
+
+Tablet
+
+ZYPREXA® ZYDIS® (zy-PREX-a ZY-dis)
+
+(olanzapine)
+
+Tablet, Orally Disintegrating
 
 Read the Medication Guide that comes with ZYPREXA before you start taking it and each time you get a refill.
 There may be new information.
@@ -11,9 +19,12 @@ Talk with your doctor or pharmacist if there is something you do not understand 
 
 What is the most important information I should know about ZYPREXA?
 
-ZYPREXA may be associated with the following serious risks:
+Serious side effects may happen when you take ZYPREXA, including:
 
-High blood sugar (hyperglycemia): High blood sugar can occur if you have diabetes already or even if you have never had diabetes.
+Increased risk of death in elderly patients with dementia-related psychosis: Medicines like ZYPREXA can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
+ZYPREXA is not approved for treating psychosis in the elderly with dementia.
+
+High blood sugar (hyperglycemia): High blood sugar can happen if you have diabetes already or even if you have never had diabetes.
 In rare cases, this could lead to ketoacidosis (build up of acid in the blood due to ketones), coma, or death.
 Your doctor should do lab tests to check your blood sugar before you start taking ZYPREXA and during treatment.
 In people who do not have diabetes, sometimes high blood sugar goes away when ZYPREXA is stopped.
@@ -30,48 +41,48 @@ Call your doctor if you have any of these symptoms of high blood sugar (hypergly
 - feel sick to your stomach
 - feel confused, or your breath smells fruity.
 
-High cholesterol and triglyceride levels in the blood (fat in the blood): These have been observed in patients treated with ZYPREXA, especially in teenagers (13-17 years old).
-ZYPREXA is not approved in patients less than 18 years old.
+High cholesterol and triglyceride levels in the blood (fat in the blood) may happen in people treated with ZYPREXA, especially in teenagers (13-17 years old).
 You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking ZYPREXA and during treatment.
 
-Increase in weight (weight gain): Weight gain is very commonly seen in patients who take ZYPREXA.
+Increase in weight (weight gain): Weight gain is very common in people who take ZYPREXA.
 Teenagers (13-17 years old) are more likely to gain weight and to gain more weight than adults.
-ZYPREXA is not approved in patients less than 18 years old.
-Some patients may gain a lot of weight while taking ZYPREXA, so you and your doctor should check your weight regularly.
+Some people may gain a lot of weight while taking ZYPREXA, so you and your doctor should check your weight regularly.
 Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
+
+Increased risk in teenagers (13-17 years old): Possible serious risks of weight gain and increases in cholesterol and triglycerides are more common in teenagers than in adults.
+You and your doctor should decide if other available treatments should be used first.
+Before your teenager takes ZYPREXA, talk with your doctor about the possible long-term risks of teenagers taking ZYPREXA.
 
 What is ZYPREXA?
 
-ZYPREXA is a prescription medicine approved for use in adults:
+ZYPREXA is a prescription medicine used to treat:
 
-- to treat schizophrenia.
-- alone or with lithium or valproate for the short-term treatment of manic or mixed episodes that happen with Bipolar I Disorder.
-- for long-term treatment of Bipolar I Disorder.
-- with the medicine fluoxetine (Prozac®), for the short-term treatment of episodes of depression that happen with Bipolar I Disorder.
-- with the medicine fluoxetine (Prozac), for the short-term treatment of episodes of depression that do not respond to 2 other medicines, also called treatment resistant depression.
+- schizophrenia in people age 13 or older.
+- bipolar disorder, including:
+  - manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
+  - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
+  - long-term treatment of bipolar I disorder in adults.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in adults.
+- episodes of depression that do not get better after 2 other medicines, also called treatment resistant depression, when used with the medicine fluoxetine (Prozac), in adults.
 
-It is not known if ZYPREXA is safe and works in children under 18 years of age.
-
-It is not known if ZYPREXA taken with fluoxetine (Prozac) is safe and works in children under 18 years of age.
+ZYPREXA has not been approved for use in children under 13 years of age.
 
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
-With treatment, some of your symptoms of schizophrenia may improve.
 
-The symptoms of Bipolar I Disorder include alternating periods of depression and high or irritable mood, increased activity and restlessness, racing thoughts, talking fast, impulsive behavior, and a decreased need for sleep.
-With treatment, some of your symptoms of Bipolar I Disorder may improve.
+The symptoms of bipolar I disorder include alternating periods of depression and high or irritable mood, increased activity and restlessness, racing thoughts, talking fast, impulsive behavior, and a decreased need for sleep.
 
 The symptoms of treatment resistant depression include decreased mood, decreased interest, increased guilty feelings, decreased energy, decreased concentration, changes in appetite, and suicidal thoughts or behavior.
-With treatment, some of your symptoms of treatment resistant depression may improve.
 
+Some of your symptoms may improve with treatment.
 If you do not think you are getting better, call your doctor.
 
 What should I tell my doctor before taking ZYPREXA?
 
 ZYPREXA may not be right for you.
-Before starting ZYPREXA, tell your doctor about all your medical conditions, including if you have or had any of the following:
+Before starting ZYPREXA, tell your doctor if you have or had:
 
 - heart problems
-- seizures (convulsions)
+- seizures
 - diabetes or high blood sugar levels (hyperglycemia)
 - high cholesterol or triglyceride levels in your blood
 - liver problems
@@ -83,6 +94,8 @@ Before starting ZYPREXA, tell your doctor about all your medical conditions, inc
 - bowel obstruction
 - phenylketonuria, because ZYPREXA ZYDIS contains phenylalanine
 - breast cancer
+- thoughts of suicide or hurting yourself
+- any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if ZYPREXA will harm your unborn baby.
 - are breast-feeding or plan to breast-feed.
@@ -90,10 +103,12 @@ Before starting ZYPREXA, tell your doctor about all your medical conditions, inc
   You should not breast-feed while taking ZYPREXA.
   Talk to your doctor about the best way to feed your baby if you take ZYPREXA.
 
-The symptoms of Bipolar I Disorder, treatment resistant depression, or schizophrenia may include thoughts of suicide or of hurting yourself or others.
+Tell your doctor if you exercise a lot or are in hot places often.
+
+The symptoms of bipolar I disorder, treatment resistant depression, or schizophrenia may include thoughts of suicide or of hurting yourself or others.
 If you have these thoughts at any time, tell your doctor or go to an emergency room right away.
 
-Tell your doctor about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines that you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 ZYPREXA and some medicines may interact with each other and may not work as well, or cause possible serious side effects.
 Your doctor can tell you if it is safe to take ZYPREXA with your other medicines.
 Do not start or stop any medicine while taking ZYPREXA without talking to your doctor first.
@@ -107,7 +122,7 @@ How should I take ZYPREXA?
   Do not take two doses of ZYPREXA at the same time.
 - To prevent serious side effects, do not stop taking ZYPREXA suddenly.
   If you need to stop taking ZYPREXA, your doctor can tell you how to safely stop taking it.
-- If you take too much ZYPREXA, call your doctor or poison control center right away, or get emergency treatment.
+- If you take too much ZYPREXA, call your doctor or poison control center at 1-800-222-1212 right away, or get emergency treatment.
 - ZYPREXA can be taken with or without food.
 - ZYPREXA is usually taken one time each day.
 - Take ZYPREXA ZYDIS as follows:
@@ -116,7 +131,7 @@ How should I take ZYPREXA?
     Do not push the tablet through the foil.
   - As soon as you open the blister, remove the tablet and put it into your mouth.
   - The tablet will disintegrate quickly in your saliva so that you can easily swallow it with or without drinking liquid.
-- If you do not think you are getting better or have any concerns about your condition while taking ZYPREXA, call your doctor.
+- Call your doctor if you do not think you are getting better or have any concerns about your condition while taking ZYPREXA.
 
 What should I avoid while taking ZYPREXA?
 
@@ -127,36 +142,40 @@ What should I avoid while taking ZYPREXA?
 
 What are the possible side effects of ZYPREXA?
 
-Other possible serious risks:
+Serious side effects may happen when you take ZYPREXA, including:
 
-- Increased risk of death and increased incidence of stroke or “mini-strokes” called transient ischemic attacks (TIAs) in elderly people with psychosis related to dementia (a brain disorder that lessens the ability to remember, think, and reason).
+- See “What is the most important information I should know about ZYPREXA?”, which describes the increased risk of death in elderly people with dementia-related psychosis and the risks of high blood sugar, high cholesterol and triglyceride levels, and weight gain.
+- Increased incidence of stroke or “mini-strokes” called transient ischemic attacks (TIAs) in elderly people with dementia-related psychosis (elderly people who have lost touch with reality due to confusion and memory loss).
   ZYPREXA is not approved for these patients.
 - Neuroleptic Malignant Syndrome (NMS): NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including ZYPREXA.
   NMS can cause death and must be treated in a hospital.
-  Call your doctor right away if you become severely ill and have some or all of these symptoms:
+  Call your doctor right away if you become severely ill and have any of these symptoms:
   - high fever
   - excessive sweating
   - rigid muscles
   - confusion
-  - changes in your breathing, heartbeat, and blood pressure
-- Tardive Dyskinesia: This condition causes body movements that keep happening and that you cannot control.
+  - changes in your breathing, heartbeat, and blood pressure.
+- Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
   These movements usually affect the face and tongue.
   Tardive dyskinesia may not go away, even if you stop taking ZYPREXA.
   It may also start after you stop taking ZYPREXA.
-  Tell your doctor if you get any body movements that you cannot control.
-- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heart beat, or fainting
-- Difficulty swallowing
-- Seizures
+  Tell your doctor if you get any body movements that you can not control.
+- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting.
+- Difficulty swallowing, that can cause food or liquid to get into your lungs.
+- Seizures: Tell your doctor if you have a seizure during treatment with ZYPREXA.
 - Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
   It is important for you to drink water to avoid dehydration.
-  Call your doctor right away if you become severely ill and have some or all of these symptoms of dehydration:
+  Call your doctor right away if you become severely ill and have any of these symptoms of dehydration:
   - sweating too much or not at all
   - dry mouth
   - feeling very hot
   - feeling thirsty
-  - not able to produce urine
+  - not able to produce urine.
 
-Common possible side effects of ZYPREXA include: lack of energy, dry mouth, increased appetite, sleepiness, tremor (shakes), having hard or infrequent stools, dizziness, changes in behavior, or restlessness.
+Common side effects of ZYPREXA include: lack of energy, dry mouth, increased appetite, sleepiness, tremor (shakes), having hard or infrequent stools, dizziness, changes in behavior, or restlessness.
+
+Other common side effects in teenagers (13-17 years old) include: headache, stomach-area (abdominal) pain, pain in your arms or legs, or tiredness.
+Teenagers experienced greater increases in prolactin, liver enzymes, and sleepiness, as compared with adults.
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
@@ -192,13 +211,14 @@ Active ingredient: olanzapine
 
 Inactive ingredients:
 
-- Tablets — carnauba wax, crospovidone, hydroxypropyl cellulose, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, and other inactive ingredients.
-  The color coating contains: Titanium Dioxide, FD&C Blue No. 2 Aluminum Lake, or Synthetic Red Iron Oxide.
-- ZYDIS — gelatin, mannitol, aspartame, sodium methyl paraben, and sodium propyl paraben.
+Tablets — carnauba wax, crospovidone, hydroxypropyl cellulose, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, and other inactive ingredients.
+The color coating contains: Titanium Dioxide, FD&C Blue No. 2 Aluminum Lake, or Synthetic Red Iron Oxide.
+
+ZYDIS — gelatin, mannitol, aspartame, sodium methyl paraben, and sodium propyl paraben.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide issued March 19, 2009
+Medication Guide revised December 4, 2009
 
 Eli Lilly and Company Indianapolis, IN 46285, USA
 
@@ -207,4 +227,4 @@ www.zyprexa.com
 Copyright © 2009, Eli Lilly and Company.
 All rights reserved.
 
-PV 6920 AMP
+PV 6921 AMP

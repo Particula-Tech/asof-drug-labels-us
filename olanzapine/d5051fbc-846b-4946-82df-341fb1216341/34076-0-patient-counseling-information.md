@@ -16,7 +16,7 @@ When using ZYPREXA and fluoxetine in combination, also refer to the Medication G
 
 ## 17.2 Elderly Patients with Dementia-Related Psychosis: Increased Mortality and Cerebrovascular Adverse Events (CVAE), Including Stroke
 
-Patients and caregivers should be advised that elderly patients with dementia-related psychosis treated with antipsychotic drugs are at increased risk of death.
+Patients and caregivers should be advised that elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Patients and caregivers should be advised that elderly patients with dementia-related psychosis treated with ZYPREXA had a significantly higher incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack) compared with placebo.
 
 ZYPREXA is not approved for elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -76,7 +76,16 @@ Pregnancy — Patients should be advised to notify their physician if they becom
 
 Nursing Mothers — Patients should be advised not to breast-feed an infant if they are taking ZYPREXA [see Use in Specific Populations (8.3)].
 
-Pediatric Use — ZYPREXA is not approved for the treatment of Schizophrenia and Bipolar I Disorder (manic or mixed episodes) in children and adolescents.
-Compared to patients from adult clinical trials, adolescents were more likely to gain more weight and have greater increases in cholesterol and triglycerides.
-Safety and effectiveness of ZYPREXA in patients under 18 years of age have not been established.
-Safety and effectiveness of ZYPREXA and fluoxetine in combination in patients under 18 years of age have not been established [see Warnings and Precautions (5.4, 5.5, 5.6) and Use in Specific Populations (8.4)].
+Pediatric Use — ZYPREXA is indicated for treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adolescents 13 to 17 years of age.
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic transaminase levels.
+Patients should be counseled about the potential long-term risks associated with ZYPREXA and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
+Safety and effectiveness of ZYPREXA in patients under 13 years of age have not been established.
+Safety and effectiveness of ZYPREXA and fluoxetine in combination in patients <18 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
+
+## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
+
+ZYPREXA is indicated as an integral part of a total treatment program for pediatric patients with schizophrenia and bipolar disorder that may include other measures (psychological, educational, social) for patients with the disorder.
+Effectiveness and safety of ZYPREXA have not been established in pediatric patients less than 13 years of age.
+Atypical antipsychotics are not intended for use in the pediatric patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
+Appropriate educational placement is essential and psychosocial intervention is often helpful.
+The decision to prescribe atypical antipsychotic medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms [see Indications and Usage (1.3)].
