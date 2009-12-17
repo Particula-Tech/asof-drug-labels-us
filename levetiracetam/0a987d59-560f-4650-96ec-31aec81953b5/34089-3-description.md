@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Levetiracetam is an antiepileptic drug available as 250 mg, 500 mg or 750 mg tablets for oral administration.
+Levetiracetam is an antiepileptic drug available as 250 mg, 500 mg, 750 mg or 1000 mg tablets for oral administration.
 
 The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-ethyl-2-oxo-1-pyrrolidine acetamide, its molecular formula is C8H14N2O2 and its molecular weight is 170.21.
 Levetiracetam is chemically unrelated to existing antiepileptic drugs (AEDs).

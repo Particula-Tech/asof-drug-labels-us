@@ -42,7 +42,7 @@ The results of the analysis of Period A are displayed in Table 2.
 
 Table 2: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Seizures in Study 2: Period A
 
-|  | Placebo (N = 111) | Levetiracetam 1000 mg/day (N = 106) | (Levetiracetam 2000 mg/day (N = 105) |
+|  | Placebo (N = 111) | Levetiracetam 1000 mg/day (N = 106) | Levetiracetam 2000 mg/day (N = 105) |
 | --- | --- | --- | --- |
 | Percent reduction in partial seizure frequency over placebo | — | 17.1%statistically significant versus placebo | 21.4%* |
 

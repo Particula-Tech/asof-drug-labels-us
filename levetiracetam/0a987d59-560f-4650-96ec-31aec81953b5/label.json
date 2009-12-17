@@ -1,16 +1,19 @@
 {
   "application_numbers": [
-    "ANDA076919"
+    "ANDA076919",
+    "ANDA090261"
   ],
   "inn": "levetiracetam",
-  "labeler": "Mylan Pharmaceuticals Inc",
+  "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
     "0378-5613-05",
     "0378-5613-78",
     "0378-5615-05",
     "0378-5615-78",
     "0378-5617-05",
-    "0378-5617-78"
+    "0378-5617-78",
+    "0378-5619-05",
+    "0378-5619-91"
   ],
   "products": [
     {

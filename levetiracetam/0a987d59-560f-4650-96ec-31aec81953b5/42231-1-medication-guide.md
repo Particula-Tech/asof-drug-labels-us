@@ -1,6 +1,6 @@
 # MEDICATION GUIDE LEVETIRACETAM TABLETS
 
-250 mg, 500 mg and 750 mg
+250 mg, 500 mg, 750 mg and 1000 mg
 
 Read this Medication Guide before you start taking levetiracetam and each time you get a refill.
 There may be new information.
@@ -53,6 +53,7 @@ Contact your pharmacist immediately if you believe a dispensing error may have o
 - 250 mg levetiracetam tablets are white, film-coated, round tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
 - 500 mg levetiracetam tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
 - 750 mg levetiracetam tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 617 to the right of the score on one side of the tablet and blank on the other side.
+- 1000 mg levetiracetam tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 619 to the right of the score on one side of the tablet and blank on the other side.
 
 ## What should I tell my healthcare provider before starting levetiracetam tablets?
 
@@ -134,9 +135,6 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of levetiracetam tablets.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
 ## How should I store levetiracetam tablets?
 
 - Store levetiracetam tablets at room temperature away from heat and light.
@@ -162,8 +160,11 @@ Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromel
 
 Levetiracetam tablets do not contain lactose or gluten.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-REVISED AUGUST 2009 MG:LVTC:R2
+APRIL 2009 MG:LVTC:R1

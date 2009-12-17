@@ -83,3 +83,31 @@ This container is not intended for dispensing for household use.
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
 RM5617DA1
+
+PRINCIPAL DISPLAY PANEL - 1000 mg
+
+NDC 0378-5619-91
+
+LEVETIRACETAM TABLETS 1000 mg
+
+PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE.
+
+60 TABLETS (Rx only)
+
+Each film-coated tablet contains: Levetiracetam.....
+1000 mg
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Keep this and all medication out of the reach of children.
+
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+
+Usual Dosage: See accompanying prescribing information.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+
+RM5619D1
