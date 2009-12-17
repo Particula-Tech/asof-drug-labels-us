@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017351"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Alaven Pharmaceutical LLC",
+  "package_ndcs": [
+    "68220-140-15"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "hydrocortisone acetate",
+      "name": "Cortifoam"
+    }
+  ],
+  "setid": "ef91f4f9-6345-48b8-a9a1-b7a7038f8fb7",
+  "source": "dailymed"
+}

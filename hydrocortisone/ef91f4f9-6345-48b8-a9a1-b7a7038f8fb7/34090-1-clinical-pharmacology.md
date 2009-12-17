@@ -1,0 +1,4 @@
+# CLINICAL PHARMACOLOGY
+
+Cortifoam® provides effective topical administration of an anti-inflammatory corticosteroid as adjunctive therapy of ulcerative proctitis.
+Direct observations of methylene blue-containing foam have shown staining about 10 centimeters into the rectum.
