@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021822"
+  ],
   "inn": "deferasirox",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0078-0469-15",
     "0078-0470-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "deferasirox",
+      "name": "Exjade"
+    }
+  ],
   "setid": "3495a70c-870c-4968-940e-8baea152cf85",
   "source": "dailymed"
 }
