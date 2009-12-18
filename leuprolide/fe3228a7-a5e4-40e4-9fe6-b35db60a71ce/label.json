@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA021343",
+    "NDA021379",
+    "NDA021488",
+    "NDA021731"
+  ],
+  "inn": "leuprolide",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-0222-05",
+    "0024-0605-45",
+    "0024-0610-30",
+    "0024-0793-75"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "leuprolide acetate",
+      "name": "ELIGARD"
+    }
+  ],
+  "setid": "fe3228a7-a5e4-40e4-9fe6-b35db60a71ce",
+  "source": "dailymed"
+}
