@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018936"
+  ],
   "inn": "fluoxetine",
-  "labeler": "Eli Lilly and Company",
+  "labeler": "Warner Chilcott, Inc.",
   "package_ndcs": [
     "0430-0435-14",
-    "0430-0436-14"
+    "0430-0435-95",
+    "0430-0436-14",
+    "0430-0436-95"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fluoxetine hydrochloride",
+      "name": "Sarafem"
+    }
+  ],
   "setid": "0cfd1880-a013-4ca0-a08f-dfd45fb2729b",
   "source": "dailymed"
 }

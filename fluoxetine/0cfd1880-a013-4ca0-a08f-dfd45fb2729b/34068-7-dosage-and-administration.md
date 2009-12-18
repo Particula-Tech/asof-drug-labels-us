@@ -23,7 +23,7 @@ Patients should be periodically reassessed to determine the need for continued t
 
 ### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to fluoxetine and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
+Neonates exposed to fluoxetine, SNRIs, or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
 When treating pregnant women with fluoxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering fluoxetine in the third trimester.
 

@@ -77,7 +77,7 @@ Furthermore, a specific underlying immunologic basis for these events has not be
 Upon the appearance of rash or of other possibly allergic phenomena for which an alternative etiology cannot be identified, SARAFEM should be discontinued.
 
 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions — The development of a potentially life-threatening serotonin syndrome, or Neuroleptic Malignant Syndrome (NMS)-like reactions, has been reported with SNRIs and SSRIs alone, including SARAFEM treatment, but particularly with concomitant use of serotonergic drugs (including triptans), with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital sighs, and mental status changes.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
 The concomitant use of SARAFEM with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and Drug Interactions under PRECAUTIONS).
@@ -85,6 +85,8 @@ The concomitant use of SARAFEM with MAOIs intended to treat depression is contra
 If concomitant treatment of SARAFEM with a 5–hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see Drug Interactions under PRECAUTIONS).
 
 The concomitant use of SARAFEM with serotonin precursors (such as tryptophan) is not recommended (see Drug Interactions under PRECAUTIONS).
+
+Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 Potential Interaction with Thioridazine — In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25–mg oral dose of thioridazine produced a 2.4–fold higher Cmax and a 4.5–fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
@@ -244,7 +246,7 @@ Conversely, adverse effects may result from displacement of protein–bound fluo
 
 Drugs that interfere with hemostasis (e.g., NSAIDs, Aspirin, Warfarin) — Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs arecoadministered with warfarin.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when fluoxetine is initiated or discontinued.
 
 Electroconvulsive therapy (ECT) — There are no clinical studies establishing the benefit of the combined use of ECT and fluoxetine.
@@ -253,9 +255,9 @@ There have been rare reports of prolonged seizures in patients on fluoxetine rec
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There is no evidence of carcinogenicity or mutagenicity from in vitro or animal studies.
-Impairment of fertility in adult animals at doses up to 12.5 mg/kg/day (approximately 1.5 times the MRHD on a mg/m2 basis) was not observed.
+Impairment of fertility in adult animals at doses up to 12.5 mg/kg/day (approximately 1.5 times the maximum recommended human dose (MRHD) on a mg/m2 basis) was not observed.
 
-Carcinogenicity — The dietary administration of fluoxetine to rats and mice for 2 years at doses of up to 10 and 12 mg/kg/day, respectively [approximately 1.2 and 0.7 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis], produced no evidence of carcinogenicity.
+Carcinogenicity — The dietary administration of fluoxetine to rats and mice for 2 years at doses of up to 10 and 12 mg/kg/day, respectively [approximately 1.2 and 0.7 times, respectively, the MRHD of 80 mg on a mg/m2 basis], produced no evidence of carcinogenicity.
 
 Mutagenicity — Fluoxetine and norfluoxetine have been shown to have no genotoxic effects based on the following assays: bacterial mutation assay, DNA repair assay in cultured rat hepatocytes, mouse lymphoma assay, and in vivo sister chromatid exchange assay in Chinese hamster bone marrow cells.
 
@@ -263,21 +265,18 @@ Impairment of fertility — Two fertility studies conducted in adult rats at dos
 
 ## Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C — Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 
-In embryo–fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, the MRHD of 80 mg on a mg/m2 basis), throughout organogenesis.
-However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
-There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
-The no–effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2 basis).
-Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Treatment of Pregnant Women During the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
+Results of a number of epidemiological studies assessing the risk of fluoxetine exposure in early pregnancy have been inconsistent and have not provided conclusive evidence of an increased risk of congenital malformations.
+However, one meta-analysis suggests a potential risk of cardiovascular defects in infants of women exposed to fluoxetine during the first trimester of pregnancy compared to infants of women who were not exposed to fluoxetine.
 
-### Nonteratogenic Effects
-
-Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Treatment of Pregnant Women during the Third Trimester — Neonates exposed to fluoxetine, SNRIs, or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
-These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see Monoamine oxidase inhibitors under CONTRAINDICATIONS).
+These features are consistent with either a direct toxic effect of SNRIs and SSRIs or possibly a drug discontinuation syndrome.
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome.
 
 Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1–2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
@@ -285,8 +284,15 @@ In a retrospective case–control study of 377 women whose infants were born wit
 There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
 The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
 
-When treating a pregnant woman with fluoxetine during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
+Clinical Considerations — When treating a pregnant woman with fluoxetine, the physician should carefully consider both the potential risks and benefits of treatment, taking into account the risk of untreated depression during pregnancy.
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+
+The physician may consider tapering fluoxetine in the third trimester (see DOSAGE AND ADMINISTRATION)
+
+Animal Data — In embryo fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, MRHD of 80 mg on a mg/m2 basis), throughout organogenesis.
+However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
+There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
+The no effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2 basis).
 
 ## Labor and Delivery
 
