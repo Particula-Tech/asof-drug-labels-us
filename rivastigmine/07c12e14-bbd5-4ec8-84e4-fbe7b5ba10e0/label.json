@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022083"
+  ],
   "inn": "rivastigmine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0501-15",
     "0078-0502-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "rivastigmine",
+      "name": "Exelon"
+    }
+  ],
   "setid": "07c12e14-bbd5-4ec8-84e4-fbe7b5ba10e0",
   "source": "dailymed"
 }
