@@ -65,18 +65,16 @@ These reactions have also been reported in patients who have recently discontinu
 Therefore, it is recommended that venlafaxine hydrochloride not be used in combination with an MAOI, or within at least 14 days of discontinuing treatment with an MAOI.
 Based on the half-life of venlafaxine hydrochloride, at least 7 days should be allowed after stopping venlafaxine hydrochloride before starting an MAOI.
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including venlafaxine hydrochloride treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting diarrhea] (see PRECAUTIONS, Drug Interactions).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The development of a potentially life-threatening serotonin syndrome may occur with venlafaxine hydrochloride treatment, particularly with concomitant use of serotonergic drugs (including SSRIs, SNRIs and triptans) and with drugs that impair metabolism of serotonin (including MAOIs).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting diarrhea) (see PRECAUTIONS, Drug Interactions).
 
 The concomitant use of venlafaxine hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONSand WARNINGS, Potential for Interaction with Monoamine Oxidase Inhibitors).
-If concomitant treatment of venlafaxine hydrochloride with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
+
+If concomitant treatment of venlafaxine hydrochloride with an SSRI, an SNRI or a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
 
 The concomitant use of venlafaxine hydrochloride with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS, Drug Interactions).
-Treatment with venlafaxine hydrochloride and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Sustained Hypertension
 

@@ -30,3 +30,9 @@ Store at 20°-25°C (68°-77°F); in a dry place; excursions permitted to 15°-3
 Dispense in a well-closed container as defined in the USP.
 
 The unit of use package is intended to be dispensed as a unit.
+
+Rx Only
+
+Manufactured by Dr. Reddy's Laboratories Limited Bachepalli – 502 325 INDIA
+
+Revised: 1109

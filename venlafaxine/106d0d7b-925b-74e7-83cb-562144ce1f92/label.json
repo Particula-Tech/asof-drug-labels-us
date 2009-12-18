@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078301"
+  ],
   "inn": "venlafaxine",
   "labeler": "Dr. Reddy's Laboratories Limited",
   "package_ndcs": [
@@ -34,7 +36,13 @@
     "55111-549-79",
     "55111-549-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "venlafaxine hydrochloride",
+      "name": "Venlafaxine hydrochloride"
+    }
+  ],
   "setid": "106d0d7b-925b-74e7-83cb-562144ce1f92",
   "source": "dailymed"
 }
