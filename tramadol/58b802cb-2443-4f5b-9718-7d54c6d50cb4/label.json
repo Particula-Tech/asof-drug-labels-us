@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076003"
+  ],
+  "inn": "tramadol",
+  "labeler": "Amneal Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "65162-627-01",
+    "65162-627-11",
+    "65162-627-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tramadol hydrochloride",
+      "name": "Tramadol Hydrochloride"
+    }
+  ],
+  "setid": "58b802cb-2443-4f5b-9718-7d54c6d50cb4",
+  "source": "dailymed"
+}
