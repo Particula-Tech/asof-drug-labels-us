@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA077401"
+  ],
+  "inn": "mometasone",
+  "labeler": "GW Laboratories, Inc.",
+  "package_ndcs": [
+    "0713-0635-15",
+    "0713-0635-37"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "mometasone furoate",
+      "name": "Mometasone Furoate"
+    }
+  ],
+  "setid": "f5b30e5e-b067-e28c-b7c5-aa58f4c57f09",
+  "source": "dailymed"
+}
