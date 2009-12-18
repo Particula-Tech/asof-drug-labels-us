@@ -23,4 +23,4 @@ Pharmacokinetic studies in men with Desoximetasone Cream USP, 0.25% with tagged 
 Seven days after application, no further radioactivity was detected in urine or feces.
 The half-life of the material was 15 ± 2 hours (for urine) and 17 ± 2 hours (for feces) between the third and fifth trial day.
 Studies with other similarly structured steroids have shown that predominant metabolite reaction occurs through conjugation to form the glucuronide and sulfate ester.
-Studies performed with Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25%; Desoximetasone Gel USP, 0.05% and Desoximetasone Ointment USP, 0.25% indicate that they are in the high range of potency as compared with other topical corticosteroids.
+Studies performed with Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25% and Desoximetasone Gel USP, 0.05% indicate that they are in the high range of potency as compared with other topical corticosteroids.

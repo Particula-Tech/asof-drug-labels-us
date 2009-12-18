@@ -3,6 +3,6 @@ Not for ophthalmic use.
 
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Revised: November, 2006
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Revised June, 2009
 
-PK-0964-6 1025
+PK-6352-0

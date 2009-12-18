@@ -1,18 +1,35 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA073193",
+    "ANDA073210",
+    "ANDA074904"
+  ],
   "inn": "desoximetasone",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
     "51672-1261-1",
     "51672-1261-3",
-    "51672-1262-1",
-    "51672-1262-3",
     "51672-1270-1",
     "51672-1270-3",
+    "51672-1270-7",
+    "51672-1270-9",
     "51672-1271-1",
-    "51672-1271-3"
+    "51672-1271-3",
+    "51672-1271-7",
+    "51672-1271-8"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "desoximetasone",
+      "name": "Desoximetasone"
+    },
+    {
+      "form": "GEL",
+      "generic": "desoximetasone",
+      "name": "Desoximetasone"
+    }
+  ],
   "setid": "37eb1205-1743-4480-8631-b0bbcaeb8359",
   "source": "dailymed"
 }

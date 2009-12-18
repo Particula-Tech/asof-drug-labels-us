@@ -1,6 +1,6 @@
 # WARNINGS
 
-Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25%; Desoximetasone Gel USP, 0.05% and Desoximetasone Ointment USP, 0.25% are not for ophthalmic use.
+Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25% and Desoximetasone Gel USP, 0.05% are not for ophthalmic use.
 
 Keep out of reach of children.
 
@@ -24,12 +24,12 @@ For information on systemic supplementation, see prescribing information for tho
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios.
 (See PRECAUTIONS – Pediatric Use.)
 
-If irritation develops, Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25%; Desoximetasone Gel USP, 0.05% or Desoximetasone Ointment USP, 0.25% should be discontinued and appropriate therapy instituted.
+If irritation develops, Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25% or Desoximetasone Gel USP, 0.05% should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
-If a favorable response does not occur promptly, use of Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25%; Desoximetasone Gel USP, 0.05% or Desoximetasone Ointment USP, 0.25% should be discontinued until the infection has been adequately controlled.
+If a favorable response does not occur promptly, use of Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25% or Desoximetasone Gel USP, 0.05% should be discontinued until the infection has been adequately controlled.
 
 This medication should not be used on the face, underarm or groin area.
 
@@ -48,7 +48,7 @@ It is not a disclosure of all possible adverse or unintended effects:
 2. This medication should not be used for any disorder other than that for which it was prescribed.
 3. The treated skin area should not be bandaged, otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
 4. Patients should report to their physician any signs of local adverse reactions.
-5. Other topical corticosteroid-containing products should not be used with Desoximetasone Cream USP, 0.05% or Desoximetasone Cream USP, 0.25% or Desoximetasone Gel USP, 0.05% or Desoximetasone Ointment USP, 0.25% without first talking to your physician.
+5. Other topical corticosteroid-containing products should not be used with Desoximetasone Cream USP, 0.05% or Desoximetasone Cream USP, 0.25% or Desoximetasone Gel USP, 0.05% without first talking to your physician.
 6. If no improvement is seen in 2 weeks, contact your physician.
 
 ## Laboratory Tests
@@ -73,10 +73,10 @@ Desoximetasone was nonmutagenic in the Ames test.
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
-Desoximetasone has been shown to be teratogenic and embryotoxic in mice, rats, and rabbits when given by subcutaneous or dermal routes of administration in doses 3 to 30 times the human dose of Desoximetasone Cream USP, 0.25% or Desoximetasone Ointment USP, 0.25% or in doses 15 to 150 times the human dose of Desoximetasone Cream USP, 0.05% or Desoximetasone Gel USP, 0.05%.
+Desoximetasone has been shown to be teratogenic and embryotoxic in mice, rats, and rabbits when given by subcutaneous or dermal routes of administration in doses 3 to 30 times the human dose of Desoximetasone Cream USP, 0.25% or in doses 15 to 150 times the human dose of Desoximetasone Cream USP, 0.05% or Desoximetasone Gel USP, 0.05%.
 
 There are no adequate and well-controlled studies in pregnant women.
-Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25%; Desoximetasone Gel USP, 0.05% and Desoximetasone Ointment USP, 0.25% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25% and Desoximetasone Gel USP, 0.05% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
@@ -95,6 +95,6 @@ Chronic corticosteroid therapy may interfere with linear bone growth in pediatri
 
 ## Geriatric Use
 
-Clinical studies of Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25%; Desoximetasone Gel USP, 0.05% and Desoximetasone Ointment USP, 0.25% did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25% and Desoximetasone Gel USP, 0.05% did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In generally, dose selection for an elderly patient should be cautious.
