@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA011459"
+  ],
+  "inn": "hydroxyzine",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-5410-66",
+    "0069-5420-66",
+    "0069-5430-66",
+    "0069-5440-93",
+    "0069-5440-97"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyzine pamoate",
+      "name": "Vistaril"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "hydroxyzine pamoate",
+      "name": "Vistaril"
+    }
+  ],
+  "setid": "c271f97f-040e-492b-9194-2c8b74675a95",
+  "source": "dailymed"
+}
