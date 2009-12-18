@@ -8,7 +8,7 @@ Humalog has the following primary structure:
 
 Insulin lispro has the empirical formula C257H383N65O77S6 and a molecular weight of 5808, both identical to that of human insulin.
 
-The vials, cartridges, and Pens contain a sterile solution of Humalog for use as an injection.
+The vials, cartridges, Humalog® KwikPenTM and Pens contain a sterile solution of Humalog for use as an injection.
 Humalog injection consists of zinc–insulin lispro crystals dissolved in a clear aqueous fluid.
 
 Each milliliter of Humalog injection contains insulin lispro 100 units, 16 mg glycerin, 1.88 mg dibasic sodium phosphate, 3.15 mg Metacresol, zinc oxide content adjusted to provide 0.0197 mg zinc ion, trace amounts of phenol, and Water for Injection.
