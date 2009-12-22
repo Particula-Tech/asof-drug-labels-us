@@ -11,6 +11,8 @@ Keep container tightly closed.
 
 Rx only
 
-Watson Laboratories, Inc. Corona, CA 92880 USA
+Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-HCTZ03/07COP S0307
+Revised: June 2008
+
+2000541-00 S0608

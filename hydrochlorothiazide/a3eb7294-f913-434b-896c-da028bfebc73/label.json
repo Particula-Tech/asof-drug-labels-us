@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020504"
+  ],
   "inn": "hydrochlorothiazide",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
     "0591-0347-01",
     "0591-0347-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide"
+    }
+  ],
   "setid": "a3eb7294-f913-434b-896c-da028bfebc73",
   "source": "dailymed"
 }
