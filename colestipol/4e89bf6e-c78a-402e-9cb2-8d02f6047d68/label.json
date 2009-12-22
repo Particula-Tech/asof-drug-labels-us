@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017563"
+  ],
+  "inn": "colestipol",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0260-1",
+    "59762-0260-2",
+    "59762-0260-3"
+  ],
+  "products": [
+    {
+      "form": "GRANULE, FOR SUSPENSION",
+      "generic": "colestipol hydrochloride",
+      "name": "Colestipol Hydrochloride"
+    }
+  ],
+  "setid": "4e89bf6e-c78a-402e-9cb2-8d02f6047d68",
+  "source": "dailymed"
+}
