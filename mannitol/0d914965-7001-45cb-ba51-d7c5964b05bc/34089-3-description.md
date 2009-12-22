@@ -11,7 +11,7 @@ Composition, osmolarity, and pH are shown in Table 1
 | Table 1. |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Composition |  |  |
-| Size (mL) | **Mannitol, USP (g/L) | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (³ 600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (calc) | pH |  |
+| Size (mL) | **Mannitol, USP (g/L) | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (calc) | pH |  |
 | 5% OSMITROL Injection (5% Mannitol Injection, USP) | 1000 | 50 | 274 | 5.0 (4.5 TO 7.0) |
 | 10% OSMITROL Injection (10% Mannitol Injection, USP) | 500 | 100 | 549 | 5.0 (4.5 TO 7.0) |
 | 1000 |  |  |  |  |

@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA013684"
+  ],
   "inn": "mannitol",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0338-0357-02",
     "0338-0357-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "mannitol",
+      "name": "Osmitrol"
+    }
+  ],
   "setid": "0d914965-7001-45cb-ba51-d7c5964b05bc",
   "source": "dailymed"
 }

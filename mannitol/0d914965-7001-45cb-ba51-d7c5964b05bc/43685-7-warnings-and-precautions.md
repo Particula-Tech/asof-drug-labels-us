@@ -40,11 +40,9 @@ Although blood levels of mannitol can be measured, there is little if any clinic
 The appropriate monitoring of blood levels of sodium and potassium; degree of hemoconcentration or hemodilution, if any; indices of renal, cardiac and pulmonary function are paramount in avoiding excessive fluid and electrolyte shifts.
 The routine features of physical examination and clinical chemistries suffice in achieving an adequate degree of appropriate patient monitoring.
 
-## Pregnancy
+## Pregnancy: Teratogenic Effects
 
-### Teratogenic Effects
-
-#### Pregnancy Category C
+### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with mannitol.
 It is also not known whether mannitol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
