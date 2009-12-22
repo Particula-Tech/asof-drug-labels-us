@@ -35,7 +35,7 @@ No evidence of mutagenic potential for risperidone was found in the Ames reverse
 Impairment of Fertility
 
 Risperidone (0.16 to 5 mg/kg) was shown to impair mating, but not fertility, in Wistar rats in three reproductive studies (two Segments I and a multigenerational study) at doses 0.1 to 3 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
-The effect appeared to be in females, since impaired mating behavior was not noted in the Segment I study in which male only were treated.
+The effect appeared to be in females, since impaired mating behavior was not noted in the Segment I study in which males only were treated.
 In a sub chronic study in Beagle dogs in which risperidone was administered at doses of 0.31 to 5 mg/kg, sperm motility and concentration were decreased at doses 0.6 to10 times the MRHD on a mg/m2 basis.
 Dose-related decreases were also noted in serum testosterone at the same doses.
 Serum testosterone and sperm parameters partially recovered, but remained decreased after treatment was discontinued.

@@ -10,6 +10,8 @@ Bottle of 100 NDC-13668-035-01
 
 Bottle of 500 NDC-13668-035-05
 
+Bottle of 9990 NDC-13668-035-09
+
 100 Unit Dose Tablets NDC-13668-035-74
 
 Risperidone Tablets, USP 0.5 mg are red, oblong shaped, biconvex film coated tablets debossed with ‘R 0.50’ on one side and ‘1036’ on other side.
@@ -22,6 +24,8 @@ Bottle of 100 NDC-13668-036-01
 
 Bottle of 500 NDC-13668-036-05
 
+Bottle of 8500 NDC-13668-036-54
+
 100 Unit Dose Tablets NDC-13668-036-74
 
 Risperidone Tablets, USP 1 mg are white to off white, oblong shaped, biconvex film coated tablets debossed with ‘R 1’ on one side and ‘1037’ on other side.
@@ -31,6 +35,8 @@ Bottle of 60 NDC-13668-037-60
 Bottle of 100 NDC-13668-037-01
 
 Bottle of 500 NDC-13668-037-05
+
+Bottle of 4200 NDC-13668-037-55
 
 100 Unit Dose Tablets NDC-13668-037-74
 
@@ -42,6 +48,8 @@ Bottle of 100 NDC-13668-038-01
 
 Bottle of 500 NDC-13668-038-05
 
+Bottle of 4200 NDC-13668-038-55
+
 100 Unit Dose Tablets NDC-13668-038-74
 
 Risperidone Tablets, USP 3 mg are yellow, oblong shaped, biconvex film coated tablets debossed with ‘R 3’ on one side and ‘1039’ on other side.
@@ -51,6 +59,8 @@ Bottle of 60 NDC-13668-039-60
 Bottle of 100 NDC-13668-039-01
 
 Bottle of 500 NDC-13668-039-05
+
+Bottle of 2750 NDC-13668-039-56
 
 100 Unit Dose Tablets NDC-13668-039-74
 
@@ -62,9 +72,11 @@ Bottle of 100 NDC-13668-040-01
 
 Bottle of 500 NDC-13668-040-05
 
+Bottle of 2100 NDC-13668-040-57
+
 90 Unit Dose Tablets NDC-13668-040-64
 
-Storage and Handling
+## 16.1 Storage and Handling
 
 Store at 20°- 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F).
 [See USP Controlled Room Temperature].

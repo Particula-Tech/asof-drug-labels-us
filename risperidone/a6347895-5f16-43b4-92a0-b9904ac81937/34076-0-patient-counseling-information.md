@@ -8,7 +8,7 @@ Patients should be advised of the risk of orthostatic hypotension, especially du
 
 ## 17.2 Interference with Cognitive and Motor Performance
 
-Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely [see Warnings and Precautions (5.8)].
+Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely [see Warnings and Precautions (5.9)].
 
 ## 17.3 Pregnancy
 

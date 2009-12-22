@@ -9,11 +9,11 @@ The following are discussed in more detail in other sections of the labeling:
 - Hyperglycemia and diabetes mellitus [see Warnings and Precautions (5.5)]
 - Hyperprolactinemia [see Warnings and Precautions (5.6)]
 - Orthostatic hypotension [see Warnings and Precautions (5.7)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.8)]
-- Seizures [see Warnings and Precautions (5.9)]
-- Dysphagia [see Warnings and Precautions (5.10)]
-- Priapism [see Warnings and Precautions (5.11)]
-- Thrombotic Thrombocytopenic Purpura (TTP) [see Warnings and Precautions (5.12)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
+- Dysphagia [see Warnings and Precautions (5.11)]
+- Priapism [see Warnings and Precautions (5.12)]
 - Disruption of body temperature regulation [see Warnings and Precautions (5.13)]
 - Antiemetic effect [see Warnings and Precautions (5.14)]
 - Suicide [see Warnings and Precautions (5.15)]
@@ -356,7 +356,7 @@ Vascular Disorders: cerebrovascular disorder
 
 Vision Disorders: conjunctivitis
 
-White Cell Disorders: leucopenia, granulocytopenia
+White Cell Disorders: leukopenia, granulocytopenia
 
 ## 6.5 Discontinuations Due to Adverse Reactions
 
@@ -443,13 +443,6 @@ Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8-week 
 | EPS | 7% | 11% | 17% | 18% | 20% |
 | Incidence |  |  |  |  |  |
 
-Dystonia
-
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
-Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
-While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
-An elevated risk of acute dystonia is observed in males and younger age groups.
-
 Other Adverse Reactions
 
 Adverse event data elicited by a checklist for side effects from a large study comparing 5 fixed doses of risperidone (1, 4, 8, 12, and 16 mg/day) were explored for dose-relatedness of adverse events.
@@ -474,6 +467,6 @@ Information regarding changes in ECG during the treatment of pediatric patients 
 
 ## 6.9 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetic ketoacidosis in patients with impaired glucose metabolism, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, QT prolongation, sleep apnea, thrombocytopenia, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: anaphylactic reaction, angioedema, atrial fibrillation, diabetic ketoacidosis in patients with impaired glucose metabolism, intestinal obstruction, jaundice, mania, QT prolongation, and sleep apnea.
 
-Other adverse events reported since market introduction, which were temporally related to risperidone but not necessarily causally related, include the following: pituitary adenoma pulmonary embolism, precocious puberty, cardiopulmonary arrest, and sudden death.
+Other adverse events reported since market introduction, which were temporally related to risperidone but not necessarily causally related, include the following: pancreatitis, pituitary adenoma, pulmonary embolism, precocious puberty, cardiopulmonary arrest, and sudden death.
