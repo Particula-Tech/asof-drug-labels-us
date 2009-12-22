@@ -97,7 +97,7 @@ Nervous System Disorders - Seizure, dyskinesia
 
 Psychiatric Disorder - Psychotic episodes, mania, hallucination, depression, aggression, dysphoria, euphoria, logorrhea
 
-Skin and Subcutaneous Tissue Disorder - Angioedema, urticaria
+Skin and Subcutaneous Tissue Disorder - Stevens-Johnson Syndrome, angioedema, urticaria
 
 ## 6.3 Adverse Reactions Associated with the Use of Amphetamine
 
