@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 No. 3870 — Tablets FOSAMAX PLUS D 70 mg/2800 IU are white to off-white, modified capsule-shaped tablets with code 710 on one side and an outline of a bone image on the other.
 They are supplied as follows:

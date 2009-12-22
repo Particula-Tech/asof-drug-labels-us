@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 FOSAMAX PLUS D contains alendronate sodium, a bisphosphonate, and cholecalciferol (vitamin D3).
 

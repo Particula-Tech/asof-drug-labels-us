@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 FOSAMAX PLUS D1 is indicated for:
 
@@ -11,3 +11,5 @@ For the treatment of osteoporosis, FOSAMAX PLUS D increases bone mass and reduce
 ## 1.3 Important Limitations of Use
 
 FOSAMAX PLUS D alone should not be used to treat vitamin D deficiency.
+
+1Registered Trademark of MERCK & CO., Inc. COPYRIGHT © 2005, 2007 MERCK & CO., Inc. All rights reserved

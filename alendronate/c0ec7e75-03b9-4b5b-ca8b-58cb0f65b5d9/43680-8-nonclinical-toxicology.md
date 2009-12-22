@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 The following data are based on findings for the individual components of FOSAMAX PLUS D.
 
@@ -27,7 +27,7 @@ Calcitriol, the hormonal metabolite of cholecalciferol, was not genotoxic in the
 Ergocalciferol (vitamin D2) at high doses (150,000 to 200,000 IU/kg/day) administered prior to mating resulted in altered estrous cycle and inhibition of pregnancy in rats.
 The potential effect of cholecalciferol on male fertility is unknown in rats.
 
-## 13.2 Animal Toxicology And/Or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 The relative inhibitory activities on bone resorption and mineralization of alendronate and etidronate were compared in the Schenk assay, which is based on histological examination of the epiphyses of growing rats.
 In this assay, the lowest dose of alendronate that interfered with bone mineralization (leading to osteomalacia) was 6000‑fold the antiresorptive dose.
