@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065013"
+  ],
   "inn": "tobramycin",
-  "labeler": "X-Gen Pharmaceuticals, Inc.",
+  "labeler": "X-GEN Pharmaceuticals, Inc.",
   "package_ndcs": [
     "39822-0412-1",
     "39822-0412-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "tobramycin sulfate",
+      "name": "tobramycin"
+    }
+  ],
   "setid": "a384641c-04e3-4ab5-b152-7408cd07b64d",
   "source": "dailymed"
 }

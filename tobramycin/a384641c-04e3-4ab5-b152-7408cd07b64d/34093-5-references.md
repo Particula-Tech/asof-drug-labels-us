@@ -13,4 +13,6 @@ X-Gen Pharmaceuticals, Inc.
 
 Northport, NY 11768
 
-TOB-P01
+Revised September 2006
+
+TOB-P02

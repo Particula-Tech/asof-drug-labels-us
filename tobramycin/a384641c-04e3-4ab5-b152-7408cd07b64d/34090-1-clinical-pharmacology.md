@@ -9,7 +9,7 @@ Tobramycin is poorly absorbed from the gastrointestinal tract.
 
 In patients with normal renal function, except neonates, tobramycin administered every 8 hours does not accumulate in the serum.
 However, in those patients with reduced renal function and in neonates, the serum concentration of the antibiotic is usually higher and can be measured for longer periods of time than in normal adults.
-Dosage for such patients must, therefore, be adjusted accordingly (seeDosage and Administration).
+Dosage for such patients must, therefore, be adjusted accordingly (see Dosage and Administration).
 
 Following parenteral administration, little, if any, metabolic transformation occurs, and tobramycin is eliminated almost exclusively by glomerular filtration.
 Renal clearance is similar to that of endogenous creatinine.
@@ -21,7 +21,7 @@ After several days of treatment, the amount of tobramycin excreted in the urine 
 When renal function is impaired, excretion of tobramycin is slowed, and accumulation of the drug may cause toxic blood levels.
 
 The serum half-life in normal individuals is 2 hours.
-An inverse relationship exists between serum half-life and creatinine clearance, and the dosage schedule should be adjusted according to the degree of renal impairment (seeDosage and Administration).
+An inverse relationship exists between serum half-life and creatinine clearance, and the dosage schedule should be adjusted according to the degree of renal impairment (see Dosage and Administration).
 In patients undergoing dialysis, 25% to 70% of the administered dose may be removed, depending on the duration and type of dialysis.
 
 Tobramycin can be detected in tissues and body fluids after parenteral administration.

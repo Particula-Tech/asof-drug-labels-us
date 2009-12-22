@@ -1,11 +1,11 @@
 # ADVERSE REACTIONS
 
-Neurotoxicity–Adverse effects on both the vestibular and auditory branches of the eighth nerve have been noted, especially in patients receiving high doses or prolonged therapy, in those given previous courses of therapy with an ototoxin, and in cases of dehydration.
+Neurotoxicity– Adverse effects on both the vestibular and auditory branches of the eighth nerve have been noted, especially in patients receiving high doses or prolonged therapy, in those given previous courses of therapy with an ototoxin, and in cases of dehydration.
 Symptoms include dizziness, vertigo, tinnitus, roaring in the ears, and hearing loss.
 Hearing loss is usually irreversible and is manifested initially by diminution of high-tone acuity.
 Tobramycin and gentamicin sulfates closely parallel each other in regard to ototoxic potential.
 
-Nephrotoxicity–Renal function changes, as shown by rising BUN, NPN, and serum creatinine and by oliguria, cylindruria, and increased proteinuria, have been reported, especially in patients with a history of renal impairment who are treated for longer periods or with higher doses than those recommended.
+Nephrotoxicity – Renal function changes, as shown by rising BUN, NPN, and serum creatinine and by oliguria, cylindruria, and increased proteinuria, have been reported, especially in patients with a history of renal impairment who are treated for longer periods or with higher doses than those recommended.
 Adverse renal effects can occur in patients with initially normal renal function.
 
 Clinical studies and studies in experimental animals have been conducted to compare the nephrotoxic potential of tobramycin and gentamicin.

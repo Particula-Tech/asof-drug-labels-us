@@ -6,13 +6,13 @@ Dosage recommendations and/or references to the intramuscular route of administr
 Tobramycin for Injection may be given intramuscularly or intravenously.
 Recommended dosages are the same for both routes.
 The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
-It is desirable to measure both peak and trough serum concentrations (seeWarnings box and Precautions).
+It is desirable to measure both peak and trough serum concentrations (see Warnings box and Precautions).
 
-Administration for Patients With Normal Renal Function-Adults-With Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (see Table 1).
+Administration for Patients With Normal Renal Function-Adults-With Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (seeTable 1).
 
-Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 1).
+Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (seeTable 1).
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
-To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (seeWarnings box and Precautions).
+To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see Warnings box and Precautions).
 
 Pediatric patients: 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
@@ -58,7 +58,7 @@ In patients with severe cystic fibrosis, an initial dosage regimen of 10 mg/kg/d
 This dosing regimen is suggested only as a guide.
 The serum levels of tobramycin should be measured directly during treatment due to wide interpatient variability.
 
-Administration for Patients With Impaired Renal Function–Whenever possible, serum tobramycin concentrations should be monitored during therapy.
+Administration for Patients With Impaired Renal Function– Whenever possible, serum tobramycin concentrations should be monitored during therapy.
 
 Following a loading dose of 1 mg/kg, subsequent dosage in these patients must be adjusted, either with reduced doses administered at 8-hour intervals or with normal doses given at prolonged intervals.
 Both of these methods are suggested as guides to be used when serum levels of tobramycin cannot be measured directly.
@@ -66,27 +66,27 @@ They are based on either the creatinine clearance level or the serum creatinine 
 The dosage schedule derived from either method should be used in conjunction with careful clinical and laboratory observations of the patient and should be modified as necessary.
 Neither method should be used when dialysis is being performed.
 
-Reduced dosage at 8-hour intervals: When the creatinine clearance rate is 70 mL or less per minute or when the serum creatinine value is known, the amount of the reduced dose can be determined by multiplying the the normal dose from Table 1 by the percent of normal dose from the accompanying nomogram.
+Reduced dosage at 8-hour intervals: When the creatinine clearance rate is 70 mL or less per minute or when the serum creatinine value is known, the amount of the reduced dose can be determined by multiplying the normal dose from Table 1 by the percent of normal dose from the accompanying nomogram.
 
 An alternate rough guide for determining reduced dosage at 8-hour intervals (for patients whose steady-state serum creatinine values are known) is to divide the normally recommended dose by the patient’s serum creatinine.
 
 Normal dosage at prolonged intervals: If the creatinine clearance rate is not available and the patient’s condition is stable, a dosage frequency in hours for the dosage given in Table 1 can be determined by multiplying the patient’s serum creatinine by 6.
 
-Dosage in Obese Patients-The appropriate dose may be calculated by using the patient’s estimated lean body weight plus 40% of the excess as the basic weight on which to figure mg/kg.
+Dosage in Obese Patients - The appropriate dose may be calculated by using the patient’s estimated lean body weight plus 40% of the excess as the basic weight on which to figure mg/kg.
 
-Intramuscular Administration-Tobramycin for Injection may be administered by withdrawing the appropriate dose directly from a vial or by using a prefilled syringe.
+Intramuscular Administration- Tobramycin for Injection may be administered by withdrawing the appropriate dose directly from a vial or by using a prefilled syringe.
 The Pharmacy Bulk Package is not intended for intramuscular administration.
 
-Intravenous Administration-For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
+Intravenous Administration - For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
 For pediatric patients, the volume of diluent should be proportionately less than that for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
-Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (seeWarnings box).
+Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see Warnings box).
 
 Tobramycin for injection USP should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
 
-Preparation and Storage–
+Preparation and Storage –
 
-Directions for Proper Use of Pharmacy Bulk Package–Not for direct infusion.
+Directions for Proper Use of Pharmacy Bulk Package– Not for direct infusion.
 The pharmacy bulk package is for use in the Hospital Pharmacy Admixture Service and only in a suitable work area, such as a laminar flow hood.
 Using aseptic technique, the closure may be penetrated only 1 time after reconstitution using a suitable sterile transfer device or dispensing set, which allows measured dispensing of the contents.
 Use of a syringe and needle is not recommended as it may cause leakage.
@@ -94,7 +94,7 @@ After entry, enter contents of bulk vial should be dispensed within 24 hours.
 
 Sterile tobramycin sulfate is supplied as a dry powder.
 The contents of the vial should be diluted with 30 mL of Sterile Water for Injection, USP, to provide a solution containing 40 mg of tobramycin per mL.
-Prior to reconstitution, the vial should be stored at controlled room temperature, 59° to 86°F (15° to 30°C).
+Prior to reconstitution, the vial should be stored at controlled room temperature, 20º to 25ºC (68º to 77ºF).
 After reconstitution, the solution should be kept in a refrigerator and used within 96 hours.
 If kept at room temperature, the solution must be used within 24 hours.
 

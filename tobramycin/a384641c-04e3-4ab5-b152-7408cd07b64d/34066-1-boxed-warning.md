@@ -1,4 +1,4 @@
-# WARNINGS
+# BOXED WARNING
 
 Patients treated with tobramycin for injection USP and other aminoglycosides should be under close clinical observation, because these drugs have an inherent potential for causing ototoxicity and nephrotoxicity.
 Neurotoxicity, manifested as both auditory and vestibular ototoxicity, can occur.
@@ -15,7 +15,7 @@ Renal and eighth-nerve function should be closely monitored in patients with kno
 Peak and trough serum concentrations of aminoglycosides should be monitored periodically during therapy to assure adequate levels and to avoid potentially toxic levels.
 Prolonged serum concentrations above 12 mcg/mL should be avoided.
 Rising trough levels (above 2 mcg/mL) may indicate tissue accumulation.
-Such accumulation, excessive peak concentrations, advanced age, and cumulative dose may contribute to ototoxicity and nephrotoxicity (seePrecautions).
+Such accumulation, excessive peak concentrations, advanced age, and cumulative dose may contribute to ototoxicity and nephrotoxicity (see Precautions).
 Urine should be examined for decreased specific gravity and increased excretion of protein, cells, and casts.
 Blood urea nitrogen, serum creatinine, and creatinine clearance should be measured periodically.
 When feasible, it is recommended that serial audiograms be obtained in patients old enough to be tested, particularly high-risk patients.
@@ -29,4 +29,4 @@ Other factors that may increase patient risk are advanced age and dehydration.
 Aminoglycosides should not be given concurrently with potent diuretics, such as ethacrynic acid and furosemide.
 Some diuretics themselves cause ototoxicity, and intravenously administered diuretics enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
 
-Aminoglycosides can cause fetal harm when administered to a pregnant woman (seePrecautions).
+Aminoglycosides can cause fetal harm when administered to a pregnant woman (see Precautions).

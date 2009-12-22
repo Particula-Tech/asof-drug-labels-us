@@ -12,4 +12,4 @@ The structural formula for tobramycin is as follows:
 
 The pharmacy bulk package of tobramycin for injection USP is a container of a sterile preparation for parenteral use that contains multiple single doses.
 It is intended for use in a pharmacy admixture program.
-Package use is restricted to the preparation of admixures for intravenous infusion or to the filling of empty sterile syringes for intravenous injections for patients with individualized dosing requirements.
+Package use is restricted to the preparation of admixtures for intravenous infusion or to the filling of empty sterile syringes for intravenous injections for patients with individualized dosing requirements.
