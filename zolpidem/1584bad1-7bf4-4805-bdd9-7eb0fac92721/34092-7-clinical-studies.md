@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 ## 14.1 Transient insomnia
 
@@ -11,17 +11,18 @@ All zolpidem doses were superior to placebo on the two primary PSG parameters (s
 ## 14.2 Chronic insomnia
 
 Zolpidem was evaluated in two controlled studies for the treatment of patients with chronic insomnia (most closely resembling primary insomnia, as defined in the APA Diagnostic and Statistical Manual of Mental Disorders, DSM-IV™).
-Adult outpatients with chronic insomnia (n = 75) were evaluated in a double-blind, parallel group, 5-week trial comparing two doses of zolpidem tartrate (10 and 15 mg) and placebo.
-On objective (polysomnographic) measures of sleep latency and sleep efficiency, zolpidem 15 mg was superior to placebo for all 5 weeks; zolpidem 10 mg was superior to placebo on sleep latency for the first 4 weeks and on sleep efficiency for weeks 2 and 4.
+Adult outpatients with chronic insomnia (n = 75) were evaluated in a double-blind, parallel group, 5-week trial comparing two doses of zolpidem tartrate and placebo.
+On objective (polysomnographic) measures of sleep latency and sleep efficiency, zolpidem 10 mg was superior to placebo on sleep latency for the first 4 weeks and on sleep efficiency for weeks 2 and 4.
 Zolpidem was comparable to placebo on number of awakenings at both doses studied.
 
-Adult outpatients (n=141) with chronic insomnia were also evaluated, in a double-blind, parallel group, 4-week trial comparing two doses of zolpidem (10 and 15 mg) and placebo.
+Adult outpatients (n=141) with chronic insomnia were also evaluated, in a double-blind, parallel group, 4-week trial comparing two doses of zolpidem and placebo.
 Zolpidem 10 mg was superior to placebo on a subjective measure of sleep latency for all 4 weeks, and on subjective measures of total sleep time, number of awakenings, and sleep quality for the first treatment week.
-Zolpidem 15 mg was superior to placebo on a subjective measure of total sleep latency for the first 3 weeks, on a subjective measure of total sleep time for the first week, and on number of awakenings and sleep quality for the first 2 weeks.
+
+Increased wakefulness during the last third of the night as measured by polysomnography has not been observed in clinical trials with zolpidem tartrate tablets.
 
 ## 14.3 Studies pertinent to safety concerns for sedative/hypnotic drugs
 
-Next-day residual effects: Next-day residual effects of zolpidem tartrate tablets were evaluated in seven studies involving normal volunteers.
+Next-day residual effects: Next-day residual effects of zolpidem tartrate tablets were evaluated in seven studies involving normal subjects.
 In three studies in adults (including one study in a phase advance model of transient insomnia) and in one study in elderly subjects, a small but statistically significant decrease in performance was observed in the Digit Symbol Substitution Test (DSST) when compared to placebo.
 Studies of zolpidem tartrate tablets in non-elderly patients with insomnia did not detect evidence of next-day residual effects using the DSST, the Multiple Sleep Latency Test (MSLT), and patient ratings of alertness.
 

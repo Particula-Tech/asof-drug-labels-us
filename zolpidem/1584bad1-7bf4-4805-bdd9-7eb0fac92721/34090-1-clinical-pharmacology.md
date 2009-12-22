@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of action
 
@@ -6,14 +6,14 @@ Subunit modulation of the GABAA receptor chloride channel macromolecular complex
 The major modulatory site of the GABAA receptor complex is located on its alpha (α) subunit and is referred to as the benzodiazepine (BZ) or omega (ω) receptor.
 At least three subtypes of the (ω) receptor have been identified.
 
-While zolpidem is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties, it interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
-In contrast to the benzodiazepines, which non-selectively bind to and activate all omega receptor subtypes, zolpidem in vitro binds the (ω1) receptor preferentially with a high affinity ratio of the alpha1/alpha5 subunits.
-The (ω1) receptor is found primarily on the Lamina IV of the sensorimotor cortical regions, substantia nigra (parsreticulata), cerebellum molecular layer, olfactory bulb, ventral thalamic complex, pons, inferior colliculus, and globus pallidus.
-This selective binding of zolpidem on the (ω1) receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem at hypnotic doses.
+Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, pyrrolopyrazines, pyrazolopyrimidines or other drugs with known hypnotic properties, it interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
+In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the (BZ1) receptor preferentially with a high affinity ratio of the alpha1/alpha5 subunits.
+The (BZ1) receptor is found primarily on the Lamina IV of the sensorimotor cortical regions, substantia nigra (pars reticulata), cerebellum molecular layer, olfactory bulb, ventral thalamic complex, pons, inferior colliculus, and globus pallidus.
+This selective binding of zolpidem on the (BZ1) receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem at hypnotic doses.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic profile of zolpidem tartrate tablets is characterized by rapid absorption from the GI tract and a short elimination half-life (T1/2) in healthy subjects.
+The pharmacokinetic profile of zolpidem tartrate tablets is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
 
 In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem tartrate tablets, the mean peak concentrations (Cmax) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (Tmax) of 1.6 hours for both.
 The mean zolpidem tartrate tablets elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.
@@ -22,21 +22,29 @@ Zolpidem tartrate tablets demonstrated linear kinetics in the dose range of 5 to
 Total protein binding was found to be 92.5 ± 0.1% and remained constant, independent of concentration between 40 and 790 ng/mL.
 Zolpidem did not accumulate in young adults following nightly dosing with 20 mg zolpidem tartrate tablets for 2 weeks.
 
-A food-effect study in 30 healthy male volunteers compared the pharmacokinetics of zolpidem tartrate tablets 10 mg when administered while fasting or 20 minutes after a meal.
+A food-effect study in 30 healthy male subjects compared the pharmacokinetics of zolpidem tartrate tablets 10 mg when administered while fasting or 20 minutes after a meal.
 Results demonstrated that with food, mean AUC and Cmax were decreased by 15% and 25%, respectively, while mean Tmax was prolonged by 60% (from 1.4 to 2.2 hr). The half-life remained unchanged.
 These results suggest that, for faster sleep onset, zolpidem tartrate tablets should not be administered with or immediately after a meal.
 
+Special Populations
+
+Elderly:
+
 In the elderly, the dose for zolpidem tartrate tablets should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
 This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
-In one study of eight elderly subjects (>70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs 384 ng/mL), 32% (2.2 vs 2.9 hr), and 64% (955 vs 1,562 ng·hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
+In one study of eight elderly subjects (>70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng·hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Zolpidem tartrate tablets did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
-The pharmacokinetics of zolpidem tartrate tablets in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
-Following a single 20 mg oral zolpidem dose, mean Cmax and AUC were found to be two times (250 vs 499 ng/mL) and five times (788 vs 4,203 ng·hr/mL) higher, respectively, in hepatically compromised patients.
-Tmax did not change.
-The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normals of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Warnings and Precautions (5) and Dosage and Administration (2)].
+Hepatic Impairment:
 
-The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem 10 mg orally each day for 14 or 21 days.
+The pharmacokinetics of zolpidem tartrate tablets in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
+Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng·hr/mL) higher, respectively, in hepatically- compromised patients.
+Tmax did not change.
+The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2) and Warnings and Precautions (5.6)].
+
+Renal Impairment:
+
+The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
 On day 1, Cmax was 172 ± 29 ng/mL (range: 46 to 344 ng/mL).
 After repeated dosing for 14 or 21 days, Cmax was 203 ± 32 ng/mL (range: 28 to 316 ng/mL).
@@ -45,15 +53,6 @@ This resulted in residual drug concentration and a shorter period to reach maxim
 On day 1, T1/2 was 2.4 ± 0.4 hr (range: 0.4 to 5.1 hr). After repeated dosing, T1/2 was 2.5 ± 0.4 hr (range: 0.7 to 4.2 hr). AUC was 796 ± 159 ng·hr/mL after the first dose and 818 ± 170 ng·hr/mL after repeated dosing.
 Zolpidem was not hemodialyzable.
 No accumulation of unchanged drug appeared after 14 or 21 days.
-Zolpidem tartrate tablet pharmacokinetics were not significantly different in renally impaired patients.
+Zolpidem pharmacokinetics were not significantly different in renally impaired patients.
 No dosage adjustment is necessary in patients with compromised renal function.
-As a general precaution, these patients should be closely monitored.
-
-Postulated relationship between elimination rate of hypnotics and their profile of common untoward effects: The type and duration of hypnotic effects and the profile of unwanted effects during administration of hypnotic drugs may be influenced by the biologic half-life of administered drug and any active metabolites formed.
-When half-lives are long, drug or metabolites may accumulate during periods of nightly administration and be associated with impairment of cognitive and/or motor performance during waking hours; the possibility of interaction with other psychoactive drugs or alcohol will be enhanced.
-In contrast, if half-lives, including half-lives of active metabolites, are short, drug and metabolites will be cleared before the next dose is ingested, and carryover effects related to excessive sedation or CNS depression should be minimal or absent.
-Zolpidem tartrate tablets have a short half-life and no active metabolites.
-During nightly use for an extended period, pharmacodynamic tolerance or adaptation to some effects of hypnotics may develop.
-If the drug has a short elimination half-life, it is possible that a relative deficiency of the drug or its active metabolites (i.e., in relationship to the receptor site) may occur at some point in the interval between each night's use.
-This sequence of events may account for two clinical findings reported to occur after several weeks of nightly use of other rapidly eliminated hypnotics, namely, increased wakefulness during the last third of the night, and the appearance of increased signs of daytime anxiety.
-Increased wakefulness during the last third of the night as measured by polysomnography has not been observed in clinical trials with zolpidem tartrate tablets.
+However, as a general precaution, these patients should be closely monitored.

@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11. DESCRIPTION
 
 Zolpidem tartrate is a non-benzodiazepine hypnotic of the imidazopyridine class and is available in 5 mg and 10 mg strength tablets for oral administration.
 

@@ -1,20 +1,22 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
+
+The dose of zolpidem tartrate tablets should be individualized.
 
 ## 2.1 Dosage in adults
 
-The dose of zolpidem tartrate tablets should be individualized.
-The recommended dose for adults is 10 mg immediately before bedtime.
+The recommended dose for adults is 10 mg once daily immediately before bedtime.
+The total zolpidem tartrate dose should not exceed 10 mg per day.
 
-## 2.2 Special Populations
+## 2.2 Special populations
 
-Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate tablets.
-Patients with hepatic insufficiency do not clear the drug as rapidly as normals.
-An initial 5 mg dose is recommended in these patients [see Warnings and Precautions (5)].
+Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
+Patients with hepatic insufficiency do not clear the drug as rapidly as normal subjects.
+The recommended dose of zolpidem tartrate in both of these patient populations is 5 mg once daily immediately before bedtime [see Warnings and Precautions (5.6)].
 
-## 2.3 Administration with CNS depressants
+## 2.3 Use with CNS depressants
 
-Downward dosage adjustment may be necessary when zolpidem tartrate tablets are administered with agents having known CNS-depressant effects because of the potentially additive effects [see Warnings and Precautions (5)].
+Dosage adjustment may be necessary when zolpidem tartrate tablets are combined with other CNS depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.5)].
 
-## 2.4 Maximum daily dose
+## 2.4 Administration
 
-The total zolpidem tartrate tablet dose should not exceed 10 mg per day.
+The effect of zolpidem tartrate tablets may be slowed by ingestion with or immediately after a meal.
