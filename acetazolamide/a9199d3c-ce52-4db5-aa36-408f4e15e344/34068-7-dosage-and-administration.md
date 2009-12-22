@@ -3,7 +3,8 @@
 ## Preparation and Storage of Parenteral Solution
 
 Each 500 mg vial containing sterile acetazolamide sodium should be reconstituted with at least 5 mL of Sterile Water for Injection prior to use.
-Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2° - 8° C (36° - 46° F), or 12 hours at room temperature 20° - 25 C (68° - 77° F). CONTAINS NO PRESERVATIVE.
+Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2° - 8°C (36° - 46°F), or 12 hours at room temperature 20° - 25°C (68° - 77°F).
+CONTAINS NO PRESERVATIVE.
 The direct intravenous route of administration is preferred.
 Intramuscular administration is not recommended.
 
@@ -20,7 +21,7 @@ A complementary effect has been noted when acetazolamide has been used in conjun
 
 Epilepsy: It is not clearly known whether the beneficial effects observed in epilepsy are due to direct inhibition of carbonic anhydrase in the central nervous system or whether they are due to the slight degree of acidosis produced by the divided dosage.
 The best results to date have been seen in petit mal in children.
-Good results, however, have been seen in patients, both children and adult, in other types of seizures such as grand mal, mixed seizure patterns, myoclonic jerk patterns, etc. The suggested total daily dose is 8 to 30 mg per kg in divided doses.
+Good results, however, have been seen in patients, both in children and adult, in other types of seizures such as grand mal, mixed seizure patterns, myoclonic jerk patterns, etc. The suggested total daily dose is 8 to 30 mg per kg in divided doses.
 Although some patients respond to a low dose, the optimum range appears to be from 375 to 1000 mg daily.
 However, some investigators feel that daily doses in excess of 1 g do not produce any better results than a 1 g dose.
 When acetazolamide is given in combination with other anticonvulsants, it is suggested that the starting dose should be 250 mg once daily in addition to the existing medications.
@@ -28,7 +29,7 @@ This can be increased to levels as indicated above.
 
 The change from other medications to acetazolamide should be gradual and in accordance with usual practice in epilepsy therapy.
 
-Congestive Heart Failure: For diuresis in congestive heart failure, the starting dose is usually 250 to 375 mg once daily in the morning (5 mg per kg).
+Congestive Heart Failure: For diuresis in congestive heart failure, the starting dose is usually 250 to 375 mg once daily in the morning (5 mg/kg).
 If, after an initial response, the patient fails to continue to lose edema fluid, do not increase the dose but allow for kidney recovery by skipping medication for a day.
 
 Acetazolamide yields best diuretic results when given on alternate days, or for two days alternating with a day of rest.
@@ -39,13 +40,5 @@ The use of acetazolamide does not eliminate the need for other therapy such as d
 Drug-Induced Edema: Recommended dosage is 250 to 375 mg of acetazolamide once a day for one or two days, alternating with a day of rest.
 
 Note: The dosage recommendations for glaucoma and epilepsy differ considerably from those for congestive heart failure, since the first two conditions are not dependent upon carbonic anhydrase inhibition in the kidney which requires intermittent dosage if it is to recover from inhibitory effect of the therapeutic agent.
-
-### Interference with Laboratory Tests
-
-Sulfonamides may give false negative or decreased values for urinary phenolsulfonphthalein and phenol red elimination values for urinary protein, serum non-protein and for serum uric acid.
-Acetazolamide may produce an increased level of crystals in the urine.
-
-Acetazolamide interferes with the HPLC method of assay for theophylline.
-Interference with the theophylline assay by acetazolamide depends on the solvent used in the extraction; acetazolamide may not interfere with other assay methods for theophylline.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

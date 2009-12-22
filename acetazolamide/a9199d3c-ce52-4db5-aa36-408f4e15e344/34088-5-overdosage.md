@@ -1,5 +1,7 @@
 # OVERDOSAGE
 
+No data are available regarding acetazolamide overdosage in humans as no cases of acute poisoning with this drug have been reported.
+Animal data suggest that acetazolamide is remarkable nontoxic.
 No specific antidote is known.
 Treatment should be symptomatic and supportive.
 
