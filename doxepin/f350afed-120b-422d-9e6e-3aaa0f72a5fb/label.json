@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074721"
+  ],
+  "inn": "doxepin",
+  "labeler": "Silarx Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "54838-512-40"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "doxepin hydrochloride",
+      "name": "Doxepin Hydrochloride"
+    }
+  ],
+  "setid": "f350afed-120b-422d-9e6e-3aaa0f72a5fb",
+  "source": "dailymed"
+}
