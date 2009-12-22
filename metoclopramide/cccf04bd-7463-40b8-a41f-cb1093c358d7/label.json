@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA073135"
+  ],
+  "inn": "metoclopramide",
+  "labeler": "Teva Parenteral Medicines, Inc",
+  "package_ndcs": [
+    "0703-4502-01",
+    "0703-4502-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "metoclopramide hydrochloride",
+      "name": "Metoclopramide hydrochloride"
+    }
+  ],
+  "setid": "cccf04bd-7463-40b8-a41f-cb1093c358d7",
+  "source": "dailymed"
+}
