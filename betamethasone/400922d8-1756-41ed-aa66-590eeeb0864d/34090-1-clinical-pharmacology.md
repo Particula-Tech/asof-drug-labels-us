@@ -40,11 +40,11 @@ Calcipotriene:
 Calcipotriene metabolism following systemic uptake is rapid and occurs in the liver.
 The primary metabolites of calcipotriene are less potent than the parent compound.
 
-Calcipotriene is metabolized to MC1046 (the α,β-unsaturated ketone analog of calcipotriene), which is metabolized further to MC1080 (a saturated ketone analog).
+Calcipotriene is metabolized to MC1046 (the α,ß-unsaturated ketone analog of calcipotriene), which is metabolized further to MC1080 (a saturated ketone analog).
 MC1080 is the major metabolite in plasma.
 MC1080 is slowly metabolized to calcitroic acid.
 
 Betamethasone dipropionate:
 
-Betamethasone dipropionate is metabolized to betamethasone 17-propionate and betamethasone, including the 6β-hydroxy derivatives of those compounds by hydrolysis.
+Betamethasone dipropionate is metabolized to betamethasone 17-propionate and betamethasone, including the 6ß-hydroxy derivatives of those compounds by hydrolysis.
 Betamethasone 17-propionate (B17P) is the primary metabolite.

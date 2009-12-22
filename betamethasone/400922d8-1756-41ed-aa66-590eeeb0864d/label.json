@@ -1,14 +1,21 @@
 {
-  "application_numbers": [],
-  "inn": "betamethasone",
-  "labeler": "LEO Pharmaceutical Products Ltd. A/S",
-  "package_ndcs": [
-    "0430-3240-11",
-    "0430-3240-13",
-    "0430-3240-15",
-    "0430-3240-17"
+  "application_numbers": [
+    "NDA022185"
   ],
-  "products": [],
+  "inn": "betamethasone",
+  "labeler": "Warner Chilcott (US), LLC",
+  "package_ndcs": [
+    "0430-3240-15",
+    "0430-3240-95",
+    "0430-3240-96"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "calcipotriene 0.005% and betamethasone dipropionate 0.064%",
+      "name": "TACLONEX SCALP"
+    }
+  ],
   "setid": "400922d8-1756-41ed-aa66-590eeeb0864d",
   "source": "dailymed"
 }

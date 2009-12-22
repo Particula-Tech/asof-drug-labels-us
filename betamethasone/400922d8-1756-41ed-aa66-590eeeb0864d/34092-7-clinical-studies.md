@@ -10,17 +10,16 @@ The majority of subjects had disease of moderate severity at baseline.
 Subjects were treated once daily for 8 weeks.
 
 Efficacy was assessed as the proportion of patients at Week 8 with absent or very mild disease according to an Investigator’s Global Assessment of Disease Severity.
-“Clear” was defined as no evidence of redness, thickness or scaling.
-“Almost clear” was defined as an overall clinical picture of lesions with the presence of minimal erythema.
+"Clear" was defined as no evidence of redness, thickness or scaling.
+"Almost clear" was defined as an overall clinical picture of lesions with the presence of minimal erythema.
 Table 2 contains the response rates in each of these two trials.
 
-Table 2 Percentage of Patients with Clear or Almost Clear Disease According to the Investigator’s Global Assessment of Disease Severity
+Table 2
 
-|  | Taclonex Scalp® Topical Suspension | Betamethasone dipropionate in vehicle | Calcipotriene in vehicle | Vehicle |
+| Percentage of Patients with Clear or Almost Clear DiseaseAccording to the Investigator’s Global Assessment of Disease Severity |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Study One | (N = 494) | (N = 531) | (N = 256) | (N = 126) |
-| Week 2 | 55.5% | 46.1% | 18.4% | 9.5% |
+|  | Taclonex Scalp®TopicalSuspension | Betamethasone dipropionate in vehicle | Calcipotriene in vehicle | Vehicle |
+| Study OneWeek 2 | (N = 494)55.5% | (N = 531)46.1% | (N = 256)18.4% | (N = 126)9.5% |
 | Week 8 | 70.0% | 63.1% | 36.7% | 19.8% |
-| Study Two | (N = 512) | (N = 517) | (N = 251) | - |
-| Week 2 | 47.1% | 36.4% | 12.7% | - |
+| Study TwoWeek 2 | (N = 512)47.1% | (N = 517)36.4% | (N = 251)12.7% | -- |
 | Week 8 | 67.2% | 59.6% | 41.0% | - |

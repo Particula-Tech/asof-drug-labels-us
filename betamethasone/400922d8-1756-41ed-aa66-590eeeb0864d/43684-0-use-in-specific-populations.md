@@ -45,4 +45,6 @@ Manifestations of intracranial hypertension include bulging fontanelles, headach
 Of the total number of patients in the controlled clinical studies of Taclonex Scalp® Topical Suspension, 334 were 65 years or older, while 84 were 75 years or older.
 
 No overall differences in safety or effectiveness of Taclonex Scalp® Topical Suspension were observed between these patients and younger patients.
-All other reported clinical experience has not identified any differences in response between elderly and younger patients.
+All other reported clinical experience has not identified any differences in response between elderly and younger
+
+patients.
