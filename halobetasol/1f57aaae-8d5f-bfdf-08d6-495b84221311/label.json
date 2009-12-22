@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078162"
+  ],
+  "inn": "halobetasol",
+  "labeler": "GW Laboratories, Inc.",
+  "package_ndcs": [
+    "0713-0640-15",
+    "0713-0640-50"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "halobetasol propionate",
+      "name": "Halobetasol Propionate"
+    }
+  ],
+  "setid": "1f57aaae-8d5f-bfdf-08d6-495b84221311",
+  "source": "dailymed"
+}
