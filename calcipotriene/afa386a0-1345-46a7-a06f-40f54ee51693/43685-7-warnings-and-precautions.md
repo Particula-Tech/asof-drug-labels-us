@@ -1,6 +1,6 @@
 # PRECAUTIONS
 
-## General
+## General:
 
 Hypercalcemia has been observed with use of Taclonex® Ointment.
 If elevation of serum calcium outside the normal range occurs, discontinue treatment until normal calcium levels are restored.
@@ -10,7 +10,7 @@ The effects of Taclonex® Ointment on calcium metabolism following treatment dur
 Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.
 Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 Use of more than one corticosteroid-containing product at the same time may increase total systemic glucocorticoid exposure.
-(See DOSAGE AND ADMINISTRATION).
+(See DOSAGE AND ADMINISTRATION.)
 
 Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area should be evaluated periodically for evidence of HPA axis suppression by using the Cosyntropin Stimulation Test.
 If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
@@ -32,7 +32,7 @@ Taclonex® Ointment should not be used in the presence of pre-existing skin atro
 
 Taclonex® Ointment should not be used on the face, axillae or groin.
 
-## Information for Patients
+## Information for Patients:
 
 This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
@@ -53,9 +53,9 @@ Patients using Taclonex® Ointment should receive the following information and 
 
 See PRECAUTIONS, General.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, mutagenesis, impairment of fertility:
 
-When calcipotriene was applied topically to mice for up to 24 months at dosages of 3, 10 and 30 µg/kg/day (corresponding to 9, 30 and 90 µg/m2/day), no significant changes in tumor incidence were observed when compared to control.
+When calcipotriene was applied topically to mice for up to 24 months at dosages of 3, 10 and 30 mcg/kg/day (corresponding to 9, 30 and 90 mcg/m2/day), no significant changes in tumor incidence were observed when compared to control.
 
 In a study in which albino hairless mice were exposed to both ultra-violet radiation (UVR) and topically applied calcipotriene, a reduction in the time required for UVR to induce the formation of skin tumors was observed (statistically significant in males only), suggesting that calcipotriene may enhance the effect of UVR to induce skin tumors.
 Patients who apply Taclonex® Ointment to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.). Physicians may wish to limit or avoid use of phototherapy in patients that use Taclonex® Ointment.
@@ -70,9 +70,9 @@ Studies in rats with oral doses of up to 54 mcg/kg/day (324 mcg/m2/day) of calci
 
 Studies in rats with oral doses of up to 0.2 mg/kg/day (1,200 mcg/m2/day) of betamethasone dipropionate demonstrated no impairment of male fertility.
 
-## Pregnancy
+## Pregnancy:
 
-Teratogenic Effects: Pregnancy Category C
+### Teratogenic Effects: Pregnancy Category C
 
 Animal reproduction studies have not been conducted with Taclonex® Ointment.
 Taclonex® Ointment contains calcipotriene that has been shown to be fetotoxic and betamethasone dipropionate that has been shown to be teratogenic in animals when given systemically.
@@ -91,7 +91,7 @@ The abnormalities observed included umbilical hernia, exencephaly and cleft pala
 
 Pregnant women were excluded from the clinical trials conducted with Taclonex® Ointment.
 
-## Nursing Mothers
+## Nursing mothers:
 
 Safety of the use of Taclonex® Ointment during lactation has not been established.
 
@@ -105,12 +105,12 @@ Systemically administered corticosteroids are secreted into breast milk in quant
 
 Because many drugs are excreted in human milk, caution should be exercised when Taclonex® Ointment is administered to a nursing woman.
 
-## Pediatric Use
+## Pediatric use:
 
 Safety and effectiveness of Taclonex® Ointment in pediatric patients have not been established.
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at greater risk than adults of systemic adverse effects when they are treated with topical medication.
 
-## Geriatric Use
+## Geriatric use:
 
 Of the total number of subjects in clinical studies of Taclonex® Ointment, approximately 14% were 65 years and older, while approximately 3% were 75 years and over.
 

@@ -1,8 +1,8 @@
-# PATIENT INFORMATION
+# Patient Information
 
 Taclonex® Ointment
 
-(calcipotriene, 0.005% and betamethasone dipropionate, 0.064%)
+(calcipotriene 0.005% and betamethasone dipropionate 0.064%)
 
 Read the Patient Information that comes with Taclonex® Ointment before you start using it and each time you use the ointment.
 There may be new information.
@@ -11,6 +11,7 @@ This leaflet does not take the place of talking with your doctor about your cond
 What is Taclonex® Ointment and what is it used for?
 
 Taclonex® Ointment is a prescription medicine called a topical (skin-use only).
+
 Taclonex® Ointment is used on the skin to treat psoriasis vulgaris in adults.
 
 Taclonex® Ointment contains
@@ -28,10 +29,7 @@ Who should not use Taclonex® Ointment?
 Do not use Taclonex® Ointment if you:
 
 - have a calcium metabolism disorder
-- have one of the following types of psoriasis:
-  - erythrodermic psoriasis
-  - exfoliative psoriasis
-  - pustular psoriasis
+- have one of the following types of psoriasis:o erythrodermic psoriasiso exfoliative psoriasiso pustular psoriasis
 - are allergic to anything in Taclonex® Ointment.
   See the end of this leaflet for a complete list of ingredients.
 
@@ -138,26 +136,14 @@ Active ingredients: calcipotriene hydrate, betamethasone dipropionate
 
 Inactive ingredients: mineral oil, PPG-15 stearyl ether, dl-alpha tocopherol, white petrolatum.
 
-Rx only.
+Rx only
 
-Manufactured by:
+Manufactured by: LEO Laboratories Ltd. (LEO Pharma) Dublin, Ireland
 
-LEO Laboratories Ltd. (LEO Pharma)
-
-Dublin, Ireland
-
-Marketed by:
-
-Warner Chilcott (US), Inc.
-
-Rockaway, NJ 07866 USA
-
-1-800-521-8813
+Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 USA 1-800-521-8813
 
 U.S. Patent Nos.: RE39,706 E and 6,753,013.
 
-Trade 3230G023
+3230G025 3230G125 022608-05
 
-Sample 3230G123
-
-Revised November 2007
+Revised July 2008

@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021852"
+  ],
   "inn": "calcipotriene",
   "labeler": "Warner Chilcott (US), LLC",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0430-3230-16",
     "0430-3230-95"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene and betamethasone dipropionate",
+      "name": "TACLONEX"
+    }
+  ],
   "setid": "afa386a0-1345-46a7-a06f-40f54ee51693",
   "source": "dailymed"
 }
