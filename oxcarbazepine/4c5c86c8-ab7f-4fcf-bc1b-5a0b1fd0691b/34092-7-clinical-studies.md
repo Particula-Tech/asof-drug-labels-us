@@ -47,7 +47,7 @@ For this reason, the results do not undermine the conclusion, based on pharmacok
 
 ## Trileptal Adjunctive Therapy Trials
 
-The effectiveness of Trileptal as an adjunctive therapy for partial seizures was established in two multicenter, randomized, double-blind, placebo-controlled trials, one in 692 patients (15-66 years of age) and one in 264 pediatric patients (3-17 years of age), and in one multicenter, rater-blind, randomized, age-stratified, parallel-group study comparing two doses of oxcarbazepine in 128 pediatric patients (1 month to < 4 years of age).
+The effectiveness of Trileptal as an adjunctive therapy for partial seizures was established in two multicenter, randomized, double-blind, placebo-controlled trials, one in 692 patients (15-66 years of age) and one in 264 pediatric patients (3-17 years of age), and in one multicenter, rater-blind, randomized, age-stratified, parallel-group study comparing two doses of oxcarbazepine in 128 pediatric patients (1 month to <4 years of age).
 
 Patients in the two placebo-controlled trials were on 1-3 concomitant AEDs.
 In both of the trials, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.

@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021014",
+    "NDA021285"
+  ],
   "inn": "oxcarbazepine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -11,7 +14,18 @@
     "0078-0457-05",
     "0078-0457-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "oxcarbazepine",
+      "name": "Trileptal"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "oxcarbazepine",
+      "name": "Trileptal"
+    }
+  ],
   "setid": "4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b",
   "source": "dailymed"
 }

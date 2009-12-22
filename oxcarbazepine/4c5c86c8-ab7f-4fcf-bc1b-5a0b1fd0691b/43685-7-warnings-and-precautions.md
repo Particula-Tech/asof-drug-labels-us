@@ -53,7 +53,7 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
@@ -179,9 +179,9 @@ As binding of MHD to plasma proteins is low (40%), clinically significant intera
 ### Antiepileptic Drugs
 
 Potential interactions between Trileptal and other AEDs were assessed in clinical studies.
-The effect of these interactions on mean AUCs and Cmin are summarized in Table3.
+The effect of these interactions on mean AUCs and Cmin are summarized in Table 3.
 
-Table3: Summary of AED Interactions with Trileptal®
+Table 3: Summary of AED Interactions with Trileptal®
 
 | AED Coadministered | Dose of AED (mg/day) | Trileptal Dose (mg/day) | Influence of Trileptal on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
 | --- | --- | --- | --- | --- |

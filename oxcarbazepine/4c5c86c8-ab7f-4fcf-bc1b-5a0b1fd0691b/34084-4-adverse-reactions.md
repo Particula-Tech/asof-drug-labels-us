@@ -27,7 +27,7 @@ Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to <4 Years Old Pre
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse experience.
 The adverse experiences most commonly associated with discontinuation were: Convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
 
-Incidence in Controlled Clinical Studies: The prescriber should be aware that the figures in Tables4, 5, 6 and 7 cannot be used to predict the frequency of adverse experiences in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
+Incidence in Controlled Clinical Studies: The prescriber should be aware that the figures in Tables 4, 5, 6 and 7 cannot be used to predict the frequency of adverse experiences in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescriber with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.
 
@@ -35,7 +35,7 @@ Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previous
 Table 5 lists treatment-emergent signs and symptoms in patients converted from other AEDs to either high dose Trileptal or low dose (300 mg) Trileptal.
 Note that in some of these monotherapy studies patients who dropped out during a preliminary tolerability phase are not included in the tables.
 
-Table4: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Adjunctive Therapy in Adults (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal® and Numerically More Frequent Than in the Placebo Group)
+Table 4: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Adjunctive Therapy in Adults (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal® and Numerically More Frequent Than in the Placebo Group)
 
 |  | Oxcarbazepine Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -89,7 +89,7 @@ Table4: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Stud
 | Vision Abnormal | 6 | 14 | 13 | 4 |
 | Accommodation Abnormal | 0 | 0 | 2 | 0 |
 
-Table5: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Monotherapy in Adults Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal® and Numerically More Frequent Than in the Low Dose Control Group)
+Table 5: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Monotherapy in Adults Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal® and Numerically More Frequent Than in the Low Dose Control Group)
 
 |  | Oxcarbazepine Dosage (mg/day) |  |
 | --- | --- | --- |
@@ -157,7 +157,7 @@ Table5: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studie
 
 Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with other AEDs: Table 6 lists treatment-emergent signs and symptoms in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with Trileptal or placebo and were numerically more common in the patients treated with Trileptal.
 
-Table6: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal® and Numerically More Frequent Than in the Placebo Group)
+Table 6: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal® and Numerically More Frequent Than in the Placebo Group)
 
 | Body System/ Adverse Event | Oxcarbazepine N=55 % | Placebo N=49 % |
 | --- | --- | --- |
@@ -191,7 +191,7 @@ Table6: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Stud
 
 Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with other AEDs: Table 7 lists treatment-emergent signs and symptoms that occurred in at least 2% of pediatric patients with epilepsy treated with Trileptal or placebo as adjunctive treatment and were numerically more common in the patients treated with Trileptal.
 
-Table7: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal® and Numerically More Frequent Than in the Placebo Group)
+Table 7: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal® and Numerically More Frequent Than in the Placebo Group)
 
 | Body System/ Adverse Event | Oxcarbazepine N=171 % | Placebo N=139 % |
 | --- | --- | --- |
