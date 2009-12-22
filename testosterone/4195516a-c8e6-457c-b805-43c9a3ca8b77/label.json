@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040530"
+  ],
   "inn": "testosterone",
   "labeler": "Paddock Laboratories, Inc.",
   "package_ndcs": [
     "0574-0820-01",
     "0574-0820-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "testosterone cypionate",
+      "name": "Testosterone Cypionate"
+    }
+  ],
   "setid": "4195516a-c8e6-457c-b805-43c9a3ca8b77",
   "source": "dailymed"
 }

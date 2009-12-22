@@ -10,4 +10,5 @@ Its molecular formula is C27H40O3, and the molecular weight 412.61.
 
 The structural formula is represented below:
 
-Testosterone cypionate injection is available in one strength, 200 mg/mL testosterone cypionate.Each mL of the solution contains Testosterone Cypionate, 200 mg; Benzyl Benzoate, 0.2 mL; Cottonseed Oil, 560 mg; Benzyl Alcohol (as preservative), 9.45 mg.
+Testosterone cypionate injection is available in one strength, 200 mg/mL testosterone cypionate.
+Each mL of the solution contains Testosterone Cypionate, 200 mg; Benzyl Benzoate, 0.2 mL; Cottonseed Oil, 560 mg; Benzyl Alcohol (as preservative), 9.45 mg.
