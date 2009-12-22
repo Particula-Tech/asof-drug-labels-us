@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020222"
+  ],
   "inn": "colestipol",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-0450-03",
     "0009-0450-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "colestipol hydrochloride",
+      "name": "Colestid"
+    }
+  ],
   "setid": "3e270911-f27b-44d4-b0a2-33506418cc1d",
   "source": "dailymed"
 }
