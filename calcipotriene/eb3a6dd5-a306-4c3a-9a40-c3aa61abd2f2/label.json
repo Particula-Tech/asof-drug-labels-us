@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020273"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Warner Chilcott (US), LLC",
+  "package_ndcs": [
+    "0430-3010-15",
+    "0430-3010-17",
+    "0430-3010-95"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene",
+      "name": "Dovonex"
+    }
+  ],
+  "setid": "eb3a6dd5-a306-4c3a-9a40-c3aa61abd2f2",
+  "source": "dailymed"
+}
