@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022314"
+  ],
   "inn": "amlodipine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -14,7 +16,13 @@
     "0078-0563-15",
     "0078-0563-34"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amlodipine valsartan and hydrochlorothiazide",
+      "name": "Exforge HCT"
+    }
+  ],
   "setid": "18d7820d-471f-4ee2-9ec6-25d8d27c77de",
   "source": "dailymed"
 }

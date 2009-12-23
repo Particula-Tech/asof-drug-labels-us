@@ -38,7 +38,7 @@ The degree to which hydrochlorothiazide is removed by hemodialysis has not been 
 The most common signs and symptoms observed in patients are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
 
-The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, (2000 and 4000 times, respectively, the maximum recommended human dose on a mg/m2 basis.
+The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, 2000 and 4000 times, respectively, the maximum recommended human dose on a mg/m2 basis.
 (Calculations assume an oral dose of 25 mg/day and a 60-kg patient.)
 
 Valsartan and Hydrochlorothiazide

@@ -13,7 +13,7 @@ The most common reasons for discontinuation of therapy with Exforge HCT were diz
 
 The most frequent adverse events that occurred in the active controlled clinical trial in at least 2% of patients treated with Exforge HCT are presented in the table below:
 
-| Preferred term | Aml/Val/HCTZ 10/320/25 mg N=582 n (%) | Val/HCTZ 320/25 mg N=559 n (%) | Aml/Val 10/320 mg N=566 n (%) | HCTZ/Aml 25/10 mg N=561 n (%) |
+| Preferred Term | Aml/Val/HCTZ 10/320/25 mg N=582 n (%) | Val/HCTZ 320/25 mg N=559 n (%) | Aml/Val 10/320 mg N=566 n (%) | HCTZ/Aml 25/10 mg N=561 n (%) |
 | --- | --- | --- | --- | --- |
 | Dizziness | 48 (8.2) | 40 (7.2) | 14 (2.5) | 23 (4.1) |
 | Edema | 38 (6.5) | 8 (1.4) | 65 (11.5) | 63 (11.2) |

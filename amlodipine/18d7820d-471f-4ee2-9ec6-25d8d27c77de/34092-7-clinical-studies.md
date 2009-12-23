@@ -12,5 +12,5 @@ The reductions in systolic/diastolic blood pressure with Exforge HCT were 7.6/5.
 The full blood pressure lowering effect was achieved 2 weeks after being on the maximal dose of Exforge HCT (see Figure 2 and Figure 3).
 As the pivotal study was an active controlled trial, the treatment effects shown in Figure 1, 2, and 3 include a placebo effect of unknown size.
 
-A subgroup of 268 patients was studied with ambulatory blood pressure monitoring.
+A subgroup of 283 patients was studied with ambulatory blood pressure monitoring.
 The blood pressure lowering effect in the triple therapy group was maintained throughout the 24-hour period (see Figure 4 and Figure 5).
