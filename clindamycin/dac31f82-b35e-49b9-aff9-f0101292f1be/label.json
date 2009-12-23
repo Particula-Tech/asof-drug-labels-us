@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050793"
+  ],
   "inn": "clindamycin",
-  "labeler": "KV Pharmaceuticals",
+  "labeler": "Ther-Rx Corporation",
   "package_ndcs": [
     "64011-124-08"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clindamycin phosphate",
+      "name": "Clindesse"
+    }
+  ],
   "setid": "dac31f82-b35e-49b9-aff9-f0101292f1be",
   "source": "dailymed"
 }
