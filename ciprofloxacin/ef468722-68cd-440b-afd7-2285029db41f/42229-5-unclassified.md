@@ -1,0 +1,1 @@
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ciprofloxacin Tablets USP, 250 mg, 500 mg and 750 mg and other antibacterial drugs Ciprofloxacin Tablets USP, 250 mg, 500 mg and 750 mg should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.

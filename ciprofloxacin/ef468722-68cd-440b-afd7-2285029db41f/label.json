@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076639"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Pack Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "16571-411-10",
+    "16571-412-10",
+    "16571-413-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ciprofloxacin",
+      "name": "ciprofloxacin"
+    }
+  ],
+  "setid": "ef468722-68cd-440b-afd7-2285029db41f",
+  "source": "dailymed"
+}
