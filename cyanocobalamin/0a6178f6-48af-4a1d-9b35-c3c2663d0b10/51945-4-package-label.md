@@ -1,0 +1,11 @@
+# PACKAGE LABEL-PRINICIPAL DISPLAY PANEL: NASCOBAL NASAL SPRAY 500MCG/SPRAY
+
+NDC 49884-270-14
+
+Nascobal® Nasal Spray
+
+(Cyanocobalamin, USP)
+
+500mcg/spray
+
+2.3mL (8 sprays)
