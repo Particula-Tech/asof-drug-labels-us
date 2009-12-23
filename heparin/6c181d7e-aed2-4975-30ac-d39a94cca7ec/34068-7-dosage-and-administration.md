@@ -1,0 +1,96 @@
+# DOSAGE AND ADMINISTRATION
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Slight discoloration does not alter potency.
+
+Confirm the choice of the correct Heparin Sodium Injection vial prior to administration of the drug to a patient (see WARNINGS, Fatal Medication Errors).
+Heparin Sodium Injection products must not be confused with “catheter lock flush” products.
+To lessen this risk, the 1 mL vial includes a red cautionary label that extends above the main label.
+Read the cautionary statement and confirm that you have selected the correct medication and strength.
+Then locate the “Tear Here” point on the label, and remove this red cautionary label prior to removing the flip-top cap.
+
+When heparin is added to an infusion solution for continuous intravenous administration, the container should be inverted at least six times to ensure adequate mixing and prevent pooling of the heparin in the solution.
+
+Heparin sodium is not effective by oral administration and should be given by intermittent intravenous injection, intravenous infusion, or deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer) injection.
+The intramuscular route of administration should be avoided because of the frequent occurrence of hematoma at the injection site.
+
+The dosage of heparin sodium should be adjusted according to the patient’s coagulation-test results.
+When heparin is given by continuous intravenous infusion, the coagulation time should be determined approximately every 4 hours in the early stages of treatment.
+When the drug is administered intermittently by intravenous injection, coagulation tests should be performed before each injection during the early stages of treatment and at appropriate intervals thereafter.
+Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
+After deep subcutaneous (intrafat) injections, tests for adequacy of dosage are best performed on samples drawn 4 to 6 hours after the injections.
+
+Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration.
+
+Converting to Oral Anticoagulant
+
+When an oral anticoagulant of the coumarin or similar type is to be begun in patients already receiving heparin sodium, baseline and subsequent tests of prothrombin activity must be determined at a time when heparin activity is too low to affect the prothrombin time.
+This is about 5 hours after the last IV bolus and 24 hours after the last subcutaneous dose.
+If continuous IV heparin infusion is used, prothrombin time can usually be measured at any time.
+
+In converting from heparin to an oral anticoagulant, the dose of the oral anticoagulant should be the usual initial amount, and thereafter prothrombin time should be determined at the usual intervals.
+To ensure continuous anticoagulation, it is advisable to continue full heparin therapy for several days after the prothrombin time has reached the therapeutic range.
+Heparin therapy may then be discontinued without tapering.
+
+Therapeutic Anticoagulant Effect With Full-Dose Heparin
+
+Although dosage must be adjusted for the individual patient according to the results of suitable laboratory tests, the following dosage schedules may be used as guidelines:
+
+| METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDED DOSE [Based on 150 lb (68 kg) patient] |
+| --- | --- | --- |
+| Deep, Subcutaneous (Intrafat) Injection | Initial Dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
+| A different site should be used for each injection to prevent the development of massive hematoma. | Every 8 hoursorEvery 12 hours | 8,000 to 10,000 units of a concentrated solution |
+| 15,000 to 20,000 units of a concentrated solution |  |  |
+| Intermittent Intravenous Injection | Initial Dose | 10,000 units, either undiluted or in 50 or 100 mL of 0.9% Sodium Chloride Injection, USP |
+| Every 4 to6 hours | 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |  |
+| Intravenous Infusion | Initial Dose | 5,000 units by IV injection |
+| Continuous | 20,000 to 40,000 units/24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |  |
+
+Pediatric Use
+
+Follow recommendations of appropriate pediatric reference texts.
+In general, the following dosage schedule may be used as a guideline:
+
+Initial Dose: 50 units/kg (IV drip)
+
+Maintenance Dose: 100 units/kg (IV drip) every four hours, or 20,000 units/m2/24 hours continuously.
+
+Geriatric Use
+
+Patients over 60 years of age may require lower doses of heparin.
+
+Surgery of the Heart and Blood Vessels
+
+Patients undergoing total body perfusion for open-heart surgery should receive an initial dose of not less than 150 units of heparin sodium per kilogram of body weight.
+Frequently, a dose of 300 units of heparin sodium per kilogram of body weight is used for procedures estimated to last less than 60 minutes; or 400 units per kilogram for those estimated to last longer than 60 minutes.
+
+Low-Dose Prophylaxis of Postoperative Thromboembolism
+
+A number of well-controlled clinical trials have demonstrated that low-dose heparin prophylaxis, given just prior to and after surgery, will reduce the incidence of postoperative deep vein thrombosis in the legs (as measured by the I-125 fibrinogen technique and venography) and of clinical pulmonary embolism.
+The most widely used dosage has been 5,000 units 2 hours before surgery and 5,000 units every 8 to 12 hours thereafter for 7 days or until the patient is fully ambulatory, whichever is longer.
+The heparin is given by deep subcutaneous injection in the arm or abdomen with a fine needle (25 to 26 gauge) to minimize tissue trauma.
+A concentrated solution of heparin sodium is recommended.
+Such prophylaxis should be reserved for patients over the age of 40 who are undergoing major surgery.
+Patients with bleeding disorders, those having neurosurgery, spinal anesthesia, eye surgery, or potentially sanguineous operations should be excluded, as well as patients receiving oral anticoagulants or platelet-active drugs (see WARNINGS).
+The value of such prophylaxis in hip surgery has not been established.
+The possibility of increased bleeding during surgery or postoperatively should be borne in mind.
+If such bleeding occurs, discontinuance of heparin and neutralization with protamine sulfate is advisable.
+If clinical evidence of thromboembolism develops despite low-dose prophylaxis, full therapeutic doses of anticoagulants should be given unless contraindicated.
+All patients should be screened prior to heparinization to rule out bleeding disorders, and monitoring should be performed with appropriate coagulation tests just prior to surgery.
+Coagulation-test values should be normal or only slightly elevated at these times.
+There is usually no need for daily monitoring of the effect of low-dose heparin in patients with normal coagulation parameters.
+
+Extracorporeal Dialysis
+
+Follow equipment manufacturers’ operating directions carefully.
+
+Blood Transfusion
+
+Addition of 400 to 600 USP units per 100 mL of whole blood is usually employed to prevent coagulation.
+Usually, 7500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Chloride Injection, USP (or 75,000 USP units per 1,000 mL of 0.9% Sodium Chloride Injection, USP) and mixed, and from this sterile solution, 6 mL to 8 mL are added per 100 mL of whole blood.
+
+Laboratory Samples
+
+Addition of 70 to 150 units of heparin sodium per 10 to 20 mL sample of whole blood is usually employed to prevent coagulation of the sample.
+Leukocyte counts should be performed on heparinized blood within two hours after addition of the heparin.
+Heparinized blood should not be used for isoagglutinin, complement, erythrocyte fragility tests or platelet counts.
