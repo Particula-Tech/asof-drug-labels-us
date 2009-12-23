@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Asthma
+Asthma
 
 FORADIL AEROLIZER is indicated for long-term, twice-daily (morning and evening) administration in the maintenance treatment of asthma and in the prevention of bronchospasm in adults and children 5 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma.
 
@@ -10,6 +10,6 @@ It is not indicated for patients whose asthma can be managed by occasional use o
 
 FORADIL AEROLIZER is also indicated for the acute prevention of exercise-induced bronchospasm (EIB) in adults and children 5 years of age and older, when administered on an occasional, as-needed basis.
 
-## Chronic Obstructive Pulmonary Disease
+Chronic Obstructive Pulmonary Disease
 
 FORADIL AEROLIZER is indicated for the long-term, twice daily (morning and evening) administration in the maintenance treatment of bronchoconstriction in patients with Chronic Obstructive Pulmonary Disease including chronic bronchitis and emphysema.

@@ -30,7 +30,7 @@ In two 12-week controlled trials with combined enrollment of 1095 patients 12 ye
 Serious asthma exacerbations (acute worsening of asthma resulting in hospitalization) occurred more commonly with FORADIL AEROLIZER 24 mcg twice daily than with the recommended dose of FORADIL AEROLIZER 12 mcg twice daily, albuterol, or placebo.
 The results are shown in the following table.
 
-Number and frequency of serious asthma exacerbations in Patients 12 years of age and older from two 12-week controlled clinical trials
+NUMBER AND FREQUENCY OF SERIOUS ASTHMA EXACERBATIONS IN PATIENTS 12 YEARS OF AGE AND OLDER FROM TWO 12-WEEK CONTROLLED CLINICAL TRIALS
 
 |  | Foradil 12 mcg twice daily | Foradil 24 mcg twice daily | Albuterol 180 mcg four times daily | Placebo |
 | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Number and frequency of serious asthma exacerbations in Patients 12 years of age
 In a 16-week, randomized, multi-center, double-blind, parallel-group trial, patients who received either 24 mcg twice daily or 12 mcg twice daily doses of FORADIL AEROLIZER experienced more serious asthma exacerbations than patients who received placebo (see CLINICAL TRIALS).
 The results are shown in the following table.
 
-Number and frequency of serious asthma exacerbations in patients 12 years of age and older from a 16-week trial
+NUMBER AND FREQUENCY OF SERIOUS ASTHMA EXACERBATIONS IN PATIENTS 12 YEARS OF AGE AND OLDER FROM A 16-WEEK TRIAL
 
 |  | Foradil 12 mcg twice daily | Foradil 24 mcg twice daily | Placebo |
 | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Number and frequency of serious asthma exacerbations in patients 12 years of age
 The safety of FORADIL AEROLIZER 12 mcg twice daily compared to FORADIL AEROLIZER 24 mcg twice daily and placebo was investigated in one large, multicenter, randomized, double-blind, 52-week clinical trial in 518 children with asthma (ages 5-12 years) in need of daily bronchodilators and anti-inflammatory treatment.
 More children who received FORADIL AEROLIZER 24 mcg twice daily than children who received FORADIL AEROLIZER 12 mcg twice daily or placebo experienced serious asthma exacerbations, as shown in the next table.
 
-Number and frequency of serious asthma exacerbations in patients 5-12 years of age from a 52-week trial
+NUMBER AND FREQUENCY OF SERIOUS ASTHMA EXACERBATIONS IN PATIENTS 5-12 YEARS OF AGE FROM A 52-WEEK TRIAL
 
 |  | Foradil 12 mcg twice daily | Foradil 24 mcg twice daily | Placebo |
 | --- | --- | --- | --- |
