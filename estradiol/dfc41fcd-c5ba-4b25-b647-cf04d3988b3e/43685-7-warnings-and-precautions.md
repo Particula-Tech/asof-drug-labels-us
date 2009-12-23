@@ -39,8 +39,8 @@ In the Women’s Health Initiative (WHI) study, an increase in VTE has been obse
 These observations are preliminary, and the study is continuing.
 (See CLINICAL PHARMACOLOGY, Clinical Studies.)
 
-In the CE/MPA substudy of WHI, a 2‑fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
-The rate of VTE was 34 per 10,000 women‑years in the CE/MPA group compared to 16 per 10,000 women‑years in the placebo group.
+In the CE/MPA substudy of WHI, a 2-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
+The rate of VTE was 34 per 10,000 women-years in the CE/MPA group compared to 16 per 10,000 women-years in the placebo group.
 The increase in VTE risk was observed during the first year and persisted.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -59,19 +59,19 @@ Adequate diagnostic measures, including endometrial sampling when indicated, sho
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-### b. Breast cancer
+b. Breast cancer
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
 The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
 The results from observational studies are generally consistent with those of the WHI clinical trial and report no significant variation in the risk of breast cancer among different estrogens or progestins, doses, or routes of administration.
 
 The CE/MPA substudy of WHI reported an increased risk of breast cancer in women who took CE/MPA for a mean follow-up of 5.6 years.
-Observational studies have also reported an increased risk for estrogen/progestin combination therapy, and a smaller increased risk for estrogen alone therapy, after several years of use.
+Observational studies have also reported an increased risk for estrogen/progestin combination therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 In the WHI trial and from observational studies, the excess risk increased with duration of use.
 From observational studies, the risk appeared to return to baseline in about five years after stopping treatment.
-In addition, observational studies suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen/progestin combination therapy as compared to estrogen alone therapy.
+In addition, observational studies suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen/progestin combination therapy as compared to estrogen-alone therapy.
 
-In the CE/MPA substudy, 26% of the women reported prior use of estrogen alone and/or estrogen/progestin combination hormone therapy.
+In the CE/MPA substudy, 26% of the women reported prior use of estrogen-alone and/or estrogen/progestin combination hormone therapy.
 After a mean follow-up of 5.6 years during the clinical trial, the overall relative risk of invasive breast cancer was 1.24 (95% confidence interval 1.01 - 1.54), and the overall absolute risk was 41 vs 33 cases per 10,000 women-years for CE/MPA compared with placebo.
 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 vs 25 cases per 10,000 women-years for CE/MPA compared with placebo.
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 vs 36 cases per 10,000 women-years for CE/MPA compared with placebo.
@@ -79,7 +79,7 @@ In the same substudy, invasive breast cancers were larger and diagnosed at a mor
 Metastatic disease was rare with no apparent difference between the two groups.
 Other prognostic factors such as histologic subtype, grade and hormone receptor status did not differ between the groups.
 
-The use of estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
+The use of estrogen-plus-progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
@@ -92,7 +92,7 @@ The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 2
 It is unknown whether these findings apply to younger postmenopausal women.
 (See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use.)
 
-It is unknown whether these findings apply to estrogen alone therapy.
+It is unknown whether these findings apply to estrogen-alone therapy.
 
 ## 4. Gallbladder disease
 
@@ -111,7 +111,7 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 
 # PRECAUTIONS
 
-## General
+## A. GENERAL
 
 ### 1. Addition of a progestin when a woman has not had a hysterectomy
 
@@ -153,7 +153,7 @@ Estrogens should be used with caution in individuals with severe hypocalcemia.
 
 ### 8. Ovarian cancer
 
-The CE/MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
+The CE/MPA substudy of WHI reported that estrogen-plus-progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77 – 3.24) but was not statistically significant.
 The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 women-years.
 In some epidemiologic studies, the use of estrogen alone, in particular for ten or more years, has been associated with an increased risk of ovarian cancer.
@@ -162,24 +162,22 @@ Other epidemiologic studies have not found these associations.
 ### 9. Exacerbation of endometriosis
 
 Endometriosis may be exacerbated with administration of estrogens.
-A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
+A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
 ### 10. Exacerbation of other conditions
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine or porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
-## Patient Information
+## B. PATIENT INFORMATION
 
 Physicians are advised to discuss the PATIENT INFORMATION leaflet with patients for whom they prescribe ESTRACE (estradiol vaginal cream, USP, 0.01%).
 
-## Laboratory tests
+## C. LABORATORY TESTS
 
 Estrogen administration should be initiated at the lowest dose approved for the indication and then guided by clinical response rather than by serum hormone levels (e.g., estradiol, FSH).
 
-## Interactions
-
-### Drug/laboratory test interactions
+## D. DRUG/LABORATORY TEST INTERACTIONS
 
 1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 2. Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
@@ -194,25 +192,25 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 6. Reduced response to metyrapone test.
 7. Reduced serum folate concentration.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## E. CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
 
 Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See BOXED WARNINGS, WARNINGSand PRECAUTIONS.)
+(See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
 
-Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
+Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
-## Pregnancy
+## F. PREGNANCY
 
 ESTRACE (estradiol vaginal cream, USP, 0.01%) should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
 
-## Nursing mothers
+## G. NURSING MOTHERS
 
 Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
 Detectable amounts of estrogens have been identified in the milk of mothers receiving this drug.
 Caution should be exercised when ESTRACE (estradiol vaginal cream, USP, 0.01%) is administered to a nursing woman.
 
-## Pediatric use
+## H. PEDIATRIC USE
 
 Safety and effectiveness in pediatric patients have not been established.
 Large and repeated doses of estrogen over an extended period of time have been shown to accelerate epiphyseal closure, resulting in short adult stature if treatment is initiated before the completion of physiologic puberty in normally developing children.
@@ -223,14 +221,13 @@ In boys, estrogen treatment may modify the normal pubertal process.
 All other physiological and adverse reactions shown to be associated with estrogen treatment of adults could potentially occur in the pediatric population, including thromboembolic disorders and growth stimulation of certain tumors.
 Therefore, estrogens should only be administered to pediatric patients when clearly indicated and the lowest effective dose should always be utilized.
 
-## Geriatric use
+## I. GERIATRIC USE
 
 In the Women’s Health Initiative Memory Study, including 4,532 women 65 years of age and older, followed for an average of 4 years, 82% (n = 3,729) were 65 to 74 while 18% (n = 803) were 75 and over.
 Most women (80%) had no prior hormone therapy use.
-Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
-Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
+Women treated with conjugated estrogens-plus-medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
+Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens-plus-medroxyprogesterone acetate group and the placebo group.
 Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70.
-(See WARNINGS, 3.
-Dementia.)
+(See WARNINGS, Dementia.)
 
 There have not been sufficient numbers of geriatric patients involved in studies utilizing ESTRACE (estradiol vaginal cream, USP, 0.01%) to determine whether those over 65 years of age differ from younger subjects in their response to ESTRACE (estradiol vaginal cream, USP, 0.01%).

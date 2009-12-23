@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA086069"
+  ],
   "inn": "estradiol",
   "labeler": "Warner Chilcott (US), LLC",
   "package_ndcs": [
     "0430-3754-14",
     "0430-3754-95"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "estradiol",
+      "name": "ESTRACE"
+    }
+  ],
   "setid": "dfc41fcd-c5ba-4b25-b647-cf04d3988b3e",
   "source": "dailymed"
 }
