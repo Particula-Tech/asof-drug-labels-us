@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078651"
+  ],
+  "inn": "rocuronium",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-426-05",
+    "63323-426-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rocuronium bromide",
+      "name": "Rocuronium"
+    }
+  ],
+  "setid": "f1933332-1ae0-4dc1-be4c-694849e6c9f9",
+  "source": "dailymed"
+}
