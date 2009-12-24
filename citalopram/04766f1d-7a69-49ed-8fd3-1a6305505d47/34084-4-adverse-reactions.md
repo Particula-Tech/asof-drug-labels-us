@@ -9,7 +9,7 @@ Adverse events during exposure were obtained primarily by general inquiry and re
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
 In the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse events.
 
-The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment emergent adverse event of the type listed.
+The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
 ## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials
@@ -213,4 +213,4 @@ Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal p
 ## Other Events Observed During the Postmarketing Evaluation of Citalopram HBr
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, serotonin syndrome, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsades de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsades de pointes, and withdrawal syndrome.

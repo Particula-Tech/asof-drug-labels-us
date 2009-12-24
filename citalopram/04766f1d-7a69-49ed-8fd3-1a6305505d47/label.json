@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078216"
+  ],
   "inn": "citalopram",
-  "labeler": "TORRENT PHARMA INC.",
+  "labeler": "Torrent Pharmaceuticals Limited",
   "package_ndcs": [
     "13668-009-01",
     "13668-009-05",
@@ -19,7 +21,13 @@
     "13668-011-30",
     "13668-011-74"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "citalopram hydrobromide",
+      "name": "Citalopram Hydrobromide"
+    }
+  ],
   "setid": "04766f1d-7a69-49ed-8fd3-1a6305505d47",
   "source": "dailymed"
 }
