@@ -21,7 +21,7 @@ Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the 
 
 Concurrent administration of probenecid delays amoxicillin excretion but does not delay renal excretion of clavulanic acid.
 
-Neither component in amoxicillin and clavulanate potassium for oral suspension is highly protein-bound; clavulanic acid has been found to be approximately 25% bound to human serum and amoxicillin approximately 18% bound.
+Neither component in amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL is highly protein-bound; clavulanic acid has been found to be approximately 25% bound to human serum and amoxicillin approximately 18% bound.
 
 Oral administration of a single dose of amoxicillin and clavulanate potassium for oral suspension, 600 mg/42.9 mg per 5 mL at 45 mg/kg (based on the amoxicillin component) to pediatric patients, 9 months to 8 years, yielded the following pharmacokinetic data for amoxicillin in plasma and middle ear fluid (MEF):
 
@@ -30,15 +30,17 @@ Amoxicillin Concentrations in Plasma and Middle Ear Fluid Following Administrati
 
 | Timepoint |  | Amoxicillin concentration in plasma(mcg/mL) | Amoxicillin concentration in MEF(mcg/mL) |
 | --- | --- | --- | --- |
-| 1 hour | mean median range | 7.7 9.3 1.5 – 14.0 (n = 5) | 3.2 3.5 0.2 – 5.5 (n = 4) |
-| 2 hour | mean median range | 15.7 13.0 11.0 – 25.0 (n = 7) | 3.3 2.4 1.9 – 6.0 (n = 5) |
-| 3 hour | mean median range | 13.0 12.0 5.5 – 21.0 (n = 5) | 5.8 6.5 3.9 – 7.4 (n = 5) |
+| 1 hour | mean median range | 7.7 9.3 1.5 – 14 (n = 5) | 3.2 3.5 0.2 – 5.5 (n = 4) |
+| 2 hour | mean median range | 15.7 13 11.0 – 25 (n = 7) | 3.3 2.4 1.9 – 6.0 (n = 5) |
+| 3 hour | mean median range | 13 12 5.5 – 21 (n = 5) | 5.8 6.5 3.9 – 7.4 (n = 5) |
 | Dose administered immediately prior to eating. |  |  |  |
 
 Amoxicillin diffuses readily into most body tissues and fluids with the exception of the brain and spinal fluid.
 The results of experiments involving the administration of clavulanic acid to animals suggest that this compound, like amoxicillin, is well distributed in body tissues.
 
-Microbiology: Amoxicillin is a semisynthetic antibiotic with a broad spectrum of bactericidal activity against many gram-positive and gram-negative microorganisms.
+## Microbiology
+
+Amoxicillin is a semisynthetic antibiotic with a broad spectrum of bactericidal activity against many gram-positive and gram-negative microorganisms.
 Amoxicillin is, however, susceptible to degradation by ß-lactamases, and therefore, its spectrum of activity does not include organisms which produce these enzymes.
 Clavulanic acid is a ß-lactam, structurally related to penicillin, which possesses the ability to inactivate a wide range of ß-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins.
 In particular, it has good activity against the clinically important plasmid-mediated ß-lactamases frequently found responsible for transferred drug resistance.
@@ -54,11 +56,7 @@ Streptococcus pneumoniae (including isolates with penicillin MICs ≤ 2 mcg/mL)
 
 ### Aerobic Gram-Negative Microorganisms:
 
-Haemophilus influenzae (including ß-lactamase–producing isolates)
-
-Moraxella catarrhalis (including ß-lactamase–producing isolates)
-
-The following in vitro data are available, but their clinical significance is unknown.
+Haemophilus influenzae (including ß-lactamase–producing isolates) Moraxella catarrhalis (including ß-lactamase–producing isolates) The following in vitro data are available, but their clinical significance is unknown.
 
 At least 90% of the following microorganisms exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the susceptible breakpoint for amoxicillin/clavulanic acid.
 However, the safety and efficacy of amoxicillin/clavulanic acid in treating infections due to these microorganisms have not been established in adequate and well-controlled trials.
@@ -74,10 +72,14 @@ Streptococcus pyogenes
 NOTE: S. pyogenes do not produce ß-lactamase, and therefore, are susceptible to amoxicillin alone.
 Adequate and well-controlled clinical trials have established the effectiveness of amoxicillin alone in treating certain clinical infections due to S. pyogenes.
 
-Susceptibility Test Methods: When available, the clinical microbiology laboratory should provide cumulative results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+## Susceptibility Test Methods
+
+When available, the clinical microbiology laboratory should provide cumulative results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
 
-Dilution Technique: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+### Dilution Technique
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.1,2 Standardized procedures are based on dilution methods (broth for S. pneumoniae and H. influenzae) or equivalent with standardized inoculum concentration and standardized concentrations of amoxicillin/clavulanate potassium powder.
 
@@ -85,7 +87,9 @@ The recommended dilution pattern utilizes a constant amoxicillin/clavulanate pot
 MICs are expressed in terms of the amoxicillin concentration in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
 The MIC values should be interpreted according to criteria provided in Table 3.
 
-Diffusion Technique: Quantitative methods that require measurement of zone diameters also provides reproducible estimates of the susceptibility of bacteria to antimicrobials.
+### Diffusion Technique
+
+Quantitative methods that require measurement of zone diameters also provides reproducible estimates of the susceptibility of bacteria to antimicrobials.
 One such standardized technique requires the use of a standardized inoculum concentration.2,3 This procedure uses paper disks impregnated with 30 mcg amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) to test susceptibility of microorganisms to amoxicillin/clavulanate potassium.
 Disk diffusion zone sizes should be interpreted according to criteria provided in Table 3.
 
@@ -94,7 +98,7 @@ Susceptibility Test Result Interpretive Criteria for Amoxicillin/Clavulanate Pot
 
 | S | I | R | S | I | R |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pthogen | Minimum Inhibitory Concentration (mcg/ml) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
+| Pathogen | Minimum Inhibitory Concentration (mcg/ml) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
 | Streptococcus pneumoniae | ≤2/1 | 4/2 | ≥8/4 | Not applicable (NA) |  |  |
 | Haemophilus influenzae | ≤4/2 | NA | ≥8/4 | ≥20 | NA | ≤19 |
 | NOTE: Susceptibility of S. pneumoniae should be determined using a 1-mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin/clavulanic acid. An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤ 19 mm. |  |  |  |  |  |  |

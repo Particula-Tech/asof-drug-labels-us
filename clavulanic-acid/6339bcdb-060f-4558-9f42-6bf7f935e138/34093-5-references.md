@@ -19,4 +19,4 @@ West-ward Pharmaceutical Corp. Eatontown, NJ 07724 – USA Distributor
 Manufactured by: Hikma Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Revised: June 2008
+Revised: May 2009

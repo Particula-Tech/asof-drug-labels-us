@@ -3,8 +3,8 @@
 Amoxicillin and clavulanate potassium for oral suspension, 600 mg/42.9 mg per 5 mL is indicated for the treatment of pediatric patients with recurrent or persistent acute otitis media due to S. pneumoniae (penicillin MICs ≤2 mcg/mL), H. influenzae (including β-lactamase–producing strains), or M. catarrhalis (including β-lactamase–producing strains) characterized by the following risk factors:
 
 - antibiotic exposure for acute otitis media within the preceding 3 months, and either of the following:
-  - –age ≤2 years
-  - –daycare attendance
+  - – age ≤2 years
+  - – daycare attendance
 
 [See CLINICAL PHARMACOLOGY, Microbiology.]
 

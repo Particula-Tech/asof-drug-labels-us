@@ -1,4 +1,4 @@
-# Description of Clinical Studies
+# DESCRIPTION OF CLINICAL STUDIES
 
 Two clinical studies were conducted in pediatric patients with acute otitis media.
 
