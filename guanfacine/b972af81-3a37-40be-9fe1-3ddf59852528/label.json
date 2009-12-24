@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022037"
+  ],
+  "inn": "guanfacine",
+  "labeler": "Shire US Manufacturing Inc.",
+  "package_ndcs": [
+    "54092-513-02",
+    "54092-513-03",
+    "54092-515-02",
+    "54092-515-03",
+    "54092-517-02",
+    "54092-519-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "guanfacine",
+      "name": "Intuniv"
+    }
+  ],
+  "setid": "b972af81-3a37-40be-9fe1-3ddf59852528",
+  "source": "dailymed"
+}
