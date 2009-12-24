@@ -1,13 +1,31 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020938",
+    "NDA021530"
+  ],
   "inn": "meloxicam",
-  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
     "0597-0029-01",
+    "0597-0029-03",
+    "0597-0029-30",
+    "0597-0029-32",
     "0597-0030-01",
+    "0597-0030-22",
     "0597-0034-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "meloxicam",
+      "name": "Mobic"
+    },
+    {
+      "form": "TABLET",
+      "generic": "meloxicam",
+      "name": "Mobic"
+    }
+  ],
   "setid": "676e73fb-51d2-449a-8749-1a7bcc257b11",
   "source": "dailymed"
 }

@@ -56,7 +56,7 @@ Tell your healthcare provider:
 - if you are breastfeeding.
   Talk to your doctor.
 
-| What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?Serious side effects include: heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma Other side effects include: stomach painconstipation diarrheagasheartburnnauseavomitingdizziness |
+| What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)? Serious side effects include: heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma Other side effects include: stomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
 | --- |
 
 Get emergency help right away if you have any of the following symptoms:
@@ -109,11 +109,14 @@ NSAID medicines that need a prescription
 | Mefenamic Acid | Ponstel |
 | Meloxicam | Mobic |
 | Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, PREVACID NapraPAC (copackaged with lansoprazole) |
+| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, Naprapac (co-packaged with lansoprazole) |
 | Oxaprozin | Daypro |
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
-| *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
+| *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -9,7 +9,7 @@ Its empirical formula is C14H13N3O4S2 and it has the following structural formul
 
 Meloxicam is a pastel yellow solid, practically insoluble in water, with higher solubility observed in strong acids and bases.
 It is very slightly soluble in methanol.
-Meloxicam has an apparent partition coefficient (log P)app = 0.1 in n-octanol/buffer pH 7.4.
+Meloxicam has an apparent partition coefficient (log P)app= 0.1 in n-octanol/buffer pH 7.4.
 Meloxicam has pKa values of 1.1 and 4.2.
 
 MOBIC is available as a tablet for oral administration containing 7.5 mg or 15 mg meloxicam, and as an oral suspension containing 7.5 mg meloxicam per 5 mL.

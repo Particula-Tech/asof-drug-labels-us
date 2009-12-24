@@ -1,4 +1,4 @@
-ATTENTION DISPENSER: Accompanying Medication Guide must be dispensed with this product.
+ATTENTION DISPENSER: Dispense with separately provided Medication Guide.
 
 Prescribing Information
 
@@ -12,24 +12,16 @@ Keep oral suspension container tightly closed.
 
 Keep this and all medications out of the reach of children.
 
-Mobic tablets 7.5 mg and 15 mg are manufactured by:
+| Distributed by: |  | Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA |
+| --- | --- | --- |
+| Licensed from: |  | Boehringer Ingelheim International GmbH |
 
-- Boehringer Ingelheim Pharma GmbH & Co. KG Ingelheim, Germany and Boehringer Ingelheim Promeco S.A. de C.V., Mexico City, Mexico
-
-Mobic oral suspension 7.5 mg/5 mL is manufactured by:
-
-- Boehringer Ingelheim Roxane, Inc. Columbus, OH 43216 USA
-
-Marketed by:
-
-- Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
-
-Licensed from:
-
-- Boehringer Ingelheim International GmbH
-
-©Copyright Boehringer Ingelheim International GmbH 2008, ALL RIGHTS RESERVED
+©Copyright 2009 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 U.S. Patent No. 6,184,220 covers the Meloxicam Oral Suspension product.
 
-Rev: April 2008 10003990/04 OT1400EC2808
+Rev: December 2008 10003990/05
+
+OT1400FL1208
+
+090340141/5 OT1407A

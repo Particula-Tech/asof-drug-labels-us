@@ -1,8 +1,6 @@
 # CLINICAL TRIALS
 
-## Osteoarthritis and Rheumatoid Arthritis
-
-The use of MOBIC for the treatment of the signs and symptoms of osteoarthritis of the knee and hip was evaluated in a 12-week double-blind controlled trial.
+Osteoarthritis and Rheumatoid Arthritis The use of MOBIC for the treatment of the signs and symptoms of osteoarthritis of the knee and hip was evaluated in a 12-week double-blind controlled trial.
 MOBIC (3.75 mg, 7.5 mg and 15 mg daily) was compared to placebo.
 The four primary endpoints were investigator’s global assessment, patient global assessment, patient pain assessment, and total WOMAC score (a self-administered questionnaire addressing pain, function and stiffness).
 Patients on MOBIC 7.5 mg daily and MOBIC 15 mg daily showed significant improvement in each of these endpoints compared with placebo.

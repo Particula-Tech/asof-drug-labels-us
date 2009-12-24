@@ -1,8 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## Osteoarthritis and Rheumatoid Arthritis
-
-Carefully consider the potential benefits and risks of Mobic® (meloxicam) tablets/oral suspension and other treatment options before deciding to use MOBIC tablets/oral suspension.
+Osteoarthritis and Rheumatoid Arthritis Carefully consider the potential benefits and risks of Mobic® (meloxicam) tablets/oral suspension and other treatment options before deciding to use MOBIC tablets/oral suspension.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
 
 After observing the response to initial therapy with MOBIC tablets/oral suspension, the dose should be adjusted to suit an individual patient's needs.
@@ -16,9 +14,7 @@ MOBIC oral suspension 7.5 mg/5 mL or 15 mg/10 mL may be substituted for MOBIC ta
 
 The maximum recommended daily oral dose of MOBIC is 15 mg regardless of formulation.
 
-## Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA)
-
-MOBIC oral suspension is available in the strength of 7.5 mg/5 mL.
+Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA) MOBIC oral suspension is available in the strength of 7.5 mg/5 mL.
 To improve dosing accuracy in smaller weight children, the use of the MOBIC oral suspension is recommended.
 For the treatment of juvenile rheumatoid arthritis, the recommended oral dose of MOBIC is 0.125 mg/kg once daily up to a maximum of 7.5 mg.
 There was no additional benefit demonstrated by increasing the dose above 0.125 mg/kg once daily in these clinical trials.

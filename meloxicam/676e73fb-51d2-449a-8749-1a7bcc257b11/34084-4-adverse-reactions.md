@@ -1,10 +1,6 @@
 # ADVERSE REACTIONS
 
-## Adults
-
-### Osteoarthritis and Rheumatoid Arthritis
-
-The MOBIC Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with MOBIC 7.5 mg/day, 3,505 OA patients and 1351 RA patients treated with MOBIC 15 mg/day.
+Adults Osteoarthritis and Rheumatoid Arthritis The MOBIC Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with MOBIC 7.5 mg/day, 3,505 OA patients and 1351 RA patients treated with MOBIC 15 mg/day.
 MOBIC at these doses was administered to 661 patients for at least 6 months and to 312 patients for at least one year.
 Approximately 10,500 of these patients were treated in ten placebo and/or active-controlled osteoarthritis trials and 2363 of these patients were treated in ten placebo and/or active-controlled rheumatoid arthritis trials.
 Gastrointestinal (GI) adverse events were the most frequently reported adverse events in all treatment groups across MOBIC trials.
@@ -12,11 +8,11 @@ Gastrointestinal (GI) adverse events were the most frequently reported adverse e
 A 12-week multicenter, double-blind, randomized trial was conducted in patients with osteoarthritis of the knee or hip to compare the efficacy and safety of MOBIC with placebo and with an active control.
 Two 12-week multicenter, double-blind, randomized trials were conducted in patients with rheumatoid arthritis to compare the efficacy and safety of MOBIC with placebo.
 
-Table 2a depicts adverse events that occurred in ≥ 2% of the MOBIC treatment groups in a 12-week placebo and active-controlled osteoarthritis trial.
+Table 2a depicts adverse events that occurred in ≥2% of the MOBIC treatment groups in a 12-week placebo and active-controlled osteoarthritis trial.
 
-Table 2b depicts adverse events that occurred in ≥ 2% of the MOBIC treatment groups in two 12-week placebo controlled rheumatoid arthritis trials.
+Table 2b depicts adverse events that occurred in ≥2% of the MOBIC treatment groups in two 12-week placebo controlled rheumatoid arthritis trials.
 
-Table 2a Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in a 12-Week Osteoarthritis Placebo and Active-Controlled Trial
+Table 2a Adverse Events (%) Occurring in ≥2% of MOBIC Patients in a 12-Week Osteoarthritis Placebo and Active-Controlled Trial
 
 | No. of Patients | 157 | 154 | 156 | 153 |
 | --- | --- | --- | --- | --- |
@@ -40,37 +36,37 @@ Table 2a Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in a 12-Week O
 | Upper Respiratory Tract Infection | 1.9 | 3.2 | 1.9 | 3.3 |
 | Skin |  |  |  |  |
 | Rash2 | 2.5 | 2.6 | 0.6 | 2.0 |
-| 1 WHO preferred terms edema, edema dependent, edema peripheral and edema legs combined |  |  |  |  |
-| 2 WHO preferred terms rash, rash erythematous and rash maculo-papular combined |  |  |  |  |
+| 1WHO preferred terms edema, edema dependent, edema peripheral and edema legs combined |  |  |  |  |
+| 2WHO preferred terms rash, rash erythematous and rash maculo-papular combined |  |  |  |  |
 
-Table 2b Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in two 12-Week Rheumatoid Arthritis Placebo Controlled Trials
+Table 2b Adverse Events (%) Occurring in ≥2% of MOBIC Patients in two 12-Week Rheumatoid Arthritis Placebo Controlled Trials
 
 | No. of Patients | 469 | 481 | 477 |
 | --- | --- | --- | --- |
 |  | Placebo | MOBIC 7.5 mg daily | MOBIC 15 mg daily |
-| Gastrointestinal disorders | 14.1 | 18.9 | 16.8 |
+| Gastrointestinal Disorders | 14.1 | 18.9 | 16.8 |
 | Abdominal pain NOS2 | 0.6 | 2.9 | 2.3 |
 | Diarrhea NOS2 | 5.1 | 4.8 | 3.4 |
 | Dyspeptic signs and symptoms1 | 3.8 | 5.8 | 4.0 |
 | Nausea2 | 2.6 | 3.3 | 3.8 |
-| General disorders and administration site conditions |  |  |  |
-| Influenza like illness2 | 2.1 | 2.9 | 2.3 |
-| Infection and infestations |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |
+| Influenza-like illness2 | 2.1 | 2.9 | 2.3 |
+| Infection and Infestations |  |  |  |
 | Upper respiratory tract infections-pathogen class unspecified1 | 4.1 | 7.0 | 6.5 |
-| Musculoskeletal and connective tissue disorders |  |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |
 | Joint related signs and symptoms1 | 1.9 | 1.5 | 2.3 |
 | Musculoskeletal and connective tissue signs and symptoms NEC1 | 3.8 | 1.7 | 2.9 |
-| Nervous system disorders |  |  |  |
+| Nervous System Disorders |  |  |  |
 | Headaches NOS2 | 6.4 | 6.4 | 5.5 |
 | Dizziness (excl vertigo)2 | 3.0 | 2.3 | 0.4 |
-| Skin and subcutaneous tissue disorders |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash NOS2 | 1.7 | 1.0 | 2.1 |
-| 1 MedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling), and musculoskeletal and connective tissue signs and symptoms NEC (back pain, back pain aggravated, muscle spasms, musculoskeletal pain) |  |  |  |
-| 2 MedDRA preferred term: diarrhea NOS, nausea, abdominal pain NOS, influenza like illness, headaches NOS, dizziness (excl vertigo), and rash NOS |  |  |  |
+| 1MedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling), and musculoskeletal and connective tissue signs and symptoms NEC (back pain, back pain aggravated, muscle spasms, musculoskeletal pain) |  |  |  |
+| 2MedDRA preferred term: diarrhea NOS, nausea, abdominal pain NOS, influenza-like illness, headaches NOS, dizziness (excl vertigo), and rash NOS |  |  |  |
 
-The adverse events that occurred with MOBIC in ≥ 2% of patients treated short-term (4-6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 3.
+The adverse events that occurred with MOBIC in ≥2% of patients treated short-term (4-6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 3.
 
-Table 3 Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in 4 to 6 Weeks and 6 Month Active-Controlled Osteoarthritis Trials
+Table 3 Adverse Events (%) Occurring in ≥2% of MOBIC Patients in 4 to 6 Weeks and 6 Month Active-Controlled Osteoarthritis Trials
 
 |  | MOBIC 7.5 mg daily | MOBIC 15 mg daily | MOBIC 7.5 mg daily | MOBIC 15 mg daily |  |
 | --- | --- | --- | --- | --- | --- |
@@ -107,16 +103,12 @@ Table 3 Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in 4 to 6 Weeks
 | Urinary |  |  |  |  |  |
 | Micturition Frequency | 0.1 | 0.4 | 2.4 | 1.3 |  |
 | Urinary Tract Infection | 0.3 | 0.4 | 4.7 | 6.9 |  |
-| 1 WHO preferred terms edema, edema dependent, edema peripheral and edema legs combined |  |  |  |  |  |
-| 2 WHO preferred terms rash, rash erythematous and rash maculo-papular combined |  |  |  |  |  |
+| 1WHO preferred terms edema, edema dependent, edema peripheral and edema legs combined |  |  |  |  |  |
+| 2WHO preferred terms rash, rash erythematous and rash maculo-papular combined |  |  |  |  |  |
 
 Higher doses of MOBIC (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore the daily dose of MOBIC should not exceed 15 mg.
 
-## Pediatrics
-
-### Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA)
-
-Three hundred and eighty-seven patients with pauciarticular and polyarticular course JRA were exposed to MOBIC with doses ranging from 0.125 to 0.375 mg/kg per day in three clinical trials.
+Pediatrics Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA) Three hundred and eighty-seven patients with pauciarticular and polyarticular course JRA were exposed to MOBIC with doses ranging from 0.125 to 0.375 mg/kg per day in three clinical trials.
 These studies consisted of two 12-week multicenter, double-blind, randomized trials (one with a 12-week open-label extension and one with a 40-week extension) and one 1-year open-label PK study.
 The adverse events observed in these pediatric studies with MOBIC were similar in nature to the adult clinical trial experience, although there were differences in frequency.
 In particular, the following most common adverse events, abdominal pain, vomiting, diarrhea, headache, and pyrexia, were more common in the pediatric than in the adult trials.
@@ -124,7 +116,7 @@ Rash was reported in seven (<2%) patients receiving MOBIC.
 No unexpected adverse events were identified during the course of the trials.
 The adverse events did not demonstrate an age or gender-specific subgroup effect.
 
-The following is a list of adverse drug reactions occurring in < 2% of patients receiving MOBIC in clinical trials involving approximately 16,200 patients.
+The following is a list of adverse drug reactions occurring in <2% of patients receiving MOBIC in clinical trials involving approximately 16,200 patients.
 Adverse reactions reported only in worldwide post-marketing experience or the literature are shown in italics.
 
 | Body as a Whole | allergic reaction, anaphylactoid reactions including shock, face edema, fatigue, fever, hot flushes, malaise, syncope, weight decrease, weight increase |
