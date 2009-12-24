@@ -204,3 +204,7 @@ The following adverse reaction has been identified during post-approval use of P
 Because post-approval reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 Skin and subcutaneous tissue disorders – Angioedema.
+
+## 6.3 Adverse Reactions Reported With Other SNRIs
+
+Although the following are not considered adverse reactions for desvenlafaxine succinate, they are adverse reactions for other SNRIs and may also occur with desvenlafaxine succinate: gastrointestinal bleeding, hallucinations, and photosensitivity reactions.
