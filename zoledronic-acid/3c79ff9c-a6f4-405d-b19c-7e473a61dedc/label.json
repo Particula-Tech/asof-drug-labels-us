@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021817"
+  ],
   "inn": "zoledronic-acid",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0435-61"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "zoledronic acid",
+      "name": "Reclast"
+    }
+  ],
   "setid": "3c79ff9c-a6f4-405d-b19c-7e473a61dedc",
   "source": "dailymed"
 }

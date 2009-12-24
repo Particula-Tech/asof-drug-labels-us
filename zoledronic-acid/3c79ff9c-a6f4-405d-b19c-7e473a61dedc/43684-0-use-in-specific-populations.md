@@ -25,7 +25,7 @@ These adverse effects included increases in pre- and post-implantation losses, d
 In pregnant rabbits given daily subcutaneous doses of zoledronic acid during gestation at doses ≤ 0.4 times the anticipated human systemic exposure following a 5 mg intravenous dose (based on a mg/m2 comparison) no adverse fetal effects were observed.
 Maternal mortality and abortion occurred in all treatment groups (at doses ≥ 0.04 times the human 5 mg intravenous dose, based on a mg/m2 comparison).
 Adverse maternal effects were associated with, and may have been caused by, drug-induced hypocalcemia.
-[see NONCLINICAL TOXICOLOGY (13.3)].
+[See NONCLINICAL TOXICOLOGY (13.3)].
 
 ## 8.3 Nursing Mothers
 
@@ -40,9 +40,10 @@ The safety and effectiveness of zoledronic acid was studied in a one-year active
 The enrolled population was subjects with severe osteogenesis imperfecta, aged 1-17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
-The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget’s disease of bone and treatment of osteoporosis.
+The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget’s disease of bone and treatment of osteoporosis including osteonecrosis of the jaw (ONJ) and renal impairment.
 However, adverse reactions seen more commonly in pediatric patients included pyrexia (61%), arthralgia (26%), hypocalcemia (22%) and headache (22%).
 These reactions, excluding arthralgia, occurred most frequently within three days after the first infusion and became less common with repeat dosing.
+No cases of ONJ or renal impairment were observed in this study.
 Because of long-term retention in bone, Reclast should only be used in children if the potential benefit outweighs the potential risk.
 
 Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3-8 years and 6 in the age group of 9-17 years) infused with 0.05 mg/kg dose over 30 minutes.
@@ -51,17 +52,18 @@ The plasma concentration time profile of zoledronic acid in pediatric patients r
 
 ## 8.5 Geriatric Use
 
-The combined osteoporosis trials included 4761 Reclast-treated patients who were at least 65 years of age, while 2083 patients were at least 75 years old.
+The combined osteoporosis trials included 4863 Reclast-treated patients who were at least 65 years of age, while 2101 patients were at least 75 years old.
 No overall differences in efficacy or safety were observed between patients under 75 years of age with those at least 75 years of age, except that the acute phase reactions occurred less frequently in the older patients.
 
-Of the patients receiving Reclast in the osteoporosis study in men and Paget’s disease studies, 83 and 132 patients, respectively were 65 years of age or over, while 24 and 68 patients, respectively were at least 75 years of age.
+Of the patients receiving Reclast in the osteoporosis study in men, glucocorticoid-induced osteoporosis, and Paget’s disease studies, 83, 116, and 132 patients, respectively were 65 years of age or over, while 24, 29, and 68 patients, respectively were at least 75 years of age.
 
 However, because decreased renal function occurs more commonly in the elderly, special care should be taken to monitor renal function.
 
 ## 8.6 Renal Impairment
 
-Reclast is not recommended for patients with severe renal impairment (creatinine clearance <35 mL/min) due to lack of adequate clinical experience in this population.
+Reclast should not be used in patients with severe renal impairment (creatinine clearance <35 mL/min) due to lack of adequate clinical experience in this population.
 No dosage adjustment is required in patients with a creatinine clearance of ≥ 35 mL/min [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
+Risk of renal impairment may increase with underlying renal disease and dehydration secondary to fever, gastrointestinal losses, diuretic therapy, etc. [see Post-Marketing Experience (6.2)].
 
 ## 8.7 Hepatic Impairment
 

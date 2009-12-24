@@ -14,13 +14,25 @@ The recommended regimen is a 5 mg infusion once a year given intravenously over 
 For osteoporosis treatment, and to reduce the risk of hypocalcemia, patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
 Postmenopausal women require an average of at least 1200 mg calcium and 800-1000 IU vitamin D daily.
 
-## 2.2 Osteoporosis in Men
+## 2.2 Prevention of Osteoporosis in Postmenopausal Women
+
+The recommended regimen is a 5 mg infusion given once every 2 years intravenously over no less than 15 minutes.
+Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
+Postmenopausal women require an average of 1200 mg calcium and 800-1000 IU vitamin D daily.
+
+## 2.3 Osteoporosis in Men
 
 The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
 Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
 An average of at least 1200 mg calcium and 800-1000 IU vitamin D daily is recommended.
 
-## 2.3 Treatment of Paget’s Disease of Bone
+## 2.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
+
+The recommended regimen is a 5mg infusion once a year given intravenously over no less than 15 minutes.
+Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
+An average of at least 1200 mg calcium and 800-1000 IU vitamin D daily is recommended.
+
+## 2.5 Treatment of Paget’s Disease of Bone
 
 The recommended dose is a 5 mg infusion.
 The infusion time must not be less than 15 minutes given over a constant infusion rate.
@@ -34,7 +46,7 @@ After a single treatment with Reclast in Paget’s disease an extended remission
 Specific re-treatment data are not available.
 However, re-treatment with Reclast may be considered in patients who have relapsed, based on increases in serum alkaline phosphatase, or in those patients who failed to achieve normalization of their serum alkaline phosphatase, or in those patients with symptoms, as dictated by medical practice.
 
-## 2.4 Method of Administration
+## 2.6 Method of Administration
 
 The Reclast infusion time must not be less than 15 minutes given over a constant infusion rate.
 
