@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA021515"
+  ],
+  "inn": "bupropion",
+  "labeler": "BTA Pharmaceuticals",
+  "package_ndcs": [
+    "64455-730-07",
+    "64455-730-30",
+    "64455-730-90",
+    "64455-731-07",
+    "64455-731-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "WELLBUTRIN XL"
+    }
+  ],
+  "setid": "9bfe1903-3313-44b7-a27c-fc0775426f94",
+  "source": "dailymed"
+}
