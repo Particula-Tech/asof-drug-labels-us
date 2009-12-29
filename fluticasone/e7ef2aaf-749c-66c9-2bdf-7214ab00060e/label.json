@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077168"
+  ],
+  "inn": "fluticasone",
+  "labeler": "GW Laboratories, Inc",
+  "package_ndcs": [
+    "0713-0632-15",
+    "0713-0632-31",
+    "0713-0632-60"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "fluticasone propionate",
+      "name": "Fluticasone Propionate"
+    }
+  ],
+  "setid": "e7ef2aaf-749c-66c9-2bdf-7214ab00060e",
+  "source": "dailymed"
+}
