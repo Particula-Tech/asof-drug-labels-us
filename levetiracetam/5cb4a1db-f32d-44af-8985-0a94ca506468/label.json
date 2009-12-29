@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078976"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "Actavis Mid Atlantic LLC",
+  "package_ndcs": [
+    "0472-0235-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levetiracetam",
+      "name": "Levetiracetam"
+    }
+  ],
+  "setid": "5cb4a1db-f32d-44af-8985-0a94ca506468",
+  "source": "dailymed"
+}
