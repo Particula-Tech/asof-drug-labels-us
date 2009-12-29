@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 RESTASIS® (cyclosporine ophthalmic emulsion) 0.05% contains a topical immunomodulator with anti-inflammatory effects.
-Cyclosporine's chemical name is Cyclo[[(E)-(2S,3R,4R)-3-hydroxy-4-methyl-2-(methylamino)-6-octenoyl]-L-2-aminobutyryl-N-methylglycyl-N-methyl-L-leucyl-L-valyl-Nmethyl-L-leucyl-L-alanyl-D-alanyl-N-methyl-L-leucyl-N-methyl-L-leucyl-N-methyl-L-valyl] and it has the following structure:
+Cyclosporine's chemical name is Cyclo[[(E)-(2S,3R,4R)-3-hydroxy-4-methyl-2-(methylamino)-6-octenoyl]-L-2-aminobutyryl-N-methylglycyl-N-methyl-L-leucyl-L-valyl-N-methyl-L-leucyl-L-alanyl-D-alanyl-N-methyl-L-leucyl-N-methyl-L-leucyl-N-methyl-L-valyl] and it has the following structure:
 
 Structural Formula
 
