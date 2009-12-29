@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018261"
+  ],
   "inn": "oxytocin",
-  "labeler": "JHP Pharmaceuticals, LLC",
+  "labeler": "JHP Pharmaceuticals LLC",
   "package_ndcs": [
     "42023-116-01",
     "42023-116-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "oxytocin",
+      "name": "Pitocin"
+    }
+  ],
   "setid": "969d5b35-0add-4c23-9605-6a5b6ab65c95",
   "source": "dailymed"
 }

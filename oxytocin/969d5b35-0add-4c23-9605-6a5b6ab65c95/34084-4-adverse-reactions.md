@@ -26,3 +26,6 @@ The following adverse reactions have been reported in the fetus or neonate:
 | Permanent CNS or brain damage | Neonatal retinal hemorrhage |
 | Fetal death |  |
 | Neonatal seizures have been reported with the use of Pitocin. |  |
+
+For medical advice about adverse reactions contact your medical professional.
+To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
