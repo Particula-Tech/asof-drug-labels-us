@@ -87,9 +87,10 @@ This procedure uses paper disks impregnated with 30 mcg of vancomycin to test th
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for vancomycin.
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30 mcg vancomycin disk should be interpreted according to the following criteria in Table 1.
 
-| Table 1: Susceptibility Test Interpretive Criteria for Vancomycin |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 1: Susceptibility Test Interpretive Criteria for Vancomycin
+
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Diameters (mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
 | Enterococci A ß-lactamase test using an inoculum ≥ 107 CFU/mL or direct colony growth and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance due to ß-lactamase production. | ≤4 | 8 - 16 | ≥32 | ≥17Plates should be held for a full 24 hours and examined using transmitted light. The presence of a haze or any growth within the zone of inhibition indicates resistance. Those enterococci with intermediate zones of inhibition should be tested by a standardized procedure based on a dilution method1,2 (broth or agar) or equivalent. | 15 – 16 | ≤14 |
 | Staphylococcus aureus | ≤2 | 4 - 8 | ≥16 | ≥15The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yielding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. | - | - |
@@ -108,9 +109,11 @@ Standardized susceptibility test procedures require the use of laboratory contro
 Standard vancomycin powder should provide MIC values provided below.
 For the diffusion technique, the 30 mcg vancomycin disk should provide the following zone diameters with the quality control strains:
 
-| Table 2. In Vitro Susceptibility Test Quality Control Ranges for Vancomycin |  |  |
-| --- | --- | --- |
+Table 2.
+In Vitro Susceptibility Test Quality Control Ranges for Vancomycin
+
 | Organism (ATCC #) | MIC range (mcg/mL) | Disk diffusion range (mm) |
+| --- | --- | --- |
 | Enterococcus faecalis (29212) | 1-4 | Not applicable |
 | Staphylococcus aureus (29213) | 0.5-2 | Not applicable |
 | Staphylococcus aureus (25923) | Not applicable | 17 - 21 |

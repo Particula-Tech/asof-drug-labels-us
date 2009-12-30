@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050671"
+  ],
   "inn": "vancomycin",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "0338-3551-48",
     "0338-3552-48"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "Vancomycin Hydrochloride"
+    }
+  ],
   "setid": "99e523d8-9bde-43cb-8434-497015e5dcbd",
   "source": "dailymed"
 }
