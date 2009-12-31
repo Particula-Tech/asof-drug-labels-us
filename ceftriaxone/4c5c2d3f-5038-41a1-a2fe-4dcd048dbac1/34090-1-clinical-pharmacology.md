@@ -39,13 +39,13 @@ Ceftriaxone penetrated the inflamed meninges of infants and pediatric patients; 
 | Elimination Half-life (hr) | 4.6 | 4.3 |
 | Plasma Clearance (mL/hr/kg) | 49 | 60 |
 | Volume of Distribution (mL/kg) | 338 | 373 |
-| CSF Concentration- inflamed meninges (mcg/mL) | 5.6 | 6.4 |
+| CSF Concentration - inflamed meninges (mcg/mL) | 5.6 | 6.4 |
 | Range (mcg/mL) | 1.3-18.5 | 1.3-44 |
 | Time after dose (hr) | 3.7 (± 1.6) | 3.3 (± 1.4) |
 
 Compared to that in healthy adult subjects, the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal impairment or hepatic dysfunction (Table 4); therefore, dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 gm per day.
 Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis.
-In 6 of 26 dialysis patients, the elimination rate of ceftriaxone was markedly reduced, suggesting that plasma concentrations of ceftriaxone should be monitored in these patients to determine if dosage adjustments are necessary.
+In 6 of 26 dialysis patients, the elimination rate of ceftriaxone was markedly reduced.
 
 | Table 4 Average Pharmacokinetic Parameters of Ceftriaxone in Humans |  |  |  |
 | --- | --- | --- | --- |
@@ -53,11 +53,20 @@ In 6 of 26 dialysis patients, the elimination rate of ceftriaxone was markedly r
 | Healthy Subjects | 5.8-8.7 | 0.58-1.45 | 5.8-13.5 |
 | Elderly Subjects (mean age, 70.5 yr) | 8.9 | 0.83 | 10.7 |
 | Patients With Renal Impairment |  |  |  |
-| Hemodialysis Patients (0-5 mL/min)Creatinine clearance | 14.7 | 0.65 | 13.7 |
+| Hemodialysis Patients (0-5 mL/min)Creatinine clearance. | 14.7 | 0.65 | 13.7 |
 | Severe (5-15 mL/min) | 15.7 | 0.56 | 12.5 |
 | Moderate (16-30 mL/min) | 11.4 | 0.72 | 11.8 |
 | Mild (31-60 mL/min) | 12.4 | 0.70 | 13.3 |
 | Patients With Liver Disease | 8.8 | 1.1 | 13.6 |
+
+The elimination of ceftriaxone is not altered when Ceftriaxone Injection, USP is co-administered with probenecid.
+
+## Interaction with Calcium
+
+Two in vitro studies, one using adult plasma and the other neonatal plasma from umbilical cord blood, have been carried out to assess interaction of ceftriaxone and calcium.
+Ceftriaxone concentrations up to 1 mM (in excess of concentrations achieved in vivo following administration of 2 grams ceftriaxone infused over 30 minutes) were used in combination with calcium concentrations up to 12 mM (48 mg/dL).
+Recovery of ceftriaxone from plasma was reduced with calcium concentrations of 6 mM (24 mg/dL) or higher in adult plasma or 4 mM (16 mg/dL) or higher in neonatal plasma.
+This may be reflective of ceftriaxone-calcium precipitation.
 
 ## Microbiology
 
@@ -102,7 +111,7 @@ Serratia marcescens
 
 Ceftriaxone is also active against many strains of Pseudomonas aeruginosa.
 
-NOTE: Many strains of the above organisms that are multiply resistant to other antibiotics, e.g., penicillins, cephalosporins, and aminoglycosides, are susceptible to ceftriaxone.
+NOTE: Many strains of the above organisms that are resistant to multiple antibiotics, e.g., penicillins, cephalosporins, and aminoglycosides, are susceptible to ceftriaxone.
 
 Aerobic gram-positive microorganisms:
 
@@ -272,7 +281,7 @@ For the diffusion technique, the 30 mcg ceftriaxone disc should provide the foll
 | Neisseria gonorrhoeae | 49226 | 39 - 51 |
 | Streptococcus pneumoniae | 49619 | 30 - 35 |
 
-### Anaerobic Techniques
+## Anaerobic Techniques
 
 For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods.4 The MIC values obtained should be interpreted according to the following criteria:
 

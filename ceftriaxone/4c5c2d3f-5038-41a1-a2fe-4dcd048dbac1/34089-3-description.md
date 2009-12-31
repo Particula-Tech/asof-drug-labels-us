@@ -11,12 +11,12 @@ Ceftriaxone Sodium, USP is a white to yellowish-orange crystalline powder which 
 Ceftriaxone Injection, USP contains approximately 83 mg (3.6 mEq) of sodium per gram of ceftriaxone activity.
 
 Ceftriaxone Injection, USP is supplied as a frozen, iso-osmotic, sterile, nonpyrogenic solution premixed in a dextrose diluent.
-Dextrose has been added to adjust the osmolality.
+Dextrose, USP has been added to adjust the osmolality (approximately 1.9 g and 1.2 g as dextrose hydrous to the 1 g and 2 g dosages, respectively).
 The pH may be adjusted with sodium hydroxide and/or hydrochloric acid.
 Solutions of premixed Ceftriaxone Injection, USP may range from light yellow to amber in color.
 After thawing, the solution is intended for intravenous use.
 The pH of thawed solutions may range from 6.0 to 8.0.
-See HOW SUPPLIED for package description.
+SeeHOW SUPPLIED for package description.
 
 The plastic container for the frozen solution is fabricated from a specially designed multilayer plastic, PL 2040.
 Solutions are in contact with the polyethylene layer of this container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.

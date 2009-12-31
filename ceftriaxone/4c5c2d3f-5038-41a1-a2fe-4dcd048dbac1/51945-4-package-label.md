@@ -1,6 +1,6 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-## Container Label
+Container Label
 
 Baxter
 
@@ -71,7 +71,7 @@ PL 2040 Plastic
 
 07-34-52-926
 
-## Carton Label
+Carton Label
 
 Baxter
 

@@ -2,11 +2,18 @@
 
 Ceftriaxone Injection, USP is administered intravenously.
 
-Ceftriaxone Injection, USP and calcium-containing solutions, including continuous calcium-containing infusions such as parenteral nutrition, should not be mixed or co-administered to any patient irrespective of age, even via different infusion lines at different sites (see CONTRAINDICATIONS and WARNINGS).
+Do not further dilute ceftriaxone injection with products containing calcium, such as Ringer’s solution or Hartmann’s solution, because a precipitate can form.
+Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
+Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y–site.
+However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see WARNINGS).
+
+There have been no reports of an interaction between ceftriaxone and oral calcium-containing products.
 
 ## Neonates
 
 Hyperbilirubinemic neonates, especially prematures, should not be treated with Ceftriaxone Injection, USP (see CONTRAINDICATIONS).
+
+Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CONTRAINDICATIONS).
 
 ## Pediatric Patients
 
@@ -35,9 +42,7 @@ The usual duration of therapy is 4 to 14 days; in complicated infections, longer
 
 When treating infections caused by Streptococcus pyogenes, therapy should be continued for at least 10 days.
 
-No dosage adjustment is necessary for patients with impairment of renal or hepatic function; however, blood levels should be monitored in patients with severe renal impairment (e.g., dialysis patients) and in patients with both renal and hepatic dysfunctions.
-
-Ceftriaxone Injection, USP should be administered intravenously by infusion over a period of 30 minutes.
+No dosage adjustment is necessary for patients with impairment of renal or hepatic function.
 
 ## DIRECTIONS FOR USE
 

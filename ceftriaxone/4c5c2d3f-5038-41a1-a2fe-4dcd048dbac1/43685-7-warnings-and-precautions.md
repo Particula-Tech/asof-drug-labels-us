@@ -9,12 +9,13 @@ SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE THE USE OF SUBCUTANEOUS EPI
 
 ## Interaction with Calcium-Containing Products
 
-There are no reports to date of intravascular or pulmonary precipitations in patients, other than neonates, treated with ceftriaxone and calcium-containing IV solutions.
-However, the theoretical possibility exists for an interaction between ceftriaxone and IV calcium-containing solutions in patients other than neonates.
-Therefore, Ceftriaxone Injection, USP and calcium-containing solutions, including continuous calcium-containing infusions such as parenteral nutrition, should not be mixed or co-administered to any patient irrespective of age, even via different infusion lines at different sites.
-As a further theoretical consideration and based on 5 half-lives of ceftriaxone, Ceftriaxone Injection, USP and IV calcium-containing solutions should not be administered within 48 hours of each other in any patient (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
-
 No data are available on potential interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).
+
+Do not further dilute ceftriaxone injection with products containing calcium, such as Ringer’s solution or Hartmann’s solution, because a precipitate can form.
+Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
+Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
+However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid.
+In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Clostridium difficile
 
@@ -29,6 +30,12 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+## Hemolytic Anemia
+
+An immune mediated hemolytic anemia has been observed in patients receiving cephalosporin class antibacterials including ceftriaxone.
+Severe cases of hemolytic anemia, including fatalities, have been reported during treatment in both adults and children.
+If a patient develops anemia while on ceftriaxone, the diagnosis of a cephalosporin associated anemia should be considered and ceftriaxone stopped until the etiology is determined.
+
 # PRECAUTIONS
 
 ## General
@@ -38,10 +45,9 @@ Prescribing Ceftriaxone Injection, USP in the absence of a proven or strongly su
 Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of Ceftriaxone Injection, USP is similar to that of other cephalosporins.
 
 Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
-Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of Ceftriaxone Injection, USP are administered, but concentrations of drug in the serum should be monitored periodically.
-If evidence of accumulation exists, dosage should be decreased accordingly.
+Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of Ceftriaxone Injection, USP are administered.
 
-Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, Ceftriaxone Injection, USP dosage should not exceed 2 gm daily without close monitoring of serum concentrations.
+Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the Ceftriaxone Injection, USP dosage should not exceed 2 gm daily.
 
 Alterations in prothrombin times have occurred rarely in patients treated with ceftriaxone.
 Patients with impaired vitamin K synthesis or low vitamin K stores (e.g., chronic hepatic disease and malnutrition) may require monitoring of prothrombin time during Ceftriaxone Injection, USP treatment.
@@ -63,8 +69,6 @@ Cases of pancreatitis, possibly secondary to biliary obstruction, have been repo
 Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition).
 A cofactor role of ceftriaxone related biliary precipitation cannot be ruled out.
 
-The elimination of ceftriaxone is not altered by probenecid.
-
 As with other cephalosporins, anaphylactic shock cannot be ruled out even if a thorough patient history is taken.
 
 ## Information for Patients
@@ -78,7 +82,7 @@ Diarrhea is a common problem caused by antibiotics which usually ends when the a
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 ### Carcinogenesis
 
@@ -108,7 +112,7 @@ Because animal reproductive studies are not always predictive of human response,
 
 ### Nonteratogenic Effects
 
-In rats, in the Segment I (fertility and general reproduction) and Segment III (perinatal and postnatal) studies with intravenously administered ceftriaxone, no adverse effects were noted on various reproductive parameters during gestation and lactation, including postnatal growth, functional behavior and reproductive ability of the offspring, at doses of 586 mg/kg/day or less
+In rats, in the Segment I (fertility and general reproduction) and Segment III (perinatal and postnatal) studies with intravenously administered ceftriaxone, no adverse effects were noted on various reproductive parameters during gestation and lactation, including postnatal growth, functional behavior and reproductive ability of the offspring, at doses of 586 mg/kg/day or less.
 
 ## Nursing Mothers
 
@@ -127,5 +131,3 @@ Of the total number of subjects in clinical studies of ceftriaxone, 32% were 60 
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day (see CLINICAL PHARMACOLOGY).
-
-No dosage adjustment is necessary for patients with impairment of renal or hepatic function; however, blood levels should be monitored in patients with severe renal impairment (e.g., dialysis patients) and in patients with both renal and hepatic dysfunctions.

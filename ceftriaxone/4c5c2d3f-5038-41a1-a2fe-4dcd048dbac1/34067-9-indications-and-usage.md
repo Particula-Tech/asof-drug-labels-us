@@ -19,7 +19,7 @@ The potentially lower clinical cure rate of ceftriaxone should be balanced again
 
 SKIN AND SKIN STRUCTURE INFECTIONS caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Morganella morganii,* Pseudomonas aeruginosa, Serratia marcescens, Acinetobacter calcoaceticus, Bacteroides fragilis* or Peptostreptococcus species.
 
-URINARY TRACT INFECTIONS (complicated and uncomplicated)caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganella morganii or Klebsiella pneumoniae.
+URINARY TRACT INFECTIONS (complicated and uncomplicated) caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganella morganii or Klebsiella pneumoniae.
 
 UNCOMPLICATED GONORRHEA (cervical/urethral and rectal) caused by Neisseria gonorrhoeae, including both penicillinase- and nonpenicillinase-producing strains, and pharyngeal gonorrhea caused by nonpenicillinase-producing strains of Neisseria gonorrhoeae.
 
@@ -39,6 +39,6 @@ Ceftriaxone has also been used successfully in a limited number of cases of meni
 *Efficacy for this organism in this organ system was studied in fewer than ten infections.
 
 SURGICAL PROPHYLAXIS: The preoperative administration of a single 1 gm dose of ceftriaxone may reduce the incidence of postoperative infections in patients undergoing surgical procedures classified as contaminated or potentially contaminated (e.g., vaginal or abdominal hysterectomy or cholecystectomy for chronic calculous cholecystitis in high-risk patients, such as those over 70 years of age, with acute cholecystitis not requiring therapeutic antimicrobials, obstructive jaundice or common duct bile stones) and in surgical patients for whom infection at the operative site would present serious risk (e.g., during coronary artery bypass surgery).
-Although ceftriaxone has been shown to have been as effective as cefazolin in the prevention of infection following coronary artery bypass surgery, no placebo controlled trials have been conducted to evaluate any cephalosporin antibiotic in the prevention of infection following coronary artery bypass surgery.
+Although ceftriaxone has been shown to have been as effective as cefazolin in the prevention of infection following coronary artery bypass surgery, no placebo-controlled trials have been conducted to evaluate any cephalosporin antibiotic in the prevention of infection following coronary artery bypass surgery.
 
 When administered prior to surgical procedures for which it is indicated, a single 1 gm dose of ceftriaxone provides protection from most infections due to susceptible organisms throughout the course of the procedure.
