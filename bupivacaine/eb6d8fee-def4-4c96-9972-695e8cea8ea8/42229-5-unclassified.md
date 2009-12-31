@@ -2,4 +2,4 @@ Rx only
 
 Manufactured for:
 
-451106/Revised: April 2008
+451106/Revised: August 2008

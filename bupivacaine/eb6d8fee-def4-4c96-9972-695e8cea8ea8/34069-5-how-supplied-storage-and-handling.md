@@ -9,8 +9,7 @@ With Epinephrine:
 | ProductNo. | NDCNo. | Strength | Size |
 | --- | --- | --- | --- |
 | 460830 | 63323-468-30 | 0.25% | 30 mL Single Dose Vial packaged individually. |
-| 460831 | 63323-468-31 | 0.25% | 30 mL Single Dose Vials packaged in fives. |
-| 460610 | 63323-466-10 | 0.25% | 10 mL Single Dose E-Z Off™ Vials packaged in fives. |
+| 460810 | 63323-468-10 | 0.25% | 10 mL Single Dose E-Z Off™Vials packaged in fives. |
 | 460210 | 63323-462-10 | 0.5% | 10 mL Single Dose E-Z Off™ Vials packaged in fives. |
 | 460230 | 63323-462-30 | 0.5% | 30 mL Single Dose Vial packaged individually. |
 | 460231 | 63323-462-31 | 0.5% | 30 mL Single Dose Vials packaged in fives. |
@@ -24,6 +23,7 @@ Without Epinephrine:
 | 460433 | 63323-464-33 | 0.25% | 30 mL ampules packaged in fives. |
 | 460430 | 63323-464-30 | 0.25% | 30 mL Single Dose Vial packaged individually. |
 | 460431 | 63323-464-31 | 0.25% | 30 mL Single Dose Vials packaged in fives. |
+| 460610 | 63323-466-10 | 0.5% | 10 mL Single Dose E-Z Off™ Vials packaged in fives. |
 | 460630 | 63323-466-30 | 0.5% | 30 mL Single Dose Vial packaged individually. |
 | 460631 | 63323-466-31 | 0.5% | 30 mL Single Dose Vials packaged in fives. |
 | 460633 | 63323-463-33 | 0.5% | 30 mL ampules packaged in fives. |
