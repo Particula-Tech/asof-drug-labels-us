@@ -13,9 +13,11 @@ There is no general agreement that all of the procedures recommended in the guid
 
 ## 16.2 How Supplied
 
-TREANDA (bendamustine hydrochloride) for Injection is supplied in individual cartons of 20 mL amber single-use vials containing 100 mg of bendamustine hydrochloride as a white to off-white lyophilized powder.
+TREANDA (bendamustine hydrochloride) for Injection is supplied in individual cartons as follows:
 
-NDC 63459-391-20 TREANDA (bendamustine hydrochloride) for Injection, 100 mg/vial
+NDC 63459-390-08 TREANDA (bendamustine hydrochloride) for Injection, 25 mg in 8 mL amber single-use vial
+
+NDC 63459-391-20 TREANDA (bendamustine hydrochloride) for Injection, 100 mg in 20 mL amber single-use vial
 
 ## 16.3 Storage
 

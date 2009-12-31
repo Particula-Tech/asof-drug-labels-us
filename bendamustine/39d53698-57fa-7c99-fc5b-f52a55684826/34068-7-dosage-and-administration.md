@@ -11,7 +11,7 @@ Dose Delays, Dose Modifications and Reinitiation of Therapy for CLL:
 TREANDA administration should be delayed in the event of Grade 4 hematologic toxicity or clinically significant ≥ Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], TREANDA can be reinitiated at the discretion of the treating physician.
 In addition, dose reduction may be warranted.
-[See Warnings and Precautions(5.1)]
+[See Warnings and Precautions (5.1)]
 
 Dose modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
 
@@ -30,33 +30,33 @@ Dose Delays, Dose Modifications and Reinitiation of Therapy for NHL:
 TREANDA administration should be delayed in the event of a Grade 4 hematologic toxicity or clinically significant ≥ Grade 2 non-hematologic toxicity.
 Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], TREANDA can be reinitiated at the discretion of the treating physician.
 In addition, dose reduction may be warranted.
-[See Warnings and Precautions(5.1)]
+[See Warnings and Precautions (5.1)]
 
 Dose modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
 
 Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
 
-## 2.3 General Considerations for Tumor Lysis Syndrome
+## 2.3 Reconstitution/Preparation for Intravenous Administration
 
-Consider using allopurinol as prevention for patients at high risk of tumor lysis syndrome for the first few weeks of treatment.
-
-## 2.4 Reconstitution/Preparation for Intravenous Administration
-
-- Aseptically reconstitute each 100 mg TREANDA vial with 20 mL of only Sterile Water for Injection, USP.
-  Shake well to yield a clear, colorless to a pale yellow solution with a bendamustine HCl concentration of 5 mg/mL.The lyophilized powder should completely dissolve in 5 minutes.
+- Aseptically reconstitute each TREANDA vial as follows:Shake well to yield a clear, colorless to a pale yellow solution with a bendamustine HCl concentration of 5 mg/mL.
+  The lyophilized powder should completely dissolve in 5 minutes.
   If particulate matter is observed, the reconstituted product should not be used.
+  - 25 mg TREANDA vial: Add 5 mL of only Sterile Water for Injection, USP.
+  - 100 mg TREANDA vial: Add 20 mL of only Sterile Water for Injection, USP.
 - Aseptically withdraw the volume needed for the required dose (based on 5 mg/mL concentration) and immediately transfer to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
   As an alternative to 0.9% Sodium Chloride Injection, USP (normal saline), a 500 mL infusion bag of 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, may be considered.
   The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.6 mg/mL.
   The reconstituted solution must be transferred to the infusion bag within 30 minutes of reconstitution.
   After transferring, thoroughly mix the contents of the infusion bag.
   The admixture should be a clear and colorless to slightly yellow solution.
-  Use Sterile Water for Injection, USP, for reconstitution and then either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.
-  No other diluents have been shown to be compatible.
-  Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-  Any unused solution should be discarded according to institutional procedures for antineoplastics.
 
-## 2.5 Admixture Stability
+Use Sterile Water for Injection, USP, for reconstitution and then either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.
+No other diluents have been shown to be compatible.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Any unused solution should be discarded according to institutional procedures for antineoplastics.
+
+## 2.4 Admixture Stability
 
 TREANDA contains no antimicrobial preservative.
 The admixture should be prepared as close as possible to the time of patient administration.

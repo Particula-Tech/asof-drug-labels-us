@@ -5,12 +5,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following serious adverse reactions have been associated with TREANDA in clinical trials and are discussed in greater detail in other sections of the label.
 
-- Myelosuppression [See Warnings and Precautions(5.1)]
-- Infections [See Warnings and Precautions(5.2)]
-- Infusion Reactions and Anaphylaxis [See Warnings and Precautions(5.3)]
-- Tumor Lysis Syndrome [See Warnings and Precautions(5.4)]
-- Skin Reactions [See Warnings and Precautions(5.5)]
-- Other Malignancies [See Warnings and Precautions(5.6)]
+- Myelosuppression [See Warnings and Precautions (5.1)]
+- Infections [See Warnings and Precautions (5.2)]
+- Infusion Reactions and Anaphylaxis [See Warnings and Precautions (5.3)]
+- Tumor Lysis Syndrome [See Warnings and Precautions (5.4)]
+- Skin Reactions [See Warnings and Precautions (5.5)]
+- Other Malignancies [See Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience in CLL
 
@@ -97,90 +97,104 @@ The most common non-hematologic Grade 3 or 4 adverse reactions (≥5%) were fati
 
 Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patients Treated with TREANDA by System Organ Class and Preferred Term (N=176)
 
-| System organ class | Number (%) of patients* |  |  |
-| --- | --- | --- | --- |
-| Preferred term | All Grades | Grade 3/4 |  |
-| Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |  |
-| Cardiac Disorders |  |  |  |
-| Tachycardia | 13 (7) | 0 |  |
-| Gastrointestinal disorders |  |  |  |
-| Nausea | 132 (75) | 7 (4) |  |
-| Vomiting | 71 (40) | 5 (3) |  |
-| Diarrhea | 65 (37) | 6 (3) |  |
-| Constipation | 51 (29) | 1 (<1) |  |
-| Stomatitis | 27 (15) | 1 (<1) |  |
-| Abdominal pain | 22 (13) | 2 (1) |  |
-| Dyspepsia | 20 (11) | 0 |  |
-| Gastroesophageal reflux disease | 18 (10) | 0 |  |
-| Dry mouth | 15 (9) | 1 (<1) |  |
-| Abdominal pain upper | 8 (5) | 0 |  |
-| Abdominal distension | 8 (5) | 0 |  |
-| General disorders and administration site conditions |  |  |  |
-| Fatigue | 101 (57) | 19 (11) |  |
-| Pyrexia | 59 (34) | 3 (2) |  |
-| Chills | 24 (14) | 0 |  |
-| Edema peripheral | 23 (13) | 1 (<1) |  |
-| Asthenia | 19 (11) | 4 (2) |  |
-| Chest pain | 11 (6) | 1 (<1) |  |
-| Infusion site pain | 11 (6) | 0 |  |
-| Pain | 10 (6) | 0 |  |
-| Catheter site pain | 8 (5) | 0 |  |
-| Infections and infestations |  |  |  |
-| Herpes zoster | 18 (10) | 5 (3) |  |
-| Upper respiratory tract infection | 18 (10) | 0 |  |
-| Urinary tract infection | 17 (10) | 4 (2) |  |
-| Sinusitis | 15 (9) | 0 |  |
-| Pneumonia | 14 (8) | 9 (5) |  |
-| Febrile Neutropenia | 11 (6) | 11 (6) |  |
-| Oral Candidiasis | 11 (6) | 2 (1) |  |
-| Nasopharyngitis | 11 (6) | 0 |  |
-| Investigations |  |  |  |
-| Weight decreased | 31 (18) | 3 (2) |  |
-| Metabolism and nutrition disorders |  |  |  |
-| Anorexia | 40 (23) | 3 (2) |  |
-| Dehydration | 24 (14) | 8 (5) |  |
-| Decreased appetite | 22 (13) | 1 (<1) |  |
-| Hypokalemia | 15 (9) | 9 (5) |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-| Back pain | 25 (14) | 5 (3) |  |
-| Arthralgia | 11 (6) | 0 |  |
-| Pain in extremity | 8 (5) | 2 (1) |  |
-| Bone pain | 8 (5) | 0 |  |
-| Nervous system disorders |  |  |  |
-| Headache | 36 (21) | 0 |  |
-| Dizziness | 25 (14) | 0 |  |
-| Dysgeusia | 13 (7) | 0 |  |
-| Psychiatric disorders |  |  |  |
-| Insomnia | 23 (13) | 0 |  |
-| Anxiety | 14 (8) | 1 (<1) |  |
-| Depression | 10 (6) | 0 |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-| Cough | 38 (22) | 1 (<1) |  |
-| Dyspnea | 28 (16) | 3 (2) |  |
-| Pharyngolaryngeal pain | 14 (8) | 1 (<1) |  |
-| Wheezing | 8 (5) | 0 |  |
-| Nasal congestion | 8 (5) | 0 |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-| Rash | 28 (16) | 1 (<1) |  |
-| Pruritus | 11 (6) | 0 |  |
-| Dry skin | 9 (5) | 0 |  |
-| Night sweats | 9 (5) | 0 |  |
-| Hyperhidrosis | 8 (5) | 0 |  |
-| Vascular disorders |  |  |  |
-| Hypotension | 10 (6) | 2 (1) |  |
-| *Patients may have reported more than 1 adverse reaction. NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |  |
+| System organ class | Number (%) of patients* |  |
+| --- | --- | --- |
+| Preferred term | All Grades | Grade 3/4 |
+| Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |
+| Cardiac Disorders |  |  |
+| Tachycardia | 13 (7) | 0 |
+| Gastrointestinal disorders |  |  |
+| Nausea | 132 (75) | 7 (4) |
+| Vomiting | 71 (40) | 5 (3) |
+| Diarrhea | 65 (37) | 6 (3) |
+| Constipation | 51 (29) | 1 (<1) |
+| Stomatitis | 27 (15) | 1 (<1) |
+| Abdominal pain | 22 (13) | 2 (1) |
+| Dyspepsia | 20 (11) | 0 |
+| Gastroesophageal reflux disease | 18 (10) | 0 |
+| Dry mouth | 15 (9) | 1 (<1) |
+| Abdominal pain upper | 8 (5) | 0 |
+| Abdominal distension | 8 (5) | 0 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 101 (57) | 19 (11) |
+| Pyrexia | 59 (34) | 3 (2) |
+| Chills | 24 (14) | 0 |
+| Edema peripheral | 23 (13) | 1 (<1) |
+| Asthenia | 19 (11) | 4 (2) |
+| Chest pain | 11 (6) | 1 (<1) |
+| Infusion site pain | 11 (6) | 0 |
+| Pain | 10 (6) | 0 |
+| Catheter site pain | 8 (5) | 0 |
+| Infections and infestations |  |  |
+| Herpes zoster | 18 (10) | 5 (3) |
+| Upper respiratory tract infection | 18 (10) | 0 |
+| Urinary tract infection | 17 (10) | 4 (2) |
+| Sinusitis | 15 (9) | 0 |
+| Pneumonia | 14 (8) | 9 (5) |
+| Febrile Neutropenia | 11 (6) | 11 (6) |
+| Oral Candidiasis | 11 (6) | 2 (1) |
+| Nasopharyngitis | 11 (6) | 0 |
+| Investigations |  |  |
+| Weight decreased | 31 (18) | 3 (2) |
+| Metabolism and nutrition disorders |  |  |
+| Anorexia | 40 (23) | 3 (2) |
+| Dehydration | 24 (14) | 8 (5) |
+| Decreased appetite | 22 (13) | 1 (<1) |
+| Hypokalemia | 15 (9) | 9 (5) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 25 (14) | 5 (3) |
+| Arthralgia | 11 (6) | 0 |
+| Pain in extremity | 8 (5) | 2 (1) |
+| Bone pain | 8 (5) | 0 |
+| Nervous system disorders |  |  |
+| Headache | 36 (21) | 0 |
+| Dizziness | 25 (14) | 0 |
+| Dysgeusia | 13 (7) | 0 |
+| Psychiatric disorder |  |  |
+| Insomnia | 23 (13) | 0 |
+| Anxiety | 14 (8) | 1 (<1) |
+| Depression | 10 (6) | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Cough | 38 (22) | 1 (<1) |
+| Dyspnea | 28 (16) | 3 (2) |
+| Pharyngolaryngeal pain | 14 (8) | 1 (<1) |
+| Wheezing | 8 (5) | 0 |
+| Nasal congestion | 8 (5) | 0 |
+| Skin and subcutaneous tissue disorders |  |  |
+| Rash | 28 (16) | 1 (<1) |
+| Pruritus | 11 (6) | 0 |
+| Dry skin | 9 (5) | 0 |
+| Night sweats | 9 (5) | 0 |
+| Hyperhidrosis | 8 (5) | 0 |
+| Vascular disorders |  |  |
+| Hypotension | 10 (6) | 2 (1) |
+| *Patients may have reported more than 1 adverse reaction. NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
 Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at Grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
+
+Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Received TREANDA in the NHL Studies
+
+|  | Percent of Patients |  |
+| --- | --- | --- |
+| Hematology variable | All Grades | Grade 3/4 |
+| Lymphocytes Decreased | 99 | 94 |
+| Leukocytes Decreased | 94 | 56 |
+| Hemoglobin Decreased | 88 | 11 |
+| Neutrophils Decreased | 86 | 60 |
+| Platelets Decreased | 86 | 25 |
 
 In both studies, serious adverse reactions, regardless of causality, were reported in 37% of patients receiving TREANDA.
 The most common serious adverse reactions occurring in ≥5% of patients were febrile neutropenia and pneumonia.
 Other important serious adverse reactions reported in clinical trials and/or post-marketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
-Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions [see Warnings and Precautions(5)].
+Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions [see Warnings and Precautions (5)].
 Adverse reactions occurring less frequently but possibly related to TREANDA treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
 ## 6.3 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of TREANDA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including pruritus, irritation, pain, and swelling.
+
+Skin reactions including SJS and TEN have occurred when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
+[See Warnings and Precautions (5.5)].

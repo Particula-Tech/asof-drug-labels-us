@@ -11,7 +11,7 @@ In the clinical trials, blood counts were monitored every week initially.
 Hematologic nadirs were observed predominantly in the third week of therapy.
 Hematologic nadirs may require dose delays if recovery to the recommended values have not occurred by the first day of the next scheduled cycle.
 Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 109/L and the platelet count should be ≥ 75 x 109/L.
-[See Dosage and Administration(2.1), (2.2)]
+[See Dosage and Administration (2.1) and (2.2)]
 
 ## 5.2 Infections
 
@@ -35,17 +35,23 @@ Discontinuation should be considered in patients with Grade 3 or 4 infusion reac
 
 Tumor lysis syndrome associated with TREANDA treatment has been reported in patients in clinical trials and in post-marketing reports.
 The onset tends to be within the first treatment cycle of TREANDA and, without intervention, may lead to acute renal failure and death.
-Preventive measures include maintaining adequate volume status, close monitoring of blood chemistry, particularly potassium and uric acid levels, and the use of allopurinol during the first few weeks of TREANDA therapy in patients at high risk.
+Preventive measures include maintaining adequate volume status, and close monitoring of blood chemistry, particularly potassium and uric acid levels.
+Allopurinol has also been used during the beginning of TREANDA therapy.
+However, there may be an increased risk of severe skin toxicity when TREANDA and allopurinol are administered concomitantly [see Warnings and Precautions (5.5)].
 
 ## 5.5 Skin Reactions
 
 A number of skin reactions have been reported in clinical trials and post-marketing safety reports.
 These events have included rash, toxic skin reactions and bullous exanthema.
 Some events occurred when TREANDA was given in combination with other anticancer agents, so the precise relationship to TREANDA is uncertain.
+
 In a study of TREANDA (90 mg/m2) in combination with rituximab, one case of toxic epidermal necrolysis (TEN) occurred.
 TEN has been reported for rituximab (see rituximab package insert).
+Cases of Stevens-Johnson syndrome (SJS) and TEN, some fatal, have been reported when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
 The relationship to TREANDA cannot be determined.
+
 Where skin reactions occur, they may be progressive and increase in severity with further treatment.
+Therefore, patients with skin reactions should be monitored closely.
 If skin reactions are severe or progressive, TREANDA should be withheld or discontinued.
 
 ## 5.6 Other Malignancies
@@ -57,4 +63,4 @@ The association with TREANDA therapy has not been determined.
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine in mice and rats administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.
-[See Use in Specific Populations(8.1)]
+[See Use in Specific Populations (8.1)]

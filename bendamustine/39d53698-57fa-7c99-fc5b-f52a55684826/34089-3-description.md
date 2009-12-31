@@ -5,7 +5,8 @@ The chemical name of bendamustine hydrochloride is 1H-benzimidazole-2-butanoic a
 Its empirical molecular formula is C16H21Cl2N3O2 ∙ HCl, and the molecular weight is 394.7.
 Bendamustine hydrochloride contains a mechlorethamine group and a benzimidazole heterocyclic ring with a butyric acid substituent, and has the following structural formula:
 
-TREANDA (bendamustine hydrochloride) for Injection is intended for intravenous infusion only after reconstitution with 20 mL of Sterile Water for Injection, USP, and after further dilution with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
+TREANDA (bendamustine hydrochloride) for Injection is intended for intravenous infusion only after reconstitution with Sterile Water for Injection, USP, and after further dilution with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
 It is supplied as a sterile non-pyrogenic white to off-white lyophilized powder in a single-use vial.
-Each vial contains 100 mg of bendamustine hydrochloride and 170 mg of mannitol, USP.
+Each 25-mg vial contains 25 mg of bendamustine hydrochloride and 42.5 mg of mannitol, USP.
+Each 100-mg vial contains 100 mg of bendamustine hydrochloride and 170 mg of mannitol, USP.
 The pH of the reconstituted solution is 2.5 - 3.5.

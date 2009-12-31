@@ -49,7 +49,7 @@ Bendamustine has not been studied in patients with CrCL < 40 mL/min.
 
 These results are however limited, and therefore bendamustine should be used with caution in patients with mild or moderate renal impairment.
 Bendamustine should not be used in patients with CrCL < 40 mL/min.
-[See Use in Specific Populations(8.6)]
+[See Use in Specific Populations (8.6)]
 
 ### Hepatic Impairment
 
@@ -58,18 +58,18 @@ Bendamustine has not been studied in patients with moderate or severe hepatic im
 
 These results are however limited, and therefore bendamustine should be used with caution in patients with mild hepatic impairment.
 Bendamustine should not be used in patients with moderate (AST or ALT 2.5 - 10 x ULN and total bilirubin 1.5 - 3 x ULN) or severe (total bilirubin > 3 x ULN) hepatic impairment.
-[See Use in Specific Populations(8.7)]
+[See Use in Specific Populations (8.7)]
 
 ### Effect of Age
 
 Bendamustine exposure (as measured by AUC and Cmax) has been studied in patients ages 31 through 84 years.
 The pharmacokinetics of bendamustine (AUC and Cmax) were not significantly different between patients less than or greater than/equal to 65 years of age.
-[See Use in Specific Populations(8.4, 8.5)]
+[See Use in Specific Populations (8.4, 8.5)]
 
 ### Effect of Gender
 
 The pharmacokinetics of bendamustine were similar in male and female patients.
-[See Use in Specific Populations(8.8)]
+[See Use in Specific Populations (8.8)]
 
 ### Effect of Race
 

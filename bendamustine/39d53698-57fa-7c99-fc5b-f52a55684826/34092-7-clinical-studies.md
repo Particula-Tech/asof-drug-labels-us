@@ -29,9 +29,7 @@ Table 5: Efficacy Data for CLL
 | Progression-Free Survival†† |  |  |  |
 | Median, months (95% CI) | 18 (11.7, 23.5) | 6 (5.6, 8.6) |  |
 | Hazard ratio (95% CI) | 0.27 (0.17, 0.43) |  | <0.0001 |
-
-CI = confidence interval * CR was defined as peripheral lymphocyte count ≤ 4.0 x 109/L, neutrophils ≥ 1.5 x 109/L, platelets >100 x 109/L, hemoglobin > 110g/L, without transfusions, absence of palpable hepatosplenomegaly, lymph nodes ≤ 1.5 cm, < 30% lymphocytes without nodularity in at least a normocellular bone marrow and absence of “B” symptoms.
-The clinical and laboratory criteria were required to be maintained for a period of at least 56 days. ** nPR was defined as described for CR with the exception that the bone marrow biopsy shows persistent nodules. † PR was defined as ≥ 50% decrease in peripheral lymphocyte count from the pretreatment baseline value, and either ≥50% reduction in lymphadenopathy, or ≥50% reduction in the size of spleen or liver, as well as one of the following hematologic improvements: neutrophils ≥ 1.5 x 109/L or 50% improvement over baseline, platelets >100 x 109/L or 50% improvement over baseline, hemoglobin >110g/L or 50% improvement over baseline without transfusions, for a period of at least 56 days. †† PFS was defined as time from randomization to progression or death from any cause.
+| CI = confidence interval * CR was defined as peripheral lymphocyte count ≤ 4.0 x 109/L, neutrophils ≥ 1.5 x 109/L, platelets >100 x 109/L, hemoglobin > 110g/L, without transfusions, absence of palpable hepatosplenomegaly, lymph nodes ≤ 1.5 cm, < 30% lymphocytes without nodularity in at least a normocellular bone marrow and absence of “B” symptoms. The clinical and laboratory criteria were required to be maintained for a period of at least 56 days. ** nPR was defined as described for CR with the exception that the bone marrow biopsy shows persistent nodules. † PR was defined as ≥50% decrease in peripheral lymphocyte count from the pretreatment baseline value, and either ≥50% reduction in lymphadenopathy, or ≥50% reduction in the size of spleen or liver, as well as one of the following hematologic improvements: neutrophils ≥ 1.5 x 109/L or 50% improvement over baseline, platelets >100 x 109/L or 50% improvement over baseline, hemoglobin >110g/L or 50% improvement over baseline without transfusions, for a period of at least 56 days. †† PFS was defined as time from randomization to progression or death from any cause. |  |  |  |
 
 Kaplan-Meier estimates of progression-free survival comparing TREANDA with chlorambucil are shown in Figure 1.
 
@@ -60,7 +58,4 @@ Table 6: Efficacy Data for NHL*
 | Partial response (PR) | 57 |
 | Duration of Response (DR) |  |
 | Median, months (95% CI) | 9.2 months (7.1, 10.8) |
-
-CI = confidence interval *IRC assessment was based on modified International Working Group response criteria (IWG-RC) 2.
-Modifications to IWG-RC specified that a persistently positive bone marrow in patients who met all other criteria for CR would be scored as PR.
-Bone marrow sample lengths were not required to be ≥20 mm.
+| CI = confidence interval *IRC assessment was based on modified International Working Group response criteria (IWG-RC) 2. Modifications to IWG-RC specified that a persistently positive bone marrow in patients who met all other criteria for CR would be scored as PR. Bone marrow sample lengths were not required to be ≥20 mm. |  |

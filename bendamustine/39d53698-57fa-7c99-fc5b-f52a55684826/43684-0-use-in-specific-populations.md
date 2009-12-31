@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See Warnings and Precautions(5.7)]
+Pregnancy Category D [See Warnings and Precautions (5.7)]
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine from 210 mg/m2 (70 mg/kg) in mice administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities) and decreased fetal body weights.
@@ -44,14 +44,14 @@ Irrespective of age, all of the 176 patients experienced at least one adverse re
 No formal studies assessing the impact of renal impairment on the pharmacokinetics of bendamustine have been conducted.
 TREANDA should be used with caution in patients with mild or moderate renal impairment.
 TREANDA should not be used in patients with CrCL < 40 mL/min.
-[See Clinical Pharmacology(12.3)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.7 Hepatic Impairment
 
 No formal studies assessing the impact of hepatic impairment on the pharmacokinetics of bendamustine have been conducted.
 TREANDA should be used with caution in patients with mild hepatic impairment.
 TREANDA should not be used in patients with moderate (AST or ALT 2.5-10 X ULN and total bilirubin 1.5-3 X ULN) or severe (total bilirubin > 3 X ULN) hepatic impairment.
-[See Clinical Pharmacology(12.3)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.8 Effect of Gender
 

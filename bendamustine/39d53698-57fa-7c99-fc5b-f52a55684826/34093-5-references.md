@@ -1,6 +1,6 @@
 # 15 REFERENCES
 
-1. Cheson et al. National Cancer Institute –sponsored Working Group Guidelines for Chronic Lymphocytic Leukemia.
+1. Cheson et al. National Cancer Institute – sponsored Working Group Guidelines for Chronic Lymphocytic Leukemia.
    Blood Vol 87 1996:pp 4990.
 2. Report of an International Workshop to Standardize Response Criteria for Non-Hodgkin’s Lymphomas.
    J Clin Oncol.
