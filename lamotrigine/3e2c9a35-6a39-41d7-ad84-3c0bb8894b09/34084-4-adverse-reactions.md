@@ -134,7 +134,7 @@ Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficienc
 Metabolic and Nutritional Disorders:Infrequent: Aspartate transaminase increased.
 Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, general edema, gamma glutamyl transpeptidase increase, and hyperglycemia.
 
-Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
+Musculoskeletal System:Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
 Rare: Bursitis, muscle atrophy, pathological fracture, and tendinous contracture.
 
 Nervous System:Frequent: Confusion and paresthesia.
@@ -144,7 +144,7 @@ Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal 
 Respiratory System:Infrequent: Yawn.
 Rare: Hiccup and hyperventilation.
 
-Special Senses: Frequent: Amblyopia.
+Special Senses:Frequent: Amblyopia.
 Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, and tinnitus.
 Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, and visual field defect.
 

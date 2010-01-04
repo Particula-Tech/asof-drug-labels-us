@@ -61,7 +61,7 @@ Patients With Renal Impairment: Initial doses of LAMICTAL XR should be based on 
 Few patients with severe renal impairment have been evaluated during chronic treatment with immediate-release lamotrigine.
 Because there is inadequate experience in this population, LAMICTAL XR should be used with caution in these patients.
 
-Discontinuation Strategy: For patients receiving LAMICTAL XR in combination with other AEDs, a reevaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
+Discontinuation Strategy: For patients receiving LAMICTAL XR in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
 If a decision is made to discontinue therapy with LAMICTAL XR, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.8)].
 
