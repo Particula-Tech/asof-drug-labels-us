@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA077828"
+  ],
+  "inn": "levodopa",
+  "labeler": "SUN PHARMACEUTICAL INDUSTRIES LIMITED",
+  "package_ndcs": [
+    "62756-457-08",
+    "62756-457-18",
+    "62756-457-83",
+    "62756-457-88",
+    "62756-461-08",
+    "62756-461-18",
+    "62756-461-83",
+    "62756-461-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "carbidopa and levodopa",
+      "name": "Carbidopa and Levodopa"
+    }
+  ],
+  "setid": "d2a64f14-f638-49d9-8a96-cb7ae46ac3ea",
+  "source": "dailymed"
+}
