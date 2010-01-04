@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA079029"
+  ],
+  "inn": "amiodarone",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-631-05",
+    "65841-631-06",
+    "65841-631-10",
+    "65841-631-14",
+    "65841-631-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amiodarone hydrochloride",
+      "name": "Amiodarone hydrochloride"
+    }
+  ],
+  "setid": "3e8db251-e3c5-4fba-be9a-6044a92f0beb",
+  "source": "dailymed"
+}
