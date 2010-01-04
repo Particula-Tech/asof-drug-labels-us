@@ -115,7 +115,7 @@ PEDIATRIC INDUCTION OF ANESTHESIA
 TABLE 2.
 PEDIATRIC MAINTENANCE OF ANESTHESIA
 
-| Age Range | Maintenance Dosage (mcg/kg/min) | Duration(minutes) |
+| Age Range | Maintenance Dosage (mcg/kg/min) | Duration (minutes) |
 | --- | --- | --- |
 | 2 months to 2 years | 199 (82 - 394) | 65 (12 - 282) |
 | 2 to 12 years | 188 (12 - 1041) | 69 (23 - 374) |
@@ -174,7 +174,7 @@ Cardiac Anesthesia
 
 Propofol injectable emulsion was evaluated in clinical trials involving patients undergoing coronary artery bypass graft (CABG).
 
-In post-CABG (coronary artery bypass graft) patients, the maintenance rate of propofoladministration was usually low (median 11 mcg/kg/min) due to the intraoperative administration of high opioid doses.
+In post-CABG (coronary artery bypass graft) patients, the maintenance rate of propofol administration was usually low (median 11 mcg/kg/min) due to the intraoperative administration of high opioid doses.
 Patients receiving propofol injectable emulsion required 35% less nitroprusside than midazolam patients.
 During initiation of sedation in post-CABG patients, a 15% to 20% decrease in blood pressure was seen in the first 60 minutes.
 It was not possible to determine cardiovascular effects in patients with severely compromised ventricular function.

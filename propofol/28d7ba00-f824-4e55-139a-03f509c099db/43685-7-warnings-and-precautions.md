@@ -114,7 +114,7 @@ In those patients where additional fluid therapy may be contraindicated, other m
 
 ## Information for Patients:
 
-Patients should be advised that performance of activities requiring mental alertness, such as operating a motor vehicle, or hazardous machinery or signing legal documents, may be impaired forsome time after general anesthesia or sedation.
+Patients should be advised that performance of activities requiring mental alertness, such as operating a motor vehicle, or hazardous machinery or signing legal documents, may be impaired for some time after general anesthesia or sedation.
 
 ## Drug Interactions:
 

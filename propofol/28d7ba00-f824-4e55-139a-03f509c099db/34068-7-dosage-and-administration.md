@@ -62,7 +62,7 @@ A slow rate of approximately 20 mg every 10 seconds until induction onset (0.5 t
 In order to assure adequate anesthesia, when propofol injectable emulsion is used as the primary agent, maintenance infusion rates should not be less than 100 mcg/kg/min and should be supplemented with analgesic levels of continuous opioid administration.
 When an opioid is used as the primary agent, propofol injectable emulsion maintenance rates should not be less than 50 mcg/kg/min, and care should be taken to ensure amnesia.
 Higher doses of propofol injectable emulsion will reduce the opioid requirements (see TABLE 4).
-When propofol injectable emulsion is used as the primary anesthetic, it should not be administered with the high-dose opioid technique as this may increase the likelihood of hypotension (see PRECAUTIONS- Cardiac Anesthesia).
+When propofol injectable emulsion is used as the primary anesthetic, it should not be administered with the high-dose opioid technique as this may increase the likelihood of hypotension (see PRECAUTIONS - Cardiac Anesthesia).
 
 TABLE 4.
 CARDIAC ANESTHESIA TECHNIQUES
@@ -73,7 +73,7 @@ CARDIAC ANESTHESIA TECHNIQUES
 | Preinduction |  |  |  |  |
 | Anxiolysis |  | 25 mcg/kg/min |  |  |
 | Induction |  | 0.5 - 1.5 mg/kgOver 60 sec |  |  |
-| Maintenance (Titrated to Clinical Response) |  | 100 - 150 mcg/kg/min |  |  |
+| Maintenance(Titrated to Clinical Response) |  | 100 - 150 mcg/kg/min |  |  |
 | OPIOIDb |  |  |  | Propofol Injectable Emulsion/50 - 100 mcg/kg/min (no bolus) |
 | Induction |  | 25 - 50 mcg/kg |  |  |
 | Maintenance |  | 0.2 - 0.3 mcg/kg/min |  |  |
@@ -149,9 +149,7 @@ Propofol injectable emulsion can be administered as the sole agent for maintenan
 When propofol injectable emulsion sedation is supplemented with opioid and/or benzodiazepine medications, these agents increase the sedative and respiratory effects of propofol injectable emulsion and may also result in a slower recovery profile.
 (See PRECAUTIONS - Drug Interactions.)
 
-ICU Sedation: (See WARNINGS and DOSAGE AND ADMINISTRATION - Handling
-
-Procedures.)
+ICU Sedation: (See WARNINGS and DOSAGE AND ADMINISTRATION - Handling Procedures.)
 
 Abrupt discontinuation of propofol injectable emulsion prior to weaning or for daily evaluation of sedation levels should be avoided.
 This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation.
@@ -196,9 +194,9 @@ For complete dosage information, see DOSAGE AND ADMINISTRATION.
 
 | INDICATION | DOSAGE AND ADMINISTRATION |  |  |
 | --- | --- | --- | --- |
-| Induction of General Anesthesia | Healthy Adults Less Than 55 Years of Age: 40 mg every 10 seconds until induction onset (2 to 2.5 mg/kg). Elderly, Debilitated, or ASA-PS III or IV Patients: 20 mg every 10 seconds until induction onset (1 to 1.5 mg/kg).Cardiac Anesthesia: 20 mg every 10 seconds until induction onset (0.5 to 1.5 mg/kg).Neurosurgical Patients: 20 mg every 10 seconds until induction onset (1 to 2 mg/kg).Pediatric Patients - healthy, from 3 years to 16 years of age: 2.5 to 3.5 mg/kg administered over 20 to 30 seconds.(See PRECAUTIONS- Pediatric Use and CLINICAL PHARMACOLOGY - Pediatrics.) |  |  |
-| Maintenance of General Anesthesia: | InfusionHealthy Adults Less Than 55 Years of Age: 100 to 200 mcg/kg/min (6 to 12 mg/kg/h).Elderly, Debilitated, ASA-PS III or IV Patients: 50 to 100 mcg/kg/min (3 to 6 mg/kg/h).Cardiac Anesthesia: Most patients require:Primary Propofol Injectable Emulsion with Secondary Opioid - 100 to 150 mcg/kg/min.Low-dose Propofol Injectable Emulsion with Primary Opioid - 50 to 100 mcg/kg/min. (See DOSAGE AND ADMINISTRATION, TABLE 4.)Neurosurgical Patients: 100 to 200 mcg/kg/min (6 to 12 mg/kg/h).Pediatric Patients - healthy, from 2 months of age to 16 years of age: 125 to 300 mcg/kg/min (7.5 to 18 mg/kg/h).Following the first half hour of maintenance, if clinical signs of light anesthesia are not present, the infusion rate should be decreased. (See PRECAUTIONS- Pediatric Use and CLINICAL PHARMACOLOGY - Pediatrics.) |  |  |
-| Maintenance of General Anesthesia: | Intermittent BolusHealthy Adults Less Than 55 Years of Age: Increments of 20 to 50 mg as needed. |  |  |
+| Induction of General Anesthesia | Healthy Adults Less Than 55 Years of Age: 40 mg every 10 seconds until induction onset (2 to 2.5 mg/kg). Elderly, Debilitated, or ASA-PS III or IV Patients: 20 mg every 10 seconds until induction onset (1 to 1.5 mg/kg).Cardiac Anesthesia: 20 mg every 10 seconds until induction onset (0.5 to 1.5 mg/kg).Neurosurgical Patients: 20 mg every 10 seconds until induction onset (1 to 2 mg/kg).Pediatric Patients - healthy, from 3 years to 16 years of age: 2.5 to 3.5 mg/kg administered over 20 to 30 seconds.(See PRECAUTIONS - Pediatric Use and CLINICAL PHARMACOLOGY - Pediatrics.) |  |  |
+| Maintenance of General Anesthesia: Infusion | Healthy Adults Less Than 55 Years of Age: 100 to 200 mcg/kg/min (6 to 12 mg/kg/h).Elderly, Debilitated, ASA-PS III or IV Patients: 50 to 100 mcg/kg/min (3 to 6 mg/kg/h).Cardiac Anesthesia: Most patients require:Primary Propofol Injectable Emulsion with Secondary Opioid - 100 to 150 mcg/kg/min.Low-dose Propofol Injectable Emulsion with Primary Opioid - 50 to 100 mcg/kg/min. (See DOSAGE AND ADMINISTRATION, TABLE 4.)Neurosurgical Patients: 100 to 200 mcg/kg/min (6 to 12 mg/kg/h).Pediatric Patients - healthy, from 2 months of age to 16 years of age: 125 to 300 mcg/kg/min (7.5 to 18 mg/kg/h).Following the first half hour of maintenance, if clinical signs of light anesthesia are not present, the infusion rate should be decreased. (See PRECAUTIONS - Pediatric Use and CLINICAL PHARMACOLOGY - Pediatrics.) |  |  |
+| Maintenance of General Anesthesia: Intermittent Bolus | Healthy Adults Less Than 55 Years of Age: Increments of 20 to 50 mg as needed. |  |  |
 | Initiation of MAC Sedation | Healthy Adults Less Than 55 Years of Age: Slow infusion or slow injection techniques are recommended to avoid apnea or hypotension. Most patients require an infusion of 100 to 150 mcg/kg/min (6 to 9 mg/kg/h) for 3 to 5 minutes or a slow injection of 0.5 mg/kg over 3 to 5 minutes followed immediately by a maintenance infusion.Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients: Most patients require dosages similar to healthy adults. Rapid boluses are to be avoided. (See WARNINGS.) |  |  |
 | Maintenance of MAC Sedation | Healthy Adults Less Than 55 Years of Age: A variable rate infusion technique is preferable over an intermittent bolus technique. Most patients require an infusion of 25 to 75 mcg/kg/min (1.5 to 4.5 mg/kg/h) or incremental bolus doses of 10 mg or 20 mg.In Elderly, Debilitated, Neurosurgical, or ASA-PS III/IV Patients: Most patients require 80% of the usual adult dose. A rapid (single or repeated) bolus dose should not be used. (See WARNINGS.) |  |  |
 | Initiation and Maintenance of ICU Sedation in Intubated, Mechanically Ventilated | Adult Patients − Because of the residual effects of previous anesthetic or sedative agents, in most patients the initial infusion should be 5 mcg/kg/min (0.3 mg/kg/h) for at least 5 minutes. Subsequent increments of 5 to 10 mcg/kg/min (0.3 to 0.6 mg/kg/h) over 5 to 10 minutes may be used until desired clinical effect is achieved. Maintenance rates of 5 to 50 mcg/kg/min (0.3 to 3 mg/kg/h) or higher may be required.Evaluation of clinical effect and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of propofol injectable emulsion required for sedation.The tubing and any unused portions of propofol injectable emulsion should be discarded after 12 hours because propofol injectable emulsion contains no preservatives and is capable of supporting growth of microorganisms. (See WARNINGS and DOSAGE AND ADMINISTRATION.) |  |  |
@@ -246,13 +244,15 @@ Propofol injectable emulsion is a single-use parenteral product which contains b
 However, propofol injectable emulsion can still support the growth of microorganisms as it is not an antimicrobially preserved product under USP standards.
 Accordingly, strict aseptic technique must still be adhered to.
 Do not use if contamination is suspected.
-Discard unused portions asdirected within the required time limits (see DOSAGE AND ADMINISTRATION − Handling Procedures).
+Discard unused portions as directed within the required time limits (see DOSAGE AND ADMINISTRATION − Handling Procedures).
 There have been reports in which failure to use aseptic technique when handling propofol injectable emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life-threatening illness, and/or death.
+
+Propofol injectable emulsion, with benzyl alcohol, inhibits microbial growth for up to 12 hours, as demonstrated by test data for representative USP microorganisms.
 
 Guidelines for Aseptic Technique for General Anesthesia/MAC Sedation
 
 Propofol should be prepared for use just prior to initiation of each individual anesthetic/sedative procedure.
-Thevial rubber stopper should be disinfected using 70% isopropyl alcohol.
+The vial rubber stopper should be disinfected using 70% isopropyl alcohol.
 Propofol should be drawn into sterile syringes immediately after vials are opened.
 When withdrawing propofol from vials, a sterile vent spike should be used.
 The syringe(s) should be labeled with appropriate information including the date and time the vial was opened.

@@ -15,8 +15,8 @@ Store at 20 to 25°C (68 to 77°F).
 Do not freeze.
 Shake well before use.
 
-Revised: June, 2008
+Revised: January, 2009
 
-| Printed in USA | EN-1805 |
-| --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |
+Printed in USA EN-2029
+
+Hospira, Inc., Lake Forest, IL 60045 USA
