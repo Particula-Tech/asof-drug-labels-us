@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA077794"
+  ],
+  "inn": "oxcarbazepine",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "62756-183-08",
+    "62756-183-13",
+    "62756-183-18",
+    "62756-183-83",
+    "62756-183-88",
+    "62756-184-08",
+    "62756-184-13",
+    "62756-184-18",
+    "62756-184-83",
+    "62756-184-88",
+    "62756-185-08",
+    "62756-185-13",
+    "62756-185-18",
+    "62756-185-83",
+    "62756-185-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "oxcarbazepine",
+      "name": "Oxcarbazepine"
+    }
+  ],
+  "setid": "7ecd5eef-46f4-407f-9b63-ba65adb3eced",
+  "source": "dailymed"
+}
