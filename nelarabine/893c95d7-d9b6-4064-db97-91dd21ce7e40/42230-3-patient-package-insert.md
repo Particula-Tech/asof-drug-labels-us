@@ -38,32 +38,28 @@ ARRANON is an anti-cancer medicine used to treat adults and children who have:
 - T-cell acute lymphoblastic leukemia
 - T-cell lymphoblastic lymphoma
 
-Who should not take ARRANON?
-
-You or your child should not take ARRANON if you or your child are allergic to nelarabine, or to anything else in ARRANON.
-
-What should I tell the doctor before I or my child starts ARRANON?
+What should you tell the doctor before you or your child starts ARRANON?
 
 Tell the doctor about all health conditions you or your child have, including if you or your child:
 
 - have any nervous system problems.
 - have kidney problems.
+- are breast-feeding or plan to breast-feed.
+  It is not known whether ARRANON passes through breast milk.
+  You should not breast-feed during treatment with ARRANON.
 - are pregnant or plan to become pregnant.
   ARRANON may harm an unborn baby.
   You should use effective birth control to avoid getting pregnant.
   Talk with your doctor about your choices.
-- are breast feeding.
-  It is not known whether ARRANON passes through breast milk.
-  You should not breast feed during treatment with ARRANON.
 
 Tell the doctor about all the medicines you or your child take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
 How is ARRANON given?
 
-- ARRANON is an IV medicine.
-  This means it is given through a tube in your vein.
+ARRANON is an intravenous medicine.
+This means it is given through a tube in your vein.
 
-What should I or my child avoid during treatment with ARRANON?
+What should you or your child avoid during treatment with ARRANON?
 
 - You or your child should not drive or operate dangerous machines.
   ARRANON may cause sleepiness.
@@ -77,13 +73,11 @@ See “What is the most important information I should know about ARRANON?”
 ARRANON may also cause:
 
 - decreased blood counts such as low red blood cells, low white blood cells, and low platelets.
+  Blood tests should be done regularly to check blood counts.
   Call the doctor right away if you or your child:
   - is more tired than usual, pale, or has trouble breathing
   - has a fever or other signs of an infection
   - bruises easy or has any unusual bleeding
-
-Blood tests should be done regularly to check blood counts.
-
 - stomach area problems such as nausea, vomiting, diarrhea, and constipation
 - headache
 - sleepiness
@@ -98,15 +92,15 @@ This leaflet summarizes important information about ARRANON.
 If you have questions or problems, talk with your or your child’s doctor.
 You can ask your doctor or pharmacist for information about ARRANON that is written for healthcare providers or it is available at www.GSK.com.
 
+ARRANON is a registered trademark of GlaxoSmithKline.
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-ARRANON is a registered trademark of GlaxoSmithKline.
-
-©2006, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-July 2006
+December 2009
 
-RL-2297
+ARR:1PIL

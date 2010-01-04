@@ -1,15 +1,11 @@
+ARRANON is a registered trademark of GlaxoSmithKline.
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-ARRANON is a registered trademark of GlaxoSmithKline.
-
-©2006, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
-
-July 2006
-
-RL-2297
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

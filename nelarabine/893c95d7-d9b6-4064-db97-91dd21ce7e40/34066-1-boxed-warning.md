@@ -1,11 +1,8 @@
-# WARNING
+# WARNING: NEUROLOGIC ADVERSE REACTIONS
 
-ARRANON (nelarabine) Injection should be administered under the supervision of a physician experienced in the use of cancer chemotherapeutic agents.
-This product is for intravenous use only.
+Severe neurologic adverse reactions have been reported with the use of ARRANON.
+These adverse reactions have included altered mental states including severe somnolence, central nervous system effects including convulsions, and peripheral neuropathy ranging from numbness and paresthesias to motor weakness and paralysis.
+There have also been reports of adverse reactions associated with demyelination, and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome [see Warnings and Precautions (5.1)].
 
-Neurologic Events: Severe neurologic events have been reported with the use of ARRANON.
-These events have included altered mental states including severe somnolence, central nervous system effects including convulsions, and peripheral neuropathy ranging from numbness and paresthesias to motor weakness and paralysis.
-There have also been reports of events associated with demyelination, and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome.
-
-Full recovery from these events has not always occurred with cessation of therapy with ARRANON.
-Close monitoring for neurologic events is strongly recommended, and ARRANON should be discontinued for neurologic events of NCI Common Toxicity Criteria grade 2 or greater.
+Full recovery from these adverse reactions has not always occurred with cessation of therapy with ARRANON.
+Close monitoring for neurologic adverse reactions is strongly recommended, and ARRANON should be discontinued for neurologic adverse reactions of NCI Common Toxicity Criteria grade 2 or greater [see Warnings and Precautions (5.1)].

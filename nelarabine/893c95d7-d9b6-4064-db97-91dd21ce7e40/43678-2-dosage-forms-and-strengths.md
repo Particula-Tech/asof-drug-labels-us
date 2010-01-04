@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+250 mg/50 mL (5 mg/mL) vial
