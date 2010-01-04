@@ -21,24 +21,25 @@ Thereafter, steady concentrations are maintained for up to 96 hours.
 Absorption of oxybutynin is bioequivalent when OXYTROL is applied to the abdomen, buttocks, or hip.
 Average plasma concentrations measured during a randomized, crossover study of the three recommended application sites in 24 healthy men and women are shown in Figure 2.
 
+Figure 2: Average plasma oxybutynin concentrations (Cp) in 24 healthy male and female volunteers during single-dose application of OXYTROL 3.9 mg/day to the abdomen, buttock, and hip (System removal at 96 hours).
+
 Steady-state conditions are reached during the second OXYTROL application.
 Average steady-state plasma concentrations were 3.1 ng/mL for oxybutynin and 3.8 ng/mL for N-desethyloxybutynin (Figure 3).
 Table 1 provides a summary of pharmacokinetic parameters of oxybutynin in healthy volunteers after single and multiple applications of OXYTROL.
 
+Figure 3: Average (SEM) steady-state oxybutynin and N-desethyloxybutynin plasma concentrations (Cp) measured in 13 healthy volunteers following the second transdermal system application in a multiple-dose, randomized, crossover study.
+
 Table 1: Mean (SD) oxybutynin pharmacokinetic parameters from single and multiple dose studies in healthy men and women volunteers after application of OXYTROL on the abdomen.
 
-|  | (ng/mL) | (hr) | (ng/mL) | (ng/mLxh) |
+|  | Cmax (SD) (ng/mL) | Tmax1 (hr) | Cavg (SD) (ng/mL) | AUC (SD) (ng/mLxh) |
 | --- | --- | --- | --- | --- |
 | Dosing | Oxybutynin |  |  |  |
-|  | Cmax (SD) | Tmax1 | Cavg (SD) | AUC (SD) |
 | Single | 3.0 (0.8) | 48 | — | 245 (59) 2 |
 |  | 3.4(1.1) | 36 | — | 279 (99) 2 |
 | Multiple | 6.6(2.4) | 10 | 4.2(1.1) | 408 (108) 3 |
 |  | 4.2(1.0) | 28 | 3.1(0.7) | 259 (57) 4 |
-| 1 Tmax given as median |  |  |  |  |
-| 2 AUCinf |  |  |  |  |
-| 3 AUC0-96 |  |  |  |  |
-| 4 AUC0-84 |  |  |  |  |
+
+1 T max given as median 2 AUC inf 3 AUC 0-96 4 AUC 0-84
 
 ### Distribution
 
@@ -56,6 +57,8 @@ The plasma concentration AUC ratio of N-desethyl metabolite to parent compound f
 Transdermal administration of oxybutynin bypasses the first-pass gastrointestinal and hepatic metabolism, reducing the formation of the N-desethyl metabolite (see Figure 4).
 Only small amounts of CYP3A4 are found in skin, limiting pre-systemic metabolism during transdermal absorption.
 The resulting plasma concentration AUC ratio of N-desethyl metabolite to parent compound following multiple OXYTROL applications was 1.3:1.
+
+Figure 4: Average plasma concentrations (Cp) measured after a single, 96-hour application of the OXYTROL 3.9 mg/day system (AUCinf/96) and a single, 5 mg, oral immediate-release dose of oxybutynin chloride (AUCinf/8) in 16 healthy male and female volunteers.
 
 Following intravenous administration, the elimination half-life of oxybutynin is approximately 2 hours.
 Following removal of OXYTROL, plasma concentrations of oxybutynin and N-desethyloxybutynin decline with an apparent half-life of approximately 7 to 8 hours.
@@ -109,8 +112,7 @@ Table 2: Mean and median change from baseline to end of treatment (Week 12 or la
 
 |  | Mean (SD) | Median | Mean (SD) | Median |
 | --- | --- | --- | --- | --- |
-| Parameter | Placebo |  | OXYTROL 3.9 mg/day |  |
-|  | (N=127) |  | (N=120) |  |
+| Parameter | Placebo (N=127) |  | OXYTROL 3.9 mg/day (N=120) |  |
 | Weekly Incontinence Episodes |  |  |  |  |
 | Baseline | 37.7 (24.0) | 30 | 34.3 (18.2) | 31 |
 | Reduction | 19.2 (21.4) | 15 | 21.0 (17.1) | 19 |
@@ -123,8 +125,8 @@ Table 2: Mean and median change from baseline to end of treatment (Week 12 or la
 | Baseline | 175.9 (69.5) | 166.5 | 171.6 (65.1) | 168 |
 | Increase | 10.5 (56.9) | 5.5 | 31.6 (65.6) | 26 |
 | p value vs. placebo | — |  | 0.0009** |  |
-| *Comparison significant if p < 0.05 |  |  |  |  |
-| **Comparison significant if p ≤ 0.0167 |  |  |  |  |
+
+* Comparison significant if p < 0.05 ** Comparison significant if p ≤ 0.0167
 
 Study 2 was a randomized, double-blind, double-dummy, study of OXYTROL 3.9 mg/day versus active and placebo controls conducted in 361 patients.
 The 12-week double-blind treatment included an OXYTROL dose of 3.9 mg/day, an active comparator, and placebo.
@@ -136,11 +138,10 @@ Reductions in daily incontinence episodes, urinary frequency, and urinary void v
 
 Table 3: Mean and median change from baseline to end of treatment (Week 12 or last observation carried forward) in incontinence episodes, urinary frequency, and urinary void volume in patients treated with OXYTROL 3.9 mg/day or placebo for 12 weeks (Study 2).
 
-|  | Mean (SD) | Median | Mean (SD) | Median |
-| --- | --- | --- | --- | --- |
-| Parameter | Placebo |  | OXYTROL 3.9 mg/day |  |
-|  | (N=117) |  | (N=121) |  |
 | Daily Incontinence Episodes |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Parameter | Placebo (N=117) |  | OXYTROL 3.9 mg/day (N=121) |  |
+|  | Mean (SD) | Median | Mean (SD) | Median |
 | Baseline | 5.0 (3.2) | 4 | 4.7 (2.9) | 4 |
 | Reduction | 2.1 (3.0) | 2 | 2.9 (3.0) | 3 |
 | p value vs. placebo | — |  | 0.0137* |  |
@@ -152,4 +153,5 @@ Table 3: Mean and median change from baseline to end of treatment (Week 12 or la
 | Baseline | 175.0 (68.0) | 171.0 | 164.8 (62.3) | 160 |
 | Increase | 9.3 (63.1) | 5.5 | 32.0 (55.2) | 24 |
 | p value vs. placebo | — |  | 0.0010* |  |
-| *Comparison significant if p < 0.05 |  |  |  |  |
+
+* Comparison significant if p < 0.05

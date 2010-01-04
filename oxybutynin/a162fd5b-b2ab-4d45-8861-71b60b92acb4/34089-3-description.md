@@ -21,9 +21,4 @@ Layer 2 (Adhesive/Drug Layer) is a cast film of acrylic adhesive containing oxyb
 Layer 3 (Release Liner) is two overlapped siliconized polyester strips that are peeled off and discarded by the patient prior to applying the matrix system.
 
 Figure 1: Side and top views of the OXYTROL system.
-
 (Not to scale)
-
-Side View
-
-Top View

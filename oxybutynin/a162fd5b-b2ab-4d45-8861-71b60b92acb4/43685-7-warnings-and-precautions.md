@@ -14,7 +14,7 @@ OXYTROL should be used with caution in patients who have gastroesophageal reflux
 ## Information for Patients
 
 Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin are used in a hot environment.
-Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence) or blurred vision, patients should be advised to exercise caution.
+Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence), dizziness or blurred vision, patients should be advised to exercise caution.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents such as oxybutynin.
 
 OXYTROL should be applied to dry, intact skin on the abdomen, hip, or buttock.

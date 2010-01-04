@@ -14,22 +14,21 @@ Table 4: Number (%) of adverse events occurring in ≥ 2% of OXYTROL-treated pat
 
 |  | N |  | % | N | % |
 | --- | --- | --- | --- | --- | --- |
-| Adverse Event* | Placebo |  |  | OXYTROL(3.9 mg/day) |  |
-|  | (N=132) |  |  | (N=125) |  |
+| Adverse Event* | Placebo (N=132) |  |  | OXYTROL(3.9 mg/day) (N=125) |  |
 | Application site pruritus | 8 | 6.1% |  | 21 | 16.8% |
 | Dry mouth | 11 | 8.3% |  | 12 | 9.6% |
 | Application site erythema | 3 | 2.3% |  | 7 | 5.6% |
 | Application site vesicles | 0 | 0.0% |  | 4 | 3.2% |
 | Diarrhea | 3 | 2.3% |  | 4 | 3.2% |
 | Dysuria | 0 | 0.0% |  | 3 | 2.4% |
-| *includes adverse events judged by the investigator as possibly, probably or definitely treatment-related. |  |  |  |  |  |
+
+*includes adverse events judged by the investigator as possibly, probably or definitely treatment-related.
 
 Table 5: Number (%) of adverse events occurring in ≥ 2% of OXYTROL-treated patients and greater in OXYTROL group than in placebo group (Study 2).
 
 |  | N | % | N | % |
 | --- | --- | --- | --- | --- |
-| Adverse Event* | Placebo |  | OXYTROL (3.9 mg/day) |  |
-|  | (N=117) |  | (N=121) |  |
+| Adverse Event* | Placebo (N=117) |  | OXYTROL (3.9 mg/day) (N=121) |  |
 | Application site pruritus | 5 | 4.3% | 17 | 14.0% |
 | Application site erythema | 2 | 1.7% | 10 | 8.3% |
 | Dry mouth | 2 | 1.7% | 5 | 4.1% |
@@ -37,7 +36,8 @@ Table 5: Number (%) of adverse events occurring in ≥ 2% of OXYTROL-treated pat
 | Application site rash | 1 | 0.9% | 4 | 3.3% |
 | Application site macules | 0 | 0.0% | 3 | 2.5% |
 | Abnormal vision | 0 | 0.0% | 3 | 2.5% |
-| *includes adverse events judged by the investigator as possibly, probably or definitely treatment-related. |  |  |  |  |
+
+*includes adverse events judged by the investigator as possibly, probably or definitely treatment-related
 
 Other adverse events reported by > 1% of OXYTROL-treated patients, and judged by the investigator to be possibly, probably or definitely related to treatment include: abdominal pain, nausea, flatulence, fatigue, somnolence, headache, flushing, rash, application site burning and back pain.
 
@@ -49,3 +49,9 @@ Most of these were secondary to application site reaction.
 In the two pivotal studies, no patient discontinued OXYTROL treatment due to dry mouth.
 
 In the open-label extension, the most common treatment-related adverse events were: application site pruritus, application site erythema and dry mouth.
+
+## Post Marketing Surveillance
+
+The following event has been reported in association with OXYTROL use in clinical practice: dizziness.
+Because use in clinical practice: dizziness.
+Because spontaneously reported events are from worldwide post marketing experiences, the frequency of events and the role of OXYTROL in their causation cannot be reliably determined.

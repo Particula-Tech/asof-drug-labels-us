@@ -15,6 +15,8 @@ Discard used OXYTROL in household trash in a manner that prevents accidental app
 
 Rx only
 
-A subsidiary of Watson Pharmaceuticals, Inc. Corona, CA 92880 USA
+Watson Pharma, Inc. A subsidiary of Watson Pharmaceuticals, Inc. Corona, CA 92880 USA
 
-U.S. Patent Nos. 5,601,839 and 5,834,010
+U.S. Patent Nos. 5,601,839; 5,834,010 and 7,179,483
+
+Revised: May 2006
