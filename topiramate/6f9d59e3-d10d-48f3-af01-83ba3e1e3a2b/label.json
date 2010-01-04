@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA078877"
+  ],
+  "inn": "topiramate",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-651-01",
+    "65841-651-05",
+    "65841-651-10",
+    "65841-651-14",
+    "65841-651-16",
+    "65841-652-01",
+    "65841-652-05",
+    "65841-652-10",
+    "65841-652-14",
+    "65841-652-16",
+    "65841-652-17"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "topiramate",
+      "name": "Topiramate"
+    }
+  ],
+  "setid": "6f9d59e3-d10d-48f3-af01-83ba3e1e3a2b",
+  "source": "dailymed"
+}
