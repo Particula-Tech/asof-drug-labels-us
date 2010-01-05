@@ -20,7 +20,7 @@ Dispense in a tight container.
 
 ZESTRIL is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2002, 2003, 2004, 2005, 2007
+©AstraZeneca 2009
 
 Manufactured for:
 
@@ -28,12 +28,14 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals, Inc.
+By: AstraZeneca UK Limited
 
-Carolina, PR 00984–1967
+Macclesfield, UK
 
-Rev 03/07
+Made in the United Kingdom
 
-PCC 650312
+35333–02
+
+Rev 11/09
 
 AstraZeneca

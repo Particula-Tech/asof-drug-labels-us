@@ -9,8 +9,7 @@ The beneficial effects of lisinopril in hypertension and heart failure appear to
 Inhibition of ACE results in decreased plasma angiotensin II which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 The latter decrease may result in a small increase of serum potassium.
 In hypertensive patients with normal renal function treated with ZESTRIL alone for up to 24 weeks, the mean increase in serum potassium was approximately 0.1 mEq/L; however, approximately 15% of patients had increases greater than 0.5 mEq/L and approximately 6% had a decrease greater than 0.5 mEq/L.
-In the same study, patients treated with ZESTRIL and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L.
-(See PRECAUTIONS.)
+In the same study, patients treated with ZESTRIL and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L (See PRECAUTIONS).
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
@@ -39,8 +38,7 @@ Upon multiple dosing, lisinopril exhibits an effective half-life of accumulation
 Impaired renal function decreases elimination of lisinopril, which is excreted principally through the kidneys, but this decrease becomes clinically important only when the glomerular filtration rate is below 30 mL/min.
 Above this glomerular filtration rate, the elimination half-life is little changed.
 With greater impairment, however, peak and trough lisinopril levels increase, time to peak concentration increases and time to attain steady state is prolonged.
-Older patients, on average, have (approximately doubled) higher blood levels and area under the plasma concentration time curve (AUC) than younger patients.
-(See DOSAGE AND ADMINISTRATION.)
+Older patients, on average, have (approximately doubled) higher blood levels and area under the plasma concentration time curve (AUC) than younger patients (See DOSAGE AND ADMINISTRATION).
 Lisinopril can be removed by hemodialysis.
 
 Studies in rats indicate that lisinopril crosses the blood-brain barrier poorly.
@@ -58,13 +56,11 @@ The typical value of lisinopril oral clearance (systemic clearance/absolute bioa
 ## Hypertension
 
 Adult Patients: Administration of ZESTRIL to patients with hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
-Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients.
-(See WARNINGS.)
+Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients (See WARNINGS).
 When given together with thiazide-type diuretics, the blood pressure lowering effects of the two drugs are approximately additive.
 
 In most patients studied, onset of antihypertensive activity was seen at one hour after oral administration of an individual dose of ZESTRIL, with peak reduction of blood pressure achieved by 6 hours.
-Although an antihypertensive effect was observed 24 hours after dosing with recommended single daily doses, the effect was more consistent and the mean effect was considerably larger in some studies with doses of 20 mg or more than with lower doses.
-However, at all doses studied, the mean antihypertensive effect was substantially smaller 24 hours after dosing than it was 6 hours after dosing.
+Although an antihypertensive effect was observed 24 hours after dosing with recommended single daily doses, the effect was more consistent and the mean effect was considerably larger in some studies with doses of 20 mg or more than with lower doses; however, at all doses studied, the mean antihypertensive effect was substantially smaller 24 hours after dosing than it was 6 hours after dosing.
 
 In some patients achievement of optimal blood pressure reduction may require two to four weeks of therapy.
 
@@ -73,8 +69,7 @@ Abrupt withdrawal of ZESTRIL has not been associated with a rapid increase in bl
 
 Two dose-response studies utilizing a once-daily regimen were conducted in 438 mild to moderate hypertensive patients not on a diuretic.
 Blood pressure was measured 24 hours after dosing.
-An antihypertensive effect of ZESTRIL was seen with 5 mg in some patients.
-However, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of ZESTRIL.
+An antihypertensive effect of ZESTRIL was seen with 5 mg in some patients; however, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of ZESTRIL.
 In controlled clinical studies, ZESTRIL 20-80 mg has been compared in patients with mild to moderate hypertension to hydrochlorothiazide 12.5-50 mg and with atenolol 50-200 mg; and in patients with moderate to severe hypertension to metoprolol 100-200 mg.
 It was superior to hydrochlorothiazide in effects on systolic and diastolic pressure in a population that was 3/4 Caucasian.
 ZESTRIL was approximately equivalent to atenolol and metoprolol in effects on diastolic blood pressure, and had somewhat greater effects on systolic blood pressure.
@@ -86,14 +81,13 @@ In hemodynamic studies in patients with essential hypertension, blood pressure r
 In a study in nine hypertensive patients, following administration of ZESTRIL, there was an increase in mean renal blood flow that was not significant.
 Data from several small studies are inconsistent with respect to the effect of lisinopril on glomerular filtration rate in hypertensive patients with normal renal function, but suggest that changes, if any, are not large.
 
-In patients with renovascular hypertension ZESTRIL has been shown to be well tolerated and effective in controlling blood pressure.
-(See PRECAUTIONS.)
+In patients with renovascular hypertension ZESTRIL has been shown to be well tolerated and effective in controlling blood pressure (See PRECAUTIONS).
 
 Pediatric Patients: In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 50 kg received either 0.625, 2.5 or 20 mg of lisinopril daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of lisinopril daily.
 At the end of 2 weeks, lisinopril administered once daily lowered trough blood pressure in a dose-dependent manner with consistent antihypertensive efficacy demonstrated at doses > 1.25 mg (0.02 mg/kg).
 This effect was confirmed in a withdrawal phase, where the diastolic pressure rose by about 9 mmHg more in patients randomized to placebo than it did in patients who were randomized to remain on the middle and high doses of lisinopril.
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
-In this study, lisinopril was generally well tolerated.
+In this study, lisinopril was generally well—tolerated.
 
 In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
 
@@ -106,16 +100,16 @@ The once-daily dosing for the treatment of congestive heart failure was the only
 A large (over 3000 patients) survival study, the ATLAS Trial, comparing 2.5 and 35 mg of lisinopril in patients with heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
 
 Acute Myocardial Infarction: The Gruppo Italiano per lo Studio della Sopravvienza nell’Infarto Miocardico (GISSI-3) study was a multicenter, controlled, randomized, unblinded clinical trial conducted in 19,394 patients with acute myocardial infarction admitted to a coronary care unit.
-It was designed to examine the effects of short-term (6 week) treatment with lisinopril, nitrates, their combination, or no therapy on short-term (6 week) mortality and on long term death and markedly impaired cardiac function.
+It was designed to examine the effects of short-term (6 week) treatment with lisinopril, nitrates, their combination, or no therapy on short-term (6 week) mortality and on long—term death and markedly impaired cardiac function.
 Patients presenting within 24 hours of the onset of symptoms who were hemodynamically stable were randomized, in a 2 x 2 factorial design, to six weeks of either 1) ZESTRIL alone (n=4841), 2) nitrates alone (n=4869), 3) ZESTRIL plus nitrates (n=4841), or 4) open control (n=4843).
 All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta-blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.
 
-The protocol excluded patients with hypotension (systolic blood pressure ≤ 100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine >2 mg/dL and/or proteinuria > 500 mg/24 h). Doses of ZESTRIL were adjusted as necessary according to protocol (see DOSAGE AND ADMINISTRATION).
+The protocol excluded patients with hypotension (systolic blood pressure ≤ 100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine >2 mg/dL and/or proteinuria > 500 mg/24 h). Doses of ZESTRIL were adjusted as necessary according to protocol (See DOSAGE AND ADMINISTRATION).
 
 Study treatment was withdrawn at six weeks except where clinical conditions indicated continuation of treatment.
 
 The primary outcomes of the trial were the overall mortality at 6 weeks and a combined end point at 6 months after the myocardial infarction, consisting of the number of patients who died, had late (day 4) clinical congestive heart failure, or had extensive left ventricular damage defined as ejection fraction ≤ 35% or an akinetic-dyskinetic [A-D] score ≥ 45%.
-Patients receiving ZESTRIL (n=9646), alone or with nitrates, had an 11% lower risk of death (2p [two tailed] = 0.04) compared to patients receiving no ZESTRIL (n=9672) (6.4% vs. 7.2%, respectively) at six weeks.
+Patients receiving ZESTRIL (n=9646), alone or with nitrates, had an 11% lower risk of death (2p [two—tailed] = 0.04) compared to patients receiving no ZESTRIL (n=9672) (6.4% vs. 7.2%, respectively) at six weeks.
 Although patients randomized to receive ZESTRIL for up to six weeks also fared numerically better on the combined end point at 6 months, the open nature of the assessment of heart failure, substantial loss to follow-up echocardiography, and substantial excess use of lisinopril between 6 weeks and 6 months in the group randomized to 6 weeks of lisinopril, preclude any conclusion about this end point.
 
 Patients with acute myocardial infarction, treated with ZESTRIL, had a higher (9.0% versus 3.7%) incidence of persistent hypotension (systolic blood pressure < 90 mmHg for more than 1 hour) and renal dysfunction (2.4% versus 1.1%) in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).

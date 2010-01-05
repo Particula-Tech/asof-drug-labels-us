@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019777"
+  ],
   "inn": "lisinopril",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0310-0134-10",
     "0310-0135-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril",
+      "name": "ZESTRIL"
+    }
+  ],
   "setid": "46f17ba7-a78c-4a9e-7597-27654f097bd3",
   "source": "dailymed"
 }
