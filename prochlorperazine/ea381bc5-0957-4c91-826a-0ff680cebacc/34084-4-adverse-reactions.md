@@ -25,7 +25,7 @@ In most cases barbiturates by suitable route of administration will suffice.
 In more severe cases, the administration of an anti-parkinsonism agent, except levodopa (see PDR), usually produces rapid reversal of symptoms.
 Suitable supportive measures such as maintaining a clear airway and adequate hydration should be employed.
 
-## Motor Restlessness:
+### Motor Restlessness:
 
 Symptoms may include agitation or jitteriness and sometimes insomnia.
 These symptoms often disappear spontaneously.
@@ -33,18 +33,18 @@ At times these symptoms may be similar to the original neurotic or psychotic sym
 Dosage should not be increased until these side effects have subsided.
 
 If these symptoms become too troublesome, they can usually be controlled by a reduction of dosage or change of drug.
-Treatment with anti-parkinsonian agents, benzodiazepines or propranolol may be helpful.
+Treatment with antiparkinsonian agents, benzodiazepines or propranolol may be helpful.
 
-## Dystonia:
+### Dystonia:
 
-### Class effect:
+#### Class effect:
 
 Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-## Pseudo-parkinsonism:
+### Pseudo-parkinsonism:
 
 Symptoms may include: mask-like facies; drooling; tremors; pillrolling motion; cogwheel rigidity; and shuffling gait.
 Reassurance and sedation are important.
@@ -55,7 +55,7 @@ After this time patients should be evaluated to determine their need for continu
 (Note: Levodopa has not been found effective in pseudo-parkinsonism.)
 Occasionally it is necessary to lower the dosage of prochlorperazine or to discontinue the drug.
 
-## Tardive Dyskinesia:
+### Tardive Dyskinesia:
 
 As with all antipsychotic agents, tardive dyskinesia may appear in some patients on long-term therapy or may appear after drug therapy has been discontinued.
 The syndrome can also develop, although much less frequently, after relatively brief treatment periods at low doses.

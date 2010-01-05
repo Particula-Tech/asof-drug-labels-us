@@ -1,5 +1,10 @@
 # WARNINGS
 
+## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Compro® Prochlorperazine Suppositories USP is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
+
 The extrapyramidal symptoms which can occur secondary to prochlorperazine may be confused with the central nervous system signs of an undiagnosed primary disease responsible for the vomiting, e.g., Reye's Syndrome or other encephalopathy.
 The use of prochlorperazine and other potential hepatotoxins should be avoided in children and adolescents whose signs and symptoms suggest Reye's Syndrome.
 
@@ -126,3 +131,13 @@ Geriatric patients are more sensitive to the side effects of antipsychotics, inc
 These adverse events include hypotension, anticholinergic effects (such as urinary retention, constipation, and confusion), and neuromuscular reactions (such as parkinsonism and tardive dyskinesia) (see PRECAUTIONS and ADVERSE REACTIONS).
 Also, postmarketing safety experience suggests that the incidence of agranulocytosis may be higher in geriatric patients compared to younger individuals who received prochlorperazine.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see DOSAGE AND ADMINISTRATION).
+
+## Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
+
+Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Compro® at the first sign of a decline in WBC in the absence of other causative factors.
+
+Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Compro® and have their WBC followed until recovery.

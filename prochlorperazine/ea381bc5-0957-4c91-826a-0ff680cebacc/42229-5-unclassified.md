@@ -1,7 +1,5 @@
-PRESCRIBING INFORMATION
-
 ANTIEMETIC - TRANQUILIZER
 
-Paddock Laboratories, Inc. Minneapolis, MN 55427
+PRESCRIBING INFORMATION
 
-(02-08)
+Paddock Laboratories, Inc. Minneapolis, MN 55427 (05-09)

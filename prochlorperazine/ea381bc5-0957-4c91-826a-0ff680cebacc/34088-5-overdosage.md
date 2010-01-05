@@ -2,13 +2,13 @@
 
 (See also ADVERSE REACTIONS).
 
-SYMPTOMS-Primarily involvement of the extrapyramidal mechanism producing some of the dystonic reactions described above.
+SYMPTOMS–Primarily involvement of the extrapyramidal mechanism producing some of the dystonic reactions described above.
 
 Symptoms of central nervous system depression to the point of somnolence or coma.
 Agitation and restlessness may also occur.
 Other possible manifestations include convulsions, EKG changes and cardiac arrhythmias, fever and autonomic reactions such as hypotension, dry mouth and ileus.
 
-TREATMENT- It is important to determine other medications taken by the patient since multiple-dose therapy is common in overdosage situations.
+TREATMENT–It is important to determine other medications taken by the patient since multiple-dose therapy is common in overdosage situations.
 Treatment is essentially symptomatic and supportive.
 Early gastric lavage is helpful.
 Keep patient under observation and maintain an open airway, since involvement of the extrapyramidal mechanism may produce dysphagia and respiratory difficulty in severe overdosage.

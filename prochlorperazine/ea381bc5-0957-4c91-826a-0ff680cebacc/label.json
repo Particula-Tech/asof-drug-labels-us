@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040246"
+  ],
   "inn": "prochlorperazine",
   "labeler": "Paddock Laboratories, Inc.",
   "package_ndcs": [
     "0574-7226-12"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "prochlorperazine",
+      "name": "Compro"
+    }
+  ],
   "setid": "ea381bc5-0957-4c91-826a-0ff680cebacc",
   "source": "dailymed"
 }
