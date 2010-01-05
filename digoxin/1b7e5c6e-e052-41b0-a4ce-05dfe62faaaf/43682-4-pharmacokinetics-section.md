@@ -8,7 +8,7 @@ When the solution is taken after meals, the peak serum concentrations increase b
 When taken with meals high in bran fiber, however, the amount absorbed from an oral dose may be reduced.
 Digoxin absorption may also be affected by various concomitant therapy modulating gastric pH and P-glycoprotein; see PRECAUTIONS: Drug Interactions.
 
-Comparisons of the systemic availability and equivalent doses for preparations of digoxin are shown in DESCRIPTION.
+Comparisons of the systemic availability and equivalent doses for preparations of digoxin are shown in Table 1: Comparisons of the Systemic Availability and Equivalent Doses for Preparations of Digoxin.
 
 ## Table 1: Comparisons of the Systemic Availability and Equivalent Doses for Preparations of Digoxin
 
