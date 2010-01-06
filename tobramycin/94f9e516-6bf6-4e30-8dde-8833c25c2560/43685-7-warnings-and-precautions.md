@@ -245,7 +245,7 @@ You should not use TOBI® beyond the expiration date stamped on the ampule.
 
 Nebulizer: 1-800-327-8632
 
-Compressor: 1-800-333-4000
+Compressor: 1-800-338-1988
 
 TOBI®: 1-888-NOW-NOVA (1-888-669-6682)
 
