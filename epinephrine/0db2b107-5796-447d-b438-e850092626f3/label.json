@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020800"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Sciele Pharma, Inc.",
+  "package_ndcs": [
+    "59630-803-01",
+    "59630-803-02",
+    "59630-804-01",
+    "59630-804-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Adrenaclick"
+    }
+  ],
+  "setid": "0db2b107-5796-447d-b438-e850092626f3",
+  "source": "dailymed"
+}
