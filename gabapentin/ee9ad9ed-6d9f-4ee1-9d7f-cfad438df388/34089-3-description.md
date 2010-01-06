@@ -17,4 +17,4 @@ The structural formula of gabapentin is:
 
 Gabapentin is a white to off-white crystalline solid with a pKa1 of 3.7 and a pKa2 of 10.7.
 It is freely soluble in water and both basic and acidic aqueous solutions.
-The log of the partition coefficient (n-octanol/0.05M phosphate buffer) at pH 7.4 is −1.25.
+The log of the partition coefficient (n-octanol/0.05M phosphate buffer) at pH 7.4 is –1.25.

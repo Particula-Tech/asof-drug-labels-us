@@ -154,27 +154,27 @@ The effectiveness of Neurontin as adjunctive therapy (added to other antiepilept
 Evidence of effectiveness was obtained in three trials conducted in 705 patients (age 12 years and above) and one trial conducted in 247 pediatric patients (3 to 12 years of age).
 The patients enrolled had a history of at least 4 partial seizures per month in spite of receiving one or more antiepileptic drugs at therapeutic levels and were observed on their established antiepileptic drug regimen during a 12-week baseline period (6 weeks in the study of pediatric patients).
 In patients continuing to have at least 2 (or 4 in some studies) seizures per month, Neurontin or placebo was then added on to the existing therapy during a 12-week treatment period.
-Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the "responder rate") and a derived measure called response ratio, a measure of change defined as (T − B)/(T + B), where B is the patient's baseline seizure frequency and T is the patient's seizure frequency during treatment.
-Response ratio is distributed within the range −1 to +1.
-A zero value indicates no change while complete elimination of seizures would give a value of −1; increased seizure rates would give positive values.
-A response ratio of −0.33 corresponds to a 50% reduction in seizure frequency.
+Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the "responder rate") and a derived measure called response ratio, a measure of change defined as (T – B)/(T + B), where B is the patient''s baseline seizure frequency and T is the patient's seizure frequency during treatment.
+Response ratio is distributed within the range –1 to +1.
+A zero value indicates no change while complete elimination of seizures would give a value of –1; increased seizure rates would give positive values.
+A response ratio of –0.33 corresponds to a 50% reduction in seizure frequency.
 The results given below are for all partial seizures in the intent-to-treat (all patients who received any doses of treatment) population in each study, unless otherwise indicated.
 
 One study compared Neurontin 1200 mg/day divided TID with placebo.
 Responder rate was 23% (14/61) in the Neurontin group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
-Response ratio was also better in the Neurontin group (−0.199) than in the placebo group (−0.044), a difference that also achieved statistical significance.
+Response ratio was also better in the Neurontin group (–0.199) than in the placebo group (–0.044), a difference that also achieved statistical significance.
 
 A second study compared primarily 1200 mg/day divided TID Neurontin (N=101) with placebo (N=98).
 Additional smaller Neurontin dosage groups (600 mg/day, N=53; 1800 mg/day, N=54) were also studied for information regarding dose response.
 Responder rate was higher in the Neurontin 1200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
 The responder rate at 600 mg (17%) was also not significantly higher than in the placebo, but the responder rate in the 1800 mg group (26%) was statistically significantly superior to the placebo rate.
-Response ratio was better in the Neurontin 1200 mg/day group (−0.103) than in the placebo group (−0.022); but this difference was also not statistically significant (p = 0.224).
-A better response was seen in the Neurontin 600 mg/day group (−0.105) and 1800 mg/day group (−0.222) than in the 1200 mg/day group, with the 1800 mg/day group achieving statistical significance compared to the placebo group.
+Response ratio was better in the Neurontin 1200 mg/day group (–0.103) than in the placebo group (–0.022); but this difference was also not statistically significant (p = 0.224).
+A better response was seen in the Neurontin 600 mg/day group (–0.105) and 1800 mg/day group (–0.222) than in the 1200 mg/day group, with the 1800 mg/day group achieving statistical significance compared to the placebo group.
 
 A third study compared Neurontin 900 mg/day divided TID (N=111) and placebo (N=109).
 An additional Neurontin 1200 mg/day dosage group (N=52) provided dose-response data.
 A statistically significant difference in responder rate was seen in the Neurontin 900 mg/day group (22%) compared to that in the placebo group (10%).
-Response ratio was also statistically significantly superior in the Neurontin 900 mg/day group (−0.119) compared to that in the placebo group (−0.027), as was response ratio in 1200 mg/day Neurontin (−0.184) compared to placebo.
+Response ratio was also statistically significantly superior in the Neurontin 900 mg/day group (–0.119) compared to that in the placebo group (–0.027), as was response ratio in 1200 mg/day Neurontin (–0.184) compared to placebo.
 
 Analyses were also performed in each study to examine the effect of Neurontin on preventing secondarily generalized tonic-clonic seizures.
 Patients who experienced a secondarily generalized tonic-clonic seizure in either the baseline or in the treatment period in all three placebo-controlled studies were included in these analyses.
@@ -196,7 +196,7 @@ There was no consistent pattern indicating that age had any effect on the respon
 There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
 
 A fourth study in pediatric patients age 3 to 12 years compared 25 – 35 mg/kg/day Neurontin (N=118) with placebo (N=127).
-For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the Neurontin group (−0.146) than for the placebo group (−0.079).
+For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the Neurontin group (–0.146) than for the placebo group (–0.079).
 For the same population, the responder rate for Neurontin (21%) was not significantly different from placebo (18%).
 
 A study in pediatric patients age 1 month to 3 years compared 40 mg/kg/day Neurontin (N=38) with placebo (N=38) in patients who were receiving at least one marketed antiepileptic drug and had at least one partial seizure during the screening period (within 2 weeks prior to baseline).

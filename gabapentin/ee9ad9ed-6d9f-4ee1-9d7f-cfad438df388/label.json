@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020235",
+    "NDA020882",
+    "NDA021129"
+  ],
   "inn": "gabapentin",
-  "labeler": "Parke-Davis",
+  "labeler": "Parke-Davis Div of Pfizer Inc",
   "package_ndcs": [
     "0071-0401-24",
     "0071-0513-24",
@@ -13,7 +17,23 @@
     "0071-0806-40",
     "0071-2012-23"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "gabapentin",
+      "name": "Neurontin"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "gabapentin",
+      "name": "Neurontin"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gabapentin",
+      "name": "Neurontin"
+    }
+  ],
   "setid": "ee9ad9ed-6d9f-4ee1-9d7f-cfad438df388",
   "source": "dailymed"
 }
