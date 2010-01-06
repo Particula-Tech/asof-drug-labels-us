@@ -1,4 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
 
 The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic.
 The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma.
@@ -8,12 +10,16 @@ Smooth muscle tone is mediated by the sympathetic nervous stimulation of alpha1 
 Blockade of these adrenoceptors can cause smooth muscles in the bladder neck and prostate to relax, resulting in an improvement in urine flow rate and a reduction in symptoms of BPH.
 
 Tamsulosin, an alpha1 adrenoceptor blocking agent, exhibits selectivity for alpha1 receptors in the human prostate.
-At least three discrete alpha1-adrenoceptor subtypes have been identified: alpha1A, alpha1B and alpha1D; their distribution differs between human organs and tissue.
-Approximately 70% of the alpha1-receptors in human prostate are of the alpha1A subtype.
+At least three discrete alpha1 adrenoceptor subtypes have been identified: alpha1A, alpha1B, and alpha1D; their distribution differs between human organs and tissue.
+Approximately 70% of the alpha1 receptors in the human prostate are of the alpha1A subtype.
 
-Flomax® (tamsulosin hydrochloride) capsules are not intended for use as an antihypertensive drug.
+FLOMAX capsules are not intended for use as an antihypertensive drug.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
+
+Urologic pharmacodynamic effects have been evaluated in neurologically impaired pediatric patients and in adults with BPH [see Use in Specific Populations (8.4) and Clinical Studies (14)].
+
+## 12.3 Pharmacokinetics
 
 The pharmacokinetics of tamsulosin hydrochloride have been evaluated in adult healthy volunteers and patients with BPH after single and/or multiple administration with doses ranging from 0.1 mg to 1 mg.
 
@@ -24,14 +30,14 @@ Tamsulosin hydrochloride exhibits linear kinetics following single and multiple 
 
 ### Effect of Food
 
-The time to maximum concentration (Tmax) is reached by four to five hours under fasting conditions and by six to seven hours when FLOMAX capsules are administered with food.
+The time to maximum concentration (Tmax) is reached by 4 to 5 hours under fasting conditions and by 6 to 7 hours when FLOMAX capsules are administered with food.
 Taking FLOMAX capsules under fasted conditions results in a 30% increase in bioavailability (AUC) and 40% to 70% increase in peak concentrations (Cmax) compared to fed conditions (Figure 1).
 
-Figure 1 Mean Plasma Tamsulosin Hydrochloride Concentrations Following Single-Dose Administration of FLOMAX capsules 0.4 mg Under Fasted and Fed Conditions (n=8)
+Figure 1 Mean Plasma Tamsulosin Hydrochloride Concentrations Following Single-Dose Administration of FLOMAX Capsules 0.4 mg Under Fasted and Fed Conditions (n=8)
 
-The effects of food on the pharmacokinetics of tamsulosin hydrochloride are consistent regardless of whether a Flomax® (tamsulosin hydrochloride) capsule is taken with a light breakfast or a high-fat breakfast (Table 1).
+The effects of food on the pharmacokinetics of tamsulosin hydrochloride are consistent regardless of whether a FLOMAX capsule is taken with a light breakfast or a high-fat breakfast (Table 2).
 
-Table 1 Mean (± S.D.)
+Table 2 Mean (± S.D.)
 Pharmacokinetic Parameters Following FLOMAX Capsules 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
 
 |  | Light Breakfast | Fasted | Light Breakfast | High-Fat Breakfast | Fasted |
@@ -51,9 +57,9 @@ Pharmacokinetic Parameters Following FLOMAX Capsules 0.4 mg Once Daily or 0.8 mg
 
 ### Distribution
 
-The mean steady-state apparent volume of distribution of tamsulosin hydrochloride after intravenous administration to ten healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
+The mean steady-state apparent volume of distribution of tamsulosin hydrochloride after intravenous administration to 10 healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
 
-Tamsulosin hydrochloride is extensively bound to human plasma proteins (94% to 99%), primarily alpha-1 acid glycoprotein (AAG), with linear binding over a wide concentration range (20 to 600 ng/mL).
+Tamsulosin hydrochloride is extensively bound to human plasma proteins (94% to 99%), primarily alpha1 acid glycoprotein (AAG), with linear binding over a wide concentration range (20 to 600 ng/mL).
 The results of two-way in vitro studies indicate that the binding of tamsulosin hydrochloride to human plasma proteins is not affected by amitriptyline, diclofenac, glyburide, simvastatin plus simvastatin-hydroxy acid metabolite, warfarin, diazepam, propranolol, trichlormethiazide, or chlormadinone.
 Likewise, tamsulosin hydrochloride had no effect on the extent of binding of these drugs.
 
@@ -62,8 +68,8 @@ Likewise, tamsulosin hydrochloride had no effect on the extent of binding of the
 There is no enantiomeric bioconversion from tamsulosin hydrochloride [R(-) isomer] to the S(+) isomer in humans.
 Tamsulosin hydrochloride is extensively metabolized by cytochrome P450 enzymes in the liver and less than 10% of the dose is excreted in urine unchanged.
 However, the pharmacokinetic profile of the metabolites in humans has not been established.
-In vitro results indicate that CYP3A4 and CYP2D6 are involved in metabolism of tamsulosin as well as some minor participation of other CYP isoenzymes.
-Inhibition of hepatic drug-metabolizing enzymes may lead to increased exposure to tamsulosin (see Drug-Drug Interactions, Cytochrome P450 Inhibition).
+Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6 as well as via some minor participation of other CYP isoenzymes.
+Inhibition of hepatic drug-metabolizing enzymes may lead to increased exposure to tamsulosin [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 The metabolites of tamsulosin hydrochloride undergo extensive conjugation to glucuronide or sulfate prior to renal excretion.
 
 Incubations with human liver microsomes showed no evidence of clinically significant metabolic interactions between tamsulosin hydrochloride and amitriptyline, albuterol (beta agonist), glyburide (glibenclamide) and finasteride (5alpha-reductase inhibitor for treatment of BPH).
@@ -71,78 +77,90 @@ However, results of the in vitro testing of the tamsulosin hydrochloride interac
 
 ### Excretion
 
-On administration of the radiolabeled dose of tamsulosin hydrochloride to four healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared to feces (21%) over 168 hours.
+On administration of the radiolabeled dose of tamsulosin hydrochloride to 4 healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared to feces (21%) over 168 hours.
 
-Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin hydrochloride in plasma ranged from five to seven hours.
-Because of absorption rate-controlled pharmacokinetics with Flomax® (tamsulosin hydrochloride) capsules, the apparent half-life of tamsulosin hydrochloride is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.
+Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin hydrochloride in plasma ranged from 5 to 7 hours.
+Because of absorption rate-controlled pharmacokinetics with FLOMAX capsules, the apparent half-life of tamsulosin hydrochloride is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.
 
 Tamsulosin hydrochloride undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/h).
 
-### Special Populations
+### Specific Populations
 
-#### Geriatrics (Age)
+#### Pediatric Use
+
+FLOMAX capsules are not indicated for use in pediatric populations [see Use in Specific Populations (8.4)].
+
+#### Geriatric (Age) Use
 
 Cross-study comparison of FLOMAX capsules overall exposure (AUC) and half-life indicates that the pharmacokinetic disposition of tamsulosin hydrochloride may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
-Intrinsic clearance is independent of tamsulosin hydrochloride binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects of age 55 to 75 years compared to subjects of age 20 to 32 years.
+Intrinsic clearance is independent of tamsulosin hydrochloride binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects of age 55 to 75 years compared to subjects of age 20 to 32 years [see Use in Specific Populations (8.5)].
 
-#### Renal Dysfunction
+#### Renal Impairment
 
-The pharmacokinetics of tamsulosin hydrochloride have been compared in 6 subjects with mild-moderate (30≤CLcr <70 mL/min/1.73m2) or moderate-severe (10≤CLcr <30 mL/min/1.73m2) renal impairment and 6 normal subjects (CLcr <90 mL/min/1.73m2).
+The pharmacokinetics of tamsulosin hydrochloride have been compared in 6 subjects with mild-moderate (30≤ CLcr <70 mL/min/1.73 m2) or moderate-severe (10≤ CLcr <30 mL/min/1.73 m2) renal impairment and 6 normal subjects (CLcr <90 mL/min/1.73 m2).
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride, as well as the intrinsic clearance, remained relatively constant.
-Therefore, patients with renal impairment do not require an adjustment in Flomax® (tamsulosin hydrochloride) capsules dosing.
-However, patients with endstage renal disease (CLcr <10 mL/min/1.73m2) have not been studied.
+Therefore, patients with renal impairment do not require an adjustment in FLOMAX capsules dosing.
+However, patients with end-stage renal disease (CLcr <10 mL/min/1.73 m2) have not been studied [see Use in Specific Populations (8.6)].
 
-#### Hepatic Dysfunction
+#### Hepatic Impairment
 
-The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic dysfunction (Child-Pugh’s classification: Grades A and B) and 8 normal subjects.
+The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic impairment (Child-Pugh’s classification: Grades A and B) and 8 normal subjects.
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride does not change significantly, with only a modest (32%) change in intrinsic clearance of unbound tamsulosin hydrochloride.
-Therefore, patients with moderate hepatic dysfunction do not require an adjustment in FLOMAX capsules dosage.
-FLOMAX has not been studied in patients with severe hepatic dysfunction.
+Therefore, patients with moderate hepatic impairment do not require an adjustment in FLOMAX capsules dosage.
+FLOMAX has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 
-### Drug-Drug Interactions
+### Drug Interactions
 
-#### Nifedipine, Atenolol, Enalapril
+#### Cytochrome P450 Inhibition
 
-In three studies in hypertensive subjects (age range 47-79 years) whose blood pressure was controlled with stable doses of Procardia XL®, atenolol, or enalapril for at least three months, FLOMAX capsules 0.4 mg for seven days followed by FLOMAX capsules 0.8 mg for another seven days (n=8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared to placebo (n=4 per study).
-Therefore, dosage adjustments are not necessary when FLOMAX capsules are administered concomitantly with Procardia XL®, atenolol, or enalapril.
+Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
+Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of FLOMAX have not been evaluated [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+
+The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
+Concomitant treatment with paroxetine resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
+A fraction of the population (about 7% of Caucasians and 2% of African Americans) are CYP2D6 PMs.
+Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when FLOMAX 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, FLOMAX 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+
+The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of FLOMAX have not been evaluated [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+
+The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with FLOMAX capsules have not been evaluated.
+However, there is a potential for significant increase in tamsulosin exposure when FLOMAX 0.4 mg is co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+
+#### Cimetidine
+
+The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 10 healthy volunteers (age range 21 to 38 years).
+Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+
+#### Other Alpha Adrenergic Blocking Agents
+
+The pharmacokinetic and pharmacodynamic interactions between FLOMAX capsules and other alpha adrenergic blocking agents have not been determined; however, interactions between FLOMAX capsules and other alpha adrenergic blocking agents may be expected [see Warnings and Precautions (5.2) and Drug Interactions (7.2)].
+
+#### PDE5 Inhibitors
+
+Caution is advised when alpha adrenergic blocking agents, including FLOMAX, are co-administered with PDE5 inhibitors.
+Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
+Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
 
 #### Warfarin
 
 A definitive drug-drug interaction study between tamsulosin hydrochloride and warfarin was not conducted.
 Results from limited in vitro and in vivo studies are inconclusive.
-Therefore, caution should be exercised with concomitant administration of warfarin and FLOMAX capsules.
+Therefore, caution should be exercised with concomitant administration of warfarin and FLOMAX capsules [see Warnings and Precautions (5.2) and Drug Interactions (7.4)].
+
+#### Nifedipine, Atenolol, Enalapril
+
+In three studies in hypertensive subjects (age range 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine, atenolol, or enalapril for at least 3 months, FLOMAX capsules 0.4 mg for 7 days followed by FLOMAX capsules 0.8 mg for another 7 days (n=8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared to placebo (n=4 per study).
+Therefore, dosage adjustments are not necessary when FLOMAX capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see Drug Interactions (7.5)].
 
 #### Digoxin and Theophylline
 
-In two studies in healthy volunteers (n=10 per study; age range 19 to 39 years) receiving FLOMAX capsules 0.4 mg/day for two days, followed by FLOMAX capsules 0.8 mg/day for five to eight days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
-Therefore, dosage adjustments are not necessary when a FLOMAX capsule is administered concomitantly with digoxin or theophylline.
+In two studies in healthy volunteers (n=10 per study; age range 19 to 39 years) receiving FLOMAX capsules 0.4 mg/day for 2 days, followed by FLOMAX capsules 0.8 mg/day for 5 to 8 days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
+Therefore, dosage adjustments are not necessary when a FLOMAX capsule is administered concomitantly with digoxin or theophylline [see Drug Interactions (7.6)].
 
 #### Furosemide
 
-The pharmacokinetic and pharmacodynamic interaction between Flomax® (tamsulosin hydrochloride) capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in ten healthy volunteers (age range 21 to 40 years).
+The pharmacokinetic and pharmacodynamic interaction between FLOMAX capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in 10 healthy volunteers (age range 21 to 40 years).
 FLOMAX capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
-While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the FLOMAX capsules dosage.
-
-#### Cytochrome P450 Inhibition:
-
-Cimetidine
-
-The effects of cimetidine at the highest recommended dose (400 mg every six hours for six days) on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in ten healthy volunteers (age range 21 to 38 years).
-Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) (see PRECAUTIONS, General).
-
-Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6.
-
-The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range from 23 to 47 years).
-Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively (see WARNINGS).
-The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of FLOMAX have not been evaluated (see PRECAUTIONS, General).
-
-The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range from 23 to 47 years).
-Concomitant treatment with paroxetine resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively (see PRECAUTIONS, General).
-A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
-A fraction of the population (about 7% of Caucasians and 2% of African Americans) are CYP2D6 PMs.
-Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when FLOMAX 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, FLOMAX 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) (see WARNINGS).
-
-The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of FLOMAX have not been evaluated (see PRECAUTIONS, General).
-
-The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with FLOMAX capsules have not been evaluated.
-However, there is a potential for significant increase in tamsulosin exposure when FLOMAX 0.4 mg is co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors (see WARNINGS and PRECAUTIONS, General).
+While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the FLOMAX capsules dosage [see Drug Interactions (7.7)].
