@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050790"
+  ],
   "inn": "cyclosporine",
-  "labeler": "Allergan",
+  "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0023-9163-32"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "cyclosporine",
+      "name": "Restasis"
+    }
+  ],
   "setid": "10a940d7-9173-408c-a5aa-f7d06de172a6",
   "source": "dailymed"
 }
