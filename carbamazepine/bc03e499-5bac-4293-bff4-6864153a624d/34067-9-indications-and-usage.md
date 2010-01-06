@@ -8,8 +8,9 @@ Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived f
 1. Partial seizures with complex symptomatology (psychomotor, temporal lobe).
    Patients with these seizures appear to show greater improvements than those with other types.
 2. Generalized tonic-clonic seizures (grand mal).
-3. Mixed seizure patterns which include the above, or other partial or generalized seizures.
-   Absence seizures (petit mal) do not appear to be controlled by carbamazepine (seePRECAUTIONS, General).
+
+Mixed seizure patterns which include the above, or other partial or generalized seizures.
+Absence seizures (petit mal) do not appear to be controlled by carbamazepine (see PRECAUTIONS, General).
 
 ## Trigeminal Neuralgia
 

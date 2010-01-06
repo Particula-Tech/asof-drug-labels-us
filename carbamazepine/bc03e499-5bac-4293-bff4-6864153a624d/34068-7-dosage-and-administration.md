@@ -11,7 +11,7 @@ Carbatrol can be taken with or without meals.
 Carbatrol is an extended-release formulation for twice a day administration.
 When converting patients from immediate release carbamazepine to Carbatrol extended-release capsules, the same total daily mg dose of carbamazepine should be administered.
 
-## Epilepsy (see INDICATIONS AND USAGE)
+Epilepsy (see INDICATIONS AND USAGE)
 
 Adults and children over 12 years of age.
 Initial: 200 mg twice daily.
@@ -28,7 +28,7 @@ No recommendation regarding the safety of Carbatrol for use at doses above 35 mg
 Combination Therapy: Carbatrol may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy Category D).
 
-## Trigeminal Neuralgia (see INDICATIONS AND USAGE)
+Trigeminal Neuralgia (see INDICATIONS AND USAGE)
 
 Initial: On the first day, start with one 200 mg capsule.
 This daily dose may be increased by up to 200 mg/day every 12 hours only as needed to achieve freedom from pain.

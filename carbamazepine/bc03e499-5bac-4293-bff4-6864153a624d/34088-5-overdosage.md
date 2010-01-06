@@ -24,7 +24,7 @@ Initial hyperreflexia, followed by hyporeflexia.
 
 Gastrointestinal Tract: Nausea, vomiting.
 
-Kidneys and Bladder: Anuria or oliguria, urinary retention
+Kidneys and Bladder: Anuria or oliguria, urinary retention.
 
 Laboratory Findings: Isolated instances of overdosage have included leukocytosis, reduced leukocyte count, glycosuria, and acetonuria.
 ECG may show dysrhythmias.
@@ -52,7 +52,7 @@ For severe cases of carbamazepine overdose unresponsive to other measures, charc
 
 Respiratory Depression: Keep the airways free; resort, if necessary, to endotracheal intubation, artificial respiration, and administration of oxygen.
 
-Hypotension, Shock: Keep the patient’s legs raised and administer a plasma expander.
+Hypotension, Shock: Keep the patient's legs raised and administer a plasma expander.
 If blood pressure fails to rise despite measures taken to increase plasma volume, use of vasoactive substances should be considered.
 
 Convulsions: Diazepam or barbiturates.
@@ -60,10 +60,10 @@ Convulsions: Diazepam or barbiturates.
 Warning: Diazepam or barbiturates may aggravate respiratory depression (especially in children), hypotension, and coma.
 However, barbiturates should not be used if drugs that inhibit monoamine oxidase have also been taken by the patient either in overdosage or in recent therapy (within 1 week).
 
-Surveillance:Respiration, cardiac function (ECG monitoring), blood pressure, body temperature, pupillary reflexes, and kidney and bladder function should be monitored for several days.
+Surveillance: Respiration, cardiac function (ECG monitoring), blood pressure, body temperature, pupillary reflexes, and kidney and bladder function should be monitored for several days.
 
 Treatment of Blood Count Abnormalities: If evidence of significant bone marrow depression develops, the following recommendations are suggested: (1) stop the drug, (2) perform daily CBC, platelet, and reticulocyte counts, (3) do a bone marrow aspiration and trephine biopsy immediately and repeat with sufficient frequency to monitor recovery.
 
-Special periodic studies might be helpful as follows: (1) white cell and platelet antibodies, (2)59Fe-ferrokinetic studies, (3) peripheral blood cell typing, (4) cytogenetic studies on marrow and peripheral blood, (5) bone marrow culture studies for colony-forming units, (6) hemoglobin electrophoresis for A2 and F hemoglobin, and (7) serum folic acid and B12 levels.
+Special periodic studies might be helpful as follows: (1) white cell and platelet antibodies, (2) 59Fe-ferrokinetic studies, (3) peripheral blood cell typing, (4) cytogenetic studies on marrow and peripheral blood, (5) bone marrow culture studies for colony-forming units, (6) hemoglobin electrophoresis for A2 and F hemoglobin, and (7) serum folic acid and B12 levels.
 
 A fully developed aplastic anemia will require appropriate, intensive monitoring and therapy, for which specialized consultation should be sought.

@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020712"
+  ],
   "inn": "carbamazepine",
-  "labeler": "Shire US Inc.",
+  "labeler": "Shire US Manufacturing Inc.",
   "package_ndcs": [
     "54092-171-12",
     "54092-172-12",
     "54092-173-12"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carbamazepine",
+      "name": "Carbatrol"
+    }
+  ],
   "setid": "bc03e499-5bac-4293-bff4-6864153a624d",
   "source": "dailymed"
 }

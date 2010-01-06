@@ -2,7 +2,7 @@
 
 General: If adverse reactions are of such severity that the drug must be discontinued, the physician must be aware that abrupt discontinuation of any anticonvulsant drug in a responsive patient with epilepsy may lead to seizures or even status epilepticus with its life-threatening hazards.
 
-The most severe adverse reactions previously observed with carbamazepine were reported in the hemopoietic system (see BOX WARNING), the skin, and the cardiovascular system.
+The most severe adverse reactions previously observed with carbamazepine were reported in the hemopoietic system and skin (see BOX WARNING), and the cardiovascular system.
 
 The most frequently observed adverse reactions, particularly during the initial phases of therapy, are dizziness, drowsiness, unsteadiness, nausea, and vomiting.
 To minimize the possibility of such reactions, therapy should be initiated at the lowest dosage recommended.
@@ -11,7 +11,7 @@ The following additional adverse reactions were previously reported with carbama
 
 Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria.
 
-Skin: Pruritic and erythematous rashes, urticaria, toxic epidermal necrolysis (Lyell’s syndrome) (see WARNINGS), Stevens-Johnson syndrome (see WARNINGS), photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, and diaphoresis.
+Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), pruritic and erythematous rashes, urticaria,, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, and diaphoresis.
 In certain cases, discontinuation of therapy may be necessary.
 Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
