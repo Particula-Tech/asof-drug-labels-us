@@ -8,5 +8,5 @@ Heparin sodium injection is indicated for:
 - Atrial fibrillation with embolization;
 - Diagnosis and treatment of acute and chronic consumption coagulopathies (disseminated intravascular coagulation);
 - Prevention of clotting in arterial and cardiac surgery;
-- Prophylaxis and treatment of peripheral arterial embolism.
+- Prophylaxis and treatment of peripheral arterial embolism;
 - As an anticoagulant in blood transfusions, extracorporeal circulation, dialysis procedures, and in blood samples for laboratory purposes.

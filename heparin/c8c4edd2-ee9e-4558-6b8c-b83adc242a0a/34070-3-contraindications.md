@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Heparin sodium should not be used in patients:
+Heparin should NOT be used in patients with the following conditions:
 
 — Severe thrombocytopenia;
 

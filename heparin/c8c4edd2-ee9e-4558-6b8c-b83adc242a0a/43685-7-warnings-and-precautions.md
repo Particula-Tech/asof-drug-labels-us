@@ -124,7 +124,7 @@ Also, no reproduction studies in animals have been performed concerning mutagene
 
 ## Pregnancy
 
-Teratogenic Effects— Pregnancy Category C:
+Teratogenic Effects — Pregnancy Category C:
 
 Animal reproduction studies have not been conducted with heparin sodium.
 It is also not known whether heparin sodium can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.

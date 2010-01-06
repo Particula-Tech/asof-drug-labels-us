@@ -18,8 +18,10 @@
    Blood.
    2003;102(11):127b.
 
-Revised: December, 2008
+Revised: May, 2009
 
-| Printed in USA | EN-1970 |
-| --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |
+Printed in USA
+
+EN-2150
+
+Hospira, Inc., Lake Forest, IL 60045 USA
