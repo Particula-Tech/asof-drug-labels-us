@@ -1,4 +1,4 @@
-# INFORMATION FOR THE PATIENT
+INFORMATION FOR THE PATIENT
 
 VENTOLIN® HFA Inhalation Aerosol
 
@@ -43,7 +43,7 @@ And do not use a VENTOLIN HFA canister with an actuator from any other inhaler.
 The canister has a counter to show how many sprays of medicine you have left.
 The number shows through a window in the back of the actuator.
 
-The counter starts at 204, or at 64 if you have a sample or institutional canister.
+The counter starts at either 204 or at 64, depending on which size inhaler you have.
 The number will count down by 1 each time you spray the inhaler.
 The counter will stop counting at 000.
 
@@ -56,7 +56,7 @@ Before using your VENTOLIN HFA:
 
 Take the inhaler out of the foil pouch.
 Safely throw away the pouch and the drying packet that comes inside the pouch.
-The counter should read 204 or 64 if you have a sample or institutional canister.
+The counter should read 204 or 64.
 
 If a child needs help using the inhaler, an adult should help the child use the inhaler with or without a holding chamber attached to a facemask.
 The adult should follow the instructions that came with the holding chamber.
@@ -74,7 +74,7 @@ Prime the inhaler before you use it for the first time, if you have not used it 
 To prime the inhaler, take the cap off the mouthpiece of the actuator.
 Then shake the inhaler well, and spray it into the air away from your face.
 Shake and spray the inhaler like this 3 more times to finish priming it.
-The counter should now read 200, or 60 if you have a sample or institutional canister.
+The counter should now read 200 or 60.
 
 Instructions for taking a dose from your VENTOLIN HFA:
 
@@ -108,7 +108,7 @@ Put the cap back on the mouthpiece after every time you use the inhaler, and mak
 When to Replace Your VENTOLIN HFA
 
 - When the counter reads 020, you should refill your prescription or ask your doctor if you need another prescription for VENTOLIN HFA.
-- Throw the inhaler away when the counter reads 000 or 6 months after you have taken the inhaler out of the foil pouch, whichever happens first.
+- Throw the inhaler away when the counter reads 000 or 12 months after you have taken the inhaler out of the foil pouch, whichever happens first.
   You should not keep using the inhaler when the counter reads 000 because you will not receive the right amount of medicine.
 - Do not use the inhaler after the expiration date, which is on the packaging it comes in.
 
@@ -169,7 +169,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-April 2008 VNT:3PIL
+June 2009 VNT:6PIL

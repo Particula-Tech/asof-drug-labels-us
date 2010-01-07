@@ -4,11 +4,13 @@ VENTOLIN HFA (albuterol sulfate) Inhalation Aerosol is supplied in the following
 
 NDC 0173-0682-20 18-g canister containing 200 actuations
 
+NDC 0173-0682-21 8-g canister containing 60 actuations
+
 NDC 0173-0682-24 8-g institutional pack canister containing 60 actuations
 
 Before using, VENTOLIN HFA should be removed from the moisture-protective foil pouch.
 The pouch and dessicant should be discarded.
-VENTOLIN HFA should be discarded 6 months after removal from the pouch.
+VENTOLIN HFA should be discarded 12 months after removal from the pouch.
 
 Priming VENTOLIN HFA is essential to ensure appropriate albuterol content in each actuation.
 To prime the inhaler, release 4 sprays into the air away from the face, shaking well before each spray.
@@ -23,7 +25,7 @@ The blue actuator supplied with VENTOLIN HFA should not be used with any other p
 VENTOLIN HFA has a counter attached to the canister.
 The counter starts at 204 or 64 and counts down each time a spray is released.
 The correct amount of medication in each inhalation cannot be assured after the counter reads 000, even though the canister is not completely empty and will continue to operate.
-VENTOLIN HFA should be discarded when the counter reads 000 or 6 months after removal from the moisture-protective foil pouch, whichever comes first.
+VENTOLIN HFA should be discarded when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch, whichever comes first.
 Never immerse the canister in water to determine the amount of drug remaining in the canister.
 
 Keep out of reach of children.

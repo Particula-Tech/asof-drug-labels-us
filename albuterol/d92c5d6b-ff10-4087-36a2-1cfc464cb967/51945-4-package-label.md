@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0682-20
 
@@ -18,7 +18,7 @@ FOR ORAL INHALATION ONLY
 
 For use with Ventolin® HFA actuator only.
 
-Discard when the counter reads 000 or 6 months after removal from the moisture-protective foil pouch.
+Discard when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch.
 
 Pouch opened: ____ Use by: ____
 
@@ -38,7 +38,6 @@ If difficulty in breathing persists, get immediate medical help.
 Contents Under Pressure: Do not puncture.
 Do not use or store near heat or open flame.
 Keep out of reach of children.
-
 Shake the inhaler well before each spray.
 
 Store and use between 15o and 25oC (59o and 77oF).
@@ -50,5 +49,5 @@ Research Triangle Park, NC 27709
 
 Made in United Kingdom
 
-10000000056201 Rev.
-5/08
+10000000070893 Rev.
+8/09

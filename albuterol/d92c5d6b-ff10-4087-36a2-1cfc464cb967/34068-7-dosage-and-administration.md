@@ -24,6 +24,6 @@ Dose Counter: VENTOLIN HFA has a dose counter attached to the canister that star
 When the counter reads 020, the patient should contact the pharmacist for a refill of medication or consult the physician to determine whether a prescription refill is needed.
 
 VENTOLIN HFA comes in a moisture-protective foil pouch, which should be removed prior to use.
-Discard VENTOLIN HFA when the counter reads 000 or 6 months after removal from the moisture-protective foil pouch, whichever comes first [see Dosage Forms and Strengths (3)].
+Discard VENTOLIN HFA when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch, whichever comes first [see Dosage Forms and Strengths (3)].
 
 See 17.8 FDA-Approved Patient Labeling for instructions on how to prime and clean the inhaler to ensure proper dosing and to prevent actuator orifice blockage.

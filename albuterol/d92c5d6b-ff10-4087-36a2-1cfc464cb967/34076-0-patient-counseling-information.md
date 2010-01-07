@@ -21,7 +21,7 @@ Patients should be informed that detailed cleaning instructions are included in 
 ## 17.3 Dose Counter
 
 Patients should be informed that VENTOLIN HFA has a dose counter that starts at 204 or 64 and counts down each time a spray is released.
-Patients should be informed to discard VENTOLIN HFA when the counter reads 000 or 6 months after removal from the moisture-protective foil pouch, whichever comes first.
+Patients should be informed to discard VENTOLIN HFA when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch, whichever comes first.
 When the counter reads 020, the patient should contact the pharmacist for a refill of medication or consult the physician to determine whether a prescription refill is needed.
 Patients should never try to alter the numbers or remove the counter from the metal canister.
 Patients should never immerse the canister in water to determine the amount of drug remaining in the canister.
@@ -57,7 +57,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
 PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT
