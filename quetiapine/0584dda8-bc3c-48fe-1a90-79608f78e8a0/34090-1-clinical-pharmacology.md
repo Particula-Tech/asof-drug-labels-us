@@ -17,11 +17,20 @@ SEROQUEL has no appreciable affinity at cholinergic muscarinic and benzodiazepin
 
 ## 12.3 Pharmacokinetics
 
+Adults
+
 Quetiapine fumarate activity is primarily due to the parent drug.
 The multiple-dose pharmacokinetics of quetiapine are dose-proportional within the proposed clinical dose range, and quetiapine accumulation is predictable upon multiple dosing.
 Elimination of quetiapine is mainly via hepatic metabolism with a mean terminal half-life of about 6 hours within the proposed clinical dose range.
 Steady-state concentrations are expected to be achieved within two days of dosing.
 Quetiapine is unlikely to interfere with the metabolism of drugs metabolized by cytochrome P450 enzymes.
+
+Children and Adolescents
+
+At steady-state the pharmacokinetics of the parent compound, in children and adolescents (10-17 years of age), were similar to adults.
+However, when adjusted for dose and weight, AUC and Cmax of the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
+For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
+When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
 
 Absorption
 
@@ -47,7 +56,7 @@ In vitro studies using human liver microsomes revealed that the cytochrome P450 
 
 Age
 
-Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2)].
+Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [seeDosage and Administration (2)].
 
 Gender
 
@@ -70,14 +79,14 @@ Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [seeDosage and Administration (2)].
 
 Drug-Drug Interactions
 
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes P450 1A2, 2C9, 2C19, 2D6 and 3A4.
 
 Quetiapine oral clearance is increased by the prototype cytochrome P450 3A4 inducer, phenytoin, and decreased by the prototype cytochrome P450 3A4 inhibitor, ketoconazole.
-Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [see Drug Interactions (7.2)].
+Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [see Drug Interactions (7.1)].
 
 Quetiapine oral clearance is not inhibited by the non-specific enzyme inhibitor, cimetidine.
 

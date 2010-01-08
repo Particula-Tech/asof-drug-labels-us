@@ -1,34 +1,29 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Bipolar Disorder
-
-SEROQUEL is indicated for the:
-
-- treatment of depressive episodes associated with bipolar disorder
-- treatment of acute manic episodes associated with bipolar I disorder as either monotherapy or adjunct therapy to lithium or divalproex
-- maintenance treatment of bipolar I disorder as adjunct therapy to lithium or divalproex.
-
-Depression
-
-The efficacy of SEROQUEL was established in two identical 8-week randomized, placebo-controlled double-blind clinical studies that included either bipolar I or II patients [see Clinical Pharmacology (12)].
-Effectiveness has not been systematically evaluated in clinical trials for more than 8 weeks.
-
-Mania
-
-The efficacy of SEROQUEL in acute bipolar mania was established in two 12-week monotherapy trials and one 3-week adjunct therapy trial of bipolar I patients initially hospitalized for up to 7 days for acute mania [see Clinical Pharmacology (12)].
-Effectiveness has not been systematically evaluated in clinical trials for more than 12 weeks in monotherapy.
-
-Maintenance Treatment in Bipolar Disorder
-
-The efficacy of SEROQUEL as adjunct maintenance therapy to lithium or divalproex was established in 2 identical randomized placebo-controlled double-blind studies in patients with Bipolar I Disorder [see Clinical Studies (14)].
-
-The physician who elects to use SEROQUEL for extended periods in Bipolar Disorder should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient [see Dosage and Administration (2)].
-
-## 1.2 Schizophrenia
+## 1.1 Schizophrenia
 
 SEROQUEL is indicated for the treatment of schizophrenia.
+The efficacy of SEROQUEL in schizophrenia was established in three 6-week trials in adults and one 6–week trial in adolescents (13–17 years).
+The effectiveness of SEROQUEL for the maintenance treatment of schizophrenia has not been systematically evaluated in controlled clinical trials.
+[see Clinical Studies,(14.1)]
 
-The efficacy of SEROQUEL in schizophrenia was established in short-term (6-week) controlled trials of schizophrenic inpatients [see Clinical Pharmacology (12)].
+## 1.2 Bipolar Disorder
 
-The effectiveness of SEROQUEL in long-term use, that is, for more than 6 weeks, has not been systematically evaluated in controlled trials.
-Therefore, the physician who elects to use SEROQUEL for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2)].
+SEROQUEL is indicated for the acute treatment of manic episodes associated with bipolar I disorder, both as monotherapy and as an adjunct to lithium or divalproex.
+Efficacy was established in two 12-week monotherapy trials in adults, in one 3-week adjunctive trial in adults, and in one 3-week monotherapy trial in pediatric patients (10-17 years).
+[see Clinical Studies (14.2)].
+
+SEROQUEL is indicated as monotherapy for the acute treatment of depressive episodes associated with bipolar disorder.
+Efficacy was established in two 8-week monotherapy trials in adult patients with bipolar I and bipolar II disorder [see Clinical Studies (14.2)].
+
+SEROQUEL is indicated for the maintenance treatment of bipolar I disorder, as an adjunct to lithium or divalproex.
+Efficacy was established in two maintenance trials in adults.
+The effectiveness of SEROQUEL as monotherapy for the maintenance treatment of bipolar disorder has not been systematically evaluated in controlled clinical trials.
+[see Clinical Studies (14.2)].
+
+## 1.3 Special Considerations in Treating Pediatric Schizophrenia and Bipolar I Disorder
+
+Pediatric schizophrenia and bipolar I disorder are serious mental disorders, however, diagnosis can be challenging.
+For pediatric schizophrenia, symptom profiles can be variable, and for bipolar I disorder, patients may have variable patterns of periodicity of manic or mixed symptoms.
+It is recommended that medication therapy for pediatric schizophrenia and bipolar I disorder be initiated only after a thorough diagnostic evaluation has been performed and careful consideration given to the risks associated with medication treatment.
+Medication treatment for both pediatric schizophrenia and bipolar I disorder is indicated as part of a total treatment program that often includes psychological, educational and social interventions.

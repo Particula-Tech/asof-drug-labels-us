@@ -8,7 +8,7 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 SEROQUEL (quetiapine) is not approved for the treatment of patients with dementia-related psychosis [see Warnings and Precautions (5.1)].
 
-SUICIDALITY AND ANTIDEPRESSANT DRUGS
+# SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
 Anyone considering the use of SEROQUEL or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
@@ -16,4 +16,4 @@ Short-term studies did not show an increase in the risk of suicidality with anti
 Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-SEROQUEL is not approved for use in pediatric patients [see Warnings and Precautions (5.2)].
+SEROQUEL is not approved for use in patients under 10 years of age [see Warnings and Precautions (5.2)].

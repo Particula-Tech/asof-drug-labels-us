@@ -2,6 +2,8 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Category C:
+
 The teratogenic potential of quetiapine was studied in Wistar rats and Dutch Belted rabbits dosed during the period of organogenesis.
 No evidence of a teratogenic effect was detected in rats at doses of 25 to 200 mg/kg or 0.3 to 2.4 times the maximum human dose on a mg/m2 basis or in rabbits at 25 to 100 mg/kg or 0.6 to 2.4 times the maximum human dose on a mg/m2 basis.
 There was, however, evidence of embryo/fetal toxicity.
@@ -26,7 +28,35 @@ It is recommended that women receiving SEROQUEL should not breast feed.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SEROQUEL have not been established in pediatric patients and SEROQUEL is not approved for patients under the age of 18 years [see Warnings and Precautions (5) and Adverse Reactions (6)].
+In general, the adverse reactions observed in children and adolescents during the clinical trials were similar to those in the adult population with few exceptions.
+Increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults.
+Orthostatic hypotension occurred more frequently in adults (4-7%) compared to children and adolescents (< 1%).
+
+Schizophrenia
+
+The efficacy and safety of SEROQUEL in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one six week, double-blind, placebo-controlled trial [see Indications and Usage (1.1), Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies(14.1)].
+
+Safety and effectiveness of SEROQUEL in pediatric patients less than 13 years of age with schizophrenia have not been established.
+
+Maintenance
+
+The safety and effectiveness of SEROQUEL in the maintenance treatment of bipolar disorder has not been established in pediatric patients less than 18 years of age.
+The safety and effectiveness of SEROQUEL in the maintenance treatment of schizophrenia has not been established in any patient population, including pediatric patients.
+
+Bipolar Mania
+
+The efficacy and safety of SEROQUEL in the treatment of mania in children and adolescents ages 10 to 17 years with Bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial.
+[see Indications and Usage (1.2), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+
+Safety and effectiveness of SEROQUEL in pediatric patients less than 10 years of age with bipolar mania have not been established.
+
+Bipolar Depression
+
+Safety and effectiveness of SEROQUEL in pediatric patients less than 18 years of age with bipolar depression have not been established.
+
+Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10 to 17 years of age) and adults.
+When adjusted for weight, the AUC and Cmax of quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.
+The pharmacokinetics of the active metabolite, norquetiapine, were similar between children/adolescents and adults after adjusting for weight [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 

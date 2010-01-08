@@ -3,7 +3,8 @@
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-SEROQUEL (quetiapine fumarate) is not approved for the treatment of patients with dementia-related psychosis (see Boxed Warning).
+SEROQUEL (quetiapine fumarate) is not approved for the treatment of patients with dementia-related psychosis.
+[see Boxed Warning].
 
 ## 5.2 Clinical Worsening and Suicide Risk
 
@@ -54,92 +55,7 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that SEROQUEL is approved for use in treating adult bipolar depression.
 
-## 5.3 Hyperglycemia and Diabetes Mellitus
-
-Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including quetiapine.
-Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
-Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse reactions is not completely understood.
-However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
-Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
-
-Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
-Patients with risk factors for diabetes mellitus (eg, obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
-Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
-Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
-
-Adults: In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar maintenance, mean exposure of 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for SEROQUEL and –0.05 mg/dL for placebo.
-The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for SEROQUEL (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
-
-In short-term (12 weeks duration or less) placebo-controlled clinical trials (3342 patients treated with quetiapine and 1490 treated with placebo), the percent of patients who had a fasting blood glucose ≥ 126 mg/dL or a non fasting blood glucose ≥ 200 mg/dL was 3.5% for quetiapine and 2.1% for placebo.
-The mean change in glucose from baseline was 2.70 mg/dL for quetiapine and 1.06 mg/dL for placebo.
-
-In a 24-week trial (active-controlled, 115 patients treated with SEROQUEL) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
-The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
-
-Children and Adolescents: Safety and effectiveness of SEROQUEL have not been established in pediatric patients and SEROQUEL is not approved for patients under the age of 18 years.
-In a placebo-controlled SEROQUEL monotherapy study of adolescent patients (13 –17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for SEROQUEL compared to placebo was –0.75 mg/dL versus –1.70 mg/dL.
-In a placebo-controlled SEROQUEL monotherapy study of children and adolescent patients (10 –17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for SEROQUEL compared to placebo was 3.62 mg/dL versus –1.17 mg/dL.
-No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a treatment-emergent blood glucose level of ≥126 mg/dL.
-
-## 5.4 Hyperlipidemia
-
-Adults: In clinical trials with SEROQUEL the percentage of patients with the following changes in cholesterol and triglycerides have been reported [see Adverse Reactions (6.3)].
-
-Percentage of Patients with Shifts from Normal Baseline to Clinically Significant Levels
-
-|  | Cholesterol ≥240 mg/dL | Triglycerides ≥200 mg/dL |
-| --- | --- | --- |
-| Schizophrenia (6 weeks duration) |  |  |
-| SEROQUEL | 16% | 23% |
-| Placebo | 7% | 16% |
-| Bipolar Depression (8 weeks duration) |  |  |
-| SEROQUEL | 9% | 14% |
-| Placebo | 6% | 9% |
-
-Children and Adolescents: Safety and effectiveness of SEROQUEL have not been established in pediatric patients and SEROQUEL is not approved for patients under the age of 18 years.
-In clinical trials with SEROQUEL the percentage of patients with the following changes in cholesterol and triglycerides have been reported.
-
-Percentage of Patients with Shifts from Normal Baseline to Clinically Significant Levels
-
-|  | Cholesterol ≥240 mg/dL | Triglycerides ≥200 mg/dL |
-| --- | --- | --- |
-| Schizophrenia (13-17 years, 6 weeks duration) |  |  |
-| SEROQUEL | 12% | 17% |
-| Placebo | 2% | 8% |
-| Bipolar Mania (10-17 years, 3 weeks duration) |  |  |
-| SEROQUEL | 10% | 22% |
-| Placebo | 3% | 13% |
-
-## 5.5 Weight Gain
-
-Adults: In clinical trials with SEROQUEL the following increases in weight have been reported.
-
-Proportion of Patients with Weight Gain ≥7% of Body Weight (Adults)
-
-|  | Schizophrenia (up to 6 weeks) | Bipolar Mania (monotherapy) (up to 12 weeks) | Bipolar Mania (adjunct therapy) (up to 3 weeks) | Bipolar Depression (up to 8 weeks) |
-| --- | --- | --- | --- | --- |
-| SEROQUEL | 23% | 21% | 13% | 8% |
-| placebo | 6% | 7% | 4% | 2% |
-
-Children and Adolescents: Safety and effectiveness of SEROQUEL have not been established in pediatric patients and SEROQUEL is not approved for patients under the age of 18 years.
-In two clinical trials with SEROQUEL, one in bipolar mania and one in schizophrenia, reported increases in weight are included in the table below.
-When treating pediatric patients with SEROQUEL for any indication, weight gain should be assessed against that expected for normal growth.
-The mean change in body weight in the schizophrenia trial was 2.0 kg in the SEROQUEL group and -0.4 kg in the placebo group and in the bipolar mania trial it was 1.7 kg in the SEROQUEL group and 0.4 kg in the placebo group.
-
-Proportion of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
-
-|  | Schizophrenia (6 weeks) | Bipolar Mania (3 weeks) |
-| --- | --- | --- |
-| SEROQUEL | 21% | 12% |
-| Placebo | 7% | 0% |
-
-In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with SEROQUEL.
-After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
-Forty-five percent of the patients gained ≥ 7% of their body weight, not adjusted for normal growth.
-In order to adjust for normal growth over 26 weeks an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on SEROQUEL met this criterion after 26 weeks of treatment.
-
-## 5.6 Neuroleptic Malignant Syndrome (NMS)
+## 5.3 Neuroleptic Malignant Syndrome (NMS)
 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with administration of antipsychotic drugs, including SEROQUEL.
 Rare cases of NMS have been reported with SEROQUEL.
@@ -155,6 +71,133 @@ There is no general agreement about specific pharmacological treatment regimens 
 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored since recurrences of NMS have been reported.
+
+## 5.4 Hyperglycemia and Diabetes Mellitus
+
+Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including quetiapine.
+Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
+Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse reactions is not completely understood.
+However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
+Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
+
+Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+
+Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
+Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
+
+Adults:
+
+Table 2: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≥ 12 weeks) Placebo Controlled Studies
+
+| Laboratory Analyte | Category Change (At Least Once from Baseline) | Treatment Arm | N | Patients n (%) |
+| --- | --- | --- | --- | --- |
+| Fasting Glucose | Normal to High (<100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
+| Placebo | 1346 | 19 (1.4%) |  |  |
+| Borderline to High (≥ 100 mg/dL and < 126 mg/dL to ≥ 126 mg/dL | Quetiapine | 572 | 67 (11.7%) |  |
+| Placebo | 279 | 33 (11.8%) |  |  |
+
+In a 24-week trial (active-controlled, 115 patients treated with SEROQUEL) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
+The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
+
+In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar maintenance, mean exposure of 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for SEROQUEL and –0.05 mg/dL for placebo.
+The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for SEROQUEL (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
+
+Children and Adolescents: In a placebo-controlled SEROQUEL monotherapy study of adolescent patients (13 –17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for SEROQUEL (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
+In a placebo-controlled SEROQUEL monotherapy study of children and adolescent patients (10 –17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for SEROQUEL (n=170) compared to placebo (n=81) was 3.62 mg/dL versus –1.17 mg/dL.
+No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a treatment-emergent blood glucose level of ≥126 mg/dL.
+
+## 5.5 Hyperlipidemia
+
+Adults: Undesirable alterations in lipids have been observed with quetiapine use.
+Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using quetiapine is recommended.
+
+Table 3 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by indication in clinical trials with SEROQUEL.
+
+Table 3: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-cholesterol and HDL-cholesterol from Baseline to Clinically Significant Levels by Indication
+
+| Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
+| --- | --- | --- | --- | --- |
+| Total Cholesterol ≥ 240 mg/dL | Schizophrenia6 weeks duration | Quetiapine | 137 | 24 (18%) |
+| Placebo | 92 | 6 (7%) |  |  |
+| Bipolar Depression8 weeks duration | Quetiapine | 463 | 41 (9%) |  |
+| Placebo | 250 | 15 (6%) |  |  |
+| Triglycerides ≥200 mg/dL | Schizophrenia | Quetiapine | 120 | 26 (22%) |
+| Placebo | 70 | 11 (16%) |  |  |
+| Bipolar Depression | Quetiapine | 436 | 59 (14%) |  |
+| Placebo | 232 | 20 (9%) |  |  |
+| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | Quetiapine | naParameters not measured in the SEROQUEL registration studies for schizophrenia. Lipid parameters also were not measured in the bipolar mania registration studies. | na |
+| Placebo | na | na |  |  |
+| Bipolar Depression | Quetiapine | 465 | 29 (6%) |  |
+| Placebo | 256 | 12 (5%) |  |  |
+| HDL-Cholesterol ≤ 40 mg/dL | Schizophrenia | Quetiapine | na | na |
+| Placebo | na | na |  |  |
+| Bipolar Depression | Quetiapine | 393 | 56 (14%) |  |
+| Placebo | 214 | 29 (14%) |  |  |
+
+Children and Adolescents: Table 4 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline in clinical trials with SEROQUEL.
+
+Table 4: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels
+
+| Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
+| --- | --- | --- | --- | --- |
+| Total Cholesterol ≥ 200 mg/dL | Schizophrenia13-17 years, 6 weeks duration | Quetiapine | 107 | 13 (12%) |
+| Placebo | 56 | 1 (2%) |  |  |
+| Bipolar Mania10-17 years, 3 weeks duration | Quetiapine | 159 | 16 (10%) |  |
+| Placebo | 66 | 2 (3%) |  |  |
+| Triglycerides ≥150 mg/dL | Schizophrenia | Quetiapine | 103 | 17 (17%) |
+| Placebo | 51 | 4 (8%) |  |  |
+| Bipolar Mania | Quetiapine | 149 | 32 (22%) |  |
+| Placebo | 60 | 8 (13%) |  |  |
+| LDL-Cholesterol ≥ 130 mg/dL | Schizophrenia | Quetiapine | 112 | 4 (4%) |
+| Placebo | 60 | 1 (2%) |  |  |
+| Bipolar Mania | Quetiapine | 169 | 13 (8%) |  |
+| Placebo | 74 | 4 (5%) |  |  |
+| HDL-Cholesterol ≤ 40 mg/dL | Schizophrenia | Quetiapine | 104 | 16 (15%) |
+| Placebo | 54 | 10 (19%) |  |  |
+| Bipolar Mania | Quetiapine | 154 | 16 (10%) |  |
+| Placebo | 61 | 4 (7%) |  |  |
+
+## 5.6 Weight Gain
+
+Increases in weight have been observed in clinical trials.
+Patients receiving quetiapine should receive regular monitoring of weight [see Patient Counseling Information(17)].
+
+Adults: In clinical trials with SEROQUEL the following increases in weight have been reported.
+
+Table 5: Proportion of Patients with Weight Gain ≥7% of Body Weight (Adults)
+
+| Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
+| --- | --- | --- | --- | --- |
+| Weight Gain ≥7% of body weight | Schizophreniaup to 6 weeks duration | SEROQUEL | 391 | 89 (23%) |
+| Placebo | 206 | 11 (6%) |  |  |
+| Bipolar Mania (monotherapy)up to 12 weeks duration | SEROQUEL | 209 | 44 (21%) |  |
+| Placebo | 198 | 13 (7%) |  |  |
+| Bipolar Mania (adjunct therapy)up to 3 weeks duration | SEROQUEL | 196 | 25 (13%) |  |
+| Placebo | 203 | 8 (4%) |  |  |
+| Bipolar Depressionup to 8 weeks duration | SEROQUEL | 554 | 47 (8%) |  |
+| Placebo | 295 | 7 (2%) |  |  |
+
+Children and Adolescents: In two clinical trials with SEROQUEL, one in bipolar mania and one in schizophrenia, reported increases in weight are included in the table below.
+
+Table 6: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
+
+| Vital sign | Indication | Treatment Arm | N | Patients n (%) |
+| --- | --- | --- | --- | --- |
+| Weight gain ≥7% of body weight | Schizophrenia: 6 weeks duration | SEROQUEL | 111 | 23 (21%) |
+| Placebo | 44 | 3 (7%) |  |  |
+| Bipolar Mania: 3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
+| Placebo | 68 | 0 (0%) |  |  |
+
+The mean change in body weight in the schizophrenia trial was 2.0 kg in the SEROQUEL group and -0.4 kg in the placebo group and in the bipolar mania trial it was 1.7 kg in the SEROQUEL group and 0.4 kg in the placebo group.
+
+In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with SEROQUEL.
+After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
+Forty-five percent of the patients gained ≥ 7% of their body weight, not adjusted for normal growth.
+In order to adjust for normal growth over 26 weeks an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on SEROQUEL met this criterion after 26 weeks of treatment.
+
+When treating pediatric patients with SEROQUEL for any indication, weight gain should be assessed against that expected for normal growth.
 
 ## 5.7 Tardive Dyskinesia
 
@@ -183,13 +226,19 @@ Quetiapine may induce orthostatic hypotension associated with dizziness, tachyca
 Syncope was reported in 1% (28/3265) of the patients treated with SEROQUEL, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
-SEROQUEL should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
+SEROQUEL should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications) [see Adverse Reactions (6.2)].
 The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2)].
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
-## 5.9 Leukopenia, Neutropenia and Agranulocytosis
+## 5.9 Increases in Blood Pressure in Children and Adolescents
 
-In clinical trials and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including SEROQUEL.
+In placebo-controlled trials in children and adolescents with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 15.2% (51/335) for SEROQUEL and 5.5% (9/163) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 40.6% (136/335) for SEROQUEL and 24.5% (40/163) for placebo.
+In the 26-week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
+Blood pressure in children and adolescents should be measured at the beginning of, and periodically during treatment.
+
+## 5.10 Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including SEROQUEL.
 Agranulocytosis (including fatal cases) has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white cell count (WBC) and history of drug induced leukopenia/neutropenia.
@@ -198,39 +247,37 @@ Patients with a pre-existing low WBC or a history of drug induced leukopenia/neu
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue SEROQUEL and have their WBC followed until recovery [see Adverse Reactions (6.2)].
 
-## 5.10 Cataracts
+## 5.11 Cataracts
 
 The development of cataracts was observed in association with quetiapine treatment in chronic dog studies [see Nonclinical Toxicology, Animal Toxicology (13.2)].
 Lens changes have also been observed in patients during long-term SEROQUEL treatment, but a causal relationship to SEROQUEL use has not been established.
 Nevertheless, the possibility of lenticular changes cannot be excluded at this time.
 Therefore, examination of the lens by methods adequate to detect cataract formation, such as slit lamp exam or other appropriately sensitive methods, is recommended at initiation of treatment or shortly thereafter, and at 6-month intervals during chronic treatment.
 
-## 5.11 Seizures
+## 5.12 Seizures
 
 During clinical trials, seizures occurred in 0.5% (20/3490) of patients treated with SEROQUEL compared to 0.2% (2/954) on placebo and 0.7% (4/527) on active control drugs.
-As with other antipsychotics, SEROQUEL should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, eg, Alzheimer’s dementia.
+As with other antipsychotics, SEROQUEL should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.12 Hypothyroidism
+## 5.13 Hypothyroidism
 
 Adults: Clinical trials with SEROQUEL demonstrated a dose-related decrease in total and free thyroxine (T4) of approximately 20% at the higher end of the therapeutic dose range and was maximal in the first two to four weeks of treatment and maintained without adaptation or progression during more chronic therapy.
-Generally, these changes were of no clinical significance and TSH was unchanged in most patients and levels of TBG were unchanged.
+Generally, these changes were of no clinical significance and thyroid stimulating hormone (TSH) was unchanged in most patients and levels of thyroid binding globulin (TBG) were unchanged.
 In nearly all cases, cessation of SEROQUEL treatment was associated with a reversal of the effects on total and free T4, irrespective of the duration of treatment.
 About 0.7% (26/3489) of SEROQUEL patients did experience TSH increases in monotherapy studies.
 Six of the patients with TSH increases needed replacement thyroid treatment.
 In the mania adjunct studies, where SEROQUEL was added to lithium or divalproex, 12% (24/196) of SEROQUEL treated patients compared to 7% (15/203) of placebo-treated patients had elevated TSH levels.
 Of the SEROQUEL treated patients with elevated TSH levels, 3 had simultaneous low free T4 levels.
 
-Children and Adolescents: Safety and effectiveness of SEROQUEL have not been established in pediatric patients and SEROQUEL is not approved for patients under the age of 18 years.
-In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts to potentially clinically important thyroid function values at any time for SEROQUEL treated patients and placebo-treated patients for elevated TSH was 2.9% vs 0.7%, respectively and for decreased total thyroxine was 2.8% vs 0%, respectively.
+Children and Adolescents: In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts to potentially clinically important thyroid function values at any time for SEROQUEL treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the SEROQUEL treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
-## 5.13 Hyperprolactinemia
+## 5.14 Hyperprolactinemia
 
 Adults: During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4416) of patients treated with quetiapine compared to 2.6% (51/1968) on placebo.
 
-Children and Adolescents: Safety and effectiveness of SEROQUEL have not been established in pediatric patients and SEROQUEL is not approved for patients under the age of 18 years.
-In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts in prolactin levels to a clinically significant value (>20 µg/L males; > 26 µg/L females at any time) was 13.4% for SEROQUEL compared to 4% for placebo in males and 8.7% for SEROQUEL compared to 0% for placebo in females.
+Children and Adolescents: In acute placebo-controlled trials in children and adolescent patients with bipolar mania (3-week duration) or schizophrenia (6-week duration), the incidence of shifts in prolactin levels to a clinically significant value (>20 µg/L males; > 26 µg/L females at any time) was 13.4% (18/134) for SEROQUEL compared to 4% (3/75) for placebo in males and 8.7% (9/104) for SEROQUEL compared to 0% (0/39) for placebo in females.
 
 Like other drugs that antagonize dopamine D2 receptors, SEROQUEL elevates prolactin levels in some patients and the elevation may persist during chronic administration.
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
@@ -239,29 +286,24 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Carcinogenesis, Mutagenesis, Impairment of Fertility (13.1)].
-
-## 5.14 Increases in Blood Pressure (Children and Adolescents)
-
-Safety and effectiveness of SEROQUEL have not been established in pediatric patients and SEROQUEL is not approved for patients under the age of 18 years.
-In acute placebo-controlled trials in children and adolescents with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 15.2% for SEROQUEL and 5.5% for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 40.6% for SEROQUEL and 24.5% for placebo.
+As is common with compounds which increase prolactin release, mammary gland and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) were observed in carcinogenicity studies conducted in mice and rats.
+Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [seeCarcinogenesis, Mutagenesis, Impairment of Fertility (13.1)].
 
 ## 5.15 Transaminase Elevations
 
 Asymptomatic, transient and reversible elevations in serum transaminases (primarily ALT) have been reported.
-In schizophrenia trials, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% for SEROQUEL compared to 1% for placebo.
-In acute bipolar mania trials, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both SEROQUEL and placebo.
+In schizophrenia trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for SEROQUEL compared to 1% (3/194)for placebo.
+In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both SEROQUEL (3/560) and placebo (3/294).
 These hepatic enzyme elevations usually occurred within the first 3 weeks of drug treatment and promptly returned to pre-study levels with ongoing treatment with SEROQUEL.
-In bipolar depression trials, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% for SEROQUEL and 2% for placebo.
+In bipolar depression trials, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% (5/698) for SEROQUEL and 2% (6/347) for placebo.
 
 ## 5.16 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse event reported in patients treated with SEROQUEL especially during the 3-5 day period of initial dose-titration.
-In schizophrenia trials, somnolence was reported in 18% of patients on SEROQUEL compared to 11% of placebo patients.
-In acute bipolar mania trials using SEROQUEL as monotherapy, somnolence was reported in 16% of patients on SEROQUEL compared to 4% of placebo patients.
-In acute bipolar mania trials using SEROQUEL as adjunct therapy, somnolence was reported in 34% of patients on SEROQUEL compared to 9% of placebo patients.
-In bipolar depression trials, somnolence was reported in 57% of patients on SEROQUEL compared to 15% of placebo patients.
+In schizophrenia trials, somnolence was reported in 18% (89/510) of patients on SEROQUEL compared to 11% (22/206) of placebo patients.
+In acute bipolar mania trials using SEROQUEL as monotherapy, somnolence was reported in 16% (34/209) of patients on SEROQUEL compared to 4% of placebo patients.
+In acute bipolar mania trials using SEROQUEL as adjunct therapy, somnolence was reported in 34% (66/196) of patients on SEROQUEL compared to 9% (19/203) of placebo patients.
+In bipolar depression trials, somnolence was reported in 57% (398/698) of patients on SEROQUEL compared to 15% (51/347) of placebo patients.
 Since SEROQUEL has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that SEROQUEL therapy does not affect them adversely.
 Somnolence may lead to falls.
 
@@ -287,11 +329,11 @@ SEROQUEL and other antipsychotic drugs should be used cautiously in patients at 
 The possibility of a suicide attempt is inherent in bipolar disorder and schizophrenia; close supervision of high risk patients should accompany drug therapy.
 Prescriptions for SEROQUEL should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
 
-In 2 eight-week clinical studies in patients with bipolar depression (N=1048), the incidence of treatment emergent suicidal ideation or suicide attempt was low and similar to placebo (SEROQUEL 300 mg, 6/350, 1.7%; SEROQUEL 600 mg, 9/348, 2.6%; Placebo, 7/347, 2.0%).
+In 2 eight-week clinical studies in patients with bipolar depression (N=1048), the incidence of treatment-emergent suicidal ideation or suicide attempt was low and similar to placebo (SEROQUEL 300 mg, 6/350, 1.7%; SEROQUEL 600 mg, 9/348, 2.6%; Placebo, 7/347, 2.0%).
 
 ## 5.21 Use in Patients with Concomitant Illness
 
-Clinical experience with SEROQUEL in patients with certain concomitant systemic illnesses is limited [see Pharmacokinetics (12.3)].
+Clinical experience with SEROQUEL in patients with certain concomitant systemic illnesses is limited [seePharmacokinetics (12.3)].
 
 SEROQUEL has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
