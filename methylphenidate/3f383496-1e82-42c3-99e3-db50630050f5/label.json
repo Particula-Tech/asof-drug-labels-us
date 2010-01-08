@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021121"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Caremark L.L.C.",
+  "package_ndcs": [
+    "0339-4169-11",
+    "0339-4170-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "CONCERTA"
+    }
+  ],
+  "setid": "3f383496-1e82-42c3-99e3-db50630050f5",
+  "source": "dailymed"
+}

@@ -1,0 +1,27 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+For more information call 1-888-440-7903.
+
+Manufactured for: McNeil Pediatrics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+
+10180601
+
+Revised: June 2009
+
+# 20 MANUFACTURER INFORMATION
+
+Manufactured By:
+
+McNEIL PEDIATRICS, DIVISION OF ORTHO-McNEIL-JANSSEN PHARMACEUTICALS, INC. MFR.
+FOR: McNEIL PEDIATRICS, DIVISION OF ORTHO-McNEIL-JANSSEN PHARMACEUTICALS,INC.
+
+As NDC:
+
+50458-586-01 For 0339-4170-11 CONCERTA 36 mg
+
+50458-587-01 For 0339-4169-11 CONCERTA 54 mg
+
+Repackaged By:
+
+Caremark L.L.C.
+1100 Lakeside Drive Gurnee, Illinois 60031 United States
