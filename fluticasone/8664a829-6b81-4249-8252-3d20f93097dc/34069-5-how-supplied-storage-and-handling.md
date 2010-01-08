@@ -8,6 +8,16 @@ CUTIVATE® (fluticasone propionate ointment) Ointment, 0.005% is supplied in:
 
 Store between 2°and 30°C (36°and 86°F).
 
-PharmaDerm® a division of ALTANA Inc Duluth, GA 30096 USA www.pharmaderm.com
+PharmaDerm®
 
-I8333 R5/06 #144
+A division of Nycomed US Inc.
+
+Melville, NY 11747 USA
+
+www.pharmaderm.com
+
+I8333B
+
+R6/08
+
+#144
