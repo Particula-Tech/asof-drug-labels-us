@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076451"
+  ],
   "inn": "fluticasone",
-  "labeler": "PharmaDerm",
+  "labeler": "PHARMADERM., A division of Nycomed US Inc.",
   "package_ndcs": [
     "0462-0332-15",
     "0462-0332-30",
     "0462-0332-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluticasone propionate",
+      "name": "Cutivate"
+    }
+  ],
   "setid": "3b5de5ca-a947-4815-8968-e09fc985e83c",
   "source": "dailymed"
 }
