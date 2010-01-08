@@ -10,44 +10,43 @@ Withdrawals were less than 1% for either bradycardia or fatigue/lack of energy.
 The following table presents adverse experiences, whether or not considered drug related, reported in at least 1% of patients in these studies, for all patients studied in placebo-controlled clinical trials (2.5 to 40 mg), as well as for a subgroup that was treated with doses within the recommended dosage range (5 to 20 mg).
 Of the adverse events listed in the table, bradycardia, diarrhea, asthenia, fatigue, and sinusitis appear to be dose related.
 
-| Placebo (n=132) % | 5 to 20 mg (n=273) % |  |  | 2.5 to 40 mg (n=404) % |  |
-| --- | --- | --- | --- | --- | --- |
-|  | All Adverse Experiences (%a) |  |  |  |  |
-| Bisoprolol Fumarate |  |  |  |  |  |
-| Skin |  |  |  |  |  |
-| increased sweating | 1.5 | 0.7 |  |  | 1 |
-| Musculoskeletal |  |  |  |  |  |
-| arthralgia | 2.3 | 2.2 |  |  | 2.7 |
-| Central Nervous System |  |  |  |  |  |
-| dizziness | 3.8 | 2.9 |  |  | 3.5 |
-| headache | 11.4 | 8.8 |  |  | 10.9 |
-| hypoaesthesia | 0.8 | 1.1 |  |  | 1.5 |
-| Autonomic Nervous System |  |  |  |  |  |
-| dry mouth | 1.5 | 0.7 |  |  | 1.3 |
-| Heart Rate/Rhythm |  |  |  |  |  |
-| bradycardia | 0 | 0.4 |  |  | 0.5 |
-| Psychiatric |  |  |  |  |  |
-| vivid dreams | 0 | 0 |  |  | 0 |
-| insomnia | 2.3 |  | 1.5 | 2.5 |  |
-| depression | 0.8 |  | 0 | 0.2 |  |
-| Gastrointestinal |  |  |  |  |  |
-| diarrhea | 1.5 |  | 2.6 | 3.5 |  |
-| nausea | 1.5 |  | 1.5 | 2.2 |  |
-| vomiting | 0 |  | 1.1 | 1.5 |  |
-| Respiratory |  |  |  |  |  |
-| bronchospasm | 0 |  | 0 | 0 |  |
-| cough | 4.5 |  | 2.6 | 2.5 |  |
-| dyspnea | 0.8 |  | 1.1 | 1.5 |  |
-| pharyngitis | 2.3 |  | 2.2 | 2.2 |  |
-| rhinitis | 3 |  | 2.9 | 4 |  |
-| sinusitis | 1.5 |  | 2.2 | 2.2 |  |
-| URI | 3.8 |  | 4.8 | 5 |  |
-| Body as a Whole |  |  |  |  |  |
-| asthenia | 0 |  | 0.4 | 1.5 |  |
-| chest pain | 0.8 |  | 1.1 | 1.5 |  |
-| fatigue | 1.5 |  | 6.6 | 8.2 |  |
-| edema (peripheral) | 3.8 |  | 3.7 | 3 |  |
-| a percentage of patients with event |  |  |  |  |  |
+| Placebo (n=132) % | 5 to 20 mg (n=273) % | 2.5 to 40 mg (n=404) % |  |
+| --- | --- | --- | --- |
+| Body System/Adverse Experience | All Adverse Experiences (%a) Bisoprolol Fumarate |  |  |
+| Skin |  |  |  |
+| increased sweating | 1.5 | 0.7 | 1 |
+| Musculoskeletal |  |  |  |
+| arthralgia | 2.3 | 2.2 | 2.7 |
+| Central Nervous System |  |  |  |
+| dizziness | 3.8 | 2.9 | 3.5 |
+| headache | 11.4 | 8.8 | 10.9 |
+| hypoaesthesia | 0.8 | 1.1 | 1.5 |
+| Autonomic Nervous System |  |  |  |
+| dry mouth | 1.5 | 0.7 | 1.3 |
+| Heart Rate/Rhythm |  |  |  |
+| bradycardia | 0 | 0.4 | 0.5 |
+| Psychiatric |  |  |  |
+| vivid dreams | 0 | 0 | 0 |
+| insomnia | 2.3 | 1.5 | 2.5 |
+| depression | 0.8 | 0 | 0.2 |
+| Gastrointestinal |  |  |  |
+| diarrhea | 1.5 | 2.6 | 3.5 |
+| nausea | 1.5 | 1.5 | 2.2 |
+| vomiting | 0 | 1.1 | 1.5 |
+| Respiratory |  |  |  |
+| bronchospasm | 0 | 0 | 0 |
+| cough | 4.5 | 2.6 | 2.5 |
+| dyspnea | 0.8 | 1.1 | 1.5 |
+| pharyngitis | 2.3 | 2.2 | 2.2 |
+| rhinitis | 3 | 2.9 | 4 |
+| sinusitis | 1.5 | 2.2 | 2.2 |
+| URI | 3.8 | 4.8 | 5 |
+| Body as a Whole |  |  |  |
+| asthenia | 0 | 0.4 | 1.5 |
+| chest pain | 0.8 | 1.1 | 1.5 |
+| fatigue | 1.5 | 6.6 | 8.2 |
+| edema (peripheral) | 3.8 | 3.7 | 3 |
+| a percentage of patients with event |  |  |  |
 
 The following is a comprehensive list of adverse experiences reported with bisoprolol fumarate in worldwide studies, or in postmarketing experience (in italics): Central Nervous System: Dizziness, unsteadiness , vertigo, syncope , headache, paresthesia, hypoaesthesia, hyperesthesia, somnolence, sleep disturbances , anxiety/restlessness, decreased concentration/memory.
 Autonomic Nervous System: Dry mouth.

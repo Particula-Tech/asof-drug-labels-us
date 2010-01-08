@@ -55,13 +55,6 @@ Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the sym
 
 Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION ).
 
-## Information for Patients
-
-Patients, especially those with coronary artery disease, should be warned about discontinuing use of bisoprolol fumarate without a physician‘s supervision.
-Patients should also be advised to consult a physician if any difficulty in breathing occurs, or if they develop signs or symptoms of congestive heart failure or excessive bradycardia.
-Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned that beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia, and bisoprolol fumarate should be used with caution.
-Patients should know how they react to this medicine before they operate automobiles and machinery or engage in other tasks requiring alertness.
-
 ## Drug Interactions
 
 Bisoprolol fumarate should not be combined with other beta-blocking agents.
@@ -77,6 +70,13 @@ There was no effect of bisoprolol fumarate on prothrombin time in patients on st
 Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.
 
+## Information for Patients
+
+Patients, especially those with coronary artery disease, should be warned about discontinuing use of bisoprolol fumarate without a physician‘s supervision.
+Patients should also be advised to consult a physician if any difficulty in breathing occurs, or if they develop signs or symptoms of congestive heart failure or excessive bradycardia.
+Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned that beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia, and bisoprolol fumarate should be used with caution.
+Patients should know how they react to this medicine before they operate automobiles and machinery or engage in other tasks requiring alertness.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies were conducted with oral bisoprolol fumarate administered in the feed of mice (20 and 24 months) and rats (26 months).
@@ -86,9 +86,9 @@ The mutagenic potential of bisoprolol fumarate was evaluated in the microbial mu
 There was no evidence of mutagenic potential in these in vitro and in vivo assays.
 Reproduction studies in rats did not show any impairment of fertility at doses up to 150 mg/kg/day of bisoprolol fumarate, or 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
 
-## Pregnancy
+## Pregnancy Category C
 
-Pregnancy Category C- In rats, bisoprolol fumarate was not teratogenic at doses up to 150 mg/kg/day which is 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
+In rats, bisoprolol fumarate was not teratogenic at doses up to 150 mg/kg/day which is 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
 Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body weight gain) at 150 mg/kg/day.
 The fetotoxicity in rats occurred at 125 times the MRHD on a body weight basis and 26 times the MRHD on the basis of body surface area.
 The maternotoxicity occurred at 375 times the MRHD on a body weight basis and 77 times the MRHD on the basis of body surface area.

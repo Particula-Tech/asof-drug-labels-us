@@ -6,31 +6,12 @@ Bradycardia and/or hypotension were noted.
 Sympathomimetic agents were given in some cases, and all patients recovered.
 In general, if overdose occurs, bisoprolol fumarate therapy should be stopped and supportive and symptomatic treatment should be provided.
 Limited data suggest that bisoprolol fumarate is not dialyzable.
-Based on the expected pharmacologic actions and recommendations for other beta-blockers, the following general measures should be considered when clinically warranted:
-
-## Bradycardia
-
-Administer IV atropine.
+Based on the expected pharmacologic actions and recommendations for other beta-blockers, the following general measures should be considered when clinically warranted: Bradycardia Administer IV atropine.
 If the response is inadequate, isoproterenol or another agent with positive chronotropic properties may be given cautiously.
 Under some circumstances, transvenous pacemaker insertion may be necessary.
-
-## Hypotension
-
-IV fluids and vasopressors should be administered.
+Hypotension IV fluids and vasopressors should be administered.
 Intravenous glucagon may be useful.
-
-## Heart Block (second or third degree)
-
-Patients should be carefully monitored and treated with isoproterenol infusion or transvenous cardiac pacemaker insertion, as appropriate.
-
-## Congestive Heart Failure
-
-Initiate conventional therapy (i.e., digitalis, diuretics, inotropic agents, vasodilating agents).
-
-## Bronchospasm
-
-Administer bronchodilator therapy such as isoproterenol and/or aminophylline.
-
-## Hypoglycemia
-
-Administer IV glucose.
+Heart Block (second or third degree) Patients should be carefully monitored and treated with isoproterenol infusion or transvenous cardiac pacemaker insertion, as appropriate.
+Congestive Heart Failure Initiate conventional therapy (i.e., digitalis, diuretics, inotropic agents, vasodilating agents).
+Bronchospasm Administer bronchodilator therapy such as isoproterenol and/or aminophylline.
+Hypoglycemia Administer IV glucose.

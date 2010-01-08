@@ -52,27 +52,27 @@ In two randomized double-blind placebo-controlled trials conducted in the U.S., 
 In both studies, mean systolic/diastolic blood pressures at baseline were approximately 150/100 mm Hg, and mean heart rate was 76 bpm.
 Drug effect is calculated by subtracting the placebo effect from the overall change in blood pressure and heart rate.
 
-Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (∆) After 3 to 4 Weeks
+Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (Δ) After 3 to 4 Weeks
 
-|  | Placebo | 5 mg | 10 mg | 20 mg |
+| 5 mg | 10 mg | 20 mg |  |  |
 | --- | --- | --- | --- | --- |
-| Study A |  | Bisoprolol Fumarate |  |  |
-| n = | 61 | 61 | 61 | 61 |
-| Total ∆BP (mm Hg) | 5.4/3.2 | 10.4/8 | 11.2/10.9 | 12.8/11.9 |
+| Study A | Placebo | Bisoprolol Fumarate |  |  |
+| n= | 61 | 61 | 61 | 61 |
+| Total ΔBP (mm Hg) | 5.4/3.2 | 10.4/8 | 11.2/10.9 | 12.8/11.9 |
 | Drug Effecta | - | 5/4.8 | 5.8/7.7 | 7.4/8.7 |
-| Total ∆HR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
+| Total ΔHR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
 | Drug Effecta | - | 6.7 | 8.2 | 10.8 |
 
-|  | Placebo | 2.5 mg | 10 mg |
+| 2.5 mg | 10 mg |  |  |
 | --- | --- | --- | --- |
-| Study B |  | Bisoprolol Fumarate |  |
-| n = | 56 | 59 | 62 |
-| Total ∆BP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |
+| Study B | Placebo | Bisoprolol Fumarate |  |
+| n= | 56 | 59 | 62 |
+| Total ΔBP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |
 | Drug Effecta | - | 4.6/4.4 | 10.5/7.5 |
-| Total ∆HR (bpm) | 1.6 | 3.8 | 10.7 |
+| Total ΔHR (bpm) | 1.6 | 3.8 | 10.7 |
 | Drug Effecta | - | 2.2 | 9.1 |
+| a Observed total change from baseline minus placebo. |  |  |  |
 
-a Observed total change from baseline minus placebo.
 Blood pressure responses were seen within one week of treatment and changed little thereafter.
 They were sustained for 12 weeks and for over a year in studies of longer duration.
 Blood pressure returned to baseline when bisoprolol fumarate was tapered over two weeks in a long-term study.

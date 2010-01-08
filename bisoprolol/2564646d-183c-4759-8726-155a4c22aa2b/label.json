@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077910"
+  ],
   "inn": "bisoprolol",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "65862-087-01",
     "65862-087-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bisoprolol fumarate",
+      "name": "Bisoprolol Fumarate"
+    }
+  ],
   "setid": "2564646d-183c-4759-8726-155a4c22aa2b",
   "source": "dailymed"
 }

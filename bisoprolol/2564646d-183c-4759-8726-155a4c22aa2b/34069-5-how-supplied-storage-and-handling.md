@@ -6,4 +6,5 @@ Bottles of 30 NDC 65862-086-30 Bottles of 100 NDC 65862-086-01 Bisoprolol Fumara
 Bottles of 30 NDC 65862-087-30 Bottles of 100 NDC 65862-087-01 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 Protect from light and moisture.
 Dispense in tight, light-resistant containers as defined in the USP.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Rev.
+10/07
