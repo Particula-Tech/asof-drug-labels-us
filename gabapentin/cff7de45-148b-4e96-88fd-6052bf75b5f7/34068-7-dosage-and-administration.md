@@ -4,7 +4,7 @@ Gabapentin is given orally with or without food.
 Patients should be informed that, should they break the scored 600 or 800 mg tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
 Half-tablets not used within several days of breaking the scored tablet should be discarded.
 
-If gabapentin dose is reduced, discontinued or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
+If gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
 
 ## Postherpetic Neuralgia
 
@@ -50,7 +50,7 @@ where age is in years, weight is in kilograms and SCr is serum creatinine in mg/
 
 Dosage adjustment in patients ≥12 years of age with compromised renal function or undergoing hemodialysis is recommended as follows (see dosing recommendations above for effective doses in each indication).
 
-TABLE 5.
+TABLE 6.
 Gabapentin Dosage Based on Renal Function
 
 | Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range (mg/day) | Dose Regimen (mg) |  |  |  |  |

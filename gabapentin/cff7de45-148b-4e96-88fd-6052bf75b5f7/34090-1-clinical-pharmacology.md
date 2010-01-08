@@ -45,7 +45,7 @@ Gabapentin elimination rate constant, plasma clearance, and renal clearance are 
 In elderly patients, and in patients with impaired renal function, gabapentin plasma clearance is reduced.
 Gabapentin can be removed from plasma by hemodialysis.
 
-Dosage adjustment in patients with compromised renal function or undergoing hemodialysis is recommended (see DOSAGE AND ADMINISTRATION, Table 5).
+Dosage adjustment in patients with compromised renal function or undergoing hemodialysis is recommended (see DOSAGE AND ADMINISTRATION, Table 6).
 
 ### Special Populations
 

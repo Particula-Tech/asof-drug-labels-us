@@ -9,10 +9,10 @@ The adverse events that most frequently led to withdrawal in gabapentin-treated 
 
 ### Incidence in Controlled Clinical Trials
 
-Table 2 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
+Table 3 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
 Adverse events were usually mild to moderate in intensity.
 
-Table 2.
+Table 3.
 Treatment-Emergent Adverse Event Incidence in Controlled Trials in Postherpetic Neuralgia (Events in at least 1% of Gabapentin-Treated Patients and Numerically More Frequent Than in the Placebo Group)
 
 | Body System/ Preferred Term | Gabapentin N=336 % | Placebo N=227 % |
@@ -69,7 +69,7 @@ The adverse events most commonly associated with withdrawal in pediatric patient
 
 ### Incidence in Controlled Clinical Trials
 
-Table 3 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
+Table 4 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
 In these studies, either gabapentin or placebo was added to the patient's current antiepileptic drug therapy.
 Adverse events were usually mild to moderate in intensity.
 
@@ -77,7 +77,7 @@ The prescriber should be aware that these figures, obtained when gabapentin was 
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.
 
-TABLE 3.
+TABLE 4.
 Treatment-Emergent Adverse Event Incidence in Controlled Add-On Trials In Patients >12 years of age (Events in at least 1% of Gabapentin patients and numerically more frequent than in the placebo group)
 
 | Body System/Adverse Event | GabapentinPlus background antiepileptic drug therapy N=543 % | Placebo N=378 % |
@@ -136,10 +136,10 @@ The overall incidence of adverse events and the types of adverse events seen wer
 The incidence of adverse events increased slightly with increasing age in patients treated with either gabapentin or placebo.
 Because only 3% of patients (28/921) in placebo-controlled studies were identified as nonwhite (black or other), there are insufficient data to support a statement regarding the distribution of adverse events by race.
 
-Table 4 lists treatment-emergent signs and symptoms that occurred in at least 2% of gabapentin-treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
+Table 5 lists treatment-emergent signs and symptoms that occurred in at least 2% of gabapentin-treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
 Adverse events were usually mild to moderate in intensity.
 
-TABLE 4.
+TABLE 5.
 Treatment-Emergent Adverse Event Incidence in Pediatric Patients Age 3 to 12 Years in a Controlled Add-On Trial (Events in at least 2% of Gabapentin patients and numerically more frequent than in the placebo group)
 
 | Body System/Adverse Event | GabapentinPlus background antiepileptic drug therapy N=119 % | Placebo N=128 % |
@@ -172,7 +172,7 @@ During these trials, all adverse events were recorded by the clinical investigat
 To provide a meaningful estimate of the proportion of individuals having adverse events, similar types of events were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology.
 These categories are used in the listing below.
 The frequencies presented represent the proportion of the 4717 patients >12 years of age exposed to gabapentin who experienced an event of the type cited on at least one occasion while receiving gabapentin.
-All reported events are included except those already listed in Table 3, those too general to be informative, and those not reasonably associated with the use of the drug.
+All reported events are included except those already listed in Table 4, those too general to be informative, and those not reasonably associated with the use of the drug.
 
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
@@ -188,7 +188,7 @@ Hematologic and Lymphatic System: Frequent: purpura most often described as brui
 
 Musculoskeletal System: Frequent: arthralgia; Infrequent: tendinitis, arthritis, joint stiffness, joint swelling, positive Romberg test; Rare: costochondritis, osteoporosis, bursitis, contracture.
 
-Nervous System: Frequent: vertigo, hyperkinesia, paresthesia, decreased or absent reflexes, increased reflexes, anxiety, hostility; Infrequent: CNS tumors, syncope, dreaming abnormal, aphasia, hypesthesia, intracranial hemorrhage, hypotonia, dysesthesia, paresis, dystonia, hemiplegia, facial paralysis, stupor, cerebellar dysfunction, positive Babinski sign, decreased position sense, subdural hematoma, apathy, hallucination, decrease or loss of libido, agitation, paranoia, depersonalization, euphoria, feeling high, doped-up sensation, suicide attempt, psychosis; Rare: choreoathetosis, orofacial dyskinesia, encephalopathy, nerve palsy, personality disorder, increased libido, subdued temperament, apraxia, fine motor control disorder, meningismus, local myoclonus, hyperesthesia, hypokinesia, mania, neurosis, hysteria, antisocial reaction, suicide.
+Nervous System: Frequent: vertigo, hyperkinesia, paresthesia, decreased or absent reflexes, increased reflexes, anxiety, hostility; Infrequent: CNS tumors, syncope, dreaming abnormal, aphasia, hypesthesia, intracranial hemorrhage, hypotonia, dysesthesia, paresis, dystonia, hemiplegia, facial paralysis, stupor, cerebellar dysfunction, positive Babinski sign, decreased position sense, subdural hematoma, apathy, hallucination, decrease or loss of libido, agitation, paranoia, depersonalization, euphoria, feeling high, doped-up sensation, psychosis; Rare: choreoathetosis, orofacial dyskinesia, encephalopathy, nerve palsy, personality disorder, increased libido, subdued temperament, apraxia, fine motor control disorder, meningismus, local myoclonus, hyperesthesia, hypokinesia, mania, neurosis, hysteria, antisocial reaction.
 
 Respiratory System: Frequent: pneumonia; Infrequent: epistaxis, dyspnea, apnea; Rare: mucositis, aspiration pneumonia, hyperventilation, hiccup, laryngitis, nasal obstruction, snoring, bronchospasm, hypoventilation, lung edema.
 
@@ -198,7 +198,7 @@ Urogenital System: Infrequent: hematuria, dysuria, urination frequency, cystitis
 
 Special Senses: Frequent: abnormal vision; Infrequent: cataract, conjunctivitis, eyes dry, eye pain, visual field defect, photophobia, bilateral or unilateral ptosis, eye hemorrhage, hordeolum, hearing loss, earache, tinnitus, inner ear infection, otitis, taste loss, unusual taste, eye twitching, ear fullness; Rare: eye itching, abnormal accommodation, perforated ear drum, sensitivity to noise, eye focusing problem, watery eyes, retinopathy, glaucoma, iritis, corneal disorders, lacrimal dysfunction, degenerative eye changes, blindness, retinal degeneration, miosis, chorioretinitis, strabismus, eustachian tube dysfunction, labyrinthitis, otitis externa, odd smell.
 
-#### Clinical trials in Pediatric Patients With Epilepsy
+#### Clinical Trials in Pediatric Patients With Epilepsy
 
 Adverse events occurring during epilepsy clinical trials in 449 pediatric patients 3 to 12 years of age treated with gabapentin that were not reported in adjunctive trials in adults are:
 
@@ -218,7 +218,7 @@ Respiratory System: pseudocroup, hoarseness
 
 Safety information was obtained in 1173 patients during double-blind and open-label clinical trials including neuropathic pain conditions for which efficacy has not been demonstrated.
 Adverse events reported by investigators were grouped into standardized categories using modified COSTART IV terminology.
-Listed below are all reported events except those already listed in Table 2 and those not reasonably associated with the use of the drug.
+Listed below are all reported events except those already listed in Table 3 and those not reasonably associated with the use of the drug.
 
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
@@ -236,7 +236,7 @@ Metabolic and Nutritional: Infrequent: edema, gout, hypoglycemia, weight loss; R
 
 Musculoskeletal: Infrequent: arthritis, arthralgia, myalgia, arthrosis, leg cramps, myasthenia; Rare: shin bone pain, joint disorder, tendon disorder.
 
-Nervous System: Frequent: confusion, depression; Infrequent: vertigo, nervousness, paresthesia, insomnia, neuropathy, libido decreased, anxiety, depersonalization, reflexes decreased, speech disorder, abnormal dreams, dysarthria, emotional lability, nystagmus, stupor, circumoral paresthesia, euphoria, hyperesthesia, hypokinesia, suicide attempt; Rare: agitation, hypertonia, libido increased, movement disorder, myoclonus, vestibular disorder.
+Nervous System: Frequent: confusion, depression; Infrequent: vertigo, nervousness, paresthesia, insomnia, neuropathy, libido decreased, anxiety, depersonalization, reflexes decreased, speech disorder, abnormal dreams, dysarthria, emotional lability, nystagmus, stupor, circumoral paresthesia, euphoria, hyperesthesia, hypokinesia; Rare: agitation, hypertonia, libido increased, movement disorder, myoclonus, vestibular disorder.
 
 Respiratory System: Infrequent: cough increased, bronchitis, rhinitis, sinusitis, pneumonia, asthma, lung disorder, epistaxis; Rare: hemoptysis, voice alteration.
 
@@ -253,4 +253,4 @@ These adverse experiences have not been listed above and data are insufficient t
 The listing is alphabetized: angioedema, blood glucose fluctuation, breast hypertrophy, erythema multiforme, elevated liver function tests, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
 
 Adverse events following the abrupt discontinuation of gabapentin have also been reported.
-The most frequently reported events were anxiety, insomnia, nausea, pain and sweating.
+The most frequently reported events were anxiety, insomnia, nausea, pain, and sweating.

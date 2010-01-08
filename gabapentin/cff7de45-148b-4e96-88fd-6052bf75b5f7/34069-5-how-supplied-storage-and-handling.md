@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Gabapentin capsules, tablets and oral solution are supplied as follows:
+Gabapentin capsules and tablets are supplied as follows:
 
 100 mg capsules;
 
@@ -8,7 +8,7 @@ White hard gelatin capsules printed with "G" on one side and "5026" on the other
 
 300 mg capsules;
 
-Yellow hard gelatin capsules printed with "G" on one side and "5027" on the other; available in: Bottles of 100: NDC 59762-5027-1
+Yellow hard gelatin capsules printed with "G" on one side and "5027" on the other; available in: Bottles of 100: NDC 59762-5027-1 Bottles of 500: NDC 59762-5027-2
 
 400 mg capsules;
 
