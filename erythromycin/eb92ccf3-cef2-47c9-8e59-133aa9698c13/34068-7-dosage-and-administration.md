@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 ERYGEL® Topical Gel should be applied sparingly as a thin film to affected area(s) once or twice a day after the skin is thoroughly cleansed and patted dry.
 If there has been no improvement after 6 to 8 weeks, or if the condition becomes worse, treatment should be discontinued, and the physician should be reconsulted.

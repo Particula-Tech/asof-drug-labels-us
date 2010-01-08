@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050617"
+  ],
   "inn": "erythromycin",
-  "labeler": "Merz Pharmaceuticals",
+  "labeler": "Merz Pharmaceuticals, LLC",
   "package_ndcs": [
     "0259-4312-30",
     "0259-4312-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "erythromycin",
+      "name": "Erygel"
+    }
+  ],
   "setid": "eb92ccf3-cef2-47c9-8e59-133aa9698c13",
   "source": "dailymed"
 }

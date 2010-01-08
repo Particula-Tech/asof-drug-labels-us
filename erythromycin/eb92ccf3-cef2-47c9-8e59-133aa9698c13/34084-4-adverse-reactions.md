@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 In controlled clinical trials, the incidence of burning associated with ERYGEL® Topical Gel was approximately 25%.
 The following additional local adverse reactions have been reported occasionally: peeling, dryness, itching, erythema, and oiliness.
