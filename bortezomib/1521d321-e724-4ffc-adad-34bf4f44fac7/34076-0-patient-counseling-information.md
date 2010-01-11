@@ -23,9 +23,9 @@ Other: Patients should be instructed to contact their physician if they develop 
 
 Millennium Pharmaceuticals, Inc. 40 Landsdowne Street Cambridge, MA 02139
 
-VELCADE and MILLENNIUM are registered trademarks of Millennium Pharmaceuticals, Inc.
+VELCADE, and MILLENNIUM are registered trademarks of Millennium Pharmaceuticals, Inc.
 
-©2008 Millennium Pharmaceuticals, Inc. All rights reserved.
+©2009 Millennium Pharmaceuticals, Inc. All rights reserved.
 Printed in USA.
 
-Issued June 2008 Rev 9
+Issued December 2009 Rev 10

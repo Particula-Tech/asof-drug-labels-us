@@ -9,37 +9,47 @@ Antiviral prophylaxis was recommended for patients on the VELCADE study arm.
 The median age of the patients in the study was 71 years (48;91), 50% were male, 88% were Caucasian and the median Karnofsky performance status score for the patients was 80 (60;100).
 Patients had IgG/IgA/Light chain myeloma in 63%/25%/8% instances, a median hemoglobin of 105 g/L (64;165), and a median platelet count of 221,500 /microliter (33,000;587,000).
 
-Efficacy results for the trial are presented in Table 8.
-Median follow-up was 16.3 months.
-At a pre-specified interim analysis, the primary endpoint, time to progression, was found to be significantly superior, and patients in the Melphalan and Prednisone arm were offered VELCADE, Melphalan and Prednisone treatment.
+Efficacy results for the trial are presented in Table 9.
+At a pre-specified interim analysis (with median follow-up of 16.3 months), the combination of VELCADE, Melphalan and Prednisone therapy resulted in significantly superior results for time to progression, progression free survival, overall survival and response rate.
+Further enrollment was halted, and patients receiving Melphalan and Prednisone were offered VELCADE in addition.
+A later, pre-specified analysis of overall survival (with median follow-up of 36.7 months) continued to show a statistically significant survival benefit for the VELCADE, Melphalan and Prednisone treatment arm despite subsequent therapies including VELCADE based regimens.
 
-Table 8: Summary of Efficacy Analyses in the Previously Untreated Multiple Myeloma Study
+Table 9: Summary of Efficacy Analyses in the Previously Untreated Multiple Myeloma Study
 
 | Efficacy Endpoint | VELCADE, Melphalan and Prednisone n=344 | Melphalan and Prednisone n=338 |
 | --- | --- | --- |
 | Time to Progression |  |  |
 | Events n (%) | 101 (29) | 152 (45) |
-| Mediana (95% CI) | 20.7 mo (17.6, 24.7) | 15.0 mo (14.1, 17.9) |
+| Mediana (months) (95% CI) | 20.7 (17.6, 24.7) | 15.0 (14.1, 17.9) |
 | Hazard ratiob (95% CI) | 0.54 (0.42, 0.70) |  |
 | p-value c | 0.000002 |  |
 | Progression-free Survival |  |  |
 | Events n (%) | 135 (39) | 190 (56) |
-| Mediana (95% CI) | 18.3 mo (16.6, 21.7) | 14.0 mo (11.1, 15.0) |
+| Mediana (months) (95% CI) | 18.3 (16.6, 21.7) | 14.0 (11.1, 15.0) |
 | Hazard ratiob (95% CI) | 0.61 (0.49, 0.76) |  |
 | p-value c | 0.00001 |  |
-| Overall Survival |  |  |
-| Events (deaths) n (%) | 45 (13) | 76 (23) |
-| Hazard ratiob (95% CI) | 0.61 (0.42, 0.88) |  |
-| p-value c | 0.00782 |  |
 | Response Rate |  |  |
 | CRd n (%) | 102 (30) | 12 (4) |
 | PRd n (%) | 136 (40) | 103 (30) |
 | nCR n (%) | 5 (1) | 0 |
 | CR + PRd n (%) | 238 (69) | 115 (34) |
 | p-valuee | <10-10 |  |
-| a Kaplan-Meier estimate. b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region. A hazard ratio less than 1 indicates an advantage for VELCADE, Melphalan and Prednisone c p-value based on the stratified log-rank test adjusted for stratification factors: beta2-microglobulin, albumin, and region d EBMT criteria e p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors |  |  |
+| Overall Survival |  |  |
+| Events (deaths) n (%) | 109 (32) | 148 (44) |
+| Mediana (months) (95% CI) | Not Reached (46.2, NR) | 43.1 (34.8, NR) |
+| Hazard ratiob (95% CI) | 0.65 (0.51, 0.84) |  |
+| p-value c | 0.00084 |  |
+| Note: All results are based on the analysis performed at a median follow-up duration of 16.3 months except for the overall survival analysis that was performed at a median follow-up duration of 36.7 months. a Kaplan-Meier estimate b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region. A hazard ratio less than 1 indicates an advantage for VELCADE, Melphalan and Prednisone c p-value based on the stratified log-rank test adjusted for stratification factors: beta2-microglobulin, albumin, and region d EBMT criteria e p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors |  |  |
 
 TTP was statistically significantly longer on the VELCADE, Melphalan and Prednisone arm (see Figure 1).
+(median follow up 16.3 months)
+
+Figure 1: Time to Progression VELCADE, Melphalan and Prednisone vs Melphalan and Prednisone
+
+Overall survival was statistically significantly longer on the VELCADE, Melphalan and Prednisone arm (see Figure 2).
+(median follow up 36.7 months)
+
+Figure 2: Overall Survival VELCADE, Melphalan and Prednisone vs Melphalan and Prednisone
 
 Randomized, Clinical Study in Relapsed Multiple Myeloma A prospective phase 3, international, randomized (1:1), stratified, open-label clinical study enrolling 669 patients was designed to determine whether VELCADE resulted in improvement in time to progression (TTP) compared to high-dose dexamethasone in patients with progressive multiple myeloma following 1 to 3 prior therapies.
 Patients considered to be refractory to prior high-dose dexamethasone were excluded as were those with baseline grade ≥2 peripheral neuropathy or platelet counts <50,000/μL.
@@ -47,9 +57,9 @@ A total of 627 patients were evaluable for response.
 
 Stratification factors were based on the number of lines of prior therapy the patient had previously received (1 previous line versus more than 1 line of therapy), time of progression relative to prior treatment (progression during or within 6 months of stopping their most recent therapy versus relapse >6 months after receiving their most recent therapy), and screening β2-microglobulin levels (≤2.5 mg/L versus >2.5 mg/L).
 
-Baseline patient and disease characteristics are summarized in Table 9.
+Baseline patient and disease characteristics are summarized in Table 10.
 
-Table 9: Summary of Baseline Patient and Disease Characteristics in the Relapsed Multiple Myeloma Study
+Table 10: Summary of Baseline Patient and Disease Characteristics in the Relapsed Multiple Myeloma Study
 
 | Patient Characteristics | VELCADE N=333 | Dexamethasone N=336 |
 | --- | --- | --- |
@@ -94,12 +104,12 @@ In the VELCADE arm, 34% of patients received at least one VELCADE dose in all 8 
 The average number of VELCADE doses during the study was 22, with a range of 1 to 44.
 In the dexamethasone arm, 40% of patients received at least one dose in all 4 of the 5-week treatment cycles of therapy, and 6% received at least one dose in all 9 cycles.
 
-The time to event analyses and response rates from the relapsed multiple myeloma study are presented in Table 10.
+The time to event analyses and response rates from the relapsed multiple myeloma study are presented in Table 11.
 Response and progression were assessed using the European Group for Blood and Marrow Transplantation (EBMT) criteria.1 Complete response (CR) required <5% plasma cells in the marrow, 100% reduction in M-protein, and a negative immunofixation test (IF-).
 Partial response (PR) requires ≥50% reduction in serum myeloma protein and ≥90% reduction of urine myeloma protein on at least 2 occasions for a minimum of at least 6 weeks along with stable bone disease and normal calcium.
 Near complete response (nCR) was defined as meeting all the criteria for complete response including 100% reduction in M-protein by protein electrophoresis, however M-protein was still detectable by immunofixation (IF+).
 
-Table 10: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study
+Table 11: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study
 
 | n=333 | n=336 | n=132 | n=119 | n=200 | n=217 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -118,12 +128,16 @@ Table 10: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study
 | nCR f,g n(%) | 21 (7) | 3 (<1) | 8 (6) | 2 (2) | 13 (7) | 1 (<1) |
 | CR + PR f n (%) | 121 (38) | 56 (18) | 57 (45) | 29 (26) | 64 (34) | 27 (13) |
 | p-value h | <0.0001 |  | 0.0035 |  | <0.0001 |  |
-| a Kaplan-Meier estimate. b Hazard ratio is based on Cox proportional-hazard model with the treatment as single independent variable. A hazard ratio less than 1 indicates an advantage for VELCADE. c p-value based on the stratified log-rank test including randomization stratification factors. d Precise p-value cannot be rendered. e Response population includes patients who had measurable disease at baseline and received at least 1 dose of study drug. f EBMT criteria1; nCR meets all EBMT criteria for CR but has positive IF. Under EBMT criteria nCR is in the PR category. g In 2 patients, the IF was unknown. h p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors; |  |  |  |  |  |  |
+| a Kaplan-Meier estimate b Hazard ratio is based on Cox proportional-hazard model with the treatment as single independent variable. A hazard ratio less than 1 indicates an advantage for VELCADE c p-value based on the stratified log-rank test including randomization stratification factors d Precise p-value cannot be rendered e Response population includes patients who had measurable disease at baseline and received at least 1 dose of study drug f EBMT criteria1; nCR meets all EBMT criteria for CR but has positive IF. Under EBMT criteria nCR is in the PR category g In 2 patients, the IF was unknown h p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors |  |  |  |  |  |  |
 
-TTP was statistically significantly longer on the VELCADE arm (see Figure 2).
+TTP was statistically significantly longer on the VELCADE arm (see Figure 3).
 
-As shown in Figure 3 VELCADE had a significant survival advantage relative to dexamethasone (p<0.05).
+Figure 3: Time to Progression Bortezomib vs. Dexamethasone (relapsed multiple myeloma study)
+
+As shown in Figure 4 VELCADE had a significant survival advantage relative to dexamethasone (p<0.05).
 The median follow-up was 8.3 months.
+
+Figure 4: Overall Survival Bortezomib vs. Dexamethasone (relapsed multiple myeloma study)
 
 For the 121 patients achieving a response (CR or PR) on the VELCADE arm, the median duration was 8.0 months (95% CI: 6.9, 11.5 months) compared to 5.6 months (95% CI: 4.8, 9.2 months) for the 56 responders on the dexamethasone arm.
 The response rate was significantly higher on the VELCADE arm regardless of β2-microglobulin levels at baseline.
@@ -152,13 +166,13 @@ Patients achieving a CR or CRu were treated for 4 cycles beyond first evidence o
 The study employed dose modifications for toxicity.
 [see Dosage and Administration (2.4)]
 
-Responses to VELCADE are shown in Table 11.
+Responses to VELCADE are shown in Table 12.
 Response rates to VELCADE were determined according to the International Workshop Response Criteria (IWRC)2 based on independent radiologic review of CT scans.
 The median number of cycles administered across all patients was 4; in responding patients the median number of cycles was 8.
 The median time to response was 40 days (range 31 to 204 days).
 The median duration of follow-up was more than 13 months.
 
-Table 11: Response Outcomes in a Phase 2 Mantle Cell Lymphoma Study
+Table 12: Response Outcomes in a Phase 2 Mantle Cell Lymphoma Study
 
 | Response Analyses (N = 155) | N (%) | 95% CI |
 | --- | --- | --- |

@@ -5,7 +5,7 @@
 VELCADE (bortezomib) is administered as a 3-5 second bolus IV injection in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 1.
 In Cycles 1-4, VELCADE is administered twice weekly (days 1, 4, 8, 11, 22, 25, 29 and 32).
 In Cycles 5-9, VELCADE is administered once weekly (days 1, 8, 22 and 29).
-At least 72 hours should elapse between consecutive doses of VELCADE
+At least 72 hours should elapse between consecutive doses of VELCADE.
 
 Table 1-Dosage Regimen for Patients with Previously Untreated Multiple Myeloma
 
@@ -61,18 +61,34 @@ Table 3: Recommended Dose Modification for VELCADE related Neuropathic Pain and/
 | Grade 4 (sensory neuropathy which is disabling or motor neuropathy that is life threatening or leads to paralysis) | Discontinue VELCADE |
 | Grading based on NCI Common Toxicity Criteria CTCAE v3.0 |  |
 
-## 2.5 Administration Precautions
+## 2.5 Dosage in Patients with Hepatic Impairment
+
+Patients with mild hepatic impairment do not require a starting dose adjustment and should be treated per the recommended VELCADE dose.
+Patients with moderate or severe hepatic impairment should be started on VELCADE at a reduced dose of 0.7 mg/m2 per injection during the first cycle, and a subsequent dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 may be considered based on patient tolerance (see Table 4).
+[see Warnings and Precautions (5.11), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)]
+
+Table 4: Recommended Starting Dose Modification for VELCADE in Patients with Hepatic Impairment
+
+|  | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
+| --- | --- | --- | --- |
+| Mild | ≤ 1.0x ULN | > ULN | None |
+|  | > 1.0x-1.5x ULN | Any | None |
+| Moderate | > 1.5x-3.0x ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first cycle. Consider dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
+| Severe | > 3x ULN | Any |  |
+| Abbreviations: SGOT = serum glutamic oxaloacetic transaminase; AST = aspartate aminotransferase; ULN = upper limit of the normal range. |  |  |  |
+
+## 2.6 Administration Precautions
 
 The drug quantity contained in one vial (3.5 mg) may exceed the usual dose required.
 Caution should be used in calculating the dose to prevent overdose.
 
 VELCADE is an antineoplastic.
 Procedures for proper handling and disposal should be considered.
-[see How Supplied/Storage and Handling (16.]
+[see How Supplied/Storage and Handling (16)]
 
 In clinical trials, local skin irritation was reported in 5% of patients, but extravasation of VELCADE was not associated with tissue damage.
 
-## 2.6 Reconstitution/Preparation for Intravenous Administration
+## 2.7 Reconstitution/Preparation for Intravenous Administration
 
 Proper aseptic technique should be used.
 Reconstitute with 3.5 mL of 0.9% Sodium Chloride resulting in a final concentration of 1 mg/mL of bortezomib.

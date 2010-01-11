@@ -18,11 +18,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Summary of Clinical Trial in Patients with Previously Untreated Multiple Myeloma:
 
-Table 5 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
+Table 6 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
 
 The safety profile of VELCADE in combination with melphalan/prednisone is consistent with the known safety profiles of both VELCADE and melphalan/prednisone.
 
-Table 5-Most Commonly Reported Adverse Events (≥ 10% in VELCADE, Melphalan and Prednisone arm) with Grades 3 and ≥4 Intensity in the Previously Untreated Multiple Myeloma Study
+Table 6-Most Commonly Reported Adverse Events (≥ 10% in VELCADE, Melphalan and Prednisone arm) with Grades 3 and ≥4 Intensity in the Previously Untreated Multiple Myeloma Study
 
 |  | VELCADE, Melphalan and Prednisone |  |  | Melphalan and Prednisone |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ Table 5-Most Commonly Reported Adverse Events (≥ 10% in VELCADE, Melphalan and
 | Hypertension | 45 (13) | 8 (2) | 1 (<1) | 25 (7) | 2 (1) | 0 |
 | Hypotension | 41 (12) | 4 (1) | 3 (1) | 10 (3) | 2 (1) | 2 (1) |
 
-Relapsed Multiple Myeloma Randomized Study The safety data described below and in Table 6 reflect exposure to either VELCADE (n=331) or dexamethasone (n=332) in a study of patients with multiple myeloma.
+Relapsed Multiple Myeloma Randomized Study The safety data described below and in Table 7 reflect exposure to either VELCADE (n=331) or dexamethasone (n=332) in a study of patients with multiple myeloma.
 VELCADE was administered intravenously at doses of 1.3 mg/m2 twice weekly for 2 out of 3 weeks (21 day cycle).
 After eight 21-day cycles patients continued therapy for three 35-day cycles on a weekly schedule.
 Duration of treatment was up to 11 cycles (9 months) with a median duration of 6 cycles (4.1 months).
@@ -107,10 +107,10 @@ Among the 332 patients in the dexamethasone group, the most commonly reported dr
 Four deaths were considered to be VELCADE related in this relapsed multiple myeloma study: 1 case each of cardiogenic shock, respiratory insufficiency, congestive heart failure and cardiac arrest.
 Four deaths were considered dexamethasone-related: 2 cases of sepsis, 1 case of bacterial meningitis, and 1 case of sudden death at home.
 
-Most Commonly Reported Adverse Events in the Relapsed Multiple Myeloma Study The most common adverse events from the relapsed multiple myeloma study are shown in Table 6.
+Most Commonly Reported Adverse Events in the Relapsed Multiple Myeloma Study The most common adverse events from the relapsed multiple myeloma study are shown in Table 7.
 All adverse events with incidence ≥10% in the VELCADE arm are included.
 
-Table 6: Most Commonly Reported Adverse Events (≥10% in VELCADE arm),with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study (N=663)
+Table 7: Most Commonly Reported Adverse Events (≥10% in VELCADE arm),with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study (N=663)
 
 |  | Treatment Group |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -168,12 +168,12 @@ The reasons for discontinuation included peripheral neuropathy (8%), asthenic co
 
 In total, 2% of the patients died and the cause of death was considered by the investigator to be possibly related to study drug: including reports of cardiac arrest, congestive heart failure, respiratory failure, renal failure, pneumonia and sepsis.
 
-Most Commonly Reported Adverse Events in the Integrated Summary of Safety The most common adverse events are shown in Table 7.
+Most Commonly Reported Adverse Events in the Integrated Summary of Safety The most common adverse events are shown in Table 8.
 All adverse events occurring at ≥10% are included.
 In the absence of a randomized comparator arm, it is often not possible to distinguish between adverse events that are drug-caused and those that reflect the patient’s underlying disease.
 Please see the discussion of specific adverse reactions that follows.
 
-Table 7: Most Commonly Reported (≥10% Overall) Adverse Events in Integrated Analyses of Relapsed Multiple Myeloma and Mantle Cell Lymphoma Studies using the 1.3 mg/m2 Dose (N=1163)
+Table 8: Most Commonly Reported (≥10% Overall) Adverse Events in Integrated Analyses of Relapsed Multiple Myeloma and Mantle Cell Lymphoma Studies using the 1.3 mg/m2 Dose (N=1163)
 
 | All Events | ≥Grade 3 | All Events | ≥Grade 3 | All Events | ≥Grade 3 |  |
 | --- | --- | --- | --- | --- | --- | --- |

@@ -43,8 +43,9 @@ For information concerning dosing of melphalan in patients with renal impairment
 
 ## 8.7 Patients with Hepatic Impairment
 
-No pharmacokinetic studies were conducted with bortezomib in patients with hepatic impairment.
-[see Warnings and Precautions (5.10)]
+The exposure of bortezomib is increased in patients with moderate and severe hepatic impairment.
+Starting dose should be reduced in those patients.
+[see Dosage and Administration (2.5), Warnings and Precautions (5.11), and Pharmacokinetics (12.3)]
 
 ## 8.8 Patients with Diabetes
 

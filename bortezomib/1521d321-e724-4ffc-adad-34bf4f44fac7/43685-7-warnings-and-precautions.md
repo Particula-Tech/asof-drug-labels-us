@@ -68,7 +68,7 @@ Fluid and electrolyte replacement should be administered to prevent dehydration.
 VELCADE is associated with thrombocytopenia and neutropenia that follow a cyclical pattern with nadirs occurring following the last dose of each cycle and typically recovering prior to initiation of the subsequent cycle.
 The cyclical pattern of platelet and neutrophil decreases and recovery remained consistent over the 8 cycles of twice weekly dosing, and there was no evidence of cumulative thrombocytopenia or neutropenia.
 The mean platelet count nadir measured was approximately 40% of baseline.
-The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 4.
+The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 5.
 In the relapsed multiple myeloma study, the incidence of significant bleeding events (≥Grade 3) was similar on both the VELCADE (4%) and dexamethasone (5%) arms.
 Platelet count should be monitored prior to each dose of VELCADE.
 Patients experiencing thrombocytopenia may require change in the dose and schedule of VELCADE [see Table 2 and Dosage and Administration (2.4)].
@@ -76,14 +76,14 @@ There have been reports of gastrointestinal and intracerebral hemorrhage in asso
 Transfusions may be considered.
 The incidence of febrile neutropenia was <1%.
 
-Table 4: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study
+Table 5: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study
 
 | Pretreatment Platelet Count* | Number of Patients (N=331)** | Number (%) of Patients with Platelet Count <10,000/μL | Number (%) of Patients with Platelet Count 10,000-25,000/μL |
 | --- | --- | --- | --- |
 | ≥75,000/μL | 309 | 8 (3%) | 36 (12%) |
 | ≥ 50,000/μL-<75,000/μL | 14 | 2 (14%) | 11 (79%) |
 | ≥10,000/μL-<50,000/μL | 7 | 1 (14%) | 5 (71%) |
-| * A baseline platelet count of 50,000/μL was required for study eligibility. ** Data were missing at baseline for 1 patient. |  |  |  |
+| * A baseline platelet count of 50,000/μL was required for study eligibility ** Data were missing at baseline for 1 patient |  |  |  |
 
 ## 5.9 Tumor Lysis Syndrome
 
@@ -98,6 +98,8 @@ Other reported hepatic events include increases in liver enzymes, hyperbilirubin
 Such changes may be reversible upon discontinuation of VELCADE.
 There is limited re-challenge information in these patients.
 
-Patients with Hepatic Impairment: Bortezomib is metabolized by liver enzymes and bortezomib clearance may decrease in patients with hepatic impairment.
-These patients should be closely monitored for toxicities when treated with VELCADE.
-[Use In Specific Populations (8.7)]
+## 5.11 Patients with Hepatic Impairment:
+
+Bortezomib is metabolized by liver enzymes.
+Bortezomib exposure is increased in patients with moderate or severe hepatic impairment; these patients should be treated with VELCADE at reduced starting doses and closely monitored for toxicities.
+[see Dosage and Administration (2.5), Use In Specific Populations (8.7) and Clinical Pharmacology (12.3)]
