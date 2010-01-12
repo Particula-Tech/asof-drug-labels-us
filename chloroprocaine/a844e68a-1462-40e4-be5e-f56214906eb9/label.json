@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA009435"
+  ],
+  "inn": "chloroprocaine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-475-30",
+    "63323-476-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "chloroprocaine hydrochloride",
+      "name": "Nesacaine"
+    }
+  ],
+  "setid": "a844e68a-1462-40e4-be5e-f56214906eb9",
+  "source": "dailymed"
+}
