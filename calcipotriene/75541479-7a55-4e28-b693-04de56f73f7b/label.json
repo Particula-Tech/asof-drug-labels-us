@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020554"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "LEO Pharma Inc.",
+  "package_ndcs": [
+    "50222-260-06",
+    "50222-260-12",
+    "50222-260-99"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "calcipotriene",
+      "name": "Dovonex"
+    }
+  ],
+  "setid": "75541479-7a55-4e28-b693-04de56f73f7b",
+  "source": "dailymed"
+}
