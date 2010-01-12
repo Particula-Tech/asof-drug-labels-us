@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021946"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Stiefel Laboratories Inc",
+  "package_ndcs": [
+    "0145-0003-05"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "ketoconazole",
+      "name": "XOLEGEL"
+    }
+  ],
+  "setid": "65e5572e-5d90-49b5-b53b-d1d304de6d41",
+  "source": "dailymed"
+}
