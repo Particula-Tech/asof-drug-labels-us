@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020611"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "LEO Pharma Inc.",
+  "package_ndcs": [
+    "50222-403-08",
+    "50222-403-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "calcipotriene",
+      "name": "Dovonex"
+    }
+  ],
+  "setid": "92d53473-e33d-4490-9390-ec333dbf7676",
+  "source": "dailymed"
+}
