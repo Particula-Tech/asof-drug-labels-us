@@ -131,7 +131,7 @@ Tell your doctor about any side effect that bothers you or that does not go away
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088 or to Centocor Ortho Biotech Inc. at 1-800-457-6399.
 
 General information about STELARA™
 
@@ -140,17 +140,18 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 This Medication Guide summarizes the most important information about STELARA™.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about STELARA™ that was written for healthcare professionals.
-For more information, go to www.STELARAinfo.com or call 1-800-457-6399.
 
 What are the ingredients in STELARA™?
 
 Active ingredient: ustekinumab
 
-Inactive ingredients: sucrose, L-histidine, and polysorbate 80.
+Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, and sucrose.
 
-Manufactured by Cilag AG, Schaffhausen, Switzerland for Centocor Ortho Biotech Inc. Horsham, PA 19044
+Prefilled Syringe Manufactured by: Centocor Ortho Biotech Inc., Horsham, PA 19044, License No. 1821 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403
 
-Revised September 2009
+Vial Manufactured by: Centocor Ortho Biotech Inc., Horsham, PA 19044, License No. 1821 at Cilag AG, Schaffhausen, Switzerland
+
+Revised December 2009
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

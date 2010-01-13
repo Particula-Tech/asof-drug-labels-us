@@ -3,10 +3,12 @@
     "BLA125261"
   ],
   "inn": "ustekinumab",
-  "labeler": "Centocor",
+  "labeler": "Centocor Ortho Biotech Inc.",
   "package_ndcs": [
     "57894-060-02",
-    "57894-061-02"
+    "57894-060-03",
+    "57894-061-02",
+    "57894-061-03"
   ],
   "products": [
     {

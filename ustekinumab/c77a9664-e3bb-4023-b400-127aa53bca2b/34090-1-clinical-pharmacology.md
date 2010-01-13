@@ -47,3 +47,7 @@ Elderly
 
 A population pharmacokinetic analysis (N=106/1937 subjects greater than or equal to 65 years old) was performed to evaluate the effect of age on the pharmacokinetics of ustekinumab.
 There were no apparent changes in pharmacokinetic parameters (clearance and volume of distribution) in subjects older than 65 years old.
+
+Drug-Drug Interactions
+
+Upon initiation of ustekinumab in patients who are receiving concomitant CYP450 substrates, particularly those with narrow therapeutic index, monitoring for therapeutic effect (e.g., for warfarin) or drug concentration (e.g., for cyclosporine) should be considered and the individual dose of the drug adjusted as needed [see Drug Interactions (7.3)].
