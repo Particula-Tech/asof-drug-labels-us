@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021852"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "LEO Pharma Inc.",
+  "package_ndcs": [
+    "50222-227-04",
+    "50222-227-07",
+    "50222-227-81"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene and betamethasone dipropionate",
+      "name": "TACLONEX"
+    }
+  ],
+  "setid": "ef43ba2d-20ce-4415-b5c2-e486b836812e",
+  "source": "dailymed"
+}
