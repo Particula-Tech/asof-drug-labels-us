@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017060"
+  ],
   "inn": "norethindrone",
-  "labeler": "WatsonPharma",
+  "labeler": "Watson Pharma, Inc.",
   "package_ndcs": [
     "52544-235-28",
     "52544-235-31"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone",
+      "name": "Nor QD"
+    }
+  ],
   "setid": "aa34bfca-06c3-4916-bb51-4bfbfc0ee371",
   "source": "dailymed"
 }
