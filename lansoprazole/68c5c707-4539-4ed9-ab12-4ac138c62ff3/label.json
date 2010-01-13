@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020406"
+  ],
+  "inn": "lansoprazole",
+  "labeler": "Caremark L.L.C.",
+  "package_ndcs": [
+    "0339-6489-06",
+    "0339-6489-11",
+    "64764-046-19"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Prevacid"
+    }
+  ],
+  "setid": "68c5c707-4539-4ed9-ab12-4ac138c62ff3",
+  "source": "dailymed"
+}
