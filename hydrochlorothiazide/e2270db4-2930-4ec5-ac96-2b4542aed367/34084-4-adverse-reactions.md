@@ -32,11 +32,11 @@ Muscle spasm
 
 ## Nervous System/Psychiatric
 
-Vertigo, paresthesias, dizziness, headache, restlessness.
+Vertigo, paresthesias, dizziness, headache, restlessness
 
 ## Renal
 
-Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS)
+Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS.)
 
 ## Skin
 

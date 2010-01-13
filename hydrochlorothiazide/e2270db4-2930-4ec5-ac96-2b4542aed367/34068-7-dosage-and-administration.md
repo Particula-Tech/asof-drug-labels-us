@@ -24,5 +24,4 @@ Patients usually do not require doses in excess of 50 mg of hydrochlorothiazide 
 ### For Diuresis and For Control of Hypertension
 
 The usual pediatric dosage is 0.5 to 1 mg per pound (1 to 2 mg/kg) per day in single or two divided doses, not to exceed 37.5 mg per day in infants up to 2 years of age or 100 mg per day in children 2 to 12 years of age.
-In infants less than 6 months of age, doses up to 1.5 mg per pound (3 mg/kg) per day in two divided doses may be required.
-(See PRECAUTIONS, Pediatric Use)
+In infants less than 6 months of age, doses up to 1.5 mg per pound (3 mg/kg) per day in two divided doses may be required (see PRECAUTIONS, Pediatric Use).

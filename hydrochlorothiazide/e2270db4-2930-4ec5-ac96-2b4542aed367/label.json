@@ -1,25 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA083177"
+  ],
   "inn": "hydrochlorothiazide",
-  "labeler": "Ivax Pharmaceuticals, Inc.",
+  "labeler": "IVAX Pharmaceuticals, Inc.",
   "package_ndcs": [
     "0172-2083-00",
     "0172-2083-10",
-    "0172-2083-31",
     "0172-2083-60",
-    "0172-2083-71",
     "0172-2083-80",
-    "0172-2083-95",
     "0172-2089-00",
     "0172-2089-10",
-    "0172-2089-31",
     "0172-2089-60",
-    "0172-2089-71",
     "0172-2089-80",
-    "0172-2089-85",
-    "0172-2089-95"
+    "0172-2089-85"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide"
+    }
+  ],
   "setid": "e2270db4-2930-4ec5-ac96-2b4542aed367",
   "source": "dailymed"
 }
