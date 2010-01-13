@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "BLA125276"
+  ],
+  "inn": "tocilizumab",
+  "labeler": "Genentech, Inc.",
+  "package_ndcs": [
+    "50242-135-01",
+    "50242-135-04",
+    "50242-136-01",
+    "50242-136-04",
+    "50242-137-01",
+    "50242-137-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "tocilizumab",
+      "name": "ACTEMRA"
+    }
+  ],
+  "setid": "2e5365ff-cb2a-4b16-b2c7-e35c6bf2de13",
+  "source": "dailymed"
+}
