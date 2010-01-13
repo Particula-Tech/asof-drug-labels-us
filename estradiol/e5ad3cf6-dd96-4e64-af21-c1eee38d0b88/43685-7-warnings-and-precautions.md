@@ -1,155 +1,204 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-1.
-Induction of malignant neoplasms.
-Long-term, continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, cervix, vagina, and liver.
-There are now reports that estrogens increase risk of carcinoma of the endometrium in humans (See Boxed Warning).
+## 5.1 Risks From Systemic Absorption
 
-At the present time there is no satisfactory evidence that estrogens given to postmenopausal women increase the risk of cancer of the breast, although a recent long-term follow-up of a single physician’s practice has raised this possibility.
-Because of the animal data, there is a need for caution in prescribing estrogens for women with a strong family history of breast cancer or who have breast nodules, fibrocystic disease, or abnormal mammograms.
+Vagifem is intended only for vaginal administration.
+Systemic absorption occurs with the use of Vagifem.
+The warnings, precautions, and adverse reactions associated with the use of systemic estrogen therapy should be taken into account.
 
-2.
-Gallbladder disease.
-A recent study has reported a 2- to 3-fold increase in the risk of surgically confirmed gallbladder disease in women receiving postmenopausal estrogens, similar to the 2-fold increase previously noted in users of oral contraceptives.
+## 5.2 Cardiovascular Disorders
 
-3.
-Effects similar to those caused by estrogen-progestogen oral contraceptives.
-There are several serious adverse effects of oral contraceptives, most of which have not, up to now, been documented as consequences of postmenopausal estrogen therapy.
-This may reflect the comparatively low doses of estrogens used in postmenopausal women.
-It would be expected that the larger doses of estrogen used to treat prostatic or breast cancer are more likely to result in these adverse effects, and, in fact, it has been shown that there is an increased risk of thrombosis in men receiving estrogens for prostatic cancer.
+An increased risk of stroke and deep vein thrombosis (DVT) has been reported with estrogen-alone therapy.
+An increased risk of pulmonary embolism, DVT, stroke, and myocardial infarction has been reported with estrogen plus progestin therapy.
+Should any of these occur or be suspected, estrogens with or without progestins should be discontinued immediately.
 
-a. Thromboembolic disease.
-It is now well established that users of oral contraceptives have an increased risk of various thromboembolic and thrombotic vascular diseases, such as thrombophlebitis, pulmonary embolism, stroke, and myocardial infarction.
-Cases of retinal thrombosis, mesenteric thrombosis, and optic neuritis have been reported in oral-contraceptive users.
-There is evidence that the risk of several of these adverse reactions is related to the dose of the drug.
-An increased risk of postsurgery thromboembolic complications has also been reported in users of oral contraceptives.
-If feasible, estrogen should be discontinued at least 4 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
+Risk factors for arterial vascular disease (for example, hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (for example, personal history or family history of venous thromboembolism [VTE], obesity, and systemic lupus erythematosus) should be managed appropriately.
 
-While an increased rate of thromboembolism and thrombotic disease in postmenopausal users of estrogens has not been found, this does not rule out the possibility that such an increase may be present, or that subgroups of women who have underlying risk factors, or who are receiving large doses of estrogens, may have increased risk.
-Therefore, estrogens should not be used (except in treatment of malignancy) in a person with a history of such disorders in association with estrogen use.
-They should be used with caution in patients with cerebral vascular or coronary artery disease and only for those in whom estrogens are clearly needed.
+Stroke
 
-Large doses of estrogens (5 mg conjugated estrogens per day), comparable to those used to treat cancer of the prostate and breast, have been shown in a large prospective clinical trial in men, to increase the risk of nonfatal myocardial infarction, pulmonary embolism, and thrombophlebitis.
-When estrogen doses of this size are used, any of the thromboembolic and thrombotic adverse effects associated with oral contraceptive use should be considered a clear risk.
+In the Women’s Health Initiative (WHI) estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg) compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years).
+The increase in risk was demonstrated in year one and persisted [see Clinical Studies (14.2)].
+Should a stroke occur or be suspected, estrogens should be discontinued immediately.
 
-b. Hepatic adenoma.
-Benign hepatic adenomas appear to be associated with the oral contraceptives.
-Although benign, and rare, these may rupture and may cause death through intra-abdominal
+Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg) versus those receiving placebo (18 versus 21 per 10,000 women-years).1
 
-hemorrhage.
-Such lesions have not yet been reported in association with other estrogen or progestogen preparations but should be considered in estrogen users having abdominal pain and tenderness, abdominal mass, or hypovolemic shock.
-Hepatocellular carcinoma has also been reported in women taking estrogen-containing oral contraceptives.
-The relationship of this malignancy to these drugs is not known at this time.
+In the WHI estrogen plus progestin substudy, a statistically significant increased risk of stroke was reported in all women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to placebo (33 versus 25 per 10,000 women-years) [see Clinical Studies (14.2)].
+The increase in risk was demonstrated after the first year and persisted.1
 
-c. Elevated blood pressure.
-Women using oral contraceptives sometimes experience increased blood pressure which, in most cases, returns to normal on discontinuing the drug.
-There is now a report that this may occur with the use of estrogens in the menopause and blood pressure should be monitored with estrogen use, especially if high doses are used.
+Coronary Heart Disease
 
-d. Glucose tolerance.
-A worsening of glucose tolerance has been observed in a significant percentage of patients on estrogen-containing oral contraceptives.
-For this reason, diabetic patients should be carefully observed while using estrogens.
+In the WHI estrogen - alone substudy, no overall effect on coronary heart disease (CHD) events (defined as non-fatal myocardial infarction [MI], silent MI, or CHD death) was reported in women receiving estrogen alone compared to placebo2[see Clinical Studies (14.2)].
 
-4.
-Hypercalcemia.
-Administration of estrogens may lead to severe hypercalcemia in patients with breast cancer and bone metastases.
-If this occurs, the drug should be stopped and appropriate measures taken to reduce the serum calcium level.
+Subgroup analysis of women 50 to 59 years of age suggests a statistically non-significant reduction in CHD events (CE 0.625 mg compared to placebo) in women with less than 10 years since menopause (8 versus 16 per 10,000 women-years).1
 
-5.
-Rare Event: Trauma induced by the VAGIFEM® applicator may occur, especially in patients with severely atrophic vaginal mucosa.
+In the WHI estrogen plus progestin substudy, there was a statistically non-significant increased risk of CHD events in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.2)].
 
-# PRECAUTIONS
+In postmenopausal women with documented heart disease (n=2,763), average age 66.7 years, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]) treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
+During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
+There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during the subsequent years.
+Two thousand, three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of the original HERS, HERS II.
+Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
+Rates of CHD events were comparable among women in the CE (0.625 mg) plus MPA (2.5 mg) group and the placebo group in HERS, HERS II, and overall.
 
-## A. General Precautions
+Venous Thromboembolism (VTE)
 
-1.
-A complete medical and family history should be taken prior to the initiation of any estrogen therapy.
-The pretreatment and periodic physical examinations should include special references to blood pressure, breast, abdomen, and pelvic organs, and should include a Papanicolaou smear.
-As a general rule, estrogens should not be prescribed for longer than one year without another physical exam being performed.
+In the WHI estrogen-alone substudy, the risk of VTE (DVT and pulmonary embolism [PE]) was increased for women receiving daily CE (0.625 mg) compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
+The increase in VTE risk was demonstrated during the first 2 years3 [see Clinical Studies (14.2)].
+Should a VTE occur or be suspected, estrogens should be discontinued immediately.
 
-2.
-Fluid retention - Because estrogens may cause some degree of fluid retention, conditions which might be influenced by this factor, such as asthma, epilepsy, migraine, and cardiac and renal dysfunction, require careful observation.
+In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
+Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
+The increase in VTE risk was observed during the first year and persisted4[see Clinical Studies (14.2)].
+Should a VTE occur or be suspected, estrogens should be discontinued immediately.
 
-3.
-Familial Hyperlipoproteinemia - Estrogen therapy may be associated with massive elevations of plasma triglycerides leading to pancreatitis and other complications in patients with familial defects of lipoprotein metabolism.
+If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
-4.
-Certain patients may develop undesirable manifestations of excessive estrogenic stimulation, such as abnormal or excessive uterine bleeding, mastodynia, etc.
+## 5.3 Malignant Neoplasms
 
-5.
-Prolonged administration of unopposed estrogen therapy has been reported to increase the risk of endometrial hyperplasia in some patients.
+Endometrial Cancer
 
-6.
-Preexisting uterine leiomyomata may increase in size during estrogen use.
+An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in women with a uterus.
+The reported endometrial cancer risk among unopposed estrogen users is about 2- to 12-fold greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
+Most studies show no significant increased risk associated with use of estrogens for less than 1 year.
+The greatest risk appears associated with prolonged use, with an increased risk of 15- to 24-fold for 5 to 10 years or more and this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
 
-7.
-The pathologist should be advised of estrogen therapy when relevant specimens are submitted.
+Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important.
+Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
 
-8.
-Patients with a history of jaundice during pregnancy have an increased risk of recurrence of jaundice while receiving estrogen-containing oral-contraceptive therapy.
-If jaundice develops in any patient receiving estrogen, the medication should be discontinued while the cause is investigated.
+There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
+Adding a progestin to estrogen therapy in postmenopausal women has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-9.
-Estrogens may be poorly metabolized in patients with impaired liver function and should be administered with caution in such patients.
+Breast Cancer
 
-10.
-Because estrogens influence the metabolism of calcium and phosphorus, they should be used with caution in patients with metabolic bone diseases that are associated with hypercalcemia or in patients with renal insufficiency.
+The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the Women’s Health Initiative (WHI) substudy of daily CE (0.625 mg).
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg) was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80] 5[see Clinical Studies (14.2)].
 
-11.
-Because of the effects of estrogens on epiphyseal closure, they should be used judiciously in young patients in whom bone growth is not yet complete.
+The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
+After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of breast cancer in women who took daily CE plus MPA.
+In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
+The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for estrogen plus progestin compared with placebo.6 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years for estrogen plus progestin compared with placebo.
+Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for estrogen plus progestin compared with placebo.
+In the same substudy, invasive breast cancers were larger and diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
+Metastatic disease was rare, with no apparent difference between the two groups.
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups [see Clinical Studies (14.2)].
 
-12.
-Insertion of the VAGIFEM® applicator - Patients with severely atrophic vaginal mucosa should be instructed to exercise care during insertion of the applicator.
-After gynecological surgery, any vaginal applicator should be used with caution and only if clearly indicated.
+Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
+The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
+However, these studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
-13.
-Vaginal infection - Vaginal infection is generally more common in postmenopausal women due to the lack of normal flora seen in fertile women, especially lactobacilla; hence the subsequent higher pH.
-Vaginal infections should be treated with appropriate antimicrobial therapy before initiation of VAGIFEM therapy.
+The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 
-## B. Information for the Patient
+All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
+In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
-See text of Patient Package Insert which appears below.
+Ovarian Cancer
 
-## C. Drug/Laboratory Test Interactions
+The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
+After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent nCI, 0.77-3.24).
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
+However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
 
-Certain endocrine and liver function tests may be affected by estrogen-containing oral contraceptives.
-The following similar changes may be expected with larger doses of estrogens:
+## 5.4 Probable Dementia
 
-a. Increased prothrombin and factors VII, VIII, IX, and X, decreased antithrombin III; increased norepinephrine induced platelet aggregability.
+In the estrogen-alone Women’s Health Initiative Memory Study (WHIMS), an ancillary study of WHI, a population of 2,947 hysterectomized women aged 65 to 79 years was randomized to daily CE (0.625 mg) or placebo.
 
-b. Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by PBI, T4 by column, or T4 by radioimmunoassay.
-Free T4 resin uptake is decreased, reflecting the elevated TBG, free T4 concentration is unaltered.
+In the WHIMS estrogen-alone ancillary study, after an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
+The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent nCI, 0.83-2.66).
+The absolute risk of probable dementia for CE alone versus placebo was 37 versus 25 cases per 10,000 women-years8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
-c. Impaired glucose tolerance.
+In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
+After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
+The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent nCI, 1.21-3.48).
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
-d. Reduced response to metyrapone test.
+When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent nCI, 1.19-2.60).
+Since both substudies were conducted in women aged 65 to 79 years, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
-e. Reduced serum folate concentration.
+## 5.5 Gallbladder Disease
 
-f. Increased serum triglyceride and phospholipid concentration.
+A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
-## D. Carcinogenesis, Mutagenesis and Impairment of Fertility
+## 5.6 Hypercalcemia
 
-Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, vagina and liver (See CONTRAINDICATIONS and WARNINGS).
+Estrogen administration may lead to severe hypercalcemia in women with breast cancer and bone metastases.
+If hypercalcemia occurs, use of the drug should be stopped and appropriate measures taken to reduce the serum calcium level.
 
-## E. Pregnancy Category X
+## 5.7 Visual Abnormalities
 
-Estrogens are not indicated for use during pregnancy or the immediate postpartum period.
-Estrogens are ineffective for the prevention or treatment of threatened or habitual abortion.
-Treatment with diethylstilbesterol (DES) during pregnancy has been associated with an increased risk of congenital defects and cancer in the reproductive organs of the fetus, and possibly other birth defects.
-The use of DES during pregnancy has also been associated with a subsequent increased risk of breast cancer in the mothers.
+Retinal vascular thrombosis has been reported in women receiving estrogens.
+Discontinue medication pending examination if there is a sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia, or migraine.
+If examination reveals papilledema or retinal vascular lesions, estrogens should be permanently discontinued.
 
-## F. Nursing Mothers
+## 5.8 Addition of a Progestin When a Woman Has Not Had a Hysterectomy
 
-As a general principle, administration of any drug to nursing mothers should be done only when clearly necessary since many drugs are excreted in human milk.
-In addition, estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
-Estrogens are not indicated for the prevention of postpartum breast engorgement.
+Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration or daily with estrogen in a continuous regimen have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
+Endometrial hyperplasia may be a precursor to endometrial cancer.
 
-## G. Pediatric Use
+There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
+These include an increased risk of breast cancer.
 
-Safety and effectiveness in pediatric patients have not been established.
+## 5.9 Elevated Blood Pressure
 
-## H. Geriatric Use
+In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
+In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
 
-Clinical studies of VAGIFEM® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+## 5.10 Hypertriglyceridemia
+
+In women with preexisting hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis.
+Consider discontinuation of treatment if pancreatitis occurs.
+
+## 5.11 Hepatic Impairment and/or Past History of Cholestatic Jaundice
+
+Estrogens may be poorly metabolized in women with impaired liver function.
+For women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised, and in the case of recurrence, medication should be discontinued.
+
+## 5.12 Hypothyroidism
+
+Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
+Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
+Women dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
+These women should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
+
+## 5.13 Fluid Retention
+
+Estrogens may cause some degree of fluid retention.
+Women with conditions that might be influenced by this factor, such as a cardiac or renal dysfunction, warrant careful observation when estrogens are prescribed.
+
+## 5.14 Hypocalcemia
+
+Estrogen therapy should be used with caution in women with hypoparathyroidism as estrogen-induced hypocalcemia may occur.
+
+## 5.15 Exacerbation of Endometriosis
+
+A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.
+For women known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
+
+## 5.16 Exacerbation of Other Conditions
+
+Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
+
+## 5.17 Local Abrasion
+
+A few cases of local abrasion induced by the Vagifem applicator have been reported, especially in women with severely atrophic vaginal mucosa.
+
+## 5.18 Laboratory Tests
+
+Serum follicle stimulating hormone and estradiol levels have not been shown to be useful in the management of moderate to severe symptoms of vulvar and vaginal atrophy.
+
+## 5.19 Drug/Laboratory Test Interactions
+
+Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+
+Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+T3 resin uptake is decreased, reflecting the elevated TBG.
+Free T4 and free T3 concentrations are unaltered.
+Women on thyroid replacement therapy may require higher doses of thyroid hormone.
+
+Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
+Free hormone concentrations, such as testosterone and estradiol, may be decreased.
+Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
+
+Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentrations, increased triglyceride levels.
+
+Impaired glucose tolerance.

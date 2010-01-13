@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Numerous reports of ingestion of large doses of estrogen containing oral contraceptives by young children indicate that acute serious ill effects do not occur.
-Overdosage with estrogens may cause nausea, and withdrawal bleeding may occur in females.
+Overdosage of estrogen may cause nausea and vomiting, breast tenderness, dizziness, abdominal pain, drowsiness/fatigue and withdrawal bleeding in women.
+Treatment of overdose consists of discontinuation of Vagifem together with institution of appropriate symptomatic care.

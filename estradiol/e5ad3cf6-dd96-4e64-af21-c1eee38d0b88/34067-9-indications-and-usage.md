@@ -1,3 +1,3 @@
-# INDICATIONS AND USE
+# 1 INDICATIONS AND USAGE
 
-VAGIFEM® is indicated for the treatment of atrophic vaginitis.
+## 1.1 Treatment of Atrophic Vaginitis due to Menopause

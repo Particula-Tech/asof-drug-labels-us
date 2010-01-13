@@ -1,11 +1,16 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-VAGIFEM is gently inserted into the vagina as far as it can comfortably go without force, using the supplied applicator.
+## 2.1 General Dosing Information
 
-•Initial dose: One (1) VAGIFEM tablet, inserted vaginally, once daily for two (2) weeks.
-It is advisable to have the patient administer treatment at the same time each day.
+Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, a progestin should also be considered to reduce the risk of endometrial cancer.
 
-•Maintenance dose: One (1) VAGIFEM tablet, inserted vaginally, twice weekly.
+A woman without a uterus does not need a progestin.
+In some cases, however, hysterectomized women with a history of endometriosis may need a progestin [see Warnings and Precautions (5.3), 5.15)].
 
-The need to continue therapy should be assessed by the physician with the patient.
-Attempts to discontinue or taper medication should be made at three to six month intervals.
+Use of estrogen-alone, or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
+Postmenopausal women should be re-evaluated periodically as clinically appropriate to determine if treatment is still necessary.
+
+## 2.2 Recommended Dosing
+
+Vagifem should be administered intravaginally using the supplied applicator: 1 tablet daily for 2 weeks, followed by 1 tablet twice weekly (for example, Tuesday and Friday).
+Generally, women should be started at the 10 mcg dosage strength.
