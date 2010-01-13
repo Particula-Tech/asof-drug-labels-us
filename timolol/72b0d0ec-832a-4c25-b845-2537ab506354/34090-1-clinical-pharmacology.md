@@ -16,7 +16,7 @@ Such an effect in patients with asthma or other bronchospastic conditions is pot
 ## 12.2 Pharmacodynamics
 
 Because in some patients the intraocular pressure-lowering response to Timolol GFS may require a few weeks to stabilize, evaluation should include a determination of intraocular pressure after approximately 4 weeks of treatment with Timolol GFS.
-If the patient’s intraocular pressure is still not at a satisfactory level on this regimen, concomitant therapy can be considered.
+If the patient's intraocular pressure is still not at a satisfactory level on this regimen, concomitant therapy can be considered.
 
 ## 12.3 Pharmacokinetics
 

@@ -2,14 +2,14 @@
 
 ## 7.1 Oral Beta-Adrenergic Receptor Inhibitors
 
-Patients who are receiving a beta-adrenergic receptor inhibiting agents orally and Timolol GFS should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
+Patients who are receiving a beta-adrenergic receptor inhibiting agent orally and Timolol GFS should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 Patients should not usually receive two topical ophthalmic beta-adrenergic receptor inhibiting agents concurrently.
 
 ## 7.2 Digitalis and Calcium Antagonists
 
 The concomitant use of beta-adrenergic receptor inhibiting agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
 
-Caution should be used in the coadministration of beta-adrenergic receptor inhibitors, such as Timolol GFS, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, or hypotension.
+Caution should be used in the co-administration of beta-adrenergic receptor inhibitors, such as Timolol GFS, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, or hypotension.
 In patients with impaired cardiac function, co-administration should be avoided.
 
 ## 7.3 Catecholamine-Depleting Drugs
@@ -22,7 +22,7 @@ Potentiated systemic beta-blockade (e.g., decreased heart rate) has been reporte
 
 ## 7.5 Clonidine
 
-Oral beta-adrenergic receptor inhibitor agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
+Oral beta-adrenergic receptor inhibiting agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
 There have been no reports of exacerbation of rebound hypertension with ophthalmic timolol maleate.
 
 ## 7.6 Injectable Epinephrine
