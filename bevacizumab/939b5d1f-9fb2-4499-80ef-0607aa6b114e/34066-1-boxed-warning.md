@@ -1,25 +1,22 @@
-# WARNINGS
+# WARNING: GASTROINTESTINAL PERFORATIONS, SURGERY AND WOUND HEALING COMPLICATIONS, and HEMORRHAGE
 
-## GASTROINTESTINAL PERFORATIONS
+Gastrointestinal Perforations
 
-AVASTIN administration can result in the development of gastrointestinal perforation, in some instances resulting in fatality.
-Gastrointestinal perforation, sometimes associated with intra‑abdominal abscess, occurred throughout treatment with AVASTIN (i.e., was not correlated to duration of exposure).
-The incidence of gastrointestinal perforation (gastrointestinal perforation, fistula formation, and/or intra‑abdominal abscess) in patients with colorectal cancer and in patients with non‑small cell lung cancer (NSCLC) receiving AVASTIN was 2.4% and 0.9%, respectively.
-The typical presentation was reported as abdominal pain associated with symptoms such as constipation and vomiting.
-Gastrointestinal perforation should be included in the differential diagnosis of patients presenting with abdominal pain on AVASTIN.
-AVASTIN therapy should be permanently discontinued in patients with gastrointestinal perforation.
-(See WARNINGS: Gastrointestinal Perforations and DOSAGE AND ADMINISTRATION: Dose Modifications.)
+The incidence of gastrointestinal perforation, some fatal, in Avastin‑treated patients ranges from 0.3 to 2.4%.
+Discontinue Avastin in patients with gastrointestinal perforation.
+[See Dosage and Administration (2.4), Warnings and Precautions (5.1).]
 
-## WOUND HEALING COMPLICATIONS
+Surgery and Wound Healing Complications
 
-AVASTIN administration can result in the development of wound dehiscence, in some instances resulting in fatality.
-AVASTIN therapy should be permanently discontinued in patients with wound dehiscence requiring medical intervention.
-The appropriate interval between termination of AVASTIN and subsequent elective surgery required to avoid the risks of impaired wound healing⁄wound dehiscence has not been determined.
-(See WARNINGS: Wound Healing Complications and DOSAGE AND ADMINISTRATION: Dose Modifications.)
+The incidence of wound healing and surgical complications, including serious and fatal complications, is increased in Avastin‑treated patients.
+Discontinue Avastin in patients with wound dehiscence.
+The appropriate interval between termination of Avastin and subsequent elective surgery required to reduce the risks of impaired wound healing/wound dehiscence has not been determined.
+Discontinue at least 28 days prior to elective surgery.
+Do not initiate Avastin for at least 28 days after surgery and until the surgical wound is fully healed.
+[See Dosage and Administration (2.4), Warnings and Precautions (5.2), and Adverse Reactions (6.1).]
 
-## Hemorrhage
+Hemorrhage
 
-Fatal pulmonary hemorrhage can occur in patients with NSCLC treated with chemotherapy and AVASTIN.
-The incidence of severe or fatal hemoptysis was 31% in patients with squamous histology and 2.3% in patients with NSCLC excluding predominant squamous histology.
-Patients with recent hemoptysis (≥1⁄2 tsp of red blood) should not receive AVASTIN.
-(See WARNINGS: Hemorrhage, ADVERSE REACTIONS: Hemorrhage, and DOSAGE AND ADMINISTRATION: Dose Modifications.)
+Severe or fatal hemorrhage, including hemoptysis, gastrointestinal bleeding, central nervous systems (CNS) hemorrhage, epistaxis, and vaginal bleeding occurred up to five‑fold more frequently in patients receiving Avastin.
+Do not administer Avastin to patients with serious hemorrhage or recent hemoptysis.
+[See Dosage and Administration (2.4), Warnings and Precautions (5.3), and Adverse Reactions (6.1).]

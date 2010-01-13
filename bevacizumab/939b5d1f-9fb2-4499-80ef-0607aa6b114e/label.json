@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA125085"
+  ],
   "inn": "bevacizumab",
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-060-01",
     "50242-061-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab",
+      "name": "Avastin"
+    }
+  ],
   "setid": "939b5d1f-9fb2-4499-80ef-0607aa6b114e",
   "source": "dailymed"
 }

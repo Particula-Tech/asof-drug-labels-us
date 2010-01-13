@@ -1,9 +1,9 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AVASTIN is supplied as 4 mL and 16 mL of a sterile solution in single‑use glass vials to deliver 100 and 400 mg of Bevacizumab per vial, respectively.
+Avastin vials [100 mg (NDC‑50242‑060‑01) and 400 mg (NDC 50242‑061‑01)] are stable at 2–8°C (36–42°F).
+Avastin vials should be protected from light.
+Do not freeze or shake.
 
-Single unit 100 mg carton: Contains one 4 mL vial of AVASTIN (25 mg/mL).
-NDC 50242‑060‑01
-
-Single unit 400 mg carton: Contains one 16 mL vial of AVASTIN (25 mg/mL).
-NDC 50242‑061‑01
+Diluted Avastin solutions may be stored at 2–8°C (36–46°F) for up to 8 hours.
+Store in the original carton until time of use.
+No incompatibilities between Avastin and polyvinylchloride or polyolefin bags have been observed.

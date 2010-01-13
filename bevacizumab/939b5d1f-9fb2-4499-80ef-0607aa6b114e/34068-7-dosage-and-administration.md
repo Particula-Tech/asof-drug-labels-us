@@ -1,59 +1,68 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Do not initiate AVASTIN until at least 28 days following major surgery.
-The surgical incision should be fully healed prior to initiation of AVASTIN.
+## 2.1 Administration
 
-## Metastatic Carcinoma of the Colon or Rectum
+Do not administer as an intravenous push or bolus.
+Administer only as an intravenous (IV) infusion.
 
-AVASTIN, used in combination with intravenous 5‑FU‑based chemotherapy, is administered as an intravenous infusion (5 mg/kg or 10 mg/kg) every 14 days.
+- Do not initiate Avastin until at least 28 days following major surgery.
+  Administer Avastin after the surgical incision has fully healed.
+- First infusion: Administer infusion over 90 minutes.
+- Subsequent infusions: Administer second infusion over 60 minutes if first infusion is tolerated; administer all subsequent infusions over 30 minutes if infusion over 60 minutes is tolerated.
 
-The recommended dose of AVASTIN, when used in combination with bolus‑IFL, is 5 mg/kg.
+## 2.2 Recommended Doses and Schedules
 
-The recommended dose of AVASTIN, when used in combination with FOLFOX4, is 10 mg/kg.
+Patients should continue treatment until disease progression or unacceptable toxicity.
 
-## Non‑Squamous, Non‑Small Cell Lung Cancer
+Metastatic Colorectal Cancer (mCRC)
 
-The recommended dose of AVASTIN is 15 mg/kg, as an IV infusion every 3 weeks.
+The recommended doses are 5 mg/kg or 10 mg/kg every 2 weeks when used in combination with intravenous 5‑FU‑based chemotherapy.
 
-## Dose Modifications
+- Administer 5 mg/kg when used in combination with bolus‑IFL.
+- Administer 10 mg/kg when used in combination with FOLFOX4.
 
-There are no recommended dose reductions for the use of AVASTIN.
-If needed, AVASTIN should be either discontinued or temporarily suspended as described below.
+Non‑Squamous Non‑Small Cell Lung Cancer (NSCLC)
 
-AVASTIN should be permanently discontinued in patients who develop gastrointestinal perforation, (gastrointestinal perforation, fistula formation in the gastrointestinal tract, intra‑abdominal abscess), fistula formation involving an internal organ, wound dehiscence requiring medical intervention, serious bleeding, a severe arterial thromboembolic event, nephrotic syndrome, hypertensive crisis or hypertensive encephalopathy.
-In patients developing RPLS, discontinue AVASTIN and initiate treatment of hypertension, if present.
-(See WARNINGS: Reversible Posterior Leukoencephalopathy Syndrome.)
+The recommended dose is 15 mg/kg every 3 weeks in combination with carboplatin and paclitaxel.
 
-Temporary suspension of AVASTIN is recommended in patients with evidence of moderate to severe proteinuria pending further evaluation and in patients with severe hypertension that is not controlled with medical management.
-The risk of continuation or temporary suspension of AVASTIN in patients with moderate to severe proteinuria is unknown.
+Metastatic Breast Cancer (MBC)
 
-AVASTIN should be suspended at least several weeks prior to elective surgery.
-(See WARNINGS: Gastrointestinal Perforation and Wound Healing Complications and PRECAUTIONS: Surgery).
-AVASTIN should not be resumed until the surgical incision is fully healed.
+The recommended dose is 10 mg/kg every 2 weeks in combination with paclitaxel.
 
-## Preparation for Administration
+Glioblastoma
 
-AVASTIN should be diluted for infusion by a healthcare professional using aseptic technique.
-Withdraw the necessary amount of AVASTIN to obtain the required dose and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
+The recommended dose is 10 mg/kg every 2 weeks.
+
+Metastatic Renal Cell Carcinoma (mRCC)
+
+The recommended dose is 10 mg/kg every 2 weeks in combination with interferon alfa.
+
+## 2.3 Preparation for Administration
+
+Use appropriate aseptic technique.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Withdraw necessary amount of Avastin and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
 Discard any unused portion left in a vial, as the product contains no preservatives.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 
-Diluted AVASTIN solutions for infusion may be stored at 2°C–8°C (36°F–46°F) for up to 8 hours.
-No incompatibilities between AVASTIN and polyvinylchloride or polyolefin bags have been observed.
+DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 
-AVASTIN infusions should not be administered or mixed with dextrose solutions.
+## 2.4 Dose Modifications
 
-## Administration
+There are no recommended dose reductions.
 
-DO NOT ADMINISTER AS AN IV PUSH OR BOLUS.
-The initial AVASTIN dose should be delivered over 90 minutes as an IV infusion following chemotherapy.
-If the first infusion is well tolerated, the second infusion may be administered over 60 minutes.
-If the 60‑minute infusion is well tolerated, all subsequent infusions may be administered over 30 minutes.
+Discontinue Avastin for:
 
-## Stability and Storage
+- Gastrointestinal perforations (gastrointestinal perforations, fistula formation in the gastrointestinal tract, intra‑abdominal abscess), fistula formation involving an internal organ [See Boxed Warning, Warnings and Precautions (5.1, 5.4).]
+- Wound dehiscence and wound healing complications requiring medical intervention [See Warnings and Precautions (5.2).]
+- Serious hemorrhage (i.e., requiring medical intervention) [See Boxed Warning, Warnings and Precautions (5.3).]
+- Severe arterial thromboembolic events [See Warnings and Precautions (5.5).]
+- Hypertensive crisis or hypertensive encephalopathy [See Warnings and Precautions (5.6).]
+- Reversible posterior leukoencephalopathy syndrome (RPLS) [See Warnings and Precautions (5.7).]
+- Nephrotic syndrome [See Warnings and Precautions (5.8).]
 
-AVASTIN vials must be refrigerated at 2–8°C (36–46°F).
-AVASTIN vials should be protected from light.
-Store in the original carton until time of use.
-DO NOT FREEZE.
-DO NOT SHAKE.
+Temporarily suspend Avastin for:
+
+- At least 4 weeks prior to elective surgery [See Warnings and Precautions (5.2).]
+- Severe hypertension not controlled with medical management [See Warnings and Precautions (5.6).]
+- Moderate to severe proteinuria pending further evaluation [See Warnings and Precautions (5.8).]
+- Severe infusion reactions [See Warnings and Precautions (5.9).]

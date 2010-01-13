@@ -1,25 +1,3 @@
-AVASTIN®
+Manufactured by: Genentech, Inc. 1 DNA Way South San Francisco, CA 94080‑4990
 
-(Bevacizumab)
-
-For Intravenous Use
-
-Manufactured by:
-
-Genentech, Inc.
-
-1 DNA Way
-
-South San Francisco, CA 94080-4990
-
-7455311
-
-LV0017
-
-4835702
-
-Initial U.S. Approval: February 2004
-
-Code Revision Date: September 2007
-
-© 2007 Genentech, Inc
+7455316 LV0017 4835706 Initial U.S. Approval: February 2004 Code Revision Date: July 2009 © 2009 Genentech, Inc.
