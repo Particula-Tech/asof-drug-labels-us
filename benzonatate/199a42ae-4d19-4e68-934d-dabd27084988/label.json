@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA040682"
+  ],
+  "inn": "benzonatate",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-536-10",
+    "65162-536-50",
+    "65162-537-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "benzonatate",
+      "name": "Benzonatate"
+    }
+  ],
+  "setid": "199a42ae-4d19-4e68-934d-dabd27084988",
+  "source": "dailymed"
+}
