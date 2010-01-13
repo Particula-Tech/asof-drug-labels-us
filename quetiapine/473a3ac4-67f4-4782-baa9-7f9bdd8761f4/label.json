@@ -1,8 +1,16 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022047"
+  ],
   "inn": "quetiapine",
-  "labeler": "AstraZeneca LP",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
+    "0310-0280-39",
+    "0310-0280-50",
+    "0310-0280-60",
+    "0310-0281-39",
+    "0310-0281-50",
+    "0310-0281-60",
     "0310-0282-39",
     "0310-0282-50",
     "0310-0282-60",
@@ -12,11 +20,16 @@
     "0310-0283-60",
     "0310-0283-94",
     "0310-0284-39",
-    "0310-0284-55",
     "0310-0284-60",
     "0310-0284-94"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "quetiapine fumarate",
+      "name": "SEROQUEL"
+    }
+  ],
   "setid": "473a3ac4-67f4-4782-baa9-7f9bdd8761f4",
   "source": "dailymed"
 }

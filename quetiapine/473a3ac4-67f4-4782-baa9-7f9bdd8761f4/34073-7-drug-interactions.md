@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 The risks of using SEROQUEL XR in combination with other drugs have not been extensively evaluated in systematic studies.
 Given the primary CNS effects of SEROQUEL XR, caution should be used when it is taken in combination with other centrally acting drugs.
@@ -18,15 +18,15 @@ Caution should be taken if phenytoin is withdrawn and replaced with a non-induce
 
 Divalproex
 
-Coadministration of quetiapine (150 mg bid) and divalproex (500 mg bid) increased the mean maximum plasma concentration of quetiapine at steady-state by 17% without affecting the extent of absorption or mean oral clearance.
+Coadministration of quetiapine (150 mg twice daily) and divalproex (500 mg twice daily) increased the mean maximum plasma concentration of quetiapine at steady-state by 17% without affecting the extent of absorption or mean oral clearance.
 
 Thioridazine
 
-Thioridazine (200 mg bid) increased the oral clearance of quetiapine (300 mg bid) by 65%.
+Thioridazine (200 mg twice daily) increased the oral clearance of quetiapine (300 mg twice daily) by 65%.
 
 Cimetidine
 
-Administration of multiple daily doses of cimetidine (400 mg tid for 4 days) resulted in a 20% decrease in the mean oral clearance of quetiapine (150 mg tid).
+Administration of multiple daily doses of cimetidine (400 mg three times daily for 4 days) resulted in a 20% decrease in the mean oral clearance of quetiapine (150 mg three times daily).
 Dosage adjustment for quetiapine is not required when it is given with cimetidine.
 
 P450 3A Inhibitors
@@ -36,25 +36,25 @@ Caution (reduced dosage) is indicated when SEROQUEL XR is administered with keto
 
 Fluoxetine, Imipramine, Haloperidol, and Risperidone
 
-Coadministration of fluoxetine (60 mg once daily); imipramine (75 mg bid), haloperidol (7.5 mg bid), or risperidone (3 mg bid) with quetiapine (300 mg bid) did not alter the steady-state pharmacokinetics of quetiapine.
+Coadministration of fluoxetine (60 mg once daily), imipramine (75 mg twice daily), haloperidol (7.5 mg twice daily), or risperidone (3 mg twice daily) with quetiapine (300 mg twice daily) did not alter the steady-state pharmacokinetics of quetiapine.
 
 ## 7.2 Effect of Quetiapine on Other Drugs
 
 Lorazepam
 
-The mean oral clearance of lorazepam (2 mg, single dose) was reduced by 20% in the presence of quetiapine administered as 250 mg tid dosing.
+The mean oral clearance of lorazepam (2 mg, single dose) was reduced by 20% in the presence of quetiapine administered as 250 mg three times daily dosing.
 
 Divalproex
 
-The mean maximum concentration and extent of absorption of total and free valproic acid at steady-state were decreased by 10 to 12% when divalproex (500 mg bid) was administered with quetiapine (150 mg bid).
-The mean oral clearance of total valproic acid (administered as divalproex 500 mg bid) was increased by 11% in the presence of quetiapine (150 mg bid).
+The mean maximum concentration and extent of absorption of total and free valproic acid at steady-state were decreased by 10 to 12% when divalproex (500 mg twice daily) was administered with quetiapine (150 mg twice daily).
+The mean oral clearance of total valproic acid (administered as divalproex 500 mg twice daily) was increased by 11% in the presence of quetiapine (150 mg twice daily).
 The changes were not significant.
 
 Lithium
 
-Concomitant administration of quetiapine (250 mg tid) with lithium had no effect on any of the steady-state pharmacokinetic parameters of lithium.
+Concomitant administration of quetiapine (250 mg three times daily) with lithium had no effect on any of the steady-state pharmacokinetic parameters of lithium.
 
 Antipyrine
 
-Administration of multiple daily doses up to 750 mg/day (on a tid schedule) of quetiapine to subjects with selected psychotic disorders had no clinically relevant effect on the clearance of antipyrine or urinary recovery of antipyrine metabolites.
-These results indicate that quetiapine does not significantly induce hepatic enzymes responsible for cytochrome P450 mediated metabolism of antipyrine
+Administration of multiple daily doses up to 750 mg/day (on a three times daily schedule) of quetiapine to subjects with selected psychotic disorders had no clinically relevant effect on the clearance of antipyrine or urinary recovery of antipyrine metabolites.
+These results indicate that quetiapine does not significantly induce hepatic enzymes responsible for cytochrome P450 mediated metabolism of antipyrine.

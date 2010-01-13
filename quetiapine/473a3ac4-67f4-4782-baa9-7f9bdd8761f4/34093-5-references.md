@@ -1,3 +1,3 @@
-# 15. REFERENCES
+# 15 REFERENCES
 
 None

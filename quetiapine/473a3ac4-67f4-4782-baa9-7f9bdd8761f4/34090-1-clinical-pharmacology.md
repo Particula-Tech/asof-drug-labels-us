@@ -1,24 +1,42 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of quetiapine, as with other drugs having efficacy in the treatment of schizophrenia, is unknown.
-However, it is believed that this drug’s efficacy in schizophrenia is mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonism, by quetiapine and its active metabolite N-desalkyl quetiapine.
+The mechanism of action of SEROQUEL XR, as with other drugs having efficacy in the treatment of schizophrenia, bipolar disorder and major depressive disorder (MDD), is unknown.
+However, it has been proposed that the efficacy of SEROQUEL XR in schizophrenia is mediated through a combination of dopamine type 2 (D2) and serotonin type 2A (5HT2A) antagonism.
+The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D2, but greater activity at 5HT2A receptors, than the parent drug (quetiapine).
+Quetiapine’s efficacy in bipolar depression and MDD may partly be explained by the high affinity and potent inhibitory effects that norquetiapine exhibits for the norepinephrine transporter.
 
-Antagonism at receptors other than dopamine D2 and serotonin 5HT2 with similar or greater affinities may explain some of the other effects of quetiapine and N-desalkyl quetiapine; antagonism at histamine H1 receptors may explain the somnolence and antagonism at adrenergic α1 receptors may explain the orthostatic hypotension observed with this drug.
+Antagonism at receptors other than dopamine and serotonin with similar or greater affinities may explain some of the other effects of quetiapine and norquetiapine: antagonism at histamine H1 receptors may explain the somnolence, antagonism at adrenergic α1b receptors may explain the orthostatic hypotension, and antagonism at muscarinic M1 receptors may explain the anticholinergic effects.
 
 ## 12.2 Pharmacodynamics
 
-Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148nM respectively), dopamine D1 and D2 (IC50s=1268 & 329nM respectively), histamine H1 (IC50=30nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271nM, respectively).
-Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s>5000 nM).
+Quetiapine and norquetiapine have affinity for multiple neurotransmitter receptors including dopamine D1 and D2, serotonin 5HT1A and 5HT2A, histamine H1, muscarinic M1, and adrenergic α1b and α2 receptors.
+Quetiapine differs from norquetiapine in having no appreciable affinity for muscarinic M1 receptors whereas norquetiapine has high affinity.
+Quetiapine and norquetiapine lack appreciable affinity for benzodiazepine receptors.
+
+Receptor Affinities (Ki, nM) for Quetiapine and Norquetiapine
+
+| Receptor | Quetiapine | Norquetiapine |
+| --- | --- | --- |
+| Dopamine D1 | 428 | 99.8 |
+| Dopamine D2 | 626 | 489 |
+| Serotonin 5HT1A | 1040 | 191 |
+| Serotonin 5HT2A | 38 | 2.9 |
+| Norepinephrine transporter | >10000 | 34.8 |
+| Histamine H1 | 4.41 | 1.15 |
+| Adrenergic α1b | 14.6 | 46.4 |
+| Adrenergic α2 | 617 | 1290 |
+| Muscarinic M1 | 1086 | 38.3 |
+| Benzodiazepine | >10000 | > 10000 |
 
 ## 12.3 Pharmacokinetics
 
-Following multiple dosing of quetiapine up to a total daily dose of 800 mg, administered in divided doses, the plasma concentration of quetiapine and N-desalkyl quetiapine, the major active metabolite of quetiapine, were proportional to the total daily dose.
+Following multiple dosing of quetiapine up to a total daily dose of 800 mg, administered in divided doses, the plasma concentration of quetiapine and norquetiapine, the major active metabolite of quetiapine, were proportional to the total daily dose.
 Accumulation is predictable upon multiple dosing.
-Steady-state mean Cmax and AUC of N-desalkyl quetiapine are about 21-27% and 46-56%, respectively of that observed for quetiapine.
+Steady-state mean Cmax and AUC of norquetiapine are about 21-27% and 46-56%, respectively of that observed for quetiapine.
 Elimination of quetiapine is mainly via hepatic metabolism.
-The mean-terminal half-life is approximately 7 hours for quetiapine and 9 to 12 hours for N-desalkyl quetiapine within the clinical dose range.
+The mean-terminal half-life is approximately 7 hours for quetiapine and approximately 12 hours for norquetiapine within the clinical dose range.
 Steady-state concentrations are expected to be achieved within two days of dosing.
 SEROQUEL XR is unlikely to interfere with the metabolism of drugs metabolized by cytochrome P450 enzymes.
 
@@ -26,14 +44,14 @@ Absorption
 
 Quetiapine fumarate reaches peak plasma concentrations approximately 6 hours following administration.
 SEROQUEL XR dosed once daily at steady-state has comparable bioavailability to an equivalent total daily dose of SEROQUEL administered in divided doses, twice daily.
-A high-fat meal was found to produce statistically significant increases in the SEROQUEL XR Cmax and AUC of 44% to 52% and 20% to 22%, respectively, for the 50-mg and 300-mg tablets.
-In comparison, a light meal had no significant effect on the Cmax or AUC of quetiapine.
+A high-fat meal (approximately 800 to 1000 calories) was found to produce statistically significant increases in the SEROQUEL XR Cmax and AUC of 44% to 52% and 20% to 22%, respectively, for the 50 mg and 300 mg tablets.
+In comparison, a light meal (approximately 300 calories) had no significant effect on the Cmax or AUC of quetiapine.
 It is recommended that SEROQUEL XR be taken without food or with a light meal [see Dosage and Administration (2)].
 
 Distribution
 
 Quetiapine is widely distributed throughout the body with an apparent volume of distribution of 10±4 L/kg.
-Quetiapine is 83% bound to plasma proteins at therapeutic concentrations.
+It is 83% bound to plasma proteins at therapeutic concentrations.
 In vitro, quetiapine did not affect the binding of warfarin or diazepam to human serum albumin.
 In turn, neither warfarin nor diazepam altered the binding of quetiapine.
 
@@ -45,7 +63,11 @@ The average dose fraction of free quetiapine and its major active metabolite is 
 
 Quetiapine is extensively metabolized by the liver.
 The major metabolic pathways are sulfoxidation to the sulfoxide metabolite and oxidation to the parent acid metabolite; both metabolites are pharmacologically inactive.
-In vitro studies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite N-desalkyl quetiapine.
+In vitro studies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite norquetiapine.
+
+Age
+
+Oral clearance of quetiapine was reduced by 40% in elderly patients (> 65 years, n = 9) compared to young patients (n = 12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender
 
@@ -68,15 +90,15 @@ Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In 2 of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [See Dosage And Administration (2)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4)].
 
 Drug-Drug Interactions
 
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes P450 1A2, 2C9, 2C19, 2D6 and 3A4.
 
 Quetiapine oral clearance is increased by the prototype cytochrome P450 3A4 inducer, phenytoin, and decreased by the prototype cytochrome P450 3A4 inhibitor, ketoconazole.
-Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [See Drug Interactions (7.1) and Dosage And Administration (2)].
+Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [see Dosage and Administration (2.4) and Drug Interactions (7.1)].
 
 Quetiapine oral clearance is not inhibited by the non-specific enzyme inhibitor, cimetidine.
 
-Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam [See Drug Interactions (7.2)].
+Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam [see Drug Interactions (7.2)].
