@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA076217"
+  ],
   "inn": "amiodarone",
   "labeler": "Bioniche Pharma USA LLC",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "67457-153-09",
     "67457-153-18"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "amiodarone hydrochloride",
+      "name": "Amiodarone Hydrochloride"
+    }
+  ],
   "setid": "fcc8658c-761a-443f-8c32-1499d86028ec",
   "source": "dailymed"
 }

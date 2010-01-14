@@ -10,17 +10,16 @@ In addition to blocking sodium channels, amiodarone blocks myocardial potassium 
 The antisympathetic action and the block of calcium and potassium channels are responsible for the negative dromotropic effects on the sinus node and for the slowing of conduction and prolongation of refractoriness in the atrioventricular (AV) node.
 Its vasodilatory action can decrease cardiac workload and consequently myocardial oxygen consumption.
 
-Amiodarone Hydrochloride Injection administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN), but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infranodal conduction (His-ventricular, HV).
+Amiodarone Hydrochloride Injection administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN), but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infranodal conduction (Hisventricular, HV).
 A comparison of the electrophysiologic effects of Amiodarone Hydrochloride Injection and oral amiodarone HCl is shown in the table below.
 
 EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE HYDROCHLORIDE ON ELECTROPHYSIOLOGIC PARAMETERS
 
-| Formulation | SCL | QRS | QTc | AH | HV | ERPRA | ERPRV | ERPAVN |
+| Formulation | SCL | QRS | QTc | AH | HV | ERP RA | ERP RV | ERP AVN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I.V. | ↔ | ↔ | ↔ | ↑ | ↔ | ↔ | ↔ | ↑ |
 | Oral | ↑ | ↔ | ↑ | ↑ | ↔ | ↑ | ↑ | ↑ |
-
-↔No Change
+| ↔ No change |  |  |  |  |  |  |  |  |
 
 At higher doses (>10 mg/kg) of Amiodarone Hydrochloride Injection, prolongation of the ERP RV and modest prolongation of the QRS have been seen.
 These differences between oral and intravenous administration suggest that the initial acute effects of Amiodarone Hydrochloride Injection may be predominantly focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity).
@@ -45,7 +44,7 @@ Amiodarone and DEA cross the placenta and both appear in breast milk.
 
 No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself.
 DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain.
-The development of maximal ventricular class III effects after oral amiodarone HCI administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
+The development of maximal ventricular class III effects after oral amiodarone HCl administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
 On the other hand (see CLINICAL TRIALS), after Amiodarone Hydrochloride Injection administration, there is evidence of activity well before significant concentrations of DEA are attained.
 
 The following table summarizes the mean ranges of pharmacokinetic parameters of amiodarone reported in single dose i.v.
@@ -54,14 +53,13 @@ The following table summarizes the mean ranges of pharmacokinetic parameters of 
 PHARMACOKINETIC PROFILE AFTER I.V.
 AMIODARONE ADMINISTRATION
 
-| Drug | Clearance (mL/h/kg) | Vc(L/kg) | Vss(L/kg) | t1/2(days) |
+| Drug | (mL/h/kg) | (L/kg) | (L/kg) | (days) |
 | --- | --- | --- | --- | --- |
+|  | Clearance | Vc | Vss | t1/2 |
 | Amiodarone | 90-158 | 0.2 | 40-84 | 20-47 |
 | Desethylamiodarone | 197-290 | - | 68-168 | ≥ AMI t1/2 |
-
-Notes: Vc and Vss denote the central and steady-state volumes of distribution from i.v. studies.
-
-"-" denotes not available.
+| Notes: Vc and Vss denote the central and steady-state volumes of distribution from i.v. studies. |  |  |  |  |
+| "-" denotes not available. |  |  |  |  |
 
 Desethylamiodarone clearance and volume involve an unknown biotransformation factor.
 

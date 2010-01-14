@@ -13,7 +13,7 @@ Data from all assigned treatment groups are pooled because none of the adverse e
 
 SUMMARY TABULATION OF TREATMENT-EMERGENT DRUG-RELATED STUDY EVENTS IN PATIENTS RECEIVING AMIODARONE HYDROCHLORIDE INJECTION IN CONTROLLED AND OPEN-LABEL STUDIES (≥2% INCIDENCE)
 
-| Study Event | ControlledStudies(n=814) | Open-LabelStudies(n=1022) | Total(n=1836) |
+| Study Event | Controlled Studies (n=814) | Open-Label Studies (n=1022) | Total (n=1836) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Fever | 24 (2.9%) | 13 (1.2%) | 37 (2.0%) |
