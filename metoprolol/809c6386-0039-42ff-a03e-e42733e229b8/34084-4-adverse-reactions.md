@@ -39,7 +39,7 @@ Very rarely, photosensitivity and worsening of psoriasis have been reported.
 
 ### Miscellaneous
 
-Peyronie's disease has been reported in fewer than 1 of 100,000 patients.
+Peyronie’s disease has been reported in fewer than 1 of 100,000 patients.
 Musculoskeletal pain, blurred vision, and tinnitus have also been reported.
 
 There have been rare reports of reversible alopecia, agranulocytosis, and dry eyes.
@@ -102,3 +102,8 @@ Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
 ### Hypersensitive Reactions
 
 Fever combined with aching and sore throat, laryngospasm, and respiratory distress.
+
+## Post-Marketing Experience
+
+The following adverse reactions have been reported during post-approval use of metoprolol tartrate: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
+Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.

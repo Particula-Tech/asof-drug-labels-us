@@ -14,6 +14,37 @@ At the first sign or symptom of impending cardiac failure, patients should be fu
 The response should be observed closely.
 If cardiac failure continues, despite adequate digitalization and diuretic therapy, metoprolol should be withdrawn.
 
+### Bronchospastic Diseases
+
+PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS, including metoprolol tartrate.
+Because of its relative beta1 selectivity, however, metoprolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
+Since beta1 selectivity is not absolute, a beta2-stimulating agent should be administered concomitantly, and the lowest possible dose of metoprolol tartrate should be used.
+In these circumstances it would be prudent initially to administer metoprolol in smaller doses 3 times daily, instead of larger doses 2 times daily, to avoid the higher plasma levels associated with the longer dosing interval.
+(See DOSAGE AND ADMINISTRATION.)
+
+### Major Surgery
+
+The necessity or desirability of withdrawing beta-blocking therapy, including metoprolol tartrate, prior to major surgery is controversial; the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Metoprolol, like other beta-blockers, is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
+However, such patients may be subject to protracted severe hypotension.
+Difficulty in restarting and maintaining the heart beat has also been reported with beta-blockers.
+
+### Diabetes and Hypoglycemia
+
+Metoprolol should be used with caution in diabetic patients if a beta-blocking agent is required.
+Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+
+### Pheochromocytoma
+
+If metoprolol is used in the setting of pheochromocytoma, it should be given in combination with an alpha-blocker, and only after the alpha-blocker has been initiated.
+Administration of beta-blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
+### Thyrotoxicosis
+
+Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
+Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-blockade, which might precipitate a thyroid storm.
+
 ## Myocardial Infarction
 
 ### Cardiac Failure
@@ -28,7 +59,7 @@ If heart failure occurs or persists despite appropriate treatment, metoprolol sh
 Metoprolol produces a decrease in sinus heart rate in most patients; this decrease is greatest among patients with high initial heart rates and least among patients with low initial heart rates.
 Acute myocardial infarction (particularly inferior infarction) may in itself produce significant lowering of the sinus rate.
 If the sinus rate decreases to < 40 beats/min, particularly if associated with evidence of lowered cardiac output, atropine (0.25 mg to 0.5 mg) should be administered intravenously.
-If treatment with atropine is not successful, metoprolol should be discontinued, and cautious administration of isoproterenol or installation of a cardiac pace-maker should be considered.
+If treatment with atropine is not successful, metoprolol should be discontinued, and cautious administration of isoproterenol or installation of a cardiac pacemaker should be considered.
 
 ### AV Block
 
@@ -47,7 +78,7 @@ If hypotension is associated with sinus bradycardia or AV block, treatment shoul
 
 ### Bronchospastic Diseases
 
-PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
+PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS, including metoprolol tartrate.
 Because of its relative beta1 selectivity, metoprolol may be used with extreme caution in patients with bronchospastic disease.
 Because it is unknown to what extent beta2-stimulating agents may exacerbate myocardial ischemia and the extent of infarction, these agents should not be used prophylactically.
 If bronchospasm not related to congestive heart failure occurs, metoprolol should be discontinued.
@@ -66,7 +97,7 @@ Patients should be advised to take metoprolol regularly and continuously, as dir
 If a dose should be missed, the patient should take only the next scheduled dose (without doubling it).
 Patients should not discontinue metoprolol without consulting the physician.
 
-Patients should be advised (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient's response to therapy with metoprolol has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol.
+Patients should be advised (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient’s response to therapy with metoprolol has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol.
 
 ## Drug Interactions
 

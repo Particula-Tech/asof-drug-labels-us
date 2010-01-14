@@ -1,16 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076704"
+  ],
   "inn": "metoprolol",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
     "0378-0018-01",
     "0378-0018-05",
+    "0378-0018-91",
     "0378-0032-01",
     "0378-0032-10",
     "0378-0047-01",
     "0378-0047-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "metoprolol tartrate",
+      "name": "Metoprolol Tartrate"
+    }
+  ],
   "setid": "809c6386-0039-42ff-a03e-e42733e229b8",
   "source": "dailymed"
 }

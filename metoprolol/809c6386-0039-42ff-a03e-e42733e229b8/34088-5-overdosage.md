@@ -4,7 +4,7 @@
 
 Several cases of overdosage have been reported, some leading to death.
 
-Oral LD50's (mg/kg): mice, 1,158 to 2,460; rats, 3,090 to 4,670.
+Oral LD50’s (mg/kg): mice, 1,158 to 2,460; rats, 3,090 to 4,670.
 
 ## Signs and Symptoms
 

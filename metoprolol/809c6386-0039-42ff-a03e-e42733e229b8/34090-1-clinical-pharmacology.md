@@ -46,7 +46,7 @@ Significant reductions in the incidence of ventricular fibrillation and in chest
 
 The precise mechanism of action of metoprolol in patients with suspected or definite myocardial infarction is not known.
 
-In this study, patients treated with metoprolol received the drug both very early (intravenously) and during a subsequent 3 month period, while placebo patients received no beta-blocker treatment for this period.
+In this study, patients treated with metoprolol received the drug both very early (intravenously) and during a subsequent 3-month period, while placebo patients received no beta-blocker treatment for this period.
 The study thus was able to show a benefit from the overall metoprolol regimen but cannot separate the benefit of very early intravenous treatment from the benefit of later beta-blocker therapy.
 Nonetheless, because the overall regimen showed a clear beneficial effect on survival without evidence of an early adverse effect on survival, one acceptable dosage regimen is the precise regimen used in the trial.
 Because the specific benefit of very early treatment remains to be defined however, it is also reasonable to administer the drug orally to patients at a later time as is recommended for certain other beta-blockers.
