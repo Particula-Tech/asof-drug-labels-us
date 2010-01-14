@@ -1,1 +1,7 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of DORYX®and other antibacterial drugs, DORYX should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+Rx only
+
+U.S. Patent No: 6,958,161
+
+Manufactured by: Mayne Pharma International Pty Ltd 1538 Main North Road Salisbury South, South Australia 5106 for Warner Chilcott Company, LLC Fajardo, Puerto Rico 00738 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813
+
+0112G038 Revised August 2009

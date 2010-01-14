@@ -1,14 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050795"
+  ],
   "inn": "doxycycline",
-  "labeler": "Warner Chilcott (US), Inc.",
+  "labeler": "Warner Chilcott (US), LLC",
   "package_ndcs": [
     "0430-0111-20",
-    "0430-0111-95",
+    "0430-0111-96",
     "0430-0112-24",
-    "0430-0112-95"
+    "0430-0112-96",
+    "0430-0113-20",
+    "0430-0113-96"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "doxycycline hyclate",
+      "name": "DORYX"
+    }
+  ],
   "setid": "37efefc3-cc45-49d1-9dfd-c47d6e6becd5",
   "source": "dailymed"
 }
