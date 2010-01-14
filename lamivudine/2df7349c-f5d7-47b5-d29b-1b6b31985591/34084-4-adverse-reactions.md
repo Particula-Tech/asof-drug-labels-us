@@ -31,7 +31,7 @@ Selected Clinical Adverse Events (≥5% Frequency) in 3 Placebo-Controlled Clini
 | Headache | 21% | 21% |
 | Skin |  |  |
 | Skin rashes | 5% | 5% |
-| *Includes patients treated for 52 to 68 weeks. |  |  |
+| * Includes patients treated for 52 to 68 weeks. |  |  |
 
 Table 6.
 Frequencies of Specified Laboratory Abnormalities in 3 Placebo-Controlled Trials in Adults During Treatment* (Studies 1-3)

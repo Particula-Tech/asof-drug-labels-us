@@ -95,7 +95,7 @@ Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose 
 | Tmax (hr) | 1.3 ± 0.8 | 1.4 ± 0.8 | 1.4 ± 1.2 |
 | Cl/F (mL/min) | 424.7 ± 61.9 | 456.9 ± 129.8 | 395.2 ± 51.8 |
 | Clr (mL/min) | 279.2 ± 79.2 | 323.5 ± 100.9 | 216.1 ± 58.0 |
-| *Hepatic impairment assessed by aminopyrine breath test. |  |  |  |
+| * Hepatic impairment assessed by aminopyrine breath test. |  |  |  |
 
 Pharmacokinetic parameters were not altered by diminishing hepatic function.
 Therefore, no dose adjustment for lamivudine is required for patients with impaired hepatic function.

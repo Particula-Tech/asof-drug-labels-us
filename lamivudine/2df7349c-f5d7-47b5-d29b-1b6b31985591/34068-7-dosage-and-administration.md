@@ -23,7 +23,7 @@ It is recommended that doses of EPIVIR-HBV be adjusted in accordance with renal 
 Table 8.
 Adjustment of Adult Dosage of EPIVIR-HBV in Accordance With Creatinine Clearance
 
-| Creatinine Clearance (mL/min) | Recommended Dosage of EPIVIR-HBV |
+| Creatinine Clearance(mL/min) | Recommended Dosageof EPIVIR-HBV |
 | --- | --- |
 | ≥50 | 100 mg once daily |
 | 30-49 | 100 mg first dose, then 50 mg once daily |

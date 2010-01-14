@@ -156,6 +156,7 @@ Manufactured under agreement from
 
 Shire Pharmaceuticals Group plc Basingstoke, UK
 
-©2007, GlaxoSmithKline.All rights reserved.
+©2007, GlaxoSmithKline.
+All rights reserved.
 
 October 2007 EPH:1PIL
