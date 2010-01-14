@@ -18,7 +18,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The most commonly observed adverse reactions (≥4% for LAMICTAL XR and more common on drug than placebo) in a double-blind, placebo-controlled trial of adjunctive therapy with LAMICTAL XR for the treatment of partial onset seizures were, in order of decreasing treatment difference (LAMICTAL XR % - Placebo %) incidence: dizziness, tremor/intention tremor, cerebellar coordination/balance disorder, nausea, asthenic conditions (asthenia, fatigue, malaise), vertigo/positional vertigo, and diplopia.
 
 Nine of 118 patients (8%) treated with LAMICTAL XR who participated in the double-blind, placebo-controlled trial in the treatment of partial onset seizures discontinued treatment due to adverse reactions compared to 2 of 121 patients (2%) who received placebo.
-Dizziness, nausea, and nystagmus were the most common adverse reactions (based upon treatment difference of >2%) that led to the withdrawal of subjects in the group treated with LAMICTAL XR.
+Dizziness, nausea, and nystagmus were the most common adverse reactions (based upon treatment difference of ≥2%) that led to the withdrawal of subjects in the group treated with LAMICTAL XR.
 
 Table 3 displays the incidence of adverse reactions in a 19-week, double-blind, placebo-controlled study of patients with partial onset seizures.
 
@@ -85,7 +85,7 @@ In addition, some adverse reactions had an increased likelihood of recurring.
 Headache recurred predominantly in the titration period and vertigo and nausea recurred throughout the whole treatment period.
 
 There were inadequate data to evaluate the effect of dose and/or concentration on the incidence of adverse reactions because although patients were randomized to different target doses based upon concomitant AED, the plasma exposure was expected to be generally similar among all patients receiving different doses.
-However, in a randomized, parallel study comparing placebo and 300 and 500 mg/day of immediate-release formulation of LAMICTAL, the incidence of the most common adverse reactions (>5%) such as ataxia, blurred vision, diplopia, and dizziness were dose-related.
+However, in a randomized, parallel study comparing placebo and 300 and 500 mg/day of immediate-release formulation of LAMICTAL, the incidence of the most common adverse reactions (≥5%) such as ataxia, blurred vision, diplopia, and dizziness were dose-related.
 Less common adverse reactions (<5%) were not assessed for dose-response relationships.
 
 There were insufficient data to evaluate the effect of gender, age, and race on the adverse reaction profile for LAMICTAL XR.

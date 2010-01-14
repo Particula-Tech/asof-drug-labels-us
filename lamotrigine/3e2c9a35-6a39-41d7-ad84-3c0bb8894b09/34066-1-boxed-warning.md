@@ -5,6 +5,7 @@ The incidence of these rashes, which have included Stevens-Johnson syndrome, is 
 In a prospectively followed cohort of 1,983 pediatric patients (2 to 16 years of age) with epilepsy taking the adjunctive immediate-release formulation of LAMICTAL, there was 1 rash-related death.
 LAMICTAL XR is not approved for patients under the age of 13 years.
 In worldwide postmarketing experience, rare cases of toxic epidermal necrolysis and/or rash-related death have been reported in adult and pediatric patients, but their numbers are too few to permit a precise estimate of the rate.
+
 The risk of serious rash caused by treatment with LAMICTAL XR is not expected to differ from that with the immediate-release formulation of LAMICTAL.
 However, the relatively limited treatment experience with LAMICTAL XR makes it difficult to characterize the frequency and risk of serious rashes caused by treatment with LAMICTAL XR.
 

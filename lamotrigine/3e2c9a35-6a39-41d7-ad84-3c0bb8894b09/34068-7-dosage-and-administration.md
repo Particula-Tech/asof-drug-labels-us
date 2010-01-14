@@ -20,7 +20,7 @@ The greater the interval of time since the previous dose, the greater considerat
 If a patient has discontinued lamotrigine for a period of more than 5 half-lives, it is recommended that initial dosing recommendations and guidelines be followed.
 The half-life of lamotrigine is affected by other concomitant medications [see Clinical Pharmacology (12.3)].
 
-LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation: Drugs other than those listed in the Clinical Pharmacology section [seeClinical Pharmacology(12.3)] have not been systematically evaluated in combination with lamotrigine.
+LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation: Drugs other than those listed in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)] have not been systematically evaluated in combination with lamotrigine.
 Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine and doses of LAMICTAL XR may require adjustment based on clinical response.
 
 Target Plasma Levels: A therapeutic plasma concentration range has not been established for lamotrigine.
@@ -75,7 +75,7 @@ Specific dosing recommendations are provided depending upon concomitant AED or o
 Table 1.
 Escalation Regimen for LAMICTAL XR in Patients ≥13 Years of Age
 
-|  | For Patients TAKING Valproatea | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
+|  | For Patients TAKING Valproatea | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone,b or Valproatea | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg every day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg every day | 100 mg every day |

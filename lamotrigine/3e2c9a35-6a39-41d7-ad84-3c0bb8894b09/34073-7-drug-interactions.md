@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 Significant drug interactions with lamotrigine are summarized in Table 4.
-Additional details of these drug interaction studies, which were conducted using the immediate-release formulation of LAMICTAL, are provided in the Clinical Pharmacology section [seeClinical Pharmacology(12.3)].
+Additional details of these drug interaction studies, which were conducted using the immediate-release formulation of LAMICTAL, are provided in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)].
 
 Table 4.
 Established and Other Potentially Significant Drug Interactions
