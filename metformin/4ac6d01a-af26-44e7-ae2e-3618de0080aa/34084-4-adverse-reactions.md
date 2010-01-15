@@ -3,7 +3,7 @@
 In a U.S. double-blind clinical study of metformin hydrochloride tablets in patients with type 2 diabetes, a total of 141 patients received metformin hydrochloride tablets therapy (up to 2550 mg per day) and 145 patients received placebo.
 Adverse reactions reported in greater than 5% of the metformin hydrochloride tablets patients, and that were more common in metformin hydrochloride tablets- than placebo-treated patients, are listed in Table 7 .
 
-Table 7: Most Common Adverse Reactions (>5 Percent) in a Placebo-Controlled Clinic Study of Metformin Hydrochloride Tablets Monotherapy*
+Table 7: Most Common Adverse Reactions (>5 Percent) in a Placebo-Controlled Clinical Study of Metformin Hydrochloride Tablets Monotherapy*
 
 | % of Patients |  |  |
 | --- | --- | --- |

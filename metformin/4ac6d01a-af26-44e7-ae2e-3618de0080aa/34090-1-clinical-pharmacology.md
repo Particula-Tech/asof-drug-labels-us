@@ -19,7 +19,7 @@ The clinical relevance of these decreases is unknown.
 
 ### Distribution
 
-The apparent volume of distribution (V/F) of metformin following single oral doses of metformin hydrochloride tablets 850 mg averaged 654±358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
+The apparent volume of distribution (V/F) of metformin following single oral doses of metformin hydrochloride tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
 Metformin partitions into erythrocytes, most likely as a function of time.
 At usual clinical doses and dosing schedules of metformin hydrochloride tablets, steady state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
 During controlled clinical trials of metformin hydrochloride tablets, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
@@ -78,29 +78,27 @@ In controlled clinical studies of metformin hydrochloride tablets in patients wi
 
 ## Clinical Studies
 
-### Metformin hydrochloride tablets
-
 In a double-blind, placebo-controlled, multicenter U.S. clinical trial involving obese patients with type 2 diabetes whose hyperglycemia was not adequately controlled with dietary management alone (baseline fasting plasma glucose [FPG] of approximately 240 mg/dL), treatment with metformin hydrochloride tablets (up to 2550 mg/day) for 29 weeks resulted in significant mean net reductions in fasting and postprandial plasma glucose (PPG) and hemoglobin A 1c (HbA 1c ) of 59 mg/dL, 83 mg/dL, and 1.8%, respectively, compared to the placebo group (see Table 2 ).
 
 Table 2: Metformin Hydrochloride Tablets vs Placebo Summary of Mean Changes from Baseline* in Fasting Plasma Glucose, HbA1c, and Body Weight, at Final Visit (29-week study)
 
 |  | Metformin Hydrochloride Tablets (n = 141) | Placebo (n = 145) | p–Value |
 | --- | --- | --- | --- |
-| FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 -53 | 237.7 6.3 | NS ** 0.001 |
-| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 -1.4 | 8.2 0.4 | NS ** 0.001 |
+| FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 -53 | 237.7 6.3 | NS** 0.001 |
+| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 -1.4 | 8.2 0.4 | NS** 0.001 |
 | Body Weight (lbs) Baseline Change at FINAL VISIT | 201 -1.4 | 206 -2.4 | NS ** NS ** |
 | *All patients on diet therapy at Baseline **Not statistically significant |  |  |  |
 
 A 29-week, double-blind, placebo-controlled study of metformin hydrochloride tablets and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL) (see Table 3 ).
 Patients randomized to the combination arm started therapy with metformin hydrochloride tablets 500 mg and glyburide 20 mg.
-At the end of each week of the first four weeksof the trial, these patients had their dosages of metformin hydrochloride tablets increased by 500 mg if they had failed to reach target fasting plasma glucose.
-After week four, suchdosage adjustments were made monthly, although no patient was allowed to exceed metformin hydrochloride tablets 2500 mg.
+At the end of each week of the first four weeks of the trial, these patients had their dosages of metformin hydrochloride tablets increased by 500 mg if they had failed to reach target fasting plasma glucose.
+After week four, such dosage adjustments were made monthly, although no patient was allowed to exceed metformin hydrochloride tablets 2500 mg.
 Patients in the metformin hydrochloride tablets only arm (metformin plus placebo) followed the same titration schedule.
-At the end of the tri al, approximately 70% of the patients in the combination group were taking metformin hydrochloride tablets 2000 mg/glyburide 20 mg or metformin hydrochloride tablets 2500 mg/glyburide 20 mg.
-Patients randomized to continue of glyburide experienced worsening of glycemic control, with mean increasesin FPG, PPG, and HbA 1C of 14 mg/dL, 3 mg/dL, and 0.2% respectively.
-In contrast, those randomized to metformin hydrochloride tablets (up to 2500 mg/day) experienced a slight improvement, with mean reductions in FPG, PPG, and HbA 1C of 1 mg/dL, 6 mg/dL, and 0.4%, respectively.
-The combination of metformin hydrochloride tablets and glyburide was effective in reducing FPG, PPG, and HbA 1C levels by 63 mg/dL, 65 mg/dL, and 1.7%, respectively.
-Compared to results of glyburide treatment alone, the net differences with combination treatment were -77 mg/dL, -68 mg/dL, and -1.9%, respectively (see Table 3 ) .
+At the end of the trial, approximately 70% of the patients in the combination group were taking metformin hydrochloride tablets 2000 mg/glyburide 20 mg or metformin hydrochloride tablets 2500 mg/glyburide 20 mg.
+Patients randomized to continue of glyburide experienced worsening of glycemic control, with mean increases in FPG, PPG, and HbA 1c of 14 mg/dL, 3 mg/dL, and 0.2% respectively.
+In contrast, those randomized to metformin hydrochloride tablets (up to 2500 mg/day) experienced a slight improvement, with mean reductions in FPG, PPG, and HbA 1c of 1 mg/dL, 6 mg/dL, and 0.4%, respectively.
+The combination of metformin hydrochloride tablets and glyburide was effective in reducing FPG, PPG, and HbA 1c levels by 63 mg/dL, 65 mg/dL, and 1.7%, respectively.
+Compared to results of glyburide treatment alone, the net differences with combination treatment were -77 mg/dL, -68 mg/dL, and -1.9%, respectively (see Table 3 ).
 
 Table 3: Combined Metformin Hydrochloride Tablets/Glyburide (Comb) vs Glyburide (Glyb) or Metformin Hydrochloride Tablets (MET) Monotherapy: Summary of Mean Changes from Baseline* in Fasting Plasma Glucose, HbA1c, and Body Weight, at Final Visit (29-week study)
 
@@ -118,9 +116,9 @@ In clinical studies, metformin hydrochloride tablets, alone or in combination wi
 
 Table 4: Summary of Mean Percent Change From Baseline of Major Serum Lipid Variables at Final Visit (29-week studies)
 
-|  | Metformin Hydrochloride Tablets vs Placebo |  | Combined Metformin Hydrochloride Tablets/Glyburide vs Monotherapy |  |  |
+| Metformin Hydrochloride Tablets (n = 141) | Placebo (n = 145) | Metformin Hydrochloride Tablets (n = 210) | Metformin Hydrochloride Tablets/ Glyburide (n = 213) | Glyburide (n = 209) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Metformin Hydrochloride Tablets (n = 141) | Placebo (n = 145) | Metformin Hydrochloride Tablets (n = 210) | Metformin Hydrochloride Tablets/ Glyburide (n = 213) | Glyburide (n = 209) |
+|  | Metformin Hydrochloride Tablets vs Placebo |  | Combined Metformin Hydrochloride Tablets/Glyburide vs Monotherapy |  |  |
 | Total Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 211 -5% | 212.3 1% | 213.1 -2% | 215.6 -4% | 219.6 1% |
 | Total Triglycerides (mg/dL) Baseline Mean % Change at FINAL VISIT | 236.1 -16% | 203.5 1% | 242.5 -3% | 215 -8% | 266.1 4% |
 | LDL-Cholesterol (mg/dL) Baseline Mean % Change at FINAL VISIT | 135.4 -8% | 138.5 1% | 134.3 -4% | 136 -6% | 137.5 3% |

@@ -1,39 +1,5 @@
 # WARNINGS
 
-## Lactic Acidosis
-
-Lactic acidosis is a rare, but serious, metabolic complication that can occur due to metformin accumulation during treatment with metformin; when it occurs, it is fatal in approximately 50% of cases.
-Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate levels (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 mcg/mL are generally found.
-The reported incidence of lactic acidosis in patients receiving metformin hydrochloride is very low (approximately 0.03 cases/1000 patient-years, with approximately 0.015 fatal cases/1000 patient-years).
-In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
-Reported cases have occurred primarily in diabetic patients with significant renal insufficiency, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
-Patients with congestive heart failure requiring pharmacologic management, in particular those with unstable or acute congestive heart failure who are at risk of hypoperfusion and hypoxemia, are at increased risk of lactic acidosis.
-The risk of lactic acidosis increases with the degree of renal dysfunction and the patient's age.
-The risk of lactic acidosi s may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin and by use of the minimum effective dose of metformin.
-In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-Metformin treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced, as these patients are more susceptible to developing lactic acidosis.
-In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
-Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
-Patients should be cautioned against excessive alcohol intake, either acute or chronic, when taking metformin hydrochloride tablets, since alcohol potentiates the effects of metformin hydrochloride on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure (see also PRECAUTIONS).
-The onset of lactic acidosis often is subtle, and accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
-There may be associated hypothermia, hypotension, and resistant bradyarrhythmias with more marked acidosis.
-The patient and the patient's physician must be aware of the possible importance of such symptoms and the patient should be instructed to notify the physician immediately if they occur (see also PRECAUTIONS).
-Metformin hydrochloride tablets should be withdrawn until the situation is clarified.
-Serum electrolytes, ketones, blood glucose, and if indicated, blood pH, lactate levels, and even blood metformin levels may be useful.
-Once a patient is stabilized on any dose level of metformin, gastrointestinal symptoms, which are common during initiation of therapy, are unlikely to be drug related.
-Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling.
-(See also PRECAUTIONS.)
-Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
-Lactic acidosis is a medical emergency that must be treated in a hospital setting.
-In a patient with lactic acidosis who is taking metformin, the drug should be discontinued immediately and general supportive measures promptly instituted.
-Because metformin hydrochloride is dialyzable (with a clearance of up to 170 mL/min under good hemodynamic conditions), prompt hemodialysis is recommended to correct the acidosis and remove the accumulated metformin.
-Such management often results in prompt reversal of symptoms and recovery.
-(See also CONTRAINDICATIONS and PRECAUTIONS.)
-
 # PRECAUTIONS
 
 ## General
@@ -41,7 +7,7 @@ Such management often results in prompt reversal of symptoms and recovery.
 Macrovascular Outcomes— There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with metformin hydrochloride tablets or any other anti-diabetic drug.
 Monitoring of renal function — Metformin is known to be substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
 Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive metformin.
-In patients with advanced age, metformin should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renalfunction.
+In patients with advanced age, metformin should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renal function.
 In elderly patients, particularly those ≥ 80 years of age, renal function should be monitored regularly and, generally, metformin should not be titrated to the maximum dose (see WARNINGS and DOSAGE AND ADMINISTRATION ).
 Before initiation of metformin therapy and at least annually thereafter, renal function should be assessed and verified as normal.
 In patients in whom development of renal dysfunction is anticipated, renal function should be assessed more frequently and metformin discontinued if evidence of renal impairment is present.
@@ -69,7 +35,7 @@ Loss of control of blood glucose — When a patient stabilized on any diabetic r
 At such times, it may be necessary to withhold metformin and temporarily administer insulin.
 Metformin may be reinstituted after the acute episode is resolved.
 The effectiveness of oral antidiabetic drugs in lowering blood glucose to a targeted level decreases in many patients over a period of time.
-This phenomenon, which may be due to progression of the underlying disease or to diminished responsiveness to the drug, is known as secondary failure, to distinguish it from primary failure in which thedrug is ineffective during initial therapy.
+This phenomenon, which may be due to progression of the underlying disease or to diminished responsiveness to the drug, is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective during initial therapy.
 Should secondary failure occur with either metformin or sulfonylurea monotherapy, combined therapy with metformin and sulfonylurea may result in a response.
 Should secondary failure occur with combined metformin/sulfonylurea therapy, it may be necessary to consider therapeutic alternatives including initiation of insulin therapy.
 
@@ -112,7 +78,7 @@ Cationic drugs— Cationic drugs (e.g., amiloride, digoxin, morphine, procainami
 Such interaction between metformin and oral cimetidine has been observed in normal healthy volunteers in both single- and multiple-dose, metformin-cimetidine drug interaction studies, with a 60% increase in peak metformin plasma and whole blood concentrations and a 40% increase in plasma and whole blood metformin AUC.
 There was no change in elimination half-life in the single-dose study.
 Metformin had no effect on cimetidine pharmacokinetics.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of metformin and/or the interfering drug is recommended in patie nts who are taking cationic medications that are excreted via the proximal renal tubular secretory system.
+Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of metformin and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system.
 Other— Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
 When such drugs are administered to a patient receiving metformin, the patient should be closely observed for loss of blood glucose control.
@@ -133,11 +99,9 @@ Fertility of male or female rats was unaffected by metformin when administered a
 
 ## Pregnancy
 
-Pregnancy Category B-
-
 ### Teratogenic effects
 
-Recent information strongly suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities.
+Pregnancy Category B Recent information strongly suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities.
 Most experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.
 Because animal reproduction studies are not always predictive of human response, metformin should not be used during pregnancy unless clearly needed.
 There are no adequate and well-controlled studies in pregnant women with metformin.

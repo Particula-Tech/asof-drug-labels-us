@@ -1,6 +1,8 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# Patient Information
 
-Patient Information Metformin Hydrochloride Tablets, USP Rx only Read this information carefully before you start taking this medicine and each time you refill your prescription.
+## Metformin Hydrochloride Tablets, USP
+
+Rx only Read this information carefully before you start taking this medicine and each time you refill your prescription.
 There may be new information.
 This information does not take the place of your doctor’s advice.
 Ask your doctor or pharmacist if you do not understand some of this information or if you want to know more about this medicine.
@@ -123,9 +125,12 @@ About 3 out of every 100 people who take metformin have an unpleasant metallic t
 It lasts for a short time.
 Metformin rarely cause hypoglycemia (low blood sugar) by themselves.
 However, hypoglycemia can happen if you do not eat enough, if you drink alcohol, or if you take other medicines to lower blood sugar.
-General advice about prescription medicines If you have questions or problems, talk with your doctor or other healthcare provider.
+
+## General advice about prescription medicines
+
+If you have questions or problems, talk with your doctor or other healthcare provider.
 You can ask your doctor or pharmacist for the information about metformin that is written for health care professionals.
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use metformin for a condition for which it was not prescribed.
 Do not share your medicine with other people.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2009
