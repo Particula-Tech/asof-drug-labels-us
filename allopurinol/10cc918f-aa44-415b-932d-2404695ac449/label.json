@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA020298"
+  ],
+  "inn": "allopurinol",
+  "labeler": "Bioniche Pharma USA LLC",
+  "package_ndcs": [
+    "67457-187-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "allopurinol",
+      "name": "Aloprim"
+    }
+  ],
+  "setid": "10cc918f-aa44-415b-932d-2404695ac449",
+  "source": "dailymed"
+}
