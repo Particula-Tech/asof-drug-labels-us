@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA019034"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Purdue Pharma LP",
+  "package_ndcs": [
+    "59011-441-10",
+    "59011-442-10",
+    "59011-442-25",
+    "59011-444-10",
+    "59011-445-01",
+    "59011-445-05",
+    "59011-445-50",
+    "59011-446-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Dilaudid HP"
+    }
+  ],
+  "setid": "c88f81ac-1643-4c08-ae2c-63cbe956db7e",
+  "source": "dailymed"
+}
