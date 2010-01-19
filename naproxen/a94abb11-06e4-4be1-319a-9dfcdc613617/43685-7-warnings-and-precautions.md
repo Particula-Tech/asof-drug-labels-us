@@ -328,7 +328,7 @@ Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (
 The carcinogenic potential of TREXIMET has not been studied.
 
 The carcinogenic potential of sumatriptan was evaluated in oral carcinogenicity studies in mice (78 weeks) and rats (104 weeks).
-The highest dose administered to mice and rats (160 mg/kg/day) is approximately 9 and 18 times, respectively, the recommended human oral daily dose of 85 mg sumatriptan on a mg/m basis.
+The highest dose administered to mice and rats (160 mg/kg/day) is approximately 9 and 18 times, respectively, the recommended human oral daily dose of 85 mg sumatriptan on a mg/m2 basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.
 
 The carcinogenic potential of naproxen sodium was evaluated in a 2-year oral carcinogenicity study in rats at doses of 8, 16, and 24 mg/kg/day and in another 2-year oral carcinogenicity study in rats at a dose of 8 mg/kg/day.
@@ -399,4 +399,4 @@ Safety and effectiveness of TREXIMET in pediatric patients have not been establi
 
 ## Geriatric Use
 
-TREXIMET is contraindicated for use in elderly patients who have abnormal hepatic function, and is not recommended for use in elderly patients who have decreased renal function, higher risk for unrecognized CAD, and increases in blood pressure that may be more pronounced in the elderly (see CONTRAINDICATIONS: Hepatic Impairment, WARNINGS: Cardiovascular Effects and CLINICAL PHARMACOLOGY: Pharmacokinetics).
+TREXIMET is contraindicated for use in elderly patients who have abnormal hepatic function, and is not recommended for use in elderly patients who have decreased renal function, higher risk for unrecognized CAD, and increases in blood pressure that may be more pronounced in the elderly (see CONTRAINDICATIONS: Hepatic Impairment, WARNINGS: Cardiovascular Effects, and CLINICAL PHARMACOLOGY: Pharmacokinetics).

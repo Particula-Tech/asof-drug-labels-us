@@ -19,8 +19,8 @@ The mechanism of action of the naproxen anion, like that of other NSAIDs, is not
 ## Pharmacokinetics
 
 TREXIMET is a formulation of 85 mg of sumatriptan (as sumatriptan succinate) and 500 mg of naproxen sodium with a distinct pharmacokinetic profile.
-Cmax for sumatriptan following administration of TREXIMET occurs at approximately 1 hour (median, range 0.3 to 4.0 hours).
-Cmax for naproxen following administration of TREXIMET occurs at approximately 5 hours (median, range 0.3 to 12 hours).
+Cmax (median, range) for sumatriptan following administration of TREXIMET occurs at approximately 1 hour (0.3 to 4.0 hours).
+Cmax (median, range) for naproxen following administration of TREXIMET occurs at approximately 5 hours (0.3 to 12 hours).
 The sumatriptan half-life is approximately 2 hours (15% to 43% CV) and the naproxen half-life is approximately 19 hours (13% to 15% CV).
 The mean Cmax for sumatriptan when given as TREXIMET is similar to that of sumatriptan when given as IMITREX Tablets 100 mg alone.
 The median sumatriptan Tmax is only slightly different (1 hour for TREXIMET and 1.5 hours for IMITREX).
@@ -93,7 +93,7 @@ Sumatriptan is contraindicated in patients with severe hepatic impairment and th
 The effect of age (elderly or pediatric patients) on the pharmacokinetics of TREXIMET has not been studied.
 Elderly patients are more likely to have decreased hepatic function and decreased renal function (see PRECAUTIONS: Geriatric Use).
 
-The pharmacokinetics of oral sumatriptan in the elderly (mean age, 72 years; 2 males and 4 females) and in patients with migraine (mean age, 38 years; 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years).
+The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 
 ### Gender
 

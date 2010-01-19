@@ -2,7 +2,7 @@
 
 MEDICATION GUIDE
 
-TREXIMET™ [trex' i-met] Tablets
+TREXIMET®[trex' i-met] Tablets
 
 (sumatriptan and naproxen sodium)
 
@@ -203,7 +203,7 @@ Inactive ingredients: croscarmellose sodium, dextrose monohydrate, dibasic calci
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-July 2008 TRX:2MG
+June 2009 TRX:3MG
 
 TREXIMET is a trademark of GlaxoSmithKline.
 IMITREX, PARNATE, and PAXIL are registered trademarks of GlaxoSmithKline.
@@ -215,7 +215,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-August 2008 TRX:3PI
+June 2009 TRX:4PI
