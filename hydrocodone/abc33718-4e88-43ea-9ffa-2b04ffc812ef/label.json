@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076642"
+  ],
+  "inn": "hydrocodone",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "53746-145-01",
+    "53746-145-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrocodone bitartrate and acetaminophen",
+      "name": "Hydrocodone Bitartrate and Acetaminophen"
+    }
+  ],
+  "setid": "abc33718-4e88-43ea-9ffa-2b04ffc812ef",
+  "source": "dailymed"
+}
