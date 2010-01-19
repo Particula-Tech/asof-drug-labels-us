@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077760"
+  ],
+  "inn": "propranolol",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9872-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "propranolol",
+      "name": "Propranolol"
+    }
+  ],
+  "setid": "91f2ff1d-68d8-4e83-a2db-618f0410ead7",
+  "source": "dailymed"
+}
