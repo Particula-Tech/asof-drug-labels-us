@@ -86,9 +86,9 @@ Blood and lymphatic system disorders: increased bleeding tendency
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, very rarely hepatic eosinophilic infiltration
 
-Psychiatric disorders: agitation including aggressive behavior, anxiousness, dream abnormalities and hallucinations, depression, insomnia, irritability, restlessness, suicidal thinking and behavior (including suicide), tremor
+Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, dream abnormalities, hallucinations, insomnia, irritability, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tremor (see PRECAUTIONS, Neuropsychiatric Events)
 
-Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, very rarely seizures
+Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures
 
 Cardiac disorders: palpitations
 

@@ -13,6 +13,16 @@ While the dose of inhaled corticosteroid may be reduced gradually under medical 
 Patients with known aspirin sensitivity should continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking SINGULAIR.
 Although SINGULAIR is effective in improving airway function in asthmatics with documented aspirin sensitivity, it has not been shown to truncate bronchoconstrictor response to aspirin and other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients (see CLINICAL PHARMACOLOGY, Clinical Studies).
 
+## Neuropsychiatric Events
+
+Neuropsychiatric events have been reported in adult, adolescent, and pediatric patients taking SINGULAIR.
+Post-marketing reports with SINGULAIR use include agitation, aggressive behavior or hostility, anxiousness, depression, dream abnormalities, hallucinations, insomnia, irritability, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor.
+The clinical details of some post-marketing reports involving SINGULAIR appear consistent with a drug-induced effect.
+
+Patients and prescribers should be alert for neuropsychiatric events.
+Patients should be instructed to notify their prescriber if these changes occur.
+Prescribers should carefully evaluate the risks and benefits of continuing treatment with SINGULAIR if such events occur (see ADVERSE REACTIONS, Post-Marketing Experience).
+
 ## Eosinophilic Conditions
 
 In rare cases, patients with asthma on therapy with SINGULAIR may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
@@ -29,6 +39,7 @@ A causal association between SINGULAIR and these underlying conditions has not b
   Daily administration of SINGULAIR for the chronic treatment of asthma has not been established to prevent acute episodes of exercise-induced bronchoconstriction.
 - Patients should be advised that, while using SINGULAIR, medical attention should be sought if short-acting inhaled bronchodilators are needed more often than usual, or if more than the maximum number of inhalations of short-acting bronchodilator treatment prescribed for a 24-hour period are needed.
 - Patients receiving SINGULAIR should be instructed not to decrease the dose or stop taking any other anti-asthma medications unless instructed by a physician.
+- Patients should be instructed to notify their physician if neuropsychiatric events occur while using SINGULAIR.
 - Patients with known aspirin sensitivity should be advised to continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking SINGULAIR.
 
 ### Chewable Tablets

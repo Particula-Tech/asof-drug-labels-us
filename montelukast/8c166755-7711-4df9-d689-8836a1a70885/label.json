@@ -1,25 +1,49 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020829",
+    "NDA020830",
+    "NDA021409"
+  ],
   "inn": "montelukast",
   "labeler": "Merck & Co., Inc.",
   "package_ndcs": [
     "0006-0117-01",
+    "0006-0117-15",
     "0006-0117-28",
     "0006-0117-31",
     "0006-0117-54",
     "0006-0117-80",
     "0006-0275-01",
+    "0006-0275-15",
     "0006-0275-28",
     "0006-0275-31",
     "0006-0275-54",
     "0006-0275-82",
     "0006-0711-01",
+    "0006-0711-15",
     "0006-0711-28",
     "0006-0711-31",
     "0006-0711-54",
+    "0006-3841-14",
     "0006-3841-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GRANULE",
+      "generic": "montelukast sodium",
+      "name": "SINGULAIR"
+    },
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "montelukast sodium",
+      "name": "SINGULAIR"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "montelukast sodium",
+      "name": "SINGULAIR"
+    }
+  ],
   "setid": "8c166755-7711-4df9-d689-8836a1a70885",
   "source": "dailymed"
 }

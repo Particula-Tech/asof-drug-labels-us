@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Montelukast sodium, the active ingredient in SINGULAIRRegistered trademark of MERCK & CO., Inc.COPYRIGHT © 1998-2007 MERCK & CO., Inc. All rights reserved, is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene CysLT1 receptor.
+Montelukast sodium, the active ingredient in SINGULAIRRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 1998-2009 MERCK & CO., Inc. All rights reserved, is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene CysLT1 receptor.
 
 Montelukast sodium is described chemically as [R -(E)]-1-[[[1-[3-[2-(7-chloro-2-quinolinyl)ethenyl]phenyl]-3-[2-(1-hydroxy-1-methylethyl)phenyl]propyl]thio]methyl]cyclopropaneacetic acid, monosodium salt.
 

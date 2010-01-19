@@ -1,16 +1,12 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# PATIENT PACKAGE INSERT
 
-## PATIENT INFORMATION
-
-SINGULAIR® (SING-u-lair) Tablets, Chewable Tablets, and Oral Granules
-
-Generic name: montelukast (mon-te-LOO-kast) sodium
+Patient Information SINGULAIR® (SING-u-lair) Tablets, Chewable Tablets, and Oral Granules Generic name: montelukast (mon-te-LOO-kast) sodium
 
 Read this information before you start taking SINGULAIR®.
 Also, read the leaflet you get each time you refill SINGULAIR, since there may be new information in the leaflet since the last time you saw it.
 This leaflet does not take the place of talking with your doctor about your medical condition and/or your treatment.
 
-### What is SINGULAIR1?
+## What is SINGULAIR1?
 
 - SINGULAIR is a medicine called a leukotriene receptor antagonist.
   It works by blocking substances in the body called leukotrienes.
@@ -31,7 +27,7 @@ SINGULAIR is prescribed for the treatment of asthma, the prevention of exercise-
    SINGULAIR is used to help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
    SINGULAIR is used to treat seasonal allergic rhinitis (outdoor allergies that happen part of the year) in adults and children ages 2 years and older, and perennial allergic rhinitis (indoor allergies that happen all year) in adults and children ages 6 months and older.
 
-### Who should not take SINGULAIR?
+## Who should not take SINGULAIR?
 
 Do not take SINGULAIR if you are allergic to SINGULAIR or any of its ingredients.
 
@@ -39,7 +35,7 @@ The active ingredient in SINGULAIR is montelukast sodium.
 
 See the end of this leaflet for a list of all the ingredients in SINGULAIR.
 
-### What should I tell my doctor before I start taking SINGULAIR?
+## What should I tell my doctor before I start taking SINGULAIR?
 
 Tell your doctor about:
 
@@ -50,7 +46,7 @@ Tell your doctor about:
 - Other Medicines: Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, and herbal supplements.
   Some medicines may affect how SINGULAIR works, or SINGULAIR may affect how your other medicines work.
 
-### How should I take SINGULAIR?
+## How should I take SINGULAIR?
 
 For adults and children 12 months of age and older with asthma:
 
@@ -77,7 +73,7 @@ For adults and children 2 years of age and older with seasonal allergic rhinitis
 - Take SINGULAIR every day for as long as your doctor prescribes it.
 - You may take SINGULAIR with food or without food.
 
-### How should I give SINGULAIR oral granules to my child?
+## How should I give SINGULAIR oral granules to my child?
 
 Do not open the packet until ready to use.
 
@@ -95,7 +91,7 @@ Throw away any unused portion.
 Do not put SINGULAIR oral granules in any liquid drink other than baby formula or breast milk.
 However, your child may drink liquids after swallowing the SINGULAIR oral granules.
 
-### What is the dose of SINGULAIR?
+## What is the dose of SINGULAIR?
 
 For asthma -Take once daily in the evening:
 
@@ -115,11 +111,11 @@ For allergic rhinitis -Take once daily at about the same time each day:
 - One 4-mg chewable tablet for children 2 to 5 years of age, or
 - One packet of 4-mg oral granules for children 2 to 5 years of age with seasonal allergic rhinitis, or for children 6 months to 5 years of age with perennial allergic rhinitis.
 
-### What should I avoid while taking SINGULAIR?
+## What should I avoid while taking SINGULAIR?
 
 If you have asthma and if your asthma is made worse by aspirin, continue to avoid aspirin or other medicines called non-steroidal anti-inflammatory drugs while taking SINGULAIR.
 
-### What are the possible side effects of SINGULAIR?
+## What are the possible side effects of SINGULAIR?
 
 The side effects of SINGULAIR are usually mild, and generally did not cause patients to stop taking their medicine.
 The side effects in patients treated with SINGULAIR were similar in type and frequency to side effects in patients who were given a placebo (a pill containing no medicine).
@@ -143,7 +139,6 @@ Less common side effects that have happened with SINGULAIR include:
 
 - increased bleeding tendency
 - allergic reactions [including swelling of the face, lips, tongue, and/or throat (which may cause trouble breathing or swallowing), hives and itching]
-- behavior and mood related changes [agitation including aggressive behavior, bad/vivid dreams, depression, feeling anxious, hallucinations (seeing things that are not there), irritability, restlessness, suicidal thoughts and actions (including suicide), tremor, trouble sleeping]
 - drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
 - nose bleed
@@ -152,6 +147,9 @@ Less common side effects that have happened with SINGULAIR include:
 - bruising
 - joint pain, muscle aches and muscle cramps
 - swelling
+
+Behavior and mood-related changes have been reported: agitation including aggressive behavior or hostility, bad/vivid dreams, depression, feeling anxious, hallucinations (seeing things that are not there), irritability, restlessness, sleep walking, suicidal thoughts and actions (including suicide), tremor, trouble sleeping.
+Tell your doctor if you experience behavior or mood-related changes while taking SINGULAIR.
 
 Rarely, asthmatic patients taking SINGULAIR have experienced a condition that includes certain symptoms that do not go away or that get worse.
 These occur usually, but not always, in patients who were taking steroid pills by mouth for asthma and those steroids were being slowly lowered or stopped.
@@ -167,7 +165,7 @@ For more information ask your doctor or pharmacist.
 
 Talk to your doctor if you think you have side effects from taking SINGULAIR.
 
-### General Information about the safe and effective use of SINGULAIR
+## General Information about the safe and effective use of SINGULAIR
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use SINGULAIR for a condition for which it was not prescribed.
@@ -183,7 +181,7 @@ This leaflet summarizes information about SINGULAIR.
 If you would like more information, talk to your doctor.
 You can ask your pharmacist or doctor for information about SINGULAIR that is written for health professionals.
 
-### What are the ingredients in SINGULAIR?
+## What are the ingredients in SINGULAIR?
 
 Active ingredient: montelukast sodium
 
@@ -196,7 +194,7 @@ Inactive ingredients:
 - 4-mg and 5-mg chewable tablets: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, red ferric oxide, croscarmellose sodium, cherry flavor, aspartame, and magnesium stearate.
 - 10-mg tablet: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, red ferric oxide, yellow ferric oxide, and carnauba wax.
 
-### What is asthma?
+## What is asthma?
 
 Asthma is a continuing (chronic) inflammation of the bronchial passageways which are the tubes that carry air from outside the body to the lungs.
 
@@ -207,11 +205,11 @@ Symptoms of asthma include:
 - chest tightness
 - shortness of breath
 
-### What is exercise-induced asthma?
+## What is exercise-induced asthma?
 
 Exercise-induced asthma, more accurately called exercise-induced bronchoconstriction occurs when exercise triggers symptoms of asthma.
 
-### What is allergic rhinitis?
+## What is allergic rhinitis?
 
 - Seasonal allergic rhinitis, also known as hay fever, is triggered by outdoor allergens such as pollens from trees, grasses, and weeds.
 - Perennial allergic rhinitis may occur year-round and is generally triggered by indoor allergens such as dust mites, animal dander, and/or mold spores.
@@ -229,6 +227,6 @@ MERCK & CO., INC.
 
 Whitehouse Station, NJ 08889, USA
 
-Issued July 2008
+Issued August 2009
 
-9628414
+9628415
