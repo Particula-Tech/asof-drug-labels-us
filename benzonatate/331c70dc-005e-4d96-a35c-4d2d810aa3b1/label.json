@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA040597"
+  ],
+  "inn": "benzonatate",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-247-01",
+    "68382-247-05",
+    "68382-248-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "benzonatate",
+      "name": "Benzonatate"
+    }
+  ],
+  "setid": "331c70dc-005e-4d96-a35c-4d2d810aa3b1",
+  "source": "dailymed"
+}
