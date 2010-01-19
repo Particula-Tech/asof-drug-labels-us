@@ -35,10 +35,8 @@ Benazepril can cause symptomatic hypotension.
 Like other ACE inhibitors, benazepril has been only rarely associated with hypotension in uncomplicated hypertensive patients.
 Symptomatic hypotension is most likely to occur in patients who have been volume- and/or salt-depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting.
 Volume- and/or salt-depletion should be corrected before initiating therapy with benazepril.
-
 In patients with congestive heart failure, with or without associated renal insufficiency, ACE inhibitor therapy may cause excessive hypotension, which may be associated with oliguria or azotemia and, rarely, with acute renal failure and death.
 In such patients, benazepril therapy should be started under close medical supervision; they should be followed closely for the first 2 weeks of treatment and whenever the dose of benazepril or diuretic is increased.
-
 If hypotension occurs, the patient should be placed in a supine position, and, if necessary, treated with intravenous infusion of physiological saline.
 Benazepril treatment usually can be continued following restoration of blood pressure and volume.
 
@@ -53,29 +51,23 @@ Monitoring of white blood cell counts should be considered in patients with coll
 ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature.
 When pregnancy is detected, benazepril should be discontinued as soon as possible and monitoring of the fetal development should be performed on a regular basis.
-
 The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
 Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to the ACE inhibitor exposure.
-
 In addition, use of ACE inhibitors during the first trimester of pregnancy has been associated with a potentially increased risk of birth defects.
 In women planning to become pregnant, ACE inhibitors (including benazepril) should not be used.
-Women of child-bearing age should be made aware of the potential risk and ACE inhibitors (including benazepril) should only be given after careful counseling and consideration of individual risks and benefits.
-
+Women of childbearing age should be made aware of the potential risk and ACE inhibitors (including benazepril) should only be given after careful counseling and consideration of individual risks and benefits.
 Rarely (probably less often than once in every thousand pregnancies), no alternative to ACE inhibitors will be found.
 In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intraamniotic environment.
-
-If oligohydramnios is observed, benazepril should be discontinued unless it is considered life-saving for the mother.
-Contraction stress testing (CST), a nonstress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
+If oligohydramnios is observed, benazepril should be discontinued unless it is considered lifesaving for the mother.
+Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
 Infants with histories of in utero exposure to ACE inhibitors should be closely observed for hypotension, oliguria, and hyperkalemia.
 If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
 Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
 Benazepril, which crosses the placenta, can theoretically be removed from the neonatal circulation by these means; there are occasional reports of benefit from these maneuvers with another ACE inhibitor, but experience is limited.
-
 No teratogenic effects of benazepril were seen in studies of pregnant rats, mice, and rabbits.
-On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50 kg woman).
+On a mg/m 2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50 kg woman).
 On a mg/kg basis these multiples are 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
 
 ## Hepatic Failure
@@ -103,7 +95,7 @@ Evaluation of the hypertensive patient should always include assessment of renal
 
 In clinical trials, hyperkalemia (serum potassium at least 0.5 mEq/L greater than the upper limit of normal) occurred in approximately 1% of hypertensive patients receiving benazepril.
 In most cases, these were isolated values which resolved despite continued therapy.
-Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with benazepril (see Drug Interactions).
+Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with benazepril (see Drug Interactions ).
 
 ### Cough
 
@@ -112,7 +104,7 @@ ACE inhibitor-induced cough should be considered in the differential diagnosis o
 
 ### Impaired Liver Function
 
-In patients with hepatic dysfunction due to cirrhosis, levels of benazeprilat are essentially unaltered (see WARNINGS, Hepatic Failure).
+In patients with hepatic dysfunction due to cirrhosis, levels of benazeprilat are essentially unaltered (see WARNINGS, Hepatic Failure ).
 
 ### Surgery/Anesthesia
 
@@ -136,7 +128,6 @@ Patients should be so advised and told to report immediately any signs or sympto
 
 Patients should be cautioned that lightheadedness can occur, especially during the first days of therapy, and it should be reported to the prescribing physician.
 Patients should be told that if syncope occurs, benazepril should be discontinued until the prescribing physician has been consulted.
-
 All patients should be cautioned that inadequate fluid intake or excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
 ### Hyperkalemia
@@ -153,7 +144,7 @@ Patients should be told to promptly report any indication of infection (e.g., so
 
 Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with benazepril.
 The possibility of hypotensive effects with benazepril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with benazepril.
-If this is not possible, the starting dose should be reduced (see DOSAGE AND ADMINISTRATION).
+If this is not possible, the starting dose should be reduced (see DOSAGE AND ADMINISTRATION ).
 
 ### Potassium Supplements and Potassium-Sparing Diuretics
 
@@ -183,8 +174,7 @@ Such patients should therefore be advised about the possibility of hypoglycemic 
 ### Other
 
 No clinically important pharmacokinetic interactions occurred when benazepril was administered concomitantly with hydrochlorothiazide, chlorthalidone, furosemide, digoxin, propranolol, atenolol, naproxen, or cimetidine.
-
-Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
+Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
 Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -195,7 +185,7 @@ When compared on the basis of body surface areas, this dose is 18 and 9 times (r
 No mutagenic activity was detected in the Ames test in bacteria (with or without metabolic activation), in an in vitro test for forward mutations in cultured mammalian cells, or in a nucleus anomaly test.
 In doses of 50 to 500 mg/kg/day (6 to 60 times the maximum recommended human dose based on mg/m 2 comparison and 37 to 375 times the maximum recommended human dose based on a mg/kg comparison), benazepril had no adverse effect on the reproductive performance of male and female rats.
 
-Pregnancy Category D
+## Pregnancy Category D
 
 See WARNINGS, Fetal/Neonatal Morbidity and Mortality .
 
@@ -204,19 +194,16 @@ See WARNINGS, Fetal/Neonatal Morbidity and Mortality .
 Minimal amounts of unchanged benazepril and of benazeprilat are excreted into the breast milk of lactating women treated with benazepril.
 A newborn child ingesting entirely breast milk would receive less than 0.1% of the mg/kg maternal dose of benazepril and benazeprilat.
 
+## Pediatric Use
+
+The antihypertensive effects of benazepril have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacodynamics, Hypertension ).
+The pharmacokinetics of benazepril have been evaluated in pediatric patients 6 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism ).
+Benazepril was generally well tolerated and adverse effects were similar to those described in adults (See ADVERSE REACTIONS: Pediatric Patients ).
+Treatment with benazepril is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS ), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients and DOSAGE AND ADMINISTRATION ).
+
 ## Geriatric Use
 
 Of the total number of patients who received benazepril in U.S. clinical studies of benazepril, 18% were 65 or older while 2% were 75 or older.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Benazepril and benazeprilat are substantially excreted by the kidney.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-
-## Pediatric Use
-
-The antihypertensive effects of benazepril have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacodynamics, Hypertension).
-The pharmacokinetics of benazepril have been evaluated in pediatric patients 6 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
-Benazepril was generally well tolerated and adverse effects were similar to those described in adults.
-(See ADVERSE REACTIONS: Pediatric Patients).
-
-Treatment with benazepril is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
-(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients and DOSAGE AND ADMINISTRATION.)
