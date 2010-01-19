@@ -6,8 +6,8 @@ In clinical studies, hemorrhage was the most common serious adverse reaction and
 Other serious adverse reactions included liver test abnormalities and thrombotic/thromboembolic complications [see Warnings and Precautions (5.1, 5.2)].
 
 The data described below reflect PROMACTA exposure to 313 patients with chronic ITP aged 18 to 85, of whom 65% were female.
-PROMACTA was studied in 2 randomized, placebo controlled studies in which patients received the drug for no more than 6 weeks.
-PROMACTA was also studied in an open label single arm study in which patients received the drug over an extended period of time.
+PROMACTA was studied in 2 randomized, placebo-controlled studies in which patients received the drug for no more than 6 weeks.
+PROMACTA was also studied in an open-label, single-arm study in which patients received the drug over an extended period of time.
 Overall, PROMACTA was administered to 81 patients for at least 6 months and 39 patients for at least 1 year.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.

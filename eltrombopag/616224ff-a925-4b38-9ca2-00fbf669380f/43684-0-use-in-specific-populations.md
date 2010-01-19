@@ -35,7 +35,7 @@ The safety and efficacy of PROMACTA in pediatric patients have not been establis
 
 ## 8.5 Geriatric Use
 
-Of the 106 patients in 2 randomized clinical studies of PROMACTA 50 mg dose, 22% were 65 years of age and older, and 9% were 75 years of age and older.
+Of the 106 patients in 2 randomized clinical studies of PROMACTA 50-mg dose, 22% were 65 years of age and older, and 9% were 75 years of age and older.
 No overall differences in safety or efficacy have been observed between older and younger patients in the placebo-controlled studies, but greater sensitivity of some older individuals cannot be ruled out.
 In general, dose adjustment for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 

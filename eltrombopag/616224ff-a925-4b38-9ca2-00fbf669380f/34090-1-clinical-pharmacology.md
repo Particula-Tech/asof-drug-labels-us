@@ -33,7 +33,7 @@ An open-label, randomized, crossover study was conducted to assess the effect of
 A standard high-fat breakfast significantly decreased plasma eltrombopag AUC0-∞ by approximately 59% and Cmax by 65% and delayed tmax by 1 hour.
 The calcium content of this meal may have also contributed to this decrease in exposure.
 
-Distribution: The concentration of eltrombopag in blood cells is approximately 50-79% of plasma concentrations based on a radiolabel study.
+Distribution: The concentration of eltrombopag in blood cells is approximately 50 to 79% of plasma concentrations based on a radiolabel study.
 In vitro studies suggest that eltrombopag is highly bound to human plasma proteins (>99%).
 Eltrombopag is not a substrate for p-glycoprotein (Pgp) or OATP1B1.
 
@@ -45,7 +45,7 @@ UGT1A1 and UGT1A3 are responsible for the glucuronidation of eltrombopag.
 
 Elimination: The predominant route of eltrombopag excretion is via feces (59%), and 31% of the dose is found in the urine.
 Unchanged eltrombopag in feces accounts for approximately 20% of the dose; unchanged eltrombopag is not detectable in urine.
-The plasma elimination half-life of eltrombopag is approximately 21 to 32 hours in healthy subjects and 26-35 hours in ITP patients.
+The plasma elimination half-life of eltrombopag is approximately 21 to 32 hours in healthy subjects and 26 to 35 hours in ITP patients.
 
 Race: Based on both non-compartment analysis and population pharmacokinetic analysis, plasma eltrombopag exposure was approximately 70% higher in some Asian subjects of Japanese, Chinese, Taiwanese, and Korean ancestry (i.e., East Asian) with ITP as compared to non-Asian subjects who were predominantly Caucasian [see Dosage and Administration (2.1)].
 In addition, the pharmacodynamic (PD) response to eltrombopag was qualitatively similar in the Asian subjects, but the absolute PD response was somewhat greater.
@@ -55,7 +55,7 @@ The effect of African-American ethnicity on exposure and related safety and effi
 
 Gender: Results from a population pharmacokinetic model suggest that males have a 27% greater apparent eltrombopag clearance than females, after adjustment for the body weight difference.
 
-Hepatic Impairment: Plasma eltrombopag pharmacokinetics in subjects with mild, moderate, and severe hepatic impairment compared to healthy subjects was investigated following administration of a single 50 mg dose of eltrombopag.
+Hepatic Impairment: Plasma eltrombopag pharmacokinetics in subjects with mild, moderate, and severe hepatic impairment compared to healthy subjects was investigated following administration of a single 50-mg dose of eltrombopag.
 The degree of hepatic impairment was based on Child-Pugh score.
 Plasma eltrombopag AUC0-∞ was 41% higher in subjects with mild hepatic impairment, and 80% to 93% higher in subjects with moderate to severe hepatic impairment compared with healthy subjects.
 A corresponding reduction in apparent clearance was also reported.
@@ -64,7 +64,7 @@ Unbound eltrombopag (active) concentrations for this highly protein bound drug w
 
 Renal Impairment: The pharmacokinetics of eltrombopag have not been established in patients with renal impairment [see Use in Specific Populations (8.7)].
 
-Drug Interactions:Cytochrome P450: In vitro studies report that eltrombopag is an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates.
+Drug Interactions: Cytochrome P450: In vitro studies report that eltrombopag is an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates.
 A clinical study where PROMACTA 75 mg once daily was administered for 7 days to 24 healthy male subjects did not show inhibition or induction of the metabolism of a combination of probe substrates for CYP 1A2 (caffeine), CYP2C19 (omeprazole), CYP2C9 (flurbiprofen), or CYP3A4 (midazolam) in humans.
 Probe substrates for CYP2C8 were not evaluated in this study.
 

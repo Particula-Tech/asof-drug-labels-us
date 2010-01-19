@@ -73,7 +73,7 @@ Prior to the initiation of PROMACTA, examine the peripheral blood differential t
 Obtain CBCs, including platelet counts and peripheral blood smears, weekly during the dose adjustment phase of therapy with PROMACTA and then monthly following establishment of a stable dose of PROMACTA.
 Obtain CBCs, including platelet counts, weekly for at least 4 weeks following discontinuation of PROMACTA [see Dosage and Administration (2) and Warnings and Precautions (5.2, 5.3)].
 
-Liver tests: Monitor serum liver tests (ALT, AST, and bilirubin) prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose.
+Liver Tests: Monitor serum liver tests (ALT, AST, and bilirubin) prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose.
 If bilirubin is elevated, perform fractionation.
 If abnormal levels are detected, repeat the tests within 3 to 5 days.
 If the abnormalities are confirmed, monitor serum liver tests weekly until the abnormality(ies) resolve, stabilize, or return to baseline levels.

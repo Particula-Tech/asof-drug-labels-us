@@ -22,15 +22,15 @@ Studies 1 and 2 Platelet Count Response (≥50 x 109/L) Rates
 
 | Study | PROMACTA50 mg Daily | Placebo |
 | --- | --- | --- |
-| 1 | 43/73 (59%)* | 6/37 (16%) |
-| 2 | 19/27 (70%)* | 3/27 (11%) |
+| 1 | 43/73 (59%)a | 6/37 (16%) |
+| 2 | 19/27 (70%)a | 3/27 (11%) |
 
-*p <0.001 for PROMACTA versus placebo.
+ap <0.001 for PROMACTA versus placebo.
 
 The platelet count response to PROMACTA was similar among patients who had or had not undergone splenectomy.
 In general, increases in platelet counts were detected 1 week following initiation of PROMACTA and the maximum response observed after 2 weeks of therapy.
-Within the placebo and 50 mg dose group of PROMACTA, the study drug was discontinued due to an increase in platelet counts to >200 x 109/L in 3% and 27% of the patients, respectively.
-The median duration of treatment with the 50 mg dose of PROMACTA in Study 1 was 42 days and Study 2 was 43 days.
+Within the placebo and 50 mg-dose group of PROMACTA, the study drug was discontinued due to an increase in platelet counts to >200 x 109/L in 3% and 27% of the patients, respectively.
+The median duration of treatment with the 50 mg-dose of PROMACTA in Study 1 was 42 days and Study 2 was 43 days.
 
 Of seven patients (three in the placebo group and four in the group that received PROMACTA) who underwent hemostatic challenges, additional ITP medications were required in all placebo group patients and none of the patients treated with PROMACTA.
 Surgical procedures accounted for most of the hemostatic challenges.
@@ -38,7 +38,7 @@ Hemorrhage requiring transfusion occurred in one placebo group patient and no pa
 
 ## 14.2 Extension Study
 
-Patients who completed any prior clinical study with PROMACTA were enrolled in an open label, single arm study in which attempts were made to decrease the dose or eliminate the need for any concomitant ITP medications.
+Patients who completed any prior clinical study with PROMACTA were enrolled in an open-label, single-arm study in which attempts were made to decrease the dose or eliminate the need for any concomitant ITP medications.
 PROMACTA was administered to 109 patients; 74 completed 3 months of treatment, 53 completed 6 months and three patients completed 1 year of therapy.
 The median baseline platelet count was 18 x 109/L prior to administration of PROMACTA.
 Median platelet counts at 3, 6, and 9 months on study were 74 x 109/L, 67 x 109/L, and 95 x 109/L, respectively.

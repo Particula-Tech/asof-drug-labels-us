@@ -183,7 +183,7 @@ Active Ingredient: eltrombopag olamine.
 Inactive Ingredients:
 
 - Tablet Core: Magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate.
-- Coating: Hypromellose, polyethylene glycol 400, titanium dioxide, and FD&C Yellow No. 6 aluminum lake (25 mg tablet) or FD&C Blue No. 2 aluminum lake (50 mg tablet).
+- Coating: Hypromellose, polyethylene glycol 400, titanium dioxide, and FD&C Yellow No. 6 aluminum lake (25 mg tablet), FD&C Blue No. 2 aluminum lake (50 mg tablet), or Iron Oxide Red and Iron Oxide Black (75 mg tablet).
 
 General information about the safe and effective use of PROMACTA
 
@@ -205,9 +205,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-Revised: October 2008
+Revised: October 2009
 
-PRM:1MG
+PRM:2MG

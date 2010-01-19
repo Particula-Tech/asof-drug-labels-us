@@ -5,3 +5,6 @@ Each tablet, for oral administration, contains eltrombopag olamine, equivalent t
 
 50 mg tablets — round, biconvex, blue, film-coated tablets debossed with GS UFU and 50 on one side.
 Each tablet, for oral administration, contains eltrombopag olamine, equivalent to 50 mg of eltrombopag free acid.
+
+75 mg tablets — round, biconvex, pink, film-coated tablets debossed with GS FSS and 75 on one side.
+Each tablet, for oral administration, contains eltrombopag olamine, equivalent to 75 mg of eltrombopag free acid.

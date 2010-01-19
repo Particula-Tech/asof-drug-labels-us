@@ -26,4 +26,4 @@ Inform patients of the following risks and considerations for PROMACTA:
 - Platelet counts and CBCs, including peripheral blood smears, must be performed weekly until a stable dose of PROMACTA has been achieved; thereafter, platelet counts and CBCs, including peripheral blood smears, must be performed monthly while taking PROMACTA.
 - Patients must be closely monitored with weekly platelet counts and CBCs for at least 4 weeks following discontinuation of PROMACTA.
 - Even during therapy with PROMACTA, patients should continue to avoid situations or medications that may increase the risk for bleeding.
-- Patients must be advised to keep at least a 4 hour interval between PROMACTA and foods, mineral supplements, and antacids which contain polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc.
+- Patients must be advised to keep at least a 4-hour interval between PROMACTA and foods, mineral supplements, and antacids which contain polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc.
