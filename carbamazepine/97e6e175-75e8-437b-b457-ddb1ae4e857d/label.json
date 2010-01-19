@@ -1,0 +1,42 @@
+{
+  "application_numbers": [
+    "ANDA075712",
+    "ANDA077272"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-267-01",
+    "13668-267-05",
+    "13668-267-10",
+    "13668-268-01",
+    "13668-268-05",
+    "13668-268-10",
+    "13668-268-30",
+    "13668-268-31",
+    "13668-269-01",
+    "13668-269-05",
+    "13668-269-10",
+    "13668-270-01",
+    "13668-270-05",
+    "13668-270-10",
+    "13668-271-01",
+    "13668-271-05",
+    "13668-271-10",
+    "13668-271-49"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbamazepine",
+      "name": "CARBAMAZEPINE"
+    },
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "carbamazepine",
+      "name": "CARBAMAZEPINE"
+    }
+  ],
+  "setid": "97e6e175-75e8-437b-b457-ddb1ae4e857d",
+  "source": "dailymed"
+}
