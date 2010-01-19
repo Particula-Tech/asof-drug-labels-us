@@ -3,7 +3,7 @@
 Most overdoses of propranolol are mild and respond to supportive care.
 
 Propranolol is not significantly dialyzable.
-In the event of overdose or exaggerated response, the following measures should be employed:
+In the event of overdose or exaggerated response, the following measures should be employed.
 
 Hypotension and bradycardia have been reported following propranolol overdose and should be treated appropriately.
 Glucagon can exert potent inotropic and chronotropic effects and may be particularly useful for the treatment of hypotension or depressed myocardial function after a propranolol overdose.

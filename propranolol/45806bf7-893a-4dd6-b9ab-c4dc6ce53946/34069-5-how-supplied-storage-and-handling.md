@@ -18,7 +18,7 @@ By: Eurand America, Inc.
 
 Vandalia, OH 45377
 
-©2009 GlaxoSmithKline.
+©2010 GlaxoSmithKline.
 All rights reserved.
 
-May 2009 INN:3PI
+January 2010 INN:4PI

@@ -91,8 +91,8 @@ Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and 
 
 Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with propranolol.
 
-The clearance of lidocaine is reduced with administration of propranolol.
-Lidocaine toxicity has been reported following coadministration with propranolol.
+The clearance of lidocaine and bupivacaine are significantly reduced with administration of propranolol.
+Lidocaine and bupivacaine toxicity has been reported following coadministration with propranolol.
 (see also PRECAUTIONS, Drug Interactions, Non-Cardiovascular Drugs, Anesthetic Agents)
 
 Caution should be exercised when administering INNOPRAN XL with drugs that slow A-V nodal conduction, e.g. digitalis, lidocaine, and calcium channel blockers.

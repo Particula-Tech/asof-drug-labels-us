@@ -132,9 +132,8 @@ The concomitant administration of propranolol and propafenone increased proprano
 Co-administration of propranolol and propafenone did not produce any significant change in propafenone pharmacokinetics.
 While the therapeutic range for propranolol is wide, a reduction in dosage may be necessary during concomitant administration with propafenone.
 
-The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increase in blood concentrations and greater degrees of clinical beta-blockade.
+The metabolism of propranolol is reduced by co-administration of quinidine, leading to a 2-to 3-fold increase in blood concentrations and greater degrees of clinical beta-blockade.
 
-The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
 Concomitant administration of propranolol with lidocaine, bupivacaine or mepivacaine has been reported to decrease the clearance of these amide anesthetics significantly, resulting in higher serum concentrations of the anesthetic.
 
 #### Calcium channel blockers
