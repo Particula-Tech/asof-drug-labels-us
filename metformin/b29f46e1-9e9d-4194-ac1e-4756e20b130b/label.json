@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021202"
+  ],
+  "inn": "metformin",
+  "labeler": "Caremark L.L.C.",
+  "package_ndcs": [
+    "0087-6063-13",
+    "0339-6478-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "GLUCOPHAGE XR"
+    }
+  ],
+  "setid": "b29f46e1-9e9d-4194-ac1e-4756e20b130b",
+  "source": "dailymed"
+}
