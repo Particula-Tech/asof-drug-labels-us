@@ -22,10 +22,9 @@ The degree of immunosuppression is determined, not only by the immunosuppressive
 The number of immunosuppressive agents may not necessarily increase the risk of post-transplant lymphomas.
 However, transplant patients who receive multiple immunosuppressive agents may be at risk for over-immunosuppression; therefore, immunosuppressive drug therapy should be maintained at the lowest effective levels.
 Information is available on the spontaneous neoplasia risk in rheumatoid arthritis, and on neoplasia following immunosuppressive therapy of other autoimmune diseases.
-It has not been possible to define the precise risk of neoplasia due to azathioprine tablets.
-The data suggest the risk may be elevated in patients with rheumatoid arthritis, though lower than for renal transplant patients.
+It has not been possible to define the precise risk of neoplasia due to azathioprine tablets.The data suggest the risk may be elevated in patients with rheumatoid arthritis, though lower than for renal transplant patients.
 However, acute myelogenous leukemia as well as solid tumors have been reported in patients with rheumatoid arthritis who have received azathioprine.
-Data on neoplasia in patients receiving azathioprine tablets can be found under ADVERSE REACTIONS.
+Data on neoplasia in patients receiving azathioprine tabletscan be found under ADVERSE REACTIONS.
 
 Azathioprine tablets have been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;10 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.11
 
@@ -66,13 +65,13 @@ The reaction can recur within hours after rechallenge with a single dose of azat
 
 Patients being started on azathioprine tablets should be informed of the necessity of periodic blood counts while they are receiving the drug and should be encouraged to report any unusual bleeding or bruising to their physician.
 They should be informed of the danger of infection while receiving azathioprine tablets and asked to report signs and symptoms of infection to their physician.
-Careful dosage instructions should be given to the patient, especially when azathioprine tablets are being administered in the presence of impaired renal function or concomitantly with allopurinol (see Drug Interactions subsection and DOSAGE AND ADMINISTRATION).
+Careful dosage instructions should be given to the patient, especially when azathioprine tablets are being administered in the presence of impaired renal function or concomitantly with allopurinol (see Drug Interactionssubsection and DOSAGE AND ADMINISTRATION).
 Patients should be advised of the potential risks of the use of azathioprine tablets during pregnancy and during the nursing period.
 The increased risk of neoplasia following therapy with azathioprine tablets should be explained to the patient.
 
 ## Laboratory Tests
 
-## Complete Blood Count (CBC) Monitoring
+Complete Blood Count (CBC) Monitoring
 
 Patients on azathioprine tablets should have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
 
@@ -85,42 +84,42 @@ Patients with two non-functional alleles (homozygous) have low or absent TPMT ac
 Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions.
 TPMT testing may also be considered in patients with abnormal CBC results that do not respond to dose reduction.
 Early drug discontinuation in these patients is advisable.
-TPMT TESTING CANNOT SUBSTITUTE FOR COMPLETE BLOOD COUNT (CBC) MONITORING IN PATIENTS RECEIVING AZATHIOPRINE TABLETS (see CLINICAL PHARMACOLOGY, WARNINGS, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
+TPMT TESTING CANNOT SUBSTITUTE FOR COMPLETE BLOOD COUNT (CBC) MONITORING IN PATIENTS RECEIVING AZATHIOPRINE TABLETS (see CLINICAL PHARMACOLOGY, WARNINGS, ADVERSE REACTIONSand DOSAGE AND ADMINISTRATIONsections).
 
 ## Drug Interactions
 
-## Use with Allopurinol
+Use with Allopurinol
 
 One of the pathways for inactivation of azathioprine is inhibited by allopurinol.
 Patients receiving azathioprine tablets and allopurinol concomitantly should have a dose reduction of azathioprine tablets, to approximately ⅓ to ¼ the usual dose.
-It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving azathioprine tablets and allopurinol because both TPMT and XO inactivation pathways are affected (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections).
+It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving azathioprine tablets and allopurinol because both TPMT and XO inactivation pathways are affected (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS: Laboratory Testsand ADVERSE REACTIONSsections).
 
-## Use with Aminosalicylates
+Use with Aminosalicylates
 
 There is in vitro evidence that aminosalicylate derivatives (e.g., sulphasalazine, mesalazine, or olsalazine) inhibit the TPMT enzyme.
 Concomitant use of these agents with azathioprine tablets should be done with caution.
 
-## Use with Other Agents Affecting Myelopoesis
+Use with Other Agents Affecting Myelopoesis
 
 Drugs which may affect leukocyte production, including co-trimoxazole, may lead to exaggerated leukopenia, especially in renal transplant recipients.
 
-## Use with Angiotensin-Converting Enzyme Inhibitors
+Use with Angiotensin-Converting Enzyme Inhibitors
 
 The use of angiotensin-converting enzyme inhibitors to control hypertension in patients on azathioprine has been reported to induce anemia and severe leukopenia.
 
-## Use with Warfarin
+Use with Warfarin
 
 Azathioprine tablets may inhibit the anticoagulant effect of warfarin.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-See WARNINGS section.
+See WARNINGSsection.
 
 ## Pregnancy:
 
-## Teratogenic Effects
+Teratogenic Effects
 
-Pregnancy Category D. See WARNINGS section.
+Pregnancy Category D. See WARNINGSsection.
 
 ## Nursing Mothers
 

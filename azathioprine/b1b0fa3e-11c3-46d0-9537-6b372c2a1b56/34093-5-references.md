@@ -32,7 +32,8 @@
 11. Data on file, Prometheus Laboratories Inc.
 12. Tagatz GE, Simmons RL.
     Pregnancy after renal transplantation.
-    Ann Intern Med.1975; 82:113-114.
+    Ann Intern Med.
+    1975; 82:113-114.
     Editorial Notes.
 13. Cote’ CJ, Meuwissen HJ, Pickering RJ.
     Effects on the neonate of prednisone and azathioprine administered to the mother during pregnancy.
@@ -50,7 +51,7 @@
     JAMA.
     1970; 211: 1854-1855.
 17. Data on file, Prometheus Laboratories Inc.
-18. Saarikoski S, Seppl M. Immunosuppression during pregnancy: transmission of azathioprine and its metabolites from the mother to the fetus.
+18. Saarikoski S, Seppälä M. Immunosuppression during pregnancy: transmission of azathioprine and its metabolites from the mother to the fetus.
     Am J Obstet Gynecol.
     1973; 115:1100-1106.
 19. Coulam CB, Moyer TP, Jiang NS, et al. Breast-feeding after renal transplantation.
