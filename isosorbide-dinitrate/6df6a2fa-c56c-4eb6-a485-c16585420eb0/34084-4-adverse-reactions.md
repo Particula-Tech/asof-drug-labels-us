@@ -8,6 +8,6 @@ Hypotension occurs infrequently, but in some patients it may be severe enough to
 Syncope, crescendo angina, and rebound hypertension have been reported but are uncommon.
 
 Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients.
-Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (seeOVERDOSAGE).
+Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE).
 
 Data are not available to allow estimation of the frequency of adverse reactions during treatment with isosorbide dinitrate tablets.

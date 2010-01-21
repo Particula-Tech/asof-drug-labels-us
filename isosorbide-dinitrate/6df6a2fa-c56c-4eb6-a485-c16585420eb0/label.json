@@ -1,20 +1,29 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA086923",
+    "ANDA086925",
+    "ANDA087537",
+    "ANDA087946"
+  ],
   "inn": "isosorbide-dinitrate",
   "labeler": "Par Pharmaceutical Inc.",
   "package_ndcs": [
     "49884-009-01",
-    "49884-009-05",
     "49884-009-10",
     "49884-020-01",
     "49884-020-10",
     "49884-021-01",
     "49884-021-10",
     "49884-022-01",
-    "49884-022-05",
     "49884-022-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "isosorbide dinitrate",
+      "name": "Isosorbide Dinitrate"
+    }
+  ],
   "setid": "6df6a2fa-c56c-4eb6-a485-c16585420eb0",
   "source": "dailymed"
 }

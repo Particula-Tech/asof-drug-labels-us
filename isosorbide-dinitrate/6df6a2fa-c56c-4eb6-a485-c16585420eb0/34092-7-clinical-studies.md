@@ -17,6 +17,3 @@ Manufactured by:
 PAR PHARMACEUTICAL, INC.
 
 Spring Valley, NY 10977
-
-| Rev: 04/05 | OS020-01-1-11 |
-| --- | --- |
