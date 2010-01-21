@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA103976"
+  ],
+  "inn": "omalizumab",
+  "labeler": "Genentech, Inc.",
+  "package_ndcs": [
+    "50242-040-62"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "omalizumab",
+      "name": "XOLAIR"
+    }
+  ],
+  "setid": "7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+  "source": "dailymed"
+}
