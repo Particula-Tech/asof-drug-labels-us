@@ -10,12 +10,12 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
-©Copyright Boehringer Ingelheim International GmbH 2009
+©Copyright Boehringer Ingelheim International GmbH 2010
 
 ALL RIGHTS RESERVED
 
 Printed in USA
 
-Rev: November 2009
+Rev: January 2010
 
-OT6000EJ0709 090340066/US/5
+OT6000GA0710 090340066/US/6
