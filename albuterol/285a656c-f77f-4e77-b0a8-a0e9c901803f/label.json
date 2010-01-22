@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076355"
+  ],
+  "inn": "albuterol",
+  "labeler": "Nephron Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0487-9904-01",
+    "0487-9904-02",
+    "0487-9904-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "albuterol sulfate",
+      "name": "Albuterol Sulfate"
+    }
+  ],
+  "setid": "285a656c-f77f-4e77-b0a8-a0e9c901803f",
+  "source": "dailymed"
+}
