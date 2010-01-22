@@ -122,7 +122,7 @@ How should I take ZYPREXA?
   Do not take two doses of ZYPREXA at the same time.
 - To prevent serious side effects, do not stop taking ZYPREXA suddenly.
   If you need to stop taking ZYPREXA, your doctor can tell you how to safely stop taking it.
-- If you take too much ZYPREXA, call your doctor or poison control center at 1-800-222-1212 right away, or get emergency treatment.
+- If you take too much ZYPREXA, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
 - ZYPREXA can be taken with or without food.
 - ZYPREXA is usually taken one time each day.
 - Take ZYPREXA ZYDIS as follows:
@@ -218,13 +218,13 @@ ZYDIS — gelatin, mannitol, aspartame, sodium methyl paraben, and sodium propyl
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised December 4, 2009
+Medication Guide revised January 5, 2010
 
 Eli Lilly and Company Indianapolis, IN 46285, USA
 
 www.zyprexa.com
 
-Copyright © 2009, Eli Lilly and Company.
+Copyright © 2009, 2010, Eli Lilly and Company.
 All rights reserved.
 
-PV 6921 AMP
+PV 6922 AMP
