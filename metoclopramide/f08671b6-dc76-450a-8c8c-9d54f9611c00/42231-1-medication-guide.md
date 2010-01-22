@@ -22,7 +22,7 @@ Your chances for getting TD go up:
 
 - the longer you take REGLAN and the more REGLAN you take.
   You should not take REGLAN for more than 12 weeks.
-- if you are older, especially if you are a women
+- if you are older, especially if you are a woman
 - if you have diabetes
 
 It is not possible for your doctor to know if you will get TD if you take REGLAN.
@@ -120,7 +120,7 @@ Reglan can cause serious side effects, including:
 - Abnormal muscle movements.
   See "What is the most important information I need to know about REGLAN?"
 - Uncontrolled spasms of your face and neck muscles, or muscles of your body, arms, and legs (dystonia).
-  These muscles spasms can cause abnormal movements and body positions.
+  These muscle spasms can cause abnormal movements and body positions.
   These spasms usually start within the first 2 days of treatment.
   These spasms happen more often in children and adults under age 30.
 - Depression, thoughts about suicide, and suicide.
@@ -150,7 +150,6 @@ Common side effects of Reglan include:
 - trouble sleeping
 
 You may have more side effects the longer you take REGLAN and the more REGLAN you take.
-
 You may still have side effects after stopping REGLAN.
 You may have symptoms from stopping (withdrawal) REGLAN such as headaches, and feeling dizzy or nervous.
 
@@ -158,7 +157,7 @@ Tell your doctor about any side effects that bother you or do not go away.
 These are not all the possible side effects of REGLAN.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1–800–FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store REGLAN?
 
@@ -191,9 +190,7 @@ Inactive ingredients:
 
 Manufactured for: ALAVEN® PHARMACEUTICAL LLC Marietta, GA 30062
 
-For Medical Inquiries, call toll-free 1-888-317-0001
-
-www.alavenpharm.com
+For Medical Inquiries, call toll-free 1-888-317-0001 www.alavenpharm.com
 
 Rev.
 07/2009 PCS 9360 6-151-10-16-1009

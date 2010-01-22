@@ -13,7 +13,7 @@ Benztropine mesylate, 1 to 2 mg intramuscularly, may also be used to reverse the
 
 Parkinsonian-like symptoms have occurred, more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
 These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
-Patients with preexisting Parkinson's disease shoud be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
+Patients with preexisting Parkinson's disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
 
 ## Tardive Dyskinesia
 
@@ -27,16 +27,16 @@ Although the risk of developing TD in the general population may be increased am
 Both the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.
 
 Metoclopramide should be discontinued in patients who develop signs or symptoms of TD.
-There is no known effective treatment for established cases of TD, although in some patients, TD may remit partially or completely, within several weeks to months after metoclopramide is withdrawn.
+There is no known effective treatment for established cases of TD, although in some patients, TD may remit, partially or completely, within several weeks to months after metoclopramide is withdrawn.
 
 Metoclopramide itself may suppress, or partially suppress, the signs of TD, thereby masking the underlying disease process.
 The effect of this symptomatic suppression upon the long-term course of TD is unknown.
-Therefore, metoclopramide should not be used for the symptomatic contril of TD.
+Therefore, metoclopramide should not be used for the symptomatic control of TD.
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
 There have been rare reports of an uncommon but potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) associated with metoclopramide.
-Clincal manifestations of NMS include hyperthermia, muscle rigidity, altered consciousness, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac arrhythmias).
+Clinical manifestations of NMS include hyperthermia, muscle rigidity, altered consciousness, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac arrhythmias).
 
 The diagnostic evaluation of patients with this syndrome is complicated.
 In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
@@ -54,7 +54,7 @@ In one study in hypertensive patients, intravenously administered metoclopramide
 Because metoclopramide produces a transient increase in plasma aldosterone, certain patients, especially those with cirrhosis or congestive heart failure, may be at risk of developing fluid retention and volume overload.
 If these side effects occur at any time during metoclopramide therapy, the drug should be discontinued.
 
-Adverse reactions, especially those involving the nervous system, may occur after stopping the ise of reglan®.
+Adverse reactions, especially those involving the nervous system, may occur after stopping the use of reglan®.
 A small number of patients may experience a withdrawal period after stopping reglan® that could include dizziness, nervousness, and/or headaches.
 
 ## Information for Patients
@@ -76,12 +76,12 @@ Absorption of drugs from the stomach may be diminished (e.g., digoxin) by metocl
 
 Gastroparesis (gastric stasis) may be responsible for poor diabetic control in some patients.
 Exogenously administered insulin may begin to act before food has left the stomach and lead to hypoglycemia.
-Because the action of metoclopramide will influence the delivery of food to the intestines and thus the rate of absorption, insulin dosage or timing of dosage may reguire adjustment.
+Because the action of metoclopramide will influence the delivery of food to the intestines and thus the rate of absorption, insulin dosage or timing of dosage may require adjustment.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A 77-week study was conducted in rats with oral doses up to about 40 times the maximum recommended human daily dose.
-Metoclopramide elevates prolactain levels and the elevation persists during chronic administration.
+Metoclopramide elevates prolactin levels and the elevation persists during chronic administration.
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of metoclopramide is contemplated in a patient with previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating drugs, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 An increase in mammary neoplasms has been found in rodents after chronic administration of prolactin-stimulating neuroleptic drugs and metoclopramide.
@@ -91,7 +91,7 @@ An Ames mutagenicity test performed on metoclopramide was negative.
 
 ## Pregnancy Category B
 
-Reproduction studies performed in rats, mice and rabbits by the I.V., I.M., S.C., and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide.
+Reproduction studies performed in rats, mice and rabbits by the IV., I.M., S.C., and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
@@ -108,25 +108,25 @@ Care should be exercised in administering metoclopramide to neonates since prolo
 In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE).
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
-Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in pediatric population than in adults.
+Dystonias and other extrapyramidal reactions associated with metoclopramlde are more common in the pediatric population than in adults.
 (See WARNINGS and ADVERSE REACTIONS - Extrapyramidal Reactions.)
 
 ## Geriatric Use
 
 Clinical studies of reglan® did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
 
-The risk of developing parkinsonian-like side effects increases with acending dose.
+The risk of developing parkinsonian-like side effects increases with ascending dose.
 Geriatric patients should receive the lowest dose of reglan® that is effective.
-If parkinsonian-like symptoms develop in a geriatric patient receiving reglan®, reglan® should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS and DOSAGE AND ADMINISTRATION – For the Relief of Symptomatic Gastroesophageal Reflux).
+If parkinsonian-like symptoms develop in a geriatric patient receiving reglan®, reglan® should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS and DOSAGE AND ADMINISTRATION - For the Relief of Symptomatic Gastroesophageal Reflux).
 
-The elderly may be at greater risk for tardive dyskinesia (see WARNINGS – Tardive Dyskinesia).
+The elderly may be at greater risk for tardive dyskinesia (see WARNINGS - Tardive Dyskinesia).
 
 Sedation has been reported in reglan® users.
-Sedation may cause confusion and manifest as over-sedation in the elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects).
+Sedation may cause confusion and manifest as oversedation in the elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS -Information for Patients and ADVERSE REACTIONS - CNS Effects).
 
-reglan® is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION – Use in Patients with Renal or Hepatic Impairment).
+reglan® is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients with Renal or Hepatic Impairment).
 
-For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION – For the Relief of Symptomatic Gastroesophageal Reflux and Use in Patients with Renal or Hepatic Impairment).
+For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION - For the Relief of Symptomatic Gastroesophageal Reflux and Use in Patients with Renal or Hepatic Impairment).
 
 ## Other Special Populations
 

@@ -7,7 +7,7 @@ Therapy should not exceed 12 weeks in duration.
 
 reglan® tablets are indicated as short-term (4 to 12 weeks) therapy for adults with symptomatic, documented gastroesophageal reflux who fail to respond to conventional therapy.
 
-The principle effect of metoclopramide is on symptoms of postprandial and daytime heartburn with less observed effect on nocturnal symptoms.
+The principal effect of metoclopramide is on symptoms of postprandial and daytime heartburn with less observed effect on nocturnal symptoms.
 If symptoms are confined to particular situations, such as following the evening meal, use of metoclopramide as single doses prior to the provocative situation should be considered, rather than using the drug throughout the day.
 Healing of esophageal ulcers and erosions has been endoscopically demonstrated at the end of a 12-week trial using doses of 15 mg q.i.d.
 As there is no documented correlation between symptoms and healing of esophageal lesions, patients with documented lesions should be monitored endoscopically.

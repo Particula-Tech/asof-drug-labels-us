@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Each white, capsule-shaped scored reglan® tablet (metoclopramide tablets, USP) contains 10 mg metoclopramide base (as the monohydrochloride monohydrate).
+Each white, capsule-shaped, scored reglan® tablet (metoclopramide tablets, USP) contains 10 mg metoclopramide base (as the monohydrochloride monohydrate).
 Available in:
 
 Bottles of 100 tablets (NDC 68220-151-10)
