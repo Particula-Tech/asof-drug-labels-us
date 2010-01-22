@@ -1,11 +1,11 @@
-## ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
+ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
 
 Close clinical surveillance of all women taking estrogens is important.
 Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
 There is no evidence that the use of "natural" estrogens results in a different endometrial risk profile than synthetic estrogens at equivalent estrogen doses.
 (See WARNINGS, Malignant neoplasms, Endometrial cancer.)
 
-## CARDIOVASCULAR AND OTHER RISKS
+CARDIOVASCULAR AND OTHER RISKS
 
 Estrogens with or without progestins should not be used for the prevention of cardiovascular disease or dementia.
 (See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders, and Dementia.)
