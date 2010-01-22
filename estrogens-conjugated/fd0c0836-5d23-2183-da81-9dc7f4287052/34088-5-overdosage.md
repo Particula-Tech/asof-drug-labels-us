@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Overdosage of estrogen/progestin may cause nausea and vomiting, breast tenderness, abdominal pain, drowsiness/fatigue and withdrawal bleeding may occur in females.
-Treatment of overdose consists of discontinuation of PREMPRO or PREMPHASE together with institution of appropriate symptomatic care.
+Overdosage of estrogen or estrogen plus progestin may cause nausea and vomiting, breast tenderness, abdominal pain, drowsiness/fatigue, and withdrawal bleeding may occur in women.
+Treatment of overdose consists of discontinuation of PREMPRO or PREMPHASE therapy with institution of appropriate symptomatic care.
