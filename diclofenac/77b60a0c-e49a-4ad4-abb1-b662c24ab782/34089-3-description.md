@@ -2,7 +2,7 @@
 
 Diclofenac potassium tablets are a benzeneacetic acid derivative.
 Diclofenac potassium tablets, 50 mg are available as orange, film-coated tablets for oral administration.
-The chemical name is 2-[(2,6-dichlorophenyl)amino]benzeneacetic acid, monopotassium salt.
+The chemical name is 2-[(2,6-dichlorophenyl)amino] benzeneacetic acid, monopotassium salt.
 The structural formula is:
 
 C14H10Cl2KNO2 M.W.

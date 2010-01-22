@@ -23,7 +23,7 @@ Patients taking thiazides or loop diuretics may have impaired response to these 
 NSAIDs, including diclofenac potassium tablets, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
-### Congestive Heart Failure and Edema Renal Effects
+### Congestive Heart Failure and Edema
 
 Fluid retention and edema have been observed in some patients taking NSAIDs.
 Diclofenac potassium tablets should be used with caution in patients with fluid retention or heart failure.

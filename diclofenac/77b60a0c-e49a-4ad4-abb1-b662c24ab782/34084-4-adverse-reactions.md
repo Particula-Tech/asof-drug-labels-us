@@ -9,6 +9,8 @@ Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, 
 
 Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes, and tinnitus.
 
+Additional adverse experiences reported occasionally include:
+
 Body as a Whole: fever, infection, sepsis
 
 Cardiovascular System: congestive heart failure, hypertension, tachycardia, syncope
