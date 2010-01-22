@@ -88,6 +88,10 @@ Physicians should warn patients that prolonged erections greater than 4 hours an
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
 
+Physicians should inform patients not to take VIAGRA with other PDE5 inhibitors including REVATIO.
+Sildenafil is also marketed as REVATIO for the treatment of pulmonary arterial hypertension.
+The safety and efficacy of VIAGRA with other PDE5 inhibitors, including REVATIO, have not been studied.
+
 The use of VIAGRA offers no protection against sexually transmitted diseases.
 Counseling of patients about the protective measures necessary to guard against sexually transmitted diseases, including the Human Immunodeficiency Virus (HIV), may be considered.
 

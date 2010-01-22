@@ -1,4 +1,4 @@
-## PATIENT SUMMARY OF INFORMATION ABOUT
+# PATIENT SUMMARY OF INFORMATION ABOUT
 
 This summary contains important information about VIAGRA®.
 It is not meant to take the place of your doctor's instructions.
@@ -108,6 +108,9 @@ This includes prescription and nonprescription medicines or remedies:
 - If you are taking a protease inhibitor, your dose may be adjusted (please see Finding the Right Dose for You).
 - VIAGRA should not be used with any other medical treatments that cause erections.
   These treatments include pills, medicines that are injected or inserted into the penis, implants or vacuum pumps.
+- VIAGRA contains sildenafil, which is the same medicine found in another drug called REVATIO.
+  REVATIO is used to treat a rare disease called pulmonary arterial hypertension.
+  VIAGRA should not be used with REVATIO.
 
 • FINDING THE RIGHT DOSE FOR YOU
 
@@ -178,4 +181,4 @@ Only your doctor can decide if it is right for you.
 This sheet is only a summary.
 If you have any questions or want more information about VIAGRA, talk with your doctor or pharmacist, visit www.viagra.com, or call 1-888-4VIAGRA.
 
-LAB-0220-6.0 October 2007
+LAB-0220-7.0 January 2010

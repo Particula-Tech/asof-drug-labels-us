@@ -75,7 +75,7 @@ It is not possible to determine whether these events are related directly to VIA
 Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors, including VIAGRA.
 In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.
 In many cases, medical follow-up information was limited.
-It is not possible to determine whether these reported events are related directly to the use of VIAGRA, to the patient’s underlying risk factors for hearing loss, a combination of these factors, or to other factors (see PRECAUTIONS, Information for Patients).
+It is not possible to determine whether these reported events are related directly to the use of VIAGRA, to the patient's underlying risk factors for hearing loss, a combination of these factors, or to other factors (see PRECAUTIONS, Information for Patients).
 
 ### Other events
 
