@@ -17,7 +17,7 @@ While a 120 mg once daily dose was shown to be effective, there is no evidence t
 Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, dose increases should be in increments of 30 mg once daily.
 The safety of doses above 120 mg once daily has not been adequately evaluated [see Clinical Studies (14.2)].
 
-Diabetic Peripheral Neuropathic Pain —The recommended dose for Cymbalta is 60 mg administered once daily.
+Diabetic Peripheral Neuropathic Pain — The recommended dose for Cymbalta is 60 mg administered once daily.
 There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see Clinical Studies (14.3)].
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 

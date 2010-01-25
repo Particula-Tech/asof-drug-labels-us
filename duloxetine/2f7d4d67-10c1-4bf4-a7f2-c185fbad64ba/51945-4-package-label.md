@@ -44,11 +44,11 @@ Lilly
 
 PACKAGE LABEL- Cymbalta 60 mg, bottle of 30
 
-NDC 0002-3237-30
+NDC 0002-3270-30
 
 30 capsules
 
-PU3237
+PU3270
 
 Cymbalta®
 

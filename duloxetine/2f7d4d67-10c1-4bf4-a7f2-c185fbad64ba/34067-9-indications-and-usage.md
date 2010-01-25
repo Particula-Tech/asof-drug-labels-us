@@ -2,14 +2,14 @@
 
 ## 1.1 Major Depressive Disorder
 
-Cymbalta is indicated for the acute and maintenance treatment of major depressive disorder (MDD).
+Cymbalta is indicated for the treatment of major depressive disorder (MDD).
 The efficacy of Cymbalta was established in four short term and one maintenance trial in adults [see Clinical Studies (14.1)].
 
 A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least 5 of the following 9 symptoms: depressed mood, loss of interest in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or a suicide attempt or suicidal ideation.
 
 ## 1.2 Generalized Anxiety Disorder
 
-Cymbalta is indicated for the acute treatment of generalized anxiety disorder (GAD).
+Cymbalta is indicated for the treatment of generalized anxiety disorder (GAD).
 The efficacy of Cymbalta was established in three short-term trials and one maintenance trial in adults [see Clinical Studies (14.2)].
 
 Generalized anxiety disorder is defined by the DSM-IV as excessive anxiety and worry, present more days than not, for at least 6 months.
