@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021232"
+  ],
+  "inn": "nitisinone",
+  "labeler": "Rare Disease Therapeutics, Inc.",
+  "package_ndcs": [
+    "66621-1002-6",
+    "66621-1005-6",
+    "66621-1010-6"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitisinone",
+      "name": "ORFADIN"
+    }
+  ],
+  "setid": "1eecf439-77ff-40c8-aef8-71e024ea8b7c",
+  "source": "dailymed"
+}
