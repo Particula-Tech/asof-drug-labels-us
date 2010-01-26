@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA103780"
+  ],
+  "inn": "interferon-beta-1a",
+  "labeler": "EMD Serono, Inc.",
+  "package_ndcs": [
+    "44087-0022-3",
+    "44087-0044-3",
+    "44087-8822-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "interferon beta-1a",
+      "name": "REBIF"
+    },
+    {
+      "form": "KIT",
+      "generic": "interferon beta-1a",
+      "name": "Rebif"
+    }
+  ],
+  "setid": "c6fcb5d2-8fcd-44fa-a838-b84ee5f44f0f",
+  "source": "dailymed"
+}
