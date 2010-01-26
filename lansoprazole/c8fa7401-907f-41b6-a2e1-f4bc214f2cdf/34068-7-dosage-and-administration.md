@@ -1,6 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Lansoprazole delayed-release capsules are available as capsules in 15 mg and 30 mg strengths.
+Directions for use specific to the route and available methods of administration is presented below.
 Lansoprazole delayed-release capsules should be taken before eating.
 Lansoprazole delayed-release capsules SHOULD NOT BE CRUSHED OR CHEWED.
 In the clinical trials, antacids were used concomitantly with lansoprazole.

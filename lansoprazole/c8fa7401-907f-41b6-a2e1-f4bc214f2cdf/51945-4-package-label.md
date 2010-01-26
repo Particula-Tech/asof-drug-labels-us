@@ -31,11 +31,13 @@ Code No.: MH/DRUGS/25/NKD/89
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
-NDC 0378-8030-77
+NDC 0378-8030-93
 
 LANSOPRAZOLE DELAYED-RELEASE CAPSULES, USP 30 mg
 
-90 CAPSULES (Rx only)
+NEW PRODUCT APPEARANCE
+
+30 CAPSULES (Rx only)
 
 Each capsule contains 30 mg of lansoprazole, USP as enteric-coated pellets.
 
@@ -52,7 +54,7 @@ Manufactured in India by: Matrix Laboratories Limited Secunderabad–500 003, In
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RMX8030MM
+RMX8030H
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

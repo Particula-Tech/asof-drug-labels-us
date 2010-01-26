@@ -5,6 +5,7 @@ Patient should be informed of the following:
 ## 17.1 Information for Patients
 
 Lansoprazole is available as a capsule in 15 mg and 30 mg strengths.
+Directions for use specific to the route and available methods of administration is presented below.
 [See Dosage and Administration (2.3).]
 
 - Lansoprazole should be taken before eating.
@@ -29,3 +30,9 @@ Lansoprazole is available as a capsule in 15 mg and 30 mg strengths.
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
 
 All trademark names are the property of their respective owners.
+
+Manufactured in India by: Matrix Laboratories Limited Secunderabad — 500 003, India Code No. MH/DRUGS/25/NKD/89
+
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+REVISED DECEMBER 2009 MX:LANS:R3

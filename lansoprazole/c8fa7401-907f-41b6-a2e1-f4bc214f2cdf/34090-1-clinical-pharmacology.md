@@ -101,7 +101,7 @@ There is no significant food effect if lansoprazole is given before meals.
 ### Distribution
 
 Lansoprazole is 97% bound to plasma proteins.
-Plasma protein binding is constant over the concentration range of 0.05 to 5.0 mcg/mL.
+Plasma protein binding is constant over the concentration range of 0.05 to 5 mcg/mL.
 
 ### Metabolism
 

@@ -13,6 +13,6 @@ The degradation half-life of the drug substance in aqueous solution at 25°C is 
 
 The delayed-release capsules are available in two dosage strengths: 15 mg and 30 mg of lansoprazole per capsule.
 Each delayed-release capsule contains enteric-coated pellets consisting of 15 mg or 30 mg of lansoprazole (active ingredient) and the following inactive ingredients: colloidal silicon dioxide, corn starch, hydroxypropyl cellulose, low substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, sucrose, sugar spheres, talc and titanium dioxide.
-In addition, the 15 mg gelatin capsule contains FD&C Green No. 3 and FD&C Red No. 40; the 30 mg gelatin capsule contains Red Acid 18, FD&C Blue No. 1 and FD&C Red No 3; for both strengths the gelatin capsules contain gelatin and titanium dioxide.
+In addition, the 15 mg gelatin capsule contains FD&C Green No. 3 and FD&C Red No. 40; the 30 mg gelatin capsule contains FD&C Blue No. 1 and FD&C Red No 3; for both strengths the gelatin capsules contain gelatin and titanium dioxide.
 
 The printing ink contains black iron oxide, propylene glycol, shellac and potassium hydroxide.
