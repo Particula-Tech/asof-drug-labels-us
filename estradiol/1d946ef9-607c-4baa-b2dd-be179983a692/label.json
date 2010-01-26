@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020323"
+  ],
+  "inn": "estradiol",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0083-2325-08",
+    "0083-2326-08",
+    "0083-2327-08",
+    "0083-2328-08"
+  ],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "vivelle",
+      "name": "Vivelle"
+    }
+  ],
+  "setid": "1d946ef9-607c-4baa-b2dd-be179983a692",
+  "source": "dailymed"
+}

@@ -1,0 +1,39 @@
+# DOSAGE AND ADMINISTRATION
+
+The adhesive side of the Vivelle system should be placed on a clean, dry area of the trunk of the body (including the abdomen or buttocks).
+The Vivelle system should not be applied to the breasts.
+The Vivelle system should be replaced twice weekly.
+The sites of application must be rotated, with an interval of at least one week allowed between applications to a particular site.
+The area selected should not be oily, damaged, or irritated.
+The waistline should be avoided since tight clothing may rub the system off.
+The system should be applied immediately after opening the pouch and removing the protective liner.
+The system should be pressed firmly in place with the palm of the hand for about 10 seconds, making sure there is good contact, especially around the edges.
+In the event that a system should fall off, the same system may be reapplied.
+If necessary, a new system may be applied.
+In either case, the original treatment schedule should be continued.
+If a woman has forgotten to apply a patch, she should apply a new patch as soon as possible.
+The new patch should be applied on the original treatment schedule.
+The interruption of treatment in women taking Vivelle might increase the likelihood of breakthrough bleeding, spotting and recurrence of symptoms.
+
+## Initiation of Therapy
+
+When estrogen is prescribed for a postmenopausal woman with a uterus, progestin should also be initiated to reduce the risk of endometrial cancer.
+A woman without a uterus does not need progestin.
+Use of estrogen alone or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
+Patients should be reevaluated periodically as clinically appropriate (e.g., 3-month to 6-month intervals) to determine whether treatment is still necessary (see BOXED WARNINGS and WARNINGS).
+For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
+
+Patients should be started at the lowest dose.
+The lowest effective dose of Vivelle has not been determined for any indication.
+For treatment of moderate to severe vasomotor symptoms and vulvar and vaginal atrophy associated with the menopause, start therapy with Vivelle estradiol transdermal system 0.0375 mg/day applied to the skin twice weekly.
+For the prevention of postmenopausal osteoporosis, start therapy with Vivelle 0.025 mg/day applied to the skin twice weekly.
+The dosage may be adjusted as necessary.
+Reproductive system-associated adverse events were encountered more frequently in the highest dose group (0.1 mg/day) than in other active treatment groups or in placebo-treated patients.
+
+In women not currently taking oral estrogens or in women switching from another estradiol transdermal therapy, treatment with the Vivelle estradiol transdermal system may be initiated at once.
+In women who are currently taking oral estrogens, treatment with the Vivelle estradiol transdermal system should be initiated one week after withdrawal of oral hormone therapy, or sooner if menopausal symptoms reappear in less than one week.
+
+## Therapeutic Regimen
+
+Vivelle may be given continuously in patients who do not have an intact uterus.
+In those patients with an intact uterus, Vivelle may be given continuously or on a cyclic schedule (e.g., three weeks on drug followed by one week off drug) with a progestin.
