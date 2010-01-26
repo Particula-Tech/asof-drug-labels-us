@@ -1,12 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA008453"
+  ],
   "inn": "succinylcholine",
-  "labeler": "Lek Pharmaceuticals",
+  "labeler": "Sandoz Inc.",
   "package_ndcs": [
-    "0781-3009-70",
     "0781-3009-95"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "succinylcholine chloride",
+      "name": "Anectine"
+    }
+  ],
   "setid": "579ff759-3099-45f5-befe-c4b79106c87e",
   "source": "dailymed"
 }
