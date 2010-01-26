@@ -1,6 +1,4 @@
-## PATIENT INFORMATION
-
-T2004-68
+# PATIENT INFORMATION
 
 Vivelle®
 
@@ -106,10 +104,11 @@ You may need to stop taking estrogens.
 
 HOW SHOULD I TAKE VIVELLE?
 
-- Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
-- Estrogens should be used at the lowest dose possible for your treatment, only as long as needed.
-  The lowest effective dose of Vivelle has not been determined for any indication.
-  You and your healthcare provider should talk regularly (for example, every three to six months) about the dose you are taking and whether you still need treatment with Vivelle.
+• Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
+
+• Estrogens should be used at the lowest dose possible for your treatment, only as long as needed.
+The lowest effective dose of Vivelle has not been determined for any indication.
+You and your healthcare provider should talk regularly (for example, every three to six months) about the dose you are taking and whether you still need treatment with Vivelle.
 
 How and Where to Apply Vivelle
 
@@ -130,8 +129,6 @@ Fold back the remaining side of the system.
 Grasp the straight edge of the protective liner and pull it off the system.
 
 Press the system firmly in place.
-
-OR
 
 Some women may find that it is more comfortable to wear Vivelle on the buttocks.
 Do not apply Vivelle to your breasts.
@@ -211,13 +208,17 @@ If you have questions, talk to your healthcare provider or pharmacist.
 
 WHAT CAN I DO TO LOWER MY CHANCES OF A SERIOUS SIDE EFFECT WITH VIVELLE?
 
-- Talk with your healthcare provider regularly about whether you should continue taking Vivelle.
-- If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
-- See your healthcare provider right away if you get vaginal bleeding while taking Vivelle.
-- Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
-  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-  Ask your healthcare provider for ways to lower your chances for getting heart disease.
+• Talk with your healthcare provider regularly about whether you should continue taking Vivelle.
+
+• If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
+
+• See your healthcare provider right away if you get vaginal bleeding while taking Vivelle.
+
+• Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+
+• If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+Ask your healthcare provider for ways to lower your chances for getting heart disease.
 
 GENERAL INFORMATION ABOUT SAFE AND EFFECTIVE USE OF VIVELLE
 
@@ -240,8 +241,6 @@ Proceeding from the visible surface toward the surface attached to the skin, the
 
 The active component of the system is estradiol.
 The remaining components of the system are pharmacologically inactive.
-
-T2004-68
 
 T2004-67/T2004-68
 

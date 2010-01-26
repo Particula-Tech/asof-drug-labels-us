@@ -36,7 +36,7 @@ Large doses of estrogen (5 mg conjugated estrogens per day), comparable to those
 
 In the Women’s Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo.
 These observations are preliminary.
-(See CLINICAL PHARMACOLOGY, Clinical Studies).
+(See CLINICAL PHARMACOLOGY, Clinical Studies.)
 
 In the CE/MPA substudy of WHI, a two-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
 The rate of VTE was 34 per 10,000 women-years in the CE/MPA group compared to 16 per 10,000 women-years in the placebo group.
@@ -61,7 +61,8 @@ Adding a progestin to estrogen therapy has been shown to reduce the risk of endo
 ### b. Breast Cancer
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
-The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
+The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA.
+(See CLINICAL PHARMACOLOGY, Clinical Studies.)
 The results from observational studies are generally consistent with those of the WHI clinical trial and report no significant variation in the risk of breast cancer among different estrogens or progestins, doses, or routes of administration.
 
 The CE/MPA substudy of WHI reported an increased risk of breast cancer in women who took CE/MPA for a mean follow-up of 5.6 years.

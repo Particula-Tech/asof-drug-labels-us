@@ -1,10 +1,12 @@
-# Clinical Studies
+# CLINICAL STUDIES
 
 In two controlled clinical trials of 356 subjects, the 0.075 and 0.1 mg doses were superior to placebo in relieving vasomotor symptoms at Week 4, and maintained efficacy through Weeks 8 and 12 of treatment.
 In this original study, the 0.0375 and 0.05 mg doses, however, did not differ from placebo until approximately Week 6; therefore, an additional 12-week placebo-controlled study in 255 patients was performed to establish the efficacy of the lowest dose of 0.0375 mg.
 The baseline mean daily number of hot flushes in these 255 patients was 11.5.
 Results at Weeks 4, 8, and 12 of treatment are shown in the figure below.
 (See Figure 2.)
+
+Figure 2 Mean (SD) Change from Baseline in Mean Daily Number of Flushes for Vivelle 0.0375 mg Versus Placebo in a 12-Week Trial
 
 The 0.0375-mg dose was superior to placebo in reducing both the frequency and severity of vasomotor symptoms at Week 4 and maintained efficacy through Weeks 8 and 12 of treatment.
 The following doses of Vivelle: 0.0375 mg, 0.05 mg, 0.075 mg, and 0.1 mg, are effective for the control of vasomotor symptoms.
@@ -22,11 +24,15 @@ The highest dose of Vivelle was superior to the three lower doses.
 There were no statistically significant differences in pairwise comparisons among the three lower doses.
 (See Figure 3.)
 
+Figure 3 Bone Mineral Density - AP Lumbar Spine Least Squares Means of Percentage Change from Baseline All Randomized Patients with at Least One Post-Baseline Assessment Available with Last Post-Baseline Observation Carried Forward
+
 Analysis of percent change from baseline in femoral neck BMD, a secondary efficacy outcome variable, showed qualitatively similar results; all doses of Vivelle were significantly superior to placebo (p<0.05) at 24 months.
 The highest Vivelle dose was superior to placebo at all time points.
 A mixture of significant and non-significant results were obtained for the lower dose groups at earlier time points.
 The highest Vivelle dose was superior to the three lower doses, and there were no significant differences among the three lower doses at this skeletal site.
 (See Figure 4.)
+
+Figure 4 Bone Mineral Density - Femoral Neck Least Squares Means of Percentage Change from Baseline All Randomized Patients with at Least One Post-Baseline Assessment Available with Last Post-Baseline Observation Carried Forward
 
 The mean serum osteocalcin (a marker of bone formation) and urinary excretion of cross-link N-telopeptides of type 1 collagen (a marker of bone resorption) decreased numerically in most of the active treatment groups relative to baseline.
 However, the decreases in both markers were inconsistent across treatment groups and the differences between active treatment groups and placebo were not statistically significant.
@@ -60,16 +66,7 @@ Table 2 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHIa
 | Deep Vein Thrombosisd | 2.07 (1.49-2.87) | 13 | 26 |
 | Vertebral Fracturesd | 0.66 (0.44-0.98) | 15 | 9 |
 | Other Osteoporotic Fracturesd | 0.77 (0.69-0.86) | 170 | 131 |
-
-a Adapted from JAMA, 2002: 288: 321-333
-
-b Includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer
-
-c A subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes
-
-d Not included in global index
-
-* Nominal confidence intervals unadjusted for multiple looks and multiple comparisons
+| a Adapted from JAMA, 2002: 288: 321-333 b Includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer c A subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes d Not included in global index * Nominal confidence intervals unadjusted for multiple looks and multiple comparisons |  |  |  |
 
 For those outcomes included in the “global index”, absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.

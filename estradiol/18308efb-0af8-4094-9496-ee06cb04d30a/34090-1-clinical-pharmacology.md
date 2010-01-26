@@ -26,6 +26,8 @@ While plasma concentrations of estradiol and estrone remained slightly above bas
 
 The figure (see Figure 1) illustrates the mean plasma concentrations of estradiol at steady state during application of these patches at four different dosages.
 
+Figure 1 Steady-State Estradiol Plasma Concentrations for Systems Applied to the Abdomen Nonbaseline-Corrected Levels
+
 The corresponding pharmacokinetic parameters are summarized in Table 1 below.
 
 Table 1 Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to the Abdomen (mean ± standard deviation) Nonbaseline-Corrected Data*
@@ -37,18 +39,7 @@ Table 1 Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to
 |  | 0.075 |  | 99 ± 35 |  | 72 ± 24 |  | 60 ± 24 |
 |  | 0.1 |  | 133 ± 51 |  | 89 ± 38 |  | 90 ± 44 |
 |  | 0.1 |  | 145 ± 71 |  | 104 ± 52 |  | 85 ± 47 |
-
-*Mean baseline estradiol concentration = 11.7 pg/mL
-
-†Peak plasma concentration
-
-‡Average plasma concentration
-
-§Minimum plasma concentration at 84 hr
-
-#Measured over 80 hr
-
-¶Applied to the buttocks
+| *Mean baseline estradiol concentration = 11.7 pg/mL †Peak plasma concentration ‡Average plasma concentration §Minimum plasma concentration at 84 hr #Measured over 80 hr ¶Applied to the buttocks |  |  |  |  |  |  |  |
 
 ### Distribution
 

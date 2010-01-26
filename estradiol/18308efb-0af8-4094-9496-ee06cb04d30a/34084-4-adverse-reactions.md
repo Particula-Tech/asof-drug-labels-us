@@ -47,14 +47,7 @@ Table 3 Summary of Most Frequently Reported Adverse Experiences/Medical Events R
 | Vascular Disorders |  |  |  |  |  |  |
 | Hot Flushes NOS* | 3 (6.4) | 0 | 3 (2.9) | 0 | 0 | 6 (3.8) |
 | Hypertension NOS* | 2 (4.3) | 0 | 3 (2.9) | 0 | 0 | 2 (1.3) |
-
-† Represents milligrams of estradiol delivered daily by each system
-
-* NOS represents not otherwise specified
-
-** NEC represents not elsewhere classified
-
-*** Application site erythema and application site irritation were observed in a small number of patients (3.2% or less of patients across treatment groups)
+| † Represents milligrams of estradiol delivered daily by each system * NOS represents not otherwise specified ** NEC represents not elsewhere classified *** Application site erythema and application site irritation were observed in a small number of patients (3.2% or less of patients across treatment groups) |  |  |  |  |  |  |
 
 The following additional adverse reactions have been reported with estrogens and/or progestin therapy.
 
