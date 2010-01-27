@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Regadenoson is a low affinity agonist (Ki ≈ 1.3 µM) for the A2A adenosine receptor, with at least 10-fold lower affinity for the A1 adenosine receptor (Ki > 16.5 µM), and weak, if any, affinity for the A2B and A3 adenosine receptors.
 Activation of the A2A adenosine receptor by regadenoson produces coronary vasodilation and increases coronary blood flow (CBF).
@@ -23,7 +23,7 @@ Aminophylline (100 mg, administered by slow iv injection over 60 seconds) inject
 
 Effect of Caffeine
 
-A placebo-controlled clinical study assessed the effects of oral caffeine (200 mg) on the regadenoson-induced increase in coronary flow reserve (CFR) using positron emission tomography (PET) with radiolabeled water.
+A placebo-controlled clinical study assessed the effects of oral caffeine (200 mg) on the regadenoson-induced increase in coronary flow reserve (CFR) using positron emission tomography (PET) with radio labeled water.
 Healthy subjects took caffeine 200 mg orally or placebo approximately 2 hours prior to Lexiscan administration.
 Following Lexiscan administration, the median CFR in caffeinated subjects was 92% of the CFR in non-caffeinated subjects [see Drug Interactions (7.1) and Patient Counseling Information (17.1)].
 
@@ -38,13 +38,18 @@ Table 3 Hemodynamic Effects in Studies 1 and 2
 | --- | --- | --- |
 | Heart Rate |  |  |
 | > 100 bpm | 22% | 13% |
-| increase > 40 bpm | 5% | 3% |
+| Increase > 40 bpm | 5% | 3% |
 | Systolic Blood Pressure |  |  |
 | < 90 mm Hg | 2% | 3% |
-| decrease > 35 mm Hg | 7% | 8% |
+| Decrease > 35 mm Hg | 7% | 8% |
+| ≥ 200 mm Hg | 1.9% | 1.9% |
+| Increase ≥ 50 mm Hg | 0.7% | 0.8% |
+| ≥ 180 mm Hg and increase of ≥ 20 mm Hg from baseline | 4.6% | 3.2% |
 | Diastolic Blood Pressure |  |  |
 | < 50 mm Hg | 2% | 4% |
-| decrease > 25 mm Hg | 4% | 5% |
+| Decrease > 25 mm Hg | 4% | 5% |
+| ≥ 115 mm Hg | 0.9% | 0.9% |
+| Increase ≥ 30 mm Hg | 0.5% | 1.1% |
 
 • Respiratory Effects
 

@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The efficacy and safety of Lexiscan were determined relative to Adenoscan in two randomized, double-blind studies (Studies 1 and 2) in 2,015 patients with known or suspected coronary artery disease who were indicated for pharmacologic stress MPI.
 A total of 1,871 of these patients had images considered valid for the primary efficacy evaluation, including 1,294 (69%) men and 577 (31%) women with a median age of 66 years (range 26–93 years of age).
@@ -25,5 +25,4 @@ Table 4 Agreement Rates in Studies 1 and 2
 | --- | --- | --- |
 | Adenoscan – Adenoscan Agreement Rate (± SE) | 61 ± 3% | 64 ± 4% |
 | Adenoscan – Lexiscan Agreement Rate (± SE) | 62 ± 2% | 63 ± 3% |
-| Rate Difference (Lexiscan – Adenoscan) (± SE) | 1 ± 4% | -1 ± 5% |
-| 95% Confidence Interval | -7.5, 9.2% | -11.2, 8.7% |
+| Rate Difference (Lexiscan – Adenoscan) (± SE)95% Confidence Interval | 1 ± 4%-7.5, 9.2% | -1 ± 5%-11.2, 8.7% |

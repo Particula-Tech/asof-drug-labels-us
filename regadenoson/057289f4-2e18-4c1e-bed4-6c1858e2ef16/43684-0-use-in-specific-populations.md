@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -9,7 +9,7 @@ Lexiscan should be used during pregnancy only if the potential benefit to the pa
 
 Reproductive studies in rats showed that regadenoson doses 10 and 20 times the maximum recommended human dose (MRHD) based on body surface area, caused reduced fetal body weights and significant ossification delays in fore- and hind limb phalanges and metatarsals; however, maternal toxicity also occurred at these doses.
 Skeletal variations were increased in all treated groups.
-In rabbits, there were no teratogenic effects in offspring at regadenoson doses 4 times the MRHD, although signs of maternal toxicity occurred at this dose.
+In rabbits, there were no Teratogenic effects in offspring at regadenoson doses 4 times the MRHD, although signs of maternal toxicity occurred at this dose.
 At regadenoson doses equivalent to 12 and 20 times the MRHD, maternal toxicity occurred along with increased embryo-fetal loss and fetal malformations.
 It is not clear whether malformations that occurred at maternally toxic doses of regadenoson in both animal species were due to fetal drug effects or only to the maternal toxic effects.
 
@@ -29,4 +29,4 @@ Safety and effectiveness in pediatric patients (< 18 years of age) have not been
 ## 8.5 Geriatric Use
 
 Of the 1,337 patients receiving Lexiscan in Studies 1 and 2, 56% were 65 years of age and over and 24% were 75 years of age and over.
-Older patients (≥ 75 years of age) had a similar adverse event profile compared to younger patients (< 65 years of age), but had a higher incidence of hypotension (2% vs. < 1%).
+Older patients (> 75 years of age) had a similar adverse event profile compared to younger patients (< 65 years of age), but had a higher incidence of hypotension (2% vs. < 1%).

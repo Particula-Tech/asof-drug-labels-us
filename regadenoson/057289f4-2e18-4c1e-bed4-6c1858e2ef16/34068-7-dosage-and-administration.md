@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 The recommended intravenous dose of Lexiscan is 5 mL (0.4 mg regadenoson)
 

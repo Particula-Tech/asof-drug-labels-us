@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Regadenoson is an A2A adenosine receptor agonist that is a coronary vasodilator [see Clinical Pharmacology (12.1)].
 Regadenoson is chemically described as adenosine, 2-[4-[(methylamino)carbonyl]-1H-pyrazol-1-yl]-, monohydrate.

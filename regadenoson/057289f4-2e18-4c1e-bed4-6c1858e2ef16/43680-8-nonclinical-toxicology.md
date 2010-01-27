@@ -1,12 +1,12 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Regadenoson was negative in the Ames bacterial mutation assay, chromosomal aberration assay in Chinese hamster ovary (CHO) cells, and mouse bone marrow micronucleus assay.
 
 Long-term animal studies have not been conducted to evaluate Lexiscan's carcinogenic potential or potential effects on fertility.
 
-## 13.2 Animal Toxicology And/Or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Reproductive Toxicology Studies
 
@@ -23,7 +23,7 @@ A no effect dose level was not identified for maternal toxicity.
 When regadenoson was administered to pregnant rats during the period of major organogenesis, 4/25 rats from the 1.0 mg/kg/day group (20 X MRHD) and 1/25 rats from the 0.8 mg/kg (16 X MRHD) group died immediately following the first dose of regadenoson.
 All dams had decreased motor activity and one was gasping post-dosing.
 At doses ≥ 0.5 mg/kg (10 X MRHD), maternal toxicity included decreased motor activity, increased limb extension, excess salivation, and reduction in body weight and feed consumption.
-At doses ≥ 0.5 mg/kg, fetal body weights were significantly reduced and significant ossification delays were observed in fore- and hindlimb phalanges and metatarsals.
+At doses ≥ 0.5 mg/kg, fetal body weights were significantly reduced and significant ossification delays were observed in fore- and hind limb phalanges and metatarsals.
 Skeletal malformations included delayed ossification of the skull (1/167), and hemivertebra present at a thoracic vertebra (1/167), observed at 16-20 X MRHD, and small arches of a lumbar and sacral vertebrae (1/174) observed at 2 X MRHD.
 The no effect dose level for maternal toxicity is 0.1 mg/kg/day (2 X MRHD).
 

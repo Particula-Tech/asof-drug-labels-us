@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Lexiscan overdosage may result in serious reactions [see Warnings and Precautions (5)].
 In a study of healthy volunteers, symptoms of flushing, dizziness and increased heart rate were assessed as intolerable at Lexiscan doses greater than 0.02 mg/kg.

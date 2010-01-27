@@ -1,4 +1,6 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -14,9 +16,8 @@ Most adverse reactions began soon after dosing, and generally resolved within ap
 
 Table 1 Adverse Reactions in Studies 1 and 2 Pooled (Frequency ≥ 5%)
 
-|  | N = 1,337 | N = 678 |
+|  | Lexiscan N = 1,337 | Adenoscan N = 678 |
 | --- | --- | --- |
-|  | Lexiscan | Adenoscan |
 | Dyspnea | 28% | 26% |
 | Headache | 26% | 17% |
 | Flushing | 16% | 25% |
@@ -45,3 +46,29 @@ Table 2 Rhythm or Conduction Abnormalities12-lead ECGs were recorded before and 
 | 2nd degree AV block | 1/1209 (0.1%) | 9/618 (1%) |
 | AV conduction abnormalities (other than AV blocks) | 1/1209 (0.1%) | 0/618 (0%) |
 | Ventricular conduction abnormalities | 64/1152 (6%) | 31/581 (5%) |
+
+## 6.2 Post-Marketing Experience
+
+Cardiovascular
+
+Heart block (including third degree block), asystole, marked hypertension, symptomatic hypotension in association with transient ischemic attack, seizures and syncope [see Warnings and Precautions (5)], requiring intervention with fluids and/or aminophylline have occurred.
+
+Central Nervous System
+
+Tremor, seizure (particularly with a history of seizure)
+
+Gastrointestinal
+
+Abdominal pain, occasionally severe, has been reported a few minutes after Lexiscan administration, in association with nausea, vomiting, or myalgias; administration of aminophylline, an adenosine antagonist, appeared to lessen the pain.
+Diarrhea and fecal incontinence have also been reported following Lexiscan administration.
+
+Musculoskeletal
+
+Musculoskeletal pain has occurred, typically 10-20 minutes after Lexiscan administration; the pain was occasionally severe, localized in the arms and lower back and extended to the buttocks and lower legs bilaterally.
+Administration of aminophylline appeared to lessen the pain.
+
+Respiratory
+
+Dyspnea and wheezing have been reported following Lexiscan administration.
+
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Lexiscan exposure.

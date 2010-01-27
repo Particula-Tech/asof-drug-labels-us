@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 No formal pharmacokinetic drug interaction studies have been conducted with Lexiscan.
 

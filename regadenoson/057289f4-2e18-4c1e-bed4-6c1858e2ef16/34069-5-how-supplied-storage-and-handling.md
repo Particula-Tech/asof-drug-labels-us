@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Lexiscan is supplied as a sterile, preservative-free solution containing 0.08 mg/mL regadenoson in the following packages:
 
