@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019908"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Caremark L.L.C.",
+  "package_ndcs": [
+    "0024-5421-50",
+    "0339-4164-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zolpidem tartrate",
+      "name": "Ambien"
+    }
+  ],
+  "setid": "f5363677-fe2e-4285-93e6-252bc282a3de",
+  "source": "dailymed"
+}
