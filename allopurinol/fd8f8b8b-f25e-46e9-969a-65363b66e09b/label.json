@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA071450"
+  ],
   "inn": "allopurinol",
-  "labeler": "Mutual Pharmaceutical Company",
+  "labeler": "Mutual Pharmaceutical",
   "package_ndcs": [
     "53489-156-01",
     "53489-156-02",
@@ -13,7 +15,13 @@
     "53489-157-07",
     "53489-157-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "allopurinol",
+      "name": "Allopurinol"
+    }
+  ],
   "setid": "fd8f8b8b-f25e-46e9-969a-65363b66e09b",
   "source": "dailymed"
 }

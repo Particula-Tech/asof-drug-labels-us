@@ -15,7 +15,11 @@ The explanation for this decrease is not obvious.
 The incidence of skin rash may be increased in the presence of renal insufficiency.
 The frequency of skin rash among patients receiving ampicillin or amoxicillin concurrently with allopurinol has been reported to be increased (see PRECAUTIONS).
 
-## Most Common Reactions* Probably Causally Related
+Most Common ReactionsEarly clinical studies and incidence rates from early clinical experience with allopurinol suggested that these adverse reactions were found to occur at a rate of greater than 1%.
+The most frequent event observed was acute attacks of gout following the initiation of therapy.
+Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.
+The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
+Probably Causally Related:
 
 Gastrointestinal: Diarrhea, nausea, alkaline phosphatase increase, SGOT/SGPT increase.
 
@@ -23,12 +27,7 @@ Metabolic and Nutritional: Acute attacks of gout.
 
 Skin and Appendages: Rash, maculopapular rash.
 
-*Early clinical studies and incidence rates from early clinical experience with allopurinol suggested that these adverse reactions were found to occur at a rate of greater than 1%.
-The most frequent event observed was acute attacks of gout following the initiation of therapy.
-Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.
-The explanation for this decrease has not been determined, but it may be due to following recommended usage (See ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTION and DOSAGE AND ADMINISTRATION).
-
-## Incidence Less Than 1% Probably Causally Related
+Incidence Less Than 1% Probably Causally Related:
 
 Body as a whole: Ecchymosis, fever, headache.
 
@@ -50,7 +49,7 @@ Special Senses: Taste loss/perversion.
 
 Urogenital: Renal failure, uremia (see PRECAUTIONS).
 
-## Incidence Less Than 1% Causal Relationship Unknown
+Incidence Less Than 1% Causal Relationship Unknown:
 
 Body as a whole: Malaise.
 

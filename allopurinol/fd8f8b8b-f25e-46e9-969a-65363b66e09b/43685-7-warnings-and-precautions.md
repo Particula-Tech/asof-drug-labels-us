@@ -3,11 +3,11 @@
 ALLOPURINOL SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE AN ALLERGIC REACTION.
 In some instances a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial and purpuric lesions, as well as Stevens-Johnson syndrome (erythema multiforme exudativum), and/or generalized vasculitis, irreversible hepatotoxicity, and, on rare occasions, death.
 
-In patients receiving PURINETHOL®PURINETHOL® is a registered trademark of TEVA Pharmaceuticals USA (mercaptopurine) or IMURAN®IMURAN® is a registered trademark of Prometheus Laboratories, Inc. (azathioprine), the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
+In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
 Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
 
-A few cases of reversible clinical hepatotoxicity have been noted in patients taking allopurinol, and in some patients asymptomatic rises in serum alkaline phosphatase or serum transaminase have been observed.
-If anorexia, weight loss or pruritus develop in patients on allopurinol, evaluation of liver function should be part of their diagnostic workup.
+A few cases of reversible clinical hepatotoxicity have been noted in patients taking allopurinol, and in some patients, asymptomatic rises in serum alkaline phosphatase or serum transaminase have been observed.
+If anorexia, weight loss, or pruritus develop in patients on allopurinol, evaluation of liver function should be part of their diagnostic workup.
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy.
 
 Due to the occasional occurrence of drowsiness, patients should be alerted to the need for due precaution when engaging in activities where alertness is mandatory.
@@ -30,7 +30,7 @@ Even with adequate therapy with allopurinol, it may require several months to de
 A fluid intake sufficient to yield a daily urinary output of at least 2 liters and the maintenance of a neutral or, preferably, slightly alkaline urine are desirable to (1) avoid the theoretical possibility of formation of xanthine calculi under the influence of therapy with allopurinol and (2) help prevent renal precipitation of urates in patients receiving concomitant uricosuric agents.
 
 Some patients with pre-existing renal disease or poor urate clearance have shown a rise in BUN during administration of allopurinol.
-Although the mechanism responsible for this has not been established, patients with impaired renal function should be carefully observed during the early stages of administration of allopurinol and dosage decreased or the drug withdrawn if increased abnormalities in renal function appear and persist.
+Although the mechanism responsible for this has not been established, patients with impaired renal function should be carefully observed during the early stages of administration of allopurinol and the dosage decreased or the drug withdrawn if increased abnormalities in renal function appear and persist.
 
 Renal failure in association with administration of allopurinol has been observed among patients with hyperuricemia secondary to neoplastic diseases.
 Concurrent conditions such as multiple myeloma and congestive myocardial disease were present among those patients whose renal dysfunction increased after allopurinol was begun.
@@ -40,7 +40,7 @@ Albuminuria has been observed among patients who developed clinical gout followi
 Patients with decreased renal function require lower doses of allopurinol than those with normal renal function.
 Lower than recommended doses should be used to initiate therapy in any patients with decreased renal function and they should be observed closely during the early stages of administration of allopurinol.
 In patients with severely impaired renal function or decreased urate clearance, the half-life of oxipurinol in the plasma is greatly prolonged.
-Therefore, a dose of 100 mg per day or 300 mg twice a week, or perhaps less, may be sufficient to maintain adequate xanthine oxidase inhibition to reduce urate levels.
+Therefore, a dose of 100 mg per day or 300 mg twice a week, or perhaps less, may be sufficient to maintain adequate xanthine oxidase inhibition to reduce serum urate levels.
 
 Bone marrow depression has been reported in patients receiving allopurinol, most of whom received concomitant drugs with the potential for causing this reaction.
 This has occurred as early as 6 weeks to as long as 6 years after the initiation of therapy of allopurinol.
@@ -54,7 +54,7 @@ Patients should be informed of the following:
 (2) They should be reminded to continue drug therapy prescribed for gouty attacks since optimal benefit of allopurinol may be delayed for 2 to 6 weeks.
 (3) They should be encouraged to increase fluid intake during therapy to prevent renal stones.
 (4) If a single dose of allopurinol is occasionally forgotten, there is no need to double the dose at the next scheduled time.
-(5) There may be certain risks associated with the concomitant use of allopurinol and dicumarol, sulfinpyrazone, mercaptopurine, azathioprine, ampicillin, amoxicillin and thiazide diuretics, and they should follow the instructions of their physician.
+(5) There may be certain risks associated with the concomitant use of allopurinol and dicumarol, sulfinpyrazone, mercaptopurine, azathioprine, ampicillin, amoxicillin, and thiazide diuretics, and they should follow the instructions of their physician.
 (6) Due to the occasional occurrence of drowsiness, patients should take precautions when engaging in activities where alertness is mandatory.
 (7) Patients may wish to take allopurinol after meals to minimize gastric irritation.
 
@@ -65,19 +65,19 @@ The correct dosage and schedule for maintaining the serum uric acid within the n
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy (see WARNINGS).
 
 Allopurinol and its primary active metabolite, oxipurinol, are eliminated by the kidneys; therefore, changes in renal function have a profound effect on dosage.
-In patients with decreased renal function or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient's allopurinol dosage reassessed.
+In patients with decreased renal function or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient's dosage of allopurinol reassessed.
 
 The prothrombin time should be reassessed periodically in the patients receiving dicumarol who are given allopurinol.
 
 ## Drug Interactions
 
-In patients receiving mercaptopurine or IMURAN® (azathioprine), the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one third to one fourth of the usual dose of mercaptopurine or azathioprine.
+In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one third to one fourth of the usual dose of mercaptopurine or azathioprine.
 Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
 
 It has been reported that allopurinol prolongs the half-life of the anticoagulant, dicumarol.
 The clinical basis of this drug interaction has not been established but should be noted when allopurinol is given to patients already on dicumarol therapy.
 
-Since the excretion of oxipurinol is similar to that of urate, uricosuric agents, which increase the excretion of urate, are also likely to increase the excretion of oxipurinol and thus lower the degree in inhibition of xanthine oxidase.
+Since the excretion of oxipurinol is similar to that of urate, uricosuric agents, which increase the excretion of urate, are also likely to increase the excretion of oxipurinol and thus lower the degree of inhibition of xanthine oxidase.
 The concomitant administration of uricosuric agents and allopurinol has been associated with a decrease in the excretion of oxypurines (hypoxanthine and xanthine) and an increase in urinary uric acid excretion compared with that observed with allopurinol alone.
 Although clinical evidence to date has not demonstrated renal precipitation of oxypurines in patients either on allopurinol alone or in combination with uricosuric agents, the possibility should be kept in mind.
 

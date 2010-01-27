@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
 The dosage of allopurinol to accomplish full control of gout and to lower serum uric acid to normal or near-normal levels varies with the severity of the disease.
-The average is 200 to 300 mg/day for patients with mild gout and 400/600 mg per day for those with moderately severe tophaceous gout.
-The appropriate dosage may be administered in divided doses or as a single equivalent dose with the 300 mg tablet.
+The average is 200 to 300 mg/day for patients with mild gout and 400 to 600 mg/day for those with moderately severe tophaceous gout.
+The appropriate dosage may be administered in divided doses or as a single equivalent dose with the 300-mg tablet.
 Dosage requirements in excess of 300 mg should be administered in divided doses.
 The minimal effective dosage is 100 to 200 mg daily and the maximal recommended dosage is 800 mg daily.
 To reduce the possibility of flare-up of acute gouty attacks, it is recommended that the patient start with a low dose of allopurinol (100 mg daily) and increase at weekly intervals by 100 mg until a serum uric acid level of 6 mg/dL or less is attained but without exceeding the maximal recommended dosage.
@@ -21,7 +21,7 @@ A fluid intake sufficient to yield a daily urinary output of at least 2 liters a
 
 Since allopurinol and its metabolites are primarily eliminated only by the kidney, accumulation of the drug can occur in renal failure, and the dose of allopurinol should consequently be reduced.
 With a creatinine clearance of 10 to 20 mL/min, a daily dosage of 200 mg of allopurinol is suitable.
-When the creatinine clearance is less than 10 mL/min the daily dosage should not exceed 100 mg.
+When the creatinine clearance is less than 10 mL/min, the daily dosage should not exceed 100 mg.
 With extreme renal impairment (creatinine clearance less than 3 mL/min) the interval between doses may also need to be lengthened.
 
 The correct size and frequency of dosage for maintaining the serum uric acid just within the normal range is best determined by using the serum uric acid level as an index.
@@ -31,7 +31,7 @@ Otherwise similar considerations to the above recommendations for treating patie
 
 The dose of allopurinol recommended for management of recurrent calcium oxalate stones in hyperuricosuric patients is 200 to 300 mg/day in divided doses or as the single equivalent.
 This dose may be adjusted up or down depending upon the resultant control of the hyperuricosuria based upon subsequent 24 hour urinary urate determinations.
-Clinical experience suggests that patients with recurrent calcium oxalate stones may also benefit from dietary changes such as the reduction of animal protein, sodium, refined sugars, oxalate-rich foods, and excessive calcium intake as well as an increase in oral fluids and dietary fiber.
+Clinical experience suggests that patients with recurrent calcium oxalate stones may also benefit from dietary changes such as the reduction of animal protein, sodium, refined sugars, oxalate-rich foods, and excessive calcium intake, as well as an increase in oral fluids and dietary fiber.
 
 Children, 6 to 10 years of age, with secondary hyperuricemia associated with malignancies may be given 300 mg allopurinol daily while those under 6 years are generally given 150 mg daily.
 The response is evaluated after approximately 48 hours of therapy and a dosage adjustment is made if necessary.

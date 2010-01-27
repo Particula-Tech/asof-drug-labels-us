@@ -21,10 +21,10 @@ This enzyme is required for the conversion of hypoxanthine, xanthine, and guanin
 The third patient had lymphosarcoma and produced an extremely large amount of uric acid because of rapid cell lysis during chemotherapy.
 
 Allopurinol is approximately 90% absorbed from the gastrointestinal tract.
-Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively and after a single oral dose.
+Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively, and after a single oral dose of 300 mg allopurinol, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
 
 Approximately 20% of the ingested allopurinol is excreted in the feces.
-Because of its rapid oxidation to oxipurinol and a renal clearance rate approximately that of glomerular filtration rate, allopurinol has a plasma half-life of about 1-2 hours.
+Because of its rapid oxidation to oxipurinol and a renal clearance rate approximately that of glomerular filtration rate, allopurinol has a plasma half-life of about 1 to 2 hours.
 Oxipurinol, however, has a longer plasma half-life (approximately 15 hours) and therefore effective xanthine oxidase inhibition is maintained over a 24-hour period with single daily doses of allopurinol.
 Whereas allopurinol is cleared essentially by glomerular filtration, oxipurinol is reabsorbed in the kidney tubules in a manner similar to the reabsorption of uric acid.
 
@@ -32,8 +32,8 @@ The clearance of oxipurinol is increased by uricosuric drugs, and as a consequen
 In practice, the net effect of such combined therapy may be useful in some patients in achieving minimum serum uric acid levels provided the total urinary uric acid load does not exceed the competence or the patient's renal function.
 
 Hyperuricemia may be primary, as in gout, or secondary to diseases such as acute and chronic leukemia, polycythemia vera, multiple myeloma, and psoriasis.
-It may occur with the use of diuretic agents, during renal dialysis, in the presence of renal damage, during starvation or reducing diets and in the treatment of neoplastic disease where rapid resolution of tissue masses may occur.
-Asymptomatic hyperuricemia is not an indication for treatment with all allopurinol (see INDICATIONS AND USAGE).
+It may occur with the use of diuretic agents, during renal dialysis, in the presence of renal damage, during starvation or reducing diets, and in the treatment of neoplastic disease where rapid resolution of tissue masses may occur.
+Asymptomatic hyperuricemia is not an indication for treatment with allopurinol (see INDICATIONS AND USAGE).
 
 Gout is a metabolic disorder which is characterized by hyperuricemia and resultant deposition of monosodium urate in the tissues, particularly the joints and kidneys.
 The etiology of this hyperuricemia is the overproduction of uric acid in relation to the patient's ability to excrete it.

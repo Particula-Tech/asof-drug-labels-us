@@ -2,7 +2,7 @@
 
 Allopurinol has the following structural formula:
 
-Allopurinol is known chemically as 1,5-dihydro-4H-pyrazolo[3,4-d]pyrimidin-4-one.
+Allopurinol is known chemically as 1,5-dihydro-4H-pyrazolo [3,4-d]pyrimidin-4-one.
 It is a xanthine oxidase inhibitor which is administered orally.
 
 Inactive Ingredients: corn starch, croscarmellose sodium, lactose, magnesium stearate, povidone.
