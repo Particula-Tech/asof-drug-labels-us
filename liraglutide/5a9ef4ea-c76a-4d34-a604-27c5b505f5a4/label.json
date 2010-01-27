@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022341"
+  ],
+  "inn": "liraglutide",
+  "labeler": "Novo Nordisk",
+  "package_ndcs": [
+    "0169-4060-12",
+    "0169-4060-13",
+    "0169-4060-90"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "liraglutide (rdna origin) injection",
+      "name": "Victoza"
+    }
+  ],
+  "setid": "5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+  "source": "dailymed"
+}
