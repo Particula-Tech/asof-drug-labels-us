@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020943"
+  ],
   "inn": "verapamil",
-  "labeler": "Schwarz Pharma",
+  "labeler": "SCHWARZ PHARMA, LLC, A Subsidiary of UCB, Inc.",
   "package_ndcs": [
     "0091-4085-01",
     "0091-4086-01",
     "0091-4087-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "verapamil hydrochloride",
+      "name": "VERELAN PM"
+    }
+  ],
   "setid": "7c822705-827f-43c7-8c27-35bc31cf6484",
   "source": "dailymed"
 }
