@@ -1,4 +1,4 @@
-Manufactured by: Sun Pharmaceuticals Industries Ltd. Acme Plaza, Andheri Kurla Road, Andheri (East), Mumbai-400 059, India.
+Manufactured by: Sun Pharmaceutical Industries Ltd. Acme Plaza, Andheri Kurla Road, Andheri (East), Mumbai-400 059, India.
 
 Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive, Detroit, MI 48202
 

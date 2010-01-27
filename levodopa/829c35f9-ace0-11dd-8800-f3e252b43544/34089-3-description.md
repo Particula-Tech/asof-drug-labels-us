@@ -14,9 +14,11 @@ Its empirical formula is C9H11NO4 and its structural formula is:
 
 Carbidopa-levodopa is supplied as tablets in three strengths:
 
-- Carbidopa and levodopa tablets 25 mg/100 mg, containing 25 mg of carbidopa and 100 mg of levodopa.
-- Carbidopa and levodopa tablets 10 mg/100 mg, containing 10 mg of carbidopa and 100 mg of levodopa.
-- Carbidopa and levodopa tablets 25 mg/250 mg, containing 25 mg of carbidopa and 250 mg of levodopa.
+Carbidopa and levodopa tablets 25 mg/100 mg, containing 25 mg of carbidopa and 100 mg of levodopa.
+
+Carbidopa and levodopa tablets 10 mg/100 mg, containing 10 mg of carbidopa and 100 mg of levodopa.
+
+Carbidopa and levodopa tablets 25 mg/250 mg, containing 25 mg of carbidopa and 250 mg of levodopa.
 
 Inactive ingredients are microcrystalline cellulose, corn starch, pregelatinized starch, sodium starch glycolate, magnesium stearate.
 Carbidopa and levodopa tablets 10 mg/100 mg and 25 mg/250 mg also contain FD&C Blue 2.

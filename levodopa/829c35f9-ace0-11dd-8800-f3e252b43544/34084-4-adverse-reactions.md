@@ -35,7 +35,7 @@ Cardiovascular: myocardial infarction.
 
 Gastrointestinal: gastrointestinal pain, dysphagia, sialorrhea, flatulence, bruxism, burning sensation of the tongue, heartburn, hiccups.
 
-Gastrointestinal: edema, weight gain, weight loss.
+Metabolic: edema, weight gain, weight loss.
 
 Musculoskeletal: leg pain.
 
@@ -48,5 +48,7 @@ Skin: malignant melanoma (see also CONTRAINDICATIONS), flushing.
 Special Senses: oculogyric crises, diplopia, blurred vision, dilated pupils.
 
 Urogenital: urinary retention, urinary incontinence, priapism.
+
+Miscellaneous: bizarre breathing patterns, faintness, hoarseness, malaise, hot flashes, sense of stimulation.
 
 Laboratory Tests: decreased white blood cell count and serum potassium; increased serum creatinine and uric acid; protein and glucose in urine.

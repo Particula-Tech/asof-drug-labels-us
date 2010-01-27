@@ -85,8 +85,7 @@ Symptomatic postural hypotension has occurred when carbidopa-levodopa tablet was
 Therefore, when therapy with carbidopa-levodopa is started, dosage adjustment of the antihypertensive drug may be required.
 
 For patients receiving MAO inhibitors (Type A or B), see CONTRAINDICATIONS.
-Concomitant therapy with selegiline and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone.
-See CONTRAINDICATIONS.
+Concomitant therapy with selegiline and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone [See CONTRAINDICATIONS].
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa.
 

@@ -1,10 +1,10 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
-
 Parkinson's disease is a progressive, neurodegenerative disorder of the extrapyramidal nervous system affecting the mobility and control of the skeletal muscular system.
 Its characteristic features include resting tremor, rigidity, and bradykinetic movements.
 Symptomatic treatments, such as levodopa therapies, may permit the patient better mobility.
+
+## Mechanism of Action
 
 Current evidence indicates that symptoms of Parkinson's disease are related to depletion of dopamine in the corpus striatum.
 Administration of dopamine is ineffective in the treatment of Parkinson's disease apparently because it does not cross the blood-brain barrier.
