@@ -33,19 +33,13 @@ The multiple-dose vial of Lovenox contains 15 mg benzyl alcohol per 1 mL as a pr
 Data
 
 - Human Data - There are no adequate and well-controlled studies in pregnant women.
-
-A retrospective study reviewed the records of 604 women who used enoxaparin during pregnancy.
-A total of 624 pregnancies resulted in 693 live births.
-There were 72 hemorrhagic events (11 serious) in 63 women.
-There were 14 cases of neonatal hemorrhage.
-Major congenital anomalies in live births occurred at rates (2.5%) similar to background rates.
-
-There have been postmarketing reports of fetal death when pregnant women received Lovenox.
-Causality for these cases has not been determined.
-Insufficient data, the underlying disease, and the possibility of inadequate anticoagulation complicate the evaluation of these cases.
-
-A clinical study using enoxaparin in pregnant women with mechanical prosthetic heart valves has been conducted [see Warnings and Precautions (5.7)].
-
+  A retrospective study reviewed the records of 604 women who used enoxaparin during pregnancy.
+  A total of 624 pregnancies resulted in 693 live births.
+  There were 72 hemorrhagic events (11 serious) in 63 women.
+  There were 14 cases of neonatal hemorrhage.
+  Major congenital anomalies in live births occurred at rates (2.5%) similar to background rates.There have been postmarketing reports of fetal death when pregnant women received Lovenox.
+  Causality for these cases has not been determined.
+  Insufficient data, the underlying disease, and the possibility of inadequate anticoagulation complicate the evaluation of these cases.A clinical study using enoxaparin in pregnant women with mechanical prosthetic heart valves has been conducted [see Warnings and Precautions (5.7)].
 - Animal Data - Teratology studies have been conducted in pregnant rats and rabbits at SC doses of enoxaparin up to 15 times the recommended human dose (by comparison with 2 mg/kg as the maximum recommended daily dose).
   There was no evidence of teratogenic effects or fetotoxicity due to enoxaparin.
   Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

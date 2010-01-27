@@ -3,7 +3,7 @@
 ## 5.1 Increased Risk of Hemorrhage
 
 Cases of epidural or spinal hematomas have been reported with the associated use of Lovenox and spinal/epidural anesthesia or spinal puncture resulting in long-term or permanent paralysis.
-The risk of these events is higher with the use of post-operative indwelling epidural catheters or by the concomitant use of additional drugs affecting hemostasis such as NSAIDs [see Boxed Warning, Adverse Reactions (6.2) and Drug Interactions (7)].
+The risk of these events is higher with the use of post-operative indwelling epidural catheters, with the concomitant use of additional drugs affecting hemostasis such as NSAIDs, with traumatic or repeated epidural or spinal puncture, or in patients with a history of spinal surgery or spinal deformity [see Boxed Warning, Adverse Reactions (6.2) and Drug Interactions (7)].
 
 Lovenox should be used with extreme caution in conditions with increased risk of hemorrhage, such as bacterial endocarditis, congenital or acquired bleeding disorders, active ulcerative and angiodysplastic gastrointestinal disease, hemorrhagic stroke, or shortly after brain, spinal, or ophthalmological surgery, or in patients treated concomitantly with platelet inhibitors.
 

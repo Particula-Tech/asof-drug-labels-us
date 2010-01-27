@@ -4,9 +4,9 @@
 
 The following serious adverse reactions are also discussed in other sections of the labeling:
 
-- Spinal/epidural hematoma [see Boxed Warning]
+- Spinal/epidural hematoma [see Boxed Warning and Warnings and Precautions (5.1)]
 - Increased Risk of Hemorrhage [see Warnings and Precautions (5.1)]
-- Thrombocytopenia [see Warnings and Precautions (5.1)]
+- Thrombocytopenia [see Warnings and Precautions (5.5)]
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -75,7 +75,7 @@ Table 7 Major Bleeding Episodes in Acute ST-Segment Elevation Myocardial Infarct
 | Indication | LovenoxThe rates represent major bleeding (including ICH) up to 30 days Initial 30 mg IV bolus followed by 1 mg/kg q12h SC | Heparin aPTT Adjusted IV Therapy |
 | --- | --- | --- |
 |  | Dosing Regimen |  |
-| Acute ST-Segment Elevation Myocardial Infarction, | n = 10176 n (%) | n = 10151 n (%) |
+| Acute ST-Segment Elevation Myocardial Infarction | n = 10176 n (%) | n = 10151 n (%) |
 | - Major bleeding (including ICH) Bleedings were considered major if the hemorrhage caused a significant clinical event associated with a hemoglobin decrease by ≥ 5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
 | - Intracranial hemorrhages (ICH) | 84 (0.8) | 66 (0.7) |
 
@@ -169,6 +169,7 @@ The majority of patients had a post-operative indwelling epidural catheter place
 Many of the epidural or spinal hematomas caused neurologic injury, including long-term or permanent paralysis.
 
 Local reactions at the injection site (e.g. nodules, inflammation, oozing), systemic allergic reactions (e.g. pruritus, urticaria, anaphylactic/anaphylactoid reactions), vesiculobullous rash, rare cases of hypersensitivity cutaneous vasculitis, purpura, skin necrosis (occurring at either the injection site or distant from the injection site), thrombocytosis, and thrombocytopenia with thrombosis [see Warnings and Precautions (5.5)] have been reported.
+
 Cases of hyperkalemia have been reported.
 Most of these reports occurred in patients who also had conditions that tend toward the development of hyperkalemia (e.g., renal dysfunction, concomitant potassium-sparing drugs, administration of potassium, hematoma in body tissues).
 Very rare cases of hyperlipidemia have also been reported, with one case of hyperlipidemia, with marked hypertriglyceridemia, reported in a diabetic pregnant woman; causality has not been determined.
