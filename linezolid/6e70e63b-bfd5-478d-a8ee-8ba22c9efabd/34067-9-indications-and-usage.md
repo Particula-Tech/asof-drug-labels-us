@@ -5,6 +5,7 @@ Linezolid is not indicated for the treatment of Gram-negative infections.
 It is critical that specific Gram-negative therapy be initiated immediately if a concomitant Gram-negative pathogen is documented or suspected (see WARNINGS).
 
 Vancomycin-Resistant Enterococcus faecium infections, including cases with concurrent bacteremia.
+(see CLINICAL STUDIES)
 
 Nosocomial pneumonia caused by Staphylococcus aureus (methicillin-susceptible and -resistant strains), or Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]).
 

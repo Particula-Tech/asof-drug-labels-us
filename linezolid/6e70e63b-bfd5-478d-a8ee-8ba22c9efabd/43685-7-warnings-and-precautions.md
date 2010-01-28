@@ -114,8 +114,9 @@ Serotonergic Agents: Co-administration of linezolid and serotonergic agents was 
 Spontaneous reports of serotonin syndrome associated with co-administration of ZYVOX and serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs), have been reported.
 Patients who are treated with ZYVOX and concomitant serotonergic agents should be closely observed as described in the PRECAUTIONS, General Section.
 
-Antibiotics: In healthy volunteers, coadministration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax and a 32% decrease in linezolid AUC (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
+Strong CYP450 Inducers: In a study in healthy volunteers, co-administration of rifampin with oral linezolid resulted in a 21% decrease in linezolid Cmax and a 32% decrease in linezolid AUC0–12.
 The clinical significance of this interaction is unknown.
+Other strong inducers of hepatic enzymes (e.g. carbamazepine, phenytoin, phenobarbital) could cause a similar or smaller decrease in linezolid exposure (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions)
 
 ## Drug-Laboratory Test Interactions
 

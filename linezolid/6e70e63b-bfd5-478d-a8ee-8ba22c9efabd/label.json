@@ -1,5 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021130",
+    "NDA021131",
+    "NDA021132"
+  ],
   "inn": "linezolid",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -14,7 +18,23 @@
     "0009-5139-01",
     "0009-5140-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "linezolid",
+      "name": "Zyvox"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "linezolid",
+      "name": "Zyvox"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linezolid",
+      "name": "Zyvox"
+    }
+  ],
   "setid": "6e70e63b-bfd5-478d-a8ee-8ba22c9efabd",
   "source": "dailymed"
 }

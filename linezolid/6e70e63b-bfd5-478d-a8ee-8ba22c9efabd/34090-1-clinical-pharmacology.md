@@ -41,8 +41,9 @@ The ratio of linezolid in saliva relative to plasma was 1.2 to 1 and for sweat r
 ### Metabolism
 
 Linezolid is primarily metabolized by oxidation of the morpholine ring, which results in two inactive ring-opened carboxylic acid metabolites: the aminoethoxyacetic acid metabolite (A), and the hydroxyethyl glycine metabolite (B).
-Formation of metabolite B is mediated by a non-enzymatic chemical oxidation mechanism in vitro.
-Linezolid is not an inducer of cytochrome P450 (CYP) in rats, and it has been demonstrated from in vitro studies that linezolid is not detectably metabolized by human cytochrome P450 and it does not inhibit the activities of clinically significant human CYP isoforms (1A2, 2C9, 2C19, 2D6, 2E1, 3A4).
+Formation of metabolite A is presumed to be formed via an enzymatic pathway whereas metabolite B is mediated by a non-enzymatic chemical oxidation mechanism in vitro.
+In vitro studies have demonstrated that linezolid is minimally metabolized and may be mediated by human cytochrome P450.
+However, the metabolic pathway of linezolid is not fully understood.
 
 ### Excretion
 
@@ -76,9 +77,9 @@ Therefore, the dosage for pediatric patients up to 11 years of age should be 10 
 Pediatric patients 12 years and older should receive 600 mg q12h (see DOSAGE AND ADMINISTRATION).
 
 Table 2.
-Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV; [Min, Max Values])
+Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | Cmax µg/mL | Vss L/kg | AUC AUC = Single dose AUC0–∞ µg • h/mL | t1/2 hrs | CL mL/min/kg |
+| Age Group | Cmax µg/mL | Vss L/kg | AUC AUC = Single dose AUC0–∞ µg • h/mL | t 1/2 hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
 | Neonatal Patients Pre-termIn this data set, "pre-term" is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) < 1 week (N=9)Dose of 10 mg/kg | 12.7 (30%) [9.6, 22.2] | 0.81 (24%) [0.43, 1.05] | 108 (47%) [41, 191] | 5.6 (46%) [2.4, 9.8] | 2.0 (52%) [0.9, 4.0] |
 | Full-termIn this data set, "full-term" is defined as ≥34 weeks gestational age < 1 week (N=10) | 11.5 (24%) [8.0, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3.0 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
@@ -113,7 +114,7 @@ Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metab
 
 | Off Dialysisbetween hemodialysis sessions | On Dialysis |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Parameter | Healthy Subjects CLCR> 80 mL/min | Moderate Renal Impairment 30 < CLCR< 80 mL/min | Severe Renal Impairment 10 < CLCR< 30 mL/min | Hemodialysis-Dependent |  |
+| Parameter | Healthy Subjects CLCR > 80 mL/min | Moderate Renal Impairment 30 < CLCR < 80 mL/min | Severe Renal Impairment 10 < CLCR < 30 mL/min | Hemodialysis-Dependent |  |
 | Linezolid |  |  |  |  |  |
 | AUC0–∞, µg h/mL | 110 (22) | 128 (53) | 127 (66) | 141 (45) | 83 (23) |
 | t1/2, hours | 6.4 (2.2) | 6.1 (1.7) | 7.1 (3.7) | 8.4 (2.7) | 7.0 (1.8) |
@@ -122,7 +123,7 @@ Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metab
 | t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9.0 (4.6) | NA | NA |
 | Metabolite B |  |  |  |  |  |
 | AUC0–48, µg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) | 467 (102) | 239 (44) |
-| t1/2;, hours | 6.6 (2.7) | 9.9 (7.4) | 11.0 (3.9) | NA | NA |
+| t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11.0 (3.9) | NA | NA |
 | NA = Not applicable |  |  |  |  |  |
 
 ### Hepatic Insufficiency
@@ -134,9 +135,9 @@ The pharmacokinetics of linezolid in patients with severe hepatic insufficiency 
 
 ### Drugs Metabolized by Cytochrome P450
 
-Linezolid is not an inducer of cytochrome P450 (CYP) in rats.
-It is not detectably metabolized by human cytochrome P450 and it does not inhibit the activities of clinically significant human CYP isoforms (1A2, 2C9, 2C19, 2D6, 2E1, 3A4).
-Therefore, no CYP450-induced drug interactions are expected with linezolid.
+Linezolid is not an inducer of cytochrome P450 (CYP450) in rats.
+In addition, linezolid does not inhibit the activities of clinically significant human CYP isoforms (e.g., 1A2, 2C9, 2C19, 2D6, 2E1, 3A4).
+Therefore, linezolid is not expected to affect the pharmacokinetics of other drugs metabolized by these major enzymes.
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
@@ -146,9 +147,10 @@ Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when a
 
 Gentamicin: The pharmacokinetics of linezolid or gentamicin are not altered when administered together.
 
-Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was studied in sixteen healthy adult male volunteers administered linezolid 600 mg twice daily for 2.5 days with and without rifampin 600 mg once daily for 8 days.
-Rifampin decreased the linezolid Cmax and AUC by a mean 21% [90% CI, 15, 27] and a mean 32% [90% CI, 27, 37], respectively.
-The mechanism of this interaction and its clinical significance are unknown (see PRECAUTIONS, Drug Interactions).
+Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was evaluated in a study of 16 healthy adult males.
+Volunteers were administered oral linezolid 600 mg twice daily for 5 doses with and without rifampin 600 mg once daily for 8 days.
+Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax [90% CI, 15% – 27%] and a 32% decrease in linezolid AUC0–12 [90% CI, 27% – 37%].
+The mechanism of this interaction is not fully understood and may be related to the induction of hepatic enzymes (see PRECAUTIONS, Drug Interactions).
 
 ### Monoamine Oxidase Inhibition
 
@@ -196,11 +198,8 @@ Linezolid has been shown to be active against most isolates of the following mic
 
 ## Aerobic and facultative Gram-positive microorganisms
 
-- Enterococcus faecium (vancomycin-resistant strains only)
-- Staphylococcus aureus (including methicillin-resistant strains)
-- Streptococcus agalactiae
-- Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]MDRSP refers to isolates resistant to two or more of the following antibiotics: penicillin, second-generation cephalosporins, macrolides, tetracycline, and trimethoprim/sulfamethoxazole.)
-- Streptococcus pyogenes
+Enterococcus faecium (vancomycin-resistant strains only) Staphylococcus aureus (including methicillin-resistant strains) Streptococcus agalactiae Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]MDRSP refers to isolates resistant to two or more of the following antibiotics: penicillin, second-generation cephalosporins, macrolides, tetracycline, and trimethoprim/sulfamethoxazole.)
+Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for linezolid.
@@ -208,15 +207,11 @@ However, the safety and effectiveness of linezolid in treating clinical infectio
 
 ## Aerobic and facultative Gram-positive microorganisms
 
-- Enterococcus faecalis (including vancomycin-resistant strains)
-- Enterococcus faecium (vancomycin-susceptible strains)
-- Staphylococcus epidermidis (including methicillin-resistant strains)
-- Staphylococcus haemolyticus
-- Viridans group streptococci
+Enterococcus faecalis (including vancomycin-resistant strains) Enterococcus faecium (vancomycin-susceptible strains) Staphylococcus epidermidis (including methicillin-resistant strains) Staphylococcus haemolyticus Viridans group streptococci
 
 ## Aerobic and facultative Gram-negative microorganisms
 
-- Pasteurella multocida
+Pasteurella multocida
 
 ## Susceptibility Testing Methods
 
