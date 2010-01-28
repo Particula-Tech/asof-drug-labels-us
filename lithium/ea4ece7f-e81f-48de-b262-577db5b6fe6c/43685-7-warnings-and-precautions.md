@@ -13,13 +13,13 @@ Morphologic changes have also been seen in manic-depressive patients never expos
 The relationship between renal function and morphologic changes and their association with lithium therapy have not been established.
 
 Kidney function should be assessed prior to and during lithium therapy.
-Routine urinalysis and other tests may be used to evaluate tubular function (e.g. urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g. serum creatinine or creatinine clearance).
-During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for re-evaluation of treatment.
+Routine urinalysis and other tests may be used to evaluate tubular function (eg, urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (eg, serum creatinine or creatinine clearance).
+During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for reevaluation of treatment.
 
-An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes BUN and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol.
+An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol.
 In some instances, the syndrome was followed by irreversible brain damage.
 Because of possible causal relationship between these events and the concomitant administration of lithium and neuroleptic drugs, patients receiving such combined therapy or patients with organic brain syndrome or other CNS impairment should be monitored closely for early evidence of neurologic toxicity and treatment discontinued promptly if such signs appear.
-The encephalopathic syndrome may be similar to or the same as Neuroleptic Malignant Syndrome (NMS).
+This encephalopathic syndrome may be similar to or the same as Neuroleptic Malignant Syndrome (NMS).
 
 Lithium toxicity is closely related to serum lithium concentrations and can occur at doses close to therapeutic concentrations (see DOSAGE AND ADMINISTRATION).
 
@@ -30,16 +30,16 @@ Therefore, neuromuscular blocking agents should be given with caution to patient
 
 ## Usage in Pregnancy
 
-Adverse effects on nidation in rats, embryo viability in mice, and metabolism in vitro of rat testis and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palate in mice.
+Adverse effects on nidationin rats, embryo viability in mice, and metabolism in vitro of rat testis and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palate in mice.
 
 In humans, lithium may cause fetal harm when administered to a pregnant woman.
-Data from lithium birth registries suggest an increase in cardiac and other anomalies especially Ebstein’s anomaly.
-If this drug is used in women of childbearing potential, or during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be appraised by their physician of the potential hazard to the fetus.
+Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein's anomaly.
+If this drug is used in women of childbearing potential, or during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised by their physician of the potential hazard to the fetus.
 
 ## Usage in Nursing Mothers
 
 Lithium is excreted in human milk.
-Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of a physician, the potential benefits to the mother outweigh possible hazard to the infant or neonate.
+Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of the physician, the potential benefits to the mother outweigh possible hazard to the infant or neonate.
 Signs and symptoms of lithium toxicity such as hypertonia, hypothermia, cyanosis, and ECG changes have been reported in some infants and neonates.
 
 ## Pediatric Use
@@ -50,7 +50,7 @@ There has been a report of transient syndrome of acute dystonia and hyperreflexi
 
 # PRECAUTIONS
 
-The ability to tolerate lithium is greater during the acute manic phase and decreases when manic symptoms subside (seeDOSAGE AND ADMINISTRATION).
+The ability to tolerate lithium is greater during the acute manic phase and decreases when manic symptoms subside (see DOSAGE AND ADMINISTRATION).
 
 The distribution space of lithium approximates that of total body water.
 Lithium is primarily excreted in urine with insignificant excretion in feces.
@@ -65,7 +65,6 @@ In addition to sweating and diarrhea, concomitant infection with elevated temper
 Previously existing thyroid disorders do not necessarily constitute a contraindication to lithium treatment.
 Where hypothyroidism preexists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters and/or adjustment of lithium doses, if any.
 If hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
-
 In general, the concomitant use of diuretics or angiotensin converting enzyme (ACE) inhibitors with lithium carbonate should be avoided.
 In those cases where concomitant use is necessary, extreme caution is advised since sodium loss from these drugs may reduce the renal clearance of lithium resulting in increased serum lithium concentrations with the risk of lithium toxicity.
 When such combinations are used, the lithium dosage may need to be decreased, and more frequent monitoring of lithium serum concentrations is recommended.
@@ -88,15 +87,15 @@ Patients receiving such combined therapy should be monitored closely.
 Nonsteroidal anti-inflammatory drugs (NSAIDs): Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
 In some cases, lithium toxicity has resulted from interactions between a NSAID and lithium.
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
-There is also evidence that other nonsteroidal anti-inflammatory agents, incuding the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
+There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone.
 
 Lithium may impair mental and/or physical abilities.
-Patients should be cautioned about activities requiring alertness (e.g. operating vehicles or machinery).
+Patients should be cautioned about activities requiring alertness (eg, operating vehicles or machinery).
 
 ## Usage in Pregnancy
 
-Pregnancy Category D. (SeeWARNINGS.)
+Pregnancy Category D. (See WARNINGS.)
 
 ## Usage in Nursing Mothers
 
@@ -108,9 +107,9 @@ Safety and effectiveness in pediatric patients below the age of 12 have not been
 
 ## Geriatric Use
 
-Clinical studies of LITHOBID® Tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of LITHOBID® tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatitic, renal, or cardiac function and of concomitant disease or other therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

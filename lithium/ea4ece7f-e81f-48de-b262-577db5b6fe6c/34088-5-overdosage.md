@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-The toxic concentrations for lithium (≥ 1.5 mEq/L) are close to the therapeutic concentrations (0.6-1.2 mEq/L).
+The toxic concentrations for lithium (1.5 mEq/ L) are close to the therapeutic concentrations (0.6-1.2 mEq/L).
 It is therefore important that patients and their families be cautioned to watch for early toxic symptoms and to discontinue the drug and inform the physician should they occur.
 (Toxic symptoms are listed in detail under ADVERSE REACTIONS.)
 
@@ -16,4 +16,4 @@ Urea, mannitol, and aminophylline all produce significant increases in lithium e
 Hemodialysis is an effective and rapid means of removing the ion from the severely toxic patient.
 However, patient recovery may be slow.
 
-Infection prophylaxis, regular chest x-rays, and preservation of adequate respiration are essential.
+Infection prophylaxis, regular chest X-rays, and preservation of adequate respiration are essential.

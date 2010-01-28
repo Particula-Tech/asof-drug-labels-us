@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018027"
+  ],
   "inn": "lithium",
-  "labeler": "JDS Pharmaceuticals, LLC",
+  "labeler": "NOVEN THERAPEUTICS, LLC",
   "package_ndcs": [
     "68968-4492-1"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "lithium carbonate",
+      "name": "LITHOBID"
+    }
+  ],
   "setid": "ea4ece7f-e81f-48de-b262-577db5b6fe6c",
   "source": "dailymed"
 }
