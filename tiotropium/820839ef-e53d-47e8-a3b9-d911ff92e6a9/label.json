@@ -1,13 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021395"
+  ],
   "inn": "tiotropium",
-  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
+    "0597-0075-06",
+    "0597-0075-12",
+    "0597-0075-27",
+    "0597-0075-37",
     "0597-0075-41",
     "0597-0075-47",
     "0597-0075-75"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tiotropium bromide monohydrate",
+      "name": "Spiriva"
+    }
+  ],
   "setid": "820839ef-e53d-47e8-a3b9-d911ff92e6a9",
   "source": "dailymed"
 }

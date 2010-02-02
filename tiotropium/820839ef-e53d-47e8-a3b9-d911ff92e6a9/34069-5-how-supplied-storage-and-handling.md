@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 SPIRIVA HandiHaler consists of SPIRIVA capsules and the HandiHaler device.
 SPIRIVA capsules contain 18 mcg of tiotropium and are light green, with the Boehringer Ingelheim company logo on the SPIRIVA capsule cap and TI 01 on the SPIRIVA capsule body, or vice versa.
@@ -13,13 +13,11 @@ The drug should be used immediately after the packaging over an individual SPIRI
 
 The following packages are available:
 
-- carton containing 5 SPIRIVA capsules (1 unit-dose blister card) and 1 HandiHaler device (NDC 0597-0075-75)
-- carton containing 30 SPIRIVA capsules (3 unit-dose blister cards) and 1 HandiHaler device (NDC 0597-0075-41)
-- carton containing 90 SPIRIVA capsules (9 unit-dose blister cards) and 1 HandiHaler device (NDC 0597-0075-47)
+- carton containing 5 SPIRIVA capsules (1 unit-dose blister card) and 1 HandiHaler inhalation device (NDC 0597-0075-75)
+- carton containing 30 SPIRIVA capsules (3 unit-dose blister cards) and 1 HandiHaler inhalation device (NDC 0597-0075-41)
+- carton containing 90 SPIRIVA capsules (9 unit-dose blister cards) and 1 HandiHaler inhalation device (NDC 0597-0075-47)
 
-## Storage
-
-Store at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Storage Store at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
 
 The SPIRIVA capsules should not be exposed to extreme temperature or moisture.
 Do not store SPIRIVA capsules in the HandiHaler device.
