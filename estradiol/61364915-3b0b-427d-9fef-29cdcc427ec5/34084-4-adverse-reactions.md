@@ -3,13 +3,11 @@
 See BOXED WARNINGS, WARNINGSand PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-In a 13-week clinical trial that included 225 postmenopausal women treated with Femring and 108 women treated with placebo vaginal rings, adverse events that occurred at a rate of ≥ 2% are summarized in Table 6.
-Incidence of AEs Occurring in ≥2% of Subjects Presented in Descending Frequency of Preferred Term.
+In a 13-week clinical trial that included 225 postmenopausal women treated with Femring and 108 women treated with placebo vaginal rings, adverse events that occurred at a rate of ≥ 2 percent are summarized in Table 6.
 
 Table 6.
-Incidence of AEs Occurring in ≥2% of Subjects Presented in Descending Frequency of Preferred Term
+Incidence of AEs Occurring in ≥ 2% of Subjects Presented in Descending Frequency of Preferred Term
 
 | Adverse Event | Placebo(n = 108) | Estradiol0.05 mg/day(n = 113) | Estradiol0.10 mg/day(n = 112) |
 | --- | --- | --- | --- |
@@ -32,52 +30,9 @@ Incidence of AEs Occurring in ≥2% of Subjects Presented in Descending Frequenc
 | Pain in Limb | 3 (2.8) | 1 (0.9) | 3 (2.7) |
 | Urinary Tract Infection (NOS) | 2 (1.9) | 1 (0.9) | 4 (3.6) |
 | Vaginal Irritation | 4 (3.7) | 1 (0.9) | 2 (1.8) |
+| AE = adverse event; NOS = not otherwise specified |  |  |  |
 
-AE = adverse event; NOS = not otherwise specified
-
-The following additional adverse reactions have been reported with estrogens and/or progestin therapy.
-
-1.
-Genitourinary system
-
-Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding; spotting; dysmenorrhea; increase in size of uterine leiomyomata; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
-
-2.
-Breasts
-
-Enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
-
-3.
-Cardiovascular
-
-Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
-
-4.
-Gastrointestinal
-
-Nausea, vomiting, abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis; enlargement of hepatic hemangiomas.
-
-5.
-Skin
-
-Chloasma or melasma which may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritis, rash.
-
-6.
-Eyes
-
-Retinal vascular thrombosis; intolerance to contact lenses.
-
-7.
-Central nervous system
-
-Headache, migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy; dementia.
-
-8.
-Miscellaneous
-
-Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaphylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
-
-Post-Marketing Experience
+## Postmarketing Experience
 
 1. A few cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
    TSS is a rare, but serious disease that may cause death.
@@ -89,3 +44,46 @@ Post-Marketing Experience
    Persistent abdominal complaints consistent with obstruction should be carefully evaluated.
 4. A few cases of inadvertent ring insertion into the urinary bladder, which may require surgical removal, have been reported for women using vaginal rings.
    Persistent unexplained urinary symptoms should be carefully evaluated.
+
+The following additional adverse reactions have been identified during post-approval use of Femring.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+1.
+Genitourinary system
+
+Uterine cancer, vaginal hemorrhage, ovarian cyst, irregular menstruation, metrorrhagia, menorrhagia, dysmenorrhea, uterine enlargement.
+
+2.
+Breasts
+
+Breast cancer, fibrocystic breast disease, breast disorder, breast mass, breast enlargement, breast pain, nipple pain, breast discharge.
+
+3.
+Cardiovascular
+
+Chest pain, increased blood pressure, irregular heart rate, pulmonary embolism, cerebrovascular accident (stroke), hemiparesis, transient ischemic attack, thrombosis.
+
+4.
+Gastrointestinal
+
+Abdominal pain, pancreatitis, cholecystitis, cholelithiasis, vomiting.
+
+5.
+Skin
+
+Generalized erythema, erythema multiforme, erythema nodosum, rash, hirsutism, pruritis.
+
+6.
+Eyes
+
+Blindness, contact lens intolerance.
+
+7.
+Central Nervous System
+
+Dizziness, headache, depression, nervousness, mood disturbances, irritability.
+
+8.
+Miscellaneous
+
+Medical device complication, back pain, angioedema, weight increased/decreased, edema, libido increased/decreased, urticaria, hypersensitivity, anaphylaxis.

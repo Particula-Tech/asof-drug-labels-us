@@ -11,4 +11,4 @@ Femring 0.10 mg/day has a central core that contains 24.8 mg of estradiol acetat
 Estradiol acetate is chemically described as estra-1,3,5(10)-triene-3,17β-diol-3-acetate.
 The molecular formula of estradiol acetate is C20H26O3 and the structural formula is:
 
-The molecular weight of estradiol acetate is 314.41.
+The molecular weight of estradiol acetate is 314.42.

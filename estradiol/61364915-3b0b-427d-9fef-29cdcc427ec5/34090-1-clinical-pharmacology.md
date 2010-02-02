@@ -16,33 +16,27 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## Pharmacokinetics
 
-Estradiol acetate is rapidly hydrolyzed to estradiol.
-
 ## A. Absorption
 
 Drug delivery from Femring is rapid for the first hour and then declines to a relatively constant rate for the remainder of the 3-month dosing interval.
 In vitro studies have shown that this initial release is higher as the rings age upon storage.
-Estradiol acetate and estradiol are rapidly absorbed through the vaginal mucosa as evidenced by tmax values for estradiol of less than 1 hour.
-Following Cmax, serum estradiol concentrations decrease rapidly such that by 24 to 48 hours postdose, serum estradiol concentrations are relatively constant through the end of the 3-month dosing interval, see Figure 1.
-Mean serum estradiol concentrations following multiple dose administration of Femring (0.05 mg/day estradiol) (second dose administered at 13 weeks) (inset: mean (±SD) of serum concentration-time profile for dose 1 from 0-24 hours) for results from rings stored for 16 months.
+Estradiol acetate is rapidly hydrolyzed to estradiol which is absorbed through the vaginal mucosa as evidenced by the mean time to maximum concentration (tmax) for estradiol of about 1 hour (range 0.25 to 1.5 hrs). Following the maximum concentration (Cmax), serum estradiol decreases rapidly such that by 24 to 48 hours postdose, serum estradiol concentrations are relatively constant through the end of the 3-month dosing interval, see Figure 1 for results from rings stored for 16 months.
 
 Following administration of Femring (0.05 mg/day estradiol), average serum estradiol concentration was 40.6 pg/mL; the corresponding apparent in vivo estradiol delivery rate was 0.052 mg/day.
 Following administration of Femring (0.10 mg/day estradiol), average serum estradiol concentration was 76 pg/mL; apparent in vivo delivery rate was 0.097 mg/day.
-Results are summarized in Table 1.
-Summary of Mean (%RSD)* Pharmacokinetic Parameters for Femring below.
+Results are summarized in Table 1 below.
 
 Table 1.
-Summary of Mean (%RSD)* Pharmacokinetic Parameters for Femring
+Summary of Mean (%RSD)Relative Standard Deviation Pharmacokinetic Parameters for Femring
 
 | Dose(as estradiol) |  | Number of subjects | Cmax(pg/mL) | Tmax(hour) | Cavg(pg/mL) |
 | --- | --- | --- | --- | --- | --- |
-| 0.05 mg/day | Estradiol1 | 25 | 1129 (25) | 0.9 (41) | 40.6 (26) |
-| Estrone1 | 25 | 141 (25) | 6.2 (84) | 35.9 (21) |  |
-| Estrone sulfate1 | 25 | 2365 (44) | 9.3 (39) | 494.6 (48) |  |
-| 0.10 mg/day | Estradiol2 | 12 | 1665 (23) | 0.7 (90) | --4 |
-| Estradiol3 | 11 | -- | -- | 76.0 (24) |  |
-| Estrone3 | 11 | -- | -- | 45.7 (25) |  |
-| * Relative Standard Deviation, 1Study 1, 2Study 2, 3Study 3, 4-- Not determined |  |  |  |  |  |
+| 0.05 mg/day | EstradiolStudy 1 | 25 | 1129 (25) | 0.9 (41) | 40.6 (26) |
+| Estrone | 25 | 141 (25) | 6.2 (84) | 35.9 (21) |  |
+| Estrone sulfate | 25 | 2365 (44) | 9.3 (39) | 494.6 (48) |  |
+| 0.10 mg/day | EstradiolStudy 2 | 12 | 1665 (23) | 0.7 (90) | --Not determined |
+| EstradiolStudy 3 | 11 | -- | -- | 76.0 (24) |  |
+| Estrone | 11 | -- | -- | 45.7 (25) |  |
 
 Consistent with the avoidance of first pass metabolism achieved by vaginal estradiol administration, serum estradiol concentrations were slightly higher than estrone concentrations.
 

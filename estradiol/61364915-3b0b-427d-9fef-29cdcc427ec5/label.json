@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021367"
+  ],
   "inn": "estradiol",
   "labeler": "Warner Chilcott (US), LLC",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0430-6202-40",
     "0430-6202-95"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "estradiol acetate",
+      "name": "Femring"
+    }
+  ],
   "setid": "61364915-3b0b-427d-9fef-29cdcc427ec5",
   "source": "dailymed"
 }
