@@ -1,4 +1,4 @@
-# Medication Guide
+MEDICATION GUIDE
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
@@ -63,6 +63,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
 | --- | --- | --- |
 
-Wyeth® Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
+Wyeth®
 
-W10402C033 ET01 Rev 06/09
+Wyeth Pharmaceuticals Inc.
+
+Philadelphia, PA 19101
+
+W10402C035
+
+ET01
+
+Rev 01/10

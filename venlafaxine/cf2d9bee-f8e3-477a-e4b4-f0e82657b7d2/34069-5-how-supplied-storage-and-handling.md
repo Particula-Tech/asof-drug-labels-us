@@ -2,27 +2,25 @@
 
 Effexor® (venlafaxine hydrochloride) Tablets are available as follows:
 
-25 mg, peach, shield-shaped tablet with “25” and a “” on one side and “701” on scored reverse side.
+25 mg, peach, shield-shaped tablet with “25” and a “W” on one side and “701” on scored reverse side.
 
 NDC 0008-0701-08, bottle of 60 tablets in unit of use package.
 
-37.5 mg, peach, shield-shaped tablet with “37.5” and a “” on one side and “781” on scored reverse side.
+37.5 mg, peach, shield-shaped tablet with “37.5” and a “W” on one side and “781” on scored reverse side.
 
 NDC 0008-0781-08, bottle of 60 tablets in unit of use package.
 
-50 mg, peach, shield-shaped tablet with “50” and a “” on one side and “703” on scored reverse side.
+50 mg, peach, shield-shaped tablet with “50” and a “W” on one side and “703” on scored reverse side.
 
 NDC 0008-0703-07, bottle of 30 tablets in unit of use package.
 
-75 mg, peach, shield-shaped tablet with “75” and a “” on one side and “704” on scored reverse side.
+75 mg, peach, shield-shaped tablet with “75” and a “W” on one side and “704” on scored reverse side.
 
 NDC 0008-0704-07, bottle of 30 tablets in unit of use package.
-NDC 0008-0704-08, bottle of 60 tablets in unit of use package.
 
-100 mg, peach, shield-shaped tablet with “100” and a “” on one side and “705” on scored reverse side.
+100 mg, peach, shield-shaped tablet with “100” and a “W” on one side and “705” on scored reverse side.
 
 NDC 0008-0705-07, bottle of 20 tablets in unit of use package.
-NDC 0008-0705-08, bottle of 60 tablets in unit of use package.
 
 The appearance of these tablets is a trademark of Wyeth Pharmaceuticals.
 

@@ -53,4 +53,4 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 ## SWITCHING PATIENTS TO OR FROM A MONOAMINE OXIDASE INHIBITOR
 
 At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with Effexor.
-In addition, at least 7 days should be allowed after stopping Effexor before starting an MAOI (see CONTRAINDICATIONS and WARNINGS).
+In addition, at least 7 days should be allowed after stopping Effexor before starting an MAOI (see CONTRAINDICATIONS).

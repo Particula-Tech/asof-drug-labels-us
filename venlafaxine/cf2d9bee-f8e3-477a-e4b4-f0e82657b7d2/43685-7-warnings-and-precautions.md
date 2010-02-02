@@ -53,18 +53,6 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Effexor is not approved for use in treating bipolar depression.
 
-## Potential for Interaction with Monoamine Oxidase Inhibitors
-
-Adverse reactions, some of which were serious, have been reported in patients who have recently been discontinued from a monoamine oxidase inhibitor (MAOI) and started on Effexor, or who have recently had Effexor therapy discontinued prior to initiation of an MAOI.
-These reactions have included tremor, myoclonus, diaphoresis, nausea, vomiting, flushing, dizziness, hyperthermia with features resembling neuroleptic malignant syndrome, seizures, and death.
-In patients receiving antidepressants with pharmacological properties similar to venlafaxine in combination with a monoamine oxidase inhibitor, there have also been reports of serious, sometimes fatal, reactions.
-For a selective serotonin reuptake inhibitor, these reactions have included hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Severe hyperthermia and seizures, sometimes fatal, have been reported in association with the combined use of tricyclic antidepressants and MAOIs.
-These reactions have also been reported in patients who have recently discontinued these drugs and have been started on an MAOI.
-Therefore, it is recommended that Effexor not be used in combination with an MAOI, or within at least 14 days of discontinuing treatment with an MAOI.
-Based on the half-life of Effexor, at least 7 days should be allowed after stopping Effexor before starting an MAOI.
-
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
 The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Effexor treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
@@ -72,7 +60,7 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of Effexor with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS, Potential for Interaction with Monoamine Oxidase Inhibitors).
+The concomitant use of Effexor with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS).
 
 If concomitant treatment of Effexor with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
 
@@ -350,8 +338,8 @@ Ketoconazole: A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a sin
 Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
 Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
-Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PMs – 2% to 206%), and AUC values for ODV increased by 23% and 141% in EM and PM subjects (range in PMS – 38% to 105%) subjects, respectively.
-Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMS and 53% in PMs (range in PMs – 4 to 134%).
+Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PMs ‑2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM subjects (range in PMs ‑38% to 105%) subjects, respectively.
+Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMS and 53% in PMs (range in PMs 4% to 134%).
 
 Concomitant use of CYP3A4 inhibitors and venlafaxine may increase levels of venlafaxine and ODV.
 Therefore, caution is advised if a patient's therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
@@ -403,7 +391,7 @@ CYP2C19: Venlafaxine did not inhibit the metabolism of diazepam which is partial
 
 ### Monoamine Oxidase Inhibitors
 
-See CONTRAINDICATIONS and WARNINGS.
+See CONTRAINDICATIONS.
 
 ### CNS-Active Drugs
 

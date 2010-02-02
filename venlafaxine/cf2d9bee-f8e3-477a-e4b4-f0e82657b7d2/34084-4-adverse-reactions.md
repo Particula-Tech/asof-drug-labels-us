@@ -21,7 +21,7 @@ The more common events (≥ 1%) associated with discontinuation and considered t
 | Headache | 3% | 1% |
 | Asthenia | 2% | — |
 | Sweating | 2% | — |
-| * Percentages based on the number of males. — Less than 1% |  |  |
+| * Percentages based on the number of males.— Less than 1% |  |  |
 
 ## Incidence in Controlled Trials
 
@@ -92,7 +92,7 @@ TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4- to 8-Week Placebo-
 |  | Urinary frequency | 3% | 2% |
 |  | Urination impaired | 2% | — |
 |  | Orgasm disturbance | 2%3 | —3 |
-| 1 Events reported by at least 1% of patients treated with Effexor (venlafaxine hydrochloride) are included, and are rounded to the nearest %. Events for which the Effexor incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea3. — Incidence less than 1%. 2 Incidence based on number of male patients. 3 Incidence based on number of female patients. |  |  |  |
+| 1 Events reported by at least 1% of patients treated with Effexor (venlafaxine hydrochloride) are included, and are rounded to the nearest %. Events for which the Effexor incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea3.— Incidence less than 1%.2 Incidence based on number of male patients.3 Incidence based on number of female patients. |  |  |  |
 
 ### Dose Dependency of Adverse Events
 
@@ -158,7 +158,7 @@ In premarketing trials, treatment with Effexor tablets was associated with a mea
 
 Patients treated with Effexor tablets for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
 This increase was duration dependent over the study period and tended to be greater with higher doses.
-Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL or 2) an average on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
+Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL or 2) an average on‑therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
 
 ### ECG Changes
 
