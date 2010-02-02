@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077614"
+  ],
+  "inn": "carvedilol",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-616-01",
+    "65841-616-05",
+    "65841-616-17",
+    "65841-617-01",
+    "65841-617-05",
+    "65841-617-17",
+    "65841-618-01",
+    "65841-618-05",
+    "65841-618-17",
+    "65841-619-01",
+    "65841-619-05",
+    "65841-619-17"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "carvedilol",
+      "name": "Carvedilol"
+    }
+  ],
+  "setid": "29082d8c-bbde-4620-924f-02dcf1764919",
+  "source": "dailymed"
+}
