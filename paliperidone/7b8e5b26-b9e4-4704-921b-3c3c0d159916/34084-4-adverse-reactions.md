@@ -129,7 +129,7 @@ Adverse Drug Reactions Reported by ≥ 2% of INVEGA®-Treated Subjects with Schi
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Cough | 1 | 1 | 3 | 1 |
 | Pharyngolaryngeal pain | <1 | 0 | 2 | 1 |
-| * Table includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA® dose groups and which occurred at greater incidence than in the placebo group. Data are pooled from two studies. One study included once-daily INVEGA® doses of 6 mg (with the option to reduce to 3 mg) and 12 mg (with the option to reduce to 9 mg). The second study included flexible once-daily doses of 3 to 12 mg. Among the 420 subjects treated with INVEGA®, 230 (55%) received INVEGA® as monotherapy and 190 (45%) received INVEGA® as an adjunct to mood stabilizers and/or antidepressants. Somnolence includes the terms sedation and somnolence. Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased. All EPS-related terms are grouped under "extrapyramidal symptoms". |  |  |  |  |
+| * Table includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA® dose groups and which occurred at greater incidence than in the placebo group. Data are pooled from two studies. One study included once-daily INVEGA® doses of 6 mg (with the option to reduce to 3 mg) and 12 mg (with the option to reduce to 9 mg). The second study included flexible once-daily doses of 3 to 12 mg. Among the 420 subjects treated with INVEGA®, 230 (55%) received INVEGA® as monotherapy and 190 (45%) received INVEGA® as an adjunct to mood stabilizers and/or antidepressants. Extrapyramidal symptoms includes the terms bradykinesia, drooling, dyskinesia, dystonia, hypertonia, muscle rigidity, muscle twitching, oculogyration, parkinsonian gait, parkinsonism, restlessness, and tremor. Somnolence includes the terms sedation and somnolence. Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased. |  |  |  |  |
 
 Monotherapy versus Adjunctive Therapy
 
@@ -140,22 +140,35 @@ When comparing these 2 subpopulations, only nausea occurred at a greater frequen
 ## 6.3 Other Adverse Reactions Observed During Premarketing Evaluation of INVEGA®
 
 The following additional adverse reactions occurred in < 2% of INVEGA®-treated subjects in the above schizophrenia and schizoaffective disorder clinical trial datasets.
+The following also includes additional adverse reactions reported at any frequency by INVEGA®-treated subjects who participated in other clinical studies.
 
-Cardiac disorders: bradycardia, palpitations
+Cardiac disorders: bradycardia, bundle branch block left, palpitations
+
+Endocrine disorders: hyperprolactinemia
 
 Eye disorders: vision blurred
 
-Gastrointestinal disorders: abdominal pain, small intestinal obstruction, swollen tongue
+Gastrointestinal disorders: abdominal pain, flatulence, small intestinal obstruction, swollen tongue
 
-General disorders: edema
+General disorders: edema, edema peripheral
 
 Immune system disorders: anaphylactic reaction
 
-Nervous system disorders: dizziness postural, grand mal convulsion, lethargy, syncope
+Infections and infestations: urinary tract infection
 
-Psychiatric disorders: nightmare
+Investigations: electrocardiogram abnormal
 
-Reproductive system and breast disorders: amenorrhea, breast discharge, breast engorgement, breast pain, erectile dysfunction, galactorrhea, gynecomastia, menstruation irregular
+Musculoskeletal and connective tissue disorders: arthralgia, pain in extremity
+
+Nervous system disorders: cerebrovascular accident, convulsion, dizziness postural, grand mal convulsion, lethargy, syncope, transient ischemic attack, additional extrapyramidal symptoms (cogwheel rigidity, muscle spasms, musculoskeletal pain, torticollis, trismus)
+
+Psychiatric disorders: agitation, nightmare
+
+Reproductive system and breast disorders: amenorrhea, breast discharge, breast engorgement, breast tenderness, breast pain, erectile dysfunction, galactorrhea, gynecomastia, menstruation irregular, retrograde ejaculation
+
+Respiratory, thoracic and mediastinal disorders: nasal congestion, pneumonia aspiration
+
+Skin and subcutaneous tissue disorders: pruritus, rash, rash papular
 
 Vascular disorders: hypotension, ischemia
 
@@ -277,7 +290,7 @@ Adverse reactions reported during the long-term double-blind phase of this study
 
 ## 6.11 Postmarketing Experience
 
-The following adverse reaction has been identified during postapproval use of INVEGA®; because this reaction was reported voluntarily from a population of uncertain size, it is not possible to reliably estimate its frequency: priapism.
+The following adverse reactions have been identified during postapproval use of INVEGA®; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, priapism, swollen tongue, tardive dyskinesia, urinary incontinence, urinary retention.
 
 ## 6.12 Adverse Reactions Reported With Risperidone
 

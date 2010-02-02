@@ -8,7 +8,7 @@ The structural formula is:
 
 Paliperidone is sparingly soluble in 0.1N HCl and methylene chloride; practically insoluble in water, 0.1N NaOH, and hexane; and slightly soluble in N,N-dimethylformamide.
 
-INVEGA® (paliperidone) Extended-Release Tablets are available in 3 mg (white), 6 mg (beige), and 9 mg (pink) strengths.
+INVEGA® (paliperidone) Extended-Release Tablets are available in 1.5 mg (orange-brown), 3 mg (white), 6 mg (beige), and 9 mg (pink) strengths.
 INVEGA® utilizes OROS® osmotic drug-release technology [see Description (11.1)].
 
 Inactive ingredients are carnauba wax, cellulose acetate, hydroxyethyl cellulose, propylene glycol, polyethylene glycol, polyethylene oxides, povidone, sodium chloride, stearic acid, butylated hydroxytoluene, hypromellose, titanium dioxide, and iron oxides.

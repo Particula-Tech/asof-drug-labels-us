@@ -46,8 +46,10 @@ Since paliperidone is the major active metabolite of risperidone, consideration 
 Renal Impairment
 
 Dosing must be individualized according to the patient's renal function status.
-For patients with mild renal impairment (creatinine clearance 50 mL/min to < 80 mL/min), the maximum recommended dose is 6 mg once daily.
-For patients with moderate to severe renal impairment (creatinine clearance 10 mL/min to < 50 mL/min), the maximum recommended dose of INVEGA® is 3 mg once daily.
+For patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min), the recommended initial dose of INVEGA® is 3 mg once daily.
+The dose may then be increased to a maximum of 6 mg once daily based on clinical response and tolerability.
+For patients with moderate to severe renal impairment (creatinine clearance ≥ 10 mL/min to < 50 mL/min), the recommended initial dose of INVEGA® is 1.5 mg once daily, which may be increased to a maximum of 3 mg once daily after clinical reassessment.
+As INVEGA® has not been studied in patients with creatinine clearance below 10 mL/min, use is not recommended in such patients.
 [See Clinical Pharmacology (12.3)]
 
 Hepatic Impairment

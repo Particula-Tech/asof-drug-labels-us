@@ -15,7 +15,7 @@ The pharmacological activity of the (+)- and (-)- paliperidone enantiomers is qu
 ## 12.3 Pharmacokinetics
 
 Following a single dose, the plasma concentrations of paliperidone gradually rise to reach peak plasma concentration (Cmax) approximately 24 hours after dosing.
-The pharmacokinetics of paliperidone following INVEGA® administration are dose-proportional within the recommended clinical dose range (3 to 12 mg).
+The pharmacokinetics of paliperidone following INVEGA® administration are dose-proportional within the available dose range.
 The terminal elimination half-life of paliperidone is approximately 23 hours.
 
 Steady-state concentrations of paliperidone are attained within 4–5 days of dosing with INVEGA® in most subjects.
@@ -62,8 +62,7 @@ INVEGA® has not been studied in patients with severe hepatic impairment.
 Elderly
 
 No dosage adjustment is recommended based on age alone.
-However, dose adjustment may be required because of age-related decreases in creatinine clearance [see Renal Impairment above and Dosage and Administration (2.1.
-2.5)].
+However, dose adjustment may be required because of age-related decreases in creatinine clearance [see Renal Impairment above and Dosage and Administration (2.1, 2.5)].
 
 Race
 

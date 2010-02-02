@@ -6,6 +6,6 @@ Manufactured for: Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc
 
 OROS is a registered trademark of ALZA Corporation
 
-Revised: July 2009
+Revised: January 2010
 
 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2007
