@@ -67,7 +67,7 @@ If a decision is made to discontinue therapy with LAMICTAL XR, a step-wise reduc
 
 Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
 
-## 2.2 Partial Onset Seizures
+## 2.2 Primary Generalized Tonic-Clonic and Partial Onset Seizures
 
 This section provides specific dosing recommendations for patients ≥13 years of age.
 Specific dosing recommendations are provided depending upon concomitant AED or other concomitant medications.
@@ -99,5 +99,5 @@ Patients may be converted directly from immediate-release lamotrigine to LAMICTA
 The initial dose of LAMICTAL XR should match the total daily dose of immediate-release lamotrigine.
 However, some subjects on concomitant enzyme-inducing agents may have lower plasma levels of lamotrigine on conversion and should be monitored [see Clinical Pharmacology (12.3)].
 
-Following conversion to LAMICTAL XR, all patients (but especially those on an enzyme-inducing AED) should be closely monitored for seizure control.
+Following conversion to LAMICTAL XR, all patients (but especially those on drugs that induce lamotrigine glucuronidation) should be closely monitored for seizure control [see Drug Interactions (7)].
 Depending on the therapeutic response after conversion, the total daily dose may need to be adjusted within the recommended dosing instructions (Table 1).

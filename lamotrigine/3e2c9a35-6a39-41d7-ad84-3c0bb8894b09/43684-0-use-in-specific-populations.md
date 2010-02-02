@@ -47,7 +47,7 @@ Because the effects on the infant exposed to lamotrigine by this route are unkno
 
 ## 8.4 Pediatric Use
 
-LAMICTAL XR is indicated as adjunctive therapy for partial onset seizures with or without secondary generalization in patients ≥13 years of age.
+LAMICTAL XR is indicated as adjunctive therapy for PGTC and partial onset seizures with or without secondary generalization in patients ≥13 years of age.
 Safety and effectiveness of LAMICTAL XR for any use in patients below the age of 13 have not been established.
 
 The immediate-release formulation of LAMICTAL is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and primary generalized tonic-clonic seizures.

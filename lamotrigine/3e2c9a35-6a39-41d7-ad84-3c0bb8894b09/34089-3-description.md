@@ -11,5 +11,5 @@ Each tablet contains the labeled amount of lamotrigine and the following inactiv
 Tablets are printed with edible black ink.
 
 LAMICTAL XR Extended-Release Tablets contain a modified-release eroding formulation as the core.
-The tablets are coated with a clear enteric coat and have an aperture drilled through the coats on both faces of the tablet (DiffCORE™*) to enable a controlled release of drug in the acidic environment of the stomach.
+The tablets are coated with a clear enteric coat and have an aperture drilled through the coats on both faces of the tablet (DiffCORE™) to enable a controlled release of drug in the acidic environment of the stomach.
 The combination of this and the modified-release core are designed to control the dissolution rate of lamotrigine over a period of approximately 12 to 15 hours, leading to a gradual increase in serum lamotrigine levels.

@@ -1,4 +1,4 @@
-Medication Guide
+MEDICATION GUIDE
 
 LAMICTAL® (la-MIK-tal) XR™ (lamotrigine) Extended-Release Tablets
 
@@ -99,7 +99,7 @@ LAMICTAL XR (lamotrigine) Extended-Release Tablets
 
 What is LAMICTAL XR?
 
-LAMICTAL XR is a prescription medicine used together with other medicines to treat partial seizures in people 13 years or older.
+LAMICTAL XR is a prescription medicine used together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people 13 years or older.
 
 It is not known if LAMICTAL XR is safe or effective in children under the age of 13.
 Other forms of LAMICTAL can be used in children 2 to 12 years.
@@ -162,18 +162,16 @@ What should I avoid while taking LAMICTAL XR?
 What are possible side effects of LAMICTAL XR?
 
 - See “What is the most important information I should know about LAMICTAL XR?”
+  Common side effects of LAMICTAL XR include:
+  - Dizziness
+  - Tremor
+  - Double vision
+  - Nausea
+  - Vomiting
+  - Trouble with balance and coordination
+  - Anxiety
 
-Common side effects of LAMICTAL XR include:
-
-| dizziness | double vision |
-| --- | --- |
-| diarrhea | nausea |
-| weakness or fatigue | depression |
-| difficulty with coordination or balance | muscle ache |
-| tremor | nervousness |
-| hot flashes |  |
-
-Other common side effects that have been reported with another form of LAMICTAL include headache, sleepiness, and vomiting.
+Other common side effects that have been reported with another form of LAMICTAL include headache, sleepiness, blurred vision, runny nose, and rash.
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -205,22 +203,22 @@ What are the ingredients in LAMICTAL XR?
 
 Active ingredient: Lamotrigine.
 
-Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25 mg and 50 mg tablets only), titanium dioxide, triethyl citrate, iron oxide black (50 mg tablet only), iron oxide yellow (25 mg, 50 mg, 100 mg tablets only), iron oxide red (100 mg tablet only), FD&C Blue No. 2 Aluminum Lake (200 mg tablet only).
+Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25-mg and 50-mg tablets only), titanium dioxide, triethyl citrate, iron oxide black (50-mg tablet only), iron oxide yellow (25-mg, 50-mg, 100-mg tablets only), iron oxide red (100-mg tablet only), FD&C Blue No. 2 Aluminum Lake (200-mg tablet only).
 Tablets are printed with edible black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-May 2009
+LAMICTAL XR is a trademark of GlaxoSmithKline.
 
-LXR:1MG
+DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-LAMICTAL XR and DiffCORE are trademarks of GlaxoSmithKline.
+January 2010
 
-DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+LXR:2MG

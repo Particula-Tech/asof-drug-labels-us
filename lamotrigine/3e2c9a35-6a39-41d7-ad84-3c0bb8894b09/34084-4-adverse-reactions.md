@@ -11,78 +11,67 @@ The following adverse reactions are described in more detail in the Warnings and
 - Status epilepticus [see Warnings and Precautions (5.9)]
 - Sudden unexplained death in epilepsy [see Warnings and Precautions (5.10)]
 
-## 6.1 Clinical Trial Experience With LAMICTAL XR for Treatment of Partial Onset Seizures
+## 6.1 Clinical Trial Experience With LAMICTAL XR for Treatment of PGTC and Partial Onset Seizures
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The most commonly observed adverse reactions (≥4% for LAMICTAL XR and more common on drug than placebo) in a double-blind, placebo-controlled trial of adjunctive therapy with LAMICTAL XR for the treatment of partial onset seizures were, in order of decreasing treatment difference (LAMICTAL XR % - Placebo %) incidence: dizziness, tremor/intention tremor, cerebellar coordination/balance disorder, nausea, asthenic conditions (asthenia, fatigue, malaise), vertigo/positional vertigo, and diplopia.
+LAMICTAL XR has been evaluated for safety in patients ≥13 years of age with PGTC and partial onset seizures.
+The most commonly observed adverse reactions (≥4% for LAMICTAL XR and more common on drug than placebo) in these 2 double-blind, placebo-controlled trials of adjunctive therapy with LAMICTAL XR were, in order of decreasing treatment difference (LAMICTAL XR % - Placebo %) incidence: dizziness, tremor/intention tremor, vomiting, and diplopia.
 
-Nine of 118 patients (8%) treated with LAMICTAL XR who participated in the double-blind, placebo-controlled trial in the treatment of partial onset seizures discontinued treatment due to adverse reactions compared to 2 of 121 patients (2%) who received placebo.
-Dizziness, nausea, and nystagmus were the most common adverse reactions (based upon treatment difference of ≥2%) that led to the withdrawal of subjects in the group treated with LAMICTAL XR.
+In these 2 trials, adverse reactions led to withdrawal of 4 (2%) patients in the group receiving placebo and 10 (5%) patients in the group receiving LAMICTAL XR.
+Dizziness was the most common reason for withdrawal in the group receiving LAMICTAL XR (5 patients [3%]).
+The next most common adverse reactions leading to withdrawal in 2 patients each (1%) were rash, headache, nausea, and nystagmus.
 
-Table 3 displays the incidence of adverse reactions in a 19-week, double-blind, placebo-controlled study of patients with partial onset seizures.
+Table 3 displays the incidence of adverse reactions in these two 19-week, double-blind, placebo-controlled studies of patients with PGTC and partial onset seizures.
 
 Table 3.
-Treatment-Emergent Adverse Reaction Incidence in a Double-Blind, Placebo-Controlled Adjunctive Trial of Patients With Partial Onset Seizures (Adverse Reactions ≥ 2% of Patients Treated With LAMICTAL XR and More Common on Drug Than Placebo)
+Treatment-Emergent Adverse Reaction Incidence in Double-Blind, Placebo-Controlled Adjunctive Trials of Patients With Epilepsy (Adverse Reactions ≥2% of Patients Treated With LAMICTAL XR and Numerically More Frequent Than in the Placebo Group)
 
-| Body System/Adverse Reaction | LAMICTAL XR(n = 118)% | Placebo(n = 121)% |
+| Body System/Adverse Reaction | LAMICTAL XR(n = 190)% | Placebo(n = 195)% |
 | --- | --- | --- |
 | Ear and Labyrinth Disorders |  |  |
-| Vertigo/positional vertigo | 4 | 0 |
+| Vertigo | 3 | <1 |
 | Eye Disorders |  |  |
-| Vision blurred | 4 | 2 |
-| Diplopia | 4 | 0 |
+| Diplopia | 5 | <1 |
+| Vision blurred | 3 | 2 |
 | Gastrointestinal Disorders |  |  |
-| Diarrhea | 8 | 5 |
-| Nausea | 7 | 2 |
-| Abdominal pain/discomfort | 6 | 4 |
-| Vomiting | 4 | 2 |
-| Constipation | 3 | 1 |
-| Dry mouth | 3 | 2 |
+| Nausea | 7 | 4 |
+| Vomiting | 6 | 3 |
+| Diarrhea | 5 | 3 |
+| Constipation | 2 | <1 |
+| Dry mouth | 2 | 1 |
 | General Disorders and Administration Site Conditions |  |  |
-| Asthenic conditions (asthenia, fatigue, malaise) | 9 | 5 |
-| Chest pain/discomfort | 3 | 1 |
-| Gait disturbance | 2 | 0 |
-| Pain | 2 | 1 |
+| Asthenia and fatigue | 6 | 4 |
 | Infections and Infestations |  |  |
-| Influenza/influenza-like illness | 3 | 2 |
-| Sinusitis | 3 | 1 |
-| Metabolic and Nutrition Disorders |  |  |
-| Anorexia/decreased appetite | 3 | 2 |
-| Weight increased | 2 | 1 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Myalgia | 3 | 0 |
+| Sinusitis | 2 | 1 |
+| Metabolic and Nutritional Disorders |  |  |
+| Anorexia | 3 | 2 |
+| Musculoskeletal and Connective Tissue Disorder |  |  |
+| Myalgia | 2 | 0 |
 | Nervous System |  |  |
-| Dizziness | 19 | 5 |
-| Somnolence | 7 | 5 |
-| Tremor/Intention tremor | 7 | 2 |
-| Cerebellar coordination/balance disorder | 5 | 0 |
-| Nystagmus | 3 | 1 |
+| Dizziness | 14 | 6 |
+| Tremor and intention tremor | 6 | 1 |
+| Somnolence | 5 | 3 |
+| Cerebellar coordination and balance disorder | 3 | 0 |
+| Nystagmus | 2 | <1 |
 | Psychiatric Disorders |  |  |
-| Depression | 4 | 1 |
+| Depression | 3 | <1 |
 | Anxiety | 3 | 0 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Pharyngolaryngeal pain | 3 | 2 |
-| Epistaxis | 2 | 1 |
-| Sinus congestion | 2 | 0 |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Rasha | 2 | 1 |
-| Alopecia | 2 | 1 |
-| Vascular Disorder |  |  |
-| Hot flush | 3 | 0 |
+| Vascular disorder |  |  |
+| Hot flush | 2 | 0 |
 
-a All types of rash.
+Note: In these trials the incidence of nonserious rash was 2% for LAMICTAL XR and 3% for placebo.
 In clinical trials evaluating the immediate-release formulation of LAMICTAL, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning].
 
 Adverse reactions were also analyzed to assess the incidence of the onset of an event in the titration period, and in the maintenance period, and if adverse reactions occurring in the titration phase persisted in the maintenance phase.
 
-The incidence for many adverse reactions caused by LAMICTAL XR treatment was increased relative to placebo (i.e., LAMICTAL XR % - Placebo % = treatment difference ≥3%) in either the titration or maintenance phases of the study.
-During the titration phase, an increased incidence (shown in descending order of % treatment difference) was observed for diarrhea, nausea, vertigo/positional vertigo, somnolence, myalgia, and hot flush.
-During the maintenance phase, an increased incidence was observed for dizziness, tremor/intention tremor, cerebellar coordination/balance disorder, vomiting, and diplopia.
+The incidence for many adverse reactions caused by LAMICTAL XR treatment was increased relative to placebo (i.e., LAMICTAL XR % - Placebo % = treatment difference ≥2%) in either the titration or maintenance phases of the study.
+During the titration phase, an increased incidence (shown in descending order of % treatment difference) was observed for diarrhea, nausea, vomiting, somnolence, vertigo, myalgia, hot flush, and anxiety.
+During the maintenance phase, an increased incidence was observed for dizziness, tremor, and diplopia.
 Some adverse reactions developing in the titration phase were notable for persisting (>7 days) into the maintenance phase.
-These “persistent” adverse reactions included somnolence, dizziness, and headache.
-In addition, some adverse reactions had an increased likelihood of recurring.
-Headache recurred predominantly in the titration period and vertigo and nausea recurred throughout the whole treatment period.
+These “persistent” adverse reactions included somnolence and dizziness.
 
 There were inadequate data to evaluate the effect of dose and/or concentration on the incidence of adverse reactions because although patients were randomized to different target doses based upon concomitant AED, the plasma exposure was expected to be generally similar among all patients receiving different doses.
 However, in a randomized, parallel study comparing placebo and 300 and 500 mg/day of immediate-release formulation of LAMICTAL, the incidence of the most common adverse reactions (≥5%) such as ataxia, blurred vision, diplopia, and dizziness were dose-related.
@@ -97,7 +86,7 @@ All reported reactions are included except those already listed in the previous 
 Adjunctive Therapy in Adults With Epilepsy: In addition to the adverse reactions reported above from the development of LAMICTAL XR, the following adverse reactions with an uncertain relationship to lamotrigine were reported during the clinical development of the immediate-release formulation of LAMICTAL for treatment of epilepsy in adults.
 These reactions occurred in ≥2% of patients receiving the immediate-release formulation of LAMICTAL and more frequently than in the placebo group.
 
-Body as a Whole: Fever, neck pain.
+Body as a Whole: Flu syndrome, fever, abdominal pain, neck pain.
 
 Musculoskeletal: Arthralgia.
 
@@ -105,7 +94,7 @@ Nervous: Insomnia, convulsion, irritability, speech disorder, concentration dist
 
 Respiratory: Rhinitis, pharyngitis, cough increased.
 
-Skin and Appendages: Pruritus.
+Skin and Appendages: Rash, pruritus.
 
 Urogenital: (female patients only) Vaginitis, amenorrhea, dysmenorrhea.
 
