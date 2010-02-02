@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091383"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Amneal Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "65162-687-84"
+  ],
+  "products": [
+    {
+      "form": "CONCENTRATE",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
+  "setid": "bf265c2e-ab2f-42e5-96cf-3998eb5a644d",
+  "source": "dailymed"
+}
