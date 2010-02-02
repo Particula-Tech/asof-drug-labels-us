@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA020505",
+    "NDA020844"
+  ],
+  "inn": "topiramate",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-639-65",
+    "50458-640-65",
+    "50458-641-65",
+    "50458-642-65",
+    "50458-645-65",
+    "50458-647-65"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "topiramate",
+      "name": "Topamax"
+    },
+    {
+      "form": "TABLET, COATED",
+      "generic": "topiramate",
+      "name": "Topamax"
+    }
+  ],
+  "setid": "21628112-0c47-11df-95b3-498d55d89593",
+  "source": "dailymed"
+}
