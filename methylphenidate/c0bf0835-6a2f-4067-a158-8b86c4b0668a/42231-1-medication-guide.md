@@ -268,7 +268,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: APRIL 2009 T2009-56/T2005-57/T2009-58
+REV: APRIL 2009 T2009-56/T2009-57/T2009-58
 
 Novartis Pharmaceuticals Corporation
 
