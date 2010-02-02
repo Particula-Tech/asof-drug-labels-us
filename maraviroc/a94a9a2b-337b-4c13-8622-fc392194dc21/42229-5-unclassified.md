@@ -1,1 +1,3 @@
-LAB-0357-2.0
+Trofile® is a registered trademark of Monogram Biosciences, Inc.
+
+LAB-0357-4.0

@@ -15,17 +15,22 @@ An allergic reaction may happen before liver problems occur.
 Stop taking SELZENTRY and call your doctor right away if you get any of the following symptoms:
 
 - an itchy rash on your body (allergic reaction)
-- Your skin or eyes look yellow and/or dark (tea-colored) urine
+- your skin or eyes look yellow and/or dark (tea-colored) urine
 - vomiting and/or upper right stomach area (abdominal) pain
 
-You should see your doctor right away but continue taking SELZENTRY if you have any of the following other symptoms: nausea, fever, flu-like symptoms, fatigue
+You should see your doctor right away but continue taking SELZENTRY if you have any of the following other symptoms: nausea, fever, flu-like symptoms, fatigue.
 
 What is SELZENTRY?
 
 SELZENTRY is an anti-HIV medicine called a CCR5 antagonist.
 HIV (Human Immunodeficiency Virus) is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
 
-SELZENTRY is used with other anti-HIV medicines in adults with CCR5-tropic HIV-1 infection who are already taking anti-HIV medicines and the medicines are not controlling their HIV infection.
+In a study of patients taking HIV medicines for the first time, the number of patients who achieved treatment success was similar in those taking either SELZENTRY or efavirenz with zidovudine and lamivudine (Combivir®).
+Nevertheless, in the same study, patients taking SELZENTRY along with zidovudine and lamivudine (Combivir®) failed treatment (had virus detected in their blood) and developed resistance to zidovudine (Retrovir®) or lamivudine (Epivir®) more often than patients taking efavirenz (Sustiva®) in combination with zidovudine and lamivudine (Combivir®).
+
+SELZENTRY is used with other anti-HIV medicines in adults with CCR5-tropic HIV-1 infection.
+
+Use of SELZENTRY is not recommended in patients with dual/mixed or CXCR4-tropic HIV-1.
 
 - SELZENTRY will not cure HIV infection.
 - People taking SELZENTRY may still develop infections, including opportunistic infections or other conditions that happen with HIV infection.
@@ -54,30 +59,34 @@ Your doctor will do a blood test to see if you have been infected with CCR5-trop
     This is called "viral load".
   - increase the number of white blood cells called T (CD4) cells.
 
-Both of these may keep your immune system healthy, so it can help fight infection.
-
 SELZENTRY does not work in all patients with CCR5-tropic HIV-1 infection.
 
 What should I tell my doctor before taking SELZENTRY?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- have any allergies
-- have liver problems including a history of hepatitis B or C
-- have heart problems
-- have kidney problems
-- have low blood pressure or take medicines to lower blood pressure
+- have any allergies.
+- have liver problems including a history of hepatitis B or C.
+- have heart problems.
+- have kidney problems.
+- have low blood pressure or take medicines to lower blood pressure.
 - are pregnant or planning to become pregnant.
   It is not known if SELZENTRY may harm your unborn baby.
   If you take SELZENTRY while you are pregnant, talk to your doctor about how you can be included in the Antiretroviral Pregnancy Registry.
-- are breast-feeding or planning to breast-feed.
+- are breastfeeding or planning to breastfeed.
   It is recommended that HIV-positive women should not breastfeed their babies.
   This is because of the chance of passing HIV to your baby.
+  You should not breastfeed if you are taking SELZENTRY because the risk to your baby is unknown.
   Talk with your doctor about the best way to feed your baby.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Certain other medicines may affect the levels of SELZENTRY in your blood.
 Your doctor may need to change your dose of SELZENTRY when you take it with certain medicines.
+
+The levels of SELZENTRY in your blood may be changed and your healthcare provider may need to adjust your dose of SELZENTRY when taking any of the following medications together with SELZENTRY:
+
+| -darunavir (Prezista®)/ritonavir (Norvir®)-lopinavir/ritonavir (Kaletra®)-atazanavir (Reyataz®) ± ritonavir-saquinavir (Invirase®) ± ritonavir-nelfinavir (Viracept®)-indinavir (Crixivan®)-fosamprenavir (Lexiva®)/ritonavir-etravirine (Intelence®)-carbamezepine (Tegretol®)-phenytoin (Dilantin®) | -delavirdine (Rescriptor®)-ketoconazole (Nizoral®)-itraconazole (Sporanox®)-clarithromycin (Biaxin®)-nefazodone (Serzone®)-telithromycin (Ketek®)-efavirenz (Sustiva®)-rifampin (Rifadin®)-phenobarbital (Luminal®) |
+| --- | --- |
 
 Do not take products that contain St. John's Wort (hypericum perforatum).
 St. John's Wort may lower the levels of SELZENTRY in your blood so that it will not work to treat your CCR5-tropic HIV infection.
@@ -117,7 +126,7 @@ When SELZENTRY has been given with other anti-HIV drugs, there have been serious
 
 - Liver problems.
   See "What is the most important information I should know about SELZENTRY?"
-- Heart problems including heart attack
+- Heart problems including heart attack.
 - Low blood pressure when standing up (postural hypotension).
   Low blood pressure when standing up can cause dizziness or fainting.
   Do not drive a car or operate heavy machinery if you have dizziness while taking SELZENTRY.
@@ -128,15 +137,18 @@ When SELZENTRY has been given with other anti-HIV drugs, there have been serious
 - Possible chance of infection or cancer.
   SELZENTRY affects other immune system cells and therefore may possibly increase your chance for getting other infections or cancer, although there is no evidence from the clinical trials of an increase in serious infections or cancer.
 
-The most common side effects of SELZENTRY include colds, cough, fever, rash, and dizziness.
+The most common side effects of SELZENTRY include colds, cough, fever, rash, gastrointestinal side effects including gas and bloating, and dizziness.
 Tell your doctor about any side effect that bothers you or does not go away.
 
 These are not all of the side effects with SELZENTRY.
 For more information, ask your doctor or pharmacist.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store SELZENTRY?
 
-- Store SELZENTRY tablets at room temperature from 59°F to 86° (15°Cto 30°C)].
+- Store SELZENTRY tablets at room temperature from 59°F to 86°F (15°C to 30°C).
 - Safely throw away medicine that is out of date or that you no longer need.
 - Keep SELZENTRY and all medicines out of the reach of children.
 
@@ -156,14 +168,10 @@ What are the ingredients in SELZENTRY?
 
 Active Ingredient: maraviroc
 
-Inactive Ingredients:
+Inactive Ingredients: Tablet core: microcrystalline cellulose, dibasic calcium phosphate (anhydrous), sodium starch glycolate, magnesium stearate Film-coat: FD&C blue #2 aluminum lake, soya lecithin, polyethylene glycol (macrogol 3350), polyvinyl alcohol, talc and titanium dioxide
 
-Tablet core: microcrystalline cellulose, dibasic calcium phosphate (anhydrous), sodium starch glycolate, magnesium stearate
+The brands listed are the trademarks or registered marks of their respective owners and are not trademarks of Pfizer.
 
-Film-coat: FD&C blue #2 aluminum lake, soya lecithin, polyethylene glycol (macrogol 3350), polyvinyl alcohol, talc and titanium dioxide
+This Medication Guide has been approved by the US Food and Drug Administration.
 
-LAB-0358-2.0
-
-November 2008
-
-This Medication Guide has been approved by the US Food and Drug Administration
+LAB-0358-4.0 November 2009

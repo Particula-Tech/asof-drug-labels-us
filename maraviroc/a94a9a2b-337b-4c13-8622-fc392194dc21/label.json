@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022128"
+  ],
   "inn": "maraviroc",
-  "labeler": "Pfizer Inc.",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-0807-60",
     "0069-0808-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "maraviroc",
+      "name": "SELZENTRY"
+    }
+  ],
   "setid": "a94a9a2b-337b-4c13-8622-fc392194dc21",
   "source": "dailymed"
 }

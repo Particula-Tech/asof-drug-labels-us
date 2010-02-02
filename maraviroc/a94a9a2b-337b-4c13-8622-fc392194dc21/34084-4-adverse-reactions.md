@@ -9,6 +9,8 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Studies in Treatment-Experienced Subjects
+
 The safety profile of SELZENTRY is primarily based on 840 HIV-infected subjects who received at least one dose of SELZENTRY during two Phase 3 trials.
 A total of 426 of these subjects received the indicated twice daily dosing regimen.
 
@@ -31,9 +33,10 @@ Dizziness or postural dizziness occurred in 8% of subjects on either SELZENTRY a
 Treatment-emergent adverse events, regardless of causality, from A4001027 and A4001028 are summarized in Table 2.
 Selected events occurring at ≥2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on placebo are not displayed.
 
+Table 2 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared to placebo) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
+
 |  | N=426 (%) |  | N=209 (%) |  |
 | --- | --- | --- | --- | --- |
-| Table 2 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared to placebo) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks) |  |  |  |  |
 |  | SELZENTRY Twice Daily300 mg dose equivalent | Exposure-adjusted rate (per 100 pt-yrs) PYE=309PYE = patient years of exposure | Placebo | Exposure-adjusted rate (per 100 pt-yrs) PYE=111 |
 | EYE DISORDERS |  |  |  |  |
 | Conjunctivitis | 2 | 3 | 1 | 3 |
@@ -45,7 +48,7 @@ Selected events occurring at ≥2% of subjects and at a numerically higher rate 
 | Pain and discomfort | 4 | 5 | 3 | 5 |
 | INFECTIONS AND INFESTATIONS |  |  |  |  |
 | Upper respiratory tract infection | 23 | 37 | 13 | 27 |
-| Herpes Infection | 8 | 11 | 4 | 8 |
+| Herpes infection | 8 | 11 | 4 | 8 |
 | Sinusitis | 7 | 10 | 3 | 6 |
 | Bronchitis | 7 | 9 | 5 | 9 |
 | Folliculitis | 4 | 5 | 2 | 4 |
@@ -88,37 +91,108 @@ Selected events occurring at ≥2% of subjects and at a numerically higher rate 
 | VASCULAR DISORDERS |  |  |  |  |
 | Vascular hypertensive disorders | 3 | 4 | 2 | 4 |
 
-Less Common Adverse Events
-
-The following adverse events occurred in <2% of SELZENTRY-treated patients.
-These events have been included because of their seriousness and either increased frequency on SELZENTRY or are potential risks due to the mechanism of action.
-Events attributed to the patient's underlying HIV infection are not listed.
-
-Blood and Lymphatic System: Marrow depression and hypoplastic anemia
-
-Cardiac Disorders: unstable angina, acute cardiac failure, coronary artery disease, coronary artery occlusion, myocardial infarction, myocardial ischemia
-
-Hepatobiliary Disorders: hepatic cirrhosis, hepatic failure, cholestatic jaundice, portal vein thrombosis
-
-Infections and Infestations: endocarditis, infective myositis, viral meningitis, pneumonia, treponema infections, septic shock
-
-Musculoskeletal and Connective Tissue Disorders: myositis, osteonecrosis, rhabdomyolysis, blood CK increased
-
-Neoplasms benign, malignant and Unspecified (incl Cysts and Polyps): anal cancer, anaplastic large cell lymphomas T- and null-cell types, bile duct neoplasms malignant, endocrine neoplasms malignant and unspecified, basal cell carcinoma, lymphoma, metastases to liver, esophageal carcinoma, squamous cell carcinoma, tongue neoplasm (malignant stage unspecified)
-
-Nervous System Disorders: cerebrovascular accident, convulsions and epilepsy, tremor (excluding congenital)
-
 Laboratory Abnormalities
 
-Table 3 shows the treatment-emergent Grade 3–4 laboratory abnormalities that occurred in >2% of patients receiving SELZENTRY.
+Table 3 shows the treatment-emergent Grade 3–4 laboratory abnormalities that occurred in >2% of subjects receiving SELZENTRY.
 
-| Aspartate aminotransferase | >5.0× ULN | 4.8 | 2.9 |
+Table 3 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3–4 Abnormalities (ACTG Criteria) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
+
+|  |  | N =421Percentages based on total subjects evaluated for each laboratory parameter % | N =207 % |
 | --- | --- | --- | --- |
-| Table 3 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3–4 Abnormalities (ACTG Criteria) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks) |  |  |  |
-| Laboratory Parameter Preferred Term, % | Limit | SELZENTRY Twice daily + OBT | Placebo + OBT |
-|  |  | N =421Percentages based on total patients evaluated for each laboratory parameter % | N =207 % |
+| Laboratory Parameter Preferred Term | Limit | SELZENTRY Twice daily + OBT | Placebo + OBT |
+| Aspartate aminotransferase | >5.0× ULN | 4.8 | 2.9 |
 | Alanine aminotransferase | >5.0× ULN | 2.6 | 3.4 |
 | Total bilirubin | >5.0× ULN | 5.5 | 5.3 |
 | Amylase | >2.0× ULN | 5.7 | 5.8 |
 | Lipase | >2.0× ULN | 4.9 | 6.3 |
 | Absolute neutrophil count | <750/mm3 | 4.3 | 2.4 |
+
+Study in Treatment-Naïve Subjects
+
+Treatment-Emergent Adverse Events
+
+Treatment-emergent adverse events, regardless of causality, from Study A4001026, a double-blind comparative controlled study in which 721 treatment-naïve subjects received SELZENTRY 300 mg BID (N=360) or efavirenz (N=361) in combination with zidovudine/lamivudine for 96 weeks, are summarized in Table 4.
+Selected events occurring at ≥ 2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
+
+Table 4 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared to efavirenz) Study A4001026 (96 Weeks)
+
+|  | SELZENTRY + zidovudine/lamivudine 300 mg BID N = 360 (%) | EFAVIRENZ + zidovudine/lamivudine 600 mg QD N = 361 (%) |
+| --- | --- | --- |
+| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
+| Anemias NEC | 8 | 5 |
+| Neutropenias | 4 | 3 |
+| EAR AND LABYRINTH DISORDERS |  |  |
+| Ear disorders NEC | 3 | 2 |
+| GASTROINTESTINAL DISORDERS |  |  |
+| Flatulence, bloating and distention | 10 | 7 |
+| Gastrointestinal atonic and hypomotility disorders NEC | 9 | 5 |
+| Gastrointestinal signs and symptoms NEC | 3 | 2 |
+| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
+| Body Temperature perception | 3 | 1 |
+| INFECTIONS AND INFESTATIONS |  |  |
+| Bronchitis | 13 | 9 |
+| Herpes Infection | 7 | 6 |
+| Upper Respiratory Tract Infection | 32 | 30 |
+| Bacterial infections NEC | 6 | 3 |
+| Herpes zoster/varicella | 5 | 4 |
+| Lower respiratory tract and lung infections | 3 | 2 |
+| Neisseria infections | 3 | 0 |
+| Tinea infections | 4 | 3 |
+| Viral infections NEC | 3 | 2 |
+| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |
+| Joint related signs and symptoms | 6 | 5 |
+| NERVOUS SYSTEM DISORDERS |  |  |
+| Memory loss (excluding dementia) | 3 | 1 |
+| Parasthesias and Dyesthesias | 4 | 3 |
+| RENAL AND URINARY DISORDERS |  |  |
+| Bladder and urethral symptoms | 4 | 3 |
+| REPRODUCTIVE SYSTEM AND BREAST DISORDERS |  |  |
+| Erection and ejaculation conditions and disorders | 3 | 2 |
+| RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS |  |  |
+| Upper respiratory tract signs and symptoms | 9 | 5 |
+| SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |
+| Acnes | 3 | 2 |
+| Alopecias | 2 | 1 |
+| Lipodystrophies | 4 | 3 |
+| Nail and nail bed conditions (excl infections and infestations) | 6 | 2 |
+
+Laboratory Abnormalities
+
+Table 5 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3–4 Abnormalities (ACTG Criteria) Study A4001026 (96 Weeks)
+
+| Laboratory Parameter Preferred Term | Limit | SELZENTRY 300 Twice daily + zidovudine/lamivudine N =353N = total number of subjects evaluable for laboratory abnormalities. % | Efavirenz 600 mg QD + zidovudine/lamivudine N =350 % |
+| --- | --- | --- | --- |
+| Aspartate aminotransferase | >5.0× ULN | 4.0 | 4.0 |
+| Alanine aminotransferase | >5.0× ULN | 3.9 | 4.0 |
+| Creatine kinase |  | 3.9 | 4.8 |
+| Amylase | >2.0× ULN | 4.3 | 6.0 |
+| Absolute neutrophil count | <750/mm3 | 5.7 | 4.9 |
+| Hemoglobin | <7.0 g/dL | 2.9 | 2.3 |
+| Percentages based on total subjects evaluated for each laboratory parameter. If the same subject in a given treatment group had >1 occurrence of the same abnormality, only the most severe is counted. |  |  |  |
+
+Less Common Adverse Events in Clinical Trials
+
+The following adverse events occurred in <2% of SELZENTRY-treated subjects.
+These events have been included because of their seriousness and either increased frequency on SELZENTRY or are potential risks due to the mechanism of action.
+Events attributed to the patient's underlying HIV infection are not listed.
+
+Blood and Lymphatic System: marrow depression and hypoplastic anemia
+
+Cardiac Disorders: unstable angina, acute cardiac failure, coronary artery disease, coronary artery occlusion, myocardial infarction, myocardial ischemia
+
+Hepatobiliary Disorders: hepatic cirrhosis, hepatic failure, cholestatic jaundice, portal vein thrombosis, hypertransaminasemia, jaundice
+
+Infections and Infestations: endocarditis, infective myositis, viral meningitis, pneumonia, treponema infections, septic shock, Clostridium difficile colitis, meningitis
+
+Musculoskeletal and Connective Tissue Disorders: myositis, osteonecrosis, rhabdomyolysis, blood CK increased
+
+Neoplasms benign, Malignant and Unspecified (including Cysts and Polyps): abdominal neoplasm, anal cancer, basal cell carcinoma, Bowen's disease, cholangiocarcinoma, diffuse large B-cell lymphoma, lymphoma, metastases to liver, esophageal carcinoma, nasopharyngeal carcinoma, squamous cell carcinoma, squamous cell carcinoma of skin, tongue neoplasm (malignant stage unspecified), anaplastic large cell lymphomas T- and null-cell types, bile duct neoplasms malignant, endocrine neoplasms malignant and unspecified
+
+Nervous System Disorders: cerebrovascular accident, convulsions and epilepsy, tremor (excluding congenital), facial palsy, hemianopia, loss of consciousness, visual field defect
+
+## 6.2 Postmarketing Experience
+
+The following events have been identified during post-approval use of SELZENTRY.
+Because these reactions are reported voluntarily from a population of unknown size, it is not possible to estimate their frequency or establish a causal relationship to SELZENTRY exposure.
+
+Skin and Subcutaneous Tissue Disorders Stevens-Johnson syndrome.

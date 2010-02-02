@@ -1,4 +1,4 @@
-WARNING: HEPATOTOXICITY
+# WARNING: HEPATOTOXICITY
 
 Hepatotoxicity has been reported with SELZENTRY use.
 Evidence of a systemic allergic reaction (e.g., pruritic rash, eosinophilia or elevated IgE) prior to the development of hepatotoxicity may occur.

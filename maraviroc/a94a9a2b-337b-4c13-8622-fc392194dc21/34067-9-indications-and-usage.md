@@ -1,12 +1,17 @@
 # 1 INDICATIONS AND USAGE
 
-SELZENTRY, in combination with other antiretroviral agents, is indicated for treatment-experienced adult patients infected with only CCR5-tropic HIV-1, who have evidence of viral replication and HIV-1 strains resistant to multiple antiretroviral agents.
+SELZENTRY, in combination with other antiretroviral agents, is indicated for adult patients infected with only CCR5-tropic HIV-1.
 
-This indication is based on analyses of plasma HIV-1 RNA levels in two controlled studies of SELZENTRY of 48 weeks duration.
-Both studies were conducted in clinically advanced, 3-class antiretroviral (NRTI, NNRTI, PI, or enfuvirtide) treatment-experienced adults with evidence of HIV-1 replication despite ongoing antiretroviral therapy.
+This indication is based on analyses of plasma HIV-1 RNA levels in two controlled studies of SELZENTRY in treatment-experienced subjects and one study in treatment-naïve subjects.
+Both studies in treatment-experienced subjects were conducted in clinically advanced, 3-class antiretroviral-experienced (NRTI, NNRTI, PI, or enfuvirtide) adults with evidence of HIV-1 replication despite ongoing antiretroviral therapy.
 
 The following points should be considered when initiating therapy with SELZENTRY:
 
-- Tropism testing is required for the appropriate use of SELZENTRY.
-- Use of SELZENTRY is not recommended in patients with dual/mixed or CXCR4-tropic HIV-1 as efficacy was not demonstrated in a phase 2 study of this patient group.
-- The safety and efficacy of SELZENTRY have not been established in treatment-naïve adult patients or pediatric patients.
+- Adult patients infected with only CCR5-tropic HIV-1 should use SELZENTRY.
+- Tropism testing must be conducted with a highly sensitive tropism assay that has demonstrated the ability to identify patients appropriate for SELZENTRY use.
+  Outgrowth of pre-existing low-level CXCR4- or dual/mixed-tropic HIV-1 not detected by tropism testing at screening has been associated with virologic failure on SELZENTRY.
+  [see Microbiology (12.4) Clinical Studies (14.3)].
+- Use of SELZENTRY is not recommended in subjects with dual/mixed or CXCR4-tropic HIV-1 as efficacy was not demonstrated in a phase 2 study of this patient group.
+- The safety and efficacy of SELZENTRY have not been established in pediatric patients.
+- In treatment-naïve subjects, more subjects treated with SELZENTRY experienced virologic failure and developed lamivudine resistance compared to efavirenz.
+  [see Microbiology (12.4) Clinical Studies (14.3)]

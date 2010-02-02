@@ -5,7 +5,7 @@
 Pregnancy Category B
 
 The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with maraviroc in rats at exposures (AUC) approximately 20-fold higher and in rabbits at approximately 5-fold higher than human exposures at the recommended daily dose (up to 1000 mg/kg/day in rats and 75 mg/kg/day in rabbits).
-During the pre- and post-natal development studies in the offspring, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of maraviroc.
+During the pre- and postnatal development studies in the offspring, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of maraviroc.
 
 However, there are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, SELZENTRY should be used during pregnancy only if clearly needed.
@@ -34,7 +34,7 @@ In general, caution should be exercised when administering SELZENTRY in elderly 
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of maraviroc have not been specifically studied in patients with renal impairment, therefore maraviroc should be used with caution in this population.
+The safety and efficacy of maraviroc have not been specifically studied in patients with renal impairment; therefore, maraviroc should be used with caution in this population.
 In the absence of metabolic inhibitors, renal clearance accounts for approximately 23% of total clearance of maraviroc.
 Maraviroc concentrations may be increased in patients with renal impairment, especially when CYP3A inhibitors are coadministered.
 Patients with a creatinine clearance of less than 50 mL/min who receive maraviroc and a CYP3A inhibitor may be at an increased risk of adverse effects related to increased maraviroc concentrations, such as dizziness and postural hypotension.
@@ -43,8 +43,7 @@ Thus, patients with a creatinine clearance of less than 50 mL/min should receive
 ## 8.7 Hepatic Impairment
 
 Maraviroc is principally metabolized by the liver; therefore, caution should be exercised when administering this drug to patients with hepatic impairment, because maraviroc concentrations may be increased.
-Maraviroc has not been studied in subjects with severe hepatic impairment.
-[see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Maraviroc has not been studied in subjects with severe hepatic impairment [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Gender
 
@@ -55,5 +54,4 @@ Dosage adjustment based on gender is not necessary.
 
 Population pharmacokinetic analysis of pooled Phase 1/2a data indicated exposure was 26.5% higher in Asians (N=95) as compared to non-Asians (n=318).
 However, a study designed to evaluate pharmacokinetic differences between Caucasians (n=12) and Singaporeans (n=12) showed no difference between these two populations.
-Only 14 Black subjects were included in the population pharmacokinetic analysis.
-No dosage adjustment based on race is needed.
+No dose adjustment based on race is needed.
