@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021299"
+  ],
   "inn": "paroxetine",
-  "labeler": "Noven Therapeutics, LLC",
+  "labeler": "NOVEN THERAPEUTICS, LLC",
   "package_ndcs": [
     "68968-2010-1",
     "68968-2020-1",
     "68968-2030-1",
     "68968-2040-1"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "paroxetine mesylate",
+      "name": "PEXEVA"
+    }
+  ],
   "setid": "6c4d4603-190a-496f-a40f-bc09853b9820",
   "source": "dailymed"
 }

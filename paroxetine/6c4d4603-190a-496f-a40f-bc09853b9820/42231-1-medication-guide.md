@@ -1,4 +1,4 @@
-## Medication Guide
+# Medication Guide
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 

@@ -80,33 +80,31 @@ Treatment with PEXEVA® (paroxetine mesylate) and any concomitant serotonergic o
 Thioridazine administration alone produces prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsade de pointes-type arrhythmias, and sudden death.
 This effect appears to be dose-related.
 
-Anin vivostudy suggests that drugs which inhibit CYP2D6, such as paroxetine, will elevate plasma levels of thioridazine.
+An in vivo study suggests that drugs which inhibit CYP2D6, such as paroxetine, will elevate plasma levels of thioridazine.
 Therefore, it is recommended that paroxetine not be used in combination with thioridazine (see CONTRAINDICATIONS and PRECAUTIONS).
 
 ## Usage in Pregnancy
 
-Teratogenic Effects: Epidemiological studies have shown that infants born to women who had first trimester paroxetine exposure had an increased risk of cardiovascular malformations.
-If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
-Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuation of Treatment with PEXEVA® (paroxetine mesylate)).
-For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
+Teratogenic Effects: Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
+The findings from these studies are summarized below:
 
-In two studies, the cardiovascular defects observed were primarily ventricular and atrial septal defects (VSDs and ASDs).
-In general, septal defects range from those that are symptomatic and may require surgery to those that are asymptomatic and may resolve spontaneously.
-A study based on Swedish national registry data evaluated infants of 6,896 women exposed to antidepressants in early pregnancy (5,123 women exposed to SSRIs, including 815 for paroxetine).
-Infants exposed to paroxetine in early pregnancy had an increased risk of cardiovascular malformations (primarily VSDs and ASDs) compared to the entire registry population (OR 1.8; 95% confidence interval 1.1-2.8).
-The rate of cardiovascular malformations following early pregnancy paroxetine exposure was 2% vs. 1% in the entire registry population.
-Among the same paroxetine-exposed infants, an examination of the data showed no increase in the overall risk for congenital malformations.
-
-A separate retrospective cohort study using US United Healthcare data evaluated 5956 infants of mothers dispensed paroxetine or other antidepressants during the first trimester (n=815 for paroxetine).
-This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine compared to other antidepressants (OR 1.5; 95% confidence interval 0.8-2.9).
-The prevalence of cardiovascular malformations following first trimester dispensing was 1.5% for paroxetine vs 1% for other antidepressants.
-Nine out of 12 infants with cardiovascular malformations whose mothers were dispensed paroxetine in the first trimester had VSDs.
-This study also suggested an increased risk of overall major congenital malformations (inclusive of the cardiovascular defects) for paroxetine compared to other antidepressants (OR 1.8; 95% confidence interval 1.2-2.8).
-The prevalence of all congenital malformations following first trimester exposure was 4% for paroxetine vs 2% for other antidepressants.
-
-In two large multi-center case-control studies using separate databases, infants born to women who had first trimester paroxetine exposure had a two- to three-fold increased risk of right ventricular outflow tract obstructions.
-In a study of 9622 infants with birth defects ascertained through birth defects surveillance systems in eight U.S. states and 4092 control infants, the odds ratio for right ventricular outflow tract obstruction was 2.5 (95% confidence interval 1.0-6.0) for infants exposed to paroxetine in the first trimester of pregnancy compared to infants with no SSRI exposure.
-In a study of 9849 infants with birth defects and 5860 control infants without birth defects participating in the Slone Epidemiology Center Birth Defects Study, the odds ratio for right ventricular outflow tract obstruction was 3.3 (95% confidence interval 1.3-8.8) for infants exposed to paroxetine in the first trimester of pregnancy compared to infants with no antidepressant exposure.
+- A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
+  No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
+  The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
+  Septal defects range in severity from those that resolve spontaneously to those which require surgery.
+- A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
+  This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
+  Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
+  This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
+- Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
+  In one study the OR was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the OR was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
+- Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
+  A meta-analysis of epidemiological data over a 16-year period (1992 to 2008) included a total of 20 distinct studies: 11 studies (including the above noted studies) reported estimates for both cardiovascular defects and overall congenital malformations, 3 studies reported estimates only for cardiovascular defects, and 6 studies reported estimates only for overall congenital malformations.
+  While subject to limitations, this meta-analysis suggested an increased occurrence of cardiovascular malformations (prevalence odds ratio [POR] 1.5; 95% confidence interval 1.2 to 1.9) and overall malformations (POR 1.2; 95% confidence interval 1.1 to 1.4) with paroxetine use during the first trimester.
+  It was not possible in this meta-analysis to determine the extent to which cardiovascular malformations might have contributed to overall malformations, nor was it possible to determine whether any specific types of cardiovascular malformations contributed to all cardiovascular malformations.
+- If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
+  Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuation of Treatment With PEXEVA).
+  For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
 
 Animal Findings: Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis.
 These doses are approximately 8 (rat) and 2 (rabbit) times the MRHD on an mg/m2 basis.

@@ -50,7 +50,7 @@ The initial dosage should therefore be reduced in patients with severe renal or 
 Elderly Patients: In a multiple-dose study in the elderly at daily paroxetine doses of 20, 30, and 40 mg, Cmin concentrations were about 70% to 80% greater than the respective Cmin concentrations in nonelderly subjects.
 Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND ADMINISTRATION).
 
-Drug-Drug Interactions:In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
+Drug-Drug Interactions: In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
 Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS—Drug Interactions).
 
 ## Clinical Trials
