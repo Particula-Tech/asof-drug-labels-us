@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078899"
+  ],
+  "inn": "bromocriptine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-654-01",
+    "65841-654-06"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine mesylate"
+    }
+  ],
+  "setid": "97e7e051-ff64-4381-a869-6c1c364ad822",
+  "source": "dailymed"
+}
