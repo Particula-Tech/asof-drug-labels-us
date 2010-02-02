@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078899"
+  ],
+  "inn": "bromocriptine",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-110-01",
+    "68382-110-06"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine mesylate"
+    }
+  ],
+  "setid": "d69003ee-0b6f-47a9-834e-ba59c02f566c",
+  "source": "dailymed"
+}
