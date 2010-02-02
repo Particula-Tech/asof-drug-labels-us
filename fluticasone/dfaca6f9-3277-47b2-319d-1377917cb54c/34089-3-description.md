@@ -24,6 +24,7 @@ Each actuation delivers 45, 115, or 230 mcg of fluticasone propionate and 21 mcg
 Twenty-one micrograms (21 mcg) of salmeterol base is equivalent to 30.45 mcg of salmeterol xinafoate.
 The actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between the actuation of the device and inspiration through the delivery system.
 
+Each 8-g canister contains 60 inhalations.
 Each 12-g canister provides 120 inhalations.
 
 ADVAIR HFA should be primed before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.

@@ -214,8 +214,7 @@ Cases of serious eosinophilic conditions have also been reported with other inha
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal relationship between fluticasone propionate and these underlying conditions has not been established (see ADVERSE REACTIONS: Observed During Clinical Practice: Eosinophilic Conditions).
 
-Information for Patients: Patients should be instructed to read the accompanying Medication Guide with each new prescription and refill.
-The complete text of the Medication Guide is reprinted at the end of this document.
+Information for Patients: Patients should be instructed to read the accompanying Medication Guide, which is supplied as a tear-off leaflet from this document, with each new prescription and refill.
 
 Patients being treated with ADVAIR HFA should receive the following information and instructions.
 This information is intended to aid them in the safe and effective use of this medication.
@@ -254,7 +253,7 @@ It is important that patients understand how to use ADVAIR HFA in relation to ot
     When the counter reads 020, contact the pharmacist for a refill of medication or consult the physician to determine whether a prescription refill is needed.
     Discard the inhaler when the counter reads 000.
     Never try to alter the numbers or remove the counter from the metal canister.
-16. For important summary information and instructions for the proper use of ADVAIR HFA, the patient should carefully read and follow the Medication Guide accompanying the product.
+16. For important summary information and instructions for the proper use of ADVAIR HFA, the patient should carefully read and follow the Medication Guide leaflet.
 
 ## Drug Interactions
 

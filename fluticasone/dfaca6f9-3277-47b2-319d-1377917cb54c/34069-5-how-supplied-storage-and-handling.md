@@ -1,13 +1,13 @@
 # HOW SUPPLIED
 
+ADVAIR HFA 45/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0715-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0715-22).
+
+ADVAIR HFA 115/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0716-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0716-22).
+
+ADVAIR HFA 230/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0717-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0717-22).
+
 Each strength of ADVAIR HFA Inhalation Aerosol is supplied in a 12-g pressurized aluminum canister containing 120 metered actuations in a box of 1.* Each canister is fitted with a counter, supplied with a purple actuator with a light purple strapcap, and sealed in a plastic-coated, moisture-protective foil pouch with a desiccant that should be discarded when the pouch is opened.
 Each canister is packaged with a Medication Guide leaflet.
-
-*NDC 0173-0715-20 ADVAIR HFA 45/21 Inhalation Aerosol
-
-*NDC 0173-0716-20 ADVAIR HFA 115/21 Inhalation Aerosol
-
-*NDC 0173-0717-20 ADVAIR HFA 230/21 Inhalation Aerosol
 
 The purple actuator supplied with ADVAIR HFA Inhalation Aerosol should not be used with any other product canisters, and actuators from other products should not be used with an ADVAIR HFA Inhalation Aerosol canister.
 
@@ -28,3 +28,12 @@ For best results, the inhaler should be at room temperature before use.
 SHAKE WELL FOR 5 SECONDS BEFORE USING.
 
 ADVAIR HFA Inhalation Aerosol does not contain chlorofluorocarbons (CFCs) as the propellant.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2009, GlaxoSmithKline.
+All rights reserved.
+
+September 2009 ADH:5PI

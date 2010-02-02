@@ -123,8 +123,7 @@ Ask your healthcare provider or pharmacist if you have any questions.
   - your breathing problems worsen with ADVAIR HFA
   - you need to use your short-acting beta2-agonist medicine more often than usual
   - your short-acting beta2-agonist medicine does not work as well for you at relieving symptoms
-  - you need to use 4 or more inhalations of your short-acting beta2-agonist medicine for 2 or more days in a row
-  - you use 1 whole canister of your short-acting beta2-agonist medicine in 8 weeks’ time
+  - you need to use your short-acting beta2-agonist medicine more than twice in 1 week
   - your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
   - you have asthma and your symptoms do not improve after using ADVAIR HFA regularly for 1 week
@@ -215,7 +214,7 @@ Do not use an ADVAIR HFA canister with an actuator from any other inhaler.
 The canister has a counter to show how many sprays of medicine you have left.
 The number shows through a window in the back of the actuator.
 
-The counter starts at 124.
+The counter starts at 124, or at 064 if you have a sample or institutional canister.
 The number will count down by 1 each time you spray the inhaler.
 The counter will stop counting at 000.
 
@@ -226,7 +225,7 @@ Before using your ADVAIR HFA:
 
 Take the inhaler out of the foil pouch.
 Safely throw away the foil pouch and the drying packet that comes inside the pouch.
-The counter should read 124.
+The counter should read 124, or 064 if you have a sample or institutional canister.
 
 The inhaler should be at room temperature before you use it.
 
@@ -240,7 +239,7 @@ To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well
 Then spray it 1 time into the air away from your face.
 Shake and spray the inhaler like this 3 more times to finish priming it.
 Avoid spraying in eyes.
-The counter should now read 120.
+The counter should now read 120, or 060 if you have a sample or institutional canister.
 
 You must prime your inhaler again if you have not used it in more than 4 weeks or if you have dropped it.
 Take the cap off the mouthpiece, shake the inhaler well for 5 seconds, and spray it into the air away from your face.
@@ -310,9 +309,7 @@ Put the cap back on the mouthpiece after the actuator has dried.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-November 2008 ADH:3MG
-
-ADVAIR, ADVAIR DISKUS, DISKUS, FLONASE, FLOVENT, SEREVENT, and VENTOLIN are registered trademarks of GlaxoSmithKline.
+ADVAIR, ADVAIR DISKUS, DISKUS, FLOVENT, and SEREVENT are registered trademarks of GlaxoSmithKline.
 
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
@@ -321,7 +318,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2009, GlaxoSmithKline.
 All rights reserved.
 
-November 2008 ADH:3PI
+September 2009 ADH:5MG
