@@ -1,3 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-PROAIR HFA Inhalation Aerosol is indicated in adults and children 12 years of age and older for the treatment or prevention of bronchospasm with reversible obstructive airway disease and for the prevention of exercise-induced bronchospasm.
+## 1.1 Bronchospasm
+
+PROAIR HFA Inhalation Aerosol is indicated for the treatment or prevention of bronchospasm in patients 4 years of age and older with reversible obstructive airway disease.
+
+## 1.2 Exercise-Induced Bronchospasm
+
+PROAIR HFA Inhalation Aerosol is indicated for the prevention of exercise-induced bronchospasm in patients 4 years of age and older.
