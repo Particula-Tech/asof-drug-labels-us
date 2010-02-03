@@ -22,5 +22,5 @@ Empiric therapy may be initiated while awaiting test results.
 Antimicrobial therapy should be adjusted as needed based upon test results.
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of CUBICIN and other antibacterial drugs, CUBICIN should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
-When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+When culture and susceptibility information is available, it should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

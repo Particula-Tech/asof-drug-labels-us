@@ -152,18 +152,18 @@ Table 7 summarizes the CPK shifts from Baseline through End of Therapy in the cS
 Table 7.
 Incidence (%) of Creatine Phosphokinase (CPK) Elevations from Baseline while on Therapy in Either CUBICIN or Comparator Treatment Groups in Phase 3 cSSSI Studies
 
-| % | N | % | N | % | N | % | N |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Change | All Patients |  |  |  | Patients with Normal CPK at Baseline |  |  |  |
-| CUBICIN |  | Comparator |  | CUBICIN |  | Comparator |  |  |
-| (N=430) |  | (N=459) |  | (N=374) |  | (N=392) |  |  |
-| No Increase | 90.7% | 390 | 91.1% | 418 | 91.2% | 341 | 91.1% | 357 |
-| Maximum Value >1X ULNULN (Upper Limit of Normal) is defined as 200 U/L. | 9.3% | 40 | 8.9% | 41 | 8.8% | 33 | 8.9% | 35 |
-| >2X ULN | 4.9% | 21 | 4.8% | 22 | 3.7% | 14 | 3.1% | 12 |
-| >4X ULN | 1.4% | 6 | 1.5% | 7 | 1.1% | 4 | 1.0% | 4 |
-| >5X ULN | 1.4% | 6 | 0.4% | 2 | 1.1% | 4 | 0.0% | 0 |
-| >10X ULN | 0.5% | 2 | 0.2% | 1 | 0.2% | 1 | 0.0% | 0 |
-| Note: Elevations in CPK observed in patients treated with CUBICIN or comparator were not clinically or statistically significantly different. |  |  |  |  |  |  |  |  |
+| % | N | % | N | % | N | % | N |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Change |  | All Patients |  |  |  | Patients with Normal CPK at Baseline |  |  |  |
+| CUBICIN |  | Comparator |  | CUBICIN |  | Comparator |  |  |  |
+| (N=430) |  | (N=459) |  | (N=374) |  | (N=392) |  |  |  |
+| No Increase |  | 90.7% | 390 | 91.1% | 418 | 91.2% | 341 | 91.1% | 357 |
+| Maximum Value | >1X ULNULN (Upper Limit of Normal) is defined as 200 U/L. | 9.3% | 40 | 8.9% | 41 | 8.8% | 33 | 8.9% | 35 |
+|  | >2X ULN | 4.9% | 21 | 4.8% | 22 | 3.7% | 14 | 3.1% | 12 |
+|  | >4X ULN | 1.4% | 6 | 1.5% | 7 | 1.1% | 4 | 1.0% | 4 |
+|  | >5X ULN | 1.4% | 6 | 0.4% | 2 | 1.1% | 4 | 0.0% | 0 |
+|  | >10X ULN | 0.5% | 2 | 0.2% | 1 | 0.2% | 1 | 0.0% | 0 |
+| Note: Elevations in CPK observed in patients treated with CUBICIN or comparator were not clinically or statistically significantly different. |  |  |  |  |  |  |  |  |  |
 
 In the S. aureus bacteremia/endocarditis study, a total of 11 CUBICIN-treated patients (9.2%) had treatment-emergent elevations in CPK to >500 U/L, including 4 patients with elevations >10X ULN.
 Three of these 11 patients had CPK levels return to the normal range during continued CUBICIN treatment, 6 had values return to the normal range during follow-up, 1 had values returning toward baseline at the last assessment, and 1 did not have follow-up values reported.

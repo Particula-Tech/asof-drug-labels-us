@@ -101,7 +101,7 @@ Quality control microorganisms are specific strains of organisms with intrinsic 
 Table 4.
 Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Susceptibility Test Results
 
-| Quality Control Strain | Broth Dilution MIC RangeThe quality control ranges for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the quality control ranges for S. pneumoniae are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. (μg/mL) |
+| Quality Control Strain | Broth Dilution MIC RangeThe quality control ranges for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the quality control ranges for S. pneumoniae are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. (µg/mL) |
 | --- | --- |
 | Enterococcus faecalis ATCC 29212 | 1−4 |
 | Staphylococcus aureus ATCC 29213 | 0.25−1 |

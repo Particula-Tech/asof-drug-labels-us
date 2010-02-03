@@ -6,7 +6,7 @@ CUBICIN 4 mg/kg should be administered over a 30-minute period by IV infusion in
 In Phase 1 and 2 clinical studies, CPK elevations appeared to be more frequent when CUBICIN was dosed more frequently than once daily.
 Therefore, CUBICIN should not be dosed more frequently than once a day.
 
-## Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
+## Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
 CUBICIN 6 mg/kg should be administered over a 30-minute period by IV infusion in 0.9% sodium chloride injection once every 24 hours for a minimum of 2 to 6 weeks.
 Duration of treatment should be based on the treating physician’s working diagnosis.
@@ -51,16 +51,16 @@ Reconstituted CUBICIN should be further diluted with 0.9% sodium chloride inject
 Since no preservative or bacteriostatic agent is present in this product, aseptic technique must be used in preparation of final IV solution.
 Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature or up to 48 hours if stored under refrigeration at 2 to 8ºC (36 to 46ºF).
 The diluted solution is stable in the infusion bag for 12 hours at room temperature or 48 hours if stored under refrigeration.
-The combined time (vial and infusion bag) at room temperature should not exceed 12 hours; the combined time (vial and infusion bag) under refrigeration should not exceed 48 hours.
+The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) at room temperature should not exceed 12 hours; the combined storage time (reconstituted solution in vial and diluted solution in infusion bag) under refrigeration should not exceed 48 hours.
 
-CUBICIN should not be used in conjunction with ReadyMED® elastomeric infusion pumps (Cardinal Health, Inc.) because of incompatibility due to an impurity leaching from this pump system into the CUBICIN solution.
+CUBICIN should not be used in conjunction with ReadyMED® elastomeric infusion pumps (Cardinal Health, Inc.). Stability studies of CUBICIN solutions stored in ReadyMED® elastomeric infusion pumps identified an impurity (2-mercaptobenzothiazole) leaching from this pump system into the CUBICIN solution.
 
 CUBICIN vials are for single use only.
 
 Parenteral drug products should be inspected visually for particulate matter prior to administration.
 
 Because only limited data are available on the compatibility of CUBICIN with other IV substances, additives or other medications should not be added to CUBICIN single-use vials or infused simultaneously through the same IV line.
-If the same IV line is used for sequential infusion of several different drugs, the line should be flushed with a compatible infusion solution before and after infusion with CUBICIN.
+If the same IV line is used for sequential infusion of several different drugs, the line should be flushed with a compatible infusion solution before and after infusion with CUBICIN (see DOSAGE AND ADMINISTRATION, Compatible Intravenous Solutions).
 
 ## Compatible Intravenous Solutions
 

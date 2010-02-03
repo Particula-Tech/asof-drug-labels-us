@@ -11,7 +11,7 @@ The mean (SD) steady-state trough concentrations attained following administrati
 Table 1.
 Mean (SD) CUBICIN Pharmacokinetic Parameters in Healthy Volunteers at Steady-State
 
-| (mg/kg) | (µg*h/mL) | (h) | (L/kg) | (mL/h/kg) | (µg/mL) |
+| (mg/kg) | (µg•h/mL) | (h) | (L/kg) | (mL/h/kg) | (µg/mL) |
 | --- | --- | --- | --- | --- | --- |
 |  | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t½, terminal elimination half-life; Vss, volume of distribution at steady-state; CLT, plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
 | DoseDoses of CUBICIN in excess of 6 mg/kg have not been approved. | AUC0-24 | t1/2 | Vss | CLT | Cmax |
@@ -30,7 +30,7 @@ In clinical studies, mean serum protein binding in subjects with CLCR ≥30 mL/m
 However, there was a trend toward decreasing serum protein binding among subjects with CLCR <30 mL/min (87.6%), including those receiving hemodialysis (85.9%) and continuous ambulatory peritoneal dialysis (CAPD) (83.5%).
 The protein binding of daptomycin in subjects with hepatic impairment (Child-Pugh B) was similar to that in healthy adult subjects.
 
-The volume of distribution at steady-state (Vss) of daptomycin in healthy adult subjects was approximately 0.10 L/kg and was independent of dose.
+The volume of distribution at steady-state (Vss) of daptomycin in healthy adult subjects was approximately 0.1 L/kg and was independent of dose.
 
 ### Metabolism
 
@@ -71,7 +71,7 @@ Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of
 | 4 mg/kg | 4 mg/kg | 4 mg/kg | 4 mg/kg | 6 mg/kg | 6 mg/kg |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Renal Function | t1/2Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. | Vss | CLT | AUC0-∞ | AUCssParameters obtained at steady-state from patients with S. aureus bacteremia. | Cmin,ss |
-| (h) | (L/kg) | (mL/h/kg) | (µg*h/mL) | (µg*h/mL) | (µg*h/mL) |  |
+| (h) | (L/kg) | (mL/h/kg) | (µg•h/mL) | (µg•h/mL) | (µg•h/mL) |  |
 | Normal | 9.39 (4.74) | 0.13 (0.05) | 10.9 (4.0) | 417 (155) | 545 (296) | 6.9 (3.5) |
 | (CLCR >80 mL/min) | N=165 | N=165 | N=165 | N=165 | N=62 | N= 61 |
 | Mild Renal Impairment | 10.75 (8.36) | 0.12 (0.05) | 9.9 (4.0) | 466 (177) | 637 (215) | 12.4 (5.6) |
@@ -80,9 +80,9 @@ Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of
 | (CLCR 30−<50 mL/min) | N=24 | N=24 | N=24 | N=24 | N=15 | N=14 |
 | Severe Renal Impairment | 27.83 (14.85) | 0.20 (0.15) | 5.9 (3.9) | 925 (467) | 1050, 892 | 24.4, 21.4 |
 | (CLCR <30 mL/min) | N=8 | N=8 | N=8 | N=8 | N=2 | N=2 |
-| Hemodialysis | 29.81 (6.13) | 0.15 (0.04) | 3.7 (1.9) | 1244 (374) | NA | NA |
+| Hemodialysis and CAPD | 29.81 (6.13) | 0.15 (0.04) | 3.7 (1.9) | 1244 (374) | NA | NA |
 |  | N=21 | N=21 | N=21 | N=21 |  |  |
-| Note: CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. |  |  |  |  |  |  |
+| Note: CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. |  |  |  |  |  |  |
 
 ### Hepatic Insufficiency
 
@@ -109,7 +109,7 @@ The pharmacokinetics of daptomycin were evaluated in 6 moderately obese (Body Ma
 Following administration of a single 4 mg/kg IV dose based on total body weight, the plasma clearance of daptomycin normalized to total body weight was approximately 15% lower in moderately obese subjects and 23% lower in extremely obese subjects compared with nonobese controls.
 The AUC0-∞ of daptomycin increased approximately 30% in moderately obese and 31% in extremely obese subjects compared with nonobese controls.
 The differences were most likely due to differences in the renal clearance of daptomycin.
-No dosage adjustment of CUBICIN is warranted in obese subjects.
+No dosage adjustment of CUBICIN is warranted in obese patients.
 
 ### Pediatric
 

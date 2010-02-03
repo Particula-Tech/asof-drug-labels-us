@@ -110,7 +110,7 @@ Daptomycin did not affect the fertility or reproductive performance of male and 
 
 Reproductive and teratology studies performed in rats and rabbits at doses of up to 75 mg/kg, 2 and 4 times the 6 mg/kg human dose, respectively, on a body surface area basis, have revealed no evidence of harm to the fetus due to daptomycin.
 There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Because animal reproduction studies are not always predictive of human response, CUBICIN should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
 
