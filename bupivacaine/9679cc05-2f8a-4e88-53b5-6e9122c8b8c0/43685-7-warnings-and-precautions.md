@@ -9,7 +9,7 @@ Spinal anesthetics should not be injected during uterine contractions, because s
 A free flow of cerebrospinal fluid during the performance of spinal anesthesia is indicative of entry into the subarachnoid space.
 However, aspiration should be performed before the anesthetic solution is injected to confirm entry into the subarachnoid space and to avoid intravascular injection.
 
-MARCAINE solutions containing epinephrine or other vasopressors should not be used con-comitantly with ergot-type oxytocic drugs, because a severe persistent hypertension may occur.
+MARCAINE solutions containing epinephrine or other vasopressors should not be used concomitantly with ergot-type oxytocic drugs, because a severe persistent hypertension may occur.
 Likewise, solutions of MARCAINE containing a vasoconstrictor, such as epinephrine, should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe prolonged hypertension may result.
 
 Until further experience is gained in patients younger than 18 years, administration of MARCAINE in this age group is not recommended.

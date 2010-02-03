@@ -25,7 +25,7 @@ It has also been noted that there is a period of analgesia that persists after t
 
 The onset of sensory blockade following spinal block with MARCAINE Spinal is very rapid (within one minute); maximum motor blockade and maximum dermatome level are achieved within 15 minutes in most cases.
 Duration of sensory blockade (time to return of complete sensation in the operative site or regression of two dermatomes) following a 12 mg dose averages 2 hours with or without 0.2 mg epinephrine.
-The time to return of complete motor ability with 12 mg MARCAINE Spinal averages 3 1/2 hours without the addition of epinephrine and 4½ hours if 0.2 mg epinephrine is added.
+The time to return of complete motor ability with 12 mg MARCAINE Spinal averages 3 1/2 hours without the addition of epinephrine and 4 1/2 hours if 0.2 mg epinephrine is added.
 When compared to equal milligram doses of hyperbaric tetracaine, the duration of sensory blockade was the same but the time to complete motor recovery was significantly longer for tetracaine.
 Addition of 0.2 mg epinephrine significantly prolongs the motor blockade and time to first postoperative narcotic with MARCAINE Spinal.
 
