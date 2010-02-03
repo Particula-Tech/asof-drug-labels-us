@@ -10,20 +10,6 @@ The most common reasons for discontinuation were headache (0.6%) and cough (0.5%
 
 The side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in more than 1% of patients treated with benazepril hydrochloride are shown below.
 
-PATIENTS IN U.S. PLACEBO-CONTROLLED STUDIES
-
-|  | BENAZEPRIL HYDROCHLORIDE |  | PLACEBO |  |
-| --- | --- | --- | --- | --- |
-|  | (N=964) |  | (N=964) |  |
-|  | N | % | N | % |
-| Headache | 60 | 6.2 | 21 | 4.2 |
-| Dizziness | 35 | 3.6 | 12 | 2.4 |
-| Fatigue | 23 | 2.4 | 11 | 2.2 |
-| Somnolence | 15 | 1.6 | 2 | 0.4 |
-| Postural Dizziness | 14 | 1.5 | 1 | 0.2 |
-| Nausea | 13 | 1.3 | 5 | 1.0 |
-| Cough | 12 | 1.2 | 5 | 1.0 |
-
 Other adverse experiences reported in controlled clinical trials (in less than 1% of benazepril patients), and rarer events seen in postmarketing experience, include the following (in some, a causal relationship to drug use is uncertain):
 
 Cardiovascular: Symptomatic hypotension was seen in 0.3% of patients, postural hypotension in 0.4%, and syncope in 0.1%; these reactions led to discontinuation of therapy in 4 patients who had received benazepril monotherapy and in 9 patients who had received benazepril with hydrochlorothiazide (see PRECAUTIONS and WARNINGS).
@@ -47,7 +33,7 @@ Hematologic: Thrombocytopenia and hemolytic anemia.
 
 Neurologic and Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia.
 
-Other: Asthma, bronchitis, dyspnea, sinusitus, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, and sweating.
+Other: Asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, and sweating.
 
 Another potentially important adverse experience, eosinophilic pneumonitis, has been attributed to other ACE inhibitors.
 
@@ -61,7 +47,7 @@ The long-term effects of benazepril on growth and development have not been stud
 Clinical Laboratory Test Findings
 
 Creatinine and Blood Urea Nitrogen: Of hypertensive patients with no apparent preexisting renal disease, about 2% have sustained increases in serum creatinine to at least 150% of their baseline values while receiving benazepril hydrochloride, but most of these increases have disappeared despite continuing treatment.
-A much smaller fraction of these patients (less than0.1%) developed simultaneous (usually transient) increases in blood urea nitrogen and serum creatinine.
+A much smaller fraction of these patients (less than 0.1%) developed simultaneous (usually transient) increases in blood urea nitrogen and serum creatinine.
 None of these increases required discontinuation of treatment.
 Increases in these laboratory values are more likely to occur in patients with renal insufficiency or those pretreated with a diuretic and, based on experience with other ACE inhibitors, would be expected to be especially likely in patients with renal artery stenosis (see PRECAUTIONS, General).
 

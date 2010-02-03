@@ -1,6 +1,6 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE & ADMINISTRATION
 
-## Hypertension
+Hypertension
 
 Adults
 
@@ -30,7 +30,7 @@ Doses above 0.6 mg/kg (or in excess of 40 mg daily) have not been studied in ped
 
 For pediatric patients who cannot swallow tablets, or for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths for benazepril hydrochloride, follow the suspension preparation instructions below to administer benazepril HCl as a suspension.
 
-Treatment with benazepril hydrochloride is not advised for children below the age of 6 years (see PRECAUTIONS, PEDIATRICS) and in pediatric patients with glomerular filtration rat <30 mL, as there are insufficient data available to support a dosing recommendation in these groups.
+Treatment with benazepril hydrochloride is not advised for children below the age of 6 years (see PRECAUTIONS, Pediatric Use) and in pediatric patients with glomerular filtration rate <30 mL, as there are insufficient data available to support a dosing recommendation in these groups.
 
 For Hypertensive Patients with Renal Impairment
 
@@ -46,5 +46,5 @@ Add 75 mL of Ora-Sweet®*oral syrup vehicle to the bottle and shake the suspensi
 The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 30 days in the PET bottle with a child-resistant screw-cap closure.
 Shake the suspension before each use.
 
-*Oral-Plus® and Ora-Sweet® are registered trademarks of Paddock Laboratories, Inc. Ora-Plus® contains carrageenan, calcium sulfate, citric acid, methylparaben, microcrystalline cellulose, carboxymethylcellulose sodium, potassium sorbate, simethicone, sodium phosphate monobasic, xanthan gum, and water.
+*Ora-Plus® and Ora-Sweet® are registered trademarks of Paddock Laboratories, Inc. Ora-Plus® contains carrageenan, citric acid, methylparaben, microcrystalline cellulose, carboxymethylcellulose sodium, potassium sorbate, simethicone, sodium phosphate monobasic, xanthan gum, and water.
 Ora-Sweet® contains citric acid, berry citrus flavorant, glycerin, methylparaben, potassium sorbate, sodium phosphate monobasic, sorbitol, sucrose, and water.

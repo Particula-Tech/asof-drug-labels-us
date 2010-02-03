@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+Mechanism of Action
 
 Benazepril and benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals.
 ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II.
@@ -19,7 +19,7 @@ Whether increased levels of bradykinin, a potent vasodepressor peptide, play a r
 
 While the mechanism through which benazepril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, benazepril has an antihypertensive effect even in patients with low-renin hypertension (see INDICATIONS AND USAGE).
 
-## Pharmacokinetics and Metabolism
+Pharmacokinetics and Metabolism
 
 Following oral administration of benazepril hydrochloride, peak plasma concentrations of benazepril are reached within 0.5-1.0 hours.
 The extent of absorption is at least 37% as determined by urinary recovery and is not significantly influenced by the presence of food in the GI tract.
@@ -49,19 +49,19 @@ In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels an
 When dialysis was started two hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.
 
-In patients with hepatic insufficiency (due to cirrhosis), the pharmacokineticsof benazeprilat are essentially unaltered.
+In patients with hepatic insufficiency (due to cirrhosis), the pharmacokinetics of benazeprilat are essentially unaltered.
 The pharmacokinetics of benazepril and benazeprilat do not appear to be influenced by age.
 
 In pediatric patients, (N=45) hypertensive, age 6 to 16 years, given multiple daily doses of Benazepril hydrochloride (0.1 to 0.5 mg/kg), the clearance of benazeprilat for children 6 to 12 years old was 0.35 L/hr/kg, more than twice that of healthy adults receiving a single dose of 10 mg (0.13 L/hr/kg).
 In adolescents, it was 0.17 L/hr/kg, 27% higher than that of healthy adults.
 The terminal elimination half-life of benazeprilat in pediatric patients was around 5 hours, one third that observed in adults.
 
-## Pharmacodynamics
+Pharmacodynamics
 
 Single and multiple doses of 10 mg or more of benazepril hydrochloride cause inhibition of plasma ACE activity by at least 80%-90% for at least 24 hours after dosing.
 Pressor responses to exogenous angiotensin I were inhibited by 60%-90% (up to 4 hours post-dose) at the 10-mg dose.
 
-### Hypertension
+Hypertension
 
 Adult
 

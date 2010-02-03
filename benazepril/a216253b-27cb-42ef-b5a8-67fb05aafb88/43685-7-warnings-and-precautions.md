@@ -21,7 +21,9 @@ In the same patients, these reactions were avoided when ACE inhibitors were temp
 Anaphylactoid Reactions During Membrane Exposure: Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption (a procedure dependent upon devices not approved in the United States).
 
-Hypotension Benazepril hydrochloride can cause symptomatic hypotension.
+Hypotension
+
+Benazepril hydrochloride can cause symptomatic hypotension.
 Like other ACE inhibitors, benazepril has been only rarely associated with hypotension in uncomplicated hypertensive patients.
 Symptomatic hypotension is most likely to occur in patients who have been volume- and/or salt-depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting.
 Volume- and/or salt-depletion should be corrected before initiating therapy with Benazepril hydrochloride.
@@ -32,13 +34,17 @@ In such patients, benazepril hydrochloride therapy should be started under close
 If hypotension occurs, the patient should be placed in a supine position, and, if necessary, treated with intravenous infusion of physiological saline.
 Benazepril hydrochloride treatment usually can be continued following restoration of blood pressure and volume.
 
-Neutropenia/Agranulocytosis Another angiotensin-converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients, but more frequently in patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma.
+Neutropenia/Agranulocytosis
+
+Another angiotensin-converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients, but more frequently in patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma.
 Available data from clinical trials of benazepril are insufficient to show that benazepril does not cause agranulocytosis at similar rates.
 Monitoring of white blood cell counts should be considered in patients with collagen-vascular disease, especially if the disease is associated with impaired renal function.
 
-Fetal/Neonatal Morbidity and Mortality ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
+Fetal/Neonatal Morbidity and Mortality
+
+ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
 Several dozen cases have been reported in the world literature.
-When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible.
+When pregnancy is detected, Benazepril hydrochloride should be discontinued as soon as possible and monitoring of the fetal development should be performed on a regular basis.
 
 The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
@@ -64,7 +70,9 @@ No teratogenic effects of benazepril hydrochloride were seen in studies of pregn
 On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
 On a mg/kg basis these multiples are 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
 
-Hepatic Failure Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and (sometimes) death.
+Hepatic Failure
+
+Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and (sometimes) death.
 The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
 
@@ -93,7 +101,7 @@ Impaired Liver Function: In patients with hepatic dysfunction due to cirrhosis, 
 Surgery/Anesthesia: In patients undergoing surgery or during anesthesia with agents that produce hypotension, benazepril will block the angiotensin II formation that could otherwise occur secondary to compensatory renin release.
 Hypotension that occurs as a result of this mechanism can be corrected by volume expansion.
 
-## Information for Patients
+Information for Patients
 
 Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors.
 Discuss other treatment options with women planning to become pregnant.
@@ -111,7 +119,7 @@ Hyperkalemia: Patients should be told not to use potassium supplements or salt s
 
 Neutropenia: Patients should be told to promptly report any indication of infection (e.g., sore throat, fever), which could be a sign of neutropenia.
 
-### Drug Interactions
+Drug Interactions
 
 Diuretics: Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with benazepril hydrochloride.
 The possibility of hypotensive effects with benazepril hydrochloride can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with benazepril hydrochloride.
@@ -149,12 +157,12 @@ Pregnancy Category D
 
 See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
 
-#### Nursing Mothers
+Nursing Mothers
 
 Minimal amounts of unchanged benazepril and of benazeprilat are excreted into the breast milk of lactating women treated with benazepril.
 A newborn child ingesting entirely breast milk would receive less than 0.1% of the mg/kg maternal dose of benazepril and benazeprilat.
 
-##### Geriatric Use
+Geriatric Use
 
 Of the total number of patients who received benazepril in U.S. clinical studies of Benazepril hydrochloride, 18% were 65 or older while 2% were 75 or older.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
@@ -169,5 +177,5 @@ The pharmacokinetics of Benazepril hydrochloride have been evaluated in pediatri
 Benazepril hydrochloride was generally well tolerated and adverse effects were similar to those described in adults.
 (See ADVERSE REACTIONS: Pediatric Patients).
 
-Treatment with Benazepril hydrochloride is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rat <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
-(See CLINICAL PHARMACOLOGY: In Pediatric Patients and DOSAGE AND ADMINISTRATION.)
+Treatment with Benazepril hydrochloride is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
+(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients and DOSAGE AND ADMINISTRATION.)

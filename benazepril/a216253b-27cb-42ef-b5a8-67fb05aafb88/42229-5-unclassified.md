@@ -1,1 +1,3 @@
-Rx only Prescribing Information
+Rx only
+
+Prescribing Information
