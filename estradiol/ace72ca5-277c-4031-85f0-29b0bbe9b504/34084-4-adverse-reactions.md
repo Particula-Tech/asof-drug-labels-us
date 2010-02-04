@@ -6,12 +6,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
 In two 12-week clinical trials that included 327 postmenopausal women treated with Femtrace and 221 women treated with placebo tablets, adverse events that occurred in any treatment group at a rate of ≥ 2% regardless of drug relationship are summarized in Table 5.
-Incidence of AEs Occurring in ≥ 2% of Subjects in Any Treatment Group Presented in Descending Frequency of Preferred Term.
 
-Table 5.
-Incidence of AEs Occurring in ≥ 2% of Subjects in Any Treatment Group Presented in Descending Frequency of Preferred Term
+Table 5 Incidence of AEs Occurring in ≥ 2% of Subjects in Any Treatment Group Presented in Descending Frequency of Preferred Term
 
-| Adverse EventRegardless of drug relationship | Placebo (n = 221) | Femtrace 0.45 mg/day (n = 132) | Femtrace 0.9 mg/day (n = 100) | Femtrace 1.8 mg/day (n = 95) |
+| Adverse EventRegardless of drug relationship | Placebo(n = 221) | Femtrace 0.45 mg/day(n = 132) | Femtrace 0.9 mg/day(n = 100) | Femtrace1.8 mg/day(n = 95) |
 | --- | --- | --- | --- | --- |
 |  | n (%) | n (%) | n (%) | n (%) |
 | Headache (NOS) | 12 (5.4) | 4 (3.0) | 5 (5.0) | 4 (4.2) |

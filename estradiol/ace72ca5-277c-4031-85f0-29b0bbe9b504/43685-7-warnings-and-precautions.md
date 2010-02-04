@@ -1,6 +1,6 @@
 # WARNINGS
 
-See: BOXED WARNINGS.
+See BOXED WARNINGS.
 
 ## 1. Cardiovascular disorders
 
@@ -9,7 +9,7 @@ Should any of these occur or be suspected, estrogens should be discontinued imme
 
 Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity and systemic lupus erythematosus) should be managed appropriately.
 
-### a. Coronary heart disease and stroke
+a. Coronary heart disease and stroke
 
 In the Women’s Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo.
 These observations are preliminary.
@@ -30,7 +30,7 @@ Rates of CHD events were comparable among women in the CE/MPA group and the plac
 
 Large doses of estrogen (5 mg conjugated estrogens per day), comparable to those used to treat cancer of the prostate and breast, have been shown in a large prospective clinical trial in men to increase the risks of nonfatal myocardial infarction, pulmonary embolism and thrombophlebitis.
 
-### b. Venous thromboembolism (VTE)
+b. Venous thromboembolism (VTE)
 
 In the Women’s Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo.
 These observations are preliminary.
@@ -44,7 +44,7 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 
 ## 2. Malignant neoplasms
 
-### a. Endometrial cancer
+a. Endometrial cancer
 
 The use of unopposed estrogens in women with intact uteri has been associated with an increased risk of endometrial cancer.
 The reported endometrial cancer risk among unopposed estrogen users is about 2- to 12-fold greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
@@ -56,10 +56,10 @@ Adequate diagnostic measures, including endometrial sampling when indicated, sho
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia which may be a precursor to endometrial cancer.
 
-### b. Breast cancer
+b. Breast cancer
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
-The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (see CLINICAL PHARMACOLOGY, Clinical Studies).
+The most important randomized clinical trial providing information about this issue is the Women’s Health Initiative (WHI) substudy of CE/MPA (See CLINICAL PHARMACOLOGY, Clinical Studies).
 The results from observational studies are generally consistent with those of the WHI clinical trial and report no significant variation in the risk of breast cancer among different estrogens or progestins, doses, or routes of administration.
 
 The CE/MPA substudy of WHI reported an increased risk of breast cancer in women who took CE/MPA for a mean follow-up of 5.6 years.
@@ -83,11 +83,11 @@ In addition, mammography examinations should be scheduled based on patient age, 
 ## 3. Dementia
 
 In the Women’s Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied of whom 35% were 70 to 74 years of age and 18% were 75 or older.
-After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n=2,303) received diagnoses of probable dementia.
+After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia.
 The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21-3.48) and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric use.)
+(See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use.)
 
 It is unknown whether these findings apply to estrogen alone therapy.
 
@@ -108,9 +108,10 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 
 # PRECAUTIONS
 
-## General
+## A. General
 
-### 1. Addition of a progestin when a woman has not had a hysterectomy
+1.
+Addition of a progestin when a woman has not had a hysterectomy
 
 Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.
@@ -118,37 +119,44 @@ Endometrial hyperplasia may be a precursor to endometrial cancer.
 There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
 These include a possible increased risk of breast cancer.
 
-### 2. Elevated blood pressure
+2.
+Elevated blood pressure
 
 In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
 Blood pressure should be monitored at regular intervals with estrogen use.
 
-### 3. Hypertriglyceridemia
+3.
+Hypertriglyceridemia
 
 In patients with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis and other complications.
 
-### 4. Impaired liver function and a past history of cholestatic jaundice
+4.
+Impaired liver function and a past history of cholestatic jaundice
 
 Estrogens may be poorly metabolized in patients with impaired liver function.
 For patients with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised and in the case of recurrence, medication should be discontinued.
 
-### 5. Hypothyroidism
+5.
+Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
 Patients with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
 Patients dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
 These patients should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
 
-### 6. Fluid retention
+6.
+Fluid retention
 
 Because estrogens may cause some degree of fluid retention, patients with conditions that might be influenced by this factor, such as cardiac or renal dysfunction, warrant careful observation when estrogens are prescribed.
 
-### 7. Hypocalcemia
+7.
+Hypocalcemia
 
 Estrogens should be used with caution in individuals with severe hypocalcemia.
 
-### 8. Ovarian cancer
+8.
+Ovarian cancer
 
 The CE/MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77-3.24) but was not statistically significant.
@@ -156,39 +164,52 @@ The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 
 In some epidemiologic studies, the use of estrogen alone, in particular for ten or more years, has been associated with an increased risk of ovarian cancer.
 Other epidemiologic studies have not found these associations.
 
-### 9. Exacerbation of endometriosis
+9.
+Exacerbation of endometriosis
 
 Endometriosis may be exacerbated with administration of estrogens.
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-### 10. Exacerbation of other conditions
+10.
+Exacerbation of other conditions
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine or porphyria, systemic lupus erythematosus and hepatic hemangiomas, and should be used with caution in women with these conditions.
 
-## Patient Information
+## B. Patient Information
 
 Physicians are advised to discuss the PATIENT INFORMATION leaflet with patients for whom they prescribe Femtrace.
 
-## Laboratory tests
+## C. Laboratory Tests
 
 Estrogen administration should be initiated at the lowest dose approved for the indication and then guided by clinical response rather than by serum hormone levels (e.g., estradiol, FSH).
 
-## Drug/laboratory test interactions
+## D. Drug/Laboratory Test Interactions
 
-1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-2. Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
-   T3 resin uptake is decreased, reflecting the elevated TBG.
-   Free T4 and free T3 concentrations are unaltered.
-   Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
-   Free hormone concentrations may be decreased.
-   Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-4. Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
-5. Impaired glucose tolerance.
-6. Reduced response to metyrapone test.
+1.
+Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+2.
+Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+T3 resin uptake is decreased, reflecting the elevated TBG.
+Free T4 and free T3 concentrations are unaltered.
+Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
+
+3.
+Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
+Free hormone concentrations may be decreased.
+Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
+
+4.
+Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
+
+5.
+Impaired glucose tolerance.
+
+6.
+Reduced response to metyrapone test.
+
+## E. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term continuous administration of estrogen, with or without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer and ovarian cancer.
 (See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
@@ -198,22 +219,22 @@ Long-term continuous administration of natural and synthetic estrogens in certai
 Estradiol acetate was assayed for mutation in four histidine-requiring strains of Salmonella typhimurium and in one tryptophan-requiring strains of Escherichia coli.
 Estradiol acetate did not induce mutations in any of the bacterial strains tested under the conditions employed.
 
-## Pregnancy
+## F. Pregnancy
 
 Femtrace should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
 
-## Nursing mothers
+## G. Nursing Mothers
 
 Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
 Detectable amounts of estrogens have been identified in the milk of mothers receiving this drug.
 Caution should be exercised when Femtrace is administered to a nursing woman.
 
-## Pediatric use
+## H. Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Geriatric use
+## I. Geriatric Use
 
 Clinical studies of Femtrace did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greatest frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
@@ -223,7 +244,6 @@ Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
 Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70.
-(See WARNINGS, 3.
-Dementia.)
+(See WARNINGS, Dementia.)
 
 It is unknown whether these findings apply to estrogen alone therapy.

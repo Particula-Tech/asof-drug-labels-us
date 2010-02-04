@@ -1,6 +1,6 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
-(Updated March 2007)
+(Updated April 2009)
 
 Femtrace® (estradiol acetate tablets)
 
@@ -16,7 +16,8 @@ What is Femtrace used for?
 
 Femtrace is used after menopause to:
 
-- reduce moderate to severe hot flashes.Estrogens are hormones made by a woman’s ovaries.
+- reduce moderate to severe hot flashes.
+  Estrogens are hormones made by a woman’s ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
@@ -46,7 +47,7 @@ Tell your healthcare provider:
 - about all the medicines you take This includes prescription and nonprescription medicines, vitamins and herbal supplements.
   Some medicines may affect how Femtrace works.
   Femtrace may also affect how your other medicines work.
-- if you are going to have surgery or will be on bed restYou may need to stop taking estrogens.
+- if you are going to have surgery or will be on bed rest You may need to stop taking estrogens.
 
 How should I take Femtrace?
 
@@ -140,12 +141,20 @@ It also contains the following inactive ingredients: ferric oxide, povidone, lac
 
 Rx Only
 
-Manufactured by: Pharmaceutics International, Inc., Hunt Valley, MD 21031
+Manufactured by:
 
-for Warner Chilcott Company, Inc., Fajardo, PR 00738
+Pharmaceutics International, Inc., Hunt Valley, MD 21031
 
-Marketed by: Warner Chilcott (US) Inc., Rockaway, NJ 07866
+for Warner Chilcott Company, LLC, Fajardo, PR 00738
 
-0389G160
+Marketed by:
 
-REVISED March 2007
+Warner Chilcott (US), LLC, Rockaway, NJ 07866
+
+1-800-521-8813
+
+To report SUSPECTED ADVERSE REACTIONS, contact Warner Chilcott at 1-800-521-8813 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+0389G162
+
+Revised April 2009

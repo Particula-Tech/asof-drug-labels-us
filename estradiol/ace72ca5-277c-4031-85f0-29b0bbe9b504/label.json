@@ -1,14 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021633"
+  ],
   "inn": "estradiol",
-  "labeler": "Warner Chilcott (US), Inc.",
+  "labeler": "Warner Chilcott (US), LLC",
   "package_ndcs": [
     "0430-0389-24",
     "0430-0390-24",
-    "0430-0390-95",
     "0430-0391-24"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "estradiol acetate",
+      "name": "Femtrace"
+    }
+  ],
   "setid": "ace72ca5-277c-4031-85f0-29b0bbe9b504",
   "source": "dailymed"
 }
