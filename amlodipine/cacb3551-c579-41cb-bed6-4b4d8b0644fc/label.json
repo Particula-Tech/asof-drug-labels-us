@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078226"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-620-01",
+    "65841-620-05",
+    "65841-620-16",
+    "65841-620-30",
+    "65841-621-01",
+    "65841-621-05",
+    "65841-621-16",
+    "65841-621-30",
+    "65841-622-01",
+    "65841-622-05",
+    "65841-622-16",
+    "65841-622-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amlodipine besylate",
+      "name": "Amlodipine Besylate"
+    }
+  ],
+  "setid": "cacb3551-c579-41cb-bed6-4b4d8b0644fc",
+  "source": "dailymed"
+}
