@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA081235"
+  ],
   "inn": "methotrexate",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
-    "0378-0014-01"
+    "0378-0014-01",
+    "0378-0014-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methotrexate",
+      "name": "Methotrexate"
+    }
+  ],
   "setid": "70c09984-2b36-424f-8b27-3fd0cd4e833d",
   "source": "dailymed"
 }
