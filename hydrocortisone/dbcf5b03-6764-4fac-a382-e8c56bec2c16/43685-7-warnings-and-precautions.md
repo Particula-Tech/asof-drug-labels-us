@@ -15,7 +15,7 @@ When using neomycin-containing products to control secondary infection in the ch
 The manifestation of sensitization to neomycin is ususally a low-grade reddening with swelling, dry scaling, and itching; it may be manifest simply as a failure to heal.
 Periodic examination for such signs is advisable, and the patient should be told to discontinue the product if they are observed.
 These symptoms regress quickly on withdrawing the medication.
-Neomycin-containing applications should be avoided for the patient thereafter.
+Neomycin containing applications should be avoided for the patient thereafter.
 
 # PRECAUTIONS
 
@@ -87,3 +87,10 @@ Since systemic absorption of these drugs may occur when they are used topically,
 ## Pediatric Use
 
 See DOSAGE AND ADMINISTRATION.
+
+The safety and effectiveness of Cortisporin®-TC Otic Suspension in infants below one year of age have not been established.
+The efficacy of Cortisporin®-TC Otic Suspension in pediatric patients one year or older in the treatment of superficial bacterial infections of the external auditory canal and for the treatment of infections of mastoidectomy and fenestration cavities has been demonstrated in a controlled clinical trial.
+
+## Geriatric Use
+
+No overall differences in safety or effectiveness have been observed between elderly and younger patients.

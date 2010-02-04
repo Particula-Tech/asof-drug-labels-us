@@ -24,4 +24,4 @@ Enterobacter aerogenes Escherichia coli Klebsiella pneumoniae Pseudomonas aerugi
 
 ### Susceptibility Tests
 
-It is not recommended that colistin sulfate or neomycin sulfate be routinely tested and reported by clinical microbiology laboratories.1
+It is not recommended that colistin sulfate or neomycin sulfate be routinely tested and reported by clinical microbiology laboratories.

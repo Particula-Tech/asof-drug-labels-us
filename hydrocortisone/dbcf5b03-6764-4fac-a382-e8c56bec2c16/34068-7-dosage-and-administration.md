@@ -7,8 +7,8 @@ The external auditory canal should be thoroughly cleansed and dried with a steri
 
 When using the calibrated dropper:
 
-For adults, 5 drops of the suspension should be instilled into the affected ear 3 or 4 times daily using the provided dropper.
-For pediatric patients, 4 drops (using the provided dropper) are suggested because of the smaller capacity of the ear canal.
+For adults, 5 drops of the suspension should be instilled into the affected ear 3 or 4 times daily.
+For pediatric patients, 4 drops are suggested because of the smaller capacity of the ear canal.
 
 The patient should lie with the affected ear upward and then the drops should be instilled.
 This position should be maintained for 5 minutes to facilitate penetration of the drops into the ear canal.

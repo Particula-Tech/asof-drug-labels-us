@@ -13,6 +13,5 @@ A sterilized dropper-cap assembly for use on the bottle of suspension is include
 Shake well before using.
 
 Store at 20°–25°C (68°–77°F).
-(See USP controlled room temperature.)
 
 Rx only.
