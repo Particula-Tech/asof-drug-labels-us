@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076412",
+    "ANDA076438"
+  ],
   "inn": "morphine",
   "labeler": "Mallinckrodt Inc.",
   "package_ndcs": [
@@ -13,7 +16,13 @@
     "0406-8390-01",
     "0406-8390-62"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "morphine sulfate",
+      "name": "MORPHINE SULFATE"
+    }
+  ],
   "setid": "533034fd-c8e7-495b-8874-0db41bd1e65a",
   "source": "dailymed"
 }

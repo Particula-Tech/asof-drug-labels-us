@@ -1,19 +1,26 @@
-# DRUG ABUSE AND DEPENDENCE
+# Drug Abuse and Addiction
 
-Opioid analgesics may cause psychological and physical dependence (see WARNINGS).
-Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug or may be precipitated through the administration of drugs with narcotic antagonist activity, e.g., naloxone or mixed agonist/antagonist analgesics (pentazocine, etc.; see also OVERDOSAGE).
-Physical dependence usually does not occur to a clinically significant degree until after several weeks of continued narcotic usage.
-Tolerance, in which increasingly large doses are required in order to produce the same degree of analgesia, is initially manifested by a shortened duration of analgesic effect, and, subsequently, by decreases in the intensity of analgesia.
+Morphine sulfate extended-release tablets are mu-agonist opioids with an abuse liability similar to other opioid agonists and is a Schedule II controlled substance.
+Morphine sulfate extended-release tablets and other opioids used in analgesia, can be abused and are subject to criminal diversion.
 
-In chronic-pain patients, and in narcotic-tolerant cancer patients, the administration of Morphine Sulfate Extended-Release Tablets should be guided by the degree of tolerance manifested.
-Physical dependence, per se, is not ordinarily a concern when one is dealing with opioid-tolerant patients whose pain and suffering is associated with an irreversible illness.
+Drug addiction is characterized by compulsive use, use for non-medical purposes, and continued use despite harm or risk of harm.
 
-If Morphine Sulfate Extended-Release Tablets are abruptly discontinued, a moderate to severe abstinence syndrome may occur.
-The opioid agonist abstinence syndrome is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, gooseflesh, restless sleep or “yen” and mydriasis during the first 24 hours.
-These symptoms often increase in severity and over the next 72 hours may be accompanied by increasing irritability, anxiety, weakness, twitching and spasms of muscles; kicking movements; severe backache, abdominal and leg pains; abdominal and muscle cramps; hot and cold flashes, insomnia; nausea, anorexia, vomiting, intestinal spasm, diarrhea; coryza and repetitive sneezing; increase in body temperature, blood pressure, respiratory rate and heart rate.
-Because of excessive loss of fluids through sweating, vomiting and diarrhea, there is usually marked weight loss, dehydration, ketosis, and disturbances in acid-base balance.
-Cardiovascular collapse can occur.
-Without treatment most observable symptoms disappear in 5 to 14 days; however, there appears to be a phase of secondary or chronic abstinence which may last for 2 to 6 months characterized by insomnia, irritability, and muscular aches.
+Drug addiction is a treatable disease, utilizing a multi-disciplinary approach, but relapse is common.
 
-If treatment of physical dependence of patients on Morphine Sulfate Extended-Release Tablets is necessary, the patient may be detoxified by gradual reduction of the dosage.
-Gastrointestinal disturbances or dehydration should be treated accordingly.
+“Drug-seeking” behavior is very common in addicts and drug abusers.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
+“Doctor shopping” to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
+
+Abuse and addiction are separate and distinct from physical dependence and tolerance.
+Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+In addition, abuse of opioids can occur in the absence of true addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
+Morphine sulfate extended-release tablets, like other opioids, has been diverted for non-medical use.
+Careful record keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
+
+Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+
+Morphine sulfate extended-release tablets are intended for oral use only as an intact tablet.
+Abuse of the crushed tablet poses a hazard of overdose and death.
+This risk is increased with concurrent abuse of alcohol and other substances.
+Parenteral abuse in the presence of some excipients such as talc in the tablets can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
