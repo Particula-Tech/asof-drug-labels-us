@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018482"
+  ],
   "inn": "nifedipine",
-  "labeler": "Pfizer Labs",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-2600-66",
     "0069-2600-72",
     "0069-2610-66"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nifedipine",
+      "name": "Procardia"
+    }
+  ],
   "setid": "e04aa152-b08d-47f7-b976-f8bee4c386db",
   "source": "dailymed"
 }
