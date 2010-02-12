@@ -10,10 +10,10 @@ The success rate using an intent-to-treat analysis was 47% for the itraconazole 
 
 Overview of Efficacy (Intent-to-Treat Population)
 
-| Efficacy Parameters | SPORANOX ® N=179 (%) | Amphotericin B N=181 (%) |
+| Efficacy Parameters | SPORANOX® N=179 (%) | Amphotericin B N=181 (%) |
 | --- | --- | --- |
 | Success | 84 (47%) | 68 (38%) |
-| Unevaluable * | 24 (13%) | 44 (24%) |
+| Unevaluable* | 24 (13%) | 44 (24%) |
 | Failure | 71 (40%) | 69 (38%) |
 | Reason for Failure |  |  |
 | Intolerance after > 3 days of antifungal medication | 12 | 37 |

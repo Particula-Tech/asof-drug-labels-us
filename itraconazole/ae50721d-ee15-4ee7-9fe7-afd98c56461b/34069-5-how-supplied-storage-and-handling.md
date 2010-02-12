@@ -7,12 +7,13 @@ Do not freeze.
 
 Keep out of reach of children.
 
-U.S. Patent No. 4,267,179; 5,707,975; 4,727,064 Issued October 2007 ©Janssen 2003
+U.S. Patent No. 4,267,179; 5,707,975; 4,727,064 Revised November 2009 ©Centocor Ortho Biotech Products, L.P.
+2003
 
 Manufactured by: Janssen Pharmaceutica N.V.
 Beerse, Belgium
 
-Distributed by: Ortho Biotech Products, L.P.
+Manufactured for: Centocor Ortho Biotech Products, L.P.
 Raritan, NJ 08869
 
-♦ ORTHO BIOTECH
+CENTOCOR ORTHO BIOTECH

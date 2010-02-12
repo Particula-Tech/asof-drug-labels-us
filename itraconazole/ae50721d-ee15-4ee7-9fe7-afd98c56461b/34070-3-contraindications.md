@@ -3,7 +3,7 @@
 ## Congestive Heart Failure:
 
 SPORANOX® (itraconazole) Oral Solution should not be administered to patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF except for the treatment of life-threatening or other serious infections.
-(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, and ADVERSE REACTIONS: Post marketing Experience.)
+(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, and ADVERSE REACTIONS: Post-marketing Experience.)
 
 ## Drug Interactions:
 

@@ -28,3 +28,15 @@ Doses up to 200 mg (20 mL) per day may be used based on medical judgment of the 
 SPORANOX® Oral Solution and SPORANOX® Capsules should not be used interchangeably.
 Patients should be instructed to take SPORANOX® Oral Solution without food, if possible.
 Only SPORANOX® Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
+
+### Use in Patients with Renal Impairment:
+
+Limited data are available on the use of oral itraconazole in patients with renal impairment.
+Caution should be exercised when this drug is administered in this patient population.
+(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
+
+### Use in Patients with Hepatic Impairment:
+
+Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
+Caution should be exercised when this drug is administered in this patient population.
+(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)

@@ -17,9 +17,9 @@ Presented in the table below are the steady-state (Day 15) pharmacokinetic param
 |  | Itraconazole |  | Hydroxyitraconazole |  |
 | Cmax (ng/mL) | 1963 ± 601* | 1435 ± 477 | 2055 ± 487 | 1781 ± 397 |
 | Tmax (hours) | 2.5 ± 0.8 | 4.4 ± 0.7 | 5.3 ± 4.3 | 4.3 ± 1.2 |
-| AUC0-24h (ng∙h/mL) | 29271 ± 10285 | 22815 ± 7098 | 45184 ± 10981 | 38823 ± 8907 |
+| AUC0-24h (ng·h/mL) | 29271 ± 10285 | 22815 ± 7098 | 45184 ± 10981 | 38823 ± 8907 |
 | t1/2 (hours) | 39.7 ± 13 | 37.4 ± 13 | 27.3 ± 13 | 26.1 ± 10 |
-| *mean± standard deviation |  |  |  |  |
+| *mean ± standard deviation |  |  |  |  |
 
 The bioavailability of SPORANOX® Oral Solution relative to SPORANOX® Capsules was studied in 30 healthy male volunteers who received 200 mg of itraconazole as the oral solution and capsules under fed conditions.
 The AUC0-∞ from SPORANOX® Oral Solution was 149 ± 68% of that obtained from SPORANOX® Capsules; a similar increase was observed for hydroxyitraconazole.
@@ -32,7 +32,7 @@ The following table contains pharmacokinetic parameters for itraconazole and hyd
 |  | Itraconazole |  | Hydroxyitraconazole |  |
 | Cmax (ng/mL) | 544 ± 213* | 302 ± 119 | 622 ± 116 | 504 ± 132 |
 | Tmax (hours) | 2.2 ± 0.8 | 5 ± 0.8 | 3.5 ± 1.2 | 5 ± 1 |
-| AUC0-24h (ng∙h/mL) | 4505 ± 1670 | 2682 ± 1084 | 9552 ± 1835 | 7293 ± 2144 |
+| AUC0-24h (ng·h/mL) | 4505 ± 1670 | 2682 ± 1084 | 9552 ± 1835 | 7293 ± 2144 |
 | *mean standard deviation |  |  |  |  |
 
 The plasma protein binding of itraconazole is 99.8% and that of hydroxyitraconazole is 99.5%.
@@ -59,22 +59,30 @@ Pharmacokinetic parameters at steady-state (Day 14) were not significantly diffe
 | --- | --- | --- |
 | Cmax (ng/mL) | 582.5 ± 382.4* | 692.4 ± 355.0 |
 | Cmin (ng/mL) | 187.5 ± 161.4 | 403.8 ± 336.1 |
-| AUC0-24h (ng∙h/mL) | 7706.7 ± 5245.2 | 13356.4 ± 8942.4 |
+| AUC0-24h (ng·h/mL) | 7706.7 ± 5245.2 | 13356.4 ± 8942.4 |
 | t1/2 (hours) | 35.8 ± 35.6 | 17.7 ± 13.0 |
-| *mean± standard deviation |  |  |
+| *mean ± standard deviation |  |  |
 
 ### Renal Insufficiency:
 
+Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg dose of itraconazole (four 50-mg capsules) was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
-In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the bioavailability was slightly reduced compared with normal population parameters.
+In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
+Caution should be exercised when the drug is administered in this patient population.
+(See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
 ### Hepatic Insufficiency:
 
+Itraconazole is predominantly metabolized in the liver.
 Patients with impaired hepatic function should be carefully monitored when taking itraconazole.
-The prolonged elimination half-life of itraconazole observed in cirrhotic patients should be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
-(See BOX WARNING, CONTRAINDICATIONS, and PRECAUTIONS: Drug Interactions.)
+A pharmacokinetic study using a single oral 100 mg capsule dose of itraconazole was conducted in 6 healthy and 12 cirrhotic subjects.
+A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
+The prolonged elimination half-life of itraconazole observed in the single oral dose clinical trial with itraconazole capsules in cirrhotic patients should be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
+Data are not available in cirrhotic patients during long-term use of itraconazole.
+(See BOX WARNING, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
 ### Decreased Cardiac Contractility:
 
@@ -85,8 +93,8 @@ If signs or symptoms of congestive heart failure appear during administration of
 
 ### Cystic Fibrosis:
 
-Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered itraconazole oral solution 2.5 mg/kg bid for 14 days in a pharmacokinetic study.
+Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered itraconazole oral solution 2.5 mg/kg b.i.d. for 14 days in a pharmacokinetic study.
 Sixteen patients completed the study.
-Steady state trough concentrations >250ng/mL were achieved in 6 out of 11 patients ≥16 years of age but in none of the 5 patients <16 years of age.
+Steady state trough concentrations >250 ng/mL were achieved in 6 out of 11 patients ≥16 years of age but in none of the 5 patients <16 years of age.
 Large variability was observed in the pharmacokinetic data (%CV for trough concentrations = 98% and 70% for ≥16 and <16 years, respectively; %CV for AUC = 75% and 58% for ≥16 and <16 years, respectively).
 If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, consideration should be given to switching to alternative therapy.
