@@ -156,7 +156,7 @@ Miscellaneous: chills/chills with fever, malaise, appetite increase, ear disorde
 Postmarketing experience has shown an adverse experience profile similar to that presented above.
 Voluntary reports of adverse events temporally associated with CLOZARIL not mentioned above that have been received since market introduction and that may have no causal relationship with the drug include the following:
 
-Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myoclonus; overdose; paresthesia; possible mild cataplexy; and status epilepticus.
+Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myoclonus; overdose; paresthesia; possible mild cataplexy, and status epilepticus, and obsessive compulsive symptoms.
 
 Cardiovascular System: atrial or ventricular fibrillation and periorbital edema.
 
@@ -170,11 +170,11 @@ Urogenital System: acute interstitial nephritis and priapism.
 
 Integumentary (Skin): hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
 
-Metabolic and Nutritional Disorders: hypercholesterolemia; and hypertriglyceridemia.
+Metabolic and Nutritional Disorders: hypercholesterolemia, hypertriglyceridemia and new onset diabetes.
 
 Musculoskeletal System: myasthenic syndrome and rhabdomyolysis.
 
-Respiratory System: aspiration and pleural effusion.
+Respiratory System: aspiration, pleural effusion, and pneumonia and lower respiratory tract infection which may be fatal.
 
 Hemic and Lymphatic System: deep vein thrombosis; elevated hemoglobin/hematocrit; ESR increased; pulmonary embolism; sepsis; thrombocytosis; and thrombocytopenia.
 

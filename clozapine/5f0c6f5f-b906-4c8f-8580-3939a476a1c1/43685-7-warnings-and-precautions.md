@@ -277,6 +277,13 @@ Prostate: CLOZARIL has potent anticholinergic effects and care should be exercis
 Because of initial sedation, CLOZARIL may impair mental and/or physical abilities, especially during the first few days of therapy.
 The recommendations for gradual dose escalation should be carefully adhered to, and patients cautioned about activities requiring alertness.
 
+## Cerebrovascular adverse events
+
+An increased risk of cerebrovascular adverse events has been seen in the dementia patients treated with some atypical antipsychotics.
+The mechanism for this increased risk is not known.
+An increased risk cannot be excluded for dementia patients or other patients treated with CLOZARIL.
+CLOZARIL should be used with caution in patients with dementia or risk factors for stroke.
+
 ## Use in Patients with Concomitant Illness
 
 Clinical experience with CLOZARIL in patients with concomitant systemic diseases is limited.
@@ -331,7 +338,7 @@ The risk of metabolic interactions caused by an effect on an individual isoform 
 Nevertheless, caution should be used in patients receiving concomitant treatment with other drugs that are either inhibitors or inducers of these enzymes.
 
 Concomitant administration of drugs known to induce cytochrome P450 enzymes may decrease the plasma levels of clozapine.
-Phenytoin, nicotine, and rifampin may decrease CLOZARIL plasma levels, resulting in a decrease in effectiveness of a previously effective CLOZARIL dose.
+Phenytoin, tobacco smoke, and rifampin may decrease CLOZARIL plasma levels, resulting in a decrease in effectiveness of a previously effective CLOZARIL dose.
 
 Concomitant administration of drugs known to inhibit the activity of cytochrome P450 isozymes may increase the plasma levels of clozapine.
 Cimetidine, caffeine, citalopram, ciprofloxacin, and erythromycin may increase plasma levels of CLOZARIL, potentially resulting in adverse effects.
