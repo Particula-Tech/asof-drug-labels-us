@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-IMPORTANT: See BOXED WARNINGS and WARNINGS: Increased Mortality, Serious Cardiovascular and Thromboembolic Events.
+IMPORTANT: See BOXED WARNINGS and WARNINGS: Increased Mortality, Serious Cardiovascular Events, Thromboembolic Events, and Stroke.
 
 ## Chronic Renal Failure Patients
 

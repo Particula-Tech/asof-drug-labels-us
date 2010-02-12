@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA103234"
+  ],
   "inn": "epoetin-alfa",
-  "labeler": "Amgen",
+  "labeler": "AMGEN, INC",
   "package_ndcs": [
     "55513-126-01",
     "55513-126-10",
@@ -18,7 +20,13 @@
     "55513-823-01",
     "55513-823-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "epoetin alfa",
+      "name": "EPOGEN"
+    }
+  ],
   "setid": "1f2d0b28-9cc5-4523-80b8-637fdaf3f7a5",
   "source": "dailymed"
 }

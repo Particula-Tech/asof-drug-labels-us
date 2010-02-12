@@ -149,8 +149,8 @@ For further product information and the current package insert, please visit www
 
 Manufactured by: Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
 
-©1989-2008 Amgen Inc. All rights reserved.
+©1989-2010 Amgen Inc. All rights reserved.
 
-1xxxxxx – v20
+1xxxxxx – v23
 
-Revised: 08/2008
+Revised: 01/2010

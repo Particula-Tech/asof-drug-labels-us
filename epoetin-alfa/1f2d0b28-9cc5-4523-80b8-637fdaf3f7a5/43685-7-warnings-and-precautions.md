@@ -9,9 +9,9 @@ Benzyl alcohol has been reported to be associated with an increased incidence of
 
 ## Adults
 
-### Increased Mortality, Serious Cardiovascular and Thromboembolic Events
+### Increased Mortality, Serious Cardiovascular Events, Thromboembolic Events, and Stroke
 
-Patients with chronic renal failure experienced greater risks for death and serious cardiovascular events when administered erythropoiesis-stimulating agents (ESAs) to target higher versus lower hemoglobin levels (13.5 vs.11.3 g/dL; 14 vs. 10 g/dL) in two clinical studies.
+Patients with chronic renal failure experienced greater risks for death, serious cardiovascular events, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target hemoglobin levels of 13 g/dL and above in clinical studies.
 Patients with chronic renal failure and an insufficient hemoglobin response to ESA therapy may be at even greater risk for cardiovascular events and mortality than other patients.
 EPOGEN® and other ESAs increased the risks for death and serious cardiovascular events in controlled clinical trials of patients with cancer.
 These events included myocardial infarction, stroke, congestive heart failure, and hemodialysis vascular access thrombosis.
@@ -19,6 +19,11 @@ A rate of hemoglobin rise of > 1 g/dL over 2 weeks may contribute to these risks
 
 In a randomized prospective trial, 1432 anemic chronic renal failure patients who were not undergoing dialysis were assigned to Epoetin alfa (rHuEPO) treatment targeting a maintenance hemoglobin concentration of 13.5 g/dL or 11.3 g/dL.
 A major cardiovascular event (death, myocardial infarction, stroke, or hospitalization for congestive heart failure) occurred among 125 (18%) of the 715 patients in the higher hemoglobin group compared to 97 (14%) among the 717 patients in the lower hemoglobin group (HR 1.3, 95% CI: 1.0, 1.7, p = 0.03).40
+
+In a randomized, double-blind, placebo-controlled study of 4038 patients, there was an increased risk of stroke when darbepoetin alfa was administered to patients with anemia, type 2 diabetes, and CRF who were not on dialysis.
+Patients were randomized to darbepoetin alfa treatment targeted to a hemoglobin level of 13 g/dL or to placebo.
+Placebo patients received darbepoetin alfa only if their hemoglobin levels were less than 9 g/dL.
+A total of 101 patients receiving darbepoetin alfa experienced stroke compared to 53 patients receiving placebo (5% vs. 2.6%; HR 1.92, 95% CI: 1.38, 2.68; p < 0.001).
 
 Increased risk for serious cardiovascular events was also reported from a randomized, prospective trial of 1265 hemodialysis patients with clinically evident cardiac disease (ischemic heart disease or congestive heart failure).
 In this trial, patients were assigned to EPOGEN® treatment targeted to a maintenance hematocrit of either 42 ± 3% or 30 ± 3%.37 Increased mortality was observed in 634 patients randomized to a target hematocrit of 42% [221 deaths (35% mortality)] compared to 631 patients targeted to remain at a hematocrit of 30% [185 deaths (29% mortality)].
@@ -66,7 +71,7 @@ Table 1: Randomized, Controlled Trials with Decreased Survival and/or Decreased 
 
 Decreased overall survival:
 
-Cancer Study 1 (the ‘BEST’ study) was previously described (see WARNINGS: Increased Mortality, Serious Cardiovascular and Thromboembolic Events).
+Cancer Study 1 (the ‘BEST’ study) was previously described (see WARNINGS: Increased Mortality, Serious Cardiovascular Events, Thromboembolic Events, and Stroke).
 Mortality at 4 months (8.7% vs. 3.4%) was significantly higher in the Epoetin alfa arm.
 The most common investigator-attributed cause of death within the first 4 months was disease progression; 28 of 41 deaths in the Epoetin alfa arm and 13 of 16 deaths in the placebo arm were attributed to disease progression.
 Investigator assessed time to tumor progression was not different between the two groups.
@@ -107,12 +112,13 @@ Overall survival was shorter in patients receiving darbepoetin alfa (RR 1.28, 95
 ### Pure Red Cell Aplasia
 
 Cases of pure red cell aplasia (PRCA) and of severe anemia, with or without other cytopenias, associated with neutralizing antibodies to erythropoietin have been reported in patients treated with EPOGEN®.
-This has been reported predominantly in patients with CRF receiving EPOGEN® by subcutaneous administration.
+This has been reported predominantly in patients with CRF receiving ESAs by subcutaneous administration.
+PRCA has also been reported in patients receiving ESAs while undergoing treatment for hepatitis C with interferon and ribavirin.
 Any patient who develops a sudden loss of response to EPOGEN®, accompanied by severe anemia and low reticulocyte count, should be evaluated for the etiology of loss of effect, including the presence of neutralizing antibodies to erythropoietin (see PRECAUTIONS: Lack or Loss of Response).
-If anti-erythropoietin antibody-associated anemia is suspected, withhold EPOGEN® and other erythropoietic proteins.
+If anti-erythropoietin antibody-associated anemia is suspected, withhold EPOGEN® and other ESAs.
 Contact Amgen (1-800-77AMGEN) to perform assays for binding and neutralizing antibodies.
 EPOGEN® should be permanently discontinued in patients with antibody-mediated anemia.
-Patients should not be switched to other erythropoietic proteins as antibodies may cross-react (see ADVERSE REACTIONS: Immunogenicity).
+Patients should not be switched to other ESAs as antibodies may cross-react (see ADVERSE REACTIONS: Immunogenicity).
 
 ### Albumin (Human)
 
@@ -134,7 +140,7 @@ If blood pressure is difficult to control by initiation of appropriate measures,
 A clinically significant decrease in hemoglobin may not be observed for several weeks.
 
 It is recommended that the dose of EPOGEN® be decreased if the hemoglobin increase exceeds 1 g/dL in any 2-week period, because of the possible association of excessive rate of rise of hemoglobin with an exacerbation of hypertension.
-In CRF patients on hemodialysis with clinically evident ischemic heart disease or congestive heart failure, the dose of EPOGEN® should be carefully adjusted to achieve and maintain hemoglobin levels between 10-12 g/dL (see WARNINGS: Mortality, Serious Cardiovascular and Thromboembolic Events and DOSAGE AND ADMINISTRATION: Chronic Renal Failure Patients).
+In CRF patients on hemodialysis with clinically evident ischemic heart disease or congestive heart failure, the dose of EPOGEN® should be carefully adjusted to achieve and maintain hemoglobin levels between 10-12 g/dL (see WARNINGS: Increased Mortality, Serious Cardiovascular Events, Thromboembolic Events, and Stroke, and DOSAGE AND ADMINISTRATION: Chronic Renal Failure Patients).
 
 Seizures: Seizures have occurred in patients with CRF participating in EPOGEN® clinical trials.
 
@@ -354,7 +360,7 @@ These patients may have had other CNS pathology.
 
 ### Thrombotic Events
 
-In double-blind, placebo-controlled trials, 3.2% (n = 2/63) of patients treated with EPOGEN® TIW and 11.8% (n = 8/68) of placebo-treated patients had thrombotic events (eg, pulmonary embolism, cerebrovascular accident), (see WARNINGS: Increased Mortality, Serious Cardiovascular and Thromboembolic Events).
+In double-blind, placebo-controlled trials, 3.2% (n = 2/63) of patients treated with EPOGEN® TIW and 11.8% (n = 8/68) of placebo-treated patients had thrombotic events (eg, pulmonary embolism, cerebrovascular accident), (see WARNINGS: Increased Mortality, Serious Cardiovascular Events, Thromboembolic Events, and Stroke).
 
 In a placebo-controlled, double-blind trial utilizing weekly dosing with EPOGEN®, 6.0% (n = 10/168) of safety-evaluable patients treated with EPOGEN® and 3.6% (n = 6/165) (p = 0.444) of placebo-treated patients had clinically significant thrombotic events (deep vein thrombosis requiring anticoagulant therapy, embolic event including pulmonary embolism, myocardial infarction, cerebral ischemia, left ventricular failure and thrombotic microangiopathy).
 A definitive relationship between the rate of hemoglobin increase and the occurrence of clinically significant thrombotic events could not be evaluated due to the limited schedule of hemoglobin measurements in this study.
