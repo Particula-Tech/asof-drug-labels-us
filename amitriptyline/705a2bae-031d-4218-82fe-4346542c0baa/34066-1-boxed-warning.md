@@ -1,4 +1,4 @@
-# Suicidality and Antidepressant Drugs
+# Suicidality and Antidepressant Drugs:
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
 Anyone considering the use of amitriptyline hydrochloride tablets or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
@@ -7,4 +7,4 @@ Depression and certain other psychiatric disorders are themselves associated wit
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Amitriptyline hydrochloride is not approved for use in pediatric patients.
-(See Warnings: Clinical Worsening and Suicide Risk, Precautions: Information for Patients, and Precautions: Pediatric Use)
+(See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use)

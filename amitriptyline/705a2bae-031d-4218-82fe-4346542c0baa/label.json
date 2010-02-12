@@ -1,7 +1,14 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA085966",
+    "ANDA085967",
+    "ANDA085968",
+    "ANDA085969",
+    "ANDA085970",
+    "ANDA085971"
+  ],
   "inn": "amitriptyline",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
     "0781-1486-01",
     "0781-1486-10",
@@ -22,7 +29,13 @@
     "0781-1491-10",
     "0781-1491-31"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amitriptyline hydrochloride",
+      "name": "Amitriptyline Hydrochloride"
+    }
+  ],
   "setid": "705a2bae-031d-4218-82fe-4346542c0baa",
   "source": "dailymed"
 }
