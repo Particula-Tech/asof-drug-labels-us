@@ -87,7 +87,7 @@ Clinical and MRI Endpoints in Study MS2 (Add-On Study) at 2 Years
 Changes in MRI findings often do not correlate with changes in the clinical status of patients (e.g., disability progression).
 The prognostic significance of the MRI findings in these studies has not been evaluated.
 
-Safety and efficacy of treatment with TYSABRI beyond two years are not known.
+The efficacy of treatment with TYSABRI beyond two years is not known.
 
 ## 14.2 Crohn's Disease
 
@@ -110,9 +110,8 @@ In Study CD2, in contrast to Study CD1, clinical response and clinical remission
 Table 6.
 Induction of Clinical Response and Remission in Study CD2
 
-|  | TYSABRI | Placebo | Treatment Difference (95% CI) |
+|  | TYSABRI n=259 | Placebo n=250 | Treatment Difference (95% CI) |
 | --- | --- | --- | --- |
-|  | n=259 | n=250 |  |
 | Clinical Response at: |  |  |  |
 | Week 8 | 56% | 40% | 16% (8%, 26%) |
 | Week 12 | 60% | 44% | 16% (7%, 25%) |

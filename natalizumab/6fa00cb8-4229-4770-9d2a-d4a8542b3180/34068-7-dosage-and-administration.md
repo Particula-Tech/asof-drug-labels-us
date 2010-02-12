@@ -2,12 +2,12 @@
 
 ## 2.1 Multiple Sclerosis (MS)
 
-Only prescribers registered in the MS TOUCH™ Prescribing Program may prescribe TYSABRI for multiple sclerosis [see Boxed Warning, Warnings and Precautions (5.2)].
+Only prescribers registered in the MS TOUCH® Prescribing Program may prescribe TYSABRI for multiple sclerosis [see Boxed Warning, Warnings and Precautions (5.2)].
 The recommended dose of TYSABRI for multiple sclerosis is 300 mg intravenous infusion over one hour every four weeks.
 
 ## 2.2 Crohn's Disease (CD)
 
-Only prescribers registered in the CD TOUCH™ Prescribing Program may prescribe TYSABRI for Crohn's disease [see Boxed Warning, Warnings and Precautions (5.1)].
+Only prescribers registered in the CD TOUCH® Prescribing Program may prescribe TYSABRI for Crohn's disease [see Boxed Warning, Warnings and Precautions (5.1)].
 
 The recommended dose of TYSABRI for Crohn's disease is 300 mg intravenous infusion over one hour every four weeks.
 TYSABRI should not be used with concomitant immunosuppressants (e.g., 6-mercaptopurine, azathioprine, cyclosporine, or methotrexate) or concomitant inhibitors of TNF-α.

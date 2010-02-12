@@ -3,7 +3,7 @@
 ## 1.1 Multiple Sclerosis (MS)
 
 TYSABRI is indicated as monotherapy for the treatment of patients with relapsing forms of multiple sclerosis to delay the accumulation of physical disability and reduce the frequency of clinical exacerbations.
-The safety and efficacy of TYSABRI beyond two years are unknown.
+The efficacy of TYSABRI beyond two years is unknown.
 
 Because TYSABRI increases the risk of progressive multifocal leukoencephalopathy (PML), an opportunistic viral infection of the brain that usually leads to death or severe disability, TYSABRI is generally recommended for patients who have had an inadequate response to, or are unable to tolerate, an alternate multiple sclerosis therapy [see Boxed Warning, Warnings and Precautions (5.1)].
 

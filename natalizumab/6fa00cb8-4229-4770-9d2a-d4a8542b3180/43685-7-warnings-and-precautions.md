@@ -6,44 +6,55 @@ Progressive multifocal leukoencephalopathy, an opportunistic infection caused by
 Two cases of PML were observed among 1869 patients with multiple sclerosis treated for a median of 120 weeks.
 The third case occurred among 1043 patients with Crohn's disease after the patient received eight doses.
 Both multiple sclerosis patients were receiving concomitant immunomodulatory therapy and the Crohn's disease patient had been treated in the past with immunosuppressive therapy.
+
 In the postmarketing setting, additional cases of PML have been reported in multiple sclerosis patients who were receiving no concomitant immunomodulatory therapy.
-The absolute risk for PML in patients treated with TYSABRI cannot be precisely estimated, and factors that might increase an individual patient's risk for PML have not been identified.
+In patients treated with TYSABRI, the risk of developing PML increases with longer treatment duration, and for patients treated for 24 to 36 months is generally similar to the rates seen in clinical trials.
+There is limited experience beyond 3 years of treatment.
 There are no known interventions that can reliably prevent PML or adequately treat PML if it occurs.
 It is not known whether early detection of PML and discontinuation of TYSABRI will mitigate the disease.
-There is limited experience beyond two years of treatment.
-The relationship between the risk of PML and the duration of treatment is unknown, but most cases of PML were in patients who received more than one year of treatment.
 
 Ordinarily, patients receiving chronic immunosuppressant or immunomodulatory therapy or who have systemic medical conditions resulting in significantly compromised immune system function should not be treated with TYSABRI.
-The incidence of PML appears to be lower in patients receiving TYSABRI as monotherapy; however, the number of cases is too few and the number of patients treated too small to reliably conclude that the true risk of PML is lower in patients treated with TYSABRI alone than in patients who are receiving other drugs that decrease immune function or who are otherwise immunocompromised.
 
-Because of the risk of PML, TYSABRI is available only under a special restricted distribution program, the TOUCH™ Prescribing Program.
+Because of the risk of PML, TYSABRI is available only under a special restricted distribution program, the TOUCH® Prescribing Program.
 
-In multiple sclerosis patients, an MRI scan should be obtained prior to initiating therapy with TYSABRI.
-This MRI may be helpful in differentiating subsequent multiple sclerosis symptoms from PML.
+In multiple sclerosis patients, an MRI scan should be obtained prior to initiating therapy withTYSABRI.
+This MRI may be helpful in differentiating subsequent multiple sclerosis symptomsfrom PML.
 
-In Crohn's disease patients, a baseline brain MRI may also be helpful to distinguish pre-existent lesions from newly developed lesions, but brain lesions at baseline that could cause diagnostic difficulty while on TYSABRI therapy are uncommon.
+In Crohn's disease patients, a baseline brain MRI may also be helpful to distinguish preexistentlesions from newly developed lesions, but brain lesions at baseline that could causediagnostic difficulty while on TYSABRI therapy are uncommon.
 
-Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom suggestive of PML.
-Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
-The progression of deficits usually leads to death or severe disability over weeks or months.
-Withhold TYSABRI dosing immediately at the first sign or symptom suggestive of PML.
-For diagnosis, an evaluation including a gadolinium-enhanced MRI scan of the brain and, when indicated, cerebrospinal fluid analysis for JC viral DNA are recommended.
+Healthcare professionals should monitor patients on TYSABRI for any new sign orsymptom suggestive of PML.
+Typical symptoms associated with PML are diverse, progress overdays to weeks, and include progressive weakness on one side of the body or clumsiness of limbs,disturbance of vision, and changes in thinking, memory, and orientation leading to confusion andpersonality changes.
+The progression of deficits usually leads to death or severe disability overweeks or months.
+Withhold TYSABRI dosing immediately at the first sign or symptom suggestiveof PML.
+
+For diagnosis of PML, an evaluation including a gadolinium-enhanced MRI scan of the brain and, when indicated, cerebrospinal fluid analysis for JC viral DNA are recommended.
+There are no known interventions that can adequately treat PML if it occurs.
+Three sessions of plasma exchange over 5 to 8 days were shown to accelerate TYSABRI clearance in a study of 12 patients with MS who did not have PML, although in the majority of patients alpha-4 integrin receptor binding remained high.
+Adverse events which may occur during plasma exchange include clearance of other medications and volume shifts, which have the potential to lead to hypotension or pulmonary edema.
+Although plasma exchange has not been studied in TYSABRI treated patients with PML, it has been used in such patients in the postmarketing setting to remove TYSABRI more quickly from the circulation.
+
+Immune reconstitution inflammatory syndrome (IRIS) has been reported in TYSABRI treated patients who developed PML and subsequently discontinued TYSABRI.
+In almost all cases, IRIS occurred after plasma exchange was used to eliminate circulating TYSABRI.
+It presents as an unanticipated clinical decline in the patient's condition after return of immune function (and in some cases after apparent clinical improvement) and, in the case of PML, is often followed by characteristic changes in the MRI.
+TYSABRI has not been associated with IRIS in patients discontinuing treatment with TYSABRI for reasons unrelated to PML.
+In TYSABRI treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
+Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
 ## 5.2 Distribution Program for TYSABRI
 
-TYSABRI is available only under a special restricted distribution program called the TOUCH™ Prescribing Program.
-Under the TOUCH™ Prescribing Program, only prescribers, infusion centers, and pharmacies associated with infusion centers registered with the program are able to prescribe, distribute, or infuse the product.
-For prescribers and patients, the TOUCH™ Prescribing Program has two components: MS TOUCH™ (for patients with multiple sclerosis) and CD TOUCH™ (for patients with Crohn's disease).
-TYSABRI must be administered only to patients who are enrolled in and meet all the conditions of the MS or CD TOUCH™ Prescribing Program.
-Contact the TOUCH™ Prescribing Program at 1-800-456-2255 [see Boxed Warning].
+TYSABRI is available only under a special restricted distribution program called the TOUCH® Prescribing Program.
+Under the TOUCH® Prescribing Program, only prescribers, infusion centers, and pharmacies associated with infusion centers registered with the program are able to prescribe, distribute, or infuse the product.
+For prescribers and patients, the TOUCH® Prescribing Program has two components: MS TOUCH® (for patients with multiple sclerosis) and CD TOUCH® (for patients with Crohn's disease).
+TYSABRI must be administered only to patients who are enrolled in and meet all the conditions of the MS or CD TOUCH® Prescribing Program.
+Contact the TOUCH® Prescribing Program at 1-800-456-2255 [see Boxed Warning].
 
-To enroll in the TOUCH™ Prescribing Program, prescribers and patients are required to understand the risks of treatment with TYSABRI, including PML and other opportunistic infections.
+To enroll in the TOUCH® Prescribing Program, prescribers and patients are required to understand the risks of treatment with TYSABRI, including PML and other opportunistic infections.
 Prescribers are required to understand the information in the Prescribing Information and to be able to:
 
 - Educate patients on the benefits and risks of treatment with TYSABRI, ensure that the patient receives the Medication Guide, instruct them to read it, and encourage them to ask questions when considering TYSABRI.
   Patients may be educated by the enrolled prescriber or a healthcare provider under that prescriber's direction.
-- Review the TOUCH™ Prescriber/Patient Enrollment form for TYSABRI with the patient and answer all questions.
-- As part of the initial prescription process for TYSABRI, obtain the patient's signature and initials on the TOUCH™ program enrollment form, sign it, place the original signed form in the patient's medical record, send a copy to Biogen Idec, and give a copy to the patient.
+- Review the TOUCH® Prescriber/Patient Enrollment form for TYSABRI with the patient and answer all questions.
+- As part of the initial prescription process for TYSABRI, obtain the patient's signature and initials on the TOUCH® program enrollment form, sign it, place the original signed form in the patient's medical record, send a copy to Biogen Idec, and give a copy to the patient.
 - Report serious opportunistic and atypical infections with TYSABRI to Biogen Idec or Elan at 1-800-456-2255 and to the Food and Drug Administration's MedWatch Program at 1-800-FDA-1088.
 - Evaluate the patient three months after the first infusion, six months after the first infusion, and every six months thereafter.
 - Determine every six months whether patients should continue on treatment and if so reauthorize treatment every six months.

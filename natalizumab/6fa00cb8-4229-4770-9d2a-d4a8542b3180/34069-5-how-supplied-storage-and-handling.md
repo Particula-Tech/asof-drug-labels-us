@@ -4,7 +4,7 @@ NDC 59075-730-15, TYSABRI injection is supplied as 300 mg natalizumab in 15 mL i
 Each package contains a single-use vial.
 TYSABRI is a colorless and clear to slightly opalescent solution for dilution prior to intravenous infusion.
 
-TYSABRI is available only through registered infusion centers participating in the TOUCH™ Prescribing Program.
+TYSABRI is available only through registered infusion centers participating in the TOUCH® Prescribing Program.
 To locate these infusion centers, contact Biogen Idec at 1-800-456-2255.
 
 TYSABRI single-use vials must be refrigerated between 2 to 8°C (36° to 46°F).

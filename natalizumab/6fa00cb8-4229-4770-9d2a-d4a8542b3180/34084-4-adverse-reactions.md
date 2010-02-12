@@ -231,4 +231,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 In post-marketing experience, one MS patient who received TYSABRI developed herpes encephalitis and died; a second MS patient developed herpes meningitis and recovered with appropriate treatment.
 
-PML has been reported in postmarketing experience in patients treated with TYSABRI monotherapy.
+PML has been reported in postmarketing experience in patients treated with TYSABRI monotherapy [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
