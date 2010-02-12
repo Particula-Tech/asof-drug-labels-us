@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021208"
+  ],
   "inn": "mirtazapine",
-  "labeler": "Organon USA, Inc.",
+  "labeler": "Organon Pharmaceuticals USA",
   "package_ndcs": [
     "0052-0106-30",
     "0052-0106-93",
@@ -9,7 +11,13 @@
     "0052-0108-93",
     "0052-0110-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "mirtazapine",
+      "name": "REMERONSOLTAB"
+    }
+  ],
   "setid": "31f48378-27db-424f-a4c5-82584a553c35",
   "source": "dailymed"
 }
