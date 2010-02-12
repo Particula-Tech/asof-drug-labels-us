@@ -1,0 +1,41 @@
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 ML CONTAINER
+
+NDC 0168-0059-60
+
+Fougera®
+
+FLUOCINOLONE ACETONIDE TOPICAL SOLUTION USP, 0.01%
+
+60 mL
+
+FOR DERMATOLOGIC USE ONLY
+
+NOT FOR OPHTHALMIC USE
+
+Rx only
+
+E. FOUGERA & CO
+
+A division of Nycomed US Inc. Melville, New York 11747
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 ML CARTON
+
+NDC 0168-0059-60
+
+Fougera®
+
+FLUOCINOLONE ACETONIDE TOPICAL SOLUTION USP, 0.01%
+
+60 mL
+
+CONTAINS: 0.1 mg of fluocinolone acetonide per mL in a base containing propylene glycol and citric acid.
+
+FOR DERMATOLOGIC USE ONLY
+
+NOT FOR OPHTHALMIC USE
+
+Rx only
+
+E. FOUGERA & CO
+
+A division of Nycomed US Inc. Melville, New York 11747
