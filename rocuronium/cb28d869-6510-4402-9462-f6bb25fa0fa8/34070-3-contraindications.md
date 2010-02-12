@@ -1,0 +1,3 @@
+# 4 CONTRAINDICATIONS
+
+Rocuronium bromide is contraindicated in patients known to have hypersensitivity (e.g., anaphylaxis) to rocuronium bromide or other neuromuscular blocking agents [see WARNINGS AND PRECAUTIONS (5.2)].

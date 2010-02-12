@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA079195"
+  ],
+  "inn": "rocuronium",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3220-70",
+    "0781-3220-75",
+    "0781-3220-92",
+    "0781-3220-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rocuronium bromide",
+      "name": "Rocuronium Bromide"
+    }
+  ],
+  "setid": "cb28d869-6510-4402-9462-f6bb25fa0fa8",
+  "source": "dailymed"
+}
