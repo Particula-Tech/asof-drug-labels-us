@@ -201,7 +201,7 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients with Bipolar Ma
 | Tremor | 5 | 2 |
 | Gastrointestinal system disorders |  |  |
 | Nausea | 6 | 5 |
-| Diarrhea | 6 |  |
+| Diarrhea | 6 | 4 |
 | Saliva increased | 4 | 0 |
 | Abdominal pain | 2 | 0 |
 | Heart rate and rhythm disorders |  |  |
@@ -461,6 +461,6 @@ In two controlled schizophrenia trials in adolescents (aged 13 – 17 years), th
 
 ## 6.9 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetic ketoacidosis in patients with impaired glucose metabolism, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, QT prolongation, sleep apnea, thrombocytopenia, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetic ketoacidosis in patients with impaired glucose metabolism, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, QT prolongation, sleep apnea, thrombocytopenia, urinary retention, and water intoxication.
 
 Other adverse events reported since market introduction, which were temporally related to risperidone but not necessarily causally related, include the following: pituitary adenoma, pulmonary embolism, precocious puberty, cardiopulmonary arrest, and sudden death.
