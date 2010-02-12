@@ -1,16 +1,32 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020758"
+  ],
   "inn": "hydrochlorothiazide",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0087-2775-31",
     "0087-2775-32",
+    "0087-2775-94",
     "0087-2776-31",
     "0087-2776-32",
+    "0087-2776-90",
     "0087-2788-31",
-    "0087-2788-32"
+    "0087-2788-32",
+    "0087-2788-94"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan and hydrochlorothiazide",
+      "name": "AVALIDE"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "irbesartan and hydrochlorothiazide",
+      "name": "AVALIDE"
+    }
+  ],
   "setid": "9ac8b9fe-dfb9-0151-30b3-f9da72d74ac2",
   "source": "dailymed"
 }

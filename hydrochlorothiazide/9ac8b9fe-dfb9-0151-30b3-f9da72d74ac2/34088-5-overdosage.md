@@ -1,6 +1,6 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Irbesartan
+Irbesartan
 
 No data are available in regard to overdosage in humans.
 However, daily doses of 900 mg for 8 weeks were well tolerated.
@@ -13,9 +13,9 @@ In managing overdose, consider the possibilities of multiple-drug interactions, 
 
 Laboratory determinations of serum levels of irbesartan are not widely available, and such determinations have, in any event, no established role in the management of irbesartan overdose.
 
-Acute oral toxicity studies with irbesartan in mice and rats indicated acute lethal doses were in excess of 2000 mg/kg, about 25- and 50-fold the maximum recommended human dose (300 mg) on a mg/m2 basis, respectively.
+Acute oral toxicity studies with irbesartan in mice and rats indicated acute lethal doses were in excess of 2000 mg/kg, about 25- and 50-fold the MRHD (300 mg) on a mg/m2 basis, respectively.
 
-## Hydrochlorothiazide
+Hydrochlorothiazide
 
 The most common signs and symptoms of overdose observed in humans are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.

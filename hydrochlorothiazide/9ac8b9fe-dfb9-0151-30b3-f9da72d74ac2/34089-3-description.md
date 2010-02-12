@@ -1,8 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-AVALIDE®* (irbesartan-hydrochlorothiazide) Tablets is a combination of an angiotensin II receptor antagonist (AT1 subtype), irbesartan, and a thiazide diuretic, hydrochlorothiazide (HCTZ).
-
-*Registered trademark of Sanofi-Synthelabo
+AVALIDE (irbesartan-hydrochlorothiazide) Tablets is a combination of an angiotensin II receptor antagonist (AT1 subtype), irbesartan, and a thiazide diuretic, hydrochlorothiazide (HCTZ).
 
 Irbesartan is a non-peptide compound, chemically described as a 2-butyl-3-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]-1,3-diazaspiro[4.4]non-1-en-4-one.
 Its empirical formula is C25H28N6O, and its structural formula is:
