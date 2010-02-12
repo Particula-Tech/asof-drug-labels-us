@@ -104,6 +104,8 @@ Patients and physicians should remain alert for signs and symptoms of gastrointe
 This should include discontinuation of the NSAID until a serious gastrointestinal adverse event is ruled out.
 For high-risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
+NSAIDs should be given with care to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn's disease) as their condition may be exacerbated.
+
 ## Renal Effects
 
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.

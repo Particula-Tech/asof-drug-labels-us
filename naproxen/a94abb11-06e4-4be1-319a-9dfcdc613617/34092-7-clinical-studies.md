@@ -3,6 +3,7 @@
 The efficacy of TREXIMET in providing relief from migraine was demonstrated in 2 randomized, double-blind, multicenter, parallel-group trials utilizing placebo and each individual active component of TREXIMET (sumatriptan and naproxen sodium) as comparison treatments.
 Patients enrolled in these 2 trials were predominately female (87%) and Caucasian (88%), with a mean age of 40 years (range 18 to 65 years).
 Patients were instructed to treat a migraine of moderate to severe pain with 1 tablet.
+No rescue medication was allowed within 2 hours postdose.
 Patients evaluated their headache pain 2 hours after taking 1 dose of study medication; headache relief was defined as a reduction in headache severity from moderate or severe pain to mild or no pain.
 Associated symptoms of nausea, photophobia, and phonophobia were also evaluated.
 Sustained pain free was defined as a reduction in headache severity from moderate or severe pain to no pain at 2 hours postdose without a return of mild, moderate, or severe pain and no use of rescue medication for 24 hours postdose.
@@ -34,8 +35,6 @@ The percentage of patients achieving initial headache pain relief within 2 hours
 Compared with placebo, there was a decreased incidence of photophobia, phonophobia, and nausea 2 hours after the administration of TREXIMET.
 The estimated probability of taking a rescue medication over the first 24 hours is shown in Figure 2.
 
-aKaplan-Meier plot based on data obtained in the 2 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
-Plot also includes patients who had no response to the initial dose.
-No rescue medication was allowed within 2 hours postdose.
+aPlot also includes patients who had no response to the initial dose.
 
 TREXIMET was more effective than placebo regardless of the presence of aura; duration of headache prior to treatment; gender, age, or weight of the patient; or concomitant use of oral contraceptives or common migraine prophylactic drugs (e.g., beta-blockers, anti-epileptic drugs, tricyclic antidepressants).
