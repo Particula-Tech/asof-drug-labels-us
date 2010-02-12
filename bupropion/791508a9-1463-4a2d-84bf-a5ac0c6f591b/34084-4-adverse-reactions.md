@@ -1,11 +1,9 @@
-# ADVERSE REACTIONS
-
-(See also WARNINGS and PRECAUTIONS.)
+# ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
 
 ## Major Depressive Disorder
 
 WELLBUTRIN XL has been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion (see CLINICAL PHARMACOLOGY).
-The information included under this subsection is based primarily on data from controlled clinical trials with WELLBUTRIN SR, the sustained-release formulation of bupropion.
+The information included under this subsection is based primarily on data from controlled clinical trials with WELLBUTRIN SR Tablets, the sustained-release formulation of bupropion.
 
 ### Adverse Events Leading to Discontinuation of Treatment With WELLBUTRIN or WELLBUTRIN SR
 
@@ -176,7 +174,7 @@ Treatment-Emergent Adverse Events* in Placebo-Controlled Trials of Seasonal Affe
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased appetite | 4% | 1% |
 | Reproductive System and Breast Disorders |  |  |
-| Dysmenorrhea | 2% | <1% |
+| Dysmennorrhea | 2% | <1% |
 | Ear and Labyrinth Disorders |  |  |
 | Tinnitus | 3% | <1% |
 | Vascular Disorders |  |  |

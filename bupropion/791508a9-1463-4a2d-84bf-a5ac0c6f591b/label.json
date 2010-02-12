@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021515"
+  ],
   "inn": "bupropion",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0173-0730-01",
     "0173-0730-02",
     "0173-0731-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "WELLBUTRIN"
+    }
+  ],
   "setid": "791508a9-1463-4a2d-84bf-a5ac0c6f591b",
   "source": "dailymed"
 }

@@ -8,7 +8,7 @@ WELLBUTRIN XL is contraindicated in patients with a current or prior diagnosis o
 
 WELLBUTRIN XL is contraindicated in patients undergoing abrupt discontinuation of alcohol or sedatives (including benzodiazepines).
 
-The concurrent administration of WELLBUTRIN XL and a monoamine oxidase (MAO) inhibitor is contraindicated.
-At least 14 days should elapse between discontinuation of an MAO inhibitor and initiation of treatment with WELLBUTRIN XL.
+The concurrent administration of WELLBUTRIN XL Tablets and a monoamine oxidase (MAO) inhibitor is contraindicated.
+At least 14 days should elapse between discontinuation of an MAO inhibitor and initiation of treatment with WELLBUTRIN XL Tablets.
 
-WELLBUTRIN XL is contraindicated in patients who have shown an allergic response to bupropion or the other ingredients that make up WELLBUTRIN XL.
+WELLBUTRIN XL is contraindicated in patients who have shown an allergic response to bupropion or the other ingredients that make up WELLBUTRIN XL Tablets.

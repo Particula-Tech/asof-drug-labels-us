@@ -27,11 +27,13 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-     This is very important when an antidepressant medicine is started or when the dose is changed.
-   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   - Keep all follow-up visits with the healthcare provider as scheduled.
-     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+
+- 
+  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+    This is very important when an antidepressant medicine is started or when the dose is changed.
+  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  - Keep all follow-up visits with the healthcare provider as scheduled.
+    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -115,8 +117,6 @@ How should I take WELLBUTRIN XL?
 
 - Take WELLBUTRIN XL exactly as prescribed by your doctor.
 - Do not chew, cut, or crush WELLBUTRIN XL tablets.
-  If you do, the medicine will be released into your body too quickly.
-  If this happens you may be more likely to get side effects including seizures.
   You must swallow the tablets whole.
   Tell your doctor if you cannot swallow medicine tablets.
 - Take WELLBUTRIN XL at the same time each day.
@@ -168,11 +168,10 @@ In studies of seasonal affective disorder, common side effects included weight l
 If you have nausea, take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
 
+Tell your doctor right away about any side effects that bother you.
+
 These are not all the side effects of WELLBUTRIN XL.
 For a complete list, ask your doctor or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store WELLBUTRIN XL?
 
@@ -200,31 +199,29 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: ethylcellulose aqueous dispersion (NF), glyceryl behenate, methacrylic acid copolymer dispersion (NF), polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
+*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
+
 Rx Only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-August 2008
+August 2007
 
-WXL:5MG
-
-WELLBUTRIN XL® WELLBUTRIN SR®, WELLBUTRIN®, ZYBAN®, and PARNATE® are registered trademarks of GlaxoSmithKline.
-
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.; KALETRA®/ Abbott Laboratories.
+WXL:4MG
 
 Manufactured by:
 
 Biovail Corporation
 
-Mississauga, ON L5N 8M5, Canda for
+Mississauga, ON L5N 8M5, Canada for
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2007, GlaxoSmithKline.
 All rights reserved.
 
-August 2008
+August 2007
 
-WXL:3PI
+WXL:2PI
