@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA019684"
+  ],
+  "inn": "nifedipine",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-2650-41",
+    "0069-2650-66",
+    "0069-2650-72",
+    "0069-2650-94",
+    "0069-2660-41",
+    "0069-2660-66",
+    "0069-2660-72",
+    "0069-2660-94",
+    "0069-2670-41",
+    "0069-2670-66"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "nifedipine",
+      "name": "Procardia XL"
+    }
+  ],
+  "setid": "8ebcb33c-f43b-4b36-9f94-9774b2a59e06",
+  "source": "dailymed"
+}
