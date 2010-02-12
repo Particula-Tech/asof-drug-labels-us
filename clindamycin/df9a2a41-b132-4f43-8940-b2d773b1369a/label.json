@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050162"
+  ],
   "inn": "clindamycin",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -11,7 +13,13 @@
     "0009-0395-13",
     "0009-0395-14"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clindamycin hydrochloride",
+      "name": "Cleocin Hydrochloride"
+    }
+  ],
   "setid": "df9a2a41-b132-4f43-8940-b2d773b1369a",
   "source": "dailymed"
 }
