@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA088168"
+  ],
   "inn": "fluocinolone-acetonide",
-  "labeler": "E. FOUGERA & CO.",
+  "labeler": "E. FOUGERA & CO., A division of Nycomed US Inc.",
   "package_ndcs": [
     "0168-0064-15",
     "0168-0064-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "fluocinolone acetonide",
+      "name": "Fluocinolone Acetonide"
+    }
+  ],
   "setid": "49552e29-7813-4726-b15d-63bd975b6588",
   "source": "dailymed"
 }
