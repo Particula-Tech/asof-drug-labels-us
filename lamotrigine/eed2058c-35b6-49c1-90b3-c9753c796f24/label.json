@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020241"
+  ],
+  "inn": "lamotrigine",
+  "labeler": "Caremark L.L.C.",
+  "package_ndcs": [
+    "0173-0642-55",
+    "0339-6480-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lamotrigine",
+      "name": "LAMICTAL"
+    }
+  ],
+  "setid": "eed2058c-35b6-49c1-90b3-c9753c796f24",
+  "source": "dailymed"
+}
