@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021234"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Teikoku Seiyaku Co.. Ltd.",
+  "package_ndcs": [
+    "64032-0005-0",
+    "64032-0005-2",
+    "64032-0005-5"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "diclofenac epolamine",
+      "name": "FLECTOR"
+    }
+  ],
+  "setid": "3ad7567d-b11c-407b-9c0b-a198406b7102",
+  "source": "dailymed"
+}
