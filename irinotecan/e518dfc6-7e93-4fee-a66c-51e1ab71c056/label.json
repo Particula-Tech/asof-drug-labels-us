@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020571"
+  ],
   "inn": "irinotecan",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-7529-01",
     "0009-7529-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Camptosar"
+    }
+  ],
   "setid": "e518dfc6-7e93-4fee-a66c-51e1ab71c056",
   "source": "dailymed"
 }
