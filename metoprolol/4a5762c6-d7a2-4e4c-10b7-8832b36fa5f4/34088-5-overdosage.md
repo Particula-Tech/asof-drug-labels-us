@@ -1,29 +1,24 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Acute Toxicity
+Signs and Symptoms - Overdosage of TOPROL-XL may lead to severe bradycardia, hypotension, and cardiogenic shock.
+Clinical presentation can also include: atrioventricular block, heart failure, bronchospasm, hypoxia, impairment of consciousness/coma, nausea and vomiting.
 
-There have been a few reports of overdosage with TOPROL-XL and no specific overdosage information was obtained with this drug, with the exception of animal toxicology data.
-However, since TOPROL-XL (metoprolol succinate salt) contains the same active moiety, metoprolol, as conventional metoprolol tablets (metoprolol tartrate salt), the recommendations on overdosage for metoprolol conventional tablets are applicable to TOPROL-XL.
+Treatment – Consider treating the patient with intensive care.
+Patients with myocardial infarction or heart failure may be prone to significant hemodynamic instability.
+Seek consultation with a regional poison control center and a medical toxicologist as needed.
+Beta-blocker overdose may result in significant resistance to resuscitation with adrenergic agents, including beta-agonists.
+On the basis of the pharmacologic actions of metoprolol, employ the following measures.
 
-## Signs and Symptoms
+There is very limited experience with the use of hemodialysis to remove metoprolol, however metoprolol is not highly protein bound.
 
-Overdosage of TOPROL-XL may lead to severe hypotension, sinus bradycardia, atrioventricular block, heart failure, cardiogenic shock, cardiac arrest, bronchospasm, impairment of consciousness/coma, nausea, vomiting, and cyanosis.
+Bradycardia: Administer intravenous atropine; repeat to effect.
+If the response is inadequate, consider intravenous isoproterenol or other positive chronotropic agents.
+Evaluate the need for transvenous pacemaker insertion.
 
-## Treatment
+Hypotension: Treat underlying bradycardia.
+Consider intravenous vasopressor infusion, such as dopamine or norepinephrine.
 
-In general, patients with acute or recent myocardial infarction or congestive heart failure may be more hemodynamically unstable than other patients and should be treated accordingly.
-When possible the patient should be treated under intensive care conditions.
-On the basis of the pharmacologic actions of metoprolol, the following general measures should be employed:
+Bronchospasm: Administer a beta2-agonist, including albuterol inhalation, or an oral theophylline derivative.
 
-Elimination of the Drug: Gastric lavage should be performed.
-
-Bradycardia: Atropine should be given intravenously.
-If the response, is inadequate, isoproterenol or any other agent with positive chronotropic properties may be given cautiously.
-Under some circumstances, transvenous pacemaker insertion may be necessary.
-
-Hypotension: A vasopressor should be administered, eg, levarterenol or dopamine.
-
-Bronchospasm: A beta2-stimulating agent and/or a theophylline derivative should be administered.
-
-Cardiac Failure: A digitalis glycoside and diuretics should be administered.
-In shock resulting from inadequate cardiac contractility, administration of dobutamine, isoproterenol, or glucagon may be considered.
+Cardiac Failure: Administer diuretics or digoxin for congestive heart failure.
+For cardiogenic shock, consider IV dobutamine, isoproterenol, or glucagon.
