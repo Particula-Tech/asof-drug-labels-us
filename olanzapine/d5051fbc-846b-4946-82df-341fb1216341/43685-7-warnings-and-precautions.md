@@ -336,7 +336,7 @@ Because of the risk of orthostatic hypotension with olanzapine, caution should b
 
 ## 5.15 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and a modest elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
@@ -346,11 +346,15 @@ Tissue culture experiments indicate that approximately one-third of human breast
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
 
-In clinical studies, elevated plasma prolactin concentrations were observed in 34% of adults treated with olanzapine compared to 13.1% of placebo-treated patients.
-In a pooled analysis from clinical studies including 8136 adults treated with olanzapine, potentially associated clinical manifestations such as galactorrhea (14/8136; 0.2%), gynecomastia (8/4896; 0.2% of males), and breast enlargement (2/3240; 0.06% of females) were reported.
+In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
+In a pooled analysis from clinical studies including 8136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (2% [49/3240] of females), sexual function-related events2 (2% [150/8136] of females and males), and breast-related events3 (0.7% [23/3240] of females, 0.2% [9/4896] of males).
 
-In placebo-controlled olanzapine monotherapy studies in adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), elevated prolactin concentrations compared to baseline occurred in 47.4% of olanzapine-treated patients compared to 6.8% of placebo-treated patients.
-In long-term clinical trials of olanzapine in adolescents, gynecomastia occurred in 2.4% of males (7/286) and galactorrhea occurred in 1.8% of females (3/168) [see Use in Specific Populations (8.4)].
+In placebo-controlled olanzapine monotherapy studies in adolescent patients (up to 6 weeks) with schizophrenia or bipolar I disorder (manic or mixed episodes), changes from normal to high in prolactin concentrations were observed in 47% of olanzapine-treated patients compared to 7% of placebo-treated patients.
+In a pooled analysis from clinical trials including 454 adolescents treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (1% [2/168] of females), sexual function-related events2 (0.7% [3/454] of females and males), and breast-related events3 (2% [3/168] of females, 2% [7/286] of males) [see Use in Specific Populations (8.4)].
+
+1 Based on a search of the following terms: amenorrhea, hypomenorrhea, menstruation delayed, and oligomenorrhea.
+2 Based on a search of the following terms: anorgasmia, delayed ejaculation, erectile dysfunction, decreased libido, loss of libido, abnormal orgasm, and sexual dysfunction.
+3 Based on a search of the following terms: breast discharge, enlargement or swelling, galactorrhea, gynecomastia, and lactation disorder.
 
 ## 5.16 Use in Combination with Fluoxetine, Lithium, or Valproate
 
