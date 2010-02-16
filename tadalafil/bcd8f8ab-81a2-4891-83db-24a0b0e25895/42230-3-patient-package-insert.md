@@ -74,7 +74,7 @@ CIALIS is not right for everyone.
 Only your healthcare provider and you can decide if CIALIS is right for you.
 Before taking CIALIS, tell your healthcare provider about all your medical problems, including if you:
 
-- are allergic to CIALIS or ADCIRCA any of its ingredients.
+- are allergic to CIALIS or ADCIRCATM or any of its ingredients.
   See the end of this leaflet for a complete list of ingredients in CIALIS.
 - have heart problems such as angina, heart failure, irregular heartbeats, or have had a heart attack.
   Ask your healthcare provider if it is safe for you to have sexual activity.
@@ -112,7 +112,7 @@ Especially tell your healthcare provider if you take any of the following:*
 - other medicines or treatments for ED.
 - CIALIS is also marketed as ADCIRCA for the treatment of pulmonary arterial hypertension.
   Do not take both CIALIS and ADCIRCA.
-  Do not take Revatio® with CIALIS.
+  Do not take sildenafil citrate (RevatioTM) with CIALIS.
 
 How Should I Take CIALIS?
 

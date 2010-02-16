@@ -8,5 +8,5 @@ This is thought to result from the combined effects of nitrates and CIALIS on th
 
 ## 4.2 Hypersensitivity Reactions
 
-is contraindicated in patients with a known serious hypersensitivity to tadalafil (CIALIS or ADCIRCA).
+CIALIS is contraindicated in patients with a known serious hypersensitivity to tadalafil (CIALIS or ADCIRCATM).
 Hypersensitivity reactions have been reported, including Stevens-Johnson syndrome and exfoliative dermatitis [see Adverse Reactions (6.2)].

@@ -118,7 +118,7 @@ In patients taking potent inhibitors of CYP3A4 and CIALIS for once daily use, th
 ## 5.11 Combination With Other PDE5 Inhibitors or Erectile Dysfunction Therapies
 
 The safety and efficacy of combinations of CIALIS and other PDE5 inhibitors or treatments for erectile dysfunction have not been studied.
-Therefore, the use of such combinations is not recommended.
+Inform patients not to take CIALIS with other PDE5 inhibitors, including ADCIRCA.
 
 ## 5.12 Effects on Bleeding
 
