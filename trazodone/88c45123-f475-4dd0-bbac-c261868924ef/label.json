@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022411"
+  ],
+  "inn": "trazodone",
+  "labeler": "Labopharm Inc.",
+  "package_ndcs": [
+    "43595-080-03",
+    "43595-081-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "trazodone hydrochloride",
+      "name": "Oleptro"
+    }
+  ],
+  "setid": "88c45123-f475-4dd0-bbac-c261868924ef",
+  "source": "dailymed"
+}

@@ -1,0 +1,7 @@
+# PRINCIPAL DISPLAY PANEL
+
+Bottle label 150 mg
+
+# PRINCIPAL DISPLAY PANEL
+
+Bottle label 300 mg
