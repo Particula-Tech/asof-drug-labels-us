@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078787"
+  ],
   "inn": "gabapentin",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "65862-200-01",
     "65862-200-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "gabapentin",
+      "name": "Gabapentin"
+    }
+  ],
   "setid": "1a619a14-0b63-4cba-80e7-474c9a1c90b9",
   "source": "dailymed"
 }

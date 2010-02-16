@@ -1,21 +1,17 @@
 # WARNINGS
 
-Suicidal Behavior and Ideation
+## Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including gabapentin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
-
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
-
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
-
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 TABLE 2.
@@ -29,11 +25,9 @@ Risk by indication for antiepileptic drugs in the pooled analysis
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
-
 Anyone considering prescribing gabapentin or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
-
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
@@ -58,7 +52,8 @@ Because adequate historical data are not available, it is impossible to say whet
 ## Tumorigenic Potential
 
 In standard preclinical in vivo lifetime carcinogenicity studies, an unexpectedly high incidence of pancreatic acinar adenocarcinomas was identified in male, but not female, rats.
-(See PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility. ) The clinical significance of this finding is unknown.
+(See PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility .)
+The clinical significance of this finding is unknown.
 Clinical experience during gabapentin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 In clinical studies in adjunctive therapy in epilepsy comprising 2085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
 Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
@@ -76,15 +71,12 @@ Consequently, whether these figures are reassuring or raise further concern depe
 ## Information for Patients
 
 Patients should be instructed to take gabapentin only as prescribed.
-
 Patients, their caregivers, and families should be counseled that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
-
 Patients should be advised that gabapentin may cause dizziness, somnolence and other symptoms and signs of CNS depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin to gauge whether or not it affects their mental and/or motor performance adversely.
 Patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations.
 Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of gabapentin or morphine should be reduced appropriately (see Drug Interactions ).
-
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy section).
@@ -102,65 +94,32 @@ Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree 
 No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the C max at 3600 mg/day).
 Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly coadministered antiepileptic drugs.
 The drug interaction data described in this section were obtained from studies involving healthy adults and adult patients with epilepsy.
-
-### Phenytoin
-
-In a single (400 mg) and multiple dose (400 mg TID) study of gabapentin in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
-
-### Carbamazepine
-
-Steady-state trough plasma carbamazepine and carbamazepine 10, 11 epoxide concentrations were not affected by concomitant gabapentin (400 mg TID; N=12) administration.
+Phenytoin In a single (400 mg) and multiple dose (400 mg TID) study of gabapentin in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
+Carbamazepine Steady-state trough plasma carbamazepine and carbamazepine 10, 11 epoxide concentrations were not affected by concomitant gabapentin (400 mg TID; N=12) administration.
 Likewise, gabapentin pharmacokinetics were unaltered by carbamazepine administration.
-
-### Valproic Acid
-
-The mean steady-state trough serum valproic acid concentrations prior to and during concomitant gabapentin administration (400 mg TID; N=17) were not different and neither were gabapentin pharmacokinetic parameters affected by valproic acid.
-
-### Phenobarbital
-
-Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabapentin (300 mg TID; N=12) are identical whether the drugs are administered alone or together.
-
-### Naproxen
-
-Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
+Valproic Acid The mean steady-state trough serum valproic acid concentrations prior to and during concomitant gabapentin administration (400 mg TID; N=17) were not different and neither were gabapentin pharmacokinetic parameters affected by valproic acid.
+Phenobarbital Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabapentin (300 mg TID; N=12) are identical whether the drugs are administered alone or together.
+Naproxen Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
 Gabapentin had no effect on naproxen pharmacokinetic parameters.
 These doses are lower than the therapeutic doses for both drugs.
 The magnitude of interaction within the recommended dose ranges of either drug is not known.
-
-### Hydrocodone
-
-Coadministration of gabapentin (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) C max and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; C max and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
+Hydrocodone Coadministration of gabapentin (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) C max and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; C max and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
 The mechanism for this interaction is unknown.
 Hydrocodone increases gabapentin AUC values by 14%.
 The magnitude of interaction at other doses is not known.
-
-### Morphine
-
-A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine (see PRECAUTIONS ).
+Morphine A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine (see PRECAUTIONS ).
 Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
 The magnitude of interaction at other doses is not known.
-
-### Cimetidine
-
-In the presence of cimetidine at 300 mg QID (N=12) the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+Cimetidine In the presence of cimetidine at 300 mg QID (N=12) the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
 Thus cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
 This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
-
-### Oral Contraceptive
-
-Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without coadministration of gabapentin (400 mg TID; N=13).
+Oral Contraceptive Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without coadministration of gabapentin (400 mg TID; N=13).
 The C max of norethindrone was 13% higher when it was coadministered with gabapentin; this interaction is not expected to be of clinical importance.
-
-### Antacid (Maalox®)
-
-Maalox reduced the bioavailability of gabapentin (N=16) by about 20%.
+Antacid (Maalox ® ) Maalox reduced the bioavailability of gabapentin (N=16) by about 20%.
 This decrease in bioavailability was about 5% when gabapentin was administered 2 hours after Maalox.
 It is recommended that gabapentin be taken at least 2 hours following Maalox administration.
-
-### Effect of Probenecid
-
-Probenecid is a blocker of renal tubular secretion.
+Effect of Probenecid Probenecid is a blocker of renal tubular secretion.
 Gabapentin pharmacokinetic parameters without and with probenecid were comparable.
 This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.
 
@@ -183,11 +142,9 @@ No adverse effects on fertility or reproduction were observed in rats at doses u
 
 ## Pregnancy
 
-Pregnancy Category C-
-
 ### Teratogenic effects
 
-Gabapentin has been shown to be fetotoxic in rodents, causing delayed ossification of several bones in the skull, vertebrae, forelimbs, and hindlimbs.
+Pregnancy Category C. Gabapentin has been shown to be fetotoxic in rodents, causing delayed ossification of several bones in the skull, vertebrae, forelimbs, and hindlimbs.
 These effects occurred when pregnant mice received oral doses of 1000 or 3000 mg/kg/day during the period of organogenesis, or approximately 1 to 4 times the maximum dose of 3600 mg/day given to epileptic patients on a mg/m 2 basis.
 The no-effect level was 500 mg/kg/day or approximately ½ of the human dose on a mg/m 2 basis.
 When rats were dosed prior to and during mating, and throughout gestation, pups from all dose groups (500, 1000 and 2000 mg/kg/day) were affected.
@@ -198,7 +155,6 @@ Other than hydroureter and hydronephrosis, the etiologies of which are unclear, 
 In a teratology study in rabbits, an increased incidence of postimplantation fetal loss occurred in dams exposed to 60, 300, and 1500 mg/kg/day, or less than approximately ¼ to 8 times the maximum human dose on a mg/m 2 basis.
 There are no adequate and well-controlled studies in pregnant women.
 This drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
 To provide information regarding the effects of in utero exposure to gabapentin, physicians are advised to recommend that pregnant patients taking gabapentin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.

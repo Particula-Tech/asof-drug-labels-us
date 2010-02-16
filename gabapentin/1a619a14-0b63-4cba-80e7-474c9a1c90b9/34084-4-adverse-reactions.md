@@ -67,7 +67,7 @@ The adverse events most commonly associated with withdrawal in pediatric patient
 
 ## Incidence in Controlled Clinical Trials
 
-Table 4 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
+Table 4 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-­treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
 In these studies, either gabapentin or placebo was added to the patient’s current antiepileptic drug therapy.
 Adverse events were usually mild to moderate in intensity.
 The prescriber should be aware that these figures, obtained when gabapentin was added to concurrent antiepileptic drug therapy, cannot be used to predict the frequency of adverse events in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
@@ -131,7 +131,7 @@ Among the treatment-emergent adverse events occurring at an incidence of at leas
 The overall incidence of adverse events and the types of adverse events seen were similar among men and women treated with gabapentin.
 The incidence of adverse events increased slightly with increasing age in patients treated with either gabapentin or placebo.
 Because only 3% of patients (28/921) in placebo-controlled studies were identified as nonwhite (black or other), there are insufficient data to support a statement regarding the distribution of adverse events by race.
-Table 5 lists treatment-emergent signs and symptoms that occurred in at least 2% of gabapentin-treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
+Table 5 lists treatment-emergent signs and symptoms that occurred in at least 2% of gabapentin-­treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
 Adverse events were usually mild to moderate in intensity.
 
 TABLE 5.

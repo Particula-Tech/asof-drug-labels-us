@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Gabapentin capsules are supplied as imprinted hard shell capsules containing 100 mg, 300 mg, and 400 mg of gabapentin.
+Gabapentin capsules, USP are supplied as imprinted hard shell capsules containing 100 mg, 300 mg, and 400 mg of gabapentin.
 Each capsule contains the following inactive ingredients: corn starch and talc.
 The empty hard gelatin capsule shell consists of gelatin, titanium dioxide, and sodium lauryl sulfate.
 In addition 300 mg also contains yellow iron oxide and 400 mg also contains yellow iron oxide and red iron oxide.

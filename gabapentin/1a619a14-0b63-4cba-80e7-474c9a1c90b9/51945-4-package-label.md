@@ -1,0 +1,3 @@
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 400 mg (100 Capsule Bottle)
+
+NDC 65862-200-01 Gabapentin Capsules, USP 400 mg Rx only 100 Capsules AUROBINDO
