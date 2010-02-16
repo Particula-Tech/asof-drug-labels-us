@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA016269",
+    "ANDA019603"
+  ],
   "inn": "mannitol",
-  "labeler": "Hospira",
+  "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-4031-01",
     "0409-7712-09",
@@ -10,7 +13,13 @@
     "0409-7715-02",
     "0409-7715-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "mannitol",
+      "name": "Mannitol"
+    }
+  ],
   "setid": "8ad3145e-00e7-4412-b9a5-06f00f264f30",
   "source": "dailymed"
 }

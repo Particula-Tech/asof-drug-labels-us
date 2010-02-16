@@ -3,14 +3,14 @@
 Mannitol I.V.
 (Mannitol Injection, USP) is supplied in single-dose containers as follows:
 
-| List No. | Conc. % | Size (mL) |
+| NDC No. | Conc. % | Size (mL) |
 | --- | --- | --- |
-| 7712 | 5 | 1000 Flexible Container |
-| 7713 | 10 | 1000 Flexible Container |
-| 7714 | 15 | 500 Flexible Container |
-| 7715 | 20 | 250 Flexible Container |
-|  |  | 500 Flexible Container |
-| 4031 | 25 | 50 Fliptop Vial |
+| 0409–7712–09 | 5 | 1000 Flexible Container |
+| 0409–7713–09 | 10 | 1000 Flexible Container |
+| 0409–7714–03 | 15 | 500 Flexible Container |
+| 0409–7715–02 | 20 | 250 Flexible Container |
+| 0409–7715–03 | 20 | 500 Flexible Container |
+| 0409–4031–01 | 25 | 50 Fliptop Vial |
 
 NOTE: Crystals may form in mannitol solutions especially if the solutions are chilled.
 To dissolve crystals in the flexible container, warm the unit to 70°C with agitation.
@@ -22,13 +22,12 @@ Remove cover from fliptop vial and cleanse stopper with antiseptic before use.
 Cool to body temperature or less before administering.
 When infusing 20% or 25% mannitol concentrations, the administration set should include a filter.
 
-Exposure of pharmaceutical products to heat should be minimized.
-Avoid excessive heat.
 Protect from freezing.
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-| ©Hospira 2004 | EN-0149 | Printed in USA |
+| Revised: June, 2009 |  |  |
 | --- | --- | --- |
+| Printed in USA | EN-2164 |  |
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Hospira, Inc., Lake Forest, IL 60045 USA

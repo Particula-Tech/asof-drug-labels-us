@@ -49,7 +49,7 @@ When introducing additives to the flexible container, use aseptic technique, mix
 
 Do not place 25% Mannitol Injection, USP in polyvinylchloride bags; a white flocculent precipitate may form from contact with PVC surfaces.
 Parenteral drug products should be inspected visually for particulate matter and discoloration; whenever container and solution permit.
-See PRECAUTIONS.
+(See PRECAUTIONS).
 
 INSTRUCTIONS FOR USE - Flexible Container
 

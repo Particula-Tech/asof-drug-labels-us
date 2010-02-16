@@ -26,7 +26,7 @@
    If it is essential that blood be given simultaneously, at least 20 mEq of sodium chloride should be added to each liter of mannitol solution to avoid pseudoagglutination.
 5. When exposed to low temperatures, solutions of mannitol may crystallize.
    If crystals are observed, the container should be warmed to redissolve, then cooled to body temperature before administering.
-   See NOTE under HOW SUPPLIED.
+   (See NOTE under HOW SUPPLIED.)
    When infusing 20% or 25% mannitol concentrations, the administration set should include a filter.
    Do not infuse mannitol solution if crystals are present.
 6. Do not administer unless solution is clear and container is undamaged.
@@ -49,5 +49,5 @@ Caution should be exercised when solutions from flexible plastic containers are 
 
 ## Pediatric Use:
 
-See DOSAGE AND ADMINISTRATION sections.
+(See DOSAGE AND ADMINISTRATION sections.)
 Safety and effectiveness of solutions from flexible plastic containers in pediatric patients have not been well established.

@@ -4,4 +4,4 @@ Adverse reactions more commonly reported during or after the infusion of mannito
 
 Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.
 
-If an adverse reaction does occur, discontinue the infusion, evaluate the patient,institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
+If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
