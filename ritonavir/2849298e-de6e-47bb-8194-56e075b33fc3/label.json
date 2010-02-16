@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022417"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Abbott Laboratories",
+  "package_ndcs": [
+    "0074-3333-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ritonavir",
+      "name": "NORVIR"
+    }
+  ],
+  "setid": "2849298e-de6e-47bb-8194-56e075b33fc3",
+  "source": "dailymed"
+}
