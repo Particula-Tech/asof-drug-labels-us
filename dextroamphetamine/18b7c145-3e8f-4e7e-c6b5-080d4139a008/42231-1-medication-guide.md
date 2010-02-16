@@ -49,7 +49,7 @@ Tell your doctor if you or your child is pregnant, planning to become pregnant, 
 Can DEXEDRINE be taken with other medicines?
 
 Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.DEXEDRINE and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking DEXEDRINE
+Sometimes the doses of other medicines will need to be adjusted while taking DEXEDRINE.
 
 Your doctor will decide whether DEXEDRINE can be taken with other medicines.
 
