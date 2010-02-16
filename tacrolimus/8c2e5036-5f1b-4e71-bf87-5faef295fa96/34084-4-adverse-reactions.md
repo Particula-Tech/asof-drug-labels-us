@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS
 
 No phototoxicity and no photoallergenicity were detected in clinical studies with 12 and 216 normal volunteers, respectively.
 One out of 198 normal volunteers showed evidence of sensitization in a contact sensitization study.
@@ -121,7 +121,7 @@ Skin
 
 Rosacea
 
-## Overdosage
+## OVERDOSAGE
 
 PROTOPIC Ointment is not for oral use.
 Oral ingestion of PROTOPIC Ointment may lead to adverse effects associated with systemic administration of tacrolimus.

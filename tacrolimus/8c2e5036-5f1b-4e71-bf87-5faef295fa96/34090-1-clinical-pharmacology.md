@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY
 
 ## Mechanism of Action
 
@@ -22,7 +22,7 @@ In clinical studies with periodic blood sampling, a similar distribution of tacr
 The absolute bioavailability of tacrolimus from PROTOPIC in atopic dermatitis patients is approximately 0.5%.
 In adults with an average of 53% BSA treated, exposure (AUC) of tacrolimus from PROTOPIC is approximately 30-fold less than that seen with oral immunosuppressive doses in kidney and liver transplant patients.
 
-Mean peak tacrolimus blood concentrations following oral administration (0.3 mg/kg/day) in adult kidney transplant (n=26) and liver transplant (n=17) patients are 24.2+15.8 ng/mL and 68.5+30.0 ng/mL, respectively.
+Mean peak tacrolimus blood concentrations following oral administration (0.3 mg/kg/day) in adult kidney transplant (n=26) and liver transplant (n=17) patients are 24.2±15.8 ng/mL and 68.5±30.0 ng/mL, respectively.
 The lowest tacrolimus blood level at which systemic effects (e.g., immunosuppression) can be observed is not known.
 
 Systemic levels of tacrolimus have also been measured in pediatric patients (see Special Populations: Pediatrics).

@@ -1,4 +1,4 @@
-# How Supplied
+# HOW SUPPLIED
 
 PROTOPIC® (tacrolimus) Ointment 0.03%
 
@@ -39,5 +39,3 @@ Deerfield, IL 60015-2548
 Manufactured by:
 
 Astellas Toyama Co., Ltd. Toyama Plant, 2-178 Kojin-machi, Toyama 930-0809, Japan
-
-Revised: January 2009

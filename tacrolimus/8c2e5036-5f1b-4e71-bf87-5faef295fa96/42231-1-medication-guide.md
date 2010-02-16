@@ -79,14 +79,10 @@ How should I use PROTOPIC Ointment?
 To apply PROTOPIC Ointment:
 
 - Wash your hands before applying PROTOPIC.
-
 - Apply a thin layer of PROTOPIC Ointment twice daily to the areas of skin affected by eczema.
-
 - Use the smallest amount of PROTOPIC Ointment needed to control the signs and symptoms of eczema.
-
 - If you are a caregiver applying PROTOPIC Ointment to a patient, or if you are a patient who is not treating your hands, wash your hands with soap and water after applying PROTOPIC.
   This should remove any ointment left on the hands.
-
 - Do not bathe, shower, or swim right after applying PROTOPIC.
   This could wash off the ointment.
 - You can use moisturizers with PROTOPIC Ointment.
@@ -121,6 +117,9 @@ While you are using PROTOPIC, drinking alcohol may cause the skin or face to bec
 
 These are not all the side effects with PROTOPIC Ointment.
 Ask your doctor or pharmacist for more information.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088
 
 How should I store PROTOPIC Ointment?
 
@@ -161,4 +160,6 @@ Astellas Toyama Co., Ltd. Toyama Plant, 2-178 Kojin-machi, Toyama 930-0809, Japa
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-01092009PRT
+Revised: June 2009
+
+09F001-PRT-CPI

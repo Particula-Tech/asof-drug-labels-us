@@ -1,4 +1,4 @@
-# Warnings
+# WARNINGS
 
 Prolonged systemic use of calcineurin inhibitors for sustained immunosuppression in animal studies and transplant patients following systemic administration has been associated with an increased risk of infections, lymphomas, and skin malignancies.
 These risks are associated with the intensity and duration of immunosuppression.
@@ -13,7 +13,7 @@ Therefore:
 
 (See CLINICAL PHARMACOLOGY, boxed WARNINGS, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
 
-# Precautions
+# PRECAUTIONS
 
 ## General
 
@@ -61,7 +61,7 @@ Caution should also be exercised in patients predisposed to renal impairment.
 
 ## Information for Patients
 
-(See MEDICATION GUIDE)
+(See Medication Guide)
 
 Patients using PROTOPIC Ointment should receive and understand the information in the Medication Guide.
 Please refer to the Medication Guide for providing instruction and information to the patient.
@@ -104,14 +104,10 @@ To apply PROTOPIC Ointment:
 Advise patients:
 
 - Wash their hands before applying PROTOPIC.
-
 - Apply a thin layer of PROTOPIC Ointment twice daily to the areas of skin affected by eczema.
-
 - Use the smallest amount of PROTOPIC Ointment needed to control the signs and symptoms of eczema.
-
 - If they are a caregiver applying PROTOPIC Ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying PROTOPIC.
   This should remove any ointment left on the hands.
-
 - Do not bathe, shower, or swim right after applying PROTOPIC.
   This could wash off the ointment.
 - Moisturizers can be used with PROTOPIC Ointment.
@@ -164,9 +160,7 @@ When given at 3.2 mg/kg (0.43X MRHD based on BSA), tacrolimus was associated wit
 
 ## Pregnancy
 
-### Teratogenic Effects:
-
-### Pregnancy Category C
+### Teratogenic Effects: Pregnancy Category C
 
 There are no adequate and well-controlled studies of topically administered tacrolimus in pregnant women.
 The experience with PROTOPIC Ointment when used by pregnant women is too limited to permit assessment of the safety of its use during pregnancy.
@@ -196,7 +190,7 @@ PROTOPIC Ointment is not indicated for children less than 2 years of age.
 
 Only the lower concentration, 0.03%, of PROTOPIC Ointment is recommended for use as a second-line therapy for short-term and non-continuous chronic treatment of moderate to severe atopic dermatitis in non-immunocompromised children 2 to 15 years of age who have failed to respond adequately to other topical prescription treatments for atopic dermatitis, or when those treatments are not advisable.
 
-The long-term safety and effects of PROTOPIC Ointment on the developing immune system are unknown (see boxed WARNING, WARNINGS and INDICATIONS AND USAGE).
+The long-term safety and effects of PROTOPIC Ointment on the developing immune system are unknown (see boxed WARNING, WARNINGS and INDICATIONS and USAGE).
 
 Four studies were conducted involving a total of about 4,400 patients 2-15 years of age: one 12-week randomized vehicle-controlled study and three open-label safety studies of one to three years duration.
 About 2,500 of these patients were 2 to 6 years of age.
