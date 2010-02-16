@@ -1,14 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022067"
+  ],
   "inn": "prednisolone",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
-    "51672-1337-8",
     "51672-1338-3",
-    "51672-1338-6",
-    "51672-1338-8"
+    "51672-1338-5",
+    "51672-1338-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "prednisolone acetate",
+      "name": "Flo-Pred"
+    }
+  ],
   "setid": "980b3c11-a502-4235-bbff-af83a17ebcdf",
   "source": "dailymed"
 }

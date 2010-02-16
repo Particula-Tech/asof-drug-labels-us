@@ -14,7 +14,7 @@
 - Cyclosporine: Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.
   Convulsions have been reported with concurrent use.
 - Digitalis: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.
-- Estrogens, including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids thereby increasing their effect.
+- Estrogens,including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids thereby increasing their effect.
 - NSAlDS including aspirin and salicylates: Concomitant use of aspirin or other non-steroidal anti-inflammatory agents and corticosteroids increases the risk of gastrointestinal side effects.
   Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
   The clearance of salicylates may be increased with concurrent use of corticosteroids.

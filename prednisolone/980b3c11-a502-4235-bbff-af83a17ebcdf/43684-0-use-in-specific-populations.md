@@ -54,7 +54,7 @@ In order to minimize the potential growth effects of corticosteroids, children s
 No overall differences in safety or effectiveness were observed between elderly subjects and younger subjects, and other reported clinical experience with prednisolone has not identified differences in responses between the elderly and younger patients.
 However, the incidence of corticosteroid-induced side effects may be increased in geriatric patients and are dose-related.
 Osteoporosis is the most frequently encountered complication, which occurs at a higher incidence rate in corticosteroid-treated geriatric patients as compared to younger populations and in age-matched controls.
-Losses of bone mineral density appear to be greatest early on in the course of treatment and may recover over time after steroid withdrawal or use of lower doses (i.e., ≤5 mg/day).
+Losses of bone mineral density appear to be greatest early on in the course of treatment and may recover over time after steroid withdrawal or use of lower doses (i.e., ≤ 5 mg/day).
 Prednisolone doses of 7.5 mg/day or higher have been associated with an increased relative risk of both vertebral and nonvertebral fractures, even in the presence of higher bone density compared to patients with involution osteoporosis.
 
 Routine screening of geriatric patients, including regular assessments of bone mineral density and institution of fracture prevention strategies, along with regular review of prednisolone indication should be undertaken to minimize complications and keep the prednisolone dose at the lowest acceptable level.
