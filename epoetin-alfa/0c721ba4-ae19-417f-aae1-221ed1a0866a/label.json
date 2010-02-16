@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "BLA001080"
+  ],
+  "inn": "epoetin-alfa",
+  "labeler": "Centocor Ortho Biotech, L.P.",
+  "package_ndcs": [
+    "59676-302-01",
+    "59676-302-02",
+    "59676-303-01",
+    "59676-303-02",
+    "59676-304-01",
+    "59676-304-02",
+    "59676-310-01",
+    "59676-310-02",
+    "59676-312-01",
+    "59676-312-04",
+    "59676-320-01",
+    "59676-320-04",
+    "59676-340-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "erythropoietin",
+      "name": "PROCRIT"
+    }
+  ],
+  "setid": "0c721ba4-ae19-417f-aae1-221ed1a0866a",
+  "source": "dailymed"
+}

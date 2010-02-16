@@ -1,0 +1,19 @@
+WARNINGS: INCREASED MORTALITY, SERIOUS CARDIOVASCULAR EVENTS, THROMBOEMBOLIC EVENTS, STROKE and INCREASED RISK OF TUMOR PROGRESSION OR RECURRENCE
+
+Chronic Renal Failure
+
+- In clinical studies, patients experienced greater risks for death, serious cardiovascular events, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target hemoglobin levels of 13 g/dL and above.
+- Individualize dosing to achieve and maintain hemoglobin levels within the range of 10 to 12 g/dL.
+
+Cancer
+
+- ESAs shortened overall survival and/or increased the risk of tumor progression or recurrence in some clinical studies in patients with breast, non-small cell lung, head and neck, lymphoid, and cervical cancers (see WARNINGS: Table 1).
+- To decrease these risks, as well as the risk of serious cardio- and thrombovascular events, use the lowest dose needed to avoid red blood cell transfusion.
+- Use ESAs only for treatment of anemia due to concomitant myelosuppressive chemotherapy.
+- ESAs are not indicated for patients receiving myelosuppressive therapy when the anticipated outcome is cure.
+- Discontinue following the completion of a chemotherapy course.
+
+Perisurgery: PROCRIT® increased the rate of deep venous thromboses in atients not receiving prophylactic anticoagulation.
+Consider deep venous thrombosis prophylaxis.
+
+(See WARNINGS: Increased Mortality, Serious Cardiovascular Events, Thromboembolic Events, and Stroke, WARNINGS: Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION.)
