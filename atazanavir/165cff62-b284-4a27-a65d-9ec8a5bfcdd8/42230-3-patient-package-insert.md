@@ -35,7 +35,7 @@ Some of these conditions are pneumonia, herpes virus infections, and Mycobacteri
 It is very important that you see your healthcare provider regularly while taking REYATAZ.
 
 REYATAZ does not lower your chance of passing HIV to other people through sexual contact, sharing needles, or being exposed to your blood.
-For your health and the health of others, it is important to always practice safer sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+For your health and the health of others, it is important to always practice safe sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 Never use or share dirty needles.
 
 Who should not take REYATAZ?
@@ -195,6 +195,8 @@ The following medicines may require your healthcare provider to monitor your the
 - LIPITOR® (atorvastatin) or CRESTOR® (rosuvastatin).
   There is an increased chance of serious side effects if you take REYATAZ with this cholesterol-lowering medicine.
 - Medicines for abnormal heart rhythm: CORDARONE® (amiodarone), lidocaine, quinidine (also known as CARDIOQUIN®, QUINIDEX®, and others).
+- MYCOBUTIN® (rifabutin, an antibiotic used to treat tuberculosis).
+- BUPRENEX®, SUBUTEX®, SUBOXONE® (buprenorphine or buprenorphine/naloxone, used to treat pain and addiction to narcotic painkillers).
 - VASCOR® (bepridil, used for chest pain).
 - COUMADIN® (warfarin).
 - Tricyclic antidepressants such as ELAVIL® (amitriptyline), NORPRAMIN® (desipramine), SINEQUAN® (doxepin), SURMONTIL® (trimipramine), TOFRANIL® (imipramine), or VIVACTIL® (protriptyline).
@@ -262,4 +264,4 @@ US Patent Nos: 5,849,911 and 6,087,383
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226A5 Rev November 2009
+1246226A6 Rev January 2010

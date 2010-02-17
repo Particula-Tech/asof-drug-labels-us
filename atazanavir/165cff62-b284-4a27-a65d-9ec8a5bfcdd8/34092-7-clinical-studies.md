@@ -27,8 +27,8 @@ Table 21: Outcomes of Treatment Through Week 96 (Study AI424-138)
 | e Includes viral rebound and failure to achieve confirmed HIV RNA <50 copies/mL through Week 96. |  |  |
 | f Includes lost to follow-up, patient’s withdrawal, noncompliance, protocol violation, and other reasons. |  |  |
 
-Through 96 weeks of therapy the proportion of responders among patients with high viral loads (ie, baseline HIV RNA ≥100,000 copies/mL) was comparable for the REYATAZ/ritonavir (165 of 223 patients, 74%) and lopinavir/ritonavir (148 of 222 patients, 67%) arms.
-At 96 weeks the median increase from baseline in CD4+ cell count was 261 cells/mm3 for the REYATAZ/ritonavir arm and 273 cells/mm3 for the lopinavir/ritonavir arm.
+Through 96 weeks of therapy, the proportion of responders among patients with high viral loads (ie, baseline HIV RNA ≥100,000 copies/mL) was comparable for the REYATAZ/ritonavir (165 of 223 patients, 74%) and lopinavir/ritonavir (148 of 222 patients, 67%) arms.
+At 96 weeks, the median increase from baseline in CD4+ cell count was 261 cells/mm3 for the REYATAZ/ritonavir arm and 273 cells/mm3 for the lopinavir/ritonavir arm.
 
 Study AI424-034: REYATAZ once daily compared to efavirenz once daily, each in combination with fixed-dose lamivudine + zidovudine twice daily.
 Study AI424-034 was a randomized, double-blind, multicenter trial comparing REYATAZ (400 mg once daily) to efavirenz (600 mg once daily), each in combination with a fixed-dose combination of lamivudine (3TC) (150 mg) and zidovudine (ZDV) (300 mg) given twice daily, in 810 antiretroviral treatment-naive patients.

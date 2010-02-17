@@ -197,10 +197,11 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | nevirapinei,j | 200 mg BID, d 1–23 (n=23) | 300 mg QD/ritonavir 100 mg QD, d 4–13, then 400 mg QD/ritonavir 100 mg QD, d 14–23 (n=23) | 1.17 (1.09, 1.25) 1.21 (1.11, 1.32) | 1.25 (1.17, 1.34) 1.26 (1.17, 1.36) | 1.32 (1.22, 1.43) 1.35 (1.25, 1.47) |
 | omeprazolek | 40 mg single dose, d 7 and d 20 (n=16) | 400 mg QD, d 1−12 (n=16) | 1.24 (1.04, 1.47) | 1.45 (1.20, 1.76) | NA |
 | rifabutin | 300 mg QD, d 1−10 then 150 mg QD, d 11−20 (n=3) | 600 mg QD,l d 11−20 (n=3) | 1.18 (0.94, 1.48) 25-O- desacetyl- rifabutin: 8.20 (5.90, 11.40) | 2.10 (1.57, 2.79) 25-O- desacetyl- rifabutin: 22.01 (15.97, 30.34) | 3.43 (1.98, 5.96) 25-O- desacetyl- rifabutin: 75.6 (30.1, 190.0) |
-| rosiglitazonem | 4 mg single dose, d 1, 7, 17 (n=14) | 400 mg QD, d 2–7, then 300 mg QD/ritonavir 100 mg QD, d 8–17 (n=14) | 1.08 (1.03, 1.13) 0.97 (0.91, 1.04) | 1.35 (1.26, 1.44) 0.83 (0.77, 0.89) | NA NA |
-| saquinavirn (soft gelatin capsules) | 1200 mg QD, d 1−13 (n=7) | 400 mg QD, d 7−13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
-| tenofoviro | 300 mg QD, d 9−16 (n=33) and d 24−30 (n=33) | 400 mg QD, d 2−16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
-|  | 300 mg QD, d 1−7 (pm) (n=14) d 25−34 (pm) (n=12) | 300 mg QD/ritonavir 100 mg QD, d 25−34 (am) (n=12)p | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |
+|  | 150 mg twice weekly, d 1−15 (n=7) | 300 mg QD/ritonavir 100 mg QD, d 1−17 (n=7) | 2.49m (2.03, 3.06) 25-O- desacetyl- rifabutin: 7.77 (6.13, 9.83) | 1.48m (1.19, 1.84) 25-O- desacetyl- rifabutin: 10.90 (8.14, 14.61) | 1.40m (1.05, 1.87) 25-O- desacetyl- rifabutin: 11.45 (8.15, 16.10) |
+| rosiglitazonen | 4 mg single dose, d 1, 7, 17 (n=14) | 400 mg QD, d 2–7, then 300 mg QD/ritonavir 100 mg QD, d 8–17 (n=14) | 1.08 (1.03, 1.13) 0.97 (0.91, 1.04) | 1.35 (1.26, 1.44) 0.83 (0.77, 0.89) | NA NA |
+| saquinaviro (soft gelatin capsules) | 1200 mg QD, d 1−13 (n=7) | 400 mg QD, d 7−13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
+| tenofovirp | 300 mg QD, d 9−16 (n=33) and d 24−30 (n=33) | 400 mg QD, d 2−16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
+|  | 300 mg QD, d 1−7 (pm) (n=14) d 25−34 (pm) (n=12) | 300 mg QD/ritonavir 100 mg QD, d 25−34 (am) (n=12)q | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |
 | lamivudine + zidovudine | 150 mg lamivudine + 300 mg zidovudine BID, d 1−12 (n=19) | 400 mg QD, d 7−12 (n=19) | lamivudine: 1.04 (0.92, 1.16) zidovudine: 1.05 (0.88, 1.24) zidovudine glucuronide: 0.95 (0.88, 1.02) | lamivudine: 1.03 (0.98, 1.08) zidovudine: 1.05 (0.96, 1.14) zidovudine glucuronide: 1.00 (0.97, 1.03) | lamivudine: 1.12 (1.04, 1.21) zidovudine: 0.69 (0.57, 0.84) zidovudine glucuronide: 0.82 (0.62, 1.08) |
 | a Data provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
 | b All drugs were given under fasted conditions. |  |  |  |  |  |
@@ -212,12 +213,13 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | h (R)-methadone is the active isomer of methadone. |  |  |  |  |  |
 | i Study was conducted in HIV-infected individuals. |  |  |  |  |  |
 | j Subjects were treated with nevirapine prior to study entry. |  |  |  |  |  |
-| k Omeprazole was used as a metabolic probe for CYP2C19. Omeprazole was given 2 hours after REYATAZ on Day 7 and was given alone 2 hours after a light meal on Day 20. |  |  |  |  |  |
+| k Omeprazole was used as a metabolic probe for CYP2C19. Omeprazole was given 2 hours after REYATAZ on Day 7; and was given alone 2 hours after a light meal on Day 20. |  |  |  |  |  |
 | l Not the recommended therapeutic dose of atazanavir. |  |  |  |  |  |
-| m Rosiglitazone used as a probe substrate for CYP2C8. |  |  |  |  |  |
-| n The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. |  |  |  |  |  |
-| o Note that similar results were observed in a study where administration of tenofovir and REYATAZ was separated by 12 hours. |  |  |  |  |  |
-| p Administration of tenofovir and REYATAZ was temporally separated by 12 hours. |  |  |  |  |  |
+| m When compared to rifabutin 150 mg QD alone d1−10 (n=14). Total of Rifabutin + 25-O-desacetyl-rifabutin: AUC 2.19 (1.78, 2.69). |  |  |  |  |  |
+| n Rosiglitazone used as a probe substrate for CYP2C8. |  |  |  |  |  |
+| o The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. |  |  |  |  |  |
+| p Note that similar results were observed in a study where administration of tenofovir and REYATAZ was separated by 12 hours. |  |  |  |  |  |
+| q Administration of tenofovir and REYATAZ was temporally separated by 12 hours. |  |  |  |  |  |
 | NA = not available. |  |  |  |  |  |
 
 ## 12.4 Microbiology
