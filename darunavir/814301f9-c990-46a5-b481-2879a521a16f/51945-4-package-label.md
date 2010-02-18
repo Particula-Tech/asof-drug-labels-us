@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 480 Tablet Bottle
+PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Label
 
 480 Tablets NDC 59676-563-01
 

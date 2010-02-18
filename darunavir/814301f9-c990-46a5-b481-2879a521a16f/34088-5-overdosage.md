@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Human experience of acute overdose with PREZISTA/rtv is limited.
+Human experience of acute overdose with PREZISTA/ritonavir is limited.
 Single doses up to 3200 mg of the oral solution of darunavir alone and up to 1600 mg of the tablet formulation of darunavir in combination with ritonavir have been administered to healthy volunteers without untoward symptomatic effects.
 
 No specific antidote is available for overdose with PREZISTA.

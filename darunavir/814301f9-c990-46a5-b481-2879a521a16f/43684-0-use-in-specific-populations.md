@@ -27,13 +27,13 @@ Because of both the potential for HIV transmission and the potential for serious
 
 ## 8.4 Pediatric Use
 
-Do not administer PREZISTA/rtv in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.11), Use in Specific Populations (8.1), Clinical Pharmacology (12.3) and Nonclinical Toxicology (13.2)].
+Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.11), Use in Specific Populations (8.1), Clinical Pharmacology (12.3) and Nonclinical Toxicology (13.2)].
 
-The pharmacokinetics, safety, tolerability, and efficacy of PREZISTA/rtv in pediatric patients 3 to < 6 years of age have not been established.
+The pharmacokinetics, safety, tolerability, and efficacy of PREZISTA/ritonavir in pediatric patients 3 to < 6 years of age have not been established.
 
-Do not administer PREZISTA/rtv once daily in pediatric patients.
+Do not administer PREZISTA/ritonavir once daily in pediatric patients.
 
-The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/rtv were evaluated in treatment-experienced HIV-1-infected pediatric subjects 6 to < 18 years of age and weighing at least 44 lbs (20 kg) [see Adverse Reactions (6.6), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/ritonavir were evaluated in treatment-experienced HIV-1-infected pediatric subjects 6 to < 18 years of age and weighing at least 44 lbs (20 kg) [see Adverse Reactions (6.6), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
 Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.6)].
 Please see Dosage and Administration (2.2) for dosing recommendations for pediatric subjects 6 to < 18 years of age and weighing at least 44 lbs (20 kg).
 
@@ -44,8 +44,8 @@ In general, caution should be exercised in the administration and monitoring of 
 
 ## 8.6 Hepatic Impairment
 
-No dose adjustment of PREZISTA/rtv is necessary for patients with either mild or moderate hepatic impairment.
-No pharmacokinetic or safety data are available regarding the use of PREZISTA/rtv in subjects with severe hepatic impairment, therefore, PREZISTA/rtv is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+No dose adjustment of PREZISTA/ritonavir is necessary for patients with either mild or moderate hepatic impairment.
+No pharmacokinetic or safety data are available regarding the use of PREZISTA/ritonavir in subjects with severe hepatic impairment, therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

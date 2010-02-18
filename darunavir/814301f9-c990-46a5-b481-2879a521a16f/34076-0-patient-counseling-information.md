@@ -8,7 +8,6 @@ A Patient Package Insert for PREZISTA is available for patient information.
 ## 17.1 General
 
 Patients should be informed that PREZISTA is not a cure for HIV infection and that they may continue to develop opportunistic infections and other complications associated with HIV disease.
-The long-term effects of PREZISTA are unknown at this time.
 Patients should be told that there are currently no data demonstrating that therapy with PREZISTA can reduce the risk of transmitting HIV to others.
 
 Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
@@ -39,13 +38,13 @@ Inform the patient that he or she should not take more or less than the prescrib
 
 ## 17.3 Drug Interactions
 
-PREZISTA/rtv may interact with many drugs; therefore, patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort.
+PREZISTA/ritonavir may interact with many drugs; therefore, patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort.
 
-Patients receiving estrogen-based contraceptives should be instructed to use alternate contraceptive measures during therapy with PREZISTA/rtv because hormonal levels may decrease.
+Patients receiving estrogen-based contraceptives should be instructed to use alternate contraceptive measures during therapy with PREZISTA/ritonavir because hormonal levels may decrease.
 
 ## 17.4 Fat Redistribution
 
-Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including PREZISTA/rtv, and that the cause and long-term health effects of these conditions are not known at this time.
+Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including PREZISTA/ritonavir, and that the cause and long-term health effects of these conditions are not known at this time.
 
 Manufactured for Tibotec, Inc. by: JOLLC, Gurabo, Puerto Rico Distributed by: Tibotec Therapeutics, Division of Centocor Ortho Biotech Products, L.P., Raritan NJ 08869
 
@@ -53,10 +52,8 @@ Patent Numbers: 5,843,946; 6,248,775; 6,335,460 and other US patents pending
 
 NORVIR® is a registered trademark of its respective owner.
 
-PREZISTA® is a registered trademark of Tibotec Pharmaceuticals, Ltd.
+PREZISTA® is a registered trademark of Tibotec Pharmaceuticals
 
 © Tibotec, Inc. 2006
 
-10101709
-
-## 17.5 FDA-Approved Patient Labeling
+10101710

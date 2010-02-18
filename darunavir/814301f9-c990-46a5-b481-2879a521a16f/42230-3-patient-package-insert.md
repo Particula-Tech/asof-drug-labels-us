@@ -1,3 +1,5 @@
+FDA-Approved Patient Labeling
+
 PREZISTA® (darunavir) Tablets Patient Information about PREZISTA (pre-ZIS-ta) for HIV (Human Immunodeficiency Virus) Infection Generic name: darunavir (da-ROO-nuh-veer)
 
 ALERT: Find out about medicines that should NOT be taken with PREZISTA.
@@ -18,7 +20,7 @@ If you have chronic hepatitis B or C infection, your healthcare professional sho
 Please also read the section "What are the possible side effects of PREZISTA?".
 
 Rarely, PREZISTA has been reported to cause a severe or life-threatening rash.
-Contact your healthcare provider if you develop a rash.
+Contact your healthcare provider immediately if you develop a rash.
 Your healthcare provider will advise you whether your symptoms can be managed on therapy or whether PREZISTA should be stopped.
 
 WHAT IS PREZISTA?
@@ -73,7 +75,7 @@ Tell your doctor about all of your medical conditions, including if you:
   You should not breastfeed if you have HIV because of the chance of passing HIV to your baby.
   Talk with your doctor about the best way to feed your baby.
 
-WHO SHOULD NOT TAKE PREZISTA?The brands listed are the registered trademarks of their respective owners and are not trademarks of Tibotec Pharmaceuticals, Ltd.
+WHO SHOULD NOT TAKE PREZISTA?The brands listed are the registered trademarks of their respective owners and are not trademarks of Tibotec Pharmaceuticals
 
 Together with your doctor, you need to decide whether taking PREZISTA is right for you.
 
@@ -86,6 +88,7 @@ Do not take or administer PREZISTA:
 
 | Type of Drug | Examples of Generic Names (Brand Names) |
 | --- | --- |
+| Alpha 1-adrenoreceptor antagonist | alfuzosin (Uroxatral®) |
 | Ergot Derivatives (to treat migraine and headaches) | dihydroergotamine (D.H.E. 45®, Migranal®) ergonovine ergotamine (Cafergot®, Ergomar®) methylergonovine |
 | Gastrointestinal Motility Agent (to treat some digestive conditions) | cisapride |
 | Neuroleptic (to treat psychiatric conditions) | pimozide (Orap®) |
@@ -111,7 +114,7 @@ Tell your doctor if you are taking any of the following medicines:
 
 | Type of Drug | Examples of Generic Names (Brand Names) |
 | --- | --- |
-| Antiarrhythmics (to treat abnormal heart rhythms) | bepridil lidocaine (Lidoderm®) quinidine amiodarone (Cordarone®) digoxin (Lanoxin®) flecainide (Tambocor®) propafenone (Rythmol®) |
+| Antiarrhythmics (to treat abnormal heart rhythms) | bepridil lidocaine quinidine amiodarone (Cordarone®) digoxin (Lanoxin®) flecainide (Tambocor®) propafenone (Rythmol®) |
 | Anticoagulants (to treat and prevent blood clots) | warfarin (Coumadin®) |
 | Anticonvulsants (to treat epilepsy and prevent seizures) | carbamazepine (Tegretol®, Carbatrol®) phenobarbital phenytoin (Dilantin®, Phenytek®) |
 | Antidepressants (to treat depression) | trazodone (Desyrel®) desipramine (Norpramin®) |
@@ -121,7 +124,7 @@ Tell your doctor if you are taking any of the following medicines:
 | β-Blockers (to treat high blood pressure, heart attack, or heart failure or to lower pressure in the eye) | metoprolol (Lopressor®, Toprol-XL®) timolol (Betimol®, Combigan®, Istalol®, Cosopt®, Timoptic®) |
 | Benzodiazepines (to treat anxiety and/or trouble with sleeping) | midazolam administered by injection |
 | Calcium Channel Blockers (to treat heart disease) | felodipine (Plendil®) nifedipine (Adalat®) nicardipine (Cardene®) |
-| Corticosteroids (to treat inflammation or asthma) | dexamethasone fluticasone propionate (Advair Diskus®, Cutivate®, Flonase®, Flovent Diskus®) |
+| Corticosteroids (to treat inflammation or asthma) | dexamethasone fluticasone (Advair Diskus®, Cutivate®, Flonase®, Flovent Diskus®) |
 | HMG-CoA Reductase Inhibitors (also known as statins) (to lower cholesterol levels) | atorvastatin (Lipitor®) pravastatin (Pravachol®) rosuvastatin (Crestor®) |
 | Immunosuppressants (to prevent organ transplant rejection) | cyclosporine (Sandimmune®, Neoral®) tacrolimus (Prograf®) sirolimus (Rapamune®) |
 | Narcotic Analgesics/Treatment of Opioid Dependence (to treat narcotic withdrawal and dependence) | methadone buprenorphine/naloxone |
@@ -195,9 +198,9 @@ If you have chronic hepatitis B or C infection, your healthcare professional sho
 Talk to your healthcare professional about the signs and symptoms of liver problems.
 These may include yellowing of your skin or whites of your eyes, dark (tea colored) urine, pale colored stools (bowel movements), nausea, vomiting, loss of appetite, or pain, aching or sensitivity on your right side below your ribs.
 
-Rash has been reported in 10.3% of subjects receiving PREZISTA.
-In some patients, PREZISTA has been reported to cause a severe or life-threatening rash.
-Contact your healthcare provider if you develop a rash.
+Rash has been reported in 10.3% of patients receiving PREZISTA.
+In few patients, PREZISTA has been reported to cause a severe or life-threatening rash.
+Contact your healthcare provider immediately if you develop a rash.
 Your healthcare provider will advise you whether your symptoms can be managed on therapy or whether PREZISTA should be stopped.
 
 Other relevant severe side effects reported at an uncommon or rare frequency were inflammation of the liver or pancreas, increased blood fat levels, diabetes, and changes in body fat.
@@ -221,7 +224,7 @@ These are:
   In some patients with advanced HIV infection (AIDS) and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment, including PREZISTA, is started.
   It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
 
-The most common side effects include diarrhea, nausea, headache, and abdominal pain.
+The most common side effects include diarrhea, nausea, rash, headache, abdominal pain and vomiting.
 
 Tell your doctor promptly about these or any other unusual symptoms.
 If the condition persists or worsens, seek medical attention.
@@ -260,8 +263,8 @@ Patent Numbers: 5,843,946; 6,248,775; 6,335,460 and other US patents pending
 
 NORVIR® is a registered trademark of its respective owner.
 
-PREZISTA® is a registered trademark of Tibotec Pharmaceuticals, Ltd.
+PREZISTA® is a registered trademark of Tibotec Pharmaceuticals
 
-© Tibotec, Inc. 2006
+© Tibotec, Inc. 2006 Revised: January 2010
 
-10101709
+10101710
