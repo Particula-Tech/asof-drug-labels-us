@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA019152"
+  ],
+  "inn": "verapamil",
+  "labeler": "G.D. Searle LLC Division of Pfizer Inc",
+  "package_ndcs": [
+    "0025-1891-31",
+    "0025-1891-34",
+    "0025-1891-51",
+    "0025-1901-31",
+    "0025-1911-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "verapamil hydrochloride",
+      "name": "CALAN SR"
+    }
+  ],
+  "setid": "acb6e57b-af44-432f-a4de-a293a2e20121",
+  "source": "dailymed"
+}
