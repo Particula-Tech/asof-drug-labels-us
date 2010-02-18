@@ -26,7 +26,7 @@ Therefore, the acute rejection rates may be underestimates, particularly in the 
 
 Table 4: Renal Transplant Studies Incidence of Treatment Failure (Biopsy-Proven Rejection or Early Termination for Any Reason)
 
-| USAStudy Antithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids. (N = 499 patients) | Mycophenolate Mofetil 2 g/day (n = 167 patients) | Mycophenolate Mofetil 3 g/day (n = 166 patients) | Azathioprine 1 to 2 mg/kg/day (n = 166 patients) |
+| USAStudyAntithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids. (N = 499 patients) | Mycophenolate Mofetil 2 g/day (n = 167 patients) | Mycophenolate Mofetil 3 g/day (n = 166 patients) | Azathioprine 1 to 2 mg/kg/day (n = 166 patients) |
 | --- | --- | --- | --- |
 | All treatment failures | 31.1% | 31.3% | 47.6% |
 | Early termination without prior acute rejectionDoes not include death and graft loss as reason for early termination. | 9.6% | 12.7% | 6.0% |

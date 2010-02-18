@@ -1,11 +1,11 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections, e.g., opportunistic infection (see WARNINGS, Infections and WARNINGS, Progressive Multifocal Leukoencephalopathy (PML)).
+The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections, e.g., opportunistic infection (see WARNINGS, Infections and WARNINGS, Latent Viral Infections).
 The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
 
 ## Mycophenolate Mofetil Oral
 
-The incidence of adverse events for mycophenolate mofetil was determined in randomized, comparative, double-blind trials in prevention of rejection in renal (2 active, 1 placebo- controlled trials), cardiac (1 active-controlled trial), and hepatic (1 active-controlled trial) transplant patients.
+The incidence of adverse events for mycophenolate mofetil was determined in randomized, comparative, double-blind trials in prevention of rejection in renal (2 active, 1 placebo-controlled trials), cardiac (1 active-controlled trial), and hepatic (1 active-controlled trial) transplant patients.
 
 ### Geriatrics
 
@@ -107,7 +107,7 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 Severe neutropenia (ANC < 0.5 x 103/µL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see WARNINGS, Neutropenia; PRECAUTIONS, Laboratory Tests; and DOSAGE AND ADMINISTRATION).
 
 All transplant patients are at increased risk of opportunistic infections.
-The risk increases with total immunosuppressive load (see WARNINGS, Infections and WARNINGS, Progressive Multifocal Leukoencephalopathy (PML)).
+The risk increases with total immunosuppressive load (see WARNINGS, Infections and WARNINGS, Latent Viral Infections).
 Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
 Table 9: Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
@@ -159,7 +159,7 @@ The type and frequency of adverse events in a clinical study in 100 pediatric pa
 
 ## Mycophenolate Mofetil Intravenous
 
-The adverse event profile of mycophenolate mofetil intravenous was determined from a single, double­-blind, controlled comparative study of the safety of 2 g/day of intravenous and oral mycophenolate mofetil in renal transplant patients in the immediate posttransplant period (administered for the first 5 days).
+The adverse event profile of mycophenolate mofetil intravenous was determined from a single, double-blind, controlled comparative study of the safety of 2 g/day of intravenous and oral mycophenolate mofetil in renal transplant patients in the immediate posttransplant period (administered for the first 5 days).
 The potential venous irritation of mycophenolate mofetil intravenous was evaluated by comparing the adverse events attributable to peripheral venous infusion of mycophenolate mofetil intravenous with those observed in the intravenous placebo group; patients in this group received active medication by the oral route.
 
 Adverse events attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4% in patients treated with mycophenolate mofetil intravenous.
@@ -178,5 +178,7 @@ Hematologic and Lymphatic: Cases of pure red cell aplasia (PRCA) have been repor
 Resistance Mechanism Disorders: Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
+BK virus-associated nephropathy has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
 
 Respiratory: Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving mycophenolate mofetil.

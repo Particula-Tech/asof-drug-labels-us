@@ -42,8 +42,12 @@ Talk to your healthcare provider about joining the National Transplantation Preg
   Serious infections can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets and can lead to death.
   Types of infections can include:
   - Viral infections.
-    Viral infections, including shingles, other herpes infections, and cytomegalovirus (CMV), can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets.
-    CMV can cause serious tissue and blood infections
+    Certain viruses can live in your body and cause active infections when your immune system is weak.
+    Viral infections that can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets include:
+    - Shingles, other herpes infections, and cytomegalovirus (CMV).
+      CMV can cause serious tissue and blood infections.
+    - BK virus.
+      BK virus can affect how your kidney works and cause your transplanted kidney to fail.
   - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
     In some patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets may cause an infection of the brain that may cause death.
     You are at risk for this brain infection because you have a weakened immune system.
@@ -215,7 +219,7 @@ These are not all of the possible side effects of mycophenolate mofetil capsules
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088 or to Teva USA, PHARMACOVIGILANCE at 1-888-838-2872, X 6351.
+You may report side effects to the FDA at 1-800-FDA-1088 or to Teva USA, PHARMACOVIGILANCE at 1-888-838-2872, X6351.
 
 How should I store mycophenolate mofetil capsules and mycophenolate mofetil tablets?
 
@@ -292,4 +296,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-B 7/2009
+C 10/2009

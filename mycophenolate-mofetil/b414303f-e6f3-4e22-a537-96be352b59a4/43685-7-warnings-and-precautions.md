@@ -23,7 +23,10 @@ The efficacy and safety of the use of mycophenolate mofetil in combination with 
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections, fatal infections, and sepsis.
 In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
 
-## Progressive Multifocal Leukoencephalopathy (PML)
+## Latent Viral Infections
+
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include cases of progressive multifocal leukoencephalopathy (PML) and BK virus-associated nephropathy (BKVAN) which have been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
 
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
 Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
@@ -31,6 +34,10 @@ The reported cases generally had risk factors for PML, including treatment with 
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
 Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
 In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
+
+BKVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS, Postmarketing Experience).
+Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
+Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
 ## Pregnancy
 
@@ -200,12 +207,12 @@ The mean (± SD) AUC and Cmax of MPA after concomitant administration were 75.2 
 Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p < 0.05).
 Therefore, mycophenolate mofetil is not recommended to be given with the combination of norfloxacin and metronidazole.
 There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
-The mean (± SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (± 24) mcg·h/mL and 42.7 (± 23) mcg·h/mL, respectively, compared with 56.2 (± 24) mcg·h/mL after administration of mycophenolate mofetil alone.
+The mean (± SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (± 24) mcg•h/mL and 42.7 (± 23) mcg•h/mL, respectively, compared with 56.2 (± 24) mcg•h/mL after administration of mycophenolate mofetil alone.
 
 ### Ciprofloxacin and Amoxicillin Plus Clavulanic Acid
 
 A total of 64 mycophenolate mofetil-treated renal transplant recipients received either oral ciprofloxacin 500 mg bid or amoxicillin plus clavulanic acid 375 mg tid for 7 or at least 14 days.
-Approximately 50% reductions in median trough MPA concentrations (predose) from baseline (mycophenolate mofetil alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
+Approximately 50% reductions in median trough MPA concentrations (pre-dose) from baseline (mycophenolate mofetil alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
 These reductions in trough MPA concentrations tended to diminish within 14 days of antibiotic therapy and ceased within 3 days after discontinuation of antibiotics.
 The postulated mechanism for this interaction is an antibiotic-induced reduction in glucuronidase-possessing enteric organisms leading to a decrease in enterohepatic recirculation of MPA.
 The change in trough level may not accurately represent changes in overall MPA exposure; therefore, clinical relevance of these observations is unclear.

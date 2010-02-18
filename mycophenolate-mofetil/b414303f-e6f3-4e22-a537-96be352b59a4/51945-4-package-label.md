@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANELS
 
-## 250 mg 100 Capsules Label Text
+## 250 mg Capsules Label Text - 100 count
 
 NDC 0093-7334-01
 
@@ -37,7 +37,7 @@ Sellersville, PA 18960 Iss.
 
 Lot: Exp:
 
-## 250 mg Capsules Box Text
+## 250 mg Capsules Box Text - 100 count
 
 NDC 0093-7334-93
 
@@ -61,7 +61,7 @@ Rx only
 
 TEVA
 
-## 500 mg 100 Tablets Label Text
+## 500 mg Tablets Label Text - 100 count
 
 NDC 0093-7477-01
 
