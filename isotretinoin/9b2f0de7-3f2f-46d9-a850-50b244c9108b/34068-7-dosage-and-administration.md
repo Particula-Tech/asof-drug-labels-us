@@ -3,7 +3,7 @@
 Accutane should be administered with a meal (see PRECAUTIONS: Information for Patients).
 
 The recommended dosage range for Accutane is 0.5 to 1.0 mg/kg/day given in two divided doses with food for 15 to 20 weeks.
-In studies comparing 0.1, 0.5, and 1.0 mg/kg/day,[8] it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
+In studies comparing 0.1, 0.5, and 1.0 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
 During treatment, the dose may be adjusted according to response of the disease and/or the appearance of clinical side effects — some of which may be dose related.
 Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2.0 mg/kg/day, as tolerated.
 Failure to take Accutane with food will significantly decrease absorption.

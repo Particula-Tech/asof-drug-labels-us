@@ -23,6 +23,12 @@ Concomitant treatment with tetracyclines should therefore be avoided.
 Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting, and visual disturbances.
 Patients with these symptoms should be screened for papilledema and, if present, they should be told to discontinue Accutane immediately and be referred to a neurologist for further diagnosis and care (see ADVERSE REACTIONS: Neurological).
 
+## Serious Skin Reactions
+
+There have been post-marketing reports of erythema multiforme and severe skin reactions [eg, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)] associated with isotretinoin use.
+These events may be serious and result in death, life-threatening events, hospitalization, or disability.
+Patients should be monitored closely for severe skin reactions, and discontinuation of Accutane should be considered if warranted.
+
 ## Pancreatitis
 
 Acute pancreatitis has been reported in patients with either elevated or normal serum triglyceride levels.
@@ -35,7 +41,7 @@ Elevations of serum triglycerides in excess of 800 mg/dL have been reported in p
 Marked elevations of serum triglycerides were reported in approximately 25% of patients receiving Accutane in clinical trials.
 In addition, approximately 15% developed a decrease in high-density lipoproteins and about 7% showed an increase in cholesterol levels.
 In clinical trials, the effects on triglycerides, HDL, and cholesterol were reversible upon cessation of Accutane therapy.
-Some patients have been able to reverse triglyceride elevation by reduction in weight, restriction of dietary fat and alcohol, and reduction in dose while continuing Accutane.[5]
+Some patients have been able to reverse triglyceride elevation by reduction in weight, restriction of dietary fat and alcohol, and reduction in dose while continuing Accutane.5
 
 Blood lipid determinations should be performed before Accutane is given and then at intervals until the lipid response to Accutane is established, which usually occurs within 4 weeks.
 Especially careful consideration must be given to risk/benefit for patients who may be at high risk during Accutane therapy (patients with diabetes, obesity, increased alcohol intake, lipid metabolism disorder or familial history of lipid metabolism disorder).
@@ -87,7 +93,7 @@ It is important that Accutane be given at the recommended doses for no longer th
 ### Hyperostosis
 
 A high prevalence of skeletal hyperostosis was noted in clinical trials for disorders of keratinization with a mean dose of 2.24 mg/kg/day.
-Additionally, skeletal hyperostosis was noted in 6 of 8 patients in a prospective study of disorders of keratinization.[6] Minimal skeletal hyperostosis and calcification of ligaments and tendons have also been observed by x-ray in prospective studies of nodular acne patients treated with a single course of therapy at recommended doses.
+Additionally, skeletal hyperostosis was noted in 6 of 8 patients in a prospective study of disorders of keratinization.6 Minimal skeletal hyperostosis and calcification of ligaments and tendons have also been observed by x-ray in prospective studies of nodular acne patients treated with a single course of therapy at recommended doses.
 The skeletal effects of multiple Accutane treatment courses for acne are unknown.
 
 In a clinical study of 217 pediatric patients (12 to 17 years) with severe recalcitrant nodular acne, hyperostosis was not observed after 16 to 20 weeks of treatment with approximately 1 mg/kg/day of Accutane given in two divided doses.
@@ -104,12 +110,12 @@ The effect of multiple courses of Accutane on epiphyseal closure is unknown.
 Visual problems should be carefully monitored.
 All Accutane patients experiencing visual difficulties should discontinue Accutane treatment and have an ophthalmological examination (see ADVERSE REACTIONS: Special Senses).
 
-### Corneal Opacities
+Corneal Opacities
 
 Corneal opacities have occurred in patients receiving Accutane for acne and more frequently when higher drug dosages were used in patients with disorders of keratinization.
 The corneal opacities that have been observed in clinical trial patients treated with Accutane have either completely resolved or were resolving at follow-up 6 to 7 weeks after discontinuation of the drug (see ADVERSE REACTIONS: Special Senses).
 
-### Decreased Night Vision
+Decreased Night Vision
 
 Decreased night vision has been reported during Accutane therapy and in some instances the event has persisted after therapy was discontinued.
 Because the onset in some patients was sudden, patients should be advised of this potential problem and warned to be cautious when driving or operating any vehicle at night.
@@ -122,7 +128,7 @@ Registered and activated pharmacies must receive Accutane only from wholesalers 
 
 iPLEDGE program requirements for wholesalers, prescribers, and pharmacists are described below:
 
-## Wholesalers:
+## Wholesalers
 
 For the purpose of the iPLEDGE program, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
 To distribute Accutane, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
@@ -137,9 +143,8 @@ These include:
 - Notifying the isotretinoin manufacturer (or delegate) of any non-registered and/or non-activated pharmacy or unregistered wholesaler that attempts to order isotretinoin
 - Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE program by the isotretinoin manufacturer (or delegate)
 - Returning to the manufacturer (or delegate) any undistributed product if registration is revoked by the manufacturer or if the wholesaler chooses to not re-register annually
-- Providing product flow data to manufacturer (or delegate) as detailed in the wholesalers agreement
 
-## Prescribers:
+## Prescribers
 
 To prescribe isotretinoin, the prescriber must be registered and activated with the pregnancy risk management program iPLEDGE.
 Prescribers can register by signing and returning the completed registration form.
@@ -230,7 +235,7 @@ In addition to the requirements for all patients described above, female patient
 - Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and 1 month after the last dose to answer questions on the program requirements and to enter the patient's two chosen forms of contraception
 - Must have been informed of the purpose and importance of providing information to the iPLEDGE program should she become pregnant while taking isotretinoin or within 1 month of the last dose
 
-## Pharmacists:
+## Pharmacists
 
 To dispense isotretinoin, pharmacies must be registered and activated with the pregnancy risk management program iPLEDGE.
 
@@ -280,7 +285,7 @@ The main goal of these educational materials is to explain the iPLEDGE program r
 - 6)The booklet for female patients not of childbearing potential and male patients, The iPLEDGE Program Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for 1 month following discontinuation of isotretinoin.
 - 7) The booklet for female patients of childbearing potential, The iPLEDGE Program Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects.
 - 8)The booklet, The iPLEDGE Program Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
-- 9)In addition, there is a patient educational DVD with the following videos —"Be Prepared, Be Protected" and "Be Aware: The Risk of Pregnancy While on Isotretinoin" (see Information for Patients).
+- 9)In addition, there is a patient educational DVD with the following videos — "Be Prepared, Be Protected" and "Be Aware: The Risk of Pregnancy While on Isotretinoin" (see Information for Patients).
 
 ## General
 
@@ -346,8 +351,10 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
   Consideration should be given to discontinuation of Accutane if any significant abnormality is found.
 - Neutropenia and rare cases of agranulocytosis have been reported.
   Accutane should be discontinued if clinically significant decreases in white cell counts occur.
+- Patients should be advised that severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported in post-marketing data.
+  Accutane should be discontinued if clinically significant skin reactions occur.
 
-### Hypersensitivity
+Hypersensitivity
 
 Anaphylactic reactions and other allergic reactions have been reported.
 Cutaneous allergic reactions and serious cases of allergic vasculitis, often with purpura (bruises and red patches) of the extremities and extracutaneous involvement (including renal) have been reported.
@@ -418,7 +425,7 @@ In general, there was microscopic evidence for appreciable depression of spermat
 In studies of 66 men, 30 of whom were patients with nodular acne under treatment with oral isotretinoin, no significant changes were noted in the count or motility of spermatozoa in the ejaculate.
 In a study of 50 men (ages 17 to 32 years) receiving Accutane (isotretinoin) therapy for nodular acne, no significant effects were seen on ejaculate volume, sperm count, total sperm motility, morphology or seminal plasma fructose.
 
-## Pregnancy: Category X.
+## Pregnancy: Category X
 
 See Boxed CONTRAINDICATIONS AND WARNINGS.
 
@@ -442,7 +449,7 @@ Sixteen (7.9%) patients had decreases in lumbar spine bone mineral density >4%, 
 Nine patients (4.5%) had a decrease in total hip bone mineral density >5% based on unadjusted data.
 Twenty-one (10.6%) patients had decreases in total hip bone mineral density >5%, and all the other patients (89%) did not have significant decreases or had increases (adjusted for body mass index).
 Follow-up studies performed in 8 of the patients with decreased bone mineral density for up to 11 months thereafter demonstrated increasing bone density in 5 patients at the lumbar spine, while the other 3 patients had lumbar spine bone density measurements below baseline values.
-Total hip bone mineral densities remained below baseline (range −1.6% to −7.6%) in 5 of 8 patients (62.5%).
+Total hip bone mineral densities remained below baseline (range –1.6% to –7.6%) in 5 of 8 patients (62.5%).
 
 In a separate open-label extension study of 10 patients, ages 13 to 18 years, who started a second course of Accutane 4 months after the first course, two patients showed a decrease in mean lumbar spine bone mineral density up to 3.25% (see WARNINGS: Skeletal: Bone Mineral Density).
 

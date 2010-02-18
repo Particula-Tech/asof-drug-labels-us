@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-ACCUTANE (ACK-U-TANE) (isotretinoin capsules)
+# MEDICATION GUIDE ACCUTANE (ACK-u-tane) (isotretinoin capsules)
 
 Read the Medication Guide that comes with Accutane before you start taking it and each time you get a prescription.
 There may be new information.
@@ -180,6 +178,10 @@ What are the possible side effects of Accutane?
   - nausea or vomiting
   - seizures (convulsions)
   - stroke
+- skin problems.
+  Skin rash can occur in patients taking Accutane.
+  In some patients a rash can be serious.
+  Stop using Accutane and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like "pink eye"), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
 - stomach area (abdomen) problems.
   Certain symptoms may mean that your internal organs are being damaged.
   These organs include the liver, pancreas, bowel (intestines), and esophagus (connection between mouth and stomach).
@@ -256,7 +258,7 @@ What are the ingredients in Accutane?
 Active Ingredient: Isotretinoin
 
 Inactive Ingredients: beeswax, butylated hydroxyanisole, edetate disodium, hydrogenated soybean oil flakes, hydrogenated vegetable oil, and soybean oil.
-Gelatin capsules contain glycerin and parabens (methyl and propyl), with the following dyesystems: 10 mg — iron oxide (red) and titanium dioxide; 20 mg — FD&C Red No. 3, FD&C Blue No. 1, and titanium dioxide; 40 mg — FD&C Yellow No. 6, D&C Yellow No. 10, and titanium dioxide.
+Gelatin capsules contain glycerin and parabens (methyl and propyl), with the following dye systems: 10 mg — iron oxide (red) and titanium dioxide; 20 mg — FD&C Red No. 3, FD&C Blue No. 1, and titanium dioxide; 40 mg — FD&C Yellow No. 6, D&C Yellow No. 10, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

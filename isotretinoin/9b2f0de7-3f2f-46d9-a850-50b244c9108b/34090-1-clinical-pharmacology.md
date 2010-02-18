@@ -6,7 +6,7 @@ The exact mechanism of action of isotretinoin is unknown.
 ## Nodular Acne
 
 Clinical improvement in nodular acne patients occurs in association with a reduction in sebum secretion.
-The decrease in sebum secretion is temporary and is related to the dose and duration of treatment with Accutane, and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.[1]
+The decrease in sebum secretion is temporary and is related to the dose and duration of treatment with Accutane, and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.1
 
 ## Pharmacokinetics
 
@@ -76,5 +76,5 @@ Table 3 Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple
 | T1/2 (hr) | – | 15.69 (5.12) |
 | CL/F (L/hr) | – | 17.96 (6.27) |
 
-In pediatric patients (12 to 15 years), the mean± SD elimination half-lives (t1/2) of isotretinoin and 4-oxo-isotretinoin were 15.7 ± 5.1 hours and 23.1 ± 5.7 hours, respectively.
+In pediatric patients (12 to 15 years), the mean ± SD elimination half-lives (t1/2) of isotretinoin and 4-oxo-isotretinoin were 15.7 ± 5.1 hours and 23.1 ± 5.7 hours, respectively.
 The accumulation ratios of isotretinoin ranged from 0.46 to 3.65 for pediatric patients.

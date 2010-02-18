@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018662"
+  ],
   "inn": "isotretinoin",
-  "labeler": "Roche Laboratories Inc.",
+  "labeler": "Hoffmann-La Roche Inc",
   "package_ndcs": [
     "0004-0155-49",
     "0004-0156-49",
     "0004-0169-49"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "isotretinoin",
+      "name": "Accutane"
+    }
+  ],
   "setid": "9b2f0de7-3f2f-46d9-a850-50b244c9108b",
   "source": "dailymed"
 }
