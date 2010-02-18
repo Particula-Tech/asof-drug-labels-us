@@ -248,7 +248,7 @@ TABLE 6
 | Incidence of Sexual Adverse Events in Controlled Clinical Trials |  |  |
 | --- | --- | --- |
 |  | Paroxetine | Placebo |
-| n (males) | 1146 | 1042 |
+| n (males) | 1446 | 1042 |
 | Decreased Libido | 6% - 15% | 0% - 5% |
 | Ejaculatory Disturbance | 13% - 28% | 0% - 2% |
 | Impotence | 2% - 9% | 0% - 3% |
