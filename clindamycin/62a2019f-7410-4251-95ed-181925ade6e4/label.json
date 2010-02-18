@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA064159",
+    "ANDA064160",
+    "ANDA065067"
+  ],
   "inn": "clindamycin",
-  "labeler": "E. FOUGERA and CO.",
+  "labeler": "E. FOUGERA & CO., A division of Nycomed US Inc.",
   "package_ndcs": [
     "0168-0201-30",
     "0168-0201-60",
@@ -9,7 +13,23 @@
     "0168-0202-60",
     "0168-0203-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate",
+      "name": "clindamycin phosphate"
+    },
+    {
+      "form": "LOTION",
+      "generic": "clindamycin phosphate",
+      "name": "clindamycin phosphate"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "clindamycin phosphate",
+      "name": "clindamycin phosphate"
+    }
+  ],
   "setid": "62a2019f-7410-4251-95ed-181925ade6e4",
   "source": "dailymed"
 }
