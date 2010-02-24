@@ -2,7 +2,7 @@
 
 AUGMENTIN ES-600, 600 mg/5 mL, does not contain the same amount of clavulanic acid (as the potassium salt) as any of the other suspensions of AUGMENTIN.
 AUGMENTIN ES-600 contains 42.9 mg of clavulanic acid per 5 mL, whereas the 200 mg/5 mL suspension of AUGMENTIN contains 28.5 mg of clavulanic acid per 5 mL and the 400 mg/5 mL suspension contains 57 mg of clavulanic acid per 5 mL.
-Therefore, the 200 mg/5 mL and 400 mg/5 mL suspensionsof AUGMENTIN should not be substituted for AUGMENTIN ES-600, as they are not interchangeable.
+Therefore, the 200 mg/5 mL and 400 mg/5 mL suspensions of AUGMENTIN should not be substituted for AUGMENTIN ES-600, as they are not interchangeable.
 
 ## Dosage
 
