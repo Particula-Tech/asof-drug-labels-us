@@ -18,7 +18,7 @@ Mirtazapine is a moderate antagonist at muscarinic receptors, a property that ma
 
 ## Pharmacokinetics
 
-REMERON® (mirtazapine) Tablets are rapidly and completely absorbed following oral administration and have a half-life of about 20–40 hours.
+REMERON (mirtazapine) Tablets are rapidly and completely absorbed following oral administration and have a half-life of about 20 to 40 hours.
 Peak plasma concentrations are reached within about 2 hours following an oral dose.
 The presence of food in the stomach has a minimal effect on both the rate and extent of absorption and does not require a dosage adjustment.
 
@@ -28,59 +28,59 @@ In vitro data from human liver microsomes indicate that cytochrome 2D6 and 1A2 a
 Mirtazapine has an absolute bioavailability of about 50%.
 It is eliminated predominantly via urine (75%) with 15% in feces.
 Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels.
-The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about three times as high as that of the (+) enantiomer.
+The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer.
 
-Plasma levels are linearly related to dose over a dose range of 15–80 mg.
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20–40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males).
+Plasma levels are linearly related to dose over a dose range of 15 to 80 mg.
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs 26 hours for males).
 Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio = 1.5).
 
-Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 - 10 μg/mL.
+Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.
 
-## Special Populations
+### Special Populations
 
-### Geriatric
+#### Geriatric
 
-Following oral administration of REMERON® (mirtazapine) Tablets 20 mg/day for 7 days to subjects of varying ages (range, 25–74), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
+Following oral administration of REMERON (mirtazapine) Tablets 20 mg/day for 7 days to subjects of varying ages (range, 25–74), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
 The differences were most striking in males, with a 40% lower clearance in elderly males compared to younger males, while the clearance in elderly females was only 10% lower compared to younger females.
-Caution is indicated in administering REMERON® to elderly patients (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Caution is indicated in administering REMERON to elderly patients (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-### Pediatrics
+#### Pediatrics
 
 Safety and effectiveness of mirtazapine in the pediatric population have not been established (see PRECAUTIONS).
 
-### Gender
+#### Gender
 
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20–40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males) (see Pharmacokinetics).
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs 26 hours for males) (see Pharmacokinetics).
 
-### Race
+#### Race
 
-There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of REMERON®.
+There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of REMERON.
 
-### Renal Insufficiency
+#### Renal Insufficiency
 
 The disposition of mirtazapine was studied in patients with varying degrees of renal function.
 Elimination of mirtazapine is correlated with creatinine clearance.
-Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11–39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr = < 10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
-Caution is indicated in administering REMERON® to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11–39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr = <10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
+Caution is indicated in administering REMERON to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-### Hepatic Insufficiency
+#### Hepatic Insufficiency
 
-Following a single 15 mg oral dose of REMERON®, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
-Caution is indicated in administering REMERON® to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Following a single 15-mg oral dose of REMERON, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
+Caution is indicated in administering REMERON to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ## Clinical Trials Showing Effectiveness
 
-The efficacy of REMERON® (mirtazapine) Tablets as a treatment for major depressive disorder was established in four placebo-controlled, 6-week trials in adult outpatients meeting DSM-III criteria for major depressive disorder.
+The efficacy of REMERON (mirtazapine) Tablets as a treatment for major depressive disorder was established in 4 placebo-controlled, 6-week trials in adult outpatients meeting DSM-III criteria for major depressive disorder.
 Patients were titrated with mirtazapine from a dose range of 5 mg up to 35 mg/day.
-Overall, these studies demonstrated mirtazapine to be superior to placebo on at least three of the following four measures: 21-Item Hamilton Depression Rating Scale (HDRS) total score; HDRS Depressed Mood Item; CGI Severity score; and Montgomery and Asberg Depression Rating Scale (MADRS).
+Overall, these studies demonstrated mirtazapine to be superior to placebo on at least 3 of the following 4 measures: 21-Item Hamilton Depression Rating Scale (HDRS) total score; HDRS Depressed Mood Item; CGI Severity score; and Montgomery and Asberg Depression Rating Scale (MADRS).
 Superiority of mirtazapine over placebo was also found for certain factors of the HDRS, including anxiety/somatization factor and sleep disturbance factor.
-The mean mirtazapine dose for patients who completed these four studies ranged from 21–32 mg/day.
+The mean mirtazapine dose for patients who completed these 4 studies ranged from 21 to 32 mg/day.
 A fifth study of similar design utilized a higher dose (up to 50 mg) per day and also showed effectiveness.
 
 Examination of age and gender subsets of the population did not reveal any differential responsiveness on the basis of these subgroupings.
 
-In a longer-term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8–12 weeks of acute treatment on REMERON® were randomized to continuation of REMERON® or placebo for up to 40 weeks of observation for relapse.
-Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤ 8 and a CGI-Improvement score of 1 or 2 at two consecutive visits beginning with week 6 of the 8–12 weeks in the open-label phase of the study.
+In a longer-term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8 to 12 weeks of acute treatment on REMERON were randomized to continuation of REMERON or placebo for up to 40 weeks of observation for relapse.
+Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤8 and a CGI-Improvement score of 1 or 2 at 2 consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study.
 Relapse during the double-blind phase was determined by the individual investigators.
-Patients receiving continued REMERON® treatment experienced significantly lower relapse rates over the subsequent 40 weeks compared to those receiving placebo.
+Patients receiving continued REMERON treatment experienced significantly lower relapse rates over the subsequent 40 weeks compared to those receiving placebo.
 This pattern was demonstrated in both male and female patients.

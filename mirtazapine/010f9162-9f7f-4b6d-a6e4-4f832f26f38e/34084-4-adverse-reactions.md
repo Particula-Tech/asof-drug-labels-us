@@ -2,12 +2,12 @@
 
 ## Associated with Discontinuation of Treatment
 
-Approximately 16 percent of the 453 patients who received REMERON® (mirtazapine) Tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of the 361 placebo-treated patients in those studies.
-The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
+Approximately 16% of the 453 patients who received REMERON® (mirtazapine) Tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
+The most common events (≥1%) associated with discontinuation and considered to be drug related (ie, those events associated with dropout at a rate at least twice that of placebo) included:
 
-Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US REMERON® Trials
+Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US REMERON Trials
 
-| REMERON® (n=453) | Placebo (n=361) |  |
+| REMERON (n=453) | Placebo (n=361) |  |
 | --- | --- | --- |
 | Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
 | Somnolence | 10.4% | 2.2% |
@@ -15,11 +15,11 @@ Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US 
 
 ## Commonly Observed Adverse Events in US Controlled Clinical Trials
 
-The most commonly observed adverse events associated with the use of REMERON® (mirtazapine) Tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (REMERON® incidence at least twice that for placebo) were:
+The most commonly observed adverse events associated with the use of REMERON (mirtazapine) Tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (REMERON incidence at least twice that for placebo) were:
 
-Common Treatment-Emergent Adverse Events Associated with the Use of REMERON® in 6-Week US Trials
+Common Treatment-Emergent Adverse Events Associated with the Use of REMERON in 6-Week US Trials
 
-| REMERON® (n=453) | Placebo (n=361) |  |
+| REMERON (n=453) | Placebo (n=361) |  |
 | --- | --- | --- |
 | Adverse Event | Percentage of Patients Reporting Adverse Event |  |
 | Somnolence | 54% | 18% |
@@ -27,19 +27,20 @@ Common Treatment-Emergent Adverse Events Associated with the Use of REMERON® in
 | Weight Gain | 12% | 2% |
 | Dizziness | 7% | 3% |
 
-## Adverse Events Occurring at an Incidence of 1% or More Among REMERON®-Treated Patients
+## Adverse Events Occurring at an Incidence of 1% or More Among REMERON-Treated Patients
 
-The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among REMERON® (mirtazapine) Tablets-treated patients who participated in short-term US placebo-controlled trials in which patients were dosed in a range of 5 - 60 mg/day.
-This table shows the percentage of patients in each group who had at least one episode of an event at some time during their treatment.
+The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among REMERON (mirtazapine) Tablets-treated patients who participated in short-term US placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
+This table shows the percentage of patients in each group who had at least 1 episode of an event at some time during their treatment.
 Reported adverse events were classified using a standard COSTART-based dictionary terminology.
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence rate in the population studied.
+Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses, and investigators.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patients treated with REMERON® are included, except the following events which had an incidence on placebo ≥ REMERON®: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.(≥ 1%) IN SHORT-TERM US CONTROLLED STUDIES
+INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patients treated with REMERON are included, except the following events which had an incidence on placebo greater than or equal to REMERON: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
+(≥1%) IN SHORT-TERM US CONTROLLED STUDIES
 
-| Body System Adverse Clinical Experience | REMERON® (n=453) | Placebo (n=361) |
+| Body System Adverse Clinical Experience | REMERON (n=453) | Placebo (n=361) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 8% | 5% |
@@ -69,25 +70,25 @@ INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patie
 
 ## ECG Changes
 
-The electrocardiograms for 338 patients who received REMERON® (mirtazapine) Tablets and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
-Prolongation in QTc ≥ 500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
+The electrocardiograms for 338 patients who received REMERON (mirtazapine) Tablets and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
+Prolongation in QTc ≥500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
 Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
 The clinical significance of these changes is unknown.
 
-## Other Adverse Events Observed During the Premarketing Evaluation of REMERON®
+## Other Adverse Events Observed During the Premarketing Evaluation of REMERON
 
-During its premarketing assessment, multiple doses of REMERON® (mirtazapine) Tablets were administered to 2796 patients in clinical studies.
-The conditions and duration of exposure to mirtazapine varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed dose and titration studies.
+During its premarketing assessment, multiple doses of REMERON (mirtazapine) Tablets were administered to 2796 patients in clinical studies.
+The conditions and duration of exposure to mirtazapine varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed-dose and titration studies.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 
 In the tabulations that follow, reported adverse events were classified using a standard COSTART-based dictionary terminology.
-The frequencies presented, therefore, represent the proportion of the 2796 patients exposed to multiple doses of REMERON® who experienced an event of the type cited on at least one occasion while receiving REMERON®.
+The frequencies presented, therefore, represent the proportion of the 2796 patients exposed to multiple doses of REMERON who experienced an event of the type cited on at least 1 occasion while receiving REMERON.
 All reported events are included except those already listed in the previous table, those adverse experiences subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, and those events for which a drug cause was very remote.
 
-It is important to emphasize that, although the events reported occurred during treatment with REMERON®, they were not necessarily caused by it.
+It is important to emphasize that, although the events reported occurred during treatment with REMERON, they were not necessarily caused by it.
 
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
+Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on 1 or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 Only those events not already listed in the previous table appear in this listing.
 Events of major clinical importance are also described in the WARNINGS and PRECAUTIONS sections.
 
@@ -103,7 +104,7 @@ Hemic and Lymphatic System: rare: lymphadenopathy, leukopenia, petechia, anemia,
 
 Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus.
 
-Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthosis, bursitis.
+Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
 
 Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia, stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome.
 
@@ -115,8 +116,8 @@ Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivit
 
 Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
 
-## Other Adverse Events Observed During Postmarketing Evaluation of REMERON®
+## Other Adverse Events Observed During Postmarketing Evaluation of REMERON
 
-Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include four cases of the ventricular arrhythmia torsades de pointes.
-In three of the four cases, however, concomitant drugs were implicated.
+Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
+In 3 of the 4 cases, however, concomitant drugs were implicated.
 All patients recovered.

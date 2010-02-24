@@ -8,5 +8,5 @@ The structural formula is the following and it is the racemic mixture:
 
 Mirtazapine is a white to creamy white crystalline powder which is slightly soluble in water.
 
-REMERON® is supplied for oral administration as scored film-coated tablets containing 15 or 30 mg of mirtazapine, and unscored film-coated tablets containing 45 mg of mirtazapine.
+REMERON is supplied for oral administration as scored film-coated tablets containing 15 or 30 mg of mirtazapine, and unscored film-coated tablets containing 45 mg of mirtazapine.
 Each tablet also contains corn starch, hydroxypropyl cellulose, magnesium stearate, colloidal silicon dioxide, lactose, and other inactive ingredients.

@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020415"
+  ],
   "inn": "mirtazapine",
-  "labeler": "Organon USA, Inc.",
+  "labeler": "Organon Pharmaceuticals USA",
   "package_ndcs": [
     "0052-0105-30",
     "0052-0107-30",
     "0052-0109-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "mirtazapine",
+      "name": "REMERON"
+    }
+  ],
   "setid": "010f9162-9f7f-4b6d-a6e4-4f832f26f38e",
   "source": "dailymed"
 }
