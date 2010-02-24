@@ -1,13 +1,22 @@
 {
-  "application_numbers": [],
-  "inn": "chlorhexidine",
-  "labeler": "3M",
-  "package_ndcs": [
-    "48878-620-12",
-    "48878-620-22",
-    "48878-620-32"
+  "application_numbers": [
+    "NDA019028"
   ],
-  "products": [],
+  "inn": "chlorhexidine",
+  "labeler": "3M ESPE Dental Products",
+  "package_ndcs": [
+    "48878-0620-1",
+    "48878-0620-2",
+    "48878-0620-3",
+    "48878-0620-4"
+  ],
+  "products": [
+    {
+      "form": "MOUTHWASH",
+      "generic": "chlorhexidine gluconate",
+      "name": "Peridex"
+    }
+  ],
   "setid": "3fcd41c4-875a-4e54-b533-261f198011af",
   "source": "dailymed"
 }

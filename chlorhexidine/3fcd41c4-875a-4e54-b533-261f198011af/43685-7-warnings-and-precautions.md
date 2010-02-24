@@ -25,15 +25,12 @@ SEE CONTRAINDICATIONS.
 3. Some patients may experience an alteration in taste perception while undergoing treatment with Peridex.
    Rare instances of permanent taste alteration following Peridex use have been reported via post-marketing product surveillance.
 
-## PREGNANCY
-
-TERATOGENIC EFFECTS Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300mg/kg/day and 40mg/kg/day, respectively, and have not revealed evidence of harm to fetus.
+PREGNANCY: TERATOGENIC EFFECTS Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300mg/kg/day and 40mg/kg/day, respectively, and have not revealed evidence of harm to fetus.
 However, adequate and well-controlled studies in pregnant women have not been done.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 NURSING MOTHERS: It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Peridex is administered to nursing women.
-
 In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person's ingesting 30ml (2 capfuls) of Peridex per day.
 
 PEDIATRIC USE: Clinical effectiveness and safety of Peridex have not been established in children under the age of 18.

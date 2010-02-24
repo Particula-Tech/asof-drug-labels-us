@@ -7,7 +7,9 @@ Microbiological sampling of plaque has shown a general reduction of counts of ce
 Use of Peridex oral rinse in a six month clinical study did not result in any significant changes in bacteria resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem.
 Three months after Peridex use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline.
 
-PHARMACOKINETICS: Pharmacokinetic studies with Peridex indicate approximately 30% of the active ingredient, chlorhexidine gluconate, is retained in the oral cavity following rinsing.
+## PHARMACOKINETICS
+
+Pharmacokinetic studies with Peridex indicate approximately 30% of the active ingredient, chlorhexidine gluconate, is retained in the oral cavity following rinsing.
 This retained drug is slowly released into the oral fluids.
 Studies conducted on human subjects and animals demonstrate chlorhexidine gluconate is poorly absorbed from the gastrointestinal tract.
 The mean plasma level of chlorhexidine gluconate reached a peak of 0.206μg/g in humans 30 minutes after they ingested a 300-mg dose of the drug.
