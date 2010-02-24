@@ -80,9 +80,9 @@ The mean duration of epilepsy was 25 years in these 3 studies and the mean and m
 Approximately half of the patients were taking 2 concurrent AEDs at baseline.
 Among the LYRICA-treated patients, 80% completed the double-blind phase of the studies.
 
-Table 7 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
+Table 8 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
 
-Table 7: Seizure Response in Controlled, Add-On Epilepsy Studies
+Table 8: Seizure Response in Controlled, Add-On Epilepsy Studies
 
 | Daily Dose of Pregabalin | Dosing Regimen | N | Baseline Seizure Frequency/mo | Median % Change from Baseline | p-value, vs. placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Responders to placebo in an initial one-week run-in phase were not randomized in
 A total of 64% of patients randomized to LYRICA completed the study.
 There was no evidence of a greater effect on pain scores of the 600 mg daily dose than the 450 mg daily dose, but there was evidence of dose-dependent adverse reactions [see Adverse Reactions (6.1)].
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
-The results are summarized in Figure 8 and Table 8.
+The results are summarized in Figure 8 and Table 9.
 
 For various degrees of improvement in pain from baseline to study endpoint, Figure 8 shows the fraction of patients achieving that degree of improvement.
 The figure is cumulative.
@@ -141,7 +141,7 @@ Some patients experienced a decrease in pain as early as Week 1, which persisted
 
 Figure 8: Patients Achieving Various Levels of Pain Relief – Fibromyalgia Study F1
 
-Table 8: Patient Global Response in Fibromyalgia Study F1
+Table 9: Patient Global Response in Fibromyalgia Study F1
 
 | Placebo | 47.6 | (40.0,55.2) |
 | --- | --- | --- |
@@ -166,3 +166,9 @@ Fifty-three percent of the pregabalin-treated subjects compared to 33% of placeb
 Treatment with LYRICA also resulted in a longer time to loss of response based on the FIQTime to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score., and longer time to loss of overall assessment of patient status, as measured by the PGICTime to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than "much improvement.".
 
 Figure 9: Time to Loss of Therapeutic Response, Fibromyalgia Study F2 (Kaplan-Meier Analysis)
+
+## 14.5 Adjunctive Treatment of Generalized Anxiety Disorder
+
+The efficacy of LYRICA as an adjunctive therapy in the treatment of GAD was established in a placebo-controlled flexible-dose study in adults who did not optimally respond to an existing GAD therapy.
+Enrollment into the double-blind adjunctive treatment phase with pregabalin in doses of 150–600 mg/day BID, was limited to patients who (historically) had failed to respond to a course of therapy with standard GAD treatment including SSRIs, SNRIs or benzodiazepines, and then subsequently had shown only a partial response after 8 weeks of prospective, open-label treatment with either escitalopram (10–20 mg/day), paroxetine (20–40 mg/day), or venlafaxine-XR (75–225 mg/day).
+Patients treated with LYRICA showed a significant improvement in HAM-A total score compared to placebo when added to background SSRI or SNRI therapy.

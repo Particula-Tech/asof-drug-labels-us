@@ -13,3 +13,6 @@ The capsule shells contain gelatin and titanium dioxide.
 In addition, the orange capsule shells contain red iron oxide and the white capsule shells contain sodium lauryl sulfate and colloidal silicon dioxide.
 Colloidal silicon dioxide is a manufacturing aid that may or may not be present in the capsule shells.
 The imprinting ink contains shellac, black iron oxide, propylene glycol, and potassium hydroxide.
+
+LYRICA (pregabalin) oral solution, 20 mg/mL, is administered orally and is supplied as a clear, colorless solution contained in a 16 fluid ounce white HDPE bottle with a polyethylene-lined closure.
+The oral solution contains 20 mg/mL of pregabalin, along with methylparaben, propylparaben, monobasic sodium phosphate anhydrous, dibasic sodium phosphate anhydrous, sucralose, artificial strawberry #11545 and purified water as inactive ingredients.

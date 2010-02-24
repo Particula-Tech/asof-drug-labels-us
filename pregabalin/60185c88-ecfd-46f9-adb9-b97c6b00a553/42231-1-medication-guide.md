@@ -1,4 +1,4 @@
-MEDICATION GUIDE LYRICA (LEER-i-kah) (pregabalin) Capsules CV
+MEDICATION GUIDE LYRICA (LEER-i-kah) (pregabalin) Capsules and Oral Solution, CV
 
 Read this Medication Guide before you start taking LYRICA and each time you get a refill.
 There may be new information.
@@ -9,7 +9,7 @@ What is the most important information I should know about LYRICA?
 
 1. 1.LYRICA may cause serious, even life-threatening, allergic reactions.
    - Stop taking LYRICA and call your healthcare provider right away if you have any of these signs of a serious allergic reaction:
-     - swelling of your face, mouth, lips, gums, tongue or neck
+     - swelling of your face, mouth, lips, gums, tongue, throat or neck
      - trouble breathing
      - rash, hives (raised bumps) or blisters
 
@@ -50,6 +50,7 @@ LYRICA is a prescription medicine used in adults, 18 years and older, to treat:
 - pain from damaged nerves (neuropathic pain) that follows healing of shingles
 - partial seizures when taken together with other seizure medicines
 - fibromyalgia (pain all over your body)
+- generalized anxiety disorder when taken together with other anti-anxiety medicines
 
 LYRICA has not been studied in children under 18 years of age.
 
@@ -163,8 +164,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store LYRICA?
 
-- Store LYRICA at room temperature, 59°F to 86°F (15°C to 30°C) in its original package.
-- Safely throw away LYRICA that is out of date or no longer needed.
+- Store LYRICA capsules and oral solution at room temperature, 59°F to 86°F (15°C to 30°C) in its original package.
+- LYRICA Oral Solution must be used within 45 days of first opening the bottle.
+- Safely throw away any LYRICA that is out of date or no longer needed.
 - Keep LYRICA and all medicines out of the reach of children.
 
 General information about LYRICA
@@ -184,23 +186,21 @@ What are the ingredients In LYRICA?
 
 Active ingredient: pregabalin
 
-Inactive ingredients: lactose monohydrate, cornstarch, talc
+Inactive ingredients:
+
+LYRICA capsules: lactose monohydrate, cornstarch, talc
 
 Capsule shell: gelatin and titanium dioxide; Orange capsule shell: red iron oxide; White capsule shell: sodium lauryl sulfate, colloidal silicon dioxide.
 Colloidal silicon dioxide is a manufacturing aid that may or may not be present in the capsule shells.
 
 Imprinting ink: shellac, black iron oxide, propylene glycol, potassium hydroxide.
 
+LYRICA oral solution: methylparaben, propylparaben, monobasic sodium phosphate anhydrous, dibasic sodium phosphate anhydrous, sucralose, artificial strawberry #11545 and purified water.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Pfizer Pharmaceuticals LLC
+Capsules manufactured by: Pfizer Pharmaceuticals LLC Vega Baja, PR 00694
 
-Vega Baja, PR 00694
+Oral Solution manufactured by: Pfizer Inc. Kalamazoo, MI 49001
 
-Avandia is a registered trademark of GlaxoSmithKline.
-
-Avandamet is a registered trademark of GlaxoSmithKline.
-
-Actos is a registered trademark of Takeda Chemicals Industries, Ltd. and used under license by Takeda Pharmaceuticals of America, Inc. and Eli Lilly and Co.
-
-LAB-0299-6.0 April 2009
+LAB-0299-7.1 December 2009

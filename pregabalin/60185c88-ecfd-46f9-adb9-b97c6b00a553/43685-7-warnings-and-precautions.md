@@ -5,26 +5,26 @@
 There have been postmarketing reports of angioedema in patients during initial and chronic treatment with LYRICA.
 Specific symptoms included swelling of the face, mouth (tongue, lips, and gums), and neck (throat and larynx).
 There were reports of life-threatening angioedema with respiratory compromise requiring emergency treatment.
-LYRICA should be discontinued immediately in patients with these symptoms.
+Discontinue LYRICA immediately in patients with these symptoms.
 
-Caution should be exercised when prescribing LYRICA to patients who have had a previous episode of angioedema.
+Exercise caution when prescribing LYRICA to patients who have had a previous episode of angioedema.
 In addition, patients who are taking other drugs associated with angioedema (e.g., angiotensin converting enzyme inhibitors [ACE-inhibitors]) may be at increased risk of developing angioedema.
 
 ## 5.2 Hypersensitivity
 
 There have been postmarketing reports of hypersensitivity in patients shortly after initiation of treatment with LYRICA.
 Adverse reactions included skin redness, blisters, hives, rash, dyspnea, and wheezing.
-LYRICA should be discontinued immediately in patients with these symptoms.
+Discontinue LYRICA immediately in patients with these symptoms.
 
 ## 5.3 Withdrawal of Antiepileptic Drugs (AEDs)
 
-As with all AEDs, LYRICA should be withdrawn gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
-If LYRICA is discontinued this should be done gradually over a minimum of 1 week.
+As with all AEDs, withdraw LYRICA gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
+If LYRICA is discontinued, taper the drug gradually over a minimum of 1 week.
 
 ## 5.4 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including LYRICA, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
-Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+Monitor patients treated with any AED for any indication for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
@@ -54,8 +54,8 @@ Anyone considering prescribing LYRICA or any other AED must balance the risk of 
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
+Inform patients, their caregivers, and families that LYRICA and other AEDs increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Report behaviors of concern immediately to healthcare providers.
 
 ## 5.5 Peripheral Edema
 
@@ -71,14 +71,14 @@ The majority of patients using thiazolidinedione antidiabetic agents in the over
 In this population, peripheral edema was reported in 3% (2/60) of patients who were using thiazolidinedione antidiabetic agents only, 8% (69/859) of patients who were treated with LYRICA only, and 19% (23/120) of patients who were on both LYRICA and thiazolidinedione antidiabetic agents.
 Similarly, weight gain was reported in 0% (0/60) of patients on thiazolidinediones only; 4% (35/859) of patients on LYRICA only; and 7.5% (9/120) of patients on both drugs.
 
-As the thiazolidinedione class of antidiabetic drugs can cause weight gain and/or fluid retention, possibly exacerbating or leading to heart failure, care should be taken when co-administering LYRICA and these agents.
+As the thiazolidinedione class of antidiabetic drugs can cause weight gain and/or fluid retention, possibly exacerbating or leading to heart failure, exercise caution when co-administering LYRICA and these agents.
 
-Because there are limited data on congestive heart failure patients with New York Heart Association (NYHA) Class III or IV cardiac status, LYRICA should be used with caution in these patients.
+Because there are limited data on congestive heart failure patients with New York Heart Association (NYHA) Class III or IV cardiac status, exercise caution when using LYRICA in these patients.
 
 ## 5.6 Dizziness and Somnolence
 
 LYRICA may cause dizziness and somnolence.
-Patients should be informed that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17.5)].
+Inform patients that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17.5)].
 
 In the LYRICA controlled trials, dizziness was experienced by 31% of LYRICA-treated patients compared to 9% of placebo-treated patients; somnolence was experienced by 22% of LYRICA-treated patients compared to 7% of placebo-treated patients.
 Dizziness and somnolence generally began shortly after the initiation of LYRICA therapy and occurred more frequently at higher doses.
@@ -103,7 +103,7 @@ While the effects of LYRICA-associated weight gain on glycemic control have not 
 ## 5.8 Abrupt or Rapid Discontinuation
 
 Following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache, and diarrhea.
-LYRICA should be tapered gradually over a minimum of 1 week rather than discontinued abruptly.
+Taper LYRICA gradually over a minimum of 1 week rather than discontinuing the drug abruptly.
 
 ## 5.9 Tumorigenic Potential
 
@@ -124,9 +124,9 @@ In these patients, visual acuity was reduced in 7% of patients treated with LYRI
 Visual field changes were detected in 13% of LYRICA-treated, and 12% of placebo-treated patients.
 Funduscopic changes were observed in 2% of LYRICA-treated and 2% of placebo-treated patients.
 
-Although the clinical significance of the ophthalmologic findings is unknown, patients should be informed that if changes in vision occur, they should notify their physician.
-If visual disturbance persists, further assessment should be considered.
-More frequent assessment should be considered for patients who are already routinely monitored for ocular conditions [see Patient Counseling Information (17.8)].
+Although the clinical significance of the ophthalmologic findings is unknown, inform patients to notify their physician if changes in vision occur.
+If visual disturbance persists, consider further assessment.
+Consider more frequent assessment for patients who are already routinely monitored for ocular conditions [see Patient Counseling Information (17.8)].
 
 ## 5.11 Creatine Kinase Elevations
 
@@ -135,8 +135,8 @@ Mean changes in creatine kinase from baseline to the maximum value were 60 U/L f
 In all controlled trials across multiple patient populations, 1.5% of patients on LYRICA and 0.7% of placebo patients had a value of creatine kinase at least three times the upper limit of normal.
 Three LYRICA treated subjects had events reported as rhabdomyolysis in premarketing clinical trials.
 The relationship between these myopathy events and LYRICA is not completely understood because the cases had documented factors that may have caused or contributed to these events.
-Prescribers should instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if these muscle symptoms are accompanied by malaise or fever.
-LYRICA treatment should be discontinued if myopathy is diagnosed or suspected or if markedly elevated creatine kinase levels occur.
+Instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if these muscle symptoms are accompanied by malaise or fever.
+Discontinue treatment with LYRICA if myopathy is diagnosed or suspected or if markedly elevated creatine kinase levels occur.
 
 ## 5.12 Decreased Platelet Count
 

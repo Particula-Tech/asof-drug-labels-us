@@ -18,7 +18,7 @@ When offspring were tested as adults, neurobehavioral abnormalities (decreased a
 The no-effect dose for pre- and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
 
 There are no adequate and well-controlled studies in pregnant women.
-LYRICA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Use LYRICA during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 To provide information regarding the effects of in utero exposure to LYRICA, physicians are advised to recommend that pregnant patients taking LYRICA enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
@@ -32,7 +32,7 @@ In the prenatal-postnatal study in rats, pregabalin prolonged gestation and indu
 ## 8.3 Nursing Mothers
 
 It is not known if pregabalin is excreted in human milk; it is, however, present in the milk of rats.
-Because many drugs are excreted in human milk, and because of the potential for tumorigenicity shown for pregabalin in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk, and because of the potential for tumorigenicity shown for pregabalin in animal studies, decide whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -56,5 +56,7 @@ No overall differences in safety and efficacy were observed between these patien
 In controlled clinical studies of LYRICA in fibromyalgia, 106 patients were 65 years of age or older.
 Although the adverse reaction profile was similar between the two age groups, the following neurological adverse reactions were more frequent in patients 65 years of age or older: dizziness, vision blurred, balance disorder, tremor, confusional state, coordination abnormal, and lethargy.
 
+In controlled clinical studies of LYRICA in GAD trials, the number of elderly patients was insufficient to adequately assess for possible differential efficacy and safety measures on the basis of age.
+
 LYRICA is known to be substantially excreted by the kidney, and the risk of toxic reactions to LYRICA may be greater in patients with impaired renal function.
-Because LYRICA is eliminated primarily by renal excretion, the dose should be adjusted for elderly patients with renal impairment [see Dosage and Administration (2.5)].
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose for elderly patients with renal impairment [see Dosage and Administration (2.6)].

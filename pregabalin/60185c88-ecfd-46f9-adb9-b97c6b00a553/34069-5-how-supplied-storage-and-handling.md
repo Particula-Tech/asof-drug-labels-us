@@ -60,8 +60,13 @@ White/orange hard gelatin capsule printed with black ink "Pfizer" on the cap, "P
 | Bottles of 90: | NDC 0071-1018-68 |
 | --- | --- |
 
-Storage
+20 mg/mL oral solution:
+
+16 fluid ounce white high density polyethylene (HDPE) bottle with a polyethylene-lined closure.
+
+Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
+For the oral solution, use within 45 days of first opening the bottle.
 
 See FDA-Approved Medication Guide
