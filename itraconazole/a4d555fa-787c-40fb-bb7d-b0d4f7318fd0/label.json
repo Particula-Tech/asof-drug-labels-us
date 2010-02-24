@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020083"
+  ],
   "inn": "itraconazole",
-  "labeler": "JANSSEN PHARMACEUTICA PRODUCTS, L.P.",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals Inc.",
   "package_ndcs": [
     "50458-290-01",
     "50458-290-04",
     "50458-290-28"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "itraconazole",
+      "name": "SPORANOX"
+    }
+  ],
   "setid": "a4d555fa-787c-40fb-bb7d-b0d4f7318fd0",
   "source": "dailymed"
 }

@@ -8,26 +8,11 @@ Protect from light and moisture.
 
 Keep out of reach of children.
 
-© Janssen 2001
+© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2001 U.S. Patent Nos. 4,267,179; 5,633,015 Revised November 2009
 
-U.S. Patent Nos. 4,267,179; 5,633,015
+Capsule contents manufactured by: Janssen Pharmaceutica N.V.
+Olen, Belgium
 
-Issued October 2007
+Manufactured by: JOLLC, Gurabo, Puerto Rico 00778
 
-Distributed by:
-
-JANSSEN PHARMACEUTICA PRODUCTS, L.P.
-
-Titusville, New Jersey 08560, USA
-
-Capsule contents manufactured by:
-
-JANSSEN PHARMACEUTICA N.V.
-
-Beerse, Belgium
-
-JANSSEN
-
-PHARMACEUTICA
-
-PRODUCTS, L.P.
+Manufactured for: PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869

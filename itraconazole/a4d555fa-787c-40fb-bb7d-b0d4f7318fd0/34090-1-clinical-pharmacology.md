@@ -17,21 +17,23 @@ The respective pharmacokinetic parameters for itraconazole are presented in the 
 
 |  | 50 mg (fed) | 100 mg (fed) | 100 mg (fasted) | 200 mg (fed) |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 45 ± 16mean± standard deviation | 132 ± 67 | 38 ± 20 | 289 ± 100 |
+| Cmax (ng/mL) | 45 ± 16* | 132 ± 67 | 38 ± 20 | 289 ± 100 |
 | Tmax (hours) | 3.2 ± 1.3 | 4.0 ± 1.1 | 3.3 ± 1.0 | 4.7 ± 1.4 |
 | AUC0-∞ (ng·h/mL) | 567 ± 264 | 1899 ± 838 | 722 ± 289 | 5211 ± 2116 |
+| * mean ± standard deviation |  |  |  |  |
 
 Doubling the SPORANOX® dose results in approximately a three-fold increase in the itraconazole plasma concentrations.
 
 Values given in the table below represent data from a crossover pharmacokinetics study in which 27 healthy male volunteers each took a single 200-mg dose of SPORANOX® Capsules with or without a full meal:
 
-|  | Fed | Fasted | Fed | Fasted |
+| Fed | Fasted | Fed | Fasted |  |
 | --- | --- | --- | --- | --- |
 |  | Itraconazole |  | Hydroxyitraconazole |  |
-| Cmax (ng/mL) | 239 ± 85mean± standard deviation | 140 ± 65 | 397 ± 103 | 286 ± 101 |
+| Cmax (ng/mL) | 239 ± 85* | 140 ± 65 | 397 ± 103 | 286 ± 101 |
 | Tmax (hours) | 4.5 ± 1.1 | 3.9 ± 1.0 | 5.1 ± 1.6 | 4.5 ± 1.1 |
 | AUC0-∞ (ng·h/mL) | 3423 ± 1154 | 2094 ± 905 | 7978 ± 2648 | 5191 ± 2489 |
 | t1/2 (hours) | 21 ± 5 | 21 ± 7 | 12 ± 3 | 12 ± 3 |
+| * mean ± standard deviation |  |  |  |  |
 
 Absorption of itraconazole under fasted conditions in individuals with relative or absolute achlorhydria, such as patients with AIDS or volunteers taking gastric acid secretion suppressors (e.g., H2 receptor antagonists), was increased when SPORANOX® Capsules were administered with a cola beverage.
 Eighteen men with AIDS received single 200-mg doses of SPORANOX® Capsules under fasted conditions with 8 ounces of water or 8 ounces of a cola beverage in a crossover design.
@@ -43,15 +45,17 @@ When SPORANOX® Capsules were administered with cola after ranitidine pretreatme
 (See PRECAUTIONS: Drug Interactions.)
 
 Steady-state concentrations were reached within 15 days following oral doses of 50 mg to 400 mg daily.
-Values given in the table below are data at steady-state from a pharmacokinetics study in which 27 healthy male volunteers took 200-mg SPORANOX® Capsules b.i.d.(with a full meal) for 15 days:
+Values given in the table below are data at steady-state from a pharmacokinetics study in which 27 healthy male volunteers took 200-mg SPORANOX® Capsules b.i.d.
+(with a full meal) for 15 days:
 
 |  | Itraconazole | Hydroxyitraconazole |
 | --- | --- | --- |
-| Cmax (ng/mL) | 2282 ± 514mean ± standard deviation | 3488 ± 742 |
+| Cmax (ng/mL) | 2282 ± 514* | 3488 ± 742 |
 | Cmin (ng/mL) | 1855 ± 535 | 3349 ± 761 |
 | Tmax (hours) | 4.6 ± 1.8 | 3.4 ± 3.4 |
 | AUC0-12 h (ng·h/mL) | 22569 ± 5375 | 38572 ± 8450 |
 | t1/2 (hours) | 64 ± 32 | 56 ± 24 |
+| * mean ± standard deviation |  |  |
 
 The plasma protein binding of itraconazole is 99.8% and that of hydroxyitraconazole is 99.5%.
 Following intravenous administration, the volume of distribution of itraconazole averaged 796 ± 185 liters.
@@ -69,19 +73,24 @@ Itraconazole total plasma clearance averaged 381 ± 95 mL/minute following intra
 
 ### Renal Insufficiency:
 
+Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg dose of itraconazole (four 50-mg capsules) was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
-In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the bioavailability was slightly reduced compared with normal population parameters.
+In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
+Caution should be exercised when the drug is administered in this patient population.
+(See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
 ### Hepatic Insufficiency:
 
-A pharmacokinetic study using a single 100-mg dose of itraconazole (one 100-mg capsule) was conducted in 6 healthy and 12 cirrhotic subjects.
-No statistically significant differences in AUC were seen between these two groups.
-A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+Itraconazole is predominantly metabolized in the liver.
 Patients with impaired hepatic function should be carefully monitored when taking itraconazole.
-The prolonged elimination half-life of itraconazole observed in cirrhotic patients should be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
-(See BOX WARNING, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions)
+A pharmacokinetic study using a single oral 100 mg capsule dose of itraconazole was conducted in 6 healthy and 12 cirrhotic subjects.
+A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
+The prolonged elimination half-life of itraconazole observed in the single oral dose clinical trial with itraconazole capsules in cirrhotic patients should be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
+Data are not available in cirrhotic patients during long-term use of itraconazole.
+(See BOX WARNING, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
 ### Decreased Cardiac Contractility:
 

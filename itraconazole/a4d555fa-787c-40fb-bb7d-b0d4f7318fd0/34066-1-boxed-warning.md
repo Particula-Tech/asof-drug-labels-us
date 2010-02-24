@@ -1,6 +1,6 @@
-## Congestive Heart Failure
+Congestive Heart Failure:
 
-SPORANOX® (itraconazole) Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
+SPORANOX ® (itraconazole) Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
 If signs or symptoms of congestive heart failure occur during administration of SPORANOX® Capsules, discontinue administration.
 When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)

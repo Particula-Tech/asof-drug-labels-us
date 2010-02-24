@@ -39,3 +39,15 @@ Toenails with or without fingernail involvement: The recommended dose is 200 mg 
 Fingernails only: The recommended dosing regimen is 2 treatment pulses, each consisting of 200 mg (2 capsules) b.i.d.
 (400 mg/day) for 1 week.
 The pulses are separated by a 3-week period without SPORANOX®.
+
+## Use in Patients with Renal Impairment:
+
+Limited data are available on the use of oral itraconazole in patients with renal impairment.
+Caution should be exercised when this drug is administered in this patient population.
+(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS for further information.)
+
+## Use in Patients with Hepatic Impairment:
+
+Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
+Caution should be exercised when this drug is administered in this patient population.
+(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and PRECAUTIONS.)

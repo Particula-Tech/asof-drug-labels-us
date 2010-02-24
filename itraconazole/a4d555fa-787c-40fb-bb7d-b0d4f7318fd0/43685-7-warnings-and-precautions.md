@@ -10,7 +10,7 @@ Only the Oral Solution has been demonstrated effective for oral and/or esophagea
 SPORANOX® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition, and some of these cases developed within the first week of treatment.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-Continued SPORANOX® use or reinstitution of treatment with SPORANOX® is strongly discouraged unless there is a serious or life threatening situation where the expected benefit exceeds the risk.
+Continued SPORANOX® use or reinstitution of treatment with SPORANOX® is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
 (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS.)
 
 ## Cardiac Dysrhythmias:
@@ -29,12 +29,12 @@ These risk factors include cardiac disease such as ischemic and valvular disease
 Such patients should be informed of the signs and symptoms of CHF, should be treated with caution, and should be monitored for signs and symptoms of CHF during treatment.
 If signs or symptoms of CHF appear during administration of SPORANOX® Capsules, discontinue administration.
 
+Itraconazole has been shown to have a negative inotropic effect.
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of SPORANOX® Injection (intravenous infusion), transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 
 SPORANOX® has been associated with reports of congestive heart failure.
-In post-marketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg than among those receiving lower total daily doses.
-This suggests that the risk of heart failure might increase with the total daily dose of itraconazole.
+In post-marketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
 
 Calcium channel blockers can have negative inotropic effects which may be additive to those of itraconazole.
 In addition, itraconazole can inhibit the metabolism of calcium channel blockers.
@@ -48,13 +48,6 @@ Cases of CHF, peripheral edema, and pulmonary edema have been reported in the po
 
 ## General:
 
-Rare cases of serious hepatotoxicity have been observed with Sporanox® treatment, including some cases within the first week.
-In patients with elevated or abnormal liver enzymes or active liver disease, or who have experienced liver toxicity with other drugs, treatment with Sporanox® is strongly discouraged unless there is a serious or life threatening situation where the expected benefit exceeds the risk.
-Liver function monitoring should be done in patients with pre-existing hepatic function abnormalities or those who have experienced liver toxicity with other medications and should be considered in all patients receiving Sporanox®.
-Treatment should be stopped immediately and liver function testing should be conducted in patients who develop signs and symptoms suggestive of liver dysfunction.
-
-If neuropathy occurs that may be attributable to Sporanox® capsules, the treatment should be discontinued.
-
 SPORANOX® (itraconazole) Capsules should be administered after a full meal.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism.)
 
@@ -64,10 +57,22 @@ Studies conducted under fasted conditions demonstrated that administration with 
 This increase relative to the effects of a full meal is unknown.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism.)
 
+## Hepatotoxicity:
+
+Rare cases of serious hepatotoxicity have been observed with Sporanox® treatment, including some cases within the first week.
+In patients with elevated or abnormal liver enzymes or active liver disease, or who have experienced liver toxicity with other drugs, treatment with Sporanox® is strongly discouraged unless there is a serious or life threatening situation where the expected benefit exceeds the risk.
+Liver function monitoring should be done in patients with pre-existing hepatic function abnormalities or those who have experienced liver toxicity with other medications and should be considered in all patients receiving Sporanox®.
+Treatment should be stopped immediately and liver function testing should be conducted in patients who develop signs and symptoms suggestive of liver dysfunction.
+
+## Neuropathy:
+
+If neuropathy occurs that may be attributable to Sporanox® capsules, the treatment should be discontinued.
+
+## Hearing Loss:
+
 Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (see BOX WARNINGS: Drug Interactions; CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated (see BOX WARNING: Drug Interactions; CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
 The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
-Patients should be informed of this potential side effect and advised to discontinue therapy and inform their physicians if any hearing loss symptoms occur.
 
 ## Information for Patients:
 
@@ -76,7 +81,7 @@ Patients should be informed of this potential side effect and advised to discont
   SPORANOX® Capsules should not be used interchangeably with SPORANOX® Oral Solution.
 - Instruct patients to take SPORANOX® Capsules with a full meal.
 - Instruct patients about the signs and symptoms of congestive heart failure, and if these signs or symptoms occur during SPORANOX® administration, they should discontinue SPORANOX® and contact their healthcare provider immediately.
-- Instruct patients to stop Sporanox® treatment immediately and contact their healthcare provider if any signs and symptoms suggestive of liver dysfunction develop.
+- Instruct patients to stop SPORANOX® treatment immediately and contact their healthcare provider if any signs and symptoms suggestive of liver dysfunction develop.
   Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vomiting, jaundice, dark urine, or pale stools.
 - Instruct patients to contact their physician before taking any concomitant medications with itraconazole to ensure there are no potential drug interactions.
 - Instruct patients that hearing loss can occur with the use of itraconazole.
@@ -86,9 +91,7 @@ Patients should be informed of this potential side effect and advised to discont
 ## Drug Interactions:
 
 Itraconazole and its major metabolite, hydroxyitraconazole, are inhibitors of CYP3A4.
-Therefore, the following drug interactions may occur
-
-(See Table 1 below and the following drug class subheadings that follow):
+Therefore, the following drug interactions may occur (see Table 1 below and the following drug class subheadings that follow):
 
 1. SPORANOX® may decrease the elimination of drugs metabolized by CYP3A4, resulting in increased plasma concentrations of these drugs when they are administered with SPORANOX®.
    These elevated plasma concentrations may increase or prolong both therapeutic and adverse effects of these drugs.
@@ -103,23 +106,23 @@ Therefore, the following drug interactions may occur
    Patients who must take SPORANOX® concomitantly with one of these drugs should be monitored closely for signs or symptoms of increased or prolonged pharmacologic effects of SPORANOX®.
 
 Table 1.
-Selected Drugs that are predicted to alter the plasma concentration of itraconazole or have their plasma concentration altered by SPORANOX® This list is not all-inclusive.
+Selected Drugs that Are Predicted to Alter the Plasma Concentration of Itraconazole or Have Their Plasma Concentration Altered by SPORANOX® 1
 
 | Drug plasma concentration increased by itraconazole |  |
 | --- | --- |
-| Antiarrhythmics | digoxin, dofetilideContraindicated with SPORANOX® based on clinical and/or pharmacokinetics studies. (See WARNINGS and below.), quinidine, disopyramide |
+| Antiarrhythmics | digoxin, dofetilide,2 quinidine,2 disopyramide |
 | Anticonvulsants | carbamazepine |
 | Antimycobacterials | rifabutin |
 | Antineoplastics | busulfan, docetaxel, vinca alkaloids |
-| Antipsychotics | pimozide |
-| Benzodiazepines | alprazolam, diazepam, midazolam,, For information on parenterally administered midazolam, see the Benzodiazepine paragraph below. triazolam |
-| Calcium Channel Blockers | dihydropyridines (including nisoldipine), verapamil |
-| Gastrointestinal Motility Agents | cisapride |
-| HMG CoA-Reductase Inhibitors | atorvastatin, cerivastatin, lovastatin, simvastatin |
+| Antipsychotics | pimozide2 |
+| Benzodiazepines | alprazolam, diazepam, midazolam,2, 3 triazolam2 |
+| Calcium Channel Blockers | dihydropyridines (including nisoldipine2), verapamil |
+| Gastrointestinal Motility Agents | cisapride2 |
+| HMG CoA-Reductase Inhibitors | atorvastatin, cerivastatin, lovastatin,2 simvastatin2 |
 | Immunosuppressants | cyclosporine, tacrolimus, sirolimus |
 | Oral Hypoglycemics | oral hypoglycemics |
 | Protease Inhibitors | indinavir, ritonavir, saquinavir |
-| Other | levacetylmethadol (levomethadyl), ergot alkaloids, halofantrine, alfentanil, buspirone, methylprednisolone, budesonide, dexamethasone, fluticasone, trimetrexate, warfarin, cilostazol, eletriptan, fentanyl |
+| Other | levacetylmethadol (levomethadyl),2 ergot alkaloids,2 halofantrine, alfentanil, buspirone, methylprednisolone, budesonide, dexamethasone, fluticasone, trimetrexate, warfarin, cilostazol, eletriptan, fentanyl |
 | Decrease plasma concentration of itraconazole |  |
 | Anticonvulsants | carbamazepine, phenobarbital, phenytoin |
 | Antimycobacterials | isoniazid, rifabutin, rifampin |
@@ -128,6 +131,7 @@ Selected Drugs that are predicted to alter the plasma concentration of itraconaz
 | Increase plasma concentration of itraconazole |  |
 | Macrolide Antibiotics | clarithromycin, erythromycin |
 | Protease Inhibitors | indinavir, ritonavir |
+| 1 This list is not all-inclusive. 2 Contraindicated with SPORANOX® based on clinical and/or pharmacokinetics studies. (See WARNINGS and below.) 3 For information on parenterally administered midazolam, see the Benzodiazepine paragraph below. |  |
 
 ### Antiarrhythmics:
 
@@ -139,7 +143,7 @@ Therefore, concomitant administration of SPORANOX® and quinidine or dofetilide 
 The class IA antiarrhythmic disopyramide has the potential to increase the QT interval at high plasma concentrations.
 Caution is advised when SPORANOX® and disopyramide are administered concomitantly.
 
-Concomitant administration of digoxin and SPORANOX® has led to increased plasma concentrations of digoxin.
+Concomitant administration of digoxin and SPORANOX® has led to increased plasma concentrations of digoxin via inhibition of P-glycoprotein.
 
 ### Anticonvulsants:
 
@@ -184,7 +188,7 @@ Appropriate dosage adjustment may be necessary.
 
 Calcium channel blockers can have a negative inotropic effect which may be additive to those of itraconazole; itraconazole can inhibit the metabolism of calcium channel blockers such as dihydropyridines (e.g., nifedipine and felodipine) and verapamil.
 Therefore, caution should be used when co-administering itraconazole and calcium channel blockers due to an increased risk of CHF.
-Concomitant administration of SPORANOX® and nisoldipine is contraindicated.
+Concomitant administration of SPORANOX® and nisoldipine results in clinically significant increases in nisoldipine plasma concentrations, which cannot be managed by dosage reduction, therefore the concomitant administration of SPORANOX® and nisoldipine is contraindicated.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information).
 
 ### Gastric Acid Suppressors/Neutralizers:
@@ -282,7 +286,7 @@ Itraconazole was found to cause a dose-related increase in maternal toxicity, em
 In rats, the teratogenicity consisted of major skeletal defects; in mice, it consisted of encephaloceles and/or macroglossia.
 
 There are no studies in pregnant women.
-SPORANOX® should be used for the treatment of systemic fungal infections in pregnancy only if the benefitoutweighs the potential risk.
+SPORANOX® should be used for the treatment of systemic fungal infections in pregnancy only if the benefit outweighs the potential risk.
 
 SPORANOX® should not be administered for the treatment of onychomycosis to pregnant patients or to women contemplating pregnancy.
 SPORANOX® should not be administered to women of childbearing potential for the treatment of onychomycosis unless they are using effective measures to prevent pregnancy and they begin therapy on the second or third day following the onset of menses.
@@ -309,6 +313,12 @@ The induced defects included reduced bone plate activity, thinning of the zona c
 At a dosage level of 80 mg/kg/day (10x MRHD) over 1 year or 160 mg/kg/day (20x MRHD) for 6 months, itraconazole induced small tooth pulp with hypocellular appearance in some rats.
 No such bone toxicity has been reported in adult patients.
 
+## Geriatric Use:
+
+Transient or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole.
+Several of these reports included concurrent administration of quinidine which is contraindicated (see BOX WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
+Itraconazole should be used with care in elderly patients (see PRECAUTIONS).
+
 ## HIV-Infected Patients:
 
 Because hypochlorhydria has been reported in HIV-infected individuals, the absorption of itraconazole in these patients may be decreased.
@@ -317,10 +327,10 @@ Because hypochlorhydria has been reported in HIV-infected individuals, the absor
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations.)
+(See CLINICAL PHARMACOLOGY: Special Populations and DOSAGE AND ADMINISTRATION.)
 
 ## Hepatic Impairment:
 
 Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
 Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations.)
+(See CLINICAL PHARMACOLOGY: Special Populations and DOSAGE AND ADMINISTRATION.)

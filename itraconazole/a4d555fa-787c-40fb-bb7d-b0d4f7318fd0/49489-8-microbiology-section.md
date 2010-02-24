@@ -8,7 +8,11 @@ In vitro studies have demonstrated that itraconazole inhibits the cytochrome P45
 
 Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, Candida albicans, and Cryptococcus neoformans.
 Itraconazole also exhibits varying in vitro activity against Sporothrix schenckii, Trichophyton species, Candida krusei, and other Candida species.
-The bioactive metabolite, hydroxyitraconazole, has not been evaluated against Histoplasma capsulatum and Blastomyces dermatitidis.
+
+Candida krusei, Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
+Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
+
+The bioactive metabolite, hydroxyitraconazole, has not been evaluated against Histoplasma capsulatum, Blastomyces dermatitidis, Zygomycete, Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 Correlation between minimum inhibitory concentration (MIC) results in vitro and clinical outcome has yet to be established for azole antifungal agents.
 
 Itraconazole administered orally was active in a variety of animal models of fungal infection using standard laboratory strains of fungi.
@@ -25,6 +29,10 @@ Isolates from several fungal species with decreased susceptibility to itraconazo
 Several in vitro studies have reported that some fungal clinical isolates, including Candida species, with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.
 The relevance of these in vitro susceptibility data to clinical outcome remains to be elucidated.
+
+Candida krusei, Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
+
+Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
 Studies (both in vitro and in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
 As with other azoles, itraconazole inhibits the 14C-demethylation step in the synthesis of ergosterol, a cell wall component of fungi.
