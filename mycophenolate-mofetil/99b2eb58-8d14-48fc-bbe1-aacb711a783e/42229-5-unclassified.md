@@ -133,14 +133,21 @@ The efficacy and safety of the use of mycophenolate mofetil in combination with 
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections, fatal infections, and sepsis.
 In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see ADVERSE REACTIONS).
 
-## Progressive Multifocal Leukoencephalopathy (PML)
+## Latent Viral Infections
 
-Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include cases of progressive multifocal leukoencephalopathy (PML) and BK virus-associated nephropathy (BKVAN) which have been observed in patients receiving immuno suppress ants, including mycophenolate mofetil.
+
+Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
 Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
 Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
 In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
+
+BKVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS: Postmarketing Experience).
+Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
+Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
 ## Pregnancy
 
@@ -186,6 +193,13 @@ If neutropenia develops (ANC <1.3 × 103/µL), dosing with mycophenolate mofetil
 Neutropenia has been observed most frequently in the period from 31 to 180 days posttransplant in patients treated for prevention of renal, cardiac, and hepatic rejection.
 
 Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
+
+## Pure Red Cell Aplasia (PRCA)
+
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative contribution of other immunosuppressants and their combinations in an immunosuppression regimen are also unknown.
+In some cases, PRCA was found to be reversible with dose reduction or cessation of mycophenolate mofetil therapy.
+In transplant patients, however, reduced immunosuppression may place the graft at risk.
 
 CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 
@@ -325,15 +339,19 @@ If such contact occurs, wash thoroughly with soap and water; rinse eyes with pla
 Mycophenolate mofetil capsules are available as follows:
 
 250 mg, hard gelatin capsules with opaque blue cap and opaque white body.
-The cap is imprinted ‘ 655’ with black ink
+The cap and body are imprinted with "655" with black ink
 
 NDC 0781-2067-01, bottle of 100 capsules
 
-NDC 0781-2067-05, bottles of 500 capsules
+NDC 0781-2067-72, bottle of 120 capsules
+
+NDC 0781-2067-05, bottle of 500 capsules
+
+NDC 0781-2067-89, package containing 12 bottles of 120
 
 ## Storage:
 
-Store at 25°C (77°F) [see USP Controlled Room Temperature].
+Store at 25° (77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in a tight, light-resistant container as defined in the USP with a child-resistant cap.
 
@@ -344,4 +362,257 @@ Manufactured in India by Sandoz Private Ltd
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-May 2008
+12/2009
+
+# MEDICATION GUIDE
+
+Mycophenolate Mofetil Capsules
+
+Read the Medication Guide that comes with mycophenolate mofetil capsules before you start taking it and each time you refill your prescription.
+There may be new information.
+This Medication Guide does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+
+What is the most important information I should know about mycophenolate mofetil?
+
+Mycophenolate mofetil can cause serious side effects:
+
+- Possible loss of a pregnancy and higher risk of birth defects.
+  Women who take mycophenolate mofetil drug pregnancy have a higher risk of losing a pregnancy (miscarriage) during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects
+
+If you are a female and are able to become pregnant
+
+- your healthcare provider must talk with you about effective birth control methods (contraceptive counseling)
+- you should have a negative pregnancy test within 1 week before you start to take mycophenolate mofetil
+- you must use 2 different types of effective birth control at the same time, for 4 weeks before you start taking mycophenolate mofetil, during your entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless you choose to avoid sexual intercourse completely (abstinence).
+  Mycophenolate mofetil decreases blood levels of the hormones in birth control pills that you take by mouth.
+  Birth control pills may not work as well while you take mycophenolate mofetil, and you could become pregnant
+
+If you plan to become pregnant, talk with your healthcare provider.
+Your healthcare provider will decide if other medicines to prevent rejection may be right for you.
+In certain situations, you and your healthcare provider may decide that taking mycophenolate mofetil is more important to your health than the possible risks to your unborn baby.
+
+- If you get pregnant while taking mycophenolate mofetil, do not stop taking mycophenolate mofetil.
+  Call your healthcare provider right away.
+  You and your healthcare provider should report any cases of pregnancies to
+  - FDA MedWatch at 1-800-FDA-1088
+  - Sandoz at 1-800-525-8747
+
+Talk to your healthcare provider about joining the National Transplantation Pregnancy Registry at 1-877-955-6877.
+
+- Increased risk of getting serious infections.
+  Mycophenolate mofetil weakens the body's immune system and affects your ability to fight infections.
+  Serious infections can happen with mycophenolate mofetil and can lead to death.
+  Types of infections can include:
+
+- Viral infections.
+  Certain viruses can live in your body and cause active infections when your immune system is weak.
+  Viral infections that can happen with mycophenolate mofetil include:° Shingles, other herpes infections, and cytomegalovirus (CMV).
+  CMV can cause serious tissue and blood infections.° BK virus.
+  BK virus can affect how your kidney works and cause your transplanted kidney to fail.
+- A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
+  In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
+  You are at risk for this brain infection because you have a weakened immune system.
+  You should tell your healthcare provider right away if you have any of the following symptoms:
+  - Weakness on one side of the body
+  - You do not care about things that you usually care about (apathy)
+  - You are confused or have problems thinking
+  - You can not control your muscles
+- Fungal infections.
+  Yeasts and other types of fungal infections can happen with mycophenolate mofetil and can cause serious tissue and blood infections (see “What are the possible side effects of mycophenolate mofetil?”)
+
+Call your healthcare provider right away if you have any of the following signs and symptoms of infection:
+
+- 
+  - Temperature of 100.5°F or greater
+  - Cold symptoms, such as a runny nose or sore throat
+  - Flu symptoms, such as an upset stomach, stomach pain, vomiting or diarrhea
+  - Earache or headache
+  - Pain during urination
+  - White patches in the mouth or throat
+  - Unexpected bruising or bleeding
+  - Cuts, scrapes or incisions that are red, warm and oozing pus
+
+- Increased risk of getting certain cancers.
+  People who take mycophenolate mofetil have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
+  Tell your healthcare provider if you have:
+  - unexplained fever, prolonged tiredness, weight loss or lymph node swelling.
+  - a brown or black skin lesion with uneven borders, or one part of the lesion does not look like the other
+  - a change in the size and color of a mole
+  - a new skin lesion or bump
+  - any other changes to your health
+
+See the section “What are the possible side effects of mycophenolate mofetil ?” for information about other serious side effects.
+
+What is mycophenolate mofetil?
+
+Mycophenolate mofetil is a prescription medicine to prevent rejection (antirejection medicine) in people who have received a kidney, heart or liver transplant.
+Rejection is when the body's immune system perceives the new organ as a “foreign” threat and attacks it.
+
+Mycophenolate mofetil is used with other medicines called cyclosporines (Sandimmune®, Gengraf®, Neoral®) and corticosteroids.
+These medicines work together to prevent rejection to your transplanted organ.
+
+Mycophenolate mofetil has been used safely and works in children who received a kidney transplant as it does in adults.
+It is not known if mycophenolate mofetil is safe and works in children who receive a heart or liver transplant.
+
+Who should not take mycophenolate mofetil?
+
+Do not take mycophenolate mofetil if you are allergic to mycophenolate mofetil or any of the ingredients in mycophenolate mofetil.
+See the end of this Medication Guide for a complete list of ingredients in mycophenolate mofetil.
+
+What should I tell my healthcare provider before taking mycophenolate mofetil?
+
+Tell your healthcare provider about all of your medical conditions, if you:
+
+- have any digestive problems, such as ulcers
+- have Lesch-Nyhan or Kelley-Seegmiller syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase (HGPRT).
+  You should not take mycophenolate mofetil if you have one of these disorders
+- plan to receive any vaccines.
+  People taking mycophenolate mofetil should not take live vaccines.
+  Some vaccines may not work as well during treatment with mycophenolate mofetil
+- are pregnant or are planning to become pregnant.
+  See “What is the most important information I should know about mycophenolate mofetil ?”
+- are breastfeeding.
+  It is not known if mycophenolate mofetil passes into breast milk.
+  You and your healthcare provider will decide if you will take mycophenolate mofetil or breastfeed.
+  You should not do both without first talking with your healthcare provider
+
+Tell your healthcare provider about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
+Some medicines may affect the way mycophenolate mofetil works, and mycophenolate mofetil may affect how some medicines work.
+Especially tell your healthcare provider if you take:
+
+- birth control pills (oral contraceptives).
+  See “What is the most important information I should know about mycophenolate mofetil?”
+- sevelamer (Renagel®, Renvela™).
+  These products should be taken 2 hours after taking mycophenolate mofetil
+- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene® –IV, Valcyte®)
+- rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
+- antacids that contain magnesium and aluminum (mycophenolate mofetil and the antacid should not be taken at the same time)
+- sulfamethoxazole/trimethoprim (Bactrium™, Bactrim DS™)
+- norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, Pylera™)
+- ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR™)
+- azathioprine (Azasan®, Imuran®)
+- cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
+
+Know the medicines you take.
+Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
+Do not take any new medicine without talking with your healthcare provider.
+
+How should I take mycophenolate mofetil?
+
+- Take mycophenolate mofetil exactly as prescribed
+- Do not stop taking mycophenolate mofetil or change the dose unless your healthcare provider tells you to
+- If you miss a dose of mycophenolate mofetil, or are not sure when you took your last dose, take the regular amount of mycophenolate mofetil prescribed as soon as you remember.
+  If it is time for your next dose, skip the missed dose.
+  Do not take 2 doses at the same time.
+  Call your healthcare provider if you are not sure what to do
+- Take mycophenolate mofetil capsules on an empty stomach, either 1 hour before or 2 hours after a meal, unless your healthcare provider tells you otherwise.
+  With the approval of your healthcare provider, in stable kidney transplant patients, mycophenolate mofetil can be taken with food if necessary
+- Most people take mycophenolate mofetil by mouth either as opaque blue and white capsules.
+  Some people may get mycophenolate mofetil soon after their transplant surgery as an infusion into a vein
+- Do not open or crush mycophenolate mofetil capsules
+- If you are not able to swallow mycophenolate mofetil capsules, your healthcare provider may prescribe mycophenolate mofetil oral suspension.
+  This is a liquid form of mycophenolate mofetil.
+  Your pharmacist will mix the medicine before giving it to you
+- If you take too much mycophenolate mofetil, call your healthcare provider or the poison control center right away
+
+What should I avoid while taking mycophenolate mofetil?
+
+- Avoid pregnancy.
+  See “What is the most important information I should know about mycophenolate mofetil?”
+- Limit the amount of time you spend in sunlight.
+  Avoid using tanning beds or sunlamps.
+  People who take mycophenolate mofetil have a higher risk of getting skin cancer.
+  (See “What is the most important information I should know about mycophenolate mofetil?”)
+  Wear protective clothing when you are in the sun and use a sunscreen with a high protection factor (SPF 30 and above).
+  This is especially important if your skin is very fair or if you have a family history of skin cancer
+
+What are the possible side effects of mycophenolate mofetil?
+
+Mycophenolate mofetil can cause serious side effects:
+
+- See “What is the most important information I should know about mycophenolate mofetil ?”
+- Low blood cell counts.
+  People taking high doses of mycophenolate mofetil each day may have a decrease in blood counts, including
+  - white blood cells, especially neutrophils.
+    Neutrophils fight against bacterial infections.
+    You have a higher chance of getting an infection when your white blood cell count is low.
+    This is most common from 3 months to 6 months after your transplant
+  - red blood cells.
+    Red blood cells carry oxygen to your body tissues.
+    You have a higher chance of getting sever anemia when your red blood cell count is low.
+  - platelets.
+    Platelets help with blood clotting
+
+Your healthcare provider will do blood tests before you start taking mycophenolate mofetil and during treatment with mycophenolate mofetil to check your blood cell counts.
+
+Tell your healthcare provider right away if you have any signs of infection (see “What is the most important information I should know about mycophenolate mofetil?”), or any unexpected bruising or bleeding.
+Also, tell your healthcare provider about any unusual tiredness, lack of energy, dizziness or fainting.
+
+- Stomach problems.
+  Stomach and intestinal bleeding can happen in people who take high doses of mycophenolate mofetil.
+  Bleeding can be severe and you may have to be hospitalized for treatment
+
+Common side effects include:
+
+- diarrhea.
+  Call your healthcare provider right away if you have diarrhea.
+  Do not stop taking mycophenolate mofetil without first talking with your healthcare provider
+- vomiting
+- pain
+- stomach area pain
+- swelling of the lower legs, ankles and feet
+- high blood pressure
+
+Side effects that happen more often in children than in adults taking mycophenolate mofetil include:
+
+- stomach area pain
+- fever
+- infection
+- blood infection (sepsis)
+- diarrhea
+- sore throat
+- colds (respiratory track infections)
+- high blood pressure
+- low white blood cell count
+- low red blood cell count
+
+These are not all of the possible side effects to mycophenolate mofetil.
+Tell your healthcare provider about any side effect that bothers you or that does not go away.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to the FDA at 1-800-FDA-1088or Sandoz at 1-800-525-5747.
+
+How should I store mycophenolate mofetil ?
+
+- Store mycophenolate mofetil capsules at room temperature, between 20° (77°F).
+  Keep the container closed tightly
+- Keep mycophenolate mofetil and all medicines out of the reach of children
+
+General Information about mycophenolate mofetil
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use mycophenolate mofetil for a condition for which it was not prescribed.
+
+Do not give mycophenolate mofetil to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This Medication Guide summarizes the most important information about mycophenolate mofetil.
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about mycophenolate mofetil that is written for healthcare professionals.
+For more information call 1-800-525-8747.
+
+What are the ingredients in mycophenolate mofetil capsules?
+
+Active Ingredient: mycophenolate mofetil
+
+Inactive Ingredients: croscarmellose sodium, FD&C blue #2, gelatin, magnesium stearate, povidone (K-90), pregelatinized starch and titanium dioxide, butyl alcohol, black iron oxide, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, purified water, shellac and strong ammonia solution.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+The brands listed are trademarks of their respective owners and are not trademarks of Sandoz Inc.
+
+Manufactured in India by Sandoz Private Ltd.
+
+for Sandoz Inc., Princeton, NJ 08540
+
+Rev.12/2009

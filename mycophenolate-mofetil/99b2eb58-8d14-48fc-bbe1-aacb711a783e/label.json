@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065379"
+  ],
   "inn": "mycophenolate-mofetil",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
     "0781-2067-01",
-    "0781-2067-05"
+    "0781-2067-05",
+    "0781-2067-72",
+    "0781-2067-89"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate Mofetil"
+    }
+  ],
   "setid": "99b2eb58-8d14-48fc-bbe1-aacb711a783e",
   "source": "dailymed"
 }

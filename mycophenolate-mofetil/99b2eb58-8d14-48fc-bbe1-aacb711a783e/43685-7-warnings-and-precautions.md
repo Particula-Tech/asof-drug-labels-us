@@ -123,6 +123,14 @@ Therefore, mycophenolate mofetil is not recommended to be given with the combina
 There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
 The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxcin or metronidazole separately was 48.3 (±24) µg·h/mL and 42.7 (±23) µg·h/mL, respectively, compared with 56.2 (±24) µg·h/mL after administration of mycophenolate mofetil alone.
 
+## Ciprofloxacin and Amoxicillin plus Clavulanic Acid
+
+A total of 64 mycophenolate mofetil-treated renal transplant recipients received either oral ciprofloxacin 500 mg bid or amoxicillin plus clavulanic acid 375 mg tid for 7 or at least 14 days.
+Approximately 50% reductions in median trough MPA concentrations (pre-dose) from baseline (mycophenolate mofetil alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
+These reductions in through MPA concentrations tended to diminish within 14 days of antibiotic therapy and ceased within 3 days after discontinuation of antibiotics.
+The postulated mechanism for this interaction is an antibiotic-induced reduction in glucuronidase-possessing enteric organisms leading to a decrease in enterohepatic recirculation of MPA.
+The change in trough level may not accurately represent changes in overall MPA exposure; therefore, clinical relevance of these observations is unclear.
+
 ## Rifampin
 
 In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC0-12h) has been observed with concomitant administration of mycophenolate mofetil and rifampin.
