@@ -1,0 +1,7 @@
+# DOSAGE & ADMINISTRATION
+
+Dosage should be adjusted according to the severity of the pain and the response of the patient.
+However, it should be kept in mind that tolerance to hydrocodone can develop with continued use and that the incidence of untoward effects is dose related.
+
+The usual adult dosage is one or two tablets every four to six hours as needed for pain.
+The total daily dose should not exceed 6 tablets.
