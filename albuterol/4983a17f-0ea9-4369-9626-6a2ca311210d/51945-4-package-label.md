@@ -3,7 +3,3 @@
 Carton:
 
 Label:
-
-Sample Carton:
-
-Sample Label:
