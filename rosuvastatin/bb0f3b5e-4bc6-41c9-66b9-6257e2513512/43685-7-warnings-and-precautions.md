@@ -7,8 +7,7 @@ These risks can occur at any dose level, but are increased at the highest dose (
 
 CRESTOR should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
 
-The risk of myopathy during treatment with CRESTOR may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, orlopinavir/ritonavir.
-[see Dosage and Administration (2) and Drug Interactions (7)].
+The risk of myopathy during treatment with CRESTOR may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, lopinavir/ritonavir, or atazanavir/ritonavir [see Dosage and Administration (2) and Drug Interactions (7)].
 
 CRESTOR therapy should be discontinued if markedly elevated creatinine kinase levels occur or myopathy is diagnosed or suspected.
 CRESTOR therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
@@ -29,14 +28,12 @@ Patients who develop increased transaminase levels should be monitored until the
 Should an increase in ALT or AST of >3 times ULN persist, reduction of dose or withdrawal of CRESTOR is recommended.
 
 CRESTOR should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of chronic liver disease [see Clinical Pharmacology (12.3)].
-Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of CRESTOR.
-[see Contraindications (4)]
+Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of CRESTOR [see Contraindications (4)].
 
 ## 5.3 Concomitant Coumarin Anticoagulants
 
-Caution should be exercised when anticoagulants are given in conjunction with CRESTOR because of its potentiation of the effect of coumarin-type anti-coagulants in prolonging the prothrombin time/INR.
-In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should be determined before starting CRESTOR and frequently enough during early therapy to ensure that no significant alteration of INR occurs.
-[see Drug Interactions (7.4)]
+Caution should be exercised when anticoagulants are given in conjunction with CRESTOR because of its potentiation of the effect of coumarin-type anticoagulants in prolonging the prothrombin time/INR.
+In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should be determined before starting CRESTOR and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Drug Interactions (7.4)].
 
 ## 5.4 Proteinuria and Hematuria
 
@@ -45,5 +42,7 @@ These findings were more frequent in patients taking CRESTOR 40 mg, when compare
 Although the clinical significance of this finding is unknown, a dose reduction should be considered for patients on CRESTOR therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
 
 ## 5.5 Endocrine Effects
+
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including CRESTOR [see Adverse Reactions (6.1)].
 
 Although clinical studies have shown that CRESTOR alone does not reduce basal plasma cortisol concentration or impair adrenal reserve, caution should be exercised if CRESTOR is administered concomitantly with drugs that may decrease the levels or activity of endogenous steroid hormones such as ketoconazole, spironolactone, and cimetidine.

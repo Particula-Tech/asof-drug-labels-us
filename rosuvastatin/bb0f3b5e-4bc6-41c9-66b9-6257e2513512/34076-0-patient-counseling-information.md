@@ -16,9 +16,9 @@ If the patient becomes pregnant while taking this drug, the patient should be ap
 
 It is recommended that liver enzymes be checked before and at 12 weeks following both the initiation of therapy and any elevation of dose, and periodically (e.g., semiannually) thereafter.
 
-CRESTOR is a trademark of the AstraZeneca group of companies
+CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2003, 2005, 2007, 2008
+© AstraZeneca 2009, 2010
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
@@ -34,11 +34,12 @@ Canovanas, PR 00729
 
 ASTRAZENECA
 
-Rev 02/2009
+Rev.
+February 2010
 
 PATIENT INFORMATION
 
-CRESTOR®(rosuvastatin calcium) Tablets
+CRESTOR® (rosuvastatin calcium) Tablets
 
 (Kres-tor)
 
@@ -52,7 +53,12 @@ Only your health care professional can tell you if CRESTOR is right for you.
 What is CRESTOR?
 
 CRESTOR is a prescription medicine that belongs to a group of cholesterol-lowering medicines called statins.
-Along with diet, CRESTOR lowers “bad” cholesterol (LDL-C), increases “good” cholesterol (HDL-C), and also slows the progression of atherosclerosis in adults with high cholesterol as part of a treatment plan to lower cholesterol to goal.
+Along with diet, CRESTOR lowers “bad” cholesterol (LDL-C), increases “good” cholesterol (HDL-C).
+If bad cholesterol levels are left untreated, fatty deposits (plaque) can build up in the walls of the blood vessels.
+This plaque buildup over time, can lead to narrowing of these vessels.
+This is one of the most common causes of heart disease.
+By lowering bad cholesterol in your blood, CRESTOR can slow this plaque buildup in the walls of blood vessels.
+CRESTOR has been proven to reduce the risk of heart attacks and strokes in older adults without known heart disease.
 
 What is Cholesterol?
 
@@ -74,48 +80,38 @@ Often this plaque starts building up in arteries in early adulthood and gets wor
 How Does CRESTOR Work?
 
 Most of the cholesterol in your blood is made in the liver.
-CRESTOR works by reducing cholesterol in two ways: CRESTOR blocks an enzyme in the liver causing the liver to make less cholesterol and CRESTOR increases the uptake and breakdown by the liver of cholesterol already in the blood.
+CRESTOR works by reducing cholesterol in two ways: CRESTOR blocks an enzyme in the liver causing the liver to make less cholesterol, and CRESTOR increases the uptake and breakdown by the liver of cholesterol already in the blood.
 
 Who Should Not Take CRESTOR?
 
 Do not take CRESTOR if you:
 
-• are pregnant or think you may be pregnant, or are planning to become pregnant.
-CRESTOR may harm your unborn baby.
-If you become pregnant, stop taking CRESTOR and call your health care professional right away
+- are pregnant or think you may be pregnant, or are planning to become pregnant.
+  CRESTOR may harm your unborn baby.
+  If you become pregnant, stop taking CRESTOR and call your health care professional right away
+- are breast-feeding.
+  CRESTOR can pass into your breast milk and may harm your baby
+- have liver problems
+- have had an allergic reaction to CRESTOR or are allergic to any of its ingredients.
+  The active ingredient is rosuvastatin calcium.
+  The inactive ingredients are: microcrystalline cellulose, lactose monohydrate, tribasic calcium phosphate, crospovidone, magnesium stearate, hypromellose, triacetin, titanium dioxide, yellow ferric oxide, and red ferric oxide
 
-• are breast-feeding.
-CRESTOR can pass into your breast milk and may harm your baby
-
-• have liver problems
-
-• have had an allergic reaction to CRESTOR or are allergic to any of its ingredients.
-The active ingredient is rosuvastatin calcium.
-The inactive ingredients are: microcrystalline cellulose, lactose monohydrate, tribasic calcium phosphate, crospovidone, magnesium stearate, hypromellose, triacetin, titanium dioxide, yellow ferric oxide, and red ferric oxide
-
-The safety and effectiveness of CRESTOR have not been established in children.
+The safety and effectiveness of CRESTOR have not been established in pediatric patients under the age of 10.
 
 What should I tell my health care professional before taking CRESTOR?
 
 Tell your health care professional if you:
 
-• have a history of muscle pain or weakness
+- have a history of muscle pain or weakness
+- are pregnant or think you may be pregnant, or are planning to become pregnant
+- are breast-feeding
+- drink more than 2 glasses of alcohol daily
+- have liver problems
+- have kidney problems
+- have thyroid problems
+- are Asian or of Asian descent
 
-• are pregnant or think you may be pregnant, or are planning to become pregnant
-
-• are breast-feeding
-
-• drink more than 2 glasses of alcohol daily
-
-• have liver problems
-
-• have kidney problems
-
-• have thyroid problems
-
-• are Asian or of Asian descent
-
-Tell your health care professional about all medicines you take or plan to take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your health care professional about all medicines you take or plan to take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Some medicines may interact with CRESTOR, causing side effects.
 It is particularly important to tell your health care professional if you are taking or plan to take medicines for:
 
@@ -147,7 +143,7 @@ CRESTOR can be taken at any time of day, with or without food.
 
 Swallow the tablets whole.
 
-Your health care professional should start you on a cholesterol lowering diet before giving you CRESTOR.
+Your health care professional may start you on a cholesterol lowering diet before giving you CRESTOR.
 Stay on this diet when you take CRESTOR.
 
 Wait at least 2 hours after taking CRESTOR to take an antacid that contains a combination of aluminum and magnesium hydroxide.
@@ -214,9 +210,9 @@ This leaflet summarizes important information about CRESTOR.
 If you would like more information about CRESTOR, ask your health care professional.
 You can also go to the CRESTOR website at www.crestor.com or call 1-800-CRESTOR.
 
-CRESTOR is a registered trademark of the AstraZeneca group of companies
+CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2003, 2005, 2007, 2008
+© AstraZeneca 2003, 2005, 2007, 2008, 2010
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
@@ -232,4 +228,5 @@ Canovanas, PR 00729
 
 ASTRAZENECA
 
-Rev February 2009
+Rev.
+February 2010
