@@ -1,11 +1,11 @@
 # OVERDOSAGE
 
-Symptoms
+## Symptoms
 
 Acute overdosage with morphine is manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, sometimes, pulmonary edema, bradycardia, hypotension and death.
 Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdose situations.
 
-Treatment
+## Treatment
 
 Primary attention should be given to the re-establishment of a patent airway and institution of assisted or controlled ventilation.
 Gastric contents may need to be emptied to remove unabsorbed drug when an extended-release formulation such as KADIAN® has been taken.

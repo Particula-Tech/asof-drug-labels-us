@@ -2,7 +2,7 @@
 
 KADIAN® (morphine sulfate) capsules are an opioid analgesic supplied in 10 mg, 20 mg, 30 mg, 50 mg, 60 mg, 80 mg, 100 mg, and 200 mg strengths for oral administration.
 
-Chemically, morphine sulfate is 7,8-didehydro 4,5 α- epoxy-17-methyl-morphinan-3,6 α- diol sulfate (2:1) (salt) pentahydrate and has the following structural formula:
+Chemically, morphine sulfate is 7,8-didehydro-4,5 α-epoxy-17-methyl-morphinan-3,6 α-diol sulfate (2:1) (salt) pentahydrate and has the following structural formula:
 
 Morphine sulfate is an odorless, white, crystalline powder with a bitter taste and a molecular weight of 758 (as the sulfate).
 It has a solubility of 1 in 21 parts of water and 1 in 1000 parts of alcohol, but is practically insoluble in chloroform or ether.

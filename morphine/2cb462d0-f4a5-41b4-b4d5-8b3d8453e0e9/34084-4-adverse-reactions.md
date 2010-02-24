@@ -9,7 +9,7 @@ The most frequent of these include drowsiness, dizziness, constipation and nause
 In many cases, the frequency of these events during initiation of therapy may be minimized by careful individualization of starting dosage, slow titration, and the avoidance of large rapid swings in plasma concentrations of the opioid.
 Many of these adverse events, will cease or decrease as KADIAN® therapy is continued and some degree of tolerance is developed, but others may be expected to remain troublesome throughout therapy.
 
-Management of Excessive Drowsiness
+## Management of Excessive Drowsiness
 
 Most patients receiving KADIAN® will experience initial drowsiness.
 This usually disappears within 3-5 days and is not a cause of concern unless it is excessive, or accompanied by unsteadiness or confusion.
@@ -20,21 +20,21 @@ Factors to be considered should include: concurrent sedative medications, the pr
 
 The dosage should be adjusted according to individual needs, but additional care should be used in the selection of initial doses for the elderly patient, the cachectic or gravely ill patient, or in patients not already familiar with opioid analgesic medications to prevent excessive sedation at the onset of treatment.
 
-Management of Nausea and Vomiting
+## Management of Nausea and Vomiting
 
 Nausea and vomiting are common after single doses of KADIAN® or as an early undesirable effect of chronic opioid therapy.
 The prescription of a suitable antiemetic should be considered, with the awareness that sedation may result (see Drug Interactions).
 The frequency of nausea and vomiting usually decreases within a week or so but may persist due to opioid-induced gastric stasis.
 Metoclopramide is often useful in such patients.
 
-Management of Constipation
+## Management of Constipation
 
 Virtually all patients suffer from constipation while taking opioids, such as KADIAN®, on a chronic basis.
 Some patients, particularly elderly, debilitated or bedridden patients may become impacted.
 Tolerance does not usually develop for the constipating effects of opioids.
 Patients must be cautioned accordingly and laxatives, softeners and other appropriate treatments should be used prophylactically from the beginning of opioid therapy.
 
-Adverse Events Probably Related to KADIAN® Administration
+## Adverse Events Probably Related to KADIAN® Administration
 
 In clinical studies in patients with chronic cancer pain the most common adverse events reported by patients at least once during therapy were drowsiness (9%), constipation (9%), nausea (7%), dizziness (6%), and anxiety (6%).
 Other less common side effects expected from KADIAN® or seen in less than 3% of patients in the clinical studies were:
@@ -63,7 +63,7 @@ Special Senses: Amblyopia, conjunctivitis, miosis, blurred vision, nystagmus, di
 
 Urogenital: Urinary abnormality, amenorrhea, urinary retention, urinary hesitancy, reduced libido, reduced potency, prolonged labor
 
-Post-marketing Adverse Events Probably Related to KADIAN®
+## Post-marketing Adverse Events Probably Related to KADIAN®
 
 The safety of KADIAN® has been evaluated in a randomized, prospective, open-label, 4-week treatment period, post-marketing study consisting of 1418 patients ages 18-85 with chronic, non-malignant pain (e.g., back pain, osteoarthritis, neuropathic pain).
 No control arm was included in this study.

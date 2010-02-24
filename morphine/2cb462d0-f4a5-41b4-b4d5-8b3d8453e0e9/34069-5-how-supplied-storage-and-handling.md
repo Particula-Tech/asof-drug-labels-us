@@ -31,7 +31,7 @@ Protect from light and moisture.
 
 Dispense in a sealed tamper-evident, childproof, light-resistant container.
 
-CAUTION:DEA Order Form Required.
+CAUTION: DEA Order Form Required.
 
 KADIAN® is a registered trademark of Actavis Elizabeth LLC
 

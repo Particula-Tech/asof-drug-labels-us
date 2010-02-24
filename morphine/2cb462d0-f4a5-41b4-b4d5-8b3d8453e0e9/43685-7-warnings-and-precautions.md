@@ -9,7 +9,7 @@ This capsule strength may cause fatal respiratory depression when ingested or ad
 Care should be taken in the prescribing of this capsule strength.
 Patients should be instructed against use by individuals other than the patient for whom it was prescribed, as such inappropriate use may have severe medical consequences, including death.
 
-Misuse, Abuse and Diversion of Opioids
+## Misuse, Abuse and Diversion of Opioids
 
 KADIAN® contains morphine an opioid agonist and a Schedule II controlled substance.
 Opioid agonists have the potential for being abused and are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
@@ -22,11 +22,11 @@ Abuse of KADIAN® by crushing, chewing, snorting or injecting the dissolved prod
 Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
 Healthcare professionals should contact their State Professional Licensing Board, or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
 
-Interactions with Alcohol and Drugs of Abuse
+## Interactions with Alcohol and Drugs of Abuse
 
 KADIAN® may be expected to have additive effects when used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression because respiratory depression, hypotension, and profound sedation or coma may result.
 
-Impaired Respiration
+## Impaired Respiration
 
 Respiratory depression is the chief hazard of all morphine preparations.
 Respiratory depression occurs more frequently in elderly and debilitated patients, and those suffering from conditions accompanied by hypoxia, hypercapnia, or upper airway obstruction (when even moderate therapeutic doses may significantly decrease pulmonary ventilation).
@@ -35,31 +35,31 @@ KADIAN® should be used with extreme caution in patients with chronic obstructiv
 In such patients, even usual therapeutic doses of morphine may increase airway resistance and decrease respiratory drive to the point of apnea.
 In these patients, alternative non-opioid analgesics should be considered, and opioids should be employed only under careful medical supervision at the lowest effective dose.
 
-Head Injury and Increased Intracranial Pressure
+## Head Injury and Increased Intracranial Pressure
 
 The respiratory depressant effects of morphine with carbon dioxide retention and secondary elevation of cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions, or a pre-existing increase in intracranial pressure.
 KADIAN® produces effects which may obscure neurologic signs of further increases in pressure in patients with head injuries.
 Morphine should only be administered under such circumstances when considered essential and then with extreme care.
 
-Hypotensive Effect
+## Hypotensive Effect
 
 KADIAN® may cause severe hypotension.
 There is an added risk to individuals whose ability to maintain blood pressure has already been compromised by a reduced blood volume, or a concurrent administration of drugs such as phenothiazines or general anesthetics.
-(See also PRECAUTIONS - Drug Interactions.)
+(See also PRECAUTIONS-Drug Interactions.)
 KADIAN® may produce orthostatic hypotension and syncope in ambulatory patients.
 
 KADIAN®, like all opioid analgesics, should be administered with caution to patients in circulatory shock, as vasodilation produced by the drug may further reduce cardiac output and blood pressure.
 
-Interactions with other CNS Depressants
+## Interactions with other CNS Depressants
 
 KADIAN® should be used with great caution and in reduced dosage in patients who are concurrently receiving other central nervous system depressants including sedatives or hypnotics, general anesthetics, phenothiazines, other tranquilizers, and alcohol because respiratory depression, hypotension, and profound sedation or coma may result.
 
-Gastrointestinal Obstruction
+## Gastrointestinal Obstruction
 
 KADIAN® should not be given to patients with gastrointestinal obstruction, particularly paralytic ileus, as there is a risk of the product remaining in the stomach for an extended period and the subsequent release of a bolus of morphine when normal gut motility is restored.
 As with other solid morphine formulations diarrhea may reduce morphine absorption.
 
-Other
+## Other
 
 Although extremely rare, cases of anaphylaxis have been reported.
 
@@ -80,17 +80,17 @@ The administration of KADIAN® may obscure the diagnosis or clinical course in p
 
 KADIAN® may aggravate pre-existing convulsions in patients with convulsive disorders.
 
-Cordotomy
+## Cordotomy
 
 Patients taking KADIAN® who are scheduled for cordotomy or other interruption of pain transmission pathways should have KADIAN® ceased 24 hours prior to the procedure and the pain controlled by parenteral short-acting opioids.
 In addition, the post-procedure titration of analgesics for such patients should be individualized to avoid either oversedation or withdrawal syndromes.
 
-Use in Pancreatic/Biliary Tract Disease
+## Use in Pancreatic/Biliary Tract Disease
 
 KADIAN® may cause spasm of the sphincter of Oddi and should be used with caution in patients with biliary tract disease, including acute pancreatitis.
 Opioids may cause increases in the serum amylase level.
 
-Tolerance and Physical Dependence
+## Tolerance and Physical Dependence
 
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
 Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
@@ -101,13 +101,13 @@ Other symptoms also may develop, including: irritability, anxiety, backache, joi
 
 In general, opioids should not be abruptly discontinued (see DOSAGE AND ADMINISTRATION: Cessation of Therapy).
 
-Special Risk Groups
+## Special Risk Groups
 
 KADIAN® should be administered with caution, and in reduced dosages in elderly or debilitated patients; patients with severe renal or hepatic insufficiency; patients with Addison's disease; myxedema; hypothyroidism; prostatic hypertrophy or urethral stricture.
 
 Caution should also be exercised in the administration of KADIAN® to patients with CNS depression, toxic psychosis, acute alcoholism and delirium tremens, and convulsive disorders.
 
-Driving and Operating Machinery
+## Driving and Operating Machinery
 
 KADIAN® may impair the mental and/or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Patients must be cautioned accordingly.
@@ -156,7 +156,7 @@ Cimetidine: There is an isolated report of confusion and severe respiratory depr
 Diuretics: Morphine can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
 Morphine may also lead to acute retention of urine by causing spasm of the sphincter of the bladder, particularly in men with prostatism.
 
-Carcinogenicity/Mutagenicity/Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate the carcinogenic potential of morphine have not been conducted.
 There are no reports of carcinogenic effects in humans.
@@ -168,7 +168,9 @@ However, the rates of chromosomal abnormalities were similar in nonexposed indiv
 
 ## Pregnancy
 
-Teratogenic Effects (Pregnancy Category C)
+### Teratogenic Effects
+
+(Pregnancy Category C)
 
 Teratogenic effects of morphine have been reported in the animal literature.
 High parental doses during the second trimester were teratogenic in neurological, soft and skeletal tissue.
@@ -177,7 +179,7 @@ These doses were often maternally toxic and were 0.3 to 3-fold the maximum recom
 The relative contribution of morphine-induced maternal hypoxia and malnutrition, each of which can be teratogenic, has not been clearly defined.
 Treatment of male rats with approximately 3-fold the MRHD for 10 days prior to mating decreased litter size and viability.
 
-Nonteratogenic Effects
+### Nonteratogenic Effects
 
 Morphine given subcutaneously, at non-maternally toxic doses, to rats during the third trimester with approximately 0.15-fold the MRHD caused reversible reductions in brain and spinal cord volume, and testes size and body weight in the offspring, and decreased fertility in female offspring.
 The offspring of rats and hamsters treated orally or intraperitoneally throughout pregnancy with 0.04- to 0.3-fold the MRHD of morphine have demonstrated delayed growth, motor and sexual maturation and decreased male fertility.
@@ -196,7 +198,7 @@ However, this effect is not consistent and may be offset by an increased rate of
 Neonates whose mothers received opioid analgesics during labor should be observed closely for signs of respiratory depression.
 A specific opioid antagonist, such as naloxone or nalmefene, should be available for reversal of opioid-induced respiratory depression in the neonate.
 
-Neonatal Withdrawal Syndrome
+## Neonatal Withdrawal Syndrome
 
 Chronic maternal use of opiates or opioids during pregnancy coexposes the fetus.
 The newborn may experience subsequent neonatal withdrawal syndrome (NWS).

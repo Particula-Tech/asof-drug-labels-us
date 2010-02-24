@@ -1,4 +1,4 @@
-# WARNING:
+# BOXED WARNING
 
 KADIAN® contains morphine sulfate, an opioid agonist and a Schedule II controlled substance, with an abuse liability similar to other opioid analgesics.
 KADIAN® can be abused in a manner similar to other opioid agonists, legal or illicit.

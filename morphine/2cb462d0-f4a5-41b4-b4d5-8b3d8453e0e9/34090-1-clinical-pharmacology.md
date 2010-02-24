@@ -6,7 +6,7 @@ Opioids produce a wide spectrum of pharmacologic effects including analgesia, dy
 Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
 Morphine acts as a pure agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
 
-Effects on the Central Nervous System
+## Effects on the Central Nervous System
 
 The principal actions of therapeutic value of morphine are analgesia and sedation (i.e., sleepiness and anxiolysis).
 The precise mechanism of the analgesic action is unknown.
@@ -19,7 +19,7 @@ Morphine causes miosis, even in total darkness, and little tolerance develops to
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen with worsening hypoxia in the setting of KADIAN® overdose (See OVERDOSAGE).
 
-Effects on the Gastrointestinal Tract and Other Smooth Muscle
+## Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
 Gastric, biliary and pancreatic secretions are decreased by morphine.
 Morphine causes a reduction in motility associated with an increase in tone in the antrum of the stomach and duodenum.
@@ -28,7 +28,7 @@ Propulsive peristaltic waves in the colon are decreased, while tone is increased
 The end result is constipation.
 Morphine can cause a marked increase in biliary tract pressure as a result of spasm of the sphincter of Oddi.
 
-Effects on the Cardiovascular System
+## Effects on the Cardiovascular System
 
 Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Release of histamine may be induced by morphine and can contribute to opioid-induced hypotension.
@@ -62,8 +62,9 @@ The single dose and multiple dose pharmacokinetic parameters of KADIAN® in norm
 
 Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple dose study in patients with cancer pain.
 
-| Regimen/ Dosage Form | AUC#,+ (ng.h/mL) | Cmax+ (ng/mL) | Tmax (h) | Cmin+ (ng/mL) | Fluctuation* |
+| Dosage Form | (ng.h/mL) | (ng/mL) | (h) | (ng/mL) |  |
 | --- | --- | --- | --- | --- | --- |
+| Regimen/ | AUC#,+ | Cmax+ | Tmax | Cmin+ | Fluctuation* |
 | Single Dose (n=24) |  |  |  |  |  |
 | KADIAN® Capsule | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | na^ | na |
 | Extended-Release Tablet | 304.3 (19.1) | 30.5 (32.1) | 2.5 (52.6) | na | na |
@@ -73,10 +74,10 @@ Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting fro
 | Extended-Release Tablet q12h | 457.3 (40.2) | 36.9 (42.0) | 4.4 (53.0) | 7.6 (60.3) | 4.1 (51.5) |
 | # For single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady state |  |  |  |  |  |
 | + For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours |  |  |  |  |  |
-| * Steady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin |  |  |  |  |  |
+| * Steady-state fluctuation in plasma concentrations = Cmax- Cmin/Cmin |  |  |  |  |  |
 | ^ Not applicable |  |  |  |  |  |
 
-Absorption
+## Absorption
 
 Following the administration of oral morphine solution, approximately 50% of the morphine absorbed reaches the systemic circulation within 30 minutes.
 However, following the administration of an equal amount of KADIAN® to healthy volunteers, this occurs, on average, after 8 hours.
@@ -95,15 +96,15 @@ Drug-disease interactions are frequently seen in the older and more gravely ill 
 Graph 2 (Study # MOR-9/92): Dose normalized mean steady state plasma morphine concentrations for KADIAN® (once a day), and an equivalent dose of a 12-hour, extended-release morphine tablet given twice a day.
 Plasma concentrations are normalized to 100 mg every 24 hours, (n=24).
 
-Distribution
+## Distribution
 
 Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
 The volume of distribution of morphine is approximately 3 to 4 L/kg.
 Morphine is 30 to 35% reversibly bound to plasma proteins.
 Although the primary site of action of morphine is in the CNS, only small quantities pass the blood-brain barrier.
-Morphine also crosses the placental membranes (see PRECAUTIONS - Pregnancy) and has been found in breast milk (see PRECAUTIONS - Nursing Mothers).
+Morphine also crosses the placental membranes (see PRECAUTIONS-Pregnancy) and has been found in breast milk (see PRECAUTIONS-Nursing Mothers).
 
-Metabolism
+## Metabolism
 
 The major pathway of the detoxification of morphine is conjugation, either with D-glucuronic acid in the liver to produce glucuronides or with sulfuric acid to give morphine-3-etheral sulfate.
 Although a small fraction (less than 5%) of morphine is demethylated, for all practical purposes, virtually all morphine is converted to glucuronide metabolites including morphine-3-glucuronide, M3G (about 50%) and morphine-6-glucuronide, M6G (about 5 to 15%).
@@ -112,7 +113,7 @@ Studies in healthy subjects and cancer patients have shown that the glucuronide 
 M3G has no significant analgesic activity.
 M6G has been shown to have opioid agonist and analgesic activity in humans.
 
-Excretion
+## Excretion
 
 Approximately 10% of morphine dose is excreted unchanged in the urine.
 Most of the dose is excreted in the urine as M3G and M6G.
@@ -125,44 +126,44 @@ Longer plasma sampling in some studies suggests a longer terminal half-life of m
 
 ## Special Populations
 
-### Geriatric:
+### Geriatric
 
 The elderly may have increased sensitivity to morphine and may achieve higher and more variable serum levels than younger patients.
 In adults, the duration of analgesia increases progressively with age, though the degree of analgesia remains unchanged.
 KADIAN® pharmacokinetics have not been investigated in elderly patients (>65 years) although such patients were included in the clinical studies.
 
-### Nursing Mothers:
+### Nursing Mothers
 
 Morphine is excreted in the maternal milk, and the milk to plasma morphine AUC ratio is about 2.5:1.
 The amount of morphine received by the infant depends on the maternal plasma concentration, amount of milk ingested by the infant, and the extent of first pass metabolism.
 
-### Pediatric:
+### Pediatric
 
 Infants under 1 month of age have a prolonged elimination half-life and decreased clearance relative to older infants and pediatric patients.
 The clearance of morphine and its elimination half-life begin to approach adult values by the second month of life.
-Pediatric patients old enough to take capsules should have pharmacokinetic parameters similar to adults, dosed on a per kilogram basis (see PRECAUTIONS - Pediatric Use).
+Pediatric patients old enough to take capsules should have pharmacokinetic parameters similar to adults, dosed on a per kilogram basis (see PRECAUTIONS-Pediatric Use).
 
-### Gender:
+### Gender
 
 No meaningful differences between male and female patients were demonstrated in the analysis of the pharmacokinetic data from clinical studies.
 
-### Race:
+### Race
 
 Pharmacokinetic differences due to race may exist.
 Chinese subjects given intravenous morphine in one study had a higher clearance when compared to caucasian subjects (1852 ± 116 mL/min versus 1495 ± 80 mL/min).
 
-### Hepatic Failure:
+### Hepatic Failure
 
 The pharmacokinetics of morphine were found to be significantly altered in individuals with alcoholic cirrhosis.
 The clearance was found to decrease with a corresponding increase in half-life.
 The M3G and M6G to morphine plasma AUC ratios also decreased in these patients indicating a decrease in metabolic activity.
 
-### Renal Insufficiency:
+### Renal Insufficiency
 
 The pharmacokinetics of morphine are altered in renal failure patients.
 AUC is increased and clearance is decreased.
 The metabolites, M3G and M6G accumulate several fold in renal failure patients compared with healthy subjects.
 
-### Drug-Drug Interactions:
+### Drug-Drug Interactions
 
-The known drug interactions involving morphine are pharmacodynamic, not pharmacokinetic (see PRECAUTIONS - Drug Interactions).
+The known drug interactions involving morphine are pharmacodynamic, not pharmacokinetic (see PRECAUTIONS-Drug Interactions).

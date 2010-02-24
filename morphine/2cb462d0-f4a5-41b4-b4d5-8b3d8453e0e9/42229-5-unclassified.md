@@ -4,7 +4,7 @@ KADIAN® CII
 
 (morphine sulfate extended-release) Capsules
 
-Revised –February 2009
+Revised – February 2009
 
 KADIAN® 10 mg Capsules
 

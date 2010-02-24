@@ -15,7 +15,7 @@ KADIAN® is only indicated for post-operative use if the patient is already rece
 
 Patients who are already receiving KADIAN® Capsules as part of ongoing analgesic therapy may be safely continued on the drug if appropriate dosage adjustments are made considering the procedure, other drugs given, and the temporary changes in physiology caused by the surgical intervention.
 
-Initiating Therapy with KADIAN® Capsules
+## Initiating Therapy with KADIAN® Capsules
 
 Physicians should individualize treatment using a progressive plan of pain management such as outlined by the World Health Organization, the American Pain Society and the Federation of State Medical Boards Model Guidelines.
 Health care professionals should follow appropriate pain management principles of careful assessment and ongoing monitoring.
@@ -36,12 +36,12 @@ During periods of changing analgesic requirements including initial titration, f
 
 The following dosing recommendations, therefore, can only be considered suggested approaches to what is actually a series of clinical decisions over time in the management of the pain of an individual patient.
 
-Conversion from Other Oral Morphine Formulations to KADIAN®
+## Conversion from Other Oral Morphine Formulations to KADIAN®
 
 Patients on other oral morphine formulations may be converted to KADIAN® by administering one-half of the patient's total daily oral morphine dose as KADIAN® capsules every 12 hours (twice-a-day) or by administering the total daily oral morphine dose as KADIAN® capsules every 24 hours (once-a-day).
 KADIAN® should not be given more frequently than every 12 hours.
 
-Conversion from Parenteral Morphine or Other Parenteral or Oral Opioids to KADIAN®
+## Conversion from Parenteral Morphine or Other Parenteral or Oral Opioids to KADIAN®
 
 KADIAN® can be administered to patients previously receiving treatment with parenteral morphine or other opioids.
 While there are useful tables of oral and parenteral equivalents in cancer analgesia, there is substantial interpatient variation in the relative potency of different opioid drugs and formulations.
@@ -58,12 +58,12 @@ The following general points should be considered:
 
 The first dose of KADIAN® may be taken with the last dose of any immediate-release (short-acting) opioid medication due to the long delay until the peak effect after administration of KADIAN®.
 
-Use of KADIAN® as the First Opioid Analgesic
+## Use of KADIAN® as the First Opioid Analgesic
 
 There has been no evaluation of KADIAN® as an initial opioid analgesic in the management of pain.
 Because it may be more difficult to titrate a patient to adequate analgesia using an extended-release morphine, it is ordinarily advisable to begin treatment using an immediate-release morphine formulation.
 
-Individualization of Dosage
+## Individualization of Dosage
 
 The best use of opioid analgesics in the management of chronic malignant and non-malignant pain is challenging, and is well described in materials published by the World Health Organization and the Agency for Health Care Policy and Research which are available from Alpharma Pharmaceuticals LLC upon request.
 KADIAN® is a third step drug which is most useful when the patient requires a constant level of opioid analgesia as a "floor" or "platform" from which to manage breakthrough pain.
@@ -102,7 +102,7 @@ The entire capsule contents may alternatively be administered through a 16 Frenc
 
 THE ADMINISTRATION OF KADIAN® PELLETS THROUGH A NASOGASTRIC TUBE SHOULD NOT BE ATTEMPTED.
 
-Considerations in the Adjustment of Dosing Regimens
+## Considerations in the Adjustment of Dosing Regimens
 
 If signs of excessive opioid effects are observed early in the dosing interval, the next dose should be reduced.
 If this adjustment leads to inadequate analgesia, that is, if breakthrough pain occurs when KADIAN® is administered on an every 24 hours dosing regimen, consideration should be given to dosing every 12 hours.
@@ -114,13 +114,13 @@ To avoid accumulation the dosing interval of KADIAN® should not be reduced belo
 
 When the patient no longer requires therapy with KADIAN® capsules, doses should be tapered gradually to prevent signs and symptoms of withdrawal in the physically dependent patient.
 
-Conversion from KADIAN® to Other Extended-Release Oral Morphine Formulations
+## Conversion from KADIAN® to Other Extended-Release Oral Morphine Formulations
 
 KADIAN® is not bioequivalent to other extended-release morphine preparations.
 Although for a given dose the same total amount of morphine is available from KADIAN® as from morphine solution or extended-release morphine tablets, the slower release of morphine from KADIAN® results in reduced maximum and increased minimum plasma morphine concentrations than with shorter acting morphine products.
 Conversion from KADIAN® to the same total daily dose of extended-release morphine preparations may lead to either excessive sedation at peak or inadequate analgesia at trough and close observation and appropriate dosage adjustments are recommended.
 
-Conversion from KADIAN® to Parenteral Opioids
+## Conversion from KADIAN® to Parenteral Opioids
 
 When converting a patient from KADIAN® to parenteral opioids, it is best to calculate an equivalent parenteral dose, and then initiate treatment at half of this calculated value.
 For example, to estimate the required 24 hour dose of parenteral morphine for a patient taking KADIAN®, one would take the 24 hour KADIAN® dose, divide by an oral to parenteral conversion ratio of 3, divide the estimated 24 hour parenteral dose into six divided doses (for a four hour dosing interval), then halve this dose as an initial trial.
@@ -130,7 +130,7 @@ The estimated 120 mg daily parenteral requirement is then divided into six 20 mg
 
 This approach is likely to require a dosage increase in the first 24 hours for many patients, but is recommended because it is less likely to cause overdose than trying to establish an equivalent dose without titration.
 
-Safety and Handling
+## Safety and Handling
 
 KADIAN® Capsules contain morphine sulfate which is a controlled substance under Schedule II of the Controlled Substances Act.
 Morphine, like all opioids, is liable to diversion and misuse and should be handled accordingly.
