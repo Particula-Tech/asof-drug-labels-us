@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020702"
+  ],
   "inn": "atorvastatin",
-  "labeler": "Parke-Davis",
+  "labeler": "Parke-Davis Division of Pfizer Inc",
   "package_ndcs": [
     "0071-0155-23",
     "0071-0155-34",
@@ -18,7 +20,13 @@
     "0071-0158-88",
     "0071-0158-92"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "atorvastatin calcium",
+      "name": "Lipitor"
+    }
+  ],
   "setid": "c6e131fe-e7df-4876-83f7-9156fc4e8228",
   "source": "dailymed"
 }

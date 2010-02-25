@@ -1,14 +1,21 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Active liver disease or unexplained persistent elevations of serum transaminases.
+## 4.1 Active liver disease, which may include unexplained persistent elevations in hepatic transaminase levels
 
-Hypersensitivity to any component of this medication.
+## 4.2 Hypersensitivity to any component of this medication
 
-## Pregnancy and Lactation
+## 4.3 Pregnancy
 
+Women who are pregnant or may become pregnant.
+LIPITOR may cause fetal harm when administered to a pregnant woman.
+Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development.
 Atherosclerosis is a chronic process and discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia.
-Cholesterol and other products of cholesterol biosynthesis are essential components for fetal development (including synthesis of steroids and cell membranes).
-Since HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, they may cause fetal harm when administered to pregnant women.
-Therefore, HMG-CoA reductase inhibitors are contraindicated during pregnancy and in nursing mothers.
-ATORVASTATIN SHOULD BE ADMINISTERED TO WOMEN OF CHILDBEARING AGE ONLY WHEN SUCH PATIENTS ARE HIGHLY UNLIKELY TO CONCEIVE AND HAVE BEEN INFORMED OF THE POTENTIAL HAZARDS.
-If the patient becomes pregnant while taking this drug, therapy should be discontinued and the patient apprised of the potential hazard to the fetus.
+There are no adequate and well-controlled studies of LIPITOR use during pregnancy; however in rare reports, congenital anomalies were observed following intrauterine exposure to statins.
+In rat and rabbit animal reproduction studies, atorvastatin revealed no evidence of teratogenicity.
+LIPITOR SHOULD BE ADMINISTERED TO WOMEN OF CHILDBEARING AGE ONLY WHEN SUCH PATIENTS ARE HIGHLY UNLIKELY TO CONCEIVE AND HAVE BEEN INFORMED OF THE POTENTIAL HAZARDS.
+If the patient becomes pregnant while taking this drug, LIPITOR should be discontinued immediately and the patient apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+
+## 4.4 Nursing mothers
+
+It is not known whether atorvastatin is excreted into human milk; however a small amount of another drug in this class does pass into breast milk.
+Because statins have the potential for serious adverse reactions in nursing infants, women who require LIPITOR treatment should not breastfeed their infants [see Use in Specific Populations (8.3)].

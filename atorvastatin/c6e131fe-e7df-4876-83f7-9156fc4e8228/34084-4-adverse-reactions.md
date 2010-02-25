@@ -1,90 +1,85 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-LIPITOR is generally well-tolerated.
-Adverse reactions have usually been mild and transient.
-In controlled clinical studies of 2502 patients, <2% of patients were discontinued due to adverse experiences attributable to atorvastatin.
-The most frequent adverse events thought to be related to atorvastatin were constipation, flatulence, dyspepsia, and abdominal pain.
+The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-## Clinical Adverse Experiences
+Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
 
-Adverse experiences reported in ≥2% of patients in placebo-controlled clinical studies of atorvastatin, regardless of causality assessment, are shown in Table 8.
+Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
-TABLE 8.
-Adverse Events in Placebo-Controlled Studies (% of Patients)
+## 6.1 Clinical Trial Adverse Experiences
 
-| BODY SYSTEM/Adverse Event | Placebo N = 270 | Atorvastatin 10 mg N = 863 | Atorvastatin 20 mg N = 36 | Atorvastatin 40 mg N = 79 | Atorvastatin 80 mg N = 94 |
-| --- | --- | --- | --- | --- | --- |
-| BODY AS A WHOLE |  |  |  |  |  |
-| Infection | 10.0 | 10.3 | 2.8 | 10.1 | 7.4 |
-| Headache | 7.0 | 5.4 | 16.7 | 2.5 | 6.4 |
-| Accidental Injury | 3.7 | 4.2 | 0.0 | 1.3 | 3.2 |
-| Flu Syndrome | 1.9 | 2.2 | 0.0 | 2.5 | 3.2 |
-| Abdominal Pain | 0.7 | 2.8 | 0.0 | 3.8 | 2.1 |
-| Back Pain | 3.0 | 2.8 | 0.0 | 3.8 | 1.1 |
-| Allergic Reaction | 2.6 | 0.9 | 2.8 | 1.3 | 0.0 |
-| Asthenia | 1.9 | 2.2 | 0.0 | 3.8 | 0.0 |
-| DIGESTIVE SYSTEM |  |  |  |  |  |
-| Constipation | 1.8 | 2.1 | 0.0 | 2.5 | 1.1 |
-| Diarrhea | 1.5 | 2.7 | 0.0 | 3.8 | 5.3 |
-| Dyspepsia | 4.1 | 2.3 | 2.8 | 1.3 | 2.1 |
-| Flatulence | 3.3 | 2.1 | 2.8 | 1.3 | 1.1 |
-| RESPIRATORY SYSTEM |  |  |  |  |  |
-| Sinusitis | 2.6 | 2.8 | 0.0 | 2.5 | 6.4 |
-| Pharyngitis | 1.5 | 2.5 | 0.0 | 1.3 | 2.1 |
-| SKIN AND APPENDAGES |  |  |  |  |  |
-| Rash | 0.7 | 3.9 | 2.8 | 3.8 | 1.1 |
-| MUSCULOSKELETAL SYSTEM |  |  |  |  |  |
-| Arthralgia | 1.5 | 2.0 | 0.0 | 5.1 | 0.0 |
-| Myalgia | 1.1 | 3.2 | 5.6 | 1.3 | 0.0 |
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-### Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT)
+In the LIPITOR placebo-controlled clinical trial database of 16,066 patients (8755 LIPITOR vs. 7311 placebo; age range 10–93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on LIPITOR and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
+The five most common adverse reactions in patients treated with LIPITOR that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
 
-In ASCOT (see CLINICAL PHARMACOLOGY, Clinical Studies) involving 10,305 participants treated with LIPITOR 10 mg daily (n=5,168) or placebo (n=5,137), the safety and tolerability profile of the group treated with LIPITOR was comparable to that of the group treated with placebo during a median of 3.3 years of follow-up.
+The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with LIPITOR in placebo controlled trials (n=8755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), and urinary tract infection (5.7%).
 
-### Collaborative Atorvastatin Diabetes Study (CARDS)
+Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with LIPITOR (n=8755), from seventeen placebo-controlled trials.
 
-In CARDS (see CLINICAL PHARMACOLOGY, Clinical Studies) involving 2838 subjects with type 2 diabetes treated with LIPITOR 10 mg daily (n=1428) or placebo (n=1410), there was no difference in the overall frequency of adverse events or serious adverse events between the treatment groups during a median follow-up of 3.9 years.
+Table 2.
+Clinical adverse reactions occurring in ≥ 2% in patents treated with any dose of LIPITOR and at an incidence greater than placebo regardless of causality (% of patients).
+
+| Adverse ReactionAdverse Reaction ≥ 2% in any dose greater than placebo | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nasopharyngitis | 8.3 | 12.9 | 5.3 | 7.0 | 4.2 | 8.2 |
+| Arthralgia | 6.9 | 8.9 | 11.7 | 10.6 | 4.3 | 6.5 |
+| Diarrhea | 6.8 | 7.3 | 6.4 | 14.1 | 5.2 | 6.3 |
+| Pain in extremity | 6.0 | 8.5 | 3.7 | 9.3 | 3.1 | 5.9 |
+| Urinary tract infection | 5.7 | 6.9 | 6.4 | 8.0 | 4.1 | 5.6 |
+| Dyspepsia | 4.7 | 5.9 | 3.2 | 6.0 | 3.3 | 4.3 |
+| Nausea | 4.0 | 3.7 | 3.7 | 7.1 | 3.8 | 3.5 |
+| Musculoskeletal pain | 3.8 | 5.2 | 3.2 | 5.1 | 2.3 | 3.6 |
+| Muscle Spasms | 3.6 | 4.6 | 4.8 | 5.1 | 2.4 | 3.0 |
+| Myalgia | 3.5 | 3.6 | 5.9 | 8.4 | 2.7 | 3.1 |
+| Insomnia | 3.0 | 2.8 | 1.1 | 5.3 | 2.8 | 2.9 |
+| Pharyngolaryngeal pain | 2.3 | 3.9 | 1.6 | 2.8 | 0.7 | 2.1 |
+
+Other adverse reactions reported in placebo-controlled studies include:
+
+Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis; Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling; Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia; Nervous system: nightmare; Respiratory system: epistaxis; Skin and appendages: urticaria; Special senses: vision blurred, tinnitus; Urogenital system: white blood cells urine positive.
+
+Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT)
+
+In ASCOT [see Clinical Studies (14.1)] involving 10,305 participants (age range 40–80 years, 19% women; 94.6% Caucasians, 2.6% Africans, 1.5% South Asians, 1.3% mixed/other) treated with LIPITOR 10 mg daily (n=5,168) or placebo (n=5,137), the safety and tolerability profile of the group treated with LIPITOR was comparable to that of the group treated with placebo during a median of 3.3 years of follow-up.
+
+Collaborative Atorvastatin Diabetes Study (CARDS)
+
+In CARDS [see Clinical Studies (14.1)] involving 2,838 subjects (age range 39–77 years, 32% women; 94.3% Caucasians, 2.4% South Asians, 2.3% Afro-Caribbean, 1.0% other) with type 2 diabetes treated with LIPITOR 10 mg daily (n=1,428) or placebo (n=1,410), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 3.9 years.
 No cases of rhabdomyolysis were reported.
 
-### Treating to New Targets Study (TNT)
+Treating to New Targets Study (TNT)
 
-In TNT (see CLINICAL PHARMACOLOGY, Clinical Studies) involving 10,001 subjects with clinically evident CHD treated with LIPITOR 10 mg daily (n=5006) or LIPITOR 80 mg daily (n=4995), there were more serious adverse events and discontinuations due to adverse events in the high-dose atorvastatin group (92, 1.8%; 497, 9.9%, respectively) as compared to the low-dose group (69, 1.4%; 404, 8.1%, respectively) during a median follow-up of 4.9 years.
+In TNT [see Clinical Studies (14.1)] involving 10,001 subjects (age range 29–78 years, 19% women; 94.1% Caucasians, 2.9% Blacks, 1.0% Asians, 2.0% other) with clinically evident CHD treated with LIPITOR 10 mg daily (n=5006) or LIPITOR 80 mg daily (n=4995), there were more serious adverse reactions and discontinuations due to adverse reactions in the high-dose atorvastatin group (92, 1.8%; 497, 9.9%, respectively) as compared to the low-dose group (69, 1.4%; 404, 8.1%, respectively) during a median follow-up of 4.9 years.
 Persistent transaminase elevations (≥3 × ULN twice within 4–10 days) occurred in 62 (1.3%) individuals with atorvastatin 80 mg and in nine (0.2%) individuals with atorvastatin 10 mg.
 Elevations of CK (≥ 10 × ULN) were low overall, but were higher in the high-dose atorvastatin treatment group (13, 0.3%) compared to the low-dose atorvastatin group (6, 0.1%).
 
-### Incremental Decrease in Endpoints Through Aggressive Lipid Lowering Study (IDEAL)
+Incremental Decrease in Endpoints through Aggressive Lipid Lowering Study (IDEAL)
 
-In IDEAL (see CLINICAL PHARMACOLOGY, Clinical Studies) involving 8,888 subjects treated with LIPITOR 80 mg/day (n=4439) or simvastatin 20–40 mg daily (n=4449), there was no difference in the overall frequency of adverse events or serious adverse events between the treatment groups during a median follow-up of 4.8 years.
+In IDEAL [see Clinical Studies (14.1)] involving 8,888 subjects (age range 26–80 years, 19% women; 99.3% Caucasians, 0.4% Asians, 0.3% Blacks, 0.04% other) treated with LIPITOR 80 mg/day (n=4439) or simvastatin 20–40 mg daily (n=4449), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 4.8 years.
 
-The following adverse events were reported, regardless of causality assessment in patients treated with atorvastatin in clinical trials.
-The events in italics occurred in ≥2% of patients and the events in plain type occurred in <2% of patients.
+Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL)
 
-Body as a Whole: Chest pain, face edema, fever, neck rigidity, malaise, photosensitivity reaction, generalized edema.
+In SPARCL involving 4731 subjects (age range 21–92 years, 40% women; 93.3% Caucasians, 3.0% Blacks, 0.6% Asians, 3.1% other) without clinically evident CHD but with a stroke or transient ischemic attack (TIA) within the previous 6 months treated with LIPITOR 80 mg (n=2365) or placebo (n=2366) for a median follow-up of 4.9 years, there was a higher incidence of persistent hepatic transaminase elevations (≥ 3 × ULN twice within 4–10 days) in the atorvastatin group (0.9%) compared to placebo (0.1%).
+Elevations of CK (>10 × ULN) were rare, but were higher in the atorvastatin group (0.1%) compared to placebo (0.0%).
+Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group [see Warnings and Precautions (5.5)].
 
-Digestive System: Nausea, gastroenteritis, liver function tests abnormal, colitis, vomiting, gastritis, dry mouth, rectal hemorrhage, esophagitis, eructation, glossitis, mouth ulceration, anorexia, increased appetite, stomatitis, biliary pain, cheilitis, duodenal ulcer, dysphagia, enteritis, melena, gum hemorrhage, stomach ulcer, tenesmus, ulcerative stomatitis, hepatitis, pancreatitis, cholestatic jaundice.
+In a post-hoc analysis, LIPITOR 80 mg reduced the incidence of ischemic stroke (218/2365, 9.2% vs. 274/2366, 11.6%) and increased the incidence of hemorrhagic stroke (55/2365, 2.3% vs. 33/2366, 1.4%) compared to placebo.
+The incidence of fatal hemorrhagic stroke was similar between groups (17 LIPITOR vs. 18 placebo).
+The incidence of non-fatal hemorrhagic strokes was significantly greater in the atorvastatin group (38 non-fatal hemorrhagic strokes) as compared to the placebo group (16 non-fatal hemorrhagic strokes).
+Subjects who entered the study with a hemorrhagic stroke appeared to be at increased risk for hemorrhagic stroke [7 (16%) LIPITOR vs. 2 (4%) placebo].
 
-Respiratory System: Bronchitis, rhinitis, pneumonia, dyspnea, asthma, epistaxis.
+There were no significant differences between the treatment groups for all-cause mortality: 216 (9.1%) in the LIPITOR 80 mg/day group vs. 211 (8.9%) in the placebo group.
+The proportions of subjects who experienced cardiovascular death were numerically smaller in the LIPITOR 80 mg group (3.3%) than in the placebo group (4.1%).
+The proportions of subjects who experienced non-cardiovascular death were numerically larger in the LIPITOR 80 mg group (5.0%) than in the placebo group (4.0%).
 
-Nervous System: Insomnia, dizziness, paresthesia, somnolence, amnesia, abnormal dreams, libido decreased, emotional lability, incoordination, peripheral neuropathy, torticollis, facial paralysis, hyperkinesia, depression, hypesthesia, hypertonia.
+## 6.2 Postmarketing Experience
 
-Musculoskeletal System: Arthritis, leg cramps, bursitis, tenosynovitis, myasthenia, tendinous contracture, myositis.
+The following adverse reactions have been identified during postapproval use of LIPITOR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin and Appendages: Pruritus, contact dermatitis, alopecia, dry skin, sweating, acne, urticaria, eczema, seborrhea, skin ulcer.
+Adverse reactions associated with LIPITOR therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, fatigue, tendon rupture, hepatic failure, dizziness, memory impairment, depression, and peripheral neuropathy.
 
-Urogenital System: Urinary tract infection, hematuria, albuminuria, urinary frequency, cystitis, impotence, dysuria, kidney calculus, nocturia, epididymitis, fibrocystic breast, vaginal hemorrhage, breast enlargement, metrorrhagia, nephritis, urinary incontinence, urinary retention, urinary urgency, abnormal ejaculation, uterine hemorrhage.
+## 6.3 Pediatric Patients (ages 10–17 years)
 
-Special Senses: Amblyopia, tinnitus, dry eyes, refraction disorder, eye hemorrhage, deafness, glaucoma, parosmia, taste loss, taste perversion.
-
-Cardiovascular System: Palpitation, vasodilatation, syncope, migraine, postural hypotension, phlebitis, arrhythmia, angina pectoris, hypertension.
-
-Metabolic and Nutritional Disorders: Peripheral edema, hyperglycemia, creatine phosphokinase increased, gout, weight gain, hypoglycemia.
-
-Hemic and Lymphatic System: Ecchymosis, anemia, lymphadenopathy, thrombocytopenia, petechia.
-
-## Postintroduction Reports
-
-Adverse events associated with LIPITOR therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, fatigue, tendon rupture, and hepatic failure.
-
-## Pediatric Patients (ages 10–17 years)
-
-In a 26-week controlled study in boys and postmenarchal girls (n=140), the safety and tolerability profile of LIPITOR 10 to 20 mg daily was generally similar to that of placebo (see CLINICAL PHARMACOLOGY, Clinical Studies section and PRECAUTIONS, Pediatric Use).
+In a 26-week controlled study in boys and postmenarchal girls (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of LIPITOR 10 to 20 mg daily was generally similar to that of placebo [see Clinical Studies (14.6) and Use in Special Populations, Pediatric Use (8.4)].
