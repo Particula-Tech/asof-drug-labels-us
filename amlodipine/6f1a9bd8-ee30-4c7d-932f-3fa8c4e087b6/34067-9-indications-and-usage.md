@@ -17,7 +17,7 @@ AND
 
 Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Drug therapy is recommended as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
-In patients with CHD or multiple risk factors for CHD, the atorvastatin component of CADUET can be started simultaneously with diet.
+In patients with CHD or multiple risk factors for CHD, the atorvastatin component of CADUET can be started simultaneously with diet restriction.
 
 - 1.Prevention of Cardiovascular Disease: In adult patients without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as age, smoking, hypertension, low HDL-C, or a family history of early coronary heart disease, atorvastatin is indicated to: In patients with type 2 diabetes, and without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as retinopathy, albuminuria, smoking, or hypertension, LIPITOR is indicated to: In patients with clinically evident coronary heart disease, LIPITOR is indicated to:
   - Reduce the risk of myocardial infarction

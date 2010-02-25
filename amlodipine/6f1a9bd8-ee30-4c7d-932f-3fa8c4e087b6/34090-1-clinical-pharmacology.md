@@ -4,18 +4,17 @@
 
 ### CADUET
 
-CADUET is a combination of two drugs, a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) amlodipine (antihypertensive/antianginal agent) and an HMG-CoA reductase inhibitor atorvastatin (cholesterol lowering agent).
+CADUET is a combination of two drugs, a dihydropyridine calcium channel blocker amlodipine and an HMG-CoA reductase inhibitor atorvastatin.
 The amlodipine component of CADUET inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle.
 The atorvastatin component of CADUET is a selective, competitive inhibitor of HMG-CoA reductase (statin), the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol.
 
-### The Amlodipine Component of CADUET
+### Amlodipine
 
 Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites.
 The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels.
 Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells.
 Negative inotropic effects can be detected in vitro but such effects have not been seen in intact animals at therapeutic doses.
 Serum calcium concentration is not affected by amlodipine.
-Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.
 
 Amlodipine is a peripheral arterial vasodilator that acts directly on vascular smooth muscle to cause a reduction in peripheral vascular resistance and reduction in blood pressure.
 
@@ -26,7 +25,7 @@ Exertional Angina: In patients with exertional angina, amlodipine reduces the to
 Vasospastic Angina: Amlodipine has been demonstrated to block constriction and restore blood flow in coronary arteries and arterioles in response to calcium, potassium epinephrine, serotonin, and thromboxane A2 analog in experimental animal models and in human coronary vessels in vitro.
 This inhibition of coronary spasm is responsible for the effectiveness of amlodipine in vasospastic (Prinzmetal's or variant) angina.
 
-### The Atorvastatin Component of CADUET
+### Atorvastatin
 
 Cholesterol and triglycerides circulate in the bloodstream as part of lipoprotein complexes.
 With ultracentrifugation, these complexes separate into HDL (high-density lipoprotein), IDL (intermediate-density lipoprotein), LDL (low-density lipoprotein), and VLDL (very-low-density lipoprotein) fractions.
@@ -57,7 +56,6 @@ Furthermore, the independent effect of raising HDL or lowering TG on the risk of
 
 After oral administration of therapeutic doses of amlodipine alone, absorption produces peak plasma concentrations between 6 and 12 hours.
 Absolute bioavailability has been estimated to be between 64% and 90%.
-The bioavailability of amlodipine when administered alone is not altered by the presence of food.
 
 #### Studies with atorvastatin
 
@@ -65,7 +63,6 @@ After oral administration alone, atorvastatin is rapidly absorbed; maximum plasm
 Extent of absorption increases in proportion to atorvastatin dose.
 The absolute bioavailability of atorvastatin (parent drug) is approximately 14% and the systemic availability of HMG-CoA reductase inhibitory activity is approximately 30%.
 The low systemic availability is attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism.
-Although food decreases the rate and extent of drug absorption by approximately 25% and 9%, respectively, as assessed by Cmax and AUC, LDL-C reduction is similar whether atorvastatin is given with or without food.
 Plasma atorvastatin concentrations are lower (approximately 30% for Cmax and AUC) following evening drug administration compared with morning.
 However, LDL-C reduction is the same regardless of the time of day of drug administration (see DOSAGE AND ADMINISTRATION).
 
@@ -75,7 +72,7 @@ Following oral administration of CADUET peak plasma concentrations of amlodipine
 The rate and extent of absorption (bioavailability) of amlodipine and atorvastatin from CADUET are not significantly different from the bioavailability of amlodipine and atorvastatin administered separately (see above).
 
 The bioavailability of amlodipine from CADUET was not affected by food.
-Although food decreases the rate and extent of absorption of atorvastatin from CADUET by approximately 32% and 11%, respectively, as it does with atorvastatin when given alone.
+Food decreases the rate and extent of absorption of atorvastatin from CADUET by approximately 32% and 11%, respectively, as it does with atorvastatin when given alone.
 LDL-C reduction is similar whether atorvastatin is given with or without food.
 
 ### Distribution
@@ -162,13 +159,15 @@ Renal disease has no influence on the plasma concentrations or LDL-C reduction o
 
 ### Hemodialysis
 
-While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to significantly enhance clearance of atorvastatin and/or amlodipine since both drugs are extensively bound to plasma proteins.
+While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to clear atorvastatin or amlodipine since both drugs are extensively bound to plasma proteins.
 
 ### Hepatic Impairment
 
+Atorvastatin is contraindicated in patients with active liver disease.
+
 #### Studies with amlodipine
 
-Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose may be required.
+Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%.
 
 #### Studies with atorvastatin
 
@@ -190,12 +189,12 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 |  | Dose (mg) | Change in AUCData given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change). | Change in Cmax |
 | --- | --- | --- | --- |
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
-| See WARNINGS, Skeletal Muscle and PRECAUTIONS, Drug Interactions for clinical significance. Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 8.7 fold | ↑10.7 fold |
-| Lopinavir 400 mg BID/ ritonavir 100 mg BID, 14 days | 20 mg QD for 4 days | ↑ 5.9 fold | ↑ 4.7 fold |
-| Ritonavir 400 mg BID/ saquinavir 400mg BID, 15 days | 40 mg QD for 4 days | ↑ 3.9 fold | ↑ 4.3 fold |
-| Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | ↑ 4.4 fold | ↑ 5.4 fold |
-| Itraconazole 200 mg QD, 4 days | 40 mg SD | ↑ 3.3 fold | ↑ 20% |
-| Grapefruit Juice, 240 mL QD Greater increases in AUC (up to 2.5 fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL – 1.2 liters per day). | 40 mg, SD | ↑ 37% | ↑ 16% |
+| See WARNINGS, Skeletal Muscle and PRECAUTIONS, Drug Interactions for clinical significance. Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 8.7-fold | ↑10.7-fold |
+| Lopinavir 400 mg BID/ ritonavir 100 mg BID, 14 days | 20 mg QD for 4 days | ↑ 5.9-fold | ↑ 4.7-fold |
+| Ritonavir 400 mg BID/ saquinavir 400mg BID, 15 days | 40 mg QD for 4 days | ↑ 3.9-fold | ↑ 4.3-fold |
+| Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | ↑ 4.4-fold | ↑ 5.4-fold |
+| Itraconazole 200 mg QD, 4 days | 40 mg SD | ↑ 3.3-fold | ↑ 20% |
+| Grapefruit Juice, 240 mL QD Greater increases in AUC (up to 2.5-fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL – 1.2 liters per day). | 40 mg, SD | ↑ 37% | ↑ 16% |
 | Diltiazem 240 mg QD, 28 days | 40 mg, SD | ↑ 51% | No change |
 | Erythromycin 500 mg QID, 7 days | 10 mg, SD | ↑ 33% | ↑ 38% |
 | Amlodipine 10 mg, single dose | 80 mg, SD | ↑ 15% | ↓ 12 % |
@@ -203,7 +202,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Colestipol 10 mg BID, 28 weeks | 40 mg QD for 28 weeks | Not determined | ↓ 26%Single sample taken 8-16 h post dose. |
 | Maalox TC® 30 mL QD, 17 days | 10 mg QD for 15 days | ↓ 33% | ↓ 34% |
 | Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | ↓ 41% | ↓ 1% |
-| Rifampin 600 mg QD, 7 days (co-administered) Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. | 40 mg SD | ↑ 30% | ↑ 2.7 fold |
+| Rifampin 600 mg QD, 7 days (co-administered) Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. | 40 mg SD | ↑ 30% | ↑ 2.7-fold |
 | Rifampin 600 mg QD, 5 days (doses separated) | 40 mg SD | ↓ 80% | ↓ 40% |
 | Gemfibrozil 600mg BID, 7 days | 40mg SD | ↑ 35% | ↓ Less than 1% |
 | Fenofibrate 160mg QD, 7 days | 40mg SD | ↑ 3% | ↑ 2% |
@@ -312,7 +311,7 @@ In a angiographic substudy (n=274) conducted within CAMELOT, there was no signif
 | Figure 2 – Effects on primary endpoint of amlodipine versus placebo across sub-groups |
 | --- |
 
-Table 4 below summarizes the significant clinical outcomes from the composites of the primary endpoint.
+Table 4 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
 The other components of the primary endpoint including cardiovascular death, resuscitated cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease did not demonstrate a significant difference between amlodipine and placebo.
 
 Table 4.

@@ -55,7 +55,7 @@ Management of patients needing a 2.5/80 mg combination requires individual asses
 ### Concomitant Lipid Lowering Therapy
 
 Atorvastatin may be used with bile acid resins.
-The combination of statins and fibrates should generally be used with caution (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions).
+Monitor for signs of myopathy in patients receiving the combination of statins and fibrates (see WARNINGS, Skeletal Muscle, and PRECAUTIONS, Drug Interactions).
 
 ### Dosage in Patients With Renal Impairment
 

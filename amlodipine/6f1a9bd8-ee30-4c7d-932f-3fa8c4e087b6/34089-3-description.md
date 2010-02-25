@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-CADUET® (amlodipine besylate and atorvastatin calcium) tablets combine the long-acting calcium channel blocker amlodipine besylate with the synthetic lipid-lowering agent atorvastatin calcium.
+CADUET® (amlodipine besylate and atorvastatin calcium) tablets combine the calcium channel blocker amlodipine besylate with the lipid-lowering agent atorvastatin calcium.
 
-The amlodipine besylate component of CADUET is chemically described as 3-Ethyl-5-methyl (±)-2-[(2-aminoethoxy)methyl]-4-(o-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylate, monobenzenesulphonate.
+The amlodipine besylate component of CADUET is chemically described as 3-ethyl-5-methyl (±)-2-[(2-aminoethoxy)methyl]-4-(o-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylate, monobenzenesulphonate.
 Its empirical formula is C20H25ClN2O5•C6H6O3S.
 
 The atorvastatin calcium component of CADUET is chemically described as [R-(R*, R*)]-2-(4-fluorophenyl)-β, δ-dihydroxy-5-(1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl]-1H-pyrrole-1-heptanoic acid, calcium salt (2:1) trihydrate.

@@ -1,10 +1,5 @@
 # WARNINGS
 
-## Increased Angina and/or Myocardial Infarction
-
-Rarely, patients, particularly those with severe obstructive coronary artery disease, have developed documented increased frequency, duration and/or severity of angina or acute myocardial infarction on starting calcium channel blocker therapy or at the time of dosage increase.
-The mechanism of this effect has not been elucidated.
-
 ## Skeletal Muscle
 
 Rare cases of rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with the atorvastatin component of CADUET and with other statins.
@@ -14,7 +9,7 @@ Such patients merit closer monitoring for skeletal muscle effects.
 The atorvastatin component of CADUET, like other statins, occasionally causes myopathy, defined as muscle aches or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values >10 times ULN.
 The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong CYP3A4 inhibitors (e.g., clarithromycin, itraconazole and HIV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
 
-Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
+Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, or marked elevation of CPK.
 Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
 CADUET therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 
@@ -51,24 +46,18 @@ Liver enzyme changes generally occur in the first 3 months of treatment with the
 Patients who develop increased transaminase levels should be monitored until the abnormalities resolve.
 Should an increase in ALT or AST of >3 times ULN persist, reduction of dose or withdrawal of CADUET is recommended.
 
-CADUET should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of liver disease.
 Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of CADUET (see CONTRAINDICATIONS).
+
+## Increased Angina and/or Myocardial Infarction
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease.
 
 # PRECAUTIONS
 
-## General
+## Hypotension
 
-Since the vasodilation induced by the amlodipine component of CADUET is gradual in onset, acute hypotension has rarely been reported after oral administration of amlodipine.
-Nonetheless, caution should be exercised when administering CADUET as with any other peripheral vasodilator particularly in patients with severe aortic stenosis.
-
-## Use in Patients with Congestive Heart Failure
-
-In general, calcium channel blockers should be used with caution in patients with heart failure.
-The amlodipine component of CADUET (5–10 mg per day) has been studied in a placebo-controlled trial of 1153 patients with NYHA Class III or IV heart failure (see CLINICAL PHARMACOLOGY) on stable doses of ACE inhibitor, digoxin, and diuretics.
-Follow-up was at least 6 months, with a mean of about 14 months.
-There was no overall adverse effect on survival or cardiac morbidity (as defined by life-threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure).
-Amlodipine has been compared to placebo in four 8–12 week studies of patients with NYHA class II/III heart failure, involving a total of 697 patients.
-In these studies, there was no evidence of worsened heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or LVEF.
+Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis.
+Because of the gradual onset of action, acute hypotension is unlikely.
 
 ## Beta-Blocker Withdrawal
 
@@ -80,7 +69,7 @@ Statins, such as the atorvastatin component of CADUET interfere with cholesterol
 Clinical studies have shown that atorvastatin does not reduce basal plasma cortisol concentration or impair adrenal reserve.
 The effects of statins on male fertility have not been studied in adequate numbers of patients.
 The effects, if any, on the pituitary-gonadal axis in premenopausal women are unknown.
-Caution should be exercised if a statin is administered concomitantly with drugs that may decrease the levels or activity of endogenous steroid hormones, such as ketoconazole, spironolactone, and cimetidine.
+Use caution when administering a statin with drugs that may decrease the levels or activity of endogenous steroid hormones, such as ketoconazole, spironolactone, and cimetidine.
 
 ## CNS Toxicity
 
@@ -93,7 +82,7 @@ A single tonic convulsion was seen in each of 2 male dogs (one treated with ator
 No CNS lesions have been observed in mice after chronic treatment for up to 2 years at doses of atorvastatin calcium equivalent to up to 400 mg atorvastatin/kg/day or in rats at doses equivalent to up to 100 mg atorvastatin/kg/day.
 These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0–24) based on the maximum recommended human dose of 80 mg atorvastatin/day.
 
-CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with other members of the statins class.
+CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with other statins.
 A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
 
 ## Use in Patients with Recent Stroke or TIA
@@ -144,11 +133,11 @@ Concomitant administration of atorvastatin with strong inhibitors of CYP 3A4 can
 The extent of interaction and potentiation of effects depends on the variability of effect on CYP 3A4.
 
 - Clarithromycin: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 80 mg with clarithromycin (500 mg twice daily) compared to that of atorvastatin alone (see CLINICAL PHARMACOLOGY).
-  Therefore, in patients taking clarithromycin, caution should be used when the atorvastatin dose exceeds 20 mg (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
+  Therefore, in patients taking clarithromycin, use caution when administering atorvastatin doses > 20 mg (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
 - Combination of Protease Inhibitors: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg with ritonavir plus saquinavir (400 mg twice daily) or atorvastatin 20 mg with lopinavir plus ritonavir (400 mg + 100 mg twice daily) compared to that of atorvastatin alone (see CLINICAL PHARMACOLOGY).
-  Therefore, in patients taking HIV protease inhibitors, caution should be used when the atorvastatin dose exceeds 20 mg (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
+  Therefore, in patients taking HIV protease inhibitors, use caution when administering atorvastatin doses ≥20 mg (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
 - Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg (see CLINICAL PHARMACOLOGY).
-  Therefore, in patients taking itraconazole, cautions should be used when the atorvastatin dose exceeds 20 mg (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
+  Therefore, in patients taking itraconazole, use caution when administering atorvastatin doses ≥20 mg (see WARNINGS, Skeletal Muscle, and DOSAGE AND ADMINISTRATION).
 
 Grapefruit juice: Contains one or more components that inhibit CYP 3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (>1.2 liters per day).
 
@@ -293,4 +282,4 @@ Elderly patients have decreased clearance of amlodipine with a resulting increas
 
 Of the 39,828 patients who received LIPITOR in clinical studies, 15,813 (40%) were ≥65 years old and 2,800 (7%) were ≥75 years old.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older adults cannot be ruled out.
-Since advanced age (≥65 years) is a predisposing factor for myopathy, the atorvastatin component of CADUET should be prescribed with caution in the elderly.
+Advanced age (≥65 years) is a predisposing factor for myopathy.
