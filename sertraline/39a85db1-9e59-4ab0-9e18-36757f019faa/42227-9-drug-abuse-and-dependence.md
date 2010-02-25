@@ -4,7 +4,7 @@
 
 Sertraline hydrochloride is not a controlled substance.
 
-### Physical and Psychological Dependence
+## Physical and Psychological Dependence
 
 In a placebo-controlled, double-blind, randomized study of the comparative abuse liability of sertraline hydrochloride tablets, alprazolam, and d-amphetamine in humans, sertraline hydrochloride tablets did not produce the positive subjective effects indicative of abuse potential, such as euphoria or drug liking, that were observed with the other two drugs.
 Premarketing clinical experience with sertraline hydrochloride tablets did not reveal any tendency for a withdrawal syndrome or any drug-seeking behavior.

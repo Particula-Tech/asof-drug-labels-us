@@ -14,15 +14,14 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 ## Incidence in Placebo-Controlled Trials
 
-Table 2 enumerates the most common treatment-emergent adverse events associated with the use of sertraline hydrochloride tablets (incidence of at least 5% for sertraline hydrochloride tablets and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other*, in placebo-controlled clinical trials.
-Most patients in major depressive disorder/other* studies received doses of 50 to 200 mg/day.
+Table 2 enumerates the most common treatment-emergent adverse events associated with the use of sertraline hydrochloride tablets (incidence of at least 5% for sertraline hydrochloride tablets and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other * , in placebo-controlled clinical trials.
+Most patients in major depressive disorder/other * studies received doses of 50 to 200 mg/day.
 
 TABLE 2 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS
 
-| Body System/Adverse Event | Sertraline Hydrochloride Tablets (N=861) | Placebo (N=853) |
+| Sertraline Hydrochloride Tablets (N=861) | Placebo (N=853) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Event |  |
-| Major Depressive Disorder/Other* |  |  |
+| Body System/Adverse Event | Percentage of Patients Reporting Event Major Depressive Disorder/Other* |  |
 | Autonomic Nervous System Disorders |  |  |
 | Ejaculation Failure (1) | 7 | <1 |
 | Mouth Dry | 16 | 9 |
@@ -50,7 +49,7 @@ TABLE 2 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONT
 
 ## Associated with Discontinuation in Placebo-Controlled Clinical Trials
 
-Table 3 lists the adverse events associated with discontinuation of sertraline hydrochloride treatment (incidence at least twice that for placebo and at least 1% for sertraline hydrochloride tablets in clinical trials) in major depressive disorder/other*.
+Table 3 lists the adverse events associated with discontinuation of sertraline hydrochloride treatment (incidence at least twice that for placebo and at least 1% for sertraline hydrochloride tablets in clinical trials) in major depressive disorder/other * .
 
 TABLE 3 MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN PLACEBO-CONTROLLED CLINICAL TRIALS
 
@@ -89,8 +88,9 @@ TABLE 4
 | --- | --- | --- |
 | Ejaculation failure* (primarily delayed ejaculation) | 14% | 1% |
 | Decreased libido** | 6% | 1% |
+| * Denominator used was for male patients only (N=1118 Sertraline hydrochloride tablets; N=926 placebo) **Denominator used was for male and female patients (N=2799 Sertraline hydrochloride tablets; N=2394 placebo) |  |  |
 
-* Denominator used was for male patients only (N=1118 Sertraline hydrochloride tablets; N=926 placebo) ** Denominator used was for male and female patients (N=2799 Sertraline hydrochloride tablets; N=2394 placebo) There are no adequate and well-controlled studies examining sexual dysfunction with sertraline treatment.
+There are no adequate and well-controlled studies examining sexual dysfunction with sertraline treatment.
 Priapism has been reported with all SSRIs.
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
 
@@ -109,7 +109,7 @@ It is important to emphasize that although the events reported occurred during t
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 Events of major clinical importance are also described in the PRECAUTIONS section.
 Autonomic Nervous System Disorders– Frequent: impotence; Infrequent: flushing, increased saliva, cold clammy skin, mydriasis; Rare: pallor, glaucoma, priapism, vasodilation.
-Body as a Whole–General Disorders– Rare: allergic reaction, allergy.
+Body as a Whole– General Disorders– Rare: allergic reaction, allergy.
 Cardiovascular– Frequent: palpitations, chest pain; Infrequent : hypertension, tachycardia, postural dizziness, postural hypotension, periorbital edema, peripheral edema, hypotension, peripheral ischemia, syncope, edema, dependent edema; Rare: precordial chest pain, substernal chest pain, aggravated hypertension, myocardial infarction, cerebrovascular disorder.
 Central and Peripheral Nervous System Disorders– Frequent: hypertonia, hypoesthesia; Infrequent: twitching, confusion, hyperkinesia, vertigo, ataxia, migraine, abnormal coordination, hyperesthesia, leg cramps, abnormal gait, nystagmus, hypokinesia; Rare: dysphonia, coma, dyskinesia, hypotonia, ptosis, choreoathetosis, hyporeflexia.
 Disorders of Skin and Appendages– lnfrequent: pruritus, acne, urticaria, alopecia, dry skin, erythematous rash, photosensitivity reaction, maculopapular rash; Rare: follicular rash, eczema, dermatitis, contact dermatitis, bullous eruption, hypertrichosis, skin discoloration, pustular rash.

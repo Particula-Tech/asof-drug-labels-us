@@ -1,6 +1,6 @@
-## Medication Guide Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+# Medication Guide
 
-Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
+Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your, or your family member’s, healthcare provider about:
 
@@ -54,9 +54,8 @@ What else do I need to know about antidepressant medicines?
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
 Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2009

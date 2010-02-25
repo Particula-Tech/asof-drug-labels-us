@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077206"
+  ],
   "inn": "sertraline",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
@@ -28,7 +30,13 @@
     "65862-013-90",
     "65862-013-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sertraline hydrochloride",
+      "name": "Sertraline Hydrochloride"
+    }
+  ],
   "setid": "39a85db1-9e59-4ab0-9e18-36757f019faa",
   "source": "dailymed"
 }

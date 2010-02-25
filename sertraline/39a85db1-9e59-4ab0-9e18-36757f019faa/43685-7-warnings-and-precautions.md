@@ -7,7 +7,6 @@ Suicide is a known risk of depression and certain other psychiatric disorders, a
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
-
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
@@ -24,23 +23,17 @@ Table 1
 | 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| >65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
-
 It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
-
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
-
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Sertraline Hydrochloride Tablets, for a description of the risks of discontinuation of sertraline hydrochloride tablets).
-
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Sertraline Hydrochloride Tablets , for a description of the risks of discontinuation of sertraline hydrochloride tablets).
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for sertraline hydrochloride should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
@@ -52,14 +45,12 @@ It is generally believed (though not established in controlled trials) that trea
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that sertraline hydrochloride is not approved for use in treating bipolar depression.
-
 Cases of serious sometimes fatal reactions have been reported in patients receiving sertraline hydrochloride tablets, a selective serotonin reuptake inhibitor (SSRI), in combination with a monoamine oxidase inhibitor (MAOI).
 Symptoms of a drug interaction between an SSRI and an MAOI include: hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes that include confusion, irritability, and extreme agitation progressing to delirium and coma.
 These reactions have also been reported in patients who have recently discontinued an SSRI and have been started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 Therefore, sertraline hydrochloride tablets should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
 Similarly, at least 14 days should be allowed after stopping sertraline hydrochloride tablets before starting an MAOI.
-
 The concomitant use of sertraline hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS - Potential for Interaction with Monoamine Oxidase Inhibitors.)
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
@@ -68,13 +59,9 @@ The development of a potentially life-threatening serotonin syndrome or Neurolep
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
-
 The concomitant use of sertraline hydrochloride tablets with MAOIs intended to treat depression is contraindicated.
-
 If concomitant treatment of sertraline hydrochloride tablets with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
 The concomitant use of sertraline hydrochloride tablets with serotonin precursors (such as tryptophan) is not recommended.
-
 Treatment with sertraline hydrochloride tablets and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
@@ -101,12 +88,12 @@ Accordingly, sertraline should be introduced with care in patients with a seizur
 
 ### Discontinuation of Treatment with Sertraline Hydrochloride Tablets
 
-During marketing of sertraline hydrochloride tablets and other SSRIs and SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
+During marketing of sertraline hydrochloride tablets and other SSRIs and SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g. paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 Patients should be monitored for these symptoms when discontinuing treatment with sertraline hydrochloride tablets.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION ).
+Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION).
 
 ### Abnormal Bleeding
 
@@ -152,7 +139,6 @@ Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
 Discontinuation of sertraline hydrochloride tablets should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
-
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
@@ -168,7 +154,6 @@ A patient Medication Guide about “Antidepressant Medicines, Depression and oth
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
-
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking sertraline hydrochloride.
 
 ### Clinical Worsening and Suicide Risk
@@ -177,21 +162,14 @@ Patients, their families, and their caregivers should be encouraged to be alert 
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
-
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SNRIs and SSRIs, including sertraline hydrochloride, and triptans, tramadol, or other serotonergic agents.
-
 Patients should be told that although sertraline hydrochloride tablets have not been shown to impair the ability of normal subjects to perform tasks requiring complex motor and mental skills in laboratory experiments, drugs that act upon the central nervous system may affect some individuals adversely.
 Therefore, patients should be told that until they learn how they respond to sertraline hydrochloride tablets they should be careful doing activities when they need to be alert, such as driving a car or operating machinery.
-
 Patients should be cautioned about the concomitant use of sertraline hydrochloride tablets and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
-
 Patients should be told that although sertraline hydrochloride tablets have not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of sertraline hydrochloride tablets and alcohol is not advised.
-
 Patients should be told that while no adverse interaction of sertraline hydrochloride tablets with over-the-counter (OTC) drug products is known to occur, the potential for interaction exists.
 Thus, the use of any OTC product should be initiated cautiously according to the directions of use given for the OTC product.
-
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-
 Patients should be advised to notify their physician if they are breast feeding an infant.
 
 ## Laboratory Tests
@@ -204,18 +182,17 @@ None.
 
 Because sertraline is tightly bound to plasma protein, the administration of sertraline hydrochloride to a patient taking another drug which is tightly bound to protein (e.g., warfarin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect.
 Conversely, adverse effects may result from displacement of protein bound sertraline hydrochloride tablets by other tightly bound drugs.
-
 In a study comparing prothrombin time AUC (0 to 120 hr) following dosing with warfarin (0.75 mg/kg) before and after 21 days of dosing with either sertraline hydrochloride tablets (50 to 200 mg/day) or placebo, there was a mean increase in prothrombin time of 8% relative to baseline for sertraline hydrochloride tablets compared to a 1% decrease for placebo (p<0.02).
 The normalization of prothrombin time for the sertraline hydrochloride tablets group was delayed compared to the placebo group.
 The clinical significance of this change is unknown.
 Accordingly, prothrombin time should be carefully monitored when sertraline hydrochloride tablets therapy is initiated or stopped.
 
-#### Cimetidine
+### Cimetidine
 
 In a study assessing disposition of sertraline hydrochloride tablets (100 mg) on the second of 8 days of cimetidine administration (800 mg daily), there were significant increases in sertraline hydrochloride tablets mean AUC (50%), C max (24%) and half-life (26%) compared to the placebo group.
 The clinical significance of these changes is unknown.
 
-#### CNS Active Drugs
+### CNS Active Drugs
 
 In a study comparing the disposition of intravenously administered diazepam before and after 21 days of dosing with either sertraline hydrochloride tablets (50 to 200 mg/day escalating dose) or placebo, there was a 32% decrease relative to baseline in diazepam clearance for the sertraline hydrochloride tablets group compared to a 19% decrease relative to baseline for the placebo group (p<0.03).
 There was a 23% increase in T max for desmethyldiazepam in the sertraline hydrochloride tablets group compared to a 20% decrease in the placebo group (p<0.03).
@@ -258,13 +235,13 @@ Furthermore, whenever sertraline hydrochloride tablets are withdrawn from co-the
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including sertraline hydrochloride, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including sertraline hydrochloride, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
-The concomitant use of sertraline hydrochloride with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions).
+Based on the mechanism of action of SNRIs and SSRIs, including sertraline hydrochloride, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including sertraline hydrochloride, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS- Serotonin Syndrome ).
+The concomitant use of sertraline hydrochloride with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions ).
 
 ### Triptans
 
 There have been rare post marketing reports of serotonin syndrome with use of an SNRI or an SSRI and a triptan.
-If concomitant treatment of SNRIs and SSRIs, including sertraline hydrochloride, with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome).
+If concomitant treatment of SNRIs and SSRIs, including sertraline hydrochloride, with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome ) .
 
 ### Sumatriptan
 
@@ -340,7 +317,7 @@ When pregnant rats and rabbits were given sertraline during the period of organo
 When female rats received sertraline during the last third of gestation and throughout lactation, there was an increase in the number of stillborn pups and in the number of pups dying during the first 4 days after birth.
 Pup body weights were also decreased during the first four days after birth.
 These effects occurred at a dose of 20 mg/kg (1 times the MRHD on a mg/m 2 basis).
-The no effect dose for rat pup mortality was 10 mg/kg (0.5 times the MRHD on a mg/ m 2 basis).
+The no effect dose for rat pup mortality was 10 mg/kg (0.5 times the MRHD on a mg/m 2 basis).
 The decrease in pup survival was shown to be due to in utero exposure to sertraline.
 The clinical significance of these effects is unknown.
 There are no adequate and well-controlled studies in pregnant women.
@@ -356,7 +333,7 @@ These features are consistent with either a direct toxic effect of SSRIs and SNR
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS ).
 Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1-2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately sixfold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
+In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20 th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
 There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
 The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
 When treating a pregnant woman with sertraline hydrochloride tablets during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION ).
@@ -387,8 +364,7 @@ There was a bigger difference between sertraline and placebo in the proportion o
 For children, about 7% had a weight loss >7% of body weight compared to none of the placebo patients: for adolescents, about 2% had a weight loss >7% of body weight compared of about 1% of placebo patients.
 A subset of these patients who completed the randomized controlled trials (sertraline N=99, placebo N=122) were continued into a 24-week, flexible-dose, open-label, extension study.
 A mean weight loss of approximately 0.5 kg was seen during the first eight weeks of treatment for subjects with first exposure to sertraline during the open-label extension study, similar to the mean weight loss observed among sertraline treated subjects during the first eight weeks of the randomized controlled trials.
-The subjects continuing in the open label study began gaining weight compared to baseline by week 12 of sertraline treatment.
-Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo controlled trial + 24 weeks open label, N=68), had weight gain that was similar to that expected using data from age-adjusted peers.
+The subjects continuing in the open label study began gaining weight compared to baseline by week 12 of sertraline treatment.Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo controlled trial + 24 weeks open label, N=68), had weight gain that was similar to that expected using data from age-adjusted peers.
 Regular monitoring of weight and growth is recommended if treatment of a pediatric patient with an SSRI is to be continued long term.
 Safety and effectiveness in pediatric patients with major depressive disorder have not been established.
 The risks, if any, that may be associated with sertraline’s use beyond 1 year in children and adolescents have not been systematically assessed.
@@ -406,5 +382,4 @@ No overall differences in the pattern of efficacy were observed in the geriatric
 Other Adverse Events in Geriatric Patients.
 In 354 geriatric subjects treated with sertraline hydrochloride tablets in placebo-controlled trials, the overall profile of adverse events was generally similar to that shown in Table 2.
 Urinary tract infection was the only adverse event not appearing in Table 2 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
-
-SSRIs and SNRIs, including sertraline hydrochloride tablets, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
+SSRIs and SNRIs, including sertraline hydrochloride tablets, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia ).

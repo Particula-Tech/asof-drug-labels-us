@@ -17,13 +17,12 @@ In man, following oral once-daily dosing over the range of 50 to 200 mg for 14 d
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
 Based on this pharmacokinetic parameter, steady-state sertraline plasma levels should be achieved after approximately one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the C max and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
-Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation, compared to a single dose, of sertraline with repeated dosing over a 50 to 200 mg dose range.The single dose bioavailability of sertraline tablets is approximately equal to an equivalent dose of solution.
-
-In a relative bioavailability study comparing the pharmacokinetics of 100 mg sertraline as the oral solution to a 100 mg sertraline tablet in 16 healthy adults, the solution to tablet ratio of geometric mean AUC and Cmax values were 114.8% and 120.6%, respectively.
-90% confidence intervals (CI) were within the range of 80 to 125% with the exception of the upper 90% CI limit for Cmax which was 126.5%.
-
+Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation, compared to a single dose, of sertraline with repeated dosing over a 50 to 200 mg dose range.
+The single dose bioavailability of sertraline tablets is approximately equal to an equivalent dose of solution.
+In a relative bioavailability study comparing the pharmacokinetics of 100 mg sertraline as the oral solution to a 100 mg sertraline tablet in 16 healthy adults, the solution to tablet ratio of geometric mean AUC and C max values were 114.8% and 120.6%, respectively.
+90% confidence intervals (CI) were within the range of 80 to 125% with the exception of the upper 90% CI limit for C max which was 126.5%.
 The effects of food on the bioavailability of the sertraline tablet were studied in subjects administered a single dose with and without food.
-For the tablet, AUC was slightly increased when drug was administered with food but the Cmax was 25% greater, while the time to reach peak plasma concentration (Tmax) decreased from 8 hours post-dosing to 5.5 hours.
+For the tablet, AUC was slightly increased when drug was administered with food but the C max was 25% greater, while the time to reach peak plasma concentration (T max ) decreased from 8 hours post-dosing to 5.5 hours.
 
 ### Metabolism
 
@@ -36,7 +35,7 @@ In a study of radiolabeled sertraline involving two healthy male subjects, sertr
 About 40 to 45% of the administered radioactivity was recovered in urine in 9 days.
 Unchanged sertraline was not detectable in the urine.
 For the same period, about 40 to 45% of the administered radioactivity was accounted for in feces, including 12 to 14% unchanged sertraline.
-Desmethylsertraline exhibits time-related, dose dependent increases in AUC(0 to 24 hour) , C max and C min , with about a 5 to 9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
+Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0 to 24 hour), C max and C min , with about a 5 to 9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
 
 ### Protein Binding
 
@@ -48,9 +47,9 @@ However, at up to 300 and 200 ng/mL concentrations, respectively, sertraline and
 Sertraline pharmacokinetics were evaluated in a group of 61 pediatric patients (29 aged 6 to 12 years, 32 aged 13 to 17 years).
 Patients included both males (N=28) and females (N=33).
 During 42 days of chronic sertraline dosing, sertraline was titrated up to 200 mg/day and maintained at that dose for a minimum of 11 days.
-On the final day of sertraline 200 mg day, the 6 to 12 year old group exhibited a mean sertraline AUC(0 to 24 hr) of 3107 ng-hr/mL, mean C max of 165 ng/mL, and mean half-life of 26.2 hr. The 13 to 17 year old group exhibited a mean sertraline AUC(0 to 24 hr) of 2296 ng-hr/mL, mean C max of 123 ng/ml and mean half-life of 27.8 hr. Higher plasma levels in the 6 to 12 year old group were largely attributable to patients with lower body weights.
+On the final day of sertraline 200 mg day, the 6 to 12 year old group exhibited a mean sertraline AUC (0 to 24 hr) of 3107 ng-hr/mL, mean C max of 165 ng/mL, and mean half-life of 26.2 hr. The 13 to 17 year old group exhibited a mean sertraline AUC (0 to 24 hr) of 2296 ng-hr/mL, mean C max of 123 ng/ml and mean half-life of 27.8 hr. Higher plasma levels in the 6 to 12 year old group were largely attributable to patients with lower body weights.
 No gender associated differences were observed.
-By comparison, a group of 22 separately studied adults between 18 and 45 years of age (11 male, 11 female) received 30 days of 200 mg/day sertraline and exhibited a mean sertraline AUC (0 to 24 hr) of 2570 ng-hr/mL, mean C max of 142 ng/mL, and mean half-life of 27.2 hr. Relative to the adults, both the 6 to 12 year olds and the 13 to 17 year olds showed about 22% lower AUC(0 to 24 hr) and C max values when plasma concentration was adjusted for weight.
+By comparison, a group of 22 separately studied adults between 18 and 45 years of age (11 male, 11 female) received 30 days of 200 mg/day sertraline and exhibited a mean sertraline AUC (0 to 24 hr) of 2570 ng-hr/mL, mean C max of 142 ng/mL, and mean half-life of 27.2 hr. Relative to the adults, both the 6 to 12 year olds and the 13 to 17 year olds showed about 22% lower AUC (0 to 24 hr) and C max values when plasma concentration was adjusted for weight.
 These data suggest that pediatric patients metabolize sertraline with slightly greater efficiency than adults.
 Nevertheless, lower doses may be advisable for pediatric patients given their lower body weights, especially in very young patients, in order to avoid excessive plasma levels (see DOSAGE AND ADMINISTRATION ).
 
