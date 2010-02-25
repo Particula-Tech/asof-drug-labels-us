@@ -13,6 +13,11 @@ The recommended dosage of ritonavir is 600 mg twice daily by mouth.
 Use of a dose titration schedule may help to reduce treatment-emergent adverse events while maintaining appropriate ritonavir plasma levels.
 Ritonavir should be started at no less than 300 mg twice daily and increased at 2 to 3 day intervals by 100 mg twice daily.
 
+### Dose modification for NORVIR
+
+Dose reduction of NORVIR is necessary when used with other protease inhibitors: amprenavir, atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
+Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir (See also, WARNINGS-Drug Interactions and Table 6, Established and Other Potentially Significant Drug Interactions.)
+
 ## Pediatric Patients
 
 Ritonavir should be used in combination with other antiretroviral agents (see General Dosing Guidelines).
@@ -23,7 +28,7 @@ When possible, dose should be administered using a calibrated dosing syringe.
 
 Pediatric Dosage Guidelines1
 
-| Body Surface Area* (m2) | Twice Daily Dose 250 mg/m2 | Twice Daily Dose 300 mg/m2 | Twice Daily Dose 350 mg/m2 | Twice Daily Dose 400 mg/m2 |
+| Body Surface Area (m2) | Twice Daily Dose 250 mg/m2 | Twice Daily Dose 300 mg/m2 | Twice Daily Dose 350 mg/m2 | Twice Daily Dose 400 mg/m2 |
 | --- | --- | --- | --- | --- |
 | 0.20 | 0.6 mL (50 mg) | 0.75 mL (60 mg) | 0.9 mL (70 mg) | 1.0 mL (80 mg) |
 | 0.25 | 0.8 mL (62.5 mg) | 0.9 mL (75 mg) | 1.1 mL (87.5 mg) | 1.25 mL (100 mg) |
@@ -32,7 +37,8 @@ Pediatric Dosage Guidelines1
 | 1.00 | 3.1 mL (250 mg) | 3.75 mL (300 mg) | 4.4 mL (350 mg) | 5 mL (400 mg) |
 | 1.25 | 3.9 mL (312.5 mg) | 4.7 mL (375 mg) | 5.5 mL (437.5 mg) | 6.25 mL (500 mg) |
 | 1.50 | 4.7 mL (375 mg) | 5.6 mL (450 mg) | 6.6 mL (525 mg) | 7.5 mL (600 mg) |
-| * Body surface area can be calculated with the following equation: |  |  |  |  |
+
+Body surface area (BSA) can be calculated as follows:
 
 ## General Dosing Guidelines
 

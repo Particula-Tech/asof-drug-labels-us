@@ -90,7 +90,7 @@ Ritonavir 400 mg twice daily resulted in Day 3 ritonavir exposure that was appro
 
 PR interval prolongation was also noted in subjects receiving ritonavir in the same study on Day 3.
 The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir.
-See PRECAUTIONS– PR Interval Prolongation.
+See PRECAUTIONS – PR Interval Prolongation.
 
 ### Special Populations
 
@@ -157,7 +157,7 @@ Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the P
 | Didanosine | 200 q12h, 4 d | 600 q12h, 4 d | 12 | ↓ 13% (0, 23%) | ↓ 16% (5, 26%) | ↔ |
 | Ethinyl estradiol | 50 µg single dose | 500 q12h, 16 d | 23 | ↓ 40% (31, 49%) | ↓ 32% (24, 39%) | ND |
 | Fluticasone propionate aqueous nasal spray | 200 mcg qd, 7 d | 100 mg q12h, 7 d | 18 | ↑ approximately 350-fold5 | ↑ approximately 25-fold5 |  |
-| Indinavir1 Day 14 Day 15 | 400 q12h, 15 d | 400 q12h, 15 d | 10 | ↑ 6% (-14, 29%) ↓ 7% (-22,28%) | ↓ 51% (40, 61%) ↓ 62% (52, 70%) | ↑ 4-fold (2.8,6.8X) ↑ 4-fold (2.5,6.5X) |
+| Indinavir1 Day 14 Day 15 | 400 q12h, 15 d | 400 q12h, 15 d | 10 | ↑ 6% (-14, 29%) ↓ 7% (-22, 28%) | ↓ 51% (40, 61%) ↓ 62% (52, 70%) | ↑ 4-fold (2.8,6.8X) ↑ 4-fold (2.5,6.5X) |
 | Ketoconazole | 200 daily, 7 d | 500 q12h, 10 d | 12 | ↑ 3.4-fold (2.8, 4.3X) | ↑ 55% (40, 72%) | ND |
 | Meperidine Normeperidine metabolite | 50 oral single dose | 500 q12h, 10 d | 8 6 | ↓ 62% (59, 65%) ↑ 47% (-24, 345%) | ↓ 59% (42, 72%) ↑ 87% (42, 147%) | ND ND |
 | Methadone2 | 5, single dose | 500 q12h, 15 d | 11 | ↓ 36% (16, 52%) | ↓ 38% (28, 46%) | ND |
@@ -165,7 +165,7 @@ Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the P
 | Sildenafil | 100, single dose | 500 BID, 8 d | 28 | ↑ 11-fold | ↑ 4-fold | ND |
 | Sulfamethoxazole3 | 800, single dose | 500 q12h, 12 d | 15 | ↓ 20% (16, 23%) | ↔ | ND |
 | Tadalafil | 20 mg, single dose | 200 mg q12h |  | ↑ 124% | ↔ | ND |
-| Theophylline | 3 mg/kg q8h, 15 d | 500 q12h, 10 d | 13, 11* | ↓ 43% (42, 45%) | ↓ 32% (29, 34%) | ↓ 57% (55,59%) |
+| Theophylline | 3 mg/kg q8h, 15 d | 500 q12h, 10 d | 13, 11* | ↓ 43% (42, 45%) | ↓ 32% (29, 34%) | ↓ 57% (55, 59%) |
 | Trazodone | 50 mg, single dose | 200 mg q12h, 4 doses | 10 | ↑ 2.4-fold | ↑ 34% |  |
 | Trimethoprim3 | 160, single dose | 500 q12h, 12 d | 15 | ↑ 20% (3, 43%) | ↔ | ND |
 | Vardenafil | 5 mg | 600 q12h |  | ↑ 49-fold | ↑ 13-fold | ND |

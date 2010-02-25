@@ -3,40 +3,12 @@
 ALERT: Find out about medicines that should NOT be taken with NORVIR.
 This statement is included on the product's bottle label.
 
+When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including WARNINGS.
+
 ## Drug Interactions
 
-Ritonavir is an inhibitor of cytochrome P450 3A (CYP3A) both in vitro and in vivo.
-Ritonavir also inhibits CYP2D6 in vitro, but to a lesser extent than CYP3A.
-Co-administration of ritonavir and drugs primarily metabolized by CYP3A or CYP2D6 may result in increased plasma concentrations of other drugs that could increase or prolong its therapeutic and adverse effects (see Pharmacokinetics - Drug-Drug Interactions, CONTRAINDICATIONS - Table 4.
-Drugs that are Contraindicated with NORVIR, PRECAUTIONS - Table 5.
-Drugs that Should Not be Co-administered with NORVIR, Table 6.
-Established and Other Potentially Significant Drug Interactions).
-
-The magnitude of the interactions and therapeutic consequences between ritonavir and some of the drugs listed in Table 6.
-Established and Other Potentially Significant Drug Interactions cannot be predicted with any certainty.
-When co-administering ritonavir with any agent listed in this table, special attention is warranted.
-Refer to PRECAUTIONS - Drug Interactions for additional information.
-
-Cardiac and neurologic events have been reported with ritonavir when co-administered with disopyramide, mexiletine, nefazodone, fluoxetine and beta blockers.
-The possibility of drug interaction cannot be excluded.
-
-Particular caution should be used when prescribing PDE5 inhibitors for erectile dysfunction (eg, sildenafil, tadalafil, or vardenafil) for patients receiving protease inhibitors, including NORVIR.
-Co-administration of NORVIR with a PDE5 inhibitor is expected to substantially increase PDE5 inhibitor concentrations and may result in an increase in sildenafil-associated adverse events, including hypotension, syncope, visual changes, and prolonged erection (see PRECAUTIONS - Table 6.
-Established and Other Potentially Significant Drug Interactions and the complete prescribing information for sildenafil, tadalafil and vardenafil).
-
-Concomitant use of NORVIR with lovastatin or simvastatin is not recommended.
-Caution should be exercised if HIV protease inhibitors, including NORVIR, are used concurrently with other HMG-CoA reductase inhibitors that are also metabolized by the CYP3A4 pathway (e.g., atorvastatin or cerivastatin).
-The risk of myopathy including rhabdomyolysis may be increased when HIV protease inhibitors, including NORVIR, are used in combination with these drugs.
-
-Concomitant use of NORVIR, and St. John's wort (hypericum perforatum) or products containing St. John's wort is not recommended.
-Co-administration of protease inhibitors, including NORVIR, with St. John's wort is expected to substantially decrease protease inhibitor concentrations and may result in sub-optimal levels of NORVIR and lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors.
-
-A drug interaction study in healthy subjects has shown that ritonavir significantly increases plasma fluticasone propionate exposures, resulting in significantly decreased serum cortisol concentrations.
-Systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression have been reported during postmarketing use in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate.
-Therefore, co-administration of fluticasone propionate and NORVIR is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects (see PRECAUTIONS - Drug Interactions).
-
-Tipranavir co-administered with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
-Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.
+See CONTRAINDICATIONS- Table 4 for a listing of drugs that are contraindicated with NORVIR due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
+Also, see PRECAUTIONS – Table 5 and Table 6 for drugs that should not be co-administered with NORVIR and for a listing of drugs with established and other significant drug interactions.
 
 ## Allergic Reactions
 
@@ -70,6 +42,8 @@ In those patients who discontinued protease inhibitor therapy, hyperglycemia per
 Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
 
 # PRECAUTIONS
+
+When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including PRECAUTIONS.
 
 ## General
 
@@ -138,6 +112,8 @@ Patients should be informed that redistribution or accumulation of body fat may 
 NORVIR may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's wort.
 
 Patients receiving PDE5 inhibitors for erectile dysfunction (eg, sildenafil, tadalafil, or vardenafil) should be advised that they may be at an increased risk of associated adverse events including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
+Concomitant use of sildenafil with NORVIR is contraindicated in patients with pulmonary arterial hypertension (PAH).
+
 Patients receiving estrogen-based hormonal contraceptives should be instructed that additional or alternate contraceptive measures should be used during therapy with NORVIR.
 
 Patients should be informed that NORVIR may produce changes in the electrocardiogram (eg, PR prolongation).
@@ -165,7 +141,7 @@ Established and Other Potentially Significant Drug Interactions.
 A systematic review of over 200 medications prescribed to HIV-infected patients was performed to identify potential drug interactions with ritonavir.2 There are a number of agents in which CYP3A or CYP2D6 partially contribute to the metabolism of the agent.
 In these cases, the magnitude of the interaction and therapeutic consequences cannot be predicted with any certainty.
 
-When co-administering ritonavir with calcium channel blockers, immunosuppressants, some HMG-CoA reductase inhibitors (see WARNINGS - Drug Interactions), some steroids, or other substrates of CYP3A; or most antidepressants, certain antiarrhythmics, and some narcotic analgesics which are partially mediated by CYP2D6 metabolism, it is possible that substantial increases in concentrations of these other agents may occur, possibly requiring a dosage reduction (> 50%); examples are listed in Table 6.
+When co-administering ritonavir with calcium channel blockers, immunosuppressants, some HMG-CoA reductase inhibitors, some steroids, or other substrates of CYP3A; or most antidepressants, certain antiarrhythmics, and some narcotic analgesics which are partially mediated by CYP2D6 metabolism, it is possible that substantial increases in concentrations of these other agents may occur, possibly requiring a dosage reduction (> 50%); examples are listed in Table 6.
 Established and Other Potentially Significant Drug Interactions.
 
 When co-administering ritonavir with any agent having a narrow therapeutic margin, such as anticoagulants, anticonvulsants, and antiarrhythmics, special attention is warranted.
@@ -180,13 +156,14 @@ Drugs that Should Not be Co-administered with NORVIR
 | Alpha Adrenergic Antagonist: alfuzosin | CONTRAINDICATED due to potential for serious reactions such as hypotension. |
 | Antiarrhythmics: amiodarone, bepridil, flecainide, propafenone, quinidine | CONTRAINDICATED due to potential for serious and/or life threatening reactions such as cardiac arrhythmias. |
 | Antifungal: voriconazole | CONTRAINDICATED due to significant decreases in voriconazole plasma concentrations and may lead to loss of antifungal response. |
-| Antihistamines: astemizole, terfenadine | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Ergot Derivatives: dihydroergotamine, ergonovine, ergotamine, methylergonovine | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. |
 | GI Motility Agent: cisapride | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
-| Herbal Products: St. John's wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |
-| HMG-CoA Reductase Inhibitors: lovastatin, simvastatin | Potential for serious reactions such as risk of myopathy including rhabdomyolysis. |
+| Herbal Products: St. John's wort (hypericum perforatum) | CONTRAINDICATED as the combination may lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |
+| HMG-CoA Reductase Inhibitors: lovastatin, simvastatin | CONTRAINDICATED due to potential for serious reactions such as risk of myopathy including rhabdomyolysis. |
 | Neuroleptic: pimozide | CONTRAINDICATED due to the potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
-| Sedative/hypnotics: midazolam, triazolam | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as prolonged or increased sedation or respiratory depression. |
+| PDE5 enzyme inhibitor: Sildenafil* (Revatio®) | CONTRAINDICATED in the treatment of pulmonary arterial hypertension (PAH). A safe and effective dose has not been established when used with ritonavir. There is an increased potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope. |
+| Sedative/hypnotics: oral midazolam, triazolam | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as prolonged or increased sedation or respiratory depression. |
+| *see WARNINGS - Drug Interactions and PRECAUTIONS - Table 6. Established and Other Potentially Significant Drug Interactions for coadministration of sildenafil in patients with erectile dysfunction. |  |
 
 Table 6.
 Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen Recommended Based on Drug Interaction Studies or Predicted Interaction (see CLINICAL PHARMACOLOGY - Table 2 and Table 3 for Magnitude of Interaction)
@@ -195,26 +172,28 @@ Established and Other Potentially Significant Drug Interactions: Alteration in D
 | --- | --- | --- |
 |  |  | HIV-Antiviral Agents |
 | HIV Protease Inhibitor: atazanavir | When co-administered with reduced doses of atazanavir and ritonavir ↑ atazanavir (↑ AUC, ↑ Cmax, ↑ Cmin) | Atazanavir plasma concentrations achieved with atazanavir 300 mg q.d and ritonavir 100 mg q.d. are higher than those achieved with atazanavir 400 mg q.d. See the complete prescribing information for Reyataz® (atazanavir) for details on co-administration of atazanavir 300 mg q.d, with ritonavir 100 mg q.d. |
-| HIV Protease Inhibitor: darunavir | When co-administered with reduced doses of ritonavir ↑ darunavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Prezista® (darunavir) for details on co-administration darunavir 600 mg b.i.d with ritonavir 100 mg b.i.d. |
-| HIV Protease Inhibitor: fosamprenavir | When co-administered with reduced doses of ritonavir ↑ amprenavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Lexiva® (fosamprenavir) for details on co-administration fosamprenavir 700 mg b.i.d with ritonavir 100 mg b.i.d. or fosamprenavir 1400 mg q.d. with ritonavir 200 mg q.d. |
+| HIV Protease Inhibitor: darunavir | When co-administered with reduced doses of ritonavir ↑ darunavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Prezista® (darunavir) for details on co-administration of darunavir 600 mg b.i.d. with ritonavir 100 mg b.i.d. or darunavir 800 mg q.d. with ritonavir 100 mg q.d. |
+| HIV Protease Inhibitor: fosamprenavir | When co-administered with reduced doses of ritonavir ↑ amprenavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Lexiva® (fosamprenavir) for details on co-administration of fosamprenavir 700 mg b.i.d. with ritonavir 100 mg b.i.d., fosamprenavir 1400 mg q.d. with ritonavir 200 mg q.d. or fosamprenavir 1400 mg q.d. with ritonavir 100 mg q.d. |
 | HIV Protease Inhibitor: indinavir | When co-administered with reduced doses of indinavir and ritonavir ↑ indinavir (↔ AUC, ↓ Cmax, ↑ Cmin) | Alterations in concentrations are noted when reduced doses of indinavir are co-administered with NORVIR. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. |
-| HIV Protease Inhibitor: saquinavir | When co-administered with reduced doses of ritonavir ↑ saquinavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Invirase® (saquinavir) for details on co-administration of saquinavir 1000 mg b.i.d with ritonavir 100 mg b.i.d. Saquinavir/ritonavir should not be given together with rifampin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three drugs are given together. |
-| HIV Protease Inhibitor: tipranavir | When co-administered with reduced doses of ritonavir ↑ tipranavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Aptivus® (tipranavir) for details on co-administration of tipranavir 500 mg b.i.d with ritonavir 200 mg b.i.d. |
+| HIV Protease Inhibitor: saquinavir | When co-administered with reduced doses of ritonavir ↑ saquinavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Invirase® (saquinavir) for details on co-administration of saquinavir 1000 mg b.i.d. with ritonavir 100 mg b.i.d. Saquinavir/ritonavir should not be given together with rifampin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three drugs are given together. |
+| HIV Protease Inhibitor: tipranavir | When co-administered with reduced doses of ritonavir ↑ tipranavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Aptivus® (tipranavir) for details on co-administration of tipranavir 500 mg b.i.d. with ritonavir 200 mg b.i.d. There have been reports of clinical hepatitis and hepatic decompensation including some fatalities. All patients should be followed closely with clinical and laboratory monitoring, especially those with chronic hepatitis B or C co-infection, as these patients have an increased risk of hepatotoxicity. Liver function tests should be performed prior to initiating therapy with tipranavir/ritonavir, and frequently throughout the duration of treatment. |
 | Non-Nucleoside Reverse Transcriptase Inhibitor: delavirdine | ↑ ritonavir (↑AUC, ↑Cmax, ↑ Cmin) | Appropriate doses of this combination with respect to safety and efficacy have not been established. |
-| Nucleoside Reverse Transcriptase Inhibitor: didanosine |  | Dosing of didanosine and ritonavir should be separated by 2.5 hours to avoid formulation incompatibility. |
+| HIV CCR5 – antagonist: maraviroc | ↑ maraviroc | Concurrent administration of maraviroc with ritonavir will increase plasma levels of maraviroc. For specific dosage adjustment recommendations, please refer to the complete prescribing information for Selzentry® (maraviroc). |
 | Other Agents |  |  |
 | Analgesics, Narcotic: tramadol, propoxyphene |  | A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Anesthetic: meperidine | ↓ meperidine/ ↑ normeperidine (metabolite) | Dosage increase and long-term use of meperidine with ritonavir are not recommended due to the increased concentrations of the metabolite normeperidine which has both analgesic activity and CNS stimulant activity (e.g., seizures). |
 | Antialcoholics: disulfiram/ metronidazole |  | Ritonavir formulations contain alcohol, which can produce disulfiram-like reactions when co-administered with disulfiram or other drugs that produce this reaction (e.g., metronidazole). |
-| Antiarrhythmics: disopyramide, lidocaine, mexilitine | ↑antiarrhythmics | Caution is warranted and therapeutic concentration monitoring is recommended for antiarrhythmics when co-administered with ritonavir, if available. |
+| Antiarrhythmics: disopyramide, lidocaine, mexiletine | ↑antiarrhythmics | Caution is warranted and therapeutic concentration monitoring is recommended for antiarrhythmics when co-administered with ritonavir, if available. |
+| Anticancer Agents: vincristine, vinblastine | ↑ anticancer agents | Concentrations of vincristine or vinblastine may be increased when co-administered with ritonavir resulting in the potential for increased adverse events usually associated with these anticancer agents. Consideration should be given to temporarily withholding the ritonavir containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when ritonavir is administered concurrently with vincristine or vinblastine. Clinicians should be aware that if the ritonavir containing regimen is withheld for a prolonged period, consideration should be given to altering the regimen to not include a CYP3A or P-gp inhibitor in order to control HIV-1 viral load. |
 | Anticoagulant: warfarin | ↓ R-warfarin ↓↑ S-warfarin | Initial frequent monitoring of the INR during ritonavir and warfarin co-administration is indicated. |
 | Anticonvulsants: carbamazepine, clonazepam, ethosuximide | ↑anticonvulsants | Use with caution. A dose decrease may be needed for these drugs when co-administered with ritonavir and therapeutic concentration monitoring is recommended for these anticonvulsants, if available. |
 | Anticonvulsants: divalproex, lamotrigine, phenytoin | ↓anticonvulsants | Use with caution. A dose increase may be needed for these drugs when co-administered with ritonavir and therapeutic concentration monitoring is recommended for these anticonvulsants, if available. |
-| Antidepressants: bupropion, nefazodone, selective serotonin reuptake inhibitors (SSRIs), tricyclics | ↑antidepressants | A dose decrease may be needed for these drugs when co-administered with ritonavir. |
+| Antidepressants: nefazodone, selective serotonin reuptake inhibitors (SSRIs), tricyclics | ↑antidepressants | A dose decrease may be needed for these drugs when co-administered with ritonavir. |
+| Antidepressant: bupropion | ↓ bupropion ↓ active metabolite, hydroxybupropion | Concurrent administration of bupropion with ritonavir may decrease plasma levels of both bupropion and its active metabolite (hydroxybupropion). Patients receiving ritonavir and bupropion concurrently should be monitored for an adequate clinical response to bupropion. |
 | Antidepressant: desipramine | ↑ desipramine | Dosage reduction and concentration monitoring of desipramine is recommended. |
 | Antidepressant: trazodone | ↑ trazodone | Concomitant use of trazodone and NORVIR increases plasma concentrations of trazodone. Adverse events of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and NORVIR. If trazodone is used with a CYP3A4 inhibitor such as ritonavir, the combination should be used with caution and a lower dose of trazodone should be considered. |
 | Antiemetic: dronabinol | ↑ dronabinol | A dose decrease of dronabinol may be needed when co-administered with ritonavir. |
-| Antifungal: ketoconazole itraconazole | ↑ ketoconazole ↑ itraconazole | High doses of ketoconazole or itraconazole (> 200 mg/day) are not recommended. |
+| Antifungal: ketoconazole itraconazole voriconazole | ↑ ketoconazole ↑ itraconazole ↓ voriconazole | High doses of ketoconazole or itraconazole (> 200 mg/day) are not recommended. Coadministration of voriconazole and ritonavir doses of 400 mg every 12 hours or greater is contraindicated. Coadministration of voriconazole and ritonavir 100 mg should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. |
 | Anti-infective: clarithromycin | ↑ clarithromycin | For patients with renal impairment the following dosage adjustments should be considered: For patients with CLCR 30 to 60 mL/min the dose of clarithromycin should be reduced by 50%.For patients with CLCR < 30 mL/min the dose of clarithromycin should be decreased by 75%. No dose adjustment for patients with normal renal function is necessary. |
 | Antimycobacterial: rifabutin | ↑ rifabutin and rifabutin metabolite | Dosage reduction of rifabutin by at least three-quarters of the usual dose of 300 mg/day is recommended (e.g., 150 mg every other day or three times a week). Further dosage reduction may be necessary. |
 | Antimycobacterial: rifampin | ↓ ritonavir | May lead to loss of virologic response. Alternate antimycobacterial agents such as rifabutin should be considered (see Antimycobacterial: rifabutin, for dose reduction recommendations). |
@@ -222,16 +201,18 @@ Established and Other Potentially Significant Drug Interactions: Alteration in D
 | Antiparasitic: quinine | ↑ quinine | A dose decrease of quinine may be needed when co-administered with ritonavir. |
 | β-Blockers: metoprolol, timolol | ↑ Beta-Blockers | Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Bronchodilator: theophylline | ↓ theophylline | Increased dosage of theophylline may be required; therapeutic monitoring should be considered. |
-| Calcium channel blockers: diltiazem, nifedipine, verapamil | ↑ calcium channel blockers | Caution is warranted and clinical monitoring of patients is recommended.A dose decrease may be needed for these drugs when co-administered with ritonavir. |
+| Calcium channel blockers: diltiazem, nifedipine, verapamil | ↑ calcium channel blockers | Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Digoxin | ↑ digoxin | Concomitant administration of ritonavir with digoxin may increase digoxin levels. Caution should be exercised when coadministering ritonavir with digoxin, with appropriate monitoring of serum digoxin levels. |
-| PDE5 Inhibitors: sildenafil, tadalafil, vardenafil | ↑ sildenafil ↑ tadalafil ↑ vardenafil | Sildenafil: Particular caution should be used when prescribing sildenafil in patients receiving ritonavir. Coadministration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in an increase in sildenafil-associated adverse events, including hypotension, syncope, visual changes, and prolonged erection The starting dose should not, in any case, exceed 25 mg in a 48-hour period in patients receiving concomitant ritonavir therapy (see WARNINGS). Tadalafil: Use tadalafil with caution at reduced doses of no more than 10 mg every 72 hours with increased monitoring for adverse events.Vardenafil: Use vardenafil with caution at reduced doses of no more than 2.5 mg every 72 hours with increased monitoring for adverse events (see WARNINGS). |
-| HMG-CoA Reductase Inhibitor: atorvastatin rosuvastatin | ↑ atorvastatin ↑ rosuvastatin | Use the lowest possible dose of atorvastatin or rosuvastatin with careful monitoring or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with Norvir. |
-| Immuno-suppressants: cyclosporine, tacrolimus, sirolimus (rapamycin) | ↑ immuno-suppressants | Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with ritonavir. |
-| Inhaled Steroid: Fluticasone | ↑ fluticasone | Concomitant use of fluticasone propionate and NORVIR increases plasma concentrations of fluticasone propionate, resulting in significantly reduced serum cortisol concentrations. Co-administration of fluticasone propionate and NORVIR is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects (see WARNINGS). |
+| HMG-CoA Reductase Inhibitor: atorvastatin rosuvastatin | ↑ atorvastatin ↑ rosuvastatin | Use the lowest possible dose of atorvastatin or rosuvastatin with careful monitoring or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with NORVIR. |
+| Immunosuppressants: cyclosporine, tacrolimus, sirolimus (rapamycin) | ↑ immunosuppressants | Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with ritonavir. |
+| Inhaled Steroid: Fluticasone | ↑ fluticasone | Concomitant use of fluticasone propionate and NORVIR increases plasma concentrations of fluticasone propionate, resulting in significantly reduced serum cortisol concentrations. Co-administration of fluticasone propionate and NORVIR is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects. |
+| Long-acting beta-adrenoceptor agonist: salmeterol | ↑ salmeterol | Concurrent administration of salmeterol and ritonavir is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia. |
 | Narcotic Analgesic: methadone | ↓ methadone | Dosage increase of methadone may be considered. |
 | Neuroleptics: perphenazine, risperidone, thioridazine | ↑ neuroleptics | A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Oral Contraceptives or Patch Contraceptives: ethinyl estradiol | ↓ ethinyl estradiol | A pharmacokinetic study demonstrated that the concomitant administration of ritonavir 500 mg q. 12h. and a fixed-combination oral contraceptive resulted in reductions of the ethinyl estradiol mean Cmax and mean AUC by 32% and 40%, respectively. Alternate methods of contraception should be considered. |
+| PDE5 Inhibitors: sildenafil, tadalafil, vardenafil | ↑ sildenafil ↑ tadalafil ↑ vardenafil | Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil in patients receiving ritonavir. Coadministration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC). Use of sildenafil, tadalafil or vardenafil may result in an increase in associated adverse events, including hypotension, syncope, visual changes, and prolonged erection. Use of PDE5 inhibitors for pulmonary arterial hypertension (PAH): Sildenafil (Revatio®) is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) because a safe and effective dose has not been established when used with ritonavir (see CONTRAINDICATIONS and PRECAUTIONS - Drug Interactions, Table 5). Use of PDE5 inhibitors for erectile dysfunction: Sildenafil: The starting dose should not, in any case, exceed 25 mg in a 48-hour period in patients receiving concomitant ritonavir therapy.Tadalafil: Use tadalafil with caution at reduced doses of no more than 10 mg every 72 hours with increased monitoring for adverse events.Vardenafil: Use vardenafil with caution at reduced doses of no more than 2.5 mg every 72 hours with increased monitoring for adverse events. |
 | Sedative/hypnotics: buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem | ↑ sedative/hypnotics | A dose decrease may be needed for these drugs when co-administered with ritonavir. |
+| Sedative/hypnotics: Parenteral midazolam | ↑ midazolam | Co-administration of oral midazolam with NORVIR is CONTRAINDICATED. Concomitant use of parenteral midazolam with NORVIR may increase plasma concentrations of midazolam. Co-administration should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered. |
 | Steroids: dexamethasone, fluticasone, prednisone |  | A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Stimulant: methamphetamine | ↑ methamphetamine | Use with caution. A dose decrease of methamphetamine may be needed when co-administered with ritonavir. |
 

@@ -1,3 +1,8 @@
+# NORVIR® (ritonavir capsules) Soft Gelatin (ritonavir oral solution)
+
+ALERT: Find out about medicines that should NOT be taken with NORVIR.
+Please also read the section "MEDICINES YOU SHOULD NOT TAKE WITH NORVIR."
+
 # Patient Information
 
 NORVIR® (NOR - VEER)
@@ -8,7 +13,7 @@ Please read this leaflet carefully before you start taking NORVIR.
 Also, read it each time you get your NORVIR prescription refilled, just in case something has changed.
 Remember that this information does not take the place of careful discussions with your doctor when you start this medication and at check ups.
 
-You should remain under a doctor's care when taking NORVIR andyou should not change or stop treatment without first talking with your doctor.
+You should remain under a doctor's care when taking NORVIR and you should not change or stop treatment without first talking with your doctor.
 
 You should tell your doctor about any medicine you are taking or planning to take because taking NORVIR with some medications can result in serious or life-threatening problems.
 
@@ -110,6 +115,7 @@ You must tell your doctor about all the medicines you are taking or are planning
 - Quinidine, also known as Quinaglute®, Cardioquin®, Quinidex®, and others
 - Rythmol® (propafenone)
 - Seldane® (terfenadine)
+- Revatio® (sildenafil) only when used for the treatment of pulmonary arterial hypertension
 - Tambocor® (flecainide)
 - Uroxatral® (alfuzosin hydrochloride)
 - Vascor® (bepridil)
@@ -130,6 +136,7 @@ Remember to tell your doctor all medicines you are taking or plan to take.
 - The following medicines require dose reduction if taken with NORVIR:
 
 If you are taking PDE5 inhibitors for erectile dysfunction including Viagra® (sildenafil), Cialis® (tadalafil), or Levitra® (vardenafil), your doctor may lower your dose of these medications.
+You should not use sildenafil (Revatio®) with NORVIR if you are being treated for pulmonary arterial hypertension.
 
 Before you take Viagra®, Cialis® or Levitra® with NORVIR, talk to your doctor about possible drug interactions and side effects.
 If you take these medications with NORVIR you may be at risk of side effects such as low blood pressure, visual changes, and penile erection lasting more than 4 hours.
@@ -148,6 +155,10 @@ Your doctor can explain these symptoms to you.
   Your doctor may choose not to keep you on inhaled Flonase®.
 - Rifampin and saquinavir should not be taken with NORVIR.
   Be sure to tell your doctor if you are taking rifampin and saquinavir.
+- If you are taking or before you begin using Serevent® (salmeterol) and NORVIR, talk to your doctor about problems these medicines may cause when taken together.
+  Your doctor may choose not to keep you on Serevent® (salmeterol).
+- If you are taking or before you begin using Advair® (salmeterol in combination with fluticasone propionate) and NORVIR, talk to your doctor about problems these two medicines may cause when taken together.
+  Your doctor may choose not to keep you on Advair® (salmeterol in combination with fluticasone propionate).
 
 ## What Are the Possible Side Effects of NORVIR?
 
@@ -227,3 +238,6 @@ The makers of these brands are not affiliated with and do not endorse Abbott Lab
 Abbott Laboratories
 
 North Chicago, IL 60064, U.S.A.
+
+Rev.
+11/2009

@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including ADVERSE REACTIONS.
+
 ## Adults
 
 The safety of NORVIR alone and in combination with nucleoside reverse transcriptase inhibitors was studied in 1270 adult patients.
@@ -177,7 +179,7 @@ Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and H
 
 ### Treatment-Emergent Adverse Events
 
-NORVIR has been studied in 265 pediatric patients> 1 month to 21 years of age.
+NORVIR has been studied in 265 pediatric patients > 1 month to 21 years of age.
 The adverse event profile observed during pediatric clinical trials was similar to that for adult patients.
 
 Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in ≥ 2% of pediatric patients enrolled in NORVIR clinical trials.

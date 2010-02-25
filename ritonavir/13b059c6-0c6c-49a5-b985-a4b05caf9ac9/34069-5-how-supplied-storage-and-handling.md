@@ -1,14 +1,15 @@
 # HOW SUPPLIED
 
-NORVIR (ritonavir capsules) soft gelatin are white capsules imprinted with the corporate Abbott“A” logo, 100 and the Abbo-Code DS, available in the following package size:
+NORVIR (ritonavir capsules) soft gelatin are white capsules imprinted with the corporate Abbott “A” logo, 100 and the Abbo-Code DS, available in the following package size:
 
 Bottles of 120 capsules each (NDC 0074-6633-22).
+
 Bottles of 30 capsules each (NDC 0074-6633-30).
 
 ## Recommended Storage
 
-Store soft gelatin capsules in the refrigerator between 36-46°F (2-8°C) until dispensed.
-Refrigeration of NORVIR soft gelatin capsules by the patient is recommended, but not required if used within 30 days and stored below 77°F (25°C).
+Store soft gelatin capsules in the refrigerator between 2°-8°C (36°-46°F) until dispensed.
+Refrigeration of NORVIR soft gelatin capsules by the patient is recommended, but not required if used within 30 days and stored below 25°C (77°F).
 Protect from light.
 Avoid exposure to excessive heat.
 
@@ -18,7 +19,7 @@ NORVIR (ritonavir oral solution) is an orange-colored liquid, supplied in amber-
 
 ## Recommended Storage
 
-Store NORVIR oral solution at room temperature 68°F to 77°F (20°C to 25°C).
+Store NORVIR oral solution at room temperature 20°-25°C (68°-77°F).
 Do not refrigerate.
 Shake well before each use.
 Use by product expiration date.
