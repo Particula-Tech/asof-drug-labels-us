@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020799"
+  ],
   "inn": "ofloxacin",
-  "labeler": "Daiichi Sankyo, Inc.",
+  "labeler": "Daiichi Sankyo Pharma Development",
   "package_ndcs": [
     "63395-101-00",
     "63395-101-05",
     "63395-101-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "ofloxacin",
+      "name": "Floxin Otic"
+    }
+  ],
   "setid": "e552ecd6-ca19-419d-85f9-31b2f33b5213",
   "source": "dailymed"
 }
