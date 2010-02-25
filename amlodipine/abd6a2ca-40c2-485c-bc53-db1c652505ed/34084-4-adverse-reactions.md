@@ -1,26 +1,31 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 NORVASC has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
 In general, treatment with NORVASC was well-tolerated at doses up to 10 mg daily.
 Most adverse reactions reported during therapy with NORVASC were of mild or moderate severity.
-In controlled clinical trials directly comparing NORVASC (N=1730) in doses up to 10 mg to placebo (N=1250), discontinuation of NORVASC due to adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
+In controlled clinical trials directly comparing NORVASC (N=1730) at doses up to 10 mg to placebo (N=1250), discontinuation of NORVASC due to adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
 The most common side effects are headache and edema.
-The incidence (%) of side effects which occurred in a dose related manner are as follows:
+The incidence (%) of side effects that occurred in a dose related manner are as follows:
 
-| Adverse Event | 2.5 mg N=275 | 5.0 mg N=296 | 10.0 mg N=268 | Placebo N=520 |
+|  | N=275 | N=296 | N=268 | N=520 |
 | --- | --- | --- | --- | --- |
+| Adverse Event | 2.5 mg | 5.0 mg | 10.0 mg | Placebo |
 | Edema | 1.8 | 3.0 | 10.8 | 0.6 |
 | Dizziness | 1.1 | 3.4 | 3.4 | 1.5 |
 | Flushing | 0.7 | 1.4 | 2.6 | 0.0 |
 | Palpitation | 0.7 | 1.4 | 4.5 | 0.6 |
 
-Other adverse experiences which were not clearly dose related but which were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
+Other adverse experiences that were not clearly dose related but were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
 
 Placebo-Controlled Studies
 
 |  | (N=1730) | (N=1250) |
 | --- | --- | --- |
-|  | NORVASC (%) | PLACEBO (%) |
+|  | NORVASC (%) | Placebo (%) |
 | Headache | 7.3 | 7.8 |
 | Fatigue | 4.5 | 2.8 |
 | Nausea | 2.9 | 1.9 |
@@ -31,7 +36,7 @@ For several adverse experiences that appear to be drug and dose related, there w
 
 |  | (N=1218) | (N=512) | (N=914) | (N=336) |
 | --- | --- | --- | --- | --- |
-|  | NORVASC |  | PLACEBO |  |
+|  | NORVASC |  | Placebo |  |
 | Adverse Event | Male=% | Female=% | Male=% | Female=% |
 | Edema | 5.6 | 14.6 | 1.4 | 5.1 |
 | Flushing | 1.5 | 4.5 | 0.3 | 0.9 |
@@ -44,7 +49,7 @@ Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrill
 
 Central and Peripheral Nervous System: hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo.
 
-Gastrointestinal: anorexia, constipation, dyspepsia, dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia.
+Gastrointestinal: anorexia, constipation, dyspepsia,These events occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies. dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia.
 
 General: allergic reaction, asthenia, back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease.
 
@@ -54,7 +59,7 @@ Psychiatric: sexual dysfunction (male and female), insomnia, nervousness, depres
 
 Respiratory System: dyspnea, epistaxis.
 
-Skin and Appendages: angioedema, erythema multiforme, pruritus,These events occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies. rash, rash erythematous, rash maculopapular.
+Skin and Appendages: angioedema, erythema multiforme, pruritus, rash, rash erythematous, rash maculopapular.
 
 Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus.
 
@@ -73,9 +78,13 @@ Other reactions occurred sporadically and cannot be distinguished from medicatio
 NORVASC therapy has not been associated with clinically significant changes in routine laboratory tests.
 No clinically relevant changes were noted in serum potassium, serum glucose, total triglycerides, total cholesterol, HDL cholesterol, uric acid, blood urea nitrogen, or creatinine.
 
-In the CAMELOT and PREVENT studies (see CLINICAL PHARMACOLOGY Clinical Studies Studies in Patients with Coronary Artery Disease) the adverse event profile was similar to that reported previously (see above), with the most common adverse event being peripheral edema.
+In the CAMELOT and PREVENT studies [see Clinical Studies (14.4)], the adverse event profile was similar to that reported previously (see above), with the most common adverse event being peripheral edema.
+
+## 6.2 Postmarketing Experience
+
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following postmarketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
-In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis) in some cases severe enough to require hospitalization have been reported in association with use of amlodipine.
+In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
 
 NORVASC has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.

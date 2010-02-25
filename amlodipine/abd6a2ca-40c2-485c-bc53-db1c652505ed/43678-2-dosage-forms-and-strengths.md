@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+2.5, 5, and 10 mg Tablets

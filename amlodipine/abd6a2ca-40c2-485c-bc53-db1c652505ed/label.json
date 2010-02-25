@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA000000",
+    "NDA019787"
+  ],
   "inn": "amlodipine",
-  "labeler": "Pfizer Labs",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-1520-68",
     "0069-1530-41",
@@ -10,7 +13,13 @@
     "0069-1540-41",
     "0069-1540-68"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amlodipine besylate",
+      "name": "Norvasc"
+    }
+  ],
   "setid": "abd6a2ca-40c2-485c-bc53-db1c652505ed",
   "source": "dailymed"
 }

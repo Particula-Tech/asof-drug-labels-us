@@ -1,5 +1,3 @@
-Rx only
+LAB-0014-8.0
 
-LAB-0014-6.0
-
-August 2006
+January 2010
