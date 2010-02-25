@@ -56,10 +56,10 @@ Average serum uric acid levels were maintained at 6 mg per dL or below throughou
 
 In all treatment groups, fewer subjects with higher baseline serum urate levels (≥ 10 mg per dL) and/or tophi achieved the goal of lowering serum uric acid to less than 6 mg per dL at the final visit; however, a higher proportion achieved a serum uric acid less than 6 mg per dL with ULORIC 80 mg than with ULORIC 40 mg or allopurinol.
 
-Study 1 evaluated efficacy in patients with mild to moderate renal impairment (i.e., baseline estimated CLcr less than 90 mL per minute).
+Study 1 evaluated efficacy in patients with mild to moderate renal impairment (i.e., baseline estimated Clcr less than 90 mL per minute).
 The results in this sub-group of patients are shown in Table 4.
 
-| ULORIC 40 mg daily (N=479) | ULORIC 80 mg daily (N=503) | allopurinolAllopurinol patients (n=145) with estimated Clcr ≥ 30 mL per min and CLcr ≤ 59 mL per min were dosed at 200 mg daily. 300 mg daily (N=501) | ULORIC 40 mg vs allopurinol | ULORIC 80 mg vs allopurinol |
+| ULORIC 40 mg daily (N=479) | ULORIC 80 mg daily (N=503) | allopurinolAllopurinol patients (n=145) with estimated Clcr ≥ 30 mL per min and Clcr ≤ 59 mL per min were dosed at 200 mg daily. 300 mg daily (N=501) | ULORIC 40 mg vs allopurinol | ULORIC 80 mg vs allopurinol |
 | --- | --- | --- | --- | --- |
 | Table 4: Proportion of Patients with Serum Uric Acid Levels Less Than 6 mg per dL in Patients with Mild or Moderate Renal Impairment at Final Visit |  |  |  |  |
 |  |  |  | Difference in Proportion (95% CI) |  |

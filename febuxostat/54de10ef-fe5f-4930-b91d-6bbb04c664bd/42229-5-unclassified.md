@@ -8,4 +8,4 @@ All other trademark names are the property of their respective owners
 
 ©2009 Takeda Pharmaceuticals America, Inc.
 
-PI1114 R1; February 2009
+PI1114 R1 February 2009
