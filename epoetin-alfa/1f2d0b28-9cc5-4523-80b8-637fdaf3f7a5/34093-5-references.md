@@ -151,6 +151,6 @@ Manufactured by: Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Am
 
 ©1989-2010 Amgen Inc. All rights reserved.
 
-1xxxxxx – v23
+1xxxxxx – v24
 
-Revised: 01/2010
+Revised: 02/2010

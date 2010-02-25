@@ -121,7 +121,7 @@ Percentage of Patients Transfused:
 
 There was no evidence of an improvement in health-related quality of life, including no evidence of an effect on fatigue, energy or strength, in patients receiving EPOGEN® as compared to those receiving placebo.
 
-### Surgery Paients
+### Surgery Patients
 
 EPOGEN® has been studied in a placebo-controlled, double-blind trial enrolling 316 patients scheduled for major, elective orthopedic hip or knee surgery who were expected to require ≥ 2 units of blood and who were not able or willing to participate in an autologous blood donation program.
 Based on previous studies which demonstrated that pretreatment hemoglobin is a predictor of risk of receiving transfusion,19,26 patients were stratified into one of three groups based on their pretreatment hemoglobin [≤ 10 (n = 2), > 10 to ≤ 13 (n = 96), and > 13 to ≤ 15 g/dL (n = 218)] and then randomly assigned to receive 300 Units/kg EPOGEN®, 100 Units/kg EPOGEN® or placebo by SC injection for 10 days before surgery, on the day of surgery, and for 4 days after surgery.17 All patients received oral iron and a low-dose post-operative warfarin regimen.17

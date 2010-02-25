@@ -43,7 +43,7 @@ An increased incidence of deep vein thrombosis (DVT) in patients receiving Epoet
 In a randomized controlled study (referred to as the ‘SPINE’ study), 681 adult patients, not receiving prophylactic anticoagulation and undergoing spinal surgery, received either 4 doses of 600 U/kg Epoetin alfa (7, 14, and 21 days before surgery, and the day of surgery) and standard of care (SOC) treatment, or SOC treatment alone.
 Preliminary analysis showed a higher incidence of DVT, determined by either Color Flow Duplex Imaging or by clinical symptoms, in the Epoetin alfa group [16 patients (4.7%)] compared to the SOC group [7 patients (2.1%)].
 In addition, 12 patients in the Epoetin alfa group and 7 patients in the SOC group had other thrombotic vascular events.
-Deep venous thrombosis should be strongly considered when ESAs are used for the reduction of allogeneic RBC transfusions in surgical patients (see BOXED WARNINGS and DOSAGE AND ADMINISTRATION).
+Deep venous thrombosis prophylaxis should be strongly considered when ESAs are used for the reduction of allogeneic RBC transfusions in surgical patients (see BOXED WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Increased mortality was also observed in a randomized placebo-controlled study of EPOGEN® in adult patients who were undergoing coronary artery bypass surgery (7 deaths in 126 patients randomized to EPOGEN® versus no deaths among 56 patients receiving placebo).
 Four of these deaths occurred during the period of study drug administration and all four deaths were associated with thrombotic events.42 ESAs are not approved for reduction of allogeneic red blood cell transfusions in patients scheduled for cardiac surgery.
@@ -108,6 +108,12 @@ Decreased locoregional control:
 Cancer Study 6 (DAHANCA 10) was conducted in 522 patients with primary squamous cell carcinoma of the head and neck receiving radiation therapy randomized to darbepoetin alfa with radiotherapy or radiotherapy alone.
 An interim analysis on 484 patients demonstrated that locoregional control at 5 years was significantly shorter in patients receiving darbepoetin alfa (RR 1.44, 95% CI: 1.06, 1.96; p = 0.02).
 Overall survival was shorter in patients receiving darbepoetin alfa (RR 1.28, 95% CI: 0.98, 1.68; p = 0.08).
+
+### ESA APPRISE Oncology Program
+
+Prescribers and hospitals must enroll in and comply with the ESA APPRISE Oncology Program to prescribe and/or dispense EPOGEN® to patients with cancer.
+To enroll, visit www.esa-apprise.com or call 1-866-284-8089 for further assistance.
+Additionally, prescribers and patients must provide written acknowledgement of a discussion of the risks associated with EPOGEN®.
 
 ### Pure Red Cell Aplasia
 

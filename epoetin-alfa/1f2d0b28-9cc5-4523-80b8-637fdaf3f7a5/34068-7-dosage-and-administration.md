@@ -85,6 +85,8 @@ The dose should be reduced by 25% when treatment is resumed and then titrated to
 
 ## Cancer Patients on Chemotherapy
 
+Only prescribers enrolled in the ESA APPRISE Oncology Program may prescribe and/or dispense EPOGEN® (see WARNINGS: ESA APPRISE Oncology Program).
+
 Although no specific serum erythropoietin level has been established which predicts which patients would be unlikely to respond to EPOGEN® therapy, treatment of patients with grossly elevated serum erythropoietin levels (eg, > 200 mUnits/mL) is not recommended.
 Therapy should not be initiated at hemoglobin levels ≥ 10 g/dL.
 The hemoglobin should be monitored on a weekly basis in patients receiving EPOGEN® therapy until hemoglobin becomes stable.
