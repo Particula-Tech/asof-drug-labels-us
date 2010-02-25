@@ -1,13 +1,20 @@
 {
   "application_numbers": [
+    "NDA020659",
     "NDA022417"
   ],
   "inn": "ritonavir",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
+    "0074-1940-63",
     "0074-3333-30"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ritonavir",
+      "name": "NORVIR"
+    },
     {
       "form": "TABLET",
       "generic": "ritonavir",

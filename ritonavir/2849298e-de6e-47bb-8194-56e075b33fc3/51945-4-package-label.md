@@ -14,3 +14,23 @@ Note to Pharmacist: Do not cover ALERT box with pharmacy label.
 Package insert is provided with tear-off patient information.
 
 Rx only Abbott
+
+NDC 0074–1940–63
+
+Norvir® Ritonavir Oral Solution
+
+80 mg per mL
+
+240 mL
+
+Do Not Refrigerate
+
+ALERT: Find out about medicines that should NOT be taken with NORVIR.
+
+Note to Pharmacist: Do not cover ALERT box with pharmacy label.
+Store and dispense in original container.
+Do not cover expiration date on bottle.
+
+Package insert is provided with tear-off patient information.
+
+Rx only Abbott
