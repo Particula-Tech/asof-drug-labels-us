@@ -1,19 +1,27 @@
-# ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
-## Adjuvant Therapy
+Serious adverse reactions with ARIMIDEX occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
+This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Adverse reaction data for adjuvant therapy are based on the adjuvant trial (see CLINICAL PHARMACOLOGY - Clinical Studies - Adjuvant Treatment of Breast Cancer in Postmenopausal Women).
-At a median follow-up of 33 months, the combination of ARIMIDEX and tamoxifen did not demonstrate any efficacy benefit when compared with tamoxifen in all patients as well as in the hormone receptor-positive subpopulation.
-This treatment arm was discontinued from the trial.
+Common adverse reactions (occurring with an incidence of >10%) in women taking ARIMIDEX included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+
+In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the ARIMIDEX group.
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+## 6.1 Clinical Trials Experience
+
+### Adjuvant Therapy
+
+Adverse reaction data for adjuvant therapy are based on the ATAC trial [see Clinical Studies (14.1)].
 The median duration of adjuvant treatment for safety evaluation was 59.8 months and 59.6 months for patients receiving ARIMIDEX 1 mg and tamoxifen 20 mg, respectively.
 
-Adverse events occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 8.
+Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
-Table 8 -Adverse events occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment
+Table 1 - Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatmentThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-| Body system and adverse event byCOSTART-preferred term* |  |  |
+| Body system and adverse reactions byCOSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred termA patient may have had more than 1 adverse event, including more than 1 adverse event in the same body system. | ARIMIDEX 1 mg(NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg(N = 3094) |
 | --- | --- | --- |
-|  | ARIMIDEX1 mg(N = 3092) | Tamoxifen20 mg(N = 3094) |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
 | Pain | 533 (17) | 485 (16) |
@@ -74,22 +82,17 @@ Table 8 -Adverse events occurring with an incidence of at least 5% in either tre
 | Breast pain | 251 (8) | 169 (6) |
 | Breast Neoplasm | 164 (5) | 139 (5) |
 | Vulvovaginitis | 194 (6) | 150 (5) |
-| Vaginal Hemorrhage† | 122 (4) | 180 (6) |
+| Vaginal HemorrhageVaginal Hemorrhage without further diagnosis. | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
-| COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms. |  |  |
-| N = Number of patients receiving the treatment. |  |  |
-| *A patient may have had more than 1 adverse event, including more than 1 adverse event in the same body system. |  |  |
-| †Vaginal Hemorrhage without further diagnosis. |  |  |
-| ** The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. |  |  |
 
-Certain adverse events and combinations of adverse events were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (See table 9).
+Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (See table 2).
 
-Table 9 — Number of Patients with Pre-specified Adverse Event in ATAC Trial1
+Table 2 — Number of Patients with Pre-specified Adverse Reaction in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
 
-|  | ARIMIDEX N=3092(%) | TamoxifenN=3094(%) | Odds-ratio | 95% CI |
+|  | ARIMIDEXN=3092(%) | TamoxifenN=3094(%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 − 0.89 |
-| Musculoskeletal Events2 | 1100 (36) | 911 (29) | 1.32 | 1.19 − 1.47 |
+| Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 − 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 − 1.22 |
 | Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 − 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 − 1.19 |
@@ -100,35 +103,71 @@ Table 9 — Number of Patients with Pre-specified Adverse Event in ATAC Trial1
 | Hip fractures | 28 (1) | 26 (1) |  |  |
 | Cataracts | 182 (6) | 213 (7) | 0.85 | 0.69 − 1.04 |
 | Vaginal Bleeding | 167 (5) | 317 (10) | 0.50 | 0.41 − 0.61 |
-| Ischemic Cardiovascular Disease33 The observed difference was associated with a sub-group of patients with pre-existing ischemic heart disease | 127 (4) | 104 (3) | 1.23 | 0.95 − 1.60 |
+| Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 − 1.60 |
 | Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 − 0.30 |
 | Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 − 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 − 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 − 0.97 |
-| Endometrial Cancer44 Percentages calculated based upon the numbers of patients with an intact uterus as baseline | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 − 0.94 |
-| 1Patients with multiple events in the same category are counted only once in that category. |  |  |  |  |
-| 2Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. |  |  |  |  |
+| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 − 0.94 |
 
-Patients receiving ARIMIDEX had an increase in joint disorders (including arthritis, arthrosis and arthralgia) compared with patients receiving tamoxifen.
-Patients receiving ARIMIDEX had an increase in the incidence of all fractures (specifically fractures of spine, hip and wrist) [315 (10%)] compared with patients receiving tamoxifen [209 (7%)].
-Patients receiving ARIMIDEX had a decrease in hot flashes, vaginal bleeding, vaginal discharge, endometrial cancer, venous thromboembolic events and ischemic cerebrovascular events compared with patients receiving tamoxifen.
+Ischemic Cardiovascular Events
 
-Patients receiving ARIMIDEX had an increase in hypercholesterolemia (278 [9%]) compared to patients receiving tamoxifen (108 [3.5%]).
-Angina pectoris was reported in 71 [2.3%] patients in the ARIMIDEX arm and 51 [1.6%] patients in the tamoxifen arm; myocardial infarction was reported in 37 [1.2%] patients in the ARIMIDEX arm and in 34 [1.1%] patients in the tamoxifen arm.
+Between treatment arms in the overall population of 6186 patients, there was no statistical difference in ischemic cardiovascular events (4% ARIMIDEX vs. 3% tamoxifen).
+In the overall population, angina pectoris was reported in 71/3092 (2.3%) patients in the ARIMIDEX arm and 51/3094 (1.6%) patients in the tamoxifen arm; myocardial infarction was reported in 37/3092 (1.2%) patients in the ARIMIDEX arm and 34/3094 (1.1%) patients in the tamoxifen arm.
+
+In women with pre-existing ischemic heart disease 465/6186 (7.5%), the incidence of ischemic cardiovascular events was 17% in patients on ARIMIDEX and 10% in patients on tamoxifen.
+In this patient population, angina pectoris was reported in 25/216 (11.6%) patients receiving ARIMIDEX and 13/249 (5.2%) patients receiving tamoxifen; myocardial infarction was reported in 2/216 (0.9%) patients receiving ARIMIDEX and 8/249 (3.2%) patients receiving tamoxifen.
+
+Bone Mineral Density Findings
 
 Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving ARIMIDEX had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline.
 Patients receiving tamoxifen had a mean increase in both lumbar spine and total hip BMD compared to baseline.
 
-## First Line Therapy
+Because ARIMIDEX lowers circulating estrogen levels it may cause a reduction in bone mineral density.
 
-ARIMIDEX was generally well tolerated in two well-controlled clinical trials (ie, Trials 0030 and 0027).
-Adverse events occurring with an incidence of at least 5% in either treatment group of trials 0030 and 0027 during or within 2 weeks of the end of treatment are shown in Table 10.
+A post-marketing trial assessed the combined effects of ARIMIDEX and the bisphosphonate risedronate on changes from baseline in BMD and markers of bone resorption and formation in postmenopausal women with hormone receptor-positive early breast cancer.
+All patients received calcium and vitamin D supplementation.
+At 12 months, small reductions in lumbar spine bone mineral density were noted in patients not receiving bisphosphonates.
+Bisphosphonate treatment preserved bone density in most patients at risk of fracture.
 
-Table 10
+Postmenopausal women with early breast cancer scheduled to be treated with ARIMIDEX should have their bone status managed according to treatment guidelines already available for postmenopausal women at similar risk of fragility fracture.
 
-| Body system Adverse eventa | Number (%) of subjects |  |
-| --- | --- | --- |
+Cholesterol
+
+During the ATAC trial, more patients receiving ARIMIDEX were reported to have an elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively).
+
+A post-marketing trial also evaluated any potential effects of ARIMIDEX on lipid profile.
+In the primary analysis population for lipids (ARIMIDEX alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12 months.
+
+In secondary population for lipids (ARIMIDEX+risedronate), there also was no clinically significant change in LDL-C and HDL-C from baseline to 12 months.
+
+In both populations for lipids, there was no clinically significant difference in total cholesterol (TC) or serum triglycerides (TG) at 12 months compared with baseline.
+
+In this trial, treatment for 12 months with ARIMIDEX alone had a neutral effect on lipid profile.
+Combination treatment with ARIMIDEX and risedronate also had a neutral effect on lipid profile.
+
+The trial provides evidence that postmenopausal women with early breast cancer scheduled to be treated with ARIMIDEX should be managed using the current National Cholesterol Education Program guidelines for cardiovascular risk-based management of individual patients with LDL elevations.
+
+Other Adverse Reactions
+
+Patients receiving ARIMIDEX had an increase in joint disorders (including arthritis, arthrosis and arthralgia) compared with patients receiving tamoxifen.
+Patients receiving ARIMIDEX had an increase in the incidence of all fractures (specifically fractures of spine, hip and wrist) [315 (10%)] compared with patients receiving tamoxifen [209 (7%)].
+
+Patients receiving ARIMIDEX had a higher incidence of carpal tunnel syndrome [78 (2.5%)] compared with patients receiving tamoxifen [22 (0.7%)].
+
+Vaginal bleeding occurred more frequently in the tamoxifen-treated patients versus the ARIMIDEX-treated patients 317 (10%) versus 167 (5%), respectively.
+
+Patients receiving ARIMIDEX had a lower incidence of hot flashes, vaginal bleeding, vaginal discharge, endometrial cancer, venous thromboembolic events and ischemic cerebrovascular events compared with patients receiving tamoxifen.
+
+### First-Line Therapy
+
+Adverse reactions occurring with an incidence of at least 5% in either treatment group of trials 0030 and 0027 during or within 2 weeks of the end of treatment are shown in Table 3.
+
+Table 3 — Adverse Reactions Occurring with an Incidence of at Least 5% in Trials 0030 and 0027
+
 |  | ARIMIDEX(n=506) | Tamoxifen(n=511) |
+| --- | --- | --- |
+| Body system Adverse ReactionA patient may have had more than 1 adverse event. | Number (%) of subjects |  |
 | Whole body |  |  |
 | Asthenia | 83 (16) | 81 (16) |
 | Pain | 70 (14) | 73 (14) |
@@ -164,75 +203,72 @@ Table 10
 | Rash | 38 (8) | 34 (8) |
 | Urogenital |  |  |
 | Leukorrhea | 9 (2) | 31 (6) |
-| aA patient may have had more than 1 adverse event. |  |  |
 
 Less frequent adverse experiences reported in patients receiving ARIMIDEX l mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
 
 Based on results from second-line therapy and the established safety profile of tamoxifen, the incidences of 9 prespecified adverse event categories potentially causally related to one or both of the therapies because of their pharmacology were statistically analyzed.
 No significant differences were seen between treatment groups.
 
-Table 11
+Table 4 — Number of Patients with Pre-Specified Adverse Reactions in Trials 0030 and 0027
 
-|  | Number (n) and Percentage of Patients |  |
+| Adverse ReactionA patient may have had more than 1 adverse event. Group | ARIMIDEX1 mg(n=506)n (%) | NOLVADEX20 mg(n=511)n (%) |
 | --- | --- | --- |
-|  | ARIMIDEX1 mg(n = 506) | NOLVADEX20 mg(n = 511) |
-| Adverse Event Groupa | n (%) | n (%) |
+|  | Number (n) and Percentage of Patients |  |
 | Depression | 23 (5) | 32 (6) |
 | Tumor Flare | 15 (3) | 18 (4) |
-| Thromboembolic Diseasea | 18 (4) | 33 (6) |
-| Venousb | 5 | 15 |
-| Coronary and Cerebralc | 13 | 19 |
+| Thromboembolic DiseaseIncludes pulmonary embolus, thrombophlebitis, retinal vein thrombosis. | 18 (4) | 33 (6) |
+| Venous | 5 | 15 |
+| Coronary and CerebralIncludes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct. | 13 | 19 |
 | Gastrointestinal Disturbance | 170 (34) | 196 (38) |
 | Hot Flushes | 134 (26) | 118 (23) |
 | Vaginal Dryness | 9 (2) | 3 (1) |
 | Lethargy | 6 (1) | 15 (3) |
 | Vaginal Bleeding | 5 (1) | 11 (2) |
 | Weight Gain | 11 (2) | 8 (2) |
-| a A patient may have had more than 1 adverse event |  |  |
-| bIncludes pulmonary embolus, thrombophlebitis, retinal vein thrombosis |  |  |
-| cIncludes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct |  |  |
 
-Despite the lack of estrogenic activity for ARIMIDEX, there was no increase in myocardial infarction or fracture when compared with tamoxifen.
-
-## Second Line Therapy
+### Second-Line Therapy
 
 ARIMIDEX was generally well tolerated in two well-controlled clinical trials (ie, Trials 0004 and 0005), with less than 3.3% of the ARIMIDEX-treated patients and 4.0% of the megestrol acetate-treated patients withdrawing due to an adverse event.
 
 The principal adverse event more common with ARIMIDEX than megestrol acetate was diarrhea.
 Adverse events reported in greater than 5% of the patients in any of the treatment groups in these two well-controlled clinical trials, regardless of causality, are presented below:
 
-| Adverse Event | ARIMIDEX1 mg(n = 262)n % | ARIMIDEX10 mg(n = 246)n% | MegesterolAcetate160 mg(n = 253)n% |
-| --- | --- | --- | --- |
-| Asthenia | 42(16) | 33(13) | 47(19) |
-| Nausea | 41(16) | 48(20) | 28(11) |
-| Headache | 34(13) | 44(18) | 24(9) |
-| Hot Flashes | 32(12) | 29(11) | 21(8) |
-| Pain | 28(11) | 38(15) | 29(11) |
-| Back Pain | 28(11) | 26(11) | 19(8) |
-| Dyspnea | 24(9) | 27(11) | 53(21) |
-| Vomiting | 24(9) | 26(11) | 16(6) |
-| Cough Increased | 22(8) | 18(7) | 19(8) |
-| Diarrhea | 22(8) | 18(7) | 7(3) |
-| Constipation | 18(7) | 18(7) | 21(8) |
-| Abdominal Pain | 18(7) | 14(6) | 18(7) |
-| Anorexia | 18(7) | 19(8) | 11(4) |
-| Bone Pain | 17(6) | 26(12) | 19(8) |
-| Pharyngitis | 16(6) | 23(9) | 15(6) |
-| Dizziness | 16(6) | 12(5) | 15(6) |
-| Rash | 15(6) | 15(6) | 19(8) |
-| Dry Mouth | 15(6) | 11(4) | 13(5) |
-| Peripheral Edema | 14(5) | 21(9) | 28(11) |
-| Pelvic Pain | 14(5) | 17(7) | 13(5) |
-| Depression | 14(5) | 6(2) | 5(2) |
-| Chest Pain | 13(5) | 18(7) | 13(5) |
-| Paresthesia | 12(5) | 15(6) | 9(4) |
-| Vaginal Hemorrhage | 6(2) | 4(2) | 13(5) |
-| Weight Gain | 4(2) | 9(4) | 30(12) |
-| Sweating | 4(2) | 3(1) | 16(6) |
-| Increased Appetite | 0(0) | 1(0) | 13(5) |
-| †A patient may have more than one adverse event. |  |  |  |
+Table 5 — Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005A patient may have had more then one adverse reaction
 
-Other less frequent (2% to 5%) adverse experiences reported in patients receiving ARIMIDEX l mg in either Trial 0004 or Trial 0005 are listed below.
+| n | % | n | % | n | % |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adverse Reaction | ARIMIDEX |  | ARIMIDEX |  | Megesterol Acetate |  |
+| 1 mg |  | 10 mg |  | 160 mg |  |  |
+| (n=262) |  | (n=246) |  | (n=253) |  |  |
+| Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
+| Nausea | 41 | (16) | 48 | (20) | 28 | (11) |
+| Headache | 34 | (13) | 44 | (18) | 24 | (9) |
+| Hot Flashes | 32 | (12) | 29 | (11) | 21 | (8) |
+| Pain | 28 | (11) | 38 | (15) | 29 | (11) |
+| Back Pain | 28 | (11) | 26 | (11) | 19 | (8) |
+| Dyspnea | 24 | (9) | 27 | (11) | 53 | (21) |
+| Vomiting | 24 | (9) | 26 | (11) | 16 | (6) |
+| Cough Increased | 22 | (8) | 18 | (7) | 19 | (8) |
+| Diarrhea | 22 | (8) | 18 | (7) | 7 | (3) |
+| Constipation | 18 | (7) | 18 | (7) | 21 | (8) |
+| Abdominal Pain | 18 | (7) | 14 | (6) | 18 | (7) |
+| Anorexia | 18 | (7) | 19 | (8) | 11 | (4) |
+| Bone Pain | 17 | (6) | 26 | (12) | 19 | (8) |
+| Pharyngitis | 16 | (6) | 23 | (9) | 15 | (6) |
+| Dizziness | 16 | (6) | 12 | (5) | 15 | (6) |
+| Rash | 15 | (6) | 15 | (6) | 19 | (8) |
+| Dry Mouth | 15 | (6) | 11 | (4) | 13 | (5) |
+| Peripheral Edema | 14 | (5) | 21 | (9) | 28 | (11) |
+| Pelvic Pain | 14 | (5) | 17 | (7) | 13 | (5) |
+| Depression | 14 | (5) | 6 | (2) | 5 | (2) |
+| Chest Pain | 13 | (5) | 18 | (7) | 13 | (5) |
+| Paresthesia | 12 | (5) | 15 | (6) | 9 | (4) |
+| Vaginal Hemorrhage | 6 | (2) | 4 | (2) | 13 | (5) |
+| Weight Gain | 4 | (2) | 9 | (4) | 30 | (12) |
+| Sweating | 4 | (2) | 3 | (1) | 16 | (6) |
+| Increased Appetite | 0 | (0) | 1 | (0) | 13 | (5) |
+
+Other less frequent (2% to 5%) adverse reactions reported in patients receiving ARIMIDEX l mg in either Trial 0004 or Trial 0005 are listed below.
 These adverse experiences are listed by body system and are in order of decreasing frequency within each body system regardless of assessed causality.
 
 Body as a Whole: Flu syndrome; fever; neck pain; malaise; accidental injury; infection
@@ -254,7 +290,7 @@ Nervous: Somnolence; confusion; insomnia; anxiety; nervousness
 
 Respiratory: Sinusitis; bronchitis; rhinitis
 
-Skin and Appendages: Hair thinning; pruritus
+Skin and Appendages: Hair thinning (alopecia); pruritus
 
 Urogenital: Urinary tract infection; breast pain
 
@@ -262,38 +298,26 @@ The incidences of the following adverse event groups potentially causally relate
 These six groups, and the adverse events captured in the groups, were prospectively defined.
 The results are shown in the table below.
 
-Table 13 - Number (n) and Percentage of Patients
+Table 6 — Number (n) and Percentage of Patients with Pre-Specified Adverse Reactions in Trials 0004 and 0005
 
-| Adverse Event Group | ARIMIDEX1 mg(n = 262)n (%) | ARIMIDEX10 mg(n = 246)n (%) | Megestrol Acetate160 mg(n = 253)n (%) |
-| --- | --- | --- | --- |
-| Gastrointestinal Disturbance | 77(29) | 81(33) | 54(21) |
-| Hot Flushes | 33(13) | 29(12) | 35(14) |
-| Edema | 19(7) | 28(11) | 35(14) |
-| Thromboembolic Disease | 9(3) | 4(2) | 12(5) |
-| Vaginal Dryness | 5(2) | 3(1) | 2(1) |
-| Weight Gain | 4(2) | 10(4) | 30(12) |
+| Adverse Event Group | n | (%) | n | (%) | n | (%) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | ARIMIDEX |  | ARIMIDEX |  | Megestrol Acetate |  |
+| 1 mg |  | 10 mg |  | 160 mg |  |  |
+| (n=262) |  | (n=246) |  | (n=253) |  |  |
+| Gastrointestinal Disturbance | 77 | (29) | 81 | (33) | 54 | (21) |
+| Hot Flushes | 33 | (13) | 29 | (12) | 35 | (14) |
+| Edema | 19 | (7) | 28 | (11) | 35 | (14) |
+| Thromboembolic Disease | 9 | (3) | 4 | (2) | 12 | (5) |
+| Vaginal Dryness | 5 | (2) | 3 | (1) | 2 | (1) |
+| Weight Gain | 4 | (2) | 10 | (4) | 30 | (12) |
 
-More patients treated with megestrol acetate reported weight gain as an adverse event compared to patients treated with ARIMIDEX 1 mg (p<0.0001).
-Other differences were not statistically significant.
+## 6.2 Post-Marketing Experience
 
-An examination of the magnitude of change in weight in all patients was also conducted.
-Thirty-four percent (87/253) of the patients treated with megestrol acetate experienced weight gain of 5% or more and 11% (27/253) of the patients treated with megestrol acetate experienced weight gain of 10% or more.
-Among patients treated with ARIMIDEX 1 mg, 13% [33/262] experienced weight gain of 5% or more and 3% [6/262] experienced weight gain of 10% or more.
-On average, this 5 to 10% weight gain represented between 6 and 12 pounds.
-
-No patients receiving ARIMIDEX or megestrol acetate discontinued treatment due to drug-related weight gain.
-
-## Post-Marketing Experience
-
-Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, and aspartate aminotransferase have been reported commonly (>1% and <10%) and gamma-GT, bilirubin and hepatitis have been reported uncommonly (> 0.1% and <1%) in patients receiving ARIMIDEX.
-
-Vaginal bleeding has been reported infrequently, mainly in patients during the first few weeks after changing from existing hormonal therapy to treatment with ARIMIDEX.
-If bleeding persists, further evaluation should be considered.
-
-During clinical trials and postmarketing experience joint pain/stiffness has been reported in association with the use of ARIMIDEX.
-
-Carpal tunnel syndrome was reported more frequently in patients receiving ARIMIDEX than in those receiving tamoxifen in clinical trials; carpal tunnel has also been reported during post-marketing experience with ARIMIDEX.
-The majority of these reports occurred in patients with identifiable risk factors for the condition.
+Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase have been reported (>1% and <10%) and gamma-GT, bilirubin and hepatitis have been reported (> 0.1% and <1%) in patients receiving ARIMIDEX.
 
 ARIMIDEX may also be associated with rash including very rare cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
-Very rare cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving ARIMIDEX.
+
+Cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving ARIMIDEX [see Contraindications (4.2)].
+
+Trigger finger has been reported (>0.1% and <1%) in patients receiving ARIMIDEX.

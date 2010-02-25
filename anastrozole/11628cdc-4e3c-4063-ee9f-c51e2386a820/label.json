@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020541"
+  ],
   "inn": "anastrozole",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
-    "0310-0201-30"
+    "0310-0201-30",
+    "0310-0201-97"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "anastrozole",
+      "name": "ARIMIDEX"
+    }
+  ],
   "setid": "11628cdc-4e3c-4063-ee9f-c51e2386a820",
   "source": "dailymed"
 }
