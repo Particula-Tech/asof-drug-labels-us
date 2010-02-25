@@ -38,7 +38,7 @@ Dispose unused product or waste properly.
 
 *Thomson Healthcare, Inc.
 
-REV: AUGUST 2008 T2008-81
+REV: JANUARY 2010 T2010-24
 
 Manufactured by:
 

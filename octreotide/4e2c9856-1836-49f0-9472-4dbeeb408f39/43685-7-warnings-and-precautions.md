@@ -117,27 +117,20 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Experience with Sandostatin in the pediatric population is limited.
-Although formal controlled clinical trials have not been performed to evaluate safety and effectiveness in this age group, there are reports of 49 cases in the literature of neonates and infants with congenital hyperinsulinism [also called familial hyperinsulinism (HI), persistent hyperinsulinemic hypoglycemia of infancy (PHHI), or nesidioblastosis] who have received Sandostatin as an inhibitor of insulin release.
-The following efficacy and safety information is derived from these 49 patients.
+Safety and efficacy of Sandostatin Injection in the pediatric population have not been demonstrated.
 
-Sandostatin has been used to stabilize plasma glucose levels prior to pancreatectomy and to treat recurrent post-operative hypoglycemia.
-Although most use of octreotide in this setting is short-term, a few reports in the literature have documented longer-term therapy in pediatric patients (2.2-5.5 years).
-Octreotide is an alternative medical treatment to diazoxide for control of hypoglycemia in this disorder.
-Of 31 pediatric patients who received Sandostatin as prescribed for congenital hyperinsulinism and for which long-term follow-up was available, octreotide obviated the need for surgery in 3 patients (10%) and was replaced by diazoxide in 4 patients (13%) due to uncontrolled hypoglycemia.
-Although the remainder of these patients required surgery, there have been a few reports in the literature of patients who have responded to octreotide after failing treatment with surgery and/or diazoxide.
-Doses of 3-40 mcg/kg/day have been used.
-At these doses, the majority of side effects were gastrointestinal: diarrhea, steatorrhea, vomiting, and abdominal distention, each reported in 22%-35% (n = 11-17) of patients.
-However, they were generally short-lived – with resolution of vomiting and distention in 2-4 days, and diarrhea/steatorrhea, within 2-4 weeks.
-Steatorrhea was controlled in most patients with pancreatic enzyme supplements.
-Poor growth was reported in 37% of patients (n = 7) who received Sandostatin for 1-4.33 years.
-It was associated with low serum growth hormone and/or IGF-1 levels in 4/6 patients in whom these parameters were measured.
-Catch-up growth occurred in 3/3 patients who were followed after Sandostatin was discontinued.
-Poor weight gain was reported in 32% of patients (n = 6).
-Tachyphylaxis was reported in 35% (n = 17) of patients.
-Asymptomatic gallstones with sludge was reported in one infant after one year of therapy and was treated with ursodeoxycholic acid.
-There has been a single report of an infant with nesidioblastosis who experienced a seizure thought to be independent of Sandostatin therapy.
-A single death has been reported in a 16-month-old male with enterocutaneous fistula who developed sudden abdominal pain and increased nasogastric drainage and expired 8 hours after receiving a single 100 mcg subcutaneous dose of Sandostatin.
+No formal controlled clinical trials have been performed to evaluate the safety and effectiveness of Sandostatin in pediatric under age 6 years.
+In post-marketing report, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with Sandostatin use in children, most notably in children under 2 years of age.
+The relationship of these events to octreotide has not been established as the majority of these pediatric patients had serious underlying co-morbid conditions.
+
+The efficacy and safety of Sandostatin using the Sandostatin LAR Depot formulation was examined in a single randomized, double-blind, placebo-controlled, six–month pharmacokinetics study in 60 pediatric patients age 6-17 years with hypothalamic obesity resulting from cranial insult.
+The mean octreotide concentration after 6 doses of 40 mg Sandostatin LAR Depot administered by IM injection every four weeks was approximately 3 ng/ml.
+Steady-state concentrations was achieved after 3 injections of a 40 mg dose.
+Mean BMI increased 0.1 kg/m2 in Sandostatin LAR Depot-treated subjects compared to 0.0 kg/m2 in saline control-treated subjects.
+Efficacy was not demonstrated.
+Diarrhea occurred in 11 of 30 (37%) patients treated with Sandostatin LAR Depot.
+No unexpected adverse events were observed.
+However, with Sandostatin LAR Depot 40 mg once a month, the incidence of new cholelithiasis in this pediatric population (33%) was higher than that seen in other adults indications such as acromegaly (22%) or malignant carcinoid syndrome (24%), where Sandostatin LAR Depot was 10 to 30 mg once a month.
 
 ## Geriatric Use
 
