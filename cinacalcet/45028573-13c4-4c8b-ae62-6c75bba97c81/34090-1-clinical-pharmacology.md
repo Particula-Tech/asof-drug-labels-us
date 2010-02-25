@@ -13,9 +13,7 @@ The reduction in PTH is associated with a concomitant decrease in serum calcium 
 
 ## Pharmacokinetics
 
-### Absorption and Distribution
-
-After oral administration of cinacalcet, maximum plasma concentration (Cmax) is achieved in approximately 2 to 6 hours.
+Absorption and Distribution: After oral administration of cinacalcet, maximum plasma concentration (Cmax) is achieved in approximately 2 to 6 hours.
 A food-effect study in healthy volunteers indicated that the Cmax and area under the curve (AUC(0-inf)) were increased 82% and 68%, respectively, when cinacalcet was administered with a high-fat meal compared to fasting.
 Cmax and AUC(0-inf) of cinacalcet were increased 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared to fasting.
 
@@ -29,9 +27,7 @@ The volume of distribution is high (approximately 1000 L), indicating extensive 
 Cinacalcet is approximately 93 to 97% bound to plasma protein(s).
 The ratio of blood cinacalcet concentration to plasma cinacalcet concentration is 0.80 at a blood cinacalcet concentration of 10 ng/mL.
 
-### Metabolism and Excretion
-
-Cinacalcet is metabolized by multiple enzymes, primarily CYP3A4, CYP2D6 and CYP1A2.
+Metabolism and Excretion: Cinacalcet is metabolized by multiple enzymes, primarily CYP3A4, CYP2D6 and CYP1A2.
 After administration of a 75 mg radiolabeled dose to healthy volunteers, cinacalcet was rapidly and extensively metabolized via: 1) oxidative N-dealkylation to hydrocinnamic acid and hydroxy-hydrocinnamic acid, which are further metabolized via β-oxidation and glycine conjugation; the oxidative N-dealkylation process also generates metabolites that contain the naphthalene ring; and 2) oxidation of the naphthalene ring on the parent drug to form dihydrodiols, which are further conjugated with glucuronic acid.
 The plasma concentrations of the major circulating metabolites including the cinnamic acid derivatives and glucuronidated dihydrodiols markedly exceed parent drug concentrations.
 The hydrocinnamic acid metabolite was shown to be inactive at concentrations up to 10 µM in a cell-based assay measuring calcium-receptor activation.
@@ -41,26 +37,18 @@ Approximately 80% of the dose was recovered in the urine and 15% in the feces.
 
 ## Special Populations
 
-### Hepatic Insufficiency
-
-The disposition of a 50 mg cinacalcet single dose was compared in patients with hepatic impairment and subjects with normal hepatic function.
+Hepatic Insufficiency: The disposition of a 50 mg cinacalcet single dose was compared in patients with hepatic impairment and subjects with normal hepatic function.
 Cinacalcet exposure, AUC(0-inf), was comparable between healthy volunteers and patients with mild hepatic impairment.
 However, in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method), cinacalcet exposures as defined by the AUC(0-inf) were 2.4 and 4.2 times higher, respectively, than that in normals.
 The mean half-life of cinacalcet is prolonged by 33% and 70% in patients with moderate and severe hepatic impairment, respectively.
 Protein binding of cinacalcet is not affected by impaired hepatic function.
 See PRECAUTIONS and DOSAGE AND ADMINISTRATION.
 
-### Renal Insufficiency
+Renal Insufficiency: The pharmacokinetic profile of a 75 mg Sensipar® single dose in patients with mild, moderate, and severe renal insufficiency, and those on hemodialysis or peritoneal dialysis is comparable to that in healthy volunteers.
 
-The pharmacokinetic profile of a 75 mg Sensipar® single dose in patients with mild, moderate, and severe renal insufficiency, and those on hemodialysis or peritoneal dialysis is comparable to that in healthy volunteers.
+Geriatric Patients: The pharmacokinetic profile of Sensipar® in geriatric patients (age ≥ 65, n = 12) is similar to that for patients who are < 65 years of age (n = 268).
 
-### Geriatric Patients
-
-The pharmacokinetic profile of Sensipar® in geriatric patients (age ≥ 65, n = 12) is similar to that for patients who are < 65 years of age (n = 268).
-
-### Pediatric Patients
-
-The pharmacokinetics of Sensipar® have not been studied in patients < 18 years of age.
+Pediatric Patients: The pharmacokinetics of Sensipar® have not been studied in patients < 18 years of age.
 
 ## Drug Interactions
 

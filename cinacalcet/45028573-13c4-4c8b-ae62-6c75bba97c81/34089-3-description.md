@@ -12,4 +12,4 @@ Sensipar® tablets are formulated as light-green, film-coated, oval-shaped table
 Cinacalcet is described chemically as N-[1-(R)-(-)-(1-naphthyl)ethyl]-3-[3-(trifluoromethyl)phenyl]-1-aminopropane hydrochloride and has the following structural formula:
 
 Inactive Ingredients: Sensipar® tablets are comprised of the active ingredient, and the following inactive ingredients: pre-gelatinized starch, microcrystalline cellulose, povidone, crospovidone, colloidal silicon dioxide, and magnesium stearate.
-Tablets are coated with color (Opadry® II green) and clear film-coat (Opadry® clear), carnauba wax, and Opacode® black ink.
+Tablets are coated with color (Opadry® II green), clear film-coat (Opadry® clear) and carnauba wax.

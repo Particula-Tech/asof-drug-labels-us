@@ -24,17 +24,11 @@ The dosage of Sensipar® should be titrated every 2 to 4 weeks through sequentia
 
 ## Special Populations
 
-### Geriatric patients
+Geriatric patients: Age does not alter the pharmacokinetics of Sensipar®; no dosage adjustment is required for geriatric patients.
 
-Age does not alter the pharmacokinetics of Sensipar®; no dosage adjustment is required for geriatric patients.
+Patients with renal impairment: Renal impairment does not alter the pharmacokinetics of Sensipar®; no dosage adjustment is necessary for renal impairment.
 
-### Patients with renal impairment
-
-Renal impairment does not alter the pharmacokinetics of Sensipar®; no dosage adjustment is necessary for renal impairment.
-
-### Patients with hepatic impairment
-
-Cinacalcet exposures, as assessed by AUC(0-inf), in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method) were 2.4 and 4.2 times higher, respectively, than in normals.
+Patients with hepatic impairment: Cinacalcet exposures, as assessed by AUC(0-inf), in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method) were 2.4 and 4.2 times higher, respectively, than in normals.
 In patients with moderate and severe hepatic impairment, PTH and serum calcium concentrations should be closely monitored throughout treatment with Sensipar® (see CLINICAL PHARMACOLOGY, Pharmacokinetics and PRECAUTIONS).
 
 ## Drug Interactions
