@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022173"
+  ],
+  "inn": "olanzapine",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-7635-11",
+    "0002-7635-63",
+    "0002-7636-11",
+    "0002-7637-11"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "olanzapine pamoate",
+      "name": "ZYPREXA"
+    }
+  ],
+  "setid": "f9a73185-88de-4d7b-b3c0-bbf231483241",
+  "source": "dailymed"
+}
