@@ -3,7 +3,6 @@
 PROCRIT® (PRO'–KRIT) (epoetin alfa)
 
 Read this Medication Guide before you start PROCRIT, each time you refill your prescription, and if you are told by your healthcare provider that there is new information about PROCRIT.
-This Medication Guide was revised August 2008.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 Talk with your healthcare provider regularly about the use of PROCRIT and ask if there is new information about PROCRIT.
 
@@ -13,7 +12,11 @@ Using PROCRIT can lead to death or other serious side effects.
 
 Patients with cancer:
 
-Your tumor may grow faster and you may die sooner when PROCRIT is used experimentally to try to raise your hemoglobin beyond the amount needed to avoid red blood cell transfusion or given to patients who are not getting strong doses of chemotherapy.
+Your healthcare provider has received special training through the ESA APPRISE Oncology Program in order to prescribe PROCRIT.
+Before you can begin to receive PROCRIT, you must sign the ESA APPRISE Oncology Patient and Healthcare Professional (HCP) Acknowledgement Form to document that your healthcare provider discussed the risks of PROCRIT with you.
+When you sign this form, you are stating that you are aware of the risks associated with use of PROCRIT.
+
+These risks include that your tumor may grow faster and you may die sooner when PROCRIT is used experimentally to try to raise your hemoglobin beyond the amount needed to avoid red blood cell transfusion or if you are not getting strong doses of chemotherapy.
 It is not known whether these risks exist when PROCRIT is given according to the FDA-approved directions for use.
 
 You should discuss with your doctor:
@@ -68,13 +71,25 @@ PROCRIT may be used to treat a lower than normal number of red blood cells (anem
 
 PROCRIT may also be used if you are scheduled for certain surgeries with a lot of blood loss to reduce the chance you will need red blood cell transfusions.
 
+PROCRIT should not be used for treatment of anemia:
+
+- In place of emergency treatment (red blood cell transfusions)
+- If you have cancer and you are not receiving chemotherapy that may cause anemia
+- If your cancer has a high chance of being cured
+
+PROCRIT should not be used if you are scheduled for certain surgeries and you are able and willing to donate blood prior to surgery.
+
 Who should not take PROCRIT?
 
 Do not take PROCRIT if you:
 
+- Have cancer and have not been counseled by your healthcare provider regarding the risks of PROCRIT and signed the ESA APPRISE Oncology Program Patient and Healthcare Professional (HCP) Acknowledgement Form before you begin to receive PROCRIT.
 - Have high blood pressure that is not controlled (uncontrolled hypertension).
+- Have been told by your healthcare provider that you have or have ever had a type of anemia called Pure Red Cell Aplasia (PRCA) that starts after treatment with PROCRIT or other erythropoietin medicines.
 - Have allergies to any of the ingredients in PROCRIT.
   See the end of this Medication Guide for a complete list of ingredients in PROCRIT.
+
+Do not give PROCRIT from multidose vials to premature babies.
 
 What should I tell my healthcare provider before taking PROCRIT?
 
@@ -86,10 +101,9 @@ Tell your healthcare provider about all your health conditions, including if you
 - Have had a seizure (convulsion) or stroke.
 - Are pregnant or planning to become pregnant.
   It is not known if PROCRIT may harm your unborn baby.
+  Talk with your healthcare provider about possible pregnancy and birth control choices that are right for you.
 - Are breast-feeding or planning to breast-feed.
   It is not known if PROCRIT passes into breast milk.
-- Women who do not have regular monthly menstrual periods may begin to have monthly periods while taking PROCRIT.
-  Talk with your doctor about the possibility of pregnancy while taking PROCRIT.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -97,6 +111,16 @@ Know the medicines you take.
 Keep a list of your medicines with you and show it to your healthcare provider when you get a new medicine.
 
 How should I take PROCRIT?
+
+Patients with cancer:
+
+Before you begin to receive PROCRIT, your healthcare provider will:
+
+- Ask you to review this PROCRIT Medication Guide
+- Explain the risks of PROCRIT and answer all your questions about PROCRIT
+- Have you sign the ESA APPRISE Oncology Program Patient and Healthcare Professional (HCP) Acknowledgement Form
+
+All patients:
 
 - Continue to follow your healthcare provider's instructions for diet, dialysis, and medicines, including medicines for high blood pressure, while taking PROCRIT.
 - Have your blood pressure checked as instructed by your healthcare provider.
@@ -131,7 +155,8 @@ Other side effects of PROCRIT, which may also be serious, include:
   Serious allergic reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness and fainting because of a drop in blood pressure, swelling around your mouth or eyes, fast pulse, or sweating.
   If you have a serious allergic reaction, stop using PROCRIT and call your healthcare provider or get medical help right away.
 - Dangers of giving PROCRIT to premature babies.
-  PROCRIT from multidose vials that contain benzyl alcohol should not be given to premature babies because it can cause death and brain damage.
+  PROCRIT from multi-dose vials contain benzyl alcohol.
+  Do not give PROCRIT from multidose vials to premature babies because it can cause death and brain damage.
 
 Common side effects of PROCRIT include:
 
@@ -169,21 +194,21 @@ It may harm them.
 This Medication Guide summarizes the most important information about PROCRIT.
 If you would like more information about PROCRIT, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about PROCRIT that is written for healthcare professionals.
-For more information, go to the following website: www.PROCRIT.com or call 1 888 2ASK OBI or 1-888-227-5624.
+For more information, go to the following website: www.PROCRIT.com or call 1 888 2ASK OBI (1-888-227-5624).
 
 What are the ingredients in PROCRIT?
 
 Active Ingredient: epoetin alfa
 
-Inactive Ingredients: All formulations include albumin (human), sodium citrate, sodium chloride, and citric acid in water for injection.
-Multi-use vials contain benzyl alcohol.
+Inactive Ingredients: All formulations include albumin (human), sodium citrate, sodium chloride, and citric acid in Water for Injection.
+Multidose vials contain benzyl alcohol.
 Certain formulations also contain sodium phosphate monobasic monohydrate and sodium phosphate dibasic anhydrate.
 
-Revised: 10/2009
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
+Manufactured by: Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
 
 Manufactured for: Centocor Ortho Biotech Products, L.P.
 Raritan, New Jersey 08869-0670 © COBPLP 2000 Printed in U. S. A.
+
+Revised: 02/2010
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

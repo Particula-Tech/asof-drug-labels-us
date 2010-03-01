@@ -172,4 +172,4 @@ For further product information and the current package insert, please visit www
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
 
 Manufactured for: Centocor Ortho Biotech Products, L.P.
-Raritan, New Jersey 08869-0670 Revised: 01/2010 xxxxxxx © COBPLP 2000 Printed in U. S. A.
+Raritan, New Jersey 08869-0670 Revised: 02/2010 xxxxxxx © COBPLP 2000 Printed in U. S. A.

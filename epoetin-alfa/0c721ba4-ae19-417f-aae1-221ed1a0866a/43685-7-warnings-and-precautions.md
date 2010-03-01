@@ -109,6 +109,12 @@ Cancer Study 6 (DAHANCA 10) was conducted in 522 patients with primary squamous 
 An interim analysis on 484 patients demonstrated that locoregional control at 5 years was significantly shorter in patients receiving darbepoetin alfa (RR 1.44, 95% CI: 1.06, 1.96; p = 0.02).
 Overall survival was shorter in patients receiving darbepoetin alfa (RR 1.28, 95% CI: 0.98, 1.68; p = 0.08).
 
+### ESA APPRISE Oncology Program
+
+Prescribers and hospitals must enroll in and comply with the ESA APPRISE Oncology Program to prescribe and/or dispense PROCRIT® to patients with cancer.
+To enroll, visit www.esa-apprise.com or call 1-866-284-8089 for further assistance.
+Additionally, prescribers and patients must provide written acknowledgement of a discussion of the risks associated with PROCRIT®.
+
 ### Pure Red Cell Aplasia
 
 Cases of pure red cell aplasia (PRCA) and of severe anemia, with or without other cytopenias, associated with neutralizing antibodies to erythropoietin have been reported in patients treated with PROCRIT®.
@@ -157,6 +163,15 @@ Other thrombotic events (eg, myocardial infarction, cerebrovascular accident, tr
 These trials were conducted in adult patients with CRF (whether on dialysis or not) in whom the target hematocrit was 32% to 40%.
 However, the risk of thrombotic events, including vascular access thrombosis, was significantly increased in adult patients with ischemic heart disease or congestive heart failure receiving PROCRIT® therapy with the goal of reaching a normal hematocrit (42%) as compared to a target hematocrit of 30%.
 Patients with pre-existing cardiovascular disease should be monitored closely.
+
+Predialysis Management: In 2 investigational studies of extended dosing (TIW, QW, Q2W and Q4W) some patients with longer dosing intervals did not maintain adequate hemoglobin levels and more patients discontinued study treatment.
+
+In the initiation and maintenance study, PROCRIT® was administered SC TIW, QW, or Q2W.
+Although the primary hemoglobin endpoint was met, the upper bound of the 95% CI (confidence interval) for the difference between the Q2W and TIW groups was less than zero, suggesting that Q2W dosing was inferior.
+In the maintenance study, the mean proportion of weeks that hemoglobin concentrations were maintained, within the range of 10 to 12 g/dL, was lower in patients receiving PROCRIT® dosed Q4W (75%) compared with Q2W (81%) or QW (81%) dosing.
+The percentages of patients who met the hemoglobin withdrawal criteria were 0% in QW, 3.7% in Q2W, and 3.3% in the Q4W groups.
+
+Hemoglobin should be monitored regularly (see PRECAUTIONS, Lab Monitoring).
 
 ## Zidovudine-treated HIV-infected Patients
 
@@ -318,14 +333,6 @@ The importance of compliance with dietary and dialysis prescriptions should be r
 In particular, hyperkalemia is not uncommon in patients with CRF.
 In US studies in patients on dialysis, hyperkalemia has occurred at an annualized rate of approximately 0.11 episodes per patient-year of PROCRIT® therapy, often in association with poor compliance to medication, diet, and/or dialysis.
 
-## Dialysis Management
-
-Therapy with PROCRIT® results in an increase in hematocrit and a decrease in plasma volume which could affect dialysis efficiency.
-In studies to date, the resulting increase in hematocrit did not appear to adversely affect dialyzer function8,9 or the efficiency of high flux hemodialysis.10 During hemodialysis, patients treated with PROCRIT® may require increased anticoagulation with heparin to prevent clotting of the artificial kidney.
-
-Patients who are marginally dialyzed may require adjustments in their dialysis prescription.
-As with all patients on dialysis, the serum chemistry values (including BUN, creatinine, phosphorus, and potassium) in patients treated with PROCRIT® should be monitored regularly to assure the adequacy of the dialysis prescription.
-
 ### Renal Function
 
 In adult patients with CRF not on dialysis, renal function and fluid and electrolyte balance should be closely monitored.
@@ -366,8 +373,8 @@ In a placebo-controlled, double-blind trial utilizing weekly dosing with PROCRIT
 A definitive relationship between the rate of hemoglobin increase and the occurrence of clinically significant thrombotic events could not be evaluated due to the limited schedule of hemoglobin measurements in this study.
 
 The safety and efficacy of PROCRIT ® were evaluated in a randomized, double-blind, placebo-controlled, multicenter study that enrolled 222 anemic patients ages 5 to 18 receiving treatment for a variety of childhood malignancies.
-Due to the study design (small sample size and the heterogeneity of the underlying malignancies and of anti-neoplastic treatments employed), a determination of the effect of PROCRIT ® on the incidence of thrombotic events could not be performed.
-In the PROCRIT ® arm, the overall incidence of thrombotic events was 10.8% and the incidence of serious or life-threatening events was 7.2%.
+Due to the study design (small sample size and the heterogeneity of the underlying malignancies and of anti-neoplastic treatments employed), a determination of the effect of PROCRIT® on the incidence of thrombotic events could not be performed.
+In the PROCRIT® arm, the overall incidence of thrombotic events was 10.8% and the incidence of serious or life-threatening events was 7.2%.
 
 ## Surgery Patients
 
