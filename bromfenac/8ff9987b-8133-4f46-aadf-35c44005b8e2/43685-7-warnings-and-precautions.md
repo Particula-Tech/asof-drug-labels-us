@@ -36,7 +36,9 @@ XIBROM ophthalmic solution should not be administered while wearing contact lens
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
-Long-term carcinogenicity studies in rats and mice given oral doses of bromfenac up to 0.6 mg/kg/day (360 times the recommended human ophthalmic dose [RHOD] of 1.67 µg/kg in 60 kg person on a mg/kg/basis, assuming 100% absorbed) and 5.0 mg/kg/day (3000 times RHOD), respectively revealed no significant increases in tumor incidence.
+Long-term carcinogenicity studies in rats and mice given oral doses of bromfenac
+
+up to 0.6 mg/kg/day (360 times the recommended human ophthalmic dose [RHOD] of 1.67 µg/kg in 60 kg person on a mg/kg/basis, assuming 100% absorbed) and 5.0 mg/kg/day (3000 times RHOD), respectively revealed no significant increases in tumor incidence.
 
 Bromfenac did not show mutagenic potential in various mutagenicity studies, including the reverse mutation, chromosomal aberration, and micronucleus tests.
 

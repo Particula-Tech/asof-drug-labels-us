@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 XIBROM (bromfenac ophthalmic solution) 0.09% is a sterile, topical, nonsteroidal anti-inflammatory drug (NSAID) for ophthalmic use.
-Each mL of Xibrom contains 1.035 mg bromfenac sodium equivalent to 0.9 mg bromfenac free acid.
+Each mL of Xibrom contains 1.035 mg bromfenac sodium (equivalent to 0.9 mg bromfenac free acid).
 Bromfenac sodium is designated chemically as sodium 2-amino-3-(4-bromobenzoyl) phenylacetate sesquihydrate, with an empirical formula of C15H11BrNNaO3 • 1½H2O.
 The structural formula of bromfenac sodium is:
 

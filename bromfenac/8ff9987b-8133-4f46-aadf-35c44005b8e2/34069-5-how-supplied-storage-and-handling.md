@@ -2,9 +2,13 @@
 
 XIBROM™ (bromfenac ophthalmic solution) 0.09% is supplied in a white LDPE plastic squeeze bottle with a 15 mm LDPE white dropper-tip and 15 mm polypropylene gray cap as follows:
 
-NDC 67425-004-505 mL in 10 mL container
+NDC 67425-004-50
 
-NDC 67425-004-122.5 mL in 7.5 mL container
+5 mL in 10 cc container
+
+NDC 67425-004-12
+
+2.5 mL in 7.5 cc container
 
 ## Storage
 
