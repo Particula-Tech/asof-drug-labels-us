@@ -111,7 +111,7 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 ## A. General
 
 1.
-Addition of a progestinwhen a woman has not had a hysterectomy.
+Addition of a progestin when a woman has not had a hysterectomy.
 Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.
 There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
@@ -123,12 +123,10 @@ In a small number of case reports, substantial increases in blood pressure have 
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
 Blood pressure should be monitored at regular intervals with estrogen use.
 
-3.
-Hypertriglyceridemia.
+3.Hypertriglyceridemia.
 In patients with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis and other complications.
 
-4.
-Impaired Liver Function and past history of cholestatic jaundice.
+4.Impaired Liver Function and past history of cholestatic jaundice.
 Although transdermally administered estrogen therapy avoids first-pass hepatic metabolism, estrogens may be poorly metabolized in patients with impaired liver function.
 For patients with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised and in the case of recurrence, medication should be discontinued.
 

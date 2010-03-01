@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-## Vivelle-Dot®
+Vivelle-Dot®
 
 (estradiol transdermal system)
 

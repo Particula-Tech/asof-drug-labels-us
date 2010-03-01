@@ -17,8 +17,10 @@ The molecular weight is 272.39.
 Vivelle-Dot is comprised of three layers.
 Proceeding from the visible surface toward the surface attached to the skin, these layers are (1) a translucent polyolefin film (2) an adhesive formulation containing estradiol, acrylic adhesive, silicone adhesive, oleyl alcohol, NF, povidone, USP and dipropylene glycol, and (3) a polyester release liner which is attached to the adhesive surface and must be removed before the system can be used.
 
-|  | ----- (1) Backing ----- (2) Adhesive Containing Estradiol ----- (3) Protective Liner |
+|  | ----- (1) Backing |
 | --- | --- |
+|  | ----- (2) Adhesive Containing Estradiol |
+|  | ----- (3) Protective Liner |
 
 The active component of the system is estradiol.
 The remaining components of the system are pharmacologically inactive.
