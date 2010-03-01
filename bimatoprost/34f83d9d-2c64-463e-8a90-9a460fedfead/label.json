@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "bimatoprost",
-  "labeler": "Allergan",
-  "package_ndcs": [
-    "0023-3616-03"
+  "application_numbers": [
+    "NDA022369"
   ],
-  "products": [],
+  "inn": "bimatoprost",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-3616-03",
+    "0023-3616-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bimatoprost",
+      "name": "LATISSE"
+    }
+  ],
   "setid": "34f83d9d-2c64-463e-8a90-9a460fedfead",
   "source": "dailymed"
 }
