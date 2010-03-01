@@ -8,7 +8,7 @@ Such treatment should be initiated in a coronary care or similar unit immediatel
 Treatment in this early phase should begin with the intravenous administration of three bolus injections of 5 mg of metoprolol tartrate each; the injections should be given at approximately 2-minute intervals.
 During the intravenous administration of metoprolol tartrate, blood pressure, heart rate, and electrocardiogram should be carefully monitored.
 
-In patients who tolerate the full intravenous dose (15mg), metoprolol tartrate tablets, 50 mg every 6 hours, should be initiated 15 minutes after the last intravenous dose and continued for 48 hours.
+In patients who tolerate the full intravenous dose (15 mg), metoprolol tartrate tablets, 50 mg every 6 hours, should be initiated 15 minutes after the last intravenous dose and continued for 48 hours.
 Thereafter, patients should receive a maintenance dosage of 100 mg twice daily (see Late Treatment below).
 
 Patients who appear not to tolerate the full intravenous dose should be started on metoprolol tartrate tablets either 25 mg or 50 mg every 6 hours (depending on the degree of intolerance) 15 minutes after the last intravenous dose or as soon as their clinical condition allows.

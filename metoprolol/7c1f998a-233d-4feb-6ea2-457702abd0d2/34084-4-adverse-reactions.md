@@ -32,7 +32,6 @@ Musculoskeletal pain, blurred vision, and tinnitus have also been reported.
 There have been rare reports of reversible alopecia, agranulocytosis, and dry eyes.
 Discontinuation of the drug should be considered if any such reaction is not otherwise explicable.
 There have been very rare reports of weight gain, arthritis, and retroperitoneal fibrosis (relationship to metoprolol tartrate has not been definitely established).
-
 The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with metoprolol tartrate.
 
 Myocardial Infarction
@@ -68,7 +67,7 @@ A variety of adverse reactions not listed above have been reported with other be
 
 Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics.
 
-Cardiovascular: Intensificationof AV block (see CONTRAINDICATIONS).
+Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS).
 
 Hematologic: Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
 

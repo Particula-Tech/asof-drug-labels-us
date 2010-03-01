@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078085"
+  ],
   "inn": "metoprolol",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-1778-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "metoprolol tartrate",
+      "name": "Metoprolol Tartrate"
+    }
+  ],
   "setid": "7c1f998a-233d-4feb-6ea2-457702abd0d2",
   "source": "dailymed"
 }

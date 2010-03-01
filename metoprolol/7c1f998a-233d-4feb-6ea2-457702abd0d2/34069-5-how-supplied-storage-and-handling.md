@@ -17,8 +17,8 @@ Retain in carton until time of use.
 
 Discard unused portion.
 
-Revised: August, 2008
+Revised: January, 2010
 
-| Printed in USA | EN-1862 |
-| --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |
+Printed in USA EN-2373
+
+Hospira, Inc., Lake Forest, IL 60045 USA
