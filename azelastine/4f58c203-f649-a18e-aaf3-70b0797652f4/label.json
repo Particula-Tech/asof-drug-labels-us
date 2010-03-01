@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077954"
+  ],
+  "inn": "azelastine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0833-5"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "azelastine hydrochloride",
+      "name": "Azelastine Hydrochloride"
+    }
+  ],
+  "setid": "4f58c203-f649-a18e-aaf3-70b0797652f4",
+  "source": "dailymed"
+}

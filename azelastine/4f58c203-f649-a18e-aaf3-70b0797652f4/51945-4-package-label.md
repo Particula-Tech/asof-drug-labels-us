@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL
+
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
+
+PRINCIPAL DISPLAY PANEL - 137 mcg/spray BOTTLE LABEL
+
+APOTEX CORP. NDC 60505-0833-5
+
+AZELASTINE HYDROCHLORIDE NASAL SOLUTION 0.1% (NASAL SOLUTION),
+
+137 mcg/spray
+
+Rx only
+
+30 mL
