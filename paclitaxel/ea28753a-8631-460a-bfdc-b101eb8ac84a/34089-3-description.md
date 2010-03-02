@@ -7,7 +7,7 @@ Each mL of sterile nonpyrogenic solution contains 6 mg paclitaxel, 527 mg of Cre
 
 Paclitaxel is a natural product with antitumor activity.
 Paclitaxel is obtained via an extraction process from Taxus X media ‘Hicksii’.
-The chemical name for paclitaxel is (2a R,4 S,4a S,6 R,9 S,11 S,12 S,12a R,12b S)-1,2a,3,4,4a,6,9,10,11,12,12a,12b-Dodecahydro-4,6,9,11,12,-12b-hexahydroxy-4a,8,13,13-tetramethyl-7,11-methano-5 H-cyclodeca [3,4] benz [1,2-b] oxet-5-one 6,12b-diacetate, 12-benzoate, 9-ester with (2 R,3 S)- N-benzoyl-3-phenylisoserine.
+The chemical name for paclitaxel is (2aR,4S,4aS,6R,9S,11S,12S,12aR,12bS)-1,2a,3,4,4a,6,9,10,11,12,12a,12b-Dodecahydro-4,6,9,11,12,-12b-hexahydroxy-4a,8,13,13-tetramethyl-7,11-methano-5H-cyclodeca [3,4] benz [1,2-b] oxet-5-one 6,12b-diacetate, 12-benzoate, 9-ester with (2R,3S)-N-benzoyl-3-phenylisoserine.
 
 Paclitaxel has the following structural formula:
 

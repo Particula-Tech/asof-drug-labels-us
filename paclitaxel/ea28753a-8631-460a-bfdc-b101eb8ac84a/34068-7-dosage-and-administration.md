@@ -10,7 +10,7 @@ Such premedication may consist of dexamethasone 20 mg PO administered approximat
 
 For patients with carcinoma of the ovary the following regimen is recommended:
 
-In patients previously treated with chemotherapy for carcinoma of the ovary,paclitaxel has been used at several doses and schedules; however, the optimal regimen is not yet clear.
+In patients previously treated with chemotherapy for carcinoma of the ovary, paclitaxel has been used at several doses and schedules; however, the optimal regimen is not yet clear.
 (See CLINICAL STUDIES: Ovarian Carcinoma section).
 The recommended regimen is paclitaxel 135 mg/m2 or 175 mg/m2 administered intravenously over 3 hours every 3 weeks.
 
@@ -22,9 +22,7 @@ For the therapy of patients with solid tumors (ovary and breast), courses of pac
 Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe peripheral neuropathy during Paclitaxel Injection therapy should have dosage reduced by 20% for subsequent courses of paclitaxel.
 The incidence of neurotoxicity and the severity of neutropenia increase with dose.
 
-## Preparation and Administration Precautions
-
-Paclitaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling paclitaxel.
+Preparation and Administration Precautions: Paclitaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling paclitaxel.
 The use of gloves is recommended.
 If paclitaxel solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
 Following topical exposure, events have included tingling, burning, and redness.
@@ -34,9 +32,7 @@ Upon inhalation, dyspnea, chest pain, burning eyes, sore throat, and nausea have
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
 (See PRECAUTIONS: Injection Site Reaction section.)
 
-## Preparation for Intravenous Administration
-
-Paclitaxel must be diluted prior to infusion.
+Preparation for Intravenous Administration: Paclitaxel must be diluted prior to infusion.
 Paclitaxel should be diluted in 0.9% Sodium Chloride Injection, USP; 5% Dextrose Injection, USP; 5% Dextrose and 0.9% Sodium Chloride Injection, USP or 5% Dextrose in Ringer’s Injection to a final concentration of 0.3 to 1.2 mg/mL.
 The solutions are physically and chemically stable for up to 27 hours at ambient temperature (approximately 25°C) and room lighting conditions.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
@@ -46,6 +42,7 @@ No significant losses in potency have been noted following simulated delivery of
 
 Data collected for the presence of the extractable plasticizer DEHP [di-(2-ethylhexyl)phthalate] show that levels increase with time and concentration when dilutions are prepared in PVC containers.
 Consequently, the use of plasticized PVC containers and administration sets is not recommended.
+
 Paclitaxel solutions should be prepared and stored in glass, polypropylene, or polyolefin containers.
 Non-PVC containing administration sets, such as those which are polyethylene-lined, should be used.
 
@@ -54,9 +51,7 @@ Use of filter devices such as IVEX-2® filters which incorporate short inlet and
 
 The Chemo Dispensing Pin™ device or similar devices with spikes should not be used with vials of paclitaxel since they can cause the stopper to collapse resulting in loss of sterile integrity of the paclitaxel solution.
 
-## Stability
-
-Unopened vials of Paclitaxel Injection are stable until the date indicated on the package when stored between 20° to 25°C (68° to 77°F), in the original package.
+Stability: Unopened vials of Paclitaxel Injection are stable until the date indicated on the package when stored between 20° to 25°C (68° to 77°F), in the original package.
 Neither freezing nor refrigeration adversely affects the stability of the product.
 Upon refrigeration components in the paclitaxel vial may precipitate, but will redissolve upon reaching room temperature with little or no agitation.
 There is no impact on product quality under these circumstances.

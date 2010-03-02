@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076131"
+  ],
   "inn": "paclitaxel",
-  "labeler": "Mayne Pharma (USA) Inc.",
+  "labeler": "Hospira Worldwide, Inc.",
   "package_ndcs": [
     "61703-342-09",
     "61703-342-22",
     "61703-342-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "paclitaxel",
+      "name": "Paclitaxel"
+    }
+  ],
   "setid": "ea28753a-8631-460a-bfdc-b101eb8ac84a",
   "source": "dailymed"
 }

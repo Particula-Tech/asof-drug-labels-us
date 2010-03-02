@@ -21,4 +21,13 @@
 
 *Cremophor® EL is the registered trademark of BASF Aktiengesellschaft.
 IVEX-2® is a registered trademark of the Millipore Corporation.
+
 Chemo Dispensing Pin™ is a trademark of B. Braun Medical Incorporated.
+
+Hospira, Inc.
+
+Lake Forest, IL 60045
+
+Product of Australia
+
+483145
