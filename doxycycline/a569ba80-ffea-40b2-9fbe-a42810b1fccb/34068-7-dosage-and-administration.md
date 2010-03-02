@@ -2,7 +2,6 @@
 
 THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
-
 Adults: The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.
 The maintenance dose may be administered as a single dose or as 50 mg every 12 hours.
 
@@ -17,7 +16,7 @@ The therapeutic antibacterial serum activity will usually persist for 24 hours f
 When used in streptococcal infections, therapy should be continued for 10 days.
 
 Administration of adequate amounts of fluid along with capsule and tablet forms of drugs in the tetracycline class is recommended to wash down the drugs and reduce the risk of esophageal irritation and ulceration.
-(SeeADVERSE REACTIONS.)
+(See ADVERSE REACTIONS.)
 
 If gastric irritation occurs, it is recommended that doxycycline be given with food or milk.
 The absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk.
@@ -43,9 +42,9 @@ Acute epididymo-orchitis caused by C. trachomatis: 100 mg, by mouth, twice a day
 For the prophylaxis of malaria: For adults, the recommended dose is 100 mg daily.
 For children over 8 years of age, the recommended dose is 2 mg/kg given once daily up to the adult dose.
 Prophylaxis should begin 1 to 2 days before travel to the malarious area.
+
 Prophylaxis should be continued daily during travel in the malarious area and for 4 weeks after the traveler leaves the malarious area.
 
 Inhalational anthrax (post-exposure): ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-
 CHILDREN: weighing less than 100 lb (45 kg); 1 mg/lb (2.2 mg/kg) of body weight, by mouth, twice a day for 60 days.
 Children weighing 100 lb or more should receive the adult dose.

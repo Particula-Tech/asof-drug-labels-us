@@ -8,22 +8,22 @@ Hepatotoxicity has been reported rarely.
 These reactions have been caused by both the oral and parenteral administration of tetracyclines.
 Rare instances of esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of the drugs in the tetracycline class.
 Most of these patients took medications immediately before going to bed.
-(SeeDOSAGE AND ADMINISTRATION.)
+(See DOSAGE AND ADMINISTRATION.)
 
 Skin: maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported but is uncommon.
 Photosensitivity is discussed above.
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 Renal toxicity: Rise in BUN has been reported and is apparently dose related.
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 Hypersensitivity reactions: urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
 
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 
 Other: bulging fontanels in infants and intracranial hypertension in adults.
-(SeePRECAUTIONS–General.)
+(See PRECAUTIONS–General.)
 
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
 No abnormalities of thyroid function studies are known to occur.

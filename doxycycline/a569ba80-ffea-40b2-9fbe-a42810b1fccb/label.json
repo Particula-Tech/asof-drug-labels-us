@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA062031",
+    "ANDA062421"
+  ],
   "inn": "doxycycline",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
@@ -9,7 +12,18 @@
     "0591-5553-05",
     "0591-5553-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycycline Hyclate"
+    },
+    {
+      "form": "TABLET",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycycline Hyclate"
+    }
+  ],
   "setid": "a569ba80-ffea-40b2-9fbe-a42810b1fccb",
   "source": "dailymed"
 }

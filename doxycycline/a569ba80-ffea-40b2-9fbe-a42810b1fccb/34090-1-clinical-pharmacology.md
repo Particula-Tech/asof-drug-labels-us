@@ -21,37 +21,24 @@ Cross-resistance of these organisms to tetracyclines is common.
 
 ## Gram-Negative Bacteria
 
-Neisseria gonorrhoeae
-
-Calymmatobacterium granulomatis
-
-Haemophilus ducreyi
-
-Haemophilus influenzae
-
-Yersinia pestis (formerly Pasteurella pestis)
-
-Francisella tularensis (formerly Pasteurella tularensis)
-
-Vibrio cholera (formerly Vibrio comma)
-
-Bartonella bacilliformis
-
-Brucella species
+- Neisseria gonorrhoeae
+- Calymmatobacterium granulomatis
+- Haemophilus ducreyi
+- Haemophilus influenzae
+- Yersinia pestis (formerly Pasteurella pestis)
+- Francisella tularensis (formerly Pasteurella tularensis)
+- Vibrio cholera (formerly Vibrio comma)
+- Bartonella bacilliformis
+- Brucella species
 
 Because many strains of the following groups of gram-negative microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility testing are recommended:
 
-Escherichia coli
-
-Klebsiella species
-
-Enterobacter aerogenes
-
-Shigella species
-
-Acinetobacter species (formerly Mima species and Herellea species)
-
-Bacteroides species
+- Escherichia coli
+- Klebsiella species
+- Enterobacter aerogenes
+- Shigella species
+- Acinetobacter species (formerly Mima species and Herellea species)
+- Bacteroides species
 
 ## Gram-Positive Bacteria
 
@@ -59,52 +46,34 @@ Because many strains of the following groups of gram-positive microorganisms hav
 Up to 44% of strains of Streptococcus pyogenes and 74% of Streptococcus faecalis have been found to be resistant to tetracycline drugs.
 Therefore, tetracycline should not be used for streptococcal disease unless the organism has been demonstrated to be susceptible.
 
-Streptococcus pyogenes
-
-Streptococcus pneumoniae
-
-Enterococcus group (Streptococcus faecalis and Streptococcus faecium)
-
-Alpha-hemolytic streptococci (viridans group)
+- Streptococcus pyogenes
+- Streptococcus pneumoniae
+- Enterococcus group (Streptococcus faecalis and Streptococcus faecium)
+- Alpha-hemolytic streptococci (viridans group)
 
 ## Other Microorganisms
 
-Rickettsiae
-
-Chlamydia psittaci
-
-Chlamydia trachomatis
-
-Mycoplasma pneumoniae
-
-Ureaplasma urealyticum
-
-Borrelia recurrentis
-
-Treponema pallidum
-
-Treponema pertenue
-
-Clostridium species
-
-Fusobacterium fusiforme
-
-Actinomyces species
-
-Bacillus anthracis
-
-Propionibacterium acnes
-
-Entamoeba species
-
-Balantidium coli
-
-Plasmodium falciparum
+- Rickettsiae
+- Chlamydia psittaci
+- Chlamydia trachomatis
+- Mycoplasma pneumoniae
+- Ureaplasma urealyticum
+- Borrelia recurrentis
+- Treponema pallidum
+- Treponema pertenue
+- Clostridium species
+- Fusobacterium fusiforme
+- Actinomyces species
+- Bacillus anthracis
+- Propionibacterium acnes
+- Entamoeba species
+- Balantidium coli
+- Plasmodium falciparum
 
 Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum.
 The precise mechanism of action of the drug is not known.
 
-## Susceptibility tests: Diffusion techniques:
+Susceptibility tests: Diffusion techniques:
 
 Quantitative methods that require measurement of zone diameters give the most precise estimate of the susceptibility of bacteria to antimicrobial agents.
 One such standard procedure1 which has been recommended for use with disks to test susceptibility of organisms to doxycycline uses the 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk.
@@ -132,7 +101,7 @@ The 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk should give th
 | E. coli ATCC 25922 | 18-25 | 18-24 |
 | S. aureus ATCC 25923 | 19-28 | 23-29 |
 
-## Dilution techniques:
+Dilution techniques:
 
 Use a standardized dilution method2 (broth, agar, microdilution) or equivalent with tetracycline powder.
 The MIC values obtained should be interpreted according to the following criteria:
