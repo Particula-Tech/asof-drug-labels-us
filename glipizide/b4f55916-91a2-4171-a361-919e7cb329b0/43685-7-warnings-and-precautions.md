@@ -43,16 +43,16 @@ At such times, it may be necessary to discontinue GLUCOTROL and administer insul
 The effectiveness of any oral hypoglycemic drug, including GLUCOTROL, in lowering blood glucose to a desired level decreases in many patients over a period of time, which may be due to progression of the severity of the diabetes or to diminished responsiveness to the drug.
 This phenomenon is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective in an individual patient when first given.
 
-## Laboratory Tests
-
-Blood and urine glucose should be monitored periodically.
-Measurement of glycosylated hemoglobin may be useful.
-
-## Hemolytic Anemia
+### Hemolytic Anemia
 
 Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia.
 Because GLUCOTROL belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered.
 In post marketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
+
+## Laboratory Tests
+
+Blood and urine glucose should be monitored periodically.
+Measurement of glycosylated hemoglobin may be useful.
 
 ## Information for Patients
 
