@@ -96,7 +96,7 @@ Some baseline characteristics, including hemorrhagic and lacunar stroke on study
 
 ## Information for Patients
 
-Due to the risk of myopathy with statins, the drug class to which the atorvastatin component of CADUET belongs, patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
+Because of the risk of myopathy with statins, the drug class to which the atorvastatin component of CADUET belongs, advise patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
 
 ## Drug Interactions
 
@@ -200,8 +200,7 @@ The atorvastatin component of CADUET may cause fetal harm when administered to a
 CADUET should be administered to women of child-bearing potential only when such patients are highly unlikely to conceive and have been informed of the potential hazards.
 If the woman becomes pregnant while taking CADUET, it should be discontinued immediately and the patient advised again as to the potential hazards to the fetus, and the lack of known clinical benefit with continued use during pregnancy.
 
-Serum cholesterol and triglycerides increase during normal pregnancy.
-Lipid lowering drugs offer no benefit during pregnancy because cholesterol and cholesterol derivatives are needed for normal fetal development.
+Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol products are essential for fetal development.
 Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
 
 #### Studies with amlodipine

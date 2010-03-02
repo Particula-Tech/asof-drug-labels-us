@@ -15,10 +15,10 @@ A case of accidental drug overdose has been documented in a 19-month-old male wh
 During the emergency room presentation, vital signs were stable with no evidence of hypotension, but a heart rate of 180 bpm.
 Ipecac was administered 3.5 hours after ingestion and on subsequent observation (overnight) no sequelae were noted.
 
-If overdose should occur, begin active cardiac and respiratory monitoring, Perform frequent blood pressure measurements.
+If overdose should occur, begin active cardiac and respiratory monitoring.
+Perform frequent blood pressure measurements.
 Should hypotension occur, initiate cardiovascular support including elevation of the extremities and administration of fluids.
 If hypotension remains unresponsive to these conservative measures, consider administration of vasopressors (such as phenylephrine) with specific attention to circulating volume and urine output.
-Intravenous calcium gluconate may help to reverse the effects of calcium entry blockade.
 As amlodipine is highly protein bound, hemodialysis is not likely to be of benefit.
 
 ## Information on Atorvastatin
