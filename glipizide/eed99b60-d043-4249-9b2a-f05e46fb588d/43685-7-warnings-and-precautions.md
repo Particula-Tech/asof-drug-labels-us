@@ -53,16 +53,16 @@ The effectiveness of any oral hypoglycemic drug, including glipizide, in lowerin
 This phenomenon is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective in an individual patient when first given.
 Adequate adjustment of dose and adherence to diet should be assessed before classifying a patient as a secondary failure.
 
-## Laboratory Tests
-
-Blood and urine glucose should be monitored periodically.
-Measurement of hemoglobin A1C may be useful.
-
-## Hemolytic Anemia
+### Hemolytic Anemia
 
 Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia.
 Because GLUCOTROL XL belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered.
 In post marketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
+
+## Laboratory Tests
+
+Blood and urine glucose should be monitored periodically.
+Measurement of hemoglobin A1C may be useful.
 
 ## Information for Patients
 

@@ -54,6 +54,9 @@ Before you start GLUCOTROL XL, tell the healthcare provider if you:
   You should not take GLUCOTROL XL during the last month of pregnancy.
 - are breast-feeding.
   GLUCOTROL XL may pass to the baby through your milk and cause harm.
+- have glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+  This condition usually runs in families.
+  People with G6PD deficiency who take Glucotrol XL may develop hemolytic anemia (fast breakdown of red blood cells).
 
 How Should I Take GLUCOTROL XL?
 
@@ -147,6 +150,6 @@ Do not use GLUCOTROL XL for a condition for which it was not prescribed.
 Do not share GLUCOTROL XL with other people.
 For more information about GLUCOTROL XL, you can visit the Pfizer internet site at www.pfizer.com.
 
-LAB-0115-2.0
+LAB-0115-3.0
 
-September 2006
+September 2009

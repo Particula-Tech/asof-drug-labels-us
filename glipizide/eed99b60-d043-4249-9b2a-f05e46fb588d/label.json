@@ -1,15 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020329"
+  ],
   "inn": "glipizide",
   "labeler": "Roerig",
   "package_ndcs": [
-    " 0049-1550-73",
     "0049-1550-66",
+    "0049-1550-73",
     "0049-1560-66",
     "0049-1560-73",
     "0049-1620-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "glipizide",
+      "name": "Glucotrol XL"
+    }
+  ],
   "setid": "eed99b60-d043-4249-9b2a-f05e46fb588d",
   "source": "dailymed"
 }
