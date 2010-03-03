@@ -1,11 +1,11 @@
-## WARNINGS
+# WARNINGS
 
 ENDOMETRIAL CANCER
 
 Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
 (See WARNINGS, Malignant neoplasms, Endometrial cancer.)
 
-## CARDIOVASCULAR AND OTHER RISKS
+CARDIOVASCULAR AND OTHER RISKS
 
 Estrogens with or without progestins should not be used for the prevention of cardiovascular disease or dementia.
 (See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders and Dementia.)
@@ -23,13 +23,11 @@ It is unknown whether this finding applies to younger postmenopausal women.
 In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA and other combinations and dosage forms of estrogens and progestins.
 Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
 
-## What is the most important information I should know about PREMARIN (an estrogen mixture)?
+# What is the most important information I should know about PREMARIN (an estrogen mixture)?
 
-- Estrogens increase the chance of getting cancer of the uterus.
-  Report any unusual vaginal bleeding right away while you are taking PREMARIN.
+- Estrogens increase the chance of getting cancer of the uterus.Report any unusual vaginal bleeding right away while you are taking PREMARIN.
   Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia.
-  Using estrogens, with or without progestins, may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.
+- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia.Using estrogens, with or without progestins, may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.
   Using estrogens, with or without progestins, may increase your chance of getting dementia, based on a study of women age 65 years or older.
   You and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN.

@@ -19,8 +19,7 @@ PREMARIN is a medicine that contains a mixture of estrogen hormones.
   The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
   This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
   Sometimes both ovaries are removed during an operation before natural menopause takes place.
-  The sudden drop in estrogen levels causes “surgical menopause.”
-  When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
+  The sudden drop in estrogen levels causes “surgical menopause.”When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
   In some women the symptoms are mild, and they will not need to take estrogens.
   In other women, symptoms can be more severe.
   You and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN.
@@ -30,8 +29,7 @@ PREMARIN is a medicine that contains a mixture of estrogen hormones.
 - Help reduce your chances of getting osteoporosis (thin weak bones).
   Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break.
   If you use PREMARIN only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.
-  You and your healthcare provider should talk regularly about whether you should continue with PREMARIN.
-  Weight-bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances for getting postmenopausal osteoporosis.
+  You and your healthcare provider should talk regularly about whether you should continue with PREMARIN.Weight-bearing exercise, like walking or running, and taking calcium and vitamin D supplements may also lower your chances for getting postmenopausal osteoporosis.
   It is important to talk about exercise and supplements with your healthcare provider before starting them.
 
 ## PREMARIN is also used to:
@@ -172,7 +170,7 @@ The appearance of these tablets is a trademark of Wyeth Pharmaceuticals.
 
 Store at Controlled Room Temperature 20° – 25°C (68° – 77°F).
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
 Wyeth®
@@ -181,8 +179,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10405C023
+W10405C025
 
-ET02
+ET01
 
-Rev 05/08
+Rev 02/10

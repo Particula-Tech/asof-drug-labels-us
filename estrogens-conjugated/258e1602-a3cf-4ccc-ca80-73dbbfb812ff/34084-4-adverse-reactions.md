@@ -18,7 +18,7 @@ NUMBER (%) OF PATIENTS REPORTING ≥ 5% TREATMENT EMERGENT ADVERSE EVENTS
 | Body as a Whole |  |  |  |  |
 | Abdominal pain Accidental injury Asthenia Back pain Flu syndrome Headache Infection Pain | 56 (16%) 21 (6%) 25 (7%) 49 (14%) 37 (11%) 90 (26%) 61 (18%) 58 (17%) | 50 (15%) 41 (12%) 23 (7%) 43 (13%) 38 (11%) 109 (32%) 75 (22%) 61 (18%) | 54 (17%) 20 (6%) 25 (8%) 43 (13%) 33 (10%) 96 (29%) 74 (23%) 66 (20%) | 37 (11%) 29 (9%) 16 (5%) 39 (12%) 35 (11%) 93 (28%) 74 (22%) 61 (18%) |
 | Digestive System |  |  |  |  |
-| Diarrhea Dyspepsia Flatulence Nausea | 21 (6%) 33 (9%) 24 (7%) 32 (9%) | 25 (7%) 32 (9%) 23 (7%) 21 (6%) | 19 (6%) 36 11%) 18 (6%) 21 (6%) | 21 (6%) 46 (14%) 9 (3%) 30 (9%) |
+| Diarrhea Dyspepsia Flatulence Nausea | 21 (6%) 33 (9%) 24 (7%) 32 (9%) | 25 (7%) 32 (9%) 23 (7%) 21 (6%) | 19 (6%) 36 (11%) 18 (6%) 21 (6%) | 21 (6%) 46 (14%) 9 (3%) 30 (9%) |
 | Musculoskeletal System |  |  |  |  |
 | Arthralgia Leg cramps Myalgia | 47 (14%) 19 (5%) 18 (5%) | 42 (12%) 23 (7%) 18 (5%) | 22 (7%) 11 (3%) 29 (9%) | 39 (12%) 7 (2%) 25 (8%) |
 | Nervous System |  |  |  |  |

@@ -150,7 +150,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI A
 | Vertebral fractures | 0.65 (0.46-0.92) | 17 | 11 |
 | Lower arm/wrist fractures | 0.71 (0.59-0.85) | 62 | 44 |
 | Total fractures | 0.76 (0.69-0.83) | 199 | 152 |
-| aResults are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCl 0.82-1.18).bNominal confidence intervals unadjusted for multiple looks and multiple comparisons.cIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
+| aResults are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI 0.82-1.18).bNominal confidence intervals unadjusted for multiple looks and multiple comparisons.cIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
 
 ## Women's Health Initiative Memory Study
 

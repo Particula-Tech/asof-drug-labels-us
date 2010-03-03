@@ -10,8 +10,7 @@ PREMARIN therapy is indicated in the:
 5. Treatment of advanced androgen-dependent carcinoma of the prostate (for palliation only).
 6. Prevention of postmenopausal osteoporosis.
    When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should only be considered for women at significant risk of osteoporosis and for whom non-estrogen medications are not considered to be appropriate.
-   (See CLINICAL STUDIES.)
-   The mainstays for decreasing the risk of postmenopausal osteoporosis are weight-bearing exercise, adequate calcium and vitamin D intake, and when indicated, pharmacologic therapy.
+   (See CLINICAL STUDIES.)The mainstays for decreasing the risk of postmenopausal osteoporosis are weight-bearing exercise, adequate calcium and vitamin D intake, and when indicated, pharmacologic therapy.
    Postmenopausal women require an average of 1500 mg/day of elemental calcium.
    Therefore, when not contraindicated, calcium supplementation may be helpful for women with suboptimal dietary intake.
    Vitamin D supplementation of 400-800 IU/day may also be required to ensure adequate daily intake in postmenopausal women.
