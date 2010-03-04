@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA085635"
+  ],
   "inn": "testosterone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0009-0417-01",
     "0009-0417-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "testosterone cypionate",
+      "name": "Depo-Testosterone"
+    }
+  ],
   "setid": "cfbb53d4-b868-4a28-8436-f9112eb01c39",
   "source": "dailymed"
 }
