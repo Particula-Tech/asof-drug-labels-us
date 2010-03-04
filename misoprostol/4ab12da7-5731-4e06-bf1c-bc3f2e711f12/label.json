@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA019268"
+  ],
+  "inn": "misoprostol",
+  "labeler": "G.D. Searle LLC",
+  "package_ndcs": [
+    "0025-1451-20",
+    "0025-1451-34",
+    "0025-1451-60",
+    "0025-1461-31",
+    "0025-1461-34",
+    "0025-1461-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "misoprostol",
+      "name": "Cytotec"
+    }
+  ],
+  "setid": "4ab12da7-5731-4e06-bf1c-bc3f2e711f12",
+  "source": "dailymed"
+}
