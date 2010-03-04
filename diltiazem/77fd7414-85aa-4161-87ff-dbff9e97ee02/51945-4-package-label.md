@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 120 mg Bottle Label
 
-NDC 0456-2612-30
+NDC 0456-2612-90
 
 TIAZAC® (diltiazem HCl)
 
@@ -12,27 +12,11 @@ Rx only
 
 Do not use if bottle closure seal is broken.
 
-30 Capsules
-
-# PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
-
-NDC 0456-2613-30
-
-TIAZAC® (diltiazem HCl)
-
-180 mg
-
-Extended Release Capsules, USP*
-
-Rx only
-
-Do not use if bottle closure seal is broken.
-
-30 Capsules
+90 Capsules
 
 # PRINCIPAL DISPLAY PANEL - 240 mg Bottle Label
 
-NDC 0456-2614-30
+NDC 0456-2614-90
 
 TIAZAC® (diltiazem HCl)
 
@@ -44,7 +28,7 @@ Rx only
 
 Do not use if bottle closure seal is broken.
 
-30 Capsules
+90 Capsules
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
@@ -64,7 +48,7 @@ Do not use if bottle closure seal is broken.
 
 # PRINCIPAL DISPLAY PANEL - 360 mg Bottle Label
 
-NDC 0456-2616-30
+NDC 0456-2616-90
 
 TIAZAC® (diltiazem HCl)
 
@@ -76,20 +60,4 @@ Rx only
 
 Do not use if bottle closure seal is broken.
 
-30 Capsules
-
-# PRINCIPAL DISPLAY PANEL - 420 mg Bottle Label
-
-NDC 0456-2617-30
-
-TIAZAC® (diltiazem HCl)
-
-420 mg
-
-Extended Release Capsules, USP*
-
-Rx only
-
-Do not use if bottle closure seal is broken.
-
-30 Capsules
+90 Capsules
