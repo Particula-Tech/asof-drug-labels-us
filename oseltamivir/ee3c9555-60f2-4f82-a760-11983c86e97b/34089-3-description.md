@@ -1,7 +1,7 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 TAMIFLU (oseltamivir phosphate) is available as capsules containing 30 mg, 45 mg, or 75 mg oseltamivir for oral use, in the form of oseltamivir phosphate, and as a powder for oral suspension, which when constituted with water as directed contains 12 mg/mL oseltamivir base.
-In addition to the active ingredient, each capsule contains pregelatinized starch, talc, povidone K 30, croscarmellose sodium, and sodium stearyl fumarate.
+In addition to the active ingredient, each capsule contains pregelatinized starch, talc, povidone K30, croscarmellose sodium, and sodium stearyl fumarate.
 The 30 mg capsule shell contains gelatin, titanium dioxide, yellow iron oxide, and red iron oxide.
 The 45 mg capsule shell contains gelatin, titanium dioxide, and black iron oxide.
 The 75 mg capsule shell contains gelatin, titanium dioxide, yellow iron oxide, black iron oxide, and red iron oxide.

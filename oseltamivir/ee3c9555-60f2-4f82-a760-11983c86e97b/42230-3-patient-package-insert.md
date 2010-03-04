@@ -1,6 +1,4 @@
-# PATIENT PACKAGE INSERT
-
-TAMIFLU® (oseltamivir phosphate)
+Patient Information TAMIFLU® (oseltamivir phosphate)
 
 This leaflet contains important information about TAMIFLU (TAM-ih-flew).
 Read it well before you begin treatment.
@@ -18,11 +16,11 @@ TAMIFLU is for treating adults and children age 1 and older with the flu whose f
 TAMIFLU can also reduce the chance of getting the flu in people age 1 and older who have a higher chance of getting the flu because they spend time with someone who has the flu.
 TAMIFLU can also reduce the chance of getting the flu if there is a flu outbreak in the community.
 
-What is “Flu”?
+What is "Flu"?
 
-“The flu” is an infection caused by the influenza virus.
+"The flu" is an infection caused by the influenza virus.
 Flu symptoms include fever (usually 100ºF to 103ºF in adults, and sometimes higher in children) and problems such as cough, sore throat, runny or stuffy nose, headaches, muscle aches, fever, and extreme tiredness.
-Many people use the term “flu” to mean any combination of these symptoms, such as the common cold, but true influenza infection is often worse and may last longer than a cold.
+Many people use the term "flu" to mean any combination of these symptoms, such as the common cold, but true influenza infection is often worse and may last longer than a cold.
 
 Flu outbreaks happen about once a year, usually in the winter, when the influenza virus spreads widely in the community.
 Outside of those outbreaks, only a very tiny number of respiratory infections are caused by the influenza virus.
@@ -30,7 +28,7 @@ Outside of those outbreaks, only a very tiny number of respiratory infections ar
 Should I get a flu shot?
 
 TAMIFLU is not a substitute for a flu vaccination.
-You should continue to get a flu vaccination every year, according to your healthcare professional’s advice.
+You should continue to get a flu vaccination every year, according to your healthcare professional's advice.
 
 Who should not take TAMIFLU?
 
@@ -54,15 +52,13 @@ You should complete the entire treatment of 10 doses (capsules or suspension), e
 
 To prevent the flu: If someone in your home has the flu, take TAMIFLU once a day for 10 days or for as long as prescribed.
 You can take TAMIFLU for up to 6 weeks if you are exposed to the flu because of an outbreak in your community.
-Follow your healthcare professional’s advice on how long to take TAMIFLU.
-
-TAMIFLU has not been studied in children 1 to 12 years of age for preventing flu during an outbreak in your community or for use for more than 10 days.
+Follow your healthcare professional's advice on how long to take TAMIFLU.
 
 You can take TAMIFLU with food or without food.
 There is less chance of stomach upset if you take it with a light snack, milk, or a meal.
 
 If you are taking TAMIFLU for Oral Suspension, your pharmacist will give you a dosing dispenser marked with three possible doses.
-Follow your healthcare professional’s instructions on which dose to take or how to combine them for the proper dose for you.
+Follow your healthcare professional's instructions on which dose to take or how to combine them for the proper dose for you.
 In order to be sure you receive the proper dose, it is important that you use the dispenser provided.
 Review the instructions below on how to use the dispenser and ask your pharmacist if you have any questions.
 If you lose or damage the dispenser and cannot use it, contact your healthcare professional or pharmacist for advice on the proper dose.
@@ -96,10 +92,11 @@ If you notice any side effects not mentioned in this leaflet, or if you have any
 How and where should I store TAMIFLU?
 
 TAMIFLU Capsules should be stored at room temperature, 77ºF (25ºC) and kept in a dry place.
-Keep this medication out of reachof children.
+Keep this medication out of reach of children.
 
-TAMIFLU for Oral Suspension should be stored under refrigeration at 36º to 46ºF (2º to 8ºC).
+TAMIFLU for Oral Suspension should be stored under refrigeration for up to 17 days at 36º to 46ºF (2º to 8ºC).
 Do not freeze.
+Alternatively, store at room temperature for up to 10 days.
 
 General advice about prescription medicines:
 
@@ -139,3 +136,16 @@ Please follow instructions carefully to ensure proper dosing.
 - Holding one capsule over a small bowl, carefully pull the capsule open and pour the complete contents of the capsule into the bowl.
 - Add a small amount of a sweetened liquid such as chocolate syrup (regular or sugar-free) that the child will consume completely.
 - Stir the mixture and give the entire dose to the child.
+
+Distributed by: Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
+
+Licensor:
+
+Gilead Sciences, Inc. Foster City, California 94404
+
+TUCOS_640796_PPI_012010_N(1)
+
+Rev.
+February 2010
+
+Copyright © 1999-2010 by Roche Laboratories Inc. All rights reserved.
