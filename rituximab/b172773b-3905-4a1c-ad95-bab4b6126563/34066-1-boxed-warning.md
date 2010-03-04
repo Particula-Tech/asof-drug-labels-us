@@ -1,16 +1,13 @@
-# WARNINGS
+# WARNING: FATAL INFUSION REACTIONS, TUMOR LYSIS SYNDROME (TLS), SEVERE MUCOCUTANEOUS REACTIONS, and PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY (PML)
 
-Fatal Infusion Reactions: Deaths within 24 hours of Rituxan infusion have been reported.
-These fatal reactions followed an infusion reaction complex, which included hypoxia, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, or cardiogenic shock.
+Infusion Reactions Rituxan administration can result in serious, including fatal infusion reactions.
+Deaths within 24 hours of Rituxan infusion have occurred.
 Approximately 80% of fatal infusion reactions occurred in association with the first infusion.
-(See WARNINGS and ADVERSE REACTIONS.)
+Carefully monitor patients during infusions.
+Discontinue Rituxan infusion and provide medical treatment for Grade 3 or 4 infusion reactions [see Warnings and Precautions (5.1), Adverse Reactions, (6.1)].
 
-Patients who develop severe infusion reactions should have Rituxan infusion discontinued and receive medical treatment.
+Tumor Lysis Syndrome (TLS) Acute renal failure requiring dialysis with instances of fatal outcome can occur in the setting of TLS following treatment of non Hodgkin’s lymphoma (NHL) with Rituxan monotherapy [see Warnings and Precautions (5.2), Adverse Reactions (6)].
 
-Tumor Lysis Syndrome (TLS): Acute renal failure requiring dialysis with instances of fatal outcome has been reported in the setting of TLS following treatment of non‑Hodgkin's lymphoma (NHL) patients with Rituxan.
-(SeeWARNINGS.)
+Severe Mucocutaneous Reactions Severe, including fatal, mucocutaneous reactions can occur in patients receiving Rituxan [see Warnings and Precautions (5.3), Adverse Reactions (6)].
 
-Severe Mucocutaneous Reactions: Severe mucocutaneous reactions, some with fatal outcome, have been reported in association with Rituxan treatment.
-(See WARNINGS and ADVERSE REACTIONS.)
-
-Progressive Multifocal Leukoencephalopathy (PML): JC virus infection resulting in PML and death has been reported in patients treated with Rituxan (See WARNINGS and ADVERSE REACTIONS.)
+Progressive Multifocal Leukoencephalopathy (PML) JC virus infection resulting in PML and death can occur in patients receiving Rituxan [see Warnings and Precautions (5.4), Adverse Reactions (6.4)].

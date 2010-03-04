@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA103705"
+  ],
   "inn": "rituximab",
-  "labeler": "",
+  "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-051-21",
     "50242-053-06"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rituximab",
+      "name": "Rituxan"
+    }
+  ],
   "setid": "b172773b-3905-4a1c-ad95-bab4b6126563",
   "source": "dailymed"
 }
