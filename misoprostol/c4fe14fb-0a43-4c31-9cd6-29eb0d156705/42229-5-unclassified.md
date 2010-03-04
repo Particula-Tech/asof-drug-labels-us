@@ -35,6 +35,4 @@ Keep out of reach of children.
 
 Rx only
 
-LAB-0171-2.0
-
-September 2006
+LAB-0171-4.0 September 2009

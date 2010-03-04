@@ -36,7 +36,7 @@ However, there were no significant differences between the incidences of these e
 The following adverse events were infrequently reported.
 Causal relationships between misoprostol and these events have not been established but cannot be excluded:
 
-Body as a whole: aches/pains, asthenia, fatigue, fever, rigors, weight changes.
+Body as a whole: aches/pains, asthenia, fatigue, fever, chills, rigors, weight changes.
 
 Skin: rash, dermatitis, alopecia, pallor, breast pain.
 
@@ -48,7 +48,7 @@ Cardiovascular: chest pain, edema, diaphoresis, hypotension, hypertension, arrhy
 
 Gastrointestinal: GI bleeding, GI inflammation/infection, rectal disorder, abnormal hepatobiliary function, gingivitis, reflux, dysphagia, amylase increase.
 
-Hypersensitivity: anaphylaxis
+Hypersensitivity: anaphylactic reaction
 
 Metabolic: glycosuria, gout, increased nitrogen, increased alkaline phosphatase.
 

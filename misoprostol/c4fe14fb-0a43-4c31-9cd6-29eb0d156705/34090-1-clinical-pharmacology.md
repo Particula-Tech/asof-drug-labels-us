@@ -24,14 +24,16 @@ Pharmacokinetic studies in patients with varying degrees of renal impairment sho
 In subjects over 64 years of age, the AUC for misoprostol acid is increased.
 No routine dosage adjustment is recommended in older patients or patients with renal impairment, but dosage may need to be reduced if the usual dose is not tolerated.
 
-Misoprostol does not affect the hepatic mixed function oxidase (cytochrome P-450) enzyme systems in animals.
-
 Drug interaction studies between misoprostol and several nonsteroidal anti-inflammatory drugs showed no effect on the kinetics of ibuprofen or diclofenac, and a 20% decrease in aspirin AUC, not thought to be clinically significant.
 
 Pharmacokinetic studies also showed a lack of drug interaction with antipyrine and propranolol when these drugs were given with misoprostol.
 Misoprostol given for 1 week had no effect on the steady state pharmacokinetics of diazepam when the two drugs were administered 2 hours apart.
 
 The serum protein binding of misoprostol acid is less than 90% and is concentration-independent in the therapeutic range.
+
+After a single oral dose of misoprostol to nursing mothers, misoprostol acid was excreted in breast milk.
+The maximum concentration of misoprostol acid in expressed breast milk was achieved within 1 hour after dosing and was 7.6 pg/ml (CV 37%) and 20.9 pg/ml (CV 62%) after single 200 µg and 600 µg misoprostol administration, respectively.
+The misoprostol acid concentrations in breast milk declined to < 1 pg/ml at 5 hours post-dose.
 
 ## Pharmacodynamics
 

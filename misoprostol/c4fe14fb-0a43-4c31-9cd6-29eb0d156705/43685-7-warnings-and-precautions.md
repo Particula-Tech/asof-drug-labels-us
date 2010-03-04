@@ -6,7 +6,7 @@ See boxed WARNINGS.
 
 Caution should be employed when administering misoprostol to patients with pre-existing cardiovascular disease.
 
-## Information for Patients
+## Information for patients
 
 Women of childbearing potential using misoprostol to decrease the risk of NSAID-induced ulcers should be told that they must not be pregnant when misoprostol therapy is initiated, and that they must use an effective contraception method while taking misoprostol.
 
@@ -89,9 +89,9 @@ Information on misoprostol's effect on the need for forceps delivery or other in
 
 ## Nursing mothers
 
-It is unlikely that misoprostol is excreted in human milk since it is rapidly metabolized throughout the body.
-However, it is not known if the active metabolite (misoprostol acid) is excreted in human milk.
-Therefore, misoprostol should not be administered to nursing mothers because the potential excretion of misoprostol acid could cause significant diarrhea in nursing infants.
+Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
+There are no published reports of adverse effects of misoprostol in breast-feeding infants of mothers taking misoprostol.
+Caution should be exercised when misoprostol is administered to a nursing woman.
 
 ## Pediatric use
 
