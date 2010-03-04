@@ -1,12 +1,12 @@
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablets
 
-NDC 64455-730-30
+NDC 64455-730-90
 
 Rx only
 
 ONCE-DAILY Wellbutrin XL® (bupropion hydrochloride extended-release tablets)
 
-150 mg 30 Tablets
+150 mg 90 Tablets
 
 WARNING: Do not use with other medicines that contain bupropion hydrochloride.
 
