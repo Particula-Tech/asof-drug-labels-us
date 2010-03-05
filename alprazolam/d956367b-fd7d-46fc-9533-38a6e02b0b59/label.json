@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021726"
+  ],
+  "inn": "alprazolam",
+  "labeler": "Azur Pharma Inc.",
+  "package_ndcs": [
+    "18860-321-01",
+    "18860-322-01",
+    "18860-323-01",
+    "18860-324-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "alprazolam",
+      "name": "Niravam"
+    }
+  ],
+  "setid": "d956367b-fd7d-46fc-9533-38a6e02b0b59",
+  "source": "dailymed"
+}
