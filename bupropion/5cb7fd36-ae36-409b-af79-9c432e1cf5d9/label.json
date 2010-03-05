@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022108"
+  ],
+  "inn": "bupropion",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5810-07",
+    "0024-5810-30",
+    "0024-5811-07",
+    "0024-5811-30",
+    "0024-5812-07",
+    "0024-5812-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hydrobromide",
+      "name": "Aplenzin"
+    }
+  ],
+  "setid": "5cb7fd36-ae36-409b-af79-9c432e1cf5d9",
+  "source": "dailymed"
+}
