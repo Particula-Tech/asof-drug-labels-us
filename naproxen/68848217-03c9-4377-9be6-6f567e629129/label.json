@@ -1,7 +1,12 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017581",
+    "NDA018164",
+    "NDA018965",
+    "NDA020067"
+  ],
   "inn": "naproxen",
-  "labeler": "Roche Laboratories Inc.",
+  "labeler": "Hoffmann-La Roche Inc",
   "package_ndcs": [
     "0004-0028-28",
     "0004-6202-01",
@@ -12,7 +17,33 @@
     "0004-6415-01",
     "0004-6416-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "naproxen sodium",
+      "name": "Anaprox"
+    },
+    {
+      "form": "TABLET",
+      "generic": "naproxen sodium",
+      "name": "Anaprox DS"
+    },
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "naproxen",
+      "name": "EC-Naprosyn"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "naproxen",
+      "name": "Naprosyn"
+    },
+    {
+      "form": "TABLET",
+      "generic": "naproxen",
+      "name": "Naprosyn"
+    }
+  ],
   "setid": "68848217-03c9-4377-9be6-6f567e629129",
   "source": "dailymed"
 }
