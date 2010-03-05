@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA075945"
+  ],
+  "inn": "isotretinoin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-6611-93",
+    "0378-6612-93",
+    "0378-6614-88",
+    "0378-6614-93"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "isotretinoin",
+      "name": "Amnesteem"
+    }
+  ],
+  "setid": "b2cb63c9-f825-4991-9a2c-6260f1bbcc2c",
+  "source": "dailymed"
+}
