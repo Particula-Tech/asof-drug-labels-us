@@ -164,15 +164,6 @@ These trials were conducted in adult patients with CRF (whether on dialysis or n
 However, the risk of thrombotic events, including vascular access thrombosis, was significantly increased in adult patients with ischemic heart disease or congestive heart failure receiving PROCRIT® therapy with the goal of reaching a normal hematocrit (42%) as compared to a target hematocrit of 30%.
 Patients with pre-existing cardiovascular disease should be monitored closely.
 
-Predialysis Management: In 2 investigational studies of extended dosing (TIW, QW, Q2W and Q4W) some patients with longer dosing intervals did not maintain adequate hemoglobin levels and more patients discontinued study treatment.
-
-In the initiation and maintenance study, PROCRIT® was administered SC TIW, QW, or Q2W.
-Although the primary hemoglobin endpoint was met, the upper bound of the 95% CI (confidence interval) for the difference between the Q2W and TIW groups was less than zero, suggesting that Q2W dosing was inferior.
-In the maintenance study, the mean proportion of weeks that hemoglobin concentrations were maintained, within the range of 10 to 12 g/dL, was lower in patients receiving PROCRIT® dosed Q4W (75%) compared with Q2W (81%) or QW (81%) dosing.
-The percentages of patients who met the hemoglobin withdrawal criteria were 0% in QW, 3.7% in Q2W, and 3.3% in the Q4W groups.
-
-Hemoglobin should be monitored regularly (see PRECAUTIONS, Lab Monitoring).
-
 ## Zidovudine-treated HIV-infected Patients
 
 In contrast to CRF patients, PROCRIT® therapy has not been linked to exacerbation of hypertension, seizures, and thrombotic events in HIV-infected patients.
@@ -332,6 +323,14 @@ While changes were statistically significant, the values remained within the ran
 The importance of compliance with dietary and dialysis prescriptions should be reinforced.
 In particular, hyperkalemia is not uncommon in patients with CRF.
 In US studies in patients on dialysis, hyperkalemia has occurred at an annualized rate of approximately 0.11 episodes per patient-year of PROCRIT® therapy, often in association with poor compliance to medication, diet, and/or dialysis.
+
+## Dialysis Management
+
+Therapy with PROCRIT® results in an increase in hematocrit and a decrease in plasma volume which could affect dialysis efficiency.
+In studies to date, the resulting increase in hematocrit did not appear to adversely affect dialyzer function8,9 or the efficiency of high flux hemodialysis.10 During hemodialysis, patients treated with PROCRIT® may require increased anticoagulation with heparin to prevent clotting of the artificial kidney.
+
+Patients who are marginally dialyzed may require adjustments in their dialysis prescription.
+As with all patients on dialysis, the serum chemistry values (including BUN, creatinine, phosphorus, and potassium) in patients treated with PROCRIT® should be monitored regularly to assure the adequacy of the dialysis prescription.
 
 ### Renal Function
 
