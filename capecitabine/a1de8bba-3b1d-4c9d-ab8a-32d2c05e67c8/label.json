@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020896"
+  ],
   "inn": "capecitabine",
-  "labeler": "Roche Pharmaceuticals",
+  "labeler": "Hoffmann-La Roche Inc",
   "package_ndcs": [
     "0004-1100-20",
-    "0004-1101-50"
+    "0004-1101-50",
+    "0004-1101-51"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "capecitabine",
+      "name": "Xeloda"
+    }
+  ],
   "setid": "a1de8bba-3b1d-4c9d-ab8a-32d2c05e67c8",
   "source": "dailymed"
 }

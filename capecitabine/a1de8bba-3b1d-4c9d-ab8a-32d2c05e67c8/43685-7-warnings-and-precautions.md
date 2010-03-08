@@ -36,7 +36,7 @@ In patients ≥65 years of age (all randomized population; capecitabine 188 pati
 0.80 – 1.27) and 1.04 (95% C.I.
 0.79 – 1.37), respectively.
 
-## PREGNANCY
+## Pregnancy
 
 XELODA may cause fetal harm when given to a pregnant woman.
 Capecitabine at doses of 198 mg/kg/day during organogenesis caused malformations and embryo death in mice.

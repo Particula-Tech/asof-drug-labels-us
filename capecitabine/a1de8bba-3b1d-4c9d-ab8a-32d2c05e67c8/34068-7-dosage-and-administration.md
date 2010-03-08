@@ -49,17 +49,17 @@ Table 19 Recommended Dose Modifications With XELODA Monotherapy
 
 | Toxicity NCIC GradesNational Cancer Institute of Canada Common Toxicity Criteria were used except for the hand-and-foot syndrome (see PRECAUTIONS). | During a Course of Therapy | Dose Adjustment for Next Treatment (% of starting dose) |
 | --- | --- | --- |
-| •Grade 1 | Maintain dose level | Maintain dose level |
-| •Grade 2 |  |  |
+| • Grade 1 | Maintain dose level | Maintain dose level |
+| • Grade 2 |  |  |
 | -1st appearance | Interrupt until resolved to grade 0-1 | 100% |
 | -2nd appearance | Interrupt until resolved to grade 0-1 | 75% |
 | -3rd appearance | Interrupt until resolved to grade 0-1 | 50% |
 | -4th appearance | Discontinue treatment permanently |  |
-| •Grade 3 |  |  |
+| • Grade 3 |  |  |
 | -1st appearance | Interrupt until resolved to grade 0-1 | 75% |
 | -2nd appearance | Interrupt until resolved to grade 0-1 | 50% |
 | -3rd appearance | Discontinue treatment permanently |  |
-| •Grade 4 |  |  |
+| • Grade 4 |  |  |
 | -1st appearance | Discontinue permanently OR If physician deems it to be in the patient's best interest to continue, interrupt until resolved to grade 0-1 | 50% |
 
 Dosage modifications are not recommended for grade 1 events.
