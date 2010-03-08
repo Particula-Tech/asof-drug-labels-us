@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA125031"
+  ],
   "inn": "pegfilgrastim",
-  "labeler": "Amgen Manufacturing, Limited",
+  "labeler": "AMGEN INC",
   "package_ndcs": [
     "55513-190-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pegfilgrastim",
+      "name": "Neulasta"
+    }
+  ],
   "setid": "fdfe5d72-6b80-435a-afa4-c5d74dd852ce",
   "source": "dailymed"
 }

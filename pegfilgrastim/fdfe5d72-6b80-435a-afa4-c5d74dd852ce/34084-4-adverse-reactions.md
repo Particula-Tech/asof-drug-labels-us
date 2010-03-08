@@ -1,69 +1,70 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-See WARNINGS sections regarding Splenic Rupture, ARDS, Allergic Reactions, and Sickle Cell Disease.
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of Neulasta® cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to Neulasta® use and for approximating rates.
+- Splenic Rupture [See Warnings and Precautions (5.1)]
+- Acute Respiratory Distress Syndrome [See Warnings and Precautions (5.2)]
+- Serious Allergic Reactions [See Warnings and Precautions (5.3)]
+- Use in Patients with Sickle Cell Disorders [See Warnings and Precautions (5.4)]
+- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [See Warnings and Precautions (5.5)]
 
-The data described below reflect exposure to Neulasta® in 932 patients.
-Neulasta® was studied in placebo- and active-controlled trials (n = 467, and n = 465, respectively).
-The population encompassed an age range of 21 to 88 years.
-Ninety-two percent of patients were female.
-The ethnicity of the patients was as follows: 75% Caucasian, 18% Hispanic, 5% Black, and 1% Asian.
-Patients with solid tumors (breast [n = 823], lung and thoracic tumors [n = 53]) or lymphoma (n = 56) received Neulasta® after nonmyeloablative cytotoxic chemotherapy.
+The most common adverse reactions occurring in ≥ 5% of patients and with a between-group difference of ≥ 5% higher in the pegfilgrastim arm in placebo controlled clinical trials are bone pain and pain in extremity.
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Neulasta clinical trials safety data are based upon 932 patients receiving Neulasta in seven randomized clinical trials.
+The population was 21 to 88 years of age and 92% female.
+The ethnicity was 75% Caucasian, 18% Hispanic, 5% Black, and 1% Asian.
+Patients with breast (n = 823), lung and thoracic tumors (n = 53) and lymphoma (n = 56) received Neulasta after nonmyeloablative cytotoxic chemotherapy.
 Most patients received a single 100 mcg/kg (n = 259) or a single 6 mg (n = 546) dose per chemotherapy cycle over 4 cycles.
 
-In the placebo-controlled trial, bone pain occurred at a higher incidence in Neulasta®-treated patients as compared to placebo-treated patients.
-The incidence of other commonly reported adverse events were similar in the Neulasta ®- and placebo-treated patients, and were consistent with the underlying cancer diagnosis and its treatment with chemotherapy.
-The data in Table 2 reflect those adverse events occurring in at least 10% of patients treated with Neulasta® in the placebo-controlled study.
+The following adverse reaction data in Table 1 are from a randomized, double-blind, placebo-controlled study in patients with metastatic or non-metastatic breast cancer receiving docetaxel 100 mg/m2 every 21 days (Study 3).
+A total of 928 patients were randomized to receive either 6 mg Neulasta (n = 467) or placebo (n = 461).
+The patients were 21 to 88 years of age and 99% female.
+The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and <1% Asian, Native American or other.
 
-Table 2.
-Adverse Events Occurring in ≥ 10% Events occurring in ≥ 10% of Neulasta ®-treated patients and at a higher incidence as compared to placebo-treated patients. of Patients in the Placebo‑Controlled Study.
+Bone pain and pain in extremity occurred at a higher incidence in Neulasta-treated patients as compared with placebo-treated patients.
 
-| Event | Neulasta® (n = 467) | Placebo (n = 461) |
+Table 1.
+Adverse Reactions With ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3
+
+| System Organ ClassPreferred Term | Placebo(N= 461) | Neulasta 6 mg SC on Day 2(N= 467) |
 | --- | --- | --- |
-| Alopecia | 48% | 47% |
-| Bone Pain Bone pain is limited to the specified adverse event term “bone pain.” | 31% | 26% |
-| Diarrhea | 29% | 28% |
-| Pyrexia (not including febrile neutropenia) | 23% | 22% |
-| Myalgia | 21% | 18% |
-| Headache | 16% | 14% |
-| Arthralgia | 16% | 13% |
-| Vomiting | 13% | 11% |
-| Asthenia | 13% | 11% |
-| Edema peripheral | 12% | 10% |
-| Constipation | 10% | 6% |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Bone pain | 26% | 31% |
+| Pain in extremity | 4% | 9% |
 
-In the active controlled studies, common adverse events occurred at similar rates and severities in both treatment arms (Neulasta®, n = 465; Filgrastim, n = 331).
-These adverse experiences occurred at rates between 72% and 15% and included: nausea, fatigue, alopecia, diarrhea, vomiting, constipation, fever, anorexia, skeletal pain, headache, taste perversion, dyspepsia, myalgia, insomnia, abdominal pain, arthralgia, generalized weakness, peripheral edema, dizziness, granulocytopenia, stomatitis, mucositis, and neutropenic fever.
+### Leukocytosis
 
-## Bone Pain
+In clinical studies, leukocytosis (WBC counts > 100 x 109/L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving Neulasta.
+No complications attributable to leukocytosis were reported in clinical studies.
 
-The analysis of bone pain described below is based on a composite analysis using multiple, related, adverse event terms.
-
-In the placebo-controlled study, the incidence of bone pain was 57% in Neulasta®-treated patients compared to 50% in placebo-treated patients.
-Bone pain was generally reported to be of mild-to-moderate severity.
-
-Among patients experiencing bone pain, approximately 37% of Neulasta®- and 31% of placebo-treated patients utilized non-narcotic analgesics and 10% of Neulasta®- and 9% of placebo-treated patients utilized narcotic analgesics.
-
-In the active-controlled studies, the use of non-narcotic and narcotic analgesics in association with bone pain was similar between Neulasta®- and Filgrastim-treated patients.
-No patient withdrew from study due to bone pain.
-
-## Laboratory Abnormalities
-
-In clinical studies, leukocytosis (WBC counts > 100 x 109/L) was observed in less than 1% of 932 patients with non‑myeloid malignancies receiving Neulasta®.
-Leukocytosis was not associated with any adverse effects.
-
-In the placebo-controlled study, reversible elevations in LDH, alkaline phosphatase, and uric acid that did not require treatment occurred at similar rates in Neulasta®- and placebo-treated patients.
-
-## Immunogenicity
+## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-The incidence of antibody development in patients receiving Neulasta® has not been adequately determined.
-While available data suggest that a small proportion of patients developed binding antibodies to Filgrastim or pegfilgrastim, the nature and specificity of these antibodies has not been adequately studied.
-No neutralizing antibodies have been detected using a cell‑based bioassay in 46 patients who apparently developed binding antibodies.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors including sample handling, concomitant medications, and underlying disease.
-Therefore, comparison of the incidence of antibodies to Neulasta® with the incidence of antibodies to other products may be misleading.
+Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
+The approximate limit of detection for this assay is 500 ng/mL.
+Pre-existing binding antibodies were detected in approximately 6% (51/849) of patients with metastatic breast cancer.
+Four of 521 pegfilgrastim-treated subjects who were negative at baseline developed binding antibodies to pegfilgrastim following treatment.
+None of these 4 patients had evidence of neutralizing antibodies detected using a cell-based bioassay.
 
-Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors.
-There is a theoretical possibility that an antibody directed against pegfilgrastim may cross‑react with endogenous G‑CSF, resulting in immune‑mediated neutropenia, but this has not been observed in clinical studies.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to Neulasta with the incidence of antibodies to other products may be misleading.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of Neulasta.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) reported frequency of the reaction, or (3) strength of causal relationship to Neulasta.
+
+Gastro-intestinal disorders: Splenic rupture [See Warnings and Precautions (5.1)]
+
+Blood and lymphatic system disorder: Sickle cell crisis [See Warnings and Precautions (5.4)]
+
+Respiratory, thoracic, and mediastinal disorder: ARDS [See Warnings and Precautions (5.2)]
+
+General disorders and administration site conditions: Injection site reactions
+
+Skin and subcutaneous tissue disorders: Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, and urticaria, Sweet’s syndrome, generalized erythema and flushing [See Warnings and Precautions (5.3)]
