@@ -39,9 +39,10 @@ PROMACTA can cause uncommon but serious side effects:
   Your healthcare provider will check your blood platelet counts for at least 4 weeks after you stop taking PROMACTA.
   Call your healthcare provider right away to report any bruising or bleeding.
 - High platelet counts and higher chance for blood clots.
-  You have a higher chance of getting a blood clot if your platelet count is too high during treatment with PROMACTA.
+  You may have a higher chance of getting a blood clot if your platelet count is too high during treatment with PROMACTA but blood clots can occur with normal or even low platelet counts.
   You may have severe complications or die from some forms of blood clots, such as clots that travel to the lungs or that cause heart attacks or strokes.
   Your healthcare provider will check your blood platelet counts, and change your dose or stop PROMACTA if your platelet counts get too high.
+  Tell your healthcare provider right away if you have signs and symptoms of a blood clot in the leg, such as swelling, pain, or tenderness in your leg.
 - Worsening of blood cancers.
   PROMACTA is not for use in patients with blood cancer or a precancerous condition called myelodysplastic syndrome (MDS).
   If you have one of these conditions, PROMACTA may worsen your cancer or condition and may cause you to die sooner.
@@ -82,6 +83,7 @@ Tell your healthcare provider if you:
 - have a bone marrow problem, including a blood cancer or Myelodysplastic Syndrome (MDS)
 - have bleeding problems
 - are Asian and you are of Chinese, Japanese, Taiwanese, or Korean ancestry, you may need a lower dose of PROMACTA.
+- have any other medical conditions
 - are pregnant, think you may be pregnant, or plan to get pregnant.
   It is not known if PROMACTA will harm an unborn baby.
   Pregnancy Registry: There is a registry for women who become pregnant during treatment with PROMACTA.
@@ -205,9 +207,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-Revised: October 2009
+Revised: March 2010
 
-PRM:2MG
+PRM:3MG
