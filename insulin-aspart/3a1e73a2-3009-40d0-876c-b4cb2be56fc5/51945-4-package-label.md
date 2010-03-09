@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANELS
+# PRINCIPAL DISPLAY PANEL - 10 mL NovoLog Vial
 
 NDC 0169-7501-11
 
@@ -15,6 +15,8 @@ Insulin aspart Injection
 Rx only
 
 U-100
+
+# PRINCIPAL DISPLAY PANEL - 3 mL NovoLog PenFill
 
 NDC 0169-3303-12 List 330312
 
@@ -39,6 +41,8 @@ Avoid freezing.
 Protect from light.
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 3 mL NovoLog FlexPen
 
 NDC 0169-6339-10
 
