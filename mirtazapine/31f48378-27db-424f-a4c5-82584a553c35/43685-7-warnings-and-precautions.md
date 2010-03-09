@@ -389,6 +389,8 @@ Adverse events reported since market introduction, which were temporally (but no
 In 3 of the 4 cases, however, concomitant drugs were implicated.
 All patients recovered.
 
+Cases of severe skin reactions, including Stevens-Johnson Syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
+
 ## DRUG ABUSE AND DEPENDENCE
 
 ### Controlled Substance Class
@@ -496,7 +498,7 @@ Use immediately upon opening individual tablet blister.
 Rx only
 
 Manufactured by CIMA Labs Inc., Eden Prairie, MN 55344 USA.
-Distributed by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA. © 2001, 2007, Schering Corporation.
+Distributed by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA. © 2001, 2007, 2010, Schering Corporation.
 All rights reserved.
 Rev.
-3/09 33303505T
+X/XX
