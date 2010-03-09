@@ -121,3 +121,5 @@ Urogenital System: frequent: urinary tract infection; infrequent: kidney calculu
 Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
 In 3 of the 4 cases, however, concomitant drugs were implicated.
 All patients recovered.
+
+Cases of severe skin reactions, including Stevens-Johnson Syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
