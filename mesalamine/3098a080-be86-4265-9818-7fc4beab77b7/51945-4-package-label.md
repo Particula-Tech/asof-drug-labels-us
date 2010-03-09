@@ -1,11 +1,11 @@
-# Container Labels
+# PRINCIPAL DISPLAY PANEL
 
-Blister Pack 1.2g
+NDC 54092-476-12 - 1.2 g 120 Count Bottle
 
-Bottle 1.2g - Sharp
+Sharp
 
-Bottle 1.2g - Wellspring
+Wellspring
 
-Display Carton - Sharp
+NDC 54092-476-08 Display Carton and Sample Carton
 
-Sample Carton - Sharp
+Sharp
