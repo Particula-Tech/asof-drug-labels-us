@@ -1,38 +1,24 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-## Meperidine and Other Analgesics
+## 4.1 Meperidine and Certain Other Analgesics
 
 AZILECT is contraindicated for use with meperidine.
-Serious reactions have been precipitated with concomitant use of meperidine (e.g., Demerol and other tradenames) and MAO inhibitors including selective MAO-B inhibitors.
-These reactions have been characterized by coma, severe hypertension or hypotension, severe respiratory depression, convulsions, malignant hyperpyrexia, excitation, peripheral vascular collapse and death.
+Serious adverse reactions have been precipitated with concomitant use of meperidine (e.g., Demerol and other tradenames) and MAO inhibitors (MAOIs) including selective MAO-B inhibitors.
+These adverse reactions are often described as "serotonin syndrome", a potentially serious condition, which can result in death.
+Typical clinical signs and symptoms include behavioral and cognitive/mental status changes (e.g., confusion, hypomania, hallucinations, agitation, delirium, headache, and coma), autonomic effects (e.g., syncope, shivering, sweating, high fever/hyperthermia, hypertension, hypotension, tachycardia, nausea, diarrhea), and somatic effects (e.g., muscular rigidity, myoclonus, muscle twitching, hyperreflexia manifested by clonus, and tremor).
 At least 14 days should elapse between discontinuation of AZILECT and initiation of treatment with meperidine.
 
 For similar reasons, AZILECT should not be administered with the analgesic agents tramadol, methadone, and propoxyphene.
 
-## Other Drugs
+In the post-marketing period, serotonin syndrome has been reported in a patient erroneously treated with a higher than recommended dose of AZILECT (4 mg daily) and tramadol.
+
+## 4.2 Other Drugs
 
 AZILECT should not be used with the antitussive agent dextromethorphan.
 The combination of MAO inhibitors and dextromethorphan has been reported to cause brief episodes of psychosis or bizarre behavior.
-AZILECT is also contraindicated for use with St. John's wort, mirtazapine (a tetracyclic antidepressant), and cyclobenzaprine (a tricyclic muscle relaxant).
+AZILECT is also contraindicated for use with St. John's wort, and cyclobenzaprine (a tricyclic muscle relaxant).
 
-## Sympathomimetic Amines
+## 4.3 MAO Inhibitors
 
-Like other MAOIs, AZILECT is contraindicated for use with sympathomimetic amines, including amphetamines as well as cold products and weight-reducing preparations that contain vasoconstrictors (e.g., pseudoephedrine, phenylephrine, phenylpropanolamine, and ephedrine).
-Severe hypertensive reactions have followed the administrations of sympathomimetics and non-selective MAO inhibitors.
-At least one case of hypertensive crisis has been reported in a patient taking the recommended doses of a selective MAO-B inhibitor and a sympathomimetic medication (ephedrine).
-
-## MAO Inhibitors
-
-AZILECT should not be administered along with other MAO inhibitors because of the increased risk of non-selective MAO inhibition that may lead to a hypertensive crisis.
-At least 14 days should elapse between discontinuation of AZILECT and initiation of treatment with MAO inhibitors.
-
-## Surgery
-
-As with other MAOIs, patients taking AZILECT should not undergo elective surgery requiring general anesthesia.
-Also, they should not be given cocaine or local anesthesia containing sympathomimetic vasoconstrictors.
-AZILECT should be discontinued at least 14 days prior to elective surgery.
-If surgery is necessary sooner, benzodiazepines, mivacurium, rapacuronium, fentanyl, morphine, and codeine may be used cautiously.
-
-## Pheochromocytoma
-
-As with other MAOIs, AZILECT is contraindicated in patients with pheochromocytoma.
+AZILECT should not be administered along with any other MAO inhibitor (selective or non-selective) because of the increased risk of non-selective MAO inhibition that may lead to a hypertensive crisis.
+At least 14 days should elapse between discontinuation of AZILECT and initiation of treatment with any MAO inhibitor.

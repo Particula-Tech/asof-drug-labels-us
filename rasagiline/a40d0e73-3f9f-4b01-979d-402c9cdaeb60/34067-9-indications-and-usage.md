@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 AZILECT (rasagiline tablets) is indicated for the treatment of the signs and symptoms of idiopathic Parkinson's disease as initial monotherapy and as adjunct therapy to levodopa.
 

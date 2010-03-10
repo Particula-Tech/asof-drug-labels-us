@@ -1,9 +1,9 @@
-# CLINICAL TRIALS
+# 14 CLINICAL TRIALS
 
-The effectiveness of AZILECT (rasagiline tablets) for the treatment of Parkinson's disease was established in three 18- to 26-week, randomized, placebo-controlled trials.
+The effectiveness of AZILECT for the treatment of Parkinson's disease was established in three 18- to 26-week, randomized, placebo-controlled trials.
 In one of these trials AZILECT was given as initial monotherapy and in the other two as adjunctive therapy to levodopa.
 
-## Monotherapy Use of AZILECT
+## 14.1 Monotherapy Use of AZILECT
 
 The monotherapy trial was a double-blind, randomized, fixed-dose parallel group, 26-week study in early Parkinson's disease patients not receiving any concomitant dopaminergic therapy at the start of the study.
 The majority of the patients were not treated with any anti-Parkinson's disease medication before receiving rasagiline treatment.
@@ -19,23 +19,21 @@ A reduction in the score represents improvement and a beneficial change from bas
 Rasagiline (1 or 2 mg once daily) had a significant beneficial effect relative to placebo on the primary measure of effectiveness in patients receiving six months of treatment and not on dopaminergic therapy.
 Patients who received rasagiline had significantly less worsening in the UPDRS score, compared to those who received placebo.
 The effectiveness of rasagiline 1 mg and 2 mg was comparable.
-Table 1 displays the results of the monotherapy trial.
+Table 3 displays the results of the monotherapy trial.
 
-Table 1.
-Parkinson's Disease Patients not on Dopaminergic Therapy
+Table 3.
+Parkinson's Disease Patients not on Dopaminergic Therapy (Monotherapy)
 
-|  |  | termination score | placebo |
+|  | Baseline score | Change from baseline to termination score | p-value vs. placebo |
 | --- | --- | --- | --- |
 | Primary Measure of Effectiveness: Change in total UPDRS score |  |  |  |
-|  |  | Change from |  |
-|  | Baseline score | baseline to | p-value vs. |
 | Placebo | 24.5 | 3.9 | --- |
 | 1.0 mg/day | 24.7 | 0.1 | 0.0001 |
 | 2.0 mg/day | 25.9 | 0.7 | 0.0001 |
 
 For the comparison between rasagiline 1 mg/day and placebo, no differences in effectiveness based on age or gender were detected.
 
-## Adjunctive Use of AZILECT
+## 14.2 Adjunctive Use of AZILECT
 
 Two multicenter, randomized, multinational trials were conducted in more advanced Parkinson's disease patients treated chronically with levodopa and experiencing motor fluctuations (including but not limited to, end of dose "wearing off," sudden or random "off," etc.). The first (Study 1) was conducted in North America (U.S. and Canada) and compared two doses (0.5 mg and 1 mg daily) of rasagiline and placebo while the second (Study 2) was conducted outside of North America (several European countries, Argentina, Israel) and studied only a single dose (1 mg daily) of rasagiline and placebo.
 Patients had had Parkinson's disease for an average of 9 years (range 5 months to 33 years), had been taking levodopa for an average of 8 years (range 5 months to 32 years), and had been experiencing motor fluctuations for approximately 3 to 4 years (range 1 month to 23 years).
@@ -59,30 +57,26 @@ Patients were randomly assigned to receive placebo (229 patients), rasagiline 1 
 Patients were treated for 18 weeks.
 Patients averaged approximately 5.6 hours daily in the "OFF" state at baseline as confirmed by home diaries.
 
-In both studies rasagiline 1 mg once daily reduced "OFF" time compared to placebo when added to levodopa in patients experiencing motor fluctuations (Tables 2 and 3).
-The lower dose (0.5 mg) of rasagiline also significantly reduced "OFF" time (Table 2), but had a numerically smaller effect than the 1 mg dose of rasagiline.
+In both studies, rasagiline 1 mg once daily reduced "OFF" time compared to placebo when added to levodopa in patients experiencing motor fluctuations (Tables 4 and 5).
+The lower dose (0.5 mg) of rasagiline also significantly reduced "OFF" time (Table 4), but had a numerically smaller effect than the 1 mg dose of rasagiline.
 In Study 2, the active comparator also reduced "OFF" time when compared to placebo.
 
-Table 2.
+Table 4.
 Parkinson's Disease Patients Receiving AZILECT as Adjunct Therapy (Study 1)
 
-|  | (hours) | period (hours) |  |
+|  | Baseline (hours) | Change from baseline to treatment period (hours) | p-value vs. placebo |
 | --- | --- | --- | --- |
 | Primary Measure of Effectiveness: Change in mean total daily "OFF" time |  |  |  |
-|  |  | Change from | p-value vs. |
-|  | Baseline | baseline to treatment | placebo |
 | Placebo | 6.0 | -0.9 | --- |
 | 0.5 mg/day | 6.0 | -1.4 | 0.0199 |
 | 1.0 mg/day | 6.3 | -1.9 | < 0.0001 |
 
-Table 3.
+Table 5.
 Parkinson's Disease Patients Receiving AZILECT as Adjunct Therapy (Study 2)
 
-|  | (hours) | (hours) |  |
+|  | Baseline (hours) | Change from baseline to treatment period (hours) | p-value vs. placebo |
 | --- | --- | --- | --- |
 | Primary Measure of Effectiveness: Change in mean total daily "OFF" time |  |  |  |
-|  |  | Change from baseline | p-value vs. |
-|  | Baseline | to treatment period | placebo |
 | Placebo | 5.5 | - 0.40 | --- |
 | 1.0 mg/day | 5.6 | -1.2 | 0.0001 |
 
@@ -97,14 +91,13 @@ For the comparison between rasagiline 1 mg/day and placebo in both studies, no d
 Several secondary outcome assessments in the two studies showed statistically significant improvements with rasagiline.
 These included effects on the activities of daily living (ADL) subscale of the UPDRS performed during an "OFF" period and the motor subscale of the UPDRS performed during an "ON" period.
 In both scales, a negative response represents improvement.
-Tables 4 and 5 show these results for Studies 1 and 2.
+Tables 6 and 7 show these results for Studies 1 and 2.
 
-Table 4.
+Table 6.
 Secondary Measures of Effectiveness (Study 1)
 
-|  | (score) | value |
+|  | Baseline (score) | Change from baseline to last value |
 | --- | --- | --- |
-|  | Baseline | Change from baseline to last |
 | UPDRS ADL (Activities of Daily Living) subscale score while "OFF" |  |  |
 | Placebo | 15.5 | 0.68 |
 | 0.5 mg/day | 15.8 | -0.60 |
@@ -114,12 +107,11 @@ Secondary Measures of Effectiveness (Study 1)
 | 0.5 mg/day | 21.5 | -1.43 |
 | 1.0 mg/day | 20.9 | -1.30 |
 
-Table 5.
+Table 7.
 Secondary Measures of Effectiveness (Study 2)
 
-|  | (score) | to last value |
+|  | Baseline (score) | Change from baseline to last value |
 | --- | --- | --- |
-|  | Baseline | Change from baseline |
 | UPDRS ADL (Activities of Daily Living) subscale score while "OFF" |  |  |
 | Placebo | 18.7 | -0.89 |
 | 1.0 mg/day | 19.0 | -2.61 |

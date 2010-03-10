@@ -1,4 +1,14 @@
-# PRINCIPAL DISPLAY PANEL - 1mg 30 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
+
+NDC 68546-142-56
+
+AZILECT® (rasagiline tablets) 0.5 mg 30 Tablets Rx only
+
+TEVA® NEUROSCIENCE
+
+U.S. Patent Nos. 5387612, 5453446, 5457133, 5532415, 5786390, 6126968
+
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
 NDC 68546-229-56
 
