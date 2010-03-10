@@ -17,4 +17,5 @@ Norditropin [somatropin (rDNA origin) injection] is indicated for the replacemen
 - Adult Onset (AO): Patients who have GHD, either alone or associated with multiple hormone deficiencies (hypopituitarism), as a result of pituitary disease, hypothalamic disease, surgery, radiation therapy, or trauma; or
 - Childhood Onset (CO): Patients who were GH deficient during childhood as a result of congenital, genetic, acquired, or idiopathic causes.
 
-According to current standards, confirmation of the diagnosis of adult growth hormone deficiency in both groups involves an appropriate growth hormone provocative test with two exceptions: (1) patients with multiple other pituitary hormone deficiencies due to organic disease; and (2) patients with congenital/genetic growth hormone deficiency.
+Patients who were treated with somatropin for GHD in childhood and whose epiphyses are closed should be reevaluated before continuation of somatropin therapy at the reduced dose level recommended for GHD adults.
+According to current standards, confirmation of the diagnosis of adult GHD in both groups involves an appropriate growth hormone provocative test with two exceptions: (1) patients with multiple other pituitary hormone deficiencies due to organic disease; and (2) patients with congenital/genetic growth hormone deficiency.

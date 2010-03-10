@@ -35,7 +35,7 @@ Pediatric Patients with Short Stature Born Small for Gestational Age (SGA) with 
 
 A dosage of up to 0.067 mg/kg/day is recommended.
 
-Recent literature has recommended initial treatment with larger doses of somatropin (e.g., 0.067 mg/kg/day), especially in very short children (i.e., HSDS < -3), and/or older/early pubertal children, and that a reduction in dosage (e.g., gradually towards 0.033 mg/kg/day) should be considered if substantial catch-up growth is observed during the first few years of therapy.
+Recent literature has recommended initial treatment with larger doses of somatropin (e.g., 0.067 mg/kg/day), especially in very short children (i.e., HSDS < -3), and/or older/pubertal children, and that a reduction in dosage (e.g., gradually towards 0.033 mg/kg/day) should be considered if substantial catch-up growth is observed during the first few years of therapy.
 On the other hand, in younger SGA children (e.g., approximately < 4 years) (who respond the best in general) with less severe short stature (i.e., baseline HSDS values between -2 and -3), consideration should be given to initiating treatment at a lower dose (e.g., 0.033 mg/kg/day), and titrating the dose as needed over time.
 In all children, clinicians should carefully monitor the growth response, and adjust the rhGH dose as necessary.
 
@@ -43,14 +43,16 @@ In all children, clinicians should carefully monitor the growth response, and ad
 
 Adult Growth Hormone Deficiency (GHD)
 
-Based on the weight-based dosing utilized in the clinical studies, the recommended dosage at the start of therapy is not more than 0.004 mg/kg/day.
-The dose may be increased to not more than 0.016 mg/kg/day after approximately 6 weeks according to individual patient requirements.
-Clinical response, side effects, and determination of age- and gender-adjusted serum IGF-I levels may be used as guidance in dose titration.
+Either of two approaches to Norditropin dosing may be followed: a non-weight-based regimen or a weight-based regimen.
 
-Alternatively, taking into account recent literature, a starting dose of approximately 0.2 mg/day (range, 0.15-0.30 mg/day) may be used without consideration of body weight.
-This dose can be increased gradually every 1-2 months by increments of approximately 0.1-0.2 mg/day, according to individual patient requirements based on the clinical response and serum IGF-I concentrations.
-During therapy, the dose should be decreased if required by the occurrence of adverse events and/or serum IGF-I levels above the age- and gender-specific normal range.
-Maintenance dosages vary considerably from person to person.
+Non-weight based — based on published consensus guidelines, a starting dose of approximately 0.2 mg/day (range, 0.15-0.30 mg/day) may be used without consideration of body weight.
+This dose can be increased gradually every 1-2 months by increments of approximately 0.1-0.2 mg/day, according to individual patient requirements based on the clinical response and serum insulin-like growth factor I (IGF-I) concentrations.
+The dose should be decreased as necessary on the basis of adverse events and/or serum IGF-I concentrations above the age- and gender-specific normal range.
+Maintenance dosages vary considerably from person to person, and between male and female patients.
+
+Weight-based — based on the dosing regimen used in the original adult GHD registration trials, the recommended dosage at the start of treatment is not more than 0.004 mg/kg/day.
+The dose may be increased to not more than 0.016 mg/kg/day after approximately 6 weeks according to individual patient requirements.
+Clinical response, side effects, and determination of age- and gender-adjusted serum IGF-I concentrations should be used as guidance in dose titration.
 
 A lower starting dose and smaller dose increments should be considered for older patients, who are more prone to the adverse effects of somatropin than younger individuals.
 In addition, obese individuals are more likely to manifest adverse effects when treated with a weight-based regimen.
@@ -59,6 +61,14 @@ Oral estrogen administration may increase the dose requirements in women.
 
 ## 2.3 Preparation and Administration
 
+Norditropin® FlexPro® 5 mg/ 1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL:
+
+Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin FlexPro prefilled pen.
+
+Norditropin NordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
+
+Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin NordiFlex prefilled pen.
+
 Norditropin Cartridges must be administered using the NordiPen delivery systems.
 Each cartridge size has a corresponding, color-coded pen which is graduated to deliver the appropriate dose based on the concentration of Norditropin in the cartridge.
 
@@ -66,10 +76,6 @@ Norditropin® Cartridges 5 mg/1.5 mL and 15 mg/1.5 mL:
 
 Each cartridge of Norditropin must be inserted into its corresponding NordiPen delivery system.
 Instructions for delivering the dosage are provided in the NordiPen INSTRUCTION booklet.
-
-Norditropin NordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
-
-Instructions for delivering the dosage are provided in the PATIENT_INFORMATION and INSTRUCTION FOR USE leaflets enclosed with the Norditropin NordiFlex prefilled pen.
 
 Parenteral drug products should always be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Norditropin MUST NOT BE INJECTED if the solution is cloudy or contains particulate matter.

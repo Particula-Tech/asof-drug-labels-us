@@ -18,4 +18,4 @@ Table 2
 | Phenol | 4.5 mg | 4.5 mg | 4.5 mg | 9.0 mg |
 | Mannitol | 60 mg | 60 mg | 58 mg | 117 mg |
 | HCl/NaOH | as needed | as needed | as needed | as needed |
-| Water for Injection | up to 1.5 mL | up to 1.5 mL | up to 1.5 mL | up to 3 mL |
+| Water for Injection | up to 1.5 mL | up to 1.5 mL | up to 1.5 mL | up to 3.0 mL |

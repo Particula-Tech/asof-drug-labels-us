@@ -1,149 +1,101 @@
 # PATIENT INFORMATION
 
-Norditropin NordiFlex®
+Norditropin® (Nor-dee-tro-pin)
 
-Somatropin (rDNA origin) injection
+(somatropin [rDNA origin]) injection
 
-5 mg/1.5 mL Prefilled Pen
+Read the Patient Information that comes with Norditropin before you start to take it and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-Your doctor will discuss with you the benefits and risks of Norditropin NordiFlex® (pronounced Nor-dee-tro-pin Nor-dee-flex).
-Read all of the information in this patient guide because it contains important information for you.
-If you have further questions, please ask your doctor or your pharmacist.
+What is Norditropin?
 
-Norditropin NordiFlex has been prescribed for you and you must not pass it on to others.
+Norditropin is a prescription medicine given by injection under the skin (subcutaneous) that contains human growth hormone, identical to the growth hormone produced in the human body, used to treat:
 
-What is the most important information I should know about Norditropin NordiFlex?
+- children who are not growing because of low or no growth hormone
+- children who are short (in stature) and who have Noonan syndrome or Turner syndrome
+- children who are short (in stature) because they were born small (small for gestational age-SGA) and have not caught-up in growth by age 2 to 4 years
+- adults who do not make enough growth hormone
 
-Store Norditropin NordiFlex in a refrigerator before use.
-Do not freeze it or expose it to heat.
+Who should not use Norditropin?
 
-Do not use Norditropin NordiFlex if the solution in the cartridge does not appear clear and colorless.
-Check this by turning the pen upside down once or twice.
+Do not use Norditropin if:
 
-Norditropin NordiFlex is for use by one person only.
+- you have a critical illness caused by certain types of heart or stomach surgery, trauma or breathing (respiratory) problems
+- you are a child with Prader-Willi syndrome who is severely obese or has breathing problems including sleep apnea
+- you have cancer or other tumors
+- your healthcare provider tells you that you have certain types of eye problems caused by diabetes
+- you are a child with closed bone growth plates (epiphyses)
+- you are allergic to any of the ingredients in Norditropin.
+  See the end of this leaflet for a complete list of ingredients in Norditropin.
 
-Do not use Norditropin NordiFlex if you need to make more than 4 air shots before the first injection.
+What should I tell my healthcare provider before I start Norditropin?
 
-Your doctor may measure your height, weight and your ability to produce growth hormone before you are prescribed Norditropin NordiFlex.
+Before you take Norditropin, tell your healthcare provider if you:
 
-What is Norditropin NordiFlex?
+- have diabetes
+- had cancer or any tumor
+- have any other medical condition
+- are pregnant or plan to become pregnant.
+  It is not known if Norditropin will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+- are breast-feeding or plan to breast-feed.
+  It is not known if Norditropin passes into your breast milk.
+  You and your healthcare provider should decide if you will take Norditropin while you breast-feed.
 
-Norditropin® is a clear and colorless solution.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Norditropin may affect how other medicines work, and other medicines may affect how Norditropin works.
 
-Norditropin is used to treat the following:
+Especially tell your healthcare provider if you take:
 
-- children with growth failure caused by very low or no production of growth hormone
-- short stature in children with Noonan syndrome
-- short stature in children with Turner syndrome
-- children with short stature born small for gestational age (SGA) with no catch-up growth by age 2-4 years
-- adults who do not make sufficient growth hormone
-
-Norditropin is injected using Norditropin NordiFlex, a multi-dose disposable 1.5 mL prefilled pen.
-Norditropin NordiFlex contains several doses of growth hormone solution.
-A dose is injected under the skin in the evening 6-7 times a week.
-
-Norditropin NordiFlex is available in three strengths: 5 mg/1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL (i.e. with a concentration of 3.3 mg/mL, 6.7 mg/mL and 10.0 mg/mL respectively).
-
-Throw away Norditropin NordiFlex when the cartridge is empty.
-
-Medicines are sometimes prescribed for purposes other than those listed in a patient guide.
-You should ask your doctor about any concerns and refer to the professional labeling for additional information.
-
-What does Norditropin NordiFlex contain?
-
-The cartridge in Norditropin NordiFlex contains human growth hormone called somatropin (so-ma-tro-pin) made through biotechnology.
-It is identical to the growth hormone produced in the human body.
-
-The cartridge contains other ingredients: Histidine, Poloxamer 188, Phenol, Mannitol and Water for Injection.
-
-Who should not use Norditropin NordiFlex?
-
-Do not use Norditropin NordiFlex if you have any of the following conditions:
-
-- child with closed epiphyses (closed bone growth plates)
-- child with Prader-Willi syndrome who is also severely obese or has significant respiratory impairment
-- allergic to phenol or any other ingredients in the medicine
-- had a kidney transplant
-- pregnant
-- breast-feeding
-- active cancer or other forms of tumor
-- acute critical illness due to certain types of heart or abdomen surgery, trauma or acute respiratory failure
-
-What should you consider if you are pregnant or breast-feeding?
-
-If you become pregnant while you are using Norditropin NordiFlex, you are recommended to stop the treatment and discuss this with your doctor.
-
-You are recommended not to use Norditropin NordiFlex while you are breast-feeding because growth hormone might pass into your milk.
-
-Be sure to tell your doctor if you:
-
-- have diabetes mellitus
-- had cancer or other forms of tumor
-- are pregnant, planning to be pregnant or breastfeeding
-- had a kidney transplant
-
-If any of the above applies to you, Norditropin NordiFlex may not be suitable.
-Your doctor will give you advice.
-
-How should I use Norditropin NordiFlex?
-
-Carefully follow the "Instructions for Use" on the other side of this patient guide.
-
-You should inject Norditropin NordiFlex under the skin in the evening just before bedtime.
-You should change the injection area so you do not harm your skin.
-
-NovoFine® disposable needles are designed to be used with Norditropin NordiFlex.
-
-How much Norditropin should you take?
-
-Your doctor will tell you how much Norditropin you should take.
-In children it depends on the body weight.
-
-General guidelines for dosages are shown below.
-
-Children with low or no growth hormone: 0.024 to 0.034 mg/kg body weight, 6-7 times a week
-
-Children with Noonan syndrome: Up to 0.066 mg/kg/day
-
-Children with Turner syndrome: Up to 0.067 mg/kg/day
-
-Children born small for gestational age (SGA) with no catch-up growth by age 2-4 years: Up to 0.067 mg/kg/day
-
-Adults: Not more than 0.004 mg/kg/day at start of therapy.
-Dosage may be increased as tolerated to not more than 0.016 mg/kg/day after approximately 6 weeks, or
-
-Alternative dose for adults:
-
-- Approximately 0.2 mg/day (range, 0.15-0.30 mg/day) at start of therapy.
-  Dosage can be increased gradually every 1-2 months by steps of approximately 0.1-0.2 mg/day, based on your doctor's recommendations.
-
-If you forget to take a dose, take the next dose as usual - do not double your dose.
-
-What should you do if you inject too much growth hormone using Norditropin NordiFlex?
-
-If you inject too much growth hormone, contact your doctor.
-
-How long should you continue to take Norditropin?
-
-Discuss with your doctor how long you should take Norditropin.
-
-What should I avoid while using Norditropin NordiFlex?
-
-Be sure to tell your doctor about all of the medications you are taking especially if you are taking:
-
-- a glucocorticoid medication (for example, hydrocortisone or cortisone acetate)
+- glucocorticoid medication
 - thyroid hormone
-- insulin and/or oral diabetes medicine
-- drugs metabolized by the liver (for example, corticosteroids, sex steroids, anticonvulsants, cyclosporine)
-- oral estrogen replacement
+- insulin or other medicine for diabetes
+- medicines that are metabolized by the liver
+- estrogen replacement medicines
 
-Adult height can be influenced if you are on Norditropin NordiFlex for growth failure and using glucocorticoids or thyroid hormone at the same time.
+Ask your healthcare provider if you are not sure if any of your medicines are the kind listed above.
+Keep a list of your medicines with you and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-If you are treated with insulin and/or oral diabetes medicine, your insulin/oral diabetes medicine dose may need to be adjusted.
+How should I use Norditropin?
 
-What are the possible side effects of Norditropin NordiFlex?
+- Read the detailed Instructions for Use that come with Norditropin.
+  Your healthcare provider will show you how to inject Norditropin.
+- Take Norditropin exactly as prescribed.
+- Norditropin FlexPro pens, NordiFlex pens and cartridges are for use by one person only.
+- Novo Nordisk disposable needles are designed to be used with Norditropin for each injection.
+- Always keep the pen cap closed on Norditropin when you are not using it.
+- Norditropin comes in 3 dose strengths for FlexPro prefilled color coded pens, 4 dose strengths for NordiFlex prefilled color coded pens, and 2 dose strengths for color coded cartridges.
+- If you inject too much Norditropin, call your healthcare provider.
+- If you miss a dose, take it as soon as you remember.
+  If it is almost time for your next dose, skip the missed dose.
+  Just take the next dose at your regular time.
+  Do not take 2 doses at the same time unless your healthcare provider tells you to.
+  If you are not sure about your dosing, call your healthcare provider.
+- Throw away Norditropin when the cartridge is empty.
+- Refer to the Instructions for Use about what to do if you have less than a full dose left in your pen.
 
-The following side effects are usually mild and temporary:
+What are the possible side effects of Norditropin?
+
+Norditropin can cause serious side effects, including:
+
+- high risk of death in people who have critical illnesses because of heart or stomach surgery, trauma or serious breathing (respiratory) problems
+- high risk of death in children with Prader-Willi syndrome who are severely obese or have breathing problems, including sleep apnea
+- return of tumor or cancerous growths
+- high blood sugar (hyperglycemia)
+- increase in pressure in the skull (intracranial hypertension).
+  If you have headaches, eye problems, nausea or vomiting, contact your healthcare provider right away.
+- swollen hands and feet due to fluid retention
+- decrease in thyroid hormone levels.
+  Your healthcare provider will do blood tests to check your thyroid hormone levels.
+- hip and knee pain or a limp in children (slipped capital femoral epiphysis)
+- worsening of curvature of the spine (scoliosis)
+- middle ear infection, hearing problems or ear problems in patients with Turner syndrome
+- redness, itching and tissue weakness in the area you inject
+- increase in phosphorus, alkaline phosphatase and parathyroid hormone levels in your blood.
+  Your healthcare provider will do blood tests to check this.
+
+The most common side effects of Norditropin include:
 
 - headaches
 - muscle pain
@@ -153,64 +105,62 @@ The following side effects are usually mild and temporary:
 - swollen hands and feet due to fluid retention
 - redness and itching in the area you inject
 
-If you experience any of these symptoms, discuss this with your doctor.
+Talk to your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-In rare cases you may develop antibodies to growth hormone.
+These are not all the possible side effects of Norditropin.
+For more information, ask your healthcare provider or pharmacist.
 
-If you have symptoms of headaches, eyesight problems, nausea and/or vomiting, these may be symptoms of raised pressure in the brain.
-Contact your doctor immediately.
+Call your healthcare provider for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088 (1-800-332-1088).
+You may also report side effects to Novo Nordisk at 1-888-NOVO-444 (1-888-668-6444).
 
-Be sure to tell your doctor if you have any other side effects not mentioned here.
+How do I store Norditropin?
 
-Special warnings
+Unused Norditropin FlexPro and NordiFlex pens, and cartridges:
 
-In very rare cases children treated with growth hormone have experienced pain in the hip or knee or a limp.
-These symptoms may be caused by a slippage of the growth plate in the hip (slipped capital femoral epiphysis).
+- Keep in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC).
+- Do not freeze or expose Norditropin to heat.
+- Keep Norditropin away from direct light.
+- Do not use Norditropin that has been frozen or in temperatures warmer than 77ºF (25ºC).
+- Do not use Norditropin after the expiration date printed on the carton and the pen or cartridge.
 
-Scoliosis (curvature of the spine) can occur in children who experience rapid growth.
-Because growth hormone increases growth rate, patients should be monitored for progression of scoliosis.
+After the first injection
 
-Thyroid function tests should be performed periodically.
+- Norditropin FlexPro, NordiFlex and cartridge 5 mg/1.5 mL (orange):
+  - either store in the refrigerator between 36ºF to 46ºF (2ºC to 8ºC) and use within 4 weeks
+  - orkeep for up to 3 weeks at no warmer than 77ºF(25ºC).
+  - Throw away any unused medicine.
+- Norditropin FlexPro and NordiFlex 10 mg/1.5mL (blue):
+  - either store in the refrigerator between 36ºF to 46ºF (2ºC to 8º C) and use within 4 weeks.
+  - or keep for up to 3 weeks at no warmer than 77 ºF (25ºC).
+  - Throw away any unused medicine.
+- Norditropin FlexPro, NordiFlex and cartridge 15 mg/1.5 mL (green):
+  - store in the refrigerator between 36ºF to 46ºF (2ºC to 8ºC) and use within 4 weeks
+  - Throw away any unused medicine after 4 weeks.
+- Norditropin NordiFlex pens 30 mg/3 mL (purple):
+  - store in the refrigerator between 36ºF to 46ºF (2ºC to 8ºC) and use within 4 weeks
+  - Throw away any unused medicine after 4 weeks
 
-Patients with Turner syndrome have an increased risk of ear or hearing disorders.
-They should be carefully evaluated for middle ear infection (otitis media) and other ear disorders.
+General Information about Norditropin.
 
-Skin lesions should be checked carefully for any cancerous changes.
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information.
+Do not use Norditropin for a condition for which it was not prescribed.
+Do not give Norditropin to other people, even if they have the same symptoms that you have.
+It may harm them.
 
-The following tumors have been reported in patients treated with growth hormone: Leukemia in children, relapse of brain tumors in children and adults.
-However, there is no evidence that growth hormone is responsible for causing these diseases.
+This Patient Information summarizes the most important information about Norditropin.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about Norditropin that is written for healthcare professionals.
 
-Talk to your doctor if you think you have any of these conditions.
+What are the ingredients in Norditropin?
 
-How to store Norditropin NordiFlex?
+Active ingredient: somatropin (rDNA origin)
 
-Store unused Norditropin NordiFlex in a refrigerator (2ºC-8ºC/36ºF-46ºF).
-Do not freeze or expose it to heat.
-Avoid direct light.
+Inactive ingredients: Histidine, Poloxamer 188, Phenol, Mannitol, HCl/NaOH (as needed) and Water for Injection
 
-After the initial injection, Norditropin NordiFlex 5 mg/1.5 mL may be EITHER stored in the refrigerator (2-8ºC/36-46ºF) and used within 4 weeks OR may be stored for up to 3 weeks at not more than 25ºC (77ºF).
-Discard unused portion.
+Date of Issue: March 2, 2010
 
-Do not use Norditropin NordiFlex which has been frozen or exposed to temperatures higher than 25ºC (77ºF).
-
-Always use a new NovoFine needle for each injection.
-Do not keep the needle screwed onto Norditropin NordiFlex when you are not using it.
-
-Always keep the pen cap closed on Norditropin NordiFlex when you are not using it.
-
-Never use Norditropin NordiFlex after the expiration date printed on the pen and on the carton.
-
-Date of issue: October 31, 2008
-
-Version: 6
-
-Norditropin® and Norditropin NordiFlex® are registered trademarks of Novo Nordisk Health Care AG.
-
-Novo Nordisk® and NovoFine® are registered trademarks of Novo Nordisk A/S.
-
-© 2004-2008 Novo Nordisk Inc.
-
-US Patent Nos. 6,235,004; 6,004,297 and other patents pending.
+Version: 7
 
 For assistance or further information, write to:
 
@@ -220,9 +170,17 @@ Novo Nordisk Inc.
 
 Princeton, NJ 08540, USA
 
-1-888-NOVO-444
+1-888-NOVO-444 (1-888-668-6444)
 
-www.norditropin-us.com
+norditropin-us.com
+
+US Patent Nos. 6,235,004; 6,004,297; 6,582,404; 6,716,198; 6,899,699; 5,849,704; 5,691,169; 5,618,697 and other patents pending.
+
+Norditropin®, FlexPro®, Norditropin NordiFlex® and NordiFlex PenMate® are registered trademarks of Novo Nordisk Health Care AG.
+
+Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
+
+© 2004-2010 Novo Nordisk Health Care AG
 
 Manufactured by:
 
@@ -369,236 +327,6 @@ Product Safety
 
 Princeton, NJ 08540, USA
 
-Norditropin NordiFlex®
-
-Somatropin (rDNA origin) injection
-
-10 mg/1.5 mL Prefilled Pen
-
-Your doctor will discuss with you the benefits and risks of Norditropin NordiFlex® (pronounced Nor-dee-tro-pin Nor-dee-flex).
-Read all of the information in this patient guide because it contains important information for you.
-If you have further questions, please ask your doctor or your pharmacist.
-
-Norditropin NordiFlex has been prescribed for you and you must not pass it on to others.
-
-What is the most important information I should know about Norditropin NordiFlex?
-
-Store Norditropin NordiFlex in a refrigerator before use.
-Do not freeze it or expose it to heat.
-
-Do not use Norditropin NordiFlex if the solution in the cartridge does not appear clear and colorless.
-Check this by turning the pen upside down once or twice.
-
-Norditropin NordiFlex is for use by one person only.
-
-Do not use Norditropin NordiFlex if you need to make more than 4 air shots before the first injection.
-
-Your doctor may measure your height, weight and your ability to produce growth hormone before you are prescribed Norditropin NordiFlex.
-
-What is Norditropin NordiFlex?
-
-Norditropin® is a clear and colorless solution.
-
-Norditropin is used to treat the following:
-
-- children with growth failure caused by very low or no production of growth hormone
-- short stature in children with Noonan syndrome
-- short stature in children with Turner syndrome
-- children with short stature born small for gestational age (SGA) with no catch-up growth by age 2-4 years
-- adults who do not make sufficient growth hormone
-
-Norditropin is injected using Norditropin NordiFlex, a multi-dose disposable 1.5 mL prefilled pen.
-Norditropin NordiFlex contains several doses of growth hormone solution.
-A dose is injected under the skin in the evening 6-7 times a week.
-
-Norditropin NordiFlex is available in three strengths: 5 mg/1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL (i.e. with a concentration of 3.3 mg/mL, 6.7 mg/mL and 10.0 mg/mL respectively).
-
-Throw away Norditropin NordiFlex when the cartridge is empty.
-
-Medicines are sometimes prescribed for purposes other than those listed in a patient guide.
-You should ask your doctor about any concerns and refer to the professional labeling for additional information.
-
-What does Norditropin NordiFlex contain?
-
-The cartridge in Norditropin NordiFlex contains human growth hormone called somatropin (so-ma-tro-pin) made through biotechnology.
-It is identical to the growth hormone produced in the human body.
-
-The cartridge contains other ingredients: Histidine, Poloxamer 188, Phenol, Mannitol and Water for Injection.
-
-Who should not use Norditropin NordiFlex?
-
-Do not use Norditropin NordiFlex if you have any of the following conditions:
-
-- child with closed epiphyses (closed bone growth plates)
-- child with Prader-Willi syndrome who is also severely obese or has significant respiratory impairment
-- allergic to phenol or any other ingredients in the medicine
-- had a kidney transplant
-- pregnant
-- breast-feeding
-- active cancer or other forms of tumor
-- acute critical illness due to certain types of heart or abdomen surgery, trauma or acute respiratory failure
-
-What should you consider if you are pregnant or breast-feeding?
-
-If you become pregnant while you are using Norditropin NordiFlex, you are recommended to stop the treatment and discuss this with your doctor.
-
-You are recommended not to use Norditropin NordiFlex while you are breast-feeding because growth hormone might pass into your milk.
-
-Be sure to tell your doctor if you:
-
-- have diabetes mellitus
-- had cancer or other forms of tumor
-- are pregnant, planning to be pregnant or breastfeeding
-- had a kidney transplant
-
-If any of the above applies to you, Norditropin NordiFlex may not be suitable.
-Your doctor will give you advice.
-
-How should I use Norditropin NordiFlex?
-
-Carefully follow the “Instructions for Use” on the other side of this patient guide.
-
-You should inject Norditropin NordiFlex under the skin in the evening just before bedtime.
-You should change the injection area so you do not harm your skin.
-
-NovoFine® disposable needles are designed to be used with Norditropin NordiFlex.
-
-How much Norditropin should you take?
-
-Your doctor will tell you how much Norditropin you should take.
-In children it depends on the body weight.
-
-General guidelines for dosages are shown below.
-
-Children with low or no growth hormone: 0.024 to 0.034 mg/kg body weight, 6-7 times a week
-
-Children with Noonan syndrome: Up to 0.066 mg/kg/day
-
-Children with Turner syndrome: Up to 0.067 mg/kg/day
-
-Children born small for gestational age (SGA) with no catch-up growth by age 2-4 years: Up to 0.067 mg/kg/day
-
-Adults: Not more than 0.004 mg/kg/day at start of therapy.
-Dosage may be increased as tolerated to not more than 0.016 mg/kg/day after approximately 6 weeks, or
-
-Alternative dose for adults:
-
-- Approximately 0.2 mg/day (range, 0.15-0.30 mg/day) at start of therapy.
-  Dosage can be increased gradually every 1-2 months by steps of approximately 0.1-0.2 mg/day, based on your doctor's recommendations.
-
-If you forget to take a dose, take the next dose as usual - do not double your dose.
-
-What should you do if you inject too much growth hormone using Norditropin NordiFlex?
-
-If you inject too much growth hormone, contact your doctor.
-
-How long should you continue to take Norditropin?
-
-Discuss with your doctor how long you should take Norditropin.
-
-What should I avoid while using Norditropin NordiFlex?
-
-Be sure to tell your doctor about all of the medications you are taking especially if you are taking:
-
-- a glucocorticoid medication (for example, hydrocortisone or cortisone acetate)
-- thyroid hormone
-- insulin and/or oral diabetes medicine
-- drugs metabolized by the liver (for example, corticosteroids, sex steroids, anticonvulsants, cyclosporine)
-- oral estrogen replacement
-
-Adult height can be influenced if you are on Norditropin NordiFlex for growth failure and using glucocorticoids or thyroid hormone at the same time.
-
-If you are treated with insulin and/or oral diabetes medicine, your insulin/oral diabetes medicine dose may need to be adjusted.
-
-What are the possible side effects of Norditropin NordiFlex?
-
-The following side effects are usually mild and temporary:
-
-- headaches
-- muscle pain
-- joint stiffness
-- high blood sugar (hyperglycemia)
-- sugar in your urine (glucosuria)
-- swollen hands and feet due to fluid retention
-- redness and itching in the area you inject
-
-If you experience any of these symptoms, discuss this with your doctor.
-
-In rare cases you may develop antibodies to growth hormone.
-
-If you have symptoms of headaches, eyesight problems, nausea and/or vomiting, these may be symptoms of raised pressure in the brain.
-Contact your doctor immediately.
-
-Be sure to tell your doctor if you have any other side effects not mentioned here.
-
-Special warnings
-
-In very rare cases children treated with growth hormone have experienced pain in the hip or knee or a limp.
-These symptoms may be caused by a slippage of the growth plate in the hip (slipped capital femoral epiphysis).
-
-Scoliosis (curvature of the spine) can occur in children who experience rapid growth.
-Because growth hormone increases growth rate, patients should be monitored for progression of scoliosis.
-
-Thyroid function tests should be performed periodically.
-
-Patients with Turner syndrome have an increased risk of ear or hearing disorders.
-They should be carefully evaluated for middle ear infection (otitis media) and other ear disorders.
-
-Skin lesions should be checked carefully for any cancerous changes.
-
-The following tumors have been reported in patients treated with growth hormone: Leukemia in children, relapse of brain tumors in children and adults.
-However, there is no evidence that growth hormone is responsible for causing these diseases.
-
-Talk to your doctor if you think you have any of these conditions.
-
-How to store Norditropin NordiFlex?
-
-Store unused Norditropin NordiFlex in a refrigerator (2ºC-8ºC/36ºF-46ºF).
-Do not freeze or expose it to heat.
-Avoid direct light.
-
-After the initial injection, Norditropin NordiFlex 10 mg/1.5 mL may be EITHER stored in the refrigerator (2-8ºC/36ºF-46ºF) and used within 4 weeks OR may be stored for up to 3 weeks at not more than 25ºC (77ºF).
-Discard unused portion.
-
-Do not use Norditropin NordiFlex which has been frozen or exposed to temperatures higher than 25ºC (77ºF).
-
-Always use a new NovoFine needle for each injection.
-Do not keep the needle screwed onto Norditropin NordiFlex when you are not using it.
-
-Always keep the pen cap closed on Norditropin NordiFlex when you are not using it.
-
-Never use Norditropin NordiFlex after the expiration date printed on the pen and on the carton.
-
-Date of issue: October 31, 2008
-
-Version: 6
-
-Norditropin® and Norditropin NordiFlex ® are registered trademarks of Novo Nordisk Health Care AG.
-
-Novo Nordisk® and NovoFine® are registered trademarks of Novo Nordisk A/S.
-
-© 2004-2008 Novo Nordisk Inc.
-
-US Patent Nos. 6,235,004; 6,004,297 and other patents pending.
-
-For assistance or further information, write to:
-
-Novo Nordisk Inc.
-
-100 College Road West
-
-Princeton, NJ 08540, USA
-
-1-888-NOVO-444
-
-www.norditropin-us.com
-
-Manufactured by:
-
-Novo Nordisk A/S
-
-DK-2880 Bagsvaerd, Denmark
-
 INSTRUCTIONS FOR USE
 
 Norditropin NordiFlex®
@@ -737,236 +465,6 @@ Product Safety
 100 College Road West
 
 Princeton, NJ 08540, USA
-
-Norditropin NordiFlex®
-
-Somatropin (rDNA origin) injection
-
-15 mg/1.5 mL Prefilled Pen
-
-Your doctor will discuss with you the benefits and risks of Norditropin NordiFlex® (pronounced Nor-dee-tro-pin Nor-dee-flex).
-Read all of the information in this patient guide because it contains important information for you.
-If you have further questions, please ask your doctor or your pharmacist.
-
-Norditropin NordiFlex has been prescribed for you and you must not pass it on to others.
-
-What is the most important information I should know about Norditropin NordiFlex?
-
-Store Norditropin NordiFlex in a refrigerator before use.
-Do not freeze it or expose it to heat.
-
-Do not use Norditropin NordiFlex if the solution in the cartridge does not appear clear and colorless.
-Check this by turning the pen upside down once or twice.
-
-Norditropin NordiFlex is for use by one person only.
-
-Do not use Norditropin NordiFlex if you need to make more than 4 air shots before the first injection.
-
-Your doctor may measure your height, weight and your ability to produce growth hormone before you are prescribed Norditropin NordiFlex.
-
-What is Norditropin NordiFlex?
-
-Norditropin® is a clear and colorless solution.
-
-Norditropin is used to treat the following:
-
-- children with growth failure caused by very low or no production of growth hormone
-- short stature in children with Noonan syndrome
-- short stature in children with Turner syndrome
-- children with short stature born small for gestational age (SGA) with no catch-up growth by age 2-4 years
-- adults who do not make sufficient growth hormone
-
-Norditropin is injected using Norditropin NordiFlex, a multi-dose disposable 1.5 mL prefilled pen.
-Norditropin NordiFlex contains several doses of growth hormone solution.
-A dose is injected under the skin in the evening 6-7 times a week.
-
-Norditropin NordiFlex is available in three strengths: 5 mg/1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL (i.e. with a concentration of 3.3 mg/mL, 6.7 mg/mL and 10.0 mg/mL respectively).
-
-Throw away Norditropin NordiFlex when the cartridge is empty.
-
-Medicines are sometimes prescribed for purposes other than those listed in a patient guide.
-You should ask your doctor about any concerns and refer to the professional labeling for additional information.
-
-What does Norditropin NordiFlex contain?
-
-The cartridge in Norditropin NordiFlex contains human growth hormone called somatropin (so-ma-tro-pin) made through biotechnology.
-It is identical to the growth hormone produced in the human body.
-
-The cartridge contains other ingredients: Histidine, Poloxamer 188, Phenol, Mannitol and Water for Injection.
-
-Who should not use Norditropin NordiFlex?
-
-Do not use Norditropin NordiFlex if you have any of the following conditions:
-
-- child with closed epiphyses (closed bone growth plates)
-- child with Prader-Willi syndrome who is also severely obese or has significant respiratory impairment
-- allergic to phenol or any other ingredients in the medicine
-- had a kidney transplant
-- pregnant
-- breast-feeding
-- active cancer or other forms of tumor
-- acute critical illness due to certain types of heart or abdomen surgery, trauma or acute respiratory failure
-
-What should you consider if you are pregnant or breast-feeding?
-
-If you become pregnant while you are using Norditropin NordiFlex, you are recommended to stop the treatment and discuss this with your doctor.
-
-You are recommended not to use Norditropin NordiFlex while you are breast-feeding because growth hormone might pass into your milk.
-
-Be sure to tell your doctor if you:
-
-- have diabetes mellitus
-- had cancer or other forms of tumor
-- are pregnant, planning to be pregnant or breastfeeding
-- had a kidney transplant
-
-If any of the above applies to you, Norditropin NordiFlex may not be suitable.
-Your doctor will give you advice.
-
-How should I use Norditropin NordiFlex?
-
-Carefully follow the “Instructions for Use” on the other side of this patient guide.
-
-You should inject Norditropin NordiFlex under the skin in the evening just before bedtime.
-You should change the injection area so you do not harm your skin.
-
-NovoFine® disposable needles are designed to be used with Norditropin NordiFlex.
-
-How much Norditropin should you take?
-
-Your doctor will tell you how much Norditropin you should take.
-In children it depends on the body weight.
-
-General guidelines for dosages are shown below.
-
-Children with low or no growth hormone: 0.024 to 0.034 mg/kg body weight, 6-7 times a week
-
-Children with Noonan syndrome: Up to 0.066 mg/kg/day
-
-Children with Turner syndrome: Up to 0.067 mg/kg/day
-
-Children born small for gestational age (SGA) with no catch-up growth by age 2-4 years: Up to 0.067 mg/kg/day
-
-Adults: Not more than 0.004 mg/kg/day at start of therapy.
-Dosage may be increased as tolerated to not more than 0.016 mg/kg/day after approximately 6 weeks, or
-
-Alternative dose for adults:
-
-- Approximately 0.2 mg/day (range, 0.15-0.30 mg/day) at start of therapy.
-  Dosage can be increased gradually every 1-2 months by steps of approximately 0.1-0.2 mg/day, based on your doctor's recommendations.
-
-If you forget to take a dose, take the next dose as usual - do not double your dose.
-
-What should you do if you inject too much growth hormone using Norditropin NordiFlex?
-
-If you inject too much growth hormone, contact your doctor.
-
-How long should you continue to take Norditropin?
-
-Discuss with your doctor how long you should take Norditropin.
-
-What should I avoid while using Norditropin NordiFlex?
-
-Be sure to tell your doctor about all of the medications you are taking especially if you are taking:
-
-- a glucocorticoid medication (for example, hydrocortisone or cortisone acetate)
-- thyroid hormone
-- insulin and/or oral diabetes medicine
-- drugs metabolized by the liver (for example, corticosteroids, sex steroids, anticonvulsants, cyclosporine)
-- oral estrogen replacement
-
-Adult height can be influenced if you are on Norditropin NordiFlex for growth failure and using glucocorticoids or thyroid hormone at the same time.
-
-If you are treated with insulin and/or oral diabetes medicine, your insulin/oral diabetes medicine dose may need to be adjusted.
-
-What are the possible side effects of Norditropin NordiFlex?
-
-The following side effects are usually mild and temporary:
-
-- headaches
-- muscle pain
-- joint stiffness
-- high blood sugar (hyperglycemia)
-- sugar in your urine (glucosuria)
-- swollen hands and feet due to fluid retention
-- redness and itching in the area you inject
-
-If you experience any of these symptoms, discuss this with your doctor.
-
-In rare cases you may develop antibodies to growth hormone.
-
-If you have symptoms of headaches, eyesight problems, nausea and/or vomiting, these may be symptoms of raised pressure in the brain.
-Contact your doctor immediately.
-
-Be sure to tell your doctor if you have any other side effects not mentioned here.
-
-Special warnings
-
-In very rare cases children treated with growth hormone have experienced pain in the hip or knee or a limp.
-These symptoms may be caused by a slippage of the growth plate in the hip (slipped capital femoral epiphysis).
-
-Scoliosis (curvature of the spine) can occur in children who experience rapid growth.
-Because growth hormone increases growth rate, patients should be monitored for progression of scoliosis.
-
-Thyroid function tests should be performed periodically.
-
-Patients with Turner syndrome have an increased risk of ear or hearing disorders.
-They should be carefully evaluated for middle ear infection (otitis media) and other ear disorders.
-
-Skin lesions should be checked carefully for any cancerous changes.
-
-The following tumors have been reported in patients treated with growth hormone: Leukemia in children, relapse of brain tumors in children and adults.
-However, there is no evidence that growth hormone is responsible for causing these diseases.
-
-Talk to your doctor if you think you have any of these conditions.
-
-How to store Norditropin NordiFlex?
-
-Store unused Norditropin NordiFlex in a refrigerator (2ºC-8ºC/36ºF-46ºF).
-Do not freeze or expose it to heat.
-Avoid direct light.
-
-After the initial injection, Norditropin NordiFlex 15 mg/1.5 mL must be kept in a refrigerator and used within 4 weeks.
-Discard unused portion after 4 weeks.
-
-Do not use Norditropin NordiFlex which has been frozen or exposed to temperatures higher than 25ºC (77ºF).
-
-Always use a new NovoFine needle for each injection.
-Do not keep the needle screwed onto Norditropin NordiFlex when you are not using it.
-
-Always keep the pen cap closed on Norditropin NordiFlex when you are not using it.
-
-Never use Norditropin NordiFlex after the expiration date printed on the pen and on the carton.
-
-Date of issue: October 31, 2008
-
-Version: 5
-
-Norditropin® and Norditropin NordiFlex ® are registered trademarks of Novo Nordisk Health Care AG.
-
-Novo Nordisk® and NovoFine® are registered trademarks of Novo Nordisk A/S.
-
-© 2004-2008 Novo Nordisk Inc.
-
-US Patent Nos. 6,235,004; 6,004,297 and other patents pending.
-
-For assistance or further information, write to:
-
-Novo Nordisk Inc.
-
-100 College Road West
-
-Princeton, NJ 08540, USA
-
-1-888-NOVO-444
-
-www.norditropin-us.com
-
-Manufactured by:
-
-Novo Nordisk A/S
-
-DK-2880 Bagsvaerd, Denmark
 
 INSTRUCTIONS FOR USE
 
@@ -1107,248 +605,6 @@ Product Safety
 
 Princeton, NJ 08540, USA
 
-Norditropin NordiFlex®
-
-Somatropin (rDNA origin) injection
-
-30 mg/3 mL Prefilled Pen
-
-Your doctor will discuss with you the benefits and risks of Norditropin NordiFlex® (pronounced Nor-dee-tro-pin Nor-dee-flex).
-Read all of the information in this patient guide because it contains important information for you.
-If you have further questions, please ask your doctor or your pharmacist.
-
-Norditropin NordiFlex has been prescribed for you and you must not pass it on to others.
-
-What is the most important information I should know about Norditropin NordiFlex?
-
-Store Norditropin NordiFlex in a refrigerator before use.
-Do not freeze it or expose it to heat.
-
-For specific information on storage conditions please see the section How to store Norditropin NordiFlex.
-
-Do not use Norditropin NordiFlex if the solution in the cartridge does not appear clear and colorless.
-Check this by turning the pen upside down once or twice.
-
-Norditropin NordiFlex is for use by one person only.
-
-Do not use Norditropin NordiFlex if you need to make more than 4 air shots before the first injection.
-
-Your doctor may measure your height, weight and your ability to produce growth hormone before you are prescribed Norditropin NordiFlex.
-
-Norditropin NordiFlex 30 mg/3 mL cannot be used with the NordiFlex PenMate® auto-insertion accessory.
-
-What is Norditropin NordiFlex?
-
-Norditropin® is a clear and colorless solution.
-It contains a human growth hormone called somatropin (so-ma-tro-pin) made through biotechnology.
-It is identical to the growth hormone produced in the human body.
-
-Norditropin is used to treat the following:
-
-- children with growth failure caused by very low or no production of growth hormone
-- short stature in children with Noonan syndrome
-- short stature in children with Turner syndrome
-- Children with short stature born small for gestational age (SGA) with no catch-up growth by age 2-4 years
-- adults who do not make sufficient growth hormone
-
-Norditropin is injected using Norditropin NordiFlex, a multi-dose disposable 1.5 mL or 3 mL prefilled pen.
-Norditropin NordiFlex contains several doses of growth hormone solution.
-A dose is injected under the skin in the evening 6 times a week or daily.
-
-Norditropin NordiFlex is available in several delivery pens, sizes, and strengths as outlined in the table below:
-
-| Strength | Size | Concentration |
-| --- | --- | --- |
-| 5 mg/1.5 mL | 1.5 mL | 3.3 mg/mL |
-| 10 mg/1.5 mL | 1.5 mL | 6.7 mg/mL |
-| 15 mg/1.5 mL | 1.5 mL | 10 mg/mL |
-| 30 mg/3 mL | 3 mL | 10 mg/mL |
-
-Throw away Norditropin NordiFlex when the cartridge is empty.
-
-Medicines are sometimes prescribed for purposes other than those listed in a patient guide.
-You should ask your doctor about any concerns and refer to the prescriber information for additional information.
-
-What does Norditropin NordiFlex contain?
-
-The cartridge in Norditropin NordiFlex contains human growth hormone.
-
-The cartridge also contains other ingredients: Histidine, Poloxamer 188, Phenol, Mannitol and Water for Injection.
-
-Who should not use Norditropin NordiFlex?
-
-Do not use Norditropin NordiFlex if you have any of the following conditions:
-
-- child with closed epiphyses (closed bone growth plates)
-- child with Prader-Willi syndrome who is also severely obese or has significant respiratory impairment
-- allergic to phenol or any other ingredients in the medicine
-- had a kidney transplant
-- pregnant
-- breast-feeding
-- active cancer or other forms of tumor
-- acute critical illness due to certain types of heart or abdomen surgery, trauma or acute respiratory failure
-
-What should you consider if you are pregnant or breast-feeding?
-
-If you become pregnant while you are using Norditropin NordiFlex, you are recommended to stop the treatment and discuss this with your doctor.
-
-You are recommended not to use Norditropin NordiFlex while you are breast-feeding because growth hormone might pass into your milk.
-
-Be sure to tell your doctor if you:
-
-- have diabetes mellitus
-- had cancer or other forms of tumor
-- are pregnant, planning to be pregnant or breastfeeding
-- had a kidney transplant
-
-If any of the above applies to you, Norditropin NordiFlex may not be suitable.
-Your doctor will give you advice.
-
-How should I use Norditropin NordiFlex?
-
-Carefully follow the “Instructions for Use” on the other side of this patient guide.
-
-You should inject Norditropin NordiFlex under the skin in the evening just before bedtime.
-You should change the injection area so you do not harm your skin.
-
-NovoFine® disposable needles are designed to be used with Norditropin NordiFlex.
-
-How much Norditropin should you take?
-
-Your doctor will tell you how much Norditropin you should take.
-In children it depends on the body weight.
-
-General guidelines for dosages are shown below.
-
-Children with growth failure caused by very low or no growth hormone: 0.024 to 0.034 mg/kg body weight, 6-7 times a week
-
-Children with short stature and Noonan syndrome: Up to 0.066 mg/kg/day
-
-Children with short stature and Turner syndrome: Up to 0.067 mg/kg/day
-
-Children with short stature born small for gestational age (SGA) with no catch-up growth by age 2-4 years: Up to 0.067 mg/kg/day
-
-Adults: Not more than 0.004 mg/kg/day at start of therapy.
-Dosage may be increased as tolerated to not more than 0.016 mg/kg/day after approximately 6 weeks, or
-
-Alternative dose for adults:
-
-Approximately 0.2 mg/day (range, 0.15-0.30 mg/day) at start of therapy.
-Dosage can be increased gradually every 1-2 months by steps of approximately 0.1-0.2 mg/day, based on your doctor’s recommendations.
-
-If you forget to take a dose, take the next dose as usual - do not double your dose.
-
-What should you do if you inject too much growth hormone using Norditropin NordiFlex?
-
-If you inject too much growth hormone, contact your doctor.
-
-How long should you continue to take Norditropin?
-
-Discuss with your doctor how long you should take Norditropin.
-
-What should I avoid while using Norditropin NordiFlex?
-
-Be sure to tell your doctor about all of the medications you are taking especially if you are taking:
-
-- a glucocorticoid medication (for example, hydrocortisone or cortisone acetate)
-- thyroid hormone
-- insulin and/or oral diabetes medicine
-- drugs metabolized by the liver (for example, corticosteroids, sex steroids, anticonvulsants, cyclosporine)
-- oral estrogen replacement
-
-Adult height can be influenced if you are on Norditropin NordiFlex for growth failure and using glucocorticoids or thyroid hormone at the same time.
-
-If you are treated with insulin and/or oral diabetes medicine, your insulin/oral diabetes medicine dose may need to be adjusted.
-
-What are the possible side effects of Norditropin NordiFlex?
-
-The following side effects are usually mild and temporary:
-
-- headaches
-- muscle pain
-- joint stiffness
-- high blood sugar (hyperglycemia)
-- sugar in your urine (glucosuria)
-- swollen hands and feet due to fluid retention
-- redness and itching in the area you inject
-
-If you experience any of these symptoms, discuss this with your doctor.
-
-In rare cases you may develop antibodies to growth hormone.
-
-If you have symptoms of headaches, eyesight problems, nausea and/or vomiting, these may be symptoms of raised pressure in the brain.
-Contact your doctor immediately.
-
-Be sure to tell your doctor if you have any other side effects not mentioned here.
-
-Special warnings
-
-In very rare cases children treated with growth hormone have experienced pain in the hip or knee or a limp.
-These symptoms may be caused by a slippage of the growth plate in the hip (slipped capital femoral epiphysis).
-
-Scoliosis (curvature of the spine) can occur in children who experience rapid growth.
-Because growth hormone increases growth rate, patients should be monitored for progression of scoliosis.
-
-Thyroid function tests should be performed periodically.
-
-Patients with Turner syndrome have an increased risk of ear or hearing disorders.
-They should be carefully evaluated for middle ear infection (otitis media) and other ear disorders.
-
-Skin lesions should be checked carefully for any cancerous changes.
-
-The following tumors have been reported in patients treated with growth hormone: Leukemia in children, relapse of brain tumors in children and adults.
-However, there is no evidence that growth hormone is responsible for causing these diseases.
-
-Talk to your doctor if you think you have any of these conditions.
-
-How to store Norditropin NordiFlex?
-
-Store unused Norditropin NordiFlex in a refrigerator (2ºC - 8ºC/36ºF - 46ºF).
-Do not freeze or expose it to heat.
-Avoid direct light.
-
-After the initial injection, Norditropin NordiFlex 30 mg/3 mL must be kept in a refrigerator and used within 4 weeks.
-Discard unused portion after 4 weeks.
-
-Do not use Norditropin NordiFlex which has been frozen or exposed to temperatures higher than 25ºC (77ºF).
-
-Always use a new NovoFine needle for each injection.
-Do not keep the needle screwed onto Norditropin NordiFlex when you are not using it.
-
-Always keep the pen cap closed on Norditropin NordiFlex when you are not using it.
-
-Never use Norditropin NordiFlex after the expiration date printed on the pen and on the carton.
-
-Date of issue: March 10, 2009
-
-Version: 1
-
-Norditropin®, Norditropin NordiFlex ® and NordiFlex PenMate® are registered trademarks of Novo Nordisk Health Care AG.
-
-Novo Nordisk® and NovoFine® are registered trademarks of Novo Nordisk A/S.
-
-© 2004-2009 Novo Nordisk Inc.
-
-US Patent Nos. 6,235,004; 6,004,297; 5,849,704 and 6,582,404
-
-For assistance or further information, write to:
-
-Novo Nordisk Inc.
-
-100 College Road West
-
-Princeton, NJ 08540, USA
-
-1-888-NOVO-444
-
-norditropin-us.com
-
-Manufactured by:
-
-Novo Nordisk A/S
-
-DK-2880 Bagsvaerd, Denmark
-
 INSTRUCTIONS FOR USE
 
 Norditropin NordiFlex®
@@ -1484,164 +740,524 @@ Do not soak Norditropin NordiFlex in alcohol, wash, or lubricate it.
 Customer service and satisfaction are our top concerns.
 If you have any questions about Norditropin NordiFlex prefilled pens please call Novo Nordisk Inc. at 1-888-NOVO-444.
 
-Package Label - Principal Display Panel: Norditropin cartridge 5 mg/1.5 mL
+INSTRUCTIONS FOR USE
 
-NDC 0169-7768-11
+Norditropin® FlexPro®
 
-Norditropin® cartridge 5 mg/1.5 mL
+(somatropin [rDNA origin] injection)
 
-Somatropin (rDNA origin) injection
+5 mg/1.5 mL (orange) Prefilled Pen
 
-For use only with an orange color-coded NordiPen® 5 injection pen
+Read these instructions before using your Norditropin® FlexPro® pen.
 
-Each 1.5 mL contains: somatropin 5 mg
+Norditropin FlexPro contains 5 mg human growth hormone solution and delivers doses from 0.025 mg to 2 mg, in increments of 0.025 mg.
+Norditropin FlexPro is made to be used with Novo Nordisk® disposable needles.
+Needles are not included with Norditropin FlexPro.
 
-See package insert for dosage information
+Prepare your Norditropin FlexPro pen
 
-Package Label - Principal Display Panel: Norditropin cartridge 15 mg/1.5 mL
+A.
 
-NDC 0169-7770-11
+- Pull off the pen cap.
+- Check that the liquid in the pen is clear and colorless by tipping it upside down 1 or 2 times.
+  If the liquid looks unclear or cloudy, do not use the pen.
+- Wash hands well and dry them.
+- Wipe the front stopper on the needle thread with an alcohol swab.
 
-Norditropin® cartridge 15 mg/1.5 mL
+B.
 
-Somatropin (rDNA origin) injection
+- Take a new disposable needle.
+- Tear the paper tab off and screw the needle straight onto the pen.
+- Make sure the needle is on tight.
+- Never place a disposable needle on your Norditropin FlexPro pen until you are ready to give an injection.
 
-For use only with a green color-coded NordiPen® 15 injection pen
+C.
 
-Each 1.5 mL contains: somatropin 15 mg
+- Pull off the outer needle cap and inner needle cap and throw them both away.
+- If you try to put the needle caps back on, you may accidentally hurt yourself with the needle.
+- A drop of liquid may appear at the needle tip.
+  This is normal.
 
-See package insert for dosage information
+Important:
 
-Package Label - Principal Display Panel: Norditropin NordiFlex 5 mg/1.5 mL
+- Always use a new needle for each injection.
+  This will help prevent contamination.
+- Never bend or damage the needle.
 
-Norditropin NordiFlex®
+Check the growth hormone flow (airshot)
 
-Somatropin (rDNA origin) injection
+Make sure that you receive your full dose by checking the growth hormone flow (performing an airshot) before you select and inject your first dose from a new pen.
 
-5 mg/1.5 mL Prefilled Pen
+D. Turn the dose selector to select 0.025 mg.
+This is the smallest amount of medicine for a dose.
 
-1 x 1.5 mL prefilled disposable pen
+E.
 
-Each 1.5 mL contains 5 mg somatropin
+- Hold the pen with the needle pointing up.
+- Tap the top of the pen gently a few times to let any air bubbles rise to the top.
 
-CONTAINS ONE
+F.
 
-NORDITROPIN NORDIFLEX® 5 mg/1.5 mL
+- Press the dose button until the "0" in the display window lines up with the pointer and a drop of liquid appears at the needle tip.
+- If no drop appears, repeat steps D, E and F up to 6 times.
+- If no drop appears after these attempts, change the needle and repeat steps D, E and F one more time.
+- If a drop of liquid still does not appear, call (1-888-668-6444) for help.
 
-Rx ONLY
+Important:
 
-NDC 0169-7704-11
+- Be careful not to drop Norditropin FlexPro pen or knock it against a hard surface.
+  If this happens you will need to repeat the airshot.
+- Always make sure that a drop appears at the needle tip after completing your airshot.
 
-List: 770411
+Select your dose
 
-Before use MUST keep refrigerated.
-(2ºC-8ºC/36ºF-46ºF).
-Do not store with needles.
-After initial injection, EITHER keep refrigerated for 4 weeks OR store not above 25ºC (77ºF) for 3 weeks.
-Do not freeze.
-Discard unused portion.
-Avoid direct light.
-Keep out of the reach and sight of children.
-For subcutaneous administration only.
-Please read the enclosed leaflet before use.
+Use the dose selector on your Norditropin FlexPro pen to make sure you have the exact dose selected.
+You can select up to 2 mg per dose.
 
-Package Label - Principal Display Panel: Norditropin NordiFlex 10 mg/1.5 mL
+G.
 
-Norditropin NordiFlex®
+- Select or adjust the dose you need by turning the dose selector forwards or backwards until the right number of mg lines up with the pointer.
+- When dialing back, be careful not to press the dose button as liquid will come out.
+- To guide you, the dose selector clicks differently when turned forwards, backwards or past the number of mg that is left in the pen.
+- When the pen has less than 2 mg, the dose selector stops at the number of mg that is left in the pen.
 
-Somatropin (rDNA origin) injection
+How much growth hormone is left in the pen?
 
-10 mg/1.5 mL Prefilled Pen
+You can use the growth hormone scale to see how much growth hormone is left in the pen.
 
-1 x 1.5 mL prefilled disposable pen
+You can use the dose selector to see exactly how much growth hormone is left in the pen.
+If the pen contains less than 2 mg, turn the dose selector until it stops.
+The figure that lines up with the pointer shows how many mg is left in the pen.
 
-Each 1.5 mL contains 10 mg somatropin
+- You cannot set a dose higher than the number of mg left in the pen.
+- If there is not enough Norditropin left in the pen to deliver your full dose, use a new Norditropin FlexPro pen to inject the remaining amount of your dose or contact your healthcare provider.
+- Be sure to subtract the dose already received.
+  For example, if your dose is 0.6 mg and you can only set the dose selector to 0.3 mg, you should inject another 0.3 mg with a new Norditropin FlexPro pen.
 
-CONTAINS ONE
+Important:
 
-NORDITROPIN NORDIFLEX® 10 mg/1.5 mL
+- Never use the pen clicks to count the number of mg you select.
+  Only the display window and pointer will show the exact number.
+- Never use the growth hormone scale to measure how much liquid to inject.
+  Only the display window and pointer will show the exact number.
 
-Rx ONLY
+Inject your dose
 
-NDC 0169-7705-11
+Make sure that you receive your full dose by using the injection technique recommended by your healthcare provider.
+This medicine is injected under your skin (subcutaneous) only.
 
-LIST: 770511
+H.
 
-Before use MUST keep refrigerated.
-(2ºC-8ºC/36ºF-46ºF).
-Do not store with needles.
-After initial injection, EITHER keep refrigerated for 4 weeks OR store not above 25ºC (77ºF) for 3 weeks.
-Do not freeze.
-Discard unused portion.
-Avoid direct light.
-Keep out of the reach and sight of children.
-For subcutaneous administration only.
-Please read the enclosed leaflet before use.
+- Insert the needle into your skin as your healthcare provider has shown you.
+- Press and hold the dose button to inject until the "0" in the display window lines up with the pointer.
+  As you do this, you may hear or feel a firm click.
+- If you remove your finger from the dose button before the “0” is in the display window the full dose has not been delivered.
+  Leave the needle in the skin and press and hold the dose button again until the “0” lines up with the pointer.
 
-Package Label - Principal Display Panel: Norditropin NordiFlex 15 mg/1.5 mL
+If "0" does not appear in the display window, you did not receive the full dose.
+Call 1(-888-668-6444) for assistance.
 
-Norditropin NordiFlex®
+- After the “0” in the display window lines up with the pointer, leave the needle under the skin for at least 6 seconds to make sure that you get your full dose.
+  You can let go of the dose button while you wait.
+- Change the injection site using the injection procedure recommended by your healthcare provider.
 
-Somatropin (rDNA origin) injection
+Important:
 
-15 mg/1.5 mL Prefilled Pen
+- Always press the dose button to inject the dose.
+  Turning the dose selector will not inject the dose.
+- Never touch the display window when you inject, as this can block the injection.
 
-1 x 1.5 mL prefilled disposable pen
+I.
 
-Each 1.5 mL contains 15 mg somatropin
+- Remove the needle from your skin.
+  After that, you may see a drop of liquid at the needle tip.
+  This is normal and does not affect the dose you received.
 
-CONTAINS ONE
+- After the injection, remove the needle right away and put the pen cap back on.
+  If the needle is not removed, some liquid may come out of the Norditropin FlexPro.
+- Unscrew the needle and throw away the needle and any empty Norditropin FlexPro pen as directed by your healthcare provider.
+  A special “sharps” container (such as a red biohazard container), a hard plastic container (such as an empty detergent bottle), or a metal container (such as an empty coffee can) should be used.
+  The container should be sealed and disposed of properly.
+- Caregivers should be most careful when handling used needles to avoid hurting themselves.
 
-NORDITROPIN NORDIFLEX® 15 mg/1.5 mL
+Care for your Norditropin FlexPro pen
 
-Rx ONLY
+You must take care of your Norditropin FlexPro pen:
 
-NDC 0169-7708-11
+- Do not drop your pen or knock it against hard surfaces.
+  If you do drop it or think that something is wrong with it, always screw on a new disposable needle and check the growth hormone flow (airshot) before you inject.
+- Do not try to refill your disposable pen – it is prefilled.
+- Do not try to repair your pen or pull it apart.
+- Do not expose your pen to dust, dirt or any kind of liquid.
+- Do not try to wash, soak or lubricate your pen.
+  You may clean the Norditropin FlexPro pen with a mild detergent on a moistened cloth.
+  See section “How do I store Norditropin FlexPro?” above for information about how to store your pen.
+- Always keep your pen and needles out of reach of others, especially children.
+- Never share your needles and pen with anyone.
 
-LIST: 770811
+Date of Issue: March 2, 2010
 
-Store non-injected/unused pen refrigerated (2ºC-8ºC/36ºF-46ºF).
-Do not store with needles.
-After initial injection, keep pen refrigerated.
-Do not freeze.
-Use within 4 weeks.
-Discard unused portion.
-Avoid direct light.
-Keep out of the reach and sight of children.
-For subcutaneous administration only.
-Please read the enclosed leaflet before use.
+Version: 1
 
-Package Label - Principal Display Panel: Norditropin NordiFlex 30 mg/3 mL
+US Patent Nos. 6,235,004; 6,004,297; 6,582,404; 6,716,198; 6,899,699; 5,849,704; 5,691,169; 5,618,697 and other patents pending.
 
-Norditropin NordiFlex®
+Norditropin®, FlexPro®, Norditropin NordiFlex® and NordiFlex PenMate® are registered trademarks of Novo Nordisk Health Care AG.
 
-Somatropin (rDNA origin) injection
+Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
 
-30 mg/3 mL Prefilled Pen
+© 2004-2010 Novo Nordisk Health Care AG
 
-1 x 3 mL prefilled disposable pen
+Manufactured by:
 
-Each 3 mL contains 30 mg somatropin
+Novo Nordisk A/S
 
-CONTAINS ONE
+DK-2880 Bagsvaerd, Denmark
 
-NORDITROPIN NORDIFLEX® 30 mg/3 mL
+INSTRUCTIONS FOR USE
 
-Rx ONLY
+Norditropin® FlexPro®
 
-NDC 0169-7703-11
+(somatropin [rDNA origin] injection)
 
-List: 770311
+10 mg/1.5 mL (blue) Prefilled Pen
 
-Store non-injected/unused pen refrigerated (2ºC-8ºC/36ºF-46ºF).
-Do not store with needles.
-After initial injection, keep pen refrigerated.
-Do not freeze.
-Use within 4 weeks.
-Discard unused portion.
-Avoid direct light.
-Keep out of the reach and sight of children.
-For subcutaneous administration only.
-Please read the enclosed leaflet before use.
+Read these instructions before using your Norditropin® FlexPro® pen.
 
-US Patent Nos. 6,235,004; 6,004,297; 5,849,704; 6,582,404 and other patents pending.
+Norditropin FlexPro contains 10 mg human growth hormone solution and delivers doses from 0.05 mg to 4 mg, in increments of 0.05 mg.
+Norditropin FlexPro is made to be used with Novo Nordisk® disposable needles.
+Needles are not included with Norditropin FlexPro.
+
+Prepare your Norditropin FlexPro pen
+
+A.
+
+- Pull off the pen cap.
+- Check that the liquid in the pen is clear and colorless by tipping it upside down 1 or 2 times.
+  If the liquid looks unclear or cloudy, do not use the pen.
+- Wash hands well and dry them.
+- Wipe the front stopper on the needle thread with an alcohol swab.
+
+B.
+
+- Take a new disposable needle.
+- Tear the paper tab off and screw the needle straight onto the pen.
+- Make sure the needle is on tight.
+- Never place a disposable needle on your Norditropin FlexPro pen until you are ready to give an injection.
+
+C.
+
+- Pull off the outer needle cap and inner needle cap and throw them both away.
+- If you try to put the needle caps back on, you may accidentally hurt yourself with the needle.
+- A drop of liquid may appear at the needle tip.
+  This is normal.
+
+Important:
+
+- Always use a new needle for each injection.
+  This will help prevent contamination.
+- Never bend or damage the needle.
+
+Check the growth hormone flow (airshot)
+
+Make sure that you receive your full dose by checking the growth hormone flow (performing an airshot) before you select and inject your first dose from a new pen.
+
+D. Turn the dose selector to select 0.05 mg.
+This is the smallest amount of medicine for a dose.
+
+E.
+
+- Hold the pen with the needle pointing up.
+- Tap the top of the pen gently a few times to let any air bubbles rise to the top.
+
+F.
+
+- Press the dose button until the “0” in the display window lines up with the pointer and a drop of liquid appears at the needle tip.
+- If no drop appears, repeat steps D, E, and F up to 6 times.
+- If no drop appears after these attempts, change the needle and repeat steps D, E, and F one more time.
+- If a drop of liquid still does not appear, call (1-888-668-6444) for help.
+
+Important:
+
+- Be careful not to drop Norditropin FlexPro pen or knock it against a hard surface.
+  If this happens you will need to repeat the airshot.
+- Always make sure that a drop appears at the needle tip after completing your airshot.
+
+Select your dose
+
+Use the dose selector on your Norditropin FlexPro pen to make sure you have the exact dose selected.
+You can select up to 4 mg per dose.
+
+G.
+
+- Select or adjust the dose you need by turning the dose selector forwards or backwards until the right number of mg lines up with the pointer.
+- When dialing back, be careful not to press the dose button as liquid will come out.
+- To guide you, the dose selector clicks differently when turned forwards, backwards or past the number of mg that is left in the pen.
+- When the pen has less than 4 mg, the dose selector stops at the number of mg that is left in the pen.
+
+How much growth hormone is left in the pen?
+
+You can use the growth hormone scale to see how much growth hormone is left in the pen.
+
+You can use the dose selector to see exactly how much growth hormone is left in the pen.
+If the pen contains less than 4 mg, turn the dose selector until it stops.
+
+The figure that lines up with the pointer shows how many mg is left in the pen.
+
+- You cannot set a dose higher than the number of mg left in the pen.
+- If there is not enough Norditropin left in the pen to deliver your full dose, use a new Norditropin FlexPro pen to inject the remaining amount of your dose or contact your healthcare provider.
+- Be sure to subtract the dose already received.
+  For example, if your dose is 0.6 mg and you can only set the dose selector to 0.3 mg, you should inject another 0.3 mg with a new Norditropin FlexPro pen.
+
+Important:
+
+- Never use the pen clicks to count the number of mg you select.
+  Only the display window and pointer will show the exact number.
+- Never use the growth hormone scale to measure how much liquid to inject.
+  Only the display window and pointer will show the exact number.
+
+Inject your dose
+
+Make sure that you receive your full dose by using the injection technique recommended by your healthcare provider.
+This medicine is injected under your skin (subcutaneous) only.
+
+H.
+
+- Insert the needle into your skin as your healthcare provider has shown you.
+- Press and hold the dose button to inject until the “0” in the display window lines up with the pointer.
+  As you do this, you may hear or feel a firm click.
+- If you remove your finger from the dose button before the “0” is in the display window the full dose has not been delivered.
+  Leave the needle in the skin and press and hold the dose button again until the “0” lines up with the pointer.
+
+If “0” does not appear in the display window, you did not receive the full dose.
+Call (1-888-668-6444) for assistance.
+
+- After the “0” in the display window lines up with the pointer, leave the needle under the skin for at least 6 seconds to make sure that you get your full dose.
+  You can let go of the dose button while you wait.
+- Change the injection site using the injection procedure recommended by your healthcare provider.
+
+Important:
+
+- Always press the dose button to inject the dose.
+  Turning the dose selector will not inject the dose.
+- Never touch the display window when you inject, as this can block the injection.
+
+I.
+
+- Remove the needle from your skin.
+  After that, you may see a drop of liquid at the needle tip.
+  This is normal and does not affect the dose you received.
+
+- After the injection, remove the needle right away and put the pen cap back on.
+  If the needle is not removed, some liquid may come out of the Norditropin FlexPro.
+- Unscrew the needle and throw away the needle and any empty Norditropin FlexPro pen as directed by your healthcare provider.
+  A special “sharps” container (such as a red biohazard container), a hard plastic container (such as an empty detergent bottle), or a metal container (such as an empty coffee can) should be used.
+  The container should be sealed and disposed of properly.
+- Caregivers should be most careful when handling used needles to avoid hurting themselves.
+
+Care for your Norditropin FlexPro pen
+
+You must take care of your Norditropin FlexPro pen:
+
+- Do not drop your pen or knock it against hard surfaces.
+  If you do drop it or think that something is wrong with it, always screw on a new disposable needle and check the growth hormone flow (airshot) before you inject.
+- Do not try to refill your disposable pen – it is prefilled.
+- Do not try to repair your pen or pull it apart.
+- Do not expose your pen to dust, dirt or any kind of liquid.
+- Do not try to wash, soak or lubricate your pen.
+  You may clean the Norditropin FlexPro pen with a mild detergent on a moistened cloth.
+  See section “How do I store Norditropin FlexPro?” above for information about how to store your pen.
+- Always keep your pen and needles out of reach of others, especially children.
+- Never share your needles and pen with anyone.
+
+Date of Issue: March 2, 2010
+
+Version: 1
+
+US Patent Nos. 6,235,004; 6,004,297; 6,582,404; 6,716,198; 6,899,699; 5,849,704; 5,691,169; 5,618,697 and other patents pending.
+
+Norditropin®, FlexPro®, Norditropin NordiFlex® and NordiFlex PenMate® are registered trademarks of Novo Nordisk Health Care AG.
+
+Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
+
+© 2004-2010 Novo Nordisk Health Care AG
+
+Manufactured by:
+
+Novo Nordisk A/S
+
+DK-2880 Bagsvaerd, Denmark
+
+INSTRUCTIONS FOR USE
+
+Norditropin® FlexPro®
+
+(somatropin [rDNA origin] injection)
+
+15 mg/1.5 mL (green) Prefilled Pen
+
+Read these instructions before using your Norditropin® FlexPro® pen.
+
+Norditropin FlexPro contains 15 mg human growth hormone solution and delivers doses from 0.1 mg to 8 mg, in increments of 0.1 mg.
+Norditropin FlexPro is made to be used with Novo Nordisk® disposable needles.
+Needles are not included with Norditropin FlexPro.
+
+Prepare your Norditropin FlexPro pen
+
+A.
+
+- Pull off the pen cap.
+- Check that the liquid in the pen is clear and colorless by tipping it upside down 1 or 2 times.
+  If the liquid looks unclear or cloudy, do not use the pen.
+- Wash hands well and dry them.
+- Wipe the front stopper on the needle thread with an alcohol swab.
+
+B.
+
+- Take a new disposable needle.
+- Tear the paper tab off and screw the needle straight onto the pen.
+- Make sure the needle is on tight.
+- Never place a disposable needle on your Norditropin FlexPro pen until you are ready to give an injection.
+
+C.
+
+- Pull off the outer needle cap and inner needle cap and throw them both away.
+- If you try to put the needle caps back on, you may accidentally hurt yourself with the needle.
+- A drop of liquid may appear at the needle tip.
+  This is normal.
+
+Important:
+
+- Always use a new needle for each injection.
+  This will help prevent contamination.
+- Never bend or damage the needle.
+
+Check the growth hormone flow (airshot)
+
+Make sure that you receive your full dose by checking the growth hormone flow (performing an airshot) before you select and inject your first dose from a new pen.
+
+D. Turn the dose selector to select 0.1 mg.
+This is the smallest amount of medicine for a dose.
+
+E.
+
+- Hold the pen with the needle pointing up.
+- Tap the top of the pen gently a few times to let any air bubbles rise to the top.
+
+F.
+
+- Press the dose button until the “0” in the display window lines up with the pointer and a drop of liquid appears at the needle tip.
+- If no drop appears, repeat steps D, E and F up to 6 times.
+- If no drop appears after these attempts, change the needle and repeat steps D, E and F one more time.
+- If a drop of liquid still does not appear, call (1-888-668-6444) for help.
+
+Important:
+
+- Be careful not to drop Norditropin FlexPro pen or knock it against a hard surface.
+  If this happens you will need to repeat the airshot.
+- Always make sure that a drop appears at the needle tip after completing your airshot.
+
+Select your dose
+
+Use the dose selector on your Norditropin FlexPro pen to make sure you have the exact dose selected.
+You can select up to 8 mg per dose.
+
+G.
+
+- Select or adjust the dose you need by turning the dose selector forwards or backwards until the right number of mg lines up with the pointer.
+- When dialing back, be careful not to press the dose button as liquid will come out.
+- To guide you, the dose selector clicks differently when turned forwards, backwards or past the number of mg that is left in the pen.
+- When the pen has less than 8 mg, the dose selector stops at the number of mg that is left in the pen.
+
+How much growth hormone is left in the pen?
+
+You can use the growth hormone scale to see how much growth hormone is left in the pen.
+
+You can use the dose selector to see exactly how much growth hormone is left in the pen.
+If the pen contains less than 8 mg, turn the dose selector until it stops.
+
+The figure that lines up with the pointer shows how many mg is left in the pen.
+
+- You cannot set a dose higher than the number of mg left in the pen.
+- If there is not enough Norditropin left in the pen to deliver your full dose, use a new Norditropin FlexPro pen to inject the remaining amount of your dose or contact your healthcare provider.
+- Be sure to subtract the dose already received.
+  For example, if your dose is 0.6 mg and you can only set the dose selector to 0.3 mg, you should inject another 0.3 mg with a new Norditropin FlexPro pen.
+
+Important:
+
+- Never use the pen clicks to count the number of mg you select.
+  Only the display window and pointer will show the exact number.
+- Never use the growth hormone scale to measure how much liquid to inject.
+  Only the display window and pointer will show the exact number.
+
+Inject your dose
+
+Make sure that you receive your full dose by using the injection technique recommended by your healthcare provider.
+This medicine is injected under your skin (subcutaneous) only.
+
+H.
+
+- Insert the needle into your skin as your healthcare provider has shown you.
+- Press and hold the dose button to inject until the “0” in the display window lines up with the pointer.
+  As you do this, you may hear or feel a firm click.
+- If you remove your finger from the dose button before the “0” is in the display window the full dose has not been delivered.
+  Leave the needle in the skin and press and hold the dose button again until the “0” lines up with the pointer.
+
+If “0” does not appear in the display window, you did not receive the full dose.
+Call (1-888-668-6444) for assistance.
+
+- After the “0” in the display window lines up with the pointer, leave the needle under the skin for at least 6 seconds to make sure that you get your full dose.
+  You can let go of the dose button while you wait.
+
+- Change the injection site using the injection procedure recommended by your healthcare provider.
+
+Important:
+
+- Always press the dose button to inject the dose.
+  Turning the dose selector will not inject the dose.
+- Never touch the display window when you inject, as this can block the injection.
+
+I.
+
+- Remove the needle from your skin.
+  After that, you may see a drop of liquid at the needle tip.
+  This is normal and does not affect the dose you received.
+
+- After the injection, remove the needle right away and put the pen cap back on.
+  If the needle is not removed, some liquid may come out of the Norditropin FlexPro.
+- Unscrew the needle and throw away the needle and any empty Norditropin FlexPro pen as directed by your healthcare provider.
+  A special “sharps” container (such as a red biohazard container), a hard plastic container (such as an empty detergent bottle), or a metal container (such as an empty coffee can) should be used.
+  The container should be sealed and disposed of properly.
+- Caregivers should be most careful when handling used needles to avoid hurting themselves.
+
+Care for your Norditropin FlexPro pen
+
+You must take care of your Norditropin FlexPro pen:
+
+- Do not drop your pen or knock it against hard surfaces.
+  If you do drop it or think that something is wrong with it, always screw on a new disposable needle and check the growth hormone flow (airshot) before you inject.
+- Do not try to refill your disposable pen – it is prefilled.
+- Do not try to repair your pen or pull it apart.
+- Do not expose your pen to dust, dirt or any kind of liquid.
+- Do not try to wash, soak or lubricate your pen.
+  You may clean the Norditropin FlexPro pen with a mild detergent on a moistened cloth.
+  See section “How do I store Norditropin FlexPro?” above for information about how to store your pen.
+- Always keep your pen and needles out of reach of others, especially children.
+- Never share your needles and pen with anyone.
+
+Date of Issue: March 2, 2010
+
+Version: 1
+
+US Patent Nos. 6,235,004; 6,004,297; 6,582,404; 6,716,198; 6,899,699; 5,849,704; 5,691,169; 5,618,697 and other patents pending.
+
+Norditropin®, FlexPro®, Norditropin NordiFlex® and NordiFlex PenMate® are registered trademarks of Novo Nordisk Health Care AG.
+
+Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
+
+© 2004-2010 Novo Nordisk Health Care AG
+
+Manufactured by:
+
+Novo Nordisk A/S
+
+DK-2880 Bagsvaerd, Denmark

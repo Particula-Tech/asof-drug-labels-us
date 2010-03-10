@@ -70,7 +70,7 @@ Height SDS changed significantly from -3.5 at baseline to -2.4 at final height (
 
 ## 14.3 Short Stature in Children Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2-4 Years
 
-A multi-center, randomized, double-blind, two arm study to final height (Study 1) and a 2-year, multi-center, randomized, double-blind, parallel-group study (Study 2) were conducted to assess the efficacy and safety of Norditropin in children with short stature born SGA with no catch-up growth.
+A multi-center, randomized, double-blind, two-arm study to final height (Study 1) and a 2-year, multi-center, randomized, double-blind, parallel-group study (Study 2) were conducted to assess the efficacy and safety of Norditropin in children with short stature born SGA with no catch-up growth.
 Changes in height and height velocity were compared to a national reference population in both studies.
 
 Study 1
@@ -102,7 +102,7 @@ Table 4 - Study 1: Results for Final Height SDS and Change from Baseline to Fina
 | Baseline Height SDS | -3.2 + 0.7 (26) | -3.2 + 0.7 (27) | -3.2 + 0.7 (53) |
 | Adjusted least-squares mean + standard error (N) and [95% confidence intervals] |  |  |  |
 | Height SDS: Change from Baseline at Year 2Adjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, height SDS at baseline, and pubertal status. | 1.4 + 0.1 (26)[1.1, 1.6] | 1.8 + 0.1 (26)[1.5, 2.0] | Treatment Diff = 0.4[0.2, 0.7]p-value = 0.002 |
-| Height SDS: Change from Baseline at Final HeightAdjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, bone age at baseline, height SDS at baseline, duration of treatment, peak GH after stimulation and baseline IGF-1 | 1.4 + 0.2 (19)[0.9, 1.8] | 1.8 + 0.2 (19)[1.4, 2.2] | Treatment Diff = 0.5[0.0, 0.9]p-value = 0.045 |
+| Height SDS: Change from Baseline at Final HeightAdjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, bone age at baseline, height SDS at baseline, duration of treatment, peak GH after stimulation and baseline IGF-1. | 1.4 + 0.2 (19)[0.9, 1.8] | 1.8 + 0.2 (19)[1.4, 2.2] | Treatment Diff = 0.5[0.0, 0.9]p-value = 0.045 |
 | Final Height SDS | -1.8 + 0.2 (19)[-2.2, -1.4] | -1.3 + 0.2 (19)[-1.7, -0.9] |  |
 | Final Height SDS > -2 | 13/19 (68%) | 11/19 (58%) | 24/38 (63%) |
 | SDS: Standard deviation score. |  |  |  |
@@ -125,7 +125,7 @@ Table 5 - Study 2: Results for Change from Baseline in Height SDS At Year 1 and 
 | Height SDS: Baseline | -2.9 + 0.5 (15) | -3.0 + 0.6 (35) | -2.9 + 0.7 (34) | -2.9 + 0.6 (84) |
 | Height SDS: Year 1 | -2.8 + 0.5 (15) | -2.4 + 0.6 (33) | -2.0 + 0.8 (34) | -2.3 + 0.7 (82) |
 | Height SDS: Year 2 | NA | -2.2 + 0.7 (33) | -1.4 + 0.7 (32) | -1.8 + 0.8 (65) |
-| Adjustment least-squares mean + standard error (N) and [95% confidence intervals] |  |  |  |  |
+| Adjusted least-squares mean + standard error (N) and [95% confidence intervals] |  |  |  |  |
 | Height SDS: Change from Baseline at Year 1Adjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, and height SDS at baseline. All children remained prepubertal during the study. | 0.1 + 0.1 (15)[-0.1, 0.2] | 0.6 + 0.1 (33)[0.5, 0.7] | 0.9 + 0.1 (34)[0.8, 1.0] |  |
 | 0.033 vs. No Treatment: Treatment Diff = 0.5, [0.3, 0.7], p < 0.00010.067 vs. No Treatment: Treatment Diff = 0.8, [0.6, 1.0], p < 0.00010.067 vs. 0.033: Treatment Diff = 0.3, [0.2, 0.5], p-value < 0.0001 |  |  |  |  |
 | Height SDS: Change from Baseline at Year 2 | NA | 0.8 + 0.1 (33)[0.7, 0.9] | 1.4 + 0.1 (32)[1.3, 1.6] |  |
@@ -139,7 +139,7 @@ Two representative studies, one in adult onset (AO) GHD patients and a second in
 
 Study 1
 
-A single center, randomized, double-blind, placebo-controlled, parallel-group, six month clinical trial was conducted in 31 adults with AO GHD comparing the effects of Norditropin® [somatropin (rDNA origin) for injection] and placebo on body composition.
+A single center, randomized, double-blind, placebo-controlled, parallel-group, six month clinical trial was conducted in 31 adults with AO GHD comparing the effects of Norditropin [somatropin (rDNA origin) for injection] and placebo on body composition.
 Patients in the active treatment arm were treated with Norditropin 0.017 mg/kg/day (not to exceed 1.33 mg/day).
 The changes from baseline in lean body mass (LBM) and percent total body fat (TBF) were measured by total body potassium (TBP) after 6 months.
 
