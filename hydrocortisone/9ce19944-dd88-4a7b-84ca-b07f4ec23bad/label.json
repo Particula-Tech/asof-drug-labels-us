@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA008697"
+  ],
   "inn": "hydrocortisone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0009-0031-01",
     "0009-0044-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrocortisone",
+      "name": "CORTEF"
+    }
+  ],
   "setid": "9ce19944-dd88-4a7b-84ca-b07f4ec23bad",
   "source": "dailymed"
 }
