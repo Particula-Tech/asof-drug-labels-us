@@ -75,7 +75,7 @@ The 182 patients with bacteremia included 121 with complicated and 61 with uncom
 
 Complicated bacteremia was defined as S. aureus isolated from blood cultures obtained on at least 2 different calendar days, and/or metastatic foci of infection (deep tissue involvement), and classification of the patient as not having endocarditis according to the modified Duke criteria.
 Uncomplicated bacteremia was defined as S. aureus isolated from blood culture(s) obtained on a single calendar day, no metastatic foci of infection, no infection of prosthetic material, and classification of the patient as not having endocarditis according to the modified Duke criteria.
-The definition of right-sided endocarditis (RIE) used in the clinical trial was Definite or Possible Endocarditis according to the modified Duke criteria and no echocardiographic evidence of predisposing pathology or active involvement of either the mitral or aortic valve.
+The definition of right-sided infective endocarditis (RIE) used in the clinical trial was Definite or Possible Endocarditis according to the modified Duke criteria and no echocardiographic evidence of predisposing pathology or active involvement of either the mitral or aortic valve.
 Complicated RIE included patients who were not intravenous drug users, had a positive blood culture for MRSA, serum creatinine ≥2.5 mg/dL, or evidence of extrapulmonary sites of infection.
 Patients who were intravenous drug users, had a positive blood culture for MSSA, serum creatinine <2.5 mg/dL, and were without evidence of extrapulmonary sites of infection were considered to have uncomplicated RIE.
 

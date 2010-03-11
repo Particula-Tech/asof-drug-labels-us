@@ -13,7 +13,7 @@ Mean (SD) CUBICIN Pharmacokinetic Parameters in Healthy Volunteers at Steady-Sta
 
 | (mg/kg) | (µg•h/mL) | (h) | (L/kg) | (mL/h/kg) | (µg/mL) |
 | --- | --- | --- | --- | --- | --- |
-|  | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t½, terminal elimination half-life; Vss, volume of distribution at steady-state; CLT, plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
+|  | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, terminal elimination half-life; Vss, volume of distribution at steady-state; CLT, plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
 | DoseDoses of CUBICIN in excess of 6 mg/kg have not been approved. | AUC0-24 | t1/2 | Vss | CLT | Cmax |
 | 4 (N=6) | 494 (75) | 8.1 (1.0) | 0.096 (0.009) | 8.3 (1.3) | 57.8 (3.0) |
 | 6 (N=6) | 632 (78) | 7.9 (1.0) | 0.101 (0.007) | 9.1 (1.5) | 93.9 (6.0) |
@@ -59,7 +59,7 @@ Population derived pharmacokinetic parameters were determined for infected patie
 Plasma clearance (CLT), elimination half-life (t1/2), and volume of distribution (Vss) were similar in patients with complicated skin and skin structure infections compared with those with S. aureus bacteremia.
 Following the administration of CUBICIN 4 mg/kg q24h, the mean CLT was 9%, 22%, and 46% lower among subjects and patients with mild (CLCR 50–80 mL/min), moderate (CLCR 30–<50 mL/min), and severe (CLCR <30 mL/min) renal impairment, respectively, than in those with normal renal function (CLCR >80 mL/min).
 The mean steady-state systemic exposure (AUC), t1/2, and Vss increased with decreasing renal function, although the mean AUC was not markedly different for patients with CLCR 30–80 mL/min compared with those with normal renal function.
-The mean AUC for patients with CLCR <30 mL/min and for patients on hemodialysis (dosed post-dialysis) was approximately 2 and 3 times higher, respectively, than for patients with normal renal function.
+The mean AUC for patients with CLCR <30 mL/min and for patients on dialysis (CAPD and hemodialysis dosed post-dialysis) was approximately 2 and 3 times higher, respectively, than for patients with normal renal function.
 Following the administration of CUBICIN 4 mg/kg q24h, the mean Cmax ranged from 60 to 70 µg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 µg/mL.
 The mean Cmax ranged from 80 to 114 µg/mL in patients with mild-to-moderate renal impairment and was similar to that of patients with normal renal function after the administration of CUBICIN 6 mg/kg q24h.
 In patients with renal insufficiency, both renal function and creatine phosphokinase (CPK) should be monitored more frequently.
@@ -73,7 +73,7 @@ Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of
 | Renal Function | t1/2Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. | Vss | CLT | AUC0-∞ | AUCssParameters obtained at steady-state from patients with S. aureus bacteremia. | Cmin,ss |
 | (h) | (L/kg) | (mL/h/kg) | (µg•h/mL) | (µg•h/mL) | (µg•h/mL) |  |
 | Normal | 9.39 (4.74) | 0.13 (0.05) | 10.9 (4.0) | 417 (155) | 545 (296) | 6.9 (3.5) |
-| (CLCR >80 mL/min) | N=165 | N=165 | N=165 | N=165 | N=62 | N= 61 |
+| (CLCR >80 mL/min) | N=165 | N=165 | N=165 | N=165 | N=62 | N=61 |
 | Mild Renal Impairment | 10.75 (8.36) | 0.12 (0.05) | 9.9 (4.0) | 466 (177) | 637 (215) | 12.4 (5.6) |
 | (CLCR 50−80 mL/min) | N=64 | N=64 | N=64 | N=64 | N=29 | N=29 |
 | Moderate Renal Impairment | 14.70 (10.50) | 0.15 (0.06) | 8.5 (3.4) | 560 (258) | 868 (349) | 19.0 (9.0) |
