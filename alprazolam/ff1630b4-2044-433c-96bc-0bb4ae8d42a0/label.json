@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078088"
+  ],
+  "inn": "alprazolam",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "49884-110-74",
+    "49884-111-74",
+    "49884-213-74",
+    "49884-214-74"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "alprazolam",
+      "name": "Alprazolam"
+    }
+  ],
+  "setid": "ff1630b4-2044-433c-96bc-0bb4ae8d42a0",
+  "source": "dailymed"
+}
