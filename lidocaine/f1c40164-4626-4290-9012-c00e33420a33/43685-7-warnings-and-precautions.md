@@ -19,57 +19,37 @@ With recommended dosing of LIDODERM, the average peak blood concentration is abo
 
 ## General
 
-### Hepatic Disease
+Hepatic Disease: Patients with severe hepatic disease are at greater risk of developing toxic blood concentrations of lidocaine, because of their inability to metabolize lidocaine normally.
 
-Patients with severe hepatic disease are at greater risk of developing toxic blood concentrations of lidocaine, because of their inability to metabolize lidocaine normally.
-
-### Allergic Reactions
-
-Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross sensitivity to lidocaine.
+Allergic Reactions: Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross sensitivity to lidocaine.
 However, LIDODERM should be used with caution in patients with a history of drug sensitivities, especially if the etiologic agent is uncertain.
 
-### Non-intact Skin
-
-Application to broken or inflamed skin, although not tested, may result in higher blood concentrations of lidocaine from increased absorption.
+Non-intact Skin: Application to broken or inflamed skin, although not tested, may result in higher blood concentrations of lidocaine from increased absorption.
 LIDODERM is only recommended for use on intact skin.
 
-### Eye Exposure
+External Heat Sources: Placement of external heat sources, such as heating pads or electric blankets, over LIDODERM patches is not recommended as this has not been evaluated and may increase plasma lidocaine levels.
 
-The contact of LIDODERM with eyes, although not studied, should be avoided based on the findings of severe eye irritation with the use of similar products in animals.
+Eye Exposure: The contact of LIDODERM with eyes, although not studied, should be avoided based on the findings of severe eye irritation with the use of similar products in animals.
 If eye contact occurs, immediately wash out the eye with water or saline and protect the eye until sensation returns.
 
 ## Drug Interactions
 
-### Antiarrhythmic Drugs
+Antiarrhythmic Drugs: LIDODERM should be used with caution in patients receiving Class I antiarrhythmic drugs (such as tocainide and mexiletine) since the toxic effects are additive and potentially synergistic.
 
-LIDODERM should be used with caution in patients receiving Class I antiarrhythmic drugs (such as tocainide and mexiletine) since the toxic effects are additive and potentially synergistic.
-
-### Local Anesthetics
-
-When LIDODERM is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all formulations must be considered.
+Local Anesthetics: When LIDODERM is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all formulations must be considered.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
-
-A minor metabolite, 2, 6-xylidine, has been found to be carcinogenic in rats.
+Carcinogenesis: A minor metabolite, 2,6-xylidine, has been found to be carcinogenic in rats.
 The blood concentration of this metabolite is negligible following application of LIDODERM.
 
-### Mutagenesis
+Mutagenesis: Lidocaine HCl is not mutagenic in Salmonella/mammalian microsome test nor clastogenic in chromosome aberration assay with human lymphocytes and mouse micronucleus test.
 
-Lidocaine HCl is not mutagenic in Salmonella/mammalian microsome test nor clastogenic in chromosome aberration assay with human lymphocytes and mouse micronucleus test.
-
-### Impairment of Fertility
-
-The effect of LIDODERM on fertility has not been studied.
+Impairment of Fertility: The effect of LIDODERM on fertility has not been studied.
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
-
-LIDODERM (lidocaine patch 5%) has not been studied in pregnancy.
+Teratogenic Effects: Pregnancy Category B. LIDODERM (lidocaine patch 5%) has not been studied in pregnancy.
 Reproduction studies with lidocaine have been performed in rats at doses up to 30 mg/kg subcutaneously and have revealed no evidence of harm to the fetus due to lidocaine.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, LIDODERM should be used during pregnancy only if clearly needed.
@@ -83,7 +63,7 @@ Should LIDODERM be used concomitantly with other products containing lidocaine, 
 ## Nursing Mothers
 
 LIDODERM has not been studied in nursing mothers.
-Lidocaine is excreted in human milk, and the milk: plasma ratio of lidocaine is 0.4.
+Lidocaine is excreted in human milk, and the milk:plasma ratio of lidocaine is 0.4.
 Caution should be exercised when LIDODERM is administered to a nursing woman.
 
 ## Pediatric Use

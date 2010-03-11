@@ -21,6 +21,6 @@ Asthenia, confusion, disorientation, dizziness, headache, hyperesthesia, hypoest
 ## Systemic (Dose-Related) Reactions
 
 Systemic adverse reactions following appropriate use of LIDODERM are unlikely, due to the small dose absorbed (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
-Systemic adverse effects of lidocaine are similar in nature to those observed with other amide local anesthetic agents, including CNS excitation and/or depression (light-headedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest).
+Systemic adverse effects of lidocaine are similar in nature to those observed with other amide local anesthetic agents, including CNS excitation and/or depression (light headedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest).
 Excitatory CNS reactions may be brief or not occur at all, in which case the first manifestation may be drowsiness merging into unconsciousness.
 Cardiovascular manifestations may include bradycardia, hypotension and cardiovascular collapse leading to arrest.
