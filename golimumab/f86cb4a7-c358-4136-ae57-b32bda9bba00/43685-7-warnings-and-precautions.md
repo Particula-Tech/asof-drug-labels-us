@@ -69,11 +69,20 @@ Therefore, prescribers should exercise caution when considering resumption of TN
 
 ## 5.2 Malignancies
 
+Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blocking agents (initiation of therapy ≤ 18 years of age), of which SIMPONI is a member.
+Approximately half the cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma.
+The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression, and malignancies that are not usually observed in children and adolescents.
+The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF blocker therapy.
+Most of the patients were receiving concomitant immunosuppressants.
+These cases were reported post-marketing and are derived from a variety of sources, including registries and spontaneous postmarketing reports.
+
 The risks and benefits of TNF-blocker treatment including SIMPONI should be considered prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing a TNF-blocker in patients who develop a malignancy.
 
 In the controlled portions of clinical trials of TNF-blockers including SIMPONI, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with patients in the control groups.
 During the controlled portions of the Phase 2 trials in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of lymphoma per 100 patient-years of follow-up was 0.21 (95% CI: 0.03, 0.77) in the combined SIMPONI group compared with an incidence of 0 (95% CI: 0., 0.96) in the placebo group.
 In the controlled and uncontrolled portions of these clinical trials in 2347 SIMPONI-treated patients with a median follow-up of 1.4 years, the incidence of lymphoma was 3.8-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Patients with RA and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
+Cases of acute and chronic leukemia have been reported with postmarketing TNF-blocker use in rheumatoid arthritis and other indications.
+Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
 During the controlled portions of the Phase 2 trial in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of malignancies other than lymphoma per 100 patient-years of follow-up was not elevated in the combined SIMPONI group compared with the placebo group.
 In the controlled and uncontrolled portions of these trials, the incidence of malignancies, other than lymphoma, in SIMPONI-treated patients was similar to that expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1

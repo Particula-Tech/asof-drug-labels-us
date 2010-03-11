@@ -3,13 +3,13 @@
 ## 12.1 Mechanism of Action
 
 Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα.
-This interaction prevents the binding of TNFa to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein).
-There was no evidence of the golimumab antibody binding to other TNFα superfamily ligands; in particular, the golimumab antibody did not bind or neutralize human lymphotoxin.
-Golimumab did not lyse human monocytes expressing transmembrane TNFα in the presence of complement or effector cells.
+This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein).
+There was no evidence of the golimumab antibody binding to other TNF superfamily ligands; in particular, the golimumab antibody did not bind or neutralize human lymphotoxin.
+Golimumab did not lyse human monocytes expressing transmembrane TNF in the presence of complement or effector cells.
 
 Elevated TNFα levels in the blood, synovium, and joints have been implicated in the pathophysiology of several chronic inflammatory diseases such as rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis.
 TNFα is an important mediator of the articular inflammation that is characteristic of these diseases.
-Golimumab modulated the in vitro biological effects mediated by TNFα in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
+Golimumab modulated the in vitro biological effects mediated by TNF in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
 
 ## 12.2 Pharmacodynamics
 

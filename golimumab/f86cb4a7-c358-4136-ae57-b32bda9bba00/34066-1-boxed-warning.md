@@ -1,4 +1,6 @@
-# WARNING RISK OF SERIOUS INFECTIONS
+# WARNINGS
+
+SERIOUS INFECTIONS
 
 Patients treated with SIMPONI™ are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
@@ -20,3 +22,7 @@ Reported infections include:
 The risks and benefits of treatment with SIMPONI should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with SIMPONI, including the possible development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy [see Warning and Precautions (5.1)].
+
+MALIGNANCY
+
+Lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with TNF blockers, of which SIMPONI is a member [see Warning and Precautions (5.2)].

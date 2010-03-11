@@ -1,5 +1,3 @@
-Rx Only
-
 MEDICATION GUIDE SIMPONI™ (SIM-po-nee) (golimumab)
 
 Read the Medication Guide that comes with SIMPONI before you start taking it and each time you get a refill.
@@ -35,6 +33,12 @@ Before starting SIMPONI, tell your doctor if you:
 
 After starting SIMPONI, call your doctor right away if you have any symptoms of an infection.
 SIMPONI can make you more likely to get infections or make worse any infection that you have.
+
+Cancer
+
+- There have been cases of unusual cancers in children and teenage patients taking TNF-blocking agents.
+- For children and adults taking TNF-blocker medicines, including SIMPONI, the chances of getting lymphoma or other cancers may increase.
+- People with inflammatory diseases including rheumatoid arthritis, psoriatic arthritis, or ankylosing spondylitis, especially those with very active disease, may be more likely to get lymphoma.
 
 What is SIMPONI?
 
@@ -97,22 +101,17 @@ How should I use SIMPONI?
 
 What are the possible side effects with SIMPONI?
 
-SIMPONI can cause serious side effects including:
+SIMPONI can cause serious side effects, including:
+
+See "What is the most important information I should know about SIMPONI?"
 
 Serious Infections
-
-(See "What is the most important information I should know about SIMPONI?").
 
 Hepatitis B infection in people who carry the virus in their blood.
 
 - If you are a carrier of the hepatitis B virus (a virus that affects the liver), the virus can become active while you use SIMPONI.
   Your doctor may do blood tests before you start treatment with SIMPONI and while you are using SIMPONI.
   Tell your doctor if you have any of the following symptoms of a possible hepatitis B infection: feel very tiredskin or eyes look yellowlittle or no appetitevomitingmuscle achesdark urine clay-colored bowel movementsfeverschillsstomach discomfortskin rash
-
-Cancer
-
-- People with inflammatory diseases including rheumatoid arthritis, psoriatic arthritis, or ankylosing spondylitis, especially those with very active disease, may be more likely to get lymphoma.
-- If you use SIMPONI or other TNF-blockers, your risk of getting lymphoma or other cancers may increase.
 
 Heart failure, including new heart failure or worsening of heart failure that you already have.
 New or worse heart failure can happen in people who use TNF-blocker medicines like SIMPONI.
@@ -164,9 +163,9 @@ Other side effects with SIMPONI include:
   - chest pain or shortness of breath
   - swelling of the feet, ankles, and/or legs
 - Psoriasis.
-  Some people using TNF-blocker medicines including SIMPONI had new psoriasis or worsening of psoriasis that they already had.
-  Symptoms of psoriasis include: red scaly patches or raised bumps that are filled with pus on the skin.
-  Psoriasis may go away or get better after stopping SIMPONI in some people.
+  Some people using SIMPONI had new psoriasis or worsening of psoriasis they already had.
+  Tell your doctor if you develop red scaly patches or raised bumps that are filled with pus.
+  Your doctor may decide to stop your treatment with SIMPONI.
 - Allergic Reactions.
   Allergic reactions can happen in people who use TNF-blocker medicines.
   Call your doctor right away if you have any of these symptoms of an allergic reaction:

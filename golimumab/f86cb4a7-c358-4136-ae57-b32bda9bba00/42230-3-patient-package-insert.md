@@ -327,6 +327,6 @@ Step 5: After the injection
 
 Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
 
-Revised: 4/2009
+Revised: 11/2009
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
