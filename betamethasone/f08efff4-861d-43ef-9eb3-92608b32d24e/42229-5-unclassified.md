@@ -16,6 +16,14 @@ These agents are used to reduce the inflammation, redness, swelling, itching, an
 Other ingredients in Luxíq include cetyl alcohol, citric acid, ethanol, polysorbate 60, potassium citrate, propylene glycol, purified water, and stearyl alcohol.
 The foam is dispensed from an aluminum can that is pressurized by a hyrdrocarbon propellant (propane and butane).
 
+If you answer YES to one or more of the following questions, tell your doctor (or pharmacist) before using this medicine, so you can get advice about what to do.
+
+- Are you allergic to any of the ingredients contained in Luxíq?
+- Are you pregnant?
+  Planning on becoming pregnant while using Luxíq?
+  Or are you breastfeeding?
+- Do you think you have an infection on your scalp?
+
 - Do not use this medication for any condition other than the one for which it was prescribed.
 - Luxíq is for external use only.
 - Keep the foam away from your eyes, as it will sting.
