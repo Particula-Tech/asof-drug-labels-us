@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Duodenal Ulcer Disease
 
@@ -201,7 +201,7 @@ Symptomatic GERD
 The effectiveness of omeprazole for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in two uncontrolled Phase III studies.
 [See Use in Specific Populations (8.4)]
 
-The second study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
+The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.
 Successful response was defined as no moderate or severe episodes of either pain-related symptoms or vomiting/regurgitation during the last 4 days of treatment.
 Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 mg omeprazole), respectively.

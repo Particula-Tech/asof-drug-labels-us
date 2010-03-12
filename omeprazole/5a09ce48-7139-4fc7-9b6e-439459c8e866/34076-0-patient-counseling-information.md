@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Omeprazole delayed-release capsule should be taken before eating.
 Patients should be informed that the omeprazole delayed-release capsule should be swallowed whole.

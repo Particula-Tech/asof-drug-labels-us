@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075757"
+  ],
   "inn": "omeprazole",
   "labeler": "Sandoz Inc",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0781-2233-31",
     "0781-2233-92"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "omeprazole",
+      "name": "Omeprazole"
+    }
+  ],
   "setid": "5a09ce48-7139-4fc7-9b6e-439459c8e866",
   "source": "dailymed"
 }

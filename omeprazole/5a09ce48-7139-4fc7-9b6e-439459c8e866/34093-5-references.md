@@ -1,4 +1,4 @@
-# 15. REFERENCES
+# 15 REFERENCES
 
 1.
 National Committee for Clinical Laboratory Standards.

@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Omeprazole Delayed-Release Capsules 10 mg, are light brown, opaque, hypromellose capsules, coded OME 10 on cap and body.
 They are supplied as follows:

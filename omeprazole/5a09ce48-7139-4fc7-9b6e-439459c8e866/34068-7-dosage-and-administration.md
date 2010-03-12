@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Omeprazole delayed-release capsules should be taken before eating.
 In the clinical trials, antacids were used concomitantly with omeprazole.

@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Reports have been received of overdosage with omeprazole in humans.
 Doses ranged up to 2400 mg (120 times the usual recommended clinical dose).

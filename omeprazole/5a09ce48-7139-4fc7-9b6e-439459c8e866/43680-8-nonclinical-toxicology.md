@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In two 24-month carcinogenicity studies in rats, omeprazole at daily doses of 1.7, 3.4, 13.8, 44 and 140.8 mg/kg/day (about 0.7 to 57 times a human dose of 20 mg/day, as expressed on a body surface area basis) produced gastric ECL cell carcinoids in a dose-related manner in both male and female rats; the incidence of this effect was markedly higher in female rats, which had higher blood levels of omeprazole.
 Gastric carcinoids seldom occur in the untreated rat.
@@ -25,7 +25,7 @@ Omeprazole at oral doses up to 138 mg/kg/day in rats (about 56 times the human d
 
 In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Warnings and Precautions (5)] Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
-## 13.2 Animal Toxicology And/Or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Reproductive Toxicology Studies
 
