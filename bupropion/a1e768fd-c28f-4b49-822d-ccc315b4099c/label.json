@@ -1,12 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077715"
+  ],
   "inn": "bupropion",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
+    "0591-3331-05",
+    "0591-3331-19",
+    "0591-3331-30",
+    "0591-3332-05",
     "0591-3332-10",
     "0591-3332-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "Bupropion Hydrochloride"
+    }
+  ],
   "setid": "a1e768fd-c28f-4b49-822d-ccc315b4099c",
   "source": "dailymed"
 }

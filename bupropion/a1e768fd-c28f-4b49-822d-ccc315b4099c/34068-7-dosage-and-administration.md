@@ -32,11 +32,27 @@ It is generally agreed that acute episodes of depression require several months 
 It is unknown whether or not the dose of bupropion hydrochloride extended-release tablets (XL) needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
-## Switching Patients from Wellbutrin® (bupropion hydrochloride tablets) or from Wellbutrin SR® (bupropion hydrochloride extended-release tablets (SR))
+## Seasonal Affective Disorder
 
-When switching patients from Wellbutrin®(bupropion hydrochloride tablets) to bupropion hydrochloride extended-release tablets (XL) or from Wellbutrin SR® (bupropion hydrochloride extended-release tablets (SR)) to bupropion hydrochloride extended-release tablets (XL), give the same total daily dose when possible.
-Patients who are currently being treated with Wellbutrin® (bupropion hydrochloride tablets) at 300 mg/day (for example, 100 mg 3 times a day) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
-Patients who are currently being treated with Wellbutrin SR® (bupropion hydrochloride extended-release tablets (SR)) at 300 mg/day (for example, 150 mg twice daily) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
+For the prevention of seasonal major depressive episodes associated with seasonal affective disorder, bupropion hydrochloride extended-release tablets (XL) should generally be initiated in the autumn prior to the onset of depressive symptoms.
+Treatment should continue through the winter season and should be tapered and discontinued in early spring.
+The timing of initiation and duration of treatment should be individualized based on the patient's historical pattern of seasonal major depressive episodes.
+Patients whose seasonal depressive episodes are infrequent or not associated with significant impairment should not generally be treated prophylactically.
+
+Dosing with bupropion hydrochloride extended-release tablets (XL) should begin at 150 mg/day given as a single daily dose in the morning.
+If the 150-mg initial dose is adequately tolerated, the dose of bupropion hydrochloride extended-release tablets (XL) should be increased to the 300-mg/day dose after 1 week.
+If the 300-mg dose is not adequately tolerated, the dose can be reduced to 150 mg/day.
+The usual adult target dose for bupropion hydrochloride extended-release tablets (XL) is 300 mg/day, given once daily in the morning.
+
+For patients taking 300 mg/day during the autumn-winter season, the dose should be tapered to 150 mg/day for 2 weeks prior to discontinuation.
+
+Doses of bupropion hydrochloride extended-release tablets (XL) above 300 mg/day have not been studied for the prevention of seasonal major depressive episodes.
+
+## Switching Patients from WELLBUTRIN®* (bupropion hydrochloride tablets) or from WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR))
+
+When switching patients from WELLBUTRIN®* (bupropion hydrochloride tablets) to bupropion hydrochloride extended-release tablets (XL) or from WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR)) to bupropion hydrochloride extended-release tablets (XL), give the same total daily dose when possible.
+Patients who are currently being treated with WELLBUTRIN®* (bupropion hydrochloride tablets) at 300 mg/day (for example, 100 mg 3 times a day) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
+Patients who are currently being treated with WELLBUTRIN SR®* (bupropion hydrochloride extended-release tablets (SR)) at 300 mg/day (for example, 150 mg twice daily) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
 
 ## Dosage Adjustment for Patients With Impaired Hepatic Function
 

@@ -11,8 +11,8 @@ Bupropion is a racemic mixture.
 The pharmacologic activity and pharmacokinetics of the individual enantiomers have not been studied.
 The mean elimination half-life (±SD) of bupropion after chronic dosing is 21 (±9) hours, and steady-state plasma concentrations of bupropion are reached within 8 days.
 
-In a study comparing 14-day dosing with bupropion hydrochloride extended-release tablets (XL) 300 mg once daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
-Additionally, in a study comparing 14-day dosing with bupropion hydrochloride extended-release tablets (XL) 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
+In a study comparing 14-day dosing with a bupropion hydrochloride extended-release tablet 300 mg once daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
+Additionally, in a study comparing 14-day dosing with a bupropion hydrochloride extended-release tablet 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
 
 ### Absorption
 
@@ -63,7 +63,7 @@ The differences in half-life for bupropion and the other metabolites in the 2 pa
 
 The second study showed no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 patients with mild to moderate hepatic cirrhosis compared to 8 healthy volunteers.
 However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in patients with mild to moderate hepatic cirrhosis.
-In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in patients with severe hepatic cirrhosis vs. 19 hours in healthy subjects).
+In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in patients with severe hepatic cirrhosis vs 19 hours in healthy subjects).
 For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
@@ -73,8 +73,9 @@ The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were in
 ### Renal
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
-An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3 and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
-The elimination of the major metabolites of bupropion may be reduced by impaired renal function (see PRECAUTIONS: Renal Impairment).
+An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
+A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150 mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
+The elimination of bupropion and/or the major metabolites of bupropion may be reduced by impaired renal function (see PRECAUTIONS: Renal Impairment).
 
 ### Left Ventricular Dysfunction
 
@@ -111,3 +112,11 @@ Relapse during the double-blind phase was defined as the investigator’s judgme
 Patients receiving continued bupropion treatment experienced significantly lower relapse rates over the subsequent 44 weeks compared to those receiving placebo.
 
 Although there are no independent trials demonstrating the antidepressant effectiveness of bupropion hydrochloride extended-release tablets (XL), studies have demonstrated similar bioavailability of bupropion hydrochloride extended-release tablets (XL) to both the immediate-release formulation and to the sustained-release formulation of bupropion under steady-state conditions, i.e., bupropion hydrochloride extended-release tablets (XL) 300 mg once daily was shown to have bioavailability that was similar to that of 100 mg 3 times daily of the immediate-release formulation of bupropion and to that of 150 mg 2 times daily of the sustained-release formulation of bupropion, with regard to both peak plasma concentration and extent of absorption, for parent drug and metabolites.
+
+Seasonal Affective Disorder: The efficacy of bupropion hydrochloride extended-release tablets (XL) for the prevention of seasonal major depressive episodes associated with seasonal affective disorder was established in 3 double-blind, placebo-controlled trials in adult outpatients with a history of major depressive disorder with an autumn-winter seasonal pattern (as defined by DSM-IV criteria).
+Treatment was initiated prior to the onset of symptoms in the autumn (September to November) and was discontinued following a 2 week taper that began the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
+At the start of the study, patients were randomized to receive placebo or bupropion hydrochloride extended-release tablets (XL) 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
+Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.
+The mean bupropion hydrochloride extended-release tablets (XL) doses in the 3 studies ranged from 257 to 280 mg/day.
+
+In these 3 trials, the percentage of patients who were depression-free at the end of treatment was significantly higher for bupropion hydrochloride extended-release tablets (XL) than for placebo: 81.4% vs 69.7%, 87.2% vs 78.7%, and 84.0% vs 69.0% for Study 1, 2 and 3, respectively; with a depression-free rate for the 3 studies combined of 84.3% vs 72.0%.

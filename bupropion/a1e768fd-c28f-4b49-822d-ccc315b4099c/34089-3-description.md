@@ -9,7 +9,7 @@ Bupropion hydrochloride powder is white, crystalline, and highly soluble in wate
 It has a bitter taste and produces the sensation of local anesthesia on the oral mucosa.
 The structural formula is:
 
-Bupropion Hydrochloride Extended-Release Tablets (XL) are supplied for oral administration as 300 mg, white to off-white extended-release tablets.
+Bupropion hydrochloride extended-release tablets (XL) are supplied for oral administration as 150 mg and 300 mg, white to off-white extended-release tablets.
 Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: colloidal silicon dioxide, ethylcellulose, hydroxypropyl cellulose, methacrylic acid copolymer, microcrystalline cellulose, stearic acid, talc, titanium dioxide, hydrochloric acid and triethyl citrate.
 The tablets are printed with edible black ink.
 USP drug release test is pending.
