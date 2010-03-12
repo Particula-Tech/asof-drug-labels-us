@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA071425",
+    "ANDA072354",
+    "NDA019048"
+  ],
+  "inn": "desonide",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5765-02",
+    "0299-5765-04",
+    "0299-5770-60",
+    "0299-5775-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "desonide",
+      "name": "DesOwen"
+    },
+    {
+      "form": "LOTION",
+      "generic": "desonide",
+      "name": "DesOwen"
+    },
+    {
+      "form": "OINTMENT",
+      "generic": "desonide",
+      "name": "DesOwen"
+    }
+  ],
+  "setid": "a7e5f030-b849-4805-94e6-f45631eaa37f",
+  "source": "dailymed"
+}
