@@ -120,7 +120,7 @@ After an average follow-up of 5.2 years, the relative risk of probable dementia 
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in this study included Alzheimer's disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in both the treatment and placebo groups was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.5), and Use in Specific Populations (8.3)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.4), and Use in Specific Populations (8.3)].
 
 The WHIMS estrogen plus progestin substudy enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were 65 to 69 years of age; 35 percent were 70 to 74 years; 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 

@@ -47,7 +47,7 @@ Should a VTE occur or be suspected, estrogens should be discontinued immediately
 
 In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-The increase in VTE risk was observed during the first year and persisted4[see Clinical Studies (14.2)].
+The increase in VTE risk was observed during the first year and persisted4 [see Clinical Studies (14.2)].
 Should a VTE occur or be suspected, estrogens should be discontinued immediately.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -106,7 +106,7 @@ In the estrogen-alone Women's Health Initiative Memory Study (WHIMS), an ancilla
 
 In the WHIMS estrogen-alone ancillary study, after an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent nCI 0.83-2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8 [see Use in Specific Populations (8.3) and Clinical Studies (14.3)].
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8 [see Use in Specific Populations (8.3), and Clinical Studies (14.3)].
 
 In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 
@@ -176,20 +176,24 @@ Estrogens should be used with caution in individuals with hypoparathyroidism as 
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.
 For women known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-## 5.16 Exacerbation of Other Conditions
+## 5.16 Angioedema
+
+Exogenous estrogens may induce or exacerbate symptoms of angioedema, particularly in women with hereditary angioedema.
+
+## 5.17 Exacerbation of Other Conditions
 
 Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
-## 5.17 Effects on Barrier Contraception
+## 5.18 Effects on Barrier Contraception
 
 PREMARIN Vaginal Cream exposure has been reported to weaken latex condoms.
 The potential for PREMARIN Vaginal Cream to weaken and contribute to the failure of condoms, diaphragms, or cervical caps made of latex or rubber should be considered.
 
-## 5.18 Laboratory Tests
+## 5.19 Laboratory Tests
 
 Serum follicle stimulating hormone and estradiol levels have not been shown to be useful in the management of moderate to severe symptoms of vulvar and vaginal atrophy.
 
-## 5.19 Drug-Laboratory Test Interactions
+## 5.20 Drug-Laboratory Test Interactions
 
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
