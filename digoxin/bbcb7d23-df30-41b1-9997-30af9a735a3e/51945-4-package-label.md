@@ -27,7 +27,7 @@ Kirkland, Canada H9H 4J4 for
 
 GlaxoSmithKline
 
-research Triangle Park, NC 27709
+Research Triangle Park, NC 27709
 
 Made in Germany
 
