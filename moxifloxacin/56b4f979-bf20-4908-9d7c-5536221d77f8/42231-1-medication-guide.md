@@ -17,17 +17,17 @@ If you get any of the following serious side effects, get medical help right awa
 Talk with your healthcare provider about whether you should continue to take AVELOX.
 
 - Tendon rupture or swelling of the tendon (tendinitis)
-- Tendons are tough cords of tissue that connect muscles to bones.
-- Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including AVELOX.
-  The risk of getting tendon problems is higher if you:
-- are over 60 years of age
-- are taking steroids (corticosteroids)
-- have had a kidney, heart or lung transplant
+  - Tendons are tough cords of tissue that connect muscles to bones.
+  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including AVELOX.
+    The risk of getting tendon problems is higher if you:
+  - are over 60 years of age
+  - are taking steroids (corticosteroids)
+  - have had a kidney, heart or lung transplant
 - Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
 - Other reasons for tendon ruptures can include:
-- physical activity or exercise
-- kidney failure
-- tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+  - physical activity or exercise
+  - kidney failure
+  - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking AVELOX until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
@@ -38,9 +38,9 @@ Talk with your healthcare provider about whether you should continue to take AVE
 - Tendon rupture can happen while you are taking or after you have finished taking AVELOX.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
 - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-- hear or feel a snap or pop in a tendon area
-- bruising right after an injury in a tendon area
-- unable to move the affected area or bear weight
+  - hear or feel a snap or pop in a tendon area
+  - bruising right after an injury in a tendon area
+  - unable to move the affected area or bear weight
 - See the section “What are the possible side effects of AVELOX?” for more information about side effects.
 
 What is AVELOX?
@@ -119,10 +119,10 @@ How should I take AVELOX?
 - Drink plenty of fluids while taking AVELOX.
 - AVELOX I.V. is given to you by intravenous (I.V.) infusion into your vein slowly, over 60 minutes, as prescribed by your healthcare provider.
 - Do not skip any doses, or stop taking AVELOX even if you begin to feel better, until you finish your prescribed treatment, unless:
-- you have tendon effects (see “What is the most important information I should know about AVELOX?”),
-- you have a serious allergic reaction (see “What are the possible side effects of AVELOX?”), or your healthcare provider tells you to stop.
-- This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to AVELOX.
-  If this happens, AVELOX and other antibiotic medicines may not work in the future.
+  - you have tendon effects (see “What is the most important information I should know about AVELOX?”),
+  - you have a serious allergic reaction (see “What are the possible side effects of AVELOX?”), or your healthcare provider tells you to stop.
+  - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to AVELOX.
+    If this happens, AVELOX and other antibiotic medicines may not work in the future.
 - If you miss a dose of AVELOX, take it as soon as you remember.
   Do not take more than 1 dose of AVELOX in one day.
 - If you take too much, call your healthcare provider or get medical help immediately.
@@ -252,11 +252,11 @@ For more information go to www.AVELOX.com or call 1-800-526-4099.
 What are the ingredients in AVELOX?
 
 - AVELOX Tablets:
-- Active ingredient: moxifloxacin hydrochloride
-- Inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and ferric oxide
+  - Active ingredient: moxifloxacin hydrochloride
+  - Inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and ferric oxide
 - AVELOX I.V.:
-- Active ingredient: moxifloxacin hydrochloride
-- Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
+  - Active ingredient: moxifloxacin hydrochloride
+  - Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 
 Revised October 2008
 
@@ -272,8 +272,8 @@ AVELOX is a registered trademark of Bayer Aktiengesellschaft and is used under l
 
 Rx Only
 
-81532312, R.2 04/09
+81532312, R.3 03/10
 
-©2009 Bayer HealthCare Pharmaceuticals Inc.
+©2010 Bayer HealthCare Pharmaceuticals Inc.
 
 Printed in U.S.A.

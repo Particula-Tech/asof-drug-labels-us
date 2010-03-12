@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Clinical efficacy trials enrolled over 9,200 moxifloxacin orally and intravenously treated patients, of whom over 8,600 patients received the 400 mg dose.
+Clinical efficacy trials enrolled over 15,500 moxifloxacin orally and intravenously treated patients, of whom over 14,900 patients received the 400 mg dose.
 Most adverse events reported in moxifloxacin trials were described as mild to moderate in severity and required no treatment.
 Moxifloxacin was discontinued due to adverse reactions thought to be drug-related in 2.9% of orally treated patients and 6.3 % of sequentially (intravenous followed by oral) treated patients.
 The latter studies were conducted in community acquired pneumonia and complicated skin and skin structure infections and complicated intra-abdominal infections with, in general, a sicker patient population compared to the tablet studies.

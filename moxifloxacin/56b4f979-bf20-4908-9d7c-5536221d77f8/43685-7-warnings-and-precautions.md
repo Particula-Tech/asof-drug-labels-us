@@ -24,8 +24,7 @@ Moxifloxacin should be used with caution in patients with ongoing proarrhythmic 
 The magnitude of QT prolongation may increase with increasing concentrations of the drug or increasing rates of infusion of the intravenous formulation.
 Therefore the recommended dose or infusion rate should not be exceeded.
 QT prolongation may lead to an increased risk for ventricular arrhythmias including torsade de pointes.
-No cardiovascular morbidity or mortality attributable to QTc prolongation occurred with moxifloxacin treatment in over 9,200 patients in controlled clinical studies, including 223 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 moxifloxacin tablet treated patients in a post-marketing observational study in which ECGs were not performed.
-(See CLINICAL PHARMACOLOGY, Electrocardiogram.
+No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with moxifloxacin treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 moxifloxacin tablet treated patients in a post-marketing observational study in which ECGs were not performed (See CLINICAL PHARMACOLOGY, Electrocardiogram.
 For I.V. use, see DOSAGE AND ADMINISTRATION and PRECAUTIONS, Geriatric Use.)
 In addition, moxifloxacin should be used with caution in patients with mild, moderate, or severe liver cirrhosis.
 (See CLINICAL PHARMACOLOGY, Hepatic Insufficiency.)

@@ -169,7 +169,7 @@ For testing Haemophilus influenzae and Haemophilus parainfluenzaee:
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
 
-For testing Streptococcus species including Streptococcus pneumoniae f and Enterococcus faecalis:
+For testing Streptococcus species including Streptococcus pneumoniaef and Enterococcus faecalis:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |

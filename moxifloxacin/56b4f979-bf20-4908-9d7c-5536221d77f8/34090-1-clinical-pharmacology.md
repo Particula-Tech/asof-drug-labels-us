@@ -239,7 +239,7 @@ Moxifloxacin should only be taken more than 4 hours before or 8 hours after iron
 
 Prolongation of the QT interval in the ECG has been observed in some patients receiving moxifloxacin.
 Following oral dosing with 400 mg of moxifloxacin the mean (± SD) change in QTc from the pre-dose value at the time of maximum drug concentration was 6 msec (± 26) (n = 787).
-Following a course of daily intravenous dosing (400 mg; 1 hour infusion each day) the mean change in QTc from the Day 1 pre-dose value was 9 msec (± 24) on Day 1 (n = 69) and 3 msec (± 29) on Day 3 (n = 290).
+Following a course of daily intravenous dosing (400 mg; 1 hour infusion each day) the mean change in QTc from the Day 1 pre-dose value was 10 msec (±22) on Day 1 (n = 667) and 7 msec (± 24) on Day 3 (n = 667).
 (See WARNINGS.)
 
 There is limited information available on the potential for a pharmacodynamic interaction in humans between moxifloxacin and other drugs that prolong the QTc interval of the electrocardiogram.
