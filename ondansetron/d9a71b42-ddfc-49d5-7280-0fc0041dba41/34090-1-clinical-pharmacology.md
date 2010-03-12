@@ -105,7 +105,7 @@ Pharmacokinetics in Pediatric Surgery Patients 1 Month to 12 Years of Age
 In general, surgical and cancer pediatric patients younger than 18 years tend to have a higher ondansetron clearance compared to adults leading to a shorter half-life in most pediatric patients.
 In patients 1 month to 4 months of age, a longer half-life was observed due to the higher volume of distribution in this age group.
 
-In normal volunteers (19 to 39 years old, n = 23), the peak plasmaconcentration was 264 ng/mL following a single 32-mg dose administered as a 15-minute I.V. infusion.
+In normal volunteers (19 to 39 years old, n = 23), the peak plasma concentration was 264 ng/mL following a single 32-mg dose administered as a 15-minute I.V. infusion.
 The mean elimination half-life was 4.1 hours.
 Systemic exposure to 32 mg of ondansetron was not proportional to dose as measured by comparing dose-normalized AUC values to an 8-mg dose.
 This is consistent with a small decrease in systemic clearance with increasing plasma concentrations.
