@@ -43,9 +43,9 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes St
 | Hemoglobin (<0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
 | White blood cells(<0.75 x LLN) | 1.3% | 0.6% | 0.7% | 0.6% | 0.2% | 0.7% | 0.8% | 1.5% |
 | Platelet count (<100,000/mm3) | 1.0% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
-| AST (SGOT)(>2 x ULN) | 1.0% | 0% | 1.0% | * | 0.5% | 4.1% | 3.8% | 3.0% |
+| AST (SGOT)(>2 x ULN) | 1.0% | 0% | 1.0% | a | 0.5% | 4.1% | 3.8% | 3.0% |
 | Serum creatinine(>1.5 x ULN) | 0.2% | 0% | 0.7% | 0% | 0% | 0% | 0% | 0% |
-| * Data were not collected prospectively. |  |  |  |  |  |  |  |  |
+| a Data were not collected prospectively. |  |  |  |  |  |  |  |  |
 | LLN = Lower limit of normal. |  |  |  |  |  |  |  |  |
 | ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |
 

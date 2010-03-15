@@ -23,5 +23,6 @@ In the event of acute renal failure and anuria, the patient may benefit from hem
 
 ## 5.3 Central Nervous System Effects
 
-Central nervous system adverse reactions, including agitation, hallucinations, confusion, delirium, seizures, and encephalopathy, have been reported in elderly patients with or without reduced renal function and in patients with underlying renal disease who received higher than recommended doses of VALTREX for their level of renal function.
+Central nervous system adverse reactions, including agitation, hallucinations, confusion, delirium, seizures, and encephalopathy, have been reported in both adult and pediatric patients with or without reduced renal function and in patients with underlying renal disease who received higher than recommended doses of VALTREX for their level of renal function.
+Elderly patients are more likely to have central nervous system adverse reactions.
 VALTREX should be discontinued if central nervous system adverse reactions occur [see Adverse Reactions (6.3), Use in Specific Populations (8.5, 8.6)].

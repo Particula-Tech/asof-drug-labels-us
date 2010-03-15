@@ -14,7 +14,7 @@ No significant difference was observed between subjects receiving VALTREX or pla
 
 ## 14.2 Genital Herpes Infections
 
-Initial Episode: Six hundred and forty-three immunocompetent adults with first-episode genital herpes who presented within 72 hours of symptom onset were randomized in a double-blind trial to receive 10 days of VALTREX 1 gram twice daily (n = 323) or oral acyclovir 200 mg 5 times a day (n = 320).
+Initial Episode: Six hundred forty-three immunocompetent adults with first-episode genital herpes who presented within 72 hours of symptom onset were randomized in a double-blind trial to receive 10 days of VALTREX 1 gram twice daily (n = 323) or oral acyclovir 200 mg 5 times a day (n = 320).
 For both treatment groups: the median time to lesion healing was 9 days, the median time to cessation of pain was 5 days, the median time to cessation of viral shedding was 3 days.
 
 Recurrent Episodes: Three double-blind trials (2 of them placebo-controlled) in immunocompetent adults with recurrent genital herpes were conducted.
@@ -42,8 +42,8 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 | VALTREX 1 gram once daily(n = 269) | Oral acyclovir400 mg twice daily(n = 267) | Placebo(n = 134) | VALTREX1 gram once daily(n = 269) | Oral acyclovir 400 mg twice daily(n = 267) | Placebo(n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
-| Unknown* | 10% | 10% | 10% | 19% | 19% | 10% |
-| * Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |  |  |  |  |
+| Unknowna | 10% | 10% | 10% | 19% | 19% | 10% |
+| a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |  |  |  |  |
 
 Subjects with 9 or fewer recurrences per year showed comparable results with VALTREX 500 mg once daily.
 
@@ -60,8 +60,8 @@ Recurrence Rates in HIV-Infected Adults at 6 Months
 | --- | --- | --- |
 | Recurrence free | 65% | 26% |
 | Recurrences | 17% | 57% |
-| Unknown* | 18% | 17% |
-| * Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |
+| Unknowna | 18% | 17% |
+| a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |
 
 Reduction of Transmission of Genital Herpes: A double-blind, placebo-controlled study to assess transmission of genital herpes was conducted in 1,484 monogamous, heterosexual, immunocompetent adult couples.
 The couples were discordant for HSV-2 infection.
@@ -75,12 +75,12 @@ The efficacy results are summarized in Table 7.
 Table 7.
 Percentage of Susceptible Partners Who Acquired HSV-2 Defined by the Primary and Selected Secondary Endpoints
 
-| Endpoint | VALTREX*(n = 743) | Placebo(n = 741) |
+| Endpoint | VALTREXa(n = 743) | Placebo(n = 741) |
 | --- | --- | --- |
 | Symptomatic HSV-2 acquisition | 4 (0.5%) | 16 (2.2%) |
 | HSV-2 seroconversion | 12 (1.6%) | 24 (3.2%) |
 | Overall HSV-2 acquisition | 14 (1.9%) | 27 (3.6%) |
-| * Results show reductions in risk of 75% (symptomatic HSV-2 acquisition), 50% (HSV-2 seroconversion), and 48% (overall HSV-2 acquisition) with VALTREX versus placebo. Individual results may vary based on consistency of safer sex practices. |  |  |
+| a Results show reductions in risk of 75% (symptomatic HSV-2 acquisition), 50% (HSV-2 seroconversion), and 48% (overall HSV-2 acquisition) with VALTREX versus placebo. Individual results may vary based on consistency of safer sex practices. |  |  |
 
 ## 14.3 Herpes Zoster
 

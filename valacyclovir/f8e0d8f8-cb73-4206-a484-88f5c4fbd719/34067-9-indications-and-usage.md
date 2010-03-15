@@ -2,7 +2,7 @@
 
 ## 1.1 Adult Patients
 
-Cold Sores (Herpes Labialis): VALTREX is indicated for treatment of cold sores (herpes labialis).
+Cold Sores (Herpes Labialis): VALTREX® (valacyclovir hydrochloride) Caplets are indicated for treatment of cold sores (herpes labialis).
 The efficacy of VALTREX initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
 
 Genital Herpes: Initial Episode: VALTREX is indicated for treatment of the initial episode of genital herpes in immunocompetent adults.

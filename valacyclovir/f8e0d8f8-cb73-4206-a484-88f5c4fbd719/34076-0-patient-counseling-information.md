@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.6).
+See FDA-Approved Patient Labeling.
 
 ## 17.1 Importance of Adequate Hydration
 
@@ -42,16 +42,17 @@ Patients should be advised to initiate treatment at the earliest sign or symptom
 
 chickenpox.
 
-## 17.6 FDA-Approved Patient Labeling
+This product's prescribing information may have been updated.
+Please refer to www.gsk.com for the most current version.
 
-Patient labeling is provided as a tear-off leaflet at the end of this full prescribing information.
-
-Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
+Distributed by: GlaxoSmithKline Research Triangle Park, NC 27709
 
 Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
-©2008, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
+
+March 2010 VTX:3PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

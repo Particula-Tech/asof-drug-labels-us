@@ -21,7 +21,7 @@ There is no accumulation of acyclovir after the administration of valacyclovir a
 Table 3.
 Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameters Following Administration of VALTREX to Healthy Adult Volunteers
 
-| Dose | Single-Dose Administration(N = 8) |  | Multiple-Dose Administration*(N = 24, 8 per treatment arm) |  |
+| Dose | Single-Dose Administration(N = 8) |  | Multiple-Dose Administrationa(N = 24, 8 per treatment arm) |  |
 | --- | --- | --- | --- | --- |
 | Cmax (±SD) (mcg/mL) | AUC (±SD) (hr●mcg/mL) | Cmax (±SD) (mcg/mL) | AUC (±SD) (hr●mcg/mL) |  |
 | 100 mg | 0.83 (±0.14) | 2.28 (±0.40) | ND | ND |
@@ -29,7 +29,7 @@ Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameters Following Administration
 | 500 mg | 3.28 (±0.83) | 11.59 (±1.79) | 3.69 (±0.87) | 9.88 (±2.01) |
 | 750 mg | 4.17 (±1.14) | 14.11 (±3.54) | ND | ND |
 | 1,000 mg | 5.65 (±2.37) | 19.52 (±6.04) | 4.96 (±0.64) | 15.70 (±2.27) |
-| * Administered 4 times daily for 11 days. |  |  |  |  |
+| a Administered 4 times daily for 11 days. |  |  |  |  |
 | ND = not done. |  |  |  |  |
 
 Distribution: The binding of valacyclovir to human plasma proteins ranges from 13.5% to 17.9%.
@@ -71,12 +71,12 @@ Acyclovir pharmacokinetic parameter estimates following a 20 mg/kg dose are prov
 Table 4.
 Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1 Gram Single Dose of VALTREX to Adults
 
-| Parameter | Pediatric Patients(20 mg/kg Oral Suspension) |  |  | Adults1 gram Solid Dose of VALTREX*(N = 15) |
+| Parameter | Pediatric Patients(20 mg/kg Oral Suspension) |  |  | Adults1 gram Solid Dose of VALTREXa(N = 15) |
 | --- | --- | --- | --- | --- |
 | 1 - <2 yr(N = 6) | 2 - <6 yr(N = 12) | 6 - <12 yr(N = 8) |  |  |
 | AUC (mcg•hr/mL) | 14.4 (±6.26) | 10.1 (±3.35) | 13.1 (±3.43) | 17.2 (±3.10) |
 | Cmax (mcg/mL) | 4.03 (±1.37) | 3.75 (±1.14) | 4.71 (±1.20) | 4.72 (±1.37) |
-| * Historical estimates using pediatric pharmacokinetic sampling schedule. |  |  |  |  |
+| a Historical estimates using pediatric pharmacokinetic sampling schedule. |  |  |  |  |
 
 Drug Interactions: When VALTREX is coadministered with antacids, cimetidine and/or probenicid, digoxin, or thiazide diuretics in patients with normal renal function, the effects are not considered to be of clinical significance (see below).
 Therefore, when VALTREX is coadministered with these drugs in patients with normal renal function, no dosage adjustment is recommended.

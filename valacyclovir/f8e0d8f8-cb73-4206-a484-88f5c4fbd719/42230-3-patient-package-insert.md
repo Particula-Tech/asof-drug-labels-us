@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+Patient Information
 
 VALTREX® (VAL-trex)
 
@@ -157,7 +157,7 @@ Active Ingredient: valacyclovir hydrochloride
 
 Inactive Ingredients: carnauba wax, colloidal silicon dioxide, crospovidone, FD&C Blue No. 2 Lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
 
-Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
+Distributed by: GlaxoSmithKline Research Triangle Park, NC 27709
 
 Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
