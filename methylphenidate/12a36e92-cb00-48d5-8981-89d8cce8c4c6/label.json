@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021514"
+  ],
   "inn": "methylphenidate",
-  "labeler": "Shire US Inc.",
+  "labeler": "Shire US Manufacturing Inc.",
   "package_ndcs": [
     "54092-552-10",
     "54092-552-30",
@@ -12,7 +14,13 @@
     "54092-555-10",
     "54092-555-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "methylphenidate",
+      "name": "Daytrana"
+    }
+  ],
   "setid": "12a36e92-cb00-48d5-8981-89d8cce8c4c6",
   "source": "dailymed"
 }

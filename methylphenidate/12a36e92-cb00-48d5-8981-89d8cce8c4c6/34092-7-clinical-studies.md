@@ -6,7 +6,7 @@ The patch wear time was 9 hours in both studies.
 In Study 1, conducted in a classroom setting, symptoms of ADHD were evaluated by school teachers and observers using the Deportment Subscale from the Swanson, Kotkin, Agler, M-Flynn, and Pelham (SKAMP) rating scale which assesses behavior symptoms in the classroom setting.
 Daytrana™ was applied for 9 hours before removal.
 There was a 5-week open-label Daytrana™ dose optimization phase using dosages of 10, 15, 20, and 30 mg / 9 hours, followed by a 2-week randomized, double-blind, placebo-controlled crossover treatment phase using the optimal patch dose for each patient or placebo.
-The mean differences between Daytrana™ and placebo in change from baseline in SKAMP Deportment Scores were statistically significant in favor of Daytrana™ beginning at 2 hours and remained statistically significant at all subsequent measured timepoints through 12 hours after application of the Daytrana™ patch.
+The mean differences between Daytrana™ and placebo in change from baseline in SKAMP Deportment Scores were statistically significant in favor of Daytrana™ beginning at 2 hours and remained statistically significant at all subsequent measured time points through 12 hours after application of the Daytrana™ patch.
 
 In Study 2, conducted in the outpatient setting, Daytrana™ or placebo was blindly administered in a flexible-dose design using doses of 10, 15, 20, and 30 mg / 9 hours to achieve an optimal regimen over 5 weeks, followed by a 2-week maintenance period using the optimal patch dose for each patient.
 Symptoms of ADHD were evaluated by the ADHD-Rating Scale (RS)-IV.

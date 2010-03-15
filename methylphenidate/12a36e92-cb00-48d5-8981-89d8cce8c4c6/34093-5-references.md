@@ -7,15 +7,15 @@ Washington, DC: American Psychiatric Association 1994.
 
 Manufactured for Shire US Inc., Wayne, PA 19087 by Noven Pharmaceuticals, Inc., Miami, FL 33186.
 
-For more information call 1-800-828-2088 or visit www.shire.com.
+For more information call 1-800-828-2088 or visit www.daytrana.com.
 
 Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc.
 
 Daytrana™ is a trademark of Shire Pharmaceuticals Ireland Limited.
 
-© 2006 Shire Pharmaceuticals Ireland Limited.
+© 2009 Shire Pharmaceuticals Ireland Limited.
 
 Rx Only Rev.
-06/06
+12/09
 
-552 1027 002 102086-1
+552 1027 008 102086-7

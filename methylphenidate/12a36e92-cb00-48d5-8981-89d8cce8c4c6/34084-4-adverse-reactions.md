@@ -17,7 +17,7 @@ An event was considered treatment emergent if it occurred for the first time or 
 In a 7-week double-blind, parallel-group, placebo-controlled study in children with ADHD conducted in the outpatient setting, 7.1% (7/98) of patients treated with Daytrana™ discontinued due to adverse events compared with 1.2% (1/85) receiving placebo.
 The reasons for discontinuation among the patients treated with Daytrana™ were application site erythema, application site reaction, confusional state, crying, tics, headaches, irritability, infectious mononucleosis, and viral infection.
 
-### Adverse Events Occurring at an Incidence of 5% or More Among Patients Treated With Daytrana™
+## Adverse Events Occurring at an Incidence of 5% or More Among Patients Treated With Daytrana™
 
 Table 1 enumerates the incidence of treatment-emergent adverse events reported in a 7 week double-blind, parallel-group, placebo-controlled study in children with ADHD conducted in the outpatient setting.
 
@@ -42,59 +42,8 @@ TABLE 1 Most Commonly Reported Treatment-Emergent Adverse Events (≥5% and 2x P
 | Anorexia | 5 | (5) | 1 | (1) |
 | Decreased appetite | 25 | (26) | 4 | (5) |
 | Psychiatric Disorders |  |  |  |  |
-| Affect labilitySix subjects had affect lability, all judged as mild and described as increased emotionally sensitive, emotionality, emotional instability, emotional lability, and intermittent emotional lability. | 6 | (6) | 0 | (0) |
+| Affect lability Six subjects had affect lability, all judged as mild and described as increased emotionally sensitive, emotionality, emotional instability, emotional lability, and intermittent emotional lability. | 6 | (6) | 0 | (0) |
 | Insomnia | 13 | (13) | 4 | (5) |
 | Tic | 7 | (7) | 0 | (0) |
 | Respiratory |  |  |  |  |
 | Nasal congestion | 6 | (6) | 1 | (1) |
-
-### Skin Irritation
-
-Daytrana™ is a dermal irritant.
-The majority of subjects in the pivotal phase III clinical efficacy study had minimal to definite erythema.
-This erythema generally caused no or minimal discomfort and did not usually interfere with therapy or result in discontinuation from treatment.
-If erythema, edema, and/or papules do not resolve or significantly reduce within 24 hours after patch removal, further evaluation should be sought.
-Erythema is not by itself an indication of contact sensitization.
-However, sensitization should be considered if erythema is accompanied by edema, papules, vesicles, or other evidence of more intense local reactions.
-Diagnosis of allergic contact dermatitis should be corroborated by appropriate diagnostic testing (see WARNINGS - Contact Sensitization)
-
-### Adverse Events With the Long-Term Use of Daytrana™
-
-In a long-term open-label study of up to 40-month duration in 191 children with ADHD, the most frequently reported treatment-emergent adverse events in pediatric patients treated with Daytrana™ for 12 hours daily were anorexia (87 subjects, 46%), insomnia (57 subjects, 30%), viral infection (54 subjects, 28%), and headache (53 subjects, 28%).
-A total of 45 (24%) subjects were withdrawn from the study because of treatment-emergent adverse events.
-The most common events leading to withdrawal were application site reaction (12 subjects, 6%), anorexia (7 subjects, 4%), and insomnia (7 subjects, 4%).
-
-### Adverse Events With Oral Methylphenidate Products
-
-Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
-In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed below may also occur.
-
-Other reactions include:
-
-Cardiac: angina, arrhythmia, palpitations, pulse increased or decreased, tachycardia
-
-Gastrointestinal: abdominal pain, nausea
-
-Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura
-
-Metabolism/Nutrition: anorexia, weight loss during prolonged therapy
-
-Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette's syndrome, toxic psychosis
-
-Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
-
-Although a definite causal relationship has not been established, the following have been reported in patients taking methylphenidate:
-
-Blood/lymphatic: leukopenia and/or anemia
-
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
-
-Psychiatric: transient depressed mood
-
-Skin/Subcutaneous: scalp hair loss
-
-Neuroleptic Malignant Syndrome:
-
-Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
-In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
-It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
