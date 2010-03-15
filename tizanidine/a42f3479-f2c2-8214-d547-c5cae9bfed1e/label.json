@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA076286"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-179-03",
+    "55111-179-10",
+    "55111-179-15",
+    "55111-179-30",
+    "55111-180-03",
+    "55111-180-10",
+    "55111-180-15",
+    "55111-180-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tizanidine",
+      "name": "Tizanidine"
+    }
+  ],
+  "setid": "a42f3479-f2c2-8214-d547-c5cae9bfed1e",
+  "source": "dailymed"
+}
