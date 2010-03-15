@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA078755"
+  ],
+  "inn": "valproic-acid",
+  "labeler": "Dr. Reddy's Laboratories Ltd",
+  "package_ndcs": [
+    "55111-529-01",
+    "55111-529-05",
+    "55111-529-30",
+    "55111-529-78",
+    "55111-529-79",
+    "55111-530-01",
+    "55111-530-05",
+    "55111-530-30",
+    "55111-530-78",
+    "55111-530-79",
+    "55111-531-01",
+    "55111-531-05",
+    "55111-531-30",
+    "55111-531-78",
+    "55111-531-79"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "divalproex sodium",
+      "name": "divalproex sodium"
+    }
+  ],
+  "setid": "15f8a5be-e269-2e07-60d9-1dd7bf5f5281",
+  "source": "dailymed"
+}
