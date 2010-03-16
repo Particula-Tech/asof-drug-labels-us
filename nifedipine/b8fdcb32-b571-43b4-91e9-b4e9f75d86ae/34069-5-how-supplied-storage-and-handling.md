@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-ADALAT CC extended release tablets are supplied as 30 mg, 60 mg, and 90 mg round film coated tablets.
+Adalat CC extended release tablets are supplied as 30 mg, 60 mg, and 90 mg round film coated tablets.
 The different strengths can be identified as follows:
 
 | Strength | Color | Markings |
@@ -9,7 +9,7 @@ The different strengths can be identified as follows:
 | 60 mg | Salmon | 60 on one side and ADALAT CC on the other side |
 | 90 mg | Dark Red | 90 on one side and ADALAT CC on the other side |
 
-ADALAT® CC Tablets are supplied in:
+Adalat® CC Tablets are supplied in:
 
 |  | Strength | NDC Code |
 | --- | --- | --- |
@@ -25,5 +25,21 @@ ADALAT® CC Tablets are supplied in:
 The tablets should be protected from light and moisture and stored below 86°F (30°C).
 Dispense in tight, light-resistant containers.
 
-The following are representative examples of ADALAT labeling.
+Manufactured by:
+
+Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470 Made in Germany
+
+Distributed by:
+
+Schering Corporation Kenilworth, NJ 07033
+
+Adalat is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
+
+Rx Only
+
+08935206, R.2 3/10
+
+©2010 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
+
+The following are representative examples of Adalat labeling.
 See the "How Supplied" section for a complete listing of all components.

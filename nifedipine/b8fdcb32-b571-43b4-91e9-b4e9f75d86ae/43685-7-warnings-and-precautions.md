@@ -27,35 +27,39 @@ Patients with tight aortic stenosis may be at greater risk for such an event, as
 
 # PRECAUTIONS
 
-## General
+## General-Hypotension:
 
-### Hypotension
-
-Because nifedipine decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of ADALAT CC is suggested.
+Because nifedipine decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of Adalat CC is suggested.
 Close observation is especially recommended for patients already taking medications that are known to lower blood pressure (See WARNINGS).
 
-### Peripheral Edema
+## Peripheral Edema:
 
-Mild to moderate peripheral edema occurs in a dose-dependent manner with ADALAT CC.
+Mild to moderate peripheral edema occurs in a dose-dependent manner with Adalat CC.
 The placebo subtracted rate is approximately 8% at 30 mg, 12% at 60 mg and 19% at 90 mg daily.
 This edema is a localized phenomenon, thought to be associated with vasodilation of dependent arterioles and small blood vessels and not due to left ventricular dysfunction or generalized fluid retention.
 With patients whose hypertension is complicated by congestive heart failure, care should be taken to differentiate this peripheral edema from the effects of increasing left ventricular dysfunction.
 
-## Information for Patients
+## Use in Cirrhotic Patients:
 
-ADALAT CC is an extended release tablet and should be swallowed whole and taken on an empty stomach.
+Clearance of nifedipine is reduced and systemic exposure increased in patients with cirrhosis.
+It is unknown how systemic exposure may be altered in patients with moderate or severe liver impairment.
+Careful monitoring and dose reduction may be necessary; consider initiating therapy with the lowest dose available.
+
+## Information for Patients:
+
+Adalat CC is an extended release tablet and should be swallowed whole and taken on an empty stomach.
 It should not be administered with food.
 Do not chew, divide or crush tablets.
 
-## Laboratory Tests
+## Laboratory Tests:
 
 Rare, usually transient, but occasionally significant elevations of enzymes such as alkaline phosphatase, CPK, LDH, SGOT, and SGPT have been noted.
 The relationship to nifedipine therapy is uncertain in most cases, but probable in some.
 These laboratory abnormalities have rarely been associated with clinical symptoms; however, cholestasis with or without jaundice has been reported.
-A small increase (<5%) in mean alkaline phosphatase was noted in patients treated with ADALAT CC.
+A small increase (<5%) in mean alkaline phosphatase was noted in patients treated with Adalat CC.
 This was an isolated finding and it rarely resulted in values which fell outside the normal range.
 Rare instances of allergic hepatitis have been reported with nifedipine treatment.
-In controlled studies, ADALAT CC did not adversely affect serum uric acid, glucose, cholesterol or potassium.
+In controlled studies, Adalat CC did not adversely affect serum uric acid, glucose, cholesterol or potassium.
 
 Nifedipine, like other calcium channel blockers, decreases platelet aggregation in vitro.
 Limited clinical studies have demonstrated a moderate but statistically significant decrease in platelet aggregation and increase in bleeding time in some nifedipine patients.
@@ -67,16 +71,21 @@ Positive direct Coombs’ test with or without hemolytic anemia has been reporte
 Although nifedipine has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect in certain cases, rare reversible elevations in BUN and serum creatinine have been reported in patients with pre-existing chronic renal insufficiency.
 The relationship to nifedipine therapy is uncertain in most cases but probable in some.
 
-## Drug Interactions
-
-### Beta-adrenergic blocking agents
-
-(See WARNINGS.)
+## Drug Interactions:
 
 Nifedipine is mainly eliminated by metabolism and is a substrate of CYP3A.
-Inhibitors and inducers of CYP3A4 can impact the exposure to nifedipine and consequently its desirable and undesirable effects.
+Inhibitors and inducers of CYP3A can impact the exposure to nifedipine and consequently its desirable and undesirable effects.
 In vitro and in vivo data indicate that nifedipine can inhibit the metabolism of drugs that are substrates of CYP3A, thereby increasing the exposure to other drugs.
 Nifedipine is a vasodilator, and co-administration of other drugs affecting blood pressure may result in pharmacodynamic interactions.
+
+### CYP3A inhibitors
+
+CYP3A inhibitors such as ketoconazole, fluconazole, itraconazole, clarithromycin, erythromycin, grapefruit, nefazodone, saquinavir, indinavir, nelfinavir, and ritonavir may result in increased exposure to nifedipine when co-administered.
+Careful monitoring and dose adjustment may be necessary; consider initiating nifedipine at the lowest dose available if given concomitantly with these medications.
+
+### Strong CYP3A inducers
+
+Strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, phenytoin, carbamazepine, and St. John’s Wort reduce the bioavailability and efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (See CONTRAINDICATIONS).
 
 ### Cardiovascular Drugs
 
@@ -88,7 +97,7 @@ The heart rate in the initial interval after drug administration was increased b
 The exposure to quinidine was not importantly changed in the presence of nifedipine.
 Monitoring of heart rate and adjustment of the nifedipine dose, if necessary, are recommended when quinidine is added to a treatment with nifedipine.
 
-Flecainide: There has been too little experience with the co-administration of TAMBOCOR with nifedipine to recommend concomitant use.
+Flecainide: There has been too little experience with the co-administration of Tambocor with nifedipine to recommend concomitant use.
 
 Calcium Channel Blockers
 
@@ -115,7 +124,7 @@ Because candesartan is not significantly metabolized by the cytochrome P450 syst
 
 #### Beta-blockers
 
-ADALAT CC was well tolerated when administered in combination with beta-blockers in 187 hypertensive patients in a placebo-controlled clinical trial.
+Adalat CC was well tolerated when administered in combination with beta-blockers in 187 hypertensive patients in a placebo-controlled clinical trial.
 However, there have been occasional literature reports suggesting that the combination nifedipine and beta-adrenergic blocking drugs may increase the likelihood of congestive heart failure, severe hypotension or exacerbation of angina in patients with cardiovascular disease.
 Clinical monitoring is recommended and a dose adjustment of nifedipine should be considered.
 
@@ -131,7 +140,8 @@ Blood pressure should be monitored when doxazosin is co-administered with nifedi
 
 #### Digitalis
 
-Digoxin: Since there have been isolated reports of patients with elevated digoxin levels, and there is a possible interaction between digoxin and ADALAT CC, it is recommended that digoxin levels be monitored when initiating, adjusting and discontinuing ADALAT CC to avoid possible over- or under- digitalization.
+Digoxin: The simultaneous administration of nifedipine and digoxin may lead to reduced clearance resulting in an increase in plasma concentrations of digoxin.
+Since there have been isolated reports of patients with elevated digoxin levels, and there is a possible interaction between digoxin and Adalat CC, it is recommended that digoxin levels be monitored when initiating, adjusting and discontinuing Adalat CC to avoid possible over- or under- digitalization.
 
 #### Antithrombotics
 
@@ -143,6 +153,10 @@ However the relationship to nifedipine therapy is uncertain.
 Clopidogrel: No clinically significant pharmacodynamic interactions were observed when clopidrogrel was co-administered with nifedipine.
 
 Tirofiban: Co-administration of nifedipine did not alter the exposure to tirofiban importantly.
+
+#### Other
+
+Diuretics, PDE5 inhibitors, alpha-methyldopa: Nifedipine may increase the blood pressure lowering effect of these concomitantly administered agents.
 
 ### Non-Cardiovascular Drugs
 
@@ -182,12 +196,12 @@ Blood pressure should be monitored and reduction of the dose of nifedipine consi
 
 #### Antitubercular Drugs
 
-Rifampin: Pretreatment of healthy volunteers with 600 mg/day rifampin p.o. decreased the exposure to oral nifedipine (20 μg/kg) to 13%.
-The exposure to intravenous nifedipine by the same rifampin treatment was decreased to 70%.
-Dose adjustment of nifedipine may be necessary if nifedipine is co-administered with rifampin.
-
-Rifapentine: Rifapentine, as an inducer of CYP3A4, can decrease the exposure to nifedipine.
-A dose adjustment of nifedipine when co-administered with rifapentine should be considered.
+Strong CYP3A inducers, such as rifampin, rifapentin, and rifabutin reduce the bioavailability of nifedipine which may reduce the efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (See CONTRAINDICATIONS).
+The impact of multiple oral doses of 600 mg rifampin on the pharmacokinetics of nifedipine after a single oral dose of 20 mg nifedipine capsule was evaluated in a clinical study.
+Twelve healthy male volunteers received a single oral dose of 20 mg nifedipine capsule on study Day 1.
+Starting on study Day 2, the subjects received 600 mg rifampin once daily for 14 days.
+On study Day 15, a second single oral dose of 20 mg nifedipine capsule was administered together with the last dose of rifampin.
+Compared to study Day 1, 14 days pretreatment with rifampin reduced Cmax and AUC of concomitantly administered nifedipine on average by 95% and 97%, respectively.
 
 #### Antiviral Drugs
 
@@ -199,15 +213,16 @@ Caution is warranted and clinical monitoring of patients recommended.
 Nefazodone, a CYP3A inhibitor, can inhibit the metabolism of nifedipine and increase the exposure to nifedipine during concomitant therapy.
 Blood pressure should be monitored and a reduction of the dose of nifedipine considered.
 
+Fluoxetine, a CYP3A inhibitor, can inhibit the metabolism of nifedipine and increase the exposure to nifedipine during concomitant therapy.
+Blood pressure should be monitored and a reduction of the dose of nifedipine considered.
+
 Valproic acid may increase the exposure to nifedipine during concomitant therapy.
 Blood pressure should be monitored and a dose reduction of nifedipine considered.
 
-Phenytoin: Nifedipine is metabolized by CYP3A4.
-Co-administration of nifedipine 10 mg capsule and 60 mg nifedipine coat-core tablet with phenytoin, an inducer of CYP3A4, lowered the AUC and Cmax of nifedipine by approximately 70%.
-When using nifedipine with phenytoin, the clinical response to nifedipine should be monitored and its dose adjusted if necessary.
-
-Phenobarbitone and carbamazepine as inducers of CYP3A can decrease the exposure to nifedipine.
-Dose adjustment of nifedipine may be necessary if phenobarbitone, carbamazepine or phenytoin is co-administered.
+Phenytoin, Phenobarbital, and Carbamazepine: Nifedipine is metabolized by CYP3A.
+Co-administration of nifedipine 10 mg capsule and 60 mg nifedipine coat-core tablet with phenytoin, an inducer of CYP3A, lowered the AUC and Cmax of nifedipine by approximately 70%.
+Phenobarbital and carbamazepine are also inducers of CYP3A.
+Alternative antihypertensive therapy should be considered in patients taking phenytoin, phenobarbital, and carbamazepine.
 
 #### Antiemetic Drugs
 
@@ -215,7 +230,8 @@ Dolasetron: In patients taking dolasetron by the oral or intravenous route and n
 
 #### Immunosuppressive Drugs
 
-Tacrolimus: Nifedipine has been shown to inhibit the metabolism of tacrolimus in vitro.
+Tacrolimus: Tacrolimus has been shown to be metabolized via the CYP3A system.
+Nifedipine has been shown to inhibit the metabolism of tacrolimus in vitro.
 Transplant patients on tacrolimus and nifedipine required from 26% to 38% smaller doses than patients not receiving nifedipine.
 Nifedipine can increase the exposure to tacrolimus.
 When nifedipine is co-administered with tacrolimus the blood concentrations of tacrolimus should be monitored and a reduction of the dose of tacrolimus considered.
@@ -254,39 +270,45 @@ The intake of grapefruit juice should be stopped at least 3 days prior to initia
 
 #### Herbals
 
-St. John’s Wort: Is an inducer of CYP3A4 and may decrease the exposure to nifedipine.
-Dose adjustment of nifedipine may be necessary if St. John’s Wort is co-administered.
+St. John’s Wort: St. John’s Wort is an inducer of CYP3A and may decrease exposure to nifedipine.
+Alternative antihypertensive therapy should be considered in patients in whom St. John’s Wort therapy is necessary.
 
-CYP2D6 Probe Drug
+#### CYP2D6 Probe Drug
 
 Debrisoquine: In healthy volunteers, pretreatment with nifedipine 20 mg t.i.d. for 5 days did not change the metabolic ratio of hydroxydebrisoquine to debrisoquine measured in urine after a single dose of 10 mg debrisoquine.
 Thus, it is improbable that nifedipine inhibits in vivo the metabolism of other drugs that are substrates of CYP2D6.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Nifedipine was administered orally to rats for two years and was not shown to be carcinogenic.
 When given to rats prior to mating, nifedipine caused reduced fertility at a dose approximately 30 times the maximum recommended human dose.
 There is a literature report of reversible reduction in the ability of human sperm obtained from a limited number of infertile men taking recommended doses of nifedipine to bind to and fertilize an ovum in vitro.
 In vivo mutagenicity studies were negative.
 
-## Pregnancy
+## Pregnancy:
 
-Pregnancy Category C. In rodents, rabbits and monkeys, nifedipine has been shown to have a variety of embryotoxic, placentotoxic and fetotoxic effects, including stunted fetuses (rats, mice and rabbits), digital anomalies (rats and rabbits), rib deformities (mice), cleft palate (mice), small placentas and underdeveloped chorionic villi (monkeys), embryonic and fetal deaths (rats, mice and rabbits), prolonged pregnancy (rats; not evaluated in other species), and decreased neonatal survival (rats; not evaluated in other species).
+### Pregnancy Category C.
+
+In rodents, rabbits and monkeys, nifedipine has been shown to have a variety of embryotoxic, placentotoxic, teratogenic and fetotoxic effects, including stunted fetuses (rats, mice and rabbits), digital anomalies (rats and rabbits), rib deformities (mice), cleft palate (mice), small placentas and underdeveloped chorionic villi (monkeys), embryonic and fetal deaths (rats, mice and rabbits), prolonged pregnancy (rats; not evaluated in other species), and decreased neonatal survival (rats; not evaluated in other species).
 On a mg/kg or mg/m2 basis, some of the doses associated with these various effects are higher than the maximum recommended human dose and some are lower, but all are within an order of magnitude of it.
 
 The digital anomalies seen in nifedipine-exposed rabbit pups are strikingly similar to those seen in pups exposed to phenytoin, and these are in turn similar to the phalangeal deformities that are the most common malformation seen in human children with in utero exposure to phenytoin.
 
-There are no adequate and well-controlled studies in pregnant women.
-ADALAT CC should generally be avoided during pregnancy and used only if the potential benefit justifies the potential risk to the fetus.
+From the clinical evidence available, a specific prenatal risk has not been identified.
+However, an increase in perinatal asphyxia, caesarean delivery, prematurity and intrauterine growth retardation have been reported.
 
-## Nursing Mothers
+Careful monitoring of blood pressure must be exercised in pregnant women, when administering nifedipine in combination with IV magnesium sulfate due to the possibility of an excessive fall in blood pressure which could harm the mother and fetus.
+
+There are no adequate and well-controlled studies in pregnant women.
+
+## Nursing Mothers:
 
 Nifedipine is excreted in human milk.
-Therefore, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Nursing mothers are advised not to breastfeed their babies when taking the drug.
 
 ## Pediatric Use
 
-The safety and effectiveness of ADALAT CC in pediatric patients have not been established.
+The safety and effectiveness of Adalat CC in pediatric patients have not been established.
 
 ## Geriatric Use
 

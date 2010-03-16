@@ -1,11 +1,11 @@
 # ADVERSE EXPERIENCES
 
-The incidence of adverse events during treatment with ADALAT CC in doses up to 90 mg daily were derived from multi-center placebo-controlled clinical trials in 370 hypertensive patients.
-Atenolol 50 mg once daily was used concomitantly in 187 of the 370 patients on ADALAT CC and in 64 of the 126 patients on placebo.
-All adverse events reported during ADALAT CC therapy were tabulated independently of their causal relationship to medication.
+The incidence of adverse events during treatment with Adalat CC in doses up to 90 mg daily were derived from multi-center placebo-controlled clinical trials in 370 hypertensive patients.
+Atenolol 50 mg once daily was used concomitantly in 187 of the 370 patients on Adalat CC and in 64 of the 126 patients on placebo.
+All adverse events reported during Adalat CC therapy were tabulated independently of their causal relationship to medication.
 
-The most common adverse event reported with ADALAT CC was peripheral edema.
-This was dose related and the frequency was 18% on ADALAT CC 30 mg daily, 22% on ADALAT CC 60 mg daily and 29% on ADALAT CC 90 mg daily versus 10% on placebo.
+The most common adverse event reported with Adalat CC was peripheral edema.
+This was dose related and the frequency was 18% on Adalat CC 30 mg daily, 22% on Adalat CC 60 mg daily and 29% on Adalat CC 90 mg daily versus 10% on placebo.
 
 Other common adverse events reported in the above placebo-controlled trials include:
 
@@ -20,7 +20,7 @@ Other common adverse events reported in the above placebo-controlled trials incl
 | Nausea | 2 | 1 |
 | Constipation | 1 | 0 |
 
-Where the frequency of adverse events with ADALAT CC and placebo is similar, causal relationship cannot be established.
+Where the frequency of adverse events with Adalat CC and placebo is similar, causal relationship cannot be established.
 
 The following adverse events were reported with an incidence of 3% or less in daily doses up to 90 mg:
 

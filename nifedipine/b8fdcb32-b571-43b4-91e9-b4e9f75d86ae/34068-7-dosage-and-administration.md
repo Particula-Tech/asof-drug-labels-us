@@ -1,15 +1,15 @@
 # DOSAGE AND ADMINISTRATION
 
 Dosage should be adjusted according to each patient’s needs.
-It is recommended that ADALAT CC be administered orally once daily on an empty stomach.
-ADALAT CC is an extended release dosage form and tablets should be swallowed whole, not bitten or divided.
+It is recommended that Adalat CC be administered orally once daily on an empty stomach.
+Adalat CC is an extended release dosage form and tablets should be swallowed whole, not bitten or divided.
 In general, titration should proceed over a 7-14 day period starting with 30 mg once daily.
 Upward titration should be based on therapeutic efficacy and safety.
 The usual maintenance dose is 30 mg to 60 mg once daily.
 Titration to doses above 90 mg daily is not recommended.
 
-If discontinuation of ADALAT CC is necessary, sound clinical practice suggests that the dosage should be decreased gradually with close physician supervision.
+If discontinuation of Adalat CC is necessary, sound clinical practice suggests that the dosage should be decreased gradually with close physician supervision.
 
 Co-administration of nifedipine with grapefruit juice is to be avoided (See CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
-Care should be taken when dispensing ADALAT CC to assure that the extended release dosage form has been prescribed.
+Care should be taken when dispensing Adalat CC to assure that the extended release dosage form has been prescribed.
