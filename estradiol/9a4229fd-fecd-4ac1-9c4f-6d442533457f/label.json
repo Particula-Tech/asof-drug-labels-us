@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA085470"
+  ],
+  "inn": "estradiol",
+  "labeler": "Pharmacia and Upjohn Company",
+  "package_ndcs": [
+    "0009-0271-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "estradiol cypionate",
+      "name": "Depo-Estradiol"
+    }
+  ],
+  "setid": "9a4229fd-fecd-4ac1-9c4f-6d442533457f",
+  "source": "dailymed"
+}
