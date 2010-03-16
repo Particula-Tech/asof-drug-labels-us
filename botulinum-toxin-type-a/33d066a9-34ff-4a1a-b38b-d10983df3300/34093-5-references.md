@@ -16,4 +16,4 @@
 8. Data on file, Allergan, Inc. A randomized, multicenter, double-blind, parallel clinical trial to compare the safety and efficacy of BOTOX® (botulinum toxin type A) purified neurotoxin complex manufactured from neurotoxin complex batch BCB2024 to that manufactured from neurotoxin complex batch 79-11 in blepharospasm patients.
    1997.
 
-71829US10A
+71829US11A

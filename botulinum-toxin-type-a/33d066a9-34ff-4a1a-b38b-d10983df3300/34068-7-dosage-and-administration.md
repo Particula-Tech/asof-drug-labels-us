@@ -111,7 +111,7 @@ Draw up the proper amount of diluent in the appropriate size syringe, and slowly
 Discard the vial if a vacuum does not pull the diluent into the vial.
 Gently mix BOTOX® with the saline by rotating the vial.
 Record the date and time of reconstitution on the space on the label.
-BOTOX® should be administered within four hours after reconstitution.
+Administer the 200 Unit vial of BOTOX® within 4 hours, or the 100 Unit vial within 24 hours after reconstitution.
 
 During this time period, reconstituted BOTOX® should be stored in a refrigerator (2° to 8°C).
 Reconstituted BOTOX® should be clear, colorless, and free of particulate matter.
@@ -126,3 +126,6 @@ Dilution Table
 | 4 mL | 5 Units | 4 mL | 2.5 Units |
 | 8 mL | 2.5 Units | 8 mL | 1.25 Units |
 | 10 mL | 2 Units | 10mL | 1 Unit |
+
+Note: These dilutions are calculated for an injection volume of 0.1 mL.
+A decrease or increase in the BOTOX® dose is also possible by administering a smaller or larger injection volume - from 0.05 mL (50% decrease in dose) to 0.15 mL (50% increase in dose).
