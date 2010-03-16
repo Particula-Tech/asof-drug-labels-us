@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075340"
+  ],
   "inn": "hydroxyurea",
   "labeler": "Par Pharmaceutical, Inc.",
   "package_ndcs": [
     "49884-724-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "Hydroxyurea"
+    }
+  ],
   "setid": "9e1bdd4b-043a-4cf6-b1ff-8de49e02b7a6",
   "source": "dailymed"
 }
