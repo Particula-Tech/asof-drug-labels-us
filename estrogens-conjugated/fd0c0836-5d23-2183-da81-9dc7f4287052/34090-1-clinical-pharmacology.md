@@ -76,7 +76,7 @@ Food-Effect: Single dose studies in healthy, postmenopausal women were conducted
 Administration with food decreased the Cmax of total estrone by 18 to 34 percent and increased total equilin Cmax by 38 percent compared to the fasting state, with no other effect on the rate or extent of absorption of other conjugated or unconjugated estrogens.
 Administration with food approximately doubles MPA Cmax and increases MPA AUC by approximately 20 to 30 percent.
 
-Dose Proportionality: The Cmax and AUC values for MPA observed in two separate pharmacokinetic studies conducted with 2 PREMPRO 0.625 mg/2.5 mg or 2 PREMPRO or PREMPHASE 0.625 mg/5 mg tablets exhibited nonlinear dose proportionality; doubling the MPA dose from 2 x 2.5 to 2 x 5 mg increased the mean Cmax and AUC by 3.2- and 2.8-folds, respectively.
+Dose Proportionality: The Cmax and AUC values for MPA observed in two separate pharmacokinetic studies conducted with 2 PREMPRO 0.625 mg/2.5 mg or 2 PREMPRO or PREMPHASE 0.625 mg/5 mg tablets exhibited nonlinear dose proportionality; doubling the MPA dose from 2 x 2.5 to 2 x 5 mg increased the mean Cmax and AUC by 3.2- and 2.8-fold, respectively.
 
 The dose proportionality of estrogens and medroxyprogesterone acetate was assessed by combining pharmacokinetic data across another two studies totaling 61 healthy, postmenopausal women.
 Single conjugated estrogens doses of 2 x 0.3 mg, 2 x 0.45 mg, or 2 x 0.625 mg were administered either alone or in combination with medroxyprogesterone acetate doses of 2 x 1.5 mg or 2 x 2.5 mg.

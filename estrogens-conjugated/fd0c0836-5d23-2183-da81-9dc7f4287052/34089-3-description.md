@@ -2,7 +2,7 @@
 
 Premarin (conjugated estrogens tablets, USP) for oral administration contains a mixture obtained exclusively from natural sources, occurring as the sodium salts of water-soluble estrogen sulfates blended to represent the average composition of material derived from pregnant mares' urine.
 It is a mixture of sodium estrone sulfate and sodium equilin sulfate.
-It contains as concomitant components, as sodium sulfate conjugates, 17 α-dihydroequilin, 17 α-estradiol and 17 β-dihydroequilin.
+It contains as concomitant components, as sodium sulfate conjugates, 17 α-dihydroequilin, 17 α‑estradiol and 17 β-dihydroequilin.
 
 Medroxyprogesterone acetate is a derivative of progesterone.
 It is a white to off-white, odorless, crystalline powder, stable in air, melting between 200°C and 210°C.

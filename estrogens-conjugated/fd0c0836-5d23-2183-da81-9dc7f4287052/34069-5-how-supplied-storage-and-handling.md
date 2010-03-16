@@ -35,4 +35,4 @@ The appearance of the conjugated estrogens/medroxyprogesterone acetate combinati
 
 ## 16.2 Storage and Handling
 
-Store at 20° - 25°C (68° - 77°F); excursions permitted to 15°- 30°C (59°- 86°F) [see USP Controlled Room Temperature].
+Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].

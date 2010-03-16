@@ -59,14 +59,14 @@ TABLE 7: INCIDENCE OF ENDOMETRIAL HYPERPLASIA/CANCERa AFTER ONE YEAR OF TREATMEN
 | Total number of patients | 331 | 348 | 331 | 338 | 327 | 326 |
 | Number of patients with evaluable biopsies | 278 | 249 | 272 | 279 | 271 | 269 |
 | No. (%) of patients with biopsies: |  |  |  |  |  |  |
-| • Hyperplasia/cancera (consensusc) | 0 (0)d | 20 (8) | 1 (<1)a,d | 9 (3) | 1 (<1)e | 1(<1)a |
+| • Hyperplasia/cancera (consensusc) | 0 (0)d | 20 (8) | 1 (<1)a,d | 9 (3) | 1 (<1)e | 1 (<1)a |
 | a All cases of hyperplasia/cancer were endometrial hyperplasia, except for 1 patient in the Premarin 0.3 mg group diagnosed with endometrial cancer based on endometrial biopsy and 1 patient in the Premarin/MPA 0.45 mg/1.5 mg group diagnosed with endometrial cancer based on endometrial biopsy.b Two (2) primary pathologists evaluated each endometrial biopsy. Where there was lack of agreement on the presence or absence of hyperplasia/cancer between the two, a third pathologist adjudicated (consensus).c For an endometrial biopsy to be counted as consensus endometrial hyperplasia or cancer, at least 2 pathologists had to agree on the diagnosis.d Significant (p < 0.05) in comparison with corresponding dose of Premarin alone.e Non-significant in comparison with corresponding dose of Premarin alone. |  |  |  |  |  |  |
 
 TABLE 8: OSTEOPOROSIS AND METABOLIC SUBSTUDY, INCIDENCE OF ENDOMETRIAL HYPERPLASIA/CANCERa AFTER TWO YEARS OF TREATMENTb
 
 |  | -------------------------------Groups------------------------------ |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Prempro 0.625 mg/ 2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/ 1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/ 1.5 mg | Premarin 0.3 mg |
+| Patient | Prempro 0.625 mg/ 2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/ 1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/ 1.5 mg | Premarin 0.3 mg |
 | Total number of patients | 75 | 65 | 75 | 74 | 79 | 73 |
 | Number of patients with evaluable biopsies | 62 | 55 | 69 | 67 | 75 | 63 |
 | No. (%) of patients with biopsies: |  |  |  |  |  |  |

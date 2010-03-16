@@ -29,7 +29,7 @@ Subgroup analyses of women 50 to 59 years of age suggest a statistically non-sig
 In postmenopausal women with documented heart disease (n = 2,763), average age 66.7 years, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
 There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during subsequent years.
-Two thousand, three hundred and twenty one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
+Two thousand, three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
 Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
 Rates of CHD events were comparable among women in the CE (0.625 mg) plus MPA (2.5 mg) group and the placebo group in HERS, HERS II, and overall.
 
@@ -74,7 +74,7 @@ Metastatic disease was rare, with no apparent difference between the two groups.
 Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups [see Clinical Studies (14.6)].
 
 The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the Women's Health Initiative (WHI) substudy of daily CE (0.625 mg).
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg) was not associated with an increased risk of invasive breast cancer [relative risk RR) 0.80]6 [see Clinical Studies (14.6)].
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg) was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]6 [see Clinical Studies (14.6)].
 
 Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
@@ -169,15 +169,19 @@ Estrogen therapy should be used with caution in women with hypoparathyroidism as
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.
 For women known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-## 5.15 Exacerbation of Other Conditions
+## 5.15 Angioedema
+
+Exogenous estrogens may induce or exacerbate symptoms of angioedema, particularly in women with hereditary angioedema.
+
+## 5.16 Exacerbation of Other Conditions
 
 Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
-## 5.16 Laboratory Tests
+## 5.17 Laboratory Tests
 
 Serum follicle stimulating hormone and estradiol levels have not been shown to be useful in the management of moderate to severe vasomotor symptoms and moderate to severe symptoms of vulvar and vaginal atrophy.
 
-## 5.17 Drug-Laboratory Test Interactions
+## 5.18 Drug-Laboratory Test Interactions
 
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
