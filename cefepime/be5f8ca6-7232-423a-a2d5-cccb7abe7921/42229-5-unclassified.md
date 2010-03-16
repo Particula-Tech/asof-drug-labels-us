@@ -4,8 +4,8 @@ Baxter Healthcare Corporation
 
 Deerfield, IL 60015
 
-Baxter and Galaxy are trademarks of Baxter International Inc.
+Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-CLINITEST is a registered trademark of Miles, Inc.
+Clinitest is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-CLINISTIX is a registered trademark of Bayer Corporation.
+Clinistix is a registered trademark of Bayer Healthcare LLC.

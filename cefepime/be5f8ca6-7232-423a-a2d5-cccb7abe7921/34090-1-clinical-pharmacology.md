@@ -2,7 +2,7 @@
 
 Cefepime is an antibacterial agent belonging to the cephalosporin class of antibacterials with in vitro antibacterial activity against facultative Gram-positive and Gram-negative bacteria.
 
-## 12.1 Mechanism of Action
+## 12.1 Mechanism Of Action
 
 Cefepime is an antibacterial drug.
 [See Clinical Pharmacology (12.4)]
@@ -78,7 +78,7 @@ Cefepime total body clearance decreased proportionally with creatinine clearance
 
 Patients with Hepatic Impairment
 
-The pharmacokinetics of cefepime were unaltered in patients with impaired hepatic function who received a single 1 g dose (n=11).
+The pharmacokinetics of cefepime were unaltered in patients with hepatic impairment who received a single 1 g dose (n=11).
 
 Geriatric Patients
 
@@ -98,9 +98,9 @@ The exposure to cefepime following a 50 mg per kg intravenous dose in a pediatri
 ## 12.4 Microbiology
 
 Cefepime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
-Cefepime has a broad spectrum of in vitro activity that encompasses a wide range of gram-positive and gram-negative bacteria.
+Cefepime has a broad spectrum of in vitro activity that encompasses a wide range of Gram-positive and Gram-negative bacteria.
 Cefepime has a low affinity for chromosomally-encoded beta-lactamases.
-Cefepime is highly resistant to hydrolysis by most beta-lactamases and exhibits rapid penetration into gram-negative bacterial cells.
+Cefepime is highly resistant to hydrolysis by most beta-lactamases and exhibits rapid penetration into Gram-negative bacterial cells.
 Within bacterial cells, the molecular targets of cefepime are the penicillin binding proteins (PBP).
 
 Cefepime has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
@@ -139,9 +139,9 @@ Table 8
 | Microorganism | Susceptible (S) | Intermediate (I) | Resistant (R) |
 | --- | --- | --- | --- |
 |  | MIC (mcg/mL) |  |  |
-| Microorganisms other than Haemophilus spp.NOTE: Isolates from these species should be tested for susceptibility using specialized dilution testing methods.2 Also, strains of Haemophilus spp. with MICs greater than 2 mcg/mL should be considered equivocal and should be further evaluated. and S. pneumoniae | ≤8 | 16 | ≥32 |
+| Microorganisms other than Haemophilus spp.NOTE: Isolates from these species should be tested for susceptibility using specialized dilution testing methods.2 Also, isolates of Haemophilus spp. with MICs greater than 2 mcg/mL should be considered equivocal and should be further evaluated. and Streptococcus pneumoniae | ≤8 | 16 | ≥32 |
 | Haemophilus spp. | ≤2 | – | – |
-| Streptococcus pneumoniae | ≤0.5 | 1 | ≥2 |
+| S. pneumoniae | ≤0.5 | 1 | ≥2 |
 
 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.

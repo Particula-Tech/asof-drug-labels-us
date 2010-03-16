@@ -21,7 +21,7 @@ Table 1: Recommended Dosage Schedule for Cefepime Injection in Patients with CrC
 
 ## 2.2 Patients with Hepatic Impairment
 
-No adjustment is necessary for patients with impaired hepatic function.
+No adjustment is necessary for patients with hepatic impairment.
 
 ## 2.3 Patients with Renal Impairment
 
@@ -93,5 +93,5 @@ Cefepime Injection should be administered intravenously over approximately 30 mi
 Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
 However, during infusion of Cefepime Injection, it is desirable to discontinue the other solution.
 
-Solutions of cefepime, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg/mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate or aminophylline because of potential interaction.
+Solutions of cefepime, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate or aminophylline because of potential interaction.
 However, if concurrent therapy with cefepime is indicated, each of these antibiotics can be administered separately.

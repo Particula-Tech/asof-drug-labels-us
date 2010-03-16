@@ -7,7 +7,7 @@ Pregnancy Category B. Cefepime was not teratogenic or embryocidal when administe
 There are, however, no adequate and well-controlled studies of cefepime use in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## 8.2 Labor and Delivery
+## 8.2 Labor And Delivery
 
 Cefepime has not been studied for use during labor and delivery.
 Treatment should only be given if clearly indicated.

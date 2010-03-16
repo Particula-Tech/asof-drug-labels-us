@@ -23,7 +23,7 @@ Table 12: Demographics of Evaluable Patients (First Episodes Only)
 | Prophylactic antibiotics | 62 (38%) | 64 (42%) |
 | Bone marrow graft | 9 (5%) | 7 (5%) |
 | SBP less than 90 mm Hg at entry | 7 (4%) | 2 (1%) |
-| ANC = absolute neutrophil count; SBP = systolic blood pressure. |  |  |
+| ANC = absolute neutrophil count; SBP = systolic blood pressure |  |  |
 
 Table 13 describes the clinical response rates observed.
 For all outcome measures, cefepime was therapeutically equivalent to ceftazidime.
@@ -47,7 +47,7 @@ No data are available in patients with septic shock.
 
 Patients hospitalized with complicated intra-abdominal infections participated in a randomized, double-blind, multicenter trial comparing the combination of cefepime (2 g every 12 hours) plus intravenous metronidazole (500 mg every 6 hours) versus imipenem/cilastatin (500 mg every 6 hours) for a maximum duration of 14 days of therapy.
 The study was designed to demonstrate equivalence of the two therapies.
-The primary analyses were conducted on the protocol-valid population, which consisted of those with a surgically confirmed complicated infection, at least one pathogen isolated pretreatment, at least 5 days of treatment, and a 4-6 week follow-up assessment for cured patients.
+The primary analyses were conducted on the protocol-valid population, which consisted of those with a surgically confirmed complicated infection, at least one pathogen isolated pretreatment, at least 5 days of treatment, and a 4 to 6 week follow-up assessment for cured patients.
 Subjects in the imipenem/cilastatin arm had higher APACHE II scores at baseline.
 The treatment groups were otherwise generally comparable with regard to their pretreatment characteristics.
 The overall clinical cure rate among the protocol-valid patients was 81% (51 cured/63 evaluable patients) in the cefepime plus metronidazole group and 66% (62/94) in the imipenem/cilastatin group.
