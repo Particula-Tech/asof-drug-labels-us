@@ -6,6 +6,9 @@ Dosages of MARCAINE Spinal should be reduced for elderly and debilitated patient
 
 For specific techniques and procedures, refer to standard textbooks.
 
+There have been adverse event reports of chondrolysis in patients receiving intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures.
+MARCAINE Spinal is not approved for this use (see WARNINGS and DOSAGE AND ADMINISTRATION).
+
 The extent and degree of spinal anesthesia depend upon several factors including dosage, specific gravity of the anesthetic solution, volume of solution used, force of injection, level of puncture, and position of the patient during and immediately after injection.
 
 Seven and one-half mg (7.5 mg or 1 mL) MARCAINE Spinal has generally proven satisfactory for spinal anesthesia for lower extremity and perineal procedures including TURP and vaginal hysterectomy.

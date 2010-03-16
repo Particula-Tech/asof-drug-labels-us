@@ -5,7 +5,7 @@ It has the following structural formula:
 
 Dextrose is D-glucopyranose monohydrate and has the following structural formula:
 
-MARCAINE® Spinal is available in sterile hyperbaric solution for subarachnoid injection (spinal block).
+MARCAINETM Spinal is available in sterile hyperbaric solution for subarachnoid injection (spinal block).
 
 Bupivacaine hydrochloride is related chemically and pharmacologically to the aminoacyl local anesthetics.
 It is a homologue of mepivacaine and is chemically related to lidocaine.
