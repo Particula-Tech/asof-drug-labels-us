@@ -23,6 +23,8 @@ The presence of this haze does not affect the quality of the product.
 
 Rapamune Tablets are available as follows:
 
+- NDC 0008-1040-05, 0.5 mg, tan, triangular-shaped tablets marked “RAPAMUNE 0.5 mg” on one side; bottle containing 100 tablets.
+- NDC 0008-1040-10, 0.5 mg, tan, triangular-shaped tablets marked “RAPAMUNE 0.5 mg” on one side; in Redipak® cartons of 100 tablets (10 blister cards of 10 tablets each).
 - NDC 0008-1041-05, 1 mg, white, triangular-shaped tablets marked “RAPAMUNE 1 mg” on one side; bottle containing 100 tablets.
 - NDC 0008-1041-10, 1 mg, white, triangular-shaped tablets marked “RAPAMUNE 1 mg” on one side; in Redipak® cartons of 100 tablets (10 blister cards of 10 tablets each).
 - NDC 0008-1042-05, 2 mg, yellow-to-beige triangular-shaped tablets marked “RAPAMUNE 2 mg” on one side; bottle containing 100 tablets.

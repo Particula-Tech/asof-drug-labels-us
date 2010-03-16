@@ -13,7 +13,7 @@ Bottles
 |  | 8. Always store the bottles of medication in the refrigerator. When refrigerated, a slight haze may develop in the solution. The presence of a haze does not affect the quality of the product. If this happens, bring the Rapamune Oral Solution to room temperature and shake until the haze disappears. If it is necessary to wipe clean the mouth of the bottle before returning the product to the refrigerator, wipe with a dry cloth to avoid introducing water, or any other liquid, into the bottle. |
 
 US Pat.
-Nos.: 5,100,899; 5,212,155; 5,308,847; 5,403,833; 5,536,729; 5,989,591.
+Nos.: 5,100,899; 5,145,684; 5,212,155; 5,308,847; 5,403,833; 5,536,729; 5,989,591.
 
 This product's label may have been updated.
 For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll‑free at 1‑800‑934‑5556.
@@ -38,8 +38,8 @@ Philadelphia, PA 19101
 
 MADE IN CANADA
 
-W10431C039
+W10431C041
 
 ET01
 
-Rev 11/09
+Rev 01/10

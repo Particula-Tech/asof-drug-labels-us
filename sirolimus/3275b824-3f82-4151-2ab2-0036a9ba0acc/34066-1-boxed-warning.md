@@ -7,7 +7,7 @@ Only physicians experienced in immunosuppressive therapy and management of renal
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient [see Warnings and Precautions (5.1)].
 
-- The safety and efficacy of Rapamune (sirolimus) as immunosuppressive therapy have not been established in liver or lung transplant patients, and therefore, such use is not recommended [see Warnings and Precautions (5.2,5.3)].
+- The safety and efficacy of Rapamune (sirolimus) as immunosuppressive therapy have not been established in liver or lung transplant patients, and therefore, such use is not recommended [see Warnings and Precautions (5.2, 5.3)].
 - Liver Transplantation – Excess Mortality, Graft Loss, and Hepatic Artery Thrombosis (HAT)
 
 The use of Rapamune in combination with tacrolimus was associated with excess mortality and graft loss in a study in de novo liver transplant patients.

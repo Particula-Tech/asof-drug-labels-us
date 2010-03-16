@@ -101,7 +101,7 @@ INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POS
 | Malignancy | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2-3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
-| Lymphoma/ lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0. 8 |
+| Lymphoma/ lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
 | Skin Carcinoma |  |  |  |  |  |  |
 | Any Squamous Cellc | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |
 | Any Basal Cellc | 0.7 | 2.2 | 1.5 | 1.8 | 2.5 | 5.3 |

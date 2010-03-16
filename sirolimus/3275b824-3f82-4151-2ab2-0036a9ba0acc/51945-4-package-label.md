@@ -70,6 +70,60 @@ Rx only
 
 Wyeth®
 
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 TABLETS
+
+NDC 0008-1040-05
+
+100 Tablets
+
+Rapamune®
+
+(sirolimus)
+
+0.5 mg Tablets
+
+For oral use only.
+
+Wyeth®
+
+Wyeth Pharmaceuticals Inc.
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS - REDIPAK®BLISTER
+
+NDC 00008-1040-10
+
+Rapamune®
+
+(sirolimus)
+
+Tablet 0.5 mg
+
+Wyeth®
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS – CARTON
+
+NDC 00008-1040-10
+
+Rapamune®
+
+(sirolimus)
+
+0.5 mg Tablets
+
+For oral use only
+
+Rx only
+
+10 blister cards of
+
+10 tablets each
+
+(100 tablets total)
+
+Wyeth®
+
+Wyeth Pharmaceuticals Inc.
+
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS – LABEL
 
 NDC 0008-1041-05
@@ -90,7 +144,7 @@ Rx only
 
 Wyeth®
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS - REDIPAK®CARTON
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS - REDIPAK®BLISTER
 
 NDC 0008-1041-10
 

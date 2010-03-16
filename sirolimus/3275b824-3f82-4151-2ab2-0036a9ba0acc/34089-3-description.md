@@ -9,10 +9,10 @@ The structural formula of sirolimus is illustrated as follows.
 Sirolimus is a white to off-white powder and is insoluble in water, but freely soluble in benzyl alcohol, chloroform, acetone, and acetonitrile.
 
 Rapamune is available for administration as an oral solution containing 1 mg/mL sirolimus.
-Rapamune is also available as a white, triangular-shaped tablet containing 1 mg sirolimus, and as a yellow-to-beige triangular-shaped tablet containing 2 mg sirolimus.
+Rapamune is also available as a tan, triangular-shaped tablet containing 0.5 mg sirolimus, as a white, triangular-shaped tablet containing 1 mg sirolimus, and as a yellow-to-beige triangular-shaped tablet containing 2 mg sirolimus.
 
 The inactive ingredients in Rapamune Oral Solution are Phosal 50 PG® (phosphatidylcholine, propylene glycol, mono- and di-glycerides, ethanol, soy fatty acids, and ascorbyl palmitate) and polysorbate 80.
 Rapamune Oral Solution contains 1.5% - 2.5% ethanol.
 
 The inactive ingredients in Rapamune Tablets include sucrose, lactose, polyethylene glycol 8000, calcium sulfate, microcrystalline cellulose, pharmaceutical glaze, talc, titanium dioxide, magnesium stearate, povidone, poloxamer 188, polyethylene glycol 20,000, glyceryl monooleate, carnauba wax, dl-alpha tocopherol, and other ingredients.
-The 2 mg dosage strength also contains yellow iron oxide and brown iron oxide.
+The 0.5 mg and 2 mg dosage strengths also contain yellow iron (ferric) oxide and brown iron (ferric) oxide.
