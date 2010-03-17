@@ -17,10 +17,9 @@ What should I tell my health care provider before using XOLEGEL Gel?
 - Tell your health care provider about all of your medical conditions, including if you are pregnant or planning to become pregnant.
   It is not known if XOLEGEL Gel can harm your unborn baby.
   XOLEGEL Gel should be used during pregnancy only if needed.
-- It is not known if XOLEGEL Gel passes into your breast milk or if it can harm your baby.
-- Tell your health care provider about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+- It is not known if XOLEGEL Gel passes into your breast milk or if it can harm your baby.Tell your health care provider about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
   It is not known if XOLEGEL Gel and other medicines can affect each other.
-  Know the medicines you take.
+- Know the medicines you take.
   Keep a list of your medicines and show it to your health care provider and pharmacist when you get a new medicine.
 
 How should I use XOLEGEL Gel?

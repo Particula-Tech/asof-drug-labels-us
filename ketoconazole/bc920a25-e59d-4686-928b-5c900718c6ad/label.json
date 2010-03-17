@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021946"
+  ],
   "inn": "ketoconazole",
-  "labeler": "Barrier Therapeutics, Inc.",
+  "labeler": "Stiefel Laboratories Inc",
   "package_ndcs": [
     "13478-003-01",
     "13478-003-02",
     "13478-003-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "ketoconazole",
+      "name": "Xolegel"
+    }
+  ],
   "setid": "bc920a25-e59d-4686-928b-5c900718c6ad",
   "source": "dailymed"
 }

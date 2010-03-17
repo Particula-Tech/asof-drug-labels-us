@@ -11,6 +11,10 @@ Mean (± SD) AUC0-24 values were 20.8 (± 44.7) ng•h/mL and 15.6 (± 26.4) ng�
 
 The plasma levels from an oral dose of 200 mg ketoconazole taken with a meal are approximately 250 times higher than the resulting plasma levels of ketoconazole following topical application of XOLEGEL Gel.
 
-Microbiology: Ketoconazole is an antifungal agent which, in vitro, inhibits the synthesis of ergosterol, a key sterol in the cell membrane of Malassezia furfur (also known as Pityrosporum ovale), which leads to the death of the organism.
+## Microbiology:
 
-Mode of Action: It is postulated that the therapeutic effect of ketoconazole in seborrheic dermatitis is due to the reduction of Malassezia furfur (also known as Pityrosporum ovale), but this has not been proven.
+Ketoconazole is an antifungal agent which, in vitro, inhibits the synthesis of ergosterol, a key sterol in the cell membrane of Malassezia furfur (also known as Pityrosporum ovale), which leads to the death of the organism.
+
+## Mode of Action:
+
+It is postulated that the therapeutic effect of ketoconazole in seborrheic dermatitis is due to the reduction of Malassezia furfur (also known as Pityrosporum ovale), but this has not been proven.
