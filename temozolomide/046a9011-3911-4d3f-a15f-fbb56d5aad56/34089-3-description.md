@@ -17,7 +17,7 @@ The inactive ingredients for TEMODAR Capsules are as follows:
 - TEMODAR 5 mg: lactose anhydrous (132.8 mg), colloidal silicon dioxide (0.2 mg), sodium starch glycolate (7.5 mg), tartaric acid (1.5 mg), and stearic acid (3 mg).
 - TEMODAR 20 mg: lactose anhydrous (182.2 mg), colloidal silicon dioxide (0.2 mg), sodium starch glycolate (11 mg), tartaric acid (2.2 mg), and stearic acid (4.4 mg).
 - TEMODAR 100 mg: lactose anhydrous (175.7 mg), colloidal silicon dioxide (0.3 mg), sodium starch glycolate (15 mg), tartaric acid (3 mg), and stearic acid (6 mg).
-- TEMODAR 140 mg: lactose anhydrous (246 mg), colloidal silicon dioxide (0.4 mg), sodium starch glycolate (21 mg), tartaric acid 4.2 mg), and stearic acid (8.4 mg).
+- TEMODAR 140 mg: lactose anhydrous (246 mg), colloidal silicon dioxide (0.4 mg), sodium starch glycolate (21 mg), tartaric acid (4.2 mg), and stearic acid (8.4 mg).
 - TEMODAR 180 mg: lactose anhydrous (316.3 mg), colloidal silicon dioxide (0.5 mg), sodium starch glycolate (27 mg), tartaric acid (5.4 mg), and stearic acid (10.8 mg).
 - TEMODAR 250 mg: lactose anhydrous (154.3 mg), colloidal silicon dioxide (0.7 mg), sodium starch glycolate (22.5 mg), tartaric acid (9 mg), and stearic acid (13.5 mg).
 

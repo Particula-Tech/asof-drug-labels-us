@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021029",
+    "NDA022277"
+  ],
   "inn": "temozolomide",
   "labeler": "Schering-Plough Corporation",
   "package_ndcs": [
@@ -16,7 +19,18 @@
     "0085-3004-01",
     "0085-3004-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "temozolomide",
+      "name": "TEMODAR"
+    },
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "temozolomide",
+      "name": "TEMODAR"
+    }
+  ],
   "setid": "046a9011-3911-4d3f-a15f-fbb56d5aad56",
   "source": "dailymed"
 }

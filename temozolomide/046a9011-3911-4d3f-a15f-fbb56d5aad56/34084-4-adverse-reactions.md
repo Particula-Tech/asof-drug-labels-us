@@ -67,7 +67,7 @@ When laboratory abnormalities and adverse reactions were combined, Grade 3 or Gr
 Refractory Anaplastic Astrocytoma:
 
 Tables 8 and 9 show the incidence of adverse reactions in the 158 patients in the anaplastic astrocytoma study for whom data are available.
-In the absence of a control group, it is not clear in many cases whether these reactions should be attributed to temozolomide or the patients' underlying conditions, but nausea, vomiting, fatigue, and hematologic effects appear to be clearly drug related.
+In the absence of a control group, it is not clear in many cases whether these reactions should be attributed to temozolomide or the patients' underlying conditions, but nausea, vomiting, fatigue, and hematologic effects appear to be clearly drug-related.
 The most frequently occurring adverse reactions were nausea, vomiting, headache, and fatigue.
 The adverse reactions were usually NCI Common Toxicity Criteria (CTC) Grade 1 or 2 (mild to moderate in severity) and were self-limiting, with nausea and vomiting readily controlled with antiemetics.
 The incidence of severe nausea and vomiting (CTC Grade 3 or 4) was 10% and 6%, respectively.
@@ -161,7 +161,7 @@ TABLE 9: Adverse Hematologic Effects (Grade 3 to 4) in the Anaplastic Astrocytom
 | WBC | 18/158 (11%) |
 
 TEMODAR for injection delivers equivalent temozolomide dose and exposure to both temozolomide and 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC) as the corresponding TEMODAR capsules.
-Adverse reactions probably related to treatment that were reported from the two studies with the intravenous formulation (n=35) that were not reported in studies using the TEMODAR capsules were: pain, irritation, pruritus, warmth, swelling, and erythema at infusion site as well as the following adverse reactions: petechiae and hematoma.
+Adverse reactions probably related to treatment that were reported from the 2 studies with the intravenous formulation (n=35) that were not reported in studies using the TEMODAR capsules were: pain, irritation, pruritus, warmth, swelling, and erythema at infusion site as well as the following adverse reactions: petechiae and hematoma.
 
 ## 6.2 Postmarketing Experience
 

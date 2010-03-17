@@ -12,7 +12,7 @@ Absorption:
 
 Temozolomide is rapidly and completely absorbed after oral administration with a peak plasma concentration (Cmax) achieved in a median Tmax of 1 hour.
 Food reduces the rate and extent of temozolomide absorption.
-Mean peak plasma concentration and AUC decreased by 32% and 9%, respectively, and median Tmax increased by 2-fold (from 1 to 2.25 hours) when temozolomide was administered after a modified high-fat breakfast.
+Mean peak plasma concentration and AUC decreased by 32% and 9%, respectively, and median Tmax increased by 2-fold (from 1–2.25 hours) when temozolomide was administered after a modified high-fat breakfast.
 
 A pharmacokinetic study comparing oral and intravenous temozolomide in 19 patients with primary CNS malignancies showed that 150 mg/m2 TEMODAR for injection administered over 90 minutes is bioequivalent to 150 mg/m2 TEMODAR oral capsules with respect to both Cmax and AUC of temozolomide and MTIC.
 Following a single 90-minute intravenous infusion of 150 mg/m2, the geometric mean Cmax values for temozolomide and MTIC were 7.3 mcg/mL and 276 ng/mL, respectively.
