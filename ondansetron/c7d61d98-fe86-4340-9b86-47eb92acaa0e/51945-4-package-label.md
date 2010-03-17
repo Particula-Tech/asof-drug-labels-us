@@ -31,37 +31,7 @@ Made in Canada
 A023146 Rev.
 1/06
 
-NDC 0173-0446-04
-
-Zofran®
-
-(ondansetron hydrochloride)
-
-Tablets
-
-4 mg
-
-Rx only
-
-3 Tablets
-
-Each tablet contains 5 mg of ondansetron hydrochloride dihydrate equivalent to 4 mg of ondansetron.
-
-See package insert for Dosage and Administration.
-
-Store between 2o and 30oC (36o and 86oF).
-Protect from light.
-Store blisters in carton.
-
-Do not use if blisters are torn, broken or missing.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-©2004, GlaxoSmithKline
-
-A007693
+# Principal Display Panel
 
 NDC 0173-0569-00
 
@@ -103,3 +73,106 @@ Research Triangle Park, NC 27709
 Made in England
 
 ©2004, GlaxoSmithKline
+
+# Principal Display Panel
+
+NDC 0173-0570-00
+
+Zofran ODT®
+
+(ondansetron)
+
+Orally Disintegrating Tablets
+
+8 mg
+
+30 Tablets (3 blistercards each containing 10 tablets)
+
+Each tablet contains 8 mg ondansetron base.
+
+Store between 2o and 30oC (36o and 86oF).
+
+Phenylketonurics: Contains phenylalanine.
+
+Rx only
+
+See package insert for Dosage and Administration.
+
+Do not remove ZOFRAN ODT Orally Disintegrating Tablets from the blisterpack until immediately before use.
+When dispensed for outpatient use, the blister(s) should be provided in an appropriate child-resistant container.
+
+Do not use if blisters are torn, broken, or missing.
+
+Manufactured by Cardinal Health
+
+Blagrove, Swindon, Wiltshire, UK SN5 8RU
+
+for GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+Made in England
+
+©2004, GlaxoSmithKline
+
+# Principal Display Panel
+
+NDC 0173-0446-04
+
+Zofran®
+
+(ondansetron hydrochloride)
+
+Tablets
+
+4 mg
+
+Rx only
+
+3 Tablets
+
+Each tablet contains 5 mg of ondansetron hydrochloride dihydrate equivalent to 4 mg of ondansetron.
+
+See package insert for Dosage and Administration.
+
+Store between 2o and 30oC (36o and 86oF).
+Protect from light.
+Store blisters in carton.
+
+Do not use if blisters are torn, broken or missing.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2004, GlaxoSmithKline
+
+A007693
+
+# Principal Display Panel
+
+NDC 0173-0447-04
+
+Zofran®
+
+(ondansetron hydrochloride)
+
+Tablets 8 mg
+
+Rx only
+
+3 Tablets
+
+Each tablet contains 10 mg of ondansetron hydrochloride dihydrate equivalent to 8 mg of ondansetron.
+
+See package insert for Dosage and Administration.
+
+Do not use if blisters are torn, broken or missing.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2004, GlaxoSmithKline
+
+A008738
