@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017821"
+  ],
+  "inn": "cyclobenzaprine",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "50458-280-10",
+    "50458-874-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cyclobenzaprine hydrochloride",
+      "name": "FLEXERIL"
+    }
+  ],
+  "setid": "f1e5977e-31d2-11df-b51e-3b5856d89593",
+  "source": "dailymed"
+}
