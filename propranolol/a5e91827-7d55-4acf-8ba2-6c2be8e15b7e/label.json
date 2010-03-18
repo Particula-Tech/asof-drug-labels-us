@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021438"
+  ],
   "inn": "propranolol",
-  "labeler": "Reliant Pharmaceuticals, Inc.",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "65726-250-10",
     "65726-250-25",
@@ -12,7 +14,13 @@
     "65726-251-35",
     "65726-251-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "InnoPran XL"
+    }
+  ],
   "setid": "a5e91827-7d55-4acf-8ba2-6c2be8e15b7e",
   "source": "dailymed"
 }
