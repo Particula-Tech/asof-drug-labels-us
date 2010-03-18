@@ -41,18 +41,18 @@ Based on the area under the curve (AUC) and maximum concentration (Cmax) of both
 Table 1.
 Mean (SD) Pharmacokinetic Parameters for DUETACT
 
-| Regimen |  | N | AUC(0-inf) (ng· h/mL) | N | Cmax (ng/mL) | N | Tmax (h) | N | T1/2 (h) |
+| Regimen |  | N | AUC(0-inf) (ng∙ h/mL) | N | Cmax (ng/mL) | N | Tmax (h) | N | T1/2 (h) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 30 mg/2 mg DUETACT | pioglitazone | 58 | 11414 (2704) | 66 | 910 (336) | 66 | 1.81 (1.11) | 65 | 14.02 (6.23) |
-|  | glimepiride | 62 | 651 (239) | 66 | 156 (52.5) | 66 | 1.39 (0.29) | 63 | 7.05 (4.32) |
+| glimepiride | 62 | 651 (239) | 66 | 156 (52.5) | 66 | 1.39 (0.29) | 63 | 7.05 (4.32) |  |
 | 30 mg pioglitazone + 2 mg glimepiride tablets | pioglitazone | 58 | 11496 (2926) | 66 | 975 (367) | 66 | 1.48 (1.13) | 65 | 12.71 (5.60) |
-|  | glimepiride | 62 | 635 (240) | 66 | 165 (53.1) | 66 | 1.36 (0.35) | 63 | 5.54 (4.21) |
+| glimepiride | 62 | 635 (240) | 66 | 165 (53.1) | 66 | 1.36 (0.35) | 63 | 5.54 (4.21) |  |
 
 | 30 mg/4 mg DUETACT | pioglitazone | 55 | 11119 (3399) | 67 | 1062 (333) | 67 | 1.53 (0.81) | 67 | 10.88 (4.71) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | glimepiride | 64 | 1645 (576) | 67 | 319 (95.3) | 67 | 1.45 (0.39) | 64 | 10.52 (3.49) |
+| glimepiride | 64 | 1645 (576) | 67 | 319 (95.3) | 67 | 1.45 (0.39) | 64 | 10.52 (3.49) |  |
 | 30 mg pioglitazone + 4 mg glimepiride tablets | pioglitazone | 55 | 10674 (2895) | 67 | 1026 (346) | 67 | 1.52 (1.95) | 67 | 12.21 (6.30) |
-|  | glimepiride | 64 | 1590 (554) | 67 | 313 (97.8) | 67 | 1.76 (1.13) | 64 | 9.07 (3.47) |
+| glimepiride | 64 | 1590 (554) | 67 | 313 (97.8) | 67 | 1.76 (1.13) | 64 | 9.07 (3.47) |  |
 
 Food did not change the systemic exposures of glimepiride or pioglitazone following administration of DUETACT.
 The presence of food did not significantly alter the time to peak serum concentration of glimepiride or pioglitazone or peak exposure (Cmax) of pioglitazone.
@@ -92,7 +92,7 @@ At steady-state, in both healthy volunteers and in patients with type 2 diabetes
 
 In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone.
 The cytochrome P450 isoforms involved are CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.
-In vivo studies of pioglitazone in combination with P450 inhibitors and substrates have been performed (see PRECAUTIONS, Drug Interactions,Pioglitazone hydrochloride).
+In vivo studies of pioglitazone in combination with P450 inhibitors and substrates have been performed (see PRECAUTIONS, Drug Interactions, Pioglitazone hydrochloride).
 Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with pioglitazone showed that pioglitazone is not a strong CYP3A4 enzyme inducer.
 
 Glimepiride
@@ -151,7 +151,7 @@ Pioglitazone hydrochloride
 
 Compared with normal controls, subjects with impaired hepatic function (Child-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone mean peak concentrations but no change in the mean AUC values.
 
-Therapy with DUETACT should not be initiated if the patient exhibits clinical evidence of active liver disease or serum transaminase levels (ALT) exceed 2.5 times the upper limit of normal (see PRECAUTIONS, General:Pioglitazone hydrochloride, Hepatic Effects).
+Therapy with DUETACT should not be initiated if the patient exhibits clinical evidence of active liver disease or serum transaminase levels (ALT) exceed 2.5 times the upper limit of normal (see PRECAUTIONS, General: Pioglitazone hydrochloride, Hepatic Effects).
 
 Glimepiride
 
@@ -339,7 +339,11 @@ Glycemic Parameters in 16-Week and 24-Week Pioglitazone Hydrochloride + Sulfonyl
 | Parameter | Placebo + sulfonylurea | Pioglitazone 15 mg + sulfonylurea |  | Pioglitazone 30 mg + sulfonylurea |
 | A1C (%) Baseline mean Mean change from baseline at 16 weeks Difference in change from placebo + sulfonylurea | N=181 9.86 0.06 | N=176 10.01 -0.82*† -0.88 |  | N=182 9.93 -1.22*† -1.28 |
 | Responder rate (%) (a) | 23.8 | 56.8 |  | 74.2 |
-| FPG (mg/dL) Baseline mean Mean change from baseline at 16 weeks Difference in change from placebo + sulfonylurea Responder rate (%) (b) | N=182 236 5.6 22.0 | N=179 246.8 -33.8*† -39.4 55.3 |  | N=186 238.9 -52.3*† -57.9 67.7 |
+| FPG (mg/dL) | N=182 | N=179 |  | N=186 |
+| Baseline mean | 236 | 246.8 |  | 238.9 |
+| Mean change from baseline at 16 weeks | 5.6 | -33.8*† |  | -52.3*† |
+| Difference in change from placebo + sulfonylurea |  | -39.4 |  | -57.9 |
+| Responder rate (%) (b) | 22.0 | 55.3 |  | 67.7 |
 | Parameter | Pioglitazone 30 mg + sulfonylurea |  | Pioglitazone 45 mg + sulfonylurea |  |
 | 24-Week Study |  |  |  |  |
 | A1C (%) Baseline mean Mean change from baseline at 24 weeks | N=340 9.77 -1.55* |  | N=332 9.85 -1.67* |  |

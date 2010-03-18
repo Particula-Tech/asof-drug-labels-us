@@ -33,7 +33,7 @@ Gastrointestinal Reactions: Vomiting, gastrointestinal pain, and diarrhea have b
 In rare cases, there may be an elevation of liver enzyme levels.
 In isolated instances, impairment of liver function (e.g. with cholestasis and jaundice), as well as hepatitis, which may also lead to liver failure have been reported with sulfonylureas, including glimepiride.
 
-Dermatologic Reactions:Allergic skin reactions, e.g., pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions, occur in less than 1% of glimepiride-treated patients.
+Dermatologic Reactions: Allergic skin reactions, e.g., pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions, occur in less than 1% of glimepiride-treated patients.
 These may be transient and may disappear despite continued use of glimepiride.
 If those hypersensitivity reactions persist or worsen, the drug should be discontinued.
 Porphyria cutanea tarda, photosensitivity reactions, and allergic vasculitis have been reported with sulfonylureas.
@@ -53,7 +53,7 @@ This condition is also seen in untreated diabetic patients, and may actually be 
 
 Pioglitazone hydrochloride
 
-Hematologic:Pioglitazone may cause decreases in hemoglobin and hematocrit.
+Hematologic: Pioglitazone may cause decreases in hemoglobin and hematocrit.
 The fall in hemoglobin and hematocrit with pioglitazone appears to be dose related.
 Across all clinical studies, mean hemoglobin values declined by 2% to 4% in patients treated with pioglitazone.
 These changes generally occurred within the first 4 to 12 weeks of therapy and remained relatively stable thereafter.
@@ -82,10 +82,10 @@ Ophthalmic examinations were carried out during long-term studies using the meth
 
 Rx only
 
-ACTOS® and DUETACTTM are trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
+ACTOS® and DUETACT® are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-© 2006 Takeda Pharmaceuticals America, Inc.
+© 2006, 2009 Takeda Pharmaceuticals America, Inc.
 
-05-1152 December 2008
+July 2009 DTA0709-R7

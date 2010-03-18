@@ -75,7 +75,7 @@ In postmarketing experience with pioglitazone, cases of congestive heart failure
 Edema: In all U.S. clinical trials with pioglitazone, edema was reported more frequently in patients treated with pioglitazone than in placebo-treated patients and appears to be dose related (see ADVERSE REACTIONS, Pioglitazone hydrochloride).
 In postmarketing experience, reports of initiation or worsening of edema have been received.
 Since thiazolidinediones, including pioglitazone, can cause fluid retention, which can exacerbate or lead to congestive heart failure, DUETACT should be used with caution in patients at risk for heart failure.
-Patients should be monitored for signs and symptoms of heart failure (see BOXED WARNING,WARNINGS, Pioglitazone hydrochloride, and PRECAUTIONS, Information for Patients).
+Patients should be monitored for signs and symptoms of heart failure (see BOXED WARNING, WARNINGS, Pioglitazone hydrochloride, and PRECAUTIONS, Information for Patients).
 
 Weight Gain: Dose related weight gain was observed with pioglitazone alone and in combination with other hypoglycemic agents (Table 3).
 The mechanism of weight gain is unclear but probably involves a combination of fluid retention and fat accumulation.
@@ -83,12 +83,14 @@ The mechanism of weight gain is unclear but probably involves a combination of f
 Table 3.
 Weight Changes (kg) from Baseline During Double-Blind Clinical Trials with Pioglitazone
 
-|  |  |  | Median (25th/75thpercentile) | Median (25th/75thpercentile) | Median (25th/75thpercentile) | Median (25th/75thpercentile) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Control Group (Placebo) | pioglitazone 15 mg | pioglitazone 30 mg | pioglitazone 45 mg |
-| Monotherapy |  |  | -1.4 (-2.7/0.0) n=256 | 0.9 (-0.5/3.4) n = 79 | 1.0 (-0.9/3.4) n=188 | 2.6 (0.2/5.4) n = 79 |
-| Combination Therapy |  | Sulfonylurea Metformin Insulin | -0.5 (-1.8/0.7) n=187 -1.4 (-3.2/0.3) n=160 0.2 (-1.4/1.4) n=182 | 2.0 (0.2/3.2) n=183 N/A 2.3 (0.5/4.3) n=190 | 3.1 (1.1/5.4) n=528 0.9 (-0.3/3.2) n=567 3.3 (0.9/6.3) n=522 | 4.1 (1.8/7.3) n=333 1.8 (-0.9/5.0) n=407 4.1 (1.4/6.8) n=338 |
-| Note: Trial durations of 16 to 26 weeks |  |  |  |  |  |  |
+|  |  | Median (25th/75thpercentile) | Median (25th/75thpercentile) | Median (25th/75thpercentile) | Median (25th/75thpercentile) |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Control Group (Placebo) | pioglitazone 15 mg | pioglitazone 30 mg | pioglitazone 45 mg |
+| Monotherapy |  | -1.4 (-2.7/0.0) n=256 | 0.9 (-0.5/3.4) n = 79 | 1.0 (-0.9/3.4) n=188 | 2.6 (0.2/5.4) n = 79 |
+| Combination Therapy | Sulfonylurea | -0.5 (-1.8/0.7) n=187 | 2.0 (0.2/3.2) n=183 | 3.1 (1.1/5.4) n=528 | 4.1 (1.8/7.3) n=333 |
+| Metformin | -1.4 (-3.2/0.3) n=160 | N/A | 0.9 (-0.3/3.2) n=567 | 1.8 (-0.9/5.0) n=407 |  |
+| Insulin | 0.2 (-1.4/1.4) n=182 | 2.3 (0.5/4.3) n=190 | 3.3 (0.9/6.3) n=522 | 4.1 (1.4/6.8) n=338 |  |
+| Note: Trial durations of 16 to 26 weeks |  |  |  |  |  |
 
 Ovulation: Therapy with pioglitazone, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
 Thus, adequate contraception in premenopausal women should be recommended while taking DUETACT.
@@ -96,7 +98,7 @@ This possible effect has not been investigated in clinical studies so the freque
 
 Hematologic: Across all clinical studies with pioglitazone, mean hemoglobin values declined by 2% to 4% in patients treated with pioglitazone.
 These changes primarily occurred within the first 4 to 12 weeks of therapy and remained relatively constant thereafter.
-These changes may be related to increased plasma volume and have rarely been associated with any significant hematologic clinical effects (see ADVERSE REACTIONS, Laboratory Abnormalities,Pioglitazone hydrochloride,Hematologic).
+These changes may be related to increased plasma volume and have rarely been associated with any significant hematologic clinical effects (see ADVERSE REACTIONS, Laboratory Abnormalities, Pioglitazone hydrochloride, Hematologic).
 DUETACT may cause decreases in hemoglobin and hematocrit.
 
 Hepatic Effects: In pre-approval clinical studies worldwide, over 4500 subjects were treated with pioglitazone.
@@ -156,11 +158,15 @@ Combined use of glimepiride with insulin or metformin may increase the potential
 Loss of control of blood glucose: When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a loss of control may occur.
 The effectiveness of any oral hypoglycemic drug, including DUETACT, in lowering blood glucose to a desired level decreases in many patients over a period of time, which may be due to progression of the severity of the diabetes or to diminished responsiveness to the drug.
 
+Hemolytic Anemia: Treatment of patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia.
+Because DUETACT contains glimepiride which belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered.
+In postmarketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
+
 ## Laboratory Tests
 
 FPG and A1C measurements should be performed periodically to monitor glycemic control and therapeutic response to DUETACT.
 
-Liver enzyme monitoring is recommended prior to initiation of therapy with DUETACT in all patients and periodically thereafter per the clinical judgment of the health care professional (see PRECAUTIONS, General:Pioglitazone hydrochloride, Hepatic Effects and ADVERSE REACTIONS, Laboratory Abnormalities,Pioglitazone hydrochloride, Serum Transaminase Levels).
+Liver enzyme monitoring is recommended prior to initiation of therapy with DUETACT in all patients and periodically thereafter per the clinical judgment of the health care professional (see PRECAUTIONS, General: Pioglitazone hydrochloride, Hepatic Effects and ADVERSE REACTIONS, Laboratory Abnormalities, Pioglitazone hydrochloride, Serum Transaminase Levels).
 
 ## Information for Patients
 
@@ -195,7 +201,7 @@ Therefore, if an inhibitor or inducer of CYP2C8 is started or stopped during tre
 
 Glimepiride
 
-(see CLINICAL PHARMACOLOGY, Drug-Drug Interactions, Glimepiride)
+(See CLINICAL PHARMACOLOGY, Drug-Drug Interactions, Glimepiride)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

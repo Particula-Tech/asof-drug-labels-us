@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-DUETACT™ (pioglitazone hydrochloride and glimepiride) tablets contain two oral antihyperglycemic agents used in the management of type 2 diabetes: pioglitazone hydrochloride and glimepiride.
+DUETACT® (pioglitazone hydrochloride and glimepiride) tablets contain two oral antihyperglycemic agents used in the management of type 2 diabetes: pioglitazone hydrochloride and glimepiride.
 The concomitant use of pioglitazone and a sulfonylurea, the class of drugs that includes glimepiride, has been previously approved based on clinical trials in patients with type 2 diabetes inadequately controlled on a sulfonylurea.
 Additional efficacy and safety information about pioglitazone and glimepiride monotherapies may be found in the prescribing information for each individual drug.
 
