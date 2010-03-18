@@ -28,7 +28,7 @@ CellCept can cause serious side effects:
   Call your healthcare provider right away.
   You and your healthcare provider should report any cases of pregnancies to Talk to your healthcare provider about joining the National Transplantation Pregnancy Registry at 1-877-955-6877.
   - FDA MedWatch at 1-800-FDA-1088
-  - Roche Professional Drug Safety at 1-800-526-6367
+  - Genentech at 1-888-835-2555
 
 - Increased risk of getting serious infections.
   CellCept weakens the body's immune system and affects your ability to fight infections.
@@ -117,10 +117,10 @@ Especially tell your healthcare provider if you take:
   See "What is the most important information I should know about CellCept?"
 - sevelamer (Renagel®, Renvela™).
   These products should be taken 2 hours after taking CellCept
-- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Vitrasert®), valganciclovir (Valcyte®)
+- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (CYTOVENE®-IV, Vitrasert®), valganciclovir (VALCYTE®)
 - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
 - antacids that contain magnesium and aluminum (CellCept and the antacid should not be taken at the same time)
-- sulfamethoxazole/trimethoprim (Bactrim™, Bactrim DS™)
+- sulfamethoxazole/trimethoprim (BACTRIM™, BACTRIM DS™)
 - norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, Pylera™)
 - ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR™)
 - azathioprine (Azasan®, Imuran®)
@@ -203,7 +203,7 @@ These are not all of the possible side effects of CellCept.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088 or to Roche Professional Drug Safety at 1-800-526-6367.
+You may report side effects to the FDA at 1-800-FDA-1088 or to Genentech at 1-888-835-2555.
 
 How should I store CellCept?
 
@@ -224,7 +224,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about CellCept.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about CellCept that is written for healthcare professionals.
-For more information, call 1-800-526-6367 or visit www.rocheusa.com/products/cellcept.
+For more information, call 1-888-835-2555 or visit www.gene.com/gene/products/information/cellcept.
 
 What are the ingredients in CellCept?
 
@@ -244,16 +244,16 @@ Sodium hydroxide may have been used in the manufacture of CellCept Intravenous t
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-CellCept, Cytovene-IV, and Valcyte are registered trademarks of Hoffmann-La Roche Inc. Bactrim and Bactrim DS are trademarks of Hoffmann-La Roche Inc. Any other trademarks in this document are the property of their respective owners.
+CELLCEPT, CYTOVENE-IV, and VALCYTE are registered trademarks of Hoffmann-La Roche Inc. BACTRIM and BACTRIM DS are trademarks of Hoffmann-La Roche Inc.
 
-Distributed by: Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
+Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-MG Revised: October 2009
+MG Revised: February 2010
 
-For additional copies of this Medication Guide, please call 1-800-617-8191 or visit www.rocheusa.com/products/cellcept.
+For additional copies of this Medication Guide, please call 1-800-617-8191 or visit www.gene.com/gene/products/information/cellcept.
 
-CTCTIO_1061443_PI/MG_082009_N CTCTIO_1061443_PI/MG_082009_K 27899732
+CTCTIO_1061443_PI/MG_AR2010_N(2) CTCTIO_1061443_PI/MG_AR2010_K(2)
 
-Copyright © 1998-2009 by Roche Laboratories Inc. All rights reserved.
+© 2010 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

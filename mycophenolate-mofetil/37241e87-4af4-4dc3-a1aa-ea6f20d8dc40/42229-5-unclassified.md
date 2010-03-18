@@ -9,14 +9,4 @@ Caution should be exercised in the handling and preparation of solutions of Cell
 Avoid direct contact of the prepared solution of CellCept Intravenous with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
 
-Sandimmune is a registered trademark of Novartis Pharmaceuticals Corporation.
-
-ATGAM is a registered trademark of Pharmacia and Upjohn Company.
-
-Neoral is a registered trademark of Novartis Pharmaceuticals Corporation.
-
-Orthoclone OKT is a registered trademark of Ortho Biotech Inc.
-
-Maalox is a registered trademark of Novartis Consumer Health, Inc.
-
-PI Revised: October 2009
+PI Revised: February 2010
