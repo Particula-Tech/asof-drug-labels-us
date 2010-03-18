@@ -4,7 +4,7 @@ Pre-existing depression may emerge or worsen during use of benzodiazepines inclu
 Ativan (lorazepam) is not recommended for use in patients with a primary depressive disorder or psychosis.
 
 Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression.
-(See PRECAUTIONS clinically Significant Drug Interactions)
+(See PRECAUTIONS Clinically Significant Drug Interactions)
 
 Use of benzodiazepines, including lorazepam, may lead to physical and psychological dependence.
 
@@ -17,11 +17,10 @@ The risk of dependence increases with higher doses and longer term use and is fu
 The dependence potential is reduced when lorazepam is used at the appropriate dose for short-term treatment.
 Addiction-prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving lorazepam or other psychotropic agents.
 
-In general, benzodiazepines should be prescribed for short periods only (e.g.
-2- 4 weeks).
+In general, benzodiazepines should be prescribed for short periods only (e.g., 2 to 4 weeks).
 Extension of the treatment period should not take place without reevaluation of the need for continued therapy.
 Continuous long-term use of product is not recommended.
-Withdrawal symptoms (e.g. rebound insomnia) can appear following cessation of recommended doses after as little as one week of therapy.
+Withdrawal symptoms (e.g., rebound insomnia) can appear following cessation of recommended doses after as little as one week of therapy.
 Abrupt discontinuation of product should be avoided and a gradual dosage-tapering schedule followed after extended therapy.
 
 Abrupt termination of treatment may be accompanied by withdrawal symptoms.
@@ -36,8 +35,7 @@ Lorazepam may have abuse potential, especially in patients with a history of dru
 
 In patients with depression, a possibility for suicide should be borne in mind; benzodiazepines should not be used in such patients without adequate anti-depressant therapy.
 
-Lorazepam should be used with caution in patients with compromised respiratory function (e.g.
-COPD, sleep apnea syndrome).
+Lorazepam should be used with caution in patients with compromised respiratory function (e.g., COPD, sleep apnea syndrome).
 
 Elderly or debilitated patients may be more susceptible to the sedative effects of lorazepam.
 Therefore, these patients should be monitored frequently and have their dosage adjusted carefully according to patient response; the initial dosage should not exceed 2 mg.
@@ -104,7 +102,7 @@ The possibility that a woman of childbearing potential may be pregnant at the ti
 Patients should be advised that if they become pregnant, they should communicate with their physician about the desirability of discontinuing the drug.
 
 In humans, blood levels obtained from umbilical cord blood indicate placental transfer of lorazepam and lorazepam glucuronide.
-Infants of mothers who ingested benzodiazepines for several weeks or more preceding delivery have been reported to havewithdrawal symptoms during the postnatal period.
+Infants of mothers who ingested benzodiazepines for several weeks or more preceding delivery have been reported to have withdrawal symptoms during the postnatal period.
 Symptoms such as hypoactivity, hypotonia, hypothermia, respiratory depression, apnea, feeding problems, and impaired metabolic response to cold stress have been reported in neonates born of mothers who have received benzodiazepines during the late phase of pregnancy or at delivery.
 
 ## Nursing Mothers

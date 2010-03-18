@@ -2,8 +2,11 @@ Rx only
 
 Manufactured by: MEDA Manufacturing GmbH Cologne, Germany D-51063
 
-For: Biovail Pharmaceuticals, Inc. Bridgewater, NJ, 08807, USA
+For: BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation) Bridgewater, NJ, 08807, USA
 
 Tablets made in Germany
 
-LB0057-00 Rev 05/07
+Ativan® is a registered trademark of Biovail Laboratories International SRL.
+
+LB0057-02 Rev.
+10/09

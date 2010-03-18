@@ -11,8 +11,6 @@ NDC 64455-064-01 - Bottles of 100 tablets NDC 64455-064-10 - Bottles of 1000 tab
 2 mg, white, five-sided (regular pentagon) tablet with a raised "A" and impressed "2" on one side and "BPI" and "65" impressed on scored reverse side.
 NDC 64455-065-01 - Bottles of 100 tablets
 
-The appearance of these tablets is a registered trademark of Biovail Laboratories International SRL.
-
 BOTTLES:
 
 Keep tightly closed.

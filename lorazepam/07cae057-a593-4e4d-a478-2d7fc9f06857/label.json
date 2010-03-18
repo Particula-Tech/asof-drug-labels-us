@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017794"
+  ],
   "inn": "lorazepam",
-  "labeler": "Biovail Pharmaceuticals, Inc.",
+  "labeler": "BTA Pharmaceuticals Inc.",
   "package_ndcs": [
     "64455-063-01",
     "64455-064-01",
     "64455-064-10",
     "64455-065-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lorazepam",
+      "name": "Ativan"
+    }
+  ],
   "setid": "07cae057-a593-4e4d-a478-2d7fc9f06857",
   "source": "dailymed"
 }
