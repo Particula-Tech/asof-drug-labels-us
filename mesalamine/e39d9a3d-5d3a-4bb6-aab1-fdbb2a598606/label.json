@@ -1,14 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "mesalamine",
-  "labeler": "Shire US Inc.",
-  "package_ndcs": [
-    "54092-189-80",
-    "54092-189-81",
-    "54092-191-12",
-    "54092-191-80"
+  "application_numbers": [
+    "NDA020049"
   ],
-  "products": [],
+  "inn": "mesalamine",
+  "labeler": "Shire US Manufacturing Inc.",
+  "package_ndcs": [
+    "54092-189-81",
+    "54092-191-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mesalamine",
+      "name": "Pentasa"
+    }
+  ],
   "setid": "e39d9a3d-5d3a-4bb6-aab1-fdbb2a598606",
   "source": "dailymed"
 }
