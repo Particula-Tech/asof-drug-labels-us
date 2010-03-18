@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022064"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "UCB Farchim S.A.",
+  "package_ndcs": [
+    "28877-0070-0"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Xyzal"
+    }
+  ],
+  "setid": "ccfd9a79-f3fd-4786-b7ba-e4906089d8f7",
+  "source": "dailymed"
+}
