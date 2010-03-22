@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA078904"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "Dr. Reddy's Laboratories Ltd",
+  "package_ndcs": [
+    "55111-248-01",
+    "55111-248-05",
+    "55111-248-30",
+    "55111-248-60",
+    "55111-248-79"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levetiracetam",
+      "name": "Levetiracetam"
+    }
+  ],
+  "setid": "1f3c04d9-cccb-06a3-a0f3-f7c9228ee743",
+  "source": "dailymed"
+}
