@@ -6,12 +6,12 @@ The prescriber should be aware that cluster headache patients often possess one 
 ## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events
 
 Sumatriptan should not be given to patients with documented ischemic or vasospastic CAD (see CONTRAINDICATIONS).
-It is strongly recommended that sumatriptan not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, or male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
+It is strongly recommended that sumatriptan not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
 If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia, sumatriptan should not be administered (see CONTRAINDICATIONS).
 
 For patients with risk factors predictive of CAD who are determined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of sumatriptan injection take place in the setting of a physician’s office or similar medically staffed and equipped facility.
-Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining an electrocardiogram (ECG) during the interval immediately following the first dose, in these patients with risk factors.
+Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining an electrocardiogram (ECG) during the interval immediately following the first dose in these patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of sumatriptan and who have or acquire risk factors predictive of CAD, as described above, undergo periodic interval cardiovascular evaluation as they continue to use sumatriptan.
 In considering this recommendation for periodic cardiovascular evaluation, it is noted that patients with cluster headache are predominantly male and over 40 years of age, which are risk factors for CAD.
@@ -170,7 +170,7 @@ IMITREX is not known to interfere with commonly employed clinical laboratory tes
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats, 104 weeks) or drinking water (mice, 78 weeks).
+In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats: 104 weeks) or drinking water (mice: 78 weeks).
 Average exposures achieved in mice receiving the highest dose were approximately 110 times the exposure attained in humans after the maximum recommended single dose of 6 mg.
 The highest dose to rats was approximately 260 times the maximum single dose of 6 mg on a mg/m2 basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.

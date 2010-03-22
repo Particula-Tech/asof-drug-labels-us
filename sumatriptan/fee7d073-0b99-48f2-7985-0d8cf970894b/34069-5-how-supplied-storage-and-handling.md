@@ -14,3 +14,19 @@ IMITREX Injection contains sumatriptan (base) as the succinate salt and is suppl
 
 Store between 2° and 30°C (36° and 86°F).
 Protect from light.
+
+IMITREX, IMITREX STATdose System, and IMITREX STATdose Pen are registered trademarks of GlaxoSmithKline.
+
+This product's prescribing information may have been updated.
+Please refer to ww.gsk.com for the most current version.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2010, GlaxoSmithKline.
+All rights reserved.
+
+February 2010
+
+IMJ:3PI

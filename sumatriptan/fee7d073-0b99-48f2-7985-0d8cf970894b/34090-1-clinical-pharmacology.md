@@ -23,10 +23,10 @@ The clinical significance of this binding is unknown.
 
 ## Pharmacokinetics
 
-Pharmacokinetic parameters following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age, 33 years; mean weight, 77 kg) were systemic clearance: 1,194 ± 149 mL/min (mean ± S.D.), distribution half-life: 15 ± 2 minutes, terminal half-life: 115 ± 19 minutes, and volume of distribution central compartment: 50 ± 8 liters.
+Pharmacokinetic parameters following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) were systemic clearance: 1,194 ± 149 mL/min (mean ± S.D.), distribution half-life: 15 ± 2 minutes, terminal half-life: 115 ± 19 minutes, and volume of distribution central compartment: 50 ± 8 liters.
 Of this dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the indole acetic acid metabolite.
 
-After a single 6-mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age, 24 ± 6 years; weight, 70 kg), the maximum serum concentration (Cmax) was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range, 5 to 20 minutes).
+After a single 6-mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (Cmax) was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range: 5 to 20 minutes).
 In this study, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
 The Tmax or amount absorbed was not significantly altered by either the site or technique of injection.
 
@@ -50,7 +50,7 @@ In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, 
 
 ### Age
 
-The pharmacokinetics of sumatriptan in the elderly (mean age, 72 years, 2 males and 4 females) and in patients with migraine (mean age, 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years) (see PRECAUTIONS: Geriatric Use).
+The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use).
 
 ### Race
 

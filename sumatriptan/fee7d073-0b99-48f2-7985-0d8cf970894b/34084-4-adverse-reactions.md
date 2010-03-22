@@ -14,7 +14,7 @@ Table 4 lists adverse events that occurred in 2 large US, Phase III, placebo-con
 Only events that occurred at a frequency of 2% or more in groups treated with IMITREX Injection 6 mg and occurred at a frequency greater than the placebo group are included in Table 4.
 
 Table 4.
-Treatment Emergent Adverse Experience Incidence in 2 Large Placebo-Controlled Migraine Clinical Trials: Events Reported by at Least 2% of Patients Treated With IMITREX Injection 6 mg*
+Treatment Emergent Adverse Experience Incidence in 2 Large Placebo-Controlled Migraine Clinical Trials: Events Reported by at Least 2% of Patients Treated With IMITREX Injection 6 mga
 
 | Adverse Event | Percent of Patients Reporting |  |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Treatment Emergent Adverse Experience Incidence in 2 Large Placebo-Controlled Mi
 | Skin |  |  |
 | Sweating | 2 | 1 |
 
-*The sum of the percentages cited is greater than 100% because patients may experience more than 1 type of adverse event.
+aThe sum of the percentages cited is greater than 100% because patients may experience more than 1 type of adverse event.
 Only events that occurred at a frequency of 2% or more in groups treated with IMITREX Injection and occurred at a frequency greater than the placebo groups are included.
 
 The incidence of adverse events in controlled clinical trials was not affected by gender or age of the patients.
