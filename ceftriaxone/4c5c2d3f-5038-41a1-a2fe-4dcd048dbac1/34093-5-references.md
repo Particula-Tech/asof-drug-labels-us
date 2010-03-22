@@ -12,17 +12,3 @@
 4. National Committee for Clinical Laboratory Standards, Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard-Fourth Edition.
    NCCLS document M11-A4 (ISBN 1-56238-210-1).
    NCCLS, Wayne, PA 19087-1898, 1997.
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
-
-Printed in USA
-
-U.S. Pat.
-Nos. 4,686,125; 4,779,997
-
-Baxter and GALAXY are trademarks of Baxter International Inc.
-
-07-19-60-088 Rev.
-June 2009

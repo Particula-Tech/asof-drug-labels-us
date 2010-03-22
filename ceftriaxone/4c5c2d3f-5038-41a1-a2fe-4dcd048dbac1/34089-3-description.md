@@ -16,7 +16,7 @@ The pH may be adjusted with sodium hydroxide and/or hydrochloric acid.
 Solutions of premixed Ceftriaxone Injection, USP may range from light yellow to amber in color.
 After thawing, the solution is intended for intravenous use.
 The pH of thawed solutions may range from 6.0 to 8.0.
-SeeHOW SUPPLIED for package description.
+See HOW SUPPLIED for package description.
 
 The plastic container for the frozen solution is fabricated from a specially designed multilayer plastic, PL 2040.
 Solutions are in contact with the polyethylene layer of this container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.

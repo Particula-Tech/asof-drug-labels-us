@@ -47,6 +47,11 @@ No dosage adjustment is necessary for patients with impairment of renal or hepat
 ## DIRECTIONS FOR USE
 
 Ceftriaxone Injection, USP is for intravenous administration using sterile equipment.
+It should be administered intravenously by infusion over a period of 30 minutes.
+
+Do not add supplementary medication.
+Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompatible with ceftriaxone in admixtures.
+When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
 
 ### Storage
 
