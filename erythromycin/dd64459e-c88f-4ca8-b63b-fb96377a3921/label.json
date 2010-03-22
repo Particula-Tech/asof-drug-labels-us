@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA063211"
+  ],
   "inn": "erythromycin",
-  "labeler": "Perrigo",
+  "labeler": "Perrigo New York Inc",
   "package_ndcs": [
     "45802-966-94",
     "45802-966-96"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "erythromycin",
+      "name": "Erythromycin"
+    }
+  ],
   "setid": "dd64459e-c88f-4ca8-b63b-fb96377a3921",
   "source": "dailymed"
 }
