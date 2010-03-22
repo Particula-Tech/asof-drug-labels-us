@@ -1,4 +1,4 @@
-MEDICATION GUIDE CHANTIX® (CHANT-iks) (varenicline) Tablets
+# MEDICATION GUIDE CHANTIX® (varenicline) Tablets
 
 Read the Medication Guide that comes with CHANTIX before you start taking it and each time you get a refill.
 There may be new information.
@@ -7,12 +7,12 @@ This information does not take the place of talking with your doctor about your 
 What is the most important information I should know about CHANTIX?
 
 Some people have had changes in behavior, hostility, agitation, depressed mood, and suicidal thoughts or actions while using CHANTIX to help them quit smoking.
-Some people had these symptoms when they began taking CHANTIX, and others developed them after several weeks of treatment, or after stopping CHANTIX.
+Some people had these symptoms when they began taking CHANTIX, and others developed them after several weeks of treatment or after stopping CHANTIX.
 
 If you, your family, or caregiver notice agitation, hostility, depression or changes in behavior or thinking that are not typical for you, or you develop any of the following symptoms, stop taking CHANTIX and call your healthcare provider right away:
 
 - thoughts about suicide or dying, or attempts to commit suicide
-- new or worse depression, anxiety, or panic attacks
+- new or worse depression, anxiety or panic attacks
 - feeling very agitated or restless
 - acting aggressive, being angry, or violent
 - acting on dangerous impulses
@@ -51,16 +51,9 @@ CHANTIX is not recommended for people under 18 years of age.
 
 CHANTIX has not been studied with other treatments for stopping smoking.
 
-Who should not take CHANTIX?
-
-Do not take CHANTIX if you have had a serious allergic or skin reaction to CHANTIX, which may include:
-
-- swelling of the face, mouth, and throat that can cause trouble breathing.
-- rash, swelling, redness, and peeling of the skin.
-
 What should I tell my doctor before taking CHANTIX?
 
-Before you take CHANTIX, tell your doctor if you:
+Tell your doctor about all of your medical conditions including if you:
 
 - have ever had depression or other mental health problems.
   See "What is the most important information I should know about CHANTIX?"
@@ -68,22 +61,20 @@ Before you take CHANTIX, tell your doctor if you:
   Your doctor may prescribe a lower dose of CHANTIX for you.
 - have any allergies.
   See the end of this Medication Guide for a complete list of ingredients in CHANTIX.
-- have any other medical conditions
 - are pregnant or plan to become pregnant.
-  Ask your doctor for help to stop smoking before you get pregnant because smoking during pregnancy puts you and your baby at risk for problems during pregnancy.
   CHANTIX has not been studied in pregnant women.
   It is not known if CHANTIX will harm your unborn baby.
+  It is best to stop smoking before you get pregnant.
 - are breastfeeding.
-  CHANTIX has not been studied in breastfeeding women.
-  It is not known if CHANTIX passes into breast milk.
+  Although it was not studied in humans, CHANTIX may pass into breast milk.
   You and your doctor should talk about the best way to feed your baby if you take CHANTIX.
 
-Tell your doctor about all your other medicines, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all your other medicines including prescription and nonprescription medicines, vitamins and herbal supplements.
 Especially, tell your doctor if you take:
 
 - insulin
 - asthma medicines
-- blood thinners
+- blood thinners.
 
 When you stop smoking, there may be a change in how these and other medicines work for you.
 
@@ -106,10 +97,16 @@ How should I take CHANTIX?
   3. Take CHANTIX after eating and with a full glass (8 ounces) of water.
   4. Most people will take CHANTIX for up to 12 weeks.
      If you have completely quit smoking by 12 weeks, your doctor may prescribe CHANTIX for another 12 weeks to help you stay cigarette-free.
+
 - CHANTIX comes as a white tablet (0.5 mg) and a blue tablet (1 mg).
   You start with the white tablet and then usually go to the blue tablet.
   See the chart below for dosing instructions.
-  Day 1 to Day 3 White tablet (0.5 mg)Take 1 tablet each day Day 4 to Day 7 White tablet (0.5 mg) Take 1 in the morning and 1 in the evening Day 8 to end of treatment Blue tablet (1 mg) Take 1 in the morning and 1 in the evening
+
+| Day 1 to Day 3 | White tablet (0.5 mg)Take 1 tablet each day |
+| --- | --- |
+| Day 4 to Day 7 | White tablet (0.5 mg)Take 1 in the morning and 1 in the evening |
+| Day 8 to end of treatment | Blue tablet (1 mg)Take 1 in the morning and 1 in the evening |
+
 - This dosing schedule may not be right for everyone.
   Talk to your doctor if you are having side effects such as nausea, strange dreams, or sleep problems.
   Your doctor may want to reduce your dose.
@@ -158,7 +155,7 @@ This Medication Guide summarizes the most important information about CHANTIX.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about CHANTIX that is written for healthcare professionals.
 
-For more about CHANTIX and tips on how to quit smoking, go to www.CHANTIX.com or call 1-877-CHANTIX (877-242-6849).
+For more about CHANTIX and tips on how to quit smoking, go to www.CHANTIX.com Or call 1-877-CHANTIX (877-242-6849).
 
 What are the ingredients in CHANTIX?
 
@@ -168,8 +165,8 @@ Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phos
 
 Rx only
 
-LAB-0328-9.0
+LAB-0328-8.0
 
-March 2010
+July 2009
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

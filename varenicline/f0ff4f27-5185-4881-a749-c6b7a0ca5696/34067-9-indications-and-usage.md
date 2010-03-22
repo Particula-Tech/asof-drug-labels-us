@@ -1,3 +1,3 @@
-# 1 INDICATIONS AND USAGE
+# INDICATIONS AND USAGE
 
-CHANTIX is indicated for use as an aid to smoking cessation treatment.
+CHANTIX is indicated as an aid to smoking cessation treatment.
