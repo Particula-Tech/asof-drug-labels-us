@@ -277,9 +277,9 @@ Prostate: CLOZARIL has potent anticholinergic effects and care should be exercis
 Because of initial sedation, CLOZARIL may impair mental and/or physical abilities, especially during the first few days of therapy.
 The recommendations for gradual dose escalation should be carefully adhered to, and patients cautioned about activities requiring alertness.
 
-## Cerebrovascular adverse events
+## Cerebrovascular Adverse Events
 
-An increased risk of cerebrovascular adverse events has been seen in the dementia patients treated with some atypical antipsychotics.
+An increased risk of cerebrovascular adverse events has been observed in dementia patients treated with some atypical antipsychotics.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for dementia patients or other patients treated with CLOZARIL.
 CLOZARIL should be used with caution in patients with dementia or risk factors for stroke.
