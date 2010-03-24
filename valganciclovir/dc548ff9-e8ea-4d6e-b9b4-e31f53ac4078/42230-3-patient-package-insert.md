@@ -182,7 +182,7 @@ It may harm them.
 This leaflet summarizes the most important information about Valcyte.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Valcyte that is written for health professionals.
-Information about Valcyte is also available at 1-800-526-6367 (toll-free).
+Information about Valcyte is also available at 1-888-835-2555 (toll-free).
 
 What are the ingredients in Valcyte?
 
@@ -226,8 +226,4 @@ Do not use the solution after the expiration date.
 
 Contact your doctor or pharmacist if your oral dispenser is lost or damaged, and they will advise you on how to continue to take your medication.
 
-Cytovene-IV is a registered trademark of Hoffmann-La Roche Inc.
-
-Videx is a registered trademark of Bristol-Myers Squibb Company.
-
-Retrovir is a registered trademark of GlaxoSmithKline.
+VALCYTE is a registered trademark of Hoffmann-La Roche Inc.
