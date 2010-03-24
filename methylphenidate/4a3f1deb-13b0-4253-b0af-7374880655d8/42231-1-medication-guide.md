@@ -1,50 +1,10 @@
-# MEDICATION GUIDE
-
-CONCERTA® (kon SER-ta)
-
-(methylphenidate HCl) Extended-release Tablets CII
+MEDICATION GUIDE CONCERTA® (kon SER-ta) (methylphenidate HCl) Extended-release Tablets CII
 
 Read the Medication Guide that comes with CONCERTA® before you or your child starts taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about you or your child’s treatment with CONCERTA®.
+This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with CONCERTA®.
 
-What is the most important information I should know about CONCERTA®?
-
-The following have been reported with use of CONCERTA® and other stimulant medicines:
-
-1.
-Heart-related problems:
-
-- sudden death in patients who have heart problems or heart defects
-- stroke and heart attack in adults
-- increased blood pressure and heart rate
-
-Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
-
-Your doctor should check you or your child carefully for heart problems before starting CONCERTA®.
-
-Your doctor should check you or your child’s blood pressure and heart rate regularly during treatment with CONCERTA®.
-
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking CONCERTA®.
-
-2.
-Mental (Psychiatric) problems:
-
-All Patients
-
-- new or worse behavior and thought problems
-- new or worse bipolar illness
-- new or worse aggressive behavior or hostility
-
-Children and Teenagers
-
-- new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
-
-Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
-
-Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking CONCERTA®, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
-
-What Is CONCERTA ®?
+What Is CONCERTA®?
 
 CONCERTA® is a central nervous system stimulant prescription medicine.
 It is used for the treatment of attention deficit and hyperactivity disorder (ADHD).
@@ -52,19 +12,13 @@ CONCERTA® may help increase attention and decrease impulsiveness and hyperactiv
 
 CONCERTA® should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
 
-CONCERTA® is a federally controlled substance (CII) because it can be abused or lead to dependence.
-Keep CONCERTA® in a safe place to prevent misuse and abuse.
-Selling or giving away CONCERTA® may harm others, and is against the law.
-
-Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
-
 Who should not take CONCERTA®?
 
 CONCERTA® should not be taken if you or your child:
 
 - are very anxious, tense, or agitated
 - have an eye problem called glaucoma
-- have tics or Tourette’s syndrome, or a family history of Tourette’s syndrome.
+- have tics or Tourette's syndrome, or a family history of Tourette's syndrome.
   Tics are hard to control repeated movements or sounds.
 - are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
 - are allergic to anything in CONCERTA®.
@@ -73,14 +27,13 @@ CONCERTA® should not be taken if you or your child:
 CONCERTA® should not be used in children less than 6 years old because it has not been studied in this age group.
 
 CONCERTA® may not be right for you or your child.
-Before starting CONCERTA® tell your or your child’s doctor about all health conditions (or a family history of) including:
+Before starting CONCERTA® tell your or your child's doctor about all health conditions (or a family history of) including:
 
 - heart problems, heart defects, or high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
-- tics or Tourette’s syndrome
-- liver or kidney problems
+- tics or Tourette's syndrome
 - seizures or have had an abnormal brain wave test (EEG)
-- esophagus, stomach, or small or large intestine problems, including narrowing in any of these organs
+- esophagus, stomach, or small or large intestine problems
 
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
@@ -111,12 +64,12 @@ How should CONCERTA® be taken?
   Your doctor may adjust the dose until it is right for you or your child.
 - Do not chew, crush, or divide the tablets.
   Swallow CONCERTA® tablets whole with water or other liquids.
-  Tell your doctor if you or your child cannot swallow CONCERTA®whole.
+  Tell your doctor if you or your child cannot swallow CONCERTA® whole.
   A different medicine may need to be prescribed.
 - CONCERTA® can be taken with or without food.
 - Take CONCERTA® once each day in the morning.
   CONCERTA® is an extended release tablet.
-  It releases medication into your/your child’s body throughout the day.
+  It releases medication into your/your child's body throughout the day.
 - The CONCERTA® tablet does not dissolve completely in the body after all the medicine has been released.
   You or your child may sometimes notice the empty tablet in a bowel movement.
   This is normal.
@@ -128,7 +81,7 @@ How should CONCERTA® be taken?
 
 What are possible side effects of CONCERTA®?
 
-See “What is the most important information I should know about CONCERTA®?” for information on reported heart and mental problems.
+See "What is the most important information I should know about CONCERTA®?" for information on reported heart and mental problems.
 
 Other serious side effects include:
 
@@ -139,20 +92,26 @@ Other serious side effects include:
 
 Common side effects include:
 
-| headache | decreased appetite |
+| decreased appetitedry mouthtrouble sleepingdizzinessstomach acheincreased sweating | headachenauseaanxietyweight lossirritability |
 | --- | --- |
-| stomach ache | nervousness |
-| trouble sleeping | dizziness |
+
+Stimulants may impair the ability of you or your child to operate potentially hazardous machinery or vehicles.
+You or your child should exercise caution until you/your child is reasonably certain that CONCERTA® does not adversely affect your/your child's ability to engage in such activities.
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
 This is not a complete list of possible side effects.
 Ask your doctor or pharmacist for more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+You may also report side effects to McNeil Pediatrics at 1-888-440-7903.
+
 How should I store CONCERTA®?
 
 - Store CONCERTA® in a safe place at room temperature, 59 to 86° F (15 to 30° C). Protect from moisture.
-- Keep CONCERTA®and all medicines out of the reach of children.
+- Keep CONCERTA® and all medicines out of the reach of children.
 
 General information about CONCERTA®
 
@@ -164,7 +123,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about CONCERTA®.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about CONCERTA® that was written for healthcare professionals.
-For more information about CONCERTA® call 1-888-440-7903 or visit www.concerta.net.
+For more information about CONCERTA® call 1-888-440-7903.
 
 What are the ingredients in CONCERTA®?
 
@@ -174,18 +133,6 @@ Inactive Ingredients: butylated hydroxytoluene, carnuba wax, cellulose acetate, 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by
+Manufactured for: McNeil Pediatrics Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
 
-ALZA Corporation, Mountain View, CA 94043
-
-Distributed and Marketed by
-
-McNeil Pediatrics
-
-Division of McNeil-PPC Inc., Fort Washington, PA 19034
-
-An ALZA OROS® Technology Product
-
-CONCERTA® and OROS® are Registered Trademarks of ALZA Corporation.
-
-10459300
+10180602 Revised: November 2009

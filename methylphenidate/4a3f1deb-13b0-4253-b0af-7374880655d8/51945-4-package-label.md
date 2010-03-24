@@ -1,0 +1,13 @@
+PRINCIPAL DISPLAY PANEL
+
+NDC 17314-5850-2 100 tablets
+
+CONCERTA® (methylphenidate HCl) CII
+
+Extended-release tablets
+
+18 mg
+
+Rx only
+
+MCNEIL PEDIATRICS DIVISION OF MCNEIL-PPC, INC.

@@ -1,4 +1,4 @@
-DESCRIPTION
+# 11 DESCRIPTION
 
 CONCERTA® is a central nervous system (CNS) stimulant.
 CONCERTA® is available in four tablet strengths.
@@ -14,7 +14,7 @@ Its molecular weight is 269.77.
 
 CONCERTA® also contains the following inert ingredients: butylated hydroxytoluene, carnauba wax, cellulose acetate, hypromellose, lactose, phosphoric acid, poloxamer, polyethylene glycol, polyethylene oxides, povidone, propylene glycol, sodium chloride, stearic acid, succinic acid, synthetic iron oxides, titanium dioxide, and triacetin.
 
-## System Components and Performance
+## 11.1 System Components and Performance
 
 CONCERTA® uses osmotic pressure to deliver methylphenidate HCl at a controlled rate.
 The system, which resembles a conventional tablet in appearance, comprises an osmotically active trilayer core surrounded by a semipermeable membrane with an immediate-release drug overcoat.

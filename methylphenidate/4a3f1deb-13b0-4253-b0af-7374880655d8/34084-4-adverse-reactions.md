@@ -1,93 +1,223 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The development program for CONCERTA® included exposures in a total of 2121 participants in clinical trials (1797 patients, 324 healthy adult subjects).
-These participants received CONCERTA® 18, 36, 54 and/or 72 mg/day.
-Children, adolescents, and adults with ADHD were evaluated in four controlled clinical studies, three open-label clinical studies and two clinical pharmacology studies.
-Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, and ECGs.
+The following are discussed in more detail in other sections of the labeling:
 
-Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
-In the tables and listings that follow, COSTART terminology has been used to classify reported adverse events.
+- Drug Dependence [see Box Warning]
+- Hypersensitivity to Methylphenidate [see Contraindications (4.1)]
+- Agitation [see Contraindications (4.2)]
+- Glaucoma [see Contraindications (4.3)]
+- Tics [see Contraindications (4.4)]
+- Monoamine Oxidase Inhibitors [see Contraindications (4.5) and Drug Interactions (7.1)]
+- Serious Cardiovascular Events [see Warnings and Precautions (5.1)]
+- Psychiatric Adverse Events [see Warnings and Precautions (5.2)]
+- Seizures [see Warnings and Precautions (5.3)]
+- Long-Term Suppression of Growth [see Warnings and Precautions (5.4)]
+- Visual Disturbance [see Warnings and Precautions (5.5)]
+- Potential for Gastrointestinal Obstruction [see Warnings and Precautions (5.6)]
+- Hematologic Monitoring [see Warnings and Precautions (5.7)]
+
+The most common adverse reaction in double-blind clinical trials (>5%) in pediatric patients (children and adolescents) was abdominal pain upper.
+The most common adverse reactions in double-blind clinical trials (>5%) in adult patients were decreased appetite, headache, dry mouth, nausea, insomnia, anxiety, dizziness, weight decreased, irritability, and hyperhidrosis [see Adverse Reactions (6.1)].
+
+The most common adverse reactions associated with discontinuation (≥1%) from either pediatric or adult clinical trials were anxiety, irritability, insomnia, and blood pressure increased [see Adverse Reactions (6.3)].
+
+The development program for CONCERTA® included exposures in a total of 3733 participants in clinical trials.
+Children, adolescents, and adults with ADHD were evaluated in 6 controlled clinical studies and 11 open-label clinical studies (see Table 3).
+Safety was assessed by collecting adverse events, vital signs, weights, ECGs, and by performing physical examinations and laboratory analyses.
+
+Table 3.
+CONCERTA® Exposure in Double-Blind and Open-Label Clinical Studies
+
+| Patient Population | N | Dose Range |
+| --- | --- | --- |
+| Children | 2216 | 18 to 54 mg once daily |
+| Adolescents | 502 | 18 to 72 mg once daily |
+| Adults | 1015 | 18 to 108 mg once daily |
+
+Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using their own terminology.
+Consequently, to provide a meaningful estimate of the proportion of individuals experiencing adverse events, events were grouped in standardized categories using MedDRA terminology.
 
 The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
-An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-## Adverse Findings in Clinical Trials with CONCERTA®
+Throughout this section, adverse reactions are reported.
+Adverse reactions are adverse events that were considered to be reasonably associated with the use of CONCERTA® based on the comprehensive assessment of the available adverse event information.
+A causal association for CONCERTA® often cannot be reliably established in individual cases.
+Further, because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-### Adverse Events Associated with Discontinuation of Treatment
+The majority of adverse reactions were mild to moderate in severity.
 
-In the 4-week placebo-controlled, parallel-group trial in children (Study 3) one CONCERTA®-treated patient (0.9%; 1/106) and one placebo-treated patient (1.0%; 1/99) discontinued due to an adverse event (sadness and increase in tics, respectively).
+## 6.1 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials
 
-In the 2-week placebo-controlled phase of a trial in adolescents (Study 4), no CONCERTA®-treated patients (0%; 0/87) and 1 placebo-treated patient (1.1%; 1/90) discontinued due to an adverse event (increased mood irritability).
+Adverse reactions in either the pediatric or adult double-blind adverse reactions tables may be relevant for both patient populations.
 
-In the two open-label, long-term safety trials (Studies 5 and 6: one 24-month study in children aged 6 to 13 and one 9-month study in child, adolescent and adult patients treated with CONCERTA®) 6.7% (101/1514) of patients discontinued due to adverse events.
-These events with an incidence of >0.5% included: insomnia (1.5%), twitching (1.0%), nervousness (0.7%), emotional lability (0.7%), abdominal pain (0.7%), and anorexia (0.7%).
+Children and Adolescents
 
-### Treatment-Emergent Adverse Events Among CONCERTA®-Treated Patients
+Table 4 lists the adverse reactions reported in 1% or more of CONCERTA®-treated children and adolescent patients in 4 placebo-controlled, double-blind clinical trials.
 
-Table 2 enumerates, for a 4-week placebo-controlled, parallel-group trial (Study 3) in children with ADHD at CONCERTA® doses of 18, 36, or 54 mg/day, theincidence of treatment-emergent adverse events.
-The table includes only those events that occurred in 1% or more of patients treated with CONCERTA® where the incidence in patients treated with CONCERTA® was greater than the incidence in placebo-treated patients.
+Table 4.
+Adverse Reactions Reported by ≥1% of CONCERTA®-Treated Children and Adolescent Patients in 4 Placebo-Controlled, Double-Blind Clinical Trials of CONCERTA®
 
-The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
+| System/Organ Class Adverse Reaction | CONCERTA® (n=321) % | Placebo (n=318) % |
+| --- | --- | --- |
+| Gastrointestinal Disorders |  |  |
+| Abdominal pain upper | 5.9 | 3.8 |
+| Vomiting | 2.8 | 1.6 |
+| General Disorders |  |  |
+| Pyrexia | 2.2 | 0.9 |
+| Infections and Infestations |  |  |
+| Nasopharyngitis | 2.8 | 2.2 |
+| Nervous System Disorders |  |  |
+| Dizziness | 1.9 | 0 |
+| Psychiatric Disorders |  |  |
+| Insomnia | 2.8 | 0.3 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Cough | 1.9 | 0.3 |
+| Pharyngolaryngeal pain | 1.2 | 0.9 |
 
-TABLE 2 Incidence of Treatment-Emergent Events1 in a 4-Week Placebo-Controlled Clinical Trial of CONCERTA® In Children
+The majority of adverse reactions were mild to moderate in severity.
 
-| Body System | Preferred Term | CONCERTA® (n=106) | Placebo (n= 99) |
-| --- | --- | --- | --- |
-| General | Headache | 14 % | 10 % |
-|  | Abdominal pain (stomachache) | 7 % | 1 % |
-| Digestive | Vomiting | 4 % | 3 % |
-|  | Anorexia (loss of appetite) | 4 % | 0 % |
-| Nervous | Dizziness | 2 % | 0 % |
-|  | Insomnia | 4 % | 1 % |
-| Respiratory | Upper Respiratory Tract Infection | 8 % | 5 % |
-|  | Cough Increased | 4 % | 2 % |
-|  | Pharyngitis | 4 % | 3 % |
-|  | Sinusitis | 3 % | 0 % |
-| 1: Events, regardless of causality, for which the incidence for patients treated with CONCERTA® was at least 1% and greater than the incidence among placebo-treated patients. Incidence has been rounded to the nearest whole number. |  |  |  |
+Adults
 
-Table 3 lists the incidence of treatment-emergent adverse events for a 2-week placebo-controlled trial (Study 4) in adolescents with ADHD at CONCERTA® doses of 18, 36, 54 or 72 mg/day.
+Table 5 lists the adverse reactions reported in 1% or more of CONCERTA®-treated adults in 2 placebo-controlled, double-blind clinical trials.
 
-TABLE 3 Incidence of Treatment-Emergent Events1 in a 2-Week Placebo-Controlled Clinical Trial of CONCERTA® in Adolescents
+Table 5.
+Adverse Reactions Reported by ≥1% of CONCERTA®-Treated Adult Patients in 2 Placebo-Controlled, Double-Blind Clinical TrialsIncluded doses up to 108 mg.
 
-| Body System | Preferred Term | CONCERTA® (n=87) | Placebo (n=90) |
-| --- | --- | --- | --- |
-| General | Accidental injury Fever Headache | 6 % 3 % 9 % | 3 % 0 % 8 % |
-| Digestive | Anorexia Diarrhea Vomiting | 2 % 2 % 3 % | 0 % 0 % 0 % |
-| Nervous | Insomnia | 5 % | 0 % |
-| Respiratory | Pharyngitis Rhinitis | 2 % 3 % | 1 % 2 % |
-| Urogenital | Dysmenorrhea | 2 % | 0 % |
-| 1: Events, regardless of causality, for which the incidence for patients treated with CONCERTA® was at least 2% and greater than the incidence among placebo-treated patients. Incidence has been rounded to the nearest whole number. |  |  |  |
+| System/Organ Class Adverse Reaction | CONCERTA® (n=415) % | Placebo (n=212) % |
+| --- | --- | --- |
+| Cardiac Disorders |  |  |
+| Tachycardia | 4.8 | 0 |
+| Palpitations | 3.1 | 0.9 |
+| Ear and Labyrinth Disorders |  |  |
+| Vertigo | 1.7 | 0 |
+| Eye Disorders |  |  |
+| Vision blurred | 1.7 | 0.5 |
+| Gastrointestinal Disorders |  |  |
+| Dry mouth | 14.0 | 3.8 |
+| Nausea | 12.8 | 3.3 |
+| Dyspepsia | 2.2 | 0.9 |
+| Vomiting | 1.7 | 0.5 |
+| Constipation | 1.4 | 0.9 |
+| General Disorders and Administration Site Conditions |  |  |
+| Irritability | 5.8 | 1.4 |
+| Infections and Infestations |  |  |
+| Upper respiratory tract infection | 2.2 | 0.9 |
+| Investigations |  |  |
+| Weight decreased | 6.5 | 3.3 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased appetite | 25.3 | 6.6 |
+| Anorexia | 1.7 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Muscle tightness | 1.9 | 0 |
+| Nervous System Disorder |  |  |
+| Headache | 22.2 | 15.6 |
+| Dizziness | 6.7 | 5.2 |
+| Tremor | 2.7 | 0.5 |
+| Paresthesia | 1.2 | 0 |
+| Sedation | 1.2 | 0 |
+| Tension headache | 1.2 | 0.5 |
+| Psychiatric Disorders |  |  |
+| Insomnia | 12.3 | 6.1 |
+| Anxiety | 8.2 | 2.4 |
+| Initial insomnia | 4.3 | 2.8 |
+| Depressed mood | 3.9 | 1.4 |
+| Nervousness | 3.1 | 0.5 |
+| Restlessness | 3.1 | 0 |
+| Agitation | 2.2 | 0.5 |
+| Aggression | 1.7 | 0.5 |
+| Bruxism | 1.7 | 0.5 |
+| Depression | 1.7 | 0.9 |
+| Libido decreased | 1.7 | 0.5 |
+| Affect lability | 1.4 | 0.9 |
+| Confusional state | 1.2 | 0.5 |
+| Tension | 1.2 | 0.5 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Pharyngolaryngeal pain | 1.7 | 1.4 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Hyperhidrosis | 5.1 | 0.9 |
 
-### Tics
+The majority of ADRs were mild to moderate in severity.
+
+## 6.2 Other Adverse Reactions Observed in CONCERTA® Clinical Trials
+
+The following adverse reactions occurred in <1% of all patients in the above double-blind, placebo-controlled clinical trial data sets.
+In addition, the following also includes all adverse reactions reported in CONCERTA®-treated subjects who participated in open-label studies.
+Adverse reactions listed in Tables 4 and 5 above are not included below.
+
+Blood and Lymphatic System Disorders: Leukopenia
+
+Eye Disorders: Dry eyes
+
+Gastrointestinal Disorders: Abdominal pain, Diarrhea, Stomach discomfort
+
+General Disorders and Administrative Site Conditions: Fatigue, Feeling jittery
+
+Investigations: Blood pressure increased, Cardiac murmur, Heart rate increased
+
+Nervous System Disorders: Lethargy, Psychomotor hyperactivity, Somnolence
+
+Psychiatric Disorders: Anger, Hypervigilance, Mood altered, Mood swings, Sleep disorder, Tearfulness, Tic
+
+Reproductive System and Breast Disorders: Erectile dysfunction
+
+Respiratory, Thoracic and Mediastinal Disorders: Dyspnea
+
+Skin and Subcutaneous Tissue Disorders: Rash, Rash-Macular
+
+Vascular Disorders: Hypertension
+
+## 6.3 Discontinuation Due to Adverse Reactions
+
+In the 4 placebo-controlled studies of children and adolescents, 2 CONCERTA® patients (0.6%) discontinued due to adverse reactions of depressed mood (1, 0.3%) and headache and insomnia (1, 0.3%) and 4 placebo subjects (1.3%) discontinued due to adverse reactions of headache and insomnia, irritability, psychomotor hyperactivity, and tic (1 each, 0.3%).
+
+In the 2 placebo-controlled studies of adults, 24 CONCERTA® patients (5.8%) and 4 placebo patients (1.9%) discontinued due to an adverse reaction.
+Those events with an incidence of >0.5% in the CONCERTA® patients included anxiety (1.7%), irritability (1.4%), blood pressure increased (1.0%), and nervousness (0.7%).
+In placebo patients, blood pressure increased and depressed mood had an incidence of >0.5% (0.9%).
+
+In the 11 open-label studies of children, adolescents and adults, 265 CONCERTA® patients (7.4%) discontinued due to an adverse reaction.
+Those events with an incidence of >0.5% included insomnia (1.3%), irritability (0.8%), anxiety (0.8%), decreased appetite (0.7%), headache (0.6%), and tic (0.6%).
+
+## 6.4 Tics
 
 In a long-term uncontrolled study (n=432 children), the cumulative incidence of new onset of tics was 9% after 27 months of treatment with CONCERTA®.
 
 In a second uncontrolled study (n=682 children) the cumulative incidence of new onset tics was 1% (9/682 children).
 The treatment period was up to 9 months with mean treatment duration of 7.2 months.
 
-### Hypertension
+## 6.5 Blood Pressure and Heart Rate Increases
 
-In the laboratory classroom clinical trials in children (Studies 1 and 2), both CONCERTA ® qd and methylphenidate tid increased resting pulse by an average of 2-6 bpm and produced average increases of systolic and diastolic blood pressure of roughly 1-4 mm Hg during the day, relative to placebo.
+In the laboratory classroom clinical trials in children (Studies 1 and 2), both CONCERTA® once daily and methylphenidate three times daily increased resting pulse by an average of 2 to 6 bpm and produced average increases of systolic and diastolic blood pressure of roughly 1 to 4 mm Hg during the day, relative to placebo.
+In the placebo-controlled adolescent trial (Study 4), mean increases from baseline in resting pulse rate were observed with CONCERTA® and placebo at the end of the double-blind phase (5 and 3 beats/minute, respectively).
+Mean increases from baseline in blood pressure at the end of the double-blind phase for CONCERTA® and placebo-treated patients were 0.7 and 0.7 mm Hg (systolic) and 2.6 and 1.4 mm Hg (diastolic), respectively.
+In one placebo-controlled study in adults (Study 6), dose-dependent mean increases of 3.9 to 9.8 bpm from baseline in standing pulse rate were observed with CONCERTA® at the end of the double-blind treatment vs. an increase of 2.7 beats/minute with placebo.
+Mean changes from baseline in standing blood pressure at the end of double-blind treatment ranged from 0.1 to 2.2 mm Hg (systolic) and -0.7 to 2.2 mm Hg (diastolic) for CONCERTA® and was 1.1 mm Hg (systolic) and -1.8 mm Hg (diastolic) for placebo.
+In a second placebo-controlled study in adults (Study 5), mean changes from baseline in resting pulse rate were observed for CONCERTA® and placebo at the end of the double-blind treatment (3.6 and –1.6 beats/minute, respectively).
+Mean changes from baseline in blood pressure at the end of the double–blind treatment for CONCERTA® and placebo-treated patients were –1.2 and –0.5 mm Hg (systolic) and 1.1 and 0.4 mm Hg (diastolic), respectively [see Warnings and Precautions (5.1]).
 
-In the placebo-controlled adolescent trial (Study 4), mean increases from baseline in resting pulse rate were observed with CONCERTA ® and placebo at the end of the double-blind phase (5 and 3 beats/minute, respectively).
-Mean increases from baseline in blood pressure at the end of the double-blind phase for CONCERTA ® and placebo-treated patients were 0.7 and 0.7 mm Hg (systolic) and 2.6 and 1.4 mm Hg (diastolic), respectively (see WARNINGS).
+## 6.6 Post-Marketing Experience
 
-### Post-Marketing Experience with CONCERTA®:
+The following additional adverse reactions have been identified during post-approval use of CONCERTA®.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
 
-Post-marketing experiences with CONCERTAâ have revealed spontaneous reports of the following adverse events: difficulties in visual accommodation; mydriasis; blurred vision; blood alkaline phosphatase increased; blood bilirubin increased; abnormal liver function test (e.g., transaminase elevation); bradycardia; palpitations; arrhythmia; chest discomfort; restlessness; Raynaud’s phenomenon; erythema; hyperhidrosis; arthralgia; myalgia; muscle twitching; therapeutic response decreased; drug effect decreased; hyperpyrexia; weight decreased; leucopenia; white blood cell count abnormal; pancytopenia; thrombocytopenia; platelet count decreased; confusional state; disorientation; alopecia; and hypersensitivity reactions such as angioedema, anaphylactic reactions, auricular swelling, bullous conditions, exfoliative conditions, urticarias, pruritus NEC, rashes, eruptions, and exanthemas NEC.
+Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocytopenic purpura
 
-## Adverse Events with Other Methylphenidate HCl Products
+Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystoles, Supraventricular tachycardia, Ventricular extrasystoles
 
-Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
-Other reactions include hypersensitivity (including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura); anorexia; nausea; dizziness; headache; dyskinesia; drowsiness; blood pressure and pulse changes, both up and down; tachycardia; angina; abdominal pain; weight loss during prolonged therapy.
-There have been rare reports of Tourette's syndrome.
-Toxic psychosis has been reported.
-Although a definite causal relationship has not been established, the following have been reported in patients taking this drug: hepatic coma; isolated cases of cerebral arteritis and/or occlusion; anemia; transient depressed mood; a few instances of scalp hair loss.
-Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
-In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
-It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
+Eye Disorders: Diplopia, Mydriasis, Visual disturbance
 
-In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed above may also occur.
+General Disorders: Chest pain, Chest discomfort, Drug effect decreased, Hyperpyrexia, Therapeutic response decreased
+
+Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
+
+Investigations: Blood alkaline phosphatase increased, Blood bilirubin increased, Hepatic enzyme increased, Platelet count decreased, White blood cell count abnormal
+
+Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching
+
+Nervous System Disorders: Convulsions, Grand mal convulsions, Dyskinesia
+
+Psychiatric Disorders: Disorientation, Hallucinations, Hallucinations auditory, Hallucinations visual, Mania
+
+Skin and Subcutaneous Tissue Disorders: Alopecia, Erythema
+
+Vascular Disorders: Raynaud's phenomenon
