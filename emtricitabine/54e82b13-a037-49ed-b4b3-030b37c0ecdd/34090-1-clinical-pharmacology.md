@@ -55,25 +55,25 @@ Tenofovir Disoproxil Fumarate: There were insufficient numbers from racial and e
 
 Gender
 
-Emtricitabine and Tenofovir Disoproxil Fumarate: Emtricitabine and tenofovir pharmacokinetics are similar in male and female patients.
+Emtricitabine and Tenofovir Disoproxil Fumarate: Emtricitabine and tenofovir pharmacokinetics are similar in male and female subjects.
 
 Pediatric and Geriatric Patients
 
-Pharmacokinetic studies of tenofovir have not been performed in pediatric patients (<18 years).
+Pharmacokinetic studies of tenofovir have not been performed in pediatric subjects (<18 years).
 Pharmacokinetics of emtricitabine and tenofovir have not been fully evaluated in the elderly (>65 years).
 
 Patients with Impaired Renal Function
 
-The pharmacokinetics of emtricitabine and tenofovir are altered in patients with renal impairment [See Warnings and Precautions (5.3)].
-In patients with creatinine clearance <50 mL/min, Cmax, and AUC0–∞ of emtricitabine and tenofovir were increased.
+The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.3)].
+In subjects with creatinine clearance <50 mL/min, Cmax, and AUC0–∞ of emtricitabine and tenofovir were increased.
 It is recommended that the dosing interval for TRUVADA be modified in patients with creatinine clearance 30–49 mL/min.
 TRUVADA should not be used in patients with creatinine clearance <30 mL/min and in patients with end-stage renal disease requiring dialysis [See Dosage and Administration (2.2)].
 
 Patients with Hepatic Impairment
 
-The pharmacokinetics of tenofovir following a 300 mg dose of VIREAD have been studied in non-HIV infected patients with moderate to severe hepatic impairment.
-There were no substantial alterations in tenofovir pharmacokinetics in patients with hepatic impairment compared with unimpaired patients.
-The pharmacokinetics of TRUVADA or emtricitabine have not been studied in patients with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of liver impairment should be limited.
+The pharmacokinetics of tenofovir following a 300 mg dose of VIREAD have been studied in non-HIV infected subjects with moderate to severe hepatic impairment.
+There were no substantial alterations in tenofovir pharmacokinetics in subjects with hepatic impairment compared with unimpaired subjects.
+The pharmacokinetics of TRUVADA or emtricitabine have not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of liver impairment should be limited.
 
 Assessment of Drug Interactions
 
@@ -132,7 +132,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NA = Not Applicable (90% CI) |  |  |
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) |  | NA |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
-| Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected patients, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
+| Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
 | Efavirenz | 600 once daily × 14 days | 30 |  |  |  |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) |  |  |
@@ -204,10 +204,10 @@ Resistance
 Emtricitabine and Tenofovir Disoproxil Fumarate: HIV-1 isolates with reduced susceptibility to the combination of emtricitabine and tenofovir have been selected in cell culture.
 Genotypic analysis of these isolates identified the M184V/I and/or K65R amino acid substitutions in the viral RT.
 
-In a clinical study of treatment-naïve patients [Study 934, see Clinical Studies (14.1)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure patients with >400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
+In a clinical study of treatment-naive subjects [Study 934, see Clinical Studies (14.1)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure subjects with >400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
 Development of efavirenz resistance-associated substitutions occurred most frequently and was similar between the treatment arms.
-The M184V amino acid substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed patient isolates in the EMTRIVA + VIREAD group and in 10/29 analyzed patient isolates in the zidovudine/lamivudine group.
-Through 144 weeks of Study 934, no patients have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
+The M184V amino acid substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed subjects isolates in the EMTRIVA + VIREAD group and in 10/29 analyzed subjects isolates in the zidovudine/lamivudine group.
+Through 144 weeks of Study 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
 
 Emtricitabine: Emtricitabine-resistant isolates of HIV-1 have been selected in cell culture and in vivo.
 Genotypic analysis of these isolates showed that the reduced susceptibility to emtricitabine was associated with a substitution in the HIV-1 RT gene at codon 184 which resulted in an amino acid substitution of methionine by valine or isoleucine (M184V/I).
@@ -215,8 +215,8 @@ Genotypic analysis of these isolates showed that the reduced susceptibility to e
 Tenofovir Disoproxil Fumarate: HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
 These viruses expressed a K65R substitution in RT and showed a 2–4 fold reduction in susceptibility to tenofovir.
 
-In treatment-naïve patients, isolates from 8/47 (17%) analyzed patients developed the K65R substitution in the VIREAD arm through 144 weeks; 7 occurred in the first 48 weeks of treatment and 1 at Week 96.
-In treatment-experienced patients, 14/304 (5%) isolates from patients failing VIREAD through Week 96 showed >1.4 fold (median 2.7) reduced susceptibility to tenofovir.
+In treatment-naive subjects, isolates from 8/47 (17%) analyzed subjects developed the K65R substitution in the VIREAD arm through 144 weeks; 7 occurred in the first 48 weeks of treatment and 1 at Week 96.
+In treatment-experienced subjects, 14/304 (5%) isolates from subjects failing VIREAD through Week 96 showed >1.4 fold (median 2.7) reduced susceptibility to tenofovir.
 Genotypic analysis of the resistant isolates showed a substitution in the HIV-1 RT gene resulting in the K65R amino acid substitution.
 
 Cross Resistance
@@ -231,4 +231,5 @@ Viruses harboring substitutions conferring reduced susceptibility to stavudine a
 HIV-1 containing the K103N substitution associated with resistance to NNRTIs was susceptible to emtricitabine.
 
 Tenofovir Disoproxil Fumarate: HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
-Multinucleoside resistant HIV-1 with a T69S double insertion substitution in the RT showed reduced susceptibility to tenofovir.
+Subjects whose virus expressed an L74V substitution without zidovudine resistance associated substitutions (N=8) had reduced response to VIREAD.
+Limited data are available for patients whose virus expressed a Y115F substitution (N=3), Q151M substitution (N=2), or T69 insertion (N=4), all of whom had a reduced response.

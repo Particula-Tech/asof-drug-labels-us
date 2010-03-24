@@ -1,3 +1,5 @@
+FDA-Approved Patient Labeling
+
 TRUVADA® (tru-VAH-dah) tablets
 
 Generic name: emtricitabine and tenofovir disoproxil fumarate (em tri SIT uh bean and te NOE' fo veer dye soe PROX il FYOU mar ate)
@@ -30,9 +32,9 @@ What is the most important information I should know about TRUVADA?
   - You feel sick to your stomach (nausea).
   - You have lower stomach area (abdominal) pain.
 - You may be more likely to get lactic acidosis or liver problems if you are female, very overweight (obese), or have been taking nucleoside analog medicines, like TRUVADA, for a long time.
-- If you are also infected with the Hepatitis B Virus (HBV), you need close medical follow-up for several months after stopping treatment with TRUVADA.
+- If you are also infected with the hepatitis B virus (HBV), you need close medical follow-up for several months after stopping treatment with TRUVADA.
   Follow-up includes medical exams and blood tests to check for HBV that could be getting worse.
-  Patients with Hepatitis B Virus infection, who take TRUVADA and then stop it, may get "flare-ups" of their hepatitis.
+  Patients with hepatitis B virus infection, who take TRUVADA and then stop it, may get "flare-ups" of their hepatitis.
   A "flare-up" is when the disease suddenly returns in a worse way than before.
 
 What is TRUVADA?
@@ -85,7 +87,7 @@ Tell your healthcare provider if you:
   If you are a woman who has or will have a baby, talk with your healthcare provider about the best way to feed your baby.
 - have kidney problems or are undergoing kidney dialysis treatment.
 - have bone problems.
-- have liver problems including Hepatitis B Virus infection.
+- have liver problems including hepatitis B virus infection.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you take:
@@ -150,14 +152,15 @@ TRUVADA may cause the following serious side effects (see "What is the most impo
 - Serious liver problems (hepatotoxicity), with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
   Call your healthcare provider right away if you get any signs of liver problems.
   (See "What is the most important information I should know about TRUVADA?")
-- "Flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking TRUVADA.
+- "Flare-ups" of hepatitis B virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking TRUVADA.
   Your healthcare provider will monitor your condition for several months after stopping TRUVADA if you have both HIV-1 and HBV infection.
-  TRUVADA is not approved for the treatment of Hepatitis B Virus infection.
+  TRUVADA is not approved for the treatment of hepatitis B virus infection.
   If you have advanced liver disease and stop treatment with TRUVADA, the "flare-up" of hepatitis B may cause your liver function to decline.
 - Kidney problems.
   If you have had kidney problems in the past or take other medicines that can cause kidney problems, your healthcare provider should do regular blood tests to check your kidneys.
 - Changes in bone mineral density (thinning bones).
   Laboratory tests show changes in the bones of patients treated with VIREAD, a component of TRUVADA.
+  Some HIV patients treated with VIREAD developed thinning of the bones (osteopenia) which could lead to fractures.
   If you have had bone problems in the past, your healthcare provider may need to do tests to check your bone mineral density or may prescribe medicines to help your bone mineral density.
   Additionally, bone pain and softening of the bone (which may contribute to fractures) may occur as a consequence of kidney problems.
 
@@ -172,7 +175,7 @@ Other side effects with TRUVADA when used with other anti-HIV-1 medicines includ
   If you notice any symptoms of infection, please inform your doctor immediately.
 
 The most common side effects of EMTRIVA or VIREAD when used with other anti-HIV-1 medicines are: diarrhea, dizziness, nausea, headache, fatigue, abnormal dreams, sleeping problems, rash, depression, and vomiting.
-Additional side effects are lactic acidosis, kidney problems (including decline or failure of kidney function), inflammation of the pancreas, inflammation of the liver, allergic reaction, shortness of breath, pain, fatty liver, stomach pain, weakness, indigestion, intestinal gas, and high volume of urine and thirst caused by kidney problems.
+Additional side effects are lactic acidosis, kidney problems (including decline or failure of kidney function), inflammation of the pancreas, inflammation of the liver, allergic reaction (including swelling of the face, lips, tongue, or throat), shortness of breath, pain, fatty liver, stomach pain, weakness, indigestion, intestinal gas, and high volume of urine and thirst caused by kidney problems.
 Muscle pain and muscle weakness, bone pain, and softening of the bone (which may contribute to fractures) as a consequence of kidney problems have been reported.
 Skin discoloration (small spots or freckles) may also happen with TRUVADA.
 
@@ -212,9 +215,9 @@ The tablets are coated with Opadry II Blue Y-30-10701 containing FD&C Blue #2 al
 
 Rx Only
 
-November 2008
+November 2009
 
 TRUVADA, EMTRIVA, HEPSERA and VIREAD are registered trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-21-752-GS-022 041108
+21-752-GS-023

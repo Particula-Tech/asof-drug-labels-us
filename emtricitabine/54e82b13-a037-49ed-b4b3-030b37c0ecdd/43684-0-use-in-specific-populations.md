@@ -16,7 +16,7 @@ Healthcare providers are encouraged to register patients by calling 1-800-258-42
 
 ## 8.3 Nursing Mothers
 
-Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
+Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
 Studies in rats have demonstrated that tenofovir is secreted in milk.
 It is not known whether tenofovir is excreted in human milk.
 It is not known whether emtricitabine is excreted in human milk.
