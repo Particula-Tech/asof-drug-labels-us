@@ -48,7 +48,7 @@ The target maintenance dose of oxcarbazepine should be achieved over two weeks, 
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6-51 mg/kg.
 
-In pediatric patients aged 2-<4 years, treatment should also be initiated at a daily dose of 8-10 mg/kg generally not to exceed 600 mg/day, given in a BID regimen.
+In pediatric patients aged 2 to <4 years, treatment should also be initiated at a daily dose of 8-10 mg/kg generally not to exceed 600 mg/day, given in a BID regimen.
 For patients under 20 kg, a starting dose of 16-20 mg/kg may be considered (see CLINICAL PHARMACOLOGY).
 The maximum maintenance dose of oxcarbazepine should be achieved over 2-4 weeks and should not exceed 60 mg/kg/day in a BID regimen.
 
