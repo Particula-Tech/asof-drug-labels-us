@@ -1,4 +1,4 @@
-Principal Display Panel
+# Principal Display Panel
 
 NDC 64455-994-42
 
@@ -18,7 +18,7 @@ Store at or below 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF)
 
 Usual Dosage: Apply 5 times per day for 4 days.
 
-See prescribing information for dosage infromation.
+See prescribing information for dosage information.
 
 SEE CRIMP FOR LOT NO. AND EXPIRATION DATE.
 
@@ -30,7 +30,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-For BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation)
+for BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation)
 
 Bridgewater, NJ 08807
 
