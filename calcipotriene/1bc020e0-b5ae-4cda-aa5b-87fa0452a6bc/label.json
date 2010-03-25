@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090633"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-310-65"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene",
+      "name": "Calcipotriene"
+    }
+  ],
+  "setid": "1bc020e0-b5ae-4cda-aa5b-87fa0452a6bc",
+  "source": "dailymed"
+}
