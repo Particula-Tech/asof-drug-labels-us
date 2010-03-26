@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA103000"
+  ],
+  "inn": "botulinum-toxin-type-a",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-3919-50",
+    "0023-3919-51",
+    "0023-9232-01",
+    "0023-9232-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "onabotulinumtoxina",
+      "name": "BOTOX Cosmetic"
+    }
+  ],
+  "setid": "485d9b71-6881-42c5-a620-a4360c7192ab",
+  "source": "dailymed"
+}
