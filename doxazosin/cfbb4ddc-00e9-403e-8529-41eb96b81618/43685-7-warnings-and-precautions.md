@@ -15,9 +15,16 @@ Care should be taken when CARDURA XL is administered to patients with symptomati
 Carcinoma of the prostate causes many of the same symptoms associated with BPH and the two disorders frequently co-exist.
 Carcinoma of the prostate should therefore be ruled out prior to commencing therapy with CARDURA XL.
 
+### Cataract Surgery
+
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha1 blockers.
+This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
+The patient's surgeon should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+There does not appear to be a benefit of stopping alpha1 blocker therapy prior to cataract surgery.
+
 ### Gastrointestinal Disorders
 
-As with any other non-deformable material, caution should be used when administering CARDURA XL Extended Release Tablets to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
+As with any other non-deformable material, caution should be used when administering CARDURA XL to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of another drug in this non-deformable extended release formulation.
 Markedly increased GI retention times, as may occur in patients with chronic constipation, can increase systemic exposure to doxazosin and thereby potentially increase adverse reactions.
 
@@ -30,8 +37,10 @@ Since there is no clinical experience in patients with severe hepatic dysfunctio
 
 No in vivo drug interaction studies were conducted with CARDURA XL (see CLINICAL PHARMACOLOGY; Drug-Drug Interactions).
 In vitro studies suggest that doxazosin is a substrate of CYP3A4.
-Caution should be exercised when concomitantly administering a potent 3A4 inhibitor, such as atanazavir, clarithromycin, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole with CARDURA XL.
+Caution should be exercised when concomitantly administering a potent 3A4 inhibitor, such as atanazavir, clarithromycin, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, or voriconazole with CARDURA XL.
 Pharmacodynamic interactions between CARDURA XL and anti-hypertensive medications or other vasodilating agents have also not been determined.
+
+Concomitant administration of CARDURA XL with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension (see DOSAGE AND ADMINISTRATION).
 
 ### Patients with Coronary Insufficiency
 
@@ -43,10 +52,10 @@ If symptoms of angina pectoris should newly appear or worsen, CARDURA XL should 
 Patients should be told about the possible occurrence of symptoms related to postural hypotension, such as dizziness or syncope, when beginning therapy or when increasing dosage strength of CARDURA XL.
 Patients should be cautioned about driving, operating machinery, or performing hazardous tasks during this period, until the drug's effect has been determined.
 
-Patients should be informed that CARDURA XL Extended Release Tablets should be swallowed whole.
-Patients should not chew, divide, cut or crush tablets.
+Patients should be informed that CARDURA XL extended release tablets should be swallowed whole.
+Patients should not chew, divide, cut, or crush tablets.
 Patients should not be concerned if they occasionally notice in their stool something that looks like a tablet.
-In the CARDURA XL Extended Release Tablet, the medication is contained within a nonabsorbable shell designed to release the drug at a controlled rate.
+In the CARDURA XL extended release tablet, the medication is contained within a nonabsorbable shell designed to release the drug at a controlled rate.
 When this process is completed, the empty tablet is eliminated from the body.
 
 CARDURA XL should be taken each day with breakfast.
@@ -61,14 +70,14 @@ There was no statistically significant difference between these two groups.
 
 ## Cardiac Toxicity in Animals
 
-Studies in Sprague-Dawley rats after 6, 12, and 18 months, and in CD-1 mice after 18 months of dietary administration showed an increased incidence of myocardial necrosis or fibrosis at doxazosin base exposure of 26-fold above the human exposure (AUC) at the maximum human recommended dose (MHRD) of 8 mg of CARDURA XL.
-No cardiotoxicity was observed in dogs or Wistar rats after 12 months of oral dosing at doxazosin base exposures of 65- and 85-fold, respectively, above the human exposure (Cmax) at the MHRD of 8 mg of CARDURA XL.
+Studies in Sprague-Dawley rats after 6, 12, and 18 months, and in CD-1 mice after 18 months of dietary administration, showed an increased incidence of myocardial necrosis or fibrosis at doxazosin base exposure of 26-fold above the human exposure (AUC) at the maximum human recommended dose (MHRD) of 8 mg CARDURA XL.
+No cardiotoxicity was observed in dogs or Wistar rats after 12 months of oral dosing at doxazosin base exposures of 65- and 85-fold, respectively, above the human exposure (Cmax) at the MHRD of 8 mg CARDURA XL.
 There is no evidence that similar lesions occur in humans.
 
 ## Carcinogenesis and Mutagenesis
 
 Doxazosin mesylate was not carcinogenic to rats or mice when administered daily for 2 years at doses up to 40 mg/kg/day or 120 mg/kg/day, respectively.
-Systemic drug exposures, as measured by AUC, were approximately 34-fold in rats and 16-fold in mice above the exposures at the MRHD of 8 mg CARDURA XL.
+Systemic drug exposures, as measured by AUC, were approximately 34-fold in rats and 16-fold in mice above the exposures at the MHRD of 8 mg CARDURA XL.
 
 Doxazosin base was not mutagenic in the in vitro bacterial Ames assays, the chromosomal aberration assay in human lymphocytes, or the mouse lymphoma assay.
 Doxazosin was not clastogenic in the in vivo mouse micronucleus assay.
@@ -76,7 +85,7 @@ Doxazosin mesylate has not been evaluated for genotoxicity.
 
 ## Fertility in Males
 
-Studies in rats after oral administration of doxazosin base showed reduced fertility in males which was reversible after two weeks of treatment termination at doxazosin base exposure of 13-fold above the human exposure (AUC) at the MHRD of 8 mg of CARDURA XL.
+Studies in rats after oral administration of doxazosin base showed reduced fertility in males, which was reversible after two weeks of treatment termination at doxazosin base exposure of 13-fold above the human exposure (AUC) at the MHRD of 8 mg CARDURA XL.
 There have been no reports of any effects of doxazosin on male fertility in humans.
 
 ## Pregnancy
@@ -84,8 +93,9 @@ There have been no reports of any effects of doxazosin on male fertility in huma
 ### Teratogenic Effects, Pregnancy Category C
 
 CARDURA XL is not indicated for use in women.
+
 There was no evidence of teratogenicity or embryotoxicity in rat or rabbit fetuses that received up to 20 mg/kg/day or 41 mg/kg/day doxazosin base, respectively, administered during major organ development.
-Plasma exposure at these doses is approximately 32- and 13-fold, respectively, above the AUC values for doxazosin base in humans given the MRHD of 8 mg CARDURA XL.
+Plasma exposure at these doses is approximately 32- and 13-fold, respectively, above the AUC values for doxazosin base in humans given the MHRD of 8 mg CARDURA XL.
 Embryolethality was observed in rabbits at a dose of 100 mg/kg/day of doxazosin mesylate when administered during major organ development.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, CARDURA XL should be used during pregnancy only if clearly needed.
@@ -94,7 +104,7 @@ Doxazosin base was found to cross the placenta following oral administration to 
 
 ### Nonteratogenic Effects
 
-In pre and postnatal development studies in rats, postnatal development was delayed as evidenced by body weight gain suppression and a slight delay in the appearance of developmental anatomical landmarks and reflexes at a doxazosin base exposure of 26-fold above the human exposure (AUC) at the MHRD of 8 mg of CARDURA XL.
+In pre- and postnatal development studies in rats, postnatal development was delayed as evidenced by body weight gain suppression and a slight delay in the appearance of developmental anatomical landmarks and reflexes at a doxazosin base exposure of 26-fold above the human exposure (AUC) at the MHRD of 8 mg CARDURA XL.
 
 ## Nursing Mothers
 
@@ -111,7 +121,7 @@ The safety and effectiveness of CARDURA XL in pediatric patients have not been e
 ## Geriatric Use
 
 Of the 666 patients with BPH who received CARDURA XL in the two controlled clinical efficacy and safety studies, 325 patients (49%) were 65 years of age or older.
-One hundred and thirty six patients treated with CARDURA XL (20%) were >70 years of age.
+One hundred thirty-six patients treated with CARDURA XL (20%) were >70 years of age.
 
 In these two studies, the cumulative incidence of hypotension appeared to be age related.
 The reason for an increased incidence of hypotension in patients older than 70 years of age may be related to a modest increase in systemic exposure to doxazosin (see CLINICAL PHARMACOLOGY; Pharmacokinetics in Special Populations), to an increased propensity to orthostasis in the elderly, or to an enhanced sensitivity to vasodilatory agents in the elderly.
