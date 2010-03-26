@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA079209"
+  ],
+  "inn": "fluoxetine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-306-12"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluoxetine",
+      "name": "Fluoxetine"
+    }
+  ],
+  "setid": "3195db14-0cae-4b49-9fba-49b869fe92a8",
+  "source": "dailymed"
+}
