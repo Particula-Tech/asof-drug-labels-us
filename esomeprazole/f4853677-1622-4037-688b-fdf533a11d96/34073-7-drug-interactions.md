@@ -49,6 +49,12 @@ Concomitant administration of esomeprazole and a combined inhibitor of CYP 2C19 
 Dose adjustment of esomeprazole is not normally required.
 However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
 
+Omeprazole acts as an inhibitor of CYP 2C19.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
+Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69% respectively.
+Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
+Therefore a dose reduction of cilostazol from 100 mg b.i.d. to 50 mg b.i.d. should be considered.
+
 ## 7.4 Combination Therapy with Clarithromycin
 
 Co-administration of esomeprazole, clarithromycin, and amoxicillin has resulted in increases in the plasma levels of esomeprazole and 14-hydroxyclarithromycin [see Clinical Pharmacology (12.4)].

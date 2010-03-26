@@ -9,7 +9,7 @@ Table 10
 
 Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
-| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Level log-rank test vs omeprazole 20 mg |
+| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Level log-rank test vs. omeprazole 20 mg |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 588 | NEXIUM 20 mg | 68.7% | 90.6% | N.S.N.S. = not significant (p > 0.05) |
 |  | 588 | Omeprazole 20 mg | 69.5% | 88.3% |  |
@@ -25,7 +25,7 @@ In these same studies of patients with erosive esophagitis, sustained heartburn 
 
 Table 11
 
-Sustained ResolutionDefined as 7 consecutive days with no heartburn reported in daily patient diary of Heartburn (Erosive Esophagitis Patients)
+Sustained ResolutionDefined as 7 consecutive days with no heartburn reported in daily patient diary. of Heartburn (Erosive Esophagitis Patients)
 
 |  |  |  | Cumulative PercentDefined as the cumulative proportion of patients who have reached the start of sustained resolution with Sustained Resolution |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Sustained ResolutionDefined as 7 consecutive days with no heartburn reported in 
 | 4 | 1187 | NEXIUM 40 mg | 67.6% | 75.1% | p <0.001 |
 |  | 1188 | Omeprazole 20 mg | 62.5% | 70.8% |  |
 
-In these four studies, the range of median days to the start of sustained resolution (defined as 7 consecutive days with no heartburn) was 5 days for NEXIUM 40 mg, 7-8 days for NEXIUM 20 mg and 7-9 days for omeprazole 20 mg.
+In these four studies, the range of median days to the start of sustained resolution (defined as 7 consecutive days with no heartburn) was 5 days for NEXIUM 40 mg, 7 to 8 days for NEXIUM 20 mg and 7 to 9 days for omeprazole 20 mg.
 
 There are no comparisons of 40 mg of NEXIUM with 40 mg of omeprazole in clinical trials assessing either healing or symptomatic relief of erosive esophagitis.
 
@@ -159,7 +159,7 @@ The percentage of patients with a healed baseline duodenal ulcer by 4 weeks afte
 
 ## 14.6 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-In a multicenter, open-label dose escalation study of 21 patients (15 males and 6 females, 18 Caucasian and 3 Black, mean age of 55.5 years) with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, NEXIUM significantly inhibited gastric acid secretion.
+In a multicenter, open-label dose-escalation study of 21 patients (15 males and 6 females, 18 Caucasian and 3 Black, mean age of 55.5 years) with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, NEXIUM significantly inhibited gastric acid secretion.
 Initial dose was 40 mg twice daily in 19/21 patients and 80 mg twice daily in 2/21 patients.
 Total daily doses ranging from 80 mg to 240 mg for 12 months maintained gastric acid output below the target levels of 10 mEq/h in patients without prior gastric acid-reducing surgery and below 5 mEq/hr in patients with prior gastric acid-reducing surgery.
 At the Month 12 final visit, 18/20 (90%) patients had Basal Acid Output (BAO) under satisfactory control (median BAO = 0.17 mmol/hr).
@@ -167,7 +167,7 @@ Of the 18 patients evaluated with a starting dose of 40 mg twice daily, 13 (72%)
 
 Table 14
 
-Adequate Acid Suppression at final visit by Dose Regimen
+Adequate Acid Suppression at Final Visit by Dose Regimen
 
 | NEXIUM dose at the Month 12 visit | BAO under adequate control at the Month 12 visit (N=20)One patient was not evaluated. |
 | --- | --- |

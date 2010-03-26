@@ -1,4 +1,4 @@
-# 17.2 Patient Information
+# FDA-APPROVED PATIENT LABELING
 
 NEXIUM® (nex-e-um) (esomeprazole magnesium)
 
@@ -172,4 +172,4 @@ Wilmington, DE 19850
 
 Item number
 
-June 2009
+March 2010

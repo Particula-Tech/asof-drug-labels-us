@@ -21,12 +21,12 @@ Effect on Intragastric pH on Day 5 (N=36)
 
 | Parameter | NEXIUM40 mg | NEXIUM20 mg |
 | --- | --- | --- |
-| % Time Gastric pH >4Gastric pH was measured over a 24-hour period(Hours) | 70%p< 0.01 NEXIUM 40 mg vs NEXIUM 20 mg (16.8 h) | 53% (12.7 h) |
+| % Time Gastric pH >4Gastric pH was measured over a 24-hour period(Hours) | 70%p< 0.01 NEXIUM 40 mg vs. NEXIUM 20 mg (16.8 h) | 53% (12.7 h) |
 | Coefficient of variation | 26% | 37% |
 | Median 24 Hour pH | 4.9 | 4.1 |
 | Coefficient of variation | 16% | 27% |
 
-In a second study, the effect on intragastric pH of NEXIUM 40 mg administered once daily over a five day period was similar to the first study, (% time with pH>4 was 68% or 16.3 hours).
+In a second study, the effect on intragastric pH of NEXIUM 40 mg administered once daily over a five day period was similar to the first study, (% time with pH > 4 was 68% or 16.3 hours).
 
 Serum Gastrin Effects
 
@@ -36,20 +36,20 @@ This increase reached a plateau within two to three months of therapy and return
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology, (13.1)].
+In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Human gastric biopsy specimens have been obtained from more than 3,000 patients treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
 
-In over 1,000 patients treated with NEXIUM (10, 20 or 40 mg/day) up to 6-12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
+In over 1,000 patients treated with NEXIUM (10, 20 or 40 mg/day) up to 6 to 12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
 No patient developed ECL cell carcinoids, dysplasia, or neoplasia in the gastric mucosa.
 
 Endocrine Effects
 
 NEXIUM had no effect on thyroid function when given in oral doses of 20 or 40 mg for 4 weeks.
 Other effects of NEXIUM on the endocrine system were assessed using omeprazole studies.
-Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin or secretin.
+Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin, or secretin.
 
 ## 12.3 Pharmacokinetics
 
@@ -60,9 +60,9 @@ Bioequivalency is based on a single dose (40 mg) study in 94 healthy male and fe
 After oral administration peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
 The Cmax increases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
 At repeated once-daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
-The mean exposure (AUC) to esomeprazole increases from 4.32 µmol*hr/L on day 1 to 11.2 µmol*hr/L on day 5 after 40 mg once daily dosing.
+The mean exposure (AUC) to esomeprazole increases from 4.32 µmol*hr/L on Day 1 to 11.2 µmol*hr/L on Day 5 after 40 mg once daily dosing.
 
-The AUC after administration of a single 40 mg dose of NEXIUM is decreased by 43 to 53% after food intake compared to fasting conditions.
+The AUC after administration of a single 40 mg dose of NEXIUM is decreased by 43% to 53% after food intake compared to fasting conditions.
 NEXIUM should be taken at least one hour before meals.
 
 The pharmacokinetic profile of NEXIUM was determined in 36 patients with symptomatic gastroesophageal reflux disease following repeated once daily administration of 20 mg and 40 mg capsules of NEXIUM over a period of five days.
@@ -137,7 +137,7 @@ Summary of PK Parameters in 1 to 11 Year Olds with GERD Following 5 Days of Once
 |  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |
 | --- | --- | --- | --- |
 | Parameter | 10 mg (N=8) | 10 mg (N=7) | 20 mg (N=6) |
-| AUC (μmol*h/L)Geometric Mean; | 4.83 | 3.70 | 6.28 |
+| AUC (μmol*h/L)Geometric mean; | 4.83 | 3.70 | 6.28 |
 | Cmax (μmol/L) | 2.98 | 1.77 | 3.73 |
 | tmax (h)arithmetic mean | 1.44 | 1.79 | 1.75 |
 | t½λz (h) | 0.74 | 0.88 | 0.73 |
@@ -247,4 +247,4 @@ Table 9
 | H. pylori ATCC 43504 | Amoxicillin | 0.016 − 0.12 (mcg/mL) |
 
 Effects on Gastrointestinal Microbial Ecology: Decreased gastric acidity due to any means, including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
