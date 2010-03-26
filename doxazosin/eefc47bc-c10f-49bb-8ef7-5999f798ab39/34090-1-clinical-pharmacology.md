@@ -20,7 +20,7 @@ Since alpha1 adrenoceptors are of low density in the urinary bladder (apart from
 The efficacy of CARDURA was evaluated extensively in over 900 patients with BPH in double-blind, placebo-controlled trials.
 CARDURA treatment was superior to placebo in improving patient symptoms and urinary flow rate.
 Significant relief with CARDURA was seen as early as one week into the treatment regimen, with CARDURA-treated patients (N=173) showing a significant (p<0.01) increase in maximum flow rate of 0.8 mL/sec compared to a decrease of 0.5 mL/sec in the placebo group (N=41).
-In long-term studies improvement was maintained for up to 2 years of treatment.
+In long-term studies, improvement was maintained for up to 2 years of treatment.
 In 66–71% of patients, improvements above baseline were seen in both symptoms and maximum urinary flow rate.
 
 In three placebo-controlled studies of 14–16 weeks' duration, obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning) of BPH were evaluated at each visit by patient-assessed symptom questionnaires.
@@ -32,13 +32,14 @@ The results from the three placebo-controlled studies (N=609) showing significan
 In all three studies, CARDURA resulted in statistically significant relief of obstructive and irritative symptoms compared to placebo.
 Statistically significant improvements of 2.3–3.3 mL/sec in maximum flow rate were seen with CARDURA in Studies 1 and 2, compared to 0.1–0.7 mL/sec with placebo.
 
-In one fixed-dose study (Study 2) CARDURA (doxazosin mesylate) therapy (4–8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3–3.3 mL/sec (Table 1) compared to placebo (0.1 mL/sec).
+In one fixed-dose study (Study 2), CARDURA therapy (4–8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3–3.3 mL/sec (Table 1) compared to placebo (0.1 mL/sec).
 In this study, the only study in which weekly evaluations were made, significant improvement with CARDURA vs. placebo was seen after one week.
 The proportion of patients who responded with a maximum flow rate improvement of ≥3 mL/sec was significantly larger with CARDURA (34–42%) than placebo (13–17%).
 A significantly greater improvement was also seen in average flow rate with CARDURA (1.6 mL/sec) than with placebo (0.2 mL/sec).
 The onset and time course of symptom relief and increased urinary flow from Study 1 are illustrated in Figure 1.
 
-Figure 1 – Study 1
+| Figure 1 – Study 1 |
+| --- |
 
 In BPH patients (N=450) treated for up to 2 years in open-label studies, CARDURA therapy resulted in significant improvement above baseline in urinary flow rates and BPH symptoms.
 The significant effects of CARDURA were maintained over the entire treatment period.
@@ -59,7 +60,7 @@ TABLE 2 Mean Changes in Blood Pressure from Baseline to the Mean of the Final Ef
 
 ### B. Hypertension
 
-The mechanism of action of CARDURA (doxazosin mesylate) is selective blockade of the alpha1 (postjunctional) subtype of adrenergic receptors.
+The mechanism of action of CARDURA is selective blockade of the alpha1 (postjunctional) subtype of adrenergic receptors.
 Studies in normal human subjects have shown that doxazosin competitively antagonized the pressor effects of phenylephrine (an alpha1 agonist) and the systolic pressor effect of norepinephrine.
 Doxazosin and prazosin have similar abilities to antagonize phenylephrine.
 The antihypertensive effect of CARDURA results from a decrease in systemic vascular resistance.
@@ -68,20 +69,20 @@ The low plasma concentrations of known active and inactive metabolites of doxazo
 The 6'- and 7'-hydroxy metabolites have demonstrated antioxidant properties at concentrations of 5 µM, in vitro.
 
 Administration of CARDURA results in a reduction in systemic vascular resistance.
-In patients with hypertension there is little change in cardiac output.
+In patients with hypertension, there is little change in cardiac output.
 Maximum reductions in blood pressure usually occur 2–6 hours after dosing and are associated with a small increase in standing heart rate.
 Like other alpha1-adrenergic blocking agents, doxazosin has a greater effect on blood pressure and heart rate in the standing position.
 
 In a pooled analysis of placebo-controlled hypertension studies with about 300 hypertensive patients per treatment group, doxazosin, at doses of 1–16 mg given once daily, lowered blood pressure at 24 hours by about 10/8 mmHg compared to placebo in the standing position and about 9/5 mmHg in the supine position.
 Peak blood pressure effects (1–6 hours) were larger by about 50–75% (i.e., trough values were about 55–70% of peak effect), with the larger peak-trough differences seen in systolic pressures.
 There was no apparent difference in the blood pressure response of Caucasians and blacks or of patients above and below age 65.
-In these predominantly normocholesterolemic patients doxazosin produced small reductions in total serum cholesterol (2–3%), LDL cholesterol (4%), and a similarly small increase in HDL/total cholesterol ratio (4%).
+In these predominantly normocholesterolemic patients, doxazosin produced small reductions in total serum cholesterol (2–3%), LDL cholesterol (4%), and a similarly small increase in HDL/total cholesterol ratio (4%).
 The clinical significance of these findings is uncertain.
 In the same patient population, patients receiving CARDURA gained a mean of 0.6 kg compared to a mean loss of 0.1 kg for placebo patients.
 
 ## Pharmacokinetics
 
-After oral administration of therapeutic doses, peak plasma levels of CARDURA (doxazosin mesylate) occur at about 2–3 hours.
+After oral administration of therapeutic doses, peak plasma levels of CARDURA occur at about 2–3 hours.
 Bioavailability is approximately 65%, reflecting first-pass metabolism of doxazosin by the liver.
 The effect of food on the pharmacokinetics of CARDURA was examined in a crossover study with twelve hypertensive subjects.
 Reductions of 18% in mean maximum plasma concentration and 12% in the area under the concentration-time curve occurred when CARDURA was administered with food.
@@ -91,7 +92,7 @@ CARDURA is extensively metabolized in the liver, mainly by O-demethylation of th
 Although several active metabolites of doxazosin have been identified, the pharmacokinetics of these metabolites have not been characterized.
 In a study of two subjects administered radiolabelled doxazosin 2 mg orally and 1 mg intravenously on two separate occasions, approximately 63% of the dose was eliminated in the feces and 9% of the dose was found in the urine.
 On average only 4.8% of the dose was excreted as unchanged drug in the feces and only a trace of the total radioactivity in the urine was attributed to unchanged drug.
-At the plasma concentrations achieved by therapeutic doses approximately 98% of the circulating drug is bound to plasma proteins.
+At the plasma concentrations achieved by therapeutic doses, approximately 98% of the circulating drug is bound to plasma proteins.
 
 Plasma elimination of doxazosin is biphasic, with a terminal elimination half-life of about 22 hours.
 Steady-state studies in hypertensive patients given doxazosin doses of 2–16 mg once daily showed linear kinetics and dose proportionality.
@@ -101,11 +102,11 @@ Enterohepatic recycling is suggested by secondary peaking of plasma doxazosin co
 In a crossover study in 24 normotensive subjects, the pharmacokinetics and safety of doxazosin were shown to be similar with morning and evening dosing regimens.
 The area under the curve after morning dosing was, however, 11% less than that after evening dosing and the time to peak concentration after evening dosing occurred significantly later than that after morning dosing (5.6 hr vs. 3.5 hr).
 
-The pharmacokinetics of CARDURA (doxazosin mesylate) in young (<65 years) and elderly (≥65 years) subjects were similar for plasma half-life values and oral clearance.
+The pharmacokinetics of CARDURA in young (<65 years) and elderly (≥65 years) subjects were similar for plasma half-life values and oral clearance.
 Pharmacokinetic studies in elderly patients and patients with renal impairment have shown no significant alterations compared to younger patients with normal renal function.
 Administration of a single 2 mg dose to patients with cirrhosis (Child-Pugh Class A) showed a 40% increase in exposure to doxazosin.
-There are only limited data on the effects of drugs known to influence the hepatic metabolism of doxazosin [e.g., cimetidine (see PRECAUTIONS)].
+There are only limited data on the effects of drugs known to influence the hepatic metabolism of doxazosin [e.g., cimetidine (see PRECAUTIONS, Drug Interactions)].
 As with any drug wholly metabolized by the liver, use of CARDURA in patients with altered liver function should be undertaken with caution.
 
-In two placebo-controlled studies, of normotensive and hypertensive BPH patients, in which doxazosin was administered in the morning and the titration interval was two weeks and one week, respectively, trough plasma concentrations of CARDURA were similar in the two populations.
+In two placebo-controlled studies of normotensive and hypertensive BPH patients, in which doxazosin was administered in the morning and the titration interval was two weeks and one week, respectively, trough plasma concentrations of CARDURA were similar in the two populations.
 Linear kinetics and dose proportionality were observed.

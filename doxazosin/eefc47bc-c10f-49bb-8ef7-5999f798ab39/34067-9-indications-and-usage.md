@@ -10,5 +10,5 @@ Sustained improvements with CARDURA were seen in patients treated for up to 14 w
 
 ## B. Hypertension
 
-CARDURA (doxazosin mesylate) is also indicated for the treatment of hypertension.
-CARDURA may be used alone or in combination with diuretics, beta-adrenergic blocking agents, calcium channel blockers or angiotensin-converting enzyme inhibitors.
+CARDURA is also indicated for the treatment of hypertension.
+CARDURA may be used alone or in combination with diuretics, beta-adrenergic blocking agents, calcium channel blockers, or angiotensin-converting enzyme inhibitors.

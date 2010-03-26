@@ -6,23 +6,23 @@ Doxazosin, like other alpha-adrenergic blocking agents, can cause marked hypoten
 Marked orthostatic effects are most common with the first dose but can also occur when there is a dosage increase, or if therapy is interrupted for more than a few days.
 To decrease the likelihood of excessive hypotension and syncope, it is essential that treatment be initiated with the 1 mg dose.
 The 2, 4, and 8 mg tablets are not for initial therapy.
-Dosage should then be adjusted slowly (see DOSAGE AND ADMINISTRATION section) with evaluations and increases in dose every two weeks to the recommended dose.
+Dosage should then be adjusted slowly (see DOSAGE AND ADMINISTRATION), with evaluations and increases in dose every two weeks to the recommended dose.
 Additional antihypertensive agents should be added with caution.
 
 Patients being titrated with doxazosin should be cautioned to avoid situations where injury could result should syncope occur, during both the day and night.
 
 In an early investigational study of the safety and tolerance of increasing daily doses of doxazosin in normotensives beginning at 1 mg/day, only 2 of 6 subjects could tolerate more than 2 mg/day without experiencing symptomatic postural hypotension.
-In another study of 24 healthy normotensive male subjects receiving initial doses of 2 mg/day of doxazosin, seven (29%) of the subjects experienced symptomatic postural hypotension between 0.5 and 6 hours after the first dose necessitating termination of the study.
+In another study of 24 healthy normotensive male subjects receiving initial doses of 2 mg/day of doxazosin, seven (29%) of the subjects experienced symptomatic postural hypotension between 0.5 and 6 hours after the first dose, necessitating termination of the study.
 In this study, 2 of the normotensive subjects experienced syncope.
-Subsequent trials in hypertensive patients always began doxazosin dosing at 1 mg/day resulting in a 4% incidence of postural side effects at 1 mg/day with no cases of syncope.
+Subsequent trials in hypertensive patients always began doxazosin dosing at 1 mg/day, resulting in a 4% incidence of postural side effects at 1 mg/day with no cases of syncope.
 
 In multiple-dose clinical trials in hypertension involving over 1500 hypertensive patients with dose titration every one to two weeks, syncope was reported in 0.7% of patients.
-None of these events occurred at the starting dose of 1 mg and 1.2% (8/664) occurred at 16 mg/day.
+None of these events occurred at the starting dose of 1 mg, and 1.2% (8/664) occurred at 16 mg/day.
 
 In placebo-controlled clinical trials in BPH, 3 out of 665 patients (0.5%) taking doxazosin reported syncope.
 Two of the patients were taking 1 mg doxazosin, while one patient was taking 2 mg doxazosin when syncope occurred.
 In the open-label, long-term extension follow-up of approximately 450 BPH patients, there were 3 reports of syncope (0.7%).
-One patient was taking 2 mg, one patient was taking 8 mg and one patient was taking 12 mg when syncope occurred.
+One patient was taking 2 mg, one patient was taking 8 mg, and one patient was taking 12 mg when syncope occurred.
 In a clinical pharmacology study, one subject receiving 2 mg experienced syncope.
 
 If syncope occurs, the patient should be placed in a recumbent position and treated supportively as necessary.
@@ -30,7 +30,7 @@ If syncope occurs, the patient should be placed in a recumbent position and trea
 ## Priapism
 
 Rarely (probably less frequently than once in every several thousand patients), alpha1 antagonists, including doxazosin, have been associated with priapism (painful penile erection, sustained for hours and unrelieved by sexual intercourse or masturbation).
-Because this condition can lead to permanent impotence if not promptly treated, patients must be advised about the seriousness of the condition (see PRECAUTIONS: Information for Patients).
+Because this condition can lead to permanent impotence if not promptly treated, patients must be advised about the seriousness of the condition (see PRECAUTIONS, Information for Patients).
 
 # PRECAUTIONS
 
@@ -52,29 +52,38 @@ There does not appear to be a benefit of stopping alpha1 blocker therapy prior t
 
 While syncope is the most severe orthostatic effect of CARDURA, other symptoms of lowered blood pressure, such as dizziness, lightheadedness, or vertigo can occur, especially at initiation of therapy or at the time of dose increases.
 
-1. a)HypertensionThese symptoms were common in clinical trials in hypertension, occurring in up to 23% of all patients treated and causing discontinuation of therapy in about 2%.In placebo-controlled titration trials in hypertension, orthostatic effects were minimized by beginning therapy at 1 mg per day and titrating every two weeks to 2, 4, or 8 mg per day.
-   There was an increased frequency of orthostatic effects in patients given 8 mg or more, 10%, compared to 5% at 1–4 mg and 3% in the placebo group.
-2. b)Benign Prostatic HyperplasiaIn placebo-controlled trials in BPH, the incidence of orthostatic hypotension with doxazosin was 0.3% and did not increase with increasing dosage (to 8 mg/day).
-   The incidence of discontinuations due to hypotensive or orthostatic symptoms was 3.3% with doxazosin and 1% with placebo.
-   The titration interval in these studies was one to two weeks.
+#### a) Hypertension
+
+These symptoms were common in clinical trials in hypertension, occurring in up to 23% of all patients treated and causing discontinuation of therapy in about 2%.
+
+In placebo-controlled titration trials in hypertension, orthostatic effects were minimized by beginning therapy at 1 mg per day and titrating every two weeks to 2, 4, or 8 mg per day.
+There was an increased frequency of orthostatic effects in patients given 8 mg or more, 10%, compared to 5% at 1–4 mg and 3% in the placebo group.
+
+#### b) Benign Prostatic Hyperplasia
+
+In placebo-controlled trials in BPH, the incidence of orthostatic hypotension with doxazosin was 0.3% and did not increase with increasing dosage (to 8 mg/day).
+The incidence of discontinuations due to hypotensive or orthostatic symptoms was 3.3% with doxazosin and 1% with placebo.
+The titration interval in these studies was one to two weeks.
 
 Patients in occupations in which orthostatic hypotension could be dangerous should be treated with particular caution.
-As alpha1 antagonists can cause orthostatic effects, it is important to evaluate standing blood pressure two minutes after standing and patients should be advised to exercise care when arising from a supine or sitting position.
+As alpha1 antagonists can cause orthostatic effects, it is important to evaluate standing blood pressure two minutes after standing, and patients should be advised to exercise care when arising from a supine or sitting position.
 
 If hypotension occurs, the patient should be placed in the supine position and, if this measure is inadequate, volume expansion with intravenous fluids or vasopressor therapy may be used.
-A transient hypotensive response is not a contraindication to further doses of CARDURA (doxazosin mesylate).
+A transient hypotensive response is not a contraindication to further doses of CARDURA.
 
-## Information for Patients (See patient package insert)
+## Information for Patients
+
+(See patient package insert)
 
 Patients should be made aware of the possibility of syncopal and orthostatic symptoms, especially at the initiation of therapy, and urged to avoid driving or hazardous tasks for 24 hours after the first dose, after a dosage increase, and after interruption of therapy when treatment is resumed.
 They should be cautioned to avoid situations where injury could result should syncope occur during initiation of doxazosin therapy.
 They should also be advised of the need to sit or lie down when symptoms of lowered blood pressure occur, although these symptoms are not always orthostatic, and to be careful when rising from a sitting or lying position.
-If dizziness, lightheadedness, or palpitations are bothersome they should be reported to the physician, so that dose adjustment can be considered.
-Patients should also be told that drowsiness or somnolence can occur with CARDURA (doxazosin mesylate) or any selective alpha1 adrenoceptor antagonist, requiring caution in people who must drive or operate heavy machinery.
+If dizziness, lightheadedness, or palpitations are bothersome, they should be reported to the physician, so that dose adjustment can be considered.
+Patients should also be told that drowsiness or somnolence can occur with CARDURA or any selective alpha1 adrenoceptor antagonist, requiring caution in people who must drive or operate heavy machinery.
 
 Patients should be advised about the possibility of priapism as a result of treatment with alpha1 antagonists.
 Patients should know that this adverse event is very rare.
-If they experience priapism, it should be brought to immediate medical attention for if not treated promptly it can lead to permanent erectile dysfunction (impotence).
+If they experience priapism, it should be brought to immediate medical attention, for, if not treated promptly, it can lead to permanent erectile dysfunction (impotence).
 
 ## Drug/Laboratory Test Interactions
 
@@ -84,24 +93,24 @@ There is no definitive controlled clinical experience on the concomitant use of 
 
 ## Impaired Liver Function
 
-CARDURA should be administered with caution to patients with evidence of impaired hepatic function or to patients receiving drugs known to influence hepatic metabolism (see CLINICAL PHARMACOLOGY).
+CARDURA should be administered with caution to patients with evidence of impaired hepatic function, or to patients receiving drugs known to influence hepatic metabolism (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 ## Leukopenia/Neutropenia
 
 Analysis of hematologic data from hypertensive patients receiving CARDURA in controlled hypertension clinical trials showed that the mean WBC (N=474) and mean neutrophil counts (N=419) were decreased by 2.4% and 1.0%, respectively, compared to placebo, a phenomenon seen with other alpha-blocking drugs.
-In BPH patients the incidence of clinically significant WBC abnormalities was 0.4% (2/459) with CARDURA and 0% (0/147) with placebo, with no statistically significant difference between the two treatment groups.
+In BPH patients, the incidence of clinically significant WBC abnormalities was 0.4% (2/459) with CARDURA and 0% (0/147) with placebo, with no statistically significant difference between the two treatment groups.
 A search through a data base of 2400 hypertensive patients and 665 BPH patients revealed 4 hypertensives in which drug-related neutropenia could not be ruled out and one BPH patient in which drug-related leukopenia could not be ruled out.
 Two hypertensives had a single low value on the last day of treatment.
 Two hypertensives had stable, non-progressive neutrophil counts in the 1000/mm3 range over periods of 20 and 40 weeks.
 One BPH patient had a decrease from a WBC count of 4800/mm3 to 2700/mm3 at the end of the study; there was no evidence of clinical impairment.
-In cases where follow-up was available the WBCs and neutrophil counts returned to normal after discontinuation of CARDURA.
+In cases where follow-up was available, the WBCs and neutrophil counts returned to normal after discontinuation of CARDURA.
 No patients became symptomatic as a result of the low WBC or neutrophil counts.
 
 ## Drug Interactions
 
 Most (98%) of plasma doxazosin is protein bound.
-In vitro data in human plasma indicate that CARDURA has no effect on protein binding of digoxin, warfarin, phenytoin or indomethacin.
-There is no information on the effect of other highly plasma protein bound drugs on doxazosin binding.
+In vitro data in human plasma indicate that CARDURA has no effect on protein binding of digoxin, warfarin, phenytoin, or indomethacin.
+There is no information on the effect of other highly plasma protein- bound drugs on doxazosin binding.
 CARDURA has been administered without any evidence of an adverse drug interaction to patients receiving thiazide diuretics, beta-blocking agents, and nonsteroidal anti-inflammatory drugs.
 In a placebo-controlled trial in normal volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin (p=0.006), and a slight but not statistically significant increase in mean Cmax and mean half-life of doxazosin.
 The clinical significance of this increase in doxazosin AUC is unknown.
@@ -109,9 +118,11 @@ The clinical significance of this increase in doxazosin AUC is unknown.
 In clinical trials, CARDURA tablets have been administered to patients on a variety of concomitant medications; while no formal interaction studies have been conducted, no interactions were observed.
 CARDURA tablets have been used with the following drugs or drug classes: 1) analgesic/anti-inflammatory (e.g., acetaminophen, aspirin, codeine and codeine combinations, ibuprofen, indomethacin); 2) antibiotics (e.g., erythromycin, trimethoprim and sulfamethoxazole, amoxicillin); 3) antihistamines (e.g., chlorpheniramine); 4) cardiovascular agents (e.g., atenolol, hydrochlorothiazide, propranolol); 5) corticosteroids; 6) gastrointestinal agents (e.g., antacids); 7) hypoglycemics and endocrine drugs; 8) sedatives and tranquilizers (e.g., diazepam); 9) cold and flu remedies.
 
+Concomitant administration of CARDURA with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension (see DOSAGE AND ADMINISTRATION).
+
 ## Cardiac Toxicity in Animals
 
-An increased incidence of myocardial necrosis or fibrosis was displayed by Sprague-Dawley rats after 6 months of dietary administration at concentrations calculated to provide 80 mg doxazosin/kg/day and after 12 months of dietary administration at concentrations calculated to provide 40 mg doxazosin/kg/day (AUC exposure in rats 8 times the human AUC exposure with a 12 mg/day therapeutic dose).
+An increased incidence of myocardial necrosis or fibrosis was displayed by Sprague-Dawley rats after 6 months of dietary administration at concentrations calculated to provide 80 mg doxazosin/kg/day, and after 12 months of dietary administration at concentrations calculated to provide 40 mg doxazosin/kg/day (AUC exposure in rats 8 times the human AUC exposure with a 12 mg/day therapeutic dose).
 Myocardial fibrosis was observed in both rats and mice treated in the same manner with 40 mg doxazosin/kg/day for 18 months (exposure 8 times human AUC exposure in rats and somewhat equivalent to human Cmax exposure in mice).
 No cardiotoxicity was observed at lower doses (up to 10 or 20 mg/kg/day, depending on the study) in either species.
 These lesions were not observed after 12 months of oral dosing in dogs at maximum doses of 20 mg/kg/day [maximum plasma concentrations (Cmax) in dogs 14 times the Cmax exposure in humans receiving a 12 mg/day therapeutic dose] and in Wistar rats at doses of 100 mg/kg/day (Cmax exposures 15 times human Cmax exposure with a 12 mg/day therapeutic dose).
@@ -141,7 +152,7 @@ Radioactivity was found to cross the placenta following oral administration of l
 
 ### Nonteratogenic Effects
 
-In peri-postnatal studies in rats, postnatal development at maternal doses of 40 or 50 mg/kg/day of doxazosin (8 times human AUC exposure with a 12 mg/day therapeutic dose) was delayed as evidenced by slower body weight gain and slightly later appearance of anatomical features and reflexes.
+In peri-postnatal studies in rats, postnatal development at maternal doses of 40 or 50 mg/kg/day of doxazosin (8 times human AUC exposure with a 12 mg/day therapeutic dose) was delayed, as evidenced by slower body weight gain and slightly later appearance of anatomical features and reflexes.
 
 ## Nursing Mothers
 

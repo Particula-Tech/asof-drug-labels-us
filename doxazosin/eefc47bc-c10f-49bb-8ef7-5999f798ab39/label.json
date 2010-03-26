@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019668"
+  ],
   "inn": "doxazosin",
   "labeler": "Roerig",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "0049-2780-41",
     "0049-2780-66"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxazosin mesylate",
+      "name": "Cardura"
+    }
+  ],
   "setid": "eefc47bc-c10f-49bb-8ef7-5999f798ab39",
   "source": "dailymed"
 }

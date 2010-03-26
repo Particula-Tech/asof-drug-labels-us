@@ -1,4 +1,4 @@
-## PATIENT INFORMATION ABOUT CARDURA® Generic Name: doxazosin mesylate FOR BENIGN PROSTATIC HYPERPLASIA (BPH)
+# PATIENT INFORMATION ABOUT CARDURA® Generic Name: doxazosin mesylate FOR BENIGN PROSTATIC HYPERPLASIA (BPH)
 
 Read this leaflet:
 
@@ -22,13 +22,13 @@ This can lead to such symptoms as:
 - a feeling that the bladder is not completely emptied after urination
 - a delay or difficulty in the beginning of urination
 - a need to urinate often during the day and especially at night
-- a feeling that you must urinate immediately.
+- a feeling that you must urinate immediately
 
 Treatment Options for BPH
 
 The four main treatment options for BPH are:
 
-- If you are not bothered by your symptoms, you and your doctor may decide on a program of “watchful waiting.”
+- If you are not bothered by your symptoms, you and your doctor may decide on a program of "watchful waiting."
   It is not an active treatment like taking medication or surgery but involves having regular checkups to see if your condition is getting worse or causing problems.
 - Treatment with CARDURA or other similar drugs.
   CARDURA is the medication your doctor has prescribed for you.
@@ -45,7 +45,7 @@ What CARDURA Does
 CARDURA works on a specific type of muscle found in the prostate, causing it to relax.
 This in turn decreases the pressure within the prostate, thus improving the flow of urine and your symptoms.
 
-- CARDURA helps relieve the symptoms of BPH (weak stream, start-and stop-stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
+- CARDURA helps relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
   It does not change the size of the prostate.
   The prostate may continue to grow; however, a larger prostate is not necessarily related to more symptoms or to worse symptoms.
   CARDURA can decrease your symptoms and improve urinary flow, without decreasing the size of the prostate.
@@ -67,9 +67,7 @@ Other Important Facts
   A higher incidence of prostate cancer has been noted in men of African-American descent.
   These checks should continue even if you are taking CARDURA.
 
-How To Take CARDURA and What You Should Know
-
-While Taking CARDURA for BPH
+How To Take CARDURA and What You Should Know While Taking CARDURA for BPH
 
 CARDURA Can Cause a Sudden Drop in Blood Pressure After the VERY FIRST DOSE.
 You may feel dizzy, faint or "light-headed," especially after you stand up from a lying or sitting position.
@@ -104,8 +102,12 @@ If you begin to feel dizzy, sit or lie down until you feel better.
 - WARNING: Extremely rarely, CARDURA and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
   This condition is serious, and if untreated it can be followed by permanent inability to have an erection.
   If you have a prolonged abnormal erection, call your doctor or go to an emergency room as soon as possible.
+- Tell your surgeon if you take or have taken CARDURA if you plan to have surgery for cataracts (clouding of the eye).
+  During cataract surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken CARDURA.
+- If you use CARDURA with an oral erectile dysfunction medicine (phosphodiesterase-5 (PDE-5) inhibitor), it can cause a sudden drop in your blood pressure and you can become dizzy or faint.
+  Talk with your healthcare provider before using PDE-5 inhibitors.
 - Keep CARDURA and all medicines out of the reach of children.
 
 FOR MORE INFORMATION ABOUT CARDURA AND BPH TALK WITH YOUR DOCTOR, NURSE, PHARMACIST OR OTHER HEALTH CARE PROVIDER.
 
-LAB-0070.2.0 December 2005
+LAB-0070-3.0 January 2010

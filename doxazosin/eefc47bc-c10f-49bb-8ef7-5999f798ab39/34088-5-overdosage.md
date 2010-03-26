@@ -4,8 +4,8 @@ Experience with CARDURA overdosage is limited.
 Two adolescents, who each intentionally ingested 40 mg CARDURA with diclofenac or acetaminophen, were treated with gastric lavage with activated charcoal and made full recoveries.
 A two-year-old child who accidently ingested 4 mg CARDURA was treated with gastric lavage and remained normotensive during the five-hour emergency room observation period.
 A six-month-old child accidentally received a crushed 1 mg tablet of CARDURA and was reported to have been drowsy.
-A 32-year-old female with chronic renal failure, epilepsy and depression intentionally ingested 60 mg CARDURA (blood level 0.9 µg/mL; normal values in hypertensives=0.02 µg/mL); death was attributed to a grand mal seizure resulting from hypotension.
-A 39-year-old female who ingested 70 mg CARDURA, alcohol and Dalmane® (flurazepam) developed hypotension which responded to fluid therapy.
+A 32-year-old female with chronic renal failure, epilepsy, and depression intentionally ingested 60 mg CARDURA (blood level = 0.9 µg/mL; normal values in hypertensives = 0.02 µg/mL); death was attributed to a grand mal seizure resulting from hypotension.
+A 39-year-old female who ingested 70 mg CARDURA, alcohol, and Dalmane® (flurazepam) developed hypotension which responded to fluid therapy.
 
 The oral LD50 of doxazosin is greater than 1000 mg/kg in mice and rats.
 The most likely manifestation of overdosage would be hypotension, for which the usual treatment would be intravenous infusion of fluid.
