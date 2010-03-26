@@ -1,4 +1,4 @@
-# ANIMAL PHARMACOLOGY/TOXICOLOGY
+# ANIMAL PHARMACOLOGY AND TOXICOLOGY
 
 Minocycline hydrochloride has been observed to cause a dark discoloration of the thyroid in experimental animals (rats, minipigs, dogs, and monkeys).
 In the rat, chronic treatment with minocycline hydrochloride has resulted in goiter accompanied by elevated radioactive iodine uptake and evidence of thyroid tumor production.

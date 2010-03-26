@@ -1,6 +1,6 @@
-# SPL SUPPLEMENTAL PATIENT MATERIAL
+# Patient Information
 
-Patient Information Minocycline Hydrochloride Capsules, USP Read the Patient Information that comes with minocycline hydrochloride capsules before you or a family member starts taking it and each time you get a refill.
+Minocycline Hydrochloride Capsules, USP Read the Patient Information that comes with minocycline hydrochloride capsules before you or a family member starts taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking to your doctor about your medical condition or treatment.
 What is minocycline hydrochloride?
@@ -26,8 +26,8 @@ Tell your doctor about all of your medical conditions, including if you:
 
 - have liver or kidney problems
 - are pregnant or planning to become pregnant.
-  Minocycline hydrochloridemay harm your unborn baby.
-  Stop taking minocycline hydrochlorideand call your doctor if you become pregnant while taking it.
+  Minocycline hydrochloride may harm your unborn baby.
+  Stop taking minocycline hydrochloride and call your doctor if you become pregnant while taking it.
 - are breast feeding.
   Minocycline hydrochloride passes into your milk and may harm your baby.
   You should decide whether to use minocycline hydrochloride or breastfeed, but not both.
@@ -49,7 +49,7 @@ Especially tell your doctor if you take:
 Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
 How should I take minocycline hydrochloride capsules?
 
-- Take minocycline hydrochloridecapsules exactly as your doctor tells you to take them.
+- Take minocycline hydrochloride capsules exactly as your doctor tells you to take them.
   Skipping doses or not taking all your minocycline hydrochloride may:
 
 Decrease the effectiveness of the treatment Increase the chance that bacteria will develop resistance to minocycline hydrochloride
@@ -95,13 +95,13 @@ How should I store minocycline hydrochloride capsules?
 - Keep minocycline hydrochloride capsules and all medicines out of the reach of children.
 
 General advice about minocycline hydrochloride capsules Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use minocycline hydrochloride capsules for a condition for which they wer not prescribed.
+Do not use minocycline hydrochloride capsules for a condition for which they were not prescribed.
 Do not give minocycline hydrochloride capsules to other people, even if they have the same symptoms you have.
-Them may harm them.
+They may harm them.
 This Patient Information leaflet summarizes the most important information about minocycline hydrochloride.
 If you would like more information, talk with your doctor.
 Your doctor or pharmacist can give you information about minocycline hydrochloride that is written for health care professionals.
-For more information, you can also call Aurobindo Pharma USA, Inc . at 1-866-850-2876 (toll–free).
+For more information, you can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876 (toll–free).
 Monday through Friday from 9:00 a.m. to 3:00 p.m.
 Eastern Time.
 What are the ingredients in minocycline hydrochloride capsules?
@@ -109,4 +109,4 @@ Active ingredient: minocycline hydrochloride 50 mg, 75 mg, and 100 mg Inactive i
 The empty hard gelatin capsule shells contain titanium dioxide, sodium lauryl sulfate, and gelatin.
 In addition, the 50 mg capsule shells contain FD&C Red #3, D&C Red #33, and FD&C Yellow #6; the 75 mg capsule shells contain black iron oxide; and the 100 mg capsule shells contain FD&C Blue #1, D&C Red #28, FD&C Red #40, and red iron oxide.
 The capsules are printed with edible ink containing shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2008

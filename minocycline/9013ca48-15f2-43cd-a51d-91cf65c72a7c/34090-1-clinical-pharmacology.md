@@ -16,8 +16,8 @@ Cross-resistance of these organisms to tetracycline is common.
 Minocycline has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section: AEROBIC GRAM-POSITIVE MICROORGANISMS Because many strains of the following gram-positive microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility testing are especially recommended.
 Tetracycline antibiotics should not be used for streptococcal diseases unless the organism has been demonstrated to be susceptible.
 Tetracyclines are not the drug of choice in the treatment of any type of staphylococcal infection.
-Bacillus anthrac is 1 Listeria monocytogen es 1 Staphylococcus aureus Streptococcus pneumoniae AEROBIC GRAM-NEGATIVE MICROORGANISMS Bartonella bacilliformis Brucella species Calymmatobacterium granulomatis Campylobacter fetus Francisella tularensis Haemophilus ducreyi Vibrio cholerae Yersinia pestis Because many strains of the following groups of gram-negative microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility tests are especially recommended.
-Acinetobacter species Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella species Neisseria gonorrhoea e 1 Neisseria meningitid is 1 Shigella species "OTHER" MICROORGANISMS Actinomyces species 1 Borrelia recurrentis Chlamydia psittaci Chlamydia trachomatis Clostridium species 1 Entamoeba species Fusobacterium nucleatum subspecies fusiforme 1 Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum 1 Treponema pallidum subspecies pertenue 1 Ureaplasma urealyticum ——————————————————————————————————————————————— 1 When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of infections caused by the cited microorganisms.
+Bacillus anthracis 1 Listeria monocytogenes 1 Staphylococcus aureus Streptococcus pneumoniae AEROBIC GRAM-NEGATIVE MICROORGANISMS Bartonella bacilliformis Brucella species Calymmatobacterium granulomatis Campylobacter fetus Francisella tularensis Haemophilus ducreyi Vibrio cholerae Yersinia pestis Because many strains of the following groups of gram-negative microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility tests are especially recommended.
+Acinetobacter species Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae 1 Neisseria meningitidis 1 Shigella species "OTHER" MICROORGANISMS Actinomyces species 1 Borrelia recurrentis Chlamydia psittaci Chlamydia trachomatis Clostridium species 1 Entamoeba species Fusobacterium nucleatum subspecies fusiforme Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum ——————————————————————————————————————————————— 1 When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of infections caused by the cited microorganisms.
 
 ## Susceptibility Tests
 
@@ -126,11 +126,8 @@ Ref2 For testing Vibrio cholerae 8 :
 | ≤14 | Resistant (R) |
 
 8 These interpretative standards are applicable only to disk diffusion testing performed with a 30 mcg tetracycline disk.
-(Ref2)
-
-Interpretation should be as stated above for results using dilution techniques.
+(Ref2) Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for tetracycline.
-
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
 For the diffusion technique, the 30 mcg tetracycline or minocycline disk should provide the following zone diameters in these laboratory test quality control strains:
 

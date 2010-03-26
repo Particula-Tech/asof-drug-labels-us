@@ -105,9 +105,9 @@ If minocycline is used during pregnancy or if the patient becomes pregnant while
 
 ### Nonteratogenic Effects
 
-(See WARNINGS.)
+(See WARNINGS .)
 
-## Labor And Delivery
+## Labor and Delivery
 
 The effect of tetracyclines on labor and delivery is unknown.
 
@@ -115,15 +115,15 @@ The effect of tetracyclines on labor and delivery is unknown.
 
 Tetracyclines are excreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
-(See WARNINGS.)
+(See WARNINGS .)
 
 ## Pediatric Use
 
 Minocycline is not recommended for the use in children below 8 years of age unless the expected benefits of therapy outweigh the risks.
-(See WARNINGS.)
+(See WARNINGS .)
 
 ## Geriatric Use
 
 Clinical studies of oral minocycline did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See WARNINGS, DOSAGE AND ADMINISTRATION.)
+(See WARNINGS, DOSAGE AND ADMINISTRATION. )
