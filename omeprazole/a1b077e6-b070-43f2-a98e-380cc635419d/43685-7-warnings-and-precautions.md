@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Concomitant Gastric Malignancy
 
@@ -8,7 +8,7 @@ Symptomatic response to therapy with omeprazole does not preclude the presence o
 
 Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
 
-## 5.3 Combiniation Use of PRILOSEC with Amoxicillin
+## 5.3 Combination Use of PRILOSEC with Amoxicillin
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
 These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.

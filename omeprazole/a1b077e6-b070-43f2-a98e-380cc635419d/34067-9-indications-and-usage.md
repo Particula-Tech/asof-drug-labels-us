@@ -8,7 +8,7 @@ Some patients may require an additional four weeks of therapy.
 
 PRILOSEC in combination with clarithromycin and amoxicillin, is indicated for treatment of patients with H. pylori infection and duodenal ulcer disease (active or up to 1-year history) to eradicate H. pylori in adults.
 
-PRILOSEC, in combination with clarithromycin is indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
+PRILOSEC in combination with clarithromycin is indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
 
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14.1) and Dosage and Administration (2)].
 

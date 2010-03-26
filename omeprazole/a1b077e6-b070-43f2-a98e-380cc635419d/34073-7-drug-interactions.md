@@ -1,11 +1,37 @@
 # 7 DRUG INTERACTIONS
 
-Drugs for which gastric pH can affect bioavailability
+## 7.1 Interference with Antiretroviral Therapy
+
+Concomitant use of atazanavir and nelfinavir with proton pump inhibitors is not recommended.
+Co-administration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and may result in a loss of therapeutic effect and the development of drug resistance.
+Co-administration of saquinavir with proton pump inhibitors is expected to increase saquinavir concentrations, which may increase toxicity and require dose reduction.
+
+Omeprazole has been reported to interact with some antiretroviral drugs.
+The clinical importance and the mechanisms behind these interactions are not always known.
+Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
+Other possible interaction mechanisms are via CYP 2C19.
+
+Reduced concentrations of atazanavir and nelfinavir
+
+For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
+Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
+Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hr before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
+Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
+
+Increased concentrations of saquinavir
+
+For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmax by 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
+Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with PRILOSEC.
+Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
+
+There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
+
+## 7.2 Drugs for Which Gastric pH Can Affect Bioavailability
 
 Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
 In the clinical trials, antacids were used concomitantly with the administration of PRILOSEC.
 
-Drugs metabolized by cytochrome P450 (CYP)
+## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
 
 Omeprazole can prolong the elimination of diazepam, warfarin and phenytoin, drugs that are metabolized by oxidation in the liver.
 There have been reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including omeprazole, and warfarin concomitantly.
@@ -18,25 +44,14 @@ Patients should be monitored to determine if it is necessary to adjust the dosag
 Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
 Dose adjustment of omeprazole is not normally required.
 However, in patients with Zollinger-Ellison syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
-When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC 0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
+When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
-Antiretroviral Agents
+Omeprazole acts as an inhibitor of CYP 2C19.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
+Cmax and AUC of one of its active metabolites, 3,4- dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69% respectively.
+Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
+Therefore a dose reduction of cilostazol from 100 mg b.i.d. to 50 mg b.i.d. should be considered.
 
-Concomitant use of atazanavir and proton pump inhibitors is not recommended.
-Co-administration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and thereby reduce its therapeutic effect.
-
-Omeprazole has been reported to interact with some antiretroviral drugs.
-The clinical importance and the mechanisms behind these interactions are not always known.
-Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
-Other possible interaction mechanisms are via CYP2C19.
-For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
-Following multiple doses of nelfinavir (1250 mg, bid) and omeprazole (40 mg, qd), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
-Following multiple doses of atazanavir (400 mg, qd) and omeprazole (40 mg, qd, 2 hr before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
-Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
-For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported with an increase in AUC by 82%, in Cmax by 75% and in Cmin by 106% following multiple dosing of saquinavir/ritonavir (1000/100 mg) bid for 15 days with omeprazole 40 mg qd co-administered days 11 to 15.
-Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
-There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
-
-Tacrolimus
+## 7.4 Tacrolimus
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.

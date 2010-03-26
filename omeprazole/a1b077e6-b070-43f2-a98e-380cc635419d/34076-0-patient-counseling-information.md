@@ -31,12 +31,6 @@ For patients with a nasogastric or gastric tube in place:
 
 PRILOSEC is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2008
+©AstraZeneca 2010
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
-
-PRILOSEC For Delayed-Release Oral Suspension is a Product of Sweden
-
-91941XX
-
-31090-XX

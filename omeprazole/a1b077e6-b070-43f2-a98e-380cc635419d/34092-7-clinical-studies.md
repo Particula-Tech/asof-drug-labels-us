@@ -44,9 +44,9 @@ Treatment of Active Duodenal Ulcer % of Patients Healed
 
 H. pylori Eradication in Patients with Duodenal Ulcer Disease
 
-Triple Therapy(PRILOSEC/clarithromycin/amoxicillin)— Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n=558) compared PRILOSEC plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin.
+Triple Therapy(PRILOSEC/clarithromycin/amoxicillin)— Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n = 558) compared PRILOSEC plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin.
 Two studies (1 and 2) were conducted in patients with an active duodenal ulcer, and the other study (3) was conducted in patients with a history of a duodenal ulcer in the past 5 years but without an ulcer present at the time of enrollment.
-The dose regimen in the studies was PRILOSEC 20 mg twice daily plus clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days; or clarithromycin 500 mg twice daily, plus amoxicillin 1 g twice daily for 10 days.
+The dose regimen in the studies was PRILOSEC 20 mg twice daily plus clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days; or clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days.
 In studies 1 and 2, patients who took the omeprazole regimen also received an additional 18 days of PRILOSEC 20 mg once daily.
 Endpoints studied were eradication of H. pylori and duodenal ulcer healing (studies 1 and 2 only).
 H. pylori status was determined by CLOtest®, histology and culture in all three studies.
@@ -56,7 +56,7 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 
 Table 6
 
-|  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
+|  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
 | --- | --- | --- | --- | --- |
 | Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval] |  |  |  |  |
 |  | PRILOSEC +clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
@@ -66,7 +66,7 @@ Table 6
 
 Dual Therapy (PRILOSEC/clarithromycin)
 
-Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated PRILOSEC 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by PRILOSEC 20 mg once daily, (studies 4, 5, and 7) or by PRILOSEC 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori.
+Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated PRILOSEC 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by PRILOSEC 20 mg once daily, (Studies 4, 5, and 7) or by PRILOSEC 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori.
 Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 patients, respectively.
 H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5.
 These studies compared the combination regimen to PRILOSEC and clarithromycin monotherapies.
@@ -85,11 +85,11 @@ Table 7
 | --- | --- | --- | --- |
 | H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval] |  |  |  |
 |  | PRILOSEC +Clarithromycin | PRILOSEC | Clarithromycin |
-| Study 4 | 74 [60, 85]Statistically significantly higher than clarithromycin monotherapy (p < 0.05) Statistically significantly higher than omeprazole monotherapy (p < 0.05)(n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
-| Study 5 | 64 [51, 76](n=61) | 0 [0, 6] (n=59) | 39 [24, 55] (n=44) |
+| Study 4 | 74 [60, 85]Statistically significantly higher than clarithromycin monotherapy (p < 0.05) Statistically significantly higher than omeprazole monotherapy (p < 0.05)(n = 53) | 0 [0, 7] (n = 54) | 31 [18, 47] (n = 42) |
+| Study 5 | 64 [51, 76](n = 61) | 0 [0, 6] (n = 59) | 39 [24, 55] (n = 44) |
 | Non U.S. Studies |  |  |  |
-| Study 6 | 83 [71, 92] (n=60) | 1[0, 7] (n=74) | N/A |
-| Study 7 | 74 [64, 83](n=86) | 1[0, 6] (n=90) | N/A |
+| Study 6 | 83 [71, 92] (n = 60) | 1 [0, 7] (n = 74) | N/A |
+| Study 7 | 74 [64, 83](n = 86) | 1 [0, 6] (n = 90) | N/A |
 
 Ulcer healing was not significantly different when clarithromycin was added to omeprazole therapy compared with omeprazole therapy alone.
 
@@ -101,13 +101,13 @@ Table 8
 | --- | --- | --- |
 |  | H. pylori eradicated H. pylori eradication status assessed at same time point as ulcer recurrence | H. pylori not eradicated |
 | U.S. StudiesCombined results for PRILOSEC + clarithromycin, PRILOSEC, and clarithromycin treatment arms 6 months post-treatment |  |  |
-| Study 4 | (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated35 (n=49) | 60 (n=88) |
-| Study 5 | 8 (n=53) | 60 (n=106) |
+| Study 4 | (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated35 (n = 49) | 60 (n = 88) |
+| Study 5 | 8 (n = 53) | 60 (n = 106) |
 | Non U.S. StudiesCombined results for PRILOSEC + clarithromycin and PRILOSEC treatment arms 6 months post-treatment |  |  |
-| Study 6 | 5 (n=43) | 46 (n=78) |
-| Study 7 | 6 (n=53) | 43 (n=107) |
+| Study 6 | 5 (n = 43) | 46 (n = 78) |
+| Study 7 | 6 (n = 53) | 43 (n = 107) |
 | 12 months post-treatment |  |  |
-| Study 6 | 5 (n=39) | 68 (n=71) |
+| Study 6 | 5 (n = 39) | 68 (n = 71) |
 
 ## 14.2 Gastric Ulcer
 
@@ -115,7 +115,7 @@ In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg
 
 | Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
 | --- | --- | --- | --- |
-|  | PRILOSEC20 mg once daily(n=202) | PRILOSEC40 mg once daily(n=214) | Placebo(n=104) |
+|  | PRILOSEC20 mg once daily(n = 202) | PRILOSEC40 mg once daily(n = 214) | Placebo(n = 104) |
 | Week 4 | 47.5 (p < 0.01) PRILOSEC 40 mg or 20 mg versus placebo | 55.6 | 30.8 |
 | Week 8 | 74.8 | 82.7 (p < 0.05) PRILOSEC 40 mg versus 20 mg | 48.1 |
 
@@ -126,7 +126,7 @@ In a foreign, multinational, double-blind study of 602 patients with endoscopica
 
 | Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
 | --- | --- | --- | --- |
-|  | PRILOSEC20 mg once daily(n=200) | PRILOSEC40 mg once daily(n=187) | Ranitidine 150 mg twice daily.(n=199) |
+|  | PRILOSEC20 mg once daily(n = 200) | PRILOSEC40 mg once daily(n = 187) | Ranitidine 150 mg twice daily(n = 199) |
 | Week 4 | 63.5 | 78.1 (p < 0.01) PRILOSEC 40 mg versus ranitidine(p < 0.01) PRILOSEC 40 mg versus 20 mg | 56.3 |
 | Week 8 | 81.5 | 91.4 | 78.4 |
 
@@ -139,16 +139,16 @@ Results are shown below.
 
 % Successful Symptomatic Outcome Defined as complete resolution of heartburn
 
-|  | PRILOSEC 20 mg a.m. | PRILOSEC 10 mg a.m. | PLACEBO a.m. |
+|  | PRILOSEC 20 mg a.m. | PRILOSEC 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
-| All patients | 46 (p < 0.005) versus 10 mg(p < 0.005) versus placebo(n=205) | 31(n=199) | 13 (n=105) |
-| Patients with confirmed GERD | 56 (n=115) | 36 (n=109) | 14 (n=59) |
+| All patients | 46 (p < 0.005) versus 10 mg(p < 0.005) versus placebo(n = 205) | 31(n = 199) | 13 (n = 105) |
+| Patients with confirmed GERD | 56 (n = 115) | 36 (n = 109) | 14 (n = 59) |
 
 ## 14.4 Erosive Esophagitis
 
 In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of PRILOSEC Delayed-Release Capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
-| Week | 20 mgPRILOSEC(n=83) | 40 mgPRILOSEC(n=87) | Placebo(n=43) |
+| Week | 20 mgPRILOSEC(n = 83) | 40 mgPRILOSEC(n = 87) | Placebo(n = 43) |
 | --- | --- | --- | --- |
 | 4 | 39 (p < 0.01) PRILOSEC versus placebo. | 45 | 7 |
 | 8 | 74 | 75 | 14 |
@@ -178,16 +178,16 @@ Life Table Analysis
 
 |  | PRILOSEC20 mg once daily(n=131) | PRILOSEC10 mg once daily(n=133) | Ranitidine150 mg twice daily(n=128) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 12 months | (p = 0.01) PRILOSEC 20 mg once daily, versus PRILOSEC 10 mg- once daily or Ranitidine77 | (p= 0.03) PRILOSEC 10 mg once daily, versus Ranitidine58 | 46 |
+| Percent in endoscopic remission at 12 months | (p = 0.01) PRILOSEC 20 mg once daily, versus PRILOSEC 10 mg once daily or Ranitidine.77 | (p = 0.03) PRILOSEC 10 mg once daily, versus Ranitidine.58 | 46 |
 
-In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing, 20 mg daily of PRILOSEC was effective, while 10 mg did not demonstrate effectiveness.
+In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing 20 mg daily of PRILOSEC was effective, while 10 mg did not demonstrate effectiveness.
 
 ## 14.5 Pathological Hypersecretory Conditions
 
 In open studies of 136 patients with pathological hypersecretory conditions, such as Zollinger-Ellison (ZE) syndrome with or without multiple endocrine adenomas, PRILOSEC Delayed-Release Capsules significantly inhibited gastric acid secretion and controlled associated symptoms of diarrhea, anorexia, and pain.
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
-Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see Dosage and Administration (2)].
+Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [See Dosage and Administration (2)].
 PRILOSEC was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by PRILOSEC.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.

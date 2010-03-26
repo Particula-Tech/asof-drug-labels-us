@@ -44,8 +44,7 @@ Because omeprazole is excreted in human milk, because of the potential for serio
 ## 8.4 Pediatric Use
 
 Use of PRILOSEC in pediatric and adolescent patients 1 to 16 years of age for the treatment of GERD is supported by a) extrapolation of results, already included in the currently approved labeling, from adequate and well-controlled studies that supported the approval of PRILOSEC for adults, and b) safety and pharmacokinetic studies performed in pediatric and adolescent patients.
-[See Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information (12.3) and Dosage and Administration (2).
-Adverse Reactions (6.1) and Clinical Studies, (14.6)].
+[See Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information (12.3) and Dosage and Administration (2), Adverse Reactions (6.1) and Clinical Studies, (14.6)].
 The safety and effectiveness of PRILOSEC for the treatment of GERD in patients < 1 year of age have not been established.
 The safety and effectiveness of PRILOSEC for other pediatric uses have not been established.
 

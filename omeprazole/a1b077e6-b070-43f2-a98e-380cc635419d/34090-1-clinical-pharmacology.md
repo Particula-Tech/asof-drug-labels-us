@@ -29,7 +29,7 @@ Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of 
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
 | % Decrease in Basal Acid Output | 78Single Studies | 58–80 | 94 | 80–93 |
 | % Decrease in Peak Acid Output | 79 | 50–59 | 88 | 62–68 |
-| % Decrease in 24–hr Intragastric Acidity |  | 80–97 |  | 92–94 |
+| % Decrease in 24–hr. Intragastric Acidity |  | 80–97 |  | 92–94 |
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
@@ -44,7 +44,7 @@ Enterochromaffin-like (ECL) Cell Effects
 
 Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
-[See Clinical Pharmacology (12] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
+[See Clinical Pharmacology (12)] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
 Other Effects
 
@@ -153,7 +153,7 @@ Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Admi
 | Cmax(ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
 | AUC(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
-Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ.
+Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ.
 [See Dosage and Administration (2)]
 
 Hepatic Impairment
@@ -244,4 +244,4 @@ Standard clarithromycin and amoxicillin powders should provide the following MIC
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.

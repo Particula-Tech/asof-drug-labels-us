@@ -5,8 +5,7 @@ In the clinical trials, antacids were used concomitantly with PRILOSEC.
 
 Patients should be informed that the PRILOSEC Delayed-Release Capsule should be swallowed whole.
 
-For patients unable to swallow an intact capsule, alternative administration options are available.
-[See Dosage and Administration (2.8)]
+For patients unable to swallow an intact capsule, alternative administration options are available [See Dosage and Administration (2.8)].
 
 ## 2.1 Short-Term Treatment of Active Duodenal Ulcer
 
@@ -47,7 +46,7 @@ Some patients with Zollinger-Ellison syndrome have been treated continuously wit
 
 ## 2.7 Pediatric Patients
 
-For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients– 1 to 16 years of age is as follows:
+For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients 1 to 16 years of age is as follows:
 
 | Patient Weight | Omeprazole Daily Dose |
 | --- | --- |
