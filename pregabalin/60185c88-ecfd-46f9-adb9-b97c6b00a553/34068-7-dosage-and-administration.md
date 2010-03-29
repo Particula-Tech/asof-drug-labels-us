@@ -9,7 +9,7 @@ When discontinuing LYRICA, taper gradually over a minimum of 1 week.
 The maximum recommended dose of LYRICA is 100 mg three times a day (300 mg/day) in patients with creatinine clearance of at least 60 mL/min.
 Begin dosing at 50 mg three times a day (150 mg/day).
 The dose may be increased to 300 mg/day within 1 week based on efficacy and tolerability.
-Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.6)].
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.5)].
 
 Although LYRICA was also studied at 600 mg/day, there is no evidence that this dose confers additional significant benefit and this dose was less well tolerated.
 In view of the dose-dependent adverse reactions, treatment with doses above 300 mg/day is not recommended [see Adverse Reactions (6.1)].
@@ -19,7 +19,7 @@ In view of the dose-dependent adverse reactions, treatment with doses above 300 
 The recommended dose of LYRICA is 75 to 150 mg two times a day, or 50 to 100 mg three times a day (150 to 300 mg/day) in patients with creatinine clearance of at least 60 mL/min.
 Begin dosing at 75 mg two times a day, or 50 mg three times a day (150 mg/day).
 The dose may be increased to 300 mg/day within 1 week based on efficacy and tolerability.
-Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.6)].
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.5)].
 
 Patients who do not experience sufficient pain relief following 2 to 4 weeks of treatment with 300 mg/day, and who are able to tolerate LYRICA, may be treated with up to 300 mg two times a day, or 200 mg three times a day (600 mg/day).
 In view of the dose-dependent adverse reactions and the higher rate of treatment discontinuation due to adverse reactions, reserve dosing above 300 mg/day for those patients who have on-going pain and are tolerating 300 mg daily [see Adverse Reactions (6.1)].
@@ -32,7 +32,7 @@ Administer the total daily dose in two or three divided doses.
 In general, it is recommended that patients be started on a total daily dose no greater than 150 mg/day (75 mg two times a day, or 50 mg three times a day).
 Based on individual patient response and tolerability, the dose may be increased to a maximum dose of 600 mg/day.
 
-Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.6)].
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.5)].
 
 The effect of dose escalation rate on the tolerability of LYRICA has not been formally studied.
 
@@ -47,16 +47,9 @@ The dose may be increased to 150 mg two times a day (300 mg/day) within 1 week b
 Patients who do not experience sufficient benefit with 300 mg/day may be further increased to 225 mg two times a day (450 mg/day).
 Although LYRICA was also studied at 600 mg/day, there is no evidence that this dose confers additional benefit and this dose was less well tolerated.
 In view of the dose-dependent adverse reactions, treatment with doses above 450 mg/day is not recommended [see Adverse Reactions (6.1)].
-Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.6)].
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.5)].
 
-## 2.5 Adjunctive treatment of Generalized Anxiety Disorder
-
-The recommended dose range of LYRICA as an adjunctive treatment of GAD is 150 to 600 mg/day.
-The recommended starting dose is 75 mg two times a day (150 mg/day) and may be increased to 150 mg two times a day (300 mg/day) within 1 week based on efficacy and tolerability.
-For patients who do not experience sufficient benefit with 300 mg/day, the dose may be increased to a maximum of 300 mg two times a day (600 mg/day).
-Because LYRICA is eliminated primarily by renal excretion, the dose should be adjusted for patients with reduced renal function [creatinine clearance less than 60 mL/min – see Patients with Renal Impairment (2.6)].
-
-## 2.6 Patients with Renal Impairment
+## 2.5 Patients with Renal Impairment
 
 In view of dose-dependent adverse reactions and since LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function.
 Base the dose adjustment in patients with renal impairment on creatinine clearance (CLcr), as indicated in Table 1.
@@ -88,7 +81,7 @@ Pregabalin Dosage Adjustment Based on Renal Function
 | Patients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg |  |  |  |  |  |
 | TID= Three divided doses; BID = Two divided doses; QD = Single daily dose. |  |  |  |  |  |
 
-## 2.7 Oral Solution Concentration and Dispensing
+## 2.6 Oral Solution Concentration and Dispensing
 
 The oral solution is 20 mg pregabalin per milliliter (mL) and prescriptions should be written in milligrams (mg).
 The pharmacist will calculate the applicable dose in mL for dispensing (e.g., 150 mg equals 7.5 mL oral solution).

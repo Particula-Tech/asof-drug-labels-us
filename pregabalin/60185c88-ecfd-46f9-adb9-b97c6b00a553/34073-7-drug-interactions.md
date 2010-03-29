@@ -3,8 +3,7 @@
 Since LYRICA is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (<2% of a dose recovered in urine as metabolites), and does not bind to plasma proteins, its pharmacokinetics are unlikely to be affected by other agents through metabolic interactions or protein binding displacement.
 In vitro and in vivo studies showed that LYRICA is unlikely to be involved in significant pharmacokinetic drug interactions.
 Specifically, there are no pharmacokinetic interactions between pregabalin and the following antiepileptic drugs: carbamazepine, valproic acid, lamotrigine, phenytoin, phenobarbital, and topiramate.
-Important pharmacokinetic interactions would also not be expected to occur between LYRICA and commonly used antiepileptic drugs.
-In addition, no pharmacokinetic interactions are expected between pregabalin and the following treatments: benzodiazepines, SSRIs and SNRIs [see Clinical Pharmacology (12)].
+Important pharmacokinetic interactions would also not be expected to occur between LYRICA and commonly used antiepileptic drugs [see Clinical Pharmacology (12)].
 
 Pharmacodynamics
 

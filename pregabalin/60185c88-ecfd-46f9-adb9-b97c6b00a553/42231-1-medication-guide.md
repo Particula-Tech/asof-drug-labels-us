@@ -50,7 +50,6 @@ LYRICA is a prescription medicine used in adults, 18 years and older, to treat:
 - pain from damaged nerves (neuropathic pain) that follows healing of shingles
 - partial seizures when taken together with other seizure medicines
 - fibromyalgia (pain all over your body)
-- generalized anxiety disorder when taken together with other anti-anxiety medicines
 
 LYRICA has not been studied in children under 18 years of age.
 
@@ -203,4 +202,4 @@ Capsules manufactured by: Pfizer Pharmaceuticals LLC Vega Baja, PR 00694
 
 Oral Solution manufactured by: Pfizer Inc. Kalamazoo, MI 49001
 
-LAB-0299-7.1 December 2009
+LAB-0299-7.0 December 2009

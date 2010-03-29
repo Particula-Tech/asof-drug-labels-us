@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 LYRICA (pregabalin) binds with high affinity to the alpha2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.
-Although the mechanism of action of pregabalin is unknown, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin's antinociceptive, antiseizure and anxiolytic effects in animal models.
+Although the mechanism of action of pregabalin is unknown, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin's antinociceptive and antiseizure effects in animal models.
 In vitro, pregabalin reduces the calcium-dependent release of several neurotransmitters, possibly by modulation of calcium channel function.
 
 While pregabalin is a structural derivative of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), it does not bind directly to GABAA, GABAB, or benzodiazepine receptors, does not augment GABAA responses in cultured neurons, does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation.
@@ -43,7 +43,7 @@ In preclinical studies, pregabalin (S-enantiomer) did not undergo racemization t
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug with a mean elimination half-life of 6.3 hours in subjects with normal renal function.
 Mean renal clearance was estimated to be 67.0 to 80.9 mL/min in young healthy subjects.
 Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved.
-Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration, (2.6)].
+Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration, (2.5)].
 
 ## 12.4 Pharmacokinetics in Special Populations
 
@@ -61,13 +61,13 @@ Pregabalin clearance is nearly proportional to creatinine clearance (CLcr).
 Dosage reduction in patients with renal dysfunction is necessary.
 Pregabalin is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, plasma pregabalin concentrations are reduced by approximately 50%.
-For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.6)].
+For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.5)].
 
 Elderly
 
 Pregabalin oral clearance tended to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with age-related decreases in CLcr.
-Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration, (2.6)].
+Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration, (2.5)].
 
 Pediatric Pharmacokinetics
 
@@ -79,7 +79,7 @@ In Vitro Studies
 
 Pregabalin, at concentrations that were, in general, 10-times those attained in clinical trials, does not inhibit human CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4 enzyme systems.
 In vitro drug interaction studies demonstrate that pregabalin does not induce CYP1A2 or CYP3A4 activity.
-Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g. theophylline, caffeine) or CYP 3A4 substrates (e.g. midazolam, testosterone, escitalopram) is not anticipated.
+Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g. theophylline, caffeine) or CYP 3A4 substrates (e.g. midazolam, testosterone) is not anticipated.
 
 In Vivo Studies
 

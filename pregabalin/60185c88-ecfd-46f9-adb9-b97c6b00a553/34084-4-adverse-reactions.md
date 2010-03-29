@@ -4,14 +4,15 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In all controlled and uncontrolled trials across various patient populations during the development of LYRICA, more than 31,200 patients have received LYRICA.
-Approximately 6500 patients were treated for 6 months or more, over 4100 patients were treated for 1 year or longer, and approximately 1800 patients were treated for at least 2 years.
+In all controlled and uncontrolled trials across various patient populations during the premarketing development of LYRICA, more than 10,000 patients have received LYRICA.
+Approximately 5000 patients were treated for 6 months or more, over 3100 patients were treated for 1 year or longer, and over 1400 patients were treated for at least 2 years.
 
 Adverse Reactions Most Commonly Leading to Discontinuation in All Premarketing Controlled Clinical Studies
 
-In premarketing controlled trials of all populations combined, 15% of patients treated with LYRICA and 6% of patients treated with placebo discontinued prematurely due to adverse reactions.
-In the LYRICA treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (7%), somnolence (4%), headache (2%), nausea (2%) while in the placebo group, 1% of patients withdrew due to these events.
-Other adverse reactions that led to discontinuation from controlled trials more frequently in the LYRICA group compared to the placebo group were ataxia, balance disorder, blurred vision, coordination abnormal, confusional state, constipation, diplopia, disturbance in attention, dry mouth, dysarthria, euphoric mood, fatigue, peripheral edema, sedation, tremor, vertigo, vomiting and weight increased (approximately 1% each).
+In premarketing controlled trials of all populations combined, 14% of patients treated with LYRICA and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In the LYRICA treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (3%).
+In the placebo group, 1% of patients withdrew due to dizziness and <1% withdrew due to somnolence.
+Other adverse reactions that led to discontinuation from controlled trials more frequently in the LYRICA group compared to the placebo group were ataxia, confusion, asthenia, thinking abnormal, blurred vision, incoordination, and peripheral edema (1% each).
 
 Most Common Adverse Reactions in All Premarketing Controlled Clinical Studies
 
@@ -248,43 +249,6 @@ Table 6 Treatment-emergent adverse reaction incidence in controlled trials in Fi
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
 | Pharyngolaryngeal pain | 2 | 1 | 3 | 3 | 2 | 2 |
 
-Adverse Reactions Leading to Discontinuation – Adjunctive Therapy
-
-In a single clinical trial of patients with Generalized Anxiety Disorder who did not optimally respond to an existing GAD therapy, 4% of patients treated with pregabalin (150–600 mg/day) as adjunctive therapy and 2% of patients treated with placebo discontinued prematurely due to adverse events.
-In the pregabalin group, anxiety leading to discontinuation was experienced by 2 subjects [1%]); the remaining adverse events that led to discontinuation were experienced by no more than 1 subject each.
-
-Most Common Adverse Reactions – Adjunctive Therapy
-
-Table 7 lists all adverse events, regardless of causality, occurring in ≥2% of patients with GAD receiving pregabalin as adjunctive therapy and for which the incidence was greater than in the placebo group.
-A majority of pregabalin-treated patients in these studies had adverse events with a maximum intensity of "mild" or "moderate".
-
-Table 7 Treatment-emergent adverse reaction incidence in Generalized Anxiety Disorder – Adjunctive Therapy (Events in at least 2% of all LYRICA-treated patients and occurring more frequently in the pregabalin-group than in the placebo treatment group)
-
-| System Organ Class Preferred Term | PregabalinPregabalin dose range: 150 to 600 mg/day (N = 180) % | Placebo (N = 176) % |
-| --- | --- | --- |
-| Eye Disorders |  |  |
-| Vision Blurred | 4 | 1 |
-| Gastrointestinal Disorders |  |  |
-| Constipation | 3 | 2 |
-| Dry Mouth | 2 | 1 |
-| Dyspepsia | 3 | 1 |
-| Flatulence | 2 | 0 |
-| Nausea | 7 | 5 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 4 | 3 |
-| Investigations |  |  |
-| Weight Increased | 2 | 0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia | 3 | 1 |
-| Nervous System Disorders |  |  |
-| Dizziness | 12 | 6 |
-| Headache | 9 | 4 |
-| Paraesthesia | 2 | 1 |
-| Somnolence | 8 | 3 |
-| Psychiatric Disorders |  |  |
-| Euphoric Mood | 2 | 0 |
-| Insomnia | 3 | 1 |
-
 Other Adverse Reactions Observed During the Clinical Studies of LYRICA
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with LYRICA during all clinical trials.
@@ -293,27 +257,27 @@ The listing does not include those events already listed in the previous tables 
 Events are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 Events of major clinical importance are described in the Warnings and Precautions section (5).
 
-Body as a Whole – Frequent: Abdominal pain, Allergic reaction, Fever, Infrequent: Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Rare: Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock
+Body as a Whole –Frequent: Abdominal pain, Allergic reaction, Fever, Infrequent: Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Rare: Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock
 
-Cardiovascular System – Infrequent: Deep thrombophlebitis, Heart failure, Hypotension, Postural hypotension, Retinal vascular disorder, Syncope; Rare: ST Depressed, Ventricular Fibrillation
+Cardiovascular System –Infrequent: Deep thrombophlebitis, Heart failure, Hypotension, Postural hypotension, Retinal vascular disorder, Syncope; Rare: ST Depressed, Ventricular Fibrillation
 
-Digestive System – Frequent: Gastroenteritis, Increased appetite; Infrequent: Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare: Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
+Digestive System –Frequent: Gastroenteritis, Increased appetite; Infrequent: Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare: Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
 
-Hemic and Lymphatic System – Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia
+Hemic and Lymphatic System –Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia
 
-Metabolic and Nutritional Disorders – Rare: Glucose Tolerance Decreased, Urate Crystalluria
+Metabolic and Nutritional Disorders –Rare: Glucose Tolerance Decreased, Urate Crystalluria
 
-Musculoskeletal System – Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
+Musculoskeletal System –Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
 
-Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypesthesia, Libido decreased, Nystagmus, Paresthesia, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
+Nervous System –Frequent: Anxiety, Depersonalization, Hypertonia, Hypesthesia, Libido decreased, Nystagmus, Paresthesia, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
 
-Respiratory System – Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
+Respiratory System –Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
 
-Skin and Appendages – Frequent: Pruritus, Infrequent: Alopecia, Dry skin, Eczema, Hirsutism, Skin ulcer, Urticaria, Vesiculobullous rash; Rare: Angioedema, Exfoliative dermatitis, Lichenoid dermatitis, Melanosis, Nail Disorder, Petechial rash, Purpuric rash, Pustular rash, Skin atrophy, Skin necrosis, Skin nodule, Stevens-Johnson syndrome, Subcutaneous nodule
+Skin and Appendages –Frequent: Pruritus, Infrequent: Alopecia, Dry skin, Eczema, Hirsutism, Skin ulcer, Urticaria, Vesiculobullous rash; Rare: Angioedema, Exfoliative dermatitis, Lichenoid dermatitis, Melanosis, Nail Disorder, Petechial rash, Purpuric rash, Pustular rash, Skin atrophy, Skin necrosis, Skin nodule, Stevens-Johnson syndrome, Subcutaneous nodule
 
-Special senses – Frequent: Conjunctivitis, Diplopia, Otitis media, Tinnitus; Infrequent: Abnormality of accommodation, Blepharitis, Dry eyes, Eye hemorrhage, Hyperacusis, Photophobia, Retinal edema, Taste loss, Taste perversion; Rare: Anisocoria, Blindness, Corneal ulcer, Exophthalmos, Extraocular palsy, Iritis, Keratitis, Keratoconjunctivitis, Miosis, Mydriasis, Night blindness, Ophthalmoplegia, Optic atrophy, Papilledema, Parosmia, Ptosis, Uveitis
+Special senses –Frequent: Conjunctivitis, Diplopia, Otitis media, Tinnitus; Infrequent: Abnormality of accommodation, Blepharitis, Dry eyes, Eye hemorrhage, Hyperacusis, Photophobia, Retinal edema, Taste loss, Taste perversion; Rare: Anisocoria, Blindness, Corneal ulcer, Exophthalmos, Extraocular palsy, Iritis, Keratitis, Keratoconjunctivitis, Miosis, Mydriasis, Night blindness, Ophthalmoplegia, Optic atrophy, Papilledema, Parosmia, Ptosis, Uveitis
 
-Urogenital System – Frequent: Anorgasmia, Impotence, Urinary frequency, Urinary incontinence; Infrequent: Abnormal ejaculation, Albuminuria, Amenorrhea, Dysmenorrhea, Dysuria, Hematuria, Kidney calculus, Leukorrhea, Menorrhagia, Metrorrhagia, Nephritis, Oliguria, Urinary retention, Urine abnormality; Rare: Acute kidney failure, Balanitis, Bladder Neoplasm, Cervicitis, Dyspareunia, Epididymitis, Female lactation, Glomerulitis, Ovarian disorder, Pyelonephritis
+Urogenital System –Frequent: Anorgasmia, Impotence, Urinary frequency, Urinary incontinence; Infrequent: Abnormal ejaculation, Albuminuria, Amenorrhea, Dysmenorrhea, Dysuria, Hematuria, Kidney calculus, Leukorrhea, Menorrhagia, Metrorrhagia, Nephritis, Oliguria, Urinary retention, Urine abnormality; Rare: Acute kidney failure, Balanitis, Bladder Neoplasm, Cervicitis, Dyspareunia, Epididymitis, Female lactation, Glomerulitis, Ovarian disorder, Pyelonephritis
 
 Comparison of Gender and Race
 
