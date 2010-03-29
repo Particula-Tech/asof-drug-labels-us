@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021689"
+  ],
+  "inn": "esomeprazole",
+  "labeler": "AstraZeneca LP",
+  "package_ndcs": [
+    "0186-6020-01",
+    "0186-6040-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "esomeprazole sodium",
+      "name": "NEXIUM"
+    }
+  ],
+  "setid": "c325bbfc-46f3-471e-7bbc-ed0d6965d13b",
+  "source": "dailymed"
+}
