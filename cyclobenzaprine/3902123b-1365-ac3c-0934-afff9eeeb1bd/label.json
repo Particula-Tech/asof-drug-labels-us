@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021777"
+  ],
+  "inn": "cyclobenzaprine",
+  "labeler": "Cephalon, Inc.",
+  "package_ndcs": [
+    "63459-700-11",
+    "63459-700-15",
+    "63459-700-60",
+    "63459-701-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "cyclobenzaprine hydrochloride",
+      "name": "AMRIX"
+    }
+  ],
+  "setid": "3902123b-1365-ac3c-0934-afff9eeeb1bd",
+  "source": "dailymed"
+}
