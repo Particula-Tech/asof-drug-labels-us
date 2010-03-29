@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021518"
+  ],
   "inn": "solifenacin",
-  "labeler": "Astellas Pharma US, Inc.",
+  "labeler": "Astellas Pharma Technologies, Inc.",
   "package_ndcs": [
     "51248-150-01",
     "51248-150-03",
@@ -10,7 +12,13 @@
     "51248-151-03",
     "51248-151-52"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "solifenacin succinate",
+      "name": "VESIcare"
+    }
+  ],
   "setid": "9acee910-cdb2-4052-b8b3-c26aff1c8716",
   "source": "dailymed"
 }

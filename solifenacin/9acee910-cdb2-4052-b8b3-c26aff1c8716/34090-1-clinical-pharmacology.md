@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY
 
 Solifenacin is a competitive muscarinic receptor antagonist.
 Muscarinic receptors play an important role in several major cholinergically mediated functions, including contractions of urinary bladder smooth muscle and stimulation of salivary secretion.

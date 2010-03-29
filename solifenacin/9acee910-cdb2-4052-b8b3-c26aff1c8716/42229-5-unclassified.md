@@ -1,4 +1,4 @@
-# Supplemental Patient Material
+# Patient Information
 
 VESIcare® - (VES-ih-care) (solifenacin succinate)
 
@@ -135,7 +135,7 @@ more information, talk with your doctor.
 You can ask your doctor or pharmacist for information
 
 about VESIcare that is written for health professionals.
-You can also call (866) 972-4636 toll
+You can also call (800) 727-7003 toll
 
 free, or visit www.VESIcare.com.
 
@@ -171,4 +171,6 @@ North Carolina 27709
 
 © 2005 Astellas Pharma US, Inc.
 
-& GlaxoSmithKline 05152008VES/Revised: May 2008
+& GlaxoSmithKline Revised: November 2008
+
+01232008VES

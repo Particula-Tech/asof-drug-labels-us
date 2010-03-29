@@ -27,7 +27,7 @@ Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Pl
 | Number of Incontinence Episodes/24 hoursSecondary endpoint |  |  |  |
 | Baseline Reduction P value vs. placebo | 2.7 (0.23)0.8 (0.18) | 2.6 (0.22)1.4 (0.15)<0.01 | 2.6 (0.23)1.5 (0.18)<0.01 |
 | Volume Voided per micturition [mL] |  |  |  |
-| Baseline Increase P value vs. placebo | 143.8(3.37)7.4 (2.28) | 149.6 (3.35)32.9 (2.92)<0.001 | 147.2 (3.15)39.2 (3.11)<0.001 |
+| Baseline Increase P value vs. placebo | 143.8 (3.37)7.4 (2.28) | 149.6 (3.35)32.9 (2.92)<0.001 | 147.2 (3.15)39.2 (3.11)<0.001 |
 
 Table 3.
 Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Placebo: 905-CL-018

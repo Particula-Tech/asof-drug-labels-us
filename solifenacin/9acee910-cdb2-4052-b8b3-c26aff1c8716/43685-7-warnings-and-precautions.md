@@ -1,4 +1,4 @@
-# Precautions
+# PRECAUTIONS
 
 ## Bladder Outflow Obstruction
 
@@ -50,11 +50,9 @@ No increase in tumors was found following the administration of solifenacin succ
 
 Solifenacin succinate had no effect on reproductive function, fertility or early embryonic development of the fetus in male and female mice treated with 250 mg/kg/day (13 times exposure at the MRHD) of solifenacin succinate, and in male rats treated with 50 mg/kg/day (<1 times exposure at the MRHD) and female rats treated with 100 mg/kg/day (1.7 times exposure at the MRHD) of solifenacin succinate.
 
-## Pregnancy
+## Pregnancy Teratogenic Effects, Pregnancy Category
 
-### Teratogenic Effects, Pregnancy Category
-
-#### Pregnancy Category C
+### Pregnancy Category C
 
 Reproduction studies have been performed in mice, rats and rabbits.
 After oral administration of 14C-solifenacin succinate to pregnant mice, drug-related material was shown to cross the placental barrier.
