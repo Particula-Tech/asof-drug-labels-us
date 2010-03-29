@@ -1,11 +1,11 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Mechanism of Action
+## 12.1 Mechanism of Action
 
 The mechanism of action through which ibuprofen causes closure of a patent ductus arteriosus (PDA) in neonates is not known.
 In adults, ibuprofen is an inhibitor of prostaglandin synthesis.
 
-Pharmacokinetic and Bioavailability Studies
+## 12.2 Pharmacokinetics and Bioavailability Studies
 
 The pharmacokinetic data were obtained from 54 NeoProfen-treated premature infants included in a double-blind, placebo-controlled, randomized, multicenter study.
 Infants were less than 30 weeks gestational age, weighed between 500 and 1000 g, and exhibited asymptomatic PDA with evidence of echocardiographic documentation of ductal shunting.

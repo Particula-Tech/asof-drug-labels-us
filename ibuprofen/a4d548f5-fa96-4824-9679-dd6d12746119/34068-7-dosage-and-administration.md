@@ -1,16 +1,17 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-For intravenous administration only.
+## 2.1 Recommended Dose
 
 A course of therapy is three doses of NeoProfen administered intravenously (administration via an umbilical arterial line has not been evaluated).
 An initial dose of 10 mg per kilogram is followed by two doses of 5 mg per kilogram each, after 24 and 48 hours.
 All doses should be based on birth weight.
-If anuria or marked oliguria (urinary output <0.6 mL/kg/hr) is evident at the scheduled time of the second or third dose of NeoProfen, no additional dosage should be given until laboratory studies indicate that renal function has returned to normal.
+If anuria or marked oliguria (urinary output 0.6 mL/kg/hr) is evident at the scheduled time of the second or third dose of NeoProfen, no additional dosage should be given until laboratory studies indicate that renal function has returned to normal.
 If the ductus arteriosus closes or is significantly reduced in size after completion of the first course of NeoProfen, no further doses are necessary.
 If during continued medical management the ductus arteriosus fails to close or reopens, then a second course of NeoProfen, alternative pharmacological therapy, or surgery may be necessary.
 
-Directions for Use
+## 2.2 Directions for Use
 
+For intravenous administration only.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 For administration, NeoProfen should be diluted to an appropriate volume with dextrose or saline.

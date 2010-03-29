@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021903"
+  ],
   "inn": "ibuprofen",
-  "labeler": "Ovation Pharmaceuticals",
+  "labeler": "Lundbeck Inc.",
   "package_ndcs": [
     "67386-122-52"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ibuprofen lysine",
+      "name": "NeoProfen"
+    }
+  ],
   "setid": "a4d548f5-fa96-4824-9679-dd6d12746119",
   "source": "dailymed"
 }

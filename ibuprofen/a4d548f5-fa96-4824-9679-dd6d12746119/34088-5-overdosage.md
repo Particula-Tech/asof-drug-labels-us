@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 The following signs and symptoms have occurred in individuals (not necessarily in premature infants) following an overdose of oral ibuprofen: breathing difficulties, coma, drowsiness, irregular heartbeat, kidney failure, low blood pressure, seizures, and vomiting.
 There are no specific measures to treat acute overdosage with NeoProfen.
