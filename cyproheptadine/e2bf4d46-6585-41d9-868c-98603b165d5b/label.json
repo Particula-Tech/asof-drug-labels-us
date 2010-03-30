@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040668"
+  ],
   "inn": "cyproheptadine",
   "labeler": "Rising Pharmaceuticals, Inc.",
   "package_ndcs": [
     "64980-504-48"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "cyproheptadine hydrochloride",
+      "name": "Cyproheptadine Hydrochloride"
+    }
+  ],
   "setid": "e2bf4d46-6585-41d9-868c-98603b165d5b",
   "source": "dailymed"
 }
